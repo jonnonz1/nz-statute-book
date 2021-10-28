@@ -1,5 +1,5 @@
 # Energy Resources Levy Act 1976
-_Consolidation as at 2017-03-01_
+_Consolidation as at 2021-10-28_
 
 > An Act to make provision for the imposition, assessment, and collection of a levy on certain energy resources produced in New Zealand
 
@@ -49,14 +49,14 @@ This Act shall bind the Crown.
 
 ### 5 Rates of levy may be altered by Order in Council
 (1) The Governor-General may from time to time, by Order in Council, reduce or increase any or all of the rates of levy specified in subsection (2) of section 4:provided that no such rate may be increased under this subsection to such an extent that it would exceed the rate specified in that subsection (2).
+(2) An order under this section—
+  (a) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements); and
+  (b) must be confirmed by an Act (see subpart 3 of Part 5 of the Legislation Act 2019).
 (2)
 (3)
 
 ### 5A Orders are confirmable instruments
-The explanatory note of an Order in Council made under section 5(1) must indicate that—
-  (a) it is a confirmable instrument under section 47B of the Legislation Act 2012; and
-  (b) it is revoked at a time stated in the note, unless earlier confirmed by an Act of Parliament; and
-  (c) the stated time is the applicable deadline under section 47C(1)﻿(a) or (b) of that Act.
+[Repealed]
 
 ### 6 Exemptions from levy
 (1) Notwithstanding section 4, the levy shall not be payable on—
@@ -67,9 +67,10 @@ The explanatory note of an Order in Council made under section 5(1) must indicat
   (b) where the total weight of all coal that is produced during a particular month and the levy on which would be payable by the same person does not exceed 10 tonnes, no levy shall be payable on that coal.
 
 ### 7 Levy on certain energy resources may be remitted or reduced by Order in Council
-The Governor-General may, from time to time and in respect of any particular energy resource that in his opinion would not be produced if a levy at the rate specified in section 4, or, as the case may be, in an Order in Council under section 5, were payable thereon, prescribe by Order in Council that, subject to such conditions as are specified in the Order in Council,—and every such Order in Council shall have effect according to its tenor. The Governor-General may in like manner vary or revoke any such Order in Council.
+(1) The Governor-General may, from time to time and in respect of any particular energy resource that in his opinion would not be produced if a levy at the rate specified in section 4, or, as the case may be, in an Order in Council under section 5, were payable thereon, prescribe by Order in Council that, subject to such conditions as are specified in the Order in Council,—and every such Order in Council shall have effect according to its tenor. The Governor-General may in like manner vary or revoke any such Order in Council.
   (a) no levy shall be payable on that energy resource; or
   (b) a levy at the rate specified in the Order in Council (being a rate lower than that specified in the said section 4, or, as the case may be, in the Order in Council under the said section 5) shall be payable on that energy resource—
+(2) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ## Part 2 — Returns
 
@@ -253,6 +254,12 @@ Where there is disagreement between the Secretary and any person as to whether a
   (b) prescribing, or providing that the Secretary or any other specified person may prescribe in relation to any particular case or any class or classes of cases, the times, places, manner, and equipment in, at, or by which energy resources shall be weighed or measured for the purposes of this Act; and prescribing that any such equipment shall be inspected or tested at reasonable intervals and the methods of such inspection or testing and the persons who shall conduct them; and providing that the Secretary or any other specified person may inspect or test any such equipment at any reasonable time and may enter upon any land or premises for that purpose; and prescribing that reasonable notice of the installation, alteration, replacement, or adjustment of any such equipment shall be given to the Secretary or any other specified person; and prescribing the time, place, manner, equipment, and person or persons in, at, or by which or whom any energy resource on which no levy is payable may be weighed, measured, or estimated for the purposes of this Act:
   (c) providing for such other matters, not inconsistent with this Act, as are contemplated by or necessary for giving full effect to the provisions of this Act and for its due administration.
 (2) Any regulations made under this section may provide that they shall come into force or shall be deemed to have come into force on a date to be specified therein, whether that date is before or after the date of the making of the regulations.
+(3) Regulations under this section—
+  (a) are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements); but
+  (b) commence in accordance with subsection (2), even if they are not yet published.
+(4) If the regulations under subsection (1)﻿(b) provide that the Secretary or another person may prescribe any matter,—
+  (a) an instrument prescribing any of those matters is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements), unless it applies only to a particular case; and
+  (b) the regulations must contain a statement to that effect.
 
 ### 38 Amendments to Ministry of Energy Resources Act 1972
 [Repealed]
