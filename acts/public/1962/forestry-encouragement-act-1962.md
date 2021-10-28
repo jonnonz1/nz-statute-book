@@ -1,5 +1,5 @@
 # Forestry Encouragement Act 1962
-_Consolidation as at 2018-11-12_
+_Consolidation as at 2021-10-28_
 
 > An Act to authorise the making of loans, out of money appropriated by Parliament for the purpose, for the establishment and maintenance of farm woodlots and forest plantations
 
@@ -21,7 +21,9 @@ This Act may be cited as the Forestry Encouragement Act 1962.
 
 ### 4 Notice of conditions
 (1) The terms and conditions upon which applications for advances under this Act will be considered, and the dates by which applications must be received, shall be in accordance with regulations made under this Act, or (in default of any such regulations and so far as any such regulations do not extend) in accordance with the directions of the Minister.
-(2) The Minister may from time to time publicly advertise such of the said terms, conditions, and dates as he thinks fit, by notice in the Gazette or otherwise.
+(2) The following are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements):
+  (a) regulations under this section:
+  (b) directions under this section.
 
 ### 5 Forestry encouragement agreements
 (1) The Minister may enter into a forestry encouragement agreement with the owner or lessee of any land on which trees have been or are to be planted and in respect of which the Minister has made or proposes to make an advance under section 3:provided that no such agreement shall be entered into with the lessee of any land without the prior consent in writing of the owner of the land.
