@@ -1,5 +1,5 @@
 # Hotel Association of New Zealand Act 1969
-_Consolidation as at 2017-03-01_
+_Consolidation as at 2021-10-28_
 
 > An Act to constitute the Hotel Association of New Zealand and to provide for the assistance and control of its members
 
@@ -81,8 +81,9 @@ It shall be lawful for the association—
   (l) a code of ethics for regulating the business conduct of members of the association:
   (m) the procedure whereby rules may be made or amended:
   (n) generally for carrying into full effect the purposes of the association.
-(2) No rules made under paragraph (h) or paragraph (l) of subsection (1) shall come into force until they have been approved by the Minister.
+(2) The association must not make rules under subsection (1)﻿(h) or (l) unless the proposed rules have been approved by the Minister.
 (3) All sums payable pursuant to rules made under paragraph (h) of subsection (1) shall be debts due from the member to the association, and shall be recoverable accordingly.
+(4) Rules under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 **Disciplinary provisions**
 
