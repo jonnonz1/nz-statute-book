@@ -1,5 +1,5 @@
 # Ngāruahine Claims Settlement Act 2016
-_Consolidation as at 2021-01-30_
+_Consolidation as at 2021-10-28_
 
 ### 1 Title
 This Act is the Ngāruahine Claims Settlement Act 2016.
@@ -618,22 +618,24 @@ The protection principles are intended to prevent the values stated in the state
 (3) The amendment is an amendment for the purposes of section 17I(1) to (3) of the Conservation Act 1987 or section 46(1) to (4) of the National Parks Act 1980.
 
 ### 52 Regulations
-The Governor-General may, by Order in Council made on the recommendation of the Minister of Conservation, make regulations for 1 or more of the following purposes:
+(1) The Governor-General may, by Order in Council made on the recommendation of the Minister of Conservation, make regulations for 1 or more of the following purposes:
   (a) to provide for the implementation of objectives included in a strategy or plan under section 51(1):
   (b) to regulate or prohibit activities or conduct by members of the public in relation to a Whāriki o Ngāruahine area:
   (c) to create offences for breaches of regulations made under paragraph (b):
   (d) to prescribe the following fines for an offence referred to in paragraph (c):
     (i) a fine not exceeding $5,000; and
     (ii) if the offence is a continuing one, an additional amount not exceeding $500 for every day on which the offence continues.
+(2) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 53 Bylaws
-The Minister of Conservation may make bylaws for 1 or more of the following purposes:
+(1) The Minister of Conservation may make bylaws for 1 or more of the following purposes:
   (a) to provide for the implementation of objectives included in a strategy or plan under section 51(1):
   (b) to regulate or prohibit activities or conduct by members of the public in relation to a Whāriki o Ngāruahine area:
   (c) to create offences for breaches of bylaws made under paragraph (b):
   (d) to prescribe the following fines for an offence referred to in paragraph (c):
     (i) a fine not exceeding $5,000; and
     (ii) if the offence is a continuing one, an additional amount not exceeding $500 for every day on which the offence continues.
+(2) Bylaws under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 54 Effect of Whāriki o Ngāruahine on Whāriki o Ngāruahine areas
 (1) This section applies if, at any time, Whāriki o Ngāruahine applies to any land in—
@@ -653,6 +655,7 @@ The Minister of Conservation may make bylaws for 1 or more of the following purp
 (3) The Crown must take reasonable steps to ensure that the trustees continue to have input into the management of a relevant area if—
   (a) subsection (2)﻿(c) applies; or
   (b) there is a change in the statutory management regime that applies to all or part of the Whāriki o Ngāruahine area.
+(4) The Minister of Conservation must ensure that an order under this section is published in the Gazette.
 
 ### 56 Exercise of powers and performance of functions and duties
 (1) Whāriki o Ngāruahine does not affect, and must not be taken into account by, any person exercising a power or performing a function or duty under an enactment or a bylaw.
