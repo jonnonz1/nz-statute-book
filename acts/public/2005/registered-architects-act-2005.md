@@ -1,5 +1,5 @@
 # Registered Architects Act 2005
-_Consolidation as at 2020-08-07_
+_Consolidation as at 2021-10-28_
 
 ### 1 Title
 This Act is the Registered Architects Act 2005.
@@ -484,6 +484,7 @@ The financial year of the Board ends on 30 June or on any other date determined 
   (a) are necessary or desirable to govern the practice and procedure of the Board’s functions under this Act; or
   (b) the Board considers to be desirable in the interests of natural justice.
 (4) The rules must be consistent with this Act.
+(5) Rules under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 68 Particular requirements for preparation and approval of rules
 In preparing a rule, the Board must—
@@ -524,7 +525,7 @@ If the Minister declines to approve a rule,—
 The requirements of sections 68 to 71 that apply to making a rule containing a registered architects standard apply also to any amendment or revocation of that rule.
 
 ### 74 Application of Legislation Act 2012 to rules
-The rules are a legislative instrument and a disallowable instrument for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
+[Repealed]
 
 ## Part 4 — Miscellaneous provisions
 
@@ -545,7 +546,8 @@ A certificate as to any of the following matters, given in writing by any person
 (2) For the purposes of this section, fine does not include a fine imposed in respect of the commission of an offence against a provision of this Act.
 
 ### 77 Regulations
-The Governor-General may, by Order in Council on the recommendation of the Minister given after consultation with the Board, make regulations providing for any matters contemplated by this Act, necessary for its administration, or necessary for giving it full effect.
+(1) The Governor-General may, by Order in Council on the recommendation of the Minister given after consultation with the Board, make regulations providing for any matters contemplated by this Act, necessary for its administration, or necessary for giving it full effect.
+(2) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 **Transitional and consequential provisions: Outline**
 
