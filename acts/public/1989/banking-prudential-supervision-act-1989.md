@@ -1,5 +1,5 @@
 # Reserve Bank of New Zealand Act 1989
-_Consolidation as at 2021-05-11_
+_Consolidation as at 2021-10-28_
 
 > Title
 
@@ -42,7 +42,7 @@ _Consolidation as at 2021-05-11_
     (a) an insurer that issues, or is liable under, life policies within the meaning of section 6(1) of the Insurance (Prudential Supervision) Act 2010; and includes any branch, division, or office of that insurer; and
     (b) a building society as defined in section 2 of the Building Societies Act 1965; and
     (c) a registered bank; and
-    (d) a specified person or class of persons (including a body or bodies of persons, whether incorporated or not) who is or are declared by the Governor-General, by Order in Council, to be a financial institution or institutions for the purposes of this Act
+    (d) a specified person or class of persons (including a body or bodies of persons, whether incorporated or not) who is or are declared by the Governor-General, by Order in Council, to be a financial institution or institutions for the purposes of this Act (see subsection (5))
   - **financial product** has the same meaning as in section 7 of the Financial Markets Conduct Act 2013
   - **financial year** has the meaning given to it by section 157
   - **FMA** means the Financial Markets Authority established under Part 2 of the Financial Markets Authority Act 2011
@@ -135,6 +135,7 @@ _Consolidation as at 2021-05-11_
 (4) For the purposes of Part 5, a holding company of a registered bank has a substantial interest in a body if—
   (a) that holding company directly or indirectly controls the management of that body; or
   (b) that holding company has a direct or indirect qualifying interest in 20% or more of the voting securities issued by that body.
+(5) An Order in Council under paragraph (d) of the definition of financial institution in subsection (1) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 3 Interpretation of provisions relating to false or misleading information
 For the purposes of this Act, a reference to information or data that is false or misleading includes a reference to information or data that is false or misleading by reason of—
@@ -201,6 +202,7 @@ Part 1 of Schedule 2 provides for other matters relating to the remit.
 (3) While the Order in Council is in force,—
   (a) the MPC must formulate, and the Bank must implement, monetary policy in accordance with the economic objective or objectives specified in the Order in Council; and
   (b) the MPC and the Bank must disregard either or both of the economic objectives specified in section 8 if so required by the Order in Council.
+(4) An Order in Council under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 13 Order must include replacement remit
 (1) The order under section 12 must include a remit that will remain in force while the order is in force (in place of the remit that is suspended under section 14).
@@ -216,10 +218,12 @@ Part 1 of Schedule 2 provides for other matters relating to the remit.
 ### 15 Period may be extended
 (1) The Governor-General may, by Order in Council, on the advice of the Minister, extend the period specified in an order under section 12 for a period not exceeding 12 months, and may in the same manner extend that period on successive occasions.
 (2) An extension may only be made before the end of the period to be extended.
+(3) An Order in Council under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 15A Revocation of order
 (1) An order under section 12 may be revoked at any time.
 (2) If the order is not revoked under subsection (1), the order is revoked on the close of the last day of the period specified in the order or of any extension of that period under section 15.
+(3) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 15B Functions under sections 8 and 9 not affected
 (1) Nothing in this Act or in any other Act limits or affects the obligation of the MPC or the Bank to carry out the functions under sections 8 and 9 (or under an order under section 12).
@@ -267,6 +271,7 @@ For the purposes of performing its functions and fulfilling its obligations unde
 (3) The Minister may from time to time, by notice in writing to the Bank, vary or revoke any direction given under subsection (1).
 (4) The Minister shall not give a direction under subsection (1) unless the Minister has been authorised to do so by the Governor-General by Order in Council within 30 days before the direction is given and a separate authorisation shall be required for each separate occasion on which a direction is given.
 (5) The Minister shall give notice in the Gazette of the fact that a direction has been given and that a direction has been revoked.
+(6) An Order in Council under subsection (4) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 19 Effect of directions on operational objectives
 (1) This section applies if the Governor considers that giving effect to a direction under section 17 or 18 (while not being inconsistent with the economic objectives of monetary policy) would be inconsistent with 1 or more operational objectives set out in a remit.
@@ -298,6 +303,7 @@ For the purposes of performing its functions and fulfilling its obligations unde
   (b) by notice in writing given by the Governor to all registered banks.
 (4) An obligation on a person to do a thing on a day on which that person is prevented from doing it by a notice under this section, or is unable to do it by reason of any such notice, shall be deemed to be complied with if that person does it as soon as practicable after the notice is revoked.
 (5) Where any transaction to which a notice issued under this section applies is subject to the Bills of Exchange Act 1908 or the Banking Act 1982, then, in relation to that transaction, every day on which the notice remains in force shall be deemed to be a non-business day for the purposes of the Bills of Exchange Act 1908.
+(6) An Order in Council under subsection (3)﻿(a) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 23 Bank to advise Minister on foreign exchange matters
 The Bank shall, from time to time, advise the Minister on—
@@ -818,8 +824,7 @@ The MPC must—
 The charter must be published on an Internet site maintained by, or on behalf of, the Bank.
 
 ### 63I Status of charter
-(1) A charter issued under section 63F (or clause 6 of Schedule 1) is neither a legislative instrument nor a disallowable instrument for the purposes of the Legislation Act 2012 and does not have to be presented to the House of Representatives under section 41 of that Act.
-(2) However, an Order in Council under clause 7 of Schedule 1 is a legislative instrument and a disallowable instrument for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
+[Repealed]
 
 ### 63J Code of conduct
 (1) A code of conduct for the members of the MPC must be approved by the Board.
@@ -845,7 +850,7 @@ The charter must be published on an Internet site maintained by, or on behalf of
 
 ### 63L Publication and status of code
 (1) The code of conduct must be published on an Internet site maintained by, or on behalf of, the Bank.
-(2) The code is neither a legislative instrument nor a disallowable instrument for the purposes of the Legislation Act 2012 and does not have to be presented to the House of Representatives under section 41 of that Act.
+(2)
 
 ### 63M Other matters
 The provisions set out in Part 2 of Schedule 2 regulate other matters relating to the MPC and its members.
@@ -902,9 +907,9 @@ The provisions set out in Part 2 of Schedule 2 regulate other matters relating t
   (b) impose both of the following conditions:
     (i) the condition that the person use a particular name or title approved by the Bank; and
     (ii) the condition that the person carry on in New Zealand only those activities specified by the Bank in the notice.
-(3) In the case of an authorisation under subsection (1)﻿(b), the Bank must—
-  (a) give the authorisation by notice in the Gazette ; and
-  (b) impose the condition that each member of the class of persons carries on in New Zealand only those activities specified by the Bank in the notice in the Gazette in respect of the class to which that member belongs.
+(3) In the case of an authorisation under subsection (1)﻿(b),—
+  (a) the authorisation is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements); and
+  (b) the Bank must impose the condition that each member of the class of persons carries on in New Zealand only those activities specified by the Bank in the authorisation in respect of the class to which that member belongs.
 (4) In the case of an authorisation under subsection (1)﻿(c) to (f), the Bank must—
   (a) give the authorisation by notice in writing to the person; and
   (b) impose the condition that the person uses a particular name or title approved by the Bank.
@@ -1076,6 +1081,7 @@ The powers conferred on the Governor-General, the Minister, and the Bank by this
 (3) The Bank must, to the extent it considers reasonably practicable in the circumstances having regard to urgency or other similar constraint, consult with and consider the advice of every prescribed Australian financial authority it considers to be relevant in the circumstances before taking the proposed action.
 (4) No performance of a function or duty or exercise of a power is invalid by reason only of a failure to comply with the provisions of this section.
 (5) The Governor-General may, by Order in Council, on the advice of the Minister given in accordance with a recommendation of the Bank, make regulations prescribing Australian financial authorities for the purposes of this section and section 121A.
+(6) Regulations under subsection (5) are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 68B Bank to have regard to directions about government policy objectives
 (1) The Minister may direct the Bank to have regard to a government policy that relates to the Bank’s functions under this Part and Parts 5B and 5C.
@@ -1104,10 +1110,11 @@ The powers conferred on the Governor-General, the Minister, and the Bank by this
 (1) Any person may apply to the Bank to be registered as a registered bank.
 (2) Applications to be registered as a registered bank shall be—
   (a) made in such manner as may be specified by the Bank; and
-  (b) accompanied by payment of such fee as may be determined by the Bank from time to time and approved by the Minister by notice in the Gazette.
+  (b) accompanied by payment of such fee as may be determined by the Bank from time to time with the approval of the Minister.
 (3) Every person who makes an application under this section shall furnish to the Bank such information as may be required by the Bank to assist it in determining the application.
 (4) A person commits an offence if the person provides false or misleading information to the Bank for the purposes of an application.
 (5) The penalty for an offence against this section is set out in section 156AC.
+(6) A determination under subsection (2)﻿(b) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 71 Voluntary removal of name from register
 (1) A registered bank may, by notice in writing, require the Bank to remove the name of that registered bank from the register on a date specified in the notice, not being a date earlier than 28 days, or such shorter period as the Bank may agree to, after the date the notice is given.
@@ -1146,6 +1153,7 @@ The powers conferred on the Governor-General, the Minister, and the Bank by this
   (g) any other matters that may be prescribed in regulations.
 (3) For the purposes of subsection (2)﻿(g), the Governor-General may, from time to time, by Order in Council, on the advice of the Minister given in accordance with a recommendation of the Bank, make regulations prescribing additional matters to which the Bank shall have regard in considering applications for registration.
 (4) The Bank shall give notice in the Gazette of the registration of any person as a registered bank under this section.
+(5) Regulations under subsection (3) are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 73A Further matters to which Bank must have regard if applicant is overseas person
 In determining an application from an overseas person, the Bank must, in addition to the matters set out in section 73(2), have regard to all of the following:
@@ -1258,6 +1266,7 @@ Nothing in section 77A invalidates any contract, or transfer of ownership, made 
   (g) such other matters as may from time to time be prescribed in regulations.
 (2) The Governor-General may, from time to time, by Order in Council, on the advice of the Minister given in accordance with a recommendation of the Bank, make regulations prescribing additional matters for the purposes of subsection (1)﻿(g).
 (3) The Governor may, from time to time, issue, in such manner as the Governor may determine, guidelines for the purpose of interpreting any of the matters referred to in paragraphs (c) to (g) of subsection (1).
+(4) Regulations under subsection (2) are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 79 Annual fee
 [Repealed]
@@ -1284,8 +1293,8 @@ Nothing in section 77A invalidates any contract, or transfer of ownership, made 
   (b) the financial matters of a registered bank; and
   (c) the prudential matters of a registered bank; and
   (d) any other matters relating to the business, operation, and management of a registered bank.
-(4) The Order in Council must be published in the Gazette.
-(5) An Order in Council made under this section is a disallowable instrument, but not a legislative instrument, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
+(4) An Order in Council under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+(5)
 
 ### 81AA Further matters that may be prescribed
 (1) An Order in Council made under section 81 may, in addition to the matters referred to in section 81(3), require a registered bank to disclose information or data—
@@ -1770,6 +1779,7 @@ A direction given under section 113 may require a registered bank or an associat
   (b) section 103 (which sets out offences in relation to investigations); and
   (c) section 104 (which sets out the requirements that must be complied with by a person carrying out an investigation).
 (7) Subsections (1)﻿(a) and (2) are subject to section 139J(4).
+(8) An Order in Council under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 118 Grounds on which registered bank may be declared to be subject to statutory management
 (1) The Bank must not make a recommendation under section 117 unless—
@@ -1940,7 +1950,7 @@ The matters referred to in section 122C(3)﻿(b) are that—
   (a) publish any notice issued under section 122C on an Internet site maintained by, or on behalf of, the Bank; and
   (b) notify the issue of the notice in the Gazette.
 (2) The notice may take effect at any time after it is published under subsection (1)﻿(a).
-(3) The notice is neither a legislative instrument nor a disallowable instrument for the purposes of the Legislation Act 2012 and does not have to be presented to the House of Representatives under section 41 of that Act.
+(3)
 (4) The notice cannot be varied or revoked.
 
 ### 123 Statutory manager may incorporate company under Companies Act 1993 to acquire business of branch of foreign institution
@@ -1951,6 +1961,7 @@ The matters referred to in section 122C(3)﻿(b) are that—
 (2) The Governor-General may, by Order in Council, on the advice of the Minister, given in accordance with a recommendation of the Bank, declare that the whole or any part of any property, rights, assets, and liabilities of any such branch relating to the business carried on by that branch shall vest in that body corporate on a date specified in the order and the property, rights, assets, and liabilities shall vest in that body corporate on the date specified.
 (3) Nothing in subsection (2) shall reduce, extinguish, or affect any obligation or liability of a body corporate incorporated outside New Zealand or, as the case may be, an unincorporated body having its head office or principal place of business outside New Zealand.
 (4) Every body corporate formed and registered under subsection (1) shall, for the purposes of this Part, be deemed to be a registered bank subject to statutory management as if that body corporate had been declared to be subject to statutory management pursuant to section 117, and the statutory manager of it, in its capacity as a branch, shall be the statutory manager of that body corporate as if that statutory manager had been appointed pursuant to that section and the provisions of this Part shall apply accordingly.
+(5) An Order in Council under subsection (2) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 124 Vesting of property subject to security
 (1) An order may be made under section 123 vesting any property, rights, and assets of a branch in a body corporate formed and registered pursuant to that section notwithstanding the existence, or the terms and conditions, of any security over that property, or those rights or assets, in favour of any other person.
@@ -2059,6 +2070,7 @@ The provisions of any enactment or agreement requiring any consent, licence, per
 (2) The Governor-General may, by Order in Council, on the advice of the Minister given in accordance with a recommendation of a statutory manager of a registered bank, not being a registered bank referred to in subsection (1), order that the registered bank to which the recommendation relates shall be wound up in such manner as may be specified in the order and, in any such case, the registered bank shall be wound up in the manner specified.
 (3) A statutory manager shall not make a recommendation under subsection (2) without the prior approval of the Bank.
 (4) Nothing in this section limits or affects any other enactment which provides for the winding up, liquidation, or dissolution of any body corporate or any class of body corporate.
+(5) An Order in Council under subsection (2) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 137 Provisions applying where liabilities included in sale
 (1) Where all or any part of any liability of a registered bank is included in the sale or other disposition of the business undertaking of that registered bank, or any part of it, pursuant to section 132—
@@ -2148,7 +2160,7 @@ In sections 139A to 139J, covered bond SPV means, in relation to a covered bond 
 (1) Only an issuer may apply to the Bank to register a covered bond programme.
 (2) An application must be—
   (a) made in the manner specified by the Bank; and
-  (b) accompanied by a fee (if any), as determined by the Bank and approved by the Minister by notice in the Gazette.
+  (b) accompanied by a fee (if any), as determined by the Bank with the approval of the Minister.
 (3) The issuer must provide the Bank with any information that the Bank requires to enable it to determine the application.
 (4) An issuer must not issue, or permit the issue of, a covered bond other than under a registered covered bond programme.
 (5) An issuer commits an offence if, without lawful justification or excuse, the issuer—
@@ -2156,6 +2168,7 @@ In sections 139A to 139J, covered bond SPV means, in relation to a covered bond 
   (b) permits the issue of a covered bond other than under a registered covered bond programme; or
   (c) provides information for the purposes of an application that is false or misleading in any material particular.
 (6) The penalty for an offence against this section is set out in section 156AB.
+(7) A determination under subsection (2)﻿(b) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 139F Determination of application for registration of covered bond programme
 (1) The Bank must not register a covered bond programme unless it is satisfied that the requirements set out in subsection (2) are met.
@@ -2180,6 +2193,7 @@ In sections 139A to 139J, covered bond SPV means, in relation to a covered bond 
   (b) specifying persons or partnerships, or classes of persons or partnerships, for the purposes of subsection (2)﻿(a)﻿(ii):
   (c) prescribing additional requirements for the purposes of subsection (2)﻿(g)﻿(ii):
   (d) prescribing conditions in relation to the entities, persons, or partnerships referred to in paragraphs (a) and (b).
+(4) Regulations under subsection (3) are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 139G Bank must approve or decline application
 (1) Having considered an application made under section 139E(2), the Bank must either approve or decline the application.
@@ -2243,6 +2257,7 @@ In sections 139A to 139J, covered bond SPV means, in relation to a covered bond 
 (2) The Governor-General may, by Order in Council, on the advice of the Minister given in accordance with a recommendation of the Bank, make regulations specifying additional matters that the cover pool monitor must be required to report on, and the information to be provided with such a report, for the purposes of subsection (1)﻿(c)﻿(v).
 (3) For the purposes of this section, independent means independent of both the issuer and any associated person of the issuer.
 (4) However, to avoid doubt, a person's appointment as auditor does not affect his, her, or its independence.
+(5) Regulations under subsection (2) are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 **Statutory management, etc, of issuer**
 
@@ -2321,6 +2336,7 @@ In sections 139A to 139J, covered bond SPV means, in relation to a covered bond 
   (a) every subsidiary of that registered bank, except any subsidiary specified in the order, shall cease to be subject to statutory management on the same date as that specified as the date upon which, and at the same time as that specified as the time at which, the registered bank ceases to be subject to statutory management:
   (b) the appointment of any person appointed as a statutory manager of every such subsidiary shall terminate on the date and at the time referred to in paragraph (a):
   (c) the appointment of any person appointed as a member of an advisory committee under section 119 in relation to the statutory management of that subsidiary shall terminate on the date and at the time referred to in paragraph (a).
+(7) An Order in Council under subsection (1) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 145 Obligations incurred by statutory manager
 (1) Any obligations incurred by a statutory manager of a registered bank in the course of his or her duties as statutory manager are incurred by that statutory manager on behalf of the registered bank, and the statutory manager does not incur personal liability for those obligations.
@@ -2362,11 +2378,7 @@ Except as otherwise provided in this Part, no registered bank, associated person
 (4)
 
 ### 152A Regulations are confirmable instruments
-(1) This section applies to regulations made under both of sections 152 and 173, but only if the regulations confer on the Bank, or a statutory manager of a registered bank, ancillary or additional powers necessary or desirable for the purposes of Part 5.
-(2) The explanatory note of the regulations must indicate that—
-  (a) they are a confirmable instrument under section 47B of the Legislation Act 2012; and
-  (b) they are revoked at a time stated in the note, unless earlier confirmed by an Act of Parliament; and
-  (c) the stated time is the applicable deadline under section 47C(1)﻿(a) or (b) of that Act.
+[Repealed]
 
 ### 153 Application of other Acts
 (1) Subject to subsection (2), all the provisions of the Companies Act 1993 and all rules and regulations under that Act shall, so far as they are applicable, and with the necessary modifications, apply to a registered bank that is a company within the meaning of section 2 of that Act and that is subject to statutory management.
@@ -2378,6 +2390,7 @@ Except as otherwise provided in this Part, no registered bank, associated person
 (7) Nothing in sections 76 and 91 to 106 of the Building Societies Act 1965 shall apply to a building society that is subject to statutory management.
 (8) The Governor-General may, from time to time, by Order in Council, on the advice of the Minister given in accordance with the recommendation of the Bank, declare that the provisions of any Act under which any other registered bank that is subject to statutory management is incorporated, constituted, or registered corresponding with the provisions referred to in subsections (4), (7), and (9) shall not apply to that registered bank.
 (9) To avoid doubt, the Bank or any other person is not a director (within the meaning of section 126 of the Companies Act 1993) of any registered bank or an associated person of the registered bank by reason only of the Bank or that other person exercising the powers conferred by this Part.
+(10) An Order in Council under subsection (8) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 154 Appointment of auditors
 (1) The statutory manager of a registered bank must appoint 1 or more persons (whether as individuals or as the members from time to time of any firm or firms) to be the auditor of that registered bank.
@@ -2657,8 +2670,9 @@ For the purposes of this Part, the FMA may exercise its powers under subpart 1 o
 (4) Both of the joint regulators must, as soon as practicable after a settlement system has been declared to be a designated settlement system, post on their respective Internet sites the contact details and the name or title of the contact person of that designated settlement system.
 (5) However, the FMA does not have to comply with subsection (4) if a settlement system is specified to be a pure payment system in accordance with subsection (3)﻿(d).
 (6) To avoid doubt,—
-  (a) rules are neither legislative instruments nor disallowable instruments for the purposes of the Legislation Act 2012 (and do not have to be presented to the House of Representatives under section 41 of that Act); and
+  (a)
   (b) a breach of a condition to which the designation of a settlement system is subject does not affect the application of section 156Q, 156R, 156T, or 156X of this Act or section 103A of the Personal Property Securities Act 1999.
+(7) An Order in Council under subsection (1) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 **Effect of designation**
 
@@ -2777,8 +2791,9 @@ If the rules of a designated settlement system provide for netting, any netting 
   (a) be accompanied by a copy of the rules of the settlement system; and
   (b) be accompanied by any information required by either or both of the joint regulators; and
   (c) set out the contact details and the name or title of the person who is proposed to act as the contact person of the settlement system; and
-  (d) be accompanied by the application fee (if any) that is jointly determined by the joint regulators and approved by both the Minister and the Minister responsible for the Financial Markets Conduct Act 2013 by notice in the Gazette.
+  (d) be accompanied by the application fee (if any) that is jointly determined by the joint regulators with the approval of both the Minister and the Minister responsible for the Financial Markets Conduct Act 2013.
 (4) The joint regulators may, together, produce guidelines relating to the application procedure.
+(5) A determination under subsection (3)﻿(d) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 156Z Consideration of application
 (1) Both of the joint regulators must consider any application made in accordance with section 156Y.
@@ -2823,14 +2838,16 @@ If the rules of a designated settlement system provide for netting, any netting 
 **Variation and revocation of designation**
 
 ### 156ZD Variation of designation
-The Governor-General may, by Order in Council, on the advice of both the Minister and the Minister responsible for the Financial Markets Conduct Act 2013 given in accordance with a joint recommendation of the joint regulators, vary any designation made under section 156N—
+(1) The Governor-General may, by Order in Council, on the advice of both the Minister and the Minister responsible for the Financial Markets Conduct Act 2013 given in accordance with a joint recommendation of the joint regulators, vary any designation made under section 156N—
   (a) by amending any of the matters referred to in section 156N(2)﻿(b) to (d) and (3)﻿(b) to (d); or
   (b) by making the designation subject to a requirement that an amendment be made to the documents that evidence the rules of the settlement system that is the subject of the designation; or
   (c) by revoking or amending any condition to which the designation is subject; or
   (d) by making the designation subject to a new condition.
+(2) An Order in Council under subsection (1) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 156ZE Revocation of designation
-The Governor-General may, by Order in Council, on the advice of both the Minister and the Minister responsible for the Financial Markets Conduct Act 2013 given in accordance with a joint recommendation of the joint regulators, revoke any designation made under section 156N.
+(1) The Governor-General may, by Order in Council, on the advice of both the Minister and the Minister responsible for the Financial Markets Conduct Act 2013 given in accordance with a joint recommendation of the joint regulators, revoke any designation made under section 156N.
+(2) An Order in Council under subsection (1) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 156ZF Settlement and netting not affected by variation or revocation of designation
 The variation or revocation of a designation made under section 156N does not affect the application of sections 156Q, 156R, and 156T to settlements that were effected, and netting that took place, before the variation or revocation.
@@ -2838,7 +2855,8 @@ The variation or revocation of a designation made under section 156N does not af
 ### 156ZG Application for variation or revocation of designation
 (1) A person who wishes to have the designation made under section 156N for a designated settlement system varied or revoked may apply to either of the joint regulators.
 (2) A joint regulator must, as soon as practicable, advise the other joint regulator if it receives an application.
-(3) An application must be accompanied by the application fee (if any) that is jointly determined by the joint regulators and approved by both the Minister and the Minister responsible for the Financial Markets Conduct Act 2013 by notice in the Gazette.
+(3) An application must be accompanied by the application fee (if any) that is jointly determined by the joint regulators with the approval of both the Minister and the Minister responsible for the Financial Markets Conduct Act 2013.
+(4) A determination under subsection (3) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 156ZH Either joint regulator may independently begin review of designation
 (1) Either of the joint regulators may, independently of the other joint regulator and without having received an application under section 156ZG, begin a review to determine whether to recommend a variation or revocation of a designation made under section 156N.
@@ -3362,6 +3380,9 @@ An obligation or limitation imposed on a person by any other Act or instrument o
     (i) the maintenance of a sound and efficient financial system; and
     (ii) the creditors of qualifying counterparties; and
     (iii) the integrity of statutory management, corporate insolvency, and personal property securities law.
+(5) Regulations under this section—
+  (a) are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements); and
+  (b) if they are made in reliance on section 152, must be confirmed by an Act (see subpart 3 of Part 5 of the Legislation Act 2019).
 
 ### 174 Consents under regulations
 (1) If a transaction is entered into or an instrument is executed without the prior consent of the Minister or the Bank required by any regulations made under this Act, the Minister or the Bank, as the case may be, may, at any time, consent to the entry into the transaction or the execution of the instrument.
@@ -3494,6 +3515,7 @@ Every reference in any other Act to the expression “trading bank” shall be r
 ### 4 First remit issued without agreement
 (1) The Governor-General may, by Order in Council made on the recommendation of the Minister, issue the first remit.
 (2) The Minister may make a recommendation if the Minister is satisfied that the Minister and the Governor have not agreed on the content of the first remit before the expiry of the 2-month period that starts on the date of the Royal assent.
+(3) An order under this clause is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 5 First charter
 (1) The first charter is to be issued in accordance with clause 6 or 7.
@@ -3508,6 +3530,7 @@ Every reference in any other Act to the expression “trading bank” shall be r
 ### 7 First charter issued without agreement
 (1) The Governor-General may, by Order in Council made on the recommendation of the Minister, issue the first charter.
 (2) The Minister may make a recommendation if the Minister is satisfied that the Minister and the Governor have not agreed on the first charter before the expiry of the 2-month period that starts on the date of the Royal assent.
+(3) An order under this clause is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 8 First code of conduct
 (1) The Bank must—
@@ -3602,12 +3625,12 @@ In this schedule,—
 (3) The MPC may ask the Minister to make a recommendation.
 (4) A remit may be replaced before the expiry of its term only in accordance with this clause or section 13.
 (5) Section 10(2) to (4) applies with all necessary modifications.
-(6) Despite section 15 of the Interpretation Act 1999, a remit may not be amended.
+(6) Despite section 48 of the Legislation Act 2019, a remit may not be amended.
 (7) Subclause (6) does not prevent the operational objectives in a remit from being amended or replaced as referred to in section 19(4)﻿(b).
+(8) An order under this clause is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 7 Status of remit
-(1) A remit issued under section 10 (or clause 3 of Schedule 1) is neither a legislative instrument nor a disallowable instrument for the purposes of the Legislation Act 2012 and does not have to be presented to the House of Representatives under section 41 of that Act.
-(2) However, an Order in Council under section 12, clause 4 of Schedule 1, or clause 6 of this schedule is a legislative instrument and a disallowable instrument for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
+[Repealed]
 
 ### Part 2 — MPC and its members
 
