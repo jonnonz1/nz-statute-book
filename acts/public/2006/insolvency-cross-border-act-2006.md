@@ -1,11 +1,12 @@
 # Insolvency (Cross-border) Act 2006
-_Consolidation as at 2017-03-01_
+_Consolidation as at 2021-10-28_
 
 ### 1 Title
 This Act is the Insolvency (Cross-border) Act 2006.
 
 ### 2 Commencement
-This Act comes into force on a date to be appointed by the Governor-General by Order in Council; and 1 or more orders may be made bringing different provisions into force on different dates.
+(1) This Act comes into force on a date to be appointed by the Governor-General by Order in Council; and 1 or more orders may be made bringing different provisions into force on different dates.
+(2) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 3 Purpose
 The purpose of this Act is to—
@@ -49,9 +50,11 @@ Rules may be made under section 148 of the Senior Courts Act 2016—
   (b) the level of recognition given to the interests of New Zealand debtors and creditors in an insolvency proceeding in the foreign country and the terms of the agreement referred to in paragraph (a) provide appropriate protection for the interests of New Zealand debtors and creditors.
 (3) A regulation made under subsection (1) may specifically modify or vary Schedule 1 in its application to a specified insolvency proceeding.
 (4) Subsection (3) prevails over section 7.
+(5) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 11 Regulations
-The Governor-General may, by Order in Council, make regulations prescribing forms to be used for the purposes of this Act, and the matters to be specified in the forms.
+(1) The Governor-General may, by Order in Council, make regulations prescribing forms to be used for the purposes of this Act, and the matters to be specified in the forms.
+(2) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 12 Transitional provisions for this Act
 (1) If an insolvency proceeding has started before the commencement of this Act, the law governing that insolvency proceeding is the law that would have applied if this Act had not been passed.
