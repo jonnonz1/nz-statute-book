@@ -1,5 +1,5 @@
 # Motor Vehicle Sales Act 2003
-_Consolidation as at 2021-04-01_
+_Consolidation as at 2021-10-28_
 
 ### 1 Title
 This Act is the Motor Vehicle Sales Act 2003.
@@ -11,6 +11,7 @@ This Act is the Motor Vehicle Sales Act 2003.
 ### 2 Commencement
 (1) This Act (except sections 143 and 144) comes into force on a date to be appointed by the Governor-General by Order in Council.
 (2) Sections 143 and 144 come into force on the day after the date on which this Act receives the Royal assent.
+(3) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 3 Purpose
 The purpose of this Act is to promote and protect the interests of consumers in relation to motor vehicle sales.
@@ -96,14 +97,14 @@ This Act binds the Crown.
   - **motor vehicle** —
     (a) means any of the following:
       (i) a road vehicle that is drawn or propelled by mechanical power and is of a kind ordinarily acquired by consumers for personal, domestic, or household use:
-      (ii) a vehicle of any other class or description declared by the Governor-General, by Order in Council, to be a motor vehicle for the purposes of this Act; but
+      (ii) a vehicle of any other class or description declared by the Governor-General, by Order in Council, to be a motor vehicle for the purposes of this Act (see subsection (4)); but
     (b) does not include any of the following:
       (i)
       (ii) a moped:
       (iii) a motor cycle, the total cylinder capacity of which does not exceed 60 cubic centimeters:
       (iv) a tractor or farm machinery:
       (v) a trailer:
-      (vi) a vehicle of any other class or description declared by the Governor-General, by Order in Council, not to be a motor vehicle for the purposes of this Act:
+      (vi) a vehicle of any other class or description declared by the Governor-General, by Order in Council, not to be a motor vehicle for the purposes of this Act (see subsection (4)):
       (vii) a vehicle that the Director has declared is not a motor vehicle under section 168A of the Land Transport Act 1998:
       (viii) a mobility device
   - **motor vehicle trader** has the meaning given to it by section 7
@@ -169,6 +170,7 @@ This Act binds the Crown.
   (e) an employee or an agent of a motor vehicle trader; or
   (f) under a contract for services with a motor vehicle trader; or
   (g) engaged by a motor vehicle trader in any capacity (whether paid or not) that involves any dealings with consumers.
+(4) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 **Meaning of motor vehicle trader**
 
@@ -366,6 +368,7 @@ Nothing in this Act requires the Crown to be registered as a motor vehicle trade
 ### 27 Power to exempt persons from requirement to register by Order in Council
 (1) The Governor-General may, by Order in Council made on the recommendation of the Minister, exempt any person or class of persons from the requirement to register as a motor vehicle trader under section 10(1)﻿(a), subject to any terms and conditions that may be specified in the order.
 (2) Nothing in section 10(1)﻿(b) applies to a person or class of persons exempted from the requirement to register as a motor vehicle trader by an Order in Council made under this section.
+(3) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements), unless it relates exclusively to an individual.
 
 ### 28 Exemption may be recommended by Minister on application from any person
 (1) The Minister may recommend the making of an order under section 27 on application from any person for an exemption.
@@ -1345,11 +1348,12 @@ A person must not communicate to any person any information acquired in the cour
   (f) exempting any motor vehicle trader or class of motor vehicle traders from paying the levy:
   (g) providing for waivers or refunds of the whole or any part of the levy:
   (h) providing for any other matters necessary or desirable to set, calculate, administer, collect, and enforce the levy.
+(3) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 **Regulations**
 
 ### 144 Regulations
-The Governor-General may, by Order in Council, make regulations for all or any of the following purposes:
+(1) The Governor-General may, by Order in Council, make regulations for all or any of the following purposes:
   (a) prescribing forms to be used for the purposes of this Act, and the matters to be specified in the forms:
   (b) prescribing fees payable under this Act:
   (c) prescribing procedures for the payment of prescribed fees:
@@ -1358,6 +1362,7 @@ The Governor-General may, by Order in Council, make regulations for all or any o
     (ii) access to the register or list:
     (iii) the location of, and hours of access to, the register or list:
   (e) providing for any other matters contemplated by this Act that are necessary for its administration or necessary for giving it full effect.
+(2) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 **Amendments and repeal**
 
@@ -1430,9 +1435,10 @@ The Crown is not liable to make a payment to, or otherwise compensate, any perso
 [Repealed]
 
 ### 162 Winding up of Fund
-(1) At any time after all the claims against the Fund have been received and fully dealt with, the Institute may, by notice in the Gazette, specify a date (being not less than 1 month after the date of the publication of the notice in the Gazette) on which the Fund is to be wound up.
+(1) At any time after all the claims against the Fund have been received and fully dealt with, the Institute may, by notice, specify a date (being not less than 1 month after the date of the publication of the notice) on which the Fund is to be wound up.
 (2) On and from the date so specified, any remaining assets of the Fund cease to be held by the Institute and may be used by the Institute for any lawful purpose that it determines.
 (3) The Institute must, as soon as practicable after the date so specified, prepare final accounts for the Fund audited by a chartered accountant (within the meaning of section 19 of the New Zealand Institute of Chartered Accountants Act 1996) appointed for the purpose by the Institute.
+(4) A notice under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 **Review of Act**
 
