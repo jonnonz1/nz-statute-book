@@ -1,5 +1,5 @@
 # Legislation Amendment Act 2013
-_Consolidation as at 2013-12-04_
+_Consolidation as at 2021-10-28_
 
 ### 1 Title
 This Act is the Legislation Amendment Act 2013.
