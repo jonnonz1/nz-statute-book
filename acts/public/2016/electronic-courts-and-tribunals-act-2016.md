@@ -1,5 +1,5 @@
 # Electronic Courts and Tribunals Act 2016
-_Consolidation as at 2016-10-17_
+_Consolidation as at 2021-10-28_
 
 ### 1 Title
 This Act is the Electronic Courts and Tribunals Act 2016.
@@ -33,6 +33,7 @@ The purpose of this Act is to—
   (g) any warrant or other instrument authorising entry into premises or the search or seizure of any person or thing:
   (h) any other document specified by the Governor-General by Order in Council made on the recommendation of the Minister:
   (i) an item specified in any of paragraphs (a) to (h) that is required to be served by personal service.
+(3) An order under subsection (2) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 5 Act binds the Crown
 This Act binds the Crown.
@@ -46,6 +47,7 @@ This Act binds the Crown.
   (c) any court or tribunal located in a particular place:
   (d) any particular jurisdiction of a court or tribunal located in a particular place.
 (2) This Act does not apply to any class of persons specified by the Governor-General by Order in Council made on the recommendation of the Minister.
+(3) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 7 Permitted documents may be used
 (1) A court or tribunal, or a participant in proceedings before a court or tribunal, may use permitted documents in, or with respect to, the proceedings of the court or tribunal.
@@ -204,7 +206,7 @@ A permitted document is taken to be received at the time the permitted document 
 (3) Whether a fee that is payable under subsection (1)﻿(b) is inclusive or exclusive of goods and services tax is to be determined under the relevant enactment.
 
 ### 33 Regulations
-The Governor-General may, by Order in Council, make regulations for all or any of the following purposes:
+(1) The Governor-General may, by Order in Council, make regulations for all or any of the following purposes:
   (a) prescribing any conditions that a permitted document must meet to be used, provided, or accepted by a court or tribunal, or a participant in proceedings before a court or tribunal:
   (b) prescribing the form or forms of permitted documents:
   (c) prescribing any fees for the filing of permitted documents:
@@ -217,6 +219,7 @@ The Governor-General may, by Order in Council, make regulations for all or any o
     (ii) in a specified jurisdiction of a court or tribunal in which the permitted document must be used, provided, or accepted:
     (iii) in specified circumstances in which the permitted document must be used, provided, or accepted:
   (g) providing for any other matters that are contemplated by, or necessary for, giving full effect to this Act and its due administration.
+(2) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 **Consequential amendments and transitional provisions**
 
