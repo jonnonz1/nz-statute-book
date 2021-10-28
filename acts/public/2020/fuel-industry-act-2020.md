@@ -1,5 +1,5 @@
 # Fuel Industry Act 2020
-_Consolidation as at 2020-08-11_
+_Consolidation as at 2021-10-28_
 
 ### 1 Title
 This Act is the Fuel Industry Act 2020.
@@ -11,6 +11,7 @@ This Act is the Fuel Industry Act 2020.
   (a) subparts 1 (terminal gate pricing) and 2 (fixed wholesale contractual terms) of Part 2 and section 46 (dispute arising from subpart 1 or 2 of Part 2 must be referred to mediation) come into force 1 year after the date on which this Act receives the Royal assent; and
   (b) subparts 3 (consumer information standards) and 4 (disclosure of information) of Part 2 come into force 18 months after the date on which this Act receives the Royal assent.
 (4) In this section, provision includes any item, or any part of an item, in Schedule 1.
+(5) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ## Part 1 — Preliminary provisions
 
@@ -128,6 +129,7 @@ This Act binds the Crown.
     (i) the Minister has had regard to the impact of the regulations on incentives to innovate and to invest in markets for specified engine fuels; and
     (ii) the Minister is satisfied that a significant proportion of the relevant engine fuel is used by motor vehicles (as defined in section 2(1) of the Land Transport Act 1998); and
     (iii) the Minister is satisfied that the regulations are necessary or desirable after having regard to the purpose of this Act.
+(3) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### Subpart 2 — Fixed wholesale contractual terms
 
@@ -182,6 +184,7 @@ A wholesale supplier must ensure that the terms of its fixed wholesale contracts
 (2) The Minister may make a recommendation under subsection (1) only if—
   (a) the Minister has consulted any fuel industry participants that the Minister considers are likely to be significantly affected by the regulations; and
   (b) the Minister is satisfied that the regulations are necessary or desirable after having regard to the purpose of this Act.
+(3) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### Subpart 3 — Consumer information requirements
 
@@ -209,6 +212,7 @@ A retailer, or the person responsible for displaying information at a retail fue
 (3) The Minister may make a recommendation under subsection (1) only if—
   (a) the Minister has consulted any fuel industry participants that the Minister considers are likely to be significantly affected by the regulations; and
   (b) the Minister is satisfied that the regulations are necessary or desirable after having regard to the purposes of this Act and this subpart.
+(4) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### Subpart 4 — Disclosure of information
 
@@ -235,6 +239,7 @@ The purposes of this subpart are—
 (3) The Minister may make a recommendation under subsection (1) only if—
   (a) the Minister has consulted any fuel industry participants that the Minister considers are likely to be significantly affected by the regulations; and
   (b) the Minister is satisfied that the regulations are necessary or desirable after having regard to the purpose of this Act and this subpart.
+(4) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 28 Publication of analysis or summary
 The chief executive or the Commission may,—
@@ -443,6 +448,7 @@ The following provisions of the Commerce Act 1986 apply to this Act with any nec
   (c) prescribing 1 or more dispute resolution schemes for the purpose of section 46:
   (d) providing for any other matters contemplated by this Act, necessary for its administration, or necessary for giving it full effect.
 (2) The Minister may make a recommendation under this section only if the Minister has consulted any fuel industry participants that the Minister considers are likely to be significantly affected by the regulations.
+(3) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 48 Differential regulations
 (1) Regulations made under this Act may make different provision for different cases on any differential basis.
@@ -468,6 +474,7 @@ In this Part, commencement, in relation to a provision of this Act, means the co
   (a) the date appointed by the Governor-General by Order in Council for the purpose of this clause:
   (b) 2 years after the date on which this Act receives the Royal assent.
 (3) The Governor-General may, by Order in Council, appoint a date for the purpose of this clause.
+(4) An order under this clause is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 3 Transitional provision relating to references to Privacy Act 2020
 (1) This clause applies if an Order in Council is made under section 2(3)﻿(b) bringing the provisions of subpart 4 of Part 2 into force before 1 December 2020.
