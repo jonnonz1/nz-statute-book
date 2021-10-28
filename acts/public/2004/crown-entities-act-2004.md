@@ -1,5 +1,5 @@
 # Crown Entities Act 2004
-_Consolidation as at 2021-07-13_
+_Consolidation as at 2021-10-28_
 
 ### 1 Title
 This Act is the Crown Entities Act 2004.
@@ -69,6 +69,7 @@ A Crown entity (A) is a parent Crown entity or parent of another Crown entity (B
   (f) omit the name of an entity or company in recognition of the entity's dissolution or the company's removal from the register under the Companies Act 1993.
 (2) An Order in Council cannot be made under this section in relation to a school board or a tertiary education institution.
 (3) An Order in Council cannot be made under this section to add a Crown entity subsidiary to Schedule 1 or Schedule 2.
+(4) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 10 Interpretation
 (1) In this Act, unless the context otherwise requires,—
@@ -1757,6 +1758,7 @@ A responsible Minister may set standards, terms, and conditions in respect of an
   (k) prescribing offences in respect of the contravention of any regulations made under this Act, and prescribing penalties not exceeding $2,000 in respect of those offences:
   (l) providing for any other matters contemplated by this Act or necessary for its administration or necessary for giving it full effect.
 (2) The regulations in subsection (1) may be made in respect of all or any Crown entities or categories or types of Crown entities.
+(3) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 174 Minister of Finance instructions
 (1) The Minister of Finance may issue instructions to Crown entities that,—
@@ -1765,8 +1767,8 @@ A responsible Minister may set standards, terms, and conditions in respect of an
 (2) The instructions in subsection (1) may be made in respect of all or any Crown entities, or categories or types of Crown entities.
 (3) The instructions in subsection (1) must be consistent, in the opinion of the Minister, with generally accepted accounting practice and any reporting standard imposed by or under any other Act, to the extent that those matters are relevant to the instructions.
 (4) The Minister of Finance may exempt any Crown entities, or categories or types of Crown entities, from provisions of any instruction, and may amend or revoke that exemption in the same way.
-(5) The instructions are a disallowable instrument, but not a legislative instrument, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
-(6) The Minister must notify the instruction in the Gazette, and publish it on the Internet, as soon as practicable after issuing it.
+(5) Instructions under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+(6)
 
 ### 175 Consultation with House of Representatives on reporting standards
 (1) The Minister must prepare and submit to the Speaker of the House of Representatives a draft of any instruction proposed to be issued under section 174(1)﻿(b).
@@ -1878,6 +1880,7 @@ Subpart 3 of Part 2 does not apply to any company that is a Crown entity subsidi
   (b) providing for any other matters contemplated by this Act or necessary for its administration or necessary for giving it full effect.
 (2) The regulations may be made in respect of all or any Crown entities or categories or types of Crown entities.
 (3) Any transitional or savings provisions prescribed in regulations made under subsection (1) may be in addition to or in place of any of the provisions of sections 137, 159, 195, 196, 197, and 198.
+(4) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 199A Application, savings, and transitional provisions relating to amendments to Act
 The application, savings, and transitional provisions set out in Schedule 1AAA, which relate to amendments made to this Act on or after 1 January 2013, have effect for the purposes of this Act.
