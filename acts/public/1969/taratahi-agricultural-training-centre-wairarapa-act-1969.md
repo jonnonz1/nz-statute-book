@@ -1,5 +1,5 @@
 # Taratahi Agricultural Training Centre (Wairarapa) Act 1969
-_Consolidation as at 2020-04-01_
+_Consolidation as at 2021-10-28_
 
 > An Act to make provision for the control and management of the Taratahi Agricultural Training Centre (Wairarapa) and for matters incidental thereto
 
@@ -37,9 +37,10 @@ In this Act, unless the context otherwise requires,—
   (g) the chief executive of the new Ministry:
   (h) 2 other members.
 (2A) The Governor-General may from time to time, by Order in Council, amend any of paragraphs (a) to (d) of subsection (2) to provide for a change of name of any organisation referred to in those paragraphs or for another organisation to be a nominating organisation if the Governor-General considers that the other organisation is a clear successor to the first-mentioned organisation.
-(2B) An Order in Council made under subsection (2A) is a legislative instrument and a disallowable instrument for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
+(2B)
 (3) The members of the trust board other than the chief executive of the new Ministry shall be appointed by the Minister, they shall be appointed for a term of 4 years, and shall be eligible for reappointment:
   provided that the members of the committee of trustees referred to in the Preamble holding office at the commencement of this Act shall be members of the trust board as if they had been appointed under this section, and, subject to section 4, shall hold office for the remainder of the term for which they were appointed to be members of that committee.
+(4) An order under subsection (2A) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 (4)
 
 ### 3A Deputy of chief executive of Ministry of Agriculture and Forestry
