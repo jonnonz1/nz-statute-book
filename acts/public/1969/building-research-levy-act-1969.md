@@ -1,5 +1,5 @@
 # Building Research Levy Act 1969
-_Consolidation as at 2014-04-01_
+_Consolidation as at 2021-10-28_
 
 > An Act to authorise the levying of building contractors to provide money for research into improved techniques and materials for use in the building industry
 
@@ -27,7 +27,7 @@ In this Act, unless the context otherwise requires,—
   - **local authority** means a territorial authority within the meaning of the Local Government Act 2002
   - **Minister** means, subject to any enactment, the Minister of the Crown who, under the authority of any warrant or with the authority of the Prime Minister, is for the time being responsible for the administration of this Act
   - **owner** means the person to whom the land in respect of which any construction work is to be, is being, or has been performed belongs; and includes a person having a leasehold or other limited estate or interest in the land
-  - **prescribed** , in relation to any levy imposed under this Act, means the rate of levy for the time being prescribed by the Minister by notice in the Gazette.
+  - **prescribed** , in relation to any levy imposed under this Act, means the rate of levy for the time being prescribed by the Minister under section 4.
 
 ### 3 Act to bind the Crown
 This Act shall bind the Crown.
@@ -35,13 +35,16 @@ This Act shall bind the Crown.
 **Building research levy**
 
 ### 4 Minister may prescribe rates of levy
-(1) Subject to the provisions of this Act, the Minister may from time to time, after consulting with the association and the New Zealand Master Builders' Federation Incorporated, prescribe by notice in the Gazette the rate of levy to be paid by builders for the purposes of this Act.
+(1) Subject to the provisions of this Act, the Minister may from time to time, after consulting with the association and the New Zealand Master Builders' Federation Incorporated, prescribe by notice the rate of levy to be paid by builders for the purposes of this Act.
 (2) Subject to the provisions of this section, the rate so prescribed shall—
   (a) in the case of construction work performed pursuant to a contract, be based on the total consideration payable under that contract; and
   (b) in the case of construction work performed otherwise than pursuant to a contract, be based on the total value of the work as ascertained under section 5.
 (3) The prescribed rate shall not exceed $1 for every $1,000 (or part thereof) of the total consideration payable under any contract or the total value of construction work, as the case may be.
-(4) The rate of levy shall be notified in the Gazette at least 14 days before it is to come into force.
+(4) A notice prescribing a rate of levy must be published under the Legislation Act 2019 at least 14 days before it is to come into force.
 (5) The Minister may at any time vary or revoke any notice made under subsection (1).
+(6) The following are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements):
+  (a) a notice under subsection (1); and
+  (b) a variation or revocation of a notice under subsection (5).
 
 ### 5 Payment of levies by builders
 (1) For the purposes of this Act, a levy, the rate of which is for the time being prescribed under section 4, shall be payable by every builder—
