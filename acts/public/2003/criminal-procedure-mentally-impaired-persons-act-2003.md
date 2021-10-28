@@ -1,5 +1,5 @@
 # Criminal Procedure (Mentally Impaired Persons) Act 2003
-_Consolidation as at 2020-12-01_
+_Consolidation as at 2021-10-28_
 
 ### 1 Title
 This Act is the Criminal Procedure (Mentally Impaired Persons) Act 2003.
@@ -9,6 +9,7 @@ This Act is the Criminal Procedure (Mentally Impaired Persons) Act 2003.
 ### 2 Commencement
 (1) This Act comes into force on a date to be appointed by the Governor-General by Order in Council.
 (2) Despite subsection (1), if the date appointed under that subsection is prior to the commencement of section 4A of the Criminal Investigations (Bodily Samples) Act 1995, section 50 comes into force on that commencement.
+(3) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 3 Purpose
 The purpose of this Act is to restate the law formerly set out in Part 7 of the Criminal Justice Act 1985 and to make a number of changes to that law, including changes to—
