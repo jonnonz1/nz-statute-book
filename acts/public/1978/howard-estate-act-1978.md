@@ -1,5 +1,5 @@
 # Howard Estate Act 1978
-_Consolidation as at 2003-07-01_
+_Consolidation as at 2021-10-28_
 
 > An Act to consolidate and amend the Howard Estate Act 1919
 
@@ -75,7 +75,7 @@ With the prior consent of the Minister, given on the recommendation of the Board
 ### 11 Public Trust may maintain imprest accounts
 (1) Subject to subsection (2), Public Trust may maintain and establish imprest accounts, and pay into any such account money forming part of the Estate.
 (2) Without the prior approval of the Minister, no more than $500 shall be held in any such account.
-(3) No money shall be withdrawn from any such account except by cheque signed by a person appointed under section 5(1)(g) who has been authorised in that behalf by Public Trust.
+(3) No money shall be withdrawn from any such account except by cheque signed by a person appointed under section 5(1)﻿(g) who has been authorised in that behalf by Public Trust.
 
 **Smedley Cadet Training Farm**
 
@@ -132,7 +132,7 @@ The functions of the Board shall be—
   (f) 1 member shall be appointed on the recommendation of the Smedley Ex-Cadets Association Incorporated.
 (2) Subject to subsection (1), members shall be appointed in accordance with regulations made under this Act.
 (3) Every person who was a member immediately before the commencement of this Act shall, unless he sooner vacates his office under section 22(1), continue in office as a member until the expiration of the term for which he was appointed, but may from time to time be reappointed.
-(4) Every person who, immediately before the commencement of Schedule 16 of the Local Government Act 2002, was a member who held office under subsection (1)(c) or subsection (1)(d), is, unless he or she sooner vacates his or her office under section 22(1), to continue in office as a member until the expiration of the term for which he or she was appointed, but may from time to time be reappointed.
+(4) Every person who, immediately before the commencement of Schedule 16 of the Local Government Act 2002, was a member who held office under subsection (1)﻿(c) or subsection (1)﻿(d), is, unless he or she sooner vacates his or her office under section 22(1), to continue in office as a member until the expiration of the term for which he or she was appointed, but may from time to time be reappointed.
 
 ### 20 Disqualification for appointment
 No person shall be capable of becoming a member if—
@@ -153,7 +153,7 @@ No person shall be capable of becoming a member if—
   (c) is removed from office; or
   (d) resigns; or
   (e) is absent without leave from 3 consecutive meetings of the Board—
-(2) Notwithstanding subsection (1)(b), where any member becomes disqualified for appointment by virtue of his having been sentenced to a term of imprisonment in respect of any offence for which he has been convicted, the following provisions shall apply:
+(2) Notwithstanding subsection (1)﻿(b), where any member becomes disqualified for appointment by virtue of his having been sentenced to a term of imprisonment in respect of any offence for which he has been convicted, the following provisions shall apply:
   (a) his office shall not become vacant until the time for appealing against the conviction or the sentence has expired and, where he has appealed against the conviction, the sentence, or both, until the appeal has been determined:
   (b) during the time specified in paragraph (a), the member shall be deemed to have been granted leave of absence, and shall not be capable of acting as a member.
 (3) Where an extraordinary vacancy has arisen, it shall as soon as practicable be filled by the appointment of some qualified person,—the vacating member was appointed.
@@ -221,11 +221,12 @@ Notwithstanding that it is vested in Public Trust for the objects specified in t
 Public Trust may from time to time expend such sums of money out of the Estate as it thinks fit in maintaining in good order the headstone and grave of the late Josiah Howard.
 
 ### 33 Regulations
-The Governor-General may from time to time, by Order in Council, make regulations for all or any of the following purposes:
+(1) The Governor-General may from time to time, by Order in Council, make regulations for all or any of the following purposes:
   (a) providing for the conduct, control, and administration of the Training Farm:
   (b) prescribing the manner of appointment of members of the Board:
   (c) prescribing travelling allowances and expenses for members of the Board:
   (d) providing for such matters as are contemplated by, or necessary for giving full effect to, the provisions of this Act and for its due administration.
+(2) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 34 Repeals and revocations
 (1) The enactments specified in Schedule 1 are hereby repealed.
