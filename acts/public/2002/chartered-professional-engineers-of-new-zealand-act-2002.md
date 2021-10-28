@@ -1,5 +1,5 @@
 # Chartered Professional Engineers of New Zealand Act 2002
-_Consolidation as at 2020-08-07_
+_Consolidation as at 2021-10-28_
 
 ### 1 Title
 This Act is the Chartered Professional Engineers of New Zealand Act 2002.
@@ -332,6 +332,7 @@ The functions of the Registration Authority under this Act are to—
   (a) are necessary or desirable to govern the practice and procedure of the Registration Authority's functions under this Act; or
   (b) the Registration Authority considers to be desirable in the interests of natural justice.
 (4) The rules must be consistent with this Act.
+(5) The rules are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 41 Particular requirements for preparation and approval of rules containing CPEng standards
 (1) In preparing a rule containing a CPEng standard, the Registration Authority must—
@@ -345,7 +346,7 @@ The functions of the Registration Authority under this Act are to—
 (4) The requirements of this section that apply to making a rule containing a CPEng standard apply also to any amendment or revocation of that rule.
 
 ### 42 Application of Legislation Act 2012 to rules
-The rules are a legislative instrument and a disallowable instrument for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
+[Repealed]
 
 ### 43 Registration Authority may delegate functions
 (1) The Registration Authority may delegate any of its functions or powers under the Act or the rules to any person or persons.
@@ -489,10 +490,11 @@ The financial year of the Council ends on 30 June or on any other date determine
 (4) The amount of any unpaid levy is recoverable in any court of competent jurisdiction as a debt due to the Council.
 
 ### 65 Regulations
-The Governor-General may, by Order in Council made on the recommendation of the Minister given after consultation with the Council, make regulations for all or any of the following purposes:
+(1) The Governor-General may, by Order in Council made on the recommendation of the Minister given after consultation with the Council, make regulations for all or any of the following purposes:
   (a) providing for the levy under section 64 and its payment:
   (b) prescribing rules for the conduct of appeals under this Act by the Council:
   (c) providing for any other matters contemplated by this Act, necessary for its administration, or necessary for giving it full effect.
+(2) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 **Transitional and consequential provisions—Outline**
 
