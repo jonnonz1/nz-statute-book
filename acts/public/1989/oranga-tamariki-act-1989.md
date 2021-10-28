@@ -1,5 +1,5 @@
 # Oranga Tamariki Act 1989
-_Consolidation as at 2021-10-05_
+_Consolidation as at 2021-10-28_
 
 > Title
 
@@ -129,8 +129,8 @@ _Consolidation as at 2021-10-05_
   - **subsequent child** means a child, born or unborn, who has a parent who is a person described in section 18B
   - **tikanga Māori** means Māori customary law and practices
   - **traffic offence** means—
-    (a) any offence against the Road User Charges Act 2012, the Land Transport Act 1998, or the Land Transport Management Act 2003 or against any regulation, rule, or bylaw made under any of those Acts:
-    (b) any offence against any regulation, rule, or bylaw made under any other Act if the offence relates to the use of motor vehicles or parking places or transport stations
+    (a) any offence against the Road User Charges Act 2012, the Land Transport Act 1998, or the Land Transport Management Act 2003 or against any secondary legislation made under any of those Acts:
+    (b) any offence against any secondary legislation made under any other Act if the offence relates to the use of motor vehicles or parking places or transport stations
   - **UNCROC** means the United Nations Convention on the Rights of the Child
   - **victim** has the meaning given in section 2B
   - **well-being** , in relation to a child or young person, includes the welfare of that person
@@ -1140,16 +1140,17 @@ If a child welfare and protection agency or an independent person proposes to di
 
 ### 66N Approval of draft Code by Minister
 (1) After considering a summary of issues and concerns raised by submitters and making any amendments to the draft Code, the Minister must approve the Code.
+(1A) The Code is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 (2) The Code comes into force—
-  (a) on the date specified for that purpose in the Code, being a date after the date on which the Code is approved; or
-  (b) if no such date is specified, the day after the date on which the Code is approved.
+  (a) on the date specified for that purpose in the Code, being a date after the date on which the Code is published under the Legislation Act 2019; or
+  (b) if no such date is specified, the day after the date on which the Code is published under the Legislation Act 2019.
 
 ### 66O Application of Legislation Act 2012 to Code
-The Code is a legislative instrument and a disallowable instrument for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
+[Repealed]
 
 ### 66P Amendments to Code
 (1) The Code may be amended by the Minister approving 1 or more amendments to the Code.
-(2) Sections 66M to 66O apply, with all necessary modifications, in relation to an amendment to the Code as if the amendment were a draft Code.
+(2) Sections 66M to 66N apply, with all necessary modifications, in relation to an amendment to the Code as if the amendment were a draft Code.
 (3) However, section 66M does not apply to an amendment and it is unnecessary for the Minister to consider a summary of issues and concerns if—
   (a) the amendment is a minor or technical amendment; and
   (b) the Minister considers that compliance with section 66M is unnecessary.
@@ -4615,6 +4616,10 @@ Subject to sections 43, 81, 104, and 114(2)﻿(c), the chief executive or, as th
 (7) An adjustment under subsection (5) must not reduce the weekly amounts payable under subsection (1) in respect of the board and lodgings of children and young persons.
 (8) Every Order in Council made under subsection (5) comes into force or is considered to have come into force on 1 April of the calendar year in which it is made, and applies to the rates payable in respect of the board and lodgings of children and young persons on and after that date.
 (9) In this section, CPI means the consumers price index-all groups published by Statistics New Zealand.
+(10) The following are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements):
+  (a) a determination under subsection (1):
+  (b) an order under subsection (5).
+(11) An order under subsection (5) commences in accordance with that subsection, even if it is not yet published.
 
 **Residences**
 
@@ -5088,8 +5093,8 @@ The chief executive may, from time to time, make such payments as may be necessa
   (c) those needs cannot be met by existing sources of support under this Act or any other enactment, and are unlikely to be provided otherwise; and
   (d) it is reasonable in the circumstances for the chief executive to provide the assistance; and
   (e) the provision of assistance is consistent with any general or special directions (not inconsistent with this section) given to the chief executive in writing by the Minister.
-(3) A direction given for the purpose of subsection (2)﻿(e) (other than a direction of that kind that relates exclusively to an individual) must be published in the Gazette.
-(4) A direction referred to in subsection (3) is a disallowable instrument for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
+(3) A direction under subsection (2)﻿(e) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements), unless it relates exclusively to an individual.
+(4)
 
 ### 389 Financial assistance in other cases
 The chief executive may, from time to time, make grants or provide financial assistance to any person for the purpose of assisting that person to care for any child or young person—
@@ -5667,6 +5672,7 @@ Sections 101 and 105 of the Search and Surveillance Act 2012 apply, with any nec
   (a) within 12 months of the commencement of subsection (1)﻿(fa), recommend the making of regulations under that provision; and
   (b) not recommend the revocation of regulations made under subsection (1)﻿(fa) without recommending new regulations to be made under that provision; and
   (c) regularly review the regulations in force under subsection (1)﻿(fa).
+(3) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 447A Minister to appoint independent persons to monitor compliance with prescribed standard of care
 The Minister must appoint an agency or a body (independent of the department) to—
@@ -5679,6 +5685,8 @@ The Minister must appoint an agency or a body (independent of the department) to
   (a) in the case of the High Court, under section 148 of the Senior Courts Act 2016:
   (b) in the case of the District Court, under section 228 of the District Court Act 2016:
   (c) in the case of the Family Court, under section 16A of the Family Court Act 1980.
+(3) Rules under subsection (1) are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+(4) As to rules referred to in subsection (2), see section 148 of the Senior Courts Act 2016, section 228 of the District Court Act 2016, and section 16A of the Family Court Act 1980, which provide that court rules are secondary legislation.
 
 ### 448A Transitional provisions relating to rules
 (1) Subsections (2) to (4) apply to rules made under section 448 that are in force immediately before the commencement of this section, unless those rules are revoked on or after the commencement of this section.
