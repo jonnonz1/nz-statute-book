@@ -1,5 +1,5 @@
 # Television New Zealand Act 2003
-_Consolidation as at 2011-07-23_
+_Consolidation as at 2021-10-28_
 
 ### 1 Title
 This Act is the Television New Zealand Act 2003.
@@ -87,6 +87,7 @@ This Act binds the Crown.
 ### 18 Change in name of TVNZ
 (1) The Governor-General may, by Order in Council made on the recommendation of the shareholding Ministers, amend any enactment by omitting from it the name of TVNZ and substituting some other name.
 (2) The shareholding Ministers must not recommend the making of an order in respect of a change of name of TVNZ unless satisfied that the change of name has been registered at the Companies Office in accordance with section 23 of the Companies Act 1993.
+(3) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 19 Shares or interests of TVNZ in bodies corporate or interests in associations
 [Repealed]
@@ -231,11 +232,11 @@ The purpose of this Part is to enable TVNZ to screen archived works in accordanc
 (4) TVNZ must also ensure that the information required by subsection (5) accompanies—
   (a) the first screening of an archived work; or
   (b) the first screening of each episode of an archived work; or
-  (c) an archived work, in the case of an archived work available for screening on demand, from the time that the work is first available until the date when registration closes, as notified under subsection (2)(d).
+  (c) an archived work, in the case of an archived work available for screening on demand, from the time that the work is first available until the date when registration closes, as notified under subsection (2)﻿(d).
 (5) The information required must advise any person with an interest in the work who has not already registered—
   (a) of the scheme set up under this subpart; and
   (b) how to register for the scheme; and
-  (c) of the date by which registration must be made (which must be the date notified under subsection (2)(d)).
+  (c) of the date by which registration must be made (which must be the date notified under subsection (2)﻿(d)).
 
 **Funds that must be established for purposes of scheme**
 
@@ -269,7 +270,7 @@ The purpose of this Part is to enable TVNZ to screen archived works in accordanc
 (2) In the case of a person whose registration is declined, advice must also be given of the right of review of that decision under subpart 4, how to apply for review, and the date by which an application must be made (which must be the same as the date notified under section 29K(4)).
 
 ### 29K TVNZ to assess entitlement and make payment from Fund
-(1) Not later than 20 working days after the closing date for registration in relation to an archived work, TVNZ must assess the entitlement of each person whose registration is accepted under section 29J(1)(a).
+(1) Not later than 20 working days after the closing date for registration in relation to an archived work, TVNZ must assess the entitlement of each person whose registration is accepted under section 29J(1)﻿(a).
 (2) Assessments must be calculated—
   (a) on the basis of the categories set out in clause 1 of Schedule 3; and
   (b) in accordance with the formula set out in clause 3 of Schedule 3 for determining each person's share of the Fund in relation to the relevant archived work.
@@ -294,7 +295,7 @@ The purpose of this Part is to enable TVNZ to screen archived works in accordanc
 
 ### 29M Application for review
 (1) The following persons may apply for review under this subpart:
-  (a) a person whose registration was declined under section 29J(1)(b); or
+  (a) a person whose registration was declined under section 29J(1)﻿(b); or
   (b) a person who is dissatisfied with an assessment made under section 29K.
 (2) Application must be made—
   (a) in the prescribed form and manner; and
@@ -314,7 +315,7 @@ The purpose of this Part is to enable TVNZ to screen archived works in accordanc
   (b) may take into account any new evidence that it is satisfied assists with determining whether the person's registration ought to have been accepted or what the appropriate assessment ought to have been, as the case may be.
 (2) If a reviewer is satisfied that there is no or insufficient evidence on which to change the decision on registration or the assessment by TVNZ, as the case may be, the reviewer must confirm the decision or assessment.
 (3) Subsection (4) applies if the reviewer is satisfied—
-  (a) that a person's registration ought to have been accepted under section 29J(1)(a); or
+  (a) that a person's registration ought to have been accepted under section 29J(1)﻿(a); or
   (b) that an assessment was not made in accordance with section 29K(2).
 (4) After taking into account all the relevant circumstances, the reviewer must calculate the assessment in the manner provided for in section 29K(2), as the reviewer determines is reasonable in the circumstances, and remit the matter to TVNZ for payment from the contingency account.
 (5) A reviewer must provide a copy of a determination, with reasons, to the applicant and to TVNZ.
@@ -342,7 +343,7 @@ The purpose of this Part is to enable TVNZ to screen archived works in accordanc
 ### Subpart 5 — Miscellaneous
 
 ### 29Q Regulations
-The Governor-General may, by Order in Council, on the recommendation of the Minister and after consultation with TVNZ, make regulations to—
+(1) The Governor-General may, by Order in Council, on the recommendation of the Minister and after consultation with TVNZ, make regulations to—
   (a) provide for other platforms or channels or new methods by which archived works may be made available for public viewing:
   (b) if circumstances so require, add new criteria for any assessment under section 29K, or amend or cancel criteria:
   (c) add to or amend the categories provided for in clause 1 of Schedule 3:
@@ -351,6 +352,7 @@ The Governor-General may, by Order in Council, on the recommendation of the Mini
   (f) prescribe forms to be used under subparts 3 and 4:
   (g) provide for the procedures to be followed by a reviewer under subpart 4:
   (h) provide for any other matters contemplated by this Part, or necessary for its administration or for giving it full effect.
+(2) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 29R Residual funds
 If, in any financial year, there is residual money in the Fund or in the contingency account, that money may be applied—
@@ -385,6 +387,7 @@ The State-Owned Enterprises Amendment Act (No 4) 1988 is repealed.
 (3) The Governor-General may, from time to time, by Order in Council,—
   (a) amend Schedule 2 by including additional areas of land in the list in that schedule:
   (b) otherwise amend Schedule 2, or revoke that schedule, and substitute a new schedule.
+(4) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 35 Shareholder continuity
 The structural changes to TVNZ and the transmission business set out in sections 7 to 9 do not constitute a breach in shareholder continuity for the purposes of the Income Tax Act 2007.
