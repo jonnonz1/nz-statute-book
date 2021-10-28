@@ -1,5 +1,5 @@
 # Land Transport Management Act 2003
-_Consolidation as at 2021-04-01_
+_Consolidation as at 2021-10-28_
 
 ### 1 Title
 This Act is the Land Transport Management Act 2003.
@@ -9,6 +9,7 @@ This Act is the Land Transport Management Act 2003.
 ### 2 Commencement
 (1) Sections 40 to 44, 92, and 103(1) and (2) come into force on a date to be appointed by the Governor-General by Order in Council.
 (2) The rest of this Act comes into force on the day after the date on which it receives the Royal assent.
+(3) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 3 Purpose
 The purpose of this Act is to contribute to an effective, efficient, and safe land transport system in the public interest.
@@ -221,6 +222,7 @@ In order to recognise and respect the Crown’s responsibility to take appropria
   (b) excludes any activity or combinations of activities specified as not a rail activity in regulations made under subsection (3).
 (2) For the purposes of subsection (1), railway infrastructure and railway premises have the meanings given in section 4(1) of the Railways Act 2005.
 (3) The Governor-General may, by Order in Council made on the recommendation of the Minister, make regulations for the purposes of subsection (1)﻿(a)﻿(iii) and (b).
+(4) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 6 Meaning of land transport revenue
 In this Act, unless the context otherwise requires, land transport revenue means—
@@ -779,6 +781,7 @@ The Agency and KiwiRail must make available on their Internet sites each rail ne
   (b) grant an approval subject to conditions specified in the order.
 (4) The Department of Conservation and the Waitangi National Trust Board and Auckland Transport are deemed to be approved public organisations under this section.
 (5) Kāinga Ora–Homes and Communities is deemed to be an approved public organisation under this section in relation to its activities related to specified development projects.
+(6) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 **Land transport disbursement accounts**
 
@@ -931,7 +934,8 @@ In preparing any programme or plan under this Part, the Agency, the Commissioner
 Part 5 of the Transit New Zealand Act 1989 is consequentially repealed.
 
 ### 45 Regulations relating to sections 41 and 42
-The Governor-General may, from time to time, by Order in Council, make regulations providing for any matters contemplated by sections 41 and 42, necessary for the administration of those sections, or necessary for giving those sections full effect.
+(1) The Governor-General may, from time to time, by Order in Council, make regulations providing for any matters contemplated by sections 41 and 42, necessary for the administration of those sections, or necessary for giving those sections full effect.
+(2) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### Subpart 2 — Road tolling schemes
 
@@ -959,7 +963,11 @@ The Governor-General may, from time to time, by Order in Council, make regulatio
   (g) specify, in relation to a new road, the purposes under subsection (1) for which toll revenue inflow may be used (including reimbursement of the costs related to the new road):
   (h) specify civil penalties for breach of conditions referred to in subsection (2)﻿(b)﻿(ii), and establish a procedure for resolving disputes about the application of those penalties:
   (i) require notice of the Minister's confirmation of the matters referred to in subsection (2)﻿(c) to be published in the manner set out in the order.
-(4) An Order in Council made under subsection (1) is a legislative instrument and a disallowable instrument for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
+(4) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+(4A) If a public road controlling authority or toll operator is authorised to exercise a power under subsection (3)﻿(a) or (c) (other than a power that relates only to 1 or more named persons),—
+  (a) the instrument by which that power is exercised is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements); and
+  (b) the order must contain a statement to that effect.
+(4B) However, section 161A(4) of the Local Government Act 2002 applies if the instrument is made by a road controlling authority or toll operator that is a local authority or a council-controlled organisation (as defined in that Act.)
 (5) Before recommending that an order made under subsection (1) be amended or revoked, the Minister must consult the relevant public road controlling authority about his or her proposal.
 (6) This section does not limit any other Act that provides for tolls to be levied or collected in respect of any road.
 
@@ -987,7 +995,8 @@ The Governor-General may, from time to time, by Order in Council, make regulatio
 (5)
 
 ### 48A Authority to establish road tolling scheme for Route K
-Despite section 46(1), the Governor-General may, by Order in Council made on the recommendation of the Minister, establish a road tolling scheme for Route K as if it were a new road and sections 46 and 50 to 55 apply with the necessary modifications.
+(1) Despite section 46(1), the Governor-General may, by Order in Council made on the recommendation of the Minister, establish a road tolling scheme for Route K as if it were a new road and sections 46 and 50 to 55 apply with the necessary modifications.
+(2) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 48B When tolling power is exercisable for Route K
 (1) The power of a public road controlling authority or toll operator to begin tolling a road or part of it in accordance with an Order in Council made under section 48A is exercisable from the date that the order commences.
@@ -1266,7 +1275,7 @@ The Minister of Finance and the responsible Minister may, in their complete disc
   (b) must, if the proposal includes any change to a material aspect of the programme of capital projects supported by the RFT scheme, amend the schedule of the relevant order to reflect the change; and
   (c) must not amend the end date of the RFT scheme to any date that is later than the day that is 10 years after the date on which the order comes into force.
 (5) A regional council must make a proposal identified in an order made under this section accessible in accordance with section 108.
-(6) An order made under subsection (1) or (2) is a legislative instrument and a disallowable instrument for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
+(6) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 65L Early termination of RFT schemes
 (1) An order made under section 65K may advance the end date of an RFT scheme or terminate an RFT scheme only—
@@ -1558,13 +1567,10 @@ Final accounting and payment
 ### 65ZJ Change to maximum rate of regional fuel tax
 (1) The Governor-General may from time to time, by Order in Council, amend section 65C(3) to change the maximum rate of regional fuel tax under an RFT scheme.
 (2) An order made under subsection (1) that reduces the maximum rate of regional fuel tax does not have the effect of reducing any rate of regional fuel tax that has already been provided for in an order made under section 65K before the amendment comes into force.
-(3) An order made under subsection (1) is a legislative instrument and a confirmable instrument for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
-(4) The explanatory note of an order made under subsection (1) must—
-  (a) indicate that—
-    (i) it is a confirmable instrument under section 47B of the Legislation Act 2012; and
-    (ii) it is revoked at a time stated in the note, unless earlier confirmed by an Act of Parliament; and
-    (iii) the stated time is the applicable deadline under section 47C(1)﻿(a) or (b) of that Act; and
-  (b) set out the responsible Minister’s reasons for recommending the making of the order.
+(3) An order under this section—
+  (a) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements); and
+  (b) must be confirmed by an Act (see subpart 3 of Part 5 of the Legislation Act 2019).
+(4)
 
 **Regulations**
 
@@ -1591,6 +1597,7 @@ Final accounting and payment
   (i) providing for any other matter contemplated by this subpart, necessary for its administration, or necessary for giving it full effect.
 (2) The responsible Minister must consider whether to recommend the making of regulations under subsection (1)﻿(b) and, when doing so, must have regard to the principle that regional fuel tax is intended to be borne only by those who use fuel on public roads.
 (3) If the responsible Minister recommends the making of regulations under subsection (1)﻿(b), the Minister’s reasons for making the recommendation (including why the regulations are appropriate) must be set out in the explanatory note of the regulations.
+(4) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 **No limitation**
 
@@ -1754,10 +1761,7 @@ A claim by the Agency to recover regional fuel tax, any penalty related to regio
   (b) must, subject to the Public Finance Act 1989, specify any additional expected funding for land transport activities, including (but not limited to) any money that Parliament may appropriate for the purpose.
 
 ### 69 Status of GPS on land transport
-To avoid doubt, a GPS on land transport is not—
-  (a) a direction for the purposes of Part 3 of the Crown Entities Act 2004; or
-  (b) a legislative instrument for the purposes of the Legislation Act 2012; or
-  (c) a disallowable instrument for the purposes of the Legislation Act 2012.
+To avoid doubt, a GPS on land transport is not a direction for the purposes of Part 3 of the Crown Entities Act 2004.
 
 ### 70 Agency to give effect to GPS on land transport in respect of funding of land transport system
 (1) The Agency must give effect to the GPS on land transport when performing its functions under subpart 1 of Part 2 in respect of land transport planning and funding.
@@ -2207,7 +2211,7 @@ Statutorily independent functions
     (ii) if practicable, capable of being utilised by the visually impaired.
 
 ### 109 Regulations
-The Governor-General may, by Order in Council made on the recommendation of the Minister, make regulations—
+(1) The Governor-General may, by Order in Council made on the recommendation of the Minister, make regulations—
   (a) requiring the Agency to—
     (i) disclose specified information to the Minister or the public:
     (ii) report in specified ways:
@@ -2216,6 +2220,7 @@ The Governor-General may, by Order in Council made on the recommendation of the 
     (ii) the process by which that funding can be allocated:
   (c) specifying any functions of regional transport committees:
   (d) identifying 1 or more entities that are additional to those listed in the definition of specified agency in section 109B(7).
+(2) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 109A Confidentiality of information and documents
 (1) This section applies if the Agency obtains information or gains access to a document when performing or exercising any function, power, or duty under this Act or any other land transport Act.
@@ -2676,6 +2681,7 @@ A person who, without reasonable excuse, operates, in a region, a registered exe
   (c) in the case of an Order in Council under subsection (1)﻿(c), that the Agency has obtained the agreement of the operator of the public transport service.
 (3) For the purposes of subsections (1)﻿(c) and (2)﻿(a)﻿(i)﻿(A), subsidy does not include anything done under an agreement between a regional council and an operator to reduce passenger fares.
 (4) To avoid doubt, the Minister may refuse the Agency's request that the Minister recommend the making of an Order in Council under this section.
+(5) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ## Part 6 — Transitional and savings provisions
 
@@ -2806,7 +2812,6 @@ In this Part,—
   - **Director function** means any function, duty, or power of the Agency under this Act (or any secondary legislation made under this Act) that becomes a function, duty, or power of the Director—
     (a) on and from the transfer date; and
     (b) by operation of the amendment Act
-  - **secondary legislation** means regulations within the meaning of section 29 of the Interpretation Act 1999
   - **transfer date** means the date determined under section 2(2) of the amendment Act.
 
 ### 6 Matters, documents, decisions, etc, not affected by transfer of Director functions
@@ -2908,6 +2913,7 @@ Subject to clause 42, approvals in effect under sections 20 and 21 of the Land T
 (3) The new Agency must include in its annual report on the national land transport fund under section 11 of the Land Transport Management Act 2003 a statement of the total expenses or capital expenditure incurred from the 2008/09 financial year to date in fulfilling each of the Crown's commitments listed in subclause (1).
 (4) The reporting requirement in subclause (3) applies until all of the Crown's commitments listed in subclause (1) have been fulfilled.
 (5) To avoid doubt, compliance by the new Agency with this clause does not constitute a breach of section 95(2) of the Land Transport Management Act 2003.
+(6) An order under subclause (2) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 18 Approved procurement procedures
 Subject to clause 42, approved procurement procedures in effect under section 25 or 95(1) of the Land Transport Management Act 2003 immediately before 1 August 2008 continue to have effect as approved procurement procedures under that Act.
