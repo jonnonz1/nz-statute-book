@@ -1,5 +1,5 @@
 # Civil Aviation Act 1990
-_Consolidation as at 2021-04-01_
+_Consolidation as at 2021-10-28_
 
 > An Act—ato establish rules of operation and divisions of responsibility within the New Zealand civil aviation system in order to promote aviation safety; andbto ensure that New Zealand's obligations under international aviation agreements are implemented; andcto consolidate and amend the law relating to civil aviation in New Zealand
 
@@ -144,6 +144,7 @@ _Consolidation as at 2021-04-01_
 (5) Nothing in this Act shall be interpreted as limiting the privileges or immunities of—
   (a) any foreign military aircraft; or
   (b) the officers and crew of any foreign military aircraft.
+(6) An exemption under subsection (2)﻿(c) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements), unless it applies only to 1 or more named persons.
 
 ### 5 Civil Aviation Authority
 [Repealed]
@@ -729,7 +730,7 @@ The Director may, on receiving an application for a medical certificate from a l
 (2) The Director may designate, by issuing an aviation document under section 9, 1 or more aviation examiners to conduct specified examinations that the Director may require under this Part.
 
 ### 27G General directions and emergency directives
-(1) The Director may, by notice in the Gazette, issue general directions in relation to—
+(1) The Director may issue general directions in relation to—
   (a) conducting examinations of applicants and licence holders, and reporting the results of those examinations to the Director; and
   (b) providing exceptions for temporary medical conditions to the reporting requirements set out in section 27C; and
   (c) specifying the requirements of examinations or other clinical matters, which must be reasonable, including, but not limited to,—
@@ -740,10 +741,15 @@ The Director may, on receiving an application for a medical certificate from a l
 (3) General directions issued in relation to the matters specified in subsection (1)﻿(a) or (c) must be—
   (a) notified in writing to aviation examiners or medical examiners; and
   (b) incorporated in a medical manual issued by the Director.
-(4) The Director may issue directives in emergency situations without consultation or prior notice in the Gazette, but those directives—
-  (a) must be published in the Gazette as soon as practicable after they are issued; and
-  (b) expire on the day that is 90 days after the date on which they were issued.
-(5) The Director may reissue, under subsection (1), directives issued under subsection (4) before or after they expire.
+(4) The Director may issue directives in emergency situations without prior consultation.
+(4A) An emergency directive under subsection (4)—
+  (a) takes effect when it is issued, or at any later time specified in it; and
+  (b) expires on the day that is 90 days after the date on which it is issued.
+(5) The Director may reissue, as a general direction under subsection (1), directives issued under subsection (4) before or after they expire.
+(6) The following are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements):
+  (a) general directions under subsection (1):
+  (b) emergency directives under subsection (4).
+(7) An emergency directive under subsection (4) commences in accordance with subsection (4A)﻿(a), even if it is not yet published.
 
 ### 27H Investigation of medical condition of licence holder
 (1) The Director may, by written notice, require any licence holder, at the licence holder's expense, to undertake any tests, examinations, or re-examinations conducted by any suitably qualified and experienced person, or to provide any medical information, at any time before the expiry of his or her medical certificate, if the Director has reasonable grounds to believe that the licence holder—
@@ -893,15 +899,18 @@ Any person affected by a decision of the Director under section 27B (other than 
   (a) any application for a medical certificate lodged before the commencement of this Part:
   (b) any action begun with respect to a medical certificate before the commencement of this Part.
 (2) In the absence of rules providing for the issue of aviation documents to aviation examiners or medical examiners,—
-  (a) the Minister must establish the selection criteria for the issue of aviation documents to aviation examiners or medical examiners or classes of aviation examiners or medical examiners that the Director must use to issue those aviation documents, including any reasonable requirements—
+  (a) the Minister must, by notice, establish the selection criteria for the issue of aviation documents to aviation examiners or medical examiners or classes of aviation examiners or medical examiners that the Director must use to issue those aviation documents, including any reasonable requirements—
     (i) for examinations, training, and experience; and
     (ii) for ongoing training and development; and
     (iii) relating to the classification of aviation examiners and medical examiners and any related standards and restrictions on the exercise of their functions and powers; and
   (b) the Director must designate, by issuing an aviation document under section 9, 1 or more medical examiners to conduct examinations under section 27D; and
   (c) the Director may designate, by issuing an aviation document under section 9, 1 or more aviation examiners to conduct specified examinations that the Director may require under this Part.
-(3) In the absence of rules under section 30(b)﻿(x) or section 30(b)﻿(xi), the Minister must establish the criteria for the grant of delegations, including—
+(3) In the absence of rules under section 30(b)﻿(x) or section 30(b)﻿(xi), the Minister must, by notice, establish the criteria for the grant of delegations, including—
   (a) any requirements for the grant of delegations by the Director under section 27O(2); and
   (b) any requirements for the purposes of determining suitably qualified medical examiners and establishing the criteria for standard medical assessments under section 27O(2).
+(4) The following are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements):
+  (a) a notice under subsection (2)﻿(a):
+  (b) a notice under subsection (3).
 
 ### 27R Savings
 Any medical certificate issued under the rules before the commencement of this Part is deemed to be a medical certificate issued under this Part.
@@ -927,7 +936,7 @@ Any medical certificate issued under the rules before the commencement of this P
   (d) any other matter contemplated by any provision of this Act.
 (2) Any ordinary rule may apply generally or with respect to different classes of aircraft, aerodromes, aeronautical products, aeronautical procedures, or aviation related services, or with respect to the same class of aircraft, aerodrome, aeronautical product, aeronautical procedure, or aviation related service in different circumstances.
 (3) Any ordinary rule may apply generally throughout New Zealand or within any specified part or parts of New Zealand.
-(4) The commencement of any ordinary rule may be wholly suspended until it is applied by the Minister by notice in the Gazette.
+(4) The commencement of any ordinary rule may be wholly suspended until it is applied by the Minister by notice (see subsection (10)).
 (5) An ordinary rule may, on any terms and conditions that are specified in the rule,—
   (a) require or provide for a matter to be determined, undertaken, or approved by the Authority, the Director, or any other person; or
   (b) empower the Authority, the Director, or any other person to impose requirements or conditions as to the performance of any activity, including (but not limited to) any procedures to be followed.
@@ -936,14 +945,20 @@ Any medical certificate issued under the rules before the commencement of this P
   (b) public notice to be given of the exercise of any powers; or
   (c) any other matter.
 (6) No breach of any ordinary rule shall constitute an offence against this Act unless that offence is prescribed in regulations made under this Act.
-(7) An ordinary rule (except for an ordinary rule made by an Order in Council under section 34A(1))—
-  (a) is a disallowable instrument for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act; but
-  (b) is not a legislative instrument for the purposes of the Legislation Act 2012 (see section 34(2) and (3) of this Act).
+(7)
 (8) So far as the bylaws of any local authority are inconsistent with or repugnant to any ordinary rule made under this Act in force in the same locality, the bylaws shall be construed subject to the rules.
 (9) Notwithstanding clause 5 of Schedule 6 of the Public Service Act 2020, the Minister shall not delegate his or her power to make ordinary rules under this Act.
+(10) The following are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements):
+  (a) ordinary rules under this section:
+  (b) a notice under subsection (4).
+(11) If, under the Legislation Act 2019, an ordinary rule is not required to be published, the Minister must serve a copy of it on the persons (if any) whom the Minister considers appropriate.
+(12) An ordinary rule to which subsection (11) applies—
+  (a) has effect only in relation to a person on whom it is served under subsection (11); and
+  (b) comes into force in relation to that person immediately after it is served on the person (even though it is not published).
+(13) Service under subsection (11) may be effected in any way the Minister considers appropriate.
 
 ### 29 Rules relating to safety and security
-Without limiting the power conferred by section 28, in the interests of safety or security within the civil aviation system the Minister may make all or any of the following ordinary rules:
+(1) Without limiting the power conferred by section 28, in the interests of safety or security within the civil aviation system the Minister may make all or any of the following ordinary rules:
   (a)
   (b) rules providing for the use of aerodromes and other aviation related facilities, including but not limited to the following:
     (i) the provision of identification procedures for persons, aircraft, and any other aviation related things:
@@ -954,18 +969,21 @@ Without limiting the power conferred by section 28, in the interests of safety o
   (d) rules providing for the control of things likely to be hazardous to aviation safety, including but not limited to the following:
     (i) the safe carriage of firearms and other dangerous or hazardous goods or substances by air:
     (ii) the construction, use, or operation of anything likely to be hazardous to aviation safety.
+(2) Ordinary rules under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 29A Rules relating to airspace
-Without limiting the power conferred by section 28,—the Minister may make ordinary rules providing for the classification, designation, special use, prohibition, and the restriction of airspace and things affecting navigable airspace, including airspace used by aircraft used by the New Zealand Defence Force or a visiting force.
+(1) Without limiting the power conferred by section 28,—the Minister may make ordinary rules providing for the classification, designation, special use, prohibition, and the restriction of airspace and things affecting navigable airspace, including airspace used by aircraft used by the New Zealand Defence Force or a visiting force.
   (a) in the interests of safety or security within the civil aviation system; or
   (b) in the interests of national security; or
   (c) for any other reason in the public interest,—
+(2) Ordinary rules under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 29B Rules for noise abatement purposes
-Without limiting the power conferred by section 28, the Minister may make ordinary rules prescribing flight rules, flight paths, altitude restrictions, and operating procedures for the purposes of noise abatement in the vicinity of aerodromes.
+(1) Without limiting the power conferred by section 28, the Minister may make ordinary rules prescribing flight rules, flight paths, altitude restrictions, and operating procedures for the purposes of noise abatement in the vicinity of aerodromes.
+(2) Ordinary rules under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 30 Rules relating to general matters
-Without limiting the power conferred by section 28, the Minister may make ordinary rules for all or any of the following purposes:
+(1) Without limiting the power conferred by section 28, the Minister may make ordinary rules for all or any of the following purposes:
   (a) the designation, classification, and certification of all or any of the following:
     (i) aircraft:
     (ii) aircraft pilots:
@@ -1002,14 +1020,20 @@ Without limiting the power conferred by section 28, the Minister may make ordina
   (ca) to provide for the privileges of an air operator certificate to include conducting air operations in Australia:
   (d) the definitions, abbreviations, and units of measurement to apply within the civil aviation system:
   (e) prescribing the design and colours of the New Zealand Civil Air Ensign, and where and by whom it may be flown.
+(2) Ordinary rules under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 31 Power of Director to make emergency rules
 (1) Subject to subsection (2), the Director may from time to time, in accordance with section 35, make such emergency rules as may be necessary to alleviate or minimise any risk of the death of or a serious injury to any person, or of damage to any property.
 (2) The Director shall not make emergency rules unless it is impracticable in the circumstances of the particular case for the Minister to make ordinary rules to effectively alleviate or minimise the risk concerned.
-(3) The Minister may revoke any emergency rule made under subsection (1), and the revocation shall be notified as if it were an emergency rule.
-(4) An emergency rule—
-  (a) is a disallowable instrument for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act; but
-  (b) is not a legislative instrument for the purposes of the Legislation Act 2012 (see section 35(2) to (4) and (5A) of this Act).
+(3) The Minister may revoke any emergency rule made under subsection (1).
+(4) The following are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements):
+  (a) emergency rules under subsection (1):
+  (b) a revocation under subsection (3).
+(5) If, under the Legislation Act 2019, an emergency rule or revocation is not required to be published, the Director must serve a copy of it on the persons (if any) whom the Director considers appropriate.
+(6) If subsection (5) applies to an emergency rule or revocation,—
+  (a) the Director may serve a copy of it on the persons (if any) who the Director considers appropriate; and
+  (b) it comes into force in relation to that person immediately after it is served on the person (even though it is not published).
+(7) Service under subsection (5) may be effected in any way the Director considers appropriate.
 
 ### 32 Procedures relating to rules
 (1) Every ordinary rule shall—
@@ -1048,33 +1072,35 @@ Without limiting the power conferred by section 28, the Minister may make ordina
   (b) consult—
     (i) the persons, representative groups within the aviation industry or elsewhere, government departments, and Crown agencies; and
     (ii) the Environmental Protection Authority, established by section 7 of the Environmental Protection Authority Act 2011, about the contents of any rules that relate to the transportation of hazardous substances as defined in section 2(1) of the Hazardous Substances and New Organisms Act 1996.
-(2) If an ordinary rule (except for an ordinary rule made by an Order in Council under section 34A(1)) is made under this Act, then subject to subsection (3),—
-  (a) notice of the making of the rule must be given in the Gazette; and
-  (b) the rule must be made available by the Authority for purchase by members of the public at a reasonable price; and
-  (c) the notice must specify a place where the rule is available for inspection free of charge and for purchase.
-(3) Where for reasons of security it is inappropriate to notify a rule under subsection (2), the Minister shall notify such persons as he or she considers appropriate or necessary in the circumstances and service of notification may be effected in such other manner as the Minister considers appropriate or necessary in the circumstances, and the rule shall apply only to each person so notified (with effect from service of the rule on the person).
+(2)
+(3)
 (4)
 
 ### 34A Governor-General may make ordinary rules
 (1) Despite anything in this Part, the Governor-General may, by Order in Council, on the recommendation of the Minister, make, amend, or revoke an ordinary rule for any of the purposes for which the Minister may make, amend, or revoke an ordinary rule under this Part.
 (2) The Minister must have regard to the criteria specified in section 33(2) before making a recommendation under subsection (1).
 (3) Sections 32(1)﻿(a) and 34(1) do not apply to an ordinary rule made by Order in Council under subsection (1).
-(4) An ordinary rule or an amendment to an ordinary rule made by Order in Council under subsection (1) must (despite section 34(2)) be notified and made available in accordance with section 34(2) and (3) as part of the rules as if the Minister had made the rule or the amendment to the rule.
+(4)
 (5) The Minister may amend or revoke an ordinary rule or an amendment to an ordinary rule made by Order in Council under subsection (1) as if the Minister had made the ordinary rule or the amendment to the ordinary rule under this Part.
-(6) An Order in Council—
-  (a) is a disallowable instrument for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act; but
-  (b) is not a legislative instrument for the purposes of the Legislation Act 2012 (see subsection (4) and section 34(2) and (3) of this Act); and
-  (c) is not to be drafted by the PCO under section 59(2)﻿(a) of the Legislation Act 2012.
+(6) An order under this section—
+  (a) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements); and
+  (b) is not to be drafted by the PCO under section 67(d)﻿(i) of that Act.
+(7) If, under the Legislation Act 2019, the order is not required to be published, the Minister must serve a copy of it on the persons (if any) whom the Minister considers appropriate.
+(8) An order to which subsection (7) applies—
+  (a) has effect only in relation to a person on whom it is served under subsection (7); and
+  (b) comes into force in relation to that person immediately after it is served on the person (even though it is not published).
+(9) Service under subsection (7) may be effected in any way the Minister considers appropriate.
 
 ### 35 Procedure for making emergency rules
 (1) Before making an emergency rule, the Director shall consult with such persons, representative groups within the aviation industry or elsewhere, government departments, and Crown agencies as the Director in each case considers appropriate.
-(2) Subject to subsection (4), every emergency rule shall be notified in the Gazette and be made available by the Director for purchase by members of the public at a reasonable price, and the notification shall specify a place where the rule is available for inspection free of charge and for purchase.
-(3) Every emergency rule shall come into force immediately upon its being notified in the Gazette, or, where notified by service on any person under subsection (4), immediately upon service of notification upon that person and in respect of that person only.
-(4) Where for reasons of safety or security it is impracticable or inappropriate to notify an emergency rule under subsection (2), the Director shall notify such persons as he or she considers appropriate or necessary in the circumstances and service of such notification may be effected by facsimile, telephone, or such other manner as the Director considers appropriate or necessary in the circumstances.
+(2)
+(3)
+(4)
 (5) An emergency rule may be in force for a period not exceeding 90 days, and may be renewed by the Director once only for a further period not exceeding 30 days.
-(5A) The Minister may, at any time while an emergency rule is in force in accordance with subsection (5), by notice in the Gazette, renew the rule in accordance with subsection (5B) for a further period not exceeding 180 days from the date of the notification.
+(5A) The Minister may, at any time while an emergency rule is in force in accordance with subsection (5), by notice, renew the rule in accordance with subsection (5B) for a further period not exceeding 180 days from the date of the notification.
 (5B) Before renewing an emergency rule under subsection (5A), the Minister shall consult with such persons, representative groups within the aviation industry or elsewhere, government departments, and Crown agencies as the Minister thinks appropriate.
 (6) So far as any emergency rule is inconsistent or repugnant to any ordinary rule made under this Act, the emergency rule shall prevail.
+(7) A notice under subsection (5A) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 36 Incorporation by reference
 (1) The following, whether in written or electronic form, may be incorporated by reference in a rule made by the Minister, the Governor-General, or the Director:
@@ -1099,8 +1125,8 @@ Without limiting the power conferred by section 28, the Minister may make ordina
   (e) the place where the material can be purchased; and
   (f) if copies of the material are available in other ways, the details of where or how the material can be accessed or obtained.
 (6) All material incorporated by reference under subsection (1) or (2) must be made available at the Civil Aviation Registry for inspection by the public free of charge.
-(7) Part 2 of the Legislation Act 2012 does not apply to material incorporated by reference in a rule or to an amendment to, or a replacement of, that material.
-(8) Nothing in section 41 of the Legislation Act 2012 requires material that is incorporated by reference in a rule to be presented to the House of Representatives.
+(7) Part 3 of the Legislation Act 2019 does not apply to material incorporated by reference in a rule or to an amendment to, or a replacement of, that material.
+(8) Nothing in section 114 of the Legislation Act 2019 requires material that is incorporated by reference in a rule to be presented to the House of Representatives.
 (9) Subsections (1) to (8) do not affect the application of sections 29 to 32 of the Standards and Accreditation Act 2015.
 
 ### 37 Exemption power of Director
@@ -1132,6 +1158,7 @@ Without limiting the power conferred by section 28, the Minister may make ordina
 (4A) The power to prescribe, or provide for the fixing of, fees and charges in respect of any matter under this Act includes the power to prescribe, or provide for the fixing of, fees or charges, or both, in respect of any matter.
 (4B) Nothing in this section or in section 100 authorises the making of regulations prescribing charges in relation to traveller processing to which the Airports (Cost Recovery for Processing of International Travellers) Act 2014 applies.
 (5) For the purposes of this section, the expressions airport and airport authority shall have the same meaning as in the Airport Authorities Act 1966.
+(6) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 39 Rebates
 (1) The person or authority to whom any fees or charges are payable under regulations made under this Act may grant a rebate of such fees or charges to any person who is liable to pay them.
@@ -1172,6 +1199,9 @@ Without limiting the power conferred by section 28, the Minister may make ordina
   (a) the recommendation has been made at the request and with the concurrence of the Authority; and
   (b) he or she is satisfied that the Authority's income from other sources is not or will not be sufficient to enable it to perform its functions under this Act without the imposition of a levy at the rate recommended; and
   (c) he or she is satisfied that the Authority has consulted with such persons, representative groups within the aviation industry or elsewhere, government departments, and Crown agencies as he or she considers appropriate.
+(4) An order under this section—
+  (a) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements); and
+  (b) must be confirmed by an Act (see subpart 3 of Part 5 of the Legislation Act 2019).
 
 ### 42B Basis on which levies may be imposed
 (1) Different rates of levies may be imposed or varied under section 42A in respect of different classes of persons, aerodromes, aircraft, aeronautical products, or aviation related services, or on the basis of different times of use or on any other differential basis.
@@ -1190,13 +1220,10 @@ Without limiting the power conferred by section 28, the Minister may make ordina
     (iii) any aviation related service; or
     (iv) any privileges exercisable under any aviation document.
 
-### 42C Levy orders are confirmable instruments
-(1) Every Order in Council made under section 42A shall be laid before the House of Representatives not later than the 16th sitting day of the House of Representatives after the day on which it is made.
-(2) The explanatory note of every such Order in Council must indicate that—
-  (a) it is a confirmable instrument under section 47B of the Legislation Act 2012; and
-  (b) it is revoked at a time stated in the note, unless earlier confirmed by an Act of Parliament; and
-  (c) the stated time is the applicable deadline under section 47C(1)﻿(a) or (b) of that Act.
-(3) Where an Order in Council made under section 42A is revoked by section 47C(1)﻿(a) or (b) of the Legislation Act 2012, the following provisions shall apply:
+### 42C Effect if levy order not confirmed
+(1)
+(2)
+(3) If an Order in Council made under section 42A is revoked under subpart 3 of Part 5 of the Legislation Act 2019, the following provisions shall apply:
   (a) every levy imposed or increased or decreased by the order shall thereupon cease to be payable:
   (b) the revocation of the order does not affect the liability of any person to pay any amount under the order, so long as the liability was incurred while the order was in force:
   (c) where a payment of a levy under the order has been made in error or in excess of the amount payable, then, except so far as any other provision is made by any other Act in respect thereof, the person in respect of whom the payment was made shall, upon application made to the Authority, be entitled to a refund of the amount paid in error or in excess of the amount payable.
@@ -1910,7 +1937,7 @@ The prevention of the commission of crimes against the Aviation Crimes Act 1972 
 The Minister shall ensure that aviation security services are provided at all security designated aerodromes and security designated navigation installations.
 
 ### 77A Powers and duties of Minister to require screening, searching, and seizing
-(1) The Minister may, if the Minister considers it necessary to improve or enhance aviation security to enable New Zealand to be part of a concerted international response to a threat to aviation security, or if the Minister considers it is in the public interest or national interest to do so, direct an aviation security service provider, by notice in the Gazette,—
+(1) The Minister may, if the Minister considers it necessary to improve or enhance aviation security to enable New Zealand to be part of a concerted international response to a threat to aviation security, or if the Minister considers it is in the public interest or national interest to do so, direct an aviation security service provider, by notice,—
   (a) to screen—
     (i) any person boarding an aircraft:
     (ii) any thing to be carried on an aircraft:
@@ -1924,7 +1951,7 @@ The Minister shall ensure that aviation security services are provided at all se
   (b) if necessary, to undertake reasonable searches of—
     (i) any person boarding an aircraft:
     (ii) any thing to be carried on an aircraft:
-    (iii) any (as specified in the Gazette notice)—
+    (iii) any (as specified in the notice)—
       (A) aircraft or class of aircraft:
       (B) aerodrome or class of aerodrome:
       (C) navigation installation or class of navigation installation:
@@ -1935,26 +1962,29 @@ The Minister shall ensure that aviation security services are provided at all se
       (A) before the person, item, substance, or vehicle enters a security enhanced area:
       (B) present in a security enhanced area:
     (vi) any unattended item, substance, or vehicle in a security enhanced area:
-  (c) to seize any item or substance specified in the Gazette notice if the aviation security officer has reasonable grounds to believe that there is no lawful authority or reasonable excuse for the item or substance to be carried on an aircraft.
-(1A) An aviation security service provider directed under subsection (1) must screen and search for any item or substance specified in the Gazette notice.
+  (c) to seize any item or substance specified in the notice if the aviation security officer has reasonable grounds to believe that there is no lawful authority or reasonable excuse for the item or substance to be carried on an aircraft.
+(1A) An aviation security service provider directed under subsection (1) must screen and search for any item or substance specified in the notice.
 (2) Before directing an aviation security provider under subsection (1), the Minister must consult—
   (a) the Director; and
   (b) as the Minister in each case considers appropriate and practical, other ministers, representative groups in the aviation industry, government departments, and Crown agencies.
-(3) A direction made under subsection (1) takes effect on the date specified in the notice, which may be a date before the notice is published in the Gazette if the Minister—
+(3) A direction made under subsection (1) takes effect on the date specified in the notice, which may be a date before the notice is published under the Legislation Act 2019 (see subsection (9)) if the Minister—
   (a) considers on reasonable grounds that urgent action is required; and
   (b) has consulted the Director before that date; and
   (c) has notified all affected parties (other than persons boarding an aircraft) before that date.
-(4) If a direction takes effect on a date before the notice is published in the Gazette,—
-  (a) the direction expires 28 days after that date unless the notice is published in the Gazette within 28 days of that date; and
-  (b) if the notice is published in the Gazette within 28 days of that date, the direction expires 90 days after that date unless, before the expiry of the 90-day period, the Minister, after complying with subsection (3)﻿(b) and (c), extends the period for a further specified period not exceeding 90 days (the aggregate period may not exceed 180 days).
-(5) A direction that takes effect on a date on or after the notice is published in the Gazette is a disallowable instrument for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
-(5A) No direction made under subsection (1) is a legislative instrument for the purposes of the Legislation Act 2012.
-(6) The Minister may rescind a direction made under subsection (1).
+(4) If a direction takes effect on a date before the notice is published under the Legislation Act 2019,—
+  (a) the direction expires 28 days after that date unless the notice is published under the Legislation Act 2019 within 28 days of that date; and
+  (b) if the notice is published under the Legislation Act 2019 within 28 days of that date, the direction expires 90 days after that date unless, before the expiry of the 90-day period, the Minister, after complying with subsection (3)﻿(b) and (c), extends the period for a further specified period not exceeding 90 days (the aggregate period may not exceed 180 days).
+(5)
+(5A)
+(6) The Minister may, by notice, rescind a direction made under subsection (1).
 (7) Subject to subsection (4), a direction remains in effect until it is rescinded.
 (8) Nothing in this section empowers the Minister to exercise the Director's powers under section 77B.
+(9) The following are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements):
+  (a) a notice under subsection (1):
+  (b) a notice under subsection (6).
 
 ### 77B Powers and duties of Director to require screening, searching, and seizing
-(1) The Director may, if he or she believes on reasonable grounds that a security risk exists, direct an aviation security service provider, by notice in the Gazette,—
+(1) The Director may, if he or she believes on reasonable grounds that a security risk exists, direct an aviation security service provider, by notice,—
   (a) to screen—
     (i) any person boarding an aircraft:
     (ii) any thing to be carried on an aircraft:
@@ -1968,7 +1998,7 @@ The Minister shall ensure that aviation security services are provided at all se
   (b) if necessary, to undertake reasonable searches of—
     (i) any person boarding an aircraft:
     (ii) any thing to be carried on an aircraft:
-    (iii) any (as specified in the Gazette notice)—
+    (iii) any (as specified in the notice)—
       (A) aircraft or class of aircraft:
       (B) aerodrome or class of aerodrome:
       (C) navigation installation or class of navigation installation:
@@ -1979,23 +2009,25 @@ The Minister shall ensure that aviation security services are provided at all se
       (A) before the person, item, substance, or vehicle enters a security enhanced area:
       (B) present in a security enhanced area:
     (vi) any unattended item, substance, or vehicle in a security enhanced area:
-  (c) seize any item or substance specified in the Gazette notice if the aviation security officer has reasonable grounds to believe that there is no lawful authority or reasonable excuse for the item or substance to be carried on an aircraft.
-(1A) An aviation security service provider directed under subsection (1) must screen and search for any item or substance specified in the Gazette notice.
+  (c) seize any item or substance specified in the notice if the aviation security officer has reasonable grounds to believe that there is no lawful authority or reasonable excuse for the item or substance to be carried on an aircraft.
+(1A) An aviation security service provider directed under subsection (1) must screen and search for any item or substance specified in the notice.
 (2) Before directing an aviation security provider under subsection (1), the Director must, to determine whether or not the direction is necessary to meet the security risk, consult, as the Director in each case considers appropriate and practical, representative groups in the aviation industry, government departments, and Crown agencies.
-(3) A direction made under subsection (1) takes effect on the date specified in the notice, which may be a date before the notice is published in the Gazette, if the Director—
+(3) A direction made under subsection (1) takes effect on the date specified in the notice, which may be a date before the notice is published under the Legislation Act 2019 (see subsection (8)), if the Director—
   (a) considers on reasonable grounds that urgent action is required; and
   (b) has notified all affected parties (other than persons boarding an aircraft) before that date.
-(4) If a direction takes effect on a date before the notice is published in the Gazette,—
-  (a) the direction expires 28 days after that date unless the notice is published in the Gazette within 28 days of that date; and
-  (b) if the notice is published in the Gazette within 28 days of that date, the direction expires 90 days after that date unless, before the expiry of the 90-day period, the Director, after complying with subsection (3)﻿(b), extends the period for a further specified period not exceeding 90 days (the aggregate period may not exceed 180 days).
-(5) A direction that takes effect on a date on or after the notice is published in the Gazette is a disallowable instrument for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
-(5A) No direction made under subsection (1) is a legislative instrument for the purposes of the Legislation Act 2012.
-(6) The Director may rescind a direction made under subsection (1).
+(4) If a direction takes effect on a date before the notice is published under the Legislation Act 2019,—
+  (a) the direction expires 28 days after that date unless the notice is published under the Legislation Act 2019 within 28 days of that date; and
+  (b) if the notice is published under the Legislation Act 2019 within 28 days of that date, the direction expires 90 days after that date unless, before the expiry of the 90-day period, the Director, after complying with subsection (3)﻿(b), extends the period for a further specified period not exceeding 90 days (the aggregate period may not exceed 180 days).
+(5)
+(5A)
+(6) The Director may, by notice, rescind a direction made under subsection (1).
 (7) Subject to subsection (4), a direction remains in effect until it is rescinded.
+(8) The following are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements):
+  (a) a notice under subsection (1):
+  (b) a notice under subsection (6).
 
 ### 77BA Certain Gazette notices may not include security sensitive information
-(1) A notice to be published in the Gazette under section 77A(1) or 77B(1) in relation to security enhanced areas may not include security sensitive information.
-(2) For the purposes of this section, security sensitive information means information that would prejudice the national security interests of New Zealand if disclosed.
+[Repealed]
 
 ### 77C Transitional provisions for screening
 (1) A direction requiring the screening of domestic aircraft passenger services made by the Director before 1 June 2002 continues in force until 1 September 2002, on which date it expires; however, the Director may rescind the direction before 1 September 2002.
@@ -2509,9 +2541,10 @@ Except as may be provided in regulations made under section 4 of the Tokelau Act
 (6) If the Minister declines to authorise any provision of any contract, arrangement, or understanding under this section, the Minister shall give notice in the Gazette that authorisation has been declined.
 
 ### 89 Minister may issue commission regimes
-The Minister may from time to time, by notice in the Gazette,—
+(1) The Minister may from time to time, by notice,—
   (a) issue commission regimes; and
   (b) amend or revoke any commission regime so issued.
+(2) A notice under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 90 Authorisation of tariffs by Minister
 (1) The Minister may from time to time specially authorise any tariff in respect of international carriage by air where the relevant places of departure and destination are within the territories of 2 countries, one of which is New Zealand, whether or not there is to be a break in the carriage or a transhipment.
@@ -2638,6 +2671,7 @@ For the purposes of Article 20 of the Montreal Convention or Article 21 of the a
 (2) An Order in Council under this section is, except in so far as it has been superseded by a subsequent order, sufficient evidence of the matters so certified.
 (3) An Order in Council under this section may contain such transitional and other consequential provisions as the Governor-General considers to be desirable.
 (4) An Order in Council under this section certifying who are the High Contracting Parties to the amended Convention or the Parties to the Guadalajara Convention or the Parties to the Hague Protocol or the Parties to Additional Protocol No 1 or No 2 or to Protocol No 4 or the High Contracting Parties to the Warsaw Convention or the Parties to the Montreal Convention, must specify the date on and from which any such Party became or ceased to be a Party.
+(5) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 91L Article 40A of amended Convention
 (1) Paragraph (2) of Article 40A of the amended Convention does not extend references in the amended Convention to the territory of a High Contracting Party to include any territory in respect of which that High Contracting Party is not a Party.
@@ -2646,6 +2680,7 @@ For the purposes of Article 20 of the Montreal Convention or Article 21 of the a
 ### 91M Power to exclude aircraft in use for military purposes
 (1) The Governor-General may from time to time, by Order in Council, direct that subsection (2) applies or ceases to apply to New Zealand or any other State specified in the order.
 (2) The Montreal Convention or the amended Convention do not apply to the carriage of persons, cargo, and baggage for the military authorities of a State to which this subsection applies in aircraft registered in that State if the whole capacity of the aircraft has been reserved by, or on behalf of, those authorities.
+(3) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 **Transitional provisions**
 
@@ -2696,8 +2731,11 @@ This Part does not apply so as to affect rights or liabilities arising out of an
   (b) prescribe any arrangements for making advance payments for compensation that carriers must make to natural persons under Article 28 of the Montreal Convention:
   (c) amend Schedule 6 by making such amendments to the text of the Montreal Convention set out in that schedule as are required to bring that text up to date:
   (d) revoke Schedule 6, and substitute a new schedule setting out, in an up-to-date form, the text of the Montreal Convention.
-(2) An order made under subsection (1) is a legislative instrument and a disallowable instrument for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
+(2)
 (3) The Governor-General may from time to time, by Order in Council, make regulations providing for such matters as are contemplated by or necessary for giving full effect to the provisions of this Part and for its due administration.
+(4) The following are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements):
+  (a) an order under subsection (1):
+  (b) regulations under subsection (3).
 
 ## Part 9B — Domestic carriage by air
 
@@ -2890,13 +2928,14 @@ In this Part, the expression joint venture airport means an aerodrome or airport
   (b) fails to comply with subsection (2).
 (5) A person who commits an offence against subsection (4) is liable on conviction to a fine not exceeding $1,000.
 (6) Nothing in the Sale and Supply of Alcohol Act 2012 applies to the sale of alcohol under the authority of this section or of any regulations made under it.
+(7) Regulations under subsection (3) are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 96A Minister may prohibit smoking or vaping on international air routes
 (1) For the purposes of this section and sections 96B and 96C,—
   - **New Zealand international airline** means a New Zealand air transport enterprise that is offering or operating a scheduled international air service or a non-scheduled international flight
   - **to smoke** means to smoke, hold, or otherwise have control over an ignited product, weed, or plant; and and have corresponding meanings
   - **to vape** means to inhale using a vaping device or a heated tobacco product, and has a corresponding meaning.
-(2) The Minister may from time to time, by notice in the Gazette,—
+(2) The Minister may from time to time, by notice,—
   (a) designate any 1 or more international air routes, or class or classes of international air routes, or all international air routes generally, as non-smoking routes; and
   (b) exempt any specified route or part of a route from any designation imposed by the Minister in accordance with paragraph (a), subject to any conditions that the Minister thinks fit.
 (3) The Minister shall, before giving any notice under subsection (2), consult with New Zealand international airlines.
@@ -2905,6 +2944,7 @@ In this Part, the expression joint venture airport means an aerodrome or airport
   (b) an announcement is made to passengers on the aircraft at the commencement of each journey on the route advising that smoking or vaping is not permitted.
 (5) No New Zealand international airline that is operating an aircraft carrying passengers on any route designated as a non-smoking route pursuant to this section shall permit any person to smoke or vape on that aircraft.
 (6) No person shall smoke or vape while on any aircraft operated by a New Zealand international airline carrying passengers on any route designated as a non-smoking route pursuant to this section.
+(7) A notice under subsection (2) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 96B Offences in respect of smoking on international flights
 (1) Every person commits an offence who, being a New Zealand international airline, without reasonable excuse, fails to comply with the requirements of section 96A(4).
@@ -2948,7 +2988,7 @@ In this Part, the expression joint venture airport means an aerodrome or airport
 (2) Nothing in this section shall apply to aerodrome control services or aerodrome flight information services.
 
 ### 99A Regulations relating to information disclosure
-Without limiting section 100, the Governor-General may from time to time, by Order in Council, make regulations for all or any of the following purposes:
+(1) Without limiting section 100, the Governor-General may from time to time, by Order in Council, make regulations for all or any of the following purposes:
   (a) requiring every holder of an aviation document relating to an air traffic service to publish in the prescribed manner information in relation to the provision of that service by that holder; and prescribing the information, including prices, terms, and conditions, that the holder shall make available, which information shall include—
     (i) prices, terms, and conditions:
     (ii) pricing policies and methodologies:
@@ -2958,6 +2998,7 @@ Without limiting section 100, the Governor-General may from time to time, by Ord
   (c) prescribing the form and manner in which the financial statements required by any regulations made under paragraph (b) shall be made available:
   (d) prescribing the form of statutory declaration and by whom it shall be made for the purpose of section 99B:
   (e) prescribing the time limits within which the information disclosure required by any regulations made under this section shall be made to the public.
+(2) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 99B Information to be supplied to Secretary
 (1) Every person who is required by regulations made under section 99A to make available statements and information shall supply to the Secretary—
@@ -3009,6 +3050,7 @@ Without limiting section 100, the Governor-General may from time to time, by Ord
 (3) To the extent that a rule made under section 28, 29, 29A, or 30 or a direction made under section 77A is inconsistent with a regulation made under subsection (1)﻿(ee), the rule or direction is subject to the regulation.
 (4) No regulation made under subsection (1)﻿(ee) may be considered invalid because it confers any discretion upon or allows any matter to be determined or approved by the Authority or the Director or any other person, or allows the Authority or the Director or any other person to impose requirements as to the performance of any activities.
 (5) So far as the bylaws of any local authority are inconsistent with or repugnant to any regulation made under subsection (1)﻿(ee) in force in the same locality, the bylaws must be construed subject to the regulations made under subsection (1)﻿(ee).
+(6) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 100A Burden of proof of exceptions, etc, for offences in rules and regulations
 (1) This section applies to any offence contained in rules or regulations made pursuant to this Act.
@@ -3060,7 +3102,7 @@ The provisions of the Cape Town Convention and the Aircraft Protocol, subject to
 (2) An Order in Council made under subsection (1) must state the date on which—
   (a) New Zealand made the relevant declaration; and
   (b) the declaration takes or took effect.
-(3) An Order in Council made, or a declaration issued, under subsection (1) is a legislative instrument, but not a disallowable instrument, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
+(3) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 108 Certificates about Contracting States
 (1) The Secretary of Foreign Affairs and Trade, or a Deputy Secretary of Foreign Affairs and Trade, may sign a certificate that states whether, in respect of any specified day or period,—
