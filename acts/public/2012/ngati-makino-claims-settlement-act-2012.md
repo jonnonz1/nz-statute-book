@@ -1,5 +1,5 @@
 # Ngāti Mākino Claims Settlement Act 2012
-_Consolidation as at 2021-01-30_
+_Consolidation as at 2021-10-28_
 
 ## Preamble
 (1) Ngāti Mākino are part of the Te Arawa confederation of tribes and have strong connections to Ngāti Awa. Traditionally, they occupied the area between the Rotorua lakes and the Bay of Plenty coast where they existed as an independent iwi:
@@ -592,13 +592,14 @@ The only purposes of the declaration of a whenua rāhui under section 38 and of 
 (4) This section does not limit section 47(2).
 
 ### 49 Regulations
-The Governor-General may, by Order in Council made on the recommendation of the Minister of Conservation, make regulations for 1 or more of the following purposes:
+(1) The Governor-General may, by Order in Council made on the recommendation of the Minister of Conservation, make regulations for 1 or more of the following purposes:
   (a) to provide for the implementation of objectives included in a strategy or plan under section 48(1):
   (b) to regulate or prohibit activities or conduct by members of the public in the whenua rāhui site:
   (c) to create offences for breaches of regulations made under paragraph (b):
   (d) to provide for the following fines to be imposed:
     (i) for an offence referred to in paragraph (c), a fine not exceeding $5,000; and
     (ii) for a continuing offence, an additional amount not exceeding $50 for every day during which the offence continues.
+(2) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 50 Bylaws
 (1) The Minister of Conservation may make bylaws for 1 or more of the following purposes:
@@ -608,7 +609,7 @@ The Governor-General may, by Order in Council made on the recommendation of the 
   (d) to provide for the following fines to be imposed:
     (i) for an offence referred to in paragraph (c), a fine not exceeding $1,000; and
     (ii) for a continuing offence, an additional amount not exceeding $50 for every day during which the offence continues.
-(2) Bylaws made under this section are regulations for the purposes of the Acts and Regulations Publication Act 1989 and the Regulations (Disallowance) Act 1989.
+(2) Bylaws under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 51 Existing classification of whenua rāhui site
 (1) This section applies if the whenua rāhui applies to any land in—
@@ -629,6 +630,7 @@ The Governor-General may, by Order in Council made on the recommendation of the 
   (a) subsection (2)﻿(c) applies; or
   (b) there is a change in the statutory management regime that applies to all or part of the whenua rāhui site.
 (4) The Crown must take reasonable steps to try to ensure that the trustees continue to have the opportunity to contribute to the management of the area concerned.
+(5) The Minister of Conservation must ensure that an order under this section is published in the Gazette.
 
 ### 53 Exercise of powers, functions, and duties
 (1) This section applies except to the extent that this subpart expressly provides otherwise.
