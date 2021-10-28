@@ -1,5 +1,5 @@
 # Armed Forces Canteens Act 1948
-_Consolidation as at 2014-12-01_
+_Consolidation as at 2021-10-28_
 
 > An Act to constitute the Armed Forces Canteen Council, to provide for the establishment of canteens and other amenities for the benefit of the Armed Forces, and for matters incidental thereto
 
@@ -8,14 +8,14 @@ This Act may be cited as the Armed Forces Canteens Act 1948 and shall come into 
 
 ### 2 Interpretation
 In this Act, unless the context otherwise requires,—
-  - **amenities** means canteens, cinematograph theatres and other theatres and places of social entertainment, hairdressing saloons, cafeterias, shops, and other facilities calculated to meet the current requirements of members of Her Majesty's Armed Forces and of other persons employed or residing on service establishments; but does not include any service mess
+  - **amenities** means canteens, cinematograph theatres and other theatres and places of social entertainment, hairdressing saloons, cafeterias, shops, and other facilities calculated to meet the current requirements of members of His Majesty's Armed Forces and of other persons employed or residing on service establishments; but does not include any service mess
   - **Council** means the Armed Forces Canteen Council constituted under this Act
   - **financial statements** has the same meaning as in section 6 of the Financial Reporting Act 2013
   - **financial year** means a year ending on 31 March
   - **Fund** means the Armed Forces Canteen Fund established under this Act
   - **generally accepted accounting practice** has the same meaning as in section 8 of the Financial Reporting Act 2013
   - **Minister** means the Minister of Defence
-  - **service establishment** means any place where members of Her Majesty's Armed Forces are from time to time stationed or assembled under naval, military, or air force control.
+  - **service establishment** means any place where members of His Majesty's Armed Forces are from time to time stationed or assembled under naval, military, or air force control.
 
 **The Armed Forces Canteen Council**
 
@@ -126,7 +126,7 @@ The Minister may from time to time—
 
 ### 14 Distribution of profits
 (1) After such provision has been made as the Council thinks proper for liabilities, whether accrued or contingent, for reserves, and for future activities of the Council, the profits arising from the activities of the Council shall from time to time be disposed of in such manner as the Council, with the approval of the Minister, thinks fit for the benefit of—or may, with the approval of the Minister, be paid to the Chief of Defence Force for disposal for any other purposes that the Chief of Defence Force considers to be of advantage to the New Zealand Naval Forces, the New Zealand Army, or the Royal New Zealand Air Force, as the case may be, or the members thereof.
-  (a) members of any of Her Majesty's forces or their dependants or the dependants of deceased members; or
+  (a) members of any of His Majesty's forces or their dependants or the dependants of deceased members; or
   (b) any other persons from whom revenue has been derived by the Council;—
 (1A) The Council may pay any profits to which subsection (1) applies to the Chief of Defence Force, or any persons administering any fund, for distribution in accordance with the provisions of that subsection, and on any such payment being made the Council shall not be liable to see to the application of the money so paid.
 (2) At any time during any financial year, if the Council is of opinion that there will for that year be a surplus of profits available for disposal after making the provision referred to in subsection (1), the Council may, with the approval of the Minister, make in anticipation of that surplus any such disposal of funds as is authorised by that subsection.
@@ -149,7 +149,8 @@ The Minister may from time to time—
 (2) Amendment(s) incorporated in the Act(s).
 
 ### 17 Regulations
-The Governor-General may from time to time, by Order in Council, make regulations in respect of any matter for which regulations are contemplated by this Act or which in his opinion are necessary or expedient for giving full effect to the provisions of this Act and for the due administration thereof.
+(1) The Governor-General may from time to time, by Order in Council, make regulations in respect of any matter for which regulations are contemplated by this Act or which in his opinion are necessary or expedient for giving full effect to the provisions of this Act and for the due administration thereof.
+(2) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 18 Revocations
 The Defence Canteen Emergency Regulations 1939 and the Defence Canteen Emergency Regulations 1939, Amendment No 1, are hereby revoked.
