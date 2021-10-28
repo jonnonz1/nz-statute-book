@@ -1,11 +1,12 @@
 # Nuclear-Test-Ban Act 1999
-_Consolidation as at 2013-08-05_
+_Consolidation as at 2021-10-28_
 
 > An Act to implement in the law of New Zealand the Comprehensive Nuclear-Test-Ban Treaty
 
 ### 1 Short Title and commencement
 (1) This Act may be cited as the Nuclear-Test-Ban Act 1999.
 (2) This Act comes into force on a date to be appointed by the Governor-General by Order in Council.
+(3) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ## Part 1 — Preliminary provisions
 
@@ -128,7 +129,7 @@ The Minister may issue a certificate identifying an international inspector or o
   (a) may not be made unless the consent of a person in control of the place is not, or may not be, obtainable; and
   (b) must be made in writing by a constable or person appointed under section 15; and
   (c) must include a copy of relevant provisions of the Treaty and a copy of the inspection mandate.
-(3) For the purposes of subsection (2)(a), consent means consent to an international inspector, and any person accompanying or assisting the inspector, entering the place to exercise any function contemplated, or any power provided for, in the Treaty.
+(3) For the purposes of subsection (2)﻿(a), consent means consent to an international inspector, and any person accompanying or assisting the inspector, entering the place to exercise any function contemplated, or any power provided for, in the Treaty.
 (4) A warrant issued under subsection (1)—
   (a) authorises the international inspector (and any person authorised to accompany or assist the inspector) to enter the place, at any time within 14 days of the issue of the warrant (or within such further time as the Judge, Justice, Community Magistrate, or Registrar may specify in the warrant) for the purpose of exercising any function contemplated, or any power provided for, in the Treaty:
   (b) authorises a constable, or person appointed under section 15, who accompanies the international inspector, to use such force as is reasonable in the circumstances for effecting entry to or inspection of a place specified in the warrant (including force to break down a door or break open anything in the place):
@@ -178,7 +179,9 @@ The Minister may issue a certificate identifying an international inspector or o
 (2) The Governor-General may from time to time, by Order in Council,—
   (a) amend the Schedule by making such amendments to the text of the extracts of the Treaty set out in the Schedule as are required to bring that text up to date:
   (b) revoke the Schedule, and substitute a new schedule setting out in an up-to-date form the text of the extracts of the Treaty.
-(3) An order made under subsection (2) is a legislative instrument and a disallowable instrument for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
+(3) The following are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements):
+  (a) regulations under this section; and
+  (b) an order under subsection (2).
 
 **Application to Tokelau**
 
@@ -193,7 +196,7 @@ The Minister may issue a certificate identifying an international inspector or o
 **Amendment to Diplomatic Privileges and Immunities Act 1968**
 
 ### 24 Amendment to Diplomatic Privileges and Immunities Act 1968
-Section 10A of the Diplomatic Privileges and Immunities Act 1968 is amended by inserting, after paragraph (aa), the following paragraph:.
+Section 10A of the Diplomatic Privileges and Immunities Act 1968 is amended by inserting, after paragraph (aa), the following paragraph:
   (ab) confer upon any persons to whom paragraph 57 of Article II of the Comprehensive Nuclear-Test-Ban Treaty applies, and any persons to whom Part II, Section B of the Protocol to that Treaty applies, any additional privileges and immunities that are required by that Treaty; and
 
 ## Schedule  — Extracts from the English text of the Comprehensive Nuclear-Test-Ban Treaty
