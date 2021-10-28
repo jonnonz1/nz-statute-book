@@ -1,11 +1,12 @@
 # Domicile Act 1976
-_Consolidation as at 1981-01-01_
+_Consolidation as at 2021-10-28_
 
 > An Act to abolish the dependent domicile of married women and otherwise to reform the law relating to domicile
 
 ### 1 Short Title and commencement
 (1) This Act may be cited as the Domicile Act 1976.
 (2) This Act shall come into force on a date to be appointed by the Governor-General by Order in Council.
+(3) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 2 Interpretation
 In this Act, unless the context otherwise requires,—
