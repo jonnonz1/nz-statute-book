@@ -1,5 +1,5 @@
 # Waitaha Claims Settlement Act 2013
-_Consolidation as at 2021-01-30_
+_Consolidation as at 2021-10-28_
 
 ## Preamble
 (1) Recitals (2) to (12) of this Preamble present, in summary form, the historical account set out in the deed of settlement entered into by Waitaha and the Crown:
@@ -632,13 +632,14 @@ The only purposes of the declaration of Te Whakairinga Kōrero and of the Crown'
 (4) This section does not limit section 51(2).
 
 ### 53 Regulations
-The Governor-General may, by Order in Council made on the recommendation of the Minister of Conservation, make regulations for the following purposes:
+(1) The Governor-General may, by Order in Council made on the recommendation of the Minister of Conservation, make regulations for the following purposes:
   (a) to provide for the implementation of objectives incorporated in a strategy or plan under section 52(1):
   (b) to regulate or prohibit activities by or conduct of members of the public on a Te Whakairinga Kōrero site:
   (c) to create offences for breaches of regulations made under paragraph (b):
   (d) to provide for the following fines to be imposed:
     (i) for an offence referred to in paragraph (c), a fine not exceeding $5,000; and
     (ii) for a continuing offence, an additional amount not exceeding $50 for every day during which the offence continues.
+(2) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 54 Bylaws
 (1) The Minister of Conservation may make bylaws for the following purposes:
@@ -648,13 +649,10 @@ The Governor-General may, by Order in Council made on the recommendation of the 
   (d) to provide for the following fines to be imposed:
     (i) for an offence referred to in paragraph (c), a fine not exceeding $1,000; and
     (ii) for a continuing offence, an additional amount not exceeding $50 for every day during which the offence continues.
-(2) Bylaws made under this section—
-  (a) are a legislative instrument and a disallowable instrument for the purposes of the Legislation Act 2012; and
-  (b) must be presented to the House of Representatives under section 41 of that Act.
+(2) Bylaws under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 55 Amendment relating to Legislation Act 2012
-(1) This section amends this Act and takes effect on the repeal by the Legislation Act 2012 of the Acts and Regulations Publication Act 1989 and the Regulations (Disallowance) Act 1989.
-(2) Amendment(s) incorporated in the Act(s).
+[Repealed]
 
 ### 56 Existing classification of Te Whakairinga Kōrero
 (1) This section applies if Te Whakairinga Kōrero applies to any land in—
@@ -674,6 +672,7 @@ The Governor-General may, by Order in Council made on the recommendation of the 
   (a) subsection (2)﻿(a) or (b) applies; or
   (b) there is a change in the statutory management regime that applies to all or part of Ōtawa or Te Ara a Hei.
 (4) The Crown must take reasonable steps to try to ensure that the trustees continue to have the opportunity to contribute to the management of the area concerned.
+(5) The Minister of Conservation must ensure that an order under this section is published in the Gazette.
 
 ### 58 Exercise or performance of powers, functions, and duties
 Except as expressly provided in this subpart,—
@@ -800,6 +799,7 @@ In this subpart, unless the context otherwise requires,—
   (c) Ngāti Rangiwewehi:
   (d) Ngāti Pūkenga:
   (e) Tapuika.
+(4) An order under subsection (1) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 74 Ōtanewainuku
 (1) Ōtanewainuku ceases to be a conservation area under the Conservation Act 1987.
