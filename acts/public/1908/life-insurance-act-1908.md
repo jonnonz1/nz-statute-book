@@ -1,5 +1,5 @@
 # Life Insurance Act 1908
-_Consolidation as at 2021-01-30_
+_Consolidation as at 2021-10-28_
 
 > An Act to consolidate certain enactments of the General Assembly relating to life insurance
 
@@ -405,6 +405,7 @@ It shall be lawful for any company to issue, on the life of a minor of any age, 
   (a) the total amount of premiums paid under the policy issued by the company on the life of the minor, together with interest on the total amount of premiums calculated in accordance with Schedule 2 of the Interest on Money Claims Act 2016; and
   (b) the amount that, when added to any other sum permitted by this paragraph to be paid by any other company or by any friendly society, equals $2,000 or such larger sum as may from time to time be specified by Order in Council for the purposes of this paragraph.
 (2) Nothing in subsection (1) limits section 41A and interest under that section may be paid in addition to the amounts required to be aggregated for the purposes of subsection (1) of this section and irrespective of the limit imposed by that subsection.
+(3) An order under subsection (1)﻿(b) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 67C Limitation on persons to whom payments may be made where deceased minor under the age of 16 years
 No company shall pay, on the death of a minor who is under the age of 16 years, any sum under any policy issued on or after 1 April 1986 to any person other than—
@@ -598,7 +599,8 @@ No company shall forfeit any policy excepting upon the following conditions:
 The Minister shall be entitled and is hereby empowered to require such additional explanation of or information with respect to any statement or balance sheet required by this Act to be made or prepared by any company, or with respect to any form of policy, table of rates, prospectus, or other document deposited under section 8, or with respect to industrial insurance as conducted by the company, as he or she deems necessary for the purposes of this Act.
 
 ### 13 Governor-General may make regulations
-The Governor-General may, by Order in Council, make any regulations which he or she may deem necessary for the purpose of carrying this Part into effect and of enforcing the provisions of this Part.
+(1) The Governor-General may, by Order in Council, make any regulations which he or she may deem necessary for the purpose of carrying this Part into effect and of enforcing the provisions of this Part.
+(2) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 14 Penalties on company making default
 (1) If any company makes default in duly complying with the requirements of this Part or with any request made by the Minister under section 12, and continues in default for 7 days after notice by the Minister, or in case any company makes default in the performance of any obligation imposed on it by any regulation made under the last preceding section, then and in every such case the company, and also its attorney, general agent, or other agent, shall be severally liable to a fine not exceeding £50 for every day during which such default continues.
