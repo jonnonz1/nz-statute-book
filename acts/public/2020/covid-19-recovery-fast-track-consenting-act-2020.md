@@ -1,5 +1,5 @@
 # COVID-19 Recovery (Fast-track Consenting) Act 2020
-_Consolidation as at 2020-07-08_
+_Consolidation as at 2021-10-28_
 
 ### 1 Title
 This Act is the COVID-19 Recovery (Fast-track Consenting) Act 2020.
@@ -365,6 +365,7 @@ In considering, for the purpose of section 18(2), whether a project will help to
 (4) A referral order may be amended by Order in Council,—
   (a) in the case of a substantive amendment, only if an application for referral is made and considered under this subpart for the project as amended; and
   (b) in the case of an amendment to correct a minor error or omission, without any need for an application to be made or considered under this subpart and without having to comply with the requirements set out in Schedule 3.
+(5) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 **Functions of EPA**
 
@@ -440,6 +441,7 @@ For an agency that undertakes work on infrastructure in reliance on this subpart
   (b) specify the permitted activities for the agency; and
   (c) specify any activities, in addition to those listed in section 32, that are excluded from being permitted activities for the agency; and
   (d) specify the permitted activity standards that apply to the agency.
+(4) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 35 Monitoring and enforcement
 (1) A local authority may—
@@ -494,8 +496,8 @@ The powers, functions, and duties conferred by this Act on local authorities and
   (c) the recovery of costs from the EPA; and
   (d) the completion of any other matter under this Act.
 
-### 6 Relationship with Interpretation Act 1999
-Clauses 1 to 5 do not limit the application of sections 17 to 21 of the Interpretation Act 1999.
+### 6 Relationship with Legislation Act 2019
+Clauses 1 to 5 do not limit the application of sections 32 to 36 of the Legislation Act 2019.
 
 ## Schedule 2 — Listed projects
 
@@ -563,7 +565,7 @@ In this schedule,—
   - **works** means activities carried out in the course of work on infrastructure in reliance on this Act.
 
 ### 3 Incorporation by reference
-Schedule 1AA of the Resource Management Act 1991 applies, and subpart 2 of Part 3 of the Legislation Act 2012 does not apply, to any material incorporated by reference into this schedule.
+Schedule 1AA of the Resource Management Act 1991 applies, and sections 63 to 66 and Schedule 2 of the Legislation Act 2019 do not apply, to any material incorporated by reference into this schedule.
 
 ### Part 1 — Permitted activity standards that apply generally
 
