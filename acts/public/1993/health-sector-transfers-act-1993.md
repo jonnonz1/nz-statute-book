@@ -1,5 +1,5 @@
 # Health Sector (Transfers) Act 1993
-_Consolidation as at 2020-11-30_
+_Consolidation as at 2021-10-28_
 
 > Title
 
@@ -79,6 +79,7 @@ _Consolidation as at 2020-11-30_
 (4) Unless a written agreement entered into by the Crown states that any restriction, prohibition, or other provision is to apply despite the provisions of this subsection, this Act shall have effect, and assets and liabilities may be transferred under this Act, notwithstanding any restriction, prohibition, or other provision contained in any Act, rule of law, or agreement that would otherwise apply.
 (5) Nothing in this Act shall limit any powers or rights that the Crown or a Minister has under any other enactment or rule of law.
 (6) The Governor-General may, by Order in Council made on the recommendation of the Minister, declare any person to be a transferee for the purposes of this Act.
+(7) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 2A Purposes of this Act
 The purposes of this Act are as follows:
@@ -128,7 +129,7 @@ This Act binds the Crown.
 (5) Where a transferee referred to in a proposal is a person declared by Order in Council to be a transferee for the purposes of this Act, neither the proposal nor any amendment to the proposal shall be approved by the Governor-General by Order in Council unless the proposal or amendment has been agreed to by the transferee.
 (6) An Order in Council under this section—
   (a) shall identify the proposal or amendment approved, but need not incorporate it in the order; and
-  (b) is a legislative instrument and a disallowable instrument for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
+  (b) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 (7) Nothing in this section prevents assets or liabilities being transferred to a transferee for a consideration other than the issue of shares or debt securities.
 
 ### 6 Application of transfer to third parties
@@ -364,6 +365,7 @@ Where—the transferee shall on and from that date be obliged to contribute to t
   (b) defining classes of services or persons for the purposes of any regulations made under this section, which classes may be defined by reference to such criteria, circumstances, or matters as are specified in the regulations, including, but not by way of limitation, the income of the persons:
   (c) prescribing transitional and savings provisions relating to the coming into force of section 24; and, without limiting the generality of paragraphs (a) and (b) of this subsection, any such regulations may provide that, together with such amendments or additions (if any) as are specified in the regulations, specified provisions of this Act shall not apply during a specified transitional period, or specified provisions of Part 2 of the Social Security Act 1964, or of the enactments specified in Part 3 or Part 4 of Schedule 5 of this Act shall continue to apply, in respect of any specified persons or class of persons.
 (2) Before making any recommendation that regulations be made under subsection (1)﻿(a), the Minister shall consult as to the principal contents of the proposed regulations with such persons, or representatives of the persons or classes of persons to be specified in the regulations, as the Minister thinks fit.
+(3) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 **Amendments to Disabled Persons Community Welfare Act 1975**
 
@@ -417,6 +419,7 @@ Assets that have been fixed to, or placed under or over, any land may be transfe
 (4) Where an Order in Council is made under subclause (3), the provisions of the Act referred to in the order shall, with all necessary modifications, continue to apply in relation to the land and the terms or conditions of the lease, licence, permit, or right subject to any agreement to—made between the owner for the time being of the land and the holder for the time being of the lease, licence, permit, or right.
   (a) amend or revoke any such term or condition; or
   (b) revoke any such term or condition, and substitute another term or condition for it—
+(5) An order under this clause is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 3 Modification of provisions of Public Works Act 1981
 (1) In this clause, public work land means any land or interest in land owned by a transferee that—
@@ -471,6 +474,7 @@ Where any land is transferred to a transferee under this Act, the use of that la
     (iii) pursuant to, and on a date specified in, a notice in the Gazette given for the purposes of this clause by the Minister or by a person authorised in writing by the Minister.
 (2) Every notice given under subclause (1)﻿(b)﻿(iii) may be given on such terms and conditions as the Minister or a person authorised in writing by the Minister, as the case may be, thinks fit, and shall have effect according to its tenor.
 (3) Nothing in this Act or in any transfer of land to a transferee under this Act shall derogate from the provisions of section 10 or section 11 of the Crown Minerals Act 1991.
+(4) An order under subclause (1)﻿(b)﻿(ii) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 11 Land certification
 (1) Before the Registrar-General of Land issues a record of title in respect of any land vested in a transferee under clause 10, the Registrar-General of Land must receive from the chief executive as defined in section 4 of the Cadastral Survey Act 2002 or the Surveyor-General a certificate in the form set out in Schedule 2 of the Land Act 1948 as to the legal description of the land, any trusts, reservations, or restrictions affecting the land, and any other matters that the Registrar-General of Land considers appropriate.
@@ -489,6 +493,7 @@ Where any land is transferred to a transferee under this Act, the use of that la
   (d) declare that any Order in Council made for the purposes of this clause shall be deemed to be notice to all persons, and that specific notice need not be given to any authority or other person:
   (e) direct any authority or other person to register or record any such declaration.
 (2) Every Order in Council made for the purposes of this clause may be made on such terms and conditios as the Governor-General thinks fit, and shall have effect according to its tenor.
+(3) An order under this clause is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 14 Shares issued for non-cash consideration
 [Repealed]
