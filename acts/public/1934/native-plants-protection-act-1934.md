@@ -1,5 +1,5 @@
 # Native Plants Protection Act 1934
-_Consolidation as at 2013-07-01_
+_Consolidation as at 2021-10-28_
 
 > An Act to provide for the protection of native plants
 
@@ -8,7 +8,7 @@ This Act may be cited as the Native Plants Protection Act 1934, and shall come i
 
 ### 2 Interpretation
 In this Act, unless inconsistent with the context,—
-  - **Crown land** includes all land vested in His Majesty which is not for the time being held under lease or licence, or which has not been set apart in any manner for a public purpose, and also includes customary land as defined by the Maori Land Act 1931
+  - **Crown land** includes all land vested in the Sovereign which is not for the time being held under lease or licence, or which has not been set apart in any manner for a public purpose, and also includes customary land as defined by the Maori Land Act 1931
   - **Minister** means the Minister for the time being charged with the administration of this Act
   - **native plant** means any plant which is indigenous to New Zealand, and includes any part thereof except ripe fruit, ripe seed and spores
   - **private land** includes all land other than Crown land or land comprised in any State forest land or public reserve
@@ -21,6 +21,9 @@ In this Act, unless inconsistent with the context,—
 (1) The Governor-General may by Warrant under his hand declare any native plant specified in such Warrant to be protected under this Act.
 (2) Such protection may apply throughout the whole of New Zealand or in such part or parts only as may be specified in the Warrant, and may be subject to such conditions (if any) as the Governor-General may think fit.
 (3) Any such Warrant may at any time be in like manner amended or revoked.
+(4) The following are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements):
+  (a) a Warrant under this section; and
+  (b) an amendment to or revocation of a Warrant under this section.
 
 ### 4 Offence to take protected native plant
 (1) Subject to the provisions of this Act, every person commits an offence who takes any protected native plant that is growing on any Crown land, or in any State forest land or public reserve, or on any road or street, or who, without the consent of the owner or occupier of any private land, takes any protected native plant that is growing thereon.
@@ -41,9 +44,10 @@ Every person commits an offence against this Act who, being reasonably suspected
 Every person who commits an offence against this Act is liable on conviction for the first offence to a fine of 5 pounds, for the second offence to a fine of 10 pounds, and for every subsequent offence to a fine of 20 pounds.
 
 ### 9 Regulations
-The Governor-General may from time to time, by Order in Council, make regulations—
+(1) The Governor-General may from time to time, by Order in Council, make regulations—
   (a) prescribing the forms required under this Act:
   (b) prescribing any other matters for which regulations are contemplated or required by this Act or which he deems necessary for the efficient administration thereof.
+(2) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 10 Other Acts not affected
 Nothing in this Act shall be construed to limit the provisions of the Scenery Preservation Act 1908, or of the Forests Act 1921–22, or of the Public Reserves, Domains, and National Parks Act 1928, or of any other Act.
