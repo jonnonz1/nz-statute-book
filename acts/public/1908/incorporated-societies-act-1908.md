@@ -1,5 +1,5 @@
 # Incorporated Societies Act 1908
-_Consolidation as at 2020-05-16_
+_Consolidation as at 2021-10-28_
 
 > An Act to make provision for the incorporation of societies which are not established for the purpose of pecuniary gain
 
@@ -208,6 +208,7 @@ A society may be put into liquidation by the appointment by the High Court as li
 (5) Where by any direction under this section any estate or interest in land under the Land Transfer Act 2017 is vested in any person, then, subject to the provisions of that direction, the Registrar-General of Land, on application made to him or her by that person in such form as may be prescribed by the Governor-General by Order in Council and on the registration or deposit of such documents or plans as the Registrar-General of Land may require, shall make such entries in the register and generally do all such things as may be necessary to give full effect to the provisions of the direction.
 (6) Except as provided in the foregoing provisions of this section, no appeal shall lie against any direction of the Registrar given under this section.
 (7) This section shall bind the Crown.
+(8) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 28 Dissolution by Registrar
 (1) The Registrar may make a declaration (a declaration of dissolution) that a society is dissolved, if the Registrar is satisfied that the society—
@@ -241,6 +242,7 @@ In estimating—every corporate body that is a subscriber or member shall be tak
 ### 32 Registrar
 (1) The Governor may from time to time appoint some person to be the Registrar of Incorporated Societies, and may, by Order in Council, make regulations, consistent with this Act, prescribing the duties and powers of the Registrar.
 (2) The Registrar so appointed may hold his or her office in conjunction with any other office which the Governor deems not incompatible therewith.
+(3) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 33 Registrar to keep register of incorporated societies
 (1) The Registrar shall keep a register in which there shall be recorded all matters required by this Act or by any regulations to be recorded by the Registrar.
@@ -298,7 +300,8 @@ In estimating—every corporate body that is a subscriber or member shall be tak
 [Repealed]
 
 ### 36 Regulations
-The Governor-General may, by Order in Council, make such regulations as he or she deems necessary for carrying into full effect the provisions of this Act.
+(1) The Governor-General may, by Order in Council, make such regulations as he or she deems necessary for carrying into full effect the provisions of this Act.
+(2) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ## Schedule 1 — Application for incorporation
 
@@ -345,10 +348,11 @@ The incorporation of a branch of a society under this Act shall not relieve the 
 For the purposes of this Act membership of a branch of a society shall be determined in accordance with the general rules of the society and the special rules (if any) of the branch in that behalf, and not otherwise, and every member of a local branch shall be deemed to be a member of the society and liable to all the obligations of membership.
 
 ### 8 Governor-General in Council may make regulations
-The Governor-General may from time to time, by Order in Council, make regulations—
+(1) The Governor-General may from time to time, by Order in Council, make regulations—
   (a) prescribing the fees to be paid by or on behalf of a society or branch in respect of the incorporation of a branch or group of branches under this Act;
   (b) prescribing forms of application for the registration of a branch of a society or group of branches under this Act; and
   (c) prescribing such other matters and things as may in his or her opinion be necessary for the purpose of giving effect to the provisions of this Act.
+(2) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 1 Short Title
 This Act may be cited as the Incorporated Societies Amendment Act 1922, and shall be read together with and deemed part of the Incorporated Societies Act 1908 (hereinafter referred to as the principal Act).
