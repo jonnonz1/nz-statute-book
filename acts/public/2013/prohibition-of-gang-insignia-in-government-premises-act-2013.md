@@ -1,5 +1,5 @@
 # Prohibition of Gang Insignia in Government Premises Act 2013
-_Consolidation as at 2020-08-07_
+_Consolidation as at 2021-10-28_
 
 ### 1 Title
 This Act is the Prohibition of Gang Insignia in Government Premises Act 2013.
@@ -85,6 +85,7 @@ In this Act, unless the context otherwise requires,—
 (2) The Minister of Police may not make a recommendation under subsection (1) unless he or she is satisfied on reasonable grounds that the organisation, association, or group proposed to be identified has the following characteristics:
   (a) a common name or common identifying signs, symbols, or representations; and
   (b) its members, associates, or supporters individually or collectively promote, encourage, or engage in criminal activity.
+(3) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ## Part Part 2 — Offences and enforcement
 
