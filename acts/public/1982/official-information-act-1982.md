@@ -1,5 +1,5 @@
 # Official Information Act 1982
-_Consolidation as at 2021-02-09_
+_Consolidation as at 2021-10-28_
 
 > An Act to make official information more freely available, to provide for proper access by each person to official information relating to that person, to protect official information to the extent consistent with the public interest and the preservation of personal privacy, to establish procedures for the achievement of those purposes, and to repeal the Official Secrets Act 1951
 
@@ -17,9 +17,6 @@ _Consolidation as at 2021-02-09_
     (c) any label, marking, or other writing that identifies or describes any thing of which it forms part, or to which it is attached by any means:
     (d) any book, map, plan, graph, or drawing:
     (e) any photograph, film, negative, tape, or other device in which 1 or more visual images are embodied so as to be capable (with or without the aid of some other equipment) of being reproduced
-  - **enactment** means any provision of—
-    (a) any Act of Parliament; or
-    (b) any legislative instrument within the meaning of the Legislation Act 2012 made by Order in Council
   - **international organisation** means any organisation of States or governments of States or any organ or agency of any such organisation; and includes the Commonwealth Secretariat
   - **local authority** means a local authority or public body named or specified in Schedule 1 of the Local Government Official Information and Meetings Act 1987
   - **member** means, in relation to an organisation, any person (not being an officer or employee of the organisation) who, whether by election or appointment or otherwise, holds office as a member of the organisation; and includes—
@@ -618,12 +615,13 @@ Except as expressly provided in this Act, nothing in this Act shall derogate fro
 The Ministry of Justice may, for the purpose of assisting any other public service agency or any organisation to act in accordance with this Act, furnish advice or assistance or both to that other public service agency or that organisation.
 
 ### 47 Regulations
-The Governor-General may from time to time, by Order in Council, make regulations for all or any of the following purposes—
+(1) The Governor-General may from time to time, by Order in Council, make regulations for all or any of the following purposes—
   (a)
   (b) prescribing forms of applications and other documents required for the purposes of this Act, or authorising any person to prescribe or approve such forms:
   (c) providing the procedure for the service of notices and documents under this Act:
   (d) prescribing reasonable charges or scales of reasonable charges for the purposes of this Act:
   (e) providing for such matters as are contemplated by or necessary for giving full effect to this Act and for its due administration.
+(2) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 48 Protection against certain actions
 (1) Where any official information is made available in good faith pursuant to this Act,—
@@ -633,7 +631,7 @@ The Governor-General may from time to time, by Order in Council, make regulation
 
 ### 49 Power to amend Schedule 1 by Order in Council
 (1) Where any organisation named in Schedule 1 is abolished, or its name is altered, the Governor-General may, by Order in Council, make such amendments to that schedule as may be necessary to give effect to the abolition or alteration.
-(2) An order made under subsection (1) is a legislative instrument and a disallowable instrument for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
+(2) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 50 Consequential amendments to other enactments
 The enactments specified in Schedule 3 are hereby amended in the manner indicated in that schedule.
