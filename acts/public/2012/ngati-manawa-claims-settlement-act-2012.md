@@ -1,5 +1,5 @@
 # Ngāti Manawa Claims Settlement Act 2012
-_Consolidation as at 2021-01-30_
+_Consolidation as at 2021-10-28_
 
 ### 1 Title
 This Act is the Ngāti Manawa Claims Settlement Act 2012.
@@ -633,9 +633,7 @@ On and from the settlement date, the chief executive of the Ministry of Justice 
   (c) specifying—
     (i) offences for breaches of the regulations or prohibitions; and
     (ii) fines for committing the offences of up to $1,000 for each offence.
-(2) Bylaws made under this section—
-  (a) are a legislative instrument and a disallowable instrument for the purposes of the Legislation Act 2012; and
-  (b) must be presented to the House of Representatives under section 41 of that Act.
+(2) Bylaws under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 29 Purpose of Ahikāroa
 The purpose of the Te Urewera Act 2014 is not affected by the fact that part of Te Urewera is subject to Ahikāroa.
@@ -651,6 +649,7 @@ The purpose of the Te Urewera Act 2014 is not affected by the fact that part of 
   (a) introduce legislation for the disposal of an area subject to Ahikāroa; or
   (b) transfer the Crown responsibility in relation to an area subject to Ahikāroa to a different Minister or department.
 (5) Before the Crown carries out an action under subsection (4), it must take reasonable steps to provide for the trustees of Te Rūnanga o Ngāti Manawa to continue to have input into the management of the relevant part of Tāwhiuau by discussing the matter with the trustees of Te Rūnanga o Ngāti Manawa and the new owner, Minister, or department and ensuring that the trustees of Te Rūnanga o Ngāti Manawa's views are taken into account in the discussion.
+(6) The Minister of Conservation must ensure that an order under this section is published in the Gazette.
 
 ### 31 Exercise of powers, duties, and functions
 (1) Nothing in section 20 affects or may be taken into account in the exercise of any power by, or performance of any duty or function of, any person under any legislation or bylaw.
