@@ -1,5 +1,5 @@
 # Wills Act 2007
-_Consolidation as at 2017-03-01_
+_Consolidation as at 2021-10-28_
 
 ### 1 Title
 This Act is the Wills Act 2007.
@@ -24,7 +24,7 @@ This Act binds the Crown.
 ### 6 Interpretation
 For the purposes of this Act, unless the context requires another meaning,—
   - **Armed Forces** is defined in section 33
-  - **de facto relationship** is defined in section 29A of the Interpretation Act 1999
+  - **de facto relationship** is defined in section 14 of the Legislation Act 2019
   - **disposition** includes—
     (a) the creation by will of a power of appointment; and
     (b) the exercise by will of a power of appointment
