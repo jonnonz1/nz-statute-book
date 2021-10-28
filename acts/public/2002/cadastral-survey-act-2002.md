@@ -1,5 +1,5 @@
 # Cadastral Survey Act 2002
-_Consolidation as at 2021-01-30_
+_Consolidation as at 2021-10-28_
 
 ### 1 Title
 This Act is the Cadastral Survey Act 2002.
@@ -137,6 +137,9 @@ For the purposes of this Act, the functions of the chief executive are—
   (d) the Board may conduct, or arrange for the conduct of, examinations for the purpose of determining whether persons proposing to apply or applying for licences under this Act meet the standards set under subsection (1)﻿(d).
 (4) The Board must, from time to time, for the purpose of setting standards under subsection (1)﻿(d), consult the Surveyor-General about the competencies required by licensed cadastral surveyors to meet standards for cadastral surveying set by or under this Act.
 (5) For the purposes of subsection (1)﻿(d), the Board may, before issuing standards under that provision, adopt and apply the competencies that applied, immediately before the commencement of this Act, to the registration of surveyors.
+(6) The following are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements):
+  (a) an instrument that sets fees under subsection (1)﻿(c):
+  (b) standards issued or updated under subsection (1)﻿(d).
 
 ### 12 Powers of Board
 (1) For the purpose of performing its functions and duties, the Board—
@@ -437,9 +440,12 @@ Complaints, investigations, hearings, proceedings, and other matters begun but n
 (4) The Survey (Departmental Fees and Charges) Regulations 1998, to the extent applicable,—
   (a) continue in force as if they had been made under subsection (3); and
   (b) may be amended or revoked as if they had been made under subsection (3).
+(5) The following are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements):
+  (a) regulations under this section:
+  (b) an amendment or a revocation under subsection (4)﻿(b).
 
 ### 49 Surveyor-General may make rules about conduct of cadastral surveying
-(1) The Surveyor-General may, by notice in the Gazette, make rules specifying—
+(1) The Surveyor-General may make rules specifying—
   (a) standards for the conduct of cadastral surveys (including the use of survey marks):
   (b) standards for cadastral survey datasets.
 (2) Before making any rules under this section, the Surveyor-General must consult—
@@ -453,11 +459,12 @@ Complaints, investigations, hearings, proceedings, and other matters begun but n
   (d) the costs involved in cadastral surveys and cadastral survey datasets complying with the proposed standards:
   (e) maintaining public confidence in the cadastre.
 (4) Rules made under this section—
-  (a) apply subject to regulations made under this Part; and
-  (b) are a legislative instrument and a disallowable instrument for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
+  (a) apply subject to regulations made under this Part.
+  (b)
 (5) The Surveyor-General must—
-  (a) notify rules made under this section in a publication of a body referred to in subsection (2)﻿(b); and
-  (b) supply, on request for a reasonable fee, a copy of rules made under this section.
+  (a) notify rules made under this section in a publication of a body referred to in subsection (2)﻿(b).
+  (b)
+(6) Rules under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 50 Transitional provision: Surveyor-General's rules
 [Repealed]
@@ -553,7 +560,8 @@ If any person is alleged to have committed an infringement offence, the person m
 All infringement fees paid in respect of infringement offences must be paid into a Crown Bank Account.
 
 ### 63 Regulations
-The Governor-General may, by Order in Council, make regulations prescribing the form of infringement notices, and any other particulars to be contained in infringement notices.
+(1) The Governor-General may, by Order in Council, make regulations prescribing the form of infringement notices, and any other particulars to be contained in infringement notices.
+(2) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ## Part 7 — Dissolution of Survey Board of New Zealand and New Zealand Institute of Surveyors
 
@@ -584,6 +592,7 @@ The Governor-General may, by Order in Council, make regulations prescribing the 
   (b) includes—
     (i) every type of estate and interest in property; and
     (ii) money.
+(6) An order under subsection (3) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ## Part 8 — Miscellaneous
 
