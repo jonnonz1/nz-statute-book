@@ -1,5 +1,5 @@
 # Food Act 2014
-_Consolidation as at 2021-02-23_
+_Consolidation as at 2021-10-28_
 
 ### 1 Title
 This Act is the Food Act 2014.
@@ -18,6 +18,7 @@ This Act is the Food Act 2014.
   (e) any other provision relating to the enforcement of obligations imposed under a power in a provision to which subsection (3)﻿(a) applies, such as provisions for the gathering of evidence and the taking of proceedings for an offence.
 (5) Section 133 comes into force on 1 July 2016 or an earlier date appointed by the Governor-General by Order in Council.
 (6) Any provision of this Act (other than section 133) that is not already in force on 1 March 2016 comes into force on that date.
+(7) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ## Part 1 — Preliminary provisions
 
@@ -305,6 +306,7 @@ This Act binds the Crown.
   - **written** or means printed, typewritten, or otherwise visibly represented, copied, or reproduced, including by fax, email, or other electronic means.
 (2) To avoid doubt, terms and expressions used, but not defined, in the Australia New Zealand Food Standards Code have the same meaning as in this Act.
 (3) The Governor-General may, by Order in Council, specify the relevant appointed date for the purposes of any provision of this Act for which an appointed date is required.
+(4) An order under subsection (3) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 **Meaning of food**
 
@@ -547,6 +549,7 @@ In achieving the purpose of this Act, the Minister, the chief executive, and all
   (c) the type of operations or processes carried out in relation to food; or
   (d) the type of place in which the operations or processes are carried out in relation to food; or
   (e) any combination of the matters described in paragraphs (a) to (d).
+(4) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 **Application of risk-based measures**
 
@@ -630,6 +633,7 @@ A person or food business that is not subject to, or required to operate under, 
 (2) Before recommending the making of regulations under subsection (1), the Minister must—
   (a) take into account the need to achieve the safety and suitability of food for sale; and
   (b) be satisfied that there has been appropriate consultation on the regulations in accordance with section 379.
+(3) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 33 Chief executive may grant exemption from requirement to operate under registered food control plan or national programme
 (1) The chief executive may exempt any person, group of persons, or type or description of food business within a food sector from the requirement to operate under a registered food control plan or a national programme—
@@ -655,6 +659,7 @@ A person or food business that is not subject to, or required to operate under, 
   (b) sells the food to a consumer only; and
   (c) does not otherwise sell or distribute the food.
 (6) This section is not limited by sections 343 and 344.
+(7) A notice issued under section 405 in reliance on this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements), unless the notice applies only to 1 or more named persons.
 
 ### 34 Chief executive may delegate functions, duties, or powers under section 33 to territorial authorities
 (1) The chief executive may delegate any of the chief executive's functions, duties, or powers under section 33 to 1 or more territorial authorities.
@@ -704,6 +709,7 @@ A food control plan is a plan designed for a particular food business to identif
   (a) make a copy of the template or model available, free of charge, on an Internet site or for public inspection at reasonable hours at the head office of the Ministry; or
   (b) on request, supply a copy of the template or model, free of charge, to any person who cannot access it on the Internet site.
 (3) This section does not limit or affect section 40.
+(4) A notice issued under section 405 in reliance on this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 40 Food control plan: chief executive's power to approve official template or model developed by third party
 (1) The chief executive may, by notice under section 405, approve a template or model developed by a person other than the chief executive or by a food industry body.
@@ -717,6 +723,7 @@ A food control plan is a plan designed for a particular food business to identif
 (5) Before an approval ends, the chief executive may issue a new notice under section 405 approving the template or model for a period of up to 3 years.
 (6) The chief executive may suspend or withdraw an approval by issuing a notice under section 405.
 (7) This section does not limit or affect section 45.
+(8) A notice issued under section 405 in reliance on this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 41 Food control plan: form
 A food control plan must be in writing and—
@@ -770,6 +777,9 @@ A food control plan must set out—
   (a) set requirements as to how persons who operate under food control plans are to demonstrate competency (in relation to the safety and suitability of food, food production, and food processing and handling), the appropriate training for those persons, and the staff training to be provided:
   (b) set requirements for the validation and evaluation of food control plans:
   (c) supplement regulations made under this section.
+(4) The following are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements):
+  (a) regulations under this section:
+  (b) a notice issued under section 405 in reliance on subsection (3).
 
 **Amendments to food control plans**
 
@@ -784,6 +794,7 @@ A food control plan must set out—
 (4) If the chief executive amends or replaces a template or model in accordance with subsection (1), the chief executive must—
   (a) make a copy of the amended or replacement template or model available, free of charge, on an Internet site or for public inspection at reasonable hours at the head office of the Ministry; or
   (b) on request, supply a copy of the amended or replacement template or model, free of charge, to any person who cannot access it on the Internet site.
+(5) A notice issued under section 405 in reliance on this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 45 Operator may amend food control plan based on template or model issued under section 39 or approved under section 40
 (1) An operator of a registered food control plan based on a template or model issued by the chief executive under section 39 or approved by the chief executive under section 40 may amend the food control plan.
@@ -878,6 +889,7 @@ If there is any inconsistency between the requirements of a registered food cont
 (4) The chief executive may waive the requirement to provide an independent evaluation of the validity of a food control plan—
   (a) on a case-by-case basis; or
   (b) by notice under section 405.
+(5) A notice issued under section 405 in reliance on subsection (4)﻿(b) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements), unless the notice applies only to 1 or more specified businesses.
 
 ### 54 Registration authority may refuse to process application for registration
 The registration authority may refuse to process an application for registration if the applicant does not provide an application that complies with section 53.
@@ -1090,6 +1102,9 @@ The purpose of this subpart is to set out provisions about the nature, content, 
   (a) set requirements as to how persons who operate under national programmes are to demonstrate competence (in relation to the safety and suitability of food, food production, and food processing and handling), the appropriate training for those persons, and the staff training to be provided; and
   (b) specify information or other material (including any declarations) that must be provided in an application for registration; and
   (c) supplement regulations made under this section.
+(4) The following are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements):
+  (a) regulations under this section:
+  (b) a notice issued under section 405 in reliance on subsection (3).
 
 ### 77 National programme not invalid on certain grounds
 A national programme may not be held invalid merely because it—
@@ -1304,6 +1319,11 @@ A monitoring programme must specify its purpose, and may—
     (iii) any other matters that the Minister considers relevant; and
   (d) be satisfied that there has been appropriate consultation on the regulations in accordance with section 379.
 (4) The chief executive may, by notice under section 405, supplement regulations made under this section.
+(5) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+(6) If the regulations authorise the granting of exemptions under subsection (1)﻿(b),—
+  (a) the instrument granting an exemption is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements), unless the instrument applies only to 1 or more named persons; and
+  (b) the regulations must contain a statement to that effect.
+(7) A notice issued under section 405 in reliance on subsection (4) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 104 Chief executive may specify certain matters by notice
 (1) For the purpose of giving effect to a monitoring programme, the chief executive may, by notice under section 405, specify the following matters that are necessary to give effect to the matters provided for in section 102:
@@ -1317,6 +1337,7 @@ A monitoring programme must specify its purpose, and may—
   (h) surveillance and the consequences of surveillance.
 (2)
 (3) A notice referred to in subsection (1) must not be inconsistent with the regulations.
+(4) A notice issued under section 405 in reliance on this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 105 Monitoring programme not invalid on certain grounds
 A monitoring programme may not be held invalid merely because it—
@@ -1550,6 +1571,8 @@ A person to whom this subpart applies must, in accordance with any regulations m
   (c) specifying matters in relation to tracing and recall that must be included (if applicable) in a food control plan or a national programme.
 (2) Before recommending the making of regulations under this section, the Minister must be satisfied that there has been appropriate consultation on the regulations in accordance with section 379.
 (3) The chief executive may, by notice under section 405, supplement regulations made under this section.
+(4) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+(5) A notice issued under section 405 in reliance on subsection (3) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### Subpart 2 — Verification
 
@@ -1571,6 +1594,9 @@ A person to whom this subpart applies must ensure that the person’s operations
 (3) The chief executive may, by notice under section 405,—
   (a) prescribe requirements relating to the verification of those operations, including requirements relating to the frequency, intensity, and cost of verification; and
   (b) supplement regulations made under this section.
+(4) The following are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements):
+  (a) regulations under this section:
+  (b) a notice issued under section 405 in reliance on subsection (3).
 
 ## Part 4 — Provisions relating to recognition, territorial authorities, administration, and enforcement
 
@@ -1974,6 +2000,7 @@ If the chief executive is required to consult a person or a category or class of
 (1) The chief executive may, by notice under section 405, require any verifier or verification agency to notify the chief executive of the termination of any contract with a client for managing or carrying out verification functions and activities.
 (2) The notice may apply generally or to any particular case or class of case.
 (3) The verifier or verification agency must notify the chief executive in writing of the termination as soon as practicable, and in no case later than 7 days after it occurs.
+(4) A notice issued under section 405 in reliance on this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 171 Chief executive must consider exemption, waiver, or refund of fees
 (1) The chief executive must consider whether an exemption, a waiver, or a refund of all or part of a prescribed fee, charge, or levy is appropriate if—
@@ -2034,6 +2061,7 @@ If the chief executive is required to consult a person or a category or class of
   (h) if it is being reviewed under section 185, facilitate the conduct of the review and provide any information required under section 189 by the person conducting the review:
   (i) carry out any other function, duty, or direction imposed or given by or under this Act.
 (2) The chief executive may, by notice under section 405, specify the intervals at which the reports required by subsection (1)﻿(f) must be provided and any details to be included in the reports.
+(3) A notice issued under section 405 in reliance on this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 **National outcomes for territorial authorities**
 
@@ -2299,9 +2327,10 @@ A territorial authority—
   (b) impose any time limit on the making of regulations to implement the results of a review.
 
 ### 203 Regulations about fees, charges, and levies
-The Governor-General may, by Order in Council made on the recommendation of the Minister, make regulations imposing and setting fees, charges, levies, and other cost recovery mechanisms for the purposes of this Act in accordance with the requirements for regulations made under sections 204 and 207, including—
+(1) The Governor-General may, by Order in Council made on the recommendation of the Minister, make regulations imposing and setting fees, charges, levies, and other cost recovery mechanisms for the purposes of this Act in accordance with the requirements for regulations made under sections 204 and 207, including—
   (a) fees or charges for applications, renewals, or related matters under this Act:
   (b) fees, charges, or levies that are payable on an ongoing basis by a person given a particular status under this Act.
+(2) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 204 Regulations may impose fees and charges
 (1) Regulations may be made under this section, on the recommendation of the Minister, prescribing fees and charges for the purposes of this subpart.
@@ -2319,6 +2348,7 @@ The Governor-General may, by Order in Council made on the recommendation of the 
 (6) The Minister may not recommend the making of regulations under this section unless satisfied that, to the extent appropriate in the circumstances, the requirements of sections 198 and 201 have been met.
 (7) This section does not limit or affect section 205.
 (8) Before recommending the making of regulations under this section, the Minister must be satisfied that there has been appropriate consultation on the regulations in accordance with section 379.
+(9) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 205 Territorial authority to set fees
 (1) A territorial authority may, by resolution, fix fees to recover the direct and indirect costs of any of the following functions under this Act:
@@ -2341,6 +2371,7 @@ The Governor-General may, by Order in Council made on the recommendation of the 
 ### 206 Regulations may prescribe methodology or framework for fee fixing
 (1) Regulations may be made under this section, on the recommendation of the Minister, that prescribe a methodology or framework to be applied by a territorial authority in fixing any fees under section 205.
 (2) Before recommending the making of regulations under this section, the Minister must be satisfied that there has been appropriate consultation on the regulations in accordance with section 379.
+(3) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 207 Regulations may impose levies
 (1) Regulations may be made under this section, on the recommendation of the Minister, prescribing levies for the purposes of this subpart.
@@ -2359,6 +2390,9 @@ The Governor-General may, by Order in Council made on the recommendation of the 
     (ii) the amount of levy any person is required to pay or collect.
 (5) The Minister may not recommend the making of regulations under this section unless satisfied that, to the extent he or she considers appropriate in the circumstances, the requirements of sections 198 and 201 have been met.
 (6) Before recommending the making of regulations under this section, the Minister must be satisfied that there has been appropriate consultation on the regulations in accordance with section 379.
+(7) Regulations under this section—
+  (a) are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements); and
+  (b) must be confirmed by an Act (see subpart 3 of Part 5 of the Legislation Act 2019).
 
 ### 208 Regulations may provide for exemptions, waivers, and refunds
 (1) Regulations may be made under this section, on the recommendation of the Minister, that—
@@ -2369,6 +2403,10 @@ The Governor-General may, by Order in Council made on the recommendation of the 
   (a) expire within a specified period not exceeding 5 years; and
   (b) set out the circumstances in which the exemption, waiver, or refund may be granted.
 (3) Before recommending the making of regulations under this section, the Minister must be satisfied that there has been appropriate consultation on the regulations in accordance with section 379.
+(4) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+(5) If the regulations authorise the granting of an exemption, waiver, or refund under subsection (1)﻿(b),—
+  (a) the instrument granting an exemption, waiver, or refund is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements), unless the instrument applies only to a particular case; and
+  (b) the regulations must contain a statement to that effect.
 
 ### 209 Trust accounts required to be kept by persons collecting levies
 (1) If regulations made under section 207 require the operation of a trust account for any levy money by the person responsible for collecting the levy,—
@@ -2420,10 +2458,7 @@ A dispute between a person and the chief executive about the person’s liabilit
   (b) the right of the chief executive to receive and recover the fee, charge, levy, or penalty.
 
 ### 214 Levy regulations are confirmable instruments
-The explanatory note of regulations made under section 207 must indicate that—
-  (a) they are a confirmable instrument under section 47B of the Legislation Act 2012; and
-  (b) they are revoked at a time stated in the note, unless earlier confirmed by an Act of Parliament; and
-  (c) the stated time is the applicable deadline under section 47C(1)﻿(a) or (b) of that Act.
+[Repealed]
 
 ### Subpart 4 — Payment of statutory debt
 
@@ -4020,6 +4055,8 @@ An interim compliance order or a compliance order must state—
   (a) regulating the practice and procedure of the District Court in proceedings under this Act that relate to orders under sections 334 to 337:
   (b) providing for matters contemplated by, or necessary for giving full effect to, the provisions of this Act that relate to orders under sections 334 to 337.
 (2) The power in subsection (1) is additional to all other powers conferred on the Governor-General by the District Court Act 2016.
+(3) Rules under subsection (1)﻿(b) are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+(4) As to rules referred to in subsection (1)﻿(a), see section 228 of the District Court Act 2016, which provides that court rules are secondary legislation.
 
 ## Part 5 — Miscellaneous provisions
 
@@ -4036,6 +4073,9 @@ An interim compliance order or a compliance order must state—
 (2) An exemption under this section may be subject to any conditions specified in the regulations.
 (3) An exemption under this section may have retrospective effect.
 (4) This section is not limited by section 33.
+(5) Regulations under this section—
+  (a) are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements); and
+  (b) may have effect in accordance with subsection (3) even if not yet published.
 
 ### 344 When Minister may recommend exemption under section 343
 Before recommending the making of regulations under section 343, the Minister must—
@@ -4070,6 +4110,7 @@ Before recommending the making of regulations under section 343, the Minister mu
   (b) food that does not meet New Zealand's compositional requirements because of what it contains or does not contain:
   (c) food that does not meet New Zealand's food labelling and compositional requirements.
 (5) To avoid doubt, nothing in this section has the effect of exempting food that is to be exported from any requirements specified in a notice issued under section 60 of the Animal Products Act 1999.
+(6) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 346 When Minister may recommend exemption under section 345
 Before recommending the making of regulations under section 345, the Minister must be satisfied that—
@@ -4091,6 +4132,7 @@ Before recommending the making of regulations under section 345, the Minister mu
 (3) An exemption under subsection (1)—
   (a) must be specific to a particular market or markets and to a particular food; and
   (b) may be subject to any conditions that the chief executive may specify in the notice.
+(4) A notice issued under section 405 in reliance on this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements), unless the notice applies only to 1 or more named persons.
 
 ### 348 Relationship between sections 345 and 347 and Animal Products Act 1999
 (1) Sections 345 and 347 may be used to exempt food that is also an animal material or animal product under the Animal Products Act 1999.
@@ -4700,6 +4742,9 @@ The chief executive must enter the outcome of each review of a decision describe
   (i) procedures.
 (8) The regulations may authorise the Minister, the chief executive, a food safety officer, or a territorial authority to decide a matter.
 (9) The regulations may confer a discretion on the Minister, the chief executive, a food safety officer, or a territorial authority.
+(10) If regulations made in reliance on this section authorise the Minister, the chief executive, or a food safety officer to exercise 1 or more of the powers described in subsection (4), (5), or (7),—
+  (a) an instrument by which any of those powers is exercised is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements), unless it applies only to a particular case; and
+  (b) the regulations must contain a statement to that effect.
 (10)
 
 ### 382 Regulations: how they apply to stock in trade
@@ -4750,6 +4795,9 @@ In the 12 months after the commencement date of regulations under this Act, a pe
   (b) set requirements in relation to the matters specified in paragraph (a):
   (c) provide for the matters referred to in subsection (4)﻿(b) and (c):
   (d) supplement regulations made under this section.
+(9) The following are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements):
+  (a) regulations under this section:
+  (b) a notice issued under section 405 in reliance on subsection (8).
 
 ### 384 Regulations and notices about risk-based measures and related matters
 (1) The Governor-General may, by Order in Council made on the recommendation of the Minister, make regulations relating to all or any of the following:
@@ -4758,6 +4806,9 @@ In the 12 months after the commencement date of regulations under this Act, a pe
   (c) the chief executive’s role in registering food control plans.
 (2) Before recommending the making of regulations under this section, the Minister must be satisfied that there has been appropriate consultation on the regulations in accordance with section 379.
 (3) The chief executive may, by notice under section 405, supplement regulations made under this section.
+(4) The following are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements):
+  (a) regulations under this section:
+  (b) a notice issued under section 405 in reliance on subsection (3).
 
 ### 385 Regulations and notices about grading schemes
 (1) The Governor-General may, by Order in Council made on the recommendation of the Minister, make regulations setting up a grading scheme that—
@@ -4780,6 +4831,9 @@ In the 12 months after the commencement date of regulations under this Act, a pe
   (b) a bylaw is made by a territorial authority that purports to set up a grading scheme for food businesses that is inconsistent with those regulations.
 (4) Before recommending the making of regulations under this section, the Minister must be satisfied that there has been appropriate consultation on the regulations in accordance with section 379.
 (5) The chief executive may, by notice under section 405, supplement regulations made under this section.
+(6) The following are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements):
+  (a) regulations under this section:
+  (b) a notice issued under section 405 in reliance on subsection (5).
 
 ### 386 Regulations about approved documents, materials, or facilities, or persons or classes of persons
 (1) The Governor-General may, by Order in Council made on the recommendation of the Minister, make regulations setting out criteria that the chief executive must take into account before approving a document, material, or facility, or a person or class of persons under section 291.
@@ -4790,6 +4844,7 @@ In the 12 months after the commencement date of regulations under this Act, a pe
   (c) whether it is desirable to require the use of an approved document, material, or facility, or an approved person or an approved class of persons to make cost and efficiency gains:
   (d) any other matters that the Minister considers relevant to the question of whether an approved document, material, or facility, or an approved person or an approved class of persons must be used.
 (4) Before recommending the making of regulations under this section, the Minister must be satisfied that there has been appropriate consultation on the regulations in accordance with section 379.
+(5) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 387 Regulations and notices about imported food
 (1) The Governor-General may, by Order in Council made on the recommendation of the Minister, make regulations setting out all or any of the following for imported food:
@@ -4815,6 +4870,9 @@ In the 12 months after the commencement date of regulations under this Act, a pe
     (iii) conditions and criteria that determine the basis for movement between particular categories; and
     (iv) requirements for providing samples and information about imported food and monitoring imported food that will assist in determining the risk of an imported food or determining an imported food’s categorisation; and
   (c) supplement regulations made under this section.
+(5) The following are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements):
+  (a) regulations under this section:
+  (b) a notice issued under section 405 in reliance on subsection (4), unless the notice applies only to 1 or more named persons.
 
 ### 388 Regulations about verification functions in relation to importers
 [Repealed]
@@ -4831,6 +4889,9 @@ In the 12 months after the commencement date of regulations under this Act, a pe
   (d) prescribing any particulars that must be contained in the relevant public register.
 (2) Before recommending the making of regulations under this section, the Minister must be satisfied that there has been appropriate consultation on the regulations in accordance with section 379.
 (3) The chief executive may, by notice under section 405, supplement regulations made under this section.
+(4) The following are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements):
+  (a) regulations under this section:
+  (b) a notice issued under section 405 in reliance on subsection (3).
 
 ### 390 Regulations and notices about information
 (1) The Governor-General may, by Order in Council made on the recommendation of the Minister, make regulations setting requirements for all or any of the following for a person or a class of persons:
@@ -4846,6 +4907,9 @@ In the 12 months after the commencement date of regulations under this Act, a pe
   (a) set requirements for all or any of the matters described in subsection (1)﻿(a) to (c):
   (b) set requirements for all or any of the matters described in subsection (2)﻿(a) to (c):
   (c) supplement regulations made under this section.
+(5) The following are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements):
+  (a) regulations under this section:
+  (b) a notice issued under section 405 in reliance on subsection (4).
 
 ### 391 Regulations about offences
 (1) The Governor-General may, by Order in Council made on the recommendation of the Minister, make regulations for all or any of the following purposes:
@@ -4855,10 +4919,12 @@ In the 12 months after the commencement date of regulations under this Act, a pe
   (d) prescribing the amount, up to $1,000, of an infringement fee that is payable for an infringement offence, including different fees for a first offence, a second offence, and subsequent offences.
 (2) Subsection (1)﻿(b) does not limit the generality of subsection (1)﻿(a).
 (3) Before recommending the making of regulations under this section, the Minister must be satisfied that there has been appropriate consultation on the regulations in accordance with section 379.
+(4) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 392 Regulations about administrative matters
 (1) The Governor-General may, by Order in Council made on the recommendation of the Minister, make regulations prescribing forms, procedures, and certificates for the purpose of any applicable requirements of this Act.
 (2) Before recommending the making of regulations under this section, the Minister must be satisfied that there has been appropriate consultation on the regulations in accordance with section 379.
+(3) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 **Regulations about other matters**
 
@@ -4867,12 +4933,14 @@ In the 12 months after the commencement date of regulations under this Act, a pe
   (a) declaring anything to be or not to be food for the purposes of this Act:
   (b) declaring a business to be or not to be a food business for the purposes of this Act.
 (2) Before recommending the making of regulations under this section, the Minister must be satisfied that there has been appropriate consultation on the regulations in accordance with section 379.
+(3) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 394 Regulations for purposes of section 368
 (1) The Governor-General may, by Order in Council made on the recommendation of the Minister, make regulations—
   (a) declaring any Act to be an Act for the purposes of section 368(3):
   (b) declaring any person to be a person for the purposes of section 368(4).
 (2) Before recommending the making of regulations under this section, the Minister must be satisfied that there has been appropriate consultation on the regulations in accordance with section 379.
+(3) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 395 Regulations and notices about other matters
 (1) The Governor-General may, by Order in Council made on the recommendation of the Minister, make regulations providing for any matters that are—
@@ -4880,16 +4948,19 @@ In the 12 months after the commencement date of regulations under this Act, a pe
   (b) contemplated by this Act, necessary for its administration, or necessary to give it full effect.
 (2) Before recommending the making of regulations under this section, the Minister must be satisfied that there has been appropriate consultation on the regulations in accordance with section 379.
 (3) The chief executive may, by notice under section 405, supplement regulations made under this section.
+(4) The following are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements):
+  (a) regulations under this section:
+  (b) a notice issued under section 405 in reliance on subsection (3).
 
 ### Subpart 5 — Food standards
 
 **Adopted joint food standards**
 
-### 396 Purpose of sections 397 to 402
-The purpose of sections 397 to 402 is to give effect to New Zealand's obligations under the Australia–New Zealand Joint Food Standards Agreement by giving lawful effect to joint food standards.
+### 396 Purpose of sections 397 to 401
+The purpose of sections 397 to 401 is to give effect to New Zealand's obligations under the Australia–New Zealand Joint Food Standards Agreement by giving lawful effect to joint food standards.
 
 ### 397 Minister may adopt joint food standards
-(1) The Minister may, by notice, adopt a joint food standard (adopted joint food standard) for food manufactured or prepared for sale or sold in New Zealand, or imported into, or exported from, New Zealand, if subsections (2) and (3) are complied with.
+(1) The Minister may adopt a joint food standard (adopted joint food standard) for food manufactured or prepared for sale or sold in New Zealand, or imported into, or exported from, New Zealand, if subsections (2) and (3) are complied with.
 (2) In adopting a joint food standard under subsection (1), the Minister must take into account the following matters:
   (a) the need to protect public health:
   (b) the desirability of avoiding unnecessary restrictions on trade:
@@ -4898,43 +4969,36 @@ The purpose of sections 397 to 402 is to give effect to New Zealand's obligation
   (e) any other matters that the Minister considers relevant.
 (3) The Minister must not adopt a joint food standard under subsection (1) unless he or she is satisfied that adequate consultation on the joint food standard has taken place under the Food Standards Australia New Zealand Act 1991 (Australia).
 (4) The effect of adopting a joint food standard is that a person who manufactures or prepares food for sale in New Zealand, or sells food in New Zealand, or imports food into, or exports food from, New Zealand must comply with the requirements of the adopted food standard in relation to that food.
+(5) An adopted joint food standard—
+  (a) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements); and
+  (b) must include—
+    (i) a statement to the effect that the Minister has adopted the joint food standard; and
+    (ii) the date on which the adopted joint food standard commences.
+(6) The Legislation Act 2019 applies as if—
+  (a) the Minister were the maker of the adopted joint food standard; and
+  (b) the adopted joint food standard were made by the Minister adopting it.
 
 ### 398 Issue, notification, and availability of adopted joint food standards
-(1) A notice adopting a joint food standard under section 397 must—
-  (a) be signed by the Minister; and
-  (b) show the date of its commencement.
-(2) If a notice adopting a joint food standard is issued,—
-  (a) the Minister must ensure that, as soon as practicable after the notice is issued, another notice is published in the Gazette—
-    (i) indicating that the joint food standard has been adopted; and
-    (ii) showing the place or places at which copies of the adopted joint food standard are available for inspection free of charge, or for buying, or both; and
-  (b) the chief executive must ensure that so long as the adopted joint food standard remains in force, the adopted joint food standard is available—
-    (i) for reading, free of charge, in a hard copy or in an electronic form; and
-    (ii) for buying by members of the public at a reasonable price; and
-    (iii) at the head office of the Ministry; and
-    (iv) at any other places that the chief executive decides.
+[Repealed]
 
-### 399 Application of Legislation Act 2012 to adopted joint food standard
-(1) An adopted joint food standard is a disallowable instrument, but not a legislative instrument, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
-(2) The provisions of sections 396 to 400 constitute a code that sets out all the requirements that have to be followed before a notice adopting a joint food standard can be issued under section 397, and the act of adoption of a joint food standard is not an incorporation by reference for the purposes of Schedule 6 of this Act or subpart 2 of Part 3 of the Legislation Act 2012.
+### 399 Adoption of joint food standard is not incorporation by reference
+Sections 396 to 400 constitute a code that sets out all the requirements that must be followed before a joint food standard can be adopted under section 397, and the act of adoption of a joint food standard is not an incorporation by reference for the purposes of sections 63 to 66 and Schedule 2 of the Legislation Act 2019.
 
 ### 400 Amendment and revocation of adopted joint food standards
 (1) The Minister may amend or revoke an adopted joint food standard in order to—
   (a) give effect to an amendment or a revocation of a joint food standard; or
   (b) correct an error or omission in that standard.
 (2) An amendment to an adopted food standard under subsection (1)﻿(a) or (b) must, subject to this section, be adopted in the same way as a joint food standard is adopted.
-(3) Sections 397 and 398 apply, subject to any necessary modifications, in respect of—
+(3) Section 397 applies, subject to any necessary modifications, in respect of—
   (a) the adoption of an amendment to an adopted food standard except that section 397(2) and (3) does not apply if the amendment corrects an error or omission in that standard:
   (b) the revocation of an adopted food standard.
+(4) An amendment to, or revocation of, an adopted food standard is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 401 Minister must not delegate power to adopt joint food standards
 Despite clause 5 of Schedule 6 of the Public Service Act 2020, the Minister must not delegate to any other person the power under section 397 to adopt joint food standards.
 
 ### 402 Proof of adopted joint food standards
-(1) A copy of any joint food standards that the Minister is purported to have adopted by notice under section 397, if produced in any proceedings, is sufficient evidence that those standards have been adopted under that section on the date shown in the copy.
-(2) In any proceedings,—
-  (a) any material incorporated in an adopted joint food standard by reference under section 444 may be proved by production of a copy of that material certified as correct by the chief executive; and
-  (b) judicial notice must be taken of the chief executive's signature.
-(3) Subsections (1) and (2) do not affect any other method of proof.
+[Repealed]
 
 **Domestic food standards**
 
@@ -4952,7 +5016,8 @@ The purpose of section 404 is to allow, in certain limited and exceptional circu
   (d) the need to give effect to New Zealand's obligations under any relevant international treaty, agreement, convention, or protocol:
   (e) any other matters that the Minister considers relevant.
 (3) The Minister must not issue a domestic food standard under subsection (1) unless he or she is satisfied that there has been appropriate consultation on the domestic food standard in accordance with section 379.
-(4) Sections 398 to 402 apply, subject to any necessary modifications, in respect of a domestic food standard issued under subsection (1).
+(4) Sections 397 to 401 apply, subject to any necessary modifications, in respect of a domestic food standard issued under subsection (1).
+(5) A domestic food standard is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### Subpart 6 — Notices
 
@@ -4968,6 +5033,7 @@ The purpose of section 404 is to allow, in certain limited and exceptional circu
   (c) sets out how requirements imposed by the regulations may or must be met; or
   (d) otherwise supplements matters of general principle set out in the regulations.
 (3) If a notice issued under this section is inconsistent with the regulations, the regulations prevail to the extent of the inconsistency.
+(4) A notice under this section is not secondary legislation unless it is stated to be secondary legislation by another provision of this Act.
 
 ### 406 Notices relating to specifications or requirements for specific matters
 [Repealed]
@@ -4976,17 +5042,25 @@ The purpose of section 404 is to allow, in certain limited and exceptional circu
 The chief executive must consult under section 380 before issuing a notice under section 405.
 
 ### 408 Notices: publication
-(1) A notice under section 405 must be published under this section.
-(2) Subsection (3) applies when—
-  (a) a notice affects only 1 person or a small number of persons; and
-  (b) the chief executive knows who the person or persons are.
+(1) A notice under section 405 must be published in accordance with this section.
+Notices that are secondary legislation
+(1A) In addition to complying with the Legislation Act 2019, the chief executive may try to bring a notice that is secondary legislation to the attention of persons likely to be affected by the notice by publishing it or notifying its making in—
+  (a) a newspaper; or
+  (b) a trade journal; or
+  (c) any other medium, including an electronic one.
+Notices that are not secondary legislation
+(2) If a notice is not secondary legislation,—
+  (a) subsections (3) and (8) apply if the notice applies only to 1 or more named persons; and
+  (b) subsections (5) to (8) apply in any other case.
+Notices that are not secondary legislation and apply only to 1 or more named persons
 (3) The chief executive must—
   (a) apply the relevant one of sections 376 to 378 to tell the person or persons that the notice has been made; and
   (b) do 1 of the following:
     (i) give the person or persons a copy of the notice; or
     (ii) tell them where they may read a copy free of charge, which may include reading a copy on an Internet site; or
     (iii) tell them where they may buy a copy.
-(4) Subsections (5) to (7) apply if subsections (2) and (3) do not apply.
+(4)
+Other notices that are not secondary legislation
 (5) The chief executive must—
   (a) publish the notice on an Internet site maintained by or on behalf of the Ministry as soon as practicable after it is issued; and
   (b) either—
@@ -4995,23 +5069,11 @@ The chief executive must consult under section 380 before issuing a notice under
 (6) If only notifying the making of the notice in the Gazette, the chief executive must—
   (a) make copies of the notice available for reading free of charge or buying at the head office of the Ministry and at any other places that the chief executive decides; and
   (b) specify in the Gazette notice where the copies may be read or bought.
-(7) In addition to applying subsection (5), the chief executive may try to bring the notice to the attention of persons likely to be affected by it by publishing it or notifying its making in—
-  (a) a newspaper; or
-  (b) a trade journal; or
-  (c) any other medium, including an electronic one.
+(7) In addition to complying with subsection (5), the chief executive may try to bring the notice to the attention of persons likely to be affected by the notice by publishing it or notifying its making in a medium specified in subsection (1A)﻿(a) to (c).
 (8) The chief executive must set a reasonable price for a notice sold under this section.
 
 ### 409 Application of Legislation Act 2012 to certain notices
-(1) A notice issued under section 427, 435, 436, 437, or 438 or section 405 by virtue of section 33, 39, 40, 44, 45, 46, 75, 103, 104, 133C, 133F, 170, 174, 291, 347, 383, 387, 389, or 390, is a disallowable instrument, but not a legislative instrument, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
-(2) However, a notice is neither a disallowable instrument nor a legislative instrument for the purposes of the Legislation Act 2012 if the notice is issued—
-  (a) under section 405 by virtue of section 53(4)﻿(b) in respect of a specified business; or
-  (b) under section 405 by virtue of section 387(4)﻿(b); or
-  (c) under section 405 by virtue of section 33(4), 45(5), 46(6), or 291; or
-  (d) under section 435 in respect of a specified individual; or
-  (e) under section 436 in respect of a specified agency; or
-  (f) under section 437 in respect of a specified individual or agency; or
-  (g) under section 438 in respect of a specified importer.
-(3) If a notice issued under this Act is not subject to subsection (1) or (2), the notice is neither a disallowable instrument nor a legislative instrument for the purposes of the Legislation Act 2012.
+[Repealed]
 
 ### 410 Power to issue emergency notice
 (1) The Minister or chief executive may issue an emergency notice if he or she considers that—
@@ -5022,28 +5084,27 @@ The chief executive must consult under section 380 before issuing a notice under
 (2) The notice may be amended at any time in the same manner as it was made.
 (3) The person who proposes to issue an emergency notice, whether the Minister or the chief executive, must, before issuing it, consult about the content of the proposed notice anyone the person considers appropriate in a government department, Crown entity, territorial authority, representative group in the food industry, or representative groups in another industry or anyone else the person considers appropriate.
 (4) Neither the Minister nor the chief executive may delegate the power in this section.
+(5) The following are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements):
+  (a) an emergency notice under subsection (1):
+  (b) an amendment to a notice under subsection (2).
 
 ### 411 Notification and duration of emergency notice
 (1) This section applies when the Minister or chief executive issues an emergency notice under section 410.
-(2) As soon as practicable after issuing the notice, the Minister or chief executive must notify or publish the notice in the Gazette.
-(3) If the notice is only notified, not published, in the Gazette, the following provisions apply:
-  (a) the chief executive must make copies of the notice available—
-    (i) for reading free of charge; and
-    (ii) for buying at a reasonable cost; and
-  (b) the chief executive must make the copies available—
-    (i) at the head office of the Ministry; and
-    (ii) at any other places that the chief executive determines necessary or appropriate; and
-  (c) the Gazette notice must specify where the copies of the notice may be read or bought.
-(4) In addition to notifying or publishing the notice in the Gazette, the Minister or chief executive must, to the extent that it is practicable, bring the notice to the attention of all persons likely to be affected by it.
+(2)
+(3)
+(4) In addition to complying with the Legislation Act 2019, the Minister or chief executive must, to the extent that it is practicable, bring the notice to the attention of all persons likely to be affected by it.
 (5) The notice takes effect on—
   (a) a day that—
-    (i) is later than the day it is notified or published in the Gazette; and
+    (i) is later than the day it is published under the Legislation Act 2019; and
     (ii) is specified in the notice; or
   (b) a day that is earlier than the day it is notified or published in the Gazette, if every person affected has been supplied with a copy of the notice by the earlier day; or
   (c) the day it is notified or published in the Gazette, if paragraph (a) or (b) does not apply.
-(6) The notice ceases to have effect at the end of 6 months after the date of its publication or notification in the Gazette, unless—
+(6) The notice ceases to have effect at the end of 6 months after the date of its publication under the Legislation Act 2019, unless—
   (a) the Minister or chief executive revokes it earlier; or
-  (b) the Minister or chief executive extends it by notice in the Gazette for 1 further period of up to 6 months.
+  (b) the Minister or chief executive extends it by notice for 1 further period of up to 6 months.
+(7) The following are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements):
+  (a) a revocation under subsection (6)﻿(a); and
+  (b) a notice under subsection (6)﻿(b).
 
 ### 412 Emergency notice prevails
 (1) If there is an inconsistency between an emergency notice under section 410 and regulations under this Act, the emergency notice prevails.
@@ -5127,6 +5188,9 @@ In this subpart, Act's introductory period means the period that—
   (a) the Food Hygiene Regulations 1974 and the Food (Safety) Regulations 2002 continue in force until the end of this Act’s introductory period unless revoked earlier by regulations made under this Act; and
   (b) the Dietary Supplements Regulations 1985 continue in force until 1 March 2026 unless revoked earlier by regulations made under this Act; and
   (c) the regulations continued by paragraph (a) or (b) may be amended as if the Food Act 1981 had not been repealed.
+(4) The following are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements):
+  (a) the Dietary Supplements Regulations 1985:
+  (b) an amendment to those regulations under subsection (3)﻿(c).
 
 ### 421 Pre-commencement standards
 (1) A food standard is treated as if it had been issued as an adopted joint food standard under this Act if it—
@@ -5152,7 +5216,8 @@ In this subpart, Act's introductory period means the period that—
   (b) is satisfied that the amendment does not have the effect of extending the application of the standard; and
   (c) has taken into account the matters described in section 404(2); and
   (d) is satisfied that there has been appropriate consultation on the amendment in accordance with section 379.
-(7) Sections 398 to 402 apply, subject to any necessary modifications, in respect of an amendment made under subsection (6).
+(7) Sections 397 to 401 apply, subject to any necessary modifications, in respect of an amendment made under subsection (6).
+(8) An amendment under subsection (6) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 422 Pre-commencement food
 Food produced or processed and handled under the Food Act 1981 and in existence on the relevant appointed date is treated as equivalent to food at the comparable stage of production or processing and handling under this Act.
@@ -5188,6 +5253,7 @@ A food safety officer may exercise the powers in this Act in relation to an offe
 (6) A notice issued under this section must state the time within which it must be complied with.
 (7) A food business or territorial authority to which a notice under this section applies must comply with it.
 (8) The chief executive must consult under section 380 before issuing a notice under this section.
+(9) A notice under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 428 Statements about food produced or processed and handled under Food Act 1981
 The chief executive may make a statement under this Act about food produced or processed and handled under the Food Act 1981 as if the food had been produced or processed and handled under this Act.
@@ -5234,24 +5300,28 @@ A food safety officer appointed under this Act may perform the officer’s funct
 (2) The person is deemed to be a recognised person on and after the relevant appointed date until the expiry of the appointment (if any) or until a date specified by the chief executive in a notice, whichever is the earlier.
 (3) The chief executive may issue a subsequent notice extending the date specified in the notice under subsection (2).
 (4) A person to whom this section applies who wishes to be a recognised person must apply under section 139.
+(5) A notice under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements), unless it applies only to a specified individual.
 
 ### 436 Agencies managing approved auditors under Food Act 1981
 (1) This section applies to an agency that, immediately before the relevant appointed date, manages an approved auditor under the Food Act 1981.
 (2) The agency is deemed to be a recognised agency on and after the relevant appointed date until a date specified by the chief executive in a notice.
 (3) The chief executive may issue a subsequent notice extending the date.
 (4) The agency must apply under section 135 if it wishes to be a recognised agency, unless section 136 applies.
+(5) A notice under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements), unless it applies only to a specified agency.
 
 ### 437 Notices about approved auditors and agencies
 (1) The chief executive may issue a notice specifying conditions applying to approved auditors deemed to be recognised persons or conditions applying to agencies deemed to be recognised agencies.
 (2) The chief executive may issue a notice specifying the functions that a person deemed to be a recognised person must or must not carry out under this Act, the training that the person must do for the purposes of this Act, and the competency standards that the person must meet for the purposes of this Act.
 (3) The chief executive may issue a notice specifying the functions that an agency deemed to be a recognised agency must or must not carry out under this Act and the management standards that the agency must meet for the purposes of this Act.
 (4) A person to whom, or agency to which, a notice under this section applies must comply with it.
+(5) A notice under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements), unless it applies only to a specified individual or agency.
 
 ### 438 Importers listed for purposes of Food Act 1981
 (1) This section applies to a person who, immediately before the relevant appointed date, is listed as an importer under the Food (Importer Listing) Standard 2008 issued under section 11C of the Food Act 1981.
 (2) The person is deemed to be a registered importer on and after the relevant appointed date until a date specified by the chief executive in a notice.
 (3) The chief executive may issue a subsequent notice extending the date.
 (4) A person to whom this section applies who wishes to be registered as an importer must apply under section 113.
+(5) A notice under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements), unless it applies only to a specified importer.
 
 **Transitional regulations**
 
@@ -5260,11 +5330,13 @@ A food safety officer appointed under this Act may perform the officer’s funct
 (2) The regulations may be made at any time in this Act's introductory period.
 (3) The regulations may apply at any time in this Act's introductory period.
 (4) The regulations may provide for matters arising after this Act's introductory period, but only to the extent necessary to give effect to the transition of a matter arising in this Act's introductory period.
+(5) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 440 Regulations about cost recovery
 (1) The Governor-General may, by Order in Council made on the recommendation of the Minister, make regulations setting charges for actions by the chief executive under this subpart.
 (2) The Governor-General may, by Order in Council made on the recommendation of the Minister, make regulations setting charges for other actions under this subpart.
 (3) The Minister must consider the principles in section 198 before recommending to the Governor-General the making of regulations under this section.
+(4) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 441 Consultation about proposed regulations
 (1) Consultation must occur before the Minister recommends to the Governor-General that he or she make regulations under this subpart.
@@ -5273,7 +5345,7 @@ A food safety officer appointed under this Act may perform the officer’s funct
 **Notice requirements**
 
 ### 442 Requirements for notices issued by chief executive
-Sections 407 to 409 apply to the issuing of notices by the chief executive under this subpart.
+Sections 407 and 408 apply to the issuing of notices by the chief executive under this subpart.
 
 ### Subpart 8 — Miscellaneous
 
@@ -5671,11 +5743,11 @@ In this schedule,—
 
 ### 3 Effect of amendments to, or replacement of, material incorporated by reference
 (1) An amendment to, or a replacement of, material (other than a standard work of reference to which section 445 applies) that is incorporated by reference in a specified document (the original document) has legal effect as part of the original document only if a specified document made after the making of the original document states that the particular amendment or replacement has that effect.
-(2) If the specified document is an adopted joint food standard, subclause (1) applies as if the second reference in that subclause to a specified document were a reference to the relevant notice under section 400.
+(2) If the specified document is an adopted joint food standard, subclause (1) applies as if the second reference in that subclause to a specified document were a reference to the relevant instrument under section 400.
 
 ### 4 Amendments to, or replacement of, material incorporated by reference to be of same general character as original material
 (1) A specified document may not state that an amendment to, or replacement of, material that is incorporated by reference in the specified document (the original document) has effect as part of the original document unless the amendment or replacement material is of the same general character as the material amended or replaced.
-(2) If the specified document is an adopted joint food standard, subclause (1) applies as if the first reference in that subclause to a specified document were a reference to the relevant notice under section 400.
+(2) If the specified document is an adopted joint food standard, subclause (1) applies as if the first reference in that subclause to a specified document were a reference to the relevant instrument under section 400.
 
 ### 5 Proof of material incorporated by reference
 (1) A copy of material that is incorporated by reference in a specified document, including any amendment to, or replacement of, that material, must be—
@@ -5686,7 +5758,7 @@ In this schedule,—
 
 ### 6 Effect of expiry of material incorporated by reference
 (1) Material that is incorporated by reference in a specified document (the original document) that expires or that is revoked or that ceases to have effect ceases to have legal effect as part of the original document only if a specified document made after the making of the original document states that the material ceases to have legal effect.
-(2) If the specified document is an adopted joint food standard, subclause (1) applies as if the second reference in that subclause to a specified document were a reference to the relevant notice under section 400.
+(2) If the specified document is an adopted joint food standard, subclause (1) applies as if the second reference in that subclause to a specified document were a reference to the relevant instrument under section 400.
 
 ### 7 Requirement to consult on proposal to incorporate material by reference
 (1) This clause applies to—
@@ -5731,10 +5803,8 @@ In this schedule,—
 (5) A failure to comply with this clause does not invalidate the specified document that incorporates material by reference.
 (6) Subclause (1)﻿(d) does not apply to an adopted joint food standard.
 
-### 9 Application of Legislation Act 2012 to material incorporated by reference
-(1) Part 2 of the Legislation Act 2012 does not apply to material incorporated by reference in a specified document or to an amendment to, or replacement of, that material.
-(2) Subpart 1 of Part 3 of the Legislation Act 2012 applies to a specified document that incorporates material by reference.
-(3) However, nothing in section 41 of the Legislation Act 2012 requires material that is incorporated by reference in a specified document to be presented to the House of Representatives.
+### 9 Application of Legislation Act 2019 to material incorporated by reference
+Subpart 1 of Part 3 and section 114 of the Legislation Act 2019 do not apply to material that is incorporated by reference in a specified document merely because it is incorporated.
 
 ## Schedule 7 — Consequential amendments, repeals, and revocations
 
