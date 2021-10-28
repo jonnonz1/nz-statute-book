@@ -1,5 +1,5 @@
 # Maori Community Development Act 1962
-_Consolidation as at 2020-08-07_
+_Consolidation as at 2021-10-28_
 
 > An Act to provide for the constitution of Maori Associations, to define their powers and functions, and to consolidate and amend the Maori Social and Economic Advancement Act 1945
 
@@ -314,6 +314,7 @@ Every person who commits an offence against this Act for which no penalty is spe
   (d) providing for the payment of expenses and travelling allowances to members of Maori Associations:
   (e) providing for such matters as are contemplated by or necessary for giving full effect to the provisions of this Act and for the due administration thereof.
 (2) Any regulations under this Act may apply to the whole of New Zealand or any part or parts thereof, or may make different provision for different parts of New Zealand.
+(3) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 44 Repeals
 The enactments specified in the Schedule are hereby repealed.
