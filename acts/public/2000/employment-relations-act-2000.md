@@ -1,5 +1,5 @@
 # Employment Relations Act 2000
-_Consolidation as at 2021-07-01_
+_Consolidation as at 2021-10-28_
 
 ### 1 Title
 This Act is the Employment Relations Act 2000.
@@ -2643,17 +2643,14 @@ If a strike or lockout occurs, the employer of the employees participating in th
 **Codes of employment practice**
 
 ### 100A Codes of employment practice
-(1) The Minister may, by notice in the Gazette, approve 1 or more codes of employment practice.
-(2) The notice in the Gazette may, instead of setting out the code of employment practice being approved,—
-  (a) provide sufficient information to identify the code; and
-  (b) specify the date on which the code comes into force; and
-  (c) state where copies of the code may be obtained.
+(1) The Minister may, by notice, approve 1 or more codes of employment practice.
+(2)
 (3) Before the Minister approves a code of employment practice, the Minister must consult, or be satisfied that there has been consultation, with such persons and organisations as the Minister thinks appropriate, including relevant employer and employee interests.
 (4) The purpose of a code of employment practice is to provide guidance on the application of any of the Acts specified in section 223(1) or any regulations made under those Acts—
   (a) generally; or
   (b) in relation to particular types of situations; or
   (c) in relation to particular parts or areas of the employment environment.
-(5) A code of employment practice approved under this section is not a legislative instrument but is a disallowable instrument for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
+(5) A code of employment practice under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 100B Amendment and revocation of code of practice
 A code of practice may be amended or revoked in the same manner as the code is approved.
@@ -2683,6 +2680,7 @@ A code of practice may be amended or revoked in the same manner as the code is a
     (i) not less than three-quarters of district health boards; and
     (ii) unions who represent not less than three-quarters of union members employed by district health boards; and
   (b) the Minister has consulted the Minister of Health and such other persons and organisations as he or she considers appropriate.
+(3) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 100F Code of good faith for employment relationships in relation to provision of services by New Zealand Police
 (1) Schedule 1C contains a code of good faith for employment relationships in relation to the provision of services by the New Zealand Police.
@@ -2700,6 +2698,7 @@ A code of practice may be amended or revoked in the same manner as the code is a
   (a) requested to do so by the Commissioner of Police and service organisations representing not less than three-quarters of service organisation members employed by the Police; and
   (b) the Minister has consulted the Minister of Police and any other persons and organisations that he or she considers appropriate.
 (3) In this section, service organisation has the same meaning as in section 55 of the Policing Act 2008.
+(4) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ## Part 9 — Personal grievances, disputes, and enforcement
 
@@ -4271,6 +4270,7 @@ The court is to have a seal, which is to be judicially noticed by all courts and
   (a) seeking expressions of interest for the appointment of Judges of the court; and
   (b) nominating a person for appointment as a Judge of the court.
 (5) A Judge must not practise as a lawyer.
+(6) An order under subsection (2)﻿(b)﻿(iii) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 200AA Judge not to undertake other employment or hold other office
 (1) A Judge of the court must not undertake any other paid employment or hold any other office (whether paid or not) without the approval of the Chief Judge.
@@ -4375,6 +4375,7 @@ In any matter before the court the Judge may, of the Judge's own motion, or on t
   (b) section 142E (pecuniary penalty orders); and
   (c) section 142J (compensation orders); and
   (d) section 142M (banning orders),—
+(4) Rules under subsection (1) are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 **Review of proceedings**
 
@@ -4792,7 +4793,7 @@ A person is not liable to pay an infringement fee and penalty under this Act for
 **Miscellaneous provisions**
 
 ### 237 Regulations
-The Governor-General may from time to time, by Order in Council, make regulations for all or any of the following purposes:
+(1) The Governor-General may from time to time, by Order in Council, make regulations for all or any of the following purposes:
   (a) prescribing the forms for the purposes of this Act:
   (b) prescribing the duties of officers of the Authority, of the Registrar of the court, and of any other officers or persons acting in execution of this Act:
   (c) prescribing any act or thing necessary to supplement or render more effectual the provisions of this Act as to the conduct of proceedings before the Authority or the court:
@@ -4812,6 +4813,7 @@ The Governor-General may from time to time, by Order in Council, make regulation
   (fb) prescribing infringement offences for the purposes of section 235A(b):
   (fc) prescribing infringement fees (not exceeding $1,000) for the purposes of section 235E(1)﻿(b):
   (g) providing for such matters as are contemplated by or necessary for giving full effect to the provisions of this Act and for its due administration.
+(2) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 237AA Chief executive may approve forms
 (1) The chief executive may approve and issue any forms that the chief executive considers necessary for the purposes of this Act, not being forms prescribed by regulations made under this Act.
@@ -4833,6 +4835,7 @@ The Governor-General may from time to time, by Order in Council, make regulation
   (b) receive a report from the department on whether the employees in the category of employees satisfy the criteria in subsection (2); and
   (c) provide the report to, and consult, any employers, employees, representatives of employers or employees, or other persons or organisations as the Minister considers appropriate.
 (6) Nothing in subsection (5)﻿(c) requires the making available of information that could properly be withheld in accordance with the provisions of the Official Information Act 1982 if the information were requested under that Act.
+(6A) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 (7) In this section, restructuring has the same meaning as in section 69B.
 
 ### 237A Amendments to Schedule 1A
@@ -4847,12 +4850,14 @@ The Governor-General may from time to time, by Order in Council, make regulation
   (a) for assessing a person's ability to pay a fee; and
   (b) for identifying proceedings that concern matters of genuine public interest.
 (4) No fee is payable for an application for the exercise of a power specified in subsection (1).
+(5) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 237C Postponement of fees
 (1) The Governor-General may, by Order in Council, make regulations authorising a Registrar of the court to postpone the payment of a fee pending the determination of—
   (a) an application for the exercise of a power specified in section 237B(1); or
   (b) an application for review under section 237D.
 (2) No fee is payable for an application for the exercise of a power specified in subsection (1).
+(3) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 237D Reviews of decisions of Registrars concerning fees
 (1) A person who disagrees with a decision of a Registrar of the court under regulations made under section 237B(1) may apply to a Judge for a review of that decision.
