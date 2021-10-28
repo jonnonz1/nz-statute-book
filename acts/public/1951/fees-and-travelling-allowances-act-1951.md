@@ -1,5 +1,5 @@
 # Fees and Travelling Allowances Act 1951
-_Consolidation as at 2016-10-29_
+_Consolidation as at 2021-10-28_
 
 > An Act to make provision with respect to the payment of remuneration and travelling allowances and expenses to members of statutory Boards and of travelling allowances and expenses to members of local authorities
 
@@ -42,6 +42,7 @@ Every payment of remuneration, travelling allowances, or travelling expenses mad
   (b) prescribing conditions in respect of disbursements repayable to members of statutory Boards:
   (c) prescribing matters to be taken into account when assessing subsistence allowances or mileage allowances:
   (d) prescribing conditions to be observed before payments of remuneration or travelling allowances or travelling expenses are made to members of statutory Boards.
+(3) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 (3)
 
 ### 10 Consequential amendments
