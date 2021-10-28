@@ -1,5 +1,5 @@
 # Trade Unions Act 1908
-_Consolidation as at 2013-12-05_
+_Consolidation as at 2021-10-28_
 
 > An Act to consolidate certain enactments of the General Assembly relating to the regulation and management of trade unions in New Zealand
 
@@ -164,12 +164,13 @@ With respect to offences the following provisions shall have effect:
 
 ### 31 Governor may make regulations
 (1) The Governor may from time to time make regulations respecting registry and procedure under this Act, and the seal and forms to be used for such registry, and the duties and functions of the Registrar, and the inspection of documents kept by the Registrar under this Act, and generally for carrying this Act into effect.
-(2) All such regulations shall, within 10 days after the making thereof, be laid before Parliament if sitting, or if not, then within 10 days from the commencement of the next ensuing session.
-(3) A copy of such regulations shall, if Parliament is not then sitting, be sent by post to every registered trade union or branch at least 1 month previous to being laid before Parliament.
+(2) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+(3)
 
 ### 32 Governor may fix fees
 (1) The Governor may from time to time determine a scale of fees to be paid for matters to be transacted or for the inspection of documents under this Act.
 (2) All fees and moneys received by the Registrar under or by virtue of this Act shall be paid into the Public Account and form part of the Consolidated Fund.
+(3) A determination under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 33 Expenses of Act
 [Repealed]
