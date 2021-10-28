@@ -1,5 +1,5 @@
 # Family Benefits (Home Ownership) Act 1964
-_Consolidation as at 2019-10-01_
+_Consolidation as at 2021-10-28_
 
 > An Act to consolidate and amend the law relating to the making of advances for housing purposes against the capitalised value of family benefits
 
@@ -44,7 +44,8 @@ Subject to the provisions of section 7, the following purposes are hereby declar
 
 ### 4 Administration
 (1) This Act shall be administered in the department by the chief executive, and the chief executive shall administer this Act and shall exercise all the powers conferred on him or her by this Act under the general direction and control of the Minister.
-(2) In the exercise of its powers, functions, and discretions under this Act the chief executive shall comply with any general or special directions given to him or her in writing by the Minister. As soon as practicable after giving any such direction, the Minister shall publish in the Gazette and lay before Parliament a copy of the direction.
+(2) In the exercise of its powers, functions, and discretions under this Act the chief executive shall comply with any general or special directions given to him or her in writing by the Minister.
+(3) A direction under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 5 Delegation of powers of chief executive
 (1) With the written consent of the Minister, the chief executive may from time to time, either generally or particularly, delegate to any Registrar or other officer of the department such of his of her powers under this Act or under any regulations under this Act as the chief executive determines.
@@ -204,7 +205,8 @@ No fee shall be payable under any Act in respect of registration of any document
 (3) Every person who commits an offence against paragraph (c) of subsection (1) is liable on conviction to a fine not exceeding 50 pounds.
 
 ### 27 Regulations
-The Governor-General may from time to time, by Order in Council, make regulations providing for such matters as are necessary for giving full effect to the provisions of this Act and for the due administration thereof.
+(1) The Governor-General may from time to time, by Order in Council, make regulations providing for such matters as are necessary for giving full effect to the provisions of this Act and for the due administration thereof.
+(2) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 28 Repeals and revocations
 (1) The following enactments are hereby repealed:
