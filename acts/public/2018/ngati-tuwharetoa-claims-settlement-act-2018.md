@@ -1,5 +1,5 @@
 # Ngāti Tūwharetoa Claims Settlement Act 2018
-_Consolidation as at 2021-04-26_
+_Consolidation as at 2021-10-28_
 
 ### 1 Title
 This Act is the Ngāti Tūwharetoa Claims Settlement Act 2018.
@@ -7,6 +7,7 @@ This Act is the Ngāti Tūwharetoa Claims Settlement Act 2018.
 ### 2 Commencement
 (1) This Act, other than sections 92 to 94, comes into force on the day after the date on which it receives the Royal assent.
 (2) Sections 92 to 94 come into force on a date appointed by Order in Council on the recommendation of the Minister for Treaty of Waitangi Negotiations and the Minister of Conservation.
+(3) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ## Part 1 — Preliminary matters, acknowledgements and apology, and settlement of historical claims
 
@@ -918,22 +919,24 @@ The protection principles are intended to prevent the values stated in the state
 (3) The amendment is an amendment for the purposes of section 17I(1) to (3) of the Conservation Act 1987 or section 46(1) to (4) of the National Parks Act 1980.
 
 ### 57 Regulations
-The Governor-General may, by Order in Council made on the recommendation of the Minister of Conservation, make regulations for 1 or more of the following purposes:
+(1) The Governor-General may, by Order in Council made on the recommendation of the Minister of Conservation, make regulations for 1 or more of the following purposes:
   (a) to provide for the implementation of objectives included in a strategy or plan under section 56(1):
   (b) to regulate or prohibit activities or conduct by members of the public in relation to an overlay site:
   (c) to create offences for breaches of regulations made under paragraph (b):
   (d) to prescribe the following fines for an offence referred to in paragraph (c):
     (i) a fine not exceeding $5,000; and
     (ii) if the offence is a continuing one, an additional amount not exceeding $500 for every day on which the offence continues.
+(2) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 58 Bylaws
-The Minister of Conservation may make bylaws for 1 or more of the following purposes:
+(1) The Minister of Conservation may make bylaws for 1 or more of the following purposes:
   (a) to provide for the implementation of objectives included in a strategy or plan under section 56(1):
   (b) to regulate or prohibit activities or conduct by members of the public in relation to an overlay site:
   (c) to create offences for breaches of bylaws made under paragraph (b):
   (d) to prescribe the following fines for an offence referred to in paragraph (c):
     (i) a fine not exceeding $5,000; and
     (ii) if the offence is a continuing one, an additional amount not exceeding $500 for every day on which the offence continues.
+(2) Bylaws under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 59 Effect of overlay classification on overlay site
 (1) This section applies if, at any time, the overlay classification applies to any land in—
@@ -953,6 +956,7 @@ The Minister of Conservation may make bylaws for 1 or more of the following purp
 (3) The Crown must take reasonable steps to ensure that the trustees continue to have input into the management of a relevant area if—
   (a) subsection (2)﻿(c) applies; or
   (b) there is a change in the statutory management regime that applies to all or part of the overlay site.
+(4) The Minister of Conservation must ensure that an order under this section is published in the Gazette.
 
 ### 61 Exercise of powers and performance of functions and duties
 (1) The overlay classification does not affect, and must not be taken into account by, any person exercising a power or performing a function or duty under an enactment or a bylaw.
