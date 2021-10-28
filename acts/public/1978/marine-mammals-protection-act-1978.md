@@ -1,5 +1,5 @@
 # Marine Mammals Protection Act 1978
-_Consolidation as at 2020-08-07_
+_Consolidation as at 2021-10-28_
 
 > An Act to make provision for the protection, conservation, and management of marine mammals within New Zealand and within New Zealand fisheries waters
 
@@ -20,7 +20,7 @@ _Consolidation as at 2020-08-07_
   - **Conservation Authority** means the New Zealand Conservation Authority established under section 6A of the Conservation Act 1987
   - **conservation management plan** means a conservation management plan approved under section 3D
   - **conservation management strategy** means a conservation management strategy approved under section 17F of the Conservation Act 1987
-  - **Crown-owned land** means unoccupied land vested in Her Majesty and administered by a Minister of the Crown for the time being charged with the administration of the department of State that has control of the land
+  - **Crown-owned land** means unoccupied land vested in the Sovereign and administered by a Minister of the Crown for the time being charged with the administration of the department of State that has control of the land
   - **Director-General** means the Director-General of Conservation
   - **fishing** —
     (a) means the catching, taking, or harvesting of fish, aquatic life, or seaweed; and
@@ -56,7 +56,8 @@ _Consolidation as at 2020-08-07_
   - **vessel** means any ship, boat, steamer, lighter, launch, raft, barge, punt, or ferry boat; and includes every description of vessel, whether used in navigation or in any way kept or used as a hulk or storeship or for any other purpose
   - **warranted officer** has the same meaning as in the Conservation Act 1987.
 (2) For the purposes of this Act, a marine mammal shall be in the possession of any person when that person has, alone or jointly with any other person, possession of or control over the marine mammal, or possession of or control over any vessel, vehicle, aircraft, hovercraft, container, package, receptacle, or place in or on which the marine mammal is kept.
-(3) The Minister, after having regard to any relevant international standards and any relevant standards within New Zealand, may from time to time, by notice in the Gazette, declare any species of marine mammal to be a threatened species for the purposes of this Act.
+(3) The Minister, after having regard to any relevant international standards and any relevant standards within New Zealand, may from time to time declare any species of marine mammal to be a threatened species for the purposes of this Act.
+(4) A declaration under subsection (3) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 3 Act to bind the Crown
 This Act shall bind the Crown.
@@ -148,7 +149,7 @@ In determining the maximum allowable level of fishing-related mortality for thre
 (1) Notwithstanding anything in any other enactment, but subject to this Act, no person shall—without first obtaining a permit to do so from the Minister or from any person or persons authorised in that behalf by the Minister.
   (a) hold a marine mammal in captivity; or
   (b) take any marine mammal, whether alive or dead, in or from its natural habitat or in or from any other place—
-(1A) The Minister may from time to time, by notice in the Gazette, prescribe criteria and standards in respect of any kind of permit referred to in subsection (1); and the prescribed criteria and standards shall be deemed to form part of permits of that kind and shall be complied with accordingly.
+(1A) The Minister may from time to time, by notice, prescribe criteria and standards in respect of any kind of permit referred to in subsection (1); and the prescribed criteria and standards shall be deemed to form part of permits of that kind and shall be complied with accordingly.
 (2) Subject to section 5(3) and to any regulations made under section 28, no person shall import into New Zealand or export from New Zealand any marine mammal or marine mammal product except pursuant to a permit issued under this Act.
 (3) Nothing in subsection (2) shall apply with respect to any whale product the subject of an order made under section 96 of the Customs and Excise Act 2018.
 (4)
@@ -156,6 +157,7 @@ In determining the maximum allowable level of fishing-related mortality for thre
   (a) by any person who finds or collects bones, teeth, ivory, or ambergris that have already separated naturally from a marine mammal if that person, as soon as practicable, notifies the Director-General or an officer of the find, and gives details of the time, place, and circumstances under which the find was made:
   (b) by any person who finds any dead marine mammal or part of one and, if authorised to do so by an officer and acting pursuant to his directions, sends the mammal or part to the Department of Conservation or to any approved research establishment, laboratory, or public museum:
   (c) by any person taking from or bringing into New Zealand any marine mammal product, being an ornament or an item for personal use or adornment made wholly or principally from any part or parts of a marine mammal, if the marine mammal product accompanies that person from or into New Zealand or comprises part of that person's belongings and was in existence in a similar form as at the commencement of this Act.
+(6) A notice under subsection (1A) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 5 Application for permit
 (1) Every person who desires to obtain a permit to hold or take any marine mammal or to import or export any marine mammal or marine mammal product shall make application in writing to the Director-General accompanied by the prescribed fee (if any).
@@ -216,7 +218,7 @@ The Minister, in his discretion, may grant a permit under this Act or refuse to 
 (3) Every person appointed under subsection (2) shall be appointed for such term, not exceeding 3 years, as the Director-General thinks fit, and may be reappointed.
 (4) Any person appointed under subsection (2) may at any time be removed from office by the Director-General for incapacity, neglect of duty, or misconduct, or may at any time resign his office by writing addressed to the Director-General.
 (5) Any person appointed under subsection (2) shall, on the expiration of the term of his appointment, or on the sooner expiry of his appointment by removal from office or resignation, surrender to the Director-General his warrant of appointment.
-(6) No person appointed under subsection (2) shall, by virtue of that appointment, be deemed to be employed in the service of Her Majesty for the purposes of the Public Service Act 2020 or the Government Superannuation Fund Act 1956.
+(6) No person appointed under subsection (2) shall, by virtue of that appointment, be deemed to be employed in the service of the Sovereign for the purposes of the Public Service Act 2020 or the Government Superannuation Fund Act 1956.
 (7) Every person declared to be an officer under subsection (1) shall have and may exercise, in respect of supervising, administering, and enforcing the provisions of this Act, all the powers that a warranted officer has in relation to supervising, administering, and enforcing the provisions of the Conservation Act 1987.
 (8) Every officer appointed under subsection (2) shall have such duties and may exercise such powers in relation to marine mammals as the Director-General may direct, being powers of no greater extent than those exercised by a warranted officer.
 (9) The Director-General shall issue to every officer (except a constable) a warrant showing the officer's authority to exercise any powers conferred on him pursuant to this section.
@@ -265,9 +267,13 @@ No action or proceedings shall be brought against the Crown, or any officer, or 
 (1) No person shall use any purse seine net for the purposes of fishing unless—
   (a) that person has in the net an escape panel or aperture from which any dolphin or porpoise can readily escape; and
   (b) that person follows a fishing practice acceptable to the Director-General.
-(2) Subject to subsection (3), the Director-General may, from time to time by notice in the Gazette, grant, in respect of any person or class of persons, or any vessel, vehicle, aircraft, or hovercraft, or any fish, or any waters, exemption from the requirements of subsection (1), either wholly or partially and either with or without conditions; and may in like manner amend or revoke any such notice.
+(2) Subject to subsection (3), the Director-General may, from time to time by notice, grant, in respect of any person or class of persons, or any vessel, vehicle, aircraft, or hovercraft, or any fish, or any waters, exemption from the requirements of subsection (1), either wholly or partially and either with or without conditions; and may in like manner amend or revoke any such notice.
 (3) No exemption from the requirements of subsection (1) shall be given in respect of a purse seine net used in fishing for yellowfin tuna.
 (4) Every person commits an offence against this Act who contravenes subsection (1) or, where any exemption has been granted by notice under subsection (2), contravenes or fails to comply with any conditions imposed by such notice.
+(5) The following are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements):
+  (a) a notice under this section, unless it applies only to 1 or more named persons; and
+  (b) an amendment or a revocation of a notice under this section that is secondary legislation.
+(6) If a notice under this section applies only to 1 or more named persons, the Director-General must notify the making of the notice in the Gazette.
 
 ### 18 Treatment or disposal of sick or dead marine mammals
 (1) Nothing in this Act shall affect—
@@ -298,11 +304,17 @@ Nothing in this Act shall derogate from the provisions of—
 (6) The Minister may direct the Director-General to provide from his Department such services as may be necessary to enable any committee to discharge its functions more properly.
 
 ### 22 Marine mammal sanctuaries
-(1) Subject to this section, the Minister may, by notice in the Gazette, define any place and declare it to be a marine mammal sanctuary, and may in like manner, after considering any submissions in writing he may have received within 28 days after the date of publication of a notice in the Gazette indicating his intention, vary, redefine, or abolish the sanctuary.
+(1) Subject to this section, the Minister may, by notice (see subsection (6)),—
+  (a) define any place and declare it to be a marine mammal sanctuary; and
+  (b) vary, redefine, or abolish a marine mammal sanctuary.
+(1A) Before making a notice under subsection (1)﻿(b), the Minister must—
+  (a) publish a notice in the Gazette indicating the Minister's intention to vary, redefine, or abolish the sanctuary; and
+  (b) consider any written submissions received within 28 days after the notice under paragraph (a) is published.
 (2) Where any other Minister of the Crown has the control of any Crown-owned land, foreshore, seabed, or waters of the sea which is declared to be a marine mammal sanctuary or which forms part of one, the consent of that Minister to the declaration shall be notified concurrently with the notice given under subsection (1).
 (3) When defining and declaring a sanctuary under this section, the Minister may specify the activities that may or may not be engaged in within the sanctuary, and may impose restrictions in respect of the sanctuary.
 (4) No marine mammal sanctuary shall be declared in any Maritime or National Park, in any reserve within the meaning of the Reserves Act 1977, or in any marine reserve declared under the Marine Reserves Act 1971.
 (5) Every constable, and every ranger appointed under section 38 of the Wildlife Act 1953, section 27 of the National Parks Act 1952, or under section 8 of the Reserves Act 1977 shall have the authority to exercise any of the powers conferred on a ranger under section 39 of the Wildlife Act 1953 in any marine mammal sanctuary.
+(6) A notice under subsection (1) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 23 Offences and penalties
 (1) Every person commits an offence who—
@@ -429,6 +441,10 @@ A person who commits an infringement offence is liable on conviction to—
 (2) The Governor-General may, from time to time by Order in Council, make such regulations as the Governor-General in Council thinks necessary or expedient for the protection, conservation, or management of any marine mammal.
 (3) Any regulations under this section may apply generally throughout New Zealand or New Zealand fisheries waters or may be made to apply only within such area or areas as may be specified in the regulations.
 (4) Any regulations under this section may confer on the Minister or on the Director-General power to issue, in such manner as may be prescribed, instructions, orders, requirements, permits, authorities, or notices for the purpose of ensuring the protection, management, or conservation of any marine mammal and, where the regulations so provide, any such instruction, order, requirement, permit, authority, or notice shall have effect according to its tenor and shall be complied with by all persons affected by it.
+(5) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+(6) If the regulations empower the issuing of instruments under subsection (4),—
+  (a) an instrument made under the regulations is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements), unless it applies only to 1 or more named persons; and
+  (b) the regulations must contain a statement to that effect.
 
 ### 29 Costs of administering Act, receipts
 (1) All costs and expenses properly incurred by any person for the purposes of this Act shall be met from money appropriated by Parliament for the purpose.
