@@ -1,5 +1,5 @@
 # Ngāti Pūkenga Claims Settlement Act 2017
-_Consolidation as at 2021-01-30_
+_Consolidation as at 2021-10-28_
 
 ### 1 Title
 This Act is the Ngāti Pūkenga Claims Settlement Act 2017.
@@ -680,6 +680,7 @@ In sections 50 to 55, 62, and 63, a reference to the vesting of a cultural redre
   (a) may be exercised only on the recommendation of the Minister of Energy and Resources and the Minister of Conservation, after those Ministers have consulted with the trustees to the extent that is reasonably practicable, having regard to all circumstances of the particular case; and
   (b) is subject to section 61(5), (6), (7), and (9) of the Crown Minerals Act 1991.
 (8) In subsections (4)﻿(b), (5), and (7)﻿(a), trustees includes, if relevant, a subsequent owner of a relevant property.
+(9) The Minister of Energy and Resources and the Minister of Conservation must ensure that an order under this section is published in the Gazette.
 
 ### 55 Names of Crown protected areas discontinued
 (1) Subsection (2) applies to the land, or the part of the land, in a cultural redress property that, immediately before the date on which the property vests under this subpart, was all or part of a Crown protected area.
@@ -771,6 +772,7 @@ In this subpart, unless the context otherwise requires,—
 (3) The iwi are—
   (a) Ngā Hapū o Ngāti Ranginui:
   (b) Ngāi Te Rangi.
+(4) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 67 Ōtanewainuku
 (1) Ōtanewainuku ceases to be a conservation area under the Conservation Act 1987.
