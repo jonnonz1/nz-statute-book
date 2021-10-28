@@ -1,5 +1,5 @@
 # Auditor Regulation Act 2011
-_Consolidation as at 2020-12-01_
+_Consolidation as at 2021-10-28_
 
 ### 1 Title
 This Act is the Auditor Regulation Act 2011.
@@ -8,6 +8,7 @@ This Act is the Auditor Regulation Act 2011.
 (1) Sections 1 to 7 and 84 come into force on the day after the date on which this Act receives the Royal assent.
 (2) The rest of this Act comes into force on a date to be appointed by the Governor-General by Order in Council; and 1 or more orders may be made bringing different provisions into force on different dates.
 (3) To the extent that it is not previously brought into force under subsection (2), the rest of this Act comes into force on 1 July 2012.
+(4) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ## Part 1 — Preliminary and key provisions
 
@@ -414,7 +415,7 @@ The relevant body must not exercise a power referred to in section 28(2) or 29 u
 ### Subpart 3 — FMA may prescribe licensing, registration, and other matters
 
 ### 32 FMA may prescribe licensing, registration, and other matters
-(1) The FMA may, by notice in the Gazette,—
+(1) The FMA may, by notice,—
   (a) prescribe the minimum standards for licensing (including standards relating to required competence, qualifications, and experience) that a person must meet in order to be issued with a licence by an accredited body or the FMA; and
   (b) prescribe the kinds of conditions to which licences—
     (i) must be subject; and
@@ -427,6 +428,7 @@ The relevant body must not exercise a power referred to in section 28(2) or 29 u
 (2) Matters prescribed under subsection (1) may—
   (a) have general or specific application:
   (b) differ according to differences in time or circumstance.
+(3) A notice under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 33 Minimum standards for licence
 (1) A notice under section 32 may prescribe minimum standards for licensing in any way the FMA thinks fit, including in 1 or more of the following ways:
@@ -456,8 +458,8 @@ In prescribing matters under this subpart, the FMA must be guided by the followi
   (b) the matters should not unnecessarily restrict the licensing of auditors or the registration of audit firms; and
   (c) the matters should not impose undue costs on auditors, on audit firms, or on FMC reporting entities.
 
-### 36 FMA must consult before publishing notices
-(1) Before the FMA publishes a notice in the Gazette under section 32, the FMA must consult the following about its proposal for the contents of the notice:
+### 36 FMA must consult before making notices
+(1) Before the FMA makes a notice under section 32, the FMA must consult the following about its proposal for the contents of the notice:
   (a) persons who the FMA considers are able to represent the views of auditors who carry out FMC audits (including the Institute); and
   (b) organisations—
     (i) that the FMA considers will be substantially affected by the proposal; or
@@ -465,14 +467,7 @@ In prescribing matters under this subpart, the FMA must be guided by the followi
 (2) A failure to comply with subsection (1) does not affect the validity of any notice under section 32.
 
 ### 37 Other provisions relating to notices under section 32
-(1) The FMA must ensure that an up-to-date version of each notice under section 32 is—
-  (a) available at all reasonable times on an Internet site maintained by or on behalf of the FMA; and
-  (b) available at the head office of the FMA during business hours, so that members of the public may—
-    (i) inspect the notice free of charge; or
-    (ii) obtain a copy of the notice for a reasonable fee.
-(2) Each notice under section 32—
-  (a) is a disallowable instrument, but not a legislative instrument, for the purposes of the Legislation Act 2012; and
-  (b) must be presented to the House of Representatives under section 41 of that Act.
+[Repealed]
 
 ### Subpart 4 — Register of licensed auditors and registered audit firms
 
@@ -989,6 +984,10 @@ The enactments specified in the Schedule are amended in the manner indicated in 
   (a) prescribe the method of payment of a fee, charge, or cost; and
   (b) authorise the Registrar or the FMA to refund or waive, in whole or in part and on any prescribed conditions, payment of a fee, charge, or cost in relation to any person or class of persons.
 (4) Any fee, charge, cost, or other amount payable to the Registrar or the FMA by or under this Act is recoverable by the Registrar or the FMA in any court of competent jurisdiction as a debt due to the Registrar or the FMA.
+(5) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+(6) If the regulations authorise the Registrar or the FMA to refund or waive payment of a fee, charge, or cost in relation to any class of persons under subsection (3)﻿(b),—
+  (a) the instrument effecting the refund or waiver is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements); and
+  (b) the regulations must contain a statement to that effect.
 
 ### Subpart 3 — Transitional provisions
 
@@ -1062,7 +1061,7 @@ Nothing in section 8 or 9 applies to the Auditor-General (and, accordingly, the 
 (1) The FMA's power under this Act to make, issue, give, or publish any order, direction, notice, or other instrument includes the power to—
   (a) amend or revoke it:
   (b) revoke it and replace it with another.
-(2) This section does not limit section 15 of the Interpretation Act 1999.
+(2) This section does not limit section 48 of the Legislation Act 2019.
 
 ### 93 Protection from liability for accredited bodies and others
 (1) An accredited body is not liable for anything it may do or fail to do in the course of the performance or exercise or intended performance or exercise of its functions, powers, or duties under this Act, unless it is shown that it acted in bad faith or without reasonable care.
