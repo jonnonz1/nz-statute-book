@@ -1,5 +1,5 @@
 # Health Practitioners Competence Assurance Act 2003
-_Consolidation as at 2020-12-01_
+_Consolidation as at 2021-10-28_
 
 ### 1 Title
 This Act is the Health Practitioners Competence Assurance Act 2003.
@@ -135,7 +135,7 @@ This Act binds the Crown.
   (b) in the course of training or instruction and under the control of a health practitioner of the kind described in that subsection; or
   (c) in the course of an examination, assessment, or competence review required or ordered by the responsible authority.
 (6) Every person commits an offence punishable on conviction by a fine not exceeding $30,000 who contravenes subsection (4).
-(7) An Order in Council under this section is a legislative instrument and a disallowable instrument for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
+(7) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 10 Power to issue search warrants in respect of offences against section 7 or section 9
 (1) A search warrant may be issued under section 6 of the Search and Surveillance Act 2012 in respect of an offence which has been or is suspected to have been committed against section 7 or section 9 or which is believed to be intended to be committed against either section, even though the offence is not punishable by imprisonment.
@@ -152,15 +152,16 @@ This Act binds the Crown.
 **Prescribed scopes of practice, qualifications, and experience**
 
 ### 11 Authorities must specify scopes of practice
-(1) Each authority appointed in respect of a profession must, by notice published in the Gazette, describe the contents of the profession in terms of 1 or more scopes of practice.
+(1) Each authority appointed in respect of a profession must, by notice, describe the contents of the profession in terms of 1 or more scopes of practice.
 (2) A scope of practice may be described in any way the authority thinks fit, including, without limitation, in any 1 or more of the following ways:
   (a) by reference to a name or form of words that is commonly understood by persons who work in the health sector:
   (b) by reference to an area of science or learning:
   (c) by reference to tasks commonly performed:
   (d) by reference to illnesses or conditions to be diagnosed, treated, or managed.
+(3) A notice under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 12 Qualifications must be prescribed
-(1) Each authority must, by notice published in the Gazette, prescribe the qualification or qualifications for every scope of practice that the authority describes under section 11.
+(1) Each authority must, by notice, prescribe the qualification or qualifications for every scope of practice that the authority describes under section 11.
 (2) In prescribing qualifications under subsection (1), an authority may designate 1 or more of the following as qualifications for any scope of practice that the authority describes under section 11:
   (a) a degree or diploma of a stated kind from an educational institution accredited by the authority, whether in New Zealand or abroad, or an educational institution of a stated class, whether in New Zealand or abroad:
   (b) the successful completion of a degree, course of studies, or programme accredited by the authority:
@@ -171,6 +172,7 @@ This Act binds the Crown.
 (4) An authority must monitor every New Zealand educational institution that it accredits for the purpose of subsection (2)﻿(a), and may monitor any overseas educational institution that it accredits for that purpose.
 (5) An authority may, at any time, give notice to an educational institution accredited under subsection (2)﻿(a) that the institution’s accreditation is revoked.
 (6) The revocation of an educational institution’s accreditation does not affect the registration of a health practitioner who qualified to practise within a scope of practice on the basis of having a degree or diploma from that institution.
+(7) A notice under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 13 Principles guiding the prescribing of qualifications
 In prescribing qualifications under section 12, each authority must be guided by the following principles:
@@ -179,19 +181,19 @@ In prescribing qualifications under section 12, each authority must be guided by
   (c) the qualifications may not impose undue costs on health practitioners or on the public.
 
 ### 14 Provisions relating to notices under sections 11 and 12
-(1) An authority may at any time, by notice in the Gazette, amend, revoke, or replace a notice under section 11 or section 12.
-(1A) The amendment, revocation, or replacement of a notice published under section 12 does not affect the registration of a health practitioner who qualified to practise within a scope of practice on the basis of having had a prescribed qualification for that scope of practice under the notice before the notice was amended, revoked, or replaced.
-(2) Before an authority publishes a notice under section 11 or section 12 or under this section, the authority must have consulted about its proposal for the contents of the notice—
+(1) An authority may at any time, by notice, amend, revoke, or replace a notice under section 11 or section 12.
+(1A) The amendment, revocation, or replacement of a notice made under section 12 does not affect the registration of a health practitioner who qualified to practise within a scope of practice on the basis of having had a prescribed qualification for that scope of practice under the notice before the notice was amended, revoked, or replaced.
+(2) Before an authority makes a notice under section 11 or section 12 or under this section, the authority must have consulted about its proposal for the contents of the notice—
   (a) with persons who the authority considers are able to represent the views of health practitioners, or of classes of health practitioner, registered with the authority; and
   (b) with organisations—
     (i) that the authority considers will be affected by the proposal; or
     (ii) whose members the authority considers will be affected by the proposal.
-(3) Each authority must ensure that an up-to-date version of each notice that the authority has published under section 11 or section 12 is—
-  (a) available on the Internet; and
+(3) Each authority must ensure that an up-to-date version of each notice that the authority has made under section 11 or section 12 is—
+  (a)
   (b) available at the office of the authority during business hours, so that members of the public may—
     (i) inspect the notice free of charge; or
     (ii) obtain a photocopy of the notice for a reasonable fee.
-(4) A notice published under section 11 or 12 is a disallowable instrument, but not a legislative instrument, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
+(4) An amendment, revocation, or replacement under subsection (1) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 (5) Before the commencement of section 114(1), this section and sections 11 to 13 apply to each body that is referred to in column 1 of Schedule 2 as if it were already appointed as an authority under this Act in respect of the profession specified opposite to it in column 2 of that schedule.
 
 **Registration of practitioners and authorisations of scopes of practice**
@@ -637,12 +639,13 @@ The purpose of sections 54 to 63 is to encourage effective quality assurance act
 (2) An application under subsection (1) must—
   (a) comply with any requirements for the time being in force under subsection (5); and
   (b) nominate a person who is to be responsible for the activity and who is suitable for appointment under section 55.
-(3) The Minister may from time to time, by written notice, declare a quality assurance activity to be protected on being satisfied that—
+(3) The Minister may from time to time, by notice issued under this section, declare a quality assurance activity to be protected on being satisfied that—
   (a) the sponsor of the activity has duly completed an application under subsection (1); and
   (b) the person nominated as the person responsible for the activity is suitable for appointment under section 55; and
   (c) it is in the public interest that the protections conferred by sections 59 to 62 should apply in respect of the activity.
 (4) Every notice issued under subsection (3), unless sooner revoked, remains in force for a period of 5 years and is revoked at the end of that 5-year period.
 (4A) Subsection (4) does not prevent the Minister from issuing another notice in respect of the same quality assurance activity.
+(4B) A notice under subsection (3) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 (5) The Director-General of Health may from time to time, by notice in the Gazette, state requirements relating to the form, content, and quality standards of an application under subsection (1); and such requirements may, without limitation, require statements in the application to be verified by statutory declaration.
 
 ### 55 Minister must appoint person responsible for activity
@@ -654,8 +657,8 @@ The purpose of sections 54 to 63 is to encourage effective quality assurance act
   (c) the person has not been adjudged bankrupt under the Insolvency Act 2006.
 
 ### 56 Revocation of protection or revocation of appointment of person responsible
-(1) The Minister may at any time,—
-  (a) by written notice, revoke a notice issued under section 54; or
+(1) The Minister may at any time—
+  (a) revoke a notice issued under section 54; or
   (b) by written notice, revoke the appointment of a person responsible for a protected quality assurance activity if, in the Minister's opinion, the person has neglected his or her duties or is not able to perform those duties or has ceased to be suitable for appointment under section 55(3).
 (2) A notice, issued under section 54, in respect of a protected quality assurance activity or the appointment of a person responsible for a protected quality assurance activity may, without limitation to the generality of subsection (1), be revoked if—
   (a) the person has failed to comply with section 58; or
@@ -664,6 +667,7 @@ The purpose of sections 54 to 63 is to encourage effective quality assurance act
 (3) Before the Minister revokes a notice issued under section 54 or revokes the appointment of a person responsible for a protected quality assurance activity, the Minister must—
   (a) inform the person why the Minister believes that the notice or the appointment should be revoked; and
   (b) give the person a reasonable opportunity to make written submissions in respect of the matter.
+(4) A notice under subsection (1)﻿(a) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 57 Consequence of not replacing person responsible for activity in certain cases
 A quality assurance activity ceases to be a protected quality assurance activity if—
@@ -722,7 +726,7 @@ A quality assurance activity ceases to be a protected quality assurance activity
 (2) This section continues to apply in respect of conduct that was engaged in by any person in connection with a protected quality assurance activity, even though that activity has since ceased to be a protected quality assurance activity.
 
 ### 63 Application of Legislation Act 2012 to notices under section 54
-A notice issued under section 54, and an amendment or revocation of a notice issued under that section, is a legislative instrument and a disallowable instrument for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
+[Repealed]
 
 ## Part 4 — Complaints and discipline
 
@@ -1342,7 +1346,7 @@ Except as provided in section 113, the decision of a court on an appeal under th
   (a) change the name of the authority concerned to reflect the change made by the order; and
   (b) amend any enactment (for example, this Act) to reflect the name change effected by the order.
 (3) The Minister may recommend that an Order in Council be made under subsection (1) only if satisfied of the matters stated in section 116.
-(4) An Order in Council under subsection (1) is a legislative instrument and a disallowable instrument for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
+(4) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 116 Conditions for designating health services as health profession
 Before making a recommendation under section 115(1), the Minister must, after consultation with any organisation that, in the Minister's opinion, has an interest in the recommendation, be satisfied of the following matters:
@@ -1369,7 +1373,7 @@ Before making a recommendation under section 115(1), the Minister must, after co
     (i) the authorities concerned; and
     (ii) any other organisations that the Minister considers will be affected by the amalgamation; and
   (b) the Minister is satisfied that it is in the public interest that the order be made.
-(3) An Order in Council is a legislative instrument and a disallowable instrument for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
+(3) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 116B Effect of amalgamation
 On the date on which existing authorities amalgamate,—
@@ -1411,7 +1415,7 @@ No member of an authority is entitled to any compensation for loss of office res
   (b) by a committee or person authorised to make the decision concerned under a delegation given under clause 17 or clause 19 of Schedule 3.
 
 ### 118 Functions of authorities
-The functions of each authority appointed in respect of a health profession are as follows:
+(1) The functions of each authority appointed in respect of a health profession are as follows:
   (a) to prescribe the qualifications required for scopes of practice within the profession, and, for that purpose, to accredit and monitor educational institutions and degrees, courses of studies, or programmes:
   (b) to authorise the registration of health practitioners under this Act, and to maintain registers:
   (c) to consider applications for annual practising certificates:
@@ -1426,6 +1430,7 @@ The functions of each authority appointed in respect of a health profession are 
   (k) to promote education and training in the profession:
   (l) to promote public awareness of the responsibilities of the authority:
   (m) to exercise and perform any other functions, powers, and duties that are conferred or imposed on it by or under this Act or any other enactment.
+(2) Standards under subsection (1)﻿(i) are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 119 Exclusion of liability
 (1) Neither an authority nor a member, employee, agent, or committee of an authority nor a member of such a committee is under any criminal or civil liability in respect of—
@@ -1579,7 +1584,7 @@ The functions of each authority appointed in respect of a health profession are 
 **Financial matters and annual report**
 
 ### 130 Authorities may prescribe fees
-(1) Each authority may from time to time, by notice in the Gazette, prescribe the fees payable in respect of the following matters:
+(1) Each authority may from time to time, by notice, prescribe the fees payable in respect of the following matters:
   (a) an application for registration with the authority:
   (b) an addition or alteration to the register maintained by the authority:
   (c) the issue of a practising certificate:
@@ -1591,24 +1596,23 @@ The functions of each authority appointed in respect of a health profession are 
   (i) any other matter that relates to anything the authority is required to do in order to carry out its functions.
 (2) Different fees may be prescribed under this section for different classes of health practitioner.
 (3) Any notice prescribing any fee under this section may exempt any class or classes of person from liability to pay any such fee, and may provide for the waiver or refund of any such fee.
+(4) A notice under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 131 Disciplinary levy
-(1) Each authority may from time to time, by notice in the Gazette, impose on every health practitioner registered with the authority a disciplinary levy of any amount that it thinks fit for the purpose of funding the costs arising out of—
+(1) Each authority may from time to time, by notice, impose on every health practitioner registered with the authority a disciplinary levy of any amount that it thinks fit for the purpose of funding the costs arising out of—
   (a) the appointment of, and any investigation by, any professional conduct committee; and
   (b) proceedings of the Tribunal.
 (2) Any notice imposing any levy under this section may exempt from liability to pay that levy any class or classes of health practitioner registered with the authority, and may provide for the waiver or refund of the whole or part of that levy.
+(3) A notice under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 132 Further provisions relating to fees and levy
-(1) Any notice under section 130 or section 131 may at any time, by notice in the Gazette, be amended or revoked by the authority that issued the notice.
-(2) Every notice under section 130 or section 131 comes into force on a date specified in the notice, being not less than 28 days after the date of publication of the notice in the Gazette.
-(3) A notice under section 130 or 131 is a disallowable instrument, but not a legislative instrument, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
-(4) Each authority must ensure that an up-to-date version of each notice that the authority has published under section 130 or section 131 is—
-  (a) available on the Internet; and
-  (b) available at the office of the authority during business hours, so that members of the public may—
-    (i) inspect the notice free of charge; or
-    (ii) obtain a photocopy of the notice for a reasonable fee.
+(1) Any notice under section 130 or section 131 may at any time, by notice, be amended or revoked by the authority that issued the notice.
+(2) Every notice under section 130 or section 131 comes into force on a date specified in the notice, being not less than 28 days after the date of publication of the notice under the Legislation Act 2019.
+(3)
+(4)
 (5) Every fee set by an authority under section 130, and every levy imposed by an authority under section 131, is payable, and recoverable as a debt due, to the authority.
 (6) If any fee is payable to an authority under this Act, the Registrar of the authority may decline to do any act, or to permit any act to be done, or to receive any document in respect of which that fee is payable, until the fee is paid.
+(7) A notice under subsection (1) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 133 Application of fees, etc
 (1) All fees, fines, levies, and other money required to be paid under this Act are payable to the relevant authority, and must be paid to the Registrar of the authority.
@@ -1887,11 +1891,7 @@ A naming policy must be consistent with—
   (c) the general law (including natural justice rights).
 
 ### 157H Status of naming policies
-A naming policy is—
-  (a) not—
-    (i) a legislative instrument for the purposes of the Legislation Act 2012; or
-    (ii) a disallowable instrument for the purposes of the Legislation Act 2012; and
-  (b) not required to be presented to the House of Representatives under section 41 of the Legislation Act 2012.
+[Repealed]
 
 ### 157I Authority naming health practitioner in accordance with naming policy protected by qualified privilege
 For the purposes of clause 3 of Part 2 of Schedule 1 of the Defamation Act 1992, any notice published by an authority under section 157(1) that names a health practitioner in accordance with a naming policy issued by the authority must be treated as an official report made by a person holding an inquiry under the authority of the Parliament of New Zealand.
@@ -1939,7 +1939,7 @@ Every reference in any enactment to a physiotherapist or registered physiotherap
 Every reference in any enactment to a psychologist or registered psychologist must, unless a different intention appears, be taken to be a reference to a person who is, or is deemed to be, registered under this Act with the Psychologists Board and who is practising psychology in accordance with his or her scope of practice.
 
 ### 170 Regulations
-The Governor-General may, by Order in Council made on the advice of the Minister given after consultation by the Minister with any authority affected by that advice, make regulations for any or all of the following purposes:
+(1) The Governor-General may, by Order in Council made on the advice of the Minister given after consultation by the Minister with any authority affected by that advice, make regulations for any or all of the following purposes:
   (a) regulating the procedure of—
     (i) all or any authorities:
     (ii) all professional conduct committees or any class of professional conduct committee:
@@ -1951,6 +1951,7 @@ The Governor-General may, by Order in Council made on the advice of the Minister
     (iii) for the manner in which the elections are to be conducted:
     (iv) for the method and procedures for determining the results of the election:
   (d) providing for any other matters contemplated by this Act, necessary for its administration, or necessary for giving it full effect.
+(2) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 171 Review of operation of Act
 (1) As soon as practicable after the expiry of the period of 3 years beginning on the commencement of this section, the Director-General of Health must—
