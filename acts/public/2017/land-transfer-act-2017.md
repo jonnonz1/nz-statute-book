@@ -1,5 +1,5 @@
 # Land Transfer Act 2017
-_Consolidation as at 2021-03-30_
+_Consolidation as at 2021-10-28_
 
 ### 1 Title
 This Act is the Land Transfer Act 2017.
@@ -8,6 +8,7 @@ This Act is the Land Transfer Act 2017.
 (1) This Act comes into force on a date appointed by the Governor-General by Order in Council.
 (2) One or more orders may be made under subsection (1) bringing different provisions into force on different dates.
 (3) Any provision that has not earlier been brought into force comes into force on the day that is 18 months after the date on which this Act receives the Royal assent.
+(4) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ## Part 1 — Preliminary provisions
 
@@ -313,7 +314,7 @@ An instrument may be lodged for registration or notation only if the instrument 
 
 ### 30 Evidence of certification for electronic instrument
 (1) If a person, in giving a certificate for an electronic instrument, certifies that he or she has evidence relied on in support of matters stated in the certificate, the person must retain that evidence for the prescribed period.
-(2) The Registrar may specify standards that, if met, provide sufficient evidence to satisfy the requirement in subsection (1).
+(2) The Registrar may specify standards (see section 236) that, if met, provide sufficient evidence to satisfy the requirement in subsection (1).
 (3) The Registrar may, by notice, require a person who has given a certificate for an electronic instrument to provide to the Registrar—
   (a) the evidence referred to in subsection (1), if applicable; or
   (b) a statutory declaration as to—
@@ -2235,7 +2236,8 @@ For the purposes of this Act, public notice of a matter relating to land means a
 (6) A specified form—
   (a) may take the form of an electronic instrument; but
   (b) must not be registered under this Act.
-(7) Section 236(2) and (3) applies to the specification of a form as if the form were a standard set under that section.
+(7) Section 236(2) applies to the specification of a form as if the form were a standard set under that section.
+(8) The Registrar must publish a form specified under this section on an Internet site maintained by or on behalf of the department.
 
 ### 226 Cost of survey to correct plans
 The Crown must meet the cost of a survey certified by the Surveyor-General as required to correct an error in a plan deposited under this Act or in a record of title.
@@ -2295,6 +2297,7 @@ The Crown must meet the cost of a survey certified by the Surveyor-General as re
 (3) The Minister must, as soon as practicable after the end of each period of 5 years from the commencement of this section,—
   (a) commence a review of regulations made under subsection (1)﻿(26); and
   (b) consider as part of that review whether any matter contained in the regulations should be enacted in this Act.
+(4) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 228 Regulations providing for transitional matters
 (1) The Governor-General may, by Order in Council made on the recommendation of the Minister, make regulations—
@@ -2303,6 +2306,7 @@ The Crown must meet the cost of a survey certified by the Surveyor-General as re
 (2) The Minister must not recommend the making of regulations under this section unless the Minister is satisfied that the regulations are necessary or desirable for the orderly implementation of this Act.
 (3) No regulations made under this section may be made, or continue in force, later than 3 years after the date on which this section comes into force.
 (4) This section is repealed on the expiry of 3 years after the date on which it comes into force.
+(5) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 **Fees and charges**
 
@@ -2339,6 +2343,7 @@ The Crown must meet the cost of a survey certified by the Surveyor-General as re
   (d) give a name to a district:
   (e) abolish all districts.
 (2) Unless the Registrar considers it appropriate to do so, an Order in Council under subsection (1) does not require the Registrar to alter or amalgamate parts of the register, including a record of title, a qualified record of title, or a limited record of title.
+(3) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 **Registrar-General of Land**
 
@@ -2409,8 +2414,10 @@ The Crown must meet the cost of a survey certified by the Surveyor-General as re
   (a) consults with any organisation that represents persons who will be affected by the standard or directive; and
   (b) gives the organisation an opportunity to comment on the proposed standard or directive; and
   (c) considers any comments made by the organisation.
-(3) The Registrar must publish standards and directives on an Internet site maintained by the department.
-(4) A standard or directive is a disallowable instrument for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
+(3) The following are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements):
+  (a) standards under this section:
+  (b) directives under this section.
+(4)
 
 ### Subpart 2 — Amendments, repeals, and revocations
 
@@ -2634,8 +2641,8 @@ Any charge that was, immediately before the commencement of this clause, registe
   - **certificate of title** means a certificate of title issued under the Land Transfer Act 1952
   - **computer register** means a computer freehold register, computer interest register, or computer unit title register created under the Land Transfer (Computer Registers and Electronic Lodgement) Amendment Act 2002.
 
-### 13 Application of Interpretation Act 1999
-Except as provided in clauses 1 to 12 or in regulations made under section 228, nothing in this schedule limits the Interpretation Act 1999.
+### 13 Application of Part 2 of Legislation Act 2019
+Except as provided in clauses 1 to 12 or in regulations made under section 228, nothing in this schedule limits Part 2 of the Legislation Act 2019.
 
 ### Part 2 — Provision relating to the Taxation (Annual Rates for 2019–20, GST Offshore Supplier Registration, and Remedial Matters) Act 2019
 
