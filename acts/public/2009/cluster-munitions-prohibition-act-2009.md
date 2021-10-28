@@ -1,11 +1,12 @@
 # Cluster Munitions Prohibition Act 2009
-_Consolidation as at 2018-10-01_
+_Consolidation as at 2021-10-28_
 
 ### 1 Title
 This Act is the Cluster Munitions Prohibition Act 2009.
 
 ### 2 Commencement
-This Act comes into force on a date appointed by the Governor-General by Order in Council.
+(1) This Act comes into force on a date appointed by the Governor-General by Order in Council.
+(2) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ## Part 1 — Preliminary provisions
 
@@ -158,7 +159,7 @@ The provisions of the Customs and Excise Act 2018 that apply to prohibited impor
 (1) For the purposes of developing, or training persons in, techniques of cluster munition detection, clearance, or destruction, the Minister may from time to time, by notice in writing, authorise cluster munitions to be used, acquired, possessed, retained, or transferred.
 (2) The Minister must not make a notice under subsection (1) if the making of the notice will result in the total number of cluster munitions authorised by all notices made under subsection (1) exceeding the number determined for the time being by the Minister under subsection (3).
 (3) The Minister must from time to time specify, by notice in the Gazette, the number of cluster munitions determined by the Minister to be the number that for the time being is the minimum number that is absolutely necessary for the purposes referred to in subsection (1).
-(4) A notice under subsection (1) or (3) is neither a legislative instrument nor a disallowable instrument for the purposes of the Legislation Act 2012.
+(4)
 
 ### Subpart 3 — Information
 
@@ -193,7 +194,9 @@ The purpose of this subpart is to ensure—
 (2) The Governor-General may from time to time, by Order in Council,—
   (a) amend the Schedule by making any amendments to the text of the Convention set out in the Schedule as are required to bring it up to date:
   (b) revoke the Schedule and substitute a new schedule setting out in an up-to-date form the text of the Convention.
-(3) An order made under subsection (2) is a regulation for the purposes of the Acts and Regulations Publication Act 1989 and the Regulations (Disallowance) Act 1989.
+(3) The following are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements):
+  (a) regulations under this section:
+  (b) an order under subsection (2).
 
 ### 20 Consequential amendments to Arms Act 1983
 (1) This section amends the Arms Act 1983.
