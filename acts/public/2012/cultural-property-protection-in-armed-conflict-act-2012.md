@@ -1,5 +1,5 @@
 # Cultural Property (Protection in Armed Conflict) Act 2012
-_Consolidation as at 2018-10-01_
+_Consolidation as at 2021-10-28_
 
 ### 1 Title
 This Act is the Cultural Property (Protection in Armed Conflict) Act 2012.
@@ -7,6 +7,7 @@ This Act is the Cultural Property (Protection in Armed Conflict) Act 2012.
 ### 2 Commencement
 (1) This Act comes into force on a date to be appointed by the Governor-General by Order in Council.
 (2) One or more Orders in Council may be made appointing different dates for the commencement of different provisions and for different purposes.
+(3) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ## Part 1 — Preliminary provisions
 
@@ -544,13 +545,14 @@ Nothing in this Act affects or limits the scope or application of any other enac
 **Regulations**
 
 ### 43 Regulations
-The Governor-General may from time to time, by Order in Council, make regulations—
+(1) The Governor-General may from time to time, by Order in Council, make regulations—
   (a) prescribing the form mentioned in section 20(4)﻿(b):
   (b) prescribing the form of a search warrant for the purposes of section 23:
   (c) prescribing the form of a notice for the purposes of section 27:
   (d) illustrating the form of the distinctive emblem of the Convention (as described in the Convention):
   (e) authorising use of the Convention emblem for the purposes of section 36:
   (f) providing for such other matters as are contemplated by or necessary for giving full effect to this Act or for its due administration.
+(2) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 **Consequential amendments**
 
