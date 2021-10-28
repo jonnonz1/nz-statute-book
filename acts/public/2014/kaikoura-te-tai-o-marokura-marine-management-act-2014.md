@@ -1,5 +1,5 @@
 # Kaikōura (Te Tai o Marokura) Marine Management Act 2014
-_Consolidation as at 2014-08-07_
+_Consolidation as at 2021-10-28_
 
 ### 1 Title
 This Act is the Kaikōura (Te Tai o Marokura) Marine Management Act 2014.
@@ -48,7 +48,7 @@ This Act binds the Crown.
 (3) The Minister of Conservation and the Minister responsible for the administration of the Fisheries Act 1996 may—
   (a) appoint and remove members of the Kaikōura Marine Guardians:
   (b) disestablish the Kaikōura Marine Guardians.
-(4) Before appointing or removing any member of the Kaikōura Marine Guardians in accordance with subsection (3)(a), the Ministers must be satisfied that, following the appointment or removal, the following interests and areas of expertise will be represented on the advisory committee:
+(4) Before appointing or removing any member of the Kaikōura Marine Guardians in accordance with subsection (3)﻿(a), the Ministers must be satisfied that, following the appointment or removal, the following interests and areas of expertise will be represented on the advisory committee:
   (a) Te Rūnanga o Ngāi Tahu; and
   (b) the Kaikōura community; and
   (c) biosecurity, conservation, education, environment, fishing, marine science, and tourism.
@@ -112,21 +112,21 @@ The marine reserve declared by section 9 is to be treated as if it were declared
 (2) In this section and sections 14 to 20, sanctuary means Te Rohe o Te Whānau Puha Whale Sanctuary or Ōhau New Zealand Fur Seal Sanctuary.
 
 ### 14 Minister of Conservation may vary sanctuary
-(1) The Minister of Conservation may, by a notice in the Gazette, vary a sanctuary, but only if the variation has no more than a minor effect or corrects errors or makes minor technical changes.
-(2) A Gazette notice published in accordance with subsection (1) is a disallowable instrument, but not a legislative instrument, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
+(1) The Minister of Conservation may, by notice, vary a sanctuary, but only if the variation has no more than a minor effect or corrects errors or makes minor technical changes.
+(2) A notice under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 15 Minister of Conservation may impose restrictions in respect of sanctuary
-(1) The Minister of Conservation may, by a notice in the Gazette, impose restrictions in respect of a sanctuary.
+(1) The Minister of Conservation may, by notice, impose restrictions in respect of a sanctuary.
 (2) A notice imposing a restriction may specify circumstances in which an application for an exemption from the restriction (in whole or in part) may be granted by the Director-General.
 (3) Before imposing a restriction, the Minister of Conservation must—
   (a) publish a notice in the Gazette that describes the Minister of Conservation's proposal to impose a restriction (the proposal) and calls for submissions on the proposal; and
   (b) consider any submissions received within 28 days after the date of publication of the notice describing the proposal; and
   (c) obtain any consent required under subsection (5).
 (4) Subsection (5) applies where the proposal affects any matter within the responsibilities of any other Minister.
-(5) The Minister of Conservation must obtain the consent of the other Minister to the proposal and indicate, in the Gazette notice referred to in subsection (1), that the other Minister consents to the proposal.
+(5) The Minister of Conservation must obtain the consent of the other Minister to the proposal and indicate, in the notice referred to in subsection (1), that the other Minister consents to the proposal.
 (6) For the purposes of subsections (4) and (5), other Minister includes the Commissioner of Crown Lands.
 (7) The Minister of Conservation need not comply with subsections (3) to (5) before varying restrictions imposed in respect of a sanctuary where the variation has no more than a minor effect or corrects errors or makes minor technical changes.
-(8) A Gazette notice published in accordance with subsection (1) is a disallowable instrument, but not a legislative instrument, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
+(8) A notice under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 16 Restrictions to be imposed following commencement
 (1) Within 1 month after the commencement of this Act, the Minister of Conservation must publish notices in the Gazette, under section 15(1), imposing restrictions—
@@ -144,7 +144,7 @@ The marine reserve declared by section 9 is to be treated as if it were declared
 
 ### 18 Offences related to sanctuaries
 (1) A person commits an offence who—
-  (a) fails to comply with a restriction imposed in respect of a sanctuary by a Gazette notice under section 15(1); or
+  (a) fails to comply with a restriction imposed in respect of a sanctuary by a notice under section 15(1); or
   (b) makes any false or misleading statement in any application to the Director-General for an exemption from a restriction.
 (2) A person who commits an offence against subsection (1) is liable on conviction to a fine not exceeding $10,000.
 (3) If a person is convicted of an offence against subsection (1) and, on sentencing for that offence, the court is satisfied beyond reasonable doubt that the offence was committed for the purpose of commercial gain or reward (whether or not any gain or reward is realised), the person is liable, instead of any other penalty prescribed for the offence, to—
@@ -152,7 +152,7 @@ The marine reserve declared by section 9 is to be treated as if it were declared
   (b) in the case of a body corporate, a fine not exceeding $300,000.
 
 ### 19 Application of Marine Mammals Protection Act 1978: offences and enforcement
-(1) The following provisions of the Marine Mammals Protection Act 1978 apply, with any necessary modifications, to a sanctuary as if the sanctuary were a marine mammal sanctuary declared by a notice in the Gazette given under section 22 of that Act:
+(1) The following provisions of the Marine Mammals Protection Act 1978 apply, with any necessary modifications, to a sanctuary as if the sanctuary were a marine mammal sanctuary declared by a notice given under section 22 of that Act:
   (a) section 22(5) (powers of constables and rangers):
   (b) section 26(3) (defence where offence occurred in circumstances of stress or emergency and necessary for the preservation, protection, or maintenance of human life):
   (c) section 26A (sentence of community work).
@@ -162,18 +162,18 @@ The marine reserve declared by section 9 is to be treated as if it were declared
   (c) may obtain a warrant in accordance with section 14 of that Act:
   (d) is protected (together with the Crown and any person acting under the officer's instructions) from proceedings in respect of certain actions in accordance with section 15 of that Act.
 (3) For the purposes of subsections (1) and (2),—
-  (a) a breach of a restriction imposed by a Gazette notice under section 15(1) is to be treated as a breach of the Marine Mammals Protection Act 1978; and
+  (a) a breach of a restriction imposed by a notice under section 15(1) is to be treated as a breach of the Marine Mammals Protection Act 1978; and
   (b) an offence against section 18 is to be treated as an offence against the Marine Mammals Protection Act 1978.
 (4) Subsections (5) and (6) apply where any person causes an officer to incur any expense—
-  (a) by that person failing to comply with or acting in contravention of any restriction imposed by a Gazette notice under section 15(1); or
-  (b) by that person failing to comply with or acting in contravention of any order, direction, requirement, or condition reasonably and properly given or imposed in accordance with this subpart or by a Gazette notice under section 15(1).
+  (a) by that person failing to comply with or acting in contravention of any restriction imposed by a notice under section 15(1); or
+  (b) by that person failing to comply with or acting in contravention of any order, direction, requirement, or condition reasonably and properly given or imposed in accordance with this subpart or by a notice under section 15(1).
 (5) The person must reimburse the Crown for the amount of the expense that—
   (a) is reasonably and properly incurred; and
   (b) the officer would not otherwise have incurred.
 (6) The amount is recoverable from the person as a debt due to the Crown.
 
 ### 20 Application of Marine Mammals Protection Act 1978: administration of sanctuaries and policies, strategies, and plans
-Sections 3A to 3H of the Marine Mammals Protection Act 1978 apply, with any necessary modifications, to a sanctuary as if the sanctuary were a marine mammal sanctuary declared by a notice in the Gazette given under section 22 of that Act.
+Sections 3A to 3H of the Marine Mammals Protection Act 1978 apply, with any necessary modifications, to a sanctuary as if the sanctuary were a marine mammal sanctuary declared by a notice given under section 22 of that Act.
 
 ### Subpart 4 — Mātaitai reserves and taiāpure-local fisheries
 
@@ -198,7 +198,7 @@ Sections 3A to 3H of the Marine Mammals Protection Act 1978 apply, with any nece
 ### 25 Effect of declaration of mātaitai reserve
 (1) A mātaitai reserve declared by section 21, 22, or 23 is to be treated as if it were declared by a notice in the Gazette given under regulation 20 of the Fisheries (South Island Customary Fishing) Regulations 1999 in accordance with those regulations.
 (2) An appointment of a Tangata Tiaki/Kaitiaki under section 24 is to be treated as if it were an appointment under regulation 21 of the Fisheries (South Island Customary Fishing) Regulations 1999 in accordance with those regulations.
-(3) Regulation 22(1)(a) and (b) and (2) of the Fisheries (South Island Customary Fishing) Regulations 1999 does not apply to the mātaitai reserves.
+(3) Regulation 22(1)﻿(a) and (b) and (2) of the Fisheries (South Island Customary Fishing) Regulations 1999 does not apply to the mātaitai reserves.
 
 **Taiāpure-local fisheries declared**
 
@@ -425,7 +425,7 @@ The Oaro-Haumuri Taiāpure comprises that area of New Zealand fisheries waters (
   (a) the defendant possessed no more than 18 spiny rock lobsters; and
   (b) the daily limit for spiny rock lobsters specified in regulation 13(1) was not exceeded; and
   (c) in the case of spiny rock lobsters held on board or landed from a vessel, the spiny rock lobsters were held in containers or bags that comply with subclause (3).
-(3) For the purposes of subclause (2)(c), the containers or bags must—
+(3) For the purposes of subclause (2)﻿(c), the containers or bags must—
   (a) contain only spiny rock lobsters taken on a single day; and
   (b) be clearly labelled with a record of—
     (i) the individual fisher's full name; and
