@@ -1,5 +1,5 @@
 # Family Proceedings Act 1980
-_Consolidation as at 2020-08-07_
+_Consolidation as at 2021-10-28_
 
 > An Act to revise the law relating to matrimonial and domestic proceedings
 
@@ -7,6 +7,7 @@ _Consolidation as at 2020-08-07_
 (1) This Act may be cited as the Family Proceedings Act 1980.
 (2) Except as provided in subsection (3) and in section 190(3), this Act shall come into force on 1 October 1981.
 (3) Sections 144 to 146 and 149 shall come into force on a date to be appointed by the Governor-General by Order in Council.
+(4) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 2 Interpretation
 In this Act, unless the context otherwise requires,—
@@ -883,8 +884,9 @@ Where any person by whom maintenance is payable under 2 or more maintenance orde
 **Enforcement in New Zealand of orders made in Commonwealth or designated countries**
 
 ### 135 Designation of countries
-(1) The Minister of the Crown who is responsible for the Ministry of Justice may from time to time, by notice in the Gazette, specify as a designated country for the purposes of this Act any country that is not a Commonwealth country.
+(1) The Minister of the Crown who is responsible for the Ministry of Justice may from time to time, by notice, specify as a designated country for the purposes of this Act any country that is not a Commonwealth country.
 (2) The Minister of the Crown who is responsible for the Ministry of Justice may, in any notice published under subsection (1) specifying any country as a designated country, provide that in their application to that country the provisions of this Act relating to Commonwealth and designated countries shall apply with such modifications as may be specified in the notice.
+(3) A notice under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 136 Registration of orders made in Commonwealth or designated countries
 Where—the order may be registered in New Zealand by filing a certified copy in the District Court in New Zealand in the prescribed manner.
@@ -1077,6 +1079,7 @@ In this Part, a reference to a parent of a child includes a reference—
   (f) he has, in any proceedings before the court, or in writing signed by him, acknowledged that he is the father of the child.
 (2) The Governor-General may from time to time, by Order in Council, declare that this section applies to orders made by a specific court or public authority in a specified country outside New Zealand.
 (3) For the purposes of this section, the Cook Islands, Niue, and Tokelau shall be deemed to be countries outside New Zealand.
+(4) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 145E Applications for maintenance orders in respect of children
 An application for a maintenance order in respect of a child may be made only—
@@ -1478,7 +1481,7 @@ Neither the dismissal of an application under this Act by the District Court or 
 [Repealed]
 
 ### 187 Regulations
-The Governor-General may from time to time, by Order in Council, make regulations—
+(1) The Governor-General may from time to time, by Order in Council, make regulations—
   (a)
   (b) prescribing the matters in respect of which fees are payable under this Act:
   (c) prescribing fees and expenses for the purposes of this Act:
@@ -1489,6 +1492,7 @@ The Governor-General may from time to time, by Order in Council, make regulation
   (e) prescribing the manner in which such parentage tests are to be carried out:
   (f) prescribing the form of reports on parentage tests:
   (g) providing for such matters as are contemplated by or necessary for giving full effect to this Act and for its due administration.
+(2) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 188 Rules of procedure
 (1) Subject to Part 9, the Governor-General may from time to time, by Order in Council, make rules regulating the practice and procedure of the District Court in proceedings under this Act.
@@ -1503,6 +1507,7 @@ The Governor-General may from time to time, by Order in Council, make regulation
     (ii) the taking of evidence before any District Court Judge or the Registrar of any court (whether or not the proceedings were commenced in that court) and the making of such incidental provision as the Governor-General thinks fit, including provisions for requiring the attendance of witnesses, the answering of questions, and the production of documents:
   (f) facilitate communications between courts in New Zealand and courts in countries outside New Zealand for the purpose of Part 8:
   (g) provide for any other matters in respect of which rules are contemplated under this Act.
+(3) See section 228 of the District Court Act 2016 and section 16A of the Family Court Act 1980, which provide that court rules are secondary legislation.
 
 ### 189 Amendments to other enactments, and repeals
 (1) The enactments specified in Schedule 1 are hereby amended in the manner indicated in that schedule.
