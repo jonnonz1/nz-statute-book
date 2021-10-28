@@ -1,5 +1,5 @@
 # Finance Act (No 2) 1990
-_Consolidation as at 2016-02-24_
+_Consolidation as at 2021-10-28_
 
 > An Act to make provision with respect to public finances and other matters
 
@@ -24,13 +24,15 @@ In this Act, unless the context otherwise requires,—
 (3) For the purposes of the distribution of prizes retaining the characteristics of a lottery no unit in an approved unit trust shall have a better chance of winning a prize than 1 in 9 600.
 
 ### 4 Changes to prize structure
-The Governor-General may from time to time, by Order in Council published in the Gazette, on the advice of the Minister given in accordance with a recommendation by the Bank, authorise such variations to the provisions of an approved unit trust that relate to entitlements to and the distribution of prizes as may be specified in the order.
+(1) The Governor-General may from time to time, by Order in Council, on the advice of the Minister given in accordance with a recommendation by the Bank, authorise such variations to the provisions of an approved unit trust that relate to entitlements to and the distribution of prizes as may be specified in the order.
+(2) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 5 Holders of bonus bonds and Post Office bonus bonds to become unit holders in approved unit trust
 (1) On a date to be appointed by the Governor-General by Order in Council every person who, immediately before the date appointed, is the holder of a bonus bond or a Post Office bonus bond shall become the holder of a unit or units in an approved unit trust specified in the order corresponding in number to the number of units representing each dollar evidenced by the bond subject to all the rights and obligations attaching to that unit or those units by virtue of the unit trust as if that person had become the holder by subscription.
 (2) On the appointed day all rights and interests existing under and by virtue of bonus bonds or Post Office bonus bonds shall cease.
 (3)
 (4) Nothing in this section limits or prevents the issue of units in an approved unit trust to persons other than persons previously holding bonus bonds or Post Office bonus bonds.
+(5) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 6 Guarantee by Crown
 (1) The Crown hereby guarantees, for a period of 2 years commencing on the appointed day, the performance of all obligations arising under an approved unit trust in respect of units deemed to have been issued to persons who were previously the holders of bonus bonds and Post Office bonus bonds.
