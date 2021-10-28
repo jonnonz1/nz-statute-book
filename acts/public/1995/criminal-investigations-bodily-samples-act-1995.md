@@ -1,11 +1,12 @@
 # Criminal Investigations (Bodily Samples) Act 1995
-_Consolidation as at 2021-10-05_
+_Consolidation as at 2021-10-28_
 
 > An Act—ato make provision for the taking of bodily samples for use in criminal investigations; andbto authorise—ithe establishment of a databank of information derived from the analysis of bodily samples taken from certain persons; andiithe use of information from that databank in criminal investigations; andcto provide for matters incidental thereto
 
 ### 1 Short Title and commencement
 (1) This Act may be cited as the Criminal Investigations (Bodily Samples) Act 1995.
 (2) This Act shall come into force on a date to be appointed by the Governor-General by Order in Council.
+(3) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ## Part 1 — Preliminary provisions
 
@@ -68,7 +69,7 @@ _Consolidation as at 2021-10-05_
   - **respondent** , in relation to an application for a compulsion order, means the person to whom the application relates
   - **specified date** means—whichever is the later
     (a) 30 June 2000; or
-    (b) such later date (being not later than 30 June 2005) as may be specified for the purposes of sections 60 and 62 by the Governor-General by Order in Council,—
+    (b) such later date (being not later than 30 June 2005) as may be specified for the purposes of sections 60 and 62 by the Governor-General by Order in Council (see subsection (3)),—
   - **suitably qualified person** means, in relation to—
     (a) a blood sample,—
       (i) a medical practitioner; or
@@ -88,6 +89,7 @@ _Consolidation as at 2021-10-05_
   - **video record** has the same meaning as in section 4 of the Evidence Act 2006
   - **young person** means a person of or over 14 years of age but under 18 years of age.
 (2) For the purposes of this Act, 2 offences are related to one another if the elements of the 2 offences comprise substantially the same act or omission.
+(3) An order under paragraph (b) of the definition of specified date in subsection (1) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 2A Meaning of independent adult
 For the purpose of this Act, independent adult,—
@@ -145,10 +147,10 @@ This Act binds the Crown.
   (b) detained in a prison subject to an interim recall order.
 
 ### 4B Approval of agency to determine training criteria for dealing with, and device or other means for taking, buccal samples
-(1) The Minister of Justice may, by notice in the Gazette, approve the following:
+(1) The Minister of Justice may, by notice, approve the following:
   (a) an agency to determine the training criteria for persons taking, supervising the taking of, or dealing with buccal samples:
   (b) a device for taking, or other means of providing, buccal samples.
-(2) A notice in the Gazette made under this section is a legislative instrument and a disallowable instrument for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
+(2) A notice under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ## Part 2 — Obtaining bodily samples from suspects
 
@@ -1591,7 +1593,7 @@ No proceedings for contempt of court shall be brought in respect of any refusal 
 (2) Nothing in subsection (1) shall apply with respect to any proceeding on the ground of any negligent act or omission in the taking of any bodily sample.
 
 ### 80 Regulations
-The Governor-General may from time to time, by Order in Council, make regulations for all or any of the following purposes:
+(1) The Governor-General may from time to time, by Order in Council, make regulations for all or any of the following purposes:
   (a) prescribing procedures for the analysis of bodily samples taken pursuant to this Act:
   (b) prescribing procedures for the storage of bodily samples taken pursuant to this Act:
   (c) prescribing procedures relating to the undertaking of forensic comparisons, including (without limitation) procedures to ensure fairness and objectivity in the use of a DNA profile databank for the purpose of such comparisons:
@@ -1600,9 +1602,11 @@ The Governor-General may from time to time, by Order in Council, make regulation
   (f) prescribing the procedure for the service of notices and other documents for the purposes of this Act:
   (g) prescribing the amounts payable to any lawyer appointed pursuant to section 21 or section 41C(3):
   (h) providing for such matters as are contemplated by or necessary for giving full effect to this Act and for its due administration.
+(2) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 81 Rules
-The Governor-General may from time to time, by Order in Council, make rules regulating the practice and procedure of courts in proceedings under this Act.
+(1) The Governor-General may from time to time, by Order in Council, make rules regulating the practice and procedure of courts in proceedings under this Act.
+(2) See section 148 of the Senior Courts Act 2016, section 228 of the District Court Act 2016, and section 16A of the Family Court Act 1980, which provide that court rules are secondary legislation.
 
 ### 82 Amendment to Summary Proceedings Act 1957
 [Repealed]
