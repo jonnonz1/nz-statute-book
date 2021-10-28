@@ -1,5 +1,5 @@
 # Land Drainage Act 1908
-_Consolidation as at 2018-11-12_
+_Consolidation as at 2021-10-28_
 
 > An Act to consolidate certain enactments of the General Assembly relating to the drainage of land
 
@@ -30,6 +30,7 @@ Nothing in this Act shall derogate from the Resource Management Act 1991.
 (1) The Governor-General may from time to time by Order in Council, on petition in that behalf from a majority of the ratepayers in any part of New Zealand, constitute and declare that part to be a district for the purposes of this Part of this Act, and may, on a like petition from a majority of the ratepayers of any area proposed to be included in or excluded from the district, alter the boundaries of any such district.
 (2) The Governor-General, by Order in Council, may from time to time, on a like petition, abolish any district or portion of a district.
 (3) Every district shall be constituted by such name as the Governor-General in Council specifies.
+(4) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 4 Board of Trustees
 For every district there shall be a Board of Trustees, consisting of such number of persons, being not less than 5 nor more than 7, as is fixed in the aforesaid or any subsequent Order in Council, and such Trustees shall be elected in the manner hereinafter directed.
