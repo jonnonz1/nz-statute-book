@@ -1,5 +1,5 @@
 # New Zealand Railways Corporation Restructuring Act 1990
-_Consolidation as at 2013-07-18_
+_Consolidation as at 2021-10-28_
 
 > An Act to enable the New Zealand Railways Corporation to be restructured, to provide for the vesting in companies incorporated under the Companies Act 1955 and in the Crown of railways assets and liabilities, to amend the New Zealand Railways Corporation Act 1981, and to provide for related matters
 
@@ -14,7 +14,7 @@ This Act may be cited as the New Zealand Railways Corporation Restructuring Act 
   - **debt security** has the same meaning as in section 2(1) of the Securities Act 1978
   - **liabilities** has the same meaning as in section 29(1) of the State-Owned Enterprises Act 1986
   - **Ministers** means the Minister of Finance and the Minister for State Owned Enterprises acting on behalf of the Crown
-  - **railway operator** means a transferee company or other body corporate that is declared by the Governor-General, by Order in Council, to be a railway operator for the purposes of this Act
+  - **railway operator** means a transferee company or other body corporate that is declared by the Governor-General, by Order in Council (see subsection (3)), to be a railway operator for the purposes of this Act
   - **railways assets** means—
     (a) assets of the Corporation:
     (b) assets of a Crown transferee company:
@@ -32,6 +32,7 @@ This Act may be cited as the New Zealand Railways Corporation Restructuring Act 
   - **transfer day** , in relation to a transferee company and to an employee of that company, means the date on which the rights and liabilities arising under the contract of service of that employee vest in the transferee company pursuant to section 6
   - **transferee company** means a company formed and registered under section 4 (including a company formed and registered under that section as in force before the commencement of the Company Law Reform (Transitional Provisions) Act 1994), whether or not at any particular time any or all of the shares in its capital are held by the Ministers.
 (2) Terms or expressions that are not defined in this Act, but that are defined in the New Zealand Railways Corporation Act 1981, have the meanings given to them by that Act.
+(3) A declaration under the definition of railway operator in subsection (1) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 (3)
 
 ### 3 Act to bind the Crown
@@ -78,6 +79,7 @@ This Act binds the Crown.
   (b) the assets shall for the purposes of this Act and, in particular, sections 38, 39, and 40 of this Act and of every other enactment or rule of law, be treated as personal property, and not as land or an interest in land, notwithstanding that they are so affixed to, or under or over, land.
 (9) Where, pursuant to an Order in Council under this section, railways assets of the Corporation are vested in the Crown or in any Crown transferee company and the aggregate value of those assets exceeds the aggregate value of railways liabilities of the Corporation vested in the Crown or any Crown transferee company pursuant to that order the Crown shall indemnify the Corporation to the extent of that excess.
 (10) Nothing in this section authorises the making of an Order in Council in relation to the vesting of railways liabilities that arise under an agreement that is governed by the law of a country other than New Zealand.
+(11) An Order in Council under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 7 Additional provisions relating to vesting of railways assets and railways liabilities
 (1) Nothing effected or authorised by this Act—
@@ -162,6 +164,7 @@ Where the rights and liabilities arising under a contract of service between a w
   (b) a person named in Schedule 1 of the Official Information Act 1982.
   (c)
 (2) For the purposes of this section, a date specified by the Governor-General, by Order in Council, as the date on which the Crown ceased to hold 50% or more of the ordinary shares in a transferee company shall be taken to be the date on which the Crown ceased to hold those shares.
+(3) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 20 Corporation not to acquire Crown land without consent
 The Corporation shall not, without the prior consent of the Ministers, exercise the powers conferred on it—
@@ -283,6 +286,7 @@ The provisions of the New Zealand Railways Corporation Act 1981 specified in Sch
 (2) The Governor-General may, by Order in Council, on the recommendation of the Minister, declare that regulations made pursuant to section 110 of the New Zealand Railways Corporation Act 1981 that do not apply to railway operators shall apply, subject to such modifications as may be specified in the order, to railway operators or any class of railway operator and the regulations shall apply accordingly as if the making of the regulations applying to railway operators or that class of railway operator was authorised by that section.
 (3) The Minister shall not make a recommendation under subsection (1) or subsection (2) unless the Minister has consulted with all railway operators who, in the Minister's opinion, are likely to be affected by the proposed regulations or by regulations made under section 110 of the New Zealand Railways Corporation Act 1981 applying to them, as the case may be, and those persons have a reasonable opportunity to make submissions to the Minister.
 (4) The failure to comply with the requirements of subsection (3) shall not invalidate any regulations or Order in Council made under this section.
+(5) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 33 Amendment to Land Tax Act 1976
 (1) Amendment(s) incorporated in the Act(s).
