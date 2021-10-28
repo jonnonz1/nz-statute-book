@@ -1,5 +1,5 @@
 # Tax Administration Act 1994
-_Consolidation as at 2021-09-30_
+_Consolidation as at 2021-10-28_
 
 > An Act to reorganise and consolidate the law relating to the Inland Revenue Department and the administration of income tax matters
 
@@ -643,6 +643,9 @@ Except where there is express provision to the contrary,—For example, a refere
   (a) a provision (in this subsection referred to as the relevant provision) of this Act applies in respect of a taxpayer making an objection to or a challenge in respect of an assessment or other disputable decision, but not to both; and
   (b) it is necessary or appropriate for the purposes of another provision of this Act that applies with respect to objections or challenges, but not to both, that the relevant provision apply,—
 
+### 4AB Status of examples
+Examples are included in this Act only as an interpretational aid. If there is conflict between an example and a provision of this Act, the provision prevails.
+
 ### 4B Application of Act in relation to Australian wine producer rebate
 (1) This section governs the application of this Act in relation to the rights and obligations of a person under a regulation made under section CV 8 of the Income Tax Act 2007, which relates to Australian wine producer rebates.
 (2) This Act applies to the rights and obligations as if—
@@ -691,10 +694,12 @@ Order for directions
 (1) The Governor-General may, by Order in Council and with due regard to this subpart and the provisions of the Public Service Act 2020 and the Public Finance Act 1989, issue directions to the Commissioner in relation to the administration of the Inland Revenue Acts.
 Limitations
 (2) Subsection (1) does not authorise the giving of directions concerning the tax affairs of individual persons or the interpretation of tax law.
-Order published
-(3) Every order made under subsection (1) must, as soon as practicable after it is made,—
-  (a) be published in a publication chosen by the Commissioner; and
-  (b) be laid before the House of Representatives together with any accompanying statement of the reasons for the order and any advice of the Commissioner in relation to it.
+Secondary legislation
+(3) An order under subsection (1)—
+  (a) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements); but
+  (b) becomes binding on the Commissioner in accordance with subsection (4) (even if it is not yet published).
+Order laid before House of Representatives
+(3B) If an order is made under subsection (1), the Minister of Revenue must ensure that any accompanying statement of the reasons for the order, and any advice of the Commissioner in relation to it, is laid before the House of Representatives as soon as practicable after it is made.
 Binding after 7 days
 (4) An order made under subsection (1) becomes binding on the Commissioner on the 7th day after the date on which it is made.
 
@@ -750,8 +755,10 @@ Minister’s recommendations
   (f) for a modification that applies to a person unless they choose not to apply it, the person has a reasonable opportunity to choose not to apply it; and
   (g) a consultative process has been undertaken as described in section 6F, unless the Minister has dispensed with the consultative process under section 6F(3); and
   (h) making the modification will not, in substance, have the effect of extending the period for which a modification previously made under this section, or an exemption previously granted under section 6E, applies.
+Secondary legislation
+(6) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 Publication of modifications
-(6) The Minister’s reasons for recommending a modification, and an explanation of the way in which the modification complies with this section, must be published together with the modification.
+(7) The Minister of Revenue’s reasons for recommending a modification, and an explanation of the way in which the modification complies with this section, must be published together with an order under this section.
 
 ### 6E Exemptions granted by Commissioner
 Exemptions
@@ -787,10 +794,10 @@ Opt-out or opt-in exemptions permitted
 (5) For the purposes of subsection (3)﻿(b), an exemption may provide that it applies to a person to whom it is available—
   (a) unless the person chooses not to apply it; or
   (b) only if the person chooses to apply it.
+Secondary legislation
+(6) An exemption under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 Publication of exemptions
-(6) The Commissioner’s reasons for granting an exemption, and an explanation of the way in which the exemption complies with this section, must be published together with the exemption.
-Status of exemptions
-(7) An exemption is a legislative instrument and a disallowable instrument for the purposes of the Legislation Act 2012, and must be presented to the House of Representatives under section 41 of that Act.
+(7) The Commissioner’s reasons for granting an exemption, and an explanation of the way in which the exemption complies with this section, must be published together with the exemption.
 
 ### 6F Consultation on proposed modifications and exemptions
 Consultative process
@@ -823,6 +830,8 @@ Application of section 6I
 (4) Section 6I applies in relation to a variation of a provision for some or all of the period starting on 17 March 2020 and ending on 30 September 2021. However, the Governor-General may, by Order in Council made on the recommendation of the Minister of Revenue, extend the application of section 6I if it is reasonably necessary in the circumstances because of the continuing impact of COVID-19 related measures or circumstances.
 Extended meaning of Inland Revenue Acts
 (5) For the purpose of this section and section 6I, Inland Revenue Acts includes the Unclaimed Money Act 1971.
+Secondary legislation
+(6) An order under subsection (4) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 6I COVID-19 response: Commissioner’s variations
 Power to vary
@@ -842,8 +851,8 @@ General application
   (b) requires certain conditions to be met for the variation to apply.
 Optional application
 (4) Despite subsection (3), a person to whom a variation is available may choose whether or not to apply the variation by taking a tax position, for example, in a return of income, or by informing the Commissioner of their election. If the person chooses not to apply a variation, the law applies as if the variation did not apply in relation to the person.
-Publication
-(5) The Commissioner must publish a variation made under this section in a manner chosen by the Commissioner.
+Secondary legislation
+(5) A variation under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### Subpart 2C — Functions and powers of Commissioner
 
@@ -863,7 +872,7 @@ Publication
   (a) meets the eligibility requirements for a loan under the scheme; and
   (b) makes a loan application to the Commissioner; and
   (c) enters into a loan contract with the Commissioner.
-(2) For the purposes of subsection (1)﻿(b), the Commissioner must publish the eligibility requirements for a loan under the scheme on an internet site administered by the Commissioner.
+(2)
 (3) The person in whose name the loan application is made—
   (a) must provide the information to the Commissioner required by the loan contract; and
   (b) is bound by the terms of the loan contract and must pay or repay all amounts payable by the person under the loan contract at the times and in the manner provided in the loan contract.
@@ -877,6 +886,7 @@ Publication
     (b) records the terms on which a loan under the small business cashflow scheme is, or will be, made
   - **small business cashflow scheme** means the Small Business Cashflow (Loan) Scheme established and administered by the Crown to provide loans to assist small-to-medium businesses in the circumstances arising from the continuing impact of COVID-19 related measures or circumstances
   - **wage subsidy scheme** means a subsidy scheme that is established as part of the Government’s COVID-19 response measures and which the Ministry administers on behalf of the Government.
+(7) Eligibility requirements under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 7AAB Authorisation to make COVID-19 resurgence support payments
 (1) The purpose of this section is to provide authorisation for payments to be made under the COVID-19 resurgence support payments scheme (the CRSP scheme) if a resurgence in New Zealand of COVID-19 should arise. It is intended that the scheme will provide for grants to be made to support eligible persons in New Zealand when—
@@ -916,7 +926,7 @@ Publication
     (i) the period set out in the order, if applicable; or
     (ii) if no period is set out, 6 months after the order comes into force:
   (b) may be renewed or replaced by an Order in Council made on the recommendation of the Minister of Revenue before the date on which the order would otherwise expire.
-(3) An Order in Council made under subsection (1) or (2)﻿(b) is a legislative instrument and a disallowable instrument for the purposes of the Legislation Act 2012, and must be presented to the House of Representatives under section 41 of that Act.
+(3) An Order in Council made under subsection (1) or (2)﻿(b) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 7A Authorisation to take securities
 (1) The Commissioner may—
@@ -959,12 +969,13 @@ Publication
 
 ### 13B Use of electronic signatures for tax administration purposes
 (1) Subject to meeting the criteria and requirements set out in the guidelines referred to in subsection (2) and the provisions of Part 4 of the Contract and Commercial Law Act 2017, a person may give information to the Commissioner under an electronic signature.
-(2) The Commissioner must publish guidelines that set out the criteria and technical requirements for—
+(2) The Commissioner must make guidelines that set out the criteria and technical requirements for—
   (a) the use of a valid electronic signature on documents provided to the Commissioner:
   (b) the nature of, and circumstances in which, the Commissioner accepts information under an electronic signature.
 (3) When the Commissioner receives a document bearing the electronic signature of a person, unless there are reasonable grounds to suppose otherwise,—
   (a) the document is treated as signed by the person; and
   (b) the person is treated as complying with both the guidelines referred to in subsection (2) and section 228 of the Contract and Commercial Law Act 2017.
+(4) Guidelines under subsection (2) are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 13C Annual report
 (1) The Commissioner shall, as soon as practicable after the close of each financial year, furnish to the Minister a report on the administration of the Inland Revenue Acts during the financial year.
@@ -1432,6 +1443,8 @@ Orders in Council
   (c) setting out the way in which the information is necessary for the purposes set out in subsection (1):
   (d) specifying a person or class of persons who may be given an exemption from some or all of a requirement under paragraph (a), (b), or (c):
   (e) prescribing how provisions of this Act or another Inland Revenue Act must be applied or modified for the purpose set out in section 17B.
+Secondary legislation
+(2B) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 Requirements
 (3) The Minister may recommend the making of regulations under this section only if satisfied that—
   (a) the regulations are necessary for a purpose relating to—
@@ -1585,6 +1598,8 @@ Regulations
   (d) specifying—
     (i) whether further disclosure of the information is permitted:
     (ii) whether review requirements are to be stipulated, including instances of breaches of confidentiality.
+Secondary legislation
+(2B) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 Requirements for making of regulations
 (3) The Minister may recommend the making of regulations under this section only if satisfied that—
   (a) the regulations are necessary to achieve the purpose set out in subsection (1); and
@@ -1772,6 +1787,7 @@ An information holder who is required to disclose information in relation to a p
   (c) classes of companies that are exempt from the minimum requirements:
   (d) the period for which financial statements must be prepared.
 (2) Before recommending the making or amending of an Order in Council under this section, the Minister of Revenue must, whether before or after the date on which the Taxation (Annual Rates, Foreign Superannuation, and Remedial Matters) Act 2014 receives the Royal assent, consult with professional accounting bodies that the Minister decides it is reasonable to consult for the purposes of this section.
+(3) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 22 Keeping of business and other records
 (1) Without limiting the generality of subsection (7), the records required to be kept and retained under subsection (2) in respect of any business carried on during any income year by any person, shall contain—
@@ -1835,9 +1851,10 @@ An information holder who is required to disclose information in relation to a p
 (5) The Commissioner may, by notice given before the expiry of the 7-year retention period specified in subsection (2) or (2B), require a taxpayer to retain all or any of the records specified in that subsection for a further period not exceeding 3 years following the expiry of the 7-year period where—
   (a) the affairs of the taxpayer are or have been under audit or investigation by the Commissioner; or
   (b) the Commissioner intends to conduct such an audit or investigation before the expiry of the retention period as so extended, or is actively considering any such audit or investigation.
-(6) The Commissioner may, by notice published in the Gazette, dispense any class of taxpayers from the need to retain the records, or any class of records, specified in subsection (2) or (2B), for more than 12 months following the end of the income year or tax year to which they relate where—
+(6) The Commissioner may, by notice, dispense any class of taxpayers from the need to retain the records, or any class of records, specified in subsection (2) or (2B), for more than 12 months following the end of the income year or tax year to which they relate where—
   (a) the taxpayers are not provisional taxpayers; and
   (b) the records relate to payments from which tax has been withheld or deducted at source.
+(6B) A notice under subsection (6) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 (7) In this section, records includes—
   (a) books of account (whether contained in a manual, mechanical, or electronic format) recording receipts or payments or income or expenditure:
   (b) vouchers, bank statements, invoices, receipts, and such other documents as are necessary to verify the entries in the books of account referred to in paragraph (a):
@@ -2070,6 +2087,7 @@ Order in Council amending schedule 8
   (a) adding an item of information to, or omitting an item of information from, part A, table 1 or table 2:
   (b) adding an amount of tax to, or omitting an amount of tax from, part B, clause 1:
   (c) adding a type of income to, or omitting a type of income from, part B, clause 2.
+(3B) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 Consultation
 (4) Before the Minister makes a recommendation under subsection (3), a consultative process must be undertaken that includes the distribution of the proposed amendments to schedule 8 to persons or representatives of persons that it is considered reasonable to consult for the purposes of this section.
 
@@ -2198,8 +2216,7 @@ Valid until cancellation
 (3) Subject to subsection (4), an exemption under this section remains valid until the Commissioner notifies the employer that the exemption is to be cancelled. The exemption expires on the date that is 6 months after that given in the Commissioner’s notice.
 Time limits
 (4) In making an exemption under this section, the Commissioner may set a time limit on the exemption, stating a start date and an end date, as applicable, for the exemption and the reason for setting the limit.
-Legislative treatment
-(5) An exemption under this section is neither a legislative instrument nor a disallowable instrument for the purposes of the Legislation Act 2012 and does not have to be presented to the House of Representatives under section 41 of that Act.
+(5)
 
 ### 23H New group of employers
 New group
@@ -2284,6 +2301,8 @@ Regulations
   (c) the periods to which corrections may relate, including past periods and future periods.
 Consultation
 (3) Before making a recommendation under subsection (2), the Minister must undertake consultation on the proposed regulation that is appropriate and reasonable for the purposes of this section.
+Secondary legislation
+(4) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 23O Setting electronic and non-electronic filing requirements
 Prescribing means for delivery
@@ -2299,7 +2318,10 @@ Processing requirements
 For the purposes of sections 23H(5) and 23O, payroll software means a commercially available payroll system or service, or another bespoke equivalent, that enables the calculation of amounts of salary or wages and amounts that are required to be withheld under the PAYE rules.
 
 ### 23Q Employment income information: variation of requirements
-The Commissioner may vary the requirements set out in this subpart and schedule 4 for an employer or a class of employers, and the requirements apply as varied.
+Commissioner’s power to vary
+(1) The Commissioner may vary the requirements set out in this subpart and schedule 4 for an employer or a class of employers, and the requirements apply as varied.
+Secondary legislation
+(2) A variation under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 **Other obligations to keep and provide records**
 
@@ -2404,7 +2426,10 @@ Payees to notify payers: rates of tax
   (c) they are using a special rate of tax referred to in section 24G.
 
 ### 24IB Variation of requirements
-The Commissioner may vary the requirements of section 24B and schedule 5, part A, clause 4, for a person or class of persons at any time.
+Commissioner’s power to vary
+(1) The Commissioner may vary the requirements of section 24B and schedule 5, part A, clause 4, for a person or class of persons at any time.
+Secondary legislation
+(2) A variation under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 **PAYE certificates, notification, and applications**
 
@@ -2597,8 +2622,7 @@ Valid until cancellation
 (3) Subject to subsection (4), an exemption under this section remains valid until the Commissioner notifies the payer that the exemption is to be cancelled. The exemption expires on the date that is 6 months after that given in the Commissioner’s notice.
 Time limits
 (4) In making an exemption under this section, the Commissioner may set a time limit on the exemption, stating a start date and an end date, as applicable, for the exemption and the reason for setting a time limit.
-Legislative treatment
-(5) An exemption under this section is neither a legislative instrument nor a disallowable instrument for the purposes of the Legislation Act 2012 and does not have to be presented to the House of Representatives under section 41 of that Act.
+(5)
 
 ### 25Q Setting electronic and non-electronic filing requirements
 For the delivery of investment income information, the Commissioner—
@@ -2608,7 +2632,10 @@ For the delivery of investment income information, the Commissioner—
   (b) may from time to time set specifications for software for use in the delivery of that information.
 
 ### 25R Investment income information: variation of requirements
-The Commissioner may vary the requirements set out in subpart 3E and schedule 6 for a person or a class of persons, and the requirements apply as varied.
+Commissioner’s power to vary
+(1) The Commissioner may vary the requirements set out in subpart 3E and schedule 6 for a person or a class of persons, and the requirements apply as varied.
+Secondary legislation
+(2) A variation under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 **RWT rates, certificates, and records**
 
@@ -2688,7 +2715,8 @@ A person who gives a notice that the retirement scheme prescribed rate for the p
   (d) the country code as prescribed by the Commissioner for the country or territory where they reside for tax purposes:
   (e) the equivalent of their tax file number in the country or territory where they reside for tax purposes, or a declaration if they are unable to provide this number:
   (f) their tax file number in New Zealand, if applicable.
-(2) The Commissioner may add to or change the list of information requirements set out in subsection (1) from time to time.
+(2) The Commissioner may, by notice, add to or change the list of information requirements set out in subsection (1) from time to time.
+(3) A notice under subsection (2) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### Subpart 3F — Statements, notices, and certificates
 
@@ -3038,7 +3066,9 @@ The Commissioner may prescribe 1 or more electronic formats in which details tha
   (c) the costs that the person or persons in the class would incur in complying with the requirements if those costs would be unreasonable in the circumstances.
 (5) Subject to subsection (6), an exemption under this section remains valid until the Commissioner notifies the registered person that the exemption is to be cancelled. The exemption expires on the date that is 6 months after that given in the Commissioner’s notice.
 (6) In making an exemption under this section, the Commissioner may set a time limit on the exemption, stating a start date and an end date, as applicable, for the exemption and the reason for setting the limit.
-(7) An exemption under subsection (3) is neither a legislative instrument nor a disallowable instrument for the purposes of the Legislation Act 2012 and does not have to be presented to the House of Representatives under section 41 of that Act.
+(7) The following are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements):
+  (a) an order under subsection (2):
+  (b) an exemption under subsection (3), unless it applies only to 1 or more named persons.
 
 ### 36BE Research and development tax credits: electronic formats
 (1) The Commissioner must prescribe 1 or more electronic formats in which a research and development supplementary return under section 33E must be filed.
@@ -3602,7 +3632,7 @@ Every gift-exempt body must, when notified by the Commissioner, furnish a return
   (a) that is described in subsection (1) and is specified in the notice; and
   (b) is for each period that is specified in the notice and begins after the end of the 2013–14 income year and ends before the beginning of the 2021–22 income year.
 (3) If the trustee of a trust is a non-resident, a settlor of the trust who is a New Zealand resident is responsible for ensuring the performance of the obligations imposed on the trustee by this section.
-(4) A notice under subsection (2) is secondary legislation under the Legislation Act 2019.
+(4) A notice under subsection (2) is secondary legislation under the Legislation Act 2019 (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 59B Foreign trust with resident foreign trustee: registration and disclosure
 (1) The Commissioner may register a foreign trust if the foreign trust has a resident foreign trustee and a trustee pays the prescribed fee.
@@ -3682,6 +3712,7 @@ Every gift-exempt body must, when notified by the Commissioner, furnish a return
 (5) A resident foreign trustee for a foreign trust is not required to pay a fee referred to in subsection (1) if each resident foreign trustee for the foreign trust—
   (a) is a natural person; and
   (b) is not in the business of providing trustee services.
+(6) Regulations under subsection (1) are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 60 Returns of inter-related arrangements
 [Repealed]
@@ -4659,13 +4690,18 @@ The Commissioner must issue a notice of proposed adjustment before the Commissio
 (6) The Commissioner may at any time—
   (a) make a determination that varies, cancels, restricts or extends in scope an earlier determination made under this section:
   (b) issue a notice that cancels a determination made under this section.
-(6B) A person who acquires or issues a financial arrangement before the date of notification or publication of a determination, or notice, that is authorised by subsection (6) is not required to apply the determination to the financial arrangement, or treat the notice as affecting the financial arrangement, until the date that is 4 years after that date of notification or publication.
-(7) All determinations made by the Commissioner under subsection (1) and notices issued by the Commissioner under subsection (6)﻿(b) shall be published within 30 days of the making of the determination or notice, in a publication chosen by the Commissioner and in such form as may be specified by regulations made under this Act.
-(8) For the purposes of this section a determination or notice shall be deemed to be made when it is signed by the Commissioner.
+(6B) A person who acquires or issues a financial arrangement before a determination or notice under subsection (6) comes into force is not required to apply the determination to the financial arrangement, or treat the notice as affecting the financial arrangement, until the date that is 4 years after the determination or notice comes into force.
+(7) If the Commissioner makes a determination or notice under subsection (1) or (6) that is not secondary legislation,—
+  (a) it comes into force when it is signed by the Commissioner; and
+  (b) the Commissioner must give notice of it to the person to whom it applies as soon as is convenient.
+(8)
 (9) If a person has applied a determination under subsection (1), an assessment made in respect of the person must be in accordance with the determination.
 (10) Subsection (9) does not apply if—
-  (a) since the date of the determination, the legislation on which the determination was based has been repealed or amended to the detriment of the person relying on the determination; or
+  (a) since the determination came into force, the legislation on which the determination was based has been repealed or amended to the detriment of the person relying on the determination; or
   (b) there was a material misrepresentation or omission in the application for the determination, whether intentional or not.
+(11) The following are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements), unless they relate only to 1 or more named persons:
+  (a) a determination under subsection (1) or (6)﻿(a):
+  (b) a notice under subsection (6)﻿(b).
 
 ### 90AA Application of determinations made under section 90
 (1) A determination made under section 90 applies, in principle, to a financial arrangement to which subpart EW of the Income Tax Act 2007 applies until a new determination that is relevant to the financial arrangement is made by the Commissioner under section 90AC.
@@ -4698,17 +4734,22 @@ The Commissioner must issue a notice of proposed adjustment before the Commissio
   (a) make a determination that varies, cancels, restricts or extends in scope an earlier determination under this section:
   (b) issue a notice that cancels a determination made under this section:
   (c) correct a typographical or minor error without cancelling the determination and making a new determination, provided that the correction does not change the meaning of the determination.
+(7) The following are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements), unless they relate only to 1 or more named persons:
+  (a) a determination under subsection (1) or (6)﻿(a):
+  (b) a notice under subsection (6)﻿(b).
 
 ### 90AD Notification of determinations and notices
-(1) The Commissioner must publish a determination or notice made under section 90AC not later than 30 days after the date the determination or notice is made, in a publication chosen by the Commissioner. The determination or notice must be published in a form that is specified by regulations made under this Act.
-(2) A determination or notice is made under section 90AC when it is signed by the Commissioner.
+(1) If the Commissioner makes a determination or notice under section 90AC that is not secondary legislation,—
+  (a) it comes into force when it is signed by the Commissioner; and
+  (b) the Commissioner must give notice of it to the person to whom it applies as soon as is convenient.
+(2)
 (3) If a person has applied a determination under section 90AC, an assessment made in respect of the person must be in accordance with the determination.
 (4) Subsection (3) does not apply if—
-  (a) since the date of the determination, the legislation on which the determination was based has been repealed or amended to the detriment of the person relying on the determination; or
+  (a) since the determination came into force, the legislation on which the determination was based has been repealed or amended to the detriment of the person relying on the determination; or
   (b) there was a material misrepresentation or omission in the application for the determination, whether intentional or not.
 
 ### 90AE Four-year period in which determination not required to be applied
-A person who enters into a financial arrangement before the date of notification or publication of a determination, or notice, that is authorised by section 90AC(6)﻿(a) or (b) is not required to apply the determination to the financial arrangement, or treat the notice as affecting the financial arrangement, until the date that is 4 years after that date of notification or publication.
+A person who enters into a financial arrangement before a determination or notice under section 90AC(6) comes into force is not required to apply the determination to the financial arrangement, or treat the notice as affecting the financial arrangement, until the date that is 4 years after the determination or notice comes into force.
 
 ### 90AF Imputation arrangement to obtain tax advantage
 (1) If an arrangement to obtain a tax advantage arises as described in section GB 35 of the Income Tax Act 2007, the Commissioner may make any of the following determinations:
@@ -4842,8 +4883,8 @@ A person who enters into a financial arrangement before the date of notification
 (9) The determination may provide for the extension, limitation, variation, or revocation of an earlier determination.
 
 ### 91AAE Publication and revocation of determinations relating to livestock
-(1) A determination issued under any of sections EC 15, EC 23, and EC 24 of the Income Tax Act 2007 must be published no later than 30 days after it has been signed by the Commissioner, in a publication chosen by the Commissioner.
-(2) If the Commissioner revokes a determination made under section EC 15, EC 23, or EC 24 of the Income Tax Act 2007, and substitutes a new determination, that new determination does not apply for an income year that ends on or before the day 30 days before the day on which the new determination is published.
+(1)
+(2) If the Commissioner revokes a determination made under section EC 15, EC 23, or EC 24 of the Income Tax Act 2007, and substitutes a new determination, that new determination does not apply for an income year that ends on or before the day 30 days before the day on which the new determination comes into force.
 
 **Determinations relating to depreciation**
 
@@ -4867,7 +4908,10 @@ A person who enters into a financial arrangement before the date of notification
   (a) is already subject to a higher economic rate under an existing determination; and
   (b) is reacquired after the date on which the new determination is issued, by the person who disposed of it before the date on which the new determination is issued.
 (5) A determination made under this section may apply to an item of depreciable property to which section EE 27, EE 28, or EE 30 of the Income Tax Act 2007 applies if the item is acquired or used by a person before the commencement of this section.
-(6) The Commissioner may revoke a determination setting an economic rate. The revocation takes effect on the day after the date of publication of the Gazette in which notification under section 91AAK is made.
+(6) The Commissioner may revoke a determination setting an economic rate.
+(7) The following are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements):
+  (a) a determination under this section:
+  (b) a revocation of a determination under this section.
 
 ### 91AAG Determination on special rates and provisional rates
 (1) A person may apply to the Commissioner for the issue of a determination allowing them to use for an item, for a specified income year or years,—
@@ -4932,9 +4976,7 @@ A person who enters into a financial arrangement before the date of notification
 (3) Part 8, except section 125, applies with any necessary modifications to the dispute or challenge in the same manner and to the same extent as if the dispute or challenge were an objection made under section 126.
 
 ### 91AAK Notice of setting of economic rate
-Within 30 days of issuing or revoking a determination under section 91AAF, the Commissioner must publish a notice in a publication chosen by the Commissioner that—
-  (a) gives notice that the determination has been issued; and
-  (b) states where copies of it can be obtained.
+[Repealed]
 
 ### 91AAL Determination on maximum pooling value
 (1) A person may apply to the Commissioner for the issue of a determination allowing them a maximum pooling value for an item of depreciable property greater than that currently available to them.
@@ -5063,9 +5105,7 @@ Within 30 days of issuing or revoking a determination under section 91AAF, the C
   (c) the difficulty of and costs in measuring any element of private benefit.
 (4) The determination may provide for the extension, limitation, variation, cancellation, or revocation of an earlier determination. The Commissioner must give at least 30 days' notice of the implementation date of any change to the determination.
 (5) A person affected by a determination made under this section may dispute or challenge the determination under Parts 4A and 8A.
-(6) Within 30 days of issuing or changing a determination under this section, the Commissioner must publish a notice in a publication chosen by the Commissioner that—
-  (a) gives notice that the determination has been issued or changed, as applicable; and
-  (b) states where copies of the determination can be obtained.
+(6) A determination under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 **Determinations relating to family scheme income**
 
@@ -5094,14 +5134,12 @@ Within 30 days of issuing or revoking a determination under section 91AAF, the C
 (1) The Commissioner may determine that a territory outside New Zealand is a participating jurisdiction for the purposes of the CRS applied standard and Part 11B.
 (2) The determination may set out the period for which it is to apply, which must not begin before the latest reporting period that finishes before the determination is made.
 (3) A determination may provide for the change, extension, limitation, suspension, or cancellation of an earlier determination.
-(4) Within 30 days of issuing, changing, extending, limiting, suspending, or cancelling a determination under this section, the Commissioner must publish in a publication chosen by the Commissioner—
-  (a) the determination:
-  (b) details of a changed, extended, limited, suspended, or cancelled determination.
+(4) A determination under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 91AAV Suspension of reportable jurisdictions for CRS applied standard
 (1) The Commissioner may determine, for a territory outside New Zealand that has been provided by an Order in Council to be a reportable jurisdiction for the purposes of the CRS applied standard and requirements imposed by Part 11B, that the territory is not to be treated as a reportable jurisdiction.
 (2) The determination must set out the period for which it is to apply, which must not begin before the latest reporting period that finishes before the determination is made and must end no more than 3 months after the date of the determination.
-(3) Within 30 days of issuing a determination under this section, the Commissioner must publish the determination in a publication chosen by the Commissioner.
+(3) A determination under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 91AAW Non-reporting financial institutions and excluded accounts for CRS applied standard
 (1) The Commissioner may determine that, for the purposes of the CRS applied standard and requirements under Part 11B,—
@@ -5109,9 +5147,7 @@ Within 30 days of issuing or revoking a determination under section 91AAF, the C
   (b) a financial account, or type of financial account, is an excluded account.
 (2) The determination may set out the period for which it is to apply, which must not begin before the latest reporting period that finishes before the determination is made.
 (3) A determination may provide for the change, extension, limitation, suspension, or cancellation of an earlier determination.
-(4) Within 30 days of issuing, changing, extending, limiting, suspending, or cancelling a determination under this section, the Commissioner must publish in a publication chosen by the Commissioner—
-  (a) the determination:
-  (b) details of a changed, extended, limited, suspended, or cancelled determination.
+(4) A determination under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 **Determinations relating to AIM method**
 
@@ -5123,14 +5159,14 @@ Within 30 days of issuing or revoking a determination under section 91AAF, the C
   (c) the resources available to approved AIM providers.
 (3) A determination may set out the tax year or years for which it is to apply, or a date from which it is to apply (the implementation date).
 (4) A determination (a later determination) may provide for the extension, limitation, variation, cancellation, or revocation of an earlier determination. The Commissioner must give at least 120 days notice of the implementation date of that later determination, in a publication chosen by the Commissioner.
-(5) All determinations under this section must be published within 30 days of the making of the determination, in a publication chosen by the Commissioner. The implementation date must not be retrospective.
+(5) A determination under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 91AAY Class of taxpayers that must not use AIM method
 (1) The Commissioner may determine, for the purposes of section RC 5(5B)﻿(f) of the Income Tax Act 2007, that a class of taxpayers must not use the AIM method.
 (2) In making a determination the Commissioner must have regard to the risk that allowing the class of taxpayers to use the AIM method will result in less net revenue collectable from the class of taxpayers over time.
 (3) A determination may set out the tax year or years for which it is to apply, or a date from which it is to apply (the implementation date).
 (4) A determination (a later determination) may provide for the extension, limitation, variation, cancellation, or revocation of an earlier determination. The Commissioner must give at least 120 days notice of the implementation date of that later determination, in a publication chosen by the Commissioner.
-(5) All determinations under this section must be published within 30 days of the making of the determination, in a publication chosen by the Commissioner.
+(5) A determination under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 91AAZ AIM method information
 (1) The Commissioner may determine, for the purposes of section 45, information and form required or prescribed under that section.
@@ -5140,7 +5176,7 @@ Within 30 days of issuing or revoking a determination under section 91AAF, the C
   (c) the resources available to approved AIM providers.
 (3) A determination may set out the tax year or years for which it is to apply, or a date from which it is to apply (the implementation date).
 (4) A determination (a later determination) may provide for the extension, limitation, variation, cancellation, or revocation of an earlier determination. The Commissioner must give at least 120 days notice of the implementation date of that later determination, in a publication chosen by the Commissioner.
-(5) All determinations under this section must be published within 30 days of the making of the determination, in a publication chosen by the Commissioner. The implementation date must not be retrospective.
+(5) A determination under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ## Part 5A — Binding rulings
 
@@ -5329,6 +5365,7 @@ The Commissioner may at any time make a public ruling on how a taxation law appl
 (4A) Subsection (4)﻿(a) does not apply if the application for the ruling relates to how either sections GC 6 to GC 19 or YD 5 of the Income Tax Act 2007 applies, or would apply, to the person applying for the ruling and to the arrangement, whether a single or a recurring arrangement, for which the ruling is sought.
 (4B) In this section and sections 91EA to 91ED, 91EH, and 91EI, a reference to an arrangement is ignored for the purposes of a ruling by the Commissioner under section 91CB on the status of a person, item, or matter.
 (5) The Commissioner may not, before 1 April 1996 or such other date as may be specified by the Governor-General by Order in Council for the purposes of this subsection, make a private ruling on an arrangement if that arrangement was entered into before the date on which the Commissioner received the application for the ruling.
+(6) An order under subsection (5) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 (6)
 
 ### 91EA Effect of a private ruling
@@ -5445,6 +5482,7 @@ Before the Commissioner makes a private ruling, the Commissioner must give the a
 (6) The application must meet the requirements of section 91EO.
 (7) The person may withdraw the application at any time by notifying the Commissioner.
 (8) The amounts specified in subsection (3)﻿(a) and (b) may be varied from time to time by the Governor-General by Order in Council.
+(9) An order under subsection (8) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 91EM Effect of short-process ruling
 (1) This section applies, despite anything in another Act, when—
@@ -5698,6 +5736,7 @@ The fact that there has been an application for a private ruling or a product ru
   (b) prescribe specific fees for specific work or services:
   (c) prescribe a scale of fees or a rate based on the time involved in carrying out the work or services:
   (d) allow the Commissioner to waive, in whole or in part, any fees that are payable.
+(3) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 91J Commissioner may not issue ruling to applicant with outstanding debts
 (1) The Commissioner may refuse to issue a private, a product, or a status ruling to an applicant with an outstanding debt that relates to an earlier binding ruling application.
@@ -6224,9 +6263,10 @@ Example for section 120F(1) (illustrative only)On 1 September 2019, an assessmen
 Except where a tax law provides otherwise, interest payable by a taxpayer to the Commissioner on unpaid tax is payable immediately and without the need for a demand.
 
 ### 120H Setting and varying interest rates
-The Governor-General may from time to time, by Order in Council,—
+(1) The Governor-General may from time to time, by Order in Council,—
   (a) specify the criteria and other requirements by and against which interest rates will be set or reset and notified for the purposes of this Part:
   (b) set the Commissioner's paying rate and taxpayer's paying rate.
+(2) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 120I No right to object to interest
 (1) A taxpayer may not object to or challenge the imposition of interest payable under this Part.
@@ -7504,6 +7544,7 @@ For the purposes of determining a person’s liability to pay a late payment pen
     (ii) any other group of persons that derive or incur amounts jointly or that are assessed together,—
   (b) the tax rate in a return period applying to a partnership or a look-through company is deemed to be the same as the basic rate of income tax for companies for the relevant period.
 (9) The amounts or the percentage specified in subsection (2) may be varied from time to time by the Governor-General by Order in Council.
+(10) An order under subsection (9) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 141C Gross carelessness
 (1) A taxpayer is liable to pay a shortfall penalty if the taxpayer is grossly careless in taking a taxpayer's tax position (referred to as gross carelessness).
@@ -7830,6 +7871,7 @@ Despite sections 141A to 141E, a provisional taxpayer who uses a GST ratio in a 
 (4) In this section, tax does not include a civil penalty.
 (5) This section comes into force on a date appointed by the Governor-General by Order in Council, and 1 or more orders may be made appointing different dates for different tax types and for different purposes. To the extent to which it is not previously brought into force, this section comes into force on 1 April 2023.
 (6) For a tax type in relation to which an order is made under subsection (5), this section applies to a new assessment for the tax type or an increased assessment for the tax type and section 142A does not apply for that tax type.
+(7) An order under subsection (5) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 142AC New due date for payment of terminal tax by certain individuals
 (1) This section applies when—
@@ -8469,6 +8511,7 @@ In this Part—
 (2) A tax recovery agreement has effect—
   (a) even if a provision in the agreement is inconsistent with a provision in this Act or in any other enactment; and
   (b) subject to this Part.
+(3) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 173D Taxes that may be recovered
 (1) To the extent that the taxes are prescribed in a tax recovery agreement, the agreement may provide for assistance in the recovery of taxes that are imposed by the laws of New Zealand and the territory with which the agreement is negotiated.
@@ -8889,6 +8932,7 @@ An amount that is interest under section 120D, or a late payment penalty relatin
     (i) the period given in the order, if such a period is given; or
     (ii) if no such period is given, 6 months from the promulgation of the order:
   (c) may be renewed or replaced from time to time by an Order in Council made before or after the date on which the order would otherwise expire.
+(6) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 183ABAB Remission of interest for taxpayers affected by COVID-19: general rules
 (1) This section applies for a taxpayer if—
@@ -8913,7 +8957,7 @@ An amount that is interest under section 120D, or a late payment penalty relatin
     (i) on the recommendation of the Minister of Revenue; and
     (ii) before the date on which the order would otherwise expire.
 (6) The Minister of Revenue may recommend the making of an Order in Council under subsection (4) or (5) to extend the time limit only if satisfied that the ability of taxpayers to pay tax on time is likely to continue, beyond the expiry of the existing time limit, to be significantly adversely affected by COVID-19.
-(7) An Order in Council made under subsection (4) or (5) is a legislative instrument and a disallowable instrument for the purposes of the Legislation Act 2012, and must be presented to the House of Representatives under section 41 of that Act.
+(7) An Order in Council under subsection (4) or (5) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 183ABAC Remission of interest on terminal tax for 2020–21 tax year for provisional taxpayers affected by COVID-19
 (1) This section applies for a taxpayer who is liable to pay provisional tax for the 2020–21 tax year if—
@@ -9024,6 +9068,7 @@ The Commissioner shall remit interest if—
   (c) a taxpayer is not liable to pay an employers’ withholding payment penalty if the unpaid amount on the day before the date of the Commissioner's notice under section 141ED(1)﻿(b) is $100 or less:
   (d) the Commissioner is not liable to pay interest under Part 7 on overpaid tax of $100 or less.
 (2) An amount specified in subsection (1) may be varied from time to time by the Governor-General by Order in Council.
+(3) An order under subsection (2) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 183G Refunds by Commissioner
 If—the Commissioner will—
@@ -9047,7 +9092,7 @@ A taxpayer seeking the remission of an amount or of a liability to pay an amount
 (2) Without limiting subsection (1), a taxpayer is never liable to pay interest or a civil penalty in respect of a tax liability or obligation that is cancelled.
 
 ### 184 Refund of tax paid on income subsequently exempted by Order in Council
-If a double tax agreement exempts from tax any income derived before the date of the Order in Council that gives effect to the double tax agreement, and the Commissioner is satisfied tax has been paid in relation to that income, and application is made by or on behalf of the taxpayer at any time within 4 years after the date of the Order in Council, then notwithstanding anything in sections LA 6 to LA 8, RM 2, RM 4, RM 5, RM 8, and RM 10 of the Income Tax Act 2007 the Commissioner may refund the tax paid.
+If a double tax agreement exempts from tax any income derived before the date on which the Order in Council that gives effect to the double tax agreement comes into force, and the Commissioner is satisfied tax has been paid in relation to that income, and application is made by or on behalf of the taxpayer at any time within 4 years after the date on which the Order in Council came into force, then notwithstanding anything in sections LA 6 to LA 8, RM 2, RM 4, RM 5, RM 8, and RM 10 of the Income Tax Act 2007 the Commissioner may refund the tax paid.
 
 ### 184AA Refund of tax: deductible amounts of interest
 (1) This section applies when a person is allowed a deduction under section DB 3B of the Income Tax Act 2007, section DB 3B of the Income Tax Act 2004, or section DB 2 of the Income Tax Act 1994.
@@ -9079,7 +9124,8 @@ If a double tax agreement exempts from tax any income derived before the date of
 (6) This section applies to the direct crediting of a type of tax once an Order in Council has been promulgated specifying the date from which the type of tax may be refunded by direct credit.
 
 ### 184B Tax type that may be direct credited to bank account
-The Governor-General may, by Order in Council, specify the date from which a type of tax may be refunded by direct credit under section 184A to a bank account nominated by the taxpayer.
+(1) The Governor-General may, by Order in Council, specify the date from which a type of tax may be refunded by direct credit under section 184A to a bank account nominated by the taxpayer.
+(2) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 185 Payment out of Crown Bank Account
 (1) All money payable by the Commissioner—shall be paid out of a Crown Bank Account without further appropriation than this section.
@@ -9359,6 +9405,7 @@ The information in section 185I(1)﻿(a) and (b) must be provided to the New Zea
 ### 224 Regulations: Inland Revenue Acts generally
 (1) The Governor-General may, by Order in Council, make regulations for the due administration of the Inland Revenue Acts and for the conduct of all persons concerned in the administration of those Acts and generally for carrying the Inland Revenue Acts into effect.
 (2) Regulations made under this section may prescribe fines for offences against the regulations not exceeding $500 in any case.
+(3) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 225 Regulations
 (1) The Governor-General may from time to time, by Order in Council, make regulations, not inconsistent with this Act or the Income Tax Act 2007 or Goods and Services Tax Act 1985, for all or any of the following purposes:
@@ -9369,6 +9416,7 @@ The information in section 185I(1)﻿(a) and (b) must be provided to the New Zea
   (e) providing, where there is no provision in this Act or the Income Tax Act 2007 or Goods and Services Tax Act 1985, or no sufficient provision, in respect of any matter or thing necessary to give effect to this Act or the Income Tax Act 2007 or Goods and Services Tax Act 1985, in what manner and form the deficiency shall be supplied:
   (f) making any provision which may be convenient for the administration of this Act or the Income Tax Act 2007 or Goods and Services Tax Act 1985 or which may be desirable or necessary in order to carry their objects into full effect.
 (2) Regulations made under subsection (1)﻿(c) and (d) may make different provision, and provide for different appeal authorities, in respect of different classes of co-operative marketing companies.
+(3) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 225AA Regulations: co-operative dairy and marketing companies
 (1) The Governor-General may from time to time, by Order in Council, make regulations for the type of company described in subsection (2) for the purposes described in subsection (3).
@@ -9385,6 +9433,7 @@ The information in section 185I(1)﻿(a) and (b) must be provided to the New Zea
   (b) authorising the Commissioner to allocate the income to an income year or income years as the Commissioner thinks fit:
   (c) conferring on the Commissioner a discretionary power necessary for the purposes of the regulations.
 (4) The regulations made may apply different rules in relation to different classes of companies.
+(5) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 225A Power to make interim payments of WFF tax credit
 (1) The Governor-General may from time to time, by Order in Council—
@@ -9397,7 +9446,7 @@ The information in section 185I(1)﻿(a) and (b) must be provided to the New Zea
     (ii) the amount of the main benefit received by the person:
     (iii) the amount of the WFF tax credit to which the person may be entitled, as determined by the chief executive of that department:
     (iv) any amount used or calculated by the chief executive of that department in determining the amount of the WFF tax credit to which a person may be entitled.
-(3) An Order in Council made under subsection (1) is a legislative instrument and a disallowable instrument for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
+(3) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 225ABA Orders in Council: periods for purposes of certain provisions of Income Tax Act 2007 relating to disposals of trading stock
 (1) This section provides a power to extend the period, or specify another later period, during which certain provisions of the Income Tax Act 2007 apply in relation to certain disposals of trading stock.
@@ -9431,6 +9480,7 @@ The information in section 185I(1)﻿(a) and (b) must be provided to the New Zea
 (4) Before making a recommendation under subsection (2), the Minister of Revenue must—
   (a) consult the Minister for Racing on the proposed amendment; and
   (b) be satisfied that consultation has been undertaken on the proposed amendment that is appropriate and reasonable for the purposes of this section.
+(5) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 225B Order in Council amending Schedule 27
 (1) The Governor-General may from time to time, by Order in Council, amend Schedule 27 of the Income Tax Act 2007 by—
@@ -9438,27 +9488,32 @@ The information in section 185I(1)﻿(a) and (b) must be provided to the New Zea
   (b) adding types of income for a country or territory outside New Zealand:
   (c) omitting a country or territory outside New Zealand:
   (d) omitting types of income for a country or territory outside New Zealand.
+(2) An order under subsection (1)—
+  (a) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements); and
+  (b) must be confirmed by an Act (see subpart 3 of Part 5 of the Legislation Act 2019).
 (2)
 
 ### 225BA Order under section 225B is confirmable instrument
-The explanatory note of an Order in Council made under section 225B(1)﻿(a) or (b) must indicate that—
-  (a) it is a confirmable instrument under section 47B of the Legislation Act 2012; and
-  (b) it is revoked at a time stated in the note, unless earlier confirmed by an Act of Parliament; and
-  (c) the stated time is the applicable deadline under section 47C(1)﻿(a) or (b) of that Act.
+[Repealed]
 
 ### 225C Order in Council amending Schedule 38 of Income Tax Act 2007
-The Governor-General may, from time to time, by Order in Council, amend Schedule 38 of the Income Tax Act 2007 by—
+(1) The Governor-General may, from time to time, by Order in Council, amend Schedule 38 of the Income Tax Act 2007 by—
   (a) adding a statute, if the statute provides for an exemption from income tax, for salary or wages, that is to be ignored in determining the family scheme income of a person for an income year:
   (b) removing a statute.
+(2) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 225D Regulations: community housing trusts and companies
 (1) The Governor-General may, from time to time, by Order in Council make regulations, on the combined recommendation of the Minister of Revenue and the Minister for Housing, amending threshold values set out in schedule 34 of the Income Tax Act 2007 relating to the income and assets of a person when the person becomes a beneficiary or client of a community housing trust or company.
 (2)
 (3) Regulations made under this section are treated as coming into force on a day specified for that purpose in the Order in Council, but that day must not be earlier than 14 April 2014.
+(4) Regulations under this section—
+  (a) are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements); but
+  (b) commence in accordance with subsection (3), even if they are not yet published.
 
 ### 226 Power to extend time for doing anything under Act
 (1) If anything required by or under this Act or the Income Tax Act 2007 or the Goods and Services Tax Act 1985 to be done at or within a fixed time cannot be or is not so done, the Governor-General, by Order in Council, may from time to time appoint a further or other time for doing that thing, whether the time at or within which that thing ought to have been done has or has not expired.
 (2) Anything done at or, as the case may be, within the time prescribed by any such Order in Council shall be as valid as if it had been done at or within the time fixed by or under this Act or the Income Tax Act 2007 or the Goods and Services Tax Act 1985.
+(3) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 226B Business group amnesties
 (1) The Commissioner may declare an amnesty (a business group amnesty) under this section in relation to a group of persons, each of whom carries on a type of activity as the person's main business (the affected business), if the Commissioner considers that declaring the amnesty is consistent with—
@@ -9499,15 +9554,15 @@ The Governor-General may, from time to time, by Order in Council, amend Schedule
 (2) The Commissioner may charge the taxpayer, at the time that the taxpayer uses the service, a fee for the service. The fee, if it is charged, must be paid on top of the amount, and as part of the same payment (using the same service).
 (3) The fee for the service is 1.42% of the amount, plus any GST.
 (4) Despite subsection (3), the Governor-General may from time to time, by Order in Council, change the fee, with effect from a date specified in the Order in Council.
+(5) An order under subsection (4) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 226D Reportable jurisdictions for CRS standard and Part 11B
 (1) The Governor-General may from time to time, by Order in Council, make regulations providing that a territory outside New Zealand is a reportable jurisdiction for the purposes of the CRS applied standard.
 (2) A regulation may set out the period for which it is to apply, which must not begin before the latest reporting period that finishes before the regulation is made.
 (3) A regulation may provide for the change, extension, limitation, suspension, or cancellation of an earlier regulation.
-(4) Within 30 days of the making of a regulation under this section, the Commissioner must publish in a publication chosen by the Commissioner—
-  (a) the new or changed regulation:
-  (b) details of the extension, limitation, suspension, or cancellation of the regulation.
+(4)
 (5) The effect of a regulation providing that a territory outside New Zealand is a reportable jurisdiction may be suspended by a determination made by the Commissioner under section 91AAV.
+(6) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 226E Application of changes to CRS standard
 (1) The Governor-General may from time to time, by Order in Council, make regulations relating to a change in the CRS standard or the CRS publication providing for—
@@ -9516,9 +9571,7 @@ The Governor-General may, from time to time, by Order in Council, amend Schedule
   (c) the effect or lack of effect of a change to the CRS applied standard on the obligations and liabilities of a person or entity or class of persons or entities.
 (2) A regulation may set out the period for which it is to apply, which must not begin before the latest reporting period that finishes before the regulation is made.
 (3) A regulation may provide for the change, extension, limitation, suspension, or cancellation of an earlier regulation.
-(4) Within 30 days of the making of a regulation under this section, the Commissioner must publish in a publication chosen by the Commissioner—
-  (a) the new or changed regulation:
-  (b) details of the extension, limitation, suspension, or cancellation of the regulation.
+(4) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ## Part 14 — Transitional provisions and savings
 
@@ -9570,6 +9623,7 @@ The Governor-General may, from time to time, by Order in Council, amend Schedule
   (b) a consultative process has been undertaken that—
     (i) includes the distribution of draft regulations and an explanation of the way in which the regulations would meet the requirements of paragraph (a) to persons or organisations that represent taxpayers that it is reasonable to consult with for the purposes of this section; and
     (ii) provides a period of consultation of at least 4 weeks.
+(5B) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 (6) This section and any unexpired regulations made under this section expire and are repealed on 31 December 2021.
 
 ### 227C Transitional provision: voluntary application of employment income information provisions
@@ -10038,7 +10092,7 @@ Section 18 does not prevent the Commissioner disclosing to a government agency o
   (b) may be renewed or replaced from time to time by an Order in Council made—
     (i) on the recommendation of the Minister of Revenue; and
     (ii) before the date on which the order would otherwise expire.
-(5) An Order in Council made under subclause (3) or (4) is a legislative instrument and a disallowable instrument for the purposes of the Legislation Act 2012, and must be presented to the House of Representatives under section 41 of that Act.
+(5) An Order in Council under subclause (3) or (4) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 (6) In this clause, government agency means—
   (a) a department named in Part 1 of Schedule 2 of the Public Service Act 2020:
   (b) the New Zealand Police:
@@ -10102,6 +10156,7 @@ Section 18 does not prevent the Commissioner communicating to any Registrar, in 
   (d) 30 days after the formal notification under paragraph (b),—
     (i) the taxpayer has an amount of reportable unpaid tax that is greater than the amount prescribed, from time to time, by the Governor-General by Order in Council:
     (ii) the taxpayer has an amount of reportable unpaid tax that has been unpaid for a year, and, in the Commissioner’s judgement, the proportion of the unpaid amount to the taxpayer’s assessable income for that year is 30% or more.
+(3B) An order under subclause (3)﻿(d)﻿(i) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 (4) Subclauses (5), (6), and (7) also apply when—
   (a) a taxpayer has an amount of reportable unpaid tax; and
   (b) the Commissioner has formally notified the taxpayer that—
