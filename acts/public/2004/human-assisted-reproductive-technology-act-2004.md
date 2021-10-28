@@ -1,5 +1,5 @@
 # Human Assisted Reproductive Technology Act 2004
-_Consolidation as at 2020-12-01_
+_Consolidation as at 2021-10-28_
 
 ### 1 Title
 This Act is the Human Assisted Reproductive Technology Act 2004.
@@ -97,6 +97,7 @@ In this Act, unless the context otherwise requires,—
   (d) an ethical analysis of the procedure or treatment:
   (e) advice as to whether, in its expert opinion, the Minister should recommend that the procedure or treatment be declared an established procedure.
 (3) Promptly after providing the Minister with a report under subsection (2), the chairperson of the advisory committee must ensure that the report is published on the Internet.
+(4) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 7 Act binds the Crown
 This Act binds the Crown.
@@ -339,6 +340,7 @@ If the ethics committee cancels an approval, the person who, immediately before 
 (1) For the purpose of allowing time for the development of advice or guidelines, or both, about any kind of assisted reproductive procedure or human reproductive research, the Governor-General may, by Order in Council made on the recommendation of the Minister, declare a particular kind of assisted reproductive procedure or human reproductive research to be subject to a moratorium for a period not exceeding 18 months.
 (2) The Governor-General may, by Order in Council made on the recommendation of the Minister, extend a moratorium imposed under subsection (1) for 1 further period not exceeding 18 months.
 (3) After the imposition of a moratorium under subsection (1) on a form of assisted reproductive procedure or human reproductive research, the advisory committee must, by a date agreed with the Minister, provide the Minister with information, advice, and, if the committee thinks fit, recommendations on that form of procedure or research.
+(4) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 25 Committee must not consider applications for approvals subject to moratorium
 During any time that a kind of assisted reproductive procedure or human reproductive research is subject to a moratorium imposed under section 24, the ethics committee must not consider or grant a request to approve a proposal for that form of procedure or research.
@@ -453,6 +455,7 @@ The Minister must establish a committee to be known as the Advisory Committee on
   (a) the application, and health outcomes, of assisted reproductive procedures and established procedures; and
   (b) developments in human reproductive research.
 (3) For the purpose of assisting the advisory committee in the performance of its functions, the Director-General of Health must provide the committee with administrative support.
+(4) Guidelines under subsection (1)﻿(aa) or (a) are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 **Guidelines and advice**
 
@@ -460,16 +463,9 @@ The Minister must establish a committee to be known as the Advisory Committee on
 (1) The advisory committee may issue guidelines only after it has,—
   (a) on the basis of a discussion paper or an outline of the proposed guidelines, given interested parties and members of the public a reasonable opportunity to make submissions; and
   (b) taken any such submissions into account.
-(2) When the advisory committee issues guidelines, it must—
-  (a) give copies of the guidelines to the Minister, the Director-General of Health, to the ethics committee, and to providers; and
-  (b) publish the guidelines on the Internet and in any other publications (if any) that the committee thinks appropriate; and
-  (c) give public notice of the issue of the guidelines by publishing in any publication that it considers appropriate for the purpose a notice that states—
-    (i) the date and subject matter of the guidelines; and
-    (ii) the Internet website on which they are published.
-(3) As soon as practicable after receiving a copy of guidelines under subsection (2)﻿(a), the Minister must present a copy of those guidelines to the House of Representatives.
-(4) The Director-General of Health must ensure that there are—
-  (a) sufficient copies of guidelines published under this section available for public inspection, free of charge, at the Head Office of the Ministry of Health during normal office hours; and
-  (b) sufficient copies of those guidelines available, either for distribution free of charge or for purchase at a reasonable price during normal office hours, at places designated by the Director-General of Health.
+(2) When the advisory committee issues guidelines, it must give copies of them to the Minister, Director-General of Health, ethics committee, and providers.
+(3)
+(4)
 
 ### 37 Advisory committee to provide specific advice in respect of human reproductive research
 (1) The advisory committee must, within time frames agreed with the Minister, provide the Minister with information, advice, and, if it thinks fit, recommendations on the following matters in relation to the use of gametes and embryos in human reproductive research:
@@ -898,6 +894,7 @@ No authorised person, or a person requested to assist an authorised person, or a
   (b) in connection with, or for the purposes of, the performance of assisted reproductive procedures, the conduct of human reproductive research, or any other lawful use or uses of the gametes, embryos, or both.
 (1B) Subsection (1A) does not limit subsection (1)﻿(a)﻿(i) or the power under section 6 to declare procedures or treatments not to be established procedures if they involve the use of gametes or embryos collected from a person, who has since died, who did not consent to the specific use of the gametes or embryos before that person’s death.
 (2) Regulations under subsection (1)﻿(a) may be made only on the recommendation of the Minister after the Minister has consulted and received advice from the advisory committee and consulted any other person the Minister thinks fit to consult.
+(3) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 77 Liability of employers, principals, and directors
 (1) An act done by a person as the employee (the employee) of another person (the employer) is, for the purposes of an offence against this Act, to be treated as done by the employer as well as by the employee if—
