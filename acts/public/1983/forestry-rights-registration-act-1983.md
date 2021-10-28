@@ -1,11 +1,12 @@
 # Forestry Rights Registration Act 1983
-_Consolidation as at 2018-11-12_
+_Consolidation as at 2021-10-28_
 
 > An Act to provide for the creation and registration of forestry rights
 
 ### 1 Short Title and commencement
 (1) This Act may be cited as the Forestry Rights Registration Act 1983.
 (2) This Act shall come into force on a date to be appointed by the Governor-General by Order in Council.
+(3) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 2 Interpretation
 In this Act, unless the context otherwise requires,—
@@ -62,6 +63,7 @@ For the purposes of the Resource Management Act 1991, the creation of a forestry
 ### 7 Regulations
 (1) The Governor-General may from time to time, by Order in Council, make all such regulations as are necessary or expedient for giving effect to the provisions of this Act and the due administration thereof.
 (2) Without limiting the general power to make regulations conferred by subsection (1), regulations may be made under this section prescribing such matters as are necessary or expedient for regulating the mode of registration and the form of forestry rights under the Land Transfer Act 2017.
+(3) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 8 Land Settlement Promotion and Land Acquisition Act 1952 not to apply
 [Repealed]
