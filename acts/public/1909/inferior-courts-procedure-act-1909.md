@@ -1,5 +1,5 @@
 # Inferior Courts Procedure Act 1909
-_Consolidation as at 2017-03-01_
+_Consolidation as at 2021-10-28_
 
 > An Act to make further provision for the validity of the judicial proceedings of inferior Courts notwithstanding technical or formal errors
 
@@ -22,7 +22,7 @@ In this Act the term inferior Court means—
 No judgment, order, conviction, warrant, or other document or instrument made or issued by any inferior Court, or in pursuance of any proceedings in any such Court, shall, in any proceedings whatsoever, be quashed, or declared invalid, or held to be invalid because that judgment, order, conviction, warrant, document, or instrument does not state on the face of it the grounds of the jurisdiction by virtue of which it was so made or issued, or because it states those grounds imperfectly or erroneously; and it shall be presumed that sufficient grounds of jurisdiction existed unless it is proved or appears on the face thereof that the judgment, order, conviction, warrant, document, or instrument was made or issued without or in excess of jurisdiction.
 
 ### 5 Exemptions need not be negatived
-It shall not be necessary in any judgment, order, conviction, or warrant given, made, or issued by an inferior Court to negative (either specially or by general words) any exemption, exception, proviso, or condition expressed in the statutes, regulations, bylaws, or other authorities in pursuance of which the judgment, order, conviction, or warrant is given, made, or issued.
+It shall not be necessary in any judgment, order, conviction, or warrant given, made, or issued by an inferior Court to negative (either specially or by general words) any exemption, exception, proviso, or condition expressed in the legislation or other authorities in pursuance of which the judgment, order, conviction, or warrant is given, made, or issued.
 
 ### 6 Sufficiency of description of offence
 No conviction by an inferior Court for any offence shall in any proceedings whatever be quashed, or declared to be invalid, or held to be invalid, because of any error or omission in the description of the offence, provided that the conviction sufficiently describes the offence to enable it to be identified by reasonable intendment.
