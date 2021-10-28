@@ -1,5 +1,5 @@
 # Costs in Criminal Cases Act 1967
-_Consolidation as at 2017-03-01_
+_Consolidation as at 2021-10-28_
 
 > An Act to amend the law relating to the payment of costs in criminal cases
 
@@ -84,6 +84,7 @@ Before deciding whether to award costs under this Act the court shall allow any 
   (a) apply scales of costs, fees, or expenses prescribed from time to time under other enactments:
   (b) delegate, or empower a court to delegate, to any person or officer the power to determine the costs to be allowed under any particular head.
 (3) Where any maximum scale of costs is prescribed by regulation, the court may nevertheless make an order for the payment of costs in excess of that scale if it is satisfied that, having regard to the special difficulty, complexity, or importance of the case, the payment of greater costs is desirable.
+(4) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 14 Consequential amendments and repeals
 (1) Amendment(s) incorporated in the Act(s).
