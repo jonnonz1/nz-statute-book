@@ -1,5 +1,5 @@
 # Fisheries (Quota Operations Validation) Act 1997
-_Consolidation as at 1997-08-25_
+_Consolidation as at 2021-10-28_
 
 > An Act to confirm and validate certain matters in relation to the quota management system
 
@@ -21,6 +21,7 @@ The purpose of this Act is to confirm and validate—
   - **Regulations** means the Fisheries (Catch Against Quota) Regulations 1993.
 (2) The terms core catch rights, deemed value, established underfishing entitlement, landed catch, overfishing right, quota, quota register, and underfishing right have the same meanings as in the Regulations.
 (3) The Governor-General may by Order in Council declare an appointed date earlier than 31 December 1997 for the purposes of sections 5 and 6.
+(4) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 4 Overfishing and underfishing rights and entitlements
 (1) For the avoidance of doubt, section 28V of the Fisheries Act 1983 is to be treated for all purposes of that Act, and of the Fisheries Act 1996, as authorising, and having since 1 August 1986 authorised,—
@@ -51,7 +52,7 @@ The purpose of this Act is to confirm and validate—
   (b) the lease or sublease is accordingly deemed to be and to have always been validly recorded against the quota in the quota register until the relevant date determined under paragraph (a); and
   (c) the allocation of landed catch against the quota or established underfishing entitlements or overfishing rights, and the assessment of deemed values, are to be determined under the Act and the Regulations accordingly.
 (3) This section applies throughout the period from 1 August 1986 to the appointed date (both dates inclusive) to any lease or sublease registered on the quota register at any time during that period.
-(4) Subsections (1) and (2) also apply on and after the appointed date in respect of any quota and any lease or sublease (whenever registered) for so long as the quota or lease or sublease is held by the Crown as forfeit quota under section 107B of the Act, but as if subsections (1)(a)(ii) and (2)(a)(ii) were omitted.
+(4) Subsections (1) and (2) also apply on and after the appointed date in respect of any quota and any lease or sublease (whenever registered) for so long as the quota or lease or sublease is held by the Crown as forfeit quota under section 107B of the Act, but as if subsections (1)﻿(a)﻿(ii) and (2)﻿(a)﻿(ii) were omitted.
 
 ### 6 Retrospective treatment of variation of leases, etc
 (1) Where a variation to a lease or other transaction recorded in the quota register has been notified to the Ministry and registered, the treatment of the lease or transaction as if the variation had been part of the original lease or transaction is deemed to be and to have always been valid for all purposes of the Act, and—
@@ -71,3 +72,4 @@ This Act has effect for the purpose of determining any proceedings commenced on 
   (a) rules that prescribe circumstances in which payments may be made to persons or classes of persons (including persons who have left the commercial fishing industry) in respect of any matter dealt with in this Act, and the amount or maximum amount or method of assessment of any such payments:
   (b) rules as to the application of the money towards the development or implementation of any measures relating to or arising directly or indirectly from the matters dealt with in this Act that are agreed between the Minister and such persons or organisations as the Minister considers are representative of the commercial fishing industry:
   (c) rules that specify the proportion or maximum proportion of the money to be allocated in respect of the resolution of issues or of a particular issue relating to any particular type or class of affected person or measure.
+(3) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
