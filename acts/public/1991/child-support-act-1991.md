@@ -1,5 +1,5 @@
 # Child Support Act 1991
-_Consolidation as at 2021-10-26_
+_Consolidation as at 2021-10-28_
 
 > Title
 
@@ -3203,6 +3203,9 @@ For the purposes of this Part, unless the context otherwise requires,—
   (c) amend or revoke any previous Order in Council which applied in respect of any such agreement which is no longer in force or which is intended to be no longer in force on the commencement of the Order in Council.
 (2) The Governor-General may, by the same or a subsequent Order in Council, specify the date on which any Order in Council made under subsection (1) is to come into force or cease to be in force, which in either case may be a date before or on or after the date on which the Order in Council is so made.
 (3) Where any agreement has effect under this section, the obligation as to secrecy imposed by any enactment, and in particular by section 18(1) of the Tax Administration Act 1994, shall not prevent the Commissioner or any authorised officer of the Inland Revenue Department from disclosing to any authorised officer of the government with which the agreement is made such information as is required to be disclosed under the agreement.
+(4) An order under this section—
+  (a) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements); but
+  (b) commences in accordance with subsection (2), even if it is not yet published.
 
 ## Part 14 — General provisions
 
@@ -3397,6 +3400,7 @@ Every question of fact arising in any proceeding under this Act (not being crimi
     (i) the prescribing of the procedure for the taking of the evidence of witnesses who are beyond New Zealand; and
     (ii) the taking of evidence before any District Court Judge or the Registrar of any court (whether or not the proceeding was commenced in that court) and the making of such incidental provision as the Governor-General thinks fit, including provision for requiring the attendance of witnesses, the answering of questions, and the production of documents:
   (f) provide for any other matters in respect of which rules are contemplated under this Act.
+(3) Rules and regulations under subsection (1) are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 235 Regulations
 (1) The Governor-General may from time to time, by Order in Council, make regulations, not inconsistent with this Act, for all or any of the following purposes:
@@ -3408,6 +3412,7 @@ Every question of fact arising in any proceeding under this Act (not being crimi
   (e) prescribing the duties and functions of officers and other persons appointed or employed under this Act:
   (f) prescribing offences in respect of the contravention of or non-compliance with any regulations made under this Act, and the amount of the fines that may be imposed in respect of any such offences, which fines shall be an amount not exceeding $500:
   (g) providing for such matters as are contemplated by or necessary for giving full effect to the provisions of this Act and for its due administration.
+(2) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 (2)
 (3)
 
