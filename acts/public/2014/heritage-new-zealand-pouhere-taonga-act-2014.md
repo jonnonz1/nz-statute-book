@@ -1,5 +1,5 @@
 # Heritage New Zealand Pouhere Taonga Act 2014
-_Consolidation as at 2020-08-07_
+_Consolidation as at 2021-10-28_
 
 ### 1 Title
 This Act is the Heritage New Zealand Pouhere Taonga Act 2014.
@@ -1267,7 +1267,7 @@ In this subpart, place—
 **Regulations**
 
 ### 99 Regulations
-The Governor-General may, by Order in Council made on the recommendation of the Minister, make regulations for all or any of the following purposes:
+(1) The Governor-General may, by Order in Council made on the recommendation of the Minister, make regulations for all or any of the following purposes:
   (a) prescribing—
     (i) offences for the contravention of, or non-compliance with, any regulations made under this Act; and
     (ii) fines not exceeding $5,000 in respect of those offences:
@@ -1279,6 +1279,7 @@ The Governor-General may, by Order in Council made on the recommendation of the 
   (e) prescribing time limits for actions to be taken or decisions to be made that are not otherwise provided for in this Act:
   (f) prescribing criteria for the purposes of section 66(4) and (6):
   (g) providing for such other matters as may be contemplated by or necessary for giving full effect to this Act and its administration.
+(2) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 **Savings and transitional provisions**
 
