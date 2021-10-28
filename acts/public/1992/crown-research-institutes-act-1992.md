@@ -1,5 +1,5 @@
 # Crown Research Institutes Act 1992
-_Consolidation as at 2020-12-01_
+_Consolidation as at 2021-10-28_
 
 > An Act to provide for the formation of Crown-owned companies to undertake scientific research and other related activities, and to provide for matters incidental thereto
 
@@ -276,6 +276,7 @@ Nothing in this Act shall be construed as requiring the inclusion in any stateme
 (4) Where an Order in Council is made under subsection (3), the provisions of the Act referred to in the order shall, with all necessary modifications, continue to apply in relation to the land and the terms or conditions of the lease, licence, permit, or right subject to any agreement to—made between the owner for the time being of the land and the holder for the time being of the lease, licence, permit, or right.
   (a) amend or revoke any such term or condition; or
   (b) revoke any such term or condition and substitute another term or condition for it—
+(5) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 29 Provisions relating to transfer of land
 (1) Notwithstanding any other provision of this Act, Crown land within the meaning of the Land Act 1948 and any lands of the Crown other than lands registered under the Land Transfer Act 2017 that are to be transferred to a Crown Research Institute pursuant to this Act shall—
@@ -344,6 +345,7 @@ The provisions of Part 2 of the Land Settlement Promotion and Land Acquisition A
   (f) declare that any Order in Council made under this section shall be deemed to be notice to all persons, and that specific notice need not be given to any authority or other person:
   (g) direct any authority or other person to register or record any such vesting or declaration.
 (2) Every Order in Council made under this section may be made on such terms and conditions as the Governor-General thinks fit, and shall have effect according to its tenor.
+(3) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 39 Transfer of employees
 (1) Notwithstanding anything in section 88 of the Public Service Act 2020, where the chief executive of a government department finds, in respect of any duties being carried out by the department, that those duties are no longer to be carried out by the department and are to be carried out (in whole or in part) by a Crown Research Institute, that chief executive and the chief executive of that Crown Research Institute may, subject to subsection (3), agree to the transfer, from that department to that Crown Research Institute, of all or any of the employees of that department who are carrying out those duties.
@@ -400,6 +402,7 @@ A failure by a Crown Research Institute to comply with any provision contained i
 (1) The enactments specified in Schedule 2 are hereby repealed.
 (2)–(4) Amendment(s) incorporated in the Act(s).
 (5) This section shall come into force on a date to be appointed by the Governor-General by Order in Council.
+(6) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 49 Amendments to Fertilisers Act 1982
 (1)
