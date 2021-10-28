@@ -1,11 +1,12 @@
 # Crimes (Internationally Protected Persons, United Nations and Associated Personnel, and Hostages) Act 1980
-_Consolidation as at 2013-07-01_
+_Consolidation as at 2021-10-28_
 
 > An Act to give effect to—athe Convention on the Prevention and Punishment of Crimes Against Internationally Protected Persons, including Diplomatic Agents, 1973; andbthe Convention Against the Taking of Hostages 1979; andcthe Convention on the Safety of United Nations and Associated Personnel 1994; anddthe Optional Protocol to the Convention on the Safety of United Nations and Associated Personnel 1994;—and for matters incidental to the implementation of those Conventions
 
 ### 1 Short Title and commencement
 (1) This Act may be cited as the Crimes (Internationally Protected Persons, United Nations and Associated Personnel, and Hostages) Act 1980.
 (2) This Act shall come into force on a date to be appointed by the Governor-General by Order in Council, and different dates may be so appointed for the commencement of this Act in respect of the 1973 Convention and the 1979 Convention.
+(3) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 2 Interpretation
 (1) In this Act, unless the context otherwise requires,—
@@ -50,7 +51,7 @@ _Consolidation as at 2013-07-01_
       (ii) a specialised agency of the United Nations; or
       (iii) the International Atomic Energy Agency—
   - **vehicle** includes any means of conveyance.
-(2) In paragraph (a)﻿(i) of the definition of the term internationally protected person in subsection (1), the term Head of State includes, in relation to any Commonwealth country (other than the United Kingdom) of which Her Majesty the Queen is Head of State, the Governor-General or other person who performs the functions of the Head of State as Her Majesty's representative.
+(2) In paragraph (a)﻿(i) of the definition of the term internationally protected person in subsection (1), the term Head of State includes, in relation to any Commonwealth country (other than the United Kingdom) of which the Sovereign is Head of State, the Governor-General or other person who performs the functions of the Head of State as the Sovereign's representative.
 
 **Internationally protected persons and United Nations and associated personnel**
 
