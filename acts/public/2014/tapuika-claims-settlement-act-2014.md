@@ -1,5 +1,5 @@
 # Tapuika Claims Settlement Act 2014
-_Consolidation as at 2021-01-30_
+_Consolidation as at 2021-10-28_
 
 ### 1 Title
 This Act is the Tapuika Claims Settlement Act 2014.
@@ -672,13 +672,14 @@ The only purposes of the Whenua Rāhui are—
 (3) The amendment is an amendment for the purposes of section 17I(1) to (3) of the Conservation Act 1987 and section 46(1) to (4) of the National Parks Act 1980.
 
 ### 55 Regulations
-The Governor-General may, by Order in Council made on the recommendation of the Minister of Conservation, make regulations for 1 or more of the following purposes:
+(1) The Governor-General may, by Order in Council made on the recommendation of the Minister of Conservation, make regulations for 1 or more of the following purposes:
   (a) to provide for the implementation of objectives included in a strategy or plan under section 54(1):
   (b) to regulate or prohibit activities or conduct by members of the public in relation to the Whenua Rāhui area:
   (c) to create offences for breaches of regulations made under paragraph (b):
   (d) to prescribe the following fines:
     (i) a fine not exceeding $5,000 for an offence referred to in paragraph (c); and
     (ii) if the offence is a continuing one, a further amount not exceeding $50 for every day on which the offence continues.
+(2) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 56 Bylaws
 (1) The Minister of Conservation may make bylaws for 1 or more of the following purposes:
@@ -688,9 +689,7 @@ The Governor-General may, by Order in Council made on the recommendation of the 
   (d) to prescribe the following fines:
     (i) a fine not exceeding $1,000 for an offence referred to in paragraph (c); and
     (ii) if the offence is a continuing one, a further amount not exceeding $50 for every day on which the offence continues.
-(2) Bylaws made under this section—
-  (a) are a legislative instrument and a disallowable instrument for the purposes of the Legislation Act 2012; and
-  (b) must be presented to the House of Representatives under section 41 of that Act.
+(2) Bylaws under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 57 Termination of Whenua Rāhui
 (1) The Governor-General may, by Order in Council made on the recommendation of the Minister of Conservation, declare that all or part of the Whenua Rāhui area is no longer subject to the Whenua Rāhui.
@@ -701,6 +700,7 @@ The Governor-General may, by Order in Council made on the recommendation of the 
 (3) The Crown must take reasonable steps to ensure that the trustees continue to have input into the management of the Whenua Rāhui area if—
   (a) subsection (2)﻿(c) applies; or
   (b) there is a change in the statutory management regime that applies to all or part of the Whenua Rāhui area.
+(4) The Minister of Conservation must ensure that an order under this section is published in the Gazette.
 
 ### 58 Exercise of powers and performance of functions and duties
 (1) The Whenua Rāhui does not affect, and must not be taken into account by, any person exercising a power or performing a function or duty under an enactment or a bylaw.
@@ -1033,6 +1033,7 @@ In this subpart, unless the context otherwise requires,—
   (c) Ngāti Rangiwewehi:
   (d) Ngāti Pūkenga:
   (e) Waitaha.
+(4) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 98 Ōtanewainuku
 (1) Ōtanewainuku ceases to be a conservation area under the Conservation Act 1987.
