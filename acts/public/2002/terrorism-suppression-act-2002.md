@@ -1,5 +1,5 @@
 # Terrorism Suppression Act 2002
-_Consolidation as at 2021-10-05_
+_Consolidation as at 2021-10-28_
 
 ### 1 Title
 This Act is the Terrorism Suppression Act 2002.
@@ -9,6 +9,7 @@ This Act is the Terrorism Suppression Act 2002.
 ### 2 Commencement
 (1) Except as provided in subsection (2), this Act comes into force on the day after the date on which it receives the Royal assent.
 (2) Sections 18, 63 to 66, 68, 69, 76, 79, and 80 come into force on a date appointed by Order in Council.
+(3) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 3 Purpose of this Act
 The purpose of this Act is—
@@ -335,7 +336,7 @@ Material support excludes humanitarian support to satisfy basic needs
 **Authorisations to deal with property, or to make property, or material support, available**
 
 ### 11 Authorisations by Prime Minister
-(1) The Prime Minister may, by notice in writing, permit any activity or transaction or class or classes of activities or transactions that would otherwise be prohibited by section 9(1) or section 10(1).
+(1) The Prime Minister may, by notice, permit any activity or transaction or class or classes of activities or transactions that would otherwise be prohibited by section 9(1) or section 10(1).
 (2) Any authorisation of that kind—
   (a) may be subject to terms or conditions; and
   (b) may be amended, revoked, or revoked and replaced.
@@ -343,6 +344,9 @@ Material support excludes humanitarian support to satisfy basic needs
 (4) However, subsection (3) does not apply if—
   (a) the authorisation is subject to terms or conditions imposed under subsection (2)﻿(a); and
   (b) those terms or conditions are not satisfied.
+(5) The following are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements):
+  (a) an authorisation under this section:
+  (b) an instrument under subsection (2)﻿(b) that amends, revokes, or revokes and replaces an authorisation under this section.
 
 **Recruitment of members of terrorist groups**
 
@@ -1091,10 +1095,11 @@ Nothing in this Act affects the Criminal Proceeds (Recovery) Act 2009.
 **Regulations**
 
 ### 73 Regulations
-The Governor-General may, by Order in Council, make regulations for all or any of the following purposes:
+(1) The Governor-General may, by Order in Council, make regulations for all or any of the following purposes:
   (a) prescribing the forms of notices, reports, or other documents required under, or contemplated by, this Act, and requiring the use of the forms prescribed:
   (b) prescribing methods for the giving or publication or service of notices, reports, or other documents required by this Act to be given or published or served:
   (c) providing for any other matters contemplated by this Act, necessary for its administration, or necessary for giving it full effect.
+(2) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 **Revocations**
 
