@@ -1,5 +1,5 @@
 # Wanganui Harbour and River Conservators Board Act 1876
-_Consolidation as at 2013-07-01_
+_Consolidation as at 2021-10-28_
 
 > An Act to constitute a Harbour and River Conservators Board for the Port and River of Wanganui.
 
@@ -204,6 +204,7 @@ In the construction of this section, the word plan means the plan authenticated 
 The Governor, with the advice and consent of the Executive Council of New Zealand, may, in the name and on behalf of Her Majesty, grant to the Board the several lots and parcels of land marked respectively with the letters A, B, C, D, E, F, G, H, J, K, and L on the plan, and thereon coloured pink, and respectively containing the acreage specified in the Schedule hereto.
 There shall be excepted out of Lot E of the said lands hereby authorized to be granted, such part of the said Lot E, not exceeding 1 acre in extent, as the Governor shall think fit, and the same shall be deemed to be vested in Her Majesty as a reserve for the use of the Maori inhabitants of the Town of Wanganui and the neighbourhood, as a market-place and place for landing and embarking goods and persons, and for such other purposes as the Governor may from time to time determine.
 The Governor in Council may from time to time make alter and repeal by-laws regulating the use of the said piece of land and the conduct of persons using the same, and may appoint by such by-laws penalties not exceeding in any case $10 for the breach of such by-laws or any of them, and all such penalties shall be recoverable in accordance with Part 3 of the Summary Proceedings Act 1957.
+Bylaws under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 There shall be excepted out of Lot H of the said lands hereby authorized to be granted, such portions of the said lot as are marked on the plan as reserves for a flagstaff battery and for a signal station respectively, each of which said reserves shall contain an area of ten acres.
 There shall be excepted out of Lot J of the said lands, such portion of the said lot as is marked on the plan as a reserve for a land-guard battery, containing an area of twenty acres.
 
