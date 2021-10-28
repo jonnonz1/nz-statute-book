@@ -1,5 +1,5 @@
 # Charities Act 2005
-_Consolidation as at 2021-10-05_
+_Consolidation as at 2021-10-28_
 
 ### 1 Title
 This Act is the Charities Act 2005.
@@ -8,6 +8,7 @@ This Act is the Charities Act 2005.
 (1) Section 1, this section, and sections 11(4), 42, and 73 come into force on the day after the date on which this Act receives the Royal assent.
 (2) Part 1 (except section 11(4)), sections 62, 63, and 76, and the Schedule come into force on 1 July 2005.
 (3) The rest of this Act comes into force on a date to be appointed by the Governor-General by Order in Council; and 1 or more orders may be made bringing different provisions into force on different dates.
+(4) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ## Part 1 — Preliminary matters and functions relating to charities
 
@@ -539,7 +540,7 @@ If a charitable entity fails to comply with section 42C, the charitable entity c
 (2) The exemption may be granted on any terms and conditions that the chief executive thinks fit.
 (3) The chief executive may vary an exemption in the same way as an exemption may be granted under this section.
 (4) The chief executive may, by written notice to an entity, revoke an exemption granted under this section.
-(5) An exemption under this section is neither a legislative instrument nor a disallowable instrument for the purposes of the Legislation Act 2012 and does not have to be presented to the House of Representatives under section 41 of that Act.
+(5)
 
 **Board or chief executive may treat entity and affiliated or closely related entities as single entity**
 
@@ -844,6 +845,10 @@ Amendment(s) incorporated in the Act(s).
 (3) The Board or the chief executive may refuse to perform a function or exercise a power until the fee prescribed by regulations is paid.
 (4) Any Order in Council made under subsection (1) may authorise the Board or the chief executive to refund or waive, in whole or in part and on any conditions as may be prescribed by regulations, payment of any fee or amount payable in relation to any person or class of persons.
 (5) Any fee or amount payable to the Board or the chief executive is recoverable by the Board or the chief executive in any court of competent jurisdiction as a debt due to the Board or the chief executive.
+(6) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+(7) If the regulations authorise the chief executive to refund or waive a fee in relation to any class of persons under subsection (4),—
+  (a) the instrument refunding or waiving the fee is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements); and
+  (b) the regulations must contain a statement to that effect.
 
 ### 74 Prosecution of offences
 (1) Proceedings in respect of an offence against this Act must be commenced by the chief executive or a person authorised by the chief executive (the authorised person).
@@ -1126,7 +1131,8 @@ On the commencement of this section,—
 (3) For the purpose of applying the Government Superannuation Fund Act 1956, the chief executive of the department is the controlling authority.
 
 ### 15 Other savings and transitional matters
-The Governor-General may, by Order in Council, provide for savings and transitional matters connected with the disestablishment of the Charities Commission, including the transfer of functions formerly carried out by the Commission.
+(1) The Governor-General may, by Order in Council, provide for savings and transitional matters connected with the disestablishment of the Charities Commission, including the transfer of functions formerly carried out by the Commission.
+(2) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 1 Title
 This Act is the Financial Reporting (Amendments to Other Enactments) Act 2013.
