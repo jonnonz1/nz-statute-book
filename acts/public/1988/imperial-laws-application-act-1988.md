@@ -1,5 +1,5 @@
 # Imperial Laws Application Act 1988
-_Consolidation as at 2015-03-26_
+_Consolidation as at 2021-10-28_
 
 > An Act to specify the extent to which Imperial enactments, Imperial subordinate legislation, and the common law of England are part of the laws of New Zealand
 
@@ -21,15 +21,13 @@ In this Act, unless the context otherwise requires,—
 (6) Where—the Governor-General may, by Order in Council, make such consequential amendments to that schedule as may be necessary to give effect to that revocation or declaration.
   (a) any Imperial subordinate legislation listed in Schedule 2 is revoked; or
   (b) it is declared that any such Imperial subordinate legislation shall cease to have effect as part of the laws of New Zealand,—
-(7) An Order in Council made under subsection (6) is a legislative instrument and a disallowable instrument for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
+(7) An order under subsection (6) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 4 Other Imperial enactments and Imperial subordinate legislation not part of laws of New Zealand
 (1) After the commencement of this Act, no Imperial enactments passed before the commencement of this Act (other than those listed in Schedule 1), and, subject to subsection (2), no Imperial subordinate legislation made before the commencement of this Act (other than that listed in Schedule 2), shall be part of the laws of New Zealand.
 (2) Nothing in subsection (1) applies in respect of any Order in Council made under the provisions of the Extradition Acts 1870 to 1935 of the United Kingdom Parliament and that had effect as part of the laws of New Zealand immediately before the commencement of this Act by virtue of section 21 of the Extradition Act 1965 and is continued in effect by section 104(2) of the Extradition Act 1999.
 (3) Nothing in subsection (1) affects the question whether any provision of any Imperial enactment or Imperial subordinate legislation was part of the laws of New Zealand at any time before the commencement of this Act.
-(4) Where any Imperial enactment or any Imperial subordinate legislation ceases, on the commencement of this Act, to be part of the laws of New Zealand, the Acts Interpretation Act 1924 shall apply,—
-  (a) in the case of an Imperial enactment, as it would apply on the repeal of an Act of the Parliament of New Zealand:
-  (b) in the case of any Imperial subordinate legislation, as it would apply on the revocation of a regulation made under the authority of any such Act.
+(4)
 
 ### 5 Application of common law of England
 After the commencement of this Act, the common law of England (including the principles and rules of equity), so far as it was part of the laws of New Zealand immediately before the commencement of this Act, shall continue to be part of the laws of New Zealand.
@@ -41,6 +39,19 @@ After the commencement of this Act, the common law of England (including the pri
     (ii) in any other case, if it is made by the Sovereign in right of New Zealand acting by and with the advice and consent of the Executive Council:
   (b) the Governor-General in Council shall have and may exercise that power for the purpose of making subordinate legislation that has effect as part of the laws of New Zealand.
 (2) Except as provided by subsection (1), no Imperial subordinate legislation made after the commencement of this Act shall have effect as part of the laws of New Zealand.
+
+### 6A Application of Legislation Act 2019 to Imperial legislation
+(1) For the purposes of the Legislation Act 2019 and all other legislation, an Imperial enactment that is part of the laws of New Zealand is an Act (as if it were an Act enacted by the Parliament of New Zealand).
+(2) For the purposes of the Legislation Act 2019 and all other legislation, Imperial subordinate legislation that is part of the laws of New Zealand is secondary legislation (see the Legislation Act 2019 for publication requirements) (as if it were secondary legislation made under the authority of an Act enacted by the Parliament of New Zealand).
+(3) For the purposes of applying the Legislation Act 2019 and other legislation to Imperial enactments and Imperial subordinate legislation,—
+  (a) if the effect of the Imperial enactment or Imperial subordinate legislation, as part of the laws of New Zealand, is modified, the modification must be treated as an amendment:
+  (b) if the Imperial enactment or Imperial subordinate legislation ceases to have effect, as part of the laws of New Zealand, the cessation must be treated as a repeal or revocation:
+  (c) an order made under section 82 of the Legislation Act 2019 in respect of any Imperial subordinate legislation—
+    (i) does not revoke it; but
+    (ii) declares that it ceases to have effect as part of the laws of New Zealand.
+(4) Subsections (1) to (3) apply unless—
+  (a) the legislation provides otherwise; or
+  (b) the context of the legislation requires a different interpretation.
 
 ### 7 Repeal
 The English Laws Act 1908 is hereby repealed.
