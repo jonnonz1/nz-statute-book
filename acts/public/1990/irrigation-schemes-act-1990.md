@@ -1,5 +1,5 @@
 # Irrigation Schemes Act 1990
-_Consolidation as at 2018-11-12_
+_Consolidation as at 2021-10-28_
 
 > An Act to empower the Crown to dispose of irrigation schemes
 
@@ -99,6 +99,7 @@ In this Part, unless the context otherwise requires,—
   (c) section 3 of the Geothermal Energy Act 1953:
   (d) sections 6 and 8 of the Mining Act 1971:
   (e) sections 5 and 261 of the Coal Mines Act 1979.
+(6) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 10 Title to land
 (1) The Registrar-General of Land shall, on written application by any person authorised by the Minister and on payment of the prescribed fee,—
