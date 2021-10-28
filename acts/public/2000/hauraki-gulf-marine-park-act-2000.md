@@ -1,5 +1,5 @@
 # Hauraki Gulf Marine Park Act 2000
-_Consolidation as at 2019-01-17_
+_Consolidation as at 2021-10-28_
 
 ## Preamble
 (1) The Hauraki Gulf has a quality and diversity of biology and landscape that makes it outstanding within New Zealand. The islands of the Gulf are valued as the habitats of plants and animals, once common, now rare, and are often the only places in the world where these species exist naturally:
@@ -344,6 +344,7 @@ If, in the opinion of the Minister, the inclusion of a taiapure-local fishery or
   (a) the existing use of the land:
   (b) the purposes of the Act under which the land is held:
   (c) the status or classification of the land.
+(3) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 39 Removal of land with protected status from Park by change of status of land
 (1) Land, marine mammal sanctuaries, and marine reserves in section 33(2)﻿(a), (b), and (c) may be removed from the Park by any of the following actions:
@@ -380,6 +381,7 @@ The Minister may, by notice in the Gazette, and after considering the purpose of
   (b) have regard to—
     (i) the existing use of the land; and
     (ii) the status or classification (if any) of the land.
+(3) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 42 Entries in register
 The Registrar-General of Land is authorised and directed to make such entry in the register and to do such other things as may be necessary to show the inclusion of land within the Park or the removal of land from the Park.
