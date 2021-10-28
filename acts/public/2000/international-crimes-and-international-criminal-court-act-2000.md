@@ -1,5 +1,5 @@
 # International Crimes and International Criminal Court Act 2000
-_Consolidation as at 2021-10-14_
+_Consolidation as at 2021-10-28_
 
 ### 1 Title
 This Act is the International Crimes and International Criminal Court Act 2000.
@@ -7,6 +7,7 @@ This Act is the International Crimes and International Criminal Court Act 2000.
 ### 2 Commencement
 (1) Sections 6 and 7, sections 14 to 23, Parts 3 to 10, sections 178 to 180, sections 182 to 184, sections 186 and 187, and the Schedule come into force on a date appointed by the Governor-General by Order in Council, and 1 or more Orders in Council may be made appointing different dates for different provisions.
 (2) The rest of this Act comes into force on 1 October 2000.
+(3) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 3 Purpose
 The purpose of this Act is—
@@ -1664,16 +1665,18 @@ Part 6 of the Extradition Act 1999 applies, with any necessary modifications, in
 (2) In any proceeding under this Act, a certificate purporting to have been given under subsection (1) is, in the absence of proof to the contrary, sufficient evidence of the matters certified by the certificate.
 
 ### 179 Regulations
-The Governor-General may, by Order in Council, make regulations for all or any of the following purposes:
+(1) The Governor-General may, by Order in Council, make regulations for all or any of the following purposes:
   (a) prescribing the procedure to be followed in dealing with requests made by the ICC, and providing for notification of the results of action taken in accordance with any such request:
   (b) prescribing the procedures for obtaining evidence or producing documents or other articles in accordance with a request made by the ICC:
   (c) providing for the payment of fees, travelling allowances, and expenses to any person in New Zealand who gives or provides evidence or assistance pursuant to a request made by the ICC:
   (d) prescribing conditions for the protection of any property sent to the ICC pursuant to a request made under this Act, and making provision for the return of property in New Zealand in accordance with a request:
   (e) prescribing the forms of applications, notices, certificates, warrants, and other documents for the purposes of this Act, and requiring the use of such forms:
   (f) providing for any other matters contemplated by this Act, necessary for its administration, or necessary for giving it full effect.
+(2) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 180 Regulations to implement Rules of Evidence and Procedure
-Without limiting section 179, the Governor-General may, by Order in Council, make regulations to implement any obligation that is placed on State Parties by the Rules of Evidence and Procedure if that obligation is not inconsistent with the provisions of this Act.
+(1) Without limiting section 179, the Governor-General may, by Order in Council, make regulations to implement any obligation that is placed on State Parties by the Rules of Evidence and Procedure if that obligation is not inconsistent with the provisions of this Act.
+(2) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 **Consequential amendments to Crimes Act 1961**
 
