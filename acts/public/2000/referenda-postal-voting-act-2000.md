@@ -1,5 +1,5 @@
 # Referenda (Postal Voting) Act 2000
-_Consolidation as at 2017-03-21_
+_Consolidation as at 2021-10-28_
 
 ### 1 Title
 This Act is the Referenda (Postal Voting) Act 2000.
@@ -78,15 +78,17 @@ The purposes of this Act are to—
   (b) provide for the use of postal voting for citizens initiated referenda.
 
 ### 5 Act applies to specified indicative referenda
-This Act applies if the Governor-General makes an Order in Council—
+(1) This Act applies if the Governor-General makes an Order in Council—
   (a) providing that a specified government initiated referendum must be conducted by postal voting; or
   (b) providing that a specified citizens initiated referendum must be conducted by postal voting.
+(2) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ## Part 2 — Voting paper for postal voting
 
 ### 6 Wording of proposals, responses, and questions
 (1) The wording of each proposal to be put to electors in a government initiated referendum is specified by the Governor-General by Order in Council. The Order in Council must also specify the wording of each response for which electors may vote.
 (2) The wording of the question to be put to electors in a citizens initiated referendum is the wording of which notice is given under section 13 of the Citizens Initiated Referenda Act 1993.
+(3) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 7 Form of voting paper
 (1) The voting paper used in a government initiated referendum—
@@ -218,6 +220,7 @@ Nothing in this Act prevents the making of a request for electoral information u
 (1) The referendum roll is a list of all persons whose names are lawfully on any electoral roll for any district on a date to be appointed for the closing of the referendum roll.
 (2) The Governor-General must appoint, by Order in Council, the date for the closing of the referendum roll.
 (3) The Electoral Commission must compile the referendum roll as soon as practicable after that date.
+(4) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 22 Supplementary referendum roll
 (1) The supplementary referendum roll is a list of all persons who meet the following criteria:
@@ -308,6 +311,7 @@ Every elector is qualified to vote at the referendum.
   (a) the House of Representatives has passed a resolution of a kind described in section 22AB(4) or (6) of the Citizens Initiated Referenda Act 1993; or
   (b) the Governor-General has exercised the power in section 22AB(8) of that Act.
 (5) This section is affected by section 22AB of the Citizens Initiated Referenda Act 1993.
+(6) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 **Dispatching voting papers**
 
@@ -784,6 +788,7 @@ In any prosecution for an offence in relation to any voting paper or any envelop
   (b) to validate anything done before or after the time required; or
   (c) to validate anything irregularly done in matter of form; or
   (d) to make such other provision for the case as the Governor-General thinks fit.
+(4) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 79 Two or more referenda
 Two or more referenda may be held during the same voting period or during overlapping voting periods.
@@ -797,6 +802,7 @@ Two or more referenda may be held during the same voting period or during overla
   (e) applying, with or without modifications, for the purposes of this Act, the provisions of the Electoral Act 1993 and any regulations made under that Act:
   (f) providing for such other matters as are contemplated by or necessary for giving full effect to the provisions of this Act and for its due administration.
 (2) Rules of court may be made in the manner prescribed by the Senior Courts Act 2016 for the purposes of this Part.
+(3) Regulations under subsection (1) are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 81 Enactments amended
 The enactments specified in Schedule 2 are amended in the manner indicated in that schedule.
