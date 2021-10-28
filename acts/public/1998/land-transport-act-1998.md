@@ -1,5 +1,5 @@
 # Land Transport Act 1998
-_Consolidation as at 2021-04-01_
+_Consolidation as at 2021-10-28_
 
 > An Act—ato promote safe road user behaviour and vehicle safety; andbto provide for a system of rules governing road user behaviour, the licensing of drivers, and technical aspects of land transport, and to recognise reciprocal obligations of persons involved; andcto consolidate and amend various enactments relating to road safety and land transport; anddto enable New Zealand to implement international agreements relating to road safety and land transport
 
@@ -9,6 +9,7 @@ _Consolidation as at 2021-04-01_
 (3) The repeals specified in clauses 1 to 14 of Part 4 of Schedule 2 come into force on a date to be appointed by the Governor-General by Order in Council; and different dates may be appointed by 1 or more Orders in Council for different provisions in that schedule.
 (4)
 (5) The rest of this Act comes into force on 1 March 1999.
+(6) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ## Part 1 — Preliminary provisions
 
@@ -19,19 +20,19 @@ _Consolidation as at 2021-04-01_
   - **alcohol interlock device** means a device that—
     (a) is a part of the starting system of a motor vehicle; and
     (b) uses breathalyser technology to determine whether the starting system should start the motor vehicle; and
-    (c) is, for the purposes of sections 65AB to 65AK, approved by the Minister of Transport (after consulting the Science Minister) by notice in the Gazette
+    (c) is, for the purposes of sections 65AB to 65AK, approved by the Minister of Transport (after consulting the Science Minister) by notice (see subsection (6))
   - **alcohol interlock licence** means a driver licence issued to a person who has been authorised to obtain an alcohol interlock licence by an order of a court made under section 65AC
   - **alcohol interlock sentence** has the meaning given in section 65AC
   - **alternative fuel system** means a fuel storage and conducting system that is used to provide liquid petroleum gas, compressed natural gas, or any other pressurised liquid or gaseous fuel (other than petrol or diesel) for the purpose of propulsion of a vehicle
   - **ambulance** means a motor vehicle designed and used principally for the carriage of sick or injured persons
   - **apparently younger than 20** has the same meaning as it has in section 71
   - **approved analyst** means—
-    (a) a person who is designated by the Science Minister, by notice in the Gazette, as the analyst in charge of an approved laboratory; or
+    (a) a person who is designated by the Science Minister, by notice (see subsection (6)), as the analyst in charge of an approved laboratory; or
     (b) a person who works in an approved laboratory and who is authorised, by the analyst in charge of that laboratory, to act as an approved analyst, either generally or in a particular case
   - **approved health authority** means an institution approved by the Minister, with the agreement of the Minister of Health, for the purposes of section 209
-  - **approved laboratory** means a laboratory approved by the Science Minister, by notice in the Gazette, for the purposes of analysing blood specimens taken for the purposes of this Act
+  - **approved laboratory** means a laboratory approved by the Science Minister, by notice (see subsection (6)), for the purposes of analysing blood specimens taken for the purposes of this Act
   - **approved provider** , in relation to alcohol interlock devices, means a person approved by the Director to install, maintain, or remove alcohol interlock devices
-  - **approved vehicle surveillance equipment** means vehicle surveillance equipment of a kind approved by the Minister or the Minister of Police, by notice in the Gazette
+  - **approved vehicle surveillance equipment** means vehicle surveillance equipment of a kind approved by the Minister or the Minister of Police, by notice (see subsection (6))
   - **assessment centre** means an establishment or individual for the time being approved as an assessment centre for the purposes of this Act by the chief executive of the Ministry of Health
   - **axle** means 1 or more shafts, spindles, or bearings in the same vertical transverse plane by means of which, in conjunction with wheels mounted on those shafts, spindles, or bearings, a portion of the weight of the vehicle is transmitted to the roadway; and, except as the provisions of this Act or of the rules otherwise provide, the following provisions apply for the purposes of this Act and the regulations and rules:
     (a) if 2 or more wheels of a motor vehicle are substantially in the same line transversely and some or all of them have separate axles, the axles of all those wheels are to be treated as 1 axle:
@@ -40,19 +41,19 @@ _Consolidation as at 2021-04-01_
   - **blood specimen** means a specimen of venous blood taken in accordance with normal medical procedures
   - **blood specimen collecting instrument** means—
     (a) a needle and syringe; or
-    (b) an instrument of a kind designed for the taking of blood specimens approved by the Minister of Police (after consulting the Science Minister and the Minister of Transport) by notice in the Gazette
-  - **blood specimen collecting kit** means a package having endorsed on it or affixed to it or included in it a label indicating that it is a blood specimen collecting kit and that it has been supplied by or on behalf of a laboratory for the time being approved by the Science Minister, by notice in the Gazette, for the purpose of supplying or causing to be supplied blood specimen collecting kits
-  - **blood specimen collecting procedure** means the taking of a blood specimen by a blood specimen collecting instrument in a manner prescribed by the Minister of Police by notice in the Gazette
+    (b) an instrument of a kind designed for the taking of blood specimens approved by the Minister of Police (after consulting the Science Minister and the Minister of Transport) by notice (see subsection (6))
+  - **blood specimen collecting kit** means a package having endorsed on it or affixed to it or included in it a label indicating that it is a blood specimen collecting kit and that it has been supplied by or on behalf of a laboratory for the time being approved by the Science Minister, by notice (see subsection (6)), for the purpose of supplying or causing to be supplied blood specimen collecting kits
+  - **blood specimen collecting procedure** means the taking of a blood specimen by a blood specimen collecting instrument in a manner prescribed by the Minister of Police by notice (see subsection (6))
   - **blood test** means the analysis of a blood specimen
-  - **blood test fee** means the fee for the analysis of a blood specimen prescribed by the Minister of Police, by notice in the Gazette, under section 67
-  - **breath screening device** means a device of a kind approved for the purpose of breath screening tests by the Minister of Police, by notice in the Gazette
-  - **breath screening test** means a test carried out by means of a breath screening device in a manner prescribed in respect of that device by the Minister of Police, by notice in the Gazette
+  - **blood test fee** means the fee for the analysis of a blood specimen prescribed by the Minister of Police under section 67
+  - **breath screening device** means a device of a kind approved for the purpose of breath screening tests by the Minister of Police, by notice (see subsection (6))
+  - **breath screening test** means a test carried out by means of a breath screening device in a manner prescribed in respect of that device by the Minister of Police, by notice (see subsection (6))
   - **carriage** includes haulage
   - **certificate of compliance** means a certificate given under section 75A by a person authorised by the Science Minister
   - **certificate of loading** means a certificate of loading issued under the regulations or the rules
   - **class exemption** means an exemption granted under section 168D(1)﻿(b)
   - **Commissioner** means the Commissioner of Police
-  - **compulsory impairment test** means a test, carried out in a manner prescribed by the Minister of Police by notice in the Gazette, to determine whether a person’s capacity to drive is impaired
+  - **compulsory impairment test** means a test, carried out in a manner prescribed by the Minister of Police by notice (see subsection (6)), to determine whether a person’s capacity to drive is impaired
   - **concurrent offence** means an offence—
     (a) that is not a qualifying offence; and
     (b) that occurred as part of the same series of events as the facts that gave rise to the person’s conviction for a qualifying offence; and
@@ -91,13 +92,13 @@ _Consolidation as at 2021-04-01_
     (c) a person who is appointed to that office by warrant under section 208 or who holds that office by virtue of this Act:
     (d) the Agency, in the circumstances set out in section 208A
   - **evidence of vehicle inspection** , in relation to a vehicle, means any certificate, label, or document issued under this Act as evidence of the completion of the periodic vehicle inspection requirements in respect of that vehicle
-  - **evidential breath test** means a test carried out by means of an evidential breath-testing device in a manner prescribed in respect of that device by the Minister of Police, by notice in the Gazette
-  - **evidential breath-testing device** means a device of a kind approved for the purpose of evidential breath tests by the Minister of Police, by notice in the Gazette
+  - **evidential breath test** means a test carried out by means of an evidential breath-testing device in a manner prescribed in respect of that device by the Minister of Police, by notice (see subsection (6))
+  - **evidential breath-testing device** means a device of a kind approved for the purpose of evidential breath tests by the Minister of Police, by notice (see subsection (6))
   - **facilitate** , in relation to a small passenger service,—
     (a) means to enable drivers and passengers to connect by electronic or any other means (for example, by telephone, Internet site, application, or software); but
     (b) does not include the mere provision of an answering or call centre service
   - **facilitated cost-sharing arrangement** means a small passenger service that is facilitated by a facilitator (whether or not the facilitator is paid) under which a passenger is carried in return for the driver’s costs being reimbursed, which costs—
-    (a) may be up to a maximum amount per kilometre set by the Minister by notice in the Gazette (for example, the costs of fuel and reasonable vehicle wear and tear); but
+    (a) may be up to a maximum amount per kilometre set by the Minister by notice (see subsection (6)) (for example, the costs of fuel and reasonable vehicle wear and tear); but
     (b) may not include—
       (i) payment for the driver’s driving or travelling time; or
       (ii) any infringement fee incurred in the course of the journey; or
@@ -136,7 +137,7 @@ _Consolidation as at 2021-04-01_
   - **heavy motor vehicle** means a motor vehicle (other than a motorcar that is not used, kept, or available for the carriage of passengers for hire or reward) having a gross vehicle mass exceeding 3 500 kg
   - **heavy traffic** means—
     (a) the use of any heavy motor vehicle; or
-    (b) any other traffic declared to be heavy traffic by the Agency by notice in the Gazette
+    (b) any other traffic declared to be heavy traffic by the Agency by notice (see subsection (6))
   - **hospital** means a hospital care institution within the meaning of section 58(4) of the Health and Disability Services (Safety) Act 2001
   - **image** , in relation to approved vehicle surveillance equipment, includes a photograph, an electronic form of information storage, and the display and transmission of any pictorial or digital information
   - **infringement offence** means—
@@ -258,7 +259,7 @@ _Consolidation as at 2021-04-01_
     (b) does not include—
       (i) a vehicle designed or adapted to carry 12 or fewer persons (including the driver) provided by one of the passengers being carried; or
       (ii) a vehicle specified as an exempt passenger service vehicle in the regulations or the rules
-  - **passive breath-testing device** means a passive breath-testing device of a kind approved by the Minister of Police, by notice in the Gazette
+  - **passive breath-testing device** means a passive breath-testing device of a kind approved by the Minister of Police, by notice (see subsection (6))
   - **permanent speed limit** means a speed limit that is in force except when a seasonal, variable, minimum, emergency, or temporary speed limit is in force
   - **positive** , in relation to an evidential breath test, means an evidential breath test that indicates,—
     (a) in the case of a person who holds an alcohol interlock licence or a zero alcohol licence, that the breath of the person who underwent the test contains alcohol; or
@@ -351,7 +352,6 @@ _Consolidation as at 2021-04-01_
     (b) includes a person acting under and within the terms of a delegation or authorisation given by the controlling authority
   - **the rules** means the ordinary rules and emergency rules made under this Act and the rules referred to in section 220
   - **Science Minister** means, subject to any enactment, the Minister of the Crown who, under the authority of any warrant or with the authority of the Prime Minister, is for the time being responsible for the administration of the Research, Science, and Technology Act 2010
-  - **secondary legislation** means regulations within the meaning of section 29 of the Interpretation Act 1999
   - **Secretary** means the chief executive of the Ministry
   - **service** , in Part 4A, includes—
     (a) an operation carried out on 1 occasion only; and
@@ -376,15 +376,13 @@ _Consolidation as at 2021-04-01_
     (c) the Government Roading Powers Act 1989
   - **speeding offence** means an offence which consists solely of exceeding a speed limit
   - **stationary vehicle offence** means—
-    (a) parking in any portion of a road in breach of—
-      (i) any Act or regulation; or
-      (ii) any bylaw made under section 22AB(1)﻿(m) to (o):
+    (a) parking in any portion of a road in breach of any legislation (including, without limitation, any bylaw made under section 22AB(1)﻿(m) to (o)):
     (b) any offence specified as a stationary vehicle offence in regulations made under this Act
   - **storage provider** means a person who stores vehicles impounded under this Act
   - **territorial authority** means a territorial authority within the meaning of the Local Government Act 2002
   - **toll** has the same meaning as in section 5 of the Land Transport Management Act 2003
   - **toll offence** means an offence against section 54(1) of the Land Transport Management Act 2003
-  - **towage fee** , in respect of a parking offence, means an amount specified as the towage fee in respect of that offence by the Secretary by notice in the Gazette; and, for the purposes of this definition, the Secretary may prescribe different rates of towage fees in respect of different classes of persons, vehicles, products, or any other property or item, or on the basis of different times of use, or different distances, or on any other differential basis
+  - **towage fee** , in respect of a parking offence, means an amount specified as the towage fee in respect of that offence by the Secretary by notice (see subsection (6)); and, for the purposes of this definition, the Secretary may prescribe different rates of towage fees in respect of different classes of persons, vehicles, products, or any other property or item, or on the basis of different times of use, or different distances, or on any other differential basis
   - **traction engine** means a vehicle that—
     (a) is propelled by steam power; and
     (b) is not a rail vehicle within the meaning of section 4(1) of the Railways Act 2005; and
@@ -458,7 +456,7 @@ _Consolidation as at 2021-04-01_
     (a) means a vehicle used or available for use in a vehicle recovery service for towing or carrying on a road any motor vehicle; but
     (b) does not include any vehicle specified as an exempt vehicle recovery service vehicle in the regulations or the rules
   - **weight** ,—
-    (a) in relation to a wheel, an axle, a group of axles, or a vehicle, means the weight, or, as the case may be, the sum of the weights, recorded or displayed on a weighing device of a type approved for the purpose by the Minister of Police, by notice in the Gazette, and used in a manner prescribed by the Minister of Police, by notice in the Gazette:
+    (a) in relation to a wheel, an axle, a group of axles, or a vehicle, means the weight, or, as the case may be, the sum of the weights, recorded or displayed on a weighing device of a type approved for the purpose by the Minister of Police, by notice (see subsection (6)), and used in a manner prescribed by the Minister of Police, by notice (see subsection (6)):
     (b) in relation to the load on a vehicle, means the gross weight of the vehicle less its unladen weight
   - **work time** includes (but is not limited to) all the time spent—
     (a) driving a vehicle to which section 30ZB(1) applies:
@@ -471,8 +469,8 @@ _Consolidation as at 2021-04-01_
     (a) is issued to a person who is authorised to obtain the licence by a court order referred to in section 65B(1); and
     (b) authorises the person to drive on the condition that neither the person’s breath nor the person’s blood contains alcohol.
 (1A) If a transport service includes the use of vehicles that are specified as exempt vehicles in the regulations or the rules, the operation of those vehicles is not to be treated as part of the operation of the service.
-(2) A notice or replacement notice given by any Minister in the Gazette for any purpose specified in subsection (1) or in section 75A(5), and a corresponding notice given under any former enactment and continued in force by this Act, is a legislative instrument and a disallowable instrument for the purposes of the Legislation Act 2012 and may be amended from time to time, or revoked or replaced, by the responsible Minister in the same manner.
-(3) A notice or replacement notice under subsection (1) that is given by the Minister of Police in the Gazette for the purposes of approving a kind of device or a test may—
+(2)
+(3) A notice under subsection (1) that is given by the Minister of Police for the purposes of approving a kind of device or a test may—
   (a) define an approved device as a device that bears or is associated by its manufacturer with such trade name or number or other expression, or any combination of those things, as may be specified in the notice:
   (b) provide for a test, or part of a test, to be carried out in accordance with instructions displayed or printed on or by a specified kind of device.
 (4) In the absence of proof to the contrary, a device is to be treated as bearing or being associated with a particular trade name or number or other expression if that name or number or other expression—
@@ -485,6 +483,7 @@ _Consolidation as at 2021-04-01_
 (5) Despite anything in subsection (1), for the purposes of any proceedings against an offence of failing to comply with work time restrictions or rest time requirements, where no continuous period of rest of least 10 hours is or has been taken, a cumulative work day is to be treated as a period that—
   (a) begins from the commencement of any work time; and
   (b) ends only after a continuous period of rest of at least 10 hours is taken.
+(6) A notice under subsection (1) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 2A Transitional, savings, and related provisions
 The transitional, savings, and related provisions set out in Schedule 1 have effect according to their terms.
@@ -747,7 +746,7 @@ If an enforcement officer, acting in the course of his or her official duties, b
   (b) to all vehicles or traffic or to any specified class or classes of vehicles or traffic using a road under the care, control, or management of the road controlling authority making the bylaw:
   (c) at any specified time or times.
 (3) A bylaw made under subsection (1) may leave any matter or thing to be regulated, controlled, or prohibited by the road controlling authority by resolution generally, for any specified classes of case, or in a particular case.
-(3A) A relevant road controlling authority may, by resolution that is publicly notified, limit a parking place or transport station or any specified part of that parking place or transport station to vehicles belonging to or used by particular persons or classes of persons or to vehicles used for particular public purposes.
+(3A) A relevant road controlling authority may, by resolution, limit a parking place or transport station or any specified part of that parking place or transport station to vehicles belonging to or used by particular persons or classes of persons or to vehicles used for particular public purposes.
 (3B) If, under subsection (3A), a parking place or transport station is limited to vehicles belonging to or used by particular persons or classes of persons or to vehicles used for particular public purposes, no person in charge of any other vehicle may allow the vehicle to stand in the parking place or transport station.
 (4) A copy of every bylaw made under this section by a road controlling authority must, within 1 week after being made, be sent by the road controlling authority to the Minister, who may at any time disallow the bylaw or any part of the bylaw under section 22AC.
 (5) Nothing in this section—
@@ -762,14 +761,16 @@ If an enforcement officer, acting in the course of his or her official duties, b
   - **parking place** has the same meaning as in section 591(6) of the Local Government Act 1974
   - **railway** has the same meaning as in section 4(1) of the Railways Act 2005
   - **transport station** has the same meaning as in section 591(6) of the Local Government Act 1974.
+(7) Bylaws and resolutions made under this section are secondary legislation for the purposes of the Legislation Act 2019, but section 161A of the Local Government Act 2002 applies to all bylaws and resolutions made under this section as if they were made by a local authority.
 
 ### 22AC Minister may amend, replace, or disallow bylaws
-(1) The Minister may, by notice published in the Gazette, amend, replace, or disallow, either wholly or in part, any bylaw made by a road controlling authority under section 22AB or any other enactment (whether before or after the commencement of this section) if the bylaw—
+(1) The Minister may, by notice, amend, replace, or disallow, either wholly or in part, any bylaw made by a road controlling authority under section 22AB or any other enactment (whether before or after the commencement of this section) if the bylaw—
   (a) is inconsistent with any enactment; or
   (aa) is inconsistent with or duplicates any land transport record included in the register established by section 200E; or
   (b) is unreasonable or undesirable in so far as it relates to or may affect traffic.
 (2) On any disallowance under subsection (1), the bylaw must, to the extent to which it is disallowed, be treated as having been revoked.
-(3) Any disallowance under subsection (1) takes effect either on the day of the publication of the notice of disallowance in the Gazette or on a later date that may be specified in the notice.
+(3) Any disallowance under subsection (1) takes effect either on the day after the notice of disallowance is published under the Legislation Act 2019 (see subsection (4)) or on a later date that may be specified in the notice.
+(4) A notice under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 22AD Consultation
 (1) Section 156 of the Local Government Act 2002 applies to a bylaw under section 22AB made by a road controlling authority that is a local authority as if that bylaw had been made under that Act.
@@ -1013,8 +1014,8 @@ Despite section 28(1)﻿(g) and (4), the date of issue of a driver licence conti
 
 ### 30A Requirements for vehicles
 (1) A holder of a transport service licence must ensure that—
-  (a) every vehicle to be used in the service is maintained in a fit and proper condition and that the requirements of any Act, regulation, or rule made for this purpose are met:
-  (b) no vehicle is used in the service unless and until all fees payable in respect of the vehicle and the service under any Act, regulation, or bylaw have been duly paid or appropriate arrangements have been made for payment.
+  (a) every vehicle to be used in the service is maintained in a fit and proper condition and that the requirements of any legislation (including bylaws) made for this purpose are met:
+  (b) no vehicle is used in the service unless and until all fees payable in respect of the vehicle and the service under any legislation (including bylaws) have been duly paid or appropriate arrangements have been made for payment.
 (2) The holder of any transport service licence must, whenever required to do so by the Director, present for inspection any transport service vehicle used in the service.
 (2A) The driver of a small passenger service vehicle must, whenever required to do so by the Director, present the vehicle for inspection.
 (3) No evidence of vehicle inspection may be issued in respect of a transport service vehicle unless the person issuing the evidence of vehicle inspection has been notified of the transport service licence number under which the vehicle is being operated.
@@ -2002,8 +2003,9 @@ If this section applies because an exception described in section 65AB(2) applie
       (A) a pre-existing medical condition or pre-existing disability that precluded undergoing the test; or
       (B) an injury, sustained in a motor vehicle accident that gave rise to the obligation to undergo the test; or
     (ii) was taken under section 73.
-(2) For the purposes of subsection (1), the Minister of Police may from time to time, by notice in the Gazette, prescribe a fee for each type of blood test that is carried out under this Act.
+(2) For the purposes of subsection (1), the Minister of Police may from time to time, by notice, prescribe a fee for each type of blood test that is carried out under this Act.
 (3) The medical expenses referred to in subsection (1) may not exceed the actual and reasonable medical expenses associated with the taking of a blood specimen.
+(4) A notice under subsection (2) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 **Enforcement procedures for offences involving intoxication**
 
@@ -2194,12 +2196,13 @@ Evidence of a controlled drug in a blood sample taken under section 72 or 73 may
 (4) In the absence of proof to the contrary, a document purporting to be a certificate of compliance or a certified copy of a certificate of compliance—
   (a) must be treated as such a certificate or certified copy; and
   (b) is conclusive evidence of the sufficiency of the authority of the person who signed the document.
-(5) After consultation with the Minister and the Minister of Justice, the Minister of Police must, by notice in the Gazette, specify for each kind of evidential breath-testing device the matters that are required to be stated in a certificate of compliance.
+(5) After consultation with the Minister and the Minister of Justice, the Minister of Police must, by notice, specify for each kind of evidential breath-testing device the matters that are required to be stated in a certificate of compliance.
 (6) Without limiting subsection (5),—
   (a) in the case of any kind of evidential breath-testing device approved after the commencement of this section, the notice under subsection (5) must be given in conjunction with the notice approving that kind of device:
   (b) a notice under subsection (5) must specify the maximum period of service for the relevant kind of device, and must require a certificate of compliance to specify the date on which that period began or begins:
   (c) a notice under subsection (5) must specify the maximum period permitted between the date on which a certificate of compliance is issued and the date by which a test result must be obtained, and must require a certificate of compliance to specify the date on which the certificate of compliance was issued:
   (d) a notice under subsection (5) must require a certificate of compliance to include a statement to the effect that the device is being maintained within the manufacturer's specifications.
+(7) A notice under subsection (5) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 76 Presumptions relating to blood specimens
 (1) In proceedings for an offence against this Act it is to be presumed, in the absence of proof to the contrary, that,—
@@ -2649,8 +2652,8 @@ In this section and in sections 91C to 91H, unless the context otherwise require
     (b) includes an offender levy imposed under section 105B of the Sentencing Act 2002 for a traffic offence and any prescribed costs, expenses, or fees payable in respect of the enforcement of any amount of money described in paragraph (a); but
     (c) does not include any amount of money adjudged or ordered to be paid in a civil proceeding
   - **traffic offence** means—
-    (a) any offence against this Act, the Transport Act 1962, the Transport (Vehicle and Driver Registration and Licensing) Act 1986, the Road User Charges Act 1977, the Road User Charges Act 2012, or the Land Transport Management Act 2003, or against any regulation, rule, or bylaw made under any of those Acts:
-    (b) any offence against any regulation, rule, or bylaw made under any other Act if the offence relates to the use of motor vehicles or parking places or transport stations
+    (a) any offence against this Act, the Transport Act 1962, the Transport (Vehicle and Driver Registration and Licensing) Act 1986, the Road User Charges Act 1977, the Road User Charges Act 2012, or the Land Transport Management Act 2003, or against any secondary legislation (including bylaws) made under any of those Acts:
+    (b) any offence against any secondary legislation (including bylaws) made under any other Act if the offence relates to the use of motor vehicles or parking places or transport stations
   - **warning notice** means a notice served under section 91D.
 
 ### 91B Ways in which warning notice or driver licence stop order or details of related fines must be served
@@ -3969,10 +3972,10 @@ Without limiting any other method of proof, the production in proceedings of a c
   (a) an ordinary rule purporting to have been made by the Minister or the Governor-General under Part 11; or
   (b) an emergency rule purporting to have been made by the Agency under section 162—
 
-## Part 11 — Land transport subordinate legislation
+## Part 11 — Land transport secondary legislation
 
 ### 152 Power of Minister to make ordinary rules
-The Minister may make rules (ordinary rules) for all or any of the following purposes:
+(1) The Minister may make rules (ordinary rules) for all or any of the following purposes:
   (a) safety and licensing for any form of transport within the land transport system, including (but not limited to) technical requirements and standards:
   (b) assisting land transport safety and security, including (but not limited to) personal security:
   (ba) providing for the appropriate management of infrastructure:
@@ -3987,27 +3990,28 @@ The Minister may make rules (ordinary rules) for all or any of the following pur
     (iv) the Agency’s functions under section 95 of the Land Transport Management Act 2003:
     (v) the Director’s functions under section 104B of the Land Transport Management Act 2003:
   (h) any other matter contemplated by a provision of this Act.
+(2) Ordinary rules under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 152A Governor-General may make ordinary rules
 (1) Despite anything in this Part, the Governor-General may, by Order in Council, on the recommendation of the Minister, make, amend, or revoke an ordinary rule for any of the purposes for which the Minister may make, amend, or revoke an ordinary rule under this Part.
 (2) The Minister must have regard to the criteria specified in section 164(2) before making a recommendation under subsection (1).
 (3) Section 161(1)﻿(a) and (2) do not apply to an ordinary rule made by Order in Council under subsection (1).
-(4) An ordinary rule or an amendment to an ordinary rule made by Order in Council under subsection (1) must (despite section 161(3)) be notified and made available in accordance with section 161(3) as if the Minister had made the rule or the amendment to the rule.
+(4)
 (5) The Minister may amend or revoke an ordinary rule or an amendment to an ordinary rule made by Order in Council under subsection (1) as if the Minister had made the ordinary rule or the amendment to the ordinary rule under this Part.
-(6) An Order in Council under subsection (1)—
-  (a) is a disallowable instrument for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act; but
-  (b) is not a legislative instrument for the purposes of the Legislation Act 2012 (see subsection (4), and section 161(3) of this Act); and
-  (c) is not to be drafted by the PCO under section 59(2)﻿(a) of the Legislation Act 2012.
+(6) An order under this section—
+  (a) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements); and
+  (b) is not to be drafted by the PCO under section 67(d)﻿(i) of that Act.
 
 ### 153 Rules concerning road user behaviour
-Without limiting the general power to make rules under section 152, ordinary rules may—
+(1) Without limiting the general power to make rules under section 152, ordinary rules may—
   (a) set out standards and requirements concerning road user behaviour, including standards and requirements concerning the conduct of drivers, pedestrians, and other persons using roads:
   (b) regulate traffic of all classes (including vehicular, pedestrian, and animal traffic), and prohibit traffic or a class of traffic, either absolutely or conditionally, on a specified road or specified class of road:
   (c) set out standards and requirements concerning the use of vehicle safety equipment by drivers, and passengers in or on vehicles:
   (d) regulate the movement of animals on roads.
+(2) Ordinary rules under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 154 Rules concerning driver licensing
-Without limiting the general power to make rules under section 152, ordinary rules may—
+(1) Without limiting the general power to make rules under section 152, ordinary rules may—
   (a) put in place a system or provide for the licensing of drivers of motor vehicles, including provisions for the issue, endorsement, alteration, replacement, renewal, surrender, suspension, expiry, and revocation of licences:
   (b) specify different requirements for drivers of different age groups or experience, including requirements concerning the issue and expiry of licences:
   (c) provide for different classes of driver licences, and for the endorsement of licences for different purposes, and specify their effect:
@@ -4019,9 +4023,10 @@ Without limiting the general power to make rules under section 152, ordinary rul
   (i) provide for the recognition of driver licences issued outside New Zealand:
   (j) prescribe the form and content of temporary driver licences for the purposes of this Act:
   (k) give effect to any international convention concerning the recognition of driver licences and permits issued outside New Zealand and the recognition of international driving permits.
+(2) Ordinary rules under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 155 Rules concerning vehicles
-Without limiting the general power to make rules under section 152, ordinary rules may—
+(1) Without limiting the general power to make rules under section 152, ordinary rules may—
   (a) set out standards and requirements concerning vehicles, including their construction, mass and dimensions, emissions, environmental requirements, loading requirements, identification, repair, maintenance, modification, inspection, and fuel systems:
   (b) set out standards and requirements concerning systems, components, devices, fittings, or equipment to be incorporated in the construction of, fitted to, or carried in or on motor vehicles, or to be used by the driver or any other person:
   (c) provide for the recall of vehicles, or components or equipment of vehicles, that do not meet standards or requirements imposed by the rules, and for their recall where there is reason to believe that a procedure or requirement imposed by a rule has not adequately been carried out or complied with, including provisions—
@@ -4035,12 +4040,14 @@ Without limiting the general power to make rules under section 152, ordinary rul
     (i) specify when vehicles are to be registered, deregistered, or re-registered:
     (ii) set out procedures to verify compliance with standards and requirements of the regulations and the rules:
     (iii) provide for the recording and making available of information about vehicles (including their systems, components, devices, fittings, and equipment).
+(2) Ordinary rules under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 156 Rules concerning dangerous goods
-Without limiting the general power to make rules under section 152, ordinary rules may set out requirements and provisions concerning the packing, loading, consignment, and carriage of dangerous goods within the land transport system.
+(1) Without limiting the general power to make rules under section 152, ordinary rules may set out requirements and provisions concerning the packing, loading, consignment, and carriage of dangerous goods within the land transport system.
+(2) Ordinary rules under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 157 Rules concerning roads
-Without limiting the general power to make rules under section 152, ordinary rules may—
+(1) Without limiting the general power to make rules under section 152, ordinary rules may—
   (a) regulate the use of roads, and empower road controlling authorities to control, restrict, and prohibit traffic, and to close roads in specified circumstances or on specified occasions, in accordance with the rules:
   (b) set out standards, specifications, or codes of practice for the design, construction, alteration, or maintenance of roads and related property:
   (c) provide for the classification of roads according to their suitability for use by different classes of motor vehicles:
@@ -4051,9 +4058,10 @@ Without limiting the general power to make rules under section 152, ordinary rul
   (f) provide that a road controlling authority may declare any of its roads or part of any such road to be a construction zone; prescribe the signs to be erected in a construction zone; and provide for the exemption from specified provisions of the rules of specified classes of motor vehicles while used within a construction zone:
   (g) provide for the design, construction, maintenance, and operation of traffic control devices:
   (h) regulate or prohibit the use of reflective material on signs, hoardings, and similar structures that may pose a traffic hazard on any road.
+(2) Ordinary rules under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 158 Rules concerning licensing, standard-setting, etc
-Without limiting the general power to make rules under section 152, ordinary rules may—
+(1) Without limiting the general power to make rules under section 152, ordinary rules may—
   (a) provide for the identification, classification, registration, licensing, inspection, and audit of all or any of the following:
     (i) vehicles:
     (ii) road users:
@@ -4097,6 +4105,7 @@ Without limiting the general power to make rules under section 152, ordinary rul
     (xx) provide for the approval of qualifications and specify conditions for the safe use of traction engines:
   (c) provide for the appointment or approval of persons or organisations who are to carry out inspections, tests, certify things, issue licences or other documents, and provide other services under this Act:
   (d) set out the procedure for appeals under this Act to the District Court or apply (with such modifications as may be specified in the rules) a procedure for appeals to the District Court under any other enactment.
+(2) Ordinary rules under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 159 Rules concerning land transport documents
 (1) Without limiting the general power to make rules under section 152, ordinary rules may require that a land transport document be held by or in respect of all or any of the following:
@@ -4115,6 +4124,7 @@ Without limiting the general power to make rules under section 152, ordinary rul
   (b) set out different fit and proper person assessments for different classes of land transport documents, applicants, or holders.
 (4) The rules may provide for the issue, endorsement, alteration, replacement, renewal, surrender, expiry, suspension, and revocation of land transport documents.
 (5) Subject to the rules, a land transport document may be issued or a document may be recognised as a land transport document, as the case may be, by the Director for such period and subject to such conditions as the Director considers appropriate in each particular case.
+(6) Ordinary rules under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 159A Ordinary rule may require committee to be established
 (1) An ordinary rule may require the Agency to establish a committee that has 1 or more purposes associated with speed management, including—
@@ -4134,11 +4144,12 @@ Without limiting the general power to make rules under section 152, ordinary rul
   (b) any other matter relating to establishing and operating the committee.
 (4) Section 96B of the Land Transport Management Act 2003 applies when the relevant person referred to in subsection (2)﻿(c) of this section is considering appointing a member of a committee established by a rule under this section.
 (5) Section 96C of the Land Transport Management Act 2003 applies to any committee established by a rule under this section.
+(6) Ordinary rules under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 160 Other provisions concerning ordinary rules
 (1) An ordinary rule may apply generally or to different classes of person, vehicle, or land transport related service, or to the same class of person, vehicle, or land transport related service in different circumstances.
 (2) An ordinary rule may apply generally throughout New Zealand or within a specified part or parts of New Zealand.
-(3) The commencement of an ordinary rule may be wholly suspended until it is applied by the Minister, by notice in the Gazette.
+(3) The commencement of an ordinary rule may be wholly suspended until it is applied by the Minister, by notice (see subsection (9)).
 (4) An ordinary rule may—
   (a) require or provide for a matter to be determined, undertaken, or approved by the Agency, the Director, or any other person:
   (aa) empower the Agency, the Director, or any other person to impose requirements or conditions as to the performance of activities:
@@ -4148,11 +4159,10 @@ Without limiting the general power to make rules under section 152, ordinary rul
   (e) prescribe, or provide for the approval of, forms, documents, and records for the purposes of the rules:
   (f) make transitional and savings provisions for the purposes of implementing any rule; and for the purposes of determining the expiry date of licences under section 23(4).
 (5) An ordinary rule may incorporate or apply, with any necessary modifications, a regulation or order or notice made or given under the Transport Act 1962 or Part 2 of the Transport (Vehicle and Driver Registration and Licensing) Act 1986 or Part 17.
-(6) An ordinary rule (except for an ordinary rule made by an Order in Council under section 152A(1))—
-  (a) is a disallowable instrument for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act; but
-  (b) is not a legislative instrument for the purposes of the Legislation Act 2012 (see section 161(3) of this Act).
+(6)
 (7) If a bylaw of a local authority is inconsistent with or repugnant to any ordinary rules in force in the same locality, the rules override the bylaws.
 (8) Despite clause 5 of Schedule 6 of the Public Service Act 2020, the Minister may not delegate his or her power to make ordinary rules under this Act.
+(9) A notice under subsection (3) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 161 Procedure concerning ordinary rules
 (1) Every ordinary rule must—
@@ -4163,10 +4173,7 @@ Without limiting the general power to make rules under section 152, ordinary rul
   (a) publish a notice of his or her intention to make the rule; and
   (b) give interested persons a reasonable time, which must be specified in the notice published under paragraph (a), to make submissions on the proposal; and
   (c) consult with such persons, representative groups within the land transport system or elsewhere, government departments, and Crown entities as the Minister in each case considers appropriate.
-(3) If an ordinary rule (except for an ordinary rule made by an Order in Council under section 152A(1)) is made under this Act,—
-  (a) notice of the making of the rule must be given in the Gazette; and
-  (b) the rule must be made available for purchase by members of the public at a reasonable price; and
-  (c) the notice must specify a place where the rule is available for inspection free of charge and for purchase.
+(3)
 (4)
 
 **Emergency rules**
@@ -4174,18 +4181,21 @@ Without limiting the general power to make rules under section 152, ordinary rul
 ### 162 Agency may make emergency rules
 (1) The Agency may from time to time, in accordance with section 163, make such emergency rules as may be necessary to alleviate or minimise any risk of the death of or a serious injury to a person, or of damage to property.
 (2) The Agency may not make emergency rules unless it is impracticable in the circumstances of the particular case for the Minister to make ordinary rules, or recommend that ordinary rules be made, to effectively alleviate or minimise the risk concerned.
-(3) The Minister may revoke any emergency rule made under subsection (1), and the revocation must be notified as if it were an emergency rule.
-(4) An emergency rule—
-  (a) is a disallowable instrument for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act; but
-  (b) is not a legislative instrument for the purposes of the Legislation Act 2012 (see section 163(2) to (4) of this Act).
+(3) The Minister may revoke any emergency rule made under subsection (1).
+(4) The following are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements):
+  (a) emergency rules under subsection (1):
+  (b) a revocation under subsection (3).
+(5) If, for reasons of safety, it is impracticable or inappropriate to publish immediately an emergency rule or revocation under that Act, the Agency must serve a copy of it on the persons (if any) whom the Agency considers appropriate.
+(6) An emergency rule or revocation to which subsection (5) applies—
+  (a) has effect only in relation to a person on whom it is served under subsection (5); and
+  (b) comes into force in relation to that person immediately after it is served on the person (even if it is not yet published).
+(7) Service under subsection (5) may be effected in any way the Agency considers appropriate.
 
 ### 163 Procedure for making emergency rules
 (1) Before making an emergency rule, the Agency must consult with such persons, representative groups within the land transport system or elsewhere, government departments, and Crown entities as the Agency in each case considers appropriate.
-(2) Every emergency rule must be notified in the Gazette and be made available by the Agency for purchase by members of the public at a reasonable price, and the notification must specify a place where the rule is available for inspection free of charge and for purchase.
-(3) Every emergency rule comes into force immediately on being notified in the Gazette, or, where notified by service on a person under subsection (4), immediately on service of notification upon that person and in respect of that person only.
-(4) If, for reasons of safety, it is impracticable or inappropriate to notify an emergency rule in accordance with subsection (2),—
-  (a) the Agency must notify such persons as the Agency considers appropriate or necessary in the circumstances and service of such notification may be effected by fax, telephone, or such other manner as the Agency considers appropriate or necessary in the circumstances; and
-  (b) subsection (2) does not apply.
+(2)
+(3)
+(4)
 (5) An emergency rule may be in force for a period not exceeding 90 days, and may be renewed once only for a further period not exceeding 90 days.
 (6) So far as any emergency rule is inconsistent with or repugnant to any ordinary rule made under this Act, the emergency rule prevails.
 
@@ -4232,8 +4242,8 @@ Without limiting the general power to make rules under section 152, ordinary rul
   (e) the place where the material can be purchased; and
   (f) if copies of the material are available in other ways, the details of where or how the material can be accessed or obtained.
 (6) All material incorporated by reference under subsection (1) or (2) must be made available at the Agency for inspection by the public free of charge.
-(7) Part 2 of the Legislation Act 2012 does not apply to material incorporated by reference in a rule, or to an amendment to, or a replacement of, that material.
-(8) Nothing in section 41 of the Legislation Act 2012 requires material that is incorporated by reference in a rule to be presented to the House of Representatives.
+(7) Part 3 of the Legislation Act 2019 does not apply to material incorporated by reference in a rule, or to an amendment to, or a replacement of, that material.
+(8) Nothing in section 114 of the Legislation Act 2019 requires material that is incorporated by reference in a rule to be presented to the House of Representatives.
 (8)
 (9) Subsections (1) to (8) do not affect the application of sections 29 to 32 of the Standards and Accreditation Act 2015.
 
@@ -4266,7 +4276,7 @@ Without limiting the general power to make rules under section 152, ordinary rul
   (h) creating offences against any regulations made under this Act; and setting the maximum penalty for each offence, which,—
     (i) in the case of an individual, may not exceed $10,000; or
     (ii) in the case of a body corporate, may not exceed $50,000:
-  (i) declaring which offences against any rules, regulations, or bylaws made under this Act or the Transport (Vehicle and Driver Registration and Licensing) Act 1986 are—
+  (i) declaring which offences against any secondary legislation (including bylaws) under this Act or the Transport (Vehicle and Driver Registration and Licensing) Act 1986 are—
     (i) moving vehicle offences:
     (ii) stationary vehicle offences:
     (iii) special vehicle lane offences:
@@ -4299,6 +4309,8 @@ Without limiting the general power to make rules under section 152, ordinary rul
     (iii) an offence against section 33(1) (which relates to applying for or obtaining a driver licence while disqualified from doing so):
     (iv) a first or second offence against section 32(1) (which relates to offences involving driving while disqualified or contrary to a limited licence or contrary to an alcohol interlock licence or a zero alcohol licence or while a licence is suspended or revoked) where the court does not order that the defendant be disqualified:
   (b) is 50 demerit points in the case of any other offence.
+(3) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+(4) Regulations that identify fees or charges as land transport revenue for the purposes of the Land Transport Management Act 2003 must be confirmed by an Act (see subpart 3 of Part 5 of the Legislation Act 2019).
 
 ### 168 Regulations relating to fees and charges for land transport
 (1) Without limiting the generality of section 167(1)﻿(j), regulations may be made under that provision prescribing, or providing for the fixing of, fees and charges payable for all or any of the following purposes:
@@ -4353,22 +4365,18 @@ Without limiting the general power to make rules under section 152, ordinary rul
 All fees and charges (excluding applicable refunds and goods and services tax) identified in regulations made under this Part as land transport revenue for the purposes of the Land Transport Management Act 2003 must be paid into a Crown Bank Account and treated as land transport revenue.
 
 ### 168AAB Certain orders are confirmable instruments
-(1) This section applies to regulations made by Order in Council under this Part that identify fees or charges as land transport revenue for the purposes of the Land Transport Management Act 2003.
-(2) The explanatory note of the Order in Council must indicate that—
-  (a) it is a confirmable instrument under section 47B of the Legislation Act 2012; and
-  (b) it is revoked at a time stated in the note, unless earlier confirmed by an Act of Parliament; and
-  (c) the stated time is the applicable deadline under section 47C(1)﻿(a) or (b) of that Act.
+[Repealed]
 
 ### 168A Agency may declare that vehicle is mobility device or is not motor vehicle
-(1) If a vehicle or type of vehicle is powered solely by a motor that has a maximum power output not exceeding 1 500 W, the Agency may, by notice in the Gazette, declare that the vehicle or type of vehicle is a mobility device.
-(2) If a vehicle or type of vehicle is propelled by a motor that has a maximum power output not exceeding 300 W, the Agency may, by notice in the Gazette, declare that the vehicle or type of vehicle is not a motor vehicle.
-(3) If a vehicle or type of vehicle is propelled by a motor that has a maximum power output greater than 300 W but not exceeding 600 W, the Agency may, by notice in the Gazette, declare that the vehicle or type of vehicle is not a motor vehicle.
+(1) If a vehicle or type of vehicle is powered solely by a motor that has a maximum power output not exceeding 1 500 W, the Agency may, by notice, declare that the vehicle or type of vehicle is a mobility device.
+(2) If a vehicle or type of vehicle is propelled by a motor that has a maximum power output not exceeding 300 W, the Agency may, by notice, declare that the vehicle or type of vehicle is not a motor vehicle.
+(3) If a vehicle or type of vehicle is propelled by a motor that has a maximum power output greater than 300 W but not exceeding 600 W, the Agency may, by notice, declare that the vehicle or type of vehicle is not a motor vehicle.
 (4) If the Agency makes a declaration under subsection (3), the Agency may—
   (a) impose conditions with respect to—
     (i) the operation of the vehicle or type of vehicle; and
     (ii) the equipment required on the vehicle or type of vehicle; and
   (b) specify those conditions in the notice.
-(5) A notice given under this section is a disallowable instrument, but not a legislative instrument, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
+(5) A notice under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 168B Order in Council for certain land transport revenue
 [Repealed]
@@ -4863,7 +4871,7 @@ The Agency must pay each assessment centre, from money appropriated for the purp
 (2) The Transport Act 1962 is amended by repealing Parts 1, 2, 5, 7, 8, 9, and 10 of Schedule 2, and substituting the Parts set out in Schedule 4.
 
 ### 216 Transitional regulations
-Without limiting the powers conferred by section 167, the Governor-General may from time to time, by Order in Council, make regulations—
+(1) Without limiting the powers conferred by section 167, the Governor-General may from time to time, by Order in Council, make regulations—
   (a) prescribing transitional and savings provisions concerning the coming into force of this Act, which may be in addition to or in place of the transitional and savings provisions of this Part:
   (b) to facilitate the bringing into force of any rules under this Act; and to remove any inconsistency between regulations or orders made under the Transport Act 1962:
   (c) providing that subject to such conditions as may be specified in the regulations, during a specified transitional period,—
@@ -4871,6 +4879,7 @@ Without limiting the powers conferred by section 167, the Governor-General may f
     (ii) specified terms have the meanings given to them by the regulations:
     (iii) specified provisions repealed or amended or revoked by this Act are to continue to apply:
   (d) prescribing matters that would otherwise be covered by rules made under section 158.
+(2) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 217 Expiry of section 216
 [Repealed]
@@ -5021,7 +5030,7 @@ An application pending under any provision of the Transport Act 1962 that is rep
   - **sale** , in relation to a motor vehicle, means the disposition or change of ownership of the motor vehicle, whether or not for consideration, and includes disposition by way of hire purchase; and , and have corresponding meanings
   - **supplementary plate** means a registration plate that matches an ordinary plate or a personalised plate issued for a motor vehicle
   - **tractor** means a motor vehicle (other than a traction engine) designed principally for traction at speeds not exceeding 50 kilometres per hour
-  - **trade plate** means a registration plate issued to a person or class of persons for the purposes specified by the Minister by notice in the Gazette
+  - **trade plate** means a registration plate issued to a person or class of persons for the purposes specified by the Minister by notice under section 261
   - **trailer** means a vehicle without its own power source that is capable of being drawn or propelled by a motor vehicle from which it is readily detachable, but does not include—
     (a) a sidecar attached to a motorcycle; or
     (b) a vehicle normally propelled by mechanical power while it is being temporarily towed without the use of its own power.
@@ -5298,10 +5307,11 @@ The Registrar may cancel the registration of a registered motor vehicle in accor
 (4) Personalised plates must be issued in accordance with any regulations made under this Part.
 
 ### 261 Eligibility for trade plates
-The Minister may, by notice in the Gazette,—
+(1) The Minister may, by notice,—
   (a) declare the persons or classes of persons who are eligible to apply for and receive trade plates; and
   (b) prescribe the purpose for which trade plates may be used; and
   (c) remove the eligibility of persons or classes of persons to apply for and receive or to use trade plates.
+(2) A notice under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 262 Application for trade plates
 (1) A person who is, or who is within a class of persons, eligible to receive trade plates may apply to the Registrar for trade plates.
@@ -5449,6 +5459,11 @@ An enforcement authority may, in relation to infringement offences against regul
   (a) the New Zealand Police:
   (b) a statutory entity (within the meaning of the Crown Entities Act 2004):
   (c) a public service agency as defined in section 5 of the Public Service Act 2020.
+(5) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+(6) If the regulations authorise the Registrar to exercise a power under subsection (1)﻿(b), (c), (h), or (ha) (other than a power that relates only to 1 or more individually identified motor vehicles or named persons),—
+  (a) the instrument by which the Registrar exercises the power is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements); and
+  (b) the regulations must contain a statement to that effect.
+(7) Any regulations that prescribe fees or charges that are identified as land transport revenue for the purposes of the Land Transport Management Act 2003 in accordance with subsection (1)﻿(r) must be confirmed by an Act (see subpart 3 of Part 5 of the Legislation Act 2019).
 
 ### 269A Additional fee for certain RUC vehicles
 (1) The Governor-General may, by Order in Council made on the recommendation of the Minister, prescribe an additional fee payable in respect of—
@@ -5461,19 +5476,19 @@ An enforcement authority may, in relation to infringement offences against regul
     (ii) the likely costs that the vehicles generate when used on road; and
   (c) is payable in addition to the fee payable in respect of an application for the licence for a motor vehicle or for the issue of trade plates (as the case may be).
 (3) An additional fee prescribed under subsection (1) may be set at different levels for different classes of vehicles (whether licensed or operating under trade plates).
+(4) An order under this section—
+  (a) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements); and
+  (b) must be confirmed by an Act (see subpart 3 of Part 5 of the Legislation Act 2019).
 
 ### 270 Fees and charges identified as land transport revenue
 (1) This section applies to regulations made by Order in Council under section 269 or 269A that prescribe fees or charges that are identified or to be treated as land transport revenue for the purposes of the Land Transport Management Act 2003 (relevant regulations).
-(2) The explanatory note of relevant regulations must indicate that—
-  (a) they are a confirmable instrument under section 47B of the Legislation Act 2012; and
-  (b) they are revoked at a time stated in the note, unless earlier confirmed by an Act of Parliament; and
-  (c) the stated time is the applicable deadline under section 47C(1)﻿(a) or (b) of that Act.
+(2)
 (3)
-(4) If relevant regulations are revoked by section 47C(1)﻿(a) or (b) of the Legislation Act 2012, the fees or charges replaced or altered by those regulations are, from the revocation of those regulations and until the fees or charges are again replaced or altered, the same as they were immediately before those regulations came into force.
+(4) If relevant regulations are revoked under subpart 3 of Part 5 of the Legislation Act 2019, the fees or charges replaced or altered by those regulations are, from the revocation of those regulations and until the fees or charges are again replaced or altered, the same as they were immediately before those regulations came into force.
 (5) The reference in subsection (4) to fees or charges replaced or altered by relevant regulations includes fees or charges—
   (a) prescribed (or having effect as if prescribed) under section 167 or 168B in respect of the same or substantially the same matter; and
   (b) in force immediately before the commencement of this section.
-(6) If relevant regulations are revoked by section 47C(1)﻿(a) or (b) of the Legislation Act 2012, any fees and charges collected by virtue of those regulations in excess of the fees and charges otherwise payable must, except in so far as any other provision is made by an Act of Parliament, be refunded.
+(6) If relevant regulations are revoked under subpart 3 of Part 5 of the Legislation Act 2019, any fees and charges collected by virtue of those regulations in excess of the fees and charges otherwise payable must, except in so far as any other provision is made by an Act of Parliament, be refunded.
 (7) Relevant regulations that the House of Representatives resolves should be revoked or varied are revoked or varied in accordance with the terms of the resolution, and any fees and charges collected under the relevant regulations in excess of the fees and charges otherwise payable are, so far as that resolution provides, to be refunded.
 (8)
 
