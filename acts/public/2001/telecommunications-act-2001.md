@@ -1,5 +1,5 @@
 # Telecommunications Act 2001
-_Consolidation as at 2020-12-01_
+_Consolidation as at 2021-10-28_
 
 ### 1 Title
 This Act is the Telecommunications Act 2001.
@@ -70,6 +70,7 @@ In this Act, unless the context otherwise requires,—
     (a) a Commission 111 contact code:
     (b) a Commission retail service quality code
   - **Commission retail service quality code** or means a retail service quality code made by the Commission under Part 7
+  - **Commission’s Internet site** means an Internet site maintained by or on behalf of the Commission
   - **computer record** has the meaning set out in section 116(2)
   - **copper fixed line access services** means the following (as they are described in subpart 1 of Part 2 of Schedule 1):
     (a) Chorus’s unbundled bitstream access:
@@ -229,7 +230,7 @@ In this Act, unless the context otherwise requires,—
 ### 6 Public notice
 (1) If, under this Act, the Commission is required to give public notice of a matter, the Commission must—
   (a) notify the matter in the Gazette; and
-  (b) at all reasonable times, ensure that the full text of the matter is available on an Internet site maintained by or on behalf of the Commission.
+  (b) at all reasonable times, ensure that the full text of the matter is available on the Commission’s Internet site.
 (2) A notification of a matter for the purpose of subsection (1)﻿(a) must include—
   (a) the text of the matter; or
   (b) a summary of the text and a description of where the full text may be viewed on the Internet (for example, an Internet link).
@@ -312,6 +313,7 @@ For the purpose of carrying out its functions under section 9A(1)﻿(e) and (f),
   (e) providing for the payment and collection of those levies:
   (f) exempting any service provider or class of service providers from paying levies under this section:
   (g) providing for waivers or refunds of the whole or any part of any levy paid by any service provider or class of service providers under this section.
+(4) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 12 Levy for appropriation period beginning 1 July 2018
 (1)
@@ -332,6 +334,7 @@ For the purpose of carrying out its functions under section 9A(1)﻿(e) and (f),
 (5) The Minister must not recommend that regulations be made under this section unless the Minister is satisfied that the levy will not require a service provider, or a class of service providers, to pay a levy in respect of the same period under both this section and section 11 for, or in connection with,—
   (a) the performance of the Commission’s functions and duties under Parts 2AA, 6, and 7; or
   (b) the exercise of the Commission’s powers under Parts 2AA, 6, and 7.
+(6) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 13 Minister must consult before making recommendation under section 11(3) or section 12(4)
 The Minister must not make any recommendation under section 11(3) or section 12(4) without first consulting those persons and organisations that the Minister considers appropriate having regard to the subject matter of the proposed regulations.
@@ -480,10 +483,12 @@ If the Commission considers that persons, other than the parties to the determin
 **Determination**
 
 ### 27 Preparation of determination
-After investigating the matter, the Commission must—
+(1) After investigating the matter, the Commission must—
   (a) prepare a determination; and
-  (b) give a copy of the determination to the parties to the determination; and
-  (c) give public notice of the determination.
+  (b) give a copy of the determination to the parties to the determination.
+  (c)
+(2) A determination under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+(3) When a determination is published, the Commission must publish its reasons for making the determination on the Commission’s Internet site.
 
 ### 28 When determination must be prepared
 (1) The Commission must make reasonable efforts to prepare a determination under section 27,—
@@ -504,7 +509,7 @@ A determination must, in the opinion of the Commission,—
 ### 30 Matters to be included in determination
 (1) A determination must include—
   (a) the terms on which the service must be supplied; and
-  (b) the reasons for the determination; and
+  (b)
   (c) the terms and conditions (if any) on which the determination is made; and
   (d) the actions (if any) that a party to the determination must do or refrain from doing; and
   (e) the expiry date of the determination.
@@ -636,9 +641,10 @@ If the Commission considers that persons other than the parties to the determina
 ### 30M Standard terms determination
 (1) As soon as practicable after completing any consultation or conferences under section 30L, or if there is no consultation or there are no conferences, after the closing date for submissions under section 30K(1)﻿(e), the Commission must—
   (a) prepare a standard terms determination; and
-  (b) provide a copy of the standard terms determination to all parties to the determination; and
-  (c) give public notice of the standard terms determination.
-(2) A standard terms determination is neither a legislative instrument nor a disallowable instrument for the purposes of the Legislation Act 2012 (and does not have to be presented to the House of Representatives under section 41 of that Act).
+  (b) provide a copy of the standard terms determination to all parties to the determination.
+  (c)
+(2) A determination under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+(3) When a determination is published, the Commission must publish its reasons for making the determination on the Commission’s Internet site.
 
 ### 30N Commission's discretion to determine how standard terms determination is to be prepared
 (1) The Commission may, if it considers it appropriate in the circumstances, comply with section 30M(a) by preparing—
@@ -654,7 +660,7 @@ If the Commission considers that persons other than the parties to the determina
   (b) state the time frames within which the access provider must make the service available to—
     (i) every person who is already an access seeker when the standard terms determination is made; and
     (ii) every person who becomes an access seeker after the standard terms determination is made; and
-  (c) specify the reasons for the standard terms determination; and
+  (c)
   (d) specify the terms and conditions (if any) on which the standard terms determination is made; and
   (e) specify the actions (if any) that a party to the standard terms determination must take or refrain from taking.
 (2) To avoid doubt, a standard terms determination may also include, without limitation, terms concerning any or all of the following matters:
@@ -691,6 +697,7 @@ A standard terms determination must not include an expiry date for the determina
   (b) give public notice of the commencement of the review; and
   (c) include in the public notice under paragraph (b) the closing date for submissions; and
   (d) give public notice of the result of the review.
+(6) Any replacement standard terms determination, or a variation, addition, or deletion of terms under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 **Application of standard terms determination**
 
@@ -818,10 +825,12 @@ The Commission may consult with interested parties, hold conferences, or, if it 
 **Determination**
 
 ### 39 Determination
-As soon as practicable after completing any consultation, conferences, or any public hearing under section 38, or if there is no consultation, conferences, or public hearing, after the closing date for submissions under section 36(1)﻿(d)﻿(i), the Commission must,—
+(1) As soon as practicable after completing any consultation, conferences, or any public hearing under section 38, or if there is no consultation, conferences, or public hearing, after the closing date for submissions under section 36(1)﻿(d)﻿(i), the Commission must,—
   (a) prepare a determination; and
-  (b) give a copy of the determination to all the parties to the determination; and
-  (c) give public notice of the determination.
+  (b) give a copy of the determination to all the parties to the determination.
+  (c)
+(2) A determination under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+(3) When a determination is published, the Commission must publish its reasons for making the determination on the Commission’s Internet site.
 
 ### 40 Matters to be included in determination
 (1) Subject to subsection (2), a designated multinetwork service determination must include—
@@ -829,7 +838,7 @@ As soon as practicable after completing any consultation, conferences, or any pu
   (b) the formula for how the cost of delivering the service must be apportioned between the parties to the determination and every person who becomes an access provider after the determination is made; and
   (c) the requirement that all the parties to the determination provide the service by means of a system that is consistent with the functions and the standards set out in the determination; and
   (d) the requirement that any party to the determination make payments to an access provider of amounts calculated in accordance with the formula set out in the determination; and
-  (e) the reasons for the determination; and
+  (e)
   (f) the terms and conditions (if any) on which the determination is made; and
   (g) the actions (if any) that a party to the determination must do or refrain from doing; and
   (h) the expiry date of the determination.
@@ -924,9 +933,13 @@ If the Commission considers that persons, other than the parties to the determin
 ### 51 Pricing review determination
 (1) As soon as practicable after completing any consultation or conferences under section 50, the Commission must—
   (a) prepare the pricing review determination; and
-  (b) give a copy of the determination to the parties to the determination; and
-  (c) give public notice of the determination.
+  (b) give a copy of the determination to the parties to the determination.
+  (c)
 (2) To avoid doubt, a determination made under section 27 continues to have effect and is enforceable to the extent that it has not been altered by a pricing review determination.
+(3) A determination under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+(4) When a price review determination is published, the Commission must publish on the Commission’s Internet site the Commission’s reasons for making—
+  (a) the price review determination; and
+  (b) any determination referred to in section 52(b).
 
 ### 52 Matters to be included in determination
 A pricing review determination must include—
@@ -934,7 +947,7 @@ A pricing review determination must include—
     (i) the applicable final pricing principle (as affected, if at all, by clause 2 or clause 3 of Schedule 1); and
     (ii) any regulations that relate to the applicable final pricing principle or, if there are no regulations, any requirements of the Commission; and
   (b) if the Commission has considered any matters that relate to the price payable for the designated access service under section 48(b) and has made a determination in respect of those matters, that determination; and
-  (c) the reasons for the pricing review determination and the determination referred to in paragraph (b) (if any); and
+  (c)
   (d) the terms and conditions (if any) on which the pricing review determination and the determination referred to in paragraph (b) (if any) is made; and
   (e) the actions (if any) that a party to the determination must do or refrain from doing; and
   (f) the expiry date of the determination.
@@ -976,7 +989,7 @@ For a determination made under this Part, the Commission—
   (a) at any time the Commission, on its own initiative or on the application of any person, considers that a determination requires clarification; and
   (b)
   (c) no appeal is pending in respect of the determination.
-(2) The Commission must give public notice of an amendment to a determination made under subsection (1).
+(2) An amendment under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 59 Reconsideration of determination
 (1) Subject to subsection (2), the Commission may at any time, on the application of a party to a determination, revoke or amend the determination or revoke the determination and make a further determination in substitution for it if the Commission considers that—
@@ -986,7 +999,7 @@ For a determination made under this Part, the Commission—
 (2) A determination may not be reconsidered if an appeal is pending in respect of the determination.
 (3) In reconsidering a determination, the Commission must follow the same process that was followed for the initial determination.
 (4) To avoid doubt, a determination continues to have effect and is enforceable pending its reconsideration under this section.
-(5) The Commission must give public notice of a revoked or amended determination or a revoked and substituted determination.
+(5) A revocation or amendment under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 60 Appeals from certain determinations under Part 2
 (1) Subject to subsection (2), a party to a determination made under this Part may appeal to the High Court against—
@@ -1021,7 +1034,7 @@ Part 2 of the Commerce Act 1986 does not apply in respect of a determination mad
 [Repealed]
 
 ### 66 Alterations to Part 2 or Part 3 of Schedule 1
-The Governor-General may, by Order in Council made on the recommendation of the Minister, amend Part 2, or Part 3, of Schedule 1 by—
+(1) The Governor-General may, by Order in Council made on the recommendation of the Minister, amend Part 2, or Part 3, of Schedule 1 by—
   (a) adding a telecommunications service to the Part and setting out in relation to that service—
     (i) a description of the service; and
     (ii) any applicable conditions; and
@@ -1045,9 +1058,11 @@ The Governor-General may, by Order in Council made on the recommendation of the 
     (vii) any applicable initial pricing principle and the applicable final pricing principle:
     (viii) any requirement referred to in section 45 for the applicable final pricing principle:
     (ix) any additional matters that must be considered regarding the application of section 18.
+(2) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 67 Alterations to clauses 1 to 6 of Schedule 1
-The Governor-General may, by Order in Council made on the recommendation of the Minister, amend any of clauses 1 to 6 of Schedule 1.
+(1) The Governor-General may, by Order in Council made on the recommendation of the Minister, amend any of clauses 1 to 6 of Schedule 1.
+(2) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 68 Minister's recommendation subject to procedure in Schedule 3
 (1) The Minister must not make a recommendation under section 66 or 67 unless the Minister accepts the Commission's recommendation that the proposed alteration be made.
@@ -1072,6 +1087,7 @@ The Governor-General may, by Order in Council made on the recommendation of the 
   (f) providing requirements relating to the information that must be provided to the Commission in relation to all or any of the matters referred to in paragraphs (a) to (e):
   (g) providing for any other matters contemplated by this Part, necessary for its administration, or necessary for giving it full effect.
 (2) The Minister must not make a recommendation under subsection (1) unless the Commission has recommended the making of the regulations.
+(3) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ## Part 2AA — Deregulating copper fixed line access services
 
@@ -1306,14 +1322,14 @@ Spark and Chorus must each collect and retain information relating to the operat
 (4) The court may at any time rescind or vary an order made under this section.
 
 ### 69N Minister may grant exemption from application of subpart
-(1) The Minister may, by notice in the Gazette, exempt a sharing arrangement or class of sharing arrangements from the application of this subpart, if the Minister is satisfied that—
+(1) The Minister may, by notice, exempt a sharing arrangement or class of sharing arrangements from the application of this subpart, if the Minister is satisfied that—
   (a) any potential harm to competition in telecommunications markets would be likely to be trivial or inconsequential; and
   (b) commercial information or customer confidential information would not be disclosed.
 (2) The Minister must consult the Commission before granting an exemption under this section.
-(3) The exemption takes effect from the date specified in the exemption (which may not be earlier than the date of the Gazette notice).
+(3)
 (4) The Minister may grant the exemption on any terms and conditions that the Minister thinks fit.
 (5) The Minister may, in like manner, vary or revoke such an exemption.
-(6) An exemption under this section is a disallowable instrument, but not a legislative instrument, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
+(6) A notice under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 (7) Spark and Chorus must ensure that all exemptions granted under this section are available at all reasonable times, free of charge, on the Internet sites maintained by or on behalf of Spark and Chorus.
 
 ### Subpart 3 — Line of business restrictions
@@ -1372,9 +1388,9 @@ Spark and Chorus must each collect and retain information relating to the operat
 (5) Section 69SB applies to exemptions granted under this section.
 
 ### 69SB Other provisions relating to exemptions
-(1) An exemption is a disallowable instrument, but not a legislative instrument, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
-(2) The Commission must give public notice of the exemption as soon as practicable after the exemption is granted.
-(3) The Commission’s reasons for granting an exemption (including why it is appropriate) must be published together with the exemption.
+(1) An exemption under section 69SA is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+(2) When an exemption is published, the Commission must publish its reasons for granting the exemption, including why it is appropriate, on the Commission’s Internet site.
+(3)
 (4) The breach of a term or condition of an exemption is,—
   (a) in the case of an exemption under section 69SA(1)﻿(a), a breach of the undertaking required under section 69R:
   (b) in the case of an exemption under section 69SA(1)﻿(b), a breach of section 69S.
@@ -1714,6 +1730,7 @@ For the purposes of the Income Tax Act 2007, for expenditure that a Telecom comp
   (c) define the geographical area within which the service must be supplied; and
   (d) specify the retail price at, or below which, the service must be supplied; and
   (e) specify the criteria that must be met for the standard of the service to be supplied.
+(5) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 (5)
 
 ### 71 Deemed TSO instrument
@@ -1754,6 +1771,7 @@ A variation of—
 (2) The Minister must not make a recommendation under subsection (1)﻿(a) or (b) unless,—
   (a) in the case of an instrument that is declared to be a TSO instrument under section 70, the service provider to whom that instrument applies agrees to the revocation of the declaration; or
   (b) in the case of a deemed TSO instrument, the service provider to whom that instrument applies agrees to that instrument ceasing to have effect as a deemed TSO instrument.
+(3) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements)
 
 ### 77 Notification of TSO instrument
 (1) The Minister must notify the Commission of—
@@ -1862,9 +1880,10 @@ The Commission may—
 ### 87 Commission to prepare final liability allocation determination
 (1) The Commission must—
   (a) prepare a final liability allocation determination; and
-  (b) give public notice of that final determination; and
+  (b)
   (c) give a copy of that final determination to all liable persons.
 (2) The Commission must make reasonable efforts to do the things referred to in subsection (1) not later than 20 working days after the closing date for submissions specified in accordance with section 84(1)﻿(c).
+(3) A determination under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 88 Matters to be included in final liability allocation determination
 A final liability allocation determination must include—
@@ -1900,6 +1919,7 @@ A final liability allocation determination must include—
 ### 92 Annual telecommunications development levy may be reduced by Order in Council
 (1) The Governor-General may, by Order in Council made on the recommendation of the Minister, amend Schedule 3B by reducing the annual telecommunications development levy set out in that schedule for 1 or more future years.
 (2) The Minister must not recommend the making of an order unless the Minister is satisfied that the full amount set out in Schedule 3B is not required for the purposes in section 90.
+(3) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### Subpart 2A — TSO charges payable by the Crown
 
@@ -2033,10 +2053,12 @@ The Commission may—
 ### 94J Commission to prepare final TSO cost calculation determination
 (1) The Commission must—
   (a) prepare a final TSO cost calculation determination; and
-  (b) give public notice of that final determination; and
+  (b)
   (c) give a copy of that final determination to the Minister, all liable persons, and the TSO providers in relation to the TSO instrument.
 (2) The Commission must make reasonable efforts to do the things referred to in subsection (1) not later than 40 working days after the closing date for submissions specified in accordance with section 94F(1)﻿(c).
 (3) This section is subject to sections 94 and 94C.
+(4) A determination under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+(5) When a determination is published, the Commission must publish its reasons for making the determination on the Commission’s Internet site.
 
 ### 94K Matters to be included in final TSO cost calculation determination
 (1) A final TSO cost calculation determination must include,—
@@ -2055,8 +2077,8 @@ The Commission may—
     (ia) in the case of a TSO instrument that does not contain a specified amount and is a deemed TSO instrument, by subtracting the amount of the reduction (if any) referred to in paragraph (c) and the net revenue referred to in paragraph (ab) from the net cost referred to in paragraph (a); and
     (ii) in the case of a TSO instrument that contains a specified amount, by subtracting the amount of the reduction (if any) referred to in paragraph (c) from the specified amount referred to in paragraph (b); and
   (e) the amount payable by the Crown to the TSO provider in relation to the TSO instrument for the loss of use of the amount referred to in paragraph (d), calculated at the 90-day bank bill rate (as at the date of the final determination) for the period commencing from the end of the financial year and ending with the date of the final TSO cost calculation determination; and
-  (f) the methodology used by the Commission in preparing the determination; and
-  (g) the reasons for the determination.
+  (f) the methodology used by the Commission in preparing the determination.
+  (g)
 (2) To avoid doubt, if the calculation under subsection (1)﻿(a) or (b) results in a figure that is zero or less, the amount for the purposes of subsection (1)﻿(d) and (e), and that must be included in the determination, is zero.
 
 ### 94L Payment by the Crown to TSO provider
@@ -2167,6 +2189,7 @@ For a determination made under this Part, the Commission—
   (b) the Commission has recommended that the regulations be made.
 (3) The Minister must not recommend the making of regulations under subsection (1)﻿(a) unless the Minister is satisfied that, if the regulations were made, the minimum telecommunications revenue under those regulations would not exceed the maximum telecommunications revenue threshold.
 (4) In this section, maximum telecommunications revenue threshold means the amount calculated in accordance with the following formula:The following table is small and contains a formula.a× cbwhere—ais the CPI index number for the last quarter before the Minister's recommendation would be madebis the CPI index number for the last quarter before the date of commencement of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011cis $10 million.
+(5) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 101A Review of local service TSO arrangements
 [Repealed]
@@ -2199,10 +2222,10 @@ The Minister must declare an applicant to be a network operator for the purposes
 ### 104 When declaration must be revoked
 The Minister must revoke a declaration if the Minister is satisfied that a network operator has ceased to provide the facilities listed in section 103.
 
-### 105 Declaration made or revoked by notice in Gazette
-(1) A declaration is made by notice in the Gazette, except that Chorus and Spark are declared to be network operators by this Act.
-(1A) A declaration may be revoked by notice in the Gazette (including the declarations relating to Chorus and Spark).
-(2) A notice in the Gazette under this section is a disallowable instrument, but not a legislative instrument, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
+### 105 Declaration made or revoked by notice
+(1) A declaration is made by notice, except that Chorus and Spark are declared to be network operators by this Act.
+(1A) A declaration may be revoked by notice (including the declarations relating to Chorus and Spark).
+(2) A notice making or revoking a declaration is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 **Connection to network**
 
@@ -2230,11 +2253,12 @@ The Minister must revoke a declaration if the Minister is satisfied that a netwo
 (3) In subsection (2) and section 109, relevant competent conformity assessment body means a body that is recognised, in accordance with any procedure set out in any regulations made under section 109, as being responsible for assessing, in accordance with those regulations, whether or not particular equipment complies with applicable standards that are published.
 
 ### 109 Regulations
-The Governor-General may, by Order in Council made on the recommendation of the Minister, make regulations for all or any of the following purposes:
+(1) The Governor-General may, by Order in Council made on the recommendation of the Minister, make regulations for all or any of the following purposes:
   (a) providing for procedures and requirements relating to the publication of applicable standards under section 108(2)﻿(b):
   (b) providing for procedures and requirements that relate to recognising a body as a competent conformity assessment body for the purposes of assessing compliance with applicable standards under section 108(2)﻿(c):
   (c) providing for procedures and requirements that relate to assessing compliance with applicable standards under section 108(2)﻿(c):
   (d) providing for any other matters contemplated by section 108, necessary for its administration, or necessary for giving it full effect.
+(2) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 110 Actions for damages for contravention of section 106
 (1) Every person is liable for damages who—
@@ -2260,6 +2284,7 @@ The Governor-General may, by Order in Council made on the recommendation of the 
   (a) means Spark; and
   (b) includes a person who is declared by the Governor-General, by Order in Council made on the recommendation of the Minister, to be a major supplier for the purposes of this section.
 (3) The Minister must not make a recommendation under subsection (2)﻿(b) unless the Minister is satisfied that the proposed order to which the recommendation relates is necessary to facilitate New Zealand's compliance with its international obligations.
+(4) An order under subsection (2)﻿(b) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 **Misuse of network**
 
@@ -2873,7 +2898,7 @@ If an FTTP service provider or a network operator wants to enter property and ca
   (a) first notifies the exempt person (where possible) of the proposed amendment or revocation and gives the person a reasonable opportunity to comment on the proposal; and
   (b) is satisfied that the amendment or revocation is necessary or desirable in order to meet the purpose of the dispute resolution scheme.
 (6) The Ministry must ensure that an up-to-date list of all exemptions is available at all reasonable times on an Internet site maintained by or on behalf of the Ministry.
-(7) An exemption that is granted, amended, or revoked under this section is not a disallowable instrument for the purposes of the Legislation Act 2012 and does not have to be presented to the House of Representatives under section 41 of that Act.
+(7)
 
 ### 155ZI Disputes may be referred to dispute resolution scheme
 (1) A dispute between the following persons about their rights and obligations under this subpart in relation to an installation may be referred to the dispute resolution scheme by any of the parties to the dispute:
@@ -2924,6 +2949,7 @@ ExampleThis example refers to the situation set out in the example in section 15
 (4) The Governor-General may, by Order in Council made on the recommendation of the Minister, make regulations providing for the levy.
 (5) The levy must be prescribed on the basis that the costs of establishing and operating the dispute resolution scheme should be met fully out of the levy.
 (6) The Governor-General, in making regulations under this section, has the same powers as those set out in section 11(3).
+(7) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 **Regulations and exemption**
 
@@ -2957,6 +2983,7 @@ ExampleThis example refers to the situation set out in the example in section 15
   (a) any disruption that the installation may cause for users of the property will be temporary; and
   (b) any lasting, substantial, physical impact that the installation may have on the property is justifiable in support of the mass market roll-out of a telecommunications network.Examples of category 1 and category 2 installationsExamples of category 1 installations are—an installation that uses existing equipment such as ducts or conduit:an aerial installation:an installation that only disturbs soft surfaces and where those surfaces can easily be restored.Examples of category 2 installations are—micro-trenching where the width of the cut is not more than the prescribed width:an installation that is predominantly below the surface, such as directional drilling, where the physical impact is limited to access points, or entry and exit points, that do not exceed the prescribed size:open trenching where the size of the trench, once reinstated, is not more than the prescribed size.
 (5) A failure to comply with this section does not affect the validity of the regulations made.
+(6) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 155ZP Exemption from body corporate duties of repair and maintenance
 (1) A body corporate is exempted from any obligation to repair and maintain fibre network equipment installed in its complex if that network was installed as part of the UFB initiative.
@@ -3134,6 +3161,7 @@ The right of entry under section 155ZT does not affect any rights or obligations
   (a) consult the Minister who is responsible for the administration of the Electricity Act 1992, the owners of existing works (or representatives of those persons) and other persons or their representatives who the Minister considers will be substantially affected by the regulations made in accordance with the recommendation; and
   (b) in the case of regulations under subsection (1)﻿(e), consult the Commission after taking the steps in section 155ZZ.
 (3) Failure to comply with subsection (2) does not affect the validity of the regulations.
+(4) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ## Part 4AA — Services provided using networks developed with Crown funding: Undertakings regime and Commerce Act 1986 authorisations
 
@@ -3223,23 +3251,13 @@ The purposes of this subpart are to—
   (a) specify the relevant services, or types of relevant services, to which the requirements in section 156AD apply, and how they are to apply; and
   (b) include further matters that must be addressed in the undertaking, and minimum requirements for the undertaking.
 (3) Any further requirements determined by the Minister under this section do not apply to an undertaking that has already been approved by the Minister.
+(4) A determination under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 156AF Minister must issue and consult on draft determination
 Before making a determination under section 156AE, the Minister must prepare a draft determination and consult on that draft with those persons that the Minister considers have a material interest in the determination.
 
 ### 156AG Procedural requirements for determination
-(1) The Minister must notify a determination made under section 156AE in the Gazette as soon as practicable after it is made.
-(2) The notice in the Gazette—
-  (a) need not contain the determination:
-  (b) must give a brief description of the nature of the determination:
-  (c) must state where copies of the determination are available for inspection and purchase.
-(3) The Minister must make the determination available to the public by making copies of it available—
-  (a) for inspection, free of charge,—
-    (i) at the head office of the Ministry (during office hours); and
-    (ii) on the Internet in an electronic form that is publicly accessible (at all reasonable times); and
-  (b) for purchase at a reasonable price.
-(4) A determination is a disallowable instrument, but not a legislative instrument, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
-(5)
+[Repealed]
 
 **Process for submission and consideration of undertakings**
 
@@ -3750,7 +3768,7 @@ The amount of any pecuniary penalty imposed under section 156Q(2) must not excee
 [Repealed]
 
 ### 157 Regulations
-The Governor-General may, by Order in Council made on the recommendation of the Minister, make regulations for all or any of the following purposes:
+(1) The Governor-General may, by Order in Council made on the recommendation of the Minister, make regulations for all or any of the following purposes:
   (a) prescribing matters in respect of which fees are payable under this Act and the amounts of those fees:
   (b) authorising the Commission in its discretion, or on any grounds that may be prescribed, to refund, in whole or in part, any prescribed fee that has been paid under this Act:
   (c) prescribing forms for the purposes of this Act:
@@ -3764,6 +3782,7 @@ The Governor-General may, by Order in Council made on the recommendation of the 
   (ch) setting out minimum requirements for emergency call services and specifying which persons are subject to those requirements:
   (ci) prescribing matters for the purposes of the copper withdrawal code:
   (d) providing for any other matters contemplated by this Act, necessary for its administration, or necessary for giving it full effect.
+(2) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 158 Enactments amended
 [Repealed]
@@ -3774,11 +3793,13 @@ The Governor-General may, by Order in Council made on the recommendation of the 
 ### 160 Transitional provision for declarations made under section 2A of 1987 Act
 (1) Despite the repeal of section 2A of the 1987 Act by section 159, every declaration made under section 2A of the 1987 Act and in force immediately before the commencement of this Act continues in force and has full effect until the declaration is revoked,—
   (a) in the case of a declaration made by Order in Council, by the Governor-General by Order in Council made on the recommendation of the Minister; or
-  (b) in the case of a declaration made by the Minister, by the Minister by notice in the Gazette.
+  (b) in the case of a declaration made by the Minister, by the Minister by notice.
 (2) The Minister must make a recommendation under subsection (1)﻿(a) or revoke a declaration under subsection (1)﻿(b) (as the case may be) if the Minister is satisfied that the network operator has ceased to provide—
   (a) facilities for telecommunication (other than facilities used exclusively for broadcasting) between 10 or more other persons that enable at least 10 of those persons to communicate with each other; or
   (b) facilities for broadcasting to 500 or more other persons that enable programmes to be transmitted along a line or lines to each of those persons.
-(3) A notice in the Gazette under subsection (1)﻿(b) is a disallowable instrument, but not a legislative instrument, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
+(3) The following are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements):
+  (a) an order under subsection (1)﻿(a):
+  (b) a notice under subsection (1)﻿(b).
 
 ### 161 Transitional provision relating to repeal of section 5C of 1987 Act
 [Repealed]
@@ -3819,7 +3840,7 @@ The purpose of this Part is to promote the long-term benefit of end-users in mar
   - **information disclosure requirement** means a requirement that—
     (a) applies to a regulated fibre service provider who is prescribed in regulations made under section 226 as being subject to information disclosure regulation; and
     (b) is specified in a section 170 determination
-  - **input methodology** means a description of any methodology, process, rule, or matter that includes any of the matters listed in section 176 and that is published by the Commission under section 180
+  - **input methodology** means a description of any methodology, process, rule, or matter that includes any of the matters listed in section 176 and that is published as referred to in section 180
   - **point-to-multipoint layer 1 service** has the meaning given in section 156AB
   - **price** —
     (a) means 1 or more of individual prices, aggregate prices, or revenues (whether in the form of specific numbers, or in the form of formulas by which specific numbers are derived); and
@@ -3873,10 +3894,8 @@ Fibre fixed line access services supplied by a regulated fibre service provider 
   (d) be consistent with this Part.
 (3) It is not necessary for a single determination to address all matters relating to fibre fixed line access services, or to a regulated fibre service provider, and different parts of any determination may come into effect at different times.
 (4) A determination made under this section may require a regulated fibre service provider to comply with the requirements set out in any other determination that has been made under this section in respect of fibre fixed line access services.
-(5) The Commission must, as soon as practicable after making a determination under this section,—
-  (a) give a copy of the determination to each regulated fibre service provider to whom the determination relates; and
-  (b) give public notice of the determination.
-(6) A determination under this section is neither a legislative instrument nor a disallowable instrument for the purposes of the Legislation Act 2012 (and does not have to be presented to the House of Representatives under section 41 of that Act).
+(5) A determination under this section and an amendment to a determination are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+(6) The Commission must, as soon as practicable after making a determination under this section, give to each regulated fibre service provider to whom the determination relates notice of the determination and where it is available.
 
 ### 171 Determinations must reflect actual costs of Crown financing
 (1) This section applies if a section 170 determination sets maximum revenues that may be recovered by, or the maximum price or prices that may be charged by, a regulated fibre service provider.
@@ -3890,11 +3909,9 @@ Fibre fixed line access services supplied by a regulated fibre service provider 
 
 ### 173 Amendment of section 170 determination
 (1) A section 170 determination may be amended in a material way only after the Commission has consulted with interested parties, but may be amended in a non-material way without prior consultation.
-(2) An amendment forms part of the determination it amends.
-(3) An amendment comes into force on the date specified in the amendment, which must be a date on or after the date on which public notice is given under subsection (4)﻿(b).
-(4) The Commission must, as soon as practicable after making an amendment,—
-  (a) give a copy of the amendment to each provider to whom the determination relates; and
-  (b) give public notice of the determination, as amended by the amendment.
+(2) As soon as practicable after making an amendment, the Commission must give to each provider to whom the determination relates notice of the amendment and where it is available.
+(3)
+(4)
 
 ### Subpart 3 — Input methodologies
 
@@ -3973,12 +3990,16 @@ A relevant input methodology relating to the supply of fibre fixed line access s
   (d) must have regard to any views received from interested persons within any time frames set.
 (3) Any work done or action taken (including any consultation) by the Commission on input methodologies before this section commences may be taken into account as part of the work required to be done by the Commission to comply with the requirements of subsections (1) and (2).
 
-### 180 Publication of input methodologies
-(1) The Commission must give public notice of every input methodology, and every amendment to an input methodology,—
-  (a) within 10 working days after the Commission determines the input methodology or amendment; and
-  (b) if the input methodology or amendment is determined by the High Court on appeal, within 10 working days after the Commission receives a copy of the decision of the High Court.
-(2) For the purposes of the public notice given under section 6, the full text of the matter must include the reasons for determining the methodology.
-(3) An input methodology or amendment is neither a legislative instrument nor a disallowable instrument for the purposes of the Legislation Act 2012 (and does not have to be presented to the House of Representatives under section 41 of that Act).
+### 180 Status of input methodologies, amendments, and revocations
+(1) The following are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements):
+  (a) an input methodology:
+  (b) an amendment to an input methodology:
+  (c) the revocation by the Commission of an input methodology.
+(2) The secondary legislation must be published under the Legislation Act 2019,—
+  (a) if it is made by the Commission, within 10 working days after the Commission makes its determination; or
+  (b) if it is made by the High Court on appeal, within 10 working days after the Commission receives a copy of the High Court’s decision.
+(3) If an input methodology or amendment is made by the High Court on appeal, the Legislation Act 2019 applies as if the Commission were the maker of the secondary legislation.
+(4) When a methodology or an amendment (but not a revocation) is published, the Commission must publish the reasons for determining the methodology, or for amending it, on the Commission’s Internet site.
 
 ### 181 Changes to input methodologies
 (1) If the Commission proposes to amend an input methodology to make a material change, section 179 applies as if the amendment were a new input methodology.
@@ -3990,15 +4011,13 @@ A relevant input methodology relating to the supply of fibre fixed line access s
   (b) must give interested persons a reasonable opportunity to give their views on the proposed revocation; and
   (c) may hold 1 or more conferences; and
   (d) must have regard to any views received from interested persons within any time frames set.
-(4) The Commission must give public notice of the revocation of an input methodology within 10 working days after the input methodology is revoked.
+(4) See also section 180.
 
 ### 182 Review and date of publication of input methodologies
 (1) The Commission must review each input methodology no later than 7 years after its date of publication and, after that, at intervals of no more than 7 years.
-(2) The date of publication of an input methodology is—
-  (a) the date on which public notice of the methodology is given under section 180(1)﻿(a); or
-  (b) if a later public notice is given under section 180(1)﻿(b), the date of that notice.
+(2) The date of publication of an input methodology is the date on which it is published under the Legislation Act 2019.
 (3) Section 179 applies, with any necessary modifications, as if the review were a new input methodology.
-(4) Section 180 (or, if relevant, section 181(4)) applies if, after a review, an input methodology is replaced, amended, or revoked.
+(4) See also section 180.
 
 **Appeals against input methodology determinations**
 
@@ -4022,7 +4041,7 @@ A relevant input methodology relating to the supply of fibre fixed line access s
 (6) There is a right of appeal under section 97 of the Commerce Act 1986 to the Court of Appeal from any decision or order of the High Court under this section on a point of law only.
 
 ### 184 Process for appeals
-(1) An appeal under section 183(1) must be brought within 20 working days after the date on which public notice of the input methodology is given.
+(1) An appeal under section 183(1) must be brought within 20 working days after the date on which the input methodology is published.
 (2) The appeal must be by way of rehearing and must be conducted solely on the basis of the documentary information and views that were before the Commission when it made its determination, and no party may introduce any new material during the appeal.
 (3) The High Court must sit with 2 lay members (unless the court considers that only 1 is required).
 (4) Each of the lay members must have relevant experience and be appointed from the pool of people appointed under section 77 of the Commerce Act 1986 to be members of the court for the purpose of hearing the appeal.
@@ -4044,7 +4063,7 @@ The purpose of information disclosure regulation is to ensure that sufficient in
   (c) supply to the Commission, in accordance with a written notice by the Commission, any further statements, reports, agreements, particulars, or other information required for the purpose of monitoring the regulated fibre service provider’s compliance with the section 170 determination.
 (2) If a regulated fibre service provider is subject to information disclosure regulation, the Commission—
   (a) may monitor and analyse all information disclosed in accordance with the information disclosure requirements; and
-  (b) must, as soon as practicable after any information is publicly disclosed, publish (on an Internet site maintained by or on behalf of the Commission) a summary and an analysis of that information for the purpose of promoting greater understanding of the performance of individual regulated fibre service providers, their relative performance, changes in their performance over time, and their ability to extract excessive profits.
+  (b) must, as soon as practicable after any information is publicly disclosed, publish (on the Commission’s Internet site) a summary and an analysis of that information for the purpose of promoting greater understanding of the performance of individual regulated fibre service providers, their relative performance, changes in their performance over time, and their ability to extract excessive profits.
 (3) To avoid doubt, the Commission may, as part of a summary and an analysis, include an analysis of how effective the information disclosure requirements imposed on the regulated fibre service providers are in promoting the purpose in section 162.
 (4) In complying with subsection (2)﻿(b), the Commission must ensure that satisfactory provision exists to protect the confidentiality of any information that may reasonably be regarded as confidential or commercially sensitive.
 
@@ -4078,6 +4097,9 @@ The purpose of information disclosure regulation is to ensure that sufficient in
   (e) provide for transitional provisions:
   (f) impose any other requirements that the Commission considers necessary or desirable to promote the purpose of information disclosure regulation.
 (4) The section 170 determination may not require a regulated fibre service provider to publicly disclose any provision of an existing contract that, immediately before the fibre fixed line access services became subject to information disclosure regulation, was not required by or under any other enactment to be publicly disclosed.
+(5) If a section 170 determination authorises a person to grant exemptions referred to in subsection (3)﻿(d),—
+  (a) an instrument granting or revoking an exemption is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements), unless it applies only to 1 or more named persons; and
+  (b) the regulations must contain a statement to that effect.
 
 ### 189 Consolidated information may also be required
 (1) The purpose of this section is to enable the Commission to monitor compliance with information disclosure regulation applying to fibre fixed line access services.
@@ -4378,15 +4400,15 @@ In the exercise of its jurisdiction under this Part, except in respect of crimin
 ### 222 Power to exempt disclosure of commercially sensitive information
 (1) The Commission may, on application, exempt any person, in respect of any information or class of information that the Commission considers to be commercially sensitive, from any obligation to make that information available to the public as part of the requirements of information disclosure regulation or price-quality regulation.
 (2) The Commission may grant the exemption on any terms and conditions that it thinks fit.
-(3) The Commission must give public notice of the exemption.
-(4) The exemption takes effect from the date specified in the exemption (which must not be earlier than the date on which public notice is given).
+(3)
+(4)
 (5) The Commission’s reasons for granting an exemption (including why it is appropriate) must be published together with the exemption.
 (6) The Commission must keep a list of all current exemptions made by it under this section and must make the list available—
   (a) for public inspection free of charge during normal office hours of the Commission at the offices of the Commission; and
-  (b) on an Internet site maintained by or on behalf of the Commission.
+  (b) on the Commission’s Internet site.
 (7) The Commission may vary or revoke an exemption in the same way as it may grant the exemption, and this section applies with all necessary modifications.
 (8) The breach of a term or condition of an exemption is a breach of the obligation to which the exemption relates.
-(9) An exemption under this section is neither a legislative instrument nor a disallowable instrument for the purposes of the Legislation Act 2012 and does not have to be presented to the House of Representatives under section 41 of that Act.
+(9) An exemption under this section, and any variation or revocation of it, is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 223 Material may be incorporated by reference
 Schedule 5 of the Commerce Act 1986 applies with any necessary modifications if the Commission wishes to incorporate material by reference in 1 or both of the following:
@@ -4411,6 +4433,7 @@ Schedule 5 of the Commerce Act 1986 applies with any necessary modifications if 
 (1) The Governor-General may, by Order in Council made on the recommendation of the Minister, declare a date to be the reset date for the purpose of sections 195 and 196.
 (2) The power to make an order made under this section may be exercised only once.
 (3) The Minister must not recommend that an order be made under this section unless the Commission has, after a review under section 209, recommended that the order be made.
+(4) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 226 Persons subject to regulation under Part 6
 (1) The Governor-General may, by Order in Council made on the recommendation of the Minister, make regulations prescribing a person who provides fibre fixed line access services as being subject to 1 or both of the following:
@@ -4435,6 +4458,7 @@ Schedule 5 of the Commerce Act 1986 applies with any necessary modifications if 
 (7) If, in accordance with regulations made under this section, a person is subject to information disclosure regulation or price-quality regulation (or both) in respect of 1 or more fibre fixed line access services, the regulations apply to any subsidiary of, or successor to, the person in respect of those services.
 (8) For the purposes of subsection (4)﻿(a), the Commission has consulted with interested persons if it has complied with section 210(5) in relation to the proposed change to be implemented through the regulations.
 (9) In this section, a reference to a person who provides fibre fixed line access services includes a person who provides services that would be fibre fixed line access services if the person was already subject to information disclosure regulation or price-quality regulation under this Part.
+(10) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 227 Anchor services
 (1) The Governor-General may, by Order in Council made on the recommendation of the Minister, make regulations declaring a fibre fixed line access service to be an anchor service.
@@ -4454,6 +4478,7 @@ Schedule 5 of the Commerce Act 1986 applies with any necessary modifications if 
   (a) the regulations have no more than a minor effect:
   (b) the regulations correct errors or make similar technical amendments.
 (6) See clause 14 of Schedule 1AA for requirements relating to the first regulations made under this section.
+(7) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 228 Direct fibre access services
 (1) The Governor-General may, by Order in Council made on the recommendation of the Minister, make regulations declaring a fibre fixed line access service to be a direct fibre access service.
@@ -4475,6 +4500,7 @@ Schedule 5 of the Commerce Act 1986 applies with any necessary modifications if 
   (c) the regulations are allowed under subsection (6).
 (6) If a review has not been carried out under section 209, the Minister may recommend that regulations be made under subsection (2)﻿)d) if the Minister is satisfied that the regulations will prescribe a maximum price by reference to the contract price of the service immediately before the implementation date, with an annual CPI adjustment mechanism.
 (7) See clause 15 of Schedule 1AA for requirements relating to the first regulations made under this section.
+(8) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 229 Unbundled fibre services
 (1) The Governor-General may, by Order in Council made on the recommendation of the Minister, make regulations declaring a point-to-multipoint layer 1 service supplied to end-users’ premises or buildings to be an unbundled fibre service.
@@ -4495,6 +4521,7 @@ Schedule 5 of the Commerce Act 1986 applies with any necessary modifications if 
   (b) the regulations correct errors or make similar technical amendments.
 (6) Despite subsection (1), the Minister must not recommend that a service be declared, before 1 January 2026, to be an unbundled fibre service if the service is provided over a fibre network developed as part of UFB 2 (as defined in section 156AB).
 (7) See clause 16 of Schedule 1AA for requirements relating to the first regulations made under this section.
+(8) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 230 Regulations under sections 228 and 229 may modify undertaking under section 156AD
 (1) This section applies if the Governor-General makes regulations under section 228 or 229.
@@ -4506,6 +4533,7 @@ Schedule 5 of the Commerce Act 1986 applies with any necessary modifications if 
   (d) the technical specifications of the service:
   (e) any other circumstances in which the service is supplied.
 (4) In this section, LFC has the meaning given in section 156AB.
+(5) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 231 Specified points of interconnection
 (1) The Commission may, by public notice, prescribe points of interconnection for the purposes of establishing fibre handover points.
@@ -4520,7 +4548,7 @@ Schedule 5 of the Commerce Act 1986 applies with any necessary modifications if 
 (5) The first notice made under this section—
   (a) must prescribe points of interconnection based on the points of interconnection that apply as at the close of 31 December 2019 under the UFB initiative; and
   (b) may prescribe additional points of interconnection.
-(6) A notice under this section is neither a legislative instrument nor a disallowable instrument for the purposes of the Legislation Act 2012 and does not have to be presented to the House of Representatives under section 41 of that Act.
+(6)
 
 ## Part 7 — Consumer matters
 
@@ -4562,6 +4590,7 @@ The Commission may issue guidelines to the telecommunications industry on any ma
     (i) the code fails to achieve the purpose set out in section 233; or
     (ii) a Commission RSQ code would better achieve the purpose set out in section 233.
 (2) If the Commission intends to make a Commission RSQ code, the Commission must, before making the code, provide a report to the Minister containing the reasons for making the code and the provision of this section that applies.
+(3) A Commission RSQ code, and any amendment to or revocation of the code, is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 237 Contents of Commission retail service quality code
 (1) A Commission RSQ code must—
@@ -4595,6 +4624,7 @@ The Commission may issue guidelines to the telecommunications industry on any ma
   - **vulnerable consumer** means a consumer of a specified telecommunications service who—
     (a) is at particular risk of requiring the 111 emergency service (for example, due to a known medical condition); and
     (b) does not have a means for contacting the 111 emergency service that can be operated for the minimum period in the event of a power failure.
+(6) A Commission 111 contact code, and any amendment to or revocation of the code, is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 **Process for making Commission codes**
 
@@ -4612,7 +4642,7 @@ The Commission may issue guidelines to the telecommunications industry on any ma
 (4) The Commission may make the code only if the Commission is satisfied that the draft code meets all the requirements set out in this Part.
 (5) The Commission may amend or revoke a code if the Commission considers that the code no longer meets all the requirements set out in this Part.
 (6) The same procedure that applies to making a code in subsections (1) to (4) must be followed to make an amendment or a revocation, with any necessary modifications.
-(7) The Commission must give public notice of every code that is made and every amendment or revocation of those codes.
+(7)
 
 **Dispute resolution schemes**
 
@@ -4778,9 +4808,11 @@ In this Part,—
 (3) In this clause, former section 6 means section 6 as in force immediately before the commencement of section 5 of the Telecommunications (New Regulatory Framework) Amendment Act 2018.
 
 ### 9 Implementation date
-(1) The Minister may, at any time before the implementation date, defer the implementation date by up to 2 years if the Commission makes a written request for a deferral.
+(1) The Minister may, by notice at any time before the implementation date, defer the implementation date by up to 2 years if the Commission makes a written request for a deferral.
 (2) However, the Minister may defer the implementation date only once.
-(3) The Minister must notify a deferral, and specify the new implementation date, in the Gazette.
+(3) A notice deferring the implementation date—
+  (a) must specify a new implementation date; and
+  (b) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 (4) Subclause (5) applies if the implementation date is deferred.
 (5) During the period starting on 1 December 2019 and ending on the close of the day immediately before the new implementation date, each specified contract continues in force to the extent that it relates to any of the following:
   (a) services that Crown Infrastructure Partners Limited and a UFB partner or an LFC agreed would be offered and provided to access seekers by that UFB partner or LFC:
@@ -5160,17 +5192,22 @@ An approved code may be—
     (ii) the consultation referred to in clause 7(1) has been carried out; and
   (b) approve the amendment as soon as practicable after paragraph (a) has been complied with.
 
-### 16 Public notice of approved codes
-The Commission must give public notice of—
-  (a) every approved code; and
-  (b) every revocation of an approved code.
+### 16 Status of approved codes
+(1) The following are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements):
+  (a) an approved code:
+  (b) any amendment of an approved code that is approved by the Commission:
+  (c) any revocation of an approved code.
+(2) That Act applies as if—
+  (a) the Commission were the maker of an approved code or amendment; and
+  (b) the code or amendments were made by the Commission approving it.
 
 ### Part 2 — Telecommunications access codes prepared by Commission
 
 ### 17 Commission may prepare code
 (1) The Commission may, on its own initiative, prepare 1 or more telecommunications access codes in relation to any matter that is not already provided for by an approved code.
 (2) This clause does not limit clause 1.
-(3) For the purposes of this clause, the provisions of Part 1 of this schedule, so far as they are applicable and with any necessary modifications, apply to a code prepared by the Commission as if it were a code prepared by the Forum under that Part.
+(3) For the purposes of this clause, the provisions of Part 1 of this schedule (except clause 16), so far as they are applicable and with any necessary modifications, apply to a code prepared by the Commission as if it were a code prepared by the Forum under that Part.
+(4) A code under this clause, and any amendment or revocation of it, is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ## Schedule 2A — Copper withdrawal code
 
@@ -5219,10 +5256,11 @@ The Commission may approve a draft code if the Commission is satisfied that the 
 (1) The Commission may prepare an amendment to the approved code or revoke the approved code if the Commission considers that the approved code no longer meets all the requirements set out in this Act.
 (2) The same procedure that applies to making a code in clauses 2 and 3 must be followed to make an amendment or a revocation.
 
-### 5 Public notice of approved code
-The Commission must give public notice of—
-  (a) the approved code; and
-  (b) every amendment or revocation of the approved code.
+### 5 Status of approved code
+(1) An approved code under this Schedule, or an amendment or revocation of the code, is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+(2) That Act applies as if—
+  (a) the Commission were the maker of the approved code; and
+  (b) the code was made by the Commission approving it.
 
 ## Schedule 3 — Procedure for altering regulated services
 
@@ -5723,12 +5761,14 @@ The provider of the approved scheme must maintain and publicise a list of curren
   (a) the industry bodies (if any) for the telecommunications industry; and
   (b) any other persons (or their representatives) that the Minister considers are likely to be substantially affected by the recommendation.
 (4) However, a failure to consult the persons referred to in subclause (3) does not affect the validity of the regulations.
+(5) Regulations under this clause are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 17 Order in Council appointing provider of regulated scheme
 (1) The Governor-General may, by Order in Council made on the recommendation of the Minister, appoint a person to provide the regulated scheme.
 (2) The Minister may make a recommendation under this clause only if the Minister is satisfied that the person appointed as the provider—
   (a) is a formally constituted dispute resolution body; and
   (b) is capable of providing the scheme in accordance with the purpose in clause 1 and the rules of the scheme.
+(3) An order under this clause is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 18 Notice of intention to revoke appointment
 (1) An appointment made by Order in Council may not be revoked on the ground that the Minister has approved, or intends to approve, an approved scheme under clause 5 unless the Minister has given the scheme provider at least 3 months' notice in writing of the intention to revoke the appointment.
