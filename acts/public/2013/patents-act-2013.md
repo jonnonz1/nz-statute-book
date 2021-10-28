@@ -1,5 +1,5 @@
 # Patents Act 2013
-_Consolidation as at 2020-08-07_
+_Consolidation as at 2021-10-28_
 
 ### 1 Title
 This Act is the Patents Act 2013.
@@ -13,6 +13,7 @@ This Act is the Patents Act 2013.
   (e) section 266(1) (which appoints the Commissioner and Assistant Commissioners of Patents under the Patents Act 1953 as the new Commissioner and Assistant Commissioners).
 (2) The rest of this Act comes into force on a date to be appointed by the Governor-General by Order in Council; and 1 or more orders may be made bringing different provisions into force on different dates.
 (3) To the extent that it is not previously brought into force under subsection (1) or (2), the rest of this Act comes into force on the first anniversary of the date on which this Act receives the Royal assent.
+(4) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ## Part 1 — Preliminary
 
@@ -1545,7 +1546,7 @@ If an application is made under section 165, the Commissioner, on proof satisfac
   (a) amend or revoke a notice under subsection (2):
   (b) revoke a notice under subsection (2) and replace it with another.
 (5) The Secretary must publish a copy of a notice under subsection (2) on an Internet site maintained by, or on behalf of, the Ministry of Foreign Affairs and Trade.
-(6) To avoid doubt, a notice under subsection (2) is neither a legislative instrument nor a disallowable instrument for the purposes of the Legislation Act 2012 and does not have to be presented to the House of Representatives under section 41 of that Act.
+(6)
 
 ### 173 Terms of licence
 (1) An order under section 171 must specify terms of the licence relating to the following matters:
@@ -1607,7 +1608,8 @@ A licence must not be granted under this subpart unless the person applying for 
   (c) the power of a government department or a person authorised by a government department under this section to sell an invention does not, in the case of an application for a patent or a patent relating to an integrated circuit, extend to the sale of the invention to the public.
 
 ### 180 Order in Council may declare use to be Crown use
-Any use of an invention must, for the purposes of this subpart, be treated as a use for the services of the Crown if the Governor-General, by Order in Council, declares that the use of the invention by a person, or by any class of persons, engaged in a particular industry is necessary or desirable to enable full benefit to be derived by the members of the public in New Zealand of any enterprise or undertaking in which the Crown or any government department has a complete or an almost complete monopoly.
+(1) Any use of an invention must, for the purposes of this subpart, be treated as a use for the services of the Crown if the Governor-General, by Order in Council, declares that the use of the invention by a person, or by any class of persons, engaged in a particular industry is necessary or desirable to enable full benefit to be derived by the members of the public in New Zealand of any enterprise or undertaking in which the Crown or any government department has a complete or an almost complete monopoly.
+(2) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 181 Protection of buyers
 The buyer of any products sold in the exercise of powers conferred by section 179, and any person claiming through the buyer, has the power to deal with them in the same manner as if the patent were held on behalf of the Crown.
@@ -1936,6 +1938,7 @@ The Commissioner, an Assistant Commissioner, or any other person acting on behal
   (a) the place used as the Patent Office immediately before the commencement of this section is appointed as the place for that office; and
   (b) the name of that office is the Intellectual Property Office of New Zealand.
 (3) The Governor-General may, by Order in Council, amend this Act and any other enactment by omitting the name of that office and substituting another name to reflect a name change of that office.
+(4) An order under subsection (3) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 223 Opening hours of Intellectual Property Office of New Zealand
 (1) The Commissioner may—
@@ -2130,6 +2133,7 @@ Nothing in sections 17(2), 23, 150, 165, 166, and 194 to 204 affects the operati
 (2) The structure of the fee system under this Act prescribed by regulations under subsection (1) may be such that the renewal and maintenance fees—
   (a) recover a share of the costs incurred by the Commissioner in performing his or her functions under this Act or the Patents Act 1953; and
   (b) recover those costs at a level that provides an appropriate incentive (having regard to the purpose of this Act set out in section 3(a)) for applicants to let patent applications become void or abandoned and patentees to let patents lapse if they do not receive, or will not receive, sufficient benefit from having the patent.
+(3) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 244 Supplementary empowering provision
 (1) For the purposes of this Act, the power to make regulations under section 243 or 245 to prescribe the manner in which a thing is done includes the power to—
@@ -2146,13 +2150,15 @@ Nothing in sections 17(2), 23, 150, 165, 166, and 194 to 204 affects the operati
 [Repealed]
 
 ### 246 Orders in Council as to convention countries
-For the purpose of giving effect to any international agreement or arrangement to which New Zealand is a party or that applies to New Zealand, the Governor-General may, by Order in Council, declare that any entity specified in the order that is a party to the agreement or arrangement or to which the agreement or arrangement applies (whether a State, part of a State, a territory for whose international relations a State is responsible, a political union, an international organisation, or any other entity) is, for the purposes of all or any of the provisions of this Act, a convention country.
+(1) For the purpose of giving effect to any international agreement or arrangement to which New Zealand is a party or that applies to New Zealand, the Governor-General may, by Order in Council, declare that any entity specified in the order that is a party to the agreement or arrangement or to which the agreement or arrangement applies (whether a State, part of a State, a territory for whose international relations a State is responsible, a political union, an international organisation, or any other entity) is, for the purposes of all or any of the provisions of this Act, a convention country.
+(2) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### Subpart 6 — Repeals, amendments, validation, and saving and transitional provisions
 
 ### 247 Repeal of Patents Act 1953 and consequential revocations
 (1) All of the provisions of the Patents Act 1953 are repealed.
 (2) However, the Patents Regulations 1954 are not consequentially revoked (and may continue to be amended or revoked under section 114 of the Patents Act 1953).
+(2A) The regulations continued by subsection (2) are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 (3) The Patents (Patent Cooperation Treaty) Regulations 1992 (SR 1992/316) are consequentially revoked.
 
 ### 248 Preservation of patent attorney provisions
@@ -2332,7 +2338,7 @@ The purpose of this Part is to regulate the provision of patent attorney service
   - **unsatisfactory professional conduct** includes conduct, in connection with practice as a registered patent attorney, that falls short of the standard of competence, diligence, and behaviour that a member of the public is entitled to expect of an attorney.
 (2) Any terms that are used but not defined in this Part, but defined in the joint registration regime, have the meanings given in that regime.
 (3) A reference in, or in any regulations made under, this Part to a repealed Australian enactment is a reference to an Australian enactment that, with or without modification, replaces, or corresponds to, the Australian enactment repealed.
-(4) Subsection (3) does not limit section 22 of the Interpretation Act 1999.
+(4) Subsection (3) does not limit section 38 of the Legislation Act 2019.
 
 ### 270 Meaning of ordinarily resident in New Zealand
 (1) For the purposes of this Part, an individual is taken to be ordinarily resident in New Zealand if—
@@ -2535,11 +2541,12 @@ A registered patent attorney has the same right of lien over documents and prope
 A member of the Disciplinary Tribunal who is ordinarily resident in New Zealand must co-operate with an investigation that is undertaken under the Freedom of Information Act 1982 (Aust) or the Privacy Act 1988 (Aust).
 
 ### 290 Regulations under this Part
-The Governor-General may, by Order in Council, make regulations for all or any of the following purposes:
+(1) The Governor-General may, by Order in Council, make regulations for all or any of the following purposes:
   (a) prescribing matters that are necessary or desirable for the implementation of the Arrangement:
   (b) increasing or decreasing the fines for an offence under this Part to an amount that is consistent with the fines that apply under the joint registration regime after any alteration of the amount of penalty units under section 4AA of the Crimes Act 1914 (Aust):
   (c) prescribing any other matters that are required or permitted by the joint registration regime to be prescribed:
   (d) providing for any other matters contemplated by this Act, necessary for its administration, or necessary for giving it full effect.
+(2) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ## Schedule 1AA — Transitional, savings, and related provisions
 
