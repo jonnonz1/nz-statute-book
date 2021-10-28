@@ -1,5 +1,5 @@
 # Resource Management Act 1991
-_Consolidation as at 2021-04-13_
+_Consolidation as at 2021-10-28_
 
 > An Act to restate and reform the law relating to the use of land, air, and water
 
@@ -807,7 +807,7 @@ Every person who exercises or carries out functions, powers, or duties, or is re
   (b) if person B is not a natural person, person B's full name and address.
 
 ### 23 Other legal requirements not affected
-(1) Compliance with this Act does not remove the need to comply with all other applicable Acts, regulations, bylaws, and rules of law.
+(1) Compliance with this Act does not remove the need to comply with all other applicable legislation and other rules of law.
 (2) The duties and restrictions described in this Part shall only be enforceable against any person through the provisions of this Act; and no person shall be liable to any other person for a breach of any such duty or restriction except in accordance with the provisions of this Act.
 (3) Nothing in subsection (2) limits or affects any right of action which any person may have independently of the provisions of this Act.
 
@@ -1457,9 +1457,10 @@ When this section applies
 (9)
 
 ### 39A Accreditation
-The Minister must—
+(1) The Minister must—
   (a) approve a qualification or qualifications establishing a person's accreditation; and
-  (b) notify each qualification in the Gazette.
+  (b) give notice of each qualification.
+(2) A notice under subsection (1)﻿(b) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 39B Persons who may be given hearing authority
 (1) This section applies when a local authority wants to apply any of sections 33, 34, and section 34A to give authority to 1 person or a group of persons to conduct a hearing on—
@@ -1710,6 +1711,7 @@ In this Act, unless the context requires another meaning,—
   (a) generally; or
   (b) to any specified district or region of any local authority; or
   (c) to any specified part of New Zealand.
+(5) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 43A Contents of national environmental standards
 (1) National environmental standards may—
@@ -1760,14 +1762,14 @@ In this Act, unless the context requires another meaning,—
   (b) a resource consent is more stringent than a standard if it imposes conditions on an activity that the standard does not impose or authorise.
 (3) A rule or resource consent that is more lenient than a national environmental standard prevails over the standard if the standard expressly says that a rule or consent may be more lenient than it.
 (4) For the purposes of subsection (3), a rule or resource consent is more lenient than a standard if it permits or authorises an activity that the standard prohibits or restricts.
-(5) A land use consent or a subdivision consent granted under the district rules before the date on which a national environmental standard is notified in the Gazette prevails over the standard.
+(5) A land use consent or a subdivision consent granted under the district rules before the date on which a national environmental standard is published under the Legislation Act 2019 prevails over the standard.
 (6) The following permits and consents prevail over a national environmental standard:
   (a) a coastal, water, or discharge permit:
   (b) a land use consent granted in relation to a regional rule.
 (6A) Subsection (6) applies—
-  (a) if those permits or consents are granted before the date on which a relevant national environmental standard is notified in the Gazette:
+  (a) if those permits or consents are granted before the date on which a relevant national environmental standard is published under the Legislation Act 2019:
   (b) until a review of the conditions of the permit or consent under section 128(1)﻿(ba) results in some or all of the standard prevailing over the permit or consent.
-(7) This subsection applies to a resource consent not covered by subsection (5) or (6). The consent prevails over a national environmental standard if the application giving rise to the consent was the subject of a decision on whether to notify it before the date on which the standard is notified in the Gazette. However, the consent does not prevail if the standard expressly provides otherwise.
+(7) This subsection applies to a resource consent not covered by subsection (5) or (6). The consent prevails over a national environmental standard if the application giving rise to the consent was the subject of a decision on whether to notify it before the date on which the standard is published under the Legislation Act 2019. However, the consent does not prevail if the standard expressly provides otherwise.
 (8)
 (9) If a national environmental standard requires a resource consent to be obtained for an activity, sections 10, 10A, 10B, and 20A(2) apply to the activity as if the standard were a rule in a plan that had become operative.
 
@@ -1915,7 +1917,7 @@ A national environmental standard for an activity that is a discharge may descri
   (c) the extent and timing of public debate and consultation that took place before the proposed national direction was prepared:
   (d) any other relevant matter.
 (7) If the Minister decides, after consulting as required by subsection (3), to recommend that regulations on the same subject matter as that consulted on be made under any of sections 360 to 360C, the consultation under subsection (3) satisfies the requirement to consult the public and iwi authorities in relation to those regulations.
-(8) A national policy statement prepared in accordance with this section is a disallowable instrument, but not a legislative instrument, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
+(8)
 
 ### 46B Incorporation of material by reference in national direction
 A national direction may incorporate material by reference under Schedule 1AA.
@@ -1982,24 +1984,26 @@ A national direction may incorporate material by reference under Schedule 1AA.
   (c) thirdly, must undertake an evaluation of the proposed national policy statement in accordance with section 32 and have particular regard to that evaluation when deciding whether to recommend the statement.
 (2) The Governor-General in Council may, on the recommendation of the Minister, approve a national policy statement.
 (3) The Minister must, as soon as practicable after a national policy statement has been approved,—
-  (a) publish in the Gazette the Order in Council approving the statement; and
+  (a) issue the statement by having it published under the Legislation Act 2019; and
   (b) publicly notify the statement and the report in whatever form he or she thinks appropriate and send a copy to every local authority; and
-  (c) provide every person who made a submission on the statement with a summary of the recommendations and a summary of the Minister’s decision on the recommendations (including reasons for not adopting any recommendations); and
-  (d) present a copy of the statement to the House of Representatives.
-(4) Orders in Council made under this section—
-  (a) are disallowable instruments for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act; but
-  (b) are not legislative instruments for the purposes of the Legislation Act 2012; and
-  (c) are not to be drafted by the PCO under section 59(2)﻿(a) of the Legislation Act 2012.
+  (c) provide every person who made a submission on the statement with a summary of the recommendations and a summary of the Minister’s decision on the recommendations (including reasons for not adopting any recommendations).
+  (d)
+(4) A national policy statement under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+(5) That Act applies as if—
+  (a) the Minister were the maker of the national policy statement; and
+  (b) the national policy statement were made when the Order in Council under subsection (2) is made.
 
 ### 53 Changes to or review or revocation of national policy statements
 (1) The Minister may review, change, or revoke a national policy statement after using one of the processes referred to in section 46A(1) in relation to the preparation of a national policy statement.
 (2) The Minister may, without using a process referred to in subsection (1), amend a national policy statement if the amendment is of minor effect or corrects a minor error.
+(3) A change, revocation, or amendment under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 54 Publication of national policy statements
-When a national policy statement is issued, reviewed, changed, or revoked, the Minister shall—
-  (a) publish the statement, review, change, or revocation in whatever form he or she thinks appropriate; and
-  (b) send a copy of it to every local authority; and
-  (c) give public notice of its issue, review, change, or revocation.
+(1) When a national policy statement is issued, changed, or revoked, the Minister must send a copy of the statement, change, or revocation to every local authority.
+(2) When a national policy statement is reviewed, the Minister must—
+  (a) publish the review in whatever form the Minister thinks appropriate; and
+  (b) send a copy of the review to every local authority; and
+  (c) give public notice of the review.
 
 ### 55 Local authority recognition of national policy statements
 (1) In subsections (2) and (2A), document means—
@@ -2030,8 +2034,11 @@ When a national policy statement is issued, reviewed, changed, or revoked, the M
 The purpose of a New Zealand coastal policy statement is to state objectives and policies in order to achieve the purpose of this Act in relation to the coastal environment of New Zealand.
 
 ### 57 Preparation of New Zealand coastal policy statements
-(1) There shall at all times be at least 1 New Zealand coastal policy statement prepared and recommended by the Minister of Conservation using one of the processes referred to in section 46A(3), as if references in sections 46 to 52 to the Minister were references to the Minister of Conservation and references to a national policy statement were references to a New Zealand coastal policy statement.
+(1) There shall at all times be at least 1 New Zealand coastal policy statement prepared, recommended, and issued by the Minister of Conservation using one of the processes referred to in section 46A(3), as if references in sections 46 to 52 to the Minister were references to the Minister of Conservation and references to a national policy statement were references to a New Zealand coastal policy statement.
 (2) Sections 53, 54, and 55, with all necessary modifications, apply to a New Zealand coastal policy statement as if it were a national policy statement and as if references in those sections to the Minister were references to the Minister of Conservation.
+(3) For the status under the Legislation Act 2019 of—
+  (a) a New Zealand coastal policy statement, see section 52(4):
+  (b) a change or amendment to, or revocation of, a New Zealand coastal policy statement, see section 53(3).
 
 ### 58 Contents of New Zealand coastal policy statements
 (1) A New Zealand coastal policy statement may state objectives and policies about any 1 or more of the following matters:
@@ -2115,12 +2122,12 @@ The purpose of a New Zealand coastal policy statement is to state objectives and
 (2) The Minister may—
   (a) approve a national planning standard after changing the draft in the manner that the Minister thinks fit; or
   (b) withdraw all or part of a draft national planning standard and give public notice of the withdrawal, including the reasons for the withdrawal.
-(3) The Minister must give notice of the approval of a national planning standard in the Gazette.
-(4) National planning standards are disallowable instruments, but not legislative instruments, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
+(3) National planning standards under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+(4)
 
 ### 58F Publication of national planning standards and other documents
 (1) The Minister must ensure that—
-  (a) public notice is given of the approval of a national planning standard; and
+  (a)
   (b) all national planning standards are published together in an integrated format that will assist the implementation of the national planning standards; and
   (c) copies of all national planning standards are provided to every local authority.
 (2) The Minister must publish all the national planning standards and the reports and any recommendations on them made to the Minister under section 58D(3)﻿(d) on an Internet site to which the public has free access, and may publish the national planning standards and the reports and recommendations in any other way or form that the Minister considers appropriate.
@@ -2135,11 +2142,10 @@ The purpose of a New Zealand coastal policy statement is to state objectives and
 
 ### 58H Changing, replacing, or revoking national planning standards
 (1) The Minister may change or replace a national planning standard, following the process set out in sections 58D and 58E.
-(2) If a change to a national planning standard has not more than a minor effect or corrects errors or makes similar technical alterations, the Minister may make the change without following the process set out in sections 58D and 58E, other than to give notice of the change in the Gazette and on the Internet site referred to in section 58F(2).
-(3) If the Minister wishes to revoke a national planning standard in whole or in part, the Minister—
-  (a) must give the public and iwi authorities notice, with adequate time and opportunity to comment on the proposed revocation; but
-  (b) may make the revocation and give notice of it in the manner provided for notification of a change in subsection (2).
+(2) If a change to a national planning standard has not more than a minor effect or corrects errors or makes similar technical alterations, the Minister may make the change without following the process set out in sections 58D and 58E.
+(3) The Minister may revoke a national planning standard in whole or in part, but must first give the public and iwi authorities notice, with adequate time and opportunity to comment on the proposed revocation.
 (4) The revocation of the whole or part of a national planning standard does not have the effect of revoking any provision of a plan included at the direction of, or in reliance on, a revoked provision of the national planning standard.
+(5) A change to or revocation of a national planning standard is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 58I Local authority recognition of national planning standards
 (1) In this section and sections 58J and 58K, document means any of the following:
@@ -2155,7 +2161,7 @@ Mandatory directions
   (b) to ensure that the document is consistent with any constraint or limit placed on the content of the document under section 58C(2)﻿(a) to (c).
 (3) An amendment required by subsection (2) must—
   (a) be made without using any of the processes set out in Schedule 1; and
-  (b) be made within the time specified in the national planning standard or (in the absence of a specified time) within 1 year after the date of the notification in the Gazette of the approval of the national planning standard; and
+  (b) be made within the time specified in the national planning standard or (in the absence of a specified time) within 1 year after the date on which the national planning standard is published under the Legislation Act 2019; and
   (c) amend the document to include the provisions as directed; and
   (d) include any consequential amendments to any document as necessary to avoid duplication or conflict with the amendments; and
   (e) be publicly notified not later than 5 working days after the amendments are made under paragraph (d).
@@ -2171,7 +2177,7 @@ Discretionary directions
 Other changes that may be directed
 (7) A local authority must—
   (a) make all other amendments to any document that are required to give effect to any provision in a national planning standard that affects the document, using one of the processes set out in Schedule 1; and
-  (b) notify all amendments required under paragraph (a) not later than 1 year after the date of the notification in the Gazette of the approval of the national planning standard or at another time specified in the national planning standard.
+  (b) notify all amendments required under paragraph (a) not later than 1 year after the date on which the national planning standard is published under the Legislation Act 2019.
 (8) A local authority must also take any other action that is directed by a national planning standard.
 (9) This section and section 58J are subject to the obligations of local authorities, or of any particular local authority, under any other Act that relates to the preparation or change of a policy statement or plan under this Act.
 
@@ -5495,6 +5501,7 @@ In this Part, unless the context otherwise requires,—
     (iii) the ending of the moratorium in relation to the area will not limit or adversely affect the establishment of aquaculture management areas in the future.
 (3) The Minister must make a recommendation under subsection (1) within 40 working days after receiving a request if the Minister is not prevented by subsection (2) from making the recommendation.
 (4) For the purposes of subsection (3), sections 37 and 37A apply, with all necessary modifications, as if the Minister were acting as a consent authority.
+(5) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 150D Pending applications to be considered under rules as at end of moratorium
 [Repealed]
@@ -5536,6 +5543,7 @@ In this Part, unless the context otherwise requires,—
 (5) Every Order in Council made under subsection (1), and every Order in Council made under subsection (2) amending a previous Order in Council, shall expire on the second anniversary of the date on which—
   (a) in the case of an Order in Council made under subsection (1), it came into force:
   (b) in the case of an Order in Council made under subsection (2), the original Order in Council amended came into force.
+(6) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 153 Application of Order in Council
 An Order in Council shall not apply to or affect—
@@ -5558,8 +5566,8 @@ The Minister shall as soon as practicable—
     (i) the Minister for the Environment:
     (ii)
     (iii) every territorial authority whose district or any part of whose district is situated within the region to which the Order in Council relates:
-    (iv) the tangata whenua of that region, through iwi authorities; and
-  (c) cause public notice to be given of the making of the Order in Council and its effect.
+    (iv) the tangata whenua of that region, through iwi authorities.
+  (c)
 
 ### 155 Particulars of Order in Council to be endorsed on regional coastal plan
 On receipt of a copy of an Order in Council under section 154, the regional council shall endorse particulars of it on the regional coastal plan or proposed regional coastal plan, but such endorsement shall not form part of the plan.
@@ -5776,6 +5784,7 @@ A regional coastal plan or proposed regional coastal plan may provide for a rule
   (a) a publicly notified offer of authorisations:
   (b) an application for a coastal permit.
 (8) An authorisation allocated in accordance with subsection (3)﻿(d) is a settlement asset for the purposes of the Maori Commercial Aquaculture Claims Settlement Act 2004.
+(9) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 **Ministerial approval of use of method of allocating authorisations**
 
@@ -7391,6 +7400,7 @@ In conducting its inquiry, the Environment Court shall have particular regard to
 (2) The Minister shall not make a recommendation for the purposes of subsection (1) except in accordance with—
   (a) the report of the special tribunal under section 208, where the Environment Court has not conducted an inquiry; or
   (b) where the Environment Court has conducted an inquiry, the report of the Environment Court under section 213.
+(3) A water conservation order is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 215 Minister's obligation to state reasons for not accepting recommendation
 If a special tribunal reports under section 208, or the Environment Court recommends under section 213, that a water conservation order be made and the Minister decides not to recommend that the Governor-General make the order, then the Minister shall,—
@@ -7411,6 +7421,7 @@ If a special tribunal reports under section 208, or the Environment Court recomm
   (a) the Minister is of the opinion that the application should not be rejected but that, by reason of the minor effect of the amendment, it is unnecessary to hold an inquiry; and
   (b) the original applicant for the order (if that person can be located) and the regional council agree to the amendment—
 (4) Except as provided in subsection (3), an application made under subsection (2) for the revocation or amendment of a water conservation order shall be dealt with in the same manner as an application for such an order, and sections 201 to 215 shall apply accordingly.
+(5) An order under subsection (3) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 217 Effect of water conservation order
 (1) No water conservation order shall affect or restrict any resource consent granted or any lawful use established in respect of the water body before the order is made.
@@ -7463,6 +7474,7 @@ In this Part, unless the context otherwise requires,—
 (3) Before making a recommendation under subsection (2), the Minister must—
   (a) be satisfied that regulations are necessary to achieve the purpose of this Part in the specified district, region, or part of New Zealand; and
   (b) consult the Minister of Agriculture.
+(4) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 217D Farm must have certified freshwater farm plan if it meets land use threshold
 (1) A farm must have a certified freshwater farm plan if—
@@ -7582,6 +7594,7 @@ A regional council must keep and maintain, in relation to each farm in its juris
   (l) provide for any other matters that are contemplated by, or necessary for giving full effect to, this Part and for its due administration.
 (2) Regulations under this section may apply generally or to specified districts, regions, or parts of New Zealand.
 (3) Regulations under this section may incorporate material by reference under Schedule 1AA (which applies as if references in that schedule to a national environmental standard, national policy statement, or New Zealand coastal policy statement were references to regulations under this section).
+(4) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ## Part 9B — Effect of nitrogenous fertiliser on freshwater quality and freshwater ecosystems
 
@@ -7597,7 +7610,7 @@ If regulations made under section 217Q are in force, a person of a class specifi
   (b) the provision of that information to the EPA, a regional council, a specified agency, or a specified person or class of persons.
 
 ### 217Q Regulations relating to sales information on nitrogenous fertiliser
-The Governor-General may, by Order in Council made on the recommendation of the Minister after consulting the Minister of Agriculture, make regulations that—
+(1) The Governor-General may, by Order in Council made on the recommendation of the Minister after consulting the Minister of Agriculture, make regulations that—
   (a) require persons of a specified class to collect any of the following information relating to or arising from the sale and purchase of nitrogenous fertiliser:
     (i) the date of purchase:
     (ii) where the purchase took place:
@@ -7614,6 +7627,7 @@ The Governor-General may, by Order in Council made on the recommendation of the 
     (iv) a specified agency; and
   (d) specify the manner in which, and the frequency at which, that information is to be provided; and
   (e) allow the collection of personal information of a purchaser only if their purchase exceeds a prescribed volume of nitrogenous fertiliser.
+(2) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ## Part 10 — Subdivision and reclamations
 
@@ -9672,7 +9686,7 @@ All rents, royalties, and other sums of money which the holders of resource cons
     (iii) other persons:
   (hq) provide that, despite sections 68(2) and 76(2), a more stringent rule in a plan prevails over a regulation made under paragraph (hn):
   (i) providing for any other such matters as are contemplated by, or necessary for giving full effect to, this Act and for its due administration.
-(2) Any regulations may apply generally or may apply or be applied from time to time by the Minister by notice in the Gazette, within any specified district or region of any local authority or within any specified part of New Zealand, or to any specified class or classes of persons.
+(2) Any regulations may apply generally or may apply or be applied from time to time by the Minister by notice, within any specified district or region of any local authority or within any specified part of New Zealand, or to any specified class or classes of persons.
 (2AA)
 (2A) No regulation shall be made under any of paragraphs (ha) to (he) of subsection (1) except on the recommendation of the Minister after consultation with the Minister of Transport and the Minister of Conservation.
 (2B) The Minister shall not recommend the making of any regulation under any of paragraphs (ha) to (hd) of subsection (1) unless, after having consulted with the Minister of Transport and the Minister of Conservation, the Minister is of the opinion that—
@@ -9681,7 +9695,7 @@ All rents, royalties, and other sums of money which the holders of resource cons
     (ii) to enable New Zealand to become a party to any international convention, protocol, or agreement, relating to the protection of the marine environment:
     (iii) to implement such international practices or standards relating to the protection of the marine environment as may, from time to time, be recommended by the International Maritime Organization; or
   (b) it is not inconsistent with any such purpose to do so.
-(2C) The Minister may, by notice in the Gazette, amend any schedule of any regulations made under section 360(1)﻿(hb) or (hc) by omitting or inserting the names or a description of waste or other matter or harmful substance to make that schedule comply with the provisions of an international convention relating to the pollution of the marine environment.
+(2C) The Minister may amend any schedule of any regulations made under section 360(1)﻿(hb) or (hc) by omitting or inserting the names or a description of waste or other matter or harmful substance to make that schedule comply with the provisions of an international convention relating to the pollution of the marine environment.
 (2D) Regulations made under subsection (1)﻿(hf) and (hg) may apply—
   (a) generally within New Zealand or to those areas of New Zealand specified in the regulations:
   (b) generally to rules or resource consents, or to rules or resource consents made by the consent authorities specified in the regulations.
@@ -9697,6 +9711,10 @@ All rents, royalties, and other sums of money which the holders of resource cons
 (2G) If regulations specify a matter under subsection (2F), the local authorities concerned must publicly notify that the rules have been withdrawn or amended not later than 5 working days after they are withdrawn or amended.
 (3) All regulations made under subsection (1)﻿(g) that are still in force on the day that is 5 years after the date of commencement of this Act shall expire at the close of that day.
 (4) Regulations made under this section may incorporate material by reference. Schedule 1AA applies as if its references to a national environmental standard, national policy statement, or New Zealand coastal policy statement were references to regulations under section 360.
+(5) The following are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements):
+  (a) regulations under subsection (1):
+  (b) a notice under subsection (2):
+  (c) an amendment under subsection (2C).
 
 ### 360A Regulations amending regional coastal plans in relation to aquaculture activities
 (1) The Governor-General may, by Order in Council, amend provisions in a regional coastal plan that relate to the management of aquaculture activities in the coastal marine area.
@@ -9710,6 +9728,7 @@ All rents, royalties, and other sums of money which the holders of resource cons
 (3) In this section and sections 360B and 360C, amend provisions includes—
   (a) omitting provisions (whether other provisions are substituted or not):
   (b) adding provisions.
+(4) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 360B Conditions to be satisfied before regulations made under section 360A
 (1) Regulations must not be made under section 360A(1) except on the recommendation of the Minister of Aquaculture.
@@ -9766,6 +9785,7 @@ As soon as practicable after regulations are made under section 360A(1), the reg
     (i) the class of application; and
     (ii) the complexity of the class of application to which the charges apply; and
   (c) may specify a class or classes of additional charges that may apply.
+(4) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 360G Regulations relating to fast-track applications
 [Repealed]
@@ -11771,11 +11791,10 @@ An application to a Minister for a direction under section 80C to use the stream
   (a) any reporting requirements; and
   (b) any relevant planning process requirements set out in this schedule or elsewhere in this Act.
 (6) If a direction includes a requirement for a hearing, the restrictions of section 39(2)﻿(c) and (d) (which relates to questioning and cross-examination in a hearing) do not apply.
+(7) A direction under this clause is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 79 Form and status of directions under Legislation Act 2012
-(1) A direction under clause 78 is a disallowable instrument, but not a legislative instrument, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
-(2) As soon as is reasonably practicable after a direction has been made in accordance with clause 78, the responsible Minister must notify it in the Gazette.
-(3) The relevant local authority must ensure that, as soon as is reasonably practicable after a direction has been notified in the Gazette, the public can access or download the direction free of charge at or from an Internet site maintained by the local authority or on its behalf.
+[Repealed]
 
 ### 80 Amendment of direction
 (1) The responsible Minister may initiate an amendment of a direction.
@@ -11937,10 +11956,11 @@ An application to a Minister for a direction under section 80C to use the stream
 
 ### 2 Effect of amendments to, or replacement of, material incorporated by reference
 (1) An amendment to, or replacement of, material incorporated by reference in a national environmental standard, national policy statement, or New Zealand coastal policy statement has legal effect as part of the standard or statement only if the Minister publishes a notice under subclause (2).
-(2) The Minister may publish a notice in the Gazette that—
+(2) The Minister may publish a notice that—
   (a) states that subclause (1) applies to the national environmental standard, national policy statement, or New Zealand coastal policy statement; and
   (b) specifies the date on which subclause (1) applies to the standard or statement.
 (3) Subclause (1) does not apply if the national environmental standard, national policy statement, or New Zealand coastal policy statement expressly says that it does not apply.
+(4) A notice under this clause is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 3 Proof of material incorporated by reference
 (1) A copy of material incorporated by reference in a national environmental standard, national policy statement, or New Zealand coastal policy statement including any amendment to, or replacement of, the material (material), must be—
@@ -11950,10 +11970,11 @@ An application to a Minister for a direction under section 80C to use the stream
 
 ### 4 Effect of expiry of material incorporated by reference
 (1) Material incorporated by reference in a national environmental standard, national policy statement, or New Zealand coastal policy statement that expires or that is revoked or that ceases to have effect ceases to have legal effect as part of the standard or statement only if the Minister publishes a notice under subclause (2).
-(2) The Minister may publish a notice in the Gazette that—
+(2) The Minister may publish a notice that—
   (a) states that subclause (1) applies to the national environmental standard, national policy statement, or New Zealand coastal policy statement; and
   (b) specifies the date on which subclause (1) applies to the standard or statement.
 (3) Subclause (1) does not apply if the national environmental standard, national policy statement, or New Zealand coastal policy statement expressly says that it does not apply.
+(4) A notice under this clause is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 5 Access to material incorporated by reference
 (1) The Ministry for the Environment—
@@ -12369,6 +12390,12 @@ An amendment made by section 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 99, or 100 
 ### 30 Effect of amendments on notice of intention to review resource consent conditions
 (1) An amendment made by section 38 or 39 of the amendment Act does not affect a notice of intention to review resource consent conditions if, before the date that section came into force (see section 2 of the amendment Act), the notice was served on a consent holder.
 (2) In this clause, a notice of intention to review resource consent conditions means a notice under section 128.
+
+### Part 4 — Provisions relating to Legislation Act 2019
+
+### 31 Local authority recognition of national planning standards
+(1) Section 58I(3)﻿(b) and (7)﻿(b), as in force immediately before the main commencement date, continues to apply in relation to a national planning standard that was notified in the Gazette before the main commencement date.
+(2) In this clause, main commencement date means the date on which section 10 of the Legislation (Repeals and Amendments) Act 2019 (which repeals the Legislation Act 2012) comes into force.
 
 ### 1 Title
 (1) This Act is the Resource Management Amendment Act 2003.
