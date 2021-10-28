@@ -1,5 +1,5 @@
 # Education and Training Act 2020
-_Consolidation as at 2021-07-13_
+_Consolidation as at 2021-10-28_
 
 ### 1 Title
 This Act is the Education and Training Act 2020.
@@ -11,6 +11,7 @@ This Act is the Education and Training Act 2020.
 (2) Sections 90, 134, 138 to 146, 164, 165, 174 and Part 2 of Schedule 26 come into force on 1 January 2023.
 (3) Sections 71 to 75 and 127(1)﻿(d) and Schedule 20 come into force on 1 January 2021.
 (4) The rest of this Act comes into force on the day after the date on which it receives the Royal assent.
+(5) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ## Part 1 — Preliminary provisions
 
@@ -76,7 +77,7 @@ The purpose of this Act is to establish and regulate an education system that—
   (a) may be made without undertaking the consultation required by subsections (5) and (6); and
   (b) do not, for the purposes of subsection (3)﻿(c), constitute a withdrawal or replacement of the statement being changed.
 (8) A minor change under subsection (7) is limited to a technical, short, or uncontroversial amendment that does not change or extend the policy of the statement.
-(9) A statement issued under this section is neither a legislative instrument nor a disallowable instrument for the purposes of the Legislation Act 2012 and does not have to be presented to the House of Representatives under section 41 of that Act.
+(9)
 (10) Except as provided in subsection (3)﻿(a), the objectives set out in subsection (4) do not limit or affect the way in which any person is required to exercise a power or perform a function under Part 2 or 3.
 
 ### 6 Statement of expectations
@@ -86,7 +87,7 @@ The purpose of this Act is to establish and regulate an education system that—
 (2) The statement must specify what those agencies must do to give effect to public service objectives (set out in any enactment) that relate to Te Tiriti o Waitangi.
 (3) Before issuing the statement, the Ministers must consult Māori.
 (4) The statement must be issued to each agency specified in the statement and published in the Gazette.
-(5) A statement issued under this section is neither a legislative instrument nor a disallowable instrument for the purposes of the Legislation Act 2012 and does not have to be presented to the House of Representatives under section 41 of that Act.
+(5)
 
 ### 7 Tertiary education strategy
 (1) The Minister must, by notice in the Gazette, issue a tertiary education strategy that sets out the Government’s—
@@ -191,12 +192,12 @@ The purpose of this Act is to establish and regulate an education system that—
   - **domestic student** means an individual who is—
     (a) a New Zealand citizen; or
     (b) the holder of a residence class visa granted under the Immigration Act 2009; or
-    (c) a person of a class or description of persons required by the Minister, by notice in the Gazette, to be treated as if they are not international students
+    (c) a person of a class or description of persons required by the Minister, by notice, to be treated as if they are not international students (see subsection (11))
   - **domestic tertiary student** means an individual—
     (a) who is—
       (i) a New Zealand citizen; or
       (ii) the holder of a residence class visa granted under the Immigration Act 2009 who satisfies the criteria (if any) prescribed by regulations made under subsection (2); or
-      (iii) a person of a class or description of persons required by the Minister, by notice in the Gazette, to be treated as if they are not international students; and
+      (iii) a person of a class or description of persons required by the Minister, by notice, to be treated as if they are not international students (see subsection (11)); and
     (b) who is a tertiary student enrolled at an institution or a registered establishment
   - **DRS** means the student contract dispute resolution scheme established under section 536
   - **DRS operator** means a person or an agency appointed under section 536(4)
@@ -497,7 +498,7 @@ The purpose of this Act is to establish and regulate an education system that—
     (b) a workforce development council:
     (c) an individual or body that—
       (i) provides tertiary education-related services; and
-      (ii) is identified as a tertiary education organisation by the Minister by notice in the Gazette
+      (ii) is identified as a tertiary education organisation by the Minister by notice (see subsections (11) and (12))
   - **tertiary education provider** means any of the following:
     (a) an institution:
     (b) a registered establishment:
@@ -535,10 +536,7 @@ The purpose of this Act is to establish and regulate an education system that—
     (b) for the benefit of employers and employees in that industry (or those industries)
   - **workforce development council** means a workforce development council established under section 363.
 (2) The Governor-General may, by Order in Council, make regulations prescribing criteria that the holder of a residence class visa granted under the Immigration Act 2009 must satisfy in order to fulfil the requirements of paragraph (a)﻿(ii) of the definition of domestic tertiary student in subsection (1).
-(3) The explanatory note of regulations made under subsection (2) must indicate that—
-  (a) they are a confirmable instrument under section 47B of the Legislation Act 2012; and
-  (b) they are revoked at a time stated in the note, unless earlier confirmed by an Act of Parliament; and
-  (c) the stated time is the applicable deadline under section 47C(1)﻿(a) or (b) of the Legislation Act 2012.
+(3) Regulations under subsection (2) must be confirmed by an Act (see subpart 3 of Part 5 of the Legislation Act 2019).
 (4) Despite the definition of immediate caregiver in subsection (1), a student does not have an immediate caregiver if the student—
   (a) usually lives in a household that includes the student’s father and mother; or
   (b) usually spends approximately equal time in 2 or more households; or
@@ -608,6 +606,15 @@ The purpose of this Act is to establish and regulate an education system that—
   (a) adding the name of a State school to it; or
   (b) omitting the name of a State school from it; or
   (c) substituting for the name of a State school any different name.
+(11) The following are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements):
+  (a) a notice under paragraph (c) of the definition of domestic student in subsection (1):
+  (b) a notice under paragraph (a)﻿(iii) of the definition of domestic tertiary student in subsection (1):
+  (c) a notice under paragraph (c)﻿(ii) of the definition of tertiary education organisation in subsection (1), unless it applies only to 1 or more named individuals or bodies:
+  (d) regulations under subsection (2):
+  (e) an order under subsection (10).
+(12) If a notice under paragraph (c)﻿(ii) of the definition of tertiary education organisation in subsection (1) is not secondary legislation, the Minister must give the notice to—
+  (a) the TEC; and
+  (b) the individuals or bodies named in the notice.
 
 ### 11 Transitional, savings, and related provisions
 The transitional, savings, and related provisions set out in Schedule 1 have effect according to their terms.
@@ -686,9 +693,9 @@ A service provider who provides a home-based education and care service or a hos
 ### 20 Playgroups may be certified
 A service provider who operates a playgroup may, but need not, apply for a certificate issued under regulations made under section 637 in respect of the playgroup.
 
-### 21 Application of Legislation Act 2012 to certain material incorporated by reference
-(1) This section applies if section 49 of the Legislation Act 2012 is relied on to incorporate material by reference in criteria prescribed under section 636(2)﻿(b) or 637(2)﻿(b) of this Act.
-(2) If this section applies, subpart 2 of Part 3 of the Legislation Act 2012 (other than section 51) applies.
+### 21 Application of Legislation Act 2019 to certain material incorporated by reference
+(1) This section applies if section 64 of the Legislation Act 2019 is relied on to incorporate material by reference in criteria prescribed under section 636(2)﻿(b) or 637(2)﻿(b) of this Act.
+(2) Despite section 65 of the Legislation Act 2019, clause 1 of Schedule 2 of that Act (which is about consultation) does not apply in relation to the incorporation of that material.
 
 ### 22 Records
 The service provider of a licensed early childhood service must keep, and make available to the Secretary on request,—
@@ -705,13 +712,12 @@ The service provider of a licensed early childhood service must keep, and make a
   (a) licensed early childhood services:
   (b) certified playgroups.
 (2) The Minister may prescribe or change a curriculum framework only if the Minister has consulted with organisations that the Minister considers represent those likely to be substantially affected by the framework or change.
-(3) As soon as practicable after prescribing or changing a curriculum framework, the Minister must give notice in the Gazette—
-  (a) stating that the framework has been prescribed or changed; and
-  (b) setting out the framework or change, or stating where a copy of the framework or change can be obtained.
-(4) The notice may specify—
+(3)
+(4) The curriculum framework may specify—
   (a) different commencement dates for different provisions of the curriculum framework or for different purposes; and
   (b) a transitional period during which service providers may elect to comply with another specified curriculum requirement.
 (5) A service provider must implement any applicable curriculum framework in accordance with any regulations made under section 636 or 637.
+(6) A curriculum framework under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 24 Prohibition on corporal punishment and seclusion in early childhood services
 (1) A person must not—
@@ -823,7 +829,7 @@ The purpose of this Part is to establish a schooling system that supports all le
 (6) Despite sections 62 and 67,—
   (a) a student under the age of 5 years may be or continue to be enrolled at a primary school or below year 9 at a composite school; and
   (b) a student under the age of 21 years who turned 14 years in any year may, in any later year, be or continue to be enrolled at a primary school or below year 9 at a composite school; and
-  (c) a student under the age of 21 years may be or continue to be enrolled at a secondary school or above year 8 at a composite school if, in the Secretary’s opinion, the student has made insufficient progress in terms of any curriculum statement for year 8 published under section 90; and
+  (c) a student under the age of 21 years may be or continue to be enrolled at a secondary school or above year 8 at a composite school if, in the Secretary’s opinion, the student has made insufficient progress in terms of any curriculum statement for year 8 made under section 90; and
   (d) a student under the age of 21 years may be or continue to be enrolled at a secondary school or above year 8 at a composite school, on or after 1 January after the student's 19th birthday, under an agreement or direction under subsection (1).
 
 ### 38 Long-term exemptions from enrolment
@@ -847,7 +853,7 @@ The purpose of this Part is to establish a schooling system that supports all le
   (b) the student's conduct; and
   (c) the benefit (if any) the student is likely to get from attending another available school.
 (2) However, the Secretary may not exempt any student who—
-  (a) has made insufficient progress in terms of any curriculum statement for year 8 published under section 90; or
+  (a) has made insufficient progress in terms of any curriculum statement for year 8 made under section 90; or
   (b) has not enrolled for a year level above year 8.
 (3) The Secretary must tell the chief executive of Oranga Tamariki the name and address and any other available contact details of every student exempted under subsection (1).
 (4) If satisfied that it is in the best interests of any student to do so, the Secretary may revoke the student’s certificate granted under subsection (1).
@@ -1009,13 +1015,14 @@ The principal of a State school may,—
 ### 53 Courses, work experience, and visits outside school premises
 (1) A board may authorise any students to undertake courses of education, gain work experience, or make visits outside the school premises.
 (2) If authorisation is given, the student must be treated as attending the school while undertaking the course, gaining the experience, or making the visit.
-(3) A principal, a teacher, or an occupier of a workplace may not allow a student to go into, or remain in, a workplace to gain work experience except in accordance with any conditions prescribed by the Minister by notice in the Gazette.
+(3) A principal, a teacher, or an occupier of a workplace may not allow a student to go into, or remain in, a workplace to gain work experience except in accordance with any conditions prescribed by the Minister by notice.
 (4) A student who is in any workplace to gain work experience is to be treated as being employed by the workplace, and every enactment and collective agreement (to the extent that it relates to the health, safety, and welfare of workers) applies to the student and the occupier of the workplace accordingly.
 (5) However, subsection (4) does not—
   (a) entitle a student to be paid; or
   (b) require a student to join or belong to a union; or
   (c) entitle a student to enter or remain in a workplace; or
   (d) require any person to pay a levy, fee, or charge of any kind.
+(6) A notice under subsection (3) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 54 Restrictions on employing school-age children
 (1) An employer may not employ any person under the age of 16 years—
@@ -1072,7 +1079,7 @@ Sections 56 to 60 apply to religious instruction and observances in State primar
 The following persons may not be enrolled at or continue to be enrolled at a primary school or below year 9 at a composite school:
   (a) a child under the age of 5 years:
   (b) a child who turned 14 years in a previous year:
-  (c) a child who, in the Secretary’s opinion, has made sufficient progress, in terms of any curriculum statement for year 8 published under section 90.
+  (c) a child who, in the Secretary’s opinion, has made sufficient progress, in terms of any curriculum statement for year 8 made under section 90.
 
 ### 63 Cohort entry policy
 (1) A State school may adopt or revoke a cohort entry policy after complying with the requirements of section 65.
@@ -1099,17 +1106,18 @@ The following persons may not be enrolled at or continue to be enrolled at a pri
 (3) A board must take all reasonable steps to give notice of at least 1 term to the Secretary and the persons described in subsection (1) before a cohort entry policy takes effect or ceases to have effect.
 
 ### 66 Publication of mid-term start dates
-(1) The Minister must, before 1 July in any year, publish in the Gazette the mid-term start dates for the following year.
+(1) The Minister must, before 1 July in any year, publish in a notice the mid-term start dates for the following year.
 (2) A mid-term start date must be the Monday that is closest to the date that is halfway between the first and last dates of a term.
+(3) A notice under subsection (1) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 **Restrictions on enrolment at secondary school**
 
 ### 67 Restrictions on secondary school enrolment
-(1) A person who, in the Secretary’s opinion, has made insufficient progress in terms of any curriculum statement for year 8 published under section 90 may not be enrolled at or continue to be enrolled at a secondary school or above year 8 at a composite school.
+(1) A person who, in the Secretary’s opinion, has made insufficient progress in terms of any curriculum statement for year 8 made under section 90 may not be enrolled at or continue to be enrolled at a secondary school or above year 8 at a composite school.
 (2) Subsection (1) does not apply to a person who turned 13 years before 1 April in the previous year.
 
 ### 68 Restrictions on enrolment at distance school
-(1) The Minister may, by notice in the Gazette, fix criteria for enrolment in early childhood, primary, and secondary education at a distance school.
+(1) The Minister may, by notice, fix criteria for enrolment in early childhood, primary, and secondary education at a distance school.
 (2) A notice under subsection (1) may fix different criteria for—
   (a) different distance schools:
   (b) distance schools of different classes or descriptions:
@@ -1125,6 +1133,7 @@ The following persons may not be enrolled at or continue to be enrolled at a pri
   (b) a direction under subsection (3)﻿(b) has not been made in respect of the person relating to the school.
 (8) The board of a distance school may delegate the task of being satisfied that enrolments meet or do not meet the criteria fixed under subsection (1) (if any) to the principal.
 (9) For the purposes of subsection (4), the distance school must offer education at the level, and in the subjects, required by the person or a parent of the person.
+(10) A notice under subsection (1) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 69 Some domestic students may have to pay fees for tuition from distance schools
 (1) The following students may not be enrolled or continue to be enrolled in a course, class, or programme at a distance school unless the appropriate fee (if any) prescribed by the board with the Minister’s consent has been paid:
@@ -1330,7 +1339,7 @@ Sections 80 to 89 (and any rules made under section 89) apply only in relation t
 (4) Nothing in this section requires the board to tell a parent of a student about an action taken under this section if the student has turned 20 years.
 
 ### 89 Secretary may make rules
-(1) The Secretary may, by notice in the Gazette, make rules (which must be consistent with this Act) regulating the practice and procedure to be followed by boards, principals, students, parents of students, and other persons under sections 80 to 88, including (without limitation) rules—
+(1) The Secretary may make rules (which must be consistent with this Act) regulating the practice and procedure to be followed by boards, principals, students, parents of students, and other persons under sections 80 to 88, including (without limitation) rules—
   (a) setting out procedural requirements to be followed when a proposed stand-down, suspension, exclusion, or expulsion is to be considered or decided:
   (b) specifying who should be consulted about the circumstances of a stand-down, suspension, exclusion, or expulsion:
   (c) setting out the steps to be taken by the principal and board, respectively, when a student has been stood down, suspended, excluded, or expelled:
@@ -1342,14 +1351,14 @@ Sections 80 to 89 (and any rules made under section 89) apply only in relation t
   (a) publish in the Gazette, and on an Internet site maintained by or on behalf of the Ministry, a notice of the Secretary’s intention to make the rules; and
   (b) give interested persons reasonable time (as specified in the notice) to make submissions on the proposed rules; and
   (c) consult the persons and groups that the Secretary thinks fit.
-(3) Rules made under this section are a legislative instrument and a disallowable instrument for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
+(3) Rules under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### Subpart 3 — Teaching, learning, and well-being
 
 **Curriculum and performance measures of schools**
 
 ### 90 Curriculum statements and national performance measures
-(1) The Minister may, by notice in the Gazette, publish (in their entirety, or by way of a general description and an indication of where the full text can be obtained) the following:
+(1) The Minister may make the following:
   (a) foundation curriculum policy statements, which are statements of policy concerning teaching, learning, and assessment that are made for the purposes of underpinning and giving direction to—
     (i) the way in which curriculum and assessment responsibilities are to be managed in schools:
     (ii) national curriculum statements and locally developed curricula:
@@ -1361,6 +1370,10 @@ Sections 80 to 89 (and any rules made under section 89) apply only in relation t
 (2) Without limiting subsection (1), a national curriculum statement may—
   (a) specify different commencement dates for different provisions or different purposes, which dates may differ according to the classification or designation of a school, the group or year level of students attending a school, or any combination of those classifications, designations, groups, and levels:
   (b) specify a transitional period during which a board may elect to comply with an existing curriculum statement or the new curriculum statement, and specify a date on which a board must begin complying with the new curriculum statement.
+(3) The following instruments under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements):
+  (a) foundation curriculum policy statements:
+  (b) national curriculum statements:
+  (c) national performance measures.
 
 ### 91 Board of State school must consult about delivery of health curriculum
 (1) The board of a State school must, at least once every 2 years, after consulting the school community, adopt a statement on the delivery of the health curriculum.
@@ -1463,7 +1476,7 @@ The following persons must not use force, by way of correction or punishment, to
     (iii) governing bodies of schools:
     (iv) parents:
     (v) the disability community.
-(4) Rules made under this section are a disallowable instrument, but not a legislative instrument, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
+(4) Rules under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 101 Guidelines on use of physical restraint and behaviour management at registered schools
 (1) The Secretary must, by notice in the Gazette, issue guidelines on the use of physical restraint and behaviour management at registered schools.
@@ -1595,7 +1608,7 @@ Sections 106 and 107 do not limit or affect any power to search any locker, desk
   (d) specifying the circumstances in which items may be disposed of under section 106(4)﻿(b); and
   (e) setting out requirements for the storage of items and computers and other electronic devices under section 106(6); and
   (f) providing for the return of items and computers and other electronic devices under section 106(7)﻿(a).
-(2) Rules made under this section are a legislative instrument and a disallowable instrument for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
+(2) Rules under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 114 Guidelines about surrender and retention of property and searches
 (1) The Secretary must issue guidelines for the exercise of powers and carrying out of functions under sections 106 to 113.
@@ -1970,8 +1983,10 @@ A board may not delegate any power to borrow money that it may have under sectio
 Except as provided in section 159, a board may not acquire an interest in land, or any licence to occupy any land or premises, without the consent of the Minister.
 
 ### 161 Occupancy of property and buildings
-(1) The Secretary may, by notice in the Gazette, specify terms and conditions applying generally to land and buildings occupied by boards, and may, by written notice to a particular board, specify terms and conditions applying to land and buildings occupied by that board.
-(2) A notice under subsection (1)—
+(1) The Secretary may—
+  (a) specify terms and conditions applying generally to land and buildings occupied by boards:
+  (b) by written notice to a particular board, specify terms and conditions applying to land and buildings occupied by the board.
+(2) Terms and conditions under subsection (1)—
   (a) may apply to any land and buildings occupied by a board (regardless of who owns the property); but
   (b) to the extent that it applies to the board of a State integrated school, is subject to Schedule 6 and to the integration agreement for the time being in force between the Minister and the proprietor of the school.
 (3) Terms and conditions under subsection (1) may include standards of maintenance, standards of capital works, and minimum safety and health requirements.
@@ -1980,7 +1995,7 @@ Except as provided in section 159, a board may not acquire an interest in land, 
   (a) a particular school or institution or particular schools or institutions; or
   (b) schools or institutions of particular classes or descriptions; or
   (c) all schools and institutions.
-(6) A notice published in the Gazette under subsection (1) may contain the terms and conditions in their entirety or provide a general description of those terms and conditions and indicate where the full text can be obtained.
+(6) Terms and conditions under subsection (1)﻿(a) are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 (7) Terms and conditions specified under subsection (1) apply to boards or a board as if—
   (a) the land and buildings were owned by the Crown and the Crown has leased them to the board; and
   (b) the terms and conditions were part of the lease; and
@@ -1995,21 +2010,21 @@ Except as provided in section 159, a board may not acquire an interest in land, 
     (i) is for a purpose associated with educational outcomes and is to bring educational benefit to the school or its community, or to any other school; or
     (ii) is for a community purpose, and has no educational disadvantage for the school.
 (3) The Secretary must determine the terms and conditions of any lease or licence granted by a board by doing either or both of the following:
-  (a) publishing a notice in the Gazette that specifies the general terms and conditions that apply to all, or specified classes of, leases or licences:
+  (a) specifying the general terms and conditions that apply to all, or specified classes of, leases or licences:
   (b) giving written notice to the board.
-(4) Section 161(6) applies to a Gazette notice under subsection (3)﻿(a).
+(4) Terms and conditions specified under subsection (3)﻿(a) are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 (5) In relation to a State integrated school, this section applies subject to Schedule 6 and to any integration agreement in force between the Minister and the proprietor of the school.
 
 ### 163 Other agreements to occupy school land or buildings
 (1) A board may not enter into an agreement unless the agreement—
-  (a) is of a type permitted by Gazette notice under subsection (4); and
-  (b) is consistent with this section and any conditions specified by Gazette notice under subsection (4).
+  (a) is of a type permitted by notice under subsection (4); and
+  (b) is consistent with this section and any conditions specified by notice under subsection (4).
 (2) It is a condition of every agreement that the board has the right to enter, at any time, the land, buildings, or facilities that are the subject of the agreement.
 (3) No person has the right under an agreement to use or occupy any land, buildings, or facilities in such a way as to unduly interfere with the use, by the board for school purposes, of that land or those buildings or facilities, or any other land, buildings, or facilities of the school.
-(4) The Secretary may, by notice in the Gazette,—
+(4) The Secretary may, by notice,—
   (a) identify the kinds of agreements (for example, agreements for the use of playing fields) that boards may enter into; and
   (b) specify conditions to which agreements, or specified types of agreements, are subject.
-(5) Section 161(6) applies to a Gazette notice under subsection (4)﻿(b).
+(5) A notice under subsection (4) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 (6) In relation to a State integrated school, this section applies subject to Schedule 6 and to any integration agreement in force between the Minister and the proprietor of the school.
 (7) In this section, agreement means an agreement, other than a lease or a licence to occupy under section 162, between a board and any other person for the use of land, buildings, or facilities occupied by the board.
 
@@ -2017,13 +2032,13 @@ Except as provided in section 159, a board may not acquire an interest in land, 
 
 ### 164 Teaching and learning programmes
 The board of a school must ensure that the school’s principal and staff develop and implement teaching and learning programmes that—
-  (a) give effect to any foundation curriculum policy statements and national curriculum statements published under section 90; and
+  (a) give effect to any foundation curriculum policy statements and national curriculum statements made under section 90; and
   (b) give the school’s students access to a nationally and internationally recognised qualifications system.
 
 ### 165 Monitoring of and reporting on student performance
 (1) The board of a school must ensure that the school’s principal and staff monitor and evaluate the performance of the school’s students.
 (2) Monitoring and evaluating must include, but is not limited to, monitoring and evaluating the performance of the students in relation to—
-  (a) any foundation curriculum policy statements and national curriculum statements published under section 90; and
+  (a) any foundation curriculum policy statements and national curriculum statements made under section 90; and
   (b) any qualifications system referred to in section 164(b) that is offered at the school.
 (3) The board must ensure that information about a student’s performance is given to a parent of the student in a timely manner and in a form that is readily understandable.
 (4) The board must report to the Secretary, to its school community, and to parents on the performance of the school’s students in accordance with any regulations made under section 639.
@@ -2031,18 +2046,16 @@ The board of a school must ensure that the school’s principal and staff develo
 **Code of conduct**
 
 ### 166 Code of conduct for board members
-(1) The Minister may, by notice in the Gazette, issue a code of conduct for the members of State school boards that—
+(1) The Minister may issue a code of conduct for the members of State school boards that—
   (a) sets out the minimum standards of conduct that each member is required to meet; and
   (b) is consistent with any code issued under section 598.
 (2) Before issuing a code of conduct for the members of State school boards, the Minister—
   (a) must consult the national bodies representing the interests of boards; and
   (b) may consult any other persons or bodies that the Minister thinks fit.
-(3) The notice under subsection (1) must—
-  (a) specify the date on which the code of conduct for the members of State school boards comes into force (which must be at least 28 days after the date on which the notice is published); and
-  (b) either—
-    (i) set out the code in full; or
-    (ii) give enough information to identify the code and state where copies of the code may be obtained.
-(4) A code of conduct for the members of State school boards is a disallowable instrument, but not a legislative instrument, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
+(3) A code of conduct under this section—
+  (a) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements); and
+  (b) comes into force on a date specified in it, being not less than 28 days after it is published under that Act.
+(4)
 
 ### 167 Boards may augment code of conduct for board members
 A board, by resolution, may specify additional standards of conduct for its members provided they are consistent with any code issued under section 166 and the requirements under this Act and any other enactment.
@@ -2723,12 +2736,13 @@ A member of a dispute resolution panel and any mediator appointed by the panel i
 ### 237 Enrolment records
 (1) The principal of a registered school must ensure that an enrolment record in the form and containing the information that may be specified in rules made under subsection (3) is kept for each student who is enrolled at the school.
 (2) When a student moves from one registered school to another registered school, the principal of the first school must take reasonable steps to send the student’s enrolment record to the principal of the second school.
-(3) The Secretary may, by notice in the Gazette, make rules setting out administrative and procedural requirements relating to enrolment records, including (without limitation) rules—
+(3) The Secretary may make rules setting out administrative and procedural requirements relating to enrolment records, including (without limitation) rules—
   (a) setting out the duties of principals concerning enrolment records and the information contained in enrolment records:
   (b) requiring principals to inform students and parents about enrolment records and the use and distribution of enrolment records, and specifying the particulars about which students and parents are to be informed:
   (c) specifying the form and content of enrolment records:
   (d) specifying exceptions to particular requirements of the rules.
 (4) A principal of a registered school must comply with rules made under subsection (3).
+(5) Rules under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 238 Building Act 2004
 (1) A person inspecting sitework or a building under this Act must provide written notice of any non-compliance with the Building Act 2004 to the relevant territorial authority.
@@ -3029,6 +3043,7 @@ The object of the provisions of this Act relating to institutions is to give the
     (ii) that—
       (A) a university is characterised by a wide diversity of teaching and research, especially at a higher level, that maintains, advances, disseminates, and assists the application of knowledge, develops intellectual independence, and promotes community learning:
       (B) a wānanga is characterised by teaching and research that maintains, advances, and disseminates knowledge and develops intellectual independence, and assists the application of knowledge regarding ahuatanga Māori (Māori tradition) according to tikanga Māori (Māori custom).
+(2A) An order under subsection (1) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 (3) In the case of a wānanga, the Minister may, on the recommendation of its council, change the name of the wānanga by notice published in the Gazette.
 (4) In the case of a university, its name may be changed if the procedure set out in subsections (5) to (7) is followed.
 (5) The university must give written notice to the Minister of the proposed name change.
@@ -3054,7 +3069,8 @@ An Order in Council establishing an institution must make provision for determin
     (ii) inviting each council to make a written submission to the Minister in relation to the matter; and
   (b) publish, in the Gazette, the notices that the Minister thinks fit inviting members of the public to make written submissions in relation to the matter; and
   (c) consider any submissions made within a reasonable period in response to the notices.
-(6) If an order is made under this section, the Minister must present to the House of Representatives a copy of the order and a statement of the reasons for the making of the order.
+(6) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+(6A) When the order is presented to the House of Representatives (as required by the Legislation Act 2019) it must be accompanied by a statement of the reasons for the making of the order.
 (7) To avoid doubt, nothing in this section applies to Te Pūkenga—New Zealand Institute of Skills and Technology.
 
 **Councils**
@@ -3556,6 +3572,7 @@ The Vice-Chancellors Committee has—
   (a) change the name of Te Pūkenga—New Zealand Institute of Skills and Technology:
   (b) amend this Act or any other enactment by omitting from it the name of Te Pūkenga—New Zealand Institute of Skills and Technology and substituting some other name.
 (3) To avoid doubt, Te Pūkenga—New Zealand Institute of Skills and Technology does not cease to be an institution merely because its name is changed under subsection (2).
+(4) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 315 Functions of Te Pūkenga—New Zealand Institute of Skills and Technology
 Te Pūkenga—New Zealand Institute of Skills and Technology has the following functions:
@@ -3841,6 +3858,7 @@ If Te Pūkenga—New Zealand Institute of Skills and Technology’s council requ
 (1) Te Pūkenga—New Zealand Institute of Skills and Technology may form 1 or more Te Pūkenga—New Zealand Institute of Skills and Technology subsidiaries.
 (2) Schedule 15 specifies other provisions of this Act that apply and do not apply to an Te Pūkenga—New Zealand Institute of Skills and Technology subsidiary formed under subsection (1) that provides education or training, or both.
 (3) The Governor-General may, by Order in Council made on the recommendation of the Minister, specify provisions of this Act that do not apply to an Te Pūkenga—New Zealand Institute of Skills and Technology subsidiary formed under subsection (1) that does not provide education or training, or both.
+(4) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 341 Application of Schedule 14
 Schedule 14 applies to an Te Pūkenga—New Zealand Institute of Skills and Technology subsidiary on its dissolution date (as defined in clause 1 of that schedule).
@@ -3848,8 +3866,9 @@ Schedule 14 applies to an Te Pūkenga—New Zealand Institute of Skills and Tech
 ### Subpart 5 — Private training establishments
 
 ### 342 Minister may recognise categories of private training establishments
-(1) The Minister may, by notice in the Gazette, recognise categories and subcategories of registered private training establishments.
-(2) The Minister must, by notice in the Gazette, specify the criteria for including a registered private training establishment in a particular category or subcategory.
+(1) The Minister may, by notice, recognise categories and subcategories of registered private training establishments.
+(2) The Minister must, by notice, specify the criteria for including a registered private training establishment in a particular category or subcategory.
+(3) A notice under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 343 Requirement to be registered before providing approved programmes or training schemes
 A private training establishment must be registered before it can provide an approved programme or training scheme to a student.
@@ -4042,6 +4061,7 @@ A private training establishment must—
 (5) When the refund period, in relation to any fees paid by or behalf of a student, has expired,—
   (a) the fees paid must continue to be held in trust by the independent trustee and the private training establishment must be paid from the trust in the manner prescribed in the rules made under section 452; or
   (b) the private training establishment may, if NZQA approves, make alternative arrangements in relation to the fees paid.
+(6) An instrument containing a specification by NZQA under subsection (3) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 358 Rules apply if students withdraw because of programme or training scheme closure
 Any fees paid by or on behalf of a student who withdraws from a programme or training scheme because of the closure of the programme or scheme are subject to the protections set out in the rules made under section 452.
@@ -4134,6 +4154,7 @@ Training agreements and apprenticeship training agreements are part of the emplo
     (i) the proposed name and governance arrangements of the workforce development council; and
     (ii) the desirability of avoiding duplication of resources in the coverage of workforce development councils in relation to the specified industries; and
     (iii) the capability required by the proposed workforce development council to perform and exercise its functions, duties, and powers efficiently and effectively.
+(5) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 364 Disestablishment of workforce development councils
 (1) The Governor-General may, by Order in Council made on the recommendation of the Minister, disestablish a workforce development council and provide for the distribution of its assets and liabilities.
@@ -4143,6 +4164,7 @@ Training agreements and apprenticeship training agreements are part of the emplo
     (i) the workforce development council has persistently engaged in unlawful activity; or
     (ii) the workforce development council has persistently failed to perform its functions or duties; or
     (iii) there has been a persistent pattern of complaints to the Commission or the Minister from the 1 or more specified industries covered by the workforce development council regarding the council’s performance or exercise of its functions, duties, or powers.
+(3) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 365 Incorporation
 Each workforce development council established under section 363 is a body corporate with perpetual succession and a common seal, and is capable of—
@@ -4268,21 +4290,19 @@ Each workforce development council established under section 363 is a public ent
   (b) if the apprentice so requests, the provider will make reasonable endeavours to find a new employer with whom the apprentice can complete their training.
 
 ### 378 Minister may issue apprenticeship training code
-(1) The Minister may, by notice in the Gazette, issue an apprenticeship training code that—
+(1) The Minister may issue an apprenticeship training code that—
   (a) is consistent with this subpart; and
   (b) sets out the responsibilities of apprentices, their employers, and persons carrying out apprenticeship training activities under this subpart.
 (2) The apprenticeship training code may, but need not, be a code recommended by TEC.
 (3) Before issuing an apprenticeship training code, the Minister may consult any persons or organisations that the Minister thinks fit.
-(4) The notice under subsection (1) must—
-  (a) specify the date on which the apprenticeship training code comes into force (which must be at least 28 days after the date on which the notice is published); and
-  (b) either—
-    (i) set out the code in full; or
-    (ii) give enough information to identify the code and state where copies of the code may be obtained.
+(4)
 (5) Before issuing an apprenticeship training code under subsection (1), the Minister must consult relevant workforce development councils that cover the 1 or more specified industries to which the code relates.
-(6) An apprenticeship training code is a disallowable instrument, but not a legislative instrument, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
+(6) An apprenticeship training code—
+  (a) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements); and
+  (b) comes into force on a date specified in it, being not less than 28 days after it is published under that Act.
 
 ### 379 Availability of apprenticeship training code
-An apprenticeship training code issued by the Minister must be published on an Internet site maintained by or on behalf of TEC.
+[Repealed]
 
 ### 380 Apprenticeship training code to be taken into account by mediator, Employment Relations Authority, and Employment Court
 In exercising or performing, in relation to a matter concerning an apprentice, any power or function under the Employment Relations Act 2000, the following must take into account every applicable element of any apprenticeship training code:
@@ -4302,17 +4322,13 @@ The purpose of sections 382 to 385 and Schedules 16 and 17 is to enable the impo
   (a) 1 workforce development council by all qualifying members of the industry that is covered by that council; or
   (b) 1 workforce development council by all qualifying members of a specific industry that is within the range of industries covered by that council; or
   (c) more than 1 workforce development council, jointly, by all qualifying members of an industry that is covered by those councils.
-(4) A levy order is a legislative instrument and a disallowable instrument for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
+(4) A levy order under this section—
+  (a) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements); and
+  (b) must be confirmed by an Act (see subpart 3 of Part 5 of the Legislation Act 2019).
 
-### 383 Orders are confirmable instruments
-(1) The explanatory note of a levy order made under section 382 must indicate that—
-  (a) it is a confirmable instrument under section 47B of the Legislation Act 2012; and
-  (b) it is revoked at a time stated in the note, unless earlier confirmed by an Act of Parliament; and
-  (c) the stated time is the applicable deadline under section 47C(1)﻿(a) or (b) of that Act.
-(2) The Minister on whose recommendation a levy order was made must, by notice published in the Gazette at least 6 months before the time at which the order may be revoked under section 47C(1)﻿(a) or (b) of the Legislation Act 2012, indicate the Minister’s intentions with regard to its continuing in force unless the levy order is sooner—
-  (a) revoked; or
-  (b) disallowed under Part 3 of the Legislation Act 2012; or
-  (c) confirmed by an Act of Parliament.
+### 383 Minister must indicate whether orders to continue in force
+(1) The Minister on whose recommendation a levy order is made must indicate the Minister’s intentions with regard to the levy order continuing in force by publishing a notice in the Gazette at least 6 months before the deadline that applies under subpart 3 of Part 5 of the Legislation Act 2019 (the 6-month date).
+(2) However, this section does not apply if the levy order has already been revoked, disallowed under subpart 2 of Part 5 of the Legislation Act 2019, or confirmed by an Act before the 6-month date.
 
 ### 384 Restrictions on making of levy orders
 (1) The Minister may not recommend the making of a levy order under section 382 unless satisfied on reasonable grounds that—
@@ -4561,7 +4577,7 @@ The chief executive of TEC—
   (k) to ensure the availability within industry of high-quality vocational education and training; and
   (l) to promote the availability of vocational education and training to people of a kind or description specified in TEC’s statement of intent as people to whom that training has not traditionally been available (whether within a particular industry or industries, or generally); and
   (m) to develop and recommend to the Minister an apprenticeship training code for the purposes of section 378; and
-  (n) to make the apprenticeship training code available as required by section 379; and
+  (n)
   (o) to monitor the performance of persons carrying out apprenticeship training activities (whether or not under a plan) to ensure that they comply with the apprenticeship training code; and
   (p) to exercise the powers and perform the functions of TEC under sections 381 to 385 (which relate to work-based training levies); and
   (q) to undertake any other function conferred on it by this Act or any other enactment.
@@ -4651,6 +4667,7 @@ Despite section 6 of the Commerce Act 1986, nothing in that Act applies to TEC e
     (i) domestic students:
     (ii) employers for supporting their employees’ work-based training; and
   (e) provide for funding that targets particular groups of students.
+(4) A determination under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 420 Restrictions on design of funding mechanisms
 (1) In determining a design for a funding mechanism under section 419 or in varying a determination under section 423, the Minister may not—
@@ -4688,10 +4705,11 @@ TEC must—
   (a) TEC must attach the new conditions to any funding approval that it has given under that funding mechanism; and
   (b) TEC must notify any affected organisation of the attachment of the new conditions to the organisation’s funding approval; and
   (c) the new conditions take effect on the date on which the affected organisation is so notified.
-(7) If the Minister varies a determination, the variation takes effect on a date specified by the Minister, which must be no earlier than whichever is the later of the following:
+(7) A variation of a determination under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+(8) The variation comes into force on the date specified in it, being no earlier than whichever is the later of the following:
   (a) the day that is 3 months after the date on which the Minister varies the determination:
   (b) the beginning of the calendar year after the calendar year during which the Minister varies the determination.
-(8) However, if the Minister varies a determination in response to, or to support recovery from, an epidemic or an emergency declared or notified under an enactment, the variation takes effect on a date specified by the Minister.
+(9) However, if the variation is in response to, or to support recovery from, an epidemic or an emergency declared or notified under an enactment, the variation comes into force on the date specified in it, even if it is not yet published.
 
 ### 424 Criteria for assessing proposed plans
 (1) TEC must prescribe and give public notice of the criteria that TEC is to use to assess proposed plans to determine if they are to receive funding approval.
@@ -4880,8 +4898,9 @@ NZQA has the power to carry out any research activities that it considers releva
   (b) must give the institution written notice of its decision to grant or refuse accreditation; and
   (c) may grant accreditation without limitation as to time or for a specified period.
 (5) This section—
-  (a) does not apply to any secondary school qualification or class of secondary school qualification that NZQA exempts, by notice in the Gazette, from the application of this section:
+  (a) does not apply to any secondary school qualification or class of secondary school qualification that NZQA exempts, by notice, from the application of this section:
   (b) is subject to section 453.
+(6) A notice under subsection (5)﻿(a) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 442 Conditions on accreditation
 (1) Every accreditation is subject to the condition that the institution complies at all times with the relevant rules made under section 452, except to the extent that NZQA exempts the institution, by a condition on the accreditation, from compliance.
@@ -4922,7 +4941,8 @@ NZQA has the power to carry out any research activities that it considers releva
   (b) must give the institution and any joint applicant written notice of its decision to grant or refuse approval; and
   (c) may grant approval for a specified period or indefinitely.
 (3) If the training scheme incorporates assessment standards listed in the Directory of Assessment Standards, NZQA may not grant training scheme approval until the institution has obtained consent to assess against those standards.
-(4) This section does not apply to any secondary school qualification or class of secondary school qualification that NZQA exempts, by notice in the Gazette, from the application of this section.
+(4) This section does not apply to any secondary school qualification or class of secondary school qualification that NZQA exempts, by notice, from the application of this section.
+(5) A notice under subsection (4) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 446 Conditions of training scheme approval
 (1) Every training scheme approval is subject to the condition that the institution complies at all times with the relevant rules made under section 452 except to the extent that NZQA exempts the institution, by a condition on the approval, from compliance.
@@ -5017,10 +5037,8 @@ NZQA has the power to carry out any research activities that it considers releva
   (b) if the rules relate to bodies that provide adult and community education, those bodies or a body that represents their interests; and
   (c) if the rules relate to a class of institutions in respect of which there is a body whose function is to set up programme approval and moderation procedures, the representative bodies of those institutions, and any other bodies as NZQA considers appropriate.
 (5) Any proposed rules under this section must be approved by the board of NZQA and the Minister before being made, but, if the rules relate to any matter described in subsection (1)﻿(m), the approval of the Minister is not required.
-(6) Any rules made under this section must be—
-  (a) published on an Internet site maintained by or on behalf of NZQA; and
-  (b) made available in printed form for purchase at a reasonable price on request by members of the public.
-(7) Rules made under this section are a disallowable instrument, but not a legislative instrument, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
+(6) Rules under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+(7)
 
 **Functions and powers of NZQA in relation to universities**
 
@@ -5091,9 +5109,7 @@ NZQA has the power to carry out any research activities that it considers releva
   (b) charge fees to any person or institution for any services provided by NZQA, including fees in relation to sitting an examination conducted by NZQA, to the making of any assessment by NZQA, or to the granting to any person of an award certifying that the person had passed the examination or been so assessed:
   (c) charge fees to any person or institution for any quality assurance activities undertaken by NZQA.
 (2) A fee may not be charged under subsection (1)﻿(b) to a person who is a student at a relevant school unless the Minister has consented to the charging of the fee.
-(3) All fees that are to be charged under subsection (1) must be—
-  (a) published on an Internet site maintained by or on behalf of NZQA; and
-  (b) made available in printed form for purchase at a reasonable price on request by members of the public.
+(3) Fees set under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 **Enforcement powers of NZQA**
 
@@ -5357,7 +5373,7 @@ The purpose of the Teaching Council is to ensure safe and high-quality leadershi
 (4) A statement of Government policy comes into effect on the date specified in the Gazette notice, which date must be on or after the date of the notice and is to be treated as the date on which the statement is issued.
 (5) When performing its functions, the Teaching Council must have regard to any relevant statement of Government policy.
 (6) A statement of Government policy may be amended, revoked, or replaced in the same way as it is given.
-(7) A statement of Government policy issued under this section is neither a legislative instrument nor a disallowable instrument for the purposes of the Legislation Act 2012, and does not have to be presented to the House of Representatives under section 41 of that Act.
+(7)
 
 ### 483 Reports
 (1) At least every 3 years, following consultation with teachers, the Government, and the public, the Teaching Council must publish on an Internet site maintained by or on behalf of the Teaching Council a report setting out its strategic direction for the next 5 years.
@@ -5373,15 +5389,9 @@ The Teaching Council may establish advisory committees for specific aspects of i
     (i) to consult those who are to be bound by it; and
     (ii) to consult the Public Service Commissioner; and
   (b) must have regard to any relevant minimum standards of integrity and conduct or code of conduct that the Public Service Commissioner sets or issues under section 17 of the Public Service Act 2020.
-(3) The code of conduct must be signed by the chairperson of the Teaching Council, and—
-  (a) notice of it must be given in the Gazette; and
-  (b) the notice must say where copies of the code may be obtained free of charge; and
-  (c) the notice must give the date on which the code comes into force, which must be a date on or after the date of the Gazette notice; and
-  (d) the Teaching Council must take all reasonable steps to ensure that those bound by the code are aware of its existence and are able to obtain copies of it, including (without limitation) publishing the code on an Internet site maintained by or on behalf of the Teaching Council.
-(4) The Teaching Council may amend the code of conduct, and every amendment—
-  (a) must be notified in the Gazette; and
-  (b) forms part of the code on the date specified in the notice as the date on which it is to come into force.
-(5) The code of conduct, and every amendment to it, is a disallowable instrument, but not a legislative instrument, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
+(3) The chairperson of the Teaching Council must sign the code of conduct.
+(4) The code of conduct, or an amendment to the code of conduct, is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+(5) The Teaching Council must take all reasonable steps to ensure that those bound by the code of conduct are aware of its existence and where it is available.
 (6) The code of conduct prepared under this section is binding on all teachers who hold a practising certificate and on all authorised persons.
 
 ### 486 Teaching Council to make rules
@@ -5398,12 +5408,8 @@ The Teaching Council may establish advisory committees for specific aspects of i
   (h) the requirements that teachers must meet to satisfy the refresh process referred to in clause 10 of Schedule 3.
 (2) The Teaching Council may make rules for any other purpose relating to the performance of its functions.
 (3) When preparing rules (and any amendments to them), the Teaching Council must take all reasonable steps to consult those affected by the rules.
-(4) When rules are made under this section,—
-  (a) notice of them must be given in the Gazette; and
-  (b) the notice must say where copies of the rules may be obtained free of charge; and
-  (c) the notice must give the date on which the rules come into force, which must be a date on or after the date of the Gazette notice; and
-  (d) the Teaching Council must take all reasonable steps to ensure that those affected by the rules are aware of their existence and are able to obtain copies of them.
-(5) Rules made under this section are a legislative instrument and a disallowable instrument for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
+(4) Rules under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+(5) The Teaching Council must take all reasonable steps to ensure that those bound by the rules are aware of their existence and where they are available.
 
 ### 487 Delegations
 (1) The Teaching Council may delegate any of its powers (other than this power of delegation), either generally or specifically, as it sees fit.
@@ -5728,9 +5734,10 @@ The purpose of this subpart is to ensure that international students trust New Z
 (10) If subsection (9) applies, the student may not be counted for the purpose of calculating or ascertaining the school's entitlement to teachers or funding.
 
 ### 520 Certain international students may enrol at State schools as of right
-(1) The Minister may, by notice in the Gazette, declare international students of a specified kind or description to be entitled to enrol at State schools.
+(1) The Minister may, by notice, declare international students of a specified kind or description to be entitled to enrol at State schools.
 (2) A notice may be unconditional or subject to any conditions specified in it.
 (3) An international student of a kind or description for the time being specified in a notice under subsection (1) has the same rights to enrolment and tuition at State schools as a domestic student, subject to section 521 and any conditions specified in the notice.
+(4) A notice under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 521 Fees for international students
 (1) Subject to section 519(9), no international student may receive tuition in any subject, course, or programme at a State school unless there has been paid to the school’s board an amount fixed by the board that is not less than the sum of the following amounts:
@@ -5758,17 +5765,22 @@ The purpose of this subpart is to ensure that international students trust New Z
   (d) all other fees (if any) prescribed by the board.
 
 ### 522 Exemption from paying fees
-The Minister may, by notice in the Gazette, exempt international students of a particular kind or description from paying all or a specified proportion or amount of the amount required by section 521 to be paid.
+(1) The Minister may, by notice, exempt international students of a particular kind or description from paying all or a specified proportion or amount of the amount required by section 521 to be paid.
+(2) A notice under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 523 Board must reimburse the Crown for expenditure relating to international students
-(1) The Minister must, by notice in the Gazette, set fees to be paid by boards in respect of international students enrolled at State schools.
+(1) The Minister must, by notice, set fees to be paid by boards in respect of international students enrolled at State schools.
 (2) Fees may be set for 1 or more of the following:
   (a) all State schools, State schools of a specified kind or description, or specified State schools:
   (b) all international students, or international students of a specified kind or description:
   (c) all subjects, courses, and programmes; subjects, courses, and programmes of a specified kind or description; or specified subjects, courses, or programmes.
 (3) Within 28 days of the first day in any year on which an international student enrolled at a State school attends the school, the board must pay to the Secretary the appropriate fee (if any) prescribed under subsection (1).
 (4) The Minister may pay to the proprietors of a State integrated school whose board has paid a fee under this section a portion of that fee, as determined in accordance with a formula prescribed under subsection (5), for the purpose of reimbursing the proprietors for that part of the levy associated with the use of capital assets owned by the proprietors.
-(5) The Minister may, by notice in the Gazette, prescribe a formula for the payment of money under subsection (4), and may prescribe different formulas to apply to different schools or classes of school.
+(5) The Minister may, by notice, prescribe a formula for the payment of money under subsection (4), and may prescribe different formulas to apply to different schools or classes of school.
+(6) The following are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements):
+  (a) a notice under subsection (1):
+  (b) a notice under subsection (5), unless it applies only to 1 or more named schools.
+(7) If a notice under subsection (5) is not secondary legislation, the Minister must give the notice to the proprietor or proprietors of the school or schools named in the notice.
 
 ### 524 Courses for international students
 (1) The board of a State school or the managers of a school registered under section 214 may not establish, or permit any student to enrol or continue to be enrolled in, any class, course, or programme intended exclusively or mainly for international students unless the class, course, or programme is for the time being approved by NZQA.
@@ -5838,14 +5850,15 @@ The Minister may, by notice in the Gazette, exempt international students of a p
 (3) For the purposes of this section and section 528, a programme or training scheme is of less than 3 months’ duration if the period starting on the day on which the programme or scheme starts and ending on the day on which it ends (or is likely to end) is less than 3 calendar months, irrespective of the number of days on which the programme or training scheme is, or is proposed to be, provided during that period.
 
 ### 528 Exemptions
-(1) NZQA may, by notice in the Gazette,—
+(1) NZQA may—
   (a) exempt programmes for the purposes of section 527(1)﻿(b)﻿(ii); or
   (b) exempt training schemes for the purposes of section 527(2)﻿(b)﻿(ii).
-(2) A notice under subsection (1)—
+(2) An exemption under subsection (1)—
   (a) may exempt only programmes or training schemes that are, or are likely to be, of less than 3 months' duration; and
   (b) may identify programmes or training schemes, or classes of programmes or training schemes, that are exempt; and
   (c) may identify programmes or training schemes by reference to a provider, or a class of providers, that offers them; and
   (d) may be in respect of programmes or training schemes that have been completed, are in progress, or have not yet started.
+(3) An exemption under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 529 Refund entitlements of international students
 (1) A private training establishment must—
@@ -5857,10 +5870,11 @@ The Minister may, by notice in the Gazette, exempt international students of a p
 (3) When the refund period, in relation to any fees paid by or on behalf of an international student, has expired,—
   (a) the fees paid must continue to be held in trust with the independent trustee and the private training establishment must be paid from the trust in the manner prescribed in the rules made under section 452; or
   (b) the private training establishment may, if NZQA approves, make alternative arrangements in relation to the fees paid.
+(3A) An instrument containing a specification by NZQA under subsection (1)﻿(c) or (d) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 (4) In this section, refund period means the period that begins when the student’s fees are paid to the private training establishment (or paid directly to the independent trustee) and ends on the date specified in the notice made under section 530.
 
-### 530 Refund requirements set by Gazette notice
-(1) For the purposes of refunds under section 529, the Minister must specify, by notice in the Gazette,—
+### 530 Refund requirements set by Minister
+(1) For the purposes of refunds under section 529, the Minister must specify, by notice,—
   (a) either—
     (i) the end of the period within which an international student may withdraw from a programme or training scheme of 3 months' duration or more and be entitled to a refund under that section; or
     (ii) a means by which the end of that period may be calculated or ascertained; and
@@ -5871,7 +5885,7 @@ The Minister may, by notice in the Gazette, exempt international students of a p
   (a) private training establishments:
   (b) sector and industry representative organisations:
   (c) any other relevant bodies.
-(3) A notice under this section is a legislative instrument and a disallowable instrument for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
+(3) A notice under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 531 Private training establishment to notify immigration officer if student withdraws from programme or training scheme
 (1) A private training establishment must ensure that, within 7 days of the withdrawal of any student from a programme or training scheme at the establishment, an immigration officer (within the meaning of section 4 of the Immigration Act 2009) is given written notice of the name of the student and the programme or training scheme, and the day on which the student withdrew.
@@ -5925,10 +5939,11 @@ A provider must enrol a person as an international student if the person is not 
   (a) in respect of domestic tertiary students is binding on all providers:
   (b) in respect of international students is binding on all signatory providers.
 (7) A code—
-  (a) may make different provisions in relation to students under the age of 18 years and in relation to students aged 18 years or over:
-  (b) must be published on an Internet site maintained by or on behalf of the Ministry:
-  (c) is a disallowable instrument, but is not a legislative instrument, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
+  (a) may make different provisions in relation to students under the age of 18 years and in relation to students aged 18 years or over.
+  (b)
+  (c)
 (8) A code must be made and administered in accordance with regulations made under section 648.
+(9) A code under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 535 Sanctions for breach of code
 (1) If satisfied that a provider or signatory provider has breached the relevant code or failed to comply with a quality improvement notice or compliance notice issued under regulations made under section 648, a code administrator may,—
@@ -5976,6 +5991,7 @@ In resolving any dispute, the DRS operator—
 (1) The Governor-General may, by Order in Council made on the recommendation of the Minister, make rules for the functioning and administration of the DRS.
 (2) Before recommending that an order be made, the Minister must consult any relevant bodies and sector representatives that the Minister thinks fit.
 (3) The rules may prescribe fees, or a means by which fees can be calculated or ascertained.
+(4) Rules under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 **Export education levy**
 
@@ -6102,16 +6118,20 @@ The Minister may, on any terms and conditions the Minister thinks fit, lend to t
 (4) In determining the amount of a discretionary grant, the Minister must take no account of international students (other than students entitled under section 520(1)) enrolled, or likely to be enrolled, at a school administered by the board concerned.
 (5) A discretionary grant made under subsection (1)—
   (a) must be made subject to the condition that a board that receives it does not seek or receive any solicited voluntary payment from parents; and
-  (b) may also be made subject to other conditions (except a condition that it be used for the purposes set out in the grant) determined by the Minister and published in the Gazette (in full, or by way of a general description and an indication of where the full text can be obtained).
+  (b) may also be made subject to other conditions (except a condition that it be used for the purposes set out in the grant) determined by the Minister.
 (6) A discretionary grant may be paid to a board only if the board has decided by resolution to receive the grant.
 (7) A board that receives a discretionary grant must take all reasonable steps to ensure that all conditions of the grant are complied with.
+(8) An instrument imposing conditions under subsection (5)﻿(b) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements), unless it applies only to 1 or more named boards.
+(9) If an instrument under subsection (5)﻿(b) is not secondary legislation, the Minister must give a copy of the instrument to the boards named in the instrument.
 
 ### 552 Minister may prescribe exemptions to mandatory condition
-(1) The Minister may, by notice in the Gazette, prescribe exemptions to the condition in section 551(5)﻿(a).
+(1) The Minister may, by notice, prescribe exemptions to the condition in section 551(5)﻿(a).
 (2) Exemptions prescribed by a notice under this section enable any board, or class or classes of boards, specified in the notice to which a discretionary grant is made, or is to be made, to seek or receive any solicited voluntary payment from parents for any student activity or student activities specified in the notice.
+(3) An exemption under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements), unless it applies only to 1 or more named boards.
+(4) If an exemption is not secondary legislation, the Minister must give a copy of the exemption to the boards named in the notice.
 
 ### 553 Application of Legislation Act 2012
-A notice under section 551(5)﻿(b) or 552, or both, and applying to any class or classes of boards is a disallowable instrument, but not a legislative instrument, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
+[Repealed]
 
 ### 554 Effect of non-compliance with conditions of earlier discretionary grants
 (1) In determining for the purposes of section 550 or 551 the amount of any grant, supplementary grant, or discretionary grant payable to a board in respect of a school in or for a financial year, the Minister—
@@ -6198,7 +6218,8 @@ When determining the amount of a grant payable to a board under section 550, the
   (d) for any similar purpose.
 
 ### 562 Rent for teachers’ residences
-A teacher who is provided with a teacher’s residence in respect of the teacher’s teaching position must pay rent in accordance with a scheme prescribed by the Minister and notified in the Gazette.
+(1) A teacher who is provided with a teacher’s residence in respect of the teacher’s teaching position must pay rent in accordance with a scheme prescribed by the Minister.
+(2) A rental scheme under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 563 Transfer of Crown assets and liabilities to institutions
 (1) Despite any Act, rule of law, or agreement, the Minister may, on behalf of the Crown and on any terms and conditions the Minister agrees with an institution's chief executive, do any 1 or more of the following:
@@ -6218,6 +6239,7 @@ A teacher who is provided with a teacher’s residence in respect of the teacher
 (6) No provision in any agreement limiting the Crown's right to sell any assets to third parties, or for determining the consideration for the sale of any assets to third parties, or obliging the Crown to account to any person for the whole or part of the proceeds of sale by the Crown of any assets to third parties, or obliging the Crown to pay a greater price than otherwise by reason of or as a consequence of the sale of any assets to third parties, may have any application or effect in respect of any agreement or transfer entered into or made under this section or under the agreement or transfer.
 (7) If land, interests in land, licences, permits, or rights created on terms and conditions wholly or partly set out in any Act are transferred to an institution under this section, and the Governor-General has by Order in Council declared that this subsection applies in respect of that land or those interests, licences, permits, or rights, then the terms and conditions set out in the Act (whether or not repealed) and that are specified in the order (with all necessary modifications) continue to apply in respect of that land or those interests, licences, permits, or rights after the transfer unless the institution and the holders of that land or those interests, licences, permits, or rights otherwise agree.
 (8) If any requirement has been made under section 168 of the Resource Management Act 1991 in respect of any work that has been transferred to an institution under this Act, the procedures specified in the Resource Management Act 1991 may be completed as if a Minister of the Crown continued to be financially responsible for the work and as if the work were a public work.
+(9) See section 572(3) for the status of an order made for the purposes of subsection (7).
 
 ### 564 Transfer of land
 (1) Crown land and any lands of the Crown other than lands registered under the Land Transfer Act 2017 that are to be transferred to an institution must—
@@ -6229,6 +6251,7 @@ A teacher who is provided with a teacher’s residence in respect of the teacher
   (a) section 3 of the Petroleum Act 1937:
   (b) sections 10 and 11 of the Crown Minerals Act 1991:
   (c) section 354 of the Resource Management Act 1991.
+(5) See section 572(3) for the status of an order made for the purposes of subsection (1).
 
 ### 565 Title to land
 (1) The Registrar-General of Land must, on written application by any person authorised by the Minister and on payment of the prescribed fee,—
@@ -6287,6 +6310,7 @@ The submission in respect of any land or interest in land of a claim under secti
   (f) declare that any order made under this section is to be treated as being notice to all persons, and that specific notice need not be given to any authority or other person:
   (g) direct any authority or other person to register or record the vesting or declaration.
 (2) Every order made under this section may be made on the terms and conditions that the Governor-General thinks fit, and has effect according to its terms.
+(3) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 573 Effect of disestablishment of institution
 (1) If an institution is disestablished, the following provisions apply.
@@ -6349,13 +6373,14 @@ The submission in respect of any land or interest in land of a claim under secti
 (4) The Minister may, on giving reasonable notice to all participating boards, discontinue a school risk management scheme and direct the Secretary to wind up the scheme.
 
 ### 577 School risk management scheme fee
-(1) In respect of each year during which a school risk management scheme has effect, the Minister must, by notice in the Gazette, set the amount of the annual fee payable by a participating board or the rate at which the amount is to be assessed.
+(1) In respect of each year during which a school risk management scheme has effect, the Minister must, by notice, set the amount of the annual fee payable by a participating board or the rate at which the amount is to be assessed.
 (2) The purpose of the annual fee is to recover the administration, insurance, and claims costs of the scheme.
 (3) The Secretary must deduct the fee from grants made to the participating board under section 550.
 (4) The Secretary must establish a separate bank account for the purposes of this section, and—
   (a) all fees deducted under subsection (3) must be paid into the account; and
   (b) the Secretary may authorise payments to be made from the account for the purposes of administering the scheme.
 (5) If the school risk management scheme is discontinued, the money held in the separate account after the scheme has been wound up must be paid into a Crown Bank Account in accordance with any directions of the Secretary to the Treasury.
+(6) A notice under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### Subpart 3 — Payment of salaries
 
@@ -6381,6 +6406,7 @@ A board may not pay all or any part of the salary of a regular teacher in respec
 (3) The Governor-General may, by Order in Council, specify the circumstances in which the employment of a relieving teacher or an employment-based trainee teacher justifies the central payment of the teacher's salary—
   (a) immediately; or
   (b) after employment for an initial specified period of consecutive school days on which the school at which the teacher is employed is open for instruction.
+(4) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 582 Limits on appointment and employment of regular teachers at payrolled schools
 (1) To limit the financial liability of the Crown under section 579, the Governor-General must in every year, by Order in Council, prescribe limits on the number of regular teachers who may be employed at payrolled schools during the next year.
@@ -6391,6 +6417,10 @@ A board may not pay all or any part of the salary of a regular teacher in respec
   (d) specify—
     (i) the circumstances in which the Secretary may exempt a school or type of school from a limitation:
     (ii) any conditions that apply to the exemption.
+(3) An order under subsection (1) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+(4) If an order authorises the Secretary under subsection (2)﻿(d) to grant exemptions in respect of a type of school,—
+  (a) instruments granting those exemptions are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements); and
+  (b) the order must contain a statement to that effect.
 
 ### 583 Boards to comply with limit
 If an order made under section 582 applies, a board must ensure that the appointment and employment of teachers at the school are in accordance with any limit in that order while it applies.
@@ -6920,9 +6950,7 @@ The right of parents who have children in early childhood centres to enter the p
     (vi) communication and consultation with parents:
     (vii) the operation or administration of licensed early childhood services:
   (b) authorise the Minister, after consultation with those organisations that appear to the Minister to be representative of persons likely to be substantially affected by the regulations, to prescribe criteria to be used by the Secretary to assess compliance with the minimum standards imposed by the regulations:
-  (c) require the Secretary to publish a notice in the Gazette—
-    (i) stating that criteria referred to in paragraph (b) have been prescribed; and
-    (ii) setting out the criteria in full, or stating where or how a copy of the criteria may be obtained by members of the public:
+  (c)
   (d) limit or regulate the number of children who may attend licensed early childhood education and care centres or any premises used to provide a licensed home-based education and care service or a licensed hospital-based education and care service:
   (e) provide for the grant or refusal to grant, duration, expiry, renewal, suspension, transfer, reclassification, and cancellation of licences of 1 or more specified kinds for service providers for each kind of early childhood service, and prescribe the conditions under which licences may be granted, renewed, suspended, or transferred and the fees payable in respect of the grant, renewal, suspension, or transfer of the licences, or do any of those things:
   (f) prescribe conditions governing licensed early childhood services and the duties of their service providers:
@@ -6939,8 +6967,12 @@ The right of parents who have children in early childhood centres to enter the p
   (a) may differ in any way, including (without limitation) providing for—
     (i) early childhood services of different types or descriptions; and
     (ii) different kinds of licences; and
-    (iii) different minimum standards:
-  (b) are a disallowable instrument, but not a legislative instrument, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
+    (iii) different minimum standards.
+  (b)
+(5) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+(6) If the regulations authorise the Minister under subsection (2)﻿(b) to prescribe criteria,—
+  (a) an instrument that prescribes the criteria is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements); and
+  (b) the regulations must contain a statement to that effect.
 
 ### 637 Regulations relating to certifying playgroups
 (1) The Governor-General may, by Order in Council, make regulations for certifying playgroups.
@@ -6954,9 +6986,7 @@ The right of parents who have children in early childhood centres to enter the p
     (vi) communication and consultation with parents:
     (vii) the operation and administration of playgroups:
   (b) authorise the Minister, after consultation with those organisations that appear to the Minister to be representative of persons likely to be substantially affected by the regulations, to prescribe criteria to be used by the Secretary to assess compliance with the minimum standards imposed by the regulations:
-  (c) require the Secretary to publish a notice in the Gazette—
-    (i) stating that criteria referred to in paragraph (b) have been prescribed; and
-    (ii) setting out the criteria in full, or stating where or how a copy of the criteria may be obtained by members of the public:
+  (c)
   (d) limit or regulate the number of children who may attend certified playgroups:
   (e) provide for the grant, duration, expiry, renewal, suspension, transfer, reclassification, and cancellation of certificates of 1 or more specified kinds for playgroups, and prescribe the conditions under which certificates may be granted, renewed, or transferred and the fees payable in respect of the grant, renewal, or transfer of the certificates:
   (f) prescribe conditions governing certified playgroups and the duties of their service providers:
@@ -6968,8 +6998,12 @@ The right of parents who have children in early childhood centres to enter the p
 (3) Criteria prescribed by the Minister for use in assessing compliance with minimum standards imposed by regulations made under this section—
   (a) may differ in any way, including (without limitation) providing for—
     (i) different kinds of certificates; and
-    (ii) different minimum standards:
-  (b) are a disallowable instrument, but not a legislative instrument, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
+    (ii) different minimum standards.
+  (b)
+(4) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+(5) If the regulations authorise the Minister under subsection (2)﻿(b) to prescribe criteria,—
+  (a) an instrument that prescribes the criteria is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements); and
+  (b) the regulations must contain a statement to that effect.
 
 ### 638 Regulations relating to how schools must be run
 (1) The Governor-General may, by Order in Council, make regulations providing for the control, management, organisation, conduct, and administration of schools.
@@ -6981,6 +7015,7 @@ The right of parents who have children in early childhood centres to enter the p
   (e) provide for when schools must be open and closed for instruction:
   (f) provide for the circumstances in which the Secretary may direct that a student be enrolled at a school.
 (3) Regulations made under this section prescribing a course of study may not restrict the method by or manner in which any subject forming part of the course is to be taught, except to the extent necessary to ensure that the teaching of the subject is consistent with the general aims of the course.
+(4) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 639 Regulations relating to planning, implementation, monitoring, and reporting for schools and boards
 (1) The Governor-General may, by Order in Council, make regulations for all or any of the following purposes:
@@ -7005,6 +7040,7 @@ The right of parents who have children in early childhood centres to enter the p
     (ii) section 165:
     (iii) sections 134 to 136:
     (iv) sections 138 to 145.
+(3) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 640 Regulations relating to board elections and appointments
 (1) The Governor-General may, by Order in Council, make regulations for all or any of the following purposes:
@@ -7017,6 +7053,7 @@ The right of parents who have children in early childhood centres to enter the p
   (b) provide for persons who do not exercise their choice within the time or in the manner provided for to be restricted to standing or voting, or both, in only 1 election; and
   (c) require a person who has chosen or been restricted to 1 election to continue to be restricted to elections of the kind concerned if elections are later held to fill casual vacancies.
 (3) A person who has been nominated for election to a board is not eligible to be appointed returning officer for the election.
+(4) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 641 Regulations relating to imposition of export education levy
 (1) The Governor-General may, by Order in Council made on the recommendation of the Minister, make regulations imposing an export education levy on signatory providers who receive tuition fees from international students enrolled with them.
@@ -7026,9 +7063,10 @@ The right of parents who have children in early childhood centres to enter the p
   (c) designate an agency to administer the levy and, if that agency is the Ministry, may authorise the Ministry to delegate all or specified aspects of the levy’s collection and use to another body; and
   (d) require a signatory provider to supply, on request by the agency responsible for the administration of the levy, information about student numbers or any other matter that is necessary to determine or verify the amount of levy payable by the signatory provider.
 (3) Before making a recommendation under subsection (1), the Minister must consult signatory providers.
+(4) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 642 Regulations relating to school risk management schemes
-The Governor-General may, by Order in Council, make regulations for all or any of the following purposes:
+(1) The Governor-General may, by Order in Council, make regulations for all or any of the following purposes:
   (a) providing for the establishment of a school risk management scheme:
   (b) defining accidental loss or damage and other terms for the purposes of the regulations:
   (c) setting out the scope of the indemnity that may be given by the Crown, including any exclusions:
@@ -7036,6 +7074,7 @@ The Governor-General may, by Order in Council, make regulations for all or any o
   (e) listing the kinds of costs that the Crown may deduct from money payable under the scheme to a participating board:
   (f) providing for the manner in which the parties may withdraw from the scheme:
   (g) providing for the manner in which the scheme may be varied, replaced, or terminated.
+(2) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 643 Regulations relating to school hostels
 (1) The Governor-General may, by Order in Council, make regulations for all or any of the following purposes:
@@ -7058,9 +7097,10 @@ The Governor-General may, by Order in Council, make regulations for all or any o
   (g) providing for matters relating to the inspection of hostels and the authorisation of persons to inspect hostels:
   (h) providing for any other matters necessary or expedient for giving effect to the purpose described in section 630.
 (2) Regulations made under subsection (1) may relate to all hostels, individual hostels, hostels of specified classes, or parts of hostels.
+(3) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 644 Regulations relating to dispute resolution panels
-The Governor-General may, by Order in Council made on the recommendation of the Minister, make regulations for all or any of the following purposes:
+(1) The Governor-General may, by Order in Council made on the recommendation of the Minister, make regulations for all or any of the following purposes:
   (a) establishing 1 or more dispute resolution panels for the purpose of subpart 9 of Part 3 and prescribing the process and procedures (if any) of the panels:
   (b) prescribing criteria for the appointment and removal of dispute resolution panel members:
   (c) prescribing the maximum number of members that may be appointed to a dispute resolution panel and specifying the number of panel members who must be local community members and expert members:
@@ -7069,6 +7109,7 @@ The Governor-General may, by Order in Council made on the recommendation of the 
     (ii) prescribing criteria for removal:
     (iii) specifying the term of office:
   (e) providing for the Chief Referee or a dispute resolution panel to receive, obtain, or use any specified information that is reasonably required for the purpose of performing or exercising their functions, duties, and powers under subpart 9 of Part 3.
+(2) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 645 Regulations relating to student allowances
 (1) The Governor-General may, by Order in Council, make regulations for the purposes of Schedule 9 by establishing student allowances to help recipients undertake—
@@ -7097,6 +7138,9 @@ The Governor-General may, by Order in Council made on the recommendation of the 
   (a) authorising the chief executive of MSD, for the purposes of assessing the eligibility of any person for an allowance, to take into account the income of that person's parents, spouse, or partner:
   (b) defining parent, spouse, and partner, and any related terms, for the purposes of the regulations:
   (c) stating when and to what extent income referred to in paragraph (a) is to be taken into account.
+(9A) Regulations under this section—
+  (a) are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements); and
+  (b) commence in accordance with subsections (5) to (8), even if they are not yet published.
 (10) In this section,—
   - **CPI** means the New Zealand Consumers Price Index (All Groups) published by Statistics New Zealand
   - **standard tax** means the amount of tax calculated on a weekly basis that would be withholdable in accordance with tax code M stated in Schedule 5, Part A, clause 4, row 1 of the table of the Tax Administration Act 1994.
@@ -7109,6 +7153,7 @@ The Governor-General may, by Order in Council made on the recommendation of the 
   (a) this Act and any regulations made under it; and
   (b) any practice notes issued under clause 6 of Schedule 10.
 (3) The Ministry of Justice must provide for all the Student Allowance Appeal Authorities all administrative and secretarial services necessary to enable them to perform their functions.
+(4) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 647 Regulations relating to charging by TEC
 (1) The Governor-General may, by Order in Council made on the recommendation of the Minister, make regulations for all or any of the following purposes:
@@ -7116,9 +7161,10 @@ The Governor-General may, by Order in Council made on the recommendation of the 
   (b) prescribing the criteria against which TEC must assess a proposed fee to determine, for the purposes of section 417(5), the effect that the fee would have on the operation, long-term viability, and performance of an organisation:
   (c) specifying the maximum percentage or proportion of the cost incurred by TEC in its investigation that may be charged as a fee by TEC under section 417(3).
 (2) Before making a recommendation under subsection (1), the Minister must consult the persons and organisations that the Minister thinks fit.
+(3) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 648 Regulations relating to pastoral care
-The Governor-General may, by Order in Council made on the recommendation of the Minister, make regulations in relation to the following matters:
+(1) The Governor-General may, by Order in Council made on the recommendation of the Minister, make regulations in relation to the following matters:
   (a) codes of practice for pastoral care of students, including (without limitation)—
     (i) setting out the purpose and scope of a code:
     (ii) providing for the appointment of code administrators:
@@ -7128,18 +7174,21 @@ The Governor-General may, by Order in Council made on the recommendation of the 
     (ii) providing rules for the schemes:
     (iii) prescribing fees for the schemes:
     (iv) setting caps on the amounts that those found liable must pay to claimants.
+(2) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 649 Regulations relating to national student numbers
 (1) The Governor-General may, by Order in Council made on the recommendation of the Minister, make regulations for the following purposes:
   (a) prescribing the assignment and use of national student numbers:
   (b) identifying any agency or body as a specified user of national student numbers.
 (2) Before making a recommendation under subsection (1), the Minister must consult the Privacy Commissioner.
+(3) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 650 Regulations relating to State integrated schools
 (1) The Governor-General may, by Order in Council, make regulations for the following purposes:
   (a) prescribing a form of integration agreement:
   (b) providing for the control, management, organisation, finance, and conduct of State integrated schools.
 (2) If there is a conflict between regulations made under this section and regulations made under another provision of this Act or any enactment repealed by this Act, the regulations made under this section prevail.
+(3) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 651 Regulations relating to composite schools
 (1) If a provision of this Act empowers the making of regulations relating to State primary or secondary schools or both, or to the staff or students of State primary or secondary schools or both, any regulations made under those provisions may be limited in their application to—
@@ -7150,7 +7199,8 @@ The Governor-General may, by Order in Council made on the recommendation of the 
   (b) a State secondary school were a reference to those classes and courses in the composite school providing secondary education.
 
 ### 652 General regulations
-The Governor-General may, by Order in Council, make regulations providing for any other matters contemplated by this Act, necessary for its administration, or necessary for giving it full effect.
+(1) The Governor-General may, by Order in Council, make regulations providing for any other matters contemplated by this Act, necessary for its administration, or necessary for giving it full effect.
+(2) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 **Directions**
 
@@ -7172,6 +7222,9 @@ The Governor-General may, by Order in Council, make regulations providing for an
   (e) to provide education or instruction through the education entity in any specified ways.
 (2) The Secretary may renew, amend, or revoke a direction while the relevant state of emergency, transition period, or epidemic notice is in force.
 (3) Schedule 25 provides for directions in relation to COVID-19.
+(4) A direction, or a renewal, an amendment, or a revocation of a direction, under this section—
+  (a) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements); and
+  (b) comes into force when it is made or at a later date specified in it, even if it is not yet published.
 
 ### 655 Effect of directions
 (1) Every education entity to which a direction applies must give effect to the direction on the date on which the direction is given or on any later date that is specified in the direction.
@@ -7179,7 +7232,7 @@ The Governor-General may, by Order in Council, make regulations providing for an
 (3) However, a direction does not override the provisions of any other Act, including (without limitation) the Civil Defence Emergency Management Act 2002, the Epidemic Preparedness Act 2006, the Health Act 1956, and the Health and Safety at Work Act 2015.
 
 ### 656 Publication of directions
-As soon as practicable after a direction is given, the Secretary must publish the direction in the Gazette and on an Internet site maintained by or on behalf of the Ministry.
+[Repealed]
 
 ### 657 Expiry of directions
 A direction expires on the earlier of—
@@ -7398,6 +7451,7 @@ In this schedule, unless the context otherwise requires,—
   (c) provide for any other matter necessary for either or both of the purposes in subclause (1)﻿(a) and (b).
 (4) No regulations may be made under this clause on or after 1 January 2023.
 (5) Any regulations made under this clause before 1 January 2023 are revoked on 1 January 2023.
+(6) Regulations under this clause are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 7 Saving provisions
 (1) Despite any other provision in this Act, the following provisions of the 1989 Act, as they read immediately before the commencement of this clause, continue to apply until 1 January 2023 as if they had not been repealed or replaced by this Act:
@@ -7411,6 +7465,10 @@ In this schedule, unless the context otherwise requires,—
   (h) section 87 (annual reports).
 (2) Despite any other provision of this Act, a provision in any of sections 88 and 158 and clauses 3, 15, 17, 39, 40, and 41 of Schedule 6 of the 1989 Act, as the provision read immediately before the commencement of this clause, continues to apply until the date on which regulations under section 638 are made that deal with the matter addressed in the provision.
 (3) Despite any other provision of this Act, a provision in any of sections 238H(1) to (4) and (9), 238I, 238J, and 238K of the 1989 Act, as the provision read immediately before the commencement of this clause, continues to apply until the date on which regulations under section 648 are made that deal with the matter addressed in the provision.
+(4) The following instruments are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements):
+  (a) a curriculum statement under section 60A of the 1989 Act:
+  (b) national performance measures under section 60A of the 1989 Act:
+  (c) a notice under section 88 of the 1989 Act.
 
 #### Subpart 2 — Provisions for Part 2 (early childhood education)
 
@@ -7454,8 +7512,9 @@ An enrolment scheme that complies with section 71 (regardless of whether that se
   (d) the requirements that the applicant must meet to maintain an approval.
 (7) NZQA may, in accordance with section 457, charge fees to any registered school for an application for approval under subclause (1).
 (8) Any rules made under subclause (6)—
-  (a) must comply with the process set out in section 452(4) to (7); and
-  (b) expire with the close of 31 December 2022.
+  (a) must comply with the process set out in section 452(4) and (5); and
+  (b) expire with the close of 31 December 2022; and
+  (c) are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 #### Subpart 4 — General provisions for Part 4 (tertiary education and vocational education and training)
 
@@ -7519,6 +7578,7 @@ In this subpart, unless the context otherwise requires,—
 (4) The Minister must not recommend an extension under subclause (2) unless the Minister is satisfied on reasonable grounds that the extension is—
   (a) consistent with Te Pūkenga—New Zealand Institute of Skills and Technology’s responsibilities under the charter set out in Schedule 13; and
   (b) in the interests of the tertiary education system and the nation as a whole.
+(5) An order under subclause (2) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 22 Te Pūkenga—New Zealand Institute of Skills and Technology’s council may dissolve corresponding Te Pūkenga—New Zealand Institute of Skills and Technology subsidiary
 Te Pūkenga—New Zealand Institute of Skills and Technology’s council may, by resolution, at any time before the date specified in clause 21(1) or by Order in Council under clause 21(2), dissolve a corresponding Te Pūkenga—New Zealand Institute of Skills and Technology subsidiary and transfer some or all of the rights, assets, and liabilities of that subsidiary to Te Pūkenga—New Zealand Institute of Skills and Technology or another Te Pūkenga—New Zealand Institute of Skills and Technology subsidiary (whether established under clause 20(1) or formed by Te Pūkenga—New Zealand Institute of Skills and Technology under section 340).
@@ -7664,11 +7724,11 @@ On and after 1 April 2020, every reference to an existing polytechnic in any ena
 (1) In clauses 44 to 58, unless the context otherwise requires,—
   - **1992 Act** means the Industry Training and Apprenticeships Act 1992
   - **assets** has the same meaning as in section 10(6)
-  - **former ITO** means an industry training organisation listed in clause 44(a) that was recognised under Part 2 of the 1992 Act and whose recognition was in force immediately before that date
+  - **former ITO** means an industry training organisation listed in clause 44(1)﻿(a) that was recognised under Part 2 of the 1992 Act and whose recognition was in force immediately before that date
   - **transition period** means the period beginning on 1 April 2020 and ending with the close of 31 December 2022
   - **transitional ITO** means—
     (a) a former ITO:
-    (b) a body corporate that is recognised by the Minister under clause 44(b)
+    (b) a body corporate that is recognised by the Minister under clause 44(1)﻿(b)
   - **workforce development council** means a workforce development council established under section 363.
 (2) In clauses 44 to 58, unless the context otherwise requires, provider, specified industries, trainee, and work-based training have the same meanings as in section 10(1).
 
@@ -7676,7 +7736,7 @@ On and after 1 April 2020, every reference to an existing polytechnic in any ena
 Clauses 44 to 58 apply during the transition period.
 
 ### 44 Recognition of transitional ITOs
-The following are recognised as transitional ITOs for the purposes of clauses 45 to 58:
+(1) The following are recognised as transitional ITOs for the purposes of clauses 45 to 58:
   (a) each of the following former ITOs:
     (i) Boating Industries Association of New Zealand Incorporated:
     (ii) Building and Construction Industry Training Organisation Incorporated:
@@ -7689,13 +7749,14 @@ The following are recognised as transitional ITOs for the purposes of clauses 45
     (ix) Service Skills Institute Incorporated:
     (x) Skills Active Aotearoa Limited:
     (xi) The Skills Organisation Incorporated:
-  (b) any body corporate recognised by the Minister, by notice in the Gazette, as a transitional ITO for the purposes of clauses 45 to 58.
+  (b) any body corporate recognised by the Minister, by notice, as a transitional ITO for the purposes of clauses 45 to 58.
+(2) A notice under subclause (1)﻿(b) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 45 Effect of recognition
-(1) A transitional ITO recognised under clause 44(a)—
+(1) A transitional ITO recognised under clause 44(1)﻿(a)—
   (a) is recognised for the 1 or more specified industries for which it was recognised under Part 2 of the 1992 Act immediately before 1 April 2020; and
   (b) must carry out the 1 or more activities described in subclause (3) in relation to the specified industries for which it was previously recognised under the 1992 Act.
-(2) A transitional ITO recognised under clause 44(b)—
+(2) A transitional ITO recognised under clause 44(1)﻿(b)—
   (a) is recognised for the 1 or more industries specified in the notice given by the Minister when recognising the transitional ITO; and
   (b) must carry out the 1 or more activities described in subclause (3) and specified in the notice.
 (3) For the purposes of this clause, the activities are—
@@ -7711,9 +7772,10 @@ The following are recognised as transitional ITOs for the purposes of clauses 45
 (3) However, no condition may be imposed under subclause (1) that requires the assets of a transitional ITO to be allocated to a workforce development council under clause 57.
 
 ### 47 Minister may change specified industries or activities of transitional ITO
-The Minister may, by notice in the Gazette, change—
+(1) The Minister may, by notice, change—
   (a) the specified industries covered by a transitional ITO; or
   (b) the activities that must be carried out by the transitional ITO in relation to those industries.
+(2) A notice under subclause (1) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 48 Application of certain provisions of Industry Training and Apprenticeships Act 1992 to transitional ITO
 (1) Despite the repeal of the Industry Training and Apprenticeships Act 1992 (the 1992 Act) by section 75 of the Education (Vocational Education and Training Reform) Amendment Act 2020, the provisions of the 1992 Act listed in subclause (2) continue in force, with any necessary modifications, and apply to a transitional ITO during the period that the transitional ITO remains in existence as if—
@@ -7733,6 +7795,13 @@ The Minister may, by notice in the Gazette, change—
   (k) Part 2A (apprenticeship training):
   (l) Part 5 and Schedule 4 (training levies).
 (3) Despite subclause (1), section 11E of the 1992 Act (as applied by subclause (2)﻿(g)) applies to a transitional ITO only while the transitional ITO continues to exercise any standard-setting powers for the specified industries covered by the transitional ITO.
+(4) The following are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements):
+  (a) an apprenticeship training code under section 13F of the 1992 Act:
+  (b) a levy order under section 26 of the 1992 Act.
+(5) Despite the amendment of Schedule 2 of the Legislation Act 2012 and Schedule 4 of the Legislation Act 2019 by section 78(1) of the Education (Vocational Education and Training Reform) Amendment Act 2020,—
+  (a) subpart 1A of Part 3 of the Legislation Act 2012 continues to apply to a levy order under section 26 of the 1992 Act that is made before the main commencement date (see also clause 34 of Schedule 1 of the Legislation Act 2019):
+  (b) subpart 3 of Part 5 of the Legislation Act 2019 applies to a levy order under section 26 of the 1992 Act if it is made on or after the main commencement date.
+(6) For the purposes of subclause (5), main commencement date has the meaning given in clause 2 of Schedule 1 of the Legislation Act 2019.
 
 ### 49 Existing approvals and consents granted to former ITO
 (1) This clause applies to the following matters granted to a former ITO by NZQA under Part 20 of the 1989 Act before 1 April 2020 and in effect immediately before that date:
@@ -7773,7 +7842,7 @@ A transitional ITO is to be treated as an approved standard-setting body for the
 Despite section 420(1), the Minister may direct that funding be provided to a provider to support work-based training on behalf of employers if the Minister believes it is reasonably necessary for facilitating or ensuring the successful transfer of responsibility for the activities referred to in clause 45(3)﻿(b) and (c) of this schedule.
 
 ### 55 Cancellation of recognition of transitional ITO
-(1) The Minister may, by notice in the Gazette, cancel the recognition of a transitional ITO—
+(1) The Minister may, by notice, cancel the recognition of a transitional ITO—
   (a) if it asks the Minister to cancel its recognition; or
   (b) if the circumstances described in subclause (2) apply; or
   (c) if it has breached the requirement set out in section 11E of the 1992 Act (as applied by clause 48(2)﻿(g)); or
@@ -7794,6 +7863,7 @@ Despite section 420(1), the Minister may direct that funding be provided to a pr
   (d) the fact that the Minister may cancel the recognition of the transitional ITO under subclause (1) if it fails to improve its performance within that period.
 (4) If the recognition of a transitional ITO is cancelled under subclause (1), any approval or consent associated with that recognition is withdrawn on the date on which the recognition is cancelled.
 (5) No notice is required to be given to a transitional ITO for a withdrawal under subclause (4).
+(6) A notice under subclause (1) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 56 Recognition lapses at end of transition period
 (1) This clause applies to any transitional ITO in existence at the close of the day immediately before the end of the transition period.
@@ -8027,7 +8097,7 @@ The Teaching Council must deregister a person if—
 (4) Unless it is sooner cancelled or expires,—
   (a) a practising certificate issued to a teacher who already holds a current practising certificate expires—
     (i) on the third anniversary of the day on which the certificate already held expires; or
-    (ii) at any earlier time that the Teaching Council specifies, by notice in the Gazette, in respect of any or all kinds of practising certificate:
+    (ii) at any earlier time that the Teaching Council specifies, by notice, in respect of any or all kinds of practising certificate (see subclause (8A):
   (b) a practising certificate issued to a teacher who does not already hold a current practising certificate expires—
     (i) on the third anniversary of the day it is issued; or
     (ii) at any earlier time that the Teaching Council decides in accordance with the standards and criteria maintained under section 479(1)﻿(j).
@@ -8048,6 +8118,7 @@ The Teaching Council must deregister a person if—
     (i) the practising certificate the person last held was suspended under section 498 when it expired; and
     (ii) the suspension was not due to expire until a time after the issue of the renewed certificate.
 (8) A renewed practising certificate to which subclause (7) applies must be treated as being suspended under section 498, and its suspension expires when the suspension of the previous practising certificate held by its holder would have expired.
+(8A) A notice under subclause (4)﻿(a)﻿(ii) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 (9) In this clause, satisfactory recent teaching experience, in relation to any person at any time, means either of the following, satisfactorily completed by the person during the 5 years before that time:
   (a) an uninterrupted period of employment of 2 years (or some shorter period or periods approved by the Teaching Council for the person) in a teaching position or teaching positions; or
   (b) a period of employment of 2 years (or some shorter period or periods approved by the Teaching Council for the person) in a position (or positions) that (or each of which) in the Teaching Council's opinion was equivalent to a teaching position in an educational institution in New Zealand approved by the Teaching Council for the purposes of this schedule.
@@ -8482,12 +8553,14 @@ By enrolling a student at a State integrated school, a parent is taken to have a
 
 ### 30 Attendance dues
 (1) The proprietor of a State integrated school may, if the integration agreement for the school provides, enter into an agreement with the parents or other persons accepting responsibility for the education of a child that provides that the parents or other persons must pay attendance dues as a condition of the child’s enrolment at the school.
-(2) The dues must be established for the State integrated school or group of State integrated schools at the rates, and subject to any conditions, approved by the Minister by notice in the Gazette.
+(2) The dues must be established for the State integrated school or group of State integrated schools at the rates, and subject to any conditions, approved by the Minister by notice.
 (3) Revenue received by the proprietor from attendance dues must be used solely for the following:
   (a) paying, in respect of the school or group of schools in respect of which it is received, for improvements to the State integrated school or schools’ buildings and associated facilities that are required by any integration agreement or integration agreements under clause 39(2)﻿(c):
   (b) any capital works that may be required by the Minister under clause 39(2)﻿(d):
   (c) meeting debts, mortgages, liens, or other charges associated with the land and the buildings that constitute the premises of the State integrated school or schools.
 (4) No revenue received by the proprietor from attendance dues may be used to provide or improve the State integrated school buildings and associated facilities to a standard higher than that approved by the Secretary as appropriate for a comparable State school.
+(5) A notice approved by the Minister under subclause (2) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements), unless it applies only to 1 or more named State integrated schools.
+(6) If a notice is not secondary legislation, the Minister must publish it in the Gazette.
 
 ### 31 Withdrawal and reinstatement of right to charge attendance dues
 (1) Should any proprietor use any revenue from attendance dues for any purpose other than one permitted by clause 30, the Minister may, despite anything in the integration agreement, by notice in the Gazette, withdraw the right to charge attendance dues, and while the withdrawal continues, the board must permit the attendance of children without the payment of attendance dues.
@@ -9599,7 +9672,7 @@ A levy order may require qualifying members of the levy group to provide informa
 ### 4 Expiry of levy orders
 (1) A levy order expires 5 years after the day on which it was made unless it is sooner—
   (a) revoked; or
-  (b) disallowed under Part 3 of the Legislation Act 2012.
+  (b) disallowed under subpart 2 of Part 5 of the Legislation Act 2019.
 (2) A levy order is revoked if the workforce development council responsible for administering the levy is disestablished under section 364.
 
 ### 5 Independent returning officer must conduct ballot
@@ -9771,17 +9844,15 @@ A proposed plan must—
   (f) any other matters TEC considers relevant.
 
 ### 6 Content of, and processes for submitting, proposed plans prescribed by TEC
-(1) TEC must prescribe and give public notice of—
+(1) TEC must prescribe—
   (a) the content of organisations’ proposed plans (being the particular matters that proposed plans must address or include in order to meet the requirements in clause 4); and
   (b) the kinds of background or supplementary information that TEC requires an organisation to provide in relation to a proposed plan; and
   (c) the timetable and process for the submission of proposed plans to TEC.
 (2) When prescribing matters, TEC may include—
   (a) standard content, as well as different content applying to different organisations, groups of organisations, or types of organisation; and
   (b) different information, timetables, and processes for different organisations, groups of organisations, or types of organisation.
-(3) Notices given may be—
-  (a) given at different times; and
-  (b) amended by TEC.
-(4) TEC must give public notice of a significant amendment made under subclause (3)﻿(b).
+(3) Instruments by which matters are prescribed under subclause (1) are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+(4)
 
 ### 7 TEC may exempt organisation from complying with certain matters
 TEC may, by notice in writing, exempt an organisation from complying with any of the matters it has prescribed under clause 6(1).
@@ -9797,6 +9868,7 @@ TEC may, by notice in writing, exempt an organisation from complying with any of
 (2) TEC may not exercise the power in subclause (1) in relation to an institution.
 (3) TEC may exempt an organisation, a type of organisation, or a group of organisations under subclause (1) for a specified period that TEC thinks fit.
 (4) If TEC exempts an organisation under subclause (1), TEC may fund that organisation under section 428 as if it were an organisation for which a funding mechanism provides for funding other than via plans.
+(5) A notice under this clause is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements), unless it applies only to 1 or more named organisations.
 
 ### 10 Frequency of submitting proposed plans
 An organisation that is required to submit a proposed plan must submit a proposed plan to TEC—
@@ -9841,6 +9913,7 @@ TEC may permit more than 1 organisation to prepare and submit a combined propose
   (c) the type and size of the organisation; and
   (d) any other matters that TEC considers relevant.
 (6) Section 305 sets out the accountability requirements for institutions.
+(7) An exemption under subclause (4) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements), unless it applies only to 1 or more named organisations.
 
 **Expiry of funding approval**
 
@@ -9906,8 +9979,8 @@ The effect of the expiry of funding approval is that—
 (2) An organisation may ask TEC to approve a significant amendment to, or the replacement of, a plan if the organisation considers that the criteria for significant amendment to a plan or the criteria for replacement of a plan are satisfied.
 (3) TEC must—
   (a) set the criteria for significant amendment to a plan; and
-  (b) set the criteria for replacement of a plan; and
-  (c) publish those criteria in the Gazette.
+  (b) set the criteria for replacement of a plan.
+  (c)
 (4) An organisation that proposes to make a significant amendment to, or to replace, a plan must consult—
   (a) the persons or bodies that the organisation thinks fit to consult; and
   (b) any other person or group that TEC stipulates.
@@ -9920,6 +9993,9 @@ The effect of the expiry of funding approval is that—
   (b) the impact of the significant amendment or replacement on the needs of the interested persons or bodies and any other persons consulted by the organisation under subclause (4).
 (8) TEC may require an organisation to review a plan with a view to amending or replacing it if TEC considers that the criteria for significant amendment to a plan or the criteria for replacement of a plan are satisfied.
 (9) Nothing in this clause prohibits an organisation from making an amendment to a plan that is not a significant amendment.
+(10) The following are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements):
+  (a) an instrument setting criteria under subclause (3):
+  (b) an instrument under subclause (6)﻿(a) prescribing requirements for the content of a significant amendment or replacement.
 
 ### 21 Effect of significant amendment or replacement of plan under clause 20
 (1) If TEC approves a significant amendment to a plan, the significant amendment—
@@ -9945,11 +10021,12 @@ A significant amendment made to a plan under clause 22—
 **Plan summary**
 
 ### 24 Summary of plans
-(1) TEC must prescribe and give public notice of the matters that an organisation that has a plan must include in a plan summary.
+(1) TEC must prescribe the matters that an organisation that has a plan must include in a plan summary.
 (2) An organisation that has a plan must ensure that—
   (a) a plan summary is available for inspection by the public; and
   (b) copies of that plan summary may be obtained either at no cost or no more than a reasonable cost; and
   (c) the plan summary contains the matters prescribed.
+(3) Instruments by which matters are prescribed under this clause are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 **Funding other than via plans**
 
@@ -9976,6 +10053,7 @@ A significant amendment made to a plan under clause 22—
   (c) the type and size of the organisation; and
   (d) any other matters that TEC considers relevant.
 (6) Section 305 sets out the accountability requirements for institutions.
+(7) An exemption under subclause (4) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements), unless it applies only to 1 or more named organisations.
 
 ### 26 TEC may suspend, revoke, or withdraw funding given under section 428
 (1) TEC may suspend or revoke payment, or any or all further payments, of any funding given to an organisation under section 428 if TEC is satisfied on reasonable grounds that the organisation—
@@ -10186,12 +10264,15 @@ A member of the Teaching Council is not personally liable for any act done or om
   (e) any other matter that the Secretary considers necessary for ensuring the fair, transparent, and efficient operation of enrolment schemes.
 (2) Instructions issued under subclause (1)—
   (a) must be complied with by schools; and
-  (b) may apply to all or specified schools or classes of school; and
-  (c) must be notified in the Gazette, either in full, or by a notice outlining the content of the instructions and stating where a copy can be obtained, along with the date on which the instructions take effect; and
-  (d) may be amended or revoked, in which case notice of the amendment or revocation must be given in the Gazette, as described in paragraph (c).
+  (b) may apply to all or specified schools or classes of school.
+  (c)
+  (d)
 (3) The Secretary may issue guidelines to State schools about either or both of the following matters:
   (a) the basis on which the Secretary's powers in relation to enrolment schemes may be exercised (including, in particular, the power in clause 14(2)﻿(a) relating to the determination of whether an applicant lives within a home zone or outside it):
   (b) the manner in which schools must conduct reviews under clause 13 (which relates to the review of a student's enrolment).
+(4) The following are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements):
+  (a) instructions under subclause (1):
+  (b) guidelines under subclause (3).
 
 ### 4 Process for establishing enrolment scheme
 (1) When developing a proposed enrolment scheme, the Secretary must—
@@ -10320,7 +10401,8 @@ The Secretary must, at least once every 3 years after the date on which an enrol
   (d) in the case of a Kura Kaupapa Māori, the application of section 71 and clauses 2 to 15 must not result in inconsistency with section 204; and
   (e) in the case of a designated character school, the application of section 71 and clauses 2 to 15 must not result in inconsistency with its school charter or section 204; and
   (f) in the case of a State integrated school, the application of section 71 and clauses 2 to 15 must not result in inconsistency with the school’s integration agreement or Schedule 6.
-(2) Clauses 1 to 15 do not apply to any State school of a type specified by the Secretary by notice in the Gazette.
+(2) Clauses 1 to 15 do not apply to any State school of a type specified by the Secretary by notice.
+(3) A notice under this clause is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 17 Obligation to report to Parliament on enrolment schemes
 (1) The annual report on the schools sector that is presented to the House of Representatives by the Minister of Education in accordance with section 620 must include a statement signed by the Secretary that—
@@ -10333,14 +10415,15 @@ The Secretary must, at least once every 3 years after the date on which an enrol
 ## Schedule 21 — When State schools must be open
 
 ### 1 Length of school year
-(1) The Minister may, before 1 July in any year, specify the number of half-days on which schools must be open during the next year.
+(1) The Minister may, by notice before 1 July in any year, specify the number of half-days on which schools must be open during the next year.
 (2) For the purposes of subclause (1), different numbers may be fixed for schools of different classes or descriptions.
 (3) Except as provided in this Act, a board must ensure that each school it administers is open for instruction on the number of half-days specified under subclause (1).
 (4) If, because of a strike or lockout, a school is not open for instruction on any half-day, the school is, for the purposes of subclause (2), treated as having been open for instruction on that half-day.
 (5) If the Minister fails to specify the number of half-days on which schools must be open in any year, the number specified for the previous year applies for that year.
+(6) A notice under subclause (1) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 2 Terms
-(1) The Minister may, before 1 July in any year, specify (by reference to specific dates, specified days, the number of half-days determined under clause 1, or any 2 or more of those means)—
+(1) The Minister may, by notice before 1 July in any year, specify (by reference to specific dates, specified days, the number of half-days determined under clause 1, or any 2 or more of those means)—
   (a) the terms that schools must observe during the next year; or
   (b) a means for ascertaining or determining those terms.
 (2) A board must ensure that each school it administers is open for instruction for 1 half-day that finishes at or before noon and 1 half-day that starts at or after noon on every day during the terms specified, ascertained, or determined under subclause (1).
@@ -10356,6 +10439,7 @@ The Secretary must, at least once every 3 years after the date on which an enrol
 (6) On any day, a school is not open for instruction at all if it is open for less than 1 half-day.
 (7) To avoid doubt, if a school opens on any day for only 1 half-day, that half-day may be counted towards the number of half-days fixed by the Minister under clause 1(1).
 (8) If the Minister fails to specify terms, or a means of ascertaining or determining them, in any year, the terms specified for the previous year apply for that year.
+(9) A notice under subclause (1) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 3 Holidays
 (1) A board must ensure that each school it administers is closed on—
@@ -10364,10 +10448,11 @@ The Secretary must, at least once every 3 years after the date on which an enrol
   (c) if 1 January falls on a Friday, the following Monday; and
   (d) if 1 January falls on a Saturday or a Sunday, the following Monday and Tuesday; and
   (e) if Waitangi Day or Anzac Day falls on a Saturday or a Sunday, the following Monday.
-(2) However, the Minister may specify the circumstances in which boards may open the schools they administer or any of them on Saturdays or Sundays, and if the Minister does so, the schools may open.
-(3) The Minister may, before 1 July in any year, specify days during the next year (in addition to those specified in subclause (1)) on which boards may close the schools they administer or any of them, and, if the Minister does so, schools may be closed accordingly.
+(2) However, the Minister may, by notice, specify the circumstances in which boards may open the schools they administer or any of them on Saturdays or Sundays, and if the Minister does so, the schools may open.
+(3) The Minister may, by notice, before 1 July in any year, specify days during the next year (in addition to those specified in subclause (1)) on which boards may close the schools they administer or any of them, and, if the Minister does so, schools may be closed accordingly.
 (4) If the Minister fails to specify days on which schools may be closed for any year, the days on which the schools may be closed are the days specified for the previous year.
-(5) The Minister may specify the circumstances in which boards may close the schools they administer or any of them, and, if the Minister does so, subject to clause 1, the schools may be closed accordingly.
+(5) The Minister may, by notice, specify the circumstances in which boards may close the schools they administer or any of them, and, if the Minister does so, subject to clause 1, the schools may be closed accordingly.
+(6) A notice under this clause is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 4 Exceptions in particular cases
 (1) The Minister may authorise a board to open any particular school it administers for fewer half-days in any year than required by clause 1(3) and, if the Minister does so, the school may be closed accordingly.
@@ -10679,7 +10764,7 @@ Nothing in this Act requires or permits a board or a special institution to hold
 
 ### 10 Financial interests that disqualify persons from being board members
 (1) A person is not capable of being a board member or a member of a committee of a board if the total of all payments made or to be made by or on behalf of the board in respect of all contracts made by it in which that person is concerned or interested exceeds in any financial year—
-  (a) the amount determined for the purpose by the Secretary, in consultation with the Auditor-General, by notice in the Gazette; or
+  (a) the amount determined for the purpose by the Secretary, in consultation with the Auditor-General, see subclause (4A); or
   (b) in the absence of an amount determined under paragraph (a), $25,000.
 (2) For the purposes of subclause (1), a board member or a member of a committee of a board is to be treated as being concerned or interested in a contract made by a board with a company if—
   (a) the board member owns, whether directly or through a nominee, 10% or more of the issued capital of the company or of any other company controlling that company; or
@@ -10688,6 +10773,7 @@ Nothing in this Act requires or permits a board or a special institution to hold
 (4) Despite anything in this clause,—
   (a) a person is not disqualified under this clause if the Secretary approves the contract at the request of the board, whether or not the contract is already entered into; and
   (b) the Secretary may, by notice in the Gazette, issue guidelines setting out the basis on which applications for approval under paragraph (a) are to be considered.
+(4A) A determination under subclause (1)﻿(a) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 (5) In this clause,—
   - **contract** , in relation to a board,—
     (a) means a contract made by any person directly with the board; and
@@ -10791,11 +10877,15 @@ The Secretary may cause to be assigned a national student number to—
     (iv) statistical purposes:
     (v) research purposes:
     (vi) ensuring that student educational records are accurately maintained:
-    (vii) establishing and maintaining student identities to support online learning; and
-  (d) must give notice of each authorisation, requirement, condition, and restriction in the Gazette.
-(2) The notice must specify when an authorisation, requirement, condition, or restriction takes effect, which must be a date on or after the date the notice is gazetted.
+    (vii) establishing and maintaining student identities to support online learning.
+  (d)
+(2)
 (3) An authorisation, requirement, restriction, or condition may be made generally (by reference to a class of specified user) or specifically (by reference to a named specified user).
 (4) A specified user must use national student numbers in accordance with the restrictions and conditions that apply.
+(5) An authorisation, requirement, condition, or restriction under this clause is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements), unless it applies only to 1 or more named specified users.
+(6) If an authorisation, requirement, condition, or restriction is not secondary legislation,—
+  (a) it must be made by notice in the Gazette; and
+  (b) it must take effect on the date specified in the notice, which date must be on or after the date on which the notice is gazetted.
 
 ### 5 Person may use or disclose own national student number
 Despite anything in this schedule, a person may use or disclose their own national student number for any purpose.
@@ -10823,17 +10913,20 @@ In this schedule, unless the context otherwise requires,—
   - **governing body** , in relation to an education entity, means the body that is primarily responsible for the governance of the education entity.
 
 ### 3 Power for Secretary to direct education entities in relation to COVID-19 measures
-The Secretary may, for the purpose of this schedule, direct the governing body of an education entity (or the governing bodies of a class of education entities) to comply with any specified requirements—
+(1) The Secretary may, for the purpose of this schedule, direct the governing body of an education entity (or the governing bodies of a class of education entities) to comply with any specified requirements—
   (a) to close or open the education entity or any part of it (including in relation to all students or any specified category, class, or year group of students):
   (b) for the operation, control, or management of the education entity:
   (c) to provide education or instruction through the education entity in any specified ways (for example, through distance or online learning).
+(2) A direction under this clause—
+  (a) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements); and
+  (b) comes into force when it is made or at a later date specified in it, even if it is not yet published.
 
 ### 4 Effect of directions
 (1) Every education entity to which a direction applies must give effect to the direction on the date on which the direction is given or on any later date that is specified in the direction.
 (2) A direction overrides every other provision of this Act (apart from the provisions in this schedule).
 
-### 5 Publication and review of directions
-(1) As soon as practicable after a direction is given, the Secretary must ensure that it is published in the Gazette and on an Internet site maintained by or on behalf of the Ministry.
+### 5 Expiry of directions
+(1)
 (2) A direction expires on the earlier of—
   (a) its expiry date:
   (b) the end of the period for which the epidemic notice for COVID-19 is in force.
