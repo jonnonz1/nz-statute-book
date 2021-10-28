@@ -1,5 +1,5 @@
 # Continental Shelf Act 1964
-_Consolidation as at 2020-01-13_
+_Consolidation as at 2021-10-28_
 
 > An Act to make provision as to the exploration and exploitation of the continental shelf of New Zealand and for matters connected with that purpose
 
@@ -19,6 +19,7 @@ This Act may be cited as the Continental Shelf Act 1964.
     (a) a distance of 200 nautical miles from the baselines from which the breadth of the territorial sea is measured (as described in sections 5, 6, and 6A of the Territorial Sea, Contiguous Zone, and Exclusive Economic Zone Act 1977) where the outer edge of the continental margin does not extend beyond that distance; and
     (b) at the outer edge of the continental margin where it extends beyond that distance.
 (2) For the purposes of implementing any international agreement, or for any other purpose in accordance with international law, the Governor-General may from time to time, by Order in Council, delineate the actual boundaries of the continental shelf.
+(3) An order under subsection (2) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 3 Exploration and exploitation of continental shelf
 All rights that are exercisable by New Zealand with respect to the continental shelf and its natural resources for the purpose of exploring the shelf and exploiting those resources are hereby vested in the Crown.
@@ -30,6 +31,7 @@ All rights that are exercisable by New Zealand with respect to the continental s
   (c) the Minister of Transport were the appropriate Minister for the purposes of section 2A of that Act; and
   (d)
 (2) The Governor-General may from time to time, by Order in Council, modify or exclude any of the provisions of the Crown Minerals Act 1991 to such extent as may be necessary for the purpose of giving full effect to the provisions of this section.
+(3) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 5 Mining for minerals on continental shelf
 (1) No person shall prospect or mine for, or carry on any operations for the recovery of, minerals in the seabed or subsoil of the continental shelf except in pursuance of a licence issued under this section.
@@ -68,6 +70,7 @@ From the commencement of this section, the Crown Minerals Act 1991 (except secti
 (2) The Governor-General may from time to time, by Order in Council—
   (a) modify or exclude any of the provisions of the enactments referred to in subsection (1) to such extent as may be necessary for the purposes of giving full effect to the provisions of that subsection:
   (b) declare that the provisions of subsection (1) shall apply with respect to any other sedentary species of shellfish or to sedentary sponges.
+(3) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 7 Application of criminal and civil law
 (1) Subject to the provisions of this Act, for the purposes of this Act and of every other enactment (whether passed before or after the passing of this Act) and of every rule of law for the time being in force in New Zealand,—
@@ -82,6 +85,10 @@ From the commencement of this section, the Crown Minerals Act 1991 (except secti
 (3) Nothing in this section shall limit the provisions of any enactment or rule of law relating to the liability of persons in respect of acts done or omitted beyond New Zealand or the jurisdiction of any New Zealand court under any such enactment or rule of law.
 (4) Notwithstanding anything in any other enactment, proceedings for the trial and punishment of any person charged with having committed an offence in respect of which the courts of New Zealand have jurisdiction by virtue only of this section shall not be instituted in any court except with the consent of the Attorney-General and on his certificate that it is expedient that the proceedings should be instituted:provided that a person so charged may be arrested or a warrant for his arrest may be issued and executed, and he may be remanded in custody or on bail, notwithstanding that the consent of the Attorney-General to the institution of proceedings for the offence has not been obtained; but no further or other proceedings shall be taken until that consent has been obtained.
 (5) In this section the term device includes any ship or floating platform or aircraft that is used in connection with any installation or device.
+(6) An order under subsection (2) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+(7) However, subsection (6) does not apply to the following instruments made under subsection (2) in reliance on section 9:
+  (a) an Ordinance of the Legislative Assembly of the Cook Islands:
+  (b) an Ordinance of the Niue Assembly.
 
 ### 8 Regulations
 (1) The Governor-General may from time to time, by Order in Council, make regulations for all or any of the following purposes:
@@ -98,6 +105,10 @@ From the commencement of this section, the Crown Minerals Act 1991 (except secti
   (k) providing for such matters as are necessary for giving full effect to the provisions of this Act and for the due administration thereof:
   (l) prescribing penalties for breaches of the regulations, not exceeding a fine of £500.
 (2) In this section the term continental shelf includes the seabed and subsoil of the submarine areas within the territorial limits of New Zealand.
+(3) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+(4) However, subsection (3) does not apply to regulations made under this section by the following instruments in reliance on section 9:
+  (a) an Ordinance of the Legislative Assembly of the Cook Islands:
+  (b) an Ordinance of the Niue Assembly.
 
 ### 9 Act in force in Cook Islands
 (1) This Act, except sections 4 and 6, shall be in force in the Cook Islands.
