@@ -1,5 +1,5 @@
 # Pitcairn Trials Act 2002
-_Consolidation as at 2017-03-01_
+_Consolidation as at 2021-10-28_
 
 ### 1 Title
 This Act is the Pitcairn Trials Act 2002.
@@ -9,7 +9,8 @@ This Act is the Pitcairn Trials Act 2002.
 **Preliminary provisions**
 
 ### 2 Commencement
-This Act comes into force on a date to be appointed by the Governor-General by Order in Council.
+(1) This Act comes into force on a date to be appointed by the Governor-General by Order in Council.
+(2) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 3 Purpose of this Act
 (1) The purpose of this Act is to make provision to implement in New Zealand law New Zealand's obligations under the Agreement.
@@ -156,9 +157,10 @@ The purposes referred to in section 10(2)﻿(d) are—
 **Regulations**
 
 ### 15 Regulations
-The Governor-General may, by Order in Council, make regulations for all or any of the following purposes:
+(1) The Governor-General may, by Order in Council, make regulations for all or any of the following purposes:
   (a) prescribing the forms of endorsements, orders, and other documents for the purposes of this Act, and requiring the use of the forms prescribed:
   (b) providing for any other matters contemplated by this Act, necessary for its administration, or necessary for giving it full effect.
+(2) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ## Part 2 — Trials
 
