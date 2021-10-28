@@ -1,5 +1,5 @@
 # Pouakani Claims Settlement Act 2000
-_Consolidation as at 2021-01-30_
+_Consolidation as at 2021-10-28_
 
 ## Preamble
 (1) E mau ake nei te Rārangi Tāpiri Tuatahi mō tēnei ture, e whakaūpoko ana i roto i te reo Māori me te reo Pākehā i ngā tikanga o te Tiriti o Waitangi:
@@ -49,7 +49,8 @@ Settlement of claims
 This Act is the Pouakani Claims Settlement Act 2000.
 
 ### 2 Commencement
-This Act comes into force on a date to be appointed by the Governor-General by Order in Council.
+(1) This Act comes into force on a date to be appointed by the Governor-General by Order in Council.
+(2) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 3 Purpose
 The purpose of this Act is—
@@ -370,6 +371,7 @@ Without limiting sections 48 to 50, the only purposes of the statutory acknowled
 (2) Nothing in regulations made under this section affects in any way the discretion of a consent authority as to—
   (a) whether to notify an application under sections 93 to 94C of the Resource Management Act 1991; and
   (b) whether the Pouakani governance entity may be adversely affected under those sections.
+(3) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 38 Consent authorities must have regard to statutory acknowledgments
 From the effective date, and without derogation from its obligations under Part 2 of the Resource Management Act 1991, a consent authority must have regard to the statutory acknowledgement relating to the Crown-owned area of Titiraupenga in forming an opinion in accordance with sections 93 to 94C of that Act as to whether the Pouakani governance entity is a person who may be adversely affected by the granting of a resource consent for activities within, adjacent to, or impacting directly on, the Crown-owned area of Titiraupenga.
