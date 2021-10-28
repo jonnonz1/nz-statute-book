@@ -1,5 +1,5 @@
 # Citizenship Act 1977
-_Consolidation as at 2020-12-01_
+_Consolidation as at 2021-10-28_
 
 > An Act to make better provision with respect to the status of New Zealand citizenship, and to consolidate and amend the British Nationality and New Zealand Citizenship Act 1948
 
@@ -381,6 +381,7 @@ Nothing in this Act limits access to information that is recorded under this Act
   (k) prescribing offences in respect of the contravention of or non-compliance with any regulations made under this Act, and prescribing the amount of any fine that may be imposed in respect of any such offence, being an amount not exceeding $200 and, where the offence is a continuing one, a further amount not exceeding $20 for every day during which the offence has continued:
   (l) providing for such other matters as are contemplated by or necessary for giving full effect to the provisions of this Act and for the due administration thereof.
 (2) Every fee prescribed by or under regulations made under this section shall be reasonable, having regard to the costs and expenses incurred and borne by or on behalf of the Secretary in respect of the matter for which the fee is payable.
+(3) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 29 Application of Act to Cook Islands, Niue, and Tokelau
 (1) Whereas in accordance with Article 46 of the Constitution of the Cook Islands (as set out in Schedule 2 of the Cook Islands Constitution Amendment Act 1965) the Government of the Cook Islands has requested and consented to the enactment of a provision extending all of the provisions of this Act to the Cook Islands as part of the law of the Cook Islands:Be it therefore enacted as follows:The provisions of this Act shall extend to the Cook Islands as part of the law of the Cook Islands.
