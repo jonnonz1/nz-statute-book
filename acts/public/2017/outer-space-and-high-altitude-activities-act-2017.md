@@ -1,5 +1,5 @@
 # Outer Space and High-altitude Activities Act 2017
-_Consolidation as at 2020-12-01_
+_Consolidation as at 2021-10-28_
 
 ### 1 Title
 This Act is the Outer Space and High-altitude Activities Act 2017.
@@ -1015,6 +1015,7 @@ All infringement fees paid in respect of infringement offences must be paid into
 (4) If the Minister makes a recommendation relating to regulations to be made under subsection (1)﻿(11), (12), (13), or (23), the Minister’s reasons for making the recommendation (including why the regulations are appropriate) must be published together with the regulations.
 (5) No regulations made under subsection (1)﻿(29) may be made, or continue in force, later than 3 years after the commencement of this section.
 (6) Regulations made under this Act are not invalid merely because they confer any discretion on, or allow any matter to be determined or approved by, any person.
+(7) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 89 Incorporation by reference
 (1) The following, whether in written or electronic form, may be incorporated by reference in regulations made by the Governor-General:
@@ -1037,9 +1038,9 @@ All infringement fees paid in respect of infringement offences must be paid into
   (d) that copies of the material can be purchased; and
   (e) if copies of the material are available in other ways, the details of where or how the material can be accessed or obtained.
 (6) All material incorporated by reference under subsection (1) or (2) must be made available at the Ministry of Business, Innovation, and Employment for inspection by the public free of charge.
-(7) Part 2 of the Legislation Act 2012 does not apply to material incorporated by reference in a rule or to an amendment to, or a replacement of, that material.
-(8) Nothing in section 41 of the Legislation Act 2012 requires material that is incorporated by reference in a rule to be presented to the House of Representatives.
-(9) Subsections (1) to (8) do not affect the application of sections 29 to 32 of the Standards and Accreditation Act 2015.
+(7) Subpart 1 of Part 3 and section 114 of the Legislation Act 2019 do not apply to material that is incorporated by reference in a rule merely because it is incorporated.
+(8)
+(9) Subsections (1) to (7) do not affect the application of sections 29 to 32 of the Standards and Accreditation Act 2015.
 
 **Amendment to Search and Surveillance Act 2012**
 
