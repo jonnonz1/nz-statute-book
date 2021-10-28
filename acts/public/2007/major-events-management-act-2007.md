@@ -1,5 +1,5 @@
 # Major Events Management Act 2007
-_Consolidation as at 2019-10-01_
+_Consolidation as at 2021-10-28_
 
 ### 1 Title
 This Act is the Major Events Management Act 2007.
@@ -90,6 +90,7 @@ This Act binds the Crown.
   (d) attract significant sponsorship and international media coverage:
   (e) attract large numbers of New Zealanders as participants or spectators:
   (f) offer substantial sporting, cultural, social, economic, or other benefits for New Zealand or New Zealanders.
+(5) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### Subpart 2 — Ambush marketing by association protections
 
@@ -105,6 +106,7 @@ This Act binds the Crown.
   (a) obtain maximum benefits for New Zealanders:
   (b) prevent unauthorised commercial exploitation at the expense of either a major event organiser or a major event sponsor.
 (4) A failure to comply with subsection (2)﻿(c) does not affect the validity of an Order in Council made under subsection (1).
+(5) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 9 Declaration of protection period for major event
 (1) An Order in Council under section 8(1) must identify the relevant major event and declare the protection period for the major event.
@@ -191,6 +193,7 @@ ExamplesThe Football World Cup finals are to be held in New Zealand in 2007. The
     (ii) a railway line (as that term is defined in section 2(1) of the New Zealand Railways Corporation Act 1981); and
   (c) does not consist of excluded land or buildings; and
   (d) is likely to be used by a substantial number of people to travel to or from a clean zone (the relevant clean zone) during that clean period, although the clean period may include times before and after the clean period for the relevant clean zone that are reasonable in the circumstances.
+(4A) A notice under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 (5) In this section, excluded land or buildings means private land and private buildings, whether or not surrounded by other land that is declared to be part of a clean zone or a clean transport route; but does not include—
   (a) billboards; or
   (b) the venue of a major event activity; or
@@ -650,23 +653,22 @@ If a body corporate is convicted of an offence against any of sections 13, 23, 2
 Nothing in this Act limits or affects any of the enactments specified in Schedule 3 of the Flags, Emblems, and Names Protection Act 1981 relating to the protection of various emblems and words.
 
 ### 80 Power to amend Schedule
-The Governor-General may, from time to time, by Order in Council,—
+(1) The Governor-General may, from time to time, by Order in Council,—
   (a) amend the Schedule by adding, omitting, or amending the specification or description of any emblem or word:
   (b) revoke the Schedule or a Part of the Schedule and substitute a new schedule or a new Part of the Schedule.
+(2) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 81 Application of Legislation Act 2012
-(1) An Order in Council made under section 7 or 8 is a legislative instrument and a disallowable instrument for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
-(2) A notice in the Gazette under section 16—
-  (a) is a disallowable instrument for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act; but
-  (b) is not a legislative instrument for the purposes of that Act.
+[Repealed]
 
 ### 82 Regulations
-The Governor-General may, by Order in Council, make regulations for all or any of the following purposes:
+(1) The Governor-General may, by Order in Council, make regulations for all or any of the following purposes:
   (a) prescribing the information that an event organiser must provide when applying under section 7(3)﻿(a) for an event to be declared to be a major event under this Act:
   (b) prescribing the form of a warrant of appointment of an enforcement officer and any particulars that the warrant must contain for the purposes of section 39:
   (c) prescribing the form of formal warnings, and specifying the manner in which they must be issued under section 46:
   (d) prescribing the form of a search warrant for the purposes of section 69(a):
   (e) providing for any other matters contemplated by this Act or necessary for its administration or necessary for giving it full effect.
+(2) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 83 Repeal
 The Flags, Emblems, and Names Protection Act 1981 is amended by repealing sections 20A to 20B and Schedule 2A.
