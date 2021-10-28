@@ -1,10 +1,11 @@
 # Ashley River Improvement Act 1925
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2021-10-28_
 
 > An Act to make Better Provision for the Improvement of the Waterway of the Ashley River, and the Protection of certain Land in Canterbury.
 
 ### 1 Short Title and commencement
-This Act may be cited as the Ashley River Improvement Act 1925, and shall come into force on a date to be fixed in that behalf by the Governor-General by Order in Council.
+(1) This Act may be cited as the Ashley River Improvement Act 1925, and shall come into force on a date to be fixed in that behalf by the Governor-General by Order in Council.
+(2) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 2 Ashley River Trust District constituted
 (1) The area described in Schedule 1 to the Ashley River Improvement Amendment Act 1927 is hereby constituted and declared to be a special river district to be called the Ashley River Trust District (hereinafter referred to as the district).
