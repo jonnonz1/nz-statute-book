@@ -1,5 +1,5 @@
 # Soil Conservation and Rivers Control Act 1941
-_Consolidation as at 2021-01-30_
+_Consolidation as at 2021-10-28_
 
 > An Act to make provision for the conservation of soil resources and for the prevention of damage by erosion, and to make better provision with respect to the protection of property from damage by floods
 
@@ -983,7 +983,8 @@ Every order, notice, or other document, requiring authentication by any Board sh
 (7) A notice posted by registered letter addressed as required by this section shall be deemed to have been given at the time when the registered letter would in the ordinary course of post be delivered.
 
 ### 165 Power to rectify omissions or to validate irregularities, etc
-Where anything is omitted to be done or cannot be done at the time required by or under this Act, or is done after such time, or is otherwise irregularly done in matter of form, or sufficient provision is not made by or under this Act, the Governor-General may, by Order in Council, at any time before or after the time within which such thing is required to be done, extend such time, or may validate anything so done after the time required, or so irregularly done in matter of form, or make such other provision for the case as he thinks fit.
+(1) Where anything is omitted to be done or cannot be done at the time required by or under this Act, or is done after such time, or is otherwise irregularly done in matter of form, or sufficient provision is not made by or under this Act, the Governor-General may, by Order in Council, at any time before or after the time within which such thing is required to be done, extend such time, or may validate anything so done after the time required, or so irregularly done in matter of form, or make such other provision for the case as he thinks fit.
+(2) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 165A Loss or destruction of records, etc
 Where any rate records, valuation roll or list, ratepayers roll, or any book or document of any sort belonging to a Board or the Minister is required for immediate use but is destroyed or lost, a copy thereof sworn to be accurate on the oath of a responsible person may be used in its place; and, if there is no such copy available, the Governor-General may do such acts and things as he thinks best for repairing the loss and for providing for making a new book, roll, list, or document in place of that which was destroyed or lost as aforesaid; and, by Order in Council gazetted, may validate any book, roll, list, or other document so made and may define the time during which the book, roll, list, or document shall remain in force.
@@ -992,6 +993,7 @@ Where any rate records, valuation roll or list, ratepayers roll, or any book or 
 (1) The Governor-General from time to time, by Order in Council, may make regulations for any purpose for which regulations are contemplated by this Act, and may make all such other regulations as may in his opinion be necessary or expedient for giving full effect to the provisions of this Act and for the due administration thereof.
 (2) The Governor-General may, by any such regulations, prescribe fines for the breach of any regulation, not exceeding $10 for any one offence.
 (3) Nothing in this section shall prejudice or affect the powers contained in sections 14 and 15.
+(4) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 167 Regulations to be laid before Parliament
 [Repealed]
