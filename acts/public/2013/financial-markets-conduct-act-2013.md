@@ -1,5 +1,5 @@
 # Financial Markets Conduct Act 2013
-_Consolidation as at 2021-03-15_
+_Consolidation as at 2021-10-28_
 
 ### 1 Title
 This Act is the Financial Markets Conduct Act 2013.
@@ -9,6 +9,7 @@ This Act is the Financial Markets Conduct Act 2013.
 (2) The rest of this Act comes into force on a date appointed by the Governor-General by Order in Council; and 1 or more orders may be made appointing different dates for different provisions and for different purposes.
 (3) To the extent that it is not previously brought into force under subsection (1) or (2), the rest of this Act comes into force on 1 April 2017.
 (4) In this section, provision includes any item, or any part of an item, in any of the schedules.
+(5) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ## Part 1 — Preliminary provisions
 
@@ -3523,14 +3524,16 @@ A market rule, or change to a market rule, for a licensed market has no effect, 
     (i) the purposes of this Part (and the main and additional purposes of the Act stated in sections 3 and 4); and
     (ii) any other matters that the FMA considers relevant.
 (2) The FMA must, in considering whether to approve proposed market rules for a new market, take into account any previously approved market rules that the applicant proposes to also apply to the relevant market.
+(3) An approval under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+(4) However, the approval does not need to incorporate the market rules or rule change that have been approved.
 
 ### 332 Notice of decision on rules
 (1) The FMA must give written notice of its decision under section 331 to—
   (a) the applicant for approval; and
   (b) every other prescribed person.
 (2) If the FMA extends the approval period under section 330 or declines to approve the rules, the written notice under subsection (1) must include a statement of the FMA's reasons for exercising the power.
-(3) If the FMA approves the proposed market rules or rule change, the FMA must also publish a notice in the Gazette, and on an Internet site maintained by or on behalf of the FMA, identifying the market rules approved under section 331 (but need not incorporate them).
-(4) The notice in the Gazette is a disallowable instrument, but not a legislative instrument, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
+(3) If the FMA approves the proposed market rules or rule change, the FMA must also publish a notice on an Internet site maintained by or on behalf of the FMA, identifying the market rules approved under section 331 (but need not incorporate them).
+(4)
 
 ### 333 Power of FMA to request changes to market rules on certain matters
 (1) The FMA may, if it considers it necessary or desirable to promote any of the purposes of this Part or the meeting of any of the market operator obligations, request a licensed market operator to prepare a draft change to the market rules for any of its licensed markets on a specified matter.
@@ -3562,7 +3565,7 @@ A market rule, or change to a market rule, for a licensed market has no effect, 
 ### 336 Application of Acts relating to regulations to contractual market rules
 To avoid doubt, market rules are not—
   (a) regulations for any purpose; or
-  (b) legislative instruments or disallowable instruments for the purposes of the Legislation Act 2012.
+  (b) secondary legislation.
 
 **Monitoring of market operator obligations**
 
@@ -3644,6 +3647,7 @@ To avoid doubt, market rules are not—
     (b) on a proposal that affects rights attached to the financial product that confers the voting right:
     (c) during the liquidation of the body corporate:
     (d) in respect of a special, immaterial, or remote matter that is inconsequential to control of the body corporate.
+(5) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 345 Control limit not to be exceeded
 (1) No person may hold or control voting rights in a body corporate that exceed any control limit for that body corporate that applies under regulations made under section 344, except in accordance with an approval under section 347.
@@ -3668,6 +3672,9 @@ To avoid doubt, market rules are not—
   (a) may have retrospective effect; but
   (b) is of no effect if any term or condition of the approval has not been complied with.
 (6) An approval granted under subsection (3) is for the purposes of the control limit only, and not for the purposes of any other enactment.
+(7) An order under this section—
+  (a) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements); but
+  (b) may commence in accordance with subsection (5)﻿(a), even if it is not yet published.
 
 ### 348 Revocation or amendment of approval
 (1) The Governor-General may, by Order in Council made on the recommendation of the Minister,—
@@ -3676,6 +3683,7 @@ To avoid doubt, market rules are not—
 (2) The Minister may not make a recommendation for the purposes of subsection (1) unless—
   (a) he or she has consulted the person to whom the approval was granted and the body corporate concerned; and
   (b) he or she is satisfied that it is in the public interest to make the recommendation.
+(3) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 **Other provisions relating to licensing of financial product markets**
 
@@ -3708,6 +3716,7 @@ To avoid doubt, market rules are not—
   (a) have regard to the matters set out in section 308; and
   (b) be satisfied, in relation to any recommendation relating to subsection (1)﻿(a) or (d), that the extent to which the regulations disapply any enactment to a licensed market is not broader than is reasonably necessary to address the matters that gave rise to the regulations; and
   (c) be satisfied, in relation to any recommendation relating to subsection (1)﻿(e) or (f), that the extent to which the regulations disapply any enactment to issuers or financial products is not broader than is reasonably necessary to address the matters that gave rise to the regulations.
+(4) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### Subpart 8 — Operation of licensed markets
 
@@ -3895,6 +3904,7 @@ For the purposes of any enactment, rule of law, constitution, deed, or agreement
 (3) A system of transfer may be approved under this section whether or not it also involves the use of a procedure or part of a procedure for the transfer of financial products that is authorised under this Act or otherwise.
 (4) The FMA must not make a recommendation under subsection (1) unless the FMA has consulted the persons or representatives of the persons that the FMA considers will be substantially affected by the Order in Council.
 (5) A failure to comply with subsection (4) does not affect the validity of an Order in Council made under this section.
+(6) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 377 Specified financial products may be transferred under approved system
 (1) Specified financial products disposed of, whether in an authorised transaction or licensed market transaction or otherwise, may be transferred in accordance with a system of transfer that is approved under section 376.
@@ -3940,6 +3950,7 @@ Modifications of a minor technical nature may, from time to time, be made to a s
 (3) In formulating recommendations to make regulations under this section, the Minister must—
   (a) have regard to the objective of preventing unfair practices in the making of unsolicited offers; and
   (b) consult the FMA.
+(4) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 383 Specific provisions for regulations concerning unsolicited offers
 The regulations made under section 382 may, without limiting that section,—
@@ -4928,6 +4939,7 @@ Regulations made under this subpart may apply to a derivatives issuer (whether o
   (f) providing for the FMA to carry out functions under the regulations, and its powers and procedures in doing so:
   (g) stating which provisions are Part 6 services provisions for the purposes of this Act.
 (2) The Minister must consult the FMA before making a recommendation under this section.
+(3) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### Subpart 7A — Additional regulation of licences relating to financial benchmarks
 
@@ -6117,6 +6129,7 @@ Nothing in this Act limits or diminishes any liability that any person may incur
   (o) prescribing forms and information for the purposes of clause 46 of Schedule 1.
 (2) Subsection (1)﻿(a)﻿(v) and (x) and (f) are subject to section 550 (which provides for certain procedural requirements relating to regulations made under those provisions).
 (3) A time or an event prescribed under subsection (1)﻿(e) in respect of regulated products may be any time, or any event that occurs, on or after the time at which the products are first offered under a regulated offer or otherwise become regulated products (regardless of whether or not the products have been issued).
+(4) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 544 Regulations for purposes of Part 4 (governance of financial products)
 (1) The Governor-General may, by Order in Council, on the recommendation of the Minister in accordance with section 549, make regulations for all or any of the following purposes:Reporting to supervisorParticular types of schemesContents of governing documentsMeetings of product holdersCustodiansManagement of registered schemesRegisters and keeping copies of documentsMiscellaneous
@@ -6159,6 +6172,7 @@ Nothing in this Act limits or diminishes any liability that any person may incur
   (a) specify the duties and powers of the supervisor of the debt security or the scheme:
   (b) specify the duties of the issuer of the debt security or the manager of the scheme.
 (3) Subsection (1)﻿(k), (o), (r), (s), and (v)﻿(iii), (iv), (via), and (ix) are subject to section 550 (which provides for certain procedural requirements relating to regulations made under those subparagraphs).
+(4) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 545 Regulations for purposes of Part 5 (dealing in financial products on markets)
 (1) The Governor-General may, by Order in Council, on the recommendation of the Minister in accordance with section 549, make regulations for all or any of the following purposes:Insider conduct and market manipulationSubstantial holding disclosureDirectors' and senior managers' disclosure obligationsLicensed marketsTransfer of transferable financial products
@@ -6198,6 +6212,7 @@ Nothing in this Act limits or diminishes any liability that any person may incur
     (iv) persons for the purposes of paragraph (f) of the definition of authorised transaction in section 372(3).
 (2) Subsection (1)﻿(a), (g), (j), and (m) are subject to section 550 (which provides for certain procedural requirements relating to regulations made under those paragraphs).
 (3) Before making a recommendation in relation to subsection (1)﻿(l) or (m), the Minister must have regard to the matters set out in section 308.
+(4) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 546 Regulations for purposes of Part 6 (market services)
 (1) The Governor-General may, by Order in Council, on the recommendation of the Minister in accordance with section 549, make regulations for all or any of the following purposes:Issue of licencesConditions of licencesReportingDisclosure obligationsClient agreementsFinancial advice services and client money or property servicesDiscretionary investment management servicesMiscellaneous
@@ -6258,6 +6273,7 @@ Nothing in this Act limits or diminishes any liability that any person may incur
   (s) prescribing the form or contents of any certificate or other document referred to in Part 6, and the manner in which it may be made or given.
 (2) Subsection (1)﻿(b), (c), (ca), (me), (mf), (mg), (mh), (mi), (mn), and (o) is subject to section 550 (which provides for certain procedural requirements relating to regulations made under that paragraph).
 (3) A provision prescribed for the purposes of subsection (1)﻿(m) may, without limitation, specify the duties of the licensee or authorised body under the client agreement (including to supplement, or to add to, any duties prescribed by this Act).
+(7) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 547 Transitionals, savings, and orderly implementation of Act and related enactments
 [Repealed]
@@ -6314,6 +6330,7 @@ Nothing in this Act limits or diminishes any liability that any person may incur
 (2) Subsection (1)﻿(b), (d)﻿(i), (ii), (iii), (v), and (viii), (h), and (ha) are subject to section 550 (which provides for certain procedural requirements relating to regulations made under those subparagraphs).
 (3) Subsection (1)﻿(d)﻿(iii) is repealed on 1 April 2017 (but any regulations made under that subparagraph continue in force despite that repeal).
 (4) Nothing in sections 543 to 547, or in any other provision that authorises regulations to be made under this Act, limits subsection (1)﻿(p).
+(5) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 549 Minister must consult FMA about regulations
 The Minister must consult the FMA before making a recommendation under this subpart.
@@ -6348,6 +6365,9 @@ The Minister must consult the FMA before making a recommendation under this subp
 (2) A person to whom a prescribed fee or charge is payable may refuse to perform a function or exercise a power until the prescribed fee or charge is paid.
 (3) Any fee, charge, or other amount payable to a person under this Act is recoverable by the person in any court of competent jurisdiction as a debt due to the person.
 (4) This subpart does not limit section 67 of the Financial Markets Authority Act 2011.
+(5) If regulations authorise a person to grant a refund or waiver to a class of persons,—
+  (a) the instrument granting the refund or waiver is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements); and
+  (b) the regulations must contain a statement to that effect.
 
 ### 553 Miscellaneous provisions relating to implied provisions
 Any provision that is implied into a deed or an agreement by or under this Act—
@@ -6520,32 +6540,15 @@ This subpart applies to the following instruments:
   (d) notices issued under subpart 4.
 
 ### 571 Status and publication of instruments
-(1) An instrument to which this subpart applies—
-  (a) is a disallowable instrument for the purposes of the Legislation Act 2012; and
-  (b) must be presented to the House of Representatives under section 41 of that Act.
-(2) The following instruments are legislative instruments for the purposes of the Legislation Act 2012:
-  (a) a notice issued under section 69:
-  (ab) a notice issued under section 461L in respect of a class of FMC reporting entities:
-  (b) a class exemption:
-  (c) a class declaration.
-(3) An instrument to which this subpart applies that is not referred to in subsection (2) must, as soon as practicable after it is made, be—
-  (a) published on an Internet site maintained by or on behalf of the FMA; and
-  (b) notified in the Gazette; and
-  (c) made available in printed form for purchase on request by members of the public.
-(4) A notification in the Gazette for the purpose of subsection (3)﻿(b) does not have to include the text of the instrument.
+(1) An instrument to which this subpart applies is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+(2)
+(3)
+(4)
 (5) The FMA's reasons for making an instrument (including why the instrument is appropriate) must be published together with the instrument.
-(6) In this subpart,—
-  - **class declaration** —
-    (a) means a declaration made under subpart 3 that is of general application and that applies to a class of persons or a class of transactions; but
-    (b) does not include a declaration made under that subpart in relation to a particular person or transaction or persons associated with, or transactions involving, a particular person
-  - **class exemption** —
-    (a) means an exemption granted under subpart 2 that is of general application and that applies to a class of persons or a class of transactions; but
-    (b) does not include an exemption granted under that subpart in relation to—
-      (i) a particular person or transaction; or
-      (ii) persons associated with, or transactions involving, a particular person.
+(6)
 
 ### 571A Deferral of obligations to publish, notify, and make available non-class exemptions
-The FMA may defer complying with section 571(3) in relation to an exemption granted under subpart 2 if the FMA is satisfied on reasonable grounds that it is proper to do so on the ground of commercial confidentiality.
+[Repealed]
 
 ### 572 Variation and revocation
 The FMA may vary or revoke an instrument to which this subpart applies in the same way as it may make the instrument (with the provisions relating to the making of the instrument applying with all necessary modifications).
@@ -6582,6 +6585,7 @@ In this subpart and subpart 7, country includes a state, territory, country, or 
     (i) the securities laws of the designated country; and
     (ii) the interests of New Zealand investors; and
   (b) after consulting with the FMA.
+(3) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 577 Matters that must be stated in regulations implementing recognition regime
 (1) The regulations made under section 576 must state—
@@ -6620,6 +6624,7 @@ A provision of this Act or the regulations applies to a financial product that i
 (2) The Minister may recommend making an Order in Council under this section only—
   (a) if he or she is satisfied that it is appropriate for New Zealand laws to apply to financial products offered to persons in the designated country as set out in the proposed application regime; and
   (b) after consulting with the FMA.
+(3) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 582 Matters that must be stated in regulations implementing application regime
 (1) The regulations made under section 581 must state—
@@ -6643,9 +6648,10 @@ This subpart applies to a judgment given by a court under a provision of the law
   (c) any other preconditions of the application regime are met.
 
 ### 585 Power to enforce overseas penalties under application regime
-The Governor-General may, by Order in Council made on the recommendation of the Minister, for the purpose of implementing an application regime for a designated country, make regulations that provide for—
+(1) The Governor-General may, by Order in Council made on the recommendation of the Minister, for the purpose of implementing an application regime for a designated country, make regulations that provide for—
   (a) the application of this subpart to provisions of the securities laws of that country under or in respect of which a penalty may be imposed; and
   (b) the preconditions of the application regime (if any).
+(2) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 586 Interpretation
 In this subpart,—
@@ -6696,11 +6702,12 @@ Interest on the amount of a registered judgment—
 If a judgment is registered in the High Court under this subpart, the courts of New Zealand must not, merely because of the operation of a rule of private international law, refuse to permit proceedings by way of enforcement of the registered judgment to be taken or continued.
 
 ### 594 Other regulations for registration of judgments under application regime
-The Governor-General may, by Order in Council made on the recommendation of the Minister, make regulations providing for the registration of judgments under this subpart, including (without limitation) providing for—
+(1) The Governor-General may, by Order in Council made on the recommendation of the Minister, make regulations providing for the registration of judgments under this subpart, including (without limitation) providing for—
   (a) the verification requirements for those judgments:
   (b) the registration and service of facsimiles of those judgments:
   (c) the service of notice of registration of those judgments:
   (d) other requirements for the way in which those judgments may be registered (for example, the currency of registrations and the registration of partly satisfied judgments).
+(2) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### Subpart 8 — Miscellaneous provisions
 
@@ -7049,6 +7056,7 @@ A person to whom clause 26 applies is an FMC reporting entity in the prescribed 
 (3) The Minister must, before making a recommendation under subclause (2),—
   (a) consult the FMA; and
   (b) be satisfied that the regulations are needed in order to prevent an exclusion referred to in subclause (1) from applying in inappropriate circumstances, having regard to whether the exclusion may cause significant detriment to investors.
+(4) Regulations under this clause are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### Part 2 — Which offers of financial products for sale require disclosure
 
@@ -7662,6 +7670,7 @@ Nothing in this Part prevents an issuer from lodging a PDS in preparation for ma
   (d) designate any scheme that will be a restricted scheme under this section as being an employer-related scheme for the purposes of section 172.
 (3) A scheme may be designated under subclause (2)﻿(b) or (c) as a type of scheme in respect of a section of the scheme only and, in that case, subclause (1) treats the scheme as being on the register of managed investment schemes as that type in respect of that section of the scheme.
 (4) Section 131(1)﻿(c) (which prevents certain changes without the FMA's consent to the conditions of entry of scheme participants) applies to a restricted scheme on and after the date on which a designation by Order in Council comes into force under subclause (2) in all cases as if that date of designation were the date of the scheme's registration under this Part.
+(5) An order under this clause is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 24 Registrar to amend register
 (1) The Registrar must, on or as soon as practicable after the effective date for a managed investment scheme to which clause 22(1)﻿(a) applies, amend the register of managed investment schemes to include an entry relating to the scheme.
@@ -7747,6 +7756,7 @@ If the former enactments continue to apply to securities or a scheme under this 
   (c) any other provision of the 1978 Act or the Securities Regulations 2009 relating to the enforcement, application, or effect of the provisions referred to in paragraph (a) or (b) or the making of regulations relating to, or the granting of exemptions from compliance with, those provisions:
   (d) the Securities Trustees and Statutory Supervisors Act 2011.
 (4) For the purposes of this clause, the Governor-General may, by Order in Council, make regulations under section 70(1)﻿(g) of the 1978 Act (as if that Act continued in force) for the purpose of replacing any regulations made under that paragraph (and those regulations that are replaced then cease to apply under subclause (3)).
+(5) Regulations for the purposes of subclause (4) are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### Part 3 — Other transitional provisions on enactment of this Act
 
@@ -7902,6 +7912,7 @@ Section 10A of the Auditor Regulation Act 2011 (which provides that licence and 
   (b) the Securities Act (Contributory Mortgage) Regulations 1988:
   (c) an exemption granted under the Securities Act 1978 from any of the provisions of those regulations that are in force immediately before the commencement of this clause.
 (4) For the purposes of an interest to which this clause applies, the Governor-General may, by Order in Council, make regulations under section 70(1)﻿(h) of the Securities Act 1978 (as if that Act continued in force) for the purpose of replacing any regulations made under that paragraph (and those regulations that are replaced then cease to apply under subclause (3)).
+(5) Regulations for the purposes of subclause (4) are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 **Appointments as default KiwiSaver scheme providers**
 
@@ -8595,14 +8606,15 @@ The FMA must fund the code committee.
 The Minister must consult the FMA before exercising a power under clauses 34 to 36.
 
 ### 38 Deadline for Minister’s approval of draft code
-The Minister must approve the draft code within 90 days after receiving the draft code or, if clause 35 applies, within 90 days after receiving the revised draft code.
+(1) The Minister must approve the draft code within 90 days after receiving the draft code or, if clause 35 applies, within 90 days after receiving the revised draft code.
+(2) If the Minister does not do so, the Minister is taken to have approved the code at the expiry of those 90 days.
 
-### 39 Code comes into force by Gazette notice
-(1) After the Minister has approved the draft code or after the 90-day deadline for approval specified in clause 38 has expired, the Minister must give notice in the Gazette of the date or dates on which the provisions of the code come into force.
-(2) The notice may state different dates for different provisions, but no date may be before the 28th day after the date on which the notice is published in the Gazette.
-(3) Each provision in the code comes into force on the date stated in the notice that applies to the provision.
-(4) The code and the notice are each disallowable instruments, but not legislative instruments, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
-(5) The code must be published on an Internet site maintained by, or on behalf of, the code committee.
+### 39 Commencement and status of code
+(1) The code may specify different commencement dates for different provisions, but no date may be before the 28th day after the date on which the code is published in accordance with subsection (2).
+(2) The approved code is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+(3) That Act applies as if—
+  (a) the Minister were the maker of the code; and
+  (b) the code were made by the Minister approving it.
 
 **Changes to code**
 
