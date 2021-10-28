@@ -1,5 +1,5 @@
 # Building Act 2004
-_Consolidation as at 2021-06-08_
+_Consolidation as at 2021-10-28_
 
 ### 1 Title
 This Act is the Building Act 2004.
@@ -127,7 +127,7 @@ The transitional, savings, and related provisions set out in Schedule 1AA have e
 **General**
 
 ### 7 Interpretation
-In this Act, unless the context otherwise requires,—
+(1) In this Act, unless the context otherwise requires,—
   - **abode** or —
     (a) means any place used predominantly as a place of residence or abode, including any appurtenances belonging to or enjoyed with the place; and
     (b) includes—
@@ -155,8 +155,8 @@ In this Act, unless the context otherwise requires,—
       (i) for, or in connection with, the construction, alteration, demolition, or removal of a building; and
       (ii) on an allotment that is likely to affect the extent to which an existing building on that allotment complies with the building code; and
     (b) includes sitework; and
-    (c) includes design work (relating to building work) that is design work of a kind declared by the Governor-General by Order in Council to be restricted building work for the purposes of this Act; and
-    (d) in Part 4, and the definition in this section of supervise, also includes design work (relating to building work) of a kind declared by the Governor-General by Order in Council to be building work for the purposes of Part 4
+    (c) includes design work (relating to building work) that is design work of a kind declared by the Governor-General by Order in Council to be restricted building work for the purposes of this Act (see subsection (2)); and
+    (d) in Part 4, and the definition in this section of supervise, also includes design work (relating to building work) of a kind declared by the Governor-General by Order in Council to be building work for the purposes of Part 4 (see subsection (2))
   - **cable car** —
     (a) means a vehicle—
       (i) that carries people or goods on or along an inclined plane or a suspended cable; and
@@ -332,9 +332,9 @@ In this Act, unless the context otherwise requires,—
     (b) in or on land that also contains an abode; or
     (c) in or on land that is adjacent to other land that contains an abode if the pool is used in conjunction with that other land or abode
   - **restricted building work** means any building work that is—
-    (a) building work of a kind declared by the Governor-General by Order in Council to be restricted building work; or
-    (b) design work of a kind declared by the Governor-General by Order in Council to be restricted building work
-  - **rules** means any rules made under section 353
+    (a) building work of a kind declared by the Governor-General by Order in Council to be restricted building work (see subsection (2)); or
+    (b) design work of a kind declared by the Governor-General by Order in Council to be restricted building work (see subsection (2))
+  - **rules** means any rules made under section 360 and published under the Legislation Act 2019
   - **scaffolding used in the course of the construction process** —
     (a) means a structure, framework, swinging stage, suspended scaffolding, or boatswain's chair, that is of a temporary nature and that is used or intended to be used for—
       (i) the support or protection of workers engaged in, or in connection with, construction work for the purpose of carrying out the work; or
@@ -346,13 +346,13 @@ In this Act, unless the context otherwise requires,—
   - **small heated pool** means a heated pool (such as a spa pool or a hot tub) that—
     (a) has a water surface area of 5 m2 or less; and
     (b) is designed for therapeutic or recreational use
-  - **specialised accommodation** means a building that is declared by the Governor-General, by Order in Council, to be specialised accommodation for the purposes of this Act
+  - **specialised accommodation** means a building that is declared by the Governor-General, by Order in Council, to be specialised accommodation for the purposes of this Act (see subsection (2))
   - **specified intended life** has the meaning given to it by section 113(3)
   - **specified system** —
     (a) means a system or feature that—
       (i) is contained in, or attached to, a building; and
       (ii) contributes to the proper functioning of the building (for example, an automatic sprinkler system); and
-      (iii) is declared by the Governor-General, by Order in Council, to be a specified system for the purposes of this Act; and
+      (iii) is declared by the Governor-General, by Order in Council, to be a specified system for the purposes of this Act (see subsection (2)); and
     (b) includes a cable car
   - **statutory authority** means an authority or organisation that has the statutory power to classify or register land or buildings for any purpose
   - **supervise** , in relation to building work, means provide control or direction and oversight of the building work to an extent that is sufficient to ensure that the building work—
@@ -373,6 +373,7 @@ In this Act, unless the context otherwise requires,—
     (ab) if Waitangi Day or Anzac Day falls on a Saturday or a Sunday, the following Monday; and
     (b) the day observed in the appropriate area as the anniversary of the province of which the area forms a part; and
     (c) a day in the period beginning on 20 December in any year and ending with the close of 10 January in the following year.
+(2) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 **Meaning of building**
 
@@ -674,16 +675,20 @@ The chief executive must ensure that—
 (2) The chief executive may—
   (a) issue a warning about the building method or product; or
   (b) declare a ban on the building method or product.
-(3) The chief executive must publicly notify—
-  (a) the warning or ban; and
-  (b) the date on which the warning or ban comes into force; and
-  (c) in the case of a ban, whether the ban applies to building work for which a building consent has been issued before the date on which the ban comes into force; and
-  (d) whether the procedure in section 29 has been followed in relation to the warning or ban.
+(3) The chief executive must publicly notify a warning issued under subsection (2)﻿(a), together with the required information.
+(3A) A ban declared under subsection (2)﻿(b) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+(3B) The required information must be published with the ban.
 (4) The chief executive—
   (a) may, at any time, amend or revoke the warning or ban; and
   (b) must publicly notify—
-    (i) the amendment or revocation; and
-    (ii) the date on which the amendment or revocation comes into force.
+    (i) the amendment or revocation of a warning or ban; and
+    (ii) the date on which the amendment or revocation of a warning or ban comes into force.
+(5) An amendment or revocation of a ban is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+(6) The date on which the amendment or revocation comes into force must be published with the amendment or revocation.
+(7) In this section, required information means—
+  (a) the date on which the warning or ban comes into force; and
+  (b) in the case of a ban, whether the ban applies to building work for which a building consent has been issued before the date on which the ban comes into force; and
+  (c) whether the procedure in section 29 has been followed in relation to the warning or ban.
 
 ### 27 Offence to use building method or product in breach of ban under section 26
 (1) A person must not use a building method or product if doing so breaches a ban under section 26.
@@ -950,6 +955,7 @@ If a project information memorandum contains information previously supplied to 
   (a) adding any building work or class of building work to Schedule 1 as being building work for which a building consent is not required:
   (b) extending or clarifying the scope of any building work or class of building work listed in Schedule 1 as building work for which a building consent is not required:
   (c) restating, for the purpose of clarity, any building work or class of building work listed in Schedule 1.
+(3) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 42 Owner must apply for certificate of acceptance if building work carried out urgently
 (1) If, in reliance on section 41(1)﻿(c) or (cb), building work is carried out without a building consent having been obtained in respect of that work, the owner must, as soon as practicable after completion of the building work, apply for a certificate of acceptance under section 96.
@@ -1042,9 +1048,10 @@ If a project information memorandum contains information previously supplied to 
 (2) If any other changes are made to the plans and specifications referred to in subsection (1), the national multiple-use approval does not apply.
 
 ### 46 Copy of certain applications for building consent must be provided to Fire and Emergency New Zealand
-(1) This section applies to an application for a building consent that is of a kind specified by the chief executive by notice published in the Gazette.
-(2) A copy of the notice must be given by the chief executive to every building consent authority as soon as practicable after it is so published.
+(1) This section applies to an application for a building consent that is of a kind specified by the chief executive by notice.
+(2) A copy of the notice must be given by the chief executive to every building consent authority as soon as practicable after it is made.
 (3) A building consent authority must, on receipt of an application to which this section applies, provide a copy of the application to Fire and Emergency New Zealand.
+(4) A notice under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 47 Fire and Emergency New Zealand may give advice on applications under section 46
 (1) Fire and Emergency New Zealand may, within 10 working days after receiving a copy of an application for a building consent under section 46, provide the building consent authority concerned with a memorandum that sets out advice on the following matters in respect of the building to which the application relates:
@@ -1852,6 +1859,7 @@ In sections 118 to 120, unless the context otherwise requires, building includes
   (a) make a recommendation under subsection (3) in relation to the amendment or standard specification; or
   (b) decide not to make a recommendation.
 (5) In this section, NZ Standards Organisation has the meaning given to it in section 4(1) of the Standards and Accreditation Act 2015.
+(6) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 120 Symbols of access must be displayed
 If any provision required by section 118 is made at a building in compliance with that section, a notice or sign that indicates in accordance with the international symbols of access that provision is made for the needs of persons with disabilities must be displayed outside the building or so as to be visible from outside it.
@@ -2381,6 +2389,8 @@ Failure to comply with safety requirements
 (4) The methodology may incorporate material by reference in accordance with sections 405 to 413.
 (5) The chief executive may amend or replace the methodology at any time.
 (6) If the chief executive amends or replaces the methodology, sections 133AW and 133AX apply in respect of the amendment or replacement with any necessary modifications.
+(7) As soon as practicable after the chief executive has set the EPB methodology, the chief executive must notify territorial authorities that the methodology has been set.
+(8) An instrument setting the EPB methodology under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 133AW Consultation requirements for setting EPB methodology
 (1) Before setting the EPB methodology, the chief executive must do everything reasonably practicable on his or her part to consult territorial authorities and any other persons or organisations that appear to the chief executive to be representative of the interests of persons likely to be substantially affected by the setting of the methodology.
@@ -2391,12 +2401,7 @@ Failure to comply with safety requirements
 (3) A failure to comply with this section does not affect the validity of the methodology.
 
 ### 133AX Notification and availability of EPB methodology
-(1) As soon as practicable after the chief executive has set the EPB methodology, the chief executive must—
-  (a) notify territorial authorities that the methodology has been set; and
-  (b) publicly notify that the methodology has been set; and
-  (c) make the methodology available on the Internet in a form that is publicly accessible at all reasonable times; and
-  (d) make the methodology available in printed form for purchase on request by members of the public.
-(2) The methodology is a disallowable instrument for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
+[Repealed]
 
 **Miscellaneous**
 
@@ -2652,6 +2657,7 @@ A responsible person who is exercising a power under any of sections 133BQ to 13
 (2) The post-event assessment must be prepared—
   (a) in accordance with the methodology (if any) approved by the chief executive; and
   (b) in writing and in the form (if any) approved by the chief executive.
+(2A) An instrument containing the methodology approved by the chief executive under subsection (2)﻿(a) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 (3) If a responsible person has reasonable grounds for believing entry to be necessary for making the post-event assessment of a building, the responsible person may—
   (a) enter a simple-unit residential building or a household unit within a simple-unit residential building only—
     (i) with the occupier’s consent; or
@@ -4391,9 +4397,10 @@ A regional authority from whom functions, duties, or powers are to be transferre
 **Requirements for building consent accreditation body**
 
 ### 249 Requirements for building consent accreditation body
-The chief executive must, by notice in the Gazette, specify—
+(1) The chief executive must, by notice, specify—
   (a) the minimum frequency of audits that the building consent accreditation body must conduct on accredited building consent authorities (which must be at least once every 3 years); and
   (b) any other matters the chief executive considers necessary or appropriate.
+(2) A notice under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 **Audit fees**
 
@@ -4454,9 +4461,10 @@ An application for accreditation under section 250 must—
 **Requirements for dam owner accreditation body**
 
 ### 257 Requirements for dam owner accreditation body
-The chief executive must, by notice in the Gazette, specify—
+(1) The chief executive must, by notice, specify—
   (a) the minimum frequency of audits that the dam owner accreditation body must conduct on accredited dam owners; and
   (b) any other matters that the chief executive considers necessary or appropriate.
+(2) A notice under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 **Audit fees**
 
@@ -4510,11 +4518,12 @@ A dam owner accreditation body may charge an accredited dam owner the prescribed
 **Requirements for product certification accreditation body**
 
 ### 262 Requirements for product certification accreditation body
-(1) The chief executive must, by notice in the Gazette, specify—
+(1) The chief executive must, by notice, specify—
   (a) the minimum frequency of audits that the product certification accreditation body must conduct on accredited product certification bodies; and
   (b) any other matters that the chief executive considers necessary or appropriate.
-(2) The chief executive may, by notice in the Gazette, specify certifications of building methods or products provided by persons outside New Zealand that are to be treated as product certifications for the purposes of this subpart.
+(2) The chief executive may, by notice, specify certifications of building methods or products provided by persons outside New Zealand that are to be treated as product certifications for the purposes of this subpart.
 (3) Subsection (2) applies only if the chief executive is satisfied that the building methods and products concerned meet the prescribed criteria and standards for certification.
+(4) A notice under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 **Audit fees**
 
@@ -4797,6 +4806,7 @@ Except as otherwise provided in this Act, the Board and the Registrar may regula
   (a) building work:
   (b) building inspection work.
 (2) An order made under subsection (1) may designate a licensing class or classes for carrying out the work, or for supervising the work, or for carrying out or supervising the work.
+(3) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 **How to become licensed**
 
@@ -5032,7 +5042,8 @@ The functions of the Registrar are—
 **Code of ethics and competence**
 
 ### 314A Code of ethics for licensed building practitioners
-The Governor-General may, by Order in Council made on the recommendation of the Minister, prescribe a code or codes of minimum standards of ethical conduct for licensed building practitioners or classes of licensed building practitioners.
+(1) The Governor-General may, by Order in Council made on the recommendation of the Minister, prescribe a code or codes of minimum standards of ethical conduct for licensed building practitioners or classes of licensed building practitioners.
+(2) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 314B Licensed building practitioner must work within competence
 A licensed building practitioner must—
@@ -5345,12 +5356,16 @@ The requirements of sections 355 to 358 that apply to making a rule apply also t
 (2) The Minister must, as soon as practicable after receiving a proposed rule for approval, by written notice to the Board,—
   (a) approve it; or
   (b) decline to approve it.
+(3) Rules under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+(4) That Act applies as if—
+  (a) the Minister were the maker of the rules; and
+  (b) the rules were made by the Minister approving them.
 
 ### 361 Rules made when approved by Minister
-The rules are made once they are approved by the Minister.
+[Repealed]
 
 ### 362 Status of rules
-The rules are a disallowable instrument, but not a legislative instrument, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
+[Repealed]
 
 ## Part 4A — Consumer rights and remedies in relation to residential building work
 
@@ -5998,6 +6013,7 @@ Part 10 of Te Ture Whenua Maori Act 1993 applies to the service of notices under
 (2) Any regulations made under subsection (1) may prescribe that the functional requirements for buildings and the performance criteria with which buildings must comply in their intended use apply—
   (a) generally throughout New Zealand or in particular regions of New Zealand only; and
   (b) generally over a range of circumstances or in particular circumstances only.
+(3) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 401 Regulations: acceptable solutions, verifications, etc, that must be complied with in order to comply with building code
 (1) The Governor-General may, by Order in Council made on the recommendation of the Minister, make regulations that prescribe—
@@ -6005,9 +6021,10 @@ Part 10 of Te Ture Whenua Maori Act 1993 applies to the service of notices under
   (b) the particular circumstances in which those acceptable solutions or verification methods, or both, must be used; and
   (c) the circumstances in which building methods or products that have a current product certificate issued under section 269 must be used.
 (2) Any regulations made under subsection (1) must state whether those regulations apply to building work for which a building consent has been issued, but for which a code compliance certificate has not been issued.
+(3) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 401A Regulations: building consents and consent completion certificates
-The Governor-General may, by Order in Council made on the recommendation of the Minister, make regulations that—
+(1) The Governor-General may, by Order in Council made on the recommendation of the Minister, make regulations that—
   (a) define low-risk building work including by specifying any or all of the following: the nature of the building work, the circumstances in which it may be carried out, or the conditions for carrying it out:
   (b) define simple residential building work:
   (c) define commercial building work:
@@ -6020,15 +6037,17 @@ The Governor-General may, by Order in Council made on the recommendation of the 
   (h) prescribe the criteria for determining the risk profile of a commercial building:
   (i) prescribe the matters that must be included in a quality assurance system, including prescribing different matters for different types or categories of commercial building work:
   (j) define safety system.
+(2) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 401B Order in Council declaring work to be restricted building work
 (1) The Governor-General may, by Order in Council made on the recommendation of the Minister, declare any kind of building work (other than building work for which a building consent is not required) or any kind of design work to be restricted building work.
 (2) An order under subsection (1) may apply to any kind of building work or design work generally, or may apply to building work or design work in relation to particular types or categories of buildings or to particular parts of buildings.
 (3) The Minister may recommend the making of an order under this section only if the Minister is satisfied that the kind of building work or design work in question is (or is likely to be) critical to the integrity of a building or part of a building.
 (4) Building work or design work is not restricted building work if it relates to an application for a building consent made before the commencement of an order under subsection (1) declaring building work or design work of the same kind to be restricted building work.
+(5) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 401C Regulations: earthquake-prone buildings
-The Governor-General may, by Order in Council made on the recommendation of the Minister, make regulations that,—
+(1) The Governor-General may, by Order in Council made on the recommendation of the Minister, make regulations that,—
   (a) for the purpose of section 133AL,—
     (i) prescribe categories of earthquake ratings:
     (ii) prescribe the form of EPB notice to be issued for buildings or parts of buildings in each earthquake ratings category:
@@ -6037,6 +6056,7 @@ The Governor-General may, by Order in Council made on the recommendation of the 
   (c) prescribe the criteria for determining whether a building alteration is a substantial alteration for the purpose of section 133AT(2)﻿(c):
   (d) prescribe the matters that a territorial authority must take into account when making the assessments required by section 133AT(3)﻿(b) and (c) (for the purpose of deciding whether to allow the alteration of a building or a part of a building that is subject to an EPB notice without the building complying with specified provisions of the building code):
   (e) prescribe information that must be kept in the EPB register, and specify whether the chief executive is required to make that information available for public inspection (see section 275B).
+(2) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 402 Regulations: general
 (1) The Governor-General may, by Order in Council made on the recommendation of the Minister, make regulations for all or any of the following purposes:Building levy:Licensing:Acceptance of independently qualified pool inspectors:General matters:
@@ -6156,6 +6176,7 @@ The Governor-General may, by Order in Council made on the recommendation of the 
   (zb) prescribing, for the purposes of section 362V(2), the form and content of the written agreement referred to in that subsection:
   (zc) providing for any other matters contemplated by this Act, necessary for its administration, or necessary for giving it full effect.
 (2) The fees and charges prescribed under subsection (1)﻿(d) must be reasonable, having regard to the need to recover the costs incurred by the Registrar in performing his or her functions under this Act.
+(3) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 402A Chief executive must review regulations made under section 402(1)﻿(kb)
 The chief executive must, within 2 years after the commencement of regulations made under section 402(1)﻿(kb),—
@@ -6202,8 +6223,8 @@ An amendment to, or replacement of, material incorporated by reference in an ins
   (a) the amendment or replacement material is made by the person or organisation originating the incorporated material; and
   (b) the amendment or replacement material is of the same general character as the material amended or replaced; and
   (c) either,—
-    (i) in the case of material incorporated in regulations, regulations are made that state that the particular amendment or replacement has that effect; or
-    (ii) in the case of material incorporated in an acceptable solution or a verification method, the chief executive, by notice in the Gazette, adopts the amendment or replacement.
+    (i) in the case of material incorporated in an instrument that is secondary legislation, further secondary legislation is made that states that the particular amendment or replacement has that effect; or
+    (ii) in the case of material incorporated in any other instrument, the chief executive, by notice in the Gazette, adopts the amendment or replacement.
 
 ### 407 Proof of material incorporated by reference
 (1) A copy of material incorporated by reference in an instrument, including any amendment to, or replacement of, the material (material), must be—
@@ -6212,16 +6233,19 @@ An amendment to, or replacement of, material incorporated by reference in an ins
 (2) The production in proceedings of a certified copy of the material is, in the absence of evidence to the contrary, sufficient evidence of the incorporation in the instrument of the material.
 
 ### 408 Effect of expiry of material incorporated by reference
-Material incorporated by reference in an instrument that expires or that is revoked or that ceases to have effect ceases to have legal effect as part of the instrument only if the Minister or, as appropriate, the chief executive, by notice in the Gazette, states that the material ceases to have legal effect.
+(1) Material incorporated by reference in an instrument that expires or that is revoked or that ceases to have effect ceases to have legal effect as part of the instrument only if—
+  (a) in the case of material incorporated in an instrument that is secondary legislation, the Minister, by notice, states that the material ceases to have legal effect; or
+  (b) in the case of material incorporated in any other instrument, the chief executive, by notice in the Gazette, states that the material ceases to have legal effect.
+(2) A notice under subsection (1)﻿(a) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 409 Requirement to consult
 (1) This section applies if—
   (a) the Minister proposes to make a recommendation for—
-    (i) regulations to be made under this Act that incorporate material by reference; or
-    (ii) regulations under section 406(c)﻿(i) that state that an amendment to, or replacement of, material incorporated by reference in regulations has legal effect as part of the regulations; or
+    (i) secondary legislation to be made under this Act that incorporates material by reference; or
+    (ii) secondary legislation under section 406(c)﻿(i) that states that an amendment to, or replacement of, material incorporated by reference in secondary legislation has legal effect as part of the secondary legislation; or
   (b) the chief executive proposes to—
-    (i) issue an acceptable solution or a verification method that incorporates material by reference; or
-    (ii) publish, under section 406(c)﻿(ii), a notice in the Gazette that adopts an amendment to, or replacement of, material incorporated by reference in an acceptable solution or a verification method.
+    (i) issue any other instrument that incorporates material by reference; or
+    (ii) publish, under section 406(c)﻿(ii), a notice in the Gazette that adopts an amendment to, or replacement of, material incorporated by reference in any other instrument.
 (2) Before doing any of the things referred to in subsection (1), the Minister or, as the case may be, the chief executive must—
   (a) make copies of the material proposed to be incorporated by reference or the proposed amendment to, or replacement of, material incorporated by reference (proposed material) available for inspection during working hours for a reasonable period, free of charge, at the Ministry's office in Wellington; and
   (b) make copies of the proposed material available for purchase at a reasonable price at the Ministry's office in Wellington; and
@@ -6262,10 +6286,8 @@ Material incorporated by reference in an instrument that expires or that is revo
   (c) if the material referred to in paragraph (a) or paragraph (b) is not in an official New Zealand language, as well as the material itself, an accurate translation in an official New Zealand language of the material.
 (3) A failure to comply with this section does not invalidate an instrument that incorporates material by reference.
 
-### 411 Application of Legislation Act 2012 to provisions incorporated by reference
-(1) Nothing in section 41 of the Legislation Act 2012 requires material that is incorporated by reference in an instrument made or issued under this Act to be presented to the House of Representatives.
-(2) Subpart 1 of Part 3 of the Legislation Act 2012, apart from the modification to the application of section 41 of that Act made by subsection (1), applies to an instrument made or issued under this Act (other than a compliance document) that incorporates material by reference.
-(3) Part 2 of the Legislation Act 2012 does not apply to material incorporated by reference in an instrument or to an amendment to, or replacement of, that material.
+### 411 Application of Legislation Act 2019 to provisions incorporated by reference
+Subpart 1 of Part 3 and section 114 of the Legislation Act 2019 do not apply to material that is incorporated by reference in an instrument made or issued under this Act merely because it is incorporated.
 
 ### 412 Application of Regulations (Disallowance) Act 1989 to material incorporated by reference
 [Repealed]
@@ -6539,7 +6561,7 @@ A territorial authority or a regional authority must, by 31 May 2006, apply to b
   (a) the territorial authority must be taken to have all the functions, duties, and powers of a building consent authority under this Act; and
   (b) this Act applies with all necessary modifications.
 (3D) The Governor-General may, by Order in Council, before the date specified in subsection (3)﻿(b)﻿(ii), specify a later date in substitution for that date.
-(3E) An order made under subsection (3D) is a legislative instrument and a disallowable instrument for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
+(3E) An order under subsection (3D) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 (4) This section overrides sections 14 and 193.
 
 ### 450A Transitional and savings provision for residential pools
