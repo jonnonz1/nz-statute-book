@@ -1,5 +1,5 @@
 # Extradition Act 1999
-_Consolidation as at 2018-11-14_
+_Consolidation as at 2021-10-28_
 
 > An Act to consolidate and amend the law relating to the extradition of persons to and from New Zealand
 
@@ -162,7 +162,7 @@ This Part applies to—
 (1) If, after the commencement of this Act, an extradition treaty is concluded between New Zealand and another country (including a treaty that amends or is in substitution for an earlier extradition treaty in force between New Zealand and that country), the Governor-General may, by Order in Council, apply this Part to that country (or, if the treaty applies in respect of part only of the country, to that part of the country).
 (2) An Order in Council made under subsection (1) must recite the terms of the treaty.
 (3) An Order in Council made under subsection (1) ceases to have effect when the treaty ceases to be in force.
-(4) An Order in Council made under subsection (1) is a legislative instrument and a disallowable instrument for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
+(4) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 16 Extradition to non-Commonwealth countries in absence of treaty
 (1) If—the Governor-General may, by Order in Council, made on the recommendation of the Minister, apply this Part to that country subject to such limitations, conditions, exceptions, or qualifications as may be specified in the order.
@@ -170,13 +170,14 @@ This Part applies to—
   (b) there is no Order in Council in force under section 15 in relation to that country; and
   (c) the country is not a Commonwealth country or a designated country,—
 (2) The Minister must not recommend the making of an Order in Council under subsection (1) unless the Minister is satisfied that the country is able to return to New Zealand persons accused or convicted of a similar range of extradition offences to those to which the proposed order would relate.
-(3) An Order in Council made under subsection (1) is a legislative instrument and a disallowable instrument for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
+(3) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 **Exempted countries**
 
 ### 17 Exempted countries
 (1) The Governor-General may from time to time, by Order in Council, made on the recommendation of the Minister, declare that a country to which this Part applies under section 13 is also a country to which section 25 applies (an exempted country).
 (2) Before recommending the making of an Order in Council under subsection (1), the Minister must consider whether, with respect to the requirements to produce evidence, the country to be exempted is able to deal with extradition requests from New Zealand in any manner that has similar effect to that permitted by section 25 in relation to requests to New Zealand from the country to be exempted.
+(3) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 **Extradition proceedings**
 
@@ -493,7 +494,7 @@ This Part applies to—
 (6) If an extradition treaty is in force between New Zealand and the country,—
   (a) the Order in Council made under subsection (2) must recite the terms of the treaty; and
   (b) the Order in Council ceases to have effect when the treaty ceases to be in force.
-(7) An Order in Council made under this section is a legislative instrument and a disallowable instrument for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
+(7) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 **Extradition proceedings**
 
@@ -1116,6 +1117,7 @@ An extradition treaty made between New Zealand and another country after the com
   (f) prescribing the manner of serving removal orders under Part 11, and other documents for the purposes of this Act:
   (g) providing for such matters as are contemplated by or necessary for giving full effect to the provisions of this Act and for its due administration.
 (2) Regulations made under subsection (1)﻿(e) may provide for different practice and procedure in relation to proceedings under Part 3 than in relation to proceedings under Part 4.
+(3) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 103 Rules relating to appeals
 Rules regulating the practice and procedure in appeals to the High Court under this Act may be made in the manner in which rules of court are made under the Senior Courts Act 2016.
@@ -1127,6 +1129,7 @@ Rules regulating the practice and procedure in appeals to the High Court under t
 (2) Every Order in Council made under the provisions of the Extradition Acts 1870 to 1935 of the United Kingdom Parliament and specified in Schedule 1 continues to have effect, and may be amended, as if it had been made under section 15.
 (3) The Governor-General may, by Order in Council, declare that an Order in Council referred to in subsection (2) ceases to have effect as part of the law of New Zealand.
 (4) This section does not limit section 105.
+(5) An order under subsection (3) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 105 Certain conditions in Extradition Act 1965 continue to apply
 (1) Subsection (2) applies to any Order in Council referred to in subsection (1) or subsection (2) of section 104 that has not been amended and has not ceased to have effect since the commencement of this Act.
