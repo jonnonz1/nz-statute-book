@@ -1,5 +1,5 @@
 # Maori Reserved Land Amendment Act 1997
-_Consolidation as at 2018-11-12_
+_Consolidation as at 2021-10-28_
 
 > An Act to amend the Maori Reserved Land Act 1955
 
@@ -249,6 +249,7 @@ Nothing in this Act or the Maori Reserved Land Amendment Act 1998 affects the ri
   (b) Inserting a number or certificate of title that is not specified in that schedule:
   (c) Adding, on or before 30 June 1998, the details of any lease to which the principal Act applies and which have been omitted in error from that schedule.
 (2) An Order in Council may be made under subsection (1)﻿(c) only on the recommendation of the Minister of Maori Affairs, after consultation by that Minister with such persons, including the lessor and lessee of the lease to which the order relates, as that Minister thinks fit.
+(3) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 30 Goods and services tax
 No payment made under this Act is to be treated, for the purposes of the Goods and Services Tax Act 1985, as consideration for the supply of goods and services.
