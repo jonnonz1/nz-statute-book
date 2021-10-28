@@ -1,5 +1,5 @@
 # Mining Tenures Registration Act 1962
-_Consolidation as at 2021-01-30_
+_Consolidation as at 2021-10-28_
 
 > An Act to provide for the registration under the Land Transfer Act 1952 of residence site and business site licences, certain special site licences, and leases of land in mining districts, and for matters incidental thereto
 
@@ -224,7 +224,8 @@ Where the Registrar-General of Land has notice that the land included in a recor
 Any notice required by this Act to be given to or served on any person may be given or served by delivering it to him personally or by sending it to him by registered post addressed to him at his last known place of abode or business in New Zealand, and in the last-mentioned case the production of a receipt given to an officer of the Post Office, and purporting to be signed by the person to whom it is addressed, shall be sufficient proof of the service.
 
 ### 27 Regulations
-The Governor-General may from time to time, by Order in Council, make all such regulations as may be necessary for giving full effect to the provisions of this Act and for the due administration thereof.
+(1) The Governor-General may from time to time, by Order in Council, make all such regulations as may be necessary for giving full effect to the provisions of this Act and for the due administration thereof.
+(2) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ## Schedule 1
 
