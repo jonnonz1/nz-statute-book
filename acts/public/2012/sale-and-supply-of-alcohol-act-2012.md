@@ -1,5 +1,5 @@
 # Sale and Supply of Alcohol Act 2012
-_Consolidation as at 2021-01-30_
+_Consolidation as at 2021-10-28_
 
 ### 1 Title
 This Act is the Sale and Supply of Alcohol Act 2012.
@@ -11,6 +11,7 @@ This Act is the Sale and Supply of Alcohol Act 2012.
   (a) a date appointed by the Governor-General by Order in Council:
   (b) the day 2 years after the date on which this Act receives the Royal assent.
 (4) The rest of this Act comes into force on the day after the date on which it receives the Royal assent.
+(5) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ## Part 1 — Preliminary matters
 
@@ -913,9 +914,9 @@ The licensing authority must deal with every appeal under section 81 by way of p
 
 ### 89 Disallowance of local alcohol policy
 (1) Once a provisional local alcohol policy has been adopted and ceased to be provisional,—
-  (a) any elements of it relating to maximum trading hours or a one-way-door policy must be treated as regulations within the meaning of section 2 of the Regulations (Disallowance) Act 1989; and sections 5 to 10 of that Act apply accordingly; but
-  (b) the rest of it must be treated as not being regulations within the meaning of that Act.
-(2) The disallowance under the Regulations (Disallowance) Act 1989 of an element of a local alcohol policy (or of a local alcohol policy that has been brought into force) does not affect the rest of the policy.
+  (a) any elements of it relating to maximum trading hours or a one-way-door policy must be treated as secondary legislation under section 161A(2) of the Local Government Act 2002; and subpart 2 of Part 5 of the Legislation Act 2019 (which relates to disallowance) applies accordingly; but
+  (b) the rest of it must be treated as not being secondary legislation within the meaning of that Act.
+(2) The disallowance under the Legislation Act 2019 of an element of a local alcohol policy (or of a local alcohol policy that has been brought into force) does not affect the rest of the policy.
 (3) Subsections (1) and (2) apply to any element of an amendment of a local alcohol policy relating to maximum trading hours or a one-way-door policy (whether an amendment of an existing element relating to one of those matters or the insertion of a new or substituted element relating to one of those matters) as if the adoption of the amendment were the adoption of a new policy.
 
 ### 90 When local alcohol policy is in force
@@ -2443,9 +2444,10 @@ In sections 261 to 264,—
 All infringement fees paid in respect of infringement offences must be paid into a Crown Bank Account.
 
 ### 264 Regulations
-The Governor-General may, by Order in Council made on the advice of the Minister, make regulations for all or any of the following purposes:
+(1) The Governor-General may, by Order in Council made on the advice of the Minister, make regulations for all or any of the following purposes:
   (a) prescribing the infringement fee payable in respect of infringement offences:
   (b) prescribing the form of infringement notices and reminder notices for infringement offences, and any other particulars to be contained in infringement notices and reminder notices.
+(2) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 **Closure of premises**
 
@@ -2807,6 +2809,7 @@ The purpose of the list is to ensure the accurate enforcement of the cancellatio
   (a) appoint the date for the first election of the members of the trust; and
   (b) nominate a person to chair the first meeting of the members for the election of the president of the trust.
 (4) The boundaries of the licensing trust district and any wards must coincide with the boundaries of the current statistical meshblock areas determined by Statistics New Zealand and used for parliamentary electoral purposes.
+(5) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 301 When Minister must recommend establishment of licensing trust
 The Minister must recommend the making of an order establishing a licensing trust for an area on the request in writing of at least 15% of the residential electors of the area.
@@ -2826,6 +2829,7 @@ The Minister must recommend the making of an order establishing a licensing trus
 (3) The Commission may from time to time review the boundaries of 1 or more licensing trusts and, after consulting with affected persons (including the members of each trust, any affected licensees, and the trust's electoral officer), may recommend their alteration to coincide with meshblocks.
 (4) The monopoly provisions in section 350 do not apply to any existing licensed premises in any new area of the trust district after alteration.
 (5) The alteration of the boundaries of a trust district must not have the effect of disqualifying a member of the trust at the date of alteration whose residence falls outside the new boundaries of the trust district, but this subsection does not affect the ineligibility of any such person to vote or stand as a candidate in later elections of members of the trust.
+(6) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 305 Functions of licensing trust
 (1) The functions of a licensing trust are to—
@@ -3056,6 +3060,7 @@ A licensing trust has the power to enter into a compromise or arrangement with i
 (4) The Commission may from time to time review the boundaries of wards or proposed wards of a licensing trust and, after consulting with affected persons (including the members of each trust, any affected licensees, and the trust's electoral officer), may recommend,—
   (a) in the case of existing wards, their alteration to coincide with meshblocks; or
   (b) in the case of proposed wards, new boundaries to coincide with meshblocks.
+(5) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 338 Creation, alteration, or abolition of wards takes effect at next triennial general election of members
 (1) This section applies when—
@@ -3098,6 +3103,7 @@ Two or more licensing trusts may be amalgamated into 1 new trust in accordance w
 (2) On the recommendation of the Minister tendered at the request of each of the amalgamating trusts, the Governor-General may, by Order in Council,—
   (a) amalgamate 2 or more licensing trusts into 1 new trust; and
   (b) define the district of the new trust in conformity with the appropriate meshblocks.
+(3) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 345 Effect of Order in Council
 (1) An Order in Council under section 344(2) must specify a date not less than 14 days after the date of the making of the order for the provisions in subsection (2) to apply.
@@ -3235,6 +3241,7 @@ Sections 349 and 350 apply to each of the district and suburban licensing trusts
   (d) releases a surety wholly or in part from an obligation; or
   (e) releases or discharges a contract or security; or
   (f) entitles any employee to receive any payment or other benefit by reason that he or she ceased, as a result of this Act, to be an employee of the licensing trust.
+(6) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 **Status, name, region, and functions of community trust**
 
@@ -3257,6 +3264,7 @@ The region of a community trust is the same as the district of the licensing tru
 (1) The Governor-General may, by Order in Council made on the advice of the Minister, alter the boundaries of community trusts to coincide with the boundaries of the current statistical meshblock areas determined by Statistics New Zealand and used for parliamentary electoral purposes (meshblocks).
 (2) The Minister may give the advice referred to in subsection (1) only on the recommendation of the Local Government Commission (the Commission) made in accordance with subsection (3).
 (3) The Commission may from time to time review the boundaries of 1 or more community trusts and, after consulting with affected persons (including the trustees of each community trust, any affected licensees, and the community trust's electoral officer), may recommend their alteration to coincide with meshblocks.
+(4) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 364 Functions of community trust
 (1) For the purpose of performing its functions, a community trust may—
@@ -3438,6 +3446,7 @@ Two or more community trusts may be amalgamated into 1 new trust in accordance w
 (2) On the recommendation of the Minister tendered at the request of each of the amalgamating trusts, the Governor-General may, by Order in Council,—
   (a) amalgamate 2 or more community trusts into 1 new community trust; and
   (b) define the region of the new community trust in conformity with the appropriate meshblocks.
+(3) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 390 Effect of Order in Council
 (1) An Order in Council under section 389(2) must specify a date not less that 14 days after the date of the making of the order for the provisions in subsection (2) to apply.
@@ -3511,6 +3520,7 @@ For the purposes of Parts 1 to 4 of the Local Government Official Information an
 (3) Regulations made under subsection (1)﻿(f) for the purposes of the definition in section 5(1) of public notice may prescribe different requirements for different matters, by reference to either or both of the following:
   (a) the kind of licence to which the notice relates:
   (b) the kind of person required to give the notice.
+(4) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 398 Regulations regulating sale of alcohol containing less than 15% ethanol (other than beer, mead, and wine)
 (1) This subsection applies to alcohol that—
@@ -3556,7 +3566,7 @@ Before recommending the making of regulations regulating or prohibiting the sale
   (b) has special appeal to young people because of—
     (i) its nature; or
     (ii) any advertising, display for sale, labelling, packaging, or promotion.
-(8) The Minister must not recommend the making of regulations of a kind described in subsection (1) that come into force sooner than the day 3 months after the date of their notification in the Gazette unless satisfied, after consultation with the Minister of Health, that there exists or is about to exist a situation serious enough to justify urgent action.
+(8) The Minister must not recommend the making of regulations of a kind described in subsection (1) that come into force sooner than the day 3 months after the date of their publication under the Legislation Act 2019 unless satisfied, after consultation with the Minister of Health, that there exists or is about to exist a situation serious enough to justify urgent action.
 
 ### 401 Point-of-sale information regulations
 Regulations made under section 397 may require licensees to display at or near points of sale (as defined in the regulations), in accordance with the regulations, information relating to either or both of the following:
@@ -3606,6 +3616,7 @@ Before recommending the making of regulations under section 397(1)﻿(b) or (c),
   (b) if a territorial authority does not have in force a bylaw prescribing a fee for a matter stated in the order, the fee for the matter is the fee (if any) prescribed by regulations under this Act.
 (3) Section 403, with any necessary modifications, applies to the making of bylaws as if it were the making of regulations.
 (4) Before making a bylaw prescribing fees for any matter for which fees payable to territorial authorities can be prescribed by regulations under this Act a territorial authority must, to the extent that is reasonably practicable having regard to the circumstances of the particular case, consult the persons the authority has reason to believe are representative of interests likely to be substantially affected by the bylaw.
+(5) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 **Transitional matters**
 
