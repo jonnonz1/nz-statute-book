@@ -1,5 +1,5 @@
 # Wool Industry Restructuring Act 2003
-_Consolidation as at 2014-04-01_
+_Consolidation as at 2021-10-28_
 
 ### 1 Title
 This Act is the Wool Industry Restructuring Act 2003.
@@ -298,7 +298,8 @@ If the Minister declines to approve the restructuring plan,—
 (3) The Minister and the department that is responsible for administering this Act are entitled to be reimbursed by the Board for the costs and expenses that they incur in taking action under subsection (1).
 
 ### 35 Minister to notify restructuring day
-As soon as practicable after approving a restructuring plan or a revised restructuring plan, the Minister must notify the restructuring day in the Gazette.
+(1) As soon as practicable after approving a restructuring plan or a revised restructuring plan, the Minister must notify the restructuring day in the Gazette.
+(2) A notice under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 **Taxation**
 
