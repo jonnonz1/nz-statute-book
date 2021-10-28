@@ -1,5 +1,5 @@
 # Energy Efficiency and Conservation Act 2000
-_Consolidation as at 2020-12-01_
+_Consolidation as at 2021-10-28_
 
 ### 1 Title
 This Act is the Energy Efficiency and Conservation Act 2000.
@@ -242,6 +242,7 @@ Every transferred employee becomes, on his or her transfer, an employee of the A
   (a) publicly notify the proposal to make the regulations; and
   (b) give interested persons a reasonable time, which must be specified in the notice published under paragraph (a), to make submissions on the proposed regulations; and
   (c) consult with such persons as the Minister in each case considers appropriate.
+(3) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 37 Incorporation of material by reference
 [Repealed]
