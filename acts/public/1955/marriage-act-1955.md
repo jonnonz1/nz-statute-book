@@ -1,5 +1,5 @@
 # Marriage Act 1955
-_Consolidation as at 2018-08-14_
+_Consolidation as at 2021-10-28_
 
 > An Act to consolidate and amend the law relating to marriage
 
@@ -497,6 +497,7 @@ No prosecution under this Act shall be commenced after the expiration of 3 years
   (c) providing for such other matters as are contemplated by or necessary to give full effect to the provisions of this Act and its due administration.
 (2) Where the Registrar-General or any Registrar is empowered by this Act to do any act for which a fee is payable, he or she may refuse to do the act until the fee is paid.
 (3) Notwithstanding the provisions of any regulations under this Act, the Registrar-General may dispense with the payment of any fee payable under this Act.
+(4) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 64AA Registrar-General may specify manner of application and verification of information
 (1) The Registrar-General may specify—
