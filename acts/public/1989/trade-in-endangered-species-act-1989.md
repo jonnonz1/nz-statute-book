@@ -1,5 +1,5 @@
 # Trade in Endangered Species Act 1989
-_Consolidation as at 2020-08-28_
+_Consolidation as at 2021-10-28_
 
 > An Act to further the protection and conservation of endangered species of wild fauna and flora by regulating the export and import of such species and any product derived from those species
 
@@ -207,6 +207,7 @@ The Director-General may, after consultation with the appropriate other manageme
     (iii) in the case of an animal, cruel treatment of the specimen—
 (2) The Governor-General may, from time to time, by Order in Council, specify any exploited species that have been included in Appendix III of the Convention at the request of the New Zealand Government.
 (3) In the case of any exploited species to which subsection (1) does not apply, the Director-General may, after consultation with the appropriate management and scientific authorities, grant a certificate of origin in respect of any specimen of that exploited species to an applicant.
+(4) An order under subsection (2) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 22 Permit to import exploited species
 Any person who proposes to import any specimen of an exploited species must present, before or at the time of import of the specimen, a permit to export or a certificate to re-export issued by the relevant authority of the country of export or re-export.
@@ -600,13 +601,14 @@ A person who commits an infringement offence is liable on conviction to—
 A person who does any act in pursuance or intended pursuance of any of the functions conferred on that person by or under this Act shall not be under any civil or criminal liability in respect thereof, whether on the ground of want of jurisdiction, or mistake of law or fact, or on any other ground, unless the person has acted, or omitted to act, in bad faith or without reasonable cause.
 
 ### 53 Schedules
-The Governor-General may from time to time, by Order in Council,—in order that those schedules may conform with the Convention as amended from time to time.
+(1) The Governor-General may from time to time, by Order in Council,—in order that those schedules may conform with the Convention as amended from time to time.
   (a) add any item to, omit any item from, or amend any item in Schedule 1 or Schedule 2 or Schedule 3:
   (b) add any Part to, or omit any Part from, Schedule 1 or Schedule 2 or Schedule 3:
   (c) revoke any such schedule and substitute a new schedule—
+(2) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 54 Regulations
-The Governor-General may from time to time, by Order in Council, make regulations for all or any of the following purposes:
+(1) The Governor-General may from time to time, by Order in Council, make regulations for all or any of the following purposes:
   (a) prescribing the fees to be paid in respect of any permit or certificate granted under this Act:
   (b) prescribing the recording of trade in endangered, threatened, or exploited species:
   (c) regulating the non-commercial loan, donation, and exchange between scientists and scientific institutions in New Zealand and those in other countries:
@@ -622,6 +624,7 @@ The Governor-General may from time to time, by Order in Council, make regulation
     (iii) may be prescribed at different levels for the same offence based on whether the offence relates to endangered, threatened, or exploited species; and
   (fd) prescribing information to be included in infringement notices and reminder notices, including any additional particulars required in an infringement notice for a border infringement offence:
   (g) providing for such matters as are contemplated by or necessary for giving full effect to the provisions of this Act and for its due administration.
+(2) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 55 Consequential amendment
 Amendment(s) incorporated in the Act(s).
