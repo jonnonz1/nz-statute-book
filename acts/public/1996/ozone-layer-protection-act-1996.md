@@ -1,11 +1,12 @@
 # Ozone Layer Protection Act 1996
-_Consolidation as at 2018-10-01_
+_Consolidation as at 2021-10-28_
 
 > An Act to help protect human health and the environment against adverse effects resulting or likely to result from human activities which modify or are likely to modify the ozone layer and to implement in New Zealand the Vienna Convention for the Protection of the Ozone Layer and the Montreal Protocol on Substances that Deplete the Ozone Layer
 
 ### 1 Short Title and commencement
 (1) This Act may be cited as the Ozone Layer Protection Act 1996.
 (2) This Act shall come into force on a date to be appointed by the Governor-General by Order in Council.
+(3) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ## Part 1 — Preliminary
 
@@ -222,6 +223,7 @@ Without limiting the circumstances in which a person may have a lawful justifica
 (3) A conditional prohibition may allow for anything to be done—
   (a) under the authority of a permit:
   (b) on or subject to any terms and conditions as may be imposed by the person granting the permit or as may be prescribed.
+(4) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 17 Consultation requirements before regulations made
 (1) The Minister shall not recommend the making of any regulations under section 16 unless the Minister has taken all reasonably practical steps to consult with such persons, or representatives of such persons, who or which, in his or her opinion, may be affected by or may have an interest in the proposed subject matter of the regulations.
@@ -241,10 +243,11 @@ The Minister must not recommend the making of any regulations under section 16 u
 No regulations shall be made under this Act prohibiting the manufacture in New Zealand of any goods unless, at the same time, regulations are made under this Act prohibiting the importation of those goods.
 
 ### 20 Updating text of Convention, etc
-The Governor-General may from time to time, by Order in Council, make regulations—
+(1) The Governor-General may from time to time, by Order in Council, make regulations—
   (a) amending Schedule 1 by making such amendments to the text of the Convention as are required to bring that text up-to-date:
   (b) revoking Schedule 1, and substituting a new schedule setting out in an up-to-date form the text of the Convention:
   (c) setting out from time to time the up-to-date text of the Protocol.
+(2) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ## Part 4 — Enforcement
 
