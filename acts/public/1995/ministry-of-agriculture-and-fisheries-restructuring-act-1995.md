@@ -1,5 +1,5 @@
 # Ministry of Agriculture and Fisheries (Restructuring) Act 1995
-_Consolidation as at 2014-01-01_
+_Consolidation as at 2021-10-28_
 
 > An Act—ato provide for the restructuring of the Ministry of Agriculture and Fisheries; andbto repeal the Ministry of Agriculture and Fisheries Act 1953; andcto amend certain related enactments; anddto provide for related matters
 
@@ -39,7 +39,7 @@ The Ministry of Agriculture and Fisheries constituted under the Ministry of Agri
   (e)–(g) Amendment(s) incorporated in the Act(s).
   (h) the Ministry of Agriculture and Fisheries Amendment Act 1990:
   (i), (j) Amendment(s) incorporated in the Act(s).
-(2) Without limiting anything in the Acts Interpretation Act 1924, the repeal of any enactment by subsection (1) does not prejudice—
+(2) Without limiting anything in Part 2 of the Legislation Act 2019, the repeal of any enactment by subsection (1) does not prejudice—
   (a) any amendment made by that enactment to any enactment not referred to in that subsection; or
   (b) any provision in any enactment referred to in that subsection other than a provision amending any other enactment.
 
@@ -129,11 +129,12 @@ If the chief executive of the Ministry of Agriculture and Forestry or of the Min
 [Repealed]
 
 ### 20 Regulations
-The Governor-General may from time to time, by Order in Council, make regulations for all or any of the following purposes:
+(1) The Governor-General may from time to time, by Order in Council, make regulations for all or any of the following purposes:
   (a) obtaining any information or particulars that may be required for the effective performance of the functions and duties of any responsible Minister or chief executive under this Act:
   (b)
   (c)
   (d) providing for such matters as may be contemplated by or necessary for giving full effect to this Act and for its administration.
+(2) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 20A Expiry of section 20(c)
 Section 20(c) shall expire 12 months after the date of commencement of this Act and, as from the close of that date, shall be deemed to have been repealed.
