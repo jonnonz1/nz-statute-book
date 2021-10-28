@@ -1,5 +1,5 @@
 # Contempt of Court Act 2019
-_Consolidation as at 2019-08-26_
+_Consolidation as at 2021-10-28_
 
 ### 1 Title
 This Act is the Contempt of Court Act 2019.
@@ -9,6 +9,7 @@ This Act is the Contempt of Court Act 2019.
   (a) a date appointed by the Governor-General by Order in Council; and
   (b) the date that is 1 year after the date on which this Act receives the Royal assent.
 (2) One or more Orders in Council may be made under subsection (1)﻿(a) appointing different dates for different provisions.
+(3) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ## Part 1 — Preliminary provisions
 
