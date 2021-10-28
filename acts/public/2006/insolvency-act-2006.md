@@ -1,11 +1,12 @@
 # Insolvency Act 2006
-_Consolidation as at 2021-09-30_
+_Consolidation as at 2021-10-28_
 
 ### 1 Title
 This Act is the Insolvency Act 2006.
 
 ### 2 Commencement
-This Act comes into force on a date to be appointed by the Governor-General by Order in Council; and 1 or more orders may be made bringing different provisions into force on different dates.
+(1) This Act comes into force on a date to be appointed by the Governor-General by Order in Council; and 1 or more orders may be made bringing different provisions into force on different dates.
+(2) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ## Part 1 — Interpretation and scope
 
@@ -1117,6 +1118,7 @@ If the bankrupt defaults in making a payment required under section 147, the onu
 (2) For the purposes of subsection (1)﻿(c), the value of a motor vehicle is the value that the Assignee in the Assignee’s discretion places on it.
 (3) The fact that the value of the motor vehicle is less than the maximum value specified in subsection (1)﻿(c) does not give the bankrupt rights in relation to other assets in the bankrupt’s estate.
 (4) The Governor-General may, by Order in Council, amend subsection (1)﻿(c) by increasing the maximum value to take account of any rise in the all groups index number of the New Zealand Consumers Price Index.
+(5) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 159 Bankrupt may retain certain assets with consent of creditors
 [Repealed]
@@ -1136,6 +1138,7 @@ The Assignee may make an allowance out of the property of the bankrupt to the ba
 ### 164 Assignee may allow bankrupt to retain money
 (1) The Assignee may allow the bankrupt to retain, for the immediate maintenance of the bankrupt and his or her relatives and dependants, any money up to a maximum of $1,300 that the bankrupt has in the bankrupt's possession or in a bank account at the time of adjudication.
 (2) The Governor-General may, by Order in Council, amend subsection (1) by increasing the maximum amount that the Assignee may allow the bankrupt to retain, to take account of any rise in the Consumer Price Index.
+(3) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### Subpart 5 — Powers of Assignee and court to examine bankrupt and others
 
@@ -1997,7 +2000,7 @@ A person who obtained an order for costs against the bankrupt before adjudicatio
 
 ### 275 Conditions to priority of payments to preferential creditors
 (1) The claims listed in each of subsections (2), (3), (4), and (5) of section 274—
-  (a) rank equally among themselves and, subject to any maximum payment level specified in any Act or regulations, must be paid in full, unless the property of the bankrupt is insufficient to meet them, in which case they abate in equal proportions; and
+  (a) rank equally among themselves and, subject to any maximum payment level specified in any legislation, must be paid in full, unless the property of the bankrupt is insufficient to meet them, in which case they abate in equal proportions; and
   (b) in so far as the property of the bankrupt available for payment of those claims is insufficient to meet them,—
     (i) have priority over the claims of any person under a security interest to the extent that the security interest—
       (A) is over all or any part of the bankrupt's accounts receivable and inventory or all or any part of either of them; and
@@ -2022,6 +2025,7 @@ A person who obtained an order for costs against the bankrupt before adjudicatio
   (a) remuneration in respect of a period of holiday or of absence from work through sickness or other good cause is to be treated as wages in respect of services rendered to the bankrupt during that period:
   (b) employee means any person of any age employed by an employer to do any work for hire or reward under a contract of service (including a homeworker as defined in section 5 of the Employment Relations Act 2000):
   (c) holiday pay, in relation to a person, means all sums payable to that person by the bankrupt under subpart 1 of Part 2 of the Holidays Act 2003, and includes all sums that by or under any other enactment or any award, agreement, or contract of service are payable to that person by the bankrupt as holiday pay.
+(5) An order under subsection (2)﻿(a) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 277 Subrogation of persons if payment has been made
 If a payment has been made to a person (A) on account of any preferential claim set out in section 274 out of money advanced by another person (B) for that purpose, then B has, in the bankruptcy, the same right of priority in respect of the money so advanced as A would have if the payment had not been made.
@@ -2539,6 +2543,7 @@ The Assignee may make a debt repayment order on the application of—
   (a) the supervisor appointed under section 345 may refer the matter to the Assignee; and
   (b) the Assignee may, if the Assignee thinks appropriate, cancel the order.
 (4) The amount in subsection (1)﻿(a) may be varied by the Governor-General by Order in Council to take account of increases in the all groups index number of the New Zealand Consumers Price Index.
+(5) An order under subsection (4) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 344 Additional orders
 In addition to an order for the payment of the debts in instalments, the Assignee may make orders—
@@ -2559,6 +2564,7 @@ In addition to an order for the payment of the debts in instalments, the Assigne
 (1) The supervisor must supervise the debtor's compliance with the terms of the debt repayment order and any other orders made under section 344.
 (2) The supervisor may charge the debtor remuneration for carrying out his or her duties as supervisor at the amount or rates fixed or prescribed under subsection (3).
 (3) The Governor-General may, by Order in Council, make regulations that fix or prescribe the amount or rates of remuneration chargeable under subsection (2).
+(4) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 347 Assignee may require supervisor or past supervisor to provide documents
 The Assignee may, by written notice, require the supervisor or a past supervisor to provide the Assignee within a reasonable period with any document relating to the debtor's property, conduct, or dealings in the supervisor's or past supervisor's possession or under his or her control.
@@ -2700,6 +2706,7 @@ This subpart sets out a procedure for dealing with a debtor who has no realisabl
   (a) excludes the assets that a bankrupt is allowed to retain under section 158; but
   (b) includes any assets (for example, gifted assets) that might be recoverable by the Assignee if the debtor were adjudicated bankrupt on the date of application for entry to the no asset procedure and if the irregular transaction provisions in subpart 7 of Part 3 applied.
 (3) The amounts in subsection (1)﻿(d) may be varied by the Governor-General by Order in Council to take account of increases in the all groups index number of the Consumer Price Index.
+(4) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 364 Debtor disqualified from entry to no asset procedure in certain cases
 The Assignee must not admit a debtor to the no asset procedure if the Assignee is satisfied, on reasonable grounds, that—
@@ -3046,6 +3053,7 @@ An Assignee is not liable in any action or proceeding for any thing the Assignee
   (c) rates by reference to the net value of the assets realised by the Assignee together with other amounts as may be specified:
   (d) rates for the exercise of particular functions or powers:
   (e) rates by reference to any other criteria that may be specified.
+(3) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 408 Assignee may apply for order of release
 (1) After preparing the final statement of receipts and payments in relation to the estate of a bankrupt (see section 228), the Assignee may apply to the court for an order releasing the Assignee from the administration of the estate.
@@ -3302,6 +3310,7 @@ No action may be taken against the Assignee for malicious prosecution in relatio
   (x) prescribing any further search criteria under section 453(1):
   (y) providing for any other matters contemplated by this Act, necessary for its administration, or necessary for giving it full effect.
 (2) In subsection (1)﻿(n), prescribing the form includes specifying the content, means of communication, or any other requirement of a statement of affairs, application, or notice without necessarily specifying the use of a particular form.
+(3) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 442 Rules
 (1) Rules may be made from time to time under the Senior Courts Act 2016—
