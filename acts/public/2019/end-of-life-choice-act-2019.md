@@ -1,5 +1,5 @@
 # End of Life Choice Act 2019
-_Consolidation as at 2020-07-01_
+_Consolidation as at 2021-10-28_
 
 ### 1 Title
 This Act is the End of Life Choice Act 2019.
@@ -354,6 +354,7 @@ If, at any time, the attending medical practitioner or attending nurse practitio
     (ii) to advise on the required medical and legal procedures; and
     (iii) to provide practical assistance if assistance is requested.
 (4) The Ministry must service the SCENZ Group.
+(5) Standards under subsection (3)﻿(g)﻿(i) are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 26 Review Committee
 (1) The Minister must appoint an end-of-life Review Committee consisting of—
@@ -408,7 +409,8 @@ As soon as practicable after receiving a report under section 27(7), the Ministe
 ## Part 4 — Related matters
 
 ### 31 Regulations
-The Governor-General may, by Order in Council, make regulations providing for any matters contemplated by this Act, necessary for its administration, or necessary for giving it full effect.
+(1) The Governor-General may, by Order in Council, make regulations providing for any matters contemplated by this Act, necessary for its administration, or necessary for giving it full effect.
+(2) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 32 Other rights and duties not affected
 (1) Nothing in this Act affects a person’s rights to—
