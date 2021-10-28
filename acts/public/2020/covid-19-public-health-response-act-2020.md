@@ -1,5 +1,5 @@
 # COVID-19 Public Health Response Act 2020
-_Consolidation as at 2021-05-25_
+_Consolidation as at 2021-10-28_
 
 ### 1 Title
 This Act is the COVID-19 Public Health Response Act 2020.
@@ -15,6 +15,9 @@ This Act comes into force on Royal assent.
   (a) the period of 90 days after the commencement date or the date of the most recent resolution referred to in subsection (1):
   (b) any other period specified by a resolution of the House of Representatives.
 (3) If not repealed sooner under subsection (1), this Act is repealed on the date that is 2 years after the date of its commencement.
+(4) A resolution under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+(5) The Clerk of the House of Representatives must lodge a copy of the resolution with the Parliamentary Counsel Office for the purpose of publication under the Legislation Act 2019.
+(6) However, subsections (1) and (2) apply even if the copy is not yet published.
 
 ### 4 Purpose
 The purpose of this Act is to support a public health response to COVID-19 that—
@@ -109,6 +112,11 @@ The Director-General may make a COVID-19 order that meets both of the following 
     (iv) require things to be isolated, quarantined, or disinfected in any specified way or specified circumstances:
     (v) require the testing of things in any specified way or specified circumstances.
 (2) An order made by the Minister may specify which breaches of an order made by the Minister or the Director-General are infringement offences for the purposes of section 26(3).
+(2A) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+(2B) If the order authorises any person or class of persons to grant an exemption or authorise a specified activity under section 12(1)﻿(d),—
+  (a) the exemption or authorisation is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements), unless it applies only to 1 or more named persons or specified things; and
+  (b)
+  (c) the order must contain a statement to that effect.
 (3) For the purpose of this section and section 12, things means any things mentioned in subsection (1)﻿(b), including places, premises, ports, crafts, vehicles, and animals.
 
 ### 12 General provisions relating to COVID-19 orders
@@ -152,12 +160,11 @@ The Director-General may make a COVID-19 order that meets both of the following 
   (a) be in writing; and
   (b) state the area to which it applies; and
   (c) state when it comes into force.
-(2) A COVID-19 order must, at least 48 hours before it comes into force,—
-  (a) be published on a publicly accessible Internet site maintained by or on behalf of the New Zealand Government; and
-  (b) be notified in the Gazette.
+(2) A COVID-19 order must, at least 48 hours before it comes into force, be published under Part 3 of the Legislation Act 2019.
 (3) However, the Minister or Director-General (as the case may be) need not comply with the 48-hour time limit in subsection (2) if satisfied that—
-  (a) the order should come into force urgently to prevent or contain the outbreak or spread of COVID-19 (but in that case must comply with subsection (2)﻿(a) and (b) as soon as practicable); or
+  (a) the order should come into force urgently to prevent or contain the outbreak or spread of COVID-19; or
   (b) the effect of the order is only to remove or reduce requirements imposed by a COVID-19 order.
+(3A) In the case of subsection (3), the COVID-19 order comes into force even if it is not yet published.
 (4) A COVID-19 order made by the Director-General expires 1 month after the date on which it comes into force, unless it is sooner revoked or extended.
 (5) The Minister and the Director-General must keep their COVID-19 orders under review.
 
@@ -166,6 +173,11 @@ The Director-General may make a COVID-19 order that meets both of the following 
 (2) The Director-General may, at any time, amend, extend by up to 1 month on each occasion, or revoke any COVID-19 order made by the Director-General.
 (3) The Minister may, at any time, revoke any COVID-19 order made by the Director-General.
 (4) Requirements that apply in relation to the making of a COVID-19 order also apply, with all necessary modifications, in relation to its amendment or extension.
+(5) An amendment, extension, or revocation of an order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+(6) If the amended or extended order authorises any person or class of persons to grant an exemption or authorise a specified activity under section 12(1)﻿(d),—
+  (a) the exemption or authorisation is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements), unless it applies only to 1 or more named persons or specified things; and
+  (b)
+  (c) the amended or extended order must contain a statement to that effect.
 
 **Parliamentary approval**
 
@@ -177,11 +189,14 @@ The Director-General may make a COVID-19 order that meets both of the following 
   (c) any other period specified by a resolution of the House of Representatives.
 (3) An order that is revoked under subsection (1) immediately ceases to be of any effect unless a resolution of the House provides otherwise.
 (4) Revocation under subsection (1) does not affect the validity of any action taken to give effect to or enforce the order.
+(5) A resolution under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+(6) The Clerk of the House of Representatives must lodge a copy of the resolution with the Parliamentary Counsel Office for the purpose of publication under the Legislation Act 2019.
+(7) However, subsections (1) to (4) apply even if the copy is not yet published.
 
 **Application of Legislation Act 2012**
 
 ### 17 COVID-19 orders to be disallowable instruments
-A COVID-19 order is a disallowable instrument for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives as soon as practicable.
+[Repealed]
 
 ### Subpart 3 — Enforcement, offences, and penalties
 
@@ -360,9 +375,10 @@ A prescribed charge or part of a charge that is not paid by the due date is reco
 ### Subpart 4 — Miscellaneous provisions
 
 ### 33 Regulations
-The Governor-General may, by Order in Council, make regulations—
+(1) The Governor-General may, by Order in Council, make regulations—
   (a) prescribing the form of infringement notices and reminder notices, and the information to be included in the notices:
   (b) providing for any other matters contemplated by this Act, necessary for its administration, or necessary for giving it full effect.
+(2) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 33A Regulations relating to cost recovery
 (1) The Governor-General may, by Order in Council made on the recommendation of the relevant Minister made after consultation with the Minister (as defined in this Act),—
@@ -380,6 +396,13 @@ The Governor-General may, by Order in Council, make regulations—
   (c) different types of MIQFs:
   (d) different locations of MIQFs.
 (4) Any regulations made under this section may not be held invalid just because they confer a discretion on, or allow any matter to be determined by, any person whether or not there are prescribed criteria.
+(5) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+(6) If the regulations authorise the relevant Minister or the chief executive of MBIE to provide an exemption, waiver, refund, or deferral under subsection (1)﻿(c),—
+  (a) the instrument providing the exemption, waiver, refund, or deferral is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements), unless it applies only to 1 or more particular cases; and
+  (b) the regulations must contain a statement to that effect.
+(7) If the regulations authorise the chief executive of MBIE to specify the manner and time of payment of a prescribed charge under subsection (1)﻿(d),—
+  (a) the instrument specifying the manner and time of payment is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements); and
+  (b) the regulations must contain a statement to that effect.
 
 ### 34 Protection of persons acting under authority of this Act
 (1) Section 129 of the Health Act 1956 (which relates to the protection of persons acting under authority of that Act) applies as if that Act included a reference to this Act.
