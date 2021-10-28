@@ -1,5 +1,5 @@
 # International Finance Agreements Act 1961
-_Consolidation as at 2016-03-11_
+_Consolidation as at 2021-10-28_
 
 > Title
 
@@ -83,6 +83,7 @@ Articles 44 to 48 and 50 of the Convention (which relate to privileges and immun
   (da) Schedule 8 (which sets out the text of the Infrastructure Bank Agreement):
   (e) Schedule 1 of the International Finance Agreements Amendment Act 1966 (which sets out the text of the Agreement Establishing the Asian Development Bank):
   (f) Schedule 2 of the International Finance Agreements Amendment Act 1966 (which sets out the text of the Articles of Agreement of the International Development Association).
+(3) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 (3)
 
 ## Schedule 1 — Articles of Agreement of the International Monetary Fund
