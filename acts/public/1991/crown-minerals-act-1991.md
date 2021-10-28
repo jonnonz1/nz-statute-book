@@ -1,5 +1,5 @@
 # Crown Minerals Act 1991
-_Consolidation as at 2020-08-07_
+_Consolidation as at 2021-10-28_
 
 > Title
 
@@ -298,7 +298,7 @@ The chief executive has the following functions under this Act:
 (4) This section applies subject to section 86 of the Ngāti Awa Claims Settlement Act 2005.
 
 ### 9 Other legal requirements not affected
-Compliance with this Act or the regulations does not remove the need to comply with all other applicable Acts, regulations, bylaws, and rules of law.
+Compliance with this Act or the regulations does not remove the need to comply with all other applicable legislation and other rules of law.
 
 **Minerals owned by the Crown**
 
@@ -373,25 +373,24 @@ The Minister must, as soon as practicable, prepare a draft minerals programme fo
 ### 19 Issue of minerals programmes
 (1) The Governor-General may, by Order in Council made on the recommendation of the Minister, issue a minerals programme or a change to a minerals programme.
 (2) Before recommending the making of an order, the Minister must satisfy those requirements of sections 15 to 18 relevant to the order.
-(3) A minerals programme—
-  (a) is a disallowable instrument for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act; but
-  (b) is not a legislative instrument for the purposes of the Legislation Act 2012 (see section 20 of this Act); and
-  (c) is not to be drafted by the PCO under section 59(2)﻿(a) of the Legislation Act 2012.
-(4) A minerals programme or a change to a minerals programme takes effect on and from the date specified in the order approving it, which must not be earlier than the date on which the order is made.
+(3) An order under this section—
+  (a) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements); but
+  (b) despite section 67(d)﻿(i) of that Act, is not to be drafted by the PCO.
+(4)
 
 ### 20 Notification of minerals programmes
-The Minister must—
-  (a) make each minerals programme issued in accordance with section 19 available on an Internet site maintained by or on behalf of the chief executive; and
-  (b) notify every person who made a submission on the draft programme under section 18 of the issuing of the minerals programme and where it may be inspected; and
-  (c) give public notice, and notice in the Gazette, that the programme has been issued and of the places where it is available for inspection; and
-  (d) make the programme available for public inspection at those places.
+The Minister must notify every person who made a submission on the draft programme under section 18 that the minerals programme has been issued and where it is available.
+  (a)
+  (b)
+  (c)
+  (d)
 
 ### 21 Minister may defer consideration of application for permit
 (1) Subsection (2) applies if the Minister has publicly notified a proposed change to a minerals programme and—
   (a) the chief executive has received an application for a permit for a mineral to which the programme applies after the proposed change has been notified; and
   (b) if the proposed change were in force, it would be likely that the Minister's decisions in respect of the application would be different than if the decisions were made without the proposed change.
 (2) The Minister may defer his or her consideration of the application until—
-  (a) the date on which the proposed change takes effect (as specified in the relevant Order in Council made under section 19(1)); or
+  (a) the date on which the proposed change takes effect (in accordance with the Legislation Act 2019); or
   (b) if the Minister decides not to proceed with the change, the date on which the Minister publicly notifies his or her decision under section 16(5).
 
 ### 22 Minister and chief executive must act in accordance with minerals programmes
@@ -485,20 +484,21 @@ Where, in respect of any application for a prospecting permit, the Minister cons
   (b) will not have the area of land that those permits apply to extended to include any of that specified land.
 (1A) For the purposes of subsection (1),—
   (a) the declaration may be made only if the Minister believes that the declaration is necessary to better meet the purpose of this Act:
-  (b) the declaration must be made by notice in the Gazette.
+  (b) the declaration must be made by notice published under the Legislation Act 2019.
 (2) A notice under subsection (1A)﻿(b)—
   (a) must specify the kind or kinds of permits to which it applies:
   (b) must specify the land to which it applies:
   (c) may apply to different minerals, to minerals that occur in a particular state, place, phase, or stratum, or to minerals that are to be explored for or mined by a particular method:
   (d) has effect until the close of the earlier of the following periods:
     (i) the period specified in the notice:
-    (ii) 3 years from the date on which the notice is published in the Gazette.
+    (ii) 3 years from the date on which the notice is published.
 (3) The Minister must not accept a permit application that is contrary to a notice under subsection (1A)﻿(b) while the notice has effect, unless the application relates to a subsequent permit referred to in subsection (4)﻿(c).
 (4) A notice under subsection (1A)﻿(b) does not affect any—
-  (a) application received by the Minister before the notice is published in the Gazette; or
-  (b) permit granted before the notice is published in the Gazette; or
+  (a) application received by the Minister before the notice is published; or
+  (b) permit granted before the notice is published; or
   (ba) power to extend the duration of a permit; or
   (c) right under section 32 of the holder of a permit described in paragraph (b) to be granted a subsequent permit.
+(5) A notice under subsection (1A)﻿(b) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 29 Minister may require survey to be done
 Where the Minister considers it appropriate to do so, the Minister may require that land to which an application for a permit relates be surveyed in the prescribed manner and may postpone making a determination in respect of the granting of a permit until a survey plan, certified by the Surveyor-General, has been lodged with the chief executive by or on behalf of the applicant.
@@ -1209,6 +1209,7 @@ For the purposes of sections 53 to 54A, prospecting, exploration, or mining carr
 (10) To avoid doubt, subsection (9) does not limit or affect—
   (a) any provision of any other enactment that has the effect of excluding land from clauses 1 to 8 of Schedule 4 ; or
   (b) any action taken under a provision of any other enactment that has the effect of excluding land from clauses 1 to 8 of Schedule 4.
+(11) An order under subsection (4) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 61A Access to Crown land where mineral not property of the Crown
 (1) A person must not prospect, explore, or mine in any Crown land in respect of any mineral that is not the property of the Crown otherwise than in accordance with an access arrangement entered into under section 61B.
@@ -1248,6 +1249,7 @@ For the purposes of sections 53 to 54A, prospecting, exploration, or mining carr
 (4) An Order in Council made under subsection (1) shall not affect—
   (a) any access arrangement entered into before the date of the Order in Council or any rights granted under such an arrangement; or
   (b) the rights of the holder of an existing privilege under Schedule 1.
+(5) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 63 Request for appointment of arbitrator
 (1) If, by the end of 60 days (or, in the case of access required for a geophysical survey, 30 days) after a person serves notice in writing under section 59 on each owner and occupier of land to which the person desires access, that person has been unable to agree on an access arrangement with each owner and occupier, that person may, by further notice in writing served on each owner and occupier, request them to agree to the appointment of an arbitrator.
@@ -1279,6 +1281,7 @@ For the purposes of sections 53 to 54A, prospecting, exploration, or mining carr
   (a) an access arrangement between the permit holder and the owner and occupier is not entered into; or
   (b) the owner and occupier do not consent to an arbitrator determining an access arrangement—
 (6) A consent given or declaration made under this section shall entitle an arbitrator to proceed to determine an access arrangement between the applicant under this section and the owner and occupier of the land concerned; and any such arrangement shall be effective in respect of the land to which it relates.
+(7) An order under subsection (5) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 67 Right of appearance
 (1) At any hearing by an arbitrator into the question of access, a person desiring access to the land concerned, and each of the owners and occupiers of the land, are entitled to appear and be heard.
@@ -1776,7 +1779,8 @@ In sections 101B and 101C,—
   (a) in the case of an individual, to imprisonment for a term not exceeding 12 months or to a fine not exceeding $50,000:
   (b) in the case of a body corporate, to a fine not exceeding $100,000.
 (5) A person who commits an offence against subsection (2) is liable on conviction to a fine not exceeding $10,000.
-(6) For the purposes of subsection (2), the chief executive may specify a non-interference zone by notice published in a fortnightly edition of the New Zealand Notices to Mariners (under Part 25 of the Maritime Rules).
+(6) For the purposes of subsection (2), the chief executive may specify a non-interference zone by notice.
+(6A) In addition to complying with the Legislation Act 2019, the chief executive must publish the notice in a fortnightly edition of New Zealand Notices to Mariners (under Part 25 of the Maritime Rules).
 (7) A notice must specify—
   (a) the permitted prospecting, mining, or exploration activity to which the non-interference zone relates; and
   (b) the locality of the activity; and
@@ -1784,6 +1788,7 @@ In sections 101B and 101C,—
   (d) the period (which may be up to 3 months) for which the notice has effect.
 (8) The chief executive, when determining the area of a non-interference zone for the purposes of a notice, must take into account the nature of the activity, including the size of any structure or ship to which the activity relates and any equipment attached to the structure or ship necessary for the carrying out of the activity.
 (9) No proceedings for an offence against this section may be brought in a New Zealand court in respect of a contravention of this section on board, or by a person leaving, a foreign ship without the consent of the Attorney-General.
+(10) A notice under subsection (6) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 101C Powers of enforcement officers
 (1) An enforcement officer who has reasonable cause to suspect that a person is committing, has committed, or is attempting to commit an offence against section 101B may do 1 or more of the following things:
@@ -1862,6 +1867,7 @@ In sections 101B and 101C,—
   (r) providing for such matters as are contemplated by or necessary for giving full effect to this Act and for its due administration.
 (2) Any regulations made under this section may provide for different regulations to apply in respect of different classes of permits, permit holders, or activities or in respect of the same class of permits, permit holders, or activities, in different circumstances.
 (3) Any regulations made under this section may apply generally throughout New Zealand or within any specified part or parts thereof. All regulations made under this section shall, unless otherwise specified in the regulations, apply generally throughout New Zealand and the continental shelf.
+(4) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 105A Regulations relating to royalties
 (1) The Governor-General may, by Order in Council made on the recommendation of the Minister, make regulations for 1 or more of the following purposes:
@@ -1877,6 +1883,7 @@ In sections 101B and 101C,—
   (b) when a subsequent permit is granted in respect of the same mineral, royalties must also be calculated in accordance with the regulations as they applied at the time the initial permit was granted:
   (c) when a permit is changed to cover a different mineral, royalties in respect of that mineral must be calculated in accordance with the regulations as they apply when the relevant change to the permit takes effect.
 (4) Despite subsection (3), the period in relation to which the royalty calculations are made must be that specified in the current regulations.
+(5) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 105B Regulations not invalid for certain matters
 (1) No regulation made under section 105 or 105A is invalid because—
@@ -1912,11 +1919,9 @@ In sections 101B and 101C,—
   (a) provide electronic access to any material incorporated by reference in regulations made under this section, unless doing so would infringe copyright; and
   (b) make the material available for inspection during working hours, free of charge, at the department's head office and at any other place that the chief executive determines is appropriate.
 (10) A failure to comply with subsection (9) does not invalidate regulations that incorporate any material incorporated by reference in regulations made under section 105 or 105A.
-(11) Part 2 of the Legislation Act 2012 does not apply to—
-  (a) standards or terms incorporated by reference in regulations made under this section; or
-  (b) an amendment to or replacement of those standards or terms.
-(12) Subpart 1 of Part 3 of the Legislation Act 2012 applies to regulations made under this section that incorporate standards or terms by reference.
-(13) However, nothing in section 41 of the Legislation Act 2012 requires material that is incorporated by reference in regulations made under this section to be presented to the House of Representatives.
+(11) Subpart 1 of Part 3 and section 114 of the Legislation Act 2019 do not apply to material that is incorporated by reference in regulations merely because it is incorporated.
+(12)
+(13)
 
 ### 105D Requirement to consult on proposal to incorporate material by reference
 (1) Before regulations incorporating material by reference are made under section 105 or 105A, the chief executive must—
