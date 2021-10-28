@@ -1,5 +1,5 @@
 # Insurance (Prudential Supervision) Act 2010
-_Consolidation as at 2020-12-01_
+_Consolidation as at 2021-10-28_
 
 ### 1 Title
 This Act is the Insurance (Prudential Supervision) Act 2010.
@@ -10,6 +10,7 @@ This Act is the Insurance (Prudential Supervision) Act 2010.
 (3) The rest of this Act comes into force on a date appointed by the Governor-General by Order in Council; and 1 or more orders may be made bringing different provisions into force on different dates.
 (4) To the extent that it is not previously brought into force under subsection (3), the rest of this Act comes into force on the day that is 18 months after the date on which this Act receives the Royal assent.
 (5) Subsection (4) is subject to subsection (2).
+(6) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ## Part 1 — Preliminary provisions
 
@@ -567,7 +568,7 @@ If a licensed insurer (the first insurer) accepts an assignment of liabilities f
 (3) A fit and proper standard may—
   (a) have general or specific application:
   (b) differ according to differences in time or circumstance.
-(4) This section is subject to sections 233 to 236 (which provide for general provisions relating to standards).
+(4) This section is subject to sections 233 to 235 (which provide for general provisions relating to standards).
 
 ### 37 Licensed insurer must provide fit and proper certificate for new directors or relevant officers or if Bank requires certificate
 (1) A licensed insurer must, no later than 20 working days after the appointment of a new director or relevant officer, provide to the Bank a certificate that complies with subsection (4) in respect of the new director or relevant officer.
@@ -736,7 +737,7 @@ The Bank must publish its policies in relation to how it acts, or proposes to ac
 (5) In subsection (4), relevant overseas standards means standards relating to solvency or capital that—
   (a) relate to matters that are the same as, or similar to, those that are covered by the proposed solvency standard; and
   (b) apply to insurers in the home jurisdictions of the overseas insurers to which the proposed solvency standard will apply.
-(6) This section is subject to sections 233 to 236 (which provide for general provisions relating to standards).
+(6) This section is subject to sections 233 to 235 (which provide for general provisions relating to standards).
 
 ### 56 Matters that may be contained in solvency standards
 A solvency standard may prescribe 1 or more of the following matters:
@@ -1227,6 +1228,7 @@ The following amounts must be credited by a life insurer to a statutory fund:
   (a) what constitutes income of a statutory fund must be determined in accordance with the regulations; and
   (b) what constitutes outgoings of a statutory fund must be determined in accordance with the regulations; and
   (c) what part of an amount of income or outgoings or portion of a liability that is related or referrable to the business of a statutory fund or to a category of business of a statutory fund must be determined in accordance with the regulations.
+(3) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 104 Life insurer must keep records of income and outgoings
 A life insurer must keep records of the income and outgoings of each statutory fund of the insurer that properly record the affairs and transactions of the insurer in respect of those funds.
@@ -1882,6 +1884,7 @@ When a scheme is approved under section 166—
   (b) the appointment of a statutory manager for the specified period in respect of the licensed insurer also applies to those subsidiaries.
 (3) If a licensed insurer acquires a subsidiary after it has been declared to be subject to statutory management under subsection (1), the subsidiary is not subject to statutory management unless a further Order in Council is made declaring the subsidiary to be subject to statutory management.
 (4) Subsections (1)﻿(b) and (2) are subject to section 139J(4) of the Reserve Bank of New Zealand Act 1989.
+(5) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 171 Statutory management of overseas persons
 If a licensed insurer or an associated person of a licensed insurer that is declared to be subject to statutory management, or a subsidiary of a licensed insurer that becomes subject to statutory management under section 170(2) or (3), is an overseas person, the provisions of this subpart apply to the property, rights, assets, and liabilities relating to its New Zealand business.
@@ -2008,6 +2011,7 @@ The provisions of any enactment or agreement requiring any consent, licence, per
 (3) Nothing in subsection (2) reduces, extinguishes, or affects any obligation or liability of an overseas person.
 (4) Every body corporate referred to in subsection (1)﻿(a) is, for the purposes of this subpart, deemed to be a licensed insurer subject to statutory management as if the body corporate had been declared to be subject to statutory management under this subpart.
 (5) The statutory manager in respect of the overseas person is the statutory manager of the body corporate referred to in subsection (1)﻿(a) as if the statutory manager had been appointed under section 170, and the provisions of this subpart apply accordingly.
+(6) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 186 Vesting of property subject to security
 (1) An order may be made under section 185 vesting any property, rights, and assets of an overseas person in a body corporate formed and registered under that section despite the existence, or the terms and conditions, of any security over the property, or over those rights or assets, in favour of any other person.
@@ -2041,6 +2045,7 @@ If all or any part of any liability of a body corporate formed and registered un
 (1) This section applies to a licensed insurer that is in statutory management.
 (2) The Governor-General may, by Order in Council, on the advice of the Minister given in accordance with a recommendation of the Bank, reduce the value of 1 or more of the licensed insurer’s contracts of insurance.
 (3) The Order in Council may provide for the reduction to be on the terms and subject to the conditions (if any) that are specified in the order.
+(4) An order under subsection (2) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 **Auditor, actuary, and annual financial statements and records**
 
@@ -2088,6 +2093,7 @@ A person holding office as auditor or appointed actuary of a licensed insurer at
 (3) If an Order in Council is made under subsection (1) declaring that a licensed insurer ceases to be subject to statutory management,—
   (a) every subsidiary of the insurer, except any subsidiary specified in the order, ceases to be subject to statutory management on the same date as that specified as the date on which, and at the same time as that specified as the time at which, the insurer ceases to be subject to statutory management:
   (b) the appointment of any person appointed as a statutory manager of every such subsidiary terminates on the date and at the time referred to in paragraph (a).
+(4) An order under subsection (1) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 198 Termination of statutory management on liquidation
 A licensed insurer, an associated person of a licensed insurer, or a subsidiary of a licensed insurer ceases to be subject to statutory management if the insurer, associated person, or subsidiary, as the case may be, is put into liquidation on the application of the statutory manager.
@@ -2447,39 +2453,26 @@ A person commits an offence if the person fails to comply with an order under se
   (d) section 204(4) (which relates to exemptions for Lloyd's underwriters):
   (e) section 220(4) (which relates to exemptions from the prohibition against using certain words in a name).
 (3) The Bank may give a declaration or grant an exemption unconditionally or subject to any conditions that the Bank thinks fit (after taking into account the purposes of this Act and the principles set out in section 4 that are relevant).
-(4) The Bank must make a declaration or an exemption available—
+(4) The Bank must make every exemption available—
   (a) for inspection at all reasonable times, free of charge,—
     (i) at the head office of the Bank; and
     (ii) on the Bank's Internet site; and
   (b) for purchase at all reasonable times and at a reasonable price.
-(5) The Bank's reasons for giving a declaration or granting an exemption (including why it is appropriate) must be notified with the declaration or exemption.
+(5) The Bank's reasons for giving a declaration or granting an exemption (including why it is appropriate) must be published or notified with the declaration or exemption.
 (6) The Bank may amend or revoke a declaration or exemption in the same way as it may be given or granted.
 (7) Lloyd's may apply for an exemption on behalf of Lloyd's underwriters.
-(8) A declaration—
-  (a) is a disallowable instrument, but not a legislative instrument, for the purposes of the Legislation Act 2012; and
-  (b) must be presented to the House of Representatives under section 41 of that Act.
-(9) An exemption is neither a legislative instrument nor a disallowable instrument for the purposes of the Legislation Act 2012 and does not have to be presented to the House of Representatives under section 41 of that Act.
+(8) A declaration is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+(9)
 
 **General provisions relating to fit and proper standards and solvency standards**
 
 ### 233 Status of standards
-(1) The following are disallowable instruments, but not legislative instruments, for the purposes of the Legislation Act 2012:
+The following are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements):
   (a) fit and proper standards:
   (b) solvency standards.
-(2) Fit and proper standards and solvency standards must be presented to the House of Representatives in accordance with section 41 of the Legislation Act 2012.
 
 ### 234 Public notice of standards
-(1) The Bank must give notice of the issue of a fit and proper standard or solvency standard in the Gazette.
-(2) The notice in the Gazette must state—
-  (a) the name of the standard; and
-  (b) a brief description of the nature of the standard; and
-  (c) where copies of the standard are available for inspection and purchase.
-(3) The notice in the Gazette need not contain the text of the standard.
-(4) The Bank must make a fit and proper standard or solvency standard available to the public by making copies of it available—
-  (a) for inspection at all reasonable times, free of charge,—
-    (i) at the head office of the Bank; and
-    (ii) on the Bank's Internet site; and
-  (b) for purchase at all reasonable times and at a reasonable price.
+[Repealed]
 
 ### 235 Consultation
 (1) The Bank must not issue a fit and proper standard or solvency standard unless—
@@ -2488,13 +2481,10 @@ A person commits an offence if the person fails to comply with an order under se
   (c) the Bank has considered those comments.
 (2) A failure to comply with subsection (1) does not affect the validity of the standard.
 (3) Any action taken by or on behalf of the Bank before the commencement of this section in consulting persons or representatives of persons on proposed fit and proper standards or solvency standards must be treated as having been taken by the Bank under, and for the purposes of, this section.
+(4) However, the Bank is not required to comply with this section in respect of an amendment to a fit and proper standard or solvency standard if, in its opinion, the amendment corrects a minor error or is otherwise of a minor nature.
 
 ### 236 Bank may amend, revoke, or replace standard
-(1) The Bank may, by a notice signed by the Governor,—
-  (a) amend or revoke a fit and proper standard or solvency standard:
-  (b) revoke and replace a fit and proper standard or solvency standard.
-(2) Sections 233 to 235 apply, with all necessary modifications, for the purposes of subsection (1).
-(3) However, the Bank is not required to comply with section 235 in respect of an amendment to a fit and proper standard or solvency standard if, in its opinion, the amendment corrects a minor error or is otherwise of a minor nature.
+[Repealed]
 
 **Regulations**
 
@@ -2547,6 +2537,7 @@ A person commits an offence if the person fails to comply with an order under se
 (5) The Bank may refuse to perform a function or exercise a power until a prescribed fee is paid.
 (6) Any Order in Council made under subsection (1) may authorise the Bank to refund or waive, in whole or in part and on any conditions as may be prescribed, payment of any fee or amount payable in relation to any person or class of persons.
 (7) Any fee or amount payable to the Bank is recoverable by the Bank in any court of competent jurisdiction as a debt due to the Bank.
+(8) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 238 Regulations may provide for exemptions
 (1) The Governor-General may, by Order in Council, on the advice of the Minister given in accordance with a recommendation of the Bank, make regulations for all or any of the following purposes:
@@ -2567,6 +2558,7 @@ A person commits an offence if the person fails to comply with an order under se
 (4) In this section, specified person means—
   (a) a person that was carrying on insurance business in New Zealand immediately before the commencement of this section; or
   (b) a friendly society (within the meaning of section 2 of the Friendly Societies and Credit Unions Act 1982).
+(5) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 **Incorporation by reference**
 
@@ -2770,10 +2762,8 @@ Material incorporated by reference in a specified instrument that expires, is re
   (f) must consider any comments made within the time allowed.
 (3) A failure to comply with this clause does not invalidate a specified instrument.
 
-### 7 Application of Legislation Act 2012
-(1) Part 2 of the Legislation Act 2012 does not apply to material incorporated by reference in a specified instrument, or to any amendment to, or replacement of, the material.
-(2) Subpart 1 of Part 3 of the Legislation Act 2012 applies to a specified instrument that incorporates material by reference.
-(3) However, nothing in section 41 of the Legislation Act 2012 requires material incorporated by reference in a specified instrument to be presented to the House of Representatives.
+### 7 Application of Legislation Act 2019 to material incorporated by reference
+Subpart 1 of Part 3 and section 114 of the Legislation Act 2019 do not apply to material that is incorporated by reference in a specified instrument merely because it is incorporated.
 
 ### 8 Application of Regulations (Disallowance) Act 1989 to material incorporated by reference
 [Repealed]
