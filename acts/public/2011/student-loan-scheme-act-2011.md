@@ -1,5 +1,5 @@
 # Student Loan Scheme Act 2011
-_Consolidation as at 2021-10-01_
+_Consolidation as at 2021-10-28_
 
 ### 1 Title
 This Act is the Student Loan Scheme Act 2011.
@@ -2071,7 +2071,7 @@ Sections 210 to 212 of this Act override sections 14 to 14G of the Tax Administr
 **Regulations**
 
 ### 215 Regulations
-The Governor-General may, by Order in Council, make regulations for all or any of the following purposes:
+(1) The Governor-General may, by Order in Council, make regulations for all or any of the following purposes:
   (a) prescribing the amount of the annual repayment threshold, or a means by which it may be calculated or ascertained:
   (b)
   (c) prescribing the repayment percentage, or a means by which it may be calculated or ascertained:
@@ -2081,12 +2081,13 @@ The Governor-General may, by Order in Council, make regulations for all or any o
   (g) prescribing the level of unpaid amount on which a borrower is liable to pay late payment interest under section 139(1), or a means by which it may be calculated or ascertained:
   (h) prescribing the amount of an annual administration fee charged under section 189, or a means by which it may be calculated or ascertained:
   (i) providing for any other matters contemplated by this Act, necessary for its administration, or necessary for giving it full effect.
+(2) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 216 Transitional regulations
 [Repealed]
 
 ### 217 Application of Legislation Act 2012
-Regulations made under section 215 or 216 are a legislative instrument and a disallowable instrument for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
+[Repealed]
 
 **Savings and transitional provisions**
 
