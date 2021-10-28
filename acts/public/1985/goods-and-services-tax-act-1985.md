@@ -1,5 +1,5 @@
 # Goods and Services Tax Act 1985
-_Consolidation as at 2021-03-30_
+_Consolidation as at 2021-10-28_
 
 > An Act to make provision for the imposition and collection of goods and services tax
 
@@ -71,7 +71,7 @@ _Consolidation as at 2021-03-30_
     (a) gold, in any form, being gold of a fineness of not less than 99.5%:
     (b) silver, in any form, being silver of a fineness of not less than 99.9%:
     (c) platinum, in any form, being platinum of a fineness of not less than 99.0%:
-    (d) any other substance that the Governor-General may, from time to time, by Order in Council, declare to be fine metal for the purposes of this definition
+    (d) any other substance that the Governor-General may, from time to time, by Order in Council, declare to be fine metal for the purposes of this definition (see subsection (3))
   - **going concern** , in relation to a supplier and a recipient, means the situation where—
     (a) there is a supply of a taxable activity, or of a part of a taxable activity where that part is capable of separate operation; and
     (b) all of the goods and services that are necessary for the continued operation of that taxable activity or that part of a taxable activity are supplied to the recipient; and
@@ -227,6 +227,7 @@ _Consolidation as at 2021-03-30_
     (b) a day in the period commencing with 25 December in any year and ending with 15 January in the following year
   - **zero-rating of land rules** means sections 5(24), 11(1)﻿(mb), 60B(6), 75(3B), and 78F.
 (2) For the purposes of this Act, a reference to goods and services includes a reference to goods or services.
+(3) An order under the definition of fine metal, paragraph (d), in subsection (1) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 2A Meaning of associated persons
 (1) In this Act, associated persons or persons associated with each other are—
@@ -436,6 +437,7 @@ _Consolidation as at 2021-03-30_
     (i) any payment of a benefit paid under the Social Security Act 2018; or
     (ii) subject to paragraph (a)﻿(ii), any other payment made to a person where the payment is for the personal use and benefit of the person or, as the case may be, a relative (as defined in paragraphs (c) and (d) of the definition of that term in section YA 1 of the Income Tax Act 2007) of the person; or
     (iii) any payment of a kind that is declared by the Governor-General by Order in Council not to be a taxable grant or subsidy for the purposes of subsection (6D).
+(6EB) An order under subsection (6E)﻿(a)﻿(ii) or (b)﻿(iii) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 (6F) For the purposes of this Act, the amount payable by the Crown or the agency under the Public and Community Housing Management Act 1992 under a reimbursement agreement or a tailored agreement under that Act is treated as consideration for the supply of accommodation in a dwelling by way of hire.
 (7) For the purposes of this Act—
   (a) every local authority is deemed to supply goods and services to any person where any amount of rates is payable by that person to that local authority:
@@ -1160,6 +1162,7 @@ A supply of services that is chargeable with tax under section 8 must be charged
   (c) the Governor-General, from time to time, may declare by Order in Council another amount as the limit applying to the value of a person's taxable supplies.
 (6) Despite subsections (1) to (4), the taxable period of a non-resident supplier whose only supplies are supplies of distantly taxable goods or remote services to which section 8(3)﻿(c) applies, is a 3-month period, based on a first quarter ending on 31 March.
 (7) Despite subsection (6), a non-resident supplier of distantly taxable goods that becomes a registered person in the period beginning on 1 December 2019 and ending on 31 December 2019 has a first taxable period of 1 December 2019 to 31 March 2020.
+(8) An order under subsection (5)﻿(c) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 15A Change in registered person's taxable period
 [Repealed]
@@ -1280,6 +1283,7 @@ In addition to the returns specified in sections 16, 17, and 19B, the Commission
 (3) For the purposes of subsection (2), a registered person shall not be treated as having ceased to satisfy the conditions of subsection (1) by reason only that the total value of the registered person's taxable supplies has exceeded, or as the case may be will exceed, the amount specified by or under subsection (1)﻿(b) solely as a consequence of—
   (a) any ending of, including a premature ending of, or any substantial and permanent reduction in the size or scale of, any taxable activity carried on by that person; or
   (b) the replacement of any plant or other capital asset used in any taxable activity carried on by that person.
+(4) An order under subsection (1)﻿(b)﻿(i) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 19AB Local authorities accounting on payments basis on and after 1 July 2001
 [Repealed]
@@ -1796,7 +1800,7 @@ Any company, being a registered person, shall, where any amount of tax has been 
   (g) either—
     (i) the total amount of the tax charged, the consideration, excluding tax, and the consideration, inclusive of tax for the supply; or
     (ii) where the amount of tax charged is the tax fraction of the consideration, the consideration for the supply and a statement that it includes a charge in respect of the tax.
-(4) Notwithstanding anything in subsection (3), where the consideration in money for a supply does not exceed $1,000 (or such greater amount as the Governor-General may, from time to time, by Order in Council declare), a tax invoice shall contain the particulars specified in that subsection or the following particulars:
+(4) Notwithstanding anything in subsection (3), where the consideration in money for a supply does not exceed $1,000 (or such greater amount as the Governor-General may, from time to time, by Order in Council declare (see subsection (11))), a tax invoice shall contain the particulars specified in that subsection or the following particulars:
   (a) the words tax invoice in a prominent place:
   (b) the name and registration number of the supplier:
   (c) the date upon which the tax invoice is issued:
@@ -1806,7 +1810,7 @@ Any company, being a registered person, shall, where any amount of tax has been 
     (f) that is charged with tax pursuant to section 11, 11A, 11AB, or 11B:
     (g) for which a supplier made an election under subsection (5B) or (5BB).
 (5) Notwithstanding any other provision of this Act, a supplier is not required to provide a tax invoice if—
-  (a) the consideration in money for a supply does not exceed $50 (or such greater amount as the Governor-General may, from time to time, by Order in Council declare):
+  (a) the consideration in money for a supply does not exceed $50 (or such greater amount as the Governor-General may, from time to time, by Order in Council declare (see subsection (11))):
   (b) the supplier is a non-resident supplier of remote services to which section 8(3)﻿(c) applies:
   (c) the supplier is a non-resident supplier making a supply of distantly taxable goods to which section 8(3)﻿(ab) applies.
 (5B) Despite subsection (5), a supplier may choose to provide a tax invoice to the recipient of the services if—
@@ -1830,7 +1834,7 @@ Any company, being a registered person, shall, where any amount of tax has been 
   (c) a description of the goods supplied:
   (d) the quantity or volume of the goods supplied:
   (e) the consideration for the supply:
-  provided that this subsection shall not require that recipient to keep such records where the consideration in money for that supply does not exceed $50 (or such greater amount as the Governor-General may, from time to time, by Order in Council declare).
+  provided that this subsection shall not require that recipient to keep such records where the consideration in money for that supply does not exceed $50 (or such greater amount as the Governor-General may, from time to time, by Order in Council declare (see subsection (11))).
 (7B) Despite subsections (1) and (3), if a tax invoice is not available in relation to a supply of goods to which section 60B(3), (4), and (6) apply, the nominated person must maintain sufficient records to enable the following particulars to be ascertained:
   (a) the name and address of the supplier; and
   (b) the date on which payment for the supply was made; and
@@ -1841,6 +1845,7 @@ Any company, being a registered person, shall, where any amount of tax has been 
   (b) if in excess of half of that cent, shall be deemed for the purposes of this section to be an amount equal to 1 cent.
 (9) Where approval has been granted by the Commissioner to issue tax invoices pursuant to subsection (2), that approval may be withdrawn at any time where the Commissioner is satisfied that the conditions of that approval have not been complied with.
 (10) Where the Commissioner has determined that a tax invoice may be issued pursuant to subsection (6)﻿(a), or is not required to be issued pursuant to subsection (6)﻿(b), that determination may be revoked where the Commissioner is satisfied that any conditions specified have not been complied with.
+(11) An order under subsection (4), (5)﻿(a), or (7) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 24BA Shared tax invoices
 (1) A shared invoice is a tax invoice, if the invoice contains the following particulars:
@@ -2225,7 +2230,7 @@ In any case where, upon the investigation by the Commissioner of the liability o
 
 ### 51 Persons making supplies in course of taxable activity to be registered
 (1) Subject to this Act, every person who, on or after 1 October 1986, carries on any taxable activity and is not registered, becomes liable to be registered—provided that any such person shall not become liable where the Commissioner is satisfied that that value will exceed that amount in that period solely as a consequence of—
-  (a) at the end of any month where the total value of supplies made in New Zealand in that month and the 11 months immediately preceding that month in the course of carrying on all taxable activities has exceeded $60,000 (or such larger amount as the Governor-General may, from time to time, by Order in Council declare):
+  (a) at the end of any month where the total value of supplies made in New Zealand in that month and the 11 months immediately preceding that month in the course of carrying on all taxable activities has exceeded $60,000 (or such larger amount as the Governor-General may, from time to time, by Order in Council declare (see subsection (8))):
     provided that a person does not become liable to be registered by virtue of this paragraph where the Commissioner is satisfied that the value of those supplies in the period of 12 months beginning on the day after the last day of the period referred to in the said paragraph will not exceed that amount:
   (b) at the commencement of any month where there are reasonable grounds for believing that the total value of the supplies to be made in New Zealand in that month and the 11 months immediately following that month will exceed the amount specified in paragraph (a):
   (c) any ending of, including a premature ending of, or any substantial and permanent reduction in the size or scale of, any taxable activity carried on by that person; or
@@ -2245,6 +2250,7 @@ In any case where, upon the investigation by the Commissioner of the liability o
 (5B) A unit title body corporate that is registered under this Act as a result of an application under subsection (3) made on a date (the application date) on or after the date of introduction of the Taxation (Annual Rates for 2015–16, Research and Development, and Remedial Matters) Bill must be registered with effect from a date after the application date.
 (6) The provisions of this Act relating to the determination of the value of any supply of goods and services shall apply for the purposes of this section, with the modification that no regard shall be had to any tax charged in respect of any such supply.
 (7) An application for registration under this Act purporting to be made by or on behalf of any person shall for all purposes be deemed to have been made by that person or by that person's authority, as the case may be, unless the contrary is proved.
+(8) An order under subsection (1)﻿(a) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 51B Persons treated as registered
 (1) For the purposes of Parts 3 and 6, and of Part 9 of the Tax Administration Act 1994, the following are treated as registered persons making supplies in the course or furtherance of a taxable activity:
@@ -2769,12 +2775,12 @@ Section HD 15 of the Income Tax Act 2007, with any necessary modifications, appl
   (b) where the alteration in the law renders that supply exempt from tax or reduces the amount of tax charged or chargeable in relation to that supply, the supplier or the recipient may deduct from the agreed price in the said agreement or contract the amount of that tax or the reduction of that tax:
   provided that this subsection shall not apply where that contract or agreement is entered into after the expiry of the period of 3 months that commences with the coming into force of the alteration in the law:
   provided further that this subsection shall not apply to require a public authority to alter any amount agreed to be paid by the authority in respect of any supply of goods and services where the consideration for that supply is in the nature of a grant or subsidy.
-(3) Where an alteration in the law is made, any fee, charge, or other amount, prescribed by, or determined pursuant to, any Act or by any legislative instrument (within the meaning of the Legislation Act 2012) or by any regulation (within the meaning of the Regulations Act 1936), in respect of any supply of goods and services shall, unless provision to the contrary is contained in that Act or regulation, be deemed to be modified as follows:
-  (a) where the alteration in the law renders the fee, charge, or other amount prescribed by, or determined pursuant to, that Act or regulation liable to be charged with tax or increases the amount of tax charged or chargeable, the said fee, charge, or other amount so prescribed or determined shall be increased by that amount of tax charged or chargeable; or
-  (b) where the alteration in the law renders the fee, charge, or other amount prescribed by, or determined pursuant to, that Act or regulation exempt from tax or reduces the amount of tax charged or chargeable, the said fee, charge, or other amount so prescribed or determined shall be exempted from tax or reduced by the amount of tax no longer charged or chargeable:
-  provided that where any such Act or regulation prescribes or determines either a maximum or a minimum amount in respect of any supply of goods and services, that maximum or, as the case may be, minimum amount shall, for the purposes of any such Act or regulation, be deemed to be increased or, as the case may be, decreased, by the amount of tax charged or, as the case may be, tax no longer charged by virtue of this subsection:
-  provided further that this subsection shall not apply to any fee, charge, or other amount prescribed or determined which is required by virtue of that Act or regulation to be paid by any public authority to any person other than a public authority.
-(4) Where any alteration in the law takes place so as to operate retrospectively from any date, this section shall also apply retrospectively in the same manner and from the same date, and section 74A(1) of the Property Law Act 2007 shall apply to any money paid by a recipient to a supplier in excess of the amount which by virtue of the application of this section is properly payable in respect of that agreement, contract, Act or regulation, notwithstanding section 74A(2) of the Property Law Act 2007.
+(3) Where an alteration in the law is made, any fee, charge, or other amount, prescribed by, or determined pursuant to, any legislation, in respect of any supply of goods and services shall, unless provision to the contrary is contained in that Act or regulation, be deemed to be modified as follows:
+  (a) where the alteration in the law renders the fee, charge, or other amount prescribed by, or determined pursuant to, that legislation liable to be charged with tax or increases the amount of tax charged or chargeable, the said fee, charge, or other amount so prescribed or determined shall be increased by that amount of tax charged or chargeable; or
+  (b) where the alteration in the law renders the fee, charge, or other amount prescribed by, or determined pursuant to, that legislation exempt from tax or reduces the amount of tax charged or chargeable, the said fee, charge, or other amount so prescribed or determined shall be exempted from tax or reduced by the amount of tax no longer charged or chargeable:
+  provided that where any such legislation prescribes or determines either a maximum or a minimum amount in respect of any supply of goods and services, that maximum or, as the case may be, minimum amount shall, for the purposes of any such legislation, be deemed to be increased or, as the case may be, decreased, by the amount of tax charged or, as the case may be, tax no longer charged by virtue of this subsection:
+  provided further that this subsection shall not apply to any fee, charge, or other amount prescribed or determined which is required by virtue of that legislation to be paid by any public authority to any person other than a public authority.
+(4) Where any alteration in the law takes place so as to operate retrospectively from any date, this section shall also apply retrospectively in the same manner and from the same date, and section 74A(1) of the Property Law Act 2007 shall apply to any money paid by a recipient to a supplier in excess of the amount which by virtue of the application of this section is properly payable in respect of that agreement, contract, or legislation, notwithstanding section 74A(2) of the Property Law Act 2007.
 (5) Where any supply is or becomes charged with tax pursuant to this Act, the amount of any increase in consideration in respect of that supply attributable to the tax charged on that supply shall be recoverable by the supplier from the recipient of the taxable supply.
 (6) This section does not apply to a supply of services that is treated by section 8(4B) as being made in New Zealand.
 
