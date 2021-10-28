@@ -1,5 +1,5 @@
 # Shipping Act 1987
-_Consolidation as at 2021-04-01_
+_Consolidation as at 2021-10-28_
 
 > An Act to promote fair dealing and safeguard competition in New Zealand's outwards shipping services, and to discourage discrimination against New Zealand shipping and trading interests by foreign governments
 
@@ -69,6 +69,7 @@ In this Act, unless the context otherwise requires,—
   (a) that foreign government or agency; or
   (b) a national of the country of that government; or
   (c) a body corporate having its principal place of business in that country.
+(4) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 13 Designation of national flag carriers
 (1) For the purposes of shipping agreements concluded or to be concluded between the Government of New Zealand and any foreign government, the national flag carriers shall be—
