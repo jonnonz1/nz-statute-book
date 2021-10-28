@@ -1,5 +1,5 @@
 # Child Poverty Reduction Act 2018
-_Consolidation as at 2020-08-07_
+_Consolidation as at 2021-10-28_
 
 ### 1 Title
 This Act is the Child Poverty Reduction Act 2018.
@@ -85,8 +85,10 @@ Definitions may incorporate material by reference
   (a) they are specifically incorporated by later definition decided in reliance on subsection (2); or
   (b) amendments to the material are expressly authorised to have that effect by another Act.
 Access to, and status of, definitions
-(4) Statistician’s definitions decided for the purposes of measures, targets, or reports for a financial year may be decided, amended, or replaced before, during, or after that financial year, but must after they are decided, amended, or replaced be published on, and available at all reasonable times from, an Internet site administered by or on behalf of Statistics New Zealand.
-(5) Statistician’s definitions are neither a legislative instrument nor a disallowable instrument for the purposes of the Legislation Act 2012, and do not have to be presented to the House of Representatives under section 41 of that Act.
+(4) Statistician’s definitions decided for the purposes of measures, targets, or reports for a financial year may be decided, amended, or replaced before, during, or after that financial year.
+(5) The following are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements):
+  (a) a Statistician’s definition:
+  (b) an amendment to, or replacement of, a Statistician’s definition.
 (6) See also section 31(2) (which requires a report to include a technical appendix that sets out all Statistician’s definitions for the report).
 
 ### 7 Transitional, savings, and related provisions
@@ -167,7 +169,7 @@ Targets must be set for each primary measure.
 The Minister must, promptly after setting or changing targets, present to the House of Representatives a copy of the targets or changes.
 
 ### 25 Targets: application of Legislation Act 2012
-Targets, and changes to targets, are neither a legislative instrument nor a disallowable instrument for the purposes of the Legislation Act 2012, and do not have to be presented to the House of Representatives under section 41 of that Act.
+[Repealed]
 
 ### 26 Targets: duty to review
 The Minister must ensure that each current target is reviewed—
@@ -275,7 +277,7 @@ The Minister must, after receiving a copy of the report, and as soon as is reaso
 The Minister must, promptly after identifying or changing identified indicators, present to the House of Representatives a copy of the identified indicators or changes.
 
 ### 41 Identified indicators: application of Legislation Act 2012
-Identified indicators, and changes to identified indicators, are neither a legislative instrument nor a disallowable instrument for the purposes of the Legislation Act 2012, and do not have to be presented to the House of Representatives under section 41 of that Act.
+[Repealed]
 
 ### 42 Identified indicators: duty to review
 (1) The Minister must ensure that each current identified indicator is reviewed before the deadline for review of the strategy.
@@ -396,11 +398,11 @@ If a Statistician’s definition incorporating written material by reference is 
 (2) The production in proceedings of a copy of the material incorporated by reference that is certified as a correct copy by the Statistician is, in the absence of evidence to the contrary, sufficient evidence of the material incorporated by reference in the definition.
 (3) See also Part 4 of the Contract and Commercial Law Act 2017, which enables this requirement to be met by certifying and retaining a copy in an electronic form.
 
-### 4 Material incorporated by reference does not have to be published under Legislation Act 2012
-Subpart 1 of Part 2 of the Legislation Act 2012 does not apply to material incorporated by reference in a definition in reliance on section 6(2).
+### 4 Application of Legislation Act 2019 to material incorporated by reference
+Subpart 1 of Part 3 and section 114 of the Legislation Act 2019 do not apply to material incorporated by reference in a Statistician’s definition in reliance on section 6(2).
 
 ### 5 Material incorporated by reference does not have to be presented to House of Representatives
-Material incorporated by reference in a definition in reliance on section 6(2) does not have to be presented to the House of Representatives under section 41 of the Legislation Act 2012.
+[Repealed]
 
 ### 6 Failure to comply does not invalidate
 A failure to comply with this schedule does not invalidate a definition that incorporates material by reference.
