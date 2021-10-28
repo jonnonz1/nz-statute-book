@@ -1,11 +1,12 @@
 # Criminal Disclosure Act 2008
-_Consolidation as at 2020-12-01_
+_Consolidation as at 2021-10-28_
 
 ### 1 Title
 This Act is the Criminal Disclosure Act 2008.
 
 ### 2 Commencement
-This Act comes into force on a date to be appointed by the Governor-General by Order in Council.
+(1) This Act comes into force on a date to be appointed by the Governor-General by Order in Council.
+(2) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 **Preliminary provisions**
 
@@ -412,10 +413,11 @@ The court may adjourn the trial if it is satisfied that evidence sought to be ad
 (2) A copy of an application made by the defendant under section 30 or 31 or 32 must be served on the prosecutor before the application is considered and determined.
 
 ### 36 Regulations
-The Governor-General may, by Order in Council, make regulations for all or any of the following purposes:
+(1) The Governor-General may, by Order in Council, make regulations for all or any of the following purposes:
   (a) prescribing the procedure for the service of notices and other documents for the purposes of this Act:
   (b) prescribing forms for the purposes of this Act:
   (c) providing for any other matters contemplated by this Act, necessary for its administration, or necessary for giving it full effect.
+(2) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 **Amendments to other enactments**
 
