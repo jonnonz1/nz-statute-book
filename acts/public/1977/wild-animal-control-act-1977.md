@@ -1,5 +1,5 @@
 # Wild Animal Control Act 1977
-_Consolidation as at 2020-08-07_
+_Consolidation as at 2021-10-28_
 
 > An Act to make better provision for the control of harmful species of introduced wild animals and the means of regulating the operations of recreational and commercial hunters, including wild animal recovery hunting using aircraft, so as to achieve concerted action and effective wild animal control, and to consolidate and amend the Noxious Animals Act 1956
 
@@ -16,7 +16,7 @@ This Act may be cited as the Wild Animal Control Act 1977.
   - **commercial** , in relation to hunting or killing or capturing or holding any wild animal, means so doing for personal gain or pecuniary reward from the sale, barter, exchange, or giving of the animal or any part thereof, whether or not the commercial activity or transaction constitutes the sole or any lesser part of the means of livelihood of the commercial operator
   - **concession** means a concession granted under section 22 in the form of a licence or permit that does not create an interest in land or that does create an interest in land that is non-exclusive
   - **conservation management strategy** means a conservation management strategy approved under the Conservation Act 1987
-  - **Crown-owned land** , except where otherwise stated, means unoccupied land vested in Her Majesty and administered by a Minister for the time being charged with the administration of the department of State that has control of the land; and includes all land for the time being forming part of any national park or maritime park
+  - **Crown-owned land** , except where otherwise stated, means unoccupied land vested in the Sovereign and administered by a Minister for the time being charged with the administration of the department of State that has control of the land; and includes all land for the time being forming part of any national park or maritime park
   - **defence area** means any land that is set apart, used, or occupied for the purposes of the Armed Forces within the meaning of the Defence Act 1990, and on which any species of wild animal is normally present
   - **Department** means the Department of Conservation
   - **Director-General** means the Director-General of Conservation
@@ -71,7 +71,7 @@ This Act may be cited as the Wild Animal Control Act 1977.
         (A) held behind effective fences or otherwise constrained; and
         (B) identified in accordance with an animal identification device approved under the National Animal Identification and Tracing Act 2012 or in accordance with an identification system approved under section 50 of the Biosecurity Act 1993 and approved by the Director-General for the purposes of this Act:
       (iv) any pig that is living in a wild state and is not being herded or handled as a domestic animal or kept within an effective fence or enclosure for farming purposes:
-      (v) any member of any species or class of land mammals that the Governor-General may from time to time, by Order in Council, declare to be wild animals for the purposes of this Act; and
+      (v) any member of any species or class of land mammals that the Governor-General may from time to time, by Order in Council, declare to be wild animals for the purposes of this Act (see subsection (3)); and
     (b) includes the whole or any part of the carcass of any such animal:
     (c) except for deer lawfully kept in captivity for the purposes of farming, does not include any animal kept in captivity pursuant to a permit or licence that is effective for the purposes of section 12 during the currency of the permit or licence and the observance of all conditions under which the permit or licence has been issued:
     (d) does not include an animal that is part of a herd designated to be a herd of special interest under section 16 of the Game Animal Council Act 2013
@@ -80,6 +80,7 @@ This Act may be cited as the Wild Animal Control Act 1977.
     (b) the recovering of wild animals (whether dead or alive) or of any part of those wild animals:
     (c) the carriage of persons, supplies, equipment, firearms, ammunition, poisons, or other things that may be used for the purpose of paragraph (a) or paragraph (b).
 (2) Every reference in any regulations made under this Act to the Director-General of Forests, a Forest Officer, the Forest Service, the Minister of Forests, or State forest land, shall be read, respectively, as a reference to the Director-General, a warranted officer, the Department, the Minister of Conservation, or a conservation area within the meaning of the Conservation Act 1987.
+(3) An order under paragraph (a)﻿(v) of the definition of wild animal in subsection (1) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 3 Act to bind Crown
 This Act shall bind the Crown.
@@ -157,16 +158,17 @@ The Minister shall administer and manage wild animals in accordance with—
 ### 8 Hunting or killing of wild animals
 (1) Subject to the provisions of this Act and any other Act, any wild animal may be hunted or killed or had in possession by any person in any part of New Zealand.
 (2) Except as provided in section 16, and section 56 of the Agricultural Pests Destruction Act 1967, nothing in subsection (1) shall authorise any person to hunt or kill or have in his possession any wild animal on any land, or discharge a firearm into or over or across any land, without the express authority of the owner or occupier of that land. Every person commits an offence against this Act who hunts or kills or has in his possession any wild animal on any land, or discharges a firearm into or over or across any land, without the express authority of the owner or occupier of that land.
-(3) Where the Minister considers that hunting by other persons is likely to interfere with any wild animal control operations, studies, investigations, or research carried out by the Department or any other person or body with his authority, he may, by public notification, declare that any specified species of wild animal may not be hunted or killed or held in possession in such area and during such period as are specified in the notification.
-(4) The Minister may also, by public notice, from time to time advise that, so far as hunting is concerned, specified areas are to be used for recreational, or guided, or commercial hunting, or wild animal recovery operations, as the case may be, or for any combination or all or some of these hunting purposes:provided that the Minister shall, following prior consultation with the person or authority in charge of any land other than land administered by the Department of Conservation under the Conservation Act 1987 or any other enactment, at all times retain the right, by public notice, to do all or any of the following things:
-  (a) to vary or revoke his previous public notification as to the area of land concerned, or the hunting purposes for which the specified hunting area may be used, or the periods or times during which the area may be hunted:
+(3) Where the Minister considers that hunting by other persons is likely to interfere with any wild animal control operations, studies, investigations, or research carried out by the Department or any other person or body with his authority, he may, by notice, declare that any specified species of wild animal may not be hunted or killed or held in possession in such area and during such period as are specified in the notice.
+(4) The Minister may also, by notice, from time to time advise that, so far as hunting is concerned, specified areas are to be used for recreational, or guided, or commercial hunting, or wild animal recovery operations, as the case may be, or for any combination or all or some of these hunting purposes:provided that the Minister shall, following prior consultation with the person or authority in charge of any land other than land administered by the Department of Conservation under the Conservation Act 1987 or any other enactment, at all times retain the right, by notice, to do all or any of the following things:
+  (a) to vary or revoke his previous notice as to the area of land concerned, or the hunting purposes for which the specified hunting area may be used, or the periods or times during which the area may be hunted:
   (b) to direct that wild animal control operations shall be under the direction of the Department:
   (c) to specify conditions as to the rights of any person to enter, remain on, or use the specified hunting area:
   (d) to specify conditions as to the hunting, killing, or capturing of any species of wild animal:
   (e) to specify conditions as to the information that must be provided regarding wild animals hunted or killed or had in possession during, or at the conclusion of, any period or time spent in the specified hunting area:
   (f) to prescribe such fees or charges as he may consider appropriate for the sale or supply of plans and other printed information, services, and facilities.
 (5) Notwithstanding anything in the foregoing provisions of this section the Minister shall at all times retain the right, after giving prior notification to the land controlling authority, to enter onto any land in any specified hunting area with such assistants as he thinks fit to survey the condition and trend of vegetation or wild animal communities and to do such other things as he thinks necessary.
-(6) No person shall, in any specified hunting area and during any period specified in any notification under subsection (3), hunt or kill or have in his possession any wild animal to which the notification refers.
+(6) No person shall, in any specified hunting area and during any period specified in any notice under subsection (3), hunt or kill or have in his possession any wild animal to which the notice refers.
+(7) A notice under subsection (3) or (4) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 9 Ownership of wild animals
 (1) All wild animals shall be the property of the Crown:
@@ -669,6 +671,7 @@ Items that are forfeited to the Crown may be disposed of as the Minister directs
   (ic) prescribing information to be included in infringement notices and reminder notices:
   (j) providing for such matters as are contemplated by or necessary for giving full effect to the provisions of this Act and for the due administration thereof.
 (2) Regulations made under this Act may be so made as to apply generally throughout New Zealand or within any specified part or parts thereof.
+(3) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 41 Remuneration and travelling allowances for members of committees
 There may be paid to the members of any National Recreational Hunting Advisory Committee or other committee set up under this Act remuneration by way of fees, salary, or allowances and travelling allowances and expenses in accordance with the Fees and Travelling Allowances Act 1951, and the provisions of that Act shall apply accordingly as if the committee were a statutory board within the meaning of that Act.
