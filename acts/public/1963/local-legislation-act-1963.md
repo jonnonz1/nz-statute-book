@@ -1,5 +1,5 @@
 # Local Legislation Act 1963
-_Consolidation as at 1999-05-20_
+_Consolidation as at 2021-10-28_
 
 > An Act to confer certain powers on certain public bodies and to validate certain transactions
 
@@ -122,6 +122,7 @@ Be it therefore enacted as follows:
 (2) This section shall be deemed a special Act for the purposes of the Harbours Act 1950.
 (3) For the purposes aforesaid the Corporation may enter into any contract with any person for the execution of all or any works which may be necessary or expedient in or about the reclamation of the land aforesaid upon such terms and subject to such conditions as may seem proper and reasonable to the Corporation.
 (4) The Governor-General may, by Order in Council, vest in the Corporation for municipal purposes, such portions of the land shown coloured blue on the said plan as are from time to time reclaimed from the sea, and upon such vesting any trusts, reservations, and restrictions theretofore affecting the land vested shall be deemed to be cancelled.
+(5) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 26 Authorising Tawa Borough Council to refund to District Fund Account from loan money
 [Repealed]
