@@ -1,5 +1,5 @@
 # Maori Purposes Act 1931
-_Consolidation as at 2020-08-07_
+_Consolidation as at 2021-10-28_
 
 > An Act to consolidate various amendments of the laws relating to Maori lands, to adjust certain claims and disputes, to bestow powers upon certain Boards and authorities, to confer jurisdiction upon the Maori Land Court and the Maori Appellate Court, and for other purposes
 
@@ -58,6 +58,7 @@ Words and expressions used in this Act shall, unless the contrary intention appe
 ### 17 Providing for administration of Okataina Scenic Reserve
 (1) The Governor-General may from time to time, by notice in the Gazette, vest the control of the reserves mentioned in section 20 of the Maori Land Amendment and Maori Land Claims Adjustment Act 1921–22 in a Board of Control constituted by him for the purpose, consisting of not less than 6 persons, of whom 5 shall be members of Ngati-Tarawhai, Subtribe of the Arawa Tribe. The Governor-General may by Order in Council make regulations prescribing the practice and procedure of the Board of Control.
 (2) Notwithstanding the cession to His Majesty of any lands affected by this section, the former Maori owners thereof shall have at all times free right of access to any ancestral burial grounds that may be included therein, and shall also have the right to bury deceased Maori in any such burial grounds.
+(3) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 18 Provisions relating to cession by Maori owners of certain lands near Lakes Rotoiti and Rotoehu, to be held by His Majesty in trust for scenic purposes
 (1) For the administration of the reserves ceded to His Majesty pursuant to section 33 of the Maori Land Amendment and Maori Land Claims Adjustment Act 1919 the Governor-General may, acting under the authority of section 13 of the Scenery Preservation Act 1908, appoint a special Board of Control, consisting of not less than 6 persons, of whom 5 shall be members of the Ngatipikiao Tribe.
@@ -445,6 +446,7 @@ The Tairawhiti District Maori Land Board is hereby authorised to pay to such per
 (1) The Governor-General may, on the recommendation of the Tairawhiti District Maori Land Board, make an Order in Council prohibiting all alienations of the lands hereinafter referred to or any of them. Any such Order in Council may be at any time varied or revoked.
 (2) All the provisions of sections 443 and 444 of the principal Act (relating to prohibition of alienation during negotiations for purchase by the Crown) shall apply during the currency of any such Order in Council to all Maori land affected by the order.
 (3) The lands affected by this section are the parcels of land situated in the Waikaremoana West Survey District, and known respectively as (1) Marau, (2) Te Puna, (3) Tikitiki, (4) Takanga, (5) Hopuaruahine East, (6) Hopuaruahine West, (7) Te Apiti, (8) Mokau, (9) Whakaari, (10) Taumataua, (11) Te Maara-o-te-Atua, (12) Waipai, (13) Timi Taihoa Reserve, and (14) Patekaha Island.
+(4) An Order in Council under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 96 Tairawhiti Maori Land Board to administer Waikaremoana debentures
 [Repealed]
