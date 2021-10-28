@@ -1,5 +1,5 @@
 # Mercenary Activities (Prohibition) Act 2004
-_Consolidation as at 2013-07-01_
+_Consolidation as at 2021-10-28_
 
 ### 1 Title
 This Act is the Mercenary Activities (Prohibition) Act 2004.
@@ -7,7 +7,8 @@ This Act is the Mercenary Activities (Prohibition) Act 2004.
 ## Part 1 — Preliminary provisions
 
 ### 2 Commencement
-This Act comes into force on a date to be appointed by the Governor-General by Order in Council.
+(1) This Act comes into force on a date to be appointed by the Governor-General by Order in Council.
+(2) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 3 Purpose
 The purpose of this Act is to implement in New Zealand law New Zealand’s obligations under the Mercenaries Convention.
@@ -35,15 +36,15 @@ The purpose of this Act is to implement in New Zealand law New Zealand’s oblig
     (ii) whose purpose, or one of whose purposes, in taking part in the concerted act of violence is making significant private gain; and
     (iii) who is promised or paid material compensation.
 (2) A person is not a mercenary—
-  (a) within the meaning of subsection (1)(a) if he or she is—
+  (a) within the meaning of subsection (1)﻿(a) if he or she is—
     (i) a citizen of a party to the armed conflict or ordinarily resident in territory controlled by a party to the armed conflict; or
     (ii) a member of the armed forces of a party to the armed conflict; or
     (iii) sent by a State that is not a party to the armed conflict on official duty as a member of its armed forces:
-  (b) within the meaning of subsection (1)(b) if he or she is—
+  (b) within the meaning of subsection (1)﻿(b) if he or she is—
     (i) a citizen of, or ordinarily resident in, the State against which the concerted act of violence is directed; or
     (ii) sent by a State on official duty; or
     (iii) a member of the armed forces of the State on whose territory the concerted act of violence is undertaken.
-(3) A person is not a mercenary within the meaning of subsection (1)(a) or subsection (1)(b) if he or she is taking part in—
+(3) A person is not a mercenary within the meaning of subsection (1)﻿(a) or subsection (1)﻿(b) if he or she is taking part in—
   (a) a peace support mission—
     (i) for any of the purposes of the United Nations; or
     (ii) that is undertaken in accordance with the principles of the Charter of the United Nations; or
@@ -77,13 +78,13 @@ This Act binds the Crown.
 
 ### 8 Using mercenary
 Every person commits an offence, and is liable on conviction to imprisonment for a term not exceeding 14 years, who,—
-  (a) knowing that a person is a mercenary of the kind described in section 5(1)(a), uses that person to take part in hostilities in an armed conflict; or
-  (b) knowing that a person is a mercenary of the kind described in section 5(1)(b), uses that person to take part in a concerted act of violence.
+  (a) knowing that a person is a mercenary of the kind described in section 5(1)﻿(a), uses that person to take part in hostilities in an armed conflict; or
+  (b) knowing that a person is a mercenary of the kind described in section 5(1)﻿(b), uses that person to take part in a concerted act of violence.
 
 ### 9 Financing mercenary
 (1) Every person commits an offence, and is liable on conviction to imprisonment for a term not exceeding 14 years, who, without lawful justification or reasonable excuse, provides funds intending that those funds be used, or knowing that they are to be used, in full or in part,—
-  (a) to enable a person who is a mercenary of the kind described in section 5(1)(a) to take part in hostilities in an armed conflict; or
-  (b) to enable a person who is a mercenary of the kind described in section 5(1)(b) to take part in a concerted act of violence.
+  (a) to enable a person who is a mercenary of the kind described in section 5(1)﻿(a) to take part in hostilities in an armed conflict; or
+  (b) to enable a person who is a mercenary of the kind described in section 5(1)﻿(b) to take part in a concerted act of violence.
 (2) In subsection (1), funds—
   (a) means assets of every kind, whether tangible or intangible, moveable or immoveable, however acquired; and
   (b) includes legal documents or instruments (for example, bank credits, travellers’ cheques, bank cheques, money orders, shares, securities, bonds, drafts, and letters of credit) in any form (for example, in electronic or digital form) evidencing title to, or an interest in, assets of any kind.
@@ -91,22 +92,22 @@ Every person commits an offence, and is liable on conviction to imprisonment for
 
 ### 10 Training prospective mercenary
 (1) Every person commits an offence, and is liable on conviction to imprisonment for a term not exceeding 14 years, who trains a person to take part in hostilities in an armed conflict—
-  (a) with the intention that the person being trained be recruited as a mercenary of the kind described in section 5(1)(a) once the person has completed the training; or
-  (b) knowing that the person being trained is likely to be recruited as a mercenary of the kind described in section 5(1)(a) once the person has completed the training.
+  (a) with the intention that the person being trained be recruited as a mercenary of the kind described in section 5(1)﻿(a) once the person has completed the training; or
+  (b) knowing that the person being trained is likely to be recruited as a mercenary of the kind described in section 5(1)﻿(a) once the person has completed the training.
 (2) Every person commits an offence, and is liable on conviction to imprisonment for a term not exceeding 14 years, who trains a person to take part in a concerted act of violence—
-  (a) with the intention that the person being trained be recruited as a mercenary of the kind described in section 5(1)(b) once the person has completed the training; or
-  (b) knowing that the person being trained is likely to be recruited as a mercenary of the kind described in section 5(1)(b) once the person has completed the training.
+  (a) with the intention that the person being trained be recruited as a mercenary of the kind described in section 5(1)﻿(b) once the person has completed the training; or
+  (b) knowing that the person being trained is likely to be recruited as a mercenary of the kind described in section 5(1)﻿(b) once the person has completed the training.
 
 ### 11 Training mercenary
 Every person commits an offence, and is liable on conviction to imprisonment for a term not exceeding 14 years, who,—
-  (a) knowing that a person is a mercenary of the kind described in section 5(1)(a), trains that person to take part in hostilities in an armed conflict; or
-  (b) knowing that a person is a mercenary of the kind described in section 5(1)(b), trains that person to take part in a concerted act of violence.
+  (a) knowing that a person is a mercenary of the kind described in section 5(1)﻿(a), trains that person to take part in hostilities in an armed conflict; or
+  (b) knowing that a person is a mercenary of the kind described in section 5(1)﻿(b), trains that person to take part in a concerted act of violence.
 
 **Mercenary taking part in hostilities or concerted act of violence**
 
 ### 12 Mercenary taking part in hostilities or concerted act of violence
-(1) Every person commits an offence, and is liable on conviction to imprisonment for a term not exceeding 14 years, who, being a mercenary of the kind described in section 5(1)(a), intentionally takes part directly in hostilities in an armed conflict.
-(2) Every person commits an offence, and is liable on conviction to imprisonment for a term not exceeding 14 years, who, being a mercenary of the kind described in section 5(1)(b), intentionally takes part directly in a concerted act of violence.
+(1) Every person commits an offence, and is liable on conviction to imprisonment for a term not exceeding 14 years, who, being a mercenary of the kind described in section 5(1)﻿(a), intentionally takes part directly in hostilities in an armed conflict.
+(2) Every person commits an offence, and is liable on conviction to imprisonment for a term not exceeding 14 years, who, being a mercenary of the kind described in section 5(1)﻿(b), intentionally takes part directly in a concerted act of violence.
 
 **Extraterritorial jurisdiction**
 
@@ -150,7 +151,7 @@ A certificate that appears to be signed by, or on behalf of, the Secretary of Fo
 (2) In sections 16 and 17, relevant States Parties means any—
   (a) State Party where the offence was committed; and
   (b) State Party in relation to which the offence was directed or attempted; and
-  (c) State Party in relation to which any person against whom the offence was directed or attempted is a person of the kind referred to in article 10(2)(c) of the Mercenaries Convention; and
+  (c) State Party in relation to which any person against whom the offence was directed or attempted is a person of the kind referred to in article 10(2)﻿(c) of the Mercenaries Convention; and
   (d) State Party—
     (i) in relation to which the alleged offender is a citizen; or
     (ii) in whose territory the alleged offender habitually resides, if the alleged offender is not a citizen of any State; and
