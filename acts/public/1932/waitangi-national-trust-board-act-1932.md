@@ -1,5 +1,5 @@
 # Waitangi National Trust Board Act 1932
-_Consolidation as at 2015-11-24_
+_Consolidation as at 2021-10-28_
 
 > An Act to incorporate the Waitangi National Trust Board, to vest certain lands in the said Board, to confer certain powers upon the said Board, and for other purposes
 
@@ -85,8 +85,9 @@ This Act may be cited as the Waitangi National Trust Board Act 1932.
   (i) generally regulating the use of the said lands and providing for the preservation of order therein.
 (1A) Any bylaw made by the Board under this Act may prescribe fines not exceeding $250 for any breach thereof, and in the case of a continuing breach may prescribe a further fine not exceeding $5 for every day or part of a day during which the breach has continued.
 (2) Such bylaws shall be made by resolution of the Board.
-(3) No such bylaw shall have any force or effect under this Act unless and until it is approved by the Governor-General and published as provided in the next succeeding subsection.
+(3) The Board may not make bylaws under this section unless the Governor-General has approved the proposed bylaws.
 (4) Bylaws shall be published by being displayed and kept displayed at 1 or more of the principal entrances to the said lands and in a conspicuous place within some building erected thereon.
+(4A) Bylaws under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 (5) In all legal proceedings sufficient proof of the due making of a bylaw and the terms thereof may be given by production of a copy thereof bearing the common seal of the Board, and it shall be presumed until the contrary is proved that the Governor-General's approval has been given to such bylaw and that the same is still in force and is published as hereinbefore provided.
 
 ### 8 Title to certain closed roads to be issued to Board
