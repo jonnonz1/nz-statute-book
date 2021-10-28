@@ -1,5 +1,5 @@
 # International Terrorism (Emergency Powers) Act 1987
-_Consolidation as at 2013-07-01_
+_Consolidation as at 2021-10-28_
 
 > An Act to make better provision to deal with international terrorist emergencies
 
@@ -77,7 +77,7 @@ Where the Commissioner of Police believes—the Commissioner shall forthwith inf
   (a) forthwith, if the House of Representatives is then sitting; or
   (b) if the House of Representatives is not then sitting, at the earliest practicable opportunity.
 (2) Where the House of Representatives is informed, pursuant to subsection (1), that a notice has been given pursuant to section 6(2) authorising the exercise, by the Police, of emergency powers, the House of Representatives may, by resolution, from time to time extend that authority to exercise emergency powers for such period, not exceeding 7 days in each instance, as is specified in the resolution.
-(3) If, when a notice is given pursuant to subsection (2) of section 6, Parliament has been dissolved or has expired and no Proclamation has been made summoning Parliament to meet on a day not later than the day on which the authority to exercise emergency powers pursuant to that notice would expire under subsection (4)(c) or (d) of that section, the Governor-General may, by Proclamation approved in Executive Council, where the Governor-General is satisfied that it is necessary to extend the authority to exercise emergency powers pursuant to that notice, from time to time extend that authority to exercise emergency powers for such period, not exceeding 7 days in each instance, as is specified in the Proclamation.
+(3) If, when a notice is given pursuant to subsection (2) of section 6, Parliament has been dissolved or has expired and no Proclamation has been made summoning Parliament to meet on a day not later than the day on which the authority to exercise emergency powers pursuant to that notice would expire under subsection (4)﻿(c) or (d) of that section, the Governor-General may, by Proclamation approved in Executive Council, where the Governor-General is satisfied that it is necessary to extend the authority to exercise emergency powers pursuant to that notice, from time to time extend that authority to exercise emergency powers for such period, not exceeding 7 days in each instance, as is specified in the Proclamation.
 (4) No resolutions passed by the House of Representatives under subsection (2), and no Proclamations made under subsection (3), may extend the authority to exercise emergency powers pursuant to a notice given pursuant to section 6(2) for a period which, in the aggregate, exceeds 14 days.
 (5) Nothing in subsection (2) or subsection (3) authorises any person to exercise any emergency power after the emergency in respect of which authority to exercise emergency powers has been given under this Act ends.
 
@@ -111,8 +111,8 @@ Every constable shall, when exercising any emergency power,—
 (4) The power specified in subsection (3) may be exercised only by, or with the authority of, a constable who is of or above the level of position of inspector, and only if that constable believes, on reasonable grounds, that the exercise of that power will facilitate the preservation of life threatened by the emergency.
 
 ### 11 Requisitioning powers
-(1) Any constable exercising any power conferred on that constable by section 10(2)(f) to requisition any property shall give to the owner or person in charge of the requisitioned property a written statement specifying the property that is requisitioned and the person under whose control the property is to be placed.
-(2) Where the owner or person for the time being in control of any property that may be requisitioned under section 10(2)(f) cannot be immediately found, any constable may assume forthwith the control and direction of the requisitioned property.
+(1) Any constable exercising any power conferred on that constable by section 10(2)﻿(f) to requisition any property shall give to the owner or person in charge of the requisitioned property a written statement specifying the property that is requisitioned and the person under whose control the property is to be placed.
+(2) Where the owner or person for the time being in control of any property that may be requisitioned under section 10(2)﻿(f) cannot be immediately found, any constable may assume forthwith the control and direction of the requisitioned property.
 (3) Where any constable assumes the control and direction of any property under subsection (2), that constable shall ensure that, as soon as reasonably practicable in the circumstances, a written statement specifying the property that has been requisitioned, and the person under whose control it has been placed, is given to the owner or person formerly in charge of the requisitioned property.
 
 ### 12 Members of Armed Forces assisting Police may exercise emergency powers
@@ -120,7 +120,7 @@ Every constable shall, when exercising any emergency power,—
 (2) Any member of the Armed Forces who is authorised by subsection (1) to exercise any emergency power may exercise any such power only at, and in accordance with, the request of a constable.
 
 ### 13 Compensation payable where property requisitioned or destroyed
-(1) Where any requisitioned property has come under the control of any person acting under section 10(2)(f) or section 11 or section 12, there shall, on application by any person having an interest in the requisitioned property, be payable, out of money appropriated by Parliament for the purpose, reasonable compensation for—
+(1) Where any requisitioned property has come under the control of any person acting under section 10(2)﻿(f) or section 11 or section 12, there shall, on application by any person having an interest in the requisitioned property, be payable, out of money appropriated by Parliament for the purpose, reasonable compensation for—
   (a) the use of that requisitioned property while under that control; and
   (b) any loss of, or damage or injury to, that requisitioned property suffered or incurred while under that control.
 (2) Where any property (other than requisitioned property, or any property belonging to any person and used by that person for the purpose of, or in the course of, causing an emergency in respect of which authority to exercise emergency powers has been given under this Act) is damaged or injured or destroyed as a result of any action taken by any constable, or any member of the Armed Forces assisting the Police, in the course of dealing with that emergency, there shall, on application by any person having an interest in the property, be payable, out of money appropriated by Parliament for the purpose, reasonable compensation for such loss of, or damage or injury to, that property.
@@ -136,18 +136,22 @@ Every constable shall, when exercising any emergency power,—
   (a) the publication, in any newspaper or other document; and
   (b) the broadcasting, by radio or television or otherwise,—
 (3) The Prime Minister may issue a notice under subsection (1) or subsection (2) notwithstanding that the emergency in respect of which the notice is issued has ended.
-(4) Where any notice is issued under subsection (1) or subsection (2), the Prime Minister shall forthwith give public notice of the issue of that notice by such means as are practicable in the circumstances, and the notice shall be published in the Gazette as soon as practicable.
+(4) The Prime Minister must immediately notify the public, by whatever means are practicable in the circumstances, that a notice under subsection (1) or (2) has been issued.
+(4A) A notice under subsection (1) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+(4B) A notice under subsection (2) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 (5) Nothing in this section shall restrict the broadcasting or reporting of the proceedings of the House of Representatives.
 
-### 15 Commencement, revocation, expiry, and renewal of notice issued under section 14
-(1) Notwithstanding anything in any other Act, every notice issued under section 14 shall become effective in relation to any person either—whichever occurs first.
-  (a) when that notice is delivered to that person; or
-  (b) on the giving of public notice of the issue of that notice pursuant to subsection (4) of that section,—
-(2) The Prime Minister may at any time, by notice in the Gazette, revoke any notice issued under section 14.
-(3) Subject to subsections (2) and (4), every notice issued under section 14 shall expire 1 year after the date on which the notice was issued, or on such earlier date as may be specified in the notice.
-(4) Subject to subsection (2), the Prime Minister may, from time to time, by notice in the Gazette, renew any notice issued under section 14 for such period, not exceeding 5 years in each instance, as is specified in the notice of renewal, if the renewal of the notice is necessary—
+### 15 Commencement, revocation, expiry, and renewal of notice under section 14
+(1) A notice under section 14(1) or (2) becomes effective in relation to any person on the earlier of the following events:
+  (a) when that notice is delivered to that person:
+  (b) when public notification is given under section 14(4).
+(2) Subsection (1) applies despite anything in any other Act (and even if the notice is not yet published under the Legislation Act 2019).
+(3) The Prime Minister may, at any time, by notice, revoke a notice under section 14.
+(4) Subject to subsections (3) and (5), every notice under section 14 expires 1 year after the date on which it was made, or on an earlier date specified in the notice.
+(5) Subject to subsection (3), the Prime Minister may, by notice, renew a notice under section 14 for a period not exceeding 5 years as is necessary—
   (a) to protect the safety of any person; or
   (b) to avoid prejudice to measures designed to deal with international terrorist emergencies.
+(6) A notice under subsection (3) or (5) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 16 Protection from liability
 Except as provided by section 13, no action or proceeding shall be brought against the Crown, or any constable, or any member of the Armed Forces, to recover damages for any loss of, or damage or injury to, any property where that loss, damage, or injury is due directly or indirectly to an emergency in respect of which authority to exercise emergency powers has been given under this Act, whether the loss or damage or injury is caused by any person taking any action, or failing to take any action, in the exercise or performance in good faith of that person's functions, duties, or powers under this Act.
@@ -187,7 +191,7 @@ Where—no particulars of that communication which relate to that offence shall 
   (a) in the case of an individual, to imprisonment for a term not exceeding 3 months or to a fine not exceeding $2,000:
   (b) in the case of a body corporate, to a fine not exceeding $20,000.
 (3) Every person commits an offence and is liable on conviction to a fine not exceeding $1,000 who acts in contravention of section 18.
-(4) It is a defence to a charge under subsection (1)(a) if the court is satisfied that—
+(4) It is a defence to a charge under subsection (1)﻿(a) if the court is satisfied that—
   (a) the constable, or the member of the Armed Forces acting under section 12, as the case may require, did not have reasonable grounds for believing that in all the circumstances of the case the direction, requirement, prohibition, or restriction was necessary for the purposes of dealing with the emergency in respect of which the direction, requirement, prohibition, or restriction was given or imposed, or of preserving life or property threatened by that emergency; or
   (b) the defendant had no reason to believe that the person giving or imposing that direction, requirement, prohibition, or restriction was a constable, or a member of the Armed Forces acting under section 12, as the case may require.
 
