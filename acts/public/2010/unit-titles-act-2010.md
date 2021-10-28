@@ -1,11 +1,12 @@
 # Unit Titles Act 2010
-_Consolidation as at 2021-02-11_
+_Consolidation as at 2021-10-28_
 
 ### 1 Title
 This Act is the Unit Titles Act 2010.
 
 ### 2 Commencement
-This Act comes into force on a date to be appointed by the Governor-General by Order in Council.
+(1) This Act comes into force on a date to be appointed by the Governor-General by Order in Council.
+(2) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ## Part 1 — Preliminary provisions
 
@@ -2049,7 +2050,7 @@ For the purposes of this subpart, designated resolution means a resolution relat
 ### Subpart 4 — Regulations
 
 ### 217 Regulations
-The Governor-General may from time to time, by Order in Council, make regulations for all or any of the following purposes:
+(1) The Governor-General may from time to time, by Order in Council, make regulations for all or any of the following purposes:
   (a) prescribing the form and content of, and anything required to accompany, any application to deposit a unit plan or an amendment to a unit plan or to cancel a unit plan:
   (b) prescribing the form and content of financial statements to be provided by specified bodies corporate:
   (c) prescribing for the regulation of the funds set up under sections 115, 117, 118, and 119:
@@ -2068,6 +2069,7 @@ The Governor-General may from time to time, by Order in Council, make regulation
   (p) regulating the practice and conduct of business under this Act:
   (q) prescribing forms for the purposes of this Act:
   (r) providing for any other matters contemplated by this Act, necessary for its administration, or necessary for giving it full effect.
+(2) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### Subpart 5 — Repeals, transitional provisions, and consequential amendments
 
@@ -2141,8 +2143,8 @@ In respect of a contract entered into by a body corporate before the date on whi
   (b) any unit affected by the redevelopment to which the amendment to the unit plan relates was, before the redevelopment, a principal unit that would not have conformed to the description in section 7(1)﻿(b)﻿(i).
 (2) The amendment to the unit plan may be deposited even though the unit referred to in subsection (1)﻿(b) will, after the redevelopment, still not conform to the description in section 7(1)﻿(b)﻿(i).
 
-### 232 Application of Interpretation Act 1999
-Except as provided in this subpart, nothing limits the application of the Interpretation Act 1999.
+### 232 Application of Part 2 of Legislation Act 2019
+Except as provided in this subpart, nothing limits the application of Part 2 of the Legislation Act 2019.
 
 ### 233 Consequential amendments to other enactments
 (1) The enactments specified in Schedule 3 are consequentially amended in the manner indicated in that schedule.
