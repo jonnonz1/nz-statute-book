@@ -1,5 +1,5 @@
 # Rural Intermediate Credit Amendment Act 1946
-_Consolidation as at 2013-12-05_
+_Consolidation as at 2021-10-28_
 
 > An Act to abolish the Rural Intermediate Credit Board and transfer its functions to the State Advances Corporation of New Zealand and to amend the Rural Intermediate Credit Act 1927
 
@@ -57,6 +57,7 @@ For the purposes of this Act and the principal Act, unless the context otherwise
 (3)
 (4) This section is in substitution for section 77 of the principal Act and that section is hereby accordingly repealed:
   Provided that all regulations made pursuant to the said section 77 and in force on the commencement of this Act, shall, in so far as they are not inconsistent with the provisions of this Act, continue in force as if they had been made under this section.
+(5) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 11 Miscellaneous amendments
 The enactments mentioned in the Schedule hereto are hereby amended in the manner indicated in that Schedule.
