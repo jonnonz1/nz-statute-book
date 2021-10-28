@@ -1,5 +1,5 @@
 # Child Protection (Child Sex Offender Government Agency Registration) Act 2016
-_Consolidation as at 2021-03-23_
+_Consolidation as at 2021-10-28_
 
 ### 1 Title
 This Act is the Child Protection (Child Sex Offender Government Agency Registration) Act 2016.
@@ -562,13 +562,14 @@ This subpart applies despite anything to the contrary in the Births, Deaths, Mar
 **Regulations**
 
 ### 55 Regulations
-The Governor-General may, by Order in Council, make regulations for any of the following purposes:
+(1) The Governor-General may, by Order in Council, make regulations for any of the following purposes:
   (a) prescribing certain laws of foreign jurisdictions to be corresponding Acts for the purposes of this Act:
   (b) prescribing details relating to the administration of the register:
   (c) specifying, if a report is made otherwise than in person under section 25(2) or (5)﻿(b),—
     (i) the circumstances in which information will be required concerning the identity of the registrable offender and the identity of the person making the report, or a document will be required verifying or supporting details in the report; and
     (ii) the manner in which that information or document is to be provided:
   (d) providing for any other matters contemplated by this Act, necessary for its administration, or necessary for giving it full effect.
+(2) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 **Consequential amendments to Corrections Act 2004**
 
