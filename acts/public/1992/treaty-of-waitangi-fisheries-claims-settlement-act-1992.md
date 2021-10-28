@@ -1,5 +1,5 @@
 # Treaty of Waitangi (Fisheries Claims) Settlement Act 1992
-_Consolidation as at 2004-11-29_
+_Consolidation as at 2021-10-28_
 
 > An Act—ato give effect to the settlement of claims relating to Maori fishing rights; andbto make better provision for Maori non-commercial traditional and customary fishing rights and interests; and cto make better provision for Maori participation in the management and conservation of New Zealand’s fisheries
 
@@ -30,6 +30,7 @@ Whereas—
 (1) This Act may be cited as the Treaty of Waitangi (Fisheries Claims) Settlement Act 1992.
 (2) Except as provided in subsection (3), this Act shall come into force on a date to be appointed by the Governor-General by Order in Council; and 1 or more Orders in Council may be made bringing different sections into force on different dates.
 (3) Section 8 shall come into force on the day on which this Act receives the Royal assent.
+(4) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ## Part 1 — Provisions relating to settlement of Maori fisheries claims against the Crown
 
