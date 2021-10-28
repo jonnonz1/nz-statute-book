@@ -1,5 +1,5 @@
 # Queen Elizabeth the Second National Trust Act 1977
-_Consolidation as at 2021-01-30_
+_Consolidation as at 2021-10-28_
 
 > An Act to commemorate the Silver Jubilee of Her Majesty Queen Elizabeth the Second by establishing a national trust to encourage and promote the provision, protection, and enhancement of open space for the benefit and enjoyment of the people of New Zealand
 
@@ -19,7 +19,7 @@ In this Act, unless the context otherwise requires,—
   - **Minister** means the Minister of Conservation
   - **open space** means any area of land or body of water that serves to preserve or to facilitate the preservation of any landscape of aesthetic, cultural, recreational, scenic, scientific, or social interest or value
   - **owner** , in relation to any private land, includes any person having any interest in that land
-  - **private land** means any land that is for the time being held in fee simple by any person other than Her Majesty the Queen; and also means Maori land
+  - **private land** means any land that is for the time being held in fee simple by any person other than the Sovereign; and also means Maori land
   - **reserve** means a public reserve as defined in section 2(1) of the Reserves Act 1977
   - **Trust** means the Queen Elizabeth the Second National Trust established by section 3
   - **Trust Fund** means the National Trust Fund established by section 23
@@ -162,10 +162,8 @@ No director, or member of the Trust, or member of any committee, shall be person
 (2) No bylaw may be made under this section in derogation of the rights of any person having any legal or equitable interest in any Trust land to which the bylaw relates.
 (3) Any bylaw made under this section may be expressed to apply to all or any specified Trust land in respect of which bylaws may be made.
 (4) Notice in writing of every proposed resolution to make bylaws under this section or for the amendment or revocation of any bylaw so made (including a copy of the proposed bylaws, amendment, or revocation) shall be given to every director for the time being in New Zealand, not less than 21 days before the meeting at which the proposal is to be moved, but an inadvertent failure to comply with this subsection shall not invalidate the making, amendment, or revocation of any bylaw at that meeting.
-(5) No bylaws made under this section shall come into effect unless—
-  (a) they have been approved by the Minister; and
-  (b) the bylaws, as approved by the Minister, have been published by the board in the Gazette.
-(6) All bylaws made under this section shall, after they have been approved by the Minister, be notified by an advertisement as to their nature in at least 2 newspapers circulating in every locality in which any Trust land to which they relate is situated.
+(5) The board may not make bylaws under this section unless the Minister has approved the proposed bylaws.
+(6) Bylaws under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 18 Appointment of employees
 (1) The board shall from time to time appoint—
