@@ -1,5 +1,5 @@
 # Customs and Excise Act 2018
-_Consolidation as at 2021-10-05_
+_Consolidation as at 2021-10-28_
 
 ### 1 Title
 This Act is the Customs and Excise Act 2018.
@@ -23,6 +23,7 @@ This Act is the Customs and Excise Act 2018.
   - **specified date** means—
     (a) the date that immediately follows the 12-month period that starts with the date of Royal assent; or
     (b) an earlier date specified by the Governor-General by Order in Council.
+(6) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ## Part 1 — Preliminary provisions
 
@@ -1369,10 +1370,9 @@ No person may interfere with a Customs-approved export seal that has been applie
   (b) publishing it on an Internet site maintained by, or on behalf of, the Secretary.
 (8) To avoid doubt, any failure to publish a list under subsection (7) does not invalidate the prohibition of the exportation of any goods or classes of goods mentioned in the list.
 (9) An Order in Council that prohibits the exportation of goods extends and applies to the shipment of the goods for use as stores by a craft, except as otherwise specified in the order.
-(10) The explanatory note of an Order in Council under this section must indicate that—
-  (a) it is a confirmable instrument under section 47B of the Legislation Act 2012; and
-  (b) it is revoked at a time stated in the note, unless earlier confirmed by an Act of Parliament; and
-  (c) the stated time is the applicable deadline under section 47C(1)﻿(a) or (b) of that Act.
+(10) An order under this section—
+  (a) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements); and
+  (b) must be confirmed by an Act (see subpart 3 of Part 5 of the Legislation Act 2019).
 (11) In this section,—
   - **goods** includes documents that are not otherwise goods
   - **Secretary** means the Secretary of Foreign Affairs and Trade
@@ -1383,8 +1383,8 @@ No person may interfere with a Customs-approved export seal that has been applie
     (ii) exported goods or the exportation of goods (including (without limitation) for the purposes of the definition of prohibited exports in section 5(1)); but
   (b) are not goods for the purposes of section 12 of the Goods and Services Tax Act 1985.
 
-### 97 Prohibition on exports by Gazette notice: nuclear, biological, and chemical weapons, etc
-(1) The Secretary may, by notice in the Gazette after consultation with the Minister, prohibit the exportation of goods described by any use to which they may be put, if the Secretary considers that the prohibition is necessary in the public interest.
+### 97 Prohibition on exports by notice: nuclear, biological, and chemical weapons, etc
+(1) The Secretary may, by notice after consultation with the Minister, prohibit the exportation of goods described by any use to which they may be put, if the Secretary considers that the prohibition is necessary in the public interest.
 (2) A notice under subsection (1) must describe goods by reference only to uses that relate (directly or indirectly) to 1 or more of the following purposes:
   (a) the development, production, or deployment of nuclear explosive devices and their means of delivery:
   (b) the development, production, or deployment of biological weapons and their means of delivery:
@@ -1411,7 +1411,7 @@ No person may interfere with a Customs-approved export seal that has been applie
       (A) make a determination and notify the chief executive and the exporter in accordance with subsection (7); or
       (B) notify the exporter that the Secretary is not going to make a determination; and
   (c) the exportation of the goods is prohibited until the exporter receives the Secretary’s notification under paragraph (b)﻿(ii).
-(9) A notice under subsection (1) is a disallowable instrument for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
+(9) A notice under subsection (1) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 (10) In this section,—
   - **biological weapon** has the meaning given to that term in section 2 of the New Zealand Nuclear Free Zone, Disarmament, and Arms Control Act 1987
   - **chemical weapons** has the meaning given to that term in Article II of the Schedule of the Chemical Weapons (Prohibition) Act 1996
@@ -4181,10 +4181,11 @@ Nothing in this subpart limits, or prevents, the disclosure of information that 
   - **fines enforcement action** includes the execution of a warrant to arrest a person in respect of the non-payment of the whole, or of any part, of any fine
   - **serious default** , in relation to a person, means that—
     (a) the person owes—
-      (i) an amount of $1,000 (or any other amount not exceeding $5,000 that may be fixed by the Governor-General by Order in Council) or more in relation to 1 or more unpaid fines (other than an amount of reparation); or
+      (i) an amount of $1,000 (or any other amount not exceeding $5,000 that may be fixed by the Governor-General by Order in Council (see subsection (7))) or more in relation to 1 or more unpaid fines (other than an amount of reparation); or
       (ii) any amount of reparation; and
     (b) a warrant to arrest the person has been issued in respect of the non-payment of the whole, or of any part, of any amount referred to in paragraph (a); and
     (c) the warrant has not been withdrawn or executed.
+(7) An order under paragraph (a)﻿(i) of the definition of serious default in subsection (6) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 311 No Crown liability to third parties for fines enforcement action
 (1) This section applies to the taking of any fines enforcement action against a person who is alleged to be in serious default (the alleged defaulter), or to the questioning of any alleged defaulter with a view to taking any fines enforcement action, immediately—
@@ -5350,6 +5351,7 @@ The chief executive must pay all infringement fees that are received into a Crow
 (7) Fees and charges are a debt due to the Crown and may be recovered by the chief executive (on behalf of the Crown) in any court of competent jurisdiction.
 (8) A power to prescribe a rate of interest includes the power to prescribe the way in which the rate is to be determined.
 (9) This Act does not authorise the making of regulations prescribing fees and charges to recover the costs of processing travellers to which the Airports (Cost Recovery for Processing of International Travellers) Act 2014 applies.
+(10) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 404 Regulations in relation to stores
 Regulations may be made prescribing any of the following:
@@ -5426,7 +5428,7 @@ Regulations may prescribe the way in which the chief executive may sell goods un
 (2) The provisions may be incorporated in the regulations—
   (a) in whole or in part; and
   (b) with modifications, additions, or variations specified in the regulations.
-(3) Sections 49(4) and 51 to 57 of the Legislation Act 2012 apply in relation to the incorporation in regulations of provisions under this section.
+(3) Section 64(3) and Schedule 2 of the Legislation Act 2019 apply in relation to the incorporation in regulations of provisions under this section.
 
 **Border processing levy orders**
 
@@ -5442,6 +5444,7 @@ Regulations may prescribe the way in which the chief executive may sell goods un
   (d) how the rate of the levy, and any variation of the rate, is to be notified.
 (4) The Minister must, before recommending that a levy order be made under this section, consult the persons, representative groups, government departments, and Crown agencies that he or she considers reasonable and appropriate to consult in the circumstances.
 (5) A levy order must not be made in respect of the costs that are otherwise recovered, or otherwise to be recovered, under this Act or the Airports (Cost Recovery for Processing of International Travellers) Act 2014.
+(6) A levy order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 414 Contents of border processing levy order
 (1) A levy order under section 413 may—
@@ -5556,23 +5559,15 @@ If an order is made under section 413,—
   (b) any information that must be provided:
   (c) any declaration that must be provided.
 (3) Rules made under subsection (1) may make different provision for different cases on any differential basis.
-(4) Every rule made under subsection (1)—
-  (a) must be signed by the chief executive:
-  (b) must be notified in the Gazette:
-  (c) comes into force on the 28th day after the date of its notification in the Gazette or on a later date specified in the rule:
-  (d) is, for the purposes of the Legislation Act 2012, a disallowable instrument:
-  (e) must be presented to the House of Representatives under section 41 of the Legislation Act 2012.
-(5) Every notice under subsection (4)﻿(b) must state the place or places at which a copy of the rule is available—
-  (a) for inspection free of charge; and
-  (b) for purchase.
-(6) The chief executive must make copies of rules available—
-  (a) for inspection by members of the public free of charge; and
-  (b) for purchase by members of the public at a reasonable price.
+(4) Rules under this section—
+  (a) are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements); and
+  (b) come into force on a date specified in them, being not less than 28 days after the rules are published under that Act.
+(5)
+(6)
 (7) The chief executive’s power to make rules under subsection (1) cannot be delegated to another person.
 
 ### 422 Interaction with subpart 1 of Part 3 of Legislation Act 2012
-(1) Except as otherwise expressly provided, an instrument made by Customs under this Act is not a disallowable instrument for the purposes of the Legislation Act 2012 and does not have to be presented to the House of Representatives under section 41 of that Act.
-(2) In this section, Customs includes the chief executive and any Customs officer.
+[Repealed]
 
 ### Subpart 4 — Miscellaneous provisions
 
@@ -5685,9 +5680,7 @@ If an order is made under section 413,—
 In any proceeding under this Act, other than a prosecution for an offence under section 329, 330, 370, or 390, the court may admit in evidence, as proof of any fact in issue, a document made in a country other than New Zealand, whether the document is legally admissible as evidence in other proceedings or not.
 
 ### 431 Proof of rules made by chief executive
-In any court or proceedings, the production of—
-  (a) a copy of any rule purporting to have been made by the chief executive under section 421(1) is, in the absence of proof to the contrary, sufficient evidence of the rule and the fact that it has been made in accordance with the relevant provisions of this Act; and
-  (b) a copy of the Gazette notice in which the rule was notified is, in the absence of proof to the contrary, sufficient evidence of the existence, notification, and date of coming into force of the rule.
+[Repealed]
 
 **Limitation**
 
@@ -5742,6 +5735,7 @@ Subject to any limitation imposed by regulations, the chief executive may, witho
   (a) in relation to the China FTA, the People’s Republic of China:
   (b) in relation to AANZFTA, a specified AANZFTA party (see subsection (8)).
 (8) The Governor-General may, by Order in Council, declare a country that is a party to AANZFTA to be a specified AANZFTA party for the purposes of this section.
+(9) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 436 Fish, etc
 (1) This section applies for the purposes of this Act and the Tariff Act 1988.
@@ -6181,6 +6175,7 @@ If an instrument specified in Part 4 of Schedule 9 is amended or revoked on or b
     (iii) provide for any other matter that is reasonably necessary for the purpose referred to in subclause (1).
 (4) An order cannot be made under this clause after the expiry of the 36-month period that starts with the specified date.
 (5) An order made under this clause is revoked at the close of that 36-month period.
+(6) An order under this clause is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### Part 2 — Provisions relating to Tribunals Powers and Procedures Legislation Act 2018
 
@@ -6416,11 +6411,12 @@ Excise-equivalent duty is levied in respect of any goods specified in Part B of 
 
 ### 17 Access to Excise and Excise-equivalent Duties Table
 (1) The chief executive must—
-  (a) ensure that copies of the documents referred to in subclause (2) are published on an Internet site that is, so far as practicable, publicly available free of charge; and
+  (a)
   (b) ensure that copies of the documents referred to in subclause (2) are available for purchase at a reasonable price at the places specified in a notice given under subsection (5).
 (2) The documents are as follows:
   (a) the Excise and Excise-equivalent Duties Order as originally made:
-  (b) any other Order in Council made under this Part of this schedule:
+  (b) an order under clause 20, 21, 23, or 25(1):
+  (ba) a notice under clause 25(2):
   (c) the Excise and Excise-equivalent Duties Table as in force from time to time.
 (3) Every version of the Excise and Excise-equivalent Duties Table that is published or made available under subclause (1) in accordance with subclause (2)﻿(c) must—
   (a) indicate that it is that table as in force at the beginning of a stated date; and
@@ -6445,9 +6441,10 @@ The following provisions apply for the purposes of the Excise and Excise-equival
 **Powers to modify or amend Table**
 
 ### 20 Power to suspend and modify rates of duty
-The Governor-General—
+(1) The Governor-General—
   (a) may, by Order in Council, suspend the rates of duty specified in the Excise and Excise-equivalent Duties Table in whole or in part; and
   (b) may, by the same or a subsequent Order in Council, provide for a rate of duty that is lower than a suspended rate of duty to apply instead of the suspended rate until the suspension ends.
+(2) An order under this clause must be confirmed by an Act (see subpart 3 of Part 5 of the Legislation Act 2019).
 
 ### 21 Power to change rates of duty on alcoholic products and tobacco products
 (1) The Governor-General may, by Order in Council, amend the Excise and Excise-equivalent Duties Table so as to change a rate of duty that applies to an alcoholic product or a tobacco product.
@@ -6457,6 +6454,7 @@ The Governor-General—
   (a) the quarter ending on 31 March in the calendar year in which the new rate is to come into force, if the rate applies to an alcoholic product; or
   (b) the quarter ending on 30 September immediately before the calendar year in which the new rate is to come into force, if the rate applies to a tobacco product
 (5)
+(5A) An order under this clause must be confirmed by an Act (see subpart 3 of Part 5 of the Legislation Act 2019).
 (6) In this clause,—
   - **alcoholic product** means any goods specified in—
     (a) any of items 99.05 to 99.50 in Part A of the Excise and Excise-equivalent Duties Table; or
@@ -6471,46 +6469,42 @@ The Governor-General—
 ### 23 Power to change rates of duty on motor spirits
 (1) The Governor-General may, by Order in Council, amend the Excise and Excise-equivalent Duties Table so as to change a rate of duty that applies to a motor spirit.
 (2) A change in a rate of duty that applies to a motor spirit may come into force only in the second or third financial year that follows the financial year in which the current rate came into force.
+(2A) An order under this clause that increases a rate of duty must be confirmed by an Act (see subpart 3 of Part 5 of the Legislation Act 2019).
+(2B) A determination under the definition of financial year in subclause (3) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 (3) In this clause,—
-  - **financial year** means a period of 12 months ending with 30 June or any other date determined for the purposes of this clause by the Minister of Finance and notified in the Gazette
+  - **financial year** means a period of 12 months ending with 30 June or any other date determined for the purposes of this clause by the Minister of Finance
   - **motor spirits** means any fuels that are—
     (a) motor spirit, or fuels that contain motor spirit; or
     (b) specified in any of the following items:
       (i) items 99.75.05F, 99.75.13G, 99.75.23D, 99.75.29C, 99.75.33A, 99.75.37D, 99.75.51K, 99.75.59E, 99.75.73L, 99.75.81A, and 99.75.93E in Part A of the Excise and Excise-equivalent Duties Table:
       (ii) items 2207.20.23, 2207.20.35, 2710.12.15, 2710.12.17, 2710.12.19, 2710.12.23, 2710.12.25, 2710.12.29, 2710.19.34, 2710.19.42, 2710.20.21, 2710.20.25, 3824.99.31, 3824.99.35, and 3826.00.20 in Part B of that table.
 
-### 24 Orders in Council under clauses 20, 21, and 23 are confirmable instruments, etc
-(1) This clause applies to the following Orders in Council:
-  (a) an order made under clause 20 or 21:
-  (b) an order made under clause 23 that increases a rate of duty.
-(2) The explanatory note of the order must indicate that—
-  (a) it is a confirmable instrument under section 47B of the Legislation Act 2012; and
-  (b) it is revoked at a time stated in the note, unless earlier confirmed by an Act of Parliament; and
-  (c) the stated time is the applicable deadline under section 47C(1)﻿(a) or (b) of that Act.
-(3) If the House of Representatives resolves that the order should be revoked or varied,—
-  (a) the order must be treated as having been revoked or varied in accordance with the terms of the resolution; and
-  (b) any duty collected under the order in excess of the duty otherwise payable must, so far as that resolution provides, be refunded.
+### 24 Effect of disallowance or resolution to amend or replace Order in Council under clause 20, 21, or 23
+(1) This clause applies if—
+  (a) an Order in Council is made under clause 20 or 21, or is made under clause 23 and increases a rate of duty; and
+  (b) the House of Representatives resolves to—
+    (i) disallow the order under section 116 of the Legislation Act 2019; or
+    (ii) amend or replace the order under section 119 of that Act.
+(2) Any duty collected under the order in excess of the duty otherwise payable must, so far as that resolution provides, be refunded.
 
 ### 25 Powers to amend Excise and Excise-equivalent Duties Table for other limited purposes
 (1) The Governor-General may, by Order in Council, amend the Excise and Excise-equivalent Duties Table by—
   (a) revoking, inserting, or amending any heading, heading number, subheading, item, or item number or the title of any Part, section, chapter, or subchapter of the Tariff referred to in the Excise and Excise-equivalent Duties Table in any manner necessary to ensure that that table conforms to the Tariff; or
   (b) revoking, suspending, or amending a provision of the notes forming part of the Excise and Excise-equivalent Duties Table, or by inserting a new provision in the notes, for the purpose of ensuring the proper operation of the Excise and Excise-equivalent Duties Table; or
   (c) revoking, suspending, inserting, or amending a statistical unit in the Excise and Excise-equivalent Duties Table.
-(2) The chief executive may also, by notice in the Gazette, revoke, suspend, insert, or amend a statistical unit in the Excise and Excise-equivalent Duties Table.
+(2) The chief executive may also, by notice, revoke, suspend, insert, or amend a statistical unit in the Excise and Excise-equivalent Duties Table.
 (3) No amendment made under this clause may alter the duties or exemptions from duty under this Act applicable to goods classified under an item or heading so amended.
 
-**Legislation Act 2012, etc**
+**Legislation Act 2019**
 
-### 26 Application of Legislation Act 2012, etc
-(1) Subclauses (2) and (3) apply to any Order in Council made under this Part of this schedule.
-(2) The order—
-  (a) is not a legislative instrument for the purposes of the Legislation Act 2012; and
-  (b) is a disallowable instrument for the purposes of that Act; and
-  (c) must be presented to the House of Representatives under section 41 of that Act; and
-  (d) is not to be drafted by the Parliamentary Counsel Office under section 59(2)﻿(a) of that Act.
-(3) All courts and persons acting judicially must take judicial notice of the order.
-(4) Subclause (5) applies to a notice given in the Gazette under this Part of this schedule.
-(5) The notice is a disallowable instrument for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
+### 26 Application of Legislation Act 2019 to Excise and Excise-equivalent Duties Order and related instruments
+(1) The following are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements):
+  (a) the Excise and Excise-equivalent Duties Order:
+  (b) an order under clause 20, 21, 23, or 25(1):
+  (c) a notice under clause 25(2).
+(2) However, in relation to that legislation,—
+  (a) section 67(d)﻿(i) of the Legislation Act 2019 does not apply; and
+  (b) section 26 of that Act is subject to clauses 21(2) and (3) and 23(2).
 
 ### Part 4 — International organisations based in New Zealand, etc
 
@@ -6521,6 +6515,7 @@ The Governor-General—
     (ii) are established or temporarily based in New Zealand under an agreement or arrangement entered into by or on behalf of the Government of New Zealand with the Government of any other country or with the United Nations; or
   (b) are supplied solely for the use of persons temporarily resident in New Zealand for the purpose of serving as a member of an organisation, expedition, or other body to which paragraph (a) applies.
 (2) The chief executive may impose conditions in respect of goods or a class of goods to which an order made under this clause relates.
+(3) An order under subclause (1) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### Part 5 — Amendments to be made to Excise and Excise-equivalent Duties Table as in force under Customs and Excise Act 1996
 
