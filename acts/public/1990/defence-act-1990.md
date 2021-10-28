@@ -1,5 +1,5 @@
 # Defence Act 1990
-_Consolidation as at 2020-08-07_
+_Consolidation as at 2021-10-28_
 
 > An Act—ato continue to authorise the raising and maintaining of armed forces for certain purposes; andbto constitute the New Zealand Defence Force, comprising—ithe Armed Forces under the command of the Chief of Defence Force; andiithe Civil Staff under the control of the Chief of Defence Force; andcto reaffirm that the Armed Forces are under Ministerial authority; anddto define the respective roles and relationships of the Minister of Defence, the Secretary of Defence, and the Chief of Defence Force; andeto redefine the relationship of the Chief of Defence Force to the Chiefs of Service; andfto make provision generally in respect of the establishment, control, and activities of the New Zealand Defence Force, and related matters
 
@@ -30,7 +30,7 @@ _Consolidation as at 2020-08-07_
   - **defence area** means any land, water, or part of the seabed, or any building, or part of a building, either in New Zealand or elsewhere, that is set apart, used, or occupied for the purposes of the Defence Force, whether the property is owned by the Crown or is used or occupied by or on behalf of the Defence Force with the consent of the owner or is requisitioned under section 10(2)﻿(b); and more particularly includes—
     (a) every naval establishment, army camp, and air force base:
     (b) any arsenal and any other place used for the purpose of building, repairing, making, or storing munitions or equipment for or belonging to the Defence Force:
-    (c) any land, or any building or part of a building, declared by Order in Council or Defence Force Order to be a defence area for the purposes of this Act
+    (c) any land, or any building or part of a building, declared by Order in Council (see subsection (5)) or Defence Force Order to be a defence area for the purposes of this Act
   - **Defence Force** means the New Zealand Defence Force constituted by section 11(1)
   - **enemy** means any country, or any armed force, or any authority or government controlling any such force, with which New Zealand, or any force acting in co-operation with any part of the Armed Forces of New Zealand, is at war or is engaged in armed combat operations; and includes—
     (a) any member of any such armed force or any member of that authority or government, as the case may be:
@@ -103,6 +103,7 @@ _Consolidation as at 2020-08-07_
   (a) that member, or that component or the part of that component in which that member is serving, is transferred to another component of that Service; or
   (b) in the case of an officer only, that member is placed on the Retired List of that Service.
 (4) For the purposes of this Act, unless the context otherwise requires, a member of any component of a Service is discharged from the Service when, otherwise than by release, that member leaves that component in accordance with Defence Force Orders.
+(5) An Order in Council under paragraph (c) of the definition of defence area in subsection (1) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 3 Act to bind the Crown
 This Act shall bind the Crown.
@@ -344,11 +345,15 @@ A member of one Service may, with that member’s written consent, be transferre
 (2) Where under subsection (1) the Minister relieves the Chief of Defence Force of responsibility for any function, the Minister shall impose that responsibility on some other member of the Defence Force; and that officer shall be and remain responsible to the Minister for the performance of that function until relieved of that responsibility by the Minister.
 
 ### 27 Defence Force Orders
-(1) In performing the functions and duties and exercising the powers of the Chief of Defence Force, the Chief of Defence Force may from time to time, for the purposes of this Act, issue and promulgate Defence Force Orders, not inconsistent with this Act, the Armed Forces Discipline Act 1971, or any other enactment.
-(2) Any officer or person duly authorised by the Chief of Defence Force, either by name or appointment, may issue and promulgate Defence Force Orders.
+(1) In performing the functions and duties and exercising the powers of the Chief of Defence Force, the Chief of Defence Force may from time to time, for the purposes of this Act, issue Defence Force Orders, not inconsistent with this Act, the Armed Forces Discipline Act 1971, or any other enactment.
+(2) Any officer or person duly authorised by the Chief of Defence Force, either by name or appointment, may issue Defence Force Orders.
 (3) The production of a document that purports to be a copy of a Defence Force Order and that includes a copy of the signature of the Chief of Defence Force, or of any officer or other person duly authorised by the Chief of Defence Force to sign such copies, shall, in the absence of proof to the contrary, be sufficient evidence of the order in all courts and proceedings and for all other purposes.
 (4) Subject to subsection (5), every order issued under this section shall come into force on such date as may be specified in the order, being the date of the order or any other date after the date on which it was issued.
 (5) Any order issued under this section relating to terms and conditions of service of members of the Armed Forces and conferring benefits on any such members may have effect from a date before the date of the issue of the order.
+
+### 27A Application of Legislation Act 2019 to Defence Force Orders
+(1) A Defence Force Order under section 27 is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements), unless the order applies only to 1 or more named persons.
+(2) A Defence Force Order that is secondary legislation commences in accordance with section 27(4), even if it is not yet published.
 
 ### 28 Chiefs of Service
 (1) The Governor-General in Council may from time to time appoint any officer of the Royal New Zealand Navy to be Chief of Navy, who shall hold such rank as the Governor-General in Council may determine, and who shall—
@@ -958,11 +963,13 @@ If any amount in respect of pay, allowances, or other emoluments is paid to a me
 Except as may be prescribed from time to time, any order, direction, instruction, or decision required or authorised by or under this Act or by the Armed Forces Discipline Act 1971 to be made, given, or executed by a person who is employed in the Defence Force or the Ministry of Defence may be made, given, or executed by any person authorised by or under this Act for the purpose; and any instrument containing any such order, direction, instruction, or decision and purporting to be signed by a person stated in the instrument to be so authorised shall, in the absence of proof to the contrary, be evidence in all courts and proceedings and for all other purposes that the person who signed it had the necessary authority to do so.
 
 ### 99 Proclamations, etc
-All Proclamations, Orders in Council, and warrants relating to the Defence Force shall be deemed to be sufficiently notified to all persons whom they purport to affect by being published in the Gazette or, as the case may require, in Defence Force Orders.
+(1) All Proclamations, Orders in Council, and warrants relating to the Defence Force shall be deemed to be sufficiently notified to all persons whom they purport to affect by being published in the Gazette or, as the case may require, in Defence Force Orders.
+(2) However, if the instrument is secondary legislation, it is deemed to be sufficiently notified to all persons whom it purports to affect by being published under the Legislation Act 2019.
 
 ### 100 Promulgation of orders
 (1) All orders given under the authority of or in execution of this Act or under the Armed Forces Discipline Act 1971 by any officer of the Defence Force shall be valid and effectual if given orally, or by advertisement in a newspaper circulating in the locality, or by a printed or written notice affixed at a place previously appointed for the purpose, or issued in any other manner customary in the Defence Force, except in cases where this Act or the Armed Forces Discipline Act 1971 specially requires any such order to be in writing.
 (2) An order deviating from the prescribed form, if otherwise valid, shall not be rendered invalid by reason only of any such deviation.
+(3) This section does not apply to a Defence Force Order that is stated by this Act or any other legislation to be secondary legislation.
 
 ### 101 Regulations
 (1) The Governor-General may from time to time, by Order in Council, make regulations, not inconsistent with this Act, for all or any of the following purposes:
@@ -987,6 +994,9 @@ All Proclamations, Orders in Council, and warrants relating to the Defence Force
   (i) providing for such matters as are contemplated by or necessary for giving full effect to this Act and for its due administration.
 (2) All regulations made under this section shall come into force on such date as may be specified in the regulations, being the date of the regulations or on any other date after the date on which they were made; except that any such regulations that confer a benefit on any person may have effect from a date before the date on which the regulations were made.
 (3) Any such regulations may relate to the Defence Force generally or to any specified part of the Defence Force.
+(4) Regulations under this section—
+  (a) are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements); but
+  (b) commence in accordance with subsection (2), even if they are not yet published.
 
 ### 102 Transitional provisions
 (1) Every reference in any Act to the New Zealand Naval Forces or the Naval Forces, or to the New Zealand Army or the Army, or to the Royal New Zealand Air Force or the Air Force means the New Zealand Naval Forces, the New Zealand Army, or the Royal New Zealand Air Force, as the case may be, constituted under section 11.
