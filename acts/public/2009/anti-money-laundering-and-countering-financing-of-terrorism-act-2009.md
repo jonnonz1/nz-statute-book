@@ -1,5 +1,5 @@
 # Anti-Money Laundering and Countering Financing of Terrorism Act 2009
-_Consolidation as at 2021-05-11_
+_Consolidation as at 2021-10-28_
 
 ### 1 Title
 This Act is the Anti-Money Laundering and Countering Financing of Terrorism Act 2009.
@@ -10,6 +10,7 @@ This Act is the Anti-Money Laundering and Countering Financing of Terrorism Act 
 (3) Except as provided in subsection (5), the rest of this Act comes into force on a date to be appointed by the Governor-General by Order in Council.
 (4) One or more Orders in Council may be made appointing different dates for the commencement of different provisions.
 (5) However, section 162 may not be brought into force unless every provision of Part 2 has been brought into force.
+(6) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ## Part 1 — Preliminary provisions
 
@@ -384,6 +385,7 @@ This Act is the Anti-Money Laundering and Countering Financing of Terrorism Act 
       (H) must keep records of any audits under section 51(1)﻿(b), (2), and (3):
       (I) must audit its AML/CFT compliance obligations under section 59A if requested by an AML/CFT supervisor:
   (e) in the case of a casino, the casino carries out activities that may give rise to a risk of money laundering or financing of terrorism.
+(5) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 7 Amounts not in New Zealand currency
 (1) This section applies if, for the purposes of this Act or regulations, it is necessary to determine whether the amount of any cash (whether alone or together with any other amount of cash)—
@@ -1101,16 +1103,17 @@ In this Part, unless the context otherwise requires,—
   (a) approve the proposed code of practice as prepared by the AML/CFT supervisor; or
   (b) approve the proposed code of practice as amended by the AML/CFT supervisor; or
   (c) approve the proposed code of practice as amended by the Minister after consultation with the AML/CFT supervisor.
-(6) The responsible Minister approves a code of practice by notice in the Gazette, and the notice—
-  (a) must either set out the code of practice or state where copies of the code of practice in hard copy or electronic format may be obtained or viewed:
-  (b) is a disallowable instrument, but not a legislative instrument, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
+(6) A code of practice is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+(7) That Act applies as if—
+  (a) the Minister were the maker of the code of practice; and
+  (b) the code of practice were made by the Minister approving it.
 
 ### 65 Amendment and revocation of codes of practice
 (1) A code of practice may be amended or revoked in the same manner as that in which it was made.
 (2) Sections 63, 64, 66, and 67 apply with the necessary modifications to the amendment or revocation of a code of practice.
 
 ### 66 Proof of codes of practice
-Publication in the Gazette of a notice under section 64(6) is conclusive evidence that the requirements of sections 64(1) to (5) and 65 have been complied with in respect of the approval specified in the notice.
+Publication under the Legislation Act 2019 of a code of practice is conclusive evidence that the requirements of sections 64(1) to (5) and 65 have been complied with.
 
 ### 67 Legal effect of codes of practice
 (1) A reporting entity complies with an obligation imposed on it by or under this Act or regulations by—
@@ -1671,6 +1674,7 @@ An AML/CFT supervisor may only use information obtained under section 137 if the
   (a) the agencies and regulators that may be affected by the proposed regulations; and
   (b) the Privacy Commissioner; and
   (c) any other person or body that the Minister considers may be affected by the proposed regulations.
+(3) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 140 Power to use and disclose information supplied or obtained under other enactments for AML/CFT purposes
 (1) A government agency or an AML/CFT supervisor may disclose to any other AML/CFT supervisor or government agency any information supplied or obtained under an enactment listed in subsection (2) if the disclosing entity has reasonable grounds to believe that the disclosure of that information is necessary or desirable for the purpose of ensuring compliance with this Act and regulations.
@@ -1812,7 +1816,7 @@ The functions of the AML/CFT co-ordination committee are to—
 **Regulations**
 
 ### 153 Regulations
-The Governor-General may, by Order in Council, make regulations for all or any of the following purposes:
+(1) The Governor-General may, by Order in Council, make regulations for all or any of the following purposes:
   (a) prescribing requirements (generic and sector-specific) for standard, simplified, enhanced, and ongoing customer due diligence and any other AML/CFT requirements, including, but not limited to, the following:
     (i) information to be provided or obtained for the purposes of identification and verification:
     (ii) the circumstances in which a particular type of customer due diligence must be conducted:
@@ -1830,6 +1834,7 @@ The Governor-General may, by Order in Council, make regulations for all or any o
   (h) prescribing for the form of a formal warning and the manner in which it must be issued:
   (i) specifying Acts for which disclosure of personal information may be made by an AML/CFT supervisor for the purposes of the detection, investigation, and prosecution of offences under the specified Act:
   (j) providing for any other matters contemplated by this Act or necessary for its administration or necessary for giving it full effect.
+(2) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 154 Regulations relating to application of Act
 (1) The Governor-General may, by Order in Council on the recommendation of the Minister, make regulations for the following purposes:
@@ -1863,6 +1868,7 @@ The Governor-General may, by Order in Council, make regulations for all or any o
   (c)
   (d) make copies of the recommendation available for inspection by any person who so requests before any regulations are made in accordance with the recommendation.
 (4) Failure to comply with subsection (3) does not affect the validity of any regulations made under this section.
+(5) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 (5)
 
 ### 155 Regulations relating to countermeasures
@@ -1875,6 +1881,9 @@ The Governor-General may, by Order in Council, make regulations for all or any o
     (iii) a specified overseas country.
 (3) The Governor-General may, by Order in Council, declare a country outside New Zealand to be a prescribed overseas country for the purposes of this section.
 (4) Any regulations made under subsection (1) expire on the day that is 5 years after the date on which regulations come into force.
+(5) The following are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements):
+  (a) regulations under subsection (1):
+  (b) an order under subsection (3).
 
 ### 156 Consultation not required for consolidation of certain regulations and minor amendments
 The Minister is not required to comply with section 154(3) in respect of the making of any regulations to the extent that regulations—
@@ -1910,15 +1919,10 @@ The Minister is not required to comply with section 154(3) in respect of the mak
   (e) the level of regulatory burden to which the reporting entity would be subjected in the absence of an exemption:
   (f) whether the exemption would create an unfair advantage for the reporting entity or disadvantage third party reporting entities:
   (g) the overall impact that the exemption would have on the integrity of, and compliance with, the AML/CFT regulatory regime.
-(4) An exemption under this section is a disallowable instrument but not a legislative instrument for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
-(5) A class exemption under this section is a legislative instrument and must be published under section 6 of the Legislation Act 2012 and, for this purpose, class exemption—
-  (a) means an exemption of general application that applies to a class of reporting entities or transactions; but
-  (b) does not include an exemption granted in relation to a particular reporting entity or transaction.
-(6) An exemption under this section that is not a class exemption under subsection (5) must, as soon as practicable after being granted, be—
-  (a) published on an Internet site maintained by or on behalf of the chief executive; and
-  (b) notified in the Gazette; and
-  (c) made available in printed form for purchase on request by members of the public.
-(7) A notification in the Gazette for the purpose of subsection (6)﻿(b) does not have to incorporate the exemption.
+(4) An exemption under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+(5)
+(6)
+(7)
 
 ### 158 Minister must consult before granting exemption
 Before granting an exemption under section 157, the Minister must consult with—
@@ -1982,12 +1986,13 @@ Any application for an exemption under section 157 that has been lodged but not 
 **Suspicious transaction reports continue until 1 July 2018 or earlier date appointed by Order in Council**
 
 ### 5 Reporting entity must continue to report suspicious transactions
-Despite section 25 of the 2017 Act, in the period between the commencement of this clause and 1 July 2018 or an earlier date appointed by the Governor-General by Order in Council,—
+(1) Despite section 25 of the 2017 Act, in the period between the commencement of this clause and 1 July 2018 or an earlier date appointed by the Governor-General by Order in Council,—
   (a) a reporting entity must comply with sections 40, 41, and 43 to 48 (as they read before the commencement of section 25 of the 2017 Act) (which relate to suspicious transaction reports); and
   (b) a reporting entity and any other person may rely on section 42 of the principal Act (as inserted by section 25 of the 2017 Act); and
   (c) a reporting entity must not comply with sections 39A, 41, and 43 to 48 (as inserted by section 25 of the 2017 Act); and
   (d) for the purposes of giving effect to paragraphs (a) and (c), section 42 (as inserted by section 25 of the 2017 Act) and sections 139, 140, 142, 143, 144, 145, 146, 147, 148, 153, and 154 (as amended or inserted by sections 50 to 61 of the 2017 Act) apply with any necessary modifications; and
   (e) subject to paragraphs (b) and (d), for the purposes of, and to the extent necessary for, giving effect to paragraphs (a) and (c), this Act (as it read before the enactment of the 2017 Act) continues in force.
+(2) An order under this clause is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 6 Treatment of existing suspicious transaction reports
 If, on the commencement of section 25, the Commissioner of Police holds 1 or more suspicious transaction reports given to the Commissioner before the commencement of section 50, the provisions of this Act (as amended by the 2017 Act) apply to those reports as if they were suspicious activity reports.
