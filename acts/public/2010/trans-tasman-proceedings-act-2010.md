@@ -1,5 +1,5 @@
 # Trans-Tasman Proceedings Act 2010
-_Consolidation as at 2017-03-01_
+_Consolidation as at 2021-10-28_
 
 ### 1 Title
 This Act is the Trans-Tasman Proceedings Act 2010.
@@ -7,6 +7,7 @@ This Act is the Trans-Tasman Proceedings Act 2010.
 ### 2 Commencement
 (1) Parts 1 and 2 and Schedules 1 and 2 come into force on a date appointed by the Governor-General by Order in Council.
 (2) The rest of this Act comes into force on the day after the date on which this Act receives the Royal assent.
+(3) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ## Part 1 — Preliminary and general provisions
 
@@ -127,11 +128,12 @@ This Act is the Trans-Tasman Proceedings Act 2010.
   - **Trans-Tasman Agreement** means the Agreement between the Government of New Zealand and the Government of Australia on Trans-Tasman Court Proceedings and Regulatory Enforcement done at Christchurch on 24 July 2008, the text of which is set out in Schedule 1
   - **working day** , of a New Zealand court or tribunal in relation to a proceeding in the court or tribunal, has the same meaning—
     (a) as in the court's or tribunal's procedural rules; or
-    (b) if those rules do not define the term, as in section 29 of the Interpretation Act 1999.
+    (b) if those rules do not define the term, as in section 13 of the Legislation Act 2019.
 (2) The Governor-General may, by Order in Council,—
   (a) specify other kinds of relief the seeking of which in a proceeding in the Federal Court of Australia makes it an Australian trans-Tasman market proceeding for the purposes of Parts 1 and 2 and under paragraph (b) of the definition of that term in subsection (1):
   (b) declare an arrangement or matter to be excluded from the operation of subpart 1 or 5, or subparts 1 and 5, of Part 2 for the purposes of paragraph (d) of the definition of excluded matter in subsection (1):
   (c) specify any other Australian law for the purposes of paragraph (d) of the definition of proceeds of crime legislation in subsection (1).
+(3) An order under subsection (2) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 5 References to repealed Australian enactments
 A reference in, or in any regulations made under, this Act to a repealed Australian enactment is a reference to an Australian enactment that, with or without modification, replaces, or that corresponds to, the Australian enactment repealed.
@@ -146,7 +148,7 @@ This Act binds the Crown.
 (1) The Governor-General may, by Order in Council, make regulations—
   (a) prescribing applications, forms, notices, and other documents for the purposes of this Act, and requiring their use:
   (b) providing for any other matters contemplated by this Act or necessary for its administration or necessary for giving it full effect.
-(2) Every Order in Council under any other provision of this Act is a legislative instrument and a disallowable instrument for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
+(2) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 9 Procedural rules
 (1) Rules may be made, under any powers given by any Act to make procedural rules of a court or tribunal, prescribing anything that is required to be prescribed or necessary for carrying this Act into effect.
@@ -180,6 +182,7 @@ This Act binds the Crown.
   (a) declare a New Zealand tribunal to be a tribunal to which this subpart applies:
   (b) declare a civil proceeding in a New Zealand tribunal to be a proceeding to which this subpart does not apply.
 (4) An order under subsection (3)﻿(a) must not declare a tribunal to be one to which this subpart applies unless, when the order is made, the tribunal is prescribed for the purposes of section 66(1)﻿(b)﻿(i) (which relates to enforcement in Australia of New Zealand judgments) of the Australian Act.
+(5) An order under subsection (3) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 13 Service of initiating documents in Australia
 (1) An initiating document for the proceeding may be served in Australia under this subpart.
@@ -197,6 +200,7 @@ Service in Australia under section 13 of an initiating document has the same eff
   (a) steps that the defendant must or may take in relation to the proceeding; and
   (b) consequences of the document being served on the defendant in Australia under section 13.
 (3) The Governor-General may, by Order in Council, make regulations prescribing information for the defendant for the purposes of, and under, this section.
+(4) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 16 Consequences of failing to provide information
 (1) Failure to comply with section 15(1) does not invalidate—
@@ -277,6 +281,7 @@ Service in Australia under section 13 of an initiating document has the same eff
 (5) The Governor-General may, by Order in Council, make regulations—
   (a) requiring or permitting the defendant's application under section 22 for a stay to be served on people other than the plaintiff and the defendant:
   (b) prescribing a period for the purposes of subsection (4)﻿(c).
+(6) Regulations under subsection (5) are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 24 Order of stay of proceeding
 (1) On an application under section 22, the New Zealand court may, by order, stay the proceeding if it is satisfied that an Australian court—
@@ -342,6 +347,7 @@ An order under section 24 or 25 may be made subject to any conditions the New Ze
   (c) a warrant of arrest of property:
   (d) any action, assistance, order, or other relief under subpart 1 or 2 of Part 4 of the Evidence Act 2006.
 (3) The Governor-General may, by Order in Council, declare a New Zealand court (other than the High Court) to be a court to which subsection (1)﻿(b) applies.
+(4) An order under subsection (3) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 32 Giving of interim relief in support of Australian proceeding
 (1) On an application under section 31(1), the New Zealand court may give interim relief (other than excluded interim relief) in support of the Australian proceeding if—
@@ -394,6 +400,7 @@ Nothing in the Courts (Remote Participation) Act 2010 applies to any remote appe
   (b) for an order under subpart 2 staying the proceeding; and
   (c) to be determined with a hearing in which the defendant is, under section 23(4), to appear remotely from Australia.
 (3) The Governor-General may, by Order in Council, declare a New Zealand tribunal to be a tribunal to which sections 38 to 43 apply.
+(4) An order under subsection (3) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 38 New Zealand courts or tribunals may give parties in Australia leave to appear remotely in civil proceedings
 (1) The New Zealand court or tribunal may, on an application for the purpose, give a party to the proceeding, the party's counsel, or both leave to appear remotely in 1 or more hearings in or related to the proceeding using—
@@ -550,6 +557,7 @@ An officer of a New Zealand court or tribunal may, at the request of an Australi
 (4) For the purposes of subsection (1), a judgment must be treated as final and conclusive even if—
   (a) a person may appeal against it in an Australian court; or
   (b) an appeal against it in an Australian court has not been finally determined.
+(5) An order under subsection (3) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 55 Orders applying subpart to Australian tribunals and their orders
 (1) The Governor-General may, by Order in Council,—
@@ -558,6 +566,7 @@ An officer of a New Zealand court or tribunal may, at the request of an Australi
 (2) Orders of an Australian tribunal must not be declared under subsection (1)﻿(b) to be orders to which this subpart applies unless those orders are—
   (a) made by the Australian tribunal in or in connection with the performance of an adjudicative function; and
   (b) enforceable (with or without being filed or registered in a court) without an order of a court.
+(3) An order under subsection (1) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 56 Application to register Australian judgment
 (1) An entitled person may apply to the Registrar of a New Zealand court to register in that court an Australian judgment if that court is—
@@ -573,6 +582,7 @@ An officer of a New Zealand court or tribunal may, at the request of an Australi
 (3) The Governor-General may, by Order in Council, make regulations prescribing the form of, and requirements for, an application under this section.
 (4) Requirements prescribed under subsection (3) may be or include requirements that specified documents be lodged or filed in a specified way, and with, or within a specified time after the lodging or filing of, the application.
 (5) Subsection (4) does not limit subsection (3).
+(6) Regulations under subsection (3) are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 57 Registration of registrable Australian judgments
 (1) A Registrar of a New Zealand court must, on application under section 56, register in that court under this subpart a registrable Australian judgment.
@@ -582,10 +592,11 @@ An officer of a New Zealand court or tribunal may, at the request of an Australi
 (1) If a sum of money payable under a registrable Australian judgment is expressed in a currency other than New Zealand currency, the judgment must be registered in the New Zealand court under section 57,—
   (a) if an entitled person has requested in the application for registration that the judgment be registered in a particular currency, in that currency; and
   (b) in any other case, as if it were for an equivalent amount in New Zealand currency, calculated using the rate of exchange on the working day (the conversion day) before the day on which the entitled person made the application for registration.
-(2) Working day, in subsection (1)﻿(b), has the same meaning as in section 29 of the Interpretation Act 1999.
+(2) Working day, in subsection (1)﻿(b), has the same meaning as in section 13 of the Legislation Act 2019.
 (3) The rate of exchange on the conversion day is that determined in the prescribed manner.
 (4) The Governor-General may, by Order in Council, make regulations prescribing the manner of determining the rate of exchange on the conversion day.
 (5) This section is subject to section 59 (money judgments partly satisfied).
+(6) Regulations under subsection (4) are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 59 Money judgments partly satisfied when entitled person applies for registration
 A money judgment that has been partly satisfied at the time at which an entitled person applies for registration of that judgment may be registered under section 57 only in respect of the balance remaining payable under that judgment at that time.
@@ -619,6 +630,7 @@ A money judgment that has been partly satisfied at the time at which an entitled
 (4) The Governor-General may, by Order in Council, make regulations prescribing—
   (a) the form of notice to be given under subsection (1):
   (b) the manner of giving notice under subsection (1).
+(5) Regulations under subsection (4) are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 63 Effect of registration and notification
 (1) A registered Australian judgment has the same force and effect, and may give rise to the same proceedings for enforcement, as if it were a judgment given by the New Zealand court in which it is registered.
@@ -698,6 +710,7 @@ This subpart makes judgments given by Australian courts in civil proceedings, an
   (a) is given by an Australian court in a civil proceeding (including an Australian trans-Tasman market proceeding) and imposes a civil pecuniary penalty; and
   (b) is not a kind of judgment imposing a civil pecuniary penalty that is declared by an order under subsection (2) to be excluded from recognition or enforcement under subpart 5.
 (2) The Governor-General may, by Order in Council, declare a kind of judgment imposing a civil pecuniary penalty to be excluded from recognition or enforcement under subpart 5.
+(3) An order under subsection (2) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 75 Registration applications may be made only to specified courts
 (1) Subsection (2) applies to an application under section 56 to register in a New Zealand court a registrable Australian judgment if the judgment—
@@ -726,6 +739,7 @@ This subpart makes certain judgments given by Australian courts in criminal proc
   (a) declare a fine for a criminal offence under a provision of Australian legislation to be a regulatory regime criminal fine for the purposes of subpart 5 and this subpart:
   (b) prescribe conditions with which a judgment imposing a fine declared under paragraph (a) to be a regulatory regime criminal fine must comply in order to be recognised and enforced under subpart 5.
 (3) Section 5 applies to a reference in an order under subsection (2) to a repealed Australian enactment.
+(4) An order under subsection (2) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 78 Registration applications may be made only to High Court
 (1) An application under section 56 in respect of a registrable Australian judgment that imposes a regulatory regime criminal fine may be made only to a Registrar of the High Court.
