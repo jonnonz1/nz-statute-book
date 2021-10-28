@@ -1,11 +1,12 @@
 # Limited Partnerships Act 2008
-_Consolidation as at 2020-12-01_
+_Consolidation as at 2021-10-28_
 
 ### 1 Title
 This Act is the Limited Partnerships Act 2008.
 
 ### 2 Commencement
-This Act comes into force on a date to be appointed by the Governor-General by Order in Council.
+(1) This Act comes into force on a date to be appointed by the Governor-General by Order in Council.
+(2) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ## Part 1 — Preliminary provisions
 
@@ -1284,6 +1285,7 @@ A failure by an overseas limited partnership to comply with section 104 does not
   (a) to bring proceedings outside New Zealand against the overseas limited partnership or its general partners in relation to a debt not claimed in the liquidation, or to the balance of a debt remaining unpaid after the completion of the liquidation; or
   (b) to bring an action in New Zealand in relation to the balance of a debt remaining unpaid after the completion of the liquidation.
 (5) On the commencement of section 13 of the Insolvency (Cross-Border) Act 2006, the Governor-General may, by Order in Council, amend subsection (1) to omit the words the assets in New Zealand of.
+(6) An order made under subsection (5) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ## Part 4 — Miscellaneous
 
@@ -1318,6 +1320,7 @@ A failure by an overseas limited partnership to comply with section 104 does not
   (gd) prescribing information required for the purposes of section 52(1)﻿(d)﻿(iii) and paragraphs (h) and (n) of Schedule 2:
   (h) providing for any other matters contemplated by this Act or necessary for its administration or necessary for giving it full effect.
 (2) In subsection (1)﻿(a) and (g), prescribing the form includes specifying the content, means of communication, or any other requirement of an application without necessarily specifying the use of a particular form.
+(3) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 117 Part 2 of Partnership Act 1908 repealed
 Part 2 of the Partnership Act 1908 is repealed.
