@@ -1,5 +1,5 @@
 # Criminal Records (Clean Slate) Act 2004
-_Consolidation as at 2020-12-01_
+_Consolidation as at 2021-10-28_
 
 ### 1 Title
 This Act is the Criminal Records (Clean Slate) Act 2004.
@@ -7,7 +7,8 @@ This Act is the Criminal Records (Clean Slate) Act 2004.
 ## Part 1 — Preliminary provisions
 
 ### 2 Commencement
-This Act comes into force on a date to be appointed by the Governor-General by Order in Council.
+(1) This Act comes into force on a date to be appointed by the Governor-General by Order in Council.
+(2) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 3 Overview
 (1) This Act establishes a clean slate scheme to limit the effect of an individual's convictions in most circumstances (subject to certain exceptions set out in section 19) if the individual satisfies the relevant eligibility criteria.
@@ -123,8 +124,8 @@ In this Act, unless the context otherwise requires,—
     (e) an order made by a court in New Zealand under section 128 of the Sentencing Act 2002 or section 84 of the Criminal Justice Act 1985, as a result of a conviction for an offence referred to in those sections and instead of passing sentence, that an offender's motor vehicle be confiscated; or
     (f) an order made by a court in New Zealand under any other enactment as a result of a conviction for an offence and instead of imposing a sentence
   - **traffic offence** includes—
-    (a) any offence against the Land Transport Act 1998, the Transport Act 1962, the Transport Act 1949, the Motor Vehicles Act 1924, the Motor Regulation Act 1908, or against any regulation, rule, or bylaw made under any of those Acts; and
-    (b) any offence against any regulation, rule, or bylaw made under any other Act if the offence relates to the use of vehicles or parking places or transport stations
+    (a) any offence against the Land Transport Act 1998, the Transport Act 1962, the Transport Act 1949, the Motor Vehicles Act 1924, the Motor Regulation Act 1908, or against any secondary legislation made under any of those Acts; and
+    (b) any offence against any secondary legislation made under any other Act if the offence relates to the use of vehicles or parking places or transport stations
   - **use** in relation to a criminal record, means to make a decision in relation to the record, or take any action in reliance on the record.
 
 ### 5 Act binds the Crown
@@ -292,6 +293,7 @@ This Act binds the Crown.
   (a) make rules regulating the practice and procedure of the High Court and the Court of Appeal under this Act; and
   (b) without limiting paragraph (a), make rules regulating the manner in which appeals may be brought to the High Court and Court of Appeal under section 12(1) or (2).
 (3) In the absence of any rules under this section, or in any situation not covered by any of those rules, the rules in relation to civil proceedings for the time being in force under the District Court Act 2016 or the Senior Courts Act 2016 (whichever is applicable) apply, with all necessary modifications, to the practice and procedure of courts under this Act.
+(4) See section 148 of the Senior Courts Act 2016 and section 228 of the District Court Act 2016, which provide that court rules are secondary legislation.
 
 ### 23 Application of Legal Services Act 2011
 All proceedings under this Act are civil proceedings for the purposes of the Legal Services Act 2011.
