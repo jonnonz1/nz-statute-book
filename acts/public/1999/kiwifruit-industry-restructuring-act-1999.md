@@ -1,5 +1,5 @@
 # Kiwifruit Industry Restructuring Act 1999
-_Consolidation as at 2008-04-01_
+_Consolidation as at 2021-10-28_
 
 > An Act to provide for—athe conversion of the New Zealand Kiwifruit Marketing Board into a company; andbpowers to regulate the export of kiwifruit
 
@@ -75,7 +75,7 @@ The application for registration of a company under the Companies Act 1993 that 
   (a) the Board may be the applicant on behalf of the persons who are to receive initial shares in the company:
   (b) the Board is not required to name or identify the persons individually in the application:
   (c) 2 members of the Board may sign the application and any other documents required to accompany it:
-  (d) section 12(1)(d)(i) does not apply to a person's shares in the company.
+  (d) section 12(1)﻿(d)﻿(i) does not apply to a person's shares in the company.
 
 **Minister to approve restructuring plan**
 
@@ -235,6 +235,7 @@ No person who is a member of the new Board may, from 1 November 2000, be a direc
   (y) providing for such other matters as are contemplated by or are necessary for giving full effect to this Act and for its due administration.
 (2) In this section, Zespri Group means the company and its subsidiaries.
 (3) For the avoidance of doubt, regulations made under subsection (1) may apply to transactions within any group of companies of which Zespri Group Limited is a member, or between business activities within a specific Zespri Group Limited group company.
+(4) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 27 Revocations
 The following regulations are revoked:
