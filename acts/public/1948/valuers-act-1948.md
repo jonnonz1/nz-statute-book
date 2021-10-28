@@ -1,5 +1,5 @@
 # Valuers Act 1948
-_Consolidation as at 2020-08-07_
+_Consolidation as at 2021-10-28_
 
 > An Act to make provision for the registration of land valuers, to constitute the New Zealand Institute of Valuers, and for matters incidental thereto
 
@@ -325,4 +325,5 @@ Every person who commits an offence against this Act shall, where no other penal
   (g) providing for the appointment of assessors and regulating the conduct of appeals under section 34:
   (h) providing for the taxation or review by the Council or a committee thereof or by a District Court Judge of charges made by valuers for work as such:
   (i) prescribing fines, not exceeding $500, for the breach of any regulation made under this section.
+(3) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 (3)
