@@ -1,11 +1,12 @@
 # Trans-Tasman Mutual Recognition Act 1997
-_Consolidation as at 2020-12-01_
+_Consolidation as at 2021-10-28_
 
 > An Act to provide for the recognition in New Zealand of regulatory standards adopted in Australia regarding goods and occupations
 
 ### 1 Short Title and commencement
 (1) This Act may be cited as the Trans-Tasman Mutual Recognition Act 1997.
 (2) This Act comes into force on a date to be appointed by the Governor-General by Order in Council; and 1 or more orders may be made bringing different provisions into force on different dates.
+(3) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 2 Interpretation
 (1) In this Act, unless the context otherwise requires,—
@@ -97,8 +98,9 @@ _Consolidation as at 2020-12-01_
     (a) Saturday, Sunday, Good Friday, Easter Monday, Anzac Day, Labour Day, the Sovereign's birthday, and Waitangi Day; and
     (ab) if Waitangi Day or Anzac Day falls on a Saturday or a Sunday, the following Monday; and
     (b) a day in the period commencing with 25 December in any year and ending with 15 January in the following year.
-(2) A reference to or citation of any Act in this Act includes the citation of all subsequent enactments passed in amendment or substitution of the Act so referred to or cited, unless it is otherwise manifested by the context. This subsection applies despite anything in the Interpretation Act 1999, but is subject to section 76(1) and (2).
+(2) A reference to or citation of any Act in this Act includes the citation of all subsequent enactments passed in amendment or substitution of the Act so referred to or cited, unless it is otherwise manifested by the context. This subsection applies despite anything in Part 2 of the Legislation Act 2019, but is subject to section 76(1) and (2).
 (3) The Governor-General may, from time to time, by Order in Council, declare an entity to be an organism for the purposes of paragraph (e) of the definition of law relating to quarantine in subsection (1).
+(4) An order under subsection (3) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 3 Meaning of participating jurisdiction
 For the purposes of this Act, a participating jurisdiction is—
@@ -122,6 +124,7 @@ For the purposes of this Act, a participating jurisdiction is—
   (a) no jurisdiction in Australia has passed a law corresponding to this Act and no jurisdiction in Australia is likely to pass a law corresponding to this Act in the near future; or
   (b) some or all of the jurisdictions in Australia have passed a law corresponding to this Act but all the jurisdictions in Australia are likely to repeal such laws in the near future.
 (2) The Minister must not make a recommendation under subsection (1) without first giving notice in the Gazette of his or her intention to do so.
+(3) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 7 Act to bind the Crown
 This Act binds the Crown.
@@ -433,6 +436,7 @@ Nothing in this Act prevents an individual from seeking registration or being re
   (b) providing, as a condition of deemed registration or the renewal of registration for a particular occupation under this Act, that an individual may not carry on the occupation unless a fee has been paid.
 (2) No fee prescribed under subsection (1) for deemed registration under this Act may be greater than the fee prescribed for registration (or, if more than 1 fee is prescribed, the higher or highest of those fees) under the law dealing with registration for the particular occupation.
 (3) No fee prescribed under subsection (1) for the renewal of registration under this Act may be greater than the fee prescribed for the renewal of registration (or, if more than 1 fee is prescribed, the higher or highest of those fees) under the law dealing with registration for the particular occupation.
+(4) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ## Part 4 — Trans-Tasman Occupations Tribunal
 
@@ -668,9 +672,10 @@ The Tribunal must conduct any review with as little formality and technicality, 
 (4) Subject to any order of the High Court, every decision of the Tribunal against which an appeal is lodged continues in force or has effect pending the determination of the appeal.
 
 ### 73 Regulations
-The Governor-General may from time to time, by Order in Council, make regulations for all or any of the following purposes:
+(1) The Governor-General may from time to time, by Order in Council, make regulations for all or any of the following purposes:
   (a) prescribing a fee to be paid by an applicant making an application under section 42:
   (b) prescribing the procedure to be followed under this Act in respect of reviews.
+(2) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 74 New Zealand member of Australian Tribunal
 If the Chairperson or an individual whose name is entered on the panel serves as a member of the Australian Tribunal for the purposes of a review under the section of the Australian Act dealing with the review of decisions,—
@@ -701,13 +706,8 @@ For the purposes of sections 78(2), 80(2), 82(2), 83(2), 85(2), and 87(2), terms
   (b) any provision inserted in that law after section 79 or section 81, as the case requires, comes into force; or
   (c) any provision substituted for another provision in that law after section 79 or section 81, as the case requires, comes into force; or
   (d) any law passed in substitution for that law,—
-(3) Despite anything in the Interpretation Act 1999, a reference to an Act in any schedule includes, unless the reference to the Act indicates otherwise,—
-  (a) any rules and regulations made under the Act; and
-  (b) any order, proclamation, notice, or other statutory instrument made or given under the Act.
-(4) In subsection (3), regulations—
-  (a) has the same meaning as it has in the Interpretation Act 1999; and
-  (b) includes legislative instruments within the meaning of the Legislation Act 2012 ; and
-  (c) includes any instruments that have, under any Act, been printed or published as if they were regulations or legislative instruments.
+(3) Despite anything in Part 2 of the Legislation Act 2019, a reference to an Act in any schedule includes, unless the reference to the Act indicates otherwise, any secondary legislation, or other instrument, made or given under the Act.
+(4)
 (5) A law specified in Schedules 1, 2, or 3, that deals not only with requirements described in section 10(2) relating to the sale of goods but also with the registration of an occupation, is excluded or exempted only to the extent that it deals with requirements described in section 10(2) relating to the sale of goods.
 
 ### 77 Exclusions
@@ -722,6 +722,7 @@ This Act does not affect the operation of any law, or any provision of any law, 
   (c) omitting a category.
 (4) The Minister must not make a recommendation under subsection (3) unless the Minister has given notice in the Gazette of his or her intention to do so.
 (5) The Governor-General may, from time to time, on the recommendation of the Minister, by Order in Council, make regulations amending Schedule 1 by omitting a law or a provision of a law.
+(6) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 79 Permanent exemptions
 This Act does not affect the operation of any law, or any provision of any law, specified or described in Schedule 2.
@@ -732,6 +733,7 @@ This Act does not affect the operation of any law, or any provision of any law, 
   (b) omitting a law and substituting another law, or omitting a provision of a law and substituting another provision of that law.
 (2) The Minister must not make a recommendation under subsection (1) unless the Minister is satisfied that all of the then participating jurisdictions have endorsed the terms of the proposed regulations.
 (3) The Governor-General may, from time to time, on the recommendation of the Minister, by Order in Council, make regulations amending Schedule 2 by omitting a law or a provision of a law.
+(4) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 81 Special exemptions
 This Act does not affect the operation of any law, or any provision of any law, specified or described in Schedule 3 until the expiry of the exemption period or, as the case requires, the extended exemption period relating to that law or that provision.
@@ -742,6 +744,7 @@ This Act does not affect the operation of any law, or any provision of any law, 
   (b) amending Schedule 3 by omitting any law, or any provision of any law, in relation to which the exemption period or, as the case may be, the extended exemption period, has expired or has otherwise ceased to be of effect.
 (2) The Minister must not make a recommendation under subsection (1) unless the Minister is satisfied that no fewer than two-thirds of the then participating jurisdictions have endorsed the terms of the proposed regulations.
 (3) The Governor-General may, from time to time, on the recommendation of the Minister, by Order in Council, make regulations amending Schedule 3 by omitting a law or a provision of a law.
+(4) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 83 Amendments to Schedules 2 and 3
 (1) The Governor-General may, from time to time, on the recommendation of the Minister, by Order in Council, make regulations that amend Schedule 2 by adding to it a law or a provision of a law specified or described in Schedule 3 and amend Schedule 3 by omitting from it that law or that provision of a law.
@@ -750,6 +753,7 @@ This Act does not affect the operation of any law, or any provision of any law, 
   (b) that—
     (i) no fewer than two-thirds of the then participating jurisdictions have endorsed the terms of the proposed regulations; and
     (ii) a period of not less than 5 years has elapsed since section 81 came into force.
+(3) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 84 Exempt occupations
 This Act does not apply to any law, or any provision of any law, that relates to any occupation and is specified or described in Schedule 4.
@@ -760,11 +764,13 @@ This Act does not apply to any law, or any provision of any law, that relates to
   (b) omitting a law and substituting another law, or omitting a provision of a law and substituting another provision of that law.
 (2) The Minister must not make a recommendation under subsection (1) unless the Minister is satisfied that all of the then participating jurisdictions have endorsed the terms of the proposed regulations.
 (3) The Governor-General may, from time to time, on the recommendation of the Minister, by Order in Council, make regulations amending Schedule 4 by omitting a law or a provision of a law.
+(4) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 86 Regulations relating to temporary exemptions
 (1) The Governor-General may, from time to time, on the recommendation of the Minister, by Order in Council, make regulations exempting a particular kind of goods or any law, or any provision of any law, relating to a particular kind of goods from the provisions of this Act.
 (2) No exemption under regulations made under subsection (1) may exceed the period of 12 months in total, whether the exemption is made in 1 set of regulations or in more than 1 set of regulations.
 (3) The Minister must not make a recommendation under subsection (1) unless he or she is satisfied that every exemption effected by the regulations is substantially for the purpose of protecting the health and safety of persons in New Zealand or avoiding, remedying, or mitigating any adverse effects of activities on the environment in New Zealand.
+(4) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 87 Regulations continuing temporary exemptions
 (1) The Governor-General may, from time to time, on the recommendation of the Minister, by Order in Council, make regulations—
@@ -784,6 +790,7 @@ This Act does not apply to any law, or any provision of any law, that relates to
     (i) modify the operation of the law while the exemption operates; or
     (ii) provide that the exemption does not apply in relation to particular goods if certain standards or conditions are complied with in relation to the goods.
 (5) No exemption may be continued or revived under regulations made under subsection (1)﻿(a) for a period exceeding 12 months in total, whether the exemption is continued or revived in 1 set of regulations or in more than 1 set of regulations.
+(6) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ## Part 6 — Amendments to Law Practitioners Act 1982
 
