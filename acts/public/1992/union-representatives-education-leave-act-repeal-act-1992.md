@@ -1,11 +1,12 @@
 # Union Representatives Education Leave Act Repeal Act 1992
-_Consolidation as at 1992-12-04_
+_Consolidation as at 2021-10-28_
 
 > An Act to repeal the Union Representatives Education Leave Act 1986, and to make provision incidental thereto
 
 ### 1 Short Title and commencement
 (1) This Act may be cited as the Union Representatives Education Leave Act Repeal Act 1992.
 (2) This Act shall come into force on a date to be appointed by the Governor-General by Order in Council.
+(3) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 2 Interpretation
 In this Act, unless the context otherwise requires, Authority means the Trade Union Education Authority established by the Union Representatives Education Leave Act 1986.
