@@ -1,5 +1,5 @@
 # National Library of New Zealand (Te Puna Mātauranga o Aotearoa) Act 2003
-_Consolidation as at 2013-08-05_
+_Consolidation as at 2021-10-28_
 
 ### 1 Title
 This Act is the National Library of New Zealand (Te Puna Mātauranga o Aotearoa) Act 2003; and may also be cited as either—
@@ -243,7 +243,7 @@ The department must provide administrative services for the Commission and any a
 
 ### 29 Interpretation relating to this Part
 (1) In this Part, unless the context otherwise requires,—
-  - **authorisation** , in relation to an Internet document, means an authorisation notified under section 31(3)
+  - **authorisation** , in relation to an Internet document, means an authorisation under section 31(3)
   - **electronic document** means a public document in which information is stored or displayed by means of an electronic recording device, computer, or other electronic medium, and includes an Internet document
   - **Internet document** means a public document that is published on the Internet, whether or not there is any restriction on access to the document; and includes the whole or part of a website
   - **make a copy** , in relation to an Internet document, means to make a copy of the document for the purpose of storing and using it in accordance with this Part; and includes circumventing any technological protection measures which otherwise would prevent or hinder the copying, storage, or use of the document
@@ -263,9 +263,9 @@ The department must provide administrative services for the Commission and any a
     (a) in relation to a printed public document, the publisher of that document; and
     (b) in relation to any other public document other than an Internet document, the person who produced in New Zealand, or commissioned the production outside New Zealand of, the copies of the document issued to, or available on request by, the public; and
     (c) in relation to an Internet document, the person who has control over the content of the website, or part of the website, on which the document is located
-  - **requirement** means a requirement notified by the Minister under section 31(1); and includes—
-    (a) an authorisation notified under section 31(3); and
-    (b) an amendment notified under section 31(4)
+  - **requirement** means a requirement under section 31(1); and includes—
+    (a) an authorisation under section 31(3); and
+    (b) an amendment under section 31(4)
   - **restriction** , in relation to the acquisition, use, or availability of, or access to, a public document of any kind,—
     (a) means a physical, technical, or mechanical restriction such as a requirement to pay a fee or price, or to use a password or other requirement that prevents or restricts free public access to the document; but
     (b) does not mean any legal restriction recorded in or claimed for the public document.
@@ -275,21 +275,24 @@ The department must provide administrative services for the Commission and any a
 The purpose of this Part is to assist in preserving New Zealand's documentary heritage so that it is available, subject to any applicable terms or conditions, for the benefit of New Zealanders.
 
 ### 31 Notice of requirement for public documents
-(1) The Minister may, by notice in the Gazette, require a publisher of a public document (other than an Internet document) to give to the National Librarian, at the publisher's own expense, a specified number of copies (not exceeding 3) of—
+(1) The Minister may, by notice, require a publisher of a public document (other than an Internet document) to give to the National Librarian, at the publisher's own expense, a specified number of copies (not exceeding 3) of—
   (a) the public document in printed form; and
   (b) if the document is an electronic document, the medium that contains the document.
 (2) The copies of the public document referred to in subsection (1) must be provided—
   (a) within 20 working days from the date of first publication of the document (or a longer period, if any, that is specified in the notice); and
   (b) on, or in accordance with, any terms and conditions as to format, public access, or other matters that are specified in the notice.
-(3) The Minister may, by notice in the Gazette, authorise the National Librarian to make a copy, at any time or times and at his or her discretion, of public documents that are Internet documents in accordance with any terms and conditions as to format, public access, or other matters that are specified in the notice.
-(4) The Minister may, by notice in the Gazette, amend or revoke a requirement notified under subsection (1) or subsection (3).
+(3) The Minister may, by notice, authorise the National Librarian to make a copy, at any time or times and at his or her discretion, of public documents that are Internet documents in accordance with any terms and conditions as to format, public access, or other matters that are specified in the notice.
+(4) The Minister may amend or revoke a requirement.
+(5) A requirement—
+  (a) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements); but
+  (b) commences in accordance with section 32 (even if it is not yet published, in the case of a requirement referred to in section 32(2)).
 
 ### 32 Contents of requirement
 (1) A requirement must specify—
-  (a) the date on which it comes into force, which, subject to subsection (2), must be at least 3 months after the date on which the notice is published in the Gazette; and
+  (a) the date on which it comes into force, which, subject to subsection (2), must be at least 3 months after the date on which the notice is published under the Legislation Act 2019; and
   (b) whether it applies to all classes of public documents or only to a specified class or classes of public documents; and
-  (c) in the case of a requirement notified under section 31(1), whether it applies to all publishers of those public documents or only to a specified class or classes of publishers of those documents.
-(2) Despite subsection (1)(a), a requirement that relates to books to which section 30A of the National Library Act 1965 would have applied if that Act had not been repealed by this Act is not subject to the minimum period of 3 months specified in subsection (1)(a).
+  (c) in the case of a requirement under section 31(1), whether it applies to all publishers of those public documents or only to a specified class or classes of publishers of those documents.
+(2) Despite subsection (1)﻿(a), a requirement that relates to books to which section 30A of the National Library Act 1965 would have applied if that Act had not been repealed by this Act is not subject to the minimum period of 3 months specified in subsection (1)﻿(a).
 
 ### 33 Publishers to assist National Librarian to store and use documents
 (1) If, at any time, the National Librarian makes a written request for assistance, a publisher of an electronic document to which a requirement relates must, at the publisher's own expense, provide reasonable assistance within 20 working days of receiving the request to enable the National Librarian to store and use an identical copy of the document.
@@ -305,29 +308,33 @@ The purpose of this Part is to assist in preserving New Zealand's documentary he
 (5) Except as provided in subsections (2) to (4), the law relating to copyright applies to every deposited document.
 
 ### 35 Application of Legislation Act 2012 to requirements
-A requirement is a legislative instrument and a disallowable instrument for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
+[Repealed]
 
 ### 36 Consultation
-(1) Before the Minister notifies a requirement, the Minister must consult the publishers or representatives of the publishers likely to be affected by the proposed requirement about the terms and conditions referred to in section 31(2)(b) or (3).
+(1) Before the Minister publishes a requirement under section 31, the Minister must consult the publishers or representatives of the publishers likely to be affected by the proposed requirement about the terms and conditions referred to in section 31(2)﻿(b) or (3).
 (2) Subsection (1) does not apply in respect of a requirement that relates to books to which section 30A of the National Library Act 1965 would have applied if that Act had not been repealed by this Act.
 
 ### 37 Copies of document
-Except as otherwise expressly provided in a requirement, copies of a public document given to the National Librarian in accordance with a requirement notified under section 31(1) must be—
+Except as otherwise expressly provided in a requirement, copies of a public document given to the National Librarian in accordance with a requirement must be—
   (a) identical copies of the document; and
   (b) of the same standard as the best copy of the document that has been published in New Zealand.
 
 ### 38 Exemption from requirement
-(1) A requirement may authorise the Minister to exempt, by notice in the Gazette, a public document or class of public documents from the requirement on the basis of criteria set out in the requirement.
-(2) The Minister may, by notice in the Gazette, exempt a public document or class of public documents from a requirement if—
+(1) A requirement may authorise the Minister to exempt, by notice, a public document or class of public documents from the requirement on the basis of criteria set out in the requirement.
+(2) The Minister may, by notice, exempt a public document or class of public documents from a requirement if—
   (a) the requirement authorises the Minister to grant exemptions from it; and
   (b) a written application for the exemption has been made to the Minister; and
   (c) the Minister is satisfied that the criteria for exemptions set out in the requirements are met and that it is appropriate to grant the exemption in the circumstances.
 (3) An exemption may be granted on the terms and conditions that the Minister thinks fit.
 (4) An exemption takes effect on the date, and on the terms and conditions, specified in the notice.
+(5) If a requirement authorises the Minister to grant exemptions,—
+  (a) an exemption granted under that authority is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements); and
+  (b) the requirement must contain a statement to that effect; and
+  (c) the exemption takes effect in accordance with subsection (4), even if it is not yet published.
 
 ### 39 Obligations to comply with requirement
 (1) A publisher to whom a requirement applies must comply with that requirement.
-(2) A publisher to whom a requirement notified under section 31(3) applies must permit the National Librarian to make a copy of that document in accordance with that requirement.
+(2) A publisher to whom a requirement under section 31(3) applies must permit the National Librarian to make a copy of that document in accordance with that requirement.
 (3) If the name of the publisher does not appear on a printed public document and the printer of that document is resident in New Zealand or has its principal place of business in New Zealand,—
   (a) the printer is under the same duty to comply with a requirement as the publisher; and
   (b) if the printer complies with a requirement, the printer is entitled to recover the cost of doing so from the publisher.
@@ -363,7 +370,8 @@ This Part does not limit any power or right that the National Librarian has in r
 **Regulations**
 
 ### 45 Regulations
-The Governor-General may, by Order in Council, make regulations providing for matters that are contemplated by this Act, necessary for its administration, or necessary for giving it full effect.
+(1) The Governor-General may, by Order in Council, make regulations providing for matters that are contemplated by this Act, necessary for its administration, or necessary for giving it full effect.
+(2) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 **Repeal, revocations, and amendments**
 
