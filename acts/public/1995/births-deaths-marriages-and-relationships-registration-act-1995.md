@@ -1,5 +1,5 @@
 # Births, Deaths, Marriages, and Relationships Registration Act 1995
-_Consolidation as at 2020-12-01_
+_Consolidation as at 2021-10-28_
 
 > Title
 
@@ -1315,6 +1315,7 @@ Nothing in this Act limits access to information that is recorded under this Act
     (iii) requirements with which evidence must comply:
   (b) providing for any other matters contemplated by or necessary for giving full effect to this Act and for its due administration.
 (2) Regulations made under subsection (1) may require the giving and collection of information for the purpose of statistics, including matters to be notified, matters to be registered, or both.
+(3) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 89 Offences and penalties
 (1) Every person commits an offence who—
