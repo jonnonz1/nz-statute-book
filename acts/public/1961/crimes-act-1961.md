@@ -1,5 +1,5 @@
 # Crimes Act 1961
-_Consolidation as at 2021-10-05_
+_Consolidation as at 2021-10-28_
 
 > An Act to consolidate and amend the Crimes Act 1908 and certain other enactments of the Parliament of New Zealand relating to crimes and other offences
 
@@ -70,7 +70,7 @@ _Consolidation as at 2021-10-05_
   - **ship** means every description of vessel used in navigation, however propelled; and includes any barge, lighter, dinghy, raft, or like vessel; and also includes any ship belonging to or used as a ship of the armed forces of any country
   - **Supreme Court** means the Supreme Court of New Zealand established by section 66 of the Senior Courts Act 2016
   - **territorial waters** , in relation to any country other than New Zealand, means such part of the sea adjacent to the coast of that country as is within the territorial sovereignty of that country; and includes ports, harbours, rivers, and other places in which at the commencement of this Act the Admiralty of England has jurisdiction (whether exclusive or not) in respect of offences of any kind committed on board Commonwealth ships
-  - **unlawful act** means a breach of any Act, regulation, rule, or bylaw
+  - **unlawful act** means a breach of any legislation
   - **vulnerable adult** , for the purposes of sections 151, 195, and 195A, means a person unable, by reason of detention, age, sickness, mental impairment, or any other cause, to withdraw himself or herself from the care or charge of another person.
 (1A) For the purposes of paragraph (a) of the definition in subsection (1) of sexual connection, introduction to the slightest degree is enough to effect a connection.
 (1B) For the purposes of this Act, one person does an indecent act on another person whether he or she—
@@ -1950,7 +1950,7 @@ A person who claims in good faith a right to the possession of a young person un
     (a) means any electronic, mechanical, electromagnetic, optical, or electro-optical instrument, apparatus, equipment, or other device that is used or is capable of being used to intercept a private communication; but
     (b) does not include—
       (i) a hearing aid or similar device used to correct subnormal hearing of the user to no better than normal hearing; or
-      (ii) a device exempted from the provisions of this Part by the Governor-General by Order in Council, either generally or in such places or circumstances or subject to such other conditions as may be specified in the order
+      (ii) a device exempted from the provisions of this Part by the Governor-General by Order in Council (see subsection (4)), either generally or in such places or circumstances or subject to such other conditions as may be specified in the order
   - **private communication** —
     (a) means a communication (whether in oral or written form or otherwise) made under circumstances that may reasonably be taken to indicate that any party to the communication desires it to be confined to the parties to the communication; but
     (b) does not include such a communication occurring in circumstances in which any party ought reasonably to expect that the communication may be intercepted by some other person not having the express or implied consent of any party to do so.
@@ -1958,6 +1958,7 @@ A person who claims in good faith a right to the possession of a young person un
 (3) A reference in this Part to a party to a private communication is a reference to—
   (a) any originator of the communication and any person intended by the originator to receive it; and
   (b) a person who, with the express or implied consent of any originator of the communication or any person intended by the originator to receive it, intercepts the communication.
+(4) An order under paragraph (b)﻿(ii) of the definition of interception device in subsection (1) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 216B Prohibition on use of interception devices
 (1) Subject to subsections (2) to (5), every one is liable to imprisonment for a term not exceeding 2 years who intentionally intercepts any private communication by means of an interception device.
@@ -3332,6 +3333,7 @@ This Act shall bind the Crown.
   (c) prescribing the fees, travelling allowances, and expenses payable to interpreters and to persons giving evidence in proceedings to which this Act applies:
   (d) prescribing the costs and charges payable by parties in proceedings to which this Act applies:
   (e) providing for any other matters in respect of which regulations are contemplated under this Act.
+(3) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 (3)
 
 ### 411 Consequential amendments
@@ -3346,9 +3348,9 @@ This Act shall bind the Crown.
 ### 413 Enactment creating offence is repealed and replaced or consolidated
 Section 414 applies if—
   (a) an enactment that forms a part of this Act and that creates an offence is repealed and is replaced by, or is consolidated in, a new enactment, whether in the same or a different form; and
-    (i) proceedings are commenced for an offence contrary to the repealed enactment in reliance on section 19 of the Interpretation Act 1999; or
+    (i) proceedings are commenced for an offence contrary to the repealed enactment in reliance on section 34 of the Legislation Act 2019; or
     (ii) proceedings are commenced for an offence contrary to the new enactment; or
-    (iii) proceedings are commenced for an offence contrary to the repealed enactment in reliance on section 19 of the Interpretation Act 1999 and, in the alternative, for an offence contrary to the new enactment; and
+    (iii) proceedings are commenced for an offence contrary to the repealed enactment in reliance on section 34 of the Legislation Act 2019 and, in the alternative, for an offence contrary to the new enactment; and
   (b) the date of the act or omission by the defendant constituting the alleged offence cannot be established with sufficient certainty to determine whether it occurred before the repeal of the repealed enactment or after the commencement of the new enactment.
 
 ### 414 Repealed enactment continues to have effect
