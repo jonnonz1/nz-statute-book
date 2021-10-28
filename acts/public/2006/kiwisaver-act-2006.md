@@ -1,5 +1,5 @@
 # KiwiSaver Act 2006
-_Consolidation as at 2021-03-30_
+_Consolidation as at 2021-10-28_
 
 ### 1 Title
 This Act is the KiwiSaver Act 2006.
@@ -7,6 +7,7 @@ This Act is the KiwiSaver Act 2006.
 ### 2 Commencement
 (1) This Act comes into force on a date to be appointed by the Governor-General by Order in Council.
 (2) One or more Orders in Council may be made bringing different provisions into force on different dates.
+(3) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ## Part 1 — Preliminary provisions
 
@@ -807,15 +808,15 @@ An employer who makes a deduction under this subpart must specify the amount of 
   (b) provide for additional rates at which employees may contribute under this subpart, instead of at the rates under that section.
 (2) The Order in Council must state the date from which the rate or rates is to have effect (which must be the first day of a tax year (as defined in section YA 1 of the Income Tax Act 2007)).
 (3) The Order in Council must state how it will apply (for example, whether it applies to the persons to whom this subpart already applies).
+(4) An order under this section—
+  (a) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements); and
+  (b) must be confirmed by an Act (see subpart 3 of Part 5 of the Legislation Act 2019).
 (4)
 (5) Every Order in Council made under this section has the force of law as if it were enacted by this Act.
 (6)
 
 ### 65A Orders are confirmable instruments
-The explanatory note of an Order in Council made under section 65 must indicate that—
-  (a) it is a confirmable instrument under section 47B of the Legislation Act 2012; and
-  (b) it is revoked at a time stated in the note, unless earlier confirmed by an Act of Parliament; and
-  (c) the stated time is the applicable deadline under section 47C(1)﻿(a) or (b) of that Act.
+[Repealed]
 
 ### 66 Obligation to make deductions: general rule
 The employer must make deductions of contributions from each payment of the employee’s gross salary or wages of an amount equal to the contribution rate.
@@ -2193,6 +2194,7 @@ A Crown contribution paid in respect of a member of a KiwiSaver scheme under sec
   (a) does not apply to the extent that it is inconsistent with provisions implied in the trust deed by this Act; but
   (b) applies despite anything to the contrary in the trust deed of the scheme; and
   (c) is enforceable by the manager, the supervisor, or a member of the scheme, unless the regulations provide otherwise.
+(5) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 229 Regulations relating to mortgage diversion facility
 (1) The Governor-General may, by Order in Council made on the recommendation of the Minister of Finance, make regulations providing for mortgage diversion facilities that allow contributions in respect of a person to be withdrawn from the person’s KiwiSaver scheme and complying superannuation funds to pay amounts secured by certain mortgages relating to that person.
@@ -2223,6 +2225,7 @@ A Crown contribution paid in respect of a member of a KiwiSaver scheme under sec
   (eb) closing the mortgage diversion facility to new participants by specifying a date before which a member of a KiwiSaver scheme or complying superannuation fund must request his or her mortgagee to participate in the facility in respect of the member's mortgage; and
   (f) any other matters.
 (4) If a provider chooses to participate in the mortgage diversion facility, any withdrawal made in accordance with those regulations must be treated as if it were a withdrawal that is permitted under the KiwiSaver scheme rules.
+(5) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 230 Regulations relating to default KiwiSaver providers
 (1) The Governor-General may, by Order in Council made on the recommendation of the Minister, make regulations for the following purposes:
@@ -2242,10 +2245,12 @@ A Crown contribution paid in respect of a member of a KiwiSaver scheme under sec
   (d) requiring the provider of any new scheme to which members are or are to be transferred from a scheme that is subject to a terminating event under section 138 to do any act or thing or to carry out any prescribed procedures to facilitate or enable the transfer of members to the provider’s KiwiSaver scheme.
 (1A) In this section, default members means members that were allocated to a scheme under sections 50 and 51 and are in a default investment product of a scheme.
 (2) However, regulations made under subsection (1)﻿(c)﻿(iii) may not require a provider to report to any person or produce any papers, documents, or records, after the provider’s scheme no longer has any members who became members of the scheme under section 52.
+(3) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 230A Regulations relating to compulsory employer contributions
 (1) The Governor-General may, by Order in Council made on the recommendation of the Minister of Finance, make regulations prescribing a class of employees, for the purposes of the calculation of compulsory employer contributions, under section 101D(5)﻿(c)﻿(ii).
 (2) The Minister of Finance may make a recommendation under subsection (1) only if the Minister is satisfied that an employer may not prevent compulsory employer contributions increasing their employer contributions in relation to the class of employees because terms relating to their employer contributions are imposed independently of the employer and the class of employees.
+(3) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 231 Amendments to other Acts
 [Repealed]
