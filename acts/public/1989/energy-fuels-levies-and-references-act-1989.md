@@ -1,5 +1,5 @@
 # Energy (Fuels, Levies, and References) Act 1989
-_Consolidation as at 2020-08-07_
+_Consolidation as at 2021-10-28_
 
 > Title
 
@@ -36,6 +36,7 @@ In this Part, unless the context otherwise requires,—
 (1) The Ministry of Energy is hereby abolished.
 (2), (3) Amendment(s) incorporated in the Act(s).
 (4) This section shall come into force on a date to be appointed for the commencement thereof by the Governor-General by Order in Council.
+(5) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 4 Consequential amendments to references to Minister of Energy, Secretary of Energy, and Ministry of Energy
 Unless in any case the context otherwise requires, and subject to the provisions of this Act, in any enactment or in any regulations or in any instrument or document,—
@@ -53,6 +54,7 @@ The enactments specified in Schedule 2 are hereby repealed.
 (1) The regulations specified in Schedule 3 are hereby amended in the manner indicated in that schedule.
 (2) The amendment by this section of the regulations specified in Schedule 3 shall be without prejudice to any power of amending or revoking those regulations.
 (3) The Governor-General may from time to time, by Order in Council, consequentially revoke Schedule 3 or any part of that schedule.
+(4) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 8 Revocations
 The orders specified in Schedule 4 are hereby revoked.
@@ -130,7 +132,8 @@ Any consent, licence, permit, approval, or remission, given or granted by the Mi
 (2) Not later than 30 days after the last days of March, June, September, and December in each year, every person or body who or which generates electricity for sale (including the Electricity Corporation of New Zealand Limited) shall supply the Secretary with a true and accurate return of all electricity sold from such generation during the immediately preceding period of 3 months ended with the said last days of March, June, September, and December, respectively, together with the levy calculated in accordance with this section:
   provided that any person or body who or which has sold from such generation less than 500 megawatt hours of electricity during any such period need not supply a return nor pay any levy.
 (3) The levy payable on all such electricity that has been sold during the said periods of 3 months shall be 2 cents for each complete 100 kilowatt hours of such electricity or such lesser amount for each complete 100 kilowatt hours as may be prescribed.
-(4) All electricity measurements made for the purpose of supplying a return and calculating the levy payable under this section shall be made in such manner and by the use of such methods as may be approved by the Secretary.
+(4) All electricity measurements made for the purpose of supplying a return and calculating the levy payable under this section shall be made in such manner and by the use of such methods as may be approved by the Secretary by notice.
+(5) A notice under subsection (4) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 23 Gas levies
 (1) A gas retailer who sells piped gas must, not later than 30 days after the last day of March, June, September, and December in each year,—
@@ -140,8 +143,9 @@ Any consent, licence, permit, approval, or remission, given or granted by the Mi
 (3) However, the levy is not payable on, and a return is not required to include,—
   (a) piped gas of a prescribed type; or
   (b) piped gas that is to be used for a prescribed purpose.
-(4) All gas measurements made for the purpose of supplying a return and calculating the levy payable under this section must be made by the use of methods approved by the Secretary.
+(4) All gas measurements made for the purpose of supplying a return and calculating the levy payable under this section must be made by the use of methods approved by the Secretary by notice.
 (5) In this section, unless the context otherwise requires, expressions defined in the Gas Act 1992 have the meanings so defined.
+(6) A notice under subsection (4) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 24 Petroleum or engine fuel monitoring levy
 (1) A levy is payable at the rate prescribed under section 33 for each complete litre of petroleum or engine fuel of a type specified in regulations made under section 35(1)﻿(fa).
@@ -210,13 +214,13 @@ All money received by the Secretary or the New Zealand Customs Service under thi
   (b) include, in any prescribed method of calculating or ascertaining amounts or rates of the levies, provisions relating to any shortfall in recovering, or over-recovery of, the actual costs of EECA from a previous levy period.
 (2) However, an amount or rate prescribed, or calculated using a prescribed method, must not exceed any maximum amount or rate set out in this Part.
 (3) Before recommending that regulations be made under this section, the Minister must consult persons or organisations considered by the Minister to represent the persons affected by the levy concerned.
+(4) Regulations under this section—
+  (a) are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements); and
+  (b) must be confirmed by an Act (see subpart 3 of Part 5 of the Legislation Act 2019).
 (4)
 
 ### 33A Levy regulations are confirmable instruments
-The explanatory note of regulations made under section 33(1) must indicate that—
-  (a) they are a confirmable instrument under section 47B of the Legislation Act 2012; and
-  (b) they are revoked at a time stated in the note, unless earlier confirmed by an Act of Parliament; and
-  (c) the stated time is the applicable deadline under section 47C(1)﻿(a) or (b) of that Act.
+[Repealed]
 
 ### 34 Amount of goods and services tax excluded
 It is hereby declared that the levies payable under this Part are exclusive of goods and services tax under the Goods and Services Tax Act 1985.
@@ -341,6 +345,8 @@ It is hereby declared that the levies payable under this Part are exclusive of g
 (3) Any material incorporated in a regulation by reference under subsection (2) is part of the regulation; and, unless otherwise provided in the regulations, every amendment made by the person or organisation originating the material is part of the regulation.
 (4) The Secretary must make copies of all material and any amendments incorporated in regulations by reference under subsections (2) and (3) available for inspection, free of charge, at the head office of the Ministry.
 (5) Any material incorporated by reference has no effect until it is made available for inspection in accordance with subsection (4).
+(6) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+(7) Subpart 1 of Part 3 and section 114 of the Legislation Act 2019 do not apply to material that is incorporated by reference in the regulations merely because it is incorporated.
 
 ### 35A Power of Minister to require selling of engine fuel to cease
 (1) If the Minister is satisfied that engine fuel does not comply with regulations, the Minister may, by written notice, require the seller or distributor to—
