@@ -1,11 +1,12 @@
 # Health Benefits (Reciprocity with the United Kingdom) Act 1982
-_Consolidation as at 1993-07-01_
+_Consolidation as at 2021-10-28_
 
 > An Act to provide for reciprocity with the United Kingdom in relation to medical, hospital, and related benefits
 
 ### 1 Short Title and commencement
 (1) This Act may be cited as the Health Benefits (Reciprocity with the United Kingdom) Act 1982.
 (2) This Act shall come into force on a date to be fixed by the Governor-General by Order in Council. The date so fixed may be a date before the date on which the Order in Council is made.
+(3) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 2 Agreement to have full force and effect
 The provisions contained in the agreement set out in the Schedule shall have full force and effect so far as they relate to New Zealand.
