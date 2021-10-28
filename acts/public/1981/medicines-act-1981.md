@@ -1,11 +1,12 @@
 # Medicines Act 1981
-_Consolidation as at 2021-05-25_
+_Consolidation as at 2021-10-28_
 
 > An Act to consolidate and amend the law relating to the manufacture, sale, and supply of medicines, medical devices, and related products
 
 ### 1 Short Title and commencement
 (1) This Act may be cited as the Medicines Act 1981.
 (2) This Act shall come into force on a date to be appointed by the Governor-General by Order in Council, and different dates may be so appointed in respect of different provisions of this Act.
+(3) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 2 Interpretation
 (1) In this Act, unless the context otherwise requires,—
@@ -15,7 +16,7 @@ _Consolidation as at 2021-05-25_
   - **advertisement** has the meaning assigned to that term by section 56
   - **advertising material** means material used or intended to be used as an advertisement
   - **analyst** means—
-    (a) any person who is designated by the Minister by notice in the Gazette as the analyst in charge of an approved laboratory; or
+    (a) any person who is designated by the Minister by notice as the analyst in charge of an approved laboratory; or
     (b) any person who works in an approved laboratory and who is authorised, by the analyst in charge of that laboratory, to act as an analyst for the purposes of this Act, either generally or in any particular case
   - **animal** includes a bird, a fish, and a reptile; but does not include a human being
   - **animal food** means any substance or article that—
@@ -27,7 +28,7 @@ _Consolidation as at 2021-05-25_
     (c) maintaining or improving the health, condition, productivity, or appearance of any animal; or
     (d) capturing or immobilising any animal;—
   - **appropriate committee** means a committee appointed under section 8(1)
-  - **approved laboratory** means a laboratory approved by the Minister by notice in the Gazette for the purposes of this Act
+  - **approved laboratory** means a laboratory approved by the Minister by notice for the purposes of this Act
   - **authorised prescriber** means—
     (a) a nurse practitioner; or
     (b) an optometrist; or
@@ -141,9 +142,7 @@ _Consolidation as at 2021-05-25_
   - **vehicle** includes an aircraft, a hovercraft, and a ship
   - **veterinarian** means a person who is registered as a veterinarian or specialist within the meaning of section 4 of the Veterinarians Act 2005.
 (2) Any approval by the Minister of a laboratory as an approved laboratory for the purposes of this Act may be given on such terms and conditions as the Minister thinks fit and as are specified in the notice approving that laboratory.
-(3) A notice given by the Minister in the Gazette for the purposes of subsection (1) is—
-  (a) a legislative instrument and a disallowable instrument for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act; and
-  (b) a regulation for the purposes of the Interpretation Act 1999.
+(3) A notice under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 3 Meaning of medicine, new medicine, prescription medicine, and restricted medicine
 (1) In this Act, unless the context otherwise requires, medicine—
@@ -374,7 +373,7 @@ The Minister shall provide every committee appointed under section 8, and the Me
 
 ### 20 Restrictions on sale or supply of new medicines
 (1) Except as provided in sections 25, 26(4), 28, 30, 31, and 32, this section applies to new medicines.
-(2) No person shall—any medicine to which this section applies before the consent or provisional consent of the Minister to the distribution of the medicine has been notified in the Gazette, or otherwise than in accordance with such conditions as may be imposed by the Minister on giving his consent or provisional consent and notified in the Gazette.
+(2) No person shall—any medicine to which this section applies before the consent or provisional consent of the Minister to the distribution of the medicine has been given by notice, or otherwise than in accordance with such conditions as may be imposed by the Minister on giving his or her consent or provisional consent and set out in the notice.
   (a) sell; or
   (b) distribute by way of gift or loan or sample or in any other way; or
   (c) advertise the availability of—
@@ -386,6 +385,7 @@ The Minister shall provide every committee appointed under section 8, and the Me
 (6) The provisions of this section are in addition to, and not in substitution for, the provisions of any other enactment prohibiting, regulating, or restricting the sale or distribution of medicines, and nothing in any such other enactment shall authorise any person to act in contravention of the provisions of this section; but in the event of any conflict, the provisions of this section shall prevail.
 (6A) The Minister, after having given consent or provisional consent to the distribution of any medicine in accordance with this Act, shall give written notification to the EPA of the consent or provisional consent and any condition attached to that consent.
 (7) Any consent that was given in respect of any medicine by the Minister under section 12(2) of the Food and Drug Act 1969 and in force immediately before the commencement of this Act shall be deemed for the purposes of this section and section 35 to have been given under this section.
+(8) A notice under subsection (2) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 21 Applications for Minister's consent
 (1) Every application for the Minister's consent under section 20 shall—
@@ -412,7 +412,7 @@ The Minister shall provide every committee appointed under section 8, and the Me
   (o) a coloured specimen of every label and other descriptive matter proposed to be used on or included in, or to accompany, packages or containers containing the medicine:
   (p) the name and address of the place or places where the manufacture, preparation, or packing is intended to be carried out.
 (3) Notwithstanding anything in subsection (1), in the case of a medicine to which section 20 applies by virtue of subsection (1) of that section, the notice deposited with the Director-General under section 24 shall, subject to subsections (4) and (5), be a sufficient application for the consent of the Minister under the said section 20.
-(4) At any time before the publication of a notice in the Gazette signifying the consent of the Minister to the distribution of a medicine in respect of which an application under section 20 has been made, the Director-General may, by notice in writing given to the person in whose name the application was made, require that person to supply—as the Director-General may specify in his notice.
+(4) At any time before the publication of a notice signifying the consent of the Minister to the distribution of a medicine in respect of which an application under section 20 has been made, the Director-General may, by notice in writing given to the person in whose name the application was made, require that person to supply—as the Director-General may specify in his notice.
   (a) such samples of the medicine; and
   (b) such further information or particulars concerning the medicine, or the manufacture, intended sale, distribution, or advertising of the medicine,—
 (5) The Director-General may, if he thinks fit, require any person to verify by statutory declaration any statement in an application made, or in any further information or particulars supplied, under this section and signed by that person.
@@ -427,7 +427,7 @@ The Minister shall provide every committee appointed under section 8, and the Me
 (5) On receipt of an objection under subsection (4), the Minister shall, before making his decision, refer the matter to the Medicines Review Committee, which shall convene such meeting or meetings as may be necessary for it to consider the matter, and shall report on it to the Minister with a recommendation as to the decision that the Minister should make.
 
 ### 23 Minister may give provisional consent
-(1) Notwithstanding sections 20 to 22, the Minister may, by notice in the Gazette, in accordance with this section, give provisional consent to the sale or supply or use of a new medicine if the Minister is of the opinion that it is desirable that the medicine be sold, supplied, or used.
+(1) Notwithstanding sections 20 to 22, the Minister may, by notice, in accordance with this section, give provisional consent to the sale or supply or use of a new medicine if the Minister is of the opinion that it is desirable that the medicine be sold, supplied, or used.
 (2) An application for the Minister's provisional consent under this section shall—
   (a) be made in accordance with paragraphs (b) and (ca) of section 21(1):
   (b) be addressed to the Director-General:
@@ -438,9 +438,10 @@ The Minister shall provide every committee appointed under section 8, and the Me
   (b) such conditions relating to the area in which the medicine may be distributed; or
   (c) such other conditions, not being inconsistent with the purposes of this section,—
 (4) Subject to subsections (4A) and (5), every provisional consent given under this section shall have effect for 2 years or such shorter period as the Minister may determine, and shall then expire.
-(4A) The Minister may, by notice in the Gazette, from time to time renew any provisional consent given under this section for a period not exceeding 2 years on any one occasion.
+(4A) The Minister may, by notice, from time to time renew any provisional consent given under this section for a period not exceeding 2 years on any one occasion.
 (4B) Subsections (3) and (5) shall apply to any renewal of a provisional consent given under subsection (4A) as if it were a provisional consent given under subsection (1).
 (5) If, during the currency of a provisional consent given in respect of any medicine, the Minister grants a consent under section 20 in respect of the same medicine, the provisional consent shall be deemed to be revoked.
+(6) A notice under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 23A Interpretation
 In this section, and in sections 23B and 23C, unless the context otherwise requires,—
@@ -466,13 +467,13 @@ In this section, and in sections 23B and 23C, unless the context otherwise requi
   - **protected period** means—
     (a) in relation to confidential supporting information, relating to an innovative medicine application, received by the Minister after the commencement date, a period commencing on the date that information is received by the Minister and ending,—
       (i) where—on the date 5 years after the date of that notification or refusal; or
-        (A) the Minister has either notified consent, not being provisional consent, in the Gazette under section 20, or refused to grant such consent, in relation to the medicine that is the subject of the innovative medicine application; and
-        (B) the date of that notification or refusal is not more than 5 years after the Minister received an application in relation to that medicine,—
+        (A) the Minister has given notice of consent, not being provisional consent, under section 20, or refused to give consent, in relation to the medicine that is the subject of the innovative medicine application; and
+        (B) the date of publication of the notice of consent or the date of the refusal is not more than 5 years after the Minister received an application in relation to that medicine,—
       (ii) in any other case, on the date 5 years after the innovative medicine application to which that information relates is or was, as the case may be, received by the Minister:
     (b) in relation to confidential supporting information, relating to an innovative medicine application, received by the Minister not more than 5 years before the commencement date, a period commencing on the commencement date and ending,—
       (i) where—on the date 5 years after the date of that notification or refusal; or
-        (A) the Minister has notified or notifies consent, not being provisional consent, in the Gazette under section 20, or refused or refuses to grant such consent, in relation to the medicine that was the subject of the innovative medicine application; and
-        (B) the date of that notification or refusal is or was, as the case may be, not more than 5 years after the Minister received an application in relation to that medicine,—
+        (A) the Minister has given or gives notice of consent, not being provisional consent, under section 20, or refused or refuses to give consent, in relation to the medicine that was the subject of the innovative medicine application; and
+        (B) the date of publication of the notice of consent or the date of the refusal is or was, as the case may be, not more than 5 years after the Minister received an application in relation to that medicine,—
       (ii) in any other case, on the date 5 years after the innovative medicine application to which that information related was received by the Minister
   - **WTO country** means a country that is a party to the Agreement establishing the World Trade Organization adopted at Marrakesh on 15 April 1994.
 
@@ -623,8 +624,8 @@ Notwithstanding anything in section 17 or section 18, but subject to the other p
 (1) Neither section 20 nor section 24 shall prevent—
   (a) the supply by any person to any medical practitioner, on the medical practitioner's request, of any medicine required by that medical practitioner for the treatment of a particular patient currently under that medical practitioner's care; or
   (b) the administration by any medical practitioner of any such medicine to any such patient.
-(2) Every person who, for the purposes of subsection (1), sells or supplies to any practitioner any medicine that is a new medicine by virtue of paragraph (a) of the definition of the term new medicine in section 3(3) before the consent of the Minister to the distribution of that medicine has been notified in the Gazette shall, as soon as practicable after the end of every month in which he has so sold or supplied any such medicine, report that sale or supply to the Director-General in writing, naming the practitioner and patient, describing the medicine, and identifying the occasion when and the place where the medicine was so sold or supplied.
-(3) Without limiting section 48, if any person fails to comply with subsection (2), the Minister may, in the manner prescribed in that section but without complying with subsection (2) of that section, prohibit that person from selling and supplying any new medicine to which subsection (2) applies before the consent of the Minister to the distribution of that medicine has been notified in the Gazette.
+(2) Every person who, for the purposes of subsection (1), sells or supplies to any practitioner any medicine that is a new medicine by virtue of paragraph (a) of the definition of the term new medicine in section 3(3) before the consent of the Minister to the distribution of that medicine has been published under the Legislation Act 2019 shall, as soon as practicable after the end of every month in which he has so sold or supplied any such medicine, report that sale or supply to the Director-General in writing, naming the practitioner and patient, describing the medicine, and identifying the occasion when and the place where the medicine was so sold or supplied.
+(3) Without limiting section 48, if any person fails to comply with subsection (2), the Minister may, in the manner prescribed in that section but without complying with subsection (2) of that section, prohibit that person from selling and supplying any new medicine to which subsection (2) applies before the consent of the Minister to the distribution of that medicine has been published under the Legislation Act 2019.
 
 ### 30 Exemption for clinical trial
 (1) Notwithstanding section 20 or section 24, but subject to the succeeding provisions of this section, the importer or manufacturer in New Zealand of any medicine may distribute it for the sole purpose of obtaining clinical and scientific information with respect to its safety and efficacy, if the clinical trial, and the persons (in this section called the investigators) who will conduct the trial, have been approved by the Director-General on the recommendation of the Health Research Council of New Zealand.
@@ -704,11 +705,12 @@ Section 17 does not apply in respect of the sale by wholesale of a medicine that
 **Quality and standards**
 
 ### 35 Revocation and suspension of consents
-(1) The Minister may at any time, by notice in the Gazette, revoke, or suspend for such period as he may determine, any consent given under section 20 or section 23, if he is of the opinion that—
+(1) The Minister may at any time, by notice, revoke, or suspend for such period as he may determine, any consent given under section 20 or section 23, if he is of the opinion that—
   (a) the medicine can no longer be regarded as a medicine that can be administered or used safely for the purposes indicated in the application for consent, or in a notice deposited under section 24; or
   (b) the specifications and standards with respect to the manufacture of the medicine that were included in the terms of a consent can no longer be regarded as satisfactory; or
   (c) the efficacy of the medicine can no longer be regarded as satisfactory.
 (2) Where a consent is suspended under this section, it shall be deemed for the purposes of subsections (2) and (4) of section 20 not to have been granted.
+(3) A notice under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 36 Control of established medicines
 (1) Without limiting subsection (5) of section 24, if the Director-General has reason to believe that any medicine, not being a new medicine, may be unsafe or ineffective for the therapeutic purpose for which it is sold, he may, by notice in writing to an importer or manufacturer in New Zealand, state the reasons for his belief and require the importer or manufacturer to satisfy him of the safety or efficacy of that medicine.
@@ -720,9 +722,10 @@ Section 17 does not apply in respect of the sale by wholesale of a medicine that
 (5) Every person commits an offence and is liable on conviction to imprisonment for a term not exceeding 6 months or a fine not exceeding $5,000 who sells or supplies any medicine in contravention of a notice given under subsection (3), or of a condition imposed in any such notice or in a notice given under subsection (4).
 
 ### 37 Powers of Minister to prohibit import, etc, of medicines
-(1) The Minister may from time to time, by notice in the Gazette, prohibit the import, manufacture, packing, sale, possession, supply, administration, or other use of medicines of any specified description or medical devices of any specified kind, either absolutely or subject to such conditions as he thinks fit, for any specified period not exceeding 1 year; but he shall not exercise this power more than once in respect of medicines or medical devices so specified.
+(1) The Minister may from time to time, by notice, prohibit the import, manufacture, packing, sale, possession, supply, administration, or other use of medicines of any specified description or medical devices of any specified kind, either absolutely or subject to such conditions as he thinks fit, for any specified period not exceeding 1 year; but he shall not exercise this power more than once in respect of medicines or medical devices so specified.
 (2) Where the Minister gives a notice under subsection (1), he shall, on the written request of any person, state his reasons for doing so.
 (3) Every person commits an offence against this Act who contravenes any notice given under subsection (1).
+(4) A notice under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 38 Restrictions on sale of medical devices
 (1) For the purposes of this section,—
@@ -1109,6 +1112,10 @@ Without limiting any power to make regulations under this Act, nothing in sectio
   (a) shall be made only on the recommendation of the Minister after consultation with such organisations or bodies as the Minister considers likely to be substantially affected by the regulations; and
   (b) shall be designed to achieve a fair and balanced indication of the potential effects of the medicine or medical device or method of treatment advertised; and
   (c) shall not require the disclosure of information that may reasonably be regarded as confidential, or that cannot reasonably be expected to be in the possession of the person on whose behalf the advertisement is published, or the inclusion of which in the advertisement is otherwise impracticable.
+(3) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+(4) If the regulations enable the Minister to make requirements or directions under subsection (1)﻿(c),—
+  (a) those requirements or directions are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements); and
+  (b) the regulations must contain a statement to that effect.
 
 ## Part 5 — Enforcement
 
@@ -1452,6 +1459,7 @@ In this Part, unless the context otherwise requires,—
 (1) The Governor-General may, by Order in Council made on the recommendation of the Minister, authorise the conduct of 1 or more classes of specified biotechnical procedure.
 (2) The Minister may make a recommendation under subsection (1) only if satisfied that the conduct of every class of procedure concerned meets each of the criteria specified in section 96E(1).
 (3) An authorisation granted by an Order in Council under this section may be granted unconditionally or subject to any conditions specified in the order.
+(4) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 96E Criteria for authorisations
 (1) The Minister may grant or recommend an authorisation sought by an application under section 96G only if satisfied that the application relates to the conduct of a specified biotechnical procedure or class of specified biotechnical procedure that meets each of the following criteria:
@@ -1500,7 +1508,7 @@ No compensation is payable by the Crown to any person for any loss or damage ari
 ### 96J Expiry of Part
 (1) This Part expires on the close of 30 September 2025.
 (2) The Governor-General may, by Order in Council, before the date specified in subsection (1), on the recommendation of the Minister, specify a later date in substitution for that date.
-(3) An Order in Council made under this section is a legislative instrument and a disallowable instrument for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
+(3) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ## Part 8 — Miscellaneous provisions
 
@@ -1538,7 +1546,8 @@ No person who does any act in pursuance or intended pursuance of any of the func
 (6) Notwithstanding anything in the foregoing provisions of this section, a District Court Judge may in any case make an order directing the manner in which any document is to be served or given or dispensing with the service or giving of any such document.
 
 ### 104 Amendment of Schedule 1
-The Governor-General may from time to time, by Order in Council, add to or omit from Part 1 or Part 2 of Schedule 1 any disease or physiological condition or class of disease or physiological condition, or otherwise amend that schedule, and every such Order in Council shall have effect according to its terms.
+(1) The Governor-General may from time to time, by Order in Council, add to or omit from Part 1 or Part 2 of Schedule 1 any disease or physiological condition or class of disease or physiological condition, or otherwise amend that schedule, and every such Order in Council shall have effect according to its terms.
+(2) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 105 Regulations
 (1) The Governor-General may from time to time, by Order in Council made on the advice of the Minister tendered after consultation with such organisations or bodies as appear to the Minister to be representative of persons likely to be substantially affected by the regulations, make regulations for all or any of the following purposes:
@@ -1590,11 +1599,14 @@ The Governor-General may from time to time, by Order in Council, add to or omit 
   (b) if the regulations do not refer to a particular edition of a specified publication, the reference shall be construed as applying to the edition of the specified publication in force when the regulations are made, so long as that edition remains in force, and thereafter to every subsequent edition of that publication for the time being in force, and as extending to all amendments, additions, and deletions made to any such edition and published whether before, on, or after the date on which the regulations are made.
 (5) All or any of the powers conferred by paragraphs (g), (h), (k), and (l) of subsection (1) may be exercised in respect of any cosmetic or dentifrice (whether or not it is a related product within the meaning of Part 7).
 (5A) For the purposes of subsection (1)﻿(qa),—
-  (a) specified prescription medicines means prescription medicines specified by the Director-General by notice in the Gazette; and
-  (b) specified class or description of prescription medicines means a class or description of prescription medicines specified by the Director-General by notice in the Gazette.
+  (a) specified prescription medicines means prescription medicines specified by the Director-General by notice; and
+  (b) specified class or description of prescription medicines means a class or description of prescription medicines specified by the Director-General by notice.
 (5B) Before issuing a notice under subsection (5A), the Director-General must consult with those organisations or bodies that appear to the Director-General to be representative of persons likely to be substantially affected by the notice.
 (6) Notwithstanding anything contained in any regulation made under this section, any person may, at any time within 12 months after the date of the commencement of the regulation, sell any medicine or medical device of which the sale is otherwise lawful, if he proves that at that date the medicine or medical device was part of the existing stock-in-trade in New Zealand of any person carrying on business there, and that since that date no act has been done whereby the medicine or medical device fails to conform to the regulation.
 (7) For the purposes of subsection (6) any goods purchased before the said date for importation into New Zealand shall be deemed to be part of the purchaser's stock-in-trade in New Zealand.
+(8) The following are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements):
+  (a) regulations under this section:
+  (b) a notice under subsection (5A).
 
 ### 105A Regulations relating to veterinarians and authorised prescribers who are not designated prescribers
 (1) Without limiting the generality of section 105(1)﻿(d), regulations may be made under that provision—
@@ -1631,7 +1643,9 @@ The Governor-General may from time to time, by Order in Council, add to or omit 
 (2) The Minister must not recommend the making of any Order in Council under subsection (1) unless in the opinion of the Minister—
   (a) health services or access to those services will be improved by the making of that Order in Council; and
   (b) the making of that Order in Council is necessary to meet the needs of the community in the particular location of the pharmacy or proposed pharmacy.
-(3) The Minister's reasons for making the recommendation must be included in, or appended to, the Order in Council.
+(3) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements), unless it relates exclusively to an individual.
+(4) An order under this section that is not secondary legislation must be published on an Internet site maintained by or on behalf of the department.
+(5) The Minister’s reasons for recommending the making of the order must be published with the order.
 
 ### 105D Regulations relating to delegated prescribers
 Without limiting the generality of section 105(1)﻿(d) or (qaa), regulations may be made under section 105(1)﻿(qaa)—
@@ -1648,8 +1662,9 @@ Without limiting the generality of section 105(1)﻿(d) or (qaa), regulations ma
   (h) prohibiting any person who fails to comply with any requirement imposed by or under regulations referred to in paragraphs (e) to (g) from prescribing prescription medicines or prescription medicines of any specified class or description.
 
 ### 105E Power of Director-General to specify prescription medicines for delegated prescribers
-(1) The Director-General may, by notice in the Gazette, specify the prescription medicines, or the class or description of prescription medicines, that may be prescribed under delegated prescribing orders (and different prescription medicines, or different classes or descriptions of prescription medicines, may be specified for different classes of health professional).
+(1) The Director-General may, by notice, specify the prescription medicines, or the class or description of prescription medicines, that may be prescribed under delegated prescribing orders (and different prescription medicines, or different classes or descriptions of prescription medicines, may be specified for different classes of health professional).
 (2) Before issuing a notice under subsection (1), the Director-General must consult with those organisations or bodies that appear to the Director-General to be representative of persons likely to be substantially affected by the notice.
+(3) A notice under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 105F Incorporation by reference
 (1) Regulations made under section 105 may incorporate the following written material by reference:
@@ -1659,9 +1674,10 @@ Without limiting the generality of section 105(1)﻿(d) or (qaa), regulations ma
 (2) The provisions of Schedule 3 apply to material incorporated by reference in regulations made in reliance on this section.
 
 ### 106 Minister may classify medicines by notice in the Gazette
-(1) The Minister may, by notice in the Gazette, declare any medicine to be a prescription medicine or a restricted medicine or a pharmacy-only medicine.
+(1) The Minister may, by notice, declare any medicine to be a prescription medicine or a restricted medicine or a pharmacy-only medicine.
 (2) To the extent that any such notice is inconsistent with any provisions of any regulations made under section 105(1)﻿(j), those provisions shall cease to have effect while the notice remains in force.
 (3) Every notice given under this section shall, unless sooner revoked by the Minister, remain in force for a period of 6 months commencing with the date on which it comes into force, and shall then cease to have effect.
+(4) A notice under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 107 Power to obtain information for purposes of regulations
 (1) In this section the term manufacturer, in relation to a medicine, includes a person who, as owner, packs or causes to be packed medicines of that description for sale or supply.
@@ -1798,10 +1814,8 @@ The enactments specified in Schedule 2 are hereby repealed.
   (b) retained by the Director-General.
 (2) The production in proceedings of a certified copy of the material is, in the absence of evidence to the contrary, sufficient evidence of the material incorporated by reference in the regulations.
 
-### 6 Application of Legislation Act 2012 to material incorporated by reference
-(1) Part 2 of the Legislation Act 2012 does not apply to material incorporated by reference in regulations in reliance on section 105F or to an amendment to, or replacement of, that material.
-(2) Subpart 1 of Part 3 of the Legislation Act 2012 applies to regulations that incorporate material by reference in reliance on section 105F.
-(3) However, nothing in section 41 of the Legislation Act 2012 requires material that is incorporated by reference in regulations in reliance on section 105F to be presented to the House of Representatives.
+### 6 Application of Legislation Act 2019 to material incorporated by reference
+Subpart 1 of Part 3 and section 114 of the Legislation Act 2019 do not apply to material that is incorporated by reference in regulations in reliance on section 105F of this Act merely because it is incorporated.
 
 ### 7 Application of Regulations (Disallowance) Act 1989 to material incorporated by reference
 [Repealed]
