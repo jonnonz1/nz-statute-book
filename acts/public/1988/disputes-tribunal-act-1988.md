@@ -1,5 +1,5 @@
 # Disputes Tribunal Act 1988
-_Consolidation as at 2019-10-29_
+_Consolidation as at 2021-10-28_
 
 ### 1 Title and commencement
 (1) This Act is the Disputes Tribunal Act 1988.
@@ -196,7 +196,7 @@ There shall be paid to every Referee, out of money appropriated by Parliament fo
     (iv) any trade secret or other intellectual property.
 (6) In subsection (5) land does not include fixtures.
 (7) Without limiting section 10(1A) or (2), nothing in subsection (1) of that section in so far as it confers jurisdiction in quasi-contract on the Tribunal shall be construed as authorising a claim in respect of money due under any enactment.
-(8) In subsection (7) enactment means a provision of any Act or of any other instrument that has legislative effect and that is authorised by or pursuant to any Act.
+(8) In subsection (7) enactment means a provision of any Act or of any secondary legislation.
 (9) The Tribunal may hear and determine a claim in the nature of a counterclaim to which subsection (1)﻿(b) applies notwithstanding that the original claim is withdrawn, abandoned, or struck out.
 
 ### 12 Recovery of consequential loss
@@ -667,6 +667,7 @@ A Referee, while acting as such, is an employee employed by the Crown for the pu
 (3) Notwithstanding section 61, rules made under this section may make particular provision for—
   (a) the giving of notices to, and service of documents on, the Crown; and
   (b) the length of the notice to be given to the Crown before proceedings to which the Crown is a party may be heard.
+(4) Rules under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 61 Crown Proceedings Act 1950 not restricted
 Nothing in this Act shall limit or restrict the operation of the Crown Proceedings Act 1950.
