@@ -1,5 +1,5 @@
 # Human Tissue Act 2008
-_Consolidation as at 2020-12-01_
+_Consolidation as at 2021-10-28_
 
 ### 1 Title
 This Act is the Human Tissue Act 2008.
@@ -8,6 +8,7 @@ This Act is the Human Tissue Act 2008.
 (1) Sections 1, 2, and 89 come into force on the day after the date on which this Act receives the Royal assent.
 (2) Sections 87 and 88, and the heading above section 87, come into force as provided by section 89.
 (3) The rest of this Act comes into force on a date to be appointed by the Governor-General by Order in Council.
+(4) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ## Part 1 — General provisions
 
@@ -537,7 +538,7 @@ A person who performs a post-mortem or anatomical examination, or collects tissu
 **Trading in blood, controlled human substances, or other human tissue**
 
 ### 55 Interpretation
-In sections 57 to 65, unless the context otherwise requires,—
+(1) In sections 57 to 65, unless the context otherwise requires,—
   - **appointed entity** means an entity appointed under section 63
   - **blood** means human blood; and—
     (a) includes the following:
@@ -547,15 +548,16 @@ In sections 57 to 65, unless the context otherwise requires,—
       (iv) human haematopoietic stem cells, or a constituent of human haematopoietic stem cells, that may be used therapeutically or in the preparation of a substance for therapeutic use:
     (b) does not include the following:
       (i) any substance derived from blood, a human organ, human bone marrow, human tissue, or human haematopoietic stem cells that is intended for use in quality control or as a diagnostic product:
-      (ii) any substance containing a fraction of blood, a human organ, human bone marrow, human tissue, or human haematopoietic stem cells that the Governor-General by Order in Council declares not to be blood for the purposes of sections 57 to 65
+      (ii) any substance containing a fraction of blood, a human organ, human bone marrow, human tissue, or human haematopoietic stem cells that the Governor-General by Order in Council (see subsection (2)) declares not to be blood for the purposes of sections 57 to 65
   - **controlled human substance** —
     (a) means—
       (i) human bone marrow (other than human bone marrow referred to in paragraph (a)﻿(ii) of the definition of blood in this section) that may be used therapeutically or in the preparation of a substance for therapeutic use; or
       (ii) a constituent of human bone marrow described in subparagraph (i); or
-      (iii) any other substance of the human body that may be used therapeutically or in the preparation of a substance for therapeutic use and that the Governor-General by Order in Council declares to be included in this definition; but
+      (iii) any other substance of the human body that may be used therapeutically or in the preparation of a substance for therapeutic use and that the Governor-General by Order in Council (see subsection (2)) declares to be included in this definition; but
     (b) does not include—
       (i) a product derived from any controlled human substance that is intended for use in quality control or as a diagnostic product; or
-      (ii) a substance containing a fraction of any controlled human substance that the Governor-General by Order in Council declares not to be a controlled human substance for the purposes of sections 57 to 65.
+      (ii) a substance containing a fraction of any controlled human substance that the Governor-General by Order in Council (see subsection (2)) declares not to be a controlled human substance for the purposes of sections 57 to 65.
+(2) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 56 Trading in human tissue generally prohibited
 (1) No person may, except under an exemption under section 60, require or accept, or offer or provide, financial or other consideration for human tissue.
@@ -604,9 +606,10 @@ In sections 57 to 65, unless the context otherwise requires,—
   (c) section 59 (person administering blood or controlled human substance not to charge recipient for its collection or use):
   (d) section 61 (advertising prohibited).
 (2) The Minister may in the same manner vary or revoke an exemption under subsection (1).
-(3) After giving a notice under this section, the Minister must—
+(3) A notice made under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements), unless it applies only to 1 or more named persons.
+(4) After giving a notice under this section that is not secondary legislation, the Minister must—
   (a) publish a copy in the Gazette as soon as practicable; and
-  (b) present a copy to the House of Representatives no later than its 16th sitting day after the day on which the notice was given.
+  (b) present a copy to the House of Representatives no later than the 16th sitting day after the day on which the notice is given.
 
 ### 61 Advertising prohibited
 (1) No person may, except under an exemption under section 60, distribute an advertisement relating to the purchase or sale in New Zealand of human tissue.
@@ -648,11 +651,12 @@ In sections 57 to 65, unless the context otherwise requires,—
 (7) After giving a notice under subsection (1), (3), or (4), the Minister must, as soon as practicable, publish in the Gazette, and present to the House of Representatives, a copy of that notice.
 
 ### 64 Exemption from Part 2 of Commerce Act 1986
-Nothing in Part 2 of the Commerce Act 1986 applies to—
+(1) Nothing in Part 2 of the Commerce Act 1986 applies to—
   (a) a contract, arrangement, understanding, or covenant in relation to blood or controlled human substances that—
     (i) at the time it is entered into is, or is of a class that is, approved for the purposes of this section by the Governor-General by Order in Council; or
     (ii) is entered into by a person who (at the time it is entered into) is, or is of a class that is, approved for the purposes of this section by the Governor-General by Order in Council; or
   (b) an act done to give effect to a provision of a contract, arrangement, understanding, or covenant to which paragraph (a) applies.
+(2) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 65 Protection of appointed entities
 (1) Section 129 of the Health Act 1956 applies to any appointed entity, and to any employee or agent of an appointed entity, who, in pursuance or intended pursuance of a provision in a notice given under section 63 of this Act (which relates to entities to collect and distribute blood and controlled human substances), does an act, or fails or refuses to do an act, in relation to blood or a controlled human substance.
@@ -732,6 +736,7 @@ Every person commits an offence, and is liable on conviction to imprisonment for
 (3) The standards must include requirements for ethical approval of all research using human tissue.
 (4) The requirements for ethical approval must not be inconsistent with requirements under the Human Assisted Reproductive Technology Act 2004 for ethical approval for human reproductive research.
 (5) However, the standards or the regulations may identify research, or classes or kinds of research, using human tissue to which some or all of the requirements for ethical approval do not apply, or apply subject to conditions or modifications.
+(6) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 75 Regulations prescribing or approving requirements and quality, safety, and other standards for export and import of human tissue
 (1) The Governor-General may, by Order in Council, make regulations for either or both of the following purposes:
@@ -740,14 +745,16 @@ Every person commits an offence, and is liable on conviction to imprisonment for
 (2) Requirements prescribed for importation of human tissue may relate to informed consent having been given and, if so, they may differ from similar requirements in this Act.
 (3) The standards may be to ensure minimum levels of quality, safety, or both, or may be for other purposes.
 (4) Subsections (2) and (3) do not limit subsection (1).
+(5) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 76 Regulations may incorporate standards by reference
 Regulations under section 74 or 75 may incorporate standards by reference, in accordance with Schedule 5.
 
 ### 77 Orders authorising establishment of schools of anatomy
-The Governor-General may, by Order in Council, authorise the establishment of a school of anatomy where the study and practice of the science of anatomy may be carried on—
+(1) The Governor-General may, by Order in Council, authorise the establishment of a school of anatomy where the study and practice of the science of anatomy may be carried on—
   (a) in connection with a university, or a school of medicine, specified in the order; and
   (b) at the place or places, and on the conditions (if any), specified in the order.
+(2) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 78 Regulations establishing or recognising national organ and tissue donor register
 (1) The Governor-General may, by Order in Council, make regulations establishing or recognising a register, maintained in any medium by or on behalf of the Crown and called the national organ and tissue donor register, for recording information that is or includes the following:
@@ -761,6 +768,7 @@ The Governor-General may, by Order in Council, authorise the establishment of a 
   (a) without authorisation or consent from the individual concerned; and
   (b) until he or she cancels, or otherwise opts out of, the recording in the register of that information.
 (6) Subsection (5) does not limit subsection (4).
+(7) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 79 Regulations prescribing form of search warrant
 [Repealed]
@@ -845,6 +853,7 @@ An inspector may, at any reasonable time, visit and inspect the school of anatom
 (3) The date appointed under subsection (2) must be the same as, or after, the date appointed under subsection (1).
 (4) A date appointed under subsection (1) or (2) must be the same as, or after, the date appointed under section 2(3).
 (5) Dates appointed under section 2(3) or subsection (1) or (2) of this section may be appointed by the same order or different orders.
+(6) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 **Amendment ensuring taking of tissue from live donor for transplantation, etc, is health treatment**
 
@@ -971,13 +980,10 @@ Standards incorporated by reference in regulations under section 74 or 75 that e
 (3) A failure to comply with this clause does not invalidate regulations that incorporate standards by reference.
 
 ### 7 Acts and Regulations Publication Act 1989 not applicable to standards incorporated by reference
-The Acts and Regulations Publication Act 1989 does not apply to—
-  (a) standards incorporated by reference in regulations under section 74 or 75; or
-  (b) an amendment to, or replacement of, those standards.
+[Repealed]
 
 ### 8 Application of Regulations (Disallowance) Act 1989 to standards incorporated by reference
-(1) Nothing in section 4 of the Regulations (Disallowance) Act 1989 requires standards that are incorporated by reference in regulations to be laid before the House of Representatives.
-(2) The Regulations (Disallowance) Act 1989, apart from the modification to the application of section 4 of that Act made by subclause (1) of this clause, applies to regulations under section 74 or 75 that incorporate standards by reference.
+[Repealed]
 
 ### 9 Application of Standards and Accreditation Act 2015 not affected
 Clauses 1 to 8 do not affect the application of sections 29 to 32 of the Standards and Accreditation Act 2015.
