@@ -1,5 +1,5 @@
 # Family Court Act 1980
-_Consolidation as at 2020-08-26_
+_Consolidation as at 2021-10-28_
 
 > Title
 
@@ -270,6 +270,9 @@ Notwithstanding anything in section 11, the District Court may—
   (k) the Marriage Act 1955:
   (l) the Property (Relationships) Act 1976:
   (m) the Protection of Personal and Property Rights Act 1988.
+(5) The following are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements):
+  (a) rules under this section:
+  (b) rules of practice and procedure for the Family Court under any other enactment.
 
 ### 16B Regulations relating to court fees
 (1) The Governor-General may, from time to time, by Order in Council, make regulations for all or any of the following purposes:
@@ -289,6 +292,7 @@ Notwithstanding anything in section 11, the District Court may—
   (f) providing for the manner in which an application for the exercise of a power specified in paragraph (b) or (d) is to be made, including, without limitation, requiring such an application to be in a form approved for the purpose by the chief executive of the Ministry of Justice.
   (g)
 (2) No fee is payable for an application for the exercise of a power specified in subsection (1)﻿(b) or (d).
+(3) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 16C Reviews of decisions of Registrars concerning fees
 (1) Any person who is aggrieved by a decision of a Registrar or Deputy Registrar under regulations made under section 16B(1)﻿(b) may apply to a Family Court Judge for a review of that decision.
@@ -373,6 +377,7 @@ Fees and expenses for report writers
   (a) the types of expenses for which a report writer may claim reimbursement:
   (b) the rate of reimbursement of those expenses:
   (c) the circumstances in which expenses may be reimbursed.
+(11) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 17 Certain enactments amended
 (1) The enactments specified in the Schedule are hereby consequentially amended in the manner specified in that schedule.
