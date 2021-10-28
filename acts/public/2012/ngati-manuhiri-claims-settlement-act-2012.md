@@ -1,5 +1,5 @@
 # Ngāti Manuhiri Claims Settlement Act 2012
-_Consolidation as at 2021-01-30_
+_Consolidation as at 2021-10-28_
 
 ### 1 Title
 This Act is the Ngāti Manuhiri Claims Settlement Act 2012.
@@ -618,22 +618,24 @@ If the trustees advise the New Zealand Conservation Authority in writing that th
 (3) An amendment initiated under subsection (1) is an amendment for the purposes of section 17I(1) to (3) of the Conservation Act 1987 or section 46(1) to (4) of the National Parks Act 1980, as the case may be.
 
 ### 54 Regulations
-The Governor-General may, by Order in Council made on the recommendation of the Minister of Conservation, make regulations for 1 or more of the following purposes:
+(1) The Governor-General may, by Order in Council made on the recommendation of the Minister of Conservation, make regulations for 1 or more of the following purposes:
   (a) to provide for the implementation of objectives included in a strategy or plan under section 53(1):
   (b) to regulate or prohibit activities or conduct by members of the public in relation to a whenua rāhui site:
   (c) to create offences for breaching any regulations made under paragraph (b):
   (d) to provide for the following fines to be imposed:
     (i) for an offence referred to in paragraph (c), a fine not exceeding $5,000; and
     (ii) for a continuing offence, an additional amount not exceeding $50 for every day during which the offence continues.
+(2) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 55 Bylaws
-The Minister of Conservation may make bylaws for 1 or more of the following purposes:
+(1) The Minister of Conservation may make bylaws for 1 or more of the following purposes:
   (a) to provide for the implementation of objectives included in a strategy or plan under section 53(1):
   (b) to regulate or prohibit activities or conduct by members of the public in relation to a whenua rāhui site:
   (c) to create offences for breaching any bylaws made under paragraph (b):
   (d) to provide for the following fines to be imposed:
     (i) for an offence referred to in paragraph (c), a fine not exceeding $1,000; and
     (ii) for a continuing offence, an additional amount not exceeding $50 for every day during which the offence continues.
+(2) Bylaws under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 56 Existing classification of whenua rāhui sites
 (1) This section applies if the whenua rāhui applies to any land in—
@@ -654,6 +656,7 @@ The Minister of Conservation may make bylaws for 1 or more of the following purp
   (a) subsection (2)﻿(c) applies; or
   (b) there is a change in the statutory management regime that applies to all or part of the whenua rāhui site.
 (4) The Crown must take reasonable steps to try to ensure that the trustees continue to have input into the management of the relevant area.
+(5) The Minister of Conservation must ensure that an order under this section is published in the Gazette.
 
 ### 58 Exercise of powers and performance of functions and duties
 (1) The whenua rāhui does not affect, and may not be taken into account by, a person exercising a power or performing a function or duty under legislation or a bylaw.
