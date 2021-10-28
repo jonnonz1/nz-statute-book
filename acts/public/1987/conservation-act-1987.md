@@ -1,5 +1,5 @@
 # Conservation Act 1987
-_Consolidation as at 2020-12-01_
+_Consolidation as at 2021-10-28_
 
 > An Act to promote the conservation of New Zealand's natural and historic resources, and for that purpose to establish a Department of Conservation
 
@@ -14,7 +14,7 @@ _Consolidation as at 2020-12-01_
   - **activity** includes a trade, business, or occupation
   - **aircraft** has the same meaning as in the Civil Aviation Act 1990
   - **amend** , in relation to any conservation management strategy, conservation management plan, freshwater fisheries management plan, or sports fish and game management plan, means any change that does not affect the objectives of the strategy or plan
-  - **Anglers Notice** means a notice published in the Gazette by a Fish and Game Council under section 26R
+  - **Anglers Notice** means a notice made under section 26R
   - **animal** means any member of the animal kingdom other than a human being
   - **animal product** means any part of any animal, or any dead animal or part of any dead animal; and includes the nest, excrement, secretion, semen, egg, or foetus, of any animal or dead animal
   - **aquatic life** means any species of plant or animal life (except birds) that must, at any time of the life history of the species, inhabit freshwater; and includes any part of any such plant or animal
@@ -44,7 +44,7 @@ _Consolidation as at 2020-12-01_
   - **conservation management plan** means a conservation management plan approved under section 14E of the Wildlife Act 1953, section 8 of the Marine Reserves Act 1971, section 40B of the Reserves Act 1977, section 3D of the Marine Mammals Protection Act 1978, or section 17G of this Act
   - **conservation management strategy** means a conservation management strategy approved under section 17F
   - **contaminant** has the same meaning as it has in the Resource Management Act 1991
-  - **controlled dog area** means any area declared, by notice published in the Gazette under section 26ZS, to be a controlled dog area
+  - **controlled dog area** means any area declared, by notice published under section 26ZS, to be a controlled dog area
   - **Crown land** has the same meaning as in the Land Act 1948
   - **customary marine title area** has the meaning given in section 9(1) of the Marine and Coastal Area (Takutai Moana) Act 2011
   - **day** means a period of 24 hours beginning at midnight and ending with the following midnight
@@ -109,7 +109,7 @@ _Consolidation as at 2020-12-01_
       (i) any document purporting to be a licence (whether or not the licence gives an interest, or makes any provision, referred to in paragraph (a)) and issued under any former Act; and
       (ii) any document purporting to be a licence and purporting to grant an exclusive interest in land, and issued under any former Act or issued under this Act before the commencement of section 2(2) of the Conservation Amendment Act 1996; and
       (iii) any document purporting to be a licence (whether or not the licence gives an interest, or makes any provision, referred to in paragraph (a)) and issued under this Act before the commencement of the said section 2(2);—
-  - **livestock** means any ass, cattle, or other browsing animal (not being a deer or goat or a marine mammal, fish, or shellfish), horse, mule, sheep, or swine, of whatever age or sex and whether or not neutered; and includes any animal, of whatever age or sex and whether or not neutered, of a class declared to be livestock for the purposes of this Act by the Governor-General by Order in Council
+  - **livestock** means any ass, cattle, or other browsing animal (not being a deer or goat or a marine mammal, fish, or shellfish), horse, mule, sheep, or swine, of whatever age or sex and whether or not neutered; and includes any animal, of whatever age or sex and whether or not neutered, of a class declared to be livestock for the purposes of this Act by the Governor-General by Order in Council (see subsection (4))
   - **manawhenua** means customary authority exercised by an iwi or hapu or individual in an identified area
   - **Maori** has the same meaning as in Te Ture Whenua Maori Act 1993
   - **Maori land** has the same meaning as in Te Ture Whenua Maori Act 1993
@@ -126,7 +126,7 @@ _Consolidation as at 2020-12-01_
   - **New Zealand Conservation Authority** or or means the New Zealand Conservation Authority established under section 6A
   - **New Zealand Fish and Game Council** means the New Zealand Fish and Game Council established under section 26B
   - **Nga Whenua Rahui kawenata** means an agreement entered into under section 27A
-  - **open dog area** means any area declared, by notice published in the Gazette under section 26ZS, to be an open dog area
+  - **open dog area** means any area declared, by notice published under section 26ZS, to be an open dog area
   - **operational work plan** means an annual operational work plan having effect under section 26Q(3)
   - **owner** , in relation to any dog, means every person who—but does not include any person who has seized or taken custody of the dog under this Act or the Animal Welfare Act 1999 or the National Parks Act 1980 or the Dog Control Act 1996 or any order made under the Dog Control Act 1996 or the Animal Welfare Act 1999
     (a) owns the dog; or
@@ -161,7 +161,7 @@ _Consolidation as at 2020-12-01_
   - **review** , in relation to any conservation management strategy or management plan, means to consider all objectives and policies of those provisions under review and to approve a new strategy or plan, having regard to increased knowledge or changed circumstances; and, for the purposes of this definition, an is a statement of intent from which a policy is derived
   - **sale** includes every method of disposition for valuable consideration, including barter; and includes the disposition to an agent for sale on consignment; and also includes offering or attempting to sell, or receiving or having in possession for sale, or exposing for sale, or sending or delivering for sale, or causing or permitting to be sold, offered, or exposed for sale; and also includes disposal by way of gambling; and and have corresponding meanings
   - **ship** means a ship, boat, hovercraft, raft, or vessel of any other description used, or designed to be used, in navigation
-  - **sports fish** means every species of freshwater fish that the Governor-General may declare, by Order in Council, to be sports fish for the purposes of this Act; and any such Order in Council may be expressed to apply to freshwater fish in any specified freshwater or other waters
+  - **sports fish** means every species of freshwater fish that the Governor-General may declare, by Order in Council, to be sports fish for the purposes of this Act; and any such Order in Council may be expressed to apply to freshwater fish in any specified freshwater or other waters (see subsections (3) and (4))
   - **sports fish and game management plan** means a sports fish and game management plan approved under section 17M
   - **sports fishing guide** means a person whose services are actively promoted or advertised for hire or reward with the express purpose of organising and assisting persons to fish for sports fish
   - **State forest land** means land that—
@@ -177,7 +177,7 @@ _Consolidation as at 2020-12-01_
     (a) in relation to any plant, includes the breaking, cutting, destroying, digging up, gathering, plucking, pulling up, and removing, of the plant; and to take has a corresponding meaning:
     (b) in relation to any fish, means fishing; and takes and to take have a corresponding meaning
   - **Taupo Fishery** means the fishery to which section 14 of the Maori Land Amendment and Maori Land Claims Adjustment Act 1926 relates
-  - **Treaty settlement legislation** means an Act that settles the historical claims of iwi or other Māori groups under the Treaty of Waitangi and includes any regulations, bylaws, or other legislative instruments made under that Act
+  - **Treaty settlement legislation** means an Act that settles the historical claims of iwi or other Māori groups under the Treaty of Waitangi and includes any secondary legislation made under that Act
   - **vehicle** has the same meaning as in the Land Transport Act 1998; but includes any vehicle from which any wheels have been removed
   - **warranted officer** means a person—
     (a) who—
@@ -193,6 +193,9 @@ _Consolidation as at 2020-12-01_
     (c) a day in the period commencing on 20 December in any year and ending with 10 January in the following year.
 (2) In this Act, unless the context otherwise requires, conservation park, ecological area, sanctuary area, or wilderness area, mean an area held for ecological, park, sanctuary, or wilderness purposes under section 18AA(1) or 18(1).
 (3) For the purposes of this Act, the Governor-General may from time to time, by Order in Council, declare any species to be included in or excluded from the definitions of the terms aquatic life, freshwater fish, or sports fish in subsection (1); and any such declaration may be expressed to apply to any species in any specified areas or waters, or generally throughout New Zealand.
+(4) The following are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements):
+  (a) an order under the definition of livestock in subsection (1); and
+  (b) an order under subsection (3).
 
 ### 3 Act to bind the Crown
 This Act binds the Crown.
@@ -469,11 +472,14 @@ The Boards shall be serviced by the Department in such manner as the Minister ma
 [Repealed]
 
 ### 13 Conservation areas may be closed
-(1) The Minister may—and during the closure no person not authorised to do so by the Director-General shall remain in or enter the area.
+(1) The Minister may, by notice,—and during the closure no person not authorised to do so by the Director-General shall remain in or enter the area.
   (a) if requested to do so under section 24H(7) or if any conservation management strategy or conservation management plan relating to any conservation area provides for its closure in whole or in part for conservation purposes, to public entry, close the area or any part of it to public entry in accordance with the strategy or plan; and
   (b) to the extent only that the conservation of any natural or historic resource of a conservation area for which there is no conservation management strategy or conservation management plan requires the closure of the area to public entry, close the area to public entry; and
   (c) for reasons of public safety or emergency close any conservation area to public entry;—
 (2) For so long as a conservation area is closed under subsection (1), the Director-General shall take all reasonable steps to ensure that members of the public are made aware of the closure and the reasons for it.
+(3) A notice under this section—
+  (a) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements); and
+  (b) comes into force when it is made, even if it is not yet published.
 
 ### 14 Conditions on the issuing of leases and licences, and disposal of conservation areas
 [Repealed]
@@ -1096,6 +1102,7 @@ Without limiting any other provision in this Part, upon application by an applic
 (4) A conservation area declared to be held for the purpose of a wilderness area, a sanctuary area, or both, under this section must be managed in a manner that is consistent with that purpose or those purposes (as the case may be).
 (5) The Governor-General may, by Order in Council made on the recommendation of the Minister, vary or revoke the purpose, or all or any of the purposes, for which any conservation area held under subsection (1) is held, and the land is to be held accordingly as provided in the order.
 (6) Before making a recommendation under subsection (5), the Minister must give public notice of the intention to recommend the making of the order, and section 49 applies with the necessary modifications.
+(7) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 18AB Governor-General may declare that wetland be notified to Ramsar Secretariat
 (1) The Governor-General may, by Order in Council made on the recommendation of the Minister,—
@@ -1103,6 +1110,7 @@ Without limiting any other provision in this Part, upon application by an applic
   (b) declare that the Minister for the time being responsible for the Ramsar Administrative Authority must notify the Ramsar Secretariat of the wetland and the details of the area of the wetland; and
   (c) declare that the wetland is to have the official geographic name stated in the order.
 (2) Before making a recommendation under subsection (1), the Minister must refer the proposed name to the New Zealand Geographic Board Ngā Pou Taunaha o Aotearoa for review under subpart 3 of Part 2 of the New Zealand Geographic Board (Ngā Pou Taunaha o Aotearoa) Act 2008.
+(3) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 18 Minister may confer additional specific protection or preservation requirements
 (1) Subject to subsections (2) to (4), the Minister may, by notice in the Gazette describing the land concerned, declare any land or interest in land, held under this Act for conservation purposes to be held for the purpose of a conservation park, an ecological area, for any other specified purpose or purposes, or for 2 or more of those purposes; and, subject to this Act, it shall thereafter so be held.
@@ -1125,6 +1133,7 @@ Without limiting any other provision in this Part, upon application by an applic
 (4) Regulations under subsection (3) may be so made as to apply to—
   (a) all conservation parks, parks of any class or description, or to any specified conservation park or parks:
   (b) all committees constituted by or under regulations made under subsection (3), or to any such committee or committees.
+(5) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 20 Wilderness areas
 (1) Subject to subsections (2) to (4), the following provisions apply to every wilderness area:
@@ -1407,7 +1416,10 @@ Every stewardship area shall so be managed that its natural and historic resourc
 (1) The functions of the New Zealand Fish and Game Council shall be—
   (a) to develop, in consultation with Fish and Game Councils, national policies for the carrying out of its functions for sports fish and game, and the effective implementation of relevant general policies established under the Wildlife Act 1953 and this Act:
   (b) to advise the Minister on issues relating to sports fish and game:
-  (ba) to co-ordinate the preparation and recommendation, for the Minister's approval, of Anglers Notices and notices for game seasons; to advise the Minister in relation to such matters; and to publish in the Gazette Anglers Notices and notices for game seasons:.
+  (ba) in relation to Anglers Notices and notices for game seasons (under section 15 of the Wildlife Act 1953),—
+    (i) to co-ordinate their preparation and recommendation to the Minister for approval:
+    (ii) to advise the Minister:
+    (iii) to arrange for their publication under the Legislation Act 2019:
   (c) to participate, with the Director-General and other interested parties, in the development of a research programme promoting the management of sports fish and game:
   (d) to oversee the electoral system by which members of Fish and Game Councils are elected:
   (e) to recommend to the Minister an appropriate fee for fishing and hunting licences, after having regard to the views and recommendations of Fish and Game Councils:
@@ -1588,7 +1600,7 @@ Except as otherwise provided by this Act or any regulations made under it, no me
   (a) Fish and Game Councils shall prepare such notices:
   (b) Fish and Game Councils shall, through the New Zealand Fish and Game Council, recommend such notices for approval by the Minister:
   (c) the New Zealand Fish and Game Council shall, if satisfied as to the form of the notice, submit it for the Minister's approval:
-  (d) as soon as practicable after a notice is approved by the Minister, the New Zealand Fish and Game Council shall publish the notice in the Gazette:
+  (d) as soon as practicable after a notice is approved by the Minister, the New Zealand Fish and Game Council must arrange for it to be published under the Legislation Act 2019:
   (e) Fish and Game Councils shall make copies of notices available for sale to the public.
 (4) An Anglers Notice shall set out the conditions under which a current licence holder may fish for sports fish in the area to which the notice relates, being conditions relating to—
   (a) the size and limit bag for any species of sports fish:
@@ -1598,6 +1610,10 @@ Except as otherwise provided by this Act or any regulations made under it, no me
   (e) the handling, treatment, or disposal of any sports fish.
 (5) An Anglers Notice may also declare any waters within the area of jurisdiction of the Fish and Game Council to be fisheries experimental waters, and to make such provision for the protection of fish in those waters as in the opinion of the Minister are necessary or desirable for fish research purposes.
 (6) Every person commits an offence and is liable to a fine not exceeding $5,000 who takes any sports fish from any waters at any time or place, or with any device or in any manner, if such taking is not permitted by any Anglers Notice in force in respect of those waters.
+(7) An Anglers Notice is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+(8) The Legislation Act 2019 applies as if—
+  (a) the Minister were the maker of the notice; and
+  (b) the notice were made by the Minister approving it.
 
 ### 26S Powers of Fish and Game Councils
 (1) Each Fish and Game Council shall have all such powers as are reasonably necessary or expedient to enable it to carry out its functions.
@@ -1743,14 +1759,14 @@ Notice in writing of every meeting of a Fish and Game Council and of the busines
   (b) from a freshwater area that is not a conservation area or part of a conservation area if the Director-General is satisfied that the activity is consistent with the management of freshwater fisheries in that area and any requirements in regulations have been met.
 (2) An authorisation may be subject to any conditions or restrictions specified by the Director-General.
 
-### 26ZHD Director-General may authorise taking of indigenous fish by Gazette notice
-(1) The Director-General may, by notice in the Gazette, give authorisation for the taking of indigenous freshwater fish from an area other than a national park.
+### 26ZHD Director-General may authorise taking of indigenous fish by notice
+(1) The Director-General may, by notice, give authorisation for the taking of indigenous freshwater fish from an area other than a national park.
 (2) The notice must specify—
   (a) the kind of indigenous fish that may be taken; and
   (b) the area from which the fish may be taken; and
   (c) the manner in which the fish may be taken.
 (3) An authorisation may be subject to any conditions or restrictions specified by the Director-General.
-(4) A notice under this section is a disallowable instrument for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
+(4) A notice under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 **Sports fisheries**
 
@@ -1777,14 +1793,14 @@ Notice in writing of every meeting of a Fish and Game Council and of the busines
 (4) In this section, authorisation means an authorisation given under section 26ZJA(4) or (5).
 
 ### 26ZJA Director-General may declare spawning area
-(1) The Director-General may, by notice in the Gazette, declare an area to be a spawning area if the Director-General has reasonable grounds to believe that the area—
+(1) The Director-General may, by notice, declare an area to be a spawning area if the Director-General has reasonable grounds to believe that the area—
   (a) is being used for the spawning of freshwater fish; or
   (b) is suitable for the spawning of freshwater fish.
 (2) Without limiting subsection (1), the Director-General may make a notice declaring a spawning area under that subsection on the recommendation of the New Zealand Fish and Game Council in relation to the spawning of sports fish in the area.
 (3) A person must not carry out an activity in a declared spawning area that disturbs or is reasonably likely to disturb the area unless—
   (a) the Director-General has given authorisation under subsection (4) or (5) for the activity to be carried out; and
   (b) the person complies with any conditions or restrictions specified in the authorisation.
-(4) The Director-General may, by notice in the Gazette, give authorisation for a specified activity to be carried out in a declared spawning area that disturbs or is reasonably likely to disturb the area, if the Director-General is satisfied that—
+(4) The Director-General may, by notice, give authorisation for a specified activity to be carried out in a declared spawning area that disturbs or is reasonably likely to disturb the area, if the Director-General is satisfied that—
   (a) the activity would have no more than a minor effect on the suitability of the area for the spawning of freshwater fish; or
   (b) the activity is necessary for the restoration of the area; or
   (c) the purpose of the activity outweighs any adverse effect it may have on the spawning of freshwater fish in the area.
@@ -1795,7 +1811,7 @@ Notice in writing of every meeting of a Fish and Game Council and of the busines
 (7) In this section, an activity disturbs a declared spawning area if it—
   (a) disturbs the spawning of freshwater fish in the area; or
   (b) makes the area less suitable for the spawning of freshwater fish in the area.
-(8) A notice under subsection (4) is a disallowable instrument for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
+(8) A notice under subsection (1) or (4) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 **Various restrictions relating to fishing and aquatic life**
 
@@ -1803,7 +1819,7 @@ Notice in writing of every meeting of a Fish and Game Council and of the busines
 No competition involving the taking of sports fish shall be held unless it conforms in all respects with any regulations made under this Act.
 
 ### 26ZL Restrictions on fishing
-(1) The Director-General, by a notice published on at least 2 consecutive Saturdays in 1 or more daily newspapers circulating in the area concerned, for such period as may be specified in the notice, may, notwithstanding that it is otherwise lawful under this Act,—
+(1) The Director-General, may, by notice, for such period as may be specified in the notice and notwithstanding that it is otherwise lawful under this Act,—
   (a)
   (b) prohibit or impose restrictions and conditions on entry into any waters within a specified distance of any device erected in those waters for the purpose of preventing or controlling the movement of fish upstream or downstream or on entry to any land within a specified distance of any such device:
   (c) prohibit or impose restrictions or conditions on fishing in any waters or in any specified part or parts thereof, or on the taking of any species of fish therein, or on the methods of fishing in such waters:
@@ -1811,6 +1827,10 @@ No competition involving the taking of sports fish shall be held unless it confo
 (2) Any Fish and Game Council may request the Director-General to issue a notice under subsection (1).
 (2A) Every person commits an offence and is liable to a fine not exceeding $5,000 who contravenes any prohibitions, restrictions, or conditions imposed by a notice given in accordance with subsection (1).
 (3) Notwithstanding subsection (1), the Director-General shall not impose any prohibition, restriction, or other condition that relates to the taking of sports fish from any waters in any area within the jurisdiction of a Fish and Game Council without prior consultation with that Council, nor restrict entry to any area without prior consultation with the appropriate regional council or any government agency that has statutory control over the land involved.
+(4) A notice under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+(5) A notice does not take effect until—
+  (a) the notice has been published under the Legislation Act 2019; and
+  (b) 2 consecutive Saturdays (including the day it is published if that is a Saturday) have passed since the notice was first published.
 
 ### 26ZM Transfer or release of live aquatic life
 (1) No person shall transfer live aquatic life or release live aquatic life into any freshwater, except in accordance with this section.
@@ -1853,7 +1873,9 @@ No competition involving the taking of sports fish shall be held unless it confo
   (b) extend or vary a determination or vary a determination that has been extended so long as the total period of the closed season does not exceed 5 years.
 (2) A notice—
   (a) must state the purpose of the closed season, the species of fish and the area to which the closed season applies, and the duration of the closed season; and
-  (b) does not take effect until the Director-General has published the notice for at least 2 consecutive Saturdays in 1 or more of the daily newspapers circulating in the area concerned.
+  (b) does not take effect until—
+    (i) the notice has been published under the Legislation Act 2019; and
+    (ii) 2 consecutive Saturdays (including the day it is published if that is a Saturday) have passed since the notice was first published.
 (3) A person commits an offence who, without authorisation under this section, takes, possesses, or in any way injures or disturbs a fish to which a closed season applies.
 (4) Every person who commits an offence against this section is liable to a fine not exceeding $5,000, and to a further fine not exceeding $20 in respect of every fish in relation to which the offence was committed.
 (5) Any person who, during any closed season, is found in possession of any fish shall be deemed to have taken or obtained that fish during such closed season until the contrary is proved.
@@ -1861,6 +1883,7 @@ No competition involving the taking of sports fish shall be held unless it confo
   (a) the taking of the fish is consistent with the purpose of the closed season; and
   (b) the person has met the requirements (if any) set out in regulations.
 (7) An authorisation may be subject to any conditions or restrictions specified by the Director-General or in regulations.
+(8) A notice under subsection (1) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 26ZQ Buying, selling, or possessing fish, contrary to Act
 (1) Every person commits an offence who buys, sells, or has in his or her possession for the purpose of sale any freshwater fish taken in New Zealand in contravention of this Part, or any regulation made or notice given under this Act.
@@ -1897,7 +1920,7 @@ No competition involving the taking of sports fish shall be held unless it confo
 ## Part 5C — Control of dogs
 
 ### 26ZS Controlled dog areas and open dog areas
-(1) Subject to sections 26ZT to 26ZZF, the Minister may from time to time, by notice in the Gazette, declare any part or parts of the land managed and administered by the Minister or Department under any of the following Acts, namely,—to be either a controlled dog area or an open dog area.
+(1) Subject to sections 26ZT to 26ZZF, the Minister may from time to time, by notice, declare any part or parts of the land managed and administered by the Minister or Department under any of the following Acts, namely,—to be either a controlled dog area or an open dog area.
   (a) the Foreshore and Seabed Endowment Revesting Act 1991 so far as it is saved by section 30(2) of the Foreshore and Seabed Act 2004:
   (ab) the Marine and Coastal Area (Takutai Moana) Act 2011:
   (b) the Reserves Act 1977:
@@ -1906,7 +1929,8 @@ No competition involving the taking of sports fish shall be held unless it confo
   (e)
   (f) the Wildlife Act 1953:
   (g) this Act,—
-(2) The Minister may from time to time, by notice in the Gazette, amend or revoke any notice under this section or, subject to section 26ZX, amend or revoke any conditions imposed under section 26ZU(c).
+(2) The Minister may from time to time, by notice, amend or revoke any notice under this section or, subject to section 26ZX, amend or revoke any conditions imposed under section 26ZU(c).
+(3) A notice under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 26ZT Areas excluded from open dog areas
 An open dog area may not include—
@@ -2007,7 +2031,7 @@ The Director-General shall prepare a summary of the submissions received on the 
   (c) decline to approve the recommendations.
 
 ### 26ZZF Issue of notice
-Where the Director-General recommends the publication of a notice under section 26ZS, the Minister,—may approve the recommendation, with or without changes, and may publish in the Gazette a notice under section 26ZS.
+Where the Director-General recommends the publication of a notice under section 26ZS, the Minister,—may approve the recommendation, with or without changes, and may publish a notice under section 26ZS.
   (a) if he or she is satisfied about the matters specified in section 26ZT; and
   (b) if he or she has taken into account the matters specified in section 26ZU; and
   (c) if he or she in fixing any conditions has had regard to the matters specified in section 26ZV,—
@@ -2419,6 +2443,10 @@ A court may sentence any individual who is convicted of an offence against this 
   (d) provide for the refund or waiver of any fee or levy by the Minister or the Director-General, in whole or in part, in any specified case or class of cases.
 (3) Regulations made under this section that relate to a conservation area may apply to all conservation areas, conservation areas of a specified class or description, or any specified conservation area or conservation areas or any specified part of any conservation area.
 (4) For the purposes of this section, the term conservation organisation includes the New Zealand Conservation Authority, any Conservation Board, the New Zealand Fish and Game Council, and any Fish and Game Council.
+(5) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+(6) If regulations authorise the Minister or the Director-General to grant refunds or waivers referred to in subsection (2)﻿(d),—
+  (a) an instrument granting a refund or waiver is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements), unless it applies only to 1 or more named persons; and
+  (b) the regulations must contain a statement to that effect.
 
 ### 48AA Regulations prescribing time limits for applications for concessions
 (1) The Governor-General may, by Order in Council, make regulations for 1 or more of the following purposes:
@@ -2429,6 +2457,7 @@ A court may sentence any individual who is convicted of an offence against this 
   (e) providing for the consequences of not meeting a prescribed time limit or any extension of the time limit:
   (f) providing for any other matters relating to a prescribed time limit.
 (2) In this section, prescribed time limit means a time limit prescribed by regulations made under this section.
+(3) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 48A Special regulations relating to freshwater fisheries
 (1) Without limiting section 48, the Governor-General may from time to time, by Order in Council, on the recommendation of the Minister, make regulations for all or any of the following purposes:
@@ -2440,7 +2469,7 @@ A court may sentence any individual who is convicted of an offence against this 
   (f) regulating or prohibiting—
     (i) the taking of any specified freshwater fish, including any method of taking that fish; and
     (ii) the use, possession, or sale of any specified freshwater fish:
-  (g) providing for the issue, refusal, renewal, suspension, revocation, modification, and imposition by the regulations or the Director-General of conditions on licences for persons who wish to acquire or be in possession in prescribed circumstances of fish taken for the purposes of sale:
+  (g) providing for the issue, refusal, renewal, suspension, revocation, modification, and imposition by the regulations or the Director-General (by notice) of conditions on licences for persons who wish to acquire or be in possession in prescribed circumstances of fish taken for the purposes of sale:
   (h) providing for the recognition of licences granted under any other Act as licences for the purposes of this Act:
   (i) providing for the variation, renewal, and revocation of licences to fish for freshwater fish or sports fish and licences to operate as a sports fishing guide and for the refusal of the issue of licences in certain cases:
   (j) providing for the payment to a Fish and Game Council of any fines or licence fees for the purposes of the distribution, rearing, cultivation, or protection of sports fish in the area under the jurisdiction of that Council, or, with the approval of the Minister given upon or subject to such conditions as the Minister thinks fit, for the purpose of applying the same or any part thereof either alone or jointly with any other Council for any such purpose in the area of any Council, or for any related purpose approved by the Minister:
@@ -2458,7 +2487,7 @@ A court may sentence any individual who is convicted of an offence against this 
   (na) prohibiting, restricting, or regulating any structure or alteration to a water body that could impede or affect the passage of freshwater fish or specified freshwater fish (see clause 6 of Schedule 1AA):
   (o) authorising the establishment of fish hatcheries by Fish and Game Councils, or the Department, and regulating the management and operation of such establishments:
   (p) to prohibit or impose conditions and restrictions on the possession, or the retention in captivity, or the transfer to or release into any waters, of any live aquatic life:
-  (q) prescribing conditions and rentals payable in respect of fishing competitions generally; and authorising the Director-General to prescribe such conditions and rentals in respect of the Taupo Fishery; and authorising Fish and Game Councils to prescribe such conditions and rentals in respect of waters under their respective jurisdictions:
+  (q) prescribing conditions and rentals payable in respect of fishing competitions generally; and authorising the Director-General to, by notice, prescribe such conditions and rentals in respect of the Taupo Fishery; and authorising Fish and Game Councils to, by notice, prescribe such conditions and rentals in respect of waters under their respective jurisdictions:
   (r) in relation to indigenous freshwater fish,—
     (i) specifying activities that are reasonably likely to injure or kill specified indigenous freshwater fish; and
     (ii) regulating, restricting, or imposing conditions on those specified activities that are reasonably necessary to prevent the killing or injuring of those fish; and
@@ -2471,18 +2500,30 @@ A court may sentence any individual who is convicted of an offence against this 
 (2) Any such regulations—
   (a) may apply generally throughout New Zealand or New Zealand freshwaters or be made to apply only within such area or areas as may be defined in that behalf:
   (b) may apply special conditions or confer special rights in relation to fishing by specified communities.
-(2A) Notwithstanding anything in section 48(1)﻿(k) or section 48A(1)﻿(c) or (e), the Minister may by notice in the Gazette,—
+(2A) Notwithstanding anything in section 48(1)﻿(k) or section 48A(1)﻿(c) or (e), the Minister may by notice,—
   (a) fix the forms and classes of licences to fish for sports fish:
   (b) fix the scope and effect of licences or any specified class of licences to fish for sports fish:
   (c) provide for the licences issued in respect of any region for sports fish to be available in any other region or regions or in all regions:
   (d) fix the fees payable for any licence to fish for sports fish.
-(2B) A notice in the Gazette made under subsection (2A) is a legislative instrument and a disallowable instrument for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
+(2B)
 (3) Subject to subsection (4), for the purpose of ensuring compliance with the requirements of any regulations made under subsection (1)﻿(j), any person authorised in that behalf by the Controller and Auditor-General may, during the usual working hours of the Council, enter upon the premises of any Fish and Game Council and there inspect any books or papers belonging to or in the possession of the Council.
 (4) Before entering any premises pursuant to subsection (3), a person referred to in that section shall produce evidence of his or her appointment, if requested to do so by the person appearing to be in charge of those premises.
 (5) Subsection (6) applies if there is inconsistency between—
   (a) a provision relating to indigenous freshwater fish in regulations made under subsection (1)﻿(b), (f), or (i); and
   (b) a provision in Treaty settlement legislation, or a provision in regulations relating to Māori fishing rights made under the Fisheries Act 1996.
 (6) If this subsection applies, a provision described in subsection (5)﻿(b) prevails over a provision described in subsection (5)﻿(a).
+(7) The following are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements):
+  (a) regulations under subsection (1):
+  (b) a notice under subsection (2A).
+(8) If regulations under subsection (1)﻿(g) provide for the Director-General to impose conditions on licences,—
+  (a) the notice imposing the conditions is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements), unless the notice applies only to 1 or more named persons; and
+  (b) the regulations must contain a statement to that effect.
+(8A) If regulations authorise a person to grant exemptions referred to in subsection (1)﻿(l)﻿(i),—
+  (a) an exemption is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements), unless it applies only to 1 or more named persons; and
+  (b) the regulations must contain a statement to that effect.
+(9) If regulations under subsection (1)﻿(q) authorise the Director-General or Fish and Game Councils to prescribe conditions or rentals payable,—
+  (a) the notice prescribing the conditions or rentals payable is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements); and
+  (b) the regulations must contain a statement to that effect.
 
 ### 48B Special regulations relating to South Island freshwater fisheries
 (1) The Governor-General may from time to time, by Order in Council, make regulations providing for customary Māori fishing rights with respect to freshwater fisheries within South Island fisheries waters.
@@ -2496,6 +2537,7 @@ A court may sentence any individual who is convicted of an offence against this 
   (f) provide for the Minister of Conservation to intervene and to provide information and assistance in order to promote the objectives of the regulations:
   (g) provide for such matters as may be necessary or desirable to achieve compliance with the regulations:
   (h) prescribe offences for the breach of the regulations and for the imposition of fines not exceeding $10,000, including the imposition of different fines in respect of a first offence, a second offence, and subsequent offences.
+(4) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 48C Regulations relating to infringement offences
 (1) The Governor-General may, by Order in Council made on the recommendation of the Minister, make regulations—
@@ -2509,6 +2551,7 @@ A court may sentence any individual who is convicted of an offence against this 
   (b) is similar to that conduct.
 (3) Subsection (2) does not limit subsection (1)﻿(a).
 (4) In the circumstances described in subsection (2), the infringement offence does not prevent the prosecution of, and conviction for, the offence referred to in subsection (2)﻿(a).
+(5) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 49 Public notice and rights of objection
 (1) Where this Act requires any thing to be publicly notified, the Minister shall publish a notice of the thing in some newspaper circulating in the area in which the subject matter of the notice is situated and at least once in each of 4 daily newspapers published in Auckland, Wellington, Christchurch, and Dunedin, respectively; but if satisfied that the thing is of local or regional interest only, the Minister may limit the publication of the notice to a newspaper or newspapers circulating throughout the locality or region in which the subject matter is situated.
@@ -2528,8 +2571,11 @@ A court may sentence any individual who is convicted of an offence against this 
 (2) After disposing of or transferring any land or interest in land under section 60(2) or section 64A, the Director-General shall give the appropriate Chief Surveyor written notice of the disposal or transfer.
 
 ### 50A Errors of description in notices may be corrected
-(1) Where in any notice published in the Gazette under this Act there has been made any error of description (whether with respect to the boundaries of an area of land or otherwise), the Minister may revoke the notice and issue in its place a fresh notice with amended particulars and descriptions, or may by a further notice amend the original notice to correct any such errors.
+(1AAA) This section applies to a notice that is secondary legislation or that is required to be published in the Gazette.
+(1AAB) The publication requirements that apply to an amending notice under this section are the same as those that applied to the original notice.
+(1) Where in any notice there has been made any error of description (whether with respect to the boundaries of an area of land or otherwise), the Minister may revoke the notice and issue in its place a fresh notice with amended particulars and descriptions, or may by a further notice amend the original notice to correct any such errors.
 (2) Every fresh notice or amending notice under this section shall, according to its tenor, take effect as from the date on which the original notice was intended to take effect or as from such other date as may be specified in that behalf in the fresh or amending notice.
+(3) A notice under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements) if the notice amends or replaces secondary legislation.
 
 ### 51 Consent or approval may be conditional
 (1) Except where it is otherwise expressly provided in this Act or any other Act, every arrangement, approval, authority, concurrence, consent, decision, order, permission, permit, waiver, or other similar action given, granted, issued, made, or reached by the Minister under this Act or any other Act in respect of any conservation area, or any land to which section 61 or section 62 applies, shall be subject to the payment of such rents and compensation, and to such conditions (including a requirement to give any security), as the Minister may impose.
@@ -3032,6 +3078,7 @@ Where, immediately before the commencement of this Act, there was in existence a
   (e) the Minister after consultation with the Minister of Transport,—
 (14) Notwithstanding the repeal or amendment of any provision in the Marine Farming Act 1971, the validity, invalidity, effect, or consequences of any thing already done or suffered in respect of any licence, permit, approval, or consent under that Act, shall not be affected:
   provided that any change in requirements as to any consent, renewal, amendment, or any other such matter relating thereto and either provided for by this Act or occurring on or after 1 April 1987 shall be deemed to apply to such licences, permits, approvals, or consents under the Marine Farming Act 1971 as appropriate.
+(15) An order under subsection (2) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ## Schedule 1AA — Transitional, savings, and related provisions
 
