@@ -1,5 +1,5 @@
 # Coroners Act 2006
-_Consolidation as at 2020-12-01_
+_Consolidation as at 2021-10-28_
 
 ### 1 Title
 This Act is the Coroners Act 2006.
@@ -587,8 +587,8 @@ A coroner may authorise the release of a child under section 42 (and references 
   (b) the retention is, in the pathologist's opinion, necessary for the purposes of the post-mortem, and is authorised by the coroner in accordance with section 49; or
   (c) the pathologist explained to the family members or other people to whom the body is to be released that the pathologist proposed to retain the part or sample for a specified purpose and none of those members or people objected to the pathologist's proposal.
 (3) The pathologist must notify the coroner if the pathologist retains, or intends to retain, a part or sample under subsection (2)﻿(a).
-(4) In this section, minute, in relation to a body part or bodily sample, has the meaning given by the Secretary by notice in the Gazette (both printed and online versions).
-(5) A notice under subsection (4) is a disallowable instrument, but not a legislative instrument, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
+(4) In this section, minute, in relation to a body part or bodily sample, has the meaning given by the Secretary by notice.
+(5) A notice under subsection (4) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 49 Coroner's authorisation under section 48(2)﻿(b)
 A coroner may authorise the retention of a body part or bodily sample under section 48(2)﻿(b) only in writing signed by the coroner, and only if the pathologist has first notified the coroner in writing of—
@@ -1411,9 +1411,10 @@ Every person commits an offence against this section, and is liable on convictio
 **Technical provisions**
 
 ### 140 Regulations
-The Governor-General may, by Order in Council, make regulations for either or both of the following purposes:
+(1) The Governor-General may, by Order in Council, make regulations for either or both of the following purposes:
   (a) prescribing salaries, fees, allowances, and travelling allowances and expenses, for specialist advisers, witnesses, doctors, analysts, and pathologists, who perform any function under this Act or give evidence for the purposes of an inquiry conducted, or at an inquest held, under this Act:
   (b) providing for any other matters contemplated by this Act, necessary for its administration, or necessary for giving it full effect.
+(2) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 141 Transitional provisions: amendments to Coroners Act 1988 effective day after assent are in Schedule 1
 [Repealed]
