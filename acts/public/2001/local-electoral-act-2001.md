@@ -1,11 +1,12 @@
 # Local Electoral Act 2001
-_Consolidation as at 2021-03-02_
+_Consolidation as at 2021-10-28_
 
 ### 1 Title
 This Act is the Local Electoral Act 2001.
 
 ### 2 Commencement
-This Act comes into force on a date to be appointed by the Governor-General by Order in Council, and 1 or more Orders in Council may be made appointing different dates for different provisions.
+(1) This Act comes into force on a date to be appointed by the Governor-General by Order in Council, and 1 or more Orders in Council may be made appointing different dates for different provisions.
+(2) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 3 Purpose
 The purpose of this Act is to modernise the law governing the conduct of local elections and polls and, in doing this, to—
@@ -1296,6 +1297,7 @@ Any 10 or more electors who are in favour of or opposed to any one proposal at a
   (a) a date specified in the order has effect in relation to the triennial general election of members of the 1 or more local authorities, local boards, and community boards to which the order applies; and
   (b) this Act and any regulations made under this Act apply to the election with any necessary modifications.
 (8) The electoral officer must, as soon as practicable, give public notice of every change of date made by the Order in Council, and may give any other notice that the electoral officer considers desirable.
+(9) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 73AB Adjournment of electoral processes and conduct of polls while epidemic notice in force for COVID-19
 (1) The Governor-General may, by Order in Council, in the period during which the Epidemic Preparedness (COVID-19) Notice 2020 is in force, specify a later date for 1 or more of the following in respect of an election to fill an extraordinary vacancy:
@@ -1325,6 +1327,7 @@ Any 10 or more electors who are in favour of or opposed to any one proposal at a
   (b) this Act and any regulations made under it apply to the election or poll with any necessary modifications.
 (9) The relevant electoral officer must, as soon as practicable, give public notice of every change of date made by an order under this section and may give any other notice they consider desirable.
 (10) In subsections (3)﻿(b) and (4), the date that would otherwise have applied, for a further order relating to a matter that has been the subject of an earlier order, means the date that was specified in that earlier order.
+(11) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 73AC Repeal and revocation
 (1) Section 73AB and this section are repealed and any orders made under section 73AB are revoked when the Epidemic Preparedness (COVID-19) Notice 2020 expires or is revoked.
@@ -2226,6 +2229,7 @@ In any proceedings for an offence in relation to any voting documents or other o
   (m) providing for any other matters contemplated by this Act, necessary for its administration, or necessary for giving it full effect.
 (2) Regulations may not be made under subsection (1)﻿(c) authorising the use of a voting method (other than booth voting or postal voting or a combination of both methods) unless the Minister advises that he or she is satisfied that the voting method to be authorised for use will be able to operate in a manner consistent with the principles described in section 4.
 (3) The Minister may not give the advice referred to in subsection (2) unless he or she has first consulted with those organisations or bodies that the Minister considers to be representative of organisations or persons likely to be substantially affected by the regulations.
+(4) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 140 Powers and duties of electoral officers
 Regulations made under section 139(1)﻿(a) may include (without limitation) provision for the following:
@@ -2508,59 +2512,3 @@ In determining the number of wards and the boundaries of Māori wards, and the n
 ## Schedule 3 — Enactments amended
 
 ## Schedule 4 — Repeals and revocations
-
-### 1 Title
-(1) This Act is the Local Electoral Amendment Act 2002.
-(2) In this Act, the Local Electoral Act 2001 is called the principal Act.
-
-### 2 Commencement
-This Act comes into force on the day after the date on which this Act receives the Royal assent.
-
-### 50 Declaration of Single Transferable Voting to be electoral system
-(1) Single Transferable Voting is—
-  (a) deemed to have been prescribed for use at an election or poll conducted under the principal Act, with effect on and after 14 October 2001; and
-  (b) deemed to be an electoral system (within the meaning of that term as defined in section 5(1) of the principal Act), with effect on and after 14 October 2001.
-(2) No action taken by a local authority or any other person on or after 14 October 2001 in reliance or purported reliance on any provision of the principal Act or any regulations made under the principal Act is invalid by reason that Single Transferable Voting was not prescribed for use at an election or poll conducted under the principal Act at the time that the action was taken.
-(3) In this section, Single Transferable Voting means Single Transferable Voting using either—
-  (a) Meek's method of counting votes; or
-  (b) on and after the commencement of this section, the New Zealand method of counting single transferable votes.
-
-### 54 Transitional provision relating to polls on electoral systems
-(1) Any valid demand under section 29(1) of the principal Act (as it read before the commencement of this section) in respect of which no poll has been held before the commencement of this section must be treated, on and after the commencement of this section, as if it had been made under section 29(1) of the principal Act (as amended by section 11 of this Act).
-(2) Any demand under section 29(1) of the principal Act made after the commencement of this section which refers to the proposal described in section 29(1) of the principal Act (as it read before the commencement of this section) must be treated as a demand referring to the proposal described in section 29(1) of the principal Act (as amended by section 11 of this Act).
-(3) Any resolution made under section 31(1) of the principal Act (as it read before the commencement of this section) in respect of which no poll has been held before the commencement of this section must be treated, on and after the commencement of this section, as if it had been made under section 31(1) of the principal Act (as substituted by section 13 of this Act).
-(4) On and after the commencement of this section, any poll held under section 33 of the principal Act (as it read before the commencement of this section) takes effect as if it had been held under section 33 of the principal Act (as amended by section 15 of this Act).
-
-### 55 Certain determinations to remain in effect
-A determination that, immediately before the commencement of this section, was in effect under section 101K or section 101M of the Local Government Act 1974 continues in effect on and after the commencement of this section until a determination made under Part 1A of the principal Act replacing that determination comes into effect.
-
-### 1 Title
-This Act is the Local Electoral Amendment Act 2013.
-
-### 2 Commencement
-This Act comes into force on the day after the date on which it receives the Royal assent.
-
-## Part 1 — Amendments to principal Act
-
-### 3 Principal Act
-This Part amends the Local Electoral Act 2001 (the principal Act).
-
-### 44 Transitional provision for representation review processes
-(1) This section applies if a resolution under section 19H, 19I, 19J, or 19N of the principal Act, or a determination under section 19R of the principal Act, would affect the 2013 triennial general election of members of a territorial authority, regional council, or community board.
-(2) The principal Act applies in relation to the resolution or determination as if section 19V had not been amended by this Part.
-
-### 45 Transitional provision for donations received before commencement of Act
-For the purposes of the next triennial general election held after the commencement of this Act,—
-  (a) the following provisions of the principal Act do not apply to anonymous donations received before the commencement of this Act:
-    (i) paragraph (b) of the definition of anonymous in section 103A; and
-    (ii) sections 103C to 103K; and
-    (iii) section 112A(6)﻿(a) and (c); and
-  (b) the following sections of the principal Act do not apply to donations received by a candidate before the commencement of this Act:
-    (i) section 103B, to the extent it relates to contributions; and
-    (ii) section 103D; and
-    (iii) section 103F(1)﻿(c); and
-    (iv) section 103G, to the extent it relates to contributors; and
-    (v) section 103L; and
-    (vi) section 112A(3)﻿(b), (4)﻿(d), and (5); and
-    (vii) section 112E; and
-  (c) the definition of candidate in section 5(1) of the principal Act does not include any person who has, before the commencement of this Act, declared his or her intention of becoming a candidate.
