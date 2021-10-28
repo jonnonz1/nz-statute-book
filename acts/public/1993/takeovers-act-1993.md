@@ -1,5 +1,5 @@
 # Takeovers Act 1993
-_Consolidation as at 2020-12-01_
+_Consolidation as at 2021-10-28_
 
 > Title
 
@@ -246,6 +246,7 @@ The provisions set out in Schedule 1 apply in respect of the Panel.
 ### 19 Power to make takeovers code
 (1) The Governor-General may, by Order in Council made on the recommendation of the Minister, make regulations setting out the rules applying to takeovers of code companies (a takeovers code).
 (2) The Minister must formulate and make his or her recommendations in accordance with this Part.
+(3) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 20 Objectives of takeovers code
 (1) In formulating recommendations concerning a takeovers code, the Minister shall consider the following objectives as the objectives for the code, namely,—
@@ -952,25 +953,20 @@ A person cannot be ordered to pay a pecuniary penalty and be liable for a fine u
   (b) any class of persons, transactions, or offers associated with or involving a particular code company or entity:
   (c) any class of persons, transactions, or offers that is not associated with or does not involve a particular code company or entity.
 (2) An exemption may be granted in respect of past acts or omissions only under subsection (1)﻿(a).
-(3) An exemption under this section is a disallowable instrument for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
-(4) An exemption under subsection (1)﻿(a) or (b) must, as soon as practicable after being granted, be—
-  (a) published on an Internet site maintained by or on behalf of the Panel; and
-  (b) notified (without incorporating the exemption) in the Gazette; and
-  (c) made available in printed form for purchase on request by members of the public.
-(5) An exemption under subsection (1)﻿(c) is of general application and must be published under section 6 of the Legislation Act 2012.
-(6) The Panel’s reasons for granting an exemption under this section must be published together with the exemption, and the reasons must include—
+(3)
+(4)
+(5) An exemption under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+(6) The Panel’s reasons for granting an exemption under this section must be published, and presented to the House of Representatives, together with the exemption, and the reasons must include—
   (a) why it is appropriate that the exemption is granted; and
   (b) how the exemption is consistent with the objectives of the takeovers code.
-(7) Subsections (4) and (6) are subject to section 45A.
+(7) Subsections (4) to (6) are subject to section 45A.
 
-### 45A Deferral of obligations, and variation or revocation of exemptions
-(1) The Panel may defer complying with section 45(4) if the Panel is satisfied on reasonable grounds that it is proper to do so on the ground of commercial confidentiality.
-(2) The Panel may defer publishing, and need not publish, under section 45 the reasons for granting an exemption if the Panel is satisfied on reasonable grounds that it is proper to do so on the ground of commercial confidentiality.
-(3) The Panel may vary or revoke an exemption granted under section 45.
-(4) Section 45(1) to (5) and this section apply, with necessary modifications, in all respects to a variation or revocation under this section.
+### 45A Variation and revocation of exemptions
+(1) The Panel may vary or revoke an exemption granted under section 45.
+(2) Section 45(1) to (5) applies, with necessary modifications, in all respects to a variation or revocation under this section.
 
 ### 46 Regulations
-The Governor-General may from time to time, by Order in Council, make regulations for all or any of the following purposes:
+(1) The Governor-General may from time to time, by Order in Council, make regulations for all or any of the following purposes:
   (a)
   (b) prescribing an annual fee in respect of the funding of the Panel that is payable in accordance with section 17:
   (c) prescribing the fees and charges payable, or the rate at which fees and charges are to be calculated, for the purposes of this Act:
@@ -979,6 +975,7 @@ The Governor-General may from time to time, by Order in Council, make regulation
     (ii) on an application to the Panel to exercise any power or function conferred on it by this Act:
   (cb) authorising the Panel to require payment of any costs incurred by the Panel:
   (d) providing for such other matters as are contemplated by or necessary for giving full effect to the provisions of this Act and for its due administration.
+(2) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 **Reimbursement of expenses incurred in connection with offer or takeover notice**
 
