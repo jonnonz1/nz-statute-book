@@ -1,5 +1,5 @@
 # Interpretation Act 1999
-_Consolidation as at 2014-01-01_
+_Consolidation as at 2021-10-28_
 
 > An Act relating to the interpretation, application, and effect of legislation
 
