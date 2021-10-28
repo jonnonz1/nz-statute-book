@@ -1,5 +1,5 @@
 # Public Works Act 1981
-_Consolidation as at 2020-09-25_
+_Consolidation as at 2021-10-28_
 
 > An Act to consolidate and amend the law relating to public works
 
@@ -564,7 +564,10 @@ Except as provided in section 55, a Proclamation or declaration issued under thi
 (6) A Proclamation or declaration may be revoked under this section whether made before or after the commencement of this Act.
 
 ### 55 Amending or revoking documents
-If any Proclamation, Order in Council, notice, declaration, or other document executed under this Act is found to contain any error in form or substance, or if any error in form or substance exists in or in relation to its making or gazetting, the Governor-General, Governor-General in Council, Minister, or other authorised person, as the case may require, may in a subsequent document of the same type amend or revoke the first-mentioned document to correct the error, and the subsequent document shall be deemed to have taken effect on the same date that the first-mentioned document took effect.
+(1) If any Proclamation, Order in Council, notice, declaration, or other document executed under this Act is found to contain any error in form or substance, or if any error in form or substance exists in or in relation to its making or gazetting, the Governor-General, Governor-General in Council, Minister, or other authorised person, as the case may require, may in a subsequent document of the same type amend or revoke the first-mentioned document to correct the error, and the subsequent document shall be deemed to have taken effect on the same date that the first-mentioned document took effect.
+(2) If the first-mentioned document is secondary legislation, the subsequent document—
+  (a) is also secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements); but
+  (b) has effect in accordance with subsection (1) despite not being first published.
 
 ### 56 Minor misdescription not to invalidate documents
 The validity of any Proclamation, Order in Council, or declaration under this Act shall not be affected by any misdescription in it of the land or of any interest in the land if sufficient information appears on the face of the Proclamation, Order in Council, or declaration, to enable the Registrar-General of Land to satisfy himself of the land intended to be affected.
@@ -837,6 +840,7 @@ In this section and sections 72C and 72D, unless the context otherwise requires,
 (4) An Order in Council cannot be made under subsection (1)—
   (a) until after the expiry of 5 years from the date of commencement of Part 3 of the Resource Legislation Amendment Act 2017; or
   (b) more frequently than once every 5 years.
+(5) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 73 Assistance to purchase dwelling
 (1) Subject to the provisions of this section, where any land that—is taken or acquired for the public work for which it was notified and the market value of the owner's interest in the land is insufficient to enable the owner to acquire another private residence of a standard reasonably equivalent to the residence on the land so taken or acquired, there may, in the discretion of the notifying authority, be advanced to the owner by the authority, in addition to the compensation otherwise payable under this Act, such amount as the authority considers reasonable to assist the owner to acquire another private residence of a reasonably comparable standard.
@@ -1660,13 +1664,14 @@ In this Part, unless the context otherwise requires, Minister means any Minister
   (a) prohibiting, or permitting, regulating, and prescribing terms and conditions for, the use of the lake or its waters or any part of it or its waters:
   (b) prohibiting, or permitting, regulating, and prescribing terms and conditions for, the discharge into or placing in the lake of any solid or liquid matter likely to settle in the lake, or cause an obstruction in it, or interfere with any authority or person lawfully using the lake, or its waters, or any part of it or its waters:
   (c) prescribing fines, not exceeding $500 in any case, for the breach of any regulations made under this section.
-(4) Any regulations made under subsection (3)﻿(b) shall not permit the discharge or placing of any matter into or in the lake in contravention of any Act, regulation, or bylaw.
+(4) Any regulations made under subsection (3)﻿(b) shall not permit the discharge or placing of any matter into or in the lake in contravention of any legislation.
 (5) Regulations under this section may be made generally in respect of all artificial lakes, or in respect of any 1 or more of such lakes.
 (6) The power of making regulations under this section shall be exercisable in respect of such parts of any natural lake as lie within 350 metres from—where a work designed for the control of the level of the waters of the lake is constructed on a river or stream flowing from the lake, in the same manner as if those parts of the natural lake were parts of an artificial lake.
   (a) any part of a Government work constructed for the purpose of utilising the waters of the lake; or
   (b) any outlet of the lake as it exists from time to time—
 (7) The power of making regulations under this section may be exercised in respect of such part of any river or stream as lies between a work constructed for the control of the level of the waters of a lake from which it flows and the outlet of the lake, in the same manner as if that part of the river or stream were an artificial lake.
 (8) The provisions of Part 2 of the Fisheries Act 1908 shall apply to any artificial lake as if its waters were not private waters.
+(9) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 **Secondary use**
 
@@ -1794,6 +1799,7 @@ The Minister or the local authority intending to take any poll under this Part s
   (c) by altering the description of the land constituting the district to exclude some land or include more land; or
   (d) by altering or adding to the charges, conditions of supply, or any other matter contained in the Order in Council—
 (3) No recommendation shall be made to the Governor-General under subsection (2) without the consent of the same percentage of the occupiers of the land to be excluded or included as was specified in the notice given under section 202(1)﻿(a)﻿(xiii) as the minimum percentage required to be in favour of the proposed irrigation scheme as a prerequisite to its construction.
+(4) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 208A Reduction in size and abolition of irrigation district
 (1) Notwithstanding anything in this Part, the Governor-General may, on the advice of the Minister, by Order in Council—
@@ -1805,15 +1811,18 @@ The Minister or the local authority intending to take any poll under this Part s
   (a) reimbursement from the Minister for all costs and expenses actually and reasonably incurred by the owner and occupier in anticipation of the land being irrigated, to the extent that the costs and expenses are no longer of any value to the owner and occupier; and
   (b) notwithstanding the provisions of section 60, full compensation from the Minister under Part 5 in respect of injurious affection of the land.
 (5) Every claim for such reimbursement shall be made, determined, and paid in accordance with Part 5 as if it were a claim for compensation; and the provisions of that Part, so far as they are applicable and with the necessary modifications, shall apply accordingly.
+(6) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 209 Basic charge
-Notwithstanding that a basic charge may have been notified under section 202 or adjusted under section 210 (before its repeal), the Governor-General may from time to time, by Order in Council, determine the basic charge for each hectare of irrigable land in any irrigation district.
+(1) Notwithstanding that a basic charge may have been notified under section 202 or adjusted under section 210 (before its repeal), the Governor-General may from time to time, by Order in Council, determine the basic charge for each hectare of irrigable land in any irrigation district.
+(2) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 210 Adjustment of basic charge
 [Repealed]
 
 ### 211 Water availability charge
-Notwithstanding that a water availability charge may have been notified under section 202 or adjusted under section 212 (before its repeal), the Governor-General may from time to time, by Order in Council, determine the annual water availability charge for each unit quantity or unit rate of supply of water in any irrigation district.
+(1) Notwithstanding that a water availability charge may have been notified under section 202 or adjusted under section 212 (before its repeal), the Governor-General may from time to time, by Order in Council, determine the annual water availability charge for each unit quantity or unit rate of supply of water in any irrigation district.
+(2) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 212 Adjustment of water availability charge
 [Repealed]
@@ -1824,6 +1833,9 @@ Notwithstanding that a water availability charge may have been notified under se
 (3) Any charge set under this section may be varied by the Minister at any time upon the basis specified in the notice given under the said section 202.
 (4) The provisions of this Part (except for sections 209 to 212) shall apply to any charge set under this section in the same manner, with any necessary modifications, as they apply to the basic charge and the water availability charge specified in this Part.
 (5) In setting a charge in substitution for the charges payable under sections 214 and 216, the Minister may have regard to any of the matters specified in those sections.
+(6) The following are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements):
+  (a) a charge set under this section:
+  (b) a variation of a charge set under this section.
 
 ### 213 Determination of interest
 For the purposes of sections 209 to 212, interest shall be calculated at yearly rests and the rate of interest shall be the standard rate chargeable at the relevant time by The National Bank in respect of loans which may be made by The National Bank for development works of a comparable nature on farm land:
@@ -1901,6 +1913,7 @@ For the purposes of sections 209 to 212, interest shall be calculated at yearly 
   (b) there is sufficient support for the proposal from the occupiers of the land affected—
 (2) The phasing in of a new scheme and the termination of the existing scheme or part of it shall not prevent the Minister from making or enforcing any charge, exercising any remedy, or recovering any debt due to the Crown, in respect of any scheme or part of a scheme so terminated.
 (3) Notwithstanding the repeal of the enactments set out in Schedule 8, the provisions of Part 11 of the Public Works Act 1928 (including Part 1 of the Public Works Amendment Act 1960) and of section 29 of the Finance Act (No 2) 1936 shall continue in full force and effect as if such repeal had not been made to the extent necessary to enable any water supply works still being constructed, and those works already constructed, under any of those provisions, to be operated, maintained, repaired, and renewed, and to enable all agreements entered into by the Minister in respect of those works to be fully implemented, protected, and enforced.
+(4) A decision under subsection (1) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 223 Minister not bound to acquire land
 (1) The Minister may erect, construct, provide, maintain, repair, and use any work, other than headworks outside the irrigation district, authorised by this Part, or the provisions of any former enactment relating to irrigation, without being bound to acquire the land or any portion of the land used for the purposes of that work; and for any of those purposes the Minister or any person acting with his authority may enter at any reasonable time upon any such land.
@@ -2058,6 +2071,7 @@ Every person who wilfully obstructs any engineer, overseer, employee, or other p
   (g) prescribing rates of interest to be paid under any provision of this Act:
   (h) providing for such matters as are contemplated by or necessary for giving full effect to this Act and for its due administration.
 (2) Regulations made under this Act may be made so as to apply generally throughout New Zealand or within any specified part or parts of New Zealand, or within the whole of New Zealand except such part or parts as may be specified in the regulations, and may be made so as to apply to all motorways or to any class or classes of motorways or to any motorway or part of it, and may provide for the exemption of any class or classes of motorways or of any motorway or part of it.
+(3) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 244 Amendments to Town and Country Planning Act 1977
 ((1), (2)) Amendment(s) incorporated in the Act(s).
