@@ -1,5 +1,5 @@
 # Maritime Security Act 2004
-_Consolidation as at 2021-04-01_
+_Consolidation as at 2021-10-28_
 
 ### 1 Title
 This Act is the Maritime Security Act 2004.
@@ -118,7 +118,8 @@ The transitional, savings, and related provisions set out in Schedule 1AA have e
 **Designated Authority**
 
 ### 7 Appointment of Designated Authority
-The Governor-General may, by Order in Council, appoint a Crown entity as the Designated Authority.
+(1) The Governor-General may, by Order in Council, appoint a Crown entity as the Designated Authority.
+(2) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 8 Principal objectives of Designated Authority
 The principal objectives of the Designated Authority are to ensure that—
@@ -547,6 +548,7 @@ The chief executive must approve a port facility security plan, or any amendment
   (a) appoint a government department or Crown entity as a maritime security organisation:
   (b) assign particular port security functions to a government department or Crown entity appointed as a maritime security organisation.
 (2) For the purposes of this section, Crown entity includes the Aviation Security Service established under the Civil Aviation Act 1990.
+(3) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 45 Designation of port security areas
 (1) The Minister or the chief executive may, by notice in the Gazette, designate a port facility, any area in a port facility, or any other area in a port as a port security area.
@@ -569,7 +571,7 @@ The chief executive must approve a port facility security plan, or any amendment
   (b) if requested by an authorised person or a port facility security officer, must present his or her warrant or certificate of employment to the authorised person or port facility security officer.
 
 ### 47 Powers and duties of Minister to require screening and searching
-(1) The Minister may, if necessary to improve or enhance maritime security to enable New Zealand to be part of a concerted international response to a threat to maritime security or if it is in the national interest, direct a maritime security organisation, by notice in the Gazette,—
+(1) The Minister may, if necessary to improve or enhance maritime security to enable New Zealand to be part of a concerted international response to a threat to maritime security or if it is in the national interest, direct a maritime security organisation, by notice,—
   (a) to screen—
     (i) any person boarding a ship; and
     (ii) any thing to be carried by a ship; and
@@ -580,19 +582,20 @@ The chief executive must approve a port facility security plan, or any amendment
     (ii) any thing to be carried by a ship; and
     (iii) any thing in a port security area; and
     (iv) any person (including that person's personal effects) or vehicle entering, or within, a port security area; and
-    (v) any (as specified in the Gazette notice)—
+    (v) any (as specified in the notice)—
       (A) ship or class of ship; or
       (B) port security area.
-(2) The Gazette notice must specify—
+(2) The notice must specify—
   (a) which of the screenings under subsection (1)﻿(a) and which of the searches under subsection (1)﻿(b) are part of the Minister's directive; and
   (b) the permitted extent of those screenings and searches.
 (3) Before directing a maritime security organisation under subsection (1), the Minister must, to determine whether the direction is necessary to improve or enhance maritime security to enable New Zealand to be part of a concerted international response to a threat to maritime security or whether it is in the national interest, consult—
   (a) the chief executive; and
   (b) as the Minister in each case considers appropriate, representative groups in the maritime industry, government departments, Crown entities, and the New Zealand Defence Force.
 (4) Nothing in this section empowers the Minister to exercise the powers of the chief executive under section 48.
+(5) A notice under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 48 Powers and duties of chief executive to require screening and searching
-(1) The chief executive may, if he or she believes on reasonable grounds that there is a risk of a security incident occurring, direct a maritime security organisation, by notice in the Gazette,—
+(1) The chief executive may, if he or she believes on reasonable grounds that there is a risk of a security incident occurring, direct a maritime security organisation, by notice,—
   (a) to screen—
     (i) any person boarding a ship; and
     (ii) any thing to be carried by a ship; and
@@ -603,32 +606,36 @@ The chief executive must approve a port facility security plan, or any amendment
     (ii) any thing to be carried by a ship; and
     (iii) any thing in a port security area; and
     (iv) any person (including that person's personal effects) or vehicle entering, or within, a port security area; and
-    (v) any (as specified in the Gazette notice)—
+    (v) any (as specified in the notice)—
       (A) ship or class of ship; or
       (B) port security area.
-(2) The Gazette notice must specify—
+(2) The notice must specify—
   (a) which of the screenings under subsection (1)﻿(a) and which of the searches under subsection (1)﻿(b) are part of the chief executive's directive; and
   (b) the permitted extent of those screenings and searches.
 (3) Before directing a maritime security organisation under subsection (1), the chief executive must, to determine whether the direction is necessary to meet the maritime security risk, consult, as the chief executive in each case considers appropriate, representative groups in the maritime industry, government departments, Crown entities, and the New Zealand Defence Force.
+(4) A notice under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 49 Duration of directions
-(1) A direction made under section 47(1) takes effect on the date specified in the notice, which may be a date before the notice is published in the Gazette if the Minister—
+(1) A direction made under section 47(1) takes effect on the date specified in the notice, which may be a date before the notice is published under the Legislation Act 2019 if the Minister—
   (a) considers on reasonable grounds that urgent action is required; and
   (b) has consulted the chief executive before that date; and
   (c) has notified the master of the affected ship and the operator of the affected port facility before that date.
-(2) A direction made under section 48(1) takes effect on the date specified in the notice, which may be a date before the notice is published in the Gazette if the chief executive—
+(2) A direction made under section 48(1) takes effect on the date specified in the notice, which may be a date before the notice is published under the Legislation Act 2019 if the chief executive—
   (a) considers on reasonable grounds that urgent action is required; and
   (b) has notified the master of the affected ship and the operator of the affected port facility before that date.
-(3) If a direction made under section 47(1) or section 48(1) takes effect on a date before the notice is published in the Gazette,—
-  (a) the direction expires 28 days after that date unless the notice is published in the Gazette within 28 days of that date; and
-  (b) if the notice is published in the Gazette within 28 days of that date, the direction expires 90 days after that date unless, before the expiry of the 90-day period,—
-    (i) the Minister, after complying with subsection (1)﻿(b) and (c), extends the period for a further specified period not exceeding 90 days (the aggregate period may not exceed 180 days); or
-    (ii) the chief executive, after complying with subsection (2)﻿(b), extends the period for a further specified period not exceeding 90 days (the aggregate period may not exceed 180 days).
-(4) The notice is not a legislative instrument for the purposes of the Legislation Act 2012, but if the direction in the notice takes effect on a date on or after the notice is published in the Gazette, the notice is a disallowable instrument for the purposes of that Act and must be presented to the House of Representatives under section 41 of that Act.
+(3) If a direction made under section 47(1) or section 48(1) takes effect on a date before the notice is published,—
+  (a) the direction expires 28 days after that date unless the notice is published within 28 days of that date; and
+  (b) if the notice is published within 28 days of that date, the direction expires 90 days after that date unless, before the expiry of the 90-day period,—
+    (i) the Minister, after complying with subsection (1)﻿(b) and (c), extends the period, by notice, for a further specified period not exceeding 90 days (the aggregate period may not exceed 180 days); or
+    (ii) the chief executive, after complying with subsection (2)﻿(b), extends the period, by notice, for a further specified period not exceeding 90 days (the aggregate period may not exceed 180 days).
+(4)
 (5) A direction may,—
-  (a) if made under section 47(1), be rescinded by the Minister; or
-  (b) if made under section 48(1), be rescinded by the chief executive.
+  (a) if made under section 47(1), be rescinded by notice by the Minister; or
+  (b) if made under section 48(1), be rescinded by notice by the chief executive.
 (6) Subject to subsection (3), a direction remains in effect until it is rescinded.
+(7) The following are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements):
+  (a) a notice under subsection (3)﻿(b)﻿(i) or (ii):
+  (b) a notice under subsection (5).
 
 ### 50 Taking weapons on to ships or into port security areas
 (1) A person commits an offence, and is liable on conviction to imprisonment for a term not exceeding 5 years, who, without lawful authority or reasonable excuse, or without the written permission of the ship security officer (with respect to boarding a ship) or the port facility security officer (with respect to entering a port security area), intentionally takes, or attempts to take, on board a ship or into a port security area—
@@ -656,7 +663,7 @@ The chief executive must approve a port facility security plan, or any amendment
     (ii) any thing to be carried by a ship; and
     (iii) any thing in a port security area; and
     (iv) any person (including that person's personal effects) or vehicle entering, or within, a port security area; and
-    (v) any ship or class of ship specified in a Gazette notice issued under section 47 or section 48.
+    (v) any ship or class of ship specified in a notice issued under section 47 or section 48.
 (2) Despite subsection (1), a maritime security officer may only exercise the powers in subsection (1) if that maritime security officer is employed by a maritime security organisation that is directed by the Minister under section 47 or by the chief executive under section 48.
 (3) The powers in—
   (a) subsection (1) may only be exercised—
@@ -938,6 +945,7 @@ Every person who intentionally contravenes section 61 by entering or leaving an 
   (a) in the case of an individual, a fine of $10,000; and
   (b) in the case of a body corporate, a fine of $50,000.
 (3) For the purposes of this section, Crown entity includes the Aviation Security Service established under the Civil Aviation Act 1990.
+(4) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 77 Exemptions from regulations
 (1) The chief executive may, if the chief executive thinks it appropriate,—
@@ -965,10 +973,10 @@ Every person who intentionally contravenes section 61 by entering or leaving an 
   (b) the results of a security assessment of a ship under this Act.
 (3) If, following a security assessment under subsection (1), the Designated Authority considers that the Act should be extended to a ship or class of ship or a port facility, the Designated Authority must make a recommendation to that effect to the Minister.
 (4) Following a recommendation by the Designated Authority under subsection (3),—
-  (a) in an emergency, the Minister may extend the application of this Act to a ship or port facility by notice in the Gazette; and
+  (a) in an emergency, the Minister may extend the application of this Act to a ship or port facility by notice; and
   (b) in any other case, the Governor-General, on the recommendation of the Minister, may extend the application of this Act to a ship or port facility by Order in Council.
 (5) For the purposes of subsection (4)﻿(b), the Minister must consult with the affected ship (if any) and the affected port facility (if any).
-(6) A Gazette notice or Order in Council under subsection (4)—
+(6) A notice or an Order in Council under subsection (4)—
   (a) must—
     (i) clearly identify the ship or port facility concerned; and
     (ii) state which sections of this Act apply to that ship or port facility; and
@@ -976,11 +984,13 @@ Every person who intentionally contravenes section 61 by entering or leaving an 
   (b) may cover—
     (i) more than 1 ship or port facility; and
     (ii) any combination of ships and port facilities.
-(7) A Gazette notice issued under subsection (4)﻿(a)—
-  (a) is a disallowable instrument, but not a legislative instrument, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act; and
-  (b) expires 90 days after the day on which it is published in the Gazette.
+(6A) The following are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements):
+  (a) a notice under subsection (4)﻿(a):
+  (b) an order under subsection (4)﻿(b).
+(6B) Secondary legislation referred to in subsection (6A)﻿(b) must be confirmed by an Act (see subpart 3 of Part 5 of the Legislation Act 2019).
+(7) A notice under subsection (4)﻿(a) expires 90 days after the day on which it is published under the Legislation Act 2019.
 (8)
-(9) A Gazette notice issued under subsection (4)﻿(a) may be replaced by an Order in Council made under subsection (4)﻿(b).
+(9) A notice issued under subsection (4)﻿(a) may be replaced by an Order in Council made under subsection (4)﻿(b).
 (10) For the purposes of subsections (1) to (6),—
   - **port facility** means a port facility that is not included in section 4(1)﻿(b)
   - **ship** means a ship that is not included in section 4(1)﻿(a).
@@ -993,10 +1003,7 @@ Every person who intentionally contravenes section 61 by entering or leaving an 
   (d) pleasure craft (as defined in section 2(1) of the Maritime Transport Act 1994).
 
 ### 78A Orders are confirmable instruments
-The explanatory note of an Order in Council made under section 78(4)﻿(b) must indicate that—
-  (a) it is a confirmable instrument under section 47B of the Legislation Act 2012; and
-  (b) it is revoked at a time stated in the note, unless earlier confirmed by an Act of Parliament; and
-  (c) the stated time is the applicable deadline under section 47C(1)﻿(a) or (b) of that Act.
+[Repealed]
 
 **Miscellaneous**
 
