@@ -1,5 +1,5 @@
 # Charities Amendment Act (No 2) 2012
-_Consolidation as at 2012-06-06_
+_Consolidation as at 2021-10-28_
 
 ### 1 Title
 This Act is the Charities Amendment Act (No 2) 2012.
@@ -27,7 +27,7 @@ Section 3 is repealed and the following section substituted:Purpose
 
 ### 6 Interpretation
 (1) The definition of Commission in section 4(1) is repealed.
-(2) Section 4(1) is amended by inserting the following definitions in their appropriate alphabetical order:.
+(2) Section 4(1) is amended by inserting the following definitions in their appropriate alphabetical order:
   - **Board** means the board established by section 8
   - **chief executive** means the chief executive of the department
   - **department** means the department that, with the authority of the Prime Minister, is for the time being responsible for the administration of this Act
@@ -51,7 +51,7 @@ Sections 8 to 12 and the headings above those sections are repealed and the foll
   (2) If functions, duties, or powers are delegated to the chief executive under subsection (1),—
     (a) the chief executive is not responsible to the Minister for the performance or exercise of those functions, duties, or powers but must act independently in exercising his or her professional judgement; and
     (b) the chief executive may delegate those functions or powers to employees or holders of specified offices in the department under section 41 of the State Sector Act 1988.
-  (3) No delegation under subsection (1) or (2)(b) affects the responsibility of the Board for the actions of any person acting under the delegation.
+  (3) No delegation under subsection (1) or (2)﻿(b) affects the responsibility of the Board for the actions of any person acting under the delegation.
   (4) The Board must not make a delegation under this section unless satisfied that the delegation is consistent with section 8(5).
   (5) A person to whom any functions, duties, or powers are delegated may perform and exercise them in the same manner and with the same effect as if they had been conferred directly by this Act and not by delegation.
   The functions of the chief executive are—
@@ -126,7 +126,8 @@ On the commencement of this section,—
 (3) For the purpose of applying the Government Superannuation Fund Act 1956, the chief executive of the department is the controlling authority.
 
 ### 15 Other savings and transitional matters
-The Governor-General may, by Order in Council, provide for savings and transitional matters connected with the disestablishment of the Charities Commission, including the transfer of functions formerly carried out by the Commission.
+(1) The Governor-General may, by Order in Council, provide for savings and transitional matters connected with the disestablishment of the Charities Commission, including the transfer of functions formerly carried out by the Commission.
+(2) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 16 Consequential amendments
 (1) The principal Act is amended in the manner indicated in Schedule 2.
@@ -329,6 +330,6 @@ In clauses 23 to 25,—
   (a) it is in writing; and
   (b) it is signed by the chief executive or a person authorised by him or her for the purpose; and
   (c) it is served or given in accordance with section 57 on or to the person or persons primarily concerned or on or to any person considered by the chief executive or authorised person to represent the person or persons primarily concerned.
-(2) In all courts and in all proceedings under this Act, notices given under this Act that purport to be signed by, or on behalf of, the chief executive must be treated as having been signed with due authority in accordance with subsection (1)(b) unless the contrary is proved.
+(2) In all courts and in all proceedings under this Act, notices given under this Act that purport to be signed by, or on behalf of, the chief executive must be treated as having been signed with due authority in accordance with subsection (1)﻿(b) unless the contrary is proved.
 
 ## Schedule 3 — Amendments to other enactments relating to Charities Commission
