@@ -1,5 +1,5 @@
 # Unsolicited Electronic Messages Act 2007
-_Consolidation as at 2018-11-13_
+_Consolidation as at 2021-10-28_
 
 ### 1 Title
 This Act is the Unsolicited Electronic Messages Act 2007.
@@ -519,14 +519,15 @@ The proceedings under sections 45 and 46 are civil proceedings to which the usua
 ## Part 4 — Miscellaneous provisions
 
 ### 57 Alterations to Schedule
-The Governor-General may, by Order in Council, amend the Schedule by, with respect to the list of messages that are not electronic messages,—
+(1) The Governor-General may, by Order in Council, amend the Schedule by, with respect to the list of messages that are not electronic messages,—
   (a) adding a type of message to the list and, if required, a description of that type of message:
   (b) omitting a type of message from the list and, if relevant, an associated description of that type of message:
   (c) amending a type of message on the list:
   (d) amending a description of a type of message.
+(2) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 58 Regulations
-The Governor-General may, by Order in Council, make regulations for all or any of the following purposes:
+(1) The Governor-General may, by Order in Council, make regulations for all or any of the following purposes:
   (a) specifying circumstances from which a recipient may or may not be inferred to have consented to receiving an electronic message:
   (b) setting out further purposes that exclude an electronic message from being a commercial electronic message under section 6:
   (c) specifying conditions for the purposes of section 10(c):
@@ -542,6 +543,7 @@ The Governor-General may, by Order in Council, make regulations for all or any o
   (j)
   (k)
   (l) providing for any other matters contemplated by this Act or necessary for its administration or necessary for giving it full effect.
+(2) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ## Schedule Schedule — Messages that are not electronic messages
 
