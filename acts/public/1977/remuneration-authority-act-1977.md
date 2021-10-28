@@ -1,11 +1,12 @@
 # Remuneration Authority Act 1977
-_Consolidation as at 2021-02-09_
+_Consolidation as at 2021-10-28_
 
 > Title
 
 ### 1 Short Title and commencement
 (1) This Act may be cited as the Remuneration Authority Act 1977.
 (2) This Act shall come into force on a date to be appointed by the Governor-General by Order in Council.
+(3) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 2 Interpretation
 In this Act, unless the context otherwise requires,—
@@ -138,7 +139,7 @@ There shall from time to time be appointed by the chief executive of the Departm
 (6) Any reference in this section to judicial officer includes any person appointed to the office of Solicitor-General.
 (7) For the avoidance of doubt, it is hereby declared that the Crown's liability to any retirement scheme to which a judicial officer referred to in subsection (2)﻿(b) chooses to contribute shall be limited to payment of such subsidy as may be determined pursuant to subsection (3).
 (8)
-(9) A determination to which subsection (1) or (2) applies is a legislative instrument for the purposes of the Legislation Act 2012, but is not required to be presented to the House of Representatives under section 41 of that Act and is not a disallowable instrument for the purposes of that Act.
+(9) A determination to which subsection (1) or (2) applies is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 12C Allowances
 (1) Notwithstanding anything in this Act, where the Authority has jurisdiction to determine the remuneration of any persons or group of persons pursuant to section 12(1)﻿(a) (other than subparagraph (i)) or under any other enactment, the Authority may in relation to any such persons or to any member of that group of persons determine the nature and extent of the principal allowances that may be paid in addition to that remuneration.
@@ -153,6 +154,7 @@ There shall from time to time be appointed by the chief executive of the Departm
   (d) add to or omit from Schedule 4 the name of any specified statutory officer:
   (e) otherwise amend Schedule 2 or Schedule 4, or revoke any such schedule or any Part of any such schedule, and substitute a new schedule or a new Part, as the case may require.
 (2) Every Order in Council made under subsection (1) shall have effect according to its tenor.
+(3) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 14 Implementation of determinations
 (1) Every determination of the Authority has effect according to its tenor and, despite anything in any other enactment, an Order in Council is not required in order to fix the rates or scales of any salary or allowances that are determined by the Authority in a determination.
@@ -176,7 +178,7 @@ There shall from time to time be appointed by the chief executive of the Departm
     (iii) the leader of the official Opposition:
     (iv) the Chief Executive of the Parliamentary Service; and
   (b) by publishing it in the Gazette not later than 14 days after the date on which a copy of it is given to the Prime Minister.
-(2) A determination to which subsection (1) applies is a legislative instrument for the purposes of the Legislation Act 2012 but is not required to be presented to the House of Representatives under section 41 of that Act and is not a disallowable instrument for the purposes of that Act.
+(2) See section 8(6) of the Members of Parliament (Remuneration and Services) Act 2013 (which provides that a determination under section 8 of that Act is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements)).
 
 ### 17 Provisions relating to Parliamentary and judicial superannuation
 (1) Any determination under section 12(1)﻿(b) or section 12B(2)﻿(a) may contain provisions which modify, or are to apply instead of, provisions of the Government Superannuation Fund Act 1956.
