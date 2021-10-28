@@ -1,5 +1,5 @@
 # Finance Act 1994
-_Consolidation as at 2013-12-05_
+_Consolidation as at 2021-10-28_
 
 > An Act to make provision with respect to public finances and other matters
 
@@ -8,6 +8,7 @@ _Consolidation as at 2013-12-05_
 (2) Except as provided in subsection (3), this Act shall come into force on the day on which it receives the Royal assent.
 (3) Subject to subsection (4), sections 5 to 7 shall come into force on a day to be appointed by the Governor-General by Order in Council; and 1 or more Orders in Council may be made bringing different sections into force on different days.
 (4) A day may be appointed pursuant to subsection (3) bringing section 6 or section 7 into force only if the Governor-General is satisfied, at the time of the making of the Order in Council, that at least 50% of the shares in GCS Limited are no longer held by Ministers of the Crown on behalf of the Crown.
+(5) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 (5)
 
 **Application of Part 2 of Commerce Act 1986 to certain agreements relating to pharmaceuticals**
@@ -70,5 +71,5 @@ Amendment(s) incorporated in the Act(s).
 (1) Amendment(s) incorporated in the Act(s).
 (2) Without limiting subsection (1), it is hereby declared that the repeal of paragraph (b) of section 8(1) of the Health Research Council Act 1990 by section 32 of the Health Reforms (Transitional Provisions) Act 1993 shall be deemed not to have affected—
   (a) the membership of the Health Research Council; or
-  (b) the validity of any appointment made under section 8(1)(b) of the Health Research Council Act 1990 (as substituted by section 3 of the Health Research Council Amendment Act 1991) in the period beginning on 1 July 1993 and ending with the commencement of this subsection; or
+  (b) the validity of any appointment made under section 8(1)﻿(b) of the Health Research Council Act 1990 (as substituted by section 3 of the Health Research Council Amendment Act 1991) in the period beginning on 1 July 1993 and ending with the commencement of this subsection; or
   (c) the validity of any action taken by the Council or any member of the Council in the period beginning on 1 July 1993 and ending with the commencement of this subsection.
