@@ -1,11 +1,12 @@
 # Court Martial Appeals Act 1953
-_Consolidation as at 2020-08-07_
+_Consolidation as at 2021-10-28_
 
 > An Act to establish a Court Martial Appeal Court and to provide for appeals thereto from the Court Martial
 
 ### 1 Short Title and commencement
 (1) This Act may be cited as the Court Martial Appeals Act 1953.
 (2) This Act shall come into force on a day to be appointed for the commencement thereof by the Governor-General by Order in Council.
+(3) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 (3)
 
 ### 2 Interpretation
@@ -399,18 +400,20 @@ In every appeal under section 7 or 9, it is the duty of the Judge Advocate Gener
 ### 26 Rules of court
 (1) Rules of court may be made in the manner provided by the Senior Courts Act 2016 for regulating the procedure and practice to be followed in the court.
 (2) Rules of court made for the purposes of any provision of this Act may make different provision in relation to different classes of cases and may provide for any incidental or supplementary matters for which it appears to be necessary or expedient for the purposes of that provision to provide.
+(3) Rules under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 26A Regulations
-The Governor-General may from time to time, by Order in Council, make regulations, not inconsistent with this Act, for all or any of the following purposes:
+(1) The Governor-General may from time to time, by Order in Council, make regulations, not inconsistent with this Act, for all or any of the following purposes:
   (a) providing for the payment of such fees, allowances, and expenses as may be fixed or determined by or in accordance with the regulations to the following persons (other than members of the regular forces):
     (i)
     (ii) a person appointed by the court under section 11(1)﻿(c) to conduct the examination of a witness:
     (iii) a person appointed by the court under section 11(1)﻿(e) to inquire into, and report on, a question arising on an appeal:
     (iv) a person appointed by the court under section 11(1)﻿(f) to be an assessor:
   (b) prescribing the fees, allowances, and expenses payable to witnesses, and other expenses referred to in subsection (2) of section 16.
+(2) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 27 Saving for prerogative of mercy
-Nothing in this Act shall affect Her Majesty’s Royal prerogative of mercy.
+Nothing in this Act shall affect His Majesty's Royal prerogative of mercy.
 
 ## Schedule 1 — Transitional, savings, and related provisions
 
