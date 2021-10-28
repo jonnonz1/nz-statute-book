@@ -1,5 +1,5 @@
 # Criminal Proceeds (Recovery) Act 2009
-_Consolidation as at 2021-10-05_
+_Consolidation as at 2021-10-28_
 
 ### 1 Title
 This Act is the Criminal Proceeds (Recovery) Act 2009.
@@ -1535,7 +1535,7 @@ Despite section 171, the Proceeds of Crime Act 1991 continues in force for the p
 **Regulations and rules**
 
 ### 173 Regulations
-The Governor-General may from time to time, by Order in Council, make regulations for all or any of the following purposes:
+(1) The Governor-General may from time to time, by Order in Council, make regulations for all or any of the following purposes:
   (a) prescribing applications, notices, and other documents for the purposes of this Act and requiring their use:
   (b) prescribing forms for the purposes of this Act and requiring their use:
   (c) providing for the service of notices and other documents under this Act to be dispensed with in such circumstances as are specified in the regulations:
@@ -1543,9 +1543,11 @@ The Governor-General may from time to time, by Order in Council, make regulation
   (e) prescribing or providing for the costs recoverable by the Official Assignee under section 87:
   (f) setting out procedures for the return or disposal of documents or other evidence seized, produced, or surrendered under subpart 7:
   (g) providing for such other matters as are contemplated by, or are necessary for giving full effect to, this Act and for its due administration.
+(2) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 174 Rules
-The Governor-General may from time to time, by Order in Council, make rules regulating the practice and procedure of courts in proceedings under this Act.
+(1) The Governor-General may from time to time, by Order in Council, make rules regulating the practice and procedure of courts in proceedings under this Act.
+(2) See section 148 of the Senior Courts Act 2016 and section 228 of the District Court Act 2016, which provide that court rules are secondary legislation.
 
 ### Subpart 10 — Consequential amendments to other enactments
 
