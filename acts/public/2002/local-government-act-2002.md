@@ -1,5 +1,5 @@
 # Local Government Act 2002
-_Consolidation as at 2021-07-13_
+_Consolidation as at 2021-10-28_
 
 ### 1 Title
 This Act is the Local Government Act 2002.
@@ -232,6 +232,7 @@ In order to recognise and respect the Crown's responsibility to take appropriate
   (a) within 3 years after it is granted; and
   (b) after the first review, not more than 3 years following the last review under this section.
 (7) A local authority may, at any time, revoke an exemption it has granted.
+(8) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 8 Act binds the Crown
 (1) Except as provided in subsections (2) and (3), this Act does not bind the Crown.
@@ -450,6 +451,7 @@ Sections 10 and 12(2) apply to a local authority performing a function under ano
 ### 18 Responsibilities, powers, and duties of Minister
 (1) The responsibilities, powers, and duties conferred or imposed on the Minister of Internal Affairs by any of the Acts specified in Schedule 1, or by any regulations, rules, orders, or bylaws made under any of those Acts, must be exercised or performed by the Minister.
 (2) The Governor-General may, by Order in Council, amend Schedule 1 to add or delete any Act.
+(3) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 19 Secretary
 The responsibilities, powers, and duties conferred on the Secretary for Internal Affairs by any of the Acts specified in Schedule 1, or by any regulations, rules, orders, or bylaws made under any such Act, must be exercised or performed by the Secretary for Local Government.
@@ -541,6 +543,7 @@ The purpose of the local government reorganisation provisions of this Act is to 
   - **specified period** means the period—
     (a) beginning on the date on which public notice is given of the reorganisation plan under clause 13 of Schedule 3; and
     (b) ending on the close of the date that is 6 months after the date on which that public notice is given.
+(7) An order under subsection (3) must be published in the Gazette.
 
 ### 25 Order in Council to give effect to reorganisation plan
 (1) A reorganisation plan to which clause 22C(5) or 33 of Schedule 3 applies—
@@ -561,6 +564,7 @@ The purpose of the local government reorganisation provisions of this Act is to 
   (b) the inclusion of provisions that are necessary to give legal effect to the reorganisation plan; or
   (c) the omission of explanatory material or other material that is not necessary to give legal effect to the reorganisation plan; or
   (d) matters of a format or referential nature that do not alter the substance or effect of the reorganisation plan.
+(6) An order under subsection (1) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 25A Order in Council to give effect to reorganisation implementation scheme
 (1) A reorganisation implementation scheme prepared and issued under clause 41(2) of Schedule 3—
@@ -581,6 +585,7 @@ The purpose of the local government reorganisation provisions of this Act is to 
   (a) amended in their application; or
   (b) declared not to apply.
 (6) Clauses 47 to 60A of Schedule 3 apply to each reorganisation implementation scheme that is given effect to by Order in Council.
+(7) An order under subsection (1) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 26 Power to amend reorganisation plans and reorganisation implementation schemes
 (1) A reorganisation plan may be amended by a further reorganisation plan that is developed and adopted in accordance with this Act and that is given effect by an Order in Council under section 25.
@@ -610,14 +615,16 @@ The purpose of the local government reorganisation provisions of this Act is to 
   (b) in the case of a territorial authority wishing to be called a city council, the district of the territorial authority meets the criteria specified in clause 16 of Schedule 3.
 (3) The Governor-General may, by Order in Council made on the recommendation of the Minister, give effect to the application.
 (4) The Order in Council may consequentially amend Part 2 of Schedule 2.
+(5) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 27A Change of name of unitary authorities
 (1) A unitary authority that is described as a city council or district council may apply to the Minister to change its name to the [name of city or district] Council.
 (2) The Governor-General may, by Order in Council made on the recommendation of the Minister, give effect to the application.
 (3) The Order in Council may consequentially amend Part 2 of Schedule 2.
+(4) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 27B Orders in Council to be published in Gazette
-An Order in Council made under any of sections 24A to 27A must be published in the Gazette.
+[Repealed]
 
 ### Subpart 3 — Local Government Commission
 
@@ -2236,6 +2243,7 @@ A local government organisation may only transfer a water service under section 
 (7) An Order in Council must specify the regional park or the part of the regional park to which the order applies—
   (a) by name and legal description, if it is practicable to do so; or
   (b) by name and a detailed description of the location of the land, in any other case.
+(8) An order under subsection (2) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 139A Further provision in relation to regional parks
 (1) An Order in Council made under section 139 may be varied to include a reference to any land included in the regional park after the Order is made.
@@ -2522,8 +2530,8 @@ Regulations under section 259 may do any or all of the following:
 (3) However, the Crown is bound by any bylaw if non-compliance with that bylaw by the Crown would be likely to have an adverse effect on public health or safety.
 
 ### 154 Power of exemption
-(1) The Minister of Local Government may, by written notice to the relevant local authority, exempt the Crown from any bylaw by which it is bound under section 153 if the Minister is satisfied, in his or her discretion, that the exemption is in the national interest.
-(2) If a notice is given under subsection (1), the Minister must, as soon as practicable after giving the notice, publish in the Gazette and present to the House of Representatives a copy of the notice.
+(1) The Minister of Local Government may, by a notice copied to the relevant local authority, exempt the Crown from any bylaw by which it is bound under section 153 if the Minister is satisfied, in his or her discretion, that the exemption is in the national interest.
+(2) A notice under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 **Procedure for making bylaws**
 
@@ -2598,6 +2606,48 @@ A bylaw that is not reviewed as required under section 158 or 159, if not earlie
 (2) A regional council may transfer all or any of its powers to make bylaws to a territorial authority within its region or to another regional council.
 (3) The provisions of section 17 apply in relation to a transfer under this section.
 (4) A local authority must not transfer or delegate the power to make bylaws, except as provided for in this section.
+
+### Subpart 1A — Local authority legislation
+
+### 161A What is local authority legislation
+(1) A bylaw that is made by a local authority or a council-controlled organisation is secondary legislation for the purposes of the Legislation Act 2019.
+(2) Any other instrument (whatever it is called) that is made by a local authority or a council-controlled organisation is secondary legislation for the purposes of the Legislation Act 2019 if it has significant legislative effect.
+(3) Subsection (1) applies whether or not the empowering legislation expressly states that the instrument is secondary legislation.
+(4) However,—
+  (a) for the purposes of the Legislation Act 2019, the secondary legislation has a presentation exemption (and so does not need to be presented to the House of Representatives), unless the empowering legislation (or other legislation) expressly requires presentation; and
+  (b) the secondary legislation need not be published under the Legislation Act 2019; and
+  (c) the secondary legislation is disallowable by the House of Representatives unless it is made by bylaws as defined by section 2 of the Bylaws Act 1910 (see section 115 of the Legislation Act 2019).
+
+### 161B Instruments that have significant legislative effect
+(1) An instrument has a significant legislative effect for the purposes of this subpart if the effect of the instrument is to do both of the following:
+  (a) create, alter, or remove rights or obligations; and
+  (b) determine or alter the content of the law applying to the public or a class of the public.
+(2) For the purposes of subsection (1),—
+  (a) an instrument that determines or alters the temporal application of rights or obligations must be treated as having the effect described in paragraph (a) of that subsection; and
+  (b) an instrument that determines or alters the temporal application of the law applying to the public or a class of the public must be treated as having the effect described in paragraph (b) of that subsection.
+(3) In applying subsection (1), the following must be disregarded:
+  (a) the description, form, and maker of the instrument:
+  (b) whether all or a portion of the instrument needs to be confirmed by an Act:
+  (c) whether the instrument also contains provisions that are administrative.
+(4) An instrument does not have a significant legislative effect if it explains or interprets rights or obligations in a non-binding way, as long as the instrument does not do anything else that would bring it within subsection (1).
+(5) An instrument that is made in the exercise of a statutory power and imposes obligations in an individual case does not determine or alter the content of the law just because the statutory power applies generally or to a class of persons.
+
+### 161C Other supporting definitions
+(1) For the purposes of this subpart, an instrument that determines or alters the temporal application of rights or obligations includes (without limitation) one that does 1 or more of the following to the legislation that directly or indirectly confers or imposes those rights or obligations:
+  (a) appoints or prescribes a date on which, or other time at which, they come into force:
+  (b) defers the date on which, or other time at which, they apply or come into force:
+  (c) suspends, or in any way cancels, for a period or until a time, their application or operation:
+  (d) continues or extends (with or without a break), for a period or until a time, their application or operation:
+  (e) defers the date on which, or other time at which, they are abolished, repealed, or revoked:
+  (f) on a date, or at any other time, abolishes, repeals, or revokes them.
+(2) For the purposes of this subpart,—
+  - **obligations** includes—
+    (a) duties or liabilities:
+    (b) obligations to comply with prohibitions:
+    (c) ineligibility for rights, benefits, entitlements, interests, powers, or privileges
+  - **rights** includes—
+    (a) benefits, entitlements, interests, powers, or privileges:
+    (b) eligibility for rights, benefits, entitlements, interests, powers, or privileges.
 
 ### Subpart 2 — Enforcement powers
 
@@ -4194,6 +4244,7 @@ The Minister must notify any change in the membership of a Ministerial body by n
   (b) prescribe parameters or benchmarks in a way that differentiates between different types or classes of local authority (for example, regional councils, territorial authorities, and local authorities with a population, assets, or an average income of its population over or under a specified figure); and
   (c) prescribe parameters or benchmarks in a way that includes or excludes subsidiaries, including council-controlled organisations, council-controlled trading organisations, and council organisations, of a local authority.
 (4) The Minister may recommend the making of regulations under subsection (1)﻿(dc) only if the content of the recommendation has been developed in consultation with the New Zealand Local Government Association Incorporated.
+(5) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 259A Levy to fund rules for performance measures
 (1) Regulations may be made under section 259 providing for the imposition and collection of a levy on local authorities.
@@ -4245,12 +4296,8 @@ Financial reporting standards incorporated by reference in regulations made unde
   (b) make the standards available for inspection during working hours, free of charge, at the department's head office and at any other place that the Secretary determines is appropriate.
 (2) A failure to comply with this section does not invalidate regulations that incorporate any financial reporting standards incorporated by reference in regulations made under section 259(1)﻿(dc).
 
-### 259I Application of Legislation Act 2012 to standards incorporated by reference
-(1) Part 2 of the Legislation Act 2012 does not apply to—
-  (a) financial reporting standards incorporated by reference in regulations made under section 259(1)﻿(dc); or
-  (b) an amendment to, or replacement of, those standards.
-(2) Subpart 1 of Part 3 of the Legislation Act 2012 applies to regulations made under section 259(1)﻿(dc) that incorporate financial reporting standards by reference.
-(3) However, nothing in section 41 of the Legislation Act 2012 requires material that is incorporated by reference in regulations made under section 259(1)﻿(dc) to be presented to the House of Representatives.
+### 259I Application of Legislation Act 2019 to standards incorporated by reference
+Subpart 1 of Part 3 and section 114 of the Legislation Act 2019 do not apply to financial reporting standards that are incorporated by reference in regulations made under section 259(1)﻿(dc) of this Act merely because they are incorporated.
 
 ### 259J Application of Regulations (Disallowance) Act 1989 to standards incorporated by reference
 [Repealed]
@@ -4264,13 +4311,15 @@ Financial reporting standards incorporated by reference in regulations made unde
   (c) the name of a district or region of a local authority described in Part 1 or Part 2 of Schedule 2 is altered under section 11(2) of the New Zealand Geographic Board (Ngā Pou Taunaha o Aotearoa) Act 2008.
 (2) The Governor-General may, by Order in Council, make any amendments to Schedule 2 that may be necessary to give effect to the abolition or alteration, or may include the name of the new local authority and a description of its district or region in Schedule 2.
 (3) Without limiting subsection (2), an Order in Council under that subsection may be combined with an Order in Council made under section 25, or any other matter, under this or any other Act.
+(4) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 261 Circumstances when Order in Council may extend time or validate action taken
-The Governor-General may, by Order in Council, do 1 or more of the following:
+(1) The Governor-General may, by Order in Council, do 1 or more of the following:
   (a) extend the time for completing an action, step, or procedure that is required by or under this Act and that is not done or cannot be done by the time required:
   (b) validate an action, step, or procedure taken after the time required under or by this Act:
   (c) validate an irregularity of form in an action, step, or procedure required by or under this Act:
   (d) make provision for a situation for which sufficient provision is not made by or under this Act.
+(2) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 **Rules for performance measures**
 
@@ -4295,17 +4344,11 @@ The purpose of rules made under section 261B is to provide standard performance 
   (b) publish in the Gazette, and in all of the daily newspapers published in Auckland, Hamilton, Wellington, Christchurch, and Dunedin, a notice of his or her intention to make the rule; and
   (c) give interested persons a reasonable time, which must be specified in the notice, to make submissions on the proposal; and
   (d) consult any other persons or groups as the Secretary considers appropriate.
-(4) The Secretary must—
-  (a) make copies of the rules available for purchase at a reasonable price; and
-  (b) make copies of the rules available free of charge, at all reasonable times, on the Secretary’s Internet site; and
-  (c) give notice in the Gazette that—
-    (i) the rules have been made; and
-    (ii) copies of the rules may be purchased and the place at which they may be purchased; and
-    (iii) the rules are available on an Internet site, free of charge, and state the Internet site address.
-(5) A rule comes into force 28 days after the date of its notification in the Gazette or on such later date as may be specified in the rule.
+(4) Rules under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+(5) A rule comes into force 28 days after the date of its publication or on such later date as may be specified in the rule.
 
 ### 261C Status of rules
-A rule made under section 261B is a disallowable instrument, but not a legislative instrument, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
+[Repealed]
 
 **Incorporation by reference**
 
@@ -4376,11 +4419,11 @@ A rule made under section 261B is a disallowable instrument, but not a legislati
   (a) consult every local authority; and
   (b) publish in the Gazette a notice of his or her intention to make the rules; and
   (c) give interested persons a reasonable time, which must be specified in the notice, to make submissions on the proposal.
-(4) After making such rules, the Secretary must—
-  (a) make the rules available, at all reasonable times, on the Secretary’s Internet site; and
-  (b) give notice in the Gazette stating that the rules have been made and are available on the Secretary’s Internet site and specifying the Internet site address.
-(5) Rules made under this section are effective 28 days after the date on which the notice is given in the Gazette, or on any later date that is specified in the rules.
-(6) A rule made under this section is a disallowable instrument, but not a legislative instrument, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
+(4)
+(5) Rules made under this section are effective 28 days after the date of publication under the Legislation Act 2019, or on any later date that is specified in the rules.
+(6) Rules under this section—
+  (a) are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements); but
+  (b) commence in accordance with subsection (5).
 
 ## Part 12 — Consequential amendments, repeals, revocations, transitional provisions, and savings
 
@@ -6170,7 +6213,9 @@ In deciding whether or not to constitute a community, the territorial authority 
 (4) The Remuneration Authority may direct a local authority to make publicly available any rules it has approved under subclause (3)﻿(e).
 (5) The Remuneration Authority may issue separate determinations, at different times, for the different positions listed in subclauses (1) and (2).
 (6) Clause 7A applies to determinations made under this clause.
-(7) A determination by the Remuneration Authority under this clause is a legislative instrument and a disallowable instrument for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
+(7) A determination by the Remuneration Authority under this clause—
+  (a) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements); but
+  (b) comes into force in accordance with clause 7A, even if it is not yet published.
 (8)
 
 ### 7 Mandatory criteria for Remuneration Authority
@@ -6212,6 +6257,7 @@ The Remuneration Authority must—
   (b) may provide for—
     (i) the deduction of over-recoveries for a financial year from a levy payable in subsequent financial years; and
     (ii) the addition of under-recoveries for a financial year to a levy payable in a subsequent year.
+(3) Regulations under this clause are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 10A Minister responsible for Remuneration Authority to set levy
 (1) The Minister responsible for the Remuneration Authority may, in each financial year, set a levy on local authorities in accordance with any regulations made under clause 10.
