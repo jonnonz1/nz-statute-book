@@ -1,5 +1,5 @@
 # Juries Act 1981
-_Consolidation as at 2020-08-26_
+_Consolidation as at 2021-10-28_
 
 > An Act to consolidate and reform the law relating to juries
 
@@ -215,13 +215,14 @@ A jury list remains current until it is replaced by a new list provided by the E
 (4) Fees for professional services provided, and reasonable expenses incurred, by the barrister or solicitor in performing that function—
   (a) must, after a bill for them is submitted, be determined by the Registrar in accordance with any currently in force relevant general directions under subsection (5); and
   (b) are payable out of public money appropriated by Parliament for the purpose.
-(5) The chief executive may from time to time give written general directions (including in electronic form) as to how the Registrar must determine under subsection (4)﻿(a) the fees and expenses.
+(5) The chief executive may from time to time give written general directions as to how the Registrar must determine under subsection (4)﻿(a) the fees and expenses.
 (6) The general directions are in force until revoked or revoked and replaced in writing, and may (without limitation) require the Registrar, unless satisfied in a particular case that a specified exception applies, to determine the fees and expenses using specified, or specified ranges of, rates or amounts.
 (7) The ranges, rates, or amounts may differ according to—
   (a) the time spent and the complexity of the proceedings:
   (b) the barrister's or solicitor's level of experience:
   (c) whether professional services are provided in a specified number of proceedings during a specified period:
   (d) any other factors the chief executive thinks relevant.
+(8) General directions under subsection (5) are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 14B Deferral of jury service
 (1) The Registrar may permit a person summoned to attend as a juror on an occasion to defer that person's attendance to serve as a juror to a time within a period that—
@@ -551,6 +552,7 @@ No verdict shall be in any way affected merely because—
   (a) the Chief Justice or another Judge of the High Court nominated for the purpose by the Chief Justice; and
   (b) the Chief District Court Judge or another District Court Judge nominated for the purpose by the Chief District Court Judge; and
   (c) the President of the New Zealand Law Society or a member of that society nominated for the purpose by the President.
+(3) Rules under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 36 Transitional
 For the purposes of the first compilation of jury lists after 1 January 1982,—
