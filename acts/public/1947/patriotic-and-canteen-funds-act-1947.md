@@ -1,5 +1,5 @@
 # Patriotic and Canteen Funds Act 1947
-_Consolidation as at 2021-01-30_
+_Consolidation as at 2021-10-28_
 
 > An Act to make provision for the administration and control of moneys raised for patriotic purposes and of the accumulated profits and surplus property of the Canteen Board and for matters incidental thereto
 
@@ -107,10 +107,11 @@ There is hereby constituted for the purposes of this Act, for each provincial di
 Every new Council formed by the union of 2 or more provincial districts shall, within 3 months after the holding of the first meeting of the new Council, prepare and submit to the Minister for his approval rules defining the constitution of that new Council which shall make provision for all the matters specified in section 17 and all the provisions of that section shall, so far as applicable and with any necessary modifications, apply to the new Council as if it were a Provincial Patriotic Council constituted under section 15.
 
 ### 19 Functions of Council
-The functions of the Council shall be to administer the Provincial Fund for the provincial district in accordance with the provisions of this Act to the end that the moneys of the Provincial Fund shall be expended to the best advantage for—
+(1) The functions of the Council shall be to administer the Provincial Fund for the provincial district in accordance with the provisions of this Act to the end that the moneys of the Provincial Fund shall be expended to the best advantage for—
   (a) the relief, assistance and support of discharged servicemen for the time being residing in the provincial district who may be suffering from disablement or sickness (whether attributable to war service or otherwise), or out of employment, or otherwise in need, and of the dependants of any such discharged serviceman:
   (b) the relief, assistance and support of the dependants for the time being residing in the provincial district of any deceased serviceman or discharged serviceman:
-  (c) such other purposes as the Minister may from time to time prescribe by notice published in the Gazette.
+  (c) such other purposes as the Minister may from time to time prescribe by notice.
+(2) A notice under subsection (1)﻿(c) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 20 Powers of Council
 The Council shall have the following powers:
@@ -283,13 +284,14 @@ Every Council shall with respect to its provincial district, have—
 (1) It shall not be lawful without the prior consent of the Minister for any person or body of persons, other than a Council, or a Welfare Committee, or other committee of a Council, or the duly authorised agents of a Council, or of a Welfare Committee or other committee, to raise money or to take up collections in money or goods for any patriotic purpose, or to solicit gifts in money or goods or in any way to hold himself or themselves out as willing to receive such gifts for any such purpose.
 (2) Every person who commits a breach of any of the provisions of the last preceding subsection commits an offence against this Act.
 (3) If any person raises money or receives goods in breach of the provisions of subsection (1), those moneys and the value of those goods may be recovered by the Minister, or by any person authorised in that behalf by the Minister, from the person by whom they were so received as if those moneys and the value of those goods were a debt owing jointly and severally by all the defendants in the proceedings, and any sums so recovered by the Minister shall be paid by him to any Council or Councils in such shares and proportions as the Minister thinks fit.
-(4) The Minister may from time to time, by public notice, prohibit the raising or collecting whether by means of public appeal or otherwise howsoever, of any moneys or goods for any specified purpose, not being a patriotic purpose, or the soliciting by any such means of gifts in money or goods for any specified purpose, not being a patriotic purpose, by any specified society, association, or body of persons, whether incorporated or not, if in the opinion of the Minister the public or any section of the public is likely to be misled into believing that it is or will be contributing to an authorised appeal for patriotic purposes.
-(5) For the purposes of this section the expression public notice means a notice published in the Gazette or in any newspaper circulating in the locality in which the matter of the notice arises or to which it relates.
-(6) Every notice given under this section shall take effect when it is published, or at such later time as may be specified in that behalf in the notice.
-(7) Any notice given under this section may be at any time varied or revoked by a subsequent notice.
+(4) The Minister may from time to time, by notice, prohibit the raising or collecting whether by means of public appeal or otherwise howsoever, of any moneys or goods for any specified purpose, not being a patriotic purpose, or the soliciting by any such means of gifts in money or goods for any specified purpose, not being a patriotic purpose, by any specified society, association, or body of persons, whether incorporated or not, if in the opinion of the Minister the public or any section of the public is likely to be misled into believing that it is or will be contributing to an authorised appeal for patriotic purposes.
+(5)
+(6)
+(7)
 (8) While any notice given under this section remains in force it shall not be lawful for any society, association, or other body of persons specified in the notice to raise or collect or solicit gifts of money or goods by any means whatsoever for any purpose so specified, or to continue by any such means to raise or collect or solicit gifts of money or goods for that purpose.
 (9) For the purposes of this section the Minister, or any person authorised by him in that behalf, may from time to time require any society, association, or body of persons, whether incorporated or not, to furnish such information and particulars, and to produce such books, accounts, papers, and other documents, relating to its constitution, proceedings, and activities as the Minister or such authorised person thinks fit.
 (10) If any society, association, or body of persons fails or refuses to conform to any requirement of the Minister or any authorised person under the last preceding subsection, every officer and every member of the committee or other governing body thereof commits an offence against this Act.
+(11) A notice under subsection (4) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 48 Saving existing functions of ex-servicemen's organisations
 Nothing contained in sections 46 and 47 shall operate in any way to limit the New Zealand Returned Services Association or any provincial Returned Services Association, or the New Zealand Homeservicemen's Association, or the Second New Zealand Expeditionary Force Association, or the Air Force Association, or the Ex-Royal Naval Men's Association, or the Merchant Service Guild in the powers, duties, and functions of those Associations or of that Guild or to render unlawful any appeal for funds or collection of money or goods by any such Association or Guild for any of its purposes or functions.
@@ -301,7 +303,8 @@ Nothing contained in sections 46 and 47 shall operate in any way to limit the Ne
 (4) Every person who commits an offence against this Act shall be liable on conviction to a fine not exceeding $100, and, where the offence is a continuing one, to a further fine not exceeding $10 for every day during which the offence continues.
 
 ### 50 Regulations
-The Governor-General may by Order in Council make regulations making provision for all matters deemed necessary for the due administration of, and for giving full effect to, the provisions of this Act.
+(1) The Governor-General may by Order in Council make regulations making provision for all matters deemed necessary for the due administration of, and for giving full effect to, the provisions of this Act.
+(2) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 51 Revocation of Emergency Regulations and savings
 (1) The regulations specified in Schedule 2 are hereby revoked.
