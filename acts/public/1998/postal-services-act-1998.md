@@ -1,11 +1,12 @@
 # Postal Services Act 1998
-_Consolidation as at 2018-10-01_
+_Consolidation as at 2021-10-28_
 
 > An Act to regulate the provision of postal services
 
 ### 1 Short title and commencement
 (1) This Act may be cited as the Postal Services Act 1998.
 (2) This Act comes into force on a date to be appointed by the Governor-General by Order in Council.
+(3) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ## Part 1 — Preliminary provisions
 
@@ -502,7 +503,7 @@ Every person who commits an offence against this Act, or against any regulations
 **Regulations—General**
 
 ### 60 Regulations
-The Governor-General may from time to time, by Order in Council, make regulations for all or any of the following purposes:
+(1) The Governor-General may from time to time, by Order in Council, make regulations for all or any of the following purposes:
   (a) requiring the corporation to disclose, in the prescribed manner,—
     (i) information in relation to the services provided by the corporation; and prescribing the information that the corporation must disclose, including (without limitation) information relating to prices, frequency, quantity, and quality of services; and
     (ii) prescribed financial statements that follow generally accepted accounting principles, including (without limitation) profit and loss statements and balance sheets and statements of accounting principles:
@@ -524,6 +525,10 @@ The Governor-General may from time to time, by Order in Council, make regulation
   (j) exempting or providing for the exemption of any person or class of persons from all or any of the requirements of any regulations made under this section, either unconditionally or subject to any conditions prescribed in the regulations:
   (k) exempting or providing for the exemption of specified postal identifiers, or postal identifiers of a specified class, from all or any of the requirements of sections 32 and 33, either unconditionally or subject to any conditions prescribed in the regulations:
   (l) providing for such other matters as are contemplated by or necessary for giving full effect to this Act and for its due administration.
+(2) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+(3) If regulations authorise a person to grant exemptions referred to in subsection (1)﻿(j) or (k),—
+  (a) an exemption is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements), unless it applies only to 1 or more named persons; and
+  (b) the regulations must contain a statement to that effect.
 
 **Regulations—Information disclosure**
 
@@ -537,6 +542,7 @@ The Governor-General may from time to time, by Order in Council, make regulation
     (i) any information required by regulations made under this section to be disclosed:
     (ii) information from which that information is derived (in whole or in part):
   (e) prescribing time limits within which the information disclosure required by any regulations made under this section must be made.
+(3) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 **Consequential amendments and repeals**
 
