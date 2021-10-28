@@ -1,5 +1,5 @@
 # Mental Health (Compulsory Assessment and Treatment) Act 1992
-_Consolidation as at 2020-08-07_
+_Consolidation as at 2021-10-28_
 
 > An Act to redefine the circumstances in which and the conditions under which persons may be subjected to compulsory psychiatric assessment and treatment, to define the rights of such persons and to provide better protection for those rights, and generally to reform and consolidate the law relating to the assessment and treatment of persons suffering from mental disorder
 
@@ -1290,9 +1290,10 @@ Nothing in this Act limits the operation of Part 2 of the Crimes of Torture Act 
 **Psychiatric security institutions**
 
 ### 100 Psychiatric security institutions
-(1) The Minister may from time to time, by notice in the Gazette, declare any hospital, or any part of a hospital, to be a psychiatric security institution, and may in like manner revoke or amend any such notice.
+(1) The Minister may from time to time, by notice, declare any hospital, or any part of a hospital, to be a psychiatric security institution, and may in like manner revoke or amend any such notice.
 (2) Notwithstanding anything in this Act, no compulsory treatment order or any other order made by any court under this or any other Act shall purport to commit any person to a psychiatric security institution.
 (3) No patient shall be transferred to or from any psychiatric security institution otherwise than at the direction or with the authority of the Director.
+(4) A notice under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 (4)
 
 **Review Tribunals**
@@ -1632,9 +1633,12 @@ In section 127(8), medical certificates is modified to assessment certificates.
 (4) The registers and books kept under the Mental Health Act 1969 for the purposes of the matters referred to in subsection (1), and continuing in use at the commencement of this Act, shall be deemed to be the registers and records prescribed or required by or under that subsection, notwithstanding any change in nomenclature or arrangement, and shall continue to be kept in accordance with any regulations in force at the commencement of this Act until other provision is made in that behalf.
 
 ### 130 Director-General may promulgate standards
-The Director-General of Health may from time to time issue—
+(1) The Director-General of Health may from time to time issue—
   (a) guidelines for the purposes of this Act; and
   (b) standards of care and treatment of patients.
+(2) The following are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements):
+  (a) guidelines under this section:
+  (b) standards under this section.
 
 ### 131 Notices to Director-General
 The responsible clinician shall send to the Director-General of Health, or to such other person as the Director-General of Health may specify, all such information as the Director-General of Health may require for the purposes of this Act.
@@ -1689,8 +1693,11 @@ In section 134(1), (2), and (5), medical practitioner is modified to mental heal
   (h) prescribing offences in respect of the contravention of or non-compliance with any regulation made under this Act or any requirement or direction made or given pursuant to any such regulation:
   (i) prescribing fines not exceeding in respect of any such offence $500 and, in the case of a continuing offence, $50 for every day on which the offence has continued:
   (j) providing for such matters as are contemplated by or necessary for giving full effect to this Act and for its due administration.
-(2) Any regulations made under this section may apply generally, or may apply or be applied from time to time by the Minister, by notice in the Gazette, in respect of any particular hospital or other place or any particular class of patient; and any such notice may be revoked or varied at any time in like manner.
+(2) Any regulations made under this section may apply generally, or may apply or be applied from time to time by the Minister, by notice, in respect of any particular hospital or other place or any particular class of patient; and any such notice may be revoked or varied at any time in like manner.
 (3) The operation of any regulations made under this section may, if so provided in the regulations, be wholly suspended until they are applied by the Minister by notice pursuant to subsection (2).
+(4) The following are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements):
+  (a) regulations under this section:
+  (b) a notice under subsection (2).
 
 ### 136 Application of other Acts
 Except as expressly provided in this Act, nothing in this Act shall limit or affect in any way the provisions of any other Act.
@@ -1706,6 +1713,7 @@ Except as expressly provided in this Act, nothing in this Act shall limit or aff
 (2) The Minister may recommend the making of an Order in Council under subsection (1)﻿(b) only if the Minister is satisfied that it is unnecessary for the provisions specified in subsection (1) to remain in force because—
   (a) the effects of COVID-19 have diminished to such an extent that it is no longer necessary to rely on the changes made to the law by those provisions; or
   (b) for any other reason arising since the commencement of those provisions, it is no longer necessary for those provisions to remain in force.
+(3) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 138 Savings
 [Repealed]
