@@ -1,5 +1,5 @@
 # Aquaculture Reform (Repeals and Transitional Provisions) Act 2004
-_Consolidation as at 2017-03-01_
+_Consolidation as at 2021-10-28_
 
 ### 1 Title
 This Act is the Aquaculture Reform (Repeals and Transitional Provisions) Act 2004.
@@ -7,6 +7,7 @@ This Act is the Aquaculture Reform (Repeals and Transitional Provisions) Act 200
 ### 2 Commencement
 (1) Section 33 comes into force on a date to be appointed by the Governor-General by Order in Council.
 (2) The rest of this Act comes into force on 1 January 2005.
+(3) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 3 Purpose
 The purpose of this Act is—
@@ -1009,6 +1010,7 @@ A consent authority must cancel an application for a coastal permit for the occu
 (1) The Governor-General may, by Order in Council made on the recommendation of the Minister of Fisheries, make regulations cancelling, on any coastal permit authorising the occupation of the coastal marine area for an aquaculture activity, conditions requiring the holder of the coastal permit to keep or provide accounts, records, returns, and information.
 (2) Regulations made under subsection (1) apply only to coastal permits to which this Act applies.
 (3) In subsection (1), Minister of Fisheries has the same meaning as Minister in the Fisheries Act 1996.
+(4) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 56 Restriction on erection of structures in coastal marine area
 (1) This section applies to a person who—
