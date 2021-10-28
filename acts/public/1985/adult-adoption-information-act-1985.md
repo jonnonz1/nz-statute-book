@@ -1,5 +1,5 @@
 # Adult Adoption Information Act 1985
-_Consolidation as at 2020-08-07_
+_Consolidation as at 2021-10-28_
 
 > An Act to provide for greater access to information relating to adoptions and to the parties to adoptions by adult adopted persons and their birth parents, and for other related matters
 
@@ -180,6 +180,7 @@ Notwithstanding section 63 of the Births, Deaths, Marriages, and Relationships R
 (1) The Governor-General may from time to time, by Order in Council, make regulations for either or both of the following purposes:
   (a) prescribing fees payable under this Act:
   (b) providing for such other matters as are contemplated by or necessary for giving full effect to this Act and its due administration.
+(2) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 (2)
 (3)
 
