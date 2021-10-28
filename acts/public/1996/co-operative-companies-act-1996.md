@@ -1,11 +1,12 @@
 # Co-operative Companies Act 1996
-_Consolidation as at 2014-12-01_
+_Consolidation as at 2021-10-28_
 
 > An Act to reform the law relating to co-operative companies and, in particular—ato reaffirm the value of the co-operative company as a means of facilitating its shareholders carrying on business on a mutual basis; andbto provide for the registration of co-operative companies and regulate the relationship between co-operative companies and their shareholders; andcto provide for the registration of existing co-operative companies and existing companies as co-operative companies under this Act at the same time as they reregister as companies under the Companies Act 1993; anddto modify the application of the Companies Act 1993 to co-operative companies registered under this Act—and to repeal the Co-operative Companies Act 1956 and certain other Acts
 
 ### 1 Short Title and commencement
 (1) This Act may be cited as the Co-operative Companies Act 1996.
 (2) Except as provided in sections 49(3) and 50(4), this Act shall come into force on a date to be appointed by the Governor-General by Order in Council.
+(3) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ## Part 1 — Interpretation
 
@@ -106,7 +107,7 @@ This Act binds the Crown.
 (6) The board of the company must, within 30 working days after receiving a notice under subsection (5),—
   (a) if the board did not pass the resolution referred to in subsection (1), pass the resolution and send a statement that complies with paragraphs (a) and (b) of subsection (4) to the Registrar; or
   (b) if the board passed the resolution but did not comply with paragraphs (a) and (b) of subsection (4), send a statement that complies with those paragraphs to the Registrar.
-(7) Subsections (2) and (3) apply in relation to a resolution referred to in subsection (6)(a).
+(7) Subsections (2) and (3) apply in relation to a resolution referred to in subsection (6)﻿(a).
 (8) Every director who, without reasonable excuse, fails to comply with subsection (3) commits an offence and is liable on conviction to a fine not exceeding $5,000.
 (9) If the board of a company fails to comply with subsection (6), every director of the company commits an offence and is liable on conviction to a fine not exceeding $10,000.
 (10) It is a defence to a director charged with an offence under subsection (9) if the director proves that—
@@ -167,7 +168,7 @@ The consideration for the issue of shares or any class of shares in a company re
 (1) Shares in a company registered under this Act having a nominal value may be issued and paid, fully or partly, from the reserves of the company if—
   (a) the shares are issued to each shareholder in the same class in proportion to the shares held by that shareholder in the class; or
   (b) the shares are issued to shareholders in the same class in proportions calculated by reference to transactions by those shareholders with the company.
-(2) For the purposes of subsection (1)(b), shares may be issued by reference to the number or value or volume of, or the profit derived by the company from, transactions by the shareholders with the company during a period determined by the board of the company.
+(2) For the purposes of subsection (1)﻿(b), shares may be issued by reference to the number or value or volume of, or the profit derived by the company from, transactions by the shareholders with the company during a period determined by the board of the company.
 
 ### 18 Surrender of shares having nominal value
 (1) Subject to this section and to the constitution of the company, a company registered under this Act—
@@ -201,8 +202,8 @@ The consideration for the issue of shares or any class of shares in a company re
   (c) the constitution of the company permits the board to require the surrender of the shares on grounds specified in the constitution, and—
     (i) the surrender of the shares is on a ground specified in the constitution; and
     (ii) the board has resolved that the surrender of the shares is in the best interests of the company.
-(2) A resolution under subsection (1)(c)(ii) must set out in full the reasons for the board's conclusions.
-(3) The directors who vote in favour of a resolution required under subsection (1)(c)(ii) must sign a certificate stating that the surrender is in the best interests of the company and may combine it with the certificate required under section 18.
+(2) A resolution under subsection (1)﻿(c)﻿(ii) must set out in full the reasons for the board's conclusions.
+(3) The directors who vote in favour of a resolution required under subsection (1)﻿(c)﻿(ii) must sign a certificate stating that the surrender is in the best interests of the company and may combine it with the certificate required under section 18.
 (4) Subject to section 18, the board of a company registered under this Act may, at any time, require a shareholder who has not been a transacting shareholder throughout the immediately preceding period of 12 months to surrender to the company all or any shares in the company having a nominal value and held by that shareholder.
 (5) Subject to section 18, the board of a company registered under this Act may, if permitted to do so by the constitution of the company, at any time, require a shareholder to surrender to the company all or any shares in the company having a nominal value and held by that shareholder in excess of the number of shares that the shareholder is required to hold in the company under the constitution and determined on the basis of transactions with the company during such immediately preceding period as is specified in the constitution.
 (6) The surrender of shares under this section takes effect at the expiration of a month after notice in writing requiring the surrender is given to the shareholder.
@@ -270,7 +271,7 @@ Nothing in sections 18 to 23 limits or affects the acquisition or redemption of 
   (b) the number of shares held by him or her:
   (c) the amount paid up on the shares:
   (d) that it is the intention of the company to forfeit the shares held by the shareholder after the date specified in the notice, not being a date that is earlier than 3 months after the first publication of the notice, unless, before that date, the shareholder, or his or her personal representatives or agent, or any other person who establishes on reasonable grounds that that person is entitled to the shares, notifies the company that the shares should not be forfeited.
-(5) If no person gives notice to the company under subsection (4)(d) within the time specified in the notice under that subsection, the board of the company may, by resolution, forfeit the shares.
+(5) If no person gives notice to the company under subsection (4)﻿(d) within the time specified in the notice under that subsection, the board of the company may, by resolution, forfeit the shares.
 (6) Any shares forfeited under this section shall be deemed to be cancelled on the date the resolution is passed.
 (7) If, within 4 years after shares have been forfeited under this section, a person establishes on reasonable grounds that he or she was the holder of the shares immediately before the forfeiture, the board must pay to that person the amount that that person would have been entitled to have been paid if the shares had been surrendered to the company under section 20 on the date on which they were forfeited.
 (8) No interest is payable on any amount payable under subsection (7).
@@ -281,10 +282,10 @@ Nothing in sections 18 to 23 limits or affects the acquisition or redemption of 
 The application of the Companies Act 1993 to a company registered under this Act is subject to the following modifications:
   (a) the reference in section 43(1) and section 47(5) to 10 working days shall, in the case of any issue of shares having a nominal value, be construed as a reference to 20 working days:
   (b) section 50 does not apply in relation to the issue of shares having a nominal value if the shares are, in accordance with the constitution of the company, issued to a person who already holds shares in the company having a nominal value:
-  (c) for the purposes of section 55(2)(b), transacting shareholders are shareholders of the same class:
+  (c) for the purposes of section 55(2)﻿(b), transacting shareholders are shareholders of the same class:
   (d) section 55 does not apply to discounts offered to transacting shareholders in respect of goods or services if discounts are, or are likely to be, offered in respect of like goods or services in the ordinary course of business by other persons:
   (e) section 95 shall not apply:
-  (f) where the board of a company agrees, under section 111(2)(a), to the purchase of shares having a nominal value by the company, or arranges under section 111(2)(b) for some other person to agree to purchase the shares, as the case may be, not being an agreement or arrangement that results from an alteration of the constitution of the company removing a power to register as a co-operative company under this Act, the price for the shares shall be determined in accordance with section 22 of this Act and sections 112 to 113 shall not apply:
+  (f) where the board of a company agrees, under section 111(2)﻿(a), to the purchase of shares having a nominal value by the company, or arranges under section 111(2)﻿(b) for some other person to agree to purchase the shares, as the case may be, not being an agreement or arrangement that results from an alteration of the constitution of the company removing a power to register as a co-operative company under this Act, the price for the shares shall be determined in accordance with section 22 of this Act and sections 112 to 113 shall not apply:
   (g) sections 140 and 141 shall not apply in relation to a transaction or proposed transaction in the ordinary course of business between—
     (i) the company and a director of the company in his or her capacity as a transacting shareholder or as a trustee for a transacting shareholder; or
     (ii) the company and a transacting shareholder of the company in that shareholder's capacity as such, being a shareholder of which a director of the company is a director, officer, or trustee:
@@ -304,7 +305,7 @@ The application of the Companies Act 1993 to a company registered under this Act
   (a) payments; or
   (b) shares issued in accordance with section 31 in lieu, wholly or partly, of payments,—
 (2) For the purposes of subsection (1), rebates may be calculated by reference to the number or value or volume of, or the profit derived by the company from, transactions by the shareholders with the company.
-(3) A rebate to which subsection (1) applies that is a distribution may be given by the company notwithstanding sections 36(1)(b) and 53(2)(b) of the Companies Act 1993.
+(3) A rebate to which subsection (1) applies that is a distribution may be given by the company notwithstanding sections 36(1)﻿(b) and 53(2)﻿(b) of the Companies Act 1993.
 
 ### 31 Shares in lieu of rebates
 The board of the company may issue shares in lieu of the payment of rebates to transacting shareholders who have agreed to accept the issue of the shares, wholly or partly, in lieu of the payment of a proposed rebate or proposed future rebates if—
@@ -313,7 +314,8 @@ The board of the company may issue shares in lieu of the payment of rebates to t
   (c) the shares issued to each transacting shareholder are issued on the same terms and subject to the same rights as the shares issued to all transacting shareholders in that class who agree to receive the shares.
 
 ### 32 Exemption from sections 209 to 209B of Companies Act 1993
-The Governor-General may from time to time, by Order in Council, and on such terms and conditions as may be specified in the order, exempt a company registered under this Act from compliance with the provisions of sections 209 to 209B of, and paragraph (i) of Schedule 4 of, the Companies Act 1993.
+(1) The Governor-General may from time to time, by Order in Council, and on such terms and conditions as may be specified in the order, exempt a company registered under this Act from compliance with the provisions of sections 209 to 209B of, and paragraph (i) of Schedule 4 of, the Companies Act 1993.
+(2) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 33 Voting rights of shareholders
 Notwithstanding section 36 of the Companies Act 1993, unless the constitution of the company expressly provides otherwise, only transacting shareholders of a company registered under this Act are entitled to vote on a resolution.
@@ -396,11 +398,12 @@ Where the constitution of a co-operative dairy company registered under this Par
 **Regulations**
 
 ### 48 Regulations
-The Governor-General may from time to time, by Order in Council, make regulations—
+(1) The Governor-General may from time to time, by Order in Council, make regulations—
   (a) prescribing forms for the purposes of this Act; and those regulations may require—
     (i) the inclusion in, or attachment to, forms of specified information or documents:
     (ii) forms to be signed by specified persons:
   (b) providing for such other matters as are contemplated by or necessary for giving effect to the provisions of this Act and for its due administration.
+(2) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 **Repeals**
 
