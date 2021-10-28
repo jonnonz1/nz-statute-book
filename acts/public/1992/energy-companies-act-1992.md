@@ -1,5 +1,5 @@
 # Energy Companies Act 1992
-_Consolidation as at 2021-01-30_
+_Consolidation as at 2021-10-28_
 
 > An Act—ato provide for the formation of energy companies, the vesting in such companies of the undertakings of Electric Power Boards and the electricity and gas undertakings of local authorities, and for the dissolution of Electric Power Boards; andbto repeal the Electric Power Boards Act 1925, the Auckland Electric Power Board Act 1978, and the Waikato Electricity Authority Act 1988
 
@@ -12,6 +12,7 @@ _Consolidation as at 2021-01-30_
 (6) In the case of section 89, a date may be appointed under subsection (4) only where the Governor-General is satisfied that on the date appointed for the coming into force of that section every local authority the operations of which include an energy undertaking will have transferred the whole of its energy undertaking to 1 or more energy companies.
 (7) In the case of section 95, the date appointed under subsection (4) shall be the date appointed by the Governor-General in the Order in Council made under section 47(1) in respect of the Auckland Electric Power Board constituted under the Auckland Electric Power Board Act 1978.
 (8) In the case of section 96, a date may not be appointed under subsection (4) until an Order in Council has been made under section 47(1) and has come into force in respect of each Board.
+(9) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ## Part 1 — Preliminary provisions
 
