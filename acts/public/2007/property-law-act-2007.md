@@ -1,5 +1,5 @@
 # Property Law Act 2007
-_Consolidation as at 2021-01-30_
+_Consolidation as at 2021-10-28_
 
 ### 1 Title
 This Act is the Property Law Act 2007.
@@ -3797,12 +3797,13 @@ A notice, cross-notice, or other document is received by a person for the purpos
 (4) This section does not affect any jurisdiction that the District Court has, otherwise than under this section, to exercise a power conferred on a court by this Act.
 
 ### 363 Regulations
-The Governor-General may, by Order in Council, make regulations for all or any of the following purposes:
+(1) The Governor-General may, by Order in Council, make regulations for all or any of the following purposes:
   (a) prescribing the forms of notices required by sections 119 and 128:
   (b) prescribing information to be included in the reports required by sections 162 and 163:
   (c) prescribing conditions of sale to apply in respect of sales under section 187, and providing for the variation of conditions of that kind by the Registrar, whether on the application of the mortgagee or on the Registrar’s own motion:
   (d) prescribing the application fee payable under section 194(1)﻿(a), and the minimum and maximum fees payable under section 194(1)﻿(c):
   (e) providing for any other matters contemplated by this Act, necessary for its administration, or necessary for giving it full effect.
+(2) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 364 Consequential amendments
 (1) The enactments specified in Schedule 7 are amended in the manner specified in that schedule.
