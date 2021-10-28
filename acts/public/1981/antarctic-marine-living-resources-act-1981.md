@@ -1,5 +1,5 @@
 # Antarctic Marine Living Resources Act 1981
-_Consolidation as at 2013-07-01_
+_Consolidation as at 2021-10-28_
 
 > An Act to give effect to the Convention on the Conservation of Antarctic Marine Living Resources
 
@@ -105,7 +105,7 @@ The Minister may make arrangements for, or co-operate with any government, organ
   (b) that an area specified in the certificate is in the Convention Area, or is in a part of the Convention Area:
   (c) that, at a time specified in the certificate, an area specified in the certificate was part of New Zealand fisheries waters:
   (d) that, at a time specified in the certificate, a person specified in the certificate was, or was not, the holder of a permit authorising the person, in the Convention Area, or in that part of the Convention Area specified in the certificate, to take marine organisms of a kind or kinds specified in the certificate.
-(2) A person giving a certificate under paragraph (1)(d) that a person was, at a time specified in the certificate, the holder of a permit may, in the certificate, certify that the conditions specified in the certificate were the conditions to which the permit was subject at the time so specified.
+(2) A person giving a certificate under paragraph (1)﻿(d) that a person was, at a time specified in the certificate, the holder of a permit may, in the certificate, certify that the conditions specified in the certificate were the conditions to which the permit was subject at the time so specified.
 (3) In any proceedings for an offence against this Act, a certificate given under this section is prima facie evidence of the matters specified in the certificate.
 (4) For the purposes of this section, a writing purporting to be a certificate under this section shall, unless the contrary is proved, be deemed to be such a certificate and to have been duly given.
 
@@ -135,7 +135,7 @@ Nothing in this Act shall derogate from the provisions of—
   (d) the Ross Dependency Whaling Regulations 1929, as published in the Gazette on 31 October 1929, at pages 2747 and 2748.
 
 ### 17 Regulations
-The Governor-General may, from time to time by Order in Council, make regulations for all or any of the following purposes:
+(1) The Governor-General may, from time to time by Order in Council, make regulations for all or any of the following purposes:
   (a) providing for functions and powers to be conferred, and duties to be imposed, upon inspectors:
   (b) prescribing forms of applications and of permits required for the purposes of this Act:
   (c) prescribing the amount of any deposit or fees to be paid in respect of any application made under this Act, and in respect of the granting of any permit:
@@ -143,5 +143,6 @@ The Governor-General may, from time to time by Order in Council, make regulation
   (e) giving effect to any conservation measures and to any proposals for the conduct of international and national programmes of research formulated by the Scientific Committee for the Conservation of Antarctic Marine Living Resources established under the Convention:
   (f) providing for the implementation of any system or interim arrangement relating to observation and inspection established under Article XXIV of the Convention:
   (g) providing for such other matters as are contemplated by or necessary for giving full effect to the provisions of this Act and for its due administration.
+(2) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ## Schedule Schedule
