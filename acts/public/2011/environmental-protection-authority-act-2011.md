@@ -1,5 +1,5 @@
 # Environmental Protection Authority Act 2011
-_Consolidation as at 2020-12-01_
+_Consolidation as at 2021-10-28_
 
 ### 1 Title
 This Act is the Environmental Protection Authority Act 2011.
@@ -8,6 +8,7 @@ This Act is the Environmental Protection Authority Act 2011.
 (1) Parts 1 and 2 of this Act come into force on the day after the date on which it receives the Royal assent.
 (2) The rest of this Act comes into force on a date appointed by the Governor-General by Order in Council; and 1 or more orders may be made bringing different provisions into force on different dates.
 (3) Any provision that has not earlier been brought into force comes into force on 1 December 2012.
+(4) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ## Part 1 — Preliminary provisions
 
