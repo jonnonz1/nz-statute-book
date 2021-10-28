@@ -1,5 +1,5 @@
 # Insolvency Practitioners Regulation Act 2019
-_Consolidation as at 2020-12-01_
+_Consolidation as at 2021-10-28_
 
 ### 1 Title
 This Act is the Insolvency Practitioners Regulation Act 2019.
@@ -14,6 +14,7 @@ This Act is the Insolvency Practitioners Regulation Act 2019.
   (f) sections 69 to 82 (which relate to miscellaneous matters).
 (2) The rest of this Act comes into force on a date appointed by the Governor-General by Order in Council, and 1 or more Orders in Council may be made bringing different provisions into force on different dates.
 (3) Any provision that is not earlier brought into force under subsection (2) comes into force on 1 June 2021.
+(4) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ## Part 1 — Preliminary provisions
 
@@ -69,7 +70,7 @@ The purpose of this Act is to regulate insolvency practitioners and to establish
     (b) a recognised jurisdiction
   - **prescribed minimum standards** means the minimum standards for the issue of a licence prescribed under subpart 2 of Part 2
   - **qualified statutory accountant** has the meaning given to it by section 5(1) of the Financial Reporting Act 2013
-  - **recognised jurisdiction** means a jurisdiction that is recognised, by notice in the Gazette, by the Registrar in accordance with subsection (3) for the purposes of this Act
+  - **recognised jurisdiction** means a jurisdiction that is recognised, by notice, by the Registrar in accordance with subsection (3) for the purposes of this Act
   - **register** means the register kept under subpart 3 of Part 2
   - **Registrar** means the Registrar of Companies appointed in accordance with section 357(1) of the Companies Act 1993
   - **regulations** means any regulations made under this Act
@@ -90,6 +91,7 @@ The purpose of this Act is to regulate insolvency practitioners and to establish
   (a) quality, expertise, and integrity in the profession of insolvency practitioners; and
   (b) compliance with the statutory duties of insolvency practitioners.
 (3) The Registrar may recognise a jurisdiction for the purposes of this Act only if the Registrar is satisfied that the law or other regulatory requirements of the jurisdiction for the regulation of persons carrying out insolvency work are substantially the same as the requirements set out in this Act or sufficiently equivalent to the requirements set out in this Act.
+(4) A notice recognising a jurisdiction made in accordance with subsection (3) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 6 Transitional, savings, and related provisions
 The transitional, savings, and related provisions set out in Schedule 1 have effect according to their terms.
@@ -269,7 +271,7 @@ An accredited body must send to the Registrar notification of the issue of a lic
 ### Subpart 2 — Registrar may prescribe licensing and other matters
 
 ### 22 Registrar may prescribe licensing and other matters
-(1) The Registrar may, by notice in the Gazette, prescribe—
+(1) The Registrar may, by notice, prescribe—
   (a) the minimum standards for licensing (including standards relating to required competence, qualifications, and experience) that a person must meet in order to be issued with a licence by an accredited body; and
   (b) conditions, or the kinds of conditions, to which licences—
     (i) must be subject; and
@@ -282,6 +284,7 @@ An accredited body must send to the Registrar notification of the issue of a lic
   (a) have general or specific application; and
   (b) differ according to differences in time or circumstance.
 (3) Conditions prescribed under subsection (1)﻿(b)﻿(ii) may relate to a licensed insolvency practitioner carrying out solvent company liquidations.
+(4) A notice under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 23 Minimum standards for licence
 A notice under section 22(1)﻿(a) may prescribe minimum standards for licensing in any way that the Registrar thinks fit, including in 1 or more of the following ways:
@@ -304,8 +307,8 @@ In prescribing matters under this subpart, the Registrar must be guided by the f
   (b) the matters should not unnecessarily restrict the licensing of insolvency practitioners; and
   (c) the matters should not impose undue costs on insolvency practitioners or on creditors.
 
-### 25 Registrar must consult before publishing notices
-(1) The Registrar must, before publishing a notice in the Gazette under section 22, consult—
+### 25 Registrar must consult before making notices
+(1) The Registrar must, before making a notice under section 22, consult—
   (a) persons who the Registrar considers are able to represent the views of insolvency practitioners; and
   (b) organisations—
     (i) that the Registrar considers will be substantially affected by the proposal; or
@@ -313,8 +316,7 @@ In prescribing matters under this subpart, the Registrar must be guided by the f
 (2) A failure to comply with subsection (1) does not affect the validity of any notice under section 22.
 
 ### 26 Other provisions relating to notices under section 22
-(1) The Registrar must ensure that an up-to-date version of each notice under section 22 is available at all reasonable times on an Internet site maintained by or on behalf of the Registrar.
-(2) A notice under section 22 is a disallowable instrument for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
+[Repealed]
 
 ### Subpart 3 — Register of licensed insolvency practitioners
 
@@ -424,10 +426,8 @@ The Registrar must amend the register if—
   (g) the code of conduct or ethics that governs the professional conduct of the members of the accredited body.
 (2) The rules may contain any other provisions that are not inconsistent with this Act or any other Act or any rule of law.
 (3) The accredited body must, not later than 5 working days after amending or replacing its rules, provide a copy of the new or amended rules to the Registrar for registration.
-(4) The rules of an accredited body that relate to the matters referred to in subsection (1) are a disallowable instrument for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
-(5) If the New Zealand Institute of Chartered Accountants is accredited as an accredited body,—
-  (a) subsections (1) to (4) do not apply in relation to the rules or the code of ethics described in section 8 of the New Zealand Institute of Chartered Accountants Act 1996; and
-  (b) in relation to the Institute, a reference in this Act to the rules or to a code of ethics must be read as a reference to the rules or to the code of ethics described in section 8 of the New Zealand Institute of Chartered Accountants Act 1996.
+(4) The rules of an accredited body that relate to the matters referred to in subsection (1) are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+(5) If the New Zealand Institute of Chartered Accountants is accredited as an accredited body, subsections (1) to (4) do not apply to rules described under section 6(1)﻿(c), (e), or (jb) of the New Zealand Institute of Chartered Accountants Act 1996.
 
 ### 37 Accredited bodies must supply report and annual confirmation to Registrar
 (1) An accredited body must supply a report and an annual confirmation to the Registrar as specified by the Registrar in a direction under subsection (4).
@@ -642,7 +642,8 @@ Every person required to provide information and documents to the Registrar unde
   (c) the accredited body is satisfied that P—
     (i) has satisfactory competence, qualifications, and experience to act as an insolvency practitioner; and
     (ii) is otherwise a fit and proper person to be an insolvency practitioner.
-(2) In this section, a recognised body is a person (for example, an incorporated professional body or industry group) that is recognised, by notice in the Gazette, by the Registrar for the purposes of this section.
+(2) In this section, a recognised body is a person (for example, an incorporated professional body or industry group) that is recognised, by notice, by the Registrar for the purposes of this section.
+(3) A notice under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 58 Requirements for arrangement
 (1) For the purposes of section 57, the arrangement must—
@@ -909,6 +910,10 @@ The Registrar may refuse to accept a document under this Act if that document—
   (a) prescribe the method of payment of a fee, charge, or cost; and
   (b) authorise the Registrar to refund or waive, in whole or in part and on any prescribed conditions, payment of a fee, charge, or cost in relation to any person or class of persons.
 (3) Any fee, charge, cost, or other amount payable to the Registrar by or under this Act is recoverable by the Registrar in any court of competent jurisdiction as a debt due to the Registrar.
+(4) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+(5) If the regulations authorise the Registrar to refund or waive a payment under subsection (2)﻿(b),—
+  (a) the instrument refunding or waiving the payment is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements), unless it applies only to 1 or more named persons; and
+  (b) the regulations must contain a statement to that effect.
 
 ### 81 Levy of persons registered or incorporated under certain Acts
 (1) Every company, or every company that is included in a prescribed class of companies, must pay to the Crown, or a prescribed person on behalf of the Crown, a levy prescribed by regulations.
@@ -930,6 +935,7 @@ The Registrar may refuse to accept a document under this Act if that document—
   (j) provide for waivers or refunds of the whole or any part of a levy for any case or class of cases.
 (6) If a company is in 2 or more classes of companies in respect of which different levies have been prescribed, the company must pay each of those levies (unless the regulations provide otherwise).
 (7) The amount of any unpaid levy is recoverable in any court of competent jurisdiction as a debt due to the Registrar, or to any other person prescribed for the purposes of this subsection, on behalf of the Crown.
+(8) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 82 Minister must consult about levy regulations
 (1) Before recommending the making of regulations under section 81, the Minister must consult—
