@@ -1,5 +1,5 @@
 # Government Superannuation Fund Act 1956
-_Consolidation as at 2020-08-07_
+_Consolidation as at 2021-10-28_
 
 > An Act to consolidate and amend the law relating to superannuation
 
@@ -123,6 +123,7 @@ _Consolidation as at 2020-08-07_
 (4) In subsection (3), the Tokelau Public Service Employing Authority—
   (a) means the body or institution, or the holder of the office, recognised under section 2(1) of the Tokelau Amendment Act 1999; and
   (b) includes the successor for the time being of that body or institution, or the holder of that office, as employer for the Tokelau Public Service.
+(5) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 **Government Superannuation Appeals Board**
 
@@ -371,7 +372,9 @@ The forecast financial statements of the Authority prepared each financial year 
 
 ### 18 Interest on money held in error
 (1) This section applies if the Authority pays interest, out of the Fund, on any money held in error in the Fund.
-(2) The interest must be at a rate calculated using a method that has been determined by the Authority, approved by the Minister, and published in the Gazette.
+(2) The interest must be at a rate calculated using a method that has been determined by the Authority.
+(3) The Authority may not make a determination under this section unless the Minister has approved the proposed method.
+(4) A determination under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 **Administration managers, investment managers, other service providers, and custodians**
 
@@ -714,10 +717,12 @@ Where the salary of a contributor is for any period temporarily stopped on the g
 ### 42 Refund of contributions on retiring before entitled to retiring allowance
 (1) Where before a contributor becomes entitled to a retiring allowance he retires from the Government service, whether voluntarily or otherwise, he shall be entitled to a refund of the total amount of his contributions to the Fund (less any sums already received by him from the Fund).
 (2) Except as hereinafter provided, every refund under this section shall be without interest.
-(3) Where the retirement of any contributor entitled to a refund under this section is compulsory for any reason other than misconduct, he shall be entitled, in addition to the refund, to receive a further sum by way of interest computed in the same manner as if the contributions from time to time paid by him (after deducting all sums from time to time received by him from the Fund) had been invested at compound interest with yearly rests at a rate calculated using a method that has been determined by the Authority, approved by the Minister, and published in the Gazette.
+(3) Where the retirement of any contributor entitled to a refund under this section is compulsory for any reason other than misconduct, he shall be entitled, in addition to the refund, to receive a further sum by way of interest computed in the same manner as if the contributions from time to time paid by him (after deducting all sums from time to time received by him from the Fund) had been invested at compound interest with yearly rests at a rate calculated using a method that has been determined by the Authority (see subsections (7) and (8)).
 (4) All such interest shall be computed as if all moneys paid into or out of the Fund during any financial year have been so paid on 30 June in that year; but interest shall be allowed as aforesaid for the broken period of the year in which the contributor retires.
 (5) For the purposes of this Act no retirement of a contributor from the Government service shall be deemed to be compulsory merely because the contributor is deprived of the position held by him in that service if at any time within 3 months before the deprivation he has been offered and has failed or refused to accept some other position in the Government service which the controlling authority considers suitable for him at a salary not less than that of the position so held by him.
-(6) Where any money has been received, whether before or after the commencement of this subsection, from any person, and the money, for whatever reason, was received in error, the Authority may in its discretion pay to that person, in addition to any refund, interest on the money refunded from the date of its receipt into the Fund at a rate, and on a basis, calculated using a method that has been determined by the Authority, approved by the Minister, and published in the Gazette.
+(6) Where any money has been received, whether before or after the commencement of this subsection, from any person, and the money, for whatever reason, was received in error, the Authority may in its discretion pay to that person, in addition to any refund, interest on the money refunded from the date of its receipt into the Fund at a rate, and on a basis, calculated using a method that has been determined by the Authority (see subsections (7) and (8)).
+(7) The Authority may not make a determination under this section unless the Minister has approved the proposed method.
+(8) A determination under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 43 Election to continue contributory service after retirement
 (1) Any contributor to the Fund may elect to continue to be a contributor after his retirement, if he retires from the Government service, whether voluntarily or otherwise, before he becomes entitled to a retiring allowance.
@@ -899,6 +904,7 @@ Where the cessation of service at any time after 1 June 1991 of any contributor 
 (4) The Governor-General may from time to time, by Order in Council,—
   (a) approve for the purposes of this section any scheme established to provide superannuation for employees of a university of a country within the Commonwealth (other than New Zealand), or of an organisation constituted in a country within the Commonwealth (other than New Zealand) being an organisation engaged in research or educational service:
   (b) declare that this section shall apply to a teacher or group of teachers in the education service as if the teacher or group of teachers was employed by a university in New Zealand.
+(5) An order under subsection (4) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 53 Teachers in endowed colleges or schools
 Subject to the consent of the Authority in each case, service as a teacher in any endowed college or school (whether before or after the commencement of this Act) shall for the purposes of this Part be deemed to be employment in the education service in the case of every person who immediately before the date of his appointment as such teacher was a contributor to the Fund or to any superannuation fund abolished by the Superannuation Act 1947.
@@ -1462,7 +1468,7 @@ Any contributor under this Part may, subject to regulations made under section 9
 ### 71K Benefits where contributor leaves regular forces and is not entitled to retiring allowance
 (1) Where any contributor under this Part is discharged or released from the regular forces in circumstances where no retiring allowance is payable, the contributor shall be entitled to receive a refund of the total amount of the contributor's contributions to the Fund (less any amounts already received by the contributor from the Fund), increased—
   (a) in respect of contributions paid in respect of any period of contributory service under Part 3 or this Part by 0.25% for every month between the date of commencement of the contributor's contributory service under Part 3 or this Part and the date of payment of the refund; and
-  (b) where the Chief of Defence Force and the Authority so agree, by a further sum by way of interest computed as if the contributions paid by the contributor (after deducting all sums from time to time received by the contributor from the Fund) had been invested at compound interest with yearly rests at a rate calculated using a method that has been determined by the Authority, approved by the Minister, and published in the Gazette; and, except in the case of payments made during the financial year in which the contributor retires, that interest shall be computed as if all money paid into or out of the Fund in any financial year had been paid on 30 June in that year.
+  (b) where the Chief of Defence Force and the Authority so agree, by a further sum by way of interest computed as if the contributions paid by the contributor (after deducting all sums from time to time received by the contributor from the Fund) had been invested at compound interest with yearly rests at a rate calculated using a method that has been determined by the Authority (see subsections (11) and (12)); and, except in the case of payments made during the financial year in which the contributor retires, that interest shall be computed as if all money paid into or out of the Fund in any financial year had been paid on 30 June in that year.
 (2) For the purposes of determining the amount of any refund of contributions payable to any contributor under subsection (1), the amount of the refund shall include any amount payable to the contributor under section 35(1) of the Government Superannuation Fund Amendment Act 1976.
 (3) Where any contributor is entitled to receive a payment under subsection (1) and the contributor has not less than 10 years contributory service, the contributor may elect to decline the payment and to have the transfer value of the contributor's contributions (as determined in accordance with subsection (5)) paid to any retirement scheme (within the meaning of section 6(1) of the Financial Markets Conduct Act 2013) that is nominated by the contributor and approved by the Authority.
 (4) Any election under subsection (3) may be revoked, but shall be irrevocable once any payment has been accepted from the Fund pursuant to that election.
@@ -1480,6 +1486,8 @@ Any contributor under this Part may, subject to regulations made under section 9
     (i) the date on which the contributor was discharged or released from the regular forces was the date of the contributor's retirement; and
     (ii) the final average earnings of the contributor were increased by the percentage (if any) as certified by the Government Statistician by which the all groups index number of the New Zealand Consumer Price Index for the quarter which immediately precedes the date of the contributor's death exceeds the index number for the quarter immediately following the date on which the contributor was discharged or released from the regular forces—
 (10) Where a contributor who has elected to leave contributions in the Fund under subsection (6) dies while any contributions are held in the Fund on his or her behalf and while not contributing and does not leave a spouse or partner, sections 61O and 61Q shall not apply and there shall be paid out of the Fund to the contributor's personal representatives in trust for the persons entitled to receive them under the contributor's will or under the Acts relating to the distribution of intestate estates, as the case may be, the contributor's contributions to the Fund increased in respect of contributions paid in respect of any period of contributory service under Part 3 or this Part by 0.25% for every month between the date of commencement of the contributor's contributory service under Part 3 or this Part and the date of the contributor's death.
+(11) The Authority may not make a determination under subsection (1)﻿(b) unless the Minister has approved the proposed method.
+(12) A determination under that subsection is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 71L Benefits on death of contributor
 Sections 61M, 61N, 61O, and 61Q shall apply in respect of contributors under this Part as if—
@@ -2819,12 +2827,15 @@ Notwithstanding anything to the contrary in Part 2 or Part 3 of this Act or in s
 (3)
 
 ### 95A Timing of transfer of employee contributions to Fund
-Every person who deducts contributions to the Fund from remuneration or other money payable to another person, or who otherwise receives contributions payable to the Fund by any person, shall pay those contributions into the Fund at such time or times as are reasonably specified by the Authority in a written notice to the person or in a notice in the Gazette.
+(1) Every person who deducts contributions to the Fund from remuneration or other money payable to another person, or who otherwise receives contributions payable to the Fund by any person, shall pay those contributions into the Fund at such time or times as are reasonably specified by the Authority in a written notice to the person or in a notice published under the Legislation Act 2019.
+(2) A notice under subsection (1) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements), unless it applies only to 1 or more named persons.
 
 ### 95B Interest payable on overdue amounts
-Where a person who is required to pay an amount into the Fund under any provision of this Act fails to do so at the time required by this Act, the person shall pay into the Fund on demand by the Authority, in addition to that amount, interest on that amount—
+(1) Where a person who is required to pay an amount into the Fund under any provision of this Act fails to do so at the time required by this Act, the person shall pay into the Fund on demand by the Authority, in addition to that amount, interest on that amount—
   (a) for the period from the time required by this Act for payment (or the date of commencement of this section, whichever is the later) until the time at which the amount is paid into the Fund; and
-  (b) at a rate calculated using a method that has been determined by the Authority, approved by the Minister, and published in the Gazette.
+  (b) at a rate calculated using a method that has been determined by the Authority.
+(2) The Authority may not make a determination under this section unless the Minister has approved the proposed method.
+(3) A determination under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 95C Recovery of debts
 Every amount payable by a person into the Fund under any provision of this Act shall constitute a debt due by the person to the Authority, and—
@@ -2840,7 +2851,7 @@ Every amount payable by a person into the Fund under any provision of this Act s
 Every person commits an offence and shall be liable on conviction to a fine not exceeding $200 or to imprisonment for a term not exceeding 12 months who for the purpose of obtaining any payment or benefit or avoiding any obligation for himself or for any other person under this Act makes any false statement to or otherwise misleads or attempts to mislead any person concerned in the administration of this Act or any other person whomsoever.
 
 ### 97 Regulations
-The Governor-General may from time to time, by Order in Council, make regulations for all or any of the following purposes:
+(1) The Governor-General may from time to time, by Order in Council, make regulations for all or any of the following purposes:
   (a)
   (b) prescribing, for the purposes of all or any of sections 28(1)﻿(b), 61R(1)﻿(b), 71JA, 81OA, 86FA, and 88HA,—
     (i) terms and conditions in relation to any election under any of those sections:
@@ -2857,11 +2868,12 @@ The Governor-General may from time to time, by Order in Council, make regulation
     (ii) does not include payment for the time during which the contributor is not actually employed:
   (h) prescribing the persons, or class of persons, who may make deductions from the salaries of contributors for payment into the Fund, and the time at which deductions shall cease in respect of contributors who retire, die, or cease to be contributors:
   (i) providing for such other matters as are contemplated by or necessary for giving full effect to the provisions of this Act and for its due administration.
+(2) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 98 Reciprocal arrangements with other Commonwealth Governments or other bodies
 (1) The Governor-General may from time to time, by Order in Council, declare that arrangements that have been made with the Government of any part of the Commonwealth outside New Zealand, or with any institution or body in New Zealand or any other part of the Commonwealth, with a view to providing reciprocity in matters relating to superannuation, shall have effect notwithstanding anything to the contrary in this Act or any other enactment; and every such Order in Council shall, subject to the provisions of this section, have effect according to its tenor.
 (2) Any Order in Council under this section may be at any time amended or revoked by a subsequent Order in Council; and any such amending or revoking Order in Council may contain such transitional provisions as appear to the Governor-General to be necessary or expedient.
-(3) Every Order in Council made under this section shall be laid before Parliament within 28 days after the date of the making thereof if Parliament is then in session and, if not, shall be laid before Parliament within 28 days after the date of the commencement of the next ensuing session.
+(3) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 99 Repeals and savings
 (1) The enactments specified in Schedule 2 are hereby repealed.
@@ -3707,6 +3719,7 @@ The substitution in the principal Act by section 2 of a new section 83 does not 
 (2) This section does not apply to any person to whom a retiring allowance is payable under section 36 or section 69 of the principal Act.
 (3) The annual rate of the retiring allowance payable to any person to whom this section applies shall not, by reason of the enactment of section 2, exceed by more than $1,000 the annual rate of the retiring allowance that would have been paid if section 2 had not been enacted.
 (4) The Governor-General may, from time to time by Order in Council, increase the amount specified in subsection (3) with effect from any date specified in the order.
+(5) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 4 Special provision in relation to annuities
 (1) For the purpose of calculating any annuity payable under section 45(2) or (3) of the principal Act, the rate of the retiring allowance to which the contributor was entitled at the date of the contributor's death shall be deemed to include any adjustments that would have been payable if section 2 of this Act had been enacted before the date of the contributor's death and if (except in the case of a contributor entitled to a retiring allowance under section 36 or section 69 of the principal Act) section 3 of this Act had applied to that contributor.
