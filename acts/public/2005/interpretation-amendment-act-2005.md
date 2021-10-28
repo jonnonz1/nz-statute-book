@@ -1,5 +1,5 @@
 # Interpretation Amendment Act 2005
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2021-10-28_
 
 ### 1 Title
 (1) This Act is the Interpretation Amendment Act 2005.
@@ -9,7 +9,7 @@ _Consolidation as at 2007-09-03_
 This Act comes into force on 26 April 2005.
 
 ### 3 Definitions
-Section 29 of the principal Act is amended by inserting, after the definition of consular officer, the following definition:.
+Section 29 of the principal Act is amended by inserting, after the definition of consular officer, the following definition:
   - **de facto partner** means a person who is a party to a de facto relationship (as defined in section 29A)
 
 ### 4 New sections 29A and 29B inserted
