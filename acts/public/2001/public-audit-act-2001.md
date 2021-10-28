@@ -1,5 +1,5 @@
 # Public Audit Act 2001
-_Consolidation as at 2020-12-01_
+_Consolidation as at 2021-10-28_
 
 ### 1 Title
 This Act is the Public Audit Act 2001.
@@ -357,6 +357,7 @@ For the purposes of sections CW 38 and CW 39 of the Income Tax Act 2007, the Aud
   (b) by omitting the name of an entity that no longer exists; or
   (c) by correcting the name of an entity.
 (2) The Minister of Finance must not recommend the addition of the name of an entity to Schedule 2 unless the Minister of Finance is satisfied that paragraphs (a) to (d) of section 19(2) apply in respect of the entity.
+(3) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ## Part 8 — Amendments, repeals, revocations, and savings
 
