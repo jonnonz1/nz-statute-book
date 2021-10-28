@@ -1,5 +1,5 @@
 # Local Legislation Act 1983
-_Consolidation as at 2003-07-01_
+_Consolidation as at 2021-10-28_
 
 > An Act to confer powers on certain public bodies and to authorise and validate certain transactions and other matters
 
@@ -46,6 +46,7 @@ Notwithstanding that the special rate on the land value of all rateable property
 (4) The Minister of Local Government shall not advise the making of an Order in Council under subsection (3) unless he is satisfied that each of the territorial authorities specified in section 22(9) of the Local Legislation Act 1976 (as amended by subsection (2) of this section) or, as the case requires, its lawful successor, agrees that it should be made.
 (5) Upon the repeal of the provisions specified in subsection (3), the agreement specified in section 40 of the Local Legislation Act 1963 relating to the establishment of a museum for the Provincial District of Nelson, together with the amendments specified in section 22(1) of the Local Legislation Act 1976 and subsection (1) of this section, shall be deemed to have been abrogated.
 (6) Nothing in subsection (3) or subsection (5) shall affect the validity of anything validated by any provision specified in subsection (3).
+(7) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 7 Northland Harbour Board: validation of illegal payment of retirement gratuity
 Notwithstanding that the actions of the Northland Harbour Board in paying to Ronald Norman Griggs, during the year ending with 30 September 1983, a retirement gratuity of $7,559.25 were unlawful in that he had not been in the service of the said Board for 10 years, as required by section 6 of the Finance Act (No 2) 1941, those actions are hereby validated and deemed to have been lawful.
