@@ -1,5 +1,5 @@
 # Exclusive Economic Zone and Continental Shelf (Environmental Effects) Act 2012
-_Consolidation as at 2018-09-08_
+_Consolidation as at 2021-10-28_
 
 ### 1 Title
 This Act is the Exclusive Economic Zone and Continental Shelf (Environmental Effects) Act 2012.
@@ -7,6 +7,7 @@ This Act is the Exclusive Economic Zone and Continental Shelf (Environmental Eff
 ### 2 Commencement
 (1) This Act comes into force on a date appointed by the Governor-General by Order in Council; and 1 or more orders may be made bringing different provisions into force on different dates.
 (2) Any provision that has not earlier been brought into force comes into force on 1 July 2014.
+(3) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ## Part 1 — Preliminary provisions
 
@@ -112,7 +113,7 @@ Part 5
   - **Environmental Protection Authority** or means the Environmental Protection Authority established by section 7 of the Environmental Protection Authority Act 2011
   - **exclusive economic zone** means the exclusive economic zone of New Zealand as defined in section 9 of the Territorial Sea, Contiguous Zone, and Exclusive Economic Zone Act 1977
   - **existing interest** means, in relation to New Zealand, the exclusive economic zone, or the continental shelf (as applicable), the interest a person has in—
-    (a) any lawfully established existing activity, whether or not authorised by or under any Act or regulations, including rights of access, navigation, and fishing:
+    (a) any lawfully established existing activity, whether or not authorised by or under any legislation, including rights of access, navigation, and fishing:
     (b) any activity that may be undertaken under the authority of an existing marine consent granted under section 62:
     (c) any activity that may be undertaken under the authority of an existing resource consent granted under the Resource Management Act 1991:
     (d) the settlement of a historical claim under the Treaty of Waitangi Act 1975:
@@ -385,9 +386,10 @@ The Māori Advisory Committee may provide advice as follows:
 **Power of Minister of Conservation**
 
 ### 19 Power of Minister of Conservation to declare threatened species
-(1) The Minister of Conservation may, by notice in the Gazette, declare a marine species to be a threatened or an at-risk species.
+(1) The Minister of Conservation may declare a marine species to be a threatened or an at-risk species.
 (2) The Minister must not declare a marine species to be threatened or at-risk unless the species is classified as threatened or at-risk under the New Zealand Threat Classification System.
 (3) In this section, New Zealand Threat Classification System means the system maintained by the Department of Conservation for assessing the risk of extinction of New Zealand species and classifying the species according to that risk.
+(4) A declaration under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ## Part 2 — Duties, restrictions, and prohibitions
 
@@ -615,6 +617,7 @@ To avoid doubt,—
     (ii) specify when and to what extent regulations apply to an application for a marine consent made before the regulations come into force:
     (iii) provide for any other matters necessary for facilitating or ensuring an orderly transition when applicable regulations are amended or replaced.
 (3) However, the Minister must not recommend the making of regulations unless he or she is satisfied that the requirements of sections 32 to 34 have been met.
+(4) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 28 Regulations classifying areas of exclusive economic zone or continental shelf
 (1) Regulations made under section 27 or 29A may identify and provide for areas of the exclusive economic zone or the continental shelf that—
@@ -671,10 +674,12 @@ To avoid doubt,—
   (b) it is more appropriate for the adverse effects of the activity to be considered in relation to an application for a marine consent.
 (7) Section 27(2) applies to regulations made under subsection (2)﻿(a).
 (8) Section 29(2) and (3) applies to the regulations made under this section.
+(9) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 29B Regulations for emergency dumping
 (1) This section applies to the exclusive economic zone, continental shelf, and the waters above the continental shelf beyond the outer limits of the exclusive economic zone.
 (2) The Governor-General may, by Order in Council made on the recommendation of the Minister, make regulations that prescribe requirements, methods, or technical standards for emergency dumping of waste or other matter.
+(3) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 29C Regulations implementing international obligations
 (1) Regulations may be made under section 29A to—
@@ -702,6 +707,7 @@ To avoid doubt,—
   (b) the process for dealing with a decommissioning plan under section 100B(1)﻿(a):
   (c) the criteria against which a decommissioning plan must be assessed under section 100B(1)﻿(b).
 (2) However, the Minister must not recommend the making of regulations under this section unless section 32 has been complied with.
+(3) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 **Regulations generally**
 
@@ -713,6 +719,7 @@ To avoid doubt,—
   (d) providing for any other matters contemplated by this Act and necessary for its administration or necessary for giving it full effect.
 (2) However, the Minister must not recommend the making of regulations under subsection (1)﻿(a) or (c) unless he or she is satisfied that the requirements of section 32 have been met.
 (3) Nothing in subsection (2) or section 32 requires consultation in relation to specific charges, or the specific levels of charges, so long as the charges set are reasonably within the scope of any general consultation, and a failure to comply with subsection (2) does not affect the validity of any regulations made for the purposes of this Act.
+(4) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 **Provisions applying to all regulations**
 
@@ -833,27 +840,22 @@ In determining whether to issue the EEZ policy statement, the Minister must cons
 (2) The Minister may withdraw all or part of a proposed EEZ policy statement at any time before the statement is approved under subsection (4).
 (3) The Minister must notify the persons mentioned in section 37B(a) of any withdrawal under subsection (2), including the reasons for the withdrawal.
 (4) The Governor-General may, by Order in Council, on the recommendation of the Minister, approve an EEZ policy statement.
-(5) The Minister must, as soon as practicable after an EEZ policy statement has been approved,—
-  (a) issue the statement by notice in the Gazette; and
-  (b) publicly notify the statement; and
-  (c) send a copy of the statement to the EPA; and
-  (d) provide every person who made a submission on the proposal with a copy of the approved statement.
+(5) The following are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements):
+  (a) an Order in Council under subsection (4):
+  (b) the EEZ policy statement approved by that order.
 
 ### 37E Changes to, or review or revocation of, EEZ policy statements
 (1) The Minister may review, change, or revoke an EEZ policy statement in accordance with sections 37B to 37D as if the review, change, or revocation were a proposed EEZ policy statement.
-(2) Despite subsection (1), the Minister may amend an EEZ policy statement without regard to sections 37B to 37D if the amendment is of minor effect or corrects a minor error.
+(2) Despite subsection (1), the Minister may amend an EEZ policy statement without regard to sections 37B and 37C if the amendment is of minor effect or corrects a minor error.
 (3) When an EEZ policy statement is reviewed, the Minister must give notice of the review in the Gazette.
-(4) If an EEZ policy statement has been changed, the Minister must—
-  (a) issue the revised statement by notice in the Gazette; and
-  (b) send a copy of the revised statement to the EPA; and
-  (c) provide every person who made a submission on the proposal with a copy of the approved statement.
-(5) When an EEZ policy statement is revoked, the Minister must notify the revocation by notice in the Gazette.
+(4)
+(5)
 
 ### 37F Incorporation of material by reference in EEZ policy statements
 An EEZ policy statement may incorporate material by reference under sections 150 to 157.
 
 ### 37G EEZ policy statement is disallowable instrument
-An EEZ policy statement is a disallowable instrument, but not a legislative instrument, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
+[Repealed]
 
 ### Subpart 2A — Applying for marine consents
 
@@ -2436,11 +2438,10 @@ Material incorporated by reference in regulations that expires or that is revoke
 Sections 150 to 154 do not affect the application of sections 29 to 32 of the Standards and Accreditation Act 2015.
 
 ### 156 Acts and Regulations Publication Act 1989 not applicable to material incorporated by reference
-The Acts and Regulations Publication Act 1989 does not apply to material incorporated by reference.
+[Repealed]
 
 ### 157 Application of Regulations (Disallowance) Act 1989
-(1) Nothing in section 4 of the Regulations (Disallowance) Act 1989 requires material that is to be incorporated by reference in regulations made under this Act to be presented to the House of Representatives.
-(2) The Regulations (Disallowance) Act 1989, apart from the modification of section 4 of the Act made by subsection (1), applies to regulations that incorporate material by reference.
+[Repealed]
 
 **Protection of sensitive information**
 
