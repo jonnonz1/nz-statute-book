@@ -1,5 +1,5 @@
 # Maori Purposes Act 1937
-_Consolidation as at 1956-10-25_
+_Consolidation as at 2021-10-28_
 
 > An Act to amend the laws relating to Maori and Maori land, to adjust certain claims and disputes in relation to Maori land, to confer jurisdiction upon the Maori Land Court and the Maori Appellate Court, and for other purposes
 
@@ -53,6 +53,7 @@ Whereas the beneficial owners of the lands situate in the Tairawhiti Maori Land 
 (7) The assembled owners of any parcel of Maori land or the committee of any land vested in the East Coast Commissioner may pass a resolution that such sum as may be specified shall be paid to the fund out of any rents or other moneys which are due or accruing due or may become due in the future, either in 1 sum or by instalments. Any resolution heretofore passed for the purpose set forth in this section shall enure for the purposes of this section as if it had originated thereunder, and shall be deemed to have so originated.
 (8) It shall be lawful for a Maori Land Board, the Māori Trustee, or the East Coast Commissioner to make advances out of their respective accounts of the whole or any part of the amounts directed by any resolution passed under the last preceding subsection, or by any order of the court setting aside any rents or other moneys for the purpose, to be paid in anticipation of rents or other moneys to become due or payable, and to charge the moneys so advanced against the land affected. In the case of a Maori Land Board, the Board is hereby authorised to execute, in respect of any such advance, a memorandum of charge in accordance with the provisions of section 109 of the principal Act.
 (9) Amendment(s) incorporated in the Act(s).
+(10) An order under subsection (1) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 **South Island District**
 
