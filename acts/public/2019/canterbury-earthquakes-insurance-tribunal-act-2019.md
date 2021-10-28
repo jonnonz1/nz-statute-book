@@ -1,5 +1,5 @@
 # Canterbury Earthquakes Insurance Tribunal Act 2019
-_Consolidation as at 2020-08-07_
+_Consolidation as at 2021-10-28_
 
 ### 1 Title
 This Act is the Canterbury Earthquakes Insurance Tribunal Act 2019.
@@ -630,16 +630,18 @@ The chairperson is responsible for making any arrangements that are practicable 
 **Regulations and rules**
 
 ### 67 Regulations
-The Governor-General may, by Order in Council, make regulations for all or any of the following purposes:
+(1) The Governor-General may, by Order in Council, make regulations for all or any of the following purposes:
   (a) prescribing fees for the purposes of this Act:
   (b) making rules for tribunal procedures:
   (c) providing for any other matters contemplated by this Act, necessary for its administration, or necessary for giving it full effect.
+(2) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 68 Rules of court: District Court and High Court
 (1) In addition to the powers conferred by the District Court Act 2016 or the Senior Courts Act 2016, the Governor-General may, by Order in Council, make rules regulating the practice and procedure of the District Court or the High Court in proceedings under this Act.
 (2) Rules may be made only with the concurrence of—
   (a) the Chief District Court Judge (for rules for the District Court) or the Chief Justice (for rules for the High Court); and
   (b) 2 or more members of the Rules Committee established under section 155 of the Senior Courts Act 2016 of whom at least 1 is a District Court Judge (for rules for the District Court) or a High Court Judge (for rules for the High Court).
+(3) See section 148 of the Senior Courts Act 2016 and section 228 of the District Court Act 2016, which provide that court rules are secondary legislation.
 
 **Consequential amendments**
 
