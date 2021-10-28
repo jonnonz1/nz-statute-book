@@ -1,11 +1,12 @@
 # Legal Services Act 2011
-_Consolidation as at 2020-08-07_
+_Consolidation as at 2021-10-28_
 
 ### 1 Title
 This Act is the Legal Services Act 2011.
 
 ### 2 Commencement
-This Act comes into force on a date appointed by the Governor-General by Order in Council, and 1 or more orders may be made appointing different dates for different provisions.
+(1) This Act comes into force on a date appointed by the Governor-General by Order in Council, and 1 or more orders may be made appointing different dates for different provisions.
+(2) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ## Part 1 — Preliminary provisions
 
@@ -338,8 +339,8 @@ A person who has any form of indemnification or insurance in respect of the lega
 (4) Subsection (2) is subject to subsection (3).
 (5) A grant made in the manner authorised by subsection (1) is not subject to any of the conditions referred to in section 18.
 (6) Every grant made in the manner authorised by subsection (1) must state a maximum grant, which must be the amount prescribed under subsection (7).
-(7) The Commissioner may from time to time, by notice in the Gazette, specify the amount of the maximum grant for any grant made in the manner authorised by subsection (1).
-(8) A notice under subsection (7) is a disallowable instrument, but not a legislative instrument, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
+(7) The Commissioner may from time to time, by notice, specify the amount of the maximum grant for any grant made in the manner authorised by subsection (1).
+(8) A notice under subsection (7) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 17 Commissioner must notify applicant when legal aid declined
 If the Commissioner has declined an application for legal aid under this Act, the Commissioner must, in writing, advise the applicant of the decision and of his or her right to seek—
@@ -1477,6 +1478,7 @@ Regulations exempting class of person or proceedings
 Regulations providing for transitional or savings provisions
 (9) Any transitional or savings provisions prescribed in regulations made under subsection (1)﻿(v) are in addition to the provisions of sections 117 to 137.
 (10) All regulations made under subsection (1)﻿(v) that are still in force on the day that is 3 years after the commencement of this section expire at the close of that day.
+(11) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 **Service**
 
