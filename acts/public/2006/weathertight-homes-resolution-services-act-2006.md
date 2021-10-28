@@ -1,5 +1,5 @@
 # Weathertight Homes Resolution Services Act 2006
-_Consolidation as at 2020-08-07_
+_Consolidation as at 2021-10-28_
 
 ### 1 Title
 This Act is the Weathertight Homes Resolution Services Act 2006.
@@ -9,6 +9,7 @@ This Act is the Weathertight Homes Resolution Services Act 2006.
   (a) section 1 and this section:
   (b) subpart 7 of Part 2 (transitional provisions relating to appointments, etc).
 (2) The rest of this Act comes into force on 1 May 2007, unless it is brought into force on an earlier date to be appointed by the Governor-General by Order in Council.
+(3) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ## Part 1 — Weathertight homes resolution services
 
@@ -1254,10 +1255,11 @@ The tribunal may order a claim to be transferred to the District Court or the Hi
   (c) anything in any notice given under this Act.
 
 ### 123 Regulations
-The Governor-General may from time to time, by Order in Council, make regulations for all or any of the following purposes:
+(1) The Governor-General may from time to time, by Order in Council, make regulations for all or any of the following purposes:
   (a) prescribing fees for the purposes of this Act:
   (b) prescribing a value to be a ceiling for determining how claims are to be dealt with:
   (c) providing for any other matters contemplated by this Act, necessary for its administration, or necessary for giving it full effect.
+(2) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 124 Notifications to territorial authorities for land information memorandum purposes
 (1) The chief executive must notify a territorial authority (as soon as is reasonably practicable after the event, and in enough detail to enable particulars to be included in a land information memorandum issued by a territorial authority under section 44A of the Local Government Official Information and Meetings Act 1987) of any of the following events occurring in relation to a dwellinghouse in its district:
@@ -1285,6 +1287,7 @@ The Governor-General may from time to time, by Order in Council, make regulation
   (a) the Chief District Court Judge; and
   (b) 2 or more members of the Rules Committee established under section 155 of the Senior Courts Act 2016 of whom at least 1 is a District Court Judge.
 (3) In the absence of any rules under this section, or in any situation not covered by any of those rules, the rules in relation to civil proceedings for the time being in force under the District Court Act 2016 apply, with all necessary modifications, to proceedings under this Act.
+(4) See section 228 of the District Court Act 2016, which provides that court rules are secondary legislation.
 
 ## Part 1A — Financial assistance package
 
