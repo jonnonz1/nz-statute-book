@@ -1,5 +1,5 @@
 # Companies Act 1993
-_Consolidation as at 2021-09-30_
+_Consolidation as at 2021-10-28_
 
 > An Act to reform the law relating to companies, and, in particular,—ato reaffirm the value of the company as a means of achieving economic and social benefits through the aggregation of capital for productive purposes, the spreading of economic risk, and the taking of business risks; andbto provide basic and adaptable requirements for the incorporation, organisation, and operation of companies; andcto define the relationships between companies and their directors, shareholders, and creditors; anddto encourage efficient and responsible management of companies by allowing directors a wide discretion in matters of business judgment while at the same time providing protection for shareholders and creditors against the abuse of management power; andeto provide straightforward and fair procedures for realising and distributing the assets of insolvent companies
 
@@ -2421,18 +2421,18 @@ ExampleABC Limited has an accounting period of 1 April 2014 to 31 March 2015.ABC
 **Registrar may grant exemptions to overseas companies**
 
 ### 207L Registrar may grant exemptions to overseas companies
-(1) The Registrar may, by notice in the Gazette, exempt any large overseas company, or any class of large overseas companies, from compliance with any provision of sections 201, 202, 207, and 207E.
+(1) The Registrar may exempt any large overseas company, or any class of large overseas companies, from compliance with any provision of sections 201, 202, 207, and 207E.
 (2) The Registrar must not grant an exemption under this section unless he or she is satisfied that—
   (a) compliance with the relevant provision would require the overseas company to comply with requirements that are unduly onerous or burdensome; and
   (b) financial reporting requirements must be complied with in relation to the overseas company under the law in force in the country where the overseas company is incorporated or constituted and that those requirements are satisfactory; and
   (c) the extent of the exemption is not broader than what is reasonably necessary to address the matters that gave rise to the exemption.
 (3) The exemption may be granted on any terms and conditions that the Registrar thinks fit.
 (4) The Registrar may vary or revoke an exemption in the same way as an exemption may be granted under this section.
+(5) An exemption under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+(6) The Registrar’s reasons for granting the exemption (including why it is appropriate) must be published with the exemption.
 
 ### 207M Publication and status of exemptions
-(1) The Registrar may give notice of the exemption in any publications he or she thinks fit (in addition to notifying the exemption in the Gazette).
-(2) Each notice published in the Gazette under section 207L is a disallowable instrument, but not a legislative instrument, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
-(3) The Registrar's reasons for granting an exemption (including why the exemption is appropriate) must be notified in the Gazette together with the exemption.
+[Repealed]
 
 ### 207N Consultation
 In deciding whether or not to grant, amend, or revoke an exemption under section 207L, the Registrar—
@@ -4887,6 +4887,7 @@ If a person whose rights would be affected by the disclaimer of onerous property
   (b) prescribe a rate or rates by reference to the net value of the assets realised by the liquidator, together with such other amounts as may be specified:
   (c) prescribe a rate or rates in respect of the exercise of a particular function or power:
   (d) prescribe a rate or rates by reference to such other criteria as may be specified.
+(3) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 278 Expenses and remuneration payable out of assets of company
 The expenses and remuneration of the liquidator are payable out of the assets of the company.
@@ -6485,6 +6486,7 @@ Notwithstanding any other Act or rule of law, a report prepared by a person in r
 (3D) The costs recovered in accordance with subsection (3C), and the functions, powers, and duties in relation to which those costs were incurred, need not be related, directly or indirectly, to the company or companies from which the fee is collected.
 (3E) Subsections (3C) and (3D) and this subsection are repealed on 1 July 2023.
 (4) Any fee or amount payable to the Registrar is recoverable by the Registrar in any court of competent jurisdiction as a debt due to the Crown.
+(5) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ## Part 21 — Offences and penalties
 
@@ -6999,6 +7001,7 @@ A requirement imposed by any provision of this Act that directors of a company m
   (d) providing for such other matters as are contemplated by or necessary for giving effect to the provisions of this Act and for its due administration.
 (2) Different forms for the purposes of this Act may be prescribed for different classes of persons.
 (3) Regulations made under this section may provide for different regulations to apply in respect of different kinds or classes of persons or circumstances.
+(4) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 395A COVID-19 business debt hibernation
 (1) The provisions set out in Schedule 13 have effect according to their terms.
@@ -7034,6 +7037,7 @@ A requirement imposed by any provision of this Act that directors of a company m
     (ii) the integrity of corporate insolvency law.
 (5) The Ministers may make a recommendation for regulations under subsection (1)﻿(l) only if the Ministers are satisfied that the regulations are necessary or desirable for the orderly transition of an entity out of being an entity in BDH.
 (6) Different matters may be prescribed, provided for, or specified in respect of different kinds of entity or other circumstances.
+(7) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 396 Summary Proceedings Act 1957 amended
 Amendment(s) incorporated in the Act(s).
@@ -7407,7 +7411,7 @@ Except as provided in this schedule and in any regulations made under this Act, 
 
 ### 2 Conditions to priority of payments to preferential creditors
 (1) The claims listed in each of subclauses (2), (3), (4), and (5) of clause 1—
-  (a) rank equally among themselves and, subject to any maximum payment level specified in any Act or regulations, must be paid in full, unless the assets of the company are insufficient to meet them, in which case they abate in equal proportions; and
+  (a) rank equally among themselves and, subject to any maximum payment level specified in any legislation, must be paid in full, unless the assets of the company are insufficient to meet them, in which case they abate in equal proportions; and
   (b) in so far as the assets of the company available for payment of those claims are insufficient to meet them,—
     (i) have priority over the claims of any person under a security interest to the extent that the security interest—
       (A) is over all or any part of the company's accounts receivable and inventory or all or any part of either of them; and
@@ -7431,7 +7435,7 @@ Except as provided in this schedule and in any regulations made under this Act, 
 ### 3 Provisions concerning preferential payments to employees
 (1) The total sum to which priority is to be given under any, or all, of paragraphs (a) to (e) of clause 1(2) must not, in the case of any one employee, exceed $25,480 or any greater amount that is prescribed under subclause (2) at the commencement of the liquidation.
 (2) The sum stated in subclause (1) must be adjusted as follows:
-  (a) subject to paragraph (d), an adjustment must be made, by the Governor-General by Order in Council, after the 3-year period starting on 1 July 2006 and ending on 30 June 2009 and after every 3-year period following that (an adjustment period):
+  (a) subject to paragraph (d), an adjustment must be made, by the Governor-General by Order in Council, after the 3-year period starting on 1 July 2006 and ending on 30 June 2009 and after every 3-year period following that (an adjustment period) (see subclause (5)):
   (b) subject to paragraph (d), the Order in Council must be made within 4 months of the end of an adjustment period:
   (c) each adjustment must reflect any overall percentage increase, over the relevant adjustment period, in average weekly earnings (total, private sector), calculated by reference to the last Quarterly Employment Survey published by Statistics New Zealand (or, if that survey ceases to be published, a survey certified by the Government Statistician as an equivalent to that survey) within the relevant adjustment period:
   (d) if, in an adjustment period, there is no change, or an overall decrease, in the percentage movement in average weekly earnings (total, private sector), as so calculated, no adjustment may be made for that adjustment period:
@@ -7443,6 +7447,7 @@ Except as provided in this schedule and in any regulations made under this Act, 
   (a) remuneration in respect of a period of holiday or of absence from work through sickness or other good cause is to be treated as wages in respect of services rendered to the company during that period:
   (b) employee means any person of any age employed by an employer to do any work for hire or reward under a contract of service (including a homeworker as defined in section 5 of the Employment Relations Act 2000); but does not include a person who is, or was at any time during the 12 months before the commencement of the liquidation, a director of the company in liquidation, or a nominee or relative of, or a trustee for, a director of the company:
   (c) holiday pay, in relation to a person, means all sums payable to that person by the company under subpart 1 of Part 2 of the Holidays Act 2003, and includes all sums that by or under any other enactment or any award, agreement, or contract of service are payable to that person by the company as holiday pay.
+(5) An order under subclause (2)﻿(a) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 4 Subrogation of persons if payment has been made
 If a payment has been made to a person (A) on account of any preferential claim set out in this schedule out of money advanced by another person (B) for that purpose, then B has, in a liquidation, the same right of priority in respect of the money so advanced as A would have if the payment had not been made.
@@ -7644,6 +7649,7 @@ A person who wishes to rely on a provision of this schedule in a proceeding for,
     (ii) the integrity of corporate insolvency law.
 (3) Different matters may be prescribed in respect of different classes of companies, transactions, or other circumstances.
 (4) See also clause 10 (for regulations prescribing a benchmark date).
+(5) Regulations under subclause (1) are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 10 Regulations relating to safe harbour periods
 (1) The Governor-General may, by Order in Council made on the recommendation of the Ministers, make regulations that—
@@ -7667,6 +7673,8 @@ A person who wishes to rely on a provision of this schedule in a proceeding for,
     (ii) no later than the date that is 3 months before the start of the new safe harbour period:
   (b) prescribe a date, for the purposes of clauses 6(3) and 7(4), but that date must be not later than 18 months after the start of the new safe harbour period.
 (7) Subclauses (5) and (6) do not limit subclause (1).
+(8) Regulations under subclause (1) are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+(9) An order under subclause (3) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ## Schedule 13 — COVID-19 business debt hibernation
 
