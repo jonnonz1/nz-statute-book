@@ -1,5 +1,5 @@
 # Maraeroa A and B Blocks Claims Settlement Act 2012
-_Consolidation as at 2021-01-30_
+_Consolidation as at 2021-10-28_
 
 ## Preamble
 Background
@@ -499,11 +499,12 @@ In this subpart, unless the context otherwise requires,—
 (2) The Director-General may notify in the Gazette any action (including the actions set out in paragraph 2 relating to the protection principles in part 2 of the documents schedule) taken or intended to be taken under section 42 or 43.
 
 ### 45 Regulations
-The Governor-General may, by Order in Council made on the recommendation of the Minister of Conservation, make regulations for the following purposes:
+(1) The Governor-General may, by Order in Council made on the recommendation of the Minister of Conservation, make regulations for the following purposes:
   (a) to provide for the implementation of objectives included in a conservation document under section 43(1):
   (b) to regulate or prohibit activities or conduct by members of the public in relation to the overlay site:
   (c) to create offences for breaches of regulations made under paragraph (b):
   (d) to provide for the imposition of fines not exceeding $5,000 for offences referred to in paragraph (c) and, for a continuing offence, an additional amount not exceeding $50 for every day during which the offence continues.
+(2) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 46 Bylaws
 (1) The Minister of Conservation may make bylaws for any of the following purposes:
@@ -511,7 +512,7 @@ The Governor-General may, by Order in Council made on the recommendation of the 
   (b) to regulate or prohibit activities or conduct by members of the public in relation to the overlay site:
   (c) to create offences for breaches of bylaws made under paragraph (b):
   (d) to provide for the imposition of fines not exceeding $1,000 for offences referred to in paragraph (c) and, for a continuing offence, an additional amount not exceeding $50 for every day during which the offence continues.
-(2) Bylaws made under this section are regulations for the purposes of the Acts and Regulations Publication Act 1989 and the Regulations (Disallowance) Act 1989.
+(2) Bylaws under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 47 Noting of overlay classification
 (1) The application of the overlay classification to the overlay site must be noted in conservation documents affecting the site.
@@ -542,6 +543,7 @@ The Governor-General may, by Order in Council made on the recommendation of the 
   (b) the Commissioner of Crown Lands; or
   (c) another responsible official.
 (5) The parties to the deed of settlement acknowledge and confirm that a declaration that all or part of the site is no longer subject to the overlay classification does not affect the significance of the site to the settling group.
+(6) The Minister of Conservation must ensure that an order under this section is published in the Gazette.
 
 ### 50 Exercise of powers, and performance of duties and functions
 (1) Section 38 does not affect, and must not be taken into account by, any person exercising a power, or performing a duty or function, under legislation or a bylaw.
