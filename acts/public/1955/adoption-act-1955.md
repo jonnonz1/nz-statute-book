@@ -1,5 +1,5 @@
 # Adoption Act 1955
-_Consolidation as at 2020-08-07_
+_Consolidation as at 2021-10-28_
 
 > An Act to consolidate and amend certain enactments of the Parliament of New Zealand relating to the adoption of children
 
@@ -220,6 +220,7 @@ In any case where the District Court has refused to make an interim order or an 
   (b) to which the Convention applies; and
   (c) which takes place in that Contracting State on or after the date on which the Convention has entered into force as between New Zealand and that Contracting State.
 (6) In subsection (5), Contracting State and Convention have the same meaning as in the Adoption (Intercountry) Act 1997.
+(7) An Order in Council under subsection (2)﻿(c)﻿(i) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 **Maori adoptions**
 
@@ -371,6 +372,7 @@ Sections 11B to 11D of the Family Court Act 1980 apply to the publication of a r
 
 ### 28 Regulations
 (1) The Governor-General may from time to time, by Order in Council, make all such regulations as may in his opinion be necessary or expedient for giving effect to the provisions of this Act and for the due administration thereof.
+(2) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 (2)
 
 ### 28A Rules
