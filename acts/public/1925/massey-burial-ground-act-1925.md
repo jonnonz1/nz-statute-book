@@ -1,5 +1,5 @@
 # Massey Burial-Ground Act 1925
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2021-10-28_
 
 > An Act to make Provision for the Dedication of certain Land to be the Burial-ground of the late Right Honourable William Ferguson Massey and of his Widow.
 
@@ -29,6 +29,7 @@ The widow of the said William Ferguson Massey may hereafter be buried within the
 The Minister . . . may expend money provided by public subscription, or appropriated for the purpose by Parliament, or otherwise received by him for the purpose, in providing for the control and management of the special reserve and the memorial and tomb on the reserve.
 
 ### 7 Regulations
-The Governor-General in Council may from time to time make regulations for the admission or exclusion of the public to or from the said special reserve or any specific part or parts thereof, and generally for enabling effect to be given to the purposes of this Act.
+(1) The Governor-General in Council may from time to time make regulations for the admission or exclusion of the public to or from the said special reserve or any specific part or parts thereof, and generally for enabling effect to be given to the purposes of this Act.
+(2) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ## Schedule Schedule
