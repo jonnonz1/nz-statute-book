@@ -1,5 +1,5 @@
 # Overseas Investment Act 2005
-_Consolidation as at 2021-07-05_
+_Consolidation as at 2021-10-28_
 
 ### 1 Title
 This Act is the Overseas Investment Act 2005.
@@ -7,6 +7,7 @@ This Act is the Overseas Investment Act 2005.
 ### 2 Commencement
 (1) This Act comes into force on a date to be appointed by the Governor-General by Order in Council.
 (2) One or more Orders in Council may be made appointing different dates for the commencement of different provisions.
+(3) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ## Part 1 — Preliminary provisions
 
@@ -654,9 +655,10 @@ Investor test factors
 [Repealed]
 
 ### 20 Exemptions from farm land offer criterion
-Section 16(1)﻿(f) does not apply to an overseas investment if—
+(1) Section 16(1)﻿(f) does not apply to an overseas investment if—
   (a) the relevant Ministers consider that the overseas investment need not meet this criterion by reason of the circumstances relating to the particular overseas investment, interest in land, or rights or interests in securities; or
-  (b) the overseas person making the overseas investment belongs to a class of overseas persons, or the overseas investment transaction belongs to a class of transactions, that is exempted from this criterion by the relevant Ministers by notice in the Gazette.
+  (b) the overseas person making the overseas investment belongs to a class of overseas persons, or the overseas investment transaction belongs to a class of transactions, that is exempted from this criterion by the relevant Ministers.
+(2) An exemption under subsection (1)﻿(b) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 **Transactions of national interest**
 
@@ -717,16 +719,17 @@ Notice to prospective investors and new investors of status as critical direct s
   (b) the date on which an unpublished CDS knows or ought reasonably to know or believes that the person has become an investor in that unpublished CDS.
 (3) A notice under subsection (2) must—
   (a) be in writing; and
-  (b) contain any other information specified by the Minister by notice in the Gazette.
+  (b) contain any other information specified by the Minister by notice.
 Notice to regulator of investment or prospective investment
 (4) An unpublished CDS must notify the regulator that it has given a notice under subsection (2) as soon as is reasonably practicable after the notice under subsection (2) is given.
 (5) A notice under subsection (4) must—
   (a) be in writing; and
-  (b) contain any information specified by the Minister by notice in the Gazette; and
+  (b) contain any information specified by the Minister by notice; and
   (c) be accompanied by a copy of the notice given under subsection (2).
 Contravention is not offence
 (6) A person who fails to comply with this section does not commit an offence for the purposes of section 45.
 (7) In this section, an investor is a person who, under a call-in transaction or a transaction of national interest, acquires sensitive assets that relate to a critical direct supplier.
+(8) A notice under subsection (3)﻿(b) or (5)﻿(b) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 20F Status of unpublished CDS confidential
 (1) This section applies to—
@@ -927,9 +930,10 @@ The regulator's functions are to—
   (c) the level of monitoring required in relation to conditions of consent:
   (d)
   (e) any general or specific matter relating to the regulator's functions, powers, or duties.
+(4) A Ministerial directive letter is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 35 Ministerial directive letter must be published, etc
-Each Ministerial directive letter must be published in the Gazette and presented to the House of Representatives within 6 sitting days after it was sent to the regulator.
+[Repealed]
 
 ### 36 Regulator may issue guidelines
 (1) The regulator may issue guidelines about the following things:
@@ -947,10 +951,9 @@ Each Ministerial directive letter must be published in the Gazette and presented
 
 ### 37A Regulator must publish list of sensitive adjoining land relating to collective group of Māori
 (1)
-(2) The regulator must—
-  (a) compile and keep a list of land and reserves for which the adjoining land is sensitive under rows 10 and 11 of table 2 in Part 1 of Schedule 1; and
-  (b) publish that list on an Internet site maintained by or for the regulator.
+(2) The regulator must compile and keep a list of land and reserves for which the adjoining land is sensitive under rows 10 and 11 of table 2 in Part 1 of Schedule 1.
 (3) The regulator may amend that list.
+(4) The list is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 37B Time frames
 (1) The Governor-General may, by Order in Council, make regulations—
@@ -958,6 +961,7 @@ Each Ministerial directive letter must be published in the Gazette and presented
   (b) requiring information to be included in the annual report of the regulator about the extent to which those time frames are met.
 (2) The time frames do not create any legal right enforceable in a court of law or affect or limit the way in which a person (for example, a Minister or the regulator) is required to exercise a statutory power of decision.
 (3) In particular, no form of monetary compensation or relief, or injunctive relief, is available as a remedy if the time frames are not met.
+(4) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### Subpart 4 — Information-gathering powers
 
@@ -980,6 +984,7 @@ Each Ministerial directive letter must be published in the Gazette and presented
   (e) the form that must be used:
   (f) requirements with which information, evidence, or documents that are provided must comply.
 (3) The Commissioner may treat information obtained under this section as information obtained for the purposes of administering the Inland Revenue Acts.
+(4) Regulations made under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 39 Regulator may require any person to provide information for statistical or monitoring purposes
 (1) The regulator may, by notice in writing, require any person with information relevant to overseas investments in sensitive New Zealand assets or call-in transactions to provide the regulator with the information specified in the notice for the purpose of—
@@ -1326,10 +1331,8 @@ The regulator may defer or dispense with publication of a matter under this subp
   (b) approving or prescribing 1 or more forms for the statement or 1 or more methods for making the statement (or both):
   (c) allowing the statement to be included in another document (for example, in an agreement for sale and purchase):
   (d) authorising the statement to be made and provided on A’s behalf (including the manner for doing so).
-(2) The regulator must—
-  (a) notify the making of the notice in the Gazette; and
-  (b) publish the notice on an Internet site maintained by, or on behalf of, the regulator.
-(3) The notice is a disallowable instrument but not a legislative instrument for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
+(2) The notice is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+(3)
 
 ### 51C Conveyancer must obtain and keep statement
 (1) A conveyancer must not lodge, or direct the lodgement of, the instrument referred to in section 51A(1)﻿(c) if the conveyancer—
@@ -1460,6 +1463,10 @@ The court must not refuse to make an order under sections 47 to 51 on the ground
 (2) Regulations under this Act (including regulations for prescribing fees, charges, bonds, or administrative penalties) may make different provisions for different cases on any differential basis.
 (3) Any exemptions made in respect of the matters in subsection (1)﻿(lc) are revoked on the 42nd day after the date on which the Overseas Investment Amendment Act (No 3) 2020 receives the Royal assent.
 (4) The Minister must, at least once in every period of 4 financial years, commence a review of fees and charges set under subsection (1)﻿(e).
+(5) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+(6) If regulations authorise a person to grant exemptions, waivers, refunds, or discounts referred to in subsection (1)﻿(h),—
+  (a) an instrument granting an exemption or a waiver, refund, or discount is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements), unless it applies only to 1 or more named persons; and
+  (b) the regulations must contain a statement to that effect.
 
 ### 61A Regulations regarding alternative monetary thresholds for overseas investments in significant business assets
 (1) The Governor-General may, by Order in Council made on the recommendation of the Minister, make regulations in order to implement obligations in all or any of the following international agreements in respect of certain overseas investments in New Zealand in significant business assets by certain investors:
@@ -1475,6 +1482,7 @@ The court must not refuse to make an order under sections 47 to 51 on the ground
 (3) The Minister must be satisfied, before making a recommendation under this section, that the regulations do not provide for an alternative monetary threshold that is higher than the amount provided for in the relevant international agreement referred to in subsection (1), but the text of the regulations may otherwise differ from the text of an agreement.
 (4) Regulations made under subsection (1) may incorporate by reference any provisions of an international agreement referred to in that subsection.
 (5) Regulations made under subsection (1) may be made only to implement obligations in an international agreement that has entered into force for New Zealand.
+(6) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 61B Purpose of exemptions
 The purpose of sections 61C and 61D is to—
@@ -1495,6 +1503,7 @@ The purpose of sections 61C and 61D is to—
 ### 61C Regulations may contain class or individual exemptions
 (1) The Governor-General may, by Order in Council made on the recommendation of the Minister, make regulations exempting any transaction, person, interest, right, or assets, or any class of transactions, persons, interests, rights, or assets, from the requirement for consent or from the definition of overseas person or associate or associated land.
 (2) See sections 61E (criteria for all exemptions) and 61F (other provisions applying to all exemptions).
+(3) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 61D Minister may grant individual exemptions
 (1) The Minister may exempt any transaction, person, interest, right, or assets from the requirement for consent or from the definition of overseas person or associate or associated land.
@@ -1723,10 +1732,8 @@ The Minister may determine which 1 or more of the following persons is the relev
   (a) specifying the required content of the notification, which may include any information that the Minister thinks relevant:
   (b) approving or prescribing 1 or more forms for the notification or 1 or more methods for making the notification (or both):
   (c) authorising the notification to be given on behalf of the overseas person or associate referred to in section 85(2) or 86(2) (including the manner for doing so).
-(2) The regulator must—
-  (a) notify the making of the notice in the Gazette; and
-  (b) publish the notice on an Internet site maintained by, or on behalf of, the regulator.
-(3) The notice is a disallowable instrument but not a legislative instrument for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
+(2) A notice under subsection (1) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+(3)
 (4) The regulator may, by notice in writing, require 1 or more persons giving a notification under section 85 or 86 to provide a statutory declaration verifying that the information contained in the notification is true and correct.
 (5) For the purpose of considering the notification under section 85 or 86, the regulator may, by notice in writing, require a relevant acquirer, or any other person with information relevant to the notification, to provide the information specified in the regulator’s notice and in a form specified by the regulator’s notice.
 (6) A notification under section 85 or 86 must be accompanied by the relevant fee (if any), unless this has already been paid.
@@ -1752,8 +1759,8 @@ Other conditions: to manage national security or public order risks
 ### 90 Revocation of direction order
 The Minister may revoke a direction order if the Minister is satisfied that—
   (a) 1 or more of the following events or matters have occurred in connection with the direction order or the call-in transaction that the order relates to:
-    (i) a notice under section 85 or 86 or any information provided under section 87(2) contained a statement that was false or misleading in any material particular or any material omission:
-    (ii) a notice under section 85 or 86 or any information provided under section 87(2) provided the Minister with a document that was false or misleading in any material particular:
+    (i) a notice under section 85 or 86 or any information provided under section 87(5) contained a statement that was false or misleading in any material particular or any material omission:
+    (ii) a notice under section 85 or 86 or any information provided under section 87(5) provided the Minister with a document that was false or misleading in any material particular:
     (iii) a person has breached a condition of a direction order:
     (iv) a person has contravened an enforceable undertaking (see sections 46A to 46F); and
   (b) the event or matter gives rise, or is likely to give rise, to a risk referred to in section 81.
@@ -2156,6 +2163,7 @@ Nothing in this subpart limits section 27 of the Crown Proceedings Act 1950 or a
 (7) The Minister must, before making a recommendation that an agency be prescribed under subsection (2)﻿(o), be satisfied that it is necessary that information is able to be disclosed to that agency for the purpose of managing national security and public order risks.
 (8) This section applies despite anything to the contrary in any contract, deed, or document.
 (9) Subsection (1) does not limit a disclosing agency from using any other lawful means to disclose information (whether personal information or other information).
+(10) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 127 Regulations regarding transactions of national interest and overseas investments in SIB assets
 (1) The Governor-General may, by Order in Council made on the recommendation of the Minister, make regulations for all or any of the following purposes:
@@ -2174,6 +2182,7 @@ Nothing in this subpart limits section 27 of the Crown Proceedings Act 1950 or a
   (a) minimum criteria for a business to be a strategically important business (for example, minimum capacity of a generator):
   (b) the geographic area in which the business is located or provides services:
   (c) any other circumstances in which the business must operate.
+(5) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 128 Giving effect to and unwinding of call-in transactions
 A call-in transaction that has been given effect to in contravention of section 85 or a prohibition order—
