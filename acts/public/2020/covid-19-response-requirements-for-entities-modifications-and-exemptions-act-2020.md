@@ -1,5 +1,5 @@
 # COVID-19 Response (Requirements For Entities—Modifications and Exemptions) Act 2020
-_Consolidation as at 2021-04-01_
+_Consolidation as at 2021-10-28_
 
 ### 1 Title
 This Act is the COVID-19 Response (Requirements For Entities—Modifications and Exemptions) Act 2020.
@@ -392,42 +392,40 @@ Exemptions granted in further period
 ### 34 Breach of exemption conditions
 The breach of a term or condition of an exemption granted under this Part is a breach of the provision to which the exemption relates (unless the terms of the exemption otherwise provide).
 
-**Status and publication of exemptions**
+**Drafting of exemptions**
 
-### 35 Responsible Registrar or Minister must consider whether exemption notice should be legislative instrument and drafted by PCO
-(1) The responsible Registrar or Minister must, before granting an exemption, consider—
-  (a) whether the exemption should be a legislative instrument for the purposes of the Legislation Act 2012 that is drafted by the Parliamentary Counsel Office (PCO) under that Act; and
-  (b) whether, accordingly, a notice should be given under section 36.
+### 35 Drafting of exemptions
+(1) Before granting an exemption, the responsible Registrar or Minister must—
+  (a) consider whether the exemption should be drafted by the PCO; and
+  (b) if they consider that it should be, notify the Chief Parliamentary Counsel of that decision.
 (2) In performing that duty, the responsible Registrar or Minister must have regard to—
   (a) the nature of the exemption; and
   (b) how significant the exemption is; and
   (c) the number and nature of the persons to whom the exemption will apply; and
   (d) the consequences of a failure to comply with a condition of the exemption; and
   (e) the complexity of the exemption; and
-  (f) the purposes of the Legislation Act 2012; and
+  (f) the purposes of the Legislation Act 2019; and
   (g) any other relevant matters.
+(3) If the Chief Parliamentary Counsel is given a notice under subsection (1)﻿(b) in relation to an exemption, for the purposes of section 67(d) of the Legislation Act 2019, they are taken to have agreed with the administering agency that the PCO will draft the exemption.
+(4) In this section, Chief Parliamentary Counsel and PCO have the same meanings as in the Legislation Act 2019.
 
 ### 36 Exemption is legislative instrument if notice is given
-(1) An exemption under this Part is a legislative instrument for the purposes of the Legislation Act 2012 (and must be drafted by the PCO) only if, before the exemption is issued, the responsible Registrar or Minister notifies the Chief Parliamentary Counsel in writing that the exemption will be a legislative instrument.
-(2) All other exemptions under this Part are not legislative instruments.
+[Repealed]
 
 ### 37 All exemptions are disallowable instruments
-Every exemption under this Part—
-  (a) is a disallowable instrument for the purposes of the Legislation Act 2012; and
-  (b) must be presented to the House of Representatives under section 41 of that Act.
+[Repealed]
 
 ### 38 Publication of exemptions that are not legislative instruments
-(1) This section applies to exemptions granted under this Part that are not legislative instruments (see section 36).
-(2) The exemption must be published on an Internet site maintained by or on behalf of the relevant Registrar or the government department that administers the specified enactment to which the exemption relates.
+[Repealed]
 
 ### 39 Exemptions must contain reasons
-A responsible Registrar or Minister’s reasons for granting an exemption under this Part (including why the exemption is appropriate) must be published together with the exemption.
+[Repealed]
 
 **Variation and revocation**
 
 ### 40 Variation and revocation
 (1) A responsible Registrar or Minister may vary or revoke an exemption in the same way as the responsible Registrar or Minister may grant the exemption (with the provisions relating to the granting of the exemption applying with all necessary modifications).
-(2) However, a notice must be given under section 36 for a variation or revocation of an exemption that is a legislative instrument.
+(2) However, a notice must be given under section 35(1)﻿(b) for a variation or revocation of an exemption that was drafted by the PCO.
 
 ## Part 4 — Miscellaneous
 
