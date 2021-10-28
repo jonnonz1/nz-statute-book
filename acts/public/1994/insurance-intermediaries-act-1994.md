@@ -1,5 +1,5 @@
 # Insurance Intermediaries Act 1994
-_Consolidation as at 2021-01-30_
+_Consolidation as at 2021-10-28_
 
 > An Act to effect certain reforms in the law governing insurance intermediaries
 
@@ -155,7 +155,7 @@ No money that is payable, or that has been paid, into an insurance broking clien
 **Miscellaneous provisions**
 
 ### 18 Regulations
-The Governor-General may, by Order in Council, make regulations for all or any of the following purposes:
+(1) The Governor-General may, by Order in Council, make regulations for all or any of the following purposes:
   (a) specifying the duties and obligations of brokers in relation to insurance broking client accounts, including obligations to make payments into those accounts:
   (b) providing for the protection of money deposited in insurance broking client accounts or invested from claims by persons other than the person for whom, or on whose behalf, the money is held:
   (c) restricting the combining of any insurance broking client account with any other account or the combining of any property in which money from such an account is invested with any other property:
@@ -163,6 +163,7 @@ The Governor-General may, by Order in Council, make regulations for all or any o
   (e) exempting any broker, or class of broker, from any requirements relating to any such audit or inspection:
   (f) prescribing offences in respect of the contravention of or non-compliance with any regulations made under this section, and the amounts of the fines that may be imposed in respect of any such offences:
   (g) providing for such other matters as are contemplated by or necessary for giving full effect to the provisions of this Act and for its due administration.
+(2) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 19 Act not to apply to contracts of reinsurance
 This Act shall not apply to or in relation to contracts or proposed contracts of reinsurance.
