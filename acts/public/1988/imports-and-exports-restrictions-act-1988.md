@@ -1,5 +1,5 @@
 # Imports and Exports (Restrictions) Act 1988
-_Consolidation as at 2018-10-01_
+_Consolidation as at 2021-10-28_
 
 > Title
 
@@ -48,6 +48,7 @@ This Act binds the Crown.
   (b) prescribed conditions.
 (4) A conditional prohibition may require payment of consideration to the decision-maker in respect of the application for, or the granting of, a licence or permit.
 (5) A licence or permit authorising the importation of goods may be granted before or after the goods have been imported.
+(6) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 3A Prohibition of exports
 (1) The Governor-General, if satisfied that it is necessary to give effect to an international obligation, may, by Order in Council, prohibit the exportation from New Zealand of—
@@ -60,6 +61,7 @@ This Act binds the Crown.
   (d) limited to the exportation of goods by a specified person or class of persons:
   (e) absolute:
   (f) conditional.
+(3) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 3B Conditional prohibition of exportation
 (1) A conditional prohibition allows the exportation of goods subject to—
@@ -168,6 +170,7 @@ The provisions of this Act are in addition to, and not in substitution for, the 
 ### 6 Regulations
 (1) The Governor-General may from time to time, by Order in Council, make all such regulations as may be necessary or expedient for giving effect to the provisions of this Act and for the due administration thereof.
 (2) Without limiting the general power to make regulations conferred by this section, regulations may be made under this section prescribing fines for offences against the regulations not exceeding $5,000 in the case of an individual, and $25,000 in the case of a body corporate.
+(3) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 7 Savings
 After the commencement of this Act, the Import Control Regulations 1988 shall have effect as if they had been made under this Act and may be amended or revoked accordingly, and the repeal of the Trade and Industry Act 1956 shall not affect the validity of those regulations or any amendment to those regulations.
