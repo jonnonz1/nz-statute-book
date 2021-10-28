@@ -1,5 +1,5 @@
 # Joint Family Homes Act 1964
-_Consolidation as at 2018-11-12_
+_Consolidation as at 2021-10-28_
 
 > An Act to provide for joint family homes, and for an exemption from gift duty in respect thereof
 
@@ -239,6 +239,7 @@ Nothing in this Act shall relieve any property that is for the time being settle
 (4) On directing any such cancellation, mortgage, or sale the court may give also all necessary or proper consequential directions.
 (5) In this section and in section 17(1)﻿(c), the expression the specified sum means $103,000 or such greater amount as the Governor-General by Order in Council may, for the time being, prescribe as the specified sum.
 (6) No Order in Council under subsection (5) shall come into force within 2 years of the coming into force of any other Order in Council made under that subsection.
+(7) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 17 Disposition of proceeds of sale or mortgage
 (1) On any such mortgage or sale on the direction of the High Court under section 16 the money borrowed or the proceeds of sale shall be paid to trustees appointed by the court, and shall be held by the trustees upon trust,—
@@ -313,11 +314,12 @@ The money which under paragraph (d) of subsection (1) of section 17 is required 
 (2) Where Maori land is settled as a joint family home, the provisions of this Act relating to the sale, transfer, mortgage, charge, lease, or disposition of the joint family home shall, subject to the provisions of the Maori Affairs Act 1953, apply to that land.
 
 ### 26 Regulations
-The Governor-General may from time to time, by Order in Council, make regulations for all or any of the following purposes:
+(1) The Governor-General may from time to time, by Order in Council, make regulations for all or any of the following purposes:
   (a) prescribing the forms to be used for the purposes of this Act:
   (b) prescribing the method of settlement under this Act:
   (c)
   (d) providing for such matters as are contemplated by or necessary for giving full effect to the provisions of this Act and for the due administration thereof.
+(2) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 27 Repeals, amendments, and savings
 (1) The enactments specified in the Schedule are hereby repealed.
