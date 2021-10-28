@@ -1,5 +1,5 @@
 # Maritime Transport Act 1994
-_Consolidation as at 2021-04-01_
+_Consolidation as at 2021-10-28_
 
 > An Act—ato continue Maritime New Zealand; andbto enable the implementation of New Zealand’s obligations under international maritime agreements; andcto ensure that participants in the maritime transport system are responsible for their actions; anddto consolidate and amend maritime transport law; andefto protect the marine environment; andgto continue, or enable, the implementation of obligations on New Zealand under various international conventions relating to pollution of the marine environment; andhto regulate maritime activities in New Zealand and New Zealand waters; andito regulate maritime activities and the marine environment in the exclusive economic zone and on the continental shelf as permitted under international law
 
@@ -7,6 +7,7 @@ _Consolidation as at 2021-04-01_
 (1) This Act may be cited as the Maritime Transport Act 1994.
 (2) Except as provided in subsection (3), this Act shall come into force on a date to be appointed by the Governor-General by Order in Council; and, except in the case of the provisions referred to in section 214, different dates may be so appointed by 1 or more Orders in Council for different provisions and different purposes.
 (3) This section and sections 2, 214, and 221 shall come into force on the day on which this Act receives the Royal assent.
+(4) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ## Part 1 — Preliminary provisions
 
@@ -181,6 +182,7 @@ _Consolidation as at 2021-04-01_
 (2) The Governor-General may from time to time, by Order in Council, declare—
   (a) that any specified international convention relating to maritime transport, to which New Zealand is a party, shall be a convention for the purposes of this Part and Parts 2 to 15, or such of them (or their provisions) as may be specified in the order:
   (b) that any specified amendment to any such convention shall form part of that convention for any such purposes.
+(3) An order under subsection (2) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 2A Transitional, savings, and related provisions
 The transitional, savings, and related provisions set out in Schedule 1AA have effect according to their terms.
@@ -474,7 +476,7 @@ For the purpose of ensuring maritime safety in their regions, regional councils 
 A harbourmaster may exercise the powers and perform the duties conferred by this Act or any other enactment for the purpose of ensuring maritime safety in relation to the ports, harbours, or waters for which he or she has been appointed as a harbourmaster by the regional council.
 
 ### 33F Harbourmasters' general powers
-(1) For the purposes of ensuring maritime safety, or enforcing navigation bylaws or regulations and rules made under this Act relating to maritime safety, a harbourmaster may, in relation to the areas for which he or she has been appointed as a harbourmaster by the regional council,—
+(1) For the purposes of ensuring maritime safety, or enforcing secondary legislation (including bylaws) made under this Act relating to maritime safety, a harbourmaster may, in relation to the areas for which he or she has been appointed as a harbourmaster by the regional council,—
   (a) enter and remain on any ship in waters within the region:
   (b) enter and remain on any maritime facility, or on any land or property of a port company or a port operator, within the region:
   (c) give directions regarding—
@@ -488,8 +490,8 @@ A harbourmaster may exercise the powers and perform the duties conferred by this
   (e) cause a ship to be moored, unmoored, anchored, secured, unsecured, placed, or removed, or to weigh anchor:
   (f) cause any floating, submerged, or stranded object that the harbourmaster considers to be a hazard to navigation to be moored, unmoored, anchored, secured, unsecured, placed, or removed:
   (g) require any person appearing to be in charge of any ship or seaplane to stop, and to give his or her name and address:
-  (h) require any person found committing an offence against this Act (or any regulations, rules, or navigation bylaws made under this Act) to give his or her name and address:
-  (i) on informing the owner of a ship or seaplane of an alleged offence against this Act (or any regulations, rules, or navigation bylaws made under this Act) involving that ship or seaplane, require the owner to give all information in the owner's possession or obtainable by the owner that may lead to the identification of the person (not being the owner) who it is alleged committed the offence:
+  (h) require any person found committing an offence against this Act (or any secondary legislation (including bylaws) made under this Act) to give his or her name and address:
+  (i) on informing the owner of a ship or seaplane of an alleged offence against this Act (or any secondary legislation (including bylaws) made under this Act) involving that ship or seaplane, require the owner to give all information in the owner's possession or obtainable by the owner that may lead to the identification of the person (not being the owner) who it is alleged committed the offence:
   (j) regulate and control traffic and navigation on the occasion of unusual or extraordinary maritime traffic.
 (2) A harbourmaster may exercise the powers under subsection (1) with the assistance of any persons and equipment the harbourmaster reasonably considers necessary in the circumstances.
 (3) A harbourmaster exercising a power under subsection (1)﻿(a) or (b) must—
@@ -515,7 +517,7 @@ A harbourmaster may exercise the powers and perform the duties conferred by this
 **Enforcement**
 
 ### 33G Enforcement officers, Police, and authorised regional council officials
-For the purpose of ensuring maritime safety or enforcing navigation bylaws, and regulations and rules made under this Act relating to maritime safety,—
+For the purpose of ensuring maritime safety or enforcing secondary legislation (including bylaws) made under this Act relating to maritime safety,—
   (a) the regional council may appoint enforcement officers and honorary enforcement officers:
   (b) enforcement officers, and constables, may exercise the powers of a harbourmaster set out in section 33F(1)﻿(a), (b), (g), (h), and (i):
   (c) enforcement officers, and constables, may exercise the powers set out in section 33F(1)﻿(c) if authorised to do so by the regional council:
@@ -633,6 +635,7 @@ For the purposes of carrying out his or her duties under this Part, a harbourmas
 (2) The Governor-General may, by Order in Council, make regulations prescribing a fine not exceeding $2,500 for any offence under subsection (1).
 (3) Every person who commits an offence under subsection (1) for which no penalty is provided for under subsection (2) is liable to a fine not exceeding $500.
 (4) Despite section 25 of the Criminal Procedure Act 2011, a charging document for an offence against subsection (1) may be filed within 12 months of the time when the matter to which the charging document relates arose.
+(5) Regulations under subsection (2) are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 33O Infringement offences relating to navigation bylaws
 (1) The Governor-General may, by Order in Council, make regulations—
@@ -642,6 +645,7 @@ For the purposes of carrying out his or her duties under this Part, a harbourmas
 (2) A person who is alleged to have committed an infringement offence may be—
   (a) proceeded against for the offence under the Summary Proceedings Act 1957; or
   (b) served with an infringement notice.
+(3) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 33P Infringement notices
 (1) A harbourmaster, an enforcement officer, or a constable may serve an infringement notice on any person that he or she—
@@ -754,6 +758,10 @@ Port operators must not operate, maintain, or service a port, or cause or permit
   (a) moorings, wharves, docks, quays, marinas, areas, or other places where ships are maintained; and
   (b) launching ramps; and
   (c) other launching facilities.
+(7) The following are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements):
+  (a) bylaws under subsection (4):
+  (b) regulations under subsection (5).
+(8) However, section 161A(4) of the Local Government Act 2002 applies if the bylaws are made by the Minister of Local Government and the Minister is the territorial authority for the part of New Zealand to which the bylaws apply.
 
 ### 33X Delegation or transfer of council's responsibilities
 (1) A regional council or territorial authority may transfer to a council-controlled organisation or a port operator any of its responsibilities under this Part except—
@@ -859,14 +867,14 @@ Port operators must not operate, maintain, or service a port, or cause or permit
   (b) other manually powered water craft:
   (c) water craft solely powered by sail:
   (d) the operators, crew, and passengers of river rafts, other manually powered water craft, and water craft solely powered by sail.
+(3) Maritime rules under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 36A Power of Governor-General to make maritime rules
 (1) The Governor-General may, by Order in Council, on the recommendation of the Minister, make maritime rules for any purpose for which the Minister may make maritime rules under this Part.
-(2) Any maritime rule or any amendment to a maritime rule made by Order in Council must (despite section 448(2)) be notified and made available in accordance with sections 448(2) and 449 as if the Minister had made the rule or the amendment to the rule.
-(2A) An Order in Council—
-  (a) is a disallowable instrument for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act; but
-  (b) is not a legislative instrument for the purposes of the Legislation Act 2012 (see subsection (2) and sections 448(2) and 449 of this Act); and
-  (c) is not to be drafted by the PCO under section 59(2)﻿(a) of the Legislation Act 2012.
+(2) An order under this section—
+  (a) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements); and
+  (b) is not to be drafted by the PCO under section 67(d)﻿(i) of that Act.
+(2A)
 (3) To avoid doubt,—
   (a) the Governor-General may amend or revoke any maritime rule made by the Minister (as if the Governor-General had made the rule):
   (b) the Minister may amend or revoke any maritime rule made by the Governor-General (as if the Minister had made the rule).
@@ -875,7 +883,15 @@ Port operators must not operate, maintain, or service a port, or cause or permit
 (1) The Director may from time to time make emergency maritime rules for any purpose for which the Minister may make maritime rules under this Part, if the Director considers that—
   (a) such rules are necessary to alleviate or minimise any risk of the death of or a serious injury to any person, or of damage to any property; and
   (b) it is not practicable in the circumstances of the particular case for the Minister to make maritime rules to effectively alleviate or minimise the risk concerned.
-(2) The Minister may revoke any emergency maritime rule and the revocation shall be notified as if it were an emergency rule.
+(2) The Minister may revoke any emergency maritime rule.
+(3) The following are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements):
+  (a) emergency maritime rules under subsection (1):
+  (b) a revocation under subsection (2).
+(4) If the Director is of the opinion that, because of reasons of safety or because of the imminence of the threat to the marine environment, it is impracticable to publish immediately an emergency maritime rule or revocation under that Act, the Director must give a copy of it to the persons (if any) whom the Director considers appropriate.
+(5) An emergency maritime rule or revocation to which subsection (4) applies—
+  (a) has effect only in relation to a person to whom it has been given under subsection (4); and
+  (b) comes into force in relation to that person immediately after it is given to the person (even if it is not yet published).
+(6) For the purposes of subsection (4), a rule or revocation may be given in any way the Director considers appropriate.
 
 ### 38 Contravention of emergency maritime rule
 (1) Every person commits an offence who, without reasonable excuse, acts in contravention of or fails to comply with any emergency maritime rule made under section 37.
@@ -1173,12 +1189,13 @@ If the result of a seafarer's evidential breath test appears to be positive, the
 (4) In the absence of proof to the contrary, a document purporting to be a certificate of compliance or a certified copy of a certificate of compliance—
   (a) must be treated as such a certificate or certified copy; and
   (b) is conclusive evidence of the sufficiency of the authority of the person who signed the document.
-(5) After consultation with the Minister and the Minister of Justice, the Minister of Police must, by notice in the Gazette, specify for each kind of evidential breath-testing device the matters that are required to be stated in a certificate of compliance.
+(5) After consultation with the Minister and the Minister of Justice, the Minister of Police must, by notice, specify for each kind of evidential breath-testing device the matters that are required to be stated in a certificate of compliance.
 (6) Without limiting subsection (5), the notice given under subsection (5) must—
   (a) be, in the case of any kind of evidential breath-testing device approved after the commencement of this section, given in conjunction with the notice approving that kind of device:
   (b) specify the maximum period of service for the relevant kind of device, and must require a certificate of compliance to specify the date on which that period began or begins:
   (c) specify the maximum period permitted between the date on which a certificate of compliance is issued and the date by which a test result must be obtained, and must require a certificate of compliance to specify the date on which the certificate of compliance was issued:
   (d) require a certificate of compliance to include a statement to the effect that the device is being maintained in accordance with the manufacturer's specifications.
+(7) A notice under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 40Q Presumptions relating to blood specimens
 (1) In proceedings for an offence against this Part, it is to be presumed, in the absence of proof to the contrary, that,—
@@ -1903,6 +1920,7 @@ The provisions of the LLMC Convention as amended by the LLMC Protocol have the f
   (a) the new limits; and
   (b) the date from which those limits take effect in accordance with Article 8 of the LLMC Protocol.
 (2) The limits notified in accordance with subsection (1), may, in the absence of proof to the contrary, be taken in any proceedings to be the current limits.
+(3) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 88 Units of account
 (1)
@@ -2396,6 +2414,7 @@ Every person on whom any duty is imposed by this Act—the means required by the
   (d) provide that the levies are payable on an annual or other equal basis in advance or otherwise, or on a per voyage basis at the option of either the Director or the person liable to pay the levies; and provide for the changing of those options, and for the making of adjustments where an option is changed—
 (3A) The Minister must not make a recommendation under subsection (1) unless he or she has consulted such persons, representative groups within the maritime industry or elsewhere, government departments, and Crown agencies as he or she considers appropriate.
 (4) Nothing in this section limits the provisions of section 201 or section 204.
+(5) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 192 Exemptions from maritime levies
 (1)
@@ -2433,6 +2452,7 @@ Every person who receives any maritime levy shall, on demand, issue to the perso
 (1) The Governor-General may from time to time, by Order in Council, make regulations imposing a ballast water management levy on ships, as defined in section 246A(3)﻿(a), that discharge ballast water from outside New Zealand waters into New Zealand waters or the exclusive economic zone.
 (2) The purpose of the levy is to wholly or partly fund administration, inspection, and enforcement services relating to the control and management of ballast water.
 (3) Sections 191(3) to 197 apply with all necessary modifications to regulations made under this section.
+(4) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 **Coastal shipping**
 
@@ -2575,6 +2595,7 @@ Every person who receives any maritime levy shall, on demand, issue to the perso
     (ii) in the case of a body corporate, must not exceed $12,000:
   (e) such other matters as are contemplated by or necessary for giving full effect to the provisions of this Act (other than those referred to in section 394(1)﻿(i)) and for their due administration.
 (2) Any regulations made under this Act may be so made that different regulations shall apply with respect to different classes of persons, ships, or maritime products, or with respect to the same class of person, ship, or maritime product in different circumstances.
+(3) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ## Part 15 — Transitional and consequential provisions relating to maritime transport
 
@@ -2653,7 +2674,8 @@ If the Secretary of Foreign Affairs and Trade certifies that, for the purposes o
 ## Part 17 — Salvage
 
 ### 214 Commencement
-Sections 215 to 220 and Schedule 6 shall come into force on a date to be appointed by the Governor-General by Order in Council.
+(1) Sections 215 to 220 and Schedule 6 shall come into force on a date to be appointed by the Governor-General by Order in Council.
+(2) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 215 Interpretation
 In this Part, unless the context otherwise requires,—
@@ -2689,7 +2711,8 @@ Any person who—shall take action to enforce that indemnity within 2 years of t
 ## Part 18 — Preliminary provisions relating to marine pollution
 
 ### 221 Commencement of provisions relating to marine pollution
-Sections 222 and 224, Parts 19 to 27, and sections 469, 470, 471(2), 472, 473, 474, 475(2), 476 to 481, 484, 485(2), and 485(4), and Schedule 7 shall come into force on a date to be appointed by the Governor-General by Order in Council; and different dates may be so appointed by 1 or more Orders in Council for different provisions and different purposes.
+(1) Sections 222 and 224, Parts 19 to 27, and sections 469, 470, 471(2), 472, 473, 474, 475(2), 476 to 481, 484, 485(2), and 485(4), and Schedule 7 shall come into force on a date to be appointed by the Governor-General by Order in Council; and different dates may be so appointed by 1 or more Orders in Council for different provisions and different purposes.
+(2) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 222 Interpretation
 (1) In this Part and in Parts 19 to 28, unless the context otherwise requires,—
@@ -2772,6 +2795,7 @@ Sections 222 and 224, Parts 19 to 27, and sections 469, 470, 471(2), 472, 473, 4
 (4) The Governor-General may from time to time, by Order in Council, declare—
   (a) that any specified international convention, protocol, or agreement relating to the protection of the marine environment from pollution, to which New Zealand is a party, shall be a marine protection convention for the purposes of this Part and Parts 19 to 27, or such of them (or their provisions) as may be specified in the order:
   (b) that any specified amendment to, or revision of, any such instrument shall form part of that instrument for any such purposes.
+(5) An order under subsection (4) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 223 Application of Parts 19 to 27 to ships of New Zealand Defence Force
 Without limiting section 4(2), Parts 19 to 27 shall apply to every warship and every other ship of the New Zealand Defence Force that is in waters outside the territorial sea of New Zealand, to the extent that those Parts apply to such waters.
@@ -3881,6 +3905,7 @@ In this Part, unless the context otherwise requires,—
   (a) the payments may be made if, and to the extent that, the costs for which the payments may be made have not been recovered from the person who caused the oil spill:
   (b) the recipient must make all reasonable efforts to recover those costs from that person:
   (c) payments may be made on an interim or periodic basis; and each time it recovers money from the person who caused the oil spill, the recipient must pay the Fund a proportionate amount.
+(3) An order under subsection (1)﻿(i) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 332 Expenditure budgets required before certain money paid from Fund
 (1) Payment shall not be made under paragraph (a) or paragraph (b) or paragraph (d) of section 331 from the New Zealand Oil Pollution Fund to the Authority in any financial year unless such payment is in accordance with an expenditure budget submitted by the Authority from time to time and approved by the Minister in his or her sole discretion.
@@ -3906,6 +3931,7 @@ In this Part, unless the context otherwise requires,—
 (5) An Order in Council made under this section may—
   (a) require returns to be made by the persons by whom any levy is payable; and
   (b) prescribe requirements and conditions relating to the making of such returns.
+(6) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 334 Consultation on oil pollution levies
 The Authority shall consult the Oil Pollution Advisory Committee before advising the Minister on the imposition of and the rate or rates of any oil pollution levies.
@@ -3999,12 +4025,13 @@ The Authority shall consult the Oil Pollution Advisory Committee before advising
   - **regulated foreign oil tanker** means a regulated oil tanker that is not a New Zealand ship
   - **regulated New Zealand oil tanker** means a regulated oil tanker that is a New Zealand ship
   - **regulated New Zealand ship** means a regulated oil tanker or a regulated ship that is a New Zealand ship
-  - **regulated oil tanker** means an oil tanker, wherever registered and of whatever nationality, carrying a quantity of oil in bulk in excess of 2 000 tonnes or such other quantity as may be fixed for the purpose from time to time by the Governor-General by Order in Council
+  - **regulated oil tanker** means an oil tanker, wherever registered and of whatever nationality, carrying a quantity of oil in bulk in excess of 2 000 tonnes or such other quantity as may be fixed for the purpose from time to time by the Governor-General by Order in Council (see subsection (3))
   - **regulated ship** means a New Zealand or foreign ship of 400 gross tonnage or more other than a regulated oil tanker
   - **tonnage** , in relation to any ship,—
     (a) has the meaning defined in any regulations or maritime rules made under this Act that apply to the ship, unless the term is defined differently for different purposes, or is not defined, by such regulations or rules:
     (b) where the tonnage cannot be ascertained under paragraph (a), means the gross tonnage calculated in accordance with the tonnage measurement regulations contained in Annex I of the International Convention on Tonnage Measurement of Ships, 1969.
 (2) In the Civil Liability Convention, ship means any sea-going vessel and seaborne craft of any type whatsoever constructed or adapted for the carriage of oil in bulk as cargo, provided that a ship capable of carrying oil and other cargoes shall be regarded as a ship only when it is actually carrying oil in bulk as cargo and during any voyage following such carriage unless it is proved that it has no residues of such carriage of oil in bulk aboard.
+(3) An order made for the purpose of the definition of regulated oil tanker in subsection (1) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 343 Ownership of CLC Ship
 Notwithstanding any other provision of this Act, for the purposes of this Part, in respect of any discharge or escape of oil from a CLC ship, the owner of that ship shall be deemed to be the CLC owner of that ship at the time of an event giving rise to liability under this Part or (where such event consists of a series of occurrences) at the time of the first such occurrence, as the case may be.
@@ -4046,6 +4073,7 @@ Notwithstanding any other provision of this Act, for the purposes of this Part, 
 (4) The maximum amount of liability of an owner of a ship determined under this section shall relate to all pollution damage that arises on any one occasion and whether or not the pollution damage arising from that occasion is sustained by more than 1 person.
 (5) If the maximum amount for which the owner of a ship may be liable under this section is paid into court, no subsequent variation of the method of calculating the liability in New Zealand currency under any marine protection rules will affect the maximum amount of liability.
 (6) The liability limits for pollution damage, other than oil pollution damage from CLC ships, are specified in Part 7.
+(7) An order under subsection (2) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 348 Defences to shipowner’s liability for pollution damage
 (1) The owner of a ship shall not be liable under section 344, section 345, or section 346 if the owner proves that the discharge or escape, or the grave and imminent threat of the discharge or escape,—
@@ -4211,6 +4239,7 @@ The International Oil Pollution Fund and the Supplementary Fund are legal entiti
   (c) where liability has been incurred under section 345 by the owner of a CLC ship, 135 million units of account, less the amount of compensation actually paid by the owner, or the owner’s insurer, or by both pursuant to a direction of the court under section 351.
 (1A) The maximum amount for which the Supplementary Fund is liable for pollution damage under section 372(2) must be fixed by Order in Council and, until that maximum amount is fixed, is the amount of 750 million units of account less any amount paid by the International Oil Pollution Fund under section 372(1).
 (2) A maximum amount of liability fixed by this section applies to the total liability incurred on each distinct occasion, and applies in respect of each distinct occasion without regard to any liability incurred on another occasion.
+(3) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 374 International Oil Pollution Fund’s liability for compensation avoided or limited in certain cases
 (1) The provisions of this section apply only in respect of a CLC ship carrying persistent hydrocarbon mineral oil in bulk as cargo.
@@ -4287,6 +4316,7 @@ Where any person has received compensation from the International Oil Pollution 
 (3) In this section, the term oil means—
   (a) crude oil, namely, any liquid hydrocarbon mixture occurring naturally in the earth, whether or not treated to render it suitable for transportation; and includes crude oils from which certain distillate fractions have been removed (topped crudes) or to which certain distillate fractions have been added (spiked or reconstituted crudes):
   (b) fuel oil, namely, heavy distillates or residues from crude oil, or blends of such materials, intended for use as a fuel for the production of heat or power of a quality equivalent to or heavier than the American Society for Testing and Materials’ Specification for Number Four Fuel Oil (Designation D396-69).
+(4) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ## Part 26A — Civil liability for pollution of marine environment from marine structures
 
@@ -4392,6 +4422,7 @@ The owner and person in charge of a regulated offshore installation each commits
   (b) to make such rules as may be necessary to enable New Zealand to become a party to any international convention, protocol, or agreement relating to the protection of the marine environment:
   (c) to implement such international practices or standards relating to the protection of the marine environment as may from time to time be recommended by the International Maritime Organisation.
 (2) Nothing in subsection (1) limits any other provision of this Act that empowers the making of marine protection rules.
+(3) Marine protection rules under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 387 Marine protection rules relating to marine protection documents
 (1) The Minister may from time to time make marine protection rules requiring that a marine protection document be held by or in respect of all or any of the following:
@@ -4417,9 +4448,10 @@ The owner and person in charge of a regulated offshore installation each commits
   (b) set requirements and criteria for regulated offshore installations that must be satisfied in respect of insurance or other financial security for the costs of complying with a marine oil spill contingency plan in accordance with section 313.
 (5) Subject to any marine protection rules, a marine protection document may be issued or a document may be recognised as a marine protection document, as the case may be, by the Director for such specified period and subject to such conditions as the Director considers appropriate in each particular case.
 (6) Any person in respect of whom any decision is taken under this section may appeal against that decision to the District Court under section 424.
+(7) Marine protection rules under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 388 Marine protection rules in relation to harmful and other substances
-The Minister may from time to time make marine protection rules for all or any of the following purposes:
+(1) The Minister may from time to time make marine protection rules for all or any of the following purposes:
   (a) the substances that are harmful substances for the purposes of section 225:
   (b) the substances that are noxious liquid substances for the purposes of section 225:
   (c) the substances that are not to be noxious liquid substances for the purposes of section 225:
@@ -4444,6 +4476,7 @@ The Minister may from time to time make marine protection rules for all or any o
   (l) the requirements and procedures for the discharge or escape of water produced from geologic formations by marine operations in the high seas:
   (m) the requirements and procedures for the transfer of oil or noxious liquid substances to or from transfer facilities or ships:
   (n) prescribing requirements and procedures relating to the control and management of ballast water for the purposes of the convention, including, but not limited to, provision for the Director to issue guidelines that allow for exemptions from the requirements and procedures for ships complying with the guidelines.
+(2) Marine protection rules under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 389 Marine protection rules in relation to waste or other matter
 (1) The Minister may from time to time make marine protection rules for all or any of the following purposes:
@@ -4462,6 +4495,7 @@ The Minister may from time to time make marine protection rules for all or any o
   (i) to provide for the issue or renewal of permits or any class of permit granted under section 262:
   (j) to provide for the operational requirements in respect of, and for the survey, testing, and monitoring of, marine incineration facilities.
 (2) The Minister shall, before making any marine protection rules under subsection (1), consult with such other Ministers as he or she considers appropriate having regard to the particular subject matter of the proposed rules.
+(3) Marine protection rules under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 390 Marine protection rules in relation to marine oil spills and other matters
 (1) The Minister may from time to time make marine protection rules for all or any of the following purposes:
@@ -4474,14 +4508,14 @@ The Minister may from time to time make marine protection rules for all or any o
   (e) requiring the Director to notify any person or persons in respect of any action taken by the Director under this Act or any regulations or marine protection rules made under this Act and, in particular, requiring the Director to comply with any obligations to notify any persons under any international conventions binding on New Zealand:
   (f) prescribing or providing for such matters as may be necessary to enable New Zealand to become a party to any international convention, protocol, or agreement relating to protection of the marine environment.
 (2) The Minister may from time to time make marine protection rules to provide for such other matters as are contemplated by or necessary for giving full effect to the provisions of Parts 18 to 26A and for the due administration thereof.
+(3) Marine protection rules under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 390A Power of Governor-General to make marine protection rules
 (1) The Governor-General may, by Order in Council, on the recommendation of the Minister, make marine protection rules for any purpose for which the Minister may make marine protection rules under this Part.
-(2) Any marine protection rule or any amendment to a marine protection rule made by Order in Council must (despite section 448(2)) be notified and made available in accordance with sections 448(2) and 449 as if the Minister had made the rule or the amendment to the rule.
-(2A) An Order in Council—
-  (a) is a disallowable instrument for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act; but
-  (b) is not a legislative instrument for the purposes of the Legislation Act 2012 (see subsection (2) and sections 448(2) and 449 of this Act); and
-  (c) is not to be drafted by the PCO under section 59(2)﻿(a) of the Legislation Act 2012.
+(2) An order under this section—
+  (a) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements); and
+  (b) is not to be drafted by the PCO under section 67(d)﻿(i) of that Act.
+(2A)
 (3) To avoid doubt,—
   (a) the Governor-General may amend or revoke any marine protection rule made by the Minister (as if the Governor-General had made the rule):
   (b) the Minister may amend or revoke any marine protection rule made by the Governor-General (as if the Minister had made the rule).
@@ -4490,7 +4524,15 @@ The Minister may from time to time make marine protection rules for all or any o
 (1) The Director may from time to time make rules (to be called emergency marine protection rules) for any of the purposes for which the Minister may make rules under this Part, if the Director considers that—
   (a) such rules are necessary to alleviate or minimise any damage to the marine environment or threat of imminent damage to the marine environment; and
   (b) it is not practicable in the circumstances of the particular case for the Minister to make rules to effectively eliminate or alleviate the damage or threat of damage to the marine environment.
-(2) The Minister may revoke any emergency marine protection rule and the revocation shall be notified as if it were an emergency rule.
+(2) The Minister may revoke any emergency marine protection rule.
+(3) The following are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements):
+  (a) emergency marine protection rules under subsection (1):
+  (b) a revocation under subsection (2).
+(4) If the Director is of the opinion that, because of reasons of safety or because of the imminence of the threat to the marine environment, it is impracticable to publish immediately an emergency maritime protection rule or revocation under that Act, the Director must give a copy of it to the persons (if any) whom the Director considers appropriate.
+(5) An emergency marine protection rule or revocation to which subsection (4) applies—
+  (a) has effect only in relation to a person to whom it has been given under subsection (4); and
+  (b) comes into force in relation to that person immediately after it is given to the person (even if it is not yet published).
+(6) For the purposes of subsection (4), a rule or revocation may be given in any way the Director considers appropriate.
 
 ### 392 Matters to be taken into account in making marine protection rules
 In making any marine protection rules, the Minister or the Director, as the case may be, shall have regard to, and shall give such weight as he or she considers appropriate in each case to, the following:
@@ -4531,6 +4573,7 @@ The provisions of sections 446 to 452 apply in relation to marine protection rul
   (i) such other matters as are contemplated by or necessary for giving full effect to the provisions of Parts 18 to 27 and for their due administration.
 (2) Regulations made under subsection (1) may, in addition to any other penalty imposed under this section, where the offence is a continuing one, impose further fines not exceeding $1,000 for each day or part of a day on which the offence is continued.
 (3) Any regulations made under this Act may be so made that different regulations shall apply with respect to different classes of persons, ships, offshore installations, pipelines, marine protection products, or other property or with respect to the same class of person, ship, offshore installation, pipeline, marine protection product, or other property in different circumstances.
+(4) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 **General powers of Director in relation to protection of marine environment**
 
@@ -5007,15 +5050,17 @@ Subject to this Act, the Authority shall, in the course of performing its functi
   (e) fix, or allow the fixing, of a date by which any fee or charge is to be paid:
   (f) provide for, or allow the fixing of, a discount for early payment of any fee or charge as a penalty for late payment, or both:
   (g) prescribe any returns, and the conditions relating to such returns, to be made by persons by whom any fees or charges are payable.
+(4) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 445A Text of certain marine protection conventions
-The Governor-General may by Order in Council—
+(1) The Governor-General may by Order in Council—
   (a) set out the English texts of the following agreements as adopted by New Zealand:
     (i) International Convention on Civil Liability for Bunker Oil Pollution Damage done at London on 23 March 2001 (Bunker Oil Convention):
     (ii) International Convention on Civil Liability for Oil Pollution Damage done at Brussels on 29 November 1969 (CLC Convention):
     (iii) International Convention Relating to Intervention on the High Seas in Cases of Oil Pollution Casualties done at Brussels on 29 November 1969 (Intervention Convention):
     (iv) Protocol Relating to Intervention on the High Seas in Cases of Pollution by Substances other than Oil done at London on 2 November 1973 (Intervention Protocol):
   (b) keep the texts of those agreements up to date.
+(2) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 **Provisions in respect of rules under this Act**
 
@@ -5036,17 +5081,13 @@ Before making any emergency rule under section 37 or section 391, the Director s
   (a) be signed by the Minister, Governor-General, or Director (as appropriate); and
   (b) contain a statement specifying the objective of the rule and the extent of any consultation under this Act; and
   (c) set out fully the requirements of the rule, except where by reason of size or length certain information is incorporated in the rule by reference under section 452.
-(2) If a rule is made under this Act (except for a rule made by an Order in Council under section 36A(1) or 390A(1)),—
-  (a) notice of the making of the rule must be given by the Authority in the Gazette; and
-  (b) the rule must be made available by the Authority for purchase by members of the public at a reasonable price; and
-  (c) the notice must specify a place where the rule is available for inspection free of charge and for purchase.
+(2)
 (3)
-(4) Every rule made under section 37 or section 391 by the Director shall come into force on the date of its notification in the Gazette.
-(5) Subsections (2) and (4) are subject to section 449.
+(4)
+(5)
 
 ### 449 Notification of emergency rules in certain circumstances
-(1) Where for reasons of safety, or because of the imminence of the threat to the marine environment, as the case may be, it is in the opinion of the Director impracticable to give notice in the Gazette under section 448(2) of a rule made under section 37 or section 391 by the Director, the Director may notify such persons as he or she considers appropriate of the making of the rule and such rule shall immediately upon such notification come into force in respect of any person or persons notified and in respect of that person or those persons only.
-(2) Notification may be given by the Director under subsection (1) by telephone, facsimile, or such other manner as the Director considers appropriate.
+[Repealed]
 
 ### 450 Other provisions in respect of emergency rules
 (1) A rule made under section 37 or section 391 by the Director shall be in force for such period as is specified in the rule which shall not exceed 90 days, and may be renewed once only for a further period not exceeding 30 days.
@@ -5059,17 +5100,16 @@ Before making any emergency rule under section 37 or section 391, the Director s
   (b) within any specified part or parts of New Zealand, New Zealand waters, or New Zealand continental waters:
   (c) in respect of New Zealand ships, wherever they may be.
 (2A) Except as otherwise expressly provided, where a rule applies to ships, it applies to New Zealand ships wherever they may be.
-(3) The commencement of any rule may be wholly suspended until it is applied by the Minister by notice in the Gazette.
+(3) The commencement of any rule may be wholly suspended until it is applied by the Minister by notice (see subsection (9)).
 (4) A rule made under this Act may—
   (a) require or provide for a matter to be determined, undertaken, or approved by the Authority, the Director, or any other person; and
   (b) empower the Authority, the Director, or any other person to impose requirements or conditions as to the performance of an activity or activities.
 (5) No breach of any rule made under this Act shall constitute an offence against this Act unless that offence is prescribed in regulations made under this Act or is expressly specified by this Act to be an offence against this Act.
 (5A)
-(6) A rule made under this Act (except for a rule made by an Order in Council under section 36A(1) or 390A(1))—
-  (a) is a disallowable instrument for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act; but
-  (b) is not a legislative instrument for the purposes of the Legislation Act 2012 (see sections 448(2) and 449 of this Act).
+(6)
 (7) So far as the bylaws of any local authority are inconsistent with or repugnant to any rule in force in the same locality, the bylaws shall be construed subject to the rule.
 (8) Notwithstanding clause 5 of Schedule 6 of the Public Service Act 2020, the Minister shall not delegate his or her power to make rules under this Act.
+(9) A notice under subsection (3) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 452 Incorporation by reference
 (1) The following, whether in written or electronic form, may be incorporated by reference in a rule made by the Minister, the Governor-General, or the Director:
@@ -5096,8 +5136,8 @@ Before making any emergency rule under section 37 or section 391, the Director s
   (d) that copies of the material can be purchased; and
   (e) the place where, or the person from whom, the material can be purchased; and
   (f) if copies of the material are available in other ways, the details of where or how the material can be accessed or obtained.
-(7) Part 2 of the Legislation Act 2012 does not apply to material incorporated by reference in a rule or to an amendment to, or a replacement of, that material.
-(8) Nothing in section 41 of the Legislation Act 2012 requires material that is incorporated by reference in a rule to be presented to the House of Representatives.
+(7) Part 3 of the Legislation Act 2019 does not apply to material incorporated by reference in a rule or to an amendment to, or a replacement of, that material.
+(8) Nothing in section 114 of the Legislation Act 2019 requires material that is incorporated by reference in a rule to be presented to the House of Representatives.
 (9) Subsections (1) to (8) do not affect the application of sections 29 to 32 of the Standards and Accreditation Act 2015.
 
 **Transport instruments**
