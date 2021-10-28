@@ -1,5 +1,5 @@
 # Consular Privileges and Immunities Act 1971
-_Consolidation as at 2005-01-25_
+_Consolidation as at 2021-10-28_
 
 > An Act to make provision with respect to consular privileges and immunities, and to give effect to the Vienna Convention on Consular Relations
 
@@ -40,6 +40,7 @@ The provisions of this Act shall, with respect to the matters dealt with therein
   (i) the reference in paragraph 2 of Article 57 to the privileges and immunities provided in Chapter II shall be construed as a reference to those provided in section II of that Chapter:
   (j) the reference in paragraph 4 of Article 70 to the rules of international law concerning diplomatic relations shall be construed as a reference to the provisions of Part 1 of the Diplomatic Privileges and Immunities Act 1968:
   (k) the reference in paragraph 1 of Article 71 to any additional privileges and immunities that may be granted by the receiving State, and the reference in paragraph 2 of Article 71 to privileges and immunities so far as these are granted by the receiving State, shall, so far as they relate to fiscal privileges, be construed as references to such determinations as may be made by the Minister pursuant to subsection (2), and, so far as they relate to immunities, be construed as references to such immunities as may be conferred by an Order in Council under subsection (3).
+(8) An order under subsection (3) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 5 Immunities of certain employees of a consular post who are New Zealand citizens or residents
 Consular employees of a consular post headed by a career consular officer who are New Zealand citizens or are permanently resident in New Zealand shall be accorded immunity from jurisdiction in respect of official acts performed in the exercise of their functions.
@@ -47,6 +48,7 @@ Consular employees of a consular post headed by a career consular officer who ar
 ### 6 Withdrawal of consular privileges and immunities
 (1) Where the Governor-General is satisfied that the privileges and immunities accorded in relation to a consular post of New Zealand in any State, or to persons connected with that consular post, are less than those conferred by or by virtue of this Act in relation to a consular post of that State, or to persons connected with any such consular post, he may, by Order in Council, withdraw, modify, or restrict, in relation to that consular post or to persons connected with that consular post, such of the privileges and immunities so conferred to such extent as appears to him to be proper.
 (2) Any Order in Council under subsection (1) shall be disregarded for the purposes of paragraph (aa) of the proviso to section 6 of the British Nationality and New Zealand Citizenship Act 1948 (which relates to the citizenship of the children of certain persons possessing consular immunities).
+(3) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 7 Immunities of certain persons in service of Commonwealth or foreign countries
 (1) The Governor-General may from time to time, by Order in Council, confer on—performing functions corresponding to those of a consular officer or consular employee, and holding such offices or classes of offices as are specified in the order, such immunity from jurisdiction, and such inviolability, as are specified in the order.
@@ -54,6 +56,7 @@ Consular employees of a consular post headed by a career consular officer who ar
   (b) persons in the service of the Government of any territory for whose international relations the Government of any Commonwealth country is responsible—
 (2) The Governor-General may from time to time, by Order in Council, declare that the provisions of this Act shall apply, to such extent as may be specified in the order, to persons appointed by the Government of any other Commonwealth country to serve as consular officers or consular employees in New Zealand.
 (3) Any Order in Council made under this section may accord, to such extent as may be specified in the order, inviolability to the official premises and official archives of any person in respect of whom an order has been made for the purposes of this section.
+(4) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 8 Refunds or payments where fiscal privileges accorded
 (1) The Minister of Finance may direct that such refunds or payments be made from any public fund or account or from the money of any local authority, public body, or person as may in the opinion of that Minister be necessary to give effect to any fiscal privilege accorded pursuant to section 4.
@@ -68,7 +71,8 @@ If in any proceedings any question arises whether or not any person is or was at
 This Act shall not affect any legal proceedings begun before the commencement of this Act.
 
 ### 11 Regulations
-The Governor-General may from time to time, by Order in Council, make regulations providing for such matters as are contemplated by or necessary for giving full effect to this Act and for the due administration thereof.
+(1) The Governor-General may from time to time, by Order in Council, make regulations providing for such matters as are contemplated by or necessary for giving full effect to this Act and for the due administration thereof.
+(2) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 12 Application of Act to Niue and Tokelau
 (1) This Act shall be in force in Niue and in Tokelau.
@@ -80,7 +84,7 @@ The Governor-General may from time to time, by Order in Council, make regulation
 (4)
 
 ### 13 Application of Act to Cook Islands
-Whereas in accordance with Article 46 of the Constitution of the Cook Islands (as set out in Schedule 2 of the Cook Islands Constitution Amendment Act 1965) the Government of the Cook Islands has requested and consented to the enactment of a provision extending the provisions of this Act to the Cook Islands as part of the law of the Cook Islands: Be it therefore enacted as follows:
+Whereas in accordance with Article 46 of the Constitution of the Cook Islands (as set out in Schedule 2 of the Cook Islands Constitution Amendment Act 1965) the Government of the Cook Islands has requested and consented to the enactment of a provision extending the provisions of this Act to the Cook Islands as part of the law of the Cook Islands:Be it therefore enacted as follows:
 (1) This Act shall extend to the Cook Islands as part of the law of the Cook Islands.
 (2) In the application of this Act to the Cook Islands, unless the context otherwise requires,—
   (a) every reference to New Zealand (when used as a territorial description) shall be construed as including a reference to the Cook Islands:
