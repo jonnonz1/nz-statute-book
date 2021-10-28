@@ -1,5 +1,5 @@
 # Declaratory Judgments Act 1908
-_Consolidation as at 2017-03-01_
+_Consolidation as at 2021-10-28_
 
 > An Act to enable the High Court to give declaratory judgments or orders
 
@@ -10,9 +10,9 @@ This Act may be cited as the Declaratory Judgments Act 1908.
 No action or proceeding in the High Court shall be open to objection on the ground that a merely declaratory judgment or order is sought thereby, and the said Court may make binding declarations of right, whether any consequential relief is or could be claimed or not.
 
 ### 3 Declaratory orders on originating summons
-Where any person has done or desires to do any act the validity, legality, or effect of which depends on the construction or validity of any statute, or any regulation made by the Governor-General in Council under statutory authority, or any bylaw made by a local authority, or any deed, will, or document of title, or any agreement made or evidenced by writing, or any memorandum or articles of association of any company or body corporate, or any instrument prescribing the powers of any company or body corporate; or
-Where any person claims to have acquired any right under any such statute, regulation, bylaw, deed, will, document of title, agreement, memorandum, articles, or instrument, or to be in any other manner interested in the construction or validity thereof,—
-such person may apply to the High Court by originating summons for a declaratory order determining any question as to the construction or validity of such statute, regulation, bylaw, deed, will, document of title, agreement, memorandum, articles, or instrument, or of any part thereof.
+Where any person has done or desires to do any act the validity, legality, or effect of which depends on the construction or validity of any legislation, or any deed, will, or document of title, or any agreement made or evidenced by writing, or any memorandum or articles of association of any company or body corporate, or any instrument prescribing the powers of any company or body corporate; or
+Where any person claims to have acquired any right under any such legislation, deed, will, document of title, agreement, memorandum, articles, or instrument, or to be in any other manner interested in the construction or validity thereof,—
+such person may apply to the High Court by originating summons for a declaratory order determining any question as to the construction or validity of such legislation, deed, will, document of title, agreement, memorandum, articles, or instrument, or of any part thereof.
 
 ### 4 Effect of declaratory orders
 Any declaration so made on any such originating summons shall have the same effect as the like declaration in a judgment in an action, and shall be binding on the person making the application and on all persons on whom the summons has been served, and on all other persons who would have been bound by the said declaration if the proceedings wherein the declaration is made had been an action.
