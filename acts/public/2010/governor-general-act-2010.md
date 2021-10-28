@@ -1,5 +1,5 @@
 # Governor-General Act 2010
-_Consolidation as at 2021-02-18_
+_Consolidation as at 2021-10-28_
 
 ### 1 Title
 This Act is the Governor-General Act 2010.
@@ -38,7 +38,7 @@ In this Act, unless the context otherwise requires,—
     (ii) the date on which the appointee takes up the duties of the office; and
   (b) ending on the date on which that person no longer holds office as Governor-General.
 (4) The salary of the Governor-General must not be reduced during the Governor-General's term of office.
-(5) A determination made under this section is a legislative instrument, but not a disallowable instrument, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
+(5) A determination under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 6 Allowance of Governor-General
 (1) The Governor-General must be paid an allowance, at a rate fixed from time to time by Order in Council, for official expenses.
@@ -48,7 +48,7 @@ In this Act, unless the context otherwise requires,—
     (ii) the date on which the appointee takes up the duties of the office; and
   (b) ending on the date on which that person no longer holds office as Governor-General.
 (3) An Order in Council made under this section comes into force on the date specified in the order, which may be a date that is before, on, or after the date the order is made.
-(4) An Order in Council made under this section is a legislative instrument, but not a disallowable instrument, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
+(4) An Order in Council under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 7 Sum payable after office of Governor-General becomes vacant
 When a person ceases to hold office as Governor-General (other than by reason of death), he or she must be paid a gross lump sum equivalent to the gross salary payable for the last 6 months during which he or she held office.
@@ -59,7 +59,7 @@ When a person ceases to hold office as Governor-General (other than by reason of
 (3) If a person to whom this section applies held office as Governor-General for a total period of 2 complete years or more, he or she must be paid an annuity at a yearly rate, determined from time to time by the Remuneration Authority, for each complete year (not exceeding 5 years) of that total period.
 (4) The annuity is payable from the date that is 6 months after the date on which the person ceased to hold office as Governor-General.
 (5) A determination made under this section comes into force on the date specified in the determination, which may be a date that is before, on, or after the date the determination is made.
-(6) A determination made under this section is a legislative instrument, but not a disallowable instrument, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
+(6) A determination under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 9 Annuity for spouse or partner of former Governor-General
 (1) If a person to whom section 8 applies dies after ceasing to hold office, the surviving spouse or partner of that person must be paid an annuity at half the yearly rate at which an annuity would have been payable to the person under section 8 if that person had not died.
