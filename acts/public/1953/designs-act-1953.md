@@ -1,11 +1,12 @@
 # Designs Act 1953
-_Consolidation as at 2020-11-11_
+_Consolidation as at 2021-10-28_
 
 > An Act to consolidate and amend certain enactments relating to designs
 
 ### 1 Short Title and commencement
 (1) This Act may be cited as the Designs Act 1953.
 (2) This Act shall come into force on a day to be appointed for the commencement thereof by the Governor-General by Proclamation.
+(3) A Proclamation under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 2 Interpretation
 (1) In this Act, unless the context otherwise requires,—
@@ -192,7 +193,8 @@ The Commissioner, an Assistant Commissioner, or any other person acting on behal
 **International arrangements**
 
 ### 20 Orders in Council as to convention countries
-For the purpose of giving effect to any international agreement or arrangement to which New Zealand is a party or that applies to New Zealand, the Governor-General may by Order in Council declare that any entity specified in the order that is a party to the agreement or arrangement or to which the agreement or arrangement applies (whether a state, part of a state, a territory for whose international relations a state is responsible, a political union, an international organisation, or any other entity) is, for the purposes of all or any of the provisions of this Act, a convention country.
+(1) For the purpose of giving effect to any international agreement or arrangement to which New Zealand is a party or that applies to New Zealand, the Governor-General may by Order in Council declare that any entity specified in the order that is a party to the agreement or arrangement or to which the agreement or arrangement applies (whether a state, part of a state, a territory for whose international relations a state is responsible, a political union, an international organisation, or any other entity) is, for the purposes of all or any of the provisions of this Act, a convention country.
+(2) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 21 Registration of design where application for protection in convention country has been made
 (1) An application for registration of a design in respect of which protection has been applied for in a convention country may be made in accordance with the provisions of this Act by the person by whom the application for protection was made or his personal representative or assignee:
@@ -218,6 +220,7 @@ For the purpose of giving effect to any international agreement or arrangement t
   (c) may prescribe or allow any special procedure in connection with applications made by virtue of this section:
   (d) may empower the Commissioner to extend, in relation to an application made by virtue of this section, the time limited by or under the foregoing provisions of this Act for doing any act, subject to such conditions, if any, as may be imposed by or under the regulations:
   (e) may provide for securing that the rights conferred by registration on an application made by virtue of this section shall be subject to such restrictions or conditions as may be specified by or under the regulations and in particular to restrictions and conditions for the protection of persons (including persons acting on behalf of Her Majesty) who, otherwise than as the result of a communication made in accordance with such an agreement or arrangement as is mentioned in paragraph (a), and before the date of the application in question or such later date as may be allowed by the regulations, may have imported or made articles to which the design is applied or may have made an application for registration of the design.
+(3) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 23 Protection of designs communicated under arrangements with other countries
 (1) Subject to the provisions of this section, regulations may be made under this Act for securing that, where a design has been communicated in accordance with an agreement or arrangement made between Her Majesty's Government in New Zealand and the Government of any other country for the supply or mutual exchange of information or articles,—
@@ -228,6 +231,7 @@ For the purpose of giving effect to any international agreement or arrangement t
 (2) Regulations made under subsection (1) may provide that the publication or application of a design, or the making of any application for registration thereof, shall, in such circumstances and subject to such conditions or exceptions as may be prescribed by the regulations be presumed to have been in consequence of such a communication as is mentioned in that subsection.
 (3) The power to make regulations under this section, so far as it is exercisable for the benefit of persons from whom designs have been communicated to Her Majesty's Government in New Zealand by the Government of any other country, shall only be exercised if and to the extent that the Governor-General is satisfied that substantially equivalent provision has been or will be made under the law of that country for the benefit of persons from whom designs have been communicated by Her Majesty's Government in New Zealand to the Government of that country.
 (4) References in subsection (3) to the communication of a design to or by Her Majesty's Government in New Zealand or the Government of any other country shall be construed as including references to the communication of the design by or to any person authorized in that behalf by the Government in question.
+(5) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 24 Regulations under section 22 or section 23
 Any regulations made under section 22 or section 23, and any order made, direction given, or other action taken under the regulations by the Commissioner, may be made, given, or taken so as to have effect as respects things done or omitted to be done on or after such date, whether before or after the coming into operation of the regulations or of this Act, as may be specified in the regulations.
@@ -340,6 +344,7 @@ Without prejudice to any provisions of this Act requiring the Commissioner to he
   (d) prescribing the grounds of opposition to applications under this section:
   (e) regulating the procedure to be followed in relation to applications under this section and opposition to such applications:
   (f) prescribing the fees to be paid in respect of applications under this section.
+(7) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 38 Costs and security for costs
 (1) The Commissioner may, in any proceedings before him under this Act, by order award to any party such costs as he may consider reasonable, and direct how and by what parties they are to be paid; and any such order may be entered as a judgment of the court and, with the leave of the court, may be enforced accordingly.
@@ -493,6 +498,7 @@ Where by this Act any act has to be done by or to any person in connection with 
 (3) The structure of the fee system under this Act prescribed by regulations under this section may be such that any fees for an extension of the period of copyright in a registered design under section 12(2)—
   (a) recover a share of the costs incurred by the Commissioner in performing his or her functions under this Act; and
   (b) recover those costs at a level that provides an appropriate incentive for persons to not extend that period of copyright if they do not receive sufficient benefit from having the copyright in the registered design.
+(4) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 47 Fees
 (1) There shall be paid in respect of the registration of designs and applications therefor, and in respect of other matters relating to designs arising under this Act, such fees as may from time to time be prescribed by regulations made under this Act, and all such fees shall be paid into a Departmental Bank Account.
