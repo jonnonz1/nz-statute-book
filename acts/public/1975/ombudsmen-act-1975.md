@@ -1,5 +1,5 @@
 # Ombudsmen Act 1975
-_Consolidation as at 2021-09-01_
+_Consolidation as at 2021-10-28_
 
 > An Act to consolidate and amend the Parliamentary Commissioner (Ombudsman) Act 1962
 
@@ -7,6 +7,7 @@ _Consolidation as at 2021-09-01_
 (1) This Act may be cited as the Ombudsmen Act 1975.
 (2) Part 3 of Schedule 1, and sections 13, 18, and 22 so far as they relate to that Part, shall come into force on a date to be appointed by the Governor-General by Order in Council.
 (3) Except as provided in subsection (2), this Act shall come into force upon its passing.
+(4) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 2 Interpretation
 (1) In this Act, unless the context otherwise requires,—
@@ -96,7 +97,7 @@ For the purpose of providing superannuation or retiring allowances for any Ombud
 (5) Without limiting the foregoing provisions of this section, it is hereby declared that at any time the Prime Minister may, with the consent of the Chief Ombudsman, refer to an Ombudsman for investigation and report any matter, other than a matter concerning a judicial proceeding, which the Prime Minister considers should be investigated by an Ombudsman. Where a matter is referred to an Ombudsman pursuant to this subsection, he shall, notwithstanding anything to the contrary in this Act, forthwith investigate that matter and report thereon to the Prime Minister, and may thereafter make such report to Parliament on the matter as he thinks fit. Nothing in section 22 shall apply in respect of any investigation or report made under this subsection.
 (6) The powers conferred on Ombudsmen by this Act may be exercised notwithstanding any provision in any enactment to the effect that any such decision, recommendation, act, or omission shall be final, or that no appeal shall lie in respect thereof, or that no proceeding or decision of the person or organisation whose decision, recommendation, act, or omission it is shall be challenged, reviewed, quashed, or called in question.
 (7) Nothing in this Act shall authorise an Ombudsman to investigate—
-  (a) any decision, recommendation, act, or omission in respect of which there is, under the provisions of any Act or regulation, a right of appeal or objection, or a right to apply for a review, available to the complainant, on the merits of the case, to any court, or to any tribunal constituted by or under any enactment, whether or not that right of appeal or objection or application has been exercised in the particular case, and whether or not any time prescribed for the exercise of that right has expired:provided that the Ombudsman may conduct an investigation (not being an investigation relating to any decision, recommendation, act, or omission to which any other paragraph of this subsection applies) notwithstanding that the complainant has or had such right if by reason of special circumstances it would be unreasonable to expect him to resort or have resorted to it:
+  (a) any decision, recommendation, act, or omission in respect of which there is, under any legislation, a right of appeal or objection, or a right to apply for a review, available to the complainant, on the merits of the case, to any court, or to any tribunal constituted by or under any enactment, whether or not that right of appeal or objection or application has been exercised in the particular case, and whether or not any time prescribed for the exercise of that right has expired:provided that the Ombudsman may conduct an investigation (not being an investigation relating to any decision, recommendation, act, or omission to which any other paragraph of this subsection applies) notwithstanding that the complainant has or had such right if by reason of special circumstances it would be unreasonable to expect him to resort or have resorted to it:
   (b) any decision, recommendation, act, or omission of any person in his capacity as a trustee within the meaning of the Trusts Act 2019:
   (c) any decision, recommendation, act, or omission of any person acting as legal adviser to the Crown pursuant to the rules for the time being approved by the Government for the conduct of Crown legal business, or acting as counsel for the Crown in relation to any proceedings:
   (d) any decision, recommendation, act, or omission of any constable, other than any matter relating to the terms and conditions of service of any person as a constable.
@@ -111,7 +112,10 @@ Nothing in section 13 shall permit an Ombudsman to investigate any decision or r
 ### 15 House of Representatives may make rules for guidance of Ombudsmen
 (1) The House of Representatives may from time to time, if it thinks fit, make general rules for the guidance of the Ombudsmen in the exercise of their functions under this Act or under the Official Information Act 1982 or under the Local Government Official Information and Meetings Act 1987 or under the Protected Disclosures Act 2000, and may at any time in like manner revoke or vary any such rules.
 (2) Any such rules may authorise an Ombudsman from time to time, in the public interest or in the interests of any person or public service agency or organisation, to publish reports relating generally to the exercise of his functions under this Act or under the Official Information Act 1982 or under the Local Government Official Information and Meetings Act 1987 or under the Protected Disclosures Act 2000 or to any particular case or cases investigated by him, whether or not the matters to be dealt with in any such report have been the subject of a report to the House of Representatives under this Act.
-(3) All rules made under this section must be published under the Legislation Act 2012 as if they were legislative instruments, but they are not disallowable instruments for the purposes of that Act and do not have to be presented to the House of Representatives under section 41 of that Act.
+(3) Rules under this section—
+  (a) are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements); but
+  (b) come into force in accordance with the rules, even if they are not yet published.
+(4) The Clerk of the House of Representatives must lodge the rules with the Parliamentary Counsel Office for the purpose of publication under the Legislation Act 2019 (unless the rules are drafted by the Parliamentary Counsel Office).
 
 ### 16 Mode of complaint
 (1) A complaint to an Ombudsman may be made in writing or orally.
@@ -161,7 +165,7 @@ Nothing in section 13 shall permit an Ombudsman to investigate any decision or r
   (a) any person who is an officer or employee or member of any public service agency or organisation named or specified in Schedule 1 and who in the Ombudsman's opinion is able to give any such information as aforesaid; or
   (b) any complainant; or
   (c) with the prior approval of the Attorney-General in each case, any other person who in the Ombudsman's opinion is able to give any such information—
-(3) Subject to this section and to section 20(1), a person who is bound by the provisions of an enactment (being an Act or a legislative instrument within the meaning of the Legislation Act 2012 made by Order in Council) to maintain secrecy in relation to, or not to disclose, any matter may be required to supply any information to or answer any question put by an Ombudsman in relation to that matter, or to produce to an Ombudsman any document or paper or thing relating to it, even if compliance with that requirement would otherwise be in breach of the obligation of secrecy or non-disclosure.
+(3) Subject to this section and to section 20(1), a person who is bound by the provisions of an enactment (being an Act or secondary legislation within the meaning of the Legislation Act 2019 made by Order in Council) to maintain secrecy in relation to, or not to disclose, any matter may be required to supply any information to or answer any question put by an Ombudsman in relation to that matter, or to produce to an Ombudsman any document or paper or thing relating to it, even if compliance with that requirement would otherwise be in breach of the obligation of secrecy or non-disclosure.
 (4) Compliance with a requirement of an Ombudsman (being a requirement made pursuant to subsection (3)) is not a breach of the relevant obligation of secrecy or non-disclosure or of the enactment by which that obligation is imposed.
 (5) Every person shall have the same privileges in relation to the giving of information, the answering of questions, and the production of documents and papers and things as witnesses have in any court.
 (5A) In any investigation carried out under this Act pursuant to the Official Information Act 1982 or the Local Government Official Information and Meetings Act 1987, nothing in subsection (5) prevents an Ombudsman from—for the purpose of determining whether the information, document, paper, or thing would be properly withheld, but not so as to give the Ombudsman any information, or enable the Ombudsman to make any use of the information, document, paper, or thing that he or she would not, apart from this subsection, be entitled to.
@@ -219,7 +223,7 @@ Notwithstanding anything in section 21, an Ombudsman may from time to time under
 ### 22 Procedure after investigation
 (1) The provisions of this section shall apply in every case where, after making any investigation under this Act, an Ombudsman is of opinion that the decision, recommendation, act, or omission which was the subject matter of the investigation—
   (a) appears to have been contrary to law; or
-  (b) was unreasonable, unjust, oppressive, or improperly discriminatory, or was in accordance with a rule of law or a provision of any Act, regulation, or bylaw or a practice that is or may be unreasonable, unjust, oppressive, or improperly discriminatory; or
+  (b) was unreasonable, unjust, oppressive, or improperly discriminatory, or was in accordance with a rule of law or any legislation or a practice that is or may be unreasonable, unjust, oppressive, or improperly discriminatory; or
   (c) was based wholly or partly on a mistake of law or fact; or
   (d) was wrong.
 (2) The provisions of this section shall also apply in any case where an Ombudsman is of opinion that in the making of the decision or recommendation, or in the doing or omission of the act, a discretionary power has been exercised for an improper purpose or on irrelevant grounds or on the taking into account of irrelevant considerations, or that, in the case of a decision made in the exercise of any discretionary power, reasons should have been given for the decision.
@@ -313,6 +317,7 @@ Except as otherwise provided in this Act, all salaries and allowances and other 
 (2) The Governor-General may from time to time, by Order in Council, amend Part 2 or Part 3 of Schedule 1 by—
   (a) including therein the name of any local organisation or other organisation or the description of any class of local organisations or other organisations:
   (b) omitting from the said Part 2 or Part 3 the name of any local organisation or other organisation or the description of any class of local organisations or other organisations, whether that name or description appeared in that Part as initially enacted or was included therein by any other Act or any Order in Council.
+(3) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 32A Crimes of Torture Act 1989 not limited
 Nothing in this Act limits the operation of Part 2 of the Crimes of Torture Act 1989.
