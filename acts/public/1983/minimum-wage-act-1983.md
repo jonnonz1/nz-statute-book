@@ -1,11 +1,12 @@
 # Minimum Wage Act 1983
-_Consolidation as at 2018-11-26_
+_Consolidation as at 2021-10-28_
 
 > An Act to consolidate and amend the law relating to minimum wages
 
 ### 1 Short Title and commencement
 (1) This Act may be cited as the Minimum Wage Act 1983.
 (2) This Act shall come into force on a date to be appointed by the Governor-General by Order in Council.
+(3) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 2 Interpretation
 In this Act, unless the context otherwise requires,—
@@ -26,6 +27,7 @@ This Act shall bind the Crown.
   (a) who are aged 16 years or older; and
   (b) to whom any other minimum rate of wages prescribed under section 4A or 4B does not apply.
 (2) A rate prescribed under subsection (1) must be prescribed as a monetary amount.
+(3) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 4A Prescribed minimum starting-out rates of wages
 (1) The Governor-General may, by Order in Council, prescribe 1 or more minimum starting-out rates of wages payable to 1 or more classes of workers who—
@@ -69,6 +71,7 @@ This Act shall bind the Crown.
     (g) widow's benefit:
     (h) young parent payment:
     (i) youth payment.
+(7) An order under subsection (1) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 4B Prescribed minimum training rate of wages
 (1) The Governor-General may, by Order in Council, prescribe a minimum training rate payable to 1 or more classes of workers who—
@@ -78,6 +81,7 @@ This Act shall bind the Crown.
 (2) A rate prescribed under subsection (1) must not be less than 80% of the minimum adult rate prescribed under section 4 and may be prescribed as—
   (a) a monetary amount; or
   (b) a percentage of the minimum adult rate.
+(3) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 5 Annual review of minimum wages
 (1) The Minister of Labour shall, in each year ending on 31 December, review any minimum rate prescribed pursuant to section 4, 4A, or 4B.
@@ -163,7 +167,8 @@ Sections 137 and 138 of the Employment Relations Act 2000 apply to the non-obser
 (3) Where the maximum number of hours (exclusive of overtime) fixed by an employment agreement to be worked by any worker in any week is not more than 40, the parties to the agreement must endeavour to fix the daily working hours so that those hours are worked on not more than 5 days of the week.
 
 ### 12 Regulations
-The Governor-General may from time to time, by Order in Council, make all such regulations as may, in his opinion, be necessary or expedient for giving full effect to the provisions of this Act and for the due administration thereof.
+(1) The Governor-General may from time to time, by Order in Council, make all such regulations as may, in his opinion, be necessary or expedient for giving full effect to the provisions of this Act and for the due administration thereof.
+(2) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 13 Saving
 Nothing in this Act reduces or authorises any employer to reduce the wages being paid to any worker at the date of the commencement of this Act.
