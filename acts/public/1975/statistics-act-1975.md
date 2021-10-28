@@ -1,5 +1,5 @@
 # Statistics Act 1975
-_Consolidation as at 2020-08-07_
+_Consolidation as at 2021-10-28_
 
 > An Act to consolidate and amend the Statistics Act 1955; and to make provision for official statistics; for a department having the name Statistics New Zealand and the office of Government Statistician; and for the independence of the Statistician in the execution of his duties
 
@@ -186,6 +186,7 @@ The provisions of this Part shall apply with respect to the quinquennial census 
   (a) the date of the census:
   (b) details of where to seek advice and guidance related to the census:
   (c) details of how to obtain a schedule if one has not been received.
+(3A) A Proclamation under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 (4) Despite subsection (2), in the case of the 2013 census of population and dwellings, the Statistician must, by notice given in the Gazette as soon as practicable after the commencement of this subsection, appoint the day on which the census must be taken and the time with reference to which the particulars must relate.
 (5) The notice given under subsection (4) must be treated for all purposes as a Proclamation made under subsection (2), and subsection (3) applies with the necessary modifications.
 
@@ -301,6 +302,7 @@ Every person who can be lawfully required to provide information pursuant to thi
   (b) the information is being collected to enable the production of official statistics of any or all of the kinds described in section 4(a), (b), (d), and (i); and
   (c) the statistical validity of the information being collected will not be unduly compromised.
 (3) To avoid doubt, if the statistician has granted a waiver under subsection (2) in relation to any question, any person who would otherwise be required to answer the question does not commit an offence against section 43 if the person declines to answer the question.
+(4) A waiver under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 34 Completion of schedules by New Zealand agents of overseas traders carrying on business in New Zealand
 The provisions of this Act relating to the filling in, signing, and returning to the department of schedules and the answering of questions shall, in the case of a person residing outside New Zealand or a corporation incorporated outside New Zealand and in either case carrying on business in New Zealand, be complied with by the manager, attorney, or other agent of that person or corporation in New Zealand.
@@ -459,9 +461,11 @@ Despite anything to the contrary in section 25 of the Criminal Procedure Act 201
 (1) The Governor-General may from time to time, by Order in Council, make regulations for all or any of the following purposes:
   (a) prescribing kinds of statistics for which information may be required at any census of population and dwellings under Part 3 or for the purposes of any inquiry under this Act:
   (b) providing for such matters as are contemplated by or necessary for giving full effect to the provisions of this Act and for the due administration thereof.
+(1A) Regulations under subsection (1) are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 (2) The Governor-General may from time to time, by Order in Council, do all or any of the following things:
   (a) declare any agency of the Executive Government of New Zealand to be a government agency for the purposes of this Act:
   (b) provide for such matters as are contemplated by or necessary for giving effect to the provisions of this Act.
+(3) An Order in Council under subsection (2) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 50 Repeal and revocations
 (1) The Statistics Act 1955 is hereby repealed.
