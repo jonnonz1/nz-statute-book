@@ -1,5 +1,5 @@
 # Taxation (Budget 2021 and Remedial Measures) Act 2021
-_Consolidation as at 2021-05-24_
+_Consolidation as at 2021-10-28_
 
 ### 1 Title
 This Act is the Taxation (Budget 2021 and Remedial Measures) Act 2021.
@@ -9,6 +9,7 @@ This Act is the Taxation (Budget 2021 and Remedial Measures) Act 2021.
 (2) Sections 5, 6, 8(1) and (3), and 9(1) come into force on 1 April 2021.
 (3) Section 4 comes into force on 1 July 2021.
 (4) Sections 8(2) and (4), and 9(2) come into force on a date appointed by the Governor–General by Order in Council or, if not earlier brought into force, on 1 April 2022.
+(5) An Order in Council made under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ## Part 1 — Adjustments to Minimum Family Tax Credit
 
