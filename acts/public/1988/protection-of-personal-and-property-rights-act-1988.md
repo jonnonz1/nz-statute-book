@@ -1,5 +1,5 @@
 # Protection of Personal and Property Rights Act 1988
-_Consolidation as at 2021-01-30_
+_Consolidation as at 2021-10-28_
 
 > An Act to provide for the protection and promotion of the personal and property rights of persons who are not fully able to manage their own affairs
 
@@ -109,6 +109,7 @@ The primary objectives of a court on an application for the exercise of its juri
 (3) Every person who administers any property, income, or benefit pursuant to an order made under this section shall do so in such a way as to enable or encourage the person for whom he or she is acting to exercise and develop such capacity as that person has to the greatest extent possible.
 (4) In any order made under this section, the court shall specify a date, being not later than 3 years after the date of the order, by which the person appointed to administer the property is required to apply to the court for a review of the order.
 (5) The provisions of subsections (3) to (7) of section 31, sections 37, 43, 44, 49, and 50 (so far as it relates to expenses), and paragraphs (a), (b), and (e) of section 52, so far as they are applicable and with any necessary modifications, shall apply to every person appointed to administer any property under this Act.
+(6) An Order in Council under subsection (2)﻿(a) or (b) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 12 Court may appoint welfare guardian
 (1) Subject to the succeeding provisions of this section, on an application for the exercise of a court's jurisdiction under this Part, the court may make an order appointing a welfare guardian for the person in respect of whom the application is made in relation to such aspect or aspects of the personal care and welfare of that person as the court specifies in the order.
@@ -336,6 +337,7 @@ Where a kai tiaki trust is constituted under section 217 of Te Ture Whenua Maori
 (5) The trustee corporation shall make such inquiries and obtain such reports as it thinks necessary for the purposes of subsection (4).
 (6) On the filing of a copy of an application under subsection (4), the trustee corporation shall become the manager of the property specified in the application and shall have and may exercise in respect of that property the rights and powers specified in the application.
 (7) If, after filing a copy of an application under subsection (6), the gross value of the person's property is found to exceed $120,000 or such other amount as is, from time to time, prescribed by Order in Council for the purposes of this subsection at the time of such filing, the trustee corporation shall file in the court a memorandum stating that fact, and seeking the leave of the court to withdraw the application.
+(8) An Order in Council under subsection (1) or (7) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 34 When a person ceases to be subject to property order
 (1) A person shall cease to be subject to a property order where—
@@ -862,6 +864,7 @@ In this Part, unless the context otherwise requires,—
   (b) such authorised officer, by instrument in writing under his or her hand and seal, authorises Public Trust to collect, manage, sell, or otherwise dispose of and administer that property or to make inquiry respecting it,—
 (3) Subject to subsection (4), the powers, duties, and functions of Public Trust shall cease when Public Trust receives from an authorised officer in that country a certificate that the person to whom the certificate mentioned in subsection (2) related has died or is no longer an incapacitated person in that country.
 (4) Public Trust may pay over or deliver to an authorised officer in that country the balance of money or property received by Public Trust, after payment of all costs, charges, and expenses incurred in and about the exercise of those powers and after satisfying or providing for the debts and claims of all persons resident in New Zealand of whose debts or claims Public Trust has had notice, without seeing to its application and without incurring any liability in regard to any such payment or delivery; and shall duly account for it to such officer.
+(5) An Order in Council under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 92 Appointment of authorised officer in another country
 If it appears to the manager of a person subject to a property order in New Zealand that the person is possessed of or entitled to or interested in property in any country in respect of which an Order in Council under section 91(1) is for the time being in force, the manager may deliver to an authorised officer in that country a certificate to the effect that the person is subject to a property order, and may by instrument in writing under his or her hand (or seal, if a trustee corporation) authorise that officer to collect, manage, sell, or otherwise dispose of and manage such property, or to make inquiry respecting it.
@@ -872,6 +875,7 @@ If it appears to the manager of a person subject to a property order in New Zeal
 (3) On the sealing of the order or declaration under subsection (2), it shall, subject to subsection (4) and to any exceptions or modifications specified in the Order in Council, have the like force and effect and have the same operation, and every master, curator, administrator, guardian, committee, manager, or receiver acting under it shall perform the same duties and be subject to the same liabilities in New Zealand, as if it had been originally made by the court in New Zealand.
 (4) No such master, curator, administrator, guardian, committee, manager, or receiver appointed under any such order shall have or exercise any power or authority under it in New Zealand after it has been so sealed until his or her appointment has been confirmed by a court in New Zealand, which confirmation may be granted on such terms as the court thinks fit or may be refused.
 (5) This section shall apply to such orders and declarations, whether made before or after the commencement of this Act.
+(6) An Order in Council under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ## Part 9 — Enduring powers of attorney
 
@@ -1301,7 +1305,7 @@ Rules may be made regulating the practice and procedure of courts in proceedings
 (3) Rules to which this subsection applies that regulate the practice or procedure of the District Court continue to regulate the practice and procedure of the District Court until any rules referred to in section 111(b) come into force.
 
 ### 112 Regulations
-The Governor-General may from time to time, by Order in Council, make regulations—
+(1) The Governor-General may from time to time, by Order in Council, make regulations—
   (a) making provision for the determination of the amount of fees and expenses, including minimum and maximum amounts, payable in respect of professional services provided by lawyers appointed under section 65, which fees and expenses may differ according to the complexity of the proceedings and the time spent, and according to whether or not professional services are to be provided in a specified number of proceedings during a specified period:
   (b) making provision for the determination of the amount of fees and expenses, including minimum and maximum amounts, payable in respect of the preparation of reports requested pursuant to section 76, which fees and expenses may differ according to the type of report and the time spent, and according to whether or not professional services are to be available in a specified number of proceedings during a specified period:
   (ba) prescribing forms for enduring powers of attorney for the purposes of Part 9:
@@ -1311,6 +1315,7 @@ The Governor-General may from time to time, by Order in Council, make regulation
   (bd) prescribing forms that may be used for the suspension and revocation of enduring powers of attorney for the purposes of Part 9:
   (be) prescribing the form for the certificate of non-revocation and non-suspension of the enduring power of attorney for the purposes of section 103C(6):
   (c) providing for such other matters as are contemplated by or necessary for giving full effect to the provisions of this Act and for its due administration.
+(2) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 113 Reference to Aged and Infirm Persons Protection Act 1912 and Part 7 of the Mental Health Act 1969 in other Acts
 Unless the context otherwise requires, in any other enactment, or in any regulation, rule, order, agreement, deed, instrument, application, or other document in force at the commencement of this Act every reference to the Aged and Infirm Persons Protection Act 1912 or Part 7 of the Mental Health Act 1969 shall hereafter be read as a reference to this Act.
@@ -1432,6 +1437,9 @@ For the purpose of exercising the powers conferred by this Act, where appropriat
 ### 3
 In this schedule the expression the specified sum means $120,000 or such other amount as is, from time to time, prescribed by Order in Council for the purposes of this clause.
 
+### 4
+An Order in Council under clause 3 is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+
 ## Schedule 2 — Further powers of Public Trust as manager
 
 ### 1
@@ -1440,6 +1448,9 @@ provided that Public Trust shall not, without the consent of the court, advance 
 
 ### 2
 In this schedule the expression the specified sum means $120,000 or such other amount as is, from time to time, prescribed by Order in Council for the purposes of this clause.
+
+### 3
+An Order in Council under clause 2 is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ## Schedule 3 — Form of enduring power of attorney in relation to property
 
