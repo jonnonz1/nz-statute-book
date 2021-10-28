@@ -1,5 +1,5 @@
 # Cancer Registry Act 1993
-_Consolidation as at 2013-07-01_
+_Consolidation as at 2021-10-28_
 
 > An Act to make better provision for the compilation of a statistical record of the incidence of cancer in its various forms, to provide a basis for the better direction of programmes for research and for cancer prevention
 
@@ -42,7 +42,7 @@ This Act binds the Crown.
 ### 6 Director-General may require supply of further information
 (1) Where any report made under section 5 is incomplete in any respect by reason that the person making the report does not have available to that person certain information necessary to enable a complete report to be made, the Director-General may, for the purpose of obtaining that information, by notice in writing require any person (being a medical practitioner or the person in charge of any hospital) that the Director-General reasonably believes may have all or any of that information to provide to the Director-General such information as may be specified in the notice.
 (2) Every person to whom a notice is given under this section and who has any of the information specified in that notice shall provide that information within such time, and in such form and manner, as may be specified in the notice.
-(3) In subsection (1), medical practitioner means a health practitioner who is, or is deemed to be, registered with the Medical Council of New Zealand continued by section 114(1)(a) of the Health Practitioners Competence Assurance Act 2003 as a practitioner of the profession of medicine.
+(3) In subsection (1), medical practitioner means a health practitioner who is, or is deemed to be, registered with the Medical Council of New Zealand continued by section 114(1)﻿(a) of the Health Practitioners Competence Assurance Act 2003 as a practitioner of the profession of medicine.
 
 ### 7 Protection against actions
 (1) No proceedings, civil or criminal, shall lie against any person by reason of that person having made available any information for the purposes of complying with the requirements of section 5 or section 6(2).
@@ -54,8 +54,9 @@ Every person commits an offence and is liable on conviction to a fine not exceed
   (b) knowingly supplies information that is false or misleading in purported compliance with section 5 or section 6(2).
 
 ### 9 Regulations
-The Governor-General may from time to time, by Order in Council, make regulations for all or any of the following purposes:
+(1) The Governor-General may from time to time, by Order in Council, make regulations for all or any of the following purposes:
   (a) prescribing the form and manner in which reports are to be made to the Director-General under section 5:
   (b) prescribing the time within which reports are to be made to the Director-General under section 5:
   (c) declaring any type of cancer to be a cancer to which this Act does not apply:
   (d) providing for such other matters as are contemplated by or necessary for giving full effect to this Act and for its due administration.
+(2) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
