@@ -1,5 +1,5 @@
 # Prisoners' and Victims' Claims Act 2005
-_Consolidation as at 2020-12-01_
+_Consolidation as at 2021-10-28_
 
 ### 1 Title
 This Act is the Prisoners’ and Victims’ Claims Act 2005.
@@ -287,11 +287,12 @@ Nothing in this subpart prevents a person under control or supervision from comp
     (c) an order under section 283(f) or (g) of the Oranga Tamariki Act 1989; or
     (d) an order that—
       (i) requires the payment of an amount to compensate, or to make restitution to, the victim of an offence against an enactment; and
-      (ii) is declared by the Governor-General, by Order in Council, to be an order of reparation for the purposes of Part 3 of the Summary Proceedings Act 1957.
+      (ii) is declared by the Governor-General, by Order in Council (see subsection (4)), to be an order of reparation for the purposes of Part 3 of the Summary Proceedings Act 1957.
 (3) Subsection (1)﻿(b) applies regardless of the conditions of a relevant sentence of reparation or order of reparation, for example, any conditions in respect of the following matters:
   (a) whether the total amount of reparation to be paid is to be paid in 1 lump sum or in instalments:
   (b) if the amount is to be paid in 1 lump sum, whether it is to be paid immediately or at some specified future date:
   (c) if the amount is to be paid in instalments, the frequency and amounts of the instalments.
+(4) An order under paragraph (d)﻿(ii) of the definition of order of reparation in subsection (2) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 19 Status of money paid to Secretary or into account
 (1) Money paid into the account, or to the Secretary, in accordance with this subpart, may be paid out only in accordance with this subpart or regulations made under section 57.
@@ -656,10 +657,11 @@ The Secretary must ensure that money is paid out of the account, and that the ac
   (b) the person claims the money and establishes that claim to the satisfaction of the Treasury.
 
 ### 57 Regulations on operation and auditing of account
-The Governor-General may, by Order in Council, make regulations for all or any of the following purposes:
+(1) The Governor-General may, by Order in Council, make regulations for all or any of the following purposes:
   (a) providing for the circumstances and manner in which money may or must be paid out of the account:
   (b) providing for the manner in which, and the conditions subject to which, the Secretary may or must otherwise operate the account:
   (c) providing for the manner and timing of the auditing of the account.
+(2) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 **Victims’ Special Claims Tribunals**
 
