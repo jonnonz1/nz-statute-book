@@ -1,5 +1,5 @@
 # Marine Reserves Act 1971
-_Consolidation as at 2018-12-21_
+_Consolidation as at 2021-10-28_
 
 > An Act to provide for the setting up and management of areas of the sea and foreshore as marine reserves for the purpose of preserving them in their natural state as the habitat of marine life for scientific study
 
@@ -66,6 +66,7 @@ In this Act, unless the context otherwise requires,—
 (4) Subject to subsection (5), and to section 25, nothing in this Act or regulations made under this Act shall affect the Coal Mines Act 1979, the Mining Act 1926, the Mining Act 1971, the Petroleum Act 1937, the Iron and Steel Industry Act 1959, or the Continental Shelf Act 1964.
 (5) The right to do anything in a marine reserve by virtue of a mining interest (whether in force at, or after, the commencement of this Act) may, notwithstanding anything in the interest or in any of the Acts mentioned in subsection (4), be made subject to this Act or to any provision of it by the Minister of Mines, with the concurrence of the Minister, so notifying in writing the holder of the interest.
 (6) If the right to do anything in a marine reserve by virtue of a mining interest is made subject to this Act or to any provision of this Act, it may continue to be exercised in the marine reserve only to the extent that it can be exercised in accordance with this Act or with the provision, as the case may be; and if it cannot be exercised in accordance with this Act or with the particular provision of this Act, it shall not be exercised at all.
+(7) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 5 Procedure for declaring a marine reserve
 (1) No Order in Council shall be made under section 4 unless—
@@ -166,7 +167,7 @@ The New Zealand Conservation Authority shall bring to the attention of the Direc
 (3) The Director-General shall supply to every ranger a written warrant signed by himself or on his behalf evidencing the appointment, and the production of that warrant shall be sufficient proof of the appointment.
 (4) Any ranger may at any time be removed from office by the Director-General for incapacity, neglect of duty, or misconduct, or may at any time resign his office by writing addressed to the Director-General.
 (5) Any ranger shall, on the expiration of the term of his appointment, or on the sooner expiry of his appointment by removal from office or resignation, surrender to the Director-General his warrant of appointment and any badge of office that may have been issued to him.
-(6) No person appointed by the Director-General under this section to be a ranger shall by virtue of that appointment be deemed to be employed in the service of Her Majesty for the purposes of the State Services Act 1962 or of the Government Superannuation Fund Act 1956.
+(6) No person appointed by the Director-General under this section to be a ranger shall by virtue of that appointment be deemed to be employed in the service of the Sovereign for the purposes of the State Services Act 1962 or of the Government Superannuation Fund Act 1956.
 (7) Every constable, every person appointed as a fishery officer under subsection (1) or deemed to have been appointed as a fishery officer by subsection (4) of section 76 of the Fisheries Act 1983, and every person appointed as a warranted officer under subsection (1) or deemed to have been appointed as a warranted officer by subsection (9) of section 59 of the Conservation Act 1987, shall by virtue of that person's office be deemed to be a ranger appointed by the Director-General to exercise the duties of a ranger under this Act generally in marine reserves throughout New Zealand.
 
 ### 18 General powers of rangers
@@ -395,6 +396,7 @@ A person who commits an infringement offence is liable on conviction to—
     (i) in the case of infringement fees, must not be more than $1,000; and
     (ii) in the case of maximum fines, must not be more than twice the amount of the infringement fee for the offence:
   (i) prescribe information to be included in infringement notices and reminder notices.
+(3) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 25 Consequential amendment
 [Repealed]
