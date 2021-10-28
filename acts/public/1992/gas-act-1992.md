@@ -1,5 +1,5 @@
 # Gas Act 1992
-_Consolidation as at 2021-07-13_
+_Consolidation as at 2021-10-28_
 
 > Title
 
@@ -38,7 +38,7 @@ The purposes of this Act are—
   - **fittings** means everything used, or designed or intended for use, in or in connection with the supply, distribution, compression, or use of gas
   - **gas** means any fuel that is supplied through pipes or in containers and is a gas at a temperature of 15°C and an absolute pressure of 101.325 kilopascals; and includes—
     (a) biogas, coal gas, liquefied petroleum gas, natural gas, oil gas, producer gas, refinery gas, reformed natural gas, and tempered liquefied petroleum gas:
-    (b) any gaseous substance that the Governor-General declares by Order in Council to be a gas for the purposes of this Act:
+    (b) any gaseous substance that the Governor-General declares by Order in Council to be a gas for the purposes of this Act (see subsection (4)):
     (c) any mixture of gases
   - **gas appliance** means any appliance that uses, or is designed or intended to use, gas, whether or not it also uses, or is designed or intended to use, any other form of energy
   - **gas code of practice** or means a gas code of practice issued pursuant to section 37
@@ -114,6 +114,7 @@ The purposes of this Act are—
   - **WorkSafe** means WorkSafe New Zealand established by section 5 of the WorkSafe New Zealand Act 2013.
 (2)
 (3) Any notice required or authorised by this Act to be served on any person shall be delivered to that person, and may be delivered either personally or by posting it to that person at the person’s last known place of abode or business in New Zealand. A notice so posted shall be deemed to have been served at the time when the letter would in the ordinary course of post be delivered.
+(4) An order under paragraph (b) of the definition of gas in subsection (1) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 3 Application
 (1) Subject to subsection (2), and except as expressly provided elsewhere in this Act, or in any other Act, this Act shall apply to every gas distributor, every gas retailer, and every consumer.
@@ -130,6 +131,7 @@ The purposes of this Act are—
   (g) any container used, or designed or intended to be used, for the storage of gas:
   (h) any liquefied petroleum gas that is in a liquid form and is in a pipe.
 (3) Despite subsection (2)﻿(d), that paragraph does not apply in relation to Part 4A and, accordingly, Part 4A applies to any gas used as a feedstock.
+(4) An order under subsection (2)﻿(b) or (c) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 3A Transitional, savings, and related provisions
 The transitional, savings, and related provisions set out in Schedule 1AA have effect according to their terms.
@@ -582,8 +584,9 @@ The dispute resolution scheme may resolve disputes between members of the disput
 (5) The Minister of Consumer Affairs may amend or revoke an individual exemption, by issuing a notice in the Gazette that identifies the exempt participant and gives reasons for the amendment or revocation, but only if the Minister—
   (a) has given notice of the proposed amendment or revocation to the exempt person (where possible) and given the person a reasonable opportunity to comment on the proposal; and
   (b) is satisfied that the amendment or revocation is necessary or desirable in order to meet the purpose of the dispute resolution scheme.
-(6) To avoid doubt, an individual exemption notice issued under subsection (3)﻿(b) is not a regulation for any purpose.
+(6)
 (7) The Ministry must include on its Internet site a list of all current class and individual exemptions.
+(8) Regulations under subsection (3A) are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 43EB Compliance with rules and binding settlements
 (1) Members of the dispute resolution scheme must comply with the rules of the scheme.
@@ -626,6 +629,7 @@ The dispute resolution scheme may resolve disputes between members of the disput
   (e) information about an industry participant or a consumer (other than a domestic consumer) that has, or may have, a significant impact on other industry participants or consumers:
   (f) information to help other industry participants or consumers (other than domestic consumers) to make informed decisions in connection with the gas industry.
 (4) Nothing in subsection (2)﻿(a) to (e) or section 43G limits subsection (2)﻿(f).
+(5) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 43G Other gas governance regulations
 (1) The Governor-General may, by Order in Council made on the recommendation of the Minister in accordance with sections 43I to 43P, make regulations for all or any of the purposes in subsection (2).
@@ -642,6 +646,7 @@ The dispute resolution scheme may resolve disputes between members of the disput
   (j) providing for the operation and facilitation of those dispute resolution procedures by a person, and the powers and procedures of that person:
   (k) providing for compliance with gas governance regulations and rules to be monitored and enforced by the industry body or the Commission or any other person or court, and the powers and procedures of that person or court:
   (l) providing for processes for settling particular issues within the gas industry that may result in recommendations for gas governance regulations or rules, and requiring compliance by industry participants, the industry body, and the Commission with those processes, including compliance with requirements to produce documents as part of those processes.
+(3) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 43H Low fixed charge tariff option for domestic consumers
 (1) The objective of this section is to enable the making of regulations to ensure that gas providers offer a low fixed charge tariff option or options for delivered gas to domestic consumers that will assist low-use consumers and encourage energy conservation.
@@ -668,6 +673,7 @@ The dispute resolution scheme may resolve disputes between members of the disput
 (10) The Governor-General may, by Order in Council made on the recommendation of the Minister in accordance with sections 43I to 43P, make regulations providing for the supply and collection of information from gas providers and gas distributors—
   (a) about contracts, offers, advertising, or promotion relating to the supply of delivered gas, or components of delivered gas, to domestic consumers; or
   (b) information that is necessary for the purposes of calculating the total charge for the low-use domestic consumer.
+(11) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 **Process for making recommendations for gas governance regulations**
 
@@ -752,25 +758,16 @@ Sections 43L and 43N (which relate to consultation and assessments) do not apply
   (b) the subject matter of the rule, including whether the rule contains detailed or technical matters rather than matters of general principle:
   (c) the application of the rule, including—
     (i) whether the rule applies principally to a particular group (eg, industry participants) rather than the general public:
-    (ii) whether the benefits of publication in accordance with section 43R rather than the Legislation Act 2012 outweigh the costs of publication by that method:
+    (ii)
   (d) the expertise and rule-making procedures of the recommending body.
 (3) If the Minister makes, or the recommending body recommends, a rule for a purpose for which a gas governance regulation may be made, sections 43I to 43P apply (with necessary modifications) as if the rule were a gas governance regulation.
-(4) Section 43R applies to the method of making the rule.
-(5) A rule is a disallowable instrument, but not a legislative instrument, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
+(4)
+(5) Rules under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 (6) To the extent that a rule is inconsistent with a gas governance regulation, the rule is subject to the gas governance regulation.
 (7) A rule that is found by a court to be invalid solely because of a contravention of subsection (2) may not be declared to be invalid with effect earlier than 6 months after the date of the declaration.
 
 ### 43R Method of making gas governance rules
-(1) A rule may be made under section 43Q by the Minister publishing a notice in the Gazette that states—
-  (a) the empowering provision for the gas governance regulation in relation to which the rule is made and a brief description of the nature of the rule; and
-  (b) where copies of the rule are available for inspection and purchase.
-(2) The notice in the Gazette need not contain the rule.
-(3) A rule comes into force 28 days after the date on which it is notified in the Gazette or on any later date stated in the notice.
-(4) The Minister and the recommending body must make all of the rules made under section 43Q available to the public by making copies of them available—
-  (a) for inspection, free of charge,—
-    (i) at the head office of the Ministry and the principal office of the recommending body (during ordinary office hours); and
-    (ii) on the Internet in an electronic form that is publicly accessible (at all reasonable times); and
-  (b) for purchase at a reasonable price.
+[Repealed]
 
 **Supplementary provisions**
 
@@ -788,6 +785,9 @@ Sections 43L and 43N (which relate to consultation and assessments) do not apply
   (i) provide for any other matters contemplated by this Act or necessary for its administration or necessary for giving it full effect.
 (2) Regulations or rules that may be made in respect of all industry participants or classes of industry participants may be made in respect of all or any of the persons in that class and in respect of all or part of their business.
 (3) In this subpart, unless the context otherwise requires, terms and conditions includes both contractual matters and other types of arrangements and requirements.
+(4) If regulations or rules authorise a person to grant exemptions referred to in subsection (1)﻿(f),—
+  (a) an exemption is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements), unless it applies only to 1 or more named persons; and
+  (b) the regulations or rules must contain a statement to that effect.
 
 ### 43TA Regulations may provide for pecuniary penalties for consumers (other than domestic consumers)
 (1) Any regulations made under this subpart may do 1 or more of the following:
@@ -929,12 +929,14 @@ The purpose of this subpart is to provide for co-regulation of the gas industry 
   (b) is a director, officer, member, employee, or trustee of an industry participant; or
   (c) is otherwise directly or indirectly materially interested in an industry participant.
 (4) The references to industry participants in subsection (2)﻿(a) and (e) do not include service providers appointed under any gas governance regulations.
+(5) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 43ZM Revocation of approval of industry body
 (1) The Governor-General may, by Order in Council made on the recommendation of the Minister, revoke any approval given under section 43ZL.
 (2) Before making a recommendation for the revocation of the approval of an industry body, the Minister must—
   (a) consult with the industry body; and
   (b) be satisfied either that a Commission has been, or is to be, established or that the industry body has ceased to be a body that meets the criteria in section 43ZL.
+(3) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 **Objectives of industry body in relation to recommendations for gas governance regulations**
 
@@ -1099,6 +1101,10 @@ For the purposes of the audit of any financial statements referred to in section
 (5) Every industry participant (or prescribed class of industry participants) must pay to the industry body the levy that is prescribed.
 (6) The amount of any unpaid levy is recoverable in any court of competent jurisdiction as a debt due to the industry body.
 (7) The levy regulations may exempt or provide for exemptions from, or provide for waivers of, the whole or any part of the levy for any case or class of cases.
+(8) Levy regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+(9) If regulations authorise a person to grant exemptions or waivers referred to in subsection (7),—
+  (a) an instrument granting an exemption or a waiver is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements), unless it applies only in a particular case; and
+  (b) the regulations must contain a statement to that effect.
 
 ### 43ZZF Expiry of subpart
 (1) This subpart expires on the date on which subpart 3 comes into force.
@@ -1193,7 +1199,9 @@ Every person commits an offence and is liable on conviction to a fine not exceed
     (i) authorising, controlling, and prescribing conditions in respect of, the design, construction, installation, maintenance, use, management, inspection, and testing of distribution systems or gas installations:
     (ii) authorising, controlling, and prescribing conditions in respect of, the design, installation, manufacture, maintenance, use, inspection, importation, sale, and testing of gas appliances or fittings used or intended to be used in the application of gas:
     (iii) prohibiting the manufacture, importation, sale, and use of such gas appliances and fittings as do not satisfy any prescribed tests, standards, or safety criteria:
-    (iv) requiring such types or categories of gas appliances and fittings as are specified in the regulations, or as are from time to time declared by WorkSafe by public notice to be subject to the regulations, to be approved by WorkSafe before being offered for sale in New Zealand; providing for the giving of such approval, for the specifying by WorkSafe of conditions subject to which such approval may be given, for the variation or withdrawal of any such approval, and for the revocation, variation, or addition of any condition of any such approval; and prescribing circumstances in which types or categories of gas appliances or fittings are deemed to be approved by WorkSafe for the purposes of the regulations:
+    (iv) requiring such types or categories of gas appliances and fittings as are—to be approved by WorkSafe before being offered for sale in New Zealand; providing for the giving of such approval, for the specifying by WorkSafe of conditions subject to which such approval may be given, for the variation or withdrawal of any such approval, and for the revocation, variation, or addition of any condition of any such approval; and prescribing circumstances in which types or categories of gas appliances or fittings are deemed to be approved by WorkSafe for the purposes of the regulations:
+      (A) specified in the regulations; or
+      (B) from time to time declared by WorkSafe to be subject to the regulations (see subsection (9))—
     (v) authorising, controlling, restricting, prescribing conditions in respect of, and, where necessary, prohibiting, the construction, installation, use, management, operation, maintenance, transportation, and movement of any structure, device, thing, or substance, whether fixed or movable and whether permanent or temporary, in the vicinity of any fittings or where any fittings may affect or be affected by the structure, device, thing, or substance:
     (vi) controlling the existence and location of the whole or any part of any tree or vegetation that is in the vicinity of, or may affect, any fittings:
   (bb) prescribing requirements for safety management systems:
@@ -1238,11 +1246,21 @@ Every person commits an offence and is liable on conviction to a fine not exceed
 (2A) Regulations may require compliance with an official standard (or a specified part of an official standard) that relates to the subject matter of the regulations by referring to it in the regulations (with any additions or variations that may be specified in the regulations).
 (2B) That official standard (or the specified part), as it existed on the date of the inclusion (but with any specified additions or variations) is then deemed to form part of the regulations.
 (3) Without limiting paragraph (b) of subsection (1), regulations made under subparagraph (iv) of that paragraph may require types or categories of gas measurement systems to be approved by WorkSafe before being offered for sale in New Zealand, notwithstanding that such approval is not required for the purposes of securing the protection of persons and property from injury or damage caused through gas, either directly or indirectly.
-(4) Without limiting the Interpretation Act 1999, no regulation made under this section shall be invalid because it leaves any matter to the discretion of WorkSafe, the Secretary, or any other person, or because it authorises WorkSafe, the Secretary, or any other person—
+(4) No regulation made under this section is invalid because it leaves any matter to the discretion of WorkSafe, the Secretary, or any other person, or because it authorises WorkSafe, the Secretary, or any other person—
   (a) to give any consent or approval on or subject to conditions to be imposed or approved by the Secretary or any other person; or
   (b) to set any standard.
-(5) Notwithstanding section 1(3), and without limiting section 11 of the Interpretation Act 1999, no regulation made under this section may be expressed to come into force before 1 April 1993.
+(5) Notwithstanding section 1(3), and without limiting sections 43 and 44 of the Legislation Act 2019, no regulation made under this section may be expressed to come into force before 1 April 1993.
 (6) The Minister, before recommending the making of any regulations under this section, must consult the Environmental Protection Authority established by section 7 of the Environmental Protection Authority Act 2011 about the contents of such regulations and shall take into account any submissions made by that Authority.
+(7) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+(8) Subpart 1 of Part 3 and section 114 of the Legislation Act 2019 do not apply to material that is incorporated by reference in regulations under subsections (2) to (2B) merely because it is incorporated.
+(9) Subsection (10) applies if regulations made under this section authorise any of the following:
+  (a) WorkSafe to make a declaration referred to in subsection (1)﻿(b)﻿(iv)﻿(B):
+  (b) WorkSafe to issue instructions, orders, or requirements referred to in subsection (1)﻿(n)﻿(i):
+  (c) WorkSafe or the chief executive to grant exemptions referred to in subsection (1)﻿(o):
+  (d) a person to grant exemptions referred to in subsection (1)﻿(p).
+(10) If this subsection applies,—
+  (a) an instrument exercising that authority is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements), unless it applies only to 1 or more named persons; and
+  (b) the regulations must contain a statement to that effect.
 
 ### 54A Regulations that prescribe requirements for safety management systems
 (1) Regulations made under section 54(1)﻿(bb) must provide for requirements relating to—
@@ -1304,8 +1322,12 @@ Every person commits an offence and is liable on conviction to a fine not exceed
   (j) requiring gas distributors and gas retailers, in charging for the conveyance of gas, or the supply of gas, or both, to disclose, in the prescribed manner, charges, or components of charges, or both:
   (k) exempting or providing for the exemption of any person or class of persons from all or any of the requirements of any regulations made under this subsection.
 (2) The regulations may not require the disclosure of the names of the parties to, or the terms and conditions of, contracts made before 1 August 1990 but, if the contract is modified after that date, the regulations may require the disclosure of information as to the modification, the term or condition that has been modified (including its context), and the names (or characteristics) of the parties.
-(3) Notwithstanding section 1(3) of this Act, and without limiting section 11 of the Interpretation Act 1999, no regulations made under this section may be expressed to come into force before 1 April 1993.
+(3) Notwithstanding section 1(3) of this Act, and without limiting sections 43 and 44 of the Legislation Act 2019, no regulations made under this section may be expressed to come into force before 1 April 1993.
 (4) References in this section to pipeline owners, gas wholesalers, gas retailers, and gas distributors include any person that is or was such a person for any part of a financial year.
+(5) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+(6) If regulations authorises a person to grant exemptions referred to in subsection (1)﻿(k),—
+  (a) an exemption is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements), unless it applies only to 1 or more named persons; and
+  (b) the regulations must contain a statement to that effect.
 
 ### 56 Information to be supplied to Secretary
 (1) Every person who is required by regulations made under section 55 to make available statements and information shall supply to the Secretary—
