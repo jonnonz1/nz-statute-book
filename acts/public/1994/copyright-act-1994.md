@@ -1,5 +1,5 @@
 # Copyright Act 1994
-_Consolidation as at 2020-08-07_
+_Consolidation as at 2021-10-28_
 
 > An Act to consolidate and amend the law relating to copyright
 
@@ -161,7 +161,7 @@ _Consolidation as at 2020-08-07_
     (b) excludes an impairment of visual function that can be improved, by the use of corrective lenses, to a level that is normally acceptable for reading without a special level or kind of light
   - **proceedings** includes a counterclaim; and references to the plaintiff and to the defendant in proceedings shall be construed accordingly
   - **published edition** means a published edition of the whole or any part of 1 or more literary, dramatic, or musical works
-  - **regulations** includes instruments published under Part 2 of the Legislation Act 2012 or under any corresponding former enactment
+  - **regulations** includes any other secondary legislation or instruments published under Part 2 of the Legislation Act 2012 or under any corresponding former enactment
   - **rental** means any arrangement under which a copy of a work is made available—on terms that it will or may be returned
     (a) for payment (in money or money's worth); or
     (b) in the course of a business, as part of services or amenities for which payment is made,—
@@ -441,9 +441,9 @@ Copyright in a typographical arrangement of a published edition expires at the e
 ### 27 No copyright in certain works
 (1) No copyright exists in any of the following works, whenever those works were made:
   (a) any Bill introduced into the House of Representatives:
-  (b) any Act as defined in section 29 of the Interpretation Act 1999:
+  (b) any Act:
   (c) any regulations:
-  (d) any bylaw as defined in section 2 of the Bylaws Act 1910:
+  (d)
   (e) the New Zealand Parliamentary Debates:
   (f) reports of select committees laid before the House of Representatives:
   (g) judgments of any court or tribunal:
@@ -455,6 +455,7 @@ Copyright in a typographical arrangement of a published edition expires at the e
 (1B) Except as specified in subsection (1A), nothing in subsection (1) affects copyright in any work that is incorporated by reference in a work referred to in subsection (1).
 (1C) Subsection (1A) does not affect copyright in any New Zealand Standard (as that term is defined in the Standards and Accreditation Act 2015).
 (2) Subsection (1) shall come into force on a date to be appointed by the Governor-General by Order in Council; and 1 or more Orders in Council may be made appointing different dates for different paragraphs of that subsection.
+(3) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 28 Copyright vesting in certain international organisations
 (1) Where an original work (being a literary, dramatic, musical, or artistic work or a film) is made by an officer or employee of, or is published by, an international organisation to which this section applies,—
@@ -468,6 +469,7 @@ Copyright in a typographical arrangement of a published edition expires at the e
 (5) The Governor-General may from time to time, by Order in Council,—
   (a) declare that any international organisation is an international organisation to which this section applies:
   (b) for the purposes of complying with any international obligation of New Zealand, specify a period for the purposes of paragraph (a) or paragraph (b) of subsection (2).
+(6) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ## Part 2 — Infringement of copyright
 
@@ -861,6 +863,7 @@ A copy of a work to which section 53 or 54 applies must not be supplied in a dig
   - **appropriate person** means the person required to make the material open to public inspection or public reference or, as the case may be, the person maintaining the register
   - **statutory register** means a register maintained pursuant to a statutory requirement
   - **statutory requirement** means a requirement imposed by a provision of an enactment.
+(7) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 62 Material communicated to the Crown in course of public business
 (1) This section applies where—
@@ -1803,7 +1806,7 @@ The rights conferred by Part 4 are not assignable.
   (b) in the case of an infringement notice, the date on which it is issued by the IPAP:
   (c) in the case of a challenge made under section 122G, the date on which it is received from an account holder by an IPAP:
   (d) in the case of a response to a challenge, the date on which the IPAP receives the response from the rights owner.
-(4) Despite section 35(6) of the Interpretation Act 1999, for the purposes of this section and sections 122B to 122U, periods of time end on the day calculated, whether or not that day is a working day.
+(4) Despite section 55 of the Legislation Act 2019, for the purposes of this section and sections 122B to 122U, periods of time end on the day calculated, whether or not that day is a working day.
 (5) Examples used in this section and sections 122B to 122U are illustrative only. If an example is inconsistent with any provision, the provision prevails.
 
 ### 122B Overview of infringing file sharing regime
@@ -2012,6 +2015,7 @@ The rights conferred by Part 4 are not assignable.
 ### 122R Suspension orders and orders under section 122Q not available until date set by Order in Council
 (1) No person may apply to the District Court for a suspension order under section 122P, or for an order under section 122Q, until after the date set by Order in Council under this section.
 (2) The Governor-General may, by Order in Council made on the recommendation of the Minister, set a date after which applications for orders under sections 122P and 122Q may be made.
+(3) An order under subsection (2) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 122S Application of section 122C to cellular mobile networks
 (1) An IPAP need not comply with either of the obligations in section 122C(1) in respect of the services it provides by way of a cellular mobile network.
@@ -2022,6 +2026,7 @@ The rights conferred by Part 4 are not assignable.
   (c) amend subsection (2) by replacing the date specified in that subsection with any other date, whether that date is earlier or later than the one it replaces:
   (d) revoke or amend any Order in Council made under this section (the principal order), but only if the repeal, amendment, or revocation effected by the principal order has not taken effect.
 (4) The powers in subsection (3) may be exercised more than once.
+(5) An order under subsection (3) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 122T Obligations of IPAPs
 (1) Every IPAP must retain, for a minimum of 40 days, information on the allocation of IP addresses to each account holder.
@@ -3650,6 +3655,7 @@ Where any body corporate is convicted of an offence against section 198 or secti
   (a) the State and the territory (or 1 or more of the territories) concerned; or
   (b) just the State; or
   (c) just the territory (or 1 or more of the territories) concerned.
+(5) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ## Part 10 — Copyright Tribunal
 
@@ -3937,6 +3943,7 @@ In sections 226A to 226E, unless the context otherwise requires,—
   - **librarian** includes a person acting on behalf of the librarian
   - **prescribed library** has the same meaning as in section 50(1).
 (6) In this section and in section 226E, encryption research means identifying and analysing flaws and vulnerabilities of encryption technology.
+(7) An order under subsection (3)﻿(d) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 226E User’s options if prevented from exercising permitted act by TPM
 (1) Nothing in this Act prevents any person from using a TPM circumvention device to exercise a permitted act.
@@ -4018,6 +4025,7 @@ In sections 226G, 226H, and 226J, CMI or copyright management information means 
   (b) provide that section 228 applies in relation to such programmes and to encrypted transmissions sent from such a country or territory.
 (2) No such order shall be made unless it appears to the Governor-General that provision has been or will be made under the laws of that country or territory giving adequate protection to persons making charges for programmes included in communication works provided from New Zealand or, as the case may be, for encrypted transmissions sent from New Zealand.
 (3) Where sections 227 and 228 apply in relation to a communication work, they also apply to any service run for the person providing that service, or a person providing programmes for that service, where the service so run consists wholly or mainly in the sending by means of a telecommunications system of sounds or visual images, or both.
+(4) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 230 Application to convention countries
 (1) Subject to subsection (2), the provisions of this Act, other than the provisions of Part 9, shall—until the close of 31 December 1995 or, in relation to any particular convention country, the coming into force in respect of that convention country of an Order in Council made under section 232, whichever is the earlier.
@@ -4060,6 +4068,7 @@ In sections 226G, 226H, and 226J, CMI or copyright management information means 
   (a) an unpublished work is of unknown authorship, but there are reasonable grounds to suppose that the author was at the material time a citizen or subject of, or domiciled or resident in, an entity other than New Zealand; and
   (b) an order under this section has applied a provision of this Act to that entity so that it applies to persons who are citizens or subjects of the entity, or are domiciled or resident there, as it applies to persons who are citizens or subjects of, or domiciled or resident in, New Zealand; and
   (c) a person is authorised under the law of or applicable to the entity to represent the author, or protect and enforce the rights of the author in relation to the work,—
+(7) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 233 Denial of copyright to persons connected with countries not giving adequate protection to New Zealand works
 (1) Whenever it appears to the Governor-General that the law of a country, other than a convention country, fails to give adequate protection to copyright in New Zealand works, or to 1 or more classes of such works, the Governor-General may by Order in Council make provision in accordance with this section restricting the rights conferred by this Act in relation to that country.
@@ -4070,6 +4079,7 @@ In sections 226G, 226H, and 226J, CMI or copyright management information means 
 (4) In this section,—
   - **New Zealand works** means works of which the author was at the material time a person to whom section 18 applied
   - **works** means literary, dramatic, musical, and artistic works, sound recordings, and films.
+(5) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 234 Regulations
 The Governor-General may from time to time, by Order in Council, make regulations for all or any of the following purposes:
