@@ -1,5 +1,5 @@
 # Biosecurity Act 1993
-_Consolidation as at 2020-12-01_
+_Consolidation as at 2021-10-28_
 
 > An Act to restate and reform the law relating to the exclusion, eradication, and effective management of pests and unwanted organisms
 
@@ -230,6 +230,7 @@ _Consolidation as at 2020-12-01_
     (ac) if Waitangi Day or Anzac Day falls on a Saturday or a Sunday, the following Monday; and
     (b) a day in the period commencing on 20 December in any year and ending with 15 January in the following year
   - **written** or means printed, typewritten, or otherwise visibly represented, copied, or reproduced, including by fax, email, or other electronic means.
+(2) An order under paragraph (d) of the definition of organism in subsection (1) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 (2)
 (3)
 (4)
@@ -339,8 +340,9 @@ A provision in this Act that applies in the territorial sea must be interpreted 
   (a) continuing the exemption under section 7A of an action from Part 3 of the Resource Management Act 1991:
   (b) continuing the exemption under section 7B of an action from Part 2 of the Exclusive Economic Zone and Continental Shelf (Environmental Effects) Act 2012.
 (2) The responsible Minister must not make a recommendation for the purposes of subsection (1) unless he or she considers that it is necessary to continue the action to attempt to eradicate or manage the organism beyond the duration of the exemption.
-(3) Regulations made under this section come into force on the date of notification in the Gazette, or at the time specified in the regulations, whichever is the later.
+(3)
 (4) The regulations expire on the day that is 2 years after the date on which the regulations come into force unless they are revoked earlier.
+(5) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 7E Border information supplied using JBMS must be supplied in approved form and manner
 (1) This section applies to a requirement by or under an Act to supply to the Ministry any border information (as defined in section 41A(1)) if the Act is—
@@ -727,6 +729,9 @@ Cargo aggregator defined
   (a) decide on the date on which the standard is to come into force; and
   (b) issue the standard with the date in it.
 (3) The Director-General is not required to issue a standard for goods of a particular class or description if the Director-General considers that the requirements that could be imposed in the standard would not be sufficient to enable the purpose of this Part to be achieved.
+(4) A standard under this section—
+  (a) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements); but
+  (b) commences in accordance with subsection (2), even if it is not yet published.
 
 ### 24B Amendment, revocation, suspension, and reinstatement
 Amendment and revocation
@@ -757,12 +762,13 @@ Reinstatement after partial suspension
 (9) Subsections (10) and (11) apply if a chief technical officer believes on reasonable grounds that circumstances or knowledge have changed in such a way as to cause the requirements in an import health standard to again enable the purposes of this Part to be achieved in relation to 1 or more goods in respect of which the standard is suspended.
 (10) The officer may recommend to the Director-General the reinstatement of the standard in relation to those goods.
 (11) After receiving the officer’s recommendation, the Director-General may reinstate the standard in relation to those goods.
+Secondary legislation
+(12) An amendment, revocation, suspension, or reinstatement of an import health standard—
+  (a) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements); but
+  (b) commences in accordance with section 24A(2), even if it is not yet published.
 
 ### 24C Publication
-(1) The Director-General must maintain a register of current import health standards.
-(2) The register must be available for the public to read free of charge—
-  (a) at the office of the Director-General during normal office hours; or
-  (b) on an Internet site maintained by or on behalf of the Ministry.
+[Repealed]
 
 ### 24D Compliance
 Post-clearance requirements
@@ -830,6 +836,9 @@ Permits
 (2) If the Director-General decides to issue a standard, he or she must—
   (a) decide on the date on which the standard is to come into force; and
   (b) issue the standard with the date in it.
+(3) A standard under this section—
+  (a) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements); but
+  (b) commences in accordance with subsection (2), even if it is not yet published.
 
 ### 24H Amendment, revocation, suspension, and reinstatement
 Amendment and revocation
@@ -845,12 +854,13 @@ Reinstatement
 (6) Subsections (7) and (8) apply if a chief technical officer believes on reasonable grounds that circumstances or knowledge have changed in such a way as to cause the requirements in a suspended craft risk management standard to again enable the purposes of this Part to be achieved.
 (7) The officer may recommend to the Director-General the reinstatement of the standard.
 (8) After receiving the officer's recommendation, the Director-General may reinstate the standard.
+Secondary legislation
+(9) An amendment, revocation, suspension, or reinstatement of a craft risk management standard—
+  (a) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements); but
+  (b) commences in accordance with section 24G(2), even if it is not yet published.
 
 ### 24I Publication
-(1) The Director-General must maintain a register of current craft risk management standards.
-(2) The register must be available for the public to read free of charge—
-  (a) at the office of the Director-General during normal office hours; or
-  (b) on an Internet site maintained by or on behalf of the Ministry.
+[Repealed]
 
 ### 24J Compliance
 An operator, or the person in charge, of a craft to which a craft risk management standard applies must—
@@ -1141,6 +1151,12 @@ Any person who moves risk goods within a biosecurity control area shall comply w
 (10) The Director-General—
   (a) may, for the purpose of subsection (1), approve standards relating to the operation of arrangements, facilities, and systems at a port to be approved as a place of first arrival; and
   (b) must, before approving the standard, consult the persons that the Director-General considers representative of the classes of persons likely to have an interest in a proposed standard.
+(11) If the Director-General approves a standard under subsection (10)﻿(a), the Director-General must—
+  (a) decide on the date on which the standard is to come into force; and
+  (b) approve the standard with the date in it.
+(12) A standard under subsection (10)﻿(a)—
+  (a) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements); but
+  (b) commences in accordance with subsection (11), even if it is not yet published.
 
 ### 37A Approval of arrival of craft at port not approved as place of first arrival
 (1) A person may request the Director-General's approval for the arrival of a craft at a port that is not approved under section 37 as a place of first arrival for—
@@ -1187,15 +1203,15 @@ The Director-General must not take any action under sections 37, 37A, or 37B wit
 (2) The importer must make the records available to an inspector if an inspector requires them to be made available during the period that the importer must keep them.
 
 ### 39 Approval and cancellation of approval of transitional facilities and containment facilities
-(1) The Director-General may approve standards for building, maintaining, or operating transitional facilities.
-(1A) The Director-General must consult the persons the Director-General considers representative of the classes of persons likely to have an interest in a proposed standard before approving the standard.
+(1)
+(1A)
 (2) Any person may apply in an approved form and manner to the Director-General for the approval of any place as a transitional facility or a containment facility.
 (2A) The Director-General must consider every application for approval of a place as a containment facility made under subsection (2) and,—the Director-General may approve the place as a containment facility.
   (a) if the application complies with the requirements of this Act; and
   (b) if the place meets the relevant standards approved by the Authority in accordance with the Hazardous Substances and New Organisms Act 1996,—
 (3) The Director-General must consider every application for approval of a place as a transitional facility made under subsection (2) and—the Director-General may approve the place as a transitional facility for the purpose specified in the approval.
   (a) if the application complies with the requirements of this Act; and
-  (b) if the place meets the relevant standards approved under subsection (1),—
+  (b) if the place meets the relevant standards approved under subsection (10),—
 (3A) The Director-General may approve the place as a transitional facility or a containment facility on conditions that the Director-General considers necessary or desirable.
 (3B) The Director-General may amend conditions in an approval, remove conditions from an approval, or add conditions to an approval when he or she considers it necessary or desirable to do so.
 (4) A transitional facility approval given in accordance with this section must, where the approval specifies, expire at a time specified in the approval or upon the occurrence of an event specified in the approval.
@@ -1206,6 +1222,15 @@ The Director-General must not take any action under sections 37, 37A, or 37B wit
   (b) the Director-General is satisfied that the facility is no longer used for the purpose or 1 or more of the purposes specified in the approval.
 (8) In exercising a power under subsection (7), the Director-General must observe the rules of natural justice.
 (9) The Director-General may, if he or she thinks fit and without an application from any person, declare specified parts of ports approved as places of first arrival to be transitional facilities.
+Standards for transitional facilities
+(10) The Director-General may approve standards for building, maintaining, or operating transitional facilities.
+(11) The Director-General must consult the persons the Director-General considers representative of the classes of persons likely to have an interest in a proposed standard before approving the standard.
+(12) If the Director-General approves a standard, the Director-General must—
+  (a) decide on the date on which the standard is to come into force; and
+  (b) approve the standard with the date in it.
+(13) A standard under subsection (10)—
+  (a) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements); but
+  (b) commences in accordance with subsection (12), even if it is not yet published.
 
 ### 40 Approval and cancellation of approval of facility operators
 (1) Any person may apply, in an approved form and manner, to the Director-General for approval as the operator of a specified transitional facility or specified containment facility.
@@ -1429,6 +1454,7 @@ The purpose of this Part is to provide for the continuous monitoring of New Zeal
   (a) the regional council or regional councils concerned have asked the Minister to do so; and
   (b) the Minister is satisfied that it is in the public interest to do so.
 (5) The responsible Minister must not recommend the making of an order under subsection (2) in respect of any organism which has been approved for release in New Zealand by the Authority in accordance with the Hazardous Substances and New Organisms Act 1996 unless that Minister has first consulted with the Authority.
+(6) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 46 Duty to report notifiable organisms
 (1) Every person who—shall without unreasonable delay report to the chief technical officer its presence or possible presence in that place at that time.
@@ -1553,11 +1579,8 @@ Directions
   (b) withdraw all or part of the proposal and publish the withdrawal, and the reasons for it, on an Internet site maintained by or on behalf of the Ministry.
 (6) When the Minister has made appropriate changes to the proposal or decided to make no changes to it, the Minister must recommend the approval of the national policy direction to the Governor-General in Council.
 (7) The Governor-General in Council may approve the national policy direction.
-(8) As soon as practicable after the Governor-General in Council has approved the national policy direction, the Minister must—
-  (a) publish in the Gazette the Order in Council approving the direction; and
-  (b) publicly notify the direction in whatever form he or she thinks appropriate; and
-  (c) send a copy of the direction to every management agency and regional council.
-(9) The national policy direction is a disallowable instrument, but not a legislative instrument, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
+(8) As soon as practicable after the Governor-General in Council has approved the national policy direction, the Minister must send a copy of the direction to every management agency and regional council.
+(9) A national policy direction approved under subsection (7) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 58 Process for amending or revoking and replacing national policy direction
 (1) If the national policy direction is to be amended in a way that the Minister considers would materially alter the direction, the Minister must—
@@ -1565,11 +1588,13 @@ Directions
   (b) apply the process in section 57(2) to (8) to the proposed amendment.
 (2) If the national policy direction is to be amended in a way that the Minister does not consider would materially alter the direction, the Minister must—
   (a) approve the amendment; and
-  (b) publish a notice in the Gazette stating that the amendment has been approved; and
-  (c) publicly notify the amendment in whatever form he or she thinks appropriate; and
+  (b)
+  (c)
   (d) send a copy of the amendment to every management agency and regional council.
 (3) If the national policy direction is to be revoked and replaced, the Minister must follow the process in section 57(1) to (8).
-(4) An amendment under subsection (1) or (2) or a replacement direction under subsection (3) is a disallowable instrument, but not a legislative instrument, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
+(4) The following are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements):
+  (a) an amendment under subsection (1) or (2):
+  (b) a replacement direction under subsection (3).
 
 **National pest management plans**
 
@@ -1745,7 +1770,7 @@ If the Minister is satisfied that section 64 has been complied with, the Ministe
 
 ### 66 Making of plan
 (1) If the Minister is satisfied of the matters in section 65, the Minister may recommend to the Governor-General that an Order in Council be made making the plan.
-(2) The order is a legislative instrument and a disallowable instrument for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
+(2) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 67 Exemptions from rules
 (1) The Minister may exempt a person from a requirement in a rule, without conditions or on conditions that the Minister considers appropriate.
@@ -1760,17 +1785,16 @@ If the Minister is satisfied that section 64 has been complied with, the Ministe
 (4) The Minister may grant an exemption under subsection (3) only if the Minister is satisfied that events have occurred that make the requirement unnecessary or inappropriate.
 (5) Conditions on which the Minister grants an exemption must be consistent with the purpose of this Part and must be no more onerous than the requirement from which the exemption is granted.
 (6) The Minister must determine the period of an exemption that the Minister grants.
-(7) As soon as practicable after granting an exemption, the Minister must publish a notice in the Gazette giving—
-  (a) a description of the exemption; and
-  (b) the reasons for the exemption; and
-  (c) the period of the exemption.
+(7)
 (8) The following apply to the extension of the period of an exemption:
   (a) the Minister may grant an extension of the period; and
   (b) the extension must be granted before the end of the period; and
   (c) the extended period becomes the period of the exemption; and
-  (d) the Minister may exercise the power in paragraph (a) more than once; and
-  (e) extensions of the period of an exemption must be notified in the Gazette.
-(9) An exemption is a disallowable instrument, but not a legislative instrument, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
+  (d) the Minister may exercise the power in paragraph (a) more than once.
+  (e)
+(9) The following are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements):
+  (a) an exemption under subsection (1) or (3) (which must specify the period of the exemption and be published together with the reasons):
+  (b) an extension under subsection (8).
 
 **Regional pest management plans**
 
@@ -2190,7 +2214,7 @@ If the Minister is satisfied that section 84 has been complied with, the Ministe
 
 ### 86 Making of plan
 (1) If the Minister is satisfied of the matters in section 85, the Minister may recommend to the Governor-General that an Order in Council be made making the plan.
-(2) The order is a legislative instrument and a disallowable instrument for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
+(2) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 87 Exemptions from rules
 (1) The following are exempt from the requirements in rules for acts or omissions in the course of an emergency as described in subsection (2):
@@ -2221,17 +2245,16 @@ If the Minister is satisfied that section 84 has been complied with, the Ministe
 (6) The Minister may grant an exemption under subsection (5) only if the Minister is satisfied that events have occurred that make the requirement unnecessary or inappropriate.
 (7) Conditions on which the Minister grants an exemption must be consistent with the purpose of this Part and must be no more onerous than the requirement from which the exemption is granted.
 (8) The Minister must determine the period of an exemption that the Minister grants.
-(9) As soon as practicable after granting an exemption, the Minister must publish a notice in the Gazette giving—
-  (a) a description of the exemption; and
-  (b) the reasons for the exemption; and
-  (c) the period of the exemption.
+(9)
 (10) The following apply to the extension of the period of an exemption:
   (a) the Minister may grant an extension of the period; and
   (b) the extension must be granted before the end of the period; and
   (c) the extended period becomes the period of the exemption; and
-  (d) the Minister may exercise the power in paragraph (a) more than once; and
-  (e) extensions of the period of an exemption must be notified in the Gazette.
-(11) An exemption is a disallowable instrument, but not a legislative instrument, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
+  (d) the Minister may exercise the power in paragraph (a) more than once.
+  (e)
+(11) The following are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements):
+  (a) an exemption under subsection (3) or (5) (which must specify the period of the exemption and be published together with the reasons):
+  (b) an extension under subsection (10).
 
 **Regional pathway management plans**
 
@@ -2621,7 +2644,7 @@ National pest management plan or national pathway management plan
   (a) does not have a significant effect on any person's rights and obligations; and
   (b) is not inconsistent with the national policy direction.
 (2) The Governor-General may make the order.
-(3) The order is a legislative instrument and a disallowable instrument for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
+(3) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 Regional pest management plan or regional pathway management plan
 (4) A regional pest management plan or a regional pathway management plan may be amended from time to time by a council by resolution without a review under section 100D, if the council is satisfied that the amendment—
   (a) does not have a significant effect on any person's rights and obligations; and
@@ -2697,7 +2720,9 @@ A management agency must not spend funds to meet the costs of implementing a pla
   (f) the management agency will have in place adequate systems of accounting to persons who will be responsible for paying the levy; and
   (g) all other relevant matters known to the Minister have been properly considered.
 (6) A levy order may be made from time to time.
-(7) The order is a legislative instrument and a disallowable instrument for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
+(7) An order under this section—
+  (a) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements); and
+  (b) must be confirmed by an Act (see subpart 3 of Part 5 of the Legislation Act 2019).
 
 ### 100M Effect of order
 (1) A person responsible for paying a levy set by a levy order must pay it.
@@ -2817,10 +2842,7 @@ A management agency must not spend funds to meet the costs of implementing a pla
 (2) The management agency must ensure that the statements are audited within 5 months after the end of the year.
 
 ### 100S Orders are confirmable instruments
-The explanatory note of a levy order made under section 100L must indicate that—
-  (a) it is a confirmable instrument under section 47B of the Legislation Act 2012; and
-  (b) it is revoked at a time stated in the note, unless earlier confirmed by an Act of Parliament; and
-  (c) the stated time is the applicable deadline under section 47C(1)﻿(a) or (b) of that Act.
+[Repealed]
 
 **Funding from rates**
 
@@ -2982,7 +3004,9 @@ The purpose of this Part is to provide a framework that enables the government a
 (6) The Minister must not recommend that a levy order be made unless satisfied that the proposed levy payers have been consulted and their views taken into account.
 (7) For the purposes of subsection (6), the Minister may be satisfied by consultation undertaken under section 100ZA(6).
 (8) A levy order may be made from time to time.
-(9) A levy order is a legislative instrument and a disallowable instrument for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
+(9) The order—
+  (a) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements); and
+  (b) must be confirmed by an Act (see subpart 3 of Part 5 of the Legislation Act 2019).
 
 ### 100ZC Effect of order
 (1) This section applies to a levy imposed by a readiness or response levy order.
@@ -3096,10 +3120,7 @@ The purpose of this Part is to provide a framework that enables the government a
 (5) The Official Information Act 1982 applies to information held by a Minister that was obtained under this section.
 
 ### 100ZH Orders are confirmable instruments
-The explanatory note of a readiness or response levy order made under section 100ZB must indicate that—
-  (a) it is a confirmable instrument under section 47B of the Legislation Act 2012; and
-  (b) it is revoked at a time stated in the note, unless earlier confirmed by an Act of Parliament; and
-  (c) the stated time is the applicable deadline under section 47C(1)﻿(a) or (b) of that Act.
+[Repealed]
 
 ## Part 6 — Administrative provisions
 
@@ -3514,7 +3535,7 @@ Any person lawfully exercising a power under any of sections 109, 111, 113, 114,
   (b) carry out any test controlled by an Order in Council made under this section other than in accordance with the conditions imposed by a chief technical officer.
 (3) No person may act in a manner that the person knows or suspects is likely to alter a response to a controlled test.
 (4) For the purposes of this section a test means a test carried out for any of the purposes specified in section 121(1A).
-(5) An order made under this section is a legislative instrument and a disallowable instrument for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
+(5) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 122 Power to give directions
 (1) An inspector or authorised person may, whenever that inspector or authorised person considers it to be necessary, direct the occupier of any place or the owner or person in charge of any organism or risk goods—
@@ -3611,7 +3632,11 @@ All costs recoverable by a chief technical officer, principal officer, or manage
 (3) At any time while the declaration of a controlled area is in force, the chief technical officer or management agency, as the case may require, may, by public notice in a newspaper, or by radio or television announcement, or otherwise as the chief technical officer or management agency considers effective and appropriate, give notice of either or both of the following matters:
   (a) the movement into, within, or from the controlled area of such organisms, organic material, risk goods or other goods as are specified in the notice is restricted, regulated, or prohibited in the manner, to the extent and subject to the conditions specified in the notice:
   (b) the organisms, organic material, risk goods, or other goods within the controlled area that are specified in the notice, must be subject to such treatment and procedures as are specified in the notice.
-(4) A notice given under subsection (3) may be revoked or may from time to time be replaced or amended.
+(4) A notice given under subsection (2) or (3) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements). (However, section 161A(4) of the Local Government Act 2002 applies if the notice is given by a management agency that is a council or territorial authority.)
+(5) If, under the Legislation Act 2019, the notice is not required to be published,—
+  (a) the chief technical officer or management agency may serve a copy of it on the persons (if any) whom the chief technical officer or management agency considers appropriate; and
+  (b) it comes into force in relation to that person immediately after it is served on that person or at a later time specified in the notice (even though it is not published).
+(6) Service may be done in any way the chief technical officer or management agency considers effective and appropriate.
 
 ### 132 Road blocks, cordons, checkpoints, etc
 (1) In this section, control means a road block, a cordon, or a checkpoint.
@@ -3690,16 +3715,15 @@ A declaration of a restricted place or a controlled area shall remain in force u
 
 ### 137 Levies
 (1) The Governor-General may from time to time, on the recommendation of the responsible Minister, by Order in Council impose a levy payable to the Director-General for the purposes of wholly or partially funding a service provided or function performed by the department for the purposes of this Act.
-(2) A levy order made under this section is a legislative instrument and a disallowable instrument for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
+(2) An order under this section—
+  (a) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements); and
+  (b) must be confirmed by an Act (see subpart 3 of Part 5 of the Legislation Act 2019).
 (3) The fact that Part 5A provides for levies to be made to fund readiness or response activities does not prevent this section imposing a levy to which both the following apply:
   (a) it is imposed to wholly or partly fund a readiness or response activity; and
   (b) it is imposed on a sector that is not specified in a Gazette notice under section 100ZA.
 
 ### 138 Orders are confirmable instruments
-The explanatory note of a levy order made under section 137 must indicate that—
-  (a) it is a confirmable instrument under section 47B of the Legislation Act 2012; and
-  (b) it is revoked at a time stated in the note, unless earlier confirmed by an Act of Parliament; and
-  (c) the stated time is the applicable deadline under section 47C(1)﻿(a) or (b) of that Act.
+[Repealed]
 
 ### 139 Restrictions on levies
 The Minister shall not recommend the making of an order under section 137 unless the Director-General has satisfied the Minister that—
@@ -3740,9 +3764,7 @@ The Minister shall not recommend the making of an order under section 137 unless
   (d) how the rate of levy, and any variation of the rate, is to be notified.
 (4) The responsible Minister must, before recommending that a levy order be made under this section, consult with persons who the Minister believes are representative of interests likely to be affected substantially by the order.
 (5) A levy order must not be made in respect of the costs that are otherwise recovered or otherwise to be recovered under this Act or the Airports (Cost Recovery for Processing of International Travellers) Act 2014.
-(6) A levy order made under this section—
-  (a) is a legislative instrument and a disallowable instrument for the purposes of the Legislation Act 2012; and
-  (b) must be presented to the House of Representatives under section 41 of that Act.
+(6) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 (7) To avoid doubt, this section does not limit section 135 or 137.
 
 ### 140AB Contents of border processing levy order
@@ -4156,8 +4178,8 @@ In sections 142M to 142S,—
 (4) Failure to comply with this section does not invalidate a biosecurity document that incorporates material.
 
 ### 142S Effect of other enactments
-(1) Part 2 of the Legislation Act 2012 does not apply to material incorporated in a biosecurity document.
-(2) Subpart 1 of Part 3 of the Legislation Act 2012 applies to regulations that incorporate material, but the requirement in section 41 to present a disallowable instrument to the House of Representatives does not apply to material incorporated in regulations.
+(1) Sections 69 to 100 of the Legislation Act 2019 do not apply to material incorporated in a biosecurity document.
+(2) Subparts 1 and 2 of Part 5 of the Legislation Act 2019 apply to secondary legislation under this Act that incorporates material, but the requirement in section 114 of that Act does not apply to the material incorporated in the secondary legislation.
 (3) Sections 29 to 32 of the Standards and Accreditation Act 2015 are not affected by sections 142L to 142R.
 
 ## Part 7 — Exigency actions
@@ -4180,8 +4202,11 @@ The purpose of this Part is to provide for the effective prevention, eradication
 (6) On the recommendation of the Minister, the Governor-General may by further Proclamation amend, extend, or revoke a Proclamation under this section and the Minister must publish notice of the amendment, extension, or revocation in the manner provided by subsection (5).
 
 ### 145 Emergency powers
-(1) The Minister may, in the area or areas in which a declaration of biosecurity emergency is in force, take such measures, and do all such acts and things and give all such directions, and require all such acts to be done or not to be done, as the Minister believes on reasonable grounds to be necessary or desirable for the purpose of eradicating or managing the organism in respect of which the emergency has been declared.
+(1) The Minister may, in the area or areas in which a declaration of biosecurity emergency is in force by notice, take such measures, and do all such acts and things and give all such directions, and require all such acts to be done or not to be done, as the Minister believes on reasonable grounds to be necessary or desirable for the purpose of eradicating or managing the organism in respect of which the emergency has been declared.
 (2) Without prejudice to the generality of the powers conferred by subsection (1), the Minister, or any person authorised by the Minister for the purpose, may require the owner of any goods or premises or craft (being a craft registered in New Zealand, or chartered by a company (within the meaning of section 2(1) of the Companies Act 1993)) that is anywhere in New Zealand and that the Minister or person authorised by the Minister believes on reasonable grounds to be necessary or would be of assistance in eradicating or limiting the spread of the organism to transfer the goods to or permit the premises or craft to be used for a specified period by the Minister or any other person.
+(3) A notice under this section—
+  (a) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements), unless it applies only to 1 or more named persons; and
+  (b) comes into force when it is made, even if it is not yet published.
 
 ### 146 Duration of emergency
 (1) A declaration of biosecurity emergency ceases to have effect at the end of 4 months after it comes into force, unless subsection (2) or (5) applies.
@@ -4194,7 +4219,7 @@ The purpose of this Part is to provide for the effective prevention, eradication
   (a) another Proclamation under section 144; or
   (b) a resolution of the House of Representatives.
 (6) A resolution revoking a declaration has effect from the time of the resolution or a later time specified in the resolution.
-(7) An extension under subsection (2)﻿(b) or a revocation under subsection (5)﻿(b) must be published as provided in section 47 of the Legislation Act 2012.
+(7) An extension under subsection (2)﻿(b) or a revocation under subsection (5)﻿(b) must be published under Part 3 of the Legislation Act 2019 (and section 120(2) of that Act applies to the extension or revocation for that purpose).
 
 ### 147 House of Representatives must be informed
 (1) The Minister must inform the House of the making of a Proclamation under section 144.
@@ -4226,14 +4251,15 @@ Definition for this section
   (d)
   (e)
   (f) prescribe procedures for arbitration or resolution of disputes.
-(4) A biosecurity emergency regulation comes into force at the time at which the regulation is made, or the time specified in the regulation, whichever is the later.
-(5) The responsible Minister shall lay all biosecurity emergency regulations before the House of Representatives not later than the second sitting day after they are made.
+(4) The following apply to biosecurity emergency regulations:
+  (a) they are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements):
+  (b) they commence when the regulations are made or at a later time specified in the regulations, even if they are not yet published:
+  (c) they must be presented to the House of Representatives no later than the second sitting day after they are made:
+  (d) they must be confirmed by an Act (see subpart 3 of Part 5 of the Legislation Act 2019).
+(5)
 
 ### 151 Emergency regulations are confirmable instruments
-The explanatory note of regulations made under section 150 must indicate that—
-  (a) they are a confirmable instrument under section 47B of the Legislation Act 2012; and
-  (b) they are revoked at a time stated in the note, unless earlier confirmed by an Act of Parliament; and
-  (c) the stated time is the applicable deadline under section 47C(1)﻿(a) or (b) of that Act.
+[Repealed]
 
 ### 152 Provisional control action
 (1) If a Minister suspects on reasonable grounds that a pest or unwanted organism may be present in New Zealand but is unable to confirm the suspicion until further information is available to enable identification of the organism and consideration of the appropriate means of eradicating or managing the organism, and the Minister believes on reasonable grounds that sufficient powers are not otherwise available under this Act to prevent the spread or development of the organism, the Minister may by written notice to a chief technical officer declare a provisional control programme.
@@ -5086,12 +5112,19 @@ Manner in which information to be provided
 (23) The Governor-General may from time to time, by Order in Council, make regulations specifying the manner in which information that must be provided under this Act must be provided.
 Contemplated or necessary matters
 (24) The Governor-General may from time to time, by Order in Council, make regulations providing for matters that are contemplated by this Act or necessary to give it full effect or necessary for its administration.
+Regulations are secondary legislation
+(25) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+(26) If regulations under subsection (12)﻿(e) authorise a person to waive or remit costs, in whole or in part,—
+  (a) the instrument by which the power is exercised is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements), unless the instrument applies only to 1 or more named persons; and
+  (b) the regulations must contain a statement to that effect.
 
 ### 165A Regulations relating to definition of Ministry-related border management function in section 41A(1)
-The Governor-General may, by Order in Council, make regulations specifying any Act to be an Act for the purposes of the definition of Ministry-related border management function in section 41A(1).
+(1) The Governor-General may, by Order in Council, make regulations specifying any Act to be an Act for the purposes of the definition of Ministry-related border management function in section 41A(1).
+(2) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 166 General provisions as to regulations
-(1) Any regulation made under this Act may apply generally or may apply or be applied from time to time by the Minister by notice in the Gazette within any specified district or region of any local authority or within any specified part of New Zealand or may apply to any specified category or categories of persons.
+(1) Any regulation made under this Act may apply generally or may apply or be applied from time to time by the Minister by notice within any specified district or region of any local authority or within any specified part of New Zealand or may apply to any specified category or categories of persons.
+(2) A notice under subsection (1) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 (2)
 (3) Any regulations made under this Act may confer power to issue directions, orders, requirements, permits, or notices for the purposes of this Act on all or any of the following:
   (a) all Ministers, Ministers of a specified kind or description, or any specified Minister or Ministers:
@@ -5107,6 +5140,9 @@ The Governor-General may, by Order in Council, make regulations specifying any A
   (d) other places of any kind or description; or
   (e) any person; or
   (f) persons of any kind or description,—
+(5) If regulations made under this Act authorise the granting of an exemption under subsection (4)﻿(b), (d), or (f),—
+  (a) the instrument granting an exemption is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements); and
+  (b) the regulations must contain a statement to that effect.
 
 ### 167 Repeals and revocations
 (1) The enactments specified in Schedule 3 are hereby repealed.
@@ -5340,9 +5376,7 @@ Section 162A of the principal Act, as it was immediately before its repeal by se
 ### 92 Transitional provision on wallabies and possums
 (1) The organism wallaby (family Macropodidae) is deemed to be an unwanted organism within the meaning in the Biosecurity Act 1993 for 2 years from the day on which this section commences.
 (2) The Governor-General may, by Order in Council, extend the period referred to in subsection (1).
-(3) The order—
-  (a) is a regulation for the purposes of the Regulations (Disallowance) Act 1989; and
-  (b) is a regulation for the purposes of the Acts and Regulations Publication Act 1989.
+(3) The order is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 (4) Subsections (5) to (7) apply to a permit, licence, or other authority (permission) that—
   (a) was issued under the Wild Animal Control Act 1977; and
   (b) relates to a wallaby (family Macropodidae) or possum (family Phalangeridae); and
