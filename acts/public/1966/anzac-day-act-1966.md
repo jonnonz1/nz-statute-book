@@ -1,5 +1,5 @@
 # Anzac Day Act 1966
-_Consolidation as at 2014-01-01_
+_Consolidation as at 2021-10-28_
 
 > An Act to make provision regarding the observance of Anzac Day
 
@@ -14,7 +14,7 @@ This Act may be cited as the Anzac Day Act 1966.
   (d) the war in Malaya/Borneo; and
   (e) the war in South Vietnam—
 (2) The Governor-General may from time to time, by Order in Council, amend subsection (1) by adding to the list of conflicts referred to in that subsection.
-(3) An Order in Council made under subsection (2) is a legislative instrument and a disallowable instrument for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
+(3) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 3 Observance of Anzac Day
 (1) Where Anzac Day falls on a Sunday it shall be observed as a Sunday.
