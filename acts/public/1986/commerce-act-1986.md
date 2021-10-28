@@ -1,5 +1,5 @@
 # Commerce Act 1986
-_Consolidation as at 2021-04-08_
+_Consolidation as at 2021-10-28_
 
 > Title
 
@@ -802,7 +802,7 @@ In this Part, unless the context otherwise requires,—
   - **claw-back** has the meaning given to it by section 52D
   - **consumer** (other than in sections 54C, 54D, and 55A) means a person that consumes or acquires regulated goods or services
   - **information disclosure requirement** means a requirement that applies to a supplier of goods or services that are subject to information disclosure regulation, and is specified in a section 52P determination
-  - **input methodology** means a description of any methodology, process, rule, or matter that includes any of the matters listed in section 52T and that is published by the Commission under section 52W; and, in relation to particular goods or services, means any input methodology, or all input methodologies, that relate to the supply, or to suppliers, of those goods or services
+  - **input methodology** means a description of any methodology, process, rule, or matter that includes any of the matters listed in section 52T and that is published as referred to in section 52W; and, in relation to particular goods or services, means any input methodology, or all input methodologies, that relate to the supply, or to suppliers, of those goods or services
   - **inquiry** means,—
     (a) for the purposes of subpart 11, an inquiry by the Commission into the regulation of specified airport services that is carried out in accordance with sections 56F to 56H; and
     (b) for all other purposes, an inquiry by the Commission that is carried out in accordance with sections 52H to 52J
@@ -939,7 +939,7 @@ In this Part, unless the context otherwise requires,—
   (d) any or all of paragraphs (a) to (c).
 (4) Subsection (3) applies so that any part or element of goods or services can be dealt with separately.
 (5) The order must include an expiry date, which must be a date not later than 20 years after its date of commencement.
-(6) The order is a legislative instrument and a disallowable instrument for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
+(6) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 52O Revocation or amendment of Order in Council
 (1) An Order in Council made under section 52N in respect of particular goods or services may not be revoked or significantly amended unless the Commission has held an inquiry into the goods or services.
@@ -966,22 +966,16 @@ In this Part, unless the context otherwise requires,—
 (4) It is not necessary for a single determination to address all matters relating to particular regulated goods or services, or to a supplier of regulated goods or services, and different parts of any determination may come into effect at different times.
 (5) If a determination under this section is made following an inquiry and a recommendation under section 52K, the requirements referred to in subsection (3)﻿(a) must not differ in any material respect from the recommendation, or (if applicable) from any advice given to the Minister under section 52L(3).
 (6) A determination under this section may require a supplier to comply with the requirements set out in any other determination that has been made under this section in respect of regulated goods or services of the same type.
-(7) The Commission must, as soon as practicable after making a determination under this section,—
-  (a) give a copy of the determination to each supplier to whom the determination relates; and
-  (b) publish a summary of it in the Gazette; and
-  (c) make the whole determination publicly available.
+(7) The Commission must, as soon as practicable after making a determination under this section, give to each supplier to whom the determination relates notice of the determination and where it is available.
 (8) Each supplier to whom the determination relates must comply with the requirements imposed by the determination.
-(9) A determination under this section is neither a legislative instrument nor a disallowable instrument for the purposes of the Legislation Act 2012 (and does not have to be presented to the House of Representatives under section 41 of that Act).
+(9) A determination under this section and an amendment to a determination are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 52Q Amendment of section 52P determination
 (1) A section 52P determination may be amended in a material way only after the Commission has consulted with interested parties, but may be amended in a non-material way without prior consultation.
 (2) However, the Commission is not required to conduct an inquiry before amending a determination.
-(3) An amendment forms part of the determination it amends.
-(4) An amendment comes into force on the date specified in the amendment, which must be (except in the case of an amendment relating to a customised price-quality path that takes effect under section 53ZA(3)) a date on or after the date on which it, or a summary of it, is published in the Gazette.
-(5) The Commission must, as soon as practicable after making an amendment,—
-  (a) give a copy of the amendment to each supplier to whom the determination relates; and
-  (b) publish the amendment, or a summary of the amendment, in the Gazette; and
-  (c) make a copy of the determination, as amended by the amendment, publicly available.
+(3) As soon as practicable after making an amendment, the Commission must give to each supplier to whom the determination relates notice of the amendment and where it is available.
+(4) An amendment relating to a customised price-quality path that takes effect under section 53ZA(3) may come into force before it is published under the Legislation Act 2019.
+(5)
 
 ### Subpart 3 — Input methodologies
 
@@ -989,7 +983,7 @@ In this Part, unless the context otherwise requires,—
 The purpose of input methodologies is to promote certainty for suppliers and consumers in relation to the rules, requirements, and processes applying to the regulation, or proposed regulation, of goods or services under this Part.
 
 ### 52S How published input methodologies apply
-Every relevant input methodology relating to the supply of particular goods or services that is published under section 52W must be applied,—
+Every relevant input methodology relating to the supply of particular goods or services that is published as referred to in section 52W must be applied,—
   (a) if the goods or services are regulated, by every regulated supplier of the goods or services in accordance with the relevant section 52P determination; and
   (b) in all cases, by every person entitled or required under this Act to recommend, decide, or determine—
     (i) whether or how regulation under this Part should apply to the goods or services; or
@@ -1032,25 +1026,26 @@ Every relevant input methodology relating to the supply of particular goods or s
 (3) Despite subsections (1) and (2), any work done or action taken (including any consultation) by the Commission on input methodologies before the commencement of this section may be treated by the Commission and any person consulted as work done or action taken under this section.
 (4) The Commission must consult with interested parties before deciding to treat earlier work or action as work or action done under this section.
 
-### 52W Publication of input methodologies
-(1) The Commission must publish every input methodology, and every amendment to an input methodology,—
-  (a) within 10 working days after the Commission determines the input methodology or amendment; and
-  (b) if the input methodology or an amendment is determined by the High Court on appeal, within 10 working days after the Commission receives a copy of the decision of the High Court.
-(2) The publication must be by way of a notice in the Gazette setting out—
-  (a) a brief description of the nature of the methodology and the goods or services to which it applies; and
-  (b) the reasons for determining that methodology; and
-  (c) how it is publicly available.
-(3) The Commission must make every input methodology, and every amended input methodology, publicly available as soon as the input methodology or amendment is published.
-(4) A published input methodology is neither a legislative instrument nor a disallowable instrument for the purposes of the Legislation Act 2012 (and does not have to be presented to the House of Representatives under section 41 of that Act).
+### 52W Status of input methodologies, amendments, and revocations
+(1) The following are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements):
+  (a) an input methodology:
+  (b) an amendment to an input methodology:
+  (c) the revocation by the Commission of an input methodology.
+(2) The secondary legislation must be published under the Legislation Act 2019,—
+  (a) if it is made by the Commission, within 10 working days after the Commission makes its determination; or
+  (b) if it is made by the High Court on appeal, within 10 working days after the Commission receives a copy of the High Court’s decision.
+(3) If an input methodology or amendment is made by the High Court on appeal, the Legislation Act 2019 applies as if the Commission were the maker of the secondary legislation.
+(4) When a methodology or an amendment (but not a revocation) is published, the Commission must publish its reasons for determining the methodology, or for amending it, on an Internet site maintained by or on behalf of the Commission.
 
 ### 52X Amendment of input methodologies
-If the Commission proposes to amend an input methodology by making a material change, section 52V applies as if the amendment were a new input methodology.
+(1) If the Commission proposes to amend an input methodology by making a material change, section 52V applies as if the amendment were a new input methodology.
+(2) See also section 52W.
 
 ### 52Y Review and date of publication of input methodologies
 (1) The Commission must review each input methodology no later than 7 years after its date of publication and, after that, at intervals of no more than 7 years.
-(2) The date of publication of an input methodology is the date on which it is published under section 52W(1)﻿(a) or, if it is subsequently published under section 52W(1)﻿(b), the date of that later publication.
+(2) The date of publication of an input methodology is the date on which it is published under the Legislation Act 2019.
 (3) Section 52V applies, with all necessary modifications, as if the review were a new input methodology.
-(4) Section 52W applies if, following a review, an input methodology is replaced or amended.
+(4) See also section 52W.
 
 **Appeals against input methodology determinations**
 
@@ -1078,8 +1073,8 @@ If the Commission proposes to amend an input methodology by making a material ch
 (5) Section 77 applies, and section 77(14) is not limited by subsection (3) of this section.
 
 ### 53 Input methodology applies pending outcome of appeal
-(1) The High Court may not stay the application of section 52S with respect to any input methodology published under section 52W until any appeal against it is finally determined.
-(2) Section 52S continues to apply with respect to every input methodology published under section 52W until any appeal against the input methodology is finally determined.
+(1) The High Court may not stay the application of section 52S with respect to any input methodology published as referred to in section 52W until any appeal against it is finally determined.
+(2) Section 52S continues to apply with respect to every input methodology published as referred to in section 52W until any appeal against the input methodology is finally determined.
 
 ### Subpart 4 — Information disclosure regulation
 
@@ -1126,6 +1121,9 @@ The purpose of information disclosure regulation is to ensure that sufficient in
   (e) provide for transitional provisions:
   (f) impose any other requirements that the Commission considers necessary or desirable to promote the purpose of information disclosure regulation.
 (4) The section 52P determination may not require a supplier to publicly disclose any provision of an existing contract that, immediately before the goods or services became subject to information disclosure regulation, was not required by or under Part 4A (as defined in section 54B) or any other enactment to be publicly disclosed.
+(5) If a section 52P determination authorises a person to grant exemptions referred to in subsection (3)﻿(d),—
+  (a) an instrument granting or revoking an exemption is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements), unless it applies only to 1 or more named persons; and
+  (b) the determination must contain a statement to that effect.
 
 ### 53D Consolidated information may also be required
 (1) The purpose of this section is to enable the Commission to monitor compliance with information disclosure regulation applying to regulated goods or services.
@@ -1217,7 +1215,7 @@ The purpose of default/customised price-quality regulation is to provide a relat
 (4) A regulatory period must be 5 years.
 (5) However, the Commission may set a shorter period than 5 years if it considers that it would better meet the purposes of this Part, but in any event may not set a term less than 4 years.
 (6) Subsections (4) and (5) are subject to section 53W.
-(7) No default price-quality path applies to a supplier until the date specified in the relevant section 52P determination, which must be a date at least 4 months after a summary of the determination is published in the Gazette under section 52P(7)﻿(b).
+(7) No default price-quality path applies to a supplier until the date specified in the relevant section 52P determination, which must be a date at least 4 months after the determination is published as referred to in section 52P(9).
 
 ### 53N Monitoring compliance with price-quality paths
 For the purpose of monitoring compliance with a price-quality path (whether a default price-quality path or a customised price-quality path under this subpart, or an individual price-quality path under subpart 7), the Commission may, in addition to exercising its powers under section 98, issue a written notice to a regulated supplier requiring it to provide any or all of the following:
@@ -1390,6 +1388,10 @@ The time frames specified in sections 53S and 53T may, with the agreement of the
   - **multi-year appropriation** means an appropriation authorised to apply for more than 1 financial year (see section 10 of the Public Finance Act 1989).
 (3) The amount of any unpaid levy is recoverable in any court of competent jurisdiction as a debt due to the Crown.
 (4) The Minister must consult with the suppliers of regulated goods or services, or representatives of those suppliers, before making a recommendation for the purposes of subsection (2).
+(5) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+(6) If regulations authorise a person to grant exemptions or waivers referred to in subsection (2)﻿(i),—
+  (a) an instrument granting an exemption or a waiver is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements), unless it applies only in a particular case; and
+  (b) the regulations must contain a statement to that effect.
 
 ### 53ZF Material may be incorporated by reference
 Schedule 5 applies if the Commission wishes to incorporate material by reference in any of the following documents:
@@ -1399,10 +1401,10 @@ Schedule 5 applies if the Commission wishes to incorporate material by reference
 ### 53ZG Power to exempt disclosure of commercially sensitive information
 (1) The Commission may, on application, exempt any person or class of persons, in respect of any information or class of information that the Commission considers to be commercially sensitive, from any obligation to make that information publicly available as part of the requirements of information disclosure regulation, negotiate/arbitrate regulation, or customised price-quality regulation.
 (2) The Commission may grant the exemption on any terms and conditions that it thinks fit.
-(3) The exemption must be granted by notice in the Gazette, and takes effect from the date specified in the exemption (which must not be earlier than the date of the Gazette notice).
+(3)
 (4) The Commission may, in like manner, vary or revoke any exemption.
 (5) The Commission must keep a list of all current exemptions made by it under this section available for public inspection free of charge during normal office hours of the Commission at the offices of the Commission.
-(6) An exemption under this section is neither a legislative instrument nor a disallowable instrument for the purposes of the Legislation Act 2012 and does not have to be presented to the House of Representatives under section 41 of that Act.
+(6) An exemption, and any variation or revocation of it, is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### Subpart 9 — Electricity lines services
 
@@ -1522,6 +1524,7 @@ All electricity lines services are subject to information disclosure regulation 
 (4) If exact figures are not available as to the number of persons in a class referred to in subsection (3), the Commission may rely on any estimate that the Commission considers to be a reasonable estimate.
 (5) Petition means a petition to the Commission seeking the application of price-quality regulation to all or any of the electricity lines services of the relevant supplier, and that records the signatures of the signatories.
 (6) The Governor-General may, on the recommendation of the Minister, make an Order in Council in accordance with this section.
+(7) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 54I Commission must make section 52P determination specifying how subpart applies
 (1) The section 52P determinations that specify how information disclosure regulation applies to each supplier of electricity lines services must be made as soon as practicable after 1 April 2009.
@@ -1585,7 +1588,7 @@ All electricity lines services are subject to information disclosure regulation 
 (2) To avoid doubt, this section applies whether or not the supplier is, after 1 April 2009, subject to default/customised price-quality regulation.
 
 ### 54P Proposals for customised price-quality paths
-(1) A supplier of electricity lines services may not propose a customised price-quality path until an input methodology setting out the requirements and criteria for proposals for customised price-quality paths (as required by section 52T(1)﻿(d)) is published under section 52W.
+(1) A supplier of electricity lines services may not propose a customised price-quality path until an input methodology setting out the requirements and criteria for proposals for customised price-quality paths (as required by section 52T(1)﻿(d)) is published as referred to in section 52W.
 (2) However, in accordance with section 53V(2), the Commission may apply claw-back when setting any customised price-quality path.
 
 **Energy efficiency**
@@ -1598,7 +1601,7 @@ The Commission must promote incentives, and must avoid imposing disincentives, f
 ### 54R Approval of Transpower's grid upgrade plans
 (1) The role of the Electricity Commission in requesting or approving grid upgrade plan proposals by Transpower (including proposals to amend existing grid upgrade plans) is transferred to the Commission on the commencement date.
 (2) Subsection (1) applies both to proposals made on and after the commencement date and to any proposals that were requested or under consideration by the Electricity Commission before the commencement date.
-(3) Until the input methodology required by section 54S is determined and published under section 52W,—
+(3) Until the input methodology required by section 54S is determined and published as referred to in section 52W,—
   (a) Transpower must comply with Part F of the Electricity Governance Rules, as that Part relates to grid upgrade plan proposals; and
   (b) when considering grid upgrade plan proposals, the Commission—
     (i) must apply, with any necessary modifications, the grid investment test set out in Schedule F4 of Part F of the Electricity Governance Rules; and
@@ -1696,6 +1699,7 @@ Any information disclosure requirements published by the Commission under subpar
   (b) in the case of a recommendation to add a pipeline, the gas pipeline services are supplied in a market where the owner of the pipeline does not have a substantial degree of market power; and
   (c) in the case of a recommendation to delete a pipeline, the gas pipeline services are supplied in a market where the owner of the pipeline has a substantial degree of market power; and
   (d) the Commission has consulted (without necessarily holding an inquiry) with interested parties.
+(7) An order under subsection (5) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 **Imposition of regulation under this Part**
 
@@ -1870,7 +1874,7 @@ A specified airport company must, as soon as practicable after disclosing inform
   (c) individual price-quality regulation.
 (2) The order must include an expiry date (which must be no later than 20 years after the commencement date) at the close of which the order is revoked.
 (3) Despite subsection (2), the order may be earlier revoked in the manner in which it was made.
-(4) The order is a legislative instrument and a disallowable instrument for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
+(4) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 56L Commission determination about how regulation applies
 (1) As soon as practicable after an Order in Council is made under section 56K, the Commission must make a section 52P determination specifying how the type of regulation imposed by the order will apply to specified airport services.
@@ -1886,6 +1890,7 @@ A specified airport company must, as soon as practicable after disclosing inform
 (3) Before making a recommendation under subsection (2)﻿(a), the Commission—
   (a) must assess the benefits, in meeting the purpose of this Part, of declaring the services to be specified airport services against the costs of declaring the services to be specified airport services; and
   (b) must be satisfied that the services are supplied in a market where 1 or more of the specified airport companies have a substantial degree of market power.
+(4) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 **Subpart 2 not limited**
 
@@ -3184,7 +3189,7 @@ For the purposes of this Act, judicial notice shall be taken in all courts and f
 [Repealed]
 
 ### 108 Regulations
-The Governor-General may from time to time, by Order in Council, make regulations for all or any of the following purposes:
+(1) The Governor-General may from time to time, by Order in Council, make regulations for all or any of the following purposes:
   (a) prescribing the procedure to be followed under this Act in respect of applications and notices to, and proceedings of, the Commission:
   (b) prescribing forms of applications, notices, and other documents required for the purposes of this Act, and requiring the use of such forms:
   (c) prescribing fees to be paid for the purposes of this Act:
@@ -3193,6 +3198,7 @@ The Governor-General may from time to time, by Order in Council, make regulation
   (cc) requiring the Commission to refund, within a prescribed time, all or any part of a fee paid in respect of an application under section 58 or 65A, or in respect of a notice under section 66(1) or 67(1), that is more than the cost to the Commission of determining that application or notice:
   (cd) prescribing a class or classes of persons who are exempt from the requirement to pay any fee prescribed for an application under section 58 or 65A or for a notice under section 66(1) or 67(1):
   (d) providing for such other matters as are contemplated by or necessary for giving full effect to the provisions of this Act and for its due administration.
+(2) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 109 Commission may prescribe forms
 For the purposes of this Act, the Commission may from time to time prescribe forms of applications, notices, and other documents required for the purposes of this Act.
@@ -3338,7 +3344,7 @@ In this schedule, unless the context otherwise requires,—
   - **material** means written material that is set out in a document other than a Part 4 determination
   - **Part 4 determination** means either of the following:
     (a) a determination made under section 52P; or
-    (b) an input methodology published under section 52W.
+    (b) an input methodology published as referred to in section 52W.
 
 ### 2 Material incorporated by reference into Part 4 determinations
 (1) The Commission may incorporate by reference any material into a Part 4 determination if—
@@ -3367,23 +3373,25 @@ In this schedule, unless the context otherwise requires,—
 (3) A failure to comply with this clause does not invalidate a Part 4 determination.
 
 ### 5 Effect of amendments to, or replacements of, material incorporated by reference
-An amendment to, or replacement of, material incorporated by reference in a Part 4 determination has legal effect as part of the determination only if—
+(1) An amendment to, or replacement of, material incorporated by reference in a Part 4 determination has legal effect as part of the determination only if—
   (a) the amendment or replacement material is made by the person or organisation that made the original material; and
   (b) the amendment or replacement material is of the same general character as the original material; and
   (c) either—
     (i) a subsequent Part 4 determination states that the particular amendment or replacement material has legal effect as part of the determination; or
-    (ii) the chairperson, by notice in the Gazette, adopts the amendment or replacement material as having legal effect as part of the determination.
+    (ii) the chairperson, by notice, adopts the amendment or replacement material as having legal effect as part of the determination.
+(2) A notice under subclause (1)﻿(c)﻿(ii) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 6 Effect of expiry of material incorporated by reference
-Material incorporated by reference in a Part 4 determination that expires, is revoked, or ceases to have effect, ceases to have legal effect as part of the Part 4 determination only if—
+(1) Material incorporated by reference in a Part 4 determination that expires, is revoked, or ceases to have effect, ceases to have legal effect as part of the Part 4 determination only if—
   (a) a subsequent Part 4 determination states that the material ceases to have that legal effect; or
-  (b) the chairperson, by notice in the Gazette, states that the material ceases to have that legal effect.
+  (b) the chairperson, by notice, states that the material ceases to have that legal effect.
+(2) A notice under subclause (1)﻿(b) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 7 Consultation before material incorporated by reference
 (1) This clause applies if—
   (a) the Commission proposes to incorporate material by reference into any Part 4 determination; or
   (b) the Commission proposes to make a Part 4 determination adopting amended or replacement material; or
-  (c) the chairperson proposes to publish a notice in the Gazette adopting amended or replacement material.
+  (c) the chairperson proposes to make a notice adopting amended or replacement material.
 (2) If any of the things referred to in subclause (1) are proposed, the Commission—
   (a) must make copies of the material (which in this subclause includes any amended or replacement material) proposed to be incorporated by reference available for inspection during normal working hours at the head office of the Commission; and
   (b) must make copies of the material available for purchase at a reasonable price from the head office of the Commission; and
@@ -3393,9 +3401,8 @@ Material incorporated by reference in a Part 4 determination that expires, is re
   (f) must consider any comments made within the time allowed.
 (3) A failure to comply with this clause does not invalidate a Part 4 determination.
 
-### 8 Application of Legislation Act 2012 to material incorporated by reference
-(1) Part 2 of the Legislation Act 2012 does not apply to material incorporated by reference in a Part 4 determination or to any amendment to, or replacement of, that material.
-(2) Subpart 1 of Part 3 of the Legislation Act 2012 does not apply to material incorporated by reference in a Part 4 determination or to any amendment to, or replacement of, that material.
+### 8 Application of Legislation Act 2019 to material incorporated by reference
+Subpart 1 of Part 3 and section 114 of the Legislation Act 2019 do not apply to material that is incorporated by reference in a Part 4 determination merely because it is incorporated.
 
 ### 9 Regulations (Disallowance) Act 1989 not applicable
 [Repealed]
