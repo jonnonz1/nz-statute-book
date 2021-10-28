@@ -1,5 +1,5 @@
 # National Provident Fund Restructuring Amendment Act 1997
-_Consolidation as at 2014-12-01_
+_Consolidation as at 2021-10-28_
 
 > An Act to—aAmend the National Provident Fund Restructuring Act 1990; andbAuthorise the amendment of the trust deeds for existing schemes for various purposes; andcProvide for the establishment of a new scheme or schemes for the purpose of paying pensions; anddProvide for the amalgamation of 2 or more of the existing schemes; andeProvide for other incidental matters
 
@@ -168,24 +168,24 @@ The provisions set out in Schedule 1 apply to a new pension scheme.
 (5) Subsection (4) is subject to subsection (3).
 
 ### 21 Approval of proposal by Minister
-(1) The Minister may, by notice in the Gazette, approve a draft amalgamation proposal submitted in accordance with section 20.
+(1) The Minister may, by notice, approve a draft amalgamation proposal submitted in accordance with section 20.
 (2) Section 26 applies to the giving of approval.
 (3) The notice must—
   (a) Identify the draft amalgamation proposal approved, but need not incorporate it in the notice; and
   (b) State the appointed day for that proposal.
-(4) The notice is a legislative instrument and a disallowable instrument for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
+(4) A notice under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 22 Amendment of proposal
-(1) The Minister may, by notice in the Gazette, approve an amendment to an amalgamation proposal at any time or times after it has been approved under section 21 (whether before or after the appointed day).
+(1) The Minister may, by notice, approve an amendment to an amalgamation proposal at any time or times after it has been approved under section 21 (whether before or after the appointed day).
 (2) Section 26 applies to the giving of approval.
 (3) The Board must submit to the Minister a certificate confirming that, in its opinion, the amendment to the amalgamation proposal does not contravene section 20(3) or (4).
 (4) The notice must—
   (a) Identify the amendment approved, but need not incorporate it in the notice; and
   (b) State the day on and from which the amendment has effect, which may be the appointed day or any later day.
-(5) The notice is a legislative instrument and a disallowable instrument for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
+(5) A notice under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 23 Implementation of proposal
-(1) The Board must arrange for the implementation of an amalgamation proposal, or of an amendment of a proposal, as soon as practicable after the proposal or amendment has been approved by a notice in the Gazette.
+(1) The Board must arrange for the implementation of an amalgamation proposal, or of an amendment of a proposal, as soon as practicable after the proposal or amendment has been approved by the Minister.
 (2) Any documents executed, and all other arrangements made, for the purpose of implementing an amalgamation proposal, become effective as at the appointed day for that proposal.
 (3) Any documents executed, and all other arrangements made, for the purpose of implementing an amendment to an amalgamation proposal become effective as at the day stated under section 22(4)﻿(b).
 
@@ -234,10 +234,11 @@ A certificate required by this Act to be given by the Board to the Minister on a
 (2) A provision included in a trust deed or in an amalgamation proposal under this Act has effect, and may be implemented at any time by the Board, notwithstanding any provision of the principal Act or any other enactment or rule of law.
 
 ### 31 Regulations
-The Governor-General may from time to time, by Order in Council, make regulations for all or any of the following purposes:
+(1) The Governor-General may from time to time, by Order in Council, make regulations for all or any of the following purposes:
   (a) Providing for the transfer of pensioners to a new pension scheme under Part 3; or
   (b) Providing for the amalgamation of existing schemes under Part 3; or
   (c) Providing for such other matters as are contemplated by or necessary for giving full effect to this Act, and for its due administration.
+(2) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 32 Consequential amendment to Income Tax Act 1994
 [Repealed]
