@@ -1,11 +1,12 @@
 # Disabled Persons Community Welfare Act 1975
-_Consolidation as at 2018-11-26_
+_Consolidation as at 2021-10-28_
 
 > An Act to make better provision for financial and other assistance in respect of the disabled, and for the support of voluntary organisations and private organisations concerned with providing facilities for the community welfare, sheltered employment, training, and day care of disabled persons
 
 ### 1 Short Title and commencement
 (1) This Act may be cited as the Disabled Persons Community Welfare Act 1975.
 (2) Except as provided in subsection (5) of section 12, this Act shall come into force on a date to be appointed by the Governor-General by Order in Council.
+(3) The order is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 2 Interpretation
 In this Act, unless the context otherwise requires,—
@@ -308,7 +309,7 @@ There shall from time to time be paid out of a Crown Bank Account, from money ap
   (f) any money payable by that person in respect of his or her board, lodging, or maintenance, whether in a private home or in any public or private institution.
 
 ### 31 Regulations
-The Governor-General may from time to time, by Order in Council, make regulations for all or any of the following purposes:
+(1) The Governor-General may from time to time, by Order in Council, make regulations for all or any of the following purposes:
   (a) prescribing the maximum amount of the payments, and conditions in respect of the payments, to be made by the Director-General in respect of financial assistance provided for by this Act or by any regulations made under this Act to disabled persons and other persons:
   (b) prescribing the terms and conditions under which financial assistance may be granted to voluntary and charitable organisations under this Act:
   (c) prescribing the terms and conditions under which special arrangements may be made under section 26(2):
@@ -320,6 +321,7 @@ The Governor-General may from time to time, by Order in Council, make regulation
   (i) prescribing fees for the registration of homes under section 18:
   (j) prescribing income tests or assets tests in relation to the receiving of financial assistance under this Act:
   (k) providing for such matters as are contemplated by or necessary for giving full effect to this Act and for its due administration.
+(2) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 32 Repeal and amendment
 [Repealed]
