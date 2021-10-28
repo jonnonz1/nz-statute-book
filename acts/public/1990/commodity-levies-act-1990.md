@@ -1,5 +1,5 @@
 # Commodity Levies Act 1990
-_Consolidation as at 2020-08-07_
+_Consolidation as at 2021-10-28_
 
 > An Act to enable the making of Orders in Council imposing on certain commodities levies payable to bodies corporate representing the views and interests of the persons primarily responsible for paying those levies
 
@@ -44,7 +44,7 @@ _Consolidation as at 2020-08-07_
 (3) Where an industry organisation acquires or builds up any asset with, out of, or by virtue of spending, money paid to it under a levy order as levy, this Act shall have effect—
   (a) in relation to any other asset it acquires in exchange or part exchange for that asset, as if that other asset has also been acquired or built up with, out of, or by virtue of spending, money paid as a levy; and
   (b) in relation to any money it acquires in exchange or part exchange for that asset, as if that money has been paid to the organisation under a levy order as levy.
-(4) Levy orders and orders made under section 13(2) are legislative instruments and disallowable instruments for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
+(4)
 
 ### 2A Transitional, savings, and related provisions
 The transitional, savings, and related provisions set out in Schedule 1AA have effect according to their terms.
@@ -55,7 +55,10 @@ This Act binds the Crown.
 ## Part 1 — Levy orders
 
 ### 4 Governor-General may impose levy
-Subject to section 5, the Governor-General may from time to time, on the recommendation of a Minister, by Order in Council impose on a commodity a levy payable to a body corporate.
+(1) Subject to section 5, the Governor-General may from time to time, on the recommendation of a Minister, by Order in Council impose on a commodity a levy payable to a body corporate.
+(2) An order under this section—
+  (a) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements); and
+  (b) must be confirmed by an Act (see subpart 3 of Part 5 of the Legislation Act 2019).
 
 ### 5 Restrictions on making of orders
 (1) No Minister shall recommend the making of a levy order, unless the body corporate to which the levy is to be payable (in subsection (2) referred to as an applicant organisation) has—
@@ -224,16 +227,9 @@ Every levy order shall provide for—
   (e) a right of appeal to a District Court Judge against decisions of mediators; and
   (f) any other matters relating to the resolution of such disputes.
 
-### 12 Orders are confirmable instruments
-(1) The explanatory note of a levy order made under section 4 must indicate that—
-  (a) it is a confirmable instrument under section 47B of the Legislation Act 2012; and
-  (b) it is revoked at a time stated in the note, unless earlier confirmed by an Act of Parliament; and
-  (c) the stated time is the applicable deadline under section 47C(1)﻿(a) or (b) of that Act.
-(2)
-(3) Unless a levy order has already been—the Minister on whose recommendation it was made shall, by notice published in the Gazette at least 6 months before the time at which the order may be revoked by section 47C(1)﻿(a) or (b) of the Legislation Act 2012, indicate the Minister's intentions with regard to its continuing in force.
-  (a) revoked; or
-  (b) disallowed under Part 3 of the Legislation Act 2012; or
-  (c) confirmed by an Act of Parliament,—
+### 12 Minister must indicate whether orders to continue in force
+(1) The Minister on whose recommendation a levy order was made must indicate the Minister's intentions with regard to the levy order continuing in force by publishing a notice in the Gazette at least 6 months before the deadline that applies under subpart 3 of Part 5 of the Legislation Act 2019 (the 6-month date).
+(2) However, subsection (1) does not apply if the levy order has already been revoked, disallowed under subpart 2 of Part 5 of the Legislation Act 2019, or confirmed by an Act before the 6-month date.
 
 ### 13 Levy orders in force no more than 6 years unless extended
 (1) A levy order is in force for a period of 6 years and, unless extended under subsection (2) or sooner revoked, is revoked at the end of that 6-year period.
@@ -242,6 +238,9 @@ Every levy order shall provide for—
   (b) at least 12 months before the levy order would otherwise be revoked.
 (3) The Governor-General may make multiple Orders in Council under subsection (2) in respect of the same levy order.
 (4) Section 12 applies to a levy order that is extended under subsection (2) as if the extension is the making of the order.
+(5) An order under subsection (2)—
+  (a) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements); and
+  (b) must be confirmed by an Act (see subpart 3 of Part 5 of the Legislation Act 2019).
 
 ## Part 2 — Miscellaneous provisions
 
