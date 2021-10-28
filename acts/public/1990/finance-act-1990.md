@@ -1,5 +1,5 @@
 # Finance Act 1990
-_Consolidation as at 2005-04-01_
+_Consolidation as at 2021-10-28_
 
 > An Act to make provision with respect to public finances and other matters
 
@@ -13,7 +13,8 @@ This Act binds the Crown.
 ## Part 1 — Application of State-Owned Enterprises Act 1986 and other Acts to Telecom Corporation of New Zealand Limited
 
 ### 3 Commencement of this Part
-This Part shall come into force on a date to be appointed by the Governor-General by Order in Council; and 1 or more Orders in Council may be made bringing different provisions of this Part into force on different dates.
+(1) This Part shall come into force on a date to be appointed by the Governor-General by Order in Council; and 1 or more Orders in Council may be made bringing different provisions of this Part into force on different dates.
+(2) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 4 Amendment to State-Owned Enterprises Act 1986
 (1) Amendment(s) incorporated in the Act(s).
