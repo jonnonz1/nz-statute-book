@@ -1,5 +1,5 @@
 # Ngāti Rangiwewehi Claims Settlement Act 2014
-_Consolidation as at 2021-01-30_
+_Consolidation as at 2021-10-28_
 
 ### 1 Title
 This Act is the Ngāti Rangiwewehi Claims Settlement Act 2014.
@@ -847,6 +847,7 @@ In this subpart, unless the context otherwise requires,—
   (b) Ngāti Ranginui:
   (c) Ngāti Pūkenga:
   (d) Tapuika.
+(4) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 77 Ōtanewainuku
 (1) Ōtanewainuku ceases to be a conservation area under the Conservation Act 1987.
