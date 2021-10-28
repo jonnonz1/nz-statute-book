@@ -1,5 +1,5 @@
 # Corporations (Investigation and Management) Act 1989
-_Consolidation as at 2020-08-26_
+_Consolidation as at 2021-10-28_
 
 > An Act to enable the Registrar of Companies and the Financial Markets Authority to determine whether corporations are at risk, to enable action to be taken in relation to such corporations in appropriate cases, and to repeal the Companies Special Investigations Act 1958
 
@@ -307,6 +307,7 @@ If the Registrar or the FMA gives a notice to a corporation under section 30, or
 (3) Every Order in Council made under subsection (1) must specify the date on which, and the time at which, the Order in Council comes into force.
 (4) The date and time as specified must not be earlier than the date on which, and the time at which, the Order in Council is made.
 (5) Subsections (1)﻿(a) and (2) are subject to section 139J(4) of the Reserve Bank of New Zealand Act 1989.
+(8) An Order in Council under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 39 Grounds on which corporation can be declared to be subject to statutory management
 The FMA shall not make a recommendation under section 38 in respect of a corporation unless it is satisfied on reasonable grounds—
@@ -463,6 +464,7 @@ Subject to this Part, a statutory manager of a corporation shall, for the purpos
 (2) The statutory manager of a corporation, not being a corporation referred to in subsection (1), may recommend to the Minister that the corporation be wound up.
 (3) The Governor-General may, by Order in Council, on the advice of the Minister given in accordance with a recommendation of a statutory manager under subsection (2), order that the corporation to which the recommendation relates shall be wound up in such manner as may be specified in the order and, in any such case, the corporation shall be wound up in the manner specified in the order.
 (4) Nothing in this section limits or affects any other enactment which provides for the winding up or liquidation or dissolution of any body corporate or any class of body corporate.
+(5) An Order in Council under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 53 Provisions applying where liabilities included in sale or other disposition of business undertaking of corporation
 Where all or any part of any liability of a corporation is included in the sale or other disposition of the business undertaking of that corporation, or any part of that undertaking, pursuant to section 50—
@@ -550,6 +552,7 @@ A statutory manager of an insurer to whom Part 10 of the Accident Compensation A
   (a) every subsidiary of that corporation, except any subsidiary specified in the order, shall cease to be subject to statutory management on the same date as that specified as the date upon which, and at the same time as that specified as the time at which, the corporation ceases to be subject to statutory management:
   (b) the appointment of any person appointed as a statutory manager of every such subsidiary shall terminate on the date and at the time referred to in paragraph (a):
   (c) the appointment of any person appointed as a member of an advisory committee under section 60 in relation to the statutory management of that subsidiary shall terminate on the date and at the time referred to in paragraph (a).
+(6) An Order in Council under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ## Part 4 — General
 
@@ -609,6 +612,7 @@ Every person who commits an offence against this Act for which no penalty is pro
   (a) to any particular corporation or statutory manager; or
   (b) to any class of corporations or statutory managers; or
   (c) generally to all corporations and statutory managers to which this Act applies.
+(4) An Order in Council under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 72 Proof of transactions
 (1) The presentation to any Registrar of Deeds, or the Registrar-General of Land, or any other person charged with the keeping of any books or registers, of any instrument transferring or otherwise disposing of any property or assets of a corporation subject to statutory management, or any shares in or property or assets of any body corporate incorporated pursuant to section 50(2)﻿(a),—shall, in the absence of evidence to the contrary, be sufficient proof that the transfer or other disposition is made under the authority of that section.
@@ -637,6 +641,7 @@ Every person who commits an offence against this Act for which no penalty is pro
   (e) all the provisions of this Act shall apply in respect of the company, except for the following provisions:
     (i) section 38(1) (which enables an associated person of a corporation to be declared to be subject to statutory management):
     (ii) section 38(2) (which provides that every subsidiary of a corporation declared to be subject to statutory management shall also be subject to statutory management).
+(3) An Order in Council under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 76 Act subject to application of Cape Town Convention and Aircraft Protocol
 (1) Sections 42, 43, 44, and 51 and all other provisions of this Act are subject to section 106 of the Civil Aviation Act 1990 (which provides for the primacy of the provisions of the Cape Town Convention and the Aircraft Protocol) and the rest of Part 12 of the Civil Aviation Act 1990 (which implements the Cape Town Convention and the Aircraft Protocol).
