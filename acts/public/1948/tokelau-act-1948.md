@@ -1,5 +1,5 @@
 # Tokelau Act 1948
-_Consolidation as at 2007-09-20_
+_Consolidation as at 2021-10-28_
 
 > An Act to provide for the incorporation of Tokelau as part of New Zealand, and to make provision for its government
 
@@ -91,6 +91,7 @@ Subject to this Act, the General Fono may determine its own procedures for makin
 (3) Regulations made under this section may—
   (a) impose, or empower any specified authority or person to impose tolls, rates, dues, fees, fines, taxes, and other charges:
   (b) provide for the making and issuing of commemorative coins to be a legal tender only in Tokelau.
+(4) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 4AA Making and issuing of certain Tokelau commemorative coins validated
 (1) The following coins are deemed to be, and always to have been, validly made and issued, and legal tender only in Tokelau:
