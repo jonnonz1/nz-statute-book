@@ -1,5 +1,5 @@
 # Forests (Regulation of Log Traders and Forestry Advisers) Amendment Act 2020
-_Consolidation as at 2020-08-06_
+_Consolidation as at 2021-10-28_
 
 ### 1 Title
 This Act is the Forests (Regulation of Log Traders and Forestry Advisers) Amendment Act 2020.
@@ -451,10 +451,13 @@ After Part 2, insert:Regulation of log traders and forestry advisersPurpose of t
   (2) If regulations authorise a person to make rules,—
     (a) the regulations must require that the Minister be satisfied of the matters set out in section 63ZZC before recommending that rules be made; and
     (b) for the purpose of paragraph (a), section 63ZZC must be read as if the references in that section to regulations were references to the rules; and
-    (c) if the rules relate to cost recovery, sections 63ZT to 63ZW apply with all necessary modifications; and
-    (d) the rules are a legislative instrument and a disallowable instrument for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act; and
-    (e) the regulations must contain a statement about the status of the rules that is consistent with paragraph (d).
-  The Governor-General may, by Order in Council made on the recommendation of the Minister, make regulations that do any of the following:Who must be registeredEntitlement to be registeredObligations of registered personsMiscellaneous
+    (c) if the rules relate to cost recovery, sections 63ZT to 63ZW apply with all necessary modifications.
+    (d)
+    (e)
+  (3) If the regulations authorise a person to make rules,—
+    (a) the rules are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements); and
+    (b) the regulations must contain a statement to that effect.
+  (1) The Governor-General may, by Order in Council made on the recommendation of the Minister, make regulations that do any of the following:Who must be registeredEntitlement to be registeredObligations of registered personsMiscellaneous
     (a) specify a volume of logs for the purpose of the definition of threshold volume in section 63I(3) (to determine who has to register as a log trader under section 63H):
     (b) identify a service as a forestry adviser service (see section 63M(1)﻿(d)):
     (c) set criteria for entitlement to be registered as a log trader or a forestry adviser (see sections 63J(1)﻿(b) and 63N(1)﻿(c)):
@@ -470,6 +473,7 @@ After Part 2, insert:Regulation of log traders and forestry advisersPurpose of t
     (m) specify the information that must be included in an application for registration as a log trader or forestry adviser, or an application for renewal of the registration (see sections 63P(1)﻿(b) and 63S(1)﻿(c)):
     (n) set the registration period that will apply to log traders, forestry advisers, or both (see section 63R):
     (o) specify information that must be kept on a forestry register (see sections 63ZN(3)﻿(d) and 63ZO(3)﻿(e)).
+  (2) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
   (1) The Governor-General may, by Order in Council made on the recommendation of the Minister, make regulations that establish a resolution process for complaints that a registered person (including one whose registration is suspended or revoked) has engaged in unsatisfactory conduct or misconduct (as defined by section 63ZI).
   (2) Without limiting subsection (1), regulations under this section may do any of the following:
     (a) establish a complaints panel and its procedures:
@@ -479,7 +483,9 @@ After Part 2, insert:Regulation of log traders and forestry advisersPurpose of t
     (e) if the panel finds that a registered person has, or may have, engaged in unsatisfactory conduct or misconduct, require the panel to—
       (i) notify the Forestry Authority of that finding; and
       (ii) recommend that the Forestry Authority consider whether to take 1 or more of the actions specified in section 63V.
-  The Governor-General may, by Order in Council made on the recommendation of the Minister, make regulations that establish a process for disputes about a commercial matter between any persons described by section 63ZJ(1) to be resolved by agreement.
+  (3) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+  (1) The Governor-General may, by Order in Council made on the recommendation of the Minister, make regulations that establish a process for disputes about a commercial matter between any persons described by section 63ZJ(1) to be resolved by agreement.
+  (2) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
   (1) The Governor-General may, by Order in Council made on the recommendation of the Minister, make regulations that do any of the following:
     (a) set the amounts of fees and charges for the purposes of this Part:
     (b) set the method by which the amount of any fee or charge is to be calculated:
@@ -490,6 +496,10 @@ After Part 2, insert:Regulation of log traders and forestry advisersPurpose of t
     (b) include more than 1 level of fee or charge for the same service provided in different ways, or provided in, or in respect of, different places:
     (c) differ for otherwise similar services provided in different ways:
     (d) differ depending on the amount of service required or the components of the service required for the particular person.
+  (3) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+  (4) If regulations under subsection (1)﻿(d) authorise the Secretary or another person to grant an exemption, waiver, or refund,—
+    (a) an instrument granting an exemption, waiver, or refund is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements), unless it applies only in a particular case; and
+    (b) the regulations must contain a statement to that effect.
   (1) The Governor-General may, by Order in Council made on the recommendation of the Minister, make regulations that do any of the following:
     (a) impose a levy payable to the Secretary for the purpose of wholly or partially funding the services provided and functions performed by the Forestry Authority:
     (b) provide for exemptions from, or waivers or refunds of, a levy, in whole or in part, in any class of case:
@@ -508,10 +518,12 @@ After Part 2, insert:Regulation of log traders and forestry advisersPurpose of t
     (b) the circumstances in which, and conditions subject to which, persons may be allowed extensions of time for the payment of any levy:
     (c) the payment of additional or increased levy when amounts of levy otherwise payable have been paid late, paid in part, or not paid at all:
     (d) the holding of funds from which payments of levy are to be made, on trust in separate accounts.
-  The explanatory note of regulations made under section 63ZZI must indicate that—
-    (a) they are a confirmable instrument under section 47B of the Legislation Act 2012; and
-    (b) they are revoked at a time stated in the note, unless earlier confirmed by an Act of Parliament; and
-    (c) the stated time is the applicable deadline under section 47C(1)﻿(a) or (b) of that Act.
+  (4) Regulations under this section—
+    (a) are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements); and
+    (b) must be confirmed by an Act (see subpart 3 of Part 5 of the Legislation Act 2019).
+  (5) If regulations under subsection (1)﻿(c) authorise the Secretary to grant an exemption, waiver, or refund,—
+    (a) an instrument granting an exemption, waiver, or refund is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements), unless it applies only in a particular case; and
+    (b) the regulations must contain a statement to that effect.
   (1) The Minister must not recommend that rules or exemption notices be made under this subpart unless the Minister is satisfied—
     (a) that the rules or notices are necessary or desirable for the purposes of this Part (see section 63A); and
     (b) that there has been appropriate consultation with affected persons or representatives of persons substantially affected, including representatives of tangata whenua, forestry industry bodies, and unions (as defined in section 5 of the Employment Relations Act 2000).
@@ -526,14 +538,14 @@ After Part 2, insert:Regulation of log traders and forestry advisersPurpose of t
       (iv) other sale and purchase requirements; and
     (b) must identify which standards apply to registered log traders, registered forestry advisers, or both.
   (3) However, the rules must not impose any condition or requirement that is properly a matter for commercial agreement between parties.
-  (4) Rules under this section are a legislative instrument and a disallowable instrument for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
+  (4) Rules under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
   (1) The Forestry Authority may, on the recommendation of the Minister, make rules that set a code of ethics for registered forestry advisers.
   (2) The rules may include, without limitation, matters relating to—
     (a) professional responsibility (maintaining the highest standards of integrity and technical accuracy); and
     (b) responsibility to clients (including issues of confidence and conflicts of interest); and
     (c) professional work standards by registered forestry advisers in employment; and
     (d) maintaining professional competency.
-  (3) Rules under this section are a legislative instrument and a disallowable instrument for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
+  (3) Rules under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
   (1) The Forestry Authority may, by notice made on the recommendation of the Minister,—
     (a) exempt any class of persons from the requirement—
       (i) to be a registered log trader (see section 63H(1)﻿(b)); or
@@ -547,7 +559,7 @@ After Part 2, insert:Regulation of log traders and forestry advisersPurpose of t
     (b) be granted for an indefinite period but kept under review.
   (3) The breach of a term or condition of an exemption granted under this section is a breach of the provision to which the exemption relates (unless the terms of the exemption otherwise provide).
   (4) A notice under this section must include a statement of the Authority’s reasons for granting the exemption.
-  (5) A notice under this section is a legislative instrument and a disallowable instrument for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
+  (5) A notice under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 8 Section 67A repealed (Part binds the Crown)
 Repeal section 67A.
