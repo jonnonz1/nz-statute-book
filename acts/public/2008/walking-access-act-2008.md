@@ -1,5 +1,5 @@
 # Walking Access Act 2008
-_Consolidation as at 2020-08-07_
+_Consolidation as at 2021-10-28_
 
 ### 1 Title
 This Act is the Walking Access Act 2008.
@@ -225,20 +225,16 @@ If the Commission considers that all or part of any public land should be made a
   (b) any other persons or organisations that the Commission considers representative of persons who have an interest in the naming of the walkway.
 
 ### 24 Declaration of walkway over public land
-(1) The Commission may, after complying with sections 21 to 23 in respect of a proposal to declare public land to be a walkway, publish a notice in the Gazette—
+(1) The Commission may, after complying with sections 21 to 23 in respect of a proposal to declare public land to be a walkway, publish a notice—
   (a) declaring the land to be a walkway; and
   (b) assigning a distinctive name to the walkway; and
   (c) specifying any conditions imposed in relation to the walkway by the Commission or by the administering authority when granting consent to the walkway.
-(2) The declaration of a walkway by a notice published under subsection (1) takes effect—
-  (a) on the date specified in the notice; or
-  (b) if no date is specified, on the date of notification in the Gazette.
-(3) The Commission must, as soon as practicable after declaring the walkway, publicly notify the declaration—
-  (a) in a daily or other newspaper circulating in the area in which the walkway is located; and
-  (b) if the Commission thinks it desirable in the circumstances, by any other method of giving public notice.
+(2) A notice under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+(3)
 
 ### 25 Registration of notice declaring walkway over public land
-(1) If public land that is declared to be a walkway is subject to the Land Transfer Act 2017, the Commission must lodge with the Registrar-General a copy of the Gazette notice referred to in section 24(1).
-(2) The Registrar-General must record the particulars of the Gazette notice in the register.
+(1) If public land that is declared to be a walkway is subject to the Land Transfer Act 2017, the Commission must lodge with the Registrar-General a copy of the notice referred to in section 24(1).
+(2) The Registrar-General must record the particulars of the notice in the register.
 
 **Establishment of walkways over private land**
 
@@ -277,20 +273,16 @@ If the Commission considers that all or part of any private land should be made 
 
 ### 31 Declaration of walkway over private land
 (1) This section applies to private land proposed for use as a walkway and in respect of which the Commission has complied with sections 26 to 30 (either by obtaining an easement or lease over, or by purchasing land that includes, the land proposed for use as a walkway).
-(2) The Commission must publish a notice in the Gazette—
+(2) The Commission must publish a notice—
   (a) declaring the land to be a walkway; and
   (b) assigning a distinctive name to the walkway; and
   (c) specifying any conditions imposed under the easement or lease (if any) in relation to the walkway.
-(3) The declaration of a walkway by a notice published under subsection (2) takes effect—
-  (a) on the date specified in the notice; or
-  (b) if no date is specified, on the date of notification in the Gazette.
-(4) The Commission must, as soon as practicable after declaring the walkway, publicly notify the declaration—
-  (a) in a daily or other newspaper circulating in the area in which the walkway is located; and
-  (b) if the Commission thinks it desirable in the circumstances, by any other method of giving public notice.
+(3) A notice under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+(4)
 
 ### 32 Registration of notice declaring walkway over private land
-(1) The Commission must lodge with the Registrar-General a copy of the Gazette notice referred to in section 31(2).
-(2) The Registrar-General must record the particulars of the Gazette notice in the register.
+(1) The Commission must lodge with the Registrar-General a copy of the notice referred to in section 31(2).
+(2) The Registrar-General must record the particulars of the notice in the register.
 
 ### Subpart 2 — Rights of public and powers of Commission in relation to walkways
 
@@ -378,7 +370,7 @@ The Commission's powers in relation to walkways include the power to—
   (c) did not contain the information required by subsection (2).
 
 ### 40 Revocation of notice declaring walkway
-(1) The Commission may revoke, in whole or in part, any declaration of a walkway, but only if—
+(1) The Commission may by notice revoke, in whole or in part, any declaration of a walkway, but only if—
   (a) the land on which the walkway is located is no longer suitable or available for use as a walkway; or
   (b) the Commission and the controlling authority of the walkway agree that it is no longer appropriate to retain the walkway.
 (2) Land may become unsuitable or unavailable for use as a walkway for any reason, including because of—
@@ -386,18 +378,12 @@ The Commission's powers in relation to walkways include the power to—
   (b) a condition imposed in relation to the walkway; or
   (c) the need to protect the environment; or
   (d) the need for public safety.
-(3) A revocation under subsection (1)—
-  (a) must be notified in the Gazette; and
-  (b) takes effect—
-    (i) on the date specified in the notice; or
-    (ii) if no date is specified, on the date of notification in the Gazette.
-(4) The Commission must, as soon as practicable after revoking a walkway, publicly notify the revocation—
-  (a) in a daily or other newspaper circulating in the area in which the walkway was located; and
-  (b) if the Commission thinks it desirable in the circumstances, by any other method of giving public notice.
+(3) A notice under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+(4)
 
 ### 41 Registration of notice revoking walkway
-(1) If a walkway is revoked under section 40 in respect of land that is subject to the Land Transfer Act 2017, the Commission must lodge with the Registrar-General a copy of the Gazette notice referred to in section 40(3).
-(2) The Registrar-General must record the particulars of the Gazette notice in the register.
+(1) If a walkway is revoked under section 40 in respect of land that is subject to the Land Transfer Act 2017, the Commission must lodge with the Registrar-General a copy of the notice referred to in section 40(3).
+(2) The Registrar-General must record the particulars of the notice in the register.
 
 ### 42 Surrender of easements and leases
 If a walkway over private land is revoked under section 40, the Commission must ensure that, as soon as is reasonably practicable,—
@@ -620,6 +606,7 @@ A court may sentence a person who commits an offence against section 54 or 56 to
   (a) throughout New Zealand; or
   (b) to an area specified in the regulations; or
   (c) to any walkway specified in the regulations.
+(3) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 68 Bylaws
 (1) A controlling authority (other than a department that is a controlling authority) may make bylaws for 1 or both of the following purposes:
@@ -638,24 +625,21 @@ A court may sentence a person who commits an offence against section 54 or 56 to
 (4) Despite anything to the contrary in this Act or in any other enactment, the controlling authority must not delegate the power conferred by subsection (1).
 (5) A person who fails to comply with any bylaw made under this section contravenes this subsection and is liable, on conviction, to a fine not exceeding $1,000.
 
-### 69 Bylaws to be approved by Commission
-(1) Bylaws made under section 68 do not come into force until they have been—
-  (a) approved by the Commission; and
-  (b) published in the Gazette.
-(2) Publication under subsection (1)﻿(b) is, in the absence of proof to the contrary, evidence that the bylaws have been properly made and approved under this Part.
-(3) Despite the requirement for approval and publication of a bylaw by the Commission under subsection (1), a controlling authority may, by resolution that is publicly notified, make minor changes to, or correct errors in, a bylaw, but only if the changes or corrections do not affect—
+### 69 Bylaws to be approved by Commission and published
+(1) A controlling authority that makes bylaws under section 68 must submit them to the Commission for approval.
+(2) The approved bylaws are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+(3) That Act applies as if—
+  (a) the Commission were the maker of the bylaws; and
+  (b) the bylaws were made by the Commission approving them.
+(4) Publication of the bylaws in accordance with subsection (2) is, in the absence of proof to the contrary, evidence that the bylaws have been properly made and approved under this Part.
+
+### 70 Minor changes and error corrections
+(1) Despite the requirements for approval and publication under section 69, a controlling authority may, by resolution that is publicly notified, make minor changes to, or correct errors in, a bylaw, but only if the changes or corrections do not affect—
   (a) an existing right, interest, title, immunity, or duty of any person to whom the bylaw applies; or
   (b) an existing status or capacity of any person to whom the bylaw applies.
-(4) In this section and section 70, publicly notify means to give notice—
+(2) In this section, publicly notify means to give notice—
   (a) in a daily or other newspaper circulating in the area in which the walkway is located; and
   (b) if the controlling authority thinks it desirable in the circumstances, by any other method of giving public notice.
-
-### 70 Responsibility of controlling authority to make bylaws available
-The controlling authority responsible for making a bylaw under section 68 must, as soon as practicable after the bylaw is in force under section 69(1),—
-  (a) publicly notify the bylaw; and
-  (b) ensure that copies of the bylaw are held and may be inspected and purchased—
-    (i) at the office of the controlling authority; and
-    (ii) if the controlling authority is not a local authority, at the office of every local authority in whose district or region the walkway is located.
 
 ### 71 Certain other requirements do not apply to bylaws
 Section 157 of the Local Government Act 2002 does not apply to a bylaw made by a local authority under section 68.
