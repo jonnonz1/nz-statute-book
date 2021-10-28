@@ -1,5 +1,5 @@
 # International War Crimes Tribunals Act 1995
-_Consolidation as at 2017-03-01_
+_Consolidation as at 2021-10-28_
 
 > An Act to provide for New Zealand to assist—athe International Tribunal for the Prosecution of Persons Responsible for Serious Violations of International Humanitarian Law Committed in the Territory of the Former Yugoslavia since 1991; andbthe International Criminal Tribunal for the Prosecution of Persons Responsible for Genocide and other Serious Violations of International Humanitarian Law Committed in the Territory of Rwanda and Rwandan citizens responsible for genocide and other such violations committed in the territory of neighbouring States, between 1 January 1994 and 31 December 1994; andcother ad hoc tribunals that may be established by the Security Council of the United Nations under chapter VII of the Charter of the United Nations for the prosecution of violations of international humanitarian law—in the performance of their functions
 
@@ -482,18 +482,19 @@ The Attorney-General may decline to comply with a request to which section 21, 2
 (2) If the Attorney-General declines, in accordance with this Act, to comply with a request, the Attorney-General shall give reasons to the Tribunal for the Attorney-General's decision.
 
 ### 60 Regulations
-The Governor-General may from time to time, by Order in Council, make regulations for all or any of the following purposes:
+(1) The Governor-General may from time to time, by Order in Council, make regulations for all or any of the following purposes:
   (a) prescribing the procedure to be followed in dealing with requests made by a Tribunal, and providing for notification of the results of action taken pursuant to any such request:
   (b) prescribing the procedures for obtaining evidence or producing documents or other articles pursuant to a request made by a Tribunal:
   (c) providing for the payment of fees, travelling allowances, and expenses to any person in New Zealand who gives or provides evidence or assistance pursuant to a request made by a Tribunal:
   (d) prescribing conditions for the protection of any property sent to a Tribunal pursuant to a request made under this Act; and making provision for the return of property in New Zealand pursuant to a request:
   (e) prescribing the forms of applications, notices, certificates, warrants, and other documents for the purposes of this Act, and requiring the use of such forms:
   (f) providing for such other matters as are contemplated by or are necessary for giving full effect to this Act and for its due administration.
+(2) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 61 Additional tribunals to be added by Order in Council
 (1) The Governor-General may from time to time, by Order in Council, declare a tribunal that has been established by the Security Council of the United Nations under chapter VII of the Charter of the United Nations to be a tribunal for the purposes of this Act, and, for that purpose, may also, by the same Order in Council, add a new Part to the Schedule setting out the statute of that tribunal.
 (2) The Governor-General may from time to time, by Order in Council, declare that a tribunal has ceased to be a tribunal for the purposes of this Act and, for that purpose, may also, by the same Order in Council, omit the Part of the Schedule that sets out the statute of that tribunal.
-(3) An Order in Council made under this section is a legislative instrument and a disallowable instrument for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
+(3) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 62 Amendment to Diplomatic Privileges and Immunities Act 1968
 Amendment(s) incorporated in the Act(s).
