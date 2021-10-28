@@ -1,5 +1,5 @@
 # Affiliate Te Arawa Iwi and Hapu Claims Settlement Act 2008
-_Consolidation as at 2021-01-30_
+_Consolidation as at 2021-10-28_
 
 ## Preamble
 (1) The Affiliate (comprising the Iwi and Hapu of Te Arawa that are now affiliated to the Te Pumautanga o Te Arawa trust) traditionally operated as independent entities, coming together when prompted by common interests. Together they exercised customary interests within the approximately 1 150 000-acre area from the Bay of Plenty coast to the inland Rotorua lakes and into the interior to the Mamaku Ranges and Kaingaroa Forest. Other iwi and hapu also exercised customary interests within this area. The Affiliate engaged with the opportunities created by the arrival of Pakeha traders and missionaries in its rohe from the 1830s. By the late 1860s, however, few Pakeha had settled in the area, and the Affiliate still held almost all of its land in customary title:
@@ -17,6 +17,7 @@ This Act is the Affiliate Te Arawa Iwi and Hapu Claims Settlement Act 2008.
 ### 2 Commencement
 (1) Sections 107 and 108 come into force on a date to be appointed by the Governor-General by Order in Council.
 (2) The rest of this Act comes into force on a date to be appointed by the Governor-General by Order in Council.
+(3) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ## Part 1 — Purpose of Act, acknowledgements and apology, interpretation provisions, settlement of claims, and miscellaneous matters
 
@@ -690,20 +691,22 @@ If the trustees advise the New Zealand Conservation Authority in writing that th
 (3) An amendment initiated under subsection (1) is an amendment for the purposes of section 17I(1) to (3) of the Conservation Act 1987, or section 46(1) to (4) of the National Parks Act 1980, as the case may be.
 
 ### 61 Regulations
-The Governor-General may, by Order in Council made on the recommendation of the Minister of Conservation, make regulations for all or any of the following purposes:
+(1) The Governor-General may, by Order in Council made on the recommendation of the Minister of Conservation, make regulations for all or any of the following purposes:
   (a) to provide for the implementation of objectives included in a conservation document under section 60(1):
   (b) to regulate or prohibit activities or conduct by members of the public in relation to a whenua rahui:
   (c) to create offences in respect of the contravention of any regulations made under paragraph (b), and provide for the imposition of fines—
     (i) not exceeding $5,000 for those offences; and
     (ii) for a continuing offence, an additional amount not exceeding $50 for every day during which the offence continues.
+(2) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 62 Bylaws
-The Minister of Conservation may make bylaws for all or any of the following purposes:
+(1) The Minister of Conservation may make bylaws for all or any of the following purposes:
   (a) to provide for the implementation of objectives included in a conservation document under section 60(1):
   (b) to regulate or prohibit activities or conduct by members of the public in relation to a whenua rahui:
   (c) to create offences in respect of the contravention of any bylaws made under paragraph (b), and provide for the imposition of fines—
     (i) not exceeding $1,000 for those offences; and
     (ii) for a continuing offence, an additional amount not exceeding $50 for every day during which the offence continues.
+(2) Bylaws under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 63 Existing classification of whenua rahui
 The purpose of, or classification of an area as, a national park, conservation area, or reserve is not affected by the fact that the area is, or is within, a whenua rahui.
@@ -722,6 +725,7 @@ The purpose of, or classification of an area as, a national park, conservation a
   (b) the Commissioner of Crown Lands; or
   (c) any other responsible officer.
 (5) Subsection (4) does not apply to Matawhaura (part of the Lake Rotoiti Scenic Reserve) upon the vesting of that site under section 119(3).
+(6) The Minister of Conservation must ensure that an order under this section is published in the Gazette.
 
 ### 65 Exercise of powers, duties, and functions
 (1) Nothing in section 50 or 51 affects or may be taken into account in the exercise of any power by, or performance of any duty or function of, any person under any legislation or bylaw.
@@ -793,6 +797,7 @@ The purpose or classification of an area under the Reserves Act 1977 is not affe
   (a) the trustees, the Minister of Conservation, and the Rotorua District Council have agreed in writing that the status of a specially classified reserve is no longer appropriate for the area concerned; or
   (b) the reservation of all or part of the specially classified reserve as a reserve is revoked.
 (3) The Minister of Conservation must consult with the trustees before deciding whether or not to revoke the reservation of all or part of a specially classified reserve.
+(4) The Minister of Conservation must ensure that an order under this section is published in the Gazette.
 
 ### 79 Exercise of powers, duties, and functions
 (1) Nothing in section 69 or 70 affects or may be taken into account in the exercise of any power by, or performance of any duty or function of, any person under any legislation or bylaw.
