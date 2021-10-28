@@ -1,5 +1,5 @@
 # Corrections Act 2004
-_Consolidation as at 2020-12-01_
+_Consolidation as at 2021-10-28_
 
 ### 1 Title
 This Act is the Corrections Act 2004.
@@ -10,6 +10,7 @@ This Act is the Corrections Act 2004.
 (1) This Act (except sections 182A to 182E and sections 200 to 203) comes into force on a date to be appointed by the Governor-General by Order in Council.
 (1A) Sections 182A to 182E come into force on the date on which the Parole (Extended Supervision) Amendment Act 2004 comes into force.
 (2) Sections 200 to 203 come into force on the day after the date on which this Act receives the Royal assent.
+(3) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 3 Interpretation
 (1) In this Act, unless the context otherwise requires,—
@@ -546,6 +547,7 @@ The chief executive must appoint as many suitable employees of the department as
   (a) community work centres, or for any community work centre or class of community work centres specified in the rules:
   (b) all offenders subject to a sentence of community work or any class of those offenders specified in the rules.
 (3) Any rules made under subsection (1) must not be inconsistent with this Act, the Sentencing Act 2002, the Parole Act 2002, or any regulations made under any of those Acts.
+(4) Rules under subsection (1) are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### Subpart 3 — Establishment and operation of prisons
 
@@ -575,6 +577,7 @@ The chief executive must appoint as many suitable employees of the department as
   (b) in the case of rules made by the manager of a Police jail, by the Commissioner of Police.
 (5) Any rules made under subsection (1) or subsection (2) must not be inconsistent with this Act, the Sentencing Act 2002, the Parole Act 2002, or any regulations made under any of those Acts.
 (6) No rules may be made under this section that relate to matters for which rules must or may be made under section 45A.
+(7) Rules under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 **Detention and custody of prisoners**
 
@@ -747,18 +750,15 @@ A prisoner must promptly obey every lawful order given to him or her by—
 ### 45A Rules about authorised property
 (1) The chief executive—
   (a) must, in respect of all corrections prisons, make rules declaring the items of property that prisoners may be issued with or allowed to keep; and
-  (b) may make rules imposing conditions that attach to an item of property so declared; and
-  (c) must publish the rules on an Internet site; and
-  (d) must make the rules available for public inspection free of charge and for purchase at a reasonable price; and
-  (e) must give notice in the Gazette whenever rules are made or amended under this section, stating—
-    (i) the Internet site on which the rules are published; and
-    (ii) the place where the rules can be inspected; and
-    (iii) the place where the rules can be purchased.
+  (b) may make rules imposing conditions that attach to an item of property so declared.
+  (c)
+  (d)
+  (e)
 (2) The Commissioner of Police—
   (a) must, in respect of all Police jails, make rules declaring the items of property that prisoners may be issued with or allowed to keep; and
-  (b) may make rules specifying conditions that attach to an item of property so declared; and
-  (c) must arrange for the rules to be made available and published in accordance with subsection (1)﻿(c) to (e).
-(3) Rules made under subsection (1) or (2) are deemed to be regulations for the purposes of the Regulations (Disallowance) Act 1989 but not for the purposes of the Acts and Regulations Publication Act 1989.
+  (b) may make rules specifying conditions that attach to an item of property so declared.
+  (c)
+(3) Rules under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 **Trust account and purchasing system**
 
@@ -1786,6 +1786,7 @@ In this section and in sections 112 to 122, unless the context otherwise require
     (i) is a person of a kind or description for the time being exempted from monitoring under this Act by the Governor-General by Order in Council (being an order specifying a purpose or purposes for which the exemption is granted); and
     (ii) is acting for a purpose specified in the order; or
   (f) a call between a prisoner and a person (other than a prisoner) for the time being exempted from monitoring under this Act by the chief executive.
+(3) An order under subsection (2)﻿(e)﻿(i) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 115 Only certain persons may monitor
 (1) No person other than the chief executive or a person who is an eligible employee authorised by the chief executive to monitor prisoner calls (in subsection (2), and sections 117, 118, and 120 referred to as an authorised person) may monitor a prisoner call under this Act.
@@ -3065,6 +3066,7 @@ Without limiting clauses 2 to 4 of Schedule 6 of the Public Service Act 2020, bu
   (a) generally in respect of all prisons or in respect of any specified prison or in respect of prisons of any specified class or classes:
   (b) generally in respect of all community work centres or in respect of any specified work centre or in respect of community work centres of any specified class or classes:
   (c) generally in respect of all persons (whether persons under control or supervision, staff members at any prison, employees of the department supervising offenders undergoing community work, probation officers, security officers, contractors, security contractors, independent contractors, visitors, or any other person) or in respect of persons or office holders of any specified class or classes.
+(3) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 201 Regulations relating to good management of corrections system
 Regulations made under section 200(1)﻿(a) may include (without limitation) provisions—
