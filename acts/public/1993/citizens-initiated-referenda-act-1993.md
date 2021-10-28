@@ -1,5 +1,5 @@
 # Citizens Initiated Referenda Act 1993
-_Consolidation as at 2017-03-21_
+_Consolidation as at 2021-10-28_
 
 > An Act to provide for the holding, on specific questions, of citizens initiated referenda, the results of which referenda will indicate the views held by the people of New Zealand on specific questions but will not be binding on the New Zealand Government
 
@@ -166,6 +166,7 @@ The Speaker, on receiving from the Clerk of the House of Representatives an indi
 (2) Within 1 month after the date on which the indicative referendum petition is presented to the House of Representatives, the Governor-General must either—
   (a) make an Order in Council appointing, in accordance with section 22AA, the date on which the indicative referendum is to be held under this Act; or
   (b) make an Order in Council under section 5(b) of the Referenda (Postal Voting) Act 2000 specifying the indicative referendum as a referendum that must be conducted by postal voting.
+(3) An order under subsection (2)﻿(a) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 22AA Date of indicative referendum not conducted by postal voting
 (1) The date appointed under section 22(2)﻿(a) for holding the indicative referendum under this Act must be a date within 12 months after the date on which the indicative referendum petition is presented to the House of Representatives.
@@ -181,6 +182,7 @@ The Speaker, on receiving from the Clerk of the House of Representatives an indi
   (b) the House of Representatives passes a resolution requiring the indicative referendum to be held on the polling day for the general election.
 (6) In the circumstances described in subsection (5), the indicative referendum is held on polling day.
 (7) If a writ for a general election is issued under section 125 of the Electoral Act 1993 after an Order in Council has been made under section 22(2)﻿(a), the Governor-General may, by Order in Council, revoke the former Order in Council and appoint the polling day for the general election as the day on which the indicative referendum is to be held.
+(8) An order under subsection (7) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 22AB Date of indicative referendum conducted by postal voting
 (1) This section applies when the Governor-General makes an Order in Council in accordance with section 22(2)﻿(b) specifying that the indicative referendum be conducted by postal voting.
@@ -199,6 +201,7 @@ The Speaker, on receiving from the Clerk of the House of Representatives an indi
   (b) the House of Representatives passes a resolution requiring the voting period to close on the polling day for the general election.
 (7) In the circumstances described in subsection (6), the date on which the voting period closes is polling day.
 (8) If a writ for a general election is issued under section 125 of the Electoral Act 1993 after an Order in Council has been made in accordance with section 22(2)﻿(b), the Governor-General may, by Order in Council, revoke the former Order in Council and appoint the polling day for the general election as the day on which the voting period closes.
+(9) An order under subsection (8) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 22A Withdrawal of indicative referendum petition
 (1) The promoter of an indicative referendum petition may withdraw that petition by delivering to the Clerk of the House of Representatives a notice in writing withdrawing that petition, before the Governor-General has, under section 26 or section 26A, as the case may require, issued a writ for the holding of the indicative referendum.
@@ -555,7 +558,7 @@ Every person is guilty of a corrupt practice within the meaning of the Electoral
 The Ombudsmen Act 1975 and the Official Information Act 1982 shall apply in relation to the Clerk of the House of Representatives as if the Clerk of the House of Representatives were, in relation to the functions conferred on the Clerk of the House of Representatives by this Act, an organisation named in Schedule 1 of the Ombudsmen Act 1975.
 
 ### 58 Regulations
-The Governor-General may from time to time, by Order in Council, make regulations for all or any of the following purposes:
+(1) The Governor-General may from time to time, by Order in Council, make regulations for all or any of the following purposes:
   (a) applying, with or without modifications, for the purposes of this Act, provisions of any regulations made under the Electoral Act 1993:
   (b) prescribing forms in relation to the holding of an indicative referendum:
   (c) prescribing the time at which, and the manner in which, special voters may vote (whether at a polling place or not and whether in or outside New Zealand) at an indicative referendum:
@@ -563,6 +566,7 @@ The Governor-General may from time to time, by Order in Council, make regulation
   (e) prescribing, for the purposes of an indicative referendum, different methods of voting for different classes of special voters:
   (f) prescribing fees for the purposes of this Act:
   (g) providing for such matters as are contemplated by or necessary for giving full effect to the provisions of this Act and for its due administration.
+(2) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 58A Rules of court
 Rules of court may be made in the manner prescribed in the Senior Courts Act 2016 for the purposes of Part 6.
