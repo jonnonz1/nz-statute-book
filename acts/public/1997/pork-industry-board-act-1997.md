@@ -1,5 +1,5 @@
 # Pork Industry Board Act 1997
-_Consolidation as at 2020-08-07_
+_Consolidation as at 2021-10-28_
 
 > An Act to consolidate and amend the Pork Industry Board Act 1982
 
@@ -410,7 +410,7 @@ For conducting a performance audit, the Board must pay the person who conducts i
 ### 35 Pork Industry Board levy
 (1) This subsection imposes a levy on all pigs slaughtered in licensed premises (other than licensed premises in the Chatham Islands).
 (2) All levy money paid to the Board forms part of its funds.
-(3) In any financial year, the Board may by notice in the Gazette fix the rate at which and basis on which the levy is to be calculated on pigs of any kind slaughtered in the next financial year.
+(3) In any financial year, the Board may by notice fix the rate at which and basis on which the levy is to be calculated on pigs of any kind slaughtered in the next financial year.
 (4) The Board—
   (a) may fix different rates and bases for the calculation of the levy on pigs of different kinds; and
   (b) may fix a zero rate for the calculation of the levy on pigs of any kind.
@@ -418,6 +418,7 @@ For conducting a performance audit, the Board must pay the person who conducts i
 (6) If in any financial year no rate and basis have in fact been fixed under this section for the calculation of the levy on pigs of any kind slaughtered in the next financial year, there are deemed to have been fixed under this section for the calculation of the levy on pigs of that kind slaughtered in the next financial year the rate and basis last fixed for the calculation of the levy on pigs of that kind (whether as pigs of that kind or as pigs of a more broadly described kind of which that kind forms part)—
   (a) under this section; or
   (b) where no rate and basis have ever been fixed under this section for the calculation of the levy on pigs of that kind, under section 30(3) of the former Act.
+(7) A notice under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 36 Levy returns
 (1) The licensee of licensed premises (in the Chatham Islands or elsewhere) where pigs are slaughtered must make to the Director-General, in accordance with this section and any regulations made under this Act, returns of the pigs slaughtered there.
@@ -425,8 +426,9 @@ For conducting a performance audit, the Board must pay the person who conducts i
   (a) must be in a form determined by the Director-General after consulting the Board; and
   (b) must be made to the Director-General within 10 days of the end of the period to which it relates; and
   (c) in the case of a rural slaughterhouse, must be made in respect of the quarterly periods ending with the last days of March, June, September, and December; and
-  (d) in all other cases, must be made in respect of such periods as the Director-General for the time being specifies in that behalf by notice in the Gazette.
+  (d) in all other cases, must be made in respect of such periods as the Director-General for the time being specifies in that behalf by notice.
 (3) For the period before a notice under subsection (2)﻿(d) takes effect, levy returns for licensed premises other than rural slaughterhouses must be made in respect of weekly periods.
+(4) A notice under subsection (2)﻿(d) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 37 Payment of levy
 (1) The Director-General must make to licensees of licensed premises a written demand of any amount of levy money payable under this Act.
@@ -603,6 +605,7 @@ A licensee of licensed premises who—may recover from the owner of the pig when
   (j) providing for the disclosure or publication of corporate intent and accountability arrangements of companies wholly or partly owned by the Board:
   (k) providing for such matters as are contemplated by or necessary for giving full effect to the provisions of this Act and for its due administration.
 (2) Where regulations made under this Act provide for the payment of an additional charge or levy, every reference to the levy in this Act is deemed to include a reference to the additional charge or levy.
+(3) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 51 Notices
 (1) The Board may give any person a notice under this Act by causing it to be—
