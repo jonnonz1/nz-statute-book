@@ -1,5 +1,5 @@
 # Protected Objects Act 1975
-_Consolidation as at 2018-10-01_
+_Consolidation as at 2021-10-28_
 
 > Title
 
@@ -121,10 +121,11 @@ This Act shall bind the Crown.
       (A) granted the application for permission to export; and
       (B) provided that person with a certificate of permission under section 7H to export that object; and
     (iii) the export conforms with any terms and conditions imposed by that authorisation; or
-  (b) unless the chief executive, by notice in the Gazette, exempts any category or categories of protected New Zealand objects from the provisions of this section if he or she is satisfied that sufficient examples of that category or those categories are held in public ownership in New Zealand.
+  (b) unless the chief executive, by notice, exempts any category or categories of protected New Zealand objects from the provisions of this section if he or she is satisfied that sufficient examples of that category or those categories are held in public ownership in New Zealand.
 (2) Every person who exports, or attempts to export, a protected New Zealand object, other than in accordance with subsection (1) or without reasonable excuse in the circumstances, commits an offence and is liable on conviction,—
   (a) in the case of an individual, to a fine not exceeding $100,000 or a term of imprisonment not exceeding 5 years, or to both:
   (b) in the case of a body corporate, to a fine not exceeding $200,000.
+(3) A notice under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 6 Applications for permission to export protected New Zealand objects
 (1) An application for permission to export a protected New Zealand object from New Zealand must—
@@ -448,7 +449,7 @@ The chief executive shall include in his or her report to the Minister for every
 The provisions of this Act are in addition to and not in substitution for the provisions of any other enactment but, except where this Act otherwise provides, nothing in this Act shall derogate from any provision of any other enactment. Compliance with the provisions of any other enactment shall not confer any relief or exemption from liability under this Act but no person shall be convicted of any offence under this Act in respect of the same matter for which he or she has been convicted of an offence under any other enactment.
 
 ### 22 Regulations
-The Governor-General may, by Order in Council, make regulations—
+(1) The Governor-General may, by Order in Council, make regulations—
   (a) specifying that a particular object is a protected New Zealand object if that object—
     (i) is substantially physically authentic and is—
       (A) made or naturally occurring in New Zealand; or
@@ -462,6 +463,7 @@ The Governor-General may, by Order in Council, make regulations—
     (iii) is of such significance to New Zealand or part of New Zealand that its export from New Zealand would substantially diminish New Zealand’s cultural heritage; and
   (b) specifying that a State is a reciprocating State; and
   (c) providing for any matters that are contemplated by this Act, or necessary for giving full effect to its provisions and for its due administration.
+(2) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 23 Consequential amendments
 Amendment(s) incorporated in the Act(s).
