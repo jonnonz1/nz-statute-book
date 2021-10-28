@@ -1,5 +1,5 @@
 # Search and Surveillance Act 2012
-_Consolidation as at 2021-10-05_
+_Consolidation as at 2021-10-28_
 
 ### 1 Title
 This Act is the Search and Surveillance Act 2012.
@@ -9,6 +9,7 @@ This Act is the Search and Surveillance Act 2012.
 (2) The rest of this Act comes into force on a date appointed by the Governor-General by Order in Council, and 1 or more Orders in Council may be made bringing different provisions into force on different dates.
 (3) To the extent that it is not previously brought into force under subsection (2), the rest of this Act comes into force on 1 April 2014.
 (4) In this section, provision includes any item, or any part of an item, in the Schedule.
+(5) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ## Part 1 — General provisions
 
@@ -582,6 +583,7 @@ Nothing in this Part affects the common law defence of necessity as it applies t
 (4) In this section, specified law enforcement agency means—
   (a) the New Zealand Customs Service; or
   (b) the Department of Internal Affairs.
+(5) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 51 Conditions for issuing surveillance device warrant
 The conditions for issuing a surveillance device warrant are that—
@@ -3457,6 +3459,7 @@ The Telecommunications (Residual Provisions) Act 1987 (1987 No 116) is repealed.
   (b) prescribe any form of warrant or order by listing the minimum information requirements to be included:
   (c) authorise a chief executive or any other specified person or class of person to authorise variations in the language, provisions, or format of any form of warrant or order in the warrant or order:
   (d) authorise a chief executive or any other specified class of person to include additional information in a prescribed form of warrant or order.
+(3) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 **Transitional provisions**
 
@@ -3559,6 +3562,7 @@ Until the commencement date (within the meaning of section 394 of the Criminal P
     (iii) specified provisions repealed or amended by this Act are to continue to apply:
   (d) providing for any other matters necessary for facilitating or ensuring an orderly transition from the provisions of any enactments replaced by this Act to the provisions of this Act.
 (2) No regulations made under this section may be made, or continue in force, after 1 April 2017.
+(3) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 **Review provision**
 
