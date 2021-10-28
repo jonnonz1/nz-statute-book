@@ -1,5 +1,5 @@
 # Electronic Identity Verification Act 2012
-_Consolidation as at 2020-12-01_
+_Consolidation as at 2021-10-28_
 
 ### 1 Title
 This Act is the Electronic Identity Verification Act 2012.
@@ -8,6 +8,7 @@ This Act is the Electronic Identity Verification Act 2012.
 (1) Parts 2 and 3 (except sections 67 to 72) and Schedules 1 and 2 come into force on a date appointed by the Governor-General by Order in Council and 1 or more Orders in Council may be made appointing different dates for different provisions and for different purposes.
 (2) Any provisions of Parts 2 and 3 and Schedules 1 and 2 that are not in force on the day that is 12 months after the date on which this Act receives the Royal assent come into force on that day.
 (3) The rest of this Act comes into force on the day after the date on which it receives the Royal assent.
+(4) An order under subsection (1) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ## Part 1 — Preliminary provisions
 
@@ -91,7 +92,7 @@ In this Act, unless the context otherwise requires,—
     (b) includes a provision that sets out consequences that depend on whether or not the provision is complied with
   - **Minister** means the Minister of the Crown who is, with the authority of the Prime Minister, for the time being responsible for the administration of this Act
   - **organisation** includes—
-    (a) a person as defined in section 29 of the Interpretation Act 1999; and
+    (a) a person as defined in section 13 of the Legislation Act 2019; and
     (b) a partnership; and
     (c) a government department named in Part 1 of Schedule 1 of the Ombudsmen Act 1975; and
     (d) a Crown entity as defined in section 10(1) of the Crown Entities Act 2004
@@ -520,9 +521,9 @@ The functions of the chief executive under this Act are the following:
 (2) The material is—
   (a) approvals given by the chief executive under section 45:
   (b) requirements for information specified by the chief executive under section 46:
-  (c) standards or specifications set by the chief executive under section 47:
+  (c)
   (d) reports required by the chief executive under section 48.
-(3) The chief executive may publish the material described in subsection (2)﻿(c) or (d)—
+(3) The chief executive may publish the material described in subsection (2)(d)—
   (a) in its entirety; or
   (b) with information withheld—
     (i) for reasons in the Official Information Act 1982; or
@@ -572,6 +573,7 @@ The functions of the chief executive under this Act are the following:
   (a) measures to protect the privacy of individuals:
   (b) measures to protect and enhance the security of information supplied to participating agencies:
   (c) minimum requirements for the storage of information supplied by the Service.
+(3) A standard or specification under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 48 Chief executive may require participating agencies to report on use of electronic identity credentials or electronic identity photographs
 (1) The chief executive may require a participating agency to provide to the chief executive, by a given date and time or at specified intervals, a written or an electronic report on the use of electronic identity credentials or electronic identity photographs by the agency.
@@ -825,6 +827,7 @@ The following provisions apply to the relationship between this Act and the Offi
   (d) omit the name of a participating agency.
 (3) Regulations made under subsection (1) may specify a particular body, office, or officer or a class or classes of bodies, offices, or officers.
 (4) Regulations under subsection (2)﻿(d) may be made only on the recommendation of the Minister made in accordance with section 68.
+(5) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 68 When Minister may recommend certain regulations relating to participating agencies
 The Minister may recommend the making of regulations under section 67(2)﻿(d) to omit the name of a participating agency if, among other things,—
@@ -841,6 +844,7 @@ The Minister may recommend the making of regulations under section 67(2)﻿(d) t
   (c) omit the name of an agency and substitute another name in recognition of a change in the agency's name:
   (d) omit the name of an agency.
 (3) Regulations made under subsection (1) may specify a particular organisation or a class or classes of organisations.
+(4) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 70 Regulations relating to time periods
 (1) The Governor-General may, by Order in Council, make regulations for the purposes of section 10—
@@ -867,6 +871,7 @@ The Minister may recommend the making of regulations under section 67(2)﻿(d) t
   (d) prescribe a period or periods for which the Service may retain information according to the ground in section 33(1) on which the electronic identity credential is cancelled:
   (e) specify that the chief executive may authorise the extension of a prescribed period to enable the completion of an investigation into and, if applicable, a prosecution for the commission of a specified offence.
 (4) The Minister must consult the Privacy Commissioner before recommending to the Governor-General the making of regulations under subsection (3).
+(5) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 71 Regulations relating to fees
 (1) The Governor-General may, by Order in Council, make regulations prescribing the fees or charges payable to enable the recovery of direct and indirect costs of the department in administering this Act that are not provided for by—
@@ -890,13 +895,15 @@ The Minister may recommend the making of regulations under section 67(2)﻿(d) t
     (i) are payable to a third party by any person other than the chief executive for the performance of any of the chief executive's functions or duties, or the exercise of any of the chief executive's powers, under this Act in accordance with an agreement entered into under section 51(1)﻿(b); and
     (ii) may be set by the third party in accordance with a separate agreement between the third party and the other person.
 (5) Nothing in subsection (4) prevents regulations being made under subsection (1) prescribing the fees or charges that are payable for applications to which any of sections 28(1)﻿(d), 30(2)﻿(e), and 31(1)﻿(b) apply even though the agreement referred to in subsection (4)﻿(b)﻿(i) provides for a third party to perform functions or duties, or exercise powers, in relation to those applications.
+(6) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 72 Other regulations
-The Governor-General may, by Order in Council, make regulations—
+(1) The Governor-General may, by Order in Council, make regulations—
   (a) declaring any government department to be a law enforcement agency for the purposes of this Act:
   (b) prescribing any other information or documentation that must be included in an application:
   (ba) specifying any other purposes for which the Service may supply electronic identity photographs to a participating agency under section 20A:
   (c) providing for any other matters contemplated by this Act that are necessary for its administration or necessary for giving it full effect.
+(2) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 **Transitional provisions**
 
