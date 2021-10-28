@@ -1,5 +1,5 @@
 # Financial Reporting Act 2013
-_Consolidation as at 2020-12-01_
+_Consolidation as at 2021-10-28_
 
 ### 1 Title
 This Act is the Financial Reporting Act 2013.
@@ -8,16 +8,18 @@ This Act is the Financial Reporting Act 2013.
 (1) This Act (except section 59) comes into force on a date appointed by the Governor-General by Order in Council; and 1 or more orders may be made appointing different dates for different provisions and for different purposes.
 (2) Section 59 comes into force on the day after the date on which this Act receives the Royal assent.
 (3) To the extent that it is not previously brought into force under subsection (1) or (2), the rest of this Act comes into force on 1 April 2017.
+(4) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ## Part 1 — Preliminary provisions
 
 ### 3 Purpose
 The purpose of this Act is to—
   (a) continue the External Reporting Board and define its functions and powers; and
-  (b) provide for the issue of financial reporting standards and auditing and assurance standards; and
-  (c) provide for auditor qualifications and other standard provisions relating to financial reporting duties under other enactments.
+  (b) provide for the issue of financial reporting standards, climate standards, and auditing and assurance standards; and
+  (c) provide for auditor qualifications and other standard provisions relating to financial reporting duties under other enactments; and
+  (d) provide for standard provisions relating to climate-related disclosure duties under the Financial Markets Conduct Act 2013.
 
-### 4 Overview of financial reporting duties
+### 4 Overview of financial reporting and other duties
 (1) This Act provides for various matters relating to financial reporting duties under other enactments, including—
   (a) defining key concepts (for example, generally accepted accounting practice, financial statements, and group financial statements); and
   (b) providing for the Board to prepare and issue financial reporting standards and auditing and assurance standards; and
@@ -27,7 +29,10 @@ The purpose of this Act is to—
   (b) prepare financial statements or group financial statements in accordance with generally accepted accounting practice or non-GAAP standards; and
   (c) have those statements audited; and
   (d) register or lodge those statements or otherwise distribute those statements to interested persons (for example, shareholders or members).
-(3) This section is only a guide to the general scheme and effect of this Act and other enactments in relation to financial reporting duties.
+(2A) This Act also provides for various matters relating to climate-related disclosure duties under the Financial Markets Conduct Act 2013, including—
+  (a) defining key concepts (for example, climate-related disclosure framework, climate statements, and group climate statements); and
+  (b) providing for the Board to prepare and issue climate standards.
+(3) This section is only a guide to the general scheme and effect of this Act and other enactments in relation to financial reporting duties, and of this Act in relation to climate-related disclosure duties.
 
 ### 5 Interpretation
 (1) In this Act, unless the context otherwise requires,—
@@ -35,7 +40,8 @@ The purpose of this Act is to—
     (a) means a year ending on a balance date of the entity, and if, as a result of the date of the formation or incorporation of the entity or a change of the balance date of the entity, the period ending on that date is longer or shorter than a year, that longer or shorter period is an accounting period; and
     (b) includes, in the case of an entity that is formed or incorporated under, or is affected by, an Act that specifies, refers to, or defines a financial year for the entity, that financial year
   - **accredited body** means a person that is granted accreditation, or is treated as having been granted accreditation, under subpart 5 of Part 2 of the Auditor Regulation Act 2011
-  - **applicable auditing and assurance standard** , in relation to an audit, means an auditing and assurance standard that applies to the audit in accordance with the standard
+  - **applicable auditing and assurance standard** , in relation to an audit or an assurance engagement, means an auditing and assurance standard that applies to the audit or the assurance engagement in accordance with the standard
+  - **applicable climate standard** , in relation to a reporting entity and to an accounting period or an interim accounting period of a reporting entity, means a climate standard that applies to the reporting entity and to the accounting period or the interim accounting period in accordance with the climate standard
   - **applicable financial reporting standard** , in relation to a reporting entity and to an accounting period or an interim accounting period of a reporting entity, means a financial reporting standard that applies to the reporting entity and to the accounting period or the interim accounting period in accordance with the financial reporting standard
   - **approved association** means an association of accountants that is approved for the time being by the Registrar under section 36(1)﻿(c)
   - **auditing and assurance standard** means an auditing and assurance standard issued by the Board under section 12; and includes an amendment to an auditing and assurance standard that is issued by the Board
@@ -45,6 +51,10 @@ The purpose of this Act is to—
     (b) in relation to a charitable entity (within the meaning of the Charities Act 2005), means a balance date under section 41(3) to (7) of that Act; and
     (c) includes, in the case of an entity that is formed or incorporated under, or is affected by, an Act that specifies, refers to, or defines a financial year for the entity, the last day of the financial year
   - **Board** means the External Reporting Board continued under section 11
+  - **climate-related disclosure framework** has the meaning set out in section 9AA
+  - **climate reporting entity** has the same meaning as in section 461O of the Financial Markets Conduct Act 2013
+  - **climate standard** means a climate standard issued by the Board under section 12; and includes an amendment to a climate standard that is issued by the Board
+  - **climate statements** , in relation to a reporting entity and a balance date, means the climate-related disclosures for the entity as at the balance date, or in relation to the accounting period ending at the balance date, that are required to be prepared in respect of the entity by an applicable climate standard
   - **Commissioner of Inland Revenue** means the Commissioner of Inland Revenue appointed or deemed to have been appointed under the Tax Administration Act 1994; and includes any person for the time being authorised to exercise or perform any of the powers, duties, or functions of the Commissioner
   - **company** has the same meaning as in section 2(1) of the Companies Act 1993
   - **director** means,—
@@ -69,6 +79,7 @@ The purpose of this Act is to—
   - **FMC reporting entity** has the same meaning as in section 451 of the Financial Markets Conduct Act 2013
   - **generally accepted accounting practice** has the meaning given to it by section 8
   - **group** means a group comprising a reporting entity and its subsidiaries
+  - **group climate statements** , in relation to a group and a balance date, means the climate-related disclosures for the group as at the balance date, or in relation to the accounting period ending at the balance date, that are required to be prepared in respect of the group by an applicable climate standard
   - **group financial statements** has the meaning given to it by section 7
   - **Institute** means the New Zealand Institute of Chartered Accountants constituted under the New Zealand Institute of Chartered Accountants Act 1996
   - **interim accounting period** , in relation to a reporting entity, means a period ending on a date other than the balance date of the reporting entity
@@ -83,10 +94,13 @@ The purpose of this Act is to—
     (c) recognised under section 36S
   - **registered audit firm** has the same meaning as in section 6(1) of the Auditor Regulation Act 2011
   - **Registrar** means the Registrar of Companies appointed in accordance with section 357(1) of the Companies Act 1993
-  - **reporting entity** means an entity whose financial statements, group financial statements, reports, or other information is required by any enactment to comply, or be prepared in accordance, with generally accepted accounting practice or non-GAAP standards
+  - **reporting entity** —
+    (a) means an entity whose financial statements, group financial statements, reports, or other information is required by any enactment to comply, or be prepared in accordance, with generally accepted accounting practice or non-GAAP standards; or
+    (b) means an entity whose climate statements, group climate statements, reports, or other information is required by any enactment to comply, or be prepared in accordance, with the climate-related disclosure framework
   - **specified not-for-profit entity** has the meaning given to it by section 46
   - **standard** means—
     (a) a financial reporting standard; or
+    (aa) a climate standard; or
     (b) an auditing and assurance standard
   - **subsidiary** means a subsidiary within the meaning of sections 5 to 8 of the Companies Act 1993; and includes any entity that is classified as a subsidiary in any applicable financial reporting standard.
 (2) An example used in this Act is only illustrative of the provisions to which it relates. It does not limit those provisions.
@@ -113,6 +127,11 @@ In this Act, financial statements, group financial statements, a report, or othe
   (b) another Act that applies to A provides that the financial statements of A must comply, or be prepared in accordance with, either generally accepted accounting practice or a non-GAAP standard.
 (2) The financial statements of A must comply, or be prepared in accordance with, generally accepted accounting practice.
 
+### 9AA Meaning of climate-related disclosure framework
+In this Act, climate statements, group climate statements, a report, or other information complies with the climate-related disclosure framework only if the statements, report, or other information complies with—
+  (a) applicable climate standards; and
+  (b) in relation to matters for which no provision is made in applicable climate standards, an authoritative notice.
+
 ### 9A Transitional, savings, and related provisions
 The transitional, savings, and related provisions set out in the Schedule have effect according to their terms.
 
@@ -134,11 +153,14 @@ The Board has the following functions:
   (a) to prepare and, if it thinks fit, issue financial reporting standards for the purposes of any enactment that requires—
     (i) financial statements or group financial statements to comply, or be prepared in accordance, with generally accepted accounting practice or non-GAAP standards; or
     (ii) a statement, report, or other information to comply, or be prepared in accordance, with financial reporting standards:
+  (aa) to prepare and, if it thinks fit, issue climate standards for the purposes of any enactment that requires climate statements or group climate statements, or a statement, report, or other information to comply, or be prepared in accordance, with the climate-related disclosure framework:
   (b) to prepare and, if it thinks fit, issue auditing and assurance standards for—
     (i) the purposes of the Auditor Regulation Act 2011 or any other enactment that requires a person to comply with those standards; or
     (ii) the purposes of any rules or codes of ethics of an association of accountants where those rules or codes require the association's members to comply with those standards; or
     (iii) any other purpose approved by the Minister by notice in writing to the Board:
-  (c) to prepare and, if it thinks fit, issue authoritative notices for the purposes of the definition of generally accepted accounting practice:
+  (c) to prepare and, if it thinks fit, issue authoritative notices for the purposes of—
+    (i) the definition of generally accepted accounting practice; or
+    (ii) the definition of climate-related disclosure framework:
   (d) to develop and implement strategies for the issue of standards in order to provide a framework for the Board's overall direction in the setting of standards (including implementing a strategy for tiers of financial reporting in accordance with sections 29 to 33):
   (e) to liaise with international or national organisations that perform functions that correspond with, or are similar to, those conferred on the Board:
   (f) to perform and exercise the functions, duties, and powers conferred or imposed on it by or under this Act and any other enactments.
@@ -150,11 +172,11 @@ Except as expressly provided otherwise in this or another Act, the Board must ac
 
 ### 14 Membership of Board
 (1) The Board consists of no fewer than 4 and no more than 9 members.
-(2) The Minister must not recommend a person for appointment as a member of the Board unless, in the opinion of the Minister, that person is qualified for appointment by reason of his or her knowledge of, or experience in, business, accounting, auditing, finance, economics, or law.
+(2) The Minister must not recommend a person for appointment as a member of the Board unless, in the opinion of the Minister, that person is qualified for appointment by reason of his or her knowledge of, or experience in, business, accounting, auditing, finance, economics, law, or sustainable development.
 (3) Subsection (2) does not limit section 29 of the Crown Entities Act 2004.
 (4) Members of the External Reporting Board are the board for the purposes of the Crown Entities Act 2004.
 
-### Subpart 2 — Financial reporting standards and auditing and assurance standards
+### Subpart 2 — Standards
 
 **Financial reporting standards**
 
@@ -184,6 +206,7 @@ Except as expressly provided otherwise in this or another Act, the Board must ac
   (b) specify conditions to which the authorisation is subject.
 (3) The Minister may make a recommendation only if he or she is satisfied that it is desirable for standards referred to in subsection (2)﻿(a) to be issued in order to provide for the integrated reporting of an entity's performance or position in terms of both financial and non-financial information.
 (4) This section does not limit section 15.
+(5) An order under subsection (2) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 18 Non-GAAP standards
 (1) A financial reporting standard may state that it is a non-GAAP standard.
@@ -194,6 +217,31 @@ Except as expressly provided otherwise in this or another Act, the Board must ac
 ### 19 Financial reporting standards may classify entity as subsidiary
 (1) A financial reporting standard may classify an entity (A) as a subsidiary of another entity (B) where A is, in effect, controlled by B so as to render A, in substance, a subsidiary of B.
 (2) A financial reporting standard may classify an entity as a subsidiary of another entity regardless of whether it is a subsidiary under, or taken to be controlled for the purposes of, section 5 of the Companies Act 1993.
+
+### 19A Guidance for purposes of non-financial reporting
+(1) The Board may issue non-binding guidance that relates to non-financial reporting on 1 or more of the matters in section 17(2)﻿(a)﻿(i) to (iv).
+(2) The purpose of the guidance is to facilitate best practice reporting on those matters.
+(3) The guidance—
+  (a) must not be inconsistent with any financial reporting standard or authoritative notice; and
+  (b) must state that it is non-binding.
+(4) Subsection (1)—
+  (a) applies regardless of whether an Order in Council is made under section 17(2):
+  (b) does not limit the general powers of the Board.
+
+**Climate standards**
+
+### 19B Purpose of climate standards and climate-related disclosures
+The purpose of climate standards is to provide for, or promote, climate-related disclosures, in order to—
+  (a) encourage entities to routinely consider the short-, medium-, and long-term risks and opportunities that climate change presents for the activities of the entity or the entity’s group; and
+  (b) enable entities to show how they are considering those risks and opportunities; and
+  (c) enable investors and other stakeholders to assess the merits of how entities are considering those risks and opportunities.
+
+### 19C Climate standards
+(1) Climate standards may—
+  (a) have general or specific application:
+  (b) differ according to differences in time or circumstance.
+(2) A climate standard may be expressed to apply to all reporting entities or groups or to specified classes of reporting entities or groups.
+(3) A climate standard may specify the accounting periods or interim accounting periods in relation to which the standard applies.
 
 **Auditing and assurance standards**
 
@@ -230,27 +278,13 @@ In sections 22 to 26,—
 (2) Subsection (1) does not apply to standards issued or approved before the commencement of the Financial Reporting Amendment Act 2001.
 
 ### 24 Public notice
-(1) The Board must give notice of—
-  (a) the issue of a standard; and
-  (b) the issue of an authoritative notice; and
-  (c) the issue of an amendment or of a revocation.
-(2) A notice under this section—
-  (a) must be given in the Gazette; and
-  (b) may be given in any other publications that the Board considers appropriate for that purpose.
-(3) A notice under this section must—
-  (a) identify the standard, authoritative notice, or amendment (as the case may be) but need not incorporate it in the notice:
-  (b) identify the standard revoked, authoritative notice revoked, or amendment revoked (as the case may be) but need not incorporate it in the notice.
-(4) The Board must—
-  (a) publish standards and authoritative notices that are in effect on an Internet site maintained by or on behalf of the Board; and
-  (b) ensure that copies of standards and authoritative notices are available for purchase by members of the public.
+[Repealed]
 
-### 25 Disallowance of instruments by House of Representatives
-(1) The following instruments are disallowable instruments for the purposes of the Legislation Act 2012:
-  (a) any standard:
-  (b) any authoritative notice:
-  (c) any amendment or any revocation.
-(2) The instruments referred to in subsection (1) must be presented to the House of Representatives in accordance with section 41 of the Legislation Act 2012.
-(3) The instruments referred to in subsection (1) are not legislative instruments for the purposes of the Legislation Act 2012.
+### 25 Status of standards and authoritative notices
+The following are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements):
+  (a) a standard:
+  (b) an authoritative notice:
+  (c) an amendment or revocation of a standard or authoritative notice.
 
 ### 26 Certificates of Board
 A certificate purporting to be signed by any member of the Board as to any of the following is, in the absence of evidence to the contrary, sufficient evidence of the matters stated in the certificate:
@@ -263,9 +297,9 @@ A certificate purporting to be signed by any member of the Board as to any of th
 **Miscellaneous matters relating to application**
 
 ### 27 When standards and authoritative notices take effect
-(1) A standard, an authoritative notice, an amendment, or a revocation takes effect on the 28th day after the date of the notification of the standard, notice, amendment, or revocation in the Gazette.
-(2) However, a standard, an authoritative notice, or an amendment must, in respect of a particular reporting entity, be treated as taking effect on the notification of the standard, notice, or amendment in the Gazette if—
-  (a) the Board is satisfied that it is desirable to allow this subsection to apply, because bringing the standard, notice, or amendment into effect earlier than is provided for in subsection (1) is necessary or desirable in order for 1 or more entities, or relevant persons in respect of those entities, to comply with the financial reporting, accounting, auditing, or assurance standards issued or adopted by an international organisation (for example, the International Accounting Standards Board); and
+(1) A standard, an authoritative notice, an amendment, or a revocation takes effect on the 28th day after the date of the publication of the standard, notice, amendment, or revocation under the Legislation Act 2019.
+(2) However, a standard, an authoritative notice, or an amendment must, in respect of a particular reporting entity, be treated as taking effect on the publication of the standard, notice, or amendment under the Legislation Act 2019 if—
+  (a) the Board is satisfied that it is desirable to allow this subsection to apply, because bringing the standard, notice, or amendment into effect earlier than is provided for in subsection (1) is necessary or desirable in order for 1 or more entities, or relevant persons in respect of those entities, to comply with the financial reporting, climate-related, auditing, or assurance standards issued or adopted by an international organisation (for example, the International Accounting Standards Board); and
   (b) the notice under section 24 states that this subsection applies; and
   (c) the relevant persons elect in writing that this subsection should apply in respect of the standard, notice, or amendment.
 (3) In subsection (2), relevant persons means—
@@ -366,7 +400,7 @@ A person is a qualified auditor in respect of a specified entity if the person i
   (d) a body corporate (unless the body corporate is a registered audit firm or recognised as referred to in subsection (1)﻿(f) or (g)):
   (e) a person who, by virtue of paragraph (a) or (b), may not be appointed or act as auditor of a related body corporate (within the meaning of section 12(2) of the Financial Markets Conduct Act 2013).
 (5) This section is subject to section 37.
-(6) A notice in the Gazette referred to in this section or section 36D is neither a legislative instrument nor a disallowable instrument for the purposes of the Legislation Act 2012 and does not have to be presented to the House of Representatives under section 41 of that Act.
+(6)
 
 ### 36A Power of Registrar of Companies to approve associations and auditors
 (1) The Registrar may, after receiving an application from an association of accountants, approve the association under section 36(1)﻿(c)﻿(i) if, after taking into account the prescribed matters (if any), the Registrar is satisfied that the association satisfies the requirements that are prescribed for the purposes of this subsection.
@@ -662,8 +696,8 @@ If a body corporate (A) that is recognised for the purposes of section 36(1)﻿(
 
 ### 44 Purpose
 The purpose of this subpart is to—
-  (a) define the terms large and specified not-for-profit entity for the purposes of various enactments that refer to section 45 or 46; and
-  (b) provide for certain monetary amounts to be amended, from time to time, to take into account inflation.
+  (a) define the terms large and specified not-for-profit entity for the purposes of various enactments that refer to section 45 or 46.
+  (b)
 
 ### 45 Meaning of large
 (1) For the purposes of an enactment that refers to this section, an entity (other than an overseas company or a subsidiary of an overseas company) is large in respect of an accounting period if at least 1 of the following paragraphs applies:ExampleABC Limited has an accounting period of 1 April 2014 to 31 March 2015.The balance dates of the 2 preceding periods are 31 March 2013 and 31 March 2014. As at 31 March 2013, ABC Limited and its subsidiaries had total assets of $50 million. As at 31 March 2014, those total assets were $55 million.During the period 1 April 2012 to 31 March 2013, ABC Limited and its subsidiaries had total revenue of $25 million. During the period 1 April 2013 to 31 March 2014, that total revenue was $35 million. Given that the $30 million threshold in paragraph (b) is crossed in only 1 of those preceding periods, paragraph (b) is not satisfied. ABC Limited is not a large company in relation to the accounting period of 1 April 2014 to 31 March 2015.
@@ -692,17 +726,19 @@ For the purposes of an enactment that refers to this section, an entity is a spe
 ### 47 Financial reporting standards must be complied with
 A financial reporting standard (or a part of a standard) that is expressed as applying for the purposes of section 45(1)﻿(a) or (b) or (2)﻿(a) or (b) or 46 must be applied in determining whether that provision applies (for example, the standard may define operating payments for the purposes of section 46).
 
+### Subpart 6 — Monetary amounts adjusted for inflation
+
 ### 48 Minister must regularly review amounts to take into account inflation
 (1) The Minister—
   (a) must review the monetary amounts specified in sections 45 and 46 of this Act, section 42D of the Charities Act 2005, section 204(3) of the Companies Act 1993, and section 64(2) of the Friendly Societies and Credit Unions Act 1982 for the purpose of determining whether or not to recommend that an adjustment be made to those amounts in order to take into account any increase in the CPI during the period to which the review relates; and
   (b) may, after conducting a review, make a recommendation for the purposes of section 49.
 (2) The first review under this section must be completed on or before the date that is 8 years after the date on which this section comes into force.
-(3) Subsequent reviews under this section must be completed on or before the date that is 8 years after the previous review was completed.
+(3) Subsequent reviews under this section must be completed on or before the date that is 6 years after the previous review was completed.
 (4) The Minister may, in making a recommendation, make any rounding adjustments that he or she thinks fit.
 (5) In this section, CPI means the Consumers Price Index (All Groups) published by Statistics New Zealand.
 
 ### 49 Order may amend amounts
-The Governor-General may, by Order in Council, on the recommendation of the Minister, make regulations for all or any of the following purposes:
+(1) The Governor-General may, by Order in Council, on the recommendation of the Minister, make regulations for all or any of the following purposes:
   (a) amending the amount specified in section 45(1)﻿(a):
   (b) amending the amount specified in section 45(1)﻿(b):
   (c) amending the amounts in the example in section 45(1):
@@ -712,6 +748,7 @@ The Governor-General may, by Order in Council, on the recommendation of the Mini
   (f) amending the amount specified in section 46:
   (g) amending the amounts specified in section 204(3) of the Companies Act 1993:
   (h) amending the amount in section 64(2) of the Friendly Societies and Credit Unions Act 1982.
+(2) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ## Part 3 — Miscellaneous provisions
 
@@ -753,6 +790,10 @@ The Governor-General may, by Order in Council, on the recommendation of the Mini
   (b) the Registrar may refuse to perform a function or exercise a power until the prescribed fee is paid:
   (c) any fee payable under the regulations is recoverable by the Registrar in any court of competent jurisdiction as a debt due to the Registrar.
 (4) Different requirements, dates, methods, or other matters may be prescribed under the regulations in respect of different classes of persons or different circumstances.
+(5) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+(6) If regulations under subsection (3)﻿(a) authorise the Registrar to refund or waive payment of a fee,—
+  (a) the instrument by which the waiver or refund is granted is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements), unless it applies only to 1 or more named persons; and
+  (b) the regulations must contain a statement to that effect.
 
 ### 51 Levies
 (1) Every person that is included in a prescribed class of specified persons must pay to the Crown, or to a prescribed person who acts on behalf of the Crown, a levy prescribed by regulations made under section 52.
@@ -764,6 +805,7 @@ The Governor-General may, by Order in Council, on the recommendation of the Mini
   (d) every person who applies for a licence or registration under the Auditor Regulation Act 2011; and
   (e) the Auditor-General; and
   (f) FMC reporting entities and other entities whose financial statements or group financial statements are required to be registered or lodged under any enactment; and
+  (fa) climate reporting entities; and
   (g) every person who is a member, a fellow, or an associate of an association of accountants that is specified in the regulations and that is in the business of offering accounting or auditing services to the public in New Zealand, or who applies to become such a member, fellow, or associate; and
   (h) public entities (within the meaning of section 5(1) of the Public Audit Act 2001); and
   (i) every other person that is registered or incorporated, or who makes an application for registration or incorporation of a person, under any of the following Acts:
@@ -792,6 +834,10 @@ The Governor-General may, by Order in Council, on the recommendation of the Mini
   (i) require payment of a levy for a financial year or part financial year, irrespective of the fact that the regulations may be made after that financial year has commenced:
   (j) exempt or provide for exemptions from, and provide for waivers of, the whole or any part of the levy for any case or class of cases.
 (5) The levies for a financial year that starts after the Board begins to carry out any additional function under this Act may cover the costs of performing that additional function, irrespective of the fact that the regulations may be made and come into effect after the start of the financial year.
+(6) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+(7) If regulations authorise a person to grant exemptions or waivers referred to in subsection (4)﻿(j),—
+  (a) an instrument granting an exemption or a waiver is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements), unless it applies only in a particular case; and
+  (b) the regulations must contain a statement to that effect.
 
 ### 53 Payment of levies
 (1) The person to whom the levy is payable must ensure that each levy payment is paid into a Crown Bank Account and is separately accounted for.
@@ -856,6 +902,8 @@ An approval in effect, immediately before the commencement of this section, unde
 
 **Provisions relating to Financial Reporting Amendment Act 2014**
 
+### Part 1 — Provisions relating to Financial Reporting Amendment Act 2014
+
 ### 1 Interpretation
 In clauses 2 and 3,—
   - **2014 Amendment Act** means the Financial Reporting Amendment Act 2014
@@ -879,3 +927,29 @@ In clauses 2 and 3,—
   (b) impose, vary, revoke, add to, or substitute any conditions under section 36A at any time.
 (5) However, for the 12-month period referred to in subclause (3), section 36B(2) to (4) does not apply.
 (6) Section 61 is subject to this clause.
+
+### Part 2 — Provisions relating to Financial Sector (Climate-related Disclosures and Other Matters) Amendment Act 2021
+
+### 4 Interpretation
+In this Part, 2021 Amendment Act means the Financial Sector (Climate-related Disclosures and Other Matters) Amendment Act 2021.
+
+### 5 Guidance may apply to accounting periods that commence before section 19A commences
+Guidance issued by the Board in accordance with section 19A (as inserted by section 40 of the 2021 Amendment Act) may apply in relation to—
+  (a) accounting periods that commence before, but end on or after, the commencement of section 19A:
+  (b) accounting periods that commence on or after the commencement of section 19A.
+
+### 6 Climate standards and authoritative notices may apply to accounting periods that commence before clause commences
+(1) Climate standards issued by the Board may apply in relation to—
+  (a) accounting periods that commence before, but end on or after, the commencement of this clause:
+  (b) accounting periods that commence on or after the commencement of this clause.
+(2) Authoritative notices issued by the Board for the purposes in section 12(c)﻿(ii) may apply in relation to—
+  (a) accounting periods that commence before, but end on or after, the commencement of this clause:
+  (b) accounting periods that commence on or after the commencement of this clause.
+
+### 7 Transitional provisions relating to review of monetary amounts in sections 461Q and 461S of Financial Markets Conduct Act 2013
+(1) Subclause (2) applies if section 44(1) of the 2021 Amendment Act (which amends section 48(1)﻿(a) of this Act) comes into force before 1 April 2022.
+(2) The monetary amounts in sections 461Q and 461S of the Financial Markets Conduct Act 2013 do not need to form part of the first review under section 48(2) of this Act.
+(3) Subclause (4) applies—
+  (a) if the monetary amounts in sections 461Q and 461S of the Financial Markets Conduct Act 2013 do not form part of the first review under section 48(2) of this Act:
+  (b) despite the date on which section 45 of the 2021 Amendment Act (which amends section 49 of this Act) comes into force.
+(4) The Minister’s recommendation (if any) under section 48(1)﻿(b), after conducting the first review, must not include a recommendation for the purposes of section 49(i) or (j).
