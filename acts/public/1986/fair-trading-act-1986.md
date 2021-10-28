@@ -1,5 +1,5 @@
 # Fair Trading Act 1986
-_Consolidation as at 2021-08-17_
+_Consolidation as at 2021-10-28_
 
 > Title
 
@@ -375,6 +375,7 @@ No person shall demand or accept payment or other consideration for goods or ser
   (a) the Minister has consulted such persons or representatives of such persons as the Minister considers will be substantially affected by any Order in Council made in accordance with the recommendation, and those persons have had the opportunity to comment to the Minister; and
   (b) the Minister has considered any such comments.
 (3) A failure to comply with subsection (2) does not affect the validity of any regulations made under this section.
+(4) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 22 Misleading representations about certain business activities
 (1) No person shall make a representation that is false or misleading in a material particular concerning the profitability or risk or any other material aspect of any business activity that that person represents as one that can be, or can be to a substantial extent, carried on at or from a person's place of residence.
@@ -443,6 +444,7 @@ No provision of this Part limits or affects any other provision of this Part.
   (b) the Minister has considered any such comments.
 (4) A failure to comply with subsection (3) does not affect the validity of any Order in Council made under this section.
 (5) No Order in Council may be made under this section in respect of any medicine or related product, within the meaning of the Medicines Act 1981, except in relation to the price of the medicine or related product.
+(6) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 28 Compliance with consumer information standards
 (1) If a consumer information standard in respect of goods or services relates to a matter specified in section 27(1A), a person must not supply, or offer to supply, or advertise to supply those goods or services unless that person complies with that consumer information standard.
@@ -488,6 +490,7 @@ No provision of this Part limits or affects any other provision of this Part.
     (a) soliciting for donations for a charitable purpose; and
     (b) canvassing for subscriptions for a charitable purpose; and
     (c) requests, by suppliers of goods or services, for donations that are included as part of the price of goods or services.
+(6) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 28B Disclosure of trader status on Internet
 (1) This section applies when—
@@ -512,6 +515,7 @@ No provision of this Part limits or affects any other provision of this Part.
   (a) the Minister has consulted with such persons or representatives of such persons as the Minister considers will be substantially affected by any Order in Council made in accordance with the recommendation and those persons have had the opportunity to comment to the Minister; and
   (b) the Minister has considered any such comments.
 (4) A failure to comply with subsection (3) does not affect the validity of any Order in Council made under this section.
+(5) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 30 Compliance with product safety standards
 (1) If a product safety standard in respect of goods relates to a matter specified in section 29(1), a person must not supply, or offer to supply, or advertise to supply those goods unless that product safety standard is complied with in respect of those goods.
@@ -549,26 +553,27 @@ No provision of this Part limits or affects any other provision of this Part.
   (c) ensure that the Minister's decision is available to the public, at all reasonable times, on an Internet site maintained by or on behalf of the Ministry.
 
 ### 31 Unsafe goods
-(1) Where it appears to the Minister that goods of any description or any class or classes of goods will or may cause injury to any person, the Minister may, by notice in the Gazette, declare the goods to be unsafe goods.
-(1A) The Minister may also, by notice in the Gazette, declare goods of any description or any class or classes of goods to be unsafe goods if it appears to the Minister that a reasonably foreseeable use (including misuse) of the goods will, or may, cause injury to any person.
+(1) Where it appears to the Minister that goods of any description or any class or classes of goods will or may cause injury to any person, the Minister may, by notice, declare the goods to be unsafe goods.
+(1A) The Minister may also, by notice, declare goods of any description or any class or classes of goods to be unsafe goods if it appears to the Minister that a reasonably foreseeable use (including misuse) of the goods will, or may, cause injury to any person.
 (1B) In deciding whether to make a declaration under subsection (1A), the Minister must have regard to all the circumstances, including—
   (a) the likelihood of an injury occurring to a person as a result of the reasonably foreseeable use or misuse of the goods:
   (b) the seriousness of the injury likely to be suffered by the user of the goods or any other person:
   (c) whether such injury is likely to be a frequent occurrence:
   (d) any steps that the supplier or manufacturer of the goods has taken to mitigate the risk of injury:
   (e) whether, taking into account the ordinary and intended use of the goods, the public interest favours making a declaration.
-(2) A notice made pursuant to subsection (1) shall, unless previously revoked by the Minister by notice in the Gazette, remain in force for 18 months after the date of publication of the notice in the Gazette.
-(3) Where—the Minister may, by notice in the Gazette, prohibit the supply of the goods indefinitely or for such period as may be specified in the notice.
-  (a) a period of 18 months has elapsed after the date of publication of a notice in the Gazette pursuant to subsection (1) or (1A) declaring goods to be unsafe goods; and
+(2) A notice made pursuant to subsection (1) shall, unless previously revoked by the Minister by notice, remain in force for 18 months after the date of publication of the notice.
+(3) Where—the Minister may, by notice, prohibit the supply of the goods indefinitely or for such period as may be specified in the notice.
+  (a) a period of 18 months has elapsed after the date of publication of a notice pursuant to subsection (1) or (1A) declaring goods to be unsafe goods; and
   (b) a product safety standard has not been prescribed pursuant to section 29 in respect of the goods,—
 (3A) The Minister must not issue a notice under subsection (3) unless—
   (a) the Minister has consulted such persons or representatives of such persons as the Minister considers will be substantially affected by the proposed notice and those persons have had the opportunity to comment to the Minister; and
   (b) the Minister has considered any such comments.
 (3B) A failure to comply with subsection (3A) does not affect the validity of any notice given under this section, except where there has been a complete failure to consult.
-(4) A notice made pursuant to subsection (3) may be amended or revoked at any time by the Minister by notice in the Gazette.
+(4) A notice made pursuant to subsection (3) may be amended or revoked at any time by the Minister by notice.
 (5) No person shall supply, or offer to supply, or advertise to supply, goods—
   (a) in respect of which there is in force a notice declaring the goods to be unsafe goods; or
   (b) in respect of which there is in force a notice under subsection (3).
+(6) A notice under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 31A Voluntary product recall
 (1) This section applies if—
@@ -700,6 +705,7 @@ For the purposes of this Part services means the performance of work by way of�
   (a) the Minister has consulted with such persons or representatives of such persons as the Minister considers will be substantially affected by any Order in Council made in accordance with the recommendation and those persons have had the opportunity to comment to the Minister; and
   (b) the Minister has considered any such comments.
 (4) A failure to comply with subsection (3) does not affect the validity of any Order in Council made under this section.
+(5) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 36 Compliance with services safety standards
 (1) If a services safety standard in respect of services is prescribed under section 35(1), a person must not supply, or offer to supply, or advertise to supply those services unless that person complies with that services safety standard.
@@ -958,6 +964,7 @@ On cancellation of an uninvited direct sale agreement in accordance with section
   (c) the Minister has considered those comments.
 (3) A failure to comply with subsection (2) does not affect the validity of any Order in Council made under this section.
 (4) In this section, agreement for the issue or sale of a financial product means an agreement, resulting from an offer described in section 34(2) of the Financial Markets Conduct Act 2013, for the issue or sale of a financial product (within the meaning of that section).
+(5) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### Subpart 3 — Extended warranties
 
@@ -1021,6 +1028,7 @@ In this subpart,—
   (a) the Minister has consulted such persons or representatives of such persons as the Minister considers will be substantially affected by any regulations made in accordance with the recommendation, and those persons have had the opportunity to comment to the Minister; and
   (b) the Minister has considered any such comments.
 (3) A failure to comply with subsection (2) does not affect the validity of any regulations made under this section.
+(4) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### Subpart 4 — Auctions
 
@@ -1191,10 +1199,11 @@ The Commission must pay all infringement fees received into a Crown Bank Account
 If an infringement notice is issued, a criminal record must not be created in respect of the infringement offence.
 
 ### 40H Regulations relating to infringement offences
-The Governor-General may, by Order in Council made on the recommendation of the Minister, make regulations for the following purposes:
+(1) The Governor-General may, by Order in Council made on the recommendation of the Minister, make regulations for the following purposes:
   (a) prescribing the form of infringement notices and reminder notices:
   (b) prescribing any matters that must be included in those notices:
   (c) prescribing the amount of the infringement fee.
+(2) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 **Civil proceedings**
 
