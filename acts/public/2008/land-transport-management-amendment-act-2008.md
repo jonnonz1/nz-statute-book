@@ -1,5 +1,5 @@
 # Land Transport Management Amendment Act 2008
-_Consolidation as at 2015-03-26_
+_Consolidation as at 2021-10-28_
 
 ### 1 Title
 This Act is the Land Transport Management Amendment Act 2008.
@@ -14,21 +14,21 @@ This Act amends the Land Transport Management Act 2003.
 
 ### 4 Purpose
 (1) Section 3(1) is amended by inserting affordable, after achieving an.
-(2) Section 3(2) is amended by repealing paragraph (c) and substituting the following paragraph:.
+(2) Section 3(2) is amended by repealing paragraph (c) and substituting the following paragraph:
   (c) provides the Agency with a broad land transport focus; and
-(3) Section 3(2)(d) is amended by inserting , including planning and investment in coastal shipping and rail after transport.
+(3) Section 3(2)﻿(d) is amended by inserting , including planning and investment in coastal shipping and rail after transport.
 (4) Section 3(2) is amended by repealing paragraph (f) and substituting the following paragraph:
   (f) improves the flexibility of land transport funding by providing for alternative funding mechanisms.
-(5) Section 3(2)(g) is repealed.
+(5) Section 3(2)﻿(g) is repealed.
 
 ### 5 New section 4 substituted
 Section 4 is repealed and the following section substituted:Treaty of Waitangi
-  In order to recognise and respect the Crown’s responsibility to take appropriate account of the principles of the Treaty of Waitangi and to maintain and improve opportunities for Māori to contribute to land transport decision-making processes, sections 18, 18A, 18G, 18H, 49, 59, 65H, 65I, 78, and 100(1)(f) and clause 6 of Schedule 7 provide principles and requirements that are intended to facilitate participation by Māori in land transport decision-making processes.
+  In order to recognise and respect the Crown’s responsibility to take appropriate account of the principles of the Treaty of Waitangi and to maintain and improve opportunities for Māori to contribute to land transport decision-making processes, sections 18, 18A, 18G, 18H, 49, 59, 65H, 65I, 78, and 100(1)﻿(f) and clause 6 of Schedule 7 provide principles and requirements that are intended to facilitate participation by Māori in land transport decision-making processes.
 
 ### 6 Interpretation
 (1) Paragraph (a) of the definition of approved organisation in section 5 is repealed.
 (2) The definitions of board, board member, collecting body, entity, land transport programme, national land transport account, and Transit in section 5 are repealed.
-(3) Section 5 is amended by repealing the definitions of activity class, Authority, financial year, national land transport fund, national land transport strategy, regional council, regional land transport committee, regional land transport strategy, and State highway, and inserting the following definitions in their appropriate alphabetical order:.
+(3) Section 5 is amended by repealing the definitions of activity class, Authority, financial year, national land transport fund, national land transport strategy, regional council, regional land transport committee, regional land transport strategy, and State highway, and inserting the following definitions in their appropriate alphabetical order:
   - **activity class** means a grouping of similar activities
   - **Agency** means the New Zealand Transport Agency established under section 93
   - **financial year** means a period of 12 months beginning on 1 July and ending on 30 June
@@ -47,7 +47,7 @@ Section 4 is repealed and the following section substituted:Treaty of Waitangi
     (a) all land along or contiguous with its route that is the road; and
     (b) any part of an intersection that is within the route of the State highway; and
     (c) for the purposes of regional land transport programmes, the national land transport programme, and any expenditures approved under section 20 by the Agency, a proposed State highway
-(4) Section 5 is amended by inserting the following definitions in their appropriate alphabetical order:.
+(4) Section 5 is amended by inserting the following definitions in their appropriate alphabetical order:
   - **combination of activities** means 2 or more activities from—
     (a) the same activity class:
     (b) 2 or more activity classes
@@ -101,7 +101,7 @@ Section 8 is repealed.
 
 ### 12 New section 9 substituted
 Section 9 is repealed and the following section substituted:The Crown’s authority to incur certain land transport expenses and capital expenditure
-  (1) In accordance with any regulations made under section 109(b)(i), the Crown may, without further appropriation than this subsection, incur expenses or capital expenditure in a financial year up to an amount agreed by the responsible Minister and the Minister of Finance that is not more than the excise duty and excise-equivalent duty estimated to have been paid by users of pleasure craft (within the meaning of section 2(1) of the Maritime Transport Act 1994) in that financial year, for the following activities and services:
+  (1) In accordance with any regulations made under section 109(b)﻿(i), the Crown may, without further appropriation than this subsection, incur expenses or capital expenditure in a financial year up to an amount agreed by the responsible Minister and the Minister of Finance that is not more than the excise duty and excise-equivalent duty estimated to have been paid by users of pleasure craft (within the meaning of section 2(1) of the Maritime Transport Act 1994) in that financial year, for the following activities and services:
     (a) search and rescue activities, whether in relation to pleasure craft or otherwise; and
     (b) recreational boating safety and safety awareness; and
     (c) maritime safety services that benefit the users of pleasure craft; and
@@ -109,10 +109,10 @@ Section 9 is repealed and the following section substituted:The Crown’s author
   (2) The Crown may utilise land transport revenue to fund police activities or combinations of police activities up to the amount approved by the responsible Minister under section 18L.
   (3) The Crown may, without further appropriation than this subsection, incur expenses or capital expenditure up to an amount equal to the land transport revenue for that financial year less the amounts for the year that are referred to in subsections (1) and (2) for—
     (a) activities and combinations of activities approved under section 20; and
-    (b) expenses resulting from, and repayment of, any borrowing in accordance with section 10(1)(b).
+    (b) expenses resulting from, and repayment of, any borrowing in accordance with section 10(1)﻿(b).
   (4) The Crown may, without further appropriation than this subsection, incur expenses or capital expenditure in any financial year up to any positive amount calculated under subsection (5) for—
     (a) activities and combinations of activities approved under section 20; and
-    (b) expenses resulting from, and repayment of, any borrowing in accordance with section 10(1)(b).
+    (b) expenses resulting from, and repayment of, any borrowing in accordance with section 10(1)﻿(b).
   (5) The amount referred to in subsection (4) is to be calculated in accordance with the following formula:a − b = cwhere—ais land transport revenue from any previous financial years; andbis the expenses and capital expenditure incurred under subsections (1), (2), (3), and (4) for those previous financial years; andcis the calculated amount.”
 
 ### 13 Heading above section 10 repealed
@@ -138,7 +138,7 @@ Section 10 is repealed and the following section substituted:National land trans
     (d) territorial authorities’ activities or combinations of activities approved under section 20 (other than public transport services activities):
     (e) regional and territorial authorities’ activities or combinations of activities approved under section 20 that have been authorised by a transfer of responsibility under section 17 of the Local Government Act 2002:
     (f) approved public organisations’ activities or combinations of activities approved under section 20:
-    (g) expenses resulting from, and repayment of, any borrowing in accordance with subsection (1)(b).
+    (g) expenses resulting from, and repayment of, any borrowing in accordance with subsection (1)﻿(b).
   (4) A local authority whose activities or combinations of activities are included in a regional land transport programme approved by ARTA is not entitled to receive funds directly from the Agency.
   (5) ARTA must, as soon as practicable and at no cost to the local authority, pay to an Auckland local authority the funds received by ARTA from the Agency for approved activities or combinations of activities to be carried out by the local authority.
   (6) Despite subsection (4), the Auckland Regional Council may receive funds directly from the Agency in respect of activities or combinations of activities approved under section 20 in respect of the preparation (including consultation) and approval of a regional land transport strategy for the Auckland region.
@@ -242,7 +242,7 @@ The heading above section 12 and sections 12 to 18 are repealed and the followin
     (j) a summary of the policy relating to significance adopted by the regional transport committee under section 106; and
     (k) any other relevant matters.
   (4) For the purpose of the inclusion of activities or combinations of activities in a national land transport programme, a regional land transport programme must be in the form and contain the detail that the Agency may prescribe in writing to regional transport committees.
-  (5) The assessment under subsection (1)(d) must be in a form and contain the detail required by the regional transport committee, taking account of any prescription made by the Agency under subsection (4).
+  (5) The assessment under subsection (1)﻿(d) must be in a form and contain the detail required by the regional transport committee, taking account of any prescription made by the Agency under subsection (4).
   (6) For the purposes of this section, existing public transport services means the level of public transport services in place in the financial year before the commencement of the regional land transport programme, and any minor changes to those services.
   (1) For the purpose of seeking payment from the national land transport fund, ARTA's regional land transport programme must contain, for the 3 financial years to which the programme relates,—
     (a) the following activities and combinations of activities that ARTA decides to include in ARTA's regional land transport programme:
@@ -272,7 +272,7 @@ The heading above section 12 and sections 12 to 18 are repealed and the followin
     (j) a summary of the policy relating to significance adopted by ARTA under section 106; and
     (k) any other relevant matters.
   (4) For the purpose of the inclusion of activities or combinations of activities in a national land transport programme, ARTA's regional land transport programme must be in the form and contain the detail that the Agency may prescribe in writing to ARTA.
-  (5) The assessment under subsection (1)(c) must be in a form and contain the detail required by ARTA, taking account of any prescription made by the Agency under subsection (4).
+  (5) The assessment under subsection (1)﻿(c) must be in a form and contain the detail required by ARTA, taking account of any prescription made by the Agency under subsection (4).
   When preparing a regional land transport programme, a regional transport committee or ARTA (as the case may require) must consult—
     (a) every affected regional council; and
     (b) every affected territorial authority; and
@@ -289,7 +289,7 @@ The heading above section 12 and sections 12 to 18 are repealed and the followin
     (m) the public in the region.
   (1) In carrying out the consultation required under section 18, a regional transport committee or ARTA (as the case may require) must—
     (a) act in accordance with the consultation principles set out in section 82 of the Local Government Act 2002; and
-    (b) use the special consultative procedure under sections 83, 87(2)(a), and 89 of the Local Government Act 2002.
+    (b) use the special consultative procedure under sections 83, 87(2)﻿(a), and 89 of the Local Government Act 2002.
   (2) A regional transport committee or ARTA complies with subsection (1) if the required consultation on the regional land transport programme is carried out in conjunction with the relevant regional council’s consultation on its long-term council community plan or its annual plan under the Local Government Act 2002.
   (3) When consulting under section 18 and this section with respect to its regional land transport programme, ARTA need not consult any organisation or person referred to in section 18 about any activity or combination of activities in its regional land transport programme if an Auckland local authority has already consulted that organisation or person about the activity or combination of activities in the course of preparing that local authority’s current long-term council community plan or annual plan in accordance with the Local Government Act 2002.
   (1) A regional transport committee that has prepared a regional land transport programme on behalf of a regional council must, after it has consulted under sections 18 and 18A, lodge the regional land transport programme with the regional council.
@@ -300,11 +300,11 @@ The heading above section 12 and sections 12 to 18 are repealed and the followin
   (4) If a regional council refers a regional land transport programme back to its regional transport committee, the regional transport committee may, after reconsidering the aspects referred back to it by the regional council in its request, forward to the regional council either or both of the following:
     (a) an amended regional land transport programme that has been consulted on in accordance with sections 18 and 18A:
     (b) any additional information that has been requested by the regional council or that the regional transport committee considers will help the regional council with its decision.
-  (5) Despite subsection (4)(a), a regional transport committee may forward an amended regional land transport programme to the regional council without consulting in accordance with sections 18 and 18A if the amendment or amendments to the regional land transport programme are not significant.
+  (5) Despite subsection (4)﻿(a), a regional transport committee may forward an amended regional land transport programme to the regional council without consulting in accordance with sections 18 and 18A if the amendment or amendments to the regional land transport programme are not significant.
   (6) If a regional council receives an amended regional land transport programme, or a regional land transport programme with additional information, under subsection (4), it must—
     (a) approve the programme or amended programme and forward it to the Agency; or
     (b) forward the programme or amended programme to the Agency stating that it is not approved along with a statement of its reasons.
-  (7) If the Agency receives an amended regional land transport programme, or a regional land transport programme with additional information, under subsection (6)(b), the Agency must, when developing the national land transport programme,—
+  (7) If the Agency receives an amended regional land transport programme, or a regional land transport programme with additional information, under subsection (6)﻿(b), the Agency must, when developing the national land transport programme,—
     (a) treat the regional land transport programme or amended regional land transport programme as approved; and
     (b) consider the regional council's statement of reasons.
   (8) Section 18F applies, with the necessary modifications, to any programme or amended programme and statement of reasons forwarded under subsection (6).
@@ -324,7 +324,7 @@ The heading above section 12 and sections 12 to 18 are repealed and the followin
   (7) The Agency must consider promptly whether to vary the national land transport programme after receiving a varied regional land transport programme forwarded to it by a regional council or ARTA.
   (8) A variation of a regional land transport programme does not create an obligation on the Agency to vary the national land transport programme, but the Agency must give written reasons for any decision not to do so.
   (9) This section does not apply if section 18E applies.
-  (1) This section applies to any activities or combinations of activities that have been identified by an approved organisation under section 16(1)(a) and included in a regional land transport programme.
+  (1) This section applies to any activities or combinations of activities that have been identified by an approved organisation under section 16(1)﻿(a) and included in a regional land transport programme.
   (2) If an approved organisation has good reason to change any activities or combinations of activities to which this section applies, it may request the Agency to vary the national land transport programme to take account of that change, and must inform the regional transport committee that it has made that request.
   (3) A request must be made in a form and with the detail prescribed by the Agency in writing to approved organisations.
   (4) The Agency must consider promptly any request made under this section to vary the national land transport programme.
@@ -348,9 +348,9 @@ The heading above section 12 and sections 12 to 18 are repealed and the followin
     (b) consider ways in which the organisation may foster the development of Māori capacity to contribute to the organisation’s land transport decision-making processes; and
     (c) provide relevant information to Māori for the purposes of paragraphs (a) and (b).
   (2) Subsection (1) does not limit the ability of the Agency or an approved public organisation to take similar action in respect of any other population group.
-  Every 3 financial years the Agency must, by a date appointed by the Minister, prepare its recommendations for any police activities or combinations of police activities that are to be funded under section 10(3)(a) for the following 3 financial years.
-  (1) Before recommending any police activities or combinations of police activities that are to be funded under section 10(3)(a), the Agency must consult the Commissioner and the Secretary.
-  (2) The Agency must, in recommending any police activities or combinations of police activities for funding under section 10(3)(a),—
+  Every 3 financial years the Agency must, by a date appointed by the Minister, prepare its recommendations for any police activities or combinations of police activities that are to be funded under section 10(3)﻿(a) for the following 3 financial years.
+  (1) Before recommending any police activities or combinations of police activities that are to be funded under section 10(3)﻿(a), the Agency must consult the Commissioner and the Secretary.
+  (2) The Agency must, in recommending any police activities or combinations of police activities for funding under section 10(3)﻿(a),—
     (a) be satisfied that those police activities or combinations of police activities—
       (i) contribute to the aim of achieving an affordable, integrated, safe, responsive, and sustainable land transport system; and
       (ii) contribute to each of the following:
@@ -366,12 +366,12 @@ The heading above section 12 and sections 12 to 18 are repealed and the followin
       (iii) national energy efficiency and conservation strategy; and
       (iv) relevant national policy statement and any relevant regional policy statements or plans that are for the time being in force under the Resource Management Act 1991.
   The Agency must ensure that its recommendations under section 18I include—
-    (a) the recommended funding contribution under section 10(3)(a) for the proposed police activities or combinations of police activities; and
-    (b) a list of the police activities or combinations of police activities that are proposed to be funded under section 10(3)(a); and
+    (a) the recommended funding contribution under section 10(3)﻿(a) for the proposed police activities or combinations of police activities; and
+    (b) a list of the police activities or combinations of police activities that are proposed to be funded under section 10(3)﻿(a); and
     (c) the performance measures associated with the delivery of those proposed police activities or combinations of police activities; and
     (d) the revenue to be received by the Commissioner from sources (other than the national land transport fund) applicable to the police activities or combinations of police activities for which funding is sought from the national land transport fund; and
     (e) a long-term financial forecast that contains a forecast of anticipated revenue and expenditure on any police activities or combinations of police activities for the following 10 financial years.
-  (1) After considering the Agency’s recommendations under section 18I, the responsible Minister, in consultation with the Minister of Police, must approve or decline those recommendations for payment under section 10(3)(a).
+  (1) After considering the Agency’s recommendations under section 18I, the responsible Minister, in consultation with the Minister of Police, must approve or decline those recommendations for payment under section 10(3)﻿(a).
   (2) The responsible Minister must notify the Agency and the Commissioner of the responsible Minister’s decision to approve or decline the Agency’s recommendations.
   (1) The Agency may recommend a variation of an approval under section 18L(1).
   (2) After considering the Agency’s recommendation, the responsible Minister, in consultation with the Minister of Police, must approve or decline the variation, and, if approved, the variation forms part of the approval it varies.
@@ -452,7 +452,7 @@ Sections 20 and 20A are repealed and the following heading and sections substitu
   (4) Despite subsections (2) and (3), the Agency may approve for payment under subsection (1) any activity or combination of activities that, in the opinion of the Agency,—
     (a) are in the urgent interests of public safety; or
     (b) are necessary to effect immediate or temporary repair of damage caused by a sudden and unexpected event.
-  (5) When approving an activity or combination of activities as qualifying for payments from the national land transport fund, the Agency must be satisfied that the expenditure on the national land transport programme and any expenses associated with any borrowing undertaken in accordance with section 10(1)(b) in the relevant financial year will not exceed the lesser of—
+  (5) When approving an activity or combination of activities as qualifying for payments from the national land transport fund, the Agency must be satisfied that the expenditure on the national land transport programme and any expenses associated with any borrowing undertaken in accordance with section 10(1)﻿(b) in the relevant financial year will not exceed the lesser of—
     (a) the maximum level of expenditure for the national land transport programme outlined in the relevant GPS for that financial year and the actual or anticipated amount of the closing balance of the national land transport fund at the end of the previous financial year; or
     (b) the sum of—
       (i) the anticipated inflows to the national land transport fund in that financial year; and
@@ -465,7 +465,7 @@ Sections 20 and 20A are repealed and the following heading and sections substitu
     (a) ensure that every decision that it makes under that section and its reasons for making that decision are made available to any affected approved organisation; and
     (b) give any organisation or any person responsible for that activity or combination of activities written advice of its decision and reasons for its decision.
   (2) After approving or declining funding for activities or combinations of activities, the Agency must place a copy of the decision, and the reasons for the decision, on its Internet site.
-  (3) In complying with subsection (2), the Agency may decide to withhold information if the disclosure of that information would be contrary to the interests specified in section 6 or 9(2)(a), (b), (ba), (h), (i), or (j) of the Official Information Act 1982.
+  (3) In complying with subsection (2), the Agency may decide to withhold information if the disclosure of that information would be contrary to the interests specified in section 6 or 9(2)﻿(a), (b), (ba), (h), (i), or (j) of the Official Information Act 1982.
   (4) If the Agency decides to withhold information under subsection (3), it must provide its reasons for doing so on its Internet site.
   (5) Information withheld under subsection (3) may be requested under the Official Information Act 1982.
 
@@ -481,7 +481,7 @@ Section 21 is repealed.
   (3) The Agency and territorial authorities may receive funding for a Māori roadway if the activity is included in a regional land transport programme.
 
 ### 21 Approval of public organisations
-Section 23(1)(a) is amended by omitting section 10(2)(e) and substituting section 10(3)(f).
+Section 23(1)﻿(a) is amended by omitting section 10(2)﻿(e) and substituting section 10(3)﻿(f).
 
 ### 22 New section 24 substituted
 Section 24 is repealed and the following section substituted:Land transport disbursement accounts
@@ -510,8 +510,8 @@ Section 24 is repealed and the following section substituted:Land transport disb
 (1) Section 26(a) is amended by omitting Authority and substituting Agency.
 (2) Section 26(a) is amended by omitting activity class and substituting combination of activities.
 (3) Section 26(b) is amended by omitting Authority and substituting Agency.
-(4) Section 26(c)(i) is amended by omitting Authority and substituting Agency.
-(5) Section 26(c) is amended by repealing subparagraph (ii) and substituting the following subparagraph:.
+(4) Section 26(c)﻿(i) is amended by omitting Authority and substituting Agency.
+(5) Section 26(c) is amended by repealing subparagraph (ii) and substituting the following subparagraph:
   (ii) undertaken by the Agency or an approved organisation using the Agency's or approved organisation’s own staff and assets; or
 
 ### 25 New section 26A inserted
@@ -547,7 +547,7 @@ Section 34 is repealed.
 
 ### 32 New section 38A inserted
 The following section is inserted after section 38:Good reasons for refusing to supply requested information
-  (1) The Agency may refuse a request for information under section 78(4) or 83(2) or clause 10(2) of Schedule 7 only if the information may, in the Agency's opinion, be withheld under section 6 or section 9(2)(a), (b), (ba), (h), (i), or (j) of the Official Information Act 1982.
+  (1) The Agency may refuse a request for information under section 78(4) or 83(2) or clause 10(2) of Schedule 7 only if the information may, in the Agency's opinion, be withheld under section 6 or section 9(2)﻿(a), (b), (ba), (h), (i), or (j) of the Official Information Act 1982.
   (2) Subsection (1) applies only if the Agency is satisfied that the reason for the refusal is not outweighed by the regional transport committee's or ARTA's need to have the information in order to discharge its functions.
 
 ### 33 Section 39 repealed
@@ -561,14 +561,14 @@ Section 41(3) is repealed.
 (2) Section 45 is amended by omitting 40 to and substituting 41 and.
 
 ### 36 Procedure for recommending making of order under section 46
-(1) Section 48(1)(c)(i) is amended by inserting any relevant GPS, after strategies,.
+(1) Section 48(1)﻿(c)﻿(i) is amended by inserting any relevant GPS, after strategies,.
 (2) Section 48(3) is amended by omitting Authority and substituting Agency.
 
 ### 37 Consultation requirements
 Section 49(1) is amended by omitting Authority and substituting Agency.
 
 ### 38 Approval process and relationship to national land transport programme
-(1) Section 58(1)(c) is amended by inserting any relevant GPS, after regional land transport strategy,.
+(1) Section 58(1)﻿(c) is amended by inserting any relevant GPS, after regional land transport strategy,.
 (2) Section 58(4) is amended by omitting Authority and substituting Agency.
 
 ### 39 Consultation requirements
@@ -578,7 +578,7 @@ Section 59(1) is amended by omitting Authority and substituting Agency.
 Section 60(2) is amended by omitting Transit New Zealand and substituting Government Roading Powers.
 
 ### 41 Delegation of roading functions and powers to concessionaires
-(1) Section 61(1)(b) is amended by omitting Transit New Zealand and substituting Government Roading Powers.
+(1) Section 61(1)﻿(b) is amended by omitting Transit New Zealand and substituting Government Roading Powers.
 (2) Section 61(4) is repealed.
 
 ### 42 New subpart 3 of Part 2 inserted
@@ -622,7 +622,7 @@ The following subpart is inserted after section 65:Regional fuel taxPreliminary 
       (a) an approved organisation:
       (b) in the case of a capital project for railway infrastructure (within the meaning of section 4(1) of the Railways Act 2005), the New Zealand Railways Corporation:
       (c) in the case of a capital project for a State highway, the Agency:
-      (d) in the case of Auckland, and despite sections 9(1)(d) and 32(1)(a) of the Local Government (Auckland) Amendment Act 2004, includes the Auckland Regional Council
+      (d) in the case of Auckland, and despite sections 9(1)﻿(d) and 32(1)﻿(a) of the Local Government (Auckland) Amendment Act 2004, includes the Auckland Regional Council
     - **regional fuel tax** means the regional fuel tax that is payable under this subpart exclusive of goods and services tax payable under the Goods and Services Tax Act 1985
     - **regional fuel tax scheme** or means a regional fuel tax scheme established by Order in Council made under section 65O(1)
     - **responsible Ministers** means the Minister of Finance and the Minister responsible for this Act
@@ -645,7 +645,7 @@ The following subpart is inserted after section 65:Regional fuel taxPreliminary 
   (4) The Auckland regional transport committee is responsible for reviewing, varying, or replacing a regional fuel tax scheme prepared under subsection (3), and for preparing any subsequent scheme.
   (5) If subsection (3) applies,—
     (a) all references to a regional transport committee in sections 65E to 65P are to be treated as references to the Auckland Regional Council, with all necessary modifications; and
-    (b) sections 65K(1)(b) and (3) and 65N(2) do not apply.
+    (b) sections 65K(1)﻿(b) and (3) and 65N(2) do not apply.
   A proposed regional fuel tax scheme must—
     (a) identify and describe each capital project that is included in the proposed scheme, which may include capital projects located in another region; and
     (b) state the anticipated timing and costs of each of those capital projects; and
@@ -667,9 +667,9 @@ The following subpart is inserted after section 65:Regional fuel taxPreliminary 
     (f) state the duration of the regional fuel tax contribution to each capital project that is included in the proposed scheme; and
     (g) state the allocation of revenue between each of the capital projects covered by the proposed scheme; and
     (h) include any other information or other matter that may be prescribed by regulations made under this subpart.
-  (2) The maximum duration of a regional fuel tax contribution referred to in subsection (1)(f) is 30 years.
+  (2) The maximum duration of a regional fuel tax contribution referred to in subsection (1)﻿(f) is 30 years.
   (3) However, the maximum duration referred to in subsection (2) may be extended by 5 years, but only if the additional 5 years arises out of a material change in circumstances that results in a replacement of the scheme under section 65S.
-  (4) Despite subsection (1)(d),—
+  (4) Despite subsection (1)﻿(d),—
     (a) in all cases no more than a maximum of 5 cents per litre of fuel may be used for carriageways for general traffic; and
     (b) the total rate of any regional fuel tax scheme may not exceed—
       (i) 2 cents per litre of fuel in 2009; and
@@ -689,7 +689,7 @@ The following subpart is inserted after section 65:Regional fuel taxPreliminary 
     (l) the public in the region.
   (1) In carrying out the consultation required by section 65H, a regional transport committee must—
     (a) act in accordance with the consultation principles set out in section 82 of the Local Government Act 2002; and
-    (b) use the special consultative procedure under sections 83, 87(2)(a), and 89 of the Local Government Act 2002.
+    (b) use the special consultative procedure under sections 83, 87(2)﻿(a), and 89 of the Local Government Act 2002.
   (2) A regional transport committee complies with subsection (1) if the required consultation on its proposed regional fuel tax scheme is carried out in conjunction with—
     (a) the relevant regional council’s consultation on its long-term council community plan or its annual plan under the Local Government Act 2002; or
     (b) any other consultation under this Act.
@@ -728,7 +728,7 @@ The following subpart is inserted after section 65:Regional fuel taxPreliminary 
     (a) to recommend to the Governor-General the making of an Order in Council to approve the proposed regional fuel tax scheme and prescribe the rate or rates of regional fuel tax under that proposed scheme; or
     (b) to refer the proposed regional fuel tax scheme back to the regional council with a request that the relevant regional transport committee reconsider 1 or more of the aspects of the proposed scheme; or
     (c) to decline to recommend the making of an Order in Council under section 65O(1).
-  (2) If the responsible Ministers refer the proposed regional fuel tax scheme back to the regional council, the regional council must refer the proposed scheme back to the relevant regional transport committee under section 65K(1)(b).
+  (2) If the responsible Ministers refer the proposed regional fuel tax scheme back to the regional council, the regional council must refer the proposed scheme back to the relevant regional transport committee under section 65K(1)﻿(b).
   (1) The Governor-General may, by Order in Council made on the recommendation of the responsible Ministers,—
     (a) approve a regional fuel tax scheme; and
     (b) prescribe the rate or rates of regional fuel tax that apply under that scheme; and
@@ -761,7 +761,7 @@ The following subpart is inserted after section 65:Regional fuel taxPreliminary 
   (1) If the regional transport committee decides to vary the allocation of regional fuel tax revenue between the capital projects included in a regional fuel tax scheme under section 65Q, the regional transport committee must act in accordance with sections 65J to 65P.
   (2) The requirements set out in sections 65J to 65P that apply to a proposed regional fuel tax scheme apply, with all necessary modifications, to varying a regional fuel tax scheme.
   (3) To avoid doubt, the consultation requirements as set out in sections 65H and 65I do not apply to a variation of a regional fuel tax scheme.
-  (1) Subject to subsection (3), if the regional transport committee decides to replace a regional fuel tax scheme with a new scheme under section 65Q(2)(c), the regional transport committee must act in accordance with sections 65E to 65P.
+  (1) Subject to subsection (3), if the regional transport committee decides to replace a regional fuel tax scheme with a new scheme under section 65Q(2)﻿(c), the regional transport committee must act in accordance with sections 65E to 65P.
   (2) The requirements of sections 65E to 65P that apply to a proposed regional fuel tax scheme apply, with all necessary modifications, to replacing a regional fuel tax scheme.
   (3) A regional fuel tax scheme may be replaced not more than once every 3 years.
   (1) The Agency may start collecting regional fuel tax in relation to a regional fuel tax scheme that is approved by Order in Council made under section 65O(1) from the date specified in the Order in Council, which must be the first day of January, April, July, or October.
@@ -850,7 +850,7 @@ The following subpart is inserted after section 65:Regional fuel taxPreliminary 
     (h) providing for any other matter contemplated by this subpart, necessary for its administration, or necessary for giving it full effect.
 
 ### 43 New Parts 3 and 4 substituted
-Part 3 is repealed and the following Parts are substituted:Land transport strategic documentsNational land transport strategyOverview of national land transport strategyResponsibility for completing national land transport strategy1998 No 110 ss 170(1), 172(1), 173Core requirements of national land transport strategy1998 No 110 s 170(3)Form and content of national land transport strategyProcedure for completing national land transport strategy1998 No 110 s 171(1)Availability of national land transport strategy1998 No 110 s 171(2)Effect of national land transport strategy1998 No 110 s 174Regional land transport strategiesOverview of regional land transport strategyResponsibility for preparing and approving regional land transport strategies1998 No 110 s 175(5)Core requirements for regional land transport strategies1998 No 110 s 175(2)(e), (3), (4)Other matters that must be taken into account1998 No 110 s 175(2)(b)–(d), (f)–(i), (q)Contents of regional land transport strategies1998 No 110 s 175(2)(j)–(p); 2004 No 57 s 36Consultation requirements1998 No 110 s 179Process for approving regional land transport strategiesAvailability of regional land transport strategy1998 No 110 s 177Variation of regional land transport strategy1998 No 110 s 176Effect of regional land transport strategies1998 No 110 s 181Progress reports on regional land transport strategy1998 No 110 s 182GPSOverview of GPSStatus of GPSMinister must issue GPS before national land transport programmePreparation of GPSContent of GPSAgency to give effect to GPS in respect of funding of land transport systemAmending current GPSAvailability of GPSNew Zealand Transport Agency, regional transport committees, and miscellaneous provisionsNew Zealand Transport AgencyOverviewEstablishment of New Zealand Transport AgencyObjective of AgencyFunctions of AgencyOperating principlesAgency must consider delegating or contracting out functions and powersAgency’s boardUse of certain wordsStatement of intentSecretary must monitor and review specified activities and proceduresMonitoring and reporting on delivery of approved police activities or combinations of police activitiesSecretary may declare State highwaysGovernment Superannuation FundRegional transport committeesRegional transport committeesFunctions of regional transport committeeProcedure of committeeMiscellaneousPublic availability of documents1989 No 75 s 105Regulations
+Part 3 is repealed and the following Parts are substituted:Land transport strategic documentsNational land transport strategyOverview of national land transport strategyResponsibility for completing national land transport strategy1998 No 110 ss 170(1), 172(1), 173Core requirements of national land transport strategy1998 No 110 s 170(3)Form and content of national land transport strategyProcedure for completing national land transport strategy1998 No 110 s 171(1)Availability of national land transport strategy1998 No 110 s 171(2)Effect of national land transport strategy1998 No 110 s 174Regional land transport strategiesOverview of regional land transport strategyResponsibility for preparing and approving regional land transport strategies1998 No 110 s 175(5)Core requirements for regional land transport strategies1998 No 110 s 175(2)﻿(e), (3), (4)Other matters that must be taken into account1998 No 110 s 175(2)﻿(b)–(d), (f)–(i), (q)Contents of regional land transport strategies1998 No 110 s 175(2)﻿(j)–(p); 2004 No 57 s 36Consultation requirements1998 No 110 s 179Process for approving regional land transport strategiesAvailability of regional land transport strategy1998 No 110 s 177Variation of regional land transport strategy1998 No 110 s 176Effect of regional land transport strategies1998 No 110 s 181Progress reports on regional land transport strategy1998 No 110 s 182GPSOverview of GPSStatus of GPSMinister must issue GPS before national land transport programmePreparation of GPSContent of GPSAgency to give effect to GPS in respect of funding of land transport systemAmending current GPSAvailability of GPSNew Zealand Transport Agency, regional transport committees, and miscellaneous provisionsNew Zealand Transport AgencyOverviewEstablishment of New Zealand Transport AgencyObjective of AgencyFunctions of AgencyOperating principlesAgency must consider delegating or contracting out functions and powersAgency’s boardUse of certain wordsStatement of intentSecretary must monitor and review specified activities and proceduresMonitoring and reporting on delivery of approved police activities or combinations of police activitiesSecretary may declare State highwaysGovernment Superannuation FundRegional transport committeesRegional transport committeesFunctions of regional transport committeeProcedure of committeeMiscellaneousPublic availability of documents1989 No 75 s 105Regulations
   (1) A national land transport strategy, which is completed by the Minister every 6 financial years and covers a period of at least 30 financial years, enables the Minister to provide guidance to the land transport sector on the Crown’s outcomes and objectives in relation to land transport in New Zealand.
   (2) This section is intended by way of explanation only, and if this section is inconsistent with another provision of this Act or any other Act, then the other provision prevails.
   (1) The Minister may, on behalf of the Crown, complete a national land transport strategy that—
@@ -929,9 +929,9 @@ Part 3 is repealed and the following Parts are substituted:Land transport strate
     (b) the land transport funding likely to be available within the region for implementing the strategy during the period covered by the strategy; and
     (c) the views of affected communities; and
     (d) the views of land transport network providers in the region; and
-    (e) the need to give early and full consideration to land transport options and alternatives in a way that contributes to the matters referred to in section 75(a)(iv), and paragraph (c); and
+    (e) the need to give early and full consideration to land transport options and alternatives in a way that contributes to the matters referred to in section 75(a)﻿(iv), and paragraph (c); and
     (f) the need to provide early and full opportunities for persons and organisations listed in section 78(1) to contribute to the development of those regional land transport strategies; and
-    (g) the need to take account of the relevant regional council's function under section 30(1)(gb) of the Resource Management Act 1991 to consider the strategic integration of transport infrastructure with land use through objectives, policies, and methods.
+    (g) the need to take account of the relevant regional council's function under section 30(1)﻿(gb) of the Resource Management Act 1991 to consider the strategic integration of transport infrastructure with land use through objectives, policies, and methods.
   A regional land transport strategy must contain the following matters:
     (a) inter-regional and intra-regional transport outcomes relevant to the region; and
     (b) the strategic options for achieving those outcomes; and
@@ -963,7 +963,7 @@ Part 3 is repealed and the following Parts are substituted:Land transport strate
     (n) the public in the region.
   (2) In carrying out the consultation required by subsection (1), a regional transport committee must—
     (a) act in accordance with the consultation principles set out in section 82 of the Local Government Act 2002; and
-    (b) use the special consultative procedure under sections 83, 87(2)(a), and 89 of the Local Government Act 2002.
+    (b) use the special consultative procedure under sections 83, 87(2)﻿(a), and 89 of the Local Government Act 2002.
   (3) A regional transport committee complies with subsection (2) if the required consultation on the regional land transport strategy is carried out in conjunction with the relevant regional council’s consultation on its long-term council community plan or its annual plan under the Local Government Act 2002.
   (4) An approved organisation and the Agency must assist a regional transport committee that is preparing a regional land transport strategy by giving the regional transport committee any reasonably requested information that the regional transport committee needs in order to prepare the regional land transport strategy.
   (1) A regional transport committee that has prepared a regional land transport strategy on behalf of a regional council must, after it has consulted under section 78, lodge the regional land transport strategy with the regional council.
@@ -1115,12 +1115,12 @@ Part 3 is repealed and the following Parts are substituted:Land transport strate
     (d) ensure that—
       (i) it acts in a transparent manner in its decision making under this Act; and
       (ii) it gives, when making decisions in respect of land transport planning and funding under subpart 1 of Part 2, the same level of scrutiny to its own proposed activities and combinations of activities as it would give to those proposed by approved organisations.
-  (2) The Agency must have systems and procedures to enable it to give effect to the principle set out in subsection (1)(d)(ii), and must—
+  (2) The Agency must have systems and procedures to enable it to give effect to the principle set out in subsection (1)﻿(d)﻿(ii), and must—
     (a) make information about those systems and procedures available on its Internet site; and
     (b) include in its annual report under section 150 of the Crown Entities Act 2004 a report on its implementation of those systems and procedures.
   (3) The Auditor-General must, when carrying out the annual audit of the Agency under section 15 of the Public Audit Act 2001, report on the Agency’s implementation of the systems and procedures referred to in subsection (2).
   In the course of performing its functions and exercising its powers, the Agency must consider whether it could most efficiently and effectively perform those functions and exercise those powers by means of its own operations, or by delegating or contracting out those operations to appropriate persons.
-  (1) The Agency’s board must have at least 6, but no more than 8, board members appointed in accordance with section 28(1)(a) of the Crown Entities Act 2004.
+  (1) The Agency’s board must have at least 6, but no more than 8, board members appointed in accordance with section 28(1)﻿(a) of the Crown Entities Act 2004.
   (2) The responsible Minister must not appoint a board member unless he or she has consulted with the persons, representative groups within the land transport sector or elsewhere, government departments, and Crown entities that he or she considers appropriate.
   (3) The Agency’s board must not delegate any functions or powers delegated to the board by the Minister without the written consent of the Minister.
   (1) No person other than the Agency may, either alone or with another person, be incorporated or registered under another enactment, trade or carry on business, or perform the functions for which it was formed—
@@ -1134,7 +1134,7 @@ Part 3 is repealed and the following Parts are substituted:Land transport strate
     (a) the basis on which the Agency will prepare the national land transport programme and how that programme will give effect to the GPS:
     (b) any requirement to review or revise the national land transport programme and the basis on which that review or revision is to be carried out:
     (c) the basis on which the Agency will approve procurement procedures under section 25:
-    (d) any directions under section 95(1)(j) or under Part 3 of the Crown Entities Act 2004:
+    (d) any directions under section 95(1)﻿(j) or under Part 3 of the Crown Entities Act 2004:
     (e) a statement as to how the Agency will implement the principles, systems, and procedures in section 96:
     (f) any steps that the Agency intends to take, having considered ways in which it might foster the development of Māori capacity to contribute to the Agency’s land transport decision-making processes, over the period covered by the statement of intent:
     (g) any other matters that the Agency and the Minister agree or the Minister requires.
@@ -1205,15 +1205,15 @@ Part 3 is repealed and the following Parts are substituted:Land transport strate
     (f) 1 person to represent the objective of access and mobility; and
     (g) 1 person to represent the objective of environmental sustainability; and
     (h) 1 person to represent cultural interests.
-  (4) A person specified in subsection (2)(a) to (c) and (3)(a) and (b) may only be appointed on the nomination of the relevant entity.
-  (5) A person appointed under subsection (2)(d) to (i) or (3)(c) to (h)—
+  (4) A person specified in subsection (2)﻿(a) to (c) and (3)﻿(a) and (b) may only be appointed on the nomination of the relevant entity.
+  (5) A person appointed under subsection (2)﻿(d) to (i) or (3)﻿(c) to (h)—
     (a) must be from the wider regional community; and
     (b) must not be a member or employee of that regional council, any other territorial authority in that region, or the Agency.
   (6) Each regional council must appoint from its representatives the chair and deputy chair of the committee.
   (7) At any meeting of a regional transport committee, the chair, or any other person presiding at the meeting,—
     (a) has a deliberative vote; and
     (b) in the case of an equality of votes, does not have a casting vote (and therefore the act or question is defeated and the status quo is preserved).
-  (8) The Minister may issue guidelines to regional councils concerning the requisite knowledge and skills of those persons to be appointed under subsections (2)(d) to (i) and (3)(c) to (h).
+  (8) The Minister may issue guidelines to regional councils concerning the requisite knowledge and skills of those persons to be appointed under subsections (2)﻿(d) to (i) and (3)﻿(c) to (h).
   (9) Despite subsection (1), 2 or more adjoining regional councils may establish a single regional transport committee under this section, in which case, subsections (2) to (8) apply with all necessary modifications.
   (10) If a regional transport committee is established under subsection (9), any reference in Part 2 of this Act to a regional council is to be read as a reference to each of the regional councils that have established the committee.
   (11) If the area of a territorial authority (other than a territorial authority in the Auckland region) falls into the regions of more than 1 regional council, the territorial authority must decide (after consulting the relevant regional councils) which regional transport committee to join.
@@ -1229,7 +1229,7 @@ Part 3 is repealed and the following Parts are substituted:Land transport strate
     (c) a regional fuel tax scheme for its region if the regional transport committee decides to recommend a scheme; and
     (d) to provide the regional council with any advice and assistance the regional council may request in relation to its transport responsibilities.
   (2) Each regional transport committee and ARTA must adopt a policy that determines significance in respect of variations made to regional land transport programmes and regional land transport strategies under sections 18D and 81 (as the case may require).
-  (1) The persons appointed under section 105(2)(d) to (i) and (3)(c) to (h) have full speaking rights but are not entitled to vote on matters related to regional land transport programmes.
+  (1) The persons appointed under section 105(2)﻿(d) to (i) and (3)﻿(c) to (h) have full speaking rights but are not entitled to vote on matters related to regional land transport programmes.
   (2) The provisions of the Local Government Act 2002 and the Local Government Official Information and Meetings Act 1987 concerning the meetings of committees of regional councils, so far as they are applicable and with the necessary modifications, apply in respect of meetings of the regional transport committees.
   (3) The Agency is not, as a result of being represented on a regional transport committee, bound to—
     (a) include any matter in a national land transport programme under section 19C; or
@@ -1355,7 +1355,7 @@ When preparing Auckland’s regional land transport strategy on behalf of the Au
   (b) the land transport funding likely to be available within the region during the period covered by the strategy; and
   (c) the views of affected communities; and
   (d) the views of land transport network providers; and
-  (e) the need to give early and full consideration to land transport options and alternatives in a way that contributes to the matters referred to in clause 3(a)(iv) and paragraph (c); and
+  (e) the need to give early and full consideration to land transport options and alternatives in a way that contributes to the matters referred to in clause 3(a)﻿(iv) and paragraph (c); and
   (f) the need to provide early and full opportunities for persons and organisations listed in clause 6(1) to contribute to the development of its regional land transport strategy.
 
 ### 5 Contents of Auckland’s regional land transport strategy
@@ -1396,7 +1396,7 @@ When preparing Auckland’s regional land transport strategy on behalf of the Au
   (o) every affected approved public organisation in the region.
 (2) In carrying out the consultation required by subclause (1), the Auckland regional transport committee must—
   (a) act in accordance with the consultation principles set out in section 82 of the Local Government Act 2002; and
-  (b) use the special consultative procedure under sections 83, 87(2)(a), and 89 of the Local Government Act 2002.
+  (b) use the special consultative procedure under sections 83, 87(2)﻿(a), and 89 of the Local Government Act 2002.
 (3) The Auckland regional transport committee complies with subclause (2) if the required consultation on the regional land transport strategy is carried out in conjunction with the Auckland Regional Council’s consultation on its long-term council community plan or its annual plan under the Local Government Act 2002.
 (4) When preparing a regional land transport strategy, the Auckland regional transport committee may require from any territorial authority within its region such information as the committee considers it requires in order to properly perform its functions under this Act in relation to that strategy, and the territorial authority must promptly comply with that requirement.
 
@@ -1442,8 +1442,8 @@ As soon as practicable after it has approved Auckland’s regional land transpor
   (c) the Auckland Regional Council; and
   (d) other territorial authorities in the region; and
   (e) the Agency.
-(3) The Auckland Regional Council must appoint a sufficient number of persons to enable all of the objectives specified in subclause (2)(a) to be adequately represented.
-(4) A person appointed with respect to subclause (2)(a) or (b)—
+(3) The Auckland Regional Council must appoint a sufficient number of persons to enable all of the objectives specified in subclause (2)﻿(a) to be adequately represented.
+(4) A person appointed with respect to subclause (2)﻿(a) or (b)—
   (a) must be from the wider regional community; and
   (b) must not be a representative of the Auckland Regional Council, any other territorial authority in the Auckland region, or the Agency.
 (5) The functions of the regional transport committee in the Auckland region are to—
@@ -1476,7 +1476,7 @@ As soon as practicable after it has approved Auckland’s regional land transpor
     (b) the pay and conditions of which are, in their overall effect, no less favourable to the employee than those applying to the employee immediately before the date of the employee’s transfer to that position
   - **transferred employee** means a person who,—
     (a) immediately before 1 August 2008, is employed by a former agency; and
-    (b) is transferred to the new Agency under clause 26(1)(h).
+    (b) is transferred to the new Agency under clause 26(1)﻿(h).
 (2) Any term or expression that is defined in the Land Transport Management Act 2003 and used, but not defined, in this schedule has, unless the context otherwise requires, the same meaning as in that Act.
 
 **National land transport fund**
@@ -1528,13 +1528,14 @@ Subject to clause 42, approvals in effect under sections 20 and 21 of the Land T
 [Repealed]
 
 ### 14 Approval of certain activities or combinations of activities
-(1) The new Agency must approve activities and combinations of activities as qualifying for payment from the national land transport fund up to the amount, which is subject to subclause (2), and by the financial year specified in the second column of the following table in order to fulfil the Crown’s commitment described in the first column of that table opposite that amount and financial year:The Crown’s commitmentAmount (which is subject to subclause (2)) and financial year by which amount is to be approved($)Auckland Land Transport—contribution to implementing Auckland’s regional land transport strategy: the Crown’s commitment was originally $898,000,000 over 2004/05–2014/15, including rail funding130,000,000 by 2012/13Bay of Plenty—to address congestion and improve access and safety through investment in strategic roading, passenger transport, transport demand management, and walking and cycling: the Crown’s commitment was originally $150,000,000 over 2006/07–2014/15135,000,000 by 2015/16Waikato Land Transport—contribution to implementing Waikato’s regional land transport strategy: the Crown’s commitment was originally $215,000,000 over 2007/08–​2016/17, including rail funding188,000,000 by 2017/18Wellington Land Transport—contribution to implementing Wellington's regional land transport strategy: the Crown's commitment was originally $225,000,000 over 2005/06–2014/1591,951,000 by 2015/16Wellington Land Transport (Western Corridor)—contribution to improve safety and access reliability of the Wellington Western Corridor: the Crown's commitment was originally $660,000,000 over 2006/07–2015/16625,152,000 by 2016/17 made up as follows:
+(1) The new Agency must approve activities and combinations of activities as qualifying for payment from the national land transport fund up to the amount, which is subject to subclause (2), and by the financial year specified in the second column of the following table in order to fulfil the Crown’s commitment described in the first column of that table opposite that amount and financial year:The following table is small in size and has 2 columns. Column 1 is headed The Crown’s commitment. Column 2 is headed Amount (which is subject to subclause (2)) and financial year by which amount is to be approved ($).The Crown’s commitmentAmount (which is subject to subclause (2)) and financial year by which amount is to be approved($)Auckland Land Transport—contribution to implementing Auckland’s regional land transport strategy: the Crown’s commitment was originally $898,000,000 over 2004/05–2014/15, including rail funding130,000,000 by 2012/13Bay of Plenty—to address congestion and improve access and safety through investment in strategic roading, passenger transport, transport demand management, and walking and cycling: the Crown’s commitment was originally $150,000,000 over 2006/07–2014/15135,000,000 by 2015/16Waikato Land Transport—contribution to implementing Waikato’s regional land transport strategy: the Crown’s commitment was originally $215,000,000 over 2007/08–​2016/17, including rail funding188,000,000 by 2017/18Wellington Land Transport—contribution to implementing Wellington's regional land transport strategy: the Crown's commitment was originally $225,000,000 over 2005/06–2014/1591,951,000 by 2015/16Wellington Land Transport (Western Corridor)—contribution to improve safety and access reliability of the Wellington Western Corridor: the Crown's commitment was originally $660,000,000 over 2006/07–2015/16625,152,000 by 2016/17 made up as follows:
   (a) up to 405,000,000 to be applied to advance a long-term solution to address access reliability for State Highway 1 between Kapiti and Wellington
   (b) up to 220,152,000 to be applied to passenger transport and roading to address congestion and to improve safety and access reliability of the Wellington Western Corridor.
 (2) The Governor-General may, by Order in Council, increase any or all of the amounts or periods specified in the second column of the table in subclause (1).
 (3) The new Agency must include in its annual report on the national land transport fund under section 11 of the Land Transport Management Act 2003 a statement of the total expenses or capital expenditure incurred from the 2008/09 financial year to date in fulfilling each of the Crown's commitments listed in subclause (1).
 (4) The reporting requirement in subclause (3) applies until all of the Crown's commitments listed in subclause (1) have been fulfilled.
 (5) To avoid doubt, compliance by the new Agency with this clause does not constitute a breach of section 95(2) of the Land Transport Management Act 2003.
+(6) An order under subclause (2) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 15 Approval of new Agency’s activities and combinations of activities (excluding those relating to State highways) for 2008/09 financial year
 [Repealed]
@@ -1591,7 +1592,7 @@ Subject to clause 42, approved procurement procedures in effect under section 25
   (j) the commencement, continuation, or enforcement of proceedings by or against the former agencies may instead be commenced, continued, or enforced by or against the new Agency without amendment to the proceedings; and
   (k) the completion of a matter or thing that would, but for this clause, have been completed by the former agencies, may be completed by the new Agency.
 (2) Despite anything in subclause (1), the board of the new Agency may appoint a new chief executive after 1 August 2008.
-(3) The transfer of information from the former agencies to the new Agency under subclause (1)(c) does not constitute an action that is an interference with the privacy of an individual under section 66 of the Privacy Act 1993.
+(3) The transfer of information from the former agencies to the new Agency under subclause (1)﻿(c) does not constitute an action that is an interference with the privacy of an individual under section 66 of the Privacy Act 1993.
 (4) The dissolution of the former agencies does not, by itself, affect any of the following matters:
   (a) any decision made, or anything done or omitted to be done, by a former agency in relation to the performance or the exercise of the former agency’s functions, duties, or powers under any enactment:
   (b) any proceedings commenced by or against a former agency:
@@ -1690,7 +1691,7 @@ If a matter or thing is continued with a specified effect by this Act, the matte
 (2) An Order in Council made under subsection (1) must,—
   (a) if made on or before 30 June in any year, expire on the close of 31 December of that year except so far as it is expressly confirmed by Act of Parliament passed during that year; and
   (b) if made on or after 1 July in any year, expire on the close of 31 December in the following year except so far as it is expressly confirmed by Act of Parliament passed before the end of that following year.
-(3) If an Order in Council expires by virtue of subsection (2)(a) or (b), any fees and charges collected under that Order in Council in excess of the fees and charges otherwise payable must, except in so far as any other provision is made by an Act of Parliament, be refunded.
+(3) If an Order in Council expires by virtue of subsection (2)﻿(a) or (b), any fees and charges collected under that Order in Council in excess of the fees and charges otherwise payable must, except in so far as any other provision is made by an Act of Parliament, be refunded.
 (4) An Order in Council made under subsection (1) that the House of Representatives resolves should be revoked or varied is revoked or varied in accordance with the terms of the resolution, and any fees and charges collected under the Order in Council in excess of the fees and charges otherwise payable are, so far as that resolution provides, to be refunded.
 (5) The repeal of any Act of Parliament passed for the purpose of expressly validating or confirming an Order in Council under subsection (2) does not, unless there is any express provision to the contrary, affect the validity or confirmation of the Order in Council.
 
