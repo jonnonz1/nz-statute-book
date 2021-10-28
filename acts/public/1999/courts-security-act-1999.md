@@ -1,5 +1,5 @@
 # Courts Security Act 1999
-_Consolidation as at 2020-08-26_
+_Consolidation as at 2021-10-28_
 
 > An Act to provide for—athe security of courts and tribunals; andbthe safety of the public and others who access and use courts and tribunals; and(c)the promotion of the orderly operation of courts and tribunals
 
@@ -450,9 +450,10 @@ Every Police officer has and may exercise all or any of the powers and duties gi
 **Regulations**
 
 ### 36 Regulations
-The Governor-General may, from time to time, by Order in Council, make regulations—
+(1) The Governor-General may, from time to time, by Order in Council, make regulations—
   (a) declaring a specified court or tribunal to be a body to which this Act applies:
   (b)
   (c) declaring any place described in the regulations to be a body to which this Act applies, either generally or for a specified period:
   (d) defining precisely the boundaries of a body to which this Act applies:
   (e)
+(2) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
