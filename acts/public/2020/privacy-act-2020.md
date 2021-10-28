@@ -1,5 +1,5 @@
 # Privacy Act 2020
-_Consolidation as at 2021-10-08_
+_Consolidation as at 2021-10-28_
 
 ### 1 Title
 This Act is the Privacy Act 2020.
@@ -260,7 +260,7 @@ For the purposes of this Act, an action done by, or information disclosed to, a 
   (d) to make public statements in relation to any matter affecting the privacy of individuals:
   (e) to receive and invite representations from members of the public on any matter affecting the privacy of individuals:
   (f) to consult and co-operate with other persons and bodies concerned with the privacy of individuals:
-  (g) to examine any proposed legislation (including subordinate legislation) or proposed government policy that the Commissioner considers may affect the privacy of individuals, including any proposed legislation that makes provision for either or both of the following:
+  (g) to examine any proposed legislation (including secondary legislation) or proposed government policy that the Commissioner considers may affect the privacy of individuals, including any proposed legislation that makes provision for either or both of the following:
     (i) the collection of personal information by a public sector agency:
     (ii) the sharing of personal information between public sector agencies (including parts of public sector agencies):
   (h) to monitor the use of unique identifiers:
@@ -431,6 +431,7 @@ IPPs 2, 3, and 4(b) do not apply to personal information collected by an intelli
 (6) Despite the definition of the term individual in section 7(1),—
   (a) a sector-specific code of practice may be issued that applies 1 or more of the IPPs to information about deceased persons (whether or not the code also applies 1 or more of the IPPs to other information); and
   (b) the code of practice has effect under section 38 as if those IPPs so applied, and the provisions of this Act apply accordingly.
+(7) See section 36 for the status under the Legislation Act 2019 of codes of practice under this section.
 
 ### 33 Issue of code of practice
 (1) The Commissioner may issue a code of practice on—
@@ -455,20 +456,16 @@ IPPs 2, 3, and 4(b) do not apply to personal information collected by an intelli
 (2) Every code of practice, and every amendment to or revocation of a code of practice, issued in accordance with this section,—
   (a) must be identified as a temporary code or amendment or revocation; and
   (b) remains in force for the period (not exceeding 1 year after the date of its issue) specified for that purpose in the code or, as the case may be, the amendment or the revocation.
-(3) Section 35(2) does not apply to a code of practice, or any amendment to or revocation of a code of practice, issued in accordance with this section.
+(3) Section 35 does not apply to a code of practice, or any amendment to or revocation of a code of practice, issued in accordance with this section.
 
-### 35 Notification, availability, and commencement of codes of practice
-(1) If the Commissioner issues a code of practice,—
-  (a) the Commissioner must, as soon as practicable after the code is issued, ensure that a notice is published in the Gazette that—
-    (i) states that the code has been issued; and
-    (ii) specifies a place at which copies of the code are available for inspection free of charge and for purchase; and
-  (b) the Commissioner must ensure that, so long as the code remains in force, the code is publicly available on an Internet site maintained by or on behalf of the Commissioner, and that copies of the code are available—
-    (i) for inspection by members of the public free of charge; and
-    (ii) for purchase by members of the public at a reasonable price.
-(2) A code of practice comes into force on the 28th day after the date of its notification in the Gazette or on any later day that is specified in the code.
+### 35 Commencement of code
+A code of practice comes into force on the 28th day after the date of its publication under the Legislation Act 2019, or any later date specified in the code.
 
-### 36 Application of Legislation Act 2012 to codes of practice
-All codes of practice are disallowable instruments, but not legislative instruments, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
+### 36 Application of Legislation Act 2019 to codes
+(1) A code of practice is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+(2) That Act applies as if—
+  (a) the Commissioner were the maker of the code; and
+  (b) the code were made by the Commissioner issuing it.
 
 ### 37 Amendment and revocation of codes of practice
 (1) The Commissioner may at any time issue an amendment or a revocation of a code of practice.
@@ -1671,6 +1668,7 @@ An approved information sharing agreement may authorise a part of an agency to s
   (b) any code of practice (except a code of practice that modifies IPPs 6 and 7).
 (3) An Order in Council that, under subsection (2), grants an exemption from 1 or more of the IPPs or a code of practice may provide that the exemption is unconditional or is subject to any conditions that are prescribed in the Order in Council.
 (4) An Order in Council that, under subsection (2), modifies the application of 1 or more of the IPPs or any code of practice may do so by prescribing standards that are more stringent or less stringent than the standards that are prescribed by the IPP or, as the case may be, the code of practice.
+(5) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 146 Requirements for Order in Council
 An Order in Council made under section 145(1) must—
@@ -1693,7 +1691,7 @@ An Order in Council made under section 145(1) must—
   (g) state the Internet site address where a copy of the agreement can be accessed.
 
 ### 147 Further provisions about Order in Council
-(1) An Order in Council made under section 145(1) must provide that it comes into force on a date specified in the Order in Council (which must not be earlier than the date on which it is made).
+(1) An Order in Council made under section 145(1) must provide that it comes into force on a date specified in the Order in Council.
 (2) An Order in Council made under section 145(1) must insert into Schedule 2—
   (a) a description of each of the following:
     (i) the public service or the public services the provision of which the agreement is intended to facilitate:
@@ -1703,7 +1701,7 @@ An Order in Council made under section 145(1) must—
   (d) the Internet site address where a copy of the agreement can be accessed.
 
 ### 148 Status of Order in Council
-For the purposes of the Legislation Act 2012, an Order in Council made under section 145(1) is a legislative instrument and a disallowable instrument and must be presented to the House of Representatives under section 41 of that Act.
+[Repealed]
 
 ### 149 Matters to which relevant Minister must have regard before recommending Order in Council
 (1) Before recommending the making of an Order in Council under section 145(1), the relevant Minister must—
@@ -1799,6 +1797,7 @@ The requirement to give notice under section 152 applies unless—
   (c) naming an agency as a party to the agreement under section 142(3); or
   (d) removing an agency as a party to the agreement under section 142(4); or
   (e) any terms or conditions of the agreement that the lead agency, after consulting the Commissioner, considers do not, or are unlikely to, have any effect on the privacy implications of the agreement.
+(6) An order under subsection (3) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 158 Review of operation of approved information sharing agreement
 (1) The Commissioner may at any time, on the Commissioner’s own initiative, conduct a review of the operation of an approved information sharing agreement.
@@ -1835,6 +1834,7 @@ The relevant Minister must—
   (b) repeal any description or matter in Schedule 2, including all of the descriptions or matters relating to an approved information sharing agreement if the Order in Council by which it was approved has expired or has been revoked:
   (c) otherwise amend or replace Schedule 2.
 (2) To avoid doubt, any of the matters set out in this section may be included in an Order in Council made under section 145 or in a separate Order in Council made under this section.
+(3) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### Subpart 2 — Identity information
 
@@ -1887,6 +1887,7 @@ The chief executive of an accessing agency must include in every annual report p
   (a) the purpose for which the identity information is to be accessed relates to a specified function of the accessing agency; and
   (b) the identity information to be accessed is no more than is reasonably necessary to enable the accessing agency to achieve that purpose; and
   (c) any potential conflicts or inconsistencies between the sharing of personal information under Schedule 3 and any other enactment have been identified and appropriately addressed.
+(3) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### Subpart 3 — Law enforcement information
 
@@ -1922,6 +1923,7 @@ In this subpart, unless the context otherwise requires,—
   (a) inserting, repealing, amending, or replacing any item in Schedule 4; or
   (b) repealing Schedule 4 and substituting a new schedule.
 (2) However, no Order in Council may be made under subsection (1) that amends law enforcement information in Schedule 4 that is described in that schedule as court records.
+(3) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### Subpart 4 — Authorised information matching programmes
 
@@ -2067,17 +2069,19 @@ Despite section 176, if the collection or disclosure of information is authorise
 Despite anything in the Official Information Act 1982 or the Local Government Official Information and Meetings Act 1987, a public sector agency must not disclose to any other public sector agency under those Acts any personal information if the information is sought solely or principally for use in an information matching programme.
 
 ### 188 Power to amend Schedule 5 by Order in Council
-The Governor-General may, by Order in Council made on the recommendation of the responsible Minister,—
+(1) The Governor-General may, by Order in Council made on the recommendation of the responsible Minister,—
   (a) amend Schedule 5 by—
     (i) replacing a reference to an information matching provision that has been renumbered with a reference to the corresponding renumbered information matching provision:
     (ii) repealing an information matching provision; or
   (b) repeal Schedule 5.
+(2) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 189 Power to amend Schedule 6 by Order in Council
 (1) The Governor-General may, by Order in Council made on the recommendation of the Privacy Commissioner, amend the information matching rules in Schedule 6.
 (2) The power conferred by subsection (1) includes the power to—
   (a) replace Schedule 6:
   (b) repeal Schedule 6.
+(3) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 190 Amendments to other enactments related to this subpart
 [Repealed]
@@ -2164,9 +2168,10 @@ Every person who, without reasonable excuse, fails or refuses to comply with a t
 Part 4 of the Human Rights Act 1993 (except sections 97, 108A, and 108B) applies in relation to proceedings under section 198 as if they were proceedings under that Act.
 
 ### 200 Power to amend Schedule 8 by Order in Council
-The Governor-General may, by Order in Council,—
+(1) The Governor-General may, by Order in Council,—
   (a) amend the principles in Schedule 8 to the extent required to bring them up to date:
   (b) replace Schedule 8 to update the principles.
+(2) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ## Part 9 — Miscellaneous provisions
 
@@ -2276,6 +2281,7 @@ The Commissioner must not, in any report or statement made pursuant to this Act 
 ### 213 Regulations: prescribed binding schemes
 (1) The Governor-General may, by Order in Council made on the recommendation of the responsible Minister given after consultation with the Commissioner, make regulations prescribing binding schemes for the purpose of IPP 12(1)﻿(d).
 (2) The Minister may recommend the making of regulations under subsection (1) only if the Minister is satisfied that the binding schemes require a foreign person or entity to protect personal information in a way that, overall, provides comparable safeguards to those in this Act.
+(3) Regulations made under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 214 Regulations: prescribed countries
 (1) The Governor-General may, by Order in Council made on the recommendation of the responsible Minister given after consultation with the Commissioner, make regulations prescribing countries for the purpose of IPP 12(1)﻿(e).
@@ -2283,6 +2289,7 @@ The Commissioner must not, in any report or statement made pursuant to this Act 
 (3) A country may be prescribed subject to any specified limitation or qualification relating to—
   (a) the type of foreign person or entity in that country that personal information may be disclosed to:
   (b) the type of personal information that may be disclosed to a foreign person or entity in that country.
+(4) Regulations made under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 215 Other regulations
 (1) The Governor-General may, by Order in Council, made on the recommendation of the responsible Minister, make regulations for all or any of the following purposes:
@@ -2297,6 +2304,7 @@ The Commissioner must not, in any report or statement made pursuant to this Act 
     (i) acts independently in performing its functions and duties; and
     (ii) encourages news entities to develop and observe principles, standards, or codes of conduct appropriate to the type of news activity undertaken by the entities, particularly principles, standards, or codes of conduct in relation to the privacy of individuals; and
     (iii) has a proper procedure for receiving and dealing with complaints about news activities.
+(3) Regulations made under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 **Repeal, revocation, and consequential amendments**
 
@@ -2379,7 +2387,7 @@ A transfer prohibition notice that was given by the Commissioner under section 1
   (a) the proceedings referred to in subclause (1)﻿(a) are discontinued or completed:
   (b) the sentencing referred to in subclause (1)﻿(a) is completed:
   (c) the outcome of the proceedings and sentencing referred to in subclause (1)﻿(a) has been recorded by the Police.
-(3) Subclause (2) does not limit the application of section 19 of the Interpretation Act 1999.
+(3) Subclause (2) does not limit the application of section 34 of the Legislation Act 2019.
 
 ## Schedule 2 — Approved information sharing agreements
 
