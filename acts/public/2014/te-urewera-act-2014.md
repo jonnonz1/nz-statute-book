@@ -1,5 +1,5 @@
 # Te Urewera Act 2014
-_Consolidation as at 2020-12-01_
+_Consolidation as at 2021-10-28_
 
 ### 1 Title
 This Act is the Te Urewera Act 2014.
@@ -738,9 +738,12 @@ The costs of the independent review conducted under this subpart must be met equ
   (b) must, together with the chief executive and the Director-General, prepare a draft set of bylaws to submit to the Minister for approval.
 (3) Bylaws made under this section—
   (a) must be consistent with this Act and the management plan; and
-  (b) must be approved by the Minister and, once approved, notified in the Gazette by the Minister; and
-  (c) take effect on the date specified in the Gazette notice.
-(4) Despite any other enactment, bylaws made under this section are disallowable instruments but not legislative instruments for the purpose of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
+  (b) must be approved by the Minister.
+  (c)
+(4) Bylaws under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+(4A) That Act applies as if—
+  (a) the Minister were the maker of the bylaws; and
+  (b) the bylaws were made by the Minister approving them.
 (5) Bylaws made under the National Parks Act 1980 and applying immediately before the settlement date to Te Urewera land remain in force until they expire or are revoked under the National Parks Act 1980.
 
 **Compliance and enforcement**
@@ -1107,6 +1110,7 @@ In considering a proposal to add land to Te Urewera or to acquire an interest, t
   (a) vests in Te Urewera the land referred to in the Minister's recommendation; and
   (b) states that the land is held under, and in accordance with, this Act; and
   (c) sets out any other matters relevant to the vesting.
+(5) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 **Addition of public conservation land**
 
@@ -1154,6 +1158,7 @@ In considering a proposal to add land to Te Urewera or to acquire an interest, t
   (b) vests that land in Te Urewera; and
   (c) states that the land ceases to be vested in the Crown but is held in the name of Te Urewera under, and in accordance with, this Act; and
   (d) sets out any other matters relevant to the vesting.
+(4) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 **Registration of land added to Te Urewera**
 
