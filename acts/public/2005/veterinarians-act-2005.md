@@ -1,5 +1,5 @@
 # Veterinarians Act 2005
-_Consolidation as at 2020-12-01_
+_Consolidation as at 2021-10-28_
 
 ### 1 Title
 This Act is the Veterinarians Act 2005.
@@ -90,14 +90,14 @@ This Act binds the Crown.
   (b) has had sufficient training and experience to justify practising as a specialist in that branch of veterinary science.
 
 ### 8 Recognition of institutions and academic qualifications
-(1) The Council must publish a notice in the Gazette declaring—
+(1) The Council must, by notice under section 88, declare—
   (a) the institutions and the degrees or diplomas offered by those institutions that are recognised for the purposes of section 6(1)﻿(a); and
   (b) the assessment programmes, and post-graduate study or training approved by the Council for the purposes of section 6(1)﻿(b).
-(2) Before publishing a notice under subsection (1)﻿(a), the Council must satisfy itself that an institution provides a course of instruction in veterinary science that, in relation to each degree or diploma,—
+(2) Before making a declaration under subsection (1)﻿(a), the Council must satisfy itself that an institution provides a course of instruction in veterinary science that, in relation to each degree or diploma,—
   (a) provides tuition at a level that is acceptable to the Council; and
   (b) provides assessment or examination at a level that is acceptable to the Council; and
   (c) leads to a degree or diploma in veterinary science that is acceptable to the Council.
-(3) If the Council considers that an institution, or a degree or diploma offered by the institution, included in a declaration under subsection (1)﻿(a) no longer satisfies the criteria in subsection (2), the Council must, by notice in the Gazette, amend or revoke the declaration or relevant part of the declaration.
+(3) If the Council considers that an institution, or a degree or diploma offered by the institution, included in a declaration under subsection (1)﻿(a) no longer satisfies the criteria in subsection (2), the Council must, by notice under section 88, amend or revoke the declaration or relevant part of the declaration.
 (4) Subsection (3) does not affect the registration or continued registration of a person that the Council has accepted for registration on the basis of a degree or diploma from an institution prior to the revocation or amendment of the recognition status of the institution or the degree or diploma.
 
 **Disqualification from registration**
@@ -901,15 +901,15 @@ Subject to the Council's direction, a committee may regulate its own procedure.
 Neither the Council nor any committee, member, committee member, employee, or agent of the Council is liable for any thing done or omitted to be done, in good faith in the performance or intended performance of their functions or duties, or the exercise of their powers, under this Act.
 
 ### 88 Approved and prescribed matters to be notified and available for inspection
-(1) Any matter approved or prescribed by the Council under this Act must—
-  (a) be published in the Gazette no later than 30 days after being approved or prescribed; and
-  (b) be made available so that members of the public may inspect the documents relating to the matter free of charge.
-(2) However, a person may be charged a reasonable fee if the person is supplied with a copy of any particulars.
-(3) A Gazette notice may, instead of setting out the details of the matter that has been approved or prescribed, specify where the documents containing those details may be inspected or where a copy of them may be purchased.
+(1) If the Council approves or prescribes any matter under this Act, it must do so by giving notice under this section.
+(2)
+(3)
 (4) The Council may make the documents or 1 or more of the documents relating to an approved or prescribed matter available (for inspection or supply) at any other place the Council determines.
+(5) A person may be charged a reasonable fee if the person is supplied with any documents.
+(6) A notice under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 89 Application of Legislation Act 2012 to Gazette notices
-Every matter approved or prescribed under this Act that is required to be published in the Gazette is a disallowable instrument, but not a legislative instrument, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
+[Repealed]
 
 ### 89A Notification of convictions
 A registrar of a court who knows that a person convicted in the court is a veterinarian must send a notice of the conviction to the Council if the conviction is for—
@@ -979,7 +979,7 @@ References in any enactment to a veterinarian or a veterinary practitioner or a 
 **Fees**
 
 ### 97 Council may prescribe fees
-(1) The Council may from time to time, by notice in the Gazette, prescribe the fees payable for the following matters:
+(1) The Council may from time to time, by notice under section 88, prescribe the fees payable for the following matters:
   (a) applying for registration under the Act:
   (b) maintaining the register:
   (c) making an addition or alteration to the register:
@@ -994,7 +994,8 @@ References in any enactment to a veterinarian or a veterinary practitioner or a 
   (a) may prescribe different fees for different classes of veterinarian or registered person:
   (b) may exempt any class or classes of veterinarian or registered person from liability to pay the fee:
   (c) may provide for the waiver, part payment, or refund of any fee.
-(3) A notice under this section comes into force on a date specified in the notice, being not less than 28 days after the date the notice is published in the Gazette.
+(3) A notice under this section comes into force on a date specified in the notice, being not less than 28 days after the date the notice is published under the Legislation Act 2019.
+(4)
 
 ### 98 Principles guiding prescribing of fees
 In prescribing fees under section 97, the Council must be guided by the following principles:
@@ -1008,21 +1009,23 @@ In prescribing fees under section 97, the Council must be guided by the followin
 (2) Subsection (1) does not apply to a notice under section 97(1)﻿(a) or (h).
 
 ### 100 Further provisions relating to fees
-(1) The Council may amend or revoke a notice under section 97, by notice in the Gazette, as if the amendment or revocation were itself a notice under section 97.
+(1) The Council may amend or revoke a notice under section 97, by notice under section 88, as if the amendment or revocation were itself a notice under section 97.
 (2) The Council must ensure that a current version of each notice that the Council has published under section 97 is—
   (a) available on the Council's website or by other electronic means; and
   (b) available so that members of the public may—
     (i) inspect the notices free of charge; or
     (ii) obtain a copy of a notice for a reasonable fee.
 (3) If a fee is payable to the Council under this Act, the Registrar may, until the fee is paid, decline to do any act, or to permit any act to be done, or to receive any document in respect of which that fee is payable.
+(4)
 
 **Regulations**
 
 ### 101 Regulations
-The Governor-General may, by Order in Council made on the recommendation of the Minister given after consultation by the Minister with the Council, make regulations for 1 or more of the following purposes:
+(1) The Governor-General may, by Order in Council made on the recommendation of the Minister given after consultation by the Minister with the Council, make regulations for 1 or more of the following purposes:
   (a) regulating the procedure of the Council:
   (b) prescribing the manner of holding elections of members to be elected to the Council:
   (c) providing for such matters as are contemplated by or necessary for giving full effect to the provisions of this Act and for its due administration.
+(2) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 **Amendment to Privacy Act 1993**
 
