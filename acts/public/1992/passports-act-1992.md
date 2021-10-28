@@ -1,5 +1,5 @@
 # Passports Act 1992
-_Consolidation as at 2021-10-05_
+_Consolidation as at 2021-10-28_
 
 > An Act to give proper recognition to New Zealand passports and to the right of New Zealand citizens to such passports, and to consolidate and amend the law relating to passports, certificates of identity, emergency travel documents, and refugee travel documents
 
@@ -679,6 +679,7 @@ Nothing in this Act limits access to information that is recorded under this Act
   (e) in the case of an application lodged overseas, the overseas place where the application is lodged:
   (f) the manner in which the application is lodged, for example, whether the application is lodged in paper form or electronically via an Internet site maintained by or on behalf of the Secretary:
   (g) whether the applicant is, or is not, under the age of 16 years.
+(3) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 **Repeals**
 
