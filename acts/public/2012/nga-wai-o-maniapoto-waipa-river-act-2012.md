@@ -1,5 +1,5 @@
 # Nga Wai o Maniapoto (Waipa River) Act 2012
-_Consolidation as at 2021-01-30_
+_Consolidation as at 2021-10-28_
 
 ## Preamble
 Ā muri kia mau ki te kawau mārō. Whanake ake, whanake ake
@@ -211,6 +211,7 @@ Subsequent reviews
   (c) the recommendation complies with section 8(8); and
   (d) the Crown, the Trust, and the other appointers agree in writing or electronically with one another to accept the recommendation.
 (4) An Order in Council made under this section must specify the date on which the amendments to the vision and strategy take effect.
+(5) An Order in Council under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 10 Co-governance entity
 Other enactments applied with enhancements
@@ -512,6 +513,7 @@ The provisions of this Act relating to joint management agreements do not preclu
 (2) Within 24 months of the effective date, the Minister must recommend to the Governor-General the making of regulations under the Fisheries Act 1996 providing for the Trust to manage customary fishing on the Waipa River through the issuing of customary fishing authorisations to fisheries managed under the Fisheries Act 1996.
 (3) Within 24 months of the effective date, the Minister must recommend to the Governor-General the making of regulations under the Fisheries Act 1996 providing for the Trust to recommend to the Minister the making of bylaws restricting or prohibiting fishing on the Waipa River of fisheries managed under the Fisheries Act 1996.
 (4) The Minister must make any bylaws recommended under subsection (3), unless the Minister is satisfied that the proposed bylaws would have an undue adverse effect on fishing.
+(4A) Regulations under subsection (1) are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 (5) In this section,—
   - **Minister** means the Minister of Fisheries and Aquaculture
   - **Upper Waipa River** includes the waters that flow into and form part of the Waipa River as they are described in section 3(2)﻿(a)
