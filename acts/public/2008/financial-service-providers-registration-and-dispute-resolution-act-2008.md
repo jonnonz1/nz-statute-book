@@ -1,5 +1,5 @@
 # Financial Service Providers (Registration and Dispute Resolution) Act 2008
-_Consolidation as at 2021-10-05_
+_Consolidation as at 2021-10-28_
 
 ### 1 Title
 This Act is the Financial Service Providers (Registration and Dispute Resolution) Act 2008.
@@ -9,6 +9,7 @@ This Act is the Financial Service Providers (Registration and Dispute Resolution
   (a) bring different provisions into force on different dates:
   (b) bring provisions into force on different dates in respect of different types of financial service or financial service provider.
 (2) The rest of this Act comes into force on the day after the date on which it receives the Royal assent.
+(3) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ## Part 1 — Preliminary provisions
 
@@ -756,6 +757,10 @@ Unless the High Court orders otherwise, a decision or direction appealed against
   (a) prescribe the method of payment of a fee; and
   (b) authorise the Registrar to refund or waive, in whole or in part and on any prescribed conditions, payment of a fee in relation to any person or class of persons.
 (5) Any fee or amount payable to the Registrar is recoverable by the Registrar in any court of competent jurisdiction as a debt due to the Registrar.
+(6) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+(7) If the regulations authorise the Registrar under subsection (4)﻿(b) to grant refunds or waivers in respect of a class of persons,—
+  (a) the instrument granting the refund or waiver is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements); and
+  (b) the regulations must contain a statement to that effect.
 
 ### 44A Who financial adviser is treated as engaged by when engaged indirectly
 (1) For the purposes of this Act, if a person (A) is engaged to give financial advice by a person (B) indirectly through an interposed person (C) (as described in section 431E(b) of the Financial Markets Conduct Act 2013), A must be treated as engaged by—
@@ -1167,6 +1172,10 @@ The person responsible for an approved dispute resolution scheme must make copie
   (a) prescribe the method of payment of a fee; and
   (b) authorise the Minister to refund or waive, in whole or in part and on any prescribed conditions, payment of a fee in relation to any person or class of persons.
 (4) Any fee or amount payable under this Part is recoverable in any court of competent jurisdiction as a debt due to the Crown.
+(5) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+(6) If the regulations authorise the Minister under subsection (3)﻿(b) to grant refunds or waivers in respect of a class of persons,—
+  (a) the instrument granting the refund or waiver is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements); and
+  (b) the regulations must contain a statement to that effect.
 
 ### 79AA Appointment of interim dispute resolution scheme
 (1) The Governor-General may, by Order in Council made on the recommendation of the Minister,—
@@ -1174,6 +1183,7 @@ The person responsible for an approved dispute resolution scheme must make copie
   (b) revoke an appointment made under paragraph (a).
 (2) The Minister may recommend an Order in Council for the purpose described in subsection (1)﻿(a) only after complying with section 79(1B).
 (3) The Minister may recommend an Order in Council for the purpose described in subsection (1)﻿(b) if the Minister is satisfied that the scheme is no longer required.
+(4) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 **Pecuniary and compensatory orders for contravening wholesale certification requirement**
 
@@ -1227,6 +1237,7 @@ The enactment specified in Schedule 1 is amended in the manner indicated in that
   (b) this Act applies to A on that commencement.
 (2) A is not required to be registered under this Act, or to be a member of an approved dispute resolution scheme, if A would not have been so required before the commencement of section 7A.
 (3) This clause ceases to apply at the close of a date appointed by the Governor-General by an Order in Council (which must be a date at least 6 months after the date on which section 7A comes into force).
+(4) An order under this clause is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 3 Person may apply for registration for financial advice service before commencement
 (1) A person may—
