@@ -1,5 +1,5 @@
 # Waitangi Endowment Act 1932–33
-_Consolidation as at 1996-05-31_
+_Consolidation as at 2021-10-28_
 
 > An Act to enable the Crown to carry out the trusts accepted by the Crown in respect of certain lands at Waitangi
 
@@ -31,7 +31,8 @@ Any question arising as to the amount of any revenue arising from the said lands
 There shall be exercisable in respect of the said lands the same powers of sale as are conferred by section 300 of the Land Act 1924 in respect of national endowment land, and for the purpose of adjustment of boundaries with any adjoining landowner the same powers of exchange as are conferred by section 301 of the last-named Act:provided always that no such powers of sale or exchange shall be exercised until after notification to and consultation with the Waitangi National Trust Board:provided further that any money received or paid on the exercise of any such powers shall be credited to or disbursed from the revenue of the said lands:provided also that nothing herein contained shall be deemed to confer on the said lands the status of national endowment land under the last-named Act.
 
 ### 8 Powers to subject other lands to this Act
-The Governor-General may from time to time, by Order in Council, direct that any lands which are vested in the Crown or of which the Crown may enjoy the right of disposal and which adjoin or are adjacent to the lands described in the Schedule shall be subject to this Act, and thereupon the provisions of this Act shall apply to such lands in all respects as if they were part of the lands described in the said schedule.
+(1) The Governor-General may from time to time, by Order in Council, direct that any lands which are vested in the Crown or of which the Crown may enjoy the right of disposal and which adjoin or are adjacent to the lands described in the Schedule shall be subject to this Act, and thereupon the provisions of this Act shall apply to such lands in all respects as if they were part of the lands described in the said schedule.
+(2) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 9 Control of dogs
 Nothing in this Act derogates from the provisions of Part 5C of the Conservation Act 1987, which provides for the control of dogs and which authorises the declaration as either a controlled dog area or an open dog area of any part or parts of the said lands.
