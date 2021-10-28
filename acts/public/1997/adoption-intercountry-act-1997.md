@@ -1,11 +1,12 @@
 # Adoption (Intercountry) Act 1997
-_Consolidation as at 2017-07-14_
+_Consolidation as at 2021-10-28_
 
 > An Act—ato implement in the law of New Zealand the Convention on Protection of Children and Co-operation in Respect of Intercountry Adoption; andbto provide for the approval of organisations as accredited bodies to whom functions may be delegated under the Convention; andcto make other provision for intercountry adoption and other matters related to adoption
 
 ### 1 Short Title and commencement
 (1) This Act may be cited as the Adoption (Intercountry) Act 1997.
 (2) This Act comes into force on a date to be appointed by the Governor-General by Order in Council.
+(3) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 2 Interpretation
 In this Act, unless the context otherwise requires,—
@@ -162,9 +163,10 @@ Every New Zealand accredited body must, within 10 working days, notify the chief
 ## Part 3 — Miscellaneous provisions
 
 ### 24 Regulations
-The Governor-General may from time to time, by Order in Council, make regulations—
+(1) The Governor-General may from time to time, by Order in Council, make regulations—
   (a) prescribing the extent to which the functions of a Central Authority under Article 9 or Chapter IV of the Convention may be delegated to public authorities or New Zealand accredited bodies:
   (b) providing for such matters as are contemplated by or necessary for giving full effect to this Act and for its due administration.
+(2) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 **Amendments to Adoption Act 1955**
 
