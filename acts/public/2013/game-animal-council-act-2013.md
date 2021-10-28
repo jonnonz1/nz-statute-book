@@ -1,5 +1,5 @@
 # Game Animal Council Act 2013
-_Consolidation as at 2020-12-01_
+_Consolidation as at 2021-10-28_
 
 ### 1 Title
 This Act is the Game Animal Council Act 2013.
@@ -196,7 +196,7 @@ A member of the Council is not personally liable for any act done or omitted to 
 ### Subpart 3 — Herds of special interest
 
 ### 16 Minister may designate herds of special interest
-(1) The Minister may, by notice in the Gazette, designate any species of game animal in a specified area on public conservation land to be a herd of special interest if—
+(1) The Minister may, by notice, designate any species of game animal in a specified area on public conservation land to be a herd of special interest if—
   (a) the Minister considers that—
     (i) the animals are of special interest to hunters; and
     (ii) the animals can be managed for hunting purposes; and
@@ -220,6 +220,7 @@ A member of the Council is not personally liable for any act done or omitted to 
   (c) the date from which the designation takes effect; and
   (d) the reasons why the Minister considers the animals to be of special interest to hunters; and
   (e) the expected benefits to be gained by managing the animals for hunting purposes.
+(4) A notice under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 17 Ownership of herds of special interest
 (1) A game animal that is part of a herd of special interest—
@@ -232,7 +233,7 @@ A member of the Council is not personally liable for any act done or omitted to 
   (a) issue authorisations for hunting, subject to any terms that the Minister thinks fit:
   (b) determine who may receive authorisations, whether by balloting or otherwise:
   (c) cancel or suspend authorisations (for breaches of the terms or conditions of hunting, or otherwise):
-  (d) specify the conditions under which the animals may be hunted, including the periods and times at which they may be hunted:
+  (d) specify, by notice, the conditions under which the animals may be hunted, including the periods and times at which they may be hunted:
   (e) capture, convey, or liberate the animals:
   (f) carry out surveys and other assessments regarding the animals and the means of managing them:
   (g) prepare publications relating to the animals and their management:
@@ -240,9 +241,9 @@ A member of the Council is not personally liable for any act done or omitted to 
   (i) promote standards (including behavioural and industry standards) for game animal hunting and game animal management:
   (j) authorise or carry out operations for managing and controlling the size of the population, including the payment of bounties, grants, or subsidies.
 (2) The Minister must not specify a condition under subsection (1)﻿(d) without first consulting with the Director-General and any persons or representative organisations that the Minister considers appropriate.
-(3) A condition specified under subsection (1)﻿(d)—
-  (a) must be notified in the Gazette; and
-  (b) takes effect 28 days after the date of the notice or on a later date (if any) specified in the notice.
+(3) A notice under subsection (1)﻿(d)—
+  (a) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements); but
+  (b) despite section 26 of that Act, takes effect 28 days after the publication of the notice or on a later date (if any) specified in the notice.
 
 ### 19 Herd management plans
 (1) The Minister must make a herd management plan for any herd of special interest (herd management plan).
@@ -393,6 +394,7 @@ Compliance with codes of practice made by regulations under this Act is a condit
   (a) may impose different rates of levies for different classes of game trophies; and
   (b) may exempt the payment of levies in respect of export to any country or countries; but
   (c) must be consistent with New Zealand’s international obligations.
+(3) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 35 Minister’s recommendation
 Before making a recommendation under section 34, the Minister must—
@@ -430,6 +432,7 @@ Before making a recommendation under section 34, the Minister must—
   (a) minimum standards:
   (b) codes of conduct:
   (c) complaints and disciplinary processes.
+(5) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 37 Fees and levies payable to Council
 If fees or levies are payable to the Council,—
