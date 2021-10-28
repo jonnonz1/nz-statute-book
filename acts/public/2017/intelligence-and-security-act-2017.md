@@ -1,5 +1,5 @@
 # Intelligence and Security Act 2017
-_Consolidation as at 2021-06-29_
+_Consolidation as at 2021-10-28_
 
 ### 1 Title
 This Act is the Intelligence and Security Act 2017.
@@ -558,9 +558,7 @@ Compliance with a request made under section 35, 37, or 42 or a direction given 
   (c) the purposes of the enactment referred to in subsection (1); and
   (d) any other matters the agency thinks relevant.
 (5) An exemption must be granted by notice in writing and may be subject to any terms and conditions specified by the agency.
-(6) An exemption is not—
-  (a) a legislative instrument for the purposes of the Legislation Act 2012; or
-  (b) a disallowable instrument for the purposes of the Legislation Act 2012.
+(6)
 (7) In this section and section 45(2)﻿(g), officer, in relation to an entity, means—
   (a) a director within the meaning of section 6(1) of the Financial Markets Conduct Act 2013; and
   (b) a person who is not a director but who occupies a position that allows the person to exercise significant influence over the management or administration of the entity (for example, a chief executive or a chief financial officer).
@@ -2181,11 +2179,7 @@ A ministerial policy statement—
   (c) the international relations of the Government of New Zealand.
 
 ### 216 Status of ministerial policy statements
-A ministerial policy statement is—
-  (a) not—
-    (i) a legislative instrument for the purposes of the Legislation Act 2012; or
-    (ii) a disallowable instrument for the purposes of the Legislation Act 2012; and
-  (b) not required to be presented to the House of Representatives under section 41 of the Legislation Act 2012.
+[Repealed]
 
 **Security records**
 
