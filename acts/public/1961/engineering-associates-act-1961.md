@@ -1,5 +1,5 @@
 # Engineering Associates Act 1961
-_Consolidation as at 2019-10-24_
+_Consolidation as at 2021-10-28_
 
 > An Act to provide for the registration and control of certain persons associated with or employed in engineering work, and for the encouragement of better qualification in that work
 
@@ -8,14 +8,15 @@ _Consolidation as at 2019-10-24_
 (2) This Act shall come into force on 1 April 1962.
 
 ### 2 Interpretation
-In this Act, unless the context otherwise requires,—
-  - **association** means an association or institute or organisation to which the Minister, by notice published in the Gazette and not in like manner revoked or suspended, has declared that this Act shall apply, being an association or institute or organisation whose rules and objects satisfy the requirements specified in the Schedule
+(1) In this Act, unless the context otherwise requires,—
+  - **association** means an association or institute or organisation to which the Minister, by notice (see subsection (2)) and not in like manner revoked or suspended, has declared that this Act shall apply, being an association or institute or organisation whose rules and objects satisfy the requirements specified in the Schedule
   - **Board** means the Engineering Associates Registration Board constituted under this Act
   - **engineering experience** means full-time employment in any field of engineering, or in any work associated with any field of engineering, whether indoors or out of doors
   - **Investigation Committee** or means the Engineering Associates Investigation Committee constituted under section 8
   - **Minister** means the Minister of Commerce
   - **register** means the register kept by the Registrar under subsection (4) of section 11
   - **Registrar** means the Registrar of the Engineering Associates Registration Board appointed under section 7.
+(2) A notice under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 **Registration Board and Investigation Committee**
 
@@ -221,7 +222,7 @@ The Board may, in any financial year, expend out of its funds for purposes not a
 
 ### 30 Suspension of application of Act to association
 (1) The Minister may at any time, by notice published in the Gazette, suspend the application of this Act to any association if its rules fail to provide to his satisfaction for all suitably qualified persons of good fame and character to be eligible for membership of the association.
-(2) The Minister may at any time in like manner revoke any such notice of suspension, if the rules of the Society are altered to his satisfaction.
+(2) The Minister may at any time in like manner revoke any such notice of suspension, if the rules of the association are altered to his satisfaction.
 
 ### 31 Certificate by Registrar to be evidence of registration, etc
 A certificate under the hand of the Registrar to the effect that any person was or was not registered by the Board under this Act at any time or during any period specified in the certificate, or as to any entry in the register or as to any act or proceeding of the Board, shall, until the contrary is proved, be sufficient evidence of the matters therein specified.
@@ -250,6 +251,7 @@ Every person who commits an offence against this Act for which no penalty is pro
   (h) providing for the constitution of an Appeal Tribunal and regulating the conduct of appeals under section 25:
   (i) providing for the taxation or review by the Board or the Investigation Committee or a District Court Judge of charges made by persons registered under this Act:
   (j) prescribing fines, not exceeding $100, and in the case of a continuing offence a further fine not exceeding $10 for every day during which the offence has continued, for the breach of any regulation made under this section.
+(3) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 (3)
 
 ## Schedule Schedule — Rules and objects of associations
