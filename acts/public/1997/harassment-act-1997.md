@@ -1,5 +1,5 @@
 # Harassment Act 1997
-_Consolidation as at 2020-08-26_
+_Consolidation as at 2021-10-28_
 
 > An Act to provide criminal and civil remedies in respect of harassment
 
@@ -408,11 +408,14 @@ Except where the court making the order appealed from otherwise directs,—
   (g) provide for information about proceedings under this Act to be transferred between courts (whether the District Court, the Family Court, the High Court, the Court of Appeal, or the Supreme Court), including (without limitation) between different courts, or between different divisions of the same court, or between courts exercising civil jurisdiction and courts exercising criminal jurisdiction, or between courts exercising appellate jurisdiction and courts exercising original jurisdiction:
   (h) apply, with or without modification, provisions of the District Court Rules 2014.
 (3) In the absence of any rules under this section or in any situation not covered by any such rules, the District Court Rules 2014 apply, with all necessary modifications, to proceedings under this Act.
+(4) Rules under subsection (1)﻿(b) are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+(5) See section 228 of the District Court Act 2016, which provides that court rules are secondary legislation.
 
 ### 43 Regulations
-The Governor-General may from time to time, by Order in Council, make regulations for all or any of the following purposes:
+(1) The Governor-General may from time to time, by Order in Council, make regulations for all or any of the following purposes:
   (a) prescribing, for the purposes of section 33(3)﻿(d), the manner in which copies of orders may be made available:
   (b) providing for such matters as are contemplated by or necessary for giving full effect to the provisions of this Act and for its due administration.
+(2) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 **Amendments to other enactments**
 
