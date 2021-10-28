@@ -1,5 +1,5 @@
 # Property (Relationships) Act 1976
-_Consolidation as at 2019-07-01_
+_Consolidation as at 2021-10-28_
 
 > Title
 
@@ -253,7 +253,7 @@ For the purposes of this Act,—
 For the purposes of this Act, a person is another person's de facto partner if they have a de facto relationship with each other.
 
 ### 2D Meaning of de facto relationship
-(1) For the purposes of this Act, a de facto relationship is a relationship between 2 persons (whether a man and a woman, or a man and a man, or a woman and a woman)—
+(1) For the purposes of this Act, a de facto relationship is a relationship between 2 persons (regardless of their sex, sexual orientation, or gender identity)—
   (a) who are both aged 18 years or older; and
   (b) who live together as a couple; and
   (c) who are not married to, or in a civil union with, one another.
@@ -765,6 +765,7 @@ Nothing in sections 20 to 20E derogates from the provisions of the Joint Family 
 (1) The purpose of this section is to minimise the legal expenses of people who wish to enter into an agreement under section 21 or section 21A or section 21B.
 (2) The Governor-General may, by Order in Council, make regulations prescribing model forms of agreement for the purposes of section 21 or section 21A or section 21B.
 (3) Use of a prescribed model form of agreement is optional.
+(4) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 **Procedural requirements**
 
@@ -1314,10 +1315,15 @@ Notwithstanding any enactment or rule of law, a minor who is or has been married
 (3) In addition to all other powers conferred by the District Court Act 2016, the Governor-General may from time to time, by Order in Council, make rules regulating the procedure of the District Court in proceedings under this Act, and providing for such other matters as are contemplated by or necessary for giving full effect to the provisions of this Act and its due administration.
 (3A) Without limiting the generality of the powers conferred by subsections (1) and (3) or section 16A of the Family Court Act 1980, rules made under any of those provisions may require any party to proceedings under this Act to supply to the other party to the proceedings particulars of the nature and value of the property of the first-mentioned party that could be the subject of any order in those proceedings.
 (4) In the absence of any rules under this section, or in any situation not covered by those rules, the rules in relation to civil proceedings for the time being in force under the Senior Courts Act 2016 apply with all necessary modifications to proceedings under this Act that are brought or dealt with in the High Court.
+(5) The following are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements):
+  (a) regulations under subsection (2A):
+  (b) rules under subsection (3).
+(6) See section 148 of the Senior Courts Act 2016, section 228 of the District Court Act 2016, and section 16A of the Family Court Act 1980, which provide that court rules are secondary legislation.
 
 ### 53A Power to prescribe specified sum
 (1) The Governor-General may from time to time, by Order in Council, prescribe the amount that is the specified sum for the purposes of section 20B.
 (2) Until a different amount is prescribed under this section, the specified sum is $103,000.
+(3) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 54 Exemption from stamp duty
 [Repealed]
