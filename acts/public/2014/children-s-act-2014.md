@@ -1,5 +1,5 @@
 # Children’s Act 2014
-_Consolidation as at 2020-08-07_
+_Consolidation as at 2021-10-28_
 
 ### 1 Title
 This Act is the Children’s Act 2014.
@@ -8,6 +8,7 @@ This Act is the Children’s Act 2014.
 (1) This Act comes into force on the day after the date on which it receives the Royal assent, except as provided in subsections (2) and (3).
 (2) Section 18 and Part 3 come into force on a date or dates to be appointed by the Governor-General by Order in Council, and 1 or more Orders in Council may be made appointing different dates for different provisions.
 (3) Any provision not brought into force earlier comes into force 2 years after the date on which this Act receives the Royal assent.
+(4) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 2A Transitional, savings, and related provisions
 The transitional, savings, and related provisions set out in Schedule 1AA have effect according to their terms.
@@ -66,6 +67,7 @@ The duties of the responsible Minister set out in sections 6D(1)﻿(d) and 7C(2)
   - **UNCROC** means the United Nations Convention on the Rights of the Child (a copy of the English text of which is set out in Schedule 2 of the Children’s Commissioner Act 2003)
   - **UNCRPD** means the United Nations Convention on the Rights of Persons with Disabilities.
 (2) The Governor-General may, by Order in Council, prescribe any other Act or Acts for the purposes of paragraph (g) of the definition of children’s agencies in subsection (1).
+(3) An order under subsection (2) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 **Strategy for improving children’s well-being**
 
@@ -109,7 +111,7 @@ Before adopting a strategy, or changing a strategy adopted, under section 6, the
   (a) be notified in the Gazette; and
   (b) be published on, and available at all reasonable times from, an Internet site maintained by or on behalf of the children’s agencies.
 (2) The Gazette notice required by subsection (1)﻿(a) need not contain or set out the strategy or changes, but must specify details of the Internet site referred to in subsection (1)﻿(b).
-(3) An instrument recording, or a notice notifying, a strategy, or changes to a strategy, adopted under section 6, is neither a legislative instrument nor a disallowable instrument for the purposes of the Legislation Act 2012, and does not have to be presented to the House of Representatives under section 41 of that Act.
+(3)
 
 ### 7 Content of strategy
 (1) The strategy must include outcomes sought—
@@ -170,7 +172,7 @@ The purpose of the oranga tamariki action plan is to indicate how the chief exec
   (b) be published on, and available at all reasonable times from, an Internet site maintained by or on behalf of the children’s agencies.
 (2) The Gazette notice required by subsection (1)﻿(a) need not contain or set out the oranga tamariki action plan, but must specify details of the Internet site referred to in subsection (1)﻿(b).
 (3) The oranga tamariki action plan may be published under subsection (1)﻿(b) with, or without, any related reports accompanying the draft plan submitted for approval under section 8(1)﻿(b).
-(4) An instrument recording, or a notice notifying, an oranga tamariki action plan, or changes to one, approved under section 8, is neither a legislative instrument nor a disallowable instrument for the purposes of the Legislation Act 2012, and does not have to be presented to the House of Representatives under section 41 of that Act.
+(4)
 
 ### 9 Content of plan
 (1) The oranga tamariki action plan (and any draft of it)—
@@ -277,6 +279,7 @@ The purpose of this Part is to require child protection policies (that must cont
 (4) The Governor-General may, by Order in Council, prescribe, for the purposes of paragraph (h) of the definition of prescribed State service in subsection (1), other instruments of the Crown in respect of the Government of New Zealand (whether departments, corporations, agencies, or other instruments), being instruments of that kind that are neither—
   (a) DHBs; nor
   (b) school boards.
+(5) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 16 Prescribed State services to adopt, report on, and require child protection policies
 The chief executive of a prescribed State service must ensure that the service,—
@@ -318,13 +321,11 @@ Every child protection policy required by this Part must—
   (b) be written, and contain provisions (whether or not it contains provisions on any other matter or matters) on the identification and reporting of child abuse and neglect in accordance with section 15 of the Oranga Tamariki Act 1989.
 
 ### 20 Effect of child protection policy
-A child protection policy—
-  (a) does not—
-    (i) create legal rules; or
-    (ii) create any legal right enforceable in a court of law; or
-    (iii) affect or limit the way in which a chief executive or other person is required to exercise a statutory power of decision; or
-    (iv) affect the interpretation of any enactment or the operation of a rule of law; and
-  (b) is neither a legislative instrument nor a disallowable instrument for the purposes of the Legislation Act 2012, and does not have to be presented to the House of Representatives under section 41 of that Act.
+A child protection policy does not—
+  (a) create legal rules; or
+  (b) create any legal right enforceable in a court of law; or
+  (c) affect or limit the way in which a chief executive or other person is required to exercise a statutory power of decision; or
+  (d) affect the interpretation of any enactment or the operation of a rule of law.
 
 ## Part 3 — Children's worker safety checking
 
@@ -468,6 +469,7 @@ It is a defence to a charge for an offence against sections 25 to 28 that all th
 (2) Regulations made under this section may provide that different requirements relating to safety checking do, or do not, apply to or in respect of different—
   (a) classes of children's worker; and
   (b) specified organisations or classes of specified organisation.
+(3) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 33 Other regulations
 (1) The Governor-General may, by Order in Council, make regulations for any of the following purposes:
@@ -483,6 +485,7 @@ It is a defence to a charge for an offence against sections 25 to 28 that all th
 (2) Regulations may be made under subsection (1)﻿(a)﻿(i) only in accordance with a recommendation by the Minister that he or she is satisfied that the service proposed to be added to Schedule 1 employs or engages, or is likely to employ or engage, children's workers and that the requirements of this Part relating to the checking of children's workers should apply.
 (3) Regulations may be made under subsection (1)﻿(a)﻿(ii) only in accordance with a recommendation by the Minister that he or she is satisfied that omitting the regulated service from Schedule 1 will not result in undue risk to the safety of children.
 (4) Regulations may be made under subsection (1)﻿(c) only in accordance with a recommendation by the Minister that he or she is satisfied that providing that individuals or organisations, or classes of individuals or organisations, identified in the regulations are not specified organisations will not result in undue risk to the safety of children.
+(5) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 34 Transitional provision relating to local authorities, etc
 (1) In this section,—
