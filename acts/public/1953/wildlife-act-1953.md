@@ -1,5 +1,5 @@
 # Wildlife Act 1953
-_Consolidation as at 2020-08-07_
+_Consolidation as at 2021-10-28_
 
 > An Act to consolidate and amend the law relating to the protection and control of wild animals and birds, the regulation of game shooting seasons, and the constitution and powers of acclimatisation societies
 
@@ -83,7 +83,7 @@ _Consolidation as at 2020-08-07_
   - **New Zealand Fish and Game Council** means the New Zealand Fish and Game Council established by section 26B of the Conservation Act 1987
   - **New Zealand fisheries waters** has the same meaning as in section 2(1) of the Fisheries Act 1996
   - **New Zealand Game Bird Habitat Trust Board** or means the New Zealand Game Bird Habitat Trust Board established by section 44B
-  - **notification** means a notice published in the Gazette
+  - **notification** means a notice under this Act that is secondary legislation
   - **occupier** means,—
     (a) in relation to any land, other than unoccupied land of the Crown, the person by whom or on whose behalf the land is actually occupied, if that person is in occupation by virtue of the fact that he is the owner or one of the owners of the fee simple of the land or of a lease or licence of the land:
     (b) in relation to unoccupied land of the Crown, the Minister for the time being charged with the administration of the department of State that has the control of the land
@@ -101,7 +101,8 @@ _Consolidation as at 2020-08-07_
   - **wildlife management reserve** means a wildlife management reserve declared under section 14A; and includes any reserve under the Reserves Act 1977 classified as a Government purpose reserve for a wildlife management reserve
   - **wildlife refuge** means a wildlife refuge declared under section 14; and includes any reserve under the Reserves Act 1977 classified as a Government purpose reserve for a wildlife refuge
   - **wildlife sanctuary** or means a wildlife sanctuary declared under section 9; and includes any reserve under the Reserves Act 1977 classified as a Government purpose reserve for a wildlife sanctuary.
-(1A) The Minister, after having regard to any relevant international standards and any relevant standards applying within New Zealand, may from time to time, by notice in the Gazette, declare any species of marine wildlife to be a threatened species for the purposes of this Act.
+(1A) The Minister, after having regard to any relevant international standards and any relevant standards applying within New Zealand, may from time to time, by notice, declare any species of marine wildlife to be a threatened species for the purposes of this Act.
+(2) A declaration under subsection (1A) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 (2)
 
 ### 2A Meaning of possession
@@ -129,26 +130,29 @@ The wildlife for the time being specified in Schedule 1 is hereby declared to be
   provided that nothing in this subsection shall authorise the hunting or killing of any wildlife in a wildlife sanctuary or wildlife refuge except pursuant to an authority granted under section 11 or section 14 or section 54.
 
 ### 6 Certain wildlife may be hunted subject to conditions imposed by the Minister
-(1) The Minister may from time to time in his discretion, by notification, declare that any wildlife for the time being specified in Schedule 3 may be hunted or killed or had in possession subject to such conditions as he prescribes, and any such wildlife may be hunted or killed or had in possession accordingly.
+(1) The Minister may from time to time in his discretion, by notice, declare that any wildlife for the time being specified in Schedule 3 may be hunted or killed or had in possession subject to such conditions as he prescribes, and any such wildlife may be hunted or killed or had in possession accordingly.
 (2) Without limiting the general power to prescribe conditions conferred by subsection (1), the Minister may prescribe under that subsection any of the following conditions:
   (a) prescribing the persons or classes of persons who may hunt or kill or be in possession of any such wildlife:
   (b) restricting the numbers of any such wildlife that may be hunted or killed or had in possession by any one person in any one day:
   (c) prescribing the parts of New Zealand in which any such wildlife may be hunted or killed or had in possession:
   (d) prescribing the times of day or the periods of the year during which any such wildlife may be hunted or killed or had in possession:
   (e) prescribing the methods by which any such wildlife may be hunted or killed, or prohibiting the use of any specified method.
-(3) Every person who hunts, kills, or has in his or her possession any wildlife to which any notification under subsection (1) refers, otherwise than in accordance with any conditions prescribed by the Minister under this section, commits an offence against this Act and is liable on conviction to the penalty set out in section 67F(3).
+(3) Every person who hunts, kills, or has in his or her possession any wildlife to which any notice under subsection (1) refers, otherwise than in accordance with any conditions prescribed by the Minister under this section, commits an offence against this Act and is liable on conviction to the penalty set out in section 67F(3).
+(4) A notice under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 7 Certain wildlife not protected
 (1) The wildlife for the time being specified in Schedule 4 is hereby declared to be unprotected throughout New Zealand, except where that schedule otherwise provides:
-  provided that, where the Minister considers that hunting by other persons is likely to interfere with studies and investigations of or campaigns against the wildlife specified in that schedule carried out by the Department, he may from time to time in his discretion, by notification, declare that any wildlife for the time being specified in that schedule may not be hunted or killed or had in possession in such area and during such period as are specified in the notification.
+  provided that, where the Minister considers that hunting by other persons is likely to interfere with studies and investigations of or campaigns against the wildlife specified in that schedule carried out by the Department, he may from time to time in his discretion, by notice, declare that any wildlife for the time being specified in that schedule may not be hunted or killed or had in possession in such area and during such period as are specified in the notification.
 (2) Every person who in any area and during any period specified in any notification under subsection (1) hunts, kills, or has in his or her possession any wildlife to which the notification refers, commits an offence against this Act and is liable on conviction to the penalty set out in section 67F(3).
 (3) The wildlife for the time being specified in Schedule 5 is hereby declared to be unprotected throughout New Zealand, except where that schedule otherwise provides.
+(4) A notice under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 7A Wild animals
 (1) Animals of any of the species for the time being specified in Schedule 6 are hereby declared to be wild animals, and shall be subject to the Wild Animal Control Act 1977.
 (2) The Governor-General may from time to time, by Order in Council,—
   (a) amend Schedule 6 by including a reference to any other species of animal, or by omitting the reference to any species of animal for the time being included therein:
   (b) amend any other schedule of this Act by omitting the reference to any species of animal included in Schedule 6 under paragraph (a), or by including the reference to any species of animal excluded from Schedule 6 under that paragraph.
+(3) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 7B Terrestrial and freshwater invertebrates
 (1) The terrestrial and freshwater invertebrates specified in Schedule 7 are hereby declared to be animals.
@@ -156,6 +160,7 @@ The wildlife for the time being specified in Schedule 1 is hereby declared to be
   (a) include, in Schedule 7, any terrestrial or freshwater invertebrate not for the time being specified in that schedule:
   (b) omit, from Schedule 7, any terrestrial or freshwater invertebrate for the time being specified in that schedule.
 (3) Any such Order in Council may be expressed to operate throughout New Zealand or in such part or parts of New Zealand and for such period or periods as may be specified.
+(4) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 7BA Marine species
 (1) The marine species listed in Schedule 7A are hereby declared to be animals.
@@ -163,6 +168,7 @@ The wildlife for the time being specified in Schedule 1 is hereby declared to be
   (a) include, in Schedule 7A, the name of any marine species not for the time being listed in that schedule:
   (b) omit, from Schedule 7A, the name of any marine species for the time being listed in that schedule.
 (3) Any such Order in Council may be expressed to operate throughout New Zealand or New Zealand fisheries waters or such parts thereof, and for such period or periods, as may be specified.
+(4) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 7C Farming certain unprotected animals
 (1) No person shall farm, breed, or sell, or capture or convey or keep in captivity for the purposes of farming, breeding, or selling, any wildlife specified in Schedule 8 unless any such activity is authorised by the Minister pursuant to section 41 or by regulations made under this Act.
@@ -176,6 +182,7 @@ The wildlife for the time being specified in Schedule 1 is hereby declared to be
   (d) any species of animal to cease to be wildlife for the purposes of this Act.
 (2) Any Order in Council made under the authority of subsection (1) may be expressed to operate throughout New Zealand or in such part or parts of New Zealand and for such period or periods as may be specified in the Order in Council.
 (3) Every Order in Council made under the authority of subsection (1) shall have effect according to its tenor, and in particular may provide in the case of any wildlife declared to be game under that subsection for vesting in the Department the control of that game in any area that does not form part of an area under the jurisdiction of a Fish and Game Council, for the issue of game licences to hunt or kill any such wildlife, and for payment to a Crown Bank Account of any fees in respect of those game licences.
+(4) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 **Wildlife sanctuaries**
 
@@ -207,6 +214,10 @@ The wildlife for the time being specified in Schedule 1 is hereby declared to be
 (3) Any prohibition or restriction imposed by an Order in Council under this section may be absolute or conditional, and the Order may authorise the Minister or the Director-General to grant exemptions from any such prohibition or restriction.
 (4) Every person who does any act that is for the time being prohibited by an Order in Council issued under this section or fails to comply in any respect with any condition imposed in any such Order commits an offence against this Act and is liable on conviction to the penalty set out in section 67F(7).
 (5) Every person having any estate or interest in any land included without his consent in any wildlife sanctuary which is injuriously affected or damaged or reduced in value by its inclusion in the sanctuary shall be entitled to full compensation for the same from the Minister. All such claims for compensation shall, unless settled by agreement, be determined within the time and in the manner provided by the Public Works Act 1928, as in the case of land injuriously affected by a public work, and, subject to this section, the provisions of that Act relating to compensation shall, as far as they are applicable and with the necessary modifications, apply accordingly.
+(6) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+(7) If an order authorises under subsection (3) the granting of exemptions,—
+  (a) the instrument granting an exemption is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements) unless it applies only to 1 or more named persons, animals, vehicles, or aircraft; and
+  (b) the order must contain a statement to that effect.
 
 ### 10 All wildlife in sanctuaries absolutely protected
 Subject to any provision to the contrary in any Order in Council under section 9, and to section 11, all wildlife in any wildlife sanctuary shall while within the sanctuary be deemed to be absolutely protected, notwithstanding that the wildlife or any species thereof is elsewhere partially protected or is game or is unprotected under this Act.
@@ -251,6 +262,12 @@ Any officer of the Department, or any officer of any other department in which f
 (3A) Every person who contravenes subsection (3) commits an offence against this Act and is liable on conviction to the penalty set out in section 67F(5).
 (4) Notwithstanding anything in this Act or in any regulations under this Act, the performance in any wildlife refuge by any person of any act authorised by the Minister under subsection (2) shall not be deemed a breach of this Act.
 (5) Every sanctuary constituted at the commencement of this Act by a warrant under section 6 of the Animals Protection and Game Act 1921–22 shall be deemed to be a wildlife refuge for the purposes of this Act.
+(6) The following are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements):
+  (a) a Proclamation under subsection (1) that includes a prohibition or restriction described in subsection (1A):
+  (b) a Proclamation under subsection (1A).
+(7) If a Proclamation authorises under subsection (1B) the granting of exemptions,—
+  (a) the instrument granting an exemption is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements), unless it applies only to 1 or more named boats or persons; and
+  (b) the Proclamation must contain a statement to that effect.
 
 **Wildlife management reserves**
 
@@ -266,6 +283,10 @@ Any officer of the Department, or any officer of any other department in which f
 (2) Without limiting the general power to prescribe conditions conferred by subsection (1), the Governor-General may from time to time, by Proclamation, impose conditions with respect to any wildlife management reserve in relation to all or any of the matters specified in section 9(2) as if the reference to a wildlife sanctuary in that section were a reference to a wildlife management reserve.
 (3) Any prohibition or restriction imposed by a Proclamation under this section may be absolute or conditional, and the Proclamation may authorise the Minister or the Director-General to grant exemptions from any such prohibition or restriction.
 (4) Every person commits an offence against this Act and is liable on conviction to the penalty set out in section 67F(5) who does any act that is prohibited by a Proclamation issued under this section, or fails to comply in any respect with any condition imposed in any such Proclamation.
+(5) A Proclamation under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+(6) If a Proclamation authorises under subsection (3) the granting of exemptions,—
+  (a) the instrument granting an exemption is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements), unless it applies only to 1 or more named persons; and
+  (b) the Proclamation must contain a statement to that effect.
 
 ### 14AA Granting of concessions in wildlife sanctuaries, wildlife refuges, and wildlife management reserves
 (1) The Minister may, in accordance with Part 3B of the Conservation Act 1987, grant a concession in respect of any wildlife sanctuary, wildlife refuge, or wildlife management reserve held or managed by the Minister; and the said Part 3B shall apply as if references in that Part to a conservation area were references to a sanctuary, refuge, or reserve under this Act and with any other necessary modifications.
@@ -358,16 +379,20 @@ In determining the maximum allowable level of fishing-related mortality for thre
 ## Part 2 — Game
 
 ### 15 Open season for game
-(1) Every Fish and Game Council shall, through the New Zealand Fish and Game Council, recommend for approval by the Minister a draft set of conditions it considers should be included in the notification of an open season for game for its region under subsection (4).
+(1) Every Fish and Game Council shall, through the New Zealand Fish and Game Council, recommend for approval by the Minister a draft set of conditions it considers should be included in the notice of an open season for game for its region under subsection (4).
 (2) The New Zealand Fish and Game Council shall, if satisfied as to the form of the notice, submit it for the Minister's approval.
 (3) The Minister may—
   (a) approve the Council's draft notice; or
   (b) require the Council to amend the draft notice in such manner as the Minister may specify.
-(4) As soon as practicable after the draft notice is approved by the Minister, the New Zealand Fish and Game Council shall publish that notice in the Gazette.
+(4) As soon as practicable after the draft notice is approved by the Minister, the New Zealand Fish and Game Council must arrange for it to be published under the Legislation Act 2019.
 (5) At any time during an open game season declared under subsection (4), the notice published in respect of that season may in like manner—
   (a) be amended; or
   (b) be revoked and be replaced by a new notice.
 (6) Every person who hunts or kills any game during a close season commits an offence against this Act and is liable on conviction to the penalty set out in section 67E(3).
+(7) A notice under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+(8) The Legislation Act 2019 applies as if—
+  (a) the Minister were the maker of the notice; and
+  (b) the notice were made by the Minister approving it.
 
 ### 16 Notification as to conditions on which open season declared
 (1) Every notification of an open season for game, shall specify—
@@ -392,7 +417,8 @@ In determining the maximum allowable level of fishing-related mortality for thre
   - **waters** includes any river, stream, lake, lagoon, pond, estuary, swamp, or other waters, whether natural or wholly or partly of artificial formation.
 (2) Every person who, without the consent of the Minister, hunts or kills waterfowl in any designated area where, during an open season for game or within the period of 30 days immediately preceding the open season, any food has been cast, thrown, placed, or planted commits an offence against this Act and is liable on conviction to the penalty set out in section 67E(3).
 (3) Every person who hunts or kills waterfowl in a designated area within which the waters were artificially formed during an open season for game or within the period of 30 days immediately preceding that open season commits an offence against this Act and is liable on conviction to the penalty set out in section 67E(3).
-(4) Every consent of the Minister under subsection (2) shall be given by notice in the Gazette, and may be given on the annual application of a Fish and Game Council or, where the control of the area concerned is vested in the Department of Conservation, on the application of the Director-General. Every notice may contain such conditions as the Minister may impose, including the manner in which waterfowl may be hunted or killed, and may be restricted in effect to 1 or more designated areas. Every notice may at any time, by further notice in the Gazette, be amended or revoked by the Minister.
+(4) Every consent of the Minister under subsection (2) shall be given by notice, and may be given on the annual application of a Fish and Game Council or, where the control of the area concerned is vested in the Department of Conservation, on the application of the Director-General. Every notice may contain such conditions as the Minister may impose, including the manner in which waterfowl may be hunted or killed, and may be restricted in effect to 1 or more designated areas. Every notice may at any time, by further notice, be amended or revoked by the Minister.
+(4A) A notice under subsection (4) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 (5) Where any Fish and Game Council has reason to believe that any food has been cast, thrown, placed, or planted, or any waters have been artificially formed, in any designated area within the period of 30 days immediately preceding an open season for game, the Fish and Game Council, with the consent of the occupier of the land on which that designated area is situated, may erect or affix a notice in, or in the near vicinity of, that designated area to the effect that food has been so cast, thrown, placed, or planted, or that the waters have been artificially formed, and there shall be displayed on the notice the date of its erection or affixing. If the occupier does not consent to the erection or affixing of a notice, the Fish and Game Council may serve written notice upon him requiring him to inform all persons entering on his land for the purpose of hunting or killing game that food has been cast, thrown, placed, or planted, or that the waters have been artificially formed, in the designated area on his land.
 (6) Every person commits an offence against this Act and is liable to the penalty set out in section 67E(3) who, during any open season, hunts or kills waterfowl in any designated area—
   (a) in which, or in the near vicinity of which, there is a notice under subsection (5) erected or affixed during that open season or within the period of 30 days immediately preceding that open season; or
@@ -402,7 +428,7 @@ In determining the maximum allowable level of fishing-related mortality for thre
 (8) Every occupier of land commits an offence against this Act and is liable to the penalty set out in section 67E(1) who, having been served with a written notice under subsection (5), fails to comply with the terms of that notice.
 
 ### 18 Restrictions on the taking of game
-(1) Save as otherwise expressly provided in this Act or except in such circumstances and at such times, areas, and places and subject to such conditions as may from time to time be authorised pursuant to a notification given by the Minister, no person shall—
+(1) Save as otherwise expressly provided in this Act or except in such circumstances and at such times, areas, and places and subject to such conditions as may from time to time be authorised pursuant to a notice given by the Minister, no person shall—
   (a) trap game in any manner whatever or take any game by means of traps or by any means other than by shooting with a shotgun:provided that a dog may be used in conjunction with a shotgun for the purpose of finding, flushing, or retrieving any game:
   (b) erect or set any trap, net, snare, or other device for the purpose of taking any game:
   (c) hunt or kill any game with—
@@ -430,6 +456,7 @@ In determining the maximum allowable level of fishing-related mortality for thre
   - **decoy** includes any dead game that is so placed or arranged as to simulate the appearance of live game
   - **row boat** means any vessel that for the time being is wholly propelled by oars or paddles or poles
   - **vessel** includes any launch, boat, canoe, punt, or other similar craft, whether propelled by mechanical power or not.
+(3) A notice under subsection (1) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 19 Licence to hunt or kill game
 (1) Except as provided in subsection (3), every person who hunts or kills game of any species during an open season in any area, unless that person is the holder of a game licence under this Act to hunt or kill game of that species available in that area during that season, commits an offence against this Act and is liable on conviction to the penalty set out in section 67E(3).
@@ -541,6 +568,9 @@ In determining the maximum allowable level of fishing-related mortality for thre
   (c) where a part of the wildlife district also forms part of an area under the jurisdiction of a Fish and Game Council, the vesting in the Department of the control of game in such part of the wildlife district as does not form part of that area:
   (d) the prohibition in the wildlife district of the hunting, killing, taking, or disturbing in any manner whatever of wildlife other than game by any person without the express written consent of the Director-General.
 (3) Where the control of game in any part of a wildlife district is vested in the Department under this section, the provisions of this Act relating to game shall apply with respect to game in that part of the district as if that part were an area under the jurisdiction of a Fish and Game Council; and for that purpose the Director-General shall in that part have all the powers of a Fish and Game Council under this Act.
+(4) The following are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements):
+  (a) a Proclamation under subsection (1):
+  (b) a revocation or variation of a Proclamation under subsection (1).
 
 **Rangers**
 
@@ -1410,13 +1440,19 @@ Except where this Act otherwise provides, nothing in this Act shall derogate fro
     (ii) in the case of a continuing offence, a further fine not exceeding $1,000 for every day on which the offence has continued.
 (2B) Without limiting the power to make regulations under subsections (1), (2), and (2A), the Governor-General may from time to time, by Order in Council, make regulations prescribing the scope and effect of licences to farm, breed, or sell, or capture or dispose of or convey or keep in captivity for the purposes of farming, breeding, or selling, any wildlife specified in Schedule 8, and any fees to be paid therefor, and providing for the issue of those licences and for the disposal of any fees for those licences.
 (3) Regulations made under this section may apply generally throughout New Zealand or within any specified district or in any specified part or parts thereof.
-(3A) Notwithstanding anything in section 72(1) or (2), the Minister may by notice in the Gazette,—
+(3A) Notwithstanding anything in section 72(1) or (2), the Minister may by notice,—
   (a) fix the forms (including electronic forms) and classes of game licences:
   (b) fix the scope and effect of game licences or of any specified class of game licences:
   (c) provide for the game licences issued in respect of any district to be available in any other district or districts or in all districts:
   (d) fix the fees payable for any game licence:
   (e) fix the fees payable in respect of game bird habitat stamps, the basis on which such fees are payable, and the persons or bodies to whom such fees are payable.
-(3B) A notice in the Gazette made under subsection (3A) is a legislative instrument and a disallowable instrument for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
+(3B)
+(4) The following are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements):
+  (a) regulations under this section:
+  (b) a notice under subsection (3A).
+(5) If regulations under subsection (2)﻿(u) authorise the Director-General to grant consents,—
+  (a) a consent under the regulations is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements), unless it applies only to 1 or more named persons; and
+  (b) the regulations must contain a statement to that effect.
 (4)
 (5)
 
