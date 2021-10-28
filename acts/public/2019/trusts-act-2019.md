@@ -1,5 +1,5 @@
 # Trusts Act 2019
-_Consolidation as at 2020-08-01_
+_Consolidation as at 2021-10-28_
 
 ### 1 Title
 This Act is the Trusts Act 2019.
@@ -1407,6 +1407,7 @@ At any time after an application for an investigation is made and before the end
     (iii) specified provisions repealed or amended or revoked by this Act continue to apply:
   (c) providing for any other matters necessary for facilitating or ensuring an orderly transition from the provisions of any enactments replaced by this Act to the provisions of this Act.
 (2) No regulations under this section may be made, or continue in force, later than 3 years after the date of commencement of this section.
+(3) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 **Consequential amendments and repeals**
 
