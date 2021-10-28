@@ -1,5 +1,5 @@
 # Commonwealth Countries Act 1977
-_Consolidation as at 2017-03-01_
+_Consolidation as at 2021-10-28_
 
 > An Act to enable the membership of the Commonwealth to be more easily ascertained, to provide for the continued operation of New Zealand law with respect to certain Commonwealth countries, and to provide for the continued operation of New Zealand law with respect to the Republic of Ireland as if it were a Commonwealth country
 
@@ -22,9 +22,12 @@ This Act may be cited as the Commonwealth Countries Act 1977.
   - **proceeding** means—
     (a) a proceeding conducted by a court; and
     (b) any interlocutory or other application to a court connected with a proceeding.
+(6) An order under subsection (2)—
+  (a) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements); but
+  (b) commences in accordance with subsection (3), even if it is not yet published.
 
 ### 3 Operation of New Zealand law with respect to certain Commonwealth countries
-All existing law—that is to say all law, whether a rule of law or a provision of an Act of any Parliament or a provision of any other enactment or instrument whatsoever—shall, until provision to the contrary is made by the authority having power to alter that law, have the same operation with respect to every Commonwealth country of which Her Majesty is not Head of State (whether by virtue of that country's having become a republic or otherwise) as it would have if Her Majesty were Head of State.
+All existing law—that is to say all law, whether a rule of law or a provision of an Act of any Parliament or a provision of any other enactment or instrument whatsoever—shall, until provision to the contrary is made by the authority having power to alter that law, have the same operation with respect to every Commonwealth country of which the Sovereign is not Head of State (whether by virtue of that country's having become a republic or otherwise) as it would have if the Sovereign were Head of State.
 
 ### 4 Operation of New Zealand law with respect to the Republic of Ireland
 All existing law as aforesaid shall, until provision to the contrary is made by the authority having the power to alter that law, operate with respect to the Republic of Ireland as if it were a Commonwealth country and not a foreign country.
