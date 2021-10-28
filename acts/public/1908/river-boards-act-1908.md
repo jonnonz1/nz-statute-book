@@ -1,5 +1,5 @@
 # River Boards Act 1908
-_Consolidation as at 2013-07-01_
+_Consolidation as at 2021-10-28_
 
 > An Act to consolidate certain enactments of the General Assembly relating to the constitution of River Boards and the construction of river works
 
@@ -99,6 +99,7 @@ The provisions of this Act respecting election of members shall have no applicat
 (1) If at any time it appears to the Governor-General that a local authority or association electing or appointing a member or members of the Board has ceased to exist, or has been incorporated with or united to some other local authority or association, the Governor-General may by Order in Council declare what other local authority or association shall return a member in lieu of the authority or association so ceasing to exist or being incorporated or united as aforesaid.
 (2) If any such authority or association becomes divided into 2 or more like bodies, the Governor-General in Council may order that the original bodies or associations and the new bodies or associations shall unite in electing or appointing a member or members of the Board, as the case may be.
 (3) If the name of any such local authority or association is changed, but such body or association in other respects remains unaltered, such change of name shall not affect the right of such body or association to elect a member.
+(4) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 20 Conditions on which Board may alter number of members
 The Board may, at any time after the creation of the district, by special order from time to time divide any undivided district into subdivisions, or increase or diminish the number of any subdivisions, and change the names thereof, and may abolish the whole or any of such subdivisions, and fix or vary the number of members to be elected for each district or any subdivision, but subject to the provisions of section 15 hereof.
