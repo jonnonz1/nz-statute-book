@@ -1,5 +1,5 @@
 # Trade Marks Act 2002
-_Consolidation as at 2021-01-14_
+_Consolidation as at 2021-10-28_
 
 ### 1 Title
 This Act is the Trade Marks Act 2002.
@@ -9,6 +9,7 @@ This Act is the Trade Marks Act 2002.
 ### 2 Commencement
 (1) This Act (except sections 177 to 180, 199, and 200) comes into force on a date to be appointed by the Governor-General by Order in Council.
 (2) Sections 177 to 180, 199, and 200 come into force on the day after the date on which this Act receives the Royal assent.
+(3) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 3 Purposes
 The purposes of this Act are to—
@@ -2076,9 +2077,10 @@ Section 197 does not apply to—
 (2) The structure of the fee system under this Act prescribed by regulations under subsection (1) may be such that any renewal fees—
   (a) recover a share of the costs incurred by the Commissioner in performing his or her functions under this Act; and
   (b) recover those costs at a level that provides an appropriate incentive for persons to let registrations of trade marks lapse if they do not receive sufficient benefit from having the registration.
+(3) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 199A Regulations: Madrid Protocol
-The Governor-General may, by Order in Council, make regulations for the purpose of giving effect in New Zealand to the Madrid Protocol, including providing for any of the following:
+(1) The Governor-General may, by Order in Council, make regulations for the purpose of giving effect in New Zealand to the Madrid Protocol, including providing for any of the following:
   (a) making applications for international registration by way of the Intellectual Property Office of New Zealand as office of origin:
   (b) procedures to be followed where the basic New Zealand application for registration ceases to be in force:
   (c) procedures to be followed where the Intellectual Property Office of New Zealand receives from the International Bureau, or any body specified in the regulations, a request for extension of protection to New Zealand:
@@ -2090,9 +2092,11 @@ The Governor-General may, by Order in Council, make regulations for the purpose 
     (i) section 105 (unjustified proceedings):
     (ii) subpart 2 of Part 4 (criminal proceedings):
     (iii) subpart 3 of Part 4 (border protection measures).
+(2) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 200 Orders in Council relating to convention countries
-For the purpose of giving effect to an international agreement or arrangement to which New Zealand is a party or that applies to New Zealand, the Governor-General may, by Order in Council, declare that an entity specified in the order that is a party to the agreement or arrangement or to which the agreement or arrangement applies is, for the purposes of all or any of the provisions of this Act, a convention country.
+(1) For the purpose of giving effect to an international agreement or arrangement to which New Zealand is a party or that applies to New Zealand, the Governor-General may, by Order in Council, declare that an entity specified in the order that is a party to the agreement or arrangement or to which the agreement or arrangement applies is, for the purposes of all or any of the provisions of this Act, a convention country.
+(2) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 **Amendments**
 
