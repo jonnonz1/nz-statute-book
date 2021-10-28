@@ -1,5 +1,5 @@
 # Life Insurance Amendment Act 1920
-_Consolidation as at 2013-07-01_
+_Consolidation as at 2021-10-28_
 
 > An Act to amend the Life Insurance Act 1908, and make other alterations in the law with reference to life insurance
 
@@ -55,7 +55,8 @@ No company shall forfeit any policy excepting upon the following conditions:
 The Minister shall be entitled and is hereby empowered to require such additional explanation of or information with respect to any statement or balance sheet required by this Act to be made or prepared by any company, or with respect to any form of policy, table of rates, prospectus, or other document deposited under section 8 of this Act, or with respect to industrial insurance as conducted by the company, as he deems necessary for the purposes of this Act.
 
 ### 13 Governor-General may make regulations
-The Governor-General may, by Order in Council, make any regulations which he may deem necessary for the purpose of carrying this Part of this Act into effect and of enforcing the provisions of this Part of this Act.
+(1) The Governor-General may, by Order in Council, make any regulations which he may deem necessary for the purpose of carrying this Part of this Act into effect and of enforcing the provisions of this Part of this Act.
+(2) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 14 Penalties on company making default
 (1) If any company makes default in duly complying with the requirements of this Part of this Act or with any request made by the Minister under section 12 hereof, and continues in default for 7 days after notice by the Minister, or in case any company makes default in the performance of any obligation imposed on it by any regulation made under the last preceding section, then and in every such case the company, and also its attorney, general agent, or other agent, shall be severally liable to a fine not exceeding $100 for every day during which such default continues.
