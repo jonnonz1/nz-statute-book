@@ -1,5 +1,5 @@
 # Mines Rescue Act 2013
-_Consolidation as at 2016-04-04_
+_Consolidation as at 2021-10-28_
 
 ### 1 Title
 This Act is the Mines Rescue Act 2013.
@@ -120,7 +120,7 @@ The Minister must be satisfied that the board comprises—
 (7) If, for a financial year, the amount of levy that has been paid to the board exceeds the board’s direct and indirect costs in performing the functions specified in section 8(a), (b), and (d), the surplus may be held by the board as a reserve to enable it to meet any immediate costs it incurs in performing the function specified in section 8(c).
 (8) Before making a recommendation under subsection (1), the Minister must consult the board and the persons responsible for paying the levy.
 (9) Before determining the expected costs under subsection (5)﻿(a), the board must consult the persons responsible for paying the levy.
-(10) A notice under subsection (5)﻿(b) is not a disallowable instrument for the purposes of the Legislation Act 2012 and does not have to be presented to the House of Representatives under section 41 of that Act.
+(10) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 11 Board to account for levy
 (1) As soon as practicable after the end of a financial year in which a levy has been paid to the board, the board must prepare the following for the year:
@@ -202,6 +202,7 @@ The Minister must be satisfied that the board comprises—
   (a) the number of mine workers a mine operator must make available and the extent to which a mine operator must make mine workers available; and
   (b) any other matter that is necessary to give effect to paragraph (a).
 (3) The number of mine workers a mine operator must make available and the extent to which the mine workers must be made available may be specified by a formula that takes into account the total number of mine workers working in the mining operation.
+(4) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ## Part 2 — Emergency response
 
