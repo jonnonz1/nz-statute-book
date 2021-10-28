@@ -1,5 +1,5 @@
 # Bank of New Zealand Act 1988
-_Consolidation as at 2021-01-30_
+_Consolidation as at 2021-10-28_
 
 > An Act to enable Bank of New Zealand to be constituted as a company incorporated and registered under the Companies Act 1955 and to repeal the Bank of New Zealand Act 1979
 
@@ -36,6 +36,7 @@ This Act shall bind the Crown.
 (9) In the application of section 200 of the Act to the Bank—
   (a) nothing in subsection (4) of that section shall be construed to require the return containing the particulars of the directors and secretary to have endorsed on it or be accompanied by, a written consent to act as a director by any person who holds office as a director of the Bank on the appointed day by virtue of this Act; and
   (b) subsection (5)﻿(a) of that section shall apply as if those directors had been appointed as directors of the Bank on the appointed day.
+(10) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 5 Effect of registration under the Act
 (1) Notwithstanding any other enactment or rule of law, from the commencement of the appointed day the Bank shall be deemed to be a company incorporated and registered under Part 2 of the Act and, subject to section 6, the Act shall apply to it accordingly.
