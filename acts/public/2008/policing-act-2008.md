@@ -1,5 +1,5 @@
 # Policing Act 2008
-_Consolidation as at 2020-12-01_
+_Consolidation as at 2021-10-28_
 
 ### 1 Title
 This Act is the Policing Act 2008.
@@ -186,9 +186,9 @@ The Public Service Commissioner—
 ### 22 Police employee becomes constable by taking constable's oath
 (1) A Police employee may become a constable only by taking the constable's oath, in either of the following forms, before the Commissioner or a person authorised by the Commissioner to administer the constable's oath:
   “English form
-  “I, [name], swear that I will faithfully and diligently serve Her (or His) Majesty [specify the name of the reigning Sovereign], Queen (or King) of New Zealand, her (or his) heirs and successors, without favour or affection, malice or ill-will. While a constable I will, to the best of my power, keep the peace and prevent offences against the peace, and will, to the best of my skill and knowledge, perform all the duties of the office of constable according to law. So help me God.
+  “I, [name], swear that I will faithfully and diligently serve His (or Her) Majesty [specify the name of the reigning Sovereign], King (or Queen) of New Zealand, his (or her) heirs and successors, without favour or affection, malice or ill-will. While a constable I will, to the best of my power, keep the peace and prevent offences against the peace, and will, to the best of my skill and knowledge, perform all the duties of the office of constable according to law. So help me God.
   “Māori form
-  “Tēnei au, a [ingoa], e kī taurangi nei, ka rato pirihonga, urupū hoki ahau i Te Arikinui, a [tohua te ingoa o te Arikinui kei runga i te torona], Kuini (Kīngi rānei) o Niu Tīreni, me ōna uri whakaheke, i roto i te kore tautoko, kore aroha rānei, kore mahi kino, kore whakaaro kino rānei. I ahau e pirihimana ana ka pōkaikaha ahau ki te hohou i te rongo me te kaupare atu i ngā mahi kotikoti i te rongo, ā, i roto i ōku tino pūkenga me ōku mōhio, ka whakatutuki i ngā mahi kua whakaritea hei mahi mā te pirihimana e ai ki te ture. Nō reira, āwhina mai i ahau e te Atua.”
+  “Tēnei au, a [ingoa], e kī taurangi nei, ka rato pirihonga, urupū hoki ahau i Te Arikinui, a [tohua te ingoa o te Arikinui kei runga i te torona], Kīngi (Kuini rānei) o Niu Tīreni, me ōna uri whakaheke, i roto i te kore tautoko, kore aroha rānei, kore mahi kino, kore whakaaro kino rānei. I ahau e pirihimana ana ka pōkaikaha ahau ki te hohou i te rongo me te kaupare atu i ngā mahi kotikoti i te rongo, ā, i roto i ōku tino pūkenga me ōku mōhio, ka whakatutuki i ngā mahi kua whakaritea hei mahi mā te pirihimana e ai ki te ture. Nō reira, āwhina mai i ahau e te Atua.”
 (2) Before administering the constable's oath under this section, the Commissioner or person authorised by the Commissioner to administer the oath must be satisfied that the Police employee is—
   (a) adequately trained to exercise the powers of a constable; and
   (b) capable of exercising the powers of a constable.
@@ -225,15 +225,14 @@ If an authorised officer is, under section 24(1)﻿(a) or under section 25 and S
   (a) add to, omit from, or otherwise amend any power specified in relation to any particular policing role:
   (b) add a new policing role and specify powers in relation to it:
   (c) omit a specified policing role.
-(2) An Order in Council made under this section is a legislative instrument and a disallowable instrument for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
+(2) An order under this section—
+  (a) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements); and
+  (b) must be confirmed by an Act (see subpart 3 of Part 5 of the Legislation Act 2019).
 (3)
 (4)
 
 ### 27A Orders are confirmable instruments
-The explanatory note of an Order in Council made under section 27(1) must indicate that—
-  (a) it is a confirmable instrument under section 47B of the Legislation Act 2012; and
-  (b) it is revoked at a time stated in the note, unless earlier confirmed by an Act of Parliament; and
-  (c) the stated time is the applicable deadline under section 47C(1)﻿(a) or (b) of that Act.
+[Repealed]
 
 ### Subpart 4 — General instructions
 
@@ -708,6 +707,9 @@ The Minister may recommend a regulation under section 102A(a) only if the Minist
 ### 79G Exemptions, waivers, and refunds
 (1) Regulations made under this Act may provide for exemptions from, or waivers or refunds of, any fee or charge prescribed by regulations made under this Act, in whole or in part, in any class of case.
 (2) Regulations made under this Act may authorise the Commissioner, as he or she thinks fit in the circumstances specified in those regulations, to exempt, waive, or refund the whole or any part of a fee or charge prescribed by regulations made under this Act.
+(3) If regulations authorise the Commissioner to grant exemptions, waivers, or refunds referred to in subsection (2),—
+  (a) an instrument granting an exemption or a waiver or refund is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements), unless it applies only to 1 or more named persons; and
+  (b) the regulations must contain a statement to that effect.
 
 ## Part 5 — Biometric information, international policing, and other miscellaneous provisions
 
@@ -948,7 +950,7 @@ The annual report of the Police required under section 43 of the Public Finance 
   (c) may include any other matters affecting the Police or policing that the Commissioner thinks fit.
 
 ### 102 Regulations
-The Governor-General may from time to time, by Order in Council, make regulations for all or any of the following purposes:
+(1) The Governor-General may from time to time, by Order in Council, make regulations for all or any of the following purposes:
   (a) prescribing crests, badges, emblems, designs, logograms, or other distinguishing articles used, worn, or carried by any Police employee while on duty:
   (b) prescribing the information and things relating to a Police employee that the evidence of identity and authority provided to him or her under section 96(1) must state or bear:
   (c) requiring the Commissioner to establish and maintain a register—
@@ -957,13 +959,18 @@ The Governor-General may from time to time, by Order in Council, make regulation
   (d) prescribing the information required to be contained in the register referred to in paragraph (c) for each Police employee whose name is entered in the register:
   (e) providing for matters relating to the governance and conduct of Police employees outside New Zealand, whether as part of an overseas operation within the meaning of section 86 or as an employee within the meaning of section 91:
   (f) providing for such other matters as are contemplated by or necessary for giving effect to the provisions of this Act and for its due administration.
+(2) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 102A Regulations relating to cost recovery
-The Governor-General may, by Order in Council,—
+(1) The Governor-General may, by Order in Council,—
   (a) on the recommendation of the Minister made after due consultation in accordance with section 79D, make regulations prescribing fees or charges for specified demand services in accordance with the provisions of Part 4A:
   (b) make regulations prescribing the time when a fee or charge prescribed under this Act becomes payable:
   (c) make regulations providing for exemptions from, or waivers or refunds of, any fee or charge prescribed under this Act, in whole or in part, in any class of case:
   (d) make regulations authorising the Commissioner, as he or she thinks fit in the circumstances specified in those regulations, to exempt, waive, or refund the whole or any part of a fee or charge prescribed by regulations made under this Act.
+(2) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+(3) If the regulations authorise the granting of an exemption, a waiver, or a refund under subsection (1)﻿(d),—
+  (a) the instrument by which the exemption, waiver, or refund is granted is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements), unless the instrument applies only to 1 or more named persons; and
+  (b) the regulations must contain a statement to that effect.
 
 **Transitional and savings provisions**
 
