@@ -1,5 +1,5 @@
 # Health and Disability Commissioner Act 1994
-_Consolidation as at 2021-02-09_
+_Consolidation as at 2021-10-28_
 
 > An Act to promote and protect the rights of health consumers and disability services consumers, and, in particular,—ato secure the fair, simple, speedy, and efficient resolution of complaints relating to infringements of those rights; andbto provide for the appointment of a Health and Disability Commissioner to investigate complaints against persons or bodies who provide health care or disability services; and to define the Commissioner’s functions and powers; andcto provide for the establishment of a Health and Disability Services Consumer Advocacy Service; anddto provide for the promulgation of a Code of Health and Disability Services Consumers’ Rights; andeto provide for matters incidental thereto
 
@@ -7,6 +7,7 @@ _Consolidation as at 2021-02-09_
 (1) This Act may be cited as the Health and Disability Commissioner Act 1994.
 (2) Except as provided in subsection (3), this Act shall come into force on the day after the date on which it receives the Royal assent.
 (3) Part 4 and sections 76(1), 76(2), 81(1), and 81(3) shall come into force on a date to be appointed by the Governor-General by Order in Council.
+(4) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 2 Interpretation
 (1) In this Act, unless the context otherwise requires,—
@@ -282,14 +283,12 @@ Subject to this Act, advocacy services shall operate independently of the Commis
 (1) The Commissioner may from time to time, and shall if directed to do so by the Minister, issue guidelines relating to the operation of advocacy services.
 (2) Without limiting subsection (1), any guidelines issued pursuant to subsection (1) shall include provisions relating to the procedures to be followed by advocates in carrying out their functions, including any special procedures to be followed when advocates are dealing with any particular persons or classes of persons.
 (3) The Commissioner may from time to time, and shall if directed to do so by the Minister, issue an amendment or revocation of any guidelines issued pursuant to this section.
-(4) No guidelines issued pursuant to this section, and no amendment or revocation of any such guidelines, shall have any force or effect unless those guidelines or, as the case requires, that amendment or revocation has been approved by the Minister.
-(5) Where the Minister approves any guidelines issued pursuant to this section or any amendment or revocation of any such guidelines, the Minister shall—
-  (a) publish a notice of the approval in the Gazette; and
-  (b) show the date of the approval on the guidelines or amendment or revocation, and promulgate the approval in such manner as the Minister thinks fit.
-(6) The Commissioner shall ensure that copies of all guidelines, and all amendments to any such guidelines, that are for the time being in force pursuant to this section are available—
-  (a) for inspection by members of the public free of charge; and
-  (b) for purchase by members of the public at a reasonable price.
-(7) The notice of approval published in the Gazette pursuant to subsection (5)﻿(a) shall show, in relation to the guidelines or the amendment to which it relates, a place at which copies of the guidelines or, as the case requires, the amendment are available for inspection free of charge and for purchase.
+(4) The Commissioner may not issue any guidelines, or any amendment to or revocation of those guidelines, under this section unless the Minister has approved the proposed guidelines or the proposed amendment or revocation.
+(5) The following are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements):
+  (a) the guidelines:
+  (b) an amendment to or revocation of those guidelines.
+(6)
+(7)
 
 ### 29 Consultation on preparation of guidelines
 Without limiting section 14(2), the Commissioner shall, before issuing any guidelines or amendments to guidelines pursuant to subsection (1) or subsection (3) of section 28, consult with, and invite representations from, such persons, bodies, organisations, and agencies, including representatives of health consumers, disability services consumers, health care providers, and disability services providers, as the Commissioner considers necessary to ensure that a wide range of views is available to the Commissioner to assist in the preparation of those guidelines or amendments.
@@ -731,6 +730,7 @@ Every person commits an offence against this Act and is liable on conviction to 
 (2) In addition to the power conferred by subsection (1), the Governor-General may from time to time, by Order in Council, make regulations for all or any of the following purposes:
   (a) prescribing the procedure for the service of notices and other documents under this Act:
   (b) providing for such matters as are contemplated by or necessary for giving effect to this Act and for its due administration.
+(3) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 75 Where regulations made against or without advice of Commissioner
 (1) This section applies where any regulations are made under section 74(1)—
