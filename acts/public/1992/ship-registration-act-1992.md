@@ -1,5 +1,5 @@
 # Ship Registration Act 1992
-_Consolidation as at 2021-04-01_
+_Consolidation as at 2021-10-28_
 
 > An Act to provide for the registration of ships in New Zealand and related matters
 
@@ -40,7 +40,7 @@ _Consolidation as at 2021-04-01_
     (a) the net tonnage of that ship determined or recognised in accordance with the provisions of the Maritime Transport Act 1994; or
     (b) where a ship has been assigned alternative net tonnages, the higher of those net tonnages
   - **New Zealand Flag** means the New Zealand Flag as depicted in Schedule 1 of the Flags, Emblems, and Names Protection Act 1981
-  - **New Zealand Government ship** means a ship that belongs to Her Majesty or is held by any person on behalf of or for the benefit of Her Majesty; but does not include a ship that is set aside for or used by the Armed Forces of New Zealand
+  - **New Zealand Government ship** means a ship that belongs to the Sovereign or is held by any person on behalf of or for the benefit of the Sovereign; but does not include a ship that is set aside for or used by the Armed Forces of New Zealand
   - **New Zealand national** means—
     (a) a New Zealand citizen:
     (b) a body corporate established by or under the law of New Zealand:
@@ -64,7 +64,7 @@ _Consolidation as at 2021-04-01_
   - **port of registry** , in relation to a ship, means the port that is for the time being entered in the Register as the port of registry of that ship
   - **prescribed form** means a form prescribed by the Director under section 84
   - **proper officer** , in relation to a port in a foreign country, means the person who—
-    (a) is a person recognised by Her Majesty as a consular officer of that country; or
+    (a) is a person recognised by the Sovereign as a consular officer of that country; or
     (b) is by the law of that country authorised or required to do or perform the act or duty to which reference is made in the provisions of this Act in which the expression occurs; or
     (c) is by the law of that country authorised or required to do or perform, in relation to any ship registered in or belonging to that country, any act or duty of the same nature as the act or duty to which reference is made in the provisions of this Act in which the expression occurs; or
     (d) is appointed or recognised under section 85 as a proper officer for the purposes of this Act
@@ -260,7 +260,7 @@ A reference in this Act to a ship on demise charter to a New Zealand-based opera
   (b) is a name accepted by the Registrar in respect of any other ship in the course of registration in that Part of the Register; or
   (c) is likely to be confused with a name described in paragraph (a) or paragraph (b); or
   (d) is likely to be offensive to members of the public; or
-  (e) is the name of any member of the Royal family, or claims or implies patronage of or any connection with Her Majesty or any other member of the Royal family; or
+  (e) is the name of any member of the Royal family, or claims or implies patronage of or any connection with the Sovereign or any other member of the Royal family; or
   (f) is the name New Zealand without a prefix or suffix (unless the name is proposed to be used by the Crown); or
   (g) falsely suggests connection with—
     (i) the Crown; or
@@ -326,6 +326,7 @@ A reference in this Act to a ship on demise charter to a New Zealand-based opera
   (b) in the case of a body corporate, to a fine not exceeding $5,000.
 (11) It is a defence to a charge in respect of an offence against subsection (8) or subsection (9) that the act or omission charged was done or omitted in accordance with this Act or for the purpose of escaping capture by an enemy.
 (12) Every ship marked in accordance with the provisions of Part 12 of the Shipping and Seamen Act 1952 and deemed by section 90 to be registered in Part A of the Register shall comply with the requirements of this section within 12 months after the commencement of this Act.
+(13) An exemption under subsection (7) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements), unless it applies only to 1 or more named ships.
 
 ### 20 Entry of particulars in Part A of Register
 (1) The Registrar shall register a ship in Part A of the Register by entering in that Part the following particulars:
@@ -910,7 +911,7 @@ For the purposes of this Act, the Director may from time to time, by notice in t
 (6) Any such delegation shall, until revoked, continue in force according to its tenor, notwithstanding the fact that the Director by whom it was made may have ceased to hold office, and shall continue to have effect as if made by the successor in office of that Director.
 
 ### 87 Regulations
-The Governor-General may from time to time, by Order in Council, make regulations for all or any of the following purposes:
+(1) The Governor-General may from time to time, by Order in Council, make regulations for all or any of the following purposes:
   (a) prescribing, or providing for the fixing of, fees payable in respect of any matter under this Act:
   (b) specifying the persons by whom any such fees are payable:
   (c) prescribing specific fees for specific work or services:
@@ -918,6 +919,7 @@ The Governor-General may from time to time, by Order in Council, make regulation
   (e) prescribing additional charges for reimbursement of travelling time, accommodation, and other expenses:
   (f) providing for the refund or waiver of any fee, in whole or in part, in any specified case or class of cases:
   (g) providing for such other matters as are contemplated by or necessary for giving full effect to the provisions of this Act and for its due administration.
+(2) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 88 Repeals and amendments
 (1) The enactments specified in Part 1 of the Schedule are hereby repealed.
