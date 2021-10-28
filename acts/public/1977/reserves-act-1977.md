@@ -1,5 +1,5 @@
 # Reserves Act 1977
-_Consolidation as at 2020-08-07_
+_Consolidation as at 2021-10-28_
 
 > An Act to consolidate and amend certain enactments of the Parliament of New Zealand relating to public reserves, to make further provision for their acquisition, control, management, maintenance, preservation (including the protection of the natural environment), development, and use, and to make provision for public access to the coastline and the countryside
 
@@ -156,7 +156,13 @@ _Consolidation as at 2020-08-07_
 (2B) Instead, the Governor-General may, by Order in Council made on the recommendation of the Minister,—
   (a) declare that land specified in the order is or is not a nature reserve or a scientific reserve; or
   (b) declare that a reserve must be held for the purpose of a nature reserve or a scientific reserve, according to the terms of the order.
-(3) Where in any notice issued in the Gazette under this Act or under any Act repealed by this Act there has been made any error of description (whether with respect to the boundaries or area of the land to which the notice relates or with respect to classification or nomenclature, or otherwise howsoever), the Minister may revoke the notice, and may thereafter issue in its place a fresh notice with amended particulars and descriptions, or may by notice amend the original notice.
+(2C) An order under subsection (2B) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+Errors of description
+(2D) Subsection (3) applies to notices that are—
+  (a) issued in the Gazette under this Act or any Act repealed by this Act; or
+  (b) made under this Act and published under the Legislation Act 2019.
+(3) If there is an error of description in a notice (whether with respect to the boundaries or area of the land to which the notice relates or with respect to classification or nomenclature, or otherwise howsoever), the Minister may revoke the notice, and may thereafter issue in its place a fresh notice with amended particulars and descriptions, or may by notice amend the original notice.
+(3A) A notice under subsection (3) that revokes, replaces, or amends secondary legislation is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 (4) Every notice of revocation or amendment issued under subsection (3) shall, according to its tenor, take effect as from the date on which the original notice was intended to take effect or as from such other date as may be therein specified in that behalf.
 
 ### 7 Director of Reserves
@@ -231,6 +237,7 @@ There may from time to time be appointed under the Public Service Act 2020 a sui
     (i) by the Commissioner; or
     (ii) by a reserves board appointed by the Minister under section 30; or
     (iii) in such other manner as the Minister directs,—
+(6) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 14 Local authority may declare land vested in it to be a reserve
 (1) Subject to this section, any local authority may by resolution declare any land vested in it to be a reserve within the meaning of this Act subject to any conditions specified in the resolution, to be held for any of the purposes specified in sections 17 to 23.
@@ -368,6 +375,7 @@ There may from time to time be appointed under the Public Service Act 2020 a sui
   (a) refer the proposed name to the New Zealand Geographic Board Ngā Pou Taunaha o Aotearoa under section 27(2) of the New Zealand Geographic Board (Ngā Pou Taunaha o Aotearoa) Act 2008; and
   (b) give public notice in accordance with section 119 specifying the name and classification proposed, and must consider in accordance with section 120 all objections and submissions in relation to the proposal, and those sections apply accordingly with any necessary modifications.
 (5) When classified under this section, each reserve must be held and administered for the purpose or purposes for which it is classified and for no other purpose.
+(6) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 17 Recreation reserves
 (1) It is hereby declared that the appropriate provisions of this Act shall have effect, in relation to reserves classified as recreation reserves, for the purpose of providing areas for the recreation and sporting activities and the physical welfare and enjoyment of the public, and for the protection of the natural environment and beauty of the countryside, with emphasis on the retention of open spaces and on outdoor recreational activities, including recreational tracks in the countryside.
@@ -467,6 +475,7 @@ There may from time to time be appointed under the Public Service Act 2020 a sui
 (11) Subsection (10)﻿(a) does not apply if the intended change of classification is from—
   (a) nature reserve to scientific reserve or scenic reserve:
   (b) scientific reserve to nature reserve or scenic reserve.
+(12) An order under subsection (9) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 24A Change of purpose of reserve by territorial authority or regional council
 (1) Notwithstanding section 24, where any local purpose reserve is vested in a territorial authority or regional council, that territorial authority or regional council may, by notice in the Gazette, change the purpose for which that reserve is classified within its classification as a local purpose reserve.
@@ -681,9 +690,10 @@ The Minister may provide, with or without charge, advice, guidance, and technica
 The administering body may, with the prior approval of the Minister, erect, or authorise any voluntary organisation or educational institution to erect, shelters, huts, cabins, lodges, and similar resting or sleeping accommodation on any recreation reserve or scenic reserve in order to encourage the public to appreciate and enjoy the benefits of the outdoors and nature, where, because of the isolation, rugged contour, or very large area of the reserve, this type of accommodation is necessary and cannot be provided outside and in close proximity to the reserve. Any approval granted under this section shall be on such terms and conditions as to location, structure, custody, use, and otherwise as the Minister approves.
 
 ### 46 Grant of rights to Maori
-(1) The Minister may from time to time, by notice in the Gazette, grant to Maori the right to take or kill birds within any scenic reserve which immediately before the reservation or taking thereof was Maori land, provided the taking and killing of the birds would not be in contravention of the Wildlife Act 1953 or any regulations or Proclamation or notification under that Act.
-(2) Where any scenic or historic reserve includes any ancestral burial grounds of Maori, the Minister may, by notice in the Gazette, grant the right to bury or inter the remains of deceased Maori in a place to be specified therein.
+(1) The Minister may from time to time, by notice, grant to Maori the right to take or kill birds within any scenic reserve which immediately before the reservation or taking thereof was Maori land, provided the taking and killing of the birds would not be in contravention of the Wildlife Act 1953 or any regulations or Proclamation or notification under that Act.
+(2) Where any scenic or historic reserve includes any ancestral burial grounds of Maori, the Minister may, by notice, grant the right to bury or inter the remains of deceased Maori in a place to be specified therein.
 (3) Any rights so granted may at any time in like manner be withdrawn or varied by the Minister.
+(4) A notice under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 47 Wilderness areas
 (1) The Governor-General may, by Order in Council made on the recommendation of the Minister,—
@@ -706,6 +716,7 @@ The administering body may, with the prior approval of the Minister, erect, or a
   (b) the Minister is satisfied that its doing is desirable or necessary for the preservation of the indigenous natural resources,—
 (6) If satisfied that the undertaking of any scientific test or study in a wilderness area is necessary or desirable for the preservation of indigenous natural resources, the Minister may authorise it.
 (7) Nothing in subsection (4) prevents the doing of anything necessary for any person's protection or because of some emergency involving any person's property.
+(8) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 48 Grants of rights of way and other easements
 (1) Subject to subsection (2) and to the Resource Management Act 1991, in the case of reserves vested in an administering body, the administering body, with the consent of the Minister and on such conditions as the Minister thinks fit, may grant rights of way and other easements over any part of the reserve for—
@@ -857,6 +868,8 @@ The Minister may from time to time, by writing under his or her hand, and subjec
   (b) appoint officers, servants, and rangers, whether paid or unpaid:
   (c) do such other things as may be considered necessary for the proper and beneficial management, administration, and control of the reserve and for the protection, preservation, and well-being of the indigenous flora and fauna and other features in the reserve.
 (10) The powers conferred on administering bodies by paragraph (a) of subsection (9) shall not be exercised without the consent of the Minister, which shall not be given unless the Minister is satisfied that the residences, buildings, or structures are necessary for the purposes specified in that paragraph, and cannot readily be provided outside and in close proximity to the reserve.
+(11) A notice under subsection (2) that is made by the Minister is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+(12) A notice under subsection (2) that is made by an administering body is secondary legislation for the purposes of the Legislation Act 2019, but section 161A of the Local Government Act 2002 applies as if the notice were made by a local authority.
 
 ### 58 Powers in respect of historic reserves
 The administering body of an historic reserve may from time to time, in the exercise of its functions under section 40 and to the extent necessary to give effect to the principles set out in section 18,—
@@ -949,6 +962,7 @@ Nothing in this Act shall prevent any airport authority (as defined in the Airpo
   (e) regulating the charges that may be made for the occupation of portions of the reserve for the erection of booths or stalls for the sale of refreshments, merchandise, goods, or chattels:
   (f) the preservation of order on the reserve during race meetings.
 (2) All bylaws made under subsection (1) shall be notified once by advertisement as to the nature thereof in 1 or more newspapers circulating in the locality in which the reserve is situate, and by being posted on some conspicuous place on the reserve so that they may be easily read.
+(2A) Bylaws made under this section are secondary legislation for the purposes of the Legislation Act 2019, but section 161A of the Local Government Act 2002 applies as if they were made by a local authority.
 (3) In this section and in sections 66 to 70 the expression recreation reserve set apart for racecourse purposes includes a reserve which immediately before the commencement of this Act was a reserve set apart for racecourse purposes.
 
 ### 66 Club may use reserve on conditions
@@ -1476,7 +1490,9 @@ A person who commits an infringement offence is liable on conviction to—
   (j) generally regulating the use of a reserve, and providing for the preservation of order therein, the prevention of any nuisance therein, and for the safety of people using the reserve.
 (2) Subject to section 108, every administering body may with respect to the reserve under its control make bylaws for all or any of the purposes specified in subsection (1) in the form prescribed pursuant to that subsection, with such variations of or additions to the prescribed form of bylaws as the Minister considers necessary for the proper control and administration of the reserve.
 (2A) For the avoidance of doubt it is hereby declared that the power to make bylaws conferred on administering bodies by this section is in addition to and not in substitution for any power to make bylaws relating to the reserve under any other Act.
-(3) The Minister may from time to time, by notice in the Gazette, make bylaws with respect to any reserve that is not under the administration and control of an administering body, and those bylaws may provide for all or any of the matters specified in subsection (1) with such variations of or additions as the Minister considers necessary for the proper administration and control of the reserve.
+(3) The Minister may from time to time, by notice, make bylaws with respect to any reserve that is not under the administration and control of an administering body, and those bylaws may provide for all or any of the matters specified in subsection (1) with such variations of or additions as the Minister considers necessary for the proper administration and control of the reserve.
+(4) Bylaws under subsection (3) are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+(5) See section 108(3) for the status under the Legislation Act 2019 of bylaws made under subsection (2).
 
 ### 107 Procedure for making bylaws
 Where under this Act power to make bylaws is conferred on any administering body, the bylaws shall be made in the following manner:
@@ -1486,6 +1502,7 @@ Where under this Act power to make bylaws is conferred on any administering body
 ### 108 Bylaws to be approved by Minister
 (1) No bylaw made under this Act by an administering body shall have any force or effect unless and until it is approved by the Minister.
 (2) Approval of any bylaw by the Minister shall be conclusive evidence that it has been duly made under this Act.
+(3) Bylaws approved under this section are secondary legislation for the purposes of the Legislation Act 2019, but section 161A of the Local Government Act 2002 applies as if they were made by a local authority.
 
 **Mining**
 
@@ -1493,6 +1510,7 @@ Where under this Act power to make bylaws is conferred on any administering body
 (1) Nothing in this Act shall in any way restrict the operation of any of the provisions of the Mining Act 1971 with respect to dealings under that Act with reserves.
 (2) Notwithstanding anything to the contrary in this Act or any other Act, the Governor-General may from time to time, by Order in Council, declare to be subject to the Coal Mines Act 1925 or to any specified provisions of that Act, as if it were Crown land as defined by that Act, any reserve within the meaning of this Act consisting of land vested in the Crown or alienated from the Crown as a reserve which contains coal:provided that every grant of a coal mining right over any such land so declared to be subject to the Coal Mines Act 1925 or to any specified provisions thereof shall be subject to the consent of the Minister, who may refuse his or her consent or grant it unconditionally or on such conditions as he or she thinks fit to impose:provided also that in the case of a scenic reserve this subsection shall be read subject to the Coal Mines Act 1925.
 (3) No coal mining right under the Coal Mines Act 1925 may be granted over any reserve for soil conservation or river control or other like purposes except with the prior consent in writing of the Minister for the Environment.
+(4) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 **General provisions**
 
@@ -1553,7 +1571,7 @@ Where under this Act power to make bylaws is conferred on any administering body
 (5)
 (6) Every record of title referred to in this section shall include a reference to the purpose for which the land is held. Where an existing record of title does not include such a reference, the Registrar-General of Land shall, without fee, upon receipt of a certificate under the hand of the Commissioner stating the purpose for which the land is held, update the record accordingly.
 (7) Any instrument that relates to the land in any such record of title and is duly executed by a person having the proper authority may be registered in accordance with the Land Transfer Act 2017, and the Registrar-General of Land must note the interest on the record of title.
-(8) A copy of any resolution gazetted under section 14 or of any notice by the Minister under this Act and published in the Gazette may be forwarded to the Registrar-General of Land or the Registrar of Deeds, as the case may require, who shall thereupon, without payment of any fee, record the copy of the resolution or notice and register it against the appropriate title (if any).
+(8) A copy of any resolution gazetted under section 14 or of any notice by the Minister under this Act and published in the Gazette or under the Legislation Act 2019 may be forwarded to the Registrar-General of Land or the Registrar of Deeds, as the case may require, who shall thereupon, without payment of any fee, record the copy of the resolution or notice and register it against the appropriate title (if any).
 (9) Where upon the revocation of the reservation of any reserve or part of any reserve the land comprised therein or, as the case may be, part of that land becomes Crown land, any record of title or other instrument of title in respect of the land shall, on application by the Commissioner to the Registrar-General of Land or the Registrar of Deeds, as the case may require, be cancelled or, as the case may be, cancelled in so far as it relates to that part of the land.
 
 ### 117 Commissioner may execute documents on behalf of the Crown
@@ -1574,6 +1592,7 @@ All actions and proceedings by or on behalf of the Crown in connection with any 
     (ii) in such other newspapers (if any) as the administering body decides:
 (2) Subject, in relation to Maori land owned in multiple ownership, to section 181 of Te Ture Whenua Maori Act 1993, a notice required by this Act to be given to any person may be sent by registered post to the last-known place of abode or business of that person, and shall be deemed to have been delivered when in the ordinary course of post it would be delivered. If any such person is absent from New Zealand, the notice may be sent to his or her agent, and, if he or she has no known agent, the notice may be given to him or her by publishing it in a newspaper circulating in the district in which the land the subject matter of the notice is situated.
 (3) Every notice by the Minister under this Act shall come into force on the day of the date thereof or on such later date as may be specified in the notice.
+(4) However, if the notice is published under the Legislation Act 2019, section 26 of that Act applies instead of subsection (3).
 
 ### 120 Rights of objection and of making submissions
 (1) Subject to sections 13 and 47, where pursuant to any requirement of this Act (except sections 24, 24A, and 41) the Minister or any administering body gives public notice of his or her or its intention to exercise any power conferred by this Act—
@@ -1614,14 +1633,16 @@ Where under any provision of this Act the consent or approval of the Minister is
   (a) providing for such matters as are contemplated by or necessary for giving full effect to the provisions of this Act and for its due administration:
   (b) prescribing offences in respect of the contravention of or non-compliance with the regulations, and prescribing penalties for such offences not exceeding a fine of $5,000 and, where the offence is a continuing one, a further fine not exceeding $500 for every day on which the offence has continued.
 (2) Without limiting the general authority to make regulations conferred by subsection (1), regulations may be made under that subsection providing for the expulsion from reserves of persons acting thereon in contravention of any Act relating to betting or gaming.
+(3) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 123A Regulations relating to infringement offences
-The Governor-General may, by Order in Council made on the recommendation of the Minister, make regulations—
+(1) The Governor-General may, by Order in Council made on the recommendation of the Minister, make regulations—
   (a) prescribing infringement offences for the contravention of regulations or bylaws made under this Act:
   (b) prescribing penalties for infringement offences, which,—
     (i) in the case of infringement fees, must not be more than $1,000; and
     (ii) in the case of maximum fines, must not be more than twice the amount of the infringement fee for the offence:
   (c) prescribing information to be included in infringement notices and reminder notices.
+(2) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 124 Amendments
 (1) Unless the context otherwise requires, every reference in any other Act or in any regulation, rule, order, Proclamation, agreement, deed, instrument, application, notice, lease, licence, or other document whatsoever in force at the commencement of this Act—
