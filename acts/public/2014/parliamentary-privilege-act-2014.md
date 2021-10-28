@@ -1,5 +1,5 @@
 # Parliamentary Privilege Act 2014
-_Consolidation as at 2017-03-01_
+_Consolidation as at 2021-10-28_
 
 ### 1 Title
 This Act is the Parliamentary Privilege Act 2014.
@@ -25,7 +25,7 @@ This Act comes into force on the day after the date on which it receives the Roy
   (a) promotes its main and subsidiary purposes; and
   (b) promotes the principle of comity that requires the separate and independent legislative and judicial branches of government each to recognise, with the mutual respect and restraint that is essential to their important constitutional relationship, the other’s proper sphere of influence and privileges; and
   (c) ensures privileges, immunities, and powers of the House of Representatives, its committees, and its members are exercisable for the purpose stated in section 7.
-(2) Subsection (1) does not affect the application of the Interpretation Act 1999 to this Act.
+(2) Subsection (1) does not affect the application of Part 2 of the Legislation Act 2019 to this Act.
 
 ### 5 Interpretation
 (1) In this Act, unless the context otherwise requires,—
@@ -310,6 +310,12 @@ If a certificate granted, or order made, under section 27 or 29, is presented to
 
 ### 31 Judicial notice must be taken of Speaker's signature
 All courts and all persons acting judicially must take judicial notice of the Speaker's signature on a certificate granted under section 17, 27, or 29.
+
+### Subpart 6 — Evidence of parliamentary journals
+
+### 31A Copies of parliamentary journals to be evidence
+(1) This section applies to copies of the Journals of the Legislative Council or the House of Representatives of New Zealand that purport to be printed by the Government Printer or published under the House’s authority.
+(2) All courts and all persons acting judicially must admit those copies as evidence of the matters stated in them, without further proof that they were so printed or published.
 
 ## Part 5 — Savings provision, related amendments, and repeals
 
