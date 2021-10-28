@@ -1,5 +1,5 @@
 # Senior Courts Act 2016
-_Consolidation as at 2020-12-01_
+_Consolidation as at 2021-10-28_
 
 ### 1 Title
 This Act is the Senior Courts Act 2016.
@@ -182,6 +182,7 @@ The High Court may award damages in addition to or in substitution for an injunc
 (4) The Chief High Court Judge may determine how many High Court Judges are to be on the commercial panel or any other panel and assign Judges to the panels.
 (5) The Chief High Court Judge may decide the basis on which cases are to be distributed as between Judges on the commercial panel or another panel and Judges who are not on any panel.
 (6) A party may nominate that the party’s case be dealt with by a Judge on a panel and the Chief High Court Judge may assign to the case a Judge or Judges from a panel.
+(7) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 **Jurisdiction of Associate Judges**
 
@@ -744,7 +745,7 @@ The Attorney-General must publish information explaining his or her process for�
 **Eligibility for appointment**
 
 ### 94 Eligibility for appointment as Judge or Associate Judge
-A person may only be appointed a Judge or an Associate Judge if—
+(1) A person may only be appointed a Judge or an Associate Judge if—
   (a) that person has, for at least 7 years, held a New Zealand practising certificate as a barrister or as a barrister and solicitor; or
   (b) that person—
     (i) holds a degree in law granted or issued by any university within New Zealand; and
@@ -752,6 +753,7 @@ A person may only be appointed a Judge or an Associate Judge if—
     (iii) has held a practising certificate in a jurisdiction specified by Order in Council—
       (A) for at least 7 years; or
       (B) for a lesser number of years, but, when that number of years is added to the number of years that the person has held a New Zealand practising certificate, the total number of years is at least 7 years.
+(2) An order under subsection (1)﻿(b)﻿(iii) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 95 Eligibility for appointment as Court of Appeal Judge
 A person may only be appointed a Court of Appeal Judge if that person is—
@@ -1163,8 +1165,11 @@ The purpose of rules of practice and procedure is to facilitate—
 
 ### 147 High Court Rules part of Act
 (1) The High Court Rules set out in Schedule 2 of the Judicature Act 1908 as at the date that this Act receives the Royal assent continue in force and those rules, as altered, amended, added to, or revoked under section 148, are deemed to be part of this Act.
-(2) Despite subsection (1), the High Court Rules do not need to be published as part of this Act.
-(3) See section 154, which provides for how the High Court Rules must be published.
+(2) However, the High Court Rules and consolidations of those rules must be published, as the High Court Rules 2016, as if they were secondary legislation (rather than as part of this Act).
+(3) The Legislation Act 2019 applies accordingly to the rules published in that way.
+(4) The Chief Parliamentary Counsel may add to the rules, as published,—
+  (a) minimum legislative information (within the meaning of the Legislation Act 2019); and
+  (b) any other information that the Chief Parliamentary Counsel considers to be necessary or appropriate for the purposes of arranging publication of the rules and making them accessible for users.
 
 ### 148 Rules of practice and procedure generally
 (1) The Governor-General may, by Order in Council, make rules of practice and procedure for each of the senior courts relating to the purpose stated in section 145.
@@ -1173,6 +1178,9 @@ The purpose of rules of practice and procedure is to facilitate—
   (a) alter, amend, add to, or revoke existing High Court Rules, other rules of the High Court, rules of the Court of Appeal, or rules of the Supreme Court; and
   (b) revoke existing High Court Rules, other rules of the High Court, rules of the Court of Appeal, or rules of the Supreme Court and replace them with new rules; and
   (c) fix scales of costs.
+(4) The following are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements):
+  (a) rules under this section:
+  (b) rules of practice and procedure for a senior court under any other enactment.
 
 ### 149 Rules of practice and procedure of High Court
 Without limiting the matters on which rules may be made under section 148, rules may be made under that section in relation to the practice and procedure of the High Court—
@@ -1216,11 +1224,7 @@ The power to make rules of practice and procedure in relation to civil proceedin
 (2) To the extent that the provisions of any Act prescribing the form or manner in which any of those applications are to be made (whether by petition, motion, summons, or otherwise) are inconsistent with or repugnant to rules made or having effect under this Act, the Act prescribing that form or manner is deemed to be subject to the rules made or having effect under this Act.
 
 ### 154 Publication of High Court Rules under Legislation Act 2012
-(1) The High Court Rules and reprints of those rules must be published under the Legislation Act 2012, as the High Court Rules 2016, as if they were a legislative instrument within the meaning of the Legislation Act 2012.
-(2) The Legislation Act 2012 applies accordingly to the rules published in that way.
-(3) However, the Chief Parliamentary Counsel may add to the instrument, as published,—
-  (a) the information specified in section 12(2)﻿(a) to (d) of the Legislation Act 2012; and
-  (b) any other information that the Chief Parliamentary Counsel considers to be necessary or appropriate for the purposes of arranging publication of the instrument and making it accessible for users.
+[Repealed]
 
 ### 155 Rules Committee
 (1) For the purposes of this Act, the District Court Act 2016, the Criminal Procedure Act 2011, and any other relevant Act, there continues to be a Rules Committee consisting of—
@@ -1256,6 +1260,7 @@ The power to make rules of practice and procedure in relation to civil proceedin
   (g) altering or revoking any rules relating to fees contained in the High Court Rules, any rules made under section 148, or any other rules of court:
   (h) providing for such matters as are contemplated by or necessary for giving full effect to the provisions of this Act and for its due administration.
 (2) Regulations made under this section may prescribe different fees in respect of proceedings in different courts.
+(3) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 157 Regulations providing for waiver, etc, of fees
 (1) In order to promote access to justice, the Governor-General may, by Order in Council, make regulations authorising a Registrar or Deputy Registrar of a senior court to waive, reduce, or postpone the payment of a fee required in connection with a proceeding or an intended proceeding, or to refund in whole or in part a fee that has already been paid.
@@ -1266,12 +1271,14 @@ The power to make rules of practice and procedure in relation to civil proceedin
   (a) for assessing a person's ability to pay a fee; and
   (b) for identifying proceedings that concern matters of genuine public interest.
 (4) No fee is payable for an application for the exercise of a power specified in subsection (1).
+(5) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 158 Postponement of fees
 (1) The Governor-General may, by Order in Council, make regulations authorising a Registrar or Deputy Registrar to postpone the payment of a fee pending the determination of—
   (a) an application for the exercise of a power specified in section 157(1); or
   (b) an application for review under section 160.
 (2) No fee is payable for an application for the exercise of a power specified in subsection (1).
+(3) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 159 Manner in which section 157 or 158 applications to be made
 Regulations made under section 156 may provide for the manner in which an application for the exercise of a power specified in section 157(1) or 158(1) is to be made, including, without limitation, requiring an application to be in a form approved for the purpose by the chief executive of the Ministry of Justice.
@@ -1416,6 +1423,7 @@ A Judge or Registrar of a senior court may, subject to any terms or conditions t
 (4) Nothing in this section or an approved information sharing agreement under the Privacy Act 2020 requires the Ministry of Justice to disclose any matter suppressed by or under a court order or any enactment.
 (5) The Governor-General may, by Order in Council made on the recommendation of the Minister of Justice, amend or replace Part B of the items relating to court information in Schedule 2.
 (6) The Minister of Justice may make a recommendation under subsection (5) only after consultation with the Attorney-General and with the consent of the Chief Justice.
+(7) An order under subsection (5) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 175 Requirements that Registrars disclose information
 (1) If any enactment requires a Registrar to notify a registration authority of certain information about any court proceedings, that requirement is not affected by any suppression order imposed by the court or by operation of law.
