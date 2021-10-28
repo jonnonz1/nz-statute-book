@@ -1,5 +1,5 @@
 # Diplomatic Privileges and Immunities Act 1968
-_Consolidation as at 2005-01-25_
+_Consolidation as at 2021-10-28_
 
 > An Act to consolidate and amend the law relating to diplomatic privileges and immunities, and to give effect to the Vienna Convention on Diplomatic Relations
 
@@ -43,6 +43,7 @@ The provisions of this Part shall, with respect to the matters dealt with therei
 (7) For the purposes of subsections (2) and (3),—
   (a) the term mission includes an office of the representatives of the governing authority of any country, province of a country, or component of a federal state; and
   (b) the term State includes any country, province of a country, or component of a federal state.
+(8) An order under subsection (3) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 6 Immunities of certain members of the staff of a mission who are New Zealand citizens or residents
 The members of the administrative and technical staff, and members of the service staff, of a mission who are New Zealand citizens or are permanently resident in New Zealand shall be accorded immunity from jurisdiction, and inviolability, in respect of official acts performed in the exercise of their functions.
@@ -50,6 +51,7 @@ The members of the administrative and technical staff, and members of the servic
 ### 7 Withdrawal of diplomatic privileges and immunities
 (1) Where the Governor-General is satisfied that the privileges and immunities accorded in relation to a mission of New Zealand in any State, or to persons connected with that mission, are less than those conferred by or by virtue of this Part in relation to the mission of that State, or to persons connected with that mission, he may, by Order in Council, withdraw, modify, or restrict, in relation to that mission or to persons connected with that mission, such of the privileges and immunities so conferred to such extent as appears to him to be proper.
 (2) Any Order in Council under subsection (1) shall be disregarded for the purposes of paragraph (a) of subsection (2) of section 6 of the Citizenship Act 1977 (which relates to the citizenship of the children of certain persons possessing diplomatic immunities).
+(3) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ## Part 2 — Privileges and immunities of international organisations or tribunals and associated persons, and representatives attending international conferences
 
@@ -65,7 +67,8 @@ The members of the administrative and technical staff, and members of the servic
     (ii) such officers or classes of officers of the organisation as are specified in the order, being the holders of such high offices in the organisation as are so specified:
     (iii) such persons employed on missions on behalf of the organisation as are specified in the order,—
   (c) confer upon such other classes of officers and servants of the organisation as are specified in the order, to such extent as may be so specified, the privileges and immunities specified in Schedule 4,—
-  provided that no Order in Council under this subsection shall confer any privilege or immunity upon any person as the representative of Her Majesty in right of New Zealand or of the Government of New Zealand or as a member of the staff of such a representative.
+  provided that no Order in Council under this subsection shall confer any privilege or immunity upon any person as the representative of the Sovereign in right of New Zealand or of the Government of New Zealand or as a member of the staff of such a representative.
+(3) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 9A Privileges, immunities, and capacities of the Commonwealth Secretariat and associated persons
 (1) The Governor-General may from time to time, by Order in Council,—and Schedule 5 shall have effect for the purpose of extending to the staffs of such representatives and members as are mentioned in paragraph (b)﻿(i) and to the members of the families forming part of the household of officers of the Commonwealth Secretariat mentioned in paragraph (b)﻿(ii) any privileges and immunities conferred on the representatives, members, or officers under those subparagraphs, except in so far as some or all of the operation of the said Schedule 5 is excluded by the order conferring the privileges and immunities:
@@ -75,8 +78,9 @@ The members of the administrative and technical staff, and members of the servic
     (ii) such officers or classes of officers of the Commonwealth Secretariat as are specified in the order, being the holders of such high offices in the Commonwealth Secretariat as are so specified:
     (iii) such persons employed on missions on behalf of the Commonwealth Secretariat as are specified in the order,—
   (c) confer upon such other classes of officers and servants of the Commonwealth Secretariat as are specified in the order, to such extent as may be so specified, the privileges and immunities specified in Schedule 4,—
-  provided that no Order in Council under this subsection shall confer any privilege or immunity upon any person as the representative of Her Majesty in right of New Zealand or of the Government of New Zealand or as a member of the staff of such a representative.
+  provided that no Order in Council under this subsection shall confer any privilege or immunity upon any person as the representative of the Sovereign in right of New Zealand or of the Government of New Zealand or as a member of the staff of such a representative.
 (2) Schedules 2, 4, and 5 shall apply with respect to the Commonwealth Secretariat and to associated persons as if every reference in those schedules to an organisation included a reference to the Secretariat.
+(3) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 9AA Validation of certain Orders in Council
 (1) Every Order in Council made under section 9(2)﻿(a), in so far as it purports to have granted an exemption in terms of clause 4 of Schedule 2, is deemed to have granted an exemption from taxes and rates, other than taxes on the importation of goods, as if—
@@ -96,18 +100,21 @@ The members of the administrative and technical staff, and members of the servic
   (b) private servants of members of an EC delegation.
 (3) Schedule 5 extends to the members of the families forming part of the household of members of an EC delegation who are mentioned in subsection (1) any privileges and immunities conferred on the members under that subsection, except in so far as some or all of the operation of Schedule 5 is excluded by the order conferring the privileges and immunities.
 (4) No Order under this section may confer any privilege or immunity upon any person—
-  (a) as the representative of Her Majesty in right of New Zealand or of the Government of New Zealand; or
+  (a) as the representative of the Sovereign in right of New Zealand or of the Government of New Zealand; or
   (b) as a member of the staff of such a representative.
 (5) An Order made under section 9(2)﻿(a) in respect of the European Commission may, in accordance with this section, also confer privileges and immunities on members, or on private servants of members, of EC delegations, and nothing in this section limits the application of section 9(2)﻿(b) and (c) to persons associated with the European Commission.
+(6) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 10 Privileges and immunities of Judges of, and suitors to, the International Court of Justice
-The Governor-General may from time to time, by Order in Council, confer on the Judges and Registrars of the International Court of Justice established by the Charter of the United Nations, and on suitors to that court and their agents, counsel, and advocates, such privileges, immunities, and facilities as may be required to give effect to any resolution of, or convention approved by, the General Assembly of the United Nations.
+(1) The Governor-General may from time to time, by Order in Council, confer on the Judges and Registrars of the International Court of Justice established by the Charter of the United Nations, and on suitors to that court and their agents, counsel, and advocates, such privileges, immunities, and facilities as may be required to give effect to any resolution of, or convention approved by, the General Assembly of the United Nations.
+(2) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 10A Facilitation of international inspectors under disarmament treaties
-The Governor-General may from time to time, by Order in Council,—
+(1) The Governor-General may from time to time, by Order in Council,—
   (a) confer upon any persons who are appointed as inspectors pursuant to any international agreement on disarmament or arms control to which New Zealand is a party all or any of the privileges and immunities specified in Schedule 3; and
   (aa) confer upon any persons to whom Part II, Section B of the Verification Annex to the Convention on the Prohibition of the Development, Production, Stockpiling and Use of Chemical Weapons and on their Destruction applies (which Convention is set out in the Schedule of the Chemical Weapons (Prohibition) Act 1996) such additional privileges and immunities as are required by that Convention; and
   (b) make provision (subject to and consistent with any other international obligations and commitments binding upon New Zealand) for any such persons so appointed to have access to all such information and to all such places in New Zealand as may be relevant to enable those persons to carry out their official duties.
+(2) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 10B Privileges and immunities of Judges, Prosecutor, and staff of International War Crimes Tribunal
 (1) For the purposes of this section, a tribunal means—
@@ -115,12 +122,14 @@ The Governor-General may from time to time, by Order in Council,—
   (b) the International Criminal Tribunal for the Prosecution of Persons Responsible for Genocide and other Serious Violations of International Humanitarian Law Committed in the Territory of Rwanda and Rwandan citizens responsible for genocide and other such violations committed in the territory of neighbouring States, between 1 January 1994 and 31 December 1994 established by the Security Council of the United Nations acting under Chapter VII of the Charter of the United Nations; and
   (c) any other tribunal that the Governor-General, by Order in Council, declares to be a tribunal for the purposes of the International War Crimes Tribunals Act 1995.
 (2) The Governor-General may from time to time by Order in Council confer on the Judges, Prosecutor, and staff of a tribunal such privileges and immunities as may be required by the Statute of the Tribunal as defined in section 2 of the International War Crimes Tribunals Act 1995.
+(3) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 10C Privileges and immunities of members of International Tribunal for the Law of the Sea
 (1) In this section,—
   - **Convention** means the United Nations Convention on the Law of the Sea, done at Montego Bay, Jamaica, on 10 December 1982
   - **tribunal** means the International Tribunal for the Law of the Sea established in accordance with Annex VI of the Convention.
 (2) The Governor-General may from time to time, by Order in Council, confer on the members of the tribunal such privileges and immunities as may be required by Article 10 of Annex VI of the Convention.
+(3) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 10D Privileges and immunities of International Criminal Court and its Judges, Prosecutor, Deputy Prosecutors, and staff
 (1) In this section and section 10E,—
@@ -147,6 +156,7 @@ The Governor-General may from time to time, by Order in Council,—
   (b) refer to the purpose of conferring the privileges and immunities (as set out in Articles 25 and 26 of the Agreement); and
   (c) refer to how the privileges and immunities may be waived (as set out in Article 48(5) of the Rome Statute and Articles 25 and 26 of the Agreement); and
   (d) extend the privileges and immunities conferred on the persons referred to in subsection (2)﻿(b) and (c) to members of their families forming part of their households (as contemplated by Article 48(2) of the Rome Statute and to the extent provided in Articles 15 and 16 of the Agreement).
+(4) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 10E Privileges and immunities of representatives at Assembly of States Parties or its subsidiary organs
 (1) The Governor-General may, by Order in Council, confer such privileges and immunities as may be required by Article 13 of the Agreement on the following persons:
@@ -154,11 +164,13 @@ The Governor-General may from time to time, by Order in Council,—
   (b) representatives of States attending meetings of the Assembly of States Parties or any of its subsidiary organs as observers, as permitted by Article 112(1) of the Rome Statute:
   (c) representatives of States or intergovernmental organisations invited to meetings of the Assembly of States Parties or any of its subsidiary organs.
 (2) An Order in Council made under subsection (1) may refer to the purpose of conferring the privileges and immunities and how the privileges and immunities may be waived (as set out in Article 25 of the Agreement).
+(3) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 11 Privileges and immunities of representatives attending international conferences
-Where—the Minister may, by notice in the Gazette, direct that every representative of any such Government (other than the Government of New Zealand) shall be accorded such of the privileges and immunities conferred by or by virtue of Part 1 on a diplomatic agent as the Minister specifies, and that such of the members of his official staff as the Minister may direct shall be accorded such of the privileges and immunities conferred by or by virtue of Part 1 on members of the diplomatic staff or the administrative and technical staff of a diplomatic mission as the Minister specifies.
+(1) Where—the Minister may, by notice, direct that every representative of any such Government (other than the Government of New Zealand) shall be accorded such of the privileges and immunities conferred by or by virtue of Part 1 on a diplomatic agent as the Minister specifies, and that such of the members of his official staff as the Minister may direct shall be accorded such of the privileges and immunities conferred by or by virtue of Part 1 on members of the diplomatic staff or the administrative and technical staff of a diplomatic mission as the Minister specifies.
   (a) a conference is held in New Zealand and is attended by representatives of the Government of New Zealand and the Government or Governments of 1 or more States or of any of the territories for whose international relations any of those Governments is responsible; and
   (b) it appears to the Minister that doubts may arise as to the extent to which the representatives of those Governments (other than the Government of New Zealand) and members of their official staffs are entitled to privileges and immunities,—
+(2) A direction under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 12 Reciprocal treatment
 Nothing in the foregoing provisions of this Part shall be construed as precluding the Governor-General in Council from declining to accord privileges or immunities to, or from withdrawing, modifying, or restricting privileges or immunities in relation to, nationals or representatives of any State, or the Government thereof, on the ground that that State, or the Government thereof, is failing to accord corresponding privileges or immunities to New Zealand nationals or representatives.
@@ -188,10 +200,11 @@ Nothing in the foregoing provisions of this Part shall be construed as precludin
 ### 19 Power to grant exemption from taxation to other Governments and other representatives in New Zealand
 (1) Notwithstanding anything to the contrary in any Act, the Minister, with the concurrence of the Minister of Finance, may from time to time wholly or partly exempt from any public or local tax, duty, rate, levy, or fee any of the following Governments or persons:
   (a) the Government of any State or the Government of any territory for whose international relations the Government of any such State is responsible:
-  (b) a representative or officer of the Government of any country other than New Zealand, or of any provisional Government, national committee, or other authority recognised by Her Majesty in right of New Zealand, if he is temporarily resident in New Zealand in accordance with any arrangement made with the Government of New Zealand:
+  (b) a representative or officer of the Government of any country other than New Zealand, or of any provisional Government, national committee, or other authority recognised by the Sovereign in right of New Zealand, if he is temporarily resident in New Zealand in accordance with any arrangement made with the Government of New Zealand:
   (c) a member of the official or domestic staff, or of the family, of any person to whom paragraph (b) applies.
 (2) Where a person who is a member of the official or domestic staff of a person to whom paragraph (b) of subsection (1) applies is a New Zealand citizen and not a citizen of the country concerned, or is not resident in New Zealand solely for the purpose of performing his duties as such a member, that person shall not, and a member of the family of that person shall not by reason only of his being a member of that family, be entitled to any exemption granted under subsection (1).
 (3) In this section the term member of the family, in relation to any person, means the spouse or any dependent child of that person.
+(4) An exemption under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 20 General provisions as to exemptions
 (1) The powers conferred on the Governor-General in Council by section 9 or section 9A or section 10 or on the Minister by section 19 shall be deemed to include power to exempt from any fee or duty under any Act any instrument or class of instruments to which any organisation, Government, or person, as the case may be, to which or to whom the order or exemption applies is a party.
@@ -215,7 +228,8 @@ If in any proceedings any question arises whether or not any person or any organ
 This Act shall not affect any legal proceedings begun before the commencement of this Act.
 
 ### 24 Regulations
-The Governor-General may from time to time, by Order in Council, make regulations providing for such matters as are contemplated by or necessary for giving full effect to this Act and for the due administration thereof.
+(1) The Governor-General may from time to time, by Order in Council, make regulations providing for such matters as are contemplated by or necessary for giving full effect to this Act and for the due administration thereof.
+(2) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 25 Application of Act to Niue and Tokelau
 (1) This Act shall be in force in Niue and in Tokelau.
