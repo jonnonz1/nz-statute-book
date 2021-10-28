@@ -1,5 +1,5 @@
 # Arms Act 1983
-_Consolidation as at 2021-09-26_
+_Consolidation as at 2021-10-28_
 
 > Title
 
@@ -231,7 +231,7 @@ The transitional, savings, and related provisions set out in Schedule 1 have eff
   (a) any weapon (including an airgun) to be a restricted weapon; or
   (b) any airgun to be a specially dangerous airgun.
 (2) Any Order in Council made under this section may relate to any weapon or airgun specified by its name or trade name, or to any class of weapons or airguns identified by a description of that class.
-(3) An Order in Council made under this section is a legislative instrument and a disallowable instrument for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
+(3) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 4A Persons who may apply to import, manufacture, sell, supply, possess, or use prohibited items
 (1) Only the following persons may apply to import, sell, supply, possess, or use a prohibited item in accordance with the provisions of this Act and in their capacity as—
@@ -1134,7 +1134,7 @@ Without limiting the generality of the provisions of sections 5, 9, 24, 27, 29, 
 
 ### 37 Surrender of restricted weapon
 (1) Subject to subsection (2) or an endorsement made under section 30, no person shall at any time be in possession of a restricted weapon, or of any part or parts intended or adapted for use as part of a restricted weapon.
-(2) Before the expiry of 1 month after the notification in the New Zealand Gazette of an Order in Council declaring any weapon to be a restricted weapon, every person in possession of any such weapon or any part or parts intended or adapted for use as part of such a weapon shall cause the weapon, or the parts,—
+(2) Before the expiry of 1 month after the publication under the Legislation Act 2019 of an Order in Council declaring any weapon to be a restricted weapon, every person in possession of any such weapon or any part or parts intended or adapted for use as part of such a weapon shall cause the weapon, or the parts,—
   (a) to be destroyed; or
   (b) to be disposed of to a person approved by the Commissioner; or
   (c) to be exported from New Zealand; or
@@ -1855,21 +1855,25 @@ No action, claim, or demand whatsoever shall lie or be made or allowed by or in 
 (2)
 (3) Regulations under subsection (1)﻿(pa) may be made only on the recommendation of the Minister of Police after being satisfied that the Commissioner has consulted the Privacy Commissioner about the proposed regulations.
 (4) Subject to subsection (3), regulations may be made under this section only on the recommendation of the Minister of Police after being satisfied that the Commissioner has done everything reasonable to consult persons or organisations (or representatives of those organisations) that appear to the Commissioner to be affected or likely to be affected by the regulations, except where the Minister is satisfied that in the circumstances it was not practicable to consult to that extent or to carry out any consultation.
-(5) No regulations made under subsection (1)﻿(ja) may come into force earlier than 3 months after the date of their notification in the Gazette unless the Minister is satisfied that in all the circumstances there are reasons that justify an earlier commencement date and recommends accordingly.
+(5) No regulations made under subsection (1)﻿(ja) may come into force earlier than 3 months after the date of their publication under the Legislation Act 2019 unless the Minister is satisfied that in all the circumstances there are reasons that justify an earlier commencement date and recommends accordingly.
+(6) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+(7) If regulations authorise a person to grant exemptions referred to in subsection (1)﻿(q),—
+  (a) an exemption is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements), unless it applies only to 1 or more named persons; and
+  (b) the regulations must contain a statement to that effect.
 
 ### 74A Order in Council relating to definitions of prohibited firearm and prohibited magazine, and declaring prohibited ammunition
-The Governor-General may, by Order in Council made on the recommendation of the Minister of Police,—
+(1) The Governor-General may, by Order in Council made on the recommendation of the Minister of Police,—
   (a) amend the description in section 2A of a semi-automatic firearm (except a small semi-automatic pistol) or pump-action shotgun that is a prohibited firearm:
   (b) amend the description in section 2B of a magazine that is a prohibited magazine:
   (c) declare any semi-automatic firearm (except a small semi-automatic pistol) or pump-action firearm of a stated name or description to be a prohibited firearm for the purposes of this Act:
   (d) declare any magazine of a stated name or description to be a prohibited magazine for the purposes of this Act:
   (e) declare any ammunition to be prohibited ammunition for the purposes of this Act.
+(2) An order under this section—
+  (a) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements); and
+  (b) must be confirmed by an Act (see subpart 3 of Part 5 of the Legislation Act 2019).
 
 ### 74B Orders under section 74A are confirmable instruments
-The explanatory note of an Order in Council made under section 74A must indicate that—
-  (a) it is a confirmable instrument under section 47B of the Legislation Act 2012; and
-  (b) it is revoked at a time stated in the note, unless earlier confirmed by an Act of Parliament; and
-  (c) the stated time is the applicable deadline under section 47C(1)﻿(a) or (b) of that Act.
+[Repealed]
 
 ### 74C Regulations providing for transitional matters relating to Arms (Prohibited Firearms, Magazines, and Parts) Amendment Act 2019
 [Repealed]
@@ -1890,6 +1894,7 @@ The explanatory note of an Order in Council made under section 74A must indicate
   - **amendment Act** means the Arms Legislation Act 2020
   - **amnesty period** has the meaning given in clause 8 of Schedule 1
   - **specified item** has the meaning given in clause 8 of Schedule 1.
+(4) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 75 Consequential amendment to Summary Proceedings Act 1957
 Amendment(s) incorporated in the Act(s).
@@ -1973,12 +1978,16 @@ The Minister of Police may recommend that regulations be made under section 86 o
 ### 85 Exemptions, waivers, and refunds
 (1) Regulations made under section 86 may provide for exemptions from, or waivers or refunds of, any fee or charge prescribed by regulations made under this Act, in whole or in part, in any class of case.
 (2) Regulations made under section 86 may authorise the Commissioner, as the Commissioner thinks fit in the circumstances specified in those regulations, to exempt, waive, or refund the whole or any part of a fee or charge prescribed by the regulations.
+(3) If regulations authorise the Commissioner to exempt, waive, or refund the whole or any part of a fee or charge,—
+  (a) the instrument granting an exemption, waiver, or refund is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements), unless it applies only to 1 or more named persons; and
+  (b) the regulations must contain a statement to that effect.
 
 ### 86 Regulations relating to cost recovery
-The Governor-General may, by Order in Council on the recommendation of the Minister of Police made after consultation in accordance with section 82,—
+(1) The Governor-General may, by Order in Council on the recommendation of the Minister of Police made after consultation in accordance with section 82,—
   (a) make regulations prescribing fees or charges for specified activities in accordance with sections 79 to 83:
   (b) make regulations for the purposes of section 84:
   (c) make regulations for the purposes of section 85.
+(2) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 **Guidance notices**
 
@@ -1996,7 +2005,7 @@ The Governor-General may, by Order in Council on the recommendation of the Minis
 (3) The Commissioner must—
   (a) publish the notice in the Gazette; or
   (b) notify in the Gazette the fact that the notice has been made and state in that notification where members of the public can access a copy of the notice in electronic form.
-(4) A notice issued under this section is neither a disallowable instrument nor a legislative instrument for the purposes of the Legislation Act 2012.
+(4)
 
 **Arms Advisory Group**
 
@@ -2071,7 +2080,7 @@ The Governor-General may, by Order in Council on the recommendation of the Minis
 ### Part 1 — Provisions relating to Arms (Prohibited Firearms, Magazines, and Parts) Amendment Act 2019
 
 ### 1 Interpretation
-In this Part,—
+(1) In this Part,—
   - **Act** means the Arms Act 1983
   - **amendment Act** means the Arms (Prohibited Firearms, Magazines, and Parts) Amendment Act 2019
   - **amnesty period** means the period—
@@ -2080,6 +2089,7 @@ In this Part,—
       (i) the date that is 6 months after the first date on which regulations made under clause 7 come into force; or
       (ii) any later date prescribed by Order in Council
   - **commencement** means the date on which the amendment Act comes into force.
+(2) An order under paragraph (b)﻿(ii) of the definition of amnesty period in subclause (1) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 2 Permits to import issued for purposes of section 16(1) of Act before commencement are revoked
 (1) A permit issued for the purposes of section 16(1) of this Act (as in force immediately before commencement) is revoked to the extent that it authorises the importation of a firearm, magazine, or part that,—
@@ -2133,11 +2143,15 @@ In this Part,—
   (b) any consequential loss; or
   (c) any loss for business interruption; or
   (d) any loss attributable to intrinsic or sentimental value.
+(5) Regulations under subclause (1) are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+(6) If the regulations provide under subclause (2)﻿(e) for the Commissioner to determine an amount of compensation or the method for calculating an amount of compensation,—
+  (a) the instrument by which an amount or a method is determined is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements), unless the instrument applies only to 1 or more named persons; and
+  (b) the regulations must contain a statement to that effect.
 
 ### Part 2 — Provisions relating to Arms Legislation Act 2020
 
 ### 8 Interpretation
-In this Part,—
+(1) In this Part,—
   - **amendment Act** means the Arms Legislation Act 2020
   - **amnesty period** means the period—
     (a) beginning on the commencement date; and
@@ -2158,6 +2172,7 @@ In this Part,—
       (ii) a semi-automatic pistol held by a person referred to in section 2A(3):
     (c) a centrefire pump-action rifle that is capable of being used with a detachable magazine:
     (d) a centrefire pump-action rifle that has 1 or more non-detachable magazines (tubular or otherwise) capable of holding more than 10 cartridges commensurate with that firearm’s chamber size.
+(2) An order under paragraph (b)﻿(ii) of the definition of amnesty period in subclause (1) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 9 Duration of firearms licences issued or applied for before commencement date
 (1) If a firearms licence is issued on or after 10 February 2020 on an application made on or after that date but before the commencement date, the licence is treated as having effect only for 5 years in the case of an applicant who—
@@ -2231,6 +2246,10 @@ In this Part,—
   (b) any consequential loss; or
   (c) any loss for business interruption; or
   (d) any loss attributable to intrinsic or sentimental value.
+(5) Regulations under subclause (1) are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+(6) If the regulations provide under subclause (2)﻿(e) for the Commissioner to determine an amount of compensation or the method for calculating an amount of compensation,—
+  (a) the instrument by which an amount or a method is determined is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements), unless the instrument applies only to 1 or more named persons; and
+  (b) the regulations must contain a statement to that effect.
 
 ### 1 Short Title and commencement
 (1) This Act may be cited as the Arms Amendment Act 1992, and shall be read together with and deemed part of the Arms Act 1983 (hereinafter referred to as “the principal Act”).
