@@ -1,5 +1,5 @@
 # Psychoactive Substances Act 2013
-_Consolidation as at 2020-12-08_
+_Consolidation as at 2021-10-28_
 
 ### 1 Title
 This Act is the Psychoactive Substances Act 2013.
@@ -354,10 +354,8 @@ A licence may not be transferred to, or vest by operation of law in, a person ot
 (3) In developing the code and any amendments to it, the Authority must—
   (a) be guided by the principles of this Act:
   (b) consult persons or organisations that the Authority considers to be representative of the interests of persons likely to be affected by the code or the proposed amendments to it.
-(4) The Authority must ensure that the code, and any amendment to the code,—
-  (a) specifies the date on which it takes effect:
-  (b) is published on an Internet site maintained by, or on behalf of, the Authority:
-  (c) is available for purchase in hard copy, at a reasonable cost, from the Authority.
+(4) The Authority must ensure that the code, and any amendment to the code, specifies the date on which it takes effect.
+(5) The code is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 30 Audit of manufacturing facilities
 (1) This section applies to a manufacturing facility in which a psychoactive substance is being manufactured under a licence to manufacture.
@@ -1038,6 +1036,7 @@ The methods by which costs may be recovered under this subpart are as follows:
   (c) exempt any person or classes of persons from paying the fees or charges:
   (d) provide for waivers or refunds of the whole or any part of fees or charges.
 (3) If an exemption is provided under subsection (2)﻿(c), the reasons for it must be set out in the explanatory note of the regulations.
+(4) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 96 Regulations imposing levies
 (1) The Governor-General may, by Order in Council made on the recommendation of the Minister, make regulations providing for the payment of a levy.
@@ -1051,6 +1050,7 @@ The methods by which costs may be recovered under this subpart are as follows:
   (g) provide for waivers or refunds of the whole or any part of the levy:
   (h) provide for any other matters necessary or desirable to set, calculate, administer, collect, and enforce the levy.
 (3) If an exemption is provided under subsection (2)﻿(f), the reasons for it must be set out in the explanatory note of the regulations.
+(4) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 97 Failure to pay fee, charge, or levy
 (1) This section applies if a fee, charge, or levy imposed by regulations made under section 95 or 96 is wholly or partly unpaid 20 working days after a request for payment.
@@ -1081,11 +1081,13 @@ The methods by which costs may be recovered under this subpart are as follows:
   (a) be satisfied that the proposed regulations are reasonably necessary for achieving the purpose of this Act; and
   (b) seek, and have regard to, the advice of the advisory committee in respect of the proposed regulations; and
   (c) consult any person or organisation that the Minister considers to be representative of the interests of persons likely to be substantially affected by the proposed regulations.
+(3) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 100 Regulations relating to infringement offences
-The Governor-General may, by Order in Council, make regulations for 1 or more of the following purposes:
+(1) The Governor-General may, by Order in Council, make regulations for 1 or more of the following purposes:
   (a) prescribing the infringement fees payable for infringement offences:
   (b) prescribing the form of infringement notices and reminder notices for infringement offences and any other particulars to be contained in an infringement notice and reminder notice.
+(2) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 101 Other regulations
 (1) The Governor-General may, by Order in Council made on the recommendation of the Minister, make regulations for 1 or more of the following purposes:Applications for licences and approvalsPlace-of-sale restrictions or prohibitionsInternet sales restrictions or requirementsAdvertising restrictions or requirementsLabelling restrictions or requirementsPackaging restrictions or requirementsHealth warningsSignage requirementsQuantity, dosage, and serving restrictions or requirementsRestrictions or prohibitions on form of approved productsStorage, display, and disposal restrictions or requirementsPrescribing telephone serviceConfidential supporting informationProcedureRecord-keeping requirementsGeneral
@@ -1130,6 +1132,7 @@ The Governor-General may, by Order in Council, make regulations for 1 or more of
 (3) Regulations made under this section may—
   (a) apply to psychoactive substances or approved products generally or to any particular psychoactive substance or approved product or any class or description of psychoactive substances or approved products specified or described in the regulations:
   (b) apply differently to different classes or descriptions of psychoactive substances or approved products or on any other differential basis.
+(4) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 **Delegation of Authority's functions, duties, or powers**
 
