@@ -1,5 +1,5 @@
 # Measurement Standards Act 1992
-_Consolidation as at 1992-06-16_
+_Consolidation as at 2021-10-28_
 
 > An Act to provide for uniform units of measurement of physical quantities and for standards of measurement of physical quantities
 
@@ -30,6 +30,7 @@ The Minister shall provide for the use throughout New Zealand of uniform units o
   (d) authorising any such verifying authority to delegate all or any of the powers of that authority:
   (e) providing for such matters as are contemplated by or necessary for giving full effect to the provisions of this Act and for the due administration thereof.
 (2) The National Standards Regulations 1976 (SR 1976/239) are hereby deemed to have been made under this section, and may be amended or revoked accordingly.
+(3) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 6 Amendments to Weights and Measures Act 1987
 Amendment(s) incorporated in the Act(s).
