@@ -1,5 +1,5 @@
 # Wine Act 2003
-_Consolidation as at 2020-08-07_
+_Consolidation as at 2021-10-28_
 
 ### 1 Title
 This Act is the Wine Act 2003.
@@ -10,6 +10,7 @@ This Act is the Wine Act 2003.
 (1) This Act comes into force on 1 January 2004, except for sections 123(1) and 124(2).
 (2) Section 123(1) comes into force on the close of 30 June 2005, or on such earlier date as the Governor-General may fix by Order in Council.
 (3) Section 124(2) comes into force on the close of 30 June 2004.
+(4) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 3 Objects of Act
 The objects of this Act are to—
@@ -47,7 +48,7 @@ The objects of this Act are to—
     (a) New Zealand Winegrowers Incorporated:
     (b) the New Zealand Fruit Wine and Cider Makers Association:
     (c)
-    (d) any other body specified as an industry organisation for the purposes of this definition by the Minister by notice in the Gazette:
+    (d) any other body specified as an industry organisation for the purposes of this definition by the Minister by notice (see subsection (5)):
     (e) the successors in title of any of those bodies
   - **infringement fee** , in relation to an infringement offence, means the amount set out in regulations made under section 96E to be payable for the offence
   - **infringement offence** means an offence identified in regulations made under section 96E as an infringement offence
@@ -135,6 +136,9 @@ The objects of this Act are to—
 (2) In this Act, fit for intended purpose, used in relation to wine, means wine that has been made in accordance with the requirements of this Act and that meets any relevant wine standards and supplementary notices and any relevant New Zealand food standards.
 (3) The Governor-General may, by Order in Council, amend or substitute the definitions of fruit wine or vegetable wine, grape wine, label, mead, and wine product to ensure consistency with New Zealand food standards.
 (4) Nothing in the definitions of fruit wine or vegetable wine, grape wine, mead, or wine product prevents the addition of any foods, food additives, or processing aids to such products if that addition to the particular product is permitted under the Food Act 2014.
+(5) The following are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements):
+  (a) a notice under paragraph (d) of the definition of industry organisation:
+  (b) an order under subsection (3).
 
 ### 4A Transitional, savings, and related provisions relating to amending Acts
 (1) The transitional, savings, and related provisions set out in Schedule 1 have effect according to their terms.
@@ -164,6 +168,7 @@ The objects of this Act are to—
   (f) such other matters as the Minister considers relevant.
 (4)
 (5) An exemption under this section may have retrospective effect.
+(6) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ## Part 2 — Winemaking and export of wine
 
@@ -217,6 +222,7 @@ The following persons must operate under a registered wine standards management 
   (b) for the purpose of facilitating access to overseas markets.
 (4) If an order under this section requires a wine standards management plan in respect of operations relating to wine, this Act (including the regulations and any notices under section 120) applies in relation to the wine unless the order provides otherwise.
 (5) If an order under this section requires a wine standards management plan in respect of operations relating to commodities, wine products, extension products, or partial process products, this Act (including the regulations and any notices under section 120) applies to the commodities, wine products, extension products, or partial process products as if they were wine unless the order provides otherwise.
+(6) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 13 Duties of operators of wine standards management plans
 An operator of a wine standards management plan has the following duties:
@@ -322,6 +328,10 @@ An operator of a wine standards management plan has the following duties:
 (3) The Minister may not recommend the making under subsection (1) of regulations that provide for exemptions to be granted unless satisfied that the regulations permit an exemption to be granted only if—
   (a) granting the exemption is necessary or desirable in the interests of avoiding unnecessary or undesirable duplication of equivalent duties or matters under this Act and the Food Act 2014; and
   (b) the extent of the exemption is not broader than is reasonably necessary for that purpose.
+(4) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+(5) If the regulations provide for the granting of exemptions under this section,—
+  (a) the instrument granting an exemption is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements), unless the instrument applies only to 1 or more named persons; and
+  (b) the regulations must contain a statement to that effect.
 
 **Registration of wine standards management plans**
 
@@ -543,6 +553,7 @@ Standards set under this subpart may apply in respect of any class, kind, or des
 (4)
 (5)
 (6) No standard may be prescribed that conflicts with any New Zealand food standard.
+(7) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 (7)
 
 ### 34 Prerequisites for prescribing standards
@@ -584,6 +595,7 @@ The object of this subpart is to facilitate the access of wine to overseas marke
   (c) set out procedures and requirements in relation to the export eligibility requirements.
 (5)
 (6) The Director-General may issue an export eligibility certificate for any wine if satisfied that the relevant export eligibility requirements and any supplementary notices have been met for that wine.
+(7) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 39 Exemption of certain consignments, wine, or persons
 (1) The Director-General may, by notice under section 120(1), exempt from all or any of the requirements of this subpart any particular consignment or wine or person, or any particular class or description of consignments or wine or persons, if the Director-General is satisfied that the consignment or wine to be exported is—
@@ -615,10 +627,14 @@ It is the duty of every exporter of wine to which this subpart applies—
 (1) The Director-General must—
   (a) either notify or ensure that there is made available to exporters and winemakers known to the Director-General any particular access requirements for overseas markets that New Zealand has recognised; and
   (b) make those requirements available for inspection free of charge, or for purchase at reasonable cost, to exporters and winemakers.
-(2) The Director-General may, where the Director-General considers it necessary or desirable, by notice under section 120(1), specify the manner in which the access requirements may or must be met, and must notify or make the notice available in the same way as requirements are notified or made available under subsection (1).
-(3) Nothing in subsection (1) prevents the Director-General from—
-  (a) charging for access to any website, or for information or services provided by any website; or
-  (b) in the case of overseas market access requirements that are commercially sensitive, limiting access to those requirements to persons who satisfy the Director-General that their specific export or processing activities cannot be properly undertaken under this Act unless they have that access.
+(2) The Director-General may, if the Director-General considers it necessary or desirable, by notice under section 120(1), specify the manner in which the access requirements may or must be met.
+(3) A notice for the purposes of subsection (2) must be published under the Legislation Act 2019 (see section 120(7)).
+(4) However, if, under the Legislation Act 2019, the notice is not required to be published, the Director-General—
+  (a) must notify or make it available to (in the same way as requirements are notified or made available under subsection (1)) exporters and winemakers who—
+    (i) are affected by the notice; and
+    (ii) satisfy the Director-General that their specific export or winemaking activities cannot be properly undertaken under this Act unless they have that access; and
+  (b) is not required to make it available to any other person.
+(5) This section does not prevent the Director-General from charging for access to any Internet site or for information or services provided by any Internet site.
 
 ### 42 Director-General may issue official assurances
 (1) For the purposes of meeting the overseas market access requirements of any foreign government that are notified or made available by the Director-General under section 41 in respect of any wine to be exported, the Director-General, or a person authorised by the Director-General under section 46, may, in appropriate cases, issue an official assurance in respect of that wine if satisfied that the relevant requirements of the importing country have been met.
@@ -773,6 +789,7 @@ A regulated person must, as and when required by the regulations or any suppleme
     (ii) the conducting of simulations and other tests of those procedures:
     (iii) the implementation of those procedures to trace or recall wine:
   (c) specify matters in relation to tracing and recall that must be included in wine standards management plans (see section 14).
+(3) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 **Verification**
 
@@ -801,6 +818,7 @@ A person who is subject to verification requirements under this Act must—
   (d) set out matters relating to the rights of verifiers and verifying agencies in relation to the undertaking of verification activities:
   (e) set reporting requirements for verifiers (see section 82H):
   (f) set out requirements relating to the exercise, carrying out, and managing of verification functions and activities (see sections 82G and 82H).
+(3) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 **Record keeping and reporting**
 
@@ -830,6 +848,7 @@ A person who is subject to verification requirements under this Act must—
     (ii) how, and for how long, the information must be kept:
     (iii) what information must be given under section 54G(1)﻿(c) and when, how, and to whom it must be given:
   (b) specify matters in relation to record keeping and reporting that must be included in wine standards management plans (see section 14).
+(4) Regulations under subsection (1) are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ## Part 3 — Officers, cost recovery, etc
 
@@ -1495,6 +1514,7 @@ The methods by which costs may be recovered under this subpart are as follows:
   (e) differ depending on the amount of service required or the components of the service required for the particular person or class of person.
 (5) Where regulations prescribe a formula for determining a fee or charge, the formula may specify the value of 1 or more of its components as being an amount or amounts notified for these components by the Director-General by notice under section 120(1).
 (6) The Minister may not recommend the making of regulations under this section unless satisfied that, to the extent appropriate in the circumstances, the requirements of sections 84 and 86 have been met.
+(7) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 89 Regulations may impose levies
 (1) The Governor-General may, by Order in Council made on the recommendation of the Minister, make regulations prescribing levies for the purposes of this Act, including levies payable on an ongoing basis by a person given a particular status under this Act (for example, for ongoing registration under subpart 3 of Part 2 or for ongoing recognition under sections 70 to 82Z).
@@ -1511,6 +1531,9 @@ The methods by which costs may be recovered under this subpart are as follows:
 (4) The Minister may not recommend the making of regulations under this section unless satisfied that, to the extent appropriate in the circumstances, the requirements of sections 84 and 86 have been met.
 (4A) Where regulations prescribe a formula for determining a levy, the formula may specify the value of 1 or more of its components as being an amount or amounts notified for those components by the Director-General by notice under section 120(1).
 (5) Nothing in this section or in this subpart affects the power of persons within the winemaking industry to determine to introduce and impose a levy on wine in accordance with section 111.
+(6) Regulations under this section—
+  (a) are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements); and
+  (b) must be confirmed by an Act (see subpart 3 of Part 5 of the Legislation Act 2019).
 
 ### 90 Trust accounts required to be kept by persons collecting levies
 (1) If regulations made under section 89 require the operation of a trust account for any levy money by the person responsible for collecting the levy,—
@@ -1533,7 +1556,12 @@ The methods by which costs may be recovered under this subpart are as follows:
 ### 92 Exemptions, waivers, and refunds
 (1) The regulations may provide for exemptions from, or waivers or refunds of, any fee, levy, or charge payable under this Act, in whole or in part, in any class of case.
 (2) Any such regulations may authorise the Director-General to grant an exemption, waiver, or refund in any particular case or class of case.
-(3) An exemption or a waiver granted under this section expires on the date specified in it, which must not be more than 5 years after the exemption is granted.
+(3) An exemption or a waiver granted under this section expires on the date specified in it, which must not be more than 5 years after—
+  (a) the exemption is granted; or
+  (b) if the instrument granting the exemption is secondary legislation, the instrument is published under the Legislation Act 2019.
+(4) If the regulations authorise the Director-General to grant an exemption, waiver, or refund under subsection (2),—
+  (a) the instrument granting an exemption, waiver, or refund is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements), unless the instrument applies only to a particular case; and
+  (b) the regulations must contain a statement to that effect.
 
 ### 93 Fees, levies, and charges to constitute debt due to Director-General
 Any fee, levy, or charge that has become payable is a debt due to the Director-General, and is recoverable as a debt by the Director-General in any court of competent jurisdiction. Until paid in full, it remains a debt due to the Crown.
@@ -1554,10 +1582,7 @@ Any fee, levy, or charge that has become payable is a debt due to the Director-G
 The obligation of a person to pay any fee, levy, or charge under this Act (including any penalty referred to in section 94), and the right of the Director-General to receive and recover the fee, levy, charge, or penalty, are not suspended by any dispute between the person and the Director-General regarding the person's liability to pay the fee, levy, or charge, or the amount of the fee, levy, or charge.
 
 ### 96 Levy regulations are confirmable instruments
-The explanatory note of regulations made under section 89 must indicate that—
-  (a) they are a confirmable instrument under section 47B of the Legislation Act 2012; and
-  (b) they are revoked at a time stated in the note, unless earlier confirmed by an Act of Parliament; and
-  (c) the stated time is the applicable deadline under section 47C(1)﻿(a) or (b) of that Act.
+[Repealed]
 
 ## Part 4 — Offences, penalties, and miscellaneous provisions
 
@@ -1610,11 +1635,12 @@ The explanatory note of regulations made under section 89 must indicate that—
 All infringement fees paid for infringement offences must be paid to the Ministry.
 
 ### 96E Regulations about infringement offences
-The Governor-General may, by Order in Council, make regulations to do all or any of the following:
+(1) The Governor-General may, by Order in Council, make regulations to do all or any of the following:
   (a) identify the offences in or under this Act that are infringement offences:
   (b) identify as an infringement offence an offence against section 103 for failing to comply with a specified provision, direction, condition, notice, or requirement:
   (c) set out notices and forms required for the purposes of sections 96A to 96D:
   (d) set out the amounts, up to $1,000, of infringement fees that are payable for infringement offences, including different fees for a first offence, a second offence, and subsequent offences.
+(2) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 **Offences, penalties, and proceedings**
 
@@ -1746,7 +1772,7 @@ The Governor-General may, by Order in Council, make regulations to do all or any
 ### 106 Presumption as to authority
 (1) A return, record, transaction, form, application, or other information purporting to be completed, kept, or provided by or on behalf of a person is for the purposes of this Act to be presumed to have been completed, kept, or provided by that person unless the contrary is proved.
 (2) The production of—is in all courts and in all proceedings sufficient evidence, until the contrary is proved, of the existence, notification, and contents of the notice.
-  (a) a document presented by a wine officer purporting to be a notice or an extract from a notice issued by the Director-General in accordance with section 116 or section 120, or a copy of any such notice or extract; and
+  (a) a document presented by a wine officer purporting to be a notice or an extract from a notice issued by the Director-General in accordance with section 120, or a copy of any such notice or extract; and
   (b) a copy of the Gazette in which the notice was notified—
 
 ### 107 Liability of body corporate
@@ -1858,9 +1884,11 @@ Except where the court making the order appealed from otherwise directs,—
   (b) every compliance order may be enforced in the same manner in all respects as if no such appeal were pending.
 
 ### 110L Rules of court
-In addition to all other powers conferred by the District Courts Act 1947, the Governor-General may from time to time, by Order in Council, make rules—
+(1) In addition to all other powers conferred by the District Courts Act 1947, the Governor-General may from time to time, by Order in Council, make rules—
   (a) regulating the practice and procedure of District Courts in proceedings under this Act that relate to compliance orders:
   (b) providing for such matters as are contemplated by or necessary or desirable for giving full effect to the provisions of this Act that relate to compliance orders.
+(2) Rules under subsection (1)﻿(b) are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+(3) As to rules referred to in subsection (1)﻿(a), see section 228 of the District Court Act 2016, which provides that court rules are secondary legislation.
 
 **Industry levies**
 
@@ -1954,18 +1982,7 @@ In addition to all other powers conferred by the District Courts Act 1947, the G
 (6) A failure to comply with this section does not affect the validity of any Order in Council, regulations, or notice.
 
 ### 116 Notification of notices under section 120
-(1) This section applies to notices issued by the Director-General under section 120 (other than notices issued for the purposes of section 41(2)).
-(2) Where any notice to which this section applies affects only 1 person or a small number of persons, and the identity of those persons is known, the Director-General must—
-  (a) notify the persons of the matter individually in accordance with section 117; and
-  (b) either—
-    (i) supply them with a copy of the notice; or
-    (ii) notify them where they may inspect a copy free of charge (which may include inspection by electronic means) or obtain a copy on payment of a reasonable charge.
-(3) For any other notice, the Director-General must—
-  (a) publish the notice, or notification that it has been issued, in the Gazette; and
-  (b) where the Director-General considers it practicable, cause the notice to be brought to the attention of persons likely to be affected by it by notice or publication in any newspaper or trade journal, or by any other practicable means (including electronic means).
-(4) If the notice is not published in full in the Gazette,—
-  (a) the Director-General must make copies available for inspection free of charge, and for purchase at a reasonable cost, at the head office of the Ministry and at such other places as the Director-General determines; and
-  (b) the Gazette notice must specify where a copy may be inspected or obtained.
+[Repealed]
 
 ### 117 Service of individual notices, etc
 (1) Where under any of the provisions of this Act any notice or other document or information is to be served on or supplied to the Minister, the Director-General, or a wine officer, it may be delivered, whether personally, by post, or by electronic means acceptable to the Director-General, to a wine officer at an appropriate office of the Ministry.
@@ -2083,7 +2100,11 @@ In addition to all other powers conferred by the District Courts Act 1947, the G
   (o) specifying decisions as decisions that are subject to review under section 114:
   (oa) permitting supplementary notices to be made to supplement specified provisions of the regulations (see section 120(2)﻿(b)):
   (p) providing for such other matters as are contemplated by or necessary for giving full effect to this Act and for its due administration.
+(2) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 (2)
+(3) If the regulations permit the making of supplementary notices under subsection (1)﻿(oa),—
+  (a) those supplementary notices are secondary legislation because of section 120(7); and
+  (b) the regulations must contain a statement to that effect.
 
 ### 119A Scope of regulations
 (1) Regulations made under this Act may do any or all of the following:
@@ -2100,6 +2121,9 @@ In addition to all other powers conferred by the District Courts Act 1947, the G
   (a) apply generally, or in relation to any specified, or specified class of, wine, persons, places, businesses, processes, operations, activities, or other matters or things:
   (b) make the same provision for all cases or different provisions for different cases, or classes of case.
 (3) If a provision of this Act permits regulations to prescribe requirements, the regulations may prescribe requirements, specifications, criteria, procedures, or other matters of a similar kind.
+(4) If regulations under this Act authorise a person to exercise any of the powers described in subsection (1),—
+  (a) the instrument by which the power is exercised is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements), unless the instrument applies only to 1 or more named persons; and
+  (b) the regulations must contain a statement to that effect.
 
 ### 120 Notices
 (1) The Director-General may issue notices under this subsection to do anything that a provision of this Act permits to be done by notice under this subsection.
@@ -2117,15 +2141,17 @@ In addition to all other powers conferred by the District Courts Act 1947, the G
   (b) make the same provision for all cases or different provisions for different cases, or classes of case:
   (c) impose any conditions, restrictions, or prohibitions.
 (6) If a notice issued under this section is inconsistent with the regulations, the regulations prevail to the extent of the inconsistency.
-(7) A notice issued under this section must be notified in accordance with section 116.
+(7) A notice under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements), unless the notice—
+  (a) is issued for the purposes of section 11, 21, 39, or 82Y; and
+  (b) applies only to a particular named person.
+(8) A notice for the purposes of section 11 that is secondary legislation may have effect in accordance with section 11(3) even if it is not yet published.
 
-### 120A Application of Legislation Act 2012 to notices
-(1) The following notices issued under section 120(1) are neither disallowable instruments nor legislative instruments for the purposes of the Legislation Act 2012 and do not have to be presented to the House of Representatives under section 41 of that Act:
-  (a) a notice issued for the purposes of section 41:
-  (b) a notice that—
-    (i) is issued for the purposes of section 11, 21, 39, or 82Y; and
-    (ii) applies only to a named person.
-(2) Any other notice issued under section 120(1), and any notice issued under section 120(2), is a disallowable instrument, but not a legislative instrument, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
+### 120A Notification of notices under section 120
+(1) This section applies to a notice issued under section 120, other than a notice for the purposes of section 41(2).
+(2) If the notice is secondary legislation, in addition to complying with the Legislation Act 2019, the Director-General must (if the Director-General considers it practicable) cause it to be brought to the attention of persons likely to be affected by it—
+  (a) by a notice or publication in any newspaper or trade journal; or
+  (b) by any other practicable means (including electronic means).
+(3) If the notice is not secondary legislation (see section 120(7)), the Director-General must give a copy of it to the person named in it.
 
 ### 121 Incorporation of material by reference into regulations, notices, and orders
 (1) The following material may be incorporated by reference into any regulations, notice, or order (all referred to in this section as instruments) made or given under this Act:
@@ -2154,9 +2180,7 @@ In addition to all other powers conferred by the District Courts Act 1947, the G
 (5) The Director-General is not required to comply with subsection (3)﻿(b) or (c) if doing so would infringe copyright in the material or be inconsistent with any other enactment or rule of law.
 
 ### 121B Application of Legislation Act 2012 to incorporating instrument and incorporated material
-(1) Part 2 of the Legislation Act 2012 does not apply to material incorporated by reference in an instrument under section 121 or to an amendment to, or update of, that material.
-(2) Subpart 1 of Part 3 of the Legislation Act 2012 applies to an instrument that incorporates material by reference.
-(3) However, nothing in section 41 of the Legislation Act 2012 requires material that is incorporated by reference in an instrument to be presented to the House of Representatives.
+Subpart 1 of Part 3 and section 114 of the Legislation Act 2019 do not apply to material that is incorporated by reference in an instrument under section 121 merely because it is incorporated.
 
 **Repeals, amendments, savings, and transitional provisions**
 
@@ -2199,6 +2223,7 @@ The Wine Makers Regulations 1990 (SR 1990/77) are revoked, subject to section 12
   (b) on such other date as may be specified by Order in Council made under subsection (4) or subsection (5).
 (4) The Governor-General may by Order in Council make regulations extending the transitional period provided for in subsection (3)﻿(a) (or in subsection (5)) for a further period not exceeding 2 years. The extended transition period may apply to all wine businesses or operations or some classes only of wine businesses or operations.
 (5) The Governor-General may by Order in Council, on the recommendation of the Minister after consultation in accordance with section 115, make regulations that specify a shorter transition period than that provided for in subsection (3) or subsection (4). The shorter transition period may apply to all wine businesses or operations or some classes only of wine businesses or operations.
+(6) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 131 Transitional provisions relating to exports and exporters
 (1) Nothing in this Act requires any person to be registered as an exporter under subpart 3 of Part 2 until 1 July 2004, and no person commits an offence against this Act by reason merely of a failure to register as an exporter before that date.
@@ -2268,6 +2293,7 @@ In this clause and clauses 3 to 5,—
   (a) that, with or without modification, replaces or corresponds to the enactment under which the notice was made; and
   (b) under which the notice could be made.
 (3) An Order in Council cannot be made under this clause on or after the 4-year date.
+(4) An order under this clause is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ## Schedule 1 — Form of search warrant
 
