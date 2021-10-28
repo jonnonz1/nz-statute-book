@@ -1,5 +1,5 @@
 # Referendums Framework Act 2019
-_Consolidation as at 2019-12-06_
+_Consolidation as at 2021-10-28_
 
 ### 1 Title
 This Act is the Referendums Framework Act 2019.
@@ -40,6 +40,7 @@ This Act binds the Crown.
 (2) A declaration must specify, as applicable,—
   (a) the wording of the question, or each question, to be put to electors and the wording of the options for which electors may vote in response to the question:
   (b) the proposal or issue, as it is to be put to electors in the referendum, and the wording of the options for which electors may vote in response.
+(3) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 9 When referendum to take place
 A referendum of electors must be held on polling day for the general election.
@@ -182,12 +183,13 @@ Each returning officer must return the results of the count to the Electoral Com
   (b) declare that the referendum is void because of an irregularity that, in the opinion of the court, materially affected the result of the referendum.
 
 ### 32 Fresh referendum
-If the High Court declares the referendum to be void,—
+(1) If the High Court declares the referendum to be void,—
   (a) the Registrar of the court must notify the Electoral Commission that the referendum is void; and
   (b) a fresh referendum must be held; and
   (c) not later than 30 working days after a declaration is made under section 31(4)﻿(b), the Governor-General, by Order in Council, must appoint the day for the fresh referendum to be held, which must not be later than 6 months after the date of the declaration; and
   (d) the same roll of electors must be used at the fresh referendum as was used at the referendum declared to be void; and
   (e) a fresh referendum must be conducted in accordance with the provisions of this Act, with any necessary modifications, and to the extent that they are relevant.
+(2) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### Subpart 5 — Offences and penalties
 
@@ -216,6 +218,7 @@ A prosecution under this Part must be commenced—
   (b) validate anything done before or after the time required; or
   (c) validate anything irregularly done in manner or form.
 (3) However, this section does not apply to any matter described in subsection (1) if the High Court finds that the irregularity has materially affected the result of the referendum.
+(4) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ## Part 3 — Referendum advertising
 
@@ -597,10 +600,11 @@ The time limits for commencing prosecutions specified in section 34 apply for th
 (2) However, subsection (1) does not apply to an offence under Part 3 if the Electoral Commission considers that the offence is so inconsequential that there is no public interest in reporting those facts to the New Zealand Police.
 
 ### 85 Regulations
-The Governor-General may, by Order in Council, make regulations for all or any of the following purposes:
+(1) The Governor-General may, by Order in Council, make regulations for all or any of the following purposes:
   (a) at any time before the start of the regulated period, declaring an advertisement, a class of advertisements, an activity, or a class of activities not to be a referendum advertisement for the purposes of this Act:
   (b) prescribing forms required for any matter in relation to a referendum:
   (c) providing for matters that are contemplated by, necessary for the administration of, or necessary for giving full effect to this Act.
+(2) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ## Schedule 1 — Transitional, savings, and related provisions
 
