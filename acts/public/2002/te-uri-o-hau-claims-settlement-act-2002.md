@@ -1,5 +1,5 @@
 # Te Uri o Hau Claims Settlement Act 2002
-_Consolidation as at 2021-01-30_
+_Consolidation as at 2021-10-28_
 
 ## Preamble
 (1) The Treaty of Waitangi is set out, in Maori and English, in Schedule 1:
@@ -444,16 +444,18 @@ The New Zealand Conservation Authority or relevant conservation board must consu
 (4) This section does not limit section 47(2).
 
 ### 49 Regulations
-The Governor-General may, by Order in Council made on the recommendation of the Minister of Conservation, make regulations for the following purposes:
+(1) The Governor-General may, by Order in Council made on the recommendation of the Minister of Conservation, make regulations for the following purposes:
   (a) providing for the implementation of objectives included in conservation management strategies, conservation management plans, and national park management plans under section 48(1):
   (b) regulating or prohibiting activities or conduct by members of the public in a Kirihipi overlay area:
   (c) creating offences in respect of the contravention of any regulations made under paragraph (b), and providing for the imposition of fines not exceeding $5,000 for those offences.
+(2) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 50 Bylaws
-The Minister of Conservation may make bylaws for the following purposes:
+(1) The Minister of Conservation may make bylaws for the following purposes:
   (a) providing for the implementation of objectives included in conservation management strategies, conservation management plans, and national park management plans under section 48(1):
   (b) regulating or prohibiting activities or conduct by members of the public in a Kirihipi overlay area:
   (c) creating offences in respect of the contravention of any bylaws made under paragraph (b), and providing for the imposition of fines not exceeding $1,000 for those offences.
+(2) Bylaws under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 51 Notification of actions in Gazette
 (1) The Minister of Conservation must notify in the Gazette,—
@@ -478,6 +480,7 @@ The purpose or classification of an area as a national park, conservation area, 
   (a) the Minister of the Crown responsible for the new management or the management regimes; or
   (b) the Commissioner of Crown lands; or
   (c) any other responsible officer.
+(5) The Minister of Conservation must ensure that an order under this section is published in the Gazette.
 
 ### 54 Exercise of powers, duties, and functions
 (1) Nothing in section 40 or section 42 affects or may be taken into account in the exercise of any power, duty, or function of any person or entity under any statute, regulation, or bylaw.
@@ -556,6 +559,7 @@ If, on or after the effective date, an application is made under section 44, 56,
 (2) Nothing in regulations made under this section affects in any way the discretion of a consent authority as to—
   (a) whether to notify an application under sections 93 to 94C of the Resource Management Act 1991; and
   (b) whether Te Uri o Hau governance entity may be adversely affected under those sections.
+(3) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 65 Use of statutory acknowledgement with submissions
 (1) Te Uri o Hau governance entity and any member of Te Uri o Hau may, as evidence of the association of Te Uri o Hau with a statutory area, cite the relevant statutory acknowledgement in submissions to, and in proceedings before, a consent authority, the Environment Court, or Heritage New Zealand Pouhere Taonga concerning activities within, adjacent to, or impacting directly on the statutory area.
