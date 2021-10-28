@@ -1,5 +1,5 @@
 # Serious Fraud Office Act 1990
-_Consolidation as at 2020-08-07_
+_Consolidation as at 2021-10-28_
 
 > An Act—ato facilitate the detection and investigation by the Serious Fraud Office of cases of serious or complex fraud; andbto enable proceedings relating to such fraud to be taken expeditiously; andcto provide for matters incidental upon the establishment of the Serious Fraud Office
 
@@ -450,9 +450,10 @@ The Director may exercise any power conferred by this Act notwithstanding—
 (4) Where a notice or other document is sent by post to a person in accordance with subsection (1)﻿(c), it shall be deemed, in the absence of proof to the contrary, to have been given on the third day after the day on which it was posted.
 
 ### 53 Regulations
-The Governor-General may from time to time, by Order in Council, make regulations for any of the following purposes:
+(1) The Governor-General may from time to time, by Order in Council, make regulations for any of the following purposes:
   (a) prescribing the form of notices required under this Act:
   (b) providing for such matters as are contemplated by or necessary for giving full effect to this Act and for its due administration.
+(2) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 **Amendments to other Acts**
 
