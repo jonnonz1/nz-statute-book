@@ -1,5 +1,5 @@
 # Central North Island Forests Land Collective Settlement Act 2008
-_Consolidation as at 2020-08-01_
+_Consolidation as at 2021-10-28_
 
 ## Preamble
 (1) The historical CNI forests land claims made by the Central North Island iwi to the Central North Island (CNI) forests land are based on historical breaches of the Treaty of Waitangi by the Crown and the desire of those iwi to secure the return of that land and to achieve an enduring settlement of those claims:
@@ -13,6 +13,7 @@ This Act is the Central North Island Forests Land Collective Settlement Act 2008
 ### 2 Commencement
 (1) Subpart 2 of Part 3 (except sections 34 and 35) and Schedule 4 come into force on a date to be appointed by the Governor-General, by Order in Council, made on the recommendation of the Minister in Charge of Treaty of Waitangi Negotiations and the Minister of Maori Affairs in accordance with section 34.
 (2) The rest of this Act comes into force on the day after the date on which it receives the Royal assent.
+(3) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ## Part 1 — Preliminary provisions
 
