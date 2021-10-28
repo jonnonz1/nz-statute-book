@@ -1,5 +1,5 @@
 # Antarctica Act 1960
-_Consolidation as at 2013-07-01_
+_Consolidation as at 2021-10-28_
 
 > An Act to confer jurisdiction on the courts of New Zealand to deal with offences committed in the Ross Dependency and certain other parts of Antarctica, and to restrict the jurisdiction of the courts in respect of acts or omissions in Antarctica of certain nationals of other countries
 
@@ -7,6 +7,7 @@ _Consolidation as at 2013-07-01_
 (1) This Act may be cited as the Antarctica Act 1960.
 (2) Sections 4 to 6 shall come into force on a date to be appointed for the commencement thereof by the Governor-General by Proclamation.
 (3) Except as provided in subsection (2), this Act shall come into force on its passing.
+(4) A Proclamation under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 2 Interpretation
 (1) In this Act, unless the context otherwise requires,—
