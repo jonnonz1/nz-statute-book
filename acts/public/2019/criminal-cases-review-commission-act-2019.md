@@ -1,5 +1,5 @@
 # Criminal Cases Review Commission Act 2019
-_Consolidation as at 2020-12-01_
+_Consolidation as at 2021-10-28_
 
 ### 1 Title
 This Act is the Criminal Cases Review Commission Act 2019.
@@ -7,6 +7,7 @@ This Act is the Criminal Cases Review Commission Act 2019.
 ### 2 Commencement
 (1) This Act comes into force on a date appointed by the Governor-General by Order in Council, and 1 or more Orders in Council may be made bringing different provisions into force on different dates.
 (2) To the extent that it is not previously brought into force under subsection (1), the rest of this Act comes into force on 1 July 2020.
+(3) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ## Part 1 — Preliminary provisions
 
