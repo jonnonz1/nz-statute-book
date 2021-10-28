@@ -1,5 +1,5 @@
 # Housing Act 1955
-_Consolidation as at 2019-10-01_
+_Consolidation as at 2021-10-28_
 
 ### 1 Short title
 This Act may be cited as the Housing Act 1955.
@@ -114,7 +114,7 @@ Where any State housing land has been sold (whether before or after the commence
 (2) Any such agreement or licence may describe the land comprised in it by reference to the plan of the land held by Kāinga Ora–Homes and Communities as well as by any other mode of description; and, where a copy of that plan is deposited with the Registrar-General of Land or a plan of the land is endorsed on the agreement or licence, the Registrar-General of Land must register the agreement or licence even though a plan of the land has not been deposited under section 224 of the Land Transfer Act 2017.
 (3) If a plan of the land has not been deposited that adequately defines the land under section 224 of the Land Transfer Act 2017, the Registrar-General of Land may record in the record of title for the agreement or licence that the title is qualified as described in section 17(1)﻿(a) of the Land Transfer Act 2017.
 (4)
-(5) Where any such agreement or licence has been registered as aforesaid (whether before or after the commencement of this Act), every transfer, mortgage, lease, transmission, and other disposition of the land comprised therein may be registered in the same manner, subject to any modifications prescribed by any regulations made under this section, and subject to the provisions of section 37, as a similar transfer, mortgage, lease, transmission, or disposition of a registered lease.
+(5) Where any such agreement or licence has been registered as aforesaid (whether before or after the commencement of this Act), every transfer, mortgage, lease, transmission, and other disposition of the land comprised therein may be registered in the same manner, subject to any modifications prescribed by any regulations made under section 40 in reliance on this section, and subject to the provisions of section 37, as a similar transfer, mortgage, lease, transmission, or disposition of a registered lease.
 (6) The same fee shall be payable on the registration of any transfer, mortgage, lease, transmission, or other disposition of the land comprised in any such agreement or licence, as on the registration of a similar transfer, mortgage, lease, transmission, or other disposition of an estate in fee simple in land.
 (7) The covenants, conditions, and restrictions contained or implied in any such agreement or licence registered under this section, and the amount of or allocation of the purchase price or the rate or rates of interest payable thereon, may from time to time be varied by a memorandum of variation thereof signed by Kāinga Ora–Homes and Communities and the purchaser or licensee for the time being and registered in a form approved by the Registrar-General of Land. The same registration fee shall be payable on any such memorandum of variation as on a lease variation instrument. If the land affected by the memorandum of variation is at the time of registration thereof subject to any mortgage, then, except where that mortgage is in favour of Kāinga Ora–Homes and Communities, the memorandum shall not be binding on the mortgagee unless he has consented thereto in writing upon the memorandum.
 (8) Where Kāinga Ora–Homes and Communities lawfully rescinds or the purchaser surrenders or partially surrenders any such agreement or licence which has been registered under this section, Kāinga Ora–Homes and Communities may send a notice of rescission or surrender to the Registrar-General of Land, who, without further notice or inquiry and without fee, shall enter a memorial thereof upon the register.
@@ -291,6 +291,7 @@ In respect of the exercise of its functions under this Act Kāinga Ora–Homes a
   (d) prescribing or regulating the mode of registration of instruments under section 18:
   (e) empowering the Crown to acquire or construct dwellings for the employees of any Pest Destruction Board constituted under the Agricultural Pest Destruction Act 1967; and prescribing the terms upon which the Crown may sell or lease the dwellings to Pest Destruction Boards, and the terms upon which the provisions of section 17 of the Public Works Amendment Act 1948 may be applied in respect of any such dwelling, and in what circumstances that dwelling may not become a fixture or pass with the land but remain the property of the owner thereof:
   (f) generally for giving effect to the provisions of this Act.
+(3) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 (3)
 
 ### 41 Consequential amendments
