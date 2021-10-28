@@ -1,13 +1,14 @@
 # Environmental Reporting Act 2015
-_Consolidation as at 2020-08-07_
+_Consolidation as at 2021-10-28_
 
 ### 1 Title
 This Act is the Environmental Reporting Act 2015.
 
 ### 2 Commencement
-This Act comes into force on the earlier of the following:
+(1) This Act comes into force on the earlier of the following:
   (a) a date appointed by the Governor-General by Order in Council (and 1 or more orders may be made bringing different provisions into force on different dates):
   (b) the day that is 9 months after the date on which this Act receives the Royal assent.
+(2) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ## Part 1 — Preliminary provisions
 
@@ -192,3 +193,4 @@ The Secretary and the Government Statistician must, in so far as it is reasonabl
   - **impact topic** means a topic of a kind referred to in subsection (1)﻿(a)﻿(iii) or (b)﻿(iii):
   - **pressure topic** means a topic of a kind referred to in subsection (1)﻿(a)﻿(ii) or (b)﻿(ii):
   - **state topic** means a topic of a kind referred to in subsection (1)﻿(a)﻿(i) or (b)﻿(i).
+(5) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
