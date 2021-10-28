@@ -1,5 +1,5 @@
 # Local Government Act 1974
-_Consolidation as at 2021-04-01_
+_Consolidation as at 2021-10-28_
 
 > An Act to consolidate and amend the law relating to the reorganisation of the districts and functions of local authorities, to make better provision for the administration of those functions which can most effectively be carried out on a regional basis, and to make provision for the establishment of united councils, regional councils, district councils, district community councils, and community councils and to consolidate and amend the Municipal Corporations Act 1954, the Counties Act 1956, the Local Authorities (Petroleum Tax) Act 1970, and provisions of other Acts of the Parliament of New Zealand relating to the powers and functions of regional councils, united councils, and territorial local authorities
 
@@ -1833,6 +1833,7 @@ _Consolidation as at 2021-04-01_
 ### 182 Application of this Part
 (1) Unless the Governor-General by Order in Council determines otherwise, a local authorities fuel tax in accordance with this Part may be levied and collected by the Crown, and is payable on any specified engine fuel purchased in New Zealand.
 (2) This Part shall not apply in the Chatham Islands, or to specified engine fuel sold, or agreed to be sold, or disposed of, for delivery within the Chatham Islands or used there by any wholesale distributor.
+(3) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 183 Tax areas for purposes of tax
 (1) The tax areas shall be those named in the first column of Schedule 7, and the component districts of each such tax area shall be those specified in the second column of the said schedule opposite the name of the tax area.
@@ -1944,12 +1945,14 @@ For the purposes of this Act, section 159 of the Customs Act 1966, so far as it 
   (a) for which the specified engine fuel is a functional substitute; or
   (b) with which the specified engine fuel is commonly blended.
 (3) Subsection (2) overrides subsection (1).
+(4) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 200 Regulations in respect of local authorities fuel tax
-Without limiting the power to make regulations conferred by section 723, regulations may be made under that section for all or any of the following purposes:
+(1) Without limiting the power to make regulations conferred by section 723, regulations may be made under that section for all or any of the following purposes:
   (a) prescribing such forms, returns, and notices as may be necessary for any purpose under this Part:
   (b) prescribing matters to be included in any returns to be made or accounts or records to be kept by wholesale distributors or other persons for any purpose under this Part:
   (c) providing for such matters as are contemplated by or necessary for giving full effect to the provisions of this Part and for its due administration.
+(2) Regulations made for the purpose of this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ## Part 11A — Regional petrol tax
 
@@ -3189,11 +3192,12 @@ The council having control of a ferry may let the ferry for a term not exceeding
 (2) Every such bridge or ferry shall be deemed to be respectively a public bridge or ferry, and shall be open to the use of the public at all hours, subject to any regulations that may be made pursuant to this Act for regulating the use thereof.
 
 ### 359 Regulations for maintenance and use of privately constructed bridges and ferries
-Without limiting the general power to make regulations conferred by section 723, regulations may be made under that section applying generally to bridges or ferries constructed or established under section 358 or to any such specified bridges or ferries,—
+(1) Without limiting the general power to make regulations conferred by section 723, regulations may be made under that section applying generally to bridges or ferries constructed or established under section 358 or to any such specified bridges or ferries,—
   (a) for the management of those bridges or ferries and the approaches thereto, and for the maintenance of those bridges or ferries in good repair:
   (b) fixing the tolls (if any) to be levied on those bridges, and the fares to be chargeable for the conveyance of passengers, animals, or goods by those ferries:
   (c) declaring what exemptions shall be allowed from the payment of any such tolls or fares:
   (d) regulating the collection of any such tolls or fares, and preventing the evasion thereof.
+(2) Regulations made for the purpose of this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 360 Minister may delegate powers to council
 The Minister may from time to time, by notice in the Gazette, delegate to the council all or any of the powers conferred on him by section 358, or authorise the council to make bylaws for all or any of the matters specified in section 359.
