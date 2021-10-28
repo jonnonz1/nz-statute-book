@@ -1,11 +1,12 @@
 # Agricultural Compounds and Veterinary Medicines Act 1997
-_Consolidation as at 2020-08-07_
+_Consolidation as at 2021-10-28_
 
 > An Act to reform and restate the law relating to agricultural compounds, and to repeal—athe Stock Foods Act 1946; andbthe Fertilisers Act 1960; andcthe Animal Remedies Act 1967; anddthe Fertilisers Act 1982
 
 ### 1 Short Title and commencement
 (1) This Act may be cited as the Agricultural Compounds and Veterinary Medicines Act 1997.
 (2) This Act comes into force on a date to be appointed by the Governor-General by Order in Council.
+(3) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ## Part 1 — Preliminary
 
@@ -99,7 +100,7 @@ _Consolidation as at 2020-08-07_
   (a) any substance to be an agricultural compound; or
   (b) any entity to be a pest; or
   (c) any entity not to be a pest—
-(3) An Order in Council made under subsection (2) is a legislative instrument and a disallowable instrument for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
+(3) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 2A Transitional, savings, and related provisions
 The transitional, savings, and related provisions set out in Schedule 1 have effect according to their terms.
@@ -224,7 +225,7 @@ The importer of any goods may, for the purposes of section 6(3)﻿(a)﻿(i), mak
 (4) The Director-General must ensure that—
   (a) the list is available to the public for inspection free of charge; and
   (b) copies can be taken on payment of a reasonable charge (if any).
-(5) The Director-General must by notice in the Gazette notify the making of any addition or amendment to, or deletion from, the list, but the substances concerned need not be specified in the notice.
+(5) A determination under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 8C Director-General may approve agricultural compound as exempt in special circumstances
 (1) The Director-General may approve the importation, manufacture, sale, or use of an agricultural compound without registration if the Director-General considers that special circumstances make it appropriate to grant the approval.
@@ -1099,8 +1100,8 @@ If the Director-General is required to consult a person or a category or class o
     (ii) in order for a class of persons to be recognised as a recognised class under this Part:
     (iii) by a recognised agency, recognised person, or recognised class:
   (c) performance standards or other requirements that must be met by a recognised agency when it is managing or carrying out, or a recognised person or recognised class when it is carrying out, its specified functions and activities.
-(2) Notices must be issued in accordance with the process set out in section 76A(2) to (7) (applied with all necessary modifications).
-(3) Notices that are issued under this section are not regulations for the purposes of the Acts and Regulations Publication Act 1989 or the Regulations (Disallowance) Act 1989.
+(2) Notices must be issued in accordance with the process set out in section 76A(2) to (4B) (applied with all necessary modifications).
+(3) A notice under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 44ZO Director-General must consider exemption, waiver, or refund of fees
 (1) The Director-General must consider whether an exemption, a waiver, or a refund of all or part of a prescribed fee, charge, or levy is appropriate if—
@@ -1479,6 +1480,10 @@ In this Part, protected period means,—
 (4) Before recommending the making of an Order in Council under subsection (1)﻿(d), the Minister must be satisfied that there is likely to be an adverse economic result and the agricultural compound is being sold—
   (a) without an adequate description of the contents; or
   (b) consistently and significantly below the contents described in consumer information.
+(5) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+(6) If the regulations authorise the issuing or imposing of any specifications or other requirements under subsection (1A)﻿(b),—
+  (a) an instrument issuing or imposing those specifications or requirements is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements); and
+  (b) the regulations must contain a statement to that effect.
 
 ### 76A Director-General may set specifications and other detailed requirements
 (1) The Director-General may from time to time issue notices setting specifications and other detailed requirements that—
@@ -1487,8 +1492,13 @@ In this Part, protected period means,—
 (2) Before issuing a notice under this section, the Director-General must do everything reasonably practicable to consult with the organisations for the time being considered by the Director-General to represent the interests of persons who will or may be affected by the specifications or other detailed requirements contained in the notice.
 (3) Subsection (2) does not apply where the Director-General considers it desirable in the public interest that the notice be issued urgently.
 (4) A failure to comply with subsection (2) does not affect the validity of a notice issued under this section.
-(5) Where a notice under this section affects only 1 person or a small number of persons, and the identity of those persons is known, the Director-General must—
-  (a) notify the persons individually in writing, whether personally by post or facsimile addressed to the person, or by electronic means acceptable to the person; and
+Secondary legislation
+(4A) A notice under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements), unless the notice applies only to 1 or more named persons.
+(4B) In addition to complying with the Legislation Act 2019, the Director-General must, if the Director-General considers it practicable, cause a notice that is secondary legislation to be brought to the attention of persons likely to be affected by it by notice or publication in any newspaper or trade journal, or by any other practicable means (including electronic means).
+Other notices
+(4C) Subsections (5) to (7) apply if a notice is not secondary legislation.
+(5) The Director-General must—
+  (a) notify the persons affected by the notice individually in writing, whether personally by post or facsimile addressed to the person, or by electronic means acceptable to the person; and
   (b) either—
     (i) supply them with a copy of the specifications or other requirements; or
     (ii) notify them where they may inspect a copy free of charge (which may include inspection by electronic means) or obtain a copy on payment of a reasonable charge.
@@ -1610,6 +1620,7 @@ The methods by which costs may be recovered under the cost recovery sections are
   (e) differ depending on the amount of service required or the components of the service required for the particular person or class of person.
 (5) Where regulations prescribe a formula for determining a fee or charge, the formula may specify the value of 1 or more of its components as being an amount or amounts notified for these components by the Director-General by notice in the Gazette.
 (6) The Minister may not recommend the making of regulations under this section unless satisfied that, to the extent appropriate in the circumstances, the requirements of sections 81 and 81B have been met.
+(7) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 81E Regulations may impose levies
 (1) Regulations may be made under this Act, on the recommendation of the Minister, prescribing levies for the purposes of this Act.
@@ -1625,6 +1636,9 @@ The methods by which costs may be recovered under the cost recovery sections are
     (ii) the amount of levy any person is required to pay or collect:
   (g) provide for related matters, including procedures and remuneration for arbitrators or mediators.
 (4) The Minister may not recommend the making of regulations under this section unless satisfied that, to the extent appropriate in the circumstances, the requirements of sections 81 and 81B have been met.
+(5) Regulations under this section—
+  (a) are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements); and
+  (b) must be confirmed by an Act (see subpart 3 of Part 5 of the Legislation Act 2019).
 
 ### 81F Trust accounts required to be kept by persons collecting levies
 (1) If regulations made under section 81E require the operation of a trust account for any levy money by the person responsible for collecting the levy,—
@@ -1647,6 +1661,10 @@ The methods by which costs may be recovered under the cost recovery sections are
 ### 81H Exemptions, waivers, and refunds
 (1) Regulations made under this Act may provide for exemptions from, or waivers or refunds of, any fee, levy, or charge payable under this Act, in whole or in part, in any particular case or class of case.
 (2) Any such regulations may authorise the Director-General to grant an exemption, waiver, or refund in any particular case or class of case.
+(3) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+(4) If regulations under this section authorise the Director-General to grant an exemption, waiver, or refund,—
+  (a) the instrument by which the power is exercised is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements), unless the instrument applies only to 1 or more named persons; and
+  (b) the regulations must contain a statement to that effect.
 
 ### 81I Fees, levies, and charges to constitute debt due to Director-General
 Any fee, levy, or charge that has become payable is a debt due to the Director-General, and is recoverable as a debt by the Director-General in any court of competent jurisdiction. Until paid in full, it remains a debt due to the Crown.
@@ -1666,10 +1684,7 @@ Any fee, levy, or charge that has become payable is a debt due to the Director-G
 The obligation of a person to pay any fee, levy, or charge under this Act (including any penalty referred to in section 81J), and the right of the Director-General to receive and recover the fee, levy, charge, or penalty, are not suspended by any dispute between the person and the Director-General regarding the person’s liability to pay the fee, levy, or charge, or the amount of the fee, levy, or charge.
 
 ### 81L Levy regulations are confirmable instruments
-The explanatory note of regulations made under section 81E must indicate that—
-  (a) they are a confirmable instrument under section 47B of the Legislation Act 2012; and
-  (b) they are revoked at a time stated in the note, unless earlier confirmed by an Act of Parliament; and
-  (c) the stated time is the applicable deadline under section 47C(1)﻿(a) or (b) of that Act.
+[Repealed]
 
 ### 82 Prohibition of importation or manufacture by registrant for non-payment of fees
 [Repealed]
