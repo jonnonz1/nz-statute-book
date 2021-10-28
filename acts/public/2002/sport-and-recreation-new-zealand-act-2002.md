@@ -1,11 +1,12 @@
 # Sport and Recreation New Zealand Act 2002
-_Consolidation as at 2017-06-03_
+_Consolidation as at 2021-10-28_
 
 ### 1 Title
 This Act is the Sport and Recreation New Zealand Act 2002.
 
 ### 2 Commencement
-This Act comes into force on a date to be appointed by the Governor-General by Order in Council.
+(1) This Act comes into force on a date to be appointed by the Governor-General by Order in Council.
+(2) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ## Part 1 — Preliminary
 
