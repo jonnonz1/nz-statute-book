@@ -1,5 +1,5 @@
 # New Zealand Sign Language Act 2006
-_Consolidation as at 2017-03-01_
+_Consolidation as at 2021-10-28_
 
 ### 1 Title
 This Act is the New Zealand Sign Language Act 2006.
@@ -102,5 +102,6 @@ Nothing in this Act affects the New Zealand Bill of Rights Act 1990.
   (a) prescribing the standards of competency that a person who is to act in legal proceedings as an interpreter of NZSL must attain:
   (b) providing for any other matters contemplated by this Act or necessary for its administration or necessary for giving it full effect.
 (2) Regulations made under subsection (1)﻿(a) must include (or provide, among other things, for the determination and publication of) the criteria by which the competence of a person to act in legal proceedings as an interpreter of NZSL may be assessed.
+(3) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ## Schedule Schedule — Courts and tribunals before which New Zealand Sign Language may be used
