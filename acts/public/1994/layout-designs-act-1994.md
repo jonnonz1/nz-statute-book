@@ -1,5 +1,5 @@
 # Layout Designs Act 1994
-_Consolidation as at 2002-12-01_
+_Consolidation as at 2021-10-28_
 
 > An Act to provide for the protection of layout designs for integrated circuits
 
@@ -46,7 +46,7 @@ _Consolidation as at 2002-12-01_
     (b) in any other case, at the end of the period of 15 calendar years after the calendar year in which the layout design was made.
 (2) In the case of an entity that is an eligible country but is not a State, part of a State, or a territory for whose international relations a State is responsible,—
   (a) the reference in paragraph (d) of the definition of the term eligible person in subsection (1) to a body corporate incorporated in an eligible country must be read as a reference to a body corporate incorporated under the rules of the entity:
-  (b) the reference in section 37(2)(b) to the law of an eligible country must be read as a reference to the rules of the entity.
+  (b) the reference in section 37(2)﻿(b) to the law of an eligible country must be read as a reference to the rules of the entity.
 
 ### 3 Meaning of commercially exploited
 For the purposes of this Act,—and commercially exploiting and commercial exploitation have corresponding meanings.
@@ -256,6 +256,7 @@ If, at the time when an eligible layout design, a copy of an eligible layout des
   (b) provision is or will be made under the law of or applicable to the entity giving reciprocal protection to layout designs—
     (i) made by persons referred to in paragraph (a) or paragraph (b) of the definition in section 2 of the term eligible person; or
     (ii) first commercially exploited in New Zealand.
+(3) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 38 Prospective ownership of layout design rights
 (1) Where, by an agreement in relation to future layout design rights and entered into by or on behalf of the person who would, apart from this section, be the owner of the rights on their coming into existence, that person purports to assign the future layout design rights, wholly or partly, to another person (in this subsection called the assignee), the rights, on coming into existence, shall, by virtue of this section, vest in the assignee or the assignee's successor in title.
