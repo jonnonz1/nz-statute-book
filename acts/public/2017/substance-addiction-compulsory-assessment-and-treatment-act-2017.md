@@ -1,5 +1,5 @@
 # Substance Addiction (Compulsory Assessment and Treatment) Act 2017
-_Consolidation as at 2020-08-07_
+_Consolidation as at 2021-10-28_
 
 ### 1 Title
 This Act is the Substance Addiction (Compulsory Assessment and Treatment) Act 2017.
@@ -848,13 +848,13 @@ Despite any other provision of this subpart, the court may determine an applicat
 (5) A designation ceases to have effect if the person designated ceases to be a health professional.
 
 ### 96 Designation of bodies for purposes of definition of health professional
-(1) The Minister may, by notice signed by the Minister, designate a body corporate for the purposes of paragraph (d) of the definition of health professional in section 4 if the Minister is satisfied that the body—
+(1) The Minister may, by notice, designate a body corporate for the purposes of paragraph (d) of the definition of health professional in section 4 if the Minister is satisfied that the body—
   (a) sets appropriate standards for classes of practitioners who treat, or assist in the treatment of, persons who suffer from severe substance addiction; and
   (b) has reliable systems for identifying practitioners who meet the standards.
-(2) The Minister may, by notice signed by the Minister, designate a body corporate for the purposes of paragraph (e) of the definition of health professional in section 4 if the Minister is satisfied that the body—
+(2) The Minister may, by notice, designate a body corporate for the purposes of paragraph (e) of the definition of health professional in section 4 if the Minister is satisfied that the body—
   (a) sets appropriate standards for social workers; and
   (b) has reliable systems for identifying social workers who meet the standards.
-(3) A notice under this section is a legislative instrument and a disallowable instrument for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
+(3) A notice under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 **Assistance to members of public**
 
@@ -1029,7 +1029,7 @@ Sections 30, 31, and 34 of the Crimes Act 1961 apply, with any necessary modific
   (a) guidelines for the purposes of this Act; and
   (b) standards of care and treatment of patients.
 (2) The Director-General of Health must ensure that guidelines are issued, under subsection (1), relating to the prescribing of medication for patients.
-(3) Guidelines or standards issued under subsection (1) are not disallowable instruments for the purposes of the Legislation Act 2012 and do not have to be presented to the House of Representatives under section 41 of that Act.
+(3)
 
 ### 117 Rules
 Rules may be made under section 16A of the Family Court Act 1980 regulating the practice and procedure of the Family Court in proceedings under this Act.
@@ -1040,6 +1040,7 @@ Rules may be made under section 16A of the Family Court Act 1980 regulating the 
   (b) declaring any substance to be a substance for the purposes of this Act:
   (c) providing for any other matters contemplated by this Act, necessary for its administration, or necessary for giving it full effect.
 (2) Any regulations made under this section may apply generally, or may apply in respect of any particular treatment centre or other place or any particular class of patient.
+(3) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 **Miscellaneous provisions**
 
