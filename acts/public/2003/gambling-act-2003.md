@@ -1,5 +1,5 @@
 # Gambling Act 2003
-_Consolidation as at 2021-01-30_
+_Consolidation as at 2021-10-28_
 
 ### 1 Title
 This Act is the Gambling Act 2003.
@@ -28,6 +28,7 @@ This Act is the Gambling Act 2003.
   (r) section 4(1) as far as it relates to the sections specified in paragraphs (a) to (q).
 (2) Schedule 7 as far as it relates to the Gaming and Lotteries Act 1977 comes into force on 1 October 2003.
 (3) The rest of this Act comes into force on a date to be appointed by the Governor-General by Order in Council, and 1 or more Orders in Council may be made appointing different dates for different provisions.
+(4) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 3 Purpose
 The purpose of this Act is to—
@@ -460,6 +461,7 @@ No compensation is payable by the Crown to any person for any loss or damage ari
   (e) an advertisement in which the publicising or promotion of gambling or a gambling operator is incidental to the purpose of the advertisement.
 (3) A person who contravenes subsection (1) commits an offence and is liable on conviction to a fine not exceeding $10,000.
 (4) The Governor-General may, by Order in Council, restrict the application of this section, if satisfied that an order is necessary to enable New Zealand to comply with its international obligations relating to trade in services that are or will become binding on New Zealand.
+(5) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 17 Regulations may restrict or prohibit prizes
 (1) The Governor-General may, by Order in Council, make regulations that, consistent with the purpose of this Act, restrict or prohibit any property (whether real or personal) or services being offered or used as a prize for gambling.
@@ -471,6 +473,7 @@ No compensation is payable by the Crown to any person for any loss or damage ari
   (c) apply to all gambling or to particular games, or categories, classes, or forms of gambling.
 (3) Gambling that offers or uses any property or services as a prize in breach of regulations made under subsection (1) is illegal gambling.
 (4) In this section, property or services includes an entitlement to property or services.
+(5) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 17A Retail value of non-cash prize must be stated
 (1) A person who is conducting gambling must inform participants, at the time and place of sale of the tickets, of the retail value and characteristics of any non-cash prize offered or used as a prize for the gambling.
@@ -517,10 +520,10 @@ A sales promotion scheme is authorised by this Act.
   (c) recognises gambling authorised by or under the Racing Industry Act 2020.
 
 ### 21 Secretary may categorise gambling
-(1) The Secretary may, by notice in the Gazette, categorise any game, or category or class of game, or form of gambling, as being included in or excluded from a class of gambling if the Secretary considers that—
+(1) The Secretary may, by notice, categorise any game, or category or class of game, or form of gambling, as being included in or excluded from a class of gambling if the Secretary considers that—
   (a) the categorisation contributes to achieving the purpose of this Act; and
   (b) the level of risk associated with the game, or category or class of game, or form of gambling justifies the categorisation.
-(2) A notice given under subsection (1) is a disallowable instrument, but not a legislative instrument, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
+(2) A notice under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 **Class 1 gambling**
 
@@ -1473,7 +1476,7 @@ A class 4 venue licence is not transferable.
 ### 86 Holder of class 4 operator’s licence must connect to electronic monitoring system
 (1) The holder of a class 4 operator’s licence must connect the following gambling equipment to an electronic monitoring system specified by the Secretary in a notice to the holder:
   (a) all gaming machines under the holder’s control; and
-  (b) any other gambling equipment, or classes of gambling equipment, specified by the Secretary by notice in the Gazette.
+  (b) any other gambling equipment, or classes of gambling equipment, specified by the Secretary by notice.
 (2) The holder of a class 4 operator’s licence—
   (a) must bear the cost of replacing or upgrading gambling equipment in order to enable the connection of gaming machines to an electronic monitoring system; and
   (b) may be required by the Secretary to bear the cost of equipping or upgrading a class 4 venue for which it holds a licence in order to enable the connection of gaming machines to an electronic monitoring system.
@@ -1482,7 +1485,7 @@ A class 4 venue licence is not transferable.
   (b) to particular class 4 venues or classes of class 4 venues.
 (4)
 (5) The holder of a class 4 operator’s licence must not operate gaming machines after the date or dates notified to the holder by the Secretary unless the machines are connected to an electronic monitoring system specified by the Secretary.
-(6) A notice under subsection (1)﻿(b) is a disallowable instrument for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
+(6) A notice under subsection (1)﻿(b) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 87 Functions of electronic monitoring system
 (1) The Secretary may use an electronic monitoring system for, amongst other things,—
@@ -1859,6 +1862,7 @@ A corporate society that mainly or wholly distributes net proceeds to the commun
   (b) in respect of specified venues or classes of venue; or
   (c) in respect of specified gambling equipment or classes of gambling equipment; or
   (d) in respect of specified games or classes of games.
+(3) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 (3)
 
 ### 115 Payment of commission prohibited
@@ -1873,7 +1877,7 @@ A corporate society that mainly or wholly distributes net proceeds to the commun
 (2) A grant recipient who contravenes subsection (1) commits an offence and is liable on conviction to a fine not exceeding $10,000.
 
 ### 116 Secretary may limit or exclude operating costs of corporate society
-(1) The Secretary may, by notice in the Gazette,—
+(1) The Secretary may, by notice,—
   (a) set limits on, or exclude, the operating costs that may be incurred by a corporate society that conducts class 4 gambling:
   (b) set the rates of depreciation for gambling assets acquired by a corporate society in respect of class 4 gambling.
 (2) A notice under subsection (1) may apply to specified licence holders or to classes of licence holder.
@@ -1882,7 +1886,7 @@ A corporate society that mainly or wholly distributes net proceeds to the commun
   (b) as a percentage:
   (c) as an amount for each gaming machine.
 (4) A contract or other arrangement or obligation entered into by a corporate society, whether before or after the enactment of this Act, that does not comply with limits set under subsection (1) is an illegal contract for the purposes of subpart 5 of Part 2 of the Contract and Commercial Law Act 2017.
-(5) A notice given under subsection (1) is a disallowable instrument, but not a legislative instrument, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
+(5) A notice under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 (6) In this section, operating costs—
   (a) includes the following:
     (i) costs of operating the corporate society, including fees, salary, expenses, or any other payments to a key person, to a management services provider, or to another person involved in operating the corporate society:
@@ -1952,7 +1956,8 @@ A casino may be operated only by a person who holds a casino operator’s licenc
 (3) An existing casino venue agreement becomes, and must be treated as if it were, a casino venue agreement approved under section 133.
 
 ### 123 Directions as to operating casinos
-Directions given by the Authority under section 70 of the Casino Control Act 1990 become, and must be treated as if they were, minimum operating standards specified under section 141.
+(1) Directions given by the Authority under section 70 of the Casino Control Act 1990 become, and must be treated as if they were, minimum operating standards specified under section 141.
+(2) However, despite section 141(3), directions to which this section applies are not secondary legislation.
 
 ### 124 Suitability requirements
 (1) A casino operator’s licence must not be granted and a casino venue licence must not be renewed unless the Gambling Commission is satisfied that the applicant and persons with a significant influence are suitable.
@@ -2136,6 +2141,7 @@ Before deciding whether to renew a casino venue licence, the Gambling Commission
   (d) on application by the holder of a casino licence:
   (e) on the Secretary’s own initiative.
 (2) Minimum operating standards must relate to any matter concerning the day-to-day operation of a casino, including (but not limited to) some or all of the matters specified in Schedule 2.
+(3) Minimum operating standards, and any variation or revocation of those standards, are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 142 Procedure for specifying, varying, or revoking minimum operating standards
 (1) The Secretary must notify the holder of the relevant casino licence and other persons who the Secretary considers are affected by a proposal to specify, vary, or revoke the minimum operating standards of the casino licence.
@@ -2441,6 +2447,7 @@ If the holder of a certificate of approval is employed in a casino or engaged by
 (2) A holder of a casino licence who contravenes subsection (1) commits an offence and is liable on conviction to a fine not exceeding $10,000.
 (3) The Governor-General may, by Order in Council, make regulations prescribing the days on, and the hours during, which a licensed casino may conduct casino gambling and the activities that may be undertaken.
 (4) Regulations made under subsection (3) must not override subsection (1) but may impose restrictions that are additional to the restrictions in that subsection.
+(5) Regulations under subsection (3) are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 173 On-licences under Sale and Supply of Alcohol Act 2012
 Despite the Sale and Supply of Alcohol Act 2012, an on-licence granted under that Act for a licensed casino must be treated as authorising the sale of alcohol for consumption in the casino while the casino is lawfully operated.
@@ -2464,6 +2471,7 @@ Despite the Sale and Supply of Alcohol Act 2012, an on-licence granted under tha
 (4) The holder of the casino operator’s licence may conduct simulated games for training purposes on terms approved by the Secretary.
 (5) The Secretary may exempt an employee or class of employees from this section.
 (6) The holder of a casino operator’s licence who contravenes this section commits an offence and is liable on conviction to a fine not exceeding $5,000.
+(7) An exemption under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements), unless it applies only to 1 or more named employees.
 
 ### 177 Books must be kept in casino venue
 (1) All books, records, and documents relating to the operation of a casino must be kept by the holder of the casino operator’s licence in the casino venue.
@@ -2897,7 +2905,7 @@ A licensed promoter’s trust account must be audited by a qualified auditor (wi
 (2) This section is subject to sections 215 and 217.
 
 ### 219 Regulations relating to licensed promoters
-The Governor-General may, by Order in Council, make regulations for all or any of the following purposes:
+(1) The Governor-General may, by Order in Council, make regulations for all or any of the following purposes:
   (a) prescribing the content of a licensed promoter’s agreement:
   (b) providing for the manner and timing of the audit of a licensed promoter’s trust account:
   (c) prescribing the maximum, expressed in any appropriate way including a specific amount or a percentage, that may be deducted by a licensed promoter for expenses incurred in promoting class 3 gambling:
@@ -2905,6 +2913,7 @@ The Governor-General may, by Order in Council, make regulations for all or any o
   (e) providing for the maximum number of class 3 gambling activities that may be conducted or promoted by a licensed promoter during the period of a licence:
   (f) providing for the supervision of class 3 gambling activities promoted by licensed promoters by the Police and gambling inspectors:
   (g) providing for any other matters that are contemplated by, or necessary for, giving full effect to this subpart and its due administration.
+(2) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ## Part 3 — Institutions
 
@@ -3123,20 +3132,22 @@ Schedule 4 applies to the Lotteries Commission, its board members, its procedure
 ### 243 Lottery rules
 (1) The Lotteries Commission may make rules not inconsistent with this Act for or with respect to the conduct and operation (including the establishment and distribution of prize funds) of New Zealand lotteries or any type of New Zealand lotteries.
 (2) The rules must be approved by the Minister before being made.
-(3) Any rules made under this section take effect on and from the date of their notification in the Gazette, or any later date that is specified in the rules.
+(3)
 (4) Rules made under this section may authorise designs or specifications or other matters of detail to be determined by the Lotteries Commission, and may not be challenged on the ground that they leave such matters to the discretion of the Commission.
 (5) Despite subsection (4), the Minister may, in writing to the Lotteries Commission, require that any design, specification, or other matter of detail be incorporated in rules and not left to the discretion of the Commission.
 (6) In making any rules under this section, the Lotteries Commission must have regard to the desirability of—
   (a) minimising the risk of players or participants in New Zealand lotteries becoming problem gamblers; and
   (b) minimising the risk of under-age gambling.
-(7) Rules made under this section are a legislative instrument and a disallowable instrument for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
+(7) Rules under this section—
+  (a) are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements); and
+  (b) take effect on the day after the date of their publication under that Act, or on any later date that is specified in the rules.
 
 ### 244 Minister may require Lotteries Commission products to comply with regulations and minimum standards
-(1) The Minister may, by notice to the Lotteries Commission,—
+(1) The Minister may, by notice,—
   (a) require that any New Zealand lottery or class of New Zealand lotteries must comply with the requirements of any regulations or minimum standards made under section 313 or section 327; and
-  (b) accordingly, require the Commission to vary or revoke any relevant rule made under section 243, or make a new rule under that section, to ensure compliance.
-(2) The Minister must cause a copy of the notice to be published in the Gazette.
-(3) A notice given under this section is a disallowable instrument, but not a legislative instrument, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
+  (b) accordingly, require the Lotteries Commission to vary or revoke any relevant rule made under section 243, or make a new rule under that section, to ensure compliance.
+(2) A notice under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+(3) A copy of the notice must be provided to the Lotteries Commission as soon as practicable after publication.
 
 ### 245 Special purpose lotteries
 (1) The Minister may, from time to time, instruct the Lotteries Commission to promote a New Zealand lottery for any community purpose that the Minister thinks fit.
@@ -3157,6 +3168,7 @@ The Lotteries Commission may, from time to time, determine additional prizes to 
 ### 248 Method of drawing lottery
 (1) Every New Zealand lottery must be drawn and prizes allocated in a manner and under conditions determined by the Lotteries Commission.
 (2) Subsection (1) is subject to any rules made under section 243 and any provisions specified by the Minister under section 244(1)﻿(a).
+(3) A determination under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 249 Scrutiny of drawings and allocations
 The Secretary and the Auditor-General must exercise the scrutiny that they determine necessary—
@@ -3373,13 +3385,13 @@ In addition to the powers specifically provided in this Act, the Board has all t
 **Distribution committees**
 
 ### 280 Distribution committees
-(1) For the purposes of this subpart, the Minister may, by notice in the Gazette, establish such number of distribution committees as he or she thinks fit.
+(1) For the purposes of this subpart, the Minister may, by notice, establish such number of distribution committees as he or she thinks fit.
 (2) A distribution committee consists of the number of persons that the Minister thinks fit, being not less than 3 nor more than 5 persons.
 (3) The members of each distribution committee are to be appointed by the Minister having regard to the appointees’ knowledge, skills, and experience relating to the functions and powers of the distribution committee.
 (4) The Minister must appoint a member of each committee to be the presiding member.
 (5) The Minister may vary the purposes in respect of which any distribution committee has been established, and may disestablish any distribution committee.
 (6) Part 2 of Schedule 5 applies in relation to the members and proceedings of distribution committees.
-(7) A notice given under subsection (1) is a disallowable instrument, but not a legislative instrument, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
+(7) A notice under subsection (1) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 281 Functions of distribution committees
 (1) The functions of each distribution committee are—
@@ -3523,7 +3535,7 @@ Despite sections 277, 278, 376, and 377, any application for assistance made und
 (1) Every person under 18 years commits an offence who purchases, or attempts to purchase, a ticket in the following games, either on the person’s own behalf or on behalf of any other person:
   (a) an instant game that is a New Zealand lottery:
   (b) a New Zealand lottery that is highly repetitive or frequently drawn:
-  (c) any other similar game run by the Lotteries Commission and that is declared by the Minister, by notice in the Gazette, to be subject to this section.
+  (c) any other similar game run by the Lotteries Commission and that is declared by the Minister, by notice, to be subject to this section.
 (2) Every person commits an offence who purchases, or attempts to purchase, a ticket in a game listed in subsection (1) on behalf of a person under 18 years.
 (3) Every person commits an offence who—
   (a) sells, or offers to sell, a ticket in a game listed in subsection (1) to a person under 18 years, whether the ticket is purchased or intended to be purchased for that person or for any other person; or
@@ -3533,7 +3545,7 @@ Despite sections 277, 278, 376, and 377, any application for assistance made und
 (6) Every person who commits an offence—
   (a) against subsection (1) is liable on conviction to a fine not exceeding $500:
   (b) against subsection (2) or subsection (3) is liable on conviction to a fine not exceeding $1,000.
-(7) A notice given under subsection (1)﻿(c) is a disallowable instrument, but not a legislative instrument, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
+(7) A notice under subsection (1)﻿(c) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 302 Age restriction on class 4 gambling
 (1) Every person under 18 years commits an offence who participates in class 4 gambling.
@@ -3694,6 +3706,7 @@ Every holder of a class 4 venue licence or casino operator’s licence must,—
   (b) to specified venues or classes of venue:
   (c) to specified gambling equipment or classes of gambling equipment:
   (d) to any particular games, or classes of games, or categories, classes, or forms of gambling.
+(3) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 314 Regulations relating to gaming machines in class 4 venue
 (1) The Governor-General may, by Order in Council made on the recommendation of the Minister, make regulations for all or any of the following purposes:
@@ -3710,11 +3723,13 @@ Every holder of a class 4 venue licence or casino operator’s licence must,—
   (a) to specified licence holders or classes of licence holder:
   (b) to specified venues or classes of venue:
   (c) to specified gaming machines or classes of gaming machine.
+(3) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 315 Regulations relating to admission to and exclusion from gambling area of class 4 venue and casino venue
 (1) The Governor-General may, by Order in Council, make regulations controlling or prohibiting admission to the gambling area of class 4 venues and casino venues.
 (2) The regulations may exclude from the gambling area of a class 4 venue or casino venue any specified class or classes of person, either absolutely or subject to any special conditions that may be specified in the regulations.
 (3) Every person who enters, or remains in, the gambling area of a class 4 venue or casino venue in breach of any regulations made under this section must be treated as having committed an offence against section 4 of the Trespass Act 1980 and is liable accordingly.
+(4) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 316 Regulations relating to exclusion of problem gamblers
 (1) The Governor-General may, by Order in Council, make regulations—
@@ -3728,6 +3743,7 @@ Every holder of a class 4 venue licence or casino operator’s licence must,—
   (b) set out the steps to be taken to identify a person as a problem gambler:
   (c) prescribe the persons (including the qualifications of those persons) who are authorised to perform specific functions in relation to identifying and excluding problem gamblers:
   (d) set out the rights, including the rights of appeal against specified decisions, of a person who is subject to the procedure.
+(3) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### Subpart 4 — Problem gambling levy
 
@@ -3778,14 +3794,14 @@ Every holder of a class 4 venue licence or casino operator’s licence must,—
   (e) the time by which a levy must be paid, and a penalty for late payment:
   (f) the value of items W1 and W2 in the formula in section 320:
   (g) any other matters necessary or desirable to calculate, administer, collect, and enforce the levy.
+(4) Regulations under this section—
+  (a) are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements); and
+  (b) must be confirmed by an Act (see subpart 3 of Part 5 of the Legislation Act 2019).
 (4)
 (5)
 
 ### 319A Problem gambling levy regulations are confirmable instrument
-The explanatory note of regulations made under section 319(1) must indicate that—
-  (a) they are a confirmable instrument under section 47B of the Legislation Act 2012; and
-  (b) they are revoked at a time stated in the note, unless earlier confirmed by an Act of Parliament; and
-  (c) the stated time is the applicable deadline under section 47C(1)﻿(a) or (b) of that Act.
+[Repealed]
 
 ### 320 Calculating levy
 (1) The formula in subsection (2) provides a mechanism for allocating among gambling operators, and collecting from them, the approximate cost of an integrated problem gambling strategy.
@@ -3870,15 +3886,17 @@ The department responsible for the integrated problem gambling strategy must rep
   (a) has features designed to reduce the likelihood of problem gambling or other harm arising from its use:
   (b) is capable of being monitored and controlled electronically.
 (3) Minimum standards may incorporate, by reference, all or part of a principle, statement, standard, specification, or requirement that is published by, or on behalf of, any body or person in any country.
-(4) If a principle, statement, standard, specification, or requirement that is incorporated by reference into a minimum standard is amended, the amendment does not become part of the minimum standard until it is notified, by the Secretary, in the Gazette.
-(5) Minimum standards prescribed by the Secretary under this section are a disallowable instrument, but not a legislative instrument, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
+(4) If a principle, statement, standard, specification, or requirement that is incorporated by reference into a minimum standard is amended, the amendment does not become part of the minimum standard until it is notified by the Secretary.
+(5) The following are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements):
+  (a) minimum standards prescribed under this section:
+  (b) a notice under subsection (4).
 
 ### 328 Secretary must give notice of minimum standard
 (1) The Secretary must publish a notice in the Gazette—
   (a) stating that a minimum standard has been prescribed, amended, or revoked; and
   (b) stating the particular gambling equipment or class of gambling equipment to which the standard, amendment, or revocation applies; and
-  (c) stating the date on which the standard, amendment, or revocation takes effect, which must be a date after the date on which the notice published in the Gazette takes effect; and
-  (d) indicating how copies of the minimum standard, amendment (including any material incorporated by reference), or revocation may be obtained from the Secretary.
+  (c) stating the date on which the standard, amendment, or revocation takes effect; and
+  (d) indicating how copies of the minimum standard, amendment (including any material incorporated by reference), or revocation may be obtained.
 (2) If no minimum standard exists in respect of a particular item of gambling equipment, a person may apply to the Secretary for a minimum standard to be prescribed.
 
 **Transitional provision**
@@ -3886,6 +3904,7 @@ The department responsible for the integrated problem gambling strategy must rep
 ### 329 Transitional provision relating to gambling equipment
 (1) Gambling equipment that was authorised for use and operating immediately before the commencement of this section must be treated as having complied with all the relevant minimum standards prescribed under section 327 until the close of a date prescribed for the purpose by the Governor-General by Order in Council.
 (2) For the purposes of subsection (1), 1 or more Orders in Council may be made appointing different dates for different purposes.
+(3) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### Subpart 6 — Gambling inspectors
 
@@ -4109,12 +4128,13 @@ To avoid doubt, this Part does not prevent the Secretary from exercising his or 
 (2) All infringement fees received by the Secretary under this Act or recovered under the Summary Proceedings Act 1957 must be paid into a Crown Bank Account.
 
 ### 360 Regulations relating to infringement offences
-The Governor-General may, by Order in Council, make regulations for all or any of the following purposes:
+(1) The Governor-General may, by Order in Council, make regulations for all or any of the following purposes:
   (a) prescribing infringement offences for the breach of any regulations or game rules made under this Act:
   (b) setting the infringement fee for infringement offences specified by or prescribed under this Act, which,—
     (i) in the case of a licence holder, may not exceed $5,000:
     (ii) in the case of an individual, may not exceed $2,500:
   (c) prescribing the forms that must be used for issuing an infringement notice.
+(2) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 **Evidence**
 
@@ -4179,29 +4199,30 @@ The Secretary may issue standard forms for the purposes of this Act and must mak
 (1) The Secretary may make rules and amend or revoke rules made—
   (a) for playing or participating in particular games or classes of games, or categories, classes, or forms of gambling; and
   (b) for the systems, processes, information, and documentation associated with particular games or classes of games, or categories, classes, or forms of gambling.
-(2) The Secretary must publish a notice in the Gazette containing the following information, as soon as reasonably practicable after making, amending, or revoking game rules under subsection (1):
-  (a) a statement that game rules have been made, amended, or revoked:
-  (b) the date on which the game rule, amendment, or revocation takes effect:
-  (c) a statement that a copy of the game rules, amendment, or revocation may be obtained from the Secretary, and how it may be obtained.
-(3) A rule, amendment, or revocation made under subsection (1) does not take effect before the notice in the Gazette about that rule, amendment, or revocation, required by subsection (2), takes effect.
+(2)
+(3)
 (4) The Secretary may require the holder of a class 4 operator’s licence or a casino operator’s licence to display game rules prominently at a place used for gambling or on or near to gambling equipment.
 (5) If no game rules exist in respect of a particular gambling activity, a person may apply to the Secretary for the approval of game rules in relation to the activity.
 (6) An application under subsection (5) must include a full description of the gambling activity.
-(7) A rule, amendment, or revocation made under subsection (1) is a disallowable instrument, but not a legislative instrument, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
+(7) The following are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements):
+  (a) game rules:
+  (b) any amendment to, or revocation of, game rules.
 
 ### 368 Regulations relating to forms of gambling and gambling equipment
-The Governor-General may, by Order in Council, make regulations for all or any of the following purposes:
+(1) The Governor-General may, by Order in Council, make regulations for all or any of the following purposes:
   (a) declaring any act, behaviour, or transaction, or type of act, behaviour, or transaction not to be gambling for the purposes of this Act:
   (b) declaring any machine, device, or thing, or type of machine, device, or thing to be or not to be gambling equipment for the purposes of this Act:
   (c) declaring any device, or type of device, to be or not to be a gaming machine for the purposes of this Act:
   (d) declaring a form of gambling to be or not to be a New Zealand lottery.
+(2) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 369 Regulations relating to forms
-The Governor-General may, by Order in Council, make regulations for all or any of the following purposes:
+(1) The Governor-General may, by Order in Council, make regulations for all or any of the following purposes:
   (a) prescribing forms for the purposes of this Act and prescribing the information to be provided by applicants:
   (b) prescribing procedures for the service and publication of documents:
   (c) prescribing the form of a certificate of approval:
   (d) prescribing the form of a warrant of appointment of a gambling inspector under section 331.
+(2) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 370 Regulations relating to fees
 (1) The Governor-General may, by Order in Council, make regulations prescribing the fees or charges payable to enable the recovery of the direct and indirect costs of the Secretary, the Gambling Commission, or the Police in—
@@ -4222,13 +4243,15 @@ The Governor-General may, by Order in Council, make regulations for all or any o
   (d) gambling equipment or classes of gambling equipment or particular games or classes of game to which the fees or charges apply:
   (e) the circumstances in which penalty for default in payment is payable or the payment of the whole or a part of those fees or charges may be remitted or waived:
   (f) the manner in which the fees or charges are to be paid.
+(4) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 370A Regulations relating to offences
-The Governor-General may, by Order in Council, make regulations for all or any of the following purposes:
+(1) The Governor-General may, by Order in Council, make regulations for all or any of the following purposes:
   (a) prescribing offences in respect of the contravention of any regulation or game rule made under this Act:
   (b) prescribing the penalty for each offence under paragraph (a), which,—
     (i) in the case of a licence holder, must not exceed $10,000:
     (ii) in the case of an individual, must not exceed $5,000.
+(2) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 371 Other regulations
 (1) The Governor-General may, by Order in Council, make regulations for all or any of the following purposes:
@@ -4254,6 +4277,7 @@ The Governor-General may, by Order in Council, make regulations for all or any o
   (b) to a particular place or class of place:
   (c) to particular gambling equipment or classes of gambling equipment:
   (d) to particular games or classes of games, or categories, classes, or forms of gambling.
+(3) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 372 Consultation before regulation
 (1) This section applies to regulations proposed to be made under sections 17, 21, 86, 114, 116, 172, 219, 301, 313 to 316, 327, 360, 367, 368, 370, 370A, and 371.
