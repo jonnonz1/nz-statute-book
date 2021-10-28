@@ -1,5 +1,5 @@
 # Kāinga Ora–Homes and Communities Act 2019
-_Consolidation as at 2021-02-06_
+_Consolidation as at 2021-10-28_
 
 ### 1 Title
 This Act is the Kāinga Ora–Homes and Communities Act 2019.
@@ -263,8 +263,8 @@ When preparing or reviewing a GPS, the Ministers must—
 ### 25 Status of GPS
 A GPS is not—
   (a) a direction for the purposes of Part 3 of the Crown Entities Act 2004; or
-  (b) a legislative instrument for the purposes of the Legislation Act 2012; or
-  (c) a disallowable instrument for the purposes of the Legislation Act 2012.
+  (b)
+  (c)
 
 ### 26 Kāinga Ora–Homes and Communities to give effect to GPS
 Kāinga Ora–Homes and Communities must give effect to the GPS when performing its functions.
