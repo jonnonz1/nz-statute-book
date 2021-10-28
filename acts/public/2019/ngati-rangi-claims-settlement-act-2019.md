@@ -1,5 +1,5 @@
 # Ngāti Rangi Claims Settlement Act 2019
-_Consolidation as at 2020-08-01_
+_Consolidation as at 2021-10-28_
 
 ### 1 Title
 This Act is the Ngāti Rangi Claims Settlement Act 2019.
@@ -764,22 +764,24 @@ The protection principles are intended to prevent the values stated in the state
 (3) The amendment is an amendment for the purposes of section 17I(1) to (3) of the Conservation Act 1987 or section 46(1) to (4) of the National Parks Act 1980.
 
 ### 49 Regulations
-The Governor-General may, by Order in Council made on the recommendation of the Minister of Conservation, make regulations for 1 or more of the following purposes:
+(1) The Governor-General may, by Order in Council made on the recommendation of the Minister of Conservation, make regulations for 1 or more of the following purposes:
   (a) to provide for the implementation of objectives included in a strategy or plan under section 48(1):
   (b) to regulate or prohibit activities or conduct by members of the public in relation to the Te Tāpora area:
   (c) to create offences for breaches of regulations made under paragraph (b):
   (d) to prescribe the following fines for an offence referred to in paragraph (c):
     (i) a fine not exceeding $5,000; and
     (ii) if the offence is a continuing one, an additional amount not exceeding $500 for every day on which the offence continues.
+(2) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 50 Bylaws
-The Minister of Conservation may make bylaws for 1 or more of the following purposes:
+(1) The Minister of Conservation may make bylaws for 1 or more of the following purposes:
   (a) to provide for the implementation of objectives included in a strategy or plan under section 48(1):
   (b) to regulate or prohibit activities or conduct by members of the public in relation to the Te Tāpora area:
   (c) to create offences for breaches of bylaws made under paragraph (b):
   (d) to prescribe the following fines for an offence referred to in paragraph (c):
     (i) a fine not exceeding $5,000; and
     (ii) if the offence is a continuing one, an additional amount not exceeding $500 for every day on which the offence continues.
+(2) Bylaws under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 51 Effect of Te Tāpora on Te Tāpora area
 (1) This section applies if, at any time, Te Tāpora applies to any land in—
@@ -799,6 +801,7 @@ The Minister of Conservation may make bylaws for 1 or more of the following purp
 (3) The Crown must take reasonable steps to ensure that the trustees continue to have input into the management of a relevant area if—
   (a) subsection (2)﻿(c) applies; or
   (b) there is a change in the statutory management regime that applies to all or part of the Te Tāpora area.
+(4) The Minister of Conservation must ensure that an order under this section is published in the Gazette.
 
 ### 53 Exercise of powers and performance of functions and duties
 (1) Te Tāpora does not affect, and must not be taken into account by, any person exercising a power or performing a function or duty under an enactment or a bylaw.
@@ -1058,7 +1061,7 @@ A person who accesses a relevant area under section 79 or 80 must take all reaso
 (2) The Director-General must consult the Minister of Energy and Resources before agreeing in writing to add an additional area.
 (3) The general location of an additional area must be indicated on a map or plan.
 (4) The Director-General must notify an additional area in the Gazette as soon as practicable after the additional area has been agreed in writing.
-(5) The notification in the Gazette is neither a legislative instrument nor a disallowable instrument for the purposes of the Legislation Act 2012 and does not have to be presented to the House of Representatives under section 41 of that Act.
+(5)
 
 **Authorisations in relation to Crown-owned matā, onewa, and pākohe in riverbed in defence area**
 
