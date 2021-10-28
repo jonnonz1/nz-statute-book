@@ -1,5 +1,5 @@
 # Courts (Remote Participation) Act 2010
-_Consolidation as at 2020-05-16_
+_Consolidation as at 2021-10-28_
 
 ### 1 Title
 This Act is the Courts (Remote Participation) Act 2010.
@@ -151,6 +151,7 @@ To avoid doubt, a judicial officer or Registrar presiding in a proceeding in whi
 (2) Before making a recommendation under subsection (1)﻿(b), the Minister—
   (a) must be satisfied that the method or technology is appropriate for use in proceedings; and
   (b) may consult with other Ministers as he or she considers appropriate.
+(3) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 19 Amendment to Evidence Act 2006
 (1) This section amends the Evidence Act 2006.
