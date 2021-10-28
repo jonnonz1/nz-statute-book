@@ -1,5 +1,5 @@
 # Members of Parliament (Remuneration and Services) Act 2013
-_Consolidation as at 2019-12-20_
+_Consolidation as at 2021-10-28_
 
 ### 1 Title
 This Act is the Members of Parliament (Remuneration and Services) Act 2013.
@@ -94,6 +94,7 @@ Sections 8(3) to (7), 9, 21(1), 25(1) and (3), and 29 of the Remuneration Author
 (3) This section must be read in conjunction with section 16(2).
 (4) Expenses may be incurred, without further appropriation than this section, to meet the salaries and allowances determined under this section and payments under section 45(2) and (3).
 (5)
+(6) A determination under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 9 How salaries and allowances determined
 (1) The salaries and allowances under section 8 must be determined under section 12 of the Remuneration Authority Act 1977, and the relevant sections of that Act apply accordingly (see, for example, sections 16 and 17A to 19).
@@ -205,7 +206,7 @@ Despite anything in this Part, if a person receives a salary as head of mission 
   (b) international accommodation services in respect of members of Parliament travelling for parliamentary purposes where the costs of those accommodation services are met from the party and member support funding appropriated in respect of the party of the member undertaking the travel and are a charge against the leadership funding allocation (see section 23(3) in respect of these services); and
   (c) accommodation services in respect of the official inter-parliamentary relations programme (see section 34 in respect of these services); and
   (d) international accommodation services in respect of Ministers.
-(3) A determination made under this section is a legislative instrument for the purposes of the Legislation Act 2012, but is not required to be presented to the House of Representatives under section 41 of that Act and is not a disallowable instrument for the purposes of that Act.
+(3) A determination under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 18 Procedure for Remuneration Authority's determinations
 (1) Before making a determination under section 17, the Remuneration Authority must—
@@ -233,7 +234,7 @@ The Remuneration Authority may, at any time in the course of preparing a determi
   (d) the Minister Responsible for Ministerial Services:
   (e) the chief executive of the department responsible for Ministerial Services:
   (f) the Chief Executive.
-(2) The Chief Executive must ensure that a copy of every determination made under section 17 is publicly available as soon as practicable after the Chief Executive receives it.
+(2)
 
 ### 21 Resolution of issues about Remuneration Authority's determinations
 (1) The Remuneration Authority must prescribe procedures for resolving issues that arise about how any provision of a determination made under section 17 is to be interpreted or applied or is to operate, including—
@@ -266,6 +267,7 @@ The Remuneration Authority may, at any time in the course of preparing a determi
 (2) The Speaker's directions must not allow for accommodation services for a member of Parliament to be provided from party and member support funding or to be provided as services under subsection (1)﻿(b), except as provided in subsection (3).
 (3) The Speaker's directions may allow for the costs of international travel and international accommodation services for a member of Parliament travelling for parliamentary purposes, and the costs specified in subsection (4), to be met from the party and member support funding appropriated for that member's party as a charge against the leadership funding allocation.
 (4) The specified costs for the purposes of subsection (3) are the costs of international travel and international accommodation services for a spouse or partner of a party leader who accompanies the party leader when he or she is travelling for parliamentary purposes.
+(5) Directions under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 24 Procedure for Speaker's directions
 Before issuing directions under section 23, the Speaker must—
@@ -275,7 +277,7 @@ Before issuing directions under section 23, the Speaker must—
   (d) consult the Commissioner of Inland Revenue about the taxation consequences of the proposed directions.
 
 ### 25 Publication of Speaker's directions
-The Chief Executive must ensure that a copy of all directions issued by the Speaker under section 23 are publicly available as soon as practicable after they are issued.
+[Repealed]
 
 ### 26 Resolution of issues about Speaker's directions
 (1) The Speaker must prescribe procedures for resolving issues that arise about how any provision of the directions issued under section 23 is to be interpreted or applied or is to operate, including—
@@ -291,7 +293,8 @@ The Chief Executive must ensure that a copy of all directions issued by the Spea
 **Services determined by Minister Responsible for Ministerial Services**
 
 ### 27 Services to be determined by Minister Responsible for Ministerial Services
-The Minister Responsible for Ministerial Services must determine the entitlements of Ministers to all travel services within New Zealand that are additional or alternative to the entitlements to travel services for members of Parliament set out in the directions issued by the Speaker under section 23.
+(1) The Minister Responsible for Ministerial Services must determine the entitlements of Ministers to all travel services within New Zealand that are additional or alternative to the entitlements to travel services for members of Parliament set out in the directions issued by the Speaker under section 23.
+(2) A determination under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 28 Procedure for Minister's determination
 Before making a determination under section 27, the Minister Responsible for Ministerial Services must—
@@ -300,7 +303,7 @@ Before making a determination under section 27, the Minister Responsible for Min
   (c) consult the Commissioner of Inland Revenue about the taxation consequences of the proposed directions.
 
 ### 29 Publication of Minister's determination
-The chief executive of the department responsible for Ministerial Services must ensure that a copy of every determination made under section 27 is publicly available as soon as practicable after it is made.
+[Repealed]
 
 ### 30 Resolution of issues about Minister's determinations
 (1) The Minister Responsible for Ministerial Services must prescribe procedures for resolving issues that arise about how any provision of a determination made under section 27 is to be interpreted or applied or is to operate, including—
@@ -337,6 +340,7 @@ The chief executive of the department responsible for Ministerial Services must 
 (6) However, in addition to the powers of amendment in subsection (4), the Speaker may amend directions issued under section 23 and the Minister Responsible for Ministerial Services may amend a determination made under section 27 at any time—
   (a) to deal with matters arising from changes that occur from year to year in the amounts appropriated in Appropriation Acts for services and party and member support funding; or
   (b) to ensure the adequacy of the travel, administrative, and support services for members of Parliament, parties, and qualifying electoral candidates, or, as the case may be, travel services for Ministers.
+(7) An amendment under this section to a determination or to directions is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 33 Quarterly reports on travel and accommodation expenses
 (1) The Chief Executive must, as soon as practicable after the end of each quarter, prepare and make publicly available a report setting out, in respect of each member of Parliament and each party,—
@@ -359,12 +363,15 @@ The chief executive of the department responsible for Ministerial Services must 
   (b) additional costs that are associated with, or incidental to, travel or accommodation that are not provided for as part of any other entitlement (whether under Part 2, this Part, or any determination or directions issued under one of those Parts); and
   (c) provision for those services for the spouse or partner of a member of Parliament participating in the programme who accompanies the member; and
   (d) any other means of meeting the travel and accommodation needs of a member of Parliament in order for the member to be able to travel as a participant in the programme.
+(5) The following are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements):
+  (a) a determination under this section:
+  (b) an amendment to a determination under this section.
 
 ### 35 Conversion of entitlements
 A determination made under section 34 may provide for a member of Parliament participating in the inter-parliamentary relations programme to convert an entitlement under the determination into a travel or accommodation service that costs a lesser amount for any purpose related to the member of Parliament's professional development that the Speaker is satisfied is appropriate in relation to the member's participation in the inter-parliamentary relations programme.
 
 ### 36 Publication of determinations
-The Clerk of the House of Representatives must ensure that a copy of every determination made under section 34 is publicly available as soon as practicable after it is made.
+[Repealed]
 
 ### 37 Quarterly reports on travel and accommodation expenses
 The Clerk of the House of Representatives must, as soon as practicable after the end of each quarter, prepare and make publicly available a report setting out, in respect of each member of Parliament and each party, details of the expenses incurred to provide the travel and accommodation services determined by the Speaker under section 34.
@@ -449,7 +456,7 @@ A statement setting out, in respect of each former member of Parliament and his 
   (a) receives an additional salary under section 11 (other than where the person, on the day before that additional salary started to be payable, was receiving the salary of an ordinary member of Parliament under section 10); or
   (b) holds an office for which a salary (other than the salary of an ordinary member of Parliament) is payable under this Act or the Governor-General Act 2010.
 (4) The yearly rate under subsection (1)﻿(a) must be determined by the Remuneration Authority.
-(5) A determination made under this section is a legislative instrument for the purposes of the Legislation Act 2012, but is not required to be presented to the House of Representatives under section 41 of that Act and is not a disallowable instrument for the purposes of that Act.
+(5) A determination under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 (6) Expenses may be incurred, without further appropriation than this section, to provide the annuities under this section.
 
 ### 44 Travel entitlements of former Prime Ministers
@@ -457,7 +464,7 @@ A statement setting out, in respect of each former member of Parliament and his 
 (2) An entitlement of a spouse or partner determined under subsection (1) continues after the death of the former Prime Minister, regardless of whether the surviving spouse or partner remarries or re-partners.
 (3) If an issue arises about how any provision of a determination made under this section is to be interpreted or applied or is to operate, that issue must be determined by the Remuneration Authority.
 (4) Expenses may be incurred, without further appropriation than this section, to provide the travel entitlements under this section.
-(5) A determination made under this section is a legislative instrument for the purposes of the Legislation Act 2012, but is not required to be presented to the House of Representatives under section 41 of that Act and is not a disallowable instrument for the purposes of that Act.
+(5) A determination under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 **Member of Parliament dying in office: entitlements of family members**
 
