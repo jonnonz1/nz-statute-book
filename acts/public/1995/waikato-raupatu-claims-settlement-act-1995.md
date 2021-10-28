@@ -1,5 +1,5 @@
 # Waikato Raupatu Claims Settlement Act 1995
-_Consolidation as at 2021-01-30_
+_Consolidation as at 2021-10-28_
 
 > An Act—ato record the apology given by the Crown to Waikato in the deed of settlement signed on 22 May 1995 by both representatives of the Crown and representatives of Waikato, being an apology by the Crown for, among other things, sending its forces across the Mangatawhiri river in July 1863, unfairly labelling Waikato as rebels, and subsequently confiscating their land; andbto give effect to certain provisions of that deed of settlement, being a deed that settles the Raupatu claims
 
@@ -68,6 +68,7 @@ Whereas—KiingitangaInvasion, hostilities, and confiscations of Waikato landRoy
 ### 1 Short Title and commencement
 (1) This Act may be cited as the Waikato Raupatu Claims Settlement Act 1995.
 (2) Subject to sections 15(4), 25(3), 26(5), 32(2), and 37(2), this Act shall come into force on a date to be appointed by the Governor-General by Order in Council; and 1 or more Orders in Council may be made bringing different provisions of this Act into force on different dates.
+(3) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 2 Interpretation of Act generally
 It is the intention of Parliament that the provisions of this Act shall be interpreted in a manner that best furthers the agreements expressed in the deed of settlement.
@@ -269,12 +270,14 @@ Where a settlement property becomes residual Crown land by virtue of Waikato ele
   (b) the Maramarua land, as described in Attachment 10 to the deed of settlement.
 (6) Subject to subsection (7), the Governor-General may, by 1 or more Orders in Council, apply subsections (1) to (4) to the whole or part of the Maramarua land referred to in subsection (5)﻿(b).
 (7) No Order in Council shall be made under subsection (6) in respect of any land unless the Minister is of the opinion that a final determination or a final recommendation has been made in respect of any relevant claims (including claims made by the Hauraki Maori Trust Board) in respect of the land to which the Order in Council relates.
+(8) The Minister must ensure that an order under this section is published in the Gazette.
 
 ### 15 Power to amend Schedule 2
 (1) Subject to subsections (2) and (3), the Governor-General may from time to time, by Order in Council, amend Schedule 2 by adding thereto descriptions of additional pieces of land.
 (2) The Governor-General shall not make an Order in Council under subsection (1) unless the Governor-General is satisfied, on the advice of the Minister of Justice, that the pieces of land described in the order are pieces of land within the Waikato claim area that should not cease to be subject to the enactments referred to in section 14(1).
 (3) No Order in Council shall be made under this section after 14 November 1995.
 (4) This section shall come into force on the day on which this Act receives the Royal assent.
+(5) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 16 Power of the Crown to compulsorily acquire property for purpose of settlement
 (1) Where the Crown is obliged by the deed of settlement to transfer to the land holding trustee a property of a Crown body (or any body that was a Crown body at the date on which the deed of settlement was signed), the Minister of Lands may, after consultation with—acquire the property under Part 2 of the Public Works Act 1981 as if the property were land required for both Government work and a public work and Parts 2, 4, 5, 6, and 7 of that Act and Schedules 1, 3, 4, and 5 of that Act shall, subject to the modifications set out in Schedule 3 of this Act and to all other necessary modifications, apply accordingly.
