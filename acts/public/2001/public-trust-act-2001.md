@@ -1,5 +1,5 @@
 # Public Trust Act 2001
-_Consolidation as at 2021-01-30_
+_Consolidation as at 2021-10-28_
 
 ### 1 Title
 This Act is the Public Trust Act 2001.
@@ -8,6 +8,7 @@ This Act is the Public Trust Act 2001.
 (1) This Act, except for section 167, comes into force on a day to be fixed by the Governor-General by Order in Council.
 (2) The Order in Council, or a separate Order in Council, may fix a different date for the commencement of section 71.
 (3) Section 167 comes into force on the day on which this Act receives the Royal assent.
+(4) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ## Part 1 — Preliminary provisions
 
@@ -905,6 +906,7 @@ Where Public Trust—the property, money, damages, or profits are, after payment
   (a) the purposes for which the transfer is made:
   (b) the powers that may be exercised in relation to the land or money transferred.
 (3) In this section, local authority means a local authority as defined in section 5(1) of the Local Government Act 2002.
+(4) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 **Miscellaneous provisions**
 
@@ -992,6 +994,7 @@ Where Public Trust is executor, administrator, or trustee, or is guardian, or is
 (2) Remuneration charged, demanded, or received by Public Trust under subsection (1) must not exceed the greater of the following amounts:
   (a) an amount equal to 5% of the total of the value of the assets of the estate and the income received by Public Trust in respect of the estate:
   (b) $100, or such greater amount as is from time to time prescribed by the Governor-General by Order in Council.
+(3) An order under subsection (2)﻿(b) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 123 Special services
 (1) In addition to the remuneration authorised by section 122, Public Trust may charge, demand, and receive a reasonable fee or other remuneration for any of the following services provided by it in managing or administering an estate:
@@ -1210,6 +1213,7 @@ If the office solicitor acts for both parties in a conveyancing transaction betw
   (c) specify the consequences of any failure to disclose or late disclosure (which may include a prohibition on the charging or reimbursing of any fees or expenses until disclosure is made):
   (d) prescribe acceptable manners of notification (which need not be in accordance with section 146), and prescribe when notification will be treated as having been received:
   (e) make special provision in relation to existing funds within the meaning of section 171.
+(3) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ## Part 9 — Transfer of Public Trust undertaking
 
