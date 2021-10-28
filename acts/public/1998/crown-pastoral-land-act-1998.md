@@ -1,5 +1,5 @@
 # Crown Pastoral Land Act 1998
-_Consolidation as at 2020-12-01_
+_Consolidation as at 2021-10-28_
 
 > An Act—ato establish a system for reviewing the tenure of Crown land held under certain perpetually renewable leases; andbto establish a system for determining how Crown land formerly held under pastoral occupation licence, and certain other Crown land, should be dealt with; andcotherwise to provide for the administration of Crown pastoral land
 
@@ -442,7 +442,7 @@ An expert determiner is not liable for any act done or omitted to be done by the
   (h) must appoint a person nominated by any organisation the Valuer-General considers is representative of lessees of pastoral leases to any expert panel formed under paragraph (g); and
   (i) must publish, in any form or manner that the Valuer-General considers appropriate, including (but not limited to) on an Internet site maintained by the department,—
     (i) any guidance provided under paragraph (c); and
-    (ii) any rules made under section 23O; and
+    (ii)
     (iii) any determination made by an expert determiner under this Part in relation to base carrying capacity.
 (2) In carrying out the functions and duties and exercising the powers specified in subsection (1), the Valuer-General must—
   (a) aim to ensure that—
@@ -456,7 +456,7 @@ The Valuer-General may, in accordance with clauses 2 and 3 of Schedule 6 of the 
   (b) any function, duty, or power delegated to the Valuer-General by any Minister of the Crown (other than a power that is subject to a delegation that provides that the power may not be delegated).
 
 ### 23N Regulation-making power
-The Governor-General may, on the recommendation of the Minister, make regulations that—
+(1) The Governor-General may, on the recommendation of the Minister, make regulations that—
   (a) specify the method for calculating the dollar-per-stock-unit rate, which must—
     (i) use the publicly available data about farm revenues and expenses from pastoral farms and farms that are most comparable to pastoral farms; and
     (ii) use a measure of net farm revenues per stock unit derived from the data referred to in subparagraph (i); and
@@ -467,6 +467,7 @@ The Governor-General may, on the recommendation of the Minister, make regulation
   (b) prescribe forms:
   (c) prescribe rules and procedures for resolution hearings:
   (d) provide for the matters that are contemplated by or necessary for giving effect to this Part and for its due administration.
+(2) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 23O Rule-making power
 (1) For the purposes of this Part, the Valuer-General—
@@ -506,8 +507,9 @@ The Governor-General may, on the recommendation of the Minister, make regulation
   (b) take reasonable steps to bring the notice to the attention of lessees of pastoral leases; and
   (c) give interested persons a reasonable period of time, which must be specified in the notice, to make submissions on the proposed rules; and
   (d) consult persons who the Valuer-General considers represent the lessees of pastoral leases and the Valuer-General considers appropriate, having regard in each case to the content and effect of the proposed rules.
-(4) A rule made under subsection (1) is a disallowable instrument, but not a legislative instrument, for the purposes of the Legislation Act 2012.
+(4)
 (5) In the event of any conflict between any regulation made under section 23N and any rule made under subsection (1), the regulation prevails.
+(6) Rules under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 23P Valuer-General may designate individuals eligible to be appointed as assessors and expert determiners
 (1) No individual may be appointed as a lessee's assessor, a Crown assessor, or an expert determiner under this Part unless the person is eligible to be so appointed.
