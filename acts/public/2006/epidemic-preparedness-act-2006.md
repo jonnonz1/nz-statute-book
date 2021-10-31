@@ -1,5 +1,5 @@
 # Epidemic Preparedness Act 2006
-_Consolidation as at 2021-10-28_
+_Consolidation as at 2021-10-31_
 
 ### 1 Title
 This Act is the Epidemic Preparedness Act 2006.
@@ -254,14 +254,7 @@ An immediate modification order cannot be disallowed under Part 5 of the Legisla
 While a person’s rights, available remedies or courses of action, or legal situation under an enactment are affected by the effect of a modification order, a requirement in any enactment (whether that enactment or another) to the effect that a person must be told of those rights, those remedies or courses of action, or that situation, must be read as a requirement that he or she must be told of those rights, those remedies or courses of action, or that situation, as modified by the effect of the order.
 
 ### 27 Provisions regarding COVID-19 set out in Schedule 2
-(1) Provisions regarding COVID-19 are set out in Schedule 2.
-(2) This section and Schedule 2 are repealed on the earlier of the following:
-  (a) 31 October 2021:
-  (b) a date set by the Governor-General by Order in Council made on the recommendation of the Minister of Health with the agreement of the Minister of Justice.
-(3) The Minister of Health may recommend the making of an Order in Council under subsection (2)﻿(b) only if the Minister is satisfied that it is unnecessary for this section to remain in force because—
-  (a) the effects of COVID-19 have diminished to such an extent that it is no longer necessary to rely on the changes made to the law by this section; or
-  (b) for any other reason arising since the commencement of this section, it is no longer necessary for this section to remain in force.
-(4) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+[Repealed]
 
 ## Schedule 1 — Transitional, savings, and related provisions
 
@@ -274,5 +267,4 @@ While a person’s rights, available remedies or courses of action, or legal sit
 ## Schedule 2 — Provision regarding COVID-19
 
 ### 1 Power of courts to extend or shorten time
-(1) In relation to a proceeding before it, a court may, in its discretion, extend or shorten the time appointed by rules of court or an enactment, or fixed by a court order, for doing an act or taking a step on the terms that the court thinks just if satisfied that it is necessary or desirable to do so because of circumstances relating to COVID-19.
-(2) In this clause, court includes a tribunal.
+[Repealed]
