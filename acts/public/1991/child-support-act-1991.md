@@ -1,5 +1,5 @@
 # Child Support Act 1991
-_Consolidation as at 2021-10-28_
+_Consolidation as at 2021-11-01_
 
 > Title
 
@@ -2362,17 +2362,25 @@ Late payment penalties
   (a) the time stated in that subsection (which is a time after the time at which all of the debt became due and payable) occurs on or after 1 April 2016; and
   (b) at the time stated in that subsection, some or all of the debt remains unpaid.
 Late payment penalty: due date
-(2) At the expiry of the due date, the penalty is the greater of the following amounts:
-  (a) the amount of $5; and
-  (b) an amount equal to 2% of the amount of financial support remaining unpaid at the expiry of the due date.
-Late payment penalty: seventh day after due date
-(3) At the expiry of the seventh day after the due date, the penalty is an amount equal to 8% of so much (if any) of the amount of financial support (excluding the penalty imposed under subsection (2)) remaining unpaid at that expiry.
+(2) At the expiry of the due date, the penalty is an amount equal to 2% of the amount of financial support remaining unpaid at the expiry of the due date.
+Late payment penalty: 27th day after due date
+(3) At the expiry of the 27th day after the due date, the penalty is an amount equal to 8% of so much (if any) of the amount of financial support (excluding the penalty imposed under subsection (2)) remaining unpaid at that expiry.
 Incremental late payment penalty: first month after due date
 (4)
 Incremental late payment penalty: first 11 later months
 (5)
 Incremental late payment penalty: months after 1 year
 (6)
+
+### 134AAA Sixty-day grace period before penalties apply
+(1) This section applies to a liable person who receives an assessment unless—
+  (a) the person is already a liable person under an existing assessment; or
+  (b) the assessment is for a period in respect of which the person was a liable person.
+(2) The person is not liable to pay to the Commissioner a penalty under section 134 in respect of a debt that becomes due and payable during a 60-day grace period.
+(3) The grace period starts,—
+  (a) if the person is liable to pay financial support, on the first date on which a debt becomes due and payable under the assessment by the liable person in respect of a period starting on or after the commencement of this section:
+  (b) if the person is subject to a nil assessment, on the date of the assessment.
+(4) The grace period ends with the expiry of 60 days after the grace period starts.
 
 ### 134A Status of penalties under section 134
 A penalty payable under section 134—
@@ -3919,6 +3927,11 @@ Section 135GB continues to apply during the period beginning on 1 April 2021 and
 
 ### 22 Amendment to section 152B (Offsetting child support payments)
 The amendment to section 152B made by section 55 of the 2021 Amendment Act applies to all child support years, regardless of the period in which the liability to pay financial support arose or when an amount of financial support became due and payable.
+
+### Part 5 — Provisions relating to Taxation (Budget 2021 and Remedial Measures) Act 2021
+
+### 23 Amendments to section 134 (Penalties for late payment of financial support debts)
+The amendments to section 134 made by section 8(2) and (4) of the Taxation (Budget 2021 and Remedial Measures) Act 2021 apply to a financial support debt if the expiry of the seventh day after the due date falls on or after commencement of section 8(2) and (4) of that Act, but do not apply to a financial support debt if the expiry of the seventh day after the due date falls before commencement of those provisions.
 
 ## Schedule 2 — Care cost percentage
 
