@@ -1,5 +1,5 @@
 # Gambling Act 2003
-_Consolidation as at 2021-10-28_
+_Consolidation as at 2021-11-01_
 
 ### 1 Title
 This Act is the Gambling Act 2003.
@@ -344,17 +344,7 @@ The purpose of this Act is to—
 (3) References to this Act include regulations made or continued under this Act.
 
 ### 4A Modification of definition of remote interactive gambling during specified period due to effects of COVID-19
-(1) The purpose of this section is to enable certain class 3 gambling operators to undertake remote interactive gambling for a specified period due to the effects of COVID-19 on their ability to fund-raise.
-(2) This section applies during the period—
-  (a) beginning on the day on which this section comes into force; and
-  (b) ending on the close of 31 October 2021.
-(3) While this section applies, paragraph (b) of the definition of remote interactive gambling in section 4(1) must be read as if the following subparagraph were inserted after subparagraph (iv):
-  (“(v)) class 3 gambling in the form of a raffle conducted by Countdown Kids Charitable Trust, the National Heart Foundation of New Zealand, or Royal New Zealand Coastguard Incorporated (a specified operator), but only where all or any of the following apply:
-    (A) the specified operator offers tickets, or a person makes a request for a ticket, in the raffle by email or telephone:
-    (B) payment for a ticket is made via a communication device:
-    (C) a ticket is issued electronically.”
-(4) This section is repealed on the close of 31 October 2021.
-(5) The repeal of this section does not otherwise affect the previous operation of the definition of remote interactive gambling (as amended by this section) or anything done under it.
+[Repealed]
 
 ### 5 Extended meaning of conduct
 In this Act, conduct, in relation to gambling, includes any of the following activities:
