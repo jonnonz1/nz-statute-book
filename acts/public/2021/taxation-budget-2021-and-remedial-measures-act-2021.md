@@ -1,5 +1,5 @@
 # Taxation (Budget 2021 and Remedial Measures) Act 2021
-_Consolidation as at 2021-10-28_
+_Consolidation as at 2021-11-01_
 
 ### 1 Title
 This Act is the Taxation (Budget 2021 and Remedial Measures) Act 2021.
