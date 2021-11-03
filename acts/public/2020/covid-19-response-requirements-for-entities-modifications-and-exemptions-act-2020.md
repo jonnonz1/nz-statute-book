@@ -1,5 +1,5 @@
 # COVID-19 Response (Requirements For Entities—Modifications and Exemptions) Act 2020
-_Consolidation as at 2021-10-28_
+_Consolidation as at 2021-11-03_
 
 ### 1 Title
 This Act is the COVID-19 Response (Requirements For Entities—Modifications and Exemptions) Act 2020.
@@ -16,10 +16,12 @@ This Act comes into force on the day after the date on which it receives the Roy
   (a) to, in some circumstances, use electronic means for doing things if its constitution or rules would otherwise prevent this; and
   (b) to modify certain requirements or restrictions in its constitution or rules if it is not reasonably practicable to comply with them.
 (2) The processes are in Part 2.
-(3) Modifications made to constitutions or rules under section 13 are temporary. However, an entity may make lasting amendments to its constitution or rules through electronic voting (see sections 10 and 11).
+(3) Modifications made to constitutions or rules under section 13 or 13A are temporary. However, an entity may make lasting amendments to its constitution or rules through electronic voting (see sections 10, 10A, and 11).
 (4) This Act also provides, in Part 3,—
   (a) powers for responsible Registrars and Ministers to exempt classes of persons from certain provisions of specified enactments; and
   (b) powers for the Chief Judge of the Māori Land Court to grant relief from compliance with terms of certain orders made under Te Ture Whenua Maori Act 1993.
+(4A) The ability to use the processes in Part 2, and to exercise the powers in Part 3, applied for an initial period and was extended, by Order in Council made under section 42, until the close of 31 March 2021.
+(4B) Amendments to this Act made by the COVID-19 Response (Management Measures) Legislation Act 2021 broadly revive the processes and powers during a period (the initial 2021/22 period) that starts on the amendment date and ends with 30 April 2022 (unless extended for a further period by Order in Council made under section 42B).
 (5) This section is only a guide to the general scheme and effect of this Act.
 
 **Interpretation**
@@ -83,6 +85,7 @@ Responsible Registrar or Minister
 
 ### 7 Interpretation
 In this Act, unless the context otherwise requires,—
+  - **amendment date** means the day after the date on which the COVID-19 Response (Management Measures) Legislation Act 2021 receives the Royal assent (which is the date on which this definition is inserted)
   - **building society** has the same meaning as in section 2(1) of the Building Societies Act 1965
   - **charitable trust board** means any trustees or society incorporated as a board under Part 2 of the Charitable Trusts Act 1957
   - **commencement date** means the commencement date of this Act
@@ -98,7 +101,7 @@ In this Act, unless the context otherwise requires,—
   - **friendly society** means a society that—
     (a) is of the kind specified in section 11(1)﻿(a) of the Friendly Societies and Credit Unions Act 1982; and
     (b) is registered under Part 2 of that Act
-  - **further period** , in relation to a matter, means a period (if any) that starts on 1 December 2020 and ends on the close of the day specified in an Order in Council made under section 42 that relates to the matter
+  - **further period** , in relation to a matter, means a period (if any) that starts on 1 May 2022 and ends on the close of the day specified in an Order in Council made under section 42B that relates to the matter
   - **give** , in relation to information, includes—
     (a) to send, post, serve, lodge, provide, or present; and
     (b) any of the other actions specified in section 224(4) of the Contract and Commercial Law Act 2017
@@ -115,6 +118,7 @@ In this Act, unless the context otherwise requires,—
   - **incorporated society** means a society incorporated under the Incorporated Societies Act 1908
   - **industrial and provident society** means a society registered under the Industrial and Provident Societies Act 1908
   - **information** includes notices, communications, and documents
+  - **initial 2021/22 period** means the period that starts on the amendment date and ends with 30 April 2022
   - **initial period** means the period from the commencement date until 30 November 2020
   - **joint Ministers** means the Minister of Finance and the Minister of Commerce and Consumer Affairs, acting jointly
   - **limited partnership** means a limited partnership that is registered under section 51 of the Limited Partnerships Act 2008
@@ -146,18 +150,43 @@ This Act binds the Crown.
 
 **Application**
 
-### 9 Sections 10 and 13 apply for relevant period
-Each of sections 10 and 13 applies in relation to an entity—
-  (a) until the close of 30 November 2020; and
-  (b) if its application is extended by an Order in Council made under section 42 in relation to the type of entity, for the further period.
+### 9 Sections 10A and 13A apply for relevant period
+Each of sections 10A and 13A applies in relation to an entity—
+  (a) for the initial 2021/22 period; and
+  (b) if its application is extended by an Order in Council made under section 42B in relation to the type of entity, for the further period.
 
 **Electronic means**
 
 ### 10 When electronic means permitted despite constitution or rules
 [Repealed]
 
+### 10A When electronic means permitted despite constitution or rules
+(1) In the relevant period, this section applies in relation to an entity—
+  (a) if,—
+    (i) because of a restriction or requirement in the entity’s constitution or rules, a matter in subsection (2) may not be done by electronic means, or a majority of the entity’s governing officers, in good faith, believe that there is uncertainty as to whether the matter may be done by electronic means; or
+    (ii) the entity’s constitution or rules are silent about whether a matter in subsection (2) may be done by electronic means; and
+  (b) if a majority of the entity’s governing officers believe, in good faith, that because of the effects of an outbreak of COVID-19 it is not reasonably practicable to do the matter by non-electronic means.
+(2) The matters are—
+  (a) having or recording information in writing:
+  (b) calling or holding meetings, including for the purpose of establishing a quorum:
+  (c) voting:
+  (d) giving or receiving information:
+  (e) making or keeping new records:
+  (f) providing access to records or information held by or on behalf of the entity:
+  (g) signing any instrument:
+  (h) retaining any information.
+(3) If this section applies,—
+  (a) the matter may be done, wholly or partly, by electronic means; and
+  (b) if done by electronic means, the matter has legal effect to the same extent as if it had been done by non-electronic means in accordance with the constitution or rules.
+(4) However, subsection (3)—
+  (a) is subject to the conditions in section 12 being, or having been, complied with as required by that section; and
+  (b) in the case of voting, is subject also to section 11.
+(5) In order to do the matter by electronic means, it is not necessary to comply with a paper-based format requirement within the meaning of section 225 of the Contract and Commercial Law Act 2017.
+(6) This section does not affect any legal requirement to the extent that the requirement relates to the content of information.
+(7) Nothing in this section prevents section 13A from being used to make modifications to allow things to be done by electronic means.
+
 ### 11 Electronic voting
-(1) No vote may be taken or received (wholly or partly) by electronic means in reliance on section 10, and no other part of a voting process may be done in reliance on that section, unless a majority of the entity’s governing officers (or the entity’s governing officer, if it has only 1)—
+(1) No vote may be taken or received (wholly or partly) by electronic means in reliance on section 10A, and no other part of a voting process may be done in reliance on that section, unless a majority of the entity’s governing officers (or the entity’s governing officer, if it has only 1)—
   (a) believe, on reasonable grounds, that the provisions in the entity’s constitution or rules that relate to the integrity of the voting process—
     (i) are or will be substantively complied with; and
     (ii) will not be substantively compromised as a consequence of the vote; and
@@ -167,7 +196,7 @@ Each of sections 10 and 13 applies in relation to an entity—
   (b) whether any person who is entitled to vote may suffer a material detriment.
 
 ### 12 Conditions
-(1) The conditions that permit a matter to be done in reliance on section 10 are as follows:
+(1) The conditions that permit a matter to be done in reliance on section 10A are as follows:
   (a) to the extent that doing the matter by electronic means relates to—
     (i) having information in electronic form (instead of in writing), section 222 of the Contract and Commercial Law Act 2017 must be complied with:
     (ii) recording information in electronic form (instead of in writing), section 223 of that Act must be complied with:
@@ -178,10 +207,10 @@ Each of sections 10 and 13 applies in relation to an entity—
     (vii) providing access to information in electronic form (instead of providing access to the information in paper or any other non-electronic form), section 234 of that Act must be complied with; and
   (b) the entity must keep a record of—
     (i) the electronic communications used to do the matter (if any); and
-    (ii) the reasons for the belief of the majority of its governing officers referred to in section 10(1)﻿(b) (and section 10(1)﻿(a), if relevant); and
-  (c) the entity must make reasonable efforts to notify all members and governing officers of the matter for which section 10 has been, or will be, relied on; and
+    (ii) the reasons for the belief of the majority of its governing officers referred to in section 10A(1)﻿(b) (and section 10A(1)﻿(a), if relevant); and
+  (c) the entity must make reasonable efforts to notify all members and governing officers of the matter for which section 10A has been, or will be, relied on; and
   (d) the entity must give to the responsible Registrar or agency a written notice that—
-    (i) identifies the matter for which section 10 has been, or will be, relied on; and
+    (i) identifies the matter for which section 10A has been, or will be, relied on; and
     (ii) contains, or is accompanied by, a copy of the record referred to in paragraph (b)﻿(ii).
 (2) For the purposes of meeting any conditions in subsection (1)﻿(a) to (c), an entity may treat a person as having consented to use, provide, accept, or receive information and electronic signatures by email if—
   (a) the person has previously notified the entity of an electronic address that the person uses; and
@@ -197,8 +226,33 @@ Each of sections 10 and 13 applies in relation to an entity—
 ### 13 Process for modifying certain requirements or restrictions in constitution or rules
 [Repealed]
 
-### 14 Matters that may be modified under section 13
-(1) Section 13 allows modifications relating to the following:
+### 13A Process for modifying certain requirements or restrictions in constitution or rules
+(1) In the relevant period, this section applies to an entity if—
+  (a) the entity’s constitution or rules contain a provision that (directly or indirectly)—
+    (i) requires a person to comply with a requirement; or
+    (ii) restricts the manner or form in which a person may exercise a power or right, or perform a function, that the person wishes to exercise or perform; and
+  (b) in the case of paragraph (a)﻿(i), the last date by which the person must comply with the requirement falls during the period that starts on the amendment date and ends when the relevant period ends; and
+  (c) in the case of paragraph (a)﻿(ii), the time at which the person wishes to exercise or perform the power, right, or function is during the period that starts on the amendment date and ends when the relevant period ends.
+(2) The entity may, by a notice in writing that is signed by the majority of its governing officers (or signed by its governing officer if it has only 1), modify the requirement or restriction if—
+  (a) the modification relates to a matter in section 14 and does not relate to a matter in section 15; and
+  (b) the modification is not inconsistent with any enactment or rule of law or equity; and
+  (c) a majority of the entity’s governing officers believe, on reasonable grounds, that—
+    (i) because of the effects of an outbreak of COVID-19, it is not, or is not likely to be, reasonably practicable for the person referred to in subsection (1) to comply (or comply fully) with the requirement or restriction; and
+    (ii) the modification goes no further than is, or is likely to be, reasonably necessary in the circumstances; and
+  (d) the modification—
+    (i) complies with section 17 (which relates to expiry); and
+    (ii) if it relates to dispute resolution or disciplinary proceedings, complies with the principles of natural justice; and
+  (e) the majority of the entity’s governing officers believe, on reasonable grounds, that the modification is not oppressive, unfairly discriminatory, or unfairly prejudicial to any member, creditor, or other person; and
+  (f) if the modification relates to a method or form of voting, the majority of the entity’s governing officers believe, on reasonable grounds, that the requirements or restrictions in the entity’s constitution or rules that relate to the integrity of the voting process are substantively maintained or enhanced (and section 11(2) applies to the forming of this belief with all necessary modifications); and
+  (g) the entity complies with the conditions in section 18.
+(3) A modification made by an entity in accordance with this section has legal effect to the same extent as if it were made in accordance with the constitution or rules (and the procedures for amending the constitution or rules in any enactment).
+(4) A modification does not actually amend the text of the constitution or rules (but has legal effect under subsection (3) as if the text were amended).
+(5) To the extent that the modification is inconsistent with any enactment or rule of law or equity, the modification is of no effect.
+(6) See section 16 in relation to retrospective modifications.
+(7) For the purposes of subsections (2)﻿(b) and (5), provisions in other enactments (and any rules of law or equity) that relate to amending, or require compliance with, constitutions or rules are disregarded.
+
+### 14 Matters that may be modified under section 13A
+(1) Section 13A allows modifications relating to the following:
   (a) calling or holding meetings (including procedures at meetings):
   (b) a method or form of voting:
   (c) giving or receiving information:
@@ -207,13 +261,13 @@ Each of sections 10 and 13 applies in relation to an entity—
   (f) a method or form of disciplinary procedure:
   (g) a waiver, suspension, deferral, or reduction of fees or other amounts payable by members of the entity to the entity:
   (h) a deferral of auditing, assurance, or financial reporting or review requirements:
-  (i) use of electronic means to do any matter listed in section 10(2):
+  (i) use of electronic means to do any matter listed in section 10A(2):
   (j) other procedural or administrative processes.
-(2) However, the list in subsection (1) is subject to regulations made under section 41(1)﻿(a)﻿(i) or (iii) (which may restrict, or add to, the list).
+(2) However, the list in subsection (1) is subject to regulations made under section 42A(1)﻿(a)﻿(i) or (iii) (which may restrict, or add to, the list).
 (3) If there is any inconsistency between this section and section 15(a) to (j), that section prevails.
 
-### 15 Matters that may not be modified under section 13
-Section 13 does not allow modifications that relate to the following:
+### 15 Matters that may not be modified under section 13A
+Section 13A does not allow modifications that relate to the following:
   (a) the purpose or objects of the entity:
   (b) the powers of the entity (other than a procedural or an administrative power):
   (c) the sale, transfer, or other disposition of real or personal property:
@@ -224,38 +278,38 @@ Section 13 does not allow modifications that relate to the following:
   (h) fees or other payments (other than a waiver, suspension, deferral, or reduction of fees or other amounts payable by members of the entity to the entity):
   (i) an alteration or addition made to the constitution or rules by an order of a court:
   (j) any matter if the modification to that matter has a material detrimental effect (direct or indirect) on the substantive rights or powers of any creditor or other person:
-  (k) any matter that is prescribed by regulations made under section 41(1)﻿(a)﻿(ii):
+  (k) any matter that is prescribed by regulations made under section 42A(1)﻿(a)﻿(ii):
   (l) any other matter that is not listed in section 14.
 
 ### 16 Retrospective modifications
-(1) This section applies to the extent that a modification made under section 13 relates to either of the following:
+(1) This section applies to the extent that a modification made under section 13A relates to either of the following:
   (a) omitting to do a required act by a due date that is before the date on which the modification is made:
   (b) an act done in an attempt to do an act required to be done by a due date that is before the date on which the modification is made.
 (2) The modification is treated as validly made on or immediately before the due date if—
-  (a) the due date is no earlier than 21 March 2020; and
-  (b) the modification is made by the entity no later than 3 months after the commencement date.
-(3) To the extent that the modification relates to a due date earlier than 21 March 2020, the modification is of no effect.
+  (a) the due date is no earlier than the amendment date; and
+  (b) the modification is made by the entity no later than 3 months after the amendment date.
+(3) To the extent that the modification relates to a due date earlier than the amendment date, the modification is of no effect.
 
 ### 17 Modifications must expire
-Modifications made in initial period
-(1) A modification made under section 13 in the initial period must have an express expiry date that is no later than the end of the initial period.
+Modifications made in initial 2021/22 period
+(1) A modification made under section 13A in the initial 2021/22 period must have an express expiry date that is no later than the end of the initial 2021/22 period.
 (2) However, subsection (3) applies if—
-  (a) a modification made by an entity is in force immediately before the end of the initial period; and
-  (b) an Order in Council is made under section 42(1)﻿(b) for a further period in relation to the type of entity.
-(3) The modification does not expire at the end of the initial period but is treated as having an expiry date that is the end of the further period.
+  (a) a modification made by an entity is in force immediately before the end of the initial 2021/22 period; and
+  (b) an Order in Council is made under section 42B(1)﻿(b) for a further period in relation to the type of entity.
+(3) The modification does not expire at the end of the initial 2021/22 period but is treated as having an expiry date that is the end of the further period.
 (4) Subsection (3) does not apply if the modification expressly states that it will not apply in any further period.
 Modifications made in further period
-(5) A modification made by an entity under section 13 in the further period (if any) must have an express expiry date that is no later than the end of the further period.
+(5) A modification made by an entity under section 13A in the further period (if any) must have an express expiry date that is no later than the end of the further period.
 
 ### 18 Conditions
-(1) An entity that relies on section 13 must do all of the following:
+(1) An entity that relies on section 13A must do all of the following:
   (a) keep a written record of—
     (i) the notice of the modification; and
-    (ii) its reasons as to how the requirements of section 13 were satisfied in respect of the modification; and
-    (iii) the reasons for the beliefs of the majority of its governing officers referred to in section 13(2)﻿(c), (e), and (f); and
+    (ii) its reasons as to how the requirements of section 13A were satisfied in respect of the modification; and
+    (iii) the reasons for the beliefs of the majority of its governing officers referred to in section 13A(2)﻿(c), (e), and (f); and
   (b) as soon as practicable after making the modification, make reasonable efforts to notify all members and governing officers of the entity of the modification; and
   (c) as soon as practicable after making the modification, give to the responsible Registrar or agency a written notice that—
-    (i) states that the entity is relying on section 13 of this Act; and
+    (i) states that the entity is relying on section 13A of this Act; and
     (ii) contains, or is accompanied by, a copy of the written record referred to in paragraph (a); and
     (iii) contains, or is accompanied by, a certificate by a governing officer of the entity certifying that, in making the modification, all requirements of this Act were complied with.
 (2) If there is more than 1 responsible Registrar or agency, the entity must give the notice under subsection (1)﻿(c) to each of them.
@@ -265,9 +319,9 @@ Modifications made in further period
 (1) This section applies if,—
   (a) because of a restriction or requirement in an entity’s constitution or rules, 1 or more matters in subsection (2) may not be done by electronic means, or a majority of an entity’s governing officers, in good faith, believe that there is uncertainty as to whether the matter may be done by electronic means; and
   (b) the majority of the entity’s governing officers believe, in good faith, that it is not reasonably practicable to do the matter by non-electronic means.
-(2) The matters relate to a modification under section 13 and are—
+(2) The matters relate to a modification under section 13A and are—
   (a) making and signing the written notice of modification:
-  (b) recording the beliefs under section 13(2)﻿(c), (e), and (f):
+  (b) recording the beliefs under section 13A(2)﻿(c), (e), and (f):
   (c) compliance with any condition in section 18.
 (3) If this section applies,—
   (a) the matter may be done, wholly or partly, by electronic means; and
@@ -277,14 +331,14 @@ Modifications made in further period
 (6) This section does not affect any legal requirement to the extent that the requirement relates to the content of information.
 
 ### 20 Modified method or form of voting may not be used for certain matters
-(1) A vote may not be taken or received (wholly or partly) in reliance on a modification made under section 13 to a method or form of voting if the vote relates to any of the following matters (and, to the extent they are purportedly voted on in reliance on the modification, the vote is of no effect):
+(1) A vote may not be taken or received (wholly or partly) in reliance on a modification made under section 13A to a method or form of voting if the vote relates to any of the following matters (and, to the extent they are purportedly voted on in reliance on the modification, the vote is of no effect):
   (a) an amendment to an entity’s constitution or rules (other than an amendment described in subsection (2)); or
   (b) any matter listed in section 15.
-(2) Subsection (1)﻿(a) does not prevent a vote being taken or received (wholly or partly) in reliance on a modification made under section 13 to a method or form of voting if the amendment expires in accordance with section 17 (which applies with all necessary modifications as if the amendment were a modification referred to in that section).
+(2) Subsection (1)﻿(a) does not prevent a vote being taken or received (wholly or partly) in reliance on a modification made under section 13A to a method or form of voting if the amendment expires in accordance with section 17 (which applies with all necessary modifications as if the amendment were a modification referred to in that section).
 
 ### 21 Variation and revocation
-(1) An entity that desires to vary a modification made under section 13 may do so only under that section (with this Part applying with all necessary modifications).
-(2) A modification made by an entity under section 13 may be revoked by a notice in writing that is signed by the majority of the entity’s governing officers (or signed by its governing officer, if it has only 1).
+(1) An entity that desires to vary a modification made under section 13A may do so only under that section (with this Part applying with all necessary modifications).
+(2) A modification made by an entity under section 13A may be revoked by a notice in writing that is signed by the majority of the entity’s governing officers (or signed by its governing officer, if it has only 1).
 (3) An entity must comply with section 18 (with all necessary modifications), other than section 18(1)﻿(a)﻿(ii) and (iii) and (c)﻿(i), in relation to a revocation.
 
 **Records**
@@ -297,7 +351,8 @@ Modifications made in further period
 (3) An agency receiving the notice must make particulars about the notice (including particulars about information contained in, or accompanying, the notice) available to the public, but may do so in any way the agency thinks fit (for example, by publishing them on an Internet site).
 
 ### 23 Entity’s obligations to keep records
-On and from the end of the relevant period, the obligations that an entity has under other enactments in relation to the keeping of entity records apply to all written records and electronic communications made by or under this Part.
+(1) On and from 1 April 2021, the obligations that an entity has under other enactments in relation to the keeping of entity records apply to all written records and electronic communications made by or under this Part in reliance on section 10 or 13.
+(2) On and from the end of the relevant period, the obligations that an entity has under other enactments in relation to the keeping of entity records apply to all written records and electronic communications made by or under this Part in reliance on section 10A or 13A.
 
 ## Part 3 — Exemption powers and power to grant relief
 
@@ -309,14 +364,22 @@ The purpose of this Part is to enable the modification or relaxation of describe
   (b) may not be reasonably capable of being complied with, or complied with fully, because of the effects of COVID-19.
 
 ### 25 Powers may only be exercised during relevant period
-Every power to grant exemptions under section 26, and the power under section 30, may only be exercised—
-  (a) until the close of 30 November 2020; and
-  (b) if extended by an Order in Council made under section 42, during the further period.
+Every power to grant exemptions under section 26A, and the power under section 30A, may only be exercised—
+  (a) during the initial 2021/22 period; and
+  (b) if extended by an Order in Council made under section 42B, during the further period.
 
 **Powers**
 
 ### 26 Responsible Registrar or Minister may grant class exemptions
 [Repealed]
+
+### 26A Responsible Registrar or Minister may grant class exemptions
+(1) A responsible Registrar or Minister in relation to a specified Act may exempt classes of persons from compliance with any provision of the specified Act, or of a specified enactment made under the specified Act, that relates to any matter described in section 29(1).
+(2) An exemption may be granted on the terms and conditions (if any) that the responsible Registrar or Minister thinks fit.
+(3) An exemption must state the provision or provisions of the specified enactment to which the exemption applies.
+(4) To avoid doubt, an exemption may extend to exempt from compliance with any provision that is implied into a deed or an agreement by or under any provision referred to in subsection (1).
+(5) An exemption made under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+(6) The responsible Registrar’s or Minister’s reasons for granting the exemption (including why the exemption is appropriate) must be published with the exemption.
 
 ### 27 Restrictions on exemption powers
 (1) A responsible Registrar or Minister must not grant an exemption under this Part unless—
@@ -356,8 +419,8 @@ Every power to grant exemptions under section 26, and the power under section 30
   (f) a method or form of dispute resolution (excluding rights of access to courts, tribunals, or arbitral tribunals):
   (g) a method or form of disciplinary procedures:
   (h) auditing, assurance, or financial reporting or review requirements:
-  (i) any other matter specified by regulations made under section 41(1)﻿(b)﻿(i).
-(2) However, the list in subsection (1) is subject to regulations made under section 41(1)﻿(b)﻿(ii) (which may restrict the list) and subsections (3) to (5).
+  (i) any other matter specified by regulations made under section 42A(1)﻿(b)﻿(i).
+(2) However, the list in subsection (1) is subject to regulations made under section 42A(1)﻿(b)﻿(ii) (which may restrict the list) and subsections (3) to (5).
 (3) No exemption may be granted that results in a process for dispute resolution or a disciplinary procedure that is contrary to the rules of natural justice.
 (4) No exemption may dilute voting rights.
 (5) No exemption may dilute the number or need for a quorum.
@@ -365,11 +428,25 @@ Every power to grant exemptions under section 26, and the power under section 30
 ### 30 Chief Judge of Māori Land Court may grant relief without application
 [Repealed]
 
+### 30A Chief Judge of Māori Land Court may grant relief without application
+(1) The Chief Judge of the Māori Land Court may, with or without an application being made, grant relief for any person or class of persons from compliance with any of the following that relate to any matter described in section 29(1):
+  (a) the terms of a trust set out by order under section 219 of Te Ture Whenua Maori Act 1993 (relating to a Māori land trust):
+  (b) the terms of an order under Part 13 of that Act incorporating a Māori incorporation:
+  (c) the terms of a trust set out by order under section 338(7) and (8) of that Act (or the corresponding provisions of any former Act) (relating to a Māori reservation).
+(2) Before granting relief, the Chief Judge must be satisfied that—
+  (a) the relief is necessary or desirable for the purpose of this Part as set out in section 24; and
+  (b) the extent of the relief is not broader than is reasonably necessary to address the matters that gave rise to the relief.
+(3) Relief may be granted on the terms and conditions (if any) that the Chief Judge thinks fit.
+(4) Sections 29, 31 to 34, and 40 apply to relief granted under this section with all necessary modifications, including that—
+  (a) references to exemptions are treated as references to relief under this section:
+  (b) references to a responsible Registrar or Minister are treated as references to the Chief Judge.
+(5) This section does not limit any powers of the court.
+
 **Time frames relevant to exemptions and relief**
 
-### 31 Exemptions may be retrospective to 21 March 2020
-(1) A responsible Registrar or Minister may grant an exemption under this Part in respect of past acts or omissions.
-(2) However, no exemption may relate to an act or omission that occurred before 21 March 2020.
+### 31 Exemptions may be retrospective to amendment date
+(1) An exemption under this Part may be granted in respect of past acts or omissions.
+(2) However, no exemption may relate to an act or omission that occurred before the amendment date.
 
 ### 32 Exemptions that relate to periods of time
 An exemption granted under this Part in relation to a requirement that relates to a period of time (for example, a requirement to prepare and lodge financial statements for an accounting period) may, if the responsible Registrar or Minister thinks fit, apply to a period that commenced before the exemption is granted (including a period that ended before the exemption is granted) if—
@@ -377,12 +454,12 @@ An exemption granted under this Part in relation to a requirement that relates t
   (b) section 31 applies.
 
 ### 33 Exemption in force for not longer than relevant period
-Exemptions granted in initial period
-(1) An exemption granted in the initial period may continue in force until the end of the initial period (and, at that point, the exemption must be treated as having been revoked unless it is sooner revoked or expires, or subsection (3) applies).
+Exemptions granted in initial 2021/22 period
+(1) An exemption granted in the initial 2021/22 period may continue in force until the end of the initial 2021/22 period (and, at that point, the exemption must be treated as having been revoked unless it is sooner revoked or expires, or subsection (3) applies).
 (2) Subsection (3) applies if—
-  (a) an exemption is in force immediately before the end of the initial period; and
-  (b) an Order in Council is made under section 42 for a further period in relation to section 26 and the specified enactment to which the exemption relates.
-(3) The exemption is not revoked at the close of the initial period but continues in force until the end of the further period (unless it is sooner revoked or expires).
+  (a) an exemption is in force immediately before the end of the initial 2021/22 period; and
+  (b) an Order in Council is made under section 42B for a further period in relation to section 26A and the specified enactment to which the exemption relates.
+(3) The exemption is not revoked at the close of the initial 2021/22 period but continues in force until the end of the further period (unless it is sooner revoked or expires).
 (4) Subsection (3) does not apply if the exemption expressly states that it will not apply in any further period.
 Exemptions granted in further period
 (5) An exemption granted in the further period (if any) may continue in force until the end of the further period (and, at that point, the exemption must be treated as having been revoked unless it is sooner revoked or expires).
@@ -435,6 +512,55 @@ The breach of a term or condition of an exemption granted under this Part is a b
 ### 42 Order in Council may prescribe further period
 [Repealed]
 
+### 42A Regulations may change Part 2 or Part 3 matters
+(1) The Governor-General may, by Order in Council made on the recommendation of the joint Ministers, make regulations that do all or any of the following:
+  (a) prescribe, for the purposes of section 13A,—
+    (i) matters additional to those listed in section 14(1) (matters that may be modified):
+    (ii) matters additional to those listed in section 15 (matters that may not be modified):
+    (iii) matters listed in section 14(1) that may no longer be modified (in whole or in part):
+  (b) prescribe, for the purposes of section 26A or 30A, or both,—
+    (i) matters additional to those listed in section 29(1) (matters in respect of which exemptions or relief may be granted):
+    (ii) matters listed in section 29(1) in respect of which exemptions or relief may no longer be granted (in whole or in part):
+  (c) provide for anything incidental that is necessary for carrying out, or giving full effect to, this Act.
+(2) Regulations made under this section may—
+  (a) relate to 1 or more classes of persons:
+  (b) relate to 1 or more specified Acts (and specified enactments made under them):
+  (c) make different provision for different cases on any differential basis.
+(3) Before making a recommendation for regulations under subsection (1)﻿(a)﻿(i), the joint Ministers must be satisfied that the regulations will not be inconsistent with the matters listed in section 15(a) to (j).
+(4) Before making a recommendation for regulations under subsection (1)﻿(b), the joint Ministers must be satisfied that the regulations are necessary or desirable for the purpose of Part 3 set out in section 24.
+(5) The joint Ministers’ reasons for making the recommendation under subsection (1) (including why the regulations are necessary or desirable) must be published together with the regulations.
+(6) Regulations made under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+
+### 42B Order in Council may prescribe further period
+(1) The Governor-General may, by Order in Council made on the recommendation of the joint Ministers, extend all or any of the following for a further period prescribed by the order:
+  (a) the application of section 10A:
+  (b) the application of section 13A:
+  (c) any or all powers to grant exemptions under section 26A:
+  (d) the power to grant relief under section 30A.
+(2) Every further period must—
+  (a) start on 1 May 2022; and
+  (b) end no later than the close of 30 October 2022.
+(3) An order under subsection (1) may—
+  (a) relate to 1 or more classes of persons:
+  (b) relate to 1 or more specified Acts (and specified enactments made under them):
+  (c) make different provision (including prescribing different periods) for different cases on any differential basis.
+(4) The power to make an order under subsection (1) may be exercised once only in respect of each section listed in that subsection.
+(5) However, the Governor-General may, by Order in Council made on the recommendation of the joint Ministers,—
+  (a) revoke an order made under subsection (1) (in whole or in part):
+  (b) amend an order made under subsection (1) to reduce any period.
+(6) The joint Ministers may make a recommendation for an order under subsection (1) only if they are satisfied that—
+  (a) the order is necessary or desirable to address the effects of COVID-19; and
+  (b) the period of the extension or each extension recommended for that order is no longer than is reasonably necessary to address the matters that gave rise to it.
+(7) Subsection (8) applies to the extent that a proposed recommendation relates to any of the following in relation to a specified Act for which a joint Minister is not the responsible Minister:
+  (a) extending the application of section 10A or 13A to a type of entity that is registered, incorporated, or regulated under the specified Act:
+  (b) extending a power to grant exemptions or relief in relation to the specified Act.
+(8) Before making the recommendation, the joint Ministers must consult the responsible Minister for the specified Act.
+(9) The joint Ministers’ reasons for making the recommendation (including why the order is necessary or desirable) must be published together with the order.
+(10) An order made under subsection (1) must be made at least 7 days before the end of the initial 2021/22 period.
+(11) In this section, responsible Minister, in relation to a specified Act, means the Minister of the Crown who, under the authority of any warrant or with the authority of the Prime Minister, is for the time being responsible for the administration of the specified Act.
+(12) An order made under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+
 ### 43 Repeals
 (1) Sections 10, 13, 26, 30, 41, and 42 are repealed on 1 April 2021.
-(2) The rest of this Act is repealed on the close of 31 May 2022.
+(1A) Sections 10A, 13A, 26A, 30A, 42A, and 42B are repealed on 1 November 2022.
+(2) The rest of this Act is repealed on the close of 30 September 2023.
