@@ -1,5 +1,5 @@
 # Credit Contracts and Consumer Finance Act 2003
-_Consolidation as at 2021-10-28_
+_Consolidation as at 2021-11-03_
 
 ### 1 Title
 This Act is the Credit Contracts and Consumer Finance Act 2003.
@@ -408,6 +408,8 @@ This Act binds the Crown.
   (f) consider comments received from those Ministers:
   (g) issue the Code.
 (3) The Code may specify different commencement dates for different provisions, but no date may be before the 28th day after the date on which the Code is published in accordance with subsection (4).
+(3A) Despite subsection (3), any Code that is published on or before 31 December 2021 may specify 1 or more commencement dates for different provisions of the Code that are before the 28th day after the date on which the Code is published.
+(3B) Subsection (3A) and this subsection are repealed on 1 January 2022.
 (4) The Code is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 9H Responsible Lending Code comes into force by notice in Gazette
