@@ -1,5 +1,5 @@
 # Contract and Commercial Law Act 2017
-_Consolidation as at 2021-10-28_
+_Consolidation as at 2021-11-03_
 
 ### 1 Title
 This Act is the Contract and Commercial Law Act 2017.
@@ -1786,6 +1786,44 @@ The copyright in a work is not infringed by either of the following acts if they
   (a) to prescribe an electronic form for the purposes of that enactment; and
   (b) to prescribe requirements in connection with the use of that electronic form, including requirements for its electronic signature.
 (2) Nothing in subsection (1) authorises a person to require the use of an electronic form under any enactment.
+
+### 240A Temporary modification relating to powers of attorney and COVID-19
+(1) Despite section 218(2)﻿(d) and paragraph (e) of Part 3 of Schedule 5, this subpart applies to a deed—
+  (a) that creates a power of attorney in connection with a security interest; and
+  (b) that is made during the period specified in section 240B.
+(2) In subsection (1), security interest means an interest in property created or provided for by a transaction that, in substance, secures payment or performance of an obligation, without regard to—
+  (a) the form of the transaction; and
+  (b) the identity of the person who has title to the property that is subject to the security interest.
+
+### 240B Period for which temporary modification applies
+(1) The modification in section 240A(1)—
+  (a) applies on and from the day on which this section comes into force; and
+  (b) ceases to apply—
+    (i) immediately after the expiry of the 6-month period that starts on the day on which this section comes into force; or
+    (ii) if an Order in Council is made under section 240C, immediately after the expiry of the period specified in that order.
+(2) Despite subsection (1)﻿(b), if an Order in Council is made under section 240D, the modification ceases to apply on the date appointed in that order.
+
+### 240C Order in Council may extend application period
+(1) The Governor-General may, by Order in Council made on the recommendation of the Ministers, extend the application period by up to 6 months from the end of the initial period.
+(2) The application period may be extended under this section only once.
+(3) The Ministers must not recommend the making of an order under this section unless the Ministers are satisfied that the extension—
+  (a) is necessary or desirable to address the effects of COVID-19; and
+  (b) is no longer than is reasonably necessary to address those effects.
+(4) The Ministers’ reasons for making the recommendation (including why the order is necessary or desirable) must be published together with the order.
+(5) An order made under this section must be notified in the Gazette at least 7 days before the end of the initial period.
+(6) An order made under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+(7) In this section and section 240D,—
+  - **application period** means the period during which the modification in section 240A(1) applies
+  - **initial period** means the initial 6-month period during which the modification applies in accordance with section 240B(1)﻿(a) and (b)﻿(i)
+  - **Ministers** means the Minister of Finance and the Minister of Commerce and Consumer Affairs.
+
+### 240D Order in Council may provide for modification to cease to apply
+(1) The Governor-General may, by Order in Council made on the recommendation of the Ministers, appoint a date (within the initial period or, if an order is made under section 240C, within the further period) on which the modification ceases to apply.
+(2) The Ministers must not recommend the making of an order under this section unless the Ministers are satisfied that the modification is no longer necessary or desirable to address the effects of COVID-19.
+(3) An order made under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+
+### 240E Repeal of temporary modification provisions
+This section and sections 240A to 240D are repealed on the close of 30 November 2022.
 
 ## Part 5 — Other commercial matters
 
