@@ -1,5 +1,5 @@
 # Resource Management Act 1991
-_Consolidation as at 2021-10-28_
+_Consolidation as at 2021-11-03_
 
 > An Act to restate and reform the law relating to the use of land, air, and water
 
@@ -2143,6 +2143,7 @@ The purpose of a New Zealand coastal policy statement is to state objectives and
 ### 58H Changing, replacing, or revoking national planning standards
 (1) The Minister may change or replace a national planning standard, following the process set out in sections 58D and 58E.
 (2) If a change to a national planning standard has not more than a minor effect or corrects errors or makes similar technical alterations, the Minister may make the change without following the process set out in sections 58D and 58E.
+(2A) The Minister may change the period for compliance specified in standards 17.2.a and 17.8.a of the National Planning Standards 2019 from 3 years to 5 years without following the process set out in sections 58D and 58E, other than to give notice of the change in the Gazette and on the Internet site referred to in section 58F(2).
 (3) The Minister may revoke a national planning standard in whole or in part, but must first give the public and iwi authorities notice, with adequate time and opportunity to comment on the proposed revocation.
 (4) The revocation of the whole or part of a national planning standard does not have the effect of revoking any provision of a plan included at the direction of, or in reliance on, a revoked provision of the national planning standard.
 (5) A change to or revocation of a national planning standard is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
@@ -2764,6 +2765,18 @@ A local authority may make a rule specifying the activities for which the consen
   (b) in the manner set out in Parts 1, 4, or 5 of Schedule 1 and this Part.
 (8) A provision of a policy statement or plan, or the policy statement or plan, as the case may be, does not cease to be operative because the provision, statement, or plan is due for review or is being reviewed under this section.
 (9) The obligations on a local authority under this section are in addition to its duty to monitor under section 35.
+
+### 79AA Application of temporary provisions in respect of section 79
+(1) The temporary provisions set out in subsections (2) and (3) apply instead of section 79(1) during the period—
+  (a) beginning on the commencement date; and
+  (b) ending with the close of 30 September 2024.
+(2) A local authority may commence a review of a provision of any of the following documents it has:
+  (a) a regional policy statement:
+  (b) a regional plan:
+  (c) a district plan.
+(3) However, any review of a provision that would have taken place under section 79(1) (as it read immediately before the commencement date) if it had not been temporarily suspended must be commenced no later than the close of 30 September 2024.
+(4) In this section, commencement date means the date on which Schedule 3 of the COVID-19 Response (Management Measures) Legislation Act 2021 comes into force.
+(5) This section is repealed on 1 October 2024.
 
 ### 79A Circumstance when further review required
 [Repealed]
