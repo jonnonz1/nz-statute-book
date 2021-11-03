@@ -1,5 +1,5 @@
 # Criminal Procedure Act 2011
-_Consolidation as at 2021-10-28_
+_Consolidation as at 2021-11-03_
 
 ### 1 Title
 This Act is the Criminal Procedure Act 2011.
@@ -32,11 +32,11 @@ The purpose of this Act is to—
   (f) all stages of a proceeding for a category 1 offence are dealt with by the District Court:
   (g) if the matter proceeds to trial, the trial will be a Judge-alone trial:
   (h) in general terms, a category 2 offence is an offence punishable by a term of imprisonment of less than 2 years:
-  (i) a trial for a category 2 offence will be in the District Court unless an order is made transferring the proceeding to the High Court for trial (see sections 68 and 70):
+  (i) a trial for a category 2 offence will be in the District Court unless an order is made transferring the proceeding to the High Court for trial (see sections 68, 68A, and 70):
   (j) if the matter proceeds to trial, the trial will be a Judge-alone trial:
   (k) in general terms, a category 3 offence is an offence punishable by a term of imprisonment of 2 years or more (other than a category 4 offence):
   (l) a defendant charged with a category 3 offence has a choice about whether or not to elect a trial by jury (see section 50):
-  (m) a trial for a category 3 offence will be in the District Court unless an order is made transferring the proceeding to the High Court for trial (see sections 68 and 70):
+  (m) a trial for a category 3 offence will be in the District Court unless an order is made transferring the proceeding to the High Court for trial (see sections 68, 68A, and 70):
   (n) the procedure for a category 3 offence generally depends on whether the defendant elects trial by jury:
   (o) if the defendant does not elect trial by jury, and the matter proceeds to trial, the trial will be a Judge-alone trial:
   (p) if the defendant elects trial by jury, and the matter proceeds to trial, the trial will be a jury trial (unless a Judge-alone trial is ordered under section 102 or 103):
@@ -664,8 +664,27 @@ The fact that a defendant made a request for a sentence indication is not admiss
   (c) the matters listed in section 67(4)﻿(b).
 (3) No party may appeal against an order under subsection (1).
 
+### 68A High Court Judge may reconsider orders made under section 68 in certain circumstances
+(1) A High Court Judge may, on the Judge’s own motion,—
+  (a) reconsider an order made under section 68(1), if there has been any relevant change in circumstances, including (but not limited to)—
+    (i) the addition of a co-defendant to, or removal of a co-defendant from, the proceedings:
+    (ii) an increase or a decrease in—
+      (A) the resources available to the court:
+      (B) the complexity of the proceedings:
+    (iii) a jury backlog arising out of particular circumstances (for example, compliance with rules to prevent the spread of COVID-19); and
+  (b) make a new order under section 68(1) without seeking a recommendation from the District Court Judge under section 67.
+(2) Before making a new order under section 68(1) after reconsideration under this section, the High Court Judge must consider the matters specified in sections 67(4) and 68(2)﻿(a) and (b).
+(3) No party may appeal against an order made under section 68(1) after reconsideration under this section.
+(4) A reference, in legislation or an administrative document, to an order made under section 68 or 68(1) includes, without limitation, a reference to an order of that kind made after reconsideration under this section.
+(5) If a conflict arises between this section and section 135, section 135 prevails.
+
 ### 69 Proceedings not invalid
-No proceeding that relates to a protocol offence is invalid only because it failed to be identified as a protocol offence and considered in accordance with sections 67 and 68.
+(1) No proceeding that relates to a protocol offence is invalid only because it failed to be identified as a protocol offence and considered in accordance with sections 67 and 68.
+(2) No proceeding that relates to a protocol offence is invalid only because—
+  (a) the offence was identified as a protocol offence; and
+  (b) an order was made under section 68(1); and
+  (c) the order was reconsidered (with or without being replaced by a new order made under section 68(1)); but
+  (d) the order was not reconsidered in accordance with section 68A.
 
 **Order that proceeding for category 2 or 3 offence be tried in High Court**
 
