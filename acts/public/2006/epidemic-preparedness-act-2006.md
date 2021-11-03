@@ -1,5 +1,5 @@
 # Epidemic Preparedness Act 2006
-_Consolidation as at 2021-10-31_
+_Consolidation as at 2021-11-03_
 
 ### 1 Title
 This Act is the Epidemic Preparedness Act 2006.
@@ -21,11 +21,15 @@ This Act comes into force on the day after the date on which it receives the Roy
   - **enactment** does not include a rule of court
   - **epidemic management notice** means a notice under section 8(1)
   - **epidemic notice** means a notice under section 5(1)
+  - **High Court Rules** has the same meaning as in section 4(1) of the Senior Courts Act 2016
   - **immediate modification order** means a modification order made under section 14(1) or 15(1)
   - **modification order** means an order made under section 11(1), 12(1), 14(1), or 15(1)
   - **modify** includes suspend and waive
   - **person** includes the Crown
-  - **prospective modification order** means a modification order made under section 11(1) or 12(1).
+  - **prospective modification order** means a modification order made under section 11(1) or 12(1)
+  - **rules of court** , in relation to a court,—
+    (a) means rules (for example, the High Court Rules), or any secondary legislation (for example, regulations), regulating the practice and procedure of the court:
+    (b) for the purposes of section 24, includes any applicable modifications made, and in force, under section 24A.
 (2) For the purposes of this Act,—
   (a) the Minister of the Crown and department of State responsible for the administration of an enactment that is or forms part of secondary legislation are the Minister of the Crown and department of State responsible for the administration of the enactment under whose authority the legislation was made; and
   (b) the New Zealand Police is a department of State and the Commissioner of Police is its chief executive.
@@ -231,18 +235,43 @@ An immediate modification order cannot be disallowed under Part 5 of the Legisla
   (a) applies to the whole of New Zealand if the relevant epidemic notice applies to the whole of New Zealand; and
   (b) applies to only the parts of New Zealand to which the relevant epidemic notice applies if the notice applies to only stated parts of New Zealand.
 
-### 24 Judges may modify rules of court during epidemic
+### 24 Judges may modify rules of court during epidemic: Judge modifications in particular cases
 (1) While an epidemic notice is in force, a Judge to whom subsection (2) applies (whether permanently appointed or temporary) may in any particular case modify any rule of court, and to any extent, that he or she thinks necessary in the interests of justice to take account of the effects of the quarantinable disease stated in the notice.
 (2) This subsection applies to—
   (a) a Judge of the High Court (whether acting as a Judge of the High Court or a Judge of the Court of Appeal or the Supreme Court):
   (b) an Associate Judge of the High Court:
-  (ba) a District Court Judge:
+  (ba)
   (c) a Judge of the Employment Court:
-  (d) a Judge of the Maori Land Court.
+  (d) a District Court Judge (including a District Court Judge exercising jurisdiction of a Family Court Judge or Youth Court Judge):
+  (e) a Judge of the Environment Court:
+  (f) a Judge of the Māori Land Court.
 (3) A modification—
   (a) may be absolute or subject to conditions; and
   (b) may be made by stating alternative means of complying with a requirement or restriction imposed by the rules.
 (4) Subsection (3) does not limit subsection (1).
+
+### 24A Judges may modify rules of court during epidemic: Head of Bench modifications in categories of proceedings
+(1) While an epidemic notice is in force, a Head of Bench (whether permanently appointed or temporary) may, for any category of proceedings in or before that Judge’s court, modify any rule of court, and to any extent, that he or she thinks necessary in the interests of justice to take account of the effects of the quarantinable disease stated in the notice.
+(2) A modification made under this section—
+  (a) may be absolute or subject to conditions; and
+  (b) may be made by stating alternative means of complying with a requirement or restriction imposed by the rules.
+(3) Subsection (2) does not limit subsection (1).
+(4) A modification made under this section—
+  (a) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements); and
+  (b) if it relates to the High Court Rules, is not to be drafted by the PCO under section 67(d)﻿(ii) of that Act.
+(5) In this section,—
+  - **District Court** —
+    (a) includes the division of that court known as the Family Court; and
+    (b) includes the division of that court known as the Youth Court; but
+    (c) excludes the division of that court known as the Disputes Tribunal
+  - **Head of Bench** means,—
+    (a) in relation to the Supreme Court, the Chief Justice:
+    (b) in relation to the Court of Appeal, the President of the Court of Appeal:
+    (c) in relation to the High Court, the Chief High Court Judge:
+    (d) in relation to the Employment Court, the Chief Judge of the Employment Court:
+    (e) in relation to the District Court, the Chief District Court Judge:
+    (f) in relation to the Environment Court, the Chief Environment Court Judge:
+    (g) in relation to the Māori Land Court, the Chief Judge of the Māori Land Court.
 
 ### 25 Certain common law doctrines not affected
 (1) No doctrine, defence, or rule of impossibility or necessity (for example, those embodied in the maxims lex non cogit ad impossibilia and nemo tenetur ad impossibile) is limited or affected by—
