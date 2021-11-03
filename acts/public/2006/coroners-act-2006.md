@@ -1,5 +1,5 @@
 # Coroners Act 2006
-_Consolidation as at 2021-10-28_
+_Consolidation as at 2021-11-03_
 
 ### 1 Title
 This Act is the Coroners Act 2006.
@@ -1068,6 +1068,14 @@ The coroner on whom an order is served in accordance with section 100 must open 
 (1) The findings of an inquiry conducted pursuant to any of sections 95 to 97 replace the findings at every previous inquiry (if any) conducted in respect of the death concerned.
 (2) Except to the extent that the Solicitor-General or the High Court may have ordered otherwise under section 95 or 96 or 97, all depositions taken for the purposes of any former inquiry into a death must be deemed to have been taken for the purposes of an inquiry into the death held pursuant to that section.
 (3) Except as provided in this section and sections 95 to 97, an inquiry held pursuant to any of those sections must be held in the same manner as any other inquiry.
+
+**Remote participation**
+
+### 102A Use of audio-visual links
+(1) A coroner may, if satisfied that it is in the interests of justice to do so, permit remote participation through the use of audio or audio-visual links.
+(2) If a coroner permits remote participation in respect of a matter, the Courts (Remote Participation) Act 2010 applies as if—
+  (a) the matter were a civil proceeding before a court; and
+  (b) the coroner were a judge of that court.
 
 ## Part 4 — Appointments, administration, powers, offences and penalties, and technical provisions
 
