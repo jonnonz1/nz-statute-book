@@ -1,5 +1,5 @@
 # Rating Valuations Act 1998
-_Consolidation as at 2021-10-28_
+_Consolidation as at 2021-11-03_
 
 > An Act to—aprovide for the Valuer-General to be a statutory officer within Land Information New Zealand; andbintroduce contestability to the rating valuations market by assigning to the Valuer-General a regulatory rather than a participatory role in the preparation of district valuation rolls; andcrepeal the Valuation of Land Act 1951 and generally restate the law relating to the valuation of land for rating purposes
 
@@ -173,6 +173,14 @@ In sections 5B and 5C, record of title means a record of title—
 (1) A territorial authority must revise its district valuation roll at intervals of not more than 3 years by revaluing every rating unit within its district to ensure that the roll represents values current as at the date of the revaluation.
 (2) Any such general revaluation is to be undertaken on the basis of values as at such date as is determined by the territorial authority and advised to the Valuer-General.
 (3) Any such general revaluation must comply with rules made by the Valuer-General for the purpose.
+(4) Despite subsection (1), the Valuer-General may, at the request of the chief executive of a territorial authority,—
+  (a) determine, in accordance with subsection (5), that the territorial authority is not required to undertake the general revaluation by the due date; and
+  (b) require the territorial authority to undertake the general revaluation by a date not later than 1 year after the due date.
+(5) The Valuer-General may make a determination under subsection (4)﻿(a) only if satisfied that the territorial authority is unlikely or is not reasonably able to revise its district valuation roll so that it represents values current as at the date of the revaluation because of constraints, caused by factors that are or include the effects of COVID-19, or official requirements imposed, or guidance issued, to support a public health response to COVID-19, or both, on—
+  (a) the practicality of carrying out physical inspections; or
+  (b) the availability and reliability of market evidence or other information that the Valuer-General may require under section 10.
+(6) In this section, due date means the last day by which a territorial authority must undertake the general revaluation in accordance with the time frame in subsection (1).
+(7) Subsections (4) to (6) and this subsection are repealed on 30 June 2022.
 (4)
 (5)
 (6)
