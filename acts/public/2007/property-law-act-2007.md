@@ -1,5 +1,5 @@
 # Property Law Act 2007
-_Consolidation as at 2021-10-28_
+_Consolidation as at 2021-11-03_
 
 ### 1 Title
 This Act is the Property Law Act 2007.
@@ -2533,6 +2533,67 @@ Definitions
   (b) is not finally determined (at first instance, or on any appeal) on the commencement of this section.
 (3) Any relief granted in the proceeding (for example, on an application made under section 244(1)﻿(a) for an order for possession of the land, or otherwise in exercise of the powers conferred by sections 253 to 264) must be not inconsistent with sections 245B to 245D.
 
+### 245F COVID-19 outbreak further measures: application
+Leases to which sections 245G to 245I apply
+(1) Sections 245G to 245I apply only to a lease—
+  (a) to which section 245 applies under section 206; and
+  (b) in operation in the affected period (even if it came into operation, was varied, or both, before or in that period); and
+  (c) that does not include any no access in an emergency clause that covers an epidemic.
+Definitions
+(2) In this section, sections 245G to 245I, and clause 4A of Schedule 3,—
+  - **affected period**
+    - **affected period** means all or any of the period that—
+      (a) starts on 18 August 2021; and
+      (b) ends on the repeal (on the date on which the Epidemic Preparedness (COVID-19) Notice 2020 expires or is revoked) of this section and sections 245G to 245I and clause 4A of Schedule 3
+    - **enforcement action** , for a lease, if the rent has been in arrears, includes taking all or any of the following actions:
+      (a) exercising a right to cancel the lease because of a breach of the covenant to pay rent under the lease (including, without limitation, serving a notice under section 245(1)﻿(b) or (2)):
+      (b) applying to a court for an order for possession of the land:
+      (c) re-entering the land peaceably (and without committing forcible entry under section 91 of the Crimes Act 1961):
+      (d) taking any other action—
+        (i) under this Act; and
+        (ii) related to cancelling the lease
+    - **epidemic** means an outbreak of a quarantinable disease in respect of which an epidemic notice has been given, and is in force, under section 5(1) of the Epidemic Preparedness Act 2006
+    - **leased premises** includes all land comprised in the lease
+    - **lessee** includes—
+      (a) a person who is a sublessee under a sublease to which this section applies under section 206(1); and
+      (b) a person who has accepted a transfer or assignment of a lease (see sections 239 to 242)
+    - **no access in an emergency clause** means any terms that provide expressly (whatever their form or wording) for a reduction of rent payable for a rental period, or of any contribution to the outgoings on the leased premises payable by the lessee for a rental period, or of both, because, for all or any part of that rental period,—
+      (a) there is an emergency; and
+      (b) the lessee is unable to gain access to all or any part of the leased premises to conduct fully their operations from all or any part of the leased premises, because of reasons of health or safety
+    - **reasons of health or safety** include, without limitation, any health or safety restriction imposed by any competent authority on occupation by any person of all or any part of the leased premises
+    - **rent** , payable by a lessee for a rental period, includes any contribution to the outgoings on the leased premises payable by the lessee for that rental period.
+
+### 245G COVID-19 outbreak further measures: covenant implied
+(1) The lease contains the implied covenant set out in clause 4A of Schedule 3.
+(2) Despite section 218(1), that implied covenant is implied only into a lease of the kind specified in section 245F(1).
+(3) The implied covenant may, in accordance with sections 217 and 279(2), be negatived, varied, or extended—
+  (a) by the express terms of the lease; or
+  (b) by a written memorandum executed, as the lease was required to be executed, by the parties to the lease; or
+  (c) if implied in a short-term lease not made in writing, by the express or implied agreement of the parties.
+(4) However, the implied covenant is not negatived, varied, or extended by any terms, memorandum, or agreement,—
+  (a) applying to all or any implied covenants, conditions, or powers set out in Schedule 3; and
+  (b) agreed to or made before the start of the affected period.
+(5) Subsection (4) does not limit clause 4A(1)﻿(b) of Schedule 3 (which relates to a pre-commencement rent variation agreement, as defined in clause 4A(5) of Schedule 3).
+
+### 245H COVID-19 outbreak further measures: enforcement
+(1) Enforcement action must be considered not to comply with sections 244 and 245 if that enforcement action is—
+  (a) taken in respect of the affected period; and
+  (b) inconsistent with section 245G.
+(2) In particular, enforcement action taken in respect of the affected period is inconsistent with section 245G if the action is to be, or has been, taken before the lessor and lessee have agreed a fair proportion under clause 4A of Schedule 3.
+(3) However, nothing in this section affects—
+  (a) section 184 (which provides protection to a person who purchases mortgaged property from a mortgagee or receiver); and
+  (b) section 51 of the Land Transfer Act 2017 (which provides, in the case of a transfer of an estate or interest in land, for title by registration except as provided for by that section); and
+  (c) any other enactment or law that protects, or protects a person claiming through, a person who acquires property for valuable consideration and in good faith.
+
+### 245I COVID-19 outbreak further measures: proceedings
+(1) This section applies to a proceeding—
+  (a) in or before a court or tribunal, or before a person acting judicially; and
+  (b) about, or about matters that include, a lease to which this section applies under section 245F(1).
+(2) In particular, this section applies even if the proceeding—
+  (a) commenced before the commencement of this section; and
+  (b) is not finally determined (at first instance, or on any appeal) on the commencement of this section.
+(3) Any relief granted in the proceeding (for example, on an application made under section 244(1)﻿(a) for an order for possession of the land, or otherwise in exercise of the powers conferred by sections 253 to 264) must be not inconsistent with sections 245G and 245H.
+
 ### 246 Cancellation of lease for breach of other covenants
 (1) A lessor may exercise a right to cancel a lease because of a breach of a covenant or condition of the lease (except the covenant to pay rent) only if—
   (a) the lessor has served on the lessee a notice of intention to cancel the lease; and
@@ -3882,6 +3943,24 @@ The amendments made by subpart 5 of Part 1 of the Financial Markets (Derivatives
   (a) a qualifying derivative entered into before the commencement of this clause if, on that commencement, any obligations remain under or in relation to the derivative (whether the obligations are contingent or otherwise); and
   (b) a qualifying derivative entered into on or after the commencement of this clause.
 
+### Part 2 — Provisions relating to Part 4 of Schedule 6 of COVID-19 Response (Management Measures) Legislation Act 2021
+
+### 2 Repeals of COVID-19 outbreak further measures
+The following provisions are repealed on the date on which the Epidemic Preparedness (COVID-19) Notice 2020 expires or is revoked:
+  (a) sections 245F to 245I:
+  (b) clause 4A of Schedule 3.
+
+### 3 Effect of repeals
+(1) The repeals in clause 2 do not affect—
+  (a) an existing right under the repealed legislation:
+  (b) the previous operation of the repealed legislation or anything done or suffered under it.
+(2) In particular, the repealed legislation continues to apply, despite those repeals, to the following:
+  (a) the implied covenant set out in clause 4A of Schedule 3 if, immediately before those repeals, and under sections 245F and 245G, a lease contains that implied covenant:
+  (b) agreements made, before or after those repeals, by the lessor and lessee under that implied covenant:
+  (c) any dispute arising under clause 4A of Schedule 3, for example, one that is—
+    (i) referred, before or after those repeals, and as required by clause 4A(7) of Schedule 3, to arbitration under the Arbitration Act 1996; or
+    (ii) otherwise the subject of a proceeding in or before a court or tribunal, or before a person acting judicially.
+
 ## Schedule 1 — Form of certificate of non-revocation of power of attorney
 
 | *Delete if inapplicable.†If donor is a body corporate, state place of registered office or principal place of business of donor and, if that is not in New Zealand, state the country in which the principal place of business is situated.‡Include if donor is a body corporate. |
@@ -4227,6 +4306,44 @@ The lessee covenants with the lessor on the matters, as the case requires, set o
   (b) the lessee’s agent, contractor, or invitee; or
   (c) any other person under the lessee’s direction or control.
 (5) Any dispute arising under this clause will be referred to arbitration under the Arbitration Act 1996.
+
+### 4A COVID-19 outbreak further measures: payment of fair proportion of rent
+Leases to which this implied covenant applies
+(1) This clause applies to a lease of the kind specified in section 245F(1)—
+  (a) only if, in a rental period all or any of which is in the affected period,—
+    (i) there is an epidemic; and
+    (ii) the lessee is unable to gain access to all or any part of the leased premises to conduct fully their operations in all or any part of the leased premises, because of reasons of health or safety related to the epidemic; and
+  (b) only to the extent that no pre-commencement rent variation agreement has been made that determines the rent that is payable by the lessee for that rental period.
+Fair proportion of rent otherwise payable will cease to be payable
+(2) A fair proportion of the rent otherwise payable by the lessee for that rental period will cease to be payable for the period—
+  (a) that is, or is in, that rental period (to the extent only that all or any of that rental period is in the affected period); and
+  (b) starting on the date when—
+    (i) there is an epidemic; and
+    (ii) the lessee is unable to gain access to all or any part of the leased premises to conduct fully their operations from all or any part of the leased premises, because of reasons of health or safety related to the epidemic; and
+  (c) ending when the inability ceases.
+(3) The fair proportion will be agreed by the lessor and lessee.
+(4) In determining the fair proportion, the matters that the lessor and lessee will consider must include any loss of income experienced by the lessee in respect of that rental period because, for all or any of that rental period,—
+  (a) there is an epidemic; and
+  (b) the lessee is unable to gain access to all or any part of the leased premises to conduct fully their operations in all or any part of the leased premises, because of reasons of health or safety related to the epidemic.
+Definitions
+(5) In this clause,—
+  - **affected period** has the meaning given to it by section 245F(2)
+  - **agreement** includes a contract that does not comply with section 24
+  - **epidemic** has the meaning given to it by section 245F(2)
+  - **leased premises** and have the meanings given to them by section 245F(2)
+  - **pre-commencement rent variation agreement** means an agreement that—
+    (a) is about what rent is payable by the lessee for a rental period all or any of which is in the affected period; and
+    (b) may, but need not, be also a variation of a lease about any other matter; and
+    (c) is made before the commencement of this clause, and is made for reasons that are or include that—
+      (i) there is an epidemic; and
+      (ii) the lessee is unable to gain access to all or any part of the leased premises to conduct fully their operations in all or any part of the leased premises, because of reasons of health or safety related to the epidemic
+  - **reasons of health or safety** and have the meanings given to them by section 245F(2).
+Disputes will be referred to arbitration
+(6) The lessor or lessee will take all reasonable steps to respond to a communication from the other about the operation of this clause, or about a dispute arising under this clause, within 10 working days (as defined in section 4 of the Property Law Act 2007) after receiving the communication.
+(7) Any dispute arising under this clause (for example, a dispute about whether this clause applies to a lease) will be referred to arbitration under the Arbitration Act 1996.
+(8) Subclause (7) is subject to section 16 (contracting out prohibited) of the Disputes Tribunal Act 1988, and does not prevent the lessor or lessee, before a referral under that subclause, from—
+  (a) agreeing with the other party to use non-binding mediation to try to resolve the dispute; or
+  (b) using any other available non-binding or binding dispute-resolution procedure or jurisdiction to resolve the dispute (for example, expert determination).
 
 ### 5 Alteration of buildings
 (1) The lessee will not, without the consent of the lessor, alter any building that comprises, or is part of, the leased premises.
