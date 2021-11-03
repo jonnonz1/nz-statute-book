@@ -1,5 +1,5 @@
 # Climate Change Response Act 2002
-_Consolidation as at 2021-10-28_
+_Consolidation as at 2021-11-03_
 
 ### 1 Title
 This Act is the Climate Change Response Act 2002.
@@ -736,16 +736,17 @@ The purpose of this subpart and subparts 3 and 4 is to require the Minister to s
 
 ### 5X Duty of Minister to set emissions budgets and ensure they are met
 (1) The Minister must set an emissions budget for each emissions budget period in accordance with this subpart.
-(2) From 31 December 2021, there must be 3 consecutive emissions budgets, 1 current and 2 prospective, in place at any one time.
+(2) From 31 May 2022, there must be 3 consecutive emissions budgets, 1 current and 2 prospective, in place at any one time.
 (3) An emissions budget must be set and notified in the Gazette under section 5ZD as follows:
-  (a) for the emissions budget period 2022 to 2025, by 31 December 2021:
-  (b) for the emissions budget period 2026 to 2030, by 31 December 2021:
-  (c) for the emissions budget period 2031 to 2035, by 31 December 2021:
+  (a) for the emissions budget period 2022 to 2025, by 31 May 2022:
+  (b) for the emissions budget period 2026 to 2030, by 31 May 2022:
+  (c) for the emissions budget period 2031 to 2035, by 31 May 2022:
   (d) for the emissions budget period 2036 to 2040, by 31 December 2025:
   (e) for the emissions budget period 2041 to 2045, by 31 December 2030:
   (f) for the emissions budget period 2046 to 2050, by 31 December 2035:
   (g) for any subsequent emissions budget period, by 31 December not less than 10 years before that emissions budget period commences.
 (4) The Minister must ensure that the net accounting emissions do not exceed the emissions budget for the relevant emissions budget period.
+(5) To avoid doubt, the emissions budget for the first emissions budget period applies to that whole period, commencing on 1 January 2022, even if it is set and notified after that.
 
 ### 5Y Contents of emissions budgets
 (1) Each emissions budget must state the total emissions that will be permitted for the relevant emissions budget period, expressed as a net quantity of carbon dioxide equivalent.
@@ -860,7 +861,9 @@ Borrowing
 **Emissions reduction plan to be prepared**
 
 ### 5ZG Requirement for emissions reduction plan
-(1) The Minister must prepare and make publicly available a plan setting out the policies and strategies for meeting the next emissions budget, and may include policies and strategies for meeting emissions budgets that have been notified under section 5ZD in accordance with the dates set out in section 5X(3).
+(1) For each emissions budget period, the Minister—
+  (a) must prepare and make publicly available a plan setting out the policies and strategies for meeting the relevant emissions budget; and
+  (b) may include in the plan policies and strategies for meeting any emissions budgets that have been notified under section 5ZD for the 2 emissions budget periods after that.
 (2) The plan must be prepared and made publicly available by the deadlines specified in section 5ZI.
 (3) The plan must include—
   (a) sector-specific policies to reduce emissions and increase removals; and
@@ -887,13 +890,14 @@ Borrowing
     (iii) present a copy of the plan to the House of Representatives.
 (2A) However, for the plan for the first emissions budget period, the Minister—
   (a) may prepare the plan before the relevant emissions budget has been notified under section 5ZD; and
-  (b) must do the following before the commencement of the budget period:
+  (b) must do the following at the same time as, or after, that emissions budget is notified under section 5ZD, but no later than 31 May 2022:
     (i) publish the plan in the Gazette; and
     (ii) make the plan publicly available; and
     (iii) present a copy of the plan to the House of Representatives.
 (3) The Minister may, at any time, amend the plan and supporting policies and strategies to maintain their currency,—
   (a) using the same process as required for preparing the plan; or
   (b) in the case of a minor or technical change, without repeating the process used for preparing the plan.
+(4) To avoid doubt, the plan for the first emissions budget period applies to that whole period, commencing on 1 January 2022, even if it is published, made available, and presented after that.
 (4)
 
 ### Subpart 4 — Monitoring
@@ -5887,6 +5891,7 @@ Any regulations made under this Act before the commencement of this clause may c
 (2) When an emissions budget is first set,—
   (a) the Minister must recommend the making of regulations under section 30GB to prescribe new limits or price control settings as required to comply with section 30GC(2); and
   (b) the Minister may recommend prescribing a new limit or price control settings for 1 or both of the 2 calendar years after the year in which the amendment is made, despite section 30GB(5).
+  (c) section 30H(3) does not apply to those regulations.
 
 ### 8 Existing accounts continue
 If any account established in the Registry (under section 7(1)﻿(a), for example) existed immediately before the commencement of this clause, it continues to exist after the commencement.
