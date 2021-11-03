@@ -1,5 +1,5 @@
 # COVID-19 Recovery (Fast-track Consenting) Act 2020
-_Consolidation as at 2021-10-28_
+_Consolidation as at 2021-11-03_
 
 ### 1 Title
 This Act is the COVID-19 Recovery (Fast-track Consenting) Act 2020.
@@ -10,7 +10,7 @@ This Act comes into force on the day after it receives the Royal assent.
 ## Part 1 — Preliminary provisions
 
 ### 3 Repeal of this Act
-(1) This Act is repealed on the second anniversary of the date on which it receives the Royal assent.
+(1) This Act is repealed on 8 July 2023.
 (2) See section 8 and Schedule 1, which make provision for transitional, savings, and related matters.
 
 ### 4 Purpose
