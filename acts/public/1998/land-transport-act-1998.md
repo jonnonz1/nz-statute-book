@@ -1,5 +1,5 @@
 # Land Transport Act 1998
-_Consolidation as at 2021-10-28_
+_Consolidation as at 2021-11-03_
 
 > An Act—ato promote safe road user behaviour and vehicle safety; andbto provide for a system of rules governing road user behaviour, the licensing of drivers, and technical aspects of land transport, and to recognise reciprocal obligations of persons involved; andcto consolidate and amend various enactments relating to road safety and land transport; anddto enable New Zealand to implement international agreements relating to road safety and land transport
 
@@ -3816,6 +3816,13 @@ For the purposes of sections 129(1), 130(1), and 131(1), any enforcement officer
   (a) the user of the vehicle may be proceeded against for the alleged offence under the Criminal Procedure Act 2011; or
   (b) the parking warden may issue an infringement notice in respect of the alleged offence.
 (7) For the purposes of any proceedings in respect of an infringement offence that is an offence against a bylaw made under section 9(1)﻿(e) or (g) of the Airport Authorities Act 1966, enforcement officer includes officers appointed by an airport authority.
+Temporary extension owing to COVID-19
+(8) An infringement notice may also be served by sending the notice by email to a person referred to in subsection (2)﻿(c) or (d) at the person’s email address.
+(9) If an infringement notice is served under subsection (8) by sending it to a person by email, unless the contrary is shown, the notice is treated as being served on the person at the time the email first enters an information system that is outside the control of the enforcement officer.
+(10) In subsection (9), information system means a system for producing, sending, receiving, storing, displaying, or otherwise processing electronic communications.
+(11) A reminder notice may be served by sending the reminder notice by email to a person referred to in subsection (2)﻿(c) or (d) at the person’s email address.
+(12) Subsection (11) overrides section 24(1)﻿(e) of the Summary Proceedings Act 1957.
+(13) This subsection, subsections (8) to (12), and the heading above subsection (8) are repealed when the Epidemic Preparedness (COVID-19) Notice 2020 expires or is revoked.
 
 ### 139A Towage fees if parking offences prosecuted
 (1) The court must order the defendant to pay, in addition to any fine and any costs ordered by the court, the amount of the appropriate towage fee if, in proceedings in respect of a parking offence,—
@@ -4827,6 +4834,11 @@ Subsections (2A) to (2C) of section 209 expire and are repealed with the close o
 (1) A notice required to be given to a person for the purposes of this Act, or a request in writing under section 118, may be given or made by causing it to be delivered to that person, or to be left at the person's usual or last known place of residence or business or at the address specified by the person in any application or other document under this Act or the Transport (Vehicle and Driver Registration and Licensing) Act 1986, or to be posted in a letter addressed to the person at that place of residence or business or address.
 (2) If any such notice or request is sent to a person by post, then, unless the contrary is shown, it is to be treated as having been delivered to him or her when it would have been delivered in the ordinary course of post, and in proving the delivery it is sufficient to prove that the letter was properly addressed and posted.
 (3) This section does not apply to an infringement notice or a copy of the notice.
+Temporary extension owing to COVID-19
+(4) A notice referred to in subsection (1) may also be given by sending the notice by email to the person’s email address.
+(5) If a notice is given under subsection (4) by sending it to a person by email, unless the contrary is shown, the notice is treated as being served on the person at the time the email first enters an information system that is outside the control of the person giving the notice.
+(6) In subsection (5), information system means a system for producing, sending, receiving, storing, displaying, or otherwise processing electronic communications.
+(7) This subsection, subsections (4) to (6), and the heading above subsection (4) are repealed when the Epidemic Preparedness (COVID-19) Notice 2020 expires or is revoked.
 
 ### 210A Transfer of responsibilities between regional councils and territorial authorities
 (1) A regional council may transfer 1 or more of its responsibilities under this Act to a territorial authority under section 17 of the Local Government Act 2002.
