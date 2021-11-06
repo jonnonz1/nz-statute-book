@@ -1,5 +1,5 @@
 # New Zealand Public Health and Disability Act 2000
-_Consolidation as at 2021-10-28_
+_Consolidation as at 2021-11-06_
 
 ### 1 Title
 This Act is the New Zealand Public Health and Disability Act 2000.
@@ -116,7 +116,10 @@ In order to recognise and respect the principles of the Treaty of Waitangi, and 
   - **publicly-owned health and disability organisation** means a DHB, Pharmac, NZBOS, HPA, and HQSC
   - **resident population** , in relation to a DHB, means the eligible people residing in the geographical area of the DHB (as specified in Schedule 1)
   - **service agreement** has the meaning given to it by section 25
-  - **services** means health services and disability support services
+  - **services** means—
+    (a) health services; and
+    (b) disability support services; and
+    (c) services provided to a person who has requested assisted dying under the End of Life Choice Act 2019
   - **statement of intent** means a statement of intent prepared in accordance with the Crown Entities Act 2004 and section 42 or section 67
   - **transaction** , in relation to a DHB, means—
     (a) the exercise or performance of a function, duty, or power of the DHB; or
