@@ -1,5 +1,5 @@
 # Burial and Cremation Act 1964
-_Consolidation as at 2021-10-28_
+_Consolidation as at 2021-11-06_
 
 > An Act to consolidate and amend the law relating to the burial and cremation of the dead
 
@@ -12,7 +12,7 @@ _Consolidation as at 2021-10-28_
   - **body** means a dead human body and includes the body of a stillborn child
   - **burial ground** means a denominational burial ground or a private burial ground; but does not include a Maori burial ground
   - **cemetery** means any land held, taken, purchased, acquired, set apart, dedicated, or reserved, under the provisions of any Act or before the commencement of this Act, exclusively for the burial of the dead generally, and, where the context so permits, includes a closed cemetery
-  - **certificate of cause of death** , in relation to a death or a body, means a certificate referred to in section 46B or 46C relating to the cause of death or, as the case may require, the cause of death of the person whose body it is
+  - **certificate of cause of death** , in relation to a death or a body, means a certificate referred to in section 46B, 46C, or 46CA relating to the cause of death or, as the case may require, the cause of death of the person whose body it is
   - **closed cemetery** means a cemetery which has been closed by a closing order and has a corresponding meaning
   - **closing order** means an order made under paragraph (a) of subsection (1) of section 41 before 1 January 1969, or a notice published under that paragraph after that date, or an Order in Council made under any corresponding former provision
   - **coroner's authorisation** , in relation to a body, means an authorisation by a coroner under section 42 of the Coroners Act 2006 for the release of the body
@@ -435,8 +435,13 @@ The Minister may, by any reopening order or by any later notice in the Gazette,�
 (3) Subsection (2) applies even though the death may have been reported to the New Zealand Police under section 14 of the Coroners Act 2006.
 (4) However, if the medical practitioner or nurse practitioner is aware that the death has been reported to a coroner under section 15(2) of the Coroners Act 2006, the practitioner must not give a certificate of cause of death under subsection (2) without first obtaining the agreement of the designated coroner.
 
+### 46CA Certificate of cause of death in relation to assisted dying
+(1) This section applies if a person dies as a result of assisted dying under the End of Life Choice Act 2019.
+(2) The medical practitioner or nurse practitioner who was available to the person until the person died must, immediately after the person’s death, give a certificate of cause of death.
+(3) However, a certificate of cause of death must not be given under this section if the coroner has decided to open an inquiry into the death under Part 3 of the Coroners Act 2006.
+
 ### 46D No liability for costs incurred in supplying information
-To avoid doubt, the Crown is not liable for the costs incurred by a person in supplying information required by section 46AA, 46A, 46B, or 46C.
+To avoid doubt, the Crown is not liable for the costs incurred by a person in supplying information required by section 46AA, 46A, 46B, 46C, or 46CA.
 
 ### 46E Bodies to be disposed of within reasonable time
 (1) A person having charge of a body must, within a reasonable time of taking charge of it,—
