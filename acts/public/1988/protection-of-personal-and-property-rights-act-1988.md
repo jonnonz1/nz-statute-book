@@ -1,5 +1,5 @@
 # Protection of Personal and Property Rights Act 1988
-_Consolidation as at 2021-10-28_
+_Consolidation as at 2021-11-06_
 
 > An Act to provide for the protection and promotion of the personal and property rights of persons who are not fully able to manage their own affairs
 
@@ -170,7 +170,8 @@ On an application for the exercise of a court's jurisdiction under this Part, th
   (c) to refuse consent to the administering to that person of any standard medical treatment or procedure intended to save that person's life or to prevent serious damage to that person's health; or
   (d) to consent to the administering to that person of electro-convulsive treatment; or
   (e) to consent to the performance on that person of any surgery or other treatment designed to destroy any part of the brain or any brain function for the purpose of changing that person's behaviour; or
-  (f) to consent to that person's taking part in any medical experiment other than one to be conducted for the purpose of saving that person's life or of preventing serious damage to that person's health.
+  (f) to consent to that person's taking part in any medical experiment other than one to be conducted for the purpose of saving that person's life or of preventing serious damage to that person's health; or
+  (g) to request, on behalf of the person, the option of receiving assisted dying under the End of Life Choice Act 2019.
 (2) Subject to subsection (1), a welfare guardian shall have all such powers as may be reasonably required to enable the welfare guardian to make and implement decisions for the person for whom the welfare guardian is acting in respect of each aspect specified by the court in the order by which the appointment of the welfare guardian is made.
 (3) In exercising those powers, the first and paramount consideration of a welfare guardian shall be the promotion and protection of the welfare and best interests of the person for whom the welfare guardian is acting, while seeking at all times to encourage that person to develop and exercise such capacity as that person has to understand the nature and foresee the consequences of decisions relating to the personal care and welfare of that person, and to communicate such decisions.
 (4) Without limiting the generality of subsection (3), a welfare guardian shall—
