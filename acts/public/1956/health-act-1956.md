@@ -1,5 +1,5 @@
 # Health Act 1956
-_Consolidation as at 2021-10-28_
+_Consolidation as at 2021-11-06_
 
 > An Act to consolidate and amend the law relating to public health
 
@@ -2667,7 +2667,7 @@ In this Part, unless the context otherwise requires,—
     (b) an examination of a histological specimen taken from the woman
   - **evaluate** has the meaning set out in section 112T(1)
   - **evaluation material** means any information about, and any specimen taken from, an identifiable individual that was obtained by a screening programme evaluator under this Part
-  - **health information** has the meaning set out in paragraphs (a) and (c) of the definition of that term in section 22B
+  - **health information** has the meaning set out in paragraphs (a) and (c) of the definition of that term in section 22B, but does not include information about assisted dying services provided under the End of Life Choice Act 2019.
   - **health practitioner** has the meaning set out in section 5 of the Health Practitioners Competence Assurance Act 2003
   - **hospital** means a hospital care institution within the meaning of section 58(4) of the Health and Disability Services (Safety) Act 2001
   - **NCSP** means the programme that, at the date of commencement of this section, is operated by the Ministry of Health and known as the National Cervical Screening Programme
