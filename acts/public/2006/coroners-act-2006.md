@@ -1,5 +1,5 @@
 # Coroners Act 2006
-_Consolidation as at 2021-11-03_
+_Consolidation as at 2021-11-06_
 
 ### 1 Title
 This Act is the Coroners Act 2006.
@@ -224,6 +224,7 @@ Schedule 1 contains transitional and savings provisions relating to amendments m
 ### 13 Duty to report deaths
 (1) A person who finds a body in New Zealand must report the finding to a Police employee as soon as practicable unless the person believes that the finding is already known to the New Zealand Police, or will be reported to a Police employee by another person.
 (2) A person who learns of a death of a kind described in section 14 must report that death to a Police employee as soon as practicable unless the person believes that the death is already known to the New Zealand Police, or will be reported to a Police employee by another person.
+(2A) However, subsections (1) and (2) do not apply in any case in which the death was a result of assisted dying under the End of Life Choice Act 2019.
 (3) Any person may, but is not required to, report an overseas death to a Police employee if—
   (a) the person is concerned that overseas authorities have not established the cause and circumstances of the death, or there is doubt about the accuracy of any conclusion reached by an overseas authority; and
   (b) the body of the dead person is in New Zealand.
@@ -739,7 +740,7 @@ In ascertaining whether the family members or other people to whom the body is t
 
 ### 60 Deaths into which inquiries must be opened
 (1) A responsible coroner must open and conduct an inquiry into a death if—
-  (a) the death appears to have been self-inflicted; or
+  (a) the death appears to have been self-inflicted (other than as a result of assisted dying under the End of Life Choice Act 2019); or
   (b) the dead person appears to have been a person in official custody or care; or
   (c) the coroner is not satisfied that the matters required by this Act to be established by an inquiry are already adequately disclosed in respect of the death by information arising from investigations or examinations the coroner has made or caused to be made.
 (2) This section is subject to sections 59 and 59A.
@@ -832,6 +833,7 @@ A coroner who opens an inquiry under any of sections 60, 62, and 65, or in accor
 (3) Despite subsection (2)﻿(c),—
   (a) a person may make public that the death is a suspected suicide; and
   (b) a person may describe the death as a suicide if the coroner has completed a certificate of findings under section 94 stating that the death was a suicide.
+(4) In this section, self-inflicted, in relation to a death, does not include a death that was the result of assisted dying under the End of Life Choice Act 2019 (see section 36 of that Act, which restricts making public details of assisted dying deaths).
 
 ### 71A Chief coroner may grant exemption from restrictions in section 71
 (1) A person may apply to the chief coroner for an exemption from the restrictions (specified in section 71(2)) applying to the publication of details of self-inflicted deaths.
