@@ -1,5 +1,5 @@
 # Crimes Act 1961
-_Consolidation as at 2021-10-28_
+_Consolidation as at 2021-11-06_
 
 > An Act to consolidate and amend the Crimes Act 1908 and certain other enactments of the Parliament of New Zealand relating to crimes and other offences
 
@@ -382,7 +382,8 @@ Where any person is justified, or protected from criminal responsibility, in exe
 (2) Where any prisoner of a prison is attempting to escape from lawful custody, or is fleeing after having escaped therefrom, every constable, and every person called upon by a constable to assist him or her, is justified in using such force as may be necessary to prevent the escape of or to recapture the prisoner, unless in any such case the escape can be prevented or the recapture effected by reasonable means in a less violent manner.
 
 ### 41 Prevention of suicide or certain offences
-Every one is justified in using such force as may be reasonably necessary in order to prevent the commission of suicide, or the commission of an offence which would be likely to cause immediate and serious injury to the person or property of any one, or in order to prevent any act being done which he or she believes, on reasonable grounds, would, if committed, amount to suicide or to any such offence.
+(1) Every one is justified in using such force as may be reasonably necessary in order to prevent the commission of suicide, or the commission of an offence which would be likely to cause immediate and serious injury to the person or property of any one, or in order to prevent any act being done which he or she believes, on reasonable grounds, would, if committed, amount to suicide or to any such offence.
+(2) This section is subject to section 37 of the End of Life Choice Act 2019.
 
 **Breach of the peace**
 
@@ -411,7 +412,8 @@ Every one, whether a member of the New Zealand forces or not, who believes, in g
 **Defence against assault**
 
 ### 48 Self-defence and defence of another
-Every one is justified in using, in the defence of himself or herself or another, such force as, in the circumstances as he or she believes them to be, it is reasonable to use.
+(1) Every one is justified in using, in the defence of himself or herself or another, such force as, in the circumstances as he or she believes them to be, it is reasonable to use.
+(2) This section is subject to section 37 of the End of Life Choice Act 2019.
 
 ### 49 Self-defence against provoked assault
 [Repealed]
@@ -1621,6 +1623,7 @@ Every one is liable to imprisonment for a term not exceeding 7 years who is an a
   (b) aids or abets any person in the commission of suicide.
 (2) A person commits an offence who incites, counsels, or procures another person to commit suicide, even if that other person does not commit or attempt to commit suicide in consequence of that conduct.
 (3) A person who commits an offence against subsection (2) is liable on conviction to imprisonment for a term not exceeding 3 years.
+(4) This section is subject to section 37 of the End of Life Choice Act 2019.
 
 ### 180 Suicide pact
 (1) Every one who in pursuance of a suicide pact kills any other person is guilty of manslaughter and not of murder, and is liable accordingly.
