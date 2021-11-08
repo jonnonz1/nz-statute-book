@@ -1,5 +1,5 @@
 # Social Security Act 2018
-_Consolidation as at 2021-10-28_
+_Consolidation as at 2021-11-08_
 
 ### 1 Title
 This Act is the Social Security Act 2018.
@@ -300,7 +300,7 @@ A person is entitled to sole parent support if the person—
   (d) is aged 20 years or over.
 
 ### 30 What is sole parent requirement
-(1) A person (P) meets the sole parent requirement if P is the mother or father of, and caring for, at least 1 dependent child aged under 14 years and—
+A person (P) meets the sole parent requirement if P is the mother or father of, and caring for, at least 1 dependent child aged under 14 years and—
   (a) P is single; or
   (b) P’s spouse or partner has died; or
   (c) P’s marriage or civil union has been dissolved; or
@@ -308,7 +308,6 @@ A person is entitled to sole parent support if the person—
   (e) P has lost the regular support of P’s spouse or partner because that spouse or partner—
     (i) is subject to a sentence of imprisonment and is serving the sentence in a prison or is subject to release conditions that prevent that spouse or partner from undertaking employment; or
     (ii) is subject to a sentence of supervision, intensive supervision, or home detention and is subject to conditions (including post-detention conditions of a sentence of home detention) that prevent that spouse or partner from undertaking employment.
-(2) An additional dependent child aged 1 year or over is not a dependent child for the purposes of P’s eligibility for sole parent support (see section 222(2)).
 
 ### 31 When dependent child may be regarded as applicant’s child
 For the purposes of this subpart, MSD may regard a dependent child as being a child of an applicant (A), and A as being the mother or father of the child, if—
@@ -1132,7 +1131,7 @@ A person (P) is subject to a sanction under section 236, 237, or 238 if MSD is s
 ### 121 Persons subject to work-preparation obligations
 The following persons must comply with section 124 and may be required to do any of the things set out in section 125:
   (a) a person who receives sole parent support and whose youngest dependent child is under the age of 3 years:
-  (b) a person who would receive sole parent support but has a dependent child under 12 months old and receives jobseeker support instead solely because that child is an additional dependent child (as defined in section 222):
+  (b)
   (c) a person who is a work-tested beneficiary and who has been granted under regulations made under section 431 a deferral of that person’s work-test obligations:
   (d) a person who—
     (i) is the spouse or partner of a person who—
@@ -1722,7 +1721,7 @@ In sections 177 to 179, rate, in relation to an overseas pension, means the rate
   (o) the issue of a warrant for a beneficiary’s arrest:
   (p) custody in prison or on remand:
   (q) absence from New Zealand:
-  (r) an additional dependent child:
+  (r)
   (s) voluntary unemployment or loss of employment through misconduct, etc:
   (t) a non-entitlement period, stand down, or 100% suspension of benefit.
 
@@ -2073,42 +2072,16 @@ In section 213,—
 **Factors affecting benefit: additional dependent child**
 
 ### 221 Purpose of sections 222 to 224
-(1) The purpose of sections 222 to 224 is to improve the financial and social outcomes for families that include people to whom those sections apply.
-(2) Sections 222 to 224 achieve their purpose—
-  (a) by providing earlier access to employment services and expectations; and
-  (b) while recognising the care and development needs of children.
+[Repealed]
 
 ### 222 Additional dependent child must not be taken into account in certain cases
-(1) This section applies when a person (P)—
-  (a) receives 1 of the following benefits (whether in P’s own right or as the spouse or partner of the person granted the benefit):
-    (i) sole parent support:
-    (ii) a supported living payment:
-    (iii) jobseeker support:
-    (iv) an emergency benefit; and
-  (b) is the caregiver, or principal caregiver, of a dependent child or children; and
-  (c) becomes the caregiver, or principal caregiver, of a dependent child (an additional dependent child) who is additional to the existing dependent child or children.
-(2) An additional dependent child aged 1 year or over is not a dependent child for the purposes of P’s eligibility for sole parent support (see section 30).
-(3) An additional dependent child aged 1 year or over is—
-  (a) not a dependent child for the purposes of the criteria stated in section 121 for imposing work-preparation obligations on P or P’s spouse or partner under sections 120 to 125:
-  (b) not a dependent child for the purposes of determining whether P or P’s spouse or partner falls within the definitions of any of the following terms (see Schedule 2):
-    (i) part-time work-tested beneficiary:
-    (ii) work-tested sole parent support beneficiary:
-    (iii) work-tested spouse or partner.
-(4) Subsection (1) does not apply when—
-  (a) P is the resident of another country; and
-  (b) there is in force under section 380 an order declaring that the provisions contained in an agreement (for example, a convention) with the government of that other country set out in a schedule of the order have force and effect so far as they relate to New Zealand.
-(5) In applying subsection (2) to a beneficiary for the purposes only of determining that person’s eligibility for sole parent support, in a case where the beneficiary’s sole parent support expired on the date that the beneficiary’s youngest child turned 14 years old and has been replaced with jobseeker support, An additional dependent child aged 1 year or over must be read as An additional dependent child at all times after that child is born.
+[Repealed]
 
 ### 223 Extended application of additional dependent child rules
-(1) MSD may apply the additional dependent child rules in section 222(2) and (3) in relation to any dependent child or children of whom a person (P) who already has any dependent child or children becomes a caregiver, or the principal caregiver, if MSD is satisfied that—
-  (a) P's situation is analogous to that of a person to whom section 222(1) applies; or
-  (b) to apply those rules will best achieve the purpose stated in section 221.
-(2) An example of a situation that is analogous to that of a person to whom section 222(1) applies is that of a woman who gives birth during a period when the woman has temporarily ceased receiving a benefit (whether the woman has ceased receiving the benefit in the woman’s own right, or as the spouse or partner of the person granted the benefit).
+[Repealed]
 
 ### 224 Limited application of additional dependent child rules
-MSD may elect (for any period MSD thinks fit) not to apply the additional dependent child rules in section 222(2) and (3) in relation to any additional dependent child or children if MSD is satisfied in any particular case that—
-  (a) not to apply those rules will best achieve the purpose stated in section 221; or
-  (b) there are circumstances beyond the control of the beneficiary parent concerned making it inappropriate or unreasonable to apply those rules.
+[Repealed]
 
 **Factors affecting benefit: voluntary unemployment or loss of employment through misconduct, etc**
 
@@ -2859,7 +2832,7 @@ A benefit of a kind specified in regulations made under section 440—
   (a) sole parent support; or
   (b) a supported living payment; or
   (c) jobseeker support granted on the ground of health condition, injury, or disability; or
-  (d) jobseeker support granted to a sole parent, or to a person to whom section 30(1)﻿(e) (which relates to having lost the regular support of a spouse or partner who is subject to a sentence of imprisonment, etc) applies; or
+  (d) jobseeker support granted to a sole parent, or to a person to whom section 30(e) (which relates to having lost the regular support of a spouse or partner who is subject to a sentence of imprisonment, etc) applies; or
   (e) jobseeker support granted to a person who has recently lost the financial support of the person’s spouse or partner because of death, the spouses or partners commencing to live apart, or the ending of a de facto relationship; or
   (f) a youth payment; or
   (g) a young parent payment.
@@ -5351,7 +5324,7 @@ The estimated income for the period for which the calculation under clause 12(1)
 ### Part 1 — Jobseeker support
 
 ###
-The following table is small in size and has 4 columns. The columns have no headings.1(a)To a single beneficiary under the age of 20 years who is—$200.91 a week, subject to Income Test 3(i)living with a parent (as that term is defined in clause 8); and(ii)whose benefit commenced on or after 1 July 1998(b)To any other single beneficiary under the age of 25 years without dependent children (see clause 7)$239.70 a week, subject to Income Test 3(c)To any other single beneficiary without dependent children and who was on 15 July 2013 transferred to jobseeker support by clause 2(9) and (11), or by clause 10(6) and (8), of Schedule 32 of the Social Security Act 1964 $288.16 a week, subject to Income Test 1(d)To any other single beneficiary without dependent children$278.50 a week, subject to Income Test 3(e)To any single beneficiary whose youngest dependent child is aged at least 14 years (including, without limitation, any such beneficiary who is a beneficiary of a kind specified in clause 4(a), (b), or (c), and see also MSD's discretion (to disregard specified income used to meet the cost of childcare) under clause 5)$406.78 a week, subject to Income Test 1(f)To any other single beneficiary with 1 or more dependent children$406.78 a week, subject to Income Test 1(g)To a beneficiary who is in a relationship whose spouse or partner is granted, in the spouse’s or partner’s own right, a main benefit under this Act (i)$226.81 a week subject to Income Test 4 if the beneficiary and his or her spouse or partner do not have 1 or more dependent children; or (ii)$240.65 a week subject to Income Test 4 if the beneficiary and his or her spouse or partner have 1 or more dependent children(h)To a beneficiary who is in a relationship whose spouse or partner is granted, in the spouse’s or partner’s own right, New Zealand superannuation or a veteran’s pension(i)$226.81 a week subject to Income Test 4 if the beneficiary and his or her spouse or partner do not have 1 or more dependent children; or (ii)$254.50 a week subject to Income Test 4 if the beneficiary and his or her spouse or partner have 1 or more dependent children(j)To a beneficiary who is in a relationship whose spouse or partner is not granted a main benefit under this Act, New Zealand superannuation, or a veteran’s pension, in the spouse’s or partner’s own right(i)$453.62 a week subject to Income Test 3 if the beneficiary and his or her spouse or partner do not have 1 or more dependent children; or(ii)$481.30 a week subject to Income Test 3 if the beneficiary and his or her spouse or partner have 1 or more dependent children2Maximum increase in respect of a housekeeper$226.81 a week3Special rate of benefit (and a rate to be received by the person during the period of non-entitlement of the person’s spouse or partner) for a person who has a spouse or partner who is ineligible for a benefit for a period because of—(i)$226.81 a week subject to Income Test 4 if the beneficiary does not have 1 or more dependent children; or (a)the application of sections 225 to 229 (which relate to voluntary unemployment or loss of employment through misconduct, etc); or(ii)$240.65 a week subject to Income Test 4 if the beneficiary has 1 or more dependent children(b)the application of sections 234 to 238 (which relate to sanctions that may be imposed for failures to comply with work-test or other obligations and work-preparation interviews and exercises); or(c)a strike, either by the spouse or partner, or by fellow members of the same union at the same place of employment4A single beneficiary whose youngest dependent child is aged at least 14 years, referred to in clause 1(e), includes, without limitation, any such beneficiary who is—(a)a beneficiary who (as a person with a dependent child aged under 14 years) was on 15 July 2013 transferred by clause 2(6) and (8) of Schedule 32 of the Social Security Act 1964 to sole parent support that after 14 July 2013 and under section 20H(1) and (2) of that Act expired, and was replaced with jobseeker support that commenced, on the date that the beneficiary's youngest dependent child turned 14 years old; or(b)a beneficiary who (as a person without a dependent child aged under 14 years) was on 15 July 2013 transferred to jobseeker support by clause 2(9) and (11) of Schedule 32 of the Social Security Act 1964; or(c)a beneficiary whose entitlement to jobseeker support arose from applying for it, and being granted it, after 14 July 2013.5For the purposes of clause 1(e) and of clause 1(f), MSD may disregard up to $20 a week of the beneficiary’s personal earnings used to meet the cost of childcare for any of the beneficiary’s dependent children.6A person to whom section 30(1)﻿(e) (which relates to having lost the regular support of a spouse or partner who is subject to a sentence of imprisonment, etc) applies is treated as a single beneficiary for the purposes of clauses 1(e) and (f) and 4.7In this Part, dependent child (as defined in Schedule 2) excludes a child in respect of whom an orphan’s benefit or an unsupported child’s benefit is being paid.8In this Part, living with a parent, in relation to a person and a parent (which, in this definition, means a parent, a guardian, or a person acting as a parent),—(a)means living in the same home as a parent of the person; but(b)does not include a situation in which a person lives in the same home as a parent of the person if—(i)the parent is financially dependent on the person; or(ii)the person, at the person’s own expense, provides accommodation for the parent in the home; or(iii)the person provides a substantial degree of care to the parent; or(iv)the home is a hostel, boardinghouse, or similar lodging, and the person and the parent pay for accommodation in it.
+The following table is small in size and has 4 columns. The columns have no headings.1(a)To a single beneficiary under the age of 20 years who is—$200.91 a week, subject to Income Test 3(i)living with a parent (as that term is defined in clause 8); and(ii)whose benefit commenced on or after 1 July 1998(b)To any other single beneficiary under the age of 25 years without dependent children (see clause 7)$239.70 a week, subject to Income Test 3(c)To any other single beneficiary without dependent children and who was on 15 July 2013 transferred to jobseeker support by clause 2(9) and (11), or by clause 10(6) and (8), of Schedule 32 of the Social Security Act 1964 $288.16 a week, subject to Income Test 1(d)To any other single beneficiary without dependent children$278.50 a week, subject to Income Test 3(e)To any single beneficiary whose youngest dependent child is aged at least 14 years (including, without limitation, any such beneficiary who is a beneficiary of a kind specified in clause 4(a), (b), or (c), and see also MSD's discretion (to disregard specified income used to meet the cost of childcare) under clause 5)$406.78 a week, subject to Income Test 1(f)To any other single beneficiary with 1 or more dependent children$406.78 a week, subject to Income Test 1(g)To a beneficiary who is in a relationship whose spouse or partner is granted, in the spouse’s or partner’s own right, a main benefit under this Act (i)$226.81 a week subject to Income Test 4 if the beneficiary and his or her spouse or partner do not have 1 or more dependent children; or (ii)$240.65 a week subject to Income Test 4 if the beneficiary and his or her spouse or partner have 1 or more dependent children(h)To a beneficiary who is in a relationship whose spouse or partner is granted, in the spouse’s or partner’s own right, New Zealand superannuation or a veteran’s pension(i)$226.81 a week subject to Income Test 4 if the beneficiary and his or her spouse or partner do not have 1 or more dependent children; or (ii)$254.50 a week subject to Income Test 4 if the beneficiary and his or her spouse or partner have 1 or more dependent children(j)To a beneficiary who is in a relationship whose spouse or partner is not granted a main benefit under this Act, New Zealand superannuation, or a veteran’s pension, in the spouse’s or partner’s own right(i)$453.62 a week subject to Income Test 3 if the beneficiary and his or her spouse or partner do not have 1 or more dependent children; or(ii)$481.30 a week subject to Income Test 3 if the beneficiary and his or her spouse or partner have 1 or more dependent children2Maximum increase in respect of a housekeeper$226.81 a week3Special rate of benefit (and a rate to be received by the person during the period of non-entitlement of the person’s spouse or partner) for a person who has a spouse or partner who is ineligible for a benefit for a period because of—(i)$226.81 a week subject to Income Test 4 if the beneficiary does not have 1 or more dependent children; or (a)the application of sections 225 to 229 (which relate to voluntary unemployment or loss of employment through misconduct, etc); or(ii)$240.65 a week subject to Income Test 4 if the beneficiary has 1 or more dependent children(b)the application of sections 234 to 238 (which relate to sanctions that may be imposed for failures to comply with work-test or other obligations and work-preparation interviews and exercises); or(c)a strike, either by the spouse or partner, or by fellow members of the same union at the same place of employment4A single beneficiary whose youngest dependent child is aged at least 14 years, referred to in clause 1(e), includes, without limitation, any such beneficiary who is—(a)a beneficiary who (as a person with a dependent child aged under 14 years) was on 15 July 2013 transferred by clause 2(6) and (8) of Schedule 32 of the Social Security Act 1964 to sole parent support that after 14 July 2013 and under section 20H(1) and (2) of that Act expired, and was replaced with jobseeker support that commenced, on the date that the beneficiary's youngest dependent child turned 14 years old; or(b)a beneficiary who (as a person without a dependent child aged under 14 years) was on 15 July 2013 transferred to jobseeker support by clause 2(9) and (11) of Schedule 32 of the Social Security Act 1964; or(c)a beneficiary whose entitlement to jobseeker support arose from applying for it, and being granted it, after 14 July 2013.5For the purposes of clause 1(e) and of clause 1(f), MSD may disregard up to $20 a week of the beneficiary’s personal earnings used to meet the cost of childcare for any of the beneficiary’s dependent children.6A person to whom section 30(e) (which relates to having lost the regular support of a spouse or partner who is subject to a sentence of imprisonment, etc) applies is treated as a single beneficiary for the purposes of clauses 1(e) and (f) and 4.7In this Part, dependent child (as defined in Schedule 2) excludes a child in respect of whom an orphan’s benefit or an unsupported child’s benefit is being paid.8In this Part, living with a parent, in relation to a person and a parent (which, in this definition, means a parent, a guardian, or a person acting as a parent),—(a)means living in the same home as a parent of the person; but(b)does not include a situation in which a person lives in the same home as a parent of the person if—(i)the parent is financially dependent on the person; or(ii)the person, at the person’s own expense, provides accommodation for the parent in the home; or(iii)the person provides a substantial degree of care to the parent; or(iv)the home is a hostel, boardinghouse, or similar lodging, and the person and the parent pay for accommodation in it.
 
 ### Part 2 — Sole parent support
 
@@ -5359,7 +5332,7 @@ The following table is small in size and has 4 columns. The columns have no head
 The following table is small in size and has 2 columns. The columns have no headings.
 (1) To a beneficiary with 1 or more dependent children: $406.78 a week, subject to Income Test 1.
 (2) For the purposes of clause 1, MSD may disregard up to $20 a week of the beneficiary's personal earnings used to meet the cost of childcare for any of the beneficiary's dependent children.
-(3) For the purposes of clause 1, MSD may treat all or any part of the income (including, without limitation, any pension or allowance under the Veterans' Support Act 2014) of the spouse or partner of an applicant to whom section 30(1)﻿(b) or (e) applies as if it were income derived by that applicant if MSD—
+(3) For the purposes of clause 1, MSD may treat all or any part of the income (including, without limitation, any pension or allowance under the Veterans' Support Act 2014) of the spouse or partner of an applicant to whom section 30(b) or (e) applies as if it were income derived by that applicant if MSD—
   (a) has had regard to its nature and the means by which it was derived; and
   (b) considers that treatment of it to be reasonable in the circumstances.
 (4) In this Part, dependent child (as defined in Schedule 2) excludes a child in respect of whom an orphan’s benefit or an unsupported child’s benefit is being paid.
