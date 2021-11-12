@@ -1,5 +1,5 @@
 # Land Transfer Act 2017
-_Consolidation as at 2021-10-28_
+_Consolidation as at 2021-11-12_
 
 ### 1 Title
 This Act is the Land Transfer Act 2017.
@@ -2300,13 +2300,7 @@ The Crown must meet the cost of a survey certified by the Surveyor-General as re
 (4) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 228 Regulations providing for transitional matters
-(1) The Governor-General may, by Order in Council made on the recommendation of the Minister, make regulations—
-  (a) providing transitional and savings provisions concerning the coming into force of this Act that may be in addition to, or in place of, the transitional and savings provisions in Schedule 1:
-  (b) providing that specified provisions of the Land Transfer Act 1952, of regulations made under that Act, of this Act, or of other enactments amended, revoked, or repealed by this Act, do not apply, or continue to apply or apply with modifications or additions, or both, for a specified time.
-(2) The Minister must not recommend the making of regulations under this section unless the Minister is satisfied that the regulations are necessary or desirable for the orderly implementation of this Act.
-(3) No regulations made under this section may be made, or continue in force, later than 3 years after the date on which this section comes into force.
-(4) This section is repealed on the expiry of 3 years after the date on which it comes into force.
-(5) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+[Repealed]
 
 **Fees and charges**
 
