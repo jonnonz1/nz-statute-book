@@ -1,5 +1,5 @@
 # Building Act 2004
-_Consolidation as at 2021-10-28_
+_Consolidation as at 2021-11-15_
 
 ### 1 Title
 This Act is the Building Act 2004.
@@ -186,6 +186,7 @@ The transitional, savings, and related provisions set out in Schedule 1AA have e
   - **dam owner accreditation body** means the person referred to in section 256
   - **dam safety assurance programme** means a dam safety assurance programme prepared by an owner of a dam under section 140
   - **determination** means a determination made by the chief executive under subpart 1 of Part 3
+  - **drinking water standards** means the standards made under section 47 of the Water Services Act 2021
   - **earthquake-prone building** has the meaning given in section 133AB
   - **earthquake rating** has the meaning given in section 133AC
   - **employee** includes,—
@@ -307,6 +308,9 @@ The transitional, savings, and related provisions set out in Schedule 1AA have e
       (ii) any product (other than an ordinary home bath) that is designed or modified to be used for swimming, wading, paddling, or bathing; but
     (b) does not include an artificial lake
   - **pool operator** means a person who operates and maintains a pool on a day-to-day basis
+  - **potable water** means water that—
+    (a) is safe to drink; and
+    (b) complies with the drinking water standards
   - **prescribed** means prescribed by regulations made under this Act
   - **prescribed electrical work** has the meaning given to it by section 2(1) of the Electricity Act 1992
   - **prescribed fee** includes a fee calculated in accordance with a rate or method prescribed for this purpose in regulations made under this Act
