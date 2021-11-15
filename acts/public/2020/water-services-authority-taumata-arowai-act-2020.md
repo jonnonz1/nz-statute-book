@@ -1,5 +1,5 @@
 # Taumata Arowai–the Water Services Regulator Act 2020
-_Consolidation as at 2021-10-28_
+_Consolidation as at 2021-11-15_
 
 ### 1 Title
 This Act is the Taumata Arowai–the Water Services Regulator Act 2020.
@@ -20,43 +20,45 @@ The purpose of this Act is to establish Taumata Arowai–the Water Services Regu
 In this Act, unless the context otherwise requires,—
   - **board** means the board of Taumata Arowai–the Water Services Regulator
   - **council-controlled organisation** has the meaning given to it by section 6 of the Local Government Act 2002
-  - **domestic dwelling** —
-    (a) means premises, the principal use of which is as residential premises; and
-    (b) includes residential premises that are tenanted on a long- or short-term basis; and
-    (c) includes residential premises that are occupied permanently or temporarily (for example, a holiday home)
-  - **domestic self-supplier** means a stand-alone or single domestic dwelling that has its own supply of waterExamplesA single property, with tenants on a lease, that is supplied by a rainwater tank is a domestic self-supplier.A single holiday house that is supplied by a rainwater tank and is rented to tourists on a short-term basis is a domestic self-supplier.A multi-dwelling building (for example, multiple separate apartments contained in a single building) that has its own bore water supply is not a domestic self-supplier.A marae wharekai (dining hall) or community hall that has its own river water supply is not a domestic self-supplier.A café building supplied by a rainwater tank is not a domestic self-supplier.
-  - **drinking water** —
-    (a) means water that is available to consumers from a point of supply, and used, for—
-      (i) human consumption; or
-      (ii) oral hygiene; or
-      (iii) the preparation of food, drink, or other products for human consumption; or
-      (iv) washing utensils that are used for eating and drinking, or for preparing, serving, or storing food or drink for human consumption; but
-    (b) does not include bottled water that is prepared or manufactured by a food business and is regulated under the Food Act 2014
-  - **drinking water supplier** —
-    (a) means a person who supplies drinking water to consumers through a drinking water supply; and
-    (b) includes a person who ought reasonably to know they are supplying drinking water to consumers; and
-    (c) includes the owner and the operator of a drinking water supply; and
-    (d) includes a drinking water supplier who supplies drinking water to another drinking water supplier; but
-    (e) does not include a domestic self-supplier
+  - **domestic dwelling** has the meaning given by section 10 of the Water Services Act 2021
+  - **domestic self-supplier** has the meaning given by section 10 of the Water Services Act 2021
+  - **drinking water** has the meaning given by section 6 of the Water Services Act 2021
+  - **drinking water network** has the meaning given to by section 9 of the Water Services Act 2021
+  - **drinking water supplier** has the meaning given by section 8 of the Water Services Act 2021
   - **Māori Advisory Group** means the Māori Advisory Group established by section 14
   - **premises** and have the meanings given in section 2 of the Residential Tenancies Act 1986
   - ****
   - **responsible Minister** means the Minister of the Crown who, under the authority of any warrant or with the authority of the Prime Minister, is responsible for the administration of this Act
-  - **stormwater network** means the infrastructure and processes that are used to collect, treat, drain, and discharge stormwater from a built area or transport corridor in an urban area
-  - **stormwater network operator** means each of the following, to the extent that they operate a stormwater network:
-    (a) a local authority, council-controlled organisation, or subsidiary of a council-controlled organisation:
-    (b) a department named in Part 1 of Schedule 2 of the Public Service Act 2020:
-    (c) the New Zealand Defence Force
+  - **stormwater network** means the infrastructure and processes that—
+    (a) are used to collect, treat, drain, store, reuse, or discharge stormwater in an urban area; and
+    (b) are operated by, for, or on behalf of one of the following:
+      (i) a local authority, council-controlled organisation, or subsidiary of a council-controlled organisation:
+      (ii) a department:
+      (iii) the New Zealand Defence Force
+  - **stormwater network operator** means—
+    (a) each of the following, to the extent that they operate a stormwater network or supervise its operation or aspects of its operation:
+      (i) a local authority, council-controlled organisation, or subsidiary of a council-controlled organisation:
+      (ii) a department listed in Part 1 of Schedule 2 of the Public Service Act 2020:
+      (iii) the New Zealand Defence Force; and
+    (b) any person who operates a stormwater network, or any aspect of a stormwater network, for, or on behalf of, an organisation specified in paragraph (a)
   - **Taumata Arowai** means Taumata Arowai–the Water Services Regulator established by section 8
-  - **Te Mana o te Wai** has the meaning set out in the National Policy Statement for Freshwater Management issued in 2014 (the ) under section 52 of the Resource Management Act 1991 and any statement issued under that section that amends or replaces the 2014 statement
+  - **Te Mana o te Wai** has the meaning set out in the National Policy Statement for Freshwater Management issued in 2020 under section 52 of the Resource Management Act 1991 and any statement issued under that section that amends or replaces the 2020 statement
   - **urban area** —
     (a) means an area identified in a district plan or proposed district plan as being primarily zoned for residential, industrial, or commercial activities, together with adjoining special-purpose and open-space zones, however described; but
     (b) does not include an area zoned primarily for rural or rural-residential activities, however described
-  - **wastewater network** means the infrastructure and processes that are used to collect, transmit through reticulation, treat, and discharge wastewater
-  - **wastewater network operator** means each of the following, to the extent that they operate a wastewater network:
-    (a) a local authority, council-controlled organisation, or subsidiary of a council-controlled organisation that operates a wastewater network:
-    (b) a department named in Part 1 of Schedule 2 of the Public Service Act 2020:
-    (c) the New Zealand Defence Force.
+  - **wastewater network** means the infrastructure and processes that—
+    (a) are used to collect, store, transmit through reticulation, treat, or discharge wastewater; and
+    (b) are operated by, for, or on behalf of one of the following:
+      (i) a local authority, council-controlled organisation, or subsidiary of a council-controlled organisation:
+      (ii) a department:
+      (iii) the New Zealand Defence Force
+  - **wastewater network operator** means—
+    (a) each of the following, to the extent that they operate a wastewater network or supervise its operation or aspects of its operation:
+      (i) a local authority, council-controlled organisation, or subsidiary of a council-controlled organisation:
+      (ii) a department listed in Part 1 of Schedule 2 of the Public Service Act 2020:
+      (iii) the New Zealand Defence Force; and
+    (b) any person who operates a wastewater network, or any aspect of a wastewater network, for, or on behalf of, an organisation specified in paragraph (a); and
+    (c) an organisation or individual involved in the operation of a wastewater network if the organisation or individual is authorised or included on a register in accordance with regulations made under section 200 of the Water Services Act 2021.
 
 ### 5 Māori interests
 In order to recognise and respect the Crown’s responsibility to consider and provide for Māori interests,—
@@ -103,29 +105,33 @@ Taumata Arowai’s objectives are to—
   (b) effectively administer the drinking water regulatory system; and
   (c) build and maintain capability among drinking water suppliers and across the wider industry; and
   (d) give effect to Te Mana o te Wai, to the extent that Te Mana o te Wai applies to the functions and duties of Taumata Arowai; and
-  (e) provide oversight of, and advice on, the regulation, management, and environmental performance of wastewater and stormwater networks; and
-  (f) promote public understanding of the environmental performance of wastewater and stormwater networks.
+  (e) provide oversight of, and advice on, the regulation, management, and environmental performance of drinking water, wastewater, and stormwater networks; and
+  (f) promote public understanding of the environmental performance of drinking water, wastewater, and stormwater networks.
 
 ### 11 Functions of Taumata Arowai
-Taumata Arowai’s general functions are to—
+(1) Taumata Arowai’s general functions are to—
   (a) provide national-level oversight, leadership, communication, and co-ordination in relation to—
     (i) drinking water safety and regulation, including the management of risks to sources of drinking water; and
-    (ii) the environmental performance, management, and regulation of wastewater and stormwater networks; and
-  (b) identify and monitor matters that affect the safety of drinking water, and the environmental performance of wastewater and stormwater networks, including current and emerging contaminants; and
+    (ii) the environmental performance, management, and regulation of drinking water, wastewater, and stormwater networks; and
+  (b) identify and monitor matters that affect the safety of drinking water, and the environmental performance of drinking water, wastewater, and stormwater networks, including current and emerging contaminants; and
   (c) develop and consult on draft standards and compliance rules that relate to drinking water composition and develop other regulatory requirements and measures necessary to fulfil its responsibilities under this or any other enactment; and
   (d) provide oversight of, and information to central and local government in relation to,—
     (i) the development, operation, and effectiveness of standards, regulations, and other statutory requirements for wastewater and stormwater; and
     (ii) compliance with, monitoring of, and enforcement of standards, regulations, and other statutory requirements affecting wastewater networks, stormwater networks, wastewater network operators, and stormwater network operators; and
-  (e) monitor and enforce compliance with relevant drinking water legislation and standards, and other regulatory requirements for which Taumata Arowai has responsibility; and
-  (f) facilitate, promote, or support research, education, and training, to support drinking water safety and regulation, the management of risks to sources of drinking water, and the environmental performance, management, and regulation of wastewater and stormwater networks; and
+  (e)
+  (f) facilitate, promote, or support research, education, and training, to support drinking water safety and regulation, the management of risks to sources of drinking water, and the environmental performance, management, and regulation of drinking water, wastewater, and stormwater networks; and
   (g) build and maintain the capability of drinking water suppliers to fulfil their regulatory responsibilities; and
-  (h) provide guidance, advice, or information on matters that relate to drinking water safety and regulation, the management of risks to sources of drinking water, and the environmental performance, management, and regulation of wastewater and stormwater networks; and
-  (i) identify, prepare, or promote national guidelines and good practices that relate to—
+  (h) provide guidance, advice, or information on matters that relate to drinking water safety and regulation, the management of risks to sources of drinking water, and the environmental performance, management, and regulation of drinking water, wastewater, and stormwater networks; and
+  (i) identify, prepare, or promote national guidelines and best practices that relate to—
     (i) drinking water; and
     (ii) wastewater networks, stormwater networks, wastewater network operators, and stormwater network operators; and
   (j) perform or exercise the functions, duties, and powers conferred or imposed on it by this Act or any other enactment; and
   (k) perform any other functions or activities that are consistent with its objectives and that Taumata Arowai considers are necessary or desirable to enable the achievement of those objectives, except functions or activities performed by any central government agency or another regulator; and
   (l) perform any other functions relevant to its objectives that the responsible Minister directs in accordance with section 112 of the Crown Entities Act 2004.
+(2) The chief executive’s statutorily independent functions are to—
+  (a) monitor and enforce compliance with relevant drinking water legislation and standards, and other regulatory requirements for which Taumata Arowai has responsibility; and
+  (b) grant exemptions under the Water Services Act 2021; and
+  (c) if a drinking water supplier is not properly performing the supplier’s functions or duties under an enactment that relates to drinking water, appoint, or require the drinking water supplier to appoint, an alternative operator of the supplier’s drinking water supply.
 
 ### Subpart 2 — Board of Taumata Arowai, and Māori Advisory Group
 
