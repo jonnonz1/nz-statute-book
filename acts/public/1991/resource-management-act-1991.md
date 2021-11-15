@@ -1,5 +1,5 @@
 # Resource Management Act 1991
-_Consolidation as at 2021-11-03_
+_Consolidation as at 2021-11-15_
 
 > An Act to restate and reform the law relating to the use of land, air, and water
 
@@ -3854,6 +3854,9 @@ A hearing need not be held in accordance with this Act in respect of an applicat
 (2A) When considering an application affected by section 124 or 165ZH(1)﻿(c), the consent authority must have regard to the value of the investment of the existing consent holder.
 (2B) When considering a resource consent application for an activity in an area within the scope of a planning document prepared by a customary marine title group under section 85 of the Marine and Coastal Area (Takutai Moana) Act 2011, a consent authority must have regard to any resource management matters set out in that planning document.
 (2C) Subsection (2B) applies until such time as the regional council, in the case of a consent authority that is a regional council, has completed its obligations in relation to its regional planning documents under section 93 of the Marine and Coastal Area (Takutai Moana) Act 2011.
+(2D) When considering a resource consent application that relates to a wastewater network, as defined in section 5 of the Water Services Act 2021, a consent authority—
+  (a) must not grant the consent contrary to a wastewater environmental performance standard made under section 138 of that Act; and
+  (b) must include, as a condition of granting the consent, requirements that are no less restrictive than is necessary to give effect to the wastewater environmental performance standard.
 (3) A consent authority must not,—
   (a) when considering an application, have regard to—
     (i) trade competition or the effects of trade competition; or
@@ -3913,6 +3916,11 @@ When considering an application for a discharge permit or coastal permit to do s
 If a national environmental standard is made to control the effects on climate change of the discharge into air of greenhouse gases, a consent authority, when considering an application for a discharge permit or coastal permit to do something that would otherwise contravene section 15 or section 15B,—
   (a) may grant the application, with or without conditions, or decline it, as necessary to implement the standard; but
   (b) in making its determination, must be no more or less restrictive than is necessary to implement the standard.
+
+### 104G Consideration of activities affecting drinking water supply source water
+When considering an application for a resource consent, the consent authority must have regard to—
+  (a) the actual or potential effect of the proposed activity on the source of a drinking water supply that is registered under section 55 of the Water Services Act 2021; and
+  (b) any risks that the proposed activity may pose to the source of a drinking water supply that are identified in a source water risk management plan prepared in accordance with the requirements of the Water Services Act 2021.
 
 ### 105 Matters relevant to certain applications
 (1) If an application is for a discharge permit or coastal permit to do something that would contravene section 15 or section 15B, the consent authority must, in addition to the matters in section 104(1), have regard to—
@@ -4020,9 +4028,10 @@ If a national environmental standard is made to control the effects on climate c
 ### 108AA Requirements for conditions of resource consents
 (1) A consent authority must not include a condition in a resource consent for an activity unless—
   (a) the applicant for the resource consent agrees to the condition; or
-  (b) the condition is directly connected to 1 or both of the following:
+  (b) the condition is directly connected to 1 or more of the following:
     (i) an adverse effect of the activity on the environment:
-    (ii) an applicable district or regional rule, or a national environmental standard; or
+    (ii) an applicable district or regional rule, or a national environmental standard:
+    (iii) a wastewater environmental performance standard made under section 138 of the Water Services Act 2021; or
   (c) the condition relates to administrative matters that are essential for the efficient implementation of the relevant resource consent.
 (2) Subsection (1) does not limit this Act or regulations made under it.
 (3) This section does not limit section 77A (power to make rules to apply to classes of activities and specify conditions), 106 (consent authority may refuse subdivision consent in certain circumstances), or 220 (condition of subdivision consents).
