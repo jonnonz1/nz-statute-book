@@ -1,5 +1,5 @@
 # Local Government Official Information and Meetings Act 1987
-_Consolidation as at 2021-10-28_
+_Consolidation as at 2021-11-15_
 
 > An Act to make official information held by local authorities more freely available, to provide for proper access by each person to official information relating to that person which is held by local authorities, to provide for the admission of the public to meetings of local authorities, to protect official information held by local authorities and the deliberations of local authorities to the extent consistent with the public interest and the preservation of personal privacy, and to establish procedures for the achievement of those purposes
 
@@ -477,11 +477,12 @@ Except as expressly provided in this Act, nothing in this Act shall derogate fro
     (i) is known to the territorial authority; but
     (ii) is not apparent from the district scheme under the Town and Country Planning Act 1977 or a district plan under the Resource Management Act 1991:
   (b) information on private and public stormwater and sewerage drains as shown in the territorial authority's records:
-  (ba) any information that has been notified to the territorial authority by a drinking-water supplier under section 69ZH of the Health Act 1956:
+  (ba)
   (bb) information on—
-    (i) whether the land is supplied with drinking water and if so, whether the supplier is the owner of the land or a networked supplier:
-    (ii) if the land is supplied with drinking water by a networked supplier, any conditions that are applicable to that supply:
+    (i) whether the land is supplied with drinking water and if so, whether the supplier is the owner of the land or a drinking water supplier:
+    (ii) if the land is supplied with drinking water by a drinking water supplier, any conditions that are applicable to that supply:
     (iii) if the land is supplied with water by the owner of the land, any information the territorial authority has about the supply:
+    (iv) any exemption that has been notified by Taumata Arowai to the territorial authority under section 57 of the Water Services Act 2021:
   (c) information relating to any rates owing in relation to the land:
   (ca) if the land concerned is located in a levy area that is subject to a levy order under the Infrastructure Funding and Financing Act 2020, information about—
     (i) the levy period:
