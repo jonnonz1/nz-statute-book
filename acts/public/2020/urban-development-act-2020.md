@@ -1,5 +1,5 @@
 # Urban Development Act 2020
-_Consolidation as at 2021-10-28_
+_Consolidation as at 2021-11-15_
 
 ### 1 Title
 This Act is the Urban Development Act 2020.
@@ -2012,7 +2012,7 @@ Once the development plan for a specified development project becomes operative,
   (d) that the alterations will not be contrary to an obligation of the controlling authority that relates to the quality of services and is imposed by—
     (i) any enactment; or
     (ii) the existing conditions of any resource consent; or
-    (iii) any drinking-water standards (within the meaning of section 69G of the Health Act 1956).
+    (iii) any drinking water standards made under section 47 of the Water Services Act 2021.
 (4) However, despite subsection (3), a condition is not reasonable in circumstances where—
   (a) the location, nature, and extent of works required for the alterations are described in the development plan; and
   (b) the condition would, or would likely, prevent or unreasonably delay delivery of the project or achieving the project objectives.
