@@ -1,5 +1,5 @@
 # Search and Surveillance Act 2012
-_Consolidation as at 2021-10-28_
+_Consolidation as at 2021-11-15_
 
 ### 1 Title
 This Act is the Search and Surveillance Act 2012.
@@ -3780,6 +3780,10 @@ Until the commencement date (within the meaning of section 394 of the Criminal P
 | Waste Minimisation Act 2008 | 79(1) | Enforcement officer may enter land or buildings to inspect property and obtain information | All (except subpart 3 and sections 118 and 119) |
 |  | 80(3) | Enforcment officer may enter a dwellinghouse or marae with a warrant | All (sections 118 and 119) |
 |  | 82(1) | Enforcement officer may enter private land with warrant and seize property materially involved in commission of offence | All (except sections 118 and 119) |
+| Water Services Act 2021 | 108 | Compliance officer may inspect and copy documents and direct person to produce documents, and may take photographs and make recordings and electronic records | Subpart 4 |
+|  | 109 | Compliance officer may require person to provide person’s name and residential address | Subpart 4 |
+|  | 110 | Compliance officer may direct drinking water supplier to answer questions | Subpart 4 |
+|  | 112 | Compliance officer may, without warrant, enter and search place and may exercise powers under sections 104 to 110 of that Act if officer believes, on reasonable grounds, that is required in relation to serious risk to public health | All (except subparts 2, 3, 6, and 8 and sections 118 and 119) |
 | Weights and Measures Act 1987 | 28(3) | Inspector of Weights and Measures may obtain and execute search warrant if issuing officer is satisfied that it is necessary for inspector to enter dwellinghouse to exercise certain entry, examination, and related powers conferred by section 28(1) of Weights and Measures Act 1987 | Subparts 1, 3, 7, 9, and 10 |
 | Wild Animal Control Act 1977 | 12(10) | Warranted officer may enter land or premises of licence or permit holder under Wild Animal Control Act 1977, or any other land or premises on which he or she suspects animal is being kept in breach of section 12 of that Act, in order to ascertain whether conditions of licence or permit are being complied with, or whether animal is being kept in contravention of section 12 (note: a dwellinghouse may not be entered without obtaining a warrant) | All (except sections 118 and 119) |
 |  | 12(11) | Warranted officer may obtain and execute warrant to enter dwellinghouse for purpose of detecting offence if issuing officer is satisfied that there is probable cause to suspect that breach of section 12 of Wild Animal Control Act 1977 has been, or is being, committed | All (except sections 118 and 119) |
