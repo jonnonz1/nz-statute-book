@@ -1,5 +1,5 @@
 # Local Government Act 2002
-_Consolidation as at 2021-10-28_
+_Consolidation as at 2021-11-15_
 
 ### 1 Title
 This Act is the Local Government Act 2002.
@@ -2063,36 +2063,116 @@ This Part contains provisions that set out specific obligations and restrictions
   (c) specific restrictions on disposal of parks, reserves, and endowment properties, including provision for the protection of parks and reserves from disposal:
   (d) a requirement that, if a public library is provided, the residents of the district must be entitled to free membership.
 
-### Subpart 1 — Specific obligations to make assessments of water and sanitary services
+### Subpart 1 — Specific obligations to make assessments of drinking water, wastewater, and sanitary services and to ensure communities have access to safe drinking water
 
 ### 124 Interpretation
 In this Part,—
-  - **assessment** means—
-    (a) an assessment of water services and other sanitary services available to communities in the district of the territorial authority; but
-    (b) does not include assessments in relation to individual properties
-  - **local government organisation** means a local authority, council-controlled organisation, or a subsidiary of a council-controlled organisation, that provides water services
+  - **assessment** ,—
+    (a) in relation to drinking water,—
+      (i) means an assessment of drinking water services available to communities in the district of the territorial authority, including private and community-owned or community-operated drinking water supplies; but
+      (ii) does not include assessments in relation to domestic self-suppliers; and
+    (b) in relation to wastewater and other sanitary services,—
+      (i) means an assessment of wastewater services and other sanitary services available to communities in the district of the territorial authority; but
+      (ii) does not include assessments in relation to individual properties
+  - **domestic self-supplier** has the meaning given in section 10 of the Water Services Act 2021
+  - **drinking water** has the meaning given in section 6 of the Water Services Act 2021
+  - **drinking water services** means the supply of drinking water to communities to the point of supply of each dwelling house and commercial premise to which drinking water is supplied
+  - **local government organisation** means a local authority, council-controlled organisation, or subsidiary of a council-controlled organisation, that provides water services
+  - **point of supply** has the meaning given in section 13 of the Water Services Act 2021
   - **sanitary services** has the same meaning as sanitary works in section 25(1)﻿(a), (b), (d), (h), and (i) of the Health Act 1956
-  - **wastewater services** means sewerage, treatment and disposal of sewage, and stormwater drainage
-  - **water services** means water supply and wastewater services
-  - **water supply** means the provision of drinking water to communities by network reticulation to the point of supply of each dwellinghouse and commercial premise to which drinking water is supplied.
+  - **sufficient quantity** , in relation to the drinking water supplied to a point of supply, has the meaning given in section 25 of the Water Services Act 2021
+  - **Taumata Arowai** means Taumata Arowai–the Water Services Regulator established under section 8 of the Taumata Arowai–the Water Services Regulator Act 2020
+  - **wastewater services** means sewerage, treatment and disposal of sewage, and stormwater drainage.
 
-### 125 Requirement to assess water and other sanitary services
-(1) A territorial authority must, from time to time, assess the provision within its district of—
-  (a) water services; and
-  (b) other sanitary services.
-(2) One type of service may be assessed in conjunction with another type of service.
-(3)
+### 125 Requirement to assess drinking water services
+(1) A territorial authority must inform itself about the access that each community in its district has to drinking water services by undertaking an assessment of drinking water services in accordance with this section.
+(2) An assessment of drinking water services must—
+  (a) identify each community that receives a drinking water service; and
+  (b) describe the nature of existing drinking water services to the community; and
+  (c) describe the characteristics of the community; and
+  (d) assess the extent to which the community is currently receiving, and will continue to receive, a sufficient quantity of drinking water, including a consideration of—
+    (i) the community’s existing access to drinking water services; and
+    (ii) any reasonably foreseeable risks to the community’s access to drinking water services in the future; and
+    (iii) the current and estimated future demands for drinking water services within the community; and
+  (e) describe the safety and quality of drinking water currently being supplied to the community, using information collected and made available by Taumata Arowai and any other organisations that the territorial authority considers relevant; and
+  (f) identify and assess any other public health risks relating to the drinking water services supplied to the community; and
+  (g) include an assessment of wastewater and sanitary services in accordance with section 128; and
+  (h) based on the assessment under paragraphs (b) to (g),—
+    (i) assess the consequences if the community loses access to drinking water services in the future, or is provided with drinking water services that are deficient in any way, including the implications for that community’s public health; and
+    (ii) outline a plan to provide for the community’s ongoing access to drinking water services.
+(3) A territorial authority must conduct an assessment of drinking water services under subsection (2)—
+  (a) at least once every 3 years, which may be carried out when other assessments are carried out or at different times; or
+  (b) at an earlier date than required by paragraph (a), if the territorial authority is made aware of concerns about the access that a community has to drinking water services.
+(4) A territorial authority must provide opportunities for any person to alert the territorial authority at any time to concerns about a community’s access to drinking water services.
+(5) For the purposes of this section,—
+  (a) references to assessments include—
+    (i) assessing a service for the first time; and
+    (ii) reviewing and updating an existing assessment:
+  (b) the scope of each assessment must include—
+    (i) communities that receive drinking water services from the territorial authority or other local government organisation; and
+    (ii) communities that do not receive drinking water services from the territorial authority or other local government organisation; and
+    (iii) all types of water supply arrangements, including communities (and households within those communities) that do not receive drinking water services supplied by network reticulation:
+  (c) territorial authorities need not consider within an assessment drinking water services that are owned or operated by the Crown:
+  (d) an assessment may be carried out by the territorial authority, or undertaken on its behalf (whether in whole or in part) by another appropriate organisation, including an iwi or Māori organisation.
 
-### 126 Purpose of assessments
-The purpose of an assessment under section 125 is to assess, from a public health perspective, the adequacy of water and other sanitary services available to communities within a territorial authority's district, in light of—
-  (a) the health risks to communities arising from any absence of, or deficiency in, water or other sanitary services; and
-  (b) the quality of services currently available to communities within the district; and
-  (c) the current and estimated future demands for such services; and
-  (d) the extent to which drinking water provided by water supply services meets applicable regulatory standards; and
-  (e) the actual or potential consequences of stormwater and sewage discharges within the district.
+### 126 Requirements following assessment of community drinking water service
+(1) On completion of an assessment of a community drinking water service, a territorial authority must—
+  (a) make the assessment available to the public on an Internet site maintained by or on behalf of the territorial authority; and
+  (b) provide Taumata Arowai with a copy of the assessment in electronic form.
+(2) A territorial authority must also notify Taumata Arowai about—
+  (a) any suppliers of drinking water services that are, or appear to be, failing to meet the supplier’s statutory obligations or are at risk of doing so; and
+  (b) any other matters of concern arising from the assessment, including potential risks to communities affected by the assessment that relate to—
+    (i) any absence of, or deficiency in, a drinking water service; or
+    (ii) a drinking water supplier that is at risk of ceasing to provide a service.
+(3) A territorial authority must also consider the findings and implications of the assessment in relation to—
+  (a) the territorial authority’s current and future infrastructure strategy and long-term plan; and
+  (b) the territorial authority’s district plan prepared under the Resource Management Act 1991; and
+  (c) the territorial authority’s broader duty to improve, promote, and protect public health within its district in accordance with section 23 of the Health Act 1956.
+
+### 127 Duty to ensure communities have access to drinking water if existing suppliers facing significant problems
+(1) Subsection (2) applies if—
+  (a) a territorial authority’s or Taumata Arowai’s assessment of a drinking water supply is that the supplier (not being the territorial authority) is facing a significant problem or potential problem with any of its drinking water services, and the territorial authority has notified Taumata Arowai of those concerns and discussed them with Taumata Arowai; or
+  (b) Taumata Arowai requires the territorial authority to take action under subsection (2).
+(2) If this subsection applies, a territorial authority must—
+  (a) work collaboratively with the supplier, the consumers of the supply, and Taumata Arowai to identify, as the circumstances allow and within a time frame determined by Taumata Arowai, 1 or more of the following:
+    (i) an immediate solution to the problem:
+    (ii) a temporary solution to the problem:
+    (iii) a long-term, permanent solution to the problem; and
+  (b) ensure that drinking water is provided to the affected consumers, on a temporary or permanent basis, if—
+    (i) the supplier is unable to continue to provide a service that meets the statutory requirements; and
+    (ii) an alternative solution is not readily available, or cannot be agreed by the parties involved within the time frame determined by Taumata Arowai.
+(3) For the purposes of this section,—
+  (a) a significant problem or potential problem includes where—
+    (i) a drinking water supplier has persistently failed to comply with legislative requirements; or
+    (ii) there is a serious risk to public health relating to the drinking water services provided by a drinking water supplier; or
+    (iii) a drinking water supplier has ceased to operate a drinking water service, or is, in Taumata Arowai’s opinion, at significant risk of ceasing to operate a service:
+  (b) if a territorial authority is obliged to ensure access to drinking water, the territorial authority may consider a range of options to fulfil its obligation, including—
+    (i) taking over the management and operations of the drinking water service, on a temporary or permanent basis:
+    (ii) ensuring drinking water continues to be provided through alternative supply arrangements:
+  (c) nothing in paragraph (b) obliges a territorial authority to provide the supply via a reticulated network:
+  (d) if a territorial authority takes over the management and operations of a drinking water service on a permanent basis, the territorial authority, Taumata Arowai, the former supplier, and (if relevant) the affected consumers must work together to determine how to deal with—
+    (i) any assets and liabilities that may relate to the service; and
+    (ii) any legal or other issues that may affect the territorial authority’s ability to manage and operate the service, such as access to the land on, or beneath which, assets are situated; and
+    (iii) how the territorial authority might be compensated for the costs incurred in taking over responsibility for the service:
+  (e) a territorial authority may charge for any drinking water services that are provided to affected consumers, and may recover its costs from the previous supplier, but, when making decisions about future charges and funding arrangements, the territorial authority must—
+    (i) take reasonable steps to ascertain and consider the financial circumstances facing the affected consumers; and
+    (ii) consider the range of funding sources provided for in its revenue and financing policy, including the potential use of general rates; and
+    (iii) on request, demonstrate that it has considered those factors.
+(4) See also subpart 12 of Part 2 of the Water Services Act 2021 (statutory management and transfer of operations).
 
 ### 127 Information required in assessment of sanitary services
 [Repealed]
+
+### 128 Requirement to assess wastewater and other sanitary services
+(1) A territorial authority must assess the provision within its district of—
+  (a) wastewater services; and
+  (b) other sanitary services.
+(2) The purpose of an assessment under subsection (1) is to assess, from a public health perspective, the adequacy of wastewater services and other sanitary services available to communities within a territorial authority’s district, in light of—
+  (a) the health risks to communities arising from any absence of, or deficiency in, the services; and
+  (b) the quality of the services currently available to communities within the district; and
+  (c) the current and estimated future demands for any of those services; and
+  (d) the actual or potential consequences of stormwater and sewage discharges within the district.
+(3) One type of service may be assessed in conjunction with another type of service.
 
 ### 128 Process for making assessments
 [Repealed]
@@ -2113,7 +2193,7 @@ The purpose of an assessment under section 125 is to assess, from a public healt
   (c) not lose control of, sell, or otherwise dispose of, the significant infrastructure necessary for providing water services in its region or district, unless, in doing so, it retains its capacity to meet its obligations:
   (d) not, in relation to a property to which it supplies water,—
     (i) restrict the water supply unless section 193 applies; or
-    (ii) stop the water supply unless section 69S of the Health Act 1956 applies.
+    (ii) stop the water supply unless section 25 of the Water Services Act 2021 applies.
 (4) This section—
   (a) does not prevent a local government organisation from transferring a water service to another local government organisation; and
   (b) does not override sections 131 to 137.
@@ -2126,9 +2206,9 @@ The purpose of an assessment under section 125 is to assess, from a public healt
   (b) transfer the water service to an entity representative of the community for which the service is operated.
 (2) A local government organisation must not close down or transfer a water service unless—
   (a) there are 200 or fewer persons to whom the water service is delivered and who are ordinarily resident in the district, region, or other subdivision; and
-  (b) it has consulted on the proposal with the Medical Officer of Health for the district; and
+  (b) it has consulted on the proposal with the Medical Officer of Health for the district or Taumata Arowai; and
   (c) it has made publicly available in a balanced and timely manner—
-    (i) the views of the Medical Officer of Health; and
+    (i) the views of the Medical Officer of Health or Taumata Arowai; and
     (ii) the information it has received in the course of—
       (A) undertaking a review, assessment, and comparison under section 134(a) and (b); or
       (B) preparing a management plan and making assessments under section 135(a), (b), and (c); and
@@ -2306,7 +2386,7 @@ A territorial authority may make bylaws for its district for 1 or more of the fo
   (c) minimising the potential for offensive behaviour in public places.
 
 ### 146 Specific bylaw-making powers of territorial authorities
-Without limiting section 145, a territorial authority may make bylaws for its district for the purposes—
+(1) Without limiting section 145, a territorial authority may make bylaws for its district for the purposes—
   (a) of regulating 1 or more of the following:
     (i) on-site wastewater disposal systems:
     (ii) waste management:
@@ -2322,6 +2402,8 @@ Without limiting section 145, a territorial authority may make bylaws for its di
     (v) cemeteries:
     (vi) reserves, recreation grounds, or other land under the control of the territorial authority:
   (c)
+(2) If a territorial authority makes bylaws under section 145 or subsection (1) regulating a wastewater network, as defined in section 5 of the Water Services Act 2021, the bylaws must give effect to any wastewater environmental performance standards made under section 138 of that Act.
+(3) Subsection (2) applies to bylaws made on and after the commencement of section 211 of the Water Services Act 2021.
 
 ### 147 Power to make bylaws for alcohol control purposes
 (1) In this section,—
@@ -4860,6 +4942,11 @@ The relevant amendments do not apply to a local government reorganisation for wh
 ### 24 Repeal of this Part
 [Repealed]
 
+### Part 5 — Provisions relating to Water Services Act 2021
+
+### 23 Requirements in subpart 1 of Part 7
+Despite section 125(3), every territorial authority must complete an assessment of drinking water services in accordance with section 125 by 1 July 2026.
+
 ## Schedule 1 — Acts under which responsibilities, powers, and duties are conferred or imposed on Minister of Local Government and Secretary for Local Government
 
 ## Schedule 2 — Local authorities
@@ -6886,7 +6973,7 @@ A long-term plan must, in relation to each group of activities of the local auth
 
 ### 6 Variation between territorial authority's long-term plan and assessment of water and sanitary services and waste management plans
 A long-term plan for a territorial authority must identify and explain any significant variation between the proposals outlined in the long-term plan and the territorial authority's—
-  (a) assessment of water and other sanitary services under section 125:
+  (a) assessment of drinking water, wastewater, and other sanitary services under sections 125 and 128:
   (b) waste management and minimisation plans adopted under section 43 of the Waste Minimisation Act 2008.
 
 ### 7 Council-controlled organisations
