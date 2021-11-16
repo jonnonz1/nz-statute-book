@@ -1,5 +1,5 @@
 # Maritime Transport Act 1994
-_Consolidation as at 2021-10-28_
+_Consolidation as at 2021-11-16_
 
 > An Act—ato continue Maritime New Zealand; andbto enable the implementation of New Zealand’s obligations under international maritime agreements; andcto ensure that participants in the maritime transport system are responsible for their actions; anddto consolidate and amend maritime transport law; andefto protect the marine environment; andgto continue, or enable, the implementation of obligations on New Zealand under various international conventions relating to pollution of the marine environment; andhto regulate maritime activities in New Zealand and New Zealand waters; andito regulate maritime activities and the marine environment in the exclusive economic zone and on the continental shelf as permitted under international law
 
@@ -2719,15 +2719,23 @@ Any person who—shall take action to enforce that indemnity within 2 years of t
   - **agent** or , in relation to a ship, means—
     (a) any agent in New Zealand of the owner of the ship; and
     (b) any agent for the ship
+  - **Annex VI** means Annex VI of MARPOL (regulations for the prevention of air pollution from ships)
+  - **Annex VI requirements** means requirements imposed for the purposes of Annex VI under this Act, or under any regulations or rules made under this Act
+  - **Annex VI substance** means any substance specified as an Annex VI substance for the purposes of this definition by the marine protection rules
   - **Civil Liability Convention** has the meaning given to it by section 342
   - **CLC owner** has the meaning given to it by section 342
   - **CLC ship** has the meaning given to it by section 342
   - **CLC State** has the meaning given to it by section 342
   - **controlled offshore installation** has the meaning given to it by section 257
-  - **discharge** has the meaning given to it by section 225
+  - **discharge** —
+    (a) includes any release, disposal, spilling, leaking, pumping, emitting, or emptying; but
+    (b) does not include—
+      (i) dumping in accordance with a permit issued by the Director under section 262; or
+      (ii) the release of harmful substances for the purposes of legitimate scientific research into pollution abatement and control
   - **dumping** has the meaning given to it by section 257
   - **emergency dumping permit** has the meaning given in section 257
   - **exclusive economic zone of New Zealand** has the meaning given to it by section 9 of the Territorial Sea, Contiguous Zone, and Exclusive Economic Zone Act 1977; and has the same meaning
+  - **fuel oil** means any fuel delivered to and intended for combustion purposes for propulsion or operation on board a ship, including gas, distillate, and residual fuels
   - **Fund Convention** has the meaning given to it by section 370
   - **harmful substance** has the meaning given to it by section 225
   - **London Convention** has the meaning given to it by section 257
@@ -2739,7 +2747,12 @@ Any person who—shall take action to enforce that indemnity within 2 years of t
     (a) any permit issued by the Director under section 262 or 262A:
     (b) any certificate of insurance issued, recognised, or accepted by the Director under section 363, 363A, or 385H:
     (c) any permit, certificate, licence, or other document issued or recognised by the Director under section 270 or any permit, certificate, licence, or other document issued by another person and accepted by the Director under section 271
-  - **marine protection product** has the meaning given to it by section 225
+  - **marine protection product** means—
+    (a) anything or any substance specified as a marine protection product for the purposes of this definition by the marine protection rules; and
+    (b) anything that comprises, or is intended to comprise, any part of a ship, offshore installation, or pipeline, or that is or is intended to be installed on or fitted or supplied to a ship, offshore installation, or pipeline for the purpose of preventing, limiting, or controlling a discharge or the escape of a harmful substance, ballast water, or an Annex VI substance, including (but not limited to)—
+      (i) any plant or equipment that treats or is intended to treat a harmful substance, ballast water, or an Annex VI substance; and
+      (ii) any plant or equipment that monitors or is intended to monitor the discharge or escape of a harmful substance, ballast water, or an Annex VI substance; and
+    (c) any substance used or intended to be used for the dispersal or emulsification of a harmful substance or ballast water in the sea
   - **marine protection rules** means the marine protection rules made by the Minister or the Director under Part 27
   - **MARPOL** has the meaning given to it by section 225
   - **mineral** has the same meaning as in section 2(1) of the Crown Minerals Act 1991
@@ -2764,7 +2777,6 @@ Any person who—shall take action to enforce that indemnity within 2 years of t
   - **owner** has the meaning given to it by subsection (2)
   - **pipeline** means a pipeline constructed or used to convey any matter or substance; and includes all machinery, tanks, and fittings connected to the pipeline
   - **pollution incident** has the meaning given to it by section 225
-  - **reception facility** has the meaning given to it by section 225
   - **region** means a region within the meaning of the Local Government Act 2002
   - **regional council** or means a regional council within the meaning of the Local Government Act 2002; and includes—
     (a) any territorial authority that has, by reason of the transfer to it under section 17 of the Local Government Act 2002 of a responsibility of a regional council, the functions powers and duties of a regional council; and
@@ -2780,6 +2792,12 @@ Any person who—shall take action to enforce that indemnity within 2 years of t
   - **transfer** , in relation to oil or any other harmful substance, means transfer to or from a cargo or fuel tank
   - **transfer facility** has the meaning given to it by section 225
   - **waste or other matter** has the meaning given to it by section 257.
+(1A) In this Part and in Parts 19 to 30, unless the context otherwise requires,—
+  - **reception facility** means a facility for the reception of—
+    (a) harmful substances from ships (as defined in section 2(1)); or
+    (b) sediment (as defined in section 444A(3)); or
+    (c) Annex VI substances from ships (within the meaning of MARPOL)
+  - **ship** , for the purposes of implementing Annex VI, means a ship within the meaning of Article 2(4) of MARPOL.
 (2) In this Part, Parts 19 to 27, and section 418, unless the context otherwise requires, owner,—
   (a) in relation to any ship (except in the circumstances, and to the extent, provided in sections 343 and 370), includes—
     (i) any person who is the legal or equitable owner, or both, of the ship; and
@@ -2798,7 +2816,8 @@ Any person who—shall take action to enforce that indemnity within 2 years of t
 (5) An order under subsection (4) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 223 Application of Parts 19 to 27 to ships of New Zealand Defence Force
-Without limiting section 4(2), Parts 19 to 27 shall apply to every warship and every other ship of the New Zealand Defence Force that is in waters outside the territorial sea of New Zealand, to the extent that those Parts apply to such waters.
+(1) Without limiting section 4(2), Parts 19 to 27 shall apply to every warship and every other ship of the New Zealand Defence Force that is in waters outside the territorial sea of New Zealand, to the extent that those Parts apply to such waters.
+(2) Despite subsection (1), Annex VI requirements do not apply to ships referred to in that subsection.
 
 ### 224 Application of certain provisions of Parts 19 to 28
 (1) Notwithstanding anything in any other enactment, criminal proceedings shall not be commenced against a natural person in respect of a contravention of any provision of any of Parts 19 to 28 that is alleged to have occurred beyond the territorial sea of New Zealand unless they are commenced against—
@@ -2829,16 +2848,7 @@ Without limiting section 4(2), Parts 19 to 27 shall apply to every warship and e
 
 ### 225 Interpretation
 In this Part, unless the context otherwise requires,—
-  - **discharge** includes any release, disposal, spilling, leaking, pumping, emitting, or emptying; but does not include—and and have corresponding meanings
-    (a) dumping in accordance with a permit issued by the Director under section 262; or
-    (b) release of harmful substances for the purposes of legitimate scientific research into pollution abatement and control;—
   - **harmful substance** means any substance specified as a harmful substance for the purposes of this definition by the marine protection rules
-  - **marine protection product** means—
-    (aa) anything or any substance specified as a marine protection product for the purposes of this definition by the marine protection rules; and
-    (a) anything that comprises, or is intended to comprise, any part of a ship, offshore installation, or pipeline, or that is or is intended to be installed on or fitted or supplied to a ship, offshore installation, or pipeline for the purpose of preventing, limiting, or controlling a discharge or the escape of a harmful substance or ballast water, including (but not limited to)—
-      (i) any plant or equipment that treats or is intended to treat a harmful substance or ballast water; and
-      (ii) any plant or equipment that monitors or is intended to monitor the discharge or escape of a harmful substance or ballast water; and
-    (b) any substance used or intended to be used for the dispersal or emulsification of a harmful substance or ballast water in the sea
   - **MARPOL** means the International Convention for the Prevention of Pollution from Ships, 1973, as modified by the Protocol of 1978 relating thereto; and includes any subsequent protocol or amendment to, or revision of, that convention accepted or ratified by New Zealand
   - **mining activity** means an activity carried out for, or in connection with,—
     (a) the identification of areas of the seabed likely to contain mineral deposits; or
@@ -2847,7 +2857,6 @@ In this Part, unless the context otherwise requires,—
     - **mining discharge** , in relation to a harmful substance, means a discharge made as an integral part of, or as a direct result of, mining activity
   - **noxious liquid substance** means any substance specified as a noxious liquid substance for the purposes of this definition by the marine protection rules
   - **pollution incident** means an event involving the probable discharge or escape into the sea or seabed of a harmful substance in contravention of this Act or the Resource Management Act 1991 or the Exclusive Economic Zone and Continental Shelf (Environmental Effects) Act 2012
-  - **reception facility** means a facility for the reception of harmful substances from ships
   - **transfer facility** means any facility, structure, or building for transferring liquids to or from a ship or an offshore installation; and includes any storage tanks or pipelines connected to the facility.
 
 **Obligations to protect marine environment from harmful substances**
@@ -2964,7 +2973,7 @@ For the purposes of an investigation under section 235, but without limiting the
   (c) seize, detain, remove, preserve, protect, or test any thing that the Director believes on reasonable grounds will assist in establishing the cause of the discharge, escape, or pollution incident.
 
 ### 236 Power to require reception facilities
-The Director may from time to time, by notice in writing, require any person who operates a port in New Zealand, or New Zealand continental waters, to provide at that port a reception facility for the reception of harmful substances from ships which complies with the requirements of the marine protection rules.
+[Repealed]
 
 **Offences in respect of discharge or escape of harmful substances into sea or seabed**
 
@@ -2996,7 +3005,7 @@ If, without reasonable excuse, any oil or noxious liquid substance is transferre
   (c) the owner of any transfer facility to or from which the oil or noxious liquid substance has been transferred.
 
 ### 242 Failure to comply with requirement of Director
-Every person commits an offence who fails to comply with a requirement of the Director under any of sections 232, 233, 234, and 236.
+Every person commits an offence who fails to comply with a requirement of the Director under any of sections 232, 233, 234, and 444A.
 
 ### 242A Failure to comply with prohibitions
 If, without reasonable excuse, any oil or noxious liquid substance is transferred to or from a ship in the internal waters, territorial sea, or exclusive economic zone of New Zealand contrary to any prohibition under section 233A, the following persons each commit an offence:
@@ -3445,7 +3454,7 @@ Subject to section 267, every person who commits an offence against section 263 
 (2) The Director shall not accept, or may suspend acceptance of, any document referred to in subsection (1) where he or she has clear grounds for believing that—
   (a) the condition of the ship or marine protection product does not correspond substantially with the particulars of any document relating to the ship or marine protection product; or
   (b) the ship or marine protection product has been materially altered without the sanction of the State that issued or approved the document; or
-  (c) the ship is not fit to proceed to sea without presenting an unreasonable threat of harm to the marine environment; or
+  (c) the ship is not fit to proceed to sea without presenting an unreasonable threat of harm to the environment, including the marine environment; or
   (ca) for a document issued under the convention, the ship cannot discharge ballast water without presenting a threat of harm to the environment, human health, property, or resources (convention and ship having the meanings given to them in section 246A(2) and (3)﻿(a)); or
   (d) any provision or condition of the document is not being met.
 (3) Sections 269, 270, 272, 273, 274, 275, 276, 277, 395, and 406(b) shall not apply to any document to which this section relates.
@@ -3468,6 +3477,7 @@ Subject to section 267, every person who commits an offence against section 263 
     (iv) any regulations made under any of paragraphs (ha) to (he) of section 360(1) of the Resource Management Act 1991; or
     (v) section 20B or 20C of the Exclusive Economic Zone and Continental Shelf (Environmental Effects) Act 2012; or
     (vi) any regulations made under section 29A or 29B of the Exclusive Economic Zone and Continental Shelf (Environmental Effects) Act 2012; or
+  (ea) is satisfied that the holder has failed to take corrective action to ensure the condition of the ship’s equipment (including the ship’s systems, fittings, arrangements, and materials) corresponds substantially to the particulars of the relevant marine protection document; or
   (f) considers that the privileges or duties for which the marine protection document has been granted, or the relevant document has been recognised as a marine protection document, are being or have been carried out by the holder in a careless or incompetent manner.
 (2) The suspension of any marine protection document, or the suspension of recognition of any document as a marine protection document, or the imposition of conditions in respect of any such document, by the Director, shall remain in force until the Director has determined, after due investigation, the action to be taken in respect of the causes requiring the suspension or imposition of conditions, but the duration of any such suspension or conditions shall not exceed 14 days unless the Director directs that a further specified period is necessary for the purposes of the investigation.
 (3) If, after investigation, the Director considers such action to be warranted, he or she may suspend for a further period the marine protection document, or the recognition of a document as a marine protection document, or impose further conditions, and he or she shall cause the appropriate endorsement to be made on the marine protection document (if the document is issued under this Act or the marine protection rules) or on the notification of recognition, as the case may require.
@@ -4475,7 +4485,8 @@ The owner and person in charge of a regulated offshore installation each commits
   (k) shipping exclusion zones and navigation and shipping lanes within the territorial sea of New Zealand:
   (l) the requirements and procedures for the discharge or escape of water produced from geologic formations by marine operations in the high seas:
   (m) the requirements and procedures for the transfer of oil or noxious liquid substances to or from transfer facilities or ships:
-  (n) prescribing requirements and procedures relating to the control and management of ballast water for the purposes of the convention, including, but not limited to, provision for the Director to issue guidelines that allow for exemptions from the requirements and procedures for ships complying with the guidelines.
+  (n) prescribing requirements and procedures relating to the control and management of ballast water for the purposes of the convention, including, but not limited to, provision for the Director to issue guidelines that allow for exemptions from the requirements and procedures for ships complying with the guidelines:
+  (o) prescribing requirements, procedures, and standards relating to the prevention of air pollution from ships for the purposes of implementing Annex VI.
 (2) Marine protection rules under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 389 Marine protection rules in relation to waste or other matter
@@ -4587,10 +4598,11 @@ The provisions of sections 446 to 452 apply in relation to marine protection rul
     (i) the requirement has been substantially complied with and further compliance is unnecessary:
     (ii) the manner in which the requirement has been, or is sought to be, fulfilled is as effective as or more effective than actual compliance with the requirement:
     (iii) the requirement is clearly unreasonable or inappropriate in this particular case:
+    (iiia) compliance with the requirement could impede research into the development of emission reduction and control technologies and engine design programmes in relation to ships:
     (iv) events have occurred that make the requirement unnecessary or inappropriate in this particular case; and
   (c) the risk to safety will not be significantly increased by granting the exemption; and
   (d) the granting of the exemption will not significantly increase the risk of harm,—
-    (i) for a marine protection rule on ballast water, to the environment, human health, property, or resources; or
+    (i) for a marine protection rule on ballast water or for the purposes of implementing Annex VI, to the environment, human health, property, or resources; or
     (ii) for any other marine protection rule, to the marine environment.
 (3) The power under subsection (1) must not be used to provide an exemption from a requirement of a rule if the relevant rule specifically provides that no exemptions from the requirement may be granted.
 (4) This section does not limit or affect any other power of exemption conferred on any person under this Act or any other maritime Act.
@@ -4600,7 +4612,7 @@ The provisions of sections 446 to 452 apply in relation to marine protection rul
 ### 395A Appeal against decision on exemption under section 395(1)﻿(a)
 A person in respect of whom any decision is taken to grant (or not to grant), to amend, or to revoke an exemption under section 395(1)﻿(a) may appeal against that decision to the District Court under section 424.
 
-### 396 Inspections and audits
+### 396 Inspections and audits (other than in relation to Annex VI)
 (1) The Director may from time to time, in writing, require any person who—to undergo, or carry out, such inspections or audits, or both, as the Director considers necessary in the interests of protecting the marine environment from harm or protecting the environment, human health, property, or resources from harm from ballast water.
   (a) holds any marine protection document; or
   (b) is required to hold any marine protection document by this Act or any regulations or marine protection rules made under this Act; or
@@ -4613,6 +4625,25 @@ A person in respect of whom any decision is taken to grant (or not to grant), to
     (ii) demonstrate to the Director the familiarity of the master or crew with essential procedures for the prevention of harm to the environment, human health, property, or resources from ballast water:
   (b) require that person to demonstrate to the Director the familiarity of the master or crew with essential shipboard procedures for the prevention of marine pollution:
   (c) require that person to demonstrate to the Director that any operational, maintenance, or servicing procedure in respect of a ship or marine protection product is capable of being carried out in a competent manner.
+(4) This section does not apply to inspections and audits for the purposes of implementing Annex VI.
+
+### 396A Inspections and audits in relation to Annex VI
+(1) The Director may, in writing, require any person described in subsection (2) to undergo, or carry out, such inspections or audits, or both, as the Director considers necessary in the interests of—
+  (a) protecting the environment, including the marine environment, from harm from discharges from ships that are subject to the provisions of Annex VI; or
+  (b) verifying whether a ship has discharged any substance that is subject to the provisions of Annex VI in contravention of the regulations and rules made under this Act; or
+  (c) facilitating and reviewing trials of ship emission reduction and control technologies; or
+  (d) monitoring compliance with conditions of exemptions.
+(2) This section applies to a person who—
+  (a) holds any marine protection document; or
+  (b) is required to hold any marine protection document by this Act or any regulations or marine protection rules made under this Act; or
+  (c) operates, maintains, or services, or does any other act in respect of, any ship, marine protection product, or reception facility.
+(3) The Director may, in respect of any person described in subsection (2), carry out such inspections or audits, or both, as the Director considers necessary in the interests of 1 or more of the matters specified in subsection (1)﻿(a) to (d).
+(4) For the purposes of any inspection or audit carried out in respect of any person under subsection (3), the Director may, in writing,—
+  (a) require that person to provide to the Director such information as the Director considers relevant to the inspection or audit:
+  (b) in respect of a ship, require the person to—
+    (i) allow the Director to take a sample of the ship’s fuel oil for the purposes of testing the sample in accordance with any requirements specified in the marine protection rules:
+    (ii) demonstrate to the Director the familiarity of the master or crew with essential shipboard procedures for the prevention of marine pollution:
+    (iii) demonstrate to the Director that any operational, maintenance, or servicing procedure in respect of a ship or a marine protection product is capable of being carried out in a competent manner.
 
 ### 397 Detention, etc, of ships and seizure of marine protection products
 (1) The Director may from time to time do all or any of the following:
@@ -4632,9 +4663,11 @@ A person in respect of whom any decision is taken to grant (or not to grant), to
   (d) there has not been issued in respect of the ship or the marine protection product, as the case may be, a marine protection document as required by this Act or any regulations or marine protection rules made under this Act; or
   (e) a marine protection document in respect of the ship or marine protection product, as the case may be, has expired; or
   (f) any provision or condition of a marine protection document in respect of the ship, or marine protection product, as the case may be, is not being met; or
-  (g) the ship or the marine protection product presents an unreasonable threat of harm to the marine environment; or
+  (g) the ship or the marine protection product presents an unreasonable threat of harm to the environment, including the marine environment; or
+  (ga) there is likely to be a contravention of Annex VI requirements under this Act or regulations or rules made under this Act; or
   (h) any conditions imposed under paragraph (b) or paragraph (d) of subsection (1) have not been complied with.
 (3) The powers under subsection (1) may also be exercised where the Director believes on clear grounds that the master or crew are not familiar with essential shipboard procedures for the prevention of marine pollution or essential procedures on a ship, as defined in section 246A(3)﻿(a), for the prevention of harm to the environment, human health, property, or resources from ballast water.
+(3A) The powers under subsection (1) may also be exercised if the Director believes on clear grounds that the master or crew are not familiar with essential shipboard procedures relating to the prevention of air pollution from ships for the purposes of implementing Annex VI.
 (4) Without limiting the generality of subsection (2), the Director may detain any ship to which section 232 applies if the owner of that ship has not provided a contract of insurance or other financial security in accordance with the provisions of that section.
 (5) Nothing in this section shall permit the Director to detain a foreign ship where that detention would constitute a breach of any marine protection convention.
 (6) Subject to subsections (7) and (8), any detention or seizure under subsection (1) shall be maintained for only such time as the grounds under subsection (2) which gave rise to the detention or seizure continue.
@@ -4656,7 +4689,7 @@ A person in respect of whom any decision is taken to grant (or not to grant), to
 **Offences**
 
 ### 399 Failure to comply with Director’s inspection or audit requirements
-Every person commits an offence who, without reasonable excuse, fails to comply with any requirement of the Director under subsection (1) or subsection (3) of section 396.
+Every person commits an offence who, without reasonable excuse, fails to comply with any requirement of the Director under section 396(1) or (3) or 396A(1) or (4).
 
 ### 400 Contravention of prohibition or conditions
 Every person commits an offence who, without reasonable excuse, acts in contravention of or fails to comply with any prohibition or condition under section 397.
@@ -5031,6 +5064,20 @@ Subject to this Act, the Authority shall, in the course of performing its functi
 (10)
 (11) Every person purporting to act under any delegation under this section shall, when reasonably requested to do so, produce evidence of his or her authority to so act.
 (12) Any person who exercises any function or power under a delegation made under this section or under section 73 of the Crown Entities Act 2004 may charge the person in respect of whom the function or power is exercised a reasonable fee in respect of the exercise of that function or power.
+
+### 444A Power to require reception facilities
+(1) The Director may, by notice in writing, require any person who operates a port in New Zealand or in New Zealand continental waters to provide at that port a reception facility to receive from ships all or any of the following:
+  (a) harmful substances:
+  (b) sediment:
+  (c) Annex VI substances.
+(2) A person required by the Director to provide a reception facility under subsection (1) must comply with the requirements of the marine protection rules.
+(3) In this section,—
+  - **Annex VI substance** has the meaning given to it by section 222(1)
+  - **harmful substance** has the meaning given to it by section 225
+  - **marine protection rules** has the meaning given to it by section 222(1)
+  - **New Zealand continental waters** has the meaning given to it by section 222(1)
+  - **reception facility** has the meaning given to it by section 222(1A)
+  - **sediment** means matter that has settled out of ballast water (as defined in section 246A(1)) within a ship (as defined in section 246A(3)﻿(a)).
 
 ## Part 30 — Miscellaneous provisions applying to this Act generally
 
