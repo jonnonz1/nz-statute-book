@@ -1,5 +1,5 @@
 # Veterans' Support Act 2014
-_Consolidation as at 2021-10-28_
+_Consolidation as at 2021-11-16_
 
 ### 1 Title
 This Act is the Veterans' Support Act 2014.
@@ -1941,7 +1941,7 @@ The explanatory note of an Order in Council made under section 190(2) must indic
 (4) This subsection applies to a person—
   (a) who, on or after the date this subsection comes into force, makes an application to be paid a veteran’s pension in a specified Pacific country; and
   (b) who is resident in the Cook Islands, Niue, or Tokelau on the date of the application; and
-  (c) who has met the residential qualifications for New Zealand superannuation set out in section 8(b) and (c) of the New Zealand Superannuation and Retirement Income Act 2001; and
+  (c) who has met the residency requirements for New Zealand superannuation set out in section 8(2) and (3) of the New Zealand Superannuation and Retirement Income Act 2001; and
   (d) who is resident in a specified Pacific country when each payment of the veteran’s pension is due to be paid to him or her.
 (5) If subsection (4) applies, an application to be paid a veteran’s pension in a specified Pacific country must be made in addition to an application to be paid a veteran’s pension under section 297 (and regulations made under section 438) of the Social Security Act 2018.
 (6) The applications referred to in subsection (5) may be made together or separately, and may be made—
@@ -2878,11 +2878,11 @@ In this Part,—
   - **2001 Act** means the New Zealand Superannuation and Retirement Income Act 2001
   - **2018 Act** means the Social Assistance (Residency Qualification) Legislation Act 2018.
 
-### 17 Application of section 8(c) of the New Zealand Superannuation and Retirement Income Act 2001
+### 17 Application of section 8(3) of the New Zealand Superannuation and Retirement Income Act 2001
 (1) This clause applies to a person who, on or after the date on which the 2018 Act comes into force, applies for a veteran’s pension.
-(2) In determining for the purposes of section 161(1)﻿(b) or (2)﻿(a), 162(1)﻿(b) or (2)﻿(a), or 163(1)﻿(a) or (2)﻿(a) of this Act whether the person is eligible to receive New Zealand superannuation and, specifically whether he or she meets the residential qualification under section 8(c) of the 2001 Act, the person’s residence and presence in any of the countries or the territory before the 2018 Act came into force must be taken into account.
-(3) In determining for the purposes of section 163(1)﻿(c) of this Act whether a veteran, had he or she not died, would have been eligible to receive New Zealand superannuation and, specifically whether the veteran would have met the residential qualification under section 8(c) of the 2001 Act, the veteran’s residence and presence in any of the countries or the territory before the 2018 Act came into force must be taken into account.
-(4) In determining for the purposes of section 191(4)﻿(c) whether a person has met the residential qualification for New Zealand superannuation under section 8(c) of the 2001 Act, the person’s residence and presence in any of the countries or the territory before the 2018 Act came into force must be taken into account.
+(2) In determining for the purposes of section 161(1)﻿(b) or (2)﻿(a), 162(1)﻿(b) or (2)﻿(a), or 163(1)﻿(a) or (2)﻿(a) of this Act whether the person is eligible to receive New Zealand superannuation and, specifically whether he or she meets the residential qualification under section 8(3) of the 2001 Act, the person’s residence and presence in any of the countries or the territory before the 2018 Act came into force must be taken into account.
+(3) In determining for the purposes of section 163(1)﻿(c) of this Act whether a veteran, had he or she not died, would have been eligible to receive New Zealand superannuation and, specifically whether the veteran would have met the residential qualification under section 8(3) of the 2001 Act, the veteran’s residence and presence in any of the countries or the territory before the 2018 Act came into force must be taken into account.
+(4) In determining for the purposes of section 191(4)﻿(c) whether a person has met the residential qualification for New Zealand superannuation under section 8(3) of the 2001 Act, the person’s residence and presence in any of the countries or the territory before the 2018 Act came into force must be taken into account.
 
 ### Part 3 — Provisions relating to Accident Compensation Amendment Act 2019
 
