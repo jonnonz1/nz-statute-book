@@ -1,5 +1,5 @@
 # Education and Training Act 2020
-_Consolidation as at 2021-10-28_
+_Consolidation as at 2021-11-20_
 
 ### 1 Title
 This Act is the Education and Training Act 2020.
@@ -5309,11 +5309,11 @@ A review officer who exercises any power under section 472 must, before exercisi
 ### 478 Purpose of Teaching Council
 The purpose of the Teaching Council is to ensure safe and high-quality leadership, teaching, and learning for children and young people in early childhood, primary, secondary, and senior secondary schooling in English-medium and Māori-medium settings through raising the status of the profession.
 
-### 479 Functions of Teaching Council
-(1) The functions of the Teaching Council are as follows:
-  (a) to provide leadership to teachers and direction for the education profession:
-  (b) to enhance the status of teachers and education leaders:
-  (c) to identify and disseminate best practice in teaching and leadership and foster the education profession’s continued development in light of research and evidence of changes in society and technology:
+### 479 Functions and powers of Teaching Council
+(1) The functions that the Teaching Council must perform are as follows:
+  (a) to provide direction for teachers:
+  (b) to enhance the status of teachers:
+  (c) to identify and disseminate best practice in teaching and foster the teaching profession’s continued development in light of research and evidence of changes in society and technology:
   (d) to carry out the functions under Schedule 3 relating to teacher registration:
   (e) to establish and maintain any criteria for teacher registration under Schedule 3 that the Teaching Council considers necessary or desirable:
   (f) to review, at any time, the criteria for teacher registration established under paragraph (e) and, after consulting the Minister,—
@@ -5336,28 +5336,36 @@ The purpose of the Teaching Council is to ensure safe and high-quality leadershi
   (o) to perform the functions in this subpart relating to teacher competence:
   (p) to co-ordinate a system providing for the vetting by the Police of all teachers:
   (q) to perform any other functions conferred on it by this Act or any other enactment.
-(2) When performing its functions and exercising its powers, the Teaching Council must act in accordance with the rules of natural justice.
+(2) The functions that the Teaching Council may perform, with the written approval of the Minister, are as follows:
+  (a) to provide leadership to the education profession:
+  (b) to enhance the status of education leaders:
+  (c) to identify and disseminate best practice in education leadership.
+(3) The Teaching Council may, by written notice to a governing body, require the governing body to give the Teaching Council, within a time specified in the notice, any information specified in the notice, and the governing body must within that time give the Teaching Council in writing all information so required that is reasonably necessary or desirable for the Teaching Council to have for the proper administration of this subpart.
+(4) The Teaching Council has and may exercise all other powers conferred by this Act or reasonably necessary for the purpose of performing its functions.
+(5) For the purposes of subsection (3), governing body means the board of a State school or a service provider that operates any licensed early childhood service or any certified playgroup, or the managers of a private school.
+(6) When performing its functions and exercising its powers, the Teaching Council must act in accordance with the rules of natural justice.
 
-### 480 Powers of Teaching Council
-(1) The Teaching Council may, by notice in the Gazette, fix fees for 1 or more of the following:
-  (a) any addition or alteration to a person’s registration as a teacher:
-  (b) any addition or alteration to a person’s limited authority to teach:
-  (c) any addition or alteration to a person’s practising certificate:
-  (d) inspection of the register of registered teachers or any other register or any other documents kept by the Teaching Council that are open to inspection:
-  (e) the supply of a copy of any entry in a register or other document referred to in paragraph (d):
-  (f) the provision of professional leadership:
-  (g) costs relating to the performance of disciplinary functions:
-  (h) any other matter for which this Act provides that the Teaching Council may charge fees.
-(2) A notice under subsection (1)—
-  (a) must be published on an Internet site maintained by or on behalf of the Teaching Council; and
-  (b) must state where printed copies of it are available free; and
-  (c) is a disallowable instrument, but not a legislative instrument, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
-(3) The Teaching Council must make printed copies of every notice under subsection (1) that is in force available, free of charge, at the place stated in it.
-(4) The Teaching Council may charge a fee for anything that it has fixed a fee for under subsection (1).
-(5) The Teaching Council may also charge for any goods or services it provides in accordance with its functions.
-(6) The Teaching Council may, by written notice to a governing body, require the governing body to give the Teaching Council, within a time specified in the notice, any information specified in the notice, and the governing body must within that time give the Teaching Council in writing all information so required that is reasonably necessary or desirable for the Teaching Council to have for the proper administration of this subpart.
-(7) The Teaching Council has all other powers conferred by this Act or reasonably necessary to enable it to perform its functions.
-(8) For the purposes of subsection (6), governing body means the board of a State school or a service provider that operates any licensed early childhood service or any certified playgroup or the managers of a private school.
+### 480 Teaching Council fees, levies, and costs
+(1) The Teaching Council may, by notice,—
+  (a) fix fees payable for—
+    (i) registration as a teacher:
+    (ii) the issuing of a practising certificate:
+    (iii) the granting of a limited authority to teach:
+    (iv) any other matter associated with those matters (for example, inspection of the register of registered teachers or supplying a copy of an entry in the register):
+  (b) impose a levy payable by registered teachers, holders of a limited authority to teach, and applicants for registration as a teacher or a limited authority to teach for the purpose of funding the Teaching Council’s functions set out in section 479(1).
+(2) A notice under subsection (1) may fix different fees or provide for different amounts of levy payable—
+  (a) by registered teachers, holders of a limited authority to teach, and applicants for registration as a teacher or a limited authority to teach; and
+  (b) for registration effected in different circumstances; and
+  (c) for practising certificates of different kinds.
+(3) Fees fixed and levies imposed under subsection (1) are payable in the manner (for example, by instalments) prescribed in the notice and are recoverable as a debt due to the Teaching Council.
+(4) Before issuing a notice under subsection (1), the Teaching Council must—
+  (a) consult registered teachers and holders of a limited authority to teach on any proposed fees or levies; and
+  (b) receive the views presented to it with an open mind and give those views due consideration when making a decision on the proposed fees or levies.
+(5) The Teaching Council may also charge a fee for any goods or services it provides in accordance with its functions under section 479(1).
+(6) Fees fixed and levies imposed under subsection (1) and any fees charged under subsection (5) must recover only the actual and reasonable costs incurred by the Teaching Council in performing its functions set out in section 479(1).
+(7) Despite anything in this Act, the Teaching Council may refuse to register a person as a teacher, issue a practising certificate, or grant a limited authority to teach until the appropriate fee or levy has been paid in the manner prescribed by the notice.
+(8) If the Teaching Council cancels a teacher’s registration or limited authority to teach, it may, by written notice to the teacher or person concerned, require the teacher or person to pay the Teaching Council any reasonable costs specified in the notice that were incurred by the Teaching Council in dealing with the proposal to cancel the registration or authorisation, or with the cancellation itself.
+(9) A notice made under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 481 Ministerial powers
 (1) For the purpose of ascertaining whether the Teaching Council is complying, or has complied, with this subpart and Schedule 3, the Minister may commission an independent audit of the conduct of the Teaching Council’s functions.
@@ -7990,6 +7998,29 @@ The requirement for a person to meet criteria issued by the Minister under secti
 ### 72 Application of section 548(5A) to (5C)
 Section 548(5A) to (5C) (as inserted by section 4 of the Education and Training (Grants—Budget Measures) Amendment Act 2021) applies to a grant paid under section 548, and to a condition or purpose specified under section 548(5)﻿(a) or (b) for that grant, after the commencement of that Act (whether that grant was determined before or after that commencement).
 
+### Part 3 — Provisions relating to Education and Training (Teaching Council Fees, Levies, and Costs) Amendment Act 2021
+
+### 73 Interpretation
+In this Part,—
+  - **2015 fees** means fees fixed or purportedly fixed by the Education Council of Aotearoa New Zealand Fees for Registration, Practising Certificates and Limited Authorities to Teach notice published in the Gazette on 25 June 2015, 2015-gs3644
+  - **2020 fee** means a fee fixed or purportedly fixed by the Teaching Council of Aotearoa New Zealand Fees for Registration, Practising Certificates, and Limited Authorities to Teach notice published in the Gazette on 22 May 2020, 2020-gs2144
+  - **commencement** means the commencement of the Education and Training (Teaching Council Fees, Levies, and Costs) Amendment Act 2021
+  - **former Council** means any predecessor of the Teaching Council.
+
+### 74 Validation of specified fees
+(1) This clause applies to the 2015 fees and any previous fees fixed by a former Council for registration as a teacher, the issuing of a practising certificate, or the granting of a limited authority to teach (specified fees).
+(2) The specified fees, and all actions of a former Council in fixing the specified fees, are valid and declared to be and to always have been lawful.
+(3) All money received by the Teaching Council or a former Council in payment of the specified fees is to be treated as having been lawfully paid to, and received by, the Teaching Council or the former Council.
+
+### 75 Recovery of unpaid 2015 fees
+Any 2015 fee, or part of a 2015 fee, that applies to a person and that has not been paid before commencement—
+  (a) is declared to be lawfully payable to the Teaching Council; and
+  (b) may be recovered by the Teaching Council on and after commencement as if the 2015 fee had always been lawfully payable by the person.
+
+### 76 Payment of 2020 fees
+(1) This clause applies to a person who has paid a 2020 fee to the Teaching Council on or after 1 February 2021.
+(2) The payment must be treated on and after commencement as a part-payment of the appropriate 2015 fee payable by the person.
+
 ## Schedule 2 — Special institutions
 
 ## Schedule 3 — Teacher registration, practising certificates, and other matters
@@ -8143,17 +8174,7 @@ The Teaching Council must deregister a person if—
 (3) Subclause (2) does not limit subclause (1).
 
 ### 13 Fees and costs for registration and practising certificates
-(1) The Teaching Council may, by notice in the Gazette, fix fees for registration as a teacher or for the issue of practising certificates, and different fees may be fixed—
-  (a) in respect of registration effected in different circumstances; and
-  (b) for practising certificates of different kinds.
-(2) A notice under subclause (1)—
-  (a) must be published on an Internet site maintained by or on behalf of the Teaching Council; and
-  (b) must state where printed copies of it are available free; and
-  (c) is a disallowable instrument, but not a legislative instrument, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
-(3) The Teaching Council must make printed copies of every notice under subclause (1) that is in force available free at the place stated in it.
-(4) Despite anything in this Act, the Teaching Council may refuse to register a person as a teacher or issue a practising certificate until the appropriate fee has been paid.
-(5) If the Teaching Council cancels a teacher's registration, it may, by written notice to the teacher, require the teacher to pay the Teaching Council any reasonable costs specified in the notice that were incurred by the Teaching Council in dealing with the proposal to cancel the registration or with the cancellation itself.
-(6) The Teaching Council may recover from a teacher as a debt due to it costs required under subclause (5) to be paid to the Teaching Council by the teacher.
+[Repealed]
 
 **Limited authority to teach**
 
@@ -8216,15 +8237,7 @@ Any person may apply to the Teaching Council for a limited authority to teach.
 (4) In the case where the list is annotated following an interim suspension, the annotation must be removed or corrected as soon as practicable after the matter is concluded (as specified in section 499(6)).
 
 ### 22 Fees and costs for granting limited authority to teach
-(1) The Teaching Council may, by notice in the Gazette, fix fees for the granting of a limited authority to teach.
-(2) A notice under subclause (1)—
-  (a) must be published on an Internet site maintained by or on behalf of the Teaching Council; and
-  (b) must state where printed copies of it are available free; and
-  (c) is a disallowable instrument, but not a legislative instrument, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
-(3) The Teaching Council must make printed copies of every notice under subclause (1) that is in force available free at the place stated in it.
-(4) Despite anything in this Act, the Teaching Council may refuse to grant any person a limited authority to teach until the appropriate fee has been paid.
-(5) If the Teaching Council cancels a limited authority to teach, it may, by written notice to the person concerned, require the person to pay the Teaching Council any reasonable costs specified in the notice that were incurred by the Teaching Council in dealing with the proposal to cancel the authorisation or with the cancellation itself.
-(6) The Teaching Council may recover from any person as a debt due to it costs required under subclause (5) to be paid to the Teaching Council by that person.
+[Repealed]
 
 **Miscellaneous provisions**
 
