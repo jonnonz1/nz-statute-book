@@ -1,5 +1,5 @@
 # Overseas Investment Amendment Act 2021
-_Consolidation as at 2021-05-24_
+_Consolidation as at 2021-11-24_
 
 ### 1 Title
 This Act is the Overseas Investment Amendment Act 2021.
