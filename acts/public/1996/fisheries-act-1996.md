@@ -1,5 +1,5 @@
 # Fisheries Act 1996
-_Consolidation as at 2021-10-28_
+_Consolidation as at 2021-11-24_
 
 > An Act—ato reform and restate the law relating to fisheries resources; andbto recognise New Zealand's international obligations relating to fishing; andcto provide for related matters
 
@@ -1156,7 +1156,7 @@ A transaction requires consent under the overseas investment fishing provisions 
 ### 57D What are overseas investments in fishing quota
 An overseas investment in fishing quota is the acquisition by an overseas person, or an associate of an overseas person, of—
   (a) an interest in fishing quota; or
-  (b) rights or interests in securities of a person (A) if A owns or controls (directly or indirectly) an interest in fishing quota and, as a result of the acquisition, 1 or more of the things referred to in section 12(b)﻿(i) to (iii) of the Overseas Investment Act 2005 happens.
+  (b) rights or interests in securities of a person (A) if A owns or controls (directly or indirectly) an interest in fishing quota and, as a result of the acquisition, 1 or more of the things referred to in section 12(1)﻿(b)﻿(i) to (iii) of the Overseas Investment Act 2005 happens.
 
 ### 57E Approach to criteria for consent
 (1) The relevant Ministers, in considering whether or not to grant consent to an overseas investment transaction under the overseas investment fishing provisions,—
@@ -1177,31 +1177,22 @@ An overseas investment in fishing quota is the acquisition by an overseas person
   (c) the individual or body of individuals who the Ministers consider to have that control (whether directly or indirectly).
 
 ### 57G Criteria for overseas investments in fishing quota
-(1) The criteria for an overseas investment in fishing quota are all of the following:
+The criteria for an overseas investment in fishing quota are all of the following:
   (a) the investor test is met:
-  (b)
-  (c)
-  (d)
-  (e)
-  (f) the interest in fishing quota is capable of being registered in the Quota Register or the Annual Catch Entitlement Register:
-  (g) the granting of consent is in the national interest, as determined by the relevant Ministers under section 57H:
-  (h) if the overseas investment in fishing quota is a transaction of national interest, the Minister has not declined consent to the transaction (see section 20C of the Overseas Investment Act 2005).
-(2)
+  (b) the overseas investment will, or is likely to, benefit New Zealand (or any part of it or group of New Zealanders) to the extent required by section 16A(1A) of the Overseas Investment Act 2005, as determined by the relevant Ministers under section 57H:
+  (c) if the overseas investment in fishing quota is a transaction of national interest, the Minister has not declined consent to the transaction (see section 20C of the Overseas Investment Act 2005):
+  (d) the interest in fishing quota is capable of being registered in the Quota Register or the Annual Catch Entitlement Register.
 
-### 57H Factors for determining whether or not overseas investment in fishing quota is in national interest
-(1) The relevant Ministers—
-  (a) must consider all the factors in subsection (2) to determine which factor or factors (or parts of them) are relevant to the overseas investment; and
-  (b) must determine whether the criterion in section 57G(1)﻿(g) is met after having regard to those relevant factors; and
-  (c) may, in doing so, determine the relative importance to be given to each relevant factor (or part).
-(2) The factors are—
-  (a) whether the overseas investment will, or is likely to, result in—
-    (i) the creation of new job opportunities in New Zealand or the retention of existing jobs in New Zealand that would or might otherwise be lost; or
-    (ii) the introduction into New Zealand of new technology or business skills; or
-    (iii) increased export receipts for New Zealand exporters; or
-    (iv) added market competition, greater efficiency or productivity, or enhanced domestic services, in New Zealand; or
-    (v) the introduction into New Zealand of additional investment for purposes of significant development; or
-    (vi) increased processing in New Zealand of fish, aquatic life, or seaweed:
-  (b) any other factors that are set out in regulations under the Overseas Investment Act 2005 or that the relevant Ministers, having regard to the circumstances and the nature of the application, think fit.
+### 57H Factors for determining whether or not overseas investment in fishing quota will, or is likely to, benefit New Zealand
+What are the factors
+(1) The factors for assessing the benefit of overseas investments in fishing quota are whether the overseas investment will, or is likely to,—
+  (a) result in economic benefits for New Zealand (for example, the creation and retention of jobs, introduction of technology or business skills, increased export receipts, increased processing in New Zealand of fish, aquatic life, or seaweed, or a reduced risk of illiquid assets):
+  (b) result in benefits to the natural environment (for example, protection of indigenous fish or mitigation of environmental impacts by innovations in fishing technologies):
+  (c) give effect to or advance a significant Government policy:
+  (d) involve oversight of, or participation in, the overseas investment and any relevant overseas person by persons who are not overseas persons:
+  (e) result in other consequential benefits to New Zealand.
+How factors must be considered
+(2) Section 17(2) of the Overseas Investment Act 2005 applies with necessary modifications.
 
 ### 57I Applying good character and Immigration Act 2009 criteria
 [Repealed]
