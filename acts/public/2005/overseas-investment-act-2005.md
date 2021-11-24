@@ -1,5 +1,5 @@
 # Overseas Investment Act 2005
-_Consolidation as at 2021-10-28_
+_Consolidation as at 2021-11-24_
 
 ### 1 Title
 This Act is the Overseas Investment Act 2005.
@@ -207,7 +207,7 @@ This Act is the Overseas Investment Act 2005.
       (i) the manager or the trustee (as the case may be) is a relevant government investor; or
       (ii) more than 25% of the value of the investment products in the managed investment scheme is invested on behalf of 1 or more relevant government investors,—
   - **relevant government investor** means a non-NZ government investor or an associate of a non-NZ government investor
-  - **relevant land** , in relation to an overseas investment in sensitive land, means the land that the estate or interest referred to in section 12(a) or (b) relates to
+  - **relevant land** , in relation to an overseas investment in sensitive land, means the land that the estate or interest referred to in section 12(1)﻿(a) or (b) relates to
   - **relevant Minister or Ministers** means,—
     (a) in the case of a business decision, the Minister:
     (b) in the case of a fishing quota decision, the Minister and the Minister of Fisheries:
@@ -480,7 +480,7 @@ This Act binds the Crown.
   (c) the individual or body of individuals who the Minister or Ministers consider to have that control (whether directly or indirectly).
 
 ### 16 Criteria for consent for overseas investments in sensitive land
-(1) The criteria for an overseas investment in sensitive land are all of the following:Criteria regardless of type of relevant landCriteria if relevant land is exclusively residential and not otherwise sensitiveCriteria if relevant land is exclusively non-residential land that is sensitiveCriteria if relevant land is all residential and some or all is sensitive for some other reasonCriteria if some relevant land is residential and some or all is sensitive for some other reasonAdditional criteria for transaction of national interest
+(1) The criteria for an overseas investment in sensitive land are all of the following:Criteria regardless of type of relevant landCriteria if relevant land is exclusively residential and not otherwise sensitiveCriteria if relevant land is exclusively non-residential land that is sensitiveCriteria if relevant land is all residential and some or all is sensitive for some other reasonCriteria if some relevant land is residential and some or all is sensitive for some other reasonAdditional criteria if land includes farm landAdditional criteria for transaction of national interest
   (a) the investor test is met (unless the overseas investment is exempt from this criterion under subsection (3)):
   (b) if the relevant land is residential (but not otherwise sensitive) land,—
     (i) 1 or more of the following tests in Schedule 2 are met:
@@ -496,7 +496,7 @@ This Act binds the Crown.
     (i) the commitment to reside in New Zealand test is met; or
     (ii) the benefit to New Zealand test is met:
   (e) if the relevant land is not described in paragraphs (b) to (d), the benefit to New Zealand test is met:
-  (f) if the relevant land is or includes farm land, either that farm land or the securities to which the overseas investment relates have been offered for acquisition on the open market to persons who are not overseas persons in accordance with the procedure set out in regulations (unless the overseas investment is exempt from this criterion under section 20):
+  (f) if the relevant land is or includes farm land, before a transaction is entered into with the relevant overseas person, the farm land or section 12 interest has been offered for acquisition on the open market to persons who are not overseas persons as required by the regulations (but see section 20):
   (g) if the overseas investment in sensitive land is a transaction of national interest, the Minister has not declined consent to the transaction (see section 20C).
 (2)
 (3) The investor test does not apply to an overseas investment in sensitive land if either of the following circumstances applies:
@@ -512,11 +512,30 @@ This Act binds the Crown.
 (5)
 
 ### 16A Benefit to New Zealand test
+Outline
+(1AA) This subsection shows the ways in which the benefit to New Zealand test can be met, but it is a guide only to the general scheme and effect of this section.The following table is small in size and has 3 columns. Column 1 is headed Pathway. Column 2 is headed Which subsections apply. Column 3 is headed Which counterfactual applies.PathwayWhich subsections applyWhich counterfactual appliesGeneral testSubsections (1), (1A)Subsection (1A)﻿(a)Modified benefit test if relevant land is or includes farm land described in subsection (1C)Subsections (1), (1A), (1C), (1D)Subsection (1A)﻿(a)Modified benefit test for things described in subsection (2) (forestry activities) Subsections (1), (3), (7), (9)Subsection (3)Special benefit test relating to forestry activities Subsections (4) to (9)N/a
 General test
-(1) The benefit to New Zealand test is met if all of the following are met:
-  (a) the overseas investment will, or is likely to, benefit New Zealand (or any part of it or group of New Zealanders), as determined by the relevant Ministers under section 17; and
-  (b) if the relevant land is or includes non-urban land that, in area (either alone or together with any associated land) exceeds 5 hectares, the relevant Ministers determine that that benefit will be, or is likely to be, substantial and identifiable; and
-  (c) if the relevant land is or includes residential land, the relevant Ministers are satisfied that the conditions that the relevant Ministers will impose on the consent in accordance with section 16B will be, or are likely to be, met.
+(1) The benefit to New Zealand test is met if both of the following are met:
+  (a) the overseas investment will, or is likely to, benefit New Zealand (or any part of it or group of New Zealanders) to the extent required by this section, as determined by the relevant Ministers under section 17; and
+  (b) if the relevant land is or includes residential land, the relevant Ministers are satisfied that the conditions that the relevant Ministers will impose on the consent in accordance with section 16B will be, or are likely to be, met.
+(1A) For the purposes of subsection (1)﻿(a), the relevant Ministers—
+  (a) must assess the benefit to New Zealand (or any part of it or group of New Zealanders) by comparing the likely result of the overseas investment against the existing state of affairs as at the time the overseas investment transaction is entered into or the time the application is made, whichever occurs first (counterfactual); and
+  (b) must take a proportionate approach to whether the benefit test is met, by taking into account whether that benefit is proportionate to the following:
+    (i) the sensitivity of the land (for example, the importance to New Zealand of the purpose for which the land is used, the size and value of the land, any sensitive features associated with the land, and the level of interest that the public have in the land) or the fishing quota; and
+    (ii) the nature of the overseas investment transaction (for example, the estate or interest being acquired, whether the estate or interest is temporary or permanent, and the degree of overseas ownership or control of the land or of the estate or interest in land).
+(1B) However, subsection (1A) does not apply if subsection (3) or (4) applies.
+Modified benefit test if relevant land is or includes farm land
+(1C) If the relevant land is or includes farm land that in area exceeds 5 hectares, the relevant Ministers must—
+  (a) give the following factors high relative importance:
+    (i) the economic benefits factor in section 17(1)﻿(a) and, in particular, the creation or retention of jobs, introduction of technology or business skills, increased export receipts, and increased processing of primary products; and
+    (ii) the oversight or participation factor in section 17(1)﻿(f); and
+  (b) ensure that the applicant has demonstrated, in relation to 1 or more of those factors, that the benefits of the investment are of a size or nature that represent a substantial benefit to New Zealand.
+(1D) However, the relevant Ministers may determine not to apply subsection (1C) if they are satisfied that—
+  (a) the transaction is minor or technical; or
+  (b) the transaction does not materially change the level of ownership or control that the relevant overseas person has over the asset; or
+  (c) the farm land has no or limited productive capacity as farm land and will, or is likely to, be used promptly, as a result of the overseas investment, for industrial or commercial development (for example, a supermarket) or for the construction of 1 or more buildings that, taken together, will consist of 20 or more new residential dwellings.
+(1E) Subsection (1C) does not preclude the relevant Ministers also giving other factors high relative importance.
+Modified benefit test for things described in subsection (2) (forestry activities)
 (2) Subsection (3) applies if the relevant Ministers are satisfied—
   (a) that the relevant land will be, or is likely to be, used exclusively, or nearly exclusively, for forestry activities; and
   (b) that—
@@ -526,7 +545,7 @@ General test
     (i) accommodation is being provided for the purpose only of supporting forestry activities being carried out on the relevant land; and
     (ii) all buildings being used for that accommodation are located on land on which some or all of those forestry activities are being carried out or on land that adjoins land on which some or all of those forestry activities are being carried out; and
   (d) that, whenever a crop of trees is harvested on the relevant land, a new crop will be, or is likely to be, established on the relevant land to replace the crop that is harvested (subject to subsection (7)).
-(3) For the purposes of subsection (1)﻿(a) and (b), the relevant Ministers may assess the benefit to New Zealand (or any part of it or group of New Zealanders) by comparing the expected result of the overseas investment with what is expected to happen in relation to the relevant land if—
+(3) For the purposes of subsection (1)﻿(a), the relevant Ministers may assess the benefit to New Zealand (or any part of it or group of New Zealanders) by comparing the expected result of the overseas investment with what is expected to happen in relation to the relevant land if—
   (a) the overseas investment is not given effect to; and
   (b) there were to be no future changes to the ownership or control (direct or indirect) of—
     (i) interests in the relevant land; or
@@ -542,7 +561,7 @@ Special test relating to forestry activities
     (ii) all buildings being used for that accommodation are located on land on which some or all of those forestry activities are being carried out or on land that adjoins land on which some or all of those forestry activities are being carried out; and
   (d) that any requirements set out in regulations in accordance with subsection (5) will be, or are likely to be, met (subject to subsection (8)); and
   (e) that, whenever a crop of trees is harvested on the relevant land, a new crop will be, or is likely to be, established on the relevant land to replace the crop that is harvested (subject to subsection (7)); and
-  (f) if the relevant land is or includes special land and regulations require the special land, or any part of it, to be offered to the Crown, that the special land, or the part of it, has been offered to the Crown in accordance with regulations; and
+  (f)
   (g) that any other requirements set out in regulations are met.
 (5) Regulations may, for the purposes of subsection (4)﻿(d), set out requirements that must be met after the overseas investment is given effect to.
 (6) Requirements set out in regulations for the purposes of subsection (4)﻿(d) may (without limitation) be about 1 or more of the following:
@@ -560,8 +579,7 @@ Definitions
   - **forestry activities** means any of the following:
     (a) maintaining a crop of trees:
     (b) harvesting a crop of trees:
-    (c) establishing a crop of trees
-  - **special land** means marine and coastal area or a bed of a river or lake.
+    (c) establishing a crop of trees.
 
 ### 16B Conditions for consents relating to sensitive land that is residential land: benefit to New Zealand test
 (1) This section applies if an application for consent for an overseas investment in sensitive land is being considered under the benefit to New Zealand test and the relevant land is or includes residential land.
@@ -585,32 +603,25 @@ ExampleA is an overseas person who wants to buy 100% of the shares in what is cu
 (5) A condition imposed in relation to the requirement set out in section 16A(2)﻿(d) or (4)﻿(e) may require the replacement of a crop of trees that is harvested to be on a like-for-like basis or on any similar basis.
 
 ### 17 Factors for assessing benefit of overseas investments in sensitive land
-(1) For the purposes of section 16A(1)﻿(a) and (b) (including where section 16A(3) is being applied), the relevant Ministers—
-  (a) must consider all the factors in subsection (2) to determine which factor or factors (or parts of them) are relevant to the overseas investment; and
-  (b) must determine whether the criteria in section 16A(1)﻿(a) and (b) (including where section 16A(3) is being applied) are met after having regard to those relevant factors; and
-  (c) may, in doing so, determine the relative importance to be given to each relevant factor (or part).
-(2) The factors are the following:
-  (a) whether the overseas investment will, or is likely to, result in—
-    (i) the creation of new job opportunities in New Zealand or the retention of existing jobs in New Zealand that would or might otherwise be lost; or
-    (ii) the introduction into New Zealand of new technology or business skills; or
-    (iii) increased export receipts for New Zealand exporters; or
-    (iv) added market competition, greater efficiency or productivity, or enhanced domestic services, in New Zealand; or
-    (v) the introduction into New Zealand of additional investment for development purposes; or
-    (vi) increased processing in New Zealand of New Zealand's primary products:
-  (b) whether there are or will be adequate mechanisms in place for protecting or enhancing existing areas of significant indigenous vegetation and significant habitats of indigenous fauna, for example, any 1 or more of the following:
-    (i) conditions as to pest control, fencing, fire control, erosion control, or riparian planting:
-    (ii) covenants over the land:
-  (c) whether there are or will be adequate mechanisms in place for—
-    (i) protecting or enhancing existing areas of significant habitats of trout, salmon, wildlife protected under section 3 of the Wildlife Act 1953, and game as defined in sections 2(1) of that Act (for example, any 1 or more of the mechanisms referred to in paragraph (b)﻿(i) and (ii)); and
-    (ii) providing, protecting, or improving walking access to those habitats by the public or any section of the public:
-  (d) whether there are or will be adequate mechanisms in place for protecting or enhancing historic heritage within the relevant land, for example, any 1 or more of the following:
-    (i) conditions for conservation (including maintenance and restoration) and access:
-    (ii) agreement to support the entry on the New Zealand Heritage List/Rārangi Kōrero of any historic place, historic area, wahi tapu, or wahi tapu area under the Heritage New Zealand Pouhere Taonga Act 2014:
-    (iii) agreement to execute a heritage covenant:
-    (iv) compliance with existing covenants:
-  (e) whether there are or will be adequate mechanisms in place for providing, protecting, or improving walking access over the relevant land or a relevant part of that land by the public or any section of the public:
-  (f) if the relevant land is or includes foreshore, seabed, or a bed of a river or lake, whether that foreshore, seabed, riverbed, or lakebed has been offered to the Crown in accordance with regulations:
-  (g) any other factors set out in regulations.
+What are the factors
+(1) The factors for assessing the benefit of overseas investments in sensitive land are whether the overseas investment will, or is likely to,—
+  (a) result in economic benefits for New Zealand (for example, the creation or retention of jobs, the introduction of technology or business skills, increases in productivity or export receipts, or a reduced risk of illiquid assets):
+  (b) result in benefits to the natural environment (for example, protection of indigenous flora and fauna or erosion control):
+  (c) result in continued or enhanced access by the public, or any section of the public, within or over the sensitive land or the features giving rise to the sensitivity (for example, access for recreational purposes or for the purposes of undertaking stewardship of, or exercising kaitiakitanga in relation to, historic heritage or the natural environment):
+  (d) result in continued or enhanced protection of historic heritage in or on the relevant land (for example, agreement to execute a heritage covenant (or comply with existing covenants), agreement to support entry to wāhi tūpuna, wāhi tapu, or wāhi tapu areas on the New Zealand Heritage List/ Rārangi Kōrero, taking other actions under the Heritage New Zealand Pouhere Taonga Act 2014 to recognise or protect heritage values, or agreement to land being set apart as a Māori reservation):
+  (e) give effect to or advance a significant Government policy:
+  (f) involve oversight of, or participation in, the overseas investment or any relevant overseas person by persons who are not overseas persons:
+  (g) result in other consequential benefits to New Zealand.
+How factors must be considered
+(2) For the purposes of section 16A(1)﻿(a) and (b) (including where section 16A(3) is being applied), the relevant Ministers—
+  (a) must consider all the factors in subsection (1) to determine which factor or factors are relevant to the overseas investment; and
+  (b) must determine whether the criteria in section 16A(1)﻿(a) and (b) (including where section 16A(3) is being applied) are met after having regard to those relevant factors and, in doing so,—
+    (i) must deduct from any benefit arising under a factor any directly comparable aspect of the counterfactual, and any negative impact of the overseas investment that is directly comparable, but must stop deducting at zero unless subsection (3) applies:
+    (ii) must not deduct from any benefit arising under a factor any non-directly comparable aspect of the counterfactual or any negative impact of the overseas investment that is not directly comparable unless subsection (3) applies:ExamplesDirectly comparableIf a company is generating $10 million in export receipts at the time that the overseas investment transaction is entered into and the overseas investment will result in a total of $15 million in export receipts, the net benefit in respect of export receipts under the economic factor is $5 million.Non-directly comparableIf the overseas investment will result in an increase in jobs, but a decrease in export receipts, as compared with the counterfactual, the decrease in export receipts cannot be deducted from the benefit associated with the increase in jobs. If an overseas investment will result in the introduction of technology but a decrease in export receipts, the decrease in export receipts must not be deducted from any benefits arising from the introduction of technology.
+    (iii) must determine the relative importance to be given to each relevant factor or particular benefit arising under a factor, subject to section 16A(1C).
+(3) If the overseas investment involves the extraction of water for bottling, or other extraction of water in bulk for human consumption,—
+  (a) an additional factor is whether the overseas investment will, or is likely to, result in a negative impact on water quality or sustainability; and
+  (b) the relevant Ministers must determine the relative importance to be given to this factor and deduct that from any overall benefit to New Zealand that has been determined under section 16A(1)﻿(a).
 
 ### 18 Criteria for consent for overseas investments in significant business assets
 The criteria for an overseas investment in significant business assets are both of the following:
@@ -655,20 +666,42 @@ Investor test factors
 [Repealed]
 
 ### 20 Exemptions from farm land offer criterion
+Powers to exempt
 (1) Section 16(1)﻿(f) does not apply to an overseas investment if—
-  (a) the relevant Ministers consider that the overseas investment need not meet this criterion by reason of the circumstances relating to the particular overseas investment, interest in land, or rights or interests in securities; or
+  (a) the relevant Ministers consider that the overseas investment need not meet this criterion by reason of the circumstances relating to the particular overseas investment or section 12 interest or the nature of the land to which the section 12 interest relates (for example, its productive capacity); or
   (b) the overseas person making the overseas investment belongs to a class of overseas persons, or the overseas investment transaction belongs to a class of transactions, that is exempted from this criterion by the relevant Ministers.
-(2) An exemption under subsection (1)﻿(b) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+(2) The relevant Ministers may also exempt a person or transaction from—
+  (a) the requirement that offers for acquisition must be on the open market:
+  (b) any other requirement in regulations about how farm land or section 12 interests must be advertised.
+Restrictions on powers to exempt
+(3) The relevant Ministers may grant an exemption under this section only if those Ministers consider that—
+  (a) there are circumstances that mean that it is necessary, appropriate, or desirable to provide an exemption; and
+  (b) the extent of the exemption is not broader than is reasonably necessary to address those circumstances.
+(4) In so considering, the relevant Ministers—
+  (a) must have regard to the purpose of this Act; and
+  (b) may have regard to any other factors that seem to those Ministers to be relevant to the circumstances.
+Applications
+(5) An application for an exemption under this section may be made at any time by written notice to the regulator accompanied by the fee required by regulations.
+Conditions
+(6) An exemption under this section may be made subject to any conditions.
+Class exemptions
+(7) An exemption made under subsection (1)﻿(b) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+(8) The reasons of the relevant Ministers for granting the exemption must be published with the exemption.
+Other exemptions
+(9) An exemption made under subsection (1)﻿(a) or (2) must be published on an Internet site maintained by, or on behalf of, the regulator, together with the reasons of the relevant Ministers for granting the exemption.
+(10) However, publication under subsection (9) may be deferred or dispensed with (in whole or in part) if the relevant Ministers are satisfied on reasonable grounds that good reason for withholding the exemption or the reasons (as the case may be) would exist under the Official Information Act 1982, in which case the relevant Ministers must publish the reason for deferring or dispensing with publication and the grounds in support of that reason.
+Maximum duration
+(11) An exemption under this section may continue in force for not more than 5 years (and at the close of the date that is 5 years after the exemption first comes into force, the exemption must be treated as having been revoked unless it sooner is revoked or expires).
 
 **Transactions of national interest**
 
 ### 20A Transactions that are transactions of national interest
 Transactions involving non-NZ government investors or SIB
 (1) The following kinds of overseas investment transactions are transactions of national interest:Investment by non-NZ government investorsInvestment in strategically important businesses
-  (a) a transaction of a kind described in section 12(a) or 13(1)﻿(c) of this Act, or in section 57D(a) of the Fisheries Act 1996, where, as a result of the acquisition, the relevant estate or interest in land, property, or fishing quota is acquired by a non-NZ government investor:
-  (b) a transaction of a kind described in section 12(b)﻿(i) or (ii) or 13(1)﻿(a) of this Act, or in section 57D(b) of the Fisheries Act 1996, where, as a result of the acquisition, a non-NZ government investor has more than 25% ownership or control interest in A:
-  (c) a transaction of a kind described in section 12(a) where the estate or interest in land is used in carrying on a SIB:
-  (d) a transaction of a kind described in section 12(b)﻿(i) or (ii) or 13(1)﻿(a) where A is carrying on a SIB:
+  (a) a transaction of a kind described in section 12(1)﻿(a) or 13(1)﻿(c) of this Act, or in section 57D(a) of the Fisheries Act 1996, where, as a result of the acquisition, the relevant estate or interest in land, property, or fishing quota is acquired by a non-NZ government investor:
+  (b) a transaction of a kind described in section 12(1)﻿(b)﻿(i) or (ii) or 13(1)﻿(a) of this Act, or in section 57D(b) of the Fisheries Act 1996, where, as a result of the acquisition, a non-NZ government investor has more than 25% ownership or control interest in A:
+  (c) a transaction of a kind described in section 12(1)﻿(a) where the estate or interest in land is used in carrying on a SIB:
+  (d) a transaction of a kind described in section 12(1)﻿(b)﻿(i) or (ii) or 13(1)﻿(a) where A is carrying on a SIB:
   (e) a transaction of a kind described in section 13(1)﻿(c) where the acquisition is of or includes property (including goodwill and other intangible assets) in New Zealand used in carrying on a SIB.
 (1A) However, for the purpose of subsection (1)﻿(a) and (b), references to a relevant government investor or investors in the definition of relevant government enterprise in section 6(1) include only relevant government investors from the same country.ExampleAn acquisition by a company of which a New South Wales Government pension fund owns 15% and a Victorian Government pension fund owns 15% is a transaction of national interest (because Australia is the single country). But an acquisition by a company of which a New South Wales Government pension fund owns 15% and a Belgian Government pension fund owns 15% is not a transaction of national interest.
 (2) The Minister must notify an applicant if the Minister considers that an application for consent involves a transaction of the kind set out in subsection (1), unless the applicant has already identified this in their application.
@@ -762,7 +795,7 @@ An application for consent must be made in accordance with this Act and regulati
 ### 22 Who must apply for consent
 (1) The following persons must apply for consent to an overseas investment transaction:
   (a) each overseas person or associate making the overseas investment; and
-  (b) if the transaction comes within section 12(b) or section 13(1)﻿(a) because of the issue, buyback, or cancellation of securities, and consent has not been obtained by a person under paragraph (a), the issuer of the securities.
+  (b) if the transaction comes within section 12(1)﻿(b) or section 13(1)﻿(a) because of the issue, buyback, or cancellation of securities, and consent has not been obtained by a person under paragraph (a), the issuer of the securities.
 (2) In addition, the regulator may require any other party to the overseas investment transaction, or any associate of the person referred to in subsection (1)﻿(a) in relation to the overseas investment, to be a party to the application.
 
 ### 23 Requirements for application for consent
@@ -818,6 +851,13 @@ It is a condition of every consent, whether or not it is stated in the consent, 
 
 ### 25C Automatic condition: every transaction of national interest
 It is a condition of every consent relating to a transaction of national interest, whether or not it is stated in the consent, that each consent holder must not, in relation to sensitive assets in which the relevant investment is made, act or omit to act with a purpose or an intention of adversely affecting national security or public order.
+
+### 25D Automatic condition: transactions involving fresh or seawater areas
+(1) Schedule 5 applies if—
+  (a) an overseas person or their associate obtains consent for an overseas investment in sensitive land; and
+  (b) the section 12 interest to be acquired is or includes a fresh or seawater interest; and
+  (c) the criteria that were satisfied as part of the application for consent included the benefit to New Zealand test.
+(2) If Schedule 5 applies, it is a condition of every consent, whether or not it is stated in the consent, that each consent holder must comply with the provisions of that schedule.
 
 ### 26 Minister may revoke consent in case of fraud
 The Minister may revoke a consent for an overseas investment transaction before the overseas investment has been given effect if, in the Minister's opinion, the consent has been obtained by fraud.
@@ -1335,7 +1375,7 @@ The regulator may defer or dispense with publication of a matter under this subp
 (3)
 
 ### 51C Conveyancer must obtain and keep statement
-(1) A conveyancer must not lodge, or direct the lodgement of, the instrument referred to in section 51A(1)﻿(c) if the conveyancer—
+(1) A conveyancer must not lodge, or direct the lodgement of, the instrument referred to in section 51A(1)﻿(b) if the conveyancer—
   (a) has not obtained the statement or a copy of the statement that is required to be provided under section 51A(5) or (6); or
   (b) has reasonable grounds for believing that the statement or copy that is provided is not correct in a material particular.
 (2) The conveyancer must take reasonable steps to ensure that a copy of the statement is kept for a period of at least 7 years after the date on which the instrument is lodged.
@@ -1550,9 +1590,7 @@ The purpose of sections 61C and 61D is to—
 (7) This section does not limit section 61F(3).
 
 ### 62 Foreshore, seabed, riverbed, or lakebed acquired by the Crown under consent process is not subdivision
-Nothing in section 11 or Part 10 of the Resource Management Act 1991 applies to—
-  (a) any acquisition by the Crown of land as a direct or indirect consequence of an offer made to the Crown to satisfy section 16A(4)﻿(f) or 17(2)﻿(f); or
-  (b) any matter incidental to, or required for the purpose of, any acquisition of that kind.
+[Repealed]
 
 ### Subpart 7 — Transitional provisions and amendments to other enactments
 
@@ -2796,8 +2834,8 @@ ExampleA is an overseas person who wishes to buy a company. The company owns lan
 
 ### 21 Exemption for indirect or minority interests in overseas persons that own or control land
 (1) The relevant Ministers may decide not to impose a condition requiring the on-sale outcome if—
-  (a) a person (OP) has applied for consent under the benefit to New Zealand test in respect of an acquisition of rights or interests in securities referred to in section 12(b); and
-  (b) as a result of that acquisition, OP will have an indirect interest or a minority interest in an overseas person (A) that directly owns or controls an estate or interest in residential land described in section 12(a) (the relevant land).
+  (a) a person (OP) has applied for consent under the benefit to New Zealand test in respect of an acquisition of rights or interests in securities referred to in section 12(1)﻿(b); and
+  (b) as a result of that acquisition, OP will have an indirect interest or a minority interest in an overseas person (A) that directly owns or controls an estate or interest in residential land described in section 12(1)﻿(a) (the relevant land).
 (2) The exemption applies if the relevant Ministers are satisfied that, by reason of the circumstances relating to OP and the degree of control that OP will have in A, OP and its associates would not have, or would be unlikely to exercise or control the exercise of, any substantial influence over the relevant land.
 (3) The exemption is subject to the conditions that—
   (a) OP does not increase their ownership or control interest such that this clause would not apply; and
@@ -2819,7 +2857,7 @@ A transaction does not require consent for the purposes of section 10(1)﻿(a) t
 **Exemptions in respect of overseas investments in sensitive land that is residential land**
 
 ### 2 Periodic lease
-(1) A transaction does not require consent for the purposes of section 10(1)﻿(a) to the extent that it will result in an overseas investment in sensitive land if the estate or interest in land described in section 12(a) is a periodic lease.
+(1) A transaction does not require consent for the purposes of section 10(1)﻿(a) to the extent that it will result in an overseas investment in sensitive land if the estate or interest in land described in section 12(1)﻿(a) is a periodic lease.
 (2) In this clause, periodic lease means a lease that—
   (a) is terminable at will, whether by the grantor or the grantee (including a periodic tenancy within the meaning of section 2(1) of the Residential Tenancies Act 1986); and
   (b) offers no certainty of term of 4 months or more (including rights of renewal, whether of the grantor or the grantee).
@@ -2828,7 +2866,7 @@ A transaction does not require consent for the purposes of section 10(1)﻿(a) t
 
 ### 3 Residential tenancy for less than 5 years
 (1) A transaction does not require consent for the purposes of section 10(1)﻿(a) to the extent that it will result in an overseas investment in sensitive land if—
-  (a) the estate or interest in land described in section 12(a) is a residential tenancy for a term of less than 5 years (including rights of renewal, whether of the grantor or grantee); and
+  (a) the estate or interest in land described in section 12(1)﻿(a) is a residential tenancy for a term of less than 5 years (including rights of renewal, whether of the grantor or grantee); and
   (b) the relevant land is residential (but not otherwise sensitive) land.
 (2) In this clause, residential tenancy means a tenancy to which the Residential Tenancies Act 1986 applies (including a periodic tenancy within the meaning of section 2(1) of that Act).
 
@@ -2888,7 +2926,7 @@ Other provisions
   (a) the relevant forestry investment is the acquisition of a forestry right (the relevant forestry right); and
   (b) the area of the relevant forestry right is less than 1 000 hectares.
 (2) Subclause (3) applies to a transaction that will result in an overseas investment in sensitive land (the relevant forestry investment) if—
-  (a) the relevant forestry investment is the acquisition of rights or interests in securities of a person who owns or controls (directly or indirectly) a forestry right that is an interest in land described in section 12(a) (the relevant forestry right); and
+  (a) the relevant forestry investment is the acquisition of rights or interests in securities of a person who owns or controls (directly or indirectly) a forestry right that is an interest in land described in section 12(1)﻿(a) (the relevant forestry right); and
   (b) the area of the relevant forestry right is less than 1 000 hectares.
 (3) To the extent that the transaction will result in the relevant forestry investment, it does not require consent for the purposes of section 10(1)﻿(a) in relation to the relevant forestry right.
 (4) Subclause (1) or (3) (as the case may be) does not apply if, immediately after the relevant forestry investment is given effect to, the sum of the following areas is 1 000 hectares or more:
@@ -2931,7 +2969,7 @@ Other provisions
   (a) the relevant profit investment is the acquisition of a regulated profit à prendre that is not a forestry right (the relevant profit); and
   (b) the area of the relevant profit is less than 5 hectares.
 (2) Subclause (3) applies to a transaction that will result in an overseas investment in sensitive land (the relevant profit investment) if—
-  (a) the relevant profit investment is the acquisition of rights or interests in securities of a person who owns or controls (directly or indirectly) a regulated profit à prendre that is an interest in land described in section 12(a) but is not a forestry right (the relevant profit); and
+  (a) the relevant profit investment is the acquisition of rights or interests in securities of a person who owns or controls (directly or indirectly) a regulated profit à prendre that is an interest in land described in section 12(1)﻿(a) but is not a forestry right (the relevant profit); and
   (b) the area of the relevant profit is less than 5 hectares.
 (3) To the extent that the transaction will result in the relevant profit investment, it does not require consent for the purposes of section 10(1)﻿(a) in relation to the relevant profit.
 (4) Subclause (1) or (3) (as the case may be) does not apply if, immediately after the relevant profit investment is given effect to, the sum of the following areas is 5 hectares or more:
@@ -3067,3 +3105,180 @@ The relevant Ministers may revoke or vary a standing consent (including by varyi
 
 ### 7 Schedule does not limit other provisions
 This schedule does not limit other provisions of this Act (for example, subpart 2 of Part 2).
+
+## Schedule 5 — Fresh or seawater areas
+
+### Part 1 — Application and interpretation
+
+### 1 Which owners of land this schedule applies to
+(1) This schedule gives the Crown the right to acquire fresh or seawater interests from the owners of the fresh or seawater interests.
+(2) In this schedule, owner, in relation to a fresh or seawater interest, means—Overseas person and their associateOther owners, but only if a notice is registered or covenant is entered into
+  (a) the relevant overseas person that acquires the fresh or seawater interest as a result of an overseas investment in sensitive land; and
+  (b) any owner (as defined in section 5(1) of the Land Transfer Act 2017) of the fresh or seawater interest that is an associate of the relevant overseas person; and
+  (c) if a water areas acquisition notice has been registered under clause 12 or 18 in relation to the fresh or seawater interest, any other owner (as defined in section 5(1) of the Land Transfer Act 2017) of that fresh or seawater interest; and
+  (d) if a water areas acquisition notice has been provided under clause 19, any owner (as defined in section 5(1) of the Land Transfer Act 2017) of that fresh or seawater interest that has notice of the Crown’s right to acquire the fresh or seawater interest.
+
+### 2 Interpretation
+In this schedule,—
+  - **fresh or seawater area** means any part of the relevant land that is marine or coastal area, the bed of a lake, or the bed of a river, and a reference to a is a reference to the whole or any part of that area
+  - **fresh or seawater interest** means the freehold estate or pastoral lease interest that relates to the fresh or seawater area
+  - **owner** has the meaning set out in clause 1(2)
+  - **pastoral lease** has the meaning set out in section 2 of the Crown Pastoral Land Act 1998
+  - **prescribed manner** means the manner prescribed in regulations under clause 22
+  - **record of title** has the meaning set out in section 5(1) of the Land Transfer Act 2017
+  - **Registrar** means the Registrar-General of Land
+  - **water areas acquisition notice** means a notice under clause 12 or 19
+  - **water areas covenant** means a covenant between an owner and the Crown under clause 20 on the terms and in the form prescribed by regulations.
+
+### Part 2 — Crown acquisition of fresh or seawater interest
+
+### 3 Crown must acquire fresh or seawater interest
+(1) The Crown must acquire, and the owner must allow the Crown to acquire, the fresh or seawater interest in accordance with this schedule.
+(2) The Crown must acquire the fresh or seawater interest before the water areas acquisition notice expires (see clause 14).
+(3) However, the Crown need not acquire the fresh or seawater interest if the owner is notified of a decision not to acquire in accordance with clause 4 or 5.
+
+### 4 Acquisition not required if amenity and conservation value outweighed
+(1) The Crown may decide not to acquire a fresh or seawater interest (in whole or in part) if the Minister for Land Information is not satisfied that the amenity and conservation value of the fresh or seawater area outweighs the potential risks, liability, and costs of acquisition and ownership of the area.
+(2) A decision not to acquire a fresh or seawater interest must be notified in writing to the owner of the fresh or seawater interest.
+(3) The notice must be given no later than the date prescribed in regulations.
+
+### 5 Acquisition not required if Minister not satisfied with amount of compensation to be paid
+(1) The Crown may decide not to acquire a fresh or seawater interest (in whole or in part) if the Minister for Land Information is not satisfied with—
+  (a) the amount of compensation to be paid under clauses 9 and 10; or
+  (b) if the compensation payable under clause 10 has not yet been assessed, the amount of compensation to be paid under clause 9 and likely to be paid under clause 10.
+(2) A decision not to acquire a fresh or seawater interest must be notified in writing to the owner of the fresh or seawater interest.
+(3) The notice must be given no later than the date prescribed in regulations.
+
+### 6 Terms of acquisition
+(1) Unless the Crown and the owner of a fresh or seawater interest agree otherwise, the terms of the acquisition are those prescribed in regulations.
+(2) The Crown and the owner may agree amendments, additions, and deletions to the terms of the acquisition.
+(3) An agreement under subclause (2), when recorded in an instrument registered under clause 13, runs with and binds the land that is subject to the water areas acquisition notice.
+
+### 7 Manner of acquisition
+(1) The Minister for Land Information may, by notice in the Gazette, vest a fresh or seawater area in the Crown.
+(2) Before making a notice under subclause (1), the Minister for Land Information must—
+  (a) ensure that any requirements or steps prescribed in regulations are met or taken; and
+  (b) agree or determine the amount of compensation to be paid to the owner in accordance with clause 9.
+(3) If a notice is made under subclause (1),—
+  (a) any part of the fresh or seawater area that is marine and coastal area vests in the Crown (and, to avoid doubt, becomes part of the common marine and coastal area under the Marine and Coastal Area (Takutai Moana) Act 2011); and
+  (b) any other part of the fresh or seawater area that is the bed of a lake or a river vests in the Crown as Crown land under the Land Act 1948.
+(4) The Minister for Land Information must lodge the notice with the Registrar in the prescribed manner.
+(5) On receipt of a notice, the Registrar must—
+  (a) register the notice:
+  (b) cancel any relevant water areas acquisition notice:
+  (c) comply with clause 16 (if applicable).
+
+### 8 Effect of acquisition on estates or interests in land
+A fresh or seawater area is vested in the Crown free from all estates or interests in land including any encumbrances (without the necessity of any instrument of release or discharge or otherwise), except any estate or interest in land prescribed in regulations or specified in the notice under clause 7 as an interest to which the vesting does not apply.
+
+### 9 Compensation payable to owner of fresh or seawater interest
+(1) An owner of a fresh or seawater interest is entitled to claim compensation from the Crown.
+(2) The compensation may be claimed and must be determined in the manner prescribed by regulations.
+(3) However, the Crown and the owner may agree a different amount or procedure for determining an amount of compensation.
+(4) An agreement under subclause (3), when recorded in an instrument registered under clause 13, runs with and binds the land that is subject to the water areas acquisition notice.
+
+### 10 Compensation payable for other registered interests in land
+(1) Any other registered owner of an estate or interest in land that is extinguished because of the operation of clause 8 is entitled to claim compensation from the Crown.
+(2) The compensation may be claimed and must be determined in the manner prescribed by regulations.
+(3) However, the Crown and the person may agree a different amount or procedure for determining an amount of compensation.
+(4) However, a person is not entitled to compensation if either or both of the following apply:
+  (a) the water areas acquisition notice has priority over the instrument relating to the person’s estate or interest (see section 35 of the Land Transfer Act 2017):
+  (b) the person consented to the registration of the water areas acquisition notice.
+(5) The consent of a person under subclause (4) binds—
+  (a) that person; and
+  (b) any person who subsequently derives their estate or interest from that person.
+
+### Part 3 — Water areas acquisition notice
+
+### 11 Crown’s right is interest in land
+The Crown’s right to acquire a fresh or seawater area under this schedule is an interest in land within the meaning of section 51 of the Land Transfer Act 2017.
+
+### 12 Registration of water areas acquisition notice
+(1) The Crown’s right must be registered by lodging a water areas acquisition notice for registration with the Registrar in the prescribed manner.
+(2) The Registrar must register a water areas acquisition notice on receipt of a notice.
+(3) Every water areas acquisition notice, when registered, runs with and binds the land that is subject to the water areas acquisition notice.
+(4) Subclause (3) applies despite anything to the contrary in section 103 of the Land Transfer Act 2017.
+
+### 13 Variation of water areas acquisition notice
+(1) The following may be registered by lodging an instrument varying the water areas acquisition notice with the Registrar in the prescribed manner:
+  (a) an agreement under clause 6 (relating to the terms of the acquisition):
+  (b) an agreement under clause 9 (relating to the compensation payable to the owner of the fresh or seawater interest):
+  (c) an extension under clause 14 (relating to the term of the water areas acquisition notice).
+(2) The Registrar must register a variation instrument on receipt of an instrument.
+(3) The consent of a registered mortgagee of an estate or interest in the fresh or seawater area must be obtained before registration of the instrument.
+(4) The consent of a mortgagee under subclause (3) binds—
+  (a) the mortgagee; and
+  (b) any person who subsequently derives an interest in the mortgage from the mortgagee.
+
+### 14 Expiration of water areas acquisition notice
+(1) A water areas acquisition notice expires at the end of the term prescribed in regulations.
+(2) However, the Crown and the owner may agree an extension (but not a reduction) of the term of a water areas acquisition notice.
+(3) An extension under subclause (2), when recorded in an instrument registered under clause 13, runs with and binds the land that is subject to the water areas acquisition notice.
+
+### 15 Cancellation of water areas acquisition notice
+(1) A water areas acquisition notice may be cancelled if—
+  (a) the Crown gives a notice under clause 4 or 5:
+  (b) the water areas acquisition notice has expired (see clause 14):
+  (c) the Minister for Land Information is satisfied that a record of title does not contain any fresh or seawater areas:
+  (d) any other event specified in regulations occurs.
+(2) The cancellation of a water areas acquisition notice may be registered by lodging an instrument cancelling the notice with the Registrar in the prescribed manner.
+(3) The Registrar must cancel a water areas acquisition notice on receipt of an instrument.
+
+### Part 4 — Miscellaneous provisions
+
+### 16 Cancellation and issue of records of title
+(1) If any record of title comprises any fresh or seawater area that is vested under clause 7 and any adjacent land (the adjacent land), the Registrar must, despite anything in the Land Transfer Act 2017,—
+  (a) cancel the record of title that comprises the fresh or seawater area and the adjacent land; and
+  (b) issue a record of title in the name of the owner of the adjacent land for the adjacent land; and
+  (c) note any current registered interest or current registered notification that relates to the adjacent land against that record of title in the order in which it appears on the record of title cancelled under paragraph (a); and
+  (d) issue a record of title for any current registered notification, or registered estate or interest not extinguished because of the operation of clause 8, that relates to the fresh or seawater area that was part of the record of title cancelled under paragraph (a).
+(2) The Registrar may require the Minister for Land Information or the owner to deposit any survey plan necessary for the issue of a record of title under subclause (1).
+
+### 17 Acquisition relating to Māori freehold land
+If the owner’s acquisition of the relevant fresh or seawater interest is confirmed by the Māori Land Court under Te Ture Whenua Maori Act 1993 (the Maori Land Act 1993), that confirmation includes a confirmation of the Crown’s right to acquire the fresh or seawater interest (and, for the avoidance of doubt, the notice under clause 7 and the water areas acquisition notice (including any variations to that notice) need not be separately confirmed by the court).
+
+### 18 Water areas acquisition notice relating to fresh or seawater interest held off-register: notice on adjacent title
+(1) This clause applies if—
+  (a) a water areas acquisition notice cannot be registered against a record of title relating to a fresh or seawater area (for example, because it is a presumptive interest only or there is no record of title for the fresh or seawater interest for any other reason); and
+  (b) the owner of the fresh or seawater interest is also the registered owner of a record of title relating to land adjoining the fresh or seawater area (an adjacent title).
+(2) A water areas acquisition notice may instead be registered against the adjacent title.
+(3) Clauses 7, 8, and 10 do not apply in relation to the fresh or seawater interest.
+
+### 19 Water areas acquisition notice relating to fresh or seawater interest held off-register: owner does not own adjacent title
+(1) This clause applies if—
+  (a) a water areas acquisition notice cannot be registered against a record of title relating to a fresh or seawater area under clause 12 (for example, because it is a presumptive interest only or there is no record of title for the fresh or seawater interest for any other reason); and
+  (b) clause 18(1)﻿(b) does not apply (that is, the owner of the fresh or seawater interest is not also the registered owner of an adjacent title).
+(2) The owner of the fresh or seawater interest must provide a water areas acquisition notice to the Crown in the prescribed manner.
+(3) Clauses 7, 8, 10, 12, 13, 14(3), and 15(2) and (3) do not apply in relation to the fresh or seawater interest.
+
+### 20 Acquisition relating to fresh or seawater interest held off-register
+(1) This clause applies, in place of clause 7, in the circumstances described in clauses 18(1) and 19(1).
+(2) The Minister for Land Information may, by requiring the owner to grant a water areas covenant to the Crown, acquire the fresh or seawater interest.
+(3) Before requiring the grant of a water areas covenant, the Minister for Land Information must—
+  (a) ensure that any requirements or steps prescribed in regulations are met or taken; and
+  (b) agree or determine the amount of compensation to be paid to the owner in accordance with clause 9.
+(4) If the owner of the fresh or seawater interest is also the registered owner of an adjacent title, a water areas covenant may be registered against the adjacent title.
+(5) The Crown only acquires the fresh or seawater interest under this clause to the extent that there is no better claim to the fresh or seawater interest than the claim that the owner had immediately prior to the vesting.
+
+### 21 Acquisition is not subdivision
+Nothing in section 11 or Part 10 of the Resource Management Act 1991 applies to—
+  (a) any acquisition by the Crown of land as a direct or indirect consequence of the operation of this schedule; or
+  (b) any matter incidental to, or required for the purpose of, any acquisition of that kind.
+
+### 22 Regulations regarding acquisition of fresh or seawater areas
+(1) For the purposes of this schedule, the Governor-General may, by Order in Council made on the recommendation of the Minister, make regulations for the purposes of this schedule that prescribe any or all of the following:
+  (a) the terms and form of a water areas acquisition notice:
+  (b) the date before which a notice under clause 4 or 5 must be given:
+  (c) the terms of the acquisition for the purposes of clause 6:
+  (d) processes or steps for the purposes of clause 7 (for example, requirements to survey the fresh or seawater area or the adjacent land (as defined in clause 16)):
+  (e) interests in land for the purposes of clause 8:
+  (f) the process for claiming and determining compensation payable to an owner of a fresh or seawater interest for the purposes of clauses 9 and 10, including—
+    (i) the manner in which compensation may be claimed and the consequences of failure to claim compensation:
+    (ii) a procedure for determining compensation:
+  (g) an event for the purposes of clause 15:
+  (h) the terms and form of a water areas covenant:
+  (i) for the purposes of any provision of this schedule that requires a thing to be done in a prescribed manner, the manner in which the thing must be done, including—
+    (i) by whom, when, where, and how the thing must be done:
+    (ii) any form that must be used in connection with doing the thing:
+    (iii) any information or other evidence or documents that must be provided in connection with the thing.
+(2) Regulations made under this clause are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
