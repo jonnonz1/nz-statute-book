@@ -1,5 +1,5 @@
 # Income Tax Act 2007
-_Consolidation as at 2021-10-28_
+_Consolidation as at 2021-11-25_
 
 ### A 1 Title
 This Act is the Income Tax Act 2007.
@@ -33611,7 +33611,7 @@ Payments and benefits excluded from family scheme income
   (i) a payment under an insurance contract, other than a payment for a loss of income:
   (j) compensation for a loss other than a loss of income:
   (jb) a loan made under the small business cashflow scheme:
-  (jc) a payment made under the COVID-19 resurgence support payments scheme, as defined in section 3(1) of the Tax Administration Act 1994:
+  (jc) a payment made under the COVID-19 resurgence support payments scheme, or another COVID-19 support payments scheme, as defined in section 3(1) of the Tax Administration Act 1994:
   (k) lump sum compensation under the Accident Compensation Act 2001:
   (kb) a payment of a foster care allowance under section 363 of the Oranga Tamariki Act 1989:
   (kc) a payment under section 386AAG or 386B of the Oranga Tamariki Act 1989:
@@ -34226,7 +34226,7 @@ Treatment when tax credits paid by chief executive to certain persons
 What may be done by Order in Council
 (1) The Governor-General may, by Order in Council,—
   (a) increase the amounts in section MD 3(4)﻿(a) and (b) (Calculation of family tax credit) by amounts that—
-    (i) correspond to the movement in the New Zealand Consumers Price Index that has not yet been taken into account by an increase:
+    (i) correspond to the movement in the New Zealand Consumers Price Index after the quarter ended with 30 September 2021 that has not yet been taken into account by an increase:
     (ii) are rounded up to the nearest whole dollar, without affecting the calculation of later increases made under this paragraph:
   (ab)
   (b) increase the amounts appearing as items in the formula for the in-work tax credit set out in section MD 10(3) (Calculation of in-work tax credit):
@@ -34234,23 +34234,23 @@ What may be done by Order in Council
   (cb) increase the amounts appearing as the amount of the threshold set out in section MD 13(3):
   (d) increase the amount appearing as an item in the formula for the minimum family tax credit in section ME 1(3) (Minimum family tax credit):
   (db) change the amounts in section MG 2(2)﻿(a) (Best Start tax credit) by an amount that—
-    (i) corresponds to the movement in the New Zealand Consumers Price Index that has not yet been taken into account by an increase:
+    (i) corresponds to the movement in the New Zealand Consumers Price Index after the quarter ended with 30 September 2021 that has not yet been taken into account by an increase:
     (ii) is rounded up to the nearest whole dollar, without affecting the calculation of later increases made under this paragraph:
   (dc) change the amounts in section MG 3(2)﻿(a) (Best Start tax credit abatement):
   (e) replace schedule 31 (Annualised equivalent amount for Part M).
 Order in Council under subsection (1)﻿(a): requirements
 (2) An Order in Council under subsection (1)﻿(a),—
-  (a) in the case of the first Order in Council made under subsection (1)﻿(a), must be made when the total percentage increase in the movement in the New Zealand Consumers Price Index measured from that applying on 1 October 2008 is 5% or more:
-  (b) in the case of the second Order in Council under subsection (1)﻿(a), must be made when the total percentage increase in the movement in the New Zealand Consumers Price Index measured from that applying on 1 July 2018 is 5% or more:
+  (a)
+  (b) in the case of the first Order in Council made under subsection (1)﻿(a) after the date on which the Taxation (COVID-19 Support Payments and Working for Families Tax Credits) Act 2021 receives the Royal assent, must be made when the total percentage increase in the movement in the New Zealand Consumers Price Index measured from that applying on 1 October 2021 is 5% or more:
   (c) in the case of a subsequent Order in Council under subsection (1)﻿(a), must be made when the total percentage increase in the movement in the New Zealand Consumers Price Index measured from that applying on the date when the requirement to make the immediately preceding adjustment arose is 5% or more.
 Order in Council under subsection (1)﻿(db): requirements
 (2BA) An Order in Council under subsection (1)﻿(db),—
-  (a) in the case of the first Order in Council made under subsection (1)﻿(db), must be made when the total percentage increase in the movement in the New Zealand Consumers Price Index measured from that applying on 1 July 2018 is 5% or more:
+  (a) in the case of the first Order in Council made under subsection (1)﻿(db) after the date on which the Taxation (COVID-19 Support Payments and Working for Families Tax Credits) Act 2021 receives the Royal assent﻿, must be made when the total percentage increase in the movement in the New Zealand Consumers Price Index measured from that applying on 1 October 2021 is 5% or more:
   (b) in the case of a subsequent Order in Council under subsection (1)﻿(db), must be made when the total percentage increase in the movement in the New Zealand Consumers Price Index measured from that applying on the date when the requirement to make the immediately preceding adjustment arose is 5% or more.
 How movement in CPI determined
 (2B) For the purposes of subsections (1)﻿(a)﻿(i) and (db)﻿(i), (2), and (2BA), a movement in the New Zealand Consumers Price Index over a period is determined by comparing the following numbers:
-  (a) the number that, when the period started, was the most recent quarterly index number of the New Zealand Consumers Price Index all groups excluding cigarettes and other tobacco products:
-  (b) the number that, when the period ended, was the most recent quarterly index number of the New Zealand Consumers Price Index all groups excluding cigarettes and other tobacco products.
+  (a) the number that, when the period started, was the most recent quarterly index number of the New Zealand Consumers Price Index (All Groups) published by Statistics New Zealand:
+  (b) the number that, when the period ended, was the most recent quarterly index number of the New Zealand Consumers Price Index (All Groups) published by Statistics New Zealand.
 Order in Council under subsection (1)﻿(ab)
 (2C)
 Timing of Order in Council
@@ -43181,7 +43181,7 @@ In this Act, unless the context requires otherwise,—
     (c) exempt income under section CW 8 (Money lent to government of New Zealand); or
     (d) payable under a specified lease or a finance lease; or
     (db) payable in relation to a loan made under the small business cashflow scheme; or
-    (dc) payable in relation to the repayment of a grant under the COVID-19 resurgence support payments scheme, as defined in section 3(1) of the Tax Administration Act 1994; or
+    (dc) payable in relation to the repayment of a grant under the COVID-19 resurgence support payments scheme, or another COVID-19 support payments scheme, as defined in section 3(1) of the Tax Administration Act 1994; or
     (e) payable for bonus bonds or Post Office bonus bonds (as each of those terms is defined in section 2 of the Post Office Bank Act 1987); or
     (f) payable on an overpaid levy under section 173 of the Accident Compensation Act 2001; or
     (g) payable by the Commissioner under section 84 of the KiwiSaver Act 2006
