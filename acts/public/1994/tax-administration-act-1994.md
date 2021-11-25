@@ -1,5 +1,5 @@
 # Tax Administration Act 1994
-_Consolidation as at 2021-10-28_
+_Consolidation as at 2021-11-25_
 
 > An Act to reorganise and consolidate the law relating to the Inland Revenue Department and the administration of income tax matters
 
@@ -119,6 +119,9 @@ _Consolidation as at 2021-10-28_
   - **Corporation** is defined in schedule 7, part C, subpart 2, clause 41(9) for the purposes of that clause
   - **correct tax position** means the correct tax position established under 1 or more tax laws
   - **COVID-19 resurgence support payments scheme** means the COVID-19 Resurgence Support Payments Scheme established and administered by the Crown to provide support to businesses in the circumstances of a resurgence in New Zealand of COVID-19
+  - **COVID-19 support payments scheme** means a scheme that is—
+    (a) established and administered by the Crown to provide support to persons financially affected by a public health measure, business circumstance, or matter that is related to COVID-19, or by a group of such measures, circumstances, or matters; and
+    (b) activated by an Order in Council made under section 7AAC
   - **credit report** is defined in schedule 7, part C, subpart 1, clause 33(11) for the purposes of that clause
   - **CRS applied standard** means the CRS standard as modified by section 185O for the determination of requirements under this Act
   - **CRS publication** means the Standard for Automatic Exchange of Financial Account Information in Tax Matters, published by the Organisation for Economic Co-operation and Development
@@ -126,6 +129,7 @@ _Consolidation as at 2021-10-28_
     (a) developed by the Organisation for Economic Co-operation and Development and the Group of Twenty countries; and
     (b) agreed by the Council for the Organisation for Economic Co-operation and Development on 15 July 2014; and
     (c) contained in Part IIB of the CRS publication
+    - **CSP terms** is defined in section 7AAB(9)
   - **date interest starts** is defined in section 120C for the purposes of Part 7
   - **day of determination of final liability** —
     (a) for the purposes of Part 8, means,—
@@ -164,7 +168,7 @@ _Consolidation as at 2021-10-28_
       (iv) to issue a Commissioner's notice of proposed adjustment under section 89B, a Commissioner's disclosure notice or statement of position under section 89M, or a challenge notice; or
       (v) to issue, or to decline to issue, a Commissioner’s COVID-19 response variation under section 6I; or
       (vi) to grant, or to decline to grant, a loan under the small business cashflow scheme under section 7AA; or
-      (vii) to make, or to decline to make, a grant under the COVID-19 resurgence support payments scheme under section 7AAB
+      (vii) to make, or to decline to make, a grant under the COVID-19 resurgence support payments scheme, or another COVID-19 support payments scheme, under section 7AAB
   - **disputant** means a person—under a tax law
     (a) who may issue a notice of proposed adjustment to the Commissioner; or
     (b) to whom the Commissioner issues a notice of proposed adjustment or an assessment; or
@@ -494,7 +498,7 @@ _Consolidation as at 2021-10-28_
       (iii)
     (cb) for the purposes of sections 156 to 165, includes a combined tax and earner-related payment:
     (cc) for the purposes of Part 10B, and sections 6, 6A, 6B, 156 to 165, 174AA, 176, 177, and 177A to 177CA, includes an amount payable in relation to a loan made under the small business cashflow scheme:
-    (cd) for the purposes of sections 6 to 6B, 156 to 165, 173L, 173M, 173S, 173T, 174AA, and 176 to 177CA, includes an amount payable in relation to a grant made under the COVID-19 resurgence support payments scheme:
+    (cd) for the purposes of sections 6 to 6B, 156 to 165, 173L, 173M, 173S, 173T, 174AA, and 176 to 177CA, includes an amount payable in relation to a grant made under the COVID-19 resurgence support payments scheme or another COVID-19 support payments scheme:
     (d) for the purpose of sections 176, 177, and 177A to 177D, means—but does not include—
       (i) a tax, levy or duty of any type imposed by a tax law, regardless of how the tax, levy or duty is described:
       (ii) an amount deemed by a tax law to be a tax, levy or duty:
@@ -888,13 +892,11 @@ Secondary legislation
   - **wage subsidy scheme** means a subsidy scheme that is established as part of the Government’s COVID-19 response measures and which the Ministry administers on behalf of the Government.
 (7) Eligibility requirements under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
-### 7AAB Authorisation to make COVID-19 resurgence support payments
-(1) The purpose of this section is to provide authorisation for payments to be made under the COVID-19 resurgence support payments scheme (the CRSP scheme) if a resurgence in New Zealand of COVID-19 should arise. It is intended that the scheme will provide for grants to be made to support eligible persons in New Zealand when—
-  (a) an escalation in COVID-19 alert levels occurs; and
-  (b) the person suffers a reduction in revenue as a result.
-(2) The Commissioner, on behalf of the Crown, may make a grant under the CRSP scheme (a grant) to a person when—
-  (a) the CRSP scheme is declared active by an Order in Council made under section 7AAC on a resurgence in New Zealand of COVID-19; and
-  (b) for the period of activation of the CRSP scheme,—
+### 7AAB Authorisation to make COVID-19 support payments
+(1) The purpose of this section is to authorise the making of payments under a COVID-19 support payments scheme (the CSP scheme) as grants to eligible persons in New Zealand who are financially affected by a public health measure, business circumstance, or matter that is related to COVID-19 (a COVID-19 circumstance), or by a group of COVID-19 circumstances.
+(2) The Commissioner, on behalf of the Crown, may make a grant under the CSP scheme (a grant) to a person if—
+  (a) the CSP scheme is declared active for the COVID-19 circumstance or group of COVID-19 circumstances affecting the person by an Order in Council made under section 7AAC; and
+  (b) for the period of activation of the CSP scheme,—
     (i) the person meets the eligibility requirements referred to in subsection (3)﻿(b)﻿(i) for a grant; and
     (ii) the person, or another person on their behalf, applies to the Commissioner for the grant.
 (3) For the purposes of subsection (2) and an activation period, the Commissioner—
@@ -904,28 +906,28 @@ Secondary legislation
     (ii) the terms and conditions that apply to a grant:
   (c) must publish, on an internet site administered by the Commissioner, the eligibility requirements referred to in paragraph (b)﻿(i).
 (4) If a person applies for a grant on behalf of another person, both the person and the person in whose name the application is made must provide information as required by the Commissioner.
-(5) The person in whose name an application is made is bound by the CRSP terms of the grant.
-(6) The total amount of a grant paid to the person, together with any amount payable under the CRSP terms, must be repaid to the Commissioner if the CRSP terms require repayment.
-(7) If a person who receives a grant from the Commissioner does not meet the eligibility requirements referred to in subsection (3)﻿(b)﻿(i), the person must immediately repay to the Commissioner the total amount of the grant together with any amount payable under the CRSP terms.
-(8) The persons referred to in subsection (4) must keep records referred to in section 22 to demonstrate that the eligibility requirements are met and the CRSP terms have not been breached.
-(9) For the purposes of this section and section 7AAC, the CRSP terms of a grant for an activation period mean—
+(5) The person in whose name an application is made is bound by the CSP terms of the grant.
+(6) The total amount of a grant paid to the person, together with any amount payable under the CSP terms, must be repaid to the Commissioner if the CSP terms require repayment.
+(7) If a person who receives a grant from the Commissioner does not meet the eligibility requirements referred to in subsection (3)﻿(b)﻿(i), the person must immediately repay to the Commissioner the total amount of the grant together with any amount payable under the CSP terms.
+(8) The persons referred to in subsection (4) must keep records referred to in section 22 to demonstrate that the eligibility requirements are met and the CSP terms have not been breached.
+(9) For the purposes of this section and section 7AAC, the CSP terms of a grant for an activation period mean—
   (a) the terms and conditions applying in relation to a person’s eligibility for the grant at the time the grant is made, and any other terms and conditions determined by the Commissioner under subsection (3)﻿(b)﻿(ii):
   (b) the terms set out in an application for the grant that is made by or on behalf of a person, including the contents of a declaration, consent, or other representation made by or on behalf of the person:
   (c) the terms and conditions set out in an agreement between the Commissioner and the person receiving the grant.
-(10) This section applies whether or not the resurgence in New Zealand of COVID-19 arises before this section comes into force.
+(10) The COVID-19 resurgence support payments scheme is a CSP scheme and the CRSP terms of a grant under that scheme are CSP terms of the grant.
 
-### 7AAC Orders in Council related to COVID-19 resurgence support payments scheme
+### 7AAC Orders in Council related to COVID-19 support payments scheme
 (1) For the purposes of section 7AAB, the Governor-General may by Order in Council—
-  (a) declare the activation of the COVID-19 resurgence support payments scheme (the CRSP scheme) in the circumstances of a resurgence in New Zealand of COVID-19:
-  (b) specify the period for which, or the circumstances in which, the CRSP scheme is to operate:
-  (c) describe a class or classes of persons who may apply for support under the CRSP scheme and the amount of the grant to which they may be entitled:
-  (d) specify amendments to the CRSP scheme, the CRSP terms of a grant, or the matters referred to in section 7AAB(3)﻿(a) and (b):
+  (a) declare the activation of a COVID-19 support payments scheme (the CSP scheme) in relation to a COVID-19 circumstance, or a group of COVID-19 circumstances, which affects eligible persons in New Zealand:
+  (b) specify the period for which, or the circumstances in which, the CSP scheme is to operate in relation to the COVID-19 circumstance or group of COVID-19 circumstances:
+  (c) describe a class or classes of persons who may apply for a grant under the CSP scheme and the amount of the grant to which they may be entitled:
+  (d) specify amendments to the CSP scheme, the CSP terms of a grant, or the matters referred to in section 7AAB(3)﻿(a) and (b):
   (e) extend, renew, or replace a time limit referred to in schedule 7, part A, clause 13B(2)﻿(b).
 (2) For an order made under the power given in subsection (1)﻿(e), the order—
   (a) expires if not renewed or replaced under paragraph (b), after—
     (i) the period set out in the order, if applicable; or
     (ii) if no period is set out, 6 months after the order comes into force:
-  (b) may be renewed or replaced by an Order in Council made on the recommendation of the Minister of Revenue before the date on which the order would otherwise expire.
+  (b) may be renewed or replaced by an Order in Council made on or before the date on which the order would otherwise expire.
 (3) An Order in Council made under subsection (1) or (2)﻿(b) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 7A Authorisation to take securities
@@ -8352,7 +8354,7 @@ In any proceedings against a person for refusing or failing to provide a tax ret
     (h) an amount of short payment under Part 3, subpart 3 of the KiwiSaver Act 2006 that relates to a compulsory employer contribution:
     (i) an amount of compulsory employer contributions unpaid, specified in a notice under section 141(5) of the KiwiSaver Act 2006:
     (j) an amount payable in relation to a loan made under the small business cashflow scheme:
-    (k) an amount payable in relation to a grant made under the COVID-19 resurgence support payments scheme:
+    (k) an amount payable in relation to a grant made under the COVID-19 resurgence support payments scheme or another COVID-19 support payments scheme:
     (l) KiwiSaver Act 2006 employer contributions
   - **taxpayer** —
     (a) in relation to income tax within the meaning of paragraphs (b) and (d) of the definition of income tax in this subsection, includes an employer and a PAYE intermediary; and
@@ -9995,16 +9997,16 @@ Section 18 does not prevent the Commissioner—
   (b) publishing a list of organisations that are approved organisations:
   (c) publishing the name of a company that has given the Commissioner a notice under section EX 33B(1)﻿(b)﻿ or (2)﻿(b)﻿ of the Income Tax Act 2004.
 
-### 13B Publication of details related to COVID-19 resurgence support payments scheme
-(1) Section 18 does not prevent the Commissioner publishing information related to the COVID-19 resurgence support payments scheme (the CRSP scheme), including the names of persons to whom the Commissioner has made a grant under the scheme and other details related to the grant.
+### 13B Publication of details related to COVID-19 resurgence support payments scheme or other COVID-19 support payments scheme
+(1) Section 18 does not prevent the Commissioner publishing information related to the COVID-19 resurgence support payments scheme (the CRSP scheme) or to another COVID-19 support payments scheme (the CSP scheme), including the names of persons to whom the Commissioner has made a grant under the scheme and other details related to the grant.
 (2) Despite subclause (1), the Commissioner may publish the information only if—
   (a) the Commissioner considers that—
     (i) the information is readily available; and
     (ii) it is reasonable and practicable to disclose the information; and
     (iii) it is not undesirable to disclose the information; and
-    (iv) the disclosure of the information is reasonably necessary for the purposes of the administration of the CRSP scheme; and
+    (iv) the disclosure of the information is reasonably necessary for the purposes of the administration of the CRSP scheme or CSP scheme; and
   (b) no more than 24 months have passed since the date on which this clause comes into force.
-(3) The time limit imposed by subclause (2)﻿(b) may be extended by an Order in Council made under section 7AAC.
+(3) The time limit imposed by subclause (2)﻿(b) may be extended by an Order in Council made under section 7AAC for the CRSP scheme or the CSP scheme.
 
 ### 13C Unclaimed money
 Section 18 does not prevent the Commissioner publishing information that relates to unclaimed money held by the Commissioner under the Unclaimed Money Act 1971 and is intended to enable the owner of the unclaimed money to make a claim of ownership, including—
