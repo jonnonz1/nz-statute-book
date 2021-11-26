@@ -1,5 +1,5 @@
 # COVID-19 Public Health Response Act 2020
-_Consolidation as at 2021-11-20_
+_Consolidation as at 2021-11-26_
 
 ### 1 Title
 This Act is the COVID-19 Public Health Response Act 2020.
@@ -30,33 +30,61 @@ The purpose of this Act is to support a public health response to COVID-19 that�
 
 ### 5 Interpretation
 (1) In this Act, unless the context otherwise requires,—
-  - **authorised person** means a person authorised under section 18
+  - **affected worker** means a worker who is employed or engaged by a PCBU to carry out specified work
+  - **authorised enforcement person** means a person authorised under section 18
+  - **authorised person** , in relation to COVID-19 vaccinations, means a person who is authorised by a COVID-19 order to carry out work despite being unvaccinated
   - **chief executive** means the chief executive of the responsible agency
   - **Commissioner** has the meaning given to it by section 4 of the Policing Act 2008
   - **constable** has the meaning given to it by section 4 of the Policing Act 2008
-  - **COVID-19 order** means an order made under section 11 (as may be amended or extended from time to time under section 15)
+  - **COVID-19 order** means an order made under section 11 or 11AB (as may be amended or extended from time to time under section 15)
+  - **COVID-19 vaccination authorisation** , in relation to a person, means an authorisation granted to the person under a COVID-19 order to carry out specified work despite being unvaccinated
+  - **COVID-19 vaccination certificate** means a certificate that is issued to a person in accordance with a COVID-19 order made under section 11 certifying that the person is—
+    (a) vaccinated; or
+    (b) an exempt person
+  - **COVID-19 vaccination exemption** , in relation to a person, means a COVID-19 vaccination exemption granted to the person under a COVID-19 order on the ground that the person meets the specified COVID-19 vaccination exemption criteria
   - **Director-General** means the Director-General of Health
   - **district** has the meaning given to it by section 5(1) of the Local Government Act 2002
+  - **document** has the same meaning as in section 4(1) of the Evidence Act 2006
   - **enforcement officer** means—
     (a) the Director-General:
     (b) a medical officer of health:
     (c) a constable:
     (d) in relation to any function or power, a person authorised to perform that function or power under section 18 or a person in a class of persons authorised to perform that function or power under section 18
+  - **exempt person** means a person who has been granted a COVID-19 vaccination exemption
   - **infringement offence** means an infringement offence against section 26(3)
   - **managed isolation or quarantine facility** or means a facility that is designated by the New Zealand Government for use as a place of isolation or quarantine
-  - **Minister** means the Minister who, under the authority of any warrant or with the authority of the Prime Minister, is responsible for the administration of this Act
+  - **Minister** means,—
+    (a) for the purposes of sections 11AA, 11AB, and 33AA,—
+      (i) the Minister for Workplace Relations and Safety; or
+      (ii) the Minister who, under the authority of any warrant or with the authority of the Prime Minister, is responsible for the administration of those sections:
+    (b) for the purposes of any other section,—
+      (i) the Minister for COVID-19 Response; or
+      (ii) the Minister who, under the authority of any warrant or with the authority of the Prime Minister, is responsible for the administration of this Act
   - **MIQF costs** means costs incurred by the New Zealand Government in respect of persons staying at MIQFs
   - **New Zealand** includes all waters within the outer limits of the territorial sea of New Zealand (as defined by section 3 of the Territorial Sea, Contiguous Zone, and Exclusive Economic Zone Act 1977)
   - **other place of isolation or quarantine** means a place of isolation or quarantine designated under a COVID-19 order that is not an MIQF
+  - **PCBU** has the meaning given to it by section 17 of the Health and Safety at Work Act 2015
   - **Police uniform** has the meaning given to it by section 4 of the Policing Act 2008
   - **premises** includes any commercial premises and private premises
   - **prescribed charge** means a charge prescribed by regulations made under section 33A
   - **public place** has the meaning given to it by section 2(1) of the Summary Offences Act 1981
+  - **representative** has the same meaning as in section 16 of the Health and Safety at Work Act 2015
   - **responsible agency** means the department of the public service or agency or entity that, with the authority of the Prime Minister, is responsible for the administration of MIQFs
   - **road** has the meaning given to it by section 35(2) of the Policing Act 2008
   - **room** , in relation to an MIQF, other place of isolation or quarantine, or a place of self-isolation or quarantine, means the area allocated to a person for the purpose of undertaking isolation or quarantine, including 1 or more rooms and any outdoor space such as a garden or balcony
-  - **territorial authority** has the meaning given to it by section 5(1) of the Local Government Act 2002.
+  - **specified COVID-19 vaccination exemption criteria** means the criteria for determining whether a person may be granted a COVID-19 vaccination exemption that the Director-General specifies in a notice made under subsection (3)﻿(a)
+  - **specified work** means work, or classes of work, specified in a COVID-19 order made under section 11AB
+  - **territorial authority** has the meaning given to it by section 5(1) of the Local Government Act 2002
+  - **vaccinated** , in relation to a person, means the person has received all the required doses of a COVID-19 vaccine or combination of COVID-19 vaccines that—
+    (a) the Minister or Director-General specifies in a COVID-19 order:
+    (b) the Director-General specifies in a notice made under subsection (3)﻿(b)
+  - **worker** has the meaning given to it by section 19 of the Health and Safety at Work Act 2015
+  - **workplace** has the meaning given to it by section 20 of the Health and Safety at Work Act 2015.
 (2) Terms and expressions used and not defined in this Act, but defined in the Health Act 1956, have the same meanings as in the Health Act 1956.
+(3) The Director-General may make a notice specifying (for the purposes of all or any legislation in, or made under, this Act)—
+  (a) COVID-19 vaccination exemption criteria:
+  (b) for the purposes of a COVID-19 vaccination, the required doses for each COVID-19 vaccine or combination of COVID-19 vaccines.
+(4) A notice made under subsection (3) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 6 Transitional, savings, and related provisions
 The transitional, savings, and related provisions set out in Schedule 1 have effect according to their terms.
@@ -74,8 +102,8 @@ A COVID-19 order may be made under this Act only—
   (b) while a state of emergency or transition period in respect of COVID-19 under the Civil Defence Emergency Management Act 2002 is in force; or
   (c) if the Prime Minister, by notice in the Gazette, after being satisfied that there is a risk of an outbreak or the spread of COVID-19, has authorised the use of COVID-19 orders (either generally or specifically) and the authorisation is in force.
 
-### 9 Minister may make COVID-19 orders
-(1) The Minister may make a COVID-19 order in accordance with the following provisions:
+### 9 Requirements for making COVID-19 orders under section 11
+(1) The Minister may make a COVID-19 order under section 11 in accordance with the following provisions:
   (a) the Minister must have had regard to advice from the Director-General about—
     (i) the risks of the outbreak or spread of COVID-19; and
     (ii) the nature and extent of measures (whether voluntary or enforceable) that are appropriate to address those risks; and
@@ -104,10 +132,11 @@ The Director-General may make a COVID-19 order in accordance with the following 
     (i) preventing, containing, reducing, controlling, managing, eliminating, or limiting the risk of the outbreak or spread of COVID-19:
     (ii) avoiding, mitigating, or remedying the actual or potential adverse public health effects of the outbreak of COVID-19 (whether direct or indirect):
   (b) by way of example under paragraph (a), requiring persons to do any of the following:
-    (i) stay in any specified place or refrain from going to any specified place:
+    (i) stay in any specified area, place, or premises or refrain from going to any specified area, place, or premises (including in specified circumstances or unless in compliance with specified measures):
+    (ia) permit entry to any specified areas, places, or premises only in specified circumstances or in compliance with specified measures:
     (ii) refrain from associating with specified persons:
     (iii) stay physically distant from any persons in any specified way:
-    (iv) refrain from travelling to or from any specified area:
+    (iv) refrain from travelling to or from any specified area or place, or refrain from travelling to or from any specified area or place in specified circumstances or unless in compliance with specified measures (for example, refrain from leaving an area unless the person has a COVID-19 vaccination certificate):
     (v) refrain from carrying out specified activities (for example, business activities involving close personal contact) or carry out specified activities only in any specified way or in compliance with specified measures:
     (vi) be isolated or quarantined in any specified place or in any specified way:
     (vii) refrain from participating in gatherings of any specified kind, in any specified place, or in specified circumstances:
@@ -134,11 +163,20 @@ The Director-General may make a COVID-19 order in accordance with the following 
     (iv) providing differently for different classes of testing laboratories (for example, different provisions for laboratories depending on whether they are funded publicly or privately):
   (g) requiring the owner or any person in charge of a specified laboratory that undertakes COVID-19 testing to—
     (i) deliver or use, in accordance with directions given under the order, specified quantities of COVID-19 testing consumables that the Minister considers necessary for the purposes of the public health response to COVID-19:
-    (ii) undertake COVID-19 testing solely for the purposes of the public health response to COVID-19 while subject to the order, whether or not the laboratory is contracted by the Crown for that purpose.
+    (ii) undertake COVID-19 testing solely for the purposes of the public health response to COVID-19 while subject to the order, whether or not the laboratory is contracted by the Crown for that purpose:
+  (h) requiring persons to permit individuals to enter a place or receive a service whether or not those individuals are vaccinated, have a COVID-19 vaccination certificate, or are otherwise able to produce evidence of their vaccination status:
+  (i) specifying the evidence that may be required to be produced, and the person to whom the evidence may be required to be produced to, to demonstrate compliance with a specified measure (for example, specifying that a COVID-19 vaccination certificate is required to be produced to enter certain premises) and providing for any prohibitions or duties that apply in respect of the use or production of that evidence:
+  (j) specifying, for the purposes of a COVID-19 vaccination, the required doses for each COVID-19 vaccine or combination of COVID-19 vaccines:
+  (k) in relation to COVID-19 vaccination certificates,—
+    (i) specifying who is eligible to be issued with a COVID-19 vaccination certificate:
+    (ii) specifying how an application for a COVID-19 vaccination certificate must be made, and the information required to accompany that application:
+    (iii) providing for the issue, renewal, and extension of COVID-19 vaccination certificates by the Director-General or by the use of automated electronic systems (which certificates are to be treated as if they were issued, renewed, or extended by the Director-General):
+    (iv) providing for the form and content of COVID-19 vaccination certificates to be determined by the Director-General:
+    (v) specifying the period for which COVID-19 vaccination certificates are valid, or the conditions under which COVID-19 vaccination certificates may expire.
 (2) [Not in force]
 (3) For the purposes of this section and section 12, things includes animals, goods, businesses, records, equipment, and supplies.
 (4) All goods prohibited from import under a COVID-19 order are deemed to be included among goods prohibited from import under section 96 of the Customs and Excise Act 2018, and the provisions of that Act apply to those goods accordingly.
-(5) A COVID-19 order is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+(5) A COVID-19 order made under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 (6) If a COVID-19 order authorises the Director-General or chief executive to do anything specified in section 12(1)﻿(d) by notice,—
   (a) the notice is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements), unless it applies only to 1 or more named persons or things; and
   (b) the order must contain a statement to that effect.
@@ -149,9 +187,39 @@ The Director-General may make a COVID-19 order in accordance with the following 
 (3) The owner of a testing laboratory required to undertake COVID-19 testing solely for the purposes of the public health response to COVID-19 is entitled to be paid by the Crown for its services at the market rate for those services.
 (4) All questions and disputes relating to claims for compensation or payment under this section must be heard and determined by the District Court, whose decision is final.
 
+### 11AA Requirements for making COVID-19 orders under section 11AB
+(1) The Minister may make a COVID-19 order under section 11AB in accordance with the following provisions:
+  (a) the Minister must be satisfied that the order does not limit or is a justified limit on the rights and freedoms in the New Zealand Bill of Rights Act 1990; and
+  (b) the Minister—
+    (i) must have consulted the Prime Minister, the Minister for COVID-19 Response, the Minister of Justice, and the Minister of Health; and
+    (ii) may have consulted any other Minister as the Minister thinks fit; and
+  (c) before making the order, the Minister—
+    (i) may consult the Director-General; and
+    (ii) must be satisfied that the order is in the public interest and is appropriate to achieve the purpose of this Act.
+(2) For the purposes of subsection (1)﻿(c)﻿(ii), public interest includes (without limitation)—
+  (a) ensuring continuity of services that are essential for public safety, national defence, or crisis response:
+  (b) supporting the continued provision of lifeline utilities or other essential services:
+  (c) maintaining trust in public services:
+  (d) maintaining access to overseas markets.
+
+### 11AB Orders that can be made under this Act relating to specified work
+(1) The Minister may, in accordance with section 11AA, make an order for 1 or more of the following purposes:
+  (a) specifying work, or classes of work, that may not be carried out by an affected worker unless the affected worker is vaccinated, an exempt person, or an authorised person:
+  (b) specifying work, or classes of work, that may not be carried out by an affected worker unless the affected worker reports for and undergoes medical examination or testing for COVID-19, or is otherwise permitted to do the work—
+    (i) at any specified place or time:
+    (ii) in any specified way or specified circumstances:
+  (c) imposing further duties or obligations relating to specified work carried out by affected workers:
+  (d) prescribing how duties imposed under subpart 2A or a COVID-19 order made under this section are to be performed:
+  (e) prescribing record-keeping requirements for the purposes of subpart 2A or a COVID-19 order made under this section, including the content of the records and the manner in which records must be kept.
+(2) An order made under this section may specify which breaches of the order are infringement offences for the purposes of section 26(3), and may specify that a breach of an order is a particular class of infringement offence (with the corresponding penalties) for the purposes of regulations made under section 33(1)﻿(b).
+(3) To avoid doubt, nothing in this section limits the purposes for which an order may be made under section 11.
+(4) If a conflict arises between an order made under this section and an order made under section 11, the order made under section 11 prevails unless specified otherwise in the order made under this section.
+(5) A COVID-19 order made under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+
 ### 12 General provisions relating to COVID-19 orders
 (1) A COVID-19 order may—
-  (a) impose different measures, including requirements, restrictions, directions, and conditions, for different circumstances and different classes of persons, places, premises, craft, vehicles, or other things:
+  (a) impose different measures, including requirements, restrictions, directions, and conditions, for different circumstances and different classes of persons, places, premises, craft, vehicles, or other things (for example, different restrictions may be imposed on persons depending on whether they have a COVID-19 vaccination certificate or on their vaccination status):
+  (aa) specify the evidence (including any particular form of evidence) that may be required to be produced to demonstrate compliance with a requirement, restriction, direction, or condition:
   (b) apply,—
     (i) in relation to persons, generally to all persons in New Zealand or to any person or specified class of persons in New Zealand:
     (ii) in relation to places, premises, craft, vehicles, or other things, to any class or to all of them:
@@ -160,9 +228,9 @@ The Director-General may make a COVID-19 order in accordance with the following 
       (B) in any area, however described:
   (c) provide that any provision of a COVID-19 order (even if the provision is beneficial) does not apply in any specified circumstances, in any specified way, or to any specified persons, places, premises, craft, vehicles, or other things, or to any specified class of persons, places, premises, craft, vehicles, or other things:
   (d) authorise the Director-General or the chief executive, subject to any criteria or conditions specified in the order, to do any of the following things by written notice:
-    (i) specify, determine, designate, define, or approve any matters, impose conditions, or give directions, required for the operation of a provision of a COVID-19 order, including matters that affect or determine the application, operation, or scope of a provision:
-    (ii) determine that any provision of a COVID-19 order (even if the provision is beneficial) does not apply in any specified circumstances, in any specified way, or to any specified persons, places, premises, craft, vehicles, or other things, or to any specified class of persons, places, premises, craft, vehicles, or other things:
-  (e) if any thing can be prohibited under section 11, permit that thing but only subject to specified conditions.
+    (i) specify, determine, designate, define, or approve any matters, impose conditions, or give directions, required for the operation of a provision of this Act or a COVID-19 order, including matters that affect or determine the application, operation, or scope of a provision:
+    (ii) determine that any provision of this Act or a COVID-19 order (even if the provision is beneficial) does not apply in any specified circumstances, in any specified way, or to any specified persons, places, premises, craft, vehicles, or other things, or to any specified class of persons, places, premises, craft, vehicles, or other things:
+  (e) if any thing can be prohibited under section 11 or 11AB, permit that thing but only subject to specified conditions.
 (2) However, a COVID-19 order—
   (a) may not apply only to a specific individual:
   (b) if made by the Director-General, may apply only within the boundaries described under section 10(a):
@@ -229,24 +297,64 @@ The Director-General may make a COVID-19 order in accordance with the following 
 ### 17 COVID-19 orders to be disallowable instruments
 [Repealed]
 
+### Subpart 2A — Duties in relation to specified work
+
+### 17A Application of this subpart
+(1) The duties set out in this subpart apply only if a COVID-19 order is made under section 11AB(1)﻿(a).
+(2) Nothing in this subpart applies to a person to whom the same, or substantially the same, duty is imposed in relation to COVID-19 vaccinations by an order made under section 11.
+
+**Duties of PCBUs**
+
+### 17B Duty to keep vaccination records
+(1) A PCBU must, for each affected worker who carries out specified work for the PCBU, keep a record of the affected worker’s vaccination status.
+(2) The record must contain the information and be kept in the manner prescribed by a COVID-19 order made under section 11AB.
+(3) If an affected worker provides the PCBU with updated information under section 17F, the PCBU must update the vaccination record as soon as practicable after being provided with the information.
+(4) A failure to comply with this section is an infringement offence.
+
+### 17C Duty to prevent affected worker from carrying out specified work unless vaccinated
+(1) A PCBU must not allow an affected worker (other than an exempt person or an authorised person) to carry out specified work unless satisfied that the affected worker is vaccinated.
+(2) A PCBU—
+  (a) must notify each affected worker who carries out specified work for the PCBU of the affected worker’s duty not to carry out that work unless they are vaccinated, an exempt person, or an authorised person; and
+  (b) must not prevent the affected worker from being vaccinated during their normal working hours, if vaccinations are available during those hours.
+(3) A failure to comply with this section is an infringement offence.
+
+**Duties of affected workers**
+
+### 17D Duty not to carry out specified work unless vaccinated, exempt, or authorised
+(1) An affected worker must not carry out specified work unless they are—
+  (a) vaccinated; or
+  (b) an exempt person; or
+  (c) an authorised person.
+(2) A failure to comply with subsection (1) is an infringement offence.
+
+### 17E Duty to provide information of vaccination status
+(1) For the purposes of ensuring compliance with the duties set out in sections 17B and 17C, a PCBU may request an affected worker to provide information (whether in written or electronic form on a device) that verifies the affected worker’s vaccination status (for example, a COVID-19 vaccination certificate, a COVID-19 vaccination exemption, or a COVID-19 vaccination authorisation).
+(2) If a document that is provided under subsection (1) is handed over to a PCBU, the PCBU must immediately return it to the affected worker after—
+  (a) inspecting the document; and
+  (b) taking any copies or images of the document, or extracts from the document, that may reasonably be required for the purpose of verifying compliance with the duties referred to in subsection (1).
+(3) If the affected worker fails to comply with the requirement in subsection (1), the PCBU may treat the affected worker as being unvaccinated or not otherwise permitted to perform their work.
+
+### 17F Duty to update information
+If an affected worker has provided information to a PCBU under this subpart, the affected worker must ensure that the information is updated as soon as practicable after it changes.
+
 ### Subpart 3 — Enforcement, offences, and penalties
 
-**Authorised persons**
+**Authorised enforcement persons**
 
-### 18 Authorised persons
+### 18 Authorised enforcement persons
 (1) The Director-General may authorise a suitably qualified and trained person who is employed or engaged by the Crown or a Crown entity (if specified in Part 1 of Schedule 1 of the Crown Entities Act 2004), or a class of suitably qualified and trained persons who are employed or engaged by the Crown or a Crown entity (if specified in Part 1 of Schedule 1 of the Crown Entities Act 2004), to carry out any functions and powers of an enforcement officer under this Act.
 (2) An authorisation under subsection (1) must—
   (a) be in writing; and
   (b) specify—
-    (i) the authorised person or the class of persons; and
-    (ii) the functions and powers that may be carried out by the authorised person or class of persons; and
+    (i) the authorised enforcement person or the class of persons; and
+    (ii) the functions and powers that may be carried out by the authorised enforcement person or class of persons; and
     (iii) the term of the authorisation.
 (3) The Director-General may renew any authorisation given under subsection (1).
 (4) The Director-General may revoke an authorisation given under this section—
   (a) in the case of an individual, for incapacity, neglect of duty, or misconduct; or
-  (b) in the case of an individual, on the written request of the authorised person; or
+  (b) in the case of an individual, on the written request of the authorised enforcement person; or
   (c) if the Director-General considers that the authorisation is no longer necessary or desirable.
-(5) If a person ceases to be an authorised person, they must surrender to the Director-General all articles and documents received by the person in relation to the authorisation.
+(5) If a person ceases to be an authorised enforcement person, they must surrender to the Director-General all articles and documents received by the person in relation to the authorisation.
 
 ### 19 Evidence of identity
 Every enforcement officer (other than a constable in Police uniform) exercising any of the powers conferred by or under this Act must, at the time of exercising that power, and subsequently on request, produce—
@@ -290,6 +398,13 @@ An enforcement officer who has reasonable grounds to believe that a person is co
 
 ### 23 Power to direct person to provide identifying information
 For the purpose of exercising powers under this subpart, an enforcement officer may direct a person to give the person’s full name, full address, date of birth, occupation, and telephone number, or any of those particulars that the enforcement officer may specify.
+
+### 23A Power to direct person to produce evidence of compliance with specified measure
+(1) This section applies if subpart 2A of this Part or a COVID-19 order permits a person to do anything or go anywhere (for example, enter any areas, places, or premises) only if 1 or more specified measures are complied with.
+(2) For the purpose of enforcing any specified measure under subpart 2A of this Part or contained in the order, an enforcement officer may direct a person to produce evidence (whether in written form or in electronic form on a device) that verifies compliance with the specified measure (for example, produce a COVID-19 vaccination certificate or a test result).
+(3) If a document that is produced as evidence of compliance with a specified measure is handed over to an enforcement officer, the enforcement officer must immediately return it to the person who produced it after—
+  (a) inspecting the document; and
+  (b) taking any copies or images of the document, or extracts from the document, that may reasonably be required for the purpose of enforcing the specified measure.
 
 ### 24 Power to direct business or undertaking to close
 (1) An enforcement officer who has reasonable grounds to believe that a business or undertaking, or part of a business or undertaking, is operating in contravention of a COVID-19 order or contrary to any conditions imposed on its operation by a COVID-19 order may direct any person who appears to be in charge of the business or undertaking, or that part, to close and cease operation until a later time stated in the direction that does not exceed 24 hours after it is given.
@@ -579,6 +694,28 @@ The chief executive may at any time—
   (a) the instrument specifying the manner and time of payment is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements); and
   (b) the regulations must contain a statement to that effect.
 
+### 33AA Regulations may prescribe assessment tool
+(1) The Governor-General may, by Order in Council made on the recommendation of the Minister, make regulations prescribing an assessment tool that a PCBU may use to ascertain whether it is reasonable to require workers of the PCBU not to carry out work for the PCBU unless either or both of the following apply:
+  (a) the workers are vaccinated:
+  (b) the workers are required to undergo medical examination or testing for COVID-19.
+(2) The assessment tool may provide—
+  (a) the means of assessing the risk and adverse effects of COVID-19 in respect of ensuring the health and safety of workers and workplaces to support the public health response to COVID-19:
+  (b) for any other matters that the Minister considers relevant for a PCBU to take into account when assessing the risk and adverse effects of COVID-19.
+(3) Regulations made under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+
+### 33AB PCBU may conduct work assessment
+(1) To assist a PCBU in meeting their primary duty of care under section 36 of the Health and Safety at Work Act 2015, the PCBU may, in accordance with the assessment tool, conduct an assessment of the work carried out by workers of the PCBU to ascertain whether it is reasonable to require those workers not to carry out that work unless either or both of the following apply:
+  (a) the workers are vaccinated:
+  (b) the workers are required to undergo medical examination or testing for COVID-19.
+(2) In conducting the assessment, the PCBU may, in the PCBU’s absolute discretion, decide whether to conduct the assessment in accordance with the assessment tool.
+(3) If the assessment is conducted in accordance with the assessment tool, the PCBU must, so far as is reasonably practicable, consult the PCBU’s workers and, if those workers are represented by a representative, the engagement must involve that representative.
+(4) However, a PCBU—
+  (a) must not allow a representative to have access to any personal information concerning a worker without the worker’s consent unless the information is in a form that—
+    (i) does not identify the worker; and
+    (ii) could not reasonably be expected to identify the worker; and
+  (b) may refuse, on reasonable grounds, to grant access to the workplace to a representative or a person assisting a representative.
+(5) In this section, assessment tool means the assessment tool prescribed by regulations made under section 33AA.
+
 ### 33B Incorporation of material by reference in COVID-19 orders
 (1) The following standards, requirements, recommended practices, or material that is relevant to the purpose of this Act may be incorporated by reference into any COVID-19 order or other secondary legislation (an instrument) made or given under this Act:
   (a) standards, requirements, or recommended practices published by or on behalf of any body or person in New Zealand or in any other country:
@@ -609,7 +746,10 @@ The chief executive may at any time—
 (2) However, this section does not limit any other protections from liability that apply under any other enactment.
 
 ### 34A Protection of contact tracing information
-(1) Despite anything in the Privacy Act 2020, personal information about an identifiable individual that is provided or obtained for the purpose of contact tracing under this Act (such as through QR scans or paper-based forms) may not be collected, used, or disclosed by anyone except for the purpose of contact tracing under this Act or for the purposes of the Health Act 1956.
+(1) Despite anything in the Privacy Act 2020, personal information about an identifiable individual that is collected or obtained for the purpose of contact tracing under this Act (such as through QR scans or paper forms) may not be held, stored, used, or disclosed by anyone except for the purpose of—
+  (a) contact tracing under this Act; or
+  (b) enforcing the Act or a COVID-19 order (including for the purposes of proceedings against a person for non-compliance); or
+  (c) the Health Act 1956.
 (2) Nothing in this section limits the right of an individual to access or disclose information about them under the Privacy Act 2020 or any other Act.
 (3) A person who intentionally fails to comply with subsection (1) commits an offence.
 (4) A person who commits an offence against subsection (3) is liable on conviction to,—
@@ -617,6 +757,23 @@ The chief executive may at any time—
     (i) imprisonment for a term not exceeding 6 months; or
     (ii) a fine not exceeding $12,000:
   (b) for any other person, a fine not exceeding $15,000.
+
+### 34B Protection of evidence collected or obtained for purpose of determining whether person is vaccinated or has complied with Act or COVID-19 order
+(1) Despite anything in the Privacy Act 2020, personal information about an identifiable individual that is collected or obtained by any person for the purpose of determining whether the individual is vaccinated, has been issued with a COVID-19 vaccination certificate, or has complied with this Act or a COVID-19 order may not be held, stored, used, or disclosed by the person except for the purposes of—
+  (a) ascertaining whether the individual is vaccinated or has been issued with a COVID-19 vaccination certificate; or
+  (b) demonstrating or ascertaining compliance with this Act or a COVID-19 order; or
+  (c) enforcing the Act or a COVID-19 order (including for the purposes of proceedings against a person for non-compliance); or
+  (d) the Health Act 1956.
+(2) Nothing in this section limits the right of an individual to access information about them under the Privacy Act 2020 or any other Act.
+(3) A person who intentionally fails, without reasonable excuse, to comply with subsection (1) commits an offence.
+(4) A person who commits an offence against subsection (1) is liable on conviction to,—
+  (a) for an individual,—
+    (i) imprisonment for a term not exceeding 6 months; or
+    (ii) a fine not exceeding $12,000:
+  (b) for any other person, a fine not exceeding $15,000.
+
+### 34C Breach of section 34A or 34B constitutes interference with privacy of individual under Privacy Act 2020
+A breach of section 34A or 34B constitutes an action that is an interference with the privacy of an individual under section 69 of the Privacy Act 2020.
 
 ## Part 3 — Amendments to Civil Defence Emergency Management Act 2002
 
@@ -700,6 +857,42 @@ In this Part,—
 
 ### 7 Penalties for infringement offences committed before commencement
 A person who commits an infringement offence under this Act before commencement is liable to—
+  (a) an infringement fee of $300; or
+  (b) a fine imposed by a court not exceeding $1,000.
+
+### Part 3 — Provisions relating to COVID-19 Response (Vaccinations) Legislation Act 2021
+
+### 8 Interpretation
+In this Part,—
+  - **Act** means the COVID-19 Public Health Response Act 2020
+  - **amendment Act** means the COVID-19 Response (Vaccinations) Legislation Act 2021
+  - **commencement day** means the day on which the amendment Act comes into force.
+
+### 9 Transitional provision for COVID-19 vaccination documents issued before commencement day
+The following documents issued by the Ministry of Health before commencement day must on and from commencement day be treated as COVID-19 vaccination certificates issued in accordance with a COVID-19 order made under section 11 of the Act (as amended by the amendment Act):
+  (a) My Vaccine Pass:
+  (b) International Travel Vaccination Certificate.
+
+### 10 Savings provision for COVID-19 Public Health Response (Vaccinations) Order 2021
+Despite section 5(1) of the Act (as amended by section 4 of the amendment Act), the following definitions in clause 4 of the COVID-19 Public Health Response (Vaccinations) Order 2021 continue to apply for the purposes of that order until revoked:
+  (a) COVID-19 vaccination exemption:
+  (b) exempt person:
+  (c) vaccinated.
+
+### 11 Savings provision for COVID-19 Public Health Response (Air Border) Order (No 2) 2020
+(1) Despite section 5(1) of the Act (as amended by section 4 of the amendment Act), the following definitions in clause 7E(5) of the COVID-19 Public Health Response (Air Border) Order (No 2) 2020 continue to apply for the purposes of that order until revoked:
+  (a) COVID-19 vaccine:
+  (b) exempt person:
+  (c) vaccination requirement.
+(2) For the purposes of the definition of vaccination requirement in clause 7E(5) of the COVID-19 Public Health Response (Air Border) Order (No 2) 2020, the definition of vaccinated in section 5(1) of the Act (as amended by section 4(1) of the amendment Act) does not apply until the definition of vaccination requirement is revoked.
+
+### 12 Transitional provision for specified COVID-19 vaccination exemption criteria
+(1) This clause applies to the specified COVID-19 vaccination exemption criteria (the criteria) approved by the Director-General under clause 9B(12) of the COVID-19 Public Health Response (Vaccinations) Order 2021 and published under that provision in the Gazette on 12 November 2021 (2021-go4910).
+(2) The criteria must be treated as having been made under section 5(3)﻿(a) of the Act (as inserted by section 4(5) of the amendment Act) for the purposes of legislation made in or under the Act.
+
+### 13 Penalties for infringement offences committed before commencement of section 26(4)
+(1) This clause applies if an order made under section 11AB(1)﻿(a) (as inserted by the amendment Act) is in force before the date on which section 26(4) of the Act comes into force.
+(2) A person who commits an infringement offence under subpart 2A of Part 2 (as inserted by the amendment Act) before the commencement of section 26(4) of the Act is liable to—
   (a) an infringement fee of $300; or
   (b) a fine imposed by a court not exceeding $1,000.
 
