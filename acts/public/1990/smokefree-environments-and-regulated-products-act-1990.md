@@ -1,5 +1,5 @@
 # Smokefree Environments and Regulated Products Act 1990
-_Consolidation as at 2021-10-28_
+_Consolidation as at 2021-11-28_
 
 > Title
 
@@ -240,7 +240,7 @@ This Act shall bind the Crown.
   (e) to regulate the safety of vaping products and smokeless tobacco products; and
   (f) to monitor and regulate the presence of harmful constituents found in regulated products and their emissions; and
   (g) to give effect to certain obligations and commitments that New Zealand has as a party to the WHO Framework Convention on Tobacco Control, done at Geneva on 21 May 2003.
-(2) Subsection (1) does not limit or affect the particular purposes of Parts 1, 2, 3, and 4.
+(2) Subsection (1) does not limit or affect the particular purposes of Parts 1, 1A, 2, 3, and 4.
 
 ### 3B Transitional, savings, and related provisions
 The transitional, savings, and related provisions set out in Schedule 1 have effect according to their terms.
@@ -259,9 +259,10 @@ The purposes of this Part are—
   (a) a vehicle in which smoking or vaping is permitted under section 5A; or
   (b) a dedicated room in which smoking or vaping is permitted under section 6.
 (2) No employee or volunteer may smoke or vape at any time in a workplace that is not a vehicle in which smoking or vaping is permitted under section 5A.
+(3) Nothing in this section permits smoking or vaping in a vehicle carrying child occupants (see section 20D).
 
 ### 5A Employer may permit smoking or vaping in vehicle with consent of users
-An employer may permit smoking or vaping in a vehicle provided by the employer and normally used by employees or volunteers if—
+(1) An employer may permit smoking or vaping in a vehicle provided by the employer and normally used by employees or volunteers if—
   (a) the public does not normally have access to any part of it; and
   (b) all the employees and volunteers who use it regularly or from time to time have jointly or individually given the employer written notice—
     (i) asking the employer to permit smoking or vaping in it; or
@@ -269,6 +270,7 @@ An employer may permit smoking or vaping in a vehicle provided by the employer a
   (c) since last giving the employer notice to that effect, none of the employees and volunteers who use it regularly or from time to time has given the employer written notice that he or she—
     (i) no longer wishes the employer to permit smoking or vaping in it; or
     (ii) now objects to other employees and volunteers smoking or vaping in it.
+(2) Nothing in this section permits smoking or vaping in a vehicle carrying child occupants (see section 20D).
 
 ### 6 Dedicated rooms in hospital care institutions, residential disability care institutions, and rest homes
 (1) An employer may permit smoking or vaping by patients or residents of a workplace that is, or is part of, a hospital care institution, a residential disability care institution, or a rest home if—
@@ -327,6 +329,7 @@ An employer may permit smoking or vaping in a vehicle provided by the employer a
   - **large passenger service vehicle** has the same meaning as in section 2(1) of the Land Transport Act 1998
   - **small passenger service** has the same meaning as in section 2(1) of the Land Transport Act 1998
   - **small passenger service vehicle** has the same meaning as in section 2(1) of the Land Transport Act 1998.
+(5) Nothing in this section permits smoking or vaping in a vehicle carrying child occupants (see section 20D).
 
 ### 10 Application of Act to ships
 This Act applies to a ship if, and only if, it is—
@@ -455,6 +458,65 @@ Nothing in this Part shall limit or affect the powers of a local authority under
 Nothing in this Part, and no steps taken in compliance or purported compliance with this Part, limits or affects—
   (a) the Health and Safety at Work Act 2015; or
   (b) the obligations of any person under that Act.
+
+## Part 1A — Smoke-free motor vehicles carrying child occupants
+
+### 20B Purpose of this Part
+The purpose of this Part is to limit children’s exposure to second-hand smoke and other emissions by prohibiting smoking or vaping when they are in motor vehicles.
+
+### 20C Interpretation for this Part
+In this Part, unless the context otherwise requires,—
+  - **child occupant** means a person under the age of 18 years who is in a motor vehicle
+  - **motor vehicle** has the meaning given to it in section 2(1) of the Land Transport Act 1998
+  - **road** has the meaning given to it in section 2(1) of the Land Transport Act 1998.
+
+### 20D Smoking or vaping prohibited in motor vehicle carrying child occupant
+(1) A person must not smoke or vape in a motor vehicle, whether moving or stationary, that is on a road and has a child occupant.
+(2) However, a person may smoke or vape in a motor vehicle if—
+  (a) the person is the only occupant of the motor vehicle who is under the age of 18 years; or
+  (b) the motor vehicle is—
+    (i) manufactured for use as an occasional or permanent dwelling; and
+    (ii) stationary on a road and in use as a dwelling.
+(3) A person who contravenes subsection (1) commits an infringement offence and is liable to—
+  (a) an infringement fee of $50; or
+  (b) a fine imposed by a court not exceeding $100.
+(4) Sections 88 to 90 apply to the infringement offence in subsection (3) as if—
+  (a) the infringement offence were an infringement offence defined in section 87; and
+  (b) the infringement fee in subsection (3)﻿(a) were an infringement fee specified in section 87 for the infringement offence; and
+  (c) a constable were the enforcement officer referred to in those sections.
+
+### 20E Constable’s powers
+(1) A constable who sees a person smoking or vaping in a motor vehicle that is on a road and that appears to have a child occupant may do 1 or more of the following, if the constable is in uniform, or wearing a distinctive cap, hat, or helmet, with a badge of authority affixed to it:
+  (a) signal or request the driver of the motor vehicle to stop the vehicle as soon as practicable:
+  (b) require the driver to remain stopped for as long as is reasonably necessary for the constable to make the inquiries and complete the exercise of powers under this section:
+  (c) require the person who is smoking or vaping to stop smoking or vaping in the motor vehicle:
+  (d) require any person who is smoking or vaping or appears to be aged under 18 years to provide the person’s—
+    (i) full name; and
+    (ii) full address; and
+    (iii) date of birth; and
+    (iv) occupation; and
+    (v) telephone number.
+(2) A constable who sees a person smoking or vaping in a motor vehicle that is on a road and that appears to have a child occupant may do 1 or more of the following, if the constable is in another vehicle following the motor vehicle:
+  (a) by displaying flashing blue, or blue and red, lights or sounding a siren, require the driver of the other vehicle to stop:
+  (b) require the driver to remain stopped for as long as is reasonably necessary for the constable to make the inquiries and complete the exercise of powers under this section:
+  (c) require the person who is smoking or vaping to stop smoking or vaping in the motor vehicle:
+  (d) require any person who is smoking or vaping or appears to be aged under 18 years to provide the person’s—
+    (i) full name; and
+    (ii) full address; and
+    (iii) date of birth; and
+    (iv) occupation; and
+    (v) telephone number.
+(3) Despite subsection (1), a constable must not take either of the actions referred to in subsection (1)﻿(c) and (d) if the motor vehicle is—
+  (a) manufactured for use as an occasional or permanent dwelling; and
+  (b) stationary on a road and in use as a dwelling.
+
+**Offences**
+
+### 20F Offences in respect of constables
+A person commits an offence, and is liable on conviction to a fine not exceeding $1,000, if the person—
+  (a) intentionally obstructs, hinders, or resists a constable exercising or attempting to exercise powers under section 20E; or
+  (b) intentionally fails to comply with a requirement under section 20E; or
+  (c) when required under section 20E(1)﻿(d) or (2)﻿(d) to give information, gives information the person knows to be false or misleading.
 
 ## Part 2 — Restrictions on advertising, promotion, sale, and distribution of regulated products
 
