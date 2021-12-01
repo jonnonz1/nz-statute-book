@@ -1,5 +1,5 @@
 # Credit Contracts and Consumer Finance Act 2003
-_Consolidation as at 2021-11-03_
+_Consolidation as at 2021-12-01_
 
 ### 1 Title
 This Act is the Credit Contracts and Consumer Finance Act 2003.
@@ -38,7 +38,9 @@ This Act is the Credit Contracts and Consumer Finance Act 2003.
   (g) provides, in relation to credit contracts that include or involve a security interest,—
     (i) rules that apply in relation to the creditor's rights to repossess consumer goods; and
     (ii) corresponding rights for consumers and third parties that are affected by the exercise of the creditor's rights; and
-  (h) applies, as appropriate, the requirements, disclosure obligations, rules, and remedies specified in paragraphs (a) to (g) in relation to guarantors.
+  (h) applies, as appropriate, the requirements, disclosure obligations, rules, and remedies specified in paragraphs (a) to (g) in relation to guarantors; and
+  (i) requires creditors under consumer credit contracts and mobile traders to be certified; and
+  (j) provides for the disclosure of certain information about debt collection to debtors under credit contracts.
 
 ### 4 Overview
 In this Act,—
@@ -50,7 +52,7 @@ In this Act,—
   (d) Part 4 contains provisions relating to civil remedies, injunctions, offences, a defence, enforceable undertakings, pecuniary penalties, and certain provisions concerning the Commerce Commission:
   (e) Part 5 contains provisions relating to the reopening of oppressive credit contracts, consumer leases, and buy-back transactions of land:
   (ea) Part 5A requires creditors under consumer credit contracts and mobile traders to be certified:
-  (f) Part 6 contains miscellaneous provisions, including provisions relating to contracting out, regulations, consequential amendments, and transitional arrangements.
+  (f) Part 6 contains miscellaneous provisions, including provisions relating to disclosure about debt collection, contracting out, regulations, consequential amendments, and transitional arrangements.
 
 ### 5 Interpretation
 In this Act, unless the context otherwise requires,—
@@ -278,10 +280,17 @@ This Act binds the Crown.
 
 ### 9B Interpretation
 (1) In this Part, unless the context otherwise requires,—
+  - **advertising** means any form of communication—
+    (a) that is to be, or has been, distributed to a person; and
+    (b) that is reasonably likely to induce a person to inquire about or apply for an agreement; and
+    (c) that is authorised or instigated by, or on behalf of, the lender or an associated person of the lender, or prepared with the co-operation of any of those persons
   - **agreement** means—
     (a) a consumer credit contract:
     (b) a buy-back transaction
   - **borrower** means any person who has entered into, or is seeking to enter into, an agreement with a lender
+  - **distribute** includes—
+    (a) make available, publish, and circulate; and
+    (b) communicate by letter, newspaper, an Internet site, broadcasting, an audio or visual service, sound recording, television, film, video, or any form of electronic or other means of communication
   - **finance** means finance provided under a buy-back transaction
   - **lender** means—
     (a) a creditor under a consumer credit contract:
@@ -311,7 +320,7 @@ This Act binds the Crown.
     (iii) in all subsequent dealings with a borrower in relation to an agreement or a relevant insurance contract or a guarantor in relation to a relevant guarantee; and
   (b) comply with all the lender responsibilities specified in subsections (3), (4), and (5).
 (3) The lender responsibilities are that a lender must, in relation to an agreement with a borrower,—
-  (a) make reasonable inquiries, before entering into the agreement, so as to be satisfied that it is likely that—
+  (a) make reasonable inquiries, before entering into the agreement, and before making a material change referred to in subsection (8), so as to be satisfied that it is likely that—
     (i) the credit or finance provided under the agreement will meet the borrower's requirements and objectives; and
     (ii) the borrower will make the payments under the agreement without suffering substantial hardship; and
   (b) assist the borrower to reach an informed decision as to whether or not to enter into the agreement and to be reasonably aware of the full implications of entering into the agreement, including by ensuring that—
@@ -320,6 +329,9 @@ This Act binds the Crown.
       (B) is not, or is not likely to be, misleading, deceptive, or confusing to borrowers; and
     (ii) the terms of the agreement are expressed in plain language in a clear, concise, and intelligible manner; and
     (iii) any information provided by the lender to the borrower is not presented in a manner that is, or is likely to be, misleading, deceptive, or confusing; and
+    (iv) reasonable steps are taken to offer to the borrower information about the agreement in another language (language A) if—
+      (A) advertising that is wholly or significantly in language A is being, or within the preceding 6 months has been, distributed to the public or a section of the public; and
+      (B) the steps are necessary to ensure that the borrower can reach an informed decision (for example, if the borrower may not have a good understanding of the language in which the lender is otherwise providing information to the borrower under this Act); and
   (c) assist the borrower to reach informed decisions in all subsequent dealings in relation to the agreement, including by ensuring that—
     (i) any variation to the agreement is expressed in plain language in a clear, concise, and intelligible manner; and
     (ii) any information provided by the lender to the borrower after the agreement has been entered into is not presented in a manner that is, or is likely to be, misleading, deceptive, or confusing; and
@@ -340,6 +352,9 @@ This Act binds the Crown.
   (b) assist the guarantor to reach an informed decision as to whether or not to give the guarantee and to be reasonably aware of the full implications of giving the guarantee, including by ensuring that—
     (i) the terms of the guarantee are expressed in plain language in a clear, concise, and intelligible manner; and
     (ii) any information provided by the lender to the guarantor is not presented in a manner that is or is likely to be misleading, deceptive, or confusing; and
+    (iii) reasonable steps are taken to offer to the guarantor information about the guarantee in another language (language A) if—
+      (A) advertising about the agreement that is wholly or significantly in language A is being, or within the preceding 6 months has been, distributed to the public or a section of the public; and
+      (B) the steps are necessary to ensure that the guarantor can reach an informed decision (for example, if the guarantor may not have a good understanding of the language in which the lender is otherwise providing information to the guarantor under this Act); and
   (c) treat the guarantor reasonably and in an ethical manner, including when breaches of a credit contract to which the guarantee applies have occurred or may occur or when other problems arise; and
   (d) ensure, in the case of a guarantee that is to be treated as forming part of a credit contract for the purposes of Part 5 under section 119, that—
     (i) the guarantee is not oppressive:
@@ -351,11 +366,26 @@ This Act binds the Crown.
     (i) the insurance provided under the contract will meet the borrower's requirements and objectives; and
     (ii) the borrower will make the payments under the contract without suffering substantial hardship; and
   (b) assist the borrower to reach an informed decision as to whether or not to enter into the contract and to be reasonably aware of the full implications of entering into the contract, including by ensuring that—
-    (i) any advertising distributed by the lender is not, or is not likely to be, misleading, deceptive, or confusing to borrowers; and
+    (i) any advertising is not, or is not likely to be, misleading, deceptive, or confusing to borrowers; and
     (ii) any information provided by the lender to the borrower is not presented in a manner that is, or is likely to be, misleading, deceptive, or confusing.
 (5A) In subsections (3)﻿(a), (4)﻿(a), and (5)﻿(a), the requirement to make reasonable inquiries so as to be satisfied of a matter includes a requirement to comply with regulations made under section 138(1)﻿(abd).
 (6) Subsections (3)﻿(b)﻿(iii) and (c)﻿(ii), (4)﻿(b)﻿(ii), and (5)﻿(b)﻿(ii) do not apply to information that is subject to section 32(1).
-(7) For the purposes of the inquiries required under subsections (3)﻿(a), (4)﻿(a), and (5)﻿(a), the lender may rely on information provided by the borrower or guarantor unless the lender has reasonable grounds to believe the information is not reliable.
+(7)
+(8) The material changes for the purposes of subsection (3)﻿(a) are—
+  (a) the parties to the agreement agree to change the agreement by increasing a credit limit under the agreement:
+  (b) the lender exercises a power under the agreement to increase a credit limit under the agreement:
+  (c) the lender makes an additional advance that the lender did not take into account when previously satisfying itself as to the matters in subsection (3)﻿(a).
+
+### 9CA Records about inquiries made
+(1) The lender must keep records about the inquiries made by the lender under section 9C (including the results of those inquiries).
+(2) Those records must demonstrate how the lender has satisfied itself as to the matters in section 9C(3)﻿(a), (4)﻿(a), and (5)﻿(a).
+(3) The lender must make those records available to the Commission, on request by the Commission.
+(4) The lender must make available to a person responsible for an approved dispute resolution scheme, on request by that person, the records that relate to an agreement or a relevant insurance contract that is the subject of a dispute under that scheme.
+(5) The lender must make available to a borrower, on request by that borrower and free of charge, the records about the inquiries made by the lender under section 9C(3)﻿(a) and (5)﻿(a) that relate to an agreement or a relevant insurance contract to which the borrower is a party.
+(6) The lender must make available to a guarantor, on request by that guarantor and free of charge, the records about the inquiries made by the lender under section 9C(4)﻿(a) that relate to a relevant guarantee to which the guarantor is a party.
+(7) The lender must provide the records within 20 working days of the date on which the request is received by the lender or, in the case of records being provided to the Commission, within any longer period of time specified by the Commission.
+(8) The Commission does not need to use its powers under section 98 of the Commerce Act 1986 to make a request under subsection (3).
+(9) The lender must keep the records for a period of at least 7 years after the date on which the inquiry was made.
 
 ### 9D Proceedings for breach of legal obligations under other Acts
 (1) This section applies if, in relation to a legal obligation referred to in section 9C(3)﻿(f) or (4)﻿(e),—
@@ -690,6 +720,20 @@ The opening unpaid balance shown in each successive continuing disclosure statem
 (3) This section does not apply in the prescribed circumstances (being circumstances that relate to securitisation or covered bond arrangements or similar arrangements).
 (4) Disclosure under this section is not required in relation to a particular debtor or guarantor if the creditor cannot reasonably locate the debtor or guarantor, as the case may be.
 
+### 26B Disclosure about dispute resolution schemes and financial mentoring services: hardship applications, arrears, credit declined, and complaints
+(1) Information about the creditor’s dispute resolution scheme must be disclosed as follows:
+  (a) by a creditor in every notice required under section 57A(1)﻿(a) (obligations of creditor in relation to hardship applications):
+  (b) by the creditor to the debtor, when the creditor receives a written complaint in relation to any enforcement action under Part 3A:
+  (c) by the creditor to the debtor, when the creditor receives any other type of complaint described in the regulations.
+(2) Information about financial mentoring services must be disclosed as follows:
+  (a) by a creditor, to a debtor who has made a default in payment or has caused the credit limit under the contract to be exceeded:
+  (b) by a creditor in every notice required under section 57A(1)﻿(a) (obligations of creditor in relation to hardship applications):
+  (c) by a creditor who declines an application for a high-cost consumer credit contract, to the applicant.
+(3) The disclosure must be made—
+  (a) in a prominent manner; and
+  (b) in accordance with regulations made under section 138(1)﻿(dba).
+(4) Subpart 4 does not apply to disclosure required under this section.
+
 ### Subpart 3 — Debtor's right to cancel
 
 ### 27 Right to cancel consumer credit contract
@@ -840,6 +884,18 @@ If a consumer credit contract is cancelled under section 27(1)﻿(a), section 30
 
 ### 41 Unreasonable credit fee or default fee
 A consumer credit contract must not provide for a credit fee or a default fee that is unreasonable.
+
+### 41A Records and reviews about how fees calculated
+(1) The creditor under a consumer credit contract must keep records about how the creditor calculated each credit fee and default fee for the purposes of section 41.
+(2) Those calculations must demonstrate that each credit fee and default fee is not unreasonable at the time at which the fee was calculated or reviewed.
+(3) A creditor must—
+  (a) review a credit fee or a default fee if the creditor knows, or ought reasonably to know, that there has been a change that is likely to materially affect the reasonableness of the fee (for example, a change in the creditor’s business or costs); and
+  (b) reduce the fee if the result of the review is that the fee is now unreasonable.
+(4) The creditor must make the records required by this section available to the Commission, on request by the Commission.
+(5) The creditor must make available to a dispute resolution scheme, on request by that scheme, the records that relate to a contract that is the subject of a dispute under that scheme.
+(6) The creditor must provide the records within 20 working days of the date on which the request is received by the creditor or, in the case of records being provided to the Commission, within any longer period of time specified by the Commission.
+(7) The Commission does not need to use its powers under section 98 of the Commerce Act 1986 to make a request under subsection (4).
+(8) The creditor must keep the records for a period of at least 7 years after the date on which the fee is calculated or reviewed.
 
 ### 42 Establishment fees
 In determining whether an establishment fee is unreasonable, the court must have regard to—
@@ -1132,7 +1188,7 @@ A consumer credit insurance contract financed under a consumer credit contract i
 
 ### 57A Obligations of creditor in relation to application
 (1) On receipt of an application by a debtor under section 55, the creditor must do the following:
-  (a) within 5 working days after receiving the application, acknowledge receipt of the application by giving a written notice to the debtor:
+  (a) within 5 working days after receiving the application, acknowledge receipt of the application by giving a written notice to the debtor (see section 26B(1)﻿(a) and (2)﻿(b)):
   (b) within 10 working days after receiving the application, request any further information from the debtor (but only if that further information is necessary to decide the application) by giving a written notice to the debtor:
   (c) within 20 working days after receiving the application,—
     (i) in compliance with the lender responsibility principles (see section 9C), decide whether to agree to change the consumer credit contract in accordance with the application; and
@@ -1176,6 +1232,21 @@ A consumer credit insurance contract financed under a consumer credit contract i
   (a) by post, it is to be treated as having been received on the fourth working day after the day on which the letter is posted (and in proving the delivery it is sufficient to prove that the letter was properly addressed and posted):
   (b) by electronic communication, it is to be treated as having been received on the second working day after the day on which the notice or document is sent.
 (6) Despite anything in this section, the court may in any case make an order directing the manner in which any notice or other document is to be given, or make an order dispensing with the giving of the notice or document.
+
+### Subpart 9 — Duty of directors and senior managers of creditors under consumer credit contracts
+
+### 59B Duty of directors and senior managers of creditors
+(1) Every director and senior manager of a creditor under a consumer credit contract must exercise due diligence to ensure that the creditor complies with its duties and obligations under this Act.
+(2) For the purposes of subsection (1), the director or senior manager must exercise the care, diligence, and skill that a reasonable director or senior manager (as the case may be) would exercise in the same circumstances, taking into account (without limitation)—
+  (a) the nature of the business (for example,—
+    (i) its size:
+    (ii) the nature of the credit provided); and
+  (b) the position of the director or senior manager and the nature of the responsibilities undertaken by the director or senior manager.
+(3) In this section, due diligence includes taking reasonable steps to ensure that the creditor—
+  (a) requires its employees and agents to follow procedures, or has implemented automated procedures, that are designed to ensure compliance with this Act and the regulations; and
+  (b) has in place methods for systematically identifying deficiencies in the effectiveness of the procedures for compliance; and
+  (c) promptly remedies any deficiencies discovered.
+(4) In any circumstances prescribed under section 138(1)﻿(da) (being circumstances that relate to securitisation or covered bond arrangements or similar arrangements), this section applies as stated in the regulations.
 
 ## Part 3 — Consumer leases, credit-related insurance, and buy-back transactions of land
 
@@ -2105,7 +2176,7 @@ If the notice requirements under section 83G or 83V, as the case may be, have no
 ### 102A Infringement offences
 (1) Every creditor, lessor, or transferee who is subject to a disclosure section commits an offence if—
   (a) both of the following apply:
-    (i) a paragraph in Schedule 1, 2, or 3 or section 19(1) requires information to be contained in the disclosure statement that is to be given or sent for the purposes of the disclosure section; and
+    (i) a paragraph in Schedule 1, 2, or 3 or section 19(1) requires, or regulations prescribing information that must be disclosed under section 132A require, information to be contained in the disclosure statement that is to be given or sent for the purposes of the disclosure section; and
     (ii) the creditor, lessor, or transferee breaches the disclosure section by failing to include any information in the disclosure statement for the purposes of that paragraph; or
   (b) the creditor, lessor, or transferee breaches the disclosure section by failing to give or send to the debtor, guarantor, lessee, or occupier a copy of the relevant terms within the time for giving or sending the copy of those terms that is specified in that section.
 (2) Subsection (1) does not apply to a complete failure to give or send a disclosure statement to a debtor, guarantor, lessee, or occupier in accordance with a disclosure section (but such a breach is an offence under section 103).
@@ -2115,18 +2186,20 @@ If the notice requirements under section 83G or 83V, as the case may be, have no
 (4B) Every creditor who is subject to section 9K commits an offence if both of the following apply:
   (a) a paragraph in regulations prescribed under this Act requires particular information to be contained in the information made publicly available:
   (b) the creditor breaches section 9K(6)﻿(a) by failing to make any information publicly available for the purposes of that paragraph.
+(4C) Every person commits an offence if the person is subject to a disclosure requirement under section 26B and the person breaches the requirement.
 (5) Every creditor who is subject to Part 3A commits an offence if both of the following apply:
   (a) a paragraph in Schedule 3A requires information to be contained in the repossession warning notice that is to be served for the purposes of section 83G; and
   (b) the creditor breaches section 83G by failing to include any information in the repossession warning notice for the purposes of that paragraph.
 (6) Every creditor or creditor's agent who is subject to Part 3A commits an offence if the creditor or creditor's agent breaches section 83O(1) by failing to produce a document or information referred to in a paragraph of that subsection.
 (7) Subsections (5) and (6) do not apply to a complete failure to serve a repossession warning notice on a debtor in accordance with section 83G or a complete failure to comply with section 83O(1) (but such a breach is an offence under section 103).
+(7A) Every person commits an offence if the person is subject to section 116AAA (requirement for annual return) and the person breaches the requirement.
 (8) A person who commits an offence under this section is liable on conviction,—
   (a) in the case of an individual, to a fine not exceeding $10,000; and
   (b) in the case of a body corporate, to a fine not exceeding $30,000.
 (9) In this Act, infringement offence means an offence under this section.
 (10) See sections 105A to 105F (which relate to infringement offences).
 (11) In this section,—
-  - **disclosure section** means any of sections 17, 18, 25, 64, 70, and 72
+  - **disclosure section** means any of sections 17, 18, 25, 64, 70, 72, and 132A
   - **relevant terms** means, in relation to—
     (a) section 17, the terms of the contract referred to in section 17(2):
     (b) section 25, the terms of the guarantee referred to in section 25(1)﻿(a):
@@ -2135,7 +2208,7 @@ If the notice requirements under section 83G or 83V, as the case may be, have no
     (e) section 72, the terms of the buy-back transaction referred to in section 72(2).
 
 ### 103 Other offences
-(1) Every creditor, lender, creditor's agent, lessor, transferee, or buy-back promoter who breaches any of the provisions of sections 9J, 9K, 17 to 74 (except sections 41 and 41A, subpart 6A of Part 2, and section 59B), 76 to 82, 83E, 83F, 83G, 83O, 83P, 83S, 83T, and 83ZN commits an offence and is liable on conviction,—
+(1) Every creditor, lender, creditor's agent, lessor, transferee, or buy-back promoter who breaches any of the provisions of sections 9J, 9K, 17 to 74 (except sections 41 and 41A, subpart 6A of Part 2, and section 59B), 76 to 82, 83E, 83F, 83G, 83O, 83P, 83S, 83T, 83ZN, and 132A commits an offence and is liable on conviction,—
   (a) in the case of an individual, to a fine not exceeding $200,000; and
   (b) in the case of a body corporate, to a fine not exceeding $600,000.
 (2) However, a breach of section 83E(1)﻿(c) is not an offence under subsection (1).
@@ -2365,6 +2438,26 @@ Proceedings brought under this Act are in addition to any proceedings brought un
   (b) if a notice of appeal is filed within the time so prescribed, until the determination of the appeal; and
   (c) if application for leave to appeal is filed within the time so prescribed, until the application is determined, and, if leave to appeal is granted, until the determination of the appeal.
 (2) If the operation of any order is suspended until the determination of the appeal, the court determining the appeal may, by order, cancel or vary the order.
+
+### 116AAA Requirement for annual return
+(1) Every creditor under a consumer credit contract must provide an annual return to the Commission in the prescribed manner.
+(2) The prescribed manner may include a requirement to provide statistical information in relation to the creditor’s business (including its loan book).
+(3) The annual return must be provided before the prescribed date and relate to the prescribed 12-month period.
+(4) Nothing in this section requires the creditor to provide—
+  (a) information about an identifiable individual; or
+  (b) information that is neither in the possession or control of the creditor nor reasonably ascertainable from information that is in the possession or control of the creditor.
+
+### Subpart 8 — Miscellaneous
+
+### 116A Directors and senior managers may also be liable for statutory damages or compensation
+(1) This section applies if, in a proceeding under subpart 2 or 3, the court is satisfied that there has been—
+  (a) a breach of any provision of this Act in respect of which the debtor is entitled to recover from the creditor an amount of statutory damages under section 88; or
+  (b) a breach referred to in section 93.
+(2) If the court is satisfied that a director or senior manager has breached section 59B in respect of the matter, the court may order that the director or manager is liable to pay statutory damages under section 90 in respect of the matter or to pay an amount under section 94 (as the case may be).
+(3) See section 106, which provides a defence to a claim for statutory damages under section 88.
+(4) See also section 107A(1)﻿(a)﻿(vi) (civil pecuniary penalties).
+(5) The liability of the director or manager is a joint and several liability with that of the creditor or any other person against whom an order under section 90 or 94 is made.
+(6) If this section applies, a director or senior manager may apply to the court under section 91 and the court must take directors and senior managers into account under section 92(e).
 
 ## Part 5 — Reopening of oppressive credit contracts, consumer leases, and buy-back transactions
 
@@ -2625,6 +2718,44 @@ A person may appeal to the District Court against a decision of the Commission u
 ### 132 Provisions relating to assignment of credit contracts, consumer leases, or buy-back transactions
 (1) An assignee of a credit contract, a consumer lease, or a buy-back transaction from a creditor, a lessor, or a transferee takes the contract, lease, or transaction subject to all equities and to all rights and remedies under this Act that the debtor, the lessee, or the occupier has or would have against the original creditor, the original lessor, the original transferee, or any subsequent creditor, lessor, or transferee.
 (2) This section is subject to the Bills of Exchange Act 1908.
+
+### 132A Disclosure about debt collection
+Application
+(1) This section applies to any credit contract under which—
+  (a) the debtor is a natural person; and
+  (b) when the contract was entered into, the credit was to be used, or was intended to be used, wholly or predominantly for personal, domestic, or household purposes; and
+  (c) debt collection is, or is to be, carried out in the course of a business.
+Duty to make disclosure
+(2) Before debt collection starts, the debt collector must ensure that disclosure of all the information set out in the regulations that applies to the contract is made to every debtor under the contract.
+(3) A person who becomes a debt collector after debt collection has started must also make the disclosure required by subsection (2) within 10 working days of the day on which the person becomes a debt collector.
+(4) In this section, unless the context otherwise requires,—
+  - **debt collection** means an act to recover (or attempt to recover) any money that is owing by a debtor under a credit contract as a result of the debtor’s breach of the contract
+  - **debt collector** , in respect of a contract, means a creditor or any other person engaging in debt collection in respect of the contract.
+Exceptions
+(5) However, this section does not apply—
+  (a) if the act to recover (or attempt to recover) money is either of the following:
+    (i) a payment reminder provided by the creditor who made the advance under the credit contract:
+    (ii) a payment reminder provided by a person to whom the rights of a creditor have been transferred by assignment or operation of law (the assignee), if the assignment did not occur for the purpose of the assignee undertaking debt collection:
+  (b) if the creditor has complied with section 119 of the Property Law Act 2007 (notice must be given to current mortgagor of mortgaged land of exercise of powers, etc):
+  (c) if the creditor has served a repossession warning notice in accordance with section 83G:
+  (d) if the action is in respect of a repossession of goods that are at risk (see section 83E(2)).
+(6) In this section, unless the context otherwise requires,—
+  - **payment reminder** —
+    (a) means a communication that—
+      (i) is made within 6 months of a default in payment; and
+      (ii) only requests a payment that is overdue; but
+    (b) excludes—
+      (i) a notice demanding payment of any amount in addition to the overdue payments (for example, a notice demanding that the unpaid balance be repaid in full):
+      (ii) in-person visits to the debtor, the debtor’s residence, or the debtor’s place of work:
+      (iii) communications with any person other than the debtor (other than incidental communications in the course of attempting to contact the debtor):
+      (iv) requesting the debtor to consent to deductions from wages (under section 5 of the Wages Protection Act 1983), from a benefit (as defined in Schedule 2 of the Social Security Act 2018), or from a student allowance established by regulations made under section 303 of the Education Act 1989:
+      (v) filing enforcement proceedings or lodging a claim with the Disputes Tribunal
+  - **payment that is overdue** —
+    (a) includes default fees and default interest charges in respect of an overdue amount:
+    (b) does not include an amount payable under an acceleration clause (being an express or implied term in a credit contract which provides that, if there is a default, any amounts become payable (or may be called up as becoming payable) earlier than would be the case if there had not been a default).
+How it works
+(7) Subpart 4 of Part 2 applies with necessary modifications.
+(8) The rules in sections 11(1A) and (1B), 12 to 14, 15(1)﻿(ca), and 16 apply with necessary modifications for the purposes of subsection (1).
 
 ### 133 Changes, deferrals, or postponements under credit contracts and consumer leases
 (1) The provision of credit as a result of a change to an existing credit contract, or a deferral of an amount payable under an existing credit contract, or a postponement relating to an existing credit contract, is not to be treated as creating a new credit contract for the purposes of this Act if the change, deferral, or postponement is made in accordance with this Act or the existing credit contract.
