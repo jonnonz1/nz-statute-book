@@ -1,5 +1,5 @@
 # Summary Proceedings Act 1957
-_Consolidation as at 2021-11-28_
+_Consolidation as at 2021-12-02_
 
 > Title
 
@@ -50,6 +50,7 @@ _Consolidation as at 2021-11-28_
     (fa) section 165B of the Electricity Act 1992; or
     (fb) section 40D of the Fair Trading Act 1986; or
     (g) section 139 of the Land Transport Act 1998; or
+    (ga) section 104D of the Crown Minerals Act 1991; or
     (h) section 260A of the Fisheries Act 1996; or
     (ha) section 105C of the Credit Contracts and Consumer Finance Act 2003; or
     (hb) section 400 of the Customs and Excise Act 2018; or
