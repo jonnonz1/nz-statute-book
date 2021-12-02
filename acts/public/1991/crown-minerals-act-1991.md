@@ -1,5 +1,5 @@
 # Crown Minerals Act 1991
-_Consolidation as at 2021-10-28_
+_Consolidation as at 2021-12-02_
 
 > Title
 
@@ -57,6 +57,7 @@ Schedule 1 contains savings and transitional provisions that affect other provis
   - **customary marine title agreement** has the meaning given to agreement in section 9(1) of the Marine and Coastal Area (Takutai Moana) Act 2011
   - **customary marine title group** has the meaning given in section 9(1) of the Marine and Coastal Area (Takutai Moana) Act 2011
   - **customary marine title order** has the meaning given in section 9(1) of the Marine and Coastal Area (Takutai Moana) Act 2011
+  - **decommissioning** has the meaning set out in section 89E
   - **discovery** means the discovery of a deposit or occurrence of a mineral
   - **draft minerals programme** means a programme prepared or in the course of preparation under section 15
   - **dwellinghouse** means any building, whether permanent or temporary, that is occupied, in whole or in part, as a residence; and includes any structure or outdoor living area that is accessory to, and used wholly or principally for the purposes of, the residence; but does not include the land upon which the residence is sited
@@ -133,8 +134,10 @@ Schedule 1 contains savings and transitional provisions that affect other provis
   - **owner** means—
     (a) in relation to Crown land, the appropriate Minister within the meaning of subsection (2); and
     (b) in relation to land other than Crown land, the person or persons who hold the fee simple title to the land; and includes, except for the purposes of sections 8 and 49 to 52, the person or persons (other than the Crown) who owns or own the minerals in the land
-  - **participating interest** means an undivided share of a permit that is expressed as a percentage recorded on the permit
-  - **permit** means a prospecting permit, an exploration permit, or a mining permit to the extent that it remains current; or, if the context requires, all or any of these permits
+  - **participating interest** ,—
+    (a) in relation to a permit, means an undivided share of the permit that is expressed as a percentage recorded on the permit:
+    (b) in relation to a licence granted under Part 1 of the Petroleum Act 1937, means an undivided share of the licence that is recorded on the licence
+  - **permit** means a prospecting permit, an exploration permit, or a mining permit to the extent that it remains current; or, if the context requires, all or any of these permits, except in subparts 2 and 3 of Part 1B
   - **permit holder** means the person who is the sole permit participant, or all of the permit participants, as the case may be
   - **permit operator** means the person described in section 27
   - **permit participant** means a person who holds a participating interest in a permit
@@ -144,6 +147,7 @@ Schedule 1 contains savings and transitional provisions that affect other provis
     (a) any naturally occurring hydrocarbon (other than coal) whether in a gaseous, liquid, or solid state; or
     (b) any naturally occurring mixture of hydrocarbons (other than coal) whether in a gaseous, liquid, or solid state; or
     (c) any naturally occurring mixture of 1 or more hydrocarbons (other than coal) whether in a gaseous, liquid, or solid state, and 1 or more of the following, namely hydrogen sulphide, nitrogen, helium, or carbon dioxide—
+  - **petroleum infrastructure** has the meaning set out in section 89F
   - **petroleum mining permit** means a mining permit for petroleum
   - **prescribed** means prescribed by regulations made under this Act
   - **prescribed form** means a form prescribed by regulations made under this Act and containing and having attached such information and documents as those regulations may require
@@ -182,6 +186,7 @@ Schedule 1 contains savings and transitional provisions that affect other provis
     (b) regulations made under section 105A
   - **sand** does not include ironsand
   - **serve** means serve in accordance with section 352 or section 353 of the Resource Management Act 1991
+  - **ship** has the same meaning as in section 2(1) of the Maritime Transport Act 1994
   - **silver** includes any substance containing silver, or having silver mixed in it, other than a substance that also contains gold or has gold mixed in it
   - **special purpose mining activity** means an activity carried out to demonstrate historical mining methods
   - **specified Act** means the—
@@ -221,10 +226,10 @@ Schedule 1 contains savings and transitional provisions that affect other provis
 ### 2B Meaning of Tier 1 permit and Tier 2 permit
 (1) In this Act, Tier 1 permit means the following permits:
   (a) a prospecting, exploration, or mining permit that relates to petroleum:
-  (b) a prospecting permit that relates to a mineral listed in the first column of Schedule 5, unless the permit relates to prospecting for alluvial gold:
+  (b)
   (c) an exploration permit that relates to a mineral listed in the first column of Schedule 5, unless the expected total work programme expenditure in relation to the permit for the final 5 permit years of its life, or for the entire duration of its life if the permit is for less than 5 permit years, is, in the Minister's estimation, less than the amount specified for the mineral in the second column of that schedule:
   (d) a mining permit that relates to a mineral listed in the first column of Schedule 5, if, in any 1 permit year in the next 5 permit years of its life, the annual royalty or annual production in relation to the permit will be, in the Minister's estimation, equal to or more than the amount specified in the third or fourth column of that schedule:
-  (e) a permit that (irrespective of the type of mineral to which the permit relates, the year of the permit's life, or any threshold amounts specified for the mineral to which the permit relates in Schedule 5)—
+  (e) an exploration or mining permit that (irrespective of the type of mineral to which the permit relates, the year of the permit's life, or any threshold amounts specified for the mineral to which the permit relates in Schedule 5)—
     (i) relates to an underground operation or an operation that is (whether wholly or partially) 50 metres or more beyond the seaward side of the mean high-water mark; and
     (ii) is not for a special purpose mining activity.
 (2) In this Act, Tier 2 permit means a permit that is not a Tier 1 permit.
@@ -233,10 +238,10 @@ Schedule 1 contains savings and transitional provisions that affect other provis
 ### 2C Determination of permit tier status
 (1) This section applies to each exploration permit and mining permit whose Tier 1 (or, by default, Tier 2) status must be determined in accordance with section 2B(1)﻿(c) or (d).
 (2) The Minister must determine the tier status of a permit—
-  (a) on first granting the permit, and then once in each permit year and at any time that the permit is changed under section 36(1); or
-  (b) if the permit exists on the commencement of this section, as soon as practicable after the commencement of this section, and then once in each permit year and at any time that the permit is changed under section 36(1).
+  (a) on first granting the permit, and at any time that the permit is changed under section 36(1); or
+  (b) if the permit exists on the commencement of this section, as soon as practicable after the commencement of this section, and at any time that the permit is changed under section 36(1).
 (3) The Minister may determine the tier status of a permit at any other time as he or she thinks fit.
-(4) For the purposes of subsection (2)﻿(a), a determination made because of a change to the permit may, in the Minister's complete discretion, be treated as the required determination for the following permit year.
+(4)
 
 ### 2D Consequences of change in status of permit
 (1) This section applies if, as a result of a determination made by the Minister under section 2C, a Tier 1 permit becomes a Tier 2 permit or a Tier 2 permit becomes a Tier 1 permit.
@@ -256,6 +261,7 @@ The Minister has the following functions under this Act:
   (a) to attract permit applications, including by way of public tender:
   (b) to grant permits, grant changes to permits, and revoke permits:
   (c) to prepare minerals programmes:
+  (ca) to make decisions on decommissioning petroleum infrastructure and wells, requirements for financial securities, payments for post-decommissioning work, and related matters:
   (d) to co-operate with regulatory agencies that perform functions in relation to Crown owned minerals (including under section 90E):
   (e) to collect and disclose information in connection with mineral resources and mineral production in order to—
     (i) promote informed investment decisions about mineral exploration and production; and
@@ -399,6 +405,8 @@ The Minister must notify every person who made a submission on the draft program
 
 ## Part 1B — Permits, access to land, and other matters
 
+### Subpart 1 — Permits, access to land, and title notations
+
 ### 23 Purpose of permits
 (1) The purpose of a prospecting permit is to authorise the permit holder to prospect for minerals as specified in the permit.
 (2) The purpose of an exploration permit is to authorise the permit holder to explore for minerals as specified in the permit.
@@ -516,12 +524,12 @@ Where the Minister considers it appropriate to do so, the Minister may require t
     (i) the purpose of this Act; and
     (ii) the purpose of the proposed permit; and
     (iii) good industry practice in respect of the proposed activities; and
-  (b) that the applicant is likely to comply with, and give proper effect to, the proposed work programme, taking into account—
+  (b) that the applicant is highly likely to comply with, and give proper effect to, the proposed work programme, taking into account—
     (i) the applicant's technical capability; and
     (ii) the applicant's financial capability; and
     (iii) any relevant information on the applicant’s failure to comply with permits or rights, or conditions in respect of those permits or rights, to prospect, explore, or mine in New Zealand or internationally; and
-  (c) that the applicant is likely to comply with the relevant obligations under the Act or the regulations in respect of reporting and the payment of fees and royalties; and
-  (d) in the case of a Tier 1 permit for exploration or mining, that the proposed permit operator has, or is likely to have, by the time the relevant work in any granted permit is undertaken, the capability and systems that are likely to be required to meet the health and safety and environmental requirements of all specified Acts for the types of activities proposed under the permit.
+  (c) that the applicant is highly likely to comply with the relevant obligations under the Act or the regulations in respect of reporting and the payment of fees and royalties; and
+  (d) in the case of a Tier 1 permit for exploration or mining, that the proposed permit operator has, or is highly likely to have, by the time the relevant work in any granted permit is undertaken, the capability and systems that are likely to be required to meet the health and safety and environmental requirements of all specified Acts for the types of activities proposed under the permit.
 (3) For the purposes of the Minister satisfying himself or herself of the matter in subsection (2)﻿(d), the Minister—
   (a) is only required to undertake a high-level preliminary assessment; and
   (b) must seek the views of the health and safety regulator and may, but is not required to, obtain the views of any other regulatory agency; and
@@ -576,7 +584,7 @@ Every permit holder shall be the owner of all minerals lawfully obtained by or o
 (3) Subject to sections 22, 27, 29A, and 43, and subsection (7), and unless the exploration permit expressly provides otherwise, if the holder of an exploration permit satisfies the Minister that he or she has, as a result of activities authorised by the permit, discovered a deposit or occurrence of a mineral to which the permit relates, the permit holder shall have the right, on applying under section 23A before the expiry of the exploration permit, to surrender the permit insofar as it relates to the land in which the deposit or occurrence exists and to be granted in exchange a mining permit for that land and mineral.
 (4) A permit granted in accordance with this section may be limited to such part of the land to which the current permit relates as the Minister determines is reasonably adequate to enable the activities authorised by the subsequent permit to be carried out.
 (5) Subsection (5A) applies if a mining permit is to be granted in accordance with subsection (3) and the initial permit or any subsequent permit specified any condition to be included in the mining permit or in any subsequent privilege, right, or licence conferring a right to mine.
-(5A) The condition must be included in the mining permit, unless the Minister and the holder of the exploration permit otherwise agree, and no other condition which modifies or conflicts with the condition may be included in the mining permit without the consent of the holder of the mining permit.
+(5A) The condition must be included in the mining permit, unless the Minister and the holder of the exploration permit otherwise agree, and, subject to subpart 2 of Part 1B, no other condition which modifies or conflicts with the condition may be included in the mining permit without the consent of the holder of the mining permit.
 (6) For the purposes of this section—
   (a) an exploration permit shall be deemed to be an exploration permit and a prospecting permit; and
   (b) a mining permit shall be deemed to be a mining permit and an exploration permit and a prospecting permit.
@@ -701,8 +709,8 @@ The Minister may—
   (c) change the minerals to which the permit relates:
   (d) extend the duration of the permit.
 (2A) However, the land to which a permit for petroleum relates cannot be extended to include any land outside the onshore Taranaki region.
-(3) An application under subsection (1)﻿(b) to extend the duration of an exploration permit for petroleum may only be made as provided by section 35A.
-(4) An application under subsection (1)﻿(b) to extend the duration of a mining permit in accordance with this section, or to extend the duration of an exploration permit under section 35A, must be received by the Minister not later than 6 months before the expiry of the permit.
+(3) An application under subsection (1)﻿(b) to extend the duration of an exploration permit for petroleum may only be made as provided by section 35A or to enable the holder of a permit relating to petroleum to complete their decommissioning obligations under subpart 2 of Part 1B, or the holder of a permit relating to minerals to complete rehabilitation work.
+(4) An application under subsection (1)﻿(b) to extend the duration of a mining permit in accordance with this section, or to extend the duration of an exploration permit under section 35A or to enable the holder of a permit relating to petroleum to complete their decommissioning obligations under subpart 2 of Part 1B, or the holder of a permit relating to minerals to complete rehabilitation work, must be received by the Minister not later than 6 months before the expiry of the permit.
 (4A) However, if the Minister is satisfied that there are compelling reasons why a permit holder could not comply with subsection (4), the Minister may receive an application by a later date agreed by the Minister.
 (4B) All other applications under subsection (1)﻿(b) must be received by the Minister not later than 90 days before—
   (a) the expiry date of the permit; or
@@ -713,9 +721,12 @@ The Minister may—
   (a) must be complied with or fulfilled while the application is being considered by the Minister; and
   (b) is not complied with or fulfilled while the application is being considered by the Minister.
 (4E) However, if the application is declined, the permit holder contravenes the condition from the date on which the condition should have been complied with or fulfilled.
-(5) The duration of a mining permit may not be extended under this section unless the permit holder—and any such extension shall be only for such period as the Minister considers reasonable to enable the permit holder to economically deplete the discovery.
+(5) Subject to subsection (5AA), the duration of a mining permit may not be extended under this section unless the permit holder—and any such extension shall be only for such period as the Minister considers reasonable to enable the permit holder to economically deplete the discovery.
   (a) satisfies the Minister that the discovery to which the permit relates cannot be economically depleted before the expiry date of the permit (and in this respect the Minister may consider the extent to which the inability to deplete the discovery during the term of the permit is due to causes or reasons beyond the permit holder's control); and
   (b) where required to do so by the Minister, submits a work programme which is approved by the Minister in the same manner, with any necessary modifications, as a work programme is approved under section 43—
+(5AA) The duration of any permit may be extended,—
+  (a) if the permit relates to petroleum, to enable the permit holder to complete their decommissioning obligations under subpart 2 of Part 1B:
+  (b) if the permit relates to minerals, to enable the permit holder to complete rehabilitation work.
 (5A) A permit that is the subject of an application for an extension of duration under this section or section 35A continues in force until the Minister determines the application.
 (5B) On the granting of a certificate of change in relation to a permit, the chief executive must forward 1 copy of the certificate of change to the permit holder.
 (5C) If the certificate of change is for an extension of land to which a permit relates and that extension of land was granted in respect of Māori land, the chief executive must also forward 1 copy of the certificate to the Registrar of the Māori Land Court.
@@ -827,7 +838,7 @@ The Minister may—
   (a) a statement, signed by or on behalf of the transferee, in which the person signing the statement must confirm that the transferee has the financial capability to meet its obligations under the permit (a statement of financial capability); and
   (b) any specified supporting information.
 (5) If the transferee is a company, a statement of financial capability must be signed on behalf of all the directors by at least 2 directors of the company or, if the company has only 1 director, by that director.
-(6) Before granting consent, the Minister must be satisfied that the transferee is likely to be able to comply with the conditions of, and give proper effect to, the permit.
+(6) Before granting consent, the Minister must be satisfied that the transferee is highly likely to be able to comply with the conditions of, and give proper effect to, the permit.
 (7) The chief executive must record the transfer of any participating interest consented to by the Minister under this section on the permit concerned and the transfer is effective, for the purposes of the permit, this Act, and the regulations from the date of the Minister's consent.
 
 ### 41AA Meaning of change of control of permit participant or guarantor
@@ -890,9 +901,9 @@ The Minister may—
 (1) The Minister may consent to the change of control of a permit operator for the purposes of section 41AB only if the Minister is satisfied that—
   (a) the permit holder, given the proposed change in control,—
     (i) has the financial capability to meet its obligations under the permit; and
-    (ii) is likely to comply with, and give proper effect to, the work programme for the permit; and
-    (iii) is likely to comply with the relevant obligations under this Act or the regulations in respect of reporting and the payment of fees and royalties; and
-  (b) in the case of a Tier 1 permit for exploration or mining, the permit operator, after undergoing the change of control, has, or is likely to have by the time the relevant work in the permit is undertaken, the capability and systems that are likely to be required to meet the health and safety requirements of the Health and Safety at Work Act 2015 for the types of activities to be carried out under the permit.
+    (ii) is highly likely to comply with, and give proper effect to, the work programme for the permit; and
+    (iii) is highly likely to comply with the relevant obligations under this Act or the regulations in respect of reporting and the payment of fees and royalties; and
+  (b) in the case of a Tier 1 permit for exploration or mining, the permit operator, after undergoing the change of control, has, or is highly likely to have by the time the relevant work in the permit is undertaken, the capability and systems that are likely to be required to meet the health and safety requirements of the Health and Safety at Work Act 2015 for the types of activities to be carried out under the permit.
 (2) Section 29A(3) and (4) applies for the purposes of subsection (1)﻿(b), with all necessary modifications.
 
 ### 41AF Revocation of permit if change of control made without consent
@@ -954,11 +965,11 @@ The Minister may—
   (a) be made by the permit holder; and
   (b) be made jointly with the proposed new operator if that operator is not an existing permit participant.
 (3) The Minister may give consent to the change only—
-  (a) if the Minister is satisfied that the permit holder, given the change in permit operator, is likely to—
+  (a) if the Minister is satisfied that the permit holder, given the change in permit operator, is highly likely to—
     (i) comply with, and give proper effect to, the work programme for the permit; and
     (ii) comply with the relevant obligations under this Act or the regulations in respect of reporting and the payment of fees and royalties; and
   (b) if the change of operator relates to a Tier 1 permit for exploration or mining, if the health and safety regulator—
-    (i) is satisfied that any requirements of the Health and Safety at Work Act 2015, or regulations made under that Act, that the proposed operator must meet before carrying out day-to-day management of activities under the permit have been, or are likely to be, met; and
+    (i) is satisfied that any requirements of the Health and Safety at Work Act 2015, or regulations made under that Act, that the proposed operator must meet before carrying out day-to-day management of activities under the permit have been, or are highly likely to be, met; and
     (ii) has advised the chief executive that it is so satisfied.
 
 ### 41D General provisions relating to transfers, dealings, and changes of permit operator
@@ -967,7 +978,10 @@ The Minister may—
 (3) If, as a result of the transfer of a participating interest in a permit, a person ceases to have an interest in the permit, that person ceases to have any rights or obligations under the permit except in respect of any contravention of the conditions of the permit that occurred before the date of transfer of the participating interest.
 (4) Subsection (3) is subject to—
   (a) the conditions of the permit; and
-  (b) the conditions of the Minister's consent on the transfer of the participating interest.
+  (b) the conditions of the Minister's consent on the transfer of the participating interest; and
+  (c) subpart 2 of Part 1B.
+
+**Surveys**
 
 ### 42 Minister may require survey at any time
 It shall be a condition of every current mining permit that the Minister may at any time, require the holder of the permit to arrange for the survey, in the manner prescribed by regulations, of all or part of the land to which the permit relates.
@@ -977,6 +991,32 @@ It shall be a condition of every current mining permit that the Minister may at 
 (2) An authorisation granted under this section—
   (a) is subject to the provisions of this Act as if the authorisation were a permit of the same type as the permit held by the permit holder and referred to in subsection (1); but
   (b) does not authorise any activity other than the carrying out of geophysical surveys.
+
+**Field development plans in respect of petroleum mining permits and licences**
+
+### 42B Field development plans to be submitted to chief executive
+(1) The holder of a petroleum mining permit granted under this Act or a petroleum mining licence granted under the Petroleum Act 1937 (A) must submit a field development plan to the chief executive—
+  (a) at the prescribed times (if any); and
+  (b) within a specified time of the occurrence of prescribed events (if any); and
+  (c) on request from the Minister, within any reasonable time specified in the request.
+(2) The field development plan must—
+  (a) detail the planned development of the field over its anticipated productive life; and
+  (b) be accurate as at the date of submission to the chief executive; and
+  (c) contain the prescribed information (if any); and
+  (d) meet any further prescribed requirements.
+
+**Notice of expected cessation and notice of cessation of petroleum fields**
+
+### 42C Notice of expected cessation and notice of cessation
+(1) The holder of a petroleum mining permit granted under this Act or a petroleum mining licence granted under the Petroleum Act 1937 (A) must submit a notice of expected cessation to the chief executive—
+  (a) at the prescribed times (if any); and
+  (b) within a specified time of the occurrence of prescribed events (if any); and
+  (c) on request from the Minister, within any reasonable time specified in the request.
+(2) The notice of expected cessation must—
+  (a) specify when A currently expects the field to permanently cease production; and
+  (b) contain the prescribed information (if any); and
+  (c) meet any further prescribed requirements.
+(3) If the field permanently ceases production, A must give the chief executive notice of that cessation as soon as practicable and not later than 20 working days after cessation.
 
 **Work programmes in respect of subsequent permits**
 
@@ -1412,12 +1452,764 @@ No person entitled to exercise a right of access by virtue of an access arrangem
 (1) On the receipt by the Registrar-General of Land of any notice of revocation of or surrender of a permit, the Registrar-General of Land shall, without payment of a fee, sign and seal on the notice a statement of the time and date of receipt, note the particulars on his or her record copy of the permit affected, and attach the notice to that record copy.
 (2) This section applies only to permits lodged before 21 August 2003.
 
+### Subpart 2 — Decommissioning of petroleum infrastructure and wells
+
+### 89A Application of this subpart
+This subpart applies to—
+  (a) a permit holder:
+  (b) any person who applies for a permit before commencement if the application has not been determined on commencement:
+  (c) a licence holder:
+  (d) a person who transfers a permit or licence or all or part of a participating interest in a permit or licence on or after commencement, and a person to whom the permit or licence or all or part of a participating interest is transferred:
+  (e) a person who on commencement held a permit which has subsequently expired, been surrendered, or revoked (former permit holder):
+  (f) a person who on commencement held a licence which has subsequently expired, been surrendered, or revoked (former licence holder).
+
+### 89B Relationship between this subpart and other enactments
+(1) This subpart does not limit or affect any person’s obligations under another enactment (for example, the Resource Management Act 1991, the Exclusive Economic Zone and Continental Shelf (Environmental Effects) Act 2012, or the Health and Safety at Work Act 2015).
+(2) Any requirement under this subpart for a person to supply information does not replace or limit any requirement for that person to supply information under other provisions in this Act or another enactment.
+(3) An exemption granted under this subpart from complying with a decommissioning requirement under this subpart does not exempt the person from complying with another enactment.
+
+### 89C Relationship between sections 42B and 42C, this subpart, and existing conditions of permits and licences
+(1) If the requirements of sections 42B and 42C and this subpart (the provisions) duplicate or overlap with those conditions of a permit or licence imposed before commencement, the provisions and any conditions imposed under this subpart prevail, in the event and to the extent of any inconsistency between this subpart and the conditions imposed before commencement.
+(2) On commencement, each permit and licence is deemed to contain a condition that repeats the provisions of subsection (1).
+
+### 89D Interpretation
+In this subpart, unless the context otherwise requires,—
+  - **commencement** , in relation to any provision in this subpart, means the day on which that provision commences
+  - **current licence holder** means the holder of a licence that is in force
+  - **current permit holder** means the holder of a current permit
+  - **licence** means a prospecting licence or a mining licence granted under Part 1 of the Petroleum Act 1937 to prospect or mine for petroleum
+  - **permit** means a permit to explore for petroleum or a petroleum mining permit granted under this Act
+  - **petroleum infrastructure** has the meaning set out in section 89F
+  - **plugging and abandonment** , in relation to a well, has the meaning set out in section 89Q
+  - **well** —
+    (a) means a borehole drilled or re-entered for the purposes of exploring for, appraising, or extracting petroleum; and
+    (b) includes—
+      (i) any borehole used for injection or reinjection purposes; and
+      (ii) any down-hole pressure-containing equipment; and
+      (iii) the wellhead; and
+      (iv) any other prescribed thing
+  - **wellhead** means any pressure-containing equipment on top of the well.
+
+### 89E Decommissioning
+(1) In this Act, unless the context otherwise requires, decommissioning, in relation to any petroleum infrastructure or a well,—
+  (a) means an activity undertaken under any enactment (for example, the Resource Management Act 1991, the Exclusive Economic Zone and Continental Shelf (Environmental Effects) Act 2012, or the Health and Safety at Work Act 2015), and in accordance with any requirements or standards set by or under that enactment or imposed by a regulatory agency, to take out of service permanently petroleum infrastructure or a well used for prospecting or exploring for, or mining of, petroleum; and
+  (b) includes (without limitation) and to the extent required by this Act or another enactment or by standards or by a regulatory agency,—
+    (i) removing petroleum infrastructure; and
+    (ii) plugging and abandoning a well; and
+    (iii) undertaking site restoration when production of a well ceases (for whatever reason); and
+    (iv) any other prescribed activity in relation to any petroleum infrastructure, or well drilled for the purposes of exploring or prospecting for, or mining of, petroleum.
+(2) However, if in relation to petroleum infrastructure, no other enactment, relevant standard, or requirement by a regulatory agency contains any requirements or standards relating to the method of decommissioning a particular item of petroleum infrastructure, that infrastructure must be decommissioned by totally removing it.
+(3) Despite subsection (2), an item of infrastructure left in place in accordance with a process set out in the regulations (if any) must be treated as having been decommissioned.
+
+### 89F Petroleum infrastructure
+In this Act, unless the context otherwise requires, petroleum infrastructure—
+  (a) means—
+    (i) a structure (within the meaning of section 101A) or vessel used onshore or offshore for the purpose of exploring for, or mining of, or processing, petroleum—
+      (A) up until the point when the petroleum enters infrastructure used by a person other than a current permit holder or licence holder; and
+      (B) up until the point when the infrastructure is used for distributing or transporting the petroleum, or otherwise ceases to be part of the system for producing petroleum:
+    (ii) any equipment attached to, or used in connection with, a structure, well, vessel, or site, including cables, pipelines, flow-lines, gas lift lines, umbilicals, manifolds, and moorings:
+    (iii) any other prescribed thing or class of thing used in connection with, prospecting or exploring for, or mining of, petroleum; but
+  (b) does not include—
+    (i) a well:
+    (ii) any unmoored ship:
+    (iii) any vehicle:
+    (iv) any other prescribed thing or class of thing.
+
+### 89G Conditions relating to decommissioning
+(1) This section applies—
+  (a) if the Minister, on or after commencement, grants a permit:
+  (b) if the Minister, on or after commencement, consents to the transfer of all or part of a participating interest in a permit under section 41 of this Act or consents to the transfer of a licence or all or part of a participating interest in a licence under the Petroleum Act 1937 (as preserved by clause 12(1)﻿(a) of Schedule 1 of this Act), as the case requires:
+  (c) at any time on or after commencement while a permit or licence (whenever granted) is in force.
+(2) The Minister may (on the grant of a permit, or on giving consent to the transfer of a licence or all or part of a participating interest in a permit or licence, or on giving consent to a change of control, or when agreeing or determining the amount or kind of financial security required, or when specifying a timetable for decommissioning, or if the permit or licence holder consents) impose or vary conditions on the permit or licence holder in relation to the decommissioning of petroleum infrastructure or a well.
+
+### 89H Meaning of relevant older petroleum infrastructure
+(1) In this subpart, relevant older petroleum infrastructure—
+  (a) means,—
+    (i) in relation to a current or former permit holder, petroleum infrastructure—
+      (A) put in place or used by a permit holder or licence holder (whether the current permit holder or a different permit holder or licence holder) under a permit that was exchanged for the current permit or the former permit under section 32 of this Act or otherwise exchanged on the same day (for example, as evidenced by any notation on a document linking an exploration permit to a current mining permit); and
+      (B) that was in place at the time the exchange occurred:
+    (ii) also, in relation to a current or former permit holder, petroleum infrastructure put in place or used by a permit holder or licence holder (whether the current permit holder or a different permit holder or licence holder)—
+      (A) in a part of the permit area or licence area of any former holder’s permit or licence that was subsequently relinquished or surrendered and included on the same day in the permit area of the current permit or included on the same day in a previous permit area or licence area and then subsequently included in the permit area of the current permit; or
+      (B) anywhere outside the permit area or licence area, but used solely to facilitate activities conducted in the permit or licence area to be relinquished or surrendered:
+    (iii) in relation to a current or former licence holder, petroleum infrastructure—
+      (A) put in place or used by a licence holder (whether the current licence holder or a different licence holder) under a licence that was exchanged for the current licence or the former licence under section 9(3) or sections 11 and 12, or any other relevant provisions, of the Petroleum Act 1937 (as they read at the time of the exchange) or otherwise exchanged on the same day; and
+      (B) that was in place at the time the exchange occurred:
+    (iv) also, in relation to a current or former licence holder, petroleum infrastructure put in place or used by a licence holder (whether the current licence holder or a different licence holder)—
+      (A) in a part of the licence area or licence area of any former licence holder that was subsequently surrendered and included on the same day in the licence area of the current licence or included on the same day in a previous licence area and then subsequently included in the licence area of the current licence; or
+      (B) anywhere outside the licence area, but used solely to facilitate activities conducted in the licence area to be surrendered:
+    (v) also includes any class, or item, of petroleum infrastructure declared by the regulations, in relation to a class of, or individual, permit or licence holders, to be relevant older petroleum infrastructure (irrespective of whether any of the preceding paragraphs apply to the class or item of petroleum infrastructure); but
+  (b) excludes any class, or item, of petroleum infrastructure declared by the regulations, in relation to a class of, or individual, current permit or licence holders, not to be relevant older petroleum infrastructure (irrespective of whether any of the preceding subparagraphs apply to the class or item of petroleum infrastructure).
+(2) In this section and section 89I,—
+  (a) any reference to a permit or a former permit includes a permit or former permit of any kind:
+  (b) any reference to a licence or former licence includes a licence or former licence of any kind.
+
+### 89I Meaning of relevant older well
+In this subpart, relevant older well—
+  (a) means,—
+    (i) in relation to a current or former permit holder, a well—
+      (A) drilled or used by a permit holder or licence holder (whether the current permit holder or a different permit holder or licence holder) under a permit or licence that was exchanged for the current permit under section 32 of this Act or otherwise exchanged on the same day (for example, as evidenced by any notation on a document linking an exploration permit to a mining permit); and
+      (B) that was in place at the time the exchange occurred:
+    (ii) also, in relation to a current or former permit holder, a well drilled or used by a permit holder or licence holder (whether the current permit holder or a different permit holder or licence holder)—
+      (A) in a part of the permit area or licence area of any former holder’s permit or licence that was subsequently relinquished or surrendered and included on the same day in a permit area of the current permit or included on the same day in a previous permit area or licence area and then subsequently included in the permit area of the current permit; or
+      (B) anywhere outside the permit area or licence area, but used solely to facilitate activities conducted in the permit or licence area to be relinquished or surrendered:
+    (iii) in relation to a current or former licence holder, a well—
+      (A) drilled or used by a licence holder (whether the current licence holder or a different licence holder) under a licence that was exchanged for the current licence under section 9(3) or sections 11 and 12, or any other relevant provisions, of the Petroleum Act 1937 (as they read at the time of the exchange) or otherwise exchanged on the same day; and
+      (B) that was in place at the time the exchange occurred:
+    (iv) also, in relation to a current or former licence holder, any well put in place or used by the current licence holder or a different licence holder—
+      (A) in a part of the licence area or licence area of any former holder’s licence that was subsequently surrendered and included on the same day in the licence area of the current licence or included on the same day in a previous licence area and then subsequently included in the licence area of the current licence; or
+      (B) anywhere outside the licence area, but used solely to facilitate activities conducted in the licence area to be surrendered:
+    (v) any well included in the permit area of a current licence or permit that was used to delineate or appraise a deposit or occurrence of petroleum that the current permit or licence relates to (whether that well was drilled under the current licence or permit or a former licence or permit):
+    (vi) also any class of well or individual well declared in the regulations, in relation to a class of, or individual, permit or licence holders, to be a relevant older well (irrespective of whether any of the preceding subparagraphs apply to the class of well or individual well); but
+  (b) excludes any class of well declared by the regulations, in relation to a class of current permit or licence holders, not to be a relevant older well (irrespective of whether any of the preceding subparagraphs apply to the class of well or individual well).
+
+**Decommissioning obligations for petroleum infrastructure**
+
+### 89J Obligations of permit holders, transferors, and transferees: decommissioning of petroleum infrastructure
+(1) A person who holds or will hold a permit at the time the obligation to decommission is required to be completed must carry out, and meet the costs of, the decommissioning of all petroleum infrastructure—
+  (a) put in place or used for the purposes of carrying out, or otherwise related to, activities authorised by the current permit (whenever granted), and all relevant older petroleum infrastructure; and
+  (b) in a case where only part of the permit area is to be relinquished or surrendered, located in the area of the permit that is to be relinquished or surrendered, and all relevant older petroleum infrastructure.
+(2) A person with a participating interest in a permit (whenever granted) who transfers all or any part of their participating interest in the permit on or after commencement, but before decommissioning is completed, must meet the costs of decommissioning all petroleum infrastructure—
+  (a) that is—
+    (i) put in place or used for the purposes of carrying out, or otherwise related to, activities authorised by the current permit:
+    (ii) relevant older petroleum infrastructure; and
+  (b) that is in place when consent to the transfer is given under section 41.
+(3) Subsection (2) does not apply in respect of all or any part of a participating interest in a permit that is transferred to the Minister.
+(4) A transfer of a participating interest in a permit is effective on and after the date of the Minister’s consent to that transfer under section 41.
+(5) Subsections (1), (2), and (4) are subject to sections 89L and 89M.
+
+### 89K Obligations of licence holders, transferors, and transferees: decommissioning of petroleum infrastructure
+(1) A person who holds or will hold a licence at the time the obligation to decommission is required to be completed must carry out, and meet the costs of, the decommissioning of all petroleum infrastructure—
+  (a) put in place or used for the purpose of carrying out, or otherwise related to, activities authorised by the current licence (whenever granted), and all relevant older petroleum infrastructure; and
+  (b) in a case where only part of the licence area is to be surrendered, located in the area of the licence that is to be surrendered, and all relevant older petroleum infrastructure.
+(2) A licence holder or any person with a participating interest in a licence who transfers the licence, or all or any part of their participating interest in the licence, on or after commencement but before decommissioning is completed must meet the costs of decommissioning all petroleum infrastructure—
+  (a) that is—
+    (i) put in place or used for the purposes of carrying out, or otherwise related to, activities authorised by the licence:
+    (ii) relevant older petroleum infrastructure; and
+  (b) that is in place when consent to the transfer is given under the Petroleum Act 1937 (as preserved by clause 12(1)﻿(a) of Schedule 1 of this Act).
+(3) Subsection (2) does not apply in respect of a licence, or all or any part of a participating interest in a licence, that is transferred to the Minister.
+(4) A transfer of a licence or a participating interest in a licence is effective on settlement of the agreement to transfer the licence or the interest in the licence.
+(5) Subsections (1), (2), and (4) are subject to sections 89L and 89M.
+
+### 89L Further obligations on transferors and transferees and Minister
+(1) This section applies to—
+  (a) a person (person A) who, on or after commencement, intends to transfer a licence or all or any part of a participating interest in a permit or a licence; and
+  (b) a person (person B) who intends to acquire, on or after commencement from person A, a licence or all or any part of a participating interest in a permit or licence; and
+  (c) the Minister.
+(2) Person A continues (to the extent provided in section 89M) to be liable for meeting the costs of decommissioning any petroleum infrastructure—
+  (a) that is—
+    (i) put in place or used for the purpose of carrying out, or otherwise related to, activities authorised by the permit or licence:
+    (ii) relevant older petroleum infrastructure; and
+  (b) that is in place when consent to the transfer is given under section 41 of this Act or under the Petroleum Act 1937 (as preserved by clause 12(1)﻿(a) of Schedule 1 of this Act), as the case requires.
+(3) The Minister, before consenting to the transfer of a licence or a participating interest in a permit or licence, must be satisfied that person B has, in accordance with the directions of the Minister,—
+  (a) entered into a financial security (with all the other persons with a participating interest in the licence or permit) that a permit holder or licence holder is required to obtain and maintain in accordance with sections 89ZL to 89ZR and within the time specified by the Minister; or
+  (b) become a party to an existing financial security (entered into by all the other persons with a participating interest in the licence or permit) that was entered into previously in accordance with those sections, and within the time specified by the Minister.
+(4) A financial security referred to in subsection (3) may also be designed and operate to satisfy the requirements of section 89T(3).
+(5) If person B fails to comply with subsection (3),—
+  (a) to the extent provided in section 89M, person A continues to be liable to meet the costs incurred in meeting the decommissioning obligations under this subpart in relation to the licence or participating interest in the licence or permit; and
+  (b) person A must be treated as continuing to be the holder of the licence or the participating interest in the permit or licence that was the subject of the transfer.
+
+### 89M Extent of liability of former permit and licence holders under sections 89J(2) and 89K(2)
+(1) One or more persons who are liable to meet the costs of decommissioning under section 89J(2) or 89K(2) are only liable to meet those costs if, or to the extent that, those costs are not met by the persons referred to in section 89J(1) or 89K(1).
+(2) Persons who are liable to meet the costs of decommissioning that are not met by the persons referred to in section 89J(1) or 89K(1) are liable, in the following order of priority, to meet those costs:
+  (a) the former licence or permit holder or person with a participating interest in a licence or permit (person B) who most recently transferred their licence or participating interest in the licence or permit to a person (person A) who is the current licence holder or a current holder of a participating interest in the permit or licence (as the case requires):
+  (b) if there are still any unpaid decommissioning costs, the person (person C) who most recently after person B transferred the licence or a participating interest in the licence or permit to another person (as the case requires):
+  (c) if there are still any unpaid decommissioning costs, the person (person D) who most recently after person C transferred the licence or a participating interest in the licence or permit to another person (as the case requires):
+  (d) if there are still any unpaid decommissioning costs, the person (person E) who most recently after person D transferred the licence or a participating interest in the licence or permit to another person (as the case requires):
+  (e) if there are still unpaid decommissioning costs, and there are still earlier former licence holders or former holders of a participating interest in a permit or licence, then those persons are liable, in an order of priority consistent with the formula in paragraphs (a) to (d), for the unpaid decommissioning costs.
+
+### 89N When decommissioning obligations of persons under section 89J, 89K, or 89L arise
+(1) Any person liable to carry out, or meet the costs of, decommissioning petroleum infrastructure, or both, under section 89J, 89K, or 89L, must carry out their obligations before the earliest of the following:
+  (a) in a case where production permanently ceases in the area of the current permit or licence before the permit or licence expires,—
+    (i) by a date or dates agreed with the Minister for the completion of the decommissioning and the completion of earlier milestones in the decommissioning process; or
+    (ii) if there is no such agreed date or dates, by a date that is 2 years before the expiry of the current licence or permit, by a date or dates specified by the Minister by notice in writing to the person:
+  (b) the expiry or surrender of the current permit or licence:
+  (c) in a case where only part of the current permit area or licence area is to be relinquished or surrendered, before the Minister approves the partial relinquishment or surrender of the permit under section 35C or 40 of this Act or the partial surrender of a licence under the Petroleum Act 1937 (as preserved under clause 12(a) of Schedule 1 of this Act):
+(2) However, if a permit or licence is revoked, the person who held the permit or licence immediately before it was revoked must carry out their decommissioning obligations under this subpart by a time agreed with, or specified by, the Minister.
+(3) To avoid doubt,—
+  (a) the obligations imposed by subsections (1) and (2) continue in force even if—
+    (i) the relevant permit or licence has expired or has been surrendered or revoked:
+    (ii) the relevant person has ceased to be a permit or licence holder or the holder of any participating interest in a licence or permit; and
+  (b) a person may carry out their obligations under subsections (1) and (2) even if their permit or licence has expired, or has been revoked, or, as the case requires, relinquished or surrendered.
+(4) A permit holder or licence holder also acts in breach of their decommissioning obligations if they—
+  (a) give notice under section 42C(3) (notice of cessation of production); but
+  (b) fail within a period after that notice agreed with the Minister, or in the event that there is no agreement, within a period after that notice specified by the Minister, to complete milestones agreed or specified under subsection (1)﻿(a) to decommission the petroleum infrastructure for which they will be responsible for decommissioning, or fail to obtain an extension to that date or those dates from the Minister.
+(5) A certificate issued by the chief executive as to the date when decommissioning obligations took effect under this section—
+  (a) must be given to the person who has those obligations as soon as practicable after they take effect; and
+  (b) is conclusive evidence in any proceedings under this Act, in the absence of proof to the contrary, of when those obligations took effect.
+
+### 89O Criteria for agreeing or setting time frames for decommissioning
+When considering under section 89N what date or dates for decommissioning are to be agreed, or specified, by the Minister, the Minister must consider—
+  (a) the size of the field to be decommissioned:
+  (b) the complexity of the required decommissioning:
+  (c) the subpart 2 decommissioning plan:
+  (d) the decommissioning cost estimate:
+  (e) the estimated date on which production in the field will cease:
+  (f) the time required to comply with requirements under other enactments before decommissioning can commence or be completed:
+  (g) any other matters the Minister considers relevant.
+
+### 89P Joint and several liability
+(1) Subsection (2) applies if section 89J applies and there is a permit holder who is 2 or more persons.
+(2) Each person to whom this subsection applies is jointly and severally liable to perform the obligations of the permit holder in carrying out, and meeting the costs of, decommissioning petroleum infrastructure.
+(3) Subsection (4) applies if section 89K applies and there is a licence holder who is 2 or more persons.
+(4) Each person to whom this subsection applies is jointly and severally liable to perform the obligations of the licence holder in relation to carrying out, and meeting the costs of, decommissioning petroleum infrastructure.
+
+**Plugging and abandonment of wells**
+
+### 89Q What is plugging and abandonment of well
+A well is plugged and abandoned when—
+  (a) the well is sealed in order to make it permanently inoperable; and
+  (b) the sealing is conducted in accordance with any relevant enactment or standard, and the requirements of any regulatory authority; and
+  (c) the wellhead is removed; and
+  (d) any remediation of the site required by another enactment is completed; and
+  (e) any other prescribed action required to plug and abandon the well is completed.
+
+**Decommissioning obligations in relation to wells**
+
+### 89R Obligations of permit holders, transferors, and transferees: decommissioning of wells
+(1) A person who holds or will hold a permit at the time the obligation to plug and abandon 1 or more wells is required to be completed must carry out, and meet the costs of, the plugging and abandoning of all wells—
+  (a) drilled or used for the purposes of carrying out, or otherwise related to, activities authorised by the current permit (whenever granted), and all relevant older wells; and
+  (b) in a case where only part of the permit area is to be relinquished or surrendered, located in the area of the permit that is to be relinquished or surrendered, and all relevant older wells.
+(2) A person with a participating interest in a permit (whenever granted) who transfers all or any part of their interest in the permit on or after commencement, but before decommissioning is completed, must meet the costs of plugging and abandoning all wells—
+  (a) that are—
+    (i) drilled or used for the purposes of carrying out, or otherwise related to, activities authorised by the current permit:
+    (ii) relevant older wells; and
+  (b) that are in place when consent to the transfer is given under section 41.
+(3) Subsection (2) does not apply in respect of all or any part of a participating interest in a permit that is transferred to the Minister.
+(4) A transfer of a participating interest in a permit is effective on and after the date of the Minister’s consent to that transfer under section 41.
+(5) Subsections (1) and (2) are subject to sections 89T and 89U.
+
+### 89S Obligations of licence holders, transferors, and transferees: decommissioning of wells
+(1) A person who holds or will hold a licence at the time the obligation to plug and abandon 1 or more wells is required to be completed must carry out, and meet the costs of, plugging and abandoning all wells—
+  (a) drilled or used for the purposes of, or otherwise related to, activities authorised by the current licence, and all relevant older wells; and
+  (b) in a case where only part of the licence area is to be surrendered, located in the area of the licence that is to be surrendered, and all relevant older wells.
+(2) A licence holder or person with a participating interest in a licence who transfers the licence, or all or any part of their participating interest in the licence, on or after commencement but before decommissioning is completed must meet the costs of plugging and abandoning all wells—
+  (a) that are—
+    (i) drilled or used for the purposes of carrying out activities authorised by, or otherwise related to, the licence:
+    (ii) relevant older wells; and
+  (b) that are in place when consent to the transfer is given under the Petroleum Act 1937 (as preserved by clause 12(1)﻿(a) of Schedule 1 of this Act).
+(3) Subsection (2) does not apply in respect of any licence or all or part of a participating interest in a licence that is transferred to the Minister.
+(4) A transfer of a licence or a participating interest in a licence is effective on settlement of the agreement to transfer the licence or the interest in the licence.
+(5) Subsections (1) and (2) are subject to sections 89T and 89U.
+
+### 89T Further obligations on transferors and transferees and Minister
+(1) This section applies to—
+  (a) a person (person A) who, on or after commencement, intends to transfer a licence or all or any part of a participating interest in a permit or a licence; and
+  (b) a person (person B) who intends to acquire, on or after commencement, from person A a licence or all or part of a participating interest in a permit or licence.
+(2) Person A continues (to the extent provided in section 89U) to be liable for meeting the costs of plugging and abandoning a well—
+  (a) that is—
+    (i) put in place or used for the purposes of carrying out, or otherwise related to, activities authorised by the permit or licence:
+    (ii) a relevant older well; and
+  (b) that is in place when the transfer is consented to under section 41 of this Act or under the Petroleum Act 1937 (as preserved by clause 12(1)﻿(a) of Schedule 1 of this Act), as the case requires.
+(3) The Minister, before consenting to the transfer of a licence or a participating interest in a permit or licence, must be satisfied that person B has, in accordance with the directions of the Minister,—
+  (a) entered into a financial security (with all the other persons with a participating interest in the licence or permit) that a permit holder or licence holder is required to obtain and maintain in accordance with sections 89ZL to 89ZR, and within the time specified by the Minister; or
+  (b) become a party to an existing financial security (entered into by all the other persons with a participating interest in the licence or permit) that was entered into previously in accordance with those sections, and within the time specified by the Minister.
+(4) A financial security referred to in subsection (3) may also be designed and operate to satisfy the requirements of section 89L(3).
+(5) If person B fails to comply with subsection (3),—
+  (a) to the extent provided in section 89U, person A continues to be liable to meet the costs incurred in meeting the decommissioning obligations under this subpart in relation to the licence or participating interest in the licence; and
+  (b) person A must be treated as continuing to be the holder of the licence or the participating interest in the permit or licence that was the subject of the transfer.
+
+### 89U Extent of liability of former permit and licence holders under sections 89R and 89S
+(1) One or more persons who are liable to meet the costs of plugging and abandonment under section 89R(2) or 89S(2) are only liable to meet those costs if, or to the extent that, those costs are not met by the persons referred to in section 89R(1) or 89S(1).
+(2) Persons who are liable to meet the costs of decommissioning that are not met by the persons referred to in section 89R(1) or 89S(1) are liable, in the following order of priority, to meet those costs:
+  (a) the former licence or permit holder or person with a participating interest in a licence or a permit (person B) who most recently transferred their licence or participating interest in the licence or permit to a person (person A) who is the current licence holder or a current holder of a participating interest in the permit or licence (as the case requires):
+  (b) if there are still any unpaid decommissioning costs, the person (person C) who most recently after person B transferred the licence or a participating interest in the licence or permit to another person (as the case requires):
+  (c) if there are still any unpaid decommissioning costs, the person (person D) who most recently after person C transferred the licence or a participating interest in the licence or permit to another person (as the case requires):
+  (d) if there are still any unpaid decommissioning costs, the person (person E) who most recently after person D transferred the licence or a participating interest in the licence or permit to another person (as the case requires):
+  (e) if there are still unpaid decommissioning costs, and there are still earlier former licence holders or former holders of a participating interest in a permit or licence, then those persons are liable, in an order of priority consistent with the formula in paragraphs (a) to (d), for the unpaid decommissioning costs.
+
+### 89V When decommissioning obligations of permit holders, licence holders, and other persons under section 89R, 89S, or 89T arise
+(1) A person liable to carry out, or meet costs of, plugging and abandoning wells, or both, under section 89R, 89S, or 89T must carry out their obligations before the earliest of the following:
+  (a) in a case where production permanently ceases in the area of the current permit or licence before the permit or licence expires,—
+    (i) by a date or dates agreed with the Minister for the completion of the decommissioning and the date or dates of completion of earlier milestones in the decommissioning process; or
+    (ii) if there is no such agreed date by the date or dates that is 2 years before the expiry of the current licence or permit, by a date or dates specified by the Minister by notice in writing to the person:
+  (b) the expiry or surrender of the current permit or licence:
+  (c) in a case where only part of the current permit area or licence area is to be relinquished or surrendered, before the Minister approves the partial relinquishment or surrender of the permit under section 35C or 40 of this Act or the partial surrender of a licence under the Petroleum Act 1937 (as preserved under clause 12(a) of Schedule 1 of this Act).
+(2) However, if a permit or licence is revoked, the person who held the permit or licence immediately before it was revoked must carry out their decommissioning obligations under this subpart by a time agreed with, or specified by, the Minister.
+(3) To avoid doubt, the obligations imposed by subsections (1) and (2) continue in force even if—
+  (a) the relevant permit or licence has expired or has been surrendered or revoked:
+  (b) the relevant person has ceased to be a permit or licence holder or the holder of any participating interest in a licence or permit.
+(4) A permit holder or licence holder also acts in breach of their decommissioning obligations if they—
+  (a) give notice under section 42C(3) (notice of cessation of production); but
+  (b) fail within a period after that notice agreed with the Minister, or in the event that there is no agreement, within a period after that notice specified by the Minister, to complete milestones agreed or specified under subsection (1)﻿(a) to plug and abandon the well or wells for which they will be responsible for decommissioning, or fail to obtain an extension to that date or those dates from the Minister.
+(5) A certificate issued by the chief executive as to the date when decommissioning obligations took effect under this section—
+  (a) must be given to the person who has those obligations as soon as practicable after they take effect; and
+  (b) is conclusive evidence, in any proceedings under this Act, in the absence of proof to the contrary, of when those obligations took effect.
+
+### 89W Criteria for agreeing or setting time frames for decommissioning of wells
+When considering under section 89V what date or dates for decommissioning are to be agreed, or specified, by the Minister, the Minister must consider—
+  (a) the size of the field to be decommissioned:
+  (b) the complexity of the required decommissioning:
+  (c) the subpart 2 decommissioning plan:
+  (d) the decommissioning cost estimate:
+  (e) the estimated date on which production in the field will cease:
+  (f) the time required to comply with requirements under other enactments before decommissioning can commence or be completed:
+  (g) any other matters the Minister considers relevant.
+
+### 89X Joint and several liability
+(1) Subsection (2) applies if section 89R applies and there is a permit holder who is 2 or more persons.
+(2) Each person to whom this subsection applies is jointly and severally liable to comply with and perform the obligations of the permit holder in relation to carrying out, and meeting the costs of, plugging and abandoning wells.
+(3) Subsection (4) applies if section 89S applies and there is a licence holder who is 2 or more persons.
+(4) Each person to whom this subsection applies is jointly and severally liable to perform the obligations of the licence holder in relation to carrying out, and meeting the costs of, plugging and abandoning wells.
+
+**Exemptions and deferrals**
+
+### 89Y Exemption and deferral powers of Minister
+(1) The Minister may, on application or on their own initiative, and if they consider it appropriate,—
+  (a) exempt a permit holder or licence holder from the requirements of this subpart to decommission a particular item of petroleum infrastructure or to plug and abandon a particular well; or
+  (b) defer the time for complying with an obligation to decommission a particular item of petroleum infrastructure or to plug and abandon a particular well.
+(2) The Minister may—
+  (a) grant an exemption or a deferral on any terms and conditions that they consider appropriate:
+  (b) amend or revoke an exemption or a deferral:
+  (c) grant an exemption for an indefinite or a limited period:
+  (d) replace an exemption or a deferral either before or when it expires.
+(3) An application under subsection (1) must be made in the prescribed manner (if any) and be accompanied by the prescribed fee (if any).
+(4) If the Minister grants an exemption or a deferral under this section, the Minister must provide the licence holder or permit holder with reasons for their decision and state them in the notice of exemption or deferral.
+(5) Class exemptions and class deferrals may be granted by regulations (see section 105).
+
+### 89Z Criteria for granting exemption
+(1) Before granting an exemption under section 89Y, the Minister must—
+  (a) be satisfied—
+    (i) that the requirements are unreasonable or inappropriate in the particular case; or
+    (ii) that events have occurred that make the requirements unnecessary or inappropriate in the particular case; or
+  (b) be satisfied that the petroleum infrastructure or well in question will be used for a purpose other than exploration for, or mining of, petroleum by the person to be granted the exemption.
+(2) For the purposes of applying subsection (1)﻿(b), the Minister may consider the following matters:
+  (a) the ownership of the petroleum infrastructure or well in question:
+  (b) any prescribed criteria:
+  (c) any other matter the Minister considers relevant.
+
+### 89ZA Criteria for grant of deferral
+(1) Before granting a deferral under section 89Y, the Minister must be satisfied that it is appropriate in the circumstances to defer the obligation to meet the requirements to a later date in the particular case.
+(2) For the purposes of applying subsection (1), the Minister must consider—
+  (a) whether there is economic value to the owners of the petroleum infrastructure or well in deferring the decommissioning of that petroleum infrastructure or plugging and abandoning that well:
+  (b) the impact of failing to grant a deferral on the operation of associated petroleum infrastructure and wells:
+  (c) any plans for field development:
+  (d) the likelihood of an increase or a decrease in the costs of decommissioning during any deferral period, and the extent of that increase, so far as it can be estimated:
+  (e) any other matter the Minister considers relevant.
+
+**Reporting requirements**
+
+### 89ZB Subpart 2 decommissioning plan
+(1) A person who is, or will be, obliged, under this subpart, to carry out and meet the costs of decommissioning must submit a subpart 2 decommissioning plan to the chief executive—
+  (a) at the prescribed times (if any); and
+  (b) within a specified time of the occurrence of prescribed events (if any); and
+  (c) on request from the Minister, within any reasonable time specified in the request.
+(2) The subpart 2 decommissioning plan must—
+  (a) describe the planned decommissioning activities and the processes to be used to carry out those activities, and set out a proposed schedule for those activities; and
+  (b) be accurate as at the date of submission to the chief executive; and
+  (c) contain the prescribed information (if any); and
+  (d) meet any further prescribed requirements.
+
+### 89ZC Decommissioning cost estimate
+(1) A person who is, or will be, obliged, under this subpart, to carry out and meet the costs of decommissioning must submit a cost estimate of all anticipated decommissioning work (a decommissioning cost estimate) to the chief executive—
+  (a) at the prescribed times (if any); and
+  (b) within a specified time of the occurrence of prescribed events (if any); and
+  (c) on request from the Minister, within any reasonable time specified in the request.
+(2) The decommissioning cost estimate must—
+  (a) comply with the standards prescribed (if any) for developing that estimate; and
+  (b) meet any further prescribed requirements.
+(3) The Minister may require any person who submits a cost estimate under subsection (1) to supply further information relating to the cost estimate within a time specified by the Minister.
+
+### 89ZD Asset registers to be submitted to chief executive
+(1) A permit holder or licence holder who is obliged, under this subpart, to carry out and meet the costs of decommissioning (A) must submit an asset register to the chief executive—
+  (a) at the prescribed times (if any); and
+  (b) within a specified time of the occurrence of prescribed events (if any); and
+  (c) on request from the Minister, within any reasonable time specified in the request.
+(2) The asset register must—
+  (a) be a complete and accurate list of the petroleum infrastructure and wells that A must decommission under sections 89J, 89K, 89R, and 89S; and
+  (b) contain the prescribed information (if any); and
+  (c) meet any further prescribed requirements.
+
+### 89ZE Decommissioning completion report
+(1) A person who is obliged, under this subpart, to carry out and meet the costs of decommissioning must submit a decommissioning completion report to the chief executive—
+  (a) at the prescribed times (if any); and
+  (b) within a specified time of the occurrence of prescribed events (if any); and
+  (c) on request from the Minister, within any reasonable time specified in the request.
+(2) The decommissioning completion report must—
+  (a) contain the prescribed information (if any); and
+  (b) meet any further prescribed requirements.
+
+**Ongoing monitoring of financial position**
+
+### 89ZF Permit and licence holders must provide information needed to monitor financial position
+(1) A permit holder or licence holder (A) who is, or will be, obliged, under this subpart, to carry out and meet the costs of decommissioning must keep a record of any information prescribed by regulations as relevant and reasonably necessary to enable the Minister to monitor A’s financial position (including in relation to financial securities).
+(2) A must submit a copy of the information to the Minister—
+  (a) at the prescribed times (if any); or
+  (b) on request from the Minister, within any reasonable time specified in the request.
+(3) The Minister may, by written notice, require the person to provide any further information that the Minister considers relevant and reasonably necessary.
+(4) The person must provide a copy of the information to the Minister—
+  (a) in the form and in the manner set out in the notice; and
+  (b) within any reasonable time specified in the notice requiring the information.
+
+**Financial capability assessments**
+
+### 89ZG Minister may assess financial capability to meet decommissioning obligations
+(1) This section applies to a permit holder or licence holder (A) who is, or will be, obliged, under this subpart, to carry out and meet the costs of decommissioning.
+(2) The Minister may carry out an assessment to determine whether A is highly likely to have the financial capability to carry out and meet the costs of decommissioning (a financial capability assessment).
+(3) The Minister may carry out a financial capability assessment at any time while the relevant permit or licence is in force.
+(4) The Minister may appoint any suitably qualified person to carry out a financial capability assessment on their behalf.
+
+### 89ZH Criteria for considering whether to carry out financial capability assessment
+When considering whether to carry out a financial capability assessment under section 89ZG, the Minister may take into account—
+  (a) information received under the following:
+    (i) section 42B (field development plan):
+    (ii) section 89ZB (decommissioning plan):
+    (iii) section 89ZC (decommissioning cost estimate):
+    (iv) section 89ZD (asset register):
+    (v) section 89ZF (information needed to monitor financial position); and
+  (b) the circumstances of the particular permit holder or licence holder; and
+  (c) any information relating to current or emerging risks to the permit holder’s or licence holder’s ability to comply with their obligations under this subpart; and
+  (d) any other matters the Minister considers relevant.
+
+### 89ZI Process for carrying out financial capability assessment
+When carrying out a financial capability assessment under section 89ZG, the Minister—
+  (a) may take into account information received under the following:
+    (i) section 42B (field development plan):
+    (ii) section 89ZB (subpart 2 decommissioning plan):
+    (iii) section 89ZC (decommissioning cost estimate):
+    (iv) section 89ZD (asset register):
+    (v) section 89ZF (information needed to monitor financial performance); and
+  (b) may take into account any other information the Minister considers relevant; and
+  (c) must meet the prescribed requirements (if any).
+
+### 89ZJ Minister must notify outcome of financial capability assessment
+As soon as practicable after a financial capability assessment under section 89ZG is completed, the Minister must notify the permit holder or licence holder of—
+  (a) the Minister’s conclusion as to whether they are highly likely to have the financial capability to carry out and meet the costs of decommissioning; and
+  (b) the reasons for that conclusion.
+
+### 89ZK Relevant persons must provide supporting information
+(1) This section applies to—
+  (a) a permit holder or licence holder who may be subject to a financial capability assessment under section 89ZG; and
+  (b) any other person the Minister considers is likely to hold information that is relevant and reasonably necessary to carry out the financial capability assessment (for example, parent companies, banks, or auditors).
+(2) The person must keep a record of any information prescribed by regulations as relevant and reasonably necessary to enable the Minister to carry out a financial capability assessment.
+(3) The person must provide a copy of the information to the Minister—
+  (a) on or before the prescribed time (if any); or
+  (b) on request from the Minister, within any reasonable time specified in the request.
+(4) The Minister may, by written notice, require the person to provide any further information that the Minister considers relevant and reasonably necessary to carry out the financial capability assessment.
+(5) The person must provide a copy of the information to the Minister—
+  (a) in the form and in the manner set out in the notice; and
+  (b) within any reasonable time specified in the notice requiring the information.
+(6) To avoid doubt, information gathered under this section is subject to section 90A (disclosure of information).
+
+**Financial securities**
+
+### 89ZL Permit and licence holders must hold 1 or more financial securities
+(1) A person who holds a permit or a licence (whenever granted) must obtain and maintain 1 or more financial securities, of a kind, and in an amount, determined by the Minister under section 89ZN(1), as security for the performance of their obligations under this subpart in the event that the permit holder or licence holder fails to carry out, or separately meet the costs of, the decommissioning.
+(2) The Minister must, as soon as is reasonably practicable after commencement, give each permit holder or licence holder a notice requiring them—
+  (a) to advise the chief executive in the prescribed manner (if any), by a specified date, of the kind of security, and the proposed amount to be secured, that the permit holder or licence holder considers appropriate; and
+  (b) to provide any information specified by the Minister to enable the Minister to make decisions on those matters.
+(3) However, if the permit or licence holder already maintains a financial security of the kind referred to in subsection (1) when they receive notice under subsection (2), they may propose that the Minister approve the continuation of that security (with or without modifications) as the Minister’s determination under subsection (1).
+(4) The permit holder must provide the information referred to in subsection (2)﻿(b) and any proposal under subsection (3)—
+  (a) in the form and manner set out in the notice; and
+  (b) within any reasonable time set out in the notice requiring the information.
+(5) Any financial security referred to in this section is obtained or maintained on behalf of the Crown.
+(6) To avoid doubt, information gathered under this section is subject to section 90A (disclosure of information).
+
+### 89ZM Matters to which Minister must have regard in setting kind and amount of security
+(1) The Minister must, when determining the amount to be secured and the kind of security to be obtained by a permit holder or licence holder, take into account—
+  (a) the information (if any) provided by the permit holder or licence holder under section 89ZL(2)﻿(b) and any proposal under section 89ZL(3):
+  (b) the prescribed criteria (if any) relating to particular kinds and amounts of financial security (including any prescribed hierarchy of securities and whether there is a preferred kind of security in the particular situation):
+  (c) the following:
+    (i) the estimated cost of decommissioning:
+    (ii) the extent to which the amount to be secured will cover the estimated cost of decommissioning:
+    (iii) the extent to which the kind of security to be required will ensure that the Crown will obtain payment of the amount in the event the permit holder or licence holder fails to carry out the decommissioning or separately meet those costs:
+  (d) the circumstances of the particular permit holder or licence holder:
+  (e) the time needed for the particular permit holder or licence holder to comply with their obligations under this subpart, and the time when work will need to start in order to achieve this:
+  (f) the estimated administration costs to the particular permit holder or licence holder of meeting and maintaining the security for the required period (including the costs of maintaining any possible increase in the amount required to be secured while the security is in place):
+  (g) any information relating to current or emerging risks to the permit holder’s or licence holder’s ability to comply with their obligations under this subpart:
+  (h) the conclusions of the most recent financial capability assessment (if any):
+  (i) any other matters the Minister considers relevant.
+(2) The Minister may require a permit holder or licence holder to give the Minister any information that the Minister considers will assist them in determining what kind of financial security should be obtained and the amount to be secured.
+(3) The permit holder or licence holder must provide the information—
+  (a) in the form and in the manner set out in the notice; and
+  (b) within any reasonable time specified in the notice requiring the information.
+
+### 89ZN Decision of Minister
+(1) The Minister, after following the processes set out in sections 89ZL and 89ZM, must—
+  (a) determine—
+    (i) the kind of security to be obtained, or entered into, by the permit holder or licence holder; and
+    (ii) the amount to be secured; and
+  (b) impose any conditions of the financial security that the Minister considers appropriate.
+(2) Before making a determination under subsection (1), the Minister must be satisfied that it complies with the prescribed criteria (if any) relating to particular kinds and amounts of financial security to be obtained and maintained.
+(3) The Minister may also direct how the security must be held, in accordance with the prescribed requirements (if any).
+(4) If the security required is in the form of a bond or a cash deposit paid to the chief executive,—
+  (a) if the security relates to a participating interest in a permit, section 97 (except subsection (4)) applies:
+  (b) if the security relates to a licence or a participating interest in a licence, section 47H of the Petroleum Act 1937 (as preserved by clause 12(1)﻿(a) of Schedule 1 of this Act) applies.
+(5) If the security required is in the form of a bond or cash or a cash deposit held either in accordance with section 97 or separately by a third party (for example, in an escrow account), the permit holder or licence holder may, with the consent of the Minister, use a part or all of those amounts to carry out the decommissioning to which that security relates.
+(6) The Minister must give the permit holder or licence holder a notice of the Minister’s decision specifying—
+  (a) the kind of financial security to be obtained:
+  (b) the amount to be secured:
+  (c) the time by which it must be obtained:
+  (d) if applicable, how it is to be held:
+  (e) a summary of the reasons for the Minister’s decision.
+
+### 89ZO Alteration of amount secured or kind of security required
+(1) The Minister may, at any time,—
+  (a) require a permit holder or licence holder referred to in section 89ZL(1) to increase the amount for which security is held:
+  (b) allow a permit holder or licence holder referred to in section 89ZL(1) to reduce the amount for which security is held:
+  (c) require the permit holder or licence holder referred to in section 89ZL(1) to alter the kind of security that is held.
+(2) When exercising a power conferred by subsection (1), the Minister must take into account the matters referred to in section 89ZM(1)﻿(b) to (j).
+
+### 89ZP Minister must notify required changes in kind of security or amount secured
+(1) The Minister must, after exercising a power under section 89ZO(1)﻿(a), (b), or (c), give the affected permit holder or licence holder written notice of the required or permitted changes to the kind of security to be obtained and maintained or the amount secured and, in a case where section 89ZO(1)﻿(a) or (c) applies, the time by which the permit holder or licence holder must do this.
+(2) The notice must be accompanied by reasons for the required change.
+
+### 89ZQ Permit holder or licence holder may object to kind of security or amount set or required change to those matters
+(1) A permit holder or licence holder who receives written notice under section 89ZN(4) or 89ZP(1) may within 30 working days of receiving that notice object to the required security or the required change, as the case requires, by notice in writing to the Minister.
+(2) A notice of objection under subsection (1) must be accompanied by reasons for, and evidence or other information supporting, the objection and refer to the criteria in section 89ZM that the objector considers relevant.
+(3) If a permit holder or licence holder makes an objection under subsection (1), they cannot make any subsequent objection to the required security or required change described in the notice unless there is a change in circumstances.
+
+### 89ZR What happens if permit holder or licence holder makes objection
+(1) If a permit holder or licence holder makes an objection under section 89ZQ, the Minister must—
+  (a) give the permit holder or licence holder an opportunity to be heard; and
+  (b) consider and determine the objection within a reasonable time after its receipt.
+(2) The Minister must—
+  (a) dismiss the objection; or
+  (b) uphold the objection in whole or in part.
+(3) Not later than 30 working days after deciding whether to uphold an objection, the Minister must send to the permit holder or licence holder—
+  (a) a copy of the decision, which must include the reasons for the decision; and
+  (b) written notice of any required or permitted changes to the kind of security to be obtained and maintained or the amount secured, as the case requires; and
+  (c) if paragraph (b) applies, and the changes are required changes, the time by which the permit holder or licence holder must comply with the changes referred to in paragraph (b).
+
+### Subpart 4 — Enforcement, remedies, and appeals
+
+### 89ZZC Application of this subpart
+This subpart applies in relation to any contravention or alleged contravention of this Act or the regulations.
+
+### 89ZZD Chief executive or enforcement officer may accept enforceable undertakings
+(1) The chief executive or an enforcement officer may accept an enforceable undertaking given by a person in writing in connection with a matter relating to a contravention or an alleged contravention by the person of this Act or the regulations.
+(2) The giving of an enforceable undertaking does not constitute an admission of guilt by the person giving it in relation to the contravention or alleged contravention to which the undertaking relates.
+
+### 89ZZE Notice of decision and reasons for decision
+The chief executive or enforcement officer must give the person seeking to make an enforceable undertaking written notice of—
+  (a) their decision to accept or reject the undertaking; and
+  (b) the reasons for the decision.
+
+### 89ZZF When enforceable undertaking is enforceable
+An enforceable undertaking takes effect and becomes enforceable when the chief executive’s or enforcement officer’s decision to accept the undertaking is given to the person who made the undertaking, or at any later date specified by the chief executive or enforcement officer.
+
+### 89ZZG Compliance with enforceable undertaking
+(1) A person must not contravene an enforceable undertaking given by that person that is in force.
+(2) A person who contravenes subsection (1) commits an offence and is liable on conviction to a fine not exceeding $200,000.
+
+### 89ZZH Contravention of enforceable undertaking
+(1) The chief executive or an enforcement officer may apply to the District Court for an order referred to in subsection (2) if a person contravenes an enforceable undertaking.
+(2) If the court is satisfied that the person who made the enforceable undertaking has contravened the undertaking, the court may make either or both of the following orders:
+  (a) an order directing the person to comply with the undertaking:
+  (b) an order discharging the undertaking.
+(3) In addition to the orders referred to in subsection (2), the court may make any other order that the court considers appropriate in the circumstances, including orders directing the person to pay the department that, with the authority of the Prime Minister, is responsible for the administration of this Act—
+  (a) the costs of the proceedings; and
+  (b) the reasonable costs of the chief executive or the enforcement officer in monitoring compliance with the enforceable undertaking in the future.
+(4) This section does not prevent proceedings being brought for the contravention or alleged contravention of this Act or regulations to which the enforceable undertaking relates.
+
+### 89ZZI Withdrawal or variation of enforceable undertaking
+(1) A person who has given an enforceable undertaking may at any time, with the written agreement of the chief executive,—
+  (a) withdraw the undertaking; or
+  (b) vary the undertaking.
+(2) However, the provisions of the undertaking cannot be varied to provide for a different alleged contravention of this Act or regulations.
+
+### 89ZZJ Proceedings for alleged contravention
+(1) Subject to this section, no proceedings (whether civil or criminal) for a contravention or an alleged contravention of this Act or regulations may be brought against a person if an enforceable undertaking is in effect in relation to that contravention.
+(2) No proceedings may be brought for a contravention or an alleged contravention of this Act or regulations against a person who—
+  (a) has made an enforceable undertaking in relation to that contravention; and
+  (b) has completely discharged the enforceable undertaking.
+(3) The chief executive or an enforcement officer may accept an enforceable undertaking in relation to a contravention or an alleged contravention before proceedings in relation to that contravention have been completed.
+(4) If the chief executive or an enforcement officer accepts an enforceable undertaking before the proceedings are completed, the chief executive or an enforcement officer must take all reasonable steps to have the proceedings discontinued as soon as practicable.
+
+**Compliance notices**
+
+### 89ZZK Power to issue compliance notices
+(1) This section applies if the chief executive or an enforcement officer reasonably believes that a person—
+  (a) is contravening a provision of this Act or the regulations; or
+  (b) is likely to contravene a provision of this Act or the regulations.
+(2) The chief executive or enforcement officer may issue a compliance notice requiring the person to—
+  (a) remedy the contravention; or
+  (b) prevent a likely contravention from occurring; or
+  (c) remedy the things or activities causing the contravention or likely to cause a contravention.
+(3) The chief executive or enforcement officer may issue a compliance notice only, if in the opinion of the chief executive or enforcement officer,—
+  (a) the contravention or likely contravention is or would be sufficiently serious to justify the issue of a compliance notice; or
+  (b) there has been a repeated contravention or a repetition of behaviour that is likely to lead to a contravention occurring; or
+  (c) the contravention or behaviour likely to lead to a contravention has been committed intentionally or recklessly or involves negligence on the person’s part.
+(4) However, each of the criteria specified in subsection (3)﻿(a) to (c) may be considered on the basis of the information readily available to the chief executive or enforcement officer, and the chief executive or enforcement officer need not make further enquiries before applying those criteria.
+
+### 89ZZL Content of compliance notices
+(1) A compliance notice must state—
+  (a) that the chief executive or an enforcement officer believes, on reasonable grounds, that the person—
+    (i) is contravening a provision of this Act or the regulations; or
+    (ii) is likely to contravene a provision of this Act or the regulations; and
+  (b) the provision the chief executive or enforcement officer believes, on reasonable grounds, is being, or is likely to be, contravened; and
+  (c) briefly, how the provision is being, or is likely to be, contravened; and
+  (d) a period within which the person is required to remedy—
+    (i) the contravention or likely contravention; or
+    (ii) the things or activities causing the contravention or likely to cause a contravention.
+(2) A compliance notice may include recommendations concerning—
+  (a) the measures that could be taken to remedy the contravention, or prevent the likely contravention, to which the notice relates:
+  (b) the things or activities causing the contravention, or likely to cause a contravention, to which the notice relates.
+
+### 89ZZM Compliance with compliance notice
+(1) A person who has been issued with a compliance notice must comply with the notice within the period specified in the notice.
+(2) A person who contravenes subsection (1) commits an offence and is liable, on conviction, to a fine not exceeding $200,000.
+(3) However, in a prosecution for an offence against subsection (2), the defendant has a defence if they prove that they had a reasonable excuse for failing to comply with the compliance notice within the required period.
+(4) It is not an offence to fail to comply with recommendations in a compliance notice.
+
+### 89ZZN Extension of time for compliance with compliance notices
+(1) This section applies if a person has been issued with a compliance notice.
+(2) The chief executive or enforcement officer may, on their own initiative or on the application of the person, by written notice given to the person, extend the compliance period for the compliance notice.
+(3) However, the chief executive or enforcement officer may extend the compliance period only if the period has not ended.
+(4) If a person applies for an extension of time for complying with a compliance notice not less than 2 weeks before the time for compliance expires but a decision has not been made on the application before the time for compliance expires, the period for compliance is deemed to be extended for a period of 2 weeks, to enable a decision on extension to be made within that period.
+(5) In this section, compliance period—
+  (a) means the period stated in the compliance notice under section 89ZZL(1); and
+  (b) includes any extension of that period under this section.
+
+**General provisions**
+
+### 89ZZO General provisions relating to compliance notices
+(1) A compliance notice must be in writing.
+(2) A compliance notice may be addressed to any person under the person’s legal name or usual business name.
+
+### 89ZZP Changes to notice by chief executive or enforcement officer
+The chief executive or an enforcement officer (as the case may be) may make minor changes to a compliance notice—
+  (a) for clarification; or
+  (b) to correct errors or references; or
+  (c) to reflect changes of address or other circumstances.
+
+### 89ZZQ Chief executive or enforcement officer may vary or cancel compliance notice
+Except as provided in section 89ZZP, a compliance notice issued by the chief executive or an enforcement officer may be varied or cancelled only by the chief executive or the enforcement officer.
+
+### 89ZZR Formal irregularities or defects in compliance notice
+A compliance notice is not invalid merely because of—
+  (a) any defect, irregularity, omission, or want of form in the compliance notice unless the defect, irregularity, omission, or want of form causes or is likely to cause a miscarriage of justice; or
+  (b) a failure to use the correct name of the person to whom the compliance notice is issued if the notice sufficiently identifies the person and is issued to the person in accordance with section 89ZZS.
+
+### 89ZZS Issue of compliance notice
+(1) A compliance notice may be issued to a person by—
+  (a) delivering it to the person or, if the person refuses to accept it, bringing it to the person’s notice; or
+  (b) leaving it for the person at the person’s last known place of residence with another person who appears to be of or over the age of 16 years; or
+  (c) leaving it for the person at the person’s place of business or work with another person; or
+  (d) sending it to the person by prepaid post addressed to the person’s last known place of residence or place of business or work; or
+  (e) sending it to an electronic address of the person in any case where the person does not have a known place of residence or business in New Zealand.
+(2) Regulations may prescribe the steps a person to whom a compliance notice is issued must take to bring it to the attention of other persons.
+(3) A compliance notice—
+  (a) posted under subsection (1)﻿(d) is to be treated as having been received by the person on the fifth working day after the day on which it was posted:
+  (b) delivered electronically under subsection (1)﻿(e) is to be treated as having been received at the time the electronic communication first entered an information system that is outside the control of the chief executive or an enforcement officer.
+
+**Civil proceedings for non-compliance with compliance notices**
+
+### 89ZZT Civil proceedings relating to non-compliance with compliance notice
+(1) On an application by the chief executive or an enforcement officer, the District Court may make an order—
+  (a) compelling a person to comply with a compliance notice; or
+  (b) restraining a person from contravening a compliance notice.
+(2) The court may make an order—
+  (a) under subsection (1)﻿(a), if it is satisfied that the person has refused or failed to comply with a compliance notice:
+  (b) under subsection (1)﻿(b), if it is satisfied that the person has contravened, is contravening, or is likely to contravene a compliance notice.
+(3) The courts may make an order under subsection (2) whether or not proceedings have been brought for an offence against this Act or regulations in connection with any matter in relation to which the compliance notice was issued.
+
+**Pecuniary penalties**
+
+### 89ZZU Reasonable mistake defence in pecuniary penalty proceedings
+(1) Every person has a defence to proceedings for pecuniary penalties under section 89ZZV, in connection with a breach of this Act, if the person proves that—
+  (a) the breach was due to a reasonable mistake or due to events outside of the person’s control; and
+  (b) the breach was remedied (to the extent that it could be remedied) as soon as practicable after the breach was discovered by the person or brought to the person’s notice; and
+  (c) the person has compensated or offered to compensate any person who has suffered loss or damage by that breach.
+(2) For the avoidance of doubt, a mistake does not include a mistake of law or a mistake in the interpretation of any enactment or of any document.
+
+### 89ZZV Pecuniary penalties
+(1) A court of competent jurisdiction may, on the application of the chief executive, order a person to pay to the Crown the pecuniary penalty that the court determines to be appropriate if the court is satisfied that the person—
+  (a) has contravened any of the following provisions:
+    (i) sections 89J and 89K (which require the decommissioning of petroleum infrastructure):
+    (ii) sections 89R and 89S (which require the plugging and abandoning of wells):
+    (iii) section 89ZL (which requires the establishment and maintenance of an adequate financial security):
+    (iv) section 89ZV (which requires the making of post-decommissioning payments or the taking out of a financial security):
+  (b) has attempted to contravene such a provision; or
+  (c) has aided, abetted, counselled, or procured any other person to contravene such a provision; or
+  (d) has induced, or attempted to induce, any other person, whether by threats or promises or otherwise, to contravene such a provision; or
+  (e) has been in any way, directly or indirectly, knowingly concerned in, or party to, the contravention by any other person of such a provision; or
+  (f) has conspired with any other person to contravene such a provision.
+(2) In determining an appropriate penalty under this section, the court must have regard to all relevant matters, in particular,—
+  (a) the nature and extent of the contravention; and
+  (b) the nature and extent of any loss or damage suffered by any person because of the contravention; and
+  (c) any gains made or losses avoided by the person in contravention; and
+  (d) the circumstances in which the contravention took place (including whether the contravention was intentional, inadvertent, or caused by negligence).
+(3) The amount of any pecuniary penalty must not, in respect of each act or omission, exceed,—
+  (a) in the case of an individual, $500,000; or
+  (b) in the case of a body corporate, the greater of—
+    (i) $10 million (or, in the case of a contravention referred to in subsection (1)﻿(a)﻿(iv), $5 million); or
+    (ii) either—
+      (A) if it can readily be ascertained and if the court is satisfied that the contravention resulted in a cost to the Crown or another person to remedy the effects of the contravention, 3 times the commercial gain; or
+      (B) if the commercial gain cannot be readily ascertained, 10% of the turnover of the person and all its interconnected bodies corporate (if any) in each accounting period during which the contravention occurred.
+(4) Proceedings under this section may be commenced within 3 years after the matter giving rise to the contravention was discovered or ought reasonably to have been discovered.
+(5) Where conduct by any person constitutes a contravention of 2 or more provisions referred to in subsection (1)﻿(a), proceedings may be instituted under this Act against that person in relation to the contravention of any 1 or more of the provisions; but no person is liable to more than 1 pecuniary penalty under this section in respect of the same conduct.
+
+### 89ZZW Proceedings for pecuniary penalties
+In any proceedings under this subpart for a pecuniary penalty,—
+  (a) the standard of proof is the standard of proof that applies in civil proceedings; and
+  (b) the chief executive may, by order of the court, obtain discovery and administer interrogatories.
+
+**Criminal liability for knowingly failing to carry out certain obligations**
+
+### 89ZZX Criminal liability for knowingly failing to carry out certain obligations
+(1) This section applies to a person (A) if A is liable for 1 or more of the following (A’s decommissioning obligations):
+  (a) carrying out or meeting the costs (or both) of decommissioning petroleum infrastructure under section 89J or 89K by the time A is required to do so under section 89N:
+  (b) carrying out or meeting the costs (or both) of plugging and abandoning wells under section 89R or 89S by the time A is required to do so under section 89V.
+(2) A commits an offence if they do an act, fail to act, or engage in a course of conduct knowing that the act, failure to act, or course of conduct will result in A not being able to meet A’s decommissioning obligations.
+(3) If A is a permit holder or licence holder that is a body corporate who, during the period while they are a current permit or licence holder commits an offence under subsection (2), any person who is a director of A when A commits the offence also commits an offence.
+(4) If A is a body corporate who commits an offence under subsection (2) in relation to decommissioning obligations under section 89N(2) or 89V(2) (which impose decommissioning obligations when a permit or licence is revoked), any person who is a director of A when A commits the offence also commits an offence).
+(5) A person who commits an offence under this section is liable on conviction,—
+  (a) in the case of an individual, to imprisonment for a term not exceeding 2 years, or a fine not exceeding $1 million, or both; and
+  (b) in any other case, the greater of the following:
+    (i) a fine not exceeding $10 million:
+    (ii) a fine not exceeding 3 times the cost of decommissioning.
+(6) Proceedings under this section may be commenced within 3 years after the matter giving rise to the offence was discovered or ought reasonably to have been discovered.
+
+### 89ZZY Defence to criminal liability for directors
+(1) In any proceeding against a director under section 89ZZX(3), it is a defence if the director proves that—
+  (a) A took all reasonable steps to ensure A would meet A’s decommissioning obligations; or
+  (b) the director took all reasonable steps to ensure that A would meet A’s decommissioning obligations; or
+  (c) in the circumstances, the director could not reasonably have been expected to take steps to ensure that A would meet A’s decommissioning obligations.
+(2) In this section,—
+  - **A** has the meaning set out in section 89ZZX
+  - **A’s decommissioning obligations** has the meaning set out in section 89ZZX.
+
+**Relationship between pecuniary penalties and criminal liability**
+
+### 89ZZZ Relationship between pecuniary penalties and criminal liability
+(1) A criminal proceeding for an offence may be commenced against a person in relation to particular conduct whether or not a proceeding for a pecuniary penalty has been commenced against the person in relation to the same conduct.
+(2) A proceeding for a pecuniary penalty against a person in relation to particular conduct is stayed if a criminal proceeding against the person for that conduct results in a conviction.
+
+**Restrictions on indemnities and insurance**
+
+### 89ZZZA Restriction on indemnities
+(1) A body corporate must not indemnify any director, employee, or agent, or former director, employee, or agent, of the body corporate or of any related body corporate (person C) in respect of—
+  (a) any pecuniary penalty imposed on person C under this Act; or
+  (b) any costs incurred by person C in defending any civil proceedings in which the pecuniary penalty referred to in paragraph (a) is imposed.
+(2) An indemnity given in contravention of subsection (1) is void.
+(3) In this section and section 89ZZZB, indemnify includes relieve or excuse from liability, whether before or after the liability arises, and indemnity has a corresponding meaning.
+
+### 89ZZZB Restriction on insurance
+No person may enter into a contract of insurance that indemnifies or purports to indemnify a person (person C) in respect of—
+  (a) any pecuniary penalty imposed on person C under this Act; or
+  (b) any costs incurred by person C in defending any civil proceedings in which the pecuniary penalty referred to in paragraph (a) is imposed.
+
+### Subpart 5 — Crown liability
+
+### 89ZZZC Effects of subparts 2 and 3 on Crown liability
+(1) Subparts 2 and 3 of this Part (which deal with decommissioning and post-decommissioning obligations) do not require the Crown to undertake or pay for the decommissioning of petroleum infrastructure or wells or post-decommissioning work.
+(2) Subsection (1) does not extinguish or otherwise affect any liability the Crown may have under any other enactment, rule of law, or agreement.
+
+### Subpart 6 — Offences and miscellaneous
+
 **Registers, records, and use of information**
 
 ### 90 Permit holder records and reports
-(1) Each permit holder must keep detailed records and reports in respect of all prospecting, exploration, and mining activities conducted by or on behalf of the permit holder—
+(1) Each permit holder must keep detailed records and reports in respect of all prospecting, exploration, mining, decommissioning activities, and post-decommissioning activities conducted by or on behalf of the permit holder—
   (a) in accordance with the conditions of the permit and the regulations; and
   (b) in a form that is readily accessible at all reasonable times by the chief executive or any person authorised in writing by the chief executive.
+(1A) Without limiting the generality of subsection (1), the records and reports required to be kept include—
+  (a) financial records, including any financial records required to be kept and retained under the Tax Administration Act 1994:
+  (b) commercial records, including any feasibility studies:
+  (c) scientific and technical records:
+  (d) any calculations made in support of the above records:
+  (e) records, reports, statements, or any other documentation or information required under other legislation, if regulations made under this Act prescribe that they must be retained for the purposes of this Act:
+  (f) any other records or reports prescribed by regulations.
 (2) Each permit holder must provide to the chief executive, in accordance with the conditions of the permit and the regulations, a copy of the records and reports required to be kept under subsection (1) and, on the expiry of whichever of the periods referred to in subsection (6) first occurs, the chief executive must send a copy of those records and reports to the person designated by the Minister for the purposes of this subsection.
 (3) If requested by the chief executive to do so, a permit holder must provide to the chief executive—
   (a) a copy of any report made by or for the permit holder in respect of any activities under the permit:
@@ -1432,17 +2224,21 @@ No person entitled to exercise a right of access by virtue of an access arrangem
   (a) the expiry of 15 years from the date on which the information was obtained by the permit holder:
   (b) the conclusion of a public tender process for exploration permits to the extent that the information relates to land to which the public tender relates, except if the public tender process concludes earlier than 5 years from the date on which the information was obtained by the permit holder, in which case, the expiry of the 5 years.
 (8) Despite subsection (7), all information provided under subsections (1) to (3) to the chief executive by a non-exclusive petroleum prospecting permit holder who is determined to be a speculative prospector under section 90C must be made available by the chief executive to any person who requests it on or after the expiry of 15 years after the date on which the information was obtained by the permit holder.
+(8A) The chief executive may, but is not required to, publish on an Internet site maintained by the chief executive or in any other way the chief executive considers appropriate all or any of the information supplied under this section, at any time after the information is required to be made available under any of subsections (6) to (8).
 (9) The Minister, the chief executive, or an enforcement officer may use information supplied under this section at any time before or after the information is required to be made available under any of subsections (6) to (8) for the purpose of exercising any power or performing any function conferred on the person by or under this Act.
-(10) Section 90A applies to any information that, because of its use in accordance with subsection (9), is disclosed.
-(11) Nothing in this section requires the chief executive to send or make available any records, reports, information, or returns relating to the calculation and payment of royalties by permit holders.
+(10) Section 90A applies to any information that, because of its use in accordance with subsection (8A) or (9), is disclosed.
+(11) Nothing in this section requires the chief executive to send, make available, publish, or otherwise disclose any records, reports, information, or returns—
+  (a) under sections 42B, 42C, 89ZF, 89ZK, 89ZB, 89ZC, 89ZD, 89ZE, 89ZL, 89ZM, 89ZY, and 89ZZ:
+  (b) relating to the calculation and payment of royalties by permit holders.
 
 ### 90A Disclosure of information
-(1) The Minister, an appropriate Minister, the chief executive, or any enforcement officer must not disclose any information provided under or for the purposes of any of sections 23A, 24, 32, 33A to 33D, 35, 35A, 36 to 38, 41 to 41C, 42, 42A, 46, 61, 61B, 61C, 90, 99E, and 99F unless—
+(1) The Minister, an appropriate Minister, the chief executive, or any enforcement officer must not disclose any information provided under or for the purposes of any of sections 23A, 24, 32, 33A to 33D, 35, 35A, 36 to 38, 41 to 41C, 42, 42B, 42C, 46, 61, 61B, 61C, 89ZC, 89ZD, 89ZE, 89ZF, 89ZL, 89ZM, 89ZY, 89ZZ, 89ZZH, 90, 99E, and 99F unless—
   (a) the disclosure is for the purposes of, or in connection with, the performance or exercise of any function, duty, or power conferred or imposed by or under this Act on the Minister, the chief executive, or any enforcement officer; or
   (b) the information is publicly available; or
   (c) the disclosure is with the consent of the person to whom the information relates, or to whom the information is confidential; or
   (d) the disclosure is in connection with proceedings, or any investigation or inquiry for proceedings, for an offence against this Act or any other enactment; or
   (e) disclosure is required by another enactment; or
+  (ea) disclosure is authorised under section 90(8A); or
   (f) disclosure is required by a court of competent jurisdiction; or
   (g) the information is disclosed to a regulatory agency under section 90E.
 (2) Any information that is disclosed under subsection (1)﻿(a) for the purposes of, or in connection with, the Minister's function of attracting permit applications under section 5(a) must be disclosed only to external advisers to the Minister.
@@ -1562,10 +2358,13 @@ Sections 352 and 353 of the Resource Management Act 1991, with the necessary mod
 ### 97 Application of monetary deposits
 (1) Subject to subsections (2) and (4), Part 7 of the Public Finance Act 1989 shall apply in respect of all money paid to the chief executive in respect of any monetary deposit or bond required or permitted under this Part.
 (2) Any money paid to the chief executive by a person in accordance with this section, together with any accrued interest thereon, may be applied by the Minister, as he or she thinks fit, in or towards the payment of any money payable by the person to the Crown in relation to the permit concerned or in relation to any other permit held by that person.
-(3) Subject to subsection (2), a permit holder shall, during the currency of a permit in respect of which money is held by the chief executive, be entitled to receive all interest from time to time earned on the money while it is held by the chief executive.
-(4) On the termination or transfer of any permit in respect of which money is held by the chief executive the following provisions shall apply:
+(3) Subject to subsections (2) and (5), a permit holder shall, during the currency of a permit in respect of which money is held by the chief executive, be entitled to receive all interest from time to time earned on the money while it is held by the chief executive.
+(4) Subject to subsection (5), on the termination or transfer of any permit in respect of which money is held by the chief executive the following provisions shall apply:
   (a) if the permit holder has substantially complied with the conditions of the permit throughout its currency, he or she shall be entitled to a refund of the deposit, together with all accrued interest thereon, less any amount that has been applied by the Minister in accordance with subsection (2):
   (b) if, in the opinion of the Minister, the permit holder has failed to comply substantially with the conditions of his or her permit, the Minister may direct that the full deposit or such part of it as he or she thinks fit shall be paid into the Departmental Bank Account in respect of outstanding fees, or into a Crown Bank Account in respect of other payments outstanding (including interest payable under section 99J); and in any such case the balance (if any) of the deposit shall be refunded to the permit holder.
+(5) In the case of any monetary deposit or bond held by the chief executive under a financial security required under section 89ZL, the provisions of subsections (3) and (4) apply subject to the following modifications:
+  (a) the funds held by the chief executive must not be released until any required decommissioning is completed, unless they are released under section 89ZN(5):
+  (b) any interest to be paid to the permit holder must be repaid in 1 lump sum at the time when the principal sum deposited by the permit holder under section 89ZL is refunded.
 
 ### 97A Chief executive may prescribe form of certain documents
 (1) The chief executive may prescribe—
@@ -1614,7 +2413,7 @@ Sections 352 and 353 of the Resource Management Act 1991, with the necessary mod
 (5) A person who provides assistance under subsection (4) may exercise the powers provided to enforcement officers under subsection (1).
 
 ### 99C Application for warrant for entry to search
-(1) An issuing officer (within the meaning of section 3(1) of the Search and Surveillance Act 2012) may issue a warrant authorising the entry and search of any place or vehicle if, on an application made in the manner provided in subpart 3 of Part 4 of that Act, he or she is satisfied that there are reasonable grounds for believing that there is in, on, under, or over any place or vehicle anything—
+(1) An issuing officer (within the meaning of section 3(1) of the Search and Surveillance Act 2012) may issue a warrant authorising the entry and search of any place, structure, vehicle, or ship if, on an application made in the manner provided in subpart 3 of Part 4 of that Act, he or she is satisfied that there are reasonable grounds for believing that there is in, on, under, or over any place, structure, vehicle, or ship anything—
   (a) in respect of which an offence has been or is suspected of having been committed against this Act or the regulations; or
   (b) that will be evidence of an offence against this Act or the regulations; or
   (c) that is intended to be used for the purpose of committing an offence against this Act or the regulations.
@@ -1728,7 +2527,8 @@ Every permit holder must—
   (a) section 33, which relates to compliance with permit holder responsibilities:
   (b) section 49(5), which relates to entering land and carrying out an activity other than minimum impact activity:
   (c) section 77, which relates to contravening the conditions of a right of access:
-  (d) section 94, which relates to persons administering this Act holding a pecuniary interest in a mining permit.
+  (d) section 94, which relates to persons administering this Act holding a pecuniary interest in a mining permit:
+  (e) section 99F, which relates to providing certain information to the Minister, the chief executive, or an enforcement officer.
 (2A) Every person commits an offence against this Act who contravenes, or permits a contravention of,—
   (a) section 41AB(2) (which relates to obtaining prior consent for a change of control of a permit operator of a Tier 1 permit) if, before the power referred to in section 41AA(1) is obtained, the person knows, or ought reasonably to know, that the person will obtain the power; or
   (b) section 41AB(4) (which relates to notifying the Minister of a change of control of a permit operator of a Tier 1 permit); or
@@ -1736,6 +2536,10 @@ Every permit holder must—
 (3) Every person commits an offence against this Act who wilfully obstructs, hinders, resists, or deceives any person in the execution of any powers conferred on that person by or under this Act.
 (3A) Every person commits an offence against this Act who knowingly provides altered, false, incomplete, or misleading information (including royalty returns) to the chief executive or any other person in respect of a matter or thing under this Act or the regulations.
 (4) Despite anything to the contrary in section 25 of the Criminal Procedure Act 2011, the limitation period in respect of an offence against subsection (1) ends on the date that is 12 months after the date on which the contravention giving rise to the charge first became known, or should have become known, to the Secretary.
+(5) If an enforceable undertaking has been given, criminal proceedings may be taken for an offence within 6 months after—
+  (a) the enforceable undertaking is contravened; or
+  (b) it comes to the notice of the regulator that the enforceable undertaking has been contravened; or
+  (c) the chief executive agreed to the withdrawal of the enforceable undertaking.
 
 ### 101 Penalties
 (1) Every person who commits an offence against section 100(1) is liable on conviction to imprisonment for a term not exceeding 2 years or a fine not exceeding $400,000, and, if the offence is a continuing one, to a further fine not exceeding $20,000 for every day or part of a day during which the offence continues.
@@ -1760,7 +2564,6 @@ In sections 101B and 101C,—
     (b) within the exclusive economic zone; or
     (c) on or above the continental shelf
   - **permitted prospecting, exploration, or mining activity** means an activity authorised under a prospecting, exploration, or mining permit
-  - **ship** has the same meaning as in section 2(1) of the Maritime Transport Act 1994
   - **specified non-interference zone** means a zone specified by the chief executive in accordance with section 101B(6) to (8)
   - **structure** —
     (a) means any fixed, moveable, or floating structure or installation; and
@@ -1839,11 +2642,81 @@ In sections 101B and 101C,—
 (2) All fees payable under this Act or the regulations must be paid into a Departmental Bank Account, and all other money payable to the Crown under this Act, or the regulations, or under any permit granted under this Act, must be paid into a Crown Bank Account.
 (3) To avoid doubt, any interest payable on fees must be paid into a Crown Bank Account.
 
+### 104A Interpretation
+In this Act,—
+  - **infringement fee** , in relation to an infringement offence, means the infringement fee for the offence prescribed in the regulations
+  - **infringement offence** means an offence in the regulations that is prescribed as an infringement offence against the regulations.
+
+### 104B Infringement offences
+(1) A person who is alleged to have committed an infringement offence may—
+  (a) be proceeded against by the filing of a charging document under section 14 of the Criminal Procedure Act 2011; or
+  (b) be issued with an infringement notice under section 104D.
+(2) Proceedings commenced in the way described in subsection (1)﻿(a) do not require the leave of a District Court Judge or Registrar under section 21(1)﻿(a) of the Summary Proceedings Act 1957.
+(3) See section 21 of the Summary Proceedings Act 1957 for the procedure that applies if an infringement notice is issued.
+
+### 104C Who may issue infringement notices
+The chief executive may, in writing, authorise an enforcement officer to issue infringement notices under this Act.
+
+### 104D When infringement notice may be issued
+The chief executive or an enforcement officer may issue an infringement notice to a person if the chief executive or enforcement officer believes on reasonable grounds that the person is committing, or has committed, an infringement offence.
+
+### 104E Revocation of infringement notice before payment made
+(1) The chief executive or an enforcement officer may revoke an infringement notice before—
+  (a) the infringement fee is paid; or
+  (b) an order for payment of a fine is made or deemed to be made by a court under section 21 of the Summary Proceedings Act 1957.
+(2) The chief executive or enforcement officer must take reasonable steps to ensure that the person to whom the notice was issued is made aware of the revocation of the notice.
+(3) The revocation of an infringement notice before the infringement fee is paid is not a bar to any further action as described in section 104B(1)﻿(a) or (b) against the person to whom the notice was issued in respect of the same matter.
+
+### 104F What infringement notice must contain
+An infringement notice must be in the form prescribed in the regulations and must contain the following particulars:
+  (a) details of the alleged infringement offence that fairly inform a person of the time, place, and nature of the alleged offence:
+  (b) the amount of the infringement fee:
+  (c) the address of the [place where the infringement notice may be paid]:
+  (d) how the infringement fee may be paid:
+  (e) the time within which the infringement fee must be paid:
+  (f) a summary of the provisions of section 21(10) of the Summary Proceedings Act 1957:
+  (g) a statement that the person served with the notice has a right to request a hearing:
+  (h) a statement of what will happen if the person served with the notice neither pays the infringement fee nor requests a hearing:
+  (i) any other matters prescribed in the regulations.
+
+### 104G How infringement notice may be issued to person
+(1) An infringement notice may be issued to a person who the chief executive or enforcement officer believes is committing or has committed the infringement offence by—
+  (a) delivering it to the person or, if the person refuses to accept it, bringing it to the person’s notice; or
+  (b) leaving it for the person at the person’s last known place of residence with another person who appears to be of or over the age of 16 years; or
+  (c) leaving it for the person at the person’s place of business or work with another person; or
+  (d) sending it to the person by prepaid post addressed to the person’s last known place of residence or place of business or work; or
+  (e) sending it to an electronic address of the person in any case where the person does not have a known place of residence or business in New Zealand.
+(2) Unless the contrary is shown,—
+  (a) an infringement notice (or a copy of it) sent by prepaid post to a person under subsection (1) is to be treated as having been served on that person on the fifth working day after the date on which it was posted; and
+  (b) an infringement notice sent to a valid electronic address is to be treated as having been served at the time the electronic communication first entered an information system that is outside the control of the chief executive or enforcement officer.
+
+### 104H Payment of infringement fees
+All infringement fees paid for infringement offences must be paid into a Crown Bank Account.
+
+### 104I Reminder notices
+A reminder notice must be in the form prescribed in the regulations and must include the same particulars, or substantially the same particulars, as the infringement notice.
+
+### 104J Regulations
+Regulations may be made under section 105—
+  (a) prescribing infringement offences by—
+    (i) prescribing a duty, restriction, or prohibition for conduct that is similar to conduct, or similar to an element of conduct, for which there is a duty, restriction, or prohibition under any provision of this Act or regulations; and
+    (ii) providing that a contravention of the duty, restriction, or prohibition is an infringement offence:
+  (b) prescribing for those infringement offences—
+    (i) fines not exceeding—
+      (A) $2,000 for an individual:
+      (B) $6,000 in any other case:
+    (ii) infringement fees not exceeding—
+      (A) $1,000 for an individual:
+      (B) $3,000 in any other case.
+
+### 104K Relationship between infringement offences and other offences
+A person may be prosecuted or convicted of any offence referred to in the Act (rather than proceeding under sections 104A to 104I), even if their conduct is, or may be, an infringement offence.
+
 **Regulations**
 
 ### 105 Regulations
 (1) The Governor-General may from time to time, by Order in Council, make regulations for all or any of the following purposes:
-  (a) prescribing the form or content of applications, permits, notices, reports, or any other documentation or information required under this Act, and the manner in which such documentation or information is to be provided:
+  (a) prescribing the form or content of applications, permits, notices, reports, or any other documentation or information required under this Act, and the manner in which such documentation or information is to be provided (including electronically):
   (b) prescribing the information to be provided with applications for permits:
   (c) prescribing conditions on which permits may be applied for, granted, changed, or extended:
   (ca) specifying for the purposes of section 33C the kind or class of permits for which an annual report of the permit holder's engagement with iwi affected by the permit must be provided to the Minister:
@@ -1852,6 +2725,11 @@ In sections 101B and 101C,—
   (e) prescribing the manner in which persons wishing to apply for permits in respect of any land are to mark out or identify the land and prescribing a graticular system for the purpose of defining areas or parts of areas comprised in permits, applications for permits, or extensions of permits:
   (f) prescribing registers to be kept under this Act, the form of such registers, the matters to be entered therein, and the means by which entries shall be verified:
   (g) providing for the keeping and provision of records, reports, information, and returns by permit holders for any purpose under this Act, and prescribing the nature of the records, reports, information, and returns, and the form, manner, and times in or at which they shall be kept or provided:
+  (gaa) prescribing the records, statements, or any other documentation or information required under other legislation that must be retained for the purposes of this Act:
+  (gab) prescribing matters for the purposes of section 42B (field development plans), section 42C (notice of expected cessation and nature of cessation), and section 89ZD (asset registers):
+  (gac) prescribing requirements in relation to the subpart 2 decommissioning plan submitted under section 89ZB:
+  (gad) prescribing matters for the purposes of sections 89ZC (decommissioning cost estimate), 89ZE (decommissioning completion report), and 89ZF (provision of information needed to monitor financial position):
+  (gae) prescribing the standard or requirements that a decommissioning cost estimate submitted under section 89ZC must meet:
   (ga) prescribing the information that must be provided under section 90B and the form, manner, and times in or at which that information must be provided:
   (gb) prescribing the form, manner, and times in or at which the chief executive may publish any or all of the information that must be provided under section 90B:
   (h) providing for the keeping by a holder of a permit of cores, specimens, or samples obtained in the course of activities carried out under the permit and for the examination, taking, and retention of such cores, specimens, or samples by authorised persons:
@@ -1864,9 +2742,41 @@ In sections 101B and 101C,—
   (o) generally regulating activities carried out under permits:
   (p) providing for the exemption of permit holders, either wholly or partially, and either absolutely or conditionally, from any of the conditions of their permits or from the provisions of any regulations for the time being in force under this Act:
   (q) the prevention of the waste or loss of petroleum:
+  (qa) regulating the decommissioning of petroleum infrastructure and the plugging and abandonment of wells:
+  (qb) exempting specified classes of permit holders or licence holders from the obligation to decommission specified classes of petroleum infrastructure, or to plug and abandon specified classes of wells, or both, or deferring any or all of those obligations:
+  (qc) declaring petroleum infrastructure and classes or items of petroleum infrastructure to be or not to be, as the case requires, relevant older petroleum infrastructure:
+  (qd) declaring an individual well or class of wells to be, or not to be, as the case requires, to be a relevant older well or relevant older wells:
+  (qe) requiring permit holders and licence holders to notify the chief executive of the likely date on which production will cease at any well, or in any field, at specified times:
+  (qf) regulating the making of payments for post-decommissioning work, the establishment and operation of accounts into which those payments are deposited, and the use of, and accounting for, funds in those accounts:
+  (qg) exempting specified classes of permit holders or licence holders from the obligation to make post-decommissioning payments under section 89ZV (either in whole or in part):
+  (qh) prescribing requirements in relation to the ongoing monitoring of a permit or licence holder’s financial position and assessing their financial capability under sections 89ZF to 89ZK:
+  (qi) regulating the setting, obtaining and maintaining of financial securities that permit holders and licence holders may be required to obtain and maintain, which may include, without limitation,—
+    (i) setting criteria that the Minister must consider under section 89ZM(1)﻿(b) when deciding the kinds and amounts of financial security to be required:
+    (ii) specifying matters to be considered by the Minister when determining the amounts that are required to be secured (including 1 or more formulas or other methods of calculating those amounts):
+    (iii) prescribing circumstances in which certain kinds of securities will or will not be permitted:
+    (iv) requiring certain kinds of financial securities to be held in specified situations:
+    (v) setting a hierarchy of preferred financial securities, which may differ in different circumstances:
+    (vi) specifying how certain financial securities must be held:
+    (vii) setting time frames for the obtaining and maintaining of all or part of a required security:
+    (viii) prescribing the manner in which information is to be supplied for the purposes of section 89ZL(2):
+    (ix) enabling the Minister to determine any other specified matter in connection with financial securities:
+  (qj) specifying the maximum amount or a scale of maximum amounts to be secured by financial securities that permit holders and licence holders may be required to obtain and maintain:
+  (qk) regulating the setting and use of post-decommissioning payments, including, without limitation,—
+    (i) specifying criteria for calculating the amount of post-decommissioning payments that permit holders and licence holders are required to make:
+    (ii) setting time frames for making payments in 1 lump sum or by instalments:
+    (iii) setting criteria to be applied in determining whether post-decommissioning payments are to be made in a lump sum or by instalments:
+    (iv) setting criteria to be applied in determining whether to grant exemptions from post-decommissioning payments:
+    (v) providing for refunds of all or part of a post-decommissioning payment in specified circumstances:
+    (vi) setting restrictions on the use of post-decommissioning payments or post-decommissioning payments of a specified class:
+  (ql) regulating the setting, obtaining and maintaining of financial securities that persons with post-decommissioning obligations under section 89ZV or 89ZW may be required to obtain and maintain:
+  (qm) prescribing matters for the purposes of section 89ZZS:
   (r) providing for such matters as are contemplated by or necessary for giving full effect to this Act and for its due administration.
 (2) Any regulations made under this section may provide for different regulations to apply in respect of different classes of permits, permit holders, or activities or in respect of the same class of permits, permit holders, or activities, in different circumstances.
 (3) Any regulations made under this section may apply generally throughout New Zealand or within any specified part or parts thereof. All regulations made under this section shall, unless otherwise specified in the regulations, apply generally throughout New Zealand and the continental shelf.
+(3A) Regulations made under this section may apply in relation to licences, licence holders, and holders of a participating interest in a licence, or any class of licence or those persons, in so far as the regulations relate to subparts 2 and 3 of Part 1B or any other provision of this Act specified in the regulations.
+(3B) Regulations made under subsection (1)﻿(qb) subsection (1)﻿(qb), (qc), or (qd) (which relates to class exemptions) may only provide for exemptions—
+  (a) that the Minister is satisfied are exemptions from requirements that are unreasonable or inappropriate for the exempted class of persons to comply with; or
+  (b) if the Minister is satisfied that events have occurred that make the requirements unnecessary or inappropriate for the exempted class of persons to comply with.
 (4) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 105A Regulations relating to royalties
@@ -2298,6 +3208,37 @@ Nothing in section 17 or 18 of this Act applies to any change to a minerals prog
   - **change of control** means a change of control (within the meaning of section 41A(1) and (8) of this Act (as in force immediately before commencement)
   - **commencement** means the commencement of the Crown Minerals Amendment Act 2019
   - **transaction** means a contract or an arrangement that has or will have the effect of a corporate body undergoing a change of control.
+
+### Part 4 — Provisions relating to Crown Minerals (Decommissioning and Other Matters) Amendment Act 2021
+
+### 32 Consequential amendments to minerals programmes
+Nothing in section 17 or 18 of this Act applies to any change to a minerals programme if the change that is made is consequential to the amendments made to this Act by the Crown Minerals (Decommissioning and Other Matters) Amendment Act 2021 (including any change to remove inconsistencies between the minerals programme and this Act as amended).
+
+### 33 Specific proceedings unaffected
+To avoid doubt,—
+  (a) the decision of the High Court in the proceedings between Greymouth Gas Turangi Limited and the Minister of Energy and Resources (CIV-2018-485-237) is binding on the parties for the purposes of the matters at issue in those proceedings; and
+  (b) the Act, as it was in force on 6 March 2018, continues to apply for the purpose of giving effect to that decision, notwithstanding the commencement of the Crown Minerals (Decommissioning and Other Matters) Amendment Act 2021 (other than this clause).
+
+### 34 Existing applications determined in accordance with Act as amended
+(1) Any application that was lodged or submitted, but not determined, before the day after the date on which the Crown Minerals (Decommissioning and Other Matters) Amendment Act 2021 (the Amendment Act) received the Royal assent must be determined in accordance with this Act as in force on the day after the date on which the Amendment Act received the Royal assent.
+(2) Subclause (1) applies despite anything to the contrary in this Act.
+(3) In this clause, application means—
+  (a) an application under section 23A (application for permits); and
+  (b) an application under section 24 (allocation by public tender); and
+  (c) an application under section 41 (transfer of interest in permit); and
+  (d) an application under section 41AB (change of control of permit operator of Tier 1 permit); and
+  (e) an application under section 41C (change of permit operator).
+
+### 35 Section 13 of Petroleum Act 1937 amended (Term of mining licence)
+Section 13(3) of the Petroleum Act 1937 (as preserved by clause 12(1)﻿(a) of Schedule 1) must be applied as if there were inserted the following paragraph:
+  (d) may be extended under this paragraph by the Minister for such period as the Minister considers reasonable, to enable the licensee to comply with their decommissioning obligations under subpart 2 of Part 1B of the Crown Minerals Act 1991.
+
+### 36 Power of Minister to extend licence
+If clause 35 does not apply but a current licence holder has or will have decommissioning obligations under subpart 2 of Part 1B of the Crown Minerals Act 1991, the Minister may extend the licence for such period as the Minister considers reasonable, to enable the licensee to comply with their decommissioning obligations under subpart 2 of Part 1B of the Crown Minerals Act 1991.
+
+### 37 Section 34 of Petroleum Act 1937
+(1) Section 34(1) to (3) of the Petroleum Act 1937 ceases to have any effect (including for transitional purposes) on the day on which the Crown Minerals (Decommissioning and Other Matters) Amendment Act 2021 receives the Royal assent.
+(2) On and after commencement, no further consent may be given in reliance on section 37(4) of the Petroleum Act 1937.
 
 ## Schedule 2 — Regulations revoked
 
