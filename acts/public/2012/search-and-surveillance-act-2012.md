@@ -1,5 +1,5 @@
 # Search and Surveillance Act 2012
-_Consolidation as at 2021-11-15_
+_Consolidation as at 2021-12-02_
 
 ### 1 Title
 This Act is the Search and Surveillance Act 2012.
@@ -3620,7 +3620,7 @@ Until the commencement date (within the meaning of section 394 of the Criminal P
 |  | 127 | Applications for warrants under sections 124 to 126 | All (except subpart 6) |
 |  | 146 | High Court may declare the nature, extent, and value of any person's interest in property specified in a foreign forfeiture order | All (except subpart 6) |
 | Crown Minerals Act 1991 | 99B | Enforcement officer authorised by Minister may inspect place or structure (other than dwellinghouse or marae) to determine whether permit, Crown Minerals Act 1991, or regulations made under that Act being complied with. | All (except sections 118 and 119) |
-|  | 99C | Constable or enforcement officer authorised by Minister may obtain and execute search warrant to enter and search place or vehicle for evidence of offence against Crown Minerals Act 1991 or regulations made under that Act. | All (except sections 118 and 119 in the case of an enforcement officer) |
+|  | 99C | Constable or enforcement officer authorised by Minister may obtain and execute search warrant to enter and search place, structure, vehicle, or ship for evidence of offence against Crown Minerals Act 1991 or regulations made under that Act. | All (except sections 118 and 119 in the case of an enforcement officer) |
 | Customs and Excise Act 2018 | 191(1)﻿(f) | Customs officer may board and search craft if officer has reasonable cause to suspect craft is involved in offence against Customs and Excise Act 2018 or is transporting dutiable, uncustomed, prohibited, or forfeited goods | Subparts 1, 2, and 4 to 10 (except that sections 125(4), 131(5)﻿(f), and 133 and subparts 6 and 8 do not apply to forfeited goods) |
 |  | 210(3)﻿(a) | Customs officer or constable may search person if officer or constable has reasonable cause to suspect that certain items are hidden on or about that person | Subparts 1, 2, and 4 to 10 (except that sections 125(4), 131(5)﻿(f), and 133 and subparts 6 and 8 do not apply to forfeited goods) |
 |  | 210(3)﻿(b) | Customs officer or constable may search person if officer or constable has reasonable cause to suspect that dangerous items posing threat to safety are on or about that person | Subparts 1, 2, and 4 to 10 (except that sections 125(4), 131(5)﻿(f), and 133 and subparts 6 and 8 do not apply to forfeited goods) |
