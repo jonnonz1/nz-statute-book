@@ -1,5 +1,5 @@
 # COVID-19 Public Health Response Act 2020
-_Consolidation as at 2021-11-26_
+_Consolidation as at 2021-12-04_
 
 ### 1 Title
 This Act is the COVID-19 Public Health Response Act 2020.
@@ -51,6 +51,7 @@ The purpose of this Act is to support a public health response to COVID-19 that�
     (c) a constable:
     (d) in relation to any function or power, a person authorised to perform that function or power under section 18 or a person in a class of persons authorised to perform that function or power under section 18
   - **exempt person** means a person who has been granted a COVID-19 vaccination exemption
+  - **infringement fee** , in relation to an infringement offence, means the infringement fee for the offence specified in section 26(4)﻿(a) or prescribed by regulations
   - **infringement offence** means an infringement offence against section 26(3)
   - **managed isolation or quarantine facility** or means a facility that is designated by the New Zealand Government for use as a place of isolation or quarantine
   - **Minister** means,—
@@ -173,7 +174,7 @@ The Director-General may make a COVID-19 order in accordance with the following 
     (iii) providing for the issue, renewal, and extension of COVID-19 vaccination certificates by the Director-General or by the use of automated electronic systems (which certificates are to be treated as if they were issued, renewed, or extended by the Director-General):
     (iv) providing for the form and content of COVID-19 vaccination certificates to be determined by the Director-General:
     (v) specifying the period for which COVID-19 vaccination certificates are valid, or the conditions under which COVID-19 vaccination certificates may expire.
-(2) [Not in force]
+(2) An order made by the Minister may specify which breaches of an order made by the Minister or the Director-General are infringement offences for the purposes of section 26(3), and may specify that a breach of an order is a particular class of infringement offence (with the corresponding penalties) for the purposes of regulations made under section 33(1)﻿(b).
 (3) For the purposes of this section and section 12, things includes animals, goods, businesses, records, equipment, and supplies.
 (4) All goods prohibited from import under a COVID-19 order are deemed to be included among goods prohibited from import under section 96 of the Customs and Excise Act 2018, and the provisions of that Act apply to those goods accordingly.
 (5) A COVID-19 order made under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
@@ -429,7 +430,13 @@ A direction under this subpart may be given verbally or in writing.
 (3) A person commits an infringement offence if the person—
   (a) does anything specified as an infringement offence in this Act or a COVID-19 order; or
   (b) breaches a rule made under section 32Q.
-(4) [Not in force]
+(4) A person who commits an infringement offence is liable to—
+  (a) an infringement fee of,—
+    (i) for an individual, $4,000 or any lesser or equal amount prescribed by regulations made under section 33; or
+    (ii) for any other person, $12,000 or any lesser or equal amount prescribed by the regulations; or
+  (b) a fine imposed by a court not exceeding,—
+    (i) for an individual, $12,000 or any lesser or equal amount prescribed by the regulations; or
+    (ii) for any other person, $15,000 or any lesser or equal amount prescribed by the regulations.
 
 ### 27 Offences relating to exercise of enforcement powers
 (1) A person commits an offence if the person obstructs or intentionally threatens, assaults, or hinders an enforcement officer in the exercise or performance of powers or functions under sections 20 to 24.
@@ -613,7 +620,7 @@ The chief executive may at any time—
 (1) The chief executive may make rules for the purpose of ensuring the effective and orderly operation of MIQFs, including (without limitation) rules—
   (a) prohibiting or restricting (with or without conditions) the things (including alcohol, goods, and other items) that can be brought into, sent out of, or removed from an MIQF:
   (b) restricting or prohibiting (with or without conditions) specified behaviour of persons within, or going to or from, an MIQF:
-  (c) [Not in force]
+  (c) specifying that a breach of a rule is a particular class of infringement offence (with the corresponding penalties) for the purposes of regulations made under section 33(1)﻿(b).
 (2) The chief executive must be satisfied that the rules do not limit or are a justified limit on the rights and freedoms in the New Zealand Bill of Rights Act 1990.
 (3) Rules made under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
