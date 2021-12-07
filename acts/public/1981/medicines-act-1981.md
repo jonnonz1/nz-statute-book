@@ -1,5 +1,5 @@
 # Medicines Act 1981
-_Consolidation as at 2021-10-28_
+_Consolidation as at 2021-12-07_
 
 > An Act to consolidate and amend the law relating to the manufacture, sale, and supply of medicines, medical devices, and related products
 
@@ -1700,6 +1700,8 @@ Without limiting the generality of section 105(1)﻿(d) or (qaa), regulations ma
 (1) Subject to subsection (3), in the case of a medicine that is a controlled drug within the meaning of the Misuse of Drugs Act 1975, the prohibitions, conditions, and requirements contained in or imposed under this Act shall be in addition to the prohibitions, conditions, and requirements contained in or imposed under that Act to the extent that they are not inconsistent therewith.
 (2) Nothing in section 8 of the Misuse of Drugs Act 1975 shall authorise any person to prescribe, manufacture, pack, label, sell by wholesale or retail, administer, procure, receive, store, use, or otherwise have in that person's possession any medicine contrary to the provisions of this Act.
 (3) So long as a person is authorised by a licence under the Misuse of Drugs Act 1975 to manufacture, pack, or sell by wholesale or retail, any controlled drug that is a medicine, that person shall be deemed to be licensed under this Act to manufacture, pack, or sell by wholesale or retail, as the case may require, that medicine, and, if that person is so authorised to procure, receive, store, use or otherwise have in his possession any such controlled drug, that person shall, for the purposes of section 43, be deemed to have a reasonable excuse for such procurement, receipt, storage, use, or other possession, as the case may require.
+(3A) A drug and substance checking service provider under the Misuse of Drugs Act 1975 does not commit an offence against this Act or its regulations if the service provider breaches this Act or the regulations in the course of performing the service provider’s functions.
+(3B) Subsection (3A) is subject to the conditions of the service provider’s licence.
 (4) Except as provided in subsections (1) and (2), this Act shall be read subject to the Misuse of Drugs Act 1975 and, in the event of any inconsistency between the provisions of that Act and the provisions of this Act, or between the provisions of any regulations made under that Act and the provisions of any regulations made under this Act, the provisions of that Act and of the regulations made under that Act shall prevail.
 
 ### 110 Relationship with Hazardous Substances and New Organisms Act 1996
