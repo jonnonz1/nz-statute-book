@@ -1,5 +1,5 @@
 # Psychoactive Substances Act 2013
-_Consolidation as at 2021-10-28_
+_Consolidation as at 2021-12-07_
 
 ### 1 Title
 This Act is the Psychoactive Substances Act 2013.
@@ -782,8 +782,8 @@ A local approved products policy may include policies on 1 or more of the follow
 ### 71 Offence relating to personal possession of psychoactive substance that is not approved product
 (1) A person commits an offence if the person has a psychoactive substance that is not an approved product in his or her possession.
 (2) Subsection (1) does not apply to a person who holds a licence in respect of the psychoactive substance.
-(2A) Subsection (1) also does not apply to a drug and substance checking service provider if the provider has possession of the psychoactive substance in the course of performing the provider’s functions.
-(2B) Subsection (2A) is subject to the service provider’s terms and conditions of appointment.
+(2A) Subsection (1) also does not apply to a drug and substance checking service provider if the service provider has possession of the psychoactive substance in the course of performing the service provider’s functions.
+(2B) Subsection (2A) is subject to the conditions of the service provider’s licence.
 (3) A person who commits an offence against subsection (1) is liable on conviction to a fine not exceeding $500.
 
 **Infringement offences**
