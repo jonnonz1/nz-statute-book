@@ -1,5 +1,5 @@
 # Income Tax Act 2007
-_Consolidation as at 2021-11-25_
+_Consolidation as at 2021-12-08_
 
 ### A 1 Title
 This Act is the Income Tax Act 2007.
@@ -42353,7 +42353,9 @@ In this Act, unless the context requires otherwise,—
   - **attributing interest** means an attributing interest in a foreign investment fund as defined in sections EX 29 to EX 43 (which relate to attributing interests in FIFs)
   - **attribution period** , for a multi-rate PIE, means a period described in section HM 34 (Attribution periods)
   - **Australian approved deposit fund** means an approved deposit fund as defined in section 10 of the Superannuation Industry (Supervision) Act 1993 (Aust)
-  - **Australian complying superannuation scheme** means an entity that is a complying superannuation fund for the purposes of Part 5, Division 2 of the Superannuation Industry (Supervision) Act 1993 (Aust) and that is regulated by the Australian Prudential Regulation Authority
+  - **Australian complying superannuation scheme** means—
+    (a) an entity that is a complying superannuation fund for the purposes of Part 5, Division 2 of the Superannuation Industry (Supervision) Act 1993 (Aust) and that is regulated by the Australian Prudential Regulation Authority:
+    (b) the Australian Commissioner of Tax (ACT), in the ACT’s capacity under the Superannuation (Unclaimed Money and Lost Members) Act 1999 (Aust)
   - **Australian exempt public sector superannuation scheme** means an exempt public sector superannuation scheme as defined in section 10 of the Superannuation Industry (Supervision) Act 1993 (Aust)
   - **Australian financial year** is defined in section CV 8(3) (Regulations: Australian wine producer rebate) for the purposes of that section
   - **Australian ICA company** is a company that must establish and maintain an imputation credit account because of an election under section OB 2 (Australian companies choosing to have imputation credit accounts)
