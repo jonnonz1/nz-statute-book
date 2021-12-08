@@ -1,5 +1,5 @@
 # Drug and Substance Checking Legislation Act 2020
-_Consolidation as at 2020-12-07_
+_Consolidation as at 2021-12-08_
 
 ### 1 Title
 This Act is the Drug and Substance Checking Legislation Act 2020.
