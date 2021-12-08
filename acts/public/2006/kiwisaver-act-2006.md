@@ -1,5 +1,5 @@
 # KiwiSaver Act 2006
-_Consolidation as at 2021-10-28_
+_Consolidation as at 2021-12-08_
 
 ### 1 Title
 This Act is the KiwiSaver Act 2006.
@@ -21,7 +21,9 @@ This Act is the KiwiSaver Act 2006.
     (a) the person’s last known street address or post office box number:
     (b) the person’s last known electronic address, if the person consents to notices under this Act being given to the person’s electronic address
   - **administration manager** has the same meaning as in section 6(1) of the Financial Markets Conduct Act 2013
-  - **Australian complying superannuation scheme** means an entity that is a complying superannuation fund for the purposes of Part 5, Division 2 of the Superannuation Industry (Supervision) Act 1993 (Aust) and that is regulated by the Australian Prudential Regulation Authority
+  - **Australian complying superannuation scheme** means—
+    (a) an entity that is a complying superannuation fund for the purposes of Part 5, Division 2 of the Superannuation Industry (Supervision) Act 1993 (Aust) and that is regulated by the Australian Prudential Regulation Authority:
+    (b) the Australian Commissioner of Tax (ACT), in the ACT’s capacity under the Superannuation (Unclaimed Money and Lost Members) Act 1999 (Aust)
   - **automatic enrolment rules** means sections 10 to 21
   - **benefit** means a lump sum, allowance, refund, or other payment arising from membership of a KiwiSaver scheme
   - **Commissioner** means the Commissioner of Inland Revenue as defined in section 3(1) of the Tax Administration Act 1994
