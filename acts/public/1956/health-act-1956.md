@@ -1,5 +1,5 @@
 # Health Act 1956
-_Consolidation as at 2021-11-15_
+_Consolidation as at 2021-12-13_
 
 > An Act to consolidate and amend the law relating to public health
 
@@ -71,10 +71,13 @@ _Consolidation as at 2021-11-15_
   (a) an order under the definition of communicable disease in subsection (1):
   (b) an order under subsection (3).
 
+### 2A Transitional, savings, and related provisions
+The transitional, savings, and related provisions set out in Schedule 1AA have effect according to their terms.
+
 ### 3 Power of Governor-General in Council to amend Schedules
 (1) The Governor-General may from time to time, by Order in Council,—or otherwise amend any such list, and every such Order in Council shall have effect according to its tenor.
   (a) add to or omit from any of the lists of notifiable infectious diseases, infectious diseases, and notifiable diseases set out in Schedules 1 and 2 the name or description of any disease; or
-  (b) add to or omit from the list of offensive trades set out in Schedule 3, or the list of chemical works set out in Schedule 4, or the list of noxious or offensive gases set out in Schedule 5, the name or description of any trade, business, manufacture, undertaking, works, gas, or fumes,—
+  (b) add to or omit from the list of offensive trades set out in Schedule 3—
 (2) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ## Part 1 — Administration
@@ -255,7 +258,7 @@ In this section and sections 22C to 22H, unless the context otherwise requires,�
   (e) any member of the New Zealand Defence Force, for the purposes of administering the Armed Forces Discipline Act 1971 or the Defence Act 1990:
   (f) any constable, for the purposes of exercising or performing any of that person's powers, duties, or functions:
   (g) any employee of the Ministry of Health, for the purposes of—
-    (i) administering this Act or the Hospitals Act 1957; or
+    (i) administering this Act; or
     (ii) compiling statistics for health purposes:
   (h) any employee of the Ministry of Agriculture and Forestry authorised by the chief executive of that Ministry to receive the information, for the purposes of administering the Meat Act 1981 or the Animal Products Act 1999:
   (i) any employee of the New Zealand Transport Agency, for statistical or research purposes in relation to road safety or the environment:
@@ -1055,7 +1058,7 @@ A person commits an offence and is liable on conviction to imprisonment for a te
 [Repealed]
 
 ### 74B Medical laboratories may be required to give notice of cases of disease during epidemic
-(1) Before the commencement of section 8, an epidemic management notice may provide for this Act to have effect as if section 74AA (as to be inserted by that section) were already in force, but in relation only to the disease stated in the notice.
+(1) Before the commencement of section 8 of the Health Amendment Act 2006, an epidemic management notice may provide for this Act to have effect as if section 74AA (as to be inserted by that section) were already in force, but in relation only to the disease stated in the notice.
 (2) Unless the notice provides that section 74AA is to apply to medical laboratories in stated parts of New Zealand only, the section applies to medical laboratories throughout New Zealand.
 (3) While the notice is in force, every provision of this Act (other than this section) has effect—
   (a) as if section 74AA were in force; but
@@ -2400,6 +2403,104 @@ A person who is alleged to have committed an infringement offence may either—
 (1) Infringement fees for infringement notices issued on behalf of the Ministry are payable to the Ministry.
 (2) Infringement fees for infringement notices issued on behalf of a local authority are payable to the local authority.
 
+## Part 5A — Fluoridation of drinking water
+
+### 116C Purpose
+The purpose of this Part is to—
+  (a) enable the Director-General to direct a local authority to add fluoride or not to add fluoride to drinking water supplied through its local authority supply; and
+  (b) require the local authority to comply with the direction.
+
+### 116D Interpretation
+In this Part,—
+  - **drinking water** —
+    (a) means water that is used for—
+      (i) human consumption; or
+      (ii) oral hygiene; or
+      (iii) preparing food, drink, or other products for human consumption; or
+      (iv) washing utensils that are used for eating and drinking, or for preparing, serving, or storing food or drink for human consumption; but
+    (b) does not include bottled water that is prepared or manufactured by a food business, and is regulated, under the Food Act 2014
+  - **local authority** has the same meaning as in section 5(1) of the Local Government Act 2002
+  - **local authority supply** means the infrastructure and processes that—
+    (a) are used by a local government organisation to abstract, store, treat, transmit, or transport drinking water for supply to consumers; and
+    (b) are controlled by a local authority
+  - **local government organisation** means a local authority, council-controlled organisation, or subsidiary of a council-controlled organisation that provides water services.
+
+### Subpart 1 — Direction relating to fluoridation of drinking water supply
+
+### 116E Director-General may direct local authority to add or not to add fluoride to drinking water
+(1) The Director-General may direct a local authority to add or not to add fluoride to drinking water supplied through its local authority supply.
+(2) The Director-General must seek and consider advice from the Director of Public Health on the matters in subsection (3)﻿(a) and (b)﻿(i) before deciding whether to make a direction.
+(3) Before making a direction, the Director-General must consider—
+  (a) scientific evidence on the effectiveness of adding fluoride to drinking water in reducing the prevalence and severity of dental decay; and
+  (b) whether the benefits of adding fluoride to the drinking water outweigh the financial costs, taking into account—
+    (i) the state or likely state of the oral health of a population group or community where the local authority supply is situated; and
+    (ii) the number of people who are reasonably likely to receive drinking water from the local authority supply; and
+    (iii) the likely financial cost and savings of adding fluoride to the drinking water, including any additional financial costs of ongoing management and monitoring.
+(4) For the purpose of subsection (3)﻿(b)﻿(i), the Director-General may take into account any evidence that the Director-General considers relevant.
+(5) As soon as practicable after making a direction, the Director-General must publish the direction and the reasons for the decision to make the direction on the Ministry of Health’s Internet site.
+
+### 116F Contents of direction
+(1) A direction must specify a date by which the local authority must comply with the direction, which must not be earlier than the date by which the Director-General considers it would be reasonably practicable for the local authority to comply.
+(2) A direction to add fluoride to drinking water must specify the level at which fluoride must be added.
+(3) A direction to add fluoride to drinking water may allow the local authority to supply, at 1 or more specified sites, water to which fluoride has not been added.
+
+### 116G Engagement with local authority
+(1) Before making a direction to add fluoride to drinking water, the Director-General must invite written comments from the relevant local authority on—
+  (a) the estimated financial cost of adding fluoride to the drinking water, including any additional costs of ongoing management and monitoring; and
+  (b) the date by which the local authority would be able to comply with a direction.
+(2) The Director-General must give the local authority at least 40 working days from the issuing of the invitation to provide its comments.
+(3) If the local authority provides comments within the specified time, the Director-General must—
+  (a) have regard to the comments; and
+  (b) if the Director-General decides to make a direction, summarise and respond to the comments in the reasons for the decision published under section 116E(5).
+
+### 116H Local authority not required to consult
+A local authority that receives a direction under section 116E or an invitation to comment under section 116G is not required to consult on any matter related to the direction or invitation.
+
+### 116I Local authority must comply with direction
+(1) A local authority that receives a direction under section 116E must comply with the direction. (See Part 1 of Schedule 1AA for the obligations of a local authority that does not receive a direction.)
+(2) If the direction requires fluoride to be added to drinking water, the local authority must take all practicable steps to ensure that the specified level of fluoride is present in the water immediately before it is available for consumption.
+(3) Subsection (2) does not apply to a site specified under section 116F(3).
+
+### Subpart 2 — Offences
+
+### 116J Offence to contravene or permit contravention of section 116I
+(1) A local authority that contravenes or permits the contravention of section 116I—
+  (a) commits an offence; and
+  (b) is liable on conviction to a fine not exceeding $200,000; and
+  (c) if the offence is a continuing one, is liable to a further fine not exceeding $10,000 for every day or part of a day during which the offence continues.
+(2) The continued existence of any thing, or the intermittent repetition of any action, that constitutes an offence under this section is a continuing offence for the purposes of this section.
+
+### 116K Strict liability and defence to offence
+(1) In a prosecution for an offence against section 116J, it is not necessary to prove that the defendant intended to commit the offence.
+(2) It is a defence to a prosecution if the defendant proves—
+  (a) that the defendant did not intend to commit the offence; and
+  (b) that the defendant took all practicable steps to prevent the commission of the offence.
+
+### 116L Time for filing charging document
+Despite anything to the contrary in section 25 of the Criminal Procedure Act 2011, the limitation period for filing a charging document in respect of an offence against section 116J ends on the date that is 3 years after the date on which the offence was committed.
+
+### 116M Additional penalty for certain offences for commercial gain
+(1) If a person is convicted of an offence against section 116J, the court may (in addition to any penalty it may impose under that section) impose an order under subsection (2) if satisfied that the offence was committed in the course of producing a commercial gain.
+(2) The court may order the person to pay an amount not exceeding—
+  (a) 3 times the value of any commercial gain resulting from the commission of the offence; or
+  (b) if the person is a body corporate, and the value of any gain cannot be readily ascertained, 10% of the turnover of the body corporate and all of its interconnected bodies corporate (if any).
+(3) For the purposes of subsection (1), the value of any gain (if readily ascertainable) must be assessed by the court, and any amount ordered to be paid under subsection (2)﻿(a) or (b) is recoverable in the same manner as a fine.
+(4) In this section, interconnected and turnover have the same meanings as in section 2 of the Commerce Act 1986.
+
+### 116N Liability of principal for acts of agents
+(1) If an offence is committed against section 116J by any person (person A) acting as the agent (including any contractor) or employee of another person (person B), person B is, without prejudice to the liability of person A, liable under that section in the same manner and to the same extent as if they personally committed the offence.
+(2) Despite subsection (1), if proceedings are brought under that subsection, it is a good defence if the defendant proves,—
+  (a) in the case of a natural person (including a partner in a firm), that—
+    (i) they did not know, and could not reasonably be expected to have known, that the offence was to be or was being committed; or
+    (ii) they took all practicable steps to prevent the commission of the offence; or
+  (b) in the case of a body corporate, that—
+    (i) neither the directors nor any person concerned in the management of the body corporate knew, or could reasonably be expected to have known, that the offence was to be or was being committed; or
+    (ii) the body corporate took all practicable steps to prevent the commission of the offence; and
+  (c) in all cases, that the defendant took all practicable steps to remedy any effects of the act or omission giving rise to the offence.
+(3) If any body corporate is convicted of an offence against section 116J, every director and every person concerned in the management of the body corporate is also guilty of that offence if it is proved—
+  (a) that the act that constituted the offence took place with their authority, permission, or consent; and
+  (b) that they knew, or could reasonably be expected to have known, that the offence was to be or was being committed and failed to take all practicable steps to prevent or stop it.
+
 ## Part 6 — Regulations
 
 ### 117 Regulations as to public health
@@ -2748,6 +2849,22 @@ Except so far as may be expressly provided in this Act, nothing in this Act shal
 (4)
 (5) Any regulations made under the Social Hygiene Act 1917 and in force at the commencement of this Act shall be deemed to have been made under this Act and shall continue in force accordingly, except so far as any provision of those regulations is inconsistent with any provision of Part 3.
 
+## Schedule 1AA — Transitional, savings, and related provisions
+
+### Part 1 — Provisions relating to Health (Fluoridation of Drinking Water) Amendment Act 2021
+
+### 1 Local authority must continue to add fluoride to drinking water
+(1) This clause applies to a local authority that, before this clause commences, adds fluoride to drinking water supplied through its local authority supply.
+(2) The local authority must continue to add fluoride to the water unless directed not to by the Director-General.
+(3) A local authority that contravenes or permits the contravention of subclause (2) commits an offence and is liable to the same penalty as if it had contravened or permitted the contravention of section 116I.
+(4) Subpart 2 of Part 5A applies to an offence against subclause (3) as if it were an offence against section 116J.
+
+### 2 Local authority may add fluoride to drinking water in absence of direction
+(1) This clause applies to a local authority that,—
+  (a) before this clause commences, does not add fluoride to drinking water supplied through its local authority supply; and
+  (b) has never received a direction to add fluoride or not to add fluoride to drinking water supplied through its local authority supply.
+(2) The local authority may, at its discretion, add fluoride to drinking water supplied through its local authority supply.
+
 ## Schedule 1 — Infectious diseases
 
 ## Schedule 2 — Diseases notifiable to medical officer of health (other than notifiable infectious diseases)
@@ -2794,54 +2911,13 @@ Except so far as may be expressly provided in this Act, nothing in this Act shal
 (4) If the NCSP manager knows that a woman, before the commencement of this section, requested that all results that relate to her be removed from the NCSP register, the NCSP manager must take reasonable steps to deal with all information held by the NCSP relating to that woman in accordance with section 112H as if that woman had cancelled her enrolment in the NCSP under section 112G(1).
 
 ### 1 Title
-This Act is the Health (Drinking Water) Amendment Act 2007.
-
-### 2 Commencement
-(1) Section 6 comes into force on 1 July 2013.
-(2) The rest of this Act comes into force on 1 July 2008.
-
-## Part 1 — Amendments to principal Act
-
-### 11 Existing drinking-water register continues
-Every person who is entered on the Ministry's register of community drinking-water suppliers in New Zealand immediately before the commencement of this section is deemed to be registered as a drinking-water supplier under section 69K of the principal Act (as inserted by section 7 of this Act).
-
-### 12 Existing register of recognised laboratories continues
-Every laboratory that is entered on the Ministry's register of recognised laboratories immediately before the commencement of this section is deemed to be registered as a recognised laboratory under section 69ZY(4) of the principal Act (as inserted by section 7 of this Act).
-
-### 13 Existing register of accredited drinking-water assessors continues
-Every person or agency who is entered on the Ministry's register of accredited drinking-water assessors immediately before the commencement of this section is deemed to be registered as an accredited drinking-water assessor under section 69ZX of the principal Act (as inserted by section 7 of this Act).
-
-### 14 Existing standards deemed to be issued
-(1) The Drinking-water Standards for New Zealand 2005, published in September 2005 by the Ministry of Health (the 2005 Standards), are deemed to have been issued in accordance with Part 2A of the principal Act (as inserted by section 7 of this Act).
-(2) However,—
-  (a) subject to subparagraph (b) any guidelines referred to and incorporated in those standards do not impose any obligation on any person to comply with those guidelines; but
-  (b) those parts of the standards identified as guideline values for aesthetic determinands for avoiding adverse aesthetic effects in drinking water must be taken into account when assessing whether the requirements of section 69W of the principal Act (as inserted by section 7 of this Act) have been complied with.
-(3) Despite subsections (1) and (2), drinking-water suppliers may elect to comply with the Drinking-Water Standards for New Zealand 2000, published in 2000 (the 2000 Standards) for all or any part of the specified period (as defined in subsection (6)).
-(4) A drinking water supplier may—
-  (a) make an election under subsection (3) only in the period before section 69S begins to apply to that supplier; and
-  (b) make an election by giving written notice of the election to the Director-General; and
-  (c) at any time revoke an election made under subsection (3), in which case this Part continues to apply as if the election had not been made.
-(5) During any period in which an election under subsection (3) applies,—
-  (a) subsection (2) applies in respect of the drinking-water supplier who made the election as if each reference to standards were a reference to the 2000 Standards:
-  (b) the other provisions of this Part apply as if the standards in force were the 2000 Standards.
-(6) In this section, specified period means a period beginning with the commencement of this section and ending on 31 December 2014.
-
-### 15 Annual report to Parliament on implementation issues
-(1) The Minister must, on or before 30 June in 2010, 2011, 2012, 2013, and 2014, report to Parliament on—
-  (a) progress in implementing the provisions of the Health (Drinking Water) Amendment Act 2007; and
-  (b) any problems or issues arising out of the provisions of that Act, the drinking-water standards, and the implementation or enforcement of those provisions and standards; and
-  (c) any problems or issues associated with the funding of changes required by those provisions and standards (whether identified in local authority plans or assessments or otherwise).
-(2) For the purposes of enabling the Minister to carry out his or her functions under this section, the Minister must appoint an advisory committee whose members collectively—
-  (a) have expertise in technical aspects of drinking-water supply and sanitary safety; and
-  (b) are representative of the organisations, groups, or sectors of the economy with a particular interest in the operation of the law relating to the supply of drinking water.
-
-### 1 Title
 This Act is the Human Tissue Act 2008.
 
 ### 2 Commencement
 (1) Sections 1, 2, and 89 come into force on the day after the date on which this Act receives the Royal assent.
 (2) Sections 87 and 88, and the heading above section 87, come into force as provided by section 89.
 (3) The rest of this Act comes into force on a date to be appointed by the Governor-General by Order in Council.
+(4) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ## Part 3 — Technical and miscellaneous provisions
 
