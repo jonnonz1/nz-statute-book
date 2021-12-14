@@ -1,5 +1,5 @@
 # Subordinate Legislation Confirmation Act 2020
-_Consolidation as at 2020-12-11_
+_Consolidation as at 2021-12-14_
 
 ### 1 Title
 This Act is the Subordinate Legislation Confirmation Act 2020.
