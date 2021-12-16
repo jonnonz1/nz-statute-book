@@ -1,5 +1,5 @@
 # Education and Training Act 2020
-_Consolidation as at 2021-11-20_
+_Consolidation as at 2021-12-16_
 
 ### 1 Title
 This Act is the Education and Training Act 2020.
@@ -81,9 +81,12 @@ The purpose of this Act is to establish and regulate an education system that—
 (10) Except as provided in subsection (3)﻿(a), the objectives set out in subsection (4) do not limit or affect the way in which any person is required to exercise a power or perform a function under Part 2 or 3.
 
 ### 6 Statement of expectations
-(1) The Minister and the Minister for Māori Crown Relations: Te Arawhiti may, for the purposes of providing equitable outcomes for all students, jointly issue a statement that sets out expectations for agencies—
-  (a) serving the education system; and
-  (b) for which the Minister is responsible.
+(1) The Minister and the Minister for Māori Crown Relations: Te Arawhiti may, for the purposes of providing equitable outcomes for all students, jointly issue a statement that sets out expectations for the following agencies:
+  (a) the Ministry:
+  (b) TEC:
+  (c) NZQA:
+  (d) the Education Review Office:
+  (e) Education New Zealand.
 (2) The statement must specify what those agencies must do to give effect to public service objectives (set out in any enactment) that relate to Te Tiriti o Waitangi.
 (3) Before issuing the statement, the Ministers must consult Māori.
 (4) The statement must be issued to each agency specified in the statement and published in the Gazette.
@@ -114,7 +117,7 @@ The purpose of this Act is to establish and regulate an education system that—
 (1) The main provisions of this Act that recognise and respect the Crown’s responsibility to give effect to Te Tiriti o Waitangi are—
   (a) section 4, which states that the purpose of this Act includes establishing and regulating an education system that honours Te Tiriti o Waitangi and supports Māori-Crown relationships; and
   (b) section 5(4)﻿(c)﻿(iii), which provides that any statement of national education and learning priorities issued by the Minister must be consistent with objectives for early childhood, primary, and secondary education and learning that include instilling in each child and young person an appreciation of the importance of Te Tiriti o Waitangi and te reo Māori; and
-  (c) section 6, which provides that the Minister and the Minister for Māori Crown Relations: Te Arawhiti may, for the purpose of providing equitable outcomes for all students, and after consulting with Māori, jointly issue and publish a statement that specifies what the agencies serving the education system, and for which the Minister is responsible, must do to give effect to public service objectives (set out in any enactment) that relate to Te Tiriti o Waitangi; and
+  (c) section 6, which provides that the Minister and the Minister for Māori Crown Relations: Te Arawhiti may, for the purpose of providing equitable outcomes for all students, and after consulting with Māori, jointly issue and publish a statement that specifies what the Ministry, TEC, NZQA, the Education Review Office, and Education New Zealand must do to give effect to public service objectives (set out in any enactment) that relate to Te Tiriti o Waitangi; and
   (d) section 127(1)﻿(d), which provides that one of a board’s primary objectives in governing a school is to ensure that the school gives effect to Te Tiriti o Waitangi, including by—
     (i) working to ensure that its plans, policies, and local curriculum reflect local tikanga Māori, mātauranga Māori, and te ao Māori; and
     (ii) taking all reasonable steps to make instruction available in tikanga Māori and te reo Māori; and
@@ -1451,10 +1454,10 @@ The following persons must not use force, by way of correction or punishment, to
   (b) a person who is supervising or controlling a student on behalf of the school’s board or the managers of a private school.
 
 ### 99 Limits on use of physical restraint at registered schools
-(1) A teacher or authorised staff member at a registered school must not physically restrain a student unless the conditions set out in subsection (2) are met.
+(1) A person holding a teaching position or an authorised staff member at a registered school must not physically restrain a student unless the conditions set out in subsection (2) are met.
 (2) The conditions are that—
   (a) the physical restraint is necessary to prevent imminent harm to the student or another person; and
-  (b) the teacher or authorised staff member reasonably believes that there is no other option available in the circumstances to prevent the harm; and
+  (b) the person holding a teaching position or authorised staff member reasonably believes that there is no other option available in the circumstances to prevent the harm; and
   (c) the physical restraint is reasonable and proportionate in the circumstances.
 (3) In subsection (2), harm means harm to the health, safety, or well-being of the student or another person, including any significant emotional distress suffered by the student or the other person.
 (4) For the purposes of this section and sections 100 and 101,—
@@ -1463,7 +1466,7 @@ The following persons must not use force, by way of correction or punishment, to
 (5) Nothing in this section limits or affects section 98.
 
 ### 100 Rules on use of physical restraint at registered schools
-(1) The Secretary must make rules prescribing the practice and procedure to be followed by employers, principals, teachers, and authorised staff members relating to the use of physical restraint at registered schools.
+(1) The Secretary must make rules prescribing the practice and procedure to be followed by employers, principals, persons holding a teaching position, and authorised staff members relating to the use of physical restraint at registered schools.
 (2) The rules must include—
   (a) requirements to keep written records on the use of physical restraint, including requirements to notify, monitor, and report on the use of physical restraint; and
   (b) a procedure for authorising staff members to use physical restraint in accordance with section 99.
@@ -1496,7 +1499,7 @@ The following persons must not use force, by way of correction or punishment, to
     (iii) governing bodies of schools:
     (iv) parents:
     (v) the disability community.
-(4) Employers, principals, teachers, and authorised staff members must have regard to the guidelines.
+(4) Employers, principals, persons holding a teaching position, and authorised staff members at registered schools must have regard to the guidelines.
 
 ### 102 Students at State schools may be released from tuition or for outside tuition
 (1) A student enrolled at a State school may be released from a particular class or subject on religious or cultural grounds in accordance with section 50.
@@ -2116,9 +2119,9 @@ A board, by resolution, may specify additional standards of conduct for its memb
   (f) the issuing by the Secretary to the board of a performance notice requiring the board to carry out a specified action by a specified date:
   (g) the appointment by the Minister of a board member (who may be the presiding board member) to the board for a specified period of time:
   (h) the appointment by the Secretary, at the direction of the Minister, of a limited statutory manager:
-  (i) the dismissal of a board by the Minister and the appointment of a commissioner:
-  (j) the dismissal of a board by the Secretary and the appointment of a commissioner.
-(2) The Secretary or the Minister may use an intervention only if the Secretary has reasonable grounds for concern about the operation of the school or the welfare or educational performance of its students.
+  (i) the dissolution of a board by the Minister and the appointment of a commissioner:
+  (j) the dissolution of a board by the Secretary and the appointment of a commissioner in accordance with section 181(3).
+(2) The Secretary may use an intervention described in subsection (1)﻿(a) to (f) only if the Secretary has reasonable grounds for concern about the operation of the school or the welfare or educational performance of its students.
 (3) The Secretary or the Minister may use an intervention described in subsection (1)﻿(g) to (i) in relation to a school only if the Secretary or the Minister has reasonable grounds to believe that there is a risk to the operation of the school or to the welfare or educational performance of its students.
 (4) The Secretary or the Minister may use an intervention described in subsection (1) in relation to a school if either of the following requests the intervention:
   (a) the board:
@@ -4770,7 +4773,7 @@ TEC must—
 ### Subpart 2 — New Zealand Qualifications Authority
 
 ### 430 NZQA continued
-(1) The body called the New Zealand Qualifications Authority (NZQA) in existence immediately before the commencement of this Act is continued.
+(1) The body called the New Zealand Qualifications Authority (NZQA) in existence immediately before the commencement of this subpart is continued.
 (2) NZQA is a Crown entity for the purposes of section 7 of the Crown Entities Act 2004.
 (3) The Crown Entities Act 2004 applies to NZQA except to the extent that this Act expressly provides otherwise.
 (4) The members of NZQA are the board for the purposes of the Crown Entities Act 2004.
@@ -4794,7 +4797,7 @@ TEC must—
   (d) to maintain the Qualifications Framework and Directory of Assessment Standards:
   (e) to monitor, through the exercise of its powers under this Act, compliance by workforce development councils with the prescribed quality assurance requirements, and to address non-compliance:
   (f) to monitor the quality and results of a workforce development council’s systems and procedures for its moderation activities:
-  (g) to make rules, not inconsistent with this Act, under any provision of this Part that empowers NZQA to make rules:
+  (g) to make rules, not inconsistent with this Act, under any provision of this subpart that empowers NZQA to make rules:
   (h) to ensure there are mechanisms in place to guarantee that relevant schools and tertiary education providers that provide programmes or training schemes that, in the view of NZQA, require national consistency have assessment and moderation procedures that are fair, equitable, and consistent, and comply with the appropriate standards:
   (i) to assist overseas governments, and agencies of those governments, by—
     (i) conducting examinations and assessments:
@@ -4854,6 +4857,8 @@ NZQA has the power to carry out any research activities that it considers releva
   (a) draft standards that meet the requirements in the rules; and
   (b) manage consistency across New Zealand in learning outcomes in the relevant subject areas; and
   (c) carry out national moderation of assessment of students.
+
+**Approval of programmes**
 
 ### 439 Approval of programmes
 (1) An institution may apply to NZQA for approval of a programme.
@@ -4932,7 +4937,7 @@ NZQA has the power to carry out any research activities that it considers releva
 (4) NZQA may withdraw an accreditation at the written request of the institution concerned.
 (5) This section does not limit NZQA’s power to withdraw an accreditation under section 459(6).
 
-**Training schemes and consents to assess against standards**
+**Training schemes**
 
 ### 445 Application for training scheme approval
 (1) An institution may apply to NZQA for approval to provide a training scheme.
@@ -5648,7 +5653,7 @@ Following any investigation by the Teaching Council under section 506, or of a r
 ### Subpart 5 — Education New Zealand
 
 ### 510 Education New Zealand continued
-(1) The body called Education New Zealand in existence before the commencement of this Act is continued.
+(1) The body called Education New Zealand in existence before the commencement of this subpart is continued.
 (2) Education New Zealand is a Crown entity for the purposes of section 7 of the Crown Entities Act 2004.
 (3) The Crown Entities Act 2004 applies to Education New Zealand except to the extent that this Act expressly provides otherwise.
 
@@ -6941,14 +6946,15 @@ The right of parents who have children in early childhood centres to enter the p
 
 ### 636 Regulations relating to early childhood services
 (1) The Governor-General may, by Order in Council, make regulations—
-  (a) providing for the licensing of service providers to provide early childhood services of any kind, and the transfer of licences:
+  (a) prescribing matters relating to applications for approval to apply for a licence, including (without limitation)—
+    (i) prescribing fees and charges payable for an application:
+    (ii) specifying any conditions for approval that must be met:
+  (aa) providing for the licensing of service providers to provide early childhood services of any kind, including (without limitation) providing for the transfer of licences:
   (b) regulating the management, operation, and control of licensed early childhood services of any kind, and imposing duties on service providers:
   (c) declaring specified early childhood services, or early childhood services of 1 or more specified types or descriptions, to be early childhood education and care services for the purpose of Part 2:
   (d) modifying the definition of teaching position in section 10(1) for the purposes of applying it to Kura Kaupapa Māori or early childhood services or both:
-  (e) specifying licence application and licence application approval procedures, including—
-    (i) any fees and charges for applications and their determination; and
-    (ii) any conditions for approval that must be met.
-(2) The regulations may—
+  (e)
+(2) Without limiting subsection (1), the regulations may—
   (a) prescribe, for the purposes of ensuring the health, comfort, care, education, and safety of children attending licensed early childhood services, minimum standards relating to—
     (i) premises and facilities:
     (ii) programmes of education, practices in relation to children’s learning and development, and implementation of the curriculum framework:
@@ -7015,11 +7021,11 @@ The right of parents who have children in early childhood centres to enter the p
 
 ### 638 Regulations relating to how schools must be run
 (1) The Governor-General may, by Order in Council, make regulations providing for the control, management, organisation, conduct, and administration of schools.
-(2) Regulations made under subsection (1) may—
+(2) Without limiting subsection (1), the regulations may—
   (a) provide differently for different classes or descriptions of schools:
   (b) give powers to, or impose duties on, boards or principals (or both):
   (c) prescribe processes and procedures in respect of boards:
-  (d) provide for the development of enrolment schemes, including (without limitation) the extent to which boards may contribute to their design:
+  (d) provide for the development of enrolment schemes:
   (e) provide for when schools must be open and closed for instruction:
   (f) provide for the circumstances in which the Secretary may direct that a student be enrolled at a school.
 (3) Regulations made under this section prescribing a course of study may not restrict the method by or manner in which any subject forming part of the course is to be taught, except to the extent necessary to ensure that the teaching of the subject is consistent with the general aims of the course.
@@ -7052,11 +7058,11 @@ The right of parents who have children in early childhood centres to enter the p
 
 ### 640 Regulations relating to board elections and appointments
 (1) The Governor-General may, by Order in Council, make regulations for all or any of the following purposes:
-  (a) specifying persons who are eligible and ineligible to be board members:
+  (a)
   (b) prescribing the manner in which board members may be elected, co-opted, or appointed:
   (c) prescribing a board member’s term of office and providing for vacancies in board membership:
   (d) prescribing the manner in which returning officers are to be appointed for the purposes of an election of board members.
-(2) Regulations made under subsection (1) may—
+(2) Without limiting subsection (1), the regulations may—
   (a) provide for persons who are forbidden to participate in 2 elections to choose the election in which they prefer to stand or vote, or both; and
   (b) provide for persons who do not exercise their choice within the time or in the manner provided for to be restricted to standing or voting, or both, in only 1 election; and
   (c) require a person who has chosen or been restricted to 1 election to continue to be restricted to elections of the kind concerned if elections are later held to fill casual vacancies.
@@ -7185,9 +7191,7 @@ The right of parents who have children in early childhood centres to enter the p
 (2) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 649 Regulations relating to national student numbers
-(1) The Governor-General may, by Order in Council made on the recommendation of the Minister, make regulations for the following purposes:
-  (a) prescribing the assignment and use of national student numbers:
-  (b) identifying any agency or body as a specified user of national student numbers.
+(1) The Governor-General may, by Order in Council made on the recommendation of the Minister, make regulations identifying any agency or body as a specified user of national student numbers.
 (2) Before making a recommendation under subsection (1), the Minister must consult the Privacy Commissioner.
 (3) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
@@ -7307,36 +7311,8 @@ A person who breaches an order that a Student Allowance Appeal Authority makes u
 ### Subpart 9 — Consequential amendments, repeals, and revocations
 
 ### 667 Consequential amendments to this Act
-(1) On 1 January 2023,—
-  (a) in section 72(2), delete Schedule 20 and:
-  (b) in section 74(2)﻿(b), delete or clause 14 of Schedule 20,:
-  (c) in section 115, delete Schedule 21 and:
-  (d) in section 123,—
-    (i) replace set out in the following schedules: with set out in Schedule 21.:
-    (ii) repeal paragraphs (a) and (b):
-  (e) in section 190(6), replace 22 with 21:
-  (f) in section 196(3), delete clauses 8(7) and 12 of Schedule 23 and:
-  (g) in section 198(6), delete clauses 8(7) and 12 of Schedule 23 and:
-  (h) in section 204(9), delete , clause 16 of Schedule 20,:
-  (i) in section 206(5)﻿(b), replace 22 with 21:
-  (j) in section 659(1), replace Despite anything in Schedule 21, a board with A board:
-  (k) in section 659(2), delete required by clause 1 of Schedule 21 to be:
-  (l) in section 668, replace 26 with 23:
-  (m) in section 669(4), replace 26 with 23:
-  (n) in Schedule 1, clause 3(2), replace 26 with 23:
-  (o) in Schedule 6, clause 15(7)﻿(b), replace 22 with 21:
-  (p) in the Schedule 22 heading, replace 22 with 21:
-  (q) in the Schedule 22 heading, delete 123(a),:
-  (r) in Schedule 22, clause 3(3)﻿(a),—
-    (i) delete clause 3 of Schedule 23 or:
-    (ii) delete clause 8 of Schedule 23 or:
-  (s) in Schedule 22, clause 5(2), delete and clauses 1, 3, 8, 12, and 13 of Schedule 23:
-  (t) in Schedule 23, clause 3(9), replace 22 with 21:
-  (u) in Schedule 23, clause 4(5), replace 22 with 21:
-  (v) in Schedule 23, clause 15(1), replace 22 with 21:
-  (w) in Schedule 23, clause 15(4), replace 22 with 21:
-  (x) in the Schedule 26 heading, replace 26 with 23.
-(2) On 1 January 2022, in section 621, delete Schedule 24 and.
+(1)
+(2)
 (3) On 1 December 2020,—
   (a) in section 89(1)﻿(f), replace 1993 with 2020:
   (b) in Schedule 3, clause 9(2), replace 1993 with 2020:
@@ -7376,11 +7352,11 @@ Amend the enactments specified in Parts 1 to 3 of Schedule 26 as set out in that
 ### 669 Repeals and revocations
 (1) The following provisions of this Act are repealed on 1 January 2023:
   (a) section 654(3) (which relates to Schedule 25):
-  (b) Schedule 20 (which relates to enrolment schemes):
+  (b)
   (c) Schedule 21 (which relates to when State schools must be open):
-  (d) Schedule 23 (which relates to electing and co-opting board members to boards of State schools, term of office of board members, and eligibility):
+  (d)
   (e) Schedule 25 (which relates to directions in relation to COVID-19).
-(2) Schedule 24 (which relates to national student numbers) is repealed on 1 January 2022.
+(2)
 (3) The following are repealed:
   (a) Education Act 1964 (1964 No 135):
   (b) Education Act 1989 (1989 No 80):
@@ -7471,8 +7447,8 @@ In this schedule, unless the context otherwise requires,—
   (f) section 63B (board must make copies of school charter available):
   (g) section 78L (action plans):
   (h) section 87 (annual reports).
-(2) Despite any other provision of this Act, a provision in any of sections 88 and 158 and clauses 3, 15, 17, 39, 40, and 41 of Schedule 6 of the 1989 Act, as the provision read immediately before the commencement of this clause, continues to apply until the date on which regulations under section 638 are made that deal with the matter addressed in the provision.
-(3) Despite any other provision of this Act, a provision in any of sections 238H(1) to (4) and (9), 238I, 238J, and 238K of the 1989 Act, as the provision read immediately before the commencement of this clause, continues to apply until the date on which regulations under section 648 are made that deal with the matter addressed in the provision.
+(2)
+(3) Despite any other provision of this Act, a provision in any of sections 238H(1) to (4) and (9), 238I, 238J, and 238K of the 1989 Act, as the provision read immediately before the commencement of this clause, continues to apply until the date on which regulations made under section 648 that deal with the matter addressed in the provision come into force.
 (4) The following instruments are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements):
   (a) a curriculum statement under section 60A of the 1989 Act:
   (b) national performance measures under section 60A of the 1989 Act:
@@ -7925,7 +7901,7 @@ Despite section 420(1), the Minister may direct that funding be provided to a pr
 (2) The Minister may, by notice published on an Internet site maintained by or on behalf of the Ministry, specify any class of trainees to whom subclause (1) does not apply.
 (3) In subclause (1),—
   - **compulsory student services fee** means a fee determined under section 256(1)﻿(b) or as defined in section 360(6)
-  - **specified period** means the period beginning on 1 April 2020 and ending with the close of 31 December 2021.
+  - **specified period** means the period beginning on 1 April 2020 and ending with the close of 31 December 2022.
 
 ### 61 Existing training contracts
 (1) This clause applies to a training contract between an employer and employee that is in force immediately before 1 April 2020.
@@ -8248,6 +8224,14 @@ If the management of an early childhood service that is not an early childhood e
 
 ## Schedule 4 — Police vetting
 
+**Preliminary**
+
+### 1AAA Application of certain provisions
+(1) The Police vetting requirements in clauses 1, 2, 9, and 10 apply in respect of a person who, in the course of their work for the service provider or school, does not fall within the definition of a children’s worker in section 23(1) of the Children’s Act 2014 and, as a result, is not required to be safety checked under Part 3 of that Act.
+(2) To avoid doubt, nothing in this schedule limits Part 3 of the Children’s Act 2014 or regulations made under that Act in relation to the safety checking of children’s workers.
+
+**Police vetting in respect of licensed early childhood services**
+
 ### 1 Police vetting of non-teaching and unregistered employees at licensed early childhood services
 The service provider of a licensed early childhood service must obtain a Police vet of every person—
   (a) whom the service provider appoints, or intends to appoint, to a position at the early childhood service; and
@@ -8290,7 +8274,7 @@ The service provider of a licensed home-based education and care service that ap
 
 ### 8 Further Police vets to be obtained every 3 years
 (1) The service provider of a licensed early childhood service must obtain a further Police vet of every person—
-  (a) on whom a Police vet has already been obtained under this schedule by that service provider; and
+  (a) on whom a Police vet has already been obtained under clause 1, 2, or 5 by that service provider; and
   (b) who still works at the service or lives in the home.
 (2) A further Police vet required under subclause (1) must be obtained on or about every third anniversary of any Police vet that has been previously conducted on the person.
 (3) The requirement for a further Police vet under this clause does not apply to a person on whom a Police vet under clause 1 or 2 would not be required if the person were about to be appointed to a position at the licensed early childhood service or to work at the service at the time that the further Police vet would otherwise be required.
@@ -8316,8 +8300,8 @@ The board of a State school and the managers of a private school must obtain a P
 (2) A further Police vet required under subclause (1) must be obtained on or about every third anniversary of any Police vet that has been previously conducted on the person.
 (3) The requirement for a further Police vet under this clause does not apply to a person on whom a Police vet under clause 9 or 10 would not be required if the person were about to be appointed to a position at the school or to work at the school at the time that the further Police vet would otherwise be required.
 
-### 13 Procedures relating to Police vets
-The board of a State school or the managers of a private school that applies for a Police vet of a person—
+### 13 Procedures relating to Police vets under clause 9 or 10
+The board of a State school or the managers of a private school that applies for a Police vet of a person under clause 9 or 10—
   (a) must ensure that strict confidentiality is observed for Police vets; and
   (b) may not take adverse action in relation to a person who is the subject of a Police vet until—
     (i) the person has validated the information contained in the vet; or
@@ -8326,7 +8310,7 @@ The board of a State school or the managers of a private school that applies for
 **Relationship with Children’s Act 2014**
 
 ### 14 Relationship with Children’s Act 2014
-Nothing in this schedule limits or affects Part 3 of the Children’s Act 2014 or regulations made under that Act in relation to the safety checking of children’s workers.
+[Repealed]
 
 ## Schedule 5 — Communities of learning for State schools
 
