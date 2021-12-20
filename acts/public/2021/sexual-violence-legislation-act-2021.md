@@ -330,21 +330,21 @@ After section 126, insert:Judicial directions about misconceptions arising in se
       (iii) maintaining contact with a defendant, or showing a lack of visible distress, after the alleged offending.
   (3) This section does not limit or affect—
     (a) section 127 (delayed complaints or failure to complain in sexual cases):
-    (b) any regulations made under section 201(m) (warning or informing jury about very young children’s evidence).
+    (b) any regulations made under section 201(1)﻿(m) (warning or informing jury about very young children’s evidence).
 
 **Regulations**
 
 ### 22 Section 201 amended (Regulations)
-(1) In section 201(a), after the procedure to be followed, insert (see also section 201A).
-(2) In section 201(ga), before the custody or return of video records, insert access to or the disclosure or sharing of video records, or.
-(3) In section 201(ia), after video records, insert or of transcripts of video records (including the destruction of copies or summaries of, or of extracts or parts of, video records or transcripts of video records).
-(4) Repeal section 201(ib).
+(1) In section 201(1)﻿(a), after the procedure to be followed, insert (see also section 201A).
+(2) In section 201(1)﻿(ga), before the custody or return of video records, insert access to or the disclosure or sharing of video records, or.
+(3) In section 201(1)﻿(ia), after video records, insert or of transcripts of video records (including the destruction of copies or summaries of, or of extracts or parts of, video records or transcripts of video records).
+(4) Repeal section 201(1)﻿(ib).
 
-### 23 New section 201A inserted (Regulations made under section 201(a) may authorise Judge to make order restricting attendance by, or excluding, members of media at making, before trial, of video record of sexual case complainant’s or propensity witness’s evidence)
-After section 201, insert:Regulations made under section 201(a) may authorise Judge to make order restricting attendance by, or excluding, members of media at making, before trial, of video record of sexual case complainant’s or propensity witness’s evidence
-  (1) Regulations made under section 201(a) may authorise a Judge to make an order restricting attendance by, or excluding, any member of the media at any making, before trial, of a video record of a sexual case complainant’s or propensity witness’s evidence.
+### 23 New section 201A inserted (Regulations made under section 201(1)﻿(a) may authorise Judge to make order restricting attendance by, or excluding, members of media at making, before trial, of video record of sexual case complainant’s or propensity witness’s evidence)
+After section 201, insert:Regulations made under section 201(1)﻿(a) may authorise Judge to make order restricting attendance by, or excluding, members of media at making, before trial, of video record of sexual case complainant’s or propensity witness’s evidence
+  (1) Regulations made under section 201(1)﻿(a) may authorise a Judge to make an order restricting attendance by, or excluding, any member of the media at any making, before trial, of a video record of a sexual case complainant’s or propensity witness’s evidence.
   (2) In this section, member of the media has the same meaning as in section 198(2) of the Criminal Procedure Act 2011.
-  (3) This section does not limit the generality of section 201(a), and applies despite anything to the contrary in the Criminal Procedure Act 2011.
+  (3) This section does not limit the generality of section 201(1)﻿(a), and applies despite anything to the contrary in the Criminal Procedure Act 2011.
 
 **Transitional, savings, and related provisions**
 
@@ -485,7 +485,7 @@ In section 196(3), replace and 199 with 199, and 199AA.
 (2) After section 199(3), insert:
   (4) Nothing in this Act limits the following:
     (a) an order restricting attendance by, or excluding, members of the media at any making, before trial, of a video record of a sexual case complainant’s or propensity witness’s evidence:
-    (b) regulations made under section 201(a) of the Evidence Act 2006 authorising a Judge to make an order of that kind.
+    (b) regulations made under section 201(1)﻿(a) of the Evidence Act 2006 authorising a Judge to make an order of that kind.
 
 **Power to clear court**
 
