@@ -259,7 +259,7 @@ After section 80C, insert:Intensification planning instruments and intensificati
         (C) in the case of a tier 3 territorial authority to which regulations made under section 80K(1) apply, policy 5 of the NPS-UD; and
     (b) that may also amend or include the following provisions:
       (i) provisions relating to financial contributions, if the specified territorial authority chooses to amend its district plan under section 77T:
-      (ii) provisions to enable papakāinga housing in the district; and
+      (ii) provisions to enable papakāinga housing in the district:
       (iii) related provisions, including objectives, policies, rules, standards, and zones, that support or are consequential on—
         (A) the MDRS; or
         (B) policies 3, 4, and 5 of the NPS-UD, as applicable.
@@ -521,7 +521,7 @@ In Schedule 1, after clause 94, insert:Intensification streamlined planning proc
       (ii) become operative in accordance with clause 20.
   (1) The Minister must decide—
     (a) to accept or reject any or all of the recommendations referred to the Minister under clause 101(2)﻿(a); and
-    (b) for any recommendation that the Minister rejects, whether to adopt an alternative recommendation referred to the Minister under clause 101(2)﻿(b).
+    (b) for any recommendation that the Minister rejects, whether to accept an alternative recommendation referred to the Minister under clause 101(2)﻿(b).
   (2) In making a decision under subclause (1), the Minister—
     (a) may take into account only those considerations that the independent hearings panel could have taken into account when making its recommendation; but
     (b) may have regard to—
@@ -541,14 +541,14 @@ In Schedule 1, after clause 94, insert:Intensification streamlined planning proc
   (2) The specified territorial authority must publicly notify the Minister’s decisions made under clause 105(1) in a way that sets out the following information:
     (a) each recommendation referred to the Minister under clause 101(2)﻿(a) that the Minister accepts; and
     (b) each recommendation referred to the Minister under clause 101(2)﻿(a) that the Minister rejects and the reasons for doing so; and
-    (c) any alternative recommendation referred to the Minister under clause 101(2)﻿(b) that the Minister has adopted for a rejected recommendation.
+    (c) any alternative recommendation referred to the Minister under clause 101(2)﻿(b) that the Minister has accepted for a rejected recommendation.
   (3) Subclause (4) applies if the Minister has, in accordance with clause 105(4), accepted a recommendation but altered it.
-  (4) The specified territorial authority must, when complying with subclause (2)﻿(a),—
+  (4) The specified territorial authority must, when complying with subclause (2),—
     (a) notify the recommendation as accepted; and
     (b) set out the alterations to the recommendation.
   (5) Not later than 5 working days after the Minister’s decisions under clause 105(1) are publicly notified, the specified territorial authority must serve the public notice on every person who made a submission on the IPI.
   (6) The specified territorial authority must also—
-    (a) make a copy of the public notice and the decisions under clause 101(1) publicly available—
+    (a) make a copy of the public notice and the decisions under clause 105(1) publicly available—
       (i) on an Internet site maintained by or on behalf of the territorial authority; and
       (ii) in physical form at all of the territorial authority’s offices and all public libraries in its district; and
     (b) include with the notice a statement of the places where a copy of the decisions are available; and
@@ -602,7 +602,7 @@ A relevant residential zone must provide for as a restricted discretionary activ
     (i) housing needs and demand; and
     (ii) the neighbourhood’s planned urban built character, including 3-storey buildings.
 (2) A territorial authority must include the following policies in its district plan:Policy 1Policy 2Policy 3Policy 4Policy 5
-  (a) enable a variety of housing typologies with a mix of densities within the zone, including 3-storey attached and detached dwellings, and low-rise apartments:
+  (a) enable a variety of housing types with a mix of densities within the zone, including 3-storey attached and detached dwellings, and low-rise apartments:
   (b) apply the MDRS across all relevant residential zones in the district plan except in circumstances where a qualifying matter is relevant (including matters of significance such as historic heritage and the relationship of Māori and their culture and traditions with their ancestral lands, water, sites, wāhi tapu, and other taonga):
   (c) encourage development to achieve attractive and safe streets and public open spaces, including by providing for passive surveillance:
   (d) enable housing to be designed to meet the day-to-day needs of residents:
