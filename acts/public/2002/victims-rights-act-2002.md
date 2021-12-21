@@ -1,5 +1,5 @@
 # Victims' Rights Act 2002
-_Consolidation as at 2020-12-01_
+_Consolidation as at 2021-12-21_
 
 ### 1 Title
 This Act is the Victims' Rights Act 2002.
@@ -16,6 +16,7 @@ The purpose of this Act is to improve provisions for the treatment and rights of
 In this Act, unless the context otherwise requires,—
   - **accused** or , in relation to a victim, means a person charged (whether as a principal or party or accessory after the fact or otherwise) with the commission of the offence that affected the victim
   - **address** , in relation to a victim or representative, means the address to which notices may be sent by post or electronic means (including by fax or email) and received by the victim or representative
+  - **audio record** means a recording on any medium from which a sound track may be produced by any means
   - **child** means a person under the age of 14 years
   - **facility** has the same meaning as in section 9 of the Intellectual Disability (Compulsory Care and Rehabilitation) Act 2003; and includes a secure facility within the meaning of that section
   - **family violence** has the meaning given in section 9 of the Family Violence Act 2018
@@ -46,6 +47,10 @@ In this Act, unless the context otherwise requires,—
     (b) in section 9 (which relates to meetings requested by victims) and sections 17AA to 27 (which relate to victim impact statements), includes a person found guilty of, or who pleads guilty to, that crime or offence
   - **representative** means a person appointed under section 40
   - **Secretary** means the Secretary for Justice
+  - **sexual case** means a criminal proceeding in which a person is charged with, or is waiting to be sentenced or otherwise dealt with for,—
+    (a) an offence against any of the provisions of sections 128 to 142A or section 144A of the Crimes Act 1961; or
+    (b) any other offence against the person of a sexual nature
+  - **sexual case complainant** means a complainant who is to give or is giving evidence in a sexual case
   - **specified offence** has the meaning given in section 29
   - **support person** , in relation to a victim, means—
     (a) a spouse, civil union partner, or de facto partner of the victim:
@@ -73,6 +78,7 @@ In this Act, unless the context otherwise requires,—
       (i) that offence; or
       (ii) an offence relating to the same incident or series of incidents as that crime or offence
   - **victim of a specified offence** means a victim of an offence that the Commissioner of Police determines, under section 29A, is a specified offence
+  - **video record** means a recording on any medium from which a moving image may be produced by any means; and includes an accompanying sound track
   - **young person** means a person of or over the age of 14 years but under 18 years.
 
 ### 5 Directions about members of immediate family
@@ -85,6 +91,9 @@ In this Act, unless the context otherwise requires,—
   (a) that 1 or more members of person A's immediate family, being members of that kind closer to person A than the person, consider it improper that the person be treated as a member of person A's immediate family for the purposes of this Act; or
   (b) that the interests of justice require that the person not be treated as a member of person A's immediate family for the purposes of this Act.
 (5) A person who is the subject of a direction given and not later revoked under this section must be treated in accordance with the direction.
+
+### 5A Transitional, savings, and related provisions
+The transitional, savings, and related provisions set out in Schedule 1AA have effect according to their terms.
 
 ### 6 Act binds the Crown
 This Act binds the Crown.
@@ -221,7 +230,7 @@ The prosecutor must make all reasonable efforts to ensure, before information is
   (c) that any views the victim has on whether the prosecutor should apply for orders, directions, or conditions of that kind, are ascertained.
 
 ### 19 Form and verification of information ascertained
-(1) Information ascertained from a victim under section 17 must be put into writing or recorded in another way (for example, on audiotape or videotape), unless the victim objects to it being included in the victim impact statement.
+(1) Information ascertained from a victim under section 17 must be put into writing or recorded in another way (for example, as an audio record or video record), unless the victim objects to it being included in the victim impact statement.
 (2) Information recorded under subsection (1) may be verified—
   (a) in the way stated in subsection (3), if practicable; or
   (b) if it is not practicable to verify it in the way stated in subsection (3), in the way stated in subsection (4).
@@ -271,7 +280,12 @@ The prosecutor must make all reasonable efforts to ensure, before information is
 (3) The reading of all or any part of a victim impact statement to the court may be subject to any time limit that the judicial officer considers appropriate.
 
 ### 22A Victim impact statement may be presented to court in some other manner
-The judicial officer sentencing the offender may, at the request of the prosecutor, agree that all or any part of a victim impact statement submitted under section 21 be presented to the court in any manner other than by reading it (for example, if the information ascertained from a victim is recorded on an audiotape, by playing that audiotape).
+(1) The judicial officer sentencing the offender may, at the request of the prosecutor, agree that all or any part of a victim impact statement submitted under section 21 be presented to the court in any manner other than by reading it in accordance with section 22.
+(2) For example, the manner in which all or any part of the statement may be presented to the court under this section may be any of the following:
+  (a) it can be read to the court by the victim while in the courtroom but unable to see the defendant or some other specified person:
+  (b) it can be read to the court by the victim from an appropriate place outside the courtroom, either in New Zealand or elsewhere:
+  (c) if it is an audio record, it can be presented by playing that record:
+  (d) if it is a video record, it can be presented by playing that record.
 
 ### 22B Weight to be given to victim impact statement
 In determining the weight to give to a victim impact statement, the judicial officer to whom the statement has been submitted must have regard to the following matters:
@@ -326,6 +340,19 @@ A judicial officer must not take into account in sentencing the offender a part 
 (2) If this section applies to a victim, the prosecutor—
   (a) must make all reasonable efforts to ensure that any views the victim has on the application are ascertained; and
   (b) must inform the court of any views ascertained under paragraph (a).
+
+## Part 2A — Provisions relating to rights of victims who are sexual case complainants
+
+### 28A Sections 28BA and 28D apply only to individual victims who are sexual case complainants
+Sections 28BA and 28D apply only to an individual victim who is a sexual case complainant (the victim).
+
+### 28BA Victim’s preferences on presenting victim impact statement
+If a victim impact statement of the victim as a sexual case complainant is to be, or has been, submitted under section 21(1), the prosecutor must make all reasonable efforts to ensure that—
+  (a) the victim is informed about the ways in which the victim impact statement may, with the agreement of the judicial officer sentencing the offender, be read to the court, or presented to the court in some other manner, under sections 22 and 22A; and
+  (b) any preferences the victim has on that matter are ascertained and taken into account in the operation of those sections.
+
+### 28D Court may be cleared when victim impact statement read or otherwise presented to court
+A court may, on an application made for the purpose by the prosecutor under section 199AA of the Criminal Procedure Act 2011, make an order under that section that the courtroom be cleared while the victim’s victim impact statement is read or otherwise presented to the court.
 
 ## Part 3 — Provisions relating to rights of victims of certain offences
 
@@ -745,11 +772,25 @@ The Secretary may at any time amend the code in the manner provided in sections 
 **Amendments**
 
 ### 53 Amendments
-The Acts specified in the Schedule are amended in the manner indicated in that schedule.
+The Acts specified in Schedule 1 are amended in the manner indicated in that schedule.
 
 **Repeal**
 
 ### 54 Victims of Offences Act 1987 repealed
 The Victims of Offences Act 1987 (1987 No 173) is repealed.
 
-## Schedule  — Enactments amended
+## Schedule 1AA — Transitional, savings, and related provisions
+
+### Part 1 — Provision relating to Part 2 of Sexual Violence Legislation Act 2021
+
+### 1 Proceedings affected by Part
+(1) Amendments made by a provision of Part 2 of the Sexual Violence Legislation Act 2021 (except for this clause) apply only to proceedings commenced on or after the commencement of that provision.
+(2) Proceedings commenced before that commencement, and not finally determined (including any rehearing, retrial, or appeal) before that commencement, continue as if those amendments had not been enacted.
+(3) However, the following provisions apply, after they come into force, to proceedings specified in subclause (2):
+  (a) section 22A (victim impact statement may be presented to court in some other manner):
+  (b) section 28A (sections 28BA and 28D apply only to individual victims who are sexual case complainants) (as inserted by section 30 of that Act):
+  (c) section 28A (sections 28B to 28D apply only to individual victims, or all victims, who are sexual case complainants) (as inserted by section 31 of that Act), but only to the extent that it relates to the application of sections 28BA and 28D:
+  (d) section 28BA (victim’s preferences on presenting victim impact statement) (as inserted by section 30 or 31 of that Act):
+  (e) section 28D (court may be cleared when victim impact statement read or otherwise presented to court).
+
+## Schedule 1 — Enactments amended
