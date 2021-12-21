@@ -1,5 +1,5 @@
 # Rights for Victims of Insane Offenders Act 2021
-_Consolidation as at 2021-12-13_
+_Consolidation as at 2021-12-21_
 
 ### 1 Title
 This Act is the Rights for Victims of Insane Offenders Act 2021.
@@ -384,8 +384,7 @@ This Part amends the Victims’ Rights Act 2002.
   - **act proven but not criminally responsible on account of insanity** has the same meaning as in section 4(1) of the Criminal Procedure (Mentally Impaired Persons) Act 2003
 
 ### 29 New section 5A inserted (Transitional, savings, and related provisions)
-After section 5, insert:Transitional, savings, and related provisions
-  The transitional, savings, and related provisions set out in Schedule 1AA have effect according to their terms.
+[Repealed]
 
 ### 30 Cross-heading above section 17AA replaced
 Replace the cross-heading above section 17AA with:Victim impact statementsDefinitions and purpose
@@ -433,6 +432,9 @@ Repeal section 26.
 ### 42 Section 28 and cross-heading renumbered and repositioned
 Renumber section 28 as section 16B and reposition it, with the cross-heading above it, after section 16A.
 
+### 42A Section 28BA amended (Victim’s preferences on presenting victim impact statement)
+In section 28BA(a) (as, or when, inserted by section 31 of the Sexual Violence Legislation Act 2021), after sentencing the offender, insert or making an order under section 24(1) or 25(1) of the Criminal Procedure (Mentally Impaired Persons) Act 2003 in relation to a defendant who is acquitted on account of insanity.
+
 ### 43 New section 30A and cross-heading inserted
 After section 30, insert:Notice for victims of persons or offenders subject to mental health or intellectual disability careVictims of persons or offenders subject to mental health or intellectual disability care must be notified of person’s or offender’s designation
   (1) Without limiting sections 29 and 32B, this section applies to a victim if the person accused of the offence or, as the case requires, the offender—
@@ -450,8 +452,10 @@ After section 30, insert:Notice for victims of persons or offenders subject to m
     (c) a list of the future notifications that the victim is eligible to receive.
   (3) The Director-General of Health must give notice under subsection (2) to the victim as soon as practicable after the person or offender has been designated as one of the classes of people described in subsection (2)﻿(a).
 
-### 44 New Schedule 1AA inserted
-Insert the Schedule 1AA set out in Schedule 4 of this Act as the first schedule to appear after the last section of the Victims’ Rights Act 2002.
+### 44 Schedule 1AA amended
+In Schedule 1AA,—
+  (a) insert the Part set out in Schedule 4 of this Act as the last Part; and
+  (b) make all necessary consequential amendments.
 
 ### 45 Consequential amendments to Victims’ Rights Act 2002
 Amend the Victims’ Rights Act 2002 as set out in Part 2 of Schedule 5.
@@ -557,13 +561,13 @@ No proceeding under section 20 is invalid only because it was conducted under th
     (i) authorise a special care recipient to be on leave under section 67(1); or
     (ii) cancel a special care recipient’s leave under section 67(3).
 
-## Schedule 4 — New Schedule 1AA inserted in Victims’ Rights Act 2002
+## Schedule 4 — New Part 2 of Schedule 1AA inserted in Victims’ Rights Act 2002
 
-### Schedule 1AA — Transitional, savings, and related provisions
+### Schedule
 
-#### Part 1 — Provision relating to Rights for Victims of Insane Offenders Act 2021
+#### Part 2 — Provision relating to Rights for Victims of Insane Offenders Act 2021
 
-### 1 Transitional provision
+### 2 Transitional provision
 (1) This clause applies to any matter initiated under section 17AA, 20, 21, 22, 22A, 26, or 28 before the commencement of this clause.
 (2) If this clause applies, the provisions of the relevant section, as they read immediately before the commencement of this clause, continue to apply to the matter as if they had not been amended or replaced by the Rights for Victims of Insane Offenders Act 2021.
 (3) In this clause, matter includes any—
