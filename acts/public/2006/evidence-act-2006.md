@@ -1,5 +1,5 @@
 # Evidence Act 2006
-_Consolidation as at 2021-10-28_
+_Consolidation as at 2021-12-21_
 
 ### 1 Title
 This Act is the Evidence Act 2006.
@@ -100,9 +100,14 @@ This Act binds the Crown.
     (b) in sections 145 to 147, has the meaning set out in section 145
   - **seal** includes a stamp
   - **self-incrimination** means the provision by a person of information that could reasonably lead to, or increase the likelihood of, the prosecution of that person for a criminal offence
-  - **sexual case** means a criminal proceeding in which a person is charged with, or is waiting to be sentenced or otherwise dealt with for,—
-    (a) an offence against any of the provisions of sections 128 to 142A or section 144A of the Crimes Act 1961; or
-    (b) any other offence against the person of a sexual nature
+  - **sexual case** means—
+    (a) a criminal proceeding in which a person is charged with, or is waiting to be sentenced or otherwise dealt with for,—
+      (i) an offence against any of the provisions of sections 128 to 142A or section 144A of the Crimes Act 1961; or
+      (ii) any other offence against a person of a sexual nature; and
+    (b) for the purpose of sections 40(3)﻿(b), 44 to 44A, and 95(1) only, a civil proceeding that involves issues in dispute of a sexual nature
+  - **sexual reputation** , of a complainant, for the purposes of section 44AA,—
+    (a) means the way in which the complainant is regarded, by others, in sexual matters (including, without limitation, as having a particular sexual disposition or experience); but
+    (b) excludes any witness’s evidence that is derived from the witness’s personal sexual experience with, or personal knowledge of the sexual disposition of, the complainant (evidence of which is subject to section 44)
   - **statement** means—
     (a) a spoken or written assertion by a person of any matter; or
     (b) non-verbal conduct of a person that is intended by that person as an assertion of any matter
@@ -119,6 +124,9 @@ This Act binds the Crown.
   - **witness** means a person who gives evidence and is able to be cross-examined in a proceeding.
 (2) A hearing commences for the purposes of this Act when, at the substantive hearing of the issues that are the subject of proceedings, the party having the right to begin commences to state that party’s case or, having waived the right to make an opening address, calls that party’s first witness.
 (3)
+
+### 4A Transitional, savings, and related provisions
+The transitional, savings, and related provisions set out in Schedule 1AA have effect according to their terms.
 
 ### 5 Application
 (1) If there is an inconsistency between the provisions of this Act and any other enactment, the provisions of that other enactment prevail, unless this Act provides otherwise.
@@ -404,7 +412,7 @@ In a criminal proceeding, no person other than the defendant or the defendant’
 ### 36 Application of subpart to evidence of veracity and propensity
 (1) This subpart does not apply to evidence about a person’s veracity if that veracity is an ingredient of the claim in a civil proceeding or one of the elements of the offence for which a person is being tried in a criminal proceeding.
 (2) This subpart does not apply so far as a proceeding relates to bail or sentencing.
-(3) Subsection (2) is subject to section 44.
+(3) Subsection (2) is subject to sections 44 to 44A.
 
 **Evidence of veracity**
 
@@ -449,12 +457,12 @@ In a criminal proceeding, no person other than the defendant or the defendant’
 (1) In this section and sections 41 to 43, propensity evidence—
   (a) means evidence that tends to show a person’s propensity to act in a particular way or to have a particular state of mind, being evidence of acts, omissions, events, or circumstances with which a person is alleged to have been involved; but
   (b) does not include evidence of an act or omission that is—
-    (i) 1 of the elements of the offence for which the person is being tried; or
-    (ii) the cause of action in the proceeding in question.
+    (i) one of the elements of the offence for which the person is being tried; or
+    (ii) the cause of action in the civil proceeding in question.
 (2) A party may offer propensity evidence in a civil or criminal proceeding about any person.
 (3) However, propensity evidence about—
   (a) a defendant in a criminal proceeding may be offered only in accordance with section 41 or 42 or 43, whichever section is applicable; and
-  (b) a complainant in a sexual case in relation to the complainant’s sexual experience may be offered only in accordance with section 44.
+  (b) a complainant in a sexual case in relation to the complainant’s sexual experience, sexual disposition, or sexual reputation may be offered only in accordance with sections 44 to 44A.
 (4) Evidence that is solely or mainly relevant to veracity is governed by the veracity rules set out in section 37 and, accordingly, this section does not apply to evidence of that kind.
 
 ### 41 Propensity evidence about defendants
@@ -489,31 +497,53 @@ In a criminal proceeding, no person other than the defendant or the defendant’
 
 **Complainants in sexual cases**
 
-### 44 Evidence of sexual experience of complainants in sexual cases
-(1) In a sexual case, no evidence can be given and no question can be put to a witness relating directly or indirectly to the sexual experience of the complainant with any person other than the defendant, except with the permission of the Judge.
-(1A) Subsection (1) is subject to the requirements in section 44A.
-(2) In a sexual case, no evidence can be given and no question can be put to a witness that relates directly or indirectly to the reputation of the complainant in sexual matters.
-(3) In an application for permission under subsection (1), the Judge must not grant permission unless satisfied that the evidence or question is of such direct relevance to facts in issue in the proceeding, or the issue of the appropriate sentence, that it would be contrary to the interests of justice to exclude it.
-(4) The permission of the Judge is not required to rebut or contradict evidence given under subsection (1).
-(5) In a sexual case in which the defendant is charged as a party and cannot be convicted unless it is shown that another person committed a sexual offence against the complainant, subsection (1) does not apply to any evidence given, or any question put, that relates directly or indirectly to the sexual experience of the complainant with that other person.
-(6) This section does not authorise evidence to be given or any question to be put that could not be given or put apart from this section.
+### 44 Evidence of sexual experience or sexual disposition of complainants in sexual cases
+(1) In a sexual case, unless a Judge gives permission (on an application made under this subsection and in accordance with section 44A), no evidence can be given and no question can be put to a witness that relates directly or indirectly to—
+  (a) the sexual experience of the complainant with the defendant (except to establish 1 or both of the following:
+    (i) the mere fact that the complainant has sexual experience with the defendant:
+    (ii) an act or omission that is one of the elements of the offence for which the defendant is being tried, or that is the cause of action in the civil proceeding in question):
+  (b) the sexual experience of the complainant with any person other than the defendant:
+  (c) the sexual disposition of the complainant.
+(2) The Judge must not grant permission under subsection (1) to bring the evidence or ask the question unless satisfied that the evidence or question is of such direct relevance to facts in issue in the proceeding, or the issue of the appropriate sentence, that it would be contrary to the interests of justice to exclude it.
+(3) The permission of the Judge is not required to rebut or contradict evidence permitted to be given under this section.
+(4) In a sexual case in which the defendant is charged as a party and cannot be convicted unless it is shown that another person committed a sexual offence against the complainant, subsection (1)﻿(b) does not apply to any evidence given, or any question put, that relates directly or indirectly to the sexual experience of the complainant with that other person.
+(5) This section does not authorise evidence to be given or any question to be put that could not be given or put apart from this section.
+(6) In this section and sections 40(3)﻿(b), 44AA, and 44A, complainant, in a civil proceeding that involves issues in dispute of a sexual nature, means the party, or a witness for the party, who seeks to establish a cause of action or, as the case requires, a defence in the civil proceeding.
 
-### 44A Application to offer evidence or ask question about sexual experience of complainant in sexual cases
-(1) An application under section 44(1) must comply with subsections (2) to (5) (as relevant) unless—
+### 44AA Evidence of sexual reputation of complainants in sexual cases
+(1) In a sexual case, no evidence can be given and no question can be put to a witness that relates directly or indirectly to the sexual reputation of the complainant.
+(2) However, in a sexual case that is a specified civil proceeding (as defined in subsection (3)), the Judge may give permission (on an application made under this subsection and in accordance with section 44A) for evidence to be given or a question to be put to a witness that relates directly or indirectly to the sexual reputation of the complainant.
+(3) A specified civil proceeding, in subsection (2), means a civil proceeding in which the complainant’s sexual reputation itself is directly relevant to—
+  (a) a cause of action in the civil proceeding; or
+  (b) a defence in the civil proceeding.
+(4) The Judge must not grant permission under subsection (2) to bring the evidence or ask the question unless satisfied that the evidence or question is of such direct relevance to facts in issue in the proceeding that it would be contrary to the interests of justice to exclude it.
+(5) However, evidence (of the sexual reputation of the complainant) permitted to be given under this section cannot be used—
+  (a) to support a claim of consent, or of reasonable belief in consent, to an act of a sexual nature; or
+  (b) to prove the accuracy or truth of that reputation.
+(6) The permission of the Judge is not required to rebut or contradict evidence permitted to be given under this section.
+(7) This section does not authorise evidence to be given or any question to be put that could not be given or put apart from this section.
+
+### 44A Application to offer evidence or ask questions about sexual experience or sexual disposition or sexual reputation of complainants in sexual cases
+(1) An application made under section 44(1) or 44AA(2) must comply with subsections (2) to (6) (as relevant) unless—
   (a) every other party has waived those requirements; or
   (b) the Judge dispenses with those requirements.
-(2) A party who proposes to offer evidence about the sexual experience of a complainant must make a written application and the application must include—
+(2) A party who proposes to offer evidence about the sexual experience or sexual disposition or sexual reputation of a complainant must make a written application to a Judge, which must include—
   (a) the name of the person who will give the evidence; and
-  (b) the subject matter and scope of the evidence.
-(3) A party who proposes to ask any question about the sexual experience of a complainant must make a written application and the application must include—
+  (b) the subject matter and scope of the evidence; and
+  (c) the reasons it is claimed that the evidence meets the test in section 44(2) or 44AA(4).
+(3) A party who proposes to ask any question about the sexual experience or sexual disposition or sexual reputation of a complainant must make a written application to a Judge, which must include—
   (a) the name of the person who will be asked the question; and
   (b) the question; and
-  (c) the scope of the questioning sought to flow from the initial question.
-(4) If any document is intended to be produced as evidence of the sexual experience of a complainant, the application required under subsection (2) must be accompanied by a copy of the document.
-(5) An application must be made and a copy of the application must be given to all other parties—
-  (a) as early as practicable before the case is to be tried so that all other parties are provided with a fair opportunity to respond to the evidence or question:
-  (b) unless a Judge otherwise permits under subsection (6), no later than when a case management memorandum (for a judge-alone trial) or a trial callover memorandum (for a jury trial) is filed under the Criminal Procedure Act 2011.
-(6) The Judge may dispense with any of the requirements in subsections (2) to (5) if,—
+  (c) the scope of the questioning sought to flow from the initial question; and
+  (d) the reasons it is claimed that the evidence meets the test in section 44(2) or 44AA(4).
+(4) If any document is intended to be produced as evidence of the sexual experience or sexual disposition or sexual reputation of a complainant, the application required under subsection (2) must be accompanied by a copy of the document.
+(5) In a criminal proceeding, an application must be made, and a copy of the application must be given to all other parties,—
+  (a) as early as practicable before the trial so that all other parties are provided with a fair opportunity to respond to the evidence or question:
+  (b) unless a Judge otherwise permits under subsection (7), no later than when a case management memorandum (for a Judge-alone trial) or a trial callover memorandum (for a jury trial) is filed under the Criminal Procedure Act 2011.
+(6) In a civil proceeding, an application must be made, and a copy of the application must be given to all other parties,—
+  (a) as early as practicable before the evidence is to be offered or the question is to be asked so that all other parties are provided with a fair opportunity to respond to the evidence or question; and
+  (b) unless a Judge permits otherwise under subsection (7), no later than the close of pleadings date.
+(7) The Judge may dispense with any of the requirements in subsections (2) to (6) if,—
   (a) having regard to the nature of the evidence or question proposed to be offered or asked, no party is substantially prejudiced by the failure to comply with a requirement; and
   (b) compliance was not reasonably practicable in the circumstances; and
   (c) it is in the interests of justice to do so.
@@ -974,13 +1004,14 @@ A person must either take an oath or make an affirmation before acting as an int
 (2) If a witness gives evidence in an affidavit or by reading a written statement in a courtroom, it is to be treated for the purposes of this Act as evidence given in chief.
 
 ### 85 Unacceptable questions
-(1) In any proceeding, the Judge may disallow, or direct that a witness is not obliged to answer, any question that the Judge considers improper, unfair, misleading, needlessly repetitive, or expressed in language that is too complicated for the witness to understand.
+(1) In any proceeding, if the Judge considers a question, or the way in which it is asked, is improper, unfair, misleading, needlessly repetitive, or expressed in language that is too complicated for the witness to understand, the Judge must disallow the question or direct that the witness is not obliged to answer it.
 (2) Without limiting the matters that the Judge may take into account for the purposes of subsection (1), the Judge may have regard to—
-  (a) the age or maturity of the witness; and
+  (a) the age, maturity, or vulnerability of the witness; and
   (b) any physical, intellectual, psychological, or psychiatric impairment of the witness; and
   (c) the linguistic or cultural background or religious beliefs of the witness; and
   (d) the nature of the proceeding; and
-  (e) in the case of a hypothetical question, whether the hypothesis has been or will be proved by other evidence in the proceeding.
+  (e) in the case of a hypothetical question, whether the hypothesis has been or will be proved by other evidence in the proceeding; and
+  (f) the nature of previous questions and any cumulative impact the questioning may have on the witness.
 
 ### 86 Restriction of publication
 A person commits a contempt of court who prints or publishes,—
@@ -1043,9 +1074,12 @@ If a party in any proceeding cross-examines a witness who has the same, or subst
 In any proceeding, the party who calls a witness may, if the Judge determines that the witness is hostile and gives permission, cross-examine the witness to the extent authorised by the Judge.
 
 ### 95 Restrictions on cross-examination by parties in person
-(1) A defendant in a sexual case, or a defendant in or a party to criminal or civil proceedings concerning family violence or harassment, is not entitled to personally cross-examine—
-  (a) a complainant, or a party who has made allegations of family violence or harassment:
-  (b) a child (other than a complainant) who is a witness, unless the Judge gives permission.
+(1) A defendant in or a party to a sexual case, or a defendant in or a party to a criminal or civil proceeding concerning family violence or harassment, is not entitled to personally cross-examine—
+  (a) a complainant; or
+  (b) any other witness (for example, a propensity witness) who has made an allegation against that defendant or party (as applicable),—
+    (i) in a criminal proceeding, of an offence of a sexual nature, or of an offence of family violence or harassment; or
+    (ii) in a civil proceeding, of a sexual nature, or of family violence or harassment; or
+  (c) a child who is a witness of a kind not described in paragraph (a) or (b), unless the Judge gives permission.
 (2) In a civil or criminal proceeding, a Judge may, on the application of a witness, or a party calling a witness, or on the Judge’s own initiative, order that a party to the proceeding must not personally cross-examine the witness.
 (3) An order under subsection (2) may be made on 1 or more of the following grounds:
   (a) the age or maturity of the witness:
@@ -1058,9 +1092,9 @@ In any proceeding, the party who calls a witness may, if the Judge determines th
   (a) the need to ensure the fairness of the proceeding and, in a criminal proceeding, that the defendant has a fair trial; and
   (b) the need to minimise the stress on the complainant or witness; and
   (c) any other factor that is relevant to the just determination of the proceeding.
-(5) A defendant or party to a proceeding who, under this section, is precluded from personally cross-examining a witness may have his or her questions put to the witness by—
-  (a) a lawyer engaged by the defendant; or
-  (b) if the defendant is unrepresented and fails or refuses to engage a lawyer for the purpose within a reasonable time specified by the Judge, a person appointed by the Judge for the purpose.
+(5) A defendant in or party to a proceeding who, under this section, is precluded from personally cross-examining a witness may have that defendant’s or party’s questions put to the witness by—
+  (a) a lawyer engaged by the defendant or the party; or
+  (b) if the defendant or the party is unrepresented and fails or refuses to engage a lawyer for the purpose within a reasonable time specified by the Judge, a person appointed by the Judge for the purpose.
 (6) In respect of each such question, the Judge may—
   (a) allow the question to be put to the witness; or
   (b) require the question to be put to the witness in a form rephrased by the Judge; or
@@ -2277,6 +2311,14 @@ The enactments specified in Schedule 1 are repealed.
 
 ### 216 Consequential amendments
 The enactments specified in Schedule 2 are amended in the manner set out in that schedule.
+
+## Schedule 1AA — Transitional, savings, and related provisions
+
+### Part 1 — Provision relating to Part 1 of Sexual Violence Legislation Act 2021
+
+### 1 Proceedings affected by Part
+(1) Amendments made by a provision of Part 1 of the Sexual Violence Legislation Act 2021 (except for this clause) apply only to proceedings commenced on or after the commencement of that provision.
+(2) Proceedings commenced before that commencement, and not finally determined (including any rehearing, retrial, or appeal) before that commencement, continue as if those amendments had not been enacted.
 
 ## Schedule 1 — Enactments repealed
 
