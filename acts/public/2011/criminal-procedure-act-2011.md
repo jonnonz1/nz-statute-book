@@ -1,5 +1,5 @@
 # Criminal Procedure Act 2011
-_Consolidation as at 2021-11-03_
+_Consolidation as at 2021-12-21_
 
 ### 1 Title
 This Act is the Criminal Procedure Act 2011.
@@ -2001,7 +2001,7 @@ For the purposes of this subpart, publication means publication in the context o
 ### 196 Court proceedings generally open to public
 (1) Every hearing is open to the public.
 (2) Subsection (1) does not apply to any hearing on the papers.
-(3) This section is subject to sections 97, 197, and 199, and any other enactment.
+(3) This section is subject to sections 97, 197, 199, and 199AA, and any other enactment.
 
 **Power to clear court**
 
@@ -2052,6 +2052,30 @@ For the purposes of this subpart, publication means publication in the context o
   (c) any other offence against the person of a sexual nature:
   (d) being a party to the commission of any offence referred to in paragraphs (a) to (c):
   (e) conspiring with any person to commit any such offence.
+
+### 199AA Court may be cleared when victim impact statement read or otherwise presented to court in cases of sexual nature
+(1) In any case of a sexual nature, a court may, on an application made for the purpose by the prosecutor, make an order that no person may be present in the courtroom while the victim’s victim impact statement is read or otherwise presented to the court, except for the following:
+  (a) the Judge:
+  (b) the prosecutor:
+  (c) the defendant and any person who is for the time being acting as custodian of the defendant:
+  (d) any lawyer engaged in the proceedings:
+  (e) any officer of the court:
+  (f) the Police employee in charge of the case:
+  (g) any member of the media (as defined in section 198(2)):
+  (h) any person whose presence is requested by the victim:
+  (i) any person expressly permitted by the Judge to be present.
+(2) The order may be made only if the court is satisfied that the order is necessary to avoid causing the victim undue distress.
+(3) In deciding an application made under this section, the court must take into account, in addition to any other factors the court considers relevant, the following considerations:
+  (a) the interests of the victim, and any preferences the victim has on how the victim’s victim impact statement is read or otherwise presented to the court:
+  (b) whether those interests and preferences could be served and met by the statement being read or otherwise presented to the court in an alternative way:
+  (c) whether the statement is to be read to the court by the victim, or by a person nominated by the victim, under section 22(1)﻿(a) or (c) of the Victims’ Rights Act 2002.
+(4) Even if an order is made under subsection (1), the passing of sentence must take place in public; but, if the court is satisfied that exceptional circumstances exist, it may decline to state in public all or any of the facts, reasons, or other considerations that it has taken into account in determining the sentence.
+(5) In this section,—
+  - **case of a sexual nature** has the meaning in section 199(3)
+  - **read or otherwise presented to the court** , for a victim impact statement, means that all or any part of it is read or otherwise presented to the court under section 22 or 22A of the Victims’ Rights Act 2002
+  - **victim impact statement** means a victim impact statement—
+    (a) as defined in section 17AA of the Victims’ Rights Act 2002; and
+    (b) submitted under section 21 of that Act to the judicial officer sentencing the offender.
 
 **Automatic suppression of previous convictions**
 
@@ -3881,6 +3905,15 @@ In this Part,—
 
 ### 4 Declaration made under old law continues to be admissible
 A declaration containing the statement required by section 82(1)﻿(b) of the principal Act (as it read before the amendments made by section 32 of the Courts Matters Act 2018) continues to be admissible in proceedings on and after the commencement of section 32 of the Courts Matters Act 2018.
+
+### Part 3 — Provision relating to Part 3 of Sexual Violence Legislation Act 2021
+
+### 5 Proceedings affected by Part
+(1) Amendments made by a provision of Part 3 of the Sexual Violence Legislation Act 2021 (except for this clause) apply only to proceedings commenced on or after the commencement of that provision.
+(2) Proceedings commenced before that commencement, and not finally determined (including any rehearing, retrial, or appeal) before that commencement, continue as if those amendments had not been enacted.
+(3) However, the following provisions apply, after they (or, as the case requires, after the amendments made to them by that Part) come into force, to proceedings specified in subclause (2):
+  (a) section 196(3) (court proceedings generally open to public):
+  (b) section 199AA (court may be cleared when victim impact statement read or otherwise presented to court in cases of sexual nature).
 
 ## Schedule 1 — Category 4 offences
 
