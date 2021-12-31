@@ -1,5 +1,5 @@
 # Tax Administration Act 1994
-_Consolidation as at 2021-11-25_
+_Consolidation as at 2021-12-31_
 
 > An Act to reorganise and consolidate the law relating to the Inland Revenue Department and the administration of income tax matters
 
@@ -3411,7 +3411,7 @@ A person that uses the AIM method as described in section RC 5(5B) of the Income
 (3B) Subsection (3C) applies to an employer who—
   (a) chooses to pay under the close company option; and
   (b) is linked to a tax agent to whom section 37(4) and section RA 13(2)﻿(a)﻿(i) and (4) of the Income Tax Act 2007 apply.
-(3C) Despite subsection (3), during the period of co-existence of 2 Inland Revenue software platforms, the employer may provide the return by the due date for the month that is specified in schedule 3, part A, column H of the Income Tax Act 2007. The employer is liable to pay the amount calculated by the same date. This subsection expires and is repealed on 31 December 2021.
+(3C)
 (4) For an employer who chooses to pay under the small business option, the return must be provided no later than 31 May after the end of the relevant tax year. The employer is liable to pay the amount calculated by 31 May.
 
 ### 46D FBT returns: changes in payment periods
@@ -9586,47 +9586,7 @@ The information in section 185I(1)﻿(a) and (b) must be provided to the New Zea
 (6) For the purpose of determining the punishment which may be imposed on a person in respect of the commission of an offence under a provision of this Act, an offence committed by that person under a corresponding repealed enactment is deemed to have been committed under that provision.
 
 ### 227B Regulations providing for transitional exemptions and other matters
-(1) This section provides a regulation-making power for matters relating to the administration of this Act that—
-  (a) arise during the period of co-existence of 2 Inland Revenue software platforms; and
-  (b) affect the application of this Act in relation to 1 or more taxpayers; and
-  (c) make it necessary in order to achieve an orderly transition to the new software platform for amendments to be made to this Act consistent with the purposes of the Inland Revenue Acts.
-(2) The Governor-General may, by Order in Council on the recommendation of the Minister of Revenue, make regulations—
-  (a) providing transitional and savings provisions—
-    (i) concerning the coming into force of provisions affecting the administration of this Act:
-    (ii) that may be in addition to, or in place of, other provisions of this Act:
-  (b) prescribing how provisions of this Act must be applied or modified for the purpose set out in subsection (1):
-  (c) providing that, subject to conditions as may be set out in the regulations, during a specified transitional period,—
-    (i) specified provisions of this Act, including definitions, do not apply, or apply with modifications or additions, or both:
-    (ii) specified terms have the meaning given to them by the regulations:
-    (iii) specified provisions repealed or amended in this Act are to continue to apply:
-  (d) specifying categories of persons who may be exempted from some or all of an obligation under this Act:
-  (e) providing for any other matters that may be required to achieve the purpose set out in subsection (1).
-(3) Regulations made under this section may not—
-  (a) cause a taxpayer’s liability to be more than the liability they would have under this Act if no regulations were made under this section:
-  (b) alter or affect the application of—
-    (i) the care and management provisions in sections 6 and 6A:
-    (ii) the information provisions in sections 16 to 17L:
-    (iii) the secrecy provisions in Part 4:
-    (iv) a shortfall penalty under sections 141 to 141K:
-    (v) a criminal penalty under sections 143 to 148:
-  (c) directly or indirectly remove or diminish the rights of a taxpayer under—
-    (i) the disputes provisions in Part 4A:
-    (ii) the provisions for determinations under Part 5:
-    (iii) binding rulings under Part 5A:
-    (iv) the objection and challenge provisions in Parts 8 and 8A:
-    (v) the provisions relating to remission, relief, and refunds in Part 11:
-  (d) have retrospective application.
-(4) Regulations made under this section must include a date on which the regulations are revoked, and that date must be no later than 3 years after the date on which they are made.
-(5) The Minister may recommend the making of regulations under this section only if satisfied that—
-  (a) the regulations—
-    (i) are necessary to achieve the purpose set out in subsection (1); and
-    (ii) are consistent with the purposes of the Inland Revenue Acts; and
-    (iii) are the only legislative option that is practicable in the circumstances; and
-  (b) a consultative process has been undertaken that—
-    (i) includes the distribution of draft regulations and an explanation of the way in which the regulations would meet the requirements of paragraph (a) to persons or organisations that represent taxpayers that it is reasonable to consult with for the purposes of this section; and
-    (ii) provides a period of consultation of at least 4 weeks.
-(5B) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
-(6) This section and any unexpired regulations made under this section expire and are repealed on 31 December 2021.
+[Repealed]
 
 ### 227C Transitional provision: voluntary application of employment income information provisions
 (1) This section applies for the purposes of this Act and the Income Tax Act 2007, when an employer or PAYE intermediary, other than an employer who provides their employment income information by non-electronic means, is required to provide an employer monthly schedule and a PAYE income payment form in the period that starts on 1 April 2018 and ends on 31 March 2019 (the transitional period).
