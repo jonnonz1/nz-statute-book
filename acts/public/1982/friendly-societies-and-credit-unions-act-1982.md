@@ -1,5 +1,5 @@
 # Friendly Societies and Credit Unions Act 1982
-_Consolidation as at 2021-10-28_
+_Consolidation as at 2022-01-01_
 
 > An Act to consolidate and amend the law relating to friendly and certain other societies, to make better provision for the formation and administration of credit unions, and to provide for matters related thereto
 
@@ -533,7 +533,7 @@ In sections 63 to 64A, a registered society or branch is, in respect of a financ
 
 ### 64 Registered society or branch may opt out
 (1) This section applies to a registered society or branch that would, but for this section, be required to comply with section 63 unless the rules of the society or branch expressly provide that this section does not apply.
-(2) However, this section does not apply to a registered society or branch in respect of a financial year if, in each of the 2 preceding financial years, the total operating expenditure of the society or branch is $30 million or more.
+(2) However, this section does not apply to a registered society or branch in respect of a financial year if, in each of the 2 preceding financial years, the total operating expenditure of the society or branch is $33 million or more.
 (3) The members of a registered society or branch may, at a meeting of the society or branch held within 6 months from the start of a financial year, opt out of compliance with section 63 in relation to that financial year by way of a resolution of a majority of the members of the registered society or branch.
 (4) If the members opt out of compliance with section 63 in relation to a financial year under this section, the section does not apply to the society or branch in relation to that financial year.
 (5) A financial reporting standard (or a part of a standard) issued by the External Reporting Board that is expressed as applying for the purposes of this section must be applied in determining whether subsection (2) applies.
