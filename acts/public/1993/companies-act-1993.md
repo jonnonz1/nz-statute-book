@@ -1,5 +1,5 @@
 # Companies Act 1993
-_Consolidation as at 2021-10-28_
+_Consolidation as at 2022-01-01_
 
 > An Act to reform the law relating to companies, and, in particular,—ato reaffirm the value of the company as a means of achieving economic and social benefits through the aggregation of capital for productive purposes, the spreading of economic risk, and the taking of business risks; andbto provide basic and adaptable requirements for the incorporation, organisation, and operation of companies; andcto define the relationships between companies and their directors, shareholders, and creditors; anddto encourage efficient and responsible management of companies by allowing directors a wide discretion in matters of business judgment while at the same time providing protection for shareholders and creditors against the abuse of management power; andeto provide straightforward and fair procedures for realising and distributing the assets of insolvent companies
 
@@ -2281,8 +2281,8 @@ Every company or overseas company to which this section applies (A) must ensure 
 (1) If an overseas company is required to prepare financial statements under section 201 and its New Zealand business is large, the financial statements that are prepared must include, in addition to the financial statements of the overseas company, financial statements for its New Zealand business prepared as if that business were conducted by a company formed and registered in New Zealand.
 (2) If an overseas company is required to prepare group financial statements under section 202 and the group's New Zealand business is large, the group financial statements that are prepared must include, in addition to the financial statements of the group, financial statements for the group's New Zealand business prepared as if the members of the group were companies formed and registered in New Zealand.
 (3) In this section, the New Zealand business or the group's New Zealand business is large in respect of an accounting period if at least 1 of the following paragraphs applies (calculated as if that business were an entity):
-  (a) as at the balance date of each of the 2 preceding accounting periods, the total assets of the business exceed $20 million:
-  (b) in each of the 2 preceding accounting periods, the total revenue of the business exceeds $10 million.
+  (a) as at the balance date of each of the 2 preceding accounting periods, the total assets of the business exceed $22 million:
+  (b) in each of the 2 preceding accounting periods, the total revenue of the business exceeds $11 million.
 (4) A financial reporting standard (or a part of a standard) issued by the External Reporting Board that is expressed as applying for the purposes of subsection (3) must be applied in determining whether that provision applies.
 (5) If an overseas company has been granted an exemption under section 207L from a requirement to prepare financial statements under section 201 or group financial statements under section 202, subsection (1) or (2) (as the case may be) still applies (except that the financial statements for the New Zealand business are not in addition to the financial statements of the overseas company or its group).
 
