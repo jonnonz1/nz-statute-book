@@ -1,5 +1,5 @@
 # Regional Comprehensive Economic Partnership (RCEP) Legislation Act 2021
-_Consolidation as at 2021-10-27_
+_Consolidation as at 2022-01-01_
 
 ### 1 Title
 This Act is the Regional Comprehensive Economic Partnership (RCEP) Legislation Act 2021.
