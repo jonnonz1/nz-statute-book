@@ -1,5 +1,5 @@
 # Education and Training Act 2020
-_Consolidation as at 2021-12-16_
+_Consolidation as at 2022-01-01_
 
 ### 1 Title
 This Act is the Education and Training Act 2020.
@@ -7954,11 +7954,7 @@ Employment in the service of NZQA is Government service within the meaning of th
 (3) Despite subclause (2), Part 18A of the 1989 Act, as it read immediately before the commencement of this clause, continues to apply for the purposes of completing any proceedings commenced before the commencement of this clause.
 
 ### 69 Transitional provision relating to export education levy
-(1) Despite anything in this Act or any other enactment, with respect to the period beginning on 1 January 2020 and ending with the close of 31 December 2021, an export education levy—
-  (a) is not payable; and
-  (b) may not be imposed.
-(2) If an export education levy is paid in respect of all or part of the period specified in subclause (1), it must be refunded.
-(3) This clause is repealed on 1 January 2022.
+[Repealed]
 
 #### Subpart 7 — Provisions for Part 6 (administration of education system)
 
