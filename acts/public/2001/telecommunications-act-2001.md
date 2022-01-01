@@ -1,5 +1,5 @@
 # Telecommunications Act 2001
-_Consolidation as at 2021-10-28_
+_Consolidation as at 2022-01-01_
 
 ### 1 Title
 This Act is the Telecommunications Act 2001.
@@ -3350,49 +3350,16 @@ Sections 156L, 156M, and 156O to 156R apply to an undertaking under this subpart
 ### Subpart 3 — Information disclosure by LFCs with undertakings
 
 ### 156AT Purpose
-The purpose of this subpart is to promote competition in telecommunications markets for the long-term benefit of end-users of telecommunications services in New Zealand by requiring LFCs who have given undertakings in relation to certain services to provide reliable and timely information to the Commission to enable it to record over time the costs and characteristics of LFC fibre networks to inform the Commission's statutory processes and determinations.
+[Repealed]
 
 ### 156AU Commission must require disclosure by LFCs
-(1) The Commission must require LFCs to prepare and disclose information, annually, about the costs and characteristics of relevant services and the LFC fibre networks used to provide, or comprised of, relevant services.
-(2) The Commission may require the LFCs to prepare and disclose information consisting of, or about, the following things, as part of the information required under this section:
-  (a) financial statements:
-  (b) asset valuations and valuation reports:
-  (c) prices, terms, and conditions:
-  (d) costs and cost allocation methodologies:
-  (e) contracts:
-  (f) transactions with related parties (as if the test for related parties were the same as the test in section 79), including prices and methodologies in relation to such transactions:
-  (g) financial and non-financial performance measures:
-  (h) plans and forecasts:
-  (i) transfer payments (whether actual or notional) amongst prescribed business activities:
-  (j) network capacity information:
-  (k) characteristics of relevant services:
-  (l) policies and methodologies in the areas referred to in paragraphs (a) to (k) or other areas.
-(3) The Commission may, as part of the information required under this section,—
-  (a) define the prescribed business activities and prescribed services in respect of which the LFC must prepare and disclose information:
-  (b) require the LFC to adopt, in the preparation or compilation of that information, any methodology that is required by the Commission (including the allocation methodology that must be used for preparing the financial statements and allocating the costs):
-  (c) require the LFC to disclose the manner in which methodologies have been applied:
-  (d) prescribe the information that must be included in the financial statements to be prepared and disclosed.
-(4) The LFCs must prepare and disclose the information required under this section in accordance with the Commission's requirements.
-(5) To avoid doubt, nothing in this subpart requires an LFC to prepare and disclose information about the operation of all or any of its network or wholesale activities as if those activities were operated as independent or unrelated companies.
+[Repealed]
 
 ### 156AV Further powers of Commission relating to information disclosure
-The Commission may, in making requirements under section 156AU,—
-  (a) prescribe the form and manner in which information must be disclosed:
-  (b) specify a time or date, or times or dates, as at which information must be disclosed:
-  (c) require the disclosure of assumptions made in the preparation of the information:
-  (d) require the audit of disclosed information:
-  (e) require disclosed information, or information from which disclosed information is derived (in whole or in part), to be certified, in a prescribed form and manner, by persons belonging to any specified class of persons:
-  (f) set rules about when and for how long information must be disclosed:
-  (g) require the retention of data on which disclosed information is based and associated documentation:
-  (h) exempt or provide for exemptions (including provide for the revocation of exemptions), on any terms and conditions, of any person or class of persons from all or any of the requirements:
-  (i) provide for transitional provisions:
-  (j) make requirements from time to time (for example, more than once a year):
-  (k) make requirements in respect of all or part of the relevant business.
+[Repealed]
 
 ### 156AW Commission may publish reports, etc, on information collected
-(1) The Commission may publish reports on, and summaries and analyses of, information collected under this subpart for the purpose of informing the industry and the public of current developments and emerging trends in relation to LFC fibre-to-the-premises access networks.
-(2) The publication may be in any form that the Commission considers fit.
-(3) In exercising its power under this section, the Commission must ensure that it protects the confidentiality of any information that may reasonably be regarded as confidential or commercially sensitive.
+[Repealed]
 
 ### Subpart 4 — Undertakings relating to networks developed with Crown funding as part of Rural Broadband Initiative
 
