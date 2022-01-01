@@ -1,5 +1,5 @@
 # Tariff Act 1988
-_Consolidation as at 2021-10-28_
+_Consolidation as at 2022-01-01_
 
 > An Act to consolidate and amend the law relating to the imposition of tariff duty
 
@@ -32,12 +32,14 @@ _Consolidation as at 2021-10-28_
   - **Preferential Tariff** means the rates of duty and the exemptions from duty specified in the column headed Preferential Tariff in the Tariff; and includes any modification or amendment thereof that may hereafter be made
   - **prescribed** in relation to forms includes prescribed by the chief executive
   - **rate of duty** includes the term Free
+  - **RCEP** means the Regional Comprehensive Economic Partnership done at Hanoi, Vietnam, on 15 November 2020
   - **ship** means any kind of vessel used in navigation, not propelled by oars only
   - **shipment** includes loading into an aircraft; and and cognate expressions have corresponding meanings
   - **South Pacific Regional Trade and Economic Co-operation Agreement** means the agreement of that name done at Tarawa on 14 July 1980; and includes any modification or amendment of it made after that day
   - **specified AANZFTA party** means a country that is for the time being declared by Order in Council under section 7A(1)﻿(a) to be a specified AANZFTA party for the purposes of this Act
   - **specified CPTPP party** means a country that is for the time being declared by Order in Council under section 7A(1)﻿(baa) to be a specified CPTPP party for the purposes of this Act
   - **specified PACER Plus party** means a country that is for the time being declared by Order in Council under section 7A(1)﻿(bb) to be a specified PACER Plus party for the purposes of this Act
+  - **specified RCEP party** means a country that is for the time being declared by Order in Council under section 7A(1)﻿(bc) to be a specified RCEP party for the purposes of this Act
   - **specified TPA party** means a country that is for the time being declared by Order in Council under section 7A(1)﻿(b) to be a specified TPA party for the purposes of this Act
   - **specified TPP party** means a country that is for the time being declared by Order in Council under section 7A(1)﻿(ba) to be a specified TPP party for the purposes of this Act
   - **Standard Tariff** means Standard Tariff comprised in Part 1 of the Tariff; and includes any modification or amendment thereof that may hereafter be made
@@ -100,12 +102,13 @@ Subject to this Act, the duty (if any) payable under the Normal Tariff shall be 
   (baa) declare a country that is a party to the CPTPP to be a specified CPTPP party for the purposes of this Act:
   (ba) declare a country that is a party to the TPP to be a specified TPP party for the purposes of this Act:
   (bb) declare a country that is a party to the PACER Plus to be a specified PACER Plus party for the purposes of this Act:
+  (bc) declare a country that is a party to the RCEP to be a specified RCEP party for the purposes of this Act:
   (c) declare a country to be, or not to be, a least developed country for the purposes of this Act:
   (d) declare a country to be, or not to be, a less developed country for the purposes of this Act.
 (2) The Governor-General may, by an Order in Council making a declaration under subsection (1) about a country or any other Order in Council relating to that country,—
   (a) declare that, in relation to any specified Tariff items, any rate of duty or exemption from duty otherwise applicable to that country is not to apply to that country:
   (b) modify, in whole or in part, the Tariff rates of duty applicable to goods from that country.
-(3) No modification under subsection (2)﻿(b) relating to a specified TPA party, a specified CPTPP party, a specified TPP party, a specified PACER Plus party, or a specified AANZFTA party may have the effect of imposing on any goods a higher duty than that set out in respect of those goods in the Normal Tariff, unless the Governor-General is satisfied that the modification is—
+(3) No modification under subsection (2)﻿(b) relating to a specified TPA party, a specified RCEP party, a specified CPTPP party, a specified TPP party, a specified PACER Plus party, or a specified AANZFTA party may have the effect of imposing on any goods a higher duty than that set out in respect of those goods in the Normal Tariff, unless the Governor-General is satisfied that the modification is—
   (a) necessary or advisable in the public interest; and
   (b) consistent with New Zealand's international obligations.
 (4) No modification under subsection (2)﻿(b) relating to a less developed country or a least developed country may have the effect of imposing on any goods a higher duty than that set out in respect of those goods in the Normal Tariff.
@@ -286,7 +289,8 @@ In this section and sections 15B to 15H, unless the context otherwise requires,�
     (d) the Malaysia FTA; or
     (e) the Republic of Korea FTA; or
     (f) the CPTPP; or
-    (g) the TPP
+    (g) the TPP; or
+    (h) the RCEP
   - **industry** , in relation to any goods, means—
     (a) the New Zealand producers, as a whole, of like or directly competitive goods; or
     (b) the New Zealand producers of like or directly competitive goods whose collective output constitutes a major proportion of the total production of those goods
@@ -380,7 +384,7 @@ The Minister may extend a transitional safeguard or emergency action measure app
     (ii) are causing, or threatening to cause, serious injury to an industry producing a like or directly competitive good; and
   (b) there exist,—
     (i) in relation to a provisional transitional safeguard measure to be applied under the Thai FTA, highly unusual and critical circumstances; or
-    (ii) in relation to a provisional transitional safeguard measure to be applied under the China FTA, the AANZFTA, the Malaysia FTA, or the Republic of Korea FTA, critical circumstances; and
+    (ii) in relation to a provisional transitional safeguard measure to be applied under the China FTA, the AANZFTA, the Malaysia FTA, the Republic of Korea FTA, or the RCEP, critical circumstances; and
   (c) the delay in applying a transitional safeguard measure under section 15F would cause serious injury to the industry which would be difficult to repair.
 (2) A provisional transitional safeguard measure applies on and from—
   (a) the date specified in the measure (which may be a date before, on, or after the date on which the determination is made); or
