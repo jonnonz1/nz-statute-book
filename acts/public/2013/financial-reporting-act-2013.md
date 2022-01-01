@@ -1,5 +1,5 @@
 # Financial Reporting Act 2013
-_Consolidation as at 2021-10-28_
+_Consolidation as at 2022-01-01_
 
 ### 1 Title
 This Act is the Financial Reporting Act 2013.
@@ -700,12 +700,12 @@ The purpose of this subpart is to—
   (b)
 
 ### 45 Meaning of large
-(1) For the purposes of an enactment that refers to this section, an entity (other than an overseas company or a subsidiary of an overseas company) is large in respect of an accounting period if at least 1 of the following paragraphs applies:ExampleABC Limited has an accounting period of 1 April 2014 to 31 March 2015.The balance dates of the 2 preceding periods are 31 March 2013 and 31 March 2014. As at 31 March 2013, ABC Limited and its subsidiaries had total assets of $50 million. As at 31 March 2014, those total assets were $55 million.During the period 1 April 2012 to 31 March 2013, ABC Limited and its subsidiaries had total revenue of $25 million. During the period 1 April 2013 to 31 March 2014, that total revenue was $35 million. Given that the $30 million threshold in paragraph (b) is crossed in only 1 of those preceding periods, paragraph (b) is not satisfied. ABC Limited is not a large company in relation to the accounting period of 1 April 2014 to 31 March 2015.
-  (a) as at the balance date of each of the 2 preceding accounting periods, the total assets of the entity and its subsidiaries (if any) exceed $60 million:
-  (b) in each of the 2 preceding accounting periods, the total revenue of the entity and its subsidiaries (if any) exceeds $30 million.
+(1) For the purposes of an enactment that refers to this section, an entity (other than an overseas company or a subsidiary of an overseas company) is large in respect of an accounting period if at least 1 of the following paragraphs applies:ExampleABC Limited has an accounting period of 1 April 2014 to 31 March 2015.The balance dates of the 2 preceding periods are 31 March 2013 and 31 March 2014. As at 31 March 2013, ABC Limited and its subsidiaries had total assets of $50 million. As at 31 March 2014, those total assets were $55 million.During the period 1 April 2012 to 31 March 2013, ABC Limited and its subsidiaries had total revenue of $25 million. During the period 1 April 2013 to 31 March 2014, that total revenue was $35 million. Given that the $33 million threshold in paragraph (b) is crossed in only 1 of those preceding periods, paragraph (b) is not satisfied. ABC Limited is not a large company in relation to the accounting period of 1 April 2014 to 31 March 2015.
+  (a) as at the balance date of each of the 2 preceding accounting periods, the total assets of the entity and its subsidiaries (if any) exceed $66 million:
+  (b) in each of the 2 preceding accounting periods, the total revenue of the entity and its subsidiaries (if any) exceeds $33 million.
 (2) For the purposes of an enactment that refers to this section, an overseas company or a subsidiary of an overseas company is large in respect of an accounting period if at least 1 of the following paragraphs applies:
-  (a) as at the balance date of each of the 2 preceding accounting periods, the total assets of the entity and its subsidiaries (if any) exceed $20 million:
-  (b) in each of the 2 preceding accounting periods, the total revenue of the entity and its subsidiaries (if any) exceeds $10 million.
+  (a) as at the balance date of each of the 2 preceding accounting periods, the total assets of the entity and its subsidiaries (if any) exceed $22 million:
+  (b) in each of the 2 preceding accounting periods, the total revenue of the entity and its subsidiaries (if any) exceeds $11 million.
 (3) Despite subsections (1) and (2), an entity is not large in respect of an accounting period (period A) if—
   (a) the entity was an inactive entity in respect of period A; and
   (b) the entity, within 5 months after the end of period A, delivers to the Registrar a declaration, in the prescribed form, stating that it was an inactive entity in respect of period A.
@@ -721,7 +721,7 @@ The purpose of this subpart is to—
   (c) interest earned on any bank account during the accounting period, to the extent that the total interest does not exceed the total of any charges or costs incurred by the entity to which paragraph (b) applies.
 
 ### 46 Meaning of specified not-for-profit entity
-For the purposes of an enactment that refers to this section, an entity is a specified not-for-profit entity in respect of an accounting period if, in each of the 2 preceding accounting periods of the entity, the total operating payments of the entity are $125,000 or more.
+For the purposes of an enactment that refers to this section, an entity is a specified not-for-profit entity in respect of an accounting period if, in each of the 2 preceding accounting periods of the entity, the total operating payments of the entity are $140,000 or more.
 
 ### 47 Financial reporting standards must be complied with
 A financial reporting standard (or a part of a standard) that is expressed as applying for the purposes of section 45(1)﻿(a) or (b) or (2)﻿(a) or (b) or 46 must be applied in determining whether that provision applies (for example, the standard may define operating payments for the purposes of section 46).
