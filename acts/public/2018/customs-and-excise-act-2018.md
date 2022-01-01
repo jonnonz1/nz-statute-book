@@ -1,5 +1,5 @@
 # Customs and Excise Act 2018
-_Consolidation as at 2021-10-28_
+_Consolidation as at 2022-01-01_
 
 ### 1 Title
 This Act is the Customs and Excise Act 2018.
@@ -5730,11 +5730,15 @@ Subject to any limitation imposed by regulations, the chief executive may, witho
   (b) without limiting paragraph (a), require applications for designation to be made in the way prescribed by the chief executive’s rules.
 (6) In this section, free trade agreement means—
   (a) the Free Trade Agreement between the Government of New Zealand and the Government of the People’s Republic of China done at Beijing on 7 April 2008 (the China FTA); or
-  (b) the Agreement Establishing the ASEAN–Australia–New Zealand Free Trade Area done at Cha-am, Phetchaburi, Thailand on 27 February 2009 (AANZFTA).
+  (b) the Agreement Establishing the ASEAN–Australia–New Zealand Free Trade Area done at Cha-am, Phetchaburi, Thailand on 27 February 2009 (AANZFTA); or
+  (c) the Regional Comprehensive Economic Partnership done at Hanoi, Vietnam, on 15 November 2020 (the RCEP).
 (7) In this section, party to a free trade agreement means—
   (a) in relation to the China FTA, the People’s Republic of China:
-  (b) in relation to AANZFTA, a specified AANZFTA party (see subsection (8)).
-(8) The Governor-General may, by Order in Council, declare a country that is a party to AANZFTA to be a specified AANZFTA party for the purposes of this section.
+  (b) in relation to AANZFTA, a specified AANZFTA party (see subsection (8)):
+  (c) in relation to the RCEP, a specified RCEP party (see subsection (8)).
+(8) For the purposes of this section, the Governor-General may, by Order in Council, declare—
+  (a) a country that is a party to AANZFTA to be a specified AANZFTA party:
+  (b) a country that is a party to the RCEP to be a specified RCEP party.
 (9) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 436 Fish, etc
