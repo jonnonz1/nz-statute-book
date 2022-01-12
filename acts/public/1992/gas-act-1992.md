@@ -1,5 +1,5 @@
 # Gas Act 1992
-_Consolidation as at 2021-10-28_
+_Consolidation as at 2022-01-12_
 
 > Title
 
@@ -520,6 +520,7 @@ The purpose of this Part is to provide for the governance of the gas industry.
 (3) Subpart 3 enables regulation of the gas industry by the Government and a Crown entity called the Energy Commission.
 (4) Subpart 2 expires if subpart 3 is brought into force by Order in Council.
 (5) Subpart 4 contains exemptions from the restrictive trade practice provisions of the Commerce Act 1986.
+(5A) Subpart 5 enables the High Court to impose pecuniary penalties on consumers (other than domestic consumers) for a breach of gas industry regulations or rules.
 (6) This section is intended only as a guide to the general scheme and effect of this Part.
 
 ### 43C Outline of regulation-making powers
@@ -797,7 +798,7 @@ Sections 43L and 43N (which relate to consultation and assessments) do not apply
 (2) A maximum pecuniary penalty referred to in subsection (1)﻿(b) must not exceed $200,000.
 
 ### 43T Supplementary empowering provision for regulations
-Any regulations made under this subpart may provide for offences that are punishable on conviction for a contravention of those regulations, or of rules made under section 43Q, and provide for fines not exceeding $20,000 for those offences.
+[Repealed]
 
 **Provisions that apply if gas governance regulations or rules are in force**
 
@@ -811,9 +812,9 @@ Every industry participant must co-operate fully with any investigation carried 
 ### 43V Privileges protected
 (1) Section 43U does not limit any claim for legal professional privilege.
 (2) A person is not excused from answering a question or giving any information or document on the ground that to do so may incriminate or tend to incriminate that person.
-(3) However, a self-incriminating statement or document made or given—
-  (a) is not admissible as evidence in criminal or civil proceedings against that person; and
-  (b) may not be used against the person in any proceedings before the Rulings Panel, except for information provided under any self-reporting obligation under those regulations.
+(3) However, a self-incriminating statement or document made or given by an individual—
+  (a) is not admissible as evidence in criminal or civil proceedings against that individual; and
+  (b) may not be used against the individual in any proceedings before the Rulings Panel, except for information provided under any self-reporting obligation under those regulations.
 
 ### 43W Limits on investigation powers
 (1) The industry body or the Commission may authorise, in writing, any person or persons to exercise all or any of the powers referred to in section 43U(b) or (c) in respect of an industry participant.
@@ -835,7 +836,7 @@ Every industry participant must co-operate fully with any investigation carried 
   (b) issue a private warning or reprimand to an industry participant:
   (c) issue a public warning or reprimand to an industry participant:
   (d) impose additional or more stringent record-keeping or reporting requirements under or in connection with any gas governance regulation or rule:
-  (e) order an industry participant to pay a civil pecuniary penalty not exceeding $20,000:
+  (e) order an industry participant to pay a civil pecuniary penalty not exceeding $200,000:
   (f) order an industry participant to pay a sum by way of compensation to any other person:
   (g) order an industry participant that is found not to be complying with the gas governance regulations or rules to take any action that is necessary to restore it to a position of compliance:
   (h) make an order terminating or suspending the rights of an industry participant under any gas governance regulation or rule:
@@ -849,6 +850,9 @@ Every industry participant must co-operate fully with any investigation carried 
 (3) This section does not limit the recovery of—
   (a) a debt owing under any gas governance regulations or rules; or
   (b) damages in tort other than breach of statutory duty, for breach of contract, or for any other wrong, that arises from any act or omission that is also a breach of those regulations or rules.
+
+### 43YA Offence to breach compliance orders
+Every industry participant that breaches a requirement or an order made under section 43X(1) commits an offence and is liable on conviction to a fine not exceeding $20,000.
 
 ### 43Z Limit on tort claims against service providers
 (1) No industry participant may bring an action in tort against a service provider that arises out of, or relates to, any act, matter, or thing done, or required or omitted to be done, by the service provider in its role as service provider, provided that the act or omission is not a fraudulent act or omission by the service provider.
@@ -1121,6 +1125,36 @@ The following are specifically authorised for the purpose of section 43 of the C
     (iv) recommending a levy of industry participants in accordance with this Act:
   (b) anything done, or omitted to be done, by the industry body, the Energy Commission, the Rulings Panel, or an industry participant, that is reasonably necessary to comply with, enforce, or otherwise administer any gas governance regulations or rules:
   (c) the industry body’s constitution and statement of intent and any amendments to those documents.
+
+### Subpart 5 — High Court may impose pecuniary penalty on certain consumers for breach of gas industry regulations or rules
+
+### 43ZZS When High Court may order certain consumers to pay pecuniary penalty
+(1) The High Court may, on the application of the Secretary or the Commission, order a consumer (other than a domestic consumer) to pay to the Crown the pecuniary penalty that the court determines to be appropriate if the court is satisfied that the consumer has breached—
+  (a) a provision of the gas governance regulations that is identified under section 43TA(1)﻿(a); or
+  (b) a provision of the rules made under section 43Q that is identified under section 43TA(1)﻿(a).
+(2) The maximum amount of a pecuniary penalty for a breach of a provision is the amount prescribed under section 43TA(1)﻿(b) for that provision.
+(3) The court may not order an industry participant to pay a pecuniary penalty under subsection (1) (see instead section 43X, which allows the Rulings Panel to take action if an industry participant has breached any gas governance regulations or rules).
+
+### 43ZZT Considerations for High Court in deciding on amount of pecuniary penalty
+(1) The High Court must have regard to all relevant matters when deciding on an appropriate pecuniary penalty to impose on a consumer (A).
+(2) Those matters include—
+  (a) the severity of the breach:
+  (b) the impact of the breach on industry participants and consumers:
+  (c) the extent to which the breach was inadvertent, negligent, deliberate, or otherwise:
+  (d) the circumstances in which the breach occurred:
+  (e) any previous breach of the regulations or rules by A:
+  (f) the length of time the breach remained unresolved:
+  (g) A’s actions on learning of the breach:
+  (h) any benefit that A obtained, or expected to obtain, as a result of the breach.
+
+### 43ZZU Rules of civil procedure and civil standard of proof apply
+(1) A proceeding under this subpart is a civil proceeding.
+(2) The usual rules of court and rules of evidence and procedure for civil proceedings apply (including the standard of proof).
+
+### 43ZZV Only 1 pecuniary penalty order may be made for same conduct
+(1) This section applies if conduct by a consumer (A) constitutes a breach of 2 or more provisions identified under section 43TA(1)﻿(a).
+(2) One or more proceedings under this subpart may be brought against A for the breach of any 1 or more of the provisions.
+(3) However, A is not liable to more than 1 pecuniary penalty order for the same conduct.
 
 ## Part 5 — Miscellaneous provisions
 
