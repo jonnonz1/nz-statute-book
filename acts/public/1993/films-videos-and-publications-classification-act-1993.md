@@ -1,5 +1,5 @@
 # Films, Videos, and Publications Classification Act 1993
-_Consolidation as at 2021-10-28_
+_Consolidation as at 2022-02-01_
 
 > An Act to consolidate and amend the law relating to the censoring of films, videos, books, and other publications; and to repeal the Indecent Publications Act 1963, the Films Act 1983, and the Video Recordings Act 1987
 
@@ -53,7 +53,7 @@ In this Act, unless the context otherwise requires,—
     (a) means any poster, placard, video slick, photograph, or other printed pictorial matter that is intended for use in the advertising or exhibition of any film to the public, and includes a miniature representation of the whole or part of any such poster, and also includes any enlarged representation of the whole or any part of any such poster; but
     (b) does not include a poster, placard, video slick, photograph, or other printed pictorial matter that is intended for use to advertise commercial video on-demand content
   - **Information Unit** means the Information Unit established under section 88
-  - **Inspector** means an Inspector of Publications holding office under subsection (1) or subsection (2) of section 103; and includes a constable
+  - **Inspector** means an Inspector of Publications holding office under section 103(1) or (2), and includes a constable except for the purposes of Part 7A (see section 103(3))
   - **interim restriction order** ,—
     (a) in Part 4, means an order made under section 49:
     (b) in Part 5, means an order made under section 67
@@ -63,6 +63,7 @@ In this Act, unless the context otherwise requires,—
   - **Minister** means the Minister of Internal Affairs
   - **newspaper** means any periodical publication published (whether in New Zealand or elsewhere) at intervals not exceeding 40 days, or any copy of, or part of any copy of, any such publication; and includes every publication that at any time accompanies and is distributed along with any newspaper
   - **objectionable** has the meaning given to it in section 3
+  - **online content host** has the meaning given in section 119A as qualified by section 119B
   - **package** includes anything in which goods may be cased, covered, enclosed, contained, or packed
   - **premises** means any building, enclosure, ground, or open-air space
   - **printed matter** means any book, letterpress, lithograph, newspaper, pamphlet, paper, periodical, photograph, picture, print, or other reproduction; but does not include any reproduction of a purely business, commercial, official, professional, religious, scholastic, social, or trading character
@@ -78,7 +79,8 @@ In this Act, unless the context otherwise requires,—
     (a) any film, book, sound recording, picture, newspaper, photograph, photographic negative, photographic plate, or photographic slide:
     (b) any print or writing:
     (c) a paper or other thing that has printed or impressed upon it, or otherwise shown upon it, 1 or more (or a combination of 1 or more) images, representations, signs, statements, or words:
-    (d) a thing (including, but not limited to, a disc, or an electronic or computer file) on which is recorded or stored information that, by the use of a computer or other electronic device, is capable of being reproduced or shown as 1 or more (or a combination of 1 or more) images, representations, signs, statements, or words
+    (d) a thing (including, but not limited to, a disc, or an electronic or computer file) on which is recorded or stored information that, by the use of a computer or other electronic device, is capable of being reproduced or shown as 1 or more (or a combination of 1 or more) images, representations, signs, statements, sounds, or words
+    (e) a copy of images or sounds that have been livestreamed, but not the livestreaming itself of those images or sounds (livestream has the meaning given in section 119A)
   - **rating** means the description of the audience for which a film is suitable (as determined in accordance with regulations made under this Act) assigned to a film under this Act
   - **register** means the register of classification decisions established and maintained under section 39
   - **restricted publication** means a publication that is classified under section 23(2)﻿(c)
@@ -171,6 +173,9 @@ Sections 3A and 3B are not limited by section 3, and do not limit the Classifica
 ### 4 Classification of publications a matter of expert judgment
 (1) The question whether or not a publication is objectionable or should in accordance with section 23(2) be given a classification other than objectionable is a matter for the expert judgment of the person or body authorised or required, by or pursuant to this Act, to determine it, and evidence as to, or proof of, any of the matters or particulars that the person or body is required to consider in determining that question is not essential to its determination.
 (2) Without limiting subsection (1), where evidence as to, or proof of, any such matters or particulars is available to the body or person concerned, that body or person shall take that evidence or proof into consideration.
+
+### 4AA Application of Harmful Digital Communications Act 2015
+Sections 23 to 25 of the Harmful Digital Communications Act 2015, which relate to the liability of an online content host for content posted by a user, do not apply to processes or proceedings under Part 7A relating to online publications hosted by them.
 
 ### 4A Transitional, savings, and related provisions
 The transitional, savings, and related provisions set out in Schedule 1AA have effect according to their terms.
@@ -282,16 +287,26 @@ For the purposes of this Part, the rating and description (if any) assigned to a
   (a) the chief executive of the New Zealand Customs Service:
   (ab) the Commissioner of Police:
   (b) the Secretary:
+  (ba) subject to subsections (1A) and (1B), an online content host who or that has been issued with a take-down notice relating to an online publication:
   (c) subject to subsection (2), any other person.
+(1A) A submission by an online content host under subsection (1)﻿(ba) must be submitted within 20 working days after they receive the take-down notice.
+(1B) The Chief Censor may determine that an online publication submitted to the Classification Office under subsection (1)﻿(ba) will not be examined or classified by the office if—
+  (a) the online publication has already been submitted to the Classification Office under this section; or
+  (b) the online publication has already been the subject of a classification decision; or
+  (c) the Chief Censor considers that the submitting of the online publication to the Classification Office is frivolous or vexatious.
 (2) A publication may be submitted to the Classification Office under subsection (1)﻿(c) only with the leave of the Chief Censor given under section 15.
 (3) The Chief Censor may, on his or her own motion, determine that any publication should be received for examination by the Classification Office. In any such case the Chief Censor shall, by notice in writing, direct the chief executive of the New Zealand Customs Service or the Secretary to take all reasonable steps to obtain a copy of the publication and submit it to the Classification Office under paragraph (a) or, as the case requires, paragraph (b) of subsection (1).
 
 ### 14 How to submit publications (officials)
-(1) A publication shall be submitted to the Classification Office under subsection (1)﻿(a) or (b) of section 13 by lodging a notice of submission in the prescribed manner with the Classification Office.
+(1) A publication shall be submitted to the Classification Office under subsection (1)﻿(a), (ab), or (b) of section 13 by lodging a notice of submission in the prescribed manner with the Classification Office.
 (2) Every notice of submission shall be in the form provided for that purpose by the Chief Censor.
 (3) Every notice of submission lodged with the Classification Office shall be accompanied by—
   (a) the prescribed fee (if any); and
   (b) a copy of the publication to which the notice relates.
+
+### 14A How to submit publications (online content hosts)
+(1) An online content host who or that wishes to submit a publication to the Classification Office under section 13(1)﻿(ba) must lodge a notice of submission in the prescribed manner with the Classification Office.
+(2) A notice of submission must be in the form provided for that purpose by the Chief Censor and must be accompanied by the prescribed fee (if any).
 
 ### 15 How to submit publications (others)
 (1) Every person who wishes to submit a publication to the Classification Office under section 13(1)﻿(c) shall lodge a notice of submission in the prescribed manner with the Classification Office.
@@ -345,6 +360,51 @@ If any publication submitted under section 12 or section 13 or section 42 is not
 
 ### 22 No right to be heard
 It shall not be necessary for the Classification Office to hold any hearing, nor, subject to section 20, shall any person have the right to appear before, or to be heard by, or to make submissions to, the Classification Office in relation to any matter that is before that Office.
+
+**Interim classification assessments**
+
+### 22A Interim classification assessments by Classification Office
+(1) This section applies to a publication submitted to the Classification Office for classification under section 13.
+(2) The Classification Office may make an interim classification assessment that the publication is likely to be objectionable.
+(3) The Classification Office may do so only if the Chief Censor believes that there is an urgent need to notify the public that the content of the publication is likely to be objectionable.
+(4) The following sections apply to the making of an interim assessment:
+  (a) sections 14, 14A, 15, 17 to 19, 21, and 22; and
+  (b) section 20, as modified by subsection (5).
+(5) The Chief Censor may determine that submissions by the persons listed in section 20(1) must be made in a manner and within a time that the Chief Censor specifies after taking into account what is reasonable in the circumstances, including the need for urgency in dealing with the matter.
+(6) The Classification Office may make an interim assessment on the basis of the information that is readily available to it if the Chief Censor considers it is reasonable in the circumstances, including the need for urgency in dealing with the matter.
+(7) The making of an interim assessment is not a relevant consideration for the purpose of, and does not affect, the later examination and classification of the same publication under section 23.
+
+### 22B Notice, registration, and effect of interim classification assessments
+(1) The Classification Office must give written notice to the submitter that an interim classification assessment has been made.
+(2) The notice must contain the following:
+  (a) a description of the publication that was the subject of the interim assessment; and
+  (b) a summary of the reasons for the interim assessment.
+(3) An interim assessment must be registered under section 39, and that section applies as if the interim assessment were a classification decision, except that the following information must be entered in the register (instead of the information in section 39(3)﻿(a) to (c)):
+  (a) a statement that an interim assessment has been made of the publication and the date on which the assessment was made; and
+  (b) the date on which notice of the interim assessment was given under subsection (1) (if applicable); and
+  (c) the date of entry of the interim assessment in the register.
+(4) An interim assessment has effect for an interim period.
+(5) An interim period begins on the date an interim assessment is made and ends on the sooner of—
+  (a) 20 working days after the date of the interim assessment:
+  (b) the date on which a classification decision is made for the relevant publication.
+(6) This Act applies to a publication during an interim period as if it had been classified as being objectionable under section 23.
+(7) A person, on request and on payment of the applicable fee (if any) as determined by the Classification Office, is entitled to a copy of a notice given under this section.
+
+### 22C No action to lie against officials
+The following people are immune from civil and criminal liability for actions done in good faith when carrying out or intending to carry out their official duties relating to interim classification assessments:
+  (a) the Chief Censor:
+  (b) the Deputy Chief Censor:
+  (c) a classification officer:
+  (d) a member of the staff of the Classification Office:
+  (e) a member of the staff of the Department of Internal Affairs:
+  (f) an Inspector.
+
+### 22D No action to lie against service providers and online content hosts
+(1) A service provider or an online content host is immune from civil and criminal liability if they remove, or prevent access by the public in New Zealand to, an online publication that is the subject of an interim classification assessment.
+(2) In this section,—
+  - **online content host** has the meaning given in section 119A as qualified by section 119B
+  - **online publication** has the meaning given in section 119A
+  - **service provider** has the meaning given in section 122A.
 
 **Examination and classification of publications**
 
@@ -514,6 +574,7 @@ Sections 32 to 34, so far as they are applicable and with the necessary modifica
 (1) Where the Classification Office makes a decision in respect of any publication submitted to the Classification Office under section 13 or section 42, the Classification Office shall give written notice of its decision to the person who submitted the publication to the Classification Office.
 (2) Every notice under subsection (1) shall specify—
   (a) the reasons for the decision; and
+  (ab) the reasons an interim classification assessment was made under section 22A (if applicable), including the reasons for the Chief Censor’s belief described in section 22A(3); and
   (b) the classification given to the publication; and
   (c) where, pursuant to section 27, the Classification Office has imposed conditions on the public display of the publication, or any advertising poster or film poster relating to the publication, or both, those conditions; and
   (d) in the case of a film, the terms of any direction given to the labelling body or a specified CVoD provider under section 36 to issue a label in respect of that film:
@@ -1121,7 +1182,7 @@ The Secretary shall arrange for there to be furnished to the Board such secretar
 ### 103 Inspectors of Publications
 (1) The Secretary may from time to time appoint under the Public Service Act 2020 such number of persons to be Inspectors of Publications as are required for the purposes of this Act.
 (2) Notwithstanding subsection (1), the Secretary may from time to time appoint any suitable person to be an Inspector of Publications for the purposes of this Act.
-(3) Every constable shall be deemed to be an Inspector for the purposes of this Act.
+(3) Every constable shall be deemed to be an Inspector for the purposes of this Act except for the purposes of Part 7A.
 
 ### 104 Inspectors who are not public servants
 (1) Every person appointed under section 103(2)—
@@ -1260,6 +1321,105 @@ An application under section 109 or section 109A or section 109B may be made by 
 
 ### 119 No action to lie
 No action shall lie against any person for any act done in good faith in pursuance or intended pursuance of any provision of this Part or of any warrant or order issued or made in pursuance or intended pursuance of any such provision.
+
+## Part 7A — Take-down notices for objectionable online publications
+
+### 119A Definitions for Part 7A
+(1) In this Part, section 149(1)﻿(ab), and any regulations made under section 149(1)﻿(ab),—
+  - **livestream** means to transmit over the Internet or any other electronic medium images or sounds as they happen
+  - **online content host** , in relation to an online publication, means the person who or that has control over the part of the electronic retrieval system, such as an Internet site or an online application or similar, on which the publication is accessible
+  - **online publication** means—
+    (a) a publication under paragraph (d) of the definition of publication in section 2 that is accessible on an Internet site or an online application or similar; or
+    (b) a publication under paragraph (e) of the definition of publication in section 2 (a copy of content that was livestreamed) that is accessible on an Internet site or an online application or similar; or
+    (c) livestreamed content.
+(2) The definition of online publication in subsection (1) does not limit the definition of publication in section 2 for other purposes of this Act.
+
+### 119B Application of Part and regulations
+This Part and any regulations made under section 149(1)﻿(ab) apply to—
+  (a) individuals in New Zealand (the public); and
+  (b) online content hosts that provide services to the public regardless of whether an online content host is resident or incorporated in New Zealand or outside New Zealand.
+
+### 119C Issue of take-down notices
+(1) An Inspector may issue a take-down notice relating to a particular online publication to an online content host if—
+  (a) an interim classification assessment has been made under section 22A that the online publication is likely to be objectionable; or
+  (b) the online publication has been classified as objectionable under section 23; or
+  (c) the Inspector believes, on reasonable grounds, that the online publication is objectionable.
+(2) Before issuing a take-down notice, an Inspector may, but is not required to, request that the online content host remove, or prevent access by the public to, the online publication.
+(3) A take-down notice issued under subsection (1)﻿(a) has effect for the interim period referred to in section 22B(5) for the relevant interim assessment unless subsection (4) applies.
+(4) A take-down notice issued under subsection (1)﻿(a) has permanent effect if a classification decision is made that the online publication is objectionable on and from the date of that decision.
+(5) A take-down notice issued under subsection (1)﻿(b) or (c) has permanent effect on and from the date it is issued.
+(6) In each case the Inspector must notify the Chief Censor that a take-down notice has been issued.
+(7) See section 119J for review of a take-down notice.
+
+### 119D Contents of take-down notices
+(1) A take-down notice must—
+  (a) contain a description of the relevant online publication; and
+  (b) identify the URL or other unique identifier of the online publication; and
+  (c) require the online content host to remove, or prevent access by the public to, the online publication as soon as is reasonably practicable after receipt of the notice and no later than the time and date specified in the notice (the required period); and
+  (d) inform the online content host of the right of review under section 119J; and
+  (e) contain other information required by regulations made under section 149(1)﻿(ab) (if any).
+(2) When deciding on the length of the required period in a particular case, an Inspector must consider what period is likely to be reasonably practicable for the online content host to comply with the notice.
+(3) A take-down notice may also require an online content host to preserve a copy of the relevant online publication for the purpose of an investigation or proceedings.
+(4) A take-down notice may contain other information that an Inspector considers is useful or appropriate.
+
+### 119E Online content host must comply with take-down notice
+(1) An online content host who or that receives a take-down notice must remove, or prevent access by the public to, all copies of the online publication that is the subject of the notice to or over which it has access or control as soon as is reasonably practicable after receipt of the notice but no later than the end of the required period.
+(2) If a take-down notice requires an online content host to preserve a copy of the relevant online publication for the purposes of an investigation or proceedings, they must preserve a copy, hold it securely, and provide it to an Inspector on request.
+(3) An online content host may also preserve a copy of the online publication if they intend to lodge or have lodged—
+  (a) a submission under section 13(1)﻿(ba) for a classification decision for the relevant online publication:
+  (b) an application for a review under Part 4 against the classification decision for the relevant online publication:
+  (c) a notice of appeal related to that application for review.
+(4) If subsection (3) applies, the online content host may preserve a copy of the online publication for as long as it is needed to complete the relevant process but must hold it securely.
+(5) A take-down notice continues to have effect, even if the publication that is the subject of the notice is received by the Classification Office under section 13 for a classification decision,—
+  (a) until the classification decision is made; and
+  (b) until, if the publication is classified as objectionable, the completion of any review and related appeal.
+(6) If an online publication is confirmed as objectionable after the processes listed in subsection (5) have been completed or are no longer available, the relevant take-down notice then has permanent effect.
+
+### 119F No action to lie against officials
+The following people are immune from civil and criminal liability for actions done in good faith when carrying out or intending to carry out their official duties relating to take-down notices:
+  (a) the Chief Censor:
+  (b) the Deputy Chief Censor:
+  (c) a classification officer:
+  (d) a member of the staff of the Classification Office:
+  (e) a member of the staff of the Department of Internal Affairs:
+  (f) an Inspector.
+
+### 119G No action to lie against online content host
+An online content host is immune from criminal or civil liability—
+  (a) if they remove or prevent access by the public to an online publication that is the subject of a take-down notice:
+  (b) if they preserve a copy of an online publication for any of the reasons listed in section 119E(3) and hold it securely.
+
+### 119H Enforcement of take-down notices
+(1) An Inspector may take enforcement proceedings in the District Court if an online content host fails or refuses to comply with a take-down notice within the required period.
+(2) In proceedings under this section, the court—
+  (a) must not examine or make a determination about the issuing or merits of a take-down notice:
+  (b) may determine whether the online content host had a reasonable justification for failing or refusing to comply with the notice within the required period or for any further delay after that period:
+  (c) may permit the Inspector, by order of the court, to obtain discovery and administer interrogatories:
+  (d) may order a remedy or costs under section 119I.
+
+### 119I Remedies and costs
+(1) In proceedings under section 119H, the court may—
+  (a) order that the online content host comply with the take-down notice by a date specified in the order:
+  (b) order the online content host to pay a pecuniary penalty to the Crown:
+  (c) award costs as the court thinks fit:
+  (d) order interest to be paid in accordance with the court’s rules.
+(2) A pecuniary penalty is payable in an amount that the court determines is appropriate, taking into account all relevant matters, and, in particular,—
+  (a) the nature and extent of the failure or refusal to comply with the notice; and
+  (b) the circumstances in which the failure or refusal to comply occurred (including whether this was intentional, inadvertent, or caused by negligence).
+(3) The standard of proof for the matters in subsection (2) is the balance of probabilities.
+(4) The amount of a pecuniary penalty must not exceed $200,000.
+(5) Only 1 pecuniary penalty is payable in relation to the same take-down notice.
+
+### 119J Review of take-down notices
+(1) A take-down notice may be reviewed under this Act only as part of a review under Part 4 of the classification decision relating to the relevant online publication.
+(2) See section 13(1)﻿(ba), which allows an online content host to submit an online publication to the Classification Office for a classification decision.
+(3) See also section 119E(5) for the effect of a take-down notice pending a classification decision being made and the completion of a review and any related appeal.
+
+### 119K Reporting
+(1) The Secretary must—
+  (a) make publicly available a list of all take-down notices issued that have been complied with; and
+  (b) publish the number of take-down notices issued and the number that were complied with each year in the annual report of the Department of Internal Affairs relating to that year.
+(2) The Secretary must, in the list referred to in subsection (1)﻿(a), in each case, include the reasons for issuing the take-down notice.
 
 ## Part 8 — Offences
 
@@ -1415,7 +1575,7 @@ Nothing in section 123 or section 124 applies to the exhibition or display, to a
   (a) in the case of an individual, $2,000:
   (b) in the case of a body corporate, $5,000.
 (2A) A person can have an electronic publication in that person's possession for the purposes of subsection (1) even though that person's actual or potential physical custody or control of the publication is not, or does not include, that person intentionally or knowingly using a computer or other electronic device to save the publication (or a copy of it).
-(2B) Electronic publication, in subsection (2A), means a thing that is a publication under paragraph (d) of the definition of publication in section 2.
+(2B) Electronic publication, in subsection (2A), means a thing that is a publication under paragraph (d) or (e) of the definition of publication in section 2.
 (2C) Subsection (2A) is for the avoidance of doubt, and does not limit subsection (1).
 (3) It shall be no defence to a charge under subsection (1) that the defendant had no knowledge or no reasonable cause to believe that the publication to which the charge relates was objectionable.
 (4) Nothing in subsection (1) makes it an offence for any of the following persons to be in possession of an objectionable publication, where such possession is for the purpose of and in connection with the person's official duties:
@@ -1484,6 +1644,26 @@ A person may be convicted of exhibiting an objectionable publication if what is 
   (a) the particular circumstances of the repeat offence; and
   (b) the particular circumstances of the offender (including, without limitation, his or her age if he or she is under 20 years of age).
 (5) This section overrides, as they apply to the repeat offence, all inconsistent provisions in the Sentencing Act 2002.
+
+**Offence to livestream objectionable content or share objectionable livestreamed content**
+
+### 132C Offence to livestream objectionable content or share objectionable livestreamed content
+(1) A person commits an offence if—
+  (a) they livestream content knowing or having reasonable cause to believe that it is objectionable; or
+  (b) they share content, or information about how to access content, as it is being livestreamed—
+    (i) knowing or having reasonable cause to believe that the content is objectionable; and
+    (ii) with the intent of promoting or encouraging criminal acts or acts of terrorism.
+(2) A person who commits an offence under subsection (1) is liable on conviction,—
+  (a) in the case of an individual, to imprisonment for a term not exceeding 14 years:
+  (b) in the case of a body corporate, to a fine not exceeding $200,000.
+(3) A person does not commit an offence under this section by reason only that they are—
+  (a) the service provider who or that provided access to the Internet or other electronic medium on which the content was livestreamed to the person who livestreamed the content; or
+  (b) the online content host who or that has control over the part of the electronic retrieval system, such as an Internet site or an online application or similar, on which the content was livestreamed.
+(4) In this section,—
+  - **livestream** has the meaning given in section 119A
+  - **objectionable** has the meaning given in section 3 (as if the livestreamed content were a publication)
+  - **online content host** has the meaning given in section 119A as qualified by section 119B
+  - **service provider** has the meaning given in section 122A.
 
 **Miscellaneous offences**
 
@@ -1634,6 +1814,7 @@ Any fee charged under section 15(6) or section 38(3) or section 39(6) for a copy
 ### 149 Regulations
 (1) The Governor-General may from time to time, by Order in Council, make regulations for all or any of the following purposes:
   (a) prescribing the forms of applications, warrants, and other documents required under this Act:
+  (ab) prescribing information to be included in a take-down notice under section 119D:
   (b) prescribing the matters in respect of which fees are payable under this Act; prescribing the amounts of the fees or the method by which they are to be assessed; and prescribing the persons to whom the fees are to be paid:
   (c) exempting or providing for the exemption of any person or class of persons from liability to pay any fees payable under this Act:
   (d) authorising the waiver, refund, or remission, in such circumstances as in accordance with the regulations the Secretary or the Chief Censor or the Board thinks fit, of the whole or any part of any fees payable under this Act:
