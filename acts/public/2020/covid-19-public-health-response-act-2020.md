@@ -1,5 +1,5 @@
 # COVID-19 Public Health Response Act 2020
-_Consolidation as at 2021-12-04_
+_Consolidation as at 2022-02-17_
 
 ### 1 Title
 This Act is the COVID-19 Public Health Response Act 2020.
@@ -502,26 +502,12 @@ The Minister may recommend that regulations be made under section 33A only if th
 (1) A prescribed charge is payable by or on behalf of a person, in accordance with regulations made under section 33A, if—
   (a) the person—
     (i) has arrived in New Zealand from a place outside New Zealand and is required by or under a COVID-19 order to stay at an MIQF; and
-    (ii) is a member of any prescribed class of persons; and
+    (ii)
     (iii) is not an exempt person; or
   (b) the person—
     (i) has elected to enter an MIQF for isolation or quarantine; and
     (ii) is not an exempt person.
-(2) An exempt person is a person who—
-  (a) is, for the time being, accorded privileges and immunities under—
-    (i) the Vienna Convention on Diplomatic Relations in accordance with the Diplomatic Privileges and Immunities Act 1968; or
-    (ii) the Vienna Convention on Consular Relations in accordance with the Consular Privileges and Immunities Act 1971; or
-  (b) is officially recognised as accompanying family of a person described in paragraph (a); or
-  (c) is an official of a government entity travelling to New Zealand to conduct business with—
-    (i) New Zealand Ministers of the Crown; or
-    (ii) a ministry or department of the New Zealand Government; or
-  (d) is a holder of a diplomatic or other official passport entering or transiting through New Zealand—
-    (i) en route to, or returning from, a diplomatic posting in a country other than New Zealand; or
-    (ii) for the purpose of assisting with the operations of the embassy or consulate (in New Zealand or elsewhere) of the country for which the person holds a passport on which the person is travelling; or
-  (e) is an official of a government entity entering or transiting through New Zealand en route to, or returning from, a third country—
-    (i) where the purpose of the visit to the third country was or is to conduct official government-to-government business; and
-    (ii) the person is able to provide evidence to verify that purpose; or
-  (f) is, or is a member of a class of persons that is, exempted by or under regulations made under section 33A from paying the prescribed charges.
+(2) An exempt person is a person who is, or is a member of a class of persons that is, exempted under regulations made under section 33A from paying the prescribed charges.
 
 ### 32F Exemptions, waivers, and refunds
 (1) Regulations made under section 33A may provide for exemptions from, or waivers or refunds of, the whole or part of any prescribed charge in any class or classes of cases.
