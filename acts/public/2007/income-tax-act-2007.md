@@ -1,5 +1,5 @@
 # Income Tax Act 2007
-_Consolidation as at 2021-12-08_
+_Consolidation as at 2022-02-22_
 
 ### A 1 Title
 This Act is the Income Tax Act 2007.
@@ -42531,6 +42531,7 @@ In this Act, unless the context requires otherwise,—
     (b) when used of a particular type of livestock, means any of the categories listed for that particular type
   - **class closing animal balance** is defined in section EC 8(4) (Restrictions arising from use of herd scheme) for the purposes of that section
   - **class of policies** means life insurance policies that have substantially the same terms and conditions, and that are priced by the life insurer using substantially the same assumptions
+  - **clean vehicle discount scheme** means the clean vehicle discount scheme administered by the New Zealand Transport Agency
   - **close company** —
     (a) means, at any time, a company to which 1 of the following applies:
       (i) at the time there are 5 or fewer natural persons or trustees the total of whose voting interests in the company is more than 50% (treating all natural persons associated at the time as 1 person); or
@@ -47412,10 +47413,15 @@ The highest of the following amounts is the relevant amount for clause 4(c):
 (a) the tax value of the vehicle under this schedule for whichever of person A or person B last used tax value for the vehicle under clause 1, immediately before the last disposal of the vehicle by that person:
 (b) the cost of the vehicle to person A on the last acquisition of it by them.
 
+### 7B
+For the purposes of this schedule, if a person who owns a motor vehicle to which this schedule applies receives a payment under the clean vehicle discount scheme for the vehicle,—
+(a) the cost price of the vehicle to the person on the first acquisition of it by them is net of the amount of the payment; and
+(b) the cost of the vehicle to the person on the first acquisition of it by them is net of the amount of the payment.
+
 ### 8
 To determine the value of a benefit under clause 1—
-(a) any GST paid on the acquisition of a vehicle by the owner or lessor of the vehicle is—
-  (i) included in the cost price of the motor vehicle or in the calculation of the motor vehicle’s tax value:
+(a) any GST paid on the acquisition of a vehicle by the owner or lessor of the vehicle is,—
+  (i) subject to clause 7B, included in the cost price of the motor vehicle or in the calculation of the motor vehicle’s tax value:
   (ii) not reduced by an amount of input tax on the supply of the vehicle to the owner or lessor:
 (b) if, in the period of 2 years before the vehicle’s acquisition by the person providing it to the employee, the vehicle is owned by the person or by someone associated with them, the cost price is treated as being the highest one of the cost prices paid for the vehicle by the person or an associate since its manufacture:
 (c) subject to paragraph (b), the cost price of the vehicle is treated as being equal to the vehicle’s market value if,—
