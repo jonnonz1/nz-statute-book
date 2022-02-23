@@ -1,5 +1,5 @@
 # Energy Efficiency and Conservation Act 2000
-_Consolidation as at 2021-10-28_
+_Consolidation as at 2022-02-23_
 
 ### 1 Title
 This Act is the Energy Efficiency and Conservation Act 2000.
@@ -232,6 +232,7 @@ Every transferred employee becomes, on his or her transfer, an employee of the A
 (1) The Governor-General may from time to time, by Order in Council made on the recommendation of the Minister, make regulations for all or any of the following purposes:
   (a) prescribing minimum energy performance standards for energy-using products and services, including all vehicles:
   (b) prescribing requirements in relation to the labelling of products, including all vehicles, in terms of their energy efficiency or proficiency in conserving energy:
+  (ba) prescribing requirements in relation to the labelling of vehicles in terms of their carbon dioxide emissions and any financial rebates receivable or charges payable relating to those emissions:
   (c) requiring specified classes of persons to provide, on the request of the Authority, evidence in the specified form that a minimum energy performance standard prescribed under paragraph (a) has been complied with:
   (d) prescribing, for the purposes of paragraphs (a) to (c), the form and manner of testing or verifying the energy performance of energy-using products and services, including vehicles:
   (e) requiring, for the purposes of paragraphs (a) to (c), specified classes of persons to certify, in the prescribed form and manner, as to the energy performance of energy-using products and services, including vehicles:
