@@ -1,5 +1,5 @@
 # Water Services Act 2021
-_Consolidation as at 2021-11-15_
+_Consolidation as at 2022-03-01_
 
 ### 1 Title
 This Act is the Water Services Act 2021.
