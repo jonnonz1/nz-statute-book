@@ -1,5 +1,5 @@
 # Wine Act 2003
-_Consolidation as at 2021-10-28_
+_Consolidation as at 2022-03-01_
 
 ### 1 Title
 This Act is the Wine Act 2003.
@@ -2237,19 +2237,7 @@ Despite section 86(1)﻿(a), regulations under this Act may set a fee, charge, o
 ### Part 1 — Provisions relating to Food Safety Law Reform Act 2018
 
 ### 1 Operator of existing WSMP to provide information now required with application to register plan
-(1) The Director-General may, by notice under section 120(1), require operators of existing WSMPs to provide all or part of the additional information to the Director-General in the manner and within the period specified in the notice.
-(2) The operator must provide the information as required by the notice.
-(3) If the operator fails to do so, the Director-General may—
-  (a) suspend operations under the existing WSMP in accordance with section 24; or
-  (b) remove the existing WSMP from the register in accordance with section 25.
-(4) For the purposes of subclause (3), sections 24(1)﻿(c) and 25(1)﻿(ba) are to be read as including a reference to suspension or removal under this clause.
-(5) This clause is repealed on the date that is 2 years after the commencement date.
-(6) In this clause,—
-  - **additional information** means information or material that the operator of the existing WSMP—
-    (a) has not provided to the Director-General; and
-    (b) would have been required by section 18 to provide with an application for registration of the existing WSMP had the application been made on the day on which the relevant notice under subclause (1) was issued
-  - **commencement date** means the date on which section 187 of the Food Safety Law Reform Act 2018 comes into force
-  - **existing WSMP** means a wine standards management plan that was registered before the commencement date.
+[Repealed]
 
 **Saving of notices issued by Director-General**
 
