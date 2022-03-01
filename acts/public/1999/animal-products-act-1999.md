@@ -1,5 +1,5 @@
 # Animal Products Act 1999
-_Consolidation as at 2021-10-28_
+_Consolidation as at 2022-03-01_
 
 > An Act to replace the Meat Act 1981 and the Dairy Industry Act 1952, and to reform and restate the law relating to the processing of animal material into products for use, trade, and export
 
@@ -2940,19 +2940,7 @@ Subpart 1 of Part 3 and section 114 of the Legislation Act 2019 do not apply to 
 ### Part 1 — Provisions relating to Food Safety Law Reform Act 2018
 
 ### 1 Operator of existing RMP to provide information now required with application to register programme
-(1) The Director-General may, by notice under section 167(1), require operators of existing RMPs to provide all or part of the additional information to the Director-General in the manner and within the period specified in the notice.
-(2) The operator must provide the information as required by the notice.
-(3) If the operator fails to do so, the Director-General may—
-  (a) suspend operations under the existing RMP in accordance with section 27; or
-  (b) remove the existing RMP from the register in accordance with section 28.
-(4) For the purposes of subclause (3), sections 27(1)﻿(c) and 28(1)﻿(ba) are to be read as including a reference to suspension or removal under this clause.
-(5) This clause is repealed on the date that is 2 years after the commencement date.
-(6) In this clause,—
-  - **additional information** means information or material that the operator of the existing RMP—
-    (a) has not provided to the Director-General; and
-    (b) would have been required by section 20 to provide with an application for registration of the existing RMP had the application been made on the day on which the relevant notice under subclause (1) was issued
-  - **commencement date** means the date on which section 73 of the Food Safety Law Reform Act 2018 comes into force
-  - **existing RMP** means a risk management programme that was registered before the commencement date.
+[Repealed]
 
 **Saving of notices issued by Director-General**
 
