@@ -1,5 +1,5 @@
 # Harmful Digital Communications Act 2015
-_Consolidation as at 2021-10-28_
+_Consolidation as at 2022-03-09_
 
 ### 1 Title
 This Act is the Harmful Digital Communications Act 2015.
@@ -48,13 +48,16 @@ In this Act, unless the context otherwise requires,—
   - **IPAP** has the same meaning as in section 122A(1) of the Copyright Act 1994
   - **Minister** means the Minister of the Crown who, under the authority of any warrant or with the authority of the Prime Minister, is for the time being responsible for the administration of this Act
   - **online content host** , in relation to a digital communication, means the person who has control over the part of the electronic retrieval system, such as a website or an online application, on which the communication is posted and accessible by the user
-  - **posts a digital communication** —
-    (a) means transfers, sends, posts, publishes, disseminates, or otherwise communicates by means of a digital communication—
+  - **post** , in relation to a digital communication,—
+    (a) means to transfer, send, publish, disseminate, or otherwise communicate by means of a digital communication—
       (i) any information, whether truthful or untruthful, about the victim; or
-      (ii) an intimate visual recording of another individual; and
+      (ii) an intimate visual recording of an individual; and
     (b) includes an attempt to do anything referred to in paragraph (a)
   - **professional leader** has the same meaning as in section 10(1) of the Education and Training Act 2020
-  - **registered school** has the same meaning as in section 10(1) of the Education and Training Act 2020.
+  - **registered school** has the same meaning as in section 10(1) of the Education and Training Act 2020
+  - **victim** means,—
+    (a) in relation to section 22, an individual who is the target of a posted digital communication; and
+    (b) in relation to section 22A, an individual who is the subject of an intimate visual recording.
 
 ### 5 Act binds the Crown
 This Act binds the Crown.
@@ -243,8 +246,8 @@ A digital communication should not denigrate an individual by reason of his or h
 (6) In doing anything under this section, the court must act consistently with the rights and freedoms contained in the New Zealand Bill of Rights Act 1990.
 
 ### 20 Court may vary or discharge order
-(1) Any applicant who obtains an order under section 18 or 19 or any other party to that order may apply for an order under subsection (2).
-(2) The District Court may, by order, do any of the following things to an order made under section 18 or 19:
+(1) Any applicant who obtains an order under section 18, 19, or 22B or any other party to that order may apply for an order under subsection (2).
+(2) The District Court may, by order, do any of the following things to an order made under section 18, 19, or 22B:
   (a) vary the duration of the order:
   (b) vary any conditions of the order:
   (c) discharge the order.
@@ -253,7 +256,7 @@ A digital communication should not denigrate an individual by reason of his or h
 **Offences**
 
 ### 21 Offence of non-compliance with order
-(1) A person who, without reasonable excuse, fails to comply with an order made under section 18 or 19 commits an offence.
+(1) A person who, without reasonable excuse, fails to comply with an order made under section 18, 19, or 22B commits an offence.
 (2) A person who commits an offence against this section is liable on conviction to,—
   (a) in the case of a natural person, imprisonment for a term not exceeding 6 months or a fine not exceeding $5,000:
   (b) in the case of a body corporate, a fine not exceeding $20,000.
@@ -274,7 +277,36 @@ A digital communication should not denigrate an individual by reason of his or h
 (3) A person who commits an offence against this section is liable on conviction to,—
   (a) in the case of a natural person, imprisonment for a term not exceeding 2 years or a fine not exceeding $50,000:
   (b) in the case of a body corporate, a fine not exceeding $200,000.
-(4) In this section, victim means the individual who is the target of a posted digital communication.
+(4) This section does not apply if the posted digital communication is an intimate visual recording to which the offence in section 22A applies.
+
+### 22A Posting intimate visual recording without consent
+(1) A person commits an offence if the person, without reasonable excuse, posts a digital communication that is an intimate visual recording of a victim—
+  (a) knowing that the victim has not consented to the posting; or
+  (b) being reckless as to whether the victim has consented to the posting.
+(2) An individual under the age of 16 years cannot consent to the posting of an intimate visual recording of which they are the subject.
+(3) A person who commits an offence against this section is liable on conviction to,—
+  (a) in the case of a natural person, imprisonment for a term not exceeding 2 years or a fine not exceeding $50,000:
+  (b) in the case of a body corporate, a fine not exceeding $200,000.
+
+### 22B Court may make civil order during proceedings for offence under section 22A
+(1) On application under this section and if the court considers it desirable to do so, the court conducting the proceedings for an offence under section 22A may make,—
+  (a) during the proceedings, 1 or more of the interim orders set out in subsection (2) against the defendant for the duration of the proceedings; and
+  (b) if the defendant is proven to have committed the offence, 1 or more of the orders set out in subsection (3) against the defendant.
+(2) The following interim orders are available to the court under subsection (1)﻿(a):
+  (a) an order to take down or disable material:
+  (b) an order that the defendant cease or refrain from the conduct concerned:
+  (c) an order that the defendant not encourage any other persons to engage in similar communications towards the affected individual.
+(3) The following orders are available to the court under subsection (1)﻿(b):
+  (a) an order to take down or disable material:
+  (b) an order that the defendant cease or refrain from the conduct concerned:
+  (c) an order that the defendant not encourage any other persons to engage in similar communications towards the affected individual:
+  (d) an order that a correction be published:
+  (e) an order that a right of reply be given to the affected individual:
+  (f) an order that an apology be published.
+(4) In this section, a defendant is proven to have committed an offence under section 22A if—
+  (a) the defendant is convicted of the offence; or
+  (b) the defendant is found guilty of, or pleads guilty to, the offence, but is discharged without conviction under section 106 of the Sentencing Act 2002; or
+  (c) the Youth Court makes an order under section 282 of the Oranga Tamariki Act 1989 discharging the charge relating to the offence after finding that the offence was proved.
 
 **Liability of online content host**
 
