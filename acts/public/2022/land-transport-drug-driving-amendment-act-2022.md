@@ -150,7 +150,7 @@ Replace section 57A with:Driving with blood that contains evidence of, or oral f
     (i) contains evidence of use of a listed qualifying drug and the blood concentration level of the drug exceeds the high-risk level for the drug; or
     (ii) contains evidence of use of an unlisted qualifying drug and the blood specimen was taken after the person failed to complete a compulsory impairment test in a manner satisfactory to an enforcement officer who is trained to give the test when the person was required to do so under section 71F.
 (2) In section 61(2A), delete or (2)﻿(c).
-(3) In section 61(3A), replace or section 56(1) or (2), or section 57A(1), or section 58(1), or section 60(1) with any of sections 56(1), 56(2), 57A(1), 57B(1), 57C(1), 58(1), and 60(1).
+(3) In section 61(3A), replace section 56(1) or (2), or section 57A(1), or section 58(1), or section 60(1) with any of sections 56(1), 56(2), 57A(1), 57B(1), 57C(1), 58(1), and 60(1).
 
 ### 15 Section 62 amended (Causing injury or death in circumstances to which section 61 does not apply)
 (1) Replace section 62(1)﻿(b) with:
@@ -418,8 +418,8 @@ In section 120(1A), replace section 71A with section 71F.
 Before section 167(2)﻿(a), insert:
   (aaa) is 75 demerit points in the case of an offence against section 57B(2) or (3) or 57C(2), (3), or (4):
 
-### 37 New sections 167A and 167B inserted
-After section 167, insert:Setting or amending high-risk and tolerance blood concentration levels for drug-driving offencesMinisters may appoint independent experts for purposes of section 167A
+### 37 New sections 167AAA and 167AAB inserted
+After section 167, insert:Setting or amending high-risk and tolerance blood concentration levels for drug-driving offencesMinisters may appoint independent experts for purposes of section 167AAA
   (1) The Governor-General may, by Order in Council, in accordance with a recommendation of the Minister and the Minister of Police, amend Schedule 5 by doing any 1 or more of the following:
     (a) adding the name of a qualifying drug to Part 1 of Schedule 5 and specifying a high-risk level for the drug:
     (b) adding the name of a qualifying drug to Part 2 of Schedule 5 and specifying a tolerance level for the drug:
@@ -428,19 +428,19 @@ After section 167, insert:Setting or amending high-risk and tolerance blood conc
     (a) may be specified only if a tolerance level is specified for the drug; and
     (b) may be the same as the tolerance level for the drug.
   (3) Before making a recommendation under subsection (1), the Ministers must, in respect of each qualifying drug referred to in the proposed order,—
-    (a) seek and consider independent advice from independent experts appointed under section 167B on—
+    (a) seek and consider independent advice from independent experts appointed under section 167AAB on—
       (i) the specific effects of each drug referred to in the proposed order; and
       (ii) the appropriate high-risk level for each drug referred to in any proposed amendment to Part 1 of Schedule 5; and
       (iii) the appropriate tolerance level for each drug referred to in any proposed amendment to Part 2 of Schedule 5; and
     (b) publish a notice in the Gazette and any other media the Ministers consider appropriate of their intention to recommend the making of the Order in Council; and
     (c) give interested persons a reasonable time, which must be specified in the notice published under paragraph (b), to make submissions on the proposed order; and
     (d) consult the persons, representative groups, government departments, and Crown entities that the Ministers consider reasonable and appropriate to consult in the circumstances.
-  (4) The Minister may seek and consider independent advice from independent experts appointed under section 167B on any other matter the Minister considers appropriate before making a recommendation under subsection (1).
+  (4) The Minister may seek and consider independent advice from independent experts appointed under section 167AAB on any other matter the Minister considers appropriate before making a recommendation under subsection (1).
   (5) The Governor-General may, by Order in Council, amend the name or description of any qualifying drug named or described in Schedule 5, if the amendment is necessary for the purpose of rendering that name or description consistent with the name or description of the qualifying drug in the Misuse of Drugs Act 1975.
   (6) An Order in Council made under this section—
     (a) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements); and
     (b) if made under subsection (1), must be confirmed by an Act (see subpart 3 of Part 5 of the Legislation Act 2019).
-  (1) The Minister of Transport, the Minister of Police, and the Science Minister (the Ministers) may from time to time appoint 1 or more independent experts to advise the Ministers on matters relating to setting and amending high-risk blood concentration levels and tolerance blood concentration levels for qualifying drugs under section 167A.
+  (1) The Minister of Transport, the Minister of Police, and the Science Minister (the Ministers) may from time to time appoint 1 or more independent experts to advise the Ministers on matters relating to setting and amending high-risk blood concentration levels and tolerance blood concentration levels for qualifying drugs under section 167AAA.
   (2) The independent experts appointed under subsection (1) must together have appropriate expertise in relevant medical and scientific fields, including pharmacology and toxicology.
   (3) The function of the independent experts is—
     (a) to carry out medical and scientific evaluations of qualifying drugs; and
@@ -478,7 +478,7 @@ In section 209, replace saliva with oral fluid in each place.
 **Transitional, savings, and related provisions**
 
 ### 40 Schedule 1 amended
-In Schedule 1, after Part 1, insert the Part 4 set out in Schedule 1 of this Act.
+In Schedule 1, after Part 5, insert the Part 6 set out in Schedule 1 of this Act.
 
 **Blood concentration levels for offences relating to drug driving**
 
@@ -493,7 +493,7 @@ After Schedule 4, insert the Schedule 5 set out in Schedule 2 of this Act.
 
 ### 42 Amendment to Legislation Act 2019
 (1) This section amends the Legislation Act 2019.
-(2) In Schedule 4, insert in its appropriate alphanumeric order: Land Transport Act 1998167A(1)
+(2) In Schedule 4, insert in its appropriate alphanumeric order: Land Transport Act 1998167AAA(1)
 
 **Amendment to Sentencing Act 2002**
 
@@ -508,18 +508,18 @@ After Schedule 4, insert the Schedule 5 set out in Schedule 2 of this Act.
 (2) In Schedule 1, after the item relating to section 57(2A) of the Land Transport Act 1998, insert:The following table is small in size and has 6 columns. This table is an amendment to the table in Schedule 1 of the Land Transport (Offences and Penalties) Regulations 1999 and should be read with that table to provide understanding of the context.57A(2)Driving or attempting to drive with blood containing evidence of use of 1 qualifying drug500—200—57A(3)Driving or attempting to drive with 2 oral fluid test results indicating use of 1 qualifying drug500—200—57B(2)Driving or attempting to drive with blood containing evidence of use of 2 or more qualifying drugs1,000—400—57B(3)Driving or attempting to drive with oral fluid test results indicating use of 2 or more qualifying drugs1,000—400—57C(2)Driving or attempting to drive with blood containing alcohol and evidence of use of 1 qualifying drug1,000—400—57C(3)Driving or attempting to drive with blood containing alcohol below specified blood-alcohol limits and with oral fluid indicating use of 1 qualifying drug1,000—400—57C(4)Driving or attempting to drive with breath containing alcohol below specified alcohol limits and oral fluid test results indicating use of 1 qualifying drug 1,000—400—
 (3) In Schedule 2, after the item relating to section 57AA(1) or (2) of the Land Transport Act 1998, insert:The following table is small in size and has 3 columns. This table is an amendment to the table in Schedule 2 of the Land Transport (Offences and Penalties) Regulations 1999 and should be read with that table to provide understanding of the context.57A(2)Driving or attempting to drive with blood containing evidence of use of 1 qualifying drug5057A(3)Driving or attempting to drive with 2 oral fluid test results indicating use of 1 qualifying drug5057B(2)Driving or attempting to drive with blood containing evidence of use of 2 or more qualifying drugs7557B(3)Driving or attempting to drive with oral fluid test results indicating use of 2 or more qualifying drugs7557C(2)Driving or attempting to drive with blood containing alcohol and evidence of use of 1 qualifying drug7557C(3)Driving or attempting to drive with blood containing alcohol below specified blood-alcohol limits and with oral fluid test results indicating use of 1 qualifying drug7557C(4)Driving or attempting to drive with breath containing alcohol below specified alcohol limits and oral fluid test results indicating use of 1 qualifying drug 75
 
-## Schedule 1 — New Part 4 inserted into Schedule 1
+## Schedule 1 — New Part 6 inserted into Schedule 1
 
-### Part 4 — Provision relating to Land Transport (Drug Driving) Amendment Act 2022
+### Part 6 — Provision relating to Land Transport (Drug Driving) Amendment Act 2022
 
-### 20 Review of amendments made by Land Transport (Drug Driving) Amendment Act 2022
+### 24 Review of amendments made by Land Transport (Drug Driving) Amendment Act 2022
 (1) The Minister must appoint a reviewer to undertake a review of the amendments made by the Land Transport (Drug Driving) Amendment Act 2022—
   (a) no earlier than 3 years after the commencement of that Act; and
   (b) no later than 4 years after the commencement of that Act.
 (2) The Minister must ensure that the reviewer appointed under subclause (1) is independent of the—
   (a) New Zealand Police; and
   (b) Ministry of Transport.
-(3) The review undertaken under subclause (1) must, subject to clause 21, consider—
+(3) The review undertaken under subclause (1) must, subject to clause 25, consider—
   (a) the impact of the amendments; and
   (b) the reliability of oral fluid tests and blood tests in assessing a person’s impairment; and
   (c) whether appropriate thresholds and impairment levels have been set for different drugs; and
@@ -536,8 +536,8 @@ After Schedule 4, insert the Schedule 5 set out in Schedule 2 of this Act.
   (a) the review; and
   (b) a response to the review.
 
-### 21 Order for review to not consider matters
-(1) The Governor-General may, by Order in Council, on the advice of the Minister, require that the review undertaken under clause 20 not consider 1 or more of the matters identified in clause 20(3).
+### 25 Order for review to not consider matters
+(1) The Governor-General may, by Order in Council, on the advice of the Minister, require that the review undertaken under clause 24 not consider 1 or more of the matters identified in clause 24(3).
 (2) Before advising the Governor-General to make an Order in Council under subclause (1), the Minister must present a paper to the House of Representatives explaining the reasons why, in the Minister’s view, the review should not consider the matters identified in the Order in Council.
 (3) An Order in Council made under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
