@@ -1,5 +1,5 @@
 # Tax Administration Act 1994
-_Consolidation as at 2021-12-31_
+_Consolidation as at 2022-03-12_
 
 > An Act to reorganise and consolidate the law relating to the Inland Revenue Department and the administration of income tax matters
 
@@ -10034,6 +10034,10 @@ Section 18 does not prevent the Commissioner allowing the Director-General of an
 
 ### 23 Government agencies: AML/CFT purposes
 Section 18 does not prevent the Commissioner disclosing to a government agency or an AML/CFT supervisor (as defined in section 5 of the Anti-Money Laundering and Countering Financing of Terrorism Act 2009) information supplied or obtained under an enactment referred to in section 140(2)﻿(k), (l), and (v) of that Act that is necessary or desirable for the purpose of ensuring compliance with AML/CFT legislation.
+
+### 23A Government agencies: Russia sanctions purposes
+(1) Section 18 does not prevent the Commissioner disclosing to the Ministry of Foreign Affairs and Trade or to another government agency information supplied or obtained under an Act referred to in section 31 of the Russia Sanctions Act 2022 that is necessary or desirable for the purposes of that section.
+(2) In this clause, government agency has the meaning given in section 5(1) of the Anti-Money Laundering and Countering Financing of Terrorism Act 2009.
 
 ### 23B Government agencies: COVID-19 response purposes
 (1) Section 18 does not prevent the Commissioner disclosing to a government agency information about a person or entity for the purpose of enabling the government agency to provide or fulfil any duty, obligation, or other thing in relation to any person or entity in connection with COVID-19 (including, without limitation, for the purpose of enabling the government agency to carry out an audit, review, or other enforcement function in relation to COVID-19-related assistance provided to any person or entity).
