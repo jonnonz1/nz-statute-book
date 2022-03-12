@@ -1,5 +1,5 @@
 # Companies Act 1993
-_Consolidation as at 2022-01-01_
+_Consolidation as at 2022-03-12_
 
 > An Act to reform the law relating to companies, and, in particular,—ato reaffirm the value of the company as a means of achieving economic and social benefits through the aggregation of capital for productive purposes, the spreading of economic risk, and the taking of business risks; andbto provide basic and adaptable requirements for the incorporation, organisation, and operation of companies; andcto define the relationships between companies and their directors, shareholders, and creditors; anddto encourage efficient and responsible management of companies by allowing directors a wide discretion in matters of business judgment while at the same time providing protection for shareholders and creditors against the abuse of management power; andeto provide straightforward and fair procedures for realising and distributing the assets of insolvent companies
 
@@ -6393,6 +6393,7 @@ When exercising a power described in section 365F or 365G, the Registrar (or a p
     (d) the Government Communications Security Bureau:
     (e) the Inland Revenue Department:
     (f) the Ministry of Business, Innovation and Employment:
+    (fa) the Ministry of Foreign Affairs and Trade:
     (g) the Ministry of Justice:
     (h) the New Zealand Customs Service:
     (i) the New Zealand Security Intelligence Service:
@@ -6411,6 +6412,7 @@ When exercising a power described in section 365F or 365G, the Registrar (or a p
     (c) the enforcement of the Proceeds of Crime Act 1991 or the Criminal Proceeds (Recovery) Act 2009:
     (d) the enforcement of the Misuse of Drugs Act 1975:
     (e) the enforcement of the Terrorism Suppression Act 2002:
+    (ea) the enforcement of the Russia Sanctions Act 2022:
     (f) the administration of the Mutual Assistance in Criminal Matters Act 1992:
     (g) the performance by the New Zealand Security Intelligence Service or the Government Communications Security Bureau of its function under section 10 or 11 of the Intelligence and Security Act 2017:
     (h) any action referred to in paragraphs (a) to (g) taken in respect of legislation of an overseas jurisdiction that is broadly equivalent to the enactments listed in those paragraphs.
