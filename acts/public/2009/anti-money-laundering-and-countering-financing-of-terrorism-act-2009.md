@@ -1,5 +1,5 @@
 # Anti-Money Laundering and Countering Financing of Terrorism Act 2009
-_Consolidation as at 2021-10-28_
+_Consolidation as at 2022-03-12_
 
 ### 1 Title
 This Act is the Anti-Money Laundering and Countering Financing of Terrorism Act 2009.
@@ -227,6 +227,7 @@ This Act is the Anti-Money Laundering and Countering Financing of Terrorism Act 
       (iv) the Terrorism Suppression Act 2002:
       (v) the Mutual Assistance in Criminal Matters Act 1992:
       (vi) the Customs and Excise Act 1996:
+      (vii) the Russia Sanctions Act 2022:
     (c) the performance by the New Zealand Security Intelligence Service or the Government Communications Security Bureau of its functions under the Intelligence and Security Act 2017:
     (d) the detection and prevention of the harms specified in section 58(2) of the Intelligence and Security Act 2017:
     (e) any purpose or action referred to in paragraphs (a) to (d) relating to, or taken in respect of, legislation of an overseas jurisdiction that is broadly equivalent to the enactments referred to in those paragraphs
@@ -1701,6 +1702,7 @@ An AML/CFT supervisor may only use information obtained under section 137 if the
   (r) the Racing Industry Act 2020:
   (s) the Real Estate Agents Act 2008:
   (t) the Reserve Bank of New Zealand Act 1989:
+  (ta) the Russia Sanctions Act 2022:
   (u) the Secondhand Dealers and Pawnbrokers Act 2004:
   (v) the Tax Administration Act 1994:
   (w) the Terrorism Suppression Act 2002:
@@ -1732,6 +1734,7 @@ The financial intelligence functions of the Commissioner are to—
   (ja) receive, analyse, and (if appropriate) refer to investigative branches of the New Zealand Police and to other law enforcement agencies, any prescribed transaction reports:
   (k) produce risk assessments relating to money laundering offences and the financing of terrorism to be used by the Ministry, the Ministry of Justice, AML/CFT supervisors, and the New Zealand Customs Service:
   (ka) receive and analyse financial intelligence relating to law enforcement purposes from international authorities authorised to perform functions broadly equivalent to the Commissioner’s financial intelligence functions:
+  (kb) co-operate with the Secretary of Foreign Affairs and Trade to implement and enforce the Russia Sanctions Act 2022:
   (l) co-operate with the Ministry, the Ministry of Justice, AML/CFT supervisors, the New Zealand Customs Service, regulators, and any other relevant agencies to help ensure the effective implementation of the requirements under this Act and regulations.
 
 ### 143 Powers relating to financial intelligence functions of Commissioner
