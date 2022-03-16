@@ -1,5 +1,5 @@
 # Income Tax Act 2007
-_Consolidation as at 2022-02-22_
+_Consolidation as at 2022-03-16_
 
 ### A 1 Title
 This Act is the Income Tax Act 2007.
@@ -26566,7 +26566,7 @@ Section GC 1 (Disposals of trading stock at below market value) does not apply t
 Section GC 1 (Disposals of trading stock at below market value) does not apply to a disposal of trading stock by a person—
   (a) to a donee organisation or a public authority; and
   (b) in—
-    (i) the period that begins on 17 March 2020 and ends on 16 March 2022; or
+    (i) the period that begins on 17 March 2020 and ends on 31 March 2023; or
     (ii) a period specified by an Order in Council made under section 225ABA of the Tax Administration Act 1994.
 
 ### GZ 5 Disposals of trading stock to non-associates
@@ -26576,7 +26576,7 @@ When this section applies
     (i) is not associated with person A; and
     (ii) is not a donee organisation or a public authority; and
   (b) in—
-    (i) the period that begins on 17 March 2020 and ends on 16 March 2022; or
+    (i) the period that begins on 17 March 2020 and ends on 31 March 2023; or
     (ii) a period specified by an Order in Council made under section 225ABA of the Tax Administration Act 1994.
 Exclusion from section GC 1
 (2) Section GC 1 (Disposals of trading stock at below market value) does not apply to the disposal.
