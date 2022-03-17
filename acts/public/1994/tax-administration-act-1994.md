@@ -1,5 +1,5 @@
 # Tax Administration Act 1994
-_Consolidation as at 2022-03-12_
+_Consolidation as at 2022-03-17_
 
 > An Act to reorganise and consolidate the law relating to the Inland Revenue Department and the administration of income tax matters
 
@@ -10047,7 +10047,7 @@ Section 18 does not prevent the Commissioner disclosing to a government agency o
     (ii) it is reasonable and practicable to disclose the information; and
     (iii) it is not undesirable to disclose the information; and
     (iv) the information is reasonably necessary for the purpose referred to in subclause (1); and
-  (b) no more than 24 months have passed since the date on which this clause comes into force.
+  (b) no more than 24 months and 15 days have passed since the date on which this clause comes into force.
 (3) The time limit imposed by subclause (2)﻿(b) may be extended by Order in Council made—
   (a) on the recommendation of the Minister of Revenue; and
   (b) within 24 months of the date on which this clause comes into force.
