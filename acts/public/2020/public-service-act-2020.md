@@ -1,5 +1,5 @@
 # Public Service Act 2020
-_Consolidation as at 2021-10-28_
+_Consolidation as at 2022-03-24_
 
 ### 1 Title
 This Act is the Public Service Act 2020.
@@ -1196,25 +1196,34 @@ The amendments to the State Sector (Ministry for Primary Industries) Order 2012 
 | Office for Māori Crown Relations—Te Arawhiti | Ministry of Justice |  |  |
 | Social Wellbeing Agency | Public Service Commission |  |  |
 
-| Interdepartmental executive board | Departments in board’s remit (see section 26(2)﻿(b)) | Servicing department |
-| --- | --- | --- |
-| Border Executive Board | Ministry of Business, Innovation, and Employment | New Zealand Customs Service |
-|  | Ministry of Foreign Affairs and Trade |  |
-|  | Ministry of Health |  |
-|  | Ministry for Primary Industries |  |
-|  | Ministry of Transport |  |
-|  | New Zealand Customs Service |  |
-| Strategic Planning Reform Board | Department of Conservation | Ministry for the Environment |
-|  | Department of Internal Affairs |  |
-|  | Ministry for Culture and Heritage |  |
-|  | Ministry for Primary Industries |  |
-|  | Ministry for the Environment |  |
-|  | Ministry of Business, Innovation, and Employment |  |
-|  | Ministry of Housing and Urban Development |  |
-|  | Ministry of Māori Development—Te Puni Kōkiri |  |
-|  | Ministry of Transport |  |
-|  | Office for Māori Crown Relations—Te Arawhiti |  |
-|  | The Treasury |  |
+| Interdepartmental executive board |  | Departments in board’s remit (see section 26(2)﻿(b)) | Servicing department |
+| --- | --- | --- | --- |
+| Border Executive Board |  | Ministry of Business, Innovation, and Employment | New Zealand Customs Service |
+|  |  | Ministry of Foreign Affairs and Trade |  |
+|  |  | Ministry of Health |  |
+|  |  | Ministry for Primary Industries |  |
+|  |  | Ministry of Transport |  |
+|  |  | New Zealand Customs Service |  |
+| Executive Board for the Elimination of Family Violence and Sexual Violence |  | Department of Corrections | Ministry of Justice |
+|  | Ministry of Education |  |  |
+|  | Ministry of Health |  |  |
+|  |  | Ministry of Justice |  |
+|  |  | Ministry of Māori Development—Te Puni Kōkiri |  |
+|  |  | Ministry of Social Development |  |
+|  |  | New Zealand Police |  |
+|  |  | Oranga Tamariki—Ministry for Children |  |
+|  |  | Public Service Commission |  |
+| Strategic Planning Reform Board |  | Department of Conservation | Ministry for the Environment |
+|  | Department of Internal Affairs |  |  |
+|  |  | Ministry for Culture and Heritage |  |
+|  |  | Ministry for Primary Industries |  |
+|  |  | Ministry for the Environment |  |
+|  |  | Ministry of Business, Innovation, and Employment |  |
+|  |  | Ministry of Housing and Urban Development |  |
+|  |  | Ministry of Māori Development—Te Puni Kōkiri |  |
+|  |  | Ministry of Transport |  |
+|  |  | Office for Māori Crown Relations—Te Arawhiti |  |
+|  |  | The Treasury |  |
 
 | Interdepartmental venture | Relevant departments (see section 33(2)﻿(b)) |
 | --- | --- |
