@@ -1,5 +1,5 @@
 # Tax Administration Act 1994
-_Consolidation as at 2022-03-17_
+_Consolidation as at 2022-03-25_
 
 > An Act to reorganise and consolidate the law relating to the Inland Revenue Department and the administration of income tax matters
 
@@ -8947,7 +8947,7 @@ An amount that is interest under section 120D, or a late payment penalty relatin
   (a) the Commissioner is satisfied that the taxpayer—
     (i) asked for the relief as soon as practicable; and
     (ii) made the payment as soon as practicable; and
-  (b) no more than 24 months have passed since the date on which this section comes into force.
+  (b) no more than 4 years and 15 days have passed since the date on which this section comes into force.
 (4) The time limit imposed by subsection (3)﻿(b) may be extended by Order in Council made—
   (a) on the recommendation of the Minister of Revenue; and
   (b) within 24 months of the date on which this section comes into force.
