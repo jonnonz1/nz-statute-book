@@ -1,5 +1,5 @@
 # Student Loan Scheme Act 2011
-_Consolidation as at 2021-10-28_
+_Consolidation as at 2022-03-30_
 
 ### 1 Title
 This Act is the Student Loan Scheme Act 2011.
@@ -2044,10 +2044,10 @@ In accordance with, and for the purpose set out in, section 312 of the Customs a
 
 ### 211 Meaning of notify
 (1) A requirement in this Act for a person to notify another person or for a matter to be notified is satisfied by a communication—
-  (a) that is printed, typewritten, or otherwise visibly represented, copied, or reproduced on paper and is given by personal delivery, post, or fax; or
+  (a) that is printed, typewritten, or otherwise visibly represented, copied, or reproduced on paper and is given by personal delivery, post; or
   (b) by telephone; or
   (c) made orally in person in a manner acceptable to the Commissioner; or
-  (d) by an electronic means (except a fax), if the person complies with Part 4 of the Contract and Commercial Law Act 2017, including by email or the Internet; or
+  (d) by an electronic means, if the person complies with Part 4 of the Contract and Commercial Law Act 2017, including by email or the Internet; or
   (e) in any other manner acceptable to the Commissioner.
 (2) However, it does not include a communication on the Internet, or by other means, if the person for whom the communication is intended is not directly alerted to it in some manner.
 (3) A notification that is given by post is treated as having been given at the time the notification would have been delivered in the ordinary course of the post.
@@ -2055,8 +2055,8 @@ In accordance with, and for the purpose set out in, section 312 of the Customs a
 
 ### 212 Meaning of notify a person in writing
 (1) A requirement in this Act for a person to notify a person in writing or for a matter to be notified in writing is satisfied by a communication—
-  (a) that is printed, typewritten, or otherwise visibly represented, copied, or reproduced on paper and is given by personal delivery, post, or fax; or
-  (b) by an electronic means (except a fax), if the person complies with Part 4 of the Contract and Commercial Law Act 2017, including by email or the Internet; or
+  (a) that is printed, typewritten, or otherwise visibly represented, copied, or reproduced on paper and is given by personal delivery, post; or
+  (b) by an electronic means, if the person complies with Part 4 of the Contract and Commercial Law Act 2017, including by email or the Internet; or
   (c) in any other manner acceptable to the Commissioner.
 (2) However, it does not include a communication on the Internet, or by other means, if the person for whom the communication is intended is not directly alerted to it in some manner.
 (3) A notification in writing that is given by post is treated as having been given at the time the notification would have been delivered in the ordinary course of the post.
