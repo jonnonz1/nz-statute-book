@@ -1,5 +1,5 @@
 # Tax Administration Act 1994
-_Consolidation as at 2022-03-25_
+_Consolidation as at 2022-03-30_
 
 > An Act to reorganise and consolidate the law relating to the Inland Revenue Department and the administration of income tax matters
 
@@ -90,6 +90,7 @@ _Consolidation as at 2022-03-25_
     (c) a shortfall penalty; or
     (cb) a promoter penalty; or
     (cc) a penalty under section 142H or 142I; or
+    (cd) a penalty under section 141EE; or
     (d) a non-electronic filing penalty; or
     (e) a civil penalty under section 215 of the KiwiSaver Act 2006
   - **collective agreement** is defined in section 130(6) for the purposes of that section
@@ -188,13 +189,18 @@ _Consolidation as at 2022-03-25_
   - **earnings as a self-employed person** is defined in schedule 7, part C, subpart 2, clause 42(3) for the purposes of that clause
   - **earnings as a shareholder-employee** is defined in schedule 7, part C, subpart 2, clause 42(3) for the purposes of that clause
   - **earnings-related compensation** is defined in schedule 7, part C, subpart 2, clause 41(9) for the purposes of that clause
+  - **electronic sales suppression tool** means a software program, device, tool, or other thing, part of a thing, or combination of things or parts,—
+    (a) that can hide, conceal, modify, falsify, destroy, or prevent the creation of a record that—
+      (i) a person is required under a tax law to make or keep; and
+      (ii) is, or would be, created by a system that is or includes an electronic point of sale system; and
+    (b) the use of which would lead to a reasonable conclusion that 1 of its principal functions is to facilitate the concealment, modification, falsification, destruction, or prevention of the creation of a record
   - **employee** —
     (a) is defined in section 23L(6) for the purposes of that section:
     (b) is defined in section 143E(5) for the purposes of that section
   - **employer** —
     (a) in section 47, has the same meaning as in paragraphs (c) and (d) of the definition of that term in section YA 1 of the Income Tax Act 2007:
     (b) is defined in schedule 7, part C, subpart 2, clause 42(3) for the purposes of that clause
-  - **employment income information** is defined in section 23C for the purposes of subpart 3C, sections 23, 36, 47, 80D, 124Q, 139A, 139AA(4), 141AA, 141ED, 142, 142G, and 227C, and schedules 3 and 4
+  - **employment income information** is defined in section 23C for the purposes of subpart 3C, sections 23, 36, 47, 80D, 108AB, 108B, 124Q, 139A, 139AA(4), 141AA, 141ED, 142, 142G, and 227C, and schedules 3 and 4
   - **encumbrance** , in respect of an estate or interest in land, means any trust, contract, easement, condition, or contingency affecting the same, and any restriction, however imposed, on the owner's power of user, alienation, or disposition
   - **ESS deferral date** has the meaning given by section CE 2(9) of the Income Tax Act 2007
   - **exceptional circumstance** —
@@ -372,7 +378,7 @@ _Consolidation as at 2022-03-25_
     (b) the way the Commissioner proposes to treat differently a tax position or tax positions taken by a disputant in 1 or more tax returns,—
   - **proscribed question** means—
     (a) whether a fact is correct or exists:
-    (b) what is a person’s purpose or intention, for the purpose of any provision of the Income Tax Act 2007 that expressly refers to a person’s purpose or intention, other than in relation to the test of principal purpose of making taxable supplies as described in section 91CB(3)﻿(c):
+    (b) what is a person’s purpose or intention, for the purpose of any provision of the Income Tax Act 2007 that expressly refers to a person’s purpose or intention:
     (c) what is the value of a thing:
     (d) what is commercially acceptable practice, for the purposes of any provision of that Act that expressly refers to commercially acceptable practice:
     (e) a question related to research and development tax credits under subpart LY of the Income Tax Act 2007
@@ -456,6 +462,9 @@ _Consolidation as at 2022-03-25_
     (e) approved issuer levy:
     (f) RLWT:
     (g) gaming-machine duty:
+    (gb) casino duty:
+    (gc) lottery duty:
+    (gd) totalisator duty:
     (h) income tax liability of portfolio investment entities to which section HM 42 or HM 43 of the Income Tax Act 2007 applies
   - **status ruling** means a ruling made under section 91GA
   - **student allowance** means an allowance paid under regulations made under section 645 of the Education and Training Act 2020
@@ -563,7 +572,7 @@ _Consolidation as at 2022-03-25_
     (a) the difference between the tax effect of a taxpayer’s tax position for the return period and the correct tax position for that period, when the taxpayer’s tax position—
       (i) results in too little tax paid or payable by the taxpayer or another person:
       (ii) overstates a tax benefit, credit, or advantage of any type or description whatever by or benefiting the taxpayer or another person; but
-    (b) for a person that has taken a tax position for section 46(6B) (the tax position) and has not made an election under section RD 7B of the Income Tax Act 2007, the amount of tax that they would have been liable to pay, if they had made an election under section RD 7B of that Act for the period, for the difference between the tax position and the correct tax position
+    (b) for a person that has taken a tax position for section 23K (the tax position) and has not made an election under section RD 7B of the Income Tax Act 2007, the amount of tax that they would have been liable to pay, if they had made an election under section RD 7B of that Act for the period, for the difference between the tax position and the correct tax position
   - **tax to pay** is defined in section 139B
   - **taxation law** is defined in section 91B for the purposes of Part 5A
   - **Taxation Review Authority** , or , means a Taxation Review Authority established or continued in existence under the Taxation Review Authorities Act 1994
@@ -880,7 +889,7 @@ Secondary legislation
 (3) The person in whose name the loan application is made—
   (a) must provide the information to the Commissioner required by the loan contract; and
   (b) is bound by the terms of the loan contract and must pay or repay all amounts payable by the person under the loan contract at the times and in the manner provided in the loan contract.
-(4) If a person who receives a payment from the Commissioner does not meet the required eligibility requirements, the person must repay the total amount to the Commissioner immediately.
+(4) If a person who receives a payment from the Commissioner does not meet the required eligibility requirements, the person, or an associated person who receives the benefit of the payment other than as adequate consideration for a supply of goods or services, must repay the total amount to the Commissioner immediately.
 (4B) For the purposes of this section, the chief executive of the Ministry of Social Development is authorised to provide the Commissioner with any information relating to the wage subsidy scheme administered by the Ministry.
 (4C) The Commissioner may use the information provided under subsection (4B) in connection with the exercise or performance of any of the Commissioner’s duties, powers, or functions under the Inland Revenue Acts.
 (5) A loan contract under this section is not a credit contract or a consumer credit contract for the purposes of the Credit Contracts and Consumer Finance Act 2003.
@@ -908,7 +917,7 @@ Secondary legislation
 (4) If a person applies for a grant on behalf of another person, both the person and the person in whose name the application is made must provide information as required by the Commissioner.
 (5) The person in whose name an application is made is bound by the CSP terms of the grant.
 (6) The total amount of a grant paid to the person, together with any amount payable under the CSP terms, must be repaid to the Commissioner if the CSP terms require repayment.
-(7) If a person who receives a grant from the Commissioner does not meet the eligibility requirements referred to in subsection (3)﻿(b)﻿(i), the person must immediately repay to the Commissioner the total amount of the grant together with any amount payable under the CSP terms.
+(7) If a person who receives a grant from the Commissioner does not meet the eligibility requirements referred to in subsection (3)﻿(b)﻿(i), the person, or an associated person who receives the benefit of the grant, other than as adequate consideration for a supply of goods or services must immediately repay to the Commissioner the total amount of the grant together with any amount payable under the CSP terms.
 (8) The persons referred to in subsection (4) must keep records referred to in section 22 to demonstrate that the eligibility requirements are met and the CSP terms have not been breached.
 (9) For the purposes of this section and section 7AAC, the CSP terms of a grant for an activation period mean—
   (a) the terms and conditions applying in relation to a person’s eligibility for the grant at the time the grant is made, and any other terms and conditions determined by the Commissioner under subsection (3)﻿(b)﻿(ii):
@@ -992,7 +1001,7 @@ Secondary legislation
   (c) applying:
   (d) notifying:
   (e) formally notifying.
-(2) Sections 14F and 14G set out the requirements for giving information or communicating by personal delivery, post, fax, or electronic means.
+(2) Sections 14F and 14G set out the requirements for giving information or communicating by personal delivery, post, or electronic means.
 (3) Despite sections 6, 14B(2)﻿(c), and 14C(2)﻿(a), and sections 220 and 224 of the Contract and Commercial Law Act 2017, when there are reasonable grounds to suppose an electronic communication will be received by a person, the consent of the person is not required in order for the Commissioner to communicate in electronic form.
 (4) Despite subsection (1) and the references to this Act, the Income Tax Act 2007, and the Goods and Services Tax Act 1985, sections 14C to 14G apply when any other Act requires the Commissioner to give notice to a person, or a person to give notice to the Commissioner.
 
@@ -1033,7 +1042,7 @@ Secondary legislation
   (c) providing for the Commissioner to prescribe the manner, form, or format for giving information or communicating a matter.
 (2) Sections 14B to 14D apply to a provision in the Acts referred to in subsection (1) that relates to or implements a double tax agreement or other agreement described in section BH 1 of the Income Tax Act 2007 only to the extent to which they are not inconsistent with the application of the agreement.
 
-### 14F Giving information by personal delivery, post, fax, or electronic means
+### 14F Giving information by personal delivery, post, or electronic means
 (1) This section applies when a provision in this Act, the Income Tax Act 2007, or the Goods and Services Tax Act 1985 requires person A to communicate with person B by delivering the information in the way set out in subsections (2) to (5).
 (2) When the Commissioner is person A, the Commissioner may communicate with person B—
   (a) if person B is not a corporate body,—
@@ -1043,7 +1052,7 @@ Secondary legislation
   (c) by delivery to person B’s contact address as described in section 14G.
 (3) When the Commissioner is person B, person A may communicate with the Commissioner—
   (a) by electronic means if, in delivering the communication, person A complies with Part 4 of the Contract and Commercial Law Act 2017; or
-  (b) by fax, to a fax number that has been provided by the Commissioner; or
+  (b)
   (c) by personal delivery during working hours to an office of the department that is available to accept communication of the information; or
   (d) by post—
     (i) to the street address of an office of the department; or
@@ -1057,7 +1066,7 @@ Secondary legislation
   (b) a representative authorised to act on behalf of the person in relation to the relevant matter.
 (6) A communication by post is treated as having been given at the time the communication would have been delivered in the ordinary course of the post.
 (7) Section 214 of the Contract and Commercial Law Act 2017 applies to determine the time of receipt of an electronic communication.
-(8) For the purposes of this section and section 14G, delivery by electronic means does not include a communication to a fax number.
+(8)
 
 ### 14G Contact addresses
 (1) For the purposes of section 14F(2) and (4), a person’s contact address may be 1 of the following:
@@ -1072,8 +1081,8 @@ Secondary legislation
   (c) for delivery by post,—
     (i) the street address of their usual or last known place of residence; or
     (ii) the street address of any of their usual or last known places of business; or
-    (iii) any other address of the person, if they have notified the Commissioner that they accept delivery at the address:
-  (d) for delivery by fax, a fax number that has been provided or is otherwise available.
+    (iii) any other address of the person, if they have notified the Commissioner that they accept delivery at the address.
+  (d)
 (2) For the purposes of the delivery of income information, a person’s contact address is the address described in subsection (1)﻿(a) to (c).
 
 ## Part 2A — Taxpayer's tax obligations
@@ -1173,15 +1182,16 @@ Meaning of revenue law
   (d) any Act that imposes taxes or duties payable to the Crown.
 Meaning of revenue information
 (2) For the purposes of this subpart and schedule 7, revenue information means information that is acquired, obtained, accessed, received by, disclosed to, or held by the Commissioner—
-  (a) under or for the purposes of a revenue law:
+  (a) in connection with a revenue law and for a purpose set out in section 16B(1):
   (b) under an information-sharing agreement.
 Meaning of sensitive revenue information
 (3) For the purposes of this subpart and schedule 7, sensitive revenue information—
-  (a) means revenue information that relates to the affairs of a person or entity—
-    (i) that identifies, or is reasonably capable of being used to identify, the person or entity, whether directly or indirectly; or
+  (a) means revenue information—
+    (i) that identifies, or is reasonably capable of being used to identify, a person or entity, whether directly or indirectly; or
     (ii) that might reasonably be regarded as private, commercially sensitive, or otherwise confidential; or
     (iii) the release of which could result in loss, harm, or prejudice to a person to whom, or an entity to which, it relates:
-  (b) does not include aggregate or statistical data that may contain information about the person or entity to the extent to which the information does not meet the requirements of paragraph (a).
+  (b) does not include aggregate or statistical data that may contain information about the person or entity to the extent to which the information does not meet the requirements of paragraph (a):
+  (c) does not include information if the only person or entity that it identifies is the Commissioner or chief executive of the Inland Revenue Department, unless it relates to the application of the Inland Revenue Acts to the Inland Revenue Department as a taxpayer.
 Meaning of revenue officer
 (4) For the purposes of this subpart and schedule 7, a revenue officer—
   (a) means a person who is employed in or seconded to Inland Revenue; and
@@ -1233,7 +1243,7 @@ Requirements
   (b) provided to a particular office of the Commissioner:
   (c) provided in a manner acceptable to the Commissioner.
 Persons included
-(4) For the purposes of this section, a person includes—
+(4) For the purposes of this section and section 17L, a person includes—
   (a) an officer employed in, or in connection with, a department of the government or a public authority:
   (b) any other public officer.
 Particular requirements for information demands and inquiries
@@ -1985,6 +1995,9 @@ Meaning of reportable income
     (i) a PAYE income payment:
     (ii) a payment of resident passive income:
     (iii) a payment of non-resident passive income:
+    (iiib) a payment under the wage subsidy scheme defined in section 7AA(6):
+    (iiic) a payment under the leave support scheme made by the Ministry of Social Development on behalf of the Crown in relation to leave taken as a consequence of COVID-19:
+    (iiid) a payment under the short-term absence scheme made by the Ministry of Social Development on behalf of the Crown in relation to absence from work as a consequence of COVID-19:
     (iv) a benefit under an employee share scheme described in schedule 4, table 1, rows 4 and 7:
     (v) attributed PIE income; and
   (b) for which the person paying the amount has been provided the individual’s tax file number, however this requirement does not apply if the amount is income derived jointly with another person and the Commissioner is able to allocate an amount to the individual for the income year; and
@@ -2601,8 +2614,10 @@ Meaning of end investor
 (8) For the purposes of this subpart, an end investor —
   (a) means an investor to whom a payment of investment income is made who is—
     (i) a direct investor, whether resident or non-resident, who is the beneficial owner of the investment:
-    (ii) a non-resident custodial institution, other than an institution that is carrying on a business in New Zealand through a fixed establishment in New Zealand; and
+    (ii) a custodial institution that is not resident in New Zealand; and
   (b) includes a trustee, PIE, or PIE proxy if the person or entity has an obligation to provide investment income information to the Commissioner under this subpart.
+When branches located in New Zealand
+(9) For the purposes of subsection (8)﻿(a)﻿(ii), if the non-resident custodial institution has a branch located in New Zealand that receives a payment of investment income, the branch is treated as the person who must provide investment income information relating to the payment under subsection (3).
 
 ### 25N Information from payers with no withholding obligation
 A payer referred to in section 25E(1)﻿(j) must deliver the investment income information described in schedule 6, table 1, rows 4 to 8, 16, 21, and 22, as applicable, for a tax year to the Commissioner—
@@ -3012,6 +3027,9 @@ For the purposes of section 32E(2)﻿(i), when the person is part of a group of 
 A person who is entitled to a research and development tax credit must file a research and development supplementary return for a tax year in an electronic format prescribed by the Commissioner on or before the day that is 30 days after—
   (a) the due date on which they are required to file a return of income for the tax year under section 37; or
   (b) the due date on which they would be required to file a return under section 37, if they had assessable income.
+
+### 33F Research and development tax credits: extension of time for 2019–20 income year
+The time for a person to file a supplementary return under section 33E for the 2019–20 income year is extended to 31 August 2021, or such later date otherwise allowed by that section.
 
 ### 34 Presumption as to authority of person making return
 A return purporting to be made by or on behalf of any person shall for all purposes be deemed to have been made by that person or by that person's authority, as the case may be, unless the contrary is proved.
@@ -3487,9 +3505,9 @@ A person that uses the AIM method as described in section RC 5(5B) of the Income
 (2) Also, a person must give the Commissioner the return if they have no RLWT to pay because of the application of section RL 4 of the Income Tax Act 2007.
 
 ### 54C Information in relation to payment of RLWT
-(1) This section applies if a person (the vendor) disposes of residential land (the disposal), and the bright-line date for the residential land is either within 5 years if section CZ 39 applies, or within 10 years if section CB 6A applies, of—
+(1) This section applies if a person (the vendor) disposes of residential land (the disposal), and the bright-line date for the residential land is either within 5 years if section CZ 39 applies, or within 10 years or 5 years, as the case may be, if section CB 6A applies, of—
   (a) the date on which the instrument to transfer the land to the person was registered under the Land Transfer Act 1952; or
-  (b) their date of acquisition of the land, if an instrument to transfer the land to the person is not registered on or before the bright-line date.
+  (b) the latest date on which they acquire the estate or interest in the residential land, if an instrument to transfer the land to the person is not registered on or before the bright-line date.
 (2) This section does not apply if the relevant date for the vendor under subsection (1)﻿(a) or (b) is before 1 October 2015.
 (3) The vendor must give to their conveyancer, or if they do not have a conveyancer or they are associated with the purchaser, give to the purchaser’s conveyancer or the purchaser, information in relation to RLWT, in the form prescribed by the Commissioner, before the relevant residential land purchase amount is paid.
 (4) The information must be accompanied by relevant and appropriate documents, as prescribed by the Commissioner.
@@ -3796,7 +3814,7 @@ A company or person apportioning its interest expenditure under section FE 6B of
   (b) the person complies with any conditions in the Commissioner’s approval; and
   (c) there is no material change in the provisions in subpart LY of that Act and any associated provisions; and
   (d) if the Commissioner approves a person and their activities for more than 1 income year, the person has given the Commissioner, on or before the 7th day of the 2nd month after the end of the relevant income year, notice that there have been no material changes for their business for the relevant income year.
-(2) The Commissioner may, in accordance with this section, approve a person’s research and development activities for an income year (the first income year) and up to 2 further consecutive income years, if the person makes an application in accordance with subsection (3) on or before the 7th day of the 2nd month after the end of the first income year.
+(2) The Commissioner may, in accordance with this section, approve a person’s research and development activities for an income year (the first income year), the income year immediately before (the prior year), and up to 2 income years immediately after, if the person makes an application in accordance with subsection (3) on or before the 7th day of the 2nd month after the end of the first income year. For a prior year, the Commissioner may only approve supporting research and development activities described in section LY 5(1)﻿(ab)﻿(i) of the Income Tax Act 2007..
 (3) A person must apply to the Commissioner for approval in the form prescribed by the Commissioner, including—
   (a) the activities the person wants the Commissioner to approve; and
   (b) the income years for which approval is sought; and
@@ -3805,6 +3823,8 @@ A company or person apportioning its interest expenditure under section FE 6B of
 (5) If the Commissioner approves a person’s activities for an income year, the Commissioner must notify the person what activities of the person the Commissioner approves of as core research and development activities or supporting research and development activities, for which income years, and any conditions upon which the approval is made.
 (6) The Commissioner must notify the person of the intention to decline the application before the application is declined.
 (7) The Commissioner may vary an approval, upon application, if the variation application meets the requirements in subsection (1)﻿(a), the variation applied for meets the requirements of subsection (4), and the application is made on or before the 7th day of the 2nd month after the end of the relevant income year. If the Commissioner accepts the variation, then the Commissioner must notify the person in accordance with subsection (5).
+(7B) The Commissioner may vary an approval, upon application, to the extent to which the variation application relates solely to a supporting research and development activity for the income year immediately after the relevant income year, as provided by section LY 5(1)﻿(ab)﻿(ii) of the Income Tax Act 2007, if the variation application meets the requirements of subsection (1)﻿(a) of this section, the variation applied for meets the requirements of subsection (4) of this section, and the application is made on or before the 7th day of the 14th month after the end of the relevant income year. If the Commissioner accepts the variation, then the Commissioner must notify the person in accordance with subsection (5) of this section.
+(7C) The Commissioner may vary an approval, upon application, to the extent to which the variation application relates solely to a supporting research and development activity for the 2019–20 income year, if the variation application meets the requirements of subsection (1)﻿(a) of this section, the variation applied for meets the requirements of subsection (4) of this section, and the application is made on or before 31 August 2022. If the Commissioner accepts the variation, then the Commissioner must notify the person in accordance with subsection (5) of this section.
 (8) The Commissioner’s approval under this section binds the Commissioner in accordance with the provisions of this section.
 
 ### 68CC Research and development tax credits: greater than $2 million approval
@@ -3818,7 +3838,7 @@ A company or person apportioning its interest expenditure under section FE 6B of
     (ii) the person complies with any conditions in the Commissioner’s approval; and
     (iii) there is no material change in the provisions in subpart LY of the Income Tax Act 2007 and any associated provisions; and
     (iv) the person has, for the income year, given to the Commissioner a research and development certificate with the person’s research and development supplementary return (see: sections 33E and 124ZI).
-(3) The Commissioner may, in accordance with this section, approve a person’s criteria and methodologies for an income year (the first income year) and up to 2 further consecutive income years, if the person makes an application in accordance with subsection (4) on or before the last day of the 6th month before the end of the first income year (application date). The Commissioner may accept and approve an application after the application date if the taxpayer has changed the end date of their income year due to a change in their balance date for the first income year.
+(3) The Commissioner may, in accordance with this section, approve a person’s criteria and methodologies for an income year (the first income year), the income year immediately before (the prior year), and up to 2 income years immediately after, if the person makes an application in accordance with subsection (4) on or before the last day of the 6th month before the end of the first income year (application date). For a prior year, the Commissioner may only approve supporting research and development activities described in section LY 5(1)﻿(ab)﻿(i) of the Income Tax Act 2007. The Commissioner may accept and approve an application after the application date if the taxpayer has changed the end date of their income year due to a change in their balance date for the first income year.
 (4) A person must apply to the Commissioner for approval in the form prescribed by the Commissioner, including—
   (a) the criteria and methodologies the person wants the Commissioner to approve; and
   (b) the income years for which approval of a criterion or methodology is sought; and
@@ -3841,6 +3861,10 @@ A company or person apportioning its interest expenditure under section FE 6B of
 ### 68CE Research and development tax credits: publication of details
 (1) The Commissioner must publish, in a publication chosen by the Commissioner, the names of people who have received a research and development tax credit under subpart LY of the Income Tax Act 2007 and where the amount of their research and development tax credit falls for a tax year, using appropriate dollar bands.
 (2) The names and bands must not be published before 2 years elapse after the end of the tax year to which the relevant tax credit relates.
+
+### 68CF Research and development tax credits: extension of time for approvals
+(1) The time for a person to make an application, or an application to vary, in relation to an approval under sections 68CB and 68CC for the 2020–21 income year is extended to 31 August 2021, or such later date otherwise allowed by those sections.
+(2) The time for a person to make an application in relation to an approval under section 68CB for an income year is extended to the date that is 3 months after the date that the Commissioner notifies to the person the outcome of their application, for the income year, under section 68CC(4) if they make such an application, or such later date otherwise allowed by section 68CB.
 
 ### 68D Statements in relation to research and development tax credits: single persons
 [Repealed]
@@ -4411,7 +4435,8 @@ When the initiating notice is a notice of proposed adjustment referred to in sec
   (a) if the proposed adjustment is already the subject of a challenge; or
   (b) after the expiry of the time bar that, under—applies to the assessment.
     (i) sections 108 and 108B; or
-    (ii) sections 108A and 108B,—
+    (ii) sections 108A and 108B; or
+    (iii) sections 108AB and 108B,—
 
 ### 89C Notices of proposed adjustment required to be issued by Commissioner
 The Commissioner must issue a notice of proposed adjustment before the Commissioner makes an assessment, unless—
@@ -4555,7 +4580,7 @@ The Commissioner must issue a notice of proposed adjustment before the Commissio
   (a) the Commissioner considers that an exceptional circumstance applies or has prevented the Commissioner from rejecting the adjustment within the response period; and
   (b) the Commissioner applies—
     (i) before the Commissioner issues a notice of assessment including the adjustment; or
-    (ii) relying on section 108(2) or section 108A(3).
+    (ii) relying on section 108(2), 108AB(2), or 108A(3).
 (1B) The Commissioner may apply to the High Court for an order allowing the Commissioner to issue a challenge notice past the 4 years provided in section 89P(1) if—
   (a) the Commissioner considers that an exceptional circumstance applies or has prevented the Commissioner from issuing the challenge notice within the 4 years; and
   (b) the Commissioner applies within the 4 years.
@@ -4658,7 +4683,11 @@ The Commissioner must issue a notice of proposed adjustment before the Commissio
 (1) The Commissioner must issue a challenge notice to a disputant within 4 years of the disputant issuing a notice of proposed adjustment, unless—
   (a) section 89L(2B)﻿(a) applies:
   (b) section 89J(2) applies.
-(2) Despite subsection (1), the Commissioner does not have to issue a challenge notice to the extent to which the dispute has ended.
+(2) Despite subsection (1), the Commissioner is not required to issue a challenge notice—
+  (a) to the extent to which the dispute has ended:
+  (b) when—
+    (i) the Commissioner has issued an amended assessment that reflects some but not all of the adjustments proposed by the disputant; and
+    (ii) the disputant has a right of challenge under section 138B(2).
 (3) A challenge notice may not be issued before the Commissioner issues a statement of position, unless 1 or more of section 89N(1)﻿(c)﻿(i) to (ix) apply.
 (4) A challenge notice must state that—
   (a) the Commissioner will not be issuing an amended assessment that includes or takes into account the adjustment proposed by the disputant; and
@@ -5968,6 +5997,7 @@ Where, whether before or after the commencement of this Act,—the validity of t
 (1C) The Commissioner may not amend an assessment so as to increase an amount assessed when—
   (a) a taxpayer—
     (i) provides a return for an amount of ancillary tax for a period which, for the purposes of this section, is treated as the making of an assessment of the amount of the tax by the taxpayer:
+    (ib) provides a return for an amount required to be deducted under section 221 of the Accident Compensation Act 2001 for a period which, for the purposes of this section, is treated as the making of an assessment of the amount by the taxpayer:
     (ii) provides a statement in relation to approved issuer levy payable under section 86K of the Stamp and Cheque Duties Act 1971 for a period which, for the purposes of this section, is treated as the making of an assessment of the levy by the taxpayer:
     (iii) makes an application for a refund made under section 41A in relation to a tax credit for a charitable or other public benefit gift; and
   (b) 4 years have passed from the end of the period in which the taxpayer provided the return or statement, or made the application, as applicable.
@@ -5994,6 +6024,15 @@ Where, whether before or after the commencement of this Act,—the validity of t
   (b) finishes on the day on which that challenge is finally judged successful by the relevant Taxation Review Authority or court, or the day on which the Commissioner concedes.
 (4) This section overrides every other provision of this Act, and any other rule or law, that limits the Commissioner's right to amend GST assessments.
 
+### 108AB Time bar for amending assessment of KiwiSaver contributions
+(1) The Commissioner may not amend an assessment so as to increase an amount assessed when—
+  (a) a taxpayer provides employment income information that includes—
+    (i) an amount required to be deducted under Part 3, subpart 1 of the KiwiSaver Act 2006 which, for the purposes of this section, is treated as the making of an assessment of the amount by the taxpayer:
+    (ii) an amount of KiwiSaver Act 2006 employer contributions payable which, for the purposes of this section, is treated as the making of an assessment of the amount by the taxpayer; and
+  (b) 4 years have passed from the date on which the taxpayer provided the employment income information.
+(2) However, if the Commissioner is of the opinion that employment income information provided by a taxpayer is fraudulent or wilfully misleading, the Commissioner may amend the assessment at any time so as to increase its amount.
+(3) This section overrides every other provision of this Act, and any other rule or law, that limits the Commissioner’s right to amend assessments.
+
 ### 108B Extension of time bars
 (1) The application of a time bar that is referred to in subsection (3) may be delayed for a taxpayer by a waiver—
   (a) for 12 months from the time at which the time bar would otherwise apply if—
@@ -6009,7 +6048,8 @@ Where, whether before or after the commencement of this Act,—the validity of t
   (c) the time bar occurring under section 108 (as that section applied before it was amended by section 29 of the Tax Administration Amendment Act (No 2) 1996) after the period of 4 years from the end of the year in which the notice of original assessment was issued; and
   (d) the time bar occurring under section 108(1), (1B), and (1C) (as amended by section 29 of the Tax Administration Amendment Act (No 2) 1996) after the period of 4 years from the end of the tax year in which the taxpayer provides a return of income; and
   (e) the time bar occurring under the former section 31 of the Goods and Services Tax Act 1985 (as that section applied on 30 September 1996) after the period of 4 years from the end of the month in which the GST return was provided or, as the case may be, the assessment made; and
-  (f) the time bar occurring under section 108A(1) after the period of 4 years from the end of the GST return period in which the GST tax return was provided.
+  (f) the time bar occurring under section 108A(1) after the period of 4 years from the end of the GST return period in which the GST tax return was provided; and
+  (fb) the time bar occurring under section 108AB after the period of 4 years from the date on which the taxpayer provided the employment income information.
   (g)
 
 ### 109 Disputable decisions deemed correct except in proceedings
@@ -6044,7 +6084,7 @@ A notice of assessment issued on or after 1 April 1995 and relating to return pe
 [Repealed]
 
 ### 113 Commissioner may at any time amend assessments
-(1) Subject to sections 89N and 113D, the Commissioner may from time to time, and at any time, amend an assessment as the Commissioner thinks necessary in order to ensure its correctness, notwithstanding that tax already assessed may have been paid.
+(1) Subject to section 89N, the Commissioner may from time to time, and at any time, amend an assessment as the Commissioner thinks necessary in order to ensure its correctness, notwithstanding that tax already assessed may have been paid.
 (2) If any such amendment has the effect of imposing any fresh liability or increasing any existing liability, notice of it shall be given by the Commissioner to the taxpayer affected.
 
 ### 113A Correction of certain errors in subsequent returns
@@ -6056,9 +6096,11 @@ A notice of assessment issued on or after 1 April 1995 and relating to return pe
 (2) This section does not apply in relation to an assessment or return for an ancillary tax other than fringe benefit tax as described in subsection (1)﻿(a)﻿(ii).
 (3) If the total tax discrepancy amounts to $1,000 or less, the person may make a correction in the next return that is due after the discovery of the error or errors.
 (3B) If the total tax discrepancy is caused by an error or errors that, for the person, is not a material error or are not material errors, the person may make a correction in the next return that is due after the discovery of the error or errors.
-(4) For the purposes of subsection (3B) and in relation to a single return of a person, an error is not material if the amount of the total tax discrepancy caused by the error or errors in the assessment is equal to or less than the lower of—
+(4) For the purposes of subsection (3B) and in relation to a single return of a person, an error is not material if the amount of the total tax discrepancy caused by the error or errors in the assessment or return, as applicable, is equal to or less than the lower of—
   (a) $10,000; and
-  (b) 2% of the person’s annual gross income or output tax, as applicable.
+  (b) 2% of the person’s—
+    (i) output tax, in the case of an assessment of goods and services tax; or
+    (ii) annual gross income, in any other case.
 (5) Subsections (3) and (3B) do not apply to a person who applies the materiality threshold in subsection (4) in relation to an assessment of their liability for income tax or goods and services tax, or return for fringe benefit tax, if their main purpose in applying the threshold is to delay the payment of tax.
 
 ### 113B Amended assessments if dividend recovered or repaid
@@ -6364,7 +6406,7 @@ on 8 May 2008 on $9,750 ($12,750 − $3,000) (s 120C(2)﻿(b)).
 
 ### 120KE Provisional tax and rules on use of money interest
 (1) A provisional taxpayer's residual income tax for a tax year is due and payable in 1 instalment on their terminal tax date if—
-  (a) they have paid all instalments under 1 of the standard methods described in section RC 5(2) or (3) of the Income Tax Act 2007 on or before the instalment dates for the tax year in accordance with sections RC 9 and RC 10 of that Act, or they have no obligation to pay provisional tax for the tax year under section RC 3(3) of that Act; and
+  (a) they are required to calculate instalments under the standard methods described in section RC 5(2) and (3) of the Income Tax Act 2007 or they have no obligation to pay provisional tax for the tax year under section RC 3(3) of that Act; and
   (b) their residual income tax is less than $60,000 for the tax year; and
   (c) they have not estimated their residual income tax under section RC 7 of the Income Tax Act 2007 for the tax year; and
   (cb) they have not used the AIM method under section RC 7B of that Act in the tax year to determine the amount of provisional tax payable for the tax year; and
@@ -6391,7 +6433,7 @@ on 8 May 2008 on $9,750 ($12,750 − $3,000) (s 120C(2)﻿(b)).
 (8) In this section, a reference to an instalment classified by the alphanumeric designations A to F1 is a reference to a date in the table in Schedule 3, Part A of the Income Tax Act 2007 on which an instalment of provisional tax is payable by a provisional taxpayer for an income year that corresponds to a tax year.
 
 ### 120KF Tolerance for provisional tax instalments
-Despite a provisional taxpayer underpaying an instalment by $20 or less, the provisional taxpayer is treated as paying the instalment in full for the purposes of section 120KE.
+[Repealed]
 
 ### 120L Meaning of unpaid tax and overpaid tax for provisional tax purposes
 (1) For the purposes of determining amounts of unpaid tax and overpaid tax in respect of instalment dates for a tax year, a taxpayer's residual income tax is to be calculated in accordance with the definition of that term in section 120KB(4).
@@ -6898,7 +6940,7 @@ Except so far as may be expressly provided to the contrary in this Act or the In
     (i) the PAYE rules; or
     (ii) the provisional tax rules; or
     (iii) any of sections CD 15, CD 19, HD 2, HD 3(2), HD 5(4), HD 15, HD 24, HD 26 to HD 29, LA 6 to LA 8, LJ 1 to LJ 7, RD 3, RM 2, RM 4, RM 8, and RM 10 of the Income Tax Act 2007 and sections 18K, 33, 92A and 184 of this Act:
-    (iv) any of sections 17F, 17G, 18I, 21B to 23, 23B to 23Q, 36 to 44D, 58, 62, 63, 78B, 78C, 80, 89C, 89K, 89M, 92, 106, 107, 108, 108A, 108B, 109, 110, 111, 113 to 116, 118, 120A to 120U, 131, 138N, 142A, 142C, 146, 150A, 157, 160, 166, 166B, 167, 174AA, 176, 177, 177A to 177D, 183A, 183D, 183F, and 225B of this Act,—
+    (iv) any of sections 17F, 17G, 18I, 21B to 23, 23B to 23Q, 36 to 44D, 58, 62, 63, 78B, 78C, 80, 89C, 89K, 89M, 92, 106, 107, 108, 108A, 108AB, 108B, 109, 110, 111, 113 to 116, 118, 120A to 120U, 131, 138N, 142A, 142C, 146, 150A, 157, 160, 166, 166B, 167, 174AA, 176, 177, 177A to 177D, 183A, 183D, 183F, and 225B of this Act,—
   (k) any matter in respect of which it is expressly provided that there shall be no right of objection or challenge to the decision or determination of the Commissioner.
 
 ### 126 Procedure for objections to assessments
@@ -7107,7 +7149,7 @@ A disputant is entitled to challenge a disputable decision that is not an assess
     (i) the PAYE rules; or
     (ii) the provisional tax rules; or
     (iii) any of sections CD 15, CD 19, HD 2, HD 3(2), HD 5(4), HD 15, HD 24, HD 26 to HD 29, LA 6 to LA 8, LJ 1 to LJ 7, RD 3, RM 2 to RM 4, RM 8, and RM 10 of the Income Tax Act 2007 and sections 18K, 33, 92A, 139 (insofar as it applies to unpaid tax for periods before 1 April 1997) and 184 of the Tax Administration Act 1994; or
-    (iv) any of sections 17F, 17G, 18I, 21B to 23, 36 to 46, 58, 62, 63, 68CB, 68CC, and 68CD, 78B, 78C, 80, 89C, 89K, 89L, 89M, 89N(1)﻿(c)﻿(viii) and (3), 92, 106, 107, 108A, 108B, 109, 110, 111, 113, 114, 120A to 120U, 124ZH, 124ZI, Part 7B, 138I(2B), 138N, 139B, 142A, 142C, 146, 150A, 157, 160, 166, 166B, 167, 174AA, 176, 177, 177A to 177D, 183A, 183D, 183F, and 225B of this Act; or
+    (iv) any of sections 6E, 6F, 17F, 17G, 18I, 21B to 23, 36 to 46, 58, 62, 63, 68CB, 68CC, and 68CD, 78B, 78C, 80, 89C, 89K, 89L, 89M, 89N(1)﻿(c)﻿(viii) and (3), 92, 106, 107, 108B, 109, 110, 111, 113, 114, 120A to 120U, 124ZH, 124ZI, Part 7B, 138I(2B), 138N, 139B, 142A, 142C, 146, 150A, 157, 160, 166, 166B, 167, 174AA, 176, 177, 177A to 177D, 183A, 183D, 183F, and 225B of this Act; or
     (ivb) any of Parts 1 to 3 of the KiwiSaver Act 2006; or
     (v) any of Parts 4, 6, 7 and 11 (other than section 76) of the Goods and Services Tax Act 1985—
   (ea) the Commissioner's interpretation of how a taxation law applies to a person, whether or not the person has come into legal existence, and to an arrangement, whether or not a single or a recurring arrangement, as set out in a binding ruling made under Part 5A; or
@@ -7192,7 +7234,7 @@ A disputant may—that is issued by the Commissioner in relation to an amount of
   (b) may direct the Commissioner to alter the disputable decision to the extent necessary to conform to the decision of the hearing authority with the effect the hearing authority specifies.
 (3) Subject to subsection (4), the Commissioner must make or amend an assessment or other disputable decision in such a way that it conforms to the hearing authority's determination.
 (4) The Commissioner is not required to make or amend an assessment or other disputable decision before the resolution of appeal procedures from the hearing authority.
-(5) The time bars in sections 108, 108A, and 108B do not apply with respect to—
+(5) The time bars in sections 108, 108A, 108AB, and 108B do not apply with respect to—
   (a) a determination of a hearing authority made under subsection (1)﻿(a) or subsection (1B) of this section or an amendment made by the Commissioner to an assessment for the purpose of conforming to such a determination; or
   (b) an assessment made by a hearing authority under subsection (1)﻿(b) or the Commissioner under subsection (3).
 
@@ -7333,15 +7375,16 @@ The purposes of this Part are—
   (bc) imputation additional tax under section OB 71 or OB 72 of that Act imposed for the 2018–19 and later income years:
   (c) provisional tax or income tax for the 2017–18 or later income years:
   (d) described in section MF 5 or MF 6 of the Income Tax Act 2007, or is otherwise the overpayment or over-crediting of WFF tax credits, and relates to the 2017–18 or later income years:
-  (e) civil penalties for tax and periods described in paragraphs (a) to (d).
+  (e) civil penalties for tax and periods described in paragraphs (a) to (d):
+  (f) an electronic sales suppression penalty under section 141EE.
 (3) An initial late payment penalty is added to the unpaid tax to which it relates—
   (a) on the day after the default date for the unpaid tax, if it is imposed under subsection (2)﻿(a)﻿(i):
   (b) at the end of the sixth day after the day referred to in paragraph (a), if it is imposed under subsection (2)﻿(a)﻿(ii).
 (3A)
-(3B) The part of an initial late payment penalty imposed under subsection (2)﻿(a)﻿(ii) is not to be added if the Commissioner has exercised powers available under section 24LC(3) or 157 of this Act or section 43 of the Goods and Services Tax Act 1985 or any similar tax law before the end of the 6th day after the day on which an initial late payment penalty is imposed under subsection (2)﻿(a)﻿(i) and has received the tax withheld or deducted in accordance with the requirements of a notice issued as a result of the Commissioner exercising those powers.
+(3B) The part of an initial late payment penalty imposed under subsection (2)﻿(a)﻿(ii) is not to be added if the Commissioner has exercised powers available under section 157 or schedule 5, part C, clause 4(3) of this Act or section 43 of the Goods and Services Tax Act 1985 or any similar tax law before the end of the 6th day after the day on which an initial late payment penalty is imposed under subsection (2)﻿(a)﻿(i) and has received the tax withheld or deducted in accordance with the requirements of a notice issued as a result of the Commissioner exercising those powers.
 (4) An incremental late payment penalty is to be added to the tax to pay to which it relates on the day after the last day of successive monthly intervals during which the tax to pay remains unpaid.
 (5) If an incremental late payment penalty would, apart from this subsection, be added to any tax to pay on a date that does not exist in a month, the penalty is to be added to the tax to pay on the last day of the month.
-(5A) An incremental late payment penalty is not to be added if, for a month during which the tax to pay remains unpaid, the Commissioner has exercised powers available under section 24LC(3) or 157 of this Act or section 43 of the Goods and Services Tax Act 1985 or any similar tax law and has received the tax withheld or deducted in accordance with the requirements for the month of a notice issued as a result of the Commissioner exercising those powers.
+(5A) An incremental late payment penalty is not to be added if, for a month during which the tax to pay remains unpaid, the Commissioner has exercised powers available under section 157 or schedule 5, part C, clause 4(3) of this Act or section 43 of the Goods and Services Tax Act 1985 or any similar tax law and has received the tax withheld or deducted in accordance with the requirements for the month of a notice issued as a result of the Commissioner exercising those powers.
 (5B) A taxpayer is liable to pay a late payment penalty under subsection (2) in relation to a default date if—
   (a) the Commissioner has given the taxpayer a notice of a further date for the payment of unpaid tax under subsection (1)﻿(c)﻿(i); and
   (b) after giving the notice, the Commissioner becomes aware of a default by the taxpayer that arose before the date of the notice; and
@@ -7435,7 +7478,7 @@ For the purposes of determining a person’s liability to pay a late payment pen
 
 ### 141 Tax shortfalls
 (1) Tax shortfalls are to be calculated by the Commissioner in accordance with this section.
-(2) A tax shortfall calculation is required each time a taxpayer is liable to pay a shortfall penalty, subject to section 141AA(1).
+(2) A tax shortfall calculation is required each time a taxpayer is liable to pay a shortfall penalty, subject to sections 141AA(1) and 141EE(4).
 (3) A separate tax shortfall calculation is required—
   (a) for each return period; and
   (b) for each tax type; and
@@ -7653,6 +7696,19 @@ Despite sections 141A to 141E, a provisional taxpayer who uses a GST ratio in a 
 (7) The maximum amount of penalties under this section that may be imposed is 150% of the required amount that is unpaid when the first penalty is imposed under this section.
 (8) If the penalty date for a penalty would, in the absence of this subsection, be a date in a month that does not exist in the month, the penalty date is the date of the last day in the month.
 
+### 141EE Penalty for acquiring or possessing electronic sales suppression tools
+(1) This section applies to a person who—
+  (a) is required by a tax law to make or keep records; and
+  (b) knowingly acquires, or has possession or control of an electronic sales suppression tool (the suppression tool), or a right to use a suppression tool; and
+  (c) has a purpose in relation to the suppression tool of evading the assessment or payment of tax under a tax law, whether by them or by another person.
+(2) This section does not apply when the person—
+  (a) acquires a business whose operations include the use of the suppression tool or the right to use it; and
+  (b) could not reasonably be expected to be aware of the existence of the suppression tool in the business; and
+  (c) has not used the suppression tool in the business.
+(3) The person is liable to pay an electronic sales suppression penalty of $5,000.
+(4) For the purposes of the imposition of a penalty under subsection (3), a person to whom this section applies is liable to pay a single penalty for all related tax types and periods. A further penalty may be imposed for a later period of time for the continued possession or control of, or right to use, the suppression tool.
+(5) For the purposes of subsection (1)﻿(c), and without limiting the provision, a person is treated as meeting the purpose test if they have used the suppression tool to evade the assessment or payment of tax.
+
 ### 141F Commissioner to determine portions in which shortfall penalty payable by taxpayer and officers of taxpayer
 (1) If—1 shortfall penalty, calculated in accordance with this Part, may be imposed in respect of each tax position taken by the taxpayer.
   (a) a taxpayer is required to make or account for a deduction or withholding of tax under a tax law; and
@@ -7705,6 +7761,9 @@ Despite sections 141A to 141E, a provisional taxpayer who uses a GST ratio in a 
   (b) the taxpayer—
     (i) takes both tax positions on the same date:
     (ii) is not liable for a shortfall penalty at any time in the period specified in subsection (4) that ends on the earliest date on which the taxpayer takes a tax position that gives rise to a tax shortfall of which the Commissioner becomes aware as a consequence of the investigation or disclosure to which paragraph (a) refers.
+(6) Despite subsection (1), no reduction in the amount payable is allowed when an electronic sales suppression penalty is imposed under section 141EE(3) on a person—
+  (a) who is liable to a penalty under section 141E(1); and
+  (b) whose use of an electronic sales suppression tool contributes to the evasion or similar act.
 
 ### 141FC Loss attributing qualifying companies—reduction of shortfall penalties
 [Repealed]
@@ -7736,6 +7795,22 @@ Despite sections 141A to 141E, a provisional taxpayer who uses a GST ratio in a 
   (b) the time when—
     (i) an officer of the department inspects information (including books or records) of the taxpayer after the taxpayer receives the notice referred to in subsection (4); and
     (ii) the taxpayer is notified of the inspection.
+
+### 141GB Reduction of electronic sales suppression penalties
+(1) This section applies when a person—
+  (a) is liable to pay an electronic sales suppression penalty imposed under section 141EE; and
+  (b) discloses to the Commissioner details relating to the acquisition, possession, control, or use of the electronic sales suppression tool.
+(2) The penalty payable by the person may be reduced if, in the Commissioner’s opinion, the person has made a full disclosure of all the details relating to the suppression tool.
+(3) The disclosure referred to in subsection (1) may be either—
+  (a) a pre-notification disclosure made before the person is notified of a pending tax audit or investigation; or
+  (b) a post-notification disclosure made after the person is notified of a pending tax audit or investigation, but before the Commissioner starts the audit or investigation.
+(4) The level by which the penalty is reduced under subsection (2) is,—
+  (a) for pre-notification disclosure, 100%:
+  (b) for post-notification disclosure, 40%.
+(5) Section 141G(4) and (5) apply for the purposes of subsection (3) in determining—
+  (a) whether a person has been notified of a pending tax audit or investigation; and
+  (b) the time at which an audit or investigation starts.
+(6) The Commissioner may specify the information required for a full disclosure and the form in which it must be provided.
 
 ### 141H Reduction for disclosure of unacceptable tax position
 (1) A shortfall penalty payable by a taxpayer under section 141B or section 141D may be reduced if, in the Commissioner's opinion, the taxpayer makes adequate disclosure of the taxpayer's tax position at the time, determined under section 141B(6), the taxpayer takes the taxpayer's tax position.
@@ -7894,6 +7969,7 @@ Despite sections 141A to 141E, a provisional taxpayer who uses a GST ratio in a 
     (iii) which has a new due date set under section 142A(5), on the collection date, described in section 142A(6), for the unpaid tax:
   (b) in all other cases, on the date the Commissioner notifies the taxpayer to be the due date for payment of the penalty.
 (2) Subsection (1)﻿(a) does not apply for a shortfall penalty assessed under section 141A if section 141A(5) determines the time at which liability for the shortfall penalty is treated as arising.
+(3) A shortfall penalty that is an electronic sales suppression penalty under section 141EE is due and payable on the relevant date set out in subsection (1)﻿(a), treating the electronic sales suppression penalty as if it were an amount of unpaid tax.
 
 ### 142C Due date for payments by officers
 The due date for payment of an amount payable by an officer under section 141F is the due date for payment of the shortfall penalty by the taxpayer.
@@ -7961,13 +8037,14 @@ The due date for payment, by a member of a large multinational group, of a penal
 
 **Criminal penalties**
 
-### 143 Absolute liability offences
+### 143 Absolute liability offences and strict liability offences
 (1) A person commits an offence against this Act if the person—
   (a) does not keep the documents required to be kept by a tax law; or
   (ab) fails to register with a foreign government agency as required by Part 11B; or
   (b) does not provide information (including tax returns and tax forms) to the Commissioner or any other person when required to do so by a tax law; or
   (ba) does not provide a tax invoice as required by section 24 of the Goods and Services Tax Act 1985; or
-  (c) does not apply for registration as required under section 51 of the Goods and Services Tax Act 1985.
+  (c) does not apply for registration as required under section 51 of the Goods and Services Tax Act 1985; or
+  (d) claims, under section 20(3) of the Goods and Services Tax Act 1985, more than 1 amount of input tax for a taxable supply to the person, resulting in a total amount of input tax claimed by the person for the taxable supply that exceeds the output tax charged to the person for the taxable supply.
 (1B) No person who is a resident foreign trustee may be convicted of an offence against subsection (1)﻿(a) for not keeping documents required to be kept under section 22 if the person proves that—
   (a) the person did not know of the requirements of section 22:
   (b) another resident foreign trustee has been appointed under section 22(2C) as agent of the resident foreign trustees for the purposes of section 22 and the Commissioner has been notified of the appointment.
@@ -7979,6 +8056,9 @@ The due date for payment, by a member of a large multinational group, of a penal
   (b) no non-resident, who under section 17E(1) was controlled directly or indirectly by the person, had the information in the non-resident's knowledge, possession or control.
 (2B) No person may be convicted of an offence against subsection (1)﻿(ab) if the relevant failure to register occurred through no fault of the person.
 (2C) No person may be convicted of an offence against subsection (1) if the requirement with which the person fails to comply is a requirement under the CRS applied standard and Part 11B.
+(2D) No person may be convicted of an offence against subsection (1)﻿(d) if the person proves that the person, either or both,—
+  (a) took reasonable care when claiming the amounts of input tax:
+  (b) corrected, under section 113A of the Tax Administration Act 1994, the amount claimed for input tax.
 (3) A person who is convicted of an offence against subsection (1) is liable—
   (a) the first time the person is convicted in relation to a particular type of offence, to a fine not exceeding $4,000:
   (b) the second time the person is convicted of the same type of offence, to a fine not exceeding $8,000:
@@ -7994,7 +8074,7 @@ The due date for payment, by a member of a large multinational group, of a penal
   (c) knowingly provides altered, false, incomplete, or misleading information (including tax returns and tax forms) to the Commissioner or any other person in respect of a tax law or a matter or thing relating to a tax law; or
   (d) knowingly applies or permits the application of the amount of a deduction or withholding of tax made or deemed made under a tax law for any purpose other than in payment to the Commissioner; or
   (e) knowingly does not make a deduction or withholding of tax required to be made by a tax law; or
-  (f) knowingly issues 2 tax invoices (as defined in the Goods and Services Tax Act 1985) in respect of the same taxable supply; or
+  (f)
   (fb) knowingly does not issue a receipt relating to a supply of distantly taxable goods as required by section 24BAB(3) of the Goods and Services Tax Act 1985; or
   (fc) knowingly does not provide information relating to a supply of distantly taxable goods as required by section 24BAC of the Goods and Services Tax Act 1985; or
   (g) in relation to a recipient of a supply of distantly taxable goods or of remote services from a non-resident supplier, and for the purposes of avoiding the payment of goods and services tax, knowingly provides altered, false, or misleading information relating to their residence in New Zealand or their status as a registered person; or
@@ -8046,6 +8126,26 @@ The due date for payment, by a member of a large multinational group, of a penal
   (b) a fine not exceeding $50,000; or
   (c) both.
 
+### 143BB Manufacturing or supplying electronic sales suppression tools
+(1) A person commits an offence against this Act if they knowingly manufacture, develop, or publish an electronic sales suppression tool (the suppression tool) that is provided to a person referred to in subsection (2) or section 141EE or 143BC.
+(2) A person commits an offence against this Act if they—
+  (a) knowingly supply, make available for use, or otherwise provide the suppression tool or a right to use the suppression tool to a person resident in New Zealand:
+  (b) knowingly provide a service to a person resident in New Zealand that includes the use of the suppression tool.
+(3) A person who is convicted of an offence under subsection (1) or (2) is liable to a fine not exceeding $250,000.
+
+### 143BC Acquiring or possessing electronic sales suppression tools
+(1) A person commits an offence against this Act if they—
+  (a) are required by a tax law to make or keep records; and
+  (b) knowingly acquire, or have possession or control of an electronic sales suppression tool (the suppression tool), or a right to use the suppression tool; and
+  (c) have a purpose in relation to the suppression tool of evading the assessment or payment of tax under a tax law, whether by them or by another person.
+(2) Subsection (1) does not apply when the person—
+  (a) acquires a business whose operations include the use of the suppression tool or a right to use it; and
+  (b) could not reasonably be expected to be aware of the existence of the suppression tool in the business; and
+  (c) has not used the suppression tool in the business.
+(3) A person who is convicted of an offence under subsection (1) is liable to a fine not exceeding $50,000.
+(4) For the purposes of the imposition of a penalty under subsection (3), a person to whom this section applies is treated as committing a single offence in relation to all tax types and periods. A further penalty may be imposed for a later period of time for the continued possession or control of, or right to use, the suppression tool.
+(5) For the purposes of subsection (1)﻿(c), and without limiting the provision, a person is treated as meeting the purpose test if they have used the suppression tool to evade the assessment or payment of tax.
+
 ### 143C Offences related to disclosure of sensitive revenue information by revenue officers
 (1) A revenue officer commits an offence against this Act if they—
   (a) knowingly act in contravention of section 18(1):
@@ -8061,6 +8161,7 @@ The due date for payment, by a member of a large multinational group, of a penal
     (i) the agency of the Commissioner under schedule 7, part A, clauses 7, 10, 11, and 12, and part C, clauses 21, 22, 34, 41, 43, and 46; or
     (ii) their access to the digital storage systems of the department; or
     (iii) their access to the information under an approved information-sharing agreement referred to in section 18E(2); or
+  (ab) a person who acquires, has access to, or is given the information as an officer, employee, or agent of an agency referred to in schedule 7, part C, clauses 20, 23, 23B, 24 to 29, 30, 31, 33, 34A, 35 to 38, 39B, 42, 44, 45, and 45B; or
   (b) a person, other than a revenue officer, who is employed by or provides services to a government agency and is required by the agency to perform their duties, and with facilities, shared with revenue officers who are expected by the Commissioner to perform their duties in the place and with the facilities; or
   (c) a person who, by the nature of their physical access to the premises or digital storage systems of the department, may have, or is likely to have access to the information, and has been required by the Commissioner to sign a certificate under section 18B(2); or
   (d) a person who accompanies the Commissioner as described in section 16B(6)﻿(b) to a place where the person may or is likely to have access to the information; or
@@ -8368,6 +8469,7 @@ In any proceedings against a person for refusing or failing to provide a tax ret
 (1) A person, not being an employer, who—is liable to prosecution for an offence under Part 9 but is not liable—
   (a) receives a notice requiring the person to deduct or extract an amount from payments to a taxpayer from the Commissioner under—
     (i) section 157 of this Act; or
+    (ib) section 12L of the Gaming Duties Act 1971; or
     (ii) section 43 of the Goods and Services Tax Act 1985; or
     (iii) section 154 of the Child Support Act 1991; or
     (iv) section 193 of the Student Loan Scheme Act 2011; or
@@ -8580,6 +8682,7 @@ In this Part—
 (2) For the purpose of the Inland Revenue Acts—
   (a) tax transferred by the transferor is treated as a refund to the transferor on the date of transfer; and
   (b) tax transferred to the transferee is treated as tax paid by the transferee on the date of transfer, except for the purpose of imposing a shortfall penalty under Part 9.
+(3) Subsection (2) does not apply for Part O of the Income Tax Act 2007.
 
 **Transfer rules**
 
@@ -8917,7 +9020,10 @@ An amount that is interest under section 120D, or a late payment penalty relatin
 
 ### 183ABA Remission in circumstances of emergency event
 (1) This section applies for a taxpayer if—
-  (a) an emergency event, declared in an Order in Council under this section, physically prevents the taxpayer from making a payment required by a tax law on or before the due date for the payment; and
+  (a) the taxpayer fails to make a payment required by a tax law (the required payment) on or before the due date for the required payment; and
+  (ab) the failure is a consequence of an emergency event, declared in an Order in Council under this section, that significantly adversely affects the ability of the taxpayer to do either or both of—
+    (i) make a reasonably accurate forecast, on 1 or more provisional tax instalment dates for a tax year, of the taxpayer’s residual income tax for the tax year:
+    (ii) make the required payment on or before the due date for the required payment; and
   (b) the taxpayer is charged with interest under Part 7 for failing to make the payment by the due date; and
   (c) the taxpayer is a member of a class of persons to whom a remission under this section is available, if such a class of persons is described in the Order in Council declaring the emergency event.
 (2) The taxpayer may ask the Commissioner to remit the interest.
@@ -8948,9 +9054,12 @@ An amount that is interest under section 120D, or a late payment penalty relatin
     (i) asked for the relief as soon as practicable; and
     (ii) made the payment as soon as practicable; and
   (b) no more than 4 years and 15 days have passed since the date on which this section comes into force.
-(4) The time limit imposed by subsection (3)﻿(b) may be extended by Order in Council made—
-  (a) on the recommendation of the Minister of Revenue; and
-  (b) within 24 months of the date on which this section comes into force.
+(4) The time limit imposed by subsection (3)﻿(b) may be extended by Order in Council—
+  (a) made on the recommendation of the Minister of Revenue; and
+  (b) made before, or no more than 6 months after, the time limit (the previous time limit) applying immediately before the Order in Council comes into force; and
+  (c) extending the time limit by no more than 36 months from the previous time limit for—
+    (i) all persons affected by the previous time limit; or
+    (ii) a class or classes of persons affected by the previous time limit and described in the Order in Council.
 (5) An Order in Council (the order) made under subsection (4) or this subsection—
   (a) expires, if not renewed under paragraph (b), after—
     (i) the period given in the order, if such a period is given; or
@@ -8961,22 +9070,22 @@ An amount that is interest under section 120D, or a late payment penalty relatin
 (6) The Minister of Revenue may recommend the making of an Order in Council under subsection (4) or (5) to extend the time limit only if satisfied that the ability of taxpayers to pay tax on time is likely to continue, beyond the expiry of the existing time limit, to be significantly adversely affected by COVID-19.
 (7) An Order in Council under subsection (4) or (5) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
-### 183ABAC Remission of interest on terminal tax for 2020–21 tax year for provisional taxpayers affected by COVID-19
-(1) This section applies for a taxpayer who is liable to pay provisional tax for the 2020–21 tax year if—
-  (a) the taxpayer, for the 2020–21 tax year,—
-    (i) makes an estimate under section RC 7 of the Income Tax Act 2007 on or before their last instalment date for the 2020–21 tax year; or
+### 183ABAC Remission of interest on residual income tax for 2020–2021 or 2021–2022 tax year for provisional taxpayers affected by COVID-19
+(1) This section applies for a taxpayer who is liable to pay provisional tax for the 2020–21 or 2021–22 tax year (the affected tax year) if—
+  (a) the taxpayer, for the affected tax year,—
+    (i) makes an estimate under section RC 7 of the Income Tax Act 2007 on or before their last instalment date for the affected tax year; or
     (ii) makes an election under section RC 10(5) of that Act; or
     (iii) does not make an election under section RC 10(5) of that Act, but meets the criteria set out in section 120KE(1)﻿(b) to (e); and
-  (b) the taxpayer’s residual income tax for the 2020–21 tax year is less than $1 million; and
+  (b) the taxpayer’s residual income tax for the affected tax year is less than $1 million; and
   (c) the taxpayer is charged with interest under Part 7—
-    (i) on an amount of terminal tax payable for the 2020–21 tax year; and
-    (ii) that begins to accrue before the taxpayer’s terminal tax date for the 2020–21 tax year; and
-  (d) the taxpayer’s ability to make a reasonably accurate forecast, on 1 or more provisional tax instalment dates for the 2020–21 tax year, of their residual income tax for the 2020–21 tax year was significantly adversely affected by COVID-19 and, as a consequence, the taxpayer failed to pay the relevant portions of the amount by the relevant instalment dates; and
+    (i) on an amount of residual income tax payable for the affected tax year; and
+    (ii) that begins to accrue before the taxpayer’s terminal tax date for the affected tax year; and
+  (d) the taxpayer’s ability to make a reasonably accurate forecast, on 1 or more provisional tax instalment dates for the affected tax year, of their residual income tax for the affected tax year was significantly adversely affected by COVID-19 and, as a consequence, the taxpayer failed to pay the relevant portions of the amount by the relevant instalment dates; and
   (e) the requirement to pay the amount does not arise from an election under section IZ 8 of the Income Tax Act 2007 by the taxpayer, or by a company in the same group of companies as the taxpayer.
-(2) The taxpayer may ask the Commissioner to remit interest accrued between 31 March 2020 and the taxpayer’s terminal tax date for the 2020–21 tax year, both dates inclusive (the interest), on the amount.
+(2) The taxpayer may ask the Commissioner to remit interest accrued between the 31 March before the affected tax year and the taxpayer’s terminal tax date for the affected tax year, both dates inclusive (the interest), on the amount.
 (3) The Commissioner may remit the interest if the Commissioner is satisfied that the taxpayer—
   (a) asked for the relief as soon as practicable; and
-  (b) has paid their terminal tax for the 2020–21 tax year.
+  (b) has paid their residual income tax for the affected tax year.
 (4) This section does not limit section 183ABAB.
 
 ### 183AB Cancellation of late payment penalties imposed before 1 April 2002
@@ -9413,29 +9522,15 @@ The information in section 185I(1)﻿(a) and (b) must be provided to the New Zea
 (1) The Governor-General may from time to time, by Order in Council, make regulations, not inconsistent with this Act or the Income Tax Act 2007 or Goods and Services Tax Act 1985, for all or any of the following purposes:
   (a) prescribing the form of returns to be made, the particulars to be set forth in those returns, the persons by whom and the time when or within which those returns are to be made, and the forms of the assessments, notices, and other documents referred to in this Act or the Income Tax Act 2007 or Goods and Services Tax Act 1985 or necessary in order to give effect to them:
   (b) prescribing the procedure to be followed in applying for a determination and making any provision which may be desirable in relation to the issuing or the publication of the determination or to enable the Commissioner to set fees for dealing with applications for determinations:
-  (c) providing for the appointment and prescribing the powers and procedure of 1 or more co-operative marketing company appeal authorities, any such authority to consist of not less than 2 members, one of whom shall be an officer of the responsible Ministry:
-  (d) conferring such rights of objection or challenge and rights of appeal to any such appeal authority from decisions made by the Commissioner under regulations made under section 225AA or Goods and Services Tax Act 1985 as may be deemed necessary or desirable:
+  (c)
+  (d)
   (e) providing, where there is no provision in this Act or the Income Tax Act 2007 or Goods and Services Tax Act 1985, or no sufficient provision, in respect of any matter or thing necessary to give effect to this Act or the Income Tax Act 2007 or Goods and Services Tax Act 1985, in what manner and form the deficiency shall be supplied:
   (f) making any provision which may be convenient for the administration of this Act or the Income Tax Act 2007 or Goods and Services Tax Act 1985 or which may be desirable or necessary in order to carry their objects into full effect.
-(2) Regulations made under subsection (1)﻿(c) and (d) may make different provision, and provide for different appeal authorities, in respect of different classes of co-operative marketing companies.
+(2)
 (3) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 225AA Regulations: co-operative dairy and marketing companies
-(1) The Governor-General may from time to time, by Order in Council, make regulations for the type of company described in subsection (2) for the purposes described in subsection (3).
-(2) The type of company to which this section applies is a company that—
-  (a) is one of the following:
-    (i) a co-operative dairy company:
-    (ii) a co-operative milk marketing company, as defined in section 2 of the Co-operative Companies Act 1956:
-    (iii) a co-operative pig marketing company, as defined in section 2 of the Co-operative Companies Act 1956; and
-  (b) is registered under Part 2 or Part 3 of the Co-operative Companies Act 1996; and
-  (c) was in existence at the start of the 1988–89 income year; and
-  (d) was a company to which any of sections 201 to 203 of the Income Tax Act 1976, in force at the time, applied at the time.
-(3) The purposes for which the regulations can be made are—
-  (a) authorising the Commissioner to classify as income, other than as a dividend, of a shareholder of the company some or all of an amount paid to the shareholder on the surrender of a share in the company, or for a share on the liquidation of the company, that is more than the available subscribed capital per share, calculated under the slice rule, of the share:
-  (b) authorising the Commissioner to allocate the income to an income year or income years as the Commissioner thinks fit:
-  (c) conferring on the Commissioner a discretionary power necessary for the purposes of the regulations.
-(4) The regulations made may apply different rules in relation to different classes of companies.
-(5) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+[Repealed]
 
 ### 225A Power to make interim payments of WFF tax credit
 (1) The Governor-General may from time to time, by Order in Council—
@@ -10041,24 +10136,14 @@ Section 18 does not prevent the Commissioner disclosing to a government agency o
 
 ### 23B Government agencies: COVID-19 response purposes
 (1) Section 18 does not prevent the Commissioner disclosing to a government agency information about a person or entity for the purpose of enabling the government agency to provide or fulfil any duty, obligation, or other thing in relation to any person or entity in connection with COVID-19 (including, without limitation, for the purpose of enabling the government agency to carry out an audit, review, or other enforcement function in relation to COVID-19-related assistance provided to any person or entity).
-(2) Despite subclause (1), the Commissioner may disclose the information only if—
-  (a) the Commissioner considers that—
-    (i) the information is readily available; and
-    (ii) it is reasonable and practicable to disclose the information; and
-    (iii) it is not undesirable to disclose the information; and
-    (iv) the information is reasonably necessary for the purpose referred to in subclause (1); and
-  (b) no more than 24 months and 15 days have passed since the date on which this clause comes into force.
-(3) The time limit imposed by subclause (2)﻿(b) may be extended by Order in Council made—
-  (a) on the recommendation of the Minister of Revenue; and
-  (b) within 24 months of the date on which this clause comes into force.
-(4) An Order in Council (the order) made under subclause (3) or this subclause—
-  (a) expires, if not renewed under paragraph (b), after—
-    (i) the period given in the order, if such a period is given; or
-    (ii) if no such period is given, 6 months after the order comes into force:
-  (b) may be renewed or replaced from time to time by an Order in Council made—
-    (i) on the recommendation of the Minister of Revenue; and
-    (ii) before the date on which the order would otherwise expire.
-(5) An Order in Council under subclause (3) or (4) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+(2) Despite subclause (1), the Commissioner may disclose the information only if the Commissioner considers that—
+  (a) the information is readily available; and
+  (b) it is reasonable and practicable to disclose the information; and
+  (c) it is not undesirable to disclose the information; and
+  (d) the information is reasonably necessary for the purpose referred to in subclause (1).
+(3)
+(4)
+(5)
 (6) In this clause, government agency means—
   (a) a department named in Part 1 of Schedule 2 of the Public Service Act 2020:
   (b) the New Zealand Police:
@@ -10447,13 +10532,13 @@ Subject to clause 2, the Commissioner must write off the following amounts under
 ### 2 Exclusions
 (1) An amount of tax does not qualify for a write off under clause 1(b) and (c) if the amount is derived by an individual who has been assessed in the tax year as receiving an entitlement and a tax credit under the family scheme under subparts MA to MG and MZ of the Income Tax Act 2007.
 (2) An amount of tax does not qualify for a write off under clause 1(c) if, for the tax year and an amount of income referred to in subclause (3),—
-  (a) the Commissioner has recommended for the individual, and the individual has consented to, a change of tax code under section 24DB or change of tax rate under section 25A giving the individual a higher tax code or higher RWT rate:
+  (a) the Commissioner has recommended for the individual, and the individual has consented to, a change of tax code under section 24DB or change of tax rate under section 26B giving the individual a higher tax code or higher RWT rate:
   (b) the individual has used a tailored tax code under schedule 5, part A in relation to the income.
 (3) For the purposes of subclause (2), the income is—
   (a) an amount of income for which the obligations of the individual under the PAYE rules are not met:
   (b) an amount of investment income from which RWT is withheld at a rate that is lower than the correct rate:
   (c) an amount from which tax is withheld at a rate that is lower than the correct rate when the amount of income is—
-    (i) schedular income:
+    (i) a schedular payment:
     (ii) income from employment that is an extra pay:
     (iii) income from employment that is secondary employment earnings:
   (d) an amount derived by an individual whose annual gross income is more than $48,000 when the amount of income is—
