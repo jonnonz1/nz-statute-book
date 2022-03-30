@@ -1,5 +1,5 @@
 # Child Support Act 1991
-_Consolidation as at 2021-11-01_
+_Consolidation as at 2022-03-30_
 
 > Title
 
@@ -1008,16 +1008,23 @@ In making an assessment of child support or domestic maintenance payable in rela
 (2) Where the person supplies an estimate under subsection (1)﻿(b)﻿(iii), that person will be deemed to have made an election in terms of section 40.
 (3)
 
-### 81A Amendments of assessments arising from living circumstances existing at time initial assessment made
+### 81A Amendments of assessments arising from living circumstances existing at time when assessment begins
 (1) This section applies if—
-  (a) the Commissioner made an assessment on the basis that certain living circumstances existed at the time of assessment; and
-  (b) the recipient of the assessment advises the Commissioner that the circumstances did not exist at the time of assessment; and
+  (a) the Commissioner made an assessment on the basis that certain living circumstances existed at the time when the assessment begins; and
+  (b) the recipient of the assessment advises the Commissioner—
+    (i) that those circumstances did not exist at that time; and
+    (ii) of the relevant living circumstances that did exist at that time; and
   (c) section 82 does not apply.
 (2) The Commissioner may backdate any amendment made under section 87 to the time when the assessment begins if the recipient of the assessment advises the Commissioner within the period of 28 days beginning with the date of the notice of assessment.
 (3) The Commissioner may also backdate any amendment made under section 87 to the time when the assessment begins if the recipient of the assessment—
   (a) is a liable parent, and the backdating has the effect of increasing the amount of the parent’s child support liability:
   (b) is a receiving carer, and the backdating has the effect of decreasing the amount of child support payable in respect of that carer.
-(4) Otherwise, an amendment of the assessment under section 87 is effective only from the date on which the recipient advises the Commissioner.
+(4) However, the Commissioner may only backdate any amendment made under section 87 to the time when the assessment begins if—
+  (a) the recipient has provided to the Commissioner such supporting documentation as the Commissioner requires; and
+  (b) the Commissioner is satisfied that—
+    (i) the assessment was made on the basis that certain living circumstances existed at the time when the assessment begins that did not in fact exist at that time; and
+    (ii) the relevant living circumstances advised by the recipient did exist at that time.
+(5) Otherwise, an amendment of the assessment under section 87 is effective only from the date on which the recipient advises the Commissioner.
 
 ### 82 Parents and receiving carers to advise Commissioner of changes
 (1) For the purpose of enabling the Commissioner to make or amend a calculation of child support payable in respect of a child in any child support year under a formula assessment, every parent and every receiving carer of the child must advise the Commissioner of any change in the parent's or carer's living circumstances occurring during the child support year that affects, or may affect, any of the following:
@@ -1085,7 +1092,7 @@ In assessing the annual rate at which child support or domestic maintenance is p
 
 ### 87A Four-year time bar for amendment of certain assessments
 (1) Despite section 87, the Commissioner may amend an assessment only—
-  (a) before the expiry of the fourth child support year after the end of the child support year in which the assessment was given; or
+  (a) before the expiry of the fourth child support year after the end of the child support year to which the assessment relates; or
   (b) as a result of information or an application that was received by the Commissioner before the expiry of that fourth child support year; or
   (c) if an exception in subsection (2) or (3) applies.
 (2) An exception applies if—
@@ -1095,10 +1102,11 @@ In assessing the annual rate at which child support or domestic maintenance is p
 (3) An exception also applies if—
   (a) a liable person, child, or payee to whom the assessment relates has died; or
   (b) a person is not a parent of the child; or
-  (c) reassessment is necessary to avoid double liability of a liable person who has paid financial support in an overseas jurisdiction in respect of the same child or payee and period; or
+  (c) reassessment is necessary to avoid double liability of a liable person who has paid, or is liable to pay, financial support in an overseas jurisdiction in respect of the same child or payee and period; or
   (d) a court order is received that applies to an earlier period; or
   (e) a new assessment is made in relation to a qualifying child (for example, because a paternity order is provided) and it results in a reassessment of an existing child support assessment in relation to another qualifying child or children; or
-  (f) the Commissioner did not meet the requirements of section 88 (which relates to notice of assessment) or section 89 (which relates to notification).
+  (f) the Commissioner did not meet the requirements of section 88 (which relates to notice of assessment) or section 89 (which relates to notification); or
+  (g) the Commissioner has made a determination under Part 6A in relation to an application under section 96B to which the 4-month time limit in section 96BA applies.
 (4) This section does not otherwise restrict rights in respect of review, objection, or appeal under other Parts of this Act.
 
 ### 88 Notice of assessment of formula assessment of child support
@@ -1111,7 +1119,7 @@ In assessing the annual rate at which child support or domestic maintenance is p
 (2) As a minimum, the notice of assessment must set out, in relation to each qualifying child to whom the notice relates, the matters identified in section 88A so far as they are relevant to the assessment as it applies in respect of the child.
 (2A) However, in no case may a notice of assessment reveal any more detail about another person who is a parent or carer than the person’s name (subject to subsection (5)) and, in relation to a qualifying child, the person’s proportion of care and care cost percentage.
 (3) Without limiting subsection (2), the notice of assessment must contain sufficient information to enable the recipient to exercise his or her rights to object under section 90 or 91.
-(3A) Any notice of assessment to which section 81A(2) could apply must specifically draw the attention of the recipient to the 28-day time limit for advising the Commissioner of any living circumstances that existed at the time when the assessment was made but that appear not to have been taken into account by the Commissioner.
+(3A) Any notice of assessment to which section 81A(2) could apply must specifically draw the attention of the recipient to the 28-day time limit for advising the Commissioner of any living circumstances that existed at the time when the assessment begins but that appear not to have been taken into account by the Commissioner.
 (4) The notice must also include, or be accompanied by, statements that specifically draw to the attention of the recipient the recipient's right to—
   (a) object under section 90 or 91 if he or she is aggrieved by any of the particulars of the assessment; and
   (b) apply to the Commissioner under Part 6A; and
@@ -1308,7 +1316,9 @@ In this Part, unless the context otherwise requires,—
     (ii) the relevant period of imprisonment ends (in the case of an application for an exemption under section 89D); or
     (iii) the expiry of 3 months after the day on which the person turns 16 (in the case of an application for an exemption under section 89E); and
   (c) specify the person's estimate of his or her weekly and total income for the periods specified on the form; and
-  (ca) in the case of an application for an exemption under section 89CA, include evidence, as reasonably required by the Commissioner, to satisfy the Commissioner that the applicant has a long-term period of illness during the period to which the application relates; and
+  (ca) in the case of an application for an exemption under section 89CA, include evidence, as reasonably required by the Commissioner, to satisfy the Commissioner that, during the period to which the application relates, the applicant—
+    (i) has a long-term period of illness; and
+    (ii) is unable to engage in paid work as a result of the long-term period of illness; and
   (d) include the information that the approved form requires to be included.
 (2) An application for an exemption under—
   (a) section 89C may be made in relation to the whole of the long-term period of hospitalisation or 1 or more parts of that whole period:
@@ -2697,7 +2707,7 @@ In any case where—
 (3) Any refund made under this section must be paid out of a Crown Bank Account without further appropriation than this section.
 
 ### 152B Offsetting child support payments
-(1) This section applies if 2 persons are each liable to pay in respect of the other an amount of child support under a formula assessment (whether or not those amounts have become due and payable).
+(1) This section applies if 2 persons are each liable to pay in respect of the other an amount of child support under a formula assessment or a voluntary agreement (whether or not those amounts have become due and payable).
 (1A) The Commissioner may at any time offset one amount against the other if the Commissioner is satisfied that it would be just and equitable to do so.
 (2) However, the Commissioner cannot exercise this power in respect of any amount in respect of a period if during that period the other parent is expected to be a social security beneficiary (as defined in section 2(1)).
 (3) Subsection (4) applies if—
@@ -2943,8 +2953,10 @@ The Commissioner may write off some or all of an amount of child support debt th
 
 ### 180D Sections 180B and 180C to cover child support penalties
 In sections 180B and 180C, child support debt includes the following:
-  (a) an initial late payment penalty (as defined in section 135) imposed in relation to child support:
-  (b) an incremental penalty (as defined in section 135) imposed in relation to child support:
+  (a)
+  (b)
+  (ba) a penalty (as defined in section 135) imposed in relation to child support:
+  (bb) a pre-2021 penalty (as defined in section 135) imposed in relation to child support:
   (c) a penalty imposed under section 45 as in force before 1 April 2015 (including as applied on and after that date by clauses 1A and 2A of Schedule 1).
 
 ### 181 Application of tax overpayments
@@ -3892,11 +3904,10 @@ The amendments made by sections 43, 44, 50, and 51 of the Taxation (Annual Rates
 In this Part,—
   - **2021 Amendment Act** means the Child Support Amendment Act 2021
   - **commencement** , in relation to any provision of the 2021 Amendment Act, means the commencement of that provision
-  - **old** , in relation to a provision, means the provision as if the amendments made to the provision by the 2021 Amendment Act had not been made
-  - **old Act** means the Child Support Act 1991 as if the amendments made by the 2021 Amendment Act had not been made.
+  - **old** , in relation to a provision, means the provision as if the amendments made to the provision by the 2021 Amendment Act had not been made.
 
 ### 14 2021 Amendment Act does not have retrospective effect
-Except as provided in this Part and in section 2(2) of the 2021 Amendment Act, the old Act continues to apply in relation to financial support in respect of a child support year ending before 1 April 2021.
+[Repealed]
 
 ### 15 Amendments to section 5 (Children who qualify for child support)
 (1) The amendment to section 5(1) (financial independence qualification) made by section 5(1) of the 2021 Amendment Act applies only to a child who turns 16 on or after commencement of section 5(1) of the 2021 Amendment Act.
@@ -3907,6 +3918,10 @@ Except as provided in this Part and in section 2(2) of the 2021 Amendment Act, t
 ### 16 Amendment to section 19 (When liability to pay child support starts)
 (1) The amendment to section 19 made by section 6 of the 2021 Amendment Act applies only to applications for formula assessment of child support that are received by the Commissioner on or after commencement of section 6 of the 2021 Amendment Act.
 (2) The old section 19 continues to apply if the application was made before commencement of section 6 of the 2021 Amendment Act.
+
+### 16A Amendment to section 44 (End-of-year reconciliation)
+(1) The amendment to section 44 made by section 16 of the 2021 Amendment Act applies only in relation to child support in respect of child support years ending after commencement of section 16 of the 2021 Amendment Act.
+(2) The old section 44 continues to apply in relation to child support in respect of child support years ending before commencement of section 16 of the 2021 Amendment Act.
 
 ### 17 Insertion of section 81A (Amendments of assessments arising from living circumstances existing at time initial assessment made)
 Section 81A (as inserted by section 18 of the 2021 Amendment Act) applies on or after commencement, including if the assessment was made before commencement of section 18 of the 2021 Amendment Act.
@@ -3932,6 +3947,27 @@ The amendment to section 152B made by section 55 of the 2021 Amendment Act appli
 
 ### 23 Amendments to section 134 (Penalties for late payment of financial support debts)
 The amendments to section 134 made by section 8(2) and (4) of the Taxation (Budget 2021 and Remedial Measures) Act 2021 apply to a financial support debt if the expiry of the seventh day after the due date falls on or after commencement of section 8(2) and (4) of that Act, but do not apply to a financial support debt if the expiry of the seventh day after the due date falls before commencement of those provisions.
+
+### Part 6 — Provisions relating to Taxation (Annual Rates for 2021–22, GST, and Remedial Matters) Act 2022
+
+### 24 Interpretation in this Part
+In this Part,—
+  - **2022 Act** means the Taxation (Annual Rates for 2021–22, GST, and Remedial Matters) Act 2022
+  - **commencement** , in relation to any provision of the 2022 Act, means the commencement of that provision
+  - **old** , in relation to a provision, means the provision as if the amendments made to the provision by the Child Support Amendment Act 2021 and the 2022 Act had not been made.
+
+### 25 Amendment to section 44 (End-of-year reconciliation)
+(1) The amendment to section 44 made by section 236 of the 2022 Act applies only in relation to child support in respect of child support years ending after commencement of section 236 of the 2022 Act.
+(2) The old section 44 continues to apply in relation to child support in respect of child support years ending before commencement of section 236 of the 2022 Act.
+
+### 26 Replacement of section 81A (Amendments of assessments arising from living circumstances existing at time when assessment begins)
+Section 81A (as replaced by section 237 of the 2022 Act) applies on and after commencement, including if the assessment begins, was made, or both, before commencement of section 237 of the 2022 Act.
+
+### 27 Amendments to section 87A (Four-year time bar for amendment of certain assessments)
+The amendments to section 87A made by section 238 of the 2022 Act apply in respect of all child support years, whether ending before commencement or on or after commencement of section 238 of the 2022 Act.
+
+### 28 Amendment to section 152B (Offsetting child support payments)
+The amendment to section 152B made by section 241 of the 2022 Act applies to all child support years, regardless of the period in which the liability to pay financial support arose or when an amount of financial support became due and payable.
 
 ## Schedule 2 — Care cost percentage
 
