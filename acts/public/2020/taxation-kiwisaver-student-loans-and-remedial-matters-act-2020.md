@@ -1,5 +1,5 @@
 # Taxation (KiwiSaver, Student Loans, and Remedial Matters) Act 2020
-_Consolidation as at 2020-03-25_
+_Consolidation as at 2022-03-30_
 
 ### 1 Title
 This Act is the Taxation (KiwiSaver, Student Loans, and Remedial Matters) Act 2020.
@@ -41,7 +41,7 @@ This Act is the Taxation (KiwiSaver, Student Loans, and Remedial Matters) Act 20
 (34) Section 274 comes into force on 31 March 2020.
 (35) Sections 4(1), (2), and (4), 5, 6, 7, 8, 9, 10(1), 11(1), 12, 13(2) and (3), 14, 15, 16, 17, 18, 19, 20(2), 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 83, 103, 141(2), 147, 148, 150, 151, 152, 156, 161, 163(2), (3), (4), (5), and (6), 165, 167, 170(1) and (3), 172, 173, 175, 176, 178, 180, 181, 183, 185(3), (6), (9), (10), (14), (15), (17), (18), (19), (21), and (24), 188, 192(3), 195, 196, 197(1), (2), (3), (4), and (6), 199 to 202, 203, 206, 207, 208, 209, 220(2), 224(2) and (5), 228, 233, 238, and 271 come into force on 1 April 2020.
 (36) Sections 10(2), 11(2), and 20(1) come into force on 1 April 2022 or on an earlier date set by Order in Council.
-(37) Sections 235 and 239(3) come into force on a date to be set by Order in Council.
+(37)
 
 ## Part 1 — Amendments to KiwiSaver Act 2006
 
@@ -1630,7 +1630,7 @@ Repeal section 141JA.
   (h) in relation to an underlying supplier, of a supply of distantly taxable goods or remote services by a marketplace, knowingly provides altered, false, or misleading information relating to the country or territory in which the underlying supplier is resident.
 
 ### 235 Section 143D amended (Offences related to disclosure of certain information by persons other than revenue officers)
-In section 143D(1)﻿(a)﻿(i), replace part A, clauses 7, 10, with part A, clauses 10,.
+[Repealed]
 
 ### 236 Section 173L amended (Transfer of excess tax within taxpayer’s accounts)
 (1) In section 173L(2B)﻿(a)﻿(i), delete after the date.
@@ -1657,7 +1657,7 @@ In schedule 4, table 1, row 5, after item e, insert:This table is an amendment t
     (c) the information—
       (i) is relevant to a decision of the Commissioner disallowing the person’s approval as a representative or refusing to approve the person as a representative:
       (ii) in the Commissioner’s opinion, is or would be relevant to a decision referred to in subparagraph (i).
-(3) Repeal schedule 7, part A, clause 7.
+(3)
 (4) In schedule 7, part C, subpart 1, replace clauses 38 and 39 with:Agencies for research and developmentAgencies for Australian wine producer rebate
   (1) Section 18 does not prevent the Commissioner communicating to an officer, employee, or agent of the Treasury (as defined in section 2 of the Public Finance Act 1989), of Callaghan Innovation, of the Ministry of Business, Innovation and Employment, or of a state sector entity responsible for any function related to research and development advice or incentives, information reasonably necessary for that person to perform their work in relation to evaluating (in accordance with section LY 10 of the Income Tax Act 2007), administering, statistical reporting on, and policy formation for, tax credits provided in subparts LY and MX of that Act.
   (2) Section 18 does not prevent the Commissioner communicating to an officer, employee, or agent of Callaghan Innovation or of the Ministry of Business, Innovation and Employment, information reasonably necessary for that person to perform their work in relation to offering research and development advice and incentives.
