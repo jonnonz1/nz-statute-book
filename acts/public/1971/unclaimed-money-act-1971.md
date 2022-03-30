@@ -1,5 +1,5 @@
 # Unclaimed Money Act 1971
-_Consolidation as at 2021-03-30_
+_Consolidation as at 2022-03-30_
 
 > An Act to consolidate and amend certain enactments of the Parliament of New Zealand relating to unclaimed money
 
@@ -111,9 +111,9 @@ Subject to this Act, there shall be payable to the Crown all money which becomes
 (5) The period (the reporting period) for a holder within which the holder is required to comply with subsection (1) for an amount of unclaimed money is—
   (a) a quarter, except if paragraph (b) or (c) applies; or
   (b) a period consisting of 2 consecutive quarters and starting and ending on calendar dates approved by the Commissioner, if the Commissioner approves the use of a 6-monthly reporting period by the holder and paragraph (c) does not apply; or
-  (c) for a period that is the first reporting period of the holder ending after the date on which this Act receives the Royal assent, and for which the Commissioner approves a different length from that of the later reporting periods, the period that ends on a date that is —
+  (c) for a period that is the first reporting period of the holder ending after 30 March 2021, and for which the Commissioner approves a different length from that of the later reporting periods, the period that ends on a date that is —
     (i) approved by the Commissioner; and
-    (ii) less than 2 years after the date on which the Taxation (Annual Rates for 2020–21, Feasibility Expenditure, and Remedial Matters) Act 2021 receives the Royal assent; and
+    (ii) less than 2 years after 30 March 2021; and
     (iii) consistent with the later reporting periods under paragraph (a) or (b) for the holder.
 
 ### 9 Special arrangements may be made by Commissioner
