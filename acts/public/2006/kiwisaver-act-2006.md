@@ -1,5 +1,5 @@
 # KiwiSaver Act 2006
-_Consolidation as at 2021-12-08_
+_Consolidation as at 2022-03-30_
 
 ### 1 Title
 This Act is the KiwiSaver Act 2006.
@@ -21,6 +21,7 @@ This Act is the KiwiSaver Act 2006.
     (a) the person’s last known street address or post office box number:
     (b) the person’s last known electronic address, if the person consents to notices under this Act being given to the person’s electronic address
   - **administration manager** has the same meaning as in section 6(1) of the Financial Markets Conduct Act 2013
+  - **assessment** has the same meaning as in section 3(1) of the Tax Administration Act 1994
   - **Australian complying superannuation scheme** means—
     (a) an entity that is a complying superannuation fund for the purposes of Part 5, Division 2 of the Superannuation Industry (Supervision) Act 1993 (Aust) and that is regulated by the Australian Prudential Regulation Authority:
     (b) the Australian Commissioner of Tax (ACT), in the ACT’s capacity under the Superannuation (Unclaimed Money and Lost Members) Act 1999 (Aust)
@@ -58,6 +59,7 @@ This Act is the KiwiSaver Act 2006.
   - **employer contribution** —
     (a) means an employer’s superannuation contribution made by an employer for an employee’s KiwiSaver scheme or complying superannuation fund; and
     (b) includes a compulsory employer contribution under subpart 3A of Part 3; and
+    (bb) if the employer knows that the employee has opted out, does not include an amount that would otherwise be an employer contribution; and
     (c) does not include an amount that does not count as a contribution under section 68(2)
   - **employer contributor** , in relation to a KiwiSaver scheme, means an employer who—
     (a) contributes in respect of some or all of the employees of the employer who are members of the scheme; or
@@ -669,17 +671,18 @@ This subpart applies when, because of a mistake,—
   (b) the automatic enrolment rules have been applied to a person who, at the time, does not meet the requirements of—
     (i) 1 or more of section 10(a), (b), and (c)﻿(ii):
     (ii) section 10(c)﻿(i):
+  (bb) the rule in section 33 allowing opt-in has been applied prior to 1 July 2019 to a person who, at the time, did not meet the requirements of section 33(a):
   (c)
   (d) the rule in section 34 allowing opt-in has been applied to a person who, at the time, does not meet the requirements of section 10(c)﻿(i).
 
 ### 59B Initial back-dated validation
 (1) As soon as practicable after anyone discovers the mistake, they must notify the Commissioner or the relevant KiwiSaver scheme provider.
-(2) The person described in section 59A is treated as a person who meets the requirements of section 6, the requirements for the application of the automatic enrolment rules, or the age requirement for the application of the opt-in rule in section 34, for a period—
+(2) The person described in section 59A is treated as a person who meets the requirements of section 6, the requirements for the application of the automatic enrolment rules, the age requirement for the application of the opt-in rule in section 33, or the age requirement for the application of the opt-in rule in section 34, for a period—
   (a) starting on the earliest day on which this Act applies, the automatic enrolment rules, or the rule allowing opt-in were applied to the person because of the mistake described in section 59A; and
   (ab) for a person referred to in section 59A(a), ending on the earlier of—
     (i) the day the mistake is discovered by the person’s KiwiSaver scheme provider:
     (ii) the day the mistake is notified to the provider by the Commissioner or another person; and
-  (b) for a person referred to in section 59A(b)﻿(i), and (d), ending on the earlier of—
+  (b) for a person referred to in section 59A(b)﻿(i), (bb), and (d), ending on the earlier of—
     (i) the 92nd day after the mistake is discovered by the person’s KiwiSaver scheme provider:
     (ii) the 92nd day after the mistake is notified to the provider by the Commissioner or another person:
     (iii) the day the provider pays the amount of the member's accumulation, less the amount that was transferred from an Australian complying superannuation scheme for the person to the Commissioner; and
@@ -689,13 +692,14 @@ This subpart applies when, because of a mistake,—
 
 ### 59C Confirmed back-dated validation
 (1) This section applies if,—
-  (a) during the period of initial back-dated validation under section 59B, the person described in section 59A is a person to whom the automatic enrolment rules were applied because of the mistake described in section 59A(b)﻿(i), and—
-    (i) they are less than the New Zealand superannuation qualification age; and
+  (a) during the period of initial back-dated validation under section 59B, the person described in section 59A is a person to whom the automatic enrolment rules were applied because of the mistake described in section 59A(b)﻿(i), or the opt-in rule in section 33 was applied to a person because of the mistake described in section 59A(bb), and—
+    (i)
     (ii) they do not opt out; and
   (b) the person described in section 59A is not a person to whom this Act has been applied because of a mistake described in section 59A(a).
 (2) The person is treated as a person—
   (a) in relation to whom no mistake described in section 59A(b)﻿(i) was made; and
-  (b) who, at the time, met the requirements of the automatic enrolment rules described in section 59A(b)﻿(i).
+  (b) who, at the time, met the requirements of the automatic enrolment rules described in section 59A(b)﻿(i); and
+  (c) in relation to whom no mistake described in section 59A(bb) was made.
 (3) The Commissioner must notify the provider that this section applies.
 (4) The relevant provider does not pay the member’s accumulation for the person to the Commissioner.
 
@@ -726,7 +730,7 @@ This subpart applies when, because of a mistake,—
 ### 59D No confirmed backdated validation
 (1) This section applies when—
   (aa) in relation to a person described in section 59A(a), the period described in section 59B(2)﻿(a) and (ab) has ended:
-  (a) in relation to a person to whom the automatic enrolment rules were applied because of the mistake described in section 59A(b)﻿(i), confirmed backdated validation under section 59C does not occur in the period of initial back-dated validation under section 59B:
+  (a) in relation to a person to whom the automatic enrolment rules were applied because of the mistake described in section 59A(b)﻿(i), or the opt-in rule in section 33 was applied to a person because of the mistake described in section 59A(bb), confirmed backdated validation under section 59C does not occur in the period of initial back-dated validation under section 59B:
   (b) in relation to a person described in section 59CB(1), the person opts out under section 59CB(3).
 (2) The relevant provider must immediately—
   (a) provide the Commissioner with a notice stating, for the relevant person,—
@@ -886,6 +890,7 @@ Any amount that is held by the Commissioner under section 70(2) is treated, for 
   (c) the Commissioner is satisfied,—
     (i) for an amount included in the information as a deduction, has been deducted from salary or wages under subpart 1:
     (ii) for an amount included in the information as an employer contribution, that the employer to whom the information relates has sufficient funds available, at the time at which that employer makes the payment of salary or wages to which the contribution relates, to be able to pay to the Commissioner.
+(1B) For the purposes of subsection (1)﻿(a)﻿(ii), an amount of an employer contribution for an employee includes a contribution payable on or before 31 March 2020 that remains unpaid on 1 April 2020 in relation to which the relevant information referred to in subsection (1)﻿(b) and (c) has been provided to the Commissioner.
 (2) As soon as practicable after receiving employment income information in relation to an amount described in subsection (1), the Commissioner must enter the amount in the holding account in respect of the person, as applicable,—
   (a) from whose salary or wages the deduction was made; or
   (b) whom the employer contribution is for.
@@ -925,6 +930,7 @@ Any amount that is held by the Commissioner under section 70(2) is treated, for 
 (2) The Commissioner must pay the amount out of a Crown Bank Account, without further authority than this section.
 (3) The amount is treated, for the purposes of section 73, as having been received by the Commissioner,—
   (a) for employment income information received by the Commissioner that includes the date of the payday for the payment of salary or wages to which the deduction or employer contribution relates, on that date; or
+  (ab) for an employer contribution referred to in section 73(1B), on 1 April 2020; or
   (b) otherwise, on the 15th day of the month in which the payment of salary or wages to which the deduction or employer contribution relates was made.
 
 ### 79 Information that Commissioner must supply to providers when paying contributions
@@ -936,6 +942,7 @@ The Commissioner must supply, to the provider of a KiwiSaver scheme to which the
   (b) the contribution is in excess of the amount that this Act requires to be deducted and the contribution is in the possession of the Commissioner; or
   (c) the person has opted out and the contribution was deducted from salary or wages but was not refunded to the person or paid to the Commissioner.
 (2) However, if a request is made under section 173L of the Tax Administration Act 1994, the Commissioner may apply any amount of that contribution in accordance with that request.
+(3) This section is subject to section 91B.
 
 ### 81 Refund by provider of amounts paid in excess of required amount of contribution or if member opts out
 (1) A provider must refund to the Commissioner any amount of contribution paid to the provider by the Commissioner in respect of a member of that provider’s KiwiSaver scheme if—
@@ -943,9 +950,11 @@ The Commissioner must supply, to the provider of a KiwiSaver scheme to which the
   (b) the contribution is in excess of the amount that is required to be paid to the provider under the KiwiSaver scheme and this Act.
 (2) The Commissioner must refund or give credit for any amount refunded under subsection (1) in the manner that the Commissioner thinks fit.
 (3) However, if a request is made under section 173L of the Tax Administration Act 1994, the Commissioner may apply any amount of that contribution in accordance with that request.
+(4) This section is subject to section 91B.
 
 ### 81B Residual refunds
-If the Commissioner can not process an amount held in the holding account in accordance with this Act, or the amount is in excess of what this Act or a Revenue Act requires to be in the holding account, then the Commissioner may refund the amount to the person that the Commissioner considers has the best claim to it.
+(1) If the Commissioner can not process an amount held in the holding account in accordance with this Act, or the amount is in excess of what this Act or a Revenue Act requires to be in the holding account, then the Commissioner may refund the amount to the person that the Commissioner considers has the best claim to it.
+(2) This section is subject to section 91B.
 
 ### 82 Trustee investment rules do not apply to contributions in holding account
 Sections 30, 58, 59, 128, and 129 of the Trusts Act 2019 do not apply to the Commissioner in respect of money in the holding account.
@@ -959,7 +968,7 @@ Sections 30, 58, 59, 128, and 129 of the Trusts Act 2019 do not apply to the Com
   (a) as if the Commissioner is the holder of the money for the purposes of the Unclaimed Money Act 1971; and
   (ab) for money relating to an employer deduction or employer contribution to which subsection (1)﻿(b) applies, as if the date on which the Commissioner becomes the holder is the last day of the month to which the employment income information for the money relates; and
   (b) as if the money must be processed in accordance with this Act, and not paid to the owner, if a valid claim is made to the money; and
-  (c) as if the money would not cease to be unclaimed money under section 4(2)﻿(e) of the Unclaimed Money Act 1971 (which sets a $100 cap); and
+  (c) as if the words “more than $100” in the words before the subparagraphs in section 4(3)﻿(a) of the Unclaimed Money Act 1971 were replaced with the words “1 cent or more”; and
   (d) with other necessary modifications.
 (4) If the Commissioner enters into a special arrangement under section 9 of that Act, the Minister who, under the authority of any warrant or with the authority of the Prime Minister, is responsible for the administration of the Unclaimed Money Act 1971 must carry out, after consultation with the Minister of Finance, the responsibilities that would otherwise have been carried out by the Commissioner under that Act.
 
@@ -971,16 +980,11 @@ Sections 30, 58, 59, 128, and 129 of the Trusts Act 2019 do not apply to the Com
 (3) Despite subsection (1), the Commissioner is not liable to pay interest on any amount described in that subsection, if the relevant person has notified the Commissioner in writing of their wish to not be paid interest.
 
 ### 85 Time when deductions and employer contributions treated as received for interest purposes
-(1) This section applies to any amount that—
-  (a) is included in employment income information provided under section RD 22 of the Income Tax Act 2007 as—
-    (i) a deduction made from an employee’s salary or wages under subpart 1; or
-    (ii) an employer contribution for an employee; and
-  (b) the Commissioner is satisfied,—
-    (i) for an amount included in the information as a deduction, has been deducted from salary or wages under subpart 1:
-    (ii) for an amount included in the information as an employer contribution, that the employer to whom the information relates has sufficient funds available, at the time at which that employer makes the payment of salary or wages to which the contribution relates, to be able to pay to the Commissioner.
-(2) The amount is treated, for the purpose of the payment of interest, as received by the Commissioner, as applicable,—
+(1)
+(2) An amount referred to in section 73(1) is treated, for the purpose of the payment of interest, as received by the Commissioner, as applicable,—
   (a) for employment income information that includes the date of the payday on which the deduction was made, on that date if the Commissioner is satisfied that the deduction has been made on that date; or
   (b) for employment income information that includes the date of the payday for the payment of salary or wages to which the employer contribution relates, on that date; or
+  (bb) for an employer contribution referred to in section 73(1B), on 1 April 2020; or
   (c) otherwise, on the 15th day of the month in which the payment of salary or wages to which the deduction or employer contribution relates was made.
 
 ### 86 Interest rate
@@ -1010,6 +1014,24 @@ Interest that is payable under section 84 on an amount of contribution that is o
 
 ### 91 Overpaid interest
 Interest overpaid by the Commissioner under sections 84 to 90 may be recovered in the same manner as income tax that is payable under the Income Tax Act 2007.
+
+**Time bar for refunding contributions**
+
+### 91B Time bar for refunding contributions
+(1) A provider must not refund an amount of contribution paid to the provider by the Commissioner in respect of a member of that provider’s KiwiSaver scheme that is in excess of the amount that is required to be paid to the provider under the KiwiSaver scheme and this Act if—
+  (a) the amount is—
+    (i) an amount that was deducted from the member’s salary or wages; or
+    (ii) an amount of employer contribution; and
+  (b) the amount has arisen on an amended assessment; and
+  (c) the 4-year period under section 108AB of the Tax Administration Act 1994 for amendment of an assessment has ended; and
+  (d) the Commissioner has not requested the provider to refund the amount to the Commissioner.
+(2) The Commissioner must not refund an amount of contribution that is in excess of the amount that this Act requires to be deducted or paid if—
+  (a) the amount is—
+    (i) an amount that was deducted from a member’s salary or wages; or
+    (ii) an amount of employer contribution; and
+  (b) the amount has arisen on an amended assessment; and
+  (c) the 4-year period under section 108AB of the Tax Administration Act 1994 for amendment of an assessment has ended.
+(3) For the purposes of this section, the provision by a person of employment income information for an amount of a contribution for a payday is treated as the making of an assessment of the amount of the contribution by the person.
 
 ### Subpart 3 — Contributions other than deductions from salary or wages
 
@@ -1079,11 +1101,13 @@ For the purposes of the Tax Administration Act 1994, an employer is treated as h
 [Repealed]
 
 ### 100 Refunds of employer contribution by Commissioner if employee opts out
-If an employee opts out after an employer contribution is paid to the Commissioner, the Commissioner must, if it is still in his or her possession, refund the employer contribution to the employer.
+(1) If an employee opts out after an employer contribution is paid to the Commissioner, the Commissioner must, if it is still in his or her possession, refund the employer contribution to the employer.
+(2) This section is subject to section 91B.
 
 ### 101 Refunds of employer contribution by provider
 (1) The provider of a KiwiSaver scheme must refund to the Commissioner any amount of employer contribution that was paid under this Act by the Commissioner in excess of the amount of the employer contribution that this Act requires.
 (1B) If an employee opts out after an employer contribution is paid to a provider by the Commissioner, the provider must refund the employer contribution to the Commissioner.
+(1C) This section is subject to section 91B.
 (2)
 
 ### 101AA What Commissioner must do with employer contribution refunded by provider
@@ -1093,6 +1117,7 @@ If an employee opts out after an employer contribution is paid to the Commission
     (i) the amount has been paid out of a Crown Bank Account under section 78; and
     (ii) the amount has not been paid to the Commissioner by the employer to whom the employer contribution relates; or
   (b) otherwise, refund the amount to the employer who made the employer contribution.
+(3) This section is subject to section 91B.
 
 ### Subpart 3A — Compulsory employer contributions to KiwiSaver schemes and complying superannuation funds
 
@@ -1315,6 +1340,7 @@ The Commissioner must give notice to each affected employer known to the Commiss
   (b) the employee starts new employment, but cannot comply with section 22(1)﻿(c)﻿(ii).
 (2) The employer may, at any time after the employee complies with section 22(1)﻿(c)﻿(ii), refund to the employee any contributions that were deducted from the employee’s salary or wages before the employee complied.
 (3) The Commissioner may refund that money to the employee if the money is held by the Commissioner.
+(4) This section is subject to section 91B.
 
 ## Part 4 — Additional governance provisions
 
@@ -2382,7 +2408,8 @@ The KiwiSaver scheme rules apply to all KiwiSaver schemes.
       (i) the date on which the member first became a member of a KiwiSaver scheme:
       (ii) the date, under section 85, on which the Commissioner first received a contribution for a KiwiSaver scheme in relation to the member:
       (iii) the date on which the member first became a member of a complying superannuation fund, if the member has become a member of the KiwiSaver scheme as a result of a transfer from a complying superannuation fund; but
-    (b) does not include a person who has given their KiwiSaver scheme provider notice of the person’s election that this definition does not apply to them.
+    (b) does not include a person who has given their KiwiSaver scheme provider notice of the person’s election that this definition does not apply to them; and
+  (c) does not include a person who was of New Zealand superannuation qualification age before 1 July 2019.
 
 ### 4A No external financial advantages from funds
 (1) The manager must ensure that the entire value, benefit, or other return derived in respect of the member's accumulation is credited to the member's accumulation and is not received as an external financial advantage.
