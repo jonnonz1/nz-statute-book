@@ -1,5 +1,5 @@
 # Child Support Amendment Act 2021
-_Consolidation as at 2021-11-01_
+_Consolidation as at 2022-03-31_
 
 ### 1 Title
 This Act is the Child Support Amendment Act 2021.
@@ -122,7 +122,7 @@ After section 35B(2), insert:
 (2) After section 40(3)﻿(b), insert:
   (c) if notice of the election is given after the child support year to which it relates, state—
     (i) the person’s year-to-date income; and
-    (ii) the person’s estimated taxable income for the election period.
+    (ii) the person’s estimated income for the election period.
 (3) After section 40(6), insert:
   (7) Subsection (8) applies to any person who receives an assessment unless they already have an existing assessment of child support.
   (8) The person may make an election after the end of a child support year to which the election relates, provided the election is received by the Commissioner on or before the 28th day after notification of the assessment.
