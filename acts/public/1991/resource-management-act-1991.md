@@ -1,5 +1,5 @@
 # Resource Management Act 1991
-_Consolidation as at 2022-03-19_
+_Consolidation as at 2022-03-31_
 
 > An Act to restate and reform the law relating to the use of land, air, and water
 
@@ -11628,7 +11628,7 @@ As a result of further or additional information, commissioned reports, or other
   (c) the request or part of the request is not in accordance with sound resource management practice; or
   (d) the request or part of the request would make the policy statement or plan inconsistent with Part 5; or
   (e) in the case of a proposed change to a policy statement or plan, the policy statement or plan has been operative for less than 2 years.
-(4A) A specified territorial authority must not accept or adopt a request if it does not incorporate the MDRS as required by section 80F(1) or (2).
+(4A) A specified territorial authority must not accept or adopt a request if it does not incorporate the MDRS as required by section 77G(1).
 (5) The local authority shall notify the person who made the request, within 10 working days, of its decision under this clause, and the reasons for that decision, including the decision on notification.
 
 ### 26 Notification timeframes
