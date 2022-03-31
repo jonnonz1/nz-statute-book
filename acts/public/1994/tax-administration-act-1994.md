@@ -1,5 +1,5 @@
 # Tax Administration Act 1994
-_Consolidation as at 2022-03-30_
+_Consolidation as at 2022-03-31_
 
 > An Act to reorganise and consolidate the law relating to the Inland Revenue Department and the administration of income tax matters
 
@@ -3624,14 +3624,15 @@ Every gift-exempt body must, when notified by the Commissioner, furnish a return
     (i) is not the provision to the trustee, at less than market value, of minor services incidental to the activities of the trust; and
     (ii) is made on the trust in the income year:
   (c) the name, date of birth, jurisdiction of tax residence, and tax file number and taxpayer identification number, of each settlor who makes a settlement on the trust in the income year or whose details have not previously been supplied to the Commissioner:
-  (d) for each distribution made by the trustee of the trust in the income year,—
-    (i) the amount of the distribution:
-    (ii) the name, date of birth, jurisdiction of tax residence, and tax file number and taxpayer identification number, of the beneficiary who receives the distribution:
+  (d) the amount, and nature, of each distribution that—
+    (i) is not a distribution, other than of money, that is minor and incidental to the activities of the trust; and
+    (ii) is made by the trustee in the income year:
+  (db) the name, date of birth, jurisdiction of tax residence, and tax file number or taxpayer identification number, of the beneficiary who receives a distribution referred to in paragraph (d):
   (e) the name, date of birth, jurisdiction of tax residence, and tax file number and taxpayer identification number, of each person having a power under the trust to appoint or dismiss a trustee, to add or remove a beneficiary, or to amend the trust deed:
   (f) the other information required by the Commissioner.
 (3) A trustee of a trust who is required to file a return for a tax year under subsection (1) is not required to file a return in the form required by subsection (2) if—
   (a) the trustee is excluded from the requirement to make a return by section 43B (which relates to non-active trusts):
-  (b) the trustee is required to make a return by section 59D (which relates to foreign trusts):
+  (b) the trust is a foreign trust:
   (c) the trustees of the trust are incorporated as a board under the Charitable Trusts Act 1957:
   (d) the trust is a charitable trust registered under the Charities Act 2005:
   (e) the trustee is eligible under section HF 2 of the Income Tax Act 2007 to choose under section HF 11 of that Act to become a Maori authority:
