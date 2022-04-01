@@ -1,5 +1,5 @@
 # KiwiSaver Act 2006
-_Consolidation as at 2022-03-30_
+_Consolidation as at 2022-04-01_
 
 ### 1 Title
 This Act is the KiwiSaver Act 2006.
@@ -443,14 +443,14 @@ A person other than an employee who opts in must continue to be a member of a Ki
   (a) A’s name and address; and
   (b) A’s tax file number; and
   (c) the date of the first contribution received by the provider in respect of A (if any); and
-  (d) if A is an employee, A’s contribution rate; and
+  (d) if A is an employee, the contribution rate chosen by A under section 64(2); and
   (e) the name and address and tax file number of both the provider and the scheme; and
   (f) any other information that the Commissioner requires.
 
 ### 39 Commissioner must give notice to employer if provider gives notice that employee has opted in under section 38
 The Commissioner must, as soon as practicable after receiving a notice under section 38 in respect of an employee who has opted in, give notice to each of the person’s employers, stating—
   (a) that the employer must start to make deductions of contributions from each payment of the person’s salary or wages that is calculated by the employer after the date on which the employer receives the notice under this section; and
-  (b) the contribution rate; and
+  (b) the contribution rate chosen by the person under section 64(2); and
   (c) the person’s name and tax file number.
 
 **Information about overall KiwiSaver scheme that must be provided**
@@ -803,8 +803,21 @@ An employer who makes a deduction under this subpart must specify the amount of 
     (iii) the employee is on a 2% contribution rate immediately before the first pay period that starts on or after 1 April 2013 because they chose 2% under subsection (2); or
   (ab) 4% of the employee's gross salary or wages, if section 60(1)﻿(a), (b) or (c) first applied in respect of the employee before 1 April 2009 and the employee has not given his or her employer a notice under paragraph (b); or
   (b) 8% of the employee’s gross salary or wages if the employee gives his or her employer a notice requiring contributions to be deducted at that rate.
-(2) Despite subsection (1), the employee may choose a contribution rate of 3%, 4%, 6%, 8%, or 10% of their gross salary or wages by giving notice to their employer of the rate they choose.
-(3) The new rate applies to the next payment of salary or wages that is calculated after the employer receives that notice.
+(2) Despite subsection (1), the employee may choose a contribution rate of 3%, 4%, 6%, 8%, or 10% of their gross salary or wages by giving notice of the rate they choose to—
+  (a) their employer; or
+  (b) their KiwiSaver scheme provider; or
+  (c) the Commissioner.
+(2B) If an employee gives a notice under subsection (2) to the Commissioner, the notice must include any other information that the Commissioner requires.
+(2C) A provider must, as soon as practicable after receiving a notice under subsection (2) in relation to an employee, give notice to the Commissioner of—
+  (a) the employee’s name and address; and
+  (b) the employee’s tax file number; and
+  (c) the contribution rate chosen by the employee; and
+  (d) any other information that the Commissioner requires.
+(2D) The Commissioner must, as soon as practicable after receiving a notice under subsection (2) or (2C) in relation to an employee, give notice to each of the person’s employers of—
+  (a) the employee’s name; and
+  (b) the employee’s tax file number; and
+  (c) the contribution rate chosen by the employee.
+(3) The new rate applies to the next payment of salary or wages that is calculated after the employer receives the notice under subsection (2) or (2D).
 (3B) For a contribution rate under subsection (1)﻿(a), when a change occurs to a rate in this Act, or in regulations made under this Act, affecting the contribution that must be deducted from a payment of salary or wages, the calculation of the amount of the contribution must be made at the rate applying on the day on which the salary or wages are paid.
 (4) An employee may not change his or her contribution rate in relation to an employer at intervals that are less than 92 days apart unless the employer agrees.
 
