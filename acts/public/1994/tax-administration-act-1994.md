@@ -1,5 +1,5 @@
 # Tax Administration Act 1994
-_Consolidation as at 2022-03-31_
+_Consolidation as at 2022-04-01_
 
 > An Act to reorganise and consolidate the law relating to the Inland Revenue Department and the administration of income tax matters
 
@@ -444,28 +444,6 @@ _Consolidation as at 2022-03-31_
   - **shortfall penalty** means a penalty imposed under any of sections 141AA to 141K for taking an incorrect tax position or for doing or failing to do anything specified or described in those sections
   - **social security agreement** is defined in schedule 7, part C, subpart 2, clause 45(7) for the purposes of that clause
   - **standard-cost household service** means a service that is a standard-cost household service under a determination that is made by the Commissioner under section 91AA
-  - **START tax type** means—
-    (aa) income tax:
-    (a) GST:
-    (abb) PAYE:
-    (abc) employees’ child support deducted by employers:
-    (abd) salary or wage deductions (as defined in section 4(1) of the Student Loan Scheme Act 2011):
-    (abe) KiwiSaver deductions made by employers under Part 3, subpart 1 of the KiwiSaver Act 2006:
-    (abf) compulsory employer contributions made by employers under Part 3, subpart 3A of the KiwiSaver Act 2006:
-    (abg) ESCT:
-    (abh) RSCT:
-    (ab) WFF tax credits:
-    (ac) tax credits under section 41A:
-    (b) FBT:
-    (c) RWT:
-    (d) NRWT:
-    (e) approved issuer levy:
-    (f) RLWT:
-    (g) gaming-machine duty:
-    (gb) casino duty:
-    (gc) lottery duty:
-    (gd) totalisator duty:
-    (h) income tax liability of portfolio investment entities to which section HM 42 or HM 43 of the Income Tax Act 2007 applies
   - **status ruling** means a ruling made under section 91GA
   - **student allowance** means an allowance paid under regulations made under section 645 of the Education and Training Act 2020
   - **tax** —
@@ -2624,6 +2602,20 @@ A payer referred to in section 25E(1)﻿(j) must deliver the investment income i
   (a) in electronic form and by means of an electronic communication as prescribed by the Commissioner; and
   (b) with their return of income for the corresponding income year.
 
+### 25NB De minimis filing requirements for certain persons
+When this section applies
+(1) This section applies when a person is required to withhold an amount of tax under—
+  (a) section RE 21(3) of the Income Tax Act 2007:
+  (b) section RF 13(2) of that Act:
+  (c) section 86KA of the Stamp and Cheque Duties Act 1971.
+When this section does not apply
+(2) This section does not apply when a person withholds an amount of tax referred to in section RE 21(6) and (7) of the Income Tax Act 2007.
+Delivery of investment income information
+(3) Despite sections 25E, 25F, and 25H, the person may deliver the investment income information for the payment to the Commissioner—
+  (a) in electronic form and by means of an electronic communication as prescribed by the Commissioner; and
+  (b) for the period in the tax year from 1 April to 30 September, by 20th October after the end of the period; and
+  (c) for the period in the tax year from 1 October to 31 March, by 20th April after the end of the period.
+
 ### 25O Correction of errors in investment income information
 An adjustment may be made under section RA 11 or RA 12 of the Income Tax Act 2007 to correct certain errors that a payer has made in relation to an amount of tax for RWT or NRWT.
 
@@ -3317,28 +3309,26 @@ A person who is adjudicated bankrupt under the Insolvency Act 2006 and derives a
     (iii) whether or not the application of any of the continuity provisions would preclude the carrying forward, offsetting, or other utilisation of any tax loss or loss balance or credit balance of the company referred to in subparagraph (i).
 (7) Notwithstanding subsections (1), (4), and (5), a non-active company shall furnish a return of income or an annual ICA return if required by the Commissioner to do so.
 
-### 43B Non-active trusts may be excused from filing returns
-(1) A trustee of a trust is not required to furnish a return of income for the trust for a tax year if—
-  (a) throughout that tax year; the trust is—
-    (i) a non-active trust; and
-    (ii) a complying trust as described in section HC 10 of the Income Tax Act 2007; and
-  (b) a trustee of the trust has made and furnished to the Commissioner, in a form approved by the Commissioner,—
-    (i) a declaration that the trust is a non-active trust, and that it will notify the Commissioner if it stops being a non-active trust; and
-    (ii) a statement of such other matters as the Commissioner may require; and
-  (c) the trust has not since the making of the declaration stopped being a non-active trust.
-(2) For the purposes of this section, a trust is a non-active trust for a tax year if, throughout that tax year, the trustee of the trust—
-  (a) has not derived or been deemed to have derived any income; and
+### 43B Trustees of non-active trusts and administrators or executors of non-active estates may be excused from filing returns
+(1) A person who is a trustee of a trust or an administrator or executor of an estate is not required to make a return of income for a tax year for the trust or estate if—
+  (a) the trust or estate is non-active throughout the income year corresponding to the tax year; and
+  (b) for a person who is a trustee, the trust is a complying trust under section HC 10 of the Income Tax Act 2007; and
+  (c) the person has provided to the Commissioner, in a form approved by the Commissioner,—
+    (i) a declaration that the trust or estate is non-active and that the person will notify the Commissioner if the trust or estate ceases to be non-active; and
+    (ii) a statement of the matters required by the Commissioner.
+(2) For the purposes of this section, a trust or estate is non-active for a tax year if, throughout the income year corresponding to the tax year, the trustee of the trust or the administrator or executor of the estate—
+  (a) has not derived any income; and
   (b) has no deductions; and
-  (c) has not been a party to or perpetuated or continued with any transactions with assets of the trust which, during the tax year,—
+  (c) has not been a party to, or perpetuated, or continued with, transactions with assets of the trust or estate which, during the corresponding income year,—
     (i) give rise to income in any person’s hands; or
-    (ii) give rise to fringe benefits to any employee or to any former employee.
-(3) In determining whether a trust complies with the requirements of subsection (2), no account shall be taken of any—
-  (a) reasonable fees paid to professional trustees to administer the trust; or
+    (ii) give rise to fringe benefits to an employee or to a former employee.
+(3) In determining whether a trust or estate complies with the requirements of subsection (2), no account shall be taken of any—
+  (a) reasonable fees paid to professional persons to administer the trust or estate; or
   (b) bank charges or other minimal administration costs totalling not more than $200 in the tax year; or
-  (c) interest earned on trust assets in any bank account during the tax year, to the extent to which the total interest does not exceed $200; or
-  (d) insurance, rates, and other expenditure incidental to the occupation of a dwelling owned by the trust and incurred by the beneficiaries of the trust.
-(4) Where at any time any paragraph of subsection (2) ceases to apply to a trust for which a declaration under this section has been made, a trustee of the trust must notify the Commissioner that the trust has ceased to be a non-active trust.
-(5) Despite subsection (1), trustees of a non-active trust shall furnish a return of income if required by the Commissioner to do so.
+  (c) interest earned on trust or estate assets in any bank account during the tax year, to the extent to which the total interest does not exceed $200; or
+  (d) insurance, rates, and other expenditure incidental to the occupation of a dwelling owned by the trust or estate and incurred by the beneficiaries of the trust or estate.
+(4) Where at any time any paragraph of subsection (2) ceases to apply to a trust or estate for which a declaration under this section has been made, a trustee of the trust or administrator or executor of the estate must notify the Commissioner that the trust or estate has ceased to be non-active.
+(5) Despite subsection (1), a person who is a trustee of a non-active trust or an executor or administrator of a non-active estate must furnish a return of income if required by the Commissioner to do so.
 
 ### 44 Commissioner may in certain cases demand special returns, and make special assessments
 (1) This section applies to the following persons:
@@ -7305,9 +7295,7 @@ The purposes of this Part are—
 (9) Despite subsection (7), a taxpayer is not liable to pay a late filing penalty in relation to employment income information if the Commissioner considers that, in a particular case or class of cases, a penalty should not be imposed. However, the Commissioner’s discretion may be exercised only if—
   (a) it is necessary because of resource constraints imposed on the Commissioner during the period of co-existence of 2 Inland Revenue software platforms; and
   (b) the taxpayer’s non-compliance is not serious or unreasonable.
-(10) Despite subsection (2)﻿(a)﻿(i), a taxpayer is not liable to pay a late filing penalty if the Commissioner considers that, in a particular case or class of cases, a penalty should not be imposed. However the Commissioner’s discretion may be exercised only if—
-  (a) it is necessary because of resource constraints imposed on the Commissioner during the period of co-existence of 2 Inland Revenue software platforms; and
-  (b) the taxpayer’s non-compliance is not serious or unreasonable.
+(10)
 
 ### 139AAA Late filing penalty for GST returns
 (1) This section applies to a tax return (a GST return) required to be furnished by a registered person under sections 16 to 18 of the Goods and Services Tax Act 1985.
@@ -7339,9 +7327,7 @@ The purposes of this Part are—
 (4) For employment income information, the maximum penalty that may be imposed in relation to a month, regardless of the number of failures to provide employment income information, is the greater of $250 or $1 for each employee whose employment income information is not in the prescribed electronic form or delivered by the prescribed means of electronic communication at any time in the month.
 (5) For GST purposes, the non-electronic filing penalty is $250.
 (6) For investment income information, the non-electronic filing penalty is $250.
-(7) Despite subsection (2), a person is not liable to pay a non-electronic filing penalty if the Commissioner considers that, in a particular case or class of cases, a penalty should not be imposed. However, the Commissioner’s discretion may be exercised only if—
-  (a) it is necessary because of resource constraints imposed on the Commissioner during the period of co-existence of 2 Inland Revenue software platforms; and
-  (b) the taxpayer’s non-compliance is not serious or unreasonable.
+(7)
 
 ### 139AB Penalty for member of large multinational group failing to provide information
 (1) A member of a large multinational group is liable to pay a penalty under this section if—
@@ -7358,9 +7344,7 @@ The purposes of this Part are—
   (c) ignoring any failure to pay for which a penalty or interest is remitted under section 183AA, the Commissioner determines that the taxpayer has paid on time amounts of tax due for payment in the period referred to in paragraph (b) and—
     (i) the Commissioner gives the taxpayer a notice setting a further date for payment of the unpaid tax; and
     (ii) the taxpayer does not pay the unpaid tax before the date that is the earlier of the further date and the date that is 1 month after the date of the notice.
-(1B) When determining whether a person has paid amounts of tax on time or failed to pay amounts of tax on time under subsection (1)﻿(b) or (c), the Commissioner has a discretion to ignore any failure to pay tax on time for any tax type that the Commissioner decides it is appropriate to ignore. The discretion may only be exercised if—
-  (a) it is necessary because of resource constraints imposed on the Commissioner during the period of co-existence of 2 Inland Revenue Department software platforms; and
-  (b) it does not impose a penalty greater than that which the person would otherwise be liable for in the absence of this subsection.
+(1B)
 (2) The taxpayer is liable to pay a late payment penalty consisting of—
   (a) an initial late payment penalty equal to the total of—
     (i) 1% of the unpaid tax; and
@@ -9118,14 +9102,14 @@ An amount that is interest under section 120D, or a late payment penalty relatin
   (b) the tax referred to in the statement of account, together with any interest payable under Part 7 in respect of the period before the date of the statement of account, is paid to the Commissioner on or before the 30th day after the date on which the statement of account is issued, or the due date of the tax, whichever occurs first,—
 (4B) Subsection (4C) applies, if—
   (a) the Commissioner issues another statement of account (the second statement) to a taxpayer within 30 days of a statement of account described in subsection (4) (the first statement); and
-  (b) the first and second statements are for a START tax type and any penalties related to the START tax type; and
-  (c) the START tax type and any related penalties in the first statement, together with any interest payable under Part 7 in relation to the period before the date of the first statement is paid to the Commissioner on or before the 30th day after the date on which the first statement is issued, or the due date of the tax, whichever occurs first.
-(4C) The Commissioner shall cancel the taxpayer’s liability to pay interest under Part 7 in relation to the START tax type and related penalties for the period commencing on the day after the date on which the first statement is issued and ending with the day on which the payment described in subsection (4B)﻿(c) is made.
+  (b)
+  (c) the tax assessed and any related penalties in the first statement, together with any interest payable under Part 7 in relation to the period before the date of the first statement is paid to the Commissioner on or before the 30th day after the date on which the first statement is issued, or the due date of the tax, whichever occurs first.
+(4C) The Commissioner shall cancel the taxpayer’s liability to pay interest under Part 7 in relation to the tax assessed and related penalties for the period commencing on the day after the date on which the first statement is issued and ending with the day on which the payment described in subsection (4B)﻿(c) is made.
 (4D) Subsection (4E) applies, if—
   (a) the Commissioner issues another notice of assessment (the second assessment) to a taxpayer within 30 days of a notice of assessment described in subsection (1) or (3) (the first assessment); and
-  (b) the first and second assessments are for a START tax type and any penalties related to the START tax type; and
-  (c) the START tax type and any related penalties in the second assessment, together with any interest payable under Part 7 in relation to the period before the date of the second assessment is paid to the Commissioner on or before the 30th day after the date on which the second assessment is issued, or the due date of the tax, whichever occurs first.
-(4E) The Commissioner shall cancel the taxpayer’s liability to pay interest under Part 7 in relation to the START tax type and related penalties for the period commencing on the day after the date on which the second assessment is issued and ending with the day on which the payment described in subsection (4D)﻿(c) is made.
+  (b)
+  (c) the tax assessed and any related penalties in the second assessment, together with any interest payable under Part 7 in relation to the period before the date of the second assessment is paid to the Commissioner on or before the 30th day after the date on which the second assessment is issued, or the due date of the tax, whichever occurs first.
+(4E) The Commissioner shall cancel the taxpayer’s liability to pay interest under Part 7 in relation to the tax assessed and related penalties for the period commencing on the day after the date on which the second assessment is issued and ending with the day on which the payment described in subsection (4D)﻿(c) is made.
 (5) If the Commissioner issues both a notice of assessment and a statement of account to a taxpayer and the 30th day referred to in subsection (3) occurs on or before the 30th day referred to in subsection (4), the Commissioner must cancel a taxpayer's liability to pay interest under Part 7 for the period starting on the day after the date on which the notice of assessment is issued and ending on the date on which payment is made if payment is made on or before the 30th day referred to in subsection (3).
 (6) For the purpose of subsection (5), a payment that is made is a payment of the tax assessed in the notice of assessment, together with any interest payable under Part 7 for the period before the date of the notice.
 
