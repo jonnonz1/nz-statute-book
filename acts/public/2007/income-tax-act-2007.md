@@ -1,5 +1,5 @@
 # Income Tax Act 2007
-_Consolidation as at 2022-03-30_
+_Consolidation as at 2022-04-01_
 
 ### A 1 Title
 This Act is the Income Tax Act 2007.
@@ -1752,7 +1752,7 @@ Definition of items in formula
 (2) In the formula,—
   (a) value from company is the market value of the money or money’s worth that the company provides to the person:
   (b) value from person—
-    (i) is the market value of the money or money’s worth, if any, that the person provides to the company as consideration for the transfer; and
+    (i) is the market value of the money or money’s worth, if any, that the person provides to the company as consideration for the transfer. To the extent to which the person provides a loan that is cross-border related borrowing under section GC 6(3B) (Purpose and application of rules and nature of arrangements), the market value of the money or money’s worth that the person provides is determined using the interest rate for a loan made on the same terms, including credit rating, as used for the adjustment to the interest made in accordance with sections GC 6 to GC 18 (which relate to transfer pricing arrangements), if any; and
     (ii) excludes any amount that is attributable merely to the holding or giving up of rights as a shareholder in the company.
 Relationship with sections CD 39 to CD 42
 (3) This section is overridden by sections CD 39 to CD 42.
@@ -3784,19 +3784,27 @@ Exempt income
   (b) it is derived from a company (the payer) that is part of the same wholly-owned group of companies as the recipient at the time the dividend is derived; and
   (c) the payer is not a foreign company; and
   (d) the payer is not a company that can derive only exempt income; and
-  (e) the requirements of subsections (3) to (6) are met.
+  (e) the requirements of subsections (5) and (6) are met.
 Aligned balance dates
 (2)
 Exclusion: dividends from council-controlled organisations
-(3) The dividend must not be derived by a local authority from—
-  (a) a council-controlled organisation; or
-  (b) a port company, subsidiary company of a port company, or energy company that would be a council-controlled organisation in the absence of section 6(4) of the Local Government Act 2002.
+(3)
 Exclusion: debt release dividends
 (4)
 Exclusion: certain friendly society dividends
 (5) The dividend must not be derived by a friendly society from a company registered as an insurer under the Accident Insurance Act 1998 that is under the control of the society.
 Exclusion: certain sickness, accident, or death benefit fund dividends
 (6) The dividend must not be derived by a trustee in trust for a sickness, accident, or death benefit fund from a company registered as an insurer under the Accident Insurance Act 1998 that is under the control of the trustee.
+
+### CW 10B Dividends derived by council-controlled organisation holding companies
+A dividend derived by a council-controlled organisation (the recipient) from another person (the payer) is exempt income of the recipient if—
+  (a) the payer is—
+    (i) a council-controlled organisation; or
+    (ii) a port company, a subsidiary of a port company, or an energy company that would be a council-controlled organisation in the absence of section 6(4) of the Local Government Act 2002; and
+  (b) at the time the dividend is derived, 100% of the voting interests in the payer are held by—
+    (i) 2 or more local authorities; or
+    (ii) a combination of 1 or more Ministers of the Crown, on behalf of the Crown, and 1 or more local authorities; and
+  (c) at the time the dividend is derived, a local authority holds 100% of the voting interests in the recipient.
 
 ### CW 11 Dividend of conduit tax relief holding company
 [Repealed]
@@ -4591,11 +4599,10 @@ Exclusion: amounts received in trust
 (3) Subsection (2) does not apply to an amount of income that a local authority derives as a trustee, other than an amount distributed as beneficiary income to a beneficiary who derives the amount as exempt income.
 Exclusion: certain amounts from commercial undertakings
 (4) Subsection (2) does not apply to an amount of income that—
-  (a) is derived by a local authority; and
-  (b) is not rates; and
-  (c) is derived from—
+  (a) is derived by a local authority from—
     (i) a council-controlled organisation linked by ownership or control to the local authority, other than a council-controlled organisation operating a hospital as a charitable activity on behalf of the local authority; or
-    (ii) an organisation linked by ownership or control to the local authority that is a port company, a subsidiary of a port company, or an energy company and that would be a council-controlled organisation in the absence of section 6(4) of the Local Government Act 2002.
+    (ii) an organisation linked by ownership or control to the local authority that is a port company, a subsidiary of a port company, or an energy company and that would be a council-controlled organisation in the absence of section 6(4) of the Local Government Act 2002; and
+  (b) is neither rates nor a dividend.
 Exclusion: local authority as port operator
 (5) Subsection (2) does not apply to an amount of income derived by a local authority in its capacity as a port operator from a port-related commercial undertaking. Port operator and port-related commercial undertaking are defined in section 38(4) of the Port Companies Act 1988.
 
@@ -7094,6 +7101,8 @@ No deduction
 (2B) Despite subsection (2), a company is not allowed a deduction for the amount of a charitable or other public benefit gift it makes, to the extent to which the amount is, for the company, an asset ignored for the purposes of section HR 12 (Non-exempt charities: treatment of tax-exempt accumulations) and described in section HR 12(3)﻿(a).
 Amount of deduction
 (3) The deduction for the total of all gifts made in an income year is limited to the amount that would be the company’s net income in the corresponding tax year in the absence of this section.
+Exclusion
+(3B) This section does not apply to a local authority.
 Link with subpart DA
 (4) This section supplements the general permission. The general limitations still apply.
 
@@ -15316,6 +15325,7 @@ In this subpart,—
   - **land sales provisions** means sections CB 6A to CB 15 and CZ 39 (which relate to amounts derived from disposals of land)
   - **residential income** means the following amounts that a person derives for an income year in relation to residential land:
     (a) rental income which is the amount of income the person derives under sections CC 1 to CC 2 (which relate to amounts derived from the use of land) for the income year in relation to their residential portfolio:
+    (ab) income which is the amount that the person derives under section CC 3 (Financial arrangements) for the income year in relation to a loan, denominated in a foreign currency, to the extent to which that loan relates to their residential portfolio:
     (b) depreciation recovery income which is the amount that the person derives under section CG 1 (Amount of depreciation recovery income) for the income year in relation to their residential portfolio:
     (c) an amount of net income that the person would have for the corresponding tax year if their only income were income under the land sales provisions from a disposal of property in their residential portfolio:
     (d) an amount of net income that the person would have for the corresponding tax year if their only income were income referred to in paragraphs (a), (b), and (c) in relation to residential land to which section EL 4 does not apply because it is held on revenue account and falls within the exclusion set out in section EL 10
@@ -15560,13 +15570,14 @@ Specific rules
 (2) In this subpart,—
   (a) section EM 2 provides rules for who this subpart applies to:
   (b) section EM 3 provides rules for what hedges this subpart applies to:
-  (c) section EM 4 provides rules for irrevocable elections to choose that eligible hedges are subject to this subpart:
-  (d) section EM 5 provides rules that set maximum fair dividend rate hedge portions for a person's eligible hedges:
+  (c) section EM 4 provides rules for elections to choose that eligible hedges are subject to this subpart by applying either a hedge-by-hedge method or the portfolio method:
+  (d) section EM 5 provides the hedge-by-hedge methods to calculate fair dividend rate hedge portions for a person’s eligible hedges:
+  (db) section EM 5B provides the portfolio method to calculate fair dividend rate hedge portions for a person’s eligible hedges:
   (e) section EM 6 provides the calculation to determine the income and expenditure for a person's fair dividend rate hedge portions:
   (f) section EM 7 provides a quarterly test of the person's fair dividend rate hedge portions, and provides rules that apply if the value of hedge portions to eligible hedged assets exceeds 1.05, including a rule to not apply this subpart:
   (g) section EM 8 provides some definitions for this subpart.
 Relationship with financial arrangements rules
-(3) This subpart, and not subpart EW (Financial arrangements rules), determines a person's income and expenditure for their fair dividend rate hedge portions.
+(3) This subpart, and not subpart EW (Financial arrangements rules), determines a person's income and expenditure for their fair dividend rate hedge portions. However, subpart EW determines a person’s income and expenditure for the portion of a hedge that is not a fair dividend rate hedge portion.
 
 ### EM 2 Who does this subpart apply to?
 Who does this subpart apply to?
@@ -15583,39 +15594,49 @@ Exception to combining people and investor interests
 (3) Subsection (2) does not apply to make 2 associated people into 1 person, or to combine investor interests of 2 associated persons, if 1 of them is a listed person.
 
 ### EM 3 What hedges does this subpart apply to?
-This subpart applies to a person's hedge (an eligible hedge) if section EM 1 applies to the hedge, and the hedge—
+General rule
+(1) This subpart applies to a person's hedge (an eligible hedge) if section EM 1 applies to the hedge, and the hedge—
   (a) is a contract to conditionally or unconditionally acquire or dispose of foreign exchange in return for New Zealand currency, or is a swap with one leg denominated in a foreign currency and the other leg denominated in New Zealand currency; and
   (b) is not an option; and
   (c) is not entered into with an associated person; and
-  (d) has, under IFRSs, a fair value of zero when it is first entered into; and
+  (d) has, under IFRSs, a fair value of zero when it is first entered into or is acquired at its fair value; and
   (e) is subject to an election under section EM 4.
+Exception
+(2) Despite subsection (1), this subpart applies and a person’s hedge is an eligible hedge, if section EM 1 applies to the hedge, the person has not chosen to use section EM 5(4) and (5) for the hedge, and the hedge—
+  (a) is a contract to conditionally or unconditionally acquire or dispose of any currency in return for any other currency, or is a swap with legs denominated in any currency; and
+  (b) meets the requirements of subsection (1)﻿(b) to (e); and
+  (c) is entered into only to rebalance currency exposures for the person’s other eligible hedges.
 
-### EM 4 Irrevocable elections
+### EM 4 Elections
 Elections
-(1) This subpart applies to a person's eligible hedge, to the extent of their fair dividend rate hedge portion for the eligible hedge, if the person has made an election to apply this subpart under subsection (2) or (3).
-Elections: specific
-(2) For the purposes of subsection (1), for each eligible hedge, an election under this subsection must, unless subsection (3) applies, be made—
-  (a) when the hedge is first entered into; and
-  (b) when a hedge of the hedge is first entered into.
-Election: general
-(3) For the purposes of subsection (1), a general election under this subsection may be made before the eligible hedge or a hedge of the hedge is entered into, and that election will apply automatically to the relevant hedge when it is entered into.
-Elections: effect irrevocable
-(4) An election under this section is irrevocable and cannot be amended, except a general election under subsection (3) may be changed before a relevant hedge is entered into. The income and expenditure for the fair dividend rate hedge portion of the relevant hedge must be determined under this subpart.
-Elections: effect on some or all
-(5) The portion of a person's eligible hedge that is not a fair dividend rate hedge portion does not give rise to income and expenditure under this subpart, despite an election for the eligible hedge, and subpart EW (Financial arrangements rules) determines a person's income and expenditure for that portion.
+(1) This subpart applies to a person’s eligible hedges, to the extent to which the hedges have fair dividend rate hedge portions as a result of an election under this section. The portion of a person’s eligible hedge that is not a fair dividend rate hedge portion does not give rise to income or expenditure under this subpart, despite any election under this section for the eligible hedge. To the extent to which this subpart does apply to calculate income and expenditure (see: section EM 6), the fair dividend rate hedge portion does not give rise to income or expenditure under any other subpart of this Act.
+Hedge-by-hedge: specific
+(2) A person may choose to use a hedge-by-hedge method under section EM 5 for an eligible hedge, if the election under this subsection is made before the hedge and any hedge of the hedge is first entered into or acquired by the person.
+Hedge-by-hedge: general
+(3) A person may choose to use a hedge-by-hedge method under section EM 5 for all eligible hedges if the election under this subsection is made before the hedge and any hedge of the hedge is first entered into or acquired by the person. The choice applies for all eligible hedges post-election.
+Specific: effect
+(4) An election under subsection (2) is irrevocable for the life of the relevant hedge, unless the person may choose and does choose, under subsection (6), to use the portfolio method.
+General: effect
+(5) An election under subsection (3) may be changed before the relevant hedge and any hedge of the hedge is first entered into or acquired by the person, but is irrevocable for the life of the relevant hedge, unless the person may choose and does choose, under subsection (6), to use the portfolio method.
+Portfolio
+(6) A person that uses a unit valuation period, under section EX 53 (Fair dividend rate periodic method), of 1 month or less may choose the portfolio method under section EM 5B.
+Portfolio: effect
+(7) An election under subsection (6) is irrevocable for 2 years unless the Commissioner notifies the person that the person may revoke earlier. An election applies for all eligible hedges post-election, but does not have to be made before a relevant hedge is entered into. Also, a new election under subsection (6) cannot be made until 12 months after the end of an old election under subsection (6), unless the Commissioner notifies the person that the person may make a new election earlier.
 
-### EM 5 Fair dividend rate hedge portions
-Maximum calculated
-(1) This section calculates the maximum fair dividend rate hedge portion for a person's eligible hedge.
+### EM 5 Fair dividend rate hedge portions: hedge-by-hedge methods
+Fair dividend rate hedge portions
+(1) This section calculates the maximum fair dividend rate hedge portions for a person’s eligible hedges on a hedge-by-hedge basis under an election provided by section EM 4, or the minimum fair dividend rate hedge portions for hedges that are a hedge of a hedge.
 Choice of fair dividend rate hedge portion: cannot be changed
-(2) A person must, subject to the maximum calculated under this section, irrevocably choose the fair dividend rate hedge portion for a person's eligible hedge.
-Choice of formulas
-(3) A person may choose to use either subsections (4) and (5), or subsections (6) to (10), to calculate the maximum fair dividend rate hedge portions for all of the person's eligible hedges when the hedge is first entered into. They may not choose to use, for example, subsection (4) for some hedges and subsection (6) for other hedges.
-First formula
-(4) The maximum fair dividend rate hedge portion for a person's eligible hedge (the calculation hedge) is the lesser of 100% and the amount, expressed as a percentage, calculated, using the formula in this subsection, when the hedge is first entered into. Subsection (8) overrides this subsection. The formula is—(1.05 × (eligible currency assets + proxied currency assets) − FDR hedges amount) ÷ calculation hedge amount.
+(2)
+Choice of methods
+(3) A person may choose to use either the method in subsections (4) and (5), or the method in subsections (9) to (10D), to calculate the maximum or minimum, as the case may be, fair dividend rate hedge portions for all of the person’s eligible hedges when the relevant hedge is first entered into or acquired. They may not choose to use, for example, the method in subsections (4) and (5) for some hedges and the method in subsections (9) to (10D) for other hedges.
+First method
+(4) The maximum or minimum, as the case may be, fair dividend rate hedge portion for a person's eligible hedge (the calculation hedge) is the lesser of 100% and the amount, expressed as a percentage, calculated, using the formula in this subsection, when the hedge is first entered into or acquired. Subsection (8) overrides this subsection. The formula is—(1.05 × (eligible currency assets + proxied currency assets) − FDR hedges amount) ÷ calculation hedge amount.
 Definition of items in formula
 (5) In the formula in subsection (4), all items are expressed in the calculation currency (see: eligible currency assets), and—
-  (a) eligible currency assets is the total market value of a person's assets described in section EM 1(1)﻿(a) and (b) that are denominated in the same currency (the calculation currency) that the calculation hedge hedges:
+  (a) eligible currency assets is the total market value of,—
+    (i) a person’s assets described in section EM 1(1)﻿(a) and (b) that are denominated in the same currency (the calculation currency) that the calculation hedge hedges; and
+    (ii) if the person chooses and is a qualifying hedge fund, their interests in assets that are owned by a multi-rate PIE, described in section EM 1(1)﻿(a) and (b), and denominated in the calculation currency:
   (b) proxied currency assets is,—
     (i) unless subparagraph (ii) or (iii) applies, the total market value of a person's assets described in section EM 1(1)﻿(a) and (b) that are denominated in a currency (the proxied currency) other than the calculation currency, if an eligible hedge that is denominated in the calculation currency acts like hedging for the assets due to a relationship between exchange rate movements in the proxied currency and the calculation currency:
     (ii) zero, if the person has hedges denominated in the proxied currency:
@@ -15623,33 +15644,68 @@ Definition of items in formula
   (c) FDR hedges amount is the amount of calculation currency hedged by a person’s fair dividend rate hedge portions, but excluding the portion for the calculation hedge:
   (d) calculation hedge amount is the amount of foreign currency that is hedged by the calculation hedge.
 Second formula
-(6) The maximum fair dividend rate hedge portion for a person's eligible hedge (the calculation hedge) is the lesser of the amounts, expressed as percentages, calculated using the formula in this subsection and the formula in subsection (9), when the hedge is first entered into. Subsection (8) overrides this subsection. The formula is—1 − (non-eligible currency assets ÷ hedges amount).
+(6)
 Definition of items in formula
-(7) In the formula in subsection (6), all items are expressed in New Zealand currency, and—
-  (a) non-eligible currency assets is the total market value of a person's assets that:
-    (i) are denominated in a foreign currency; and
-    (ii) are not described in section EM 1(1)﻿(a) and (b):
-  (b) hedges amount is the amount of foreign currency that is hedged by a person's hedges including the calculation hedge.
+(7)
 Exception for more than 100% non-eligible currency asset hedges
-(8) If the maximum fair dividend rate hedge portion for the calculation hedge is less than zero, then the fair dividend rate hedge portion for the hedge is zero.
-Formula for purposes of subsection (6)
-(9) The formula for the purposes of subsection (6) is:(1.05 × eligible currency assets − FDR hedges amount)÷ calculation hedge amount.
+(8) If the amount calculated under subsection (4) or (9) is less than zero, then the maximum or minimum, as the case may be, fair dividend rate hedge portion for the relevant calculation hedge is zero.
+Second method
+(9) The maximum or minimum, as the case may be, fair dividend rate hedge portion for a person’s eligible hedge (the calculation hedge) is the amount, expressed as a percentage, calculated using the following formula when the hedge is first entered into or acquired:FDR gross amount × apportioned current hedge amount ÷ calculation hedge amount.
 Definition of items in formula
 (10) In the formula in subsection (9), all items are expressed in New Zealand currency, and—
-  (a) eligible currency assets is the total market value of a person's assets described in section EM 1(1)﻿(a) and (b):
+  (a) FDR gross amount is the amount given by subsection (10B):
+  (b) apportioned current hedge amount is the amount given by subsection (10D):
+  (c) calculation hedge amount is the amount of foreign currency that is hedged by the calculation hedge.
+FDR gross amount
+(10B) For the purposes of subsection (10), the FDR gross amount is either—
+  (a) zero if the formula in this subsection does not calculate, when the hedge is first entered into or acquired, an amount; or
+  (b) the lesser of 1 and the amount calculated using the following formula when the hedge is first entered into or acquired:(1.05 × eligible currency assets − FDR hedges amount) ÷ apportioned current hedge amount.
+Definition of items in FDR gross formula
+(10C) In the formula in subsection (10B)﻿(b), all items are expressed in New Zealand currency, and—
+  (a) eligible currency assets is the total market value of a person’s assets described in section EM 1(1)﻿(a) and (b) and, if the person chooses and is a qualifying hedge fund, their interests in assets that are owned by the relevant multi-rate PIE and described in section EM 1(1)﻿(a) and (b):
   (b) FDR hedges amount is the amount of foreign currency hedged by a person’s fair dividend rate hedge portions, but excluding the portion for the calculation hedge:
-  (c) current hedge amount is the amount of foreign currency that is hedged by the calculation hedge.
+  (c) apportioned current hedge amount is the amount given by subsection (10D).
+Apportioned current hedge amount
+(10D) The apportioned current hedge amount for the purposes of subsections (10) and (10C) is 1 of the following amounts, expressed in New Zealand currency:
+  (a) if the calculation hedge is not a hedge of a hedge, or is a hedge of a hedge and paragraph (b) does not apply, the amount is the lesser of the following amounts:
+    (i) the amount of foreign currency hedged by the calculation hedge:
+    (ii) the amount of foreign currency that is hedged by a person’s hedges including the calculation hedge less the amount of foreign currency that is hedged by a person’s FDR hedge portions excluding the calculation hedge less the total market value of a person’s non-eligible assets, treating a negative result as zero:
+  (b) the negative of the amount of foreign currency that is hedged by a person’s FDR hedge portions excluding the calculation hedge, if—
+    (i) the calculation hedge is a hedge of a hedge; and
+    (ii) the amount of foreign currency that is hedged by a person’s FDR hedge portions excluding the calculation hedge plus the calculation hedge equals less than zero.
 Relationship with subject matter
 (11) Section EM 7 overrides this section.
+
+### EM 5B Fair dividend rate hedge portions: portfolio method
+Fair dividend rate hedge portions
+(1) This section calculates the fair dividend rate hedge portions for a person’s eligible hedges on a portfolio basis under an election provided by section EM 4.
+Lowest amount
+(2) The fair dividend rate hedge portion is the lowest of the amounts described in subsections (4) and (6).
+Period calculation
+(3) The fair dividend rate hedge portion is applied for a period of 1 month or less, as chosen by the person, for all of their eligible hedges. The fair dividend rate hedge portion is calculated before the start of the elected period, and the elected period is irrevocable, and is applied for all of their eligible hedges post-election, for the income year.
+First formula
+(4) For the purposes of subsection (2), the amount is calculated using formula—1 − (non-eligible assets ÷ portfolio hedges amount).
+Definition of items in formula
+(5) In the formula in subsection (4), all items are expressed in New Zealand currency, and—
+  (a) non-eligible assets is the total market value of non-eligible assets:
+  (b) portfolio hedges amount is the total amount of foreign currency that is hedged by a person’s hedges.
+Second formula
+(6) For the purposes of subsection (2), the amount is calculated using the formula—(1.05 × eligible assets) ÷ portfolio hedges amount.
+Definition of items in formula
+(7) In the formula in subsection (6), all items are expressed in New Zealand currency, and—
+  (a) eligible assets is the total market value of assets described in section EM 1(1)﻿(a) and (b) that the person owns directly, and, if the person chooses and is a qualifying hedge fund, their interests in assets that are owned by the relevant multi-rate PIE and described in section EM 1(1)﻿(a) and (b):
+  (b) portfolio hedges amount is the total amount of foreign currency that is hedged by a person’s hedges.
 
 ### EM 6 Income and expenditure for fair dividend rate hedge portions
 Using the formula to calculate income and expenditure
 (1) A person uses the formula in subsection (2) for each valuation period described in subsection (3)﻿(b) that this subpart applies to them. A positive amount from the formula is a person's income for their fair dividend rate hedge portions. A negative amount from the formula is a person's expenditure for their fair dividend rate hedge portions.
 Formula
-(2) The formula for determining a person's income and expenditure for their fair dividend rate hedge portions is—FDR portions’ value × 0.05 × valuation period ÷ days in the year.
+(2) The formula for determining a person's income and expenditure for their fair dividend rate hedge portions is—(FDR portions’ value + period gain − period loss) × 0.05 × valuation period ÷ days in the year.
 Definition of items in formula
 (3) In the formula,—
   (a) FDR portions' value is the market value of a person's fair dividend rate hedge portions at the start of a relevant valuation period in New Zealand currency:
+  (ab) period gain is the net gain multiplied by the FDR hedge portion for relevant eligible hedges that are entered into and settled within the preceding valuation period:
+  (ac) period loss is the net loss multiplied by the FDR hedge portion for relevant eligible hedges that are entered into and settled within the preceding valuation period:
   (b) valuation period is the number of days in whichever of the following periods is relevant:
     (i) the period described in section EM 1(1)﻿(a)﻿(ii):
     (ii) the unit valuation period described in section EX 53 (Fair dividend rate periodic method):
@@ -15657,7 +15713,7 @@ Definition of items in formula
 
 ### EM 7 Quarterly test of fair dividend rate hedge portions
 Quarterly FDR hedging ratio
-(1) A person must use the first formula, in subsection (2), on the last day of a quarter of an income year, to calculate their quarterly FDR hedging ratio.
+(1) A person must use the first formula, in subsection (2), on a day (the calculation day) they choose within a quarter of an income year, to calculate their quarterly FDR hedging ratio. The calculation day must be the same day for each quarter within the income year.
 First formula
 (2) The formula for calculating the person's quarterly FDR hedging ratio is—FDR hedges amount ÷ eligible currency assets.
 Definition of items in formula
@@ -15665,13 +15721,15 @@ Definition of items in formula
   (a) FDR hedges amount is the total amount of foreign currency that is hedged by a person’s fair dividend rate hedge portions:
   (b) eligible currency assets is the total market value of a person's assets described in section EM 1(1)﻿(a) and (b).
 Second formula
-(4) If a person's quarterly FDR hedging ratio for a quarter is greater than 1.05 and subsection (6) does not apply, then, despite section EM 5, the fair dividend rate hedge portion of each eligible hedge, from 5 working days after the last day of the quarter, is calculated using the formula—(0.85 ÷ quarterly FDR hedging ratio) × FDR hedge portion.
+(4) If a person's quarterly FDR hedging ratio for a quarter is greater than 1.05 and subsection (6) does not apply, then, despite section EM 5, the fair dividend rate hedge portion of each eligible hedge, from 5 working days after the calculation day of the quarter, is calculated using the formula—(0.85 ÷ quarterly FDR hedging ratio) × FDR hedge portion.
 Definition of items in second formula
 (5) In the formula in subsection (4),—
   (a) FDR hedge portion is the fair dividend rate hedge portion of the relevant eligible hedge:
   (b) quarterly FDR hedging ratio is the person's quarterly FDR hedging ratio for the relevant quarter.
+Relationship with subject matter
+(5B) This section overrides section EM 5, but does not apply if and to the extent to which section EM 5B applies.
 Subpart not applied for over-hedging
-(6) If a person's quarterly FDR hedging ratio is greater than 1.05 on the last day of 2 consecutive quarters, then this subpart will not apply to the person for the next 2 quarters. Subpart EW (Financial arrangements rules) applies.
+(6) If a person's quarterly FDR hedging ratio is greater than 1.05 on the calculation day of 2 consecutive quarters, then this subpart will not apply to the person for the next 2 quarters. Subpart EW (Financial arrangements rules) applies.
 
 ### EM 8 Some definitions
 In this subpart,—
@@ -15686,6 +15744,13 @@ In this subpart,—
   - **investor interest** means—
     (a) if the relevant entity is a company, a shareholding that gives the holder an entitlement to a distribution of the proceeds from the entity's investments; or
     (b) if the relevant entity is not a company, an interest that, under the rules of the entity, gives the holder an entitlement to a proportion of the funds available for distribution of the proceeds from the entity's investments, and that distribution is the same as if the entity were a company and the holder were a shareholder in that company
+  - **non-eligible assets** —
+    (a) means assets that are denominated in a foreign currency and not described in section EM 1(1)﻿(a) and (b); but
+    (b) does not include—
+      (i) cash assets totalling less than 5% of the total market value of a person’s assets described in section EM 1(1)﻿(a) and (b), or, at the election of the person, foreign cash assets that relate directly to assets described in section EM 1(1)﻿(a) and (b) and to FDR hedge portions:
+      (ii) eligible hedges:
+      (iii) New Zealand securities listed on a recognised exchange and denominated in a foreign currency to the extent to which the securities are unhedged as to foreign currency
+  - **qualifying hedge fund** means a person that is an investor in a multi-rate PIE, either directly or indirectly through 1 or more multi-rate PIEs, if and to the extent to which income of the multi-rate PIE from an asset described in section EM 1(1)﻿(a) and (b) is attributed to the person
   - **quarterly FDR hedging ratio** means the ratio calculated using the formula in section EM 7(2).
 
 ### Subpart EW — Financial arrangements rules
@@ -22755,6 +22820,23 @@ Cost of residential land
   (a) the cost of the land incurred by the deceased person; and
   (b) all other expenditure incurred by the person, the deceased person, or the administrator or executor of the deceased person, as applicable, for which no deduction has been allowed.
 
+**Exceptions for residential land transferred to trustees of certain trusts or other entities**
+
+### FC 9B Residential land: certain transferors
+For the purposes of calculating a person’s net income in relation to the disposal of residential land for which they derive an amount of income under section CB 6A or CZ 39 (which relate to residential land), if the person is 1 of the following then they are treated as disposing of the relevant land for the greater of either its cost to them or the consideration they derive for the disposal:
+  (a) a person transferring land to a trustee (the recipient), described in section CB 6AB(1) (Residential land transferred in relation to certain family trusts and other capacities), to which that subsection applies:
+  (b) a trustee transferring land to an original settlor (also a recipient), described in section CB 6AB(2), to which that subsection applies:
+  (c) a person in a different capacity (also a recipient), described in section CB 6AB(4), to which that subsection applies:
+  (d) a person transferring land to a Māori trustee (also recipient), described in section CB 6AC(1) (Residential land transferred in relation to certain Māori family trusts), to which that subsection applies:
+  (e) a Māori trustee transferring land to an original settlor (also a recipient), described in section CB 6AC(2), to which that subsection applies:
+  (f) a transferor transferring land to a recipient, described in section CB 6AE (Certain transfers of residential land included in settlement of claim under the Treaty of Waitangi), to which that section applies.
+
+### FC 9C Residential land: certain recipients
+For the purposes of calculating a person’s net income in relation to the disposal of residential land for which they derive an amount of income under section CB 6A or CZ 39 (which relate to residential land), if the person is a recipient of a transfer, as described in section FC 9B(a), (b), (c), (d), or (e), then they are treated as acquiring the relevant land for the greater of either its cost to the person (the transferor) that transferred it to them or the consideration they give the transferor for the land.
+
+### FC 9D Residential land: certain recipients of Treaty of Waitangi land
+For the purposes of calculating a person’s (person A’s) net income in relation to the disposal of residential land for which person A derives an amount of income under section CB 6A or CZ 39 (which relate to residential land), person A is treated as acquiring the land for its market value at the time the land was transferred from the Crown, if person A is the recipient under CB 6AE (Certain transfers of residential land included in settlement of claim under the Treaty of Waitangi).
+
 ### FC 10 Transfers from person to Official Assignee under Insolvency Act 2006
 When this section applies
 (1) This section applies when a person is adjudicated bankrupt under the Insolvency Act 2006 or is subject to a procedure under Part 5 of that Act.
@@ -24521,7 +24603,7 @@ Exclusion of certain amounts
     (i) the disposal of a financial arrangement to which the financial arrangements rules apply; or
     (ii) the remission of a financial arrangement to which the financial arrangements rules apply, if the parties were not consolidated group companies for the whole term of the arrangement; or
   (c) a dividend under section CD 4(1) (Transfers of company value generally) between group companies arising from the release of an obligation to repay money lent before the companies are treated under section FM 35 as part of the consolidated group; or
-  (d) the amount of a dividend derived by a local authority from an entity referred to in section CW 10(3) (Dividend within New Zealand wholly-owned group).
+  (d) the amount of a dividend derived by a local authority.
 
 ### FM 9 Amounts that are company’s income
 When this section applies
@@ -30167,9 +30249,7 @@ Transitional rule
 Rates set out in schedule
 (1) The prescribed investor rate of an investor in a multi-rate PIE is determined under schedule 6, tables 1 and 1B (Prescribed rates: PIE investments and retirement scheme contributions).
 When amount not included in taxable income
-(2) In the determination of a person's prescribed investor rate under subsection (1), the person's taxable income does not include an amount that—
-  (a) arises because their notified investor rate is lower than their prescribed investor rate; and
-  (b) is treated as taxable income because section CX 56 (Attributed income of certain investors in multi-rate PIEs) does not apply.
+(2)
 Increased assessment of trustee arising from election
 (3) In the determination of a trustee’s prescribed investor rate under subsection (1), the amount of the trustee’s assessed taxable income for an income year is treated as not including the amount of an increase in the assessed taxable income that results from an election under section HC 33 (Choosing to satisfy income tax liability of trustee), if the election is made after the beginning of the income year and has an effective date that is or precedes the beginning of the income year.
 
@@ -34227,8 +34307,8 @@ Definition of items in formula
 (3) The items in the formula are defined in subsections (4) and (5).
 Prescribed amount
 (4) Prescribed amount is the sum of the following amounts:
-  (a) for the eldest dependent child for whom the person is a principal caregiver during the entitlement period, $5,878; and
-  (b) for each dependent child for whom the person is a principal caregiver during the entitlement period, other than the eldest dependent child, $4,745.
+  (a) for the eldest dependent child for whom the person is a principal caregiver during the entitlement period, $6,642; and
+  (b) for each dependent child for whom the person is a principal caregiver during the entitlement period, other than the eldest dependent child, $5,412.
 Days
 (5) Days is the number of days in the entitlement period.
 Order in Council increasing amount
@@ -34398,8 +34478,8 @@ Formula
 Definition of items in formula
 (3) In the formula,—
   (a) full-year abatement is,—
-    (i) if the person has no spouse, civil union partner, or de facto partner during the entitlement period, and the person’s family scheme income for the relationship period containing the entitlement period is more than $42,700, 25 cents for each complete dollar of the excess; or
-    (ii) if the person has a spouse, civil union partner, or de facto partner during the entitlement period, and the person’s family scheme income, the family scheme income of their spouse, civil union partner, or de facto partner, or the sum of those incomes for the relationship period containing the entitlement period is more than $42,700, 25 cents for each complete dollar of the excess:
+    (i) if the person has no spouse, civil union partner, or de facto partner during the entitlement period, and the person’s family scheme income for the relationship period containing the entitlement period is more than $42,700, 27 cents for each complete dollar of the excess; or
+    (ii) if the person has a spouse, civil union partner, or de facto partner during the entitlement period, and the person’s family scheme income, the family scheme income of their spouse, civil union partner, or de facto partner, or the sum of those incomes for the relationship period containing the entitlement period is more than $42,700, 27 cents for each complete dollar of the excess:
   (b) days is the number of days in the entitlement period excluding the days of any calendar months in which the person receives protected family tax credit as described in section MD 14.
 When 70-day period crosses 2 tax years and parental tax credit paid in instalments
 (4) If a person who qualifies under section MC 2 (Who qualifies for entitlements under family scheme?) receives instalments of the parental tax credit in a 70-day period that crosses 2 tax years, the formula is applied so that—
@@ -34455,7 +34535,7 @@ Formula
 (2) The formula is—(prescribed amount − net family scheme income) × weekly periods ÷ 52.
 Definition of items in formula
 (3) In the formula,—
-  (a) prescribed amount is $31,096:
+  (a) prescribed amount is $32,864:
   (b) net family scheme income is the net family scheme income, calculated using the formula in section ME 3, for a relationship period containing the entitlement period, of—
     (i) the person; or
     (ii) their spouse, civil union partner, or de facto partner; or
@@ -34711,7 +34791,7 @@ Best Start tax credit for dependent child
 (1) For the purposes of section MG 1(3)﻿(a), the person’s Best Start tax credit for the entitlement period for the dependent child is calculated using the formula—prescribed amount × days ÷ 365.
 Definition of items in formula
 (2) In the formula,—
-  (a) prescribed amount is, for the dependent child, $3,120:
+  (a) prescribed amount is, for the dependent child, $3,388:
   (b) days is the number of days in the entitlement period.
 If dependent child dies during entitlement period
 (3) The person continues to be entitled to the Best Start tax credit for 4 weeks after the dependent child dies, if the person otherwise meets the requirements of section MG 1(1).
@@ -37564,7 +37644,7 @@ Credit date
 
 ### OP 12 Consolidated ICA dividend derived with imputation credit
 Credit
-(1) A consolidated imputation group has an imputation credit for the amount of an imputation credit attached to a dividend derived by a group company.
+(1) A consolidated imputation group has an imputation credit for the amount of an imputation credit attached to a dividend derived by a group company that is not a local authority.
 Table reference
 (2) The imputation credit in subsection (1) is referred to in table O19: imputation credits of consolidated imputation groups, row 7 (dividend derived with imputation credit).
 Credit date
@@ -37717,7 +37797,8 @@ Debit
 No debit
 (2) The debit in subsection (1) does not include—
   (a) a refund of income tax paid by a life insurer to satisfy its schedular income tax liability for schedular policyholder base income; or
-  (b) a refund of income tax paid before a debit arises under section OP 42 to the extent to which the amount of the refund is less than the amount of the debit.
+  (b) a refund of income tax paid before a debit arises under section OP 42 to the extent to which the amount of the refund is less than the amount of the debit; or
+  (c) a refund of income tax or provisional tax paid to a local authority.
 Table references
 (3) The imputation debit in subsection (1) is referred to in table O20: imputation debits of consolidated imputation groups, row 4 (refund of income tax). The imputation debit in subsection (2)﻿(b) is referred to in table O20: imputation debits of consolidated imputation groups, row 16 (debit for loss of shareholder continuity).
 Debit date
@@ -39440,7 +39521,7 @@ Amount of early-payment discount
   (b) 105% of the small-business person’s residual income tax for the income year.
 Discount rate
 (4) The discount rate is—
-  (a) 6.7%, if no rate is set under paragraph (b):
+  (a) the rate that is 2% greater than the Commissioner’s paying rate set by an Order in Council under section 120H of the Tax Administration Act 1994, if no rate is set under paragraph (b):
   (b) the rate set by the Governor-General by Order in Council.
 Secondary legislation
 (5) An Order in Council under subsection (4)﻿(b) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
@@ -40293,22 +40374,26 @@ Liability limited
 (1) An employer is liable to pay FBT on an unclassified benefit only within the limits described in this section.
 Quarterly payment
 (2) When FBT is paid quarterly, an employer is liable for FBT on an unclassified benefit provided to an employee in a quarter only if—
-  (a) the total taxable value of all unclassified benefits provided in the quarter by the employer to the employee is more than $300; or
-  (b) the total taxable value of all unclassified benefits provided in the last 4 quarters including the current quarter by the employer to all employees of the employer, whether accounted for on a quarterly or an income year basis, is more than $22,500.
+  (a) the total taxable value of all unclassified benefits provided in the quarter to the employee by the employer, or by persons associated, at any time in the quarter, with the employer, is more than $300; or
+  (b) the total taxable value of all unclassified benefits in the categories described in subsection (4) provided in the last 4 quarters including the current quarter, whether accounted for on a quarterly or an income year basis, is more than $22,500.
 Yearly payment
-(3) When FBT is paid on either an annual basis or an income year basis, except when subsection (4) applies, an employer is liable for FBT on unclassified benefits provided to an employee in the tax year or income year only if—
-  (a) the total taxable value of all unclassified benefits provided in the tax year or income year by the employer to the employee is more than $1,200; or
-  (b) the total taxable value of all unclassified benefits provided in the tax year or income year by the employer to all employees of the employer is more than $22,500.
+(3) When FBT is paid on either an annual basis or an income year basis, except when subsection (5) applies, an employer is liable for FBT on unclassified benefits provided to an employee in the tax year or income year only if—
+  (a) the total taxable value of all unclassified benefits provided in the tax year or income year to the employee by the employer, or by persons associated, at any time in the tax year or income year, with the employer, is more than $1,200; or
+  (b) the total taxable value of all unclassified benefits in the categories described in subsection (4) provided in the tax year or income year is more than $22,500.
+Categories
+(4) The categories, for an employer, are—
+  (a) unclassified benefits provided by the employer to their employees:
+  (b) unclassified benefits provided by persons associated, at any time in the relevant period, with the employer to employees of the employer:
+  (c) unclassified benefits provided by the employer to employees of persons associated, at any time in the relevant period, with the employer:
+  (d) if the employer is a company, unclassified benefits provided by other companies that are part of the same group of companies as the employer, at any time in the relevant period, to employees of those other companies.
 Period longer or shorter than income year
-(4) When an employer accounts for FBT on an income year basis, and the period for which they have accounted under section RD 60 differs from an income year for the reasons described in subsection (5), an employer is liable for FBT on unclassified benefits provided in the period only if—
-  (a) the total taxable value of all unclassified benefits provided in the period by the employer to an employee is more than the figure that is the same fraction or multiple of $1,200 as the number of days in the period is a fraction or multiple of 365; or
-  (b) the total taxable value of all unclassified benefits provided in the period by the employer to all employees of the employer is more than the figure that is the same fraction or multiple of $22,500 as the number of days in the period is a fraction or multiple of 365.
+(5) When an employer accounts for FBT on an income year basis, and the period for which they have accounted under section RD 60 differs from an income year for the reasons described in subsection (6), an employer is liable for FBT on unclassified benefits provided in the period only if—
+  (a) the total taxable value of all unclassified benefits provided in the period to an employee by the employer, or by persons associated, at any time in the quarter, with the employer, is more than the figure that is the same fraction or multiple of $1,200 as the number of days in the period is a fraction or multiple of 365; or
+  (b) the total taxable value of all unclassified benefits in the categories described in subsection (4) provided in the period is more than the figure that is the same fraction or multiple of $22,500 as the number of days in the period is a fraction or multiple of 365.
 Reasons for difference
-(5) In subsection (4), the income year for which the employer has accounted may be longer or shorter than the normal income year because the employer has either—
+(6) In subsection (5), the income year for which the employer has accounted may be longer or shorter than the normal income year because the employer has either—
   (a) started or ceased business during that income year; or
   (b) chosen, with the agreement of the Commissioner, to file a return under this subpart for the income year ending with the date of the annual balance of their accounts.
-Employer and associated persons
-(6) In this section, employer includes a person associated with them at any time in the relevant period.
 
 ### RD 46 Adjustments for unclassified benefits on amalgamation
 When employer ceases to exist
@@ -40712,8 +40797,9 @@ Inclusions in interest
 Exclusions from dividends
 (5) The following amounts are excluded from a dividend under this section:
   (a) a dividend that is exempt income—
-    (i) through the application of either of sections CW 9 and CW 10 (which relate to income from equity); or
-    (ii) under section CW 27 (Certain income derived by transitional resident):
+    (i) through the application of section CW 9, CW 10, or CW 10B (which relate to income from equity); or
+    (ii) under section CW 27 (Certain income derived by transitional resident); or
+    (iib) under section CW 39 (Local authorities):
     (iii)
   (b) an amount—
     (i) of an association rebate that is excluded from being a dividend by section CB 34(5)﻿(a) (Amounts derived by members from mutual associations); or
@@ -40724,7 +40810,7 @@ Exclusions from dividends
   (e) a dividend that is non-resident passive income:
   (f) a dividend derived by a non-resident other than a dividend that has a source in New Zealand:
   (fb) a dividend paid by a company and derived by another company, if the dividend is fully imputed and the paying company chooses to exclude the dividend from being resident passive income:
-  (g) a dividend paid by a company and derived by another company when both are part of the same group of companies at the time of the payment, other than a dividend referred to in section CW 10(3):
+  (g) a dividend paid by a company and derived by another company when both are part of the same group of companies at the time of the payment:
   (gb) an amount treated as a dividend under section CB 32C (Dividend income for first year of look-through company):
   (h) a dividend that is excluded income under section CX 50B (Contributions to retirement savings schemes) or would be excluded income under that section in the absence of subsection (2)﻿(a) and (b):
   (i) a dividend other than a non-cash dividend that—
@@ -43487,7 +43573,7 @@ In this Act, unless the context requires otherwise,—
     (ab) despite paragraph (a), for the purposes of subpart EE and the definitions of commercial building, commercial fit-out, and residential building, means any place used predominantly as a place of residence or abode, including any appurtenances belonging to or enjoyed with the place:
     (b) does not include any of the following, in whole or part:
       (i) a hospital:
-      (ii) a hotel, motel, inn, hostel, or boardinghouse:
+      (ii) a hotel, motel, inn, hostel, or boarding establishment:
       (iii) a serviced apartment for which paid services in addition to the supply of accommodation are provided to a resident, and in relation to which a resident does not have quiet enjoyment, as that term is used in section 38 of the Residential Tenancies Act 1986:
       (iv) a convalescent home, nursing home, or hospice:
       (v) a rest home or retirement village, except to the extent that, in relation to a relevant place, it is, or can reasonably be foreseen to be, occupied as a person's principal place of residence for independent living:
@@ -43505,12 +43591,12 @@ In this Act, unless the context requires otherwise,—
   - **effective look-through interest** is defined in section HB 1(5) (Look-through companies are transparent)
   - **election commencement year** , for an interest holder and an elective attributing CFC, or elective attributing FIF, of the interest holder for an accounting period, means the first year for which the election under section EX 73 (Election that CFC not non-attributing active CFC or FIF not non-attributing active FIF) for the accounting period was effective
   - **election day worker** means a person to whom all the following apply:
-    (a) the person is engaged as a Deputy Returning Officer, poll clerk, interpreter, or usher, or for any other purpose, for—
+    (a) the person is engaged as an electoral official, interpreter, or usher, or for any other purpose, for—
       (i) an election or poll held under the provisions of the Electoral Act 1993 or the Local Electoral Act 2001; or
       (ii) an election or poll to which any of the provisions of the Electoral Act 1993 or the Local Electoral Act 2001 applies; or
       (iii) an election or poll held simultaneously with and in the same premises as an election or poll referred to in subparagraph (i) or (ii); and
     (b) the person is paid by the authority controlling the election or poll; and
-    (c) the person’s payment is exclusively for work done or services rendered immediately before, on, or immediately after the day on which the election or poll is held
+    (c) the person’s payment is exclusively for work done or services rendered immediately before, on, or immediately after the days on which voting is held in New Zealand for the election or poll
   - **election expiry date** is defined in section HC 30(5) (Treatment of foreign trusts when settlor becomes resident) for the purposes of that section
   - **elective attributing CFC** , for an interest holder and an accounting period, means a CFC for which the interest holder has made an election under section EX 73 (Election that CFC not non-attributing active CFC or FIF not non-attributing active FIF) that is effective for the accounting period
   - **elective attributing FIF** for an interest holder and an accounting period, means a FIF for which the interest holder uses the attributable FIF income method and has made an election under section EX 73 (Election that CFC not non-attributing active CFC or FIF not non-attributing active FIF) that is effective for the accounting period
@@ -43556,7 +43642,7 @@ In this Act, unless the context requires otherwise,—
     (c) in the FBT rules, does not include a person if the only PAYE income payment that they pay or are liable to pay is—
       (i) a payment referred to in section RD 5(1)﻿(b)﻿(iii), (3), (3B), (6)﻿(b), (bb), (bc), and (c), and (7) (Salary or wages):
       (ii) a schedular payment referred to in schedule 4, parts A, I, and W (Standard rates of tax for schedular payments):
-    (d) is defined in section RD 45(6) (Unclassified benefits) for the purposes of that section:
+    (d)
     (db) is defined in section CE 1(3)﻿(a) (Amounts derived in connection with employment) for the purposes of that section and sections CE 1B, and CW 16B to CW 16F (which relate to accommodation provided in connection with employment):
     (e) for an employee, means the employer of the employee
   - **employer contribution** has the same meaning as in the KiwiSaver Act 2006
@@ -43570,7 +43656,7 @@ In this Act, unless the context requires otherwise,—
       (i) for a superannuation fund with 10 or more unassociated members, reserves that have been allocated to a member of the superannuation fund, other than those allocated to an account of the member’s contributions for smoothing investment returns; or
       (ii) for all other superannuation funds, reserves
   - **employer sponsored group policy**
-  - **employer's superannuation cash contribution** is defined in section RD 65(1) (Employer's superannuation cash contributions)
+  - **employer’s superannuation cash contribution** is defined in section RD 65(1) (Employer's superannuation cash contributions)
   - **employer’s superannuation contribution** means a superannuation contribution made by an employer for the benefit of 1 or more of their employees
   - **employer’s workplace** is defined in section CW 17CB(7B) (Payments for certain work-related meals) for the purposes of that section
   - **employing company**
@@ -44917,6 +45003,7 @@ In this Act, unless the context requires otherwise,—
     (b) is payable whether or not the financial arrangement proceeds
   - **non-creditable dividend**
   - **non-discretionary trust** is defined in section HC 16(8) (Ordering rule for distributions from non-complying and foreign trusts) for the purposes of that section
+  - **non-eligible assets** is defined in section EM 8 (Some definitions)
   - **non-executive director** is defined in section CD 20(4) (Benefits of shareholder-employees or directors)
   - **non-filing taxpayer** , for a person and a tax year, means—
     (a) a person whose only income having a source in New Zealand for the tax year is a schedular payment derived in their capacity as a non-resident entertainer and who chooses not to file a return of income for the tax year; or
