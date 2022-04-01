@@ -1,5 +1,5 @@
 # New Zealand Superannuation and Retirement Income Act 2001
-_Consolidation as at 2021-11-16_
+_Consolidation as at 2022-04-01_
 
 ### 1 Title
 This Act is the New Zealand Superannuation and Retirement Income Act 2001.
@@ -231,7 +231,7 @@ The rate of New Zealand superannuation payable to a person is the appropriate ra
     (ii) his or her spouse or partner is entitled to New Zealand superannuation and was entitled to make and had made an election under section 6(2) or section 11(2) of the Social Welfare (Transitional Provisions) Act 1990 before 1 October 1991; or
   (c) an emergency benefit under section 63 of the Social Security Act 2018 at the appropriate rate of a supported living payment payable to a person who is single or is single with 1 or more dependent children, as the case may be, in any other case.
 (2A) See section 89 of the Social Security Act 2018, under which a person to whom this section applies may be entitled to a special disability allowance for the purpose of assisting with expenses arising from the hospitalisation of the person’s spouse or partner.
-(3) Any benefit payable to a person to whom this section applies is not subject to abatement in respect of any income of the person that has been included in a means assessment of the person’s spouse under the Residential Care and Disability Support Services Act 2018.
+(3) Any benefit payable to a person to whom this section applies is not subject to abatement in respect of any income of the person that has been included in a means assessment of the person’s spouse or partner under the Residential Care and Disability Support Services Act 2018.
 (4) This section applies despite anything to the contrary in this Act (except sections 19 and 21 to 35).
 
 ### 18 Appropriate rate for spouses or partners of persons in long-term residential care in hospital or rest home
@@ -954,16 +954,16 @@ In this Part,—old law relating to employment of a person’s spouse or partner
 
 |  |  | $ |
 | --- | --- | --- |
-| 1 | (a)to a single person who is living alone | $506.64 a week |
-|  | (b)to a single person who is not living alone | $466.03 a week |
-|  | (c)to a person who is married or in a civil union or in a de facto relationship | $384.46 a week |
+| 1 | (a)to a single person who is living alone | $538.24 a week |
+|  | (b)to a single person who is not living alone | $495.10 a week |
+|  | (c)to a person who is married or in a civil union or in a de facto relationship | $408.66 a week |
 | 2 | [Repealed] |  |
-| 3 | Hospital rate payable under section 19 to a person who is married or in a civil union or in a de facto relationship and who has no dependent children, or a single person, who receives New Zealand superannuation | An amount that, after income tax is deducted under tax code M (as stated in schedule 5, part A, clause 4, table row 1 of the Tax Administration Act 1994) is equal to $46.56 a week |
+| 3 | Hospital rate payable under section 19 to a person who is married or in a civil union or in a de facto relationship and who has no dependent children, or a single person, who receives New Zealand superannuation | An amount that, after income tax is deducted under tax code M (as stated in schedule 5, part A, clause 4, table row 1 of the Tax Administration Act 1994) is equal to $49.33 a week |
 
 | 1 | Rate payable under clause 7 of Schedule 1AA to a person who is married or in a civil union or in a de facto relationship and whose spouse or partner is not entitled to receive New Zealand superannuation or a veteran’s pension— |  |
 | --- | --- | --- |
-|  | aif, before 1 October 1991, the person was receiving (or had applied for and was entitled to receive) New Zealand superannuation, or a veteran’s pension, at the alternative rate specified in clause 2 of Schedule 1 of the Social Welfare (Transitional Provisions) Act 1990 | $768.92 a week (subject to Income Test 3) or the rate specified in paragraph (b), whichever is the greater |
-|  | bin any other case | $728.64 a week (subject to Income Test 3) |
+|  | aif, before 1 October 1991, the person was receiving (or had applied for and was entitled to receive) New Zealand superannuation, or a veteran’s pension, at the alternative rate specified in clause 2 of Schedule 1 of the Social Welfare (Transitional Provisions) Act 1990 | $817.32 a week (subject to Income Test 3) or the rate specified in paragraph (b), whichever is the greater |
+|  | bin any other case | $774.70 a week (subject to Income Test 3) |
 
 ## Schedule 2 — Specified Pacific countries
 
