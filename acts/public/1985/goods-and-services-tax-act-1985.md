@@ -1,5 +1,5 @@
 # Goods and Services Tax Act 1985
-_Consolidation as at 2022-03-30_
+_Consolidation as at 2022-04-01_
 
 > An Act to make provision for the imposition and collection of goods and services tax
 
@@ -124,6 +124,12 @@ _Consolidation as at 2022-03-30_
     (b) a marketplace approved under section 60D as a supplier of distantly taxable goods or remote services
   - **member** includes a partner, a joint venturer, a trustee, or a member of an unincorporated body
   - **member supply** means a supply by a member of a GST group or supplier group
+  - **mobile roaming services** —
+    (a) means mobile telecommunications services supplied to the mobile device of a person who is outside the country of their usual mobile network as determined by the country code of the subscriber identity module for the person’s mobile device; and
+    (b) includes services supplied to enable a person to receive mobile telecommunications services when the person is outside the country of their usual mobile network determined as described in paragraph (a); and
+    (c) are services that are classified as—
+      (i) inbound mobile roaming services when the services are received by a person who is in New Zealand and whose usual mobile network determined as described in paragraph (a) is outside New Zealand; or
+      (ii) outbound mobile roaming services when the services are received by a person whose usual mobile network determined as described in paragraph (a) is in New Zealand
   - **money** includes—whether of New Zealand or any other country, but does not include a collector's piece, investment article, or item of numismatic interest
     (a) bank notes and other currency, being any negotiable instruments used or circulated, or intended for use or circulation, as currency; and
     (b) postal notes and money orders; and
@@ -622,8 +628,13 @@ This Act shall bind the Crown.
   (c) the value of the supply is less than or equal to $1,000.
 (5) Subsections (3), (4), (4B), and (4D) do not apply to supplies of telecommunications services.
 (6) Despite subsection (2), telecommunications services are treated as being supplied in New Zealand if the supplier is a non-resident and a person, physically in New Zealand, initiates the supply from a telecommunications supplier, whether or not the person initiates the supply on behalf of another person.
-(7) Subsection (6) does not apply to supplies made between telecommunications suppliers.
+(7) Subsection (6) does not apply to—
+  (a) supplies made between telecommunications suppliers:
+  (b) inbound mobile roaming services supplied to a non-resident person.
 (8) Despite subsection (6) and section 8A, telecommunications services supplied by a non-resident to a registered person for the purposes of carrying on the registered person's taxable activity are treated as being supplied outside New Zealand unless the supplier and the recipient of the services agree that this subsection will not apply to the supply.
+(8B) Despite subsection (6) but subject to subsection (8), a supply of telecommunications services is treated as being supplied in New Zealand if—
+  (a) the services are outbound mobile roaming services supplied by a non–resident; and
+  (b) the recipient of the supply is outside New Zealand when the services are supplied.
 (9) For the purposes of subsection (6) and section 11AB, the person who initiates a supply of telecommunications services is the person who—
   (a) is identified by the supplier of the services as being—
     (i) the person who controls the commencement of the supply:
@@ -1050,9 +1061,11 @@ This Act shall bind the Crown.
 (7) Subsection (1)﻿(x) does not apply to a supply of services for which the supplier subsequently makes an election under section 24(5B).
 
 ### 11AB Zero-rating of telecommunications services
-A supply of services that is chargeable with tax under section 8 must be charged at the rate of 0% if—
+(1) A supply of services that is chargeable with tax under section 8 must be charged at the rate of 0% if—
   (a) the services are the supply of telecommunications services to an overseas telecommunications supplier by a telecommunications supplier who is a resident; or
-  (b) the services are the supply of telecommunications services to a person, not being an overseas telecommunications supplier, for a telecommunications service that is initiated outside New Zealand under section 8(9).
+  (b) the services are the supply of telecommunications services to a person, not being an overseas telecommunications supplier, for a telecommunications service that is initiated outside New Zealand under section 8(9); or
+  (c) the services are inbound mobile roaming services supplied to a non-resident.
+(2) Subsection (1)﻿(b) does not apply to outbound mobile roaming services.
 
 ### 11B Zero-rating of some supplies by territorial authorities, some supplies involving contributions to local authorities
 (1) A supply of services that is chargeable with tax under section 8 must be charged at the rate of 0% if the supplier is a territorial authority and the consideration for the supply is proceeds from the local authorities petroleum tax paid to the supplier under section 198 of the Local Government Act 1974.
@@ -2291,7 +2304,7 @@ In any case where, upon the investigation by the Commissioner of the liability o
   (b) at the commencement of any month where there are reasonable grounds for believing that the total value of the supplies to be made in New Zealand in that month and the 11 months immediately following that month will exceed the amount specified in paragraph (a):
   (c) any ending of, including a premature ending of, or any substantial and permanent reduction in the size or scale of, any taxable activity carried on by that person; or
   (d) the replacement of any plant or other capital asset used in any taxable activity carried on by that person; or
-  (e) the supply, to persons who are non-residents but are physically present in New Zealand, of telecommunications services that are treated as being supplied in New Zealand under sections 8(6) and 8A.
+  (e)
 (1B) For the purposes of determining under subsection (1) the liability of a unit title body corporate to be registered, the value of a supply of a service made by the body corporate to a member is not included in the total value of supplies made in New Zealand by the body corporate.
 (1C) For the purposes of subsection (1), if the person is a non-resident supplier making a supply of distantly taxable goods to which section 8(3)﻿(ab) applies or of remote services to which section 8(3)﻿(c) applies, then in determining whether the person is liable to be registered, the person may use a fair and reasonable method of converting foreign currency amounts into New Zealand currency amounts.
 (2) Every person who, by virtue of subsection (1), becomes liable to be registered shall apply to the Commissioner in the prescribed form for registration under this Act, within 21 days of becoming so liable, and provide the Commissioner with such further particulars as the Commissioner may require for the purpose of registering that person.
