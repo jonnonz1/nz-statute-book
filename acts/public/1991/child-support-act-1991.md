@@ -1,5 +1,5 @@
 # Child Support Act 1991
-_Consolidation as at 2022-03-30_
+_Consolidation as at 2022-04-01_
 
 > Title
 
@@ -11,7 +11,7 @@ _Consolidation as at 2022-03-30_
 
 ### 2 Interpretation
 (1) In this Act, unless the context otherwise requires,—
-  - **adjusted taxable income** has the meaning in section 35
+  - **adjusted income** has the meaning in section 35
   - **annual amount of child support** means the amount payable in a child support year by a liable parent in respect of a qualifying child
   - **annual rate of child support** means the total amount payable in a child support year by a liable parent in respect of all of his or her qualifying children
   - **approved form** , in relation to any application or other matter, means a form made available by the Commissioner for the purposes of that application or matter
@@ -54,15 +54,16 @@ _Consolidation as at 2022-03-30_
     (a) employment under a contract of service or apprenticeship which requires the person to work, whether on time or piece rates, not less than an average of 30 hours per week; or
     (b) self-employment of the person in any business, profession, trade, manufacture, or undertaking carried on for pecuniary profit for not less than an average of 30 hours per week; or
     (c) employment of the person for any number of hours which is regarded as full-time employment for the purposes of any award, agreement, or contract relating to that employment
+  - **income** has the same meaning as has in section YA 1 of the Income Tax Act 2007
   - **income amount order** means a determination under Part 5A, 6A, or 6B, or an order under Part 7, that, in relation to a person who is subject to a formula assessment, substitutes a new—
     (a) child support income amount; or
-    (b) amount of taxable income or adjusted taxable income; or
+    (b) amount of income or adjusted income; or
     (c) annual amount of child support
   - **income from employment** has the same meaning as in paragraph (a) of the definition of that term in section YA 1 of the Income Tax Act 2007 in respect of the activities of a specified office
   - **income percentage** means, in relation to a parent of a qualifying child, that parent's percentage of the combined child support income amounts of all the child's parents, as determined under section 33
   - **inflation percentage** means, in relation to a child support year, the movement in the all groups index number of the New Zealand Consumers Price Index during the 12-month period that ends with 31 December before the start of the child-support year
   - **last relevant tax year** means,—
-    (a) in a case where a parent's taxable income for the most recent tax year was derived solely from withholding income, the calendar year ending in that tax year:
+    (a) in a case where a parent's income for the most recent tax year was derived solely from withholding income, the calendar year ending in that tax year:
     (b) in any other case, the tax year immediately preceding the most recent tax year
   - **liable parent** means,—
     (a) in relation to a parent subject to a formula assessment, a parent of a qualifying child who the Commissioner determines under section 17 is a liable parent of the child; and
@@ -103,7 +104,6 @@ _Consolidation as at 2022-03-30_
   - **source deduction payment** means a PAYE income payment (as defined in section RD 3 of the Income Tax Act 2007)
   - **step-parent** , in relation to any child, means, in applying any provision of this Act relating to the liability of a person to pay child support, any person who has been declared to be a step-parent of the child by the Family Court under section 99
   - **tax year** has the meaning in section YA 1 of the Income Tax Act 2007
-  - **taxable income** has the meaning in section YA 1 of the Income Tax Act 2007
   - **unincorporated body of persons** includes—
     (a) a partnership:
     (b) a joint venture:
@@ -462,6 +462,12 @@ The objects of this Act are—
   (a) the combined child support income amounts of both parents of the child; and
   (b) the number of children in the child's child support group; and
   (c) the age group of those children
+(3) However, if no child expenditure table applies because at least 1 child is aged 0 to 12 and 1 or 2 children are aged 13 or over, e is the amount, determined in accordance with the child expenditure table that would apply to the parent in respect of the child if all of the children in the child support group were the same age as the qualifying child, on the basis of—
+  (a) the combined child support income amounts of both parents of the child; and
+  (b) the number of children in the child’s child support group.
+(4) However, the Commissioner may make modifications to the child expenditure amount for the child that the Commissioner considers necessary or desirable if the Commissioner believes on reasonable grounds that—
+  (a) there are exceptional circumstances (for example, exceptional complexity of care arrangements for children within a particular child support group); and
+  (b) applying the provisions of this section without modification would result in an unjust or inequitable outcome (for example, an apportionment of costs that is disproportionate to the amount of expenditure attributable to the child).
 
 ### 31 Annual amount of child support payable by liable parent
 (1) The annual amount of child support payable under a formula assessment by a liable parent in respect of a qualifying child is nil, and section 32 does not apply, if—
@@ -493,27 +499,23 @@ If, after assessing the annual amount of child support payable under a formula a
 A parent's income percentage, in relation to a qualifying child, is the percentage figure derived by dividing the person's child support income amount (as determined under section 34) by the sum of the child support income amounts, in relation to that child, of all the parents of the child.
 
 ### 34 Child support income amount
-(1) A parent's child support income amount for a child support year in relation to a child is the person's adjusted taxable income (determined under section 35) for the child support year minus each of the following:
+(1) A parent's child support income amount for a child support year in relation to a child is the person's adjusted income (determined under section 35) for the child support year minus each of the following:
   (a) the person's living allowance (as determined under section 35A) for the child support year:
   (b) the sum of any dependent child allowances to which the person is entitled under section 35B for the child support year:
   (c) any multi-group allowance that relates to the child and to which the person is entitled under section 36 for the child support year.
 (2) If the result of the calculation in subsection (1) is zero or less, the parent's child support income amount must be treated as being nil.
-(3) If the adjusted taxable income of a parent of a qualifying child cannot reasonably be ascertained, or cannot be applied by the Commissioner, the parent's child support income amount is to be treated as being,—
-  (a) if there is 1 parent whose adjusted taxable income is known, the same as that parent's child support income amount; and
-  (b) if there is more than 1 parent whose adjusted taxable income is known, the average of those parents' child support income amounts.
+(3) If the adjusted income of a parent of a qualifying child cannot reasonably be ascertained, or cannot be applied by the Commissioner, the parent's child support income amount is to be treated as being,—
+  (a) if there is 1 parent whose adjusted income is known, the same as that parent's child support income amount; and
+  (b) if there is more than 1 parent whose adjusted income is known, the average of those parents' child support income amounts.
 
-### 35 Adjusted taxable income
-(1) A person’s adjusted taxable income for a child support year is—
-  (a) the person’s income from employment for the calendar year immediately preceding the start of the child support year if, in the most recent tax year, the person’s taxable income was derived solely from withholding income; or
-  (b) if paragraph (a) does not apply, the person’s taxable income in the tax year immediately preceding the most recent tax year, inflated by the inflation percentage for the child support year.
-(2)
-(3)
-(4)
-(5)
-(6) If a person’s taxable income for a tax year has not been assessed, the Commissioner must determine the person’s taxable income on the basis of the income and any other particulars known to the Commissioner.
-(7) This section is subject to—
-  (a) sections 38 to 39A (which relate to ascertaining taxable income, etc); and
-  (b) sections 40AA to 44A (which permit elections for adjusted taxable income to be assessed using estimated taxable income).
+### 35 Adjusted income
+(1) A person’s adjusted income for a child support year is,—
+  (a) if, in the most recent tax year, the person’s income was derived solely from withholding income, the person’s withholding income for the calendar year immediately preceding the start of the child support year; or
+  (b) if paragraph (a) does not apply, the person’s income derived in the tax year immediately preceding the most recent tax year, inflated by the inflation percentage for the child support year.
+(2) If a person’s income for a tax year has not been assessed, the Commissioner must determine the person’s income on the basis of the income and any other particulars known to the Commissioner.
+(3) This section is subject to—
+  (a) sections 38 to 39A (which relate to ascertaining income, etc); and
+  (b) sections 40AA to 44A (which permit elections for adjusted income to be assessed using estimated income).
 
 ### 35A Living allowance
 (1) A parent's living allowance in a child support year is the appropriate amount referred to in subsection (2)—
@@ -528,9 +530,15 @@ A parent's income percentage, in relation to a qualifying child, is the percenta
 ### 35B Dependent child allowance
 (1) For the purpose of calculating a parent's child support income amount under section 34 in a child support year, a parent is entitled to a dependent child allowance in respect of each of his or her dependent children.
 (2) The amount of a parent's dependent child allowance, in relation to each dependent child, is—c% × (e ÷ n)where—c%is the care cost percentage of the parent in relation to the dependent child (being the percentage that would be determined under section 16 if the child were a qualifying child)eis the amount, determined in accordance with the child expenditure table applying to that child support year, that applies to the parent in respect of the dependent child on the basis of—nis the total number of the parent's dependent children.
-  (a) the child support income amount of the parent alone, with that amount being treated as the adjusted taxable income of the parent, minus the parent's living allowance; and
+  (a) the child support income amount of the parent alone, with that amount being treated as the adjusted income of the parent, minus the parent's living allowance; and
   (b) the total number of the parent's dependent children; and
   (c) the age group of those children
+(2A) However, if no child expenditure table applies because at least 1 child is aged 0 to 12 and 1 or 2 children are aged 13 or over, e is the amount, determined in accordance with the child expenditure table that would apply to the parent in respect of the dependent child if all of the parent’s dependent children were the same age as the dependent child, on the basis of—
+  (a) the child support income amount of the parent alone, with that amount being treated as the adjusted income of the parent, minus the parent’s living allowance; and
+  (b) the total number of the parent’s dependent children.
+(2B) However, the Commissioner may make modifications to the child expenditure amount for the child that the Commissioner considers necessary or desirable if the Commissioner believes on reasonable grounds that—
+  (a) there are exceptional circumstances (for example, exceptional complexity of care arrangements for the parent’s dependent children); and
+  (b) applying the provisions of this section without modification would result in an unjust or inequitable outcome (for example, an apportionment of costs that is disproportionate to the amount of expenditure attributable to the dependent child).
 (3) In this section, a person's dependent child means a child of whom the person is a parent (within the meaning in section 7) and who—
   (a) is maintained as a member of the parent's family and for whom the parent provides at least 28% of the ongoing daily care; and
   (b) is not a child in relation to whom any person is a liable parent or receiving carer, or for whom, under the law of another country, any person is required to make payments that are of the same nature as child support; and
@@ -541,7 +549,7 @@ A parent's income percentage, in relation to a qualifying child, is the percenta
 (2) For the purpose of calculating a parent's child support income amount in relation to a particular child (child C) in a child support year, a parent to whom this section applies is entitled to a multi-group allowance in relation to child C.
 (3) The multi-group allowance in relation to child C is the sum of the multi-group costs of each child (child D) of the parent who is not in the same child support group as child C.
 (4) The multi-group cost of child D is—e ÷ nwhere—eis the amount, determined in accordance with the child expenditure table applying to the relevant child support year, that applies to the parent in respect of child D—nis the total number of children of the parent in all the parent's child support groups.
-  (a) on the basis of the child support income amount of that parent alone, with that amount being treated as the adjusted taxable income of the parent, minus the parent's living allowance and the sum of any dependent child allowances to which the parent is entitled; and
+  (a) on the basis of the child support income amount of that parent alone, with that amount being treated as the adjusted income of the parent, minus the parent's living allowance and the sum of any dependent child allowances to which the parent is entitled; and
   (b) as if—
     (i) child D were one of n children; and
     (ii) all those children were the same age as child D
@@ -581,43 +589,49 @@ A parent's income percentage, in relation to a qualifying child, is the percenta
   (b) at all reasonable times, on an Internet site maintained by or on behalf of the Inland Revenue Department.
 (3) Whenever an income amount is used in relation to the child expenditure table, the income amount must be truncated to whole dollars.
 
-**Provisions relating to taxable income**
+**Provisions relating to income**
 
 ### 37 Nil assessment of taxable income
 [Repealed]
 
 ### 38 Application of assessments under Income Tax Act 1976 or Tax Administration Act 1994
-(1) Subject to this Part, where an assessment has been made of a person's taxable income under the Income Tax Act 1976 (other than an assessment made under section 21 of that Act or the Tax Administration Act 1994 (other than an assessment made under section 106 of that Act)) for any income year, then, in making a formula assessment, the person's taxable income under the relevant one of those Acts for that income year is, for the purposes of this Act, to be taken to be that taxable income as so assessed or as last so assessed, as the case may be, before the making of the formula assessment.
-(2) Subsection (1) has effect despite the making, after the making of the formula assessment, of an amendment under the Income Tax Act 1976 or the Tax Administration Act 1994 to the relevant assessment of the person's taxable income under the relevant one of those Acts (whether or not the amendment is made because of an objection in relation to the assessment).
-(3) Subsection (2) does not apply in relation to the person in any case where—and, where such an amendment is made, the person's taxable income under the relevant Act for that income year is to be taken to be, and always to have been, the person's taxable income for the income year as last so assessed under the relevant Act, and the Commissioner shall amend the formula assessment accordingly.
-  (a) the taxable income of that person assessed under the Income Tax Act 1976 or the Tax Administration Act 1994 in any amended assessment made after the making of a formula assessment for a child support year is more than $500 in excess of, or less than, the taxable income of that person assessed, or last assessed, before the making of the formula assessment; and
+(1) Subject to this Part, where an assessment has been made of a person's income under an income tax Act (other than an assessment made where there has been default in furnishing returns) or the Tax Administration Act 1994 (other than an assessment made under section 106 of that Act)) for any income year, then, in making a formula assessment, the person's income under the relevant one of those Acts for that income year is, for the purposes of this Act, to be taken to be that income as so assessed or as last so assessed, as the case may be, before the making of the formula assessment.
+(2) Subsection (1) has effect despite the making, after the making of the formula assessment, of an amendment under an income tax Act or the Tax Administration Act 1994 to the relevant assessment of the person's income under the relevant one of those Acts (whether or not the amendment is made because of an objection in relation to the assessment).
+(3) Subsection (2) does not apply in relation to the person in any case where—and, where such an amendment is made, the person's income under the relevant Act for that income year is to be taken to be, and always to have been, the person's income for the income year as last so assessed under the relevant Act, and the Commissioner shall amend the formula assessment accordingly.
+  (a) the income of that person assessed under an income tax Act or the Tax Administration Act 1994 in any amended assessment made after the making of a formula assessment for a child support year is more than $500 in excess of, or less than, the income of that person assessed, or last assessed, before the making of the formula assessment; and
   (b) notice of the amended assessment is issued by the Commissioner on or before the last day in the child support year;—
-(4) Subsection (2) does not apply in relation to the person in any case where the reason (or one of the reasons) that the amendment was made was because, in the opinion of the Commissioner, the return of income made by the person under the Income Tax Act 1976 or the Tax Administration Act 1994 was fraudulent or wilfully misleading or omitted all mention of income which is of a particular nature or was derived from a particular source, and, where such an amendment is made, the person's taxable income under the relevant Act for that income year is to be taken to be, and always to have been, the person's taxable income for the income year as last so assessed under the relevant Act.
-(5) Where—then, in subsequently amending the formula assessment other than for the purpose of giving effect to the provisions of section 39(3) of this Act, the amendment made under the Income Tax Act 1976 or the Tax Administration Act 1994 is to be disregarded.
+(4) Subsection (2) does not apply in relation to the person in any case where the reason (or one of the reasons) that the amendment was made was because, in the opinion of the Commissioner, the return of income made by the person under an income tax Act or the Tax Administration Act 1994 was fraudulent or wilfully misleading or omitted all mention of income which is of a particular nature or was derived from a particular source, and, where such an amendment is made, the person's income under the relevant Act for that income year is to be taken to be, and always to have been, the person's income for the income year as last so assessed under the relevant Act.
+(5) Where—then, in subsequently amending the formula assessment other than for the purpose of giving effect to the provisions of section 39(3) of this Act, the amendment made under an income tax Act or the Tax Administration Act 1994 is to be disregarded.
   (a) the Commissioner, applying subsection (1), assesses the annual amount of child support payable by a person; and
-  (b) after the making of the formula assessment, an amendment is made under the Income Tax Act 1976 or the Tax Administration Act 1994 to the relevant assessment of the taxable income of any parent for the last relevant income year; and
+  (b) after the making of the formula assessment, an amendment is made under an income tax Act or the Tax Administration Act 1994 to the relevant assessment of the income of any parent for the last relevant income year; and
   (c) neither subsection (3) nor subsection (4) applies in relation to the amendment,—
 (6) Where—the assessment is to be taken, for the purposes of this section, to have been made on the date of the notice.
-  (a) notice of an assessment (including an amended assessment) of a person's taxable income under the Income Tax Act 1976 or the Tax Administration Act 1994 has been given under the relevant one of those Acts; and
+  (a) notice of an assessment (including an amended assessment) of a person's income under an income tax Act or the Tax Administration Act 1994 has been given under the relevant one of those Acts; and
   (b) the notice was dated,—
 (7) Nothing in this section is to be taken to prevent the Commissioner making a determination under Part 5A, 6A, or 6B or the court making an order under Part 7.
+(8) In this section, unless the context otherwise requires,—
+  - **assessment made where there has been default in furnishing returns** means an assessment made if any person makes default furnishing a return, including by—
+    (a) providing information in a return or an account that is not likely to be correct; or
+    (b) providing a return that the Commissioner is not otherwise satisfied with; or
+    (c) not making a return where the Commissioner has reason to suppose that the person is a taxpayer
+  - **income tax Act** means all or any of the Income Tax Act 1976, the Income Tax Act 1994, the Income Tax Act 2004, and the Income Tax Act 2007.
 
 ### 38A Position where taxable income from withholding income not available for full tax year
 [Repealed]
 
-### 39 Position where taxable income not readily ascertainable
-(1) Where—the Commissioner may, in making a formula assessment, estimate the taxable income derived by that person in the last relevant tax year.
-  (a) the Commissioner is unable to readily ascertain a person's taxable income for the last relevant tax year; and
-  (b) the Commissioner has requested or required that person—(whether the requirement was made under this Act, or under the Income Tax Act 1976 or the Tax Administration Act 1994 or otherwise) for the purposes of ascertaining that taxable income; and
+### 39 Position where income not readily ascertainable
+(1) Where—the Commissioner may, in making a formula assessment, estimate the income derived by that person in the last relevant tax year.
+  (a) the Commissioner is unable to readily ascertain a person's income for the last relevant tax year; and
+  (b) the Commissioner has requested or required that person—(whether the requirement was made under this Act, or under the Income Tax Act 1976 or the Tax Administration Act 1994 or otherwise) for the purposes of ascertaining that income; and
     (i) to supply a return of income for the last relevant tax year; or
     (ii) to supply an estimate of income for the last relevant tax year; or
     (iii) to supply an estimate of the income expected to be derived in the child support year; or
     (iv) to give information (whether orally or in writing), or to produce a document,—
   (c) the person has refused or failed to comply with the request or requirement,—
 (2)
-(3) If—the Commissioner shall, as soon as practicable, amend the formula assessment on the basis that the person's taxable income for the last relevant tax year is, and has always been, the subsequently ascertained taxable income.
+(3) If—the Commissioner shall, as soon as practicable, amend the formula assessment on the basis that the person's income for the last relevant tax year is, and has always been, the subsequently ascertained income.
   (a) the Commissioner has applied subsection (1) in making a formula assessment; and
-  (b) the Commissioner subsequently ascertains the person's taxable income for the last relevant tax year (whether or not an assessment has been made under the Income Tax Act 1976 or the Tax Administration Act 1994 in respect of that year),—
+  (b) the Commissioner subsequently ascertains the person's income for the last relevant tax year (whether or not an assessment has been made under the Income Tax Act 1976 or the Tax Administration Act 1994 in respect of that year),—
 
 ### 39A Commissioner may take overseas income into account
 (1) The Commissioner may, in making a formula assessment, take into account any income derived by a parent resident in a country outside New Zealand if the Commissioner is of the opinion that the income can be ascertained on the basis of information in the Commissioner's possession.
@@ -633,40 +647,51 @@ A parent's income percentage, in relation to a qualifying child, is the percenta
   (f) section 44 allows for reconciliations of estimated and actual income derived by a parent outside New Zealand:
   (g) section 81 enables the Commissioner to require the parent to supply a return or estimate of the parent's overseas income.
 
-**Estimate of taxable income**
+**Estimate of income**
 
 ### 40AA Interpretation for purposes of sections 40 to 45
 In sections 40 to 45, unless the context otherwise requires,—
-  - **annualised estimated taxable income** means the amount that a person estimates will be their taxable income in an election period, annualised (if the estimate does not cover a full child support year) in accordance with the following formula:(a ÷ b) × 365where—ais the person’s estimated taxable income for the election periodbis the number of days in the election period
-  - **election** means an election, made by a person under section 40, to have the person’s estimated taxable income, instead of their income referred to in section 35(1)﻿(a) or (b), applied for the purpose of calculating the person’s adjusted taxable income for an election period
+  - **annualised estimated taxable income** means the amount that a person estimates will be their income in an election period, annualised (if the estimate does not cover a full child support year) in accordance with the following formula:(a ÷ b) × 365where—ais the person’s estimated income for the election periodbis the number of days in the election period
+  - **election** means an election, made by a person under section 40, to have the person’s estimated income, instead of their income referred to in section 35(1)﻿(a) or (b), applied for the purpose of calculating the person’s adjusted income for an election period
   - **election period** , in relation to a child support year to which an election relates, means,—
     (a) if notice of the election is given under section 40 before the start of the child support year, the child support year; and
-    (b) if notice of the election is given during the child support year, the period in the child support year that starts on the first day of the month in which the notice is given under section 40 and ends on the last day of the child support year
-  - **estimated taxable income** means the amount specified in a notice of election given by a person under section 40 as the amount of taxable income that the person estimates that he or she will earn in the election period
-  - **original adjusted taxable income** means the adjusted taxable income that would have been used to assess a person's child support liability during an election period if the person had not made an election
-  - **year-to-date income** means a person's taxable income specified in a notice of election given under section 40 for the period beginning with the start of a child support year and ending with the end of the month immediately preceding the month in which the notice of an election is given.
+    (b) if notice of the election is given under section 40(1) during the child support year, the period in the child support year that starts on the first day of the month in which the notice is given and ends on the last day of the child support year; and
+    (c) if notice of the election is given during or after the child support year under section 40(8), the period that—
+      (i) starts on the later of the first day of that child support year and the first day of the month in which the formula assessment begins; and
+      (ii) ends on the last day of that child support year
+  - **estimated taxable income** means the amount specified in a notice of election given by a person under section 40 as the amount of income that the person estimates that he or she will earn in the election period
+  - **original adjusted taxable income** means the adjusted income that would have been used to assess a person's child support liability during an election period if the person had not made an election
+  - **reconciliation period** has the meaning given in section 44(3D)
+  - **year-to-date income** means a person's income specified in a notice of election given under section 40 for the period beginning with the start of a child support year and ending with the end of the month immediately preceding the month in which the election period starts.
 
 **Election that child support income be based on estimated taxable income for current year**
 
-### 40 Estimated taxable income
-(1) Any person may, by notice to the Commissioner given before or during a child support year, elect that the income to be used to assess their adjusted taxable income for an election period relating to that child support year must be the estimated taxable income specified in the notice of election.
-(2) The Commissioner, subject to subsections (4) and (6), must accept an election if the sum of the person's year-to-date income (if any) and the person's estimated taxable income is 85% or less than the person's original adjusted taxable income.
+### 40 Estimated income
+(1) Any person may, by notice to the Commissioner given before or during a child support year, elect that the income to be used to assess their adjusted income for an election period must be the estimated income specified in the notice of election.
+(2) The Commissioner, subject to subsections (4) and (6), must accept an election if the sum of the person's year-to-date income (if any) and the person's estimated income is 85% or less than the person's original adjusted income.
 (3) A notice of election must,—
-  (a) if notice of the election is given before the start of the child support year to which it relates, state the person's estimated taxable income for the full child support year; or
+  (a) if notice of the election is given before the start of the child support year to which it relates, state the person's estimated income for the full child support year; or
   (b) if notice of the election is given during the child support year to which it relates, state—
     (i) the person's year-to-date income; and
-    (ii) the person's estimated taxable income for the election period.
+    (ii) the person's estimated income for the election period; or
+    (c) if notice of the election is given after the child support year to which it relates, state—
+      (i) the person’s year-to-date income; and
+      (ii) the person’s estimated income for the election period.
 (4) The Commissioner may not accept an election if—
   (a) an income amount order is in force in relation to the person, and to any months in the child support year in respect of which the election is to apply; or
   (b) the person is subject to an order of the court under section 187; or
-  (c) the person has made an election within the previous 3 months, and the proposed new election would change the person’s annualised estimated taxable income by $500 or less; or
+  (c) the person has made an election within the previous 3 months, and the proposed new election would change the person’s annualised estimated income by $500 or less; or
   (d) the person made an election in relation to an earlier child support year and was required to provide a return of income under the Income Tax Act 2007 or the Tax Administration Act 1994 in relation to that year, but, at the time the notice is given under this section, the person is in breach of the requirement to furnish a return of income in respect of that year; or
-  (e) the person's annualised estimated taxable income is more than their original adjusted taxable income.
+  (da) notice of the election is given after the child support year to which it relates, and the person has made an earlier election for that child support year; or
+  (e) the person's annualised estimated income is more than their original adjusted income.
 (5) A notice under this section may be given in any form acceptable to the Commissioner, and is to be treated by the Commissioner as having been given in the month in which it was sent or provided by the person making the election, even if it is received by the Commissioner in the following month.
 (6) The Commissioner may decline to accept an election if the person making the election does not, on request by the Commissioner, provide the information and evidence that the Commissioner requires in order to support the making of the estimate.
+(7) Subsection (8) applies to any person who receives an assessment unless they already have an existing assessment of child support.
+(8) The person may make an election during or after a child support year to which the election relates, provided the election is received by the Commissioner on or before the 28th day after notification of the assessment.
+(9) If an election is made after a child support year under subsection (8), this section applies as if separate elections were made for each child support year to which the assessment relates.
 
 ### 41 Effect of election
-(1) If the Commissioner accepts an election made by a person, the Commissioner must determine the person's adjusted taxable income by calculating the person’s annualised estimated taxable income.
+(1) If the Commissioner accepts an election made by a person, the Commissioner must determine the person's adjusted income by calculating the person’s annualised estimated income.
 (2) The Commissioner must then adjust any formula assessment applying to the person during the election period and take whatever steps are necessary to ensure that the amount of child support payable per day during the election period reflects the adjusted assessment.
 (3) The making of an election does not prevent the Commissioner making a determination under Part 5A, 6A, or 6B, or the court making an order under Part 7.
 
@@ -676,30 +701,47 @@ In sections 40 to 45, unless the context otherwise requires,—
   (a) if the Commissioner accepts the later election,—
     (i) the later election takes effect from the start of the month in which the notice of election is given, and section 41 applies accordingly; and
     (ii) the earlier election ceases to have effect on the last day of the previous month:
-  (b) if the Commissioner does not accept the later election because the amount of year-to-date taxable income plus the new estimated taxable income is more than 85% of the person's original adjusted taxable income, then the earlier estimate is deemed to be revoked:
+  (b) if the Commissioner does not accept the later election because the amount of year-to-date income plus the new estimated income is more than 85% of the person's original adjusted income, then the earlier estimate is deemed to be revoked:
   (c) if the Commissioner does not accept the election for any other reason, the earlier estimate remains in effect.
 (3) A revocation is of no effect to the extent that it is inconsistent with an income amount order.
 
 ### 43 Effect of revocation of election
 (1) When an election is revoked, or deemed to be revoked, the Commissioner must—
-  (a) adjust any formula assessment applying to the person on the basis of the person's original adjusted taxable income; and
+  (a) adjust any formula assessment applying to the person on the basis of the person's original adjusted income; and
   (b) take whatever steps are necessary to ensure that the amount of child support payable per day, during the election period to which the revoked election relates, reflects that adjusted assessment.
 (2) The revocation of an election does not prevent the Commissioner making a determination under Part 5A, 6A, or 6B, or the court making an order under Part 7, or a person making a further election.
 
 ### 44 End-of-year reconciliation
-(1) For the purpose of determining whether a person has, or has been, underpaid or overpaid child support in an election period, after the end of the child support year to which an election relates, the Commissioner must complete an assessment for the person treating the amount determined under subsection (2) as the person’s adjusted taxable income.
-(2) The amount to be treated as the person’s adjusted taxable income for the purposes of the assessment is,—
-  (a) if the actual taxable income earned by the person during the year is equal to or less than the year-to-date income specified in the notice of election, nil; or
-  (b) if the actual taxable income earned by the person during the year is more than the year-to-date income specified in the notice of election, the lesser of the following:
-    (i) the person's actual taxable income earned in the election period (which is the actual taxable income earned in the full year less the year-to-date income specified in a notice of election), annualised in accordance with the formula in subsection (3) (which gives the annualised actual taxable income in the election period):
-    (ii) the person's original adjusted taxable income.
-(3) The formula for annualising a person's actual taxable income in an election period is—(a ÷ b) × 365where—ais the actual taxable income earned during the election periodbis the number of days in the election period.
+(1) For the purpose of determining whether a person has, or has been, underpaid or overpaid child support in a reconciliation period (period A), after the end of the child support year to which an election relates, the Commissioner must complete an assessment for the person who made the election (person A), treating the amount determined under subsection (2) or (3B) as person A’s adjusted income.
+(1A) Subsections (2) and (3) apply if period A is the only election period, or the last election period, in the child support year.
+(2) The amount to be treated as person A’s adjusted income for the purposes of the assessment is,—
+  (a) if the actual income earned by person A during the year is equal to or less than the year-to-date income specified in the notice of election, nil; or
+  (b) if the actual income earned by person A during the year is more than the year-to-date income specified in the notice of election, the lesser of the following:
+    (i) person A’s actual income earned in period A (which is the actual income earned in the full year less the year-to-date income specified in the notice of election), annualised in accordance with the formula in subsection (3) (which gives the annualised actual income in the reconciliation period):
+    (ii) person A’s original adjusted income.
+(3) The formula for annualising person A’s actual income in a reconciliation period is—(a ÷ b) × 365where—ais the actual income earned during the reconciliation periodbis the number of days in the reconciliation period.
+(3A) Subsections (3B) and (3C) apply if period A is a period that is not referred to in subsection (1A).
+(3B) The amount to be treated as person A’s adjusted income for the purposes of the assessment is,—
+  (a) if the actual income earned by person A during the year is equal to or less than the year-to-date income specified in the notice of election, nil; or
+  (b) if the actual income earned by person A during the year is more than the year-to-date income specified in the notice of election, the lesser of the following:
+    (i) person A’s actual income earned in period A, annualised in accordance with the formula in subsection (3C) (which gives the annualised actual income in the reconciliation period):
+    (ii) person A’s original adjusted income.
+(3C) The formula for annualising person A’s actual income in a reconciliation period is—((a − z) ÷ b) × 365where—ais the year-to-date income specified in the estimate for the period that immediately succeeds period Azis the year-to-date income specified in the estimate for period Abis the number of days in the reconciliation period.
+(3D) In this section, unless the context otherwise requires,—
+  - **reconciliation period** , in relation to an election, means a period that—
+    (a) starts on,—
+      (i) if the notice of the election is given before the start of the child support year, the start of the child support year; or
+      (ia) if the notice of the election is given during or after the child support year under section 40(8), the later of the first day of the child support year and the first day of the month in which the formula assessment begins; or
+      (ii) otherwise, the first day of the month in which the notice is given; and
+    (b) ends with the close of—
+      (i) the last day of the month before any other immediately subsequent election period starts in relation to another election; or
+      (ii) otherwise, the last day of the child support year.
 (4) After comparing the result of the assessment done under subsection (1) with the results obtained under section 41, the Commissioner must take whatever steps are necessary to ensure that the correct amount of child support is assessed for the child support year.
 (5) A reconciliation under this section is subject to any income amount order that applies during all or any part of an election period.
 
 ### 44A Determining income amount if no tax return filed
-(1) This section applies if the Commissioner cannot determine the person's actual taxable income during a child support year because the person, having been required to provide a return of income in respect of the tax year that corresponds to the child support year, has failed to provide it within 28 days of the requirement to provide it.
-(2) Where this section applies, the Commissioner must determine that the amount to be treated as the person’s adjusted taxable income for the purpose of the assessment under section 44(2) is the same as the person’s original adjusted taxable income, unless the Commissioner is satisfied that there is reasonable cause for the failure to provide the return of income.
+(1) This section applies if the Commissioner cannot determine the person's actual income during a child support year because the person, having been required to provide a return of income in respect of the tax year that corresponds to the child support year, has failed to provide it within 28 days of the requirement to provide it.
+(2) Where this section applies, the Commissioner must determine that the amount to be treated as the person’s adjusted income for the purpose of the assessment under section 44(2) or (3B) is the same as the person’s original adjusted income, unless the Commissioner is satisfied that there is reasonable cause for the failure to provide the return of income.
 (3) A determination under subsection (2) is final unless, within 28 days after the person receives notification from the Commissioner of the determination, the person—
   (a) makes an objection under section 90; or
   (b) provides a return of income in respect of the relevant tax year to the Commissioner.
@@ -1135,7 +1177,7 @@ In assessing the annual rate at which child support or domestic maintenance is p
   (c) the names of any non-parent receiving carers of the child (subject to section 88(5)):
   (d) the proportion of ongoing daily care that the Commissioner has established (under section 14) that the liable parent provides to the child:
   (e) the care cost percentage of the liable parent in relation to the child, as determined under section 16:
-  (f) the liable parent's adjusted taxable income or such other details as the Commissioner considers appropriate of any income of the liable parent taken into account in making the assessment:
+  (f) the liable parent's adjusted income or such other details as the Commissioner considers appropriate of any income of the liable parent taken into account in making the assessment:
   (g) the first names and date of birth of every dependent child (as defined in section 35B(3)) of the liable parent and the sum of any dependent child allowances to which the liable parent is entitled:
   (h) the amount of any multi-group allowance to which the liable parent is entitled:
   (i) the liable parent's child support income amount in relation to the child:
@@ -1147,7 +1189,7 @@ In assessing the annual rate at which child support or domestic maintenance is p
   (c) the names of any non-parent receiving carers of the child (subject to section 88(5):
   (d) the proportion of ongoing daily care that the Commissioner has established (under section 14) that the parent provides to the child:
   (e) the care cost percentage of the parent in relation to the child, as determined under section 16:
-  (f) the parent's adjusted taxable income or such other details as the Commissioner considers appropriate of any income of the parent taken into account in making the assessment:
+  (f) the parent's adjusted income or such other details as the Commissioner considers appropriate of any income of the parent taken into account in making the assessment:
   (g) the first names and date of birth of every dependent child (as defined in section 35B(3)) of the parent and the sum of any dependent child allowances to which the parent is entitled:
   (h) the amount of any multi-group allowance to which the parent is entitled:
   (i) the parent's child support income amount in relation to the child:
@@ -2052,10 +2094,10 @@ The Supreme Court, the Court of Appeal, the High Court, the District Court, and 
     (ii) any payments, and any transfer or settlement of property, previously made (whether under this Act, the Property (Relationships) Act 1976 or otherwise) by the liable parent or a receiving carer to the child, to a liable parent or a receiving carer, or to any other person for the benefit of the child; or
     (iii) an entitlement of the liable parent or receiving carer to the continued occupancy of a property in which the liable parent or receiving carer has a financial interest; or.
   (d) that the application in relation to the child of the provisions of this Act relating to formula assessment of child support would result in an unjust and inequitable determination of the level of child support to be provided by the liable parent for the child in respect of a child support year because—
-    (i) the adjusted taxable income of a parent of the child for the child support year includes income from relevant additional work (see subsections (3A) to (3C)); and
+    (i) the adjusted income of a parent of the child for the child support year includes income from relevant additional work (see subsections (3A) to (3C)); and
     (ii) some or all of the income from relevant additional work has been used, or will be used, by the parent to meet, wholly or partly, actual and reasonable costs incurred to re-establish himself or herself, and any child or other person that he or she has a duty to maintain, after the child's parents ceased to live together in a marriage, civil union, or de facto relationship.
   (e)
-(3) For the purposes of subsection (2)﻿(b)﻿(i), costs incurred in enabling a parent or receiving carer to have contact with the child are not to be taken to be high unless the total of those costs during a child support year is more than 5% of the adjusted taxable income for the year of the person incurring the costs.
+(3) For the purposes of subsection (2)﻿(b)﻿(i), costs incurred in enabling a parent or receiving carer to have contact with the child are not to be taken to be high unless the total of those costs during a child support year is more than 5% of the adjusted income for the year of the person incurring the costs.
 (3A) In subsection (2)﻿(d), relevant additional work means work done by the parent during the relevant 3-year period that, in quantity or nature or both, is additional to work that he or she did before the child's parents ceased to live together in a marriage, civil union, or de facto relationship.
 (3B) In subsection (3A), the relevant 3-year period means the 3-year period starting on the date on which the child’s parents ceased to live together in a marriage, civil union, or de facto relationship.
 (3C) For the purpose of calculating that 3-year period, the court may exclude a period or periods of resumed cohabitation with, or each with, the sole or main motive of reconciliation if that period does not exceed, or those periods in aggregate do not exceed, 3 months.
@@ -2082,7 +2124,7 @@ The Supreme Court, the Court of Appeal, the High Court, the District Court, and 
 ### 106 Orders that may be made
 (1) In determining an application made under section 104, a court may make any of the following orders:
   (a) an order departing from some or all of the provisions of this Act by substituting a different amount for any of the following amounts as they relate to a formula assessment, or prescribing an amount or a percentage by which any of those amounts must be varied:
-    (i) a person's adjusted taxable income:
+    (i) a person's adjusted income:
     (ii) a person's living allowance:
     (iii) a person's dependent child allowance:
     (iv) a person's child support income amount:
@@ -2096,9 +2138,9 @@ The Supreme Court, the Court of Appeal, the High Court, the District Court, and 
 (4) Every order made under this section shall specify the period of time in which the order is to apply or specify the event the occurrence of which will cause the order to terminate.
 
 ### 106A Further provision on orders for re-establishment costs situations if income increases
-The amount that an order under section 106 on the ground in section 105(2)﻿(d) excludes, or in effect excludes, from the parent’s adjusted taxable income is not to exceed the lesser of the following:
+The amount that an order under section 106 on the ground in section 105(2)﻿(d) excludes, or in effect excludes, from the parent’s adjusted income is not to exceed the lesser of the following:
   (a) so much of the income from relevant additional work as has been used, or will be used, by the parent as referred to in section 105(2)﻿(d)﻿(ii):
-  (b) 30% of the parent’s adjusted taxable income.
+  (b) 30% of the parent’s adjusted income.
 
 ### 106B Further provision on orders for offsetting of liabilities situations
 [Repealed]
@@ -3983,19 +4025,19 @@ The amendment to section 152B made by section 241 of the 2022 Act applies to all
 
 ## Schedule 3 — Expenditure on children
 
-| Fraction of AWE | Percentages of child support income amounts |  |  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|  | Age group: all children aged 0 to 12 |  |  | Age group: all, or the oldest 3, children aged 13 or over |  |  | Age group: at least 1 child aged 0 to 12, and 1 or 2 children aged 13 or over |  |
-|  | Number of children |  |  | Number of children |  |  | Number of children |  |
-|  | 1 | 2 | 3 or more | 1 | 2 | 3 or more | 2 | 3 or more |
-| Up to and including 0.5 | 17% | 24% | 27% | 23% | 29% | 32% | 26.5% | 29.5% |
-| More than 0.5 but no more than 1 | 15% | 23% | 26% | 22% | 28% | 31% | 25.5% | 28.5% |
-| More than 1 but no more than 1.5 | 12% | 20% | 25% | 12% | 25% | 30% | 22.5% | 27.5% |
-| More than 1.5 but no more than 2 | 10% | 18% | 24% | 10% | 20% | 29% | 19% | 26.5% |
-| More than 2 but no more than 2.5 | 7% | 10% | 18% | 9% | 13% | 20% | 11.5% | 19% |
-| More than 2.5 | † | † | † | † | † | † | † | † |
-| *Average weekly earnings, as published by Statistics New Zealand (for all industries, males and females combined) for the June quarter in the immediately preceding child support year. The weekly earnings are annualised. |  |  |  |  |  |  |  |  |
-| †For child support income amounts that exceed 2.5 times AWE, the marginal expenditure on children does not increase. The relevant amounts to be inserted in a child expenditure table in this row are therefore the maximum amounts from the row immediately above it. |  |  |  |  |  |  |  |  |
+| Fraction of AWE | Percentages of child support income amounts |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | Age group: all children aged 0 to 12 |  |  | Age group: all children aged 13 or over |  |  |
+|  | Number of children |  |  | Number of children |  |  |
+|  | 1 | 2 | 3 or more | 1 | 2 | 3 or more |
+| Up to and including 0.5 | 17% | 24% | 27% | 23% | 29% | 32% |
+| More than 0.5 but no more than 1 | 15% | 23% | 26% | 22% | 28% | 31% |
+| More than 1 but no more than 1.5 | 12% | 20% | 25% | 12% | 25% | 30% |
+| More than 1.5 but no more than 2 | 10% | 18% | 24% | 10% | 20% | 29% |
+| More than 2 but no more than 2.5 | 7% | 10% | 18% | 9% | 13% | 20% |
+| More than 2.5 | † | † | † | † | † | † |
+| *Average weekly earnings, as published by Statistics New Zealand (for all industries, males and females combined) for the June quarter in the immediately preceding child support year. The weekly earnings are annualised. |  |  |  |  |  |  |
+| †For child support income amounts that exceed 2.5 times AWE, the marginal expenditure on children does not increase. The relevant amounts to be inserted in a child expenditure table in this row are therefore the maximum amounts from the row immediately above it. |  |  |  |  |  |  |
 
 ### 1 Short Title and commencement
 (1) This Act may be cited as the Child Support Amendment Act 1993, and shall be read together with and deemed part of the Child Support Act 1991 (hereinafter referred to as the principal Act).
