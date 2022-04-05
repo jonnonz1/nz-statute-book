@@ -362,14 +362,14 @@ After section 99P, insert:Offences, regulations, and administrative provisions
 ### 48 Schedule 1AA amended
 (1) In Schedule 1AA, clause 12, insert as subclause (2):
   (2) Subclause (1) applies on and after section 65AE repeals sections 65AA to 65AD. If the epidemic period, as defined in section 65AA(1), ends on the date on which section 24 of the Commerce Amendment Act 2022 comes into force, see clause 20.
-(2) In Schedule 1AA, after Part 3, insert the Part 4 set out in Part 1 of the Schedule of this Act.
-(3) In Schedule 1AA, after clause 14 (as inserted by subsection (2)), insert the clauses 15 to 24 set out in Part 2 of the Schedule of this Act.
+(2) In Schedule 1AA, after Part 4, insert the Part 5 set out in Part 1 of the Schedule of this Act.
+(3) In Schedule 1AA, after clause 14 (as inserted by subsection (2)), insert the clauses 18 to 27 set out in Part 2 of the Schedule of this Act.
 
-## Schedule  — New Part 4 inserted into Schedule 1AA
+## Schedule  — New Part 5 inserted into Schedule 1AA
 
-### Part 4 — Provisions relating to Commerce Amendment Act 2022
+### Part 5 — Provisions relating to Commerce Amendment Act 2022
 
-### 13 Interpretation
+### 16 Interpretation
 (1) In this Part,—
   - **1-year transitional period** means the period that starts on the commencement date and ends at the close of the first anniversary of the commencement date
   - **Amendment Act** means the Commerce Amendment Act 2022
@@ -378,7 +378,7 @@ After section 99P, insert:Offences, regulations, and administrative provisions
   (a) a reference to a section or Part (for example, section 36) is a reference to that section as in force on and from the commencement date; and
   (b) a reference to a former section or Part (for example, former Part 2) is a reference to that section or Part as in force immediately before the commencement date.
 
-### 14 Authorisation under new section 58(6A) to (6D) may be granted before that section comes into force
+### 17 Authorisation under new section 58(6A) to (6D) may be granted before that section comes into force
 (1) This clause applies—
   (a) before the commencement date; but
   (b) as if sections 30, 36, 36A, 58(6A) to (6D), 58B, 59, 59A, and 61 were in force.
@@ -387,16 +387,16 @@ After section 99P, insert:Offences, regulations, and administrative provisions
 (4) Sections 58B, 59, 59A, and 61 apply in relation to an application made under this clause.
 (5) An authorisation granted under this clause may only take effect on or after the commencement date.
 
-### 15 Application of cartel prohibition to covenants in force before commencement date
+### 18 Application of cartel prohibition to covenants in force before commencement date
 During the 1-year transitional period, nothing in section 30(1)﻿(b) applies in relation to a covenant that is given, or required to be given, before the commencement date.
 
-### 16 Application of sections 36 and 36A to contracts, arrangements, understandings, and covenants in force before commencement date
+### 19 Application of sections 36 and 36A to contracts, arrangements, understandings, and covenants in force before commencement date
 Sections 36 and 36A apply to conduct that gives effect to a contract, arrangement, understanding, or covenant whether—
   (a) the contract or arrangement was entered into before, on, or after the commencement date; or
   (b) the understanding was arrived at before, on, or after the commencement date; or
   (c) the covenant was given, or required to be given, before, on, or after the commencement date.
 
-### 17 Conduct authorised before sections 36 and 36A replaced continues to be authorised
+### 20 Conduct authorised before sections 36 and 36A replaced continues to be authorised
 (1) Nothing in section 36 or 36A applies to any conduct—
   (a) to which former Part 2 applied; and
   (b) that, before the commencement date, was authorised under the former Part 5.
@@ -407,15 +407,15 @@ Sections 36 and 36A apply to conduct that gives effect to a contract, arrangemen
     (ii) approved on or after the commencement date.
 (3) See former sections 36(1) and 36A(1).
 
-### 18 Application of former section 45 to existing statutory intellectual property rights
+### 21 Application of former section 45 to existing statutory intellectual property rights
 Despite its repeal, former section 45(1)﻿(b) continues to apply during the 1-year transitional period in relation to a contract, arrangement, or understanding that was—
   (a) described in former section 45(1)﻿(a); and
   (b) entered into, or arrived at, before the commencement date.
 
-### 19 Sections 58A, 58B, and 59 apply to existing authorisations
+### 22 Sections 58A, 58B, and 59 apply to existing authorisations
 Sections 58A, 58B, and 59 apply to an authorisation granted by the Commission under former section 58 before the commencement date.
 
-### 20 Savings provisions if epidemic period under sections 65AA to 65AD ended by Amendment Act
+### 23 Savings provisions if epidemic period under sections 65AA to 65AD ended by Amendment Act
 (1) This clause applies if the epidemic period, as defined in section 65AA(1), ends on the date on which section 24 of the Amendment Act comes into force (see section 65AA(1)﻿(b)﻿(ii).
 (2) If this clause applies, it applies in relation to the following applications for an authorisation that are made on or after the date on which the epidemic period ends but before the close of the 6-month period that starts on the date on which the Epidemic Preparedness (COVID-19) Notice 2020 expires or is revoked:
   (a) an application for an authorisation under section 58(1), (2), or (6B):
@@ -423,14 +423,14 @@ Sections 58A, 58B, and 59 apply to an authorisation granted by the Commission un
 (3) Despite section 60(1), the Commission may, in its discretion, waive all or part of any fee payable for the application.
 (4) Despite section 61(5), the Commission may, in its discretion, determine the application without complying with section 62.
 
-### 21 Section 65B applies to existing clearances
+### 24 Section 65B applies to existing clearances
 Section 65B applies to a clearance given by the Commission under former section 65A before the commencement date.
 
-### 22 Section 69 applies to existing clearances and authorisations
+### 25 Section 69 applies to existing clearances and authorisations
 Section 69 applies in relation to a clearance or an authorisation whether the clearance was given, or the authorisation was granted, before, on, or after the commencement date.
 
-### 23 Court may make order in relation to covenant only if given on or after commencement date
+### 26 Court may make order in relation to covenant only if given on or after commencement date
 Section 80C applies to a covenant only if the covenant is given, or required to be given, on or after the commencement date.
 
-### 24 Offence under section 82B(1)﻿(b) does not apply in relation to covenants given before commencement date
+### 27 Offence under section 82B(1)﻿(b) does not apply in relation to covenants given before commencement date
 Section 82B(1)﻿(b) does not apply to a person who gives effect to a cartel provision in a covenant given, or required to be given, before the commencement date.
