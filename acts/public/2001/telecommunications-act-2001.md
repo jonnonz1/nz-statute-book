@@ -1,5 +1,5 @@
 # Telecommunications Act 2001
-_Consolidation as at 2022-01-01_
+_Consolidation as at 2022-04-12_
 
 ### 1 Title
 This Act is the Telecommunications Act 2001.
@@ -217,7 +217,7 @@ In this Act, unless the context otherwise requires,—
       (ii) any other extension to the programme
   - **wireless works** means any works relating to the provision of any wireless or mobile telecommunications services
   - **working day** means a day of the week other than—
-    (a) Saturday, Sunday, Good Friday, Easter Monday, Anzac Day, the Sovereign's birthday, Labour Day, and Waitangi Day; and
+    (a) a Saturday, a Sunday, Waitangi Day, Good Friday, Easter Monday, Anzac Day, the Sovereign’s birthday, Te Rā Aro ki a Matariki/Matariki Observance Day, and Labour Day; and
     (b) the day observed in the appropriate area as the anniversary of the province of which the area forms part; and
     (c) a day in the period commencing with 25 December in any year and ending with 2 January in the following year; and
     (d) if 1 January in any year falls on a Friday, the following Monday; and
