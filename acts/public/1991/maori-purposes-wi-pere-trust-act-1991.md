@@ -1,5 +1,5 @@
 # Māori Purposes (Wi Pere Trust) Act 1991
-_Consolidation as at 2021-01-30_
+_Consolidation as at 2022-04-12_
 
 ### 1 Title
 This Act is the Māori Purposes (Wi Pere Trust) Act 1991.
@@ -460,7 +460,7 @@ In this constitution, unless the context otherwise requires,—
   - **voting paper** means either a physical voting paper by which a postal vote can be made or the means by which an electronic vote can be made as permitted or required in any election or for the purpose of any resolution
   - **Wi Pere** means Wiremu Pere, born on 7 March 1837 in Gisborne, New Zealand and who died on 9 December 1915
   - **working day** means a day of the week other than—
-    (a) a Saturday, a Sunday, Waitangi Day, Good Friday, Easter Monday, Anzac Day, the Sovereign’s birthday, and Labour Day; and
+    (a) a Saturday, a Sunday, Waitangi Day, Good Friday, Easter Monday, Anzac Day, the Sovereign’s birthday, Te Rā Aro ki a Matariki/Matariki Observance Day, and Labour Day; and
     (b) a day in the period commencing with 25 December in a year and ending with 2 January in the following year; and
     (c) if 1 January falls on a Friday, the following Monday; and
     (d) if 1 January falls on either a Saturday or a Sunday, the following Monday and Tuesday.
