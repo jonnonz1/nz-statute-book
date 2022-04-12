@@ -1,5 +1,5 @@
 # Geographical Indications (Wine and Spirits) Registration Act 2006
-_Consolidation as at 2021-10-28_
+_Consolidation as at 2022-04-12_
 
 ### 1 Title
 This Act is the Geographical Indications (Wine and Spirits) Registration Act 2006.
@@ -47,7 +47,7 @@ In this Act, unless the context requires otherwise,—
   - **TRIPS Agreement** means the Agreement on Trade-Related Aspects of Intellectual Property set out in Annex 1C to the WTO Agreement
   - **wine** has the same meaning as in section 4(1) of the Wine Act 2003
   - **working day** means a day of the week other than—
-    (a) Saturday, Sunday, Waitangi Day, Good Friday, Easter Monday, Anzac Day, the Sovereign's Birthday, and Labour Day; and
+    (a) a Saturday, a Sunday, Waitangi Day, Good Friday, Easter Monday, Anzac Day, the Sovereign’s birthday, Te Rā Aro ki a Matariki/Matariki Observance Day, and Labour Day; and
     (ab) if Waitangi Day or Anzac Day falls on a Saturday or a Sunday, the following Monday; and
     (b) the day observed in the appropriate area as the anniversary of the province of which the area forms part; and
     (c) a day in the period beginning with 25 December in any year and,—
