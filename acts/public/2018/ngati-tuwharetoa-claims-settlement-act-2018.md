@@ -1,5 +1,5 @@
 # Ngāti Tūwharetoa Claims Settlement Act 2018
-_Consolidation as at 2021-10-28_
+_Consolidation as at 2022-04-12_
 
 ### 1 Title
 This Act is the Ngāti Tūwharetoa Claims Settlement Act 2018.
@@ -328,7 +328,7 @@ In this Act, unless the context otherwise requires,—
     (b) on settlement date will be the administering body of the properties described in sections 104(2) and 198(1)
   - **trustees of Te Kotahitanga o Ngāti Tūwharetoa** and mean the trustees, acting in their capacity as trustees, of Te Kotahitanga o Ngāti Tūwharetoa
   - **working day** means a day other than—
-    (a) Saturday, Sunday, Waitangi Day, Good Friday, Easter Monday, Anzac Day, the Sovereign's birthday, and Labour Day:
+    (a) a Saturday, a Sunday, Waitangi Day, Good Friday, Easter Monday, Anzac Day, the Sovereign’s birthday, Te Rā Aro ki a Matariki/Matariki Observance Day, and Labour Day:
     (b) if Waitangi Day or Anzac Day falls on a Saturday or Sunday, the following Monday:
     (c) a day in the period commencing with 25 December in any year and ending with the close of 15 January in the following year:
     (d) the days observed as the anniversaries of the provinces of Auckland and Wellington.
