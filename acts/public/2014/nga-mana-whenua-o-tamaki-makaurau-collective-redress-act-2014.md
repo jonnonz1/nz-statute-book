@@ -1,5 +1,5 @@
 # Ngā Mana Whenua o Tāmaki Makaurau Collective Redress Act 2014
-_Consolidation as at 2021-01-30_
+_Consolidation as at 2022-04-12_
 
 ## Preamble
 (1) The iwi and hapū constituting the collective known as Ngā Mana Whenua o Tāmaki Makaurau have claims to Tāmaki Makaurau based on historical breaches of the Treaty of Waitangi (Te Tiriti o Waitangi) by the Crown:
@@ -174,7 +174,7 @@ It is the intention of Parliament that this Act is interpreted in a manner that 
   - **Tūpuna Taonga o Tāmaki Makaurau Trust** means the Tūpuna Taonga o Tāmaki Makaurau Trust
   - **Waiohua Tāmaki rōpū entity** means the Waiohua Tāmaki Alliance Limited Partnership
   - **working day** means a day other than—
-    (a) Saturday, Sunday, Waitangi Day (or the following Monday, if the day falls on a Saturday or a Sunday), Good Friday, Easter Monday, Anzac Day (or the following Monday, if the day falls on a Saturday or a Sunday), the Sovereign’s birthday, and Labour Day:
+    (a) Saturday, Sunday, Waitangi Day (or the following Monday, if the day falls on a Saturday or a Sunday), Good Friday, Easter Monday, Anzac Day (or the following Monday, if the day falls on a Saturday or a Sunday), the Sovereign’s birthday, Te Rā Aro ki a Matariki/Matariki Observance Day, and Labour Day:
     (b) a day in the period starting on 25 December in a year and ending on 15 January in the following year:
     (c) the day observed as the anniversary of the province of Auckland or the province of Wellington.
 (2) In this Act, unless the context requires another meaning, improvement includes utilities infrastructure (for example, water, sewerage, electricity, and telecommunications pipes or lines).
