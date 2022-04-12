@@ -1,5 +1,5 @@
 # Immigration Advisers Licensing Act 2007
-_Consolidation as at 2021-10-28_
+_Consolidation as at 2022-04-12_
 
 ### 1 Title
 This Act is the Immigration Advisers Licensing Act 2007.
@@ -56,7 +56,7 @@ In this Act, unless the context otherwise requires,—
   - **Tribunal** means the Immigration Advisers Complaints and Disciplinary Tribunal established by section 40
   - **visa** means a visa granted under the Immigration Act 2009
   - **working day** means any day other than—
-    (a) a Saturday, a Sunday, Waitangi Day, Good Friday, Easter Monday, Anzac Day, the Sovereign's birthday, and Labour Day; and
+    (a) a Saturday, a Sunday, Waitangi Day, Good Friday, Easter Monday, Anzac Day, the Sovereign’s birthday, Te Rā Aro ki a Matariki/Matariki Observance Day, and Labour Day; and
     (ab) if Waitangi Day or Anzac Day falls on a Saturday or a Sunday, the following Monday; and
     (b) the day observed in the appropriate area as the anniversary of the province of which the area forms a part; and
     (c) a day in the period commencing with 25 December in any year and ending with the close of 15 January in the following year.
