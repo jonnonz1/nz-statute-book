@@ -1,5 +1,5 @@
 # Ngāti Mutunga Claims Settlement Act 2006
-_Consolidation as at 2021-01-30_
+_Consolidation as at 2022-04-12_
 
 ## Preamble
 Background
@@ -264,7 +264,7 @@ In this Act, unless the context otherwise requires,—
     (a) the Minister of Conservation under section 157 of the Resource Management Act 1991; or
     (b) the Taranaki Regional Council under section 165E(1)﻿(a) or section 165F of the Resource Management Act 1991
   - **business day** means the period of 9 am to 5 pm on any day of the week other than—
-    (a) Saturday, Sunday, Waitangi Day, Good Friday, Easter Monday, ANZAC Day, the Sovereign’s birthday, and Labour Day; and
+    (a) a Saturday, a Sunday, Waitangi Day, Good Friday, Easter Monday, Anzac Day, the Sovereign’s birthday, Te Rā Aro ki a Matariki/Matariki Observance Day, and Labour Day; and
     (b) a day in the period commencing with 25 December in any year and ending with the close of 15 January in the following year; and
     (ba) if Waitangi Day or Anzac Day falls on a Saturday or a Sunday, the following Monday; and
     (c) the days observed as the anniversaries of the provinces of Wellington and Taranaki
