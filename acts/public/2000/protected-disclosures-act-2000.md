@@ -1,5 +1,5 @@
 # Protected Disclosures Act 2000
-_Consolidation as at 2020-08-07_
+_Consolidation as at 2022-04-12_
 
 ### 1 Title
 This Act is the Protected Disclosures Act 2000.
@@ -58,7 +58,7 @@ This Act comes into force on 1 January 2001.
     (d) an act, omission, or course of conduct that constitutes an offence; or
     (e) an act, omission, or course of conduct by a public official that is oppressive, improperly discriminatory, or grossly negligent, or that constitutes gross mismanagement,—
   - **working day** means any day of the week other than—
-    (a) Saturday, Sunday, Good Friday, Easter Monday, Anzac Day, Labour Day, the Sovereign's birthday, and Waitangi Day; and
+    (a) a Saturday, a Sunday, Waitangi Day, Good Friday, Easter Monday, Anzac Day, the Sovereign’s birthday, Te Rā Aro ki a Matariki/Matariki Observance Day, and Labour Day; and
     (ab) if Waitangi Day or Anzac Day falls on a Saturday or a Sunday, the following Monday; and
     (b) a day in the period beginning on 25 December in any year and ending on 15 January (both dates inclusive) in the following year.
 (2) An example used in this Act has the following status:
