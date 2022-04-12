@@ -1,5 +1,5 @@
 # Legislation Act 2019
-_Consolidation as at 2021-10-28_
+_Consolidation as at 2022-04-12_
 
 ### 1 Title
 This Act is the Legislation Act 2019.
@@ -14,7 +14,7 @@ This Act is the Legislation Act 2019.
     (i) on 1 or more dates set by Order in Council; or
     (ii) to the extent not brought into force earlier, on the fifth anniversary of the date on which the Secondary Legislation Act 2021 receives the Royal assent.
 (2) One or more Orders in Council may set different dates for different provisions (and, for that purpose, may commence a provision only for the purpose of giving effect to some, but not other, parts of this Act).
-(3) An Order In Council made under this section is secondary legislation (see Part 3 for publication requirements).
+(3) An Order in Council made under this section is secondary legislation (see Part 3 for publication requirements).
 
 ## Part 1 — Preliminary provisions
 
@@ -175,7 +175,7 @@ In legislation,—
   - **South Island** or , both official alternative names, means the island commonly known as the South Island, and includes the islands adjacent to it south of Cook Strait
   - **territorial limits of New Zealand** , , or a similar expression, when used as a territorial description, means the outer limits of the territorial sea of New Zealand
   - **working day** means a day of a week other than—
-    (a) a Saturday, a Sunday, Waitangi Day, Good Friday, Easter Monday, Anzac Day, the Sovereign's birthday, and Labour Day; and
+    (a) a Saturday, a Sunday, Waitangi Day, Good Friday, Easter Monday, Anzac Day, the Sovereign’s birthday, Te Rā Aro ki a Matariki/Matariki Observance Day, and Labour Day; and
     (b) a day in the period commencing with 25 December in a year and ending with 2 January in the following year; and
     (c) if 1 January falls on a Friday, the following Monday; and
     (d) if 1 January falls on a Saturday or a Sunday, the following Monday and Tuesday; and
