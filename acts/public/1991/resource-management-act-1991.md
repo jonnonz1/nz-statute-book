@@ -1,5 +1,5 @@
 # Resource Management Act 1991
-_Consolidation as at 2022-03-31_
+_Consolidation as at 2022-04-12_
 
 > An Act to restate and reform the law relating to the use of land, air, and water
 
@@ -421,7 +421,7 @@ _Consolidation as at 2022-03-31_
   - **water permit** has the meaning set out in section 87(d)
   - **wetland** includes permanently or intermittently wet areas, shallow water, and land water margins that support a natural ecosystem of plants and animals that are adapted to wet conditions
   - **working day** means a day of the week other than—
-    (a) a Saturday, a Sunday, Waitangi Day, Good Friday, Easter Monday, Anzac Day, the Sovereign's birthday, and Labour Day; and
+    (a) a Saturday, a Sunday, Waitangi Day, Good Friday, Easter Monday, Anzac Day, the Sovereign’s birthday, Te Rā Aro ki a Matariki/Matariki Observance Day, and Labour Day; and
     (b) if Waitangi Day or Anzac Day falls on a Saturday or a Sunday, the following Monday; and
     (c) a day in the period commencing on 20 December in any year and ending with 10 January in the following year.
 (2) In this Act, unless the context otherwise requires,—
