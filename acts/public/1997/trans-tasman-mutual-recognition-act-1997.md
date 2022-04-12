@@ -1,5 +1,5 @@
 # Trans-Tasman Mutual Recognition Act 1997
-_Consolidation as at 2021-10-28_
+_Consolidation as at 2022-04-12_
 
 > An Act to provide for the recognition in New Zealand of regulatory standards adopted in Australia regarding goods and occupations
 
@@ -95,7 +95,7 @@ _Consolidation as at 2021-10-28_
   - **Trans-Tasman mutual recognition principle in relation to occupations** means the principle set out in section 15
   - **Tribunal** means the Trans-Tasman Occupations Tribunal established by section 41
   - **working day** means any day of the week other than—
-    (a) Saturday, Sunday, Good Friday, Easter Monday, Anzac Day, Labour Day, the Sovereign's birthday, and Waitangi Day; and
+    (a) a Saturday, a Sunday, Waitangi Day, Good Friday, Easter Monday, Anzac Day, the Sovereign’s birthday, Te Rā Aro ki a Matariki/Matariki Observance Day, and Labour Day; and
     (ab) if Waitangi Day or Anzac Day falls on a Saturday or a Sunday, the following Monday; and
     (b) a day in the period commencing with 25 December in any year and ending with 15 January in the following year.
 (2) A reference to or citation of any Act in this Act includes the citation of all subsequent enactments passed in amendment or substitution of the Act so referred to or cited, unless it is otherwise manifested by the context. This subsection applies despite anything in Part 2 of the Legislation Act 2019, but is subject to section 76(1) and (2).
