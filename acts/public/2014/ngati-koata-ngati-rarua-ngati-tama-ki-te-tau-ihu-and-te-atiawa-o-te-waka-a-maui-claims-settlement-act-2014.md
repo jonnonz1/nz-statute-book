@@ -1,5 +1,5 @@
 # Ngāti Kōata, Ngāti Rārua, Ngāti Tama ki Te Tau Ihu, and Te Ātiawa o Te Waka-a-Māui Claims Settlement Act 2014
-_Consolidation as at 2021-10-28_
+_Consolidation as at 2022-04-12_
 
 ### 1 Title
 This Act is the Ngāti Kōata, Ngāti Rārua, Ngāti Tama ki Te Tau Ihu, and Te Ātiawa o Te Waka-a-Māui Claims Settlement Act 2014.
@@ -420,7 +420,7 @@ It is the intention of Parliament that the provisions of this Act are interprete
   - **trustees** means the trustees of a trust acting in their capacity as trustees
   - **unlicensed land** means the land described as Koromiko Forest in table 2 in part 3 of the property redress schedule of the deed of settlement for Ngāti Rārua
   - **working day** means a day of the week other than—
-    (a) Saturday, Sunday, Waitangi Day, Good Friday, Easter Monday, Anzac Day, the Sovereign's birthday, and Labour Day; and
+    (a) a Saturday, a Sunday, Waitangi Day, Good Friday, Easter Monday, Anzac Day, the Sovereign’s birthday, Te Rā Aro ki a Matariki/Matariki Observance Day, and Labour Day; and
     (b) if Waitangi Day or Anzac Day falls on a Saturday or a Sunday, the following Monday; and
     (c) a day in the period starting on 25 December in a year and ending on 15 January in the following year; and
     (d) the day observed as the anniversary of the province of Nelson, Marlborough, or Wellington.
