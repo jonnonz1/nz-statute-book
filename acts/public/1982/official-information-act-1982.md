@@ -1,5 +1,5 @@
 # Official Information Act 1982
-_Consolidation as at 2021-10-28_
+_Consolidation as at 2022-04-12_
 
 > An Act to make official information more freely available, to provide for proper access by each person to official information relating to that person, to protect official information to the extent consistent with the public interest and the preservation of personal privacy, to establish procedures for the achievement of those purposes, and to repeal the Official Secrets Act 1951
 
@@ -80,7 +80,7 @@ _Consolidation as at 2021-10-28_
     (a) holding or performing the duties of an office established by an enactment; or
     (b) performing duties expressly conferred on him by virtue of his office by an enactment
   - **working day** means any day of the week other than—
-    (a) Saturday, Sunday, Good Friday, Easter Monday, Anzac Day, Labour Day, the Sovereign's birthday, and Waitangi Day; and
+    (a) a Saturday, a Sunday, Waitangi Day, Good Friday, Easter Monday, Anzac Day, the Sovereign’s birthday, Te Rā Aro ki a Matariki/Matariki Observance Day, and Labour Day; and
     (ab) if Waitangi Day or Anzac Day falls on a Saturday or a Sunday, the following Monday; and
     (b) a day in the period commencing with 25 December in any year and ending with 15 January in the following year.
 (1A) For the purposes of Schedule 1, a company registered under the Companies Act 1993 is a related company of a State enterprise if the State enterprise, whether alone or together with any other State enterprise, directly or indirectly owns, or controls the exercise of all the voting rights attaching to, the issued shares of the company (other than shares that carry no right to participate beyond a specified amount in a distribution of either profits or capital).
