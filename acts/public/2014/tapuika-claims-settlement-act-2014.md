@@ -1,5 +1,5 @@
 # Tapuika Claims Settlement Act 2014
-_Consolidation as at 2021-10-28_
+_Consolidation as at 2022-04-12_
 
 ### 1 Title
 This Act is the Tapuika Claims Settlement Act 2014.
@@ -231,7 +231,7 @@ In this Act, unless the context otherwise requires,—
   - **vesting date** has the meaning given in section 96
   - **Whenua Rāhui** has the meaning given in section 46
   - **working day** means a day other than—
-    (a) Saturday, Sunday, Waitangi Day, Good Friday, Easter Monday, Anzac Day, the Sovereign's birthday, and Labour Day:
+    (a) a Saturday, a Sunday, Waitangi Day, Good Friday, Easter Monday, Anzac Day, the Sovereign’s birthday, Te Rā Aro ki a Matariki/Matariki Observance Day, and Labour Day:
     (b) if Waitangi Day or Anzac Day falls on a Saturday or a Sunday, the following Monday:
     (c) a day in the period commencing with 25 December in any year and ending with the close of 15 January in the following year:
     (d) the days observed as the anniversaries of the provinces of Auckland and Wellington.
