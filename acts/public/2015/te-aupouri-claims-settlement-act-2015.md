@@ -1,5 +1,5 @@
 # Te Aupouri Claims Settlement Act 2015
-_Consolidation as at 2021-01-30_
+_Consolidation as at 2022-04-12_
 
 ### 1 Title
 This Act is the Te Aupouri Claims Settlement Act 2015.
@@ -242,7 +242,7 @@ In this Act, unless the context otherwise requires,—
   - **tikanga Te Aupouri** means the customary values and practices of Te Aupouri
   - **trustees of Te Rūnanga Nui** and mean the trustees of Te Rūnanga Nui acting in their capacity as trustees of Te Rūnanga Nui o Te Aupouri Trust
   - **working day** means a day other than—
-    (a) Saturday, Sunday, Waitangi Day, Good Friday, Easter Monday, Anzac Day, the Sovereign's birthday, and Labour Day:
+    (a) a Saturday, a Sunday, Waitangi Day, Good Friday, Easter Monday, Anzac Day, the Sovereign’s birthday, Te Rā Aro ki a Matariki/Matariki Observance Day, and Labour Day:
     (b) if Waitangi Day or Anzac Day falls on a Saturday or Sunday, the following Monday:
     (c) a day in the period commencing with 25 December in any year and ending with the close of 15 January in the following year:
     (d) the days observed as the anniversaries of the provinces of Auckland and Wellington.
