@@ -1,5 +1,5 @@
 # Ngāti Tūrangitukua Claims Settlement Act 1999
-_Consolidation as at 2021-01-30_
+_Consolidation as at 2022-04-12_
 
 > An Act—ato record the apology given by the Crown to Ngāti Tūrangitukua in the deed of settlement executed on 26 September 1998 by the Minister in Charge of Treaty of Waitangi Negotiations, the Right Honourable Sir Douglas Arthur Montrose Graham, for the Crown, and Ngāti Tūrangitukua; andbto give effect to certain provisions of that deed of settlement, being a deed that settles the Ngāti Tūrangitukua claims
 
@@ -109,7 +109,7 @@ In this Act, unless the context otherwise requires,—
   - **ancillary claimant** means a person listed in Schedule 1 of the ancillary claims deed
   - **ancillary claims deed** means the deed concluded under section 8 of the deed of settlement and executed on 21 December 1998
   - **business day** means the period of 9 am to 5 pm on any day of the week other than—
-    (a) Saturday, Sunday, Good Friday, Easter Monday, Anzac Day, the Sovereign’s birthday, Labour Day, and Waitangi Day; and
+    (a) a Saturday, a Sunday, Waitangi Day, Good Friday, Easter Monday, Anzac Day, the Sovereign’s birthday, Te Rā Aro ki a Matariki/Matariki Observance Day, and Labour Day; and
     (b) a day in the period commencing with 25 December in any year, and ending with the close of 5 January in the following year; and
     (ba) if Waitangi Day or Anzac Day falls on a Saturday or a Sunday, the following Monday; and
     (c) the days observed as the anniversaries of the provinces of Wellington and Auckland
