@@ -1,5 +1,5 @@
 # Rongowhakaata Claims Settlement Act 2012
-_Consolidation as at 2021-01-30_
+_Consolidation as at 2022-04-12_
 
 ### 1 Title
 This Act is the Rongowhakaata Claims Settlement Act 2012.
@@ -159,7 +159,7 @@ In this Act, unless the context requires another meaning,—
   - **area of interest** means the area that Rongowhakaata identifies as its area of interest, as set out in part 1 of the attachments
   - **attachments** means the attachments to the deed of settlement
   - **business day** means a day other than—
-    (a) Saturday, Sunday, Waitangi Day, Good Friday, Easter Monday, Anzac Day, the Sovereign's birthday, and Labour Day; or
+    (a) Saturday, Sunday, Waitangi Day, Good Friday, Easter Monday, Anzac Day, the Sovereign's birthday, Te Rā Aro ki a Matariki/Matariki Observance Day, and Labour Day; or
     (b) a day in the period commencing with 25 December in any year and ending with the close of 15 January in the following year; or
     (ba) if Waitangi Day or Anzac Day falls on a Saturday or a Sunday, the following Monday; and
     (c) the days observed as the anniversaries of the provinces of Auckland and Wellington
