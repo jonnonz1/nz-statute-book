@@ -1,5 +1,5 @@
 # Trade (Safeguard Measures) Act 2014
-_Consolidation as at 2021-10-28_
+_Consolidation as at 2022-04-12_
 
 ### 1 Title
 This Act is the Trade (Safeguard Measures) Act 2014.
@@ -47,7 +47,7 @@ In this Act, unless the context otherwise requires,—
   - **serious injury** means a significant overall impairment in the position of a domestic industry
   - **threat of serious injury** means a serious injury that is clearly imminent
   - **working day** means any day of the week other than—
-    (a) Saturday, Sunday, Good Friday, Easter Monday, Anzac Day, Labour Day, the Sovereign’s birthday, and Waitangi Day; and
+    (a) a Saturday, a Sunday, Waitangi Day, Good Friday, Easter Monday, Anzac Day, the Sovereign’s birthday, Te Rā Aro ki a Matariki/Matariki Observance Day, and Labour Day; and
     (b) a day in the period commencing with 25 December in any year and ending with the close of 15 January in the following year.
 
 ### 6 Act binds the Crown
