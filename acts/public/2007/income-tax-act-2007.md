@@ -1,5 +1,5 @@
 # Income Tax Act 2007
-_Consolidation as at 2022-04-01_
+_Consolidation as at 2022-04-12_
 
 ### A 1 Title
 This Act is the Income Tax Act 2007.
@@ -46451,7 +46451,7 @@ In this Act, unless the context requires otherwise,—
   - **withdrawal tax**
   - **withholding tax limitation** is defined in section DA 2(5) (General limitations)
   - **working day** means any day of the week other than—
-    (a) Saturday, Sunday, Good Friday, Easter Monday, Anzac Day, Labour Day, the Sovereign’s birthday, and Waitangi Day; and
+    (a) a Saturday, a Sunday, Waitangi Day, Good Friday, Easter Monday, Anzac Day, the Sovereign’s birthday, Te Rā Aro ki a Matariki/Matariki Observance Day, and Labour Day; and
     (ab) if Waitangi Day or Anzac Day falls on a Saturday or a Sunday, the following Monday; and
     (b) a day in the period starting on 25 December in a year and ending on 15 January (both dates inclusive) in the following year
   - **working owner** means a person who, in relation to a look-through company that is not wholly or mainly engaged in investing money or in holding, or dealing in, shares, securities, investments, or estates or interests in land, ignoring section HB 1 (Look-through companies are transparent),—
