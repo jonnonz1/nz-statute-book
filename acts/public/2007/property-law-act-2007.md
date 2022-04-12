@@ -1,5 +1,5 @@
 # Property Law Act 2007
-_Consolidation as at 2021-11-03_
+_Consolidation as at 2022-04-12_
 
 ### 1 Title
 This Act is the Property Law Act 2007.
@@ -187,7 +187,7 @@ In this Act, unless the context otherwise requires,—
       (ii) a contract or arrangement that is otherwise enforceable at law or in equity against the person bound
   - **vendor mortgagee** means a mortgagee who applies to the Registrar under section 188 to conduct the sale of mortgaged land
   - **working day** means a day of the week other than—
-    (a) Saturday, Sunday, Waitangi Day, Good Friday, Easter Monday, Anzac Day, the Sovereign’s Birthday, and Labour Day; and
+    (a) a Saturday, a Sunday, Waitangi Day, Good Friday, Easter Monday, Anzac Day, the Sovereign’s birthday, Te Rā Aro ki a Matariki/Matariki Observance Day, and Labour Day; and
     (ab) if Waitangi Day or Anzac Day falls on a Saturday or a Sunday, the following Monday; and
     (b) a day in the period commencing with 25 December and ending with 2 January in the following year; and
     (c) the day observed as the anniversary of any province in which an act is to be done.
