@@ -1,5 +1,5 @@
 # Sale and Supply of Alcohol Act 2012
-_Consolidation as at 2021-10-28_
+_Consolidation as at 2022-04-12_
 
 ### 1 Title
 This Act is the Sale and Supply of Alcohol Act 2012.
@@ -214,7 +214,7 @@ This Act is the Sale and Supply of Alcohol Act 2012.
   - **verified the customer's age** means, in a manner of a kind described by regulations made under this Act for the purposes of this definition, ascertained that the customer appears to be of or over the purchase age
   - **wine** , except in section 58(3), means a product that is grape wine or fruit or vegetable wine within the meaning of section 58(3)
   - **working day** means a day of the week other than—
-    (a) a Saturday, a Sunday, Waitangi Day, Good Friday, Easter Monday, Anzac Day, the Sovereign's birthday, and Labour Day; and
+    (a) a Saturday, a Sunday, Waitangi Day, Good Friday, Easter Monday, Anzac Day, the Sovereign’s birthday, Te Rā Aro ki a Matariki/Matariki Observance Day, and Labour Day; and
     (b) if Waitangi Day or Anzac Day falls on a Saturday or a Sunday, the following Monday; and
     (c) a day in the period commencing on 20 December in any year and ending with 15 January in the following year.
 (2) Any term or expression that is defined in the Local Electoral Act 2001 and used in any of sections 300 to 396 (which relate to licensing trusts and community trusts), but not defined in this Act, has the same meaning as in the Local Electoral Act 2001.
