@@ -1,5 +1,5 @@
 # Copyright Act 1994
-_Consolidation as at 2021-10-28_
+_Consolidation as at 2022-04-12_
 
 > An Act to consolidate and amend the law relating to copyright
 
@@ -191,7 +191,7 @@ _Consolidation as at 2021-10-28_
     (b) pursuant to section 62
   - **wireless communication** means the sending of electromagnetic energy over paths not provided by a material substance constructed or arranged for that purpose
   - **working day** means any day of the week other than—
-    (a) Saturday, Sunday, Good Friday, Easter Monday, Anzac Day, Labour Day, the Sovereign's birthday, and Waitangi Day; and
+    (a) a Saturday, a Sunday, Waitangi Day, Good Friday, Easter Monday, Anzac Day, the Sovereign’s birthday, Te Rā Aro ki a Matariki/Matariki Observance Day, and Labour Day; and
     (ab) if Waitangi Day or Anzac Day falls on a Saturday or a Sunday, the following Monday; and
     (b) a day in the period commencing with 25 December in any year and ending with 15 January in the following year
   - **writing** includes any form of notation or code, whether by hand or otherwise and regardless of the method by which, or medium in or on which, it is recorded; and has a corresponding meaning.
