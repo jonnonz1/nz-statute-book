@@ -1,5 +1,5 @@
 # Immigration Act 2009
-_Consolidation as at 2021-10-28_
+_Consolidation as at 2022-04-12_
 
 ### 1 Title
 This Act is the Immigration Act 2009.
@@ -2699,7 +2699,7 @@ The purpose of this Part is—
   (b) is successful on the appeal under this section; and
   (c) becomes liable for deportation for any reason at some future date.
 (9) In subsection (2), working day means a day of the week other than—
-  (a) a Saturday, a Sunday, Waitangi Day, Good Friday, Easter Monday, Anzac Day, the Sovereign's birthday, and Labour Day; and
+  (a) a Saturday, a Sunday, Waitangi Day, Good Friday, Easter Monday, Anzac Day, the Sovereign’s birthday, Te Rā Aro ki a Matariki/Matariki Observance Day, and Labour Day; and
   (ab) if Waitangi Day or Anzac Day falls on a Saturday or a Sunday, the following Monday; and
   (b) a day in the period commencing with 25 December in a year and ending with 2 January in the following year; and
   (c) if 1 January falls on a Friday, the following Monday; and
