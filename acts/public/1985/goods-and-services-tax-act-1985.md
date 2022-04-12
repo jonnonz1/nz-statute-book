@@ -1,5 +1,5 @@
 # Goods and Services Tax Act 1985
-_Consolidation as at 2022-04-01_
+_Consolidation as at 2022-04-12_
 
 > An Act to make provision for the imposition and collection of goods and services tax
 
@@ -239,7 +239,7 @@ _Consolidation as at 2022-04-01_
   - **unit title body corporate** means a body corporate under the Unit Titles Act 2010, other than a body corporate of a retirement village registered under the Retirement Villages Act 2003
   - **warranty** , in respect of goods supplied, means an undertaking given under the supply agreement to remedy any defect in the goods that appears during a certain period of time after the goods are supplied or before a certain level of usage is reached
   - **working day** means any day of the week other than—
-    (a) Saturday, Sunday, Good Friday, Easter Monday, Anzac Day, Labour Day, the Sovereign's birthday, and Waitangi Day; and
+    (a) a Saturday, a Sunday, Waitangi Day, Good Friday, Easter Monday, Anzac Day, the Sovereign’s birthday, Te Rā Aro ki a Matariki/Matariki Observance Day, and Labour Day; and
     (ab) if Waitangi Day or Anzac Day falls on a Saturday or a Sunday, the following Monday; and
     (b) a day in the period commencing with 25 December in any year and ending with 15 January in the following year
   - **zero-rating of land rules** means sections 5(24), 11(1)﻿(mb), 60B(6), 75(3B), and 78F.
