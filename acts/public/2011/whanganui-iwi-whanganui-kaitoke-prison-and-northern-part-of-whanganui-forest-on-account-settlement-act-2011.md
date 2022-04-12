@@ -1,5 +1,5 @@
 # Whanganui Iwi (Whanganui (Kaitoke) Prison and Northern Part of Whanganui Forest) On-account Settlement Act 2011
-_Consolidation as at 2014-01-01_
+_Consolidation as at 2022-04-12_
 
 ## Preamble
 (1) The Treaty of Waitangi was signed in 1840. The terms of the Treaty of Waitangi in English and Māori are set out in Schedule 1 of the Treaty of Waitangi Act 1975:
@@ -21,7 +21,7 @@ The purpose of this Act is to give effect to certain provisions of the deed of o
 ### 4 Interpretation
 In this Act, unless the context otherwise requires,—
   - **business day** means the period from 9 am to 5 pm on any day of the week other than—
-    (a) Saturday, Sunday, Waitangi Day, Good Friday, Easter Monday, Anzac Day, the Sovereign's birthday, and Labour Day; and
+    (a) a Saturday, a Sunday, Waitangi Day, Good Friday, Easter Monday, Anzac Day, the Sovereign’s birthday, Te Rā Aro ki a Matariki/Matariki Observance Day, and Labour Day; and
     (b) a day in the period commencing with 25 December in any year and ending with the close of 15 January in the following year; and
     (ba) if Waitangi Day or Anzac Day falls on a Saturday or a Sunday, the following Monday; and
     (c) the day observed as the anniversary of the province of Wellington
