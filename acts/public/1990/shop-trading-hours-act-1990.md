@@ -1,5 +1,5 @@
 # Shop Trading Hours Act 1990
-_Consolidation as at 2018-10-01_
+_Consolidation as at 2022-04-12_
 
 ### 1 Title and commencement
 (1) This Act is the Shop Trading Hours Act 1990.
@@ -221,7 +221,7 @@ A shop employee—
   - **at night** means at any time between 9 pm on any day and 7 am the next day
   - **existing document** means an industrial document applying to shop workers that, on 1 August 1990, was current or in force under the Labour Relations Act 1987
   - **industrial document** means an award or agreement within the meaning of the Labour Relations Act 1987
-  - **protected day** means a day that is a Sunday, New Year's Day, the day after New Year's Day, Waitangi Day, Good Friday, Easter Monday, Anzac Day, the Sovereign's birthday, Labour Day, Christmas Day, Boxing Day, or the day observed as anniversary day in the locality concerned
+  - **protected day** means a day that is a Sunday, New Year's Day, the day after New Year's Day, Waitangi Day, Good Friday, Easter Monday, Anzac Day, the Sovereign's birthday, Te Rā Aro ki a Matariki/Matariki Observance Day, Labour Day, Christmas Day, Boxing Day, or the day observed as anniversary day in the locality concerned
   - **protected worker** , in relation to an employer on any day, means a worker who has or had been employed by the employer (or persons whose successor the employer is) for the continuous period including all or part of that day and beginning before 1 August 1990 (whether or not the location or designation of the worker has or had changed during that period)
   - **protective provisions** means the provisions set out in Schedule 1
   - **shop worker** means a person who is employed to work in or from any shop or shops, or whose employment at any time is dependent on any shop's being open at that time
@@ -259,7 +259,7 @@ A shop employee—
 ### 8 Effect of certain provisions in leases, etc
 (1) No mandatory opening provision in a lease, licence, contract, covenant, or agreement, entered into or made before 12 November 1980 shall so be construed as to require the opening of any shop at any time on a Saturday, unless the shop was on 11 November 1980 entitled to be open at that time by virtue of an authority or order under section 13(2), section 15, or section 20 of the repealed Act.
 (2) No mandatory opening provision in a lease, licence, contract, covenant, or agreement, entered into or made before 1 August 1990 shall so be construed as to require the opening of any shop at any time—unless the shop was, on 31 July 1990, entitled to be open at that time by virtue of an authority or order under section 13(2), section 15, section 17A, or section 20, of the repealed Act.
-  (a) on any day that is a Sunday, New Year's Day, the day after New Year's Day, Waitangi Day, Good Friday, Easter Monday, Anzac Day, the Sovereign's birthday, Labour Day, Christmas Day, Boxing Day, or the day observed as anniversary day in the locality in which the shop is situated; or
+  (a) on any day that is a Sunday, New Year's Day, the day after New Year's Day, Waitangi Day, Good Friday, Easter Monday, Anzac Day, the Sovereign's birthday, Te Rā Aro ki a Matariki/Matariki Observance Day, Labour Day, Christmas Day, Boxing Day, or the day observed as anniversary day in the locality in which the shop is situated; or
   (b) between 9 pm on any day and 7 am the next day,—
 (2A) A mandatory opening provision in a lease, licence, contract, covenant, or agreement entered into, or made before, the commencement of the Shop Trading Hours Act Repeal Amendment Act 2001 must not be interpreted as requiring a shop to which section 4A applies to open on Easter Sunday.
 (2B) Subsection (2A) does not apply to a shop that, before the commencement of the Shop Trading Hours Act Repeal Amendment Act 2001, was entitled to be open on Easter Sunday under section 4.
