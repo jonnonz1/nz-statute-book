@@ -1,5 +1,5 @@
 # Postal Services Act 1998
-_Consolidation as at 2021-10-28_
+_Consolidation as at 2022-04-12_
 
 > An Act to regulate the provision of postal services
 
@@ -55,7 +55,7 @@ _Consolidation as at 2021-10-28_
     (d) an offence against the law of any foreign country, where the offence consists of or includes conduct that, if it occurred in New Zealand, would be an offence referred to in any of paragraphs (a) to (c)
   - **subsidiary** has the same meaning as in sections 5 and 6 of the Companies Act 1993
   - **working day** means any day of the week other than—
-    (a) Saturday, Sunday, Good Friday, Easter Monday, Anzac Day, Labour Day, the Sovereign's birthday, and Waitangi Day; and
+    (a) a Saturday, a Sunday, Waitangi Day, Good Friday, Easter Monday, Anzac Day, the Sovereign’s birthday, Te Rā Aro ki a Matariki/Matariki Observance Day, and Labour Day; and
     (ab) if Waitangi Day or Anzac Day falls on a Saturday or a Sunday, the following Monday; and
     (b) a day in the period commencing with 25 December in any year and ending with 15 January in the following year.
 (2) An article is taken to have been posted when, for the purpose of being conveyed or delivered by a postal operator, it has been put into a public letterbox, or delivered at a postal outlet, or accepted for the purpose of being conveyed by post by an employee or agent of a postal operator in the course of his or her duty or authority.
