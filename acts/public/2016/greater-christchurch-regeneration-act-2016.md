@@ -1,5 +1,5 @@
 # Greater Christchurch Regeneration Act 2016
-_Consolidation as at 2021-10-28_
+_Consolidation as at 2022-04-12_
 
 ### 1 Title
 This Act is the Greater Christchurch Regeneration Act 2016.
@@ -43,7 +43,7 @@ In this Act, unless the context otherwise requires,—
   - **requiring authority** has the same meaning as in section 2(1) of the Resource Management Act 1991
   - **urban renewal** has the meaning given to it in section 3(2)
   - **working day** means a day of the week other than—
-  (a) a Saturday, a Sunday, Waitangi Day, Good Friday, Easter Monday, Anzac Day, the Sovereign’s birthday, and Labour Day; and
+  (a) a Saturday, a Sunday, Waitangi Day, Good Friday, Easter Monday, Anzac Day, the Sovereign’s birthday, Te Rā Aro ki a Matariki/Matariki Observance Day, and Labour Day; and
   (b) the day the anniversary of Canterbury is observed in greater Christchurch; and
   (c) if Waitangi Day or Anzac Day falls on a Saturday or a Sunday, the following Monday; and
   (d) a day in the period commencing on 20 December in any year and ending with 10 January in the following year.
