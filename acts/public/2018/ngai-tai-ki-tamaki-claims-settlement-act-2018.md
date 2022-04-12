@@ -1,5 +1,5 @@
 # Ngāi Tai ki Tāmaki Claims Settlement Act 2018
-_Consolidation as at 2021-10-28_
+_Consolidation as at 2022-04-12_
 
 ### 1 Title
 This Act is the Ngāi Tai ki Tāmaki Claims Settlement Act 2018.
@@ -220,7 +220,7 @@ It is the intention of Parliament that the provisions of this Act are interprete
   - **transfer property** has the meaning given in section 98
   - **trustees of the Ngāi Tai ki Tāmaki Trust** and mean the trustees, acting in their capacity as trustees, of the Ngāi Tai ki Tāmaki Trust
   - **working day** means a day other than—
-    (a) Saturday, Sunday, Waitangi Day, Good Friday, Easter Monday, Anzac Day, the Sovereign's birthday, and Labour Day:
+    (a) a Saturday, a Sunday, Waitangi Day, Good Friday, Easter Monday, Anzac Day, the Sovereign’s birthday, Te Rā Aro ki a Matariki/Matariki Observance Day, and Labour Day:
     (b) if Waitangi Day or Anzac Day falls on a Saturday or Sunday, the following Monday:
     (c) a day in the period commencing with 25 December in any year and ending with the close of 15 January in the following year:
     (d) the days observed as the anniversaries of the provinces of Auckland and Wellington.
