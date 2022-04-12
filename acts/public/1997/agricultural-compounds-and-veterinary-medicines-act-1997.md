@@ -1,5 +1,5 @@
 # Agricultural Compounds and Veterinary Medicines Act 1997
-_Consolidation as at 2021-10-28_
+_Consolidation as at 2022-04-12_
 
 > An Act to reform and restate the law relating to agricultural compounds, and to repeal—athe Stock Foods Act 1946; andbthe Fertilisers Act 1960; andcthe Animal Remedies Act 1967; anddthe Fertilisers Act 1982
 
@@ -93,7 +93,7 @@ _Consolidation as at 2021-10-28_
   - **veterinarian** means a person for the time being registered as a veterinarian or a specialist within the meaning of section 4 of the Veterinarians Act 2005
   - **veterinary medicine** means any substance, mixture of substances, or biological compound used or intended for use in the direct management of an animal
   - **working day** means any day except—
-    (a) a Saturday, a Sunday, Good Friday, Easter Monday, Anzac Day, Labour Day, the Sovereign’s birthday, and Waitangi Day; and
+    (a) a Saturday, a Sunday, Waitangi Day, Good Friday, Easter Monday, Anzac Day, the Sovereign’s birthday, Te Rā Aro ki a Matariki/Matariki Observance Day, and Labour Day; and
     (ab) if Waitangi Day or Anzac Day falls on a Saturday or a Sunday, the following Monday; and
     (b) a day in the period commencing on 20 December in any year and ending with 15 January in the following year.
 (2) The Governor-General may from time to time, by Order in Council, declare—for the purposes of this Act.
