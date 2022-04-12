@@ -1,5 +1,5 @@
 # Waitaha Claims Settlement Act 2013
-_Consolidation as at 2021-10-28_
+_Consolidation as at 2022-04-12_
 
 ## Preamble
 (1) Recitals (2) to (12) of this Preamble present, in summary form, the historical account set out in the deed of settlement entered into by Waitaha and the Crown:
@@ -121,7 +121,7 @@ In this Act, unless the context otherwise requires,—
     (c) in respect of a commercial redress property, has the meaning given in section 102(3)
   - **balance of Te Houhou** means the land described as a second right of purchase Te Houhou property in subpart B of part 3 of the property redress schedule
   - **business day** means the period from 9 am to 5 pm on any day of the week other than—
-    (a) Saturday, Sunday, Waitangi Day, Good Friday, Easter Monday, Anzac Day, the Sovereign’s birthday, and Labour Day; and
+    (a) a Saturday, a Sunday, Waitangi Day, Good Friday, Easter Monday, Anzac Day, the Sovereign’s birthday, Te Rā Aro ki a Matariki/Matariki Observance Day, and Labour Day; and
     (b) a day in the period commencing with 25 December in any year and ending with the close of 15 January in the following year; and
     (c) the day observed as the anniversary of the province of Wellington; and
     (d) the day observed as the anniversary of the province of Auckland, being the day that is locally observed in the Bay of Plenty as that province's anniversary
