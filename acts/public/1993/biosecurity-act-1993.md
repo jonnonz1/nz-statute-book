@@ -1,5 +1,5 @@
 # Biosecurity Act 1993
-_Consolidation as at 2021-10-28_
+_Consolidation as at 2022-04-12_
 
 > An Act to restate and reform the law relating to the exclusion, eradication, and effective management of pests and unwanted organisms
 
@@ -225,7 +225,7 @@ _Consolidation as at 2021-10-28_
       (i) the organism is an organism which has escaped from a containment facility; or
       (ii) a chief technical officer, after consulting the Authority and taking into account any comments made by the Authority concerning the organism, believes that the organism is capable or potentially capable of causing unwanted harm to any natural and physical resources or human health
   - **working day** means any day except—
-    (a) a Saturday, a Sunday, Good Friday, Easter Monday, Anzac Day, Labour Day, the Sovereign's birthday, and Waitangi Day; and
+    (a) a Saturday, a Sunday, Waitangi Day, Good Friday, Easter Monday, Anzac Day, the Sovereign’s birthday, Te Rā Aro ki a Matariki/Matariki Observance Day, and Labour Day; and
     (ab) the day observed in the region of a regional council as the anniversary day of the province of which the region forms part; and
     (ac) if Waitangi Day or Anzac Day falls on a Saturday or a Sunday, the following Monday; and
     (b) a day in the period commencing on 20 December in any year and ending with 15 January in the following year
