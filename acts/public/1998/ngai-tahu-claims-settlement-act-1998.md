@@ -1,5 +1,5 @@
 # Ngāi Tahu Claims Settlement Act 1998
-_Consolidation as at 2021-10-28_
+_Consolidation as at 2022-04-12_
 
 > An Act—ato record the apology given by the Crown to Ngāi Tahu in the deed of settlement executed on 21 November 1997 by the then Prime Minister the Right Honourable James Brendan Bolger, for the Crown, and Te Rūnanga o Ngāi Tahu; andbto give effect to certain provisions of that deed of settlement, being a deed that settles the Ngāi Tahu claims
 
@@ -124,7 +124,7 @@ In this Act, unless the context otherwise requires,—
   - **benchmark terms** has the meaning given to it in section 48
   - **beneficiary** has the meaning given to it in section 339
   - **business day** means the period of 9 am to 5 pm on any day of the week other than—
-    (a) Saturday, Sunday, Good Friday, Easter Monday, Anzac Day, Labour Day, the Sovereign's birthday, and Waitangi Day; and
+    (a) a Saturday, a Sunday, Waitangi Day, Good Friday, Easter Monday, Anzac Day, the Sovereign’s birthday, Te Rā Aro ki a Matariki/Matariki Observance Day, and Labour Day; and
     (b) a day in the period commencing with 25 December in any year and ending with the close of 5 January in the following year; and
     (c) the days observed as the anniversaries of the provinces of Wellington and Canterbury
   - **charter** means the charter of Te Rūnanga o Ngāi Tahu referred to in section 16 of Te Runanga o Ngai Tahu Act 1996
@@ -611,7 +611,7 @@ The purpose of this Part is to provide for the legislative matters contemplated 
   - **special land** means relevant land that is classified as special land pursuant to section 58(1) or section 63(1)
   - **special land notice** means a notice given pursuant to section 56(1)﻿(b) containing the certificate referred to in section 56(1)﻿(b)﻿(iv)
   - **working day** means any day other than:
-    (a) Saturday, Sunday, Good Friday, Easter Monday, Anzac Day, Labour Day, the Sovereign's birthday, and Waitangi Day; and
+    (a) a Saturday, a Sunday, Waitangi Day, Good Friday, Easter Monday, Anzac Day, the Sovereign’s birthday, Te Rā Aro ki a Matariki/Matariki Observance Day, and Labour Day; and
     (ab) if Waitangi Day or Anzac Day falls on a Saturday or a Sunday, the following Monday; and
     (b) a day in the period commencing with 25 December in any year and ending with the close of 15 January in the following year.
 (2) For the purposes of this Part, terms of disposal or of a contract or offer to dispose of relevant land are more favourable compared to other terms of disposal or of a contract or offer to dispose of relevant land if, from a purchaser's point of view, the first-mentioned terms of disposal or of the contract or offer to dispose of the relevant land (taken as a whole and including price) are more favourable compared to the second-mentioned terms of disposal or the contract or offer to dispose of the relevant land (taken as a whole and including price).
