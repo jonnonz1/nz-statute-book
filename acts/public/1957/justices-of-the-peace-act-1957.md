@@ -1,5 +1,5 @@
 # Justices of the Peace Act 1957
-_Consolidation as at 2018-09-08_
+_Consolidation as at 2022-04-12_
 
 > An Act to consolidate and amend certain enactments of the Parliament of New Zealand relating to the appointment of Justices of the Peace
 
@@ -18,7 +18,7 @@ In this Act, unless the context otherwise requires,—
   - **Minister** means the Minister of the Crown who, under the authority of a warrant or with the authority of the Prime Minister, is responsible for the administration of this Act
   - **Secretary** means the Secretary for Justice
   - **working day** means a day of the week other than—
-    (a) a Saturday, a Sunday, Waitangi Day, Good Friday, Easter Monday, Anzac Day, the Sovereign's birthday, and Labour Day; and
+    (a) a Saturday, a Sunday, Waitangi Day, Good Friday, Easter Monday, Anzac Day, the Sovereign’s birthday, Te Rā Aro ki a Matariki/Matariki Observance Day, and Labour Day; and
     (b) if Waitangi Day or Anzac Day falls on a Saturday or a Sunday, the following Monday; and
     (c) a day in the period commencing on 20 December in any year and ending with 15 January in the following year.
 
