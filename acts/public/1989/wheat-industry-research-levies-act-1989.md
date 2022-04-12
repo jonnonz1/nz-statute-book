@@ -1,5 +1,5 @@
 # Wheat Industry Research Levies Act 1989
-_Consolidation as at 2021-10-28_
+_Consolidation as at 2022-04-12_
 
 > An Act to provide money for research into the growing of wheat and the manufacture of wheat into flour, bread, and other products by imposing levies on persons and organisations engaged in wheat growing, flourmilling, baking, and related industries
 
@@ -32,7 +32,7 @@ In this Act, unless the context otherwise requires,—
   - **United Wheatgrowers** means United Wheatgrowers (N.Z.) Limited, a company formed and registered under the Companies Act 1933
   - **Wheatgrowing Industry Research Trust Account** means the account established pursuant to section 17(1)
   - **working day** means any day of the week other than—
-    (a) Saturday, Sunday, Good Friday, Easter Monday, Anzac Day, Labour Day, the Sovereign's birthday, and Waitangi Day; and
+    (a) a Saturday, a Sunday, Waitangi Day, Good Friday, Easter Monday, Anzac Day, the Sovereign’s birthday, Te Rā Aro ki a Matariki/Matariki Observance Day, and Labour Day; and
     (ab) if Waitangi Day or Anzac Day falls on a Saturday or a Sunday, the following Monday; and
     (b) a day in the period beginning with 25 December in any year and ending with 15 January in the following year.
 
