@@ -1,5 +1,5 @@
 # Overseas Investment Act 2005
-_Consolidation as at 2021-11-24_
+_Consolidation as at 2022-04-12_
 
 ### 1 Title
 This Act is the Overseas Investment Act 2005.
@@ -282,7 +282,7 @@ This Act is the Overseas Investment Act 2005.
     (b) a transaction that the Minister has identified in a notice given under section 20B
   - **unpublished CDS** means a critical direct supplier whose status is not published on the list of critical direct suppliers under section 20D(2)﻿(b)﻿(i)
   - **working day** means a day of the week other than—
-    (a) a Saturday, a Sunday, Waitangi Day, Good Friday, Easter Monday, Anzac Day, the Sovereign's birthday, and Labour Day; and
+    (a) a Saturday, a Sunday, Waitangi Day, Good Friday, Easter Monday, Anzac Day, the Sovereign’s birthday, Te Rā Aro ki a Matariki/Matariki Observance Day, and Labour Day; and
     (ab) if Waitangi Day or Anzac Day falls on a Saturday or a Sunday, the following Monday; and
     (b) a day in the period commencing with 25 December in a year and ending with 15 January in the following year.
 (2) In this Act, a person is ordinarily resident in New Zealand,—
