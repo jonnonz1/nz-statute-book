@@ -1,5 +1,5 @@
 # Ngāti Pāhauwera Treaty Claims Settlement Act 2012
-_Consolidation as at 2021-10-28_
+_Consolidation as at 2022-04-12_
 
 ## Preamble
 (1) The Treaty of Waitangi (Te Tiriti o Waitangi) was signed in 1840. The terms of the Treaty of Waitangi (Te Tiriti o Waitangi) in English and Māori are set out in Schedule 1 of the Treaty of Waitangi Act 1975:
@@ -148,7 +148,7 @@ It is the intention of Parliament that the provisions of this Act are interprete
     (a) in respect of a cultural redress property, has the meaning given by section 42(7); and
     (b) in respect of a commercial redress property, has the meaning given by section 83(5), 85(3), or 94(4) (as the case may be)
   - **business day** means any day other than—
-    (a) Saturday, Sunday, Waitangi Day, Good Friday, Easter Monday, Anzac Day, the Sovereign's birthday, and Labour Day; and
+    (a) a Saturday, a Sunday, Waitangi Day, Good Friday, Easter Monday, Anzac Day, the Sovereign’s birthday, Te Rā Aro ki a Matariki/Matariki Observance Day, and Labour Day; and
     (b) a day in the period starting on 25 December in a year and ending with the close of 15 January in the following year; and
     (ba) if Waitangi Day or Anzac Day falls on a Saturday or a Sunday, the following Monday; and
     (c) the day observed as the anniversary of the province of Wellington or Hawke's Bay
