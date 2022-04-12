@@ -1,5 +1,5 @@
 # New Zealand Māori Arts and Crafts Institute Vesting Act 2020
-_Consolidation as at 2020-07-24_
+_Consolidation as at 2022-04-12_
 
 ## Preamble
 (1) The New Zealand Maori Arts and Crafts Institute (the NZMACI) was established as a body corporate by section 4 of the New Zealand Maori Arts and Crafts Institute Act 1963:
@@ -33,7 +33,7 @@ In this Act, unless the context otherwise requires,—Wahiao means the collectiv
   - **balance date** , in relation to the Partnership, has the meaning given in section 41 of the Financial Reporting Act 2013
   - **business day** means a day that is not—
     (a) a Saturday or Sunday; or
-    (b) Waitangi Day, Good Friday, Easter Monday, Anzac Day, the Sovereign’s birthday, or Labour Day; or
+    (b) Waitangi Day, Good Friday, Easter Monday, Anzac Day, the Sovereign’s birthday, Te Rā Aro ki a Matariki/Matariki Observance Day, or Labour Day; or
     (c) if Waitangi Day or Anzac Day falls on a Saturday or Sunday, the following Monday; or
     (d) a day in the period commencing with 25 December in any year and ending with the close of 15 January in the following year; or
     (e) the day observed as Anniversary Day in Auckland
