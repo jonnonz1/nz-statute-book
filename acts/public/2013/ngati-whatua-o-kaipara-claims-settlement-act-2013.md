@@ -1,5 +1,5 @@
 # Ngāti Whātua o Kaipara Claims Settlement Act 2013
-_Consolidation as at 2021-01-30_
+_Consolidation as at 2022-04-12_
 
 ## Preamble
 Background
@@ -209,7 +209,7 @@ In this Act, unless the context otherwise requires,—
   - **trustees** and mean the trustees from time to time of Ngā Maunga Whakahii o Kaipara Development Trust, acting in their capacity as trustees of that trust
   - **trustees of the Tari Pupuritaonga Trust** means the trustees from time to time of the Tari Pupuritaonga Trust, acting in their capacity as trustees of that trust
   - **working day** means a day other than—
-    (a) Saturday, Sunday, Waitangi Day, Good Friday, Easter Monday, Anzac Day, the Sovereign's birthday, and Labour Day; or
+    (a) Saturday, Sunday, Waitangi Day, Good Friday, Easter Monday, Anzac Day, the Sovereign's birthday, Te Rā Aro ki a Matariki/Matariki Observance Day, and Labour Day; or
     (b) a day in the period commencing with 25 December in any year and ending with the close of 15 January in the following year; or
     (c) the days observed as the anniversaries of the provinces of Auckland and Wellington.
 
