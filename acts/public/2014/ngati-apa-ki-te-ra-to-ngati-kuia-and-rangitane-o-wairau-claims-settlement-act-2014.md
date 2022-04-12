@@ -1,5 +1,5 @@
 # Ngāti Apa ki te Rā Tō, Ngāti Kuia, and Rangitāne o Wairau Claims Settlement Act 2014
-_Consolidation as at 2021-10-28_
+_Consolidation as at 2022-04-12_
 
 ### 1 Title
 This Act is the Ngāti Apa ki te Rā Tō, Ngāti Kuia, and Rangitāne o Wairau Claims Settlement Act 2014.
@@ -326,7 +326,7 @@ It is the intention of Parliament that the provisions of this Act are interprete
     (a) that the trustees of the relevant settlement trust have elected to acquire from the Crown by giving notice under paragraph 1.15 of part 4.1, 5.1, or 6.1 of the property redress schedule of the relevant deed of settlement; and
     (b) in respect of which any agreement for sale and purchase (formed under paragraph 2.1 of that part 4.1, 5.1, or 6.1) has not been cancelled
   - **working day** means a day of the week other than—
-    (a) Saturday, Sunday, Waitangi Day, Good Friday, Easter Monday, Anzac Day, the Sovereign's birthday, and Labour Day; and
+    (a) a Saturday, a Sunday, Waitangi Day, Good Friday, Easter Monday, Anzac Day, the Sovereign’s birthday, Te Rā Aro ki a Matariki/Matariki Observance Day, and Labour Day; and
     (b) if Waitangi Day or Anzac Day falls on a Saturday or a Sunday, the following Monday; and
     (c) a day in the period starting on 25 December in a year and ending on 15 January in the following year; and
     (d) the day observed as the anniversary of the province of Nelson, Marlborough, or Wellington.
