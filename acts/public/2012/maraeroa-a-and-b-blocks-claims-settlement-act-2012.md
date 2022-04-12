@@ -1,5 +1,5 @@
 # Maraeroa A and B Blocks Claims Settlement Act 2012
-_Consolidation as at 2021-10-28_
+_Consolidation as at 2022-04-12_
 
 ## Preamble
 Background
@@ -132,7 +132,7 @@ In this Act, unless the context otherwise requires,—
   - **attachments** means the attachments to the deed of settlement
   - **authorised person** has the meaning given in section 64(5), 69(5), or 77(4), as the case may be
   - **business day** means a day of the week other than—
-    (a) a Saturday, a Sunday, Waitangi Day, Good Friday, Easter Monday, Anzac Day, the Sovereign's birthday, and Labour Day; and
+    (a) a Saturday, a Sunday, Waitangi Day, Good Friday, Easter Monday, Anzac Day, the Sovereign’s birthday, Te Rā Aro ki a Matariki/Matariki Observance Day, and Labour Day; and
     (b) if Waitangi Day or Anzac Day falls on a Saturday or a Sunday, the following Monday; and
     (c) a day in the period starting on 25 December in any year and ending with 15 January in the following year; and
     (d) the days observed as the anniversaries of the provinces of Auckland and Wellington
