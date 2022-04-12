@@ -1,5 +1,5 @@
 # Veterans' Support Act 2014
-_Consolidation as at 2021-11-16_
+_Consolidation as at 2022-04-12_
 
 ### 1 Title
 This Act is the Veterans' Support Act 2014.
@@ -183,7 +183,7 @@ In this Act, unless the context otherwise requires,—
       (iii) Parts 4 and 5
   - **whāngai** means a child adopted by the veteran in accordance with Māori custom
   - **working day** means a day of the week other than—
-    (a) a Saturday, a Sunday, Waitangi Day, Good Friday, Easter Monday, Anzac Day, the Sovereign's birthday, and Labour Day; and
+    (a) a Saturday, a Sunday, Waitangi Day, Good Friday, Easter Monday, Anzac Day, the Sovereign’s birthday, Te Rā Aro ki a Matariki/Matariki Observance Day, and Labour Day; and
     (b) if Waitangi Day or Anzac Day falls on a Saturday or a Sunday, the following Monday; and
     (ba) the day observed in the appropriate area as the anniversary of the province of which the area forms a part; and
     (c) a day in the period commencing on 25 December in any year and ending with 15 January in the following year.
