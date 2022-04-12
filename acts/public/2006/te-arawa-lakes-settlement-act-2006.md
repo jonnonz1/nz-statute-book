@@ -1,5 +1,5 @@
 # Te Arawa Lakes Settlement Act 2006
-_Consolidation as at 2021-10-28_
+_Consolidation as at 2022-04-12_
 
 ## Preamble
 (1) Recitals (2) to (12) of this Preamble present, in summary form, the background to the Te Arawa lakes claims that is set out in Part 7 of the deed of settlement:
@@ -132,7 +132,7 @@ In this Act, unless the context otherwise requires,—
   - **aquatic life** , except as defined in section 72(2), has the same meaning as in section 2(1) of the Conservation Act 1987
   - **Arawa Māori Trust Board** and mean the Board referred to in section 4(1) of the Maori Trust Boards Act 1955
   - **business day** means the period of 9 am to 5 pm on any day of the week other than—
-    (a) Saturday, Sunday, Good Friday, Easter Monday, Anzac Day, the Sovereign’s birthday, Labour Day, and Waitangi Day; and
+    (a) a Saturday, a Sunday, Waitangi Day, Good Friday, Easter Monday, Anzac Day, the Sovereign’s birthday, Te Rā Aro ki a Matariki/Matariki Observance Day, and Labour Day; and
     (b) a day in the period commencing on 25 December in any year and ending with the close of 15 January in the following year; and
     (ba) if Waitangi Day or Anzac Day falls on a Saturday or a Sunday, the following Monday; and
     (c) the days observed as the anniversaries of the provinces of Wellington and Auckland
@@ -537,7 +537,7 @@ The Trustees of the Te Arawa Lakes Trust are not liable for an existing structur
   (d) navigation aids and any activity of or on behalf of the Crown, a local authority, or a statutory body that is necessary for the purpose of assisting or improving the navigation of vessels over the Te Arawa lakebeds; and
   (e) public works, including reclamations, carried out by or on behalf of the Crown or a local authority; and
   (f) structures made, or activities or works carried on, by or on behalf of a local authority for the control of water levels and the avoidance and control of flooding; and
-  (g) structures and activities of the Department of Conservation, the Institute of Geological and Nuclear Sciences Limited, and the National Institute of Water and Atmospheric Research Limited.
+  (g) structures and activities of the Department of Conservation and the New Zealand Institute for Earth Science Limited.
 (2) In sections 38, 39, and 46, public utility authority means a person that places, installs, or performs a public utility in or on a Te Arawa lakebed.
 
 ### 38 Rights for public utilities without authorisation
@@ -557,9 +557,9 @@ If a public utility authority has a right or authorisation by or under an enactm
 ### 40 Limits to rights applying to certain public utilities
 (1) Sections 38 and 39 do not apply to a public utility that is also—
   (a) an existing structure (to the extent that a structure is an existing structure):
-  (b) an existing commercial activity of a kind described in item 7 of subpart C of Part 1 of the Cultural Redress Schedule (other than an activity of the Department of Conservation, the Institute of Geological and Nuclear Sciences Limited, or the National Institute of Water and Atmospheric Research Limited).
+  (b) an existing commercial activity of a kind described in item 7 of subpart C of Part 1 of the Cultural Redress Schedule (other than an activity of the Department of Conservation or the New Zealand Institute for Earth Science Limited).
 (2) The common law right of navigation provided for by section 31 and the right to undertake a recreational activity provided for by section 32 do not apply in the case of a public utility.
-(3) Section 36(3) does not apply in the case of an existing commercial activity that is also a public utility, unless that existing commercial activity is of a kind described in item 7 of subpart C of Part 1 of the Cultural Redress Schedule (other than an activity of the Department of Conservation, the Institute of Geological and Nuclear Sciences Limited, or the National Institute of Water and Atmospheric Research Limited).
+(3) Section 36(3) does not apply in the case of an existing commercial activity that is also a public utility, unless that existing commercial activity is of a kind described in item 7 of subpart C of Part 1 of the Cultural Redress Schedule (other than an activity of the Department of Conservation or the New Zealand Institute for Earth Science Limited).
 
 **New commercial activities and new structures**
 
