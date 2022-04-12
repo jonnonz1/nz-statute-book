@@ -1,5 +1,5 @@
 # Fire and Emergency New Zealand Act 2017
-_Consolidation as at 2021-10-28_
+_Consolidation as at 2022-04-12_
 
 ### 1 Title
 This Act is the Fire and Emergency New Zealand Act 2017.
@@ -1034,7 +1034,7 @@ The purpose of this Part is to provide for a levy that is—
   - **specialised accommodation** means a building that is specified, in regulations made under section 141, as specialised accommodation for the purposes of this Part
   - **third party liability** means a person’s liability to any other person arising from or in connection with a motor vehicle
   - **working day** means a day of the week other than—
-  (a) a Saturday, a Sunday, Waitangi Day, Good Friday, Easter Monday, Anzac Day, the Sovereign’s birthday, and Labour Day; and
+  (a) a Saturday, a Sunday, Waitangi Day, Good Friday, Easter Monday, Anzac Day, the Sovereign’s birthday, Te Rā Aro ki a Matariki/Matariki Observance Day, and Labour Day; and
   (b) if Waitangi Day or Anzac Day falls on a Saturday or a Sunday, the following Monday; and
   (c) a day in the period commencing on 25 December in any year and ending on 15 January in the following year.
 (2) The provisions of this Part must be interpreted in a manner that best gives effect to the purpose set out in section 80.
