@@ -1,5 +1,5 @@
 # Waikato-Tainui Raupatu Claims (Waikato River) Settlement Act 2010
-_Consolidation as at 2021-10-28_
+_Consolidation as at 2022-04-12_
 
 ## Preamble
 The Relationship of Waikato-Tainui with the Waikato River
@@ -96,7 +96,7 @@ The purpose of this Act is to—
   - **appointer** means a person who appoints a member under clause 2 of Schedule 6
   - **authorised customary activities** means the activities specified in Schedule 3
   - **business day** means the period of 9 am to 5 pm on any day of the week other than—
-    (a) a Saturday, a Sunday, Waitangi Day, Good Friday, Easter Monday, Anzac Day, the Sovereign's birthday, and Labour Day; and
+    (a) a Saturday, a Sunday, Waitangi Day, Good Friday, Easter Monday, Anzac Day, the Sovereign’s birthday, Te Rā Aro ki a Matariki/Matariki Observance Day, and Labour Day; and
     (b) if Waitangi Day or Anzac Day falls on a Saturday or a Sunday, the following Monday; and
     (c) a day in the period commencing on 20 December in any year and ending with 10 January in the following year; and
     (d) the days observed as the anniversaries of the provinces of Auckland and Wellington
