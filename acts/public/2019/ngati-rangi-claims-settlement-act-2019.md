@@ -1,5 +1,5 @@
 # Ngāti Rangi Claims Settlement Act 2019
-_Consolidation as at 2021-10-28_
+_Consolidation as at 2022-04-12_
 
 ### 1 Title
 This Act is the Ngāti Rangi Claims Settlement Act 2019.
@@ -388,7 +388,7 @@ In this Act, unless the context otherwise requires,—
     (d) the Ngāti Hāua Iwi Trust, and, when that entity is succeeded by a governance entity, that governance entity
   - **Whanganui Land Settlement Negotiation Trust** means the trust of that name established by trust deed dated 25 January 2017
   - **working day** means a day other than—
-    (a) Saturday, Sunday, Waitangi Day, Good Friday, Easter Monday, Anzac Day, the Sovereign’s birthday, and Labour Day:
+    (a) a Saturday, a Sunday, Waitangi Day, Good Friday, Easter Monday, Anzac Day, the Sovereign’s birthday, Te Rā Aro ki a Matariki/Matariki Observance Day, and Labour Day:
     (b) if Waitangi Day or Anzac Day falls on a Saturday or Sunday, the following Monday:
     (c) a day in the period commencing with 25 December in any year and ending with the close of 15 January in the following year:
     (d) the day observed as the anniversary of the province of Wellington.
