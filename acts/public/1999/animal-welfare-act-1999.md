@@ -1,5 +1,5 @@
 # Animal Welfare Act 1999
-_Consolidation as at 2021-10-28_
+_Consolidation as at 2022-04-12_
 
 > An Act—ato reform the law relating to the welfare of animals and the prevention of their ill-treatment; and, in particular,—(i)to recognise that animals are sentient:(ia)to require owners of animals, and persons in charge of animals, to attend properly to the welfare of those animals:iito specify conduct that is or is not permissible in relation to any animal or class of animals:iiito provide a process for approving the use of animals in research, testing, and teaching:ivto establish a National Animal Welfare Advisory Committee and a National Animal Ethics Advisory Committee:vto provide for the development and issue of codes of welfare and the approval of codes of ethical conduct:bto repeal the Animals Protection Act 1960
 
@@ -126,7 +126,7 @@ _Consolidation as at 2021-10-28_
   - **veterinarian** means a veterinarian or a specialist within the meaning of section 4 of the Veterinarians Act 2005
   - **wild animal** has the meaning given to it by section 2(1) of the Wild Animal Control Act 1977
   - **working day** means any day except—
-    (a) Saturday, Sunday, Good Friday, Easter Monday, Anzac Day, Labour Day, the Sovereign's birthday, and Waitangi Day; and
+    (a) a Saturday, a Sunday, Waitangi Day, Good Friday, Easter Monday, Anzac Day, the Sovereign’s birthday, Te Rā Aro ki a Matariki/Matariki Observance Day, and Labour Day; and
     (ab) if Waitangi Day or Anzac Day falls on a Saturday or a Sunday, the following Monday; and
     (b) a day in the period commencing on 20 December in any year and ending with 15 January in the following year.
 (2) The Minister of Conservation must not declare an animal to be a pest for the purposes of this Act unless he or she is of the opinion that the fulfilling of responsibilities or functions of the Director-General of Conservation or the Minister of Conservation or the Department of Conservation under—requires the declaration to be made.
