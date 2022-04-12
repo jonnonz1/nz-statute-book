@@ -1,5 +1,5 @@
 # Privacy Act 2020
-_Consolidation as at 2021-10-28_
+_Consolidation as at 2022-04-12_
 
 ### 1 Title
 This Act is the Privacy Act 2020.
@@ -159,7 +159,7 @@ This Act binds the Crown.
     (c) the time at which the threat may be realised
   - **unique identifier** , in relation to an individual, means an identifier other than the individual’s name that uniquely identifies the individual
   - **working day** means any day of the week other than—
-    (a) a Saturday, a Sunday, Waitangi Day, Good Friday, Easter Monday, Anzac Day, the Sovereign's birthday, or Labour Day; or
+    (a) a Saturday, a Sunday, Waitangi Day, Good Friday, Easter Monday, Anzac Day, the Sovereign's birthday, Te Rā Aro ki a Matariki/Matariki Observance Day, or Labour Day; or
     (b) if Waitangi Day or Anzac Day falls on a Saturday or a Sunday, the following Monday; or
     (c) a day in the period commencing on 25 December in one year and ending with 15 January in the next year.
 (2) For the purposes of this Act, a person is to be treated as ordinarily resident in New Zealand if—
