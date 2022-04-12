@@ -1,5 +1,5 @@
 # Residential Tenancies Act 1986
-_Consolidation as at 2021-11-03_
+_Consolidation as at 2022-04-12_
 
 > An Act to reform and restate the law relating to residential tenancies, to define the rights and obligations of landlords and tenants of residential properties, to establish a tribunal to determine expeditiously disputes arising between such landlords and tenants, to establish a fund in which bonds payable by such tenants are to be held, and to repeal the Tenancy Act 1955 and the Rent Appeal Act 1973 and their amendments
 
@@ -128,7 +128,7 @@ _Consolidation as at 2021-11-03_
       (ii) the landlord to carry out any work, or to attend to any matters, as specified in the order for the purpose of complying with the healthy homes standards; and
     (c) if section 78A applies, see also section 78A(4)﻿(b)
   - **working day** means any day other than—
-    (a) a Saturday, a Sunday, Waitangi Day, Anzac Day, the Sovereign's birthday, and Labour Day; and
+    (a) a Saturday, a Sunday, Waitangi Day, Anzac Day, the Sovereign's birthday, Te Rā Aro ki a Matariki/Matariki Observance Day, and Labour Day; and
     (b) if Waitangi Day or Anzac Day falls on a Saturday or a Sunday, the following Monday; and
     (c) the day observed in the appropriate area as the anniversary of the province of which the area forms part; and
     (d) a day in the period commencing with Good Friday and expiring with the Tuesday after Easter; and
@@ -3827,15 +3827,6 @@ This Act amends the Residential Tenancies Act 1986.
   (c) section 53A (which relates to the termination of certain student tenancies).
 (4) This section overrides section 89.
 
-### 91 Application of certain provisions to existing tenancies deferred
-(1) During the period of 6 months after the commencement of section 13 of this Act, section 16A of the principal Act (which requires a landlord to have an agent if out of New Zealand for longer than 21 consecutive days) does not apply to existing tenancies, but applies to those tenancies after the expiry of that period.
-(2) During the period of 12 months after the commencement of section 42 of this Act, sections 60A to 60C of the principal Act (which relate to the circumstances in which fixed-term tenancies become periodic tenancies) do not apply to existing tenancies, but apply to those tenancies after the expiry of that period.
-(3) This section overrides section 89.
-
-### 92 Goods abandoned in case of tenancies terminated before relevant commencement
-(1) This section applies to goods left on the premises by a tenant under a tenancy that is terminated before the commencement of section 44 of this Act.
-(2) The principal Act applies to the goods as if sections 24 and 44 of this Act had not been enacted.
-
 ### 93 Boarding house tenancies
 (1) This section applies to boarding house tenancies.
 (2) If, on the commencement of Part 2A of the principal Act, a landlord, or any person on behalf of the landlord, holds a bond paid in respect of an existing tenancy, the following provisions apply:
@@ -3844,17 +3835,6 @@ This Act amends the Residential Tenancies Act 1986.
 (3) Sections 13, 13A, and 66C of the principal Act (which relate to the form and content of boarding house tenancy agreements) do not apply to existing tenancies.
 (4) Section 66E of the principal Act (which relates to outgoings) does not apply to existing tenancies.
 (5) Section 9(2) and (3) of the principal Act (which are transitional provisions) apply to existing tenancies as if the references in those provisions to the commencement of this Act were references to the commencement of Part 2A of the principal Act.
-
-### 94 References to Part 2A to be disregarded before its commencement
-(1) Until the commencement of Part 2A of the principal Act, section 50(ab) of the principal Act must be read as if it did not refer to a sole tenant under a boarding house tenancy agreement or to section 66W of the principal Act.
-(2) Until the commencement of Part 2A of the principal Act, Schedule 1A of the principal Act must be read as if it did not contain the items that relate to sections located in Part 2A of the principal Act.
-
-### 95 References to Unit Titles Act 2010 before operation of that Act
-(1) Until the commencement of the Unit Titles Act 2010, the references in sections 16B(1), 25(2A), and 66(4) of the principal Act to a stratum estate under the Unit Titles Act 2010 must be read as references to a stratum estate under the Unit Titles Act 1972.
-(2) Until section 37 of the Unit Titles Act 1972 ceases, by operation of sections 218, 220, and 221 of the Unit Titles Act 2010, to be in force in respect of any premises held in a stratum estate, the references in sections 16B(2), 25(2A), and 66(4) of the principal Act to body corporate operational rules must be read as references to rules prescribed by or under section 37 of the Unit Titles Act 1972.
-
-### 96 Bond refund applications
-If an application for payment of a bond under section 22 of the principal Act (as in force before the commencement of this section) is received by the chief executive and appears to have been posted or lodged before that commencement, then the application must be dealt with under the principal Act as in force before that commencement.
 
 ### 97 Proceedings before Tribunal
 (1) Every application filed with the Tribunal under section 86 of the principal Act before the commencement of this section must be dealt with under the principal Act as in force before that commencement.
