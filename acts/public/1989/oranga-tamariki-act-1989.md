@@ -1,5 +1,5 @@
 # Oranga Tamariki Act 1989
-_Consolidation as at 2021-10-28_
+_Consolidation as at 2022-04-12_
 
 > Title
 
@@ -140,7 +140,7 @@ _Consolidation as at 2021-10-28_
     (b) the kinship that provides the foundations for reciprocal obligations and responsibilities to be met:
     (c) the wider kinship ties that need to be protected and maintained to ensure the maintenance and protection of their sense of belonging, identity, and connection
   - **working day** means a day of the week other than—
-    (a) Saturday, Sunday, Good Friday, Easter Monday, Anzac Day, Labour Day, the Sovereign's birthday, and Waitangi Day; and
+    (a) a Saturday, a Sunday, Waitangi Day, Good Friday, Easter Monday, Anzac Day, the Sovereign’s birthday, Te Rā Aro ki a Matariki/Matariki Observance Day, and Labour Day; and
     (ab) if Waitangi Day or Anzac Day falls on a Saturday or a Sunday, the following Monday; and
     (b) a day in the period commencing with 25 December in a year and ending with 15 January in the following year; and
     (c) in relation to a requirement to file a document with any court or to supply a document before a sitting of any court,—
@@ -4230,7 +4230,7 @@ Where a young person who is subject to an order made under section 311(1) abscon
 (1) Every order made under section 311(1) shall cease to have effect when the order's period elapses or the young person is sooner released from the custody of the chief executive pursuant to section 314.
 (1A) If the period of an order made under section 311(1) elapses on a day that is a non-release day, the expiry of the order must for all purposes be treated as occurring instead on the nearest preceding day that is not a non-release day.
 (1B) Non-release day, in subsection (1A), means a day that is—
-  (a) Saturday, Sunday, Good Friday, Easter Monday, Anzac Day, Labour Day, the Sovereign's birthday, or Waitangi Day; or
+  (a) Saturday, Sunday, Good Friday, Easter Monday, Anzac Day, Labour Day, the Sovereign's birthday, Te Rā Aro ki a Matariki/Matariki Observance Day, or Waitangi Day; or
   (b) a day in the period commencing with 25 December in a year and ending with 15 January in the following year; or
   (c) in respect of release from a particular place, the anniversary day of the region in which that place is situated.
 (2) Where an order made under section 311(1) expires or is cancelled pursuant to section 316, custody of the young person shall revert to the person having custody of the young person immediately before the order was made.
@@ -4692,7 +4692,7 @@ Subject to sections 368 and 370 and to any regulations made under section 447, t
 (1) Subject to subsection (2), no child or young person shall be kept in secure care for a continuous period of more than 72 hours, or on more than 3 consecutive days (whether continuously or not), unless an approval has been granted under section 376.
 (2) Notwithstanding anything in subsection (1), no child or young person (being a child or young person who is placed in the custody of the chief executive pursuant to section 42 or section 235) shall be kept in secure care for a continuous period of more than 24 hours unless an approval has been granted under section 376.
 (3) In calculating, for the purposes of subsection (2), the period for which a child or young person has been kept in secure care, any period spent in secure care on any of the following days shall not be included:
-  (a) Saturday, Sunday, Good Friday, Easter Monday, Anzac Day, Labour Day, the Sovereign's birthday, Waitangi Day, Christmas Day, Boxing Day, New Year's Day, or the second day of January:
+  (a) Saturday, Sunday, Good Friday, Easter Monday, Anzac Day, Labour Day, the Sovereign's birthday, Te Rā Aro ki a Matariki/Matariki Observance Day, Waitangi Day, Christmas Day, Boxing Day, New Year's Day, or the second day of January:
   (ab) if Waitangi Day or Anzac Day falls on a Saturday or a Sunday, the following Monday:
   (b) the day observed as the anniversary of the province in which the residence in which the child or young person is detained is situated:
   (c) any day that is a public holiday in the place in which that residence is situated.
