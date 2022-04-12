@@ -1,5 +1,5 @@
 # Commerce Act 1986
-_Consolidation as at 2022-04-06_
+_Consolidation as at 2022-04-12_
 
 > Title
 
@@ -98,7 +98,7 @@ The purpose of this Act is to promote competition in markets for the long-term b
   - **trade** means any trade, business, industry, profession, occupation, activity of commerce, or undertaking relating to the supply or acquisition of goods or services or to the disposition or acquisition of any interest in land
   - **turnover** means the total gross revenues (exclusive of any tax required to be collected) received or receivable by a body corporate in an accounting period as a result of trading by that body corporate within New Zealand
   - **working day** means any day of the week other than—
-    (a) Saturday, Sunday, Good Friday, Easter Monday, Anzac Day, Labour Day, the Sovereign's birthday, and Waitangi Day; and
+    (a) a Saturday, a Sunday, Waitangi Day, Good Friday, Easter Monday, Anzac Day, the Sovereign’s birthday, Te Rā Aro ki a Matariki/Matariki Observance Day, and Labour Day; and
     (ab) if Waitangi Day or Anzac Day falls on a Saturday or a Sunday, the following Monday; and
     (b) a day in the period commencing with 25 December in any year and ending with 15 January in the following year.
 (1A) In this Act (except sections 36, 36A, and 47(3) and (4)) substantial means real or of substance.
