@@ -1,5 +1,5 @@
 # Maori Reserved Land Amendment Act 1997
-_Consolidation as at 2021-10-28_
+_Consolidation as at 2022-04-12_
 
 > An Act to amend the Maori Reserved Land Act 1955
 
@@ -281,7 +281,7 @@ The principal Act is amended in the manner set out in Schedule 4.
     (b) A spouse of a deceased lessee or shareholder or beneficiary:
   - **Valuable consideration** means a consideration consisting of money
   - **Working day** means any day of the week other than—
-    (a) Saturday, Sunday, Good Friday, Easter Monday, Anzac Day, Labour Day, the Sovereign's birthday, and Waitangi Day; and
+    (a) a Saturday, a Sunday, Waitangi Day, Good Friday, Easter Monday, Anzac Day, the Sovereign’s birthday, Te Rā Aro ki a Matariki/Matariki Observance Day, and Labour Day; and
     (b) A day in the period commencing with 25 December in any year and ending with 20 January in the following year.
 (2) In these provisions, unless the context otherwise requires,—
   (a) A reference to a clause is a reference to a clause in these provisions:
