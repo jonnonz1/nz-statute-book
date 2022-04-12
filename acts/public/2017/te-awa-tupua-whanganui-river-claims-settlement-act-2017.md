@@ -1,5 +1,5 @@
 # Te Awa Tupua (Whanganui River Claims Settlement) Act 2017
-_Consolidation as at 2021-10-28_
+_Consolidation as at 2022-04-12_
 
 ### 1 Title
 This Act is the Te Awa Tupua (Whanganui River Claims Settlement) Act 2017.
@@ -99,7 +99,7 @@ In this Act, unless the context otherwise requires,—
     (d) the beds of the bodies of water described in paragraphs (a) to (c)
   - **Whanganui River catchment** and mean the area shown titled as the Whanganui River catchment on SO 469123
   - **working day** means a day other than—
-    (a) Saturday, Sunday, Waitangi Day, Good Friday, Easter Monday, Anzac Day, the Sovereign's birthday, and Labour Day:
+    (a) a Saturday, a Sunday, Waitangi Day, Good Friday, Easter Monday, Anzac Day, the Sovereign’s birthday, Te Rā Aro ki a Matariki/Matariki Observance Day, and Labour Day:
     (b) if Waitangi Day or Anzac Day falls on a Saturday or a Sunday, the following Monday:
     (c) a day in the period commencing with 25 December in any year and ending with the close of 15 January in the following year:
     (d) the day observed as anniversary day in Wellington and Whanganui.
