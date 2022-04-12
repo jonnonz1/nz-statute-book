@@ -1,5 +1,5 @@
 # Conservation Act 1987
-_Consolidation as at 2021-10-28_
+_Consolidation as at 2022-04-12_
 
 > An Act to promote the conservation of New Zealand's natural and historic resources, and for that purpose to establish a Department of Conservation
 
@@ -188,7 +188,7 @@ _Consolidation as at 2021-10-28_
   - **wild animal** has the same meaning as in section 2 of the Wild Animal Control Act 1977; but does not include any animal product derived from a wild animal
   - **wildlife** has the same meaning as it has in the Wildlife Act 1953
   - **working day** means a day of the week other than—
-    (a) a Saturday, a Sunday, Waitangi Day, Good Friday, Easter Monday, Anzac Day, the Sovereign's birthday, and Labour Day; and
+    (a) a Saturday, a Sunday, Waitangi Day, Good Friday, Easter Monday, Anzac Day, the Sovereign’s birthday, Te Rā Aro ki a Matariki/Matariki Observance Day, and Labour Day; and
     (b) if Waitangi Day or Anzac Day falls on a Saturday or a Sunday, the following Monday; and
     (c) a day in the period commencing on 20 December in any year and ending with 10 January in the following year.
 (2) In this Act, unless the context otherwise requires, conservation park, ecological area, sanctuary area, or wilderness area, mean an area held for ecological, park, sanctuary, or wilderness purposes under section 18AA(1) or 18(1).
@@ -1621,7 +1621,7 @@ Except as otherwise provided by this Act or any regulations made under it, no me
   (a) acquire and dispose of land or any interest in land for such purposes as are reasonably necessary to enable the Council to carry out its functions, including the provision of office premises:
   (b) acquire any land or interest in land formerly held by an acclimatisation society:
   (c) enter into contracts for the provision of services by it.
-(3) every agreement under subsection (2) is subject to the following conditions:
+(3) Every agreement under subsection (2) is subject to the following conditions:
   (a) in the case of an acquisition (other than for administrative purposes), the land or interest in land shall be acquired for use for the purposes of the management of sports fish or game, and the protection of their habitat:
   (b) no disposal (other than for administrative purposes) shall be made if the land or interest in land is required for the management of sports fish or game, or the protection of their habitat:
   (c) any land acquired under this section (other than for administrative purposes) shall be open to the public, and may be closed in order to protect the sports fish and game habitat only after public notice of the closure has been given in the region:
