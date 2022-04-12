@@ -1,5 +1,5 @@
 # Local Government Act 2002
-_Consolidation as at 2021-11-15_
+_Consolidation as at 2022-04-12_
 
 ### 1 Title
 This Act is the Local Government Act 2002.
@@ -160,7 +160,7 @@ In order to recognise and respect the Crown's responsibility to take appropriate
       (i) reservoirs, dams, bores, tanks, and pipes; and
       (ii) buildings, machinery, and appliances
   - **working day** means a day of the week other than—
-    (a) Saturday, Sunday, Good Friday, Easter Monday, Anzac Day, Labour Day, the Sovereign’s birthday, and Waitangi Day; and
+    (a) a Saturday, a Sunday, Waitangi Day, Good Friday, Easter Monday, Anzac Day, the Sovereign’s birthday, Te Rā Aro ki a Matariki/Matariki Observance Day, and Labour Day; and
     (b) if Waitangi Day or Anzac Day falls on a Saturday or a Sunday, the following Monday; and
     (c) the day observed in the appropriate area as the anniversary of the province of which the area forms a part; and
     (d) a day in the period commencing with 20 December in any year and ending with 10 January in the following year.
