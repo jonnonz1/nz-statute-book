@@ -1,5 +1,5 @@
 # Parole Act 2002
-_Consolidation as at 2021-10-28_
+_Consolidation as at 2022-04-12_
 
 ### 1 Title
 This Act is the Parole Act 2002.
@@ -61,7 +61,7 @@ The purpose of this Act is to reform the law relating to the release from detent
     (c) a medical laboratory technologist
   - **medical practitioner** means a health practitioner who is, or is deemed to be, registered with the Medical Council of New Zealand continued by section 114(1)﻿(a) of the Health Practitioners Competence Assurance Act 2003 as a practitioner of the profession of medicine
   - **non-parole period** means the term within, or proportion of, a long-term sentence during which the offender who is subject to the sentence is not eligible to be released on parole from the sentence
-  - **non-release day** means a Thursday, a Friday, a Saturday, a Sunday, Christmas Day, Boxing Day, New Year's Day, the second day of January, Waitangi Day, Easter Monday, Anzac Day, the Sovereign's birthday, Labour Day, and, in respect of release from a particular place, the anniversary day of the region in which that place is situated
+  - **non-release day** means a Thursday, a Friday, a Saturday, a Sunday, Christmas Day, Boxing Day, New Year's Day, the second day of January, Waitangi Day, Easter Monday, Anzac Day, the Sovereign's birthday, Te Rā Aro ki a Matariki/Matariki Observance Day, Labour Day, and, in respect of release from a particular place, the anniversary day of the region in which that place is situated
   - **notional single sentence** means the notional single sentence of imprisonment that is created when one determinate sentence is directed to be served cumulatively on another determinate sentence (see section 75)
   - **nurse** means a health practitioner who is, or is deemed to be, registered with the Nursing Council of New Zealand continued by section 114(1)﻿(a) of the Health Practitioners Competence Assurance Act 2003 as a practitioner of the profession of nursing whose scope of practice permits the performance of general nursing functions
   - **parole eligibility date** means the date on and after which an offender who is subject to 1 or more long-term sentences of imprisonment is eligible to be released on parole (see section 20)
