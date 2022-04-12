@@ -1,5 +1,5 @@
 # Holidays Act 2003
-_Consolidation as at 2021-10-28_
+_Consolidation as at 2022-04-12_
 
 ### 1 Title
 This Act is the Holidays Act 2003.
@@ -476,7 +476,7 @@ To avoid doubt, an employer may have different closedown periods for each separa
 
 ### 43 Purpose of this subpart
 The purpose of this subpart is—
-  (a) to provide employees with an entitlement to 11 public holidays if the holidays fall on days that would otherwise be working days for the employee:
+  (a) to provide employees with an entitlement to 12 public holidays if the holidays fall on days that would otherwise be working days for the employee:
   (b) to provide for the transfer of public holidays (whether in whole or in part):
   (c) to specify the entitlements of employees in relation to public holidays.
 
@@ -491,6 +491,7 @@ The purpose of this subpart is—
   (g) Easter Monday:
   (h) ANZAC Day:
   (i) the birthday of the reigning Sovereign (observed on the first Monday in June):
+  (ia) the day on which a public holiday is observed to acknowledge Matariki (Te Rā Aro ki a Matariki/Matariki Observance Day) (see Schedule 1 of Te Ture mō te Hararei Tūmatanui o te Kāhui o Matariki 2022/the Te Kāhui o Matariki Public Holiday Act 2022):
   (j) Labour Day (being the fourth Monday in October):
   (k) the day of the anniversary of a province or the day locally observed as that day.
 (2)
