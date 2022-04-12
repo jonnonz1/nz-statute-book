@@ -1,5 +1,5 @@
 # Broadcasting Act 1989
-_Consolidation as at 2021-10-28_
+_Consolidation as at 2022-04-12_
 
 > An Act—ato provide for the maintenance of programme standards in broadcasting in New Zealand; andbto establish the Broadcasting Standards Authority and to define its functions and powers; andcto establish the Broadcasting Commission and to define its functions and powers; anddto enable political parties to broadcast election programmes for Parliamentary elections free of charge; andefto repeal the Broadcasting Act 1976; andgto provide for matters incidental thereto
 
@@ -58,7 +58,7 @@ _Consolidation as at 2021-10-28_
   - **total revenue** means all income classified as revenue by the applicable financial reporting standard (within the meaning of section 5 of the Financial Reporting Act 2013)
   - **transmit on demand** means the transmission of content, by any means, made on the demand of a particular person for reception by that person
   - **working day** means any day of the week other than—
-    (a) Saturday, Sunday, Good Friday, Easter Monday, Anzac Day, Labour Day, the Sovereign's birthday, and Waitangi Day; and
+    (a) a Saturday, a Sunday, Waitangi Day, Good Friday, Easter Monday, Anzac Day, the Sovereign’s birthday, Te Rā Aro ki a Matariki/Matariki Observance Day, and Labour Day; and
     (ab) if Waitangi Day or Anzac Day falls on a Saturday or a Sunday, the following Monday; and
     (b) a day in the period commencing with 25 December in any year and ending with 15 January in the following year.
 (2) For the purposes of this Act, a person who supplies transmission services to a person who broadcasts programmes is not, by reason only of the provision of those services, a broadcaster within the meaning of this Act unless the person who provides the transmission services is, where the person who broadcasts programmes is a company, in a position to exercise control, either alone or in association with any other person, of—
