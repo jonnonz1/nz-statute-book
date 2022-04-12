@@ -1,5 +1,5 @@
 # Personal Property Securities Act 1999
-_Consolidation as at 2021-10-28_
+_Consolidation as at 2022-04-12_
 
 > An Act to reform the law relating to security interests in personal property and, in particular,—ato provide for the creation and enforceability of security interests in personal property; andbto provide for the determination of priority between security interests in the same personal property; andcto provide for the determination of priority between security interests and other types of interests in the same personal property; anddto provide for the enforcement of security interests in personal property other than consumer goods; andeto provide for the establishment of a register of security interests in personal property
 
@@ -226,7 +226,7 @@ Part 12—provides for a 6-month transitional period during which time prior sec
   - **verification statement** has the meaning set out in section 135
   - **whole** means an accession and the goods in which the accession is installed or to which the accession is affixed
   - **working day** means a day of the week other than—
-    (a) Saturday, Sunday, Good Friday, Easter Monday, Anzac Day, the Sovereign's birthday, Labour Day, and Waitangi Day; and
+    (a) a Saturday, a Sunday, Waitangi Day, Good Friday, Easter Monday, Anzac Day, the Sovereign’s birthday, Te Rā Aro ki a Matariki/Matariki Observance Day, and Labour Day; and
     (ab) if Waitangi Day or Anzac Day falls on a Saturday or a Sunday, the following Monday; and
     (b) a day in the period commencing on 25 December in any year and,—
       (i) except in sections 165, 167A, 168, and 178, ending with 2 January in the following year; and
