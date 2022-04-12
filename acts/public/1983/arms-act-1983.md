@@ -1,5 +1,5 @@
 # Arms Act 1983
-_Consolidation as at 2021-10-28_
+_Consolidation as at 2022-04-12_
 
 > Title
 
@@ -145,7 +145,7 @@ _Consolidation as at 2021-10-28_
     (c) restricted weapons
   - **visitor** means a visitor to New Zealand who intends to be in New Zealand for less than 1 year
   - **working day** means any day of the week other than—
-    (a) Saturday, Sunday, Good Friday, Easter Monday, Anzac Day, Labour Day, the Sovereign's birthday, and Waitangi Day; and
+    (a) a Saturday, a Sunday, Waitangi Day, Good Friday, Easter Monday, Anzac Day, the Sovereign’s birthday, Te Rā Aro ki a Matariki/Matariki Observance Day, and Labour Day; and
     (ab) if Waitangi Day or Anzac Day falls on a Saturday or a Sunday, the following Monday; and
     (b) a day in the period commencing with 25 December in any year and ending with 15 January in the following year.
 (2) For the purposes of the definition of restricted airgun in subsection (1), an airgun can have the appearance of a pistol, restricted weapon, prohibited firearm, or firearm capable of full automatic fire without having the appearance of any particular model of pistol, restricted weapon, prohibited firearm, or firearm capable of full automatic fire.
