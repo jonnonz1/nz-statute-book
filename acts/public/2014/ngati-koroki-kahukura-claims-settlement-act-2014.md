@@ -1,5 +1,5 @@
 # Ngāti Koroki Kahukura Claims Settlement Act 2014
-_Consolidation as at 2021-01-30_
+_Consolidation as at 2022-04-12_
 
 ### 1 Title
 This Act is the Ngāti Koroki Kahukura Claims Settlement Act 2014.
@@ -163,7 +163,7 @@ In this Act, unless the context otherwise requires,—
   - **tikanga** means customary values and practices
   - **trustees of Taumatawiwi Trust** and mean the trustees, acting in their capacity as trustees, of Taumatawiwi Trust
   - **working day** means a day other than—
-    (a) Saturday, Sunday, Waitangi Day, Good Friday, Easter Monday, Anzac Day, the Sovereign's birthday, and Labour Day:
+    (a) a Saturday, a Sunday, Waitangi Day, Good Friday, Easter Monday, Anzac Day, the Sovereign’s birthday, Te Rā Aro ki a Matariki/Matariki Observance Day, and Labour Day:
     (b) if Waitangi Day or Anzac Day falls on a Saturday or a Sunday, the following Monday:
     (c) a day in the period commencing with 25 December in any year and ending with the close of 15 January in the following year:
     (d) the days observed as the anniversaries of the provinces of Auckland and Wellington.
