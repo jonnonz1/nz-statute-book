@@ -1,5 +1,5 @@
 # Public Finance Act 1989
-_Consolidation as at 2022-03-19_
+_Consolidation as at 2022-04-12_
 
 > Title
 
@@ -202,7 +202,7 @@ _Consolidation as at 2022-03-19_
       (ii) the Office of the Clerk of the House of Representatives; or
       (iii) the Parliamentary Service
   - **working day** means any day except—
-    (a) Saturday, Sunday, Good Friday, Easter Monday, Anzac Day, the Sovereign's birthday, Labour Day, Waitangi Day; and
+    (a) a Saturday, a Sunday, Waitangi Day, Good Friday, Easter Monday, Anzac Day, the Sovereign’s birthday, Te Rā Aro ki a Matariki/Matariki Observance Day, and Labour Day; and
     (ab) if Waitangi Day or Anzac Day falls on a Saturday or a Sunday, the following Monday; and
     (b) the day observed as anniversary day in Wellington; and
     (c) a day in the period commencing on 25 December in one year and ending on 15 January in the next year.
