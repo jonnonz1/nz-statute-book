@@ -1,5 +1,5 @@
 # Social Security Act 2018
-_Consolidation as at 2022-04-01_
+_Consolidation as at 2022-04-12_
 
 ### 1 Title
 This Act is the Social Security Act 2018.
