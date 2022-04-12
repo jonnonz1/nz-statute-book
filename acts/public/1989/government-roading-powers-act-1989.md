@@ -1,5 +1,5 @@
 # Government Roading Powers Act 1989
-_Consolidation as at 2021-10-28_
+_Consolidation as at 2022-04-12_
 
 > Title
 
@@ -320,7 +320,7 @@ This Act shall bind the Crown.
   - **stopping** , in relation to a road, includes diverting
   - **urban area** means any area within the boundaries of any district within the meaning of the Local Government Act 2002 that immediately before 1 November 1989 was or formed part of any borough, town district, or community as those terms were then defined in that Act
   - **working day** means any day of the week other than—
-    (a) Saturday, Sunday, Good Friday, Easter Monday, Anzac Day, Labour Day, the Sovereign's birthday, and Waitangi Day; and
+    (a) a Saturday, a Sunday, Waitangi Day, Good Friday, Easter Monday, Anzac Day, the Sovereign’s birthday, Te Rā Aro ki a Matariki/Matariki Observance Day, and Labour Day; and
     (ab) if Waitangi Day or Anzac Day falls on a Saturday or a Sunday, the following Monday; and
     (b) any day in the period commencing with 25 December in any year and ending with 15 January in the following year.
 (2) Where land is taken or acquired under the Public Works Act 1981 for the functioning indirectly of any road, the land so taken or acquired shall not constitute a road for the purposes of frontage to any land; and no person shall have any right of access to, on, under, over, or through the land so taken or acquired without the consent of the authority taking or acquiring the land.
