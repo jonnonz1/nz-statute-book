@@ -1,5 +1,5 @@
 # Criminal Procedure Act 2011
-_Consolidation as at 2022-04-12_
+_Consolidation as at 2022-04-21_
 
 ### 1 Title
 This Act is the Criminal Procedure Act 2011.
@@ -3857,6 +3857,16 @@ The Witnesses and Interpreters Fees Regulations 1974, insofar as they apply to c
 ### 410 Expiry of sections 408 and 409
 Sections 408 and 409 expire 2 years after the commencement date as defined in section 394.
 
+### Subpart 5 — Temporary provisions in respect of COVID-19
+
+### 410A Application of temporary provisions in Schedule 1AB
+(1) The temporary provisions set out in Schedule 1AB apply during the period—
+  (a) beginning on the commencement of this section; and
+  (b) ending with the repeal of the COVID-19 Public Health Response Act 2020.
+(2) The temporary provisions supplement the sections of this Act while they apply.
+(3) If a temporary provision is inconsistent with a section of this Act, the temporary provision prevails.
+(4) This section and Schedule 1AB are repealed on the date on which the COVID-19 Public Health Response Act 2020 is repealed.
+
 ## Part 9 — Amendments to other enactments
 
 **Criminal Justice Act 1985**
@@ -3914,6 +3924,22 @@ A declaration containing the statement required by section 82(1)﻿(b) of the pr
 (3) However, the following provisions apply, after they (or, as the case requires, after the amendments made to them by that Part) come into force, to proceedings specified in subclause (2):
   (a) section 196(3) (court proceedings generally open to public):
   (b) section 199AA (court may be cleared when victim impact statement read or otherwise presented to court in cases of sexual nature).
+
+## Schedule 1AB — Temporary provisions in respect of COVID-19
+
+### 1 Hearing may be conducted by audiovisual link or audio link
+(1) Nothing in sections 196 to 198 limits or affects the ability of a court to conduct a hearing wholly or partly by audiovisual link (AVL) or audio link (AL) and to require some or all members of the media or the public who wish to observe the hearing to attend by AVL or AL.
+(2) For the purposes of subclause (1),—
+  - **audio link** or , in relation to a proceeding, means facilities that enable audio communication between, or to be received by, participants when some or all of them are not physically present at the place of hearing for all or part of the proceeding
+  - **audiovisual link** or , in relation to a proceeding, means facilities that enable both audio and visual communication between, or to be received by, participants when some or all of them are not physically present at the place of hearing for all or part of the proceeding.
+
+### 2 Powers relating to right of public to enter and remain in areas of court
+(1) Nothing in sections 196 to 198 limits or affects—
+  (a) any inherent or implied powers of a judicial officer to give directions or impose requirements that must be met by persons entering and remaining in a court:
+  (b) the powers of a presiding judicial officer, the chief executive (or a person acting on their behalf), a court security officer, or a head of bench to give directions or impose requirements under clause 1(1) of the Schedule of the Courts Security Act 1999 that must be met by persons entering and remaining in a court.
+(2) In subclause (1)﻿(b),—
+  - **chief executive** , , and have the same meanings as in section 2 of the Courts Security Act 1999
+  - **head of bench** means a head of bench as defined in paragraphs (1) to (4) of the definition of that term in clause 1(6) of the Schedule of the Courts Security Act 1999.
 
 ## Schedule 1 — Category 4 offences
 
