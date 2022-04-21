@@ -1,5 +1,5 @@
 # Courts Security Act 1999
-_Consolidation as at 2021-10-28_
+_Consolidation as at 2022-04-21_
 
 > An Act to provide for—athe security of courts and tribunals; andbthe safety of the public and others who access and use courts and tribunals; and(c)the promotion of the orderly operation of courts and tribunals
 
@@ -457,3 +457,119 @@ Every Police officer has and may exercise all or any of the powers and duties gi
   (d) defining precisely the boundaries of a body to which this Act applies:
   (e)
 (2) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+
+**Temporary provisions**
+
+### 37 Application of temporary provisions in Schedule
+(1) The temporary provisions set out in the Schedule apply during the period—
+  (a) beginning with the commencement of this section; and
+  (b) ending with the repeal of the COVID-19 Public Health Response Act 2020.
+(2) The temporary provisions have the following effect while they apply:
+  (a) clause 1 replaces section 11A:
+  (b) clause 2 replaces section 12:
+  (c) clause 3 replaces section 18A:
+  (d) clause 4 replaces section 21:
+  (e) clause 5 replaces section 22:
+  (f) clause 6 replaces section 23.
+(3) If a temporary provision replaces a section of this Act,—
+  (a) the application of the section is suspended; and
+  (b) the section ceases to apply with respect to any relevant matter that arose before the commencement of this section.
+(4) If a temporary provision is inconsistent with a section of this Act, the temporary provision prevails.
+(5) To avoid doubt, a cross-reference in this Act or any other enactment or document to a section specified in subclause (2) is to be treated as a cross-reference to the corresponding replacement provision on or after the commencement of this section.
+(6) This section and the Schedule of this Act are repealed on the date on which the COVID-19 Public Health Response Act 2020 is repealed.
+
+## Schedule  — Temporary provisions in respect of COVID-19
+
+### 1 Right of public to enter and remain in areas of court
+(1) A person may enter and remain in an area of a court that is open to the public if the person complies with all directions given and requirements that apply to the person and that are imposed—
+  (a) by the presiding judicial officer in a courtroom where proceedings are being or will be heard; and
+  (b) by or on behalf of the chief executive, or by a court security officer, elsewhere in the court; and
+  (c) in respect of COVID-19 by the head of bench in relation to a courtroom where proceedings are being or will be heard.
+(2) Directions given or requirements imposed under subclause (1) may, without limitation, include directions or requirements allowing (with or without conditions), limiting, or prohibiting the use of cellphones, cameras, or recording equipment in a courtroom or elsewhere in the court.
+(3) A person who has not complied with a direction given or a requirement imposed under subclause (1) may enter and remain in an area of the court if the presiding judicial officer considers it is in the interests of justice to permit or require the person to do so.
+(4) Before giving a direction or imposing a requirement in respect of COVID-19 under subclause (1), a person giving the direction or imposing the requirement must be satisfied that the direction or requirement is reasonably necessary—
+  (a) in the interests of justice; and
+  (b) to protect health and safety in the courts.
+(5) Subclause (1) is subject to—
+  (a) clauses 2(2) and 3 and sections 13(2), 14(1)﻿(b), 15(4) and (5), 16(3), 17(4), 18(1)﻿(b), 19, 19A, and 20(2) (which provide for the denial of entry to a person or their removal from a court, unless the person is allowed to enter or re-enter under clause 5(1) or (2), and the detention of a person who a court security officer has reasonable grounds to believe may have committed or attempted to commit a specified offence, or in the circumstances set out in section 19A):
+  (b) any direction given by a presiding judicial officer that a person must not enter or remain in a courtroom or any other specified part of the court:
+  (c) any inherent or implied powers of a Judge or presiding judicial officer to regulate the procedure of a court or tribunal over which that person presides:
+  (d) any enactment regulating who may be present at proceedings.
+(6) In this clause, head of bench means, in relation to—
+  (1) the Supreme Court, the Chief Justice:
+  (2) the Court of Appeal, the President of the Court of Appeal:
+  (3) the High Court, the Chief High Court Judge:
+  (4) the District Court, the Chief District Court Judge:
+  (5) the Employment Court, the Chief Judge of the Employment Court:
+  (6) the Environment Court, the Chief Environment Court Judge:
+  (7) the Māori Appellate Court, the Chief Judge of the Māori Land Court:
+  (8) the Māori Land Court, the Chief Judge of the Māori Land Court:
+  (9) the Court Martial Appeal Court, the Chief High Court Judge:
+  (10) the Court Martial, the Chief Judge:
+  (11) the Disputes Tribunal, the Principal Disputes Referee:
+  (12) the Tenancy Tribunal, the Principal Tenancy Adjudicator:
+  (13) the Private Security Personnel Licensing Authority, the Authority:
+  (14) the Licensing Authority of Secondhand Dealers and Pawnbrokers, the Authority:
+  (15) the Alcohol Regulatory and Licensing Authority, the Chairperson:
+  (16) the Motor Vehicle Disputes Tribunal, an adjudicator:
+  (17) the Human Rights Review Tribunal, the Chairperson:
+  (18) the Real Estate Agents Disciplinary Tribunal, the Chairperson:
+  (19) the Canterbury Earthquakes Insurance Tribunal, the Chairperson:
+  (20) the Copyright Tribunal, the Chairperson:
+  (21) a coroner, the Chief Coroner:
+  (22) the Customs Appeal Authority, the Authority:
+  (23) the Immigration and Protection Tribunal, the Chair:
+  (24) the Immigration Advisers Complaints and Disciplinary Tribunal, the Chair:
+  (25) a Land Valuation Tribunal, the Chief Environment Court Judge:
+  (26) the Legal Complaints Review Officer, the Officer:
+  (27) the New Zealand Lawyers and Conveyancers Disciplinary Tribunal, the Chairperson:
+  (28) the Legal Aid Tribunal, the Chairperson:
+  (29) the (Legal Aid) Review Authority, the Authority:
+  (30) the Social Security Appeal Authority, the Chairperson:
+  (31) the Student Allowance Appeal Authority, the Authority:
+  (32) the Taxation Review Authority, the Authority:
+  (33) the Trans-Tasman Occupations Tribunal, the Chairperson:
+  (34) a Victims’ Special Claims Tribunal, the Chief District Court Judge:
+  (35) the Weathertight Homes Tribunal, the Chair:
+  (36) the Waitangi Tribunal, the Chairperson:
+  (37) any other court, tribunal, or constituted dispute resolution body that conducts proceedings in a building that also accommodates an entity specified in paragraphs (1) to (36), the senior member of that court, tribunal, or constituted dispute resolution body:
+  (38) any court, tribunal, or constituted dispute resolution body specified in paragraphs (1) to (37), a person authorised to act in the place of a person specified in paragraphs (1) to (37).
+
+### 2 Power to ask for identification and information
+(1) A court security officer may ask any person who wants to enter, or is in, a court to provide the officer with—
+  (a) the person’s name and address; and
+  (b) evidence of the person’s name and address; and
+  (c) the person’s reason for either wanting to enter the court or being in it, if the officer has reasonable grounds for asking for the information; and
+  (d) evidence of the person’s compliance with a direction given or requirement imposed under clause 1(1).
+(2) A court security officer may deny entry to, or remove, a person—
+  (a) who does not comply with a request under subclause (1); or
+  (b) who gives a reason under subclause (1)﻿(c) that gives the officer reasonable grounds to believe that the person may threaten the security of the court.
+(3) Sections 24 to 29 set out limits on the powers in this clause.
+
+### 3 General power to deny entry to, or remove person from, court
+(1) A court security officer may deny a person entry to, or remove a person from, a court if the court security officer believes on reasonable grounds that the person—
+  (a) is harassing or intimidating, or will harass or intimidate, another person; or
+  (b) is causing, or will cause, violence within, or damage to, the court; or
+  (c) is significantly disrupting, or will significantly disrupt, proceedings, the administration of a court, or the conduct of lawful activities in a court; or
+  (d) has not complied, or will not comply, with a direction given or requirement imposed under clause 1(1).
+(2) To avoid doubt, a court security officer has reasonable grounds for the purposes of subclause (1)﻿(d) if a person does not provide satisfactory evidence when asked under clause 2(1)﻿(d).
+(3) Sections 24 to 29 set out limits on the powers in this clause.
+
+### 4 Power to use reasonable force
+(1) A court security officer may use the amount of force that is reasonable in the circumstances when exercising or performing any of the powers or duties in clauses 2(2) and 3 and in sections 13(2), 14(1)﻿(b), 15(4), 15A(1)﻿(b), 17(4), 18(1)﻿(b), 20, and 20A(b).
+(2) Sections 24 to 29 set out limits on the powers in this clause.
+
+### 5 Consequences of denial of entry to, or removal from, court
+(1) A person denied entry to, or removed from, a court under clause 2(2) or section 13(2), 14(1)﻿(b), 15(4), 17(4), or 18(1)﻿(b) is entitled to enter the court if—
+  (a) the person—
+    (i) later complies with the relevant request; and
+    (ii) complies with any further requests under clause 2(1) or section 13(1), 15(1), or 17(2); or
+  (b) the person is permitted or required to enter under clause 1(3).
+(2) A person denied entry to or removed from a court under clause 3 is entitled to enter (or re-enter) the court if a court security officer who is aware of the reasons why the person was denied entry to, or removed from, the court is satisfied that the person will not behave in a way described in clause 3(1)﻿(a) to (d) if allowed to enter (or re-enter) the court.
+(3) The fact that a person was denied entry to, or was removed from, a court under clause 2(2) or 3 or section 13(2), 14(1)﻿(b), 15(4), 17(4), or 18(1)﻿(b) does not, by itself, give the person a reasonable excuse for not doing anything that the person—
+  (a) was required to enter the court to do; or
+  (b) wanted to enter the court to do; or
+  (c) was at the court to do.
+
+### 6 Duty of court security officer to inform of consequences when person denied entry or removed
+A court security officer who denies a person entry to, or removes a person from, a court under clause 2(2) or 3 or section 13(2), 14(1)﻿(b), 15(4), 17(4), or 18(1)﻿(b) must at the same time tell the person the gist of clause 5.
