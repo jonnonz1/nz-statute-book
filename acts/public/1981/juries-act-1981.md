@@ -1,5 +1,5 @@
 # Juries Act 1981
-_Consolidation as at 2021-10-28_
+_Consolidation as at 2022-04-21_
 
 > An Act to consolidate and reform the law relating to juries
 
@@ -577,4 +577,314 @@ For the purposes of the first compilation of jury lists after 1 January 1982,—
 (1) The enactments specified in the Schedule are hereby repealed.
 (2) The repeal by subsection (1) of the Juries Act 1908 shall not affect the abolition by section 176 of that Act of all attaints and inquests referred to in that section.
 
-## Schedule  — Enactments repealed
+**Temporary provisions in respect of COVID-19**
+
+### 38 Application of temporary provisions in Schedule 2
+When temporary provisions apply
+(1) The temporary provisions set out in clauses 1, 4 to 15, 17, 20, 21, and 23 of Schedule 2 apply during the period—
+  (a) beginning with the commencement of this section; and
+  (b) ending with the repeal of the COVID-19 Public Health Response Act 2020.
+(2) The temporary provisions set out in clauses 3(2) and 22 of Schedule 2 apply during the period—
+  (a) beginning with the repeal of the COVID-19 Public Health Response Act 2020; and
+  (b) ending on the second anniversary of the date on which the COVID-19 Public Health Response Act 2020 is repealed.
+(3) The temporary provisions set out in clauses 2, 3(1), 16, 18, 19, and 24 of Schedule 2 apply during the period—
+  (a) beginning with the commencement of this section; and
+  (b) ending on the second anniversary of the date on which the COVID-19 Public Health Response Act 2020 is repealed.
+Effect of temporary provisions
+(4) The temporary provisions have the following effect while they apply:
+  (a) clause 1 modifies section 2 and replaces the definition of jury rules in section 2(1):
+  (b) clause 2 modifies section 12A:
+  (c) clause 3 modifies section 13:
+  (d) clauses 4 to 12 supplement the sections of this Act:
+  (e) clause 13 replaces section 14B(2)﻿(a):
+  (f) clauses 14 to 22 supplement the sections of this Act:
+  (g) clause 23 modifies section 18:
+  (h) clause 24 modifies section 33:
+  (i) clauses 25 and 26 are transitional, savings, and related provisions that supplement the sections of this Act.
+(5) If a temporary provision in Schedule 2 replaces a provision in the body of this Act,—
+  (a) the application of the provision in the body of this Act is suspended; and
+  (b) the provision in the body of this Act ceases to apply with respect to any relevant matter that arose before the commencement of this section.
+(6) If a temporary provision is inconsistent with a provision in the body of this Act, the temporary provision prevails.
+(7) To avoid doubt, a cross-reference in this Act or any other enactment or document to a provision in the body of this Act specified in subclause (4) is to be treated as a cross-reference to the corresponding replacement provision on or after the commencement of this section.
+
+### 39 Repeal of temporary provisions in Schedule 2 and revocation
+(1) Clauses 1, 4 to 15, 17, 20, 21, 23, and 25 of Schedule 2 are repealed on the date on which the COVID-19 Public Health Response Act 2020 is repealed.
+(2) This section, section 38 and the cross-heading above it, and the rest of Schedule 2 are repealed on the second anniversary of the date on which the COVID-19 Public Health Response Act 2020 is repealed.
+(3) A protocol made under clause 4 is revoked on the date on which the COVID-19 Public Health Response Act 2020 is repealed.
+
+## Schedule 1 — Enactments repealed
+
+## Schedule 2 — Temporary provisions in respect of COVID-19
+
+**Interpretation**
+
+### 1 Interpretation
+(1) Section 2(1) is to be read as if it contains the following definitions:
+  - **COVID-19 jury requirements** means—
+    (a) requirements set out in a protocol under clause 4 of Schedule 2 for which there is no exception under clause 5(1) of that schedule:
+    (b) any requirements under clause 6 of Schedule 2 imposed by a Judge
+  - **head of bench** means,—
+    (a) in relation to the High Court, the Chief High Court Judge:
+    (b) in relation to the District Court, the Chief District Court Judge.
+(2) In section 2(1), the definition of jury rules is to be read as if it is replaced with the following:
+  - **jury rules** means—
+    (a) the rules made under section 35:
+    (b) any modification of those rules made under section 24A of the Epidemic Preparedness Act 2006.
+(3) Section 2(2) is to be read as if it contains, after 29A, or clause 12 or 14 of Schedule 2.
+(4) Section 2 is to be read as if it contains, after subsection (2),—
+  (3) For the purposes of this Act, a reference to a court includes a reference to a place designated as a supplementary court location in accordance with the jury rules.
+
+**Jury lists and summoning of jurors**
+
+### 2 Registrar may amend jury list
+Section 12A(1) is to be read as if it contains, after paragraph (da),—
+  (db) a person whose jury service has been deferred under clause 9(1) or 12, or clauses 15 to 18, of Schedule 2 but who has not yet been issued with a replacement summons under clause 19(4)﻿(b) of that schedule; or
+
+### 3 Summoning of jurors
+(1) Section 13(3A) is to be read as if it contains, after paragraph (d),—
+  (e) the person’s jury service has been deferred under clause 9(1) or 12, or clauses 15 to 18, of Schedule 2 and—
+    (i) the person is summoned under a replacement summons issued under clause 19(4)﻿(b) of that schedule (in which case the person is liable to serve until the end of the week for which the person is summoned under the replacement summons); or
+    (ii) the Registrar has served on the person a written notice under clause 19(5) of that schedule (in which case the person is no longer liable to serve as a juror as a result of the summons in relation to which the powers were exercised under clause 9(1) or 12, or clauses 15 to 18, of that schedule); or
+  (f) the person has been excused from jury service under clause 10 or clauses 14 to 18 or clause 20 or 21 of Schedule 2.
+(2) Section 13(3A) is to be read as if it contains, after paragraph (f) as inserted by subclause (1),—
+  (g) the person has been excused from jury service under clause 22 of Schedule 2.
+
+**Powers of Judges**
+
+### 4 Head of bench may make protocol setting out additional requirements
+(1) A head of bench may make a protocol setting out requirements referred to in subclause (2) if they think that the requirements are reasonably necessary in the interests of justice and to protect health and safety in the courts to take account of the effects of COVID-19.
+(2) For the purposes of subclause (1), the requirements—
+  (a) may be in addition to, and apply despite, the following legislation:
+    (i) section 13 (summoning of jurors):
+    (ii) section 18 (selection of jurors):
+    (iii) section 22 (discharge of juror or jury) (except section 22(1A)):
+    (iv) the jury rules; and
+  (b) may relate to the following:
+    (i) jury lists:
+    (ii) summoning of jurors:
+    (iii) selection of jurors (including, without limitation, deferrals of, or excusals from, jury service):
+    (iv) matters that jurors must comply with during a jury trial:
+    (v) discharge of jurors.
+(3) Nothing in this clause limits the application of sections 24 and 24A of the Epidemic Preparedness Act 2006 to the rules made under section 35 of this Act.
+(4) A protocol made under this clause—
+  (a) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements); and
+  (b) is not to be drafted by the PCO under section 67(d)﻿(ii) of that Act.
+
+### 5 Exceptions to compliance with some requirements in protocol
+(1) A Judge may, in the interests of justice, permit or require a person who has not complied with a requirement specified in subclause (2) to—
+  (a) enter the court; and
+  (b) be eligible to serve as a juror.
+(2) The requirement is that which—
+  (a) is set out in a protocol made under clause 4; and
+  (b) relates to 1 or both of—
+    (i) the attendance of summoned persons at court:
+    (ii) the selection of jurors (including, without limitation, deferrals of, or excusals from, jury service).
+
+### 6 Judge may impose requirements on jurors for particular trial
+(1) A Judge may, on their own initiative, impose requirements on jurors for a particular trial if the Judge thinks that the requirements are reasonably necessary in the interests of justice and to protect health and safety in the courts to take account of the effects of COVID-19.
+(2) Nothing in this clause limits the application of sections 24 and 24A of the Epidemic Preparedness Act 2006 to the rules made under section 35 of this Act.
+
+### 7 Inherent or implied powers not limited
+Nothing in this Act limits any inherent or implied powers of the head of bench or a presiding judge to regulate the procedure of the court.
+
+**Information and evidence**
+
+### 8 Registrar may ask person to provide information and evidence
+The Registrar may ask a person summoned to attend as a juror to provide information and evidence that is relevant to the person’s ability to comply with the COVID-19 jury requirements.
+
+**Deferrals of, or excusals from, jury service**
+
+### 9 Registrar may defer person’s jury service if not confirmed that they meet COVID-19 jury requirements
+(1) The Registrar may, on their own initiative, defer the attendance of a person summoned to attend as a juror on an occasion if the person has not confirmed to the Registrar’s satisfaction that the person meets the COVID-19 jury requirements.
+(2) The power may be exercised—
+  (a) only in respect of a summons that is not—
+    (i) a summons that has been deferred under section 14B or clause 12 or clauses 15 to 18; or
+    (ii) a replacement summons issued under section 14C(1)﻿(c) or clause 19(4)﻿(b); and
+  (b) only once in respect of each summons of that kind.
+(3) A deferral under this clause is to a time within a period that—
+  (a) starts at least 8 weeks, and ends no later than 2 years, after the date on which the person is required to attend under the summons; and
+  (b) is specified by the Registrar but lasts for at least 1 month.
+(4) No application is required under subclause (1).
+(5) The person whose jury service is deferred may request that the Registrar change the specified period.
+(6) A person may not appeal against the specified period unless, after a request under subclause (5), the Registrar and the person are unable to agree, after taking reasonable steps to do so, on a more convenient time.
+
+### 10 Registrar may excuse person from jury service if not confirmed that they meet COVID-19 jury requirements
+(1) The Registrar may, on their own initiative, excuse a person summoned to attend as a juror on an occasion from attending on that occasion if the person has not confirmed to the Registrar’s satisfaction that the person meets the COVID-19 jury requirements.
+(2) No application is required under subclause (1).
+
+### 11 Certain persons not to serve as jurors on basis of COVID-19 jury requirements
+(1) A person must not serve as a juror on an occasion if the person’s jury service is deferred or the person is excused from jury service under clause 9(1), 10, 15, 17, or 20.
+(2) This clause applies despite section 6 (qualification and liability for jury service).
+
+### 12 Registrar may defer person’s jury service on application on other specified COVID-19-related grounds
+(1) The Registrar may defer the attendance of a person summoned to attend as a juror on an occasion—
+  (a) in respect of a summons that is not—
+    (i) a summons that has been deferred under section 14B or clause 9(1) or clauses 15 to 18; or
+    (ii) a replacement summons issued under section 14C(1)﻿(c) or clause 19(4)﻿(b); and
+  (b) only once in respect of each summons of that kind; and
+  (c) if a written application is made to the Registrar by or on behalf of the person to have their jury service deferred; and
+  (d) if the Registrar is satisfied that, because of 1 or more matters specified in subclause (2), attendance on the occasion would cause or result in undue hardship or serious inconvenience to that person, any other person, or the general public.
+(2) The matters referred to in subclause (1)﻿(d) are—
+  (a) the person, or a member of the person’s family, or a member of the person’s household, is particularly vulnerable to COVID-19:
+  (b) the person’s financial circumstances have been significantly adversely affected by the effects of COVID-19.
+(3) A deferral under this clause is to a time within a period that—
+  (a) starts at least 8 weeks, and ends no later than 2 years, after the date on which the person is required to attend under the summons; and
+  (b) is specified by the Registrar but lasts for at least 1 month; and
+  (c) the person has indicated would be a more convenient period.
+(4) The Registrar may ask a person to provide evidence in support of an application if the Registrar reasonably thinks that evidence of that kind is necessary in order to determine the application.
+(5) The jury rules may prescribe the method by which the application is made.
+(6) The Registrar may treat an application under section 14B as if it were an application under this clause and, if the Registrar does so, the application must be determined in accordance with this clause.
+
+### 13 Deferral of jury service under section 14B of Act
+Section 14B(2)﻿(a) is to be read as if it is replaced with the following:
+  (a) only in respect of a summons that is not—
+    (i) a summons that has been deferred under clause 9(1) or 12, or clauses 15 to 18, of Schedule 2; or
+    (ii) a replacement summons issued under section 14C(1)﻿(c) or clause 19(4)﻿(b) of Schedule 2; and
+
+### 14 Registrar may excuse person from jury service on application on other specified COVID-19-related grounds
+(1) The Registrar may excuse a person summoned to attend as a juror on an occasion from attending on that occasion if—
+  (a) a written application is made to the Registrar by or on behalf of the person to be excused from jury service; and
+  (b) the Registrar is satisfied that because of 1 or more matters specified in subclause (2), attendance on the occasion would cause or result in undue hardship or serious inconvenience to that person, any other person, or the general public.
+(2) The matters referred to in subclause (1)﻿(b) are—
+  (a) the person, or a member of the person’s family, or a member of the person’s household, is particularly vulnerable to COVID-19:
+  (b) the person’s financial circumstances have been significantly adversely affected by the effects of COVID-19.
+(3) The Registrar may ask a person to provide evidence in support of an application if the Registrar reasonably thinks that evidence of that kind is necessary in order to determine the application.
+(4) The jury rules may prescribe the method by which the application is made.
+(5) The Registrar may treat an application under section 14B or 15 or clause 12 as if it were an application under this clause and, if the Registrar does so, the application must be determined in accordance with this clause.
+
+**Referrals to Judge**
+
+### 15 Registrar may refer matter under clause 9(1) or 10 to Judge
+(1) If the Registrar is unsure about the exercise of a power to defer a person’s jury service under clause 9(1) or to excuse a person from jury service under clause 10, the Registrar may refer the matter to a Judge.
+(2) The Judge may—
+  (a) defer the person’s jury service under clause 9(1); or
+  (b) excuse the person from jury service under clause 10; or
+  (c) decide not to defer the person’s jury service under clause 9(1) or excuse the person from jury service under clause 10.
+(3) The Judge may, in the interests of justice, exercise a power under subclause (2)﻿(c), even if the person has not confirmed to the Judge’s satisfaction that the person meets the COVID-19 jury requirements.
+(4) The Judge’s decision is final.
+
+### 16 Registrar may refer application under clause 12, 14, or 22 to Judge
+(1) If the Registrar is unsure whether to approve or decline a person’s application for a deferral under clause 12 or an excusal under clause 14 or 22, the Registrar may refer the matter to a Judge.
+(2) The Judge may approve or decline the application.
+(3) The Judge’s decision is final.
+
+**Appeals**
+
+### 17 Appeal against Registrar’s decision under clause 9 or 10
+(1) A person may, in accordance with the jury rules, bring an appeal to the court before which the person is summoned to appear if—
+  (a) the Registrar has deferred the person’s jury service under clause 9(1); or
+  (b) the Registrar has specified a period under clause 9(3)﻿(b) with which the person disagrees and clause 9(6) applies; or
+  (c) the Registrar has excused the person from jury service under clause 10.
+(2) The court may—
+  (a) confirm the Registrar’s decision; or
+  (b) vary the Registrar’s decision and make the order it considers appropriate, including (without limitation)—
+    (i) deferring the person’s jury service under clause 9(1) rather than excusing the person from jury service under clause 10: or
+    (ii) excusing the person from jury service under clause 10 rather than deferring the person’s jury service under clause 9(1); or
+  (c) set aside the Registrar’s decision and make the order it considers appropriate.
+(3) The court may, in the interests of justice, set aside the Registrar’s decision to defer the person’s jury service or excuse the person from jury service, even if the person has not confirmed to the court’s satisfaction that the person meets the COVID-19 jury requirements.
+(4) The court’s decision is final.
+
+### 18 Appeal against Registrar’s decision to decline application under clause 12, 14, or 22
+(1) If the Registrar declines a person’s application under clause 12, 14, or 22, the person may, in accordance with the jury rules, appeal against the Registrar’s decision to the court before which the person is summoned to appear.
+(2) The court may—
+  (a) confirm the decision; or
+  (b) set aside the decision and order that—
+    (i) the person’s jury service be deferred under clause 12; or
+    (ii) the person be excused from jury service under clause 14 or 22.
+(3) The court’s decision under subclause (2) is final.
+(4) The court may, in the alternative,—
+  (a) treat the appeal as if it were an application under section 14B, 15, 15A, or 16; and
+  (b) decide the matter under section 14C, 15, 15A, or 16 instead of under this clause.
+
+**Further provisions relating to deferrals**
+
+### 19 Further provisions relating to deferral under clause 9(1) or 12
+(1) This clause applies if a person’s jury service has been deferred under clause 9(1) or 12 or clauses 15 to 18.
+(2) The Registrar must—
+  (a) promptly record in some way the deferral; and
+  (b) promptly delete the person’s details from the panel that was—
+    (i) compiled under section 13(1); and
+    (ii) the basis of the issue of the summons.
+(3) Subclause (4) applies to the person whose jury service was deferred if—
+  (a) a later panel is compiled under section 13(1) because jury trials are to be held in the court; and
+  (b) the later panel is compiled at a time that enables the person to be summoned for jury service at a time within the period specified for the person under clause 9(3)﻿(b) or 12(3)﻿(b) or after an appeal under clause 17(1)﻿(b).
+(4) The Registrar must—
+  (a) ensure that the person’s details are included, in accordance with the jury rules, in the later panel; and
+  (b) promptly issue under section 13(1), on the basis of the later panel, a replacement summons that states a time within the specified period.
+(5) The Registrar must promptly serve on a person, in accordance with the jury rules, written notice that the person is no longer liable to serve as a juror as a result of the summons if—
+  (a) the Registrar is satisfied that no jury trials are to be held in the court during the period specified for the person under clause 9(3)﻿(b) or 12(3)﻿(b) or after an appeal under clause 17(1)﻿(b); and
+  (b) the Registrar is satisfied that it is unnecessary to compile under section 13(1) a later panel at a time that would enable the person to be summoned to attend for jury service at a time within that period.
+(6) The deferral of jury service does not prevent, in respect of a replacement summons issued under subclause (4)﻿(b),—
+  (a) an excusal under clause 10, or clauses 15 to 18, or clause 20:
+  (b) an application under section 15, 15A, or 16 or clause 14, 21, or 22.
+
+**Further excusals**
+
+### 20 Judge may excuse person from jury service if not confirmed that they meet COVID-19 jury requirements
+(1) A Judge may, on their own initiative, excuse a person summoned to attend as a juror on an occasion in the court in which the Judge sits from attending on that occasion if the person has not confirmed to the Judge’s satisfaction that the person meets the COVID-19 jury requirements.
+(2) No application is required under subclause (1).
+(3) This clause applies whether or not the Registrar has declined—
+  (a) to defer the person’s jury service under section 14B or clause 9(1) or 12:
+  (b) to excuse the person from jury service under section 15 or 15A or clause 10 or 14.
+(4) This clause is in addition to the Judge’s discretion to excuse a person from jury service on an occasion under section 16 or clause 21.
+
+### 21 Judge may excuse person from jury service on application on other specified COVID-19-related grounds
+(1) A Judge may under this clause excuse a person summoned to attend as a juror on an occasion in the court in which the Judge sits from attending on that occasion.
+(2) The person may be excused only on an application for the purpose made by or on behalf of the person.
+(3) The Judge may excuse the person from attending on that occasion if the Judge is satisfied that, because of 1 or more matters specified in subclause (4), attendance on the occasion would cause or result in undue hardship or serious inconvenience to that person, any other person, or the general public.
+(4) The matters referred to in subclause (3) are—
+  (a) the person, or a member of the person’s family, or a member of the person’s household, is particularly vulnerable to COVID-19:
+  (b) the person’s financial circumstances have been significantly adversely affected by the effects of COVID-19.
+(5) This clause applies whether or not the Registrar has declined—
+  (a) to defer the person’s jury service under section 14B or clause 9(1) or 12:
+  (b) to excuse the person from jury service under section 15 or 15A or clause 10 or 14.
+(6) This clause is in addition to the Judge’s discretion to excuse a person from jury service on an occasion under section 16 or clause 20.
+
+### 22 Excusal from jury service after repeal of COVID-19 Public Health Response Act 2020
+(1) The Registrar may excuse a person summoned to attend as a juror on an occasion from attending on that occasion if—
+  (a) the person’s jury service was deferred under clause 9(1) or 12, or clauses 15 to 18, before the repeal of the COVID-19 Public Health Response Act 2020; and
+  (b) the person is later issued a replacement summons under clause 19(4)﻿(b) after the repeal of the COVID-19 Public Health Response Act 2020; and
+  (c) a written application is made to the Registrar by or on behalf of the person to be excused from jury service; and
+  (d) the Registrar is satisfied that because of 1 or more matters specified in section 14B(3), attendance on the occasion would cause or result in undue hardship or serious inconvenience to that person, any other person, or the general public.
+(2) The Registrar may ask a person to provide evidence in support of an application if the Registrar reasonably thinks that evidence of that kind is necessary in order to determine the application.
+(3) The jury rules may prescribe the method by which the application is made.
+(4) Section 2(2) applies to an application under this clause.
+(5) This clause is in addition to section 15.
+
+**Constitution of jury**
+
+### 23 Selection of jurors
+Section 18 is to be read as if it does not contain in the precincts of the court.
+
+**Informalities**
+
+### 24 Verdict not affected by informalities
+Section 33 is to be read as if it contains, after paragraph (c),—
+  (d) any juror has been erroneously summoned otherwise than as required by a protocol made under clause 4 of Schedule 2:
+  (e) of any error, omission, or informality in a deferral of jury service, an excusal from jury service, the selection or swearing in of a person as a juror, or the discharge of a person as a juror under the jury rules or Schedule 2 or a protocol made under that schedule.
+
+**Transitional, savings, and related provisions**
+
+### 25 Application of schedule to summons issued before commencement date
+(1) In this clause, commencement date means the date on which this clause commences.
+(2) Clauses 1, 2, 3(1), 4 to 21, and 23 apply to a summons that—
+  (a) is not a replacement summons under section 14C(1)﻿(c); and
+  (b) was issued before the commencement date to attend court for jury service on or after the commencement date.
+(3) The following clauses apply to a replacement summons under section 14C(1)﻿(c) that was issued before the commencement date to attend court for jury service on or after the commencement date:
+  (a) clauses 1, 4 to 8, 10, 14, 20, 21, and 23:
+  (b) clause 3(1) in relation to an excusal described in section 13(3A)﻿(f):
+  (c) clause 11 in relation to an excusal under clause 10, 15, 17, or 20:
+  (d) clauses 15 to 18 in relation to an excusal under clause 10 or 14.
+(4) Clause 24, but only as it relates to section 33(e), applies to a summons (including a replacement summons under section 14C(1)﻿(c)) that was issued before the commencement date to attend court for jury service on or after the commencement date.
+(5) Nothing in this clause limits the application of—
+  (a) section 14B to a summons described in subclause (2):
+  (b) section 15, 15A, 16, or 16AA to a summons described in subclause (2) or (3).
+
+### 26 Matters that lapse on repeal
+(1) A referral that is made under clause 15 but not determined before clause 15 is repealed—
+  (a) lapses at the same time as the repeal of clause 15; and
+  (b) is considered to have been abandoned.
+(2) An appeal under clause 17(1)﻿(a) or (c) that is brought but not determined on the repeal of that clause or is brought after the repeal of that clause—
+  (a) lapses at the time of the repeal of clause 17(1)﻿(a) or (c) or when the appeal is brought, whichever is later; and
+  (b) is considered to have been abandoned.
+(3) If an appeal is considered to have been abandoned under subclause (2), the decision of the Registrar on which the appeal is based (whether the Registrar had deferred a person’s jury service or excused a person from jury service) ceases to have effect at the same time.
