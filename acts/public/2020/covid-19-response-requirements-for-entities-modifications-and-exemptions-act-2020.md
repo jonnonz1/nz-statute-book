@@ -1,5 +1,5 @@
 # COVID-19 Response (Requirements For Entities—Modifications and Exemptions) Act 2020
-_Consolidation as at 2021-11-03_
+_Consolidation as at 2022-04-30_
 
 ### 1 Title
 This Act is the COVID-19 Response (Requirements For Entities—Modifications and Exemptions) Act 2020.
