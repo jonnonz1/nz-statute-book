@@ -1,5 +1,5 @@
 # Fuel Industry Act 2020
-_Consolidation as at 2021-10-28_
+_Consolidation as at 2022-05-05_
 
 ### 1 Title
 This Act is the Fuel Industry Act 2020.
@@ -253,7 +253,7 @@ The chief executive or the Commission may,—
 (2) The Commission and the chief executive may use any information, or a copy of any document, provided under this section for the purposes of this subpart.
 (3) The Commission or the chief executive must not provide any information or document under this section unless satisfied that appropriate protections are or will be in place to maintain the confidentiality of the information or document (including information that is personal information within the meaning of the Privacy Act 2020).
 (4) This section applies despite anything to the contrary in any contract, deed, or document.
-(5) Nothing in this section limits the Privacy Act 2020.
+(5) Nothing in this section limits the Privacy Act 2020 or section 99AA of the Commerce Act 1986.
 
 ## Part 3 — Proceedings and miscellaneous provisions
 
