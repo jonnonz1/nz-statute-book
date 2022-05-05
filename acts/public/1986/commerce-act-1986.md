@@ -1,5 +1,5 @@
 # Commerce Act 1986
-_Consolidation as at 2022-04-12_
+_Consolidation as at 2022-05-05_
 
 > Title
 
@@ -16,7 +16,7 @@ The purpose of this Act is to promote competition in markets for the long-term b
   - **acquire** ,—
     (a) in relation to goods, includes obtain by way of gift, purchase, or exchange; and also includes take on lease, hire, or hire purchase:
     (b) in relation to services, includes accept:
-    (c) in relation to interests in land, includes obtain by way of gift, purchase, exchange, lease, or licence
+    (c) in relation to goods or services that are interests in land, includes obtain by way of gift, purchase, exchange, lease, or licence
   - **arrive at** , in relation to an understanding, includes reach, and enter into
   - **assets** includes intangible assets
   - **associate member** means a member appointed under section 11(1)
@@ -24,9 +24,7 @@ The purpose of this Act is to promote competition in markets for the long-term b
   - **Authority** means the Electricity Authority established under the Electricity Industry Act 2010
   - **business** means any undertaking—
     (a) that is carried on for gain or reward; or
-    (b) in the course of which—otherwise than free of charge
-      (i) goods or services are acquired or supplied; or
-      (ii) any interest in land is acquired or disposed of—
+    (b) in the course of which goods or services are acquired or supplied otherwise than free of charge
   - **cartel provision** means a provision described in section 30A(1)
   - **chairperson** means the chairperson of the Commission
   - **clearance** means a clearance given by the Commission under Part 5, or by the court on appeal under Part 6 against a determination of the Commission
@@ -67,12 +65,14 @@ The purpose of this Act is to promote competition in markets for the long-term b
     (b) means the Telecommunications Commissioner appointed under section 9 of the Telecommunications Act 2001; and
     (c) in the circumstances in section 11(3), includes an associate member
   - **Minister** means the Minister of the Crown who, under the authority of any warrant or with the authority of the Prime Minister, is for the time being responsible for the administration of this Act
+  - **overseas regulator** means an overseas body that has competition law functions corresponding to those of the Commission under this Act
   - **person** , includes a local authority, and any association of persons whether incorporated or not
   - **place** includes any premises, building, aircraft, ship, carriage, vehicle, or receptacle
   - **prescribed** means prescribed by regulations under this Act or by the Commission
-  - **price** , includes valuable consideration in any form, whether direct or indirect; and includes any consideration that in effect relates to the acquisition or supply of goods or services or the acquisition or disposition of any interest in land, although ostensibly relating to any other matter or thing
+  - **price** , includes valuable consideration in any form, whether direct or indirect; and includes any consideration that in effect relates to the acquisition or supply of goods or services, although ostensibly relating to any other matter or thing
   - **price fixing** has the meaning given in section 30A(2)
   - **provision** , in relation to an understanding or arrangement, means any matter forming part of or relating to the understanding or arrangement
+  - **public service agency** means any of the agencies listed in section 10(a) of the Public Service Act 2020
   - **publicly available** , in relation to making a document or information available, means that—
     (a) the document or information is available for inspection, free of charge, on an Internet site that is publicly accessible at all reasonable times; and
     (b) a copy of the document or information is available for inspection at all reasonable times, free of charge, at the head office of the person that is required to make it publicly available or, if the person is the Minister, at the head office of the department responsible for the administration of this Act; and
@@ -92,10 +92,11 @@ The purpose of this Act is to promote competition in markets for the long-term b
     (b) a power to exercise, or control the exercise of, a right to vote attaching to any such share that carries the right to vote at meetings of the company:
     (c) a power to acquire or dispose of, or control the acquisition or disposition of, any such share:
     (d) a perpetual debenture and perpetual debenture stock
-  - **supply** ,—and as a noun, , and have corresponding meanings
+  - **supply** ,—
     (a) in relation to goods, includes supply (or resupply) by way of gift, sale, exchange, lease, hire, or hire purchase; and
-    (b) in relation to services, includes provide, grant, or confer;—
-  - **trade** means any trade, business, industry, profession, occupation, activity of commerce, or undertaking relating to the supply or acquisition of goods or services or to the disposition or acquisition of any interest in land
+    (b) in relation to services, includes provide, grant, or confer; and
+    (c) in relation to goods or services that are interests in land, includes disposition
+  - **trade** means any trade, business, industry, profession, occupation, activity of commerce, or undertaking relating to the supply or acquisition of goods or services
   - **turnover** means the total gross revenues (exclusive of any tax required to be collected) received or receivable by a body corporate in an accounting period as a result of trading by that body corporate within New Zealand
   - **working day** means any day of the week other than—
     (a) a Saturday, a Sunday, Waitangi Day, Good Friday, Easter Monday, Anzac Day, the Sovereign’s birthday, Te Rā Aro ki a Matariki/Matariki Observance Day, and Labour Day; and
@@ -230,8 +231,8 @@ The transitional, savings, and related provisions set out in Schedule 1AA have e
 (3) Members of the Commission are the board for the purposes of the Crown Entities Act 2004.
 
 ### 9 Membership of Commission
-(1) The Commission must have no less than 4, and no more than 6, members appointed in accordance with this section, and may also have associate members appointed under section 11(1).
-(2) No less than 3, and no more than 5, of the members, of whom at least 1 must be a barrister and solicitor of at least 5 years' standing, must be appointed by the Governor-General in accordance with section 28(1)﻿(b) of the Crown Entities Act 2004.
+(1) The Commission must have no less than 4, and no more than 8, members appointed in accordance with this section, and may also have associate members appointed under section 11(1).
+(2) No less than 3, and no more than 7, of the members, of whom at least 1 must be a barrister and solicitor of at least 5 years' standing, must be appointed by the Governor-General in accordance with section 28(1)﻿(b) of the Crown Entities Act 2004.
 (3) One of the members must be appointed by the Governor-General as Telecommunications Commissioner under section 9 of the Telecommunications Act 2001.
 (4) The Minister must not recommend a person for appointment as a member under subsection (2) unless,—
   (a) in the opinion of the Minister, that person is qualified for appointment, having regard to the functions of the Commission, by virtue of that person's knowledge of or experience in industry, commerce, economics, law, accountancy, public administration, or consumer affairs; and
@@ -268,6 +269,7 @@ The transitional, savings, and related provisions set out in Schedule 1AA have e
   (a) completing the determination of any matter before that person, as a member, which was commenced before the expiration of the term of office or before the resignation took effect, as the case may be:
   (b) giving reconsideration to any matter following a direction of the court under Part 6.
 (5) Subsection (4) applies despite sections 32(3) and 45 of the Crown Entities Act 2004.
+(6) To avoid doubt, a former member who is deemed to continue as a member under subsection (4) is not a member for the purposes of determining the number of members under section 9(1) or (2).
 
 ### 14 Disclosure of financial interests
 [Repealed]
@@ -694,7 +696,6 @@ Nothing in this Part applies—
 In this Part, unless the context otherwise requires,—
   - **competition report** means a report prepared by the Commission under section 51B
   - **competition study** means a study of any factors that may affect competition for the supply or acquisition of goods or services
-  - **department** means a department as defined in section 5 of the Public Service Act 2020
   - **organisation** means any of the following:
     (a) an organisation named in Part 2 of Schedule 1 of the Ombudsmen Act 1975:
     (b) an organisation named in Schedule 1 of the Official Information Act 1982:
@@ -727,12 +728,12 @@ The functions of the Commission under this Act include carrying out competition 
   (a) specify the goods or services, or both, to which the study relates; and
   (b) describe the scope of the study.
 (2) If the study is required by the Minister, the terms of reference may require the Commission to consult any of the following as part of the study:
-  (a) departments:
+  (a) public service agencies:
   (b) organisations:
   (c) persons:
   (d) classes of persons.
 (3) If the Commission is carrying out the study on its own initiative, the terms of reference may name any of the following that it intends to consult as part of the study:
-  (a) departments:
+  (a) public service agencies:
   (b) organisations:
   (c) persons:
   (d) classes of persons.
@@ -2128,6 +2129,9 @@ This subpart does not limit subpart 2, which allows for regulation to be imposed
 (2) For the purposes of subsection (1), the requirements that must be met are,—
   (a) in the case of a contract to which section 27 applies, that the contract is subject to a condition that the provision does not come into force unless and until authorisation is granted to give effect to it and that an application must be made for that authorisation within 15 working days after the contract is entered into:
   (b) in the case of a covenant to which section 28 applies, that the covenant is subject to the condition that it does not have effect unless and until authorisation is granted to give effect to it and that application must be made for that authorisation within 15 working days after the covenant is made.
+(3) The condition referred to in subsection (2)﻿(a) or (b) may provide for the provision to come into force, or the covenant to have effect, as the case may be, on the basis of an interim authorisation being granted under section 65AAA, but only if the condition also provides for the provision or covenant to cease to have effect immediately if—
+  (a) the interim authorisation ceases to be in force; and
+  (b) the authorisation under section 58 has not been granted.
 
 ### 59A When Commission may grant authorisation
 (1) The Commission may grant an authorisation to a person—
@@ -2216,6 +2220,16 @@ Nothing in section 59 or section 59A prevents conduct that occurred before an au
   (c) a condition upon which the authorisation was granted has not been complied with,—
 (2) The Commission shall not revoke or amend an authorisation or revoke an authorisation and substitute a further authorisation pursuant to subsection (1) unless the person to whom the authorisation was granted and any other person who in the opinion of the Commission is likely to have an interest in the matter is given a reasonable opportunity to make submissions to the Commission and the Commission has regard to those submissions.
 
+### 65AAA Commission may grant interim authorisation
+(1) The Commission may make a determination in writing granting an interim authorisation for an application under section 58 if the Commission considers it is appropriate to do so.
+(2) The Commission is not required to comply with section 61(5) to (9) before granting an interim authorisation.
+(3) For the purposes of this section, a reference in any of sections 58A, 58B, 59A, 59B, 61(2), 65, 92, 104, 105, and 106(10) to an authorisation must be treated as if it were a reference to an interim authorisation.
+(4) An interim authorisation remains in force until—
+  (a) the applicant withdraws its application for an authorisation; or
+  (b) the Commission revokes the interim authorisation under section 65; or
+  (c) the Commission declines or grants the application for an authorisation under section 58.
+(5) Subsection (4) does not limit the Commission’s ability to grant an interim authorisation for such period as the Commission sees fit.
+
 ### 65AA Applications during epidemic period
 (1) In this section and sections 65AB to 65AD, epidemic period means a period—
   (a) commencing on the day on which this section comes into force; and
@@ -2251,7 +2265,12 @@ Nothing in section 59 or section 59A prevents conduct that occurred before an au
   (a) for the purpose of enabling due consideration to be given to the application; or
   (b) for any other reason.
 (3) The Commission is not required to comply with section 61(5) to (6A) before granting a provisional authorisation.
-(4) For the purposes of this section, a reference in any of sections 58A, 58B, 59(1)﻿(a) and (2)﻿(a), 59A, 59B, 61(2), 65, 92, 100, 104, 105, or 106(10) to an authorisation must be treated as if it is a reference to a provisional authorisation.
+(4) For the purposes of this section, a reference in any of sections 58A, 58B, 59A, 59B, 61(2), 65, 92, 100, 104, 105, or 106(10) to an authorisation must be treated as if it is a reference to a provisional authorisation.
+(4A) If section 32(1) of the Commerce Amendment Act 2022 amends subsection (4) of this section during the epidemic period,—
+  (a) subsection (4), as in force before that amendment was made, continues to apply for the purposes of this section (as if that amendment had not been made) in respect of contracts to which section 59(1)﻿(a) of this Act applies that are entered into before section 32(1) of the Commerce Amendment Act 2022 came into force (and, for the purposes of this paragraph, section 59(3) of this Act is disregarded):
+  (b) in respect of contracts to which section 59(1)﻿(a) of this Act applies that are entered into on or after section 32(1) of the Commerce Amendment Act 2022 came into force, section 59(3) of this Act applies for the purposes of this section as if the reference to—
+    (i) an interim authorisation granted under section 65AAA is a reference to a provisional authorisation granted under this section; and
+    (ii) an authorisation under section 58 includes a reference to an authorisation under section 65AA.
 (5) A provisional authorisation remains in force until—
   (a) the applicant withdraws its application for an authorisation; or
   (b) the Commission revokes the provisional authorisation under section 65; or
@@ -2645,12 +2664,19 @@ The court may, on the application of the Commission or any other person, grant a
   (d) has induced, or attempted to induce, any other person, whether by threats or promises or otherwise, to contravene either of those sections; or
   (e) has been in any way, directly or indirectly, knowingly concerned in, or party to, the contravention by any other person of either of those sections; or
   (f) has conspired with any other person to contravene either of those sections.
-(1A) The amount of pecuniary penalty must not, in respect of each act or omission, exceed $500,000 in the case of an individual, or $5 million in any other case.
-(2) In determining an appropriate penalty under this section, the court shall have regard to all relevant matters, including—
+(1A)
+(2) In determining an appropriate penalty under this section, the court must have regard to all relevant matters, including—
   (a) the nature and extent of the act or omission:
   (b) the nature and extent of any loss or damage suffered by any person as a result of the act or omission:
   (c) the circumstances in which the act or omission took place:
   (d) whether or not the person has previously been found by the court in proceedings under this Part to have engaged in any similar conduct.
+(3) The amount of any pecuniary penalty must not, in respect of each act or omission, exceed,—
+  (a) in the case of an individual, $500,000; or
+  (b) in any other case, the greater of the following:
+    (i) $10 million:
+    (ii) either,—
+      (A) if it can be readily ascertained and if the court is satisfied that the contravention occurred in the course of producing a commercial gain, 3 times the value of any commercial gain resulting from the contravention; or
+      (B) if the commercial gain cannot readily be ascertained, 10% of the turnover of the person and all its interconnected bodies corporate (if any) in each accounting period in which the contravention occurred.
 (3)
 (4)
 (5) Proceedings under this section may be commenced within 3 years after the matter giving rise to the contravention arose.
@@ -2921,6 +2947,8 @@ In determining an appeal under section 91(1), the court may do any of the follow
 
 ## Part 7 — Miscellaneous provisions
 
+**Powers relating to evidence**
+
 ### 98 Commission may require person to supply information or documents or give evidence
 (1) Where the Commission considers it necessary or desirable for the purposes of carrying out its functions and exercising its powers under this Act, the Commission may, by notice in writing served on any person, require that person—
   (a) to furnish to the Commission, by writing signed by that person or, in the case of a body corporate, by a director or competent servant or agent of the body corporate, within the time and in the manner specified in the notice, any information or class of information specified in the notice; or
@@ -2970,6 +2998,34 @@ The Commission may exercise any power under sections 98 and 98A notwithstanding 
 (4) The Commission may permit a person appearing as a witness before the Commission to give evidence by tendering and, if the Commission thinks fit, verifying by oath, a written statement.
 (5) Where any person has appeared as a witness before the Commission pursuant to a notice in that behalf, or has given evidence before the Commission, whether pursuant to a notice or not, the Commission may, if it thinks fit, order any sum to be paid to that witness on account of his expenses, not exceeding the amount that would be payable to him if his attendance had been as a witness for the Crown in a criminal case in accordance with the regulations for the time being in force for the payment of witnesses for the Crown in criminal cases.
 
+**Power to share information and documents with public service agencies, statutory entities, Reserve Bank, and New Zealand Police**
+
+### 99AA Sharing of information and documents with public service agencies, statutory entities, Reserve Bank, and New Zealand Police
+(1) The Commission may provide to a public service agency, a statutory entity, the Reserve Bank of New Zealand, or the New Zealand Police any information, or a copy of any document, that the Commission—
+  (a) holds in relation to the performance or exercise of the Commission’s functions, powers, or duties under this Act or any other legislation; and
+  (b) considers may assist the public service agency, statutory entity, the Reserve Bank, or the New Zealand Police in the performance or exercise of its functions, powers, or duties under this Act or any other legislation.
+(2) The Commission may provide information, or a copy of a document, under this section only if the Commission is satisfied that—
+  (a) doing so will not substantially affect the performance of its other functions; and
+  (b) appropriate protections are or will be in place for the purpose of maintaining the confidentiality of anything provided (in particular, information that is personal information within the meaning of the Privacy Act 2020).
+(3) The Commission may use any information, or a copy of any document, in the Commission’s performance or exercise of its functions, powers, or duties under any legislation if the information or copy is provided to the Commission—
+  (a) by a public service agency, a statutory entity, the Reserve Bank, or the New Zealand Police under any legislation; or
+  (b) by an overseas regulator.
+(4) In this section and section 99AB, statutory entity means an entity or office named in Schedule 1 of the Crown Entities Act 2004.
+(5) This section applies despite anything to the contrary in any contract, deed, or document.
+(6) Nothing in this section limits the Privacy Act 2020 or section 29 of the Fuel Industry Act 2020.
+
+### 99AB Commission may impose conditions on provision of information or documents
+(1) The Commission may impose any conditions in relation to providing information, or a copy of a document, to a public service agency, a statutory entity, the Reserve Bank of New Zealand, or the New Zealand Police (whether provided in compliance with a request or otherwise).
+(2) The Commission must, in considering what conditions to impose, have regard to whether conditions are necessary or desirable in order to protect the privacy of any individual.
+(3) The conditions may include, without limitation, conditions relating to—
+  (a) maintaining the confidentiality of anything provided (in particular, information that is personal information within the meaning of the Privacy Act 2020):
+  (b) the storing of, the use of, or access to anything provided:
+  (c) the copying, returning, or disposing of copies of documents provided:
+  (d) payment of the costs incurred by the Commission in providing anything or in generally complying with a request.
+(4) This section does not limit section 100.
+
+**Assistance to overseas regulators**
+
 ### 99A Commission may receive information and documents on behalf of Australian Competition and Consumer Commission
 (1) Where the Australian Competition and Consumer Commission requires any person resident or carrying on business in New Zealand to furnish any information or any class of information or produce any document or class of documents to it pursuant to section 155A of the Competition and Consumer Act 2010, the information or class of information may be furnished or the document or class of documents may be produced to the Commission for transmission to the Australian Competition and Consumer Commission.
 (2) The Commission shall deliver the information or class of information furnished or the document or class of documents produced to it to the Australian Competition and Consumer Commission as soon as practicable.
@@ -2991,7 +3047,6 @@ In sections 99B to 99P, unless the context otherwise requires,—
     (a) is acquired by the Commission, whether before or after this section comes into force, as a result of, or in relation to, the exercise by the Commission of any of its powers under section 98, 98A, or 98H, or any power incidental to those powers; and
     (b) is not in the public domain
   - **investigative assistance** includes providing assistance by way of exercising any power of the Commission under, or in relation to, section 98, 98A, or 98H, and any powers incidental to those powers
-  - **overseas regulator** means an overseas body that has competition law functions corresponding to those of the Commission under this Act
   - **recognised overseas regulator** means an overseas regulator that is the subject of a co-operation arrangement.
 
 ### 99D Restrictions on providing compulsorily acquired information and investigative assistance
@@ -3094,6 +3149,8 @@ The Commission must not provide information to an overseas regulator that the Co
 (2) If the Commission receives from an overseas regulator, for the purpose of assisting the Commission to perform its competition law functions under this Act, a communication or information that, under the law of the country of the overseas regulator is subject to a privilege analogous to a privilege of a kind referred to in section 54, 56, or 57 of the Evidence Act 2006, that communication or information is subject to the analogous privilege in New Zealand, and the Evidence Act 2006 applies accordingly.
 (3) The Commission must not provide a communication or information that is subject to the privilege referred to in section 57 of the Evidence Act 2006 (which relates to settlement negotiation and mediation) to an overseas regulator unless every other party that has a privilege in relation to that communication or information consents to the Commission providing the communication or information to the overseas regulator.
 (4) To avoid doubt, this section applies whether or not a communication or information is provided under a co-operation arrangement.
+
+**Offences, regulations, and administrative provisions**
 
 ### 100 Powers of Commission to prohibit disclosure of information, documents, and evidence
 (1) Subject to subsection (2), the Commission may, in relation to any application for, or any notice seeking, any clearance or authorisation under Part 5, or in the course of carrying out any other investigation or inquiry under this Act, make an order prohibiting—
