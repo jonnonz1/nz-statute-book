@@ -1,5 +1,5 @@
 # Takeovers Act 1993
-_Consolidation as at 2021-10-28_
+_Consolidation as at 2022-05-05_
 
 > Title
 
@@ -212,7 +212,7 @@ The object of this Act is to—
 (1) The Panel may provide to the Commerce Commission any information, or a copy of any document, that the Panel—
   (a) holds in relation to the exercise of the Panel's powers, or the performance of its functions and duties; and
   (b) considers may assist the Commerce Commission in the exercise of the Commerce Commission's powers, or the performance of its functions and duties, in respect of the Fair Trading Act 1986.
-(2) The Panel may use any information, or a copy of any document, provided to it by the Commerce Commission under section 48A of the Fair Trading Act 1986 in the Panel's exercise of its powers, or the performance of its functions and duties.
+(2) The Panel may use any information, or a copy of any document, provided to it by the Commerce Commission under section 99AA of the Commerce Act 1986 in the Panel's exercise of its powers, or the performance of its functions and duties.
 (3) This section applies despite anything to the contrary in any contract, deed, or document.
 (4) Nothing in this section limits the Privacy Act 2020.
 
