@@ -1,5 +1,5 @@
 # Wildlife Act 1953
-_Consolidation as at 2021-10-28_
+_Consolidation as at 2022-05-06_
 
 > An Act to consolidate and amend the law relating to the protection and control of wild animals and birds, the regulation of game shooting seasons, and the constitution and powers of acclimatisation societies
 
@@ -585,7 +585,7 @@ In determining the maximum allowable level of fishing-related mortality for thre
 (5) Every ranger appointed under subsection (2) shall be appointed for such term, not exceeding 3 years, as the Director-General thinks fit, and may be reappointed.
 (6) Any ranger appointed under subsection (2) may at any time be removed from office by the Director-General for incapacity, neglect of duty, or misconduct, or may at any time resign his office by writing addressed to the Director-General.
 (7) Any ranger appointed under subsection (2) shall, on the expiration of the term of his appointment, or on the sooner expiry of his appointment by removal from office or resignation, surrender to the Director-General his warrant of appointment.
-(8) No person appointed by the Director-General under this section to be a ranger shall by virtue of that appointment be deemed to be employed in the service of Her Majesty for the purposes of the Public Service Act 2020 or of the Government Superannuation Fund Act 1956.
+(8) No person appointed by the Director-General under this section to be a ranger shall by virtue of that appointment be deemed to be employed in the service of the Sovereign for the purposes of the Public Service Act 2020 or of the Government Superannuation Fund Act 1956.
 (9) Every person (not being a constable) who at the commencement of this Act holds an appointment as a ranger under section 35 of the Animals Protection and Game Act 1921–22 shall be deemed to have ceased to hold that appointment as from the commencement of this Act.
 
 ### 38A Fish and game rangers to be rangers under this Act
@@ -686,7 +686,7 @@ Part 4 of the Search and Surveillance Act 2012 applies, with any necessary modif
   (f) sell any game or the eggs of any game:
   (g) with the written consent of the occupier, and subject to the provisions of any other Act, construct and maintain on any land any roads, roadways, tracks, paths, bridges, culverts, ferries, and other means of access necessary for the purposes of this Act:
   (h) subject to any regulations made under this Act, regulate, control, or prohibit the keeping, breeding, disposing, or farming of any wildlife specified in Schedule 8.
-(3) All documents that require to be executed for the purposes of this Act by or on behalf of Her Majesty may, unless otherwise provided by this Act, be executed by the Minister, and, if so executed, shall be as valid and effectual as if executed by or on behalf of Her Majesty.
+(3) All documents that require to be executed for the purposes of this Act by or on behalf of the Sovereign may, unless otherwise provided by this Act, be executed by the Minister, and, if so executed, shall be as valid and effectual as if executed by or on behalf of the Sovereign.
 
 ### 42 Fencing of land
 (1) The Minister may from time to time take such steps as he thinks fit for the fencing of any land held by the Crown for the purposes of this Act.
@@ -1181,7 +1181,7 @@ Notwithstanding anything to the contrary in section 25 of the Criminal Procedure
 (2) Where in any Proclamation or Warrant or Order in Council or notification under the authority of this Act the boundary of any area is fixed by reference to the site of any post or landmark, proof that the approximate site set out in the Proclamation or Warrant or Order in Council or notification was at the date of the taking effect of the Proclamation or Warrant or Order in Council or notification, or at any date thereafter, marked by a post or landmark of the kind set out in the Proclamation or Warrant or Order in Council or notification shall be sufficient evidence for the purpose of any proceedings for an offence against this Act or any regulations under this Act that at all relevant times the boundary was so marked in accordance with the Proclamation or Warrant or Order in Council or notification.
 
 ### 70 Forfeitures
-(1) Any animal or any part of any animal or any egg or nest of any animal that has been unlawfully caught or killed or taken or unlawfully had in possession is hereby declared to be forfeited to Her Majesty.
+(1) Any animal or any part of any animal or any egg or nest of any animal that has been unlawfully caught or killed or taken or unlawfully had in possession is hereby declared to be forfeited to the Sovereign.
 (2) It shall be the duty of every ranger or constable or other authorised person who has seized or otherwise obtained possession of any such animal or part of any animal or egg or nest of any such animal to forward immediate notification thereof to the Director-General (or, in the case of any such animal or part of any animal or egg or nest seized by a fish and game ranger, to the Director), who, on the conviction of any person for unlawfully catching, hunting, killing, or taking the same or having the same in his possession, or, if no such person can be traced within 6 months after the seizure or taking possession, shall, in order to give effect to the forfeiture as aforesaid, give such orders as he thinks fit for the disposal of the thing seized, and those orders shall immediately on receipt thereof be carried out by the person to whom they are given.
 (3) In the case of all other property lawfully seized or taken into possession under this Act, the property shall be retained by the Director-General or the Director, as the case may be, pending the trial of any person for the offence in respect of which the property was seized or taken into possession. If no such person can be traced within 6 months after the seizure or taking into possession, the property shall be deemed to be forfeited to the Crown, and shall be disposed of as the Director-General or the Director, as the case may be, directs. Where proceedings are taken against any person in respect of the offence, the property seized or taken into possession shall, when the proceedings are completed, be returned to the person last in possession of the property, unless the court, where it enters a conviction, directs that the property or any part of it be forfeited to the Crown, in which case the property or part thereof, as the case may be, shall be deemed to be forfeited to the Crown accordingly, and shall be disposed of as the Director-General or the Director, as the case may be, directs.
 (3A) Subsection (3) applies as if a person were convicted of an offence against this Act if—
