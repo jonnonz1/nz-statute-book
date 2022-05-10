@@ -1,5 +1,5 @@
 # Human Rights Act 1993
-_Consolidation as at 2021-10-28_
+_Consolidation as at 2022-05-10_
 
 > An Act to consolidate and amend the Race Relations Act 1971 and the Human Rights Commission Act 1977 and to provide better protection of human rights in New Zealand in general accordance with United Nations Covenants or Conventions on Human Rights
 
@@ -17,6 +17,7 @@ _Consolidation as at 2021-10-28_
   - **Commission** means the Human Rights Commission continued by section 4 and includes the Office of Human Rights Proceedings
   - **Commissioner** means a member of the Commission
   - **Director of Human Rights Proceedings** or means the Director of Human Rights Proceedings or alternate Director of Human Rights Proceedings appointed under section 20A
+  - **disability assist dog** has the same meaning as in section 2 of the Dog Control Act 1996
   - **dispose** , in sections 53 and 54, includes sell, assign, lease, let, sublease, sublet, license, or mortgage, and agree to dispose
   - **dispute resolution meeting** means a meeting of the kind referred to in section 77(2)﻿(c)
   - **dispute resolution services** includes the provision of answers to questions by members of the public about discrimination and compliance with this Act
@@ -363,7 +364,7 @@ Section 20L applies only for the purposes of—
     (iii) psychiatric illness:
     (iv) intellectual or psychological disability or impairment:
     (v) any other loss or abnormality of psychological, physiological, or anatomical structure or function:
-    (vi) reliance on a guide dog, wheelchair, or other remedial means:
+    (vi) reliance on a disability assist dog, wheelchair, or other remedial means:
     (vii) the presence in the body of organisms capable of causing illness:
   (i) age, which means,—
     (i) for the purposes of sections 22 to 41 and section 70 and in relation to any different treatment based on age that occurs in the period beginning with 1 February 1994 and ending with the close of 31 January 1999, any age commencing with the age of 16 years and ending with the date on which persons of the age of the person whose age is in issue qualify for national superannuation under section 7 of the New Zealand Superannuation and Retirement Income Act 2001 (irrespective of whether or not the particular person qualifies for national superannuation at that age or any other age):
