@@ -1,5 +1,5 @@
 # Russia Sanctions Act 2022
-_Consolidation as at 2022-03-11_
+_Consolidation as at 2022-05-17_
 
 ### 1 Title
 This Act is the Russia Sanctions Act 2022.
@@ -383,14 +383,16 @@ All the provisions of the Customs and Excise Act 2018 that apply with respect to
   (g) the Financial Markets Conduct Act 2013:
   (h) the Financial Service Providers (Registration and Dispute Resolution) Act 2008:
   (i) the Financial Transactions Reporting Act 1996:
+  (ia) the Fisheries Act 1996:
   (j) the Gambling Act 2003:
   (k) the Goods and Services Tax Act 1985:
   (l) the Income Tax Act 2007:
   (m) the Insurance (Prudential Supervision) Act 2010:
   (n) Parts 1 to 7 of the Intelligence and Security Act 2017:
+  (na) the KiwiSaver Act 2006:
   (o) the Non-bank Deposit Takers Act 2013:
   (p) the Overseas Investment Act 2005:
-  (q) the Proceeds of Crime Act 1991:
+  (q) the Criminal Proceeds (Recovery) Act 2009:
   (r) the Racing Industry Act 2020:
   (s) the Real Estate Agents Act 2008:
   (t) the Reserve Bank of New Zealand Act 1989:
