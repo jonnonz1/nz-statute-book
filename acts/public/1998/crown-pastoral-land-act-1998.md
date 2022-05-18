@@ -1,5 +1,5 @@
 # Crown Pastoral Land Act 1998
-_Consolidation as at 2022-04-12_
+_Consolidation as at 2022-05-18_
 
 > An Act—ato establish a system for reviewing the tenure of Crown land held under certain perpetually renewable leases; andbto establish a system for determining how Crown land formerly held under pastoral occupation licence, and certain other Crown land, should be dealt with; andcotherwise to provide for the administration of Crown pastoral land
 
@@ -8,7 +8,7 @@ This Act may be cited as the Crown Pastoral Land Act 1998.
 
 ### 2 Interpretation
 Unless the context requires otherwise, in this Act,—
-  - **approved plan** means a plan returned to the Commissioner under section 63 (whether directly, or by virtue of its application by section 90)
+  - **approved plan** means a plan returned to the Commissioner under section 90 (by virtue of its application of former section 63)
   - **base carrying capacity** , in relation to a pastoral lease, means the base carrying capacity of land as assessed or determined under Part 1A and under any regulations or rules made under Part 1A and that is expressed in stock units
   - **Chief Surveyor** —
     (a) means a person for the time being appointed under section 9 of the Survey Act 1986; and includes the deputy of a Chief Surveyor; and
@@ -546,499 +546,199 @@ The Valuer-General may, in accordance with clauses 2 and 3 of Schedule 6 of the 
 **General**
 
 ### 24 Objects of Part 2
-The objects of this Part are—
-  (a) to—
-    (i) promote the management of reviewable land in a way that is ecologically sustainable:
-    (ii) subject to subparagraph (i), enable reviewable land capable of economic use to be freed from the management constraints (direct and indirect) resulting from its tenure under reviewable instrument; and
-  (b) to enable the protection of the significant inherent values of reviewable land—
-    (i) by the creation of protective mechanisms; or (preferably)
-    (ii) by the restoration of the land concerned to full Crown ownership and control; and
-  (c) subject to paragraphs (a) and (b), to make easier—
-    (i) the securing of public access to and enjoyment of reviewable land; and
-    (ii) the freehold disposal of reviewable land.
+[Repealed]
 
 ### 25 Matters to be taken into account by Commissioner
-(1) In acting under this Part, the Commissioner must (to the extent that those matters are applicable) take into account—
-  (a) the objects of this Part; and
-  (b) the principles of the Treaty of Waitangi; and
-  (c) if acting in relation to land used or intended to be used by the Crown for any particular purpose, that purpose.
-(2) In acting under this Part in relation to any part of the land held under a reviewable instrument or reviewable instruments, the Commissioner must take the objects of this Part into account in the light of—
-  (a) their application to all the land held under the instrument or instruments; rather than
-  (b) their application to that part of the land alone.
+[Repealed]
 
 ### 26 Consultation
-(1) Before taking any action specified in subsection (3), the Commissioner must consult the Director-General of Conservation.
-(2) At any time, the Commissioner may consult any person or body the Commissioner thinks fit (including the Director-General of Conservation) about taking any action specified in subsection (3).
-(3) The actions are—
-  (a) undertaking a review under section 27:
-  (b) putting a preliminary proposal to a person under section 34(1):
-  (c) putting a substantive proposal to a person under section 46.
+[Repealed]
 
 **Tenure reviews**
 
 ### 27 Commissioner may undertake reviews of land held under pastoral lease
-On the written invitation or with the written agreement of the holder or holders concerned, the Commissioner may undertake a review of all the land for the time being held under a reviewable lease, or under 2 or more reviewable leases of neighbouring land.
+[Repealed]
 
 ### 28 Inclusion of land held under occupation licence
-On the written invitation or with the written agreement of the licensee or licensees concerned, the Commissioner may include in the review of land held under a reviewable lease or reviewable leases all the land held under 1 or more occupation licences of neighbouring land.
+[Repealed]
 
 ### 29 Inclusion of unused Crown land
-The Commissioner may include in the review of land held under a reviewable lease or reviewable leases any neighbouring unused Crown land.
+[Repealed]
 
 ### 30 Inclusion of freehold land
-If the holder of a reviewable instrument has an estate in fee simple in any neighbouring land, the Commissioner may, with the prior written agreement of the holder, include the neighbouring land in a review of land that is or includes the land held under the instrument.
+[Repealed]
 
 ### 31 Inclusion of conservation area and reserve
-With the prior written agreement of the Minister of Conservation, the Commissioner may include in the review of land that is or includes the land held under a reviewable lease any neighbouring conservation area or reserve.
+[Repealed]
 
 ### 32 Administration of reviews
-The Commissioner may, in the Commissioner's absolute discretion, decide—
-  (a) how many reviews to undertake:
-  (b) the order in which reviews are to be undertaken:
-  (c) the urgency with which any review is to be undertaken:
-  (d) the resources to be devoted to any review.
+[Repealed]
 
 ### 33 Discontinuance of reviews
-The Commissioner may discontinue a review at any time; and must discontinue a review if asked in writing by the holder, or one of the holders, concerned.
+[Repealed]
 
 **Preliminary proposals**
 
 ### 34 Preliminary proposals may be put to holders
-(1) After completing a review under section 27, the Commissioner may put a preliminary proposal—
-  (a) to the holder of the reviewable lease concerned; or
-  (b) to the holders of all or (as long as at least 1 is a reviewable lease) some of the reviewable instruments concerned.
-(2) A preliminary proposal—
-  (a) must deal with all the land held under the reviewable instrument or instruments to which it relates; and must designate it in accordance with section 35; and
-  (b) may deal with any land included in the review concerned that is not held under a reviewable instrument, and must designate it in accordance with sections 35 to 39.
-(3) A preliminary proposal put to the holder of a reviewable instrument must (unless no payment is proposed) be accompanied by a notice specifying—
-  (a) all amounts of money proposed to be paid to or by the holder (including amounts proposed to be paid by way of equality of exchange) if land designated in the proposal is ultimately dealt with as it has been designated; and
-  (b) in respect of each sum specified, the point at which it will become payable.
+[Repealed]
 
 ### 35 Designation of land held under reviewable instrument, freehold land, and unused Crown land
-(1) This section applies to—
-  (a) land held under a reviewable instrument; and
-  (b) land held in fee simple; and
-  (c) unused Crown land.
-(2) A preliminary proposal may designate all or any part of any land to which this section applies as—
-  (a) land to be restored to or retained in full Crown ownership and control—
-    (i) as conservation area; or
-    (ii) as a reserve, to be held for a purpose specified in the proposal; or
-    (iii) for some specified Crown purpose; or
-  (b) land to be restored to or retained in Crown control—
-    (i) as conservation area; or
-    (ii) as a reserve, to be held for a purpose specified in the proposal; or
-    (iii) for some specified Crown purpose; or
-    (iv) under the Land Act 1948; or
-  (c) land that may be disposed of to any person.
-(3) A preliminary proposal may designate all or any part of any Crown land to which this section applies as land to be disposed of by freehold disposal to a person specified in the proposal.
-(4) A preliminary proposal may designate all or any part of any land held in fee simple as land to be kept by its owner.
+[Repealed]
 
 ### 36 Qualified designations
-(1) A preliminary proposal designating land to which section 35 applies as land to be restored to or retained in Crown control must so designate it subject to 1 or more of the following things:
-  (a) the granting of a specified concession to a person specified in the proposal:
-  (b) the granting of a specified special lease to a person specified in the proposal:
-  (c) the granting of a specified grazing permit to a person specified in the proposal:
-  (d) the continuation in force of an existing special lease:
-  (e) the continuation in force of an existing grazing permit.
-(2) If land to which section 35 applies will be marginal strip, a preliminary proposal may designate it as land to be restored to or retained in Crown control as conservation area, subject to the appointment as manager under section 24H(1) of the Conservation Act 1987 of a person specified in the proposal.
-(3) A preliminary proposal designating land to which section 35 applies may designate it subject to any or all of the following things:
-  (a) the creation of a sustainable management covenant:
-  (b) the creation of an easement, in gross, or in favour of adjacent land (whether or not included in the review out of which the proposal arises):
-  (c) the continuation in force of an existing easement.
-(4) Subsections (1) to (3) are cumulative.
+[Repealed]
 
 ### 37 Designation of conservation area
-(1) A preliminary proposal may designate all or any part of any conservation area as—
-  (a) land that is to remain conservation area; or
-  (b) land that is to remain conservation area subject to the granting to a specified person of a specified concession; or
-  (c) land to be disposed of by way of exchange with other land designated by the proposal, under the Conservation Act 1987.
-(2) If it is marginal strip, a preliminary proposal may designate all or any part of any conservation area as land to remain conservation area, subject to the appointment of a specified person as manager under section 24H(1) of the Conservation Act 1987.
+[Repealed]
 
 ### 38 Designation of reserves
-(1) A preliminary proposal may designate all or any part of any reserve as—
-  (a) land that is to remain a reserve; or
-  (b) land that is to remain a reserve subject to the granting to a specified person of a specified concession; or
-  (c) land to be disposed of by way of exchange with other land designated by the proposal, under the Reserves Act 1977.
-(2) If (and only if) it is or is part of a recreation reserve that has no administering body, a preliminary proposal may designate all or any part of any reserve as land that is to remain a reserve subject to the granting to a specified person of a specified lease under section 73 of the Reserves Act 1977.
+[Repealed]
 
 ### 39 Information to be included in respect of concessions
-A preliminary proposal designating land as land to be restored to or retained in Crown control, subject to the granting of a concession, or over which a concession is to be granted, must include (in respect of each concession, if more than 1 is proposed)—
-  (a) a description of each proposed activity:
-  (b) a description identifying the places where each proposed activity is proposed to be carried out, and indicating the status or proposed status of each place:
-  (c) a description of the potential effects of each proposed activity, and any actions that the proposed grantee of the concession proposes to take to avoid, remedy, or mitigate any adverse effects:
-  (d) details of the proposed type of concession:
-  (e) a statement of the proposed duration of the concession and the reasons for the proposed duration:
-  (f) relevant information about the proposed grantee, including information relevant to the grantee's ability to carry out each proposed activity.
+[Repealed]
 
 ### 40 Protective mechanisms
-(1) A preliminary proposal may designate land as—subject (in addition to any other conditions) to the creation of 1 or more protective mechanisms, each relating to 1 or more of the matters specified in subsection (2).
-  (a) land to be restored to or retained in Crown ownership subject to the granting of a special lease; or
-  (b) land to be disposed of to a specified person; or
-  (c) land that may be disposed of to any person,—
-(2) The matters are—
-  (a) the protection of a significant inherent value of the land concerned:
-  (b) the management of the land concerned in a way that is ecologically sustainable:
-  (c) public access across or to the land concerned:
-  (d) public enjoyment of the land concerned.
-(3) A preliminary proposal may not designate land as land to be disposed of subject to the creation of a covenant under section 22 of the Queen Elizabeth the Second National Trust Act 1977 without the prior written consent of the Queen Elizabeth the Second National Trust.
-(4) A preliminary proposal may not designate land as land to be disposed of subject to the creation of a covenant under section 77 of the Reserves Act 1977 if—
-  (a) a local authority or other body approved by the Minister of Conservation is to be a party to the covenant; and
-  (b) the local authority or other body has not given its prior written consent to the designation.
-(5) A preliminary proposal may not designate land as land to be disposed of subject to the creation of a covenant under section 39 of the Heritage New Zealand Pouhere Taonga Act 2014 without the prior written consent of Heritage New Zealand Pouhere Taonga.
+[Repealed]
 
 ### 41 Provisional consent of Minister of Conservation needed for some designations
-(1) Without the prior written provisional consent of the Minister of Conservation, a preliminary proposal may not—
-  (a) designate any land to which section 35 applies as land to be restored to or retained in Crown control as conservation area or a reserve, subject to the granting of a concession:
-  (b) designate any conservation area or reserve as land to remain conservation area or a reserve, subject to the granting of a concession:
-  (c) designate any conservation area as land to be disposed of by way of exchange:
-  (d) designate any conservation area that is marginal strip as land to remain conservation area, subject to the appointment of any person as manager under section 24H(1) of the Conservation Act 1987:
-  (e) designate any reserve as land to be disposed of by way of exchange:
-  (f) designate any reserve that is or is part of a recreation reserve as land to be granted by lease under section 73 of the Reserves Act 1977:
-  (g) designate any land to which section 35 applies as land to be restored to or retained in Crown ownership as conservation area, subject to the appointment of any person as manager under section 24H(1) of the Conservation Act 1987:
-  (h) designate any land to which section 35 applies as land to be disposed of to a specified person, or land that may be disposed of to any person, subject to the creation of a protective mechanism.
-(2) The Minister must not consent provisionally to a designation in a preliminary proposal unless satisfied that it is reasonably likely that the Minister would consent to a substantive proposal containing the designation.
+[Repealed]
 
 ### 42 Proposal may be conditional on acceptance by other holders
-A preliminary proposal relating to land held under 2 or more reviewable instruments may (so far as any holder is concerned) be unconditional, or conditional on its acceptance by some other holder or holders.
+[Repealed]
 
 ### 43 Commissioner to give notice of preliminary proposals
-(1) The Commissioner must give notice of every preliminary proposal put under section 34(1),—
-  (a) specifying the land, a day (no sooner than 40 working days after the publication of the last of the notices to be published), and an address; and
-  (b) describing the proposal in general terms; and
-  (c) indicating that any person or organisation may (no later than the day specified) give or send to the Commissioner at the address specified a written submission on the proposal.
-(2) The notice must not disclose any financial information.
-(3) The Commissioner must have the notice published—
-  (a) in some newspaper circulating in the area where the land is situated; and
-  (b) at least once in a daily newspaper published in Christchurch; and
-  (c) at least once in a daily newspaper published in Dunedin.
+[Repealed]
 
 ### 44 Consultation with iwi authority
-The Commissioner must—
-  (a) have a copy of every notice under section 43 given to the iwi authority (within the meaning of the Resource Management Act 1991) of the area where the land concerned is situated; and
-  (b) consult the authority on the proposal.
+[Repealed]
 
 ### 45 Information to be given to Minister of Conservation
-The Commissioner must—
-  (a) prepare, and give the Minister of Conservation,—
-    (i) a summary of all matters raised by an iwi authority during consultation on a preliminary proposal under section 44; and
-    (ii) a statement as to the extent to which objections to and comments on the proposal raised during the consultation have been allowed or accepted, or disallowed or not accepted; and
-    (iii) a statement as to the extent to which objections to and comments on the proposal contained in the written submissions relating to the proposal received by the Commissioner (from any person or organisation) on or before the day specified in the notice given under section 43 at the address specified in the notice have been allowed or accepted, or disallowed or not accepted; and
-  (b) give the Minister of Conservation copies of all those submissions.
+[Repealed]
 
 **Substantive proposals**
 
 ### 46 Substantive proposals may be put to holders
-(1) If a preliminary proposal has been put to the holder of 1 or more reviewable instruments and notified under section 43, the Commissioner may in writing put to the holder a substantive proposal that is the same as or a modified version of the preliminary proposal.
-(2) If a preliminary proposal has been put to several holders of reviewable instruments and notified under section 43, the Commissioner may in writing put—a substantive proposal that is (so far as it relates to that holder or those holders) the same as or a modified version of the preliminary proposal.
-  (a) to those holders; or
-  (b) as long as it or at least 1 of them is a reviewable lease, to the holder or holders of 1 or more of the instruments,—
-(3) If the substantive proposal designates any land as land that may be disposed of to any person, it must specify the day on which the surrender of the reviewable instrument concerned is to take effect.
-(4) A substantive proposal put to the holder of a reviewable instrument must (unless no payment is proposed) be accompanied by a notice specifying—and when an approved plan arising out of the proposal is registered, the notice has effect as a binding contract between the Crown and the holder, according to its tenor.
-  (a) all amounts of money proposed to be paid to or by the holder (including amounts proposed to be paid by way of equality of exchange) if land designated in the proposal is ultimately dealt with as it has been designated; and
-  (b) in respect of each sum specified, the point at which it will become payable;—
+[Repealed]
 
 ### 47 Commissioner to consider submissions
-(1) The Commissioner must not put a substantive proposal to any holder of a reviewable instrument without having considered—
-  (a) all matters raised by the iwi authority concerned during consultation on the preliminary proposal concerned under section 44; and
-  (b) all written submissions relating to that preliminary proposal received by the Commissioner (from any person or organisation) on or before the day specified in the notice given under section 43 at the address specified in that notice.
-(2) Nothing in subsection (1) prevents the Commissioner from considering any late or oral submission.
+[Repealed]
 
 **Duties of Minister of Conservation in relation to proposed concessions**
 
 ### 48 Consent of Minister of Conservation needed for proposed concessions
-Without the prior written consent of the Minister of Conservation, a substantive proposal must not—
-  (a) designate any reviewable land as land to be restored to or retained in Crown control as conservation area or a reserve, subject to the granting of a concession; or
-  (b) designate any conservation area or reserve as land to remain conservation area or a reserve, subject to the granting of a concession.
+[Repealed]
 
 ### 49 No consent to easement if other concession more appropriate
-The Minister of Conservation must refuse consent to a substantive proposal—if the Minister considers that a lease, licence, or permit is more appropriate in that case.
-  (a) designating any reviewable land as land to be restored to or retained in Crown control as conservation area or a reserve, subject to the granting of a concession that is an easement; or
-  (b) designating any conservation area or reserve as land to remain conservation area or a reserve, subject to the granting of a concession that is an easement,—
+[Repealed]
 
 ### 50 No consent if inadequate information provided
-If a substantive proposal designates any land held under a reviewable instrument as land to be restored to or retained in Crown control as conservation area or reserve, or designates any conservation area or reserve as land to remain conservation area or reserve, subject to the granting of a concession that is—the Minister of Conservation must refuse consent to it unless the Commissioner has given the Minister sufficient information to satisfy the Minister, in terms of section 51, that it is both appropriate to grant the concession and lawful to grant it.
-  (a) a lease; or
-  (b) a profit à prendre; or
-  (c) a licence granting an interest in land; or
-  (d) an easement,—
+[Repealed]
 
 ### 51 Matters to be considered
-(1) If satisfied that the granting of any concession concerned would not comply with or would be inconsistent with the provisions of the Reserves Act 1977, or (as the case may be) the Conservation Act 1987 or any relevant conservation management strategy or conservation management plan, the Minister of Conservation must refuse consent to a substantive proposal containing a concession designation.
-(2) The Minister of Conservation may not consent to a substantive proposal containing a concession designation without having regard to—
-  (a) the nature of each activity proposed to be carried on, and the type of each facility (if any) proposed, under the concessions concerned:
-  (b) the effects of the activity or facility:
-  (c) any measures that can reasonably and practicably be taken to avoid, remedy, or mitigate any adverse effects of each activity:
-  (d) any relevant environmental impact assessment, including any audit or review:
-  (e) any relevant matters contained in the information sent to the Minister under section 45(b) in relation to the preliminary proposal concerned:
-  (f) any relevant information that may be withheld from any person in accordance with the Official Information Act 1982 or the Privacy Act 2020.
-(3) The Minister of Conservation may refuse consent to a substantive proposal containing a concession designation if the Minister considers that—
-  (a) the information available to the Minister is insufficient or inadequate to enable the Minister to assess the effects (including the effects of any proposed methods to avoid, remedy, or mitigate the adverse effects) of any activity proposed to be carried on, or facility proposed, under the concessions concerned; or
-  (b) there are no adequate methods or no reasonable methods for remedying, avoiding, or mitigating the adverse effects of any activity proposed to be carried on, or facility proposed, under the concessions concerned.
-(4) The Minister of Conservation must refuse consent to a substantive proposal containing a concession designation if any activity proposed to be carried on under the concessions concerned is contrary to the provisions of the Reserves Act 1977, or (as the case may be) the Conservation Act 1987 or the purposes for which the land concerned is to be held.
-(5) The Minister of Conservation must refuse consent to a substantive proposal containing a concession designation if any concession concerned is a concession to build a structure or facility, or extend or add to an existing structure or facility, if the Minister is satisfied that any of the activities proposed to be carried on under the concession—
-  (a) could reasonably be undertaken in another location that—
-    (i) is outside the conservation area or reserve (or proposed conservation area or reserve) concerned; or
-    (ii) is in another conservation area or reserve (or proposed conservation area or reserve), or in another part of the conservation area or reserve (or proposed conservation area or reserve) concerned, where the potential adverse effects would be significantly less; or
-  (b) could reasonably use an existing structure or facility or the existing structure or facility without the extension or addition.
-(6) The Minister of Conservation may consent to a substantive proposal containing a concession designation providing for the granting of a concession that is a lease or licence (other than a grant of profit à prendre) only if—
-  (a) the lease or licence relates to 1 or more fixed structures and facilities (which structures and facilities do not include any track or road except where the track or road is an integral part of a larger structure or facility); and
-  (b) in any case where land over which the lease or licence is to be granted includes an area or areas around any structure or facility,—
-    (i) either—
-      (A) it is necessary for the purposes of the safety or security of the site, structure, or facility to include any area or areas (including any security fence) around the structure or facility; or
-      (B) it is necessary to include any clearly defined area or areas that are an integral part of any activity proposed to be carried on under the concession concerned; and
-    (ii) the grant of a lease or licence granting an interest in land is essential to enable any activity proposed to be carried on under the concession concerned.
-(7) The Minister of Conservation must refuse consent to a substantive proposal containing a concession designation providing for the granting of a concession that is a lease, unless satisfied that exclusive possession of the land concerned is necessary for—
-  (a) the protection of public safety; or
-  (b) the protection of the physical security of any activity proposed to be carried on under the concession; or
-  (c) the competent operation of any activity proposed to be carried on under the concession.
-(8) For the purposes of subsection (7), the competent operation of an activity includes the necessity for the activity to achieve adequate investment and maintenance.
+[Repealed]
 
 ### 52 Proposed concessions over marginal strip
-(1) The Minister of Conservation may refuse consent to a substantive proposal containing a concession designation relating to land that is or is to become marginal strip in any case if satisfied that it is more appropriate in that case to enter into an agreement or arrangement under section 24H of the Conservation Act 1987.
-(2) The Minister of Conservation must refuse consent to a substantive proposal containing a concession designation relating to land that is or is to become marginal strip if the concession would authorise the owner of adjoining land to use the marginal strip for farming purposes or forestry purposes or any purpose associated with or incidental to any farming or forestry carried out on the adjoining land is to be granted; but nothing in the preceding provisions of this subsection limits or affects section 24H of the Conservation Act 1987.
-(3) The Minister of Conservation must refuse consent to a substantive proposal containing a concession designation relating to land that is or is to become marginal strip if the concession is a lease (other than a lease that formalises an occupation of the land that existed before 10 April 1990), and the Minister is not satisfied that—
-  (a) the grant of a lease over the land would be permitted by Part 3B of the Conservation Act 1987; and
-  (b) the activities authorised by the lease require the use of both the land and the adjacent water; and
-  (c) the land and facilities to which the lease relates are essential to the carrying out of those activities.
+[Repealed]
 
 ### 53 Conditions generally
-The Minister of Conservation must refuse consent to a substantive proposal containing a concession designation if not satisfied that the concession concerned will be granted subject to conditions appropriate for any proposed activity or facility, including (but not limited to) conditions relating to or providing for any of the matters referred to in section 17X (except for paragraph (c)) of the Conservation Act 1987.
+[Repealed]
 
 ### 54 Rents, fees, and royalties
-(1) The Minister of Conservation must refuse consent to a substantive proposal containing a concession designation if not satisfied that the concession concerned will be granted subject to—
-  (a) the condition that the grantee must pay any specified rents, fees, and royalties to the Minister; and
-  (b) the condition that the grantee must pay any other levy or charge made on an occupier or owner of land, as the result of the grant of a lease, licence, or easement, either to the Minister or as directed by the Minister; and
-  (c) the condition that the rent, fees, and royalties for the concession must be reviewed at intervals not exceeding 3 years.
-(2) The rent, fee, or royalty may be fixed at the market value, having regard to the matters referred to in section 17Y(2) of the Conservation Act 1987.
+[Repealed]
 
 ### 55 Term
-(1) The Minister of Conservation must refuse consent to a substantive proposal containing a concession designation if the concession concerned is a lease or licence, and—
-  (a) the term for which it is to be granted (including all renewals of the lease or licence) exceeds 60 years; or
-  (b) the term for which it is to be granted (including all renewals of the lease or licence) exceeds 30 years, and the Minister is not satisfied that there are exceptional circumstances.
-(2) The Minister of Conservation must refuse consent to a substantive proposal containing a concession designation if the concession concerned is a permit, and—
-  (a) the term for which it is to be granted exceeds 5 years; or
-  (b) it is to be renewable.
-(3) The Minister of Conservation must refuse consent to a substantive proposal containing a concession designation if the concession concerned is an easement, and—
-  (a) the term for which it is to be granted exceeds 60 years, and—
-    (i) the Minister is not satisfied that the easement provides a right of way access to a property to which there is no other practical access; or
-    (ii) the Minister is not satisfied that the term is appropriate; or
-  (b) the term for which it is to be granted exceeds 30 years, and the Minister is not satisfied that there are exceptional circumstances.
+[Repealed]
 
 **Duty of Minister of Conservation in relation to proposed exchanges of conservation area**
 
 ### 56 Consent of Minister of Conservation needed for proposed exchanges of conservation area
-A substantive proposal must not designate any conservation area as land to be disposed of by way of exchange under the Conservation Act 1987 without the prior written consent of the Minister of Conservation; and the Minister must not give consent unless satisfied, after consultation with the local Conservation Board (established under section 6L of that Act), that the exchange will enhance the natural and historic resources of land managed by the Department of Conservation for conservation purposes and promote the purposes of that Act.
+[Repealed]
 
 **Proposal to appoint manager of marginal strip**
 
 ### 57 Consent of Minister of Conservation needed for proposed appointment of manager of marginal strip
-Without the prior written consent of the Minister of Conservation, a substantive proposal must not—
-  (a) designate any conservation area that is marginal strip as land to remain conservation area, subject to the appointment of any person as manager under section 24H(1) of the Conservation Act 1987:
-  (b) designate any land to which section 35 applies as land to be restored to or retained in Crown ownership as conservation area, subject to the appointment of any person as manager under section 24H(1) of the Conservation Act 1987.
+[Repealed]
 
 **Powers and duties of Minister of Conservation in relation to proposed disposal of reserves**
 
 ### 58 Proposed disposal of reserve otherwise than by concession
-(1) A substantive proposal must not designate any reserve as land to be disposed of by way of exchange under the Reserves Act 1977 without the prior written consent of the Minister; and if the reserve has an administering body (within the meaning of that Act), the Minister may not give consent except pursuant to a resolution of that body requesting the exchange.
-(2) A substantive proposal must not designate any reserve that is or is part of a recreation reserve as land to be granted by lease under section 73 of the Reserves Act 1977 without the prior written consent of the Minister of Conservation; and the Minister may not give consent except if it is not for the time being required for the purpose for which it was classified, or if the Minister considers it in the public interest, or if the Minister has decided under section 53(1)﻿(a)﻿(ii) of that Act that it is necessary or desirable to farm, graze, or afforest the reserve.
+[Repealed]
 
 **Powers in relation to proposed creation of certain easements and covenants**
 
 ### 59 Consent needed for some designations
-(1) Without the prior written consent of the Minister of Conservation, a substantive proposal may not designate any land as land to be disposed of subject to the creation of—
-  (a) an easement under section 12 of the Reserves Act 1977 or section 7(2) of the Conservation Act 1987; or
-  (b) a covenant under section 77 of the Reserves Act 1977 or section 27 of the Conservation Act 1987.
-(2) Without the prior written consent of the New Zealand Walking Access Commission (established by section 6 of the Walking Access Act 2008), a substantive proposal may not designate any land as land to be disposed of subject to the creation of an easement under sections 26 to 29 of the Walking Access Act 2008.
+[Repealed]
 
 **Acceptance of substantive proposals, and consequences of acceptance**
 
 ### 60 Acceptances
-(1) The holder of a reviewable instrument may, by written notice to the Commissioner, accept or reject a substantive proposal put to the holder under section 46.
-(2) If the Commissioner does not receive an acceptance within 3 months of putting the substantive proposal to the holder, the holder is deemed to have rejected it.
-(3) If the substantive proposal—its acceptance by that holder does not take effect unless it is also accepted by that other holder or those other holders.
-  (a) relates to land held under 2 or more reviewable instruments; and
-  (b) is, so far as any holder is concerned, conditional on its ultimate acceptance by some other holder or holders,—
-(4) If any person other than the holder of the instrument has an interest in the land, the substantive proposal's acceptance by that holder does not take effect unless the notice contains the person's written consent to the acceptance.
-(5) Subject to subsections (3) and (4), a holder's acceptance of a substantive proposal put to the holder under section 46 is irrevocable; and has effect as an irrevocable authority to and obligation on the Commissioner to take the appropriate actions required by this Part.
+[Repealed]
 
 ### 61 Notice of proposal may be registered against title to protect acceptance
-(1) If—the Commissioner must sign and forward to the Registrar-General of Land a written notice of the acceptance of the proposal, describing the proposal in general terms.
-  (a) any person has accepted a substantive proposal; and
-  (b) that proposal relates to land held in fee simple, or land held under a lease registered under the Land Act 1948,—
-(2) The Registrar-General of Land must register the notice against the record of title to the land or lease.
-(3) In the case of a notice relating to a lease, the validity of the notice is not affected by any misdescription of the land it relates to if it—
-  (a) specifies the lease; and
-  (b) contains (or has attached to it) an illustrative diagram of the land showing how it has been designated.
-(4) Every person who, after the notice has been registered, acquires an estate or interest in any land against whose record of title it has been registered is bound by the acceptance of the proposal to which it relates to the same extent as the person who accepted the proposal; and this Act has effect accordingly.
-(5) If a person acquires an estate or interest in any land—this Part has effect as if the entire proposal had been rejected.
-  (a) after any person has accepted a proposal (put to that person under section 46) relating to the land; and
-  (b) before a notice registered under this section against the record of title to it was lodged for registration,—
+[Repealed]
 
 ### 62 Final plan to be prepared
-(1) Once the acceptance of a substantive proposal takes effect, the Commissioner must give the Chief Surveyor written notice of its acceptance, attaching a copy of the proposal.
-(2) As soon as is practicable after receiving the notice, the Chief Surveyor must—
-  (a) determine whether any of the land needs to be surveyed before the proposal can be given effect to; and
-  (b) give the Commissioner written notice—
-    (i) of the land that needs to be surveyed; or
-    (ii) that none of the land needs to be surveyed.
-(3) If notified that any of the land needs to be surveyed, the Commissioner must have it surveyed, and have a plan or plans of it prepared and approved, under the Survey Act 1986.
-(4) Once the Commissioner—the Commissioner must—
-  (a) has complied with subsection (3); or
-  (b) has been notified that none of the land needs to be surveyed,—
-  (c) have prepared a final plan of all the land to which the proposal relates, showing the various areas to which it relates, and (in respect of each) giving—
-    (i) a legal description; and
-    (ii) its designation by the proposal; and
-    (iii) if it is designated as land to be restored to Crown ownership as a reserve, the purpose of the reserve; and
-  (d) submit 2 copies of the plan to the Chief Surveyor.
+[Repealed]
 
 ### 63 Approval of plan
-If (and only if) satisfied that—the Chief Surveyor must sign and date on both copies of the plan a written notice approving it for the purposes of this Act, and return 1 copy to the Commissioner.
-  (a) the boundaries of the various areas shown on a plan submitted under section 62(4)﻿(d) are, in the light of any discovered imprecisions in the boundaries shown or described in the accepted substantive proposal concerned, as close as may reasonably practicably be achieved to the boundaries shown or described in the proposal; and
-  (b) to the extent allowed by the position of the boundaries shown on the plan,—accurately reflect the proposal,—
-    (i) the areas they define; and
-    (ii) the designations of those areas,—
+[Repealed]
 
 ### 64 Commissioner to register accepted proposals and approved plans
-On receiving an approved plan, the Commissioner must lodge it and a copy of the proposal to which it relates with the Registrar-General of Land, who must register them against every record of title to land to which they relate.
+[Repealed]
 
 ### 65 Effect of registration of approved plan in relation to land designated to be restored to Crown ownership
-(1) Land that an approved plan designates as land to be restored to Crown ownership vests in the Crown when the plan is registered,—
-  (a) depending on its designation in the plan,—
-    (i) as conservation area, or for the Crown purpose specified, or without the specification of any status or purpose; or
-    (ii) as a reserve, held for the purpose specified in the plan; and
-  (b) subject to the special leases, grazing permits, and easements (if any) whose continuation in force is provided for in the proposal; and
-  (c) subject to the special leases and grazing permits (if any) whose granting is provided for in the substantive propose concerned; and
-  (d) subject to or, as the case requires, with the benefit of any easement whose creation is provided for in the substantive proposal concerned; and
-  (e) except as provided in paragraphs (b) to (d), freed and discharged from all mortgages, charges, claims, estates, and interests.
-(2) If land vests under this section—the lease, permit, or easement is deemed to have been granted or created immediately before the land vests.
-  (a) subject to a special lease or grazing permit whose granting is provided for in the substantive proposal concerned; or
-  (b) subject to or with the benefit of any easement whose creation is provided for in the substantive proposal concerned,—
+[Repealed]
 
 ### 66 Land vesting as conservation area subject to granting of concession
-When land that an approved plan designates as land to be restored to Crown ownership subject to the granting of a concession vests as conservation area under section 65,—
-  (a) the Commissioner must promptly give the Minister of Conservation written notice that it has vested subject to the granting of the concession; and
-  (b) the Minister must promptly, in accordance with the substantive proposal concerned, grant the concession to the person concerned; and
-  (c) section 17ZD(1) of the Conservation Act 1987 applies to the granting of the concession as if the reference in it to any applicant for a concession who has been granted a concession were a reference to the person; but
-  (d) sections 17Q(2), 17R to 17Z, and 17ZJ of the Conservation Act 1987 do not apply to the granting of the concession.
+[Repealed]
 
 ### 67 Land vesting as conservation area subject to appointment of manager of marginal strip
-When land that an approved plan designates as land to be restored to Crown control subject to the appointment of any person as manager under section 24H(1) of the Conservation Act 1987 vests as conservation area under section 65,—
-  (a) the Commissioner must promptly give the Minister of Conservation written notice that it has vested subject to the person's appointment as manager; and
-  (b) the Minister must promptly, in accordance with the proposal, appoint the person manager of the land.
+[Repealed]
 
 ### 68 Land vesting as reserve subject to granting of concession
-When land that an approved plan designates as land to be restored to Crown control subject to the granting of a concession vests as a reserve under section 65,—
-  (a) the Commissioner must promptly give the Minister of Conservation written notice that it has vested subject to the granting of the concession; and
-  (b) the Minister must promptly, in accordance with the proposal, grant the concession to the person concerned; and
-  (c) section 17ZD(1) of the Conservation Act 1987 applies to the granting of the concession as if the reference in it to any applicant for a concession who has been granted a concession were a reference to the person; but
-  (d) sections 17Q(2), 17R to 17Z, and 17ZJ of the Conservation Act 1987 do not apply to the granting of the concession; and
-  (e) if the concession is a lease under section 73 of the Reserves Act 1977, the Minister does not have to comply with subsection (4) of that section.
+[Repealed]
 
 ### 69 Effect of registration of approved plan in relation to reviewable land designated to be disposed of
-(1) When an approved plan designating land as land to be disposed of to a specified person has been registered, the Commissioner must promptly, in accordance with the plan (but subject to Part 4A of the Conservation Act 1987), dispose of it under the Land Act 1948.
-(2) In complying with subsection (1), the Commissioner must act as if the reviewable instrument concerned were already surrendered (and the Registrar-General of Land must act likewise); but the instrument in fact continues in force until a record of title or registered lease is issued for the land concerned, and is then deemed to have been surrendered in respect of that land.
-(3) When an approved plan designating land as land that may be disposed of to any person has been registered,—
-  (a) the instrument is deemed to have been surrendered in respect of the land; and
-  (b) the Commissioner must try to dispose of the land under the Land Act 1948.
+[Repealed]
 
 ### 70 Effect of registration of approved plan in relation to unused Crown land designated to be conservation area subject to granting of concession
-When an approved plan designating unused Crown land as land to be retained in Crown control as conservation area subject to the granting of a concession has been registered,—
-  (a) the Commissioner must promptly give the Minister of Conservation written notice that the land has vested subject to the granting of a concession; and
-  (b) the Minister must promptly, in accordance with the plan, grant a concession to the person concerned; and
-  (c) section 17ZD(1) of the Conservation Act 1987 applies as if the reference in it to any applicant for a concession who has been granted a concession were a reference to the person concerned; but
-  (d) sections 17Q(2), 17R to 17Z, and 17ZJ of the Conservation Act 1987 do not apply to the granting of the concession.
+[Repealed]
 
 ### 71 Effect of registration of approved plan in relation to unused Crown land designated to be conservation area subject to appointment of manager of marginal strip
-When an approved plan designating unused Crown land as land to be retained in Crown control as conservation area subject to the appointment of any person as manager under section 24H(1) of the Conservation Act 1987 has been registered,—
-  (a) the Commissioner must promptly give the Minister of Conservation written notice that the land has vested subject to the person's appointment as manager; and
-  (b) the Minister must promptly, in accordance with the plan, appoint the person manager of the land.
+[Repealed]
 
 ### 72 Effect of registration of approved plan in relation to unused Crown land designated to be reserve subject to granting of concession
-When an approved plan designating unused Crown land as land to be retained in Crown control as a reserve subject to the granting of a concession has been registered,—
-  (a) the Commissioner must promptly give the Minister of Conservation written notice that the land has vested subject to the granting of a concession; and
-  (b) the Minister must promptly, in accordance with the plan, grant a concession of the land to the person concerned; and
-  (c) section 17ZD(1) of the Conservation Act 1987 applies as if the reference in it to any applicant for a concession who has been granted a concession were a reference to the person concerned; but
-  (d) sections 17Q(2), 17R to 17Z, and 17ZJ of the Conservation Act 1987 do not apply to the granting of the concession; and
-  (e) in the case of a lease under section 73 of the Reserves Act 1977, the Minister does not have to comply with subsection (4) of that section.
+[Repealed]
 
 ### 73 Effect of registration of approved plan in relation to unused Crown land designated to be retained in Crown ownership subject to granting of special lease or grazing permit
-Promptly after an approved plan designating unused Crown land as land to be retained in Crown control subject to the granting of a lease or grazing permit under section 67(2) or section 68A of the Land Act 1948 has been registered, the Commissioner must, in accordance with the plan, grant the lease or permit.
+[Repealed]
 
 ### 74 Effect of registration of approved plan in relation to unused Crown land designated to be disposed of
-(1) Promptly after an approved plan designating unused Crown land as land to be disposed of has been registered, the Commissioner must, in accordance with the plan (but subject to Part 4A of the Conservation Act 1987), dispose of it under the Land Act 1948.
-(2) Promptly after an approved plan designating unused Crown land as land that may be disposed of has been registered, the Commissioner must try to dispose of it under the Land Act 1948.
+[Repealed]
 
 ### 75 Effect of registration of approved plan in relation to conservation area subject to granting of concession
-When an approved plan designating any conservation area as land over which a concession is to be granted has been registered,—
-  (a) the Minister of Conservation must promptly, in accordance with the plan, grant a concession of the land to the person concerned (and section 17ZD(1) of the Conservation Act 1987 applies as if the reference in it to any applicant for a concession who has been granted a concession were a reference to the person concerned); but
-  (b) sections 17Q(2), 17R to 17Z, and 17ZJ of the Conservation Act 1987 do not apply to the granting of the concession.
+[Repealed]
 
 ### 76 Effect of registration of approved plan in relation to conservation area subject to appointment of manager of marginal strip
-When an approved plan designating any conservation area that is marginal strip as land of which a person is to be appointed manager under section 24H(1) of the Conservation Act 1987 has been registered, the Minister of Conservation must promptly, in accordance with the plan, appoint the person manager of the land.
+[Repealed]
 
 ### 77 Effect of registration of approved plan in relation to conservation area designated to be exchanged
-When an approved plan designating any conservation area as land to be disposed of by way of exchange has been registered,—
-  (a) the Commissioner must promptly give the Minister of Conservation a copy; and
-  (b) the Minister must promptly do all things necessary to dispose of the land in accordance with the proposal; and
-  (c) subsections (6) to (8) of section 16A of the Conservation Act 1987 apply to the disposal as if it were part of an exchange authorised under that section.
+[Repealed]
 
 ### 78 Effect of registration of approved plan in relation to reserve subject to granting of concession
-(1) When an approved plan designating any reserve as land over which a concession (other than a lease under section 73 of the Reserves Act 1977) is to be granted has been registered,—
-  (a) the Commissioner must promptly give the Minister of Conservation a copy; and
-  (b) the Minister must promptly, in accordance with the proposal, grant a concession of the land to the person concerned; and
-  (c) section 17ZD(1) of the Conservation Act 1987 applies as if the reference in it to any applicant for a concession who has been granted a concession were a reference to the person concerned; but
-  (d) sections 17Q(2), 17R to 17Z, and 17ZJ of the Conservation Act 1987 do not apply to the granting of the concession.
-(2) When an approved plan designating any reserve as land to be granted by lease under section 73 of the Reserves Act 1977 has been registered,—
-  (a) the Commissioner must promptly give the Minister of Conservation a copy; and
-  (b) the Minister must promptly grant the lease.
+[Repealed]
 
 ### 79 Effect of registration of approved plan in relation to reserve designated to be exchanged
-When an approved plan designating any reserve as land to be disposed of by way of exchange has been registered,—
-  (a) the Commissioner must promptly give the Minister of Conservation a copy; and
-  (b) the Minister must promptly do all things necessary to effect the disposal; and
-  (c) subsections (5) to (8) of section 15 of the Reserves Act 1977 apply to the disposal as if it were part of an exchange effected under that section.
+[Repealed]
 
 ### 80 Creation of protective mechanisms
-(1) When an approved plan designating any land as land over which an easement under section 12 of the Reserves Act 1977 is to be created has been registered,—
-  (a) the Commissioner—
-    (i) is deemed for the purposes of that section to be the owner of the land; and
-    (ii) must promptly give the Minister of Conservation an easement (for a purpose specified in subsection (1) of that section) over it, on the terms and conditions specified in the substantive proposal concerned; and
-  (b) the Minister must promptly do all acts necessary to enable the acceptance of the easement.
-(2) When an approved plan designating any land as land over which an easement under section 7(2) of the Conservation Act 1987 is to be created has been registered,—
-  (a) the Commissioner—
-    (i) is deemed for the purposes of that section to be the owner of the land; and
-    (ii) must promptly agree with the Minister of Conservation that the Minister should acquire an easement for conservation purposes over it, on the terms and conditions specified in the substantive proposal concerned; and
-  (b) the Minister must promptly do all acts necessary to acquire the easement.
-(3) When an approved plan designating any land as land over which an easement under sections 26 to 29 of the Walking Access Act 2008 is to be created has been registered,—
-  (a) the Commissioner—
-    (i) is deemed for the purposes of that section to be the owner of the land; and
-    (ii) must promptly give the New Zealand Walking Access Commission (established by section 6 of that Act) an easement over it to enable it to be used for a walkway, on the terms and conditions specified in the substantive proposal concerned; and
-  (b) the New Zealand Walking Access Commission must promptly do all acts necessary to enable the creation of the easement.
-(4) When an approved plan designating any land as land over which a covenant under section 22 of the Queen Elizabeth the Second National Trust Act 1977 is to be created has been registered,—
-  (a) the Commissioner is deemed for the purposes of this subsection to be the owner of the land; and
-  (b) the Commissioner must promptly execute an open space covenant in favour of the trust over it, on the terms and conditions specified in the substantive proposal concerned; and
-  (c) the board of directors of the Trust is deemed (by virtue of having given its consent under section 40) to have agreed those terms and conditions, and must promptly do everything necessary to enable the creation of the covenant.
-(5) When an approved plan designating any land as land over which a covenant under section 77 of the Reserves Act 1977 or section 27 of the Conservation Act 1987 is to be created has been registered, the Commissioner—
-  (a) is deemed for the purposes of that section to be the owner of the land; and
-  (b) must promptly create the covenant over the land, on the terms and conditions specified in the substantive proposal concerned.
-(6) When an approved plan designating any land as land over which a covenant under section 39 of the Heritage New Zealand Pouhere Taonga Act 2014 is to be created has been registered,—
-  (a) the Commissioner is deemed for the purposes of that section to be the owner of the land; and
-  (b) the Commissioner must promptly execute a heritage covenant over the land in favour of Heritage New Zealand Pouhere Taonga, on the terms and conditions specified in the substantive proposal concerned; and
-  (c) the Board of Trustees of the Trust is deemed (by virtue of having given its consent under section 40) to have agreed those terms and conditions, and must promptly do everything necessary to enable the creation of the covenant.
+[Repealed]
 
 ### 81 Effect of registration of approved plan in relation to freehold land designated to be restored to Crown ownership
-When an approved plan designating land held in fee simple as land to be restored to Crown ownership has been registered, the substantive proposal concerned has effect as a binding agreement for the sale to the Crown by the holder of all land designated by the plan as—
-  (a) land to be restored to full Crown ownership and control as conservation area; or
-  (b) land to be restored to Crown ownership as conservation area, subject to the granting to any specified person of a concession on terms specified in the proposal; or
-  (c) land to be restored to full Crown ownership and control as a reserve; or
-  (d) land to be restored to Crown ownership as a reserve, subject to the granting to any specified person of a concession, on terms specified in the proposal; or
-  (e) land to be restored to full Crown ownership and control for some specified Crown purpose; or
-  (f) land to be restored to Crown ownership subject to the granting to any specified person of a lease, on terms specified in the proposal, under section 67(2) of the Land Act 1948; or
-  (g) land to be restored to Crown ownership subject to the granting to any specified person of a grazing permit under section 68A of the Land Act 1948; or
-  (h) land that may be disposed of to any person.
+[Repealed]
 
 ### 82 Payments to the Crown
-If an accepted substantive proposal is accompanied by a notice under section 46(4) specifying the payment of any amount to the Crown, the Commissioner must not proceed under this Part beyond the point specified for its payment until it has been paid.
+[Repealed]
 
 ## Part 3 — Reviews of other Crown land
 
@@ -1100,14 +800,14 @@ In acting under this Part, the Commissioner must (to the extent that those matte
 (2) The Minister must not consent provisionally to a designation in a preliminary proposal unless satisfied that it is reasonably likely that the Minister would consent to a substantive proposal containing the designation.
 
 ### 88 Certain provisions of Part 2 relating to preliminary proposals to apply
-The following sections apply to a preliminary proposal under this Part as if it were a preliminary proposal under Part 2:
+The following former sections set out in Schedule 1AC apply with any necessary modifications to a preliminary proposal under this Part:
   (a) section 40 (which enables designations in a preliminary proposal to be subject to the creation of a protective mechanism):
   (b) section 43 (which requires the Commissioner to give public notice of preliminary proposals):
   (c) section 44 (which requires the Commissioner to consult the local iwi authority about any preliminary proposal):
   (d) section 45 (which requires the Commissioner to give the Minister of Conservation information about the results of consultations on a preliminary proposal).
 
 ### 89 Commissioner may adopt substantive proposals
-(1) The Commissioner may, by signing on it a statement to the effect that it is adopted, adopt a written substantive proposal that is (as far as the land to which it relates is concerned) the same as or a modified version of a preliminary proposal previously notified, in accordance with section 88, under section 43.
+(1) The Commissioner may, by signing on it a statement to the effect that it is adopted, adopt a written substantive proposal that is (as far as the land to which it relates is concerned) the same as or a modified version of a preliminary proposal previously notified, in accordance with section 88, under the former section 43 set out in Schedule 1AC.
 (2) Subject to subsection (3), the holder of any land held under an occupation licence that is dealt with by a proposal adopted under subsection (1) may apply under section 17 of the Land Act 1948 for a rehearing of the Commissioner's decision to adopt the proposal.
 (3) No person has a right to apply under section 17 of the Land Act 1948 for a rehearing of the Commissioner's decision to adopt a proposal under subsection (1) if the decision is the alteration, confirmation, modification, or reversal under a rehearing granted under that section of an earlier decision to adopt a substantive proposal.
 (4) The Commissioner must notify every holder concerned of a decision to adopt under subsection (1) a substantive proposal dealing with land held under an occupation licence.
@@ -1123,8 +823,8 @@ The following sections apply to a preliminary proposal under this Part as if it 
   (c) If the Commissioner confirms the decision, it takes effect on confirmation.
 
 ### 90 Certain provisions of Part 2 relating to substantive proposals to apply
-(1) Section 47 (which forbids the Commissioner to put a substantive proposal to the holder of a reviewable instrument without first considering matters arising out of the consultations on the preliminary proposal out of which the substantive proposal arises) applies to the adoption of a substantive proposal under this Part as if it were the putting of a substantive proposal under Part 2 to the holder of a reviewable instrument.
-(2) The following sections apply to a substantive proposal under this Part as if it were a substantive proposal under Part 2 (but as if the reference in section 62(1) to its acceptance were a reference to its adoption):
+(1) The former section 47 set out in Schedule 1AC (which forbids the Commissioner to put a substantive proposal to the holder of a reviewable instrument without first considering matters arising out of the consultations on the preliminary proposal out of which the substantive proposal arises) applies to the adoption of a substantive proposal under this Part as if it were the putting of a substantive proposal under the former Part 2 to the holder of a reviewable instrument.
+(2) The following former sections set out in Schedule 1AC apply to a substantive proposal under this Part as if it were a substantive proposal under the former Part 2 (but as if the reference in section 62(1) to its acceptance were a reference to its adoption):
   (a) section 62 (which requires the Commissioner to prepare a final plan of the land to which an accepted substantive proposal relates):
   (b) section 63 (which relates to the approval of a final plan by the Chief Surveyor):
   (c) section 64 (which relates to the registration of an approved final plan and the substantive proposal out of which the plan arises).
@@ -1143,7 +843,7 @@ Land that an approved plan designates as land to be retained by the Crown vests 
   (c) except as provided in paragraphs (b) and (c), freed and discharged from all mortgages, charges, claims, estates, and interests.
 
 ### 93 Creation of protective mechanisms
-Section 80 (which enables the creation of protective mechanisms provided for in an accepted substantive proposal under Part 2) applies to an approved plan arising out of the adoption of a substantive proposal under this Part as if it were an approved plan arising out of the acceptance of a substantive proposal under Part 2.
+The former section 80 set out in Schedule 1AC (which enabled the creation of protective mechanisms provided for in an accepted substantive proposal under the former Part 2) applies to an approved plan arising out of the adoption of a substantive proposal under this Part as if it were an approved plan arising out of the acceptance of a substantive proposal under Part 2.
 
 ### 94 Disposal
 When an approved plan relating to land that a substantive proposal designates as—has been registered or (in the case of land held under an occupation licence) when the licence expires, whichever is the later, the Commissioner must try to dispose of it accordingly.
@@ -1154,7 +854,7 @@ When an approved plan relating to land that a substantive proposal designates as
 ## Part 4 — Provisions applicable to all reviews
 
 ### 95 Improvements on land held under occupation licence
-(1) A substantive proposal under Part 2 or Part 3 dealing with any land held under an occupation licence may specify 1 or more holder's improvements that are to remain on the land; and in that case—
+(1) A substantive proposal under Part 3 dealing with any land held under an occupation licence may specify 1 or more holder's improvements that are to remain on the land; and in that case—
   (a) the holder must not remove any improvement specified from the land, or cause or permit it to be removed from the land; but
   (b) if when the licence expires or is surrendered the improvement is still on the land, the holder is entitled to compensation for it (being an amount equal to the added value that it then gives the land).
 (2) Except as provided in subsection (1),—
@@ -1167,7 +867,7 @@ When an approved plan relating to land that a substantive proposal designates as
   (b) on the expiry of the licence, subsections (2) and (3) of section 149, and section 150, of the Land Act 1948 apply to the land and the right of the former holder to be paid compensation for improvements on the land effected, erected, made, or paid for by the former holder or any predecessor of the former holder (including improvements effected by doing, before or after the commencement of this Act, any thing specified in section 16(1)).
 
 ### 96 Implementation not subdivision
-(1) Taking action under Part 2 or Part 3 so that different parts of any land are dealt with in different manners is not a subdivision of the land for the purposes of the Resource Management Act 1991.
+(1) Taking action under Part 3 so that different parts of any land are dealt with in different manners is not a subdivision of the land for the purposes of the Resource Management Act 1991.
 (2) Subsection (1) is for the avoidance of doubt.
 
 ### 97 Sustainable management covenants
@@ -1201,6 +901,137 @@ Amendment(s) incorporated in the Act(s).
 
 ### 104 Consequential repeals
 The enactments specified in Schedule 2 are repealed.
+
+## Schedule 1AA — Transitional, savings, and related provisions
+
+### Part 1 — Provisions relating to Crown Pastoral Land Reform Act 2022
+
+### 1 Interpretation
+In this Part,—
+  - **amendment Act** means the Crown Pastoral Land Reform Act 2022
+  - **commencement date** ,—
+    (a) in relation to the repeal of Part 2 (tenure review), means the day after the date on which the amendment Act receives the Royal assent:
+    (b) in relation to any other purpose of the amendment Act, means the day that is 6 months after the date on which the amendment Act receives the Royal assent.
+
+### 2 Pending substantive proposals
+(1) This clause applies to the following substantive proposals relating to any pastoral land:
+  (a) every substantive proposal that any holder of a reviewable instrument accepted under section 60 of this Act before the commencement date and that is still being processed by the Commissioner as at that date:
+  (b) every substantive proposal that the Commissioner put to any holder of a reviewable instrument before the commencement date, where—
+    (i) the holder has not accepted it before the commencement date; and
+    (ii) the 3-month period in section 60(2) has not expired before the commencement date.
+(2) Part 2 of this Act, as it read immediately before the commencement date, continues to apply to the substantive proposal.
+(3) The Commissioner must take appropriate action in accordance with the applicable provisions of that Part.
+
+### 3 Tenure reviews discontinued if substantive proposal not put to holder
+(1) This clause applies to every—
+  (a) substantive proposal, other than one to which clause 2 applies, in existence immediately before the commencement date; and
+  (b) preliminary proposal in existence immediately before the commencement date.
+(2) Every proposal to which this clause applies ceases to have any effect.
+(3) All related reviews under this Act in existence immediately before the commencement date are discontinued and the Commissioner must not take any action to progress any of the reviews.
+(4) Nothing in this clause limits or affects a right of judicial review that a person may have in respect of the proposal or related review.
+
+## Schedule 1AC — Provisions of former Part 2 referred to elsewhere in this Act
+
+### 40 Protective mechanisms
+(1) A preliminary proposal may designate land as—subject (in addition to any other conditions) to the creation of 1 or more protective mechanisms, each relating to 1 or more of the matters specified in subsection (2).
+  (a) land to be restored to or retained in Crown ownership subject to the granting of a special lease; or
+  (b) land to be disposed of to a specified person; or
+  (c) land that may be disposed of to any person,—
+(2) The matters are—
+  (a) the protection of a significant inherent value of the land concerned:
+  (b) the management of the land concerned in a way that is ecologically sustainable:
+  (c) public access across or to the land concerned:
+  (d) public enjoyment of the land concerned.
+(3) A preliminary proposal may not designate land as land to be disposed of subject to the creation of a covenant under section 22 of the Queen Elizabeth the Second National Trust Act 1977 without the prior written consent of the Queen Elizabeth the Second National Trust.
+(4) A preliminary proposal may not designate land as land to be disposed of subject to the creation of a covenant under section 77 of the Reserves Act 1977 if—
+  (a) a local authority or other body approved by the Minister of Conservation is to be a party to the covenant; and
+  (b) the local authority or other body has not given its prior written consent to the designation.
+(5) A preliminary proposal may not designate land as land to be disposed of subject to the creation of a covenant under section 39 of the Heritage New Zealand Pouhere Taonga Act 2014 without the prior written consent of Heritage New Zealand Pouhere Taonga.
+
+### 43 Commissioner to give notice of preliminary proposals
+(1) The Commissioner must give notice of every preliminary proposal put under section 34(1),—
+  (a) specifying the land, a day (no sooner than 40 working days after the publication of the last of the notices to be published), and an address; and
+  (b) describing the proposal in general terms; and
+  (c) indicating that any person or organisation may (no later than the day specified) give or send to the Commissioner at the address specified a written submission on the proposal.
+(2) The notice must not disclose any financial information.
+(3) The Commissioner must have the notice published—
+  (a) in some newspaper circulating in the area where the land is situated; and
+  (b) at least once in a daily newspaper published in Christchurch; and
+  (c) at least once in a daily newspaper published in Dunedin.
+
+### 44 Consultation with iwi authority
+The Commissioner must—
+  (a) have a copy of every notice under section 43 given to the iwi authority (within the meaning of the Resource Management Act 1991) of the area where the land concerned is situated; and
+  (b) consult the authority on the proposal.
+
+### 45 Information to be given to Minister of Conservation
+The Commissioner must—
+  (a) prepare, and give the Minister of Conservation,—
+    (i) a summary of all matters raised by an iwi authority during consultation on a preliminary proposal under section 44; and
+    (ii) a statement as to the extent to which objections to and comments on the proposal raised during the consultation have been allowed or accepted, or disallowed or not accepted; and
+    (iii) a statement as to the extent to which objections to and comments on the proposal contained in the written submissions relating to the proposal received by the Commissioner (from any person or organisation) on or before the day specified in the notice given under section 43 at the address specified in the notice have been allowed or accepted, or disallowed or not accepted; and
+  (b) give the Minister of Conservation copies of all those submissions.
+
+### 47 Commissioner to consider submissions
+(1) The Commissioner must not put a substantive proposal to any holder of a reviewable instrument without having considered—
+  (a) all matters raised by the iwi authority concerned during consultation on the preliminary proposal concerned under section 44; and
+  (b) all written submissions relating to that preliminary proposal received by the Commissioner (from any person or organisation) on or before the day specified in the notice given under section 43 at the address specified in that notice.
+(2) Nothing in subsection (1) prevents the Commissioner from considering any late or oral submission.
+
+### 62 Final plan to be prepared
+(1) Once the acceptance of a substantive proposal takes effect, the Commissioner must give the Surveyor-General written notice of its acceptance, attaching a copy of the proposal.
+(2) As soon as is practicable after receiving the notice, the Surveyor-General must—
+  (a) determine whether any of the land needs to be surveyed before the proposal can be given effect to; and
+  (b) give the Commissioner written notice—
+    (i) of the land that needs to be surveyed; or
+    (ii) that none of the land needs to be surveyed.
+(3) If notified that any of the land needs to be surveyed, the Commissioner must have it surveyed, and have a plan or plans of it prepared and approved, under the Cadastral Survey Act 2002.
+(4) Once the Commissioner—the Commissioner must—
+  (a) has complied with subsection (3); or
+  (b) has been notified that none of the land needs to be surveyed,—
+  (c) have prepared a final plan of all the land to which the proposal relates, showing the various areas to which it relates, and (in respect of each) giving—
+    (i) a legal description; and
+    (ii) its designation by the proposal; and
+    (iii) if it is designated as land to be restored to Crown ownership as a reserve, the purpose of the reserve; and
+  (d) submit 2 copies of the plan to the Surveyor-General.
+
+### 63 Approval of plan
+If (and only if) satisfied that—the Surveyor-General must sign and date on both copies of the plan a written notice approving it for the purposes of this Act, and return 1 copy to the Commissioner.
+  (a) the boundaries of the various areas shown on a plan submitted under section 62(4)﻿(d) are, in the light of any discovered imprecisions in the boundaries shown or described in the accepted substantive proposal concerned, as close as may reasonably practicably be achieved to the boundaries shown or described in the proposal; and
+  (b) to the extent allowed by the position of the boundaries shown on the plan,—accurately reflect the proposal,—
+    (i) the areas they define; and
+    (ii) the designations of those areas,—
+
+### 64 Commissioner to register accepted proposals and approved plans
+On receiving an approved plan, the Commissioner must lodge it and a copy of the proposal to which it relates with the Registrar-General of Land, who must register them against every record of title to land to which they relate.
+
+### 80 Creation of protective mechanisms
+(1) When an approved plan designating any land as land over which an easement under section 12 of the Reserves Act 1977 is to be created has been registered,—
+  (a) the Commissioner—
+    (i) is deemed for the purposes of that section to be the owner of the land; and
+    (ii) must promptly give the Minister of Conservation an easement (for a purpose specified in subsection (1) of that section) over it, on the terms and conditions specified in the substantive proposal concerned; and
+  (b) the Minister must promptly do all acts necessary to enable the acceptance of the easement.
+(2) When an approved plan designating any land as land over which an easement under section 7(2) of the Conservation Act 1987 is to be created has been registered,—
+  (a) the Commissioner—
+    (i) is deemed for the purposes of that section to be the owner of the land; and
+    (ii) must promptly agree with the Minister of Conservation that the Minister should acquire an easement for conservation purposes over it, on the terms and conditions specified in the substantive proposal concerned; and
+  (b) the Minister must promptly do all acts necessary to acquire the easement.
+(3) When an approved plan designating any land as land over which an easement under sections 26 to 29 of the Walking Access Act 2008 is to be created has been registered,—
+  (a) the Commissioner—
+    (i) is deemed for the purposes of that section to be the owner of the land; and
+    (ii) must promptly give the New Zealand Walking Access Commission (established by section 6 of that Act) an easement over it to enable it to be used for a walkway, on the terms and conditions specified in the substantive proposal concerned; and
+  (b) the New Zealand Walking Access Commission must promptly do all acts necessary to enable the creation of the easement.
+(4) When an approved plan designating any land as land over which a covenant under section 22 of the Queen Elizabeth the Second National Trust Act 1977 is to be created has been registered,—
+  (a) the Commissioner is deemed for the purposes of this subsection to be the owner of the land; and
+  (b) the Commissioner must promptly execute an open space covenant in favour of the trust over it, on the terms and conditions specified in the substantive proposal concerned; and
+  (c) the board of directors of the Trust is deemed (by virtue of having given its consent under section 40) to have agreed those terms and conditions, and must promptly do everything necessary to enable the creation of the covenant.
+(5) When an approved plan designating any land as land over which a covenant under section 77 of the Reserves Act 1977 or section 27 of the Conservation Act 1987 is to be created has been registered, the Commissioner—
+  (a) is deemed for the purposes of that section to be the owner of the land; and
+  (b) must promptly create the covenant over the land, on the terms and conditions specified in the substantive proposal concerned.
+(6) When an approved plan designating any land as land over which a covenant under section 39 of the Heritage New Zealand Pouhere Taonga Act 2014 is to be created has been registered,—
+  (a) the Commissioner is deemed for the purposes of that section to be the owner of the land; and
+  (b) the Commissioner must promptly execute a heritage covenant over the land in favour of Heritage New Zealand Pouhere Taonga, on the terms and conditions specified in the substantive proposal concerned; and
+  (c) the Board of Trustees of the Trust is deemed (by virtue of having given its consent under section 40) to have agreed those terms and conditions, and must promptly do everything necessary to enable the creation of the covenant.
 
 ## Schedule 1 — Consequential amendments to Land Act 1948
 
