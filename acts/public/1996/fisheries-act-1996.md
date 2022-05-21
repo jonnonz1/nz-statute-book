@@ -1,5 +1,5 @@
 # Fisheries Act 1996
-_Consolidation as at 2022-04-12_
+_Consolidation as at 2022-05-21_
 
 > An Act—ato reform and restate the law relating to fisheries resources; andbto recognise New Zealand's international obligations relating to fishing; andcto provide for related matters
 
@@ -4120,6 +4120,7 @@ If, in the opinion of the chief executive, any fish, aquatic life, seaweed, or o
   (a) believes on reasonable grounds that any person on board the vessel has committed an offence in New Zealand fisheries waters; and
   (b) is in fresh pursuit of, or has freshly pursued, the vessel; and
   (c) commenced that pursuit in New Zealand fisheries waters.
+(4) In this section, freshly pursued has the same meaning as pursued without interruption in section 6 of the Maritime Powers Act 2022, and fresh pursuit has a corresponding meaning.
 
 **Provisions relating to exercise of powers**
 
