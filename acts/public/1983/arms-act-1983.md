@@ -1,5 +1,5 @@
 # Arms Act 1983
-_Consolidation as at 2022-04-12_
+_Consolidation as at 2022-05-21_
 
 > Title
 
@@ -205,6 +205,7 @@ In this Act, prohibited ammunition means any ammunition declared by the Governor
     (vi) an employee of the body that, immediately before the commencement of the Arms Amendment Act 2000 was known as the Institute of Environmental Science and Research Ltd; or
     (vii) a person working in any forensic laboratory or facility that provides forensic services to the Police:
   (ab) by a member of the New Zealand Defence Force or a member of the Police in the course of exercising any power or performing any function under the Customs and Excise Act 2018:
+  (ac) by a member of the New Zealand Defence Force or a constable who is an enforcement officer as defined in section 4(1) of the Maritime Powers Act 2022 in the course of exercising any power or performing any function under that Act:
   (b) by any other person authorised pursuant to regulations made under this Act to carry or possess arms items, ammunition, or explosives belonging to the Crown.
 (3) Nothing in this Act renders unlawful—
   (a) the importation by the Crown of arms items, ammunition, or explosives; or
