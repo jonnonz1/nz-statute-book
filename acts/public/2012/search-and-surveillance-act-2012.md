@@ -1,5 +1,5 @@
 # Search and Surveillance Act 2012
-_Consolidation as at 2021-12-02_
+_Consolidation as at 2022-05-21_
 
 ### 1 Title
 This Act is the Search and Surveillance Act 2012.
@@ -3730,6 +3730,7 @@ Until the commencement date (within the meaning of section 394 of the Criminal P
 |  | 18A | Ranger may, if he or she believes there has been breach of Marine Reserves Act 1971 or any regulations made under that Act, exercise certain seizure powers | All (except subpart 3) |
 | Maritime Crimes Act 1999 | 10B | Enforcement officer may search ship if officer has reasonable grounds to suspect an offence against the Maritime Crimes Act 1999 has been, is, or is about to be committed | All (except subpart 3) |
 |  | 10C | Enforcement officer may search fixed platform if officer has reasonable grounds to suspect an offence against the Maritime Crimes Act 1999 has been, is, or is about to be committed | All (except subpart 3) |
+| Maritime Powers Act 2022 | 20 | Searching | Subparts 1 and 4 (except section 121) and subparts 5 and 6 (except section 160) |
 | Maritime Security Act 2004 | 51(4) | Authorised person may obtain and execute search warrant to search certain persons and their personal effects or a ship if issuing officer is satisfied that there are reasonable grounds to believe offence against Maritime Security Act 2004 has been, is being, or is likely to be committed | All (except that sections 118 and 119 apply to constables only) |
 | Maritime Transport Act 1994 | 454 | Authorised person may obtain and execute warrant to inspect dwellinghouse or marae for purposes of carrying out his or her functions, duties, or powers under Maritime Transport Act 1994 if issuing officer is satisfied that entry is essential to enable inspection to be carried out | All (except subpart 2 and that sections 118 and 119 apply to constables only) |
 |  | 455(1) | Authorised person may obtain and execute warrant to search place for evidence of offence against Maritime Transport Act 1994 or for any related thing | All (except that sections 118 and 119 apply to constables only) |
