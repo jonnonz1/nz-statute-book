@@ -1,5 +1,5 @@
 # Maritime Crimes Act 1999
-_Consolidation as at 2018-12-03_
+_Consolidation as at 2022-05-21_
 
 ### 1 Short Title and commencement
 (1) This Act may be cited as the Maritime Crimes Act 1999.
@@ -31,7 +31,6 @@ In this Act, unless the context otherwise requires,—
     (b) munitions, or a device, designed to cause death or harm to people through the toxic properties of chemical weapons (within the meaning of paragraph (a)) that would be released by the use of the munitions or device; or
     (c) equipment designed for use directly in connection with the use of chemical weapons (within the meaning of paragraph (b))
   - **continental shelf** has the same meaning as in section 2(1) of the Continental Shelf Act 1964
-  - **enforcement officer** means a person who is designated as an enforcement officer under section 10G
   - **exclusive economic zone** , in relation to New Zealand, has the meaning given in section 9 of the Territorial Sea, Contiguous Zone, and Exclusive Economic Zone Act 1977
   - **fixed platform** means any artificial island, installation, or structure permanently attached to the seabed for the purpose of exploration or exploitation of resources or for other economic purposes
   - **flag State** , in relation to a ship, means—
@@ -199,65 +198,25 @@ A person commits an offence if the person, with the intention to assist another 
 **Enforcement officers’ powers**
 
 ### 10A Exercise of enforcement officers’ powers in relation to ships
-(1) An enforcement officer may exercise the powers specified in section 10B in relation to a ship if the officer has reasonable grounds to suspect that—
-  (a) a person on board the ship has committed, is committing, or is about to commit an offence against this Act; or
-  (b) the ship has been, is, or is about to be used in the commission of an offence against this Act.
-Exercise of powers in relation to New Zealand ships
-(2) Subsection (1) applies to a New Zealand ship whether the ship is in New Zealand’s internal waters, territorial sea, or exclusive economic zone, or on the high seas or in the exclusive economic zone of another State.
-Exercise of powers in relation to foreign ships
-(3) Subsection (1) applies to a foreign ship only if—
-  (a) the foreign ship is in New Zealand’s internal waters or territorial sea and the officer has reasonable grounds to suspect the offence has been, is, or is about to be committed in New Zealand’s internal waters or territorial sea; or
-  (b) in every other case, the flag State of the foreign ship has consented to the exercise of the powers in relation to the foreign ship.
-(4) If an enforcement officer exercises his or her power to board a foreign ship described in subsection (3)﻿(a) and the officer is the first person to board the ship on that occasion, the officer must, at the time he or she boards the ship, arrange for notice of the boarding to be given to the authorities of the flag State of the foreign ship.
-(5) An enforcement officer must exercise his or her powers in relation to a foreign ship described in subsection (3)﻿(b) in accordance with any conditions that the flag State attaches to its consent.
+[Repealed]
 
 ### 10B Powers to board and search ship
-(1) An enforcement officer has the power to—
-  (a) stop and board a ship:
-  (b) search a ship.
-(2) The provisions of Part 4 of the Search and Surveillance Act 2012 (except subpart 3) apply in respect of the powers conferred by subsection (1) in the circumstances described in section 10A.
-(3) In relation to a ship that fails to stop when signalled or required to do so, an enforcement officer may—
-  (a) chase the ship:
-  (b) if the ship continues to fail to stop, fire a warning shot:
-  (c) as a last resort, after having fired a warning shot, fire at or onto the ship to compel it to stop.
-(4) An enforcement officer must not interfere with any attempt by the master of a foreign ship to communicate with the authorities of the flag State of the ship during the boarding and search.
+[Repealed]
 
 ### 10C Enforcement officers’ powers in relation to fixed platforms
-(1) An enforcement officer may enter and search a fixed platform if the enforcement officer has reasonable grounds to suspect that—
-  (a) a person on board the fixed platform has committed, is committing, or is about to commit an offence against this Act; or
-  (b) the fixed platform has been, is, or is about to be used in the commission of an offence against this Act.
-(2) The provisions of Part 4 of the Search and Surveillance Act 2012 (except subpart 3) apply in respect of the powers conferred by subsection (1).
+[Repealed]
 
 ### 10D Power of arrest
-(1) If an enforcement officer has reasonable grounds to suspect that any person has committed an offence against this Act, the officer may arrest the person without warrant—
-  (a) on board a ship to which section 10A applies:
-  (b) on board a fixed platform to which section 10C applies:
-  (c) if the person has left a ship or platform referred to in paragraph (a) or (b) and the enforcement officer is freshly pursuing the person.
-(2) However, an enforcement officer must not arrest a person on board a foreign ship described in section 10A(3)﻿(b) (or a person who has left such a ship and whom the enforcement officer is freshly pursuing) unless the flag State of the foreign ship has consented to the person's arrest.
-(3) If an enforcement officer (not being a constable) arrests a person under subsection (1), the officer must arrange for the person to be delivered into the custody of a constable as soon as practicable.
-(4) Nothing in this section limits the application of section 315 of the Crimes Act 1961.
+[Repealed]
 
 ### 10E Use of force
-(1) An enforcement officer may use reasonable force for the purpose of exercising his or her powers under this Act.
-(2) In exercising his or her powers in relation to a foreign ship, an enforcement officer must not use any force that exceeds the minimum degree of force that is necessary in the circumstances.
-(3) Every reference to the use of force in Part 4 of the Search and Surveillance Act 2012 (as applied by section 10B(2)) is, in relation to the use of force for the purpose of exercising powers under this Act in relation to a foreign ship, subject to subsection (2).
+[Repealed]
 
 ### 10F Offence to obstruct or to fail to comply
-(1) A person commits an offence if—
-  (a) he or she intentionally hinders or obstructs an enforcement officer exercising a power under this Act; and
-  (b) he or she knows or ought reasonably to know that the person exercising the power is an enforcement officer.
-(2) A person who commits an offence against subsection (1) is liable on conviction to a term of imprisonment not exceeding 12 months.
-(3) A person commits an offence if—
-  (a) he or she, without reasonable excuse, fails to comply with a lawful direction of an enforcement officer exercising a power under this Act; and
-  (b) he or she knows or ought reasonably to know that the person exercising the power is an enforcement officer.
-(4) A person who commits an offence against subsection (3) is liable on conviction to a term of imprisonment not exceeding 3 months.
+[Repealed]
 
 ### 10G Enforcement officers designated
-(1) The following are designated as enforcement officers for the purposes of this Act:
-  (a) every constable:
-  (b) every officer in command of a ship or an aircraft of the Defence Force.
-(2) An officer in command of a ship or an aircraft of the Defence Force may direct a person under his or her command to exercise the powers of an enforcement officer to any extent and for any period that the officer thinks necessary.
-(3) The person may exercise the powers as if he or she were an enforcement officer.
+[Repealed]
 
 **Powers of masters**
 
