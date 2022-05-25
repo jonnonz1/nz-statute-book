@@ -1,5 +1,5 @@
 # Coroners Act 2006
-_Consolidation as at 2021-11-06_
+_Consolidation as at 2022-05-25_
 
 ### 1 Title
 This Act is the Coroners Act 2006.
@@ -1152,13 +1152,13 @@ The chief coroner must, after consulting the Attorney-General, develop and publi
 (8) Nothing in this section applies to a person who (under section 22(a) of the District Court Act 2016) is a coroner by virtue of holding office as a District Court Judge.
 
 ### 109 Maximum number of coroners
-(1) The maximum number of coroners is 20.
+(1) The maximum number of coroners is 22.
 (2) For the purposes of subsection (1),—
   (a) a person who (under section 22(a) of the District Court Act 2016) is a coroner by virtue of holding office as a District Court Judge does not count unless he or she is also the chief coroner:
   (b) a person who is a relief coroner does not count:
   (c) a coroner who is acting on a full-time basis counts as 1:
   (d) a coroner who is acting on a part-time basis counts as an appropriate fraction of 1:
-  (e) the aggregate number (for example, 13.5) must not exceed the maximum number of coroners that is for the time being permitted by subsection (1).
+  (e) the aggregate number (for example, 21.5) must not exceed the maximum number of coroners that is for the time being permitted by subsection (1).
 
 ### 110 Salaries and allowances
 (1) There must be paid to coroners (including the chief coroner, the deputy chief coroner, and any relief coroners), out of public money, without further authority than this section,—
