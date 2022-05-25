@@ -1,5 +1,5 @@
 # Income Tax Act 2007
-_Consolidation as at 2022-04-12_
+_Consolidation as at 2022-05-25_
 
 ### A 1 Title
 This Act is the Income Tax Act 2007.
@@ -4501,6 +4501,7 @@ Exempt income
     (v) a childcare payment:
   (ba) a payment under section 363, 386AAG, or 386B of the Oranga Tamariki Act 1989:
   (c) a participation allowance under regulations made under section 429 of the Social Security Act 2018:
+  (cb) a payment under the cost of living payments scheme, as defined in section 3(1) of the Tax Administration Act 1994:
   (d) a disabled workshop payment:
   (e) an amount derived by a trustee of a trust created for the benefit of persons harmed by thalidomide, or a distribution to a beneficiary from the trust:
   (f) an amount derived by a trustee of the New Zealand Agent Orange Trust that represents the settlement fund and income attributable to the fund, or a distribution to a beneficiary from the trust.
@@ -34117,7 +34118,7 @@ Payments and benefits excluded from family scheme income
   (kc) a payment under section 386AAG or 386B of the Oranga Tamariki Act 1989:
   (l) a monetary benefit under the Social Security Act 2018 that is exempt income:
   (m) a pension or allowance under the Veterans’ Support Act 2014 that is exempt income:
-  (n) a payment that is exempt income under section CW 33(1)﻿(c), (e), or (f) (Allowances and benefits):
+  (n) a payment that is exempt income under section CW 33(1)﻿(c), (cb), (e), or (f) (Allowances and benefits):
   (o) an amount that is declared not to be income for the purposes of the Social Security Act 2018 by regulations made under section 422 of that Act:
   (p) included in the family scheme income of the person under another section:
   (q) expressly excluded from the family scheme income of the person under another section:
