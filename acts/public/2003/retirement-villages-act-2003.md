@@ -1,5 +1,5 @@
 # Retirement Villages Act 2003
-_Consolidation as at 2021-10-28_
+_Consolidation as at 2022-05-25_
 
 ### 1 Title
 This Act is the Retirement Villages Act 2003.
@@ -1143,6 +1143,61 @@ If a deed of participation relating to the supervision of a retirement village t
 (2) The Registrar or the Registrar-General of Land may refuse to perform a function or exercise a power until the prescribed fee or amount is paid.
 (3) Regulations made under section 101(1)﻿(h) may authorise the Registrar or the Registrar-General of Land to waive, in whole or in part and on any conditions prescribed, payment of any amount referred to in subsection (1)﻿(b).
 (4) Any fee or amount payable to the Registrar or the Registrar-General of Land is recoverable in any court of competent jurisdiction as a debt due to the Crown.
+
+**Validation of fees**
+
+### 102A Validation of fees used to recover costs of other Companies Office registers, etc
+(1) This section applies to a fee—
+  (a) that—
+    (i) is or was payable or purportedly payable on or before 30 June 2022 under any of the Acts listed in subsection (4) or any regulations made under any of those Acts; and
+    (ii) was (or is or will be) used in whole or in part to recover the costs or a share of the costs of the Registrar in operating 1 or more registers under this Act or in exercising or performing any other powers, functions, and duties under this Act or any regulations made under this Act; or
+  (b) that—
+    (i) is or was payable or purportedly payable on or before 30 June 2022 under this Act or any regulations made under this Act; and
+    (ii) was (or is or will be) used in whole or in part to recover the costs or a share of the costs of 1 or more registers operated under any of the Acts listed in subsection (5) or in exercising or performing the powers, functions, and duties of a Registrar under any of those Acts or any regulations made under any of those Acts.
+(2) The fee is and always has been validly imposed.
+(3) Money received by the Registrar of any register maintained by the Companies Office in payment of the fee—
+  (a) is and always has been lawfully collected and applied; and
+  (b) may continue to be applied on and after 1 July 2022 to recover costs referred to in subsection (1)﻿(a)﻿(ii) and (b)﻿(ii).
+(4) The Acts are—
+  (a) the Auditor Regulation Act 2011:
+  (b) the Building Societies Act 1965:
+  (c) the Companies Act 1993:
+  (d) the Financial Markets Conduct Act 2013:
+  (e) the Financial Reporting Act 1993:
+  (f) the Financial Service Providers (Registration and Dispute Resolution) Act 2008:
+  (g) the Friendly Societies and Credit Unions Act 1982:
+  (h) the Incorporated Societies Act 1908:
+  (i) the Insolvency Practitioners Regulation Act 2019:
+  (j) the Limited Partnerships Act 2008:
+  (k) the Personal Property Securities Act 1999:
+  (l) the Securities Act 1978.
+(5) The Acts are—
+  (a) the Auditor Regulation Act 2011:
+  (b) the Building Societies Act 1965:
+  (c) the Charitable Trusts Act 1957:
+  (d) the Companies Act 1993:
+  (e) the Financial Markets Conduct Act 2013:
+  (f) the Financial Reporting Act 1993:
+  (g) the Financial Reporting Act 2013:
+  (h) the Financial Service Providers (Registration and Dispute Resolution) Act 2008:
+  (i) the Friendly Societies and Credit Unions Act 1982:
+  (j) the Incorporated Societies Act 1908:
+  (k) the Incorporated Societies Act 2022:
+  (l) the Industrial and Provident Societies Act 1908:
+  (m) the Insolvency Practitioners Regulation Act 2019:
+  (n) the Limited Partnerships Act 2008:
+  (o) the New Zealand Business Number Act 2016:
+  (p) the Personal Property Securities Act 1999:
+  (q) the Securities Act 1978.
+(6) In this section,—
+  - **Companies Office** means the division or part of each of the following departments (formerly or currently in existence) that collected or collects fees under this Act or any of the Acts listed in subsections (4) and (5):
+    (a) the former Department of Justice:
+    (b) the former Ministry of Commerce:
+    (c) the former Ministry of Economic Development:
+    (d) the Ministry of Business, Innovation, and Employment
+  - **fee** —
+    (a) includes any penalty or overdue fee imposed, or interest charged, in relation to an unpaid or overdue fee; and
+    (b) in relation to the Insolvency Practitioners Regulation Act 2019, includes a levy imposed under section 81 of that Act.
 
 ### 103 Regulations defining retirement villages
 (1) The Governor-General may, by Order in Council made on the recommendation of the Minister, declare specified property, buildings, or other premises, or property, buildings, or other premises of a specified class, to be or not to be a retirement village for the purposes of this Act.
