@@ -1,5 +1,5 @@
 # Customs and Excise Act 2018
-_Consolidation as at 2022-05-21_
+_Consolidation as at 2022-05-25_
 
 ### 1 Title
 This Act is the Customs and Excise Act 2018.
@@ -1333,7 +1333,7 @@ No person may interfere with a Customs-approved export seal that has been applie
 (2) The prohibition in subsection (1) does not apply to the following goods:
   (a) cigars:
   (b) cigarillos:
-  (c) water-pipe tobacco:
+  (c)
   (d) chewing tobacco:
   (e) snuff:
   (f) snus.
@@ -6195,6 +6195,25 @@ In this Part,—
 (1) This section applies to goods that are tobacco or tobacco products prohibited from import by section 95A that, as at the commencement date, have been imported into New Zealand.
 (2) This Act applies to the goods as if the amendment Act had not come into force.
 
+### Part 4 — Provisions relating to Customs and Excise (Tobacco Products) Amendment Act 2022
+
+### 41 Interpretation
+In this Part,—
+  - **amendment Act** means the Customs and Excise (Tobacco Products) Amendment Act 2022
+  - **commencement** means the start of the day on which the amendment Act comes into force.
+
+### 42 Water-pipe tobacco imported as at commencement
+(1) This clause applies to water-pipe tobacco that is prohibited from import by section 95A and that, as at commencement, has been imported into New Zealand.
+(2) This Act applies to the water-pipe tobacco as if the amendment Act had not come into force.
+
+### 43 Water-pipe tobacco en route to New Zealand as at commencement
+(1) This clause applies to water-pipe tobacco that, as at commencement, is en route to New Zealand.
+(2) This Act applies to the water-pipe tobacco as if the amendment Act had not come into force.
+(3) The excise-equivalent duty levied in respect of the water-pipe tobacco is at the rate and unit of measurement that applied immediately before commencement.
+(4) Subclause (3) applies despite—
+  (a) section 141; and
+  (b) the amendments made to the Excise and Excise-equivalent Duties Table by the amendment Act.
+
 ## Schedule 2 — Application of Act to Defence Force
 
 ### 1 Requirements relating to arrival and departure of craft and persons
@@ -6461,8 +6480,8 @@ The following provisions apply for the purposes of the Excise and Excise-equival
     (a) any of items 99.05 to 99.50 in Part A of the Excise and Excise-equivalent Duties Table; or
     (b) any of items 21.05 to 22.08 and 33.02 in Part B of that table
   - **tobacco product** means any goods specified in—
-    (a) item 99.60 or 99.65 in Part A of the Excise and Excise-equivalent Duties Table; or
-    (b) item 24.02 or 24.03 in Part B of that table.
+    (a) item 99.60, 99.65, or 99.67 in Part A of the Excise and Excise-equivalent Duties Table; or
+    (b) item 24.02, 24.03, or 24.04 in Part B of that table.
 
 ### 22 Rates of duties for tobacco products increased by 10% if not indexed on 1 January in 2018 to 2020
 [Repealed]
