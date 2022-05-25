@@ -1,5 +1,5 @@
 # Building Societies Act 1965
-_Consolidation as at 2021-10-28_
+_Consolidation as at 2022-05-25_
 
 > An Act to consolidate and amend certain enactments of the Parliament of New Zealand relating to building societies
 
@@ -1359,6 +1359,59 @@ The District Court has jurisdiction in relation to—
 (2) The Registrar may refuse to perform a function or exercise a power until the prescribed fee is paid.
 (3) Any fee payable to the Registrar is recoverable by the Registrar in any court of competent jurisdiction as a debt due to the Crown.
 (4) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+
+### 137A Validation of fees used to recover costs of other Companies Office registers, etc
+(1) This section applies to a fee—
+  (a) that—
+    (i) is or was payable or purportedly payable on or before 30 June 2022 under any of the Acts listed in subsection (4) or any regulations made under any of those Acts; and
+    (ii) was (or is or will be) used in whole or in part to recover the costs or a share of the costs of the Registrar in operating 1 or more registers under this Act or in exercising or performing any other powers, functions, and duties of the Registrar under this Act or any regulations made under this Act; or
+  (b) that—
+    (i) is or was payable or purportedly payable on or before 30 June 2022 under this Act or any regulations made under this Act; and
+    (ii) was (or is or will be) used in whole or in part to recover the costs or a share of the costs of 1 or more registers operated under any of the Acts listed in subsection (5) or in exercising or performing the powers, functions, and duties of a Registrar under any of those Acts or any regulations made under any of those Acts.
+(2) The fee is and always has been validly imposed.
+(3) Money received by the Registrar of any register maintained by the Companies Office in payment of the fee—
+  (a) is and always has been lawfully collected and applied; and
+  (b) may continue to be applied on and after 1 July 2022 to recover costs referred to in subsection (1)﻿(a)﻿(ii) and (b)﻿(ii).
+(4) The Acts are—
+  (a) the Auditor Regulation Act 2011:
+  (b) the Companies Act 1993:
+  (c) the Financial Markets Conduct Act 2013:
+  (d) the Financial Reporting Act 1993:
+  (e) the Financial Service Providers (Registration and Dispute Resolution) Act 2008:
+  (f) the Friendly Societies and Credit Unions Act 1982:
+  (g) the Incorporated Societies Act 1908:
+  (h) the Insolvency Practitioners Regulation Act 2019:
+  (i) the Limited Partnerships Act 2008:
+  (j) the Personal Property Securities Act 1999:
+  (k) the Retirement Villages Act 2003:
+  (l) the Securities Act 1978.
+(5) The Acts are—
+  (a) the Auditor Regulation Act 2011:
+  (b) the Charitable Trusts Act 1957:
+  (c) the Companies Act 1993:
+  (d) the Financial Markets Conduct Act 2013:
+  (e) the Financial Reporting Act 1993:
+  (f) the Financial Reporting Act 2013:
+  (g) the Financial Service Providers (Registration and Dispute Resolution) Act 2008:
+  (h) the Friendly Societies and Credit Unions Act 1982:
+  (i) the Incorporated Societies Act 1908:
+  (j) the Incorporated Societies Act 2022:
+  (k) the Industrial and Provident Societies Act 1908:
+  (l) the Insolvency Practitioners Regulation Act 2019:
+  (m) the Limited Partnerships Act 2008:
+  (n) the New Zealand Business Number Act 2016:
+  (o) the Personal Property Securities Act 1999:
+  (p) the Retirement Villages Act 2003:
+  (q) the Securities Act 1978.
+(6) In this section,—
+  - **Companies Office** means the division or part of each of the following departments (formerly or currently in existence) that collected or collects fees under this Act or any of the Acts listed in subsections (4) and (5):
+    (a) the former Department of Justice:
+    (b) the former Ministry of Commerce:
+    (c) the former Ministry of Economic Development:
+    (d) the Ministry of Business, Innovation, and Employment
+  - **fee** —
+    (a) includes any penalty or overdue fee imposed, or interest charged, in respect of an unpaid or overdue fee; and
+    (b) in relation to the Insolvency Practitioners Regulation Act 2019, includes a levy imposed under section 81 of that Act.
 
 ### 138 Filing of rules of existing societies with District Registrars of Companies
 (1) It shall be the duty of the Registrar, as soon as practicable after the date of the commencement of this Act, to send a copy of the rules of every society existing at that date to the District Registrar of Companies whose office is nearest to the registered office of the society, or to such other District Registrar of Companies as may be approved for the purpose after consultation with the society.
