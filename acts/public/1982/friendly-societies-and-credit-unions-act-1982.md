@@ -1,5 +1,5 @@
 # Friendly Societies and Credit Unions Act 1982
-_Consolidation as at 2022-01-01_
+_Consolidation as at 2022-05-25_
 
 > An Act to consolidate and amend the law relating to friendly and certain other societies, to make better provision for the formation and administration of credit unions, and to provide for matters related thereto
 
@@ -1712,6 +1712,59 @@ Any costs or expenses ordered or directed by the Registrar to be paid by any per
   (d) providing for such matters as are contemplated by or necessary for giving full effect to the provisions of this Act and for its due administration.
 (2) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
+### 152A Validation of fees used to recover costs of other Companies Office registers, etc
+(1) This section applies to a fee—
+  (a) that—
+    (i) is or was payable or purportedly payable on or before 30 June 2022 under any of the Acts listed in subsection (4) or any regulations made under any of those Acts; and
+    (ii) was (or is or will be) used in whole or in part to recover the costs or a share of the costs of the Registrar in operating 1 or more registers under this Act or in exercising or performing any other powers, functions, and duties of the Registrar under this Act or any regulations made under this Act; or
+  (b) that—
+    (i) is or was payable or purportedly payable on or before 30 June 2022 under this Act or any regulations made under this Act; and
+    (ii) was (or is or will be) used in whole or in part to recover the costs or a share of the costs of 1 or more registers operated under any of the Acts listed in subsection (5) or in exercising or performing the powers, functions, and duties of a Registrar under any of those Acts or any regulations made under any of those Acts.
+(2) The fee is and always has been validly imposed.
+(3) Money received by the Registrar of any register maintained by the Companies Office in payment of the fee—
+  (a) is and always has been lawfully collected and applied; and
+  (b) may continue to be applied on and after 1 July 2022 to recover costs referred to in subsection (1)﻿(a)﻿(ii) and (b)﻿(ii).
+(4) The Acts are—
+  (a) the Auditor Regulation Act 2011:
+  (b) the Building Societies Act 1965:
+  (c) the Companies Act 1993:
+  (d) the Financial Markets Conduct Act 2013:
+  (e) the Financial Reporting Act 1993:
+  (f) the Financial Service Providers (Registration and Dispute Resolution) Act 2008:
+  (g) the Incorporated Societies Act 1908:
+  (h) the Insolvency Practitioners Regulation Act 2019:
+  (i) the Limited Partnerships Act 2008:
+  (j) the Personal Property Securities Act 1999:
+  (k) the Retirement Villages Act 2003:
+  (l) the Securities Act 1978.
+(5) The Acts are—
+  (a) the Auditor Regulation Act 2011:
+  (b) the Building Societies Act 1965:
+  (c) the Charitable Trusts Act 1957:
+  (d) the Companies Act 1993:
+  (e) the Financial Markets Conduct Act 2013:
+  (f) the Financial Reporting Act 1993:
+  (g) the Financial Reporting Act 2013:
+  (h) the Financial Service Providers (Registration and Dispute Resolution) Act 2008:
+  (i) the Incorporated Societies Act 1908:
+  (j) the Incorporated Societies Act 2022:
+  (k) the Industrial and Provident Societies Act 1908:
+  (l) the Insolvency Practitioners Regulation Act 2019:
+  (m) the Limited Partnerships Act 2008:
+  (n) the New Zealand Business Number Act 2016:
+  (o) the Personal Property Securities Act 1999:
+  (p) the Retirement Villages Act 2003:
+  (q) the Securities Act 1978.
+(6) In this section,—
+  - **Companies Office** means the division or part of each of the following departments (formerly or currently in existence) that collected or collects fees under this Act or any of the Acts listed in subsections (4) and (5):
+    (a) the former Department of Justice:
+    (b) the former Ministry of Commerce:
+    (c) the former Ministry of Economic Development:
+    (d) the Ministry of Business, Innovation, and Employment
+  - **fee** —
+    (a) includes any penalty or overdue fee imposed, or interest charged, in relation to an unpaid or overdue fee; and
+    (b) in relation to the Insolvency Practitioners Regulation Act 2019, includes a levy imposed under section 81 of that Act.
+
 ### 153 Offences and penalties
 (1) Every registered society or branch or credit union, or officer or member thereof, commits an offence against this Act who—
   (a) without reasonable excuse, acts in contravention of or fails to comply in any respect with any provision of this Act or any notice, direction, restriction, requirement, or condition given, made or imposed under this Act or any regulations made under it:
@@ -1920,37 +1973,3 @@ Neither the incorporation of the existing credit union nor anything in or effect
 ## Schedule 6 — Enactments amended
 
 ## Schedule 7 — Enactments repealed
-
-### 1 Title
-This Act is the Friendly Societies and Credit Unions Amendment Act 2006.
-
-### 2 Commencement
-This Act comes into force on the day after the date on which it receives the Royal assent.
-
-**Transitional provision**
-
-### 13 Proceedings in relation to section 135(4)﻿(b), 138(c), or 140(1)﻿(c)﻿(ii)
-Every application, investigation, proceeding, action, or other matter concerning a common bond that was commenced under section 135(4)﻿(b), 138(c), or 140(1)﻿(c)﻿(ii) before the commencement of this Act may continue as if this Act had not been passed.
-
-### 1 Title
-This Act is the Financial Reporting (Amendments to Other Enactments) Act 2013.
-
-### 2 Commencement
-(1) This Act comes into force on a date appointed by the Governor-General by Order in Council; and 1 or more orders may be made appointing different dates for different provisions and for different purposes.
-(2) To the extent that it is not previously brought into force under subsection (1), the rest of this Act comes into force on 1 April 2017.
-(3) In this section, provision includes any item, or any part of an item, in any of the schedules.
-
-**Amendments to Friendly Societies and Credit Unions Act 1982**
-
-### 63 Principal Act
-Sections 64 to 85 amend the Friendly Societies and Credit Unions Act 1982 (the principal Act).
-
-### 86 Transitional provision for registered societies and branches
-(1) The Friendly Societies and Credit Unions Act 1982, as amended by sections 64 to 85, applies to a registered society or branch in relation to financial years that commence on or after the commencement of this section.
-(2) The Friendly Societies and Credit Unions Act 1982, as in force before the commencement of this section, continues to apply to a registered society or branch in relation to financial years that commenced before the commencement of this section as if this Act and the Financial Reporting Act 2013 had not been enacted.
-(3) This section is subject to sections 55 and 56 of the Financial Reporting Act 2013 (which require issuers, on a transitional basis, to continue complying with the Financial Reporting Act 1993 and provide transitional rules for FMC reporting entities).
-
-### 87 Transitional provision for credit unions
-(1) The Friendly Societies and Credit Unions Act 1982, as amended by sections 64 to 85, applies to a credit union in relation to financial years that commence on or after the commencement of this section.
-(2) The Friendly Societies and Credit Unions Act 1982, as in force before the commencement of this section, continues to apply to a credit union in relation to financial years that commenced before the commencement of this section as if this Act and the Financial Reporting Act 2013 had not been enacted.
-(3) This section is subject to sections 55 and 56 of the Financial Reporting Act 2013 (which require issuers, on a transitional basis, to continue complying with the Financial Reporting Act 1993 and provide transitional rules for FMC reporting entities).
