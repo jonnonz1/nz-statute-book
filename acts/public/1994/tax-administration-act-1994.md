@@ -1,5 +1,5 @@
 # Tax Administration Act 1994
-_Consolidation as at 2022-04-01_
+_Consolidation as at 2022-05-25_
 
 > An Act to reorganise and consolidate the law relating to the Inland Revenue Department and the administration of income tax matters
 
@@ -119,6 +119,7 @@ _Consolidation as at 2022-04-01_
   - **co-operative company** , in section 64, has the same meaning as in section YA 1 of the Income Tax Act 2007
   - **Corporation** is defined in schedule 7, part C, subpart 2, clause 41(9) for the purposes of that clause
   - **correct tax position** means the correct tax position established under 1 or more tax laws
+  - **cost of living payments scheme** means the Cost of Living Payments Scheme established and administered by the Crown to provide financial support to certain low- and middle-income persons affected by an increase in the cost of living
   - **COVID-19 resurgence support payments scheme** means the COVID-19 Resurgence Support Payments Scheme established and administered by the Crown to provide support to businesses in the circumstances of a resurgence in New Zealand of COVID-19
   - **COVID-19 support payments scheme** means a scheme that is—
     (a) established and administered by the Crown to provide support to persons financially affected by a public health measure, business circumstance, or matter that is related to COVID-19, or by a group of such measures, circumstances, or matters; and
@@ -168,6 +169,7 @@ _Consolidation as at 2022-04-01_
       (iii) that cannot be challenged under Part 8A; or
       (iv) to issue a Commissioner's notice of proposed adjustment under section 89B, a Commissioner's disclosure notice or statement of position under section 89M, or a challenge notice; or
       (v) to issue, or to decline to issue, a Commissioner’s COVID-19 response variation under section 6I; or
+      (vb) to make, or to decline to make, a grant under the cost of living payments scheme under section 7AAA; or
       (vi) to grant, or to decline to grant, a loan under the small business cashflow scheme under section 7AA; or
       (vii) to make, or to decline to make, a grant under the COVID-19 resurgence support payments scheme, or another COVID-19 support payments scheme, under section 7AAB
   - **disputant** means a person—under a tax law
@@ -486,6 +488,7 @@ _Consolidation as at 2022-04-01_
     (cb) for the purposes of sections 156 to 165, includes a combined tax and earner-related payment:
     (cc) for the purposes of Part 10B, and sections 6, 6A, 6B, 156 to 165, 174AA, 176, 177, and 177A to 177CA, includes an amount payable in relation to a loan made under the small business cashflow scheme:
     (cd) for the purposes of sections 6 to 6B, 156 to 165, 173L, 173M, 173S, 173T, 174AA, and 176 to 177CA, includes an amount payable in relation to a grant made under the COVID-19 resurgence support payments scheme or another COVID-19 support payments scheme:
+    (ce) for the purposes of sections 6 to 6B, 156 to 165, 174AA, and 176 to 177CA, includes an amount payable in relation to a grant made under the cost of living payments scheme:
     (d) for the purpose of sections 176, 177, and 177A to 177D, means—but does not include—
       (i) a tax, levy or duty of any type imposed by a tax law, regardless of how the tax, levy or duty is described:
       (ii) an amount deemed by a tax law to be a tax, levy or duty:
@@ -857,6 +860,11 @@ Secondary legislation
   (c) the Commissioner’s functions or powers in relation to deducting amounts from payments due (section 157 of this Act, section 193 of the Student Loan Scheme Act 2011 but in respect only of the powers in section 157 of this Act, and section 154 of the Child Support Act 1991); and
   (d) the Commissioner’s functions or powers in relation to tax recovery agreements negotiated between the government of a territory outside New Zealand and the Government of New Zealand (Part 10A of this Act).
 (3) Clauses 2 to 4 of Schedule 6 of the Public Service Act 2020 apply to delegations under this section as if those delegations were made under clause 2 of that schedule.
+
+### 7AAA Administration of cost of living payments scheme
+(1) It is a function of the Commissioner to administer the cost of living payments scheme (the scheme) on behalf of the Crown.
+(2) If a person who receives a grant under the scheme from the Commissioner does not qualify for the grant under the eligibility requirements of the scheme, the person must immediately repay to the Commissioner the total amount of the grant.
+(3) The Commissioner must publish, on an internet site administered by the Commissioner, the eligibility requirements referred to in subsection (2).
 
 ### 7AA Authorisation to make payments under small business cashflow loan scheme
 (1) The Commissioner, on behalf of the Crown, may grant a loan under the small business cashflow scheme (the scheme) to a person who—
@@ -8441,6 +8449,7 @@ In any proceedings against a person for refusing or failing to provide a tax ret
     (i) an amount of compulsory employer contributions unpaid, specified in a notice under section 141(5) of the KiwiSaver Act 2006:
     (j) an amount payable in relation to a loan made under the small business cashflow scheme:
     (k) an amount payable in relation to a grant made under the COVID-19 resurgence support payments scheme or another COVID-19 support payments scheme:
+    (kb) an amount payable in relation to a grant made under the cost of living payments scheme:
     (l) KiwiSaver Act 2006 employer contributions
   - **taxpayer** —
     (a) in relation to income tax within the meaning of paragraphs (b) and (d) of the definition of income tax in this subsection, includes an employer and a PAYE intermediary; and
@@ -10347,6 +10356,16 @@ Section 18 does not prevent the Commissioner from disclosing sensitive revenue i
   - **earnings as a self-employed person** has the meaning given to it by section 6 of the Accident Compensation Act 2001
   - **earnings as a shareholder-employee** has the meaning given to it by section 15 of the Accident Compensation Act 2001
   - **earnings as an employee, employer, private domestic worker, and self-employed person** have the meanings given to them by section 6 of the Accident Compensation Act 2001.
+
+### 42B Accident Compensation Corporation: income insurance scheme
+(1) Section 18 does not prevent the Commissioner communicating information to a person who is an officer, employee, or agent of the Accident Compensation Corporation if—
+  (a) the person is authorised by the Corporation to receive the information; and
+  (b) the Corporation has reasonable grounds to believe that the disclosure of the information is necessary for the development of systems and processes for the implementation of the income insurance scheme; and
+  (c) the Commissioner considers that—
+    (i) it is reasonable and practicable to communicate the information; and
+    (ii) the information is readily available; and
+    (iii) it is not undesirable to disclose the information.
+(2) For the purposes of this clause, income insurance scheme means a scheme intended to be established under legislation to provide temporary income replacement to certain persons who suffer loss of employment.
 
 ### 43 Justice: fines defaulters
 (1) Section 18 does not prevent the Commissioner communicating to any person, being an officer, employee, or agent of the Ministry of Justice, any information, being information that—
