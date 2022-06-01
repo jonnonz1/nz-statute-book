@@ -1,5 +1,5 @@
 # Industrial and Provident Societies Act 1908
-_Consolidation as at 2021-10-28_
+_Consolidation as at 2022-06-01_
 
 > An Act to consolidate certain enactments of the General Assembly relating to industrial and provident societies
 
@@ -371,8 +371,7 @@ Where a society is registered as a company, or amalgamates with, or transfers al
 (2) Despite anything to the contrary in section 25 of the Criminal Procedure Act 2011, a charging document may be filed at any time in respect of an offence under subsection (1)﻿(c)﻿(iii).
 
 ### 15A COVID-19 business debt hibernation may apply
-(1) Section 395A and Schedule 13 of the Companies Act 1993 (which establish a COVID-19 business debt hibernation regime) may apply to a registered society under clause 3 of that schedule.
-(2) This section is repealed on the close of 31 May 2022.
+[Repealed]
 
 ### 16 Penalties
 (1) With respect to penalties under this Act the following provisions shall have effect:
