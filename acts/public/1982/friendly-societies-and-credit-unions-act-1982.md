@@ -1,5 +1,5 @@
 # Friendly Societies and Credit Unions Act 1982
-_Consolidation as at 2022-05-25_
+_Consolidation as at 2022-06-01_
 
 > An Act to consolidate and amend the law relating to friendly and certain other societies, to make better provision for the formation and administration of credit unions, and to provide for matters related thereto
 
@@ -792,8 +792,7 @@ It shall be the duty of every branch of a registered society to supply the secre
 (2) The provisions of this section shall apply in relation to a branch of a registered society as they apply in relation to such a society.
 
 ### 90A COVID-19 business debt hibernation may apply
-(1) Section 395A and Schedule 13 of the Companies Act 1993 (which establish a COVID-19 business debt hibernation regime) may apply to a society under clause 3 of that schedule.
-(2) This section is repealed on the close of 31 May 2022.
+[Repealed]
 
 ### 90A Transitional provisions applying to liquidation of societies
 [Repealed]
@@ -1468,8 +1467,7 @@ Section 89 (which relates to the appointment of inspectors or the calling of spe
   (b) to the liquidation as if the liquidator had been appointed under section 241(2)﻿(c) of that Act.
 
 ### 138A COVID-19 business debt hibernation may apply
-(1) Section 395A and Schedule 13 of the Companies Act 1993 (which establish a COVID-19 business debt hibernation regime) may apply to a credit union under clause 3 of that schedule.
-(2) This section is repealed on the close of 31 May 2022.
+[Repealed]
 
 ### 138A Transitional provisions applying to liquidation of credit unions
 [Repealed]
