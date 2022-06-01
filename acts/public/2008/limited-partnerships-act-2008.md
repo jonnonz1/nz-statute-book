@@ -1,5 +1,5 @@
 # Limited Partnerships Act 2008
-_Consolidation as at 2022-05-25_
+_Consolidation as at 2022-06-01_
 
 ### 1 Title
 This Act is the Limited Partnerships Act 2008.
@@ -985,8 +985,7 @@ Part 16 of the Companies Act 1993 (except sections 241(1) to (4), 268, 287, and 
   (e) the constitution of a company were references to the partnership agreement of a limited partnership.
 
 ### 92A COVID-19 business debt hibernation may apply
-(1) Section 395A and Schedule 13 of the Companies Act 1993 (which establish a COVID-19 business debt hibernation regime) may apply to a limited partnership under clause 3 of that schedule.
-(2) This section is repealed on the close of 31 May 2022.
+[Repealed]
 
 ### 93 Power of liquidator to enforce liabilities
 (1) This section applies to any person who is liable to pay or contribute to the payment of—
