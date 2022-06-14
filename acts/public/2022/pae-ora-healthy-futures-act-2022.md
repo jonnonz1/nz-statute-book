@@ -1228,7 +1228,7 @@ In this Part, unless the context otherwise requires,—
 ### 8 Continuation of certain committees established under former Act
 (1) A mortality review committee appointed under section 59 of the former Act continues as if it were a mortality review committee appointed under section 82 of this Act.
 (2) A committee established by the Minister under section 11 of the former Act continues as if it were established under section 87 of this Act.
-(3) The national advisory committee on ethics governing health and disability support services appointed under section 13 of the former Act continues as if it were appointed under section 93 of this Act.
+(3) The national advisory committee on ethics governing health and disability support services appointed under section 13 of the former Act continues as if it were appointed under section 92 of this Act.
 (4) The pharmacology and therapeutics advisory committee established in accordance with section 50(1)﻿(a) of the former Act continues as if it were established in accordance with section 71(1)﻿(a) of this Act.
 (5) The consumer advisory committee established in accordance with section 50(1)﻿(b) of the former Act continues as if it were established in accordance with section 71(1)﻿(b) of this Act.
 (6) A person who, immediately before the commencement date, was a member of a committee referred to in subclauses (1) to (5), continues, subject to any terms and conditions of their appointment,—
