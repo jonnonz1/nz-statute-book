@@ -1,5 +1,5 @@
 # Medicines Act 1981
-_Consolidation as at 2021-12-07_
+_Consolidation as at 2022-06-23_
 
 > An Act to consolidate and amend the law relating to the manufacture, sale, and supply of medicines, medical devices, and related products
 
@@ -701,6 +701,31 @@ Notwithstanding sections 17 to 24 or anything in any licence, but subject to the
 
 ### 34 Exemption for sale by wholesale of medicines that are not prescription, restricted, or pharmacy-only medicines
 Section 17 does not apply in respect of the sale by wholesale of a medicine that is not a prescription medicine or a restricted medicine or a pharmacy-only medicine.
+
+**COVID-19 vaccines**
+
+### 34A Director-General may authorise off-label administration of COVID-19 vaccines
+(1) This section applies if—
+  (a) the Minister has given consent or provisional consent to a COVID-19 vaccine; and
+  (b) a data sheet is approved for the vaccine under the regulations.
+Notice
+(2) The Director-General may, by notice, authorise the administration of the vaccine other than in accordance with the data sheet.
+(3) The notice may specify any 1 or more of the following matters in relation to the administration of the vaccine:
+  (a) who it may be administered to:
+  (b) the recommended number and frequency of doses:
+  (c) the recommended manner of administration:
+  (d) any circumstances in which it may be administered.
+(4) Before issuing a notice under this section, the Director-General must—
+  (a) have regard to the likely therapeutic value of the proposed administration of the vaccine and the risk (if any) that the proposed administration of the vaccine may injuriously affect the health of any person; and
+  (b) be satisfied that the proposed administration of the vaccine is an appropriate measure to manage the risks associated with the outbreak or spread of COVID-19.
+Effect of notice
+(5) A COVID-19 vaccine is not a new medicine for the purpose of section 20 by reason only of—
+  (a) a notice made under this section in relation to the vaccine; or
+  (b) administration of the vaccine in accordance with the notice.
+(6) Any person or class of persons permitted by the Act or by regulations to administer the vaccine may administer the vaccine in accordance with the notice.
+(7) Nothing in this section limits section 24.
+Status of notice
+(8) A notice made under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 **Quality and standards**
 
