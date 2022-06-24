@@ -1,5 +1,5 @@
 # Arms Act 1983
-_Consolidation as at 2022-05-21_
+_Consolidation as at 2022-06-24_
 
 > Title
 
@@ -939,7 +939,7 @@ A holder of a firearms licence who breaches a condition that their firearms lice
 ### 29 Application for endorsements in respect of pistol or restricted weapon
 (1)
 (2) Any person, being an applicant for a firearms licence or a holder of a firearms licence, may apply to a member of the Police for an endorsement on their firearms licence permitting that person to have possession of a pistol or a restricted weapon (other than an anti-personnel mine or a cluster munition) in his capacity as—
-  (a) a member of an incorporated pistol shooting club for the time being recognised by the Commissioner for the purposes of this section; or
+  (a) a member of an incorporated pistol shooting club that holds a certificate of approval issued under section 38G; or
   (b) a bona fide collector of firearms; or
   (c) a person to whom the pistol or restricted weapon has special significance as an heirloom or memento; or
   (d) the Director or Curator of a bona fide museum; or
@@ -1150,6 +1150,180 @@ Without limiting the generality of the provisions of sections 5, 9, 24, 27, 29, 
   (a) give not less than 4 days’ notice of the intended removal to a member of the Police; and
   (b) deliver to a Police station their firearms licence for amendment of the endorsement.
 (2) A person commits an offence and is liable on conviction to a fine not exceeding $2,000 if the person, without reasonable excuse, contravenes subsection (1).
+
+## Part 6 — Shooting clubs and shooting ranges
+
+### 38A Interpretation
+In this Part,—
+  - **application for approval** means an application made under section 38D to have a shooting club approved
+  - **application for certification** means an application made under section 38L to have a shooting range certified
+  - **certified shooting range** means a shooting range certified under section 38P
+  - **shooting activities** —
+    (a) means activities that are carried out using a firearm or an airgun for the purpose of shooting at inanimate targets (whether fixed or moving); but
+    (b) excludes—
+      (i) paintball shooting; and
+      (ii) airsoft shooting
+  - **shooting club** means a voluntary association of people who—
+    (a) act in accordance with a set of written rules; and
+    (b) participate in, or intend to participate in, shooting activities on a regular basis
+  - **shooting range** —
+    (a) means a facility (whether indoor or outdoor), or a designated area of land, used by a shooting club or members of the public for the primary purpose of carrying out shooting activities; and
+    (b) includes any defence area (as that term is defined in section 2(1) of the Defence Act 1990) used by a shooting club.
+
+**Shooting clubs**
+
+### 38B Shooting club must have certificate of approval
+(1) A shooting club that uses a shooting range for its shooting activities must hold a certificate of approval issued by the Commissioner.
+(2) A pistol club that applies for a certificate of approval must be registered under the Incorporated Societies Act 1908.
+(3) A person commits an offence and is liable on conviction to a fine not exceeding $10,000 if the person, without reasonable excuse, establishes or continues to operate a shooting club without the club holding a certificate of approval.
+
+### 38C Shooting club must be incorporated society if ammunition or firearms sold on its behalf
+(1) This section applies if ammunition or firearms are sold on behalf of a shooting club.
+(2) A shooting club to which this section applies may not hold a certificate of approval under section 38G unless it is registered under the Incorporated Societies Act 1908.
+
+### 38D Application to have shooting club approved
+(1) An application for a certificate of approval must be made,—
+  (a) if the shooting club is a body corporate, by a person who is authorised to make the application; or
+  (b) if the shooting club is not a body corporate, by the club’s representative who is authorised by the club to make the application.
+(2) An application for approval must be made to the Commissioner in the manner prescribed by regulations made under this Act, and must—
+  (a) be in a form approved by the Commissioner; and
+  (b) be supported by any information and documents that are prescribed; and
+  (c) be accompanied by the prescribed application fee (if any).
+
+### 38E Commissioner may make inquiries and request further information
+On receipt of an application for approval made under section 38D, the Commissioner—
+  (a) may make whatever inquiries the Commissioner considers necessary to determine whether the application should be granted; and
+  (b) may request the applicant to provide any further information or documents that the Commissioner considers necessary to determine whether the application should be granted.
+
+### 38F Decision on application for certificate of approval
+The Commissioner may grant an application for approval made under section 38D if the Commissioner is satisfied that the shooting club—
+  (a) will be using a certified shooting range for its shooting activities; and
+  (b) has rules relating to the safe operation of firearms and promotes the safe possession and use of firearms; and
+  (c) is appropriately administered; and
+  (d) is able to safely manage its shooting activities; and
+  (e) has proper storage for any firearm or ammunition held at any of the club’s premises or at a shooting range used by the club.
+
+### 38G Issue of certificate of approval
+(1) If the Commissioner grants an application for approval, the Commissioner must issue to the shooting club a certificate of approval.
+(2) A certificate of approval may be granted subject to any conditions that the Commissioner considers appropriate.
+
+### 38H Duration of certificate of approval
+A certificate of approval granted to a shooting club continues until—
+  (a) surrendered by the shooting club; or
+  (b) cancelled by the Commissioner.
+
+### 38I Cancellation of certificate of approval
+(1) The Commissioner must cancel a shooting club’s certificate of approval if the Commissioner is satisfied that—
+  (a) the shooting club is not using a certified shooting range for its shooting activities; or
+  (b) the shooting club is no longer carrying on its operations; or
+  (c) the shooting club no longer meets the requirements in section 38C or 38F; or
+  (d) the shooting club has failed to comply with an improvement notice issued under section 38V.
+(2) The Commissioner may cancel a shooting club’s certificate of approval if the Commissioner is satisfied that—
+  (a) the shooting club has failed to comply with any conditions to which its certificate of approval is subject; or
+  (b) the shooting club has failed to report any serious firearms-related safety incident; or
+  (c) any activity of the shooting club has raised any reasonable concern about the safety of its members or the public.
+
+### 38J Club may have to reapply for certificate of approval
+(1) The Commissioner may require a shooting club to reapply for a certificate of approval if—
+  (a) the club has amalgamated with another shooting club that has a different discipline; or
+  (b) the club is an incorporated society that has ceased to be registered under the Incorporated Societies Act 1908 for at least 2 years.
+(2) Sections 38D to 38I apply to an application as if the application were an application for a certificate of approval.
+
+### 38K Annual reports
+(1) A shooting club must, not later than 5 months after the end of its financial year, provide to the Commissioner an annual report on its operation.
+(2) The annual report must include the particulars prescribed in regulations made under this Act.
+
+**Shooting ranges**
+
+### 38L Shooting ranges must be certified
+(1) A person may not operate a shooting range unless the shooting range is a certified shooting range.
+(2) A person commits an offence and is liable on conviction to a fine not exceeding $10,000 if the person, without reasonable excuse, contravenes subsection (1).
+
+### 38M Application to have shooting range certified
+(1) An application for certification of a shooting range may be made,—
+  (a) if the person who is proposing to operate the range is an individual, by that individual; or
+  (b) if the person who is proposing to operate the range is a body corporate, by a person who is authorised to make the application; or
+  (c) if the person who is proposing to operate the range is not an individual or a body corporate, by the person’s representative who is authorised by the person to make the application.
+(2) An application for certification must be made to the Commissioner in the manner prescribed by regulations made under this Act, and must—
+  (a) be in a form approved by the Commissioner; and
+  (b) be supported by any information and documents that are prescribed; and
+  (c) be accompanied by the prescribed application fee (if any).
+
+### 38N Commissioner may make inquiries and request further information
+On receipt of an application for certification made under section 38M, the Commissioner—
+  (a) may make whatever inquiries the Commissioner considers necessary to determine whether the application should be granted; and
+  (b) may request the applicant to provide any further information or documents that the Commissioner considers necessary to determine whether the application should be granted.
+
+### 38O Decision on application to have shooting range certified
+The Commissioner may grant an application for certification made under section 38M if the Commissioner is satisfied that—
+  (a) the shooting range meets all required safety standards published by the Commissioner; and
+  (b) all necessary territorial authority and regional council consents to operate the shooting range have been obtained.
+
+### 38P Grant of certification
+If the Commissioner grants an application for certification in respect of a shooting range, the Commissioner must issue a certificate to the applicant.
+
+### 38Q Certification granted subject to conditions
+(1) A certificate granted under section 38P is subject to the condition that, at all times while the certified shooting range is in use, an officer is on duty who—
+  (a) holds a firearms licence; and
+  (b) is appropriately trained in shooting range safety management.
+(2) Certification granted under section 38P may be made subject to any other conditions that the Commissioner considers appropriate, which may include conditions relating to—
+  (a) maintenance of the shooting range:
+  (b) public access to the shooting range:
+  (c) restrictions on the types of firearms and ammunition that may be used at the shooting range:
+  (d) competitions that may be conducted at the shooting range.
+(3) A certified shooting range must request the Commissioner to review its range certification if it is intended that the operation of the range will depart from the conditions imposed by or under this section.
+
+### 38R Duration of certification
+A certificate issued in respect of a shooting range remains in force 5 years after the date it is issued unless the certificate is sooner surrendered or cancelled.
+
+### 38S Cancellation of certification
+The Commissioner may cancel certification in respect of a shooting range if the Commissioner is satisfied that—
+  (a) the shooting range is no longer being operated as a shooting range; or
+  (b) the shooting range is not being operated with proper regard to individual or public safety; or
+  (c) the operator of the shooting range is not complying with any conditions imposed under section 38Q; or
+  (d) having regard to the matters specified in section 38O, it is no longer appropriate that the shooting range be certified; or
+  (e) the operator of a shooting range has failed to comply with an improvement notice issued under section 38V.
+
+### 38T Renewal of certification
+(1) A certificate granted under section 38P may be renewed on 1 or more occasions.
+(2) Sections 38M to 38S apply to an application for renewal of certification as if the application were an application for certification, unless subsection (4) applies.
+(3) A renewed certificate is to be treated for all purposes as a new certification granted under section 38P.
+(4) If the circumstances of the shooting range have not changed significantly for 5 years, the applicant may initiate the renewal of the certification by using a form approved by the Commissioner instead of applying under section 38M.
+
+**Compliance**
+
+### 38U Inspections of shooting clubs and shooting ranges
+(1) For the purpose of ensuring that a shooting club or shooting range is operated in accordance with this Act, a person who is a member of the Police and authorised in writing by the Commissioner may—
+  (a) enter and inspect—
+    (i) any shooting range (including any shooting club that is part of the range); and
+    (ii) any place where the shooting club stores firearms or ammunition:
+  (b) inspect, print, copy, or remove any documents that the person believes on reasonable grounds to be those of the shooting club or shooting range.
+(2) A member of the Police must give at least 7 days’ notice of their intention to enter and inspect a venue of a shooting club or a shooting range.
+(3) The provisions of Part 4 of the Search and Surveillance Act 2012 (apart from subpart 3) apply.
+
+### 38V Improvement notices
+(1) This section applies if a member of the Police reasonably believes that a shooting club or shooting range—
+  (a) is failing, is likely to fail, or has failed to comply with any conditions to which a certificate of approval or certification is subject; or
+  (b) is contravening, is likely to contravene, or has contravened a provision of this Act or regulations made under this Act.
+(2) If this section applies, the member of the Police may issue an improvement notice to the shooting club or the operator of the shooting range requiring the shooting club or shooting range, within a reasonable period of time specified in the notice, to—
+  (a) remedy the non-compliance or contravention; or
+  (b) prevent a likely non-compliance or contravention from occurring.
+
+### 38W Temporary suspension of shooting club’s operations pending possible cancellation of certificate of approval
+(1) A member of the Police may, by notice in writing to a shooting club, temporarily suspend the operations of the shooting club if the member is satisfied that the shooting club has failed to comply with an improvement notice issued under section 38V.
+(2) A notice of temporary suspension must state—
+  (a) the ground on which the notice is given; and
+  (b) the date on which the suspension begins; and
+  (c) that the suspension is to enable the Police to consider cancelling the shooting club’s certificate of approval on that ground; and
+  (d) that the suspension lasts until notice of the decision as to whether to cancel the certificate of approval is given to the shooting club, but, if the notice is not given within 90 days after the suspension takes effect, the suspension ends with the close of that 90-day period.
+
+### 38X Temporary suspension of shooting range’s operations pending possible cancellation of certification
+(1) A member of the Police may, by notice in writing to the operator of a shooting range, temporarily suspend the operations of the shooting range if the member is satisfied that the shooting range has failed to comply with an improvement notice issued under section 38V.
+(2) A notice of temporary suspension must state—
+  (a) the ground on which the notice is given; and
+  (b) the date on which the suspension begins; and
+  (c) that the suspension is to enable the Police to consider cancelling the shooting range’s certification on that ground; and
+  (d) that the suspension lasts until notice of the decision as to whether to cancel the certification is given to the operator of the shooting range, but, if the notice is not given within 90 days after the suspension takes effect, the suspension ends with the close of that 90-day period.
 
 **Miscellaneous obligations**
 
@@ -2198,6 +2372,22 @@ The Minister of Police may recommend that regulations be made under section 86 o
 (2) The person must, within 6 months after the commencement of section 49(1) of the amendment Act,—
   (a) obtain an endorsement under section 30 permitting the person to have possession of the kea gun in a capacity specified in section 29(2)﻿(b), (c), or (d); or
   (b) surrender the kea gun to a member of the Police.
+
+### 12 Shooting clubs
+(1) Subclause (2) applies to an incorporated pistol shooting club that, immediately before the date of commencement of Part 6, was recognised by the Commissioner for the purposes of section 29 (as in force immediately before the commencement of section 49 of the amendment Act).
+(2) On and after the commencement of Part 6, the incorporated pistol shooting club is to be treated as if the club has been issued with a certificate of approval under section 38G.
+(3) In the case of any other shooting club that existed as a shooting club immediately before the commencement of Part 6, an application under section 38D must be made within 12 months after the date of commencement of Part 6.
+(4) If an application for certification of the club is made within that 12-month period, the club is to be treated, as from the time the Commissioner receives the application until the application has been decided, as if the club has been issued with a certificate of approval under section 38G.
+
+### 13 Shooting ranges
+(1) Subclause (2) applies to a pistol shooting range that at the date of commencement of Part 6 was approved by the Commissioner in accordance with regulation 22 of the Arms Regulations 1992.
+(2) The pistol shooting range is to be treated as if the range has been issued with a certificate under section 38P during the period that—
+  (a) commences on the date of commencement of Part 6; and
+  (b) ends on whichever of the following dates first occurs:
+    (i) the date of cancellation of the Commissioner’s approval of the shooting range given before the commencement of Part 6:
+    (ii) the date that is 5 years after the date of commencement of Part 6.
+(3) In the case of any other shooting range that existed as a shooting range immediately before the commencement of Part 6, an application under section 38M must be made within 12 months after the commencement of Part 6.
+(4) If an application for certification of the range is made within that 12-month period, the range is to be treated, as from the time the Commissioner receives the application until the application has been decided, as if the range has been issued with a certificate under section 38P.
 
 ### 15 Permits to import issued for purposes of section 16(1) of Act before commencement date revoked
 (1) A permit issued for the purposes of section 16(1) of this Act (as in force immediately before the commencement date) is revoked to the extent that it authorises the importation of a firearm that,—
