@@ -1,5 +1,5 @@
 # Financial Markets Conduct Act 2013
-_Consolidation as at 2022-05-25_
+_Consolidation as at 2022-06-30_
 
 ### 1 Title
 This Act is the Financial Markets Conduct Act 2013.
@@ -6215,7 +6215,7 @@ Nothing in this Act limits or diminishes any liability that any person may incur
 (4) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 546 Regulations for purposes of Part 6 (market services)
-(1) The Governor-General may, by Order in Council, on the recommendation of the Minister in accordance with section 549, make regulations for all or any of the following purposes:Issue of licencesConditions of licencesReportingDisclosure obligationsClient agreementsFinancial advice services and client money or property servicesDiscretionary investment management servicesMiscellaneous
+(1) The Governor-General may, by Order in Council, on the recommendation of the Minister in accordance with section 549, make regulations for all or any of the following purposes:Issue of licencesConditions of licencesReportingDisclosure obligationsClient agreementsFinancial advice services and client money or property servicesDiscretionary investment management servicesRegulating conduct of financial institutionsMiscellaneous
   (a) prescribing matters relating to the issue of market services licences, including—
     (i) eligibility criteria for licences and for the purposes of section 400 (including requirements relating to competence, qualifications, and experience, prudential requirements, and requirements relating to the business, operation, or management of an applicant and, for the purposes of section 400, a related body corporate or an entity referred to in section 400(1A)):
     (ii) requirements that the applicant's directors, senior managers, and proposed directors and senior managers must satisfy:
@@ -6226,12 +6226,15 @@ Nothing in this Act limits or diminishes any liability that any person may incur
   (b) prescribing overseas markets and circumstances for the purposes of section 389(1)﻿(c):
   (c) exempting (on terms and conditions, if any) services from the licensing requirement for providers of financial advice services for the purposes of section 389(2)﻿(b):
   (ca) exempting (on terms and conditions, if any) services from the licensing requirement for providers of discretionary investment management services for the purposes of section 389(3)﻿(b):
+  (cb) prescribing terms and conditions of the exemption for Lloyd’s underwriters under section 389(4)﻿(a), including any term or condition that imposes requirements on Lloyd’s, Lloyd’s underwriters, or Lloyd’s managing agents (see section 449A):
+  (cc) exempting (on terms and conditions, if any) services from the licensing requirement for providers of the service of acting as a financial institution for the purposes of section 389(4)﻿(b):
   (d) prescribing conditions that market services licences are subject to, the kinds of conditions that the FMA may impose on those licences, or matters to which conditions imposed by the FMA may relate, including (without limitation) providing for—
     (i) conditions that regulate the manner in which licensed market services must be carried out under the licence:
     (ii) conditions that impose prudential requirements on licensees or authorised bodies or otherwise regulate the business, operation, or management of licensees or authorised bodies (for example, requirements to have a credit rating or to maintain a minimum amount of capital, requirements relating to margins, or requirements relating to the receipt of money and property from clients):
     (iii) in the case of a DIMS licensee, the conditions subject to which a custodian of investor money or investor property is permitted to be an associated person of the DIMS licensee:
     (iv) in the case of a licence relating to a financial advice service, conditions of a kind described in section 403(4):
     (v) in the case of a licence to act as an administrator of a financial benchmark, conditions of a kind described in section 403(5):
+    (vi) in relation to a licence relating to acting as a financial institution, conditions that prohibit or regulate incentives, or the offer or giving of incentives to any person, in connection with a relevant service or an associated product:
   (e) stating whether a condition imposed on a market services licence by the regulations is a Part 6 services provision that gives rise to civil liability under section 449(4):
   (f) prescribing matters relating to reports or other disclosure under subpart 3 of Part 6, including the times and events referred to in that subpart and the information that must be contained in the reports (including prescribing the manner in which the information is to be presented, calculated, or prepared):
   (g) prescribing the information that must, or must not, be contained in disclosure statements for the purposes of subpart 4 of Part 6 (including prescribing the manner in which the information is to be presented, calculated, or prepared):
@@ -6265,14 +6268,41 @@ Nothing in this Act limits or diminishes any liability that any person may incur
   (ms) prescribing matters to regulate the delivery of client money or client property to the person on whose behalf they are held, and other steps to be taken or provisions to apply, in connection with the termination of any client money or property service:
   (n) prescribing matters relating to the reporting of limit breaks:
   (o) prescribing circumstances for the purposes of section 445:
-  (oa) prescribing the procedure of the code committee:
-  (ob) prescribing the procedure of the disciplinary committee:
+  (oa) prescribing requirements for fair conduct programmes, including (without limitation) additional, or more detailed, requirements relating to the matters set out in section 446J(1)﻿(a) to (l) or requirements relating to 1 or more of the following in connection with a relevant service or an associated product:
+    (i) governance and management of conduct and risks associated with that conduct:
+    (ii) monitoring outcomes for consumers, including whether consumers’ interests are being had regard to:
+    (iii) how the services or products are designed and managed:
+    (iv) dealing with consumer complaints:
+    (v) dealing with insurance claims:
+    (vi) communicating with consumers, including particular disclosure requirements and requirements for warnings:
+    (vii) procedures or processes that intermediaries or agents must follow to support the financial institution’s compliance with the fair conduct principle:
+    (viii) the design and management of incentives:
+  (ob) prescribing classes of service for the purposes of section 446F(1)﻿(b):
+  (oc) prescribing matters for the purposes of section 446H:
+  (od) prescribing factors for the purposes of section 446J(2)﻿(g):
+  (oe) prescribing requirements for the purposes of section 446J(4)﻿(a) or (b):
+  (of) prescribing matters for the purposes of section 446Q(4)﻿(b) and (c):
+  (og) prohibiting or regulating any incentive, or any practice, activity, or other conduct in connection with offering or giving any incentive to any person, in connection with a relevant service or an associated product, including prescribing the manner in which an incentive may be offered or given:
+  (oh) prescribing classes of contract for the purposes of paragraph (b)﻿(i) of the definition of consumer credit contract in section 446P:
+  (oi) prescribing matters for the purposes of section 446V(3)﻿(b):
+  (oj) prescribing the procedure of the code committee:
+  (ok) prescribing the procedure of the disciplinary committee:
   (p) prescribing persons or classes of persons to whom notices under Part 6 must be given:
   (q) prescribing the circumstances referred to in section 424(3) or 426(1):
   (r) prescribing overseas schemes, benefits, interests, or transactions for the purposes of section 441(b) and (d):
   (s) prescribing the form or contents of any certificate or other document referred to in Part 6, and the manner in which it may be made or given.
-(2) Subsection (1)﻿(b), (c), (ca), (me), (mf), (mg), (mh), (mi), (mn), and (o) is subject to section 550 (which provides for certain procedural requirements relating to regulations made under that paragraph).
+(2) Subsection (1)﻿(b), (c), (ca), (cc), (me), (mf), (mg), (mh), (mi), (mn), (o), (ob), (oe), and (of) is subject to section 550 (which provides for certain procedural requirements relating to regulations made under that paragraph).
 (3) A provision prescribed for the purposes of subsection (1)﻿(m) may, without limitation, specify the duties of the licensee or authorised body under the client agreement (including to supplement, or to add to, any duties prescribed by this Act).
+(4) The Minister may make a recommendation for regulations under subsection (1)﻿(og) (which relates to prohibiting or regulating incentives) only if the Minister—
+  (a) has had regard to the purposes of this Act and the fair conduct principle; and
+  (b) has had regard to whether the regulations are likely to—
+    (i) appropriately reduce or manage conflicts or potential conflicts between the interests of consumers and the interests of persons who would otherwise be entitled to receive incentives; or
+    (ii) otherwise mitigate or avoid the actual or potential adverse effects of incentives on the interests of consumers; and
+  (c) has had regard to the likely effect of the regulations—
+    (i) on the availability of financial advice and the availability of financial services and financial advice products; and
+    (ii) on the financial services industry generally; and
+  (d) is satisfied that the matters to which the regulations relate are not more appropriately dealt with in an Act.
+(5) The breach of a term or condition prescribed under subsection (1)﻿(c), (ca), (cb), or (cc) is a breach of section 388 (unless the regulations otherwise provide).
 (7) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 547 Transitionals, savings, and orderly implementation of Act and related enactments
@@ -6339,17 +6369,19 @@ The Minister must consult the FMA before making a recommendation under this subp
 (1) The Minister must, before making a recommendation in relation to a provision referred to in—
   (a) subsection (2), have regard to the main and additional purposes of this Act set out in sections 3 and 4; and
   (b) subsection (2)﻿(a), (b), or (e), be satisfied that the extent to which requirements are disapplied is not broader than is reasonably necessary to address the matters that gave rise to the regulations; and
-  (c) subsection (2)﻿(c), (d), (da), (db), and (f), be satisfied that the extent of the exemption or exclusion is not broader than is reasonably necessary to address the matters that gave rise to the regulations; and
+  (c) subsection (2)﻿(c), (d), (da), (db), (ea), (eb), and (f), be satisfied that the extent of the exemption or exclusion is not broader than is reasonably necessary to address the matters that gave rise to the regulations; and
   (d) subsection (2)﻿(g), be satisfied that the extent to which the application of section 534 is reduced is not broader than is reasonably necessary to address the matters that gave rise to the regulations; and
   (e) subsection (2)﻿(h), have regard to the purpose and principles of the Trusts Act 2019 and be satisfied that the extent to which that Act is disapplied is not broader than is reasonably necessary to address the matters that gave rise to the regulations.
 (2) The provisions are—
   (a) sections 543(1)﻿(a)﻿(v) and (x), and (f), and 548(1)﻿(b) (regulations may prescribe circumstances in which requirements do not apply):
   (b) section 544(1)﻿(k), (o), (r), (s), and (v)﻿(iii), (iv), (via), and (ix) (regulations may prescribe circumstances in which requirements do not apply):
   (c) section 545(1)﻿(a), (g), (j), and (m) (regulations may provide for exemptions from certain requirements):
-  (d) section 546(1)﻿(b), (c), and (ca) (regulations may prescribe exemptions relating to requirement to be licensed):
+  (d) section 546(1)﻿(b), (c), (ca), and (cc) (regulations may prescribe exemptions relating to requirement to be licensed):
   (da) section 546(1)﻿(me), (mf), (mg), (mh), and (mi) (regulations may prescribe matters in relation to exclusions from definitions of financial advice, regulated financial advice, and regulated client money or property service):
   (db) section 546(1)﻿(mn) (regulations may prescribe circumstances in which requirements do not apply):
-  (e) section 546(1)﻿(o) (regulations may prescribe circumstances in which requirements do not apply):
+  (e) section 546(1)﻿(o) and (oe) (regulations may disapply requirements):
+  (ea) section 546(1)﻿(ob) (regulations may exclude services from being relevant services under subpart 6A of Part 6):
+  (eb) section 546(1)﻿(of) (regulations may exclude occupations and activities from involvement in provision of relevant services or associated products):
   (f) section 548(1)﻿(d)﻿(i), (ii), (v), and (viii) (regulations relating to definitions):
   (g) section 548(1)﻿(h) (regulations may prescribe circumstances in which section 534 does not apply):
   (h) section 548(1)﻿(ha) (regulations may disapply provisions of Trusts Act 2019).
