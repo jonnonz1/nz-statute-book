@@ -1,5 +1,5 @@
 # Artificial Limb Service Act 2018
-_Consolidation as at 2018-09-28_
+_Consolidation as at 2022-07-01_
 
 ### 1 Title
 This Act is the Artificial Limb Service Act 2018.
@@ -53,7 +53,7 @@ The Service consists of 6 members appointed under section 28(1)﻿(a) of the Cro
   (a) 1 member to be appointed by the Minister to represent the interests of war amputees:
   (b) 1 member to be appointed by the Minister on the nomination of the Amputees Federation of New Zealand Incorporated:
   (c) 1 member to be appointed by the Minister on the nomination of the New Zealand Orthopaedic Association:
-  (d) 1 member to be appointed by the Minister to represent District Health Boards, and appointed on the nomination of the Minister of Health:
+  (d) 1 member to be appointed by the Minister to represent Health New Zealand, and appointed on the nomination of the Minister of Health:
   (e) 1 member to be appointed by the Minister on the nomination of a majority of the current members of the Service.
 
 ### 11 Deputies of members
