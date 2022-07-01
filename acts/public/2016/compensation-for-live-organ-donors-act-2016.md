@@ -1,5 +1,5 @@
 # Compensation for Live Organ Donors Act 2016
-_Consolidation as at 2021-10-28_
+_Consolidation as at 2022-07-01_
 
 ### 1 Title
 This Act is the Compensation for Live Organ Donors Act 2016.
@@ -76,7 +76,7 @@ This Act binds the Crown.
 (1) A person is a qualifying donor in relation to a donor surgery if, on application under Part 3, the Director-General is satisfied that—
   (a) the person will forgo earnings as a result of taking unpaid leave or otherwise ceasing employment to allow for his or her recuperation from the surgery; and
   (b) both the donor surgery and the surgery to implant the organ will be carried out in New Zealand; and
-  (c) the recipient of the organ is eligible to receive services funded under the New Zealand Public Health and Disability Act 2000; and
+  (c) the recipient of the organ is eligible to receive services funded under the Pae Ora (Healthy Futures) Act 2022; and
   (d) the organ will be collected, implanted, and dealt with lawfully.
 (2) For the purposes of subsection (1)﻿(d), the Director-General may assume the organ will be collected, implanted, and dealt with lawfully in the absence of information to the contrary.
 (3) The criteria in subsection (1)﻿(b) and (c) do not apply if the person—
@@ -367,7 +367,7 @@ In this Part,—
   - **income from employment** has the meaning given by paragraph (a) of the definition of income from employment in section YA 1 of the Income Tax Act 2007
   - **most recently completed tax year** , in relation to a self-employed person or a shareholder-employee, means the most recent year ending with the balance date (whether 31 March or another date) of the self-employed person or shareholder-employee before the payment period
   - **parental leave** has the meaning given by section 2(1) of the Parental Leave and Employment Protection Act 1987 (including the meaning given by paragraph (b) of that definition)
-  - **registered bank** has the meaning given by section 2(1) of the Reserve Bank of New Zealand Act 1989
+  - **registered bank** has the meaning given by section 2(1) of the Banking (Prudential Supervision) Act 1989
   - **shareholder-employee** has the meaning given by section 6(1) of the Accident Compensation Act 2001
   - **tax year** has the meaning given by section YA 1 of the Income Tax Act 2007.
 (2) For the purpose of defining the terms earnings as an employee, earnings as a self-employed person, and earnings as a shareholder-employee, sections 9 to 15 of the Accident Compensation Act 2001 must be read with the necessary modifications, including that references to the Corporation must be read as references to the Director-General.
