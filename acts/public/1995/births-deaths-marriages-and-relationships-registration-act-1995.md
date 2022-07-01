@@ -1,5 +1,5 @@
 # Births, Deaths, Marriages, and Relationships Registration Act 1995
-_Consolidation as at 2021-10-28_
+_Consolidation as at 2022-07-01_
 
 > Title
 
@@ -1272,7 +1272,7 @@ In sections 78H and 78I, historical information means information that relates t
   (b) receiving any evidence the court thinks fit,—
 
 ### 85A Health information may be used to correct records
-(1) The chief executive of the department for the time being responsible for administering the New Zealand Public Health and Disability Act 2000 may—
+(1) The chief executive of the department for the time being responsible for administering the Pae Ora (Healthy Futures) Act 2022 may—
   (a) advise the Registrar-General of an apparent omission or error if he or she believes on reasonable grounds that a person's birth or death has not been registered under this Act or has been registered incorrectly; and
   (b) provide to the Registrar-General sufficient information to allow the error or omission to be corrected.
 (2) The Registrar-General may correct birth information or death information in accordance with information provided under this section.
