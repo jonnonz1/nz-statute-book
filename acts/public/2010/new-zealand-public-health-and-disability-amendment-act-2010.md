@@ -1,5 +1,5 @@
 # New Zealand Public Health and Disability Amendment Act 2010
-_Consolidation as at 2011-02-24_
+_Consolidation as at 2022-07-01_
 
 ### 1 Title
 This Act is the New Zealand Public Health and Disability Amendment Act 2010.
@@ -14,13 +14,13 @@ This Act amends the New Zealand Public Health and Disability Act 2000.
 ## Part 1 — Amendments to principal Act
 
 ### 4 Outline
-(1) Section 5(3)(e) is amended by omitting annual plans agreed with the Minister of Health and substituting plans prepared under section 38.
+(1) Section 5(3)﻿(e) is amended by omitting annual plans agreed with the Minister of Health and substituting plans prepared under section 38.
 (2) Section 5 is amended by inserting the following subsection after subsection (7):
   (7A) A statutory entity called the Health Quality and Safety Commission (HQSC) is established (Part 4—sections 59A to 59E, 60, 61, 66, 67, and 69 and Schedule 6), and has functions that relate to the improvement of the quality and safety of health and disability support services.
 
 ### 5 Interpretation
 (1) The definitions of annual plan and district strategic plan in section 6(1) are repealed.
-(2) Section 6(1) is amended by inserting the following definition in its appropriate alphabetical order:.
+(2) Section 6(1) is amended by inserting the following definition in its appropriate alphabetical order:
   - **HQSC** means the Health Quality and Safety Commission established by section 59A(1)
 (3) The definition of publicly-owned health and disability organisation in section 6(1) is amended by omitting and CHFA and substituting CHFA, and HQSC.
 
@@ -32,19 +32,19 @@ This Act amends the New Zealand Public Health and Disability Act 2000.
 Sections 17 and 18 are repealed.
 
 ### 8 Objectives of DHBs
-(1) Section 22(1) is amended by inserting the following paragraph after paragraph (b):.
+(1) Section 22(1) is amended by inserting the following paragraph after paragraph (b):
   (ba) to seek the optimum arrangement for the most effective and efficient delivery of health services in order to meet local, regional, and national needs:
 (2) Section 22(2) is amended by omitting its district strategic plan, its annual plan and substituting any plan prepared under section 38.
 (3) Section 22(2) is amended by omitting section 33 of this Act and substituting section 33, 33A, or 33B of this Act,.
 
 ### 9 Functions of DHBs
-(1) Section 23(1) is amended by inserting the following paragraph after paragraph (b):.
+(1) Section 23(1) is amended by inserting the following paragraph after paragraph (b):
   (ba) to collaborate with relevant organisations to plan and co-ordinate at local, regional, and national levels for the most effective and efficient delivery of health services:
 (2) Section 23 is amended by adding the following subsection:
-  (8) In subsection (1)(ba), relevant organisations means 1 or more organisations that a DHB considers relevant to the provision of health services at a local, regional, or national level (for example, a DHB, the Ministry of Health, or an organisation that provides services under a service agreement).
+  (8) In subsection (1)﻿(ba), relevant organisations means 1 or more organisations that a DHB considers relevant to the provision of health services at a local, regional, or national level (for example, a DHB, the Ministry of Health, or an organisation that provides services under a service agreement).
 
 ### 10 Co-operative agreements and arrangements
-Section 24(2)(b) is amended by omitting its district strategic plan or annual plan and substituting a plan prepared under section 38.
+Section 24(2)﻿(b) is amended by omitting its district strategic plan or annual plan and substituting a plan prepared under section 38.
 
 ### 11 Service agreements
 Section 25(2) is amended by omitting its annual plan and substituting a plan prepared under section 38.
@@ -53,10 +53,10 @@ Section 25(2) is amended by omitting its annual plan and substituting a plan pre
 Section 27(1) is amended by omitting the DHB's district strategic plan, annual plan, and any directions under section 33 and substituting any relevant plan prepared under section 38, and any directions under section 33, 33A, or 33B.
 
 ### 13 Minister may require provision of services
-Section 33(2)(a) is amended by omitting the district strategic plan of the DHB and substituting any plan prepared under section 38 that the DHB is a party to.
+Section 33(2)﻿(a) is amended by omitting the district strategic plan of the DHB and substituting any plan prepared under section 38 that the DHB is a party to.
 
 ### 14 New sections 33A and 33B and heading inserted
-The following sections and heading are inserted after section 33:Proposals and directions in relation to administrative, support, and procurement servicesMinisterial directions to all DHBsMinister may give directions to all DHBs2004 No 115 ss 107–111, 113.
+The following sections and heading are inserted after section 33:Proposals and directions in relation to administrative, support, and procurement servicesMinisterial directions to all DHBsMinister may give directions to all DHBs2004 No 115 ss 107–111, 113
   (1) A proposal stating how administrative, support, and procurement services within the public health and disability sector should be obtained may be submitted to the Minister by the Director-General or any person or body approved by the Minister for the purpose.
   (2) If the Minister has reason to believe that the proposal will enhance the effective and efficient operation of the public health and disability sector and should be implemented, the Minister must—
     (a) consider whether the proposal can be reasonably implemented without a direction under subsection (3); and
@@ -66,7 +66,7 @@ The following sections and heading are inserted after section 33:Proposals and d
     (a) stating how administrative, support, and procurement services must be obtained (for example, specifying a process to be followed in obtaining those services); or
     (b) stating who must provide particular administrative, support, and procurement services for the DHB or DHBs.
   (4) The direction must be in writing and must be signed by the Minister and the Minister of Finance.
-  (5) Sections 113 and 114(3)(a) of the Crown Entities Act 2004 do not apply to this section.
+  (5) Sections 113 and 114(3)﻿(a) of the Crown Entities Act 2004 do not apply to this section.
   (6) In this section, administrative, support, and procurement services—
     (a) means services that do not relate directly to, but are necessary for, the provision of care to patients or care or support to people with disabilities; and
     (b) without limiting the generality of paragraph (a), includes any of the following:
@@ -155,7 +155,7 @@ The following heading and sections are inserted after section 59:Health Quality 
     (c) providers; and
     (d) any groups representing the interests of consumers of health or disability support services; and
     (e) any other organisations, groups, or individuals that HQSC considers have an interest in, or will be affected by, its work.
-  (3) The Minister must, as soon as practicable after giving a notice to HQSC under subsection (1)(g)(ii), publish in the Gazette, and present to the House of Representatives, a copy of the notice.
+  (3) The Minister must, as soon as practicable after giving a notice to HQSC under subsection (1)﻿(g)﻿(ii), publish in the Gazette, and present to the House of Representatives, a copy of the notice.
   The board of HQSC consists of at least 7 members appointed under section 28 of the Crown Entities Act 2004.
   (1) HQSC may appoint 1 or more committees to carry out any of the following functions that HQSC specifies by notice to the committee:
     (a) to review and report to HQSC on specified classes of deaths of persons, or deaths of persons of specified classes, with a view to reducing the numbers of deaths of those classes or persons, and to continuous quality improvement through the promotion of ongoing quality assurance programmes:
@@ -186,14 +186,14 @@ Section 60 is amended by adding the following paragraph:
 Section 70 is amended by omitting and CHFA and substituting CHFA, and HQSC.
 
 ### 21 Discussion required before inquiry board appointed
-Section 74(b) is amended by omitting section 75(3)(b)) and substituting section 75(3)(b).
+Section 74(b) is amended by omitting section 75(3)﻿(b)) and substituting section 75(3)﻿(b).
 
 ### 22 Saving of certain transactions
 Section 87(d) is amended by omitting district strategic plan or annual plan and substituting plan prepared under section 38.
 
 ### 23 Regulations
-(1) Section 92(1) is amended by inserting the following paragraph after paragraph (f):.
-  (g) in relation to any plans to be prepared under section 38(1)(a) or 38(1)(b),—
+(1) Section 92(1) is amended by inserting the following paragraph after paragraph (f):
+  (g) in relation to any plans to be prepared under section 38(1)﻿(a) or 38(1)﻿(b),—
     (i) specifying the form of the plan; and
     (ii) imposing requirements relating to the content of the plan; and
     (iii) imposing procedural requirements (such as a requirement for consultation) that must be complied with in the preparation of the plan:
@@ -203,7 +203,7 @@ Section 87(d) is amended by omitting district strategic plan or annual plan and 
 (1) Clause 3 of Schedule 3 is amended by repealing paragraph (b) and substituting the following paragraphs:
   (b) are not to hold office as elected members of the board of any other DHB:
   (c) may hold office as appointed members of the board of 1 or more other DHBs.
-(2) Clause 38(1)(a) of Schedule 3 is amended by inserting after first obtaining the Minister's approval before establish.
+(2) Clause 38(1)﻿(a) of Schedule 3 is amended by inserting after first obtaining the Minister's approval before establish.
 
 ### 25 Schedule 5 heading amended
 The Schedule 5 heading is amended by omitting s 18(5) and substituting s 59E.
@@ -237,13 +237,13 @@ The Schedule 5 heading is amended by omitting s 18(5) and substituting s 59E.
 
 ### 28 Amendment to Crown Entities Act 2004
 (1) This section amends the Crown Entities Act 2004.
-(2) Part 1 of Schedule 1 is amended by inserting the following item in its appropriate alphabetical order:NameExemption from acquisition of securities, borrowing, guarantee, and derivative rulesExemption from section 165 (net surplus payable to Crown)s 161s 162s 163s 164Health Quality and Safety Commission
+(2) Part 1 of Schedule 1 is amended by inserting the following item in its appropriate alphabetical order:The following table is small in size and has 6 columns. This table amends Part 1 of Schedule 1 of the Crown Entities Act 2004 and should be read with that table to provide understanding of the contextNameExemption from acquisition of securities, borrowing, guarantee, and derivative rulesExemption from section 165 (net surplus payable to Crown)s 161s 162s 163s 164Health Quality and Safety Commission
 
 **Amendments to Health Sector (Transfers) Act 1993**
 
 ### 29 Amendments to Health Sector (Transfers) Act 1993
 (1) This section amends the Health Sector (Transfers) Act 1993.
-(2) Section 2(1) is amended by inserting the following definition in its appropriate alphabetical order:.
+(2) Section 2(1) is amended by inserting the following definition in its appropriate alphabetical order:
   - **HQSC** means the Health Quality and Safety Commission established under section 59A of the New Zealand Public Health and Disability Act 2000
 (3) The definition of publicly-owned health and disability organisation in section 2(1) is amended by omitting and Pharmac and substituting Pharmac, and HQSC.
 
