@@ -1,5 +1,5 @@
 # Companies Act 1993
-_Consolidation as at 2022-06-01_
+_Consolidation as at 2022-07-01_
 
 > An Act to reform the law relating to companies, and, in particular,—ato reaffirm the value of the company as a means of achieving economic and social benefits through the aggregation of capital for productive purposes, the spreading of economic risk, and the taking of business risks; andbto provide basic and adaptable requirements for the incorporation, organisation, and operation of companies; andcto define the relationships between companies and their directors, shareholders, and creditors; anddto encourage efficient and responsible management of companies by allowing directors a wide discretion in matters of business judgment while at the same time providing protection for shareholders and creditors against the abuse of management power; andeto provide straightforward and fair procedures for realising and distributing the assets of insolvent companies
 
@@ -35,7 +35,7 @@ _Consolidation as at 2022-06-01_
   - **constitution** means a document referred to in section 29
   - **control interest** has the meaning set out in sections 365B to 365E
   - **court** means the High Court of New Zealand
-  - **designated settlement system** has the meaning set out in section 156M of the Reserve Bank of New Zealand Act 1989
+  - **designated settlement system** has the meaning set out in section 156M of the Banking (Prudential Supervision) Act 1989
   - **director** has the meaning set out in section 126
   - **distribution** , in relation to a distribution by a company to a shareholder, means—in relation to shares held by that shareholder, and whether by means of a purchase of property, the redemption or other acquisition of shares, a distribution of indebtedness, or by some other means
     (a) the direct or indirect transfer of money or property, other than the company's own shares, to or for the benefit of the shareholder; or
@@ -3579,8 +3579,8 @@ In this subpart, unless the context otherwise requires,—
 (2) The persons are—
   (a) the secured creditor:
   (b) a receiver or person appointed as mentioned in paragraph (a), (b), or (d) of the definition of enforce in section 239ABK as that definition applies in relation to the security interest, or any of the security interests (even if appointed after the decision period).
-(3) Terms and expressions defined in section 122A of the Reserve Bank of New Zealand Act 1989 and used in subsection (1) have in that subsection the same meanings as in that section.
-(4) Section 122B of the Reserve Bank of New Zealand Act 1989 applies with all necessary modifications for the purposes of subsection (1)﻿(b), and those modifications include—
+(3) Terms and expressions defined in section 122A of the Banking (Prudential Supervision) Act 1989 and used in subsection (1) have in that subsection the same meanings as in that section.
+(4) Section 122B of the Banking (Prudential Supervision) Act 1989 applies with all necessary modifications for the purposes of subsection (1)﻿(b), and those modifications include—
   (a) treating references to section 122(9A)﻿(b) of that Act as references to subsection (1)﻿(b) of this section; and
   (b) treating references to the enforcing counterparty as references to the secured creditor; and
   (c) treating references to the grantor as references to the company that granted the security interest.
@@ -4527,7 +4527,7 @@ At any time after the making of an application to the court under section 241(2)
   (f) a shareholder must not exercise a power under the constitution of the company or this Act except for the purposes of this Part:
   (g) the constitution of the company must not be altered.
 (2) Subsection (1) does not affect the right of a secured creditor, subject to section 305, to take possession of, and realise or otherwise deal with, property of the company over which that creditor has a charge.
-(3) This section is subject to section 139J(1) to (3) of the Reserve Bank of New Zealand Act 1989.
+(3) This section is subject to section 139J(1) to (3) of the Banking (Prudential Supervision) Act 1989.
 
 ### 249 Completion of liquidation
 The liquidation of a company is completed when the liquidator—as the case may be.
@@ -4801,7 +4801,7 @@ Every document entered into, made, or issued by a liquidator of a company on beh
   (b) does not include—
     (i) a netting agreement to which sections 310A to 310O apply; or
     (ii) any contract of the company that constitutes a transaction under a netting agreement; or
-    (iii) a settlement instruction or a settlement under the rules of a settlement system that is declared to be a designated settlement system under Part 5C of the Reserve Bank of New Zealand Act 1989.
+    (iii) a settlement instruction or a settlement under the rules of a settlement system that is declared to be a designated settlement system under Part 5C of the Banking (Prudential Supervision) Act 1989.
 (3) A disclaimer under this section—
   (a) brings to an end on and from the date of the disclaimer the rights, interests, and liabilities of the company in relation to the property disclaimed:
   (b) does not, except so far as necessary to release the company from a liability, affect the rights or liabilities of any other person.
@@ -4819,7 +4819,7 @@ If a person whose rights would be affected by the disclaimer of onerous property
   (a) a company that is, or has been, related to the company in liquidation must pay to the liquidator the whole or part of any or all of the claims made in the liquidation:
   (b) where 2 or more related companies are in liquidation, the liquidations in respect of each company must proceed together as if they were 1 company to the extent that the court so orders and subject to such terms and conditions as the court may impose.
 (2) The court may make such other order or give such directions to facilitate giving effect to an order under subsection (1) as it thinks fit.
-(3) This section is subject to section 139J(4) of the Reserve Bank of New Zealand Act 1989.
+(3) This section is subject to section 139J(4) of the Banking (Prudential Supervision) Act 1989.
 
 ### 271A Notice that application filed must be given to administrators and creditors
 (1) Unless the court orders otherwise, an applicant for an order under section 271(1)﻿(b) must give notice that the application has been filed to the liquidator and each creditor of each related company in liquidation.
@@ -6267,7 +6267,7 @@ Where, pursuant to this Act or any regulations under this Act, any action is req
   (b) a date by which the confirmation or correction must be provided; and
   (c) whether the confirmation or correction must be verified by the production of original documents or certified copies of original documents or by a statutory declaration.
 (2) Nothing in this section limits or affects the Tax Administration Act 1994 or the Statistics Act 1975.
-(3) The Registrar or a person authorised by the Registrar must consult with the Reserve Bank of New Zealand before exercising any of the powers conferred by subsection (1) if the purpose of exercising the power relates to a company that is a registered bank (within the meaning of section 2 of the Reserve Bank of New Zealand Act 1989).
+(3) The Registrar or a person authorised by the Registrar must consult with the Reserve Bank of New Zealand before exercising any of the powers conferred by subsection (1) if the purpose of exercising the power relates to a company that is a registered bank (within the meaning of section 2 of the Banking (Prudential Supervision) Act 1989).
 (4) A person must not obstruct or hinder the Registrar or a person authorised by the Registrar while exercising a power conferred by subsection (1).
 (5) Any person who—commits an offence and is liable on conviction to the penalty set out in section 373(2).
   (a) fails to comply with a requirement under subsection (1)﻿(caaa) or (c); or
@@ -7452,8 +7452,8 @@ Except as provided in this schedule and in any regulations made under this Act, 
   (b) before enforcement of the interest, the collateral is transferred or otherwise dealt with so as to be in the possession or under the control of—
     (i) the enforcing counterparty; or
     (ii) another person (who is not the company that granted the security interest) on behalf of the enforcing counterparty, under the terms of an arrangement evidenced in writing.
-(3B) Terms and expressions defined in section 122A of the Reserve Bank of New Zealand Act 1989 and used in subclause (3A) have in that subclause the same meanings as in that section.
-(3C) Section 122B of the Reserve Bank of New Zealand Act 1989 applies with all necessary modifications for the purposes of subclause (3A)﻿(b) (and those modifications include treating references to section 122(9A)﻿(b) of that Act as references to subclause (3A)﻿(b) of this clause and treating references to the grantor as references to the company that granted the security interest).
+(3B) Terms and expressions defined in section 122A of the Banking (Prudential Supervision) Act 1989 and used in subclause (3A) have in that subclause the same meanings as in that section.
+(3C) Section 122B of the Banking (Prudential Supervision) Act 1989 applies with all necessary modifications for the purposes of subclause (3A)﻿(b) (and those modifications include treating references to section 122(9A)﻿(b) of that Act as references to subclause (3A)﻿(b) of this clause and treating references to the grantor as references to the company that granted the security interest).
 (4) Clause 9 of this schedule, as was in force immediately before the commencement of the Personal Property Securities Act 1999, continues to apply in respect of a company whose property was subject to a floating charge that, before the commencement of that Act, became a fixed or specific charge.
 
 ### 3 Provisions concerning preferential payments to employees
