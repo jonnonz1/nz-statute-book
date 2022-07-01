@@ -1,5 +1,5 @@
 # Misuse of Drugs Act 1975
-_Consolidation as at 2021-12-07_
+_Consolidation as at 2022-07-01_
 
 > An Act to consolidate and amend the Narcotics Act 1965 and to make further provision for the prevention of misuse of drugs
 
@@ -314,13 +314,13 @@ For the purposes of this Act, the functions of the Minister include the provisio
 (1) Despite sections 6 and 7,—
   (a) any medical practitioner, dentist, or veterinarian may prescribe, produce, manufacture, supply, or administer controlled drugs:
   (b) any pharmacist or any person with the authority and under the immediate supervision of a pharmacist may produce, manufacture, or supply controlled drugs—
-    (i) listed in the pharmaceutical schedule within the meaning of the New Zealand Public Health and Disability Act 2000 for the purposes of a person eligible for a subsidy for the supply of controlled drugs; or
+    (i) listed in the pharmaceutical schedule within the meaning of the Pae Ora (Healthy Futures) Act 2022 for the purposes of a person eligible for a subsidy for the supply of controlled drugs; or
     (ii) for the purposes of the hospital in which he or she is employed; or
     (iii) pursuant to a prescription or order issued by a medical practitioner, dentist, nurse practitioner, optometrist, midwife, designated prescriber, or veterinarian:
   (c) any person for whom a controlled drug is supplied by a medical practitioner or dentist, or prescribed by a medical practitioner or dentist and lawfully supplied, may administer that drug to himself or herself in accordance with the advice of the medical practitioner or dentist who supplied or prescribed it:
   (d) any person having the care of a patient for whom a controlled drug is supplied by a medical practitioner or dentist, or prescribed by a medical practitioner or dentist and lawfully supplied, may administer that drug to that patient in accordance with the advice of the medical practitioner or dentist who supplied or prescribed it:
   (e) any person having the care of an animal for which a controlled drug is supplied by a veterinarian, or prescribed by a veterinarian and lawfully supplied, may administer that drug to that animal in accordance with the advice of the veterinarian who supplied or prescribed it:
-  (f) any district health board established by or under the New Zealand Public Health and Disability Act 2000 or other corporate body, and any individual person who is the manager or person licensed to carry on a hospital or any other institution, that has the care of patients for whom controlled drugs are lawfully prescribed or supplied may possess those drugs for the purposes of the treatment of those patients:
+  (f) Health New Zealand established by section 11 of the Pae Ora (Healthy Futures) Act 2022 or other corporate body, and any individual person who is the manager or person licensed to carry on a hospital or any other institution, that has the care of patients for whom controlled drugs are lawfully prescribed or supplied may possess those drugs for the purposes of the treatment of those patients:
   (g) any person in the service of the Crown, or any Medical Officer of Health or any pharmacist approved by a Medical Officer of Health, may procure and possess a controlled drug for the purposes of and in connection with his or her official duties:
   (h) any carrier may possess a controlled drug in the course of carriage to such extent as is necessary or incidental to the carrier’s business:
   (i) any person who is permitted by or under this Act to import, export, supply, or administer a controlled drug may procure that drug from a person lawfully entitled to supply it and may possess that drug in the manner and for the purposes expressed or implied in that authority:
@@ -627,7 +627,7 @@ Every person commits an offence against this Act who wilfully obstructs, hinders
 (1) If a Medical Officer of Health has reason to believe that any person is or is likely to become dependent on any controlled drug, he may, for the purpose of preventing or restricting the supply of controlled drugs to that person, or of assisting in the cure or mitigation or avoidance of the dependence of that person, publish statements relating to that person to all or any of the members of all or any of the classes of persons set out in subsection (3).
 (2) Every statement made under subsection (1) shall be privileged unless the publication is proved to be made with malice.
 (3) The classes of persons referred to in subsection (1) are as follows:
-  (a) employees of any district health board established by or under the New Zealand Public Health and Disability Act 2000:
+  (a) employees of Health New Zealand established by section 11 of the Pae Ora (Healthy Futures) Act 2022:
   (aa)
   (b) a hospital care operator within the meaning of section 58(4) of the Health and Disability Services (Safety) Act 2001:
   (c) managers of prisons within the meaning of the Corrections Act 2004:
