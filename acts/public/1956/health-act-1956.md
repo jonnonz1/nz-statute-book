@@ -1,5 +1,5 @@
 # Health Act 1956
-_Consolidation as at 2022-06-09_
+_Consolidation as at 2022-07-01_
 
 > An Act to consolidate and amend the law relating to public health
 
@@ -20,7 +20,6 @@ _Consolidation as at 2022-06-09_
     (a) by air; or
     (b) on or under water
   - **Director-General** means the chief executive under the Public Service Act 2020 of the Ministry of Health; and, in relation to any power or function delegated by that chief executive, includes any person to whom that chief executive has delegated that power or function
-  - **district health board** means a district health board established by or under section 19 of the New Zealand Public Health and Disability Act 2000
   - **drinking water standards** means the standards made under section 47 of the Water Services Act 2021
   - **dwellinghouse** means any building, tent, caravan, or other structure or erection, whether permanent or temporary, that is used or intended to be used in whole or in part for human habitation, and includes the land and any outbuildings and appurtenances belonging thereto or usually enjoyed therewith
   - **educational institution** —
@@ -29,12 +28,14 @@ _Consolidation as at 2022-06-09_
   - **environmental health officer** means an environmental health officer appointed under section 28 or a health protection officer
   - **epidemic management notice** means a notice under section 8(1) of the Epidemic Preparedness Act 2006
   - **epidemic notice** means a notice under section 5(1) of the Epidemic Preparedness Act 2006
+  - **Health New Zealand** has the meaning in section 4 of the Pae Ora (Healthy Futures) Act 2022
   - **health practitioner** has the same meaning as in section 5(1) of the Health Practitioners Competence Assurance Act 2003
   - **health protection officer** means a person designated by the Director-General as a health protection officer under this Act
   - **health provider** means a person or an organisation that provides, or arranges the provision of, personal health services or public health services
   - **hospital** means a hospital care institution within the meaning of section 58(4) of the Health and Disability Services (Safety) Act 2001
   - **infectious disease** means any disease for the time being specified in Part 1 or Part 2 of Schedule 1
   - **local authority** means a territorial authority within the meaning of the Local Government Act 2002
+  - **Māori Health Authority** has the meaning in section 4 of the Pae Ora (Healthy Futures) Act 2022
   - **medical examination** , in Part 3A, means the physical examination or testing of a person for the purpose of determining whether the person has or is likely to have an infectious disease, and includes—
     (a) the taking of a sample of tissue, blood, urine, or other bodily material for medical testing; and
     (b) any diagnostic tests required to detect the presence of, or immunity to, an infectious disease in a person
@@ -48,19 +49,19 @@ _Consolidation as at 2022-06-09_
   - **offensive trade** means any trade, business, manufacture, or undertaking for the time being specified in Schedule 3
   - **owner** , in relation to any land or premises, means the person for the time being entitled to receive the rent of the land or premises, whether on his own account or as the agent of or trustee for any other person, or who would be so entitled if the land or premises were let at a rent, and includes any person for the time being registered under the Land Transfer Act 2017 as owner of the land or premises
   - **passenger** , in relation to a craft means any person in or on it who is not a member of its crew
-  - **personal health** has the same meaning as in section 6(1) of the New Zealand Public Health and Disability Act 2000
-  - **personal health services** has the same meaning as in section 6(1) of the New Zealand Public Health and Disability Act 2000
+  - **personal health** has the meaning in section 4 of the Pae Ora (Healthy Futures) Act 2022
+  - **personal health services** has the meaning in section 4 of the Pae Ora (Healthy Futures) Act 2022
   - **potable water** means water that—
     (a) is safe to drink; and
     (b) complies with the drinking water standards
   - **premises** includes any commercial premises, private premises, vehicle, ship, or aircraft
   - **prescribed** means prescribed by this Act or by regulations or bylaws thereunder
-  - **public health** has the same meaning as in section 6(1) of the New Zealand Public Health and Disability Act 2000
+  - **public health** has the meaning in section 4 of the Pae Ora (Healthy Futures) Act 2022
   - **public health order** means an order made under section 92Z
   - **public health risk** , in Part 3A and sections 74 and 74AA, means a substantial risk of serious harm that 1 or more individuals who have, or may have, an infectious disease pose to the health or safety of 1 or more other persons because of the infectious disease, having regard to—
     (a) the nature of the infectious disease, including, without limitation, the transmissibility and mode of transmission of the infectious disease; and
     (b) the relevant circumstances of the particular case
-  - **public health services** has the same meaning as in section 6(1) of the New Zealand Public Health and Disability Act 2000
+  - **public health services** has the meaning in section 4 of the Pae Ora (Healthy Futures) Act 2022
   - **quarantinable disease** means a disease stated in Part 3 of Schedule 1
   - **ship** includes every description of vessel used in navigation
   - **smoke** includes any fumes, gases, dust, soot, grit, or other matters produced in the process of combustion.
@@ -93,8 +94,8 @@ Without limiting any other enactment or rule of law, and without limiting any ot
   (a) personal health matters relating to public health; and
   (b) regulatory matters relating to public health.
 (3) Nothing in this section—
-  (a) limits any other enactment or rule of law; or
-  (b) limits the functions of the Ministry or of any other person or body.
+  (a) limits any other enactment or rule of law.
+  (b)
 
 ### 3C Director-General to produce annual report on current state of public health
 (1) Without limiting section 43 of the Public Finance Act 1989, the Director-General shall in each year give to the Minister a report on the current state of public health in New Zealand.
@@ -107,18 +108,20 @@ Without limiting any other enactment or rule of law, and without limiting any ot
 (2) In exercising the functions of the Director under this section, the Director shall not be responsible to the Director-General, but shall act independently.
 (3) Nothing in subsection (2) limits the responsibility of the Director of Public Health to the Director-General for the efficient, effective, and economical management of the activities of the Director of Public Health.
 
-### 3E Public Health Group
-(1) There shall be a division of the Ministry called the Public Health Group.
-(2) The Public Health Group shall consist of such employees of the Ministry as the Director-General from time to time determines.
-(3) The Public Health Group shall have the function of advising the Director-General on matters relating to public health, including—
-  (a) personal health matters relating to public health; and
-  (b) regulatory matters relating to public health.
+### 3E Public Health Agency
+(1) There shall be a division of the Ministry called the Public Health Agency.
+(2) The Public Health Agency shall consist of such employees of the Ministry as the Director-General from time to time determines.
+(3) The functions of the Public Health Agency are—
+  (a) to provide systems leadership across the public health sector; and
+  (b) to advise the Director-General on matters relating to public health, including—
+    (i) personal health matters relating to public health; and
+    (ii) regulatory and strategic matters relating to public health.
 (4) Nothing in this section—
   (a) limits any other enactment or rule of law; or
   (b) limits the functions of the Ministry or of any other person or body.
 
-### 3F Public Health Group to consult
-In order to ensure that the views of the public, persons involved in the provision of personal health services and public health services, and other persons are able to be considered in the formulation of the Public Health Group's advice to the Director-General under section 3E(3), the Public Health Group shall institute a programme of regular consultation with such members of the public, persons involved in the provision of personal health services and public health services, and other persons as the Director-General (after consultation with the Minister) considers appropriate, but nothing in this section shall be taken to require such consultation before each and every occasion on which such advice is formulated.
+### 3F Public Health Agency to consult
+In order to ensure that the views of the public, persons involved in the provision of personal health services and public health services, and other persons are able to be considered in the formulation of the Public Health Agency’s advice to the Director-General under section 3E(3), the Public Health Agency shall institute a programme of regular consultation with such members of the public, persons involved in the provision of personal health services and public health services, and other persons as the Director-General (after consultation with the Minister) considers appropriate, but nothing in this section shall be taken to require such consultation before each and every occasion on which such advice is formulated.
 
 ### 4 Department of Health
 [Repealed]
@@ -150,6 +153,8 @@ In order to ensure that the views of the public, persons involved in the provisi
 (6) Any designation by the Director-General under this section of any person as a medical officer of health, health protection officer, or other officer may be made on such terms and conditions as the Director-General considers appropriate; and that person shall exercise the functions, duties, and powers of that office in accordance with any direction of the Director-General.
 (7) Where by virtue of any enactment, a reasonable belief in any particular state of affairs is a prerequisite for the exercise of any power by a medical officer of health, health protection officer, or other officer designated by the Director-General, it shall be sufficient if that officer exercises that power at the direction of the Director-General (or any other person designated by the Director-General for the purposes of this subsection) so long as, at the time of giving the direction, the Director-General or other person held such a belief in that state of affairs.
 (8) A medical officer of health for any health district may perform or exercise in that or any other health district any of the functions, duties, or powers of a medical officer of health that relate to contact tracing.
+(9) To avoid doubt, the Director-General may revoke a designation of a person as a medical officer of health or health protection officer under this section.
+(10) The Director-General must consult the Director of Public Health before revoking a designation of a medical officer of health.
 
 ### 8 Conservation of public health in areas outside jurisdiction of local authorities
 (1) The improvement, promotion, and protection of public health in any outlying islands or other areas that are not for the time being within the jurisdiction of any local authority or of any harbour board shall be a function of the Ministry, which for the purposes of this section shall be deemed to be a local authority.
@@ -216,6 +221,7 @@ The fact that any medical officer of health or any health protection officer exe
 ### 22 Certain officers to have functions of medical officers of health
 (1) Every person who holds the office of Director-General of Health shall, if that person is a medical practitioner suitably experienced and qualified in public health medicine, have all the functions of a medical officer of health, and may exercise those functions in any part of New Zealand.
 (2) Every person who holds the office of Director-General of Health and is not a medical practitioner suitably experienced and qualified in public health medicine shall designate a medical practitioner or medical practitioners who is or are employed in the Ministry and who is or are suitably experienced and qualified in public health medicine to exercise the functions of a medical officer of health in any part of New Zealand.
+(3) A person who holds office as Director of Public Health has the functions of a medical officer of health and may exercise them in any part of New Zealand if they are a medical practitioner specialising in public health.
 
 ### 22A Powers of departmental officers under Factories and Commercial Premises Act 1981
 [Repealed]
@@ -240,7 +246,7 @@ In this section and sections 22C to 22H, unless the context otherwise requires,�
     (a) where the individual is dead, that individual's personal representative:
     (b) where the individual is under the age of 16 years, that individual's parent or guardian:
     (c) subject to paragraphs (a) and (b), where the individual is unable to give his or her consent or authority, a person appearing to be lawfully acting on the individual's behalf or in that individual's interests
-  - **services** has the same meaning as in section 6(1) of the New Zealand Public Health and Disability Act 2000.
+  - **services** has the same meaning as in section 4 of the Pae Ora (Healthy Futures) Act 2022.
 
 ### 22C Disclosure of health information
 (1) Any person (being an agency that provides services or arranges the provision of services) may disclose health information—
@@ -262,15 +268,17 @@ In this section and sections 22C to 22H, unless the context otherwise requires,�
     (ii) compiling statistics for health purposes:
   (h) any employee of the Ministry of Agriculture and Forestry authorised by the chief executive of that Ministry to receive the information, for the purposes of administering the Meat Act 1981 or the Animal Products Act 1999:
   (i) any employee of the New Zealand Transport Agency, for statistical or research purposes in relation to road safety or the environment:
-  (j) any employee of a district health board, for the purposes of exercising or performing any of that board's powers, duties, or functions under the New Zealand Public Health and Disability Act 2000.
+  (j) an employee of Health New Zealand, for the purposes of exercising or performing any of that entity’s powers, duties, or functions under the Pae Ora (Healthy Futures) Act 2022:
+  (k) an employee of the Māori Health Authority, for the purposes of exercising or performing any of that entity’s powers, duties, or functions under the Pae Ora (Healthy Futures) Act 2022:
+  (l) an employee of the New Zealand Blood and Organ Service, for the purposes of exercising or performing any of that entity’s powers, duties, or functions under the Pae Ora (Healthy Futures) Act 2022.
 (3) For the purposes of information privacy principle 11(1)﻿(c) set out in section 22 of the Privacy Act 2020, the disclosure of health information about an individual may be authorised—
   (a) by that individual personally, if he or she has attained the age of 16 years; or
   (b) by a representative of that individual.
 (4) Information provided or obtained under Part 3A may not be used or disclosed by anyone except as authorised or required under a provision of this Act or another Act.
 
 ### 22D Duty to provide health information
-(1) The Minister may at any time, by notice in writing, require any district health board to provide, in such manner as may from time to time be required, such returns or other information as is specified in the notice concerning the condition or treatment of, or the services provided to, any individuals in order to obtain statistics for health purposes or for the purposes of advancing health knowledge, health education, or health research.
-(2) Subject to subsection (3), it is the duty of a district health board to provide the returns or other information specified in a notice given to it under subsection (1) within such time, and in such form, as is specified in the notice.
+(1) The Minister may at any time, by notice in writing, require Health New Zealand or the Māori Health Authority to provide, in such manner as may from time to time be required, such returns or other information as is specified in the notice concerning the condition or treatment of, or the services provided to, any individuals in order to obtain statistics for health purposes or for the purposes of advancing health knowledge, health education, or health research.
+(2) Subject to subsection (3), it is the duty of Health New Zealand or the Māori Health Authority to provide the returns or other information specified in a notice given to it under subsection (1) within such time, and in such form, as is specified in the notice.
 (3) No information that would enable the identification of an individual may be provided under this section unless—
   (a) the individual consents to the provision of such information; or
   (b) the identifying information is essential for the purposes for which the information is sought.
@@ -279,7 +287,7 @@ In this section and sections 22C to 22H, unless the context otherwise requires,�
   (b) by a representative of that individual.
 
 ### 22E Duty to provide information for purposes of blood collection
-The Minister may, at any time, by notice in writing, require a district health board to provide to an entity appointed under section 63 of the Human Tissue Act 2008, in such manner as the Minister specifies in the notice, such information as is specified in the notice, being health information of the kind referred to in paragraph (d) or paragraph (e) of the definition of that term in section 22B.
+The Minister may, at any time, by notice in writing, require Health New Zealand or the Māori Health Authority to provide to an entity appointed under section 63 of the Human Tissue Act 2008, in such manner as the Minister specifies in the notice, such information as is specified in the notice, being health information of the kind referred to in paragraph (d) or paragraph (e) of the definition of that term in section 22B.
 
 ### 22F Communication of information for diagnostic and other purposes
 (1) Every person who holds health information of any kind shall, at the request of the individual about whom the information is held, or a representative of that individual, or any other person that is providing, or is to provide, services to that individual, disclose that information to that individual or, as the case requires, to that representative or to that other person.
@@ -296,7 +304,7 @@ The Minister may, at any time, by notice in writing, require a district health b
 
 ### 22G Inspection of records
 (1) In this section, provider means a person who has claimed payment for services from 1 or more of the following:
-  (a) the Ministry of Health:
+  (a) a department of the Crown that funds services within the meaning of section 4 of the Pae Ora (Healthy Futures) Act 2022:
   (b) a district health board:
   (c) the Health Funding Authority or a person authorised by the Health Funding Authority to make payments:
   (d) a regional health authority or a person authorised by a regional health authority to make payments:
@@ -304,9 +312,11 @@ The Minister may, at any time, by notice in writing, require a district health b
   (f) a Crown health enterprise:
   (g) an area health board:
   (h) a hospital board:
-  (i) the Department of Health.
-(2) Every provider must, forthwith after a request by the Director-General or the chief executive of a district health board or of Health Benefits Limited, make available any records of the provider that relate to the services concerned for inspection—
-  (a) by a person authorised in writing by the Director-General or the chief executive of the district health board or Health Benefits Limited (as the case may be) for this purpose, being a person who holds a professional qualification relevant to the services provided by the provider or any other person the Director-General or the chief executive considers appropriate; and
+  (i) the Department of Health:
+  (j) Health New Zealand:
+  (k) Māori Health Authority.
+(2) Every provider must, forthwith after a request by the Director-General or the chief executive of Health New Zealand or the Māori Health Authority or of Health Benefits Limited, make available any records of the provider that relate to the services concerned for inspection—
+  (a) by a person authorised in writing by the Director-General or the chief executive of Health New Zealand or the Māori Health Authority or Health Benefits Limited (as the case may be) for this purpose, being a person who holds a professional qualification relevant to the services provided by the provider or any other person the Director-General or the chief executive considers appropriate; and
   (b) for the purpose of verifying the claim for payment.
 (3) Any person authorised in accordance with subsection (2) to inspect the records of a provider may copy or take notes of those records for the purposes of the inspection.
 
@@ -1435,7 +1445,7 @@ On an application by a medical officer of health, the District Court may make a 
   (i) to refrain from associating with specified persons or specified classes of persons:
   (j) to take specified actions to prevent or minimise the public health risk posed by the individual.
 (2) Before the court imposes a requirement of the kind described in subsection (1)﻿(f), the court must be satisfied that, short of detaining the individual indefinitely, treating him or her is the only effective means of managing the public health risk posed by the individual.
-(3) If an order requires an individual to be detained in a hospital or other place operated by a district health board, the district health board must permit the individual to be detained in the hospital or place.
+(3) If an order requires an individual to be detained in a hospital or other place operated by Health New Zealand, Health New Zealand board must permit the individual to be detained in the hospital or place.
 (4) The court may impose any requirement specified in subsection (1) subject to any conditions or restrictions that the court considers appropriate.
 
 ### 92ZB Matters that District Court may take into account in assessing public health risk
@@ -1644,7 +1654,7 @@ Contact tracing, in respect of an individual with an infectious disease or suspe
 (1) For the purposes of this Part, in any case involving proposed or actual contact tracing in respect of an individual, the contact tracer may be a—
   (a) medical officer of health:
   (b) health protection officer:
-  (c) person suitably qualified in health or community work who is nominated to undertake contact tracing by a district health board or medical officer of health.
+  (c) person suitably qualified in health or community work who is nominated to undertake contact tracing by Health New Zealand or medical officer of health.
 (2) To avoid doubt, nothing in this Part makes it unlawful to undertake contact tracing otherwise than under this Part.
 
 ### 92ZZB Appropriateness of contact tracing
@@ -2004,13 +2014,13 @@ The objectives of the NCSP are to—
   (a) a health practitioner engaged by or on behalf of a woman to provide cervical screening services to that woman, for the purpose of providing cervical screening services in relation to that woman:
   (b) a health practitioner engaged to provide cervical screening services in relation to the woman by or on behalf of a health practitioner referred to in paragraph (a), for the purpose of providing cervical screening services in relation to that woman:
   (c) administrative support staff engaged by a health practitioner referred to in paragraph (a) or (b) who access the information at the direction of the health practitioner, for the purpose of providing cervical screening services in relation to that woman:
-  (d) district health board NCSP team staff performing the functions of NCSP register administrators and any other person or class of persons authorised for that purpose by the NCSP manager, for the purpose of supporting the operation of the NCSP:
-  (e) a person engaged by the Ministry of Health or a district health board, and any other person or class of persons authorised for that purpose by the NCSP manager, for the purpose of providing support services to women experiencing barriers to accessing cervical screening services:
+  (d) Health New Zealand NCSP team staff performing the functions of NCSP register administrators and any other person or class of persons authorised for that purpose by the NCSP manager, for the purpose of supporting the operation of the NCSP:
+  (e) a person engaged by the Ministry of Health or Health New Zealand, and any other person or class of persons authorised for that purpose by the NCSP manager, for the purpose of providing support services to women experiencing barriers to accessing cervical screening services:
   (f) a person authorised by the NCSP manager, for the purpose of providing information to any person authorised to receive it under subsection (3) or (4).
 (3) Register information may be disclosed by a person referred to in subsection (2)﻿(f), to—
   (a) a person authorised to access the NCSP register under subsection (2), for the authorised purpose; or
-  (b) a person engaged by the Ministry of Health or a district health board, and any other person or class of persons authorised for that purpose by the NCSP manager, for the purpose of enabling results from a screening test or a diagnostic test to be followed up; or
-  (c) a person engaged by the Ministry of Health or a district health board, and any other person or class of persons authorised for that purpose by the NCSP manager, for the purpose of enabling notices related to the NCSP to be sent to women who are enrolled in the NCSP, including reminder notices to women who are due for another screening test.
+  (b) a person engaged by the Ministry of Health or Health New Zealand, and any other person or class of persons authorised for that purpose by the NCSP manager, for the purpose of enabling results from a screening test or a diagnostic test to be followed up; or
+  (c) a person engaged by the Ministry of Health or Health New Zealand, and any other person or class of persons authorised for that purpose by the NCSP manager, for the purpose of enabling notices related to the NCSP to be sent to women who are enrolled in the NCSP, including reminder notices to women who are due for another screening test.
 (4) NCSP information may be accessed and disclosed by a person authorised for that purpose by the NCSP manager, if the disclosure is—
   (a) to a screening programme evaluator under section 112X(2)﻿(a); or
   (b) to a review committee, in accordance with a request from that committee under section 112Q(1); or
