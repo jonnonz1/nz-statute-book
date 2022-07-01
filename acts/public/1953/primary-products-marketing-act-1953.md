@@ -1,5 +1,5 @@
 # Primary Products Marketing Act 1953
-_Consolidation as at 2021-10-28_
+_Consolidation as at 2022-07-01_
 
 > An Act to provide for the establishment of Marketing Authorities for the purpose of regulating the marketing of primary products and to make provisions with respect to those Authorities
 
@@ -50,7 +50,7 @@ In this Act, unless the context otherwise requires,—
 (5) Any regulations made under this Act may apply generally throughout New Zealand or within any specified district or districts or part or parts thereof.
 (6)
 (7) Where regulations made under this Act provide for the payment of a levy to a Marketing Authority, they may also—
-  (a) require every person liable to pay the levy, or every person of any kind or description liable to pay the levy, to keep (in relation to that person, or in relation to that person and some other matter or thing) at a registered bank within the meaning of the Reserve Bank of New Zealand Act 1989 a bank account (in this subsection and subsections (8) to (11) referred to as a trust account); and
+  (a) require every person liable to pay the levy, or every person of any kind or description liable to pay the levy, to keep (in relation to that person, or in relation to that person and some other matter or thing) at a registered bank within the meaning of the Banking (Prudential Supervision) Act 1989 a bank account (in this subsection and subsections (8) to (11) referred to as a trust account); and
   (b) require every person required to keep a trust account to—
     (i) ensure that it is so named as to identify the person (and, where appropriate, the matter or thing in respect of which it is kept) and that it is a trust account kept for the purposes of this subsection; and
     (ii) pay amounts into it; and
