@@ -1,5 +1,5 @@
 # Insurance (Prudential Supervision) Act 2010
-_Consolidation as at 2021-10-28_
+_Consolidation as at 2022-07-01_
 
 ### 1 Title
 This Act is the Insurance (Prudential Supervision) Act 2010.
@@ -71,7 +71,7 @@ In achieving the purposes of this Act, the Bank must take into account the follo
     (d) includes a person appointed as an actuary by a statutory manager under section 192
   - **approved rating agency** means a rating agency approved by the Bank under section 62
   - **associated person** has the meaning set out in section 10(2)
-  - **Bank** means the Reserve Bank of New Zealand constituted under the Reserve Bank of New Zealand Act 1989
+  - **Bank** means the Reserve Bank of New Zealand continued under the Reserve Bank of New Zealand Act 2021
   - **Bank's Internet site** means an Internet site maintained by, or on behalf of, the Bank
   - **captive insurer** means an insurer that—
     (a) is a subsidiary of an entity that is not an insurer (the parent); and
@@ -108,7 +108,7 @@ In achieving the purposes of this Act, the Bank must take into account the follo
     (b) in relation to a partnership or other unincorporated body of persons, either—
       (i) the board of directors (or other persons or body exercising powers of management, however described) of the partnership or other unincorporated body of persons; or
       (ii) if there is no board or other persons or body as described in subparagraph (i), the partners of the partnership or members of the unincorporated body of persons
-  - **Governor** means the Governor of the Bank appointed under the Reserve Bank of New Zealand Act 1989
+  - **Governor** means a person who occupies the position of Governor of the Bank (whether the person is appointed under section 82 or 96 of the Reserve Bank of New Zealand Act 2021)
   - **group financial statements** has the same meaning as in section 7 of the Financial Reporting Act 2013
   - **health insurance** means insurance against a liability to pay fees or charges relating to the provision of a health service (within the meaning of section 5(1) of the Health Practitioners Competence Assurance Act 2003)
   - **holding entity** has the meaning set out in section 10(3)
@@ -195,8 +195,8 @@ In achieving the purposes of this Act, the Bank must take into account the follo
     (a) means a subsidiary within the meaning of sections 5 to 8 of the Companies Act 1993; and
     (b) in section 81, includes any entity that is classified as a subsidiary in any applicable financial reporting standard (within the meaning of section 5 of the Financial Reporting Act 2013)
   - **voluntary administration** means voluntary administration under Part 15A of the Companies Act 1993
-  - **voting right** has the same meaning as in section 2(1) of the Reserve Bank of New Zealand Act 1989
-  - **voting security** has the same meaning as in section 2(1) of the Reserve Bank of New Zealand Act 1989.
+  - **voting right** has the same meaning as in section 2(1) of the Banking (Prudential Supervision) Act 1989
+  - **voting security** has the same meaning as in section 2(1) of the Banking (Prudential Supervision) Act 1989.
 (2) For the purposes of this Act, a reference to an insurer's insurance business includes business relating to the investment, administration, and management of the assets of the insurer and of its statutory funds (if any).
 (3) For the purposes of this Act, a licensed insurer or an associated person is operating fraudulently or recklessly if—
   (a) it contracts liabilities that the directors did not, at the time the liabilities were contracted, honestly believe on reasonable grounds the insurer or person would be able to pay when they fell due for payment as well as all its other liabilities (including contingent liabilities); or
@@ -295,16 +295,7 @@ The functions of the Bank under this Act are to—
   (d) carry out other functions and duties and exercise powers conferred on it by this Act and the regulations.
 
 ### 13 Bank must have regard to directions about Government policy objectives
-(1) The Minister may direct the Bank to have regard to a Government policy that relates to the Bank's functions under this Act.
-(2) The Bank must have regard to every direction given by the Minister under this section.
-(3) The Minister must consult with the Bank before giving a direction.
-(4) A direction must—
-  (a) be set out in a written statement signed by the Minister; and
-  (b) as soon as practicable after it is given, be—
-    (i) presented to the House of Representatives by the Minister; and
-    (ii) published in the Gazette.
-(5) The Minister may not give a direction that requires the performance or non-performance of a particular act by the Bank, or by any employee or officer of the Bank, or the bringing about of a particular result, in respect of a particular person.
-(6) A direction may be amended, revoked, or replaced in the same way as it may be given.
+[Repealed]
 
 **Act binds the Crown**
 
@@ -558,7 +549,7 @@ If a licensed insurer (the first insurer) accepts an assignment of liabilities f
 (2) However, if the group policy does not comply with the requirements of section 34(1) to (4) in any respect, the licensed insurer must prepare a supplementary document that, when taken together with the group policy, ensures that the requirements of section 34(1) to (4) are complied with (in which case the insurer's fit and proper policy must be taken to be the group policy together with the supplementary document).
 
 ### 36 Fit and proper standards
-(1) The Bank may, by a notice signed by the Governor, issue fit and proper standards for the purposes of section 34(3) that—
+(1) The Bank may issue fit and proper standards for the purposes of section 34(3) that—
   (a) specify matters that are relevant to the consideration of whether a person is a fit and proper person to be appointed to, and continue to hold, a position as a director or relevant officer; and
   (b) specify the manner in which those matters must be taken into account in respect of a fit and proper policy.
 (2) A fit and proper standard may be expressed to apply in relation to—
@@ -704,10 +695,7 @@ Nothing in sections 44 to 51 invalidates any transfer or amalgamation made witho
 **Publication of policies**
 
 ### 54 Publication of policies
-The Bank must publish its policies in relation to how it acts, or proposes to act,—
-  (a) in determining applications for licences; and
-  (b) in imposing, varying, removing, or adding to conditions of licences; and
-  (c) in determining requests for approvals under section 45.
+[Repealed]
 
 **Register**
 
@@ -725,7 +713,7 @@ The Bank must publish its policies in relation to how it acts, or proposes to ac
 **Solvency standards**
 
 ### 55 Bank may issue solvency standards
-(1) The Bank may, by a notice signed by the Governor, issue solvency standards for the purposes of this Act.
+(1) The Bank may issue solvency standards for the purposes of this Act.
 (2) A solvency standard may be expressed to apply in relation to—
   (a) all licensed insurers or applicants; or
   (b) a specified class or classes of licensed insurers or applicants; or
@@ -904,7 +892,7 @@ A licensed insurer commits an offence if it fails to comply with any of sections
   (c) set out appropriate documentation and record-keeping requirements; and
   (d) describe the steps that the licensed insurer will take to ensure that the programme remains current, which must include procedures for regular review of the programme to systematically identify and address deficiencies in the effectiveness of the programme; and
   (e) be appropriate to the operations of the licensed insurer, having regard to the factors relevant to the risks referred to in paragraph (b) (for example, the size of the licensed insurer, its corporate structure (including its relationship with associated persons), its funding structure, the market sector in which it operates, and its business strategy).
-(3) The Bank may issue, in the manner that the Governor thinks fit, guidelines relating to the risk categories referred to in subsection (2)﻿(b) that must be covered by the risk management programme (being guidelines that do not have the force of law).
+(3) The Bank may issue, in the manner that the Bank thinks fit, guidelines relating to the risk categories referred to in subsection (2)﻿(b) that must be covered by the risk management programme (being guidelines that do not have the force of law).
 (4) A licensed insurer must obtain the Bank's approval before its risk management programme is amended in a material way.
 (5) However, if it is not reasonably practicable for a licensed insurer to obtain the Bank's approval before its risk management programme is amended in a material way (for example, because the amendment needs to be made urgently),—
   (a) the insurer may amend the risk management programme before obtaining the approval; but
@@ -1193,7 +1181,7 @@ The following amounts must be credited by a life insurer to a statutory fund:
 (5) A transaction is not ineffective merely because it involves a contravention of subsection (2)﻿(c) or (d).
 (6) Nothing in this section—
   (a) prevents a life insurer from investing money of a statutory fund by way of deposit with—
-    (i) a registered bank (within the meaning of the Reserve Bank of New Zealand Act 1989); or
+    (i) a registered bank (within the meaning of the Banking (Prudential Supervision) Act 1989); or
     (ii) a bank that is authorised to accept deposits under the law of an overseas jurisdiction; or
   (b) requires the approval of the Bank for such an investment.
 (7) For the purposes of this subpart, an investment by way of a loan is to be taken to be made when the loan agreement is entered into.
@@ -1205,7 +1193,7 @@ The following amounts must be credited by a life insurer to a statutory fund:
 (1) A life insurer must, in the prescribed manner, keep a record of its restricted investments.
 (2) In this section, restricted investment—
   (a) means any investment of assets of a statutory fund of a life insurer in a related party; but
-  (b) does not include an investment of assets of a statutory fund by way of deposit with a registered bank (within the meaning of the Reserve Bank of New Zealand Act 1989), even though the bank is a related party of the life insurer concerned.
+  (b) does not include an investment of assets of a statutory fund by way of deposit with a registered bank (within the meaning of the Banking (Prudential Supervision) Act 1989), even though the bank is a related party of the life insurer concerned.
 
 ### 101 Transfer of assets between funds
 (1) A life insurer must not transfer an asset from one statutory fund to another statutory fund except in accordance with subsection (2), or sections 109 to 111, or section 114 or 115.
@@ -1539,20 +1527,21 @@ In any case where it is declared in a final decision given in any proceedings in
   (b) information and data derived from or based upon information, data, documents, and forecasts referred to in paragraph (a):
   (c) information relating to the exercise, or possible exercise, of the powers conferred by this Act.
 (2) The Bank may publish or disclose any information, data, document, or forecast to which this section applies only if—
-  (a) the information, data, document, or forecast is available to the public under any Act or is otherwise publicly available; or
+  (a) the information, data, document, or forecast is available to the public under any Act (other than the Official Information Act 1982) or is otherwise publicly available; or
   (b) the information or data or forecast is in a statistical or summary form; or
-  (c) the publication or disclosure of the information, data, document, or forecast is for the purposes of, or in connection with, the performance or exercise of any function or power conferred by this Act or any other enactment; or
-  (d) the publication or disclosure of the information, data, document, or forecast is to any authority or body in any other country that performs functions that correspond with, or are similar to, those conferred on the Bank under this Act, and the Bank is satisfied that the information, data, document, or forecast will only be used by that authority or body for the purpose of performing those functions; or
+  (c) the publication or disclosure of the information, data, document, or forecast is for the purposes of, or in connection with, the performance or exercise of any function, power, or duty conferred or imposed on the Bank by this Act or any other legislation; or
+  (d) the publication or disclosure is made under subpart 3 of Part 6 of the Reserve Bank of New Zealand Act 2021 (which relates to information sharing); or
   (e) the publication or disclosure of the information, data, document, or forecast is to any person that the Bank is satisfied has a proper interest in receiving the information, data, document, or forecast; or
   (f) the publication or disclosure of the information, data, document, or forecast is with the consent of the person to whom that material relates or of the person to whom that material is confidential.
-(3) The Bank must not publish or disclose information, data, a document, or a forecast under subsection (2)﻿(d) or (e) unless the Bank is satisfied that appropriate provision exists to protect the confidentiality of that material.
+(3) The Bank must not publish or disclose information, data, a document, or a forecast under subsection (2)﻿(e) unless the Bank is satisfied that appropriate provision exists to protect the confidentiality of that material.
 (4) An officer or employee of the Bank or an investigator must not publish or disclose any information, data, document, or forecast to which this section applies except for the purposes of, or in connection with, the performance or exercise of any function or power conferred by this Act or any other enactment.
 (5) An officer or employee of the Bank or an investigator commits an offence if the officer, employee, or investigator fails to comply with this section and is liable, on conviction, to imprisonment for a term not exceeding 3 months or to a fine not exceeding $200,000 (or both).
+(6) The Bank may make information, data, a document, or a forecast to which this section applies available under the Official Information Act 1982 only if 1 or more grounds under subsection (2) apply.
 
 ### 136 Limits on further disclosure of information, data, documents, or forecasts
 (1) A person to whom any information, data, document, or forecast is published or disclosed under section 135(2)﻿(c), (e), or (f) must not publish, disclose, or use that information, data, document, or forecast unless the publication, disclosure, or use is,—
   (a) in the case of a publication or disclosure under section 135(2)﻿(c),—
-    (i) for the purposes of, or in connection with, the performance or exercise of functions or powers conferred by this Act or any other enactment; and
+    (i) for the purposes of, or in connection with, the performance or exercise of any function, power, or duty referred to in that paragraph; and
     (ii) in accordance with any conditions that may be imposed by the Bank:
   (b) in the case of a publication or disclosure under section 135(2)﻿(e),—
     (i) authorised by the Bank and in accordance with any conditions that the Bank may have imposed; or
@@ -1883,7 +1872,7 @@ When a scheme is approved under section 166—
   (a) every subsidiary of a licensed insurer declared to be subject to statutory management, except any subsidiary declared to be a subsidiary to which the order does not apply, is subject to statutory management; and
   (b) the appointment of a statutory manager for the specified period in respect of the licensed insurer also applies to those subsidiaries.
 (3) If a licensed insurer acquires a subsidiary after it has been declared to be subject to statutory management under subsection (1), the subsidiary is not subject to statutory management unless a further Order in Council is made declaring the subsidiary to be subject to statutory management.
-(4) Subsections (1)﻿(b) and (2) are subject to section 139J(4) of the Reserve Bank of New Zealand Act 1989.
+(4) Subsections (1)﻿(b) and (2) are subject to section 139J(4) of the Banking (Prudential Supervision) Act 1989.
 (5) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 171 Statutory management of overseas persons
@@ -2420,26 +2409,10 @@ A person commits an offence if the person fails to comply with an order under se
 **Protection from liability and indemnity**
 
 ### 230 Protection from liability
-(1) This section applies to—
-  (a) the Bank; and
-  (b) every statutory manager of a licensed insurer or of an associated person or of a subsidiary of a licensed insurer; and
-  (c) every officer or employee of the Bank; and
-  (d) every investigator; and
-  (e) every director of the Bank.
-(2) No person to whom this section applies is liable for an act done or omitted to be done in the performance or exercise in good faith of the person's functions, duties, or powers under this Act.
-(3) This section and section 231 are subject to subpart 7 of Part 4 of the Search and Surveillance Act 2012.
+[Repealed]
 
 ### 231 Indemnity
-(1) The Crown indemnifies the persons listed in subsection (2) for any liability that arises from the exercise or purported exercise of, or omission to exercise, any power conferred by this Act unless it is shown that the exercise or purported exercise of, or omission to exercise, the power was in bad faith.
-(2) The persons are—
-  (a) the Bank; and
-  (b) every statutory manager of a licensed insurer or of an associated person or of a subsidiary of a licensed insurer; and
-  (c) every officer or employee of the Bank; and
-  (d) every investigator; and
-  (e) every director of the Bank.
-(3) Any money required for the purposes of this section must be paid out of a Crown Bank Account without further authority than this section.
-(4) The indemnity conferred by subsection (1) extends to legal costs incurred in defending a proceeding.
-(5) Within 12 sitting days of the making of any payment under this section, the Minister must present to the House of Representatives a report that contains details of the circumstances giving rise to the liability of the Crown, the amount of the payment, the person to whom the payment was made, and any other relevant matters.
+[Repealed]
 
 **General provisions relating to declarations and exemptions**
 
@@ -2525,7 +2498,7 @@ The following are secondary legislation (see Part 3 of the Legislation Act 2019 
   (t) prescribing forms for the purposes of this Act, and prescribing—
     (i) the inclusion in, or attachment to, forms of specified information or documents:
     (ii) forms to be signed by specified persons:
-  (u) prescribing fees payable in respect of any matter under this Act or the manner in which fees may be calculated:
+  (u)
   (v) prescribing procedures, requirements, and other matters for the register kept under section 54A or 226, including matters relating to the operation of that register, access to that register, and the location of, and hours of access to, that register:
   (w) prescribing transitional or savings provisions relating to the coming into force of subpart 3 of Part 2 (in addition to any other transitional provisions in this Act):
   (x) providing for any other matters contemplated by this Act, necessary for its administration, or necessary for giving it full effect.
@@ -2534,9 +2507,9 @@ The following are secondary legislation (see Part 3 of the Legislation Act 2019 
   (a) specified provisions of this Act (including definitions) do not apply:
   (b) specified provisions repealed or amended or revoked by this Act continue to apply.
 (4) All regulations made under subsection (1)﻿(w) that are still in force on the day that is 3 years after the commencement of this section expire on the close of that day.
-(5) The Bank may refuse to perform a function or exercise a power until a prescribed fee is paid.
-(6) Any Order in Council made under subsection (1) may authorise the Bank to refund or waive, in whole or in part and on any conditions as may be prescribed, payment of any fee or amount payable in relation to any person or class of persons.
-(7) Any fee or amount payable to the Bank is recoverable by the Bank in any court of competent jurisdiction as a debt due to the Bank.
+(5)
+(6)
+(7)
 (8) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 238 Regulations may provide for exemptions
@@ -2735,7 +2708,7 @@ Despite the repeal, by section 239, of Part 1A of the Life Insurance Act 1908,�
 (1) The Bank—
   (a) must make copies of all material incorporated by reference in a specified instrument available for inspection during normal working hours at the head office of the Bank; and
   (b) must make copies of the material available for purchase at a reasonable price from the head office of the Bank; and
-  (c) may make copies of the material available in any other way that the Governor considers appropriate in the circumstances (such as on an Internet site); and
+  (c) may make copies of the material available in any other way that the Bank considers appropriate in the circumstances (such as on an Internet site); and
   (d) must give notice in the Gazette of how the material is available for inspection and purchase.
 (2) Subclause (1) applies to material when it is first incorporated into a specified instrument, and to any subsequent amendment or replacement of material that is incorporated into the instrument.
 (3) A failure to comply with this clause does not invalidate a specified instrument.
@@ -2756,7 +2729,7 @@ Material incorporated by reference in a specified instrument that expires, is re
 (2) If any of the things referred to in subclause (1) are proposed, the Bank—
   (a) must make copies of the material (which in this subclause includes any amended or replacement material) proposed to be incorporated by reference available for inspection during normal working hours at the head office of the Bank; and
   (b) must make copies of the material available for purchase at a reasonable price from the head office of the Bank; and
-  (c) may make copies of the material available in any other way that the Governor considers appropriate in the circumstances (such as on an Internet site); and
+  (c) may make copies of the material available in any other way that the Bank considers appropriate in the circumstances (such as on an Internet site); and
   (d) must give notice in the Gazette of how copies of the material may be inspected and purchased, and how people may make comments on the proposal; and
   (e) must allow a reasonable opportunity for people to comment on the proposal; and
   (f) must consider any comments made within the time allowed.
