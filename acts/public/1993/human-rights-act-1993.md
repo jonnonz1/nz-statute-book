@@ -1,5 +1,5 @@
 # Human Rights Act 1993
-_Consolidation as at 2022-05-10_
+_Consolidation as at 2022-07-01_
 
 > An Act to consolidate and amend the Race Relations Act 1971 and the Human Rights Commission Act 1977 and to provide better protection of human rights in New Zealand in general accordance with United Nations Covenants or Conventions on Human Rights
 
@@ -756,16 +756,17 @@ Nothing in section 57 shall prevent the holding or provision, at any educational
 ### 65 Indirect discrimination
 Where any conduct, practice, requirement, or condition that is not apparently in contravention of any provision of this Part has the effect of treating a person or group of persons differently on 1 of the prohibited grounds of discrimination in a situation where such treatment would be unlawful under any provision of this Part other than this section, that conduct, practice, condition, or requirement shall be unlawful under that provision unless the person whose conduct or practice is in issue, or who imposes the condition or requirement, establishes good reason for it.
 
-### 66 Victimisation
-(1) It shall be unlawful for any person to treat or to threaten to treat any other person less favourably than he or she would treat other persons in the same or substantially similar circumstances—
-  (a) on the ground that that person, or any relative or associate of that person,—
-    (i) intends to make use of his or her rights under this Act or to make a disclosure under the Protected Disclosures Act 2000; or
-    (ii) has made use of his or her rights, or promoted the rights of some other person, under this Act, or has made a disclosure, or has encouraged disclosure by some other person, under the Protected Disclosures Act 2000; or
-    (iii) has given information or evidence in relation to any complaint, investigation, or proceeding under this Act or arising out of a disclosure under the Protected Disclosures Act 2000; or
+### 66 Victimisation of whistleblower or person making use of rights prohibited
+(1) It is unlawful for any person (A) to treat, or threaten to treat, another person (B) less favourably than A would treat other persons in the same or substantially similar circumstances because—
+  (a) B (or a relative or associate of B)—
+    (i) intends to make, or has made, use of their rights under this Act; or
+    (ii) has encouraged another person to make use of their rights, or has promoted the rights of another person, under this Act; or
+    (iii) has given information in support of, or relating to, any complaint, investigation, or proceeding under this Act; or
     (iv) has declined to do an act that would contravene this Act; or
     (v) has otherwise done anything under or by reference to this Act; or
-  (b) on the ground that he or she knows that that person, or any relative or associate of that person, intends to do any of the things mentioned in subparagraphs (i) to (v) of paragraph (a) or that he or she suspects that that person, or any relative or associate of that person, has done, or intends to do, any of those things.
-(2) Subsection (1) shall not apply where a person is treated less favourably because he or she has knowingly made a false allegation or otherwise acted in bad faith.
+  (b) A believes or suspects that B (or a relative or associate of B) intends to do, or has done, anything mentioned in paragraph (a).
+(2) Subsection (1) does not apply if B knowingly made a false allegation or otherwise acted in bad faith.
+(3) Any breach of section 22(1) of the Protected Disclosures (Protection of Whistleblowers) Act 2022 is unlawful under this Act. The rest of this Act applies to that breach (so that, for example, section 68 of this Act applies to treat employee actions or omissions as done or omitted by their employer).
 
 ### 67 Advertisements
 (1) It shall be unlawful for any person to publish or display, or to cause or allow to be published or displayed, any advertisement or notice which indicates, or could reasonably be understood as indicating, an intention to commit a breach of any of the provisions of this Part.
