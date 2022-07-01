@@ -1,5 +1,5 @@
 # Māori Television Service (Te Aratuku Whakaata Irirangi Māori) Act 2003
-_Consolidation as at 2020-08-07_
+_Consolidation as at 2022-07-01_
 
 ## Preamble
 He kōrero whakataki
@@ -1044,7 +1044,7 @@ The Service must, as soon as reasonably practicable, supply information required
 
 ### 31 Bank accounts
 (1) The Service must have 1 or more bank accounts, as necessary for the exercise of its powers and the performance of its functions and duties,—
-  (a) at any registered bank (within the meaning of the Reserve Bank of New Zealand Act 1989); and
+  (a) at any registered bank (within the meaning of the Banking (Prudential Supervision) Act 1989); and
   (b) with the approval of the Minister of Finance, at any bank outside New Zealand.
 (2) All money received by the Service, or for or on its behalf by a director of the board or an employee, must be paid into a bank account of the Service as soon as practicable after that money has been received.
 (3) The Service must properly authorise the withdrawal or payment of money from or into its bank accounts.
