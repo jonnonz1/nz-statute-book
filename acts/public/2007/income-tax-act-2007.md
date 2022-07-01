@@ -1,5 +1,5 @@
 # Income Tax Act 2007
-_Consolidation as at 2022-05-27_
+_Consolidation as at 2022-07-01_
 
 ### A 1 Title
 This Act is the Income Tax Act 2007.
@@ -4831,9 +4831,9 @@ An amount of income derived by the trustee of a community trust is exempt income
 
 ### CW 52B Disability support services
 Exempt income
-(1) An amount of income derived by or on behalf of a person or their carer is exempt income of the relevant person if the amount is paid by the Ministry of Health or a District Health Board for the purpose of the purchase of disability support services in relation to the person.
+(1) An amount of income derived by or on behalf of a person or their carer is exempt income of the relevant person if the amount is paid by Health New Zealand or the Māori Health Authority for the purpose of the purchase of disability support services in relation to the person.
 Meaning
-(2) In this section, disability support services has the meaning given in section 6(1) of the New Zealand Public Health and Disability Act 2000.
+(2) In this section, disability support services has the meaning given in section 4 of the Pae Ora (Healthy Futures) Act 2022.
 
 ### CW 53 Distributions from complying trusts
 To the extent to which section HC 20 (Distributions from complying trusts) applies to an amount that a person derives as a beneficiary of a trust, the amount is exempt income.
@@ -23478,7 +23478,7 @@ Financial value
   (b) are prepared for external reporting purposes; and
   (c) are consistent with generally accepted accounting practice for the consolidation of a group of companies for the purposes of eliminating intra-group balances.
 Regulatory value
-(2) In section FE 19, the regulatory value of an item for a New Zealand banking group at a time is the total risk-weighted value for the item for the purposes of the Capital Adequacy Framework issued by the Reserve Bank of New Zealand acting in the prudential supervision of registered banks under the Reserve Bank of New Zealand Act 1989.
+(2) In section FE 19, the regulatory value of an item for a New Zealand banking group at a time is the total risk-weighted value for the item for the purposes of the Capital Adequacy Framework issued by the Reserve Bank of New Zealand acting in the prudential supervision of registered banks under the Banking (Prudential Supervision) Act 1989.
 
 ### FE 21 Banking group’s New Zealand net equity
 Formula
@@ -28554,7 +28554,7 @@ When this section does not apply
 (2) This section does not apply to an arrangement if—
   (a) the Commissioner is a party to the arrangement:
   (b) the tax obligation is no more than an amount of income tax that arises as a direct result of the performance of the arrangement, and that obligation has been met:
-  (c) at the time of the arrangement, the company was under statutory management under the Reserve Bank of New Zealand Act 1989 or the Corporations (Investigation and Management) Act 1989.
+  (c) at the time of the arrangement, the company was under statutory management under the Banking (Prudential Supervision) Act 1989 or the Corporations (Investigation and Management) Act 1989.
 Director’s liability
 (3) All persons who are directors of the company at the time the arrangement is entered into are treated as agents of the company in relation to the tax obligation, and the liability is joint and several. But a director has no liability if—
   (a) they do not derive a benefit from the arrangement, and at the first reasonable opportunity after becoming aware of the arrangement, or the aspects of the arrangement that cause this section to apply to it, they record formally their dissent in relation to the arrangement with the company and with the Commissioner; or
@@ -28603,7 +28603,7 @@ Person paying premium
 Insured person
 (6) The person liable in the third place as agent is the insured person.
 Bank or building society
-(7) If a premium is paid by a registered bank, as defined in section 2 of the Reserve Bank of New Zealand Act 1989, or a building society on behalf of a person to the insurer or to some other person not carrying on a business in New Zealand through a fixed establishment in New Zealand,—
+(7) If a premium is paid by a registered bank, as defined in section 2 of the Banking (Prudential Supervision) Act 1989, or a building society on behalf of a person to the insurer or to some other person not carrying on a business in New Zealand through a fixed establishment in New Zealand,—
   (a) the bank or building society is not an agent of the insurer; and
   (b) the person who provides the bank or building society with the funds from which the premium is paid is an agent of the insurer.
 
@@ -33552,7 +33552,7 @@ When this subpart does not apply
   (c) to the extent to which the person is a research and development contractor for another person (person B) in relation to a research and development activity, if person B carries on a business in New Zealand through a fixed establishment in New Zealand:
   (d) if the person is, or is directly or indirectly controlled by, or is associated with,—
     (i) a Crown research institute:
-    (ii) a district health board:
+    (ii) Health New Zealand:
     (iii) a tertiary education organisation, including a foreign tertiary education organisation:
     (iv) Callaghan Innovation:
   (e) if the person is a member of a joint venture or a partner in a partnership or has owner’s interests for a look-through company, and the person is not resident in New Zealand in the tax year:
@@ -34961,7 +34961,7 @@ For the purposes of section MX 1(1)﻿(b), a person meets the corporate eligibil
   (b) there is no double tax agreement under which the person is treated as being resident in a foreign country or territory; and
   (c) the person is not an entity established by or subject to—
     (i) the Education and Training Act 2020:
-    (ii) the New Zealand Public Health and Disability Act 2000:
+    (ii) the Pae Ora (Healthy Futures) Act 2022:
     (iii) the Crown Entities Act 2004; and
   (d) a total of less than 50% of the shares in the person are held by entities that are each—
     (i) a public authority:
@@ -40967,7 +40967,7 @@ When this section applies
   (b) the institution has RWT-exempt status; and
   (c) the institution pays on or transfers the amount received to an end investor.
 When this section does not apply
-(2) This section does not apply to a custodial institution that is the specified operator of a designated settlement system under the Reserve Bank of New Zealand Act 1989. The exclusion extends to a nominee or agent of the specified operator.
+(2) This section does not apply to a custodial institution that is the specified operator of a designated settlement system under the Banking (Prudential Supervision) Act 1989. The exclusion extends to a nominee or agent of the specified operator.
 Obligation to withhold
 (3) At the time the payment or transfer is made and to the extent to which the amount of tax has not already been withheld, the custodial institution that makes the payment to the end investor must withhold the amount of tax for the payment and pay it to the Commissioner.
 Agreements to transfer withholding obligations: outsourcing withholding
@@ -40977,7 +40977,7 @@ Agreements to transfer withholding obligations: passing obligation to other cust
 Meaning of custodial institution
 (6) For the purposes of this section and sections RE 4 and RF 4, a custodial institution means an entity—
   (a) that holds financial assets or financial instruments as a bare trustee on account for another person; and
-  (b) whose activities are supervised or regulated under the Financial Markets Conduct Act 2013, the Financial Markets Authority Act 2011, the Financial Advisers Act 2008, or the Reserve Bank of New Zealand Act 1989, or are supervised or regulated under corresponding legislation in another jurisdiction.
+  (b) whose activities are supervised or regulated under the Financial Markets Conduct Act 2013, the Financial Markets Authority Act 2011, the Financial Advisers Act 2008, or the Banking (Prudential Supervision) Act 1989, or are supervised or regulated under corresponding legislation in another jurisdiction.
 Meaning of end investor
 (7) For the purposes of this section and sections RE 4 and RF 4, an end investor—
   (a) means an investor to whom a payment of investment income is made who is—
@@ -42233,7 +42233,7 @@ When person no longer intermediary
 
 ### RP 6 Operation of PAYE intermediaries’ trust accounts
 Nature of account
-(1) A PAYE intermediary’s trust account must be named as a trust account and established at a registered bank within the meaning of the Reserve Bank of New Zealand Act 1989.
+(1) A PAYE intermediary’s trust account must be named as a trust account and established at a registered bank within the meaning of the Banking (Prudential Supervision) Act 1989.
 Deposits
 (2) The deposits to the account consist of—
   (a) a payment of gross salary or wages paid by an employer:
@@ -45640,7 +45640,7 @@ In this Act, unless the context requires otherwise,—
   - **refundability cap** is defined in section LA 5(5B) (Treatment of remaining credits) for the purposes of that section
   - **refundable tax credit** means a tax credit under a provision that is listed in section LA 6(1)﻿(a) to (j) (Remaining refundable credits: PAYE, RWT, and certain other items)
   - **registered as a charitable entity**
-  - **registered bank** means a registered bank as defined in section 2 of the Reserve Bank of New Zealand Act 1989
+  - **registered bank** means a registered bank as defined in section 2 of the Banking (Prudential Supervision) Act 1989
   - **registered person** is defined in section 2 of the Goods and Services Tax Act 1985
   - **registered security** is defined in section 86F of the Stamp and Cheque Duties Act 1971
   - **regulatory value** is defined in section FE 20(2) (Financial value and regulatory value) for the purposes of section FE 19 (Banking group’s equity threshold)
