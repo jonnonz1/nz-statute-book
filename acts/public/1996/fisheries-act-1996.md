@@ -1,5 +1,5 @@
 # Fisheries Act 1996
-_Consolidation as at 2022-05-21_
+_Consolidation as at 2022-07-01_
 
 > An Act—ato reform and restate the law relating to fisheries resources; andbto recognise New Zealand's international obligations relating to fishing; andcto provide for related matters
 
@@ -1267,7 +1267,7 @@ An interest in fishing quota that is forfeited under section 58 or section 58A m
 (11) Despite subsection (10),—
   (a) Te Ohu Kai Moana Trustee Limited is not to be regarded as being included with any other person; and
   (b) no person is to be regarded as being included with any other person merely because either or both of those persons would be included with Te Ohu Kai Moana Trustee Limited but for paragraph (a); and
-  (c) no bank registered under the Reserve Bank of New Zealand Act 1989 is to be regarded as being included with any other person merely because the bank has, in the ordinary course of its business as a financier, been granted any interest in quota owned by the person; and
+  (c) no bank registered under the Banking (Prudential Supervision) Act 1989 is to be regarded as being included with any other person merely because the bank has, in the ordinary course of its business as a financier, been granted any interest in quota owned by the person; and
   (d) no person is to be regarded as included with any other person solely because they are both beneficiaries of the same trust.
 (12) An order under subsection (7) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
@@ -1642,7 +1642,7 @@ Before making a recommendation under section 77(1), the Minister may have regard
       (C) Te Ohu Kai Moana; and
   (ab) Aotearoa Fisheries Limited is not to be regarded as being included with any other person merely because the other person holds, or benefits from, income shares in Aotearoa Fisheries Limited; and
   (b) no person is regarded as being included with another person merely because either or both of those persons would be included with Te Ohu Kai Moana Trustee Limited but for paragraph (a); and
-  (c) no bank registered under the Reserve Bank of New Zealand Act 1989 is to be regarded as being included with any other person merely because the bank has, in the ordinary course of its business as a financier, been granted any interest in quota owned by that person.
+  (c) no bank registered under the Banking (Prudential Supervision) Act 1989 is to be regarded as being included with any other person merely because the bank has, in the ordinary course of its business as a financier, been granted any interest in quota owned by that person.
 
 ### 78A Other persons may be subjected to same conditions as commercial fisher with catch in excess
 (1) Where a fishing permit of a person (person A) is treated as being subject to a condition under section 78(2), the chief executive may impose the same condition on any fishing permit held by or subsequently issued to another person (person B) if the chief executive believes, on reasonable grounds specified on oath in writing, that—
@@ -1697,7 +1697,7 @@ Before making a recommendation under section 77(1), the Minister may have regard
       (B) Te Putea Whakatupu Trust:
       (C) Te Wai Maori Trust; and
   (b) Aotearoa Fisheries Limited is not to be regarded as being included with another person merely because the other person holds, or benefits from, income shares in Aotearoa Fisheries Limited; and
-  (c) no bank registered under the Reserve Bank of New Zealand Act 1989 is to be regarded as being included with any other person merely because the bank has, in the ordinary course of its business as a financier, been granted any interest in quota owned by that person.
+  (c) no bank registered under the Banking (Prudential Supervision) Act 1989 is to be regarded as being included with any other person merely because the bank has, in the ordinary course of its business as a financier, been granted any interest in quota owned by that person.
 (7)
 
 ### 79A Suspension of fishing permit of other persons
@@ -4527,7 +4527,7 @@ If any person is convicted of an offence against this Act, the court shall, in i
   (e) whether one person was accustomed to acting in a manner consistent with advancing the interests of the other person in respect of the quota they own.
 (4) No quota owned by Te Ohu Kai Moana Trustee Limited is associated quota for the purposes of this Act.
 (5) No quota owned by any person is associated quota merely because of any relationship between that person and Te Ohu Kai Moana Trustee Limited or any other person and Te Ohu Kai Moana Trustee Limited.
-(6) No quota owned by any bank registered under the Reserve Bank of New Zealand Act 1989 is to be regarded as associated quota merely because the bank has in the ordinary course of its business as a financier become the owner of that quota.
+(6) No quota owned by any bank registered under the Banking (Prudential Supervision) Act 1989 is to be regarded as associated quota merely because the bank has in the ordinary course of its business as a financier become the owner of that quota.
 (7) No quota owned by any licensed NBDT (within the meaning of section 4(1) of the Non-bank Deposit Takers Act 2013) is to be regarded as associated quota merely because the licensed NBDT has in the ordinary course of its business as a financier become the owner of that quota.
 
 ### 255A Forfeiture for infringement offence
