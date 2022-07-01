@@ -1,5 +1,5 @@
 # Prohibition of Gang Insignia in Government Premises Act 2013
-_Consolidation as at 2021-10-28_
+_Consolidation as at 2022-07-01_
 
 ### 1 Title
 This Act is the Prohibition of Gang Insignia in Government Premises Act 2013.
@@ -16,7 +16,6 @@ The purpose of this Act is to prohibit the display of gang insignia on premises 
 In this Act, unless the context otherwise requires,—
   - **Crown entity** has the same meaning as in section 7 of the Crown Entities Act 2004
   - **department** means any public service agency as defined in section 5 of the Public Service Act 2020
-  - **district health board** means a district health board established by or under section 19 of the New Zealand Public Health and Disability Act 2000
   - **gang** means any organisation, association, or group of persons—
     (a) that is known by a name that is the same as, or substantially similar to, any of the following:
       (i) Aotearoa Natives:
@@ -63,9 +62,10 @@ In this Act, unless the context otherwise requires,—
       (ii) a local authority; and
     (b) includes the buildings and grounds of any school; and
     (c) includes the grounds of—
-      (i) any public hospital or health facility that is owned by, or is under the control of, a district health board; and
+      (i) Health New Zealand; and
       (ii) any public swimming pool or aquatic centre that is owned by, or is under the control of, a local authority; but
     (d) excludes any residential dwelling that is owned by, or is under the control of, Kāinga Ora–Homes and Communities or a local authority
+  - **Health New Zealand** has the meaning in section 4 of the Pae Ora (Healthy Futures) Act 2022
   - **integrated school** has the same meaning as State integrated school in section 10(1) of the Education and Training Act 2020
   - **local authority** has the same meaning as in section 5(1) of the Local Government Act 2002
   - **Police** has the same meaning as in section 4 of the Policing Act 2008
