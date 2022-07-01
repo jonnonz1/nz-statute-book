@@ -1,5 +1,5 @@
 # Health and Disability Services (Safety) Act 2001
-_Consolidation as at 2021-10-28_
+_Consolidation as at 2022-07-01_
 
 ### 1 Title
 This Act is the Health and Disability Services (Safety) Act 2001.
@@ -62,7 +62,7 @@ The purpose of this Act is to—
     (ii) collecting, storing, or transporting human tissue or human bodily substances for the purposes of, or in connection with, the provision or prospective provision of health or disability services:
     (iii) services, provided to people with disabilities or people who are frail (whether because of their age or for some other reason), for their care or support or to promote their independence; and
   (b) includes services intended to prevent, or lessen the prevalence or severity of, illness or injury; and
-  (c) includes any services within the meaning of the New Zealand Public Health and Disability Act 2000; and
+  (c) includes any services within the meaning of the Pae Ora (Healthy Futures) Act 2022; and
   (d) includes services intended to enable the detection, the diagnosis, the determination of the nature or extent or prognosis, or the monitoring, of any illness, injury, or other condition, the treatment of which (or the treatment of the effects of which) is or would be providing health or disability services of any kind, for example—
     (i) biochemical, chemical, cytogenetic, cytological, haematological, histopathological, immunological, microbiological, sensory, or serological analysis, examination, scanning, screening, or testing:
     (ii) examining, scanning, screening, or testing people using electro-magnetic or ionising radiation, magnetism, or sound; and
@@ -321,7 +321,7 @@ If required by section 18 or section 19 or section 24 to consult on a matter rel
 (2) A certified provider must promptly give the Director-General written notice of all changes in the name, address, or telephone number of the person who is for the time being the person whom the Director-General should contact about the services.
 (3) A certified provider must promptly give the Director-General written notice of any new fixed location at which the services are being provided.
 (4) A certified provider must promptly give the Director-General written notice,—
-  (a) in the case of a body corporate (other than a District Health Board, some other body corporate that is a Crown entity, a corporation sole, or a Trust Board incorporated under the Charitable Trusts Act 1957), of any change in the membership of its governing body:
+  (a) in the case of a body corporate (other than Health New Zealand, some other body corporate that is a Crown entity, a corporation sole, or a Trust Board incorporated under the Charitable Trusts Act 1957), of any change in the membership of its governing body:
   (b) in the case of a Trust Board incorporated under the Charitable Trusts Act 1957, of any change in its membership:
   (c) in the case of any other trust, of any change in the trustees:
   (d) in the case of a partnership, of any change in the partners.
