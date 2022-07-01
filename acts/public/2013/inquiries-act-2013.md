@@ -1,5 +1,5 @@
 # Inquiries Act 2013
-_Consolidation as at 2021-10-28_
+_Consolidation as at 2022-07-01_
 
 ### 1 Title
 This Act is the Inquiries Act 2013.
@@ -409,7 +409,6 @@ The Acts specified in Schedule 2 are amended in the manner indicated in that sch
 | Maori Reserved Land Act 1955 | s 74 |
 | Maritime Transport Act 1994 | ss 58, 235, 246E, 246F, and cl 10 of Schedule 2 |
 | Mental Health (Compulsory Assessment and Treatment) Act 1992 | ss 95, 104 |
-| New Zealand Public Health and Disability Act 2000 | s 71 |
 | Niue Act 1966 | s 75 |
 | Petroleum Demand Restraint Act 1981 | s 4 |
 | Plumbers, Gasfitters, and Drainlayers Act 2006 | s 118 |
