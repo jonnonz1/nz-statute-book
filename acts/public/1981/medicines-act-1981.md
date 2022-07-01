@@ -1,5 +1,5 @@
 # Medicines Act 1981
-_Consolidation as at 2022-06-23_
+_Consolidation as at 2022-07-01_
 
 > An Act to consolidate and amend the law relating to the manufacture, sale, and supply of medicines, medical devices, and related products
 
@@ -916,7 +916,7 @@ If regulations made under sections 105(1)﻿(qaa) and 105D grant delegated presc
 (2) Every statement made under subsection (1) shall be privileged unless the publication is proved to be made with malice.
 (3) The classes of persons referred to in subsection (1) are as follows:
   (a) officers:
-  (b) officers and employees of any district health board established by or under section 19 of the New Zealand Public Health and Disability Act 2000:
+  (b) officers and employees of Health New Zealand established by section 11 of the Pae Ora (Healthy Futures) Act 2022:
   (c) people providing, or employed in providing, hospital care (within the meaning of the Health and Disability Services (Safety) Act 2001):
   (d) managers of prisons within the meaning of the Corrections Act 2004:
   (e) managers of treatment centres within the meaning of the Substance Addiction (Compulsory Assessment and Treatment) Act 2017:
@@ -1059,6 +1059,7 @@ It is a condition of every licence to operate a pharmacy that the holder of the 
 (2) Subsection (1) does not apply to any person referred to in section 55E(3), to the extent that 1 or more pharmacies, or interests in 1 or more pharmacies, are lawfully included in the estate or property that the person is administering, unless section 55E(4) applies.
 (3) Subsection (1) does not apply to any person who, while attempting to sell 1 pharmacy of which the person is the operator, carries on business in no more than 5 other pharmacies for a period not exceeding 3 months, or, subject to any conditions that the licensing authority imposes, any extended period or periods permitted by the authority.
 (4) Subsection (3) is subject to sections 55D and 55E.
+(5) Subsection (1) does not apply to Health New Zealand established by section 11 of the Pae Ora (Healthy Futures) Act 2022.
 
 ### 55G Exemption for mortgagees in possession
 (1) Despite sections 55D and 55E, a mortgagee in possession of a pharmacy may be granted a licence to operate that pharmacy for a period of 3 months or, subject to any conditions that the licensing authority imposes, for any extended period or periods permitted by the licensing authority.
@@ -1508,7 +1509,7 @@ In this Part, unless the context otherwise requires,—
 (2) A committee or body or an association of persons that is to provide advice for the purposes of section 96E(3)﻿(a) may provide that advice only after it has—
   (a) given interested parties and members of the public a reasonable opportunity to make submissions in writing or orally, or both; and
   (b) taken any such submissions into account.
-(3) Sections 74 to 86 of the New Zealand Public Health and Disability Act 2000 apply, with all necessary modifications, to the establishment and procedures of a committee that is to be established or that has been established under subsection (1)﻿(a) as if it were an inquiry board under that Act.
+(3) Parts 2 and 3 of the Inquiries Act 2013 apply, with all necessary modifications, to the establishment and procedures of a committee that is to be, or has been, established under subsection (1) as if it were an inquiry established that Act.
 (4) The Minister may agree with an applicant whose application relates to the work of a committee, body, or association established or requested under subsection (1)﻿(a) or (b) that the applicant will pay, or contribute towards the payment of, any costs incurred or to be incurred by the committee or body or association in the examination of aspects of the applicant's application that, in the Minister's opinion, could have significant commercial benefits (whether or not that examination also benefits the public).
 (5) The Minister may agree with an applicant whose application relates to the work of a committee of persons nominated by the Minister under subsection (1)﻿(c) that the Minister will pay, or contribute towards the payment of, any costs incurred or to be incurred by the committee in the examination of aspects of the applicant's application that, in the Minister's opinion, are likely to benefit the public (whether or not that examination also has commercial benefits).
 (6) If the Minister is, under subsection (4), attempting to reach an agreement with the applicant, the Minister may direct the committee, body, or association concerned not to consider any matters relating to the applicant's application until agreement under subsection (4) has been reached; and the committee or body or association must give effect to that direction.
