@@ -1,5 +1,5 @@
 # Community Trusts Act 1999
-_Consolidation as at 2021-10-28_
+_Consolidation as at 2022-07-01_
 
 > An Act to make continued provision for the operation of the community trusts established under the Trustee Banks Restructuring Act 1988
 
@@ -249,8 +249,8 @@ The trust deed of a community trust must contain provisions—
 ### 19 Sale of shares in trustee bank's successor company
 The trustees of a community trust may sell or otherwise dispose of any shares held by the trust in the capital of a trustee bank's successor company if a resolution has been passed by not less than 75% of the trustees approving the sale or disposition.
 
-### 20 Section 64 of Reserve Bank of New Zealand Act 1989 not to apply to community trusts
-Section 64 of the Reserve Bank of New Zealand Act 1989 does not apply to—
+### 20 Section 64 of Banking (Prudential Supervision) Act 1989 not to apply to community trusts
+Section 64 of the Banking (Prudential Supervision) Act 1989 does not apply to—
   (a) a community trust:
   (b) the incorporation of the trustees of a community trust under Part 2 of the Charitable Trusts Act 1957.
 
