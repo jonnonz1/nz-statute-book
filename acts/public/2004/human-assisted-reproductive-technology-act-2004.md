@@ -1,5 +1,5 @@
 # Human Assisted Reproductive Technology Act 2004
-_Consolidation as at 2021-10-28_
+_Consolidation as at 2022-07-01_
 
 ### 1 Title
 This Act is the Human Assisted Reproductive Technology Act 2004.
@@ -361,11 +361,11 @@ During any time that a kind of assisted reproductive procedure or human reproduc
   (a) that the Minister establishes for the purposes of this section; or
   (b) that has been established for another purpose.
 (3) In designating a committee under this section, the Minister must ensure that the committee—
-  (a) complies in its composition with any applicable standard governing ethics committees determined by the national advisory committee appointed under section 16(1) of the New Zealand Public Health and Disability Act 2000; and
+  (a) complies in its composition with any applicable standard governing ethics committees determined by any relevant committee appointed under section 87 of the Pae Ora (Healthy Futures) Act 2022; and
   (b) includes—
     (i) 1 or more members with expertise in assisted reproductive procedures; and
     (ii) 1 or more members with expertise in human reproductive research.
-(4) The committee designated under this section is subject to any applicable ethical standards determined by the national advisory committee appointed under section 16(1) of the New Zealand Public Health and Disability Act 2000.
+(4) The committee designated under this section is subject to any applicable ethical standards determined by any relevant committee appointed under section 87 of the Pae Ora (Healthy Futures) Act 2022.
 (5) Each meeting of the ethics committee may be attended by the chairperson of the advisory committee or a member of the advisory committee nominated by the chairperson for the meeting, but a person attending under this subsection is not a member of the ethics committee.
 (6) If the committee is established for the purposes of this section, the Minister may, by written notice,—
   (a) appoint any person to be a member or chairperson of the ethics committee; and
