@@ -1,5 +1,5 @@
 # Wages Protection Act 1983
-_Consolidation as at 2018-12-12_
+_Consolidation as at 2022-07-01_
 
 > An Act to consolidate and amend the law relating to the payment of wages and salaries
 
@@ -11,7 +11,7 @@ _Consolidation as at 2018-12-12_
 In this Act, unless the context otherwise requires,—
   - **employer** has the same meaning as in section 5 of the Employment Relations Act 2000
   - **employment agreement** has the same meaning as in section 5 of the Employment Relations Act 2000
-  - **financial institution** means a financial institution within the meaning of section 2 of the Reserve Bank of New Zealand Act 1989; and includes the Post Office Savings Bank and the Reserve Bank of New Zealand
+  - **financial institution** means a financial institution within the meaning of section 2 of the Banking (Prudential Supervision) Act 1989; and includes the Post Office Savings Bank and the Reserve Bank of New Zealand
   - **local authority** means a local authority within the meaning of the Local Government Act 2002
   - **money** , in relation to any wages, means any New Zealand coin or New Zealand banknotes, or combination of both, the tender of which in respect of the payment of those wages is legal tender
   - **specified cheque** , in relation to the payment of wages to any worker, means a cheque payable to, or to the order of, that worker
