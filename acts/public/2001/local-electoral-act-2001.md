@@ -1,5 +1,5 @@
 # Local Electoral Act 2001
-_Consolidation as at 2021-10-28_
+_Consolidation as at 2022-07-01_
 
 ### 1 Title
 This Act is the Local Electoral Act 2001.
@@ -167,7 +167,7 @@ This Act applies to—
   (ca) every election of 1 or more members of a local board; and
   (d) every election of 1 or more members of a community board; and
   (e) every election of 1 or more members of a licensing trust; and
-  (f) every election of 1 or more members of a district health board; and
+  (f)
   (g) any other election to which this Act, or its predecessors, is applied by any other Act, to the extent provided in that Act; and
   (h) every poll required by any Act to be taken under this Act, or its predecessors; and
   (i) any other election conducted as a consequence of a direction under section 8; and
@@ -1946,15 +1946,21 @@ A candidate who files a return under section 112A that is false in any material 
 (1) No person may publish or cause to be published in any newspaper, periodical, notice, poster, pamphlet, handbill, billboard, or card, or broadcast or permit to be broadcast over any radio or television station, any advertisement that is used or appears to be used to promote or procure the election of a candidate at an election, unless subsection (2) or subsection (4) applies.
 (2) A person may publish or cause or permit to be published an advertisement of the kind described in subsection (1) if—
   (a) the publication of that advertisement is authorised in writing by the candidate or the candidate's agent or, in the case of an advertisement relating to more than 1 candidate, the candidates or an agent acting for all of those candidates; and
-  (b) the advertisement contains a statement setting out the true name of the person or persons for whom or at whose direction it is published and the address of his or her place of residence or business.
+  (b) the advertisement contains a statement setting out the true name and contact details of the person or persons for whom or at whose direction it is published.
 (3) A candidate is not responsible for an act committed by an agent without the consent or connivance of the candidate.
 (4) A person may publish or cause or permit to be published an advertisement of the kind described in subsection (1) if—
   (a) the publication of the advertisement is endorsed by an organisation or body representing residents or ratepayers in the community or district in which the advertisement is published; and
   (b) the advertisement contains a statement setting out—
-    (i) the true name of the person or persons for whom or at whose direction it is published and the address of his or her residence or place of business; and
+    (i) the true name and contact details of the person or persons for whom or at whose direction it is published; and
     (ii) the true name of the organisation or body that has endorsed the publication of the advertisement and the address of the place of business of that organisation or body.
 (5) This section does not restrict the publication of any news or comments relating to an election in a newspaper or other periodical, or on the Internet, or in any other medium of electronic communication accessible by the public, or in a radio or television broadcast made by a broadcaster within the meaning of section 2 of the Broadcasting Act 1989.
 (6) A person who wilfully contravenes subsection (1) commits an offence and is liable on conviction to a fine not exceeding $1,000.
+(7) In this section, contact details means 1 or more of the following:
+  (a) a residential or business address:
+  (b) an email address:
+  (c) a post office box number:
+  (d) a phone number:
+  (e) a link to a page on an Internet site, if the page contains 1 or more of the contact details specified in paragraphs (a) to (d).
 
 ### 114 Use of public money
 Sections 111 and 112 do not validate any use of public money that would otherwise be unlawful.
