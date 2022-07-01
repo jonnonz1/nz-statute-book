@@ -1,5 +1,5 @@
 # Customs and Excise Act 2018
-_Consolidation as at 2022-05-25_
+_Consolidation as at 2022-07-01_
 
 ### 1 Title
 This Act is the Customs and Excise Act 2018.
@@ -5479,7 +5479,7 @@ Regulations may prescribe the way in which the chief executive may sell goods un
 (6) Nothing in subsection (5) limits or affects any obligation or liability under this Act of any person who has become responsible for collecting the levy.
 (7) In this section,—
   - **levy order** means an order under section 413
-  - **registered bank** has the meaning given to that term in section 2(1) of the Reserve Bank of New Zealand Act 1989
+  - **registered bank** has the meaning given to that term in section 2(1) of the Banking (Prudential Supervision) Act 1989
   - **trust account** means the account referred to in subsection (1).
 
 ### 416 Effect of levy order
@@ -5827,7 +5827,7 @@ The Customs and Excise Act 1996 (1996 No 27) is repealed.
 (7) In clauses 9, 13(2), and 26(2), duty includes the following:
   (a) anything that is duty as that term is defined in section 2(1) of the 1996 Act:
   (b) research levies imposed on imported goods under the Heavy Engineering Research Levy Act 1978:
-  (c) levies imposed under Schedule 4A of the New Zealand Public Health and Disability Act 2000:
+  (c) levies imposed under Schedule 6 of the Pae Ora (Healthy Futures) Act 2022:
   (d) levies imposed on imported goods under section 227 of the Climate Change Response Act 2002.
 (8) In this Part, references to goods are to be read in accordance with section 54(1A) or 56(1A) of the 1996 Act where necessary or appropriate for giving effect to this Part.
 (9) Sections 109 and 110 of this Act apply in relation to the continuing functions under the 1996 Act that the chief executive, Customs, or any Customs officer has as a result of this Part or otherwise, and references to duty in those sections are to be read accordingly.
