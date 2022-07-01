@@ -1,5 +1,5 @@
 # Anti-Money Laundering and Countering Financing of Terrorism Act 2009
-_Consolidation as at 2022-03-12_
+_Consolidation as at 2022-07-01_
 
 ### 1 Title
 This Act is the Anti-Money Laundering and Countering Financing of Terrorism Act 2009.
@@ -293,7 +293,7 @@ This Act is the Anti-Money Laundering and Countering Financing of Terrorism Act 
   - **privileged communication** has the meaning set out in section 42
   - **real estate agency work** has the same meaning as in the definition of that term in section 4(1) of the Real Estate Agents Act 2008
   - **real estate agent** has the same meaning as the definition of agent in section 4(1) of the Real Estate Agents Act 2008
-  - **registered bank** has the same meaning as in section 2(1) of the Reserve Bank of New Zealand Act 1989
+  - **registered bank** has the same meaning as in section 2(1) of the Banking (Prudential Supervision) Act 1989
   - **regulations** means regulations made under this Act
   - **regulator** —
     (a) means a professional body responsible under any New Zealand enactment for enforcing the regulatory obligations of a particular industry or profession whose members are subject to this Act; and
@@ -503,7 +503,7 @@ A reporting entity must also obtain—
   (m) a government body that—
     (i) corresponds to a public service agency as defined in section 5 of the Public Service Act 2020; and
     (ii) is located in an overseas jurisdiction that has sufficient AML/CFT systems:
-  (n) a registered bank within the meaning of section 2(1) of the Reserve Bank of New Zealand Act 1989:
+  (n) a registered bank within the meaning of section 2(1) of the Banking (Prudential Supervision) Act 1989:
   (o) a licensed insurer within the meaning of section 6(1) of the Insurance (Prudential Supervision) Act 2010:
   (p) a company, or a subsidiary (within the meaning of section 5(1) of the Companies Act 1993) of that company,—
     (i) whose equity securities are listed in New Zealand or on an overseas stock exchange that has sufficient disclosure requirements; and
@@ -881,7 +881,7 @@ An AML/CFT supervisor that has, in the performance and exercise of its functions
     (ii)
     (iii) the Financial Service Providers (Registration and Dispute Resolution) Act 2008:
     (iv) the Gambling Act 2003:
-    (v) the Reserve Bank of New Zealand Act 1989:
+    (v) the Reserve Bank of New Zealand Act 2021 and the Acts that are prudential legislation (within the meaning of section 5 of that Act):
     (vi) the Financial Markets Conduct Act 2013.
 
 ### Subpart 2A — Prescribed transaction reports
@@ -1652,8 +1652,8 @@ The functions of an AML/CFT supervisor are to—
 
 ### 137 Power to use information obtained as AML/CFT supervisor in other capacity and vice versa
 (1) This section applies to information other than personal information.
-(2) The Reserve Bank may use any information obtained or held by it in the exercise of its powers or the performance of its functions and duties under the Reserve Bank of New Zealand Act 1989, the Insurance (Prudential Supervision) Act 2010, the Financial Market Infrastructures Act 2021, and the Non-bank Deposit Takers Act 2013 for the purpose of exercising its powers or performing its functions and duties under this Act as an AML/CFT supervisor.
-(3) The Reserve Bank may use any information obtained or held by it in the exercise of its powers or the performance of its functions and duties under this Act as an AML/CFT supervisor for the purpose of exercising its powers or performing its functions and duties under the Reserve Bank of New Zealand Act 1989, the Insurance (Prudential Supervision) Act 2010, the Financial Market Infrastructures Act 2021, and the Non-bank Deposit Takers Act 2013.
+(2) The Reserve Bank may use any information obtained or held by it in the exercise of its powers or the performance of its functions and duties under the Reserve Bank of New Zealand Act 2021, the Banking (Prudential Supervision) Act 1989, the Insurance (Prudential Supervision) Act 2010, the Financial Market Infrastructures Act 2021, and the Non-bank Deposit Takers Act 2013 for the purpose of exercising its powers or performing its functions and duties under this Act as an AML/CFT supervisor.
+(3) The Reserve Bank may use any information obtained or held by it in the exercise of its powers or the performance of its functions and duties under this Act as an AML/CFT supervisor for the purpose of exercising its powers or performing its functions and duties under the Reserve Bank of New Zealand Act 2021, the Banking (Prudential Supervision) Act 1989, the Insurance (Prudential Supervision) Act 2010, the Financial Market Infrastructures Act 2021, and the Non-bank Deposit Takers Act 2013.
 (4) The Financial Markets Authority may use any information obtained or held by it in the exercise of its powers or the performance of its functions and duties under the Financial Markets Authority Act 2011, the Financial Market Infrastructures Act 2021, and the Financial Markets Conduct Act 2013 for the purpose of exercising its powers or performing its functions and duties under this Act as an AML/CFT supervisor.
 (5) The Financial Markets Authority may use any information obtained or held by it in the exercise of its powers or the performance of its functions and duties under this Act as an AML/CFT supervisor for the purpose of exercising its powers or performing its functions and duties under the Financial Markets Authority Act 2011, the Financial Market Infrastructures Act 2021, and the Financial Markets Conduct Act 2013.
 (6) The Department of Internal Affairs may use any information obtained or held by it in the exercise of its powers or the performance of its functions and duties under the Gambling Act 2003, the Racing Industry Act 2020, and the Charities Act 2005 for the purpose of exercising its powers or performing its functions and duties under this Act as an AML/CFT supervisor.
@@ -1701,7 +1701,7 @@ An AML/CFT supervisor may only use information obtained under section 137 if the
   (q) the Proceeds of Crime Act 1991:
   (r) the Racing Industry Act 2020:
   (s) the Real Estate Agents Act 2008:
-  (t) the Reserve Bank of New Zealand Act 1989:
+  (t) the Banking (Prudential Supervision) Act 1989:
   (ta) the Russia Sanctions Act 2022:
   (u) the Secondhand Dealers and Pawnbrokers Act 2004:
   (v) the Tax Administration Act 1994:
