@@ -1,5 +1,5 @@
 # Psychoactive Substances Act 2013
-_Consolidation as at 2021-12-07_
+_Consolidation as at 2022-07-01_
 
 ### 1 Title
 This Act is the Psychoactive Substances Act 2013.
@@ -111,7 +111,7 @@ In this Act, unless the context otherwise requires,—
   - **psychoactive effect** , in relation to an individual who is using or has used a psychoactive substance, means the effect of the substance on the individual's mind
   - **psychoactive product** or means a finished product packaged and ready for retail sale that is a psychoactive substance or that contains 1 or more psychoactive substances
   - **psychoactive substance** has the meaning given in section 9
-  - **public health** has the same meaning as in section 6(1) of the New Zealand Public Health and Disability Act 2000
+  - **public health** has the same meaning as in section 4 of the Pae Ora (Healthy Futures) Act 2022
   - **publicly notify** means to publish a notice—
     (a) in the Gazette; and
     (b) on an Internet site maintained by or on behalf of the Authority
