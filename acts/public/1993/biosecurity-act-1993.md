@@ -1,5 +1,5 @@
 # Biosecurity Act 1993
-_Consolidation as at 2022-04-12_
+_Consolidation as at 2022-07-01_
 
 > An Act to restate and reform the law relating to the exclusion, eradication, and effective management of pests and unwanted organisms
 
@@ -2224,7 +2224,7 @@ If the Minister is satisfied that section 84 has been complied with, the Ministe
   (d) Fire and Emergency New Zealand:
   (e)
   (f)
-  (g) DHBs, as defined in section 6 of the New Zealand Public Health and Disability Act 2000.
+  (g) Health New Zealand, as defined in section 4 of the Pae Ora (Healthy Futures) Act 2022.
 (2) An emergency is,—
   (a) for the purposes of subsection (1)﻿(a), an emergency relating to—
     (i) a threat to New Zealand's interests under section 5 of the Defence Act 1990:
@@ -2476,7 +2476,7 @@ If the council is satisfied that section 93 has been complied with, the council 
   (d) Fire and Emergency New Zealand:
   (e)
   (f)
-  (g) DHBs, as defined in section 6 of the New Zealand Public Health and Disability Act 2000.
+  (g) Health New Zealand, as defined in section 4 of the Pae Ora (Healthy Futures) Act 2022.
 (2) An emergency is,—
   (a) for the purposes of subsection (1)﻿(a), an emergency relating to—
     (i) a threat to New Zealand's interests under section 5 of the Defence Act 1990:
@@ -2772,7 +2772,7 @@ A management agency must not spend funds to meet the costs of implementing a pla
 (2) For the purposes of this section, the amount outstanding to the management agency on a day by a person responsible for collecting the levy is calculated by subtracting the total of the levy payments that the person makes before that day to the management agency from the total of the amounts that subsection (4) requires the person to deposit in the account not later than a day before that day.
 (3) A person responsible for collecting the levy must—
   (a) keep an account—
-    (i) at a registered bank within the meaning of the Reserve Bank of New Zealand Act 1989; and
+    (i) at a registered bank within the meaning of the Banking (Prudential Supervision) Act 1989; and
     (ii) named in a way that identifies it as a trust account kept by the person responsible for collecting the levy; and
   (b) take all practicable steps to ensure that the account is used for holding only the amounts that subsection (4) requires to be deposited in it; and
   (c) take all practicable steps to ensure that the balance in the account on any day is not less than the amount outstanding to the management agency on that day by the person; and
@@ -3061,7 +3061,7 @@ The purpose of this Part is to provide a framework that enables the government a
 (2) For the purposes of this section, the amount outstanding to the payee on a day by a person responsible for collecting the levy is calculated by subtracting the total of the levy payments that the person makes before that day to the payee from the total of the amounts that subsection (4) requires the person to deposit in the account not later than a day before that day.
 (3) A person responsible for collecting the levy must—
   (a) keep an account—
-    (i) at a registered bank within the meaning of the Reserve Bank of New Zealand Act 1989; and
+    (i) at a registered bank within the meaning of the Banking (Prudential Supervision) Act 1989; and
     (ii) named in a way that identifies it as a trust account kept by the person responsible for collecting the levy; and
   (b) take all practicable steps to ensure that the account is used for holding only the amounts that subsection (4) requires to be deposited in it; and
   (c) take all practicable steps to ensure that the balance in the account on any day is not less than the amount outstanding to the payee on that day by the person; and
@@ -3781,7 +3781,7 @@ A levy order under section 140AA may—
   (j) require that levy funds payable be held on trust in separate accounts.
 
 ### 140A Trust accounts for levy money payable to Director-General
-(1) Where an order under section 137 or 140AA provides that funds from which payments of levy are made are to be held on trust in separate accounts, the persons responsible for collecting the levy must each keep a bank account (in this section referred to as a trust account) at a registered bank within the meaning of the Reserve Bank of New Zealand Act 1989; and—
+(1) Where an order under section 137 or 140AA provides that funds from which payments of levy are made are to be held on trust in separate accounts, the persons responsible for collecting the levy must each keep a bank account (in this section referred to as a trust account) at a registered bank within the meaning of the Banking (Prudential Supervision) Act 1989; and—
   (a) ensure that the account is so named as to identify that it is a trust account kept by the person responsible for collecting the levy for the purposes of the order; and
   (b) take all practicable steps to ensure that—
     (i) the account is used only for holding amounts required to be deposited by subsection (3); and
