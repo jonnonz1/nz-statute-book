@@ -1,5 +1,5 @@
 # Victims' Rights Act 2002
-_Consolidation as at 2021-12-21_
+_Consolidation as at 2022-07-01_
 
 ### 1 Title
 This Act is the Victims' Rights Act 2002.
@@ -124,7 +124,7 @@ Sections 7 to 9, and the principles in them guiding the treatment of victims, do
 (2) In this section,—
   - **agency** means—
     (a) the Accident Compensation Corporation:
-    (b) a DHB (as defined in section 6(1) of the New Zealand Public Health and Disability Act 2000):
+    (b) Health New Zealand (as defined in section 4 of the Pae Ora (Healthy Futures) Act 2022):
     (c) the Department of Corrections:
     (d) the Ministry of Justice:
     (e) the Ministry of Social Development:
