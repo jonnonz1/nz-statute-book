@@ -1,5 +1,5 @@
 # Contraception, Sterilisation, and Abortion Act 1977
-_Consolidation as at 2022-03-19_
+_Consolidation as at 2022-07-01_
 
 > Title
 
@@ -197,14 +197,14 @@ If a constable reasonably believes that a person is engaging in prohibited behav
   (c) the person for whom work is done by an unpaid worker.
 
 ### 16 Minister of Health to ensure availability of certain services
-(1) The Minister of Health must, when entering into Crown funding agreements under the New Zealand Public Health and Disability Act 2000, take reasonable steps to ensure that—
+(1) Health New Zealand and the Māori Health Authority must, when developing the New Zealand Health Plan under the Pae Ora (Healthy Futures) Act 2022, take reasonable steps to ensure that—
   (a) the following services are available throughout New Zealand:
     (i) the services specified in section 14(1); and
     (ii) counselling services in relation to, or in connection with, the provision of abortion services; and
   (b) the following services are provided in accordance with the standards developed by the Director-General under section 19(1)﻿(b):
     (i) abortion services:
     (ii) counselling services in relation to, or in connection with, the provision of abortion services.
-(2) To meet the obligation under subsection (1)﻿(a)﻿(i), the Minister of Health must ensure that access to emergency contraception is available throughout New Zealand within 48 hours of it being requested by any person.
+(2) To meet the obligation under subsection (1)﻿(a)﻿(i), Health New Zealand and the Māori Health Authority must ensure that access to emergency contraception is available throughout New Zealand within 48 hours of it being requested by any person.
 (3) In this section, emergency contraception means a contraceptive precaution to avoid the risk of pregnancy to be taken after a sexual connection has occurred.
 
 ### 17 Duty of Director-General to undertake periodic reviews of certain matters
