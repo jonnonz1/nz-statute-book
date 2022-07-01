@@ -1,5 +1,5 @@
 # Financial Market Infrastructures Act 2021
-_Consolidation as at 2021-05-10_
+_Consolidation as at 2022-07-01_
 
 ### 1 Title
 This Act is the Financial Market Infrastructures Act 2021.
@@ -158,7 +158,7 @@ In this Act, unless the context otherwise requires,—
     (b) an administrator under Part 15A of the Companies Act 1993:
     (c) a statutory manager under any of the following:
       (i) Part 3 of the Corporations (Investigation and Management) Act 1989:
-      (ii) Part 5 of the Reserve Bank of New Zealand Act 1989:
+      (ii) Part 5 of the Banking (Prudential Supervision) Act 1989:
       (iii) subpart 4 of Part 4 of the Insurance (Prudential Supervision) Act 2010:
       (iv) subpart 3 of Part 4:
     (d) a receiver appointed in New Zealand for the whole, or substantially the whole, of the assets and undertaking of a person:
@@ -200,8 +200,8 @@ In this Act, unless the context otherwise requires,—
       (iii) any other person who is bound by the FMI’s rules:
     (d) any default (however described) under the FMI’s rules has occurred in relation to the participant
   - **pure payment system** is defined in section 10(2)
-  - **RBNZ** means the Reserve Bank of New Zealand (see Part 1 of the Reserve Bank of New Zealand Act 1989)
-  - **RBNZ Minister** means the Minister of the Crown who, under the authority of a warrant or with the authority of the Prime Minister, is responsible for the administration of the Reserve Bank of New Zealand Act 1989
+  - **RBNZ** means the Reserve Bank of New Zealand (see Part 2 of the Reserve Bank of New Zealand Act 2021)
+  - **RBNZ Minister** means the Minister of the Crown who, under the authority of a warrant or with the authority of the Prime Minister, is responsible for the administration of the Reserve Bank of New Zealand Act 2021
   - **regulation** includes supervision
   - **regulator** is defined in section 8
   - **requirement** , as in a requirement imposed by or under this Act, includes (without limitation) a duty or a standard issued under section 31
@@ -737,7 +737,7 @@ This subpart applies to a designated FMI only if its designation notice specifie
 
 ### 59 Interrelationships with other enactments
 (1) The following enactments prevail over sections 54 to 57:
-  (a) sections 122(8) and 127(4) of the Reserve Bank of New Zealand Act 1989:
+  (a) sections 122(8) and 127(4) of the Banking (Prudential Supervision) Act 1989:
   (b) sections 42(8) and 44(4) of the Corporations (Investigation and Management) Act 1989.
 (2) This subpart prevails over the Insolvency (Cross-border) Act 2006.
 
@@ -1682,15 +1682,7 @@ The regulator must also publish in accordance with section 151(2)﻿(b) and (c) 
 ### Subpart 4 — Other miscellaneous provisions
 
 ### 154 RBNZ to have regard to directions about government policy objectives
-(1) The RBNZ Minister may direct the RBNZ to have regard to a government policy that relates to the RBNZ’s functions under this Act.
-(2) The RBNZ must have regard to every direction given by the RBNZ Minister under this section.
-(3) The RBNZ Minister must consult the RBNZ before giving a direction under this section.
-(4) A direction must—
-  (a) be set out in a written statement signed by the RBNZ Minister; and
-  (b) as soon as practicable after it is given, be—
-    (i) presented to the House of Representatives by the RBNZ Minister; and
-    (ii) published in the Gazette.
-(5) The RBNZ Minister may not give a direction that requires the performance or non-performance of a particular act by the RBNZ or any employee or office holder of the RBNZ, or the bringing about of a particular result, in respect of a particular person.
+[Repealed]
 
 ### 155 Limit on FMA’s powers under other enactments
 For the purposes of this Act, the FMA may exercise its powers under Part 3 of the Financial Markets Authority Act 2011 in relation to the RBNZ only if, and to the extent that, the RBNZ is an operator or a participant of an FMI.
@@ -1779,7 +1771,7 @@ Amend the Acts specified in Schedule 2 as set out in that schedule.
 ### 163 Consequential amendments that come into force by Order in Council
 (1) Amend the Acts specified in Part 1 of Schedule 3 as set out in that Part.
 (2) Amend the instrument specified in Part 2 of Schedule 3 as set out in that Part.
-(3) Revoke the instruments specified in Part 3 of Schedule 3 and all other instruments in force under section 156N of the Reserve Bank of New Zealand Act 1989.
+(3) Revoke the instruments specified in Part 3 of Schedule 3 and all other instruments in force under section 156N of the Banking (Prudential Supervision) Act 1989.
 
 ## Schedule 1 — Transitional, savings, and related provisions
 
@@ -1787,23 +1779,23 @@ Amend the Acts specified in Schedule 2 as set out in that schedule.
 
 ### 1 Definitions
 In this Part,—
-  - **RBNZ Act 1989** means the Reserve Bank of New Zealand Act 1989
-  - **repeal date** means the date on which the repeal of Parts 5B and 5C of the RBNZ Act 1989 comes into force (see section 163(1) and Part 1 of Schedule 3).
+  - **BPS Act 1989** means the Banking (Prudential Supervision) Act 1989 (being the Act that was previously called the Reserve Bank of New Zealand Act 1989)
+  - **repeal date** means the date on which the repeal of Parts 5B and 5C of the BPS Act 1989 comes into force (see section 163(1) and Part 1 of Schedule 3).
 
-### 2 Continuation of provisions of Part 5C of RBNZ Act 1989 relating to settlements, etc
-(1) Section 156Q of the RBNZ Act 1989 continues to apply to any of the following that occur before the repeal date:
+### 2 Continuation of provisions of Part 5C of BPS Act 1989 relating to settlements, etc
+(1) Section 156Q of the BPS Act 1989 continues to apply to any of the following that occur before the repeal date:
   (a) the giving or receiving of a settlement instruction:
   (b) the determination or calculation of a settlement obligation:
   (c) the effecting of a settlement:
   (d) any action falling within section 156Q(2)﻿(d).
-(2) Sections 156R and 156S of the RBNZ Act 1989 continue to apply to settlements that are effected before the repeal date.
-(3) Sections 156T and 156U of the RBNZ Act 1989 continue to apply to any netting that is done before the repeal date.
-(4) Sections 156V and 156W of the RBNZ Act 1989 continue to apply in consequence of subclauses (1) to (3).
-(5) Section 156X of the RBNZ Act 1989 continues to apply to transfers of property made before the repeal date.
+(2) Sections 156R and 156S of the BPS Act 1989 continue to apply to settlements that are effected before the repeal date.
+(3) Sections 156T and 156U of the BPS Act 1989 continue to apply to any netting that is done before the repeal date.
+(4) Sections 156V and 156W of the BPS Act 1989 continue to apply in consequence of subclauses (1) to (3).
+(5) Section 156X of the BPS Act 1989 continues to apply to transfers of property made before the repeal date.
 
 ### 3 Supplementary provisions relating to information
-(1) For the purposes of section 141, specified information includes any information that is obtained by the RBNZ or the FMA before the repeal date for the purposes of the administration of Part 5C of the RBNZ Act 1989, whether under section 156Z(4), 156ZI(2), or 156ZL of that Act or otherwise.
-(2) Sections 156G to 156I and 156ZN to 156ZQ of the RBNZ Act 1989 continue to apply in relation to information or data supplied before the repeal date in accordance with section 156C, 156Y(3)﻿(b), or 156ZL of that Act.
+(1) For the purposes of section 141, specified information includes any information that is obtained by the RBNZ or the FMA before the repeal date for the purposes of the administration of Part 5C of the BPS Act 1989, whether under section 156Z(4), 156ZI(2), or 156ZL of that Act or otherwise.
+(2) Sections 156G to 156I and 156ZN to 156ZQ of the BPS Act 1989 continue to apply in relation to information or data supplied before the repeal date in accordance with section 156C, 156Y(3)﻿(b), or 156ZL of that Act.
 
 ### 4 Transition process for existing designated settlement systems
 (1) Every existing system must, on and after the repeal date, be treated as being a designated FMI.
@@ -1818,8 +1810,8 @@ In this Part,—
 (3) The designation notice issued under subclause (2) takes effect on the repeal date.
 (4) This clause and clauses 5 to 8 apply without any involvement of the Minister.
 (5) In this clause,—
-  - **designation order** , in relation to an existing system, means the order under the RBNZ Act 1989 that declared the existing system to be a designated settlement system as in force immediately before the regulator acts under clause 4(2)
-  - **existing system** means a settlement system that, immediately before the repeal date, is a designated settlement system within the meaning of section 156M of the RBNZ Act 1989.
+  - **designation order** , in relation to an existing system, means the order under the BPS Act 1989 that declared the existing system to be a designated settlement system as in force immediately before the regulator acts under clause 4(2)
+  - **existing system** means a settlement system that, immediately before the repeal date, is a designated settlement system within the meaning of section 156M of the BPS Act 1989.
 
 ### 5 Regulator must decide whether an FMI is systemically important
 (1) The regulator must decide whether an FMI that is treated as being a designated FMI under clause 4 is systemically important.
