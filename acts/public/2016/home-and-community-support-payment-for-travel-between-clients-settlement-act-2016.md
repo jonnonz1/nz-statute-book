@@ -1,9 +1,9 @@
 # Home and Community Support (Payment for Travel Between Clients) Settlement Act 2016
-_Consolidation as at 2021-10-28_
+_Consolidation as at 2022-07-01_
 
 ## Preamble
 (1) On 7 August 2013, proceedings were lodged with the Employment Relations Authority claiming that the time spent by the applicant in travelling between clients to whom the applicant provided home-based care and support was work for the purposes of section 6 of the Minimum Wage Act 1983:
-(2) In light of these proceedings, Cabinet authorised the Ministry of Health to enter negotiations with certain unions, providers of home-based and community-based care and support services, and District Health Boards with a view to reaching an enduring, affordable, and sustainable funding solution for paying workers such as the applicant for the time and costs of travelling between each of their clients:
+(2) In light of these proceedings, Cabinet authorised the Ministry of Health to enter negotiations with certain unions, providers of home-based and community-based care and support services, and the predecessors of Health New Zealand with a view to reaching an enduring, affordable, and sustainable funding solution for paying workers such as the applicant for the time and costs of travelling between each of their clients:
 (3) The negotiations began in April 2014:
 (4) In August 2014, the parties agreed to a settlement to the effect that—
   (a) certain employees who provided particular services would be compensated, at no less than the minimum wage, for a fair approximation of the time spent travelling between clients on or after 1 July 2015; and
@@ -39,7 +39,6 @@ In this Act, unless the context otherwise requires,—
     (b) in relation to an HCS employee who makes overnight client visits, means the employee’s work period within the meaning of section 69ZC of the Employment Relations Act 2000
   - **deemed distance** has the meaning given in section 21(2)
   - **deemed travel time** has the meaning given in section 18(2)
-  - **DHB** means an organisation established as a DHB (District Health Board) by or under section 19 of the New Zealand Public Health and Disability Act 2000
   - **employee** means a person who—
     (a) is an employee within the meaning of that term in section 6(1)﻿(a) or (b)﻿(i) of the Employment Relations Act 2000; and
     (b) is not paid a salary
@@ -61,14 +60,15 @@ In this Act, unless the context otherwise requires,—
       (i) an entity listed in Schedule 3; and
       (ii) an entity that provides home and community-based support services on behalf of an entity listed in Schedule 3, including any subsidiary or subcontractor; but
     (b) if the HCS employer does not itself have separate legal personality, means the person or persons who have the legal authority to make decisions on behalf of that employer
-  - ****
+  - **Health New Zealand** has the meaning in section 4 of the Pae Ora (Healthy Futures) Act 2022
   - **home and community-based support services** —
     (a) means—
-      (i) services funded by the Ministry of Health or a DHB that are performed in a client’s home for the purpose of assisting the client to continue to live in the client’s home (such as personal care, household management, rehabilitation, or vocational services); and
+      (i) services funded by the Ministry of Health, Health New Zealand, or the Māori Health Authority that are performed in a client’s home for the purpose of assisting the client to continue to live in the client’s home (such as personal care, household management, rehabilitation, or vocational services); and
       (ii) services funded by ACC that are performed in a client’s home for the purposes of supporting the client's rehabilitation from an injury covered by the Accident Compensation Act 2001 and to achieve and sustain the client’s maximum level of participation in everyday life; but
     (b) does not include—
       (i) services that are performed for the purpose of preparing an intellectually disabled client to live independently in the community; or
-      (ii) services purchased by a disabled client (or by a disabled client’s caregiver on the client’s behalf) using funding from the Ministry of Health to allow the client (or the client’s caregiver) to directly manage the resources allocated for the client’s disability support
+      (ii) services purchased by a disabled client (or by a disabled client’s caregiver on the client’s behalf) using funding from the Ministry of Health or another agency to allow the client (or the client’s caregiver) to directly manage the resources allocated for the client’s disability support
+  - **Māori Health Authority** has the meaning in section 4 of the Pae Ora (Healthy Futures) Act 2022
   - **maximum travel distance** has the meaning given in section 5(1)
   - **mileage rate** means the mileage rate specified in clause 1 of Schedule 4
   - **qualifying distance** means the qualifying distance specified in clause 2(1) of Schedule 4
@@ -104,11 +104,11 @@ This Act binds the Crown.
 ### 8 Certain claims extinguished
 (1) This section applies to—
   (a) any claim by or on behalf of an HCS employee for wages payable under the Minimum Wage Act 1983 for travel between clients lodged but not determined before the commencement of this Act; and
-  (b) any potential claim by or on behalf of an HCS employee against an HCS employer, a former HCS employer, a DHB, ACC, or the Crown for wages payable under the Minimum Wage Act 1983 for travel between clients before the commencement of this Act.
+  (b) any potential claim by or on behalf of an HCS employee against an HCS employer, a former HCS employer, Health New Zealand, ACC, or the Crown for wages payable under the Minimum Wage Act 1983 for travel between clients before the commencement of this Act.
 (2) The claim or potential claim cannot be pursued and must be treated as if it had been withdrawn or is incapable of being lodged.
 (3) Without limiting subsection (2), an HCS employee (or any person acting on his or her behalf) cannot—
-  (a) name, join, or seek to name or join an HCS employer, a former HCS employer, a DHB, ACC, or the Crown in any civil proceedings relating to liability for wages relating to travel between clients by the employee before the commencement of this Act; or
-  (b) apply in any civil proceedings for any remedy or relief from an HCS employer, a former HCS employer, a DHB, ACC, or the Crown for wages relating to travel between clients by the employee before the commencement of this Act.
+  (a) name, join, or seek to name or join an HCS employer, a former HCS employer, Health New Zealand, ACC, or the Crown in any civil proceedings relating to liability for wages relating to travel between clients by the employee before the commencement of this Act; or
+  (b) apply in any civil proceedings for any remedy or relief from an HCS employer, a former HCS employer, Health New Zealand, ACC, or the Crown for wages relating to travel between clients by the employee before the commencement of this Act.
 (4) This section is subject to section 9.
 
 ### 9 Act does not affect enforcement of employment agreements requiring payment for travel before commencement of Act
@@ -152,7 +152,7 @@ An employment agreement that contains a term or condition that excludes, restric
   (a) that is not exceptional travel, the minimum amount payable must be calculated in accordance with section 17:
   (b) that is exceptional travel, the minimum amount payable must be calculated in accordance with section 18.
 
-### 15 Minimum amounts payable for travel before 1 March 2016 funded by Ministry of Health or a DHB
+### 15 Minimum amounts payable for travel before 1 March 2016 funded by Ministry of Health or Health New Zealand
 (1) This section applies to travel between clients, whether exceptional travel or not, by an HCS employee for the purpose of a client visit—
   (a) in which the HCS employee provides services described in paragraph (a)﻿(i) of the definition of home and community-based support services in section 4; and
   (b) that is not the first client visit for the HCS employee in a day.
@@ -242,7 +242,7 @@ An HCS employer who fails to comply with an obligation imposed on the employer b
   (d) adjust the figure specified in clause 4 of Schedule 4 downwards.
 (2) Before making a recommendation under subsection (1), the following parties must be consulted:
   (a) ACC:
-  (b) all DHBs:
+  (b) Health New Zealand:
   (c) all HCS employers listed in Schedule 3:
   (d) any unions representing 1 or more HCS employees.
 (3) Before making a recommendation under subsection (1)﻿(b), the Minister of Health and the Minister for ACC must be satisfied that the adjusted figure is a fair approximation of the actual distance HCS employees would travel between clients.
@@ -256,7 +256,7 @@ An HCS employer who fails to comply with an obligation imposed on the employer b
 (2) For the purpose of undertaking the review, the Minister must consult—
   (a) the Minister for ACC; and
   (b) ACC; and
-  (c) all DHBs; and
+  (c) Health New Zealand; and
   (d) all HCS employers listed in Schedule 3; and
   (e) any unions representing 1 or more HCS employees.
 
