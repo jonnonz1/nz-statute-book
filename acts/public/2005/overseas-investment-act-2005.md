@@ -1,5 +1,5 @@
 # Overseas Investment Act 2005
-_Consolidation as at 2022-04-12_
+_Consolidation as at 2022-07-01_
 
 ### 1 Title
 This Act is the Overseas Investment Act 2005.
@@ -2003,11 +2003,11 @@ A statutory manager has, and may exercise, all of the powers conferred on a liqu
 
 ### 111 Modifications where person under statutory management is regulated by Reserve Bank
 (1) This section applies if a person who will be made subject to statutory management by an order under section 95 is any of the following:
-  (a) a registered bank (within the meaning of section 2(1) of the Reserve Bank of New Zealand Act 1989):
-  (b) a covered bond SPV (within the meaning of section 139B of the Reserve Bank of New Zealand Act 1989):
+  (a) a registered bank (within the meaning of section 2(1) of the Banking (Prudential Supervision) Act 1989):
+  (b) a covered bond SPV (within the meaning of section 139B of the Banking (Prudential Supervision) Act 1989):
   (c) a licensed insurer (within the meaning of section 6(1) of the Insurance (Prudential Supervision) Act 2010):
   (d) a non-bank deposit taker (within the meaning of NBDT in section 5 of the Non-bank Deposit Takers Act 2013):
-  (e) an operator of a designated settlement system (within the meaning of section 156N of the Reserve Bank of New Zealand Act 1989).
+  (e) an operator of a designated settlement system (within the meaning of section 156N of the Banking (Prudential Supervision) Act 1989).
 (2) The Minister must consult the Reserve Bank before making a recommendation under section 96.
 (3) Section 99(1) does not apply and instead the statutory manager must have regard to—
   (a) the purpose of statutory management (see section 94):
