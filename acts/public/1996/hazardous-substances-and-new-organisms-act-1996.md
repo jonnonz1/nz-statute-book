@@ -1,5 +1,5 @@
 # Hazardous Substances and New Organisms Act 1996
-_Consolidation as at 2022-04-12_
+_Consolidation as at 2022-07-01_
 
 > An Act to restate and reform the law relating to the management of hazardous substances and new organisms
 
@@ -176,7 +176,7 @@ _Consolidation as at 2022-04-12_
   - **person** includes the Crown
   - **premises** includes a dwelling, building, aircraft, ship, carriage, vehicle, box, receptacle, and place
   - **prescribed** means prescribed by regulations made or an EPA notice issued under this Act
-  - **public health** has the same meaning as in section 6(1) of the New Zealand Public Health and Disability Act 2000
+  - **public health** has the same meaning as in section 4 of the Pae Ora (Healthy Futures) Act 2022
   - **public notice** means—
     (a) a notice published on an Internet site maintained by or on behalf of the Authority; or
     (b) a notice published in 1 or more daily newspapers circulating in the main metropolitan areas, together with any other public notice (if any) that the Authority or Minister (as applicable) thinks fit
