@@ -1,5 +1,5 @@
 # Reserve Bank of New Zealand Act 2021
-_Consolidation as at 2021-08-16_
+_Consolidation as at 2022-07-01_
 
 ### 1 Title
 This Act is the Reserve Bank of New Zealand Act 2021.
