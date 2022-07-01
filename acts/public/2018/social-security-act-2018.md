@@ -1,5 +1,5 @@
 # Social Security Act 2018
-_Consolidation as at 2022-04-12_
+_Consolidation as at 2022-07-01_
 
 ### 1 Title
 This Act is the Social Security Act 2018.
@@ -656,7 +656,7 @@ A person (P) is ineligible for an accommodation supplement (on the ground of the
     (iii) would be eligible to receive one of those grants were it not for the level of income of P or of P’s parent or parents or spouse or partner; or
   (c) P is a resident assessed as requiring care in respect of whom a funder is paying some or all of the cost of contracted care services under section 54, 55, 56, 57, or 58 of the Residential Care and Disability Support Services Act 2018; or
   (d) P has a psychiatric, intellectual, physical, or sensory disability, and—
-    (i) P’s accommodation costs are wholly or partly funded under the New Zealand Public Health and Disability Act 2000; or
+    (i) P’s accommodation costs are wholly or partly funded under the Pae Ora (Healthy Futures) Act 2022; or
     (ii) P’s care (other than care in P’s own home) is funded wholly or partly under that Act; or
   (e) P is receiving New Zealand superannuation or a veteran’s pension and the total income of P and P’s spouse or partner (if any) is more than the applicable amount specified in Part 2 of Schedule 5.
 
@@ -711,7 +711,7 @@ In this subpart, section 220, and Part 8 of Schedule 4, unless the context other
   (c) the person is aged 65 years or over, is a qualifying person as defined in section 12 of the Residential Care and Disability Support Services Act 2018, and must under section 17 of that Act pay a contribution based on income towards the cost of that person’s LTR contracted care that is less than the maximum contribution (as defined in section 15(2) of that Act); or
   (ca) the person is aged 50 to 64 years, is a 50+ single person as defined in section 21 of the Residential Care and Disability Support Services Act 2018, and is under section 22 of that Act liable to make a contribution based on income towards the cost of the person’s LTR contracted care that is less than the maximum contribution (as defined in section 15(2) of that Act); or
   (d) neither paragraph (c) nor paragraph (ca) applies to the person, and the person is—
-    (i) receiving, in relation to the person’s disability or long-term chronic health condition, residential care services that are partly funded under the New Zealand Public Health and Disability Act 2000; and
+    (i) receiving, in relation to the person’s disability or long-term chronic health condition, residential care services that are partly funded under the Pae Ora (Healthy Futures) Act 2022; and
     (ii) contributing to the cost of those services by a payment redirected under section 339(1)﻿(a) or (c)﻿(i), or sections 341 and 344, of this Act; or
   (e) the person has made, and not revoked, an election not to receive the payment (see section 73).
 (3) If the qualifying benefit is payable at a rate prescribed in respect of a person who is in a relationship, MSD must determine which 1 of the spouses or partners is (as only 1 of them can be) entitled to a winter energy payment.
@@ -813,7 +813,7 @@ In this subpart, disability has the same meaning as in section 21(1)﻿(h) of th
   (a) expenses arising from the disability of a person who is a resident assessed as requiring care in respect of whom a funder is paying some or all of the cost of contracted care services under section 54, 55, 56, 57, or 58 of the Residential Care and Disability Support Services Act 2018; or
   (b) expenses arising from the disability of a person that are costs of residential care services provided to the person if—
     (i) the person has a psychiatric, intellectual, physical, or sensory disability; and
-    (ii) the person’s accommodation costs or care (other than care in the person’s own home) is wholly or partly funded under the New Zealand Public Health and Disability Act 2000.
+    (ii) the person’s accommodation costs or care (other than care in the person’s own home) is wholly or partly funded under the Pae Ora (Healthy Futures) Act 2022.
 (2) Regulations made under section 426 (use of disability allowance to fund specified expenses) must not be inconsistent with this section.
 
 ### 87 Disability allowance: refusal, reduction, or cancellation of grant in certain circumstances
@@ -903,8 +903,8 @@ The purpose of temporary additional support is to provide temporary financial as
   (b) P has cash assets of not more than the prescribed amount; and
   (c) P meets any prescribed criteria and any other requirements set out in regulations made under section 428.
 (2) However, temporary additional support must not be granted in respect of the cost of residential care services supplied to a person who has a psychiatric, intellectual, physical, or sensory disability if—
-  (a) the person’s accommodation costs are wholly or partly funded under the New Zealand Public Health and Disability Act 2000; or
-  (b) the person’s care (other than care in the person’s own home) is wholly or partly funded under the New Zealand Public Health and Disability Act 2000.
+  (a) the person’s accommodation costs are wholly or partly funded under the Pae Ora (Healthy Futures) Act 2022; or
+  (b) the person’s care (other than care in the person’s own home) is wholly or partly funded under the Pae Ora (Healthy Futures) Act 2022.
 (3) Temporary additional support granted under subsection (1) must be granted in the prescribed amount and for the prescribed period.
 (4) This section is subject to clause 20 (how commitments for temporary additional support may be affected by debt, or health or disability, insurance payment) of Schedule 3.
 
@@ -1051,7 +1051,7 @@ An obligation applies from the time that the benefit in question is paid, except
 (1) It is a condition of every benefit, unless MSD in a particular case determines otherwise, that the applicant or beneficiary must, by the deadline (specified by regulations made under section 438(2)﻿(a)﻿(ii)) for receipt by MSD of any supporting evidence reasonably required by MSD,—
   (a) give MSD details of an existing suitable bank account held by the applicant or beneficiary; or
   (b) open a bank account, if the applicant or beneficiary does not hold one, and give MSD details of it.
-(2) Bank account, in this section, means an account with a bank that is a registered bank (as defined in section 2(1) of the Reserve Bank of New Zealand Act 1989), a private savings bank, a credit union, a building society, or a non-bank deposit taker (as defined in section 5 of the Non-bank Deposit Takers Act 2013).
+(2) Bank account, in this section, means an account with a bank that is a registered bank (as defined in section 2(1) of the Banking (Prudential Supervision) Act 1989), a private savings bank, a credit union, a building society, or a non-bank deposit taker (as defined in section 5 of the Non-bank Deposit Takers Act 2013).
 
 **General obligations: supplying tax file number**
 
@@ -3674,7 +3674,7 @@ An applicant or beneficiary or other person may appeal to the appeal authority a
 ### 402 Act does not affect appeals to authority under other enactments
 This Act does not affect appeals under other enactments to the appeal authority (or appeals in respect of determinations by the appeal authority of those appeals), for example,—
   (a) appeals under section 133, and in accordance with regulations made under section 136, of the Public and Community Housing Management Act 1992; or
-  (b) appeals provided for by regulations made, or deemed to have been made, under section 92(3)﻿(d) of the New Zealand Public Health and Disability Act 2000.
+  (b) appeals provided for by regulations made, or deemed to have been made, under section 102(1)﻿(i) of the Pae Ora (Healthy Futures) Act 2022.
 
 **Procedure**
 
