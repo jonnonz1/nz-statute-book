@@ -1,5 +1,5 @@
 # Goods and Services Tax Act 1985
-_Consolidation as at 2022-04-12_
+_Consolidation as at 2022-07-01_
 
 > An Act to make provision for the imposition and collection of goods and services tax
 
@@ -2034,9 +2034,9 @@ A registered person who receives a supply of goods or services that is treated b
   (a) if less than or equal to half of that cent, may be disregarded for the purposes of this section:
   (b) if in excess of half of that cent, shall be deemed for the purposes of this section to be an amount equal to 1 cent.
 (7) In this section,—
-  - **Pharmac** means the Pharmaceutical Management Agency established by section 46 of the New Zealand Public Health and Disability Act 2000
-  - **Pharmac agreement** means an agreement to which Pharmac is a party and under which Pharmac agrees to list a pharmaceutical on the pharmaceutical schedule as defined in section 6 of the New Zealand Public Health and Disability Act 2000
-  - **pharmaceutical** means a pharmaceutical as defined in section 6 of the New Zealand Public Health and Disability Act 2000.
+  - **Pharmac** means the Pharmaceutical Management Agency continued by section 67 of the Pae Ora (Healthy Futures) Act 2022
+  - **Pharmac agreement** means an agreement to which Pharmac is a party and under which Pharmac agrees to list a pharmaceutical on the pharmaceutical schedule as defined in section 4 of the Pae Ora (Healthy Futures) Act 2022
+  - **pharmaceutical** means a pharmaceutical as defined in section 4 of the Pae Ora (Healthy Futures) Act 2022.
 
 ### 25AA Consequences of change in contract for imported goods and services
 (1) Despite section 25, this section applies in relation to a supply of goods or services by a non-resident that is treated by sections 5B and 8(4B) as being made in New Zealand by the recipient of the supply if—
