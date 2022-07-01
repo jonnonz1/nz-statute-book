@@ -1,5 +1,5 @@
 # Public Audit Act 2001
-_Consolidation as at 2021-10-28_
+_Consolidation as at 2022-07-01_
 
 ### 1 Title
 This Act is the Public Audit Act 2001.
@@ -133,7 +133,7 @@ The provisions set out in Schedule 3 apply to the Auditor-General, Deputy Audito
   (c) any act or omission of a public entity, in order to determine whether waste has resulted or may have resulted or may result:
   (d) any act or omission showing or appearing to show a lack of probity or financial prudence by a public entity or 1 or more of its members, office holders, and employees.
 (2) An audit under this section may relate to 1 or more public entities.
-(3) Subsection (1)﻿(a) does not apply to the Reserve Bank of New Zealand or any registered bank (as defined in section 2(1) of the Reserve Bank of New Zealand Act 1989).
+(3) Subsection (1)﻿(a) does not apply to any registered bank (as defined in section 2(1) of the Banking (Prudential Supervision) Act 1989).
 (4) If subsection (1)﻿(a) applies and there is an applicable government or local authority policy to which the public entity is required to adhere, the examination is to be limited to the extent to which activities are being carried out effectively and efficiently in a manner consistent with that policy.
 
 ### 17 Other auditing services
@@ -141,7 +141,7 @@ The Auditor-General may, with the agreement of a public entity, perform for that
 
 ### 18 Inquiries by Auditor-General
 (1) The Auditor-General may inquire, either on request or on the Auditor-General’s own initiative, into any matter concerning a public entity’s use of its resources.
-(2) Subsection (1) does not apply to the Reserve Bank of New Zealand or any registered bank (as defined in section 2(1) of the Reserve Bank of New Zealand Act 1989).
+(2) Subsection (1) does not apply to any registered bank (as defined in section 2(1) of the Banking (Prudential Supervision) Act 1989).
 (3) If subsection (1) applies and there is an applicable government or local authority policy to which the public entity is required to adhere, the inquiry is to be limited to the extent to which the public entity is using its resources in a manner consistent with that policy.
 
 **Audits of other entities**
