@@ -1,5 +1,5 @@
 # Financial Service Providers (Registration and Dispute Resolution) Act 2008
-_Consolidation as at 2022-05-25_
+_Consolidation as at 2022-07-01_
 
 ### 1 Title
 This Act is the Financial Service Providers (Registration and Dispute Resolution) Act 2008.
@@ -1114,7 +1114,7 @@ The person responsible for an approved dispute resolution scheme must notify the
   (a) co-operate with other approved dispute resolution schemes if a complaint involves members of those other schemes (for example, by disclosing personal information in accordance with the Privacy Act 1993 and protecting information that is subject to an obligation of confidence); and
   (b) co-operate with the Registrar, including by communicating information to the Registrar in accordance with sections 17 and 34; and
   (c) if A has reasonable grounds to believe that a member that is a registered bank, a licensed insurer, or a licensed NBDT has contravened or is likely to contravene any of the following Acts in a material respect, communicate that fact to the Reserve Bank:
-    (i) the Reserve Bank of New Zealand Act 1989:
+    (i) the Banking (Prudential Supervision) Act 1989:
     (ii) the Insurance (Prudential Supervision) Act 2010:
     (iii) the Non-bank Deposit Takers Act 2013; and
   (d) if A has reasonable grounds to believe that a member that is a financial markets participant has contravened or is likely to contravene any financial markets legislation in a material respect, communicate that fact to the FMA; and
@@ -1318,7 +1318,7 @@ The enactment specified in Schedule 1 is amended in the manner indicated in that
 | Licensing authority | Licensed provider | Enactment |
 | --- | --- | --- |
 | The Minister (within the meaning of the Financial Markets Conduct Act 2013) | Persons that operate a financial product market that is licensed under Part 5 of the Financial Markets Conduct Act 2013 | Financial Markets Conduct Act 2013 |
-| Reserve Bank of New Zealand | Registered banks | Reserve Bank of New Zealand Act 1989 |
+| Reserve Bank of New Zealand | Registered banks | Banking (Prudential Supervision) Act 1989 |
 | Financial Markets Authority | Licensed supervisors in respect of debt securities and managed investment schemes | Financial Markets Supervisors Act 2011 |
 | Reserve Bank of New Zealand | Licensed insurers | Insurance (Prudential Supervision) Act 2010 |
 | Financial Markets Authority | Persons who hold, or are authorised bodies under, a market services licence | Financial Markets Conduct Act 2013 |
