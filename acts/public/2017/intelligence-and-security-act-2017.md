@@ -1,5 +1,5 @@
 # Intelligence and Security Act 2017
-_Consolidation as at 2021-10-28_
+_Consolidation as at 2022-07-01_
 
 ### 1 Title
 This Act is the Intelligence and Security Act 2017.
@@ -1795,6 +1795,7 @@ Part 3 of Schedule 3 applies in relation to the membership and procedure of the 
   (a) all established internal remedies have been exhausted; or
   (b) the Director-General of the relevant intelligence and security agency agrees in writing.
 (4) The Speaker of the House of Representatives on behalf of 1 or more members of Parliament may complain about any act, omission, practice, policy, or procedure of an intelligence and security agency.
+(5) The ability to complain under this section is in addition to the ability to make a protected disclosure under the Protected Disclosures (Protection of Whistleblowers) Act 2022.
 
 ### 172 Form of complaint
 (1) A complaint may be made orally or in writing.
