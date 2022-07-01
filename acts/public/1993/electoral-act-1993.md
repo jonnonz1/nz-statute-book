@@ -1,5 +1,5 @@
 # Electoral Act 1993
-_Consolidation as at 2022-04-12_
+_Consolidation as at 2022-07-01_
 
 > An Act to reform the electoral system and to provide, in particular, if the proposal for the introduction of the mixed member proportional system is carried at the referendum held under the Electoral Referendum Act 1993,—afor the introduction of the mixed member proportional system of representation in relation to the House of Representatives:bfor the establishment of an Electoral Commission:cfor the repeal of the Electoral Act 1956
 
@@ -3533,7 +3533,7 @@ In this Part, unless the context otherwise requires,—
   (a) a party secretary:
   (b) a candidate:
   (c) a registered promoter:
-  (d) an unregistered promoter who does not incur advertising expenses exceeding $13,800 (or such other amount as is prescribed by the Governor-General by Order in Council under section 266A) in relation to election advertisements published during the regulated period.
+  (d) an unregistered promoter who does not incur advertising expenses exceeding $14,700 (or such other amount as is prescribed by the Governor-General by Order in Council under section 266A) in relation to election advertisements published during the regulated period.
 (2) The amount in subsection (1)﻿(d) is inclusive of goods and services tax.
 (3) Every person who wilfully promotes an election advertisement without being entitled to do so under subsection (1) is guilty of an illegal practice.
 
@@ -3726,8 +3726,8 @@ Every person is guilty of—
 
 ### 205C Maximum amount of candidate's total election expenses
 (1) The total election expenses of a candidate in respect of any regulated period must not exceed—
-  (a) $28,600 (or such other amount as is prescribed by the Governor-General by Order in Council under section 266A), in the case of a candidate at a general election; and
-  (b) $57,200 (or such other amount as is prescribed by the Governor-General by Order in Council under section 266A), in the case of a candidate at a by-election.
+  (a) $30,600 (or such other amount as is prescribed by the Governor-General by Order in Council under section 266A), in the case of a candidate at a general election; and
+  (b) $61,100 (or such other amount as is prescribed by the Governor-General by Order in Council under section 266A), in the case of a candidate at a by-election.
 (2) The amounts in subsection (1) are inclusive of goods and services tax.
 
 ### 205D Apportionment of advertising expenses for publication of candidate advertisement both before and during regulated period
@@ -3865,9 +3865,9 @@ Every person is guilty of—
 
 ### 206C Maximum amount of party's total election expenses
 (1) If a party is listed in the part of the ballot paper that relates to the party vote, the total election expenses of that party in respect of any regulated period must not exceed—
-  (a) $1,217,000 (or such other amount as is prescribed by the Governor-General by Order in Council under section 266A); and
-  (b) $28,600 (or such other amount as is prescribed by the Governor-General by Order in Council under section 266A) for each electoral district contested by a candidate for the party.
-(2) If a party is not listed in the part of the ballot paper that relates to the party vote, the total election expenses of that party in respect of any regulated period must not exceed $28,600 for each electoral district contested by a candidate for the party.
+  (a) $1,301,000 (or such other amount as is prescribed by the Governor-General by Order in Council under section 266A); and
+  (b) $30,600 (or such other amount as is prescribed by the Governor-General by Order in Council under section 266A) for each electoral district contested by a candidate for the party.
+(2) If a party is not listed in the part of the ballot paper that relates to the party vote, the total election expenses of that party in respect of any regulated period must not exceed $30,600 for each electoral district contested by a candidate for the party.
 (3) The amounts in subsections (1) and (2) are inclusive of goods and services tax.
 
 ### 206CA Apportionment of advertising expenses for publication of party advertisement both before and during regulated period
@@ -4047,7 +4047,7 @@ Every person is guilty of—
   (b) an illegal practice who contravenes section 206T in any other case.
 
 ### 206V Maximum amount of registered promoter's total election expenses
-(1) The total election expenses of a registered promoter in respect of any regulated period must not exceed $343,000 (or such other amount as is prescribed by the Governor-General by Order in Council under section 266A).
+(1) The total election expenses of a registered promoter in respect of any regulated period must not exceed $367,000 (or such other amount as is prescribed by the Governor-General by Order in Council under section 266A).
 (2) The amount in subsection (1) is inclusive of goods and services tax.
 
 ### 206W Apportionment of advertising expenses for publication of election advertisement promoted by registered promoter both before and during regulated period
@@ -4598,7 +4598,7 @@ In this Part,—
     (a) the amount of money lent by the lender under the loan; or
     (b) where any money may be lent under the loan in the future, the maximum amount that may be owed at any one time; or
     (c) the total of the amounts in paragraphs (a) and (b), in any case where the lender has provided, and may in the future provide, money under the loan
-  - **registered bank** has the same meaning as in section 2(1) of the Reserve Bank of New Zealand Act 1989.
+  - **registered bank** has the same meaning as in section 2(1) of the Banking (Prudential Supervision) Act 1989.
 
 ### 213 Party secretary may enter into loan on behalf of party
 (1) A party may enter into a loan only with the authorisation of the party secretary.
@@ -5429,65 +5429,6 @@ The income of the Commission shall be exempt from income tax.
 ## Schedule 3 — Enactments repealed
 
 ### 1 Title
-This Act is the Electoral Amendment Act 2009.
-
-### 2 Commencement
-This Act comes into force on 1 March 2009.
-
-### 3 Principal Act amended
-This Act amends the Electoral Act 1993.
-
-## Part 2 — Repeal, consequential amendments, and transitional and savings provisions
-
-### Subpart 2 — Transitional and savings provisions
-
-### 17 Continuation of obligations and rights arising from election expenses in respect of 2008 general election
-(1) This section applies where, in respect of the 2008 general election, a person would, but for the repeal of the Electoral Finance Act 2007 by section 15 of this Act,—
-  (a) be subject to a duty, liability, or restriction under any of the following provisions of the Electoral Finance Act 2007:
-    (i) sections 82 and 85 to 92 (which relate to candidates' election expenses):
-    (ii) sections 102 and 105 to 112 (which relate to parties' election expenses):
-    (iii) sections 123 and 126 to 133 (which relate to third parties' election expenses); or
-  (b) be entitled to seek relief under sections 83, 84, 103, 104, 124, and 125 of the Electoral Finance Act 2007 (which provide for the commencement of proceedings in respect of unpaid election expenses); or
-  (c) be entitled to inspect a copy of a return under sections 92, 112, and 133 of the Electoral Finance Act 2007 (which provide for the publication and inspection of returns of election expenses filed for candidates, parties, and third parties).
-(2) The duty, liability, restriction, or entitlement must be complied with or recognised, as the case may be, and for that purpose the Electoral Finance Act 2007 continues in force as if it had not been repealed.
-(3) This section has effect despite section 15 of this Act.
-
-### 18 Continuation of obligations and rights arising under the Electoral Finance Act 2007 in respect of donations
-(1) This section applies where, in respect of a candidate donation, party donation, or third party donation made before the commencement of this Act, a person would, but for the repeal of the Electoral Finance Act 2007 by section 15 of this Act,—
-  (a) be subject to a duty or liability under any of the following provisions of the Electoral Finance Act 2007:
-    (i) sections 23 to 36 (which are general provisions relating to donations):
-    (ii) sections 38 to 44 (which relate to donations protected from disclosure):
-    (iii) sections 45 to 50 (which relate to the disclosure of candidate donations):
-    (iv) sections 51 to 57 (which relate to the disclosure of party donations):
-    (v) sections 58 to 62 (which relate to the disclosure of third party donations); or
-  (b) be entitled to have a donation returned under either of the following provisions of the Electoral Finance Act 2007:
-    (i) section 32 (which relates to the return of an overseas donation):
-    (ii) section 41 (which relates to the return of a donation protected from disclosure); or
-  (c) be entitled to inspect a copy of a return under sections 50, 57, and 62 of the Electoral Finance Act 2007 (which provide for the publication and inspection of returns of donations filed for candidates, parties, and third parties).
-(2) The duty, liability, or entitlement must be complied with or recognised, as the case may be, and for that purpose the Electoral Finance Act 2007 continues in force as if it had not been repealed.
-(3) This section has effect despite section 15 of this Act.
-
-### 19 Annual return of party donations for year ending 31 December 2008
-(1) A party secretary is not required by section 210 of the principal Act to file by 30 April 2009 an annual return of party donations for the year ending 31 December 2008.
-(2) Subsection (1) does not affect the obligations arising under section 51 of the Electoral Finance Act 2007 as continued by section 18 of this Act.
-
-### 20 Annual return of party donations for year ending 31 December 2009
-(1) A return of party donations filed by a party secretary under section 210 of the principal Act for the year ending 31 December 2009 must include in the details required by that section any party donation that—
-  (a) was received by the party financial agent during the period beginning on 1 January 2009 and ending on 28 February 2009; and
-  (b) would otherwise have been required to be included in a return under section 51 of the Electoral Finance Act 2007 as continued by section 18 of this Act.
-(2) Despite section 18 of this Act, a party financial agent is not required to file by 30 April 2010 an annual return of party donations under section 51 of the Electoral Finance Act 2007 for the year ending 31 December 2009.
-(3) In this section, party financial agent means the financial agent of a party appointed under section 7 of the Electoral Finance Act 2007.
-
-### 21 Transitional provision relating to section 210C of principal Act
-Until 1 March 2010, section 210C(3) of the principal Act must be read as if the reference to subsection (2) of that section was a reference to subsection (2) of that section or section 54(2) of the Electoral Finance Act 2007.
-
-### 22 Saving of section 19 of Interpretation Act 1999
-Sections 17 and 18 of this Act do not limit section 19 of the Interpretation Act 1999 (which enables the investigation and prosecution of offences committed under the Electoral Finance Act 2007 before it was repealed).
-
-### 24 Expiry of section 23
-Section 23 expires on the close of 1 March 2011 and on the close of that date is repealed.
-
-### 1 Title
 This Act is the Electoral (Administration) Amendment Act 2010.
 
 ### 2 Commencement
@@ -5501,202 +5442,13 @@ This Act amends the Electoral Act 1993.
 
 ## Part 2 — Consequential amendments and transitional provisions
 
-### 15 Interpretation
-In this Part, unless the context requires otherwise,—
-  - **existing Chief Electoral Officer** means the Chief Electoral Officer appointed under section 18 of the principal Act
-  - **existing Electoral Commission** means the Electoral Commission established by section 4 of the principal Act
-  - **new Electoral Commission** means the Electoral Commission established by section 4B of the principal Act as inserted by section 4 of this Act
-  - **previous employer** , in relation to a transferred employee, means the employer of that employee immediately before 1 October 2010
-  - **transferred employee** means a person who,—
-    (a) immediately before 1 October 2010, was employed by the Ministry of Justice or the existing Electoral Commission; and
-    (b) is transferred to the new Electoral Commission under section 20 or 23.
-
 ### Subpart 1 — Provisions coming into force on day after Royal assent
-
-### 16 New Electoral Commission may perform certain functions before 1 October 2010
-Until the close of 30 September 2010, the new Electoral Commission may perform only those functions that are necessary or desirable to bring, or in connection with bringing, the principal Act as amended by this Act into operation.
-
-### 17 Statement of intent
-The existing Electoral Commission is not required to produce a statement of intent for the financial year commencing 1 July 2010.
-
-### 18 References to Electoral Commission
-(1) Until the close of 30 September 2010, any reference to the Electoral Commission—
-  (a) in sections 4B to 4J of the principal Act must be read as a reference to the Electoral Commission established by section 4B of the principal Act; and
-  (b) in the following enactments must be read as a reference to both the Electoral Commission established by section 4 of the principal Act and the Electoral Commission established by section 4B of the principal Act:
-    (i) Schedule 1 of the Crown Entities Act 2004:
-    (ii) Part 2 of Schedule 1 of the Ombudsmen Act 1975:
-    (iii) Schedule 4 of the Remuneration Authority Act 1977; and
-  (c) in any other enactment must be read as a reference to the Electoral Commission established by section 4 of the principal Act.
-(2) On and from 1 October 2010, any reference to the Electoral Commission in any enactment must be read as a reference to the Electoral Commission established by section 4B of the principal Act.
-
-### 19 Assets and liabilities of existing Electoral Commission
-On 1 October 2010, all assets, records, liabilities, and debts of the existing Electoral Commission vest in the new Electoral Commission.
-
-### 20 Employees of existing Electoral Commission
-(1) On 1 October 2010, all employees of the existing Electoral Commission are transferred to the new Electoral Commission.
-(2) Subsection (1) does not apply to any employee who does not consent to being transferred.
-
-### 21 References to Chief Electoral Officer
-(1) Until the close of 30 September 2010, any reference to the Chief Electoral Officer, other than a reference in section 4D of the principal Act, must be read as a reference to the Chief Electoral Officer appointed under section 18 of the principal Act.
-(2) On and from 1 October 2010,—
-  (a) the references to the Chief Electoral Officer in sections 28(2)﻿(c) and 33(4) of the principal Act must be read as references to the Chief Electoral Officer appointed under section 4D(1)﻿(a) of the principal Act; and
-  (b) any other reference to the Chief Electoral Officer in any enactment must be read as a reference to the Electoral Commission established by section 4B of the principal Act.
-
-### 22 Assets and liabilities of Chief Electoral Office
-(1) The Secretary for Justice must identify all assets, records, liabilities, and debts of the Ministry of Justice that, immediately before 1 October 2010, are assets, records, liabilities, and debts used or incurred by the Chief Electoral Office of the Ministry of Justice.
-(2) On 1 October 2010, the assets, records, liabilities, and debts identified by the Secretary for Justice under subsection (1) vest in the new Electoral Commission.
-
-### 23 Employees of Ministry of Justice
-(1) The Secretary for Justice must identify all permanent employees of the Ministry of Justice who, immediately before 1 October 2010, are appointed to positions within the Chief Electoral Office of the Ministry of Justice.
-(2) On 1 October 2010, the employees identified by the Secretary for Justice under subsection (1) are transferred to the new Electoral Commission.
-(3) Subsection (2) does not apply to—
-  (a) the existing Chief Electoral Officer; or
-  (b) any person appointed as Deputy Chief Electoral Officer under section 19 of the principal Act; or
-  (c) any employee who does not consent to being transferred.
-
-### 24 Terms and conditions of transferred employees
-(1) The employment of a transferred employee must be on terms and conditions no less favourable to the transferred employee than those applying to the employee immediately before 1 October 2010.
-(2) Subsection (1)—
-  (a) continues to apply to the terms and conditions of employment of a transferred employee until those terms and conditions are varied by agreement between the transferred employee and the new Electoral Commission; but
-  (b) does not apply to a transferred employee who receives any subsequent appointment with the new Electoral Commission.
 
 ### 25 Continuity of employment
 (1) Every transferred employee becomes an employee of the new Electoral Commission on 1 October 2010.
 (2) However, for the purposes of this Act and every enactment, law, determination, contract, and agreement relating to the employment of the transferred employee,—
   (a) the contract of employment of that employee is deemed to have been unbroken; and
   (b) that employee's period of service with his or her previous employer, and every other period of service of that employee that is recognised as continuous service by his or her previous employer, is deemed to have been a period of service with the new Electoral Commission.
-
-### 26 Restriction of compensation for technical redundancy
-(1) An employee of the existing Electoral Commission or the Ministry of Justice is not entitled to receive any payment or other benefit from the existing Electoral Commission or the Ministry of Justice on the ground that his or her position with that employer has ceased to exist if—
-  (a) the position ceases to exist as a result of amendments made by this Act; and
-  (b) in connection with the transfer of employees under this Act,—
-    (i) the transfer of the employee would result in substantially equivalent employment in the new Electoral Commission (whether or not the employee consents to the transfer); or
-    (ii) the employee consents to a transfer that will result in other employment in the new Electoral Commission.
-(2) Substantially equivalent employment to the employee's employment with his or her previous employer is employment in the new Electoral Commission that is—
-  (a) in substantially the same position; and
-  (b) on terms and conditions of employment that are no less favourable than those that apply to the employee immediately before the offer of equivalent employment (including any service-related, redundancy, and superannuation conditions); and
-  (c) on terms that treat the period of service with the previous employer (and any other service recognised by the previous employer as continuous service) as if it were continuous service with the new Electoral Commission.
-
-### Subpart 2 — Provisions coming into force on 1 October 2010
-
-### 28 Existing Electoral Commission disestablished
-(1) The existing Electoral Commission is disestablished.
-(2) Any member of the existing Electoral Commission holding office under section 8(1)﻿(a) or (b) of the principal Act (as in force immediately before its repeal by section 7 of this Act) ceases to hold office.
-(3) Any appointment of a member of the existing Electoral Commission made under section 8(1)﻿(c) or (d) of the principal Act (as in force immediately before its repeal by section 7 of this Act) is revoked.
-(4) Any appointment of a deputy of a member of the existing Electoral Commission made under section 11A(2) of the principal Act (as in force immediately before its repeal by section 8 of this Act) is revoked.
-
-### 29 Appointment of existing Chief Electoral Officer revoked
-The appointment of the existing Chief Electoral Officer is revoked.
-
-### 30 Enforcement of existing rights
-(1) This section applies to—
-  (a) any matter or thing commenced under any enactment by the existing Electoral Commission or the existing Chief Electoral Officer and not completed by 1 October 2010; and
-  (b) any proceedings commenced by or against the existing Electoral Commission, or by or against the Crown in respect of any act or omission of the existing Chief Electoral Officer, relating to an existing right, interest, title, immunity, or duty and not completed by 1 October 2010.
-(2) Any matter, thing, or proceedings to which this section applies may be continued, completed, or enforced by or against the new Electoral Commission.
-
-### 31 Responsibility for reports and accounts of existing Electoral Commission from 1 July 2010
-(1) The new Electoral Commission must include in its annual report for the year ending 30 June 2011 the information in respect of the existing Electoral Commission for the period commencing 1 July 2010 and ending on 30 September 2010 that the existing Electoral Commission would have had to include in its annual report under section 151 of the Crown Entities Act 2004 had it continued in existence.
-(2) To avoid doubt, the new Electoral Commission may, if it so decides, present the information referred to in subsection (1) in a combined form for the whole of the financial year ended 30 June 2011.
-(3) For the purposes of subsection (1), section 45J(1) of the Public Finance Act 1989 does not apply to the existing Electoral Commission in respect of the period commencing 1 July 2010 and ending on 30 September 2010.
-
-### 1 Title
-This Act is the Electoral (Disqualification of Sentenced Prisoners) Amendment Act 2010.
-
-### 2 Commencement
-This Act comes into force on the day after the date on which it receives the Royal assent.
-
-### 3 Principal Act amended
-This Act amends the Electoral Act 1993.
-
-### 6 Existing status under section 80(1)﻿(d) of principal Act not affected
-To avoid doubt,—
-  (a) a person who is disqualified for registration as an elector by section 80(1)﻿(d) of the principal Act immediately before the commencement of this Act continues to be disqualified for registration as an elector as if this Act had not been enacted; and
-  (b) a person who is not disqualified for registration as an elector by section 80(1)﻿(d) of the principal Act immediately before the commencement of this Act is not disqualified for registration as an elector by that section (as substituted) immediately after the commencement of this Act on the ground of an existing sentence of imprisonment; and
-  (c) section 4 of this Act does not override section 17 of the Interpretation Act 1999.
-
-### 1 Title
-This Act is the Electoral (Finance Reform and Advance Voting) Amendment Act 2010.
-
-### 2 Commencement
-This Act comes into force on 1 January 2011.
-
-## Part 2 — Transitional provisions and consequential amendments to other enactments
-
-### 35 Provision relating to donations and contributions received before 1 January 2011
-For the avoidance of doubt,—
-  (a) any provision in this Act that amends the principal Act in respect of the amount of a donation or contribution does not apply to any donation or contribution received before 1 January 2011; and
-  (b) section 210(6A) of the principal Act (as inserted by section 27(7) of this Act) does not apply to any donation received before 1 January 2011.
-
-### 36 Transitional elections
-(1) In this section, a transitional election is—
-  (a) a general election in respect of which—
-    (i) polling day is a date after the commencement day but before 31 March 2011; and
-    (ii) the regulated period would, had this Act been in force, have commenced before the commencement day:
-  (b) a by-election in respect of which the regulated period would, had this Act been in force, have commenced before the commencement day.
-(2) In the case of a transitional election, the provisions of the Electoral Act 1993 apply as if this Act had not been enacted.
-(3) In this section, commencement day means the day on which this Act comes into force.
-
-### 1 Title
-This Act is the Electoral (Administration) Amendment Act 2011.
-
-### 2 Commencement
-(1) The following come into force on 1 July 2012:
-  (a) subpart 2 of Part 1:
-  (b) subpart 2 of Part 2.
-(2) The rest of this Act comes into force on the day after the date on which it receives the Royal assent.
-
-### 3 Principal Act amended
-This Act amends the Electoral Act 1993.
-
-## Part 2 — Consequential amendments and transitional provisions
-
-### Subpart 1 — Provisions coming into force on day after assent
-
-**Transitional provisions relating to abolition of Chief Registrar of Electors**
-
-### 39 Office of Chief Registrar of Electors abolished
-At the close of 30 June 2012,—
-  (a) the office of Chief Registrar of Electors under section 21(1) of the principal Act is abolished and ceases to be held by the incumbent; and
-  (b) the office of Deputy Chief Registrar of Electors under section 21(3) of the principal Act is abolished and ceases to be held by any person appointed to it; and
-  (c) all delegations (if any) under section 21(4) to (9) of the principal Act cease to have effect.
-
-### 40 No compensation for loss of office
-No person is entitled to compensation or any other payment or benefit in respect of—
-  (a) a person ceasing under section 39(a) or (b) to hold office as the Chief, or Deputy Chief, Registrar of Electors; or
-  (b) a delegation ceasing under section 39(c) to have effect.
-
-### 41 Crown-owned assets (other than intellectual property) and records that Chief Registrar controls or possesses
-(1) The Secretary for Justice must identify all assets and records that, at the close of 30 June 2012, are Crown-owned assets or records controlled or possessed by or on behalf of the Chief Registrar of Electors.
-(2) Assets and records identified under subsection (1) (other than intellectual property) must be treated as having been vested in the Electoral Commission on 1 July 2012.
-
-### 42 Liabilities for expenses after 30 June 2012
-(1) The Secretary for Justice must identify—
-  (a) the expenses (incurred after 30 June 2012 arising from commitments before 18 August 2009) to be paid under section 44; and
-  (b) the expenses (incurred after 30 June 2012 arising from commitments after 17 August 2009 and before 1 July 2012) to be paid under section 45.
-(2) Liabilities in respect of expenses identified under subsection (1)﻿(a) must be treated as having been vested in the Electoral Commission on 1 July 2012.
-(3) Liabilities in respect of expenses identified under subsection (1)﻿(b) must be treated as having been vested on 1 July 2012 in—
-  (a) the Crown, if the Minister of Finance under section 45 approves them being paid by the Crown; or
-  (b) the Electoral Commission, if the Minister of Finance under section 45 approves them being paid by the Electoral Commission.
-
-### 43 Expenses before 1 July 2012 (whether from commitments before, on, or after 17 August 2009)
-Expenses incurred before 1 July 2012 by New Zealand Post Limited in the administration of Part 5 of the principal Act (regardless of whether those expenses arise from commitments New Zealand Post Limited entered into before, on, or after 17 August 2009) must, despite the repeal (by section 32 of this Act) of section 23 of the principal Act, be paid out of public money appropriated by Parliament.
-
-### 44 Expenses after 30 June 2012 from commitments before 18 August 2009
-Expenses incurred after 30 June 2012 by New Zealand Post Limited in the administration of Part 5 of the principal Act and arising from commitments New Zealand Post Limited entered into before 18 August 2009 must be paid by the Electoral Commission out of public money appropriated by Parliament.
-
-### 45 Expenses after 30 June 2012 from commitments after 17 August 2009 and before 1 July 2012
-Expenses incurred after 30 June 2012 by New Zealand Post Limited in the administration of Part 5 of the principal Act and arising from commitments New Zealand Post Limited entered into after 17 August 2009 and before 1 July 2012 may, with the approval of the Minister of Finance, be paid by the Crown or by the Electoral Commission (in either case) out of public money appropriated by Parliament.
-
-### 46 Matters incomplete on 1 July 2012
-A matter or thing commenced under any enactment by the Chief Registrar of Electors and not completed before 1 July 2012 may be completed by the Electoral Commission.
-
-### 47 Proceedings incomplete on 1 July 2012
-Proceedings relating to an existing right, interest, title, immunity, or duty, commenced by or against (or commenced by or against the Crown in respect of an act or omission of) the Chief Registrar of Electors, and not completed before 1 July 2012 may be completed by the Electoral Commission.
-
-### 48 Transitional or savings regulations
-(1) The Governor-General may, by Order in Council, make regulations providing for any transitional or savings matters concerning the coming into force of all or any of the provisions of this Act.
-(2) Regulations under this section must not be inconsistent with this Act.
-(3) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 1 Title
 This Act is the Electoral Amendment Act 2014.
@@ -5708,12 +5460,6 @@ This Act comes into force on the day after the date on which it receives the Roy
 
 ### 3 Principal Act
 This Part amends the Electoral Act 1993 (the principal Act).
-
-### 46 Transitional provision for party logos registered before commencement date
-(1) If the logo of a political party was registered before the commencement date and on that date the political party is a registered political party, the logo of that party is deemed to be registered under section 71F.
-(2) If the logo of a political party was registered before the commencement date and on that date the political party is not a registered political party, the Electoral Commission must cancel the registration of the party logo.
-(3) If the Electoral Commission cancels the registration of a party logo under subsection (2), the Electoral Commission must, where practicable, give written notice of the cancellation to the secretary of the political party.
-(4) In this section, commencement date means the date on which this section comes into force.
 
 ### 47 Transitional provision for loans entered into on behalf of parties before commencement date
 (1) Nothing in Part 6B applies in respect of any loan entered into on behalf of a party before the commencement date.
