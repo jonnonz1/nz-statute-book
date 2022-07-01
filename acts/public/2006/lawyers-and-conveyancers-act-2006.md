@@ -1,5 +1,5 @@
 # Lawyers and Conveyancers Act 2006
-_Consolidation as at 2021-10-28_
+_Consolidation as at 2022-07-01_
 
 ### 1 Title
 This Act is the Lawyers and Conveyancers Act 2006.
@@ -39,7 +39,7 @@ Every conveyancing practitioner who provides regulated services must, in the cou
 
 ### 6 Interpretation
 In this Act, unless the context otherwise requires,—
-  - **bank** means a registered bank within the meaning of the Reserve Bank of New Zealand Act 1989 that is carrying on in New Zealand the business of banking
+  - **bank** means a registered bank within the meaning of the Banking (Prudential Supervision) Act 1989 that is carrying on in New Zealand the business of banking
   - **banker** means the manager or other person for the time being in charge of the office of a bank in which any account is kept
   - **barrister** means a person enrolled as a barrister and solicitor of the High Court under or by virtue of this Act and practising as a barrister, whether or not he or she also practises as a solicitor; and, in relation to any country outside New Zealand, includes, for the purposes of sections 49(3)﻿(a) and 53, any person authorised to exercise in that country functions similar to those exercised by barristers in New Zealand
   - **chief executive** , in relation to a Crown organisation,—
@@ -3447,7 +3447,7 @@ A practitioner commits an offence and is liable on conviction to a fine not exce
   (a) to pay the money into an account with a bank in New Zealand:
   (b) to apply money on behalf of that person to give effect to a loan agreement where—
     (i) that person, being the lender, specifies the borrower to whom the money is to be lent; and
-    (ii) that person, being the lender, has not been introduced to the borrower by the practitioner or incorporated firm for the purpose of making that loan, other than, where that person is a financial institution within the meaning of the Reserve Bank of New Zealand Act 1989, by an application for loan finance; and
+    (ii) that person, being the lender, has not been introduced to the borrower by the practitioner or incorporated firm for the purpose of making that loan, other than, where that person is a financial institution within the meaning of the Banking (Prudential Supervision) Act 1989, by an application for loan finance; and
     (iii) the practitioner or incorporated firm has not made or participated in the decision to approve the making of the loan other than by advising in respect of the terms and conditions of the loan agreement:
   (c) to apply money to give effect to any term of a conveyance to which that person is a party, other than a conveyance that is or gives effect to a loan agreement that does not come within the terms of paragraph (b).
 (4) If the practitioner is a lawyer, nothing in this section applies to money that the lawyer is authorised to invest in any case where the only authority for investing the money is given or is capable of being given by the lawyer pursuant to a power under—
