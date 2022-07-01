@@ -1,5 +1,5 @@
 # Ngati Toa Rangatira Claims Settlement Act 2014
-_Consolidation as at 2022-04-12_
+_Consolidation as at 2022-07-01_
 
 ### 1 Title
 This Act is the Ngati Toa Rangatira Claims Settlement Act 2014.
@@ -2204,8 +2204,8 @@ The Crown may dispose of RFR land—
 ### 201 Disposals by Housing New Zealand Corporation
 Housing New Zealand Corporation, or any of its subsidiaries, may dispose of RFR land to any person if the Corporation has given notice to the trustees of the 1 or more offer trusts that, in the Corporation's opinion, the disposal is to give effect to, or assist in giving effect to, the Crown's social objectives in relation to housing or services related to housing.
 
-### 202 Disposals by Capital and Coast District Health Board
-The Capital and Coast District Health Board (established by section 19(1) of the New Zealand Public Health and Disability Act 2000), or any of its subsidiaries, may dispose of RFR land to any person if the Minister of Health has given notice to the trustees of the 1 or more offer trusts that, in the Minister's opinion, the disposal will achieve, or assist in achieving, the district health board's objectives.
+### 202 Disposals by Health New Zealand
+Health New Zealand (established by section 11 of the Pae Ora (Healthy Futures) Act 2022), or any of its subsidiaries, may dispose of RFR land to any person if the Minister of Health has given notice to the trustees that, in the Minister's opinion, the disposal will achieve, or assist in achieving, Health New Zealand's objectives.
 
 ### 203 RFR landowner's obligations subject to other things
 (1) An RFR landowner's obligations under this subpart in relation to RFR land are subject to—
