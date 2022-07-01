@@ -1,5 +1,5 @@
 # Crown Organisations (Criminal Liability) Act 2002
-_Consolidation as at 2020-12-01_
+_Consolidation as at 2022-07-01_
 
 ### 1 Title
 This Act is the Crown Organisations (Criminal Liability) Act 2002.
@@ -33,7 +33,8 @@ In this Act, unless the context otherwise requires,—
     (f) the Office of the Ombudsmen:
     (g) the Office of the Parliamentary Commissioner for the Environment:
     (h) the Parliamentary Counsel Office:
-    (i) the Parliamentary Service
+    (i) the Parliamentary Service:
+    (j) the Māori Health Authority
   - **interdepartmental venture** has the meaning given in section 5 of the Public Service Act 2020
   - **Office of Parliament** has the same meaning as in section 2(1) of the Public Finance Act 1989.
 
