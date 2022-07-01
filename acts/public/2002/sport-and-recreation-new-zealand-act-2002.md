@@ -1,5 +1,5 @@
 # Sport and Recreation New Zealand Act 2002
-_Consolidation as at 2021-10-28_
+_Consolidation as at 2022-07-01_
 
 ### 1 Title
 This Act is the Sport and Recreation New Zealand Act 2002.
@@ -31,7 +31,7 @@ In this Act, unless the context otherwise requires,—
   - **Hillary Commission** means the Hillary Commission for Sport, Fitness, and Leisure established under section 3 of the Sport, Fitness, and Leisure Act 1987
   - **Inland Revenue Acts** has the meaning set out in section 52(3)
   - **Minister** means the Minister of the Crown who, under the authority of any warrant or with the authority of the Prime Minister, is for the time being responsible for the administration of this Act
-  - **New Zealand health strategy** means the New Zealand health strategy referred to in section 8(1) of the New Zealand Public Health and Disability Act 2000
+  - **New Zealand health strategy** means the New Zealand Health Strategy referred to in section 4 of the Pae Ora (Healthy Futures) Act 2022
   - **previous employer** has the meaning set out in section 57(3)
   - **transferred employee** means a person who,—
     (a) immediately before the commencement of this Act, is employed by—
