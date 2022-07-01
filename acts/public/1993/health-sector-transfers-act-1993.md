@@ -1,5 +1,5 @@
 # Health Sector (Transfers) Act 1993
-_Consolidation as at 2021-10-28_
+_Consolidation as at 2022-07-01_
 
 > Title
 
@@ -21,7 +21,7 @@ _Consolidation as at 2021-10-28_
     (e) all patents, trade marks, designs, copyright, plant variety rights, and other intellectual property rights of any kind whether enforceable by Act or rule of law:
     (f) goodwill, and any business undertaking:
     (g) interests of any kind in any of the foregoing
-  - **Crown endowment** means, in relation to land held by a DHB, a trust settled by the Crown or by or pursuant to any Act, Provincial Ordinance, grant, or Order in Council in respect of that land, whether before or after it came to be held by the DHB, being a trust—
+  - **Crown endowment** means, in relation to land held by Health New Zealand, a trust settled by the Crown or by or pursuant to any Act, Provincial Ordinance, grant, or Order in Council in respect of that land, whether before or after it came to be held by Health New Zealand, being a trust—
     (a) for the purpose of providing an income derived from that land—
       (i) for hospital purposes (such as for the maintenance of a hospital); or
       (ii) for the purposes of any health services or disability support services or both; or
@@ -29,12 +29,12 @@ _Consolidation as at 2021-10-28_
     (c) for hospital purposes; or
     (d) for the purposes of any health services or disability support services or both; or
     (e) for any or all of the purposes described in paragraphs (a) to (d)
-  - **Crown endowment land** means, in relation to a DHB, land that—
-    (a) is vested in the DHB as a Crown endowment; and
+  - **Crown endowment land** means, in relation to Health New Zealand, land that—
+    (a) is vested in Health New Zealand as a Crown endowment; and
     (b) was either—
-      (i) granted by the Crown to the DHB or to any of its predecessors in title; or
-      (ii) vested in the DHB or in any of its predecessors in title by or pursuant to any Act, Provincial Ordinance, grant, or Order in Council; and
-    (c) was not land that, before it was granted to, or vested in, the DHB or any of its predecessors in title, had been given to the Crown, whether in trust or otherwise; and
+      (i) granted by the Crown to Health New Zealand or to any of its predecessors in title; or
+      (ii) vested in Health New Zealand or in any of its predecessors in title by or pursuant to any Act, Provincial Ordinance, grant, or Order in Council; and
+    (c) was not land that, before it was granted to, or vested in, Health New Zealand or any of its predecessors in title, had been given to the Crown, whether in trust or otherwise; and
     (d) is not a public reserve within the meaning of the Reserves Act 1977; and
     (e) is not, except for being held as a Crown endowment, land that is held in trust for a particular purpose; and
     (f) is not, except for being held as a Crown endowment, land in respect of which special provision is made by any Act or Provincial Ordinance
@@ -42,15 +42,17 @@ _Consolidation as at 2021-10-28_
   - **employee** has the same meaning as in section 6 of the Employment Relations Act 2000
   - **Health Benefits Limited** means the company incorporated under the Companies Act 1993 with the name Health Benefits Limited
   - **hospital board** means a hospital board constituted by section 25 of the Hospitals Act 1957
-  - **HPA** means the Health Promotion Agency established by section 57 of the New Zealand Public Health and Disability Act 2000
   - **HQSC** means the Health Quality and Safety Commission established under section 59A of the New Zealand Public Health and Disability Act 2000
   - **liabilities** includes—
     (a) liabilities and obligations under any Act or agreement; and
     (b) debt securities within the meaning of the Financial Markets Conduct Act 2013; and
     (c) contingent liabilities; and
     (d) interests of any kind in any of the foregoing
-  - **predecessor in title** , in relation to a DHB, means any of its predecessors in title that was an area health board or a hospital board or a Crown health enterprise or a hospital and health service or a similar body established under an enactment relating to the management of public hospitals and charitable institutions
-  - **publicly-owned health and disability organisation** means any DHB, the HPA, the NZBOS, Pharmac, and HQSC
+  - **Māori Health Authority** has the meaning in section 4 of the Pae Ora (Healthy Futures) Act 2022
+  - **predecessor in title** , in relation to Health New Zealand, means any of its predecessors in title that was a DHB, an area health board or a hospital board or a Crown health enterprise or a hospital and health service or a similar body established under an enactment relating to the management of public hospitals and charitable institutions
+  - **publicly-owned health and disability organisation** —
+    (a) means Health New Zealand, the Māori Health Authority, NZBOS, HQSC, and Pharmac; and
+    (b) includes any companies wholly or partially owned by those organisations
   - **rights** includes powers, privileges, interests, leases, licences, approvals, consents, designations, permissions, dispensations, authorisations, benefits, and equities of any kind, whether actual, contingent, or prospective
   - **transfer** includes—and the word has a corresponding meaning
     (a) assign and convey; and
@@ -72,7 +74,7 @@ _Consolidation as at 2021-10-28_
     (d) Health Benefits Limited:
     (e) in relation to any assets or liabilities that are transferred for a second or subsequent time, includes the transferee to whom those assets or liabilities have previously been transferred
   - **transferring Ministers** means the Minister of Finance and the Minister of Health.
-(2) Unless the context otherwise requires, terms defined in section 6(1) of the New Zealand Public Health and Disability Act 2000 have the same meanings in this Act.
+(2) Unless the context otherwise requires, terms defined in section 4 of the Pae Ora (Healthy Futures) Act 2022 have the same meanings in this Act.
 (3) Unless the context otherwise requires, in this Act,—
   (a) a reference to transfer or authorise includes entering into an agreement to transfer or authorise, as the case may be; and
   (b) a reference to any agreement or proposal includes any amendments to that agreement or proposal.
@@ -86,8 +88,8 @@ The purposes of this Act are as follows:
   (a) to provide for assets, liabilities, or functions within the public health and disability sector to be transferred to the Crown or to certain specified bodies within that sector:
   (b) to provide for the effect and the consequences of—
     (i) transfers, in accordance with this Act, of assets, liabilities, or functions within the public health and disability sector:
-    (ii) sales or other dispositions of land by DHBs:
-  (c) to permit DHBs, subject to specified conditions, to sell or dispose of land that is subject to trusts or certain other restrictions.
+    (ii) sales or other dispositions of land by Health New Zealand or the Māori Health Authority:
+  (c) to permit Health New Zealand or the Māori Health Authority, subject to specified conditions, to sell or dispose of land that is subject to trusts or certain other restrictions.
 
 ### 3 Act to bind the Crown
 This Act binds the Crown.
@@ -209,36 +211,36 @@ For the avoidance of doubt, it is hereby declared that, subject to sections 11 t
 (9) Nothing in this section shall limit the provisions of any other enactment or rule of law relating to the variation of trusts.
 (10) The reasonable costs of Public Trust in acting under this section shall be paid out of money appropriated by Parliament for the purpose.
 
-### 11A Power of DHB to deal with trust land
-(1) Subject to subsections (2) to (6) and to clause 43 of Schedule 3 of the New Zealand Public Health and Disability Act 2000, the powers of a DHB to sell, exchange, mortgage, or charge land may be exercised by that DHB in respect of land held in trust for any purpose, despite the terms of that trust.
+### 11A Power of Health New Zealand and Māori Health Authority to deal with trust land
+(1) Subject to this section and section 99 of the Pae Ora (Healthy Futures) Act 2022, the powers of Health New Zealand or the Māori Health Authority to sell, exchange, mortgage, or charge land may be exercised by Health New Zealand or the Māori Health Authority in respect of land held in trust for any purpose, despite the terms of that trust.
 (2) The proceeds of any sale effected pursuant to subsection (1), and the land or money obtained by any exchange effected pursuant to subsection (1), are to be subject, so far as may be practicable, to the same trusts as the land so disposed of, or to any similar trusts that the Attorney-General may approve.
 (3) Nothing in this section applies to—
   (a) any public reserve within the meaning of the Reserves Act 1977; or
   (b) any Crown endowment land.
 (4) In respect of any land held in trust, the power of sale conferred by subsection (1) may not be exercised if the sale of the land is expressly prohibited by a term of the trust.
 (5) Any question as to whether subsection (4) prevents the sale of any land may be determined by the Attorney-General.
-(6) No mortgage or charge given by a DHB in respect of any land that is held in trust for any purpose may contain or imply any power of sale of the land, whether or not the mortgage or charge purports to do so.
+(6) No mortgage or charge given by Health New Zealand or the Māori Health Authority in respect of any land that is held in trust for any purpose may contain or imply any power of sale of the land, whether or not the mortgage or charge purports to do so.
 
 ### 11B Power of Minister of Health to cancel Crown endowment
-(1) The Minister of Health may, by written notice given to a DHB, declare that any land vested in the DHB (being land that the Attorney-General has, by written notice to the Minister of Health, declared to be Crown endowment land) is no longer subject to the Crown endowment.
+(1) The Minister of Health may, by written notice given to Health New Zealand or the Māori Health Authority, declare that any land vested in Health New Zealand or the Māori Health Authority (being land that the Attorney-General has, by written notice to the Minister of Health, declared to be Crown endowment land) is no longer subject to the Crown endowment.
 (2) Where a notice is given by the Minister of Health under subsection (1), from the date of the notice the land—
   (a) ceases to be subject to the Crown endowment; and
-  (b) subject to clause 43 of Schedule 3 of the New Zealand Public Health and Disability Act 2000, may be sold, exchanged, mortgaged, charged, or otherwise dealt with by the DHB free from the terms of the Crown endowment.
-(3) The Attorney-General may declare any land vested in a DHB to be Crown endowment land for the purposes of subsection (1) even if either or both of the following applies:
+  (b) subject to section 99 of the Pae Ora (Healthy Futures) Act 2022, may be sold, exchanged, mortgaged, charged, or otherwise dealt with by Health New Zealand or the Māori Health Authority free from the terms of the Crown endowment.
+(3) The Attorney-General may declare any land vested in Health New Zealand or the Māori Health Authority to be Crown endowment land for the purposes of subsection (1) even if either or both of the following applies:
   (a) the purpose of the Crown endowment can no longer be attained or ascertained:
   (b) it is uncertain whether the land is Crown endowment land.
 
 ### 11C Power of DHB to apply proceeds of sale of Crown endowment land
-(1) Subject to subsection (2), where a DHB holds in trust the proceeds of the sale of any land (being land that was, at the time of the sale, subject to a Crown endowment), the DHB may, despite the terms of that endowment, and whether the land was sold before or after the commencement of this section, apply the proceeds of the sale—
-  (a) for the purposes of any health services or disability support services, or both, provided by the DHB; or
-  (b) for any purpose for which the DHB may lawfully apply its own property.
-(2) The power conferred by subsection (1) may be exercised in respect of the proceeds of the sale of any land only if the Attorney-General, by written notice given to the DHB, declares that the land sold (whether before or after the commencement of this section) was Crown endowment land.
-(3) A notice may be given under subsection (2) in respect of land sold by a DHB even if either or both of the following applies:
+(1) Subject to subsection (2), where Health New Zealand or the Māori Health Authority holds in trust the proceeds of the sale of any land (being land that was, at the time of the sale, subject to a Crown endowment), Health New Zealand or the Māori Health Authority may, despite the terms of that endowment, and whether the land was sold before or after the commencement of this section, apply the proceeds of the sale—
+  (a) for the purposes of any health services or disability support services, or both, provided by Health New Zealand or the Māori Health Authority; or
+  (b) for any purpose for which Health New Zealand or the Māori Health Authority may lawfully apply its own property.
+(2) The power conferred by subsection (1) may be exercised in respect of the proceeds of the sale of any land only if the Attorney-General, by written notice given to Health New Zealand or the Māori Health Authority, declares that the land sold (whether before or after the commencement of this section) was Crown endowment land.
+(3) A notice may be given under subsection (2) in respect of land sold by Health New Zealand or the Māori Health Authority even if either or both of the following applies:
   (a) the purpose of the Crown endowment can no longer be attained or ascertained:
   (b) it is uncertain whether the land sold was Crown endowment land.
 
 ### 11D Saving in respect of Charitable Trusts Act 1957
-Nothing in this Act prevents a DHB from exercising the rights conferred on trustees by Part 3 of the Charitable Trusts Act 1957.
+Nothing in this Act prevents Health New Zealand or the Māori Health Authority from exercising the rights conferred on trustees by Part 3 of the Charitable Trusts Act 1957.
 
 ### 11E Health sector reserves
 (1) In this section, health sector reserve means any land vested in a transferee that is a reserve within the meaning of the Reserves Act 1977.
@@ -255,8 +257,8 @@ Nothing in this Act prevents a DHB from exercising the rights conferred on trust
   (d) is subject to any valid leases, rights, easements, or interests subsisting over that land at the date of the revocation.
 (7) Despite the Reserves Act 1977, a lease or licence may be granted over a health sector reserve for health-related purposes or, with the consent of the Minister, for any other purposes.
 (8) The granting of a lease or licence under subsection (7) is subject to,—
-  (a) if granted by a publicly-owned health and disability organisation or a subsidiary of such an organisation, clause 43 of Schedule 3 or clause 28 of Schedule 6 of the New Zealand Public Health and Disability Act 2000, as the case may require; and
-  (b) if granted by a transferee that is not a publicly-owned health and disability organisation or a subsidiary of such an organisation, clause 43 of Schedule 3 of the New Zealand Public Health and Disability Act 2000, as if that clause applied, with all necessary modifications, to the transferee.
+  (a) if granted by a publicly-owned health and disability organisation or a subsidiary of such an organisation, section 99 of the Pae Ora (Healthy Futures) Act 2022, as the case may require; and
+  (b) if granted by a transferee that is not a publicly-owned health and disability organisation or a subsidiary of such an organisation, section 99 of the Pae Ora (Healthy Futures) Act 2022, as if that clause applied, with all necessary modifications, to the transferee.
 (9) Any payment under a lease or licence over a health sector reserve may be paid to the transferee in whom the reserve is vested, and may be applied for the purposes of the transferee.
 (10) To avoid any doubt, nothing in this Act permits the Minister to alter the status of a health sector reserve without complying with all processes required by the Reserves Act 1977, including the processes under that Act that require changes in status to be approved by the Minister of Conservation.
 
@@ -272,7 +274,7 @@ Nothing in sections 11A to 11E limits the application of—
 (1) Subject to subsections (2) to (5), the provisions of Part 4A of the Conservation Act 1987 apply, with all necessary modifications, in relation to every sale or other disposition of land by a transferee as if that disposition of land were a sale or other disposition of land by the Crown.
 (2) The provisions of Part 4A of the Conservation Act 1987 do not apply in relation to any sale or other disposition of land by a transferee if the land sold or otherwise disposed of—
   (a) is land that,—
-    (i) before being transferred to, or vested in, the transferee under this Act or the New Zealand Public Health and Disability Act 2000, had been given to the Crown, a DHB, or any predecessors in title of a DHB; and
+    (i) before being transferred to, or vested in, the transferee under this Act or the Pae Ora (Healthy Futures) Act 2022 had been given to the Crown, Health New Zealand, the Māori Health Authority, or any predecessors in title of Health New Zealand; and
     (ii) is being sold or disposed of to the donor of the land or to the successor of the donor of the land (being the person who would have been entitled to the land under the will or intestacy of the donor had the donor owned the land at the date of the donor's death); or
   (b) is land acquired by the transferee other than land acquired by virtue of—
     (i) the operation of section 95 of the New Zealand Public Health and Disability Act 2000; or
