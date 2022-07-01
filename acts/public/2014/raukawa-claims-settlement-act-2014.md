@@ -1,5 +1,5 @@
 # Raukawa Claims Settlement Act 2014
-_Consolidation as at 2022-04-12_
+_Consolidation as at 2022-07-01_
 
 ### 1 Title
 This Act is the Raukawa Claims Settlement Act 2014.
@@ -1138,7 +1138,7 @@ In this subpart and Schedule 5,—
 (1) In this subpart, RFR land means—
   (a) the land described in part 4 of the attachments that, on the settlement date, is—
     (i) vested in the Crown; or
-    (ii) held in fee simple by the Crown or Housing New Zealand Corporation or the Waikato District Health Board; and
+    (ii) held in fee simple by the Crown or Housing New Zealand Corporation or Health New Zealand; and
   (b) any land obtained in exchange for a disposal of RFR land under section 119(1)﻿(c) or 120.
 (2) Land ceases to be RFR land if—
   (a) the fee simple estate in the land transfers from the RFR landowner to—
@@ -1272,8 +1272,8 @@ The Crown may dispose of RFR land—
 ### 123 Disposal by Housing New Zealand Corporation
 Housing New Zealand Corporation or any of its subsidiaries may dispose of RFR land to any person if the Corporation has given notice to the trustees that, in the Corporation's opinion, the disposal is to give effect to, or to assist in giving effect to, the Crown's social objectives in relation to housing or services related to housing.
 
-### 124 Disposal by Waikato District Health Board
-The Waikato District Health Board (established by section 19(1) of the New Zealand Public Health and Disability Act 2000), or any of its subsidiaries, may dispose of RFR land to any person if the Minister of Health has given notice to the trustees that, in the Minister's opinion, the disposal will achieve, or assist in achieving, the district health board's objectives.
+### 124 Disposal by Health New Zealand
+Health New Zealand (established by section 11 of the Pae Ora (Healthy Futures) Act 2022), or any of its subsidiaries, may dispose of RFR land to any person if the Minister of Health has given notice to the trustees that, in the Minister’s opinion, the disposal will achieve, or assist in achieving, Health New Zealand’s objectives.
 
 **RFR landowner obligations**
 
