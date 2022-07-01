@@ -1,5 +1,5 @@
 # Public and Community Housing Management Act 1992
-_Consolidation as at 2021-10-28_
+_Consolidation as at 2022-07-01_
 
 > Title
 
@@ -1341,7 +1341,7 @@ In any case where a third party deducts, under a deduction notice, any money pay
 
 ### 150 Deduction notices issued to banks
 (1) Where the third party is a bank, any money held by the bank to the credit of the tenant is subject to the provisions of section 146 and the amount required to be deducted under the deduction notice is, without prejudice to any other remedies against the tenant or any other person, deemed to be held in trust for the Crown and is a debt due to the Crown and may be recovered by the agency in any court or tribunal of competent jurisdiction.
-(2) For the purposes of this section, bank means a person carrying on in New Zealand the business of banking, a credit union within the meaning of the Friendly Societies and Credit Unions Act 1982, and a building society within the meaning of the Building Societies Act 1965, but does not include the Reserve Bank of New Zealand established under the Reserve Bank of New Zealand Act 1989 (except in relation to an account maintained by that bank for an employee of the bank).
+(2) For the purposes of this section, bank means a person carrying on in New Zealand the business of banking, a credit union within the meaning of the Friendly Societies and Credit Unions Act 1982, and a building society within the meaning of the Building Societies Act 1965, but does not include the Reserve Bank of New Zealand continued under the Reserve Bank of New Zealand Act 2021 (except in relation to an account maintained by that bank for an employee of the bank).
 (3) For the purposes of this section, money held by the bank to the credit of the tenant includes money, and any interest on money, that is on deposit or deposited with a bank to the credit of the tenant, whether or not—
   (a) the deposit or depositing is on current account:
   (b) the money is to be at interest at a fixed term or without limitation of time:
