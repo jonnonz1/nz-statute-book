@@ -1,5 +1,5 @@
 # Chartered Professional Engineers of New Zealand Act 2002
-_Consolidation as at 2021-10-28_
+_Consolidation as at 2022-07-01_
 
 ### 1 Title
 This Act is the Chartered Professional Engineers of New Zealand Act 2002.
@@ -841,7 +841,7 @@ The funds of the Council consist of—
   (c) all accumulations of income derived from that money.
 
 ### 41 Bank accounts
-(1) The Council must establish, maintain, and operate 1 or more bank accounts at 1 or more registered banks (within the meaning of the Reserve Bank of New Zealand Act 1989).
+(1) The Council must establish, maintain, and operate 1 or more bank accounts at 1 or more registered banks (within the meaning of the Banking (Prudential Supervision) Act 1989).
 (2) All money received by the Council must be paid into that bank account or 1 of those bank accounts as soon as practicable after it has been received.
 (3) The Council must properly authorise the withdrawal or payment of money from any of its bank accounts.
 
