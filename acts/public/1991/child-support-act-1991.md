@@ -1,5 +1,5 @@
 # Child Support Act 1991
-_Consolidation as at 2022-04-01_
+_Consolidation as at 2022-07-01_
 
 > Title
 
@@ -2787,7 +2787,7 @@ In this Part, unless the context otherwise requires,—
   (a) that is held in a joint bank account in the name of a liable person and 1 or more other persons; and
   (b) that can be withdrawn from the account by or on behalf of the liable person without a signature being required at the time of that withdrawal from, or on behalf of, the other person or persons,—
 (4) For the purposes of this Act, unless the context otherwise requires, bank means—
-  (a) any registered bank within the meaning of that term in section 2 of the Reserve Bank of New Zealand Act 1989:
+  (a) any registered bank within the meaning of that term in section 2 of the Banking (Prudential Supervision) Act 1989:
   (b) any trustee bank or trustee bank's successor company (within the meaning of those terms in section 4 of the Trustee Banks Restructuring Act Repeal Act 1999):
   (c) any private savings bank carried on under the Private Savings Banks Act 1983:
   (d) any building society registered under the Building Societies Act 1965, in respect of any deposits with the building society:
