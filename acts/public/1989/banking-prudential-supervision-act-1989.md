@@ -1,31 +1,32 @@
-# Reserve Bank of New Zealand Act 1989
-_Consolidation as at 2021-10-28_
+# Banking (Prudential Supervision) Act 1989
+_Consolidation as at 2022-07-01_
 
 > Title
 
-### 1 Short Title and commencement
-(1) This Act may be cited as the Reserve Bank of New Zealand Act 1989.
+### 1 Title and commencement
+(1) This Act is the Banking (Prudential Supervision) Act 1989.
 (2) Except as provided in section 181(5) and (9), this Act shall come into force on 1 February 1990.
 
 ### 1A Purpose
-(1) The purpose of this Act is to promote the prosperity and well-being of New Zealanders, and contribute to a sustainable and productive economy, by providing for the Reserve Bank of New Zealand, as the central bank, to be responsible for—
-  (a) formulating and implementing monetary policy directed to the economic objectives set out in subsection (1A), while recognising the Crown’s right to determine economic policy; and
-  (b) promoting the maintenance of a sound and efficient financial system; and
-  (c) issuing bank notes and coins in New Zealand to meet the needs of the public; and
-  (d) carrying out other functions, and exercising powers, specified in this Act.
-(1A) The economic objectives are—
-  (a) achieving and maintaining stability in the general level of prices over the medium term; and
-  (b) supporting maximum sustainable employment.
-(2) This section does not limit the functions or powers given to the Bank by any other enactment.
+The purpose of this Act is to promote the prosperity and well-being of New Zealanders, and contribute to a sustainable and productive economy, by providing for the Reserve Bank of New Zealand, as the central bank, to be responsible for—
+  (a) registering banks and undertaking prudential supervision of registered banks; and
+  (b) carrying out other functions, and exercising powers, specified in this Act.
+
+### 1B Overview
+(1) In this Act,—
+  (a) Part 4 imposes limits on the use of the words bank, banker, and banking:
+  (b) Part 5 provides for the registration of banks and the prudential supervision of registered banks:
+  (c) Part 5A provides for the retention of documents by banks:
+  (d) Part 5B provides for oversight of payment systems:
+  (e) Part 5C regulates designated settlement systems:
+  (f) Part 7 deals with regulations, offences, and other miscellaneous matters.
+(2) This section is only a guide to the general scheme and effect of this Act.
+(3) In addition, the Reserve Bank of New Zealand Act 2021 provides for the Reserve Bank of New Zealand.
 
 ### 2 Interpretation
 (1) In this Act, unless the context otherwise requires,—
-  - **bank note** or means any negotiable instrument used or circulated, or intended for use or circulation, as currency
   - **banking group** has the meaning given to it in the Orders in Council made under section 81
-  - **charter** means a charter issued under this Act (see section 63F and clauses 5 to 7 of Schedule 1)
-  - **code of conduct** means a code of conduct for members of the MPC that is approved under this Act (see section 63J and clause 8 of Schedule 1)
   - **debt security** has the same meaning as in section 8 of the Financial Markets Conduct Act 2013
-  - **Deputy Governor** means the Deputy Governor of the Bank appointed under section 43 or 48B
   - **designated settlement system** has the meaning set out in section 156M
   - **director** , except in relation to the Bank, means—
     (a) a person occupying the position of director by whatever name called:
@@ -37,23 +38,14 @@ _Consolidation as at 2021-10-28_
     (c) any label, marking, or other writing that identifies or describes any thing of which it forms part, or to which it is attached by any means:
     (d) any book, map, plan, graph, or drawing:
     (e) any photograph, film, negative, tape, or other device in which 1 or more visual images are embodied so as to be capable (with or without the aid of some other equipment) of being reproduced
-  - **economic objective** means an economic objective set out in section 8(1) (or in an Order in Council made under section 12)
   - **financial institution** means any person including a body of persons whether incorporated or not, who carries on the business of borrowing and lending money, or providing financial services, or both, and without limiting the generality of the foregoing includes—
     (a) an insurer that issues, or is liable under, life policies within the meaning of section 6(1) of the Insurance (Prudential Supervision) Act 2010; and includes any branch, division, or office of that insurer; and
     (b) a building society as defined in section 2 of the Building Societies Act 1965; and
     (c) a registered bank; and
     (d) a specified person or class of persons (including a body or bodies of persons, whether incorporated or not) who is or are declared by the Governor-General, by Order in Council, to be a financial institution or institutions for the purposes of this Act (see subsection (5))
   - **financial product** has the same meaning as in section 7 of the Financial Markets Conduct Act 2013
-  - **financial year** has the meaning given to it by section 157
   - **FMA** means the Financial Markets Authority established under Part 2 of the Financial Markets Authority Act 2011
-  - **foreign exchange** means—
-    (a) the bank notes or other currency, postal notes, or money orders of any country other than New Zealand:
-    (b) promissory notes and bills of exchange payable otherwise than in New Zealand currency:
-    (c) a right to receive payment in the currency of a country other than New Zealand:
-    (d) an obligation to make payment in the currency of a country other than New Zealand:
-    (e) a debt security in respect of which any amount payable is payable in a country other than New Zealand or in a foreign currency
-  - **formulating** , in relation to monetary policy, has the meaning set out in section 8(3)
-  - **Governor** means the Governor of the Bank appointed under section 40 or 48
+  - **Governor** means a person who occupies the position of Governor of the Bank (whether the person is appointed under section 82 or 96 of the Reserve Bank of New Zealand Act 2021)
   - **holding company** means a holding company within the meaning of section 5 of the Companies Act 1993
   - **home country supervisor** means any central bank, authority, or body in any country other than New Zealand that exercises functions in relation to a parent bank or an overseas incorporated registered bank that correspond with, or are similar to, those conferred on the Bank under Part 5
   - **home jurisdiction** means,—
@@ -62,19 +54,11 @@ _Consolidation as at 2021-10-28_
   - **licensed insurer** has the same meaning as in section 6(1) of the Insurance (Prudential Supervision) Act 2010
   - **managed investment scheme** has the same meaning as in section 9 of the Financial Markets Conduct Act 2013
   - **Minister** means the Treasurer, or other Minister of the Crown who, under the authority of any warrant or with the authority of the Prime Minister, is for the time being responsible for the administration of this Act or particular provisions of this Act
-  - **MPC** or means the committee of the Bank that is established under section 63A
-  - **net income** , in relation to a financial year, means the total revenue of the Bank reported in its statement of financial performance for that year calculated after deducting all expenses incurred by the Bank in that year
   - **New Zealand chief executive officer** , in relation to an overseas incorporated registered bank, means—
     (a) the most senior officer of that bank who is ordinarily resident in New Zealand; or
     (b) another person who may be nominated by that bank and agreed to in writing by the Bank; or
     (c) if section 82(3) applies, an employee of that bank who has been specified by the Bank under that section
   - **non-voting security** , in relation to any body, means a specified security that does not confer a voting right
-  - **operating expenses** , in relation to a financial year,—
-    (a) includes all expenses incurred by the Bank and reported in its statement of financial performance for that year; but
-    (b) does not include—
-      (i) interest, foreign exchange losses, and losses (or provision for losses) on financial instruments or revaluation of financial instruments; or
-      (ii) any payments made to the Crown under section 21; or
-      (iii) any expenses agreed by the Minister and the Bank not to be operating expenses
   - **operator** , in relation to either a settlement system or a payment system, means any person that provides clearing, settlement, or processing services in respect of that system
   - **overseas bank** means any person that is formed, licensed, or registered as a bank in any country other than New Zealand
   - **overseas person** means—
@@ -96,9 +80,7 @@ _Consolidation as at 2021-10-28_
     (d) the power to control the acquisition or disposition of the specified security by another person; or
     (e) the powers referred to in paragraphs (b) to (d) under, or by virtue of, any trust, agreement, arrangement, or understanding relating to the specified security
   - **registered bank** means a person whose name is entered in the register maintained under section 69 or who continues to be a registered bank by virtue of the provisions of section 76
-  - **remit** means a remit issued under this Act (see sections 10 and 13, clauses 2 to 4 of Schedule 1, and clause 6 of Schedule 2)
-  - **remit advice** means the advice given by the Bank under clause 2 of Schedule 2
-  - **Reserve Bank** or means the Reserve Bank of New Zealand constituted under this Act
+  - **Reserve Bank** or the means the Reserve Bank of New Zealand continued under the Reserve Bank of New Zealand Act 2021
   - **restricted word** —
     (a) means the words “bank”, “banker”, and “banking”; and
     (b) includes—
@@ -122,7 +104,7 @@ _Consolidation as at 2021-10-28_
       (v) during the liquidation, receivership, voluntary administration, bankruptcy, or statutory management of the body; and
     (c) does not include a right to vote that is exercisable only for a special, immaterial, or remote matter that is inconsequential to the control of the body
   - **voting security** , in relation to any body, means a specified security that confers a voting right.
-(2) For the purposes of section 36, Parts 4 and 5, and sections 179 and 179A, a person is an associated person of a financial institution or a registered bank, as the case may be, if—
+(2) For the purposes of Parts 4 and 5, a person is an associated person of a financial institution or a registered bank, as the case may be, if—
   (a) that person directly or indirectly controls the management of the financial institution or registered bank; or
   (b) that person has a direct or indirect qualifying interest in 20% or more of the voting or non-voting securities issued by the financial institution or registered bank; or
   (c) that financial institution or registered bank directly or indirectly controls the management of that person; or
@@ -151,10 +133,7 @@ This Act shall bind the Crown.
 ## Part 1 — Constitution of Reserve Bank of New Zealand
 
 ### 5 Reserve Bank of New Zealand
-(1) There shall continue to be a bank called the Reserve Bank of New Zealand.
-(2) The Bank shall be a body corporate with perpetual succession and shall be capable of acquiring, holding and disposing of real and personal property and of suing and being sued.
-(3) Without limiting any other provision of this Act, the Bank shall have the rights, powers, and privileges of a natural person.
-(4) The Bank is the same body corporate as that which was continued in existence by the Reserve Bank of New Zealand Act 1964.
+[Repealed]
 
 ### 6 Branches and agencies
 [Repealed]
@@ -164,219 +143,105 @@ This Act shall bind the Crown.
 **Central bank**
 
 ### 7 Bank to act as central bank
-The Bank shall act as the central bank for New Zealand.
+[Repealed]
 
 **Monetary policy**
 
 ### 8 Function to formulate monetary policy through MPC
-(1) The Bank, acting through the MPC, has the function of formulating a monetary policy directed to the economic objectives of—
-  (a) achieving and maintaining stability in the general level of prices over the medium term; and
-  (b) supporting maximum sustainable employment.
-(2) The MPC must, in acting under this section, have regard to—
-  (a) the efficiency and soundness of the financial system; and
-  (b) any matter provided for in a remit under section 10(3)﻿(d).
-(3) The function of formulating monetary policy includes deciding the approach by which the operational objectives set out in a remit are intended to be achieved.
+[Repealed]
 
 ### 9 Function to implement monetary policy
-The Bank has the function of implementing monetary policy in accordance with this Act.
+[Repealed]
 
 ### 10 Remit for MPC
-(1) The Minister must, after having regard to remit advice, issue a remit for the MPC (the remit).
-(2) The remit must set out operational objectives for carrying out the function of formulating monetary policy.
-(3) The remit may specify or provide for the operational objectives in any way that the Minister thinks fit, including by specifying or providing for 1 or more of the following matters:
-  (a) a target or targets for an economic objective:
-  (b) a framework for weighting the economic objectives:
-  (c) defining any matters in connection with an economic objective:
-  (d) a requirement for the MPC to have regard to 1 or more matters in connection with seeking to achieve an economic objective.
-(4) A matter under subsection (3) must not be inconsistent with an economic objective.
-(5) The Minister must take all reasonable steps to ensure that a remit is in force at all times (whether the remit is issued by the Minister under this section or clause 3 of Schedule 1 or is in force under an Order in Council made under section 12, clause 4 of Schedule 1, or clause 6 of Schedule 2).
+[Repealed]
 
 ### 11 Other matters relating to remit
-Part 1 of Schedule 2 provides for other matters relating to the remit.
+[Repealed]
 
 ### 12 Order providing for different economic objective or objectives
-(1) The Governor-General may, by Order in Council, on the advice of the Minister, direct the MPC to formulate, and the Bank to implement, monetary policy for 1 or more economic objectives for a period not exceeding 12 months that is specified in the order.
-(2) The economic objective or objectives may be—
-  (a) only 1 of the objectives specified in section 8 (instead of both); or
-  (b) 1 or more new objectives in addition to or instead of either or both of the economic objectives specified in section 8.
-(3) While the Order in Council is in force,—
-  (a) the MPC must formulate, and the Bank must implement, monetary policy in accordance with the economic objective or objectives specified in the Order in Council; and
-  (b) the MPC and the Bank must disregard either or both of the economic objectives specified in section 8 if so required by the Order in Council.
-(4) An Order in Council under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+[Repealed]
 
 ### 13 Order must include replacement remit
-(1) The order under section 12 must include a remit that will remain in force while the order is in force (in place of the remit that is suspended under section 14).
-(2) Section 10(2) to (4) applies with all necessary modifications.
+[Repealed]
 
 ### 14 Effect of order on current remit
-(1) The application of the current remit is suspended while the order under section 12 remains in force.
-(2) The following applies when the order is revoked:
-  (a) if the term of the current remit has not expired, that remit again comes into force (but may be replaced under clause 6 of Schedule 2):
-  (b) if the term of the current remit has expired, a new remit must be issued to come into effect immediately after the revocation of the order (whether under section 10 or clause 6 of Schedule 2).
-(3) In this section, current remit means the remit that is in force immediately before an order under section 12 comes into force.
+[Repealed]
 
 ### 15 Period may be extended
-(1) The Governor-General may, by Order in Council, on the advice of the Minister, extend the period specified in an order under section 12 for a period not exceeding 12 months, and may in the same manner extend that period on successive occasions.
-(2) An extension may only be made before the end of the period to be extended.
-(3) An Order in Council under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+[Repealed]
 
 ### 15A Revocation of order
-(1) An order under section 12 may be revoked at any time.
-(2) If the order is not revoked under subsection (1), the order is revoked on the close of the last day of the period specified in the order or of any extension of that period under section 15.
-(3) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+[Repealed]
 
 ### 15B Functions under sections 8 and 9 not affected
-(1) Nothing in this Act or in any other Act limits or affects the obligation of the MPC or the Bank to carry out the functions under sections 8 and 9 (or under an order under section 12).
-(2) This section applies except as provided in sections 12 to 15A.
+[Repealed]
 
 ### 15C Regular reports on monetary policy
-(1) The Bank must, at least 4 times a year (or more frequently if required by the charter),—
-  (a) deliver reports on monetary policy to the Minister; and
-  (b) publish a copy of each report on an Internet site maintained by, or on behalf of, the Bank.
-(2) The Governor must ensure that the report is approved by the MPC before it is delivered to the Minister.
-(3) Every report under this section must—
-  (a) specify the approach by which the MPC intends to achieve the operational objectives:
-  (b) state the MPC’s reasons for adopting that approach:
-  (c) contain all other information required by the charter (if any).
-(4) Every report under this section stands referred, by virtue of this section, to the House of Representatives.
+[Repealed]
 
 ### 15D Longer-term report on formulation and implementation of monetary policy
-(1) The Bank must review and assess the formulation and implementation of monetary policy at least every 5 years (or more frequently if required by the charter).
-(2) The Bank must—
-  (a) deliver a report on the review and assessment to the Minister as soon as practicable after the review and assessment is completed; and
-  (b) publish a copy of the report on an Internet site maintained by, or on behalf of, the Bank.
-(3) The Governor must consult the MPC on a draft of the report under this section and the Governor must consider the comments (if any) of the MPC on the draft.
-(4) The report under this section must contain the information required by the charter (if any).
-(5) Every report under this section stands referred, by virtue of this section, to the House of Representatives.
+[Repealed]
 
 **Foreign exchange**
 
 ### 16 Dealing in foreign exchange by Bank
-For the purposes of performing its functions and fulfilling its obligations under this Act or any other enactment, the Bank may deal in foreign exchange, on such terms and conditions as it thinks fit,—
-  (a) with any person, including the Crown; and
-  (b) on behalf of any person, including the Crown.
+[Repealed]
 
 ### 17 Power of Minister to direct Bank to deal in foreign exchange within guidelines
-(1) The Minister may, for the purpose of influencing the exchange rate or exchange rate trends, from time to time, by notice in writing to the Bank, direct the Bank to deal in foreign exchange within guidelines prescribed by the Minister in the notice.
-(2) Notwithstanding section 16, while the direction remains in force all foreign exchange dealing by the Bank shall comply with the direction.
-(3) The Minister may, from time to time, by notice in writing to the Bank, vary or revoke any direction given under subsection (1).
+[Repealed]
 
 ### 18 Power of Minister to fix exchange rates for foreign exchange dealing by Bank
-(1) Subject to this section, the Minister may from time to time, by notice in writing to the Bank,—
-  (a) direct that all foreign exchange dealing by the Bank shall be at rates of exchange, or within a range of rates of exchange, specified by the Minister in the direction:
-  (b) direct the Bank to deal in foreign exchange at those rates or within that range of rates with such persons or class or classes of persons as may be specified by the Minister in the direction.
-(2) Notwithstanding sections 16 and 17, the Bank shall, on receiving a direction under this section,—
-  (a) conduct its foreign exchange dealing at the rates, or within the range of rates, specified:
-  (b) deal in foreign exchange at those rates, or within that range of rates, with such of the persons or class or classes of persons specified in the direction as may require the Bank to do so.
-(3) The Minister may from time to time, by notice in writing to the Bank, vary or revoke any direction given under subsection (1).
-(4) The Minister shall not give a direction under subsection (1) unless the Minister has been authorised to do so by the Governor-General by Order in Council within 30 days before the direction is given and a separate authorisation shall be required for each separate occasion on which a direction is given.
-(5) The Minister shall give notice in the Gazette of the fact that a direction has been given and that a direction has been revoked.
-(6) An Order in Council under subsection (4) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+[Repealed]
 
 ### 19 Effect of directions on operational objectives
-(1) This section applies if the Governor considers that giving effect to a direction under section 17 or 18 (while not being inconsistent with the economic objectives of monetary policy) would be inconsistent with 1 or more operational objectives set out in a remit.
-(2) The Governor may, by notice in writing,—
-  (a) advise the Minister that the Bank will, in giving effect to the direction, be unable to give effect to those operational objectives; and
-  (b) request that the operational objectives be amended or replaced.
-(3) The Governor may only give a notice with the approval of the MPC.
-(4) If a notice is given,—
-  (a) the MPC and the Bank are not required to give effect to the existing operational objectives:
-  (b) the Minister must, within 1 month after the notice is given,—
-    (i) make a recommendation under clause 6 of Schedule 2 for the purpose of replacing a remit to amend or replace the operational objectives; or
-    (ii) give advice under section 12 for the purpose of amending or replacing the operational objectives in a remit that is included in an order in force under that section.
-(5) Subsection (4) does not apply if the Minister withdraws the direction.
+[Repealed]
 
 ### 20 Effect of directions on monetary policy
-(1) If the Governor considers that giving effect to a direction under section 17 or 18 would be inconsistent with the economic objectives of monetary policy, the Governor may, by notice in writing, advise the Minister that the MPC and the Bank do not propose to give effect to the direction.
-(2) The Governor may only give a notice with the approval of the MPC.
-(3) If a notice is given, the MPC and the Bank are not required to comply with the direction unless an Order in Council is made under section 12 that requires the MPC to formulate, and the Bank to implement, monetary policy in accordance with 1 or more economic objectives that are consistent with the direction.
+[Repealed]
 
 ### 21 Foreign exchange gains and losses
-(1) The Bank shall pay into a Crown Bank Account any exchange gains (whether realised or unrealised) made by the Bank as a result of dealing in foreign exchange under sections 17 and 18.
-(2) The Minister shall, without further appropriation, pay to the Bank out of a Crown Bank Account the amount of any exchange losses (whether realised or unrealised) incurred by the Bank as a result of dealing in foreign exchange under sections 17 and 18.
+[Repealed]
 
 ### 22 Temporary suspension of foreign exchange business
-(1) The Governor may, if the Governor is satisfied that it is necessary to avoid disorder in the foreign exchange market, from time to time, by notice in writing to all registered banks, direct that, subject to any exceptions specified in the notice, no registered bank shall, except with permission granted by the Bank, deal until further notice in any foreign exchange or foreign exchange of such kinds as are specified in the notice.
-(2) The Governor shall, as soon as practicable, give notice in writing to the Minister of the exercise of the power conferred under subsection (1).
-(3) Every notice under subsection (1) shall remain in force until it is revoked—
-  (a) by Order in Council; or
-  (b) by notice in writing given by the Governor to all registered banks.
-(4) An obligation on a person to do a thing on a day on which that person is prevented from doing it by a notice under this section, or is unable to do it by reason of any such notice, shall be deemed to be complied with if that person does it as soon as practicable after the notice is revoked.
-(5) Where any transaction to which a notice issued under this section applies is subject to the Bills of Exchange Act 1908 or the Banking Act 1982, then, in relation to that transaction, every day on which the notice remains in force shall be deemed to be a non-business day for the purposes of the Bills of Exchange Act 1908.
-(6) An Order in Council under subsection (3)﻿(a) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+[Repealed]
 
 ### 23 Bank to advise Minister on foreign exchange matters
-The Bank shall, from time to time, advise the Minister on—
-  (a) foreign exchange rate systems:
-  (b) the management of foreign reserves:
-  (c) the operation of the foreign exchange market:
-  (d) any other matters relating to foreign exchange.
+[Repealed]
 
 ### 24 Foreign reserves
-(1) The Minister shall, from time to time, in consultation with the Bank, determine the level at which, or the levels within which, foreign reserves shall be maintained for the purpose of enabling the Bank to exercise the powers conferred by this Act.
-(2) The Bank must hold and maintain foreign reserves at that level or within those levels.
+[Repealed]
 
 **Currency**
 
 ### 25 Issue of currency by Bank
-(1) The Bank shall have the sole right to issue bank notes and coins in New Zealand.
-(2) The Bank shall determine the denominations, form, design, content, weight, and composition of its bank notes and coins.
-(3) Every bank note issued by the Bank before the commencement of this Act, and every coin issued by the Minister under the Decimal Currency Act 1964 or under the Coinage Act 1933 by virtue of the Decimal Currency Act 1964, which is legal tender at the commencement of this Act shall be deemed for all purposes to have been made or issued under this Act.
+[Repealed]
 
 ### 26 Power of Bank to call in currency
-(1) The Bank may, from time to time, with the prior consent of the Minister, by notice in the Gazette, call in any bank notes or coins issued or deemed to have been issued under this Act.
-(2) Every notice shall take effect on a date specified in it.
-(3) When the notice takes effect, all bank notes or coins to which it applies shall cease to be legal tender; but the Bank shall continue to be liable to pay any such bank note or coin on presentation at the head office of the Bank.
-(4) The Bank shall continue to be liable to pay any bank note issued before the commencement of this Act which has ceased to be legal tender before the commencement of this Act and which the Bank was, immediately before the commencement of this Act, liable to pay, on presentation at the head office of the Bank.
-(5) The Bank shall be liable to pay any coin issued by the Minister before the commencement of this Act which has ceased to be legal tender before the commencement of this Act, on presentation at the head office of the Bank.
+[Repealed]
 
 ### 27 Legal tender
-(1) Every bank note issued, or deemed to be issued, under this Act shall be a legal tender for the amount expressed in the note.
-(2) A tender of payment of money, to the extent that it is made in coins issued, or deemed to be issued, under this Act, shall be a legal tender,—
-  (a) in the case of coins of a denomination of $10 or more, for the payment of any amount:
-  (b) in the case of coins of a denomination of $1 or more but less than $10, for the payment of any amount not exceeding $100:
-  (c) in the case of coins of the denomination of 5 cents or more, but less than $1, for the payment of an amount not exceeding $5:
-  (d) in the case of any coins of the denomination of less than 5 cents, for the payment of an amount not exceeding 20 cents.
-(3) The references to coins and bank notes in subsections (1) and (2) do not include references to coins and bank notes that have been called in.
+[Repealed]
 
 ### 28 Defacing bank notes
-(1) No person shall, without the prior consent of the Bank, wilfully deface, disfigure, or mutilate any bank note.
-(2) No person who is a party to the defacement, disfigurement, or mutilation of any bank note, shall—that bank note.
-  (a) pay away; or
-  (b) part with; or
-  (c) put in circulation; or
-  (d) demand payment of; or
-  (e) deposit or offer to deposit in any bank,—
-(3) Every person who contravenes subsection (1) or subsection (2) commits an offence against this Act and is liable on conviction to a fine not exceeding $1,000.
+[Repealed]
 
 ### 29 Making or issuing of other bank notes or coins
-(1) No person shall make or issue any bank note or coin, other than a bank note or coin issued under this Act.
-(2) Every person who contravenes subsection (1) commits an offence against this Act and shall be liable on conviction,—
-  (a) in the case of an individual, to imprisonment for a term not exceeding 3 years or to a fine not exceeding $100,000:
-  (b) in the case of a body corporate, to a fine not exceeding $300,000.
+[Repealed]
 
 ### 30 Reproduction or imitation of currency
-(1) No person shall, without the prior consent of the Bank,—any article or thing resembling a bank note or coin or so nearly resembling or having such a likeness to a bank note or coin as to be likely to be confused with or mistaken for it.
-  (a) make, design, engrave, print, or reproduce; or
-  (b) use, issue, or publish—
-(2) Every person who contravenes subsection (1) commits an offence against this Act.
-(3) Where a person is convicted of an offence against subsection (2), the court may order—in the possession of that person to be destroyed.
-  (a) the article or thing:
-  (b) any copy of it:
-  (c) any plates, blocks, dies, and other instruments used or capable of being used for printing or reproducing it—
+[Repealed]
 
 **Other functions and powers**
 
 ### 31 Bank to act as lender of last resort
-The Bank shall, if the Bank considers it necessary for the purpose of maintaining the soundness of the financial system, act as lender of last resort for the financial system.
+[Repealed]
 
 ### 32 Bank may provide settlement account services
 [Repealed]
 
 ### 33 Policy advice
-(1) On request by the Minister, the Bank must provide advice to the Minister on any matter specified in the request that is connected with the functions of the Bank.
-(2)
-(3) The Bank may also provide advice to the Minister, at any time, on any matters or subjects within the responsibility of the Bank.
+[Repealed]
 
 ### 34 Government banking business
 [Repealed]
@@ -385,492 +250,170 @@ The Bank shall, if the Bank considers it necessary for the purpose of maintainin
 [Repealed]
 
 ### 36 Bank may require financial institution to supply information
-(1) For the purposes of enabling the Bank to carry out the functions and exercise the powers conferred on it by this Part, the Bank may, from time to time, by notice in writing to any financial institution, or by notice in the Gazette applying to any specified class of financial institutions, require the institution or, as the case may be, institutions of that class, to supply to the Bank such information and data relating to the business of the institution or institutions of that class for such periods, and in such form, as may be specified in the notice.
-(2) Without limiting subsection (1), a notice may require information and data to be supplied relating to the assets and liabilities, income and expenditure (including interest rates charged and payable), fees and charges, obligations and commitments, and risk exposures of, and classes of transactions entered into by, that institution or class of institutions and any associated person and, where specified, in consolidated form, in respect of business carried on in New Zealand or elsewhere and whether as principal, broker, agent, or intermediary.
-(3) A notice given pursuant to this section may, by a subsequent notice, be revoked, varied, or amended by the Bank.
-(4) Information and data required to be supplied pursuant to this section shall be supplied to the Bank at such place in New Zealand and at such time as are specified in the notice.
-(5) A financial institution shall not be required to supply data or information under this section relating to the affairs of a particular customer or client.
-(6) Sections 156G to 156I and 156J(2)﻿(c) and (d) (which relate to the publication or disclosure of information or data supplied to the Bank) apply with all necessary modifications in respect of information and data supplied to the Bank under this section as if for each reference to section 156C in sections 156G(1) and (3) and 156J(2)﻿(c) there were substituted a reference to section 36.
+[Repealed]
 
 ### 37 Failure to supply information
-Every financial institution commits an offence against this Act if, without lawful justification or excuse, it—
-  (a) fails to comply in any respect with any of the provisions of section 36 or of any requirements of the Bank under that section; or
-  (b) supplies any information or data which it is required to supply under section 36 which is false or misleading in any material particular.
+[Repealed]
 
 ### 38 Requirement that information be audited
-(1) Where the Bank believes that any information or data supplied by a financial institution pursuant to section 36 is, or may be, inadequate or inaccurate, it may, by notice in writing to that financial institution, require that information or data to be audited by an auditor approved by the Bank.
-(2) Every financial institution commits an offence against this Act if, without lawful justification or excuse, it fails to comply with a requirement under subsection (1).
+[Repealed]
 
 ### 39 Powers
-Without limiting section 5 or any other provision of this Act, the Non-bank Deposit Takers Act 2013, the Financial Market Infrastructures Act 2021, or the Insurance (Prudential Supervision) Act 2010, the Bank has power, whether in New Zealand or elsewhere, to—
-  (a) carry on the business of banking:
-  (b) issue financial products:
-  (c) give a fixed or floating charge over all or any part of the undertaking or property of the Bank:
-  (d) if the Bank ceases to carry out any function, make provision, whether or not it is in the Bank's interest to do so, for the benefit of employees of the Bank, or former employees, or their dependants:
-  (e) enter into agreements or arrangements and obtain assurances necessary or desirable for carrying out its functions and exercising its powers:
-  (f) carry on any business or exercise any powers, not inconsistent with any other function of the Bank, which can be conveniently carried on, or exercised in conjunction with its functions and the exercise of its powers.
+[Repealed]
 
 ## Part 3 — Management of Reserve Bank
 
 **Governor and Deputy Governor**
 
 ### 40 Governor
-(1) There shall be a Governor of the Bank who shall be appointed by the Minister on the recommendation of the Board.
-(2) The Governor shall be the Chief Executive of the Bank.
+[Repealed]
 
 ### 41 Duties of Governor
-(1) It is the duty of the Governor to ensure that the Bank carries out the functions imposed on it by—
-  (a) this Act; and
-  (b) the Anti-Money Laundering and Countering Financing of Terrorism Act 2009; and
-  (c) the Insurance (Prudential Supervision) Act 2010; and
-  (d) the Non-bank Deposit Takers Act 2013; and
-  (e) the Financial Market Infrastructures Act 2021.
-(1A) The office of Governor includes performing and exercising functions, powers, and duties as the chairperson and a member of the MPC (see clause 28 of Schedule 2 for the Governor’s duties as chairperson).
-(2) The Governor has the authority, in the performance of those functions, to act in relation to all matters that are not required, by any Act referred to in subsection (1), to be dealt with by the Board or the MPC.
+[Repealed]
 
 ### 42 Conditions of appointment of Governor
-(1) The Governor must be appointed under section 40 for a term of 5 years and may be reappointed under that section for 1 further term of up to 5 years.
-(1A) See section 48(1) (which provides for a single term of up to 6 months for a Governor appointed under that section).
-(1B) If a person (A) who serves as the Governor under section 48 is subsequently appointed under section 40, the term of the appointment under section 48 does not reduce the length of A’s term under subsection (1).
-(2) The conditions of appointment of the Governor, including remuneration, shall be—
-  (a) determined by agreement between the Minister and the Governor after consultation with the Board; and
-  (b) tabled at the first Board meeting after they are agreed.
-(3) No condition of appointment shall have effect if it is inconsistent with the Bank's functions or limits or prevents the Governor from ensuring that those functions are carried out.
+[Repealed]
 
 ### 43 Deputy Governor
-(1) There is a Deputy Governor of the Bank who must be appointed by the Minister on the recommendation of the Board.
-(2) The Board must consult the Governor before making its recommendation.
-(3) The Deputy Governor must perform the duties and functions that are determined by the Governor (to the extent that those duties and functions are consistent with the conditions of appointment determined by the Board).
+[Repealed]
 
 ### 44 Term of appointment and conditions of appointment of Deputy Governor
-(1) The Deputy Governor must be appointed under section 43 for a term of 5 years and may be reappointed under that section for 1 further term of up to 5 years.
-(2) See section 48B(1) (which provides for a single term of up to 6 months for a Deputy Governor appointed under that section).
-(3) The conditions of appointment of the Deputy Governor must be determined by the Board after consulting the Minister.
-(4) The conditions must specify the grounds on which the Board may recommend that the Deputy Governor be removed from office under section 50(2)﻿(b).
+[Repealed]
 
 ### 45 Extension of term of Governor or Deputy Governor
-(1) The Minister may extend—
-  (a) the Governor’s term of appointment by up to 6 months by written notice to the Governor (with a copy to the Board):
-  (b) the Deputy Governor’s term of appointment by up to 6 months by written notice to the Deputy Governor (with a copy to the Governor and the Board).
-(2) If the Governor’s or Deputy Governor’s term is extended and that person is reappointed for a further term in the same office, the length of the further term must be reduced by the length of the extension.
-(3) Subsection (2) does not prevent the further term from being extended under subsection (1).
-(4) The Minister must ensure that the following are notified in the Gazette as soon as practicable after an extension is made:
-  (a) the fact that the Governor’s or Deputy Governor’s term of appointment has been extended; and
-  (b) the period of the extension.
-(5) This section applies only to a Governor appointed under section 40 or a Deputy Governor appointed under section 43.
+[Repealed]
 
 ### 45A Validity of appointments
-The appointment of a person as the Governor under section 40 or 48 or as the Deputy Governor under section 43 or 48B is not invalid only because a defect existed in the appointment of the person.
+[Repealed]
 
 ### 46 Disqualification of Governor and Deputy Governor
-(1) No person shall be appointed or reappointed, or continue to hold office, as Governor or Deputy Governor if that person—
-  (a) is a member of Parliament; or
-  (b) is a director or an employee of a registered bank or of a licensed NBDT as defined in the Non-bank Deposit Takers Act 2013 or of a licensed insurer or of a relevant operator of an FMI; or
-  (c)
-  (d) is a chief executive of a Government department or an employee of a Government department, appointed under the Public Service Act 2020; or
-  (e) is an undischarged bankrupt; or
-  (f) is a person who is convicted of any offence punishable by imprisonment for a term of 2 years or more; or
-  (g) is a person who is convicted of any offence punishable by imprisonment for a term of less than 2 years and is sentenced to imprisonment for that offence; or
-  (h)
-  (i)
-  (j) is prohibited from being a director or promoter of, or being concerned or taking part in the management of, an incorporated or unincorporated body under the Companies Act 1993, or the Financial Markets Conduct Act 2013, or the Takeovers Act 1993; or
-  (k) is subject to a property order under the Protection of Personal and Property Rights Act 1988.
-  (k)
-(1A) No person may be appointed or reappointed, or continue to hold office, as Deputy Governor, if that person is a member of the Board (except where the Deputy Governor is acting as the Governor).
-(2) The Governor or Deputy Governor shall be deemed to have resigned office if that person is prohibited from continuing to hold office under this section.
-(3) If the Governor or Deputy Governor becomes aware that he or she is likely to become disqualified, he or she must disclose that fact to the Board and the Minister as soon as practicable.
-(4) In subsection (1)﻿(b), relevant operator of an FMI—
-  (a) means an operator of an FMI within the meaning of those terms in section 5 of the Financial Market Infrastructures Act 2021; but
-  (b) does not include an operator that is the Bank or a subsidiary of the Bank.
+[Repealed]
 
 ### 47 Incapacity of Governor and Deputy Governor
-(1) In the case of the absence or incapacity of the Governor, the Deputy Governor shall have all the duties, responsibilities, and functions of the Governor under this Act and may exercise all the powers of the Governor under this Act, the Insurance (Prudential Supervision) Act 2010, the Financial Market Infrastructures Act 2021, or the Non-bank Deposit Takers Act 2013.
-(2) In the case of the absence or incapacity of the Governor and the Deputy Governor, the Minister shall, on the recommendation of the Board, appoint—to act as Governor.
-  (a) a director of the Bank; or
-  (b) an officer of the Bank—
-(3) If the Minister is unable to make an appointment under subsection (2) by reason of the fact that, in the circumstances, it is impracticable for a meeting of the Board to be held, the Minister shall appoint—to act as Governor for a period not exceeding 28 days.
-  (a) a director of the Bank; or
-  (b) an officer of the Bank—
-(4) The person appointed to act as Governor shall, so long as the appointment continues, have all the duties, responsibilities, and functions of the Governor under this Act and may exercise all the powers of the Governor under this Act, the Insurance (Prudential Supervision) Act 2010, the Financial Market Infrastructures Act 2021, or the Non-bank Deposit Takers Act 2013.
-(5) While any of the following persons is acting as Governor in accordance with this section, he or she must be taken to be a director of the Bank:
-  (a) the Deputy Governor:
-  (b) a person appointed to act as Governor, but who is not a director of the Bank.
+[Repealed]
 
 ### 48 Vacancy in office of Governor
-(1) If the office of Governor becomes vacant, the Minister must, on the recommendation of the Board, appoint any of the following as Governor for a period not exceeding 6 months:
-  (a) a director of the Bank:
-  (b) an officer of the Bank:
-  (c) any other person.
-(2) The circumstances in which the office becomes vacant include where 1 or more persons have been acting as Governor under section 47 for a total consecutive period of 3 months (unless the Minister gives a notice to the Bank that this subsection does not apply in the particular circumstances).
-(3) A Governor who has vacated office (for example, at the end of the Governor’s term) may not be appointed under subsection (1).
-(4) If a Deputy Governor (D) is appointed under subsection (1), D’s term as Deputy Governor—
-  (a) is suspended during the period in which D is the Governor; and
-  (b) is resumed at the end of that period (unless D is appointed as Governor under section 40); and
-  (c) ends when that term would otherwise have ended under this Act.
+[Repealed]
 
 ### 48A Deputy Governor may act pending appointment
-(1) Pending the appointment of a person as Governor under section 48, the Deputy Governor must act as Governor for a period of 28 days or until a person is appointed under that section, whichever is less.
-(2) The Deputy Governor, so long as that person acts as Governor under this section,—
-  (a) has all the duties, responsibilities, and functions of the Governor under this Act and may exercise all the powers of the Governor under this Act; and
-  (b) must be treated as being a director of the Bank.
+[Repealed]
 
 ### 48B Vacancy in office of Deputy Governor
-(1) If the office of Deputy Governor becomes vacant, the Minister must, on the recommendation of the Board, appoint any person (other than a director of the Bank) as Deputy Governor for a period not exceeding 6 months.
-(2) The Deputy Governor who has vacated office (for example, at the end of the Deputy Governor’s term) may not be appointed under subsection (1).
+[Repealed]
 
 ### 49 Removal of Governor from office
-(1) The Governor-General may, by Order in Council, on the advice of the Minister, remove the Governor from office.
-(2) The Minister may tender advice under subsection (1) if the Minister is satisfied—
-  (a) that the Bank is not adequately carrying out its functions (other than functions performed by the MPC); or
-  (b) that the Governor has not adequately discharged the responsibilities of office; or
-  (ba) that any of the matters set out in clause 19(2)﻿(a) to (e) of Schedule 2 apply to the Governor as a member of the MPC; or
-  (c) that the Governor has obstructed, hindered, or prevented the Board or the MPC from discharging responsibilities under this Act (for example, by failing to give the Board or the MPC information that is necessary to discharge those responsibilities); or
-  (d)
-  (e)
-  (f)
-  (g) that the resources of the Bank have not been properly or effectively managed; or
-  (h) that the Governor has, while holding office as Governor,—
-    (i) held any other office of profit; or
-    (ii) engaged in any other occupation for reward; or
-    (iii) had an ownership interest in a registered bank or a licensed NBDT as defined in the Non-bank Deposit Takers Act 2013 or a licensed insurer or a relevant operator of an FMI as defined in section 46(4); or
-    (iv) had an ownership interest in a bank carrying on business outside New Zealand; or
-  (i) that the Governor is unable to carry out the responsibilities of office, or has been guilty of serious neglect of duty, or has been guilty of misconduct.
-(3) The Minister may tender advice under this section whether or not the Board has made a recommendation under section 53(3) or (5) that the Governor be removed from office.
+[Repealed]
 
 ### 50 Removal of Deputy Governor from office by Order in Council
-(1) The Governor-General may, by Order in Council, on the advice of the Minister, remove the Deputy Governor from office.
-(2) The Minister may tender advice under subsection (1) if the Minister is satisfied that—
-  (a)
-  (a) the Deputy Governor has not adequately discharged the responsibilities of office; or
-  (b) the Board has recommended the removal on 1 or more of the grounds specified in the Deputy Governor’s conditions of appointment under section 44(4); or
-  (c) the Deputy Governor has obstructed, hindered, or prevented the Governor, the MPC, or the Board from discharging responsibilities under this Act; or
-  (ca) any of the matters set out in clause 19(2)﻿(a) to (e) of Schedule 2 apply to the Deputy Governor as a member of the MPC; or
-  (d) the Deputy Governor has, while holding office as Deputy Governor,—
-    (i) held any other office of profit; or
-    (ii) engaged in any other occupation for reward; or
-    (iii) had an ownership interest in a registered bank or a licensed NBDT as defined in the Non-bank Deposit Takers Act 2013 or a licensed insurer or a relevant operator of an FMI as defined in section 46(4); or
-    (iv) had an ownership interest in a bank carrying on business outside New Zealand.
-  (e) the Deputy Governor is unable to carry out the responsibilities of office, or has been guilty of serious neglect of duty, or has been guilty of misconduct.
-(3) The Minister may tender advice under this section whether or not the Board has made a recommendation under section 53(4) or (5) that the Deputy Governor be removed from office (except that a recommendation is required under subsection (2)﻿(b)).
+[Repealed]
 
 ### 51 Delegation
-(1) The Governor may, at any time, delegate to the Deputy Governor any of the Governor's functions and powers including the power of delegation under subsection (2).
-(2) The Governor may, at any time, delegate any of the Governor’s functions and powers to any other officer of the Bank.
-(3) The fact that the Deputy Governor exercises any powers or functions of the Governor shall be conclusive proof of the authority to do so, and no person shall be concerned to inquire whether the occasion for doing so has arisen or has ceased.
-(4) Any other officer of the Bank who purports to act pursuant to any delegation under this section shall, in the absence of proof to the contrary, be presumed to be acting in accordance with the terms of the delegation.
-(5) Subject to any general or special directions given or conditions attached by the Governor, any person to whom any powers or functions are delegated under this section may exercise them in the same manner and with the same effect as if they had been conferred directly by this Act or under any of the following Acts, and not by delegation:
-  (a) the Anti-Money Laundering and Countering Financing of Terrorism Act 2009:
-  (b) the Insurance (Prudential Supervision) Act 2010:
-  (c) the Non-bank Deposit Takers Act 2013:
-  (d) the Financial Market Infrastructures Act 2021.
-(6) A delegation under this section may be revoked at any time.
-(7) A delegation of any power or function under this section shall not prevent the exercise of the power or function by the Governor.
-(8) Any such delegation, until it is revoked, shall continue in force according to its tenor, notwithstanding that the Governor who made it may have ceased to hold office.
-(9) To avoid doubt, the Governor's functions and powers include his or her functions and powers under the following Acts:
-  (a) the Anti-Money Laundering and Countering Financing of Terrorism Act 2009:
-  (b) the Insurance (Prudential Supervision) Act 2010:
-  (c) the Non-bank Deposit Takers Act 2013:
-  (d) the Financial Market Infrastructures Act 2021.
+[Repealed]
 
 **Board of directors**
 
 ### 52 Board of directors
-There shall be a board of directors of the Bank.
+[Repealed]
 
 ### 53 Duties of Board
-(1) Subject to this Act, the Board of the Bank shall—
-  (a) keep under constant review the performance of the Bank in carrying out—
-    (i) its functions under sections 8 and 9 (or under an Order in Council under section 12); and
-    (ii) its functions relating to promoting the maintenance of a sound and efficient financial system; and
-    (iii) its other functions under this Act or any other enactment:
-  (b) keep under constant review the performance of the Governor in discharging the responsibilities of that office:
-  (c) keep under constant review the performance of the Deputy Governor in discharging the responsibilities of that office:
-  (d) keep under constant review the performance of the MPC, and each member of the MPC, in discharging responsibilities under this Act:
-  (e) keep under constant review the use of the Bank's resources.
-(2) The Board may give advice to the Governor on any matter relating to the performance of the Bank's functions and the exercise of its powers.
-(3) If the Board is satisfied—the Board shall advise the Minister in writing and may recommend to the Minister that the Governor be removed from office.
-  (a) that the Bank is not adequately carrying out its functions (other than functions performed by the MPC); or
-  (b) that the Governor has not adequately discharged the responsibilities of that office; or
-  (c) that the Governor has obstructed, hindered, or prevented the Board or the MPC from discharging responsibilities under this Act (for example, by failing to give the Board or the MPC information that is necessary to discharge those responsibilities); or
-  (d)
-  (e) that the resources of the Bank have not been properly or effectively managed; or
-  (f) that the Governor has, while holding office as Governor,—
-    (i) held any other office of profit; or
-    (ii) engaged in any other occupation for reward; or
-    (iii) had an ownership interest in a registered bank or a licensed NBDT as defined in the Non-bank Deposit Takers Act 2013 or a licensed insurer or a relevant operator of an FMI as defined in section 46(4); or
-    (iv) had an ownership interest in a bank carrying on business outside New Zealand; or
-  (g) that the Governor is unable to carry out the responsibilities of office, or has been guilty of serious neglect of duty, or has been guilty of misconduct,—
-(4) The Board must advise the Minister in writing and may recommend to the Minister that the Deputy Governor be removed from office if the Board is satisfied—
-  (a) that the Deputy Governor has not adequately discharged the responsibilities of that office; or
-  (b) that 1 or more of the grounds specified in the Deputy Governor’s conditions of appointment under section 44(4) apply; or
-  (c) that the Deputy Governor has obstructed, hindered, or prevented the Governor, the MPC, or the Board from discharging responsibilities under this Act; or
-  (d) that the Deputy Governor has, while holding office as Deputy Governor,—
-    (i) held any other office of profit; or
-    (ii) engaged in any other occupation for reward; or
-    (iii) had an ownership interest in a registered bank or a licensed NBDT as defined in the Non-bank Deposit Takers Act 2013 or a licensed insurer or a relevant operator of an FMI as defined in section 46(4); or
-    (iv) had an ownership interest in a bank carrying on business outside New Zealand; or
-  (e) that the Deputy Governor is unable to carry out the responsibilities of office, or has been guilty of serious neglect of duty, or has been guilty of misconduct.
-(5) The Board must advise the Minister in writing, and may recommend that the Governor, Deputy Governor, or any other member of the MPC be removed from office, if the Board is satisfied of any matter referred to in clause 19(2)﻿(a) to (e) of Schedule 2.
-(6) The Board may act under subsections (3) to (5) with as little formality and technicality, and as much expedition, as is permitted by—
-  (a) the principles of natural justice; and
-  (b) a proper consideration of the matter.
+[Repealed]
 
 ### 53A Board must prepare annual report
-(1) The Board must prepare, for each financial year, a report setting out the Board's assessment of the matters referred to in section 53(1).
-(1A) The report must—
-  (a) include a statement as to whether, in the Board’s opinion, the MPC, the Governor, the Deputy Governor, and the other members of the MPC have adequately discharged their respective responsibilities during the financial year; and
-  (b) describe how the Board has assessed the matter under paragraph (a).
-(1B) The statement must address (without limitation) whether, in the Board’s opinion, the MPC has formulated monetary policy consistent with the operational objectives set out in a remit over the financial year.
-(2) The report must—
-  (a) be signed by the chairperson and 1 other non-executive director; and
-  (b) be delivered to the Minister within 3 months after the end of the financial year.
-(3) The report stands referred, by virtue of this section, to the House of Representatives.
+[Repealed]
 
 ### 53B Board must supply reports or other information to Minister
-(1) The Board must supply to the Minister any reports or other information relating to the performance of its duties that the Minister requests.
-(2) The reports or information must be supplied at the time and in the manner reasonably required by the Minister.
+[Repealed]
 
 ### 53C Bank must supply reports or information to Board
-(1) The Bank must supply to the Board any reports or other information requested by the Board that is reasonably necessary to facilitate the performance of the Board’s duties.
-(2) The reports or information must be supplied at the time and in the manner reasonably required by the Board.
+[Repealed]
 
 ### 54 Membership of Board
-(1) The Board must consist of—
-  (a) not less than 5, and not more than 7, non-executive directors appointed by the Minister; and
-  (b) the Governor.
-(2) The appointment of every non-executive director must be notified in the Gazette.
-(3) The Governor is the only person employed in the service of the Bank who may be a director of the Bank.
-(4) The validity of any act of the Board is not affected by—
-  (a) any vacancy in its membership; or
-  (b) any defect in the appointment of a director; or
-  (c) the fact that any non-executive director is disqualified from appointment under section 58.
-(5) Subsection (3) is subject to sections 47 and 48A.
+[Repealed]
 
 ### 55 Term of office of non-executive directors
-(1) Except as provided in subsection (2) and in sections 57 to 59, every non-executive director shall hold office for a term of 5 years.
-(2)
-(3) A non-executive director may from time to time be reappointed.
-(4) A non-executive director may at any time resign office by notice in writing to the Minister.
+[Repealed]
 
 ### 56 Considerations affecting appointment of non-executive directors
-In considering the appointment or reappointment of a person to the office of non-executive director of the Bank, the Minister shall have regard, in relation to that office, to—
-  (a) that person's knowledge, skill, and experience; and
-  (b) the likelihood of any conflict between the interests of the Bank and any interests which that person has or represents.
+[Repealed]
 
 ### 57 Extraordinary vacancies
-(1) If a non-executive director dies, or resigns or is removed from office, that office shall become vacant and the vacancy shall be deemed to be an extraordinary vacancy.
-(2) A non-executive director shall be deemed to have resigned office if that director—
-  (a) is prohibited by section 58 from holding office as a director; or
-  (b) fails, without the Board's consent, to attend 3 consecutive meetings of the Board.
-(3) The manner of filling an extraordinary vacancy shall be the manner prescribed by section 54.
-(4) A person who is appointed to fill an extraordinary vacancy shall be appointed for the residue of the term of the vacating director.
+[Repealed]
 
 ### 58 Disqualification of non-executive directors
-No person may be appointed or reappointed, or continue to hold, the office of non-executive director of the Bank if that person—
-  (a) is a member of Parliament; or
-  (b) is a director or an employee of a registered bank or a licensed insurer or a licensed NBDT (as defined in the Non-bank Deposit Takers Act 2013) or a relevant operator of an FMI (as defined in section 46(4)); or
-  (c) is a member of the MPC; or
-  (ca) is subject to a property order under the Protection of Personal and Property Rights Act 1988; or
-  (cb) is an undischarged bankrupt; or
-  (d) is a person who is convicted of any offence punishable by imprisonment for a term of 2 years or more; or
-  (e) is a person who is convicted of any offence punishable by imprisonment for a term of less than 2 years and is sentenced to imprisonment for that offence; or
-  (f)
-  (g)
-  (h) is prohibited from being a director or promoter of, or being concerned or taking part in the management of, an incorporated or unincorporated body under the Companies Act 1993, or the Financial Markets Conduct Act 2013, or the Takeovers Act 1993.
-  (i)
+[Repealed]
 
 ### 59 Removal from office of non-executive directors
-(1) The Governor-General may, by Order in Council, on the advice of the Minister, remove a non-executive director of the Bank from office.
-(2) The Minister may tender advice under subsection (1) if the Minister is satisfied that the director—
-  (a) is unable, or has failed, to perform the duties of a director of the Bank under this Act; or
-  (b) has been guilty of misconduct; or
-  (c) has obstructed, hindered, or prevented—
-    (i) the Governor from discharging the responsibilities of the Governor under this Act; or
-    (ii) the MPC from discharging the responsibilities of the MPC under this Act.
+[Repealed]
 
 ### 59A Chairperson and deputy chairperson of Board
-(1) The Minister must appoint—
-  (a) a non-executive director of the Bank to be chairperson of the Board; and
-  (b) another non-executive director of the Bank to be deputy chairperson of the Board.
-(2) A chairperson or deputy chairperson holds that office for a term determined by the Minister unless that person—
-  (a) resigns from that office; or
-  (b) is removed from that office, at any time, by the Minister; or
-  (c) ceases to be a non-executive director.
-(3) A chairperson or deputy chairperson whose term of office has expired—
-  (a) is eligible for reappointment so long as that person continues to be a non-executive director; and
-  (b) continues to hold that office until a successor is appointed.
-(4) A vacancy in the office of chairperson or deputy chairperson must be filled as soon as practicable in the manner set out in subsection (1).
+[Repealed]
 
 ### 60 Meetings of Board
-(1) The Board may meet as often as necessary, but must meet at least 6 times each financial year.
-(2) The chairperson, or any 2 directors, may, at any time, call a meeting of the Board.
-(3) At any meeting of the Board, the quorum necessary for the transaction of business is 4 directors.
-(4) All questions arising at any meeting of the Board that cannot be resolved by consensus must be decided by a majority of the votes cast by the directors present.
-(5) If a vote is tied, the following has a casting vote:
-  (a) the chairperson:
-  (b) the deputy chairperson or other director presiding at the meeting in accordance with section 60C.
-(6) Subject to this Act, the Board may regulate its own procedure.
+[Repealed]
 
 ### 60A Teleconference meeting
-A resolution is as valid and effectual as if it had been passed at a meeting of the Board duly called and constituted if—
-  (a) a telephone or video conference of at least 4 directors is held; and
-  (b) notice of the conference has been given under section 60B and all reasonable efforts have been made to enable every director to participate in the conference; and
-  (c) each director who participates in the conference is able to individually express his or her views, and vote, on any question arising during the meeting; and
-  (d) the resolution is assented to by a majority of the directors participating in the conference.
+[Repealed]
 
 ### 60B Directors to be notified of meetings
-(1) The person or persons calling a meeting must ensure that each director is given—
-  (a) at least 2 days' notice of a meeting; or
-  (b) if a meeting is to be convened as a matter of urgency, reasonable notice of the meeting.
-(2) The notice must—
-  (a) indicate the business to be transacted at the meeting; and
-  (b) be given in writing or, if the director to whom the notice is to be given agrees, orally.
-(3) A notice in writing may be given by personal delivery, by post, or by electronic transmission (for example, by fax or email).
-(4) At a meeting of the Board, any director may, with the leave of the chairperson or the majority of the directors present, raise any matter for the consideration of the Board, even though that matter has not been included in the notice of meeting under subsection (2)﻿(a).
-(5) For the purposes of subsection (1), it is enough if the person or persons calling a meeting made all reasonable efforts to ensure each director was given the notice by the time required under that subsection.
+[Repealed]
 
 ### 60C Who presides at meetings of Board
-(1) At all meetings of the Board, the chairperson presides if he or she is present and willing to do so.
-(2) The deputy chairperson must be the chairperson for the meeting if—
-  (a) the chairperson is not present; or
-  (b) there is no chairperson; or
-  (c) the chairperson is present, but is unwilling or unable to preside.
-(3) Despite subsection (2), another non-executive director appointed by the other non-executive directors must be the chairperson for the meeting instead of the deputy chairperson if—
-  (a) the deputy chairperson is not present; or
-  (b) there is no deputy chairperson; or
-  (c) the deputy chairperson is present, but is unwilling or unable to preside.
-(4) The deputy chairperson or that non-executive director has and may exercise and perform all the powers, duties, and functions of the chairperson for the purposes of that meeting.
+[Repealed]
 
 ### 61 Directors to disclose interests
-(1) A director who is interested in a contract or proposed contract with the Bank, or in the exercise or proposed exercise by the Bank of a power, shall declare that interest at every meeting of the Board at which that contract or proposed contract, or the exercise or proposed exercise of the power, is considered by the Board.
-(2) A director who is interested in a contract or proposed contract or in the exercise or proposed exercise of a power—
-  (a) is not entitled to vote on a resolution that relates to the contract or proposed contract or the exercise or proposed exercise of the power:
-  (b) shall not be counted for the purpose of determining whether a quorum is present when—
-    (i) the contract or proposed contract or the exercise or proposed exercise of the power is considered by the Board; or
-    (ii) a resolution relating to the contract or proposed contract or the exercise or proposed exercise of the power is voted on.
+[Repealed]
 
 ### 62 Committees
-(1) The Board may, from time to time, appoint committees of 1 or more directors and may delegate any of its functions and powers, except this power of delegation, to such committees.
-(2) The Board may from time to time—
-  (a) discharge, alter, or reconstitute a committee; or
-  (b) discharge a member of a committee and appoint another member in that member's place.
-(3) Subject to any direction given by the Board, the functions and powers delegated to a committee may be performed or exercised with the same effect as if they had been conferred by this Act and not by delegation.
-(4) A committee purporting to act under delegation shall, in the absence of proof to the contrary, be presumed to be acting in accordance with the delegation.
-(5) A delegation may be revoked by the Board at any time.
-(6) A delegation does not prevent the Board from performing or exercising its functions and powers.
-(7) A delegation to a committee shall continue in force even though the membership of the Board or the committee changes.
-(8) Subject to this Act and to any directions given by the Board, a committee may regulate its own procedure.
+[Repealed]
 
 ### 63 Fees and expenses of non-executive directors
-(1) The Bank shall pay the non-executive directors such fees as the Minister, after considering any recommendation by the Board, determines.
-(2) The Bank shall pay the non-executive directors travelling and other expenses incurred in carrying out their duties.
+[Repealed]
 
 **Monetary policy committee**
 
 ### 63A Establishment of monetary policy committee
-(1) The monetary policy committee (MPC) is established.
-(2) The MPC is a committee of the Bank.
+[Repealed]
 
 ### 63B Functions of MPC
-The MPC must—
-  (a) perform the function of formulating monetary policy in accordance with this Act; and
-  (b) perform or exercise any other function, power, or duty conferred on it under this Act.
+[Repealed]
 
 ### 63C Membership of MPC
-(1) The MPC must have not fewer than 5 members and not more than 7 members.
-(2) The members must comprise—
-  (a) the Governor:
-  (b) the Deputy Governor:
-  (c) 1 or 2 persons who are employees or officers of the Bank (the internal members):
-  (d) 2 or 3 persons who are not employees or officers of the Bank (the external members).
-(3) The internal members, together with the Governor and the Deputy Governor, must be a majority of the membership of the MPC (subject to any vacancies in the membership).
+[Repealed]
 
 ### 63D Charter
-(1) A charter must be in force under this Act (see clauses 5 to 7 of Schedule 1 and section 63F).
-(2) The purpose of the charter is to provide for the following to the extent that those matters are not otherwise provided for in this Act:
-  (a) requirements to promote transparency and accountability in connection with the performance of the MPC’s functions; and
-  (b) decision-making procedures.
+[Repealed]
 
 ### 63E Content of charter
-(1) The charter must include the following:
-  (a) requirements for summary records of the MPC’s meetings under clause 46 of Schedule 2 (including the content of the records, when and how those records must be published, and matters relating to the record of votes); and
-  (b) guidelines or requirements relating to the publication or disclosure by a member of the MPC of any matter relating to the MPC or its functions, powers, or duties.
-(2) The charter may also include—
-  (a) requirements relating to other information that must or may be published by or on behalf of the MPC, including when and how that information must or may be published; and
-  (b) decision-making procedures; and
-  (c) any other matters that—
-    (i) this Act provides are to be or may be dealt with by the charter; or
-    (ii) are otherwise for the purpose set out in section 63D.
-(3) The charter must not be inconsistent with anything in this Act.
+[Repealed]
 
 ### 63F Replacement charter
-(1) The Minister and the MPC may agree to issue a replacement charter at any time.
-(2) The Minister and the MPC must consider whether it is necessary or desirable to issue a replacement charter when a new remit is to be issued by the Minister.
-(3) If a report is provided under section 63G, the Minister and the MPC must have regard to the report.
-(4) A replacement charter takes effect on and from—
-  (a) the date on which it is issued; or
-  (b) a later date specified in the charter.
-(5) Until a replacement charter is issued, the existing charter continues in force.
+[Repealed]
 
 ### 63G Consultation about replacement charter
-(1) This section applies if the Bank is required to act under clauses 2 and 3 of Schedule 2 (which relate to the Bank giving remit advice).
-(2) The Bank must, before remit advice is given under clause 2 of Schedule 2, seek the views of members of the public on the matters that the Bank considers would assist the Minister and the MPC when considering—
-  (a) whether it is necessary or desirable to issue a replacement charter; and
-  (b) the content of a replacement charter (if any).
-(3) The Governor must, when the remit advice is given under clause 2 of Schedule 2, give the Minister and the MPC a report that summarises the comments that are provided by those members of the public within the time and in the manner specified by the Bank.
-(4) The Bank must, as soon as practicable after the remit is issued, publish a copy of the report on an Internet site maintained by, or on behalf of, the Bank.
+[Repealed]
 
 ### 63H Publication of charter
-The charter must be published on an Internet site maintained by, or on behalf of, the Bank.
+[Repealed]
 
 ### 63I Status of charter
 [Repealed]
 
 ### 63J Code of conduct
-(1) A code of conduct for the members of the MPC must be approved by the Board.
-(2) The Board must ensure that a code is in force at all times.
-(3) The code may be amended or replaced at any time with the approval of the Board, but the Board may give its approval only if it is satisfied that the code (as amended or replaced) adequately addresses the matters in section 63K.
-(4) The code (or the code as amended or replaced) comes into force on—
-  (a) the date on which the Board gives its approval; or
-  (b) a later date specified by the Board in the resolution that gives its approval.
+[Repealed]
 
 ### 63K Content of code
-(1) The code must provide for minimum standards of conduct that must be demonstrated when acting as a member of the MPC, including—
-  (a) rules for managing and avoiding conflicts of interest; and
-  (b) rules for maintaining the confidentiality of information; and
-  (c) rules to promote active participation and preparation; and
-  (d) any other minimum standards of ethical behaviour.
-(2) The rules about conflicts of interest may provide for the disclosure of interests, including—
-  (a) defining the nature of interests to be disclosed; and
-  (b) providing for what must be disclosed, to whom disclosure is made, and how disclosures of interests must be made; and
-  (c) providing for the consequences of non-disclosure; and
-  (d) regulating or prohibiting participation of an interested member in decision making; and
-  (e) providing for the establishment and maintenance of an interests register.
-(3) The code must not be inconsistent with anything in this Act or the charter.
+[Repealed]
 
 ### 63L Publication and status of code
-(1) The code of conduct must be published on an Internet site maintained by, or on behalf of, the Bank.
-(2)
+[Repealed]
 
 ### 63M Other matters
-The provisions set out in Part 2 of Schedule 2 regulate other matters relating to the MPC and its members.
+[Repealed]
 
 **Appointment procedure**
 
 ### 63N Appointment procedure
-(1) This section applies to the appointment of any of the following:
-  (a) the Governor:
-  (b) the Deputy Governor:
-  (c) an internal or external member of the MPC.
-(2) The appointment of the person must be made by written notice to the appointee (with a copy to the Board and, except in the case of subsection (1)﻿(a), to the Governor).
-(3) The notice must state—
-  (a) the date on which the appointment takes effect, which must not be earlier than the date on which the notice is received; and
-  (b) the term of the appointment; and
-  (c) the conditions of appointment.
-(4) The Minister must ensure that the following are notified in the Gazette as soon as practicable after an appointment is made:
-  (a) the name of the appointee; and
-  (b) the date on which the appointment takes effect; and
-  (c) the term of the appointment.
+[Repealed]
 
 ## Part 4 — Use of words ‘bank’, ‘banker’, and ‘banking’
 
@@ -994,9 +537,9 @@ Nothing in sections 65 and 66 affects or limits the following sections of the Co
 (2) The Bank, any officer or employee of the Bank, or a person appointed under section 66E(2) must not publish or disclose any information or documents to which this section applies except—
   (a) with the consent of the person to whom the information relates or of the person to whom the information is confidential; or
   (b) to the extent that the information is available to the public under any Act, including the Official Information Act 1982, or is otherwise publicly available; or
-  (c) for the purposes of, or in connection with, the exercise of powers conferred by this Part; or
+  (c) for the purposes of, or in connection with, the performance or exercise of any function, power, or duty conferred or imposed on the Bank by this Act or any other legislation; or
   (d) in connection with any investigation or inquiry (whether or not preliminary to any proceedings) in respect of, or any proceedings for, an offence against this Act or any other Act; or
-  (e) to any central bank, authority, or body in any other country that exercises functions that correspond with, or are similar to, those conferred on the Bank under this Act or under the Non-bank Deposit Takers Act 2013 for the purposes of the exercise by that central bank, authority, or body of those functions; or
+  (e) under subpart 3 of Part 6 of the Reserve Bank of New Zealand Act 2021 (which relates to information sharing); or
   (f) to any person who the Bank is satisfied has a proper interest in receiving the information.
 (3) The Bank, any officer or employee of the Bank, or a person appointed under section 66E(2) must not publish or disclose any information or documents under subsection (2)﻿(e) or (f) unless the Bank is satisfied that satisfactory provision exists to protect the confidentiality of that information or those documents.
 (4) A person referred to in subsection (5) commits an offence if the person contravenes this section.
@@ -1009,7 +552,7 @@ Nothing in sections 65 and 66 affects or limits the following sections of the Co
 (1) A person to whom any information or documents are published or disclosed under section 66G must not publish, disclose, or use that information or those documents unless the publication, disclosure, or use is,—
   (a) in the case of a publication or disclosure under section 66G(2)﻿(a), in accordance with the terms and conditions of the consent referred to in that paragraph:
   (b) in the case of a publication or disclosure under section 66G(2)﻿(c),—
-    (i) for the purposes of, or in connection with, the exercise of powers conferred by this Part; and
+    (i) for the purposes of, or in connection with, the performance or exercise of any function, power, or duty referred to in that paragraph; and
     (ii) in accordance with any conditions that the Bank may have imposed:
   (c) in the case of a publication or disclosure under section 66G(2)﻿(f),—
     (i) authorised by the Bank and in accordance with any conditions that the Bank may have imposed; or
@@ -1084,16 +627,7 @@ The powers conferred on the Governor-General, the Minister, and the Bank by this
 (6) Regulations under subsection (5) are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 68B Bank to have regard to directions about government policy objectives
-(1) The Minister may direct the Bank to have regard to a government policy that relates to the Bank’s functions under this Part and Parts 5B and 5C.
-(2) The Bank must have regard to every direction given by the Minister under this section.
-(3) The Minister must consult with the Bank before giving a direction.
-(4) A direction must—
-  (a) be set out in a written statement signed by the Minister; and
-  (b) as soon as practicable after it is given, be—
-    (i) presented to the House of Representatives by the Minister; and
-    (ii) published in the Gazette.
-(5) The Minister may not give a direction that requires the performance or non-performance of a particular act by the Bank, or any employee or office holder of the Bank, or the bringing about of a particular result, in respect of a particular person.
-(6) A direction may be amended, revoked, or replaced in the same way as it may be given.
+[Repealed]
 
 **Registration of banks**
 
@@ -1192,9 +726,7 @@ In determining an application from a subsidiary of an overseas person, the Bank 
 (6) The penalty for an offence against this section is set out in section 156AB.
 
 ### 75 Publication of principles
-The Bank shall publish the principles on which it acts, or proposes to act,—
-  (a) in determining applications for registration; and
-  (b) in imposing, varying, removing, or adding to conditions of registration.
+[Repealed]
 
 ### 76 Registration of certain persons
 (1) Every person, that immediately before the commencement of this Act, was a registered bank, or deemed to be a registered bank, pursuant to Part 5A of the Reserve Bank of New Zealand Act 1964, shall continue to be a registered bank as if that person had been registered under this Act.
@@ -1615,14 +1147,14 @@ Where the Bank is satisfied that it is necessary or desirable for the purpose of
   (a) with the consent of the person to whom the information relates:
   (b) to the extent that the information is available to the public under any Act, other than the Official Information Act 1982, or is otherwise publicly available information:
   (c) in statistical or summary form arranged in such a manner as to prevent any information published or disclosed from being identified by any person as relating to any particular person:
-  (d) for the purposes of, or in connection with, the exercise of powers conferred by this Part:
+  (d) for the purposes of, or in connection with, the performance or exercise of any function, power, or duty conferred or imposed on the Bank by this Act or any other legislation:
   (e) in connection with any proceedings for an offence against this Act:
-  (f) to any central bank, authority, or body in any other country which exercises functions corresponding to or similar to those conferred on the Bank under this Part for the purposes of the exercise by that central bank, authority, or body of those functions:
+  (f) under subpart 3 of Part 6 of the Reserve Bank of New Zealand Act 2021 (which relates to information sharing):
   (g) to any person whom the Bank is satisfied has a proper interest in receiving such information.
 (3) No information, data, or forecasts shall be published or disclosed pursuant to paragraph (f) or paragraph (g) of subsection (2) unless the Bank is satisfied that satisfactory provision exists to protect the confidentiality of the information, data, or forecasts published or disclosed.
 (4) No officer or employee of the Bank and no person appointed under section 99(2)﻿(b), section 101, or section 119 shall use any information, data, or forecasts to which this section applies for a purpose not connected with the purpose for which such information, data, or forecasts was, or were, supplied, disclosed, or obtained.
 (5) No person to whom any information, data, or forecasts to which this section applies is or are published or disclosed pursuant to subsection (2)﻿(d) shall publish, disclose, or use such information, data, or forecasts except—
-  (a) for the purposes of, or in connection with the exercise of powers conferred by, this Part; and
+  (a) for the purposes of, or in connection with, the performance or exercise of any function, power, or duty referred to in that paragraph; and
   (b) in accordance with such conditions as may be specified by the Bank.
 (6) No person to whom any information, data, or forecasts to which this section applies is or are published or disclosed pursuant to subsection (2)﻿(a) or subsection (2)﻿(g), shall publish, disclose, or use such information, data, or forecasts unless the publication, disclosure, or use is—
   (a) authorised by the Bank; or
@@ -2544,8 +2076,8 @@ The powers conferred on the Bank by this Part must be exercised for the purpose 
 (1) The Bank may publish or disclose any information or data supplied in accordance with section 156C only if—
   (a) the information or data is available to the public under any Act or is otherwise publicly available information; or
   (b) the information or data is in a statistical or summary form; or
-  (c) the publication or disclosure of the information or data is for the purposes of, or in connection with, the exercise of powers conferred by this Act; or
-  (d) the publication or disclosure of the information or data is to any central bank, authority, or body in any other country that exercises functions that correspond with, or are similar to, those conferred on the Bank under this Act, and the Bank is satisfied that the information or data will be used by that central bank, authority, or body for the purpose of exercising those functions; or
+  (c) the publication or disclosure of the information or data is for the purposes of, or in connection with, the performance or exercise of any function, power, or duty conferred or imposed on the Bank by this Act or any other legislation; or
+  (d) the publication or disclosure of the information or data is under subpart 3 of Part 6 of the Reserve Bank of New Zealand Act 2021 (which relates to information sharing); or
   (e) the publication or disclosure of the information or data is to any person who the Bank is satisfied has a proper interest in receiving the information; or
   (f) the publication or disclosure of the information or data is with the consent of the person to whom the information relates or of the person to whom the information is confidential.
 (2) The Bank must not publish or disclose information or data under subsection (1)﻿(d) or (e) unless the Bank is satisfied that satisfactory provision exists to protect the confidentiality of that information or data.
@@ -2556,7 +2088,7 @@ The powers conferred on the Bank by this Part must be exercised for the purpose 
 ### 156H Limits on further disclosure of information
 (1) A person to whom any information or data is published or disclosed must not publish, disclose, or use that information or data unless the publication, disclosure, or use is,—
   (a) in the case of a publication or disclosure under section 156G(1)﻿(c),—
-    (i) for the purposes of, or in connection with, the exercise of powers conferred by this Act; and
+    (i) for the purposes of, or in connection with, the performance or exercise of any function, power, or duty referred to in that paragraph; and
     (ii) in accordance with any conditions that may be imposed by the Bank:
   (b) in the case of a publication or disclosure under section 156G(1)﻿(e),—
     (i) authorised by the Bank and in accordance with any conditions that the Bank may have imposed; or
@@ -2924,8 +2456,8 @@ The variation or revocation of a designation made under section 156N does not af
 (1) The joint regulators may publish or disclose any information or data supplied in accordance with section 156Y(3)﻿(b) or 156ZL only if—
   (a) the information or data is available to the public under any Act or is otherwise publicly available information; or
   (b) the information or data is in a statistical or summary form; or
-  (c) the publication or disclosure of the information or data is for the purposes of, or in connection with, the exercise of powers conferred by this Act; or
-  (d) the publication or disclosure of the information or data is to any central bank, authority, or body in any other country that performs functions and duties that correspond with, or are similar to, those conferred on the joint regulators under this Part, and the joint regulators are satisfied that the information or data will be used by that central bank, authority, or body for the purpose of performing those functions or duties; or
+  (c) the publication or disclosure of the information or data is for the purposes of, or in connection with, the performance or exercise of any function, power, or duty conferred or imposed on the Bank or the FMA by this Act or any other legislation; or
+  (d) the publication or disclosure of the information or data is under subpart 3 of Part 6 of the Reserve Bank of New Zealand Act 2021 or section 30 of the Financial Markets Authority Act 2011 (which relate to information sharing); or
   (e) the publication or disclosure of the information or data is to any person who the joint regulators are satisfied has a proper interest in receiving the information; or
   (f) the publication or disclosure of the information or data is with the consent of the person to whom the information relates or of the person to whom the information is confidential.
 (2) The joint regulators must not publish or disclose information or data under subsection (1)﻿(d) or (e) unless the joint regulators are satisfied that satisfactory provision exists to protect the confidentiality of that information or data.
@@ -2936,7 +2468,7 @@ The variation or revocation of a designation made under section 156N does not af
 ### 156ZO Limits on further disclosure of information
 (1) A person to whom any information or data is published or disclosed must not publish, disclose, or use that information or data unless the publication, disclosure, or use is,—
   (a) in the case of a publication or disclosure under section 156ZN(1)﻿(c),—
-    (i) for the purposes of, or in connection with, the exercise of powers conferred by this Act; and
+    (i) for the purposes of, or in connection with, the performance or exercise of any function, power, or duty referred to in that paragraph; and
     (ii) in accordance with any conditions that may be imposed by the joint regulators:
   (b) in the case of a publication or disclosure under section 156ZN(1)﻿(e),—
     (i) authorised by the joint regulators and in accordance with any conditions that may be imposed by the joint regulators; or
@@ -3148,7 +2680,7 @@ Nothing in any Act, other than this Act or the Official Information Act 1982, re
 ## Part 6 — Financial and accountability matters
 
 ### 157 Financial year
-The Bank's financial year ends on the day on which the Government's financial year ends.
+[Repealed]
 
 **Income and expenditure**
 
@@ -3156,197 +2688,82 @@ The Bank's financial year ends on the day on which the Government's financial ye
 [Repealed]
 
 ### 159 Funding agreements
-(1) The Minister and the Governor may enter into a funding agreement that specifies the amount of the Bank's income that may be paid or applied in meeting the operating expenses incurred by the Bank in each financial year in carrying out its functions and exercising its powers under—
-  (a) Part 2 (except section 16):
-  (b) Parts 3 to 5:
-  (c) Part 5B:
-  (d) Part 5C:
-  (da)
-  (e) sections 163, 166, 167, and 190:
-  (ea) the Non-bank Deposit Takers Act 2013:
-  (eb) the Financial Market Infrastructures Act 2021:
-  (f) if the Minister and the Governor agree, any other provision of this Act:
-  (g) any other Act.
-(2) There shall be a funding agreement applying for every financial year and each funding agreement shall apply to a period that comprises 5 consecutive financial years.
-(3) The Minister and the Governor may, from time to time, by agreement—
-  (a) vary the provisions of a funding agreement; or
-  (b) terminate a funding agreement and enter into a new funding agreement.
+[Repealed]
 
 ### 160 Contents of funding agreements
-Every funding agreement shall be in writing and—
-  (a) shall make provision for the operating expenses to be incurred by the Bank in carrying out the functions and exercising the powers set out in paragraphs (a) to (f) of subsection (1) of section 159:
-  (b) shall make provision for such items as may, in accordance with generally accepted accounting practice, properly be taken into account in determining the operating expenses applicable to those functions and powers:
-  (c) may provide for the extent, if any, to which any material change in the nature or extent of the work undertaken by the Bank in respect of any of those functions or powers shall require the total level of operating expenses to be redetermined between the Governor and the Minister:
-  (d) may make provision for such other matters, not being matters that are inconsistent with this section, as the Governor and the Minister may think fit.
+[Repealed]
 
 ### 161 Funding agreements to be ratified by House of Representatives
-(1) Within 12 sitting days after a funding agreement is entered into, or a funding agreement is varied, the Minister shall lay a copy of the agreement or the variation before the House of Representatives.
-(2) No funding agreement, and no variation of a funding agreement, shall be effective for the purposes of this Act unless it is ratified by a resolution of the House of Representatives.
+[Repealed]
 
 ### 162 Determination of annual dividend
-(1) The Bank must, as soon as practicable after the end of each financial year, recommend to the Minister the amount appropriately payable by the Bank to the Crown as an annual dividend in respect of the financial year.
-(2) The Bank must determine the amount it recommends to the Minister under subsection (1) in accordance with the principles set out in its statement of intent.
-(3) The Minister must determine the amount that the Bank must pay to the Crown as an annual dividend in respect of the financial year having regard to—
-  (a) the recommendation of the Bank; and
-  (b) the views of the Board of the Bank; and
-  (c) any other relevant matters.
-(4) The Bank must publish in its annual report—
-  (a) the amount it recommends to the Minister under subsection (1); and
-  (b) the determination made by the Minister under subsection (3).
+[Repealed]
 
 **Accountability documents**
 
 ### 162AA Purpose of accountability documents
-The purpose of the 3 accountability documents required under this Part is as follows:
-  (a) statement of intent: to promote the public accountability of the Bank by—
-    (i) enabling the Crown to participate in the process of setting the Bank’s medium-term intentions and undertakings; and
-    (ii) setting out for the House of Representatives those intentions and undertakings; and
-    (iii) providing a base against which the Bank’s actual performance can be later assessed:
-  (b) annual report: to—
-    (i) report on the activities of the Bank during the previous year; and
-    (ii) assess those activities against the intentions and undertakings set out in the latest statement of intent; and
-    (iii) ensure the accountability of the Bank for the funds available to it:
-  (c) financial stability report: to—
-    (i) report on matters relating to the soundness and efficiency of the financial system and other matters associated with the Bank’s statutory prudential purposes; and
-    (ii) allow assessments to be made of the effectiveness of the Bank’s use of its powers to achieve its statutory prudential purposes.
+[Repealed]
 
 ### 162AB Assessment of regulatory impacts of policies
-(1) The Bank must—
-  (a) assess the expected regulatory impacts of any policy that it intends to adopt under any of the following:
-    (i) Part 5:
-    (ii) the Insurance (Prudential Supervision) Act 2010:
-    (iii) the Non-bank Deposit Takers Act 2013:
-    (iv) the Financial Market Infrastructures Act 2021; and
-  (b) assess the regulatory impacts of the policies adopted under the enactments listed in paragraph (a)﻿(i) to (iv) at intervals appropriate to the nature of the policy being assessed; and
-  (c) give reports on the assessments to the Minister.
-(2) Subsection (1) does not apply in respect of any policy that is of a minor or technical nature.
-(3) The Bank may provide reports on the assessments of regulatory impacts to the Minister—
-  (a) as part of an accountability document or other report; or
-  (b) as a stand-alone report prepared following a request by the Minister or on the Bank's own initiative.
-(4) The Bank must publish every report on the assessment of regulatory impacts on an Internet site maintained by, or on behalf of, the Bank.
-(5) However, the Bank may omit information from any report published if it is satisfied on reasonable grounds that it is proper to omit the information on the ground of commercial confidentiality relating to a financial institution.
-(6) To avoid doubt, the publication of an accountability document that includes a report on the assessments of regulatory impacts satisfies the obligation in subsection (4).
+[Repealed]
 
 **Statement of intent**
 
 ### 162A Obligation to provide statement of intent
-The Bank must, in each financial year, provide to the Minister a statement of intent for the Bank and its subsidiaries for that financial year and at least the next 2 financial years.
+[Repealed]
 
 ### 162B Content of statement of intent
-(1) Each statement of intent must contain the following information for the full period to which it relates:
-  (a) key background information about the Bank and its operating environment:
-  (b) the nature and scope of the Bank's functions and its principal areas of operation:
-  (c) the specific impacts, outcomes, or objectives that the Bank seeks to achieve or contribute to:
-  (d) how the Bank (whether acting itself or through the MPC) intends to perform its functions and conduct its operations to achieve those impacts, outcomes, or objectives:
-  (da) if a direction has been given under section 68B, how the Bank has had regard to the direction:
-  (e) the proposed strategies for managing the organisational health and capability of the Bank:
-  (f) a statement of the projected income and expenditure for the first financial year in the period to which the statement of intent relates:
-  (g) a statement of the principles in accordance with which the Bank must determine the amount it recommends to the Minister as appropriately payable by the Bank to the Crown as an annual dividend:
-  (h) the main financial and non-financial measures and standards by which the future performance of the Bank may be judged:
-  (i) the matters on which the Bank will consult or notify the Minister before making a decision, the matters on which it will report to its Minister, and the frequency of reporting:
-  (j) any other matters that are reasonably necessary to achieve an understanding of the Bank’s intentions and direction.
-(2) Each statement of intent must be dated and signed by the Governor and the Deputy Governor.
+[Repealed]
 
 ### 162C Process for providing statement of intent to Minister
-(1) To provide a statement of intent under section 162A, the Bank must—
-  (a) prepare a draft statement of intent and provide it to the Minister not later than 30 days before the start of each financial year; and
-  (b) consider the Minister's comments (if any) on the draft and provide the final statement of intent to the Minister on or before the start of the financial year.
-(2) If the Minister’s comments include comment on the financial sector regulatory outcomes set out in the Bank’s draft statement of intent, the Bank must, when providing its final statement of intent to the Minister, also provide a response to the Minister’s comments that demonstrates how the Bank has taken those comments into account in formulating its objectives.
+[Repealed]
 
 ### 162D Amendments by Bank to statement of intent
-(1) The Bank must amend its statement of intent if any matters arise that significantly affect or alter the information contained in the statement that relates to section 162B(1)﻿(b), (d), or (e).
-(2) To amend its statement of intent, the Bank must—
-  (a) provide a draft amendment to the Minister; and
-  (b) consider the Minister's comments (if any) and provide the final amendment to the Minister as soon as practicable.
+[Repealed]
 
 ### 162E Statement of intent stands referred to House of Representatives
-A final statement of intent and any amendments to it that have been provided to the Minister stand referred, by virtue of this section, to the House of Representatives.
+[Repealed]
 
 **Annual reports**
 
 ### 163 Annual reports and accounts
-(1) Within 3 months after the end of each financial year the Bank must deliver to the Minister—
-  (a) a report on the operations of the Bank and its subsidiaries during the financial year; and
-  (b) audited financial statements for the Bank for the financial year and, if the Bank has any subsidiaries, audited consolidated financial statements for the Bank and its subsidiaries for that year; and
-  (c) the auditor's report on those financial statements.
-(2) The report must contain—
-  (aaa) an assessment against the intentions, measures, and standards set out in the statement of intent prepared at the beginning of the financial year; and
-  (a) information on the remuneration, compensation, and other benefits (including indemnities and insurance cover) provided or granted, during the financial year, to—
-    (i) each member of the Board or a committee of the Board (whose identity must be disclosed in the report for the purposes of this section); and
-    (ii) employees of the Bank (any of whose identity must not be disclosed in the report); and
-  (b) any other matters that the Bank is required, has undertaken, or wishes to report on in its annual report; and
-  (c) if the Board agrees, the Board's report prepared in accordance with section 53A; and
-  (d) any other information that is necessary, in conjunction with any reports published under section 15C or 15D, to enable an informed assessment to be made of the Bank's performance in carrying out its functions during the financial year.
-(3) The documents delivered to the Minister under subsection (1) stand referred, by virtue of this section, to the House of Representatives.
+[Repealed]
 
 ### 163A Bank not Crown entity
-The Bank is not a Crown entity for the purposes of the Crown Entities Act 2004.
+[Repealed]
 
 ### 164 Contents of financial statements
-(1) The financial statements shall be prepared in accordance with generally accepted accounting practice and shall include—
-  (a) a statement of the Bank's financial position at its balance date:
-  (b) an operating statement reflecting the revenue and expenses of the Bank for that year by reference to the functions carried out by the Bank:
-  (c) a statement of cash flows reflecting the Bank's cash flow for that year:
-  (d) a statement of the Bank's commitments as at the balance date:
-  (e) a statement of the Bank's contingent liabilities as at the balance date:
-  (f) a statement of accounting policies:
-  (g) such other statements as are necessary to fairly reflect the financial operations of the Bank for that year and its financial position at the end of that year:
-  (h) comparative actual figures for the previous financial year for paragraphs (a) to (e) and, where appropriate, paragraph (g).
-(2) The financial statements shall show separately—
-  (a) any payments made by the Bank under section 21(1); and
-  (b) any payments made by the Minister to the Bank under section 21(2).
+[Repealed]
 
 ### 165 Management statements
-(1) The financial statements of the Bank shall be accompanied by a management statement signed by the Governor and the Deputy Governor.
-(2) The management statement shall comprise:
-  (a) a statement of the management's responsibility for the preparation of the annual financial statements and the judgments used in them:
-  (b) a statement of the management's responsibility for establishing and maintaining a system of internal control designed to provide reasonable assurance as to the integrity and reliability of financial reporting:
-  (c) a statement that, in the opinion of the management, the annual financial statements for the financial year fairly reflect the financial position and operations of the Bank.
+[Repealed]
 
 **Financial stability reports**
 
 ### 165A Financial stability reports
-(1) The Bank must, not less than twice in every calendar year,—
-  (a) deliver a financial stability report to the Minister; and
-  (b) publish the report on an Internet site maintained by, or on behalf of, the Bank.
-(2) A financial stability report must—
-  (a) report on the soundness and efficiency of the financial system and other matters associated with the Bank’s statutory prudential purposes; and
-  (b) contain the information necessary to allow an assessment to be made of the activities undertaken by the Bank to achieve its statutory prudential purposes under this Act and any other enactment.
-(3) The Minister must, as soon as practicable after receiving the report, present it to the House of Representatives.
+[Repealed]
 
 **Audits**
 
 ### 166 Auditor-General to be auditor of Bank
-The Bank is a public entity as defined in section 4 of the Public Audit Act 2001 and, in accordance with that Act, the Auditor-General is its auditor.
+[Repealed]
 
 ### 167 Performance audit
-(1) The Minister may, from time to time, appoint 1 or more persons (whether as individuals or as members from time to time of any firm or firms) to carry out an assessment of the performance by the Bank of its functions and of the exercise by the Bank of its powers under this Act.
-(2) As soon as practicable after completing an assessment the person appointed shall submit a report to the Minister setting out the results of that assessment.
-(3) The report stands referred, by virtue of this section, to the House of Representatives.
-(4) A person appointed to conduct an assessment under this section, for the purpose of conducting that assessment,—
-  (a) shall have full access to all books and documents that are the property of or that are under the control of any person relating to the Bank or its affairs:
-  (b) may require any director, officer or employee of the Bank or any other person to answer any question relating to the Bank or its affairs:
-  (c) may, by notice in writing to any person, require that person to deliver any books or documents relating to the Bank or its affairs in the possession or under the control of that person and may take copies of them or extracts from them.
-(5) Nothing in subsection (4) limits or affects section 105.
-(6) The fees of the person appointed to carry out an assessment under this section shall be paid out of the funds of the Bank.
+[Repealed]
 
 ## Part 7 — Miscellaneous provisions
 
 ### 168 Bank to be good employer
-The Bank shall operate a personnel policy containing provisions generally accepted as necessary for the fair and proper treatment of employees in all aspects of their employment, including provisions requiring—
-  (a) good and safe working conditions; and
-  (b) an equal opportunities employment programme; and
-  (c) the impartial selection of suitably qualified persons for appointment; and
-  (d) opportunities for the enhancement of the abilities of individual employees.
+[Repealed]
 
 ### 169 Bank to exhibit sense of social responsibility
-It shall be an objective of the Bank to exhibit a sense of social responsibility in exercising its powers under this Act.
+[Repealed]
 
 ### 170 Application of Banking Act 1982 to Bank
 [Repealed]
 
 ### 171 Conflict with other Acts
-If there is any conflict between this Act and the provisions of the Banking Act 1982, or of any other Act relating to any bank or to the business of banking, the provisions of this Act shall prevail.
+[Repealed]
 
 ### 172 Obligations under this Act not limited
 An obligation or limitation imposed on a person by any other Act or instrument or by any trust or agreement shall not prevent or excuse that person from complying with any provision of this Act or any regulation made under it or with any direction, notice, requirement or condition given or imposed under that provision.
@@ -3365,7 +2782,7 @@ An obligation or limitation imposed on a person by any other Act or instrument o
   (fd) providing that section 122B(1)﻿(a)﻿(i), (b), or (c) does not apply to specified kinds of collateral or in any other specified circumstances:
   (g) pescribing forms for the purposes of this Act or of any such regulations, in any case where a form is not prescribed by this Act:
   (h) providing for and regulating the giving or service of notices for the purposes of this Act or of any such regulations, and the effect of such notices:
-  (i) prescribing fees to be charged by the Bank in respect of any matter under this Act:
+  (i)
   (j) prescribing offences against any such regulations, and prescribing fines not exceeding in respect of any such offence $5,000 and, in the case of a continuing offence, $200 for every day on which the offence has continued:
   (k) providing for such matters as are contemplated by or necessary for giving full effect to the provisions of this Act and for its due administration.
 (2) Regulations under subsection (1)﻿(fb) to (fd) must be made on the recommendation of—
@@ -3402,13 +2819,10 @@ An obligation or limitation imposed on a person by any other Act or instrument o
 (2) Nothing in subsection (1) limits section 173(j).
 
 ### 175A Privilege against self-incrimination no excuse
-A person is not excused from answering any question, supplying any information, producing any document, or providing any explanation under this Act on the ground that to do so would or might incriminate or tend to incriminate that person.
+[Repealed]
 
 ### 175B Admissibility of self-incriminating statements
-(1) A self-incriminating statement made orally by a person (whether or not the statement is recorded in writing) in the course of answering any question, or supplying any information, or producing any document, or providing any explanation, may be used in evidence against that person only in a prosecution for any offence where the person gives evidence inconsistent with the statement.
-(2) Despite subsection (1), any statement made in relation to—
-  (a) a refusal or failure to answer any question, supply any information, produce any document, provide any explanation, or comply with any other requirement may be used in evidence against that person in a prosecution for any offence under this Act arising from that refusal or failure:
-  (b) the answering of any question in a way that is false or misleading in a material particular, or the supply of any information, or the production of any document, or the provision of any explanation that is false or misleading in a material particular, may be used in evidence against that person in a prosecution for any offence under this Act arising from that act.
+[Repealed]
 
 ### 176 Penalties for offences
 Every person who commits an offence against this Act for which no penalty is provided except in this section is liable on conviction—
@@ -3417,36 +2831,17 @@ Every person who commits an offence against this Act for which no penalty is pro
 
 ### 177 Time for filing charging document
 Despite anything to the contrary in section 25 of the Criminal Procedure Act 2011, the limitation period in respect of an offence against this Act,—
-  (a) in the case of an offence against section 28 or 30, ends on the date that is 3 years after the date on which the offence was committed; or
+  (a)
   (b) in any other case, ends on the date that is 6 years after the date on which the offence was committed.
 
 ### 178 Evidence
-(1) A copy of a decision of the Bank or the MPC certified by the Governor to be correct is, in the absence of proof to the contrary, sufficient evidence of the decision in any proceeding.
-(2) A certificate signed by the Governor to the effect that—shall, in the absence of proof to the contrary, be sufficient evidence of the matters stated in it in any proceedings.
-  (a) any approval or consent required under any Act has or has not been given by the Bank, or is or is not for the time being in force; or
-  (b) any document has been duly signed by, or on behalf of, the Bank or the Governor—
-(3) Any certificate purporting to have been signed by the Governor shall, in the absence of proof to the contrary, be deemed for all purposes to have been duly signed by the Governor.
+[Repealed]
 
 ### 179 Protection from liability
-(1) This section applies to—
-  (a) every statutory manager of a registered bank or of an associated person of a registered bank; and
-  (b) every officer or employee of the Bank; and
-  (c) every person appointed under section 66E or section 99 or section 101; and
-  (d) every director of the Bank.
-(2) No person to whom this section applies is personally liable for an act done or omitted to be done in the exercise or performance in good faith of that person's functions, duties, or powers under this Act.
+[Repealed]
 
 ### 179A Indemnity
-(1) The Crown indemnifies the persons listed in subsection (2) for any liability that arises from the exercise or purported exercise of, or omission to exercise, any power conferred by this Act unless it is shown that the exercise or purported exercise of, or omission to exercise, the power was in bad faith.
-(2) The persons are—
-  (a) every statutory manager of a registered bank or of an associated person of a registered bank:
-  (b) every officer or employee of the Bank:
-  (c) every person appointed under section 66E or section 99 or section 101:
-  (d) every member of an advisory committee:
-  (e) the Bank:
-  (f) every director of the Bank.
-(3) Any money required for the purposes of this section must be paid out of a Crown Bank Account without further appropriation than this section.
-(4) The indemnity conferred by subsection (1) extends to legal costs incurred in defending a proceeding.
-(5) Within 12 sitting days of the making of any payment under this section, the Minister must present to the House of Representatives a report which contains details of the circumstances giving rise to the liability of the Crown, the amount of the payment, the person to whom the payment was made and any other relevant matters.
+[Repealed]
 
 ### 180 Amendment to Income Tax Act 1976
 [Repealed]
@@ -3492,72 +2887,40 @@ Every reference in any other Act to the expression “trading bank” shall be r
 ### Part 1 — Provisions relating to Reserve Bank of New Zealand (Monetary Policy) Amendment Act 2018
 
 ### 1 Interpretation
-(1) In this Part, unless the context otherwise requires, references to provisions are references to provisions as inserted or amended by the 2018 Act.
-(2) In this Part, unless the context otherwise requires,—
-  - **2018 Act** means the Reserve Bank of New Zealand (Monetary Policy) Amendment Act 2018
-  - **date of the Royal assent** means the date of the Royal assent of the 2018 Act
-  - **main commencement** means the commencement of the rest of the 2018 Act under section 2(2) of that Act.
-(3) If a provision that is applied for the purposes of this Part comes into force on the main commencement, that provision applies for those purposes as if it were in force.
+[Repealed]
 
 ### 2 First remit for MPC
-(1) Despite section 10(1), the first remit is to be issued in accordance with clause 3 or 4.
-(2) The following apply with all necessary modifications to the first remit (whether issued under clause 3 or 4):
-  (a) section 10(2) to (4):
-  (b) clauses 4, 6, and 7 of Schedule 2.
-(3) Clause 5 of Schedule 2 applies with all necessary modifications to a first remit issued under clause 3.
-(4) The first remit comes into force on the main commencement.
+[Repealed]
 
 ### 3 First remit issued with agreement
-(1) The Minister must issue the first remit after reaching agreement on the contents of the remit with the Governor.
-(2) The Minister and the Governor must take all reasonable steps to ensure that the remit is issued before the expiry of the 2-month period that starts on the date of the Royal assent.
-(3) Subclause (1) ceases to apply if the first remit is, instead, issued under clause 4.
+[Repealed]
 
 ### 4 First remit issued without agreement
-(1) The Governor-General may, by Order in Council made on the recommendation of the Minister, issue the first remit.
-(2) The Minister may make a recommendation if the Minister is satisfied that the Minister and the Governor have not agreed on the content of the first remit before the expiry of the 2-month period that starts on the date of the Royal assent.
-(3) An order under this clause is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+[Repealed]
 
 ### 5 First charter
-(1) The first charter is to be issued in accordance with clause 6 or 7.
-(2) Sections 63D(2), 63E, 63F, 63H, and 63I apply with all necessary modifications to the first charter (whether issued under clause 6 or 7).
-(3) The first charter comes into force on the main commencement.
+[Repealed]
 
 ### 6 First charter issued with agreement
-(1) The first charter must be issued by agreement between the Minister and the Governor (rather than between the Minister and the MPC).
-(2) The Minister and the Governor must take all reasonable steps to ensure that the first charter is agreed before the expiry of the 2-month period that starts on the date of the Royal assent.
-(3) Subclause (1) ceases to apply if the first charter is, instead, issued under clause 7.
+[Repealed]
 
 ### 7 First charter issued without agreement
-(1) The Governor-General may, by Order in Council made on the recommendation of the Minister, issue the first charter.
-(2) The Minister may make a recommendation if the Minister is satisfied that the Minister and the Governor have not agreed on the first charter before the expiry of the 2-month period that starts on the date of the Royal assent.
-(3) An order under this clause is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+[Repealed]
 
 ### 8 First code of conduct
-(1) The Bank must—
-  (a) prepare the first code of conduct for the members of the MPC; and
-  (b) submit that code to the Board for approval before the expiry of the 1-month period that starts on the date of the Royal assent.
-(2) The Board may give its approval only if it is satisfied that the first code adequately addresses the matters in section 63K.
-(3) The Bank and the Board must take all reasonable steps to ensure that the first code of conduct is prepared, approved, and in force before the expiry of the 2-month period that starts on the date of the Royal assent.
-(4) Sections 63J(4), 63K, and 63L apply with all necessary modifications to the first code of conduct.
+[Repealed]
 
 ### 9 First appointment of external and internal members
-(1) The first internal and external members of the MPC may be appointed by the Minister before the main commencement (with the appointment in each case to take effect on that commencement).
-(2) Section 63C and clauses 1, 8 to 13, and 15 of Schedule 2 apply for that purpose with all necessary modifications.
+[Repealed]
 
 ### 10 First Treasury observer
-(1) The first Treasury observer may be nominated by the Secretary to the Treasury before the main commencement (with the nomination to take effect on that commencement).
-(2) Clause 23 of Schedule 2 applies for that purpose with all necessary modifications.
+[Repealed]
 
 ### 11 Minimum number of meetings of MPC
-A requirement in this Act to have at least 4 meetings of the MPC each year does not apply to the year in which this clause comes into force.
+[Repealed]
 
 ### 12 Transitional provisions for office holders
-(1) The person holding office at the commencement of this clause—
-  (a) as Governor must be treated as continuing to hold that office for the balance of the term for which that person was appointed:
-  (b) as Deputy Governor must be treated as continuing to hold that office for the balance of the term for which that person was appointed (and may be reappointed under section 43 at the end of that term for 1 further term of up to 5 years):
-  (c) as chairperson or deputy chairperson of the Board must be treated as continuing to hold that office for the balance of the term for which that person was appointed.
-(2) This clause does not limit any provision of this Act under which a person referred to in subclause (1) may be removed from office or under which that person otherwise ceases to hold office.
-(3) Section 44(1) (as in force after the main commencement) is subject to subclause (1)﻿(b).
+[Repealed]
 
 ### Part 2 — Provision relating to Financial Markets (Derivatives Margin and Benchmarking) Reform Amendment Act 2019
 
@@ -3569,65 +2932,24 @@ The amendments made by subpart 1 of Part 1 of the Financial Markets (Derivatives
 ## Schedule 2 — Remit and monetary policy committee
 
 ### 1 Interpretation
-In this schedule,—
-  - **collective duty** means a duty under clause 31 or 32
-  - **external member** means a member of the MPC who is not an employee or officer of the Bank
-  - **individual duty** means a duty under clauses 33 to 39
-  - **internal member** means a member of the MPC who is an employee or officer of the Bank (other than the Governor or Deputy Governor)
-  - **member** means a member of the MPC.
+[Repealed]
 
 ### Part 1 — Remit
 
 ### 2 Bank’s advice on remit to be issued under section 10
-(1) The Bank must, no later than 3 months before the specified date, give the Minister advice (remit advice) about a remit that the Minister is to issue under section 10.
-(2) If the Bank fails to give remit advice within the time frame set out in this clause, the Minister may issue the remit without receiving the advice.
-(3) The Bank must, as soon as practicable after the remit is issued, publish a copy of the remit advice on an Internet site maintained by, or on behalf of, the Bank.
-(4) In this clause, specified date means, in relation to a remit that will be issued to replace another remit (the existing remit), the date on which the term of the existing remit will expire.
+[Repealed]
 
 ### 3 Process for developing advice
-(1) The Governor must, before the remit advice is given, consult the MPC.
-(2) The Bank must, before the remit advice is given,—
-  (a) seek the views of members of the public on the matters that the Bank considers would assist it to prepare the advice; and
-  (b) have regard to the comments that are provided by those members of the public within the time and in the manner specified by the Bank; and
-  (c) consult the Minister on the scope of the remit advice.
-(3) See section 63G, which provides for the Bank to seek the views of members of the public on a replacement charter.
+[Repealed]
 
 ### 4 Period during which remit is in force
-(1) A remit issued under section 10 (or Schedule 1 or clause 6 of this schedule) is in force for 5 years on and from—
-  (a) the date on which it is issued; or
-  (b) a later date specified in the remit.
-(2) However,—
-  (a) the Minister may, by notice to the Bank, extend the period for which a remit under section 10 (or clause 3 of Schedule 1) is in force for a period of up to 6 months if the Minister considers that an extension is necessary or desirable:
-  (b) a remit issued under clause 6 of this schedule is in force for less than 5 years if the order under that clause—
-    (i) specifies that the order is in force for a shorter term; or
-    (ii) is revoked before the expiry of the 5-year period.
-(3) The Minister’s notice under subclause (2)﻿(a) must be—
-  (a) published in the Gazette; and
-  (b) published on an Internet site maintained by, or on behalf of, the Bank.
-(4) The Bank must, as soon as practicable, update remit advice that it has previously given if—
-  (a) the advice was given before the term of the current remit is extended under subclause (2)﻿(a); and
-  (b) the Minister requests the Bank to update the advice.
-(5) See sections 12 to 15A (which provide for when a remit is in force when an Order in Council is made under section 12).
+[Repealed]
 
 ### 5 Publication and presentation of remit
-(1) The Minister must, as soon as practicable after a remit is issued under section 10 (or clause 3 of Schedule 1),—
-  (a) notify the issue of the remit in the Gazette; and
-  (b) present a copy of the remit to the House of Representatives.
-(2) If a remit is issued under section 10 (or clause 3 of Schedule 1), the Bank must publish a copy of the remit on an Internet site maintained by, or on behalf of, the Bank.
+[Repealed]
 
 ### 6 Remit may be replaced or issued
-(1) The Governor-General may, by Order in Council made on the recommendation of the Minister,—
-  (a) replace a remit issued under section 10 (or Schedule 1 or this clause) before the term of that remit expires; or
-  (b) issue a new remit as referred to in section 14(2)﻿(b).
-(2) The Minister must, before making a recommendation,—
-  (a) consult the Bank on the proposed remit; and
-  (b) consider the Bank’s comments (if any) on the proposal.
-(3) The MPC may ask the Minister to make a recommendation.
-(4) A remit may be replaced before the expiry of its term only in accordance with this clause or section 13.
-(5) Section 10(2) to (4) applies with all necessary modifications.
-(6) Despite section 48 of the Legislation Act 2019, a remit may not be amended.
-(7) Subclause (6) does not prevent the operational objectives in a remit from being amended or replaced as referred to in section 19(4)﻿(b).
-(8) An order under this clause is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+[Repealed]
 
 ### 7 Status of remit
 [Repealed]
@@ -3637,255 +2959,145 @@ In this schedule,—
 **Appointment of members**
 
 ### 8 Appointment of internal and external members
-The Minister must appoint the internal and external members on the recommendation of the Board.
+[Repealed]
 
 ### 9 Board must consult Governor
-The Board must consult the Governor before making a recommendation under clause 8 in respect of an internal member.
+[Repealed]
 
 ### 10 Validity of appointments and acts done by MPC
-(1) The appointment of a person under clause 8 is not invalid only because a defect existed in the appointment of the person.
-(2) Nothing done by the MPC is invalid because of—
-  (a) a vacancy in the membership of the MPC at the time the thing was done; or
-  (b) the subsequent discovery of a defect in the appointment of a person acting as a member; or
-  (c) the subsequent discovery that the person was disqualified from continuing to hold office as a member.
+[Repealed]
 
 ### 11 Qualifications of internal and external members
-(1) A natural person who is not disqualified by this clause may be appointed or reappointed, and may continue to hold office, as an internal or external member.
-(2) A person is disqualified if the person is—
-  (a) a member of Parliament; or
-  (b) a director or an employee of—
-    (i) a registered bank; or
-    (ii) a licensed NBDT as defined in the Non-bank Deposit Takers Act 2013; or
-    (iii) a licensed insurer; or
-    (iv) a relevant operator of an FMI as defined in section 46(4); or
-  (c) a chief executive of a Government department or an employee of a Government department, appointed under the Public Service Act 2020; or
-  (d) a member of the Board; or
-  (e) subject to a property order under the Protection of Personal and Property Rights Act 1988; or
-  (f) an undischarged bankrupt; or
-  (g) a person who is convicted of any offence punishable by imprisonment for a term of 2 years or more; or
-  (h) a person who is convicted of any offence punishable by imprisonment for a term of less than 2 years and is sentenced to imprisonment for that offence; or
-  (i) prohibited from being a director or promoter of, or being concerned or taking part in the management of, an incorporated or unincorporated body under the Companies Act 1993, or the Financial Markets Conduct Act 2013, or the Takeovers Act 1993.
-(3) A member must be treated as having resigned office if that person is prohibited from continuing to hold office under this clause.
+[Repealed]
 
 ### 12 Requirements before appointment
-(1) Before a person is appointed under clause 8, the person must—
-  (a) consent in writing to being a member; and
-  (b) certify that the person is not disqualified from being a member; and
-  (c) disclose to the Minister the nature and extent (including monetary value, if quantifiable) of all interests that the person has at that time, or is likely to have, in matters relating to the MPC.
-(2) The Board must notify the Minister of a failure to comply with subclause (1)﻿(c) as soon as practicable after becoming aware of the failure.
+[Repealed]
 
 ### 13 Term of appointment
-(1) An internal member must be appointed for a term of up to 5 years and may be reappointed for 1 further term as an internal member of up to 5 years.
-(2) An external member must be appointed for a term of up to 4 years and may be reappointed for 1 further term as an external member of up to 4 years.
-(3) This clause does not prevent a person who has served as a member in a particular capacity from being appointed, or holding office, as a member in a different capacity.ExamplesA, as an employee of the Bank, has been an internal member of the MPC for 2 terms.If A becomes the Deputy Governor, A may hold office as a member in that capacity. If A ceases to be an employee of the Bank, A may be appointed as an external member for 1 or 2 further terms.
+[Repealed]
 
 ### 14 Extension of term
-(1) The Minister may, by written notice to an internal or external member (with a copy to the Governor and the Board), extend the member’s term of appointment by up to 6 months.
-(2) If a member’s term is extended and the member is reappointed for a further term in the same capacity (for example, as an employee of the Bank), the length of the further term must be reduced by the length of the extension.
-(3) Subclause (2) does not prevent the further term from being extended under subclause (1).
-(4) The Minister must ensure that the following are notified in the Gazette as soon as practicable after an extension is made:
-  (a) the name of the member; and
-  (b) the period of the extension.
+[Repealed]
 
 ### 15 Criteria for appointment of internal or external members
-(1) The Minister may only appoint as an internal or external member a person who, in the Minister’s opinion, has the appropriate knowledge, skills, and experience to assist the MPC to perform its functions (for example, in economics, banking, or public policy).
-(2) A person must not be appointed on the basis that the person represents a particular industry sector.
+[Repealed]
 
 **When members cease to hold office**
 
 ### 16 Internal or external member ceases to hold office
-An internal or external member ceases to hold office if the member—
-  (a) dies; or
-  (b) resigns under clause 18 (see also clause 11(3)); or
-  (c) is removed from office under clause 19; or
-  (d) otherwise ceases to hold office under this Act.
+[Repealed]
 
 ### 17 Internal or external member may continue in office at end of term
-(1) An internal or external member continues in office despite the expiry of the member’s term of office until—
-  (a) the member is reappointed; or
-  (b) the member’s successor is appointed; or
-  (c) the Minister informs the member by written notice (with a copy to the Governor and the Board) that the member is not to be reappointed and no successor is to be appointed at that time.
-(2) The Minister must, before acting under subclause (1)﻿(c), be satisfied that there is a good reason for not appointing a successor at that time.
-(3) This clause is subject to clause 16.
+[Repealed]
 
 ### 18 Resignation of internal or external member
-(1) An internal or external member may resign from office by written notice to the Minister (with a copy to the Governor and the Board) signed by the member.
-(2) The resignation is effective on receipt by the Minister of the notice or at any later time specified in the notice.
+[Repealed]
 
 ### 19 Removal of internal or external member
-(1) The Governor-General may, by Order in Council, on the advice of the Minister, remove an internal or external member from office.
-(2) The Minister may only give the advice in relation to a member (M) if the Minister is satisfied that—
-  (a) the MPC has breached a collective duty (but see subclause (3)); or
-  (b) M has breached an individual duty; or
-  (c) M has been absent from 3 or more meetings within a term of appointment without the consent of the chairperson; or
-  (d) M has been guilty of misconduct (including a breach of the code of conduct); or
-  (e) M has obstructed, hindered, or prevented the MPC or the Board from discharging responsibilities under this Act.
-(3) Subclause (2)﻿(a) applies to M only if the Minister is satisfied that M has agreed or consented to 1 or more decisions or acts of the MPC that have materially contributed to the breach of the collective duty.
-(4) The Minister may tender advice under this clause whether or not the Board has made a recommendation under section 53(5) that the member be removed from office.
+[Repealed]
 
 ### 20 Other provisions relating to removal
-(1) The Minister may advise the removal of an internal or external member with as little formality and technicality, and as much expedition, as is permitted by—
-  (a) the principles of natural justice; and
-  (b) a proper consideration of the matter.
-(2) The Minister may have regard to the process undertaken by the Board under section 53(5) in considering what is required for the purposes of subclause (1)﻿(a) and (b).
+[Repealed]
 
 ### 21 No compensation for loss of office
-An internal or external member is not entitled to any compensation or other payment or benefit relating to the member ceasing, for any reason, to hold office as a member.
+[Repealed]
 
 ### 22 Effect of removal on other positions
-An employee or an officer of the Bank who is removed as a member under clause 19 is not, because of that removal, removed from their position as an employee or officer.
+[Repealed]
 
 **Treasury observer**
 
 ### 23 Treasury observer
-(1) The Secretary to the Treasury must ensure that the Secretary, a Deputy Secretary to the Treasury, or any other Treasury officer or employee is nominated to be a Treasury observer.
-(2) The Treasury observer has the same rights to attend and speak at a meeting of the MPC as a member but has no right to vote on any question before the MPC and is not subject to the duties that apply to members.
-(3) The nomination must be made by written notice to the Governor (with a copy to the officer or employee if it is a person other than the Secretary to the Treasury).
+[Repealed]
 
 ### 24 Conditions of performing role as Treasury observer
-(1) The Treasury observer must perform that role subject to any conditions that are agreed by the Secretary to the Treasury and the Governor.
-(2) Those conditions must include matters relating to confidentiality and avoiding conflicts of interest.
-(3) Those conditions remain in effect until the Secretary to the Treasury and the Governor agree to amend the conditions (regardless of changes to the person who holds any office or role).
+[Repealed]
 
 ### 25 Replacing Treasury observer
-The Secretary to the Treasury may, at any time and entirely at the Secretary’s discretion, replace the Treasury observer by giving written notice to the Governor.
+[Repealed]
 
 ### 26 Function of Treasury observer
-The function of the Treasury observer is to—
-  (a) support decision making by the MPC (for example, by sharing information on fiscal policy); and
-  (b) facilitate the co-ordination of monetary and fiscal policy; and
-  (c) carry out any other function agreed between the Governor and the Secretary to the Treasury.
+[Repealed]
 
 **Chairperson and deputy chairperson of MPC**
 
 ### 27 Chairperson
-The Governor is the chairperson of the MPC.
+[Repealed]
 
 ### 28 Duties of chairperson
-The chairperson must—
-  (a) preside at meetings of the MPC; and
-  (b) perform all other duties imposed on the chairperson by this Act or the charter.
+[Repealed]
 
 ### 29 Deputy Governor may act as chairperson
-In the case of the absence or incapacity of the Governor, section 47 applies in respect of the duties, responsibilities, functions, and powers of the chairperson of the MPC.
+[Repealed]
 
 **Accountability for duties**
 
 ### 30 Accountability of members to Minister
-(1) Members of the MPC must comply with—
-  (a) the MPC’s collective duties; and
-  (b) their individual duties as members.
-(2) Members are accountable to the Minister for performing their duties as members.
+[Repealed]
 
 **Collective duties**
 
 ### 31 Formulating monetary policy
-(1) The MPC must formulate monetary policy in a manner consistent with—
-  (a) the economic objectives set out in section 8 (or in an Order in Council in force under section 12); and
-  (b) the remit.
-(2) The MPC must perform or exercise its functions, powers, or duties in a manner that is consistent with this Act.
+[Repealed]
 
 ### 32 Compliance with charter
-The MPC must ensure that it complies with the charter.
+[Repealed]
 
 **Individual duties of members**
 
 ### 33 Member must act consistently with remit, charter, code, and Act
-A member must act in a manner that is consistent with—
-  (a) the remit; and
-  (b) the charter; and
-  (c) the code of conduct; and
-  (d) this Act.
+[Repealed]
 
 ### 34 Member must act with honesty and integrity
-A member must, when acting as a member, act with honesty and integrity.
+[Repealed]
 
 ### 35 Member must act in good faith
-A member, when acting as a member, must act in good faith and without regard to the member’s own interests.
+[Repealed]
 
 ### 36 Member must act with reasonable care, diligence, and skill
-A member must, when acting as a member, exercise the care, diligence, and skill that a reasonable member would exercise in the same circumstances, taking into account (without limitation)—
-  (a) the nature of the functions of the MPC; and
-  (b) the nature of the action; and
-  (c) the position of the member and the nature of the responsibilities undertaken by the member.
+[Repealed]
 
 ### 37 Member must disclose if member is likely to become disqualified
-If an internal or external member becomes aware that the member is likely to become disqualified under clause 11, the member must disclose that fact to the Board and the Minister as soon as practicable.
+[Repealed]
 
 ### 38 Use of information by external member
-An external member who has information in the member’s capacity as a member, being information that would not otherwise be available to the member, must not disclose that information to any person, or make use of or act on the information, except—
-  (a) for the purposes of the performance or exercise of the functions, powers, or duties of the MPC; or
-  (b) as permitted or required by the charter; or
-  (c) to comply with the provisions of the code of conduct that relate to the disclosure of interests; or
-  (d) as otherwise required by law.
+[Repealed]
 
 ### 39 Other individual duties of chairperson
-The duties imposed under this schedule on the chairperson are individual duties of the Governor (and of the Deputy Governor if the Deputy is acting under clause 29).
+[Repealed]
 
 **Meeting procedures**
 
 ### 40 Regular meetings
-The MPC must hold a meeting at least 4 times a year.
+[Repealed]
 
 ### 41 Methods of holding meetings
-(1) A meeting of the MPC may be held—
-  (a) by a quorum of the members, being assembled together at the time and place appointed for the meeting; or
-  (b) by means of audio, audio and visual, or electronic communication provided that—
-    (i) all of the members who wish to participate in the meeting have access to the technology needed to participate in the meeting; and
-    (ii) a quorum of members can simultaneously communicate with each other throughout the meeting.
-(2) This clause is subject to clause 43.
+[Repealed]
 
 ### 42 Quorum
-(1) A quorum for a meeting of the MPC is the number that is a majority of the members.
-(2) However, the quorum must include—
-  (a) the Governor or the Deputy Governor; and
-  (b) 1 internal member (unless both the Governor and the Deputy Governor are present); and
-  (c) at least 1 external member.
-(3) No business may be transacted at a meeting of the MPC if a quorum is not present.
-(4) This clause is subject to clause 43.
+[Repealed]
 
 ### 43 Emergency procedures
-(1) Despite the lack of a quorum, the Governor and other members of the MPC that are available (if any) may make any decision on behalf of the MPC or perform or exercise any other function, power, or duty of the MPC if the Governor is satisfied that—
-  (a) exceptional circumstances exist; and
-  (b) an urgent action is necessary to prevent, correct, or mitigate harm to the economy; and
-  (c) despite the use of all reasonable means available, other members of the MPC have not been able to be contacted on the matter or are unable to fully participate in dealing with the matter; and
-  (d) action on the matter is required before a quorum will be able to be obtained.
-(2) If a decision is made or other thing is done under this clause,—
-  (a) the Governor must make a record of—
-    (i) the Governor’s reasons for being satisfied of the matters referred to in subclause (1); and
-    (ii) the decision or thing; and
-  (b) the Governor must, as soon as practicable, provide a copy of that record to—
-    (i) the Minister; and
-    (ii) the Board; and
-    (iii) the members of the MPC that were not available when the decision was made or the other thing was done.
+[Repealed]
 
 ### 44 Voting at meetings
-(1) Each member has 1 vote.
-(2) In addition to the chairperson’s general vote, the chairperson at a meeting has, in the case of an equality of votes, a casting vote.
-(3) A resolution of the MPC is passed if it is agreed to by all members present without dissent or if a majority of the votes cast on it are in favour of it.
-(4) A member present at a meeting of the MPC is presumed to have agreed to, and to have voted in favour of, a resolution of the MPC unless the member expressly dissents from or votes against the resolution at the meeting.
-(5) Subclause (4) is subject to the charter (which may vary or disapply the matter referred to in that subclause or provide for an alternative matter).
+[Repealed]
 
 ### 45 Unanimous written resolutions
-(1) A resolution signed or assented to in writing (whether sent by delivery or electronic communication) by all members who are entitled to vote on the matter is as valid and effectual as if it had been passed at a meeting of the MPC duly called and constituted.
-(2) The resolution may consist of several documents containing the same resolution, each signed or assented to in writing by 1 or more members.
+[Repealed]
 
 ### 46 Meeting record
-(1) The Bank must publish a summary record of each meeting of the MPC on an Internet site maintained by, or on behalf of, the Bank.
-(2) The summary record must include the information required by the charter.
+[Repealed]
 
 **Procedure generally**
 
 ### 47 Procedure generally
-The MPC may regulate its own procedure except as provided in this Act and in the charter and code of conduct.
+[Repealed]
 
 **Remuneration of external members**
 
 ### 48 Remuneration of external members
-(1) An external member is entitled to be—
-  (a) paid remuneration by the Bank for services as an external member at a rate and of a kind determined by the Minister in accordance with the fees framework; and
-  (b) reimbursed by the Bank for actual and reasonable travelling and other expenses incurred in carrying out the member’s duties as a member in accordance with the fees framework.
-(2) In subclause (1), fees framework means the framework determined by the Government from time to time for the classification and remuneration of statutory and other bodies in which the Crown has an interest.
+[Repealed]
 
 ## Schedule 3 — General provisions relating to material incorporated by reference
 
