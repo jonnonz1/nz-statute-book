@@ -1,5 +1,5 @@
 # Ngā Mana Whenua o Tāmaki Makaurau Collective Redress Act 2014
-_Consolidation as at 2022-04-12_
+_Consolidation as at 2022-07-01_
 
 ## Preamble
 (1) The iwi and hapū constituting the collective known as Ngā Mana Whenua o Tāmaki Makaurau have claims to Tāmaki Makaurau based on historical breaches of the Treaty of Waitangi (Te Tiriti o Waitangi) by the Crown:
@@ -1608,14 +1608,9 @@ An RFR landowner may dispose of RFR land in accordance with—
 ### 136 Disposals for State housing purposes
 An RFR landowner may dispose of RFR land that is held for State housing purposes if the Minister of Housing has given notice to the Limited Partnership that, in the Minister's opinion, the disposal is to achieve, or to assist in achieving, the Crown's social objectives in relation to housing or services related to housing.
 
-### 137 Disposals by district health boards
-(1) A district health board may dispose of RFR land if the Minister of Health has given notice to the Limited Partnership that, in the Minister's opinion, the disposal is to achieve, or to assist in achieving, the district health board's objectives.
-(2) In this section, district health board—
-  (a) means—
-    (i) Auckland DHB; and
-    (ii) Counties Manukau DHB; and
-    (iii) Waitemata DHB; and
-  (b) includes a subsidiary of a district health board specified in paragraph (a).
+### 137 Disposals by Health New Zealand
+(1) Health New Zealand may dispose of RFR land if the Minister of Health has given notice to the Limited Partnership that, in the Minister's opinion, the disposal is to achieve, or to assist in achieving, Health New Zealand's objectives.
+(2)
 
 ### 138 Disposals for charitable purposes
 An RFR landowner may dispose of RFR land as a gift for charitable purposes.
