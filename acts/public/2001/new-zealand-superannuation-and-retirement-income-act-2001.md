@@ -1,5 +1,5 @@
 # New Zealand Superannuation and Retirement Income Act 2001
-_Consolidation as at 2022-04-01_
+_Consolidation as at 2022-07-01_
 
 ### 1 Title
 This Act is the New Zealand Superannuation and Retirement Income Act 2001.
@@ -238,7 +238,7 @@ The rate of New Zealand superannuation payable to a person is the appropriate ra
 The appropriate rate of New Zealand superannuation to which a person who is living alone is entitled under section 17(2)﻿(a) or (b) is the single living alone rate.
 
 ### 19 Hospital rates of New Zealand superannuation
-(1) For the purposes of this section, hospital means a hospital operated by a District Health Board within the meaning of the New Zealand Public Health and Disability Act 2000; and includes a psychiatric security institution within the meaning of the Mental Health (Compulsory Assessment and Treatment) Act 1992.
+(1) For the purposes of this section, hospital means a hospital operated by Health New Zealand established by section 11 of the Pae Ora (Healthy Futures) Act 2022; and includes a psychiatric security institution within the meaning of the Mental Health (Compulsory Assessment and Treatment) Act 1992.
 (2) This section applies to a person who is married or in a civil union or in a de facto relationship and who has no dependent children, and a single person who receives New Zealand superannuation, or who becomes entitled to receive New Zealand superannuation.
 (3) The rate of New Zealand superannuation payable to a person who is a patient in a hospital for a period of 13 weeks or less is not affected.
 (4) The rate of New Zealand superannuation payable to a person who is a patient in a hospital for more than 13 weeks is, on and after the commencement of the 14th week of hospitalisation, the rate specified in clause 3 of Schedule 1.
