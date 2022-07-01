@@ -1,5 +1,5 @@
 # Tax Administration Act 1994
-_Consolidation as at 2022-05-25_
+_Consolidation as at 2022-07-01_
 
 > An Act to reorganise and consolidate the law relating to the Inland Revenue Department and the administration of income tax matters
 
@@ -2581,7 +2581,7 @@ When this section applies
   (a) a person who is a custodial institution receives a payment of investment income; and
   (b) the institution pays on or transfers the amount received to an end investor.
 Specified operators of designated settlement systems
-(2) Despite subsection (1) and section 25E(1), the rules in this subpart do not apply to a custodial institution that is the specified operator of a designated settlement system under the Reserve Bank of New Zealand Act 1989. The exclusion extends to a nominee or agent of the specified operator.
+(2) Despite subsection (1) and section 25E(1), the rules in this subpart do not apply to a custodial institution that is the specified operator of a designated settlement system under the Banking (Prudential Supervision) Act 1989. The exclusion extends to a nominee or agent of the specified operator.
 Providing investment income information
 (3) The custodial institution must provide investment income information relating to the payment of investment income to the Commissioner under section 25E(1).
 Agreements to transfer reporting obligations: outsourcing obligations
@@ -2595,7 +2595,7 @@ Limited information
 Meaning of custodial institution
 (7) For the purposes of this subpart, a custodial institution means an entity—
   (a) that holds financial assets or financial instruments as a bare trustee on account for another person; and
-  (b) whose activities are supervised or regulated under the Financial Markets Conduct Act 2013, the Financial Markets Authority Act 2011, the Financial Advisers Act 2008, or the Reserve Bank of New Zealand Act 1989, or are supervised or regulated under corresponding legislation in another jurisdiction.
+  (b) whose activities are supervised or regulated under the Financial Markets Conduct Act 2013, the Financial Markets Authority Act 2011, the Financial Advisers Act 2008, or the Banking (Prudential Supervision) Act 1989, or are supervised or regulated under corresponding legislation in another jurisdiction.
 Meaning of end investor
 (8) For the purposes of this subpart, an end investor —
   (a) means an investor to whom a payment of investment income is made who is—
@@ -4187,7 +4187,7 @@ A notice of entitlement issued under section 80KD—
     (ii) opens a bank account (if they do not have one), and gives the Commissioner details of that account; and
   (b) the existing account or, as applicable, the opened account is an account held as described in subsection (2).
 (2) The account must be held with—
-  (a) a registered bank within the meaning of that term in section 2 of the Reserve Bank of New Zealand Act 1989; or
+  (a) a registered bank within the meaning of that term in section 2 of the Banking (Prudential Supervision) Act 1989; or
   (b) a building society, in respect of any deposits with the building society; or
   (c) the Public Service Investment Society Limited; or
   (d) a credit union within the meaning of that term in section 2 of the Friendly Societies and Credit Unions Act 1982.
