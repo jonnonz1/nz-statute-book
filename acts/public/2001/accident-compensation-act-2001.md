@@ -1,5 +1,5 @@
 # Accident Compensation Act 2001
-_Consolidation as at 2021-10-28_
+_Consolidation as at 2022-07-01_
 
 ### 1 Title
 This Act is the Accident Compensation Act 2001.
@@ -71,7 +71,6 @@ The transitional, savings, and related provisions set out in Schedule 1AA have e
   - **counsellor** means a counsellor of a type described in regulations made under this Act
   - **cover** has the meaning set out in section 8
   - **Crown entity subsidiary** has, subject to section 266, the same meaning as in the second column of section 7(1)﻿(c) of the Crown Entities Act 2004
-  - **Crown funding agreement** has the same meaning as in section 10 of the New Zealand Public Health and Disability Act 2000
   - **deceased claimant** means a claimant who dies and whose cover under section 20 or section 22 is for death or for physical injuries from which he or she dies
   - **decision** or includes all or any of the following decisions by the Corporation:
     (a) a decision whether or not a claimant has cover:
@@ -81,7 +80,6 @@ The transitional, savings, and related provisions set out in Schedule 1AA have e
     (e) a decision about the level of any entitlements to be provided:
     (f) a decision relating to the levy payable by a particular levy payer:
     (g) a decision made under the Code about a claimant's complaint
-  - **district health board or other provider** means a DHB or provider, as defined in section 6 of the New Zealand Public Health and Disability Act 2000
   - **earner** —
     (a) means a natural person who engages in employment, whether or not as an employee; and
     (b) includes a person to whom clause 43, 44, or 44A of Schedule 1 applies
@@ -122,8 +120,9 @@ The transitional, savings, and related provisions set out in Schedule 1AA have e
     (a) an average of at least 30 hours per week; or
     (b) a lesser number of hours, if the lesser number of hours is defined as full-time employment in the employment agreement under which the earner was employed, because of the particular nature of that employment
   - **full-time study** means a course of study recognised as full-time by the place of education that administers it
-  - **government agency** , for the purposes of Part 8 and section 324(4)﻿(b)﻿(ii), includes a government department and a Crown entity
+  - **government agency** , for the purposes of Part 8 and section 324(4)﻿(b)﻿(ii), includes a government department, a Crown entity, and the Māori Health Authority
   - **health and safety regulator** has the same meaning as regulator in section 16 of the Health and Safety at Work Act 2015
+  - **Health New Zealand, the Māori Health Authority, or other provider** means Health New Zealand, the Māori Health Authority, or provider as each of those terms are defined in section 4 of the Pae Ora (Healthy Futures) Act 2022
   - **health practitioner** —
     (a) means a person who is, or is deemed to be, registered with an authority established or continued by section 114 of the Health Practitioners Competence Assurance Act 2003 as a practitioner of a particular health profession; but
     (b) in relation to that health profession and to any purpose stated in a relevant notice under section 322A, does not include a person who, for that purpose, is declared not to be a health practitioner
@@ -136,6 +135,7 @@ The transitional, savings, and related provisions set out in Schedule 1AA have e
   - **individual rehabilitation plan** —
     (a) means a plan under section 75 that provides for a claimant to receive rehabilitation that will assist in accordance with section 70 in restoring the claimant's health, independence, and participation to the maximum practicable extent; and
     (b) includes an individual rehabilitation programme or individual rehabilitation plan entered into under a former Act
+  - **Māori Health Authority** means the Māori Health Authority established by section 17 of the Pae Ora (Healthy Futures) Act 2022
   - **medical practitioner** means a health practitioner who—
     (a) is, or is deemed to be, registered with the Medical Council of New Zealand continued by section 114(1)﻿(a) of the Health Practitioners Competence Assurance Act 2003 as a practitioner of the profession of medicine; and
     (b) holds a current practising certificate
@@ -1039,7 +1039,7 @@ A claimant who has suffered personal injury for which he or she has cover—
 (3) A treatment provider who is not qualified as required by subsection (1) must refer the claimant to a treatment provider who is so qualified, and the visit to that treatment provider, on referral, is also regarded as acute treatment.
 (4) For the purposes of subsection (2),—
   - **acute admission** means an admission within 7 days of the making of the decision to admit unless otherwise specified in regulations
-  - **publicly funded provider** means a provider that, for the time being, is funded by a district health board or the Minister of Health to provide public health acute services.
+  - **publicly funded provider** means a provider that, for the time being, is funded by Health New Zealand, the Māori Health Authority, or the Minister of Health to provide public health acute services.
 
 **Individual rehabilitation plan**
 
@@ -3143,12 +3143,12 @@ The provisions set out in Schedule 5 apply in relation to the Corporation (but, 
   (b) an approved information sharing agreement entered into under subpart 1 of Part 7 of the Privacy Act 2020.
 
 ### 282 Disclosure of information by Corporation for health purposes
-(1) The purpose of this section is to facilitate the disclosure of information between the Corporation and the Ministry of Health and district health boards for the purposes specified in subsection (2).
+(1) The purpose of this section is to facilitate the disclosure of information between the Corporation and the Ministry of Health and Health New Zealand and the Māori Health Authority for the purposes specified in subsection (2).
 (2) The purposes are—
   (a) to facilitate the calculation of the funding required for the provision of public health acute services; and
   (b) to facilitate the auditing and monitoring of the provision of treatment, under this Act and otherwise, by registered health professionals.
 (3) Disclosure of information under this section must not affect any entitlements provided to any claimant.
-(4) The Director-General of Health and the chief executive of a district health board may request information from the Corporation under this section.
+(4) The Director-General of Health and the chief executive of Health New Zealand or the Māori Health Authority may request information from the Corporation under this section.
 (5) The persons about whom they may request information under this section are persons who have received, are receiving, or have applied to receive any treatment to which those persons are entitled.
 (6) The information they may request is—
   (a) such biographical information as is sufficient to identify those persons, including their addresses; and
@@ -3156,7 +3156,7 @@ The provisions set out in Schedule 5 apply in relation to the Corporation (but, 
 (7) A request under subsection (4) must be made in accordance with arrangements made between the Corporation and the Director-General, or the Corporation and each chief executive.
 (8) The Corporation may supply the information requested to, as appropriate,—
   (a) an officer or employee or agent of the Ministry authorised by the Director-General to receive it:
-  (b) an officer or employee or agent of the district health board authorised by the chief executive to receive it.
+  (b) an officer, employee or agent of Health New Zealand or the Māori Health Authority and who is authorised by that entity's chief executive to receive it.
 (9) The information may be supplied in such form as is determined by agreement between the Corporation and the Director-General, or the Corporation and each chief executive.
 
 ### 283 Disclosure of information by Corporation for injury prevention purposes
@@ -3326,7 +3326,7 @@ In exercising any functions or powers under this Act or the Crown Entities Act 2
 (1) The Minister must enter into an annual service agreement in respect of the financial year commencing on 1 July with the Minister of Health requiring the Crown to purchase specified public health acute services, and such other services as are from time to time agreed by the Ministers, on behalf of the Corporation.
 (2) The service agreement must—
   (a) provide for the payment of money to the Crown in return for the Minister of Health—
-    (i) funding the provision of public health acute services, and any other services (including pharmaceuticals and laboratory services) agreed by district health boards or other providers, under Crown funding agreements on behalf of the Corporation; and
+    (i) funding the provision of public health acute services, and any other services (including pharmaceuticals and laboratory services) agreed by Health New Zealand, the Māori Health Authority, or other providers, under Health New Zealand or the Māori Health Authority on behalf of the Corporation; and
     (ii) arranging the funding of that provision; and
   (b) provide how the Minister of Health's implementation of the agreement is to be monitored; and
   (c) contain the terms and conditions that the Minister of Health and the Minister agree on; and
@@ -3338,16 +3338,16 @@ In exercising any functions or powers under this Act or the Crown Entities Act 2
 (5) Subsection (4) is for the avoidance of doubt.
 
 ### 302 Minister of Health's responsibilities for purchase of public health acute services and other health services
-(1) The Minister of Health must enter into a Crown funding agreement with district health boards or other providers in order to—
+(1) The Minister must enter into a funding agreement with Health New Zealand or other providers to—
   (a) give effect to the Minister of Health's obligations under the service agreement referred to in section 301; and
   (b) require the relevant providers to supply the Corporation with such information as is necessary to enable the Corporation to monitor the delivery of public health acute or other services (including pharmaceuticals and laboratory services), as agreed in the service agreement referred to in section 301.
-(2) The Minister of Health must ensure that every Crown funding agreement contains terms and conditions that—
+(2) The Minister of Health must ensure that every funding agreement described in subsection (1) contains terms and conditions that—
   (a) conform with the service agreement referred to in section 301; and
   (b) provide for the Minister of Health to maintain and monitor performance standards, including ethical standards, specified in the agreement; and
   (c) provide for the Minister of Health to provide the Corporation with all information contained in the service agreement that is relevant to the services the Corporation funds.
 
 ### 303 Restriction on purchase by Corporation of public health acute services
-(1) The Corporation must not make any kind of agreement with a district health board or other provider about—
+(1) The Corporation must not make any kind of agreement with Health New Zealand, the Māori Health Authority or other provider about—
   (a) any public health acute services that the Corporation is liable to provide under this Act, whether for the payment for or provision of those services; or
   (b) any other matter concerning those services.
 (2) This section applies to avoid doubt.
@@ -3358,7 +3358,7 @@ The Minister of Health acts on behalf of the Crown under sections 301 and 302.
 **Joint purchasing arrangements**
 
 ### 305 Joint purchasing arrangements for emergency transport services
-(1) The Corporation may enter into a contract, arrangement, or understanding with the Ministry of Health or a district health board to jointly purchase emergency transport services for the purposes of clause 3 of Schedule 1.
+(1) The Corporation may enter into a contract, arrangement, or understanding with the Ministry of Health or Health New Zealand to jointly purchase emergency transport services for the purposes of clause 3 of Schedule 1.
 (2) Nothing in Part 2 of the Commerce Act 1986, other than sections 36 and 36A, applies to—
   (a) a contract, arrangement, or understanding under this section; or
   (b) any act, matter, or thing done by any person for the purposes of entering into such a contract, arrangement, or understanding; or
@@ -4626,7 +4626,7 @@ In clauses 13 to 23,—
   (a) maintaining, repairing, or replacing any aid or appliance; or
   (b) replacing any consumable items used in association with any aid or appliance,—
 (6) The Corporation may provide an aid or appliance by way of approving its hire by the claimant for a term it approves, if that hire is a cost effective alternative to the purchase of the aid or appliance.
-(7) If the claimant pays for any aid or appliance approved by the Corporation, the Corporation is liable to reimburse the claimant at the same rate that the Corporation normally purchases the aid or appliance, but may deduct any subsidy payable by a funder under the Health and Disability Services Act 1993 for that aid or appliance.
+(7) If the claimant pays for any aid or appliance approved by the Corporation, the Corporation is liable to reimburse the claimant at the same rate that the Corporation normally purchases the aid or appliance, but may deduct any subsidy payable by a funder under the Pae Ora (Healthy Futures) Act 2022 for that aid or appliance.
 
 ### 14 Attendant care
 In deciding whether to provide or contribute to the cost of attendant care, the Corporation must have regard to—
