@@ -1,5 +1,5 @@
 # KiwiSaver Act 2006
-_Consolidation as at 2022-04-01_
+_Consolidation as at 2022-07-01_
 
 ### 1 Title
 This Act is the KiwiSaver Act 2006.
@@ -2159,7 +2159,7 @@ Sections 217 to 219 apply to the giving or supplying of a product disclosure sta
 (1) A refund by the Commissioner of contribution must be made by direct credit to a bank account nominated by the person entitled to the refund.
 (2) When a person claims the refund, the person must provide to the Commissioner the particulars of a bank account in New Zealand to which a direct credit of the amount of the refund is to be made.
 (3) However, if the Commissioner is satisfied that the application of subsections (1) and (2) would result in undue hardship to a person, or is not practicable, the refund of contribution may be made by other means acceptable to the Commissioner.
-(4) In this section, bank account means an account with a bank that is a registered bank within the meaning of the Reserve Bank of New Zealand Act 1989 or a private savings bank or a credit union or a building society or the PSIS Limited.
+(4) In this section, bank account means an account with a bank that is a registered bank within the meaning of the Banking (Prudential Supervision) Act 1989 or a private savings bank or a credit union or a building society or the PSIS Limited.
 
 ### 221B Commissioner may make certain assumptions
 The Commissioner is entitled, in the absence of information to the contrary, to assume the following:
