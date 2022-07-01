@@ -1,5 +1,5 @@
 # State-Owned Enterprises Act 1986
-_Consolidation as at 2021-10-28_
+_Consolidation as at 2022-07-01_
 
 > An Act to promote improved performance in respect of Government trading activities and, to this end, to—aspecify principles governing the operation of State enterprises; andbauthorise the formation of companies to carry on certain Government activities and control the ownership thereof; andcestablish requirements about the accountability of State enterprises, and the responsibility of Ministers
 
@@ -363,7 +363,7 @@ The submission in respect of any land or interest in land of a claim under secti
 (2) Nothing in this Act prevents the exercise in relation to a State enterprise named in Schedule 2 of a power conferred by section 23 or section 24 or section 28 at or about the same time as the shareholding Ministers for the State enterprise transfer or dispose of shares in the State enterprise held by those Ministers.
 
 ### 30 Application of Companies Acts to new State enterprises
-(1) Notwithstanding anything in the Companies Act 1993, the Reserve Bank of New Zealand Act 1989, or any other enactment or rule of law, a company in which all the shares are applied for by Ministers may be registered under the Companies Act 1993 with a name specified in Schedule 2 of this Act (not being a name specified in that schedule before the commencement of the Companies Act 1993); and sections 20, 21, 22, 23(1) and (2), and 24 of that Act shall not apply to any such company.
+(1) Notwithstanding anything in the Companies Act 1993, the Banking (Prudential Supervision) Act 1989, or any other enactment or rule of law, a company in which all the shares are applied for by Ministers may be registered under the Companies Act 1993 with a name specified in Schedule 2 of this Act (not being a name specified in that schedule before the commencement of the Companies Act 1993); and sections 20, 21, 22, 23(1) and (2), and 24 of that Act shall not apply to any such company.
 (2)
 (3)
 
