@@ -1,5 +1,5 @@
 # Ombudsmen Act 1975
-_Consolidation as at 2022-03-24_
+_Consolidation as at 2022-07-01_
 
 > An Act to consolidate and amend the Parliamentary Commissioner (Ombudsman) Act 1962
 
@@ -20,8 +20,9 @@ _Consolidation as at 2022-03-24_
     (b) an organisation that was a State enterprise within the meaning of section 2 of the State-Owned Enterprises Act 1986 but which continues to be named in Part 2 of Schedule 1 of this Act.
 (2) For the purposes of Part 2 of Schedule 1, a company registered under the Companies Act 1993 is a related company of—
   (a) a Crown Research Institute if the Crown Research Institute, whether alone or together with any other Crown Research Institute, directly or indirectly owns, or controls the exercise of all the voting rights attaching to, the issued shares of the company (other than shares that carry no right to participate beyond a specified amount in a distribution of either profits or capital):
-  (b) a district health board if the district health board, whether alone or together with any other district health board, directly or indirectly owns, or controls the exercise of all the voting rights attaching to, the issued shares of the company (other than shares that carry no right to participate beyond a specified amount in a distribution of either profits or capital):
-  (c) a State enterprise if the State enterprise, whether alone or together with any other State enterprise, directly or indirectly owns, or controls the exercise of all the voting rights attaching to, the issued shares of the company (other than shares that carry no right to participate beyond a specified amount in a distribution of either profits or capital).
+  (b) Health New Zealand if Health New Zealand, directly or indirectly owns, or controls the exercise of all the voting rights attaching to, the issued shares of the company (other than shares that carry no right to participate beyond a specified amount in a distribution of either profits or capital):
+  (c) a State enterprise if the State enterprise, whether alone or together with any other State enterprise, directly or indirectly owns, or controls the exercise of all the voting rights attaching to, the issued shares of the company (other than shares that carry no right to participate beyond a specified amount in a distribution of either profits or capital):
+  (d) the Māori Health Authority if the Māori Health Authority directly or indirectly owns, or controls the exercise of all the voting rights attaching to, the issued shares of the company (other than shares that carry no right to participate beyond a specified amount in a distribution of either profits or capital).
 (3)
 (4)
 (5)
@@ -110,8 +111,8 @@ For the purpose of providing superannuation or retiring allowances for any Ombud
 Nothing in section 13 shall permit an Ombudsman to investigate any decision or recommendation made, or any act done or omitted, in or by any committee or subcommittee of any organisation named or specified in Part 3 of Schedule 1 (other than an education board or a hospital board), or by any officer, employee, or member of any such organisation to which this subsection applies in his capacity as such officer, employee, or member, unless the decision or recommendation was made, or the act or omission occurred or continued within 6 months before Part 3 of Schedule 1 came into force.
 
 ### 15 House of Representatives may make rules for guidance of Ombudsmen
-(1) The House of Representatives may from time to time, if it thinks fit, make general rules for the guidance of the Ombudsmen in the exercise of their functions under this Act or under the Official Information Act 1982 or under the Local Government Official Information and Meetings Act 1987 or under the Protected Disclosures Act 2000, and may at any time in like manner revoke or vary any such rules.
-(2) Any such rules may authorise an Ombudsman from time to time, in the public interest or in the interests of any person or public service agency or organisation, to publish reports relating generally to the exercise of his functions under this Act or under the Official Information Act 1982 or under the Local Government Official Information and Meetings Act 1987 or under the Protected Disclosures Act 2000 or to any particular case or cases investigated by him, whether or not the matters to be dealt with in any such report have been the subject of a report to the House of Representatives under this Act.
+(1) The House of Representatives may from time to time, if it thinks fit, make general rules for the guidance of the Ombudsmen in the exercise of their functions under this Act or under the Official Information Act 1982 or under the Local Government Official Information and Meetings Act 1987 or under the Protected Disclosures (Protection of Whistleblowers) Act 2022, and may at any time in like manner revoke or vary any such rules.
+(2) Any such rules may authorise an Ombudsman from time to time, in the public interest or in the interests of any person or public service agency or organisation, to publish reports relating generally to the exercise of his functions under this Act or under the Official Information Act 1982 or under the Local Government Official Information and Meetings Act 1987 or under the Protected Disclosures (Protection of Whistleblowers) Act 2022 or to any particular case or cases investigated by him, whether or not the matters to be dealt with in any such report have been the subject of a report to the House of Representatives under this Act.
 (3) Rules under this section—
   (a) are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements); but
   (b) come into force in accordance with the rules, even if they are not yet published.
@@ -255,14 +256,14 @@ No proceeding of an Ombudsman shall be held bad for want of form, and, except on
 
 ### 26 Proceedings privileged
 (1) Subject to subsection (2),—
-  (a) no proceedings, civil or criminal, shall lie against any Ombudsman, or against any person holding any office or appointment under the Chief Ombudsman, for anything he may do or report or say in the course of the exercise or intended exercise of his functions under this Act or the Official Information Act 1982 or the Local Government Official Information and Meetings Act 1987 or the Protected Disclosures Act 2000, unless it is shown that he acted in bad faith:
-  (b) no Ombudsman, and no such person as aforesaid, shall be called to give evidence in any court, or in any proceedings of a judicial nature, in respect of anything coming to his knowledge in the exercise of his functions under this Act or the Official Information Act 1982 or the Local Government Official Information and Meetings Act 1987 or the Protected Disclosures Act 2000.
+  (a) no proceedings, civil or criminal, shall lie against any Ombudsman, or against any person holding any office or appointment under the Chief Ombudsman, for anything he may do or report or say in the course of the exercise or intended exercise of his functions under this Act or the Official Information Act 1982 or the Local Government Official Information and Meetings Act 1987 or the Protected Disclosures (Protection of Whistleblowers) Act 2022, unless it is shown that he acted in bad faith:
+  (b) no Ombudsman, and no such person as aforesaid, shall be called to give evidence in any court, or in any proceedings of a judicial nature, in respect of anything coming to his knowledge in the exercise of his functions under this Act or the Official Information Act 1982 or the Local Government Official Information and Meetings Act 1987 or the Protected Disclosures (Protection of Whistleblowers) Act 2022.
 (2) Nothing in subsection (1) applies in respect of proceedings for—
   (a) an offence against section 78, 78AA(1), 78A(1), 105, 105A, or 105B of the Crimes Act 1961; or
   (b) the offence of conspiring to commit an offence against section 78, 78AA(1), 78A(1), 105, 105A, or 105B of the Crimes Act 1961; or
   (c) the offence of attempting to commit an offence against section 78, 78AA(1), 78A(1), 105, 105A, or 105B of the Crimes Act 1961.
-(3) Anything said or any information supplied or any document, paper, or thing produced by any person in the course of any inquiry by or proceedings before an Ombudsman under this Act or the Official Information Act 1982 or the Local Government Official Information and Meetings Act 1987 or the Protected Disclosures Act 2000 shall be privileged in the same manner as if the inquiry or proceedings were proceedings in a court.
-(4) For the purposes of clause 3 of Part 2 of Schedule 1 of the Defamation Act 1992, any report made by an Ombudsman under this Act, or under the Official Information Act 1982, or under the Local Government Official Information and Meetings Act 1987, or under the Protected Disclosures Act 2000, shall be deemed to be an official report made by a person holding an inquiry under the authority of the Parliament of New Zealand.
+(3) Anything said or any information supplied or any document, paper, or thing produced by any person in the course of any inquiry by or proceedings before an Ombudsman under this Act or the Official Information Act 1982 or the Local Government Official Information and Meetings Act 1987 or the Protected Disclosures (Protection of Whistleblowers) Act 2022 shall be privileged in the same manner as if the inquiry or proceedings were proceedings in a court.
+(4) For the purposes of clause 3 of Part 2 of Schedule 1 of the Defamation Act 1992, any report made by an Ombudsman under this Act, or under the Official Information Act 1982, or under the Local Government Official Information and Meetings Act 1987, or under the Protected Disclosures (Protection of Whistleblowers) Act 2022, shall be deemed to be an official report made by a person holding an inquiry under the authority of the Parliament of New Zealand.
 
 **Miscellaneous provisions**
 
@@ -291,7 +292,7 @@ No proceeding of an Ombudsman shall be held bad for want of form, and, except on
 (4) In this section, Minister means the Minister of the Crown who, under the authority of any warrant or with the authority of the Prime Minister, is for the time being responsible for the administration of this Act.
 
 ### 29 Annual report
-Without limiting the right of an Ombudsman to report at any other time, but subject to the provisions of subsection (7) of section 22 and to any rules for the guidance of the Ombudsmen made by the House of Representatives and for the time being in force, the Ombudsmen shall in each year make a report to the House of Representatives on the exercise of their functions under this Act and the Official Information Act 1982 and the Local Government Official Information and Meetings Act 1987 and the Protected Disclosures Act 2000.
+Without limiting the right of an Ombudsman to report at any other time, but subject to the provisions of subsection (7) of section 22 and to any rules for the guidance of the Ombudsmen made by the House of Representatives and for the time being in force, the Ombudsmen shall in each year make a report to the House of Representatives on the exercise of their functions under this Act and the Official Information Act 1982 and the Local Government Official Information and Meetings Act 1987 and the Protected Disclosures (Protection of Whistleblowers) Act 2022.
 
 ### 30 Offences
 Every person commits an offence against this Act and is liable on conviction to a fine not exceeding $200 who—
@@ -356,8 +357,7 @@ Despite the enactment of the Amendment Act, the entity known as Insurance & Fina
 | Departmental agency | Host department |
 | --- | --- |
 | Cancer Control Agency | Ministry of Health |
-| Health New Zealand | Ministry of Health |
-| Māori Health Authority | Ministry of Health |
+| Ministry for Disabled People | Ministry of Social Development |
 | Ministry for Ethnic Communities | Department of Internal Affairs |
 | National Emergency Management Agency | Department of the Prime Minister and Cabinet |
 | Office for Māori Crown Relations—Te Arawhiti | Ministry of Justice |
