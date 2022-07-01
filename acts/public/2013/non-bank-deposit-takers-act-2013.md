@@ -1,5 +1,5 @@
 # Non-bank Deposit Takers Act 2013
-_Consolidation as at 2021-10-28_
+_Consolidation as at 2022-07-01_
 
 ### 1 Title
 This Act is the Non-bank Deposit Takers Act 2013.
@@ -27,7 +27,7 @@ The purpose of this Act is—
     (b) a person that has a direct or indirect qualifying interest in 20% or more of the voting securities issued by the NBDT; or
     (c) a person whose management is controlled, directly or indirectly, by the NBDT; or
     (d) a person in whose voting securities the NBDT has a direct or indirect qualifying interest of 20% or more
-  - **Bank** means the Reserve Bank of New Zealand constituted under the Reserve Bank of New Zealand Act 1989
+  - **Bank** means the Reserve Bank of New Zealand continued under the Reserve Bank of New Zealand Act 2021
   - **borrowing group** , in relation to an NBDT, means the NBDT and all its guaranteeing subsidiaries
   - **capital ratio** , in relation to an NBDT or borrowing group, means the level of capital in relation to the credit exposures and other risks of the NBDT or borrowing group
   - **debt security** means—
@@ -50,7 +50,7 @@ The purpose of this Act is—
       (i) the board of directors (or other persons or body exercising powers of management, however described) of the partnership, unincorporated joint venture, or other unincorporated body of persons; or
       (ii) if there is no board or other persons or body as described in subparagraph (i), the partners of the partnership or members of the unincorporated joint venture or other unincorporated body of persons
   - **governing document** means the rules and instruments constituting, or defining the constitution of, an entity
-  - **Governor** means the Governor of the Bank appointed under the Reserve Bank of New Zealand Act 1989
+  - **Governor** means a person who occupies the position of Governor of the Bank (whether the person is appointed under section 82 or 96 of the Reserve Bank of New Zealand Act 2021)
   - **guaranteeing subsidiary** , in relation to an NBDT, means a subsidiary of the NBDT that—
     (a) is unconditionally liable (whether or not jointly or severally with the NBDT or any other person) to repay all the debt securities issued by the NBDT; or
     (b) is liable to repay all the debt securities issued by the NBDT subject only to the condition that the NBDT or any other person has failed to do so
@@ -127,7 +127,7 @@ The purpose of this Act is—
     (i) was a deposit taker (as defined in section 157C of the Reserve Bank of New Zealand Act 1989) on or after 3 August 2011 but before this section came into force; and
     (ii) has debt securities that were issued to the public in New Zealand before this section came into force and that remain unpaid.
 (2) Despite subsection (1), the following are not NBDTs:
-  (a) a bank that is a registered bank under the Reserve Bank of New Zealand Act 1989:
+  (a) a bank that is a registered bank under the Banking (Prudential Supervision) Act 1989:
   (b) a local authority:
   (c) the Crown (as defined in the Public Finance Act 1989):
   (d) an entity that is in receivership (provided that no debt securities are being offered under an NBDT regulated offer by, or on behalf of, the entity):
@@ -171,16 +171,7 @@ When performing its functions and exercising its powers under this Act, the Bank
   (g) the need to maintain competition within the NBDT sector.
 
 ### 9 Bank to have regard to directions about government policy objectives
-(1) The Minister may direct the Bank to have regard to a government policy that relates to the Bank's functions under this Act.
-(2) The Bank must have regard to every direction given by the Minister under this section.
-(3) The Minister must consult with the Bank before giving a direction.
-(4) A direction must—
-  (a) be set out in a written statement signed by the Minister; and
-  (b) as soon as practicable after it is given, be—
-    (i) presented to the House of Representatives by the Minister; and
-    (ii) published in the Gazette.
-(5) The Minister may not give a direction that requires the performance or non-performance of a particular act by the Bank, or by any employee or office holder of the Bank, or the bringing about of a particular result, in respect of a particular person.
-(6) A direction may be amended, revoked, or replaced in the same way as it may be given.
+[Repealed]
 
 ### 10 Act binds the Crown
 This Act binds the Crown.
@@ -355,7 +346,7 @@ The Bank may cancel a licence if it is satisfied—
     (i) regular review of the programme to systematically identify deficiencies in the effectiveness of the programme; and
     (ii) obtaining trustee approval to amendments to the programme that are necessary to address such deficiencies; and
   (e) be appropriate to the operations of the NBDT, having regard to the factors relevant to the risks referred to in paragraph (b) (for example, the size of the NBDT, its funding structure, the market sector in which it operates, its business strategy, and its relationship with its borrowing group).
-(3) The Bank may issue, in the manner that the Governor thinks fit, guidelines for the purpose of interpreting the risk categories referred to in subsection (2)﻿(b) that must be covered by the risk management programme.
+(3) The Bank may issue, in the manner that the Bank thinks fit, guidelines for the purpose of interpreting the risk categories referred to in subsection (2)﻿(b) that must be covered by the risk management programme.
 (4) A licensed NBDT that breaches this section commits an offence and is liable on conviction to a level 3 penalty.
 
 ### 28 Trustee role in risk management programmes
@@ -582,8 +573,8 @@ The Bank may cancel a licence if it is satisfied—
   (a) to refuse to disclose a communication or information to which the privilege would apply if it were sought to be disclosed in a criminal proceeding; and
   (b) to prevent the search of any such communication or information; and
   (c) to require the return of such communication or information if it is seized by a person exercising a power of search pending determination of the claim to privilege.
-(3) If a person refuses to disclose a communication or information on the ground that it is privileged under this section, the Governor may apply to a District Court Judge for an order determining whether the claim of privilege is valid; and, for the purpose of determining any such application, the District Court Judge may require the communication or information to be produced to him or her.
-(4) A District Court Judge may, on the application of the Governor, disallow a privilege claimed under this section if the Judge is satisfied that the claim to privilege would, under section 67(1) of the Evidence Act 2006, be disallowed in a proceeding.
+(3) If a person refuses to disclose a communication or information on the ground that it is privileged under this section, the Bank may apply to a District Court Judge for an order determining whether the claim of privilege is valid; and, for the purpose of determining any such application, the District Court Judge may require the communication or information to be produced to him or her.
+(4) A District Court Judge may, on the application of the Bank, disallow a privilege claimed under this section if the Judge is satisfied that the claim to privilege would, under section 67(1) of the Evidence Act 2006, be disallowed in a proceeding.
 (5) Subsection (6) applies to documents that are books of account or accounting records referred to in section 55(1) of the Evidence Act 2006.
 (6) The application by subsection (1) of section 54 of the Evidence Act 2006 (which relates to the privilege for communications with legal advisers) does not prevent, limit, or affect—
   (a) the issue of, or the obligation to comply with, a notice under section 51(1)﻿(a) in respect of a document to which this subsection applies; or
@@ -602,16 +593,17 @@ The Bank may cancel a licence if it is satisfied—
   (a) with the consent of the person to whom the information relates; or
   (b) in statistical or summary form, arranged in a manner that prevents any information published or disclosed from being identified by any person as relating to a particular person; or
   (c) to the extent that the information is available to the public under any Act (other than the Official Information Act 1982) or in a public document; or
-  (d) for the purposes of this Act or in connection with the exercise of powers under this Act; or
+  (d) for the purposes of, or in connection with, the performance or exercise of any function, power, or duty conferred or imposed on the Bank by this Act or any other legislation; or
+  (da) under subpart 3 of Part 6 of the Reserve Bank of New Zealand Act 2021 (which relates to information sharing); or
   (e) in connection with any proceedings for an offence against this Act; or
-  (f) to the Registrar of the Companies Office or the Financial Markets Authority; or
+  (f)
   (g) to a trustee of the NBDT to whom the information relates; or
   (h) to any person who the Bank is satisfied has a proper interest in receiving the information.
 (3) A person to whom information to which this section applies is published or disclosed under subsection (2)﻿(d) must not publish, disclose, or use the information except—
-  (a) for the purposes of this Act or in connection with the exercise of powers conferred by this Act; or
+  (a) for the purposes of, or in connection with, the performance or exercise of any function, power, or duty referred to in that paragraph; or
   (b) in accordance with any conditions that may be specified by the Bank.
 (4) Information to which this section applies must not be published or disclosed under subsection (2)﻿(g) or (h) unless the Bank is satisfied that satisfactory provision exists to protect the confidentiality of the information published or disclosed.
-(5) A person to whom information to which this section applies is disclosed under subsection (2)﻿(f), (g), or (h) must not publish, disclose, or use the information unless the publication, disclosure, or use is—
+(5) A person to whom information to which this section applies is disclosed under subsection (2)﻿(g) or (h) must not publish, disclose, or use the information unless the publication, disclosure, or use is—
   (a) authorised by the Bank; or
   (b) necessary or desirable in connection with the exercise of any function or power conferred by any enactment.
 (6) A person who breaches this section commits an offence and is liable on conviction to a level 2 penalty.
@@ -824,7 +816,7 @@ A person does not breach a requirement of this Act if—
   (d) declaring any person or class of persons not to be an NBDT for the purposes of this Act, or declaring that, in certain specified circumstances, any person or class of persons is not an NBDT for the purposes of this Act:
   (e) declaring certain securities to be debt securities for the purpose of this Act:
   (f) prescribing the matters, circumstances, or conditions that are suitability concerns:
-  (g) prescribing the application fee for a licence, or a method of calculating that fee:
+  (g)
   (h) prescribing additional matters to which the Bank must have regard in determining an application for a licence:
   (i) prescribing additional matters to which the conditions on licences may relate:
   (j) prescribing grounds, additional to those in section 21, on which the Bank may cancel a licence:
@@ -888,14 +880,10 @@ Regulations made under section 24, 30, 33, 36, or 39 may—
 **Protection from liability and indemnity**
 
 ### 80 Protection from liability for Bank, etc
-(1) This section applies to the Bank, every director, officer, and employee of the Bank, and any person appointed by the Bank under section 51(1)﻿(b).
-(2) No person to whom this section applies is liable for an act done or omitted to be done in the performance or exercise in good faith of the person's functions, duties, or powers under this Act.
+[Repealed]
 
 ### 81 Indemnity for Bank, etc
-(1) The Crown indemnifies the persons referred to in section 80(1) for any liability that arises from the exercise or purported exercise of, or omission to exercise, any power conferred by this Act unless it is shown that the exercise, or purported exercise of, or omission to exercise, the power was in bad faith.
-(2) Any money required for the purposes of this section must be paid out of a Crown Bank Account without further authority than this section.
-(3) The indemnity conferred by subsection (1) extends to legal costs incurred in defending a proceeding.
-(4) Within 12 sitting days after making a payment under this section, the Minister must present to the House of Representatives a report that contains the details of the circumstances giving rise to the liability of the Crown, the amount of the payment, the person to whom the payment was made, and any other relevant matters.
+[Repealed]
 
 **Other miscellaneous provisions**
 
@@ -969,12 +957,7 @@ An obligation imposed on a person by any other Act or instrument does not preven
 (4) A reference in an exemption granted under section 157G of the Reserve Bank of New Zealand Act 1989 to any provision in Part 5D of the Reserve Bank of New Zealand Act 1989 (ie, to any of sections 157A to 157ZZ of that Act) must be taken as a reference to a provision in this Act that corresponds (with or without modification) to that provision.
 
 ### 89 Transitional references in Reserve Bank of New Zealand Act 1989
-Until the end of the transition period referred to in section 87, the following provisions of the Reserve Bank of New Zealand Act 1989 (all of which are amended by Schedule 2 of this Act) must be read as if the references in them to a licensed NBDT were references to an NBDT:
-  (a) section 46(1)﻿(b):
-  (b) section 49(2)﻿(h)﻿(iii):
-  (c) section 50(2)﻿(d)﻿(iii):
-  (d) section 53(3)﻿(f)﻿(iii):
-  (e) section 58(b).
+[Repealed]
 
 **FMA to consult with Bank before recommending statutory management of NBDT**
 
@@ -1084,14 +1067,14 @@ If material incorporated by reference in regulations expires or is revoked,—
 ### 5 Proof of material incorporated by reference
 (1) A copy of the relevant version of any material incorporated by reference in the regulations must be—
   (a) certified as a correct copy of the material by the Governor; and
-  (b) retained by the Governor.
+  (b) retained by the Bank.
 (2) The production in proceedings of a certified copy of the material is, in the absence of evidence to the contrary, sufficient evidence of the incorporation in the regulations of the material.
 
 ### 6 Access to material incorporated by reference
-(1) The Governor—
-  (a) must make material incorporated by reference into regulations available for inspection during working hours free of charge at the head office of the Bank and at any other places that the Governor determines are appropriate; and
+(1) The Bank—
+  (a) must make material incorporated by reference into regulations available for inspection during working hours free of charge at the head office of the Bank and at any other places that the Bank determines are appropriate; and
   (b) must make printed copies of the material available either free or at no more than a reasonable cost; and
-  (c) may make the material available in any other way that the Governor considers appropriate in the circumstances (for example, on an Internet site); and
+  (c) may make the material available in any other way that the Bank considers appropriate in the circumstances (for example, on an Internet site); and
   (d) must give notice in the Gazette stating—
     (i) that the material is incorporated in the regulations, and the date on which the regulations were made; and
     (ii) if a version of the material is specified, the version; and
