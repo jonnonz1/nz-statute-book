@@ -1,5 +1,5 @@
 # Construction Contracts Act 2002
-_Consolidation as at 2022-04-12_
+_Consolidation as at 2022-07-01_
 
 ### 1 Title
 This Act is the Construction Contracts Act 2002.
@@ -330,7 +330,7 @@ Retention money held on trust—
   (c) prescribe forms for instruments.
 (8) In this section,—
   - **licensed insurer** has the same meaning as in section 6(1) of the Insurance (Prudential Supervision) Act 2010
-  - **registered bank** has the same meaning as in section 2(1) of the Reserve Bank of New Zealand Act 1989.
+  - **registered bank** has the same meaning as in section 2(1) of the Banking (Prudential Supervision) Act 1989.
 
 **Further provisions**
 
