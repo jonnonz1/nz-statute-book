@@ -1,5 +1,5 @@
 # Limitation Act 2010
-_Consolidation as at 2021-01-30_
+_Consolidation as at 2022-07-01_
 
 ### 1 Title
 This Act is the Limitation Act 2010.
@@ -170,8 +170,8 @@ For a claim for defamation, 6 years in section 11(1) and 3 years in section 11(3
   (g) a claim for cancellation of an irregular transaction and for an order under section 207 of the Insolvency Act 2006—the date on which the assignee of the bankrupt, or appointee of the estate of the deceased debtor, was appointed:
   (h) a claim under section 213 of the Insolvency Act 2006—the date on which the assignee of the bankrupt was appointed:
   (i) a claim under section 301 of the Companies Act 1993—the date on which the liquidator of the company or overseas company was appointed:
-  (j) a claim under section 54 of the Corporations (Investigation and Management) Act 1989 or section 138 of the Reserve Bank of New Zealand Act 1989—the date on which the corporation or bank was declared to be subject to statutory management.
-(2) When section 301 of the Companies Act 1993 applies, in accordance with section 55 of the Corporations (Investigation and Management) Act 1989 or section 139 of the Reserve Bank of New Zealand Act 1989, to a corporation or a registered bank subject to statutory management, the date in subsection (1)﻿(i) must be read as the date on which the corporation or bank was declared to be subject to statutory management.
+  (j) a claim under section 54 of the Corporations (Investigation and Management) Act 1989 or section 138 of the Banking (Prudential Supervision) Act 1989—the date on which the corporation or bank was declared to be subject to statutory management.
+(2) When section 301 of the Companies Act 1993 applies, in accordance with section 55 of the Corporations (Investigation and Management) Act 1989 or section 139 of the Banking (Prudential Supervision) Act 1989, to a corporation or a registered bank subject to statutory management, the date in subsection (1)﻿(i) must be read as the date on which the corporation or bank was declared to be subject to statutory management.
 
 ### 17 Discretion to allow relief for claim of abuse of minor or of gradual process, disease, or infection injury
 (1) This section applies to a claim—
@@ -366,8 +366,8 @@ For the purposes of this Act, no person is deemed to have been in possession of 
   (b) a claim in respect of a beneficiary's discretionary interest in a trust—the date on which the beneficiary first becomes entitled to trust income or property because of the trustees' discretion being exercised in the beneficiary's favour:
   (c) a claim for cancellation of an irregular transaction and for an order under section 207 of the Insolvency Act 2006—the date on which the assignee of the bankrupt, or appointee of the estate of the deceased debtor, was appointed:
   (d) a claim under section 301 of the Companies Act 1993—the date on which the liquidator of the company or overseas company was appointed:
-  (e) a claim under section 54 of the Corporations (Investigation and Management) Act 1989 or section 138 of the Reserve Bank of New Zealand Act 1989—the date on which the corporation or bank was declared to be subject to statutory management.
-(2) When section 301 of the Companies Act 1993 applies, in accordance with section 55 of the Corporations (Investigation and Management) Act 1989 or section 139 of the Reserve Bank of New Zealand Act 1989, to a corporation or a registered bank subject to statutory management, the date in subsection (1)﻿(d) must be read as the date on which the corporation or bank was declared to be subject to statutory management.
+  (e) a claim under section 54 of the Corporations (Investigation and Management) Act 1989 or section 138 of the Banking (Prudential Supervision) Act 1989—the date on which the corporation or bank was declared to be subject to statutory management.
+(2) When section 301 of the Companies Act 1993 applies, in accordance with section 55 of the Corporations (Investigation and Management) Act 1989 or section 139 of the Banking (Prudential Supervision) Act 1989, to a corporation or a registered bank subject to statutory management, the date in subsection (1)﻿(d) must be read as the date on which the corporation or bank was declared to be subject to statutory management.
 
 ## Part 4 — General provisions
 
