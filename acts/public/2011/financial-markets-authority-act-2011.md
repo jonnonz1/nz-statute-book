@@ -1,5 +1,5 @@
 # Financial Markets Authority Act 2011
-_Consolidation as at 2021-10-28_
+_Consolidation as at 2022-07-01_
 
 ### 1 Title
 This Act is the Financial Markets Authority Act 2011.
@@ -105,6 +105,7 @@ The FMA's main objective is to promote and facilitate the development of fair, e
     (i) any other law enforcement or regulatory agency (including under section 30):
     (ii) overseas regulators (including under section 30 or 31).
 (2) Subsection (1)﻿(b) and (c) do not limit the functions, powers, and duties conferred or imposed on any other person in respect of financial markets legislation.
+(2A) The function in subsection (1)﻿(f) includes acting as a member of the Council of Financial Regulators and as chairperson of the council (jointly with the Reserve Bank or in accordance with section 287(2) of the Reserve Bank of New Zealand Act 2021).
 (3) The fact that some other person has functions, powers, and duties in respect of financial markets legislation does not limit or restrict the FMA's functions, powers, and duties in respect of that legislation.
 (4) Except as expressly provided otherwise in this or any other Act, the FMA must act independently in performing its statutory functions and duties, and exercising its statutory powers, under—
   (a) this Act; and
