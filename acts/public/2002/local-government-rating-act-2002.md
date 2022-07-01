@@ -1,5 +1,5 @@
 # Local Government (Rating) Act 2002
-_Consolidation as at 2021-10-28_
+_Consolidation as at 2022-07-01_
 
 ### 1 Title
 This Act is the Local Government (Rating) Act 2002.
@@ -1848,7 +1848,7 @@ Land owned or used by, and for the purposes of, any of the following as defined 
 Land owned or used by, and for the purposes of, an institution for the instruction and training of students in theology and associated subjects, being land that does not exceed 1.5 hectares for any one institution.
 
 ### 8
-Land owned or used by a district health board and used to provide health or related services (including living accommodation for hospital purposes and child welfare homes).
+Land owned or used by Health New Zealand and used to provide health or related services (including living accommodation for hospital purposes and child welfare homes).
 
 ### 9
 Land used solely or principally—
