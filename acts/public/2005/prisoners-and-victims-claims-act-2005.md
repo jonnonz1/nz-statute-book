@@ -1,5 +1,5 @@
 # Prisoners' and Victims' Claims Act 2005
-_Consolidation as at 2021-10-28_
+_Consolidation as at 2022-07-01_
 
 ### 1 Title
 This Act is the Prisoners’ and Victims’ Claims Act 2005.
@@ -636,7 +636,7 @@ Subject to sections 28 to 44, 46, 59, and 60, and any practice notes issued unde
 
 ### 54 Secretary must establish account
 (1) The Secretary must, for the purposes of this subpart, establish at a bank a victims’ claims trust bank account.
-(2) The bank must be a registered bank as defined in section 2(1) of the Reserve Bank of New Zealand Act 1989.
+(2) The bank must be a registered bank as defined in section 2(1) of the Banking (Prudential Supervision) Act 1989.
 (3) The bank at which the account is established—
   (a) must pay, for any month, interest on the sums held in the account at the same rate as that bank pays on money deposited for that month, at call, in an interest-bearing deposit account with that bank; and
   (b) may, with the Secretary’s agreement, retain for its own use, instead of all banking charges and fees otherwise payable to it in respect of the account, some or all of the interest payable by it on the account; and
