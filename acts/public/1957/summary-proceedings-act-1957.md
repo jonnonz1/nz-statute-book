@@ -1,5 +1,5 @@
 # Summary Proceedings Act 1957
-_Consolidation as at 2021-12-02_
+_Consolidation as at 2022-07-01_
 
 > Title
 
@@ -15,7 +15,7 @@ _Consolidation as at 2021-12-02_
       (i) a person carrying on in New Zealand the business of banking; and
       (ii) a credit union within the meaning of the Friendly Societies and Credit Unions Act 1982; and
       (iii) a building society within the meaning of the Building Societies Act 1965; but
-    (b) does not include the Reserve Bank of New Zealand established under the Reserve Bank of New Zealand Act 1989 (except in relation to an account maintained by that bank for an employee of the bank)
+    (b) does not include the Reserve Bank of New Zealand continued under the Reserve Bank of New Zealand Act 2021 (except in relation to an account maintained by that bank for an employee of the bank)
   - **benefit** —
     (a) means a benefit as defined in Schedule 2 of the Social Security Act 2018; but
     (b) does not include—
@@ -54,6 +54,7 @@ _Consolidation as at 2021-12-02_
     (h) section 260A of the Fisheries Act 1996; or
     (ha) section 105C of the Credit Contracts and Consumer Finance Act 2003; or
     (hb) section 400 of the Customs and Excise Act 2018; or
+    (hc) section 276 of the Reserve Bank of New Zealand Act 2021; or
     (i) section 162 of the Animal Welfare Act 1999; or
     (ia) section 51X of the Conservation Act 1987; or
     (ib) section 27E of the Marine Mammals Protection Act 1978; or
