@@ -1,5 +1,5 @@
 # Ngāi Tahu Claims Settlement Act 1998
-_Consolidation as at 2022-04-12_
+_Consolidation as at 2022-07-01_
 
 > An Act—ato record the apology given by the Crown to Ngāi Tahu in the deed of settlement executed on 21 November 1997 by the then Prime Minister the Right Honourable James Brendan Bolger, for the Crown, and Te Rūnanga o Ngāi Tahu; andbto give effect to certain provisions of that deed of settlement, being a deed that settles the Ngāi Tahu claims
 
@@ -644,7 +644,7 @@ Section 49 does not apply to the disposal or attempted disposal of relevant land
     (i) section 66 of the Land Act 1948 on or before 21 November 1997; or
     (ii) section 67 of the Land Act 1948 on or before 21 November 1997 and administered by the Commissioner of Crown Lands, being those leases described in Schedule 6; or
     (iii) section 93(4) of the Land Act 1948; or
-  (j) a trustee of a community trust the object or principal object of which is to provide, or arrange for the provision of, services within the meaning of the New Zealand Public Health and Disability Act 2000; or
+  (j) a trustee of a community trust the object or principal object of which is to provide, or arrange for the provision of, services within the meaning of the Pae Ora (Healthy Futures) Act 2022; or
   (k) a person to whom the land is being disposed of under—
     (i) section 117(3) of the Public Works Act 1981 other than under the words may be dealt with as Crown land under the Land Act 1948 in paragraph (b) of the subsection; or
     (ii) section 119(2)﻿(a) of the Public Works Act 1981; or
