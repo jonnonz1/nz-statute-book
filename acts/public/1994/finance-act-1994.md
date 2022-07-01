@@ -1,5 +1,5 @@
 # Finance Act 1994
-_Consolidation as at 2021-10-28_
+_Consolidation as at 2022-07-01_
 
 > An Act to make provision with respect to public finances and other matters
 
@@ -24,7 +24,7 @@ _Consolidation as at 2021-10-28_
   - **reached** includes entered into, granted, and made; and has a corresponding meaning
   - **specified body** means a body that is an authority, the commission, or any person wholly owned by a specified body or 2 or more specified bodies
   - **subsidiary** has the same meaning as in section 5 of the Companies Act 1993.
-(2) This subsection applies to an agreement (reached before the commencement of the New Zealand Public Health and Disability Act 2000) if, and only if,—
+(2) This subsection applies to an agreement (reached before 1 January 2001) if, and only if,—
   (a) at least 1 party to it was a specified body at the time it was reached; and
   (b) it was reached after consultation between the Minister of Health and 1 or more of the parties to it; and
   (c) it relates to pharmaceuticals for which full or part payments may be made by 1 or more specified bodies.
