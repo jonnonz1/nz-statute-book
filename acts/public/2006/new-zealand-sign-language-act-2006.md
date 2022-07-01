@@ -1,5 +1,5 @@
 # New Zealand Sign Language Act 2006
-_Consolidation as at 2021-10-28_
+_Consolidation as at 2022-07-01_
 
 ### 1 Title
 This Act is the New Zealand Sign Language Act 2006.
@@ -81,7 +81,7 @@ New Zealand Sign Language is declared to be an official language of New Zealand.
 
 ### 10 Reporting
 (1) The Minister may from time to time report on the progress being made in implementing the principles set out in section 9.
-(2) A report under subsection (1) may be included in any report made under section 8(4) of the New Zealand Public Health and Disability Act 2000 on the progress being made in implementing the New Zealand Disability Strategy.
+(2) A report under subsection (1) may be included in any report referred to in clause 7 of Schedule 1 of the Pae Ora (Healthy Futures) Act 2022 on the progress being made in implementing the New Zealand disability strategy.
 
 **Miscellaneous provisions**
 
