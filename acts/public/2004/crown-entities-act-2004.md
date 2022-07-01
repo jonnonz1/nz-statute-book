@@ -1,5 +1,5 @@
 # Crown Entities Act 2004
-_Consolidation as at 2021-10-28_
+_Consolidation as at 2022-07-01_
 
 ### 1 Title
 This Act is the Crown Entities Act 2004.
@@ -831,9 +831,7 @@ A Crown entity (the parent) must ensure, to the extent that it is reasonably abl
     (iii) in collaboration with other public entities (within the meaning of that term in the Public Audit Act 2001) where practicable; and
   (b) pays remuneration to members of the subsidiary only at a rate and of a kind determined by the parent in accordance with the fees framework or after consulting with the responsible Minister; and
   (c) complies with the requirements as to chief executives set out in section 117 in the same way as the parent must do.
-(1A) Subsection (1)﻿(c) does not apply to a statutory entity parent that is either of the following:
-  (a) a district health board:
-  (b) an organisation within the meaning of clause 1 of Schedule 6 of the New Zealand Public Health and Disability Act 2000.
+(1A)
 (2) The requirements of this section are additional to those in section 97.
 
 ### 99 Application to multi-parent subsidiaries
@@ -1177,7 +1175,7 @@ Amendment(s) incorporated in the Act(s).
     (a) the period of 3 months ending when the Minister of Finance next delivers a Budget under the Public Finance Act 1989; or
     (b) if the Minister of Finance gives less than 3 months' notice of the next Budget day, the period commencing on the day on which the Minister of Finance gives that notice and ending when the Minister of Finance delivers the Budget
   - **public security** has the meaning set out in section 2(1) of the Public Finance Act 1989
-  - **registered bank** has the meaning set out in section 2 of the Reserve Bank of New Zealand Act 1989
+  - **registered bank** has the meaning set out in section 2 of the Banking (Prudential Supervision) Act 1989
   - **registered building society** means a building society within the meaning of the Building Societies Act 1965 that is registered on the register of building societies kept under that Act
   - **reportable class of outputs** , in respect of a financial year, means a class of outputs—
     (a) that the Crown entity proposes to supply in the financial year; and
@@ -1941,13 +1939,12 @@ New sections 150(3), (5), and (6) and 151(1)﻿(f), as inserted on the commencem
 | Accident Compensation Corporation | ✓ | ✓ | ✓ | ✓ | ✓ |
 | Callaghan Innovation | ✓ | ✓ | ✓ | ✓ | ✓ |
 | Civil Aviation Authority of New Zealand |  |  |  |  | ✓ |
-| District Health Boards |  |  |  |  |  |
 | Earthquake Commission | ✓ | ✓ | ✓ | ✓ | ✓ |
 | Education New Zealand |  |  |  |  |  |
 | Energy Efficiency and Conservation Authority |  |  |  |  |  |
 | Environmental Protection Authority |  |  |  |  |  |
 | Fire and Emergency New Zealand |  |  |  |  | ✓ |
-| Health Promotion Agency |  |  |  |  |  |
+| Health New Zealand |  |  |  |  |  |
 | Health Quality and Safety Commission |  |  |  |  |  |
 | Health Research Council of New Zealand |  |  |  |  |  |
 | Kāinga Ora–Homes and Communities |  |  |  |  |  |
