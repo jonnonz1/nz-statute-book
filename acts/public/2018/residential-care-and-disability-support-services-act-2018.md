@@ -1,5 +1,5 @@
 # Residential Care and Disability Support Services Act 2018
-_Consolidation as at 2021-10-28_
+_Consolidation as at 2022-07-01_
 
 ### 1 Title
 This Act is the Residential Care and Disability Support Services Act 2018.
@@ -44,9 +44,9 @@ In this Act and in Schedules 1 to 3, unless the context otherwise requires,—
   - **date of means assessment** has the meaning given in section 52
   - **de facto partner** and have the meanings given to them by sections 29 and 29A of the Interpretation Act 1999
   - **dependent child** has the same meaning as in Schedule 2 of the Social Security Act 2018
-  - **DHB** means a district health board established by or under section 19 of the New Zealand Public Health and Disability Act 2000
   - **exempt assets** has, for the purpose of an assets assessment conducted under section 34, in relation to the person being means assessed, the meaning given in clause 4 of Schedule 2
-  - **funder** means an entity responsible under the New Zealand Public Health and Disability Act 2000 for paying, in accordance with this Act, some or all of the cost of contracted care services provided to a qualifying person or a special case person
+  - **funder** means an entity responsible under the Pae Ora (Healthy Futures) Act 2022 for paying, in accordance with this Act, some or all of the cost of contracted care services provided to a qualifying person or a special case person
+  - **Health New Zealand** has the meaning in section 4 of the Pae Ora (Healthy Futures) Act 2022
   - **hospital** means a hospital care institution as defined in section 58(4) of the Health and Disability Services (Safety) Act 2001
   - **income** has, for the purpose of a person’s income assessment under section 37, the meaning given in clause 5 of Schedule 2
   - **long-term residential care** or has the meaning given in section 11
@@ -69,11 +69,11 @@ In this Act and in Schedules 1 to 3, unless the context otherwise requires,—
   - **rest home** means premises used to provide rest home care—
     (a) within the meaning of section 6 of the Health and Disability Services (Safety) Act 2001; and
     (b) that is therefore health care services required by that Act to be provided in accordance with section 9 of that Act
-  - **section 88 notice** means a notice—
-    (a) given under section 88 of the New Zealand Public Health and Disability Act 2000; and
+  - **section 94 notice** means a notice—
+    (a) given under section 94 of the Pae Ora (Healthy Futures) Act 2022; and
     (b) in respect of the provision of LTR care
   - **service agreement** means a service agreement—
-    (a) entered into under section 25 of the New Zealand Public Health and Disability Act 2000 between a funder and provider; and
+    (a) entered into between a funder and provider; and
     (b) in respect of the provision of long-term residential care to a qualifying person or special case person
   - **single** means not married or in a civil union or a de facto relationship
   - **special case person** has the meaning given in section 11
@@ -134,7 +134,7 @@ A qualifying person is a person who—
   (e) is entitled, under section 32, to apply for a means assessment.
 
 ### 13 Funding eligible
-A person is funding eligible if the person is eligible for publicly funded health and disability services under an eligibility direction issued under section 32, or continued under section 112, of the New Zealand Public Health and Disability Act 2000.
+A person is funding eligible if the person belongs to a class of eligible people specified in regulations made under section 102 of the Pae Ora (Healthy Futures) Act 2022 or is eligible under a ministerial direction continued under clause 30 of Schedule 1 of that Act.
 
 ### 14 Positively needs assessed
 A person has been positively needs assessed if the person has been assessed under section 28 as requiring LTR care indefinitely.
@@ -221,24 +221,24 @@ A person who is an elderly victim of crime is not liable to contribute any amoun
   (a) aged 65 years or over; and
   (b) funding eligible.
 (2) A person who is a special case person may at any time apply for a needs assessment.
-(3) A DHB may at any time on its own initiative conduct a needs assessment of a person who could apply under subsection (1) or (2).
+(3) Health New Zealand may at any time on its own initiative conduct a needs assessment of a person who could apply under subsection (1) or (2).
 
 ### 28 Content of needs assessment
 A needs assessment must determine whether the person assessed requires LTR care indefinitely.
 
 ### 29 Procedure for needs assessment
-(1) A DHB that receives an application under section 27(1) must arrange for the needs assessment to be conducted as soon as practicable.
+(1) If Health New Zealand receives an application under section 27(1), it must arrange for the needs assessment to be conducted as soon as practicable.
 (2) The date of a person's needs assessment is the date shown as such on the assessment.
 (3) For the purposes of a needs assessment (and, in particular, consent to a needs assessment), the Code of Health and Disability Services Consumers' Rights (made under section 74 of the Health and Disability Commissioner Act 1994) applies as if—
   (a) the needs assessment were a service; and
   (b) the person assessed were a consumer of that service; and
-  (c) the DHB or its delegate were a provider of that service.
+  (c) Health New Zealand or its delegate were a provider of that service.
 
 ### 30 Notification of result of needs assessment
-(1) A DHB must provide a copy of the result of a needs assessment as soon as practicable to—
+(1) Health New Zealand must provide a copy of the result of a needs assessment as soon as practicable to—
   (a) the person assessed; and
   (b) the provider (if any) who is currently providing LTR care to that person.
-(2) The DHB must at the same time inform the person assessed (P) of the following:
+(2) Health New Zealand must at the same time inform the person assessed (P) of the following:
   (a) the amount of the maximum contribution; and
   (b) the respective liabilities under this Act of the person assessed and the funder to contribute to the cost of LTR contracted care; and
   (c) how to apply for a means assessment.
@@ -443,14 +443,14 @@ A funder’s liability for the cost of the LTR contracted care of a 50+ single p
 
 ### 59 Application of this Part
 (1) This Part applies to a person who—
-  (a) has been assessed by or on behalf of a DHB as requiring home-based disability support services; and
+  (a) has been assessed by or on behalf of Health New Zealand as requiring home-based disability support services; and
   (b) is not a child; and
   (c) is not entitled to be the holder of—
     (i) a community services card issued under the Health Entitlement Cards Regulations 1993; or
-    (ii) a corresponding card issued under corresponding regulations made or deemed to have been under either or both of section 92(3) of the New Zealand Public Health and Disability Act 2000 and section 437 of the Social Security Act 2018.
+    (ii) a corresponding card issued under corresponding regulations made or deemed to have been under either or both of section 102(1) of the Pae Ora (Healthy Futures) Act 2022 and section 437 of the Social Security Act 2018.
 (2) For the purposes of this Part and Schedules 1 and 3, home-based disability support services means disability services that are supplied to a person, and that are services—
   (a) in relation to the person’s domestic affairs (other than medical services, personal care services, attendant care services, and relief care services) that support and allow the person to remain in the person’s home; and
-  (b) of a kind that are funded under the New Zealand Public Health and Disability Act 2000.
+  (b) of a kind that are funded under the Pae Ora (Healthy Futures) Act 2022.
 (3) For the purposes of this Part and Schedules 1 and 3,—
   - **child** means a single person under the age of 18 years, other than a person who is—
     (a) aged 16 or 17 years; and
@@ -508,7 +508,7 @@ Each assessment made by MSD under this Part—
   (b) must be given by MSD to that person.
 
 ### 65 MSD may supply assessment to applicable DHB
-MSD may supply the details of an assessment under this Part to the applicable DHB.
+MSD may supply the details of an assessment under this Part to Health New Zealand.
 
 ### 66 MSD must review, and may revise, assessment
 (1) MSD—
@@ -672,11 +672,11 @@ Regulations made under section 132D or 155(1) of the Social Security Act 1964, a
 (1) This clause specifies the applicable asset thresholds that apply annually for—
   (a) the year 1 July 2018 to 30 June 2019; and
   (b) all later years beginning on 1 July.
-(2) Threshold A is $239,930 and applies to every qualifying person or special case person (P)—
+(2) Threshold A is $256,554 and applies to every qualifying person or special case person (P)—
   (a) who has no spouse or partner; or
   (b) whose spouse or partner is also a qualifying person or special case person; or
   (c) whose spouse or partner is not a qualifying person or special case person but who has elected, under clause 2, to have Threshold A apply to P rather than Threshold B.
-(3) Threshold B is $131,391 and applies to every qualifying person or special case person (P)—
+(3) Threshold B is $140,495 and applies to every qualifying person or special case person (P)—
   (a) whose spouse or partner is not a qualifying person or special case person; and
   (b) who has not elected, under clause 2, to have Threshold A apply to R.
 
@@ -723,9 +723,9 @@ For the purpose of a person's income assessment under section 37,—
     (h) any amount paid by a funder in respect of the cost of contracted care services provided to the person or the person’s spouse or partner:
     (i) any amount or type of income, or amount of a certain type of income, specified in regulations made under section 74
   - **income-from-assets exemption** means the amount of income derived from assets each year not exceeding the following (or any other amount or amounts as may be prescribed by regulations made under section 74):
-    (a) $1,042, if the person is single; or
-    (b) $2,083, if the person's spouse or partner is a resident assessed as requiring care; or
-    (c) $3,125 if the person's spouse or partner is not a resident assessed as requiring care.
+    (a) $1,114, if the person is single; or
+    (b) $2,228, if the person's spouse or partner is a resident assessed as requiring care; or
+    (c) $3,341 if the person's spouse or partner is not a resident assessed as requiring care.
 
 ### 6 Annual income
 For the purposes of a means assessment as to income, a person's annual income is the person’s estimated income (as defined in clause 5) for the period of 52 weeks commencing on the date of means assessment.
