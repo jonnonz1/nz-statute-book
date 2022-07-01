@@ -1,5 +1,5 @@
 # Immigration Act 2009
-_Consolidation as at 2022-04-12_
+_Consolidation as at 2022-07-01_
 
 ### 1 Title
 This Act is the Immigration Act 2009.
@@ -4053,15 +4053,15 @@ For the purposes of this Act, a constable has all the powers of an immigration o
     (c) the person's date of birth:
     (d) the person's address.
 
-### 300 Information matching to determine eligibility or liability to pay for publicly funded health and disability support services
+### 300 Information matching to determine eligibility or liability to pay for services
 (1) The purpose of this section is to facilitate the disclosure of information between the Department and the responsible department to enable the responsible department to determine—
-  (a) a person's eligibility for access to publicly funded health and disability support services; or
-  (b) a person's liability to pay for publicly funded health and disability support services the person has received.
+  (a) a person's eligibility for access to services; or
+  (b) a person's liability to pay for services the person has received.
 (2) The chief executive of the Department and the chief executive of the responsible department may, for the purposes of this section, make arrangements between them in writing for the disclosure of information under this section.
 (3) In accordance with those arrangements, the chief executive of the responsible department may supply to the chief executive of the Department identifying information about—
-  (a) a person who seeks access to publicly funded health and disability support services; or
-  (b) a person for whom access is sought to publicly funded health and disability support services; or
-  (c) a person who has received publicly funded health and disability support services.
+  (a) a person who seeks access to services; or
+  (b) a person for whom access is sought to services; or
+  (c) a person who has received services.
 (4) The chief executive of the Department may compare the information he or she receives with information that the Department holds about the person.
 (5) If the Department holds immigration information about the person, the chief executive of the Department may supply the information described in subsections (6) and (7) to an authorised officer in accordance with the arrangements made under subsection (2).
 (6) The information is—
@@ -4099,8 +4099,8 @@ For the purposes of this Act, a constable has all the powers of an immigration o
 (9) In this section,—
   - **authorised officer** means an officer, employee, or agent of the responsible department who is authorised by the chief executive of the responsible department to receive information from the chief executive of the Department in accordance with this section
   - **identifying information** means information that identifies a person, such as the person’s full name, date or place of birth, gender, or alias or a unique identifying number used for the person
-  - **publicly funded health and disability support services** means health services and disability support services funded under the New Zealand Public Health and Disability Act 2000
-  - **responsible department** means the department of State for the time being responsible for the administration of the New Zealand Public Health and Disability Act 2000.
+  - **responsible department** means the department of State for the time being responsible for the administration of the Pae Ora (Healthy Futures) Act 2022.
+  - **services** has the meaning in section 4 of the Pae Ora (Healthy Futures) Act 2022
 
 ### 301 Disclosure of immigration information to verify eligibility for publicly funded services
 (1) The purpose of this section is to facilitate the disclosure of information by the Department to a provider of any publicly funded service to enable the service provider to determine—
