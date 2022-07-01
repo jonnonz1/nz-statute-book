@@ -1,5 +1,5 @@
 # Gambling Act 2003
-_Consolidation as at 2021-12-21_
+_Consolidation as at 2022-07-01_
 
 ### 1 Title
 This Act is the Gambling Act 2003.
@@ -291,7 +291,7 @@ The purpose of this Act is to—
     (k) bring to the notice of the public in New Zealand in any other manner
   - **racing club** has the same meaning as in section 5(1) of the Racing Industry Act 2020
   - **racing code** has the same meaning as in section 5(1) of the Racing Industry Act 2020
-  - **registered bank** has the meaning given by section 2(1) of the Reserve Bank of New Zealand Act 1989
+  - **registered bank** has the meaning given by section 2(1) of the Banking (Prudential Supervision) Act 1989
   - **relevant offence** means—
     (a) a crime involving dishonesty; or
     (b) an offence considered by the Secretary or the Gambling Commission (as the case may be) to be relevant; or
