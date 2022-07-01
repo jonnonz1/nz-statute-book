@@ -1,5 +1,5 @@
 # Legislation Act 2019
-_Consolidation as at 2022-04-12_
+_Consolidation as at 2022-07-01_
 
 ### 1 Title
 This Act is the Legislation Act 2019.
@@ -1566,14 +1566,14 @@ The Chief Parliamentary Counsel holding office under section 66 of the Legislati
 
 ## Schedule 1A — Secondary legislation made by Royal prerogative
 
-| Form | Purpose(s) for which made |
-| --- | --- |
-| Letters Patent | Constituting the Office of Governor-General of New Zealand (including constituting the Executive Council, conferring powers on the Governor-General and Executive Council, and otherwise providing for them). |
-| Rules | Regulating the use of images of the Royal family for commercial purposes. |
-| Royal Warrant | Establishing Royal Honours and regulating the granting, use, and retention of those Honours (including by delegating any matter to regulations or rules). |
-| Regulations or rules | Regulating the eligibility and other matters delegated by Royal Warrant in relation to Royal Honours. |
-| Rules | Regulating the acceptance and wearing of Commonwealth, foreign, and international Honours by New Zealand citizens. |
-| Rules | Regulating the granting, use, and retention of the titles “The Right Honourable” and “The Honourable” in New Zealand. |
+| Item | Form | Purpose(s) for which made |
+| --- | --- | --- |
+| 1 | Letters Patent | Constituting the Office of Governor-General of New Zealand (including constituting the Executive Council, conferring powers on the Governor-General and Executive Council, and otherwise providing for them). |
+| 2 | Rules | Regulating the use of images of the Royal family for commercial purposes. |
+| 3 | Royal Warrant | Establishing Royal Honours and regulating the granting, use, and retention of those Honours (including by delegating any matter to regulations or rules). |
+| 4 | Regulations or rules | Regulating the eligibility and other matters delegated by Royal Warrant in relation to Royal Honours. |
+| 5 | Rules | Regulating the acceptance and wearing of Commonwealth, foreign, and international Honours by New Zealand citizens. |
+| 6 | Rules | Regulating the granting, use, and retention of the titles “The Right Honourable” and “The Honourable” in New Zealand. |
 
 ## Schedule 2 — Incorporation by reference
 
@@ -1711,6 +1711,7 @@ A failure to comply with this schedule does not invalidate secondary legislation
 | Animal Products Act 1999 | 118 |  |
 | Antarctica (Environmental Protection) Act 1994 | 55(2) |  |
 | Arms Act 1983 | 74A |  |
+| Banking (Prudential Supervision) Act 1989 | 152 and 173 | Only if the regulations confer on the Bank, or a statutory manager of a registered bank, ancillary or additional powers necessary or desirable for the purposes of Part 5 |
 | Biosecurity Act 1993 | 100L |  |
 | Biosecurity Act 1993 | 100ZB |  |
 | Biosecurity Act 1993 | 137 |  |
@@ -1750,7 +1751,6 @@ A failure to comply with this schedule does not invalidate secondary legislation
 | Petroleum Demand Restraint Act 1981 | 4(1) |  |
 | Policing Act 2008 | 27(1) |  |
 | Primary Products Marketing Act 1953 | 3(1) |  |
-| Reserve Bank of New Zealand Act 1989 | 152 and 173 | Only if the regulations confer on the Bank, or a statutory manager of a registered bank, ancillary or additional powers necessary or desirable for the purposes of Part 5 |
 | Road User Charges Act 2012 | 85(1) |  |
 | Social Security Act 2018 | 423(1)﻿(c) |  |
 | Social Security Act 2018 | 452(1) (apart from, or with, clause 55(6) of Schedule 1) |  |
