@@ -1,5 +1,5 @@
 # Disabled Persons Community Welfare Act 1975
-_Consolidation as at 2021-10-28_
+_Consolidation as at 2022-07-01_
 
 > An Act to make better provision for financial and other assistance in respect of the disabled, and for the support of voluntary organisations and private organisations concerned with providing facilities for the community welfare, sheltered employment, training, and day care of disabled persons
 
@@ -14,26 +14,27 @@ In this Act, unless the context otherwise requires,—
     (a) approved by the Director-General for the purposes of this Act; or
     (b) is a member of a class of specialists approved by the Director-General for the purposes of this Act
   - **assessment** , in relation to a disabled person, means the process of assessing the various factors involved in determining his potential capacity to benefit from training, sheltered employment, and day care
-  - **Crown funding agreement** has the same meaning as in section 6(1) of the New Zealand Public Health and Disability Act 2000
   - **day care** means the care of a disabled person for a period during the day under adequate supervision in an occupational centre
   - **Director-General** ,—
     (a) in, or in relation to, Parts 2 and 2A, means the Director-General of Health:
     (b) in, or in relation to, Parts 3 and 4, means the chief executive of the department for the time being responsible for the administration of the Social Security Act 2018:
     (c) otherwise, as appropriate, means that Director-General, or that chief executive, or both
-  - **disability services** has the same meaning as disability support services has in section 6(1) of the New Zealand Public Health and Disability Act 2000
   - **disabled person** means any person who suffers from physical or mental disablement to such a degree that he is seriously limited in the extent to which he can engage in the activities, pursuits, and processes of everyday life
-  - **district health board** means a district health board established by or under section 19 of the New Zealand Public Health and Disability Act 2000
+  - **disability support services** has the meaning in section 4 of the Pae Ora (Healthy Futures) Act 2022
+  - **Health New Zealand** has the meaning in section 4 of the Pae Ora (Healthy Futures) Act 2022
   - **home** , except in relation to section 14,—
     (a) includes any institution, cottage home, family home, group home or hostel, or other premises which are not administered by the Crown and which are intended to accommodate or provide for 5 or more disabled persons; but
     (b) does not include a hospital care institution within the meaning of section 58(4) of the Health and Disability Services (Safety) Act 2001 or a hospital or institution specifically exempted by the Minister from the application of this Act
   - **lease** includes a licence; and has a corresponding meaning
+  - **Māori Health Authority** has the meaning in section 4 of the Pae Ora (Healthy Futures) Act 2022
   - **medical practitioner** means a health practitioner who is, or is deemed to be, registered with the Medical Council of New Zealand continued by section 114(1)﻿(a) of the Health Practitioners Competence Assurance Act 2003 as a practitioner of the profession of medicine
   - **Minister** , in relation to any provisions of this Act, means, subject to any enactment, the Minister who is, with the authority of the Prime Minister, for the time being responsible for the administration of those provisions
+  - **New Zealand Health Plan** has the meaning in section 50 of the Pae Ora (Healthy Futures) Act 2022
   - **occupational centre** means a place where a disabled person who has a seriously limited or no capacity for work, can take part in appropriate activities under supervision
   - **partner** has the same meaning as in the Social Security Act 2018
   - **residential care services** has the same meaning as in Schedule 2 of the Social Security Act 2018
   - **review officer** means a person appointed under section 25D(1)
-  - **service agreement** has the same meaning as in section 6(1) of the New Zealand Public Health and Disability Act 2000
+  - **service agreement** means an agreement in which 1 or more health entities as defined in section 4 of the Pae Ora (Healthy Futures) Act 2022 agree to provide money to a person in return for the person providing services within the meaning of section 4 of that Act or arranging for the provision of those services
   - **sheltered employment** means employment for disabled persons in suitable occupations under conditions less stringent than those found in normal work situations
   - **sheltered workshop** means a place where sheltered employment is available, being a place owned or controlled by an organisation approved by the Minister of Labour under section 2 of the Disabled Persons Employment Promotion Act 1960 in which disabled persons are engaged in sheltered employment
   - **spouse** has the same meaning as in the Social Security Act 2018
@@ -59,7 +60,7 @@ Without limiting in any way the functions and powers conferred on the Minister o
   (b) to promote schemes providing for the assessment, work experience, training, sheltered employment, and other suitable activities of disabled persons:
   (c) to promote the general well-being, recreational opportunities, and welfare in the community of disabled persons by assisting individuals, families, and sections of the community to overcome social problems associated with physical or mental handicap:
   (d) to assist voluntary or charitable organisations engaged in the provision of services and facilities for the welfare in the community of disabled persons:
-  (e) to foster close working relationships, and (as appropriate) consult, with government departments, district health boards, and other bodies, organisations, and professions concerned with rehabilitation and training of disabled persons and their placement in employment:
+  (e) to foster close working relationships, and (as appropriate) consult, with government departments, Health New Zealand, the Māori Health Authority, and other bodies, organisations, and professions concerned with rehabilitation and training of disabled persons and their placement in employment:
   (f) to co-operate with the Accident Compensation Corporation under the Accident Compensation Act 2001 in so far as its responsibilities relate to the promotion of the rehabilitation of persons who suffer personal injury for which they have cover under that Act:
   (g) to promote the co-ordination of services and facilities within the community designed to advance the welfare of disabled persons:
   (h) to encourage and stimulate public interest in the provision of services and facilities for the welfare in the community of disabled persons.
@@ -163,11 +164,11 @@ In the exercise of his or her powers of discretion under this Act, the Director-
 ### 25A Right of review
 (1) This Part applies to a person who—
   (a) has an intellectual, physical, psychiatric, or sensory disability; and
-  (b) because of that disability, enters residential care of a kind that is funded under a Crown funding agreement or a service agreement or an arrangement of the kind described in section 88 of the New Zealand Public Health and Disability Act 2000; and
+  (b) because of that disability, enters residential care of a kind that is funded under the New Zealand Health Plan or a service agreement or an arrangement of the kind described in section 94 of the Pae Ora (Healthy Futures) Act 2022; and
   (c) is not a resident assessed as requiring care, as that term is defined in section 5 of the Residential Care and Disability Support Services Act 2018.
 (2) A person to whom this Part applies has a right to a review of—
-  (a) the adequacy of any disability services needs assessment provided in respect of that person under a Crown funding agreement or a service agreement or an arrangement of the kind described in section 88 of the New Zealand Public Health and Disability Act 2000; or
-  (b) whether or not the person's disability services needs, as assessed by a disability services needs assessment provided in respect of that person under a Crown funding agreement or a service agreement or an arrangement of the kind described in section 88 of the New Zealand Public Health and Disability Act 2000, are appropriately met by—
+  (a) the adequacy of any disability services needs assessment provided in respect of that person under the New Zealand Health Plan or a service agreement or an arrangement of the kind described in section 94 of the Pae Ora (Healthy Futures) Act 2022; or
+  (b) whether or not the person's disability services needs, as assessed by a disability services needs assessment provided in respect of that person under the New Zealand Health Plan or a service agreement or an arrangement of the kind described in section 94 of the Pae Ora (Healthy Futures) Act 2022, are appropriately met by—
     (i) the residential care the person entered following the disability services needs assessment; or
     (ii) the residential care services purchased for the person following the disability services needs assessment.
 
@@ -189,10 +190,10 @@ An application for a review may be made by—
   (a) the date on which a copy of the disability services needs assessment is given or sent to the person; or
   (b) the date on which the person enters residential care; or
   (c) the date on which the Minister of Health—
-    (i) enters into a Crown funding agreement with a service provider to provide residential care services to the person; or
-    (ii) enters into a Crown funding agreement in renewal of or substitution for a previous agreement, being a renewed or substituted agreement that contains a change in the residential care services to be provided to the person; or
-  (d) the date on which a district health board—
-    (i) enters into a service agreement or an arrangement of the kind described in section 88 of the New Zealand Public Health and Disability Act 2000 with a service provider to provide residential care services to the person; or
+    (i) enters into an agreement with a service provider to provide residential care services to the person; or
+    (ii) enters into an agreement in renewal of or substitution for a previous agreement, being a renewed or substituted agreement that contains a change in the residential care services to be provided to the person; or
+  (d) the date on which Health New Zealand or the Māori Health Authority—
+    (i) enters into a service agreement or an arrangement of the kind described in section 94 of the Pae Ora (Healthy Futures) Act 2022 with a service provider to provide residential care services to the person; or
     (ii) enters into a service agreement or into an arrangement of that kind in renewal of or substitution for a previous service agreement or arrangement, being a renewed or substituted agreement or arrangement that contains a change in the residential care services to be provided to the person.
 (4) The Director-General may accept an application for a review after the time stated in subsection (3) if the Director-General is satisfied that there is good reason for the delay.
 
@@ -208,7 +209,7 @@ An application for a review may be made by—
 (4) A review officer must not conduct a review if he or she was connected in any material way with—
   (a) any disability services needs assessment made for the person; or
   (b) the entry into residential care of the person; or
-  (c) any Crown funding agreement or service agreement or an arrangement of the kind described in section 88 of the New Zealand Public Health and Disability Act 2000 for residential care services for the person.
+  (c) the New Zealand Health Plan or any service agreement or an arrangement of the kind described in section 94 of the Pae Ora (Healthy Futures) Act 2022 for residential care services for the person.
 (5) The Ministry of Health must supply all the secretarial and administrative services that the review officer needs to carry out his or her functions.
 
 ### 25E Conduct of review
