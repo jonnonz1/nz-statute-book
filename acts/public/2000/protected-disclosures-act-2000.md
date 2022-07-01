@@ -1,5 +1,5 @@
 # Protected Disclosures Act 2000
-_Consolidation as at 2022-04-12_
+_Consolidation as at 2022-07-01_
 
 ### 1 Title
 This Act is the Protected Disclosures Act 2000.
