@@ -1,5 +1,5 @@
 # Mental Health (Compulsory Assessment and Treatment) Act 1992
-_Consolidation as at 2021-10-30_
+_Consolidation as at 2022-07-01_
 
 > An Act to redefine the circumstances in which and the conditions under which persons may be subjected to compulsory psychiatric assessment and treatment, to define the rights of such persons and to provide better protection for those rights, and generally to reform and consolidate the law relating to the assessment and treatment of persons suffering from mental disorder
 
@@ -70,7 +70,7 @@ _Consolidation as at 2021-10-30_
     (a) that begins with the date on which the patient receives a notice under section 13(1); and
     (b) that ends when 14 clear days have passed after that date
   - **service** means a service for the treatment and rehabilitation of persons with mental disorders, being a service—
-    (a) funded by or through a Crown funding agreement within the meaning of section 10(1) of the New Zealand Public Health and Disability Act 2000; or
+    (a) funded by the Crown under the New Zealand Health Plan within the meaning of section 4 of the Pae Ora (Healthy Futures) Act 2022; or
     (b) a service provided by, or managed by, an institution that was, immediately before the commencement of this Act, a licensed institution under section 9 of the Mental Health Act 1969
   - **special patient** means—
     (a) a person who is liable to be detained in a hospital under an order made under—
