@@ -1,5 +1,5 @@
 # Children’s Act 2014
-_Consolidation as at 2021-10-28_
+_Consolidation as at 2022-07-01_
 
 ### 1 Title
 This Act is the Children’s Act 2014.
@@ -36,7 +36,7 @@ The duties of the responsible Minister set out in sections 6D(1)﻿(d) and 7C(2)
   - **children’s agencies** means those departments of State or instruments of the Crown that are, with the authority of the Prime Minister, for the time being responsible (alone, or with 1 or more other departments or instruments) for the administration of all or any provisions of 1 or more of the following Acts:
     (a) Domestic Violence Act 1995:
     (b) Education and Training Act 2020:
-    (c) New Zealand Public Health and Disability Act 2000:
+    (c) Pae Ora (Healthy Futures) Act 2022:
     (d) Oranga Tamariki Act 1989:
     (e) Policing Act 2008:
     (f) Social Security Act 2018:
@@ -241,13 +241,13 @@ Once the oranga tamariki action plan has come into effect, the chief executive o
 
 ### 14 Purpose of this Part
 The purpose of this Part is to require child protection policies (that must contain provisions on the identification and reporting of child abuse and neglect) to be—
-  (a) adopted and reported on by prescribed State services and DHBs boards; and
+  (a) adopted and reported on by prescribed State services and the boards of Health New Zealand and the Māori Health Authority; and
   (b) adopted by school boards; and
   (c) adopted by certain people with whom those services or boards enter into contracts or funding arrangements.
 
 ### 15 Interpretation
 (1) In this Part, unless the context otherwise requires,—
-  - **board** , in relation to a publicly-owned health and disability organisation that is a DHB, means the members of the board of that organisation (who number not less than the required quorum) acting together as a board
+  - **board** , in relation to Health New Zealand or the Māori Health Authority, means the members of the board of that organisation (who number no less than the required quorum) acting together as a board
   - **child** means a person who is under the age of 18 years
   - **children's services** means services that are any of the following:
     (a) services provided to 1 or more children:
@@ -256,10 +256,11 @@ The purpose of this Part is to require child protection policies (that must cont
       (i) do or may affect significantly any 1 or more aspects of the well-being of those children; and
       (ii) are for the time being prescribed under subsection (2):
     (d) services provided in respect of children that are for the time being prescribed under subsection (3)
-  - **DHB** means an organisation established as a DHB (that is to say, as a District Health Board) by or under section 19 of the New Zealand Public Health and Disability Act 2000
-  - **independent person** , in relation to a prescribed State service and its chief executive, a board of a DHB, or a school board, means a person who is neither of the following:
+  - **Health New Zealand** has the meaning in section 4 of the Pae Ora (Healthy Futures) Act 2022
+  - **independent person** , in relation to a prescribed State service and its chief executive, a board of Health New Zealand or the Māori Health Authority, or a school board, means a person who is neither of the following:
     (a) a member of the board:
     (b) an employee or officer of the service or its chief executive, or the board
+  - **Māori Health Authority** means the Māori Health Authority established by section 17 of the Pae Ora (Healthy Futures) Act 2022
   - **prescribed State service** means each of the following:
     (a) the Ministry of Business, Innovation, and Employment:
     (b) the Ministry of Education:
@@ -277,7 +278,7 @@ The purpose of this Part is to require child protection policies (that must cont
   (b) that do or may affect significantly any 1 or more aspects of the well-being of those children.
 (3) The Governor-General may, by Order in Council, prescribe, for the purposes of paragraph (d) of the definition of children's services in subsection (1), classes, descriptions, or kinds of services provided in respect of children.
 (4) The Governor-General may, by Order in Council, prescribe, for the purposes of paragraph (h) of the definition of prescribed State service in subsection (1), other instruments of the Crown in respect of the Government of New Zealand (whether departments, corporations, agencies, or other instruments), being instruments of that kind that are neither—
-  (a) DHBs; nor
+  (a) Health New Zealand; nor
   (b) school boards.
 (5) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
@@ -294,9 +295,9 @@ The chief executive of a prescribed State service must ensure that the service,�
     (i) its operations have implemented any policy it is required to adopt under paragraph (a)﻿(i); and
     (ii) its contracts and funding arrangements have complied with paragraph (b).
 
-### 17 DHBs boards to adopt, report on, and require child protection policies
-Every board of a DHB must—
-  (a) adopt, as soon as is practicable after the commencement (under section 2(1)) of this section, a child protection policy; and
+### 17 Health New Zealand and Māori Health Authority to adopt, report on, and require child protection policies
+The board of Health New Zealand and the board of the Māori Health Authority must each—
+  (a) adopt, as soon as is practicable, a child protection policy; and
   (b) ensure that a copy of the policy is available on an Internet site maintained by or on behalf of the board; and
   (c) ensure that every contract, or funding arrangement, that after that commencement the board enters into with an independent person requires the person as soon as is practicable to adopt (and to review in accordance with paragraph (d)) a child protection policy if, in the opinion of the board,—
     (i) the person is or becomes a provider of children's services; and
