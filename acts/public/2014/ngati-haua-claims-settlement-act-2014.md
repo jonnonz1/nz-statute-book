@@ -1,5 +1,5 @@
 # Ngāti Hauā Claims Settlement Act 2014
-_Consolidation as at 2022-04-12_
+_Consolidation as at 2022-07-01_
 
 ### 1 Title
 This Act is the Ngāti Hauā Claims Settlement Act 2014.
@@ -1144,7 +1144,7 @@ In this subpart and Schedule 5,—
 (1) In this subpart, RFR land means—
   (a) the land described in part 6 of the attachments that, on the settlement date,—
     (i) is vested in the Crown; or
-    (ii) is held in fee simple by the Crown or Waikato District Health Board; and
+    (ii) is held in fee simple by the Crown or Health New Zealand; and
   (b) any land excluded from the definition of commercial redress property by paragraph (b) of that definition and that, on the settlement date,—
     (i) is vested in the Crown; or
     (ii) is held in fee simple by the Crown; and
@@ -1283,8 +1283,8 @@ The Crown may dispose of RFR land—
     (ii) on or after the settlement date under a right of renewal in a lease granted before the settlement date; or
   (c) under section 93(4) of the Land Act 1948.
 
-### 126 Disposal by Waikato District Health Board
-The Waikato District Health Board (established by section 19(1) of the New Zealand Public Health and Disability Act 2000), or any of its subsidiaries, may dispose of RFR land to any person if the Minister of Health has given notice to the trustees that, in the Minister's opinion, the disposal will achieve, or assist in achieving, the district health board's objectives.
+### 126 Disposal by Health New Zealand
+Health New Zealand (established by section 11 of the Pae Ora (Healthy Futures) Act 2022), or any of its subsidiaries, may dispose of RFR land to any person if the Minister of Health has given notice to the trustees that, in the Minister's opinion, the disposal will achieve, or assist in achieving, Health New Zealand's objectives.
 
 **RFR landowner obligations**
 
