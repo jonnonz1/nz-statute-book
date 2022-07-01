@@ -1,5 +1,5 @@
 # International Finance Agreements Act 1961
-_Consolidation as at 2021-10-28_
+_Consolidation as at 2022-07-01_
 
 > Title
 
@@ -40,7 +40,7 @@ In this Act, unless the context otherwise requires,—
 
 ### 4 Reserve Bank of New Zealand to be depository
 (1) The Reserve Bank of New Zealand is hereby designated as the depository in New Zealand for all the holdings of New Zealand currency and of other assets of the Fund, the Bank, the Corporation, the Agency, and the Infrastructure Bank.
-(2) The Reserve Bank of New Zealand shall have power from time to time to acquire, hold, and deal with special drawing rights in accordance with the Fund Agreement; and, without limiting the generality of the expression foreign exchange in the Reserve Bank of New Zealand Act 1989, special drawing rights shall be deemed to be foreign exchange for the purposes of that Act.
+(2) The Reserve Bank of New Zealand shall have power from time to time to acquire, hold, and deal with special drawing rights in accordance with the Fund Agreement; and, without limiting the generality of the expression foreign exchange in the Reserve Bank of New Zealand Act 2021, special drawing rights shall be deemed to be foreign exchange for the purposes of that Act.
 
 ### 5 Payments under Agreements and Convention
 (1) There shall be paid out of public money, without further appropriation than this section,—
