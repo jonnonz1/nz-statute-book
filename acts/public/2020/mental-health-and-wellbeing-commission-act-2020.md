@@ -1,5 +1,5 @@
 # Mental Health and Wellbeing Commission Act 2020
-_Consolidation as at 2021-10-28_
+_Consolidation as at 2022-07-01_
 
 ### 1 Title
 This Act is the Mental Health and Wellbeing Commission Act 2020.
@@ -133,7 +133,8 @@ The Commission has the power to—
   (b) a departmental agency named in Part 2 of Schedule 2 of the Public Service Act 2020:
   (c) a statutory entity named in Schedule 1 of the Crown Entities Act 2004:
   (d) the New Zealand Defence Force:
-  (e) the New Zealand Police.
+  (e) the New Zealand Police:
+  (f) the Māori Health Authority.
 
 ### 15 Reasons for refusing to supply requested information
 (1) The Commission must not request, and an entity must not supply, information that is—
