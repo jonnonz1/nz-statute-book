@@ -1,5 +1,5 @@
 # Reserves and Other Lands Disposal Act 2015
-_Consolidation as at 2015-09-22_
+_Consolidation as at 2022-07-01_
 
 ### 1 Title
 This Act is the Reserves and Other Lands Disposal Act 2015.
@@ -93,7 +93,7 @@ In sections 16 and 17,—
 (5) The setting apart of the Mahinepua Bay reserve land as a Māori reservation under subsection (2) must be treated as if it had been made under Part 17 of Te Ture Whenua Maori Act 1993 and the requirements of that Part of that Act had been satisfied.
 (6) Sections 24 and 25 of the Reserves Act 1977 do not apply to the revocation under subsection (1) of the reserve status of the Mahinepua Bay reserve land.
 
-**Nelson–Marlborough District Health Board land**
+**Health New Zealand**
 
 ### 18 Interpretation
 In sections 19 to 23,—
@@ -106,8 +106,8 @@ In sections 19 to 23,—
     (c) held in trust for hospital purposes pursuant to the Reserves and Domains Act 1953.
 
 ### 19 Background
-(1) The Nelson–Marlborough District Health Board (the DHB) holds the fee simple title to the French Pass District Nursing Property and the Braemar Hospital Sites A, B, and C.
-(2) In order to better use these properties to provide health and disability support services to its community, and to regularise the uses to which the properties are put, the DHB wishes to remove any references on the titles to a requirement that the land concerned be—
+(1) Health New Zealand holds the fee simple title to the French Pass District Nursing Property and the Braemar Hospital Sites A, B, and C.
+(2) In order to better use these properties to provide health and disability support services to its community, and to regularise the uses to which the properties are put, Health New Zealand wishes to remove any references on the titles to a requirement that the land concerned be—
   (a) used for hospital purposes; or
   (b) held in trust for hospital or any other purposes; or
   (c) held in trust without a power of sale; or
