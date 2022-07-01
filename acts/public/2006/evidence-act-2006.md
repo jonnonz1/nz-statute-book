@@ -1,5 +1,5 @@
 # Evidence Act 2006
-_Consolidation as at 2021-12-21_
+_Consolidation as at 2022-07-01_
 
 ### 1 Title
 This Act is the Evidence Act 2006.
@@ -910,7 +910,7 @@ None of the following persons is compellable to give evidence:
   (b) to appear as a witness to prove the matters, transactions, and amounts recorded in those records.
 (2) Subsection (1) is subject to any contrary order of a Judge made for a special reason.
 (3) In this section, bank means—
-  (a) a registered bank within the meaning of section 2 of the Reserve Bank of New Zealand Act 1989:
+  (a) a registered bank within the meaning of section 2 of the Banking (Prudential Supervision) Act 1989:
   (b) the Reserve Bank of New Zealand:
   (c) any other person carrying on in New Zealand the business of banking.
 
