@@ -1,5 +1,5 @@
 # Receiverships Act 1993
-_Consolidation as at 2020-09-01_
+_Consolidation as at 2022-07-01_
 
 > An Act to reform the law relating to receivers
 
@@ -370,8 +370,8 @@ A person to whom a report must be sent in accordance with section 26 is entitled
   (b) before enforcement of the security interest, the collateral is transferred or otherwise dealt with so as to be in the possession or under the control of—
     (i) the enforcing counterparty; or
     (ii) another person (who is not the company that granted the security interest) on behalf of the enforcing counterparty, under the terms of an arrangement evidenced in writing.
-(7) Terms and expressions defined in section 122A of the Reserve Bank of New Zealand Act 1989 and used in subsection (6) have in that subsection the same meanings as in that section.
-(8) Section 122B of the Reserve Bank of New Zealand Act 1989 applies with all necessary modifications for the purposes of subsection (6)﻿(b) (and those modifications include treating references to section 122(9A)﻿(b) of that Act as references to subsection (6)﻿(b) of this section and treating references to the grantor as references to the company that granted the security interest).
+(7) Terms and expressions defined in section 122A of the Banking (Prudential Supervision) Act 1989 and used in subsection (6) have in that subsection the same meanings as in that section.
+(8) Section 122B of the Banking (Prudential Supervision) Act 1989 applies with all necessary modifications for the purposes of subsection (6)﻿(b) (and those modifications include treating references to section 122(9A)﻿(b) of that Act as references to subsection (6)﻿(b) of this section and treating references to the grantor as references to the company that granted the security interest).
 
 ### 30A Extinguishment of subordinate security interests
 (1) If property has been disposed of by a receiver, all security interests in the property and its proceeds that are subordinate to the security interest of the person in whose interests the receiver was appointed are extinguished on the disposition of the property.
