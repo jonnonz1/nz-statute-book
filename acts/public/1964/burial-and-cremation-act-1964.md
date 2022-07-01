@@ -1,5 +1,5 @@
 # Burial and Cremation Act 1964
-_Consolidation as at 2021-11-06_
+_Consolidation as at 2022-07-01_
 
 > An Act to consolidate and amend the law relating to the burial and cremation of the dead
 
@@ -42,7 +42,7 @@ _Consolidation as at 2021-11-06_
     (a) is, or is deemed to be, registered with the Nursing Council of New Zealand continued by section 114(1)﻿(a) of the Health Practitioners Competence Assurance Act 2003 as a practitioner of the profession of nursing and whose scope of practice permits the performance of nurse practitioner functions; and
     (b) holds a current practising certificate
   - **private burial ground** means a parcel of land declared to be a private burial ground under the provisions of the Cemeteries Amendment Act 1912
-  - **registered bank** has the same meaning as in section 2 of the Reserve Bank of New Zealand Act 1989
+  - **registered bank** has the same meaning as in section 2 of the Banking (Prudential Supervision) Act 1989
   - **religious denomination** means the adherents of any religion and includes any church, sect, or other subdivision of such adherents
   - **specified not-for-profit entity** has the same meaning as in section 46 of the Financial Reporting Act 2013
   - **stillborn child** has the same meaning as in section 2 of the Births, Deaths, Marriages, and Relationships Registration Act 1995
