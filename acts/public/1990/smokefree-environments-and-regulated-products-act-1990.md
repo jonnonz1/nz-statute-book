@@ -1,5 +1,5 @@
 # Smokefree Environments and Regulated Products Act 1990
-_Consolidation as at 2021-11-28_
+_Consolidation as at 2022-07-01_
 
 > Title
 
@@ -1703,7 +1703,7 @@ All infringement fees paid in respect of infringement offences must be paid into
 
 ### 91 Appointment of enforcement officers
 (1) The Director-General must appoint to enforce this Act people who are—
-  (a) employees of the Ministry of Health, a local authority under the Local Government Act 2002, or a District Health Board under the New Zealand Public Health and Disability Act 2000; or
+  (a) employees of the Ministry of Health, a local authority under the Local Government Act 2002, or Health New Zealand established by the Pae Ora (Healthy Futures) Act 2022; or
   (b) employees or officers of some other person or body; or
   (c) officers designated under section 7A of the Health Act 1956; or
   (d) inspectors appointed under section 163 of the Health and Safety at Work Act 2015.
