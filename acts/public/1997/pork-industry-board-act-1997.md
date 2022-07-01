@@ -1,5 +1,5 @@
 # Pork Industry Board Act 1997
-_Consolidation as at 2021-10-28_
+_Consolidation as at 2022-07-01_
 
 > An Act to consolidate and amend the Pork Industry Board Act 1982
 
@@ -474,7 +474,7 @@ A licensee of licensed premises who—may recover from the owner of the pig when
   (b) the person provides to the Board such levy return or other information, verified in such manner as the Board may require, as in the Board's opinion enables the Board to determine the amount to be refunded.
 
 ### 41 Levy money to be held in trust accounts
-(1) Where any licensed premises are (regularly or from time to time) used for the slaughter of pigs, the licensee must keep for those premises a bank account (in this section referred to as a trust account) at a registered bank within the meaning of the Reserve Bank of New Zealand Act 1989; and—
+(1) Where any licensed premises are (regularly or from time to time) used for the slaughter of pigs, the licensee must keep for those premises a bank account (in this section referred to as a trust account) at a registered bank within the meaning of the Banking (Prudential Supervision) Act 1989; and—
   (a) ensure that it is so named as to identify those premises and that it is a trust account kept by the licensee for the purposes of this section; and
   (b) take all practicable steps to ensure that—
     (i) it is used only for holding amounts (being required by subsection (3) to be deposited in it) relating to those premises; and
