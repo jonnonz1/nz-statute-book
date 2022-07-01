@@ -1,5 +1,5 @@
 # Property Law Act 2007
-_Consolidation as at 2022-04-12_
+_Consolidation as at 2022-07-01_
 
 ### 1 Title
 This Act is the Property Law Act 2007.
@@ -1622,8 +1622,8 @@ A mortgagee in possession of mortgaged land is liable in damages to the followin
   (b) before enforcement of the security interest, the collateral is transferred or otherwise dealt with so as to be in the possession or under the control of—
     (i) the enforcing counterparty; or
     (ii) another person (who is not the person who granted the security interest) on behalf of the enforcing counterparty, under the terms of an arrangement evidenced in writing.
-(8) Terms and expressions defined in section 122A of the Reserve Bank of New Zealand Act 1989 and used in subsection (7) have in that subsection the same meanings as in that section.
-(9) Section 122B of the Reserve Bank of New Zealand Act 1989 applies with all necessary modifications for the purposes of subsection (7)﻿(b) (and those modifications include treating references to section 122(9A)﻿(b) of that Act as references to subsection (7)﻿(b) of this section and treating references to the grantor as references to the person who granted the security interest).
+(8) Terms and expressions defined in section 122A of the Banking (Prudential Supervision) Act 1989 and used in subsection (7) have in that subsection the same meanings as in that section.
+(9) Section 122B of the Banking (Prudential Supervision) Act 1989 applies with all necessary modifications for the purposes of subsection (7)﻿(b) (and those modifications include treating references to section 122(9A)﻿(b) of that Act as references to subsection (7)﻿(b) of this section and treating references to the grantor as references to the person who granted the security interest).
 
 ### 154 Transitional provisions relating to preferential claims
 (1) The provisions of section 104PPA of the Property Law Act 1952, as in force immediately before the commencement of the Personal Property Securities Act 1999, continue to apply in respect of a company’s property that was subject to a floating charge that, before that commencement, became a fixed or specific charge.
