@@ -1,5 +1,5 @@
 # Port Nicholson Block (Taranaki Whānui ki Te Upoko o Te Ika) Claims Settlement Act 2009
-_Consolidation as at 2022-04-12_
+_Consolidation as at 2022-07-01_
 
 ### 1 Title
 This Act is the Port Nicholson Block (Taranaki Whānui ki Te Upoko o Te Ika) Claims Settlement Act 2009.
@@ -1119,8 +1119,8 @@ The Crown may dispose of RFR land—
 ### 108 Disposals by Housing New Zealand Corporation
 Housing New Zealand Corporation, or any of its subsidiaries, may dispose of RFR land to any person if the Minister of Housing has given notice to the trustees that, in the Minister’s opinion, the disposal is to achieve, or assist in achieving, the Crown’s social objectives in relation to housing or services related to housing.
 
-### 109 Disposals by Capital and Coast District Health Board
-The Capital and Coast District Health Board (established by section 19(1) of the New Zealand Public Health and Disability Act 2000), or any of its subsidiaries, may dispose of RFR land to any person if the Minister of Health has given notice to the trustees that, in the Minister’s opinion, the disposal is to achieve, or assist in achieving, the district health board’s objectives.
+### 109 Disposals by Health New Zealand
+Health New Zealand (as defined in section 4 of the Pae Ora (Healthy Futures) Act 2022), or any of its subsidiaries, may dispose of RFR land to any person if the Minister of Health has given notice to the trustees that, in the Minister’s opinion, the disposal will achieve, or assist in achieving, Health New Zealand’s objectives.
 
 ### 110 RFR landowner’s obligations under this subpart
 (1) An RFR landowner’s obligations under this subpart in relation to RFR land are subject to—
