@@ -1,5 +1,5 @@
 # Veterans' Support Act 2014
-_Consolidation as at 2022-04-12_
+_Consolidation as at 2022-07-01_
 
 ### 1 Title
 This Act is the Veterans' Support Act 2014.
@@ -1088,7 +1088,7 @@ This Part applies to veterans to whom Part 3 or 4 applies.
   (b) a need for counselling arises from that injury or illness.
 (2) However, VANZ is not responsible for paying or contributing to the cost of treatment if—
   (a) the veteran is a member of the armed forces and the Defence Force is paying or contributing to the cost of the treatment; or
-  (b) the treatment is available under the New Zealand Public Health and Disability Act 2000; or
+  (b) the treatment is available under the Pae Ora (Healthy Futures) Act 2022; or
   (c) ACC is paying or contributing to the cost of the treatment.
 
 ### 108 Extent to which VANZ responsible for paying or contributing to cost of treatment
