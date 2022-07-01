@@ -1,5 +1,5 @@
 # New Zealand Public Health and Disability Amendment Act 2012
-_Consolidation as at 2012-06-06_
+_Consolidation as at 2022-07-01_
 
 ### 1 Title
 This Act is the New Zealand Public Health and Disability Amendment Act 2012.
@@ -19,7 +19,7 @@ Section 5 is amended by repealing subsection (7) and substituting the following 
 ### 5 Interpretation
 (1) Section 6(1) is amended by repealing the definition of CHFA.
 (2) The definition of publicly-owned health and disability organisation in section 6(1) is amended by omitting CHFA and substituting HPA.
-(3) Section 6(1) is amended by inserting the following definition in its appropriate alphabetical order:.
+(3) Section 6(1) is amended by inserting the following definition in its appropriate alphabetical order:
   - **HPA** means the Health Promotion Agency established by section 57
 
 ### 6 New headings and sections 57 to 59AA substituted
@@ -66,7 +66,7 @@ Sections 57 to 59 and the heading above section 57 are repealed and the followin
   (2) Schedules 4A and 4B apply for the purpose of this section.
 
 ### 7 Interpretation
-The definition of organisation in section 60 is amended by repealing paragraph (c) and substituting the following paragraph:.
+The definition of organisation in section 60 is amended by repealing paragraph (c) and substituting the following paragraph:
   (c) HPA:
 
 ### 8 Pharmac, NZBS, CHFA to operate in financially responsible manner
@@ -81,13 +81,13 @@ Section 92 is amended by adding the following subsections:
     (a) providing for returns to be made by persons importing into or manufacturing in New Zealand any alcohol, or any class or kind of alcohol, for the purpose of ascertaining the amount of any levy payable under this Act, and providing for the verification of returns:
     (b) exempting any person or class of persons from paying any levy that would otherwise be payable under this Act in any case where the cost of assessing or collecting the levy exceeds the amount payable by way of the levy:
     (c) amending or replacing the table in Schedule 4B, and amending, omitting, or reinserting the description of the method for determining variable rates.
-  (6) Regulations under subsection (5)(c) may be made only—
+  (6) Regulations under subsection (5)﻿(c) may be made only—
     (a) for the purpose of aligning the rates for classes of alcohol under this Act with the classification system applied to alcoholic beverages under Part B of the Excise and Excise-equivalent Duties Table (as defined in section 76A of the Customs and Excise Act 1996); and
     (b) after consultation with the Minister of Customs.
 
 ### 11 Amendments to Schedule 6
 (1) The heading to Schedule 6 is amended by omitting CHFA and substituting HPA.
-(2) The definition of organisation in clause 1 of Schedule 6 is amended by repealing paragraph (c) and substituting the following paragraph:.
+(2) The definition of organisation in clause 1 of Schedule 6 is amended by repealing paragraph (c) and substituting the following paragraph:
   (c) HPA:
 
 ### 12 New Schedules 4A and 4B inserted
