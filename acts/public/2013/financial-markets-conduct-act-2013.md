@@ -1,5 +1,5 @@
 # Financial Markets Conduct Act 2013
-_Consolidation as at 2022-06-30_
+_Consolidation as at 2022-07-01_
 
 ### 1 Title
 This Act is the Financial Markets Conduct Act 2013.
@@ -365,7 +365,7 @@ This Act has the following additional purposes:
     (b) in relation to an offer referred to in clause 26(1) of Schedule 1, means the entry for the offer in the register of offers of financial products that is required by regulations made for the purposes of that clause
   - **register of managed investment schemes** means the register of managed investment schemes kept under Schedule 2
   - **register of offers of financial products** means the register of offers of financial products kept under Schedule 2
-  - **registered bank** has the same meaning as in section 2(1) of the Reserve Bank of New Zealand Act 1989
+  - **registered bank** has the same meaning as in section 2(1) of the Banking (Prudential Supervision) Act 1989
   - **registered scheme** means a managed investment scheme that is registered on the register of managed investment schemes
   - **Registrar** means the Registrar of Financial Service Providers appointed under section 35 of the Financial Service Providers (Registration and Dispute Resolution) Act 2008
   - **regulated client money or property service** has the meaning set out in section 431W(4)
@@ -979,7 +979,7 @@ A register entry for a regulated offer is not required in the prescribed circums
   (c) A has not withdrawn the consent before the PDS is lodged with the Registrar.
 (2) Nothing in subsection (1) applies in relation to any statement given by an approved rating agency in connection with a rating given, or to be given, by it.
 (3) In this section and section 83(3),—
-  - **approved rating agency** means a rating agency nominated or approved under section 80 of the Reserve Bank of New Zealand Act 1989, section 86 of the Non-bank Deposit Takers Act 2013, or section 62 of the Insurance (Prudential Supervision) Act 2010
+  - **approved rating agency** means a rating agency nominated or approved under section 80 of the Banking (Prudential Supervision) Act 1989, section 86 of the Non-bank Deposit Takers Act 2013, or section 62 of the Insurance (Prudential Supervision) Act 2010
   - **endorsement** means a statement that—
     (a) may reasonably be regarded as encouraging or persuading persons to acquire the financial products on offer; and
     (b) relates to the particular financial products on offer or the particular issuer, rather than to financial products generally or issuers generally
@@ -2821,7 +2821,7 @@ A person (A) has a relevant interest in a financial product that another person 
   (e) A is a bare trustee of a trust to which the product is subject; or
   (f) A is a director of a body corporate and the body corporate has a relevant interest in the product; or
   (g) A is a product holder of a body corporate and the body corporate's constitution gives the product holder pre-emptive rights on the transfer of the product, if all product holders of the products have pre-emptive rights on the same terms; or
-  (h) A is an operator of a designated settlement system (as defined in section 156M(1) of the Reserve Bank of New Zealand Act 1989) and is acting in the ordinary course of that business.
+  (h) A is an operator of a designated settlement system (as defined in section 156M(1) of the Banking (Prudential Supervision) Act 1989) and is acting in the ordinary course of that business.
 (2) Subsection (1)﻿(a) to (h) do not apply to a person if the person is currently declared by the FMA, by notice under section 562(1)﻿(i), to be a person that is not exempt under any of those paragraphs.
 (3) For the purposes of subsection (1)﻿(e), a trustee may be a bare trustee even if he or she is entitled as a trustee to be remunerated out of the income or property of the trust.
 
@@ -3580,7 +3580,7 @@ To avoid doubt, market rules are not—
 (3) The FMA—
   (a) may, in carrying out the review, take into account the most recent report and other information provided under section 337 and any other information it considers appropriate; and
   (b) must, after carrying out the review, provide a draft written report on its review to the licensed market operator and take into account any submissions made by the licensed market operator within the reasonable period for submissions specified by the FMA.
-(4) The FMA must not carry out a review of a designated settlement system (within the meaning of section 156M(1) of the Reserve Bank of New Zealand Act 1989) of a licensed market operator under this section (but nothing in this subsection prevents a review under that Act being carried out in conjunction with a review under this section).
+(4) The FMA must not carry out a review of a designated settlement system (within the meaning of section 156M(1) of the Banking (Prudential Supervision) Act 1989) of a licensed market operator under this section (but nothing in this subsection prevents a review under that Act being carried out in conjunction with a review under this section).
 
 ### 339 FMA must make written report on market operator obligations review
 (1) The FMA must give a written report on a review under section 338 to the Minister and the licensed market operator—
@@ -4039,7 +4039,7 @@ A person must not provide any of the following market services without holding, 
 General exemptions
 (1) A person is exempt from the licensing requirement under section 388 to the extent that the person—
   (a) carries out activities that are covered by a financial product market licence:
-  (b) acts as the operator of a designated settlement system (within the meaning of Part 5C of the Reserve Bank of New Zealand Act 1989):
+  (b) acts as the operator of a designated settlement system (within the meaning of Part 5C of the Banking (Prudential Supervision) Act 1989):
   (c) carries out activities as a participant in a licensed market, or in another prescribed overseas market, in the prescribed circumstances.
 Exemptions for financial advice service
 (2) A person is exempt from the licensing requirement under section 388(ba) in respect of a service (unless a declaration applies under subpart 3 of Part 9) to the extent that—
@@ -4361,7 +4361,7 @@ The purpose of a disclosure statement under section 423 is to provide certain in
   (b) to change any instruction in relation to the provision of that service by the licensee or authorised body.
 
 ### 426 Disclosure statement
-(1) A disclosure statement may be combined with other disclosure statements under section 423 (and may be combined with other disclosure statements under this Act or the Reserve Bank of New Zealand Act 1989) except in the prescribed circumstances.
+(1) A disclosure statement may be combined with other disclosure statements under section 423 (and may be combined with other disclosure statements under this Act or the Banking (Prudential Supervision) Act 1989) except in the prescribed circumstances.
 (2) A disclosure statement must—
   (a) be in writing; and
   (b) state the date as at which the disclosure statement is prepared; and
