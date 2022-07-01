@@ -1,5 +1,5 @@
 # Charitable Trusts Act 1957
-_Consolidation as at 2022-06-01_
+_Consolidation as at 2022-07-01_
 
 > An Act to consolidate and amend certain enactments of the Parliament of New Zealand relating to charitable trusts
 
@@ -343,7 +343,7 @@ In any case where any advertisement has been published or any notice has been gi
 (1) Where any voluntary association has been constituted at any place for any charitable purpose within the meaning of Part 4, and the means for carrying out that purpose are raised by voluntary contributions from time to time, and the business of the association is carried on by office bearers elected by contributors or by a public meeting, it shall be lawful to provide in any scheme approved under Part 4 that the purposes of the scheme may in whole or in part be carried out, and the funds or parts thereof be administered, by any such voluntary association or by the office bearers for the time being of any such voluntary association.
 (2) Without restricting the foregoing provisions of this section or the power to make any other provision for carrying out the purposes of any scheme or for administering any property, income, or money to which any scheme applies, it is hereby declared that any scheme approved under Part 3 or Part 4 may provide that the purposes of the scheme may in whole or in part be carried out, and that any property, income, or money to which the scheme applies may be administered, by—
   (a) the trustees of any existing trust for any charitable purpose within the meaning of the Part of this Act under which the scheme is approved; or
-  (b) any district health board or the board of trustees of any separate institution under the Hospitals Act 1957; or
+  (b) Health New Zealand or the board of trustees of any separate institution under the Hospitals Act 1957; or
   (c) any corporation, or the governing body of any corporation, which is a trustee of any existing trust for any charitable purpose as defined in the Part of this Act under which the scheme is approved; or
   (d) Public Trust or any trustees who could be appointed under the Trusts Act 2019.
 
