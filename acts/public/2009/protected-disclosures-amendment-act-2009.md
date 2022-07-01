@@ -1,5 +1,5 @@
 # Protected Disclosures Amendment Act 2009
-_Consolidation as at 2009-05-05_
+_Consolidation as at 2022-07-01_
 
 ### 1 Title
 This Act is the Protected Disclosures Amendment Act 2009.
@@ -14,10 +14,10 @@ This Act amends the Protected Disclosures Act 2000.
 
 ### 4 Interpretation
 (1) Paragraph (e) of the definition of employee in section 3 is amended by adding (including a person who is a member of the board or governing body of the organisation).
-(2) The definition of employee in section 3 is amended by adding the following paragraph:.
+(2) The definition of employee in section 3 is amended by adding the following paragraph:
   (g) a person who works for the organisation as a volunteer without reward or expectation of reward for that work
 (3) Paragraph (b) of the definition of Ombudsman in section 3 is amended by omitting whom an Ombudsman and substituting whom the Chief Ombudsman.
-(4) Section 3 is amended by repealing the definition of public official and substituting the following definition:.
+(4) Section 3 is amended by repealing the definition of public official and substituting the following definition:
   - **public official** means a person who is an employee of a public sector organisation
 (5) Section 3 is amended by adding the following subsection as subsection (2):
   (2) An example used in this Act has the following status:
@@ -27,7 +27,7 @@ This Act amends the Protected Disclosures Act 2000.
 ### 5 Disclosures to which Act applies
 (1) Section 6(1) is amended by omitting the manner provided by and substituting accordance with.
 (2) Section 6 is amended by adding the following subsections:
-  (3) If an employee of an organisation believes on reasonable grounds that the information he or she discloses is about serious wrongdoing in or by that organisation but the belief is mistaken, the information must be treated as complying with subsection (1)(a) for the purposes of the protections conferred by this Act and by section 66(1)(a) of the Human Rights Act 1993.
+  (3) If an employee of an organisation believes on reasonable grounds that the information he or she discloses is about serious wrongdoing in or by that organisation but the belief is mistaken, the information must be treated as complying with subsection (1)﻿(a) for the purposes of the protections conferred by this Act and by section 66(1)﻿(a) of the Human Rights Act 1993.
   (4) This section is subject to section 6A.
 
 ### 6 New sections 6A to 6C inserted
@@ -40,7 +40,7 @@ The following sections are inserted after section 6:Technical failure to comply 
   (2) If an employee notifies the Office of the Ombudsmen, orally or in writing, that he or she has disclosed, or is considering the disclosure of, information under this Act, an Ombudsman must provide information and guidance to that employee on the following matters:
     (a) the kinds of disclosures that are protected under this Act:
     (b) the manner in which, and the persons to whom, information may be disclosed under this Act:
-    (c) the broad role of each authority referred to in paragraph (a)(i) to (x) of the definition of appropriate authority in section 3(1):
+    (c) the broad role of each authority referred to in paragraph (a)﻿(i) to (x) of the definition of appropriate authority in section 3(1):
     (d) the protections and remedies available under this Act and the Human Rights Act 1993 if the disclosure of information in accordance with this Act leads to victimisation of the person making the disclosure:
     (e) how particular information disclosed to an appropriate authority may be referred to another appropriate authority under this Act.
   ((1)) For the purpose of this Act, an Ombudsman may request 1 or more of the following from an organisation:
@@ -58,11 +58,11 @@ Section 10 is amended by repealing subsection (2) and substituting the following
 ### 8 New heading and sections 15 to 15E substituted
 Section 15 and the heading above that section are repealed and the following heading and sections substituted:Further provisions concerning OmbudsmenOmbudsmen may escalate disclosure to appropriate authority or Minister or investigate disclosureOmbudsmen may take over some investigations or investigate in conjunction with public sector organisationOmbudsmen may review and guide investigations by public sector organisationsOmbudsmen may receive reports on investigations and include information in annual reportChief Ombudsman may appoint persons to perform Ombudsman’s functions under this ActMiscellaneous provisions relating to Ombudsmen
   (1) An Ombudsman may, with the consent of an employee who has made a protected disclosure of information to any organisation, appropriate authority, or other person in accordance with this Act,—
-    (a) refer the disclosure to an appropriate authority or to another appropriate authority if the Ombudsman considers, after consultation with that appropriate authority, that any of the circumstances in section 9(1)(a) to (c) apply; or
-    (b) refer the disclosure to a Minister of the Crown if the Ombudsman considers, after consultation with that Minister, that any of the circumstances in section 10(1)(b)(i) to (iii) apply; or
+    (a) refer the disclosure to an appropriate authority or to another appropriate authority if the Ombudsman considers, after consultation with that appropriate authority, that any of the circumstances in section 9(1)﻿(a) to (c) apply; or
+    (b) refer the disclosure to a Minister of the Crown if the Ombudsman considers, after consultation with that Minister, that any of the circumstances in section 10(1)﻿(b)﻿(i) to (iii) apply; or
     (c) investigate the disclosure if the Ombudsman considers that—
       (i) the disclosure relates to a public sector organisation; and
-      (ii) any of the circumstances in section 9(1)(a) to (c) or 10(1)(b)(i) to (iii) apply.
+      (ii) any of the circumstances in section 9(1)﻿(a) to (c) or 10(1)﻿(b)﻿(i) to (iii) apply.
   (2) Subsection (1)—
     (a) applies despite sections 7 to 10:
     (b) does not authorise an Ombudsman to act if the protected disclosure of information is in respect of the Office of the Parliamentary Commissioner for the Environment.
@@ -74,7 +74,7 @@ Section 15 and the heading above that section are repealed and the following hea
   (6) This section is subject to sections 12 to 14.
   (1) An Ombudsman may take over an investigation of a disclosure of information by a public sector organisation, or investigate a disclosure of information in conjunction with a public sector organisation, if—
     (a) the disclosure is in respect of the public sector organisation; and
-    (b) the Ombudsman considers that any of the circumstances in section 10(1)(b)(i) to (iii) apply; and
+    (b) the Ombudsman considers that any of the circumstances in section 10(1)﻿(b)﻿(i) to (iii) apply; and
     (c) the employee who made the disclosure consents to the Ombudsman acting under this section; and
     (d) in the case of an investigation in conjunction with a public sector organisation, the public sector organisation consents to the Ombudsman acting under this section.
   (2) However, subsection (1) does not authorise an Ombudsman to act if the protected disclosure of information is in respect of the Office of the Parliamentary Commissioner for the Environment.
@@ -100,7 +100,7 @@ Section 15 and the heading above that section are repealed and the following hea
   (3) Sections 19, 20, and 30 of the Ombudsmen Act 1975 apply, with all necessary modifications, for the purpose of allowing an Ombudsman to obtain information, documents, papers, or things that would in his or her opinion assist him or her to act under section 6C, 15B, or 15C in relation to a public sector organisation.
 
 ### 9 New heading inserted
-The following heading is inserted above section 16:Reference from one appropriate authority to another of information disclosed.
+The following heading is inserted above section 16:Reference from one appropriate authority to another of information disclosed
 
 ### 10 Confidentiality
 (1) Section 19(2) is amended by inserting or under the Local Government Official Information and Meetings Act 1987 after Official Information Act 1982.
