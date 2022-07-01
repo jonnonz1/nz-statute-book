@@ -1,5 +1,5 @@
 # Insolvency (Cross-border) Act 2006
-_Consolidation as at 2021-10-28_
+_Consolidation as at 2022-07-01_
 
 ### 1 Title
 This Act is the Insolvency (Cross-border) Act 2006.
@@ -85,7 +85,7 @@ The purpose of this Schedule is to provide effective mechanisms for dealing with
   (b) assistance is sought in a foreign State in connection with a New Zealand insolvency proceeding; or
   (c) a foreign proceeding and a New Zealand insolvency proceeding in respect of the same debtor are taking place concurrently; or
   (d) creditors or other interested persons in a foreign State have an interest in requesting the commencement of, or participation in, a New Zealand insolvency proceeding.
-(2) This Schedule does not apply to a registered bank within the meaning of section 2(1) of the Reserve Bank of New Zealand Act 1989 that is subject to statutory management under that Act.
+(2) This Schedule does not apply to a registered bank within the meaning of section 2(1) of the Banking (Prudential Supervision) Act 1989 that is subject to statutory management under that Act.
 
 **Article 2. Definitions**
 
