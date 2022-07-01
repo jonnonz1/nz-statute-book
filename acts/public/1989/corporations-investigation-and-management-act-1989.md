@@ -1,5 +1,5 @@
 # Corporations (Investigation and Management) Act 1989
-_Consolidation as at 2021-10-28_
+_Consolidation as at 2022-07-01_
 
 > An Act to enable the Registrar of Companies and the Financial Markets Authority to determine whether corporations are at risk, to enable action to be taken in relation to such corporations in appropriate cases, and to repeal the Companies Special Investigations Act 1958
 
@@ -68,9 +68,9 @@ Nothing in this Act shall be regarded as imposing on the Registrar, or the FMA, 
 
 ### 8 Consultation with Reserve Bank
 (1) For the purposes of this section—
-  - **covered bond SPV** has the meaning given to it by section 139B of the Reserve Bank of New Zealand Act 1989
+  - **covered bond SPV** has the meaning given to it by section 139B of the Banking (Prudential Supervision) Act 1989
   - **licensed insurer** means a licensed insurer within the meaning of the Insurance (Prudential Supervision) Act 2010
-  - **registered bank** means a registered bank within the meaning of section 2(1) of the Reserve Bank of New Zealand Act 1989.
+  - **registered bank** means a registered bank within the meaning of section 2(1) of the Banking (Prudential Supervision) Act 1989.
 (2) The Registrar must consult the Reserve Bank of New Zealand before—
   (a) giving a written notice requiring any licensed insurer or registered bank to supply any information under section 9:
   (b) appointing any person to carry out an investigation of the affairs of any licensed insurer or registered bank under section 19:
@@ -306,7 +306,7 @@ If the Registrar or the FMA gives a notice to a corporation under section 30, or
 (2) Where an Order in Council is made under subsection (1), every subsidiary of a corporation declared to be subject to statutory management, except any subsidiary declared to be a subsidiary to which the order does not apply, shall be subject to statutory management, and the statutory manager or statutory managers so appointed shall be the statutory manager or statutory managers of every such subsidiary.
 (3) Every Order in Council made under subsection (1) must specify the date on which, and the time at which, the Order in Council comes into force.
 (4) The date and time as specified must not be earlier than the date on which, and the time at which, the Order in Council is made.
-(5) Subsections (1)﻿(a) and (2) are subject to section 139J(4) of the Reserve Bank of New Zealand Act 1989.
+(5) Subsections (1)﻿(a) and (2) are subject to section 139J(4) of the Banking (Prudential Supervision) Act 1989.
 (8) An Order in Council under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 39 Grounds on which corporation can be declared to be subject to statutory management
@@ -355,13 +355,13 @@ The FMA shall not make a recommendation under section 38 in respect of an associ
     (i) the termination, in accordance with the netting agreement, of all or any transactions that are subject to the netting agreement by reason of the occurrence of an event specified in the netting agreement, being an event (including the appointment of a statutory manager) occurring not later than the commencement of statutory management; or
     (ii) the taking of an account, in accordance with the netting agreement, of all money due between the parties to the netting agreement in respect of transactions affected by the termination; and
   (c) nothing in subsection (1) limits or prevents the exercise by a recognised clearing house (within the meaning of section 310A of the Companies Act 1993), of any right referred to in subsection (1)﻿(d) to (f) in respect of any property of that corporation if the right that is exercised has been granted to secure, or to assist in securing, the due performance, by that corporation, of obligations entered into by that corporation under a recognised multilateral netting agreement (within the meaning of that section).
-(8) In the case of netting under the rules of a settlement system that is declared to be a designated settlement system under Part 5C of the Reserve Bank of New Zealand Act 1989,—
+(8) In the case of netting under the rules of a settlement system that is declared to be a designated settlement system under Part 5C of the Banking (Prudential Supervision) Act 1989,—
   (a) nothing in subsection (1) limits or prevents the exercise of any rights relating to the calculation of a netted balance under those rules; and
   (b) nothing in subsection (1) limits or prevents the exercise of any right referred to in paragraphs (d) to (f) of that subsection in respect of any property of that corporation if the right that is exercised—
     (i) is provided under the rules of the designated settlement system; and
     (ii) has been granted to secure, or to assist in securing, the due performance, by that corporation, of obligations entered into by that corporation under those rules.
-(8A) Subsection (1) is subject to section 139J(1) to (3) of the Reserve Bank of New Zealand Act 1989.
-(9) For the purpose of subsection (8), netted balance, netting, and rules have the meanings set out in section 156M of the Reserve Bank of New Zealand Act 1989.
+(8A) Subsection (1) is subject to section 139J(1) to (3) of the Banking (Prudential Supervision) Act 1989.
+(9) For the purpose of subsection (8), netted balance, netting, and rules have the meanings set out in section 156M of the Banking (Prudential Supervision) Act 1989.
 (10) Nothing in subsection (1) limits or prevents the exercise of any rights to enforce a security interest over collateral to the extent that the security interest secures payment or performance of an obligation under or in relation to a qualifying derivative if—
   (a) the counterparties to the derivative are—
     (i) 2 qualifying counterparties; or
@@ -369,8 +369,8 @@ The FMA shall not make a recommendation under section 38 in respect of an associ
   (b) before the exercise of the rights, the collateral is transferred or otherwise dealt with so as to be in the possession or under the control of—
     (i) the enforcing counterparty; or
     (ii) another person (who is not the corporation that granted the security interest) on behalf of the enforcing counterparty, under the terms of an arrangement evidenced in writing.
-(11) Terms and expressions defined in section 122A of the Reserve Bank of New Zealand Act 1989 and used in subsection (10) have in that subsection the same meanings as in that section.
-(12) Section 122B of the Reserve Bank of New Zealand Act 1989 applies with all necessary modifications for the purposes of subsection (10)﻿(b) (and those modifications include treating references to section 122(9A)﻿(b) of that Act as references to subsection (10)﻿(b) of this section and treating references to the grantor as references to the corporation that granted the security interest).
+(11) Terms and expressions defined in section 122A of the Banking (Prudential Supervision) Act 1989 and used in subsection (10) have in that subsection the same meanings as in that section.
+(12) Section 122B of the Banking (Prudential Supervision) Act 1989 applies with all necessary modifications for the purposes of subsection (10)﻿(b) (and those modifications include treating references to section 122(9A)﻿(b) of that Act as references to subsection (10)﻿(b) of this section and treating references to the grantor as references to the corporation that granted the security interest).
 
 ### 43 Prohibition against removal of assets
 (1) Where a corporation is declared to be subject to statutory management, no person shall, except with the consent of the statutory manager, transfer, or remove from New Zealand, any property or assets of the corporation.
@@ -378,19 +378,19 @@ The FMA shall not make a recommendation under section 38 in respect of an associ
   (a) in the case of an individual, to imprisonment for a term not exceeding 3 years or to a fine not exceeding $50,000:
   (b) in the case of a corporation, to a fine not exceeding $250,000.
 (3) Nothing in subsection (2) shall prevent the issue of an injunction or the making of any order to prevent such property or assets being removed from New Zealand.
-(4) Subsection (1) is subject to section 139J(1) to (3) of the Reserve Bank of New Zealand Act 1989.
+(4) Subsection (1) is subject to section 139J(1) to (3) of the Banking (Prudential Supervision) Act 1989.
 
 ### 44 Statutory manager may suspend payment of money owing
 (1) The statutory manager of a corporation may, notwithstanding the terms of any contract, suspend in whole or in part the repayment of any deposit, or the payment of any debt, or the discharge of any obligation, to any person.
 (2) The suspension by a statutory manager in whole or in part of the repayment of any deposit, or the payment of any debt, or the discharge of any obligation, to any person pursuant to subsection (1) shall not constitute a breach or repudiation of any contract entered into by the corporation with any person.
 (3) Nothing in subsection (1) shall authorise the suspension by the statutory manager of the repayment of any deposit, or the payment of any debt, or the discharge of any obligation, to any person where the obligation to repay the deposit, or to pay the debt, or to discharge the obligation, was incurred by the corporation or by the statutory manager after the date upon which, and the time at which, the corporation became subject to statutory management.
-(4) Nothing in subsection (1) authorises the suspension by the statutory manager of the payment of any amount that would be included in the calculation of a netted balance in accordance with section 310C of the Companies Act 1993 or section 257 of the Insolvency Act 2006 or section 156T of the Reserve Bank of New Zealand Act 1989, as the case may be. However, subsection (1) applies to the payment of the netted balance.
-(5) Subsection (1) is subject to section 139J(1) to (3) of the Reserve Bank of New Zealand Act 1989.
+(4) Nothing in subsection (1) authorises the suspension by the statutory manager of the payment of any amount that would be included in the calculation of a netted balance in accordance with section 310C of the Companies Act 1993 or section 257 of the Insolvency Act 2006 or section 156T of the Banking (Prudential Supervision) Act 1989, as the case may be. However, subsection (1) applies to the payment of the netted balance.
+(5) Subsection (1) is subject to section 139J(1) to (3) of the Banking (Prudential Supervision) Act 1989.
 
 ### 45 Management of corporation to vest in statutory manager
 (1) Subject to this Part, where a corporation is declared to be subject to statutory management, the management of that corporation shall, on and after the date, and at and from the time, specified in the order, vest in the statutory manager of that corporation.
 (2) Where a corporation is declared to be subject to statutory management, it shall not be lawful or competent for any director, manager, or other person to be engaged in the management or conduct of the business of that corporation, or to act as an officer, or as the agent or servant, of the corporation, except with the permission of the statutory manager and so far as that permission extends.
-(3) Subsection (2) is subject to section 139J(1) to (3) of the Reserve Bank of New Zealand Act 1989.
+(3) Subsection (2) is subject to section 139J(1) to (3) of the Banking (Prudential Supervision) Act 1989.
 
 ### 46 Powers of statutory manager
 (1) Subject to this Part, a statutory manager of a corporation shall have all such powers, rights, and authorities as may be necessary to carry out the powers conferred by this Part.
@@ -454,8 +454,8 @@ Subject to this Part, a statutory manager of a corporation shall, for the purpos
   (b) before the exercise of rights to enforce the security interest, the collateral is transferred or otherwise dealt with so as to be in the possession or under the control of—
     (i) the enforcing counterparty; or
     (ii) another person (who is not the corporation that granted the security interest) on behalf of the enforcing counterparty, under the terms of an arrangement evidenced in writing.
-(9) Terms and expressions defined in section 122A of the Reserve Bank of New Zealand Act 1989 and used in subsection (8) have in that subsection the same meanings as in that section.
-(10) Section 122B of the Reserve Bank of New Zealand Act 1989 applies with all necessary modifications for the purposes of subsection (8)﻿(b) (and those modifications include treating references to section 122(9A)﻿(b) of that Act as references to subsection (8)﻿(b) of this section and treating references to the grantor as references to the corporation that granted the security interest).
+(9) Terms and expressions defined in section 122A of the Banking (Prudential Supervision) Act 1989 and used in subsection (8) have in that subsection the same meanings as in that section.
+(10) Section 122B of the Banking (Prudential Supervision) Act 1989 applies with all necessary modifications for the purposes of subsection (8)﻿(b) (and those modifications include treating references to section 122(9A)﻿(b) of that Act as references to subsection (8)﻿(b) of this section and treating references to the grantor as references to the corporation that granted the security interest).
 
 ### 52 Liquidation of corporations
 (1) Subject to this Part, a statutory manager of a corporation may,—
