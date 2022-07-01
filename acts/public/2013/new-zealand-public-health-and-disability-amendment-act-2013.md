@@ -1,5 +1,5 @@
 # New Zealand Public Health and Disability Amendment Act 2013
-_Consolidation as at 2013-05-20_
+_Consolidation as at 2022-07-01_
 
 ### 1 Title
 This Act is the New Zealand Public Health and Disability Amendment Act 2013.
@@ -61,7 +61,7 @@ After section 70, insert:Family care policiesPurpose of this PartInterpretationP
     (c) a determination cancelling a family care policy.
   (6) Before the commencement of section 38 of the Legislation Act 2012, subsection (5) must be read as if the reference to a disallowable instrument for the purposes of the Legislation Act 2012 were a reference to a regulation within the meaning of the Regulations (Disallowance) Act 1989.
   (7) Subsection (6) and this subsection are repealed on the day after the commencement of section 38 of the Legislation Act 2012.
-  (1) In this section, specified allegation means any assertion to the effect that a person's right to freedom from discrimination on 1 or more of the grounds stated in section 21(1)(b), (h), (i), and (l) of the Human Rights Act 1993, being the right affirmed by section 19 of the New Zealand Bill of Rights Act 1990, has been breached—
+  (1) In this section, specified allegation means any assertion to the effect that a person's right to freedom from discrimination on 1 or more of the grounds stated in section 21(1)﻿(b), (h), (i), and (l) of the Human Rights Act 1993, being the right affirmed by section 19 of the New Zealand Bill of Rights Act 1990, has been breached—
     (a) by this Part; or
     (b) by a family care policy; or
     (c) by anything done or omitted to be done in compliance, or intended compliance, with this Part or in compliance, or intended compliance, with a family care policy.
@@ -73,8 +73,8 @@ After section 70, insert:Family care policiesPurpose of this PartInterpretationP
   (5) Nothing in this section or in section 70D affects—
     (a) a complaint that is, in whole or in part, based on a specified allegation but that has been lodged with the Human Rights Commission or any court before 16 May 2013; or
     (b) the jurisdiction of the Human Rights Review Tribunal or of a court to hear and determine proceedings that arise out of a complaint described in paragraph (a).
-  (6) Despite subsection (5)(b), if in proceedings to which that subsection applies the Human Rights Review Tribunal or a court finds that a specified allegation has been proved, the Human Rights Review Tribunal or the court may grant no remedy other than the declaration described in subsection (7).
-  (7) The declaration that may be granted by the Human Rights Review Tribunal or the court in proceedings to which subsection (5)(b) applies is a declaration that the policy to which the finding relates is inconsistent with the right to freedom from discrimination affirmed by section 19 of the New Zealand Bill of Rights Act 1990.
+  (6) Despite subsection (5)﻿(b), if in proceedings to which that subsection applies the Human Rights Review Tribunal or a court finds that a specified allegation has been proved, the Human Rights Review Tribunal or the court may grant no remedy other than the declaration described in subsection (7).
+  (7) The declaration that may be granted by the Human Rights Review Tribunal or the court in proceedings to which subsection (5)﻿(b) applies is a declaration that the policy to which the finding relates is inconsistent with the right to freedom from discrimination affirmed by section 19 of the New Zealand Bill of Rights Act 1990.
   (1) The chief executive of the Ministry of Health may sign in respect of the Crown, and a chief executive of a DHB may sign in respect of the DHB, a certificate that states facts of the following kind in relation to the Crown or that DHB:
     (a) the contents of any family care policy that, in relation to any period of time, the Crown or the DHB currently has or that it previously had:
     (b) if the family care policy comes within paragraph (b) of the definition of that term set out in section 70B(1), a description of the practice followed by the Crown or the DHB.
