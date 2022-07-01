@@ -1,5 +1,5 @@
 # Civil Defence Emergency Management Act 2002
-_Consolidation as at 2022-04-12_
+_Consolidation as at 2022-07-01_
 
 ### 1 Title
 This Act is the Civil Defence Emergency Management Act 2002.
@@ -59,7 +59,7 @@ In this Act, unless the context otherwise requires,—
   - **Group Controller** means a person appointed as a Group Controller under section 26
   - **Group Recovery Manager** means a person appointed as a Group Recovery Manager under section 29
   - **hazard** means something that may cause, or contribute substantially to the cause of, an emergency
-  - **health and disability services** means health services and disability support services within the meaning of the New Zealand Public Health and Disability Act 2000
+  - **health and disability services** means services as defined in section 4 of the Pae Ora (Healthy Futures) Act 2022
   - **lifeline utility** means an entity named or described in Part A of Schedule 1, or that carries on a business described in Part B of Schedule 1
   - **local authority** means a local authority within the meaning of the Local Government Act 2002
   - **Local Recovery Manager** means a person appointed as a Local Recovery Manager under section 30
@@ -79,7 +79,7 @@ In this Act, unless the context otherwise requires,—
     (f) it results or is likely to result in or contribute to significant or irreversible changes to the environment (including the global environment)
   - **national transition period** means a national transition period notified under section 94A
   - **owner** , in relation to a structure, includes (but is not limited to) a person who owns part of the structure
-  - **provider of health and disability services** means provider within the meaning of the New Zealand Public Health and Disability Act 2000
+  - **provider of health and disability services** means a provider as defined in section 4 of the Pae Ora (Healthy Futures) Act 2022
   - **public place** means a place that, at any material time, is—
     (a) open to or is being used by the public, whether free or on payment of a charge, and whether or not any owner or occupier of the place is lawfully entitled to exclude or reject any person; and
     (b) includes, without limitation, any aircraft, hovercraft, ship or ferry or other vessel, train, or vehicle carrying or available to carry passengers for reward
