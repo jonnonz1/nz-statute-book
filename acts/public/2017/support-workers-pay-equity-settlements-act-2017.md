@@ -1,5 +1,5 @@
 # Support Workers (Pay Equity) Settlements Act 2017
-_Consolidation as at 2020-09-30_
+_Consolidation as at 2022-07-01_
 
 ### 1 Title
 This Act is the Support Workers (Pay Equity) Settlements Act 2017.
@@ -12,16 +12,17 @@ This Act comes into force on 1 July 2017.
 ### 3 Purpose
 (1) The purposes of this Act are—
   (a) to implement the settlement agreements described in subsection (2); and
-  (b) to apply the terms of those agreements to employers and support workers who were not party to the agreements.
+  (b) to apply the terms of those agreements to employers and support workers who were not party to the agreements; and
+  (c) to set minimum hourly wage rates for work performed by support workers after the expiry of those agreements.
 (2) The settlement agreements are—
-  (a) the agreement in respect of care and support workers signed on 2 May 2017 by or on behalf of the Crown, ACC, the 20 DHBs, E tū Incorporated, the New Zealand Public Service Association Te Pūkenga Here Tikanga Mahi Incorporated, the New Zealand Nurses Organisation Incorporated, and the New Zealand Council of Trade Unions Te Kauae Kaimahi Incorporated; and
+  (a) the agreement in respect of care and support workers signed on 2 May 2017 by or on behalf of the Crown, ACC, the predecessors of Health New Zealand, E tū Incorporated, the New Zealand Public Service Association Te Pūkenga Here Tikanga Mahi Incorporated, the New Zealand Nurses Organisation Incorporated, and the New Zealand Council of Trade Unions Te Kauae Kaimahi Incorporated; and
   (b) the agreement in respect of vocational and disability support workers signed on 17 July 2017 by or on behalf of the Crown, E tū Incorporated, the New Zealand Public Service Association Te Pūkenga Here Tikanga Mahi Incorporated, and the New Zealand Council of Trade Unions Te Kauae Kaimahi Incorporated; and
-  (c) the agreement in respect of mental health and addiction support workers signed on 25 July 2018 by or on behalf of the Crown, the 20 DHBs, Platform Charitable Trust, E tū Incorporated, the New Zealand Public Service Association Te Pūkenga Here Tikanga Mahi Incorporated, and the New Zealand Council of Trade Unions Te Kauae Kaimahi Incorporated.
+  (c) the agreement in respect of mental health and addiction support workers signed on 25 July 2018 by or on behalf of the Crown, the predecessors of Health New Zealand, Platform Charitable Trust, E tū Incorporated, the New Zealand Public Service Association Te Pūkenga Here Tikanga Mahi Incorporated, and the New Zealand Council of Trade Unions Te Kauae Kaimahi Incorporated.
 
 ### 4 Overview
 To achieve its purposes, this Act—
   (a) extinguishes existing claims and bars future claims by support workers under the Equal Pay Act 1972; and
-  (b) specifies minimum hourly wage rates payable by employers to support workers for work performed during the period starting on 1 July 2017 and ending on 30 June 2022; and
+  (b) specifies minimum hourly wage rates payable by employers to support workers for work performed during the period starting on 1 July 2017 and ending on 31 December 2023; and
   (c) requires employers to provide support for support workers to attain qualifications; and
   (d) provides for the funders to pay additional funding to employers towards the cost of employers’ obligations under this Act.
 
@@ -30,7 +31,7 @@ In this Act, unless the context otherwise requires,—
   - **ACC** means the Accident Compensation Corporation continued by section 259 of the Accident Compensation Act 2001
   - **care and support services** —
     (a) means—
-      (i) services that are funded by the Ministry of Health, a DHB, or ACC under a funding agreement that are performed in a person’s home (including residential care facilities, retirement villages, and rest homes) or workplace for the purpose of—
+      (i) services that are funded by Health New Zealand, the Māori Health Authority, or ACC under a funding agreement that are performed in a person’s home (including residential care facilities, retirement villages, and rest homes) or workplace for the purpose of—
         (A) assisting the person to continue to live in the person’s home or in the community (such as personal care and household management services); or
         (B) assisting a person who has a disability to work in the community; or
         (C) in respect of a person with an injury covered by the Accident Compensation Act 2001, supporting the person’s rehabilitation from the injury or supporting them to achieve and sustain their maximum level of participation in everyday life; and
@@ -56,22 +57,22 @@ In this Act, unless the context otherwise requires,—
         (B) the transfer was a result of restructuring (within the meaning of that term in section 69B of the Employment Relations Act 2000); but
     (b) unless otherwise agreed between the worker and the worker’s employer, does not include unpaid leave that is not referred to in paragraph (a)﻿(v) or (vi)
   - **Department of Corrections** means the department of the public service referred to by that name
-  - **DHB** means an organisation established as a DHB (District Health Board) by or under section 19 of the New Zealand Public Health and Disability Act 2000
   - **employee** means a person who is an employee within the meaning of that term in section 6(1)﻿(a) or (b)﻿(i) of the Employment Relations Act 2000
   - **employer** —
     (a) means—
       (i) a person, trust, or partnership that receives funding from a funder to provide support services; and
       (ii) the person or persons who have the legal authority to make decisions on behalf of an employer to which subparagraph (i) applies, if the employer does not itself have separate legal personality; and
       (iii) a person, trust, or partnership that provides support services on behalf of an employer to which subparagraph (i) applies as a subsidiary or a subcontractor; and
-      (iv) Canterbury DHB, Hutt DHB, Nelson Marlborough DHB, Waikato DHB, Wairarapa DHB, and West Coast DHB (each established by section 19 of the New Zealand Public Health and Disability Act 2000); but
-    (b) does not include a natural person who receives funding directly from the Ministry of Health, ACC, or a DHB towards the cost of care and support services for the person or a family member of the person
-  - **funder** means the Department of Corrections, the Ministry of Health, the Ministry of Social Development, Oranga Tamariki—Ministry for Children, a DHB, or ACC
+      (iv) Health New Zealand; but
+    (b) does not include a natural person who receives funding directly from ACC, Health New Zealand, or the Māori Health Authority towards the cost of care and support services for the person or a family member of the person
+  - **funder** means the Department of Corrections, the Ministry of Health, the Ministry of Social Development, Oranga Tamariki—Ministry for Children, Health New Zealand, the Māori Health Authority, or ACC
   - **funding agreement** means,—
     (a) in relation to funding agreements to which a funder other than ACC is a party, an agreement between the funder and an employer for the employer to provide support services in exchange for payments from the funder; and
     (b) in relation to funding agreements to which ACC is a party, an agreement between ACC and an employer that is titled—
       (i) Home and Community Support Services; or
       (ii) Individual Residential Support Services; or
       (iii) Residential Support Services
+  - **Health New Zealand** has the meaning in section 4 of the Pae Ora (Healthy Futures) Act 2022
   - **health practitioner** has the same meaning as in section 5(1) of the Health Practitioners Competence Assurance Act 2003
   - **level 2 qualification** means—
     (a) a level 2 New Zealand Certificate in Health and Wellbeing issued by NZQA; or
@@ -279,7 +280,7 @@ Nothing in this Act prevents an employer and a support worker from agreeing to a
   (ba) the Care and Support Workers (Pay Equity) Settlement Act 2017:
 
 ### 21 Repeal of this Act
-(1) Sections 9 to 20 and Schedule 2 are repealed on 1 July 2022.
+(1) Sections 9 to 20 and Schedule 2 are repealed on 1 January 2024.
 (2) The remainder of this Act is repealed on 1 July 2028.
 
 ## Schedule 1 — Transitional, savings, and related provisions
@@ -292,21 +293,10 @@ Nothing in this Act prevents an employer and a support worker from agreeing to a
 Every reference in any enactment and in any document to the Care and Support Workers (Pay Equity) Settlement Act 2017 must, unless the context provides otherwise, be read as a reference to the Support Workers (Pay Equity) Settlements Act 2017.
 
 ### 2 Employers to pay back pay
-(1) This clause applies if—
-  (a) a support worker other than a care and support worker provided support services during the applicable period; and
-  (b) the worker’s employer paid the worker for those services at a rate that is less than the rate that the employer would have been required to pay if the Support Workers (Pay Equity) Settlements Amendment Act 2020 had applied in respect of the worker during the applicable period.
-(2) The employer must, on the commencement of the Support Workers (Pay Equity) Settlements Amendment Act 2020, pay the worker an amount calculated as follows:a – bwhere—ais the amount that the employer would have been required to pay the worker for the provision of support services if the Support Workers (Pay Equity) Settlements Amendment Act 2020 had applied in respect of the worker during the applicable periodbis the amount that the employer actually paid the worker for the provision of support services during the applicable period.
-(3) The calculation must take into account all applicable entitlements and deductions required by law, those specified in the worker’s employment agreement, and any other term or condition otherwise agreed to between the worker and their employer.
-(4) In this clause, applicable period means the period starting on 1 July 2017 and ending on the day before the date on which the Support Workers (Pay Equity) Settlements Amendment Act 2020 comes into force.
+[Repealed]
 
 ### 3 Individually funded clients to pay back pay for mental health and addiction support services
-(1) This clause applies if—
-  (a) a person (an individually funded client) received funding directly from a funder towards the cost of mental health and addiction support services for that person during the applicable period; and
-  (b) the individually funded client employed a person (a worker) to provide the services; and
-  (c) the individually funded client paid the worker for those services at a rate that is less than the rate that the client would have been required to pay if the Support Workers (Pay Equity) Settlements Amendment Act 2020 had applied in respect of the worker during the applicable period.
-(2) The individually funded client must, on the commencement of the Support Workers (Pay Equity) Settlements Amendment Act 2020, pay the worker an amount calculated as follows:a – bwhere—ais the amount that the individually funded client would have been required to pay the worker for the provision of the services if the Support Workers (Pay Equity) Settlements Amendment Act 2020 had applied in respect of the worker during the applicable periodbis the amount that the individually funded client actually paid the worker for the provision of the services during the applicable period.
-(3) The calculation must take into account all applicable entitlements and deductions required by law, those specified in the worker’s employment agreement, and any other term or condition otherwise agreed to between the worker and the individually funded client.
-(4) In this clause, applicable period means the period starting on 1 July 2017 and ending on the day before the date on which the Support Workers (Pay Equity) Settlements Amendment Act 2020 comes into force.
+[Repealed]
 
 ### 4 Continuous employment for mental health and addiction support workers
 (1) This clause applies to a mental health and addiction support worker who was employed by an employer—
@@ -320,7 +310,7 @@ Every reference in any enactment and in any document to the Care and Support Wor
 ## Schedule 2 — Minimum hourly wages
 
 ### 1 Hourly wage rates for workers employed before 1 July 2017
-(1) The hourly wage for a support worker who is employed by an employer immediately before 1 July 2017 is the greater of the worker’s hourly wage under clause 2 and the applicable amount in the following table:The following table is small in size and has 5 columns. Column 1 is headed Worker’s length of service with employer. Column 2 is headed 1 July 2017 to 30 June 2018. Column 3 is headed 1 July 2018 to 30 June 2019. Column 4 is headed 1 July 2019 to 30 June 2021. Column 5 is headed 1 July 2021 to 30 June 2022.Worker’s length of service with employer1 July 2017 to 30 June 20181 July 2018 to 30 June 20191 July 2019 to 30 June 20211 July 2021 to 30 June 2022Less than 3 years$19.00$19.80$20.50$21.503 years or more but less than 8 years$20.00$21.00$21.50$23.008 years or more but less than 12 years$21.00$22.50$23.00$25.0012 years or more, if subclause (2) applies$22.50$23.50$24.50$26.0012 years or more, if subclause (2) does not apply$23.50$24.50$25.50$27.00
+(1) The hourly wage for a support worker who is employed by an employer immediately before 1 July 2017 is the greater of the worker’s hourly wage under clause 2 and the applicable amount in the following tables:The following table is small in size and has 5 columns. Column 1 is headed Worker’s length of service with employer. Column 2 is headed 1 July 2017 to 30 June 2018. Column 3 is headed 1 July 2018 to 30 June 2019. Column 4 is headed 1 July 2019 to 30 June 2021. Column 5 is headed 1 July 2021 to 30 June 2022.Worker’s length of service with employer1 July 2017 to 30 June 20181 July 2018 to 30 June 20191 July 2019 to 30 June 20211 July 2021 to 30 June 2022Less than 3 years$19.00$19.80$20.50$21.503 years or more but less than 8 years$20.00$21.00$21.50$23.008 years or more but less than 12 years$21.00$22.50$23.00$25.0012 years or more, if subclause (2) applies$22.50$23.50$24.50$26.0012 years or more, if subclause (2) does not apply$23.50$24.50$25.50$27.00The following table is small in size and has 2 columns. Column 1 is headed Worker’s length of service with employer. Column 2 is headed 1 July 2022 to 31 December 2023.Worker’s length of service with employer1 July 2022 to 31 December 2023Less than 3 years$22.493 years or more but less than 8 years$24.068 years or more but less than 12 years$26.1612 years or more, if subclause (2) applies$27.2012 years or more, if subclause (2) does not apply$28.25
 (2) This subclause applies to a support worker if—
   (a) the worker commenced employment with the employer on or after 1 July 2005; and
   (b) the worker has not attained a level 4 qualification; and
@@ -328,7 +318,7 @@ Every reference in any enactment and in any document to the Care and Support Wor
 (3) In this clause, a support worker’s length of service is the length of time that the worker has been continuously employed by the worker’s current employer (but, if paragraph (a)﻿(vii) of the definition of continuous employment in section 5 applies, includes the length of time that the worker was continuously employed by the worker’s previous employer).
 
 ### 2 Hourly wage rates for workers employed on or after 1 July 2017
-The hourly wage for a support worker who commences employment with an employer on or after 1 July 2017 is the applicable amount in the following table:The following table is small in size and has 5 columns. Column 1 is headed Worker’s level of qualification. Column 2 is headed 1 July 2017 to 30 June 2018. Column 3 is headed 1 July 2018 to 30 June 2019. Column 4 is headed 1 July 2019 to 30 June 2021. Column 5 is headed 1 July 2021 to 30 June 2022.Worker’s level of qualification1 July 2017 to 30 June 20181 July 2018 to 30 June 20191 July 2019 to 30 June 20211 July 2021 to 30 June 2022No relevant qualification$19.00$19.80$20.50$21.50Level 2 qualification$20.00$21.00$21.50$23.00Level 3 qualification$21.00$22.50$23.00$25.00Level 4 qualification$23.50$24.50$25.50$27.00
+The hourly wage for a support worker who commences employment with an employer on or after 1 July 2017 is the applicable amount in the following tables:The following table is small in size and has 5 columns. Column 1 is headed Worker’s level of qualification. Column 2 is headed 1 July 2017 to 30 June 2018. Column 3 is headed 1 July 2018 to 30 June 2019. Column 4 is headed 1 July 2019 to 30 June 2021. Column 5 is headed 1 July 2021 to 30 June 2022.Worker’s level of qualification1 July 2017 to 30 June 20181 July 2018 to 30 June 20191 July 2019 to 30 June 20211 July 2021 to 30 June 2022No relevant qualification$19.00$19.80$20.50$21.50Level 2 qualification$20.00$21.00$21.50$23.00Level 3 qualification$21.00$22.50$23.00$25.00Level 4 qualification$23.50$24.50$25.50$27.00The following table is small in size and has 2 columns. Column 1 is headed Worker’s level of qualification. Column 2 is headed 1 July 2022 to 31 December 2023.Worker’s level of qualification1 July 2022 to 31 December 2023No relevant qualification$22.49Level 2 qualification$24.06Level 3 qualification$26.16Level 4 qualification$28.25
 
 ### 3 Adjustment for year ending 30 June 2022
 (1) This clause applies if the compound annual growth rate for the Labour Cost Index for the period starting on 1 July 2017 and ending on 30 June 2021 is more than 1.7%, in which case the result of the following formula will be greater than 0.017:(a ÷ b)0.25 − 1where—ais the Labour Cost Index at 30 June 2021bis the Labour Cost Index at 30 June 2017.
