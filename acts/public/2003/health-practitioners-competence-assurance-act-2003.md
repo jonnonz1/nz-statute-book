@@ -1,5 +1,5 @@
 # Health Practitioners Competence Assurance Act 2003
-_Consolidation as at 2021-10-28_
+_Consolidation as at 2022-07-01_
 
 ### 1 Title
 This Act is the Health Practitioners Competence Assurance Act 2003.
@@ -610,7 +610,7 @@ The purpose of sections 54 to 63 is to encourage effective quality assurance act
   - **investigation** means any of the following:
     (a) the proceedings of a Royal Commission or a commission of inquiry appointed by an Order in Council made under the Commissions of Inquiry Act 1908:
     (aa) an inquiry to which section 6 of the Inquiries Act 2013 applies:
-    (b) the proceedings of an inquiry board appointed under the New Zealand Public Health and Disability Act 2000:
+    (b) the proceedings of an inquiry board appointed under the Pae Ora (Healthy Futures) Act 2022:
     (c) an inquiry required by the Director of Mental Health under section 95 of the Mental Health (Compulsory Assessment and Treatment) Act 1992:
     (d) an inquiry conducted by the Director-General of Health:
     (e) an inquiry or investigation conducted by the Health and Disability Commissioner:
@@ -706,12 +706,12 @@ A quality assurance activity ceases to be a protected quality assurance activity
 (3) Nothing in section 59 prohibits the disclosure of any information with the consent of every person who would be directly or indirectly identified by the disclosure.
 (4) Nothing in section 59 prohibits the disclosure of any information to the Minister, or to any person authorised by the Minister, for the purpose of enabling the Minister to decide whether or not to authorise the disclosure of the information under section 61.
 (5) Nothing in section 59 prohibits the disclosure of any information for the purposes of the prosecution of an offence against section 59(6).
-(6) Nothing in section 59 prohibits the production or disclosure of information to a mortality review committee in accordance with a requirement of the chairperson of the committee, or of an agent appointed by the committee, under clause 2 of Schedule 5 of the New Zealand Public Health and Disability Act 2000.
+(6) Nothing in section 59 prohibits the production or disclosure of information to a mortality review committee in accordance with a requirement of the chairperson of the committee, or of an agent appointed by the committee, under clause 2 of Schedule 5 of the Pae Ora (Healthy Futures) Act 2022.
 
 ### 61 Minister may authorise disclosure of information
 (1) If the Minister is satisfied, in respect of any information to which section 59 applies, that the information relates to conduct (whenever occurring) that constitutes or may constitute a serious offence, the Minister may, by notice in writing signed by the Minister, authorise the disclosure of that information, in any manner and on any conditions that are specified in the notice, for any 1 or more of the following purposes:
   (a) for the purposes of the investigation and prosecution of offences:
-  (b) for the purposes of a Royal Commission, or a commission of inquiry appointed by an Order in Council made under the Commissions of Inquiry Act 1908, or an inquiry board appointed under the New Zealand Public Health and Disability Act 2000:
+  (b) for the purposes of a Royal Commission, or a commission of inquiry appointed by an Order in Council made under the Commissions of Inquiry Act 1908, or an inquiry board appointed under the Pae Ora (Healthy Futures) Act 2022:
   (c) for the purposes of an inquiry to which section 6 of the Inquiries Act 2013 applies.
 (2) Subsection (1) does not authorise the Minister to authorise the disclosure of information of a non-factual nature (such as expressions of opinion) unless the information consists only of matter contained in a report prepared by a person who engaged in the protected quality assurance activity.
 (3) The Minister may at any time—
@@ -864,7 +864,7 @@ A registrar of a court in New Zealand who knows that a person convicted in the c
     (i) the particulars of the matter; and
     (ii) the membership or intended membership of the professional conduct committee that is to consider the matter; and
   (b) in the case of a complaint, that the complainant is given written notice of the membership or intended membership of the professional conduct committee that is to consider the matter.
-(2) As soon as reasonably practicable after a further matter concerning a health practitioner is referred to a professional conduct committee under section 68(4), the authority must ensure that the health practitioner is given written notice of the particulars of the further matter.
+(2) As soon as reasonably practicable after a further matter concerning a health practitioner is referred to a professional conduct committee under section 68(2), the authority must ensure that the health practitioner is given written notice of the particulars of the further matter.
 (3) Subsection (1) is subject to section 154.
 
 ### 75 Practitioners and complainants may request changes in membership of professional conduct committee
