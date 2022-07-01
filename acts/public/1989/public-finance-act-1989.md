@@ -1,5 +1,5 @@
 # Public Finance Act 1989
-_Consolidation as at 2022-04-12_
+_Consolidation as at 2022-07-01_
 
 > Title
 
@@ -42,7 +42,7 @@ _Consolidation as at 2022-04-12_
     (c) in relation to any other appropriation, means the Minister responsible for that appropriation
   - **asset** means an asset that is defined, recognised, and measured in accordance with generally accepted accounting practice
   - **Auditor-General** has the meaning given to it by section 4 of the Public Audit Act 2001
-  - **bank** , in relation to a bank operating within New Zealand, means the Reserve Bank of New Zealand or a registered bank under the Reserve Bank of New Zealand Act 1989
+  - **bank** , in relation to a bank operating within New Zealand, means the Reserve Bank of New Zealand or a registered bank under the Banking (Prudential Supervision) Act 1989
   - **benefit** means an amount of public money provided by the Crown for the benefit of some person
   - **borrow money** —
     (a) includes—
@@ -2157,7 +2157,7 @@ Any money paid by the Crown under a guarantee or indemnity given under section 6
 (3) The persons are—
   (a) the Reserve Bank of New Zealand; or
   (b) the Governor of the Reserve Bank of New Zealand; or
-  (c) the Deputy Governor of the Reserve Bank of New Zealand.
+  (c)
 (4) The Secretary's power to delegate under this section is in addition to the Secretary's powers under clause 2(1) of Schedule 6 of the Public Service Act 2020.
 (5) Clauses 2(3) to (15) and 3 of Schedule 6 of the Public Service Act 2020 apply to a delegation under this section as if it were a delegation made under clause 2(1) of Schedule 6 of that Act.
 
