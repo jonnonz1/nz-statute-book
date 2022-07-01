@@ -1,5 +1,5 @@
 # Local Government Act 1974
-_Consolidation as at 2022-04-12_
+_Consolidation as at 2022-07-01_
 
 > An Act to consolidate and amend the law relating to the reorganisation of the districts and functions of local authorities, to make better provision for the administration of those functions which can most effectively be carried out on a regional basis, and to make provision for the establishment of united councils, regional councils, district councils, district community councils, and community councils and to consolidate and amend the Municipal Corporations Act 1954, the Counties Act 1956, the Local Authorities (Petroleum Tax) Act 1970, and provisions of other Acts of the Parliament of New Zealand relating to the powers and functions of regional councils, united councils, and territorial local authorities
 
@@ -32,7 +32,6 @@ _Consolidation as at 2022-04-12_
   - **Director of Maritime New Zealand** means the person for the time being holding the office of Director of Maritime New Zealand under section 439 of the Maritime Transport Act 1994
   - **district** means the district of a local authority; and includes a region
   - **district council** means a district council constituted under Part 1A
-  - **district health board** means a district health board established by or under section 19 of the New Zealand Public Health and Disability Act 2000
   - **district plan** , , in relation to a district plan, and have the same meaning as in section 2 of the Resource Management Act 1991
   - **elector** means a person qualified to be an elector by virtue of section 23 or section 24 of the Local Electoral Act 2001
   - **engineer** , in relation to any council, means the engineer appointed by the council; and includes any person for the time being appointed by the council to perform the duties of engineer thereto
