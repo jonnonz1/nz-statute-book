@@ -1,5 +1,5 @@
 # Personal Property Securities Act 1999
-_Consolidation as at 2022-05-25_
+_Consolidation as at 2022-07-01_
 
 > An Act to reform the law relating to security interests in personal property and, in particular,—ato provide for the creation and enforceability of security interests in personal property; andbto provide for the determination of priority between security interests in the same personal property; andcto provide for the determination of priority between security interests and other types of interests in the same personal property; anddto provide for the enforcement of security interests in personal property other than consumer goods; andeto provide for the establishment of a register of security interests in personal property
 
@@ -905,12 +905,12 @@ A perfected security interest in crops is not extinguished or prejudicially affe
 (4) Whether a loss has been incurred and whether a participant has defaulted, for the purposes of this section, must be determined by reference to, and in accordance with, the rules of the designated settlement system.
 (5) This section overrides anything in this Act to the contrary.
 (6) In this section,—
-  - **operator** means an operator of a designated settlement system who is (and at the time in question remains) specified under section 156N(3)﻿(c) of the Reserve Bank of New Zealand Act 1989 as being an operator to whom this section applies
+  - **operator** means an operator of a designated settlement system who is (and at the time in question remains) specified under section 156N(3)﻿(c) of the Banking (Prudential Supervision) Act 1989 as being an operator to whom this section applies
   - **participant** —
     (a) means a person who has agreed to participate in a settlement system in accordance with the rules of that system; and
-    (b) includes an operator of a designated settlement system if the designation under section 156N(3)﻿(b) of the Reserve Bank of New Zealand Act 1989 so provides
-  - **rules** means the rules of a designated settlement system, as that term is defined in paragraph (b) of the definition of rules in section 156M of the Reserve Bank of New Zealand Act 1989.
-(7) In this section, designated settlement system and settlement have the meanings given to them by section 2(1) or 156M of the Reserve Bank of New Zealand Act 1989.
+    (b) includes an operator of a designated settlement system if the designation under section 156N(3)﻿(b) of the Banking (Prudential Supervision) Act 1989 so provides
+  - **rules** means the rules of a designated settlement system, as that term is defined in paragraph (b) of the definition of rules in section 156M of the Banking (Prudential Supervision) Act 1989.
+(7) In this section, designated settlement system and settlement have the meanings given to them by section 2(1) or 156M of the Banking (Prudential Supervision) Act 1989.
 
 **Priority of interests under qualifying derivatives**
 
@@ -922,8 +922,8 @@ A perfected security interest in crops is not extinguished or prejudicially affe
   (b) before the enforcement of the security interest, the collateral is transferred or otherwise dealt with so as to be in the possession or under the control of—
     (i) the enforcing counterparty; or
     (ii) another person (who is not the debtor that granted the security interest) on behalf of the enforcing counterparty, under the terms of an arrangement evidenced in writing.
-(2) Terms and expressions defined in section 122A of the Reserve Bank of New Zealand Act 1989 and used in this section (including the definitions of collateral and possession) have in this section the same meanings as in section 122A.
-(3) Section 122B of the Reserve Bank of New Zealand Act 1989 applies with all necessary modifications for the purposes of this section (and those modifications include treating references to section 122(9A)﻿(b) of that Act as references to subsection (1)﻿(b) of this section and treating references to the grantor as references to the debtor that granted the security interest).
+(2) Terms and expressions defined in section 122A of the Banking (Prudential Supervision) Act 1989 and used in this section (including the definitions of collateral and possession) have in this section the same meanings as in section 122A.
+(3) Section 122B of the Banking (Prudential Supervision) Act 1989 applies with all necessary modifications for the purposes of this section (and those modifications include treating references to section 122(9A)﻿(b) of that Act as references to subsection (1)﻿(b) of this section and treating references to the grantor as references to the debtor that granted the security interest).
 (4) This section overrides anything in this Act to the contrary (other than section 103A).
 
 ## Part 9 — Enforcement of security interests
