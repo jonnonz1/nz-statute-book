@@ -1,5 +1,5 @@
 # Employment Relations Act 2000
-_Consolidation as at 2021-11-26_
+_Consolidation as at 2022-07-01_
 
 ### 1 Title
 This Act is the Employment Relations Act 2000.
@@ -1179,7 +1179,7 @@ The object of this Part is—
 ### 67B Effect of trial provision under section 67A
 (1) This section applies if a small-to-medium-sized employer terminates an employment agreement containing a trial provision under section 67A by giving the employee notice of the termination before the end of the trial period, whether the termination takes effect before, at, or after the end of the trial period.
 (2) An employee whose employment agreement is terminated in accordance with subsection (1) may not bring a personal grievance or legal proceedings in respect of the dismissal.
-(3) Neither this section nor a trial provision prevents an employee from bringing a personal grievance or legal proceedings on any of the grounds specified in section 103(1)﻿(b) to (j).
+(3) Neither this section nor a trial provision prevents an employee from bringing a personal grievance or legal proceedings on any of the grounds specified in section 103(1)﻿(b) to (k).
 (4) An employee whose employment agreement contains a trial provision is, in all other respects (including access to mediation services), to be treated no differently from an employee whose employment agreement contains no trial provision or contains a trial provision that has ceased to have effect.
 (5) Subsection (4) applies subject to the following provisions:
   (a) in observing the obligation in section 4 of dealing in good faith with the employee, the small-to-medium-sized employer is not required to comply with section 4(1A)﻿(c) in making a decision whether to terminate an employment agreement under this section; and
@@ -2677,8 +2677,8 @@ A code of practice may be amended or revoked in the same manner as the code is a
 (1) The Governor-General may, by Order in Council made on the recommendation of the Minister, amend or replace the code of good faith for the public health sector set out in Schedule 1B.
 (2) The Minister must not make a recommendation under subsection (1) unless—
   (a) requested to do so by—
-    (i) not less than three-quarters of district health boards; and
-    (ii) unions who represent not less than three-quarters of union members employed by district health boards; and
+    (i) Health New Zealand; and
+    (ii) unions who represent not less than three-quarters of union members employed by Health New Zealand; and
   (b) the Minister has consulted the Minister of Health and such other persons and organisations as he or she considers appropriate.
 (3) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
@@ -2731,7 +2731,8 @@ An employee who believes that he or she has a personal grievance may pursue that
   (i) that the employee’s employer has contravened section 67F or 67G(3); or
   (j) that the employee’s employer has, in relation to the employee,—
     (i) engaged in adverse conduct for a prohibited health and safety reason; or
-    (ii) contravened section 92 of the Health and Safety at Work Act 2015 (which prohibits coercion or inducement).
+    (ii) contravened section 92 of the Health and Safety at Work Act 2015 (which prohibits coercion or inducement); or
+  (k) that the employer has retaliated, or threatened to retaliate, against the employee in breach of section 21 of the Protected Disclosures (Protection of Whistleblowers) Act 2022 (because the employee intends to make or has made a protected disclosure).
 (2) For the purposes of this Part, a representative, in relation to an employer and in relation to an alleged personal grievance, means a person—
   (a) who is employed by that employer; and
   (b) who either—
@@ -2896,8 +2897,13 @@ For the purposes of sections 103(1)﻿(e) and 123(d), an employee is racially ha
     (ii) requests, instructs, induces, encourages, authorises, or assists another person to engage in adverse conduct for a prohibited health and safety reason:
   (b) detriment includes anything that has a detrimental effect on the employee’s employment, job performance, or job satisfaction.
 
+### 110B Retaliation against whistleblower
+(1) For the purposes of this Part, retaliate has the meaning given in section 21 of the Protected Disclosures (Protection of Whistleblowers) Act 2022.
+(2) An employer may be found to have retaliated, or threatened to retaliate, only if the protected disclosure was a substantial reason for the employer’s relevant actions or omissions.
+(3) The burden of proof is on the employer to prove, on the balance of probabilities, that the disclosure was not a substantial reason for the employer’s actions or omissions.
+
 ### 111 Definitions relating to personal grievances
-Each of the terms personal grievance, discrimination, sexual harassment, adverse treatment in employment of people affected by family violence, racial harassment, duress, and adverse conduct for prohibited health and safety reason have in any employment agreement the meanings given to those terms by sections 103, 104, 105, 106, 107, 108, 108A, 109, 110, and 110A unless the employment agreement gives an extended meaning to the term.
+Each of the terms personal grievance, discrimination, sexual harassment, adverse treatment in employment of people affected by family violence, racial harassment, duress, adverse conduct for prohibited health and safety reason, and retaliate have in any employment agreement the meanings given to those terms by sections 103, 104, 105, 106, 107, 108, 108A, 109, 110, 110A, and 110B unless the employment agreement gives an extended meaning to the term.
 
 ### 112 Choice of procedures
 (1) Where the circumstances giving rise to a personal grievance by an employee are also such that that employee would be entitled to make a complaint under the Human Rights Act 1993, the employee may take 1, but not both, of the following steps:
@@ -5166,7 +5172,7 @@ The operation of—
 The manufacture or supply of surgical and dialysis solutions.
 
 ### 13
-The manufacture or supply of a pharmaceutical that is for the time being listed in the pharmaceutical schedule under the New Zealand Public Health and Disability Act 2000.
+The manufacture or supply of a pharmaceutical that is for the time being listed in the pharmaceutical schedule under the Pae Ora (Healthy Futures) Act 2022.
 
 ### 14
 The operation of a residential welfare institution or prison.
@@ -5191,17 +5197,16 @@ The operation of meat inspection services associated with the slaughtering or su
 
 ### 1 Application
 (1) This code applies to the following parties to an employment relationship in the public health sector:
-  (a) district health boards:
-  (b) employees of district health boards:
-  (c) unions whose members are employees of district health boards:
-  (d) other employers to the extent that they provide services to district health boards or the New Zealand Blood Service:
-  (e) employees of the employers referred to in paragraph (d) to the extent that they are engaged in providing services to district health boards or the New Zealand Blood Service:
-  (f) unions whose members are employees referred to in paragraph (e):
-  (g) the New Zealand Blood Service:
-  (h) employees of the New Zealand Blood Service:
-  (i) unions whose members are employees of the New Zealand Blood Service.
-(2) However, to avoid doubt, subclause (1)﻿(d) and (e) applies in relation to the provision of services only if the services are provided to a district health board or the New Zealand Blood Service in its role as a provider of services.
-(3) Before a district health board or the New Zealand Blood Service enters into an agreement or arrangement with another employer for the provision of services to the district health board or the New Zealand Blood Service, the district health board or the New Zealand Blood Service must notify the employer that this code will apply to the employer in relation to the provision of those services.
+  (a) Health New Zealand and the Māori Health Authority:
+  (b) employees of Health New Zealand or the Māori Health Authority:
+  (c) unions whose members are employees of Health New Zealand or the Māori Health Authority:
+  (d) other employers to the extent that they provide services to Health New Zealand, the Māori Health Authority, or the New Zealand Blood and Organ Service:
+  (e) employees of the employers referred to in paragraph (d) to the extent that they are engaged in providing services to Health New Zealand, the Māori Health Authority, or the New Zealand Blood and Organ Service:
+  (f) the New Zealand Blood and Organ Service:
+  (g) employees of the New Zealand Blood and Organ Service:
+  (h) unions whose members are employees of the New Zealand Blood and Organ Service.
+(2) However, to avoid doubt, subclause (1)﻿(d) and (e) applies in relation to the provision of services only if the services are provided to Health New Zealand, the Māori Health Authority, or the New Zealand Blood and Organ Service in its role as a provider of services.
+(3) Before Health New Zealand, the Māori Health Authority, or the New Zealand Blood and Organ Service enters into an agreement or arrangement with another employer for the provision of services to it, it must notify the employer that this code will apply to the employer in relation to the provision of those services.
 (4) However, failure to comply with subclause (3) does not affect the validity of an agreement or arrangement referred to in that subclause.
 
 ### 2 Purpose
@@ -5217,7 +5222,7 @@ The purpose of this code is—
 
 ### 3 Interpretation
 In this code, unless the context otherwise requires,—
-  - **good employer** has the same meaning as in section 6(1) of the New Zealand Public Health and Disability Act 2000
+  - **good employer** has the same meaning as in section 118 of the Crown Entities Act 2004
   - **health professional** means—
     (a) an employee who provides services to patients as a health practitioner (as defined in section 5 of the Health Practitioners Competence Assurance Act 2003); and
     (b) any other employee who works in a recognised clinical discipline providing services for the purpose of assessing, improving, protecting, or managing the physical or mental health of individuals or groups of individuals
@@ -5230,7 +5235,7 @@ In this code, unless the context otherwise requires,—
     (e) care required for therapeutic services without which permanent disability would occur:
     (f) urgent diagnostic procedures required to obtain information on conditions that could potentially lead to permanent disability
   - **services** —
-    (a) has the same meaning as in section 6(1) of the New Zealand Public Health and Disability Act 2000; and
+    (a) has the same meaning as in section 4 of the Pae Ora (Healthy Futures) Act 2022; and
     (b) to avoid doubt,—
       (i) includes cleaning services, food catering services, laundry services, and orderly services; but
       (ii) does not include building construction services.
@@ -5261,8 +5266,8 @@ Every employer must be a good employer.
 (1) The parties must support collective bargaining, including multi-employer collective agreements, where it is practical and reasonable to do so.
 (2) The parties must, as far as practical and reasonable, support the definition of coverage that best recognises the parties' commitment to collective employment arrangements.
 
-### 7 Principles of the Treaty of Waitangi
-The parties must recognise and support Part 3 of the New Zealand Public Health and Disability Act 2000 which, in order to recognise the principles of the Treaty of Waitangi and with a view to improving health outcomes for Maori, provides mechanisms to enable Maori to contribute to decision-making on, and to participate in the delivery of, health and disability services.
+### 7 Health sector principles
+The parties must recognise and support the health sector principles in section 7(1) of the Pae Ora (Healthy Futures) Act 2022.
 
 **Collective bargaining**
 
@@ -5344,7 +5349,7 @@ To avoid doubt, clauses 14 to 16 do not prevent a union from making public comme
 
 ### 19 Outsourcing or direct provision of services
 (1) This clause applies if—
-  (a) an employer is a district health board or the New Zealand Blood Service; and
+  (a) an employer is Health New Zealand, the Māori Health Authority, or the New Zealand Blood and Organ Service; and
   (b) the employer obtains services from its employees; and
   (c) the employer engages or arranges for another employer to provide some or all of those services—
     (i) to the employer (outsourcing); or
@@ -5353,13 +5358,13 @@ To avoid doubt, clauses 14 to 16 do not prevent a union from making public comme
 
 ### 20 Change in provider of outsourced services
 (1) This clause applies if—
-  (a) a district health board or the New Zealand Blood Service has outsourced (within the meaning of clause 19(1)﻿(c)﻿(i)) the provision of services to it by another employer; and
+  (a) Health New Zealand, the Māori Health Authority, or the New Zealand Blood and Organ Service has outsourced (within the meaning of clause 19(1)﻿(c)﻿(i)) the provision of services to it by another employer; and
   (b) the agreement or arrangement under which the other employer provides those services comes to an end; and
-  (c) the district health board or the New Zealand Blood Service makes an agreement or arrangement with a new employer to provide some or all of those services to it.
+  (c) Health New Zealand, the Māori Health Authority, or the New Zealand Blood and Organ Service makes an agreement or arrangement with a new employer to provide some or all of those services to it.
 (2) The employees of the employer referred to in subclause (1)﻿(b) who are affected by the outsourcing are entitled to be employed by the other employer on the same terms and conditions as applied to the employees immediately before the agreement or arrangement referred to in subclause (1)﻿(b) came to an end.
 
 ### 21 Obligation to notify provisions of clauses 19 and 20
-(1) Before a district health board or the New Zealand Blood Service enters into an agreement or arrangement with a new employer to which clause 19 or clause 20 applies, it must notify the employer of the provisions of clause 19 or clause 20, whichever applies in the circumstances.
+(1) Before Health New Zealand, the Māori Health Authority, or the New Zealand Blood and Organ Service enters into an agreement or arrangement with a new employer to which clause 19 or clause 20 applies, it must notify the employer of the provisions of clause 19 or clause 20, whichever applies in the circumstances.
 (2) However, failure to comply with subclause (1) does not affect the validity of an agreement or arrangement referred to in that subclause.
 (3) This clause is in addition to clause 1(3).
 
