@@ -1,5 +1,5 @@
 # Greater Christchurch Regeneration Act 2016
-_Consolidation as at 2022-04-12_
+_Consolidation as at 2022-07-01_
 
 ### 1 Title
 This Act is the Greater Christchurch Regeneration Act 2016.
@@ -596,12 +596,7 @@ Any requirements to offer land back under the Public Works Act 1981 continue to 
 ### Subpart 6 — Transfer of assets, liabilities, and land
 
 ### 137 Interpretation in this subpart
-In this subpart,—
-  - **assets** means property of any kind, but excludes land
-  - **liabilities** includes—
-    (a) liabilities and obligations under any Act or agreement; and
-    (b) contingent liabilities
-  - **third party** , in relation to an asset or liability, means a party that has an interest, a right, or an obligation in relation to the asset or liability.
+[Repealed]
 
 ### 138 Regenerate Christchurch may transfer assets and liabilities
 [Repealed]
@@ -613,52 +608,20 @@ In this subpart,—
 [Repealed]
 
 ### 141 Transfer of Crown agreements, etc
-(1) The Minister or chief executive may transfer to a party specified in subsection (2) any of the Crown’s rights, obligations, or liabilities under any agreement or undertaking entered into by the Crown for any purpose of the Canterbury Earthquake Recovery Act 2011 or this Act.
-(2) The parties are—
-  (a) a council:
-  (b) a council organisation.
-  (c)
-(3) Rights, obligations, or liabilities may be transferred under this section only if the transferee has agreed to accept the rights, obligations, or liabilities.
-(4) A transfer under this section is made by notice in writing delivered to the transferee and every other party to the agreement or undertaking.
-(5) From the date of transfer, any rights, obligations, or liabilities transferred under this section—
-  (a) cease to be the rights, obligations, or liabilities of the Crown; and
-  (b) become the rights, obligations, or liabilities of the transferee.
-(6) Nothing in section 11 applies to a transfer under this section.
+[Repealed]
 
 ### 142 Transfer of Crown assets, liabilities, and land to Ōtākaro Limited
-(1) The Minister or the chief executive may transfer to Ōtākaro Limited—
-  (a) any of the Crown’s assets and liabilities (including, without limitation, in relation to any authorisation or consent of any kind and any of the Crown’s rights, obligations, or liabilities under any agreement or undertaking entered into by the Crown for any purpose of the Canterbury Earthquake Recovery Act 2011 or this Act):
-  (b) any land held by the Crown under the Canterbury Earthquake Recovery Act 2011 or this Act.
-(2) Assets, liabilities, or land may be transferred under this section only if Ōtākaro Limited has agreed to accept the assets, liabilities, or land.
-(3) A transfer of land under this section is subject to the chief executive being satisfied that any requirements under the Canterbury Earthquake Recovery Act 2011 or this Act to offer the land back before its disposal have been complied with.
-(4) A transfer of assets and liabilities under this section is made by notice in writing delivered to Ōtākaro Limited and any third party.
-(5) From the date of transfer, any assets or liabilities transferred under this section—
-  (a) cease to be the assets or liabilities of the Crown; and
-  (b) become the assets or liabilities of Ōtākaro Limited.
-(6) Nothing in section 11 applies to a transfer under this section.
+[Repealed]
 
 **Transfer of designations to Ōtākaro Limited**
 
 ### 143 Transfer of designations to Ōtākaro Limited
-(1) In this section,—
-  - **designation** means any of designations H1 to H10 described in Chapter 10 of the district plan
-  - **district plan** means the replacement district plan prepared under the Canterbury Earthquake (Christchurch Replacement District Plan) Order 2014
-  - **Minister** means the Minister for Canterbury Earthquake Recovery
-  - **RMA** means the Resource Management Act 1991.
-(2) If the Minister transfers financial responsibility for a project to Ōtākaro Limited, the benefit of any designation that is relevant to the project is transferred to Ōtākaro Limited.
-(3) The Minister must advise the Minister for the Environment and Christchurch City Council that the designation is transferred to Ōtākaro Limited and, for the purposes of section 175(2)﻿(b) of the RMA, Christchurch City Council must, as soon as practicable and without using the process in Schedule 1 of the RMA, note the transfer in the district plan.
-(4) Sections 176, 176A, 177, 179, 180, 181, 182, and 184 of the RMA apply, with any necessary modifications, to Ōtākaro Limited in relation to a designation transferred under this section as if Ōtākaro Limited were a requiring authority within the meaning of section 166 of the RMA.
-(5) Nothing in section 11 applies to a transfer under this section.
+[Repealed]
 
 **Transfer does not affect rights, etc**
 
 ### 144 Transfer does not affect rights, etc
-Nothing effected or authorised by a transfer under this subpart—
-  (a) may be regarded as placing any person in breach of an agreement or a confidence or as otherwise making any person liable for a civil wrong; or
-  (b) may be regarded as giving rise to a right for any person to terminate or cancel an agreement, or to accelerate the performance of any obligation; or
-  (c) may be regarded as placing any person in breach of an enactment, a rule of law, or a provision of an agreement prohibiting, restricting, or regulating the assignment or transfer of property or the disclosure of information; or
-  (d) releases a surety wholly or in part from any obligation; or
-  (e) invalidates or discharges any agreement.
+[Repealed]
 
 ### Subpart 7 — Miscellaneous provisions
 
