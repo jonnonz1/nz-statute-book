@@ -1,5 +1,5 @@
 # Maritime Transport Act 1994
-_Consolidation as at 2021-11-16_
+_Consolidation as at 2022-07-01_
 
 > An Act—ato continue Maritime New Zealand; andbto enable the implementation of New Zealand’s obligations under international maritime agreements; andcto ensure that participants in the maritime transport system are responsible for their actions; anddto consolidate and amend maritime transport law; andefto protect the marine environment; andgto continue, or enable, the implementation of obligations on New Zealand under various international conventions relating to pollution of the marine environment; andhto regulate maritime activities in New Zealand and New Zealand waters; andito regulate maritime activities and the marine environment in the exclusive economic zone and on the continental shelf as permitted under international law
 
@@ -1123,7 +1123,7 @@ If the result of a seafarer's evidential breath test appears to be positive, the
   (b) has examined the person and is satisfied that the taking of the blood specimen would not be prejudicial to the person's proper care or treatment; and
   (c) tells the person (unless the person is unconscious) that the blood specimen is being or was taken under this section for evidential purposes.
 (6) If a blood specimen is taken under this section from a person who is unconscious, the medical practitioner or medical officer who took the specimen must notify the person in writing as soon as practicable that the specimen was taken under this section for evidential purposes.
-(7) No civil or criminal proceedings may be taken against the Crown, a district health board, or any other person in respect of the taking of a blood specimen under this section, or in respect of the sending of a blood specimen to an approved laboratory, on the ground of lack of consent of a person whose consent to the taking of the blood specimen would have been otherwise required by law if this section had not been enacted.
+(7) No civil or criminal proceedings may be taken against the Crown, Health New Zealand, or any other person in respect of the taking of a blood specimen under this section, or in respect of the sending of a blood specimen to an approved laboratory, on the ground of lack of consent of a person whose consent to the taking of the blood specimen would have been otherwise required by law if this section had not been enacted.
 (8) Nothing in subsection (7) applies to any proceeding on the ground of any negligent act or omission in the taking of a blood specimen.
 
 ### 40N Procedure for dealing with blood specimens
