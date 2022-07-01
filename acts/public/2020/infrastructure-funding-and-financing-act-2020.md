@@ -1,5 +1,5 @@
 # Infrastructure Funding and Financing Act 2020
-_Consolidation as at 2021-10-28_
+_Consolidation as at 2022-07-01_
 
 ### 1 Title
 This Act is the Infrastructure Funding and Financing Act 2020.
@@ -1007,7 +1007,7 @@ In this subpart,—
   - **financial statements** has the same meaning as in section 6 of the Financial Reporting Act 2013
   - **generally accepted accounting practice** has the same meaning as in section 8 of the Financial Reporting Act 2013
   - **qualified auditor** has the same meaning as in section 35 of the Financial Reporting Act 2013
-  - **registered bank** has the same meaning as in section 2(1) of the Reserve Bank of New Zealand Act 1989.
+  - **registered bank** has the same meaning as in section 2(1) of the Banking (Prudential Supervision) Act 1989.
 
 ### 107 Levy account
 A responsible SPV must—
