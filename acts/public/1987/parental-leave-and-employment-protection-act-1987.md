@@ -1,5 +1,5 @@
 # Parental Leave and Employment Protection Act 1987
-_Consolidation as at 2021-10-28_
+_Consolidation as at 2022-07-01_
 
 > Title
 
@@ -118,12 +118,7 @@ Administrative matters
 An employee's entitlement to rights and benefits in respect of parental leave must be determined by treating each of the employee's employments separately, if the employee has more than 1 employment.
 
 ### 2AB Multiple employments of certain medical practitioners
-(1) This section applies to a medical practitioner who is an employee of a district health board and—
-  (a) is undertaking training that is described by the Minister by notice as training to which this section applies; and
-  (b) in order to complete the training, is required to work for more than 1 district health board.
-(2) For the purposes of determining the entitlement of a medical practitioner to whom this section applies to rights and benefits in respect of parental leave, if, during a 12-month period (or 6-month period, as the case may be), the medical practitioner is employed by more than 1 district health board consecutively, those employments must be treated as 1 employment.
-(3) A notice under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
-(4) This section overrides section 2A.
+[Repealed]
 
 ### 2AC Multiple employments of teachers
 (1) For the purposes of determining the entitlement of a teacher to rights and benefits in respect of parental leave, if, during a 12-month period (or 6-month period as the case may be), the teacher is employed by more than 1 board to work in more than 1 State school or integrated school (whether concurrently or consecutively), those employments must be treated as 1 employment.
@@ -1237,16 +1232,16 @@ A person is not entitled to a parental leave payment in respect of a child if—
 
 ### 71M Amount of parental leave payment
 (1) The rate of parental leave payment payable to any eligible employee is the lesser of—
-  (a) $621.76 per week (or any adjusted amount set under section 71N(1) or any other amount set under section 71O); and
+  (a) $661.12 per week (or any adjusted amount set under section 71N(1) or any other amount set under section 71O); and
   (b) the greater of—
     (i) 100% of the employee's ordinary weekly pay before the commencement of the parental leave payments; and
     (ii) 100% of the employee's average weekly income from work.
 (1A) The rate of parental leave payment payable to any eligible self-employed person is the lesser of—
-  (a) $621.76 per week (or any adjusted amount set under section 71N(1) or any other amount set under section 71O); and
+  (a) $661.12 per week (or any adjusted amount set under section 71N(1) or any other amount set under section 71O); and
   (b) the greater of—
     (i) 100% of the self-employed person's average weekly income from work; and
     (ii) the minimum amount of parental leave payment for a self-employed person set under section 71N(4).
-(1B) The rate of parental leave payment payable to a person who is eligible for a parental leave payment as an employee and also as a self-employed person may not exceed $621.76 per week (or any adjusted amount set under section 71N(1) or any other amount set under section 71O), despite subsections (1) and (1A).
+(1B) The rate of parental leave payment payable to a person who is eligible for a parental leave payment as an employee and also as a self-employed person may not exceed $661.12 per week (or any adjusted amount set under section 71N(1) or any other amount set under section 71O), despite subsections (1) and (1A).
 (2)
 
 ### 71N Annual adjustment of parental leave payment rates
