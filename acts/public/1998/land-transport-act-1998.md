@@ -1,5 +1,5 @@
 # Land Transport Act 1998
-_Consolidation as at 2022-02-23_
+_Consolidation as at 2022-07-01_
 
 > An Act—ato promote safe road user behaviour and vehicle safety; andbto provide for a system of rules governing road user behaviour, the licensing of drivers, and technical aspects of land transport, and to recognise reciprocal obligations of persons involved; andcto consolidate and amend various enactments relating to road safety and land transport; anddto enable New Zealand to implement international agreements relating to road safety and land transport
 
@@ -2129,7 +2129,7 @@ If this section applies because an exception described in section 65AB(2) applie
   (b) has examined the person and is satisfied that the taking of the blood specimen would not be prejudicial to the person's proper care or treatment; and
   (c) tells the person (unless the person is unconscious) that the blood specimen is being or was taken under this section for evidential purposes.
 (6) If a blood specimen is taken under this section from a person who is unconscious, the health practitioner or medical officer who took the specimen must notify the person in writing as soon as practicable that the specimen was taken under this section for evidential purposes.
-(7) No civil or criminal proceedings may be taken against the Crown, a district health board, or any other person in respect of the taking of a blood specimen under this section, or in respect of the sending of a blood specimen to an approved laboratory, on the ground of lack of consent of a person whose consent to the taking of the blood specimen would have been otherwise required by law if this section had not been enacted.
+(7) No civil or criminal proceedings may be taken against the Crown, Health New Zealand, or any other person in respect of the taking of a blood specimen under this section, or in respect of the sending of a blood specimen to an approved laboratory, on the ground of lack of consent of a person whose consent to the taking of the blood specimen would have been otherwise required by law if this section had not been enacted.
 (8) Nothing in subsection (7) applies to any proceeding on the ground of any negligent act or omission in the taking of a blood specimen.
 
 ### 73A Evidence of controlled drug in blood sample taken under section 72 or 73 may not be used as evidence of use of controlled drugs in prosecutions under Misuse of Drugs Act 1975
