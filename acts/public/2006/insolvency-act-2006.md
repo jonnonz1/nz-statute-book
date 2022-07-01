@@ -1,5 +1,5 @@
 # Insolvency Act 2006
-_Consolidation as at 2021-10-28_
+_Consolidation as at 2022-07-01_
 
 ### 1 Title
 This Act is the Insolvency Act 2006.
@@ -1442,7 +1442,7 @@ A bankrupt who gives a charge within 6 months immediately before adjudication is
   (a) repayment of the money actually advanced or paid by the secured creditor to the bankrupt when or after the bankrupt gave the charge; or
   (b) payment of the actual price or value of property sold or supplied by the secured creditor to the bankrupt when or after the bankrupt gave the charge; or
   (c) payment of any other liability of the bankrupt to the secured creditor in respect of any other valuable consideration given in good faith when or after the bankrupt gave the charge.
-(3) Nothing in this section applies to any payments received by any registered bank within the meaning of the Reserve Bank of New Zealand Act 1989 in good faith in the ordinary course of business and without negligence.
+(3) Nothing in this section applies to any payments received by any registered bank within the meaning of the Banking (Prudential Supervision) Act 1989 in good faith in the ordinary course of business and without negligence.
 
 ### 203 Charge agreed before specified period may not be cancelled
 A charge given by the bankrupt under an agreement to give the charge—
