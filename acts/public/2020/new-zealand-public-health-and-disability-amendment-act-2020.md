@@ -1,5 +1,5 @@
 # New Zealand Public Health and Disability Amendment Act 2020
-_Consolidation as at 2020-08-11_
+_Consolidation as at 2022-07-01_
 
 ### 1 Title
 This Act is the New Zealand Public Health and Disability Amendment Act 2020.
