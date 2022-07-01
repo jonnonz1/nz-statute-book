@@ -1,5 +1,5 @@
 # New Zealand Public Health and Disability Act 2000
-_Consolidation as at 2021-11-06_
+_Consolidation as at 2022-07-01_
 
 ### 1 Title
 This Act is the New Zealand Public Health and Disability Act 2000.
