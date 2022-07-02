@@ -1,5 +1,5 @@
 # Referendums Framework Act 2019
-_Consolidation as at 2021-10-28_
+_Consolidation as at 2022-07-02_
 
 ### 1 Title
 This Act is the Referendums Framework Act 2019.
