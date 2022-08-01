@@ -1,13 +1,11 @@
 # Education and Training Act 2020
-_Consolidation as at 2022-07-01_
+_Consolidation as at 2022-08-01_
 
 ### 1 Title
 This Act is the Education and Training Act 2020.
 
 ### 2 Commencement
-(1) Sections 17 and 18 come into force on the earlier of the following:
-  (a) a date appointed by the Governor-General by Order in Council:
-  (b) the day that is two years after the date on which this Act receives the Royal assent.
+(1) Sections 17 to 18C come into force on 1 February 2023.
 (2) Sections 90, 134, 138 to 146, 164, 165, 174 and Part 2 of Schedule 26 come into force on 1 January 2023.
 (3) Sections 71 to 75 and 127(1)﻿(d) and Schedule 20 come into force on 1 January 2021.
 (4) The rest of this Act comes into force on the day after the date on which it receives the Royal assent.
@@ -127,18 +125,22 @@ The purpose of this Act is to establish and regulate an education system that—
   (g) clause 4(b) and (d) of Schedule 13, which provides that Te Pūkenga—New Zealand Institute of Skills and Technology must operate in a way that allows it to develop meaningful partnerships with Māori employers and communities and to reflect Māori-Crown partnerships to ensure that its governance, management, and operations give effect to Te Tiriti o Waitangi and to respond to the needs of, and improve outcomes for, Māori learners, whānau, hapū, and iwi.
 (2) Other provisions related to Te Tiriti o Waitangi in the context of the regulation of the education system include—
   (a) the definition of school community in section 10(1), which includes a Māori community associated with a school; and
-  (b) section 17(2)﻿(a), which provides that before the Minister may approve a licence for an early childhood education and care centre, the Minister must take into account the availability of services in the area with different offerings, for example, the provision of te reo Māori; and
+  (b) section 17(2)﻿(a), which provides that before the Minister may grant approval to apply for an early childhood service, the Minister must take into account the availability of services in the area with different offerings, for example, the provision of te reo Māori; and
   (c) sections 278(2)﻿(a), 320(1)﻿(c), 325(1) and (3), 326(2), and 363(3)﻿(b), which provide for Māori contribution to decision making in tertiary education and vocational education and training; and
   (d) section 281(1)﻿(b), which provides that councils of institutions have a duty, in the performance of their functions and the exercise of their powers, to acknowledge the principles of Te Tiriti o Waitangi; and
   (e) section 315(f), which provides that one of the functions of Te Pūkenga—New Zealand Institute of Skills and Technology is to improve outcomes for Māori learners and Māori communities in collaboration with Māori and iwi partners and interested persons or bodies; and
   (f) section 402, which provides that TEC comprises members appointed in accordance with section 28(1)﻿(a) of the Crown Entities Act 2004 after consultation with the Minister for Māori Development; and
   (g) section 476(4)﻿(b)﻿(v), which provides that when considering whether to appoint a person as a member of the Teaching Council, the Minister must have regard to the collective skills, experience, and knowledge making up the overall composition of the Teaching Council, including understanding of the partnership principles of Te Tiriti o Waitangi; and
+  (ga) section 535B, which provides for how a code administrator must exercise and perform its functions, powers, and duties in relation to Te Tiriti o Waitangi; and
+  (gb) section 536A(1), which provides for how a DRS operator must exercise and perform its functions, powers, and duties in relation to Te Tiriti o Waitangi; and
   (h) section 597(2)﻿(d), which provides that a good employer in the education service is an employer who operates an employment policy containing provisions requiring recognition of the aims and aspirations of Māori, the employment requirements of Māori, and the need for greater involvement of Māori in the education service.
 
 ### 10 Interpretation
 (1) In this Act, unless the context otherwise requires,—
   - **academic year** means a period of 12 months commencing on 1 January
-  - **accreditation** means an accreditation granted under section 441
+  - **accreditation** means the following:
+    (a) an accreditation to provide an approved programme or part of a programme under section 441:
+    (b) an accreditation to provide an approved micro-credential under section 446A
   - **adult student** means a student who is aged 20 years or over
   - **affected student** means a student who is required to attend school in accordance with a multiple timetable arrangement
   - **allowance** includes a bursary, a grant, and a scholarship
@@ -153,11 +155,11 @@ The purpose of this Act is to establish and regulate an education system that—
     (d) is facilitated by a person that receives funding from TEC
   - **apprenticeship training agreement** means an agreement between an employee and their employer that relates to the employee’s receipt of, or that provides for the employee to receive, apprenticeship training
   - **apprenticeship training code** means the training code (if any) issued under section 378
+  - **approved micro-credential** means a micro-credential approved under section 445
   - **approved programme** means a programme approved under section 439
-  - **approved training scheme** means a training scheme approved under section 445
   - **award** means—
-    (a) a certificate, diploma, degree, or other qualification listed on the Qualifications Framework:
-    (b) a certificate or other document granted in recognition of a student's achievement in and completion of a training scheme:
+    (a) a certificate, diploma, degree, or other qualification listed on the Qualifications and Credentials Framework:
+    (b) a certificate or other document granted in recognition of a student's achievement in and completion of a micro-credential:
     (c) a certificate granted in recognition of a student's achievement in scholarship examinations as part of the student’s secondary education
   - **board member** means a member of a board constituted under subpart 5 of Part 3
   - **board of trustees** or means a board constituted under subpart 5 of Part 3 and,—
@@ -172,14 +174,15 @@ The purpose of this Act is to establish and regulate an education system that—
   - **Chief Referee** means the person appointed as Chief Referee under section 219(1)
   - **Chief Review Officer** means the chief executive of the Education Review Office
   - **closing date** , in relation to a levy, means the date, specified in the ballot paper under clause 10(b) of Schedule 16, by which ballot papers must be returned
-  - **code** , in relation to pastoral care, means a code of practice issued under section 534
-  - **code administrator** means a person or agency appointed under regulations made under section 648
+  - **code** , in relation to well-being and safety, means a code of practice issued under section 534
+  - **code administrator** means a person or agency appointed under section 535A
   - **cohort entry policy** means a policy that provides for a child who proposes to enrol at a State school to be assigned to a group of children and for all of the children in that group to be enrolled in the school on the same date, being a date that is determined in accordance with section 64
   - **combined board** means a board that governs more than 1 school
   - **community of learning** means a community of learning approved by the Minister in accordance with section 116
   - **Competence Authority** means the Competence Authority established by rules made under section 486
   - **Complaints Assessment Committee** means the Complaints Assessment Committee established by rules made under section 486
   - **composite school** means a school that offers education to students in any of years 1 to 8 and in any of years 9 to 13
+  - **consensual methods** means dispute resolution processes in which the parties reach mutual agreement on the outcome of the dispute (for example, facilitation or mediation)
   - **contract of enrolment** , in relation to an international student, means a written contract entered into between the student (or a parent of the student if the student is under the age of 18 years) and the board of a State school that entitles the student to receive tuition at the school
   - **contributing school** means a school that offers education to students in years 1 to 6
   - **council** ,—
@@ -188,7 +191,7 @@ The purpose of this Act is to establish and regulate an education system that—
   - **Crown entity group** has the meaning given by section 136(1) of the Crown Entities Act 2004
   - **deputy chief referee** means a person appointed as a deputy chief referee under section 219(3)
   - **designated character school** means a school designated in accordance with sections 204 and 205
-  - **Directory of Assessment Standards** means the Directory of Assessment Standards described in section 437
+  - **Directory of Assessment and Skill Standards** means the Directory of Assessment and Skill Standards described in section 437
   - **disciplinary body** means either or both of the Complaints Assessment Committee and the Disciplinary Tribunal
   - **Disciplinary Tribunal** means the Disciplinary Tribunal established by rules made under section 486
   - **distance school** means a school for the time being designated under section 196 as a distance school
@@ -203,7 +206,7 @@ The purpose of this Act is to establish and regulate an education system that—
       (iii) a person of a class or description of persons required by the Minister, by notice, to be treated as if they are not international students (see subsection (11)); and
     (b) who is a tertiary student enrolled at an institution or a registered establishment
   - **DRS** means the student contract dispute resolution scheme established under section 536
-  - **DRS operator** means a person or an agency appointed under section 536(4)
+  - **DRS operator** means a person or an organisation appointed under section 536(4)
   - **early childhood education and care centre** —
     (a) means premises that are used regularly for the education or care of 3 or more children (not being children of the persons providing the education or care or children enrolled at a school who are being provided with education or care before or after school) under the age of 6 years by day (or part of a day) but not for any continuous period of more than 7 days; and
     (b) despite paragraph (c), includes premises that—
@@ -232,9 +235,9 @@ The purpose of this Act is to establish and regulate an education system that—
   - **early childhood service** means an early childhood education and care centre, a home-based education and care service, or a hospital-based education and care service
   - **education with a special character** means education within the framework of a particular or general religious or philosophical belief, and associated with observances or traditions relating to that belief
   - **educational outcome** means a credit, grade, mark, or other measure of student achievement that contributes towards the student gaining—
-    (a) a qualification listed on the Qualifications Framework; or
-    (b) an award that recognises the successful completion of a training scheme; or
-    (c) recognition for successfully meeting the learning outcomes of a standard listed on the Directory of Assessment Standards
+    (a) a qualification listed on the Qualifications and Credentials Framework; or
+    (b) an award that recognises the successful completion of a micro-credential; or
+    (c) recognition for successfully meeting the learning outcomes of a standard listed on the Directory of Assessment and Skill Standards
   - **effective date** , in relation to an integration agreement, means the date on which the integration of the school takes place
   - **election year** means a year divisible by 3
   - **employer** , in relation to a teacher or authorised person in a teaching position, means any one of the following who employs, or intends to employ, 1 or more teachers or authorised persons in a teaching position:
@@ -248,6 +251,15 @@ The purpose of this Act is to establish and regulate an education system that—
   - **enrol** includes admit, and and have corresponding meanings
   - **enrolment scheme** means a scheme developed and implemented (and not since abandoned) under this Act or regulations made under this Act
   - **equal employment opportunities programme** means a programme that is aimed at the identification and elimination of all aspects of policies, procedures, and other institutional barriers that cause or perpetuate, or tend to cause or perpetuate, inequality with respect to the employment of any persons or group of persons
+  - **excluded early childhood service** means any of the following:
+    (a) a kōhanga reo chartered to Te Kōhanga Reo National Trust Board:
+    (b) an early childhood service that proposes to teach in te reo Māori at, or close to, full immersion:
+    (c) an early childhood service that—
+      (i) proposes to teach in te reo Māori for the majority of the time; and
+      (ii) is affiliated to a body that is recognised by the Minister, by notice in the Gazette, as meeting criteria set under subsection (3A):
+    (d) an early childhood service that—
+      (i) proposes to teach in te reo Māori for the majority of the time; and
+      (ii) will be provided by, or associated with, an iwi or Māori organisation that is recognised by the Minister, by notice in the Gazette, as meeting criteria set under subsection (3A)
   - **financial product** has the meaning given by section 7 of the Financial Markets Conduct Act 2013
   - **financial year** ,—
     (a) in relation to a school, means a year ending with 31 December:
@@ -255,6 +267,7 @@ The purpose of this Act is to establish and regulate an education system that—
       (i) if the Minister has specified a day for the purpose, with that day; and
       (ii) with 30 June in every other case
   - **free kindergarten** means an early childhood education and care centre controlled by a free kindergarten association founded for the purpose of establishing and maintaining a kindergarten or kindergartens
+  - **free kindergarten association** means an organisation that is for the time being specified in Schedule 2A
   - **full primary school** means a school that offers education to students in years 1 to 8
   - **funding approval** means a decision made by TEC under section 425 to fund (in whole or in part) some or all of the tertiary education programmes and activities described in an organisation's proposed plan under clause 4(d) of Schedule 18
   - **governing member** , in relation to a private training establishment, means—
@@ -305,14 +318,17 @@ The purpose of this Act is to establish and regulate an education system that—
   - **licensed early childhood service** means an early childhood service in respect of which the service provider holds a current licence issued under regulations made under section 636
   - **licensed home-based education and care service** means a home-based education and care service in respect of which the service provider holds a current licence issued under regulations made under section 636
   - **licensed hospital-based education and care service** means a hospital-based education and care service in respect of which the service provider holds a current licence issued under regulations made under section 636
-  - **listed skill standard** means a skill standard that is listed on the Directory of Assessment Standards
+  - **listed skill standard** means a skill standard that is listed on the Directory of Assessment and Skill Standards
   - **lone board** means a board that administers 1 school only
   - **managers of a private school** means all the people who control and manage the school, whether or not they have a proprietary interest in it
   - **medical practitioner** means a health practitioner who—
     (a) is, or is treated as being, registered with the Medical Council of New Zealand continued by section 114(1)﻿(a) of the Health Practitioners Competence Assurance Act 2003 as a practitioner of the profession of medicine; and
     (b) holds a current practising certificate
   - **member of an industry** means a person who employs persons who work in that industry or a self-employed person in that industry
-  - **Minister** means the Minister of the Crown who, under any warrant or with the authority of the Prime Minister, is for the time being responsible for the administration of this Act
+  - **micro-credential** means study or training that—
+    (a) leads to an award; but
+    (b) does not, of itself, lead to an award of a qualification listed on the Qualifications and Credentials Framework
+  - **Minister** means the Minister of the Crown who, under any warrant or with the authority of the Prime Minister, is for the time being responsible for the administration of this Act or part of this Act
   - **Ministry** means the department of State that, with the authority of the Prime Minister, is for the time being responsible for the administration of this Act or part of this Act
   - **MSD** has the same meaning as in Schedule 2 of the Social Security Act 2018
   - **multiple timetable arrangement** means an arrangement under which more than 1 timetable is run on the same day (whether consecutively or concurrently)
@@ -358,7 +374,7 @@ The purpose of this Act is to establish and regulate an education system that—
     (a) the principal:
     (b) in the case of an early childhood service, the professional leader of the service:
     (c) in the case of any other educational institution, the chief executive or person occupying an equivalent position
-  - **programme** , in relation to an institution within the meaning of section 10(5)﻿(a), means a programme of study or training that leads to a qualification listed on the Qualifications Framework
+  - **programme** , in relation to an institution within the meaning of section 10(5)﻿(a), means a programme of study or training that leads to a qualification listed on the Qualifications and Credentials Framework
   - **property** means real and personal property of every description
   - **proprietor** means the body corporate that—
     (a) has the primary responsibility for determining the special character of a private school or State integrated school and for supervising the maintenance of that special character; and
@@ -372,15 +388,15 @@ The purpose of this Act is to establish and regulate an education system that—
     (b) has, for the purposes of Part 4, the meaning specified in paragraph (a) and includes—
       (i) a government training establishment, a registered establishment, and a wānanga:
       (ii) a relevant school:
-    (c) means, in relation to pastoral care in subpart 7 of Part 5, a person or body that is,—
+    (c) means, in relation to well-being and safety in subpart 7 of Part 5, a person or body that is,—
       (i) in respect of international students, a registered school, an institution, or a registered establishment; or
       (ii) in respect of domestic tertiary students, an institution or a registered establishment
   - **provider group** means a group of providers of secondary–tertiary programmes that is recognised by the Minister by notice in the Gazette under clause 1 of Schedule 8 as a provider group
   - **psychologist** means a health practitioner who—
     (a) is, or is treated as being, registered with the Psychologists Board continued by section 114(1)﻿(a) of the Health Practitioners Competence Assurance Act 2003 as a practitioner of the profession of psychology; and
     (b) holds a current practising certificate
-  - **qualification** means a qualification listed on the Qualifications Framework, which may include qualifications offered by universities
-  - **Qualifications Framework** means the framework described in section 436
+  - **qualification** means a qualification listed on the Qualifications and Credentials Framework, which may include qualifications offered by universities
+  - **Qualifications and Credentials Framework** means the framework described in section 436
   - **qualifying member** , in relation to a levy group, means a member who does not have a certificate of exemption under clause 14 of Schedule 16
   - **reasonably convenient school** means a State school that a reasonable person living in the area in which the school is situated would judge to be reasonably convenient for a particular student, taking into account the age of the student, the distance to be travelled, the time likely to be spent in travel, the reasonably available modes of travel, common public transport routes, and relevant traffic hazards; and the meaning may vary as between different schools depending on—
     (a) whether the school is a single-sex or co-educational school:
@@ -388,9 +404,9 @@ The purpose of this Act is to establish and regulate an education system that—
     (c) whether the school is a primary, an intermediate, a secondary, or a composite school
   - **record of achievement** means a record of a student’s educational outcomes maintained by NZQA or a tertiary education provider
   - **refund period** means,—
-    (a) in relation to a domestic student who, before 1 January 2015, is enrolled in a programme or part of a programme, or enrolled in a training scheme, the 7 days after the first day of the programme or scheme for which the attendance of the student at the establishment is required:
-    (b) in relation to a domestic student who, on or after 1 January 2015, is enrolled in a programme or part of a programme, or enrolled in a training scheme, the period of time that begins when the student’s fees are paid to the private training establishment (or paid directly to the independent trustee) and ends on the later of 7 days after—
-      (i) the first day of the programme or scheme for which the attendance of the student at the establishment is required; or
+    (a) in relation to a domestic student who, before 1 January 2015, is enrolled in a programme or part of a programme, or enrolled in a micro-credential, the 7 days after the first day of the programme or micro-credential for which the attendance of the student at the establishment is required:
+    (b) in relation to a domestic student who, on or after 1 January 2015, is enrolled in a programme or part of a programme, or enrolled in a micro-credential, the period of time that begins when the student’s fees are paid to the private training establishment (or paid directly to the independent trustee) and ends on the later of 7 days after—
+      (i) the first day of the programme or micro-credential for which the attendance of the student at the establishment is required; or
       (ii) any other day that the establishment permits the student to begin attendance
   - **registered establishment** means a private training establishment that has been granted registration by NZQA under subpart 5 of Part 4 and whose registration has not been cancelled
   - **registered school** means a State school, a State integrated school, or a private school
@@ -434,10 +450,10 @@ The purpose of this Act is to establish and regulate an education system that—
     (b) in relation to a home-based education and care service, the body, agency, or person who provides, or offers to provide, that education or care:
     (c) in relation to a hospital-based education and care service, the body, agency, or person who provides that education or care:
     (d) in relation to a playgroup, the person or persons who operate the playgroup
-  - **signatory provider** means a provider that is a signatory to a code issued under section 534(1)﻿(b) or (c)
+  - **signatory provider** means a provider that has been approved by a code administrator under section 531A(1) as a signatory provider and that is a signatory to a code issued under section 534(1)﻿(b) or (c)
   - **skill standard** —
-    (a) means a specification of skills and levels of performance in those skills; and
-    (b) in relation to any vocational education and training (or proposed vocational education and training), means a specification of some or all of the skills in which training is (or is proposed to be) received, and the levels of performance in those skills intended to be attained by people receiving the training
+    (a) means a specification of skills, the levels of performance in those skills, and the learning outcomes associated with those skills; and
+    (b) in relation to any vocational education and training (or proposed vocational education and training), means a specification of some or all of the skills in which training is (or is proposed to be) received, the levels of performance in those skills intended to be attained by people receiving the training, and the learning outcomes associated with those skills
   - **solicited voluntary payment from parents** , in relation to a board, means a payment that is—
     (a) to be made or made by or on behalf of a parent, or parents, of any student, or students, likely to be enrolled or enrolled at a school administered by the board; and
     (b) a payment that the parent has, or that those parents have, no legal obligation to make; and
@@ -459,7 +475,7 @@ The purpose of this Act is to establish and regulate an education system that—
   - **specialist school** means a school that offers special education to students in any of years 1 to 13
   - **specified industries** , in relation to a workforce development council, means the 1 or more specified industries covered by the workforce development council
   - **specified user** means—
-    (a) an education provider; and
+    (a) an education provider (as defined in clause 1 of Schedule 24); and
     (b) the Ministry; and
     (c) NZQA; and
     (d) TEC; and
@@ -471,7 +487,7 @@ The purpose of this Act is to establish and regulate an education system that—
   - **student accommodation** means premises that are exempt under section 5B of the Residential Tenancies Act 1986
   - **student claimant** , in relation to a provider or signatory provider, means a person who—
     (a) is a domestic tertiary student or an international student enrolled by the provider or signatory provider; or
-    (b) is a former tertiary domestic student or a former international student enrolled by the provider or signatory provider; or
+    (b) is a former domestic tertiary student or a former international student enrolled by the provider or signatory provider; or
     (c) intends to be, or is in the process of being, enrolled by the provider or signatory provider as a domestic tertiary student or an international student
   - **Te Aho Matua** means a statement that sets out an approach to teaching and learning that applies to schools designated under section 201
   - **te kaitiaki o Te Aho Matua** means the body commonly known as Te Rūnanga Nui o Nga Kura Kaupapa Māori o Aotearoa, being the most suitable to be responsible for determining the content of Te Aho Matua and for ensuring that it is not changed to the detriment of Māori
@@ -486,7 +502,7 @@ The purpose of this Act is to establish and regulate an education system that—
   - **teaching position** means a position in a registered school or licensed early childhood service that—
     (a) requires its holder to instruct students; or
     (b) is the professional leader, deputy professional leader (however described), or assistant principal of a school; or
-    (c) is the professional leader of an early childhood service or other educational institution
+    (c) is the professional leader of an early childhood service
   - **TEC** means the Tertiary Education Commission continued by section 401(1)
   - **tertiary component** , in relation to a secondary–tertiary programme, means the portion of the programme that consists of the participating student's apprenticeship training or participation in tertiary education that—
     (a) is provided by any 1 or more of the following:
@@ -511,12 +527,6 @@ The purpose of this Act is to establish and regulate an education system that—
     (a) means an employee who has a training agreement; and
     (b) includes an apprentice
   - **training agreement** means an agreement between an employer and an employee that relates to the employee’s receipt of, or provides for the employee to receive, vocational education and training (whether provided by the employer or some other person)
-  - **training package** , in relation to an industry qualification,—
-    (a) means materials developed by a workforce development council that are designed to assist providers in developing and delivering programmes leading to the industry qualification and to enhance consistency of graduate outcomes in respect of the qualification; and
-    (b) includes (without limitation) core content, delivery modes, and assessment methods in respect of those programmes
-  - **training scheme** means study or training that—
-    (a) leads to an award; but
-    (b) does not, of itself, lead to an award of a qualification listed on the Qualifications Framework
   - **university** means an institution established as a university under section 268(1)
   - **unsupervised access** , in relation to children at a licensed early childhood service or students at a school, means access to any child that is not access by, or supervised by, or otherwise observed by, or able to be directed (if necessary) by, any 1 or more of the following:
     (a) a registered teacher or holder of a limited authority to teach:
@@ -540,13 +550,17 @@ The purpose of this Act is to establish and regulate an education system that—
   - **workforce development council** means a workforce development council established under section 363.
 (2) The Governor-General may, by Order in Council, make regulations prescribing criteria that the holder of a residence class visa granted under the Immigration Act 2009 must satisfy in order to fulfil the requirements of paragraph (a)﻿(ii) of the definition of domestic tertiary student in subsection (1).
 (3) Regulations under subsection (2) must be confirmed by an Act (see subpart 3 of Part 5 of the Legislation Act 2019).
+(3A) The Minister may, by notice, set criteria relating to the recognition of bodies and iwi or Māori organisations for the purposes of paragraphs (c) and (d) of the definition of excluded early childhood service in subsection (1).
 (4) Despite the definition of immediate caregiver in subsection (1), a student does not have an immediate caregiver if the student—
   (a) usually lives in a household that includes the student’s father and mother; or
   (b) usually spends approximately equal time in 2 or more households; or
   (c) does not usually live in a household.
-(5) For the purposes of—
-  (a) subpart 2 of Part 5 (apart from sections 441 to 444 and 456), the definition of institution in subsection (1) includes any government training establishment, registered establishment, relevant school, or other body:
-  (b) sections 441 to 444, the definition of institution in subsection (1) includes any government training establishment, registered establishment, or relevant school.
+(5) For the purposes of subpart 2 of Part 5 (apart from section 456), the definition of institution in subsection (1) includes any government training establishment, registered establishment, relevant school, workforce development council, or other body, except that—
+  (a) a workforce development council is not an institution for the purposes of the following sections:
+    (i) sections 439 to 444:
+    (ii) sections 446A and 446B:
+    (iii) sections 449 to 451:
+  (b) an other body is not an institution for the purposes of sections 441 to 444.
 (6) For the purposes of sections 563 to 572, unless the context otherwise requires,—
   - **agreement** includes a deed, a contract, an agreement, an arrangement, and an understanding, whether oral or written, express or implied, and whether or not enforceable at law
   - **assets** means any real or personal property of any kind, whether or not subject to rights, and includes (but is not limited to)—
@@ -608,16 +622,22 @@ The purpose of this Act is to establish and regulate an education system that—
 (10) The Governor-General may, by Order in Council, amend Schedule 2 by—
   (a) adding the name of a State school to it; or
   (b) omitting the name of a State school from it; or
-  (c) substituting for the name of a State school any different name.
+  (c) substituting for the name of a State school any different name if that school has changed its name.
+(10A) The Governor-General may, by Order in Council, amend Schedule 2A by—
+  (a) adding the name of an organisation if the organisation has been formed from the restructuring of an organisation that is specified in Schedule 2A or from the merger of 2 or more organisations that are specified in Schedule 2A; or
+  (b) omitting the name of an organisation if the organisation has ceased to exist or ceased to operate a free kindergarten; or
+  (c) substituting for the name of an organisation any different name if that organisation has changed its name.
 (11) The following are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements):
   (a) a notice under paragraph (c) of the definition of domestic student in subsection (1):
   (b) a notice under paragraph (a)﻿(iii) of the definition of domestic tertiary student in subsection (1):
   (c) a notice under paragraph (c)﻿(ii) of the definition of tertiary education organisation in subsection (1), unless it applies only to 1 or more named individuals or bodies:
   (d) regulations under subsection (2):
-  (e) an order under subsection (10).
+  (e) an order under subsection (10):
+  (f) an order under subsection (10A).
 (12) If a notice under paragraph (c)﻿(ii) of the definition of tertiary education organisation in subsection (1) is not secondary legislation, the Minister must give the notice to—
   (a) the TEC; and
   (b) the individuals or bodies named in the notice.
+(13) A notice under subsection (3A) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 11 Transitional, savings, and related provisions
 The transitional, savings, and related provisions set out in Schedule 1 have effect according to their terms.
@@ -648,41 +668,116 @@ The purpose of this Part is to regulate an early childhood education system wher
 ### 16 Certain other service providers may be licensed
 A service provider who provides a home-based education and care service or a hospital-based education and care service may, but need not, be licensed in accordance with regulations made under section 636 in respect of the service.
 
-### 17 Ministerial approval required for licensing application
-(1) Despite sections 15 and 16, a person must apply to the Minister for approval to apply for a licence to operate—
-  (a) a licensed early childhood education and care centre:
-  (b) a licensed home-based education and care service:
-  (c) a licensed hospital-based education and care service.
-(2) The Minister may grant approval, but, before doing so, must take into account—
-  (a) the relevant attributes of the area to be served, including (without limitation) the demography of the area, the needs of the communities in the area, the needs of the children in the area, and the availability of services in the area with different offerings (for example, the provision of te reo Māori); and
-  (b) the suitability of the applicant and of every person involved in the governance of the proposed service, which, as a minimum, requires the Minister to determine whether each person—
-    (i) is a fit and proper person; and
-    (ii) has obtained a satisfactory Police vet for the purposes of the application; and
-  (c) the applicant’s financial position; and
-  (d) the licensing history of—
-    (i) any other early childhood services previously or currently owned, operated, or managed by, or otherwise connected with, the applicant; and
-    (ii) every person involved in the governance of the proposed service.
-(3) If the Minister considers this information insufficient to decide whether to grant approval, the Minister may ask the applicant to supply more information.
-(4) The applicant may not apply for a licence without the Minister’s approval.
-(5) Approval to apply for a licence is irrelevant to the granting of a licence (as a licence may only be granted in accordance with regulations made under section 636).
-(6) An approval expires 2 years after the date on which it is given; however, the Minister may, on application before the expiry, extend the expiry date if the Minister thinks fit to do so in the circumstances.
+### 17 Ministerial approval required to apply for licence
+(1) Despite sections 15 and 16, an individual or entity that intends to operate a licensed early childhood service (the applicant) must apply to the Minister for approval to apply for a licence to operate the service.
+(2) The Minister may grant approval but, before doing so, must take into account—
+  (a) a high-level assessment of the relevant attributes of the area to be served, including (without limitation) the demography of the area, the needs of the communities in the area, the needs of the children in the area, and the availability of licensed early childhood services in the area with different offerings (for example, the provision of te reo Māori); and
+  (b) any statement issued under section 17D that is relevant to the application; and
+  (c) the suitability of the applicant and of every individual involved in the governance of the proposed service, which, as a minimum, requires the Minister to consider and determine whether each individual is a fit and proper person (including by considering the Secretary’s assessment provided under section 18(4)); and
+  (d) the applicant’s financial position (including by considering the Secretary’s assessment provided under section 18A(3)); and
+  (e) the licensing history of—
+    (i) any other early childhood service previously or currently owned, operated, or managed by, or otherwise connected with, the applicant; and
+    (ii) every individual involved in the governance of the proposed service; and
+  (f) the applicant’s capability to effectively establish and provide the service to which the application relates; and
+  (g) any other matter that the Minister considers is relevant to the application.
+(3) If the Minister considers information referred to in subsection (2) is insufficient to decide whether to grant approval, the Minister may—
+  (a) ask the applicant to supply more information:
+  (b) ask an individual or entity other than the applicant to supply any information that the Minister considers relevant to the application.
+(4) In deciding whether to grant approval, the Minister—
+  (a) may consider the application at the same time as any other application for approval to apply for a licence, regardless of the date on which the applications were received:
+  (b) is not required to defer a decision on the application solely because another applicant for approval to apply for a licence has appealed under section 18C against an assessment by the Secretary or has commenced judicial review proceedings.
+(5) An individual or entity may not apply for a licence without the Minister’s approval.
+(6) Approval to apply for a licence is irrelevant to the granting of a licence (as a licence may only be granted in accordance with regulations made under section 636).
+(7) If the Minister grants approval to an applicant,—
+  (a) the applicant must inform the Secretary of any change in circumstances that may have materially affected the Minister’s decision to grant the approval:
+  (b) that approval cannot be transferred to another individual or entity.
+(8) This section and sections 17A to 18C do not apply in relation to an individual or entity if the service for which the individual or entity intends to apply for a licence is an excluded early childhood service.
 
-### 18 Persons approved to apply for licence must be fit and proper
-(1) In assessing whether a person is a fit and proper person to be granted approval to apply for a licence under section 17, the Minister must take into account whether the applicant—
-  (a) has been convicted of any offence involving harm to children, violence, or fraud:
-  (b) has any health conditions that may affect the applicant’s ability to comply with this Act and the terms of the licence:
-  (c) is, or has been, subject to a property order or personal order under the Protection of Personal and Property Rights Act 1988:
-  (d) owes, or has owed, money to the Crown, including in respect of bodies that the applicant has been involved in managing:
-  (e) has been adjudicated bankrupt under the Insolvency Act 2006 or the Insolvency Act 1967:
-  (f) has been prohibited from being a director or promoter of, or being concerned or taking part in the management of,—
+### 17A Conditions on approval to apply for licence
+(1) When granting an approval to apply for a licence to operate a licensed early childhood service, the Minister may impose conditions on the approval as the Minister thinks fit, including conditions—
+  (a) relating to the nature, capacity, or location of the proposed service; and
+  (b) that require the applicant to—
+    (i) meet milestones set by the Minister:
+    (ii) provide regular progress reports to the Ministry.
+(2) The Minister may, at any time,—
+  (a) impose new conditions on the approval; or
+  (b) amend or revoke any existing conditions.
+(3) However, before imposing, amending, or revoking a condition under subsection (2), the Minister must—
+  (a) take reasonable steps to notify the applicant of the Minister’s intention to make that decision; and
+  (b) if the applicant provides a response to the notification within a reasonable time, take into account that response.
+(4) When a condition is imposed, the Minister may specify a date by which the applicant must satisfy the condition.
+
+### 17B Expiry of approval to apply for licence
+(1) When granting an approval to apply for a licence to operate a licensed early childhood service, the Minister must specify an expiry date for the approval that is no more than 3 years after the date on which the approval is granted.
+(2) However, the Minister may, at any time before an expiry date,—
+  (a) extend the expiry date to a date that is no more than 3 years after the date on which approval is granted; or
+  (b) if the Minister considers that there are exceptional circumstances that make an extension beyond the maximum period under paragraph (a) desirable, extend the expiry date to a date that is no more than 5 years after the date on which approval is granted.
+(3) For the purposes of subsection (2)﻿(b), exceptional circumstances includes the impacts of natural disasters or other circumstances beyond the applicant’s control on the proposed licensed early childhood service or the building in which the proposed service is to be located.
+
+### 17C Revocation of approval to apply for licence
+(1) The Minister may revoke an approval to apply for a licence to operate a licensed early childhood service if the Minister is satisfied that 1 or more of the following grounds apply:
+  (a) the individual or entity granted the approval is not complying, or has not complied, with 1 or more of the conditions of approval imposed under section 17A:
+  (b) a significant change has occurred in the circumstances relating to the proposed licensed early childhood service that is likely to have materially affected the Minister’s decision to grant the approval:
+  (c) the individual or entity granted the approval has provided false or misleading information in their application.
+(2) Before revoking an approval under subsection (1), the Minister must—
+  (a) take all reasonable steps to give the individual or entity granted the approval written notice—
+    (i) of the Minister’s intention to revoke the approval; and
+    (ii) that the individual or entity may respond in writing to the Minister addressing reasons why the approval should not be revoked; and
+  (b) if the individual or entity provides a response within a reasonable time, take that response into account.
+
+### 17D Minister may issue statements relating to network of licensed early childhood services
+(1) The Minister may, for the purpose of providing potential applicants for approval under section 17 with information about the network of licensed early childhood services, issue 1 or more statements that set out information relating to the network, at either a national or regional level, including—
+  (a) the Government’s strategic priorities for the establishment of licensed early childhood services; and
+  (b) information about the supply, forecast growth, demand, and need for licensed early childhood services; and
+  (c) any other information that the Minister considers relevant to applications for approval under section 17.
+(2) If a proposed statement relates to the Government’s strategic priorities referred to in subsection (1)﻿(a), the Minister must consult the licensed early childhood services sector and Māori before issuing the statement.
+(3) A statement must be published in the Gazette.
+
+### 18 Secretary to assess whether applicants for approval to apply for licences are fit and proper
+(1) For every application under section 17 for approval to apply for a licence to operate a licensed early childhood service, the Secretary must make an assessment of whether each individual who is an applicant, or who is involved in the governance of the proposed service, is a fit and proper person to be granted approval.
+(2) In making an assessment under subsection (1), the Secretary must take into account whether each individual—
+  (a) has had a satisfactory Police vet for the purposes of the application:
+  (b) has been convicted of an offence that the Secretary considers is relevant to providing an early childhood service (for example, an offence involving harm to children, violence, or fraud):
+  (c) has been involved in or associated with an organisation that has been convicted of an offence that the Secretary considers is relevant to providing an early childhood service:
+  (d) has any health conditions that may affect the individual’s ability to comply with this Act and with regulations made under section 636:
+  (e) is, or has been, subject to a property order or personal order under the Protection of Personal and Property Rights Act 1988:
+  (f) owes, or has owed, money to the Crown, including in respect of bodies that the individual has been involved in managing:
+  (g) has been adjudicated bankrupt under the Insolvency Act 2006 or the Insolvency Act 1967:
+  (h) has been prohibited from being a director or promoter of, or being concerned or taking part in the management of,—
     (i) a company under the Companies Act 1993; or
     (ii) any other body corporate:
-  (g) has, or has had, any role as a governing member of an entity or organisation that became insolvent, including being placed in liquidation, receivership, or voluntary administration:
-  (h) is, or has been, subject to any prohibition against acting as an employer or an officer of an employer under the Employment Relations Act 2000:
-  (i) has had previous involvement in an early childhood service in respect of which—
+  (i) has, or has had, any role as a governing member of an entity or organisation that became insolvent, including being placed in liquidation, receivership, or voluntary administration:
+  (j) is, or has been, subject to any prohibition against acting as an employer or an officer of an employer under the Employment Relations Act 2000:
+  (k) has had previous involvement in an early childhood service in respect of which—
     (i) an application for a licence was refused; or
-    (ii) a licence was suspended or cancelled.
-(2) The Minister may take into account any other criteria that the Minister considers relevant.
+    (ii) a licence was suspended or cancelled:
+  (l) meets any other criteria that the Secretary considers relevant.
+(3) In making an assessment under subsection (1), the Secretary may give the weight that the Secretary thinks fit to each of the criteria in subsection (2), having regard to the degree and nature of the individual’s involvement in the proposed service.
+(4) Once an assessment is finalised, the Secretary must provide the assessment to the Minister to inform the Minister’s consideration under section 17(2)﻿(c).
+(5) However, if the Secretary intends to provide an assessment to the Minister that reflects adversely on the application, the Secretary must, before finalising and providing the assessment to the Minister, follow the process set out in section 18B.
+
+### 18A Secretary to assess financial viability of proposed early childhood service
+(1) For every application under section 17 for approval to apply for a licence to operate a licensed early childhood service, the Secretary must make an assessment of the financial viability of the proposed service.
+(2) In making the assessment, the Secretary may consider whether the applicant has access to, or has a credible plan to obtain access to, sufficient resources to effectively establish and provide the service.
+(3) Once an assessment is finalised, the Secretary must provide the assessment to the Minister to inform the Minister’s consideration under section 17(2)﻿(d).
+(4) However, if the Secretary intends to provide an assessment to the Minister that reflects adversely on the application, the Secretary must, before finalising and providing the assessment to the Minister, follow the process set out in section 18B.
+
+### 18B Notification of adverse assessment
+(1) This section applies to—
+  (a) an assessment of whether an individual is a fit and proper person to be granted approval to which section 18(5) applies:
+  (b) an assessment of financial viability to which section 18A(4) applies.
+(2) Before finalising an assessment and providing it to the Minister, the Secretary must—
+  (a) notify the applicant in writing of the findings of the assessment; and
+  (b) give the applicant an opportunity to respond.
+(3) The Secretary may only finalise an assessment and provide it to the Minister under section 18(4) or 18A(3) after—
+  (a) considering the applicant’s response; or
+  (b) if the applicant does not respond, the elapse of 21 days after the applicant received written notice of the assessment.
+(4) The Secretary must notify the applicant in writing of the findings of the final assessment that is provided to the Minister, including any changes made as a result of the applicant’s response.
+
+### 18C Appeal against adverse assessment
+(1) An applicant who is the subject of a final assessment by the Secretary that is provided to the Minister under section 18(4) or 18A(3) and that reflects adversely on the application for approval to apply for a licence to operate a licensed early childhood service may appeal against that assessment to the District Court.
+(2) An appeal under this section must be made within 14 days after the applicant receives written notice of the findings of a final assessment.
+(3) Despite an appeal being made under this section in relation to an assessment, the Minister may make a decision under section 17 in reliance upon the assessment.
 
 ### 19 Requirements for licensed home-based education and care service
 (1) A licensed home-based education and care service may be provided to no more than 4 children per home.
@@ -1831,35 +1926,33 @@ A board must ensure that its annual report is available to the public on an Inte
 (5) However, a board with a 2022 school charter as its strategic plan must continue to update the annually updated sections of its charter until its first annual implementation plan is required under regulations made under section 639.
 (6) The annually updated sections of a 2022 school charter must be updated no later than a date fixed by the Secretary.
 
-### 139 Preparing draft strategic plan
-(1) A board must prepare a draft strategic plan for every 3-year period, or for a shorter period determined by the Secretary, and submit it to the Secretary in accordance with regulations made under section 639.
-(2) The draft strategic plan must comply with any regulations made under section 639 relating to the form and content of strategic plans.
-(3) In preparing a draft strategic plan, the board must—
+### 139 Preparing strategic plan
+(1) A board must prepare a strategic plan for every 3-year period, or for a shorter period determined by the Secretary, and submit it to the Secretary in accordance with regulations made under section 639.
+(2) The strategic plan must comply with any regulations made under section 639 relating to the form and content of strategic plans.
+(3) In preparing a strategic plan, the board must—
   (a) consult—
     (i) the school community; and
     (ii) the school’s staff; and
     (iii) where appropriate, the school’s students; and
     (iv) any other persons required by the regulations; and
   (b) comply with any other regulations relating to the development of strategic plans; and
-  (c) in the case of a State integrated school, ensure that the draft reflects the school’s special character; and
-  (d) in the case of a designated character school, ensure that the draft reflects the school’s different character or, in the case of a Kura Kaupapa Māori, its special characteristics.
-(4) In preparing a draft strategic plan, the board may consult any person, group, or organisation that it thinks fit to consult.
+  (c) in the case of a State integrated school, ensure that the plan reflects the school’s special character; and
+  (d) in the case of a designated character school, ensure that the plan reflects the school’s different character or, in the case of a Kura Kaupapa Māori, its special characteristics.
+(4) In preparing a strategic plan, the board may consult any person, group, or organisation that it thinks fit to consult.
 (5) This section is subject to section 138(3).
 
-### 140 Secretary to review and approve draft strategic plan
-(1) On receiving a draft strategic plan, the Secretary must review it in accordance with regulations made under section 639.
-(2) After reviewing the draft strategic plan, the Secretary must—
-  (a) confirm that it meets the requirements of this Act and the regulations by giving written notice to the board; or
-  (b) return it to the board with directions that the board—
-    (i) consider, or further consider, any matter and revise the plan in the light of that consideration; or
-    (ii) revise the plan as directed by the Secretary.
-(3) If the draft strategic plan is returned to the board, the board must comply with the Secretary’s directions and then resubmit a revised plan.
-(4) The Secretary must, by giving written notice to the board, confirm a draft strategic plan unless satisfied that it does not meet the requirements of the Act and the regulations.
-(5) If a board fails to comply with the Secretary’s directions, or resubmits a revised draft strategic plan that still does not meet the requirements of the Act or the regulations, the Secretary may revise the plan and confirm it by giving written notice to the board.
+### 140 Secretary may review strategic plan
+(1) The Secretary may review a strategic plan in accordance with regulations made under section 639.
+(2) After reviewing the strategic plan, the Secretary may direct that the board—
+  (a) consider, or further consider, any matter and revise the plan in the light of that consideration; or
+  (b) revise the plan as directed by the Secretary.
+(3) If the strategic plan is returned to the board, the board must comply with the Secretary’s directions and then resubmit a revised plan.
+(4)
+(5) If a board fails to comply with the Secretary’s directions, or resubmits a revised strategic plan that still does not meet the requirements of the Act or the regulations, the Secretary may revise the plan and confirm it by giving written notice to the board.
 
 ### 141 Amending strategic plan
-(1) A board may amend its strategic plan, but if a proposed amendment is significant the board must obtain the Secretary’s approval of the amendment before amending the plan.
-(2) Before approving an amendment, the Secretary may require the board to consult the school community, staff, students, or any other person or body the Secretary thinks fit to consult.
+(1) A board may amend its strategic plan.
+(2) If the board considers that a proposed amendment to its strategic plan is significant, the board must comply with the requirements of section 139(3) before confirming an amendment.
 (3) The Secretary may require a board to amend its strategic plan.
 
 ### 142 Expiry of strategic plan
@@ -2827,7 +2920,7 @@ The purpose of this Part is to establish and support a tertiary education and vo
   (b) establishing tertiary education organisations, and providing for their operation, duties, powers, compliance, and disestablishment; and
   (c) providing for the admission of domestic and international students and setting out student rights, responsibilities, and protections; and
   (d) supporting the health, safety, and well-being of students; and
-  (e) regulating learning and providing quality assurance for learning, including qualifications, credentials, programmes, assessment standards, training schemes, and apprenticeship training arrangements; and
+  (e) regulating learning and providing quality assurance for learning, including qualifications, credentials, micro-credentials, programmes, assessment and skill standards, national curricula, and apprenticeship training arrangements; and
   (f) providing for funding of tertiary education; and
   (g) providing for the roles and functions of other regulators and education agencies.
 
@@ -2855,40 +2948,40 @@ Any information collected by TEC or NZQA—
   (b) may be disclosed by the Ministry to TEC or NZQA or to any other person or agency that is entitled to receive it.
 
 ### 255 Enrolment of students
-(1) A person is eligible to be enrolled as a student in a programme or training scheme provided by an institution if—
+(1) A person is eligible to be enrolled as a student in a programme or micro-credential provided by an institution if—
   (a) the person is a domestic student or the institution’s council complies with section 525 and consents; and
-  (b) the person holds the minimum entry requirements for the programme or training scheme as determined by the institution’s council; and
+  (b) the person holds the minimum entry requirements for the programme or micro-credential as determined by the institution’s council; and
   (c) the person has attained,—
     (i) if the institution has fixed a minimum age for enrolment at the institution, the fixed age; and
-    (ii) if the institution has fixed a minimum age for enrolment in the programme or training scheme, the fixed age.
+    (ii) if the institution has fixed a minimum age for enrolment in the programme or micro-credential, the fixed age.
 (2) Subsection (1)﻿(b) and (c) does not apply to a person if—
   (a) the person has turned 20 years; or
-  (b) the council of the institution is satisfied that the person is capable of undertaking the programme or scheme concerned.
-(3) An eligible student who applies for enrolment in a programme or training scheme at an institution is entitled to be enrolled in that programme or training scheme.
+  (b) the council of the institution is satisfied that the person is capable of undertaking the programme or micro-credential concerned.
+(3) An eligible student who applies for enrolment in a programme or micro-credential at an institution is entitled to be enrolled in that programme or micro-credential.
 (4) However, the council of the institution—
-  (a) may determine the maximum number of students that may be enrolled in a particular programme or training scheme at the institution in a particular year if the council is satisfied that it is necessary to do so because of insufficiency of staff, accommodation, or equipment:
-  (b) may, in the selection of the students to be enrolled, give preference to eligible persons who are included in a class of persons that is under-represented among the students undertaking the programme or training scheme if—
-    (i) the maximum number of students who may be enrolled at an institution in a particular programme or training scheme in a particular year is determined by the council under paragraph (a); and
-    (ii) the number of eligible students who apply for enrolment in that programme or training scheme in that year exceeds the maximum number so determined.
-(5) Nothing in this section prevents an institution's council from refusing to permit, or from cancelling, the enrolment of a person as a student at the institution, or in a particular programme or scheme at the institution, on the ground that—
+  (a) may determine the maximum number of students that may be enrolled in a particular programme or micro-credential at the institution in a particular year if the council is satisfied that it is necessary to do so because of insufficiency of staff, accommodation, or equipment:
+  (b) may, in the selection of the students to be enrolled, give preference to eligible persons who are included in a class of persons that is under-represented among the students undertaking the programme or micro-credential if—
+    (i) the maximum number of students who may be enrolled at an institution in a particular programme or micro-credential in a particular year is determined by the council under paragraph (a); and
+    (ii) the number of eligible students who apply for enrolment in that programme or micro-credential in that year exceeds the maximum number so determined.
+(5) Nothing in this section prevents an institution's council from refusing to permit, or from cancelling, the enrolment of a person as a student at the institution, or in a particular programme or micro-credential at the institution, on the ground that—
   (a) the person is not of good character; or
   (b) the person has been guilty of misconduct or a breach of discipline; or
   (c) the person is enrolled for full-time instruction at another institution or at a school; or
   (d) the person has made insufficient progress in the person's study or training after a reasonable trial at the institution or at another institution.
 (6) The chief executive of an institution that provides approved programmes of pre-service teacher training must ensure that the appropriate authorities of the institution liaise with the appropriate authorities of other institutions that provide the programmes to establish common requirements to govern the selection and enrolment of people in those programmes.
 (7) In this section,—
-  - **eligible student** , in relation to a programme or training scheme at an institution, means a person who is eligible to be enrolled as a student in that programme or scheme
+  - **eligible student** , in relation to a programme or micro-credential at an institution, means a person who is eligible to be enrolled as a student in that programme or micro-credential
   - **year** means a period of 12 months commencing on 1 January.
 
 **Fees**
 
-### 256 Fees for domestic students
+### 256 Fees for domestic students and employers
 (1) An institution's council may fix, or specify a means to determine,—
   (a) a tuition fee for any programme of study or training at the institution:
   (b) a fee for the provision of student services that are provided by the institution or by another person or body on behalf of the institution.
-(2) An institution's council that receives funding under section 425 or 428 may not fix, in relation to domestic students, a fee (or a fee of a particular kind) that exceeds any maximum specified in a condition imposed under section 426 or 429(2) (whichever is applicable) as being the maximum fee (or fee of that kind) that can be charged to a domestic student.
-(3) If the Minister gives an institution a direction under section 257(1)﻿(a), the council of the institution must ensure that any fees fixed under subsection (1)﻿(b) for the provision of student services relate only to the types of student services that fall within those categories.
-(4) If an institution is given a direction under section 257(4), the council of the institution may not fix, in relation to the amount that students may be charged for student services, a fee that exceeds the maximum amount specified in the direction.
+(2) An institution’s council that receives funding under section 425 or 428 may not fix, in relation to domestic students or employers, a fee (or a fee of a particular kind) that does not comply with any limit or requirement specified in a condition imposed under section 426 or 429(2) (whichever is applicable).
+(3)
+(4)
 (5) A domestic student may not be or continue to be enrolled in a programme of study or training at an institution unless the following fees have been paid to the institution’s council in respect of the student:
   (a) the tuition fee (if any) fixed, or determined, under subsection (1)﻿(a); and
   (b) the fee for the provision of student services (if any) determined under subsection (1)﻿(b); and
@@ -2901,41 +2994,7 @@ Any information collected by TEC or NZQA—
   (c) the fact that the refund is larger than specified in the notice.
 
 ### 257 Ministerial direction to institutions relating to compulsory student services fees
-(1) For the purpose of ensuring accountability in the use of compulsory student services fees determined under section 256(1)﻿(b), the Minister may give an institution a written direction that—
-  (a) lists the categories of student services that the institution may make available to students:
-  (b) requires the institution to hold the fees in a specified manner (for example, in a separate bank account to be used solely for the purpose of expenditure on student services) and, if the fees are to be held in an account, ensure that the account is audited:
-  (c) requires the institution to establish adequate arrangements for decisions to be made jointly or in consultation with the students enrolled at the institution, or their representatives, on 1 or more of the following matters:
-    (i) the types of student services that are to be made available to students:
-    (ii) the categories of student services that are to be made available to students:
-    (iii) the maximum amount that students may be charged for the student services that are to be made available (the student services fee):
-    (iv) the procurement of student services:
-    (v) the method of authorising expenditure on student services:
-  (d) requires the institution to include the following information in the institution’s annual report under section 306:
-    (i) a description of the services funded out of the student services fee:
-    (ii) a statement of the fee income and expenditure for each type of student service:
-    (iii) the student services fee expressed as an amount payable per student:
-    (iv) a statement describing how the institution has complied with any requirement to hold fees in a manner specified in a direction given under paragraph (b):
-  (e) requires the institution to publish information about the following matters on an Internet site maintained by or on behalf of the institution:
-    (i) the student services fee expressed as an amount payable per student:
-    (ii) the arrangements that the institution has established for decisions to be made jointly or in consultation with students or their representatives in accordance with paragraph (c):
-    (iii) how students can participate in the process of joint decision making or consultation mentioned in paragraph (c).
-(2) If the Minister lists under subsection (1)﻿(a) categories of student services that may be made available to students (listed categories),—
-  (a) the types of student services described in subsection (1)﻿(c)﻿(i) must fall within the listed categories; and
-  (b) the categories of student services described in subsection (1)﻿(c)﻿(ii) must be listed categories.
-(3) A direction given under subsection (1)—
-  (a) may include any of the things specified in subsection (1):
-  (b) must specify when the direction must be complied with.
-(4) If an institution does not comply with a direction given under subsection (1), the Minister may give a written direction to that institution specifying—
-  (a) the types of student services that the institution may make available to students; and
-  (b) the maximum amount that students may be charged for those services; and
-  (c) when the direction must be complied with.
-(5) Before giving a direction under subsection (1) or (4), the Minister must,—
-  (a) by notice in the Gazette,—
-    (i) set out the proposed direction; and
-    (ii) invite submissions on it; and
-    (iii) state a final date for receipt of submissions (being a date no later than 21 days after the date of the Gazette notice); and
-  (b) consider any submissions on the proposed direction.
-(6) An institution's council that is given a direction under subsection (1) or (4) may make statutes under section 284(1) for the purpose of giving effect to the direction.
+[Repealed]
 
 ### 258 Institutions to give prospective students information about fees
 An institution must ensure that prospective students receive, before enrolment is completed, full written details of—
@@ -3261,8 +3320,8 @@ The functions of an institution’s council are—
 (1) An institution’s council may make statutes, not inconsistent with this Act or the Public Service Act 2020, in relation to any of the following matters:
   (a) the good government and discipline of the institution and the board of an Te Pūkenga—New Zealand Institute of Skills and Technology subsidiary:
   (b) the imposition, by or on behalf of the council, of penalties upon staff or students of the institution for a contravention of or a failure to comply with a statute with respect to a matter referred to in paragraph (a):
-  (c) subject to sections 255, 256, 257, 258, 260, 309, 310, 386, 525, and 526, and clause 8 of Schedule 9, the enrolment of persons in courses of study or training of the institution or the admission of persons to examinations of the institution:
-  (d) subject to sections 255, 256, 257, 258, 260, 309, 310, 386, 525, and 526, and clause 8 of Schedule 9, the courses of study and training of the institution:
+  (c) subject to sections 255, 256, 258, 260, 309, 310, 386, 525, and 526, and clause 8 of Schedule 9, the enrolment of persons in courses of study or training of the institution or the admission of persons to examinations of the institution:
+  (d) subject to sections 255, 256, 258, 260, 309, 310, 386, 525, and 526, and clause 8 of Schedule 9, the courses of study and training of the institution:
   (e) subject to section 282(8), the awards that may be granted by the council and the requirements for those awards:
   (f) the granting by the council of fellowships, scholarships, bursaries, and prizes:
   (g) the provision of superannuation or retirement benefits for, or in respect of, the chief executive or members of the staff of the institution:
@@ -3550,7 +3609,7 @@ The Registrar or other appropriate officer of an institution must, if required b
 The functions of the Vice-Chancellors Committee are—
   (a) to set up inter-university course approval and moderation procedures:
   (b) to exercise, in accordance with section 453, the powers of NZQA under this Act in relation to universities:
-  (c) to list qualifications offered by universities on the Qualifications Framework:
+  (c) to list qualifications offered by universities on the Qualifications and Credentials Framework:
   (d) to grant scholarships to students enrolled or proposing to enrol at universities out of money under its control on the terms that the Committee thinks fit:
   (e) where another body has power to grant those scholarships,—
     (i) to make recommendations to the person or authority having power to make appointments to that body as to the persons who should be appointed:
@@ -3873,8 +3932,8 @@ Schedule 14 applies to an Te Pūkenga—New Zealand Institute of Skills and Tech
 (2) The Minister must, by notice, specify the criteria for including a registered private training establishment in a particular category or subcategory.
 (3) A notice under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
-### 343 Requirement to be registered before providing approved programmes or training schemes
-A private training establishment must be registered before it can provide an approved programme or training scheme to a student.
+### 343 Requirement to be registered before providing approved programmes or micro-credentials
+A private training establishment must be registered before it can provide an approved programme or micro-credential to a student.
 
 **Applications for registration**
 
@@ -3908,13 +3967,13 @@ A private training establishment must be registered before it can provide an app
   (b) the establishment has in place effective arrangements for managing any conflicts of interest that exist or may arise; and
   (c) no governing member of the establishment has a material conflict of interest that NZQA considers is or is likely to be unmanageable; and
   (d) no governing member of the establishment has an interest of a kind described in section 344(2)﻿(c)﻿(ii) that NZQA considers is or is likely to be unmanageable; and
-  (e) the establishment has, or is to have at the relevant time, adequate staff, equipment, and premises to provide its programmes or training schemes; and
+  (e) the establishment has, or is to have at the relevant time, adequate staff, equipment, and premises to provide its programmes or micro-credentials; and
   (f) the establishment,—
     (i) if it is already operational, has acceptable financial management practices and performance (for example, is able to pay its staff, taxes, and creditors); or
     (ii) if it is not yet operational, is likely to have acceptable financial management practices and performance (for example, is likely to be able to pay its staff, taxes, and creditors); and
   (g) the establishment complies, or is capable of complying and likely to comply, with the conditions of registration under section 348; and
   (h) before accepting the enrolment of any prospective student, the establishment provides or is to provide that student with a written statement of—
-    (i) the total costs and other financial commitments associated with the programme or training scheme for which the student seeks enrolment; and
+    (i) the total costs and other financial commitments associated with the programme or micro-credential for which the student seeks enrolment; and
     (ii) any material conflicts of interest of any of the governing members of the establishment; and
     (iii) any interests of a kind described in section 344(2)﻿(c)﻿(ii); and
   (i) if the establishment intends to enrol international students, it is to become a signatory to the applicable code issued under section 534 before enrolling any international students.
@@ -3969,11 +4028,10 @@ Every registered establishment must pay NZQA an annual registration fee of an am
     (ii) the establishment is not complying, or has not complied, with 1 or more of its conditions of registration; or
   (b) if the establishment has provided false or misleading information in its application for registration; or
   (c) if it is satisfied on reasonable grounds that the establishment has failed or refused to comply with any relevant duties or obligations under this Act, including (without limitation) the obligations relating to student fee protection; or
+  (ca) if the establishment has been convicted of an offence against section 352 of the Immigration Act 2009; or
   (d) at the written request of the establishment.
 (2) NZQA must cancel the registration of a registered establishment if—
-  (a) the establishment has been convicted of an offence against—
-    (i) this Act; or
-    (ii) section 352 of the Immigration Act 2009; or
+  (a) the establishment has been convicted of an offence against this Act; or
   (b) a governing member of the establishment is convicted of any serious criminal activity or any offence referred to in paragraph (a), and the establishment fails to comply with a written notice issued by NZQA on reasonable grounds requiring that the person be removed, within 2 months of receipt of the notice, from the person’s position as a governing member and from every other position in the establishment.
 (3) Before cancelling a registration under subsection (1)﻿(a), (b), or (c), NZQA must—
   (a) notify the establishment that it is considering cancelling its registration, and give reasons; and
@@ -3985,7 +4043,7 @@ Every registered establishment must pay NZQA an annual registration fee of an am
 ### 351 Effect of cancellation
 (1) Cancellation of registration under section 350 or 459(6)﻿(a) takes effect on the date specified by NZQA in the notice given under section 350(4) (the cancellation date).
 (2) If the registration of a registered establishment is cancelled under section 350 or 459(6)﻿(a), the following apply from the cancellation date:
-  (a) all approved programmes or training schemes granted to the establishment are withdrawn; and
+  (a) all approved programmes or micro-credentials granted to the establishment are withdrawn; and
   (b) all accreditations granted to the establishment are withdrawn; and
   (c) all consents to assess against standards granted to the establishment are withdrawn.
 (3) No notice is required to be given to a registered establishment for a withdrawal under subsection (2).
@@ -3994,13 +4052,13 @@ Every registered establishment must pay NZQA an annual registration fee of an am
 (1) The registration of a registered establishment lapses—
   (a) on the date that is 1 year after registration is granted if,—
     (i) within that period, the establishment does not provide an approved programme that it is accredited to provide to enrolled students; and
-    (ii) within that period, the establishment does not provide an approved training scheme to enrolled students:
+    (ii) within that period, the establishment does not provide an approved micro-credential it is accredited to provide to enrolled students:
   (b) on the date that is 1 year after the establishment has ceased to provide to enrolled students—
     (i) any approved programme it is accredited to provide; and
-    (ii) any approved training scheme.
+    (ii) any approved micro-credential it is accredited to provide.
 (2) Subsection (1) does not affect the registration of a private training establishment if—
-  (a) the time for the lapse of the establishment's accreditation is extended under section 443(2) beyond either of the dates specified in subsection (1), in which case the establishment's registration lapses when the accreditation lapses; or
-  (b) the time for the lapse of the establishment's training scheme approval is extended under section 447(2) beyond either of the dates specified in subsection (1), in which case the establishment's registration lapses when the training scheme approval lapses.
+  (a) the time for the lapse of the establishment's accreditation to provide an approved programme is extended under section 443(2) beyond either of the dates specified in subsection (1), in which case the establishment's registration lapses when the accreditation lapses; or
+  (b) the time for the lapse of the establishment's accreditation to provide an approved micro-credential is extended under section 447(2) beyond either of the dates specified in subsection (1), in which case the establishment's registration lapses when the accreditation to provide an approved micro-credential lapses.
 (3) Despite anything in subsections (1) and (2), the registration of a registered establishment lapses on the date on which the establishment ceases to be a body corporate.
 (4) If a registered establishment is required under this Act to pay any fees to NZQA, and fails to pay those fees after receiving 2 reminder notices within 3 months, the registration of the establishment lapses on the date that is 1 calendar month after the date of the second reminder notice from NZQA.
 (5) NZQA must give written notice of the lapse of a registration to the establishment.
@@ -4010,8 +4068,10 @@ Every registered establishment must pay NZQA an annual registration fee of an am
 **Fees for domestic students**
 
 ### 353 Fees for domestic students and employers may not exceed maximums set in conditions of funding
-(1) A registered establishment that receives funding from TEC under section 425 or 428 may not exceed the maximum amount when fixing a tuition fee or a fee of a particular kind for any programme or training scheme at the establishment.
-(2) If a registered establishment is given a direction under section 360(4), the establishment may not fix, in relation to the amount that students or employers may be charged for student services, a fee that exceeds the maximum amount specified in the direction.
+(1) A registered establishment that receives funding from TEC under section 425 or 428—
+  (a) may not exceed the maximum amount when fixing a tuition fee, a fee for the provision of student services, or a fee of a particular kind for any programme or micro-credential at the establishment; and
+  (b) must comply with any limit or requirement specified in a condition imposed under section 426 or 429(2) (whichever is applicable).
+(2)
 (3) In subsection (1), maximum amount means the maximum specified in a condition imposed under section 426 or 429(2) (whichever is applicable) as being the maximum fee (or fee of that kind) that can be charged to a domestic student or an employer.
 
 **Information that must be given to prospective students**
@@ -4019,26 +4079,26 @@ Every registered establishment must pay NZQA an annual registration fee of an am
 ### 354 Information that private training establishments must give prospective students
 A private training establishment must—
   (a) ensure that all information made available to prospective students contains full details of—
-    (i) the total fees for each programme or training scheme, including fees for class or lecture materials, books, special clothing, safety equipment, tools, and any other items that are or may be provided to students enrolled in that programme or training scheme, and including any students association membership fees; and
-    (ii) the class or lecture materials, books, special clothing, safety equipment, tools, and other items that are or may be required by the establishment to be bought or provided by students enrolled in each programme or scheme; and
+    (i) the total fees for each programme or micro-credential, including fees for class or lecture materials, books, special clothing, safety equipment, tools, and any other items that are or may be provided to students enrolled in that programme or micro-credential, and including any students association membership fees; and
+    (ii) the class or lecture materials, books, special clothing, safety equipment, tools, and other items that are or may be required by the establishment to be bought or provided by students enrolled in each programme or micro-credential; and
   (b) before accepting the enrolment of any prospective student, give the student a written statement of—
-    (i) the total costs of the programme or training scheme and all other financial commitments associated with the programme or training scheme; and
+    (i) the total costs of the programme or micro-credential and all other financial commitments associated with the programme or micro-credential; and
     (ii) the cost of fees charged for student services provided by the establishment; and
     (iii) any material conflicts of interest of any of the governing members of the establishment; and
     (iv) any interests of a kind described in any statement required under section 344(2)﻿(c)﻿(ii); and
-  (c) give every prospective student a written statement of the student’s entitlements under sections 357 and 529, in the event that the student withdraws from a programme or training scheme.
+  (c) give every prospective student a written statement of the student’s entitlements under sections 357 and 529, in the event that the student withdraws from a programme or micro-credential.
 
 **Protection of student fees**
 
 ### 355 Application of rules relating to student fee protection
-(1) This section applies to a person who receives money from a student for the purpose of enrolling, or helping the student to enrol, in a programme or training scheme at a private training establishment.
+(1) This section applies to a person who receives money from a student for the purpose of enrolling, or helping the student to enrol, in a programme or micro-credential at a private training establishment.
 (2) The person must comply with the requirements of any rules made under section 452 that relate to student fee protection.
 
 ### 356 Student fees must be deposited with independent trustee
-(1) If a private training establishment receives any funds paid by or on behalf of a student in respect of a programme or training scheme provided by the establishment, the establishment must—
+(1) If a private training establishment receives any funds paid by or on behalf of a student in respect of a programme or micro-credential provided by the establishment, the establishment must—
   (a) deposit those funds, as soon as practicable, with an independent trustee approved by NZQA; and
   (b) hold those funds on trust for the student until they are deposited with the independent trustee.
-(2) If a person to whom section 355 applies receives any funds paid by or on behalf of a student in respect of a programme or training scheme provided by the establishment, the person must—
+(2) If a person to whom section 355 applies receives any funds paid by or on behalf of a student in respect of a programme or micro-credential provided by the establishment, the person must—
   (a) deposit those funds, as soon as practicable, with an independent trustee approved by NZQA unless the establishment has made alternative arrangements that are acceptable to NZQA; and
   (b) hold those funds on trust for the student until they are deposited with the independent trustee or in accordance with the alternative arrangements referred to in paragraph (a).
 (3) An independent trustee approved by NZQA must comply with the requirements of any rules made under section 452 relating to student fee protection.
@@ -4046,18 +4106,18 @@ A private training establishment must—
   (a) may withdraw its approval of a particular trustee if satisfied that the trustee is not managing the trust funds in accordance with the rules; and
   (b) must, if approval for a trustee is withdrawn, appoint a new trustee in accordance with the rules.
 (5) The requirements specified in subsection (1) do not apply—
-  (a) in respect of any programme or training scheme that is exempt from those requirements by any rules made under section 452(1)﻿(u); or
+  (a) in respect of any programme or micro-credential that is exempt from those requirements by any rules made under section 452(1)﻿(u); or
   (b) in the case of a student or group of students for whom the private training establishment has deposited, with an independent trustee approved by NZQA, an amount of money that is sufficient to make the necessary refunds to that student or those students under section 357 or 529.
 
 ### 357 Refund entitlements of domestic students
 (1) This section applies to a domestic student who—
-  (a) is enrolled at a private training establishment for all or part of a programme or training scheme of more than 3 months’ duration; and
-  (b) withdraws from that programme or training scheme within the refund period.
-(2) The student is entitled to a refund of the payment (or the sum of any payments) made by the student in respect of the programme or training scheme that exceeds $500 or 10% of the amount of that payment or the sum of those payments, whichever is the lesser.
+  (a) is enrolled at a private training establishment for all or part of a programme or micro-credential of more than 3 months’ duration; and
+  (b) withdraws from that programme or micro-credential within the refund period.
+(2) The student is entitled to a refund of the payment (or the sum of any payments) made by the student in respect of the programme or micro-credential that exceeds $500 or 10% of the amount of that payment or the sum of those payments, whichever is the lesser.
 (3) Despite subsection (2), a private training establishment must—
-  (a) allow every domestic student enrolled in a programme or training scheme that is of less than 3 months’ duration to withdraw from it within a period (being less than 7 days) specified by NZQA; and
-  (b) refund to every domestic student who so withdraws a minimum amount or proportion, specified by NZQA, of any payments made by the student to the establishment in respect of the programme or training scheme.
-(4) If the student withdraws from a programme or training scheme within the refund period, the independent trustee must refund all payments made to it by the private training establishment in respect of the programme or scheme—
+  (a) allow every domestic student enrolled in a programme or micro-credential that is of less than 3 months’ duration to withdraw from it within a period (being less than 7 days) specified by NZQA; and
+  (b) refund to every domestic student who so withdraws a minimum amount or proportion, specified by NZQA, of any payments made by the student to the establishment in respect of the programme or micro-credential.
+(4) If the student withdraws from a programme or micro-credential within the refund period, the independent trustee must refund all payments made to it by the private training establishment in respect of the programme or micro-credential—
   (a) to the trustee of the student's new education provider; or
   (b) if the fee has been paid for by student loan, to MSD; or
   (c) to the student, if neither paragraph (a) nor (b) applies.
@@ -4066,55 +4126,21 @@ A private training establishment must—
   (b) the private training establishment may, if NZQA approves, make alternative arrangements in relation to the fees paid.
 (6) An instrument containing a specification by NZQA under subsection (3) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
-### 358 Rules apply if students withdraw because of programme or training scheme closure
-Any fees paid by or on behalf of a student who withdraws from a programme or training scheme because of the closure of the programme or scheme are subject to the protections set out in the rules made under section 452.
+### 358 Rules apply if students withdraw because of programme or micro-credential closure
+Any fees paid by or on behalf of a student who withdraws from a programme or micro-credential because of the closure of the programme or micro-credential are subject to the protections set out in the rules made under section 452.
 
 ### 359 Requirement that funds be paid applies to all components of fee payable
 The requirement that funds paid by or on behalf of a student be deposited with an independent trustee applies to all components of any fee payable by the student (for example, it includes any component of the fee payable by the student in respect of accommodation costs or agent commissions).
 
 ### 360 Ministerial direction to registered establishments relating to compulsory student services fees
-(1) For the purpose of ensuring accountability in the use of compulsory student services fees, the Minister may give 1 or more registered establishments a written direction that—
-  (a) lists the categories of student services that the establishment or establishments may make available to students:
-  (b) requires the establishment or establishments to hold the fees in a specified manner (for example, in a separate account to be used solely for the purpose of expenditure on student services) and, if the fees are to be held in an account, ensure that the account is audited:
-  (c) requires the establishment or establishments to make adequate arrangements for decisions to be made jointly or in consultation with the students enrolled at the establishment, or their representatives, on the following matters:
-    (i) the types of student services that, subject to subsection (2)﻿(a), are to be made available to students:
-    (ii) the categories of student services that, subject to subsection (2)﻿(b), are to be made available to students:
-    (iii) the maximum amount that students may be charged for the student services that are to be made available (the student services fee):
-    (iv) the procurement of student services:
-    (v) the method of authorising expenditure on student services:
-  (d) requires the establishment or establishments to provide each year to students a written report including the following information:
-    (i) a description of the services funded out of the student services fee:
-    (ii) a statement of the fee income and expenditure for each type of student service:
-    (iii) the student services fee expressed as an amount payable per student:
-    (iv) a statement describing how the establishment has complied with any requirement to hold fees in a manner specified in a direction given under paragraph (b):
-  (e) requires the establishment or establishments to publish information about the following matters on an Internet site maintained by or on behalf of the establishment:
-    (i) the student services fee expressed as an amount payable per student:
-    (ii) the arrangements that the establishment has made for decisions to be made jointly or in consultation with students or their representatives in accordance with paragraph (c):
-    (iii) how students can participate in the process of joint decision making or consultation mentioned in paragraph (c).
-(2) If the Minister lists under subsection (1)﻿(a) categories of student services that may be made available to students (listed categories),—
-  (a) the types of student services described in subsection (1)﻿(c)﻿(i) must fall within the listed categories; and
-  (b) the categories of student services described in subsection (1)﻿(c)﻿(ii) must be listed categories.
-(3) A direction given under subsection (1)—
-  (a) may include 1 or more of the things specified in subsection (1):
-  (b) must specify when it must be complied with.
-(4) If a registered establishment does not comply with a direction given under subsection (1), the Minister may give a written direction to that establishment specifying—
-  (a) the types of student services that the establishment may make available to students; and
-  (b) the maximum amount that students may be charged for those services; and
-  (c) when the direction must be complied with.
-(5) Before giving a direction under subsection (1) or (4), the Minister must,—
-  (a) by notice in the Gazette,—
-    (i) set out the proposed direction; and
-    (ii) invite submissions on it; and
-    (iii) state a final date for receipt of submissions (being a date no later than 21 days after the date of the Gazette notice); and
-  (b) consider the submissions (if any) on the proposed direction.
-(6) In subsection (1), compulsory student services fees are fees for the provision of student services that a student must pay to a registered establishment as a condition of enrolment in a programme or training scheme at the establishment.
+[Repealed]
 
 **Student records**
 
 ### 361 Duties of private training establishments to maintain student records
 (1) A private training establishment must—
   (a) keep accurate enrolment and academic records for each student enrolled in—
-    (i) a programme or training scheme provided by the establishment; or
+    (i) a programme or micro-credential provided by the establishment; or
     (ii) standards-based study or training provided by the establishment through a consent to assess against standards granted under section 449; and
   (b) comply with rules made under section 452(1)﻿(q) in respect of those records; and
   (c) ensure that the enrolment records required to be kept under this section are up to date; and
@@ -4179,9 +4205,9 @@ Each workforce development council established under section 363 is a body corpo
 (1) The functions of a workforce development council, in relation to the specified industries covered by it, are—LeadershipDeveloping and setting standards, capstone assessments, and qualificationsEndorsing programmes and moderating assessmentsAdvisory and representative roleOther functions
   (a) to provide skills and workforce leadership for the specified industries, including by identifying their current and future needs and advocating for those needs to be met through its work with the industries and with schools, providers, regional bodies, and the Government:
   (b) to develop, set, and maintain skill standards:
-  (c) to develop and maintain industry qualifications for listing on the Qualifications Framework and to maintain qualifications for which it has become the qualifications developer:
-  (d) to develop and maintain training schemes:
-  (e) to develop and maintain training packages:
+  (c) to develop and maintain industry qualifications for listing on the Qualifications and Credentials Framework and to maintain qualifications for which it has become the qualifications developer:
+  (d) to develop and maintain micro-credentials:
+  (e) to develop and maintain national curricula for qualifications for which it is responsible as a standard-setting body under section 438:
   (f) to develop, set, and maintain capstone assessments based on the needs of the specified industries:
   (g) to decide whether to endorse programmes developed by providers:
   (h) to carry out moderation activities in relation to any standards and capstone assessments it sets:
@@ -4212,9 +4238,9 @@ Each workforce development council established under section 363 is a body corpo
   (a) must take into account the needs of employers and employees in the 1 or more specified industries covered by the workforce development council but, in doing so, must also consider national and regional interests:
   (b) must have regard to the needs of Māori and other population groups identified in the tertiary education strategy issued under section 7:
   (c) must, to the extent that is necessary or desirable in the circumstances, work collaboratively with—
-    (i) providers in relation to the functions set out in section 366(1)﻿(b) and (c) and, in the case of wānanga, while respecting their special character under section 268(2)﻿(d)﻿(ii)﻿(B):
+    (i) providers in relation to the functions set out in section 366(1)﻿(b), (c), and (e) and, in the case of wānanga, while respecting their special character under section 268(2)﻿(d)﻿(ii)﻿(B):
     (ii) other workforce development councils, particularly on matters of common interest:
-    (iii) NZQA, in relation to qualifications development, programme endorsement, or developing, setting, or maintaining skill standards:
+    (iii) NZQA, in relation to qualifications development, programme endorsement, or developing, setting, or maintaining skill standards or national curricula:
     (iv) any relevant regulatory body that performs or exercises any functions, duties, or powers under an enactment in relation to entry to an occupation in any of the specified industries covered by the workforce development council:
   (d) must, when performing its functions under section 366(1)﻿(i) to (k), take all reasonable steps to avoid any adverse impact on its relationship with a provider or providers.
 
@@ -4391,16 +4417,17 @@ A private training establishment that fails, without reasonable excuse, to compl
 
 ### 391 Offences relating to false representations
 (1) A person commits an offence if the person falsely represents, expressly or by implication, that—
-  (a) a qualification is listed on the Qualifications Framework; or
-  (b) a programme or training scheme—
+  (a) a qualification, credential, or micro-credential is listed on the Qualifications and Credentials Framework; or
+  (b) a programme or micro-credential—
     (i) is an approved programme or training scheme; or
-    (ii) leads to a qualification listed on the Qualifications Framework; or
+    (ii) leads to a qualification or micro-credential listed on the Qualifications and Credentials Framework; or
+    (ba) a curriculum is a national curriculum recognised under section 438B; or
   (c) a body—
     (i) is a registered establishment; or
-    (ii) has accreditation to provide an approved programme or training scheme; or
-    (iii) is providing or purports to provide an approved programme or training scheme; or
+    (ii) has accreditation to provide an approved programme or micro-credential; or
+    (iii) is providing or purports to provide an approved programme or micro-credential; or
     (iv) has consent to assess against standards; or
-  (d) a standard is in the Directory of Assessment Standards; or
+  (d) a standard is in the Directory of Assessment and Skill Standards; or
   (e) the person is an agent of an institution, a government training establishment, a registered establishment, or a relevant school when the person is not.
 (2) A person who commits an offence against subsection (1) is liable on conviction to a fine not exceeding $10,000.
 (3) A person commits an offence if the person, without reasonable excuse, makes a false representation for the purpose of receiving, or continuing to receive, free tertiary education from a tertiary education organisation.
@@ -4411,8 +4438,8 @@ A private training establishment that fails, without reasonable excuse, to compl
 
 ### 392 Offence to issue false qualifications and falsify records
 (1) A person commits an offence if the person—
-  (a) receives an award knowing that the award falsely represents, expressly or by implication, that the person has achieved a qualification listed on the Qualifications Framework; or
-  (b) knowingly or recklessly issues an award that falsely represents, expressly or by implication, that a person has achieved a qualification listed on the Qualifications Framework; or
+  (a) receives an award knowing that the award falsely represents, expressly or by implication, that the person has achieved a qualification listed on the Qualifications and Credentials Framework; or
+  (b) knowingly or recklessly issues an award that falsely represents, expressly or by implication, that a person has achieved a qualification listed on the Qualifications and Credentials Framework; or
   (c) enters or changes an educational outcome on a student’s record of achievement, knowing that or being reckless as to whether the entry or change has the effect of falsifying the student’s record; or
   (d) fails to enter an educational outcome on a student’s record of achievement, knowing that or being reckless as to whether the omission has the effect of falsifying the student’s record; or
   (e) causes, without reasonable excuse or lawful authority, an entry or a change to be made on a student’s record of achievement that has the effect of falsifying the student’s record.
@@ -4427,11 +4454,11 @@ A private training establishment that fails, without reasonable excuse, to compl
 (2) A person who commits an offence against subsection (1) is liable on conviction to a fine not exceeding $10,000.
 (3) In this section,—
   - **specified service** , in relation to a student, means—
-    (a) completing an assignment or any other work that the student is required to complete as part of a programme or training scheme:
-    (b) providing or arranging the provision of an assignment that the student is required to complete as part of a programme or training scheme:
-    (c) providing or arranging the provision of answers for an examination that the student is required to sit as part of a programme or training scheme:
-    (d) sitting an examination that the student is required to sit as part of a programme or training scheme or providing another person to sit the examination in place of the student
-  - **student** means a student of a programme or training scheme.
+    (a) completing an assignment or any other work that the student is required to complete as part of a programme or micro-credential:
+    (b) providing or arranging the provision of an assignment that the student is required to complete as part of a programme or micro-credential:
+    (c) providing or arranging the provision of answers for an examination that the student is required to sit as part of a programme or micro-credential:
+    (d) sitting an examination that the student is required to sit as part of a programme or micro-credential or providing another person to sit the examination in place of the student
+  - **student** means a student of a programme or micro-credential.
 
 ### 394 Offence relating to registration of private training establishments
 A private training establishment that contravenes section 343 commits an offence and is liable on conviction to a fine not exceeding $10,000.
@@ -4483,7 +4510,7 @@ A private training establishment that contravenes section 343 commits an offence
 (5) Subpart 4 concerns the Teaching Council.
 (6) Subpart 5 concerns Education New Zealand.
 (7) Subpart 6 concerns international students.
-(8) Subpart 7 concerns the pastoral care of students.
+(8) Subpart 7 concerns the well-being and safety of students.
 (9) Subpart 8 sets out several offences provisions.
 
 ### Subpart 1 — Tertiary Education Commission
@@ -4666,7 +4693,7 @@ Despite section 6 of the Commerce Act 1986, nothing in that Act applies to TEC e
   (a) specify the amount of money, or the proportion of an amount of money, available under any particular funding mechanism; and
   (b) provide for funding to different groups of organisations or types of organisation; and
   (c) provide for different versions of, or modifications to, a funding mechanism when applying it to different groups of organisations or types of organisation; and
-  (d) specify the conditions that TEC must attach to funding that is provided under funding mechanisms, including (without limitation) conditions setting limits on fees that organisations may charge—
+  (d) specify the conditions that TEC must attach to funding that is provided under funding mechanisms, including (without limitation) conditions setting limits on and requirements relating to fees, including fees for student services, that organisations may charge—
     (i) domestic students:
     (ii) employers for supporting their employees’ work-based training; and
   (e) provide for funding that targets particular groups of students.
@@ -4675,7 +4702,7 @@ Despite section 6 of the Commerce Act 1986, nothing in that Act applies to TEC e
 ### 420 Restrictions on design of funding mechanisms
 (1) In determining a design for a funding mechanism under section 419 or in varying a determination under section 423, the Minister may not—
   (a) identify a specified organisation or specified organisations to which funding is to be provided or denied under any funding mechanism; or
-  (b) specify conditions under section 419(3)﻿(d) that set limits on the fees that organisations may charge domestic students or that organisations may charge employers until—
+  (b) specify conditions under section 419(3)﻿(d) that set limits or requirements relating to fees that organisations may charge domestic students or that organisations may charge employers until—
     (i) the Minister has published a notice in the Gazette that—
       (A) states that the Minister proposes to specify conditions of that kind; and
       (B) sets out the proposed conditions; and
@@ -4700,7 +4727,7 @@ TEC must—
 (3) Before deciding to vary a determination, the Minister must consult—
   (a) all organisations that would be affected by a variation that the Minister proposes; and
   (b) all other persons and organisations that the Minister thinks fit to consult.
-(4) However, the Minister is not required to consult under subsection (3) in relation to a variation of the conditions under section 419(3)﻿(d) that set limits on the fees that organisations may charge domestic students and employers.
+(4) However, the Minister is not required to consult under subsection (3) in relation to a variation of the conditions under section 419(3)﻿(d) that set limits or requirements relating to fees that organisations may charge domestic students and employers.
 (5) If the Minister varies a determination, an organisation affected by the variation must—
   (a) consider whether any amendments are needed to its plan as a result of the variation; and
   (b) if it considers that a significant amendment is needed to its plan, or that its plan needs to be replaced, ask TEC to approve the significant amendment to, or the replacement of, its plan under clause 20 of Schedule 18.
@@ -4792,21 +4819,21 @@ TEC must—
 ### 433 Functions of NZQA
 (1) NZQA has the following functions:
   (a) to oversee the setting of standards for qualifications in relevant schools and in tertiary education:
-  (b) to monitor and regularly review, and advise the Minister on, the standards for qualifications in relevant schools and in tertiary education, either generally or in relation to a particular organisation or a particular programme or training scheme:
+  (b) to monitor and regularly review, and advise the Minister on, the standards for qualifications in relevant schools and in tertiary education, either generally or in relation to a particular organisation or a particular programme or micro-credential:
   (c) to maintain mechanisms for the recognition of learning (for example, the recognition of learning through qualifications gained and standards met):
-  (d) to maintain the Qualifications Framework and Directory of Assessment Standards:
+  (d) to maintain the Qualifications and Credentials Framework and Directory of Assessment and Skill Standards:
   (e) to monitor, through the exercise of its powers under this Act, compliance by workforce development councils with the prescribed quality assurance requirements, and to address non-compliance:
   (f) to monitor the quality and results of a workforce development council’s systems and procedures for its moderation activities:
   (g) to make rules, not inconsistent with this Act, under any provision of this subpart that empowers NZQA to make rules:
-  (h) to ensure there are mechanisms in place to guarantee that relevant schools and tertiary education providers that provide programmes or training schemes that, in the view of NZQA, require national consistency have assessment and moderation procedures that are fair, equitable, and consistent, and comply with the appropriate standards:
+  (h) to ensure there are mechanisms in place to guarantee that relevant schools and tertiary education providers that provide programmes or micro-credentials that, in the view of NZQA, require national consistency have assessment and moderation procedures that are fair, equitable, and consistent, and comply with the appropriate standards:
   (i) to assist overseas governments, and agencies of those governments, by—
     (i) conducting examinations and assessments:
-    (ii) approving programmes and training schemes:
-    (iii) granting accreditations for the provision of approved programmes:
+    (ii) approving programmes and micro-credentials:
+    (iii) granting accreditations for the provision of approved programmes or approved micro-credentials:
     (iv) assisting governments and agencies to develop and conduct examinations, and to develop and confer awards:
   (j) to maintain effective liaison with overseas certifying and validating bodies, in order to recognise overseas educational and vocational qualifications in New Zealand and to achieve recognition overseas of New Zealand educational and vocational qualifications:
   (k) to ensure that post-school educational and vocational qualifications maintain international comparability:
-  (l) to promote and monitor the delivery of inter-institutional programmes and training schemes:
+  (l) to promote and monitor the delivery of inter-institutional programmes and micro-credentials:
   (m) any other functions that are conferred on it by this Act or any other enactment.
 (2) NZQA may consult any persons, authorities, and bodies that it thinks fit for the purposes of performing any of its functions.
 (3) NZQA must have regard to the tertiary education strategy when performing its functions under this Act or any other enactment.
@@ -4825,23 +4852,26 @@ TEC must—
 ### 435 Research
 NZQA has the power to carry out any research activities that it considers relevant to the performance of its functions.
 
-**Qualifications Framework**
+**Qualifications and Credentials Framework**
 
-### 436 Qualifications Framework
-(1) The Qualifications Framework—
-  (a) consists of all qualifications that have been approved and listed by NZQA in accordance with the rules made under section 452; and
-  (b) includes the rules relating to the Qualifications Framework made under that section.
+### 436 Qualifications and Credentials Framework
+(1) The Qualifications and Credentials Framework—
+  (a) consists of all qualifications and micro-credentials that have been approved and listed by NZQA in accordance with the rules made under section 452; and
+  (b) includes the rules relating to the framework made under that section.
 (2) NZQA—
-  (a) must list on the Qualifications Framework all qualifications that it has approved in accordance with the rules:
-  (b) may, in accordance with the rules, amend, add to, remove, or alter the status of any qualification on the framework.
-(3) If a qualification is removed from the Qualifications Framework,—
-  (a) any programme approval held by an institution in respect of the qualification lapses; and
-  (b) any accreditation granted to an institution in respect of the qualification lapses.
+  (a) must list on the Qualifications and Credentials Framework all qualifications and micro-credentials that it has approved in accordance with the rules made under section 452:
+  (b) may, in accordance with the rules, review, amend, remove, or alter the status of any qualification or micro-credential on the framework.
+(3) If a qualification is removed from the Qualifications and Credentials Framework,—
+  (a) any programme approval granted to an institution under section 439 in respect of that qualification lapses; and
+  (b) any accreditation granted to an institution under section 441 in respect of that qualification lapses.
+(4) If a micro-credential is removed from the Qualifications and Credentials Framework,—
+  (a) any approval of the content of that micro-credential granted to an institution under section 445 lapses; and
+  (b) any accreditation granted to an institution under section 446A to provide that micro-credential lapses.
 
-**Directory of Assessment Standards**
+**Directory of Assessment and Skill Standards**
 
-### 437 Directory of Assessment Standards
-(1) The Directory of Assessment Standards consists of all standards approved by NZQA for use by institutions as standards for the assessment of students.
+### 437 Directory of Assessment and Skill Standards
+(1) The Directory of Assessment and Skill Standards consists of all assessment and skill standards approved by NZQA for use by institutions as standards for the assessment of students.
 (2) An application to have standards listed in the Directory—
   (a) may only be made by an approved standard-setting body; and
   (b) must be made in accordance with the rules.
@@ -4856,7 +4886,37 @@ NZQA has the power to carry out any research activities that it considers releva
 (3) In deciding whether to approve a standard-setting body, NZQA must apply the criteria set out in the rules, and must be satisfied that the applicant is able to—
   (a) draft standards that meet the requirements in the rules; and
   (b) manage consistency across New Zealand in learning outcomes in the relevant subject areas; and
-  (c) carry out national moderation of assessment of students.
+  (c) carry out national moderation of assessment of students; and
+  (d) develop and maintain national curricula for qualifications for which the standard-setting body is responsible.
+
+### 438A Standard-setting bodies may develop national curricula
+(1) An approved standard-setting body may develop and maintain a national curriculum for a qualification for which the body is responsible.
+(2) In performing this function, a standard-setting body must, to the extent that is necessary or desirable in the circumstances, work collaboratively with—
+  (a) providers:
+  (b) other standard-setting bodies, particularly on matters of common interest:
+  (c) NZQA:
+  (d) any relevant regulatory body that performs or exercises any functions, duties, or powers under an enactment in relation to entry to an occupation in any of the specified industries covered by the standard-setting body.
+
+### 438B Recognition of national curricula
+(1) The standard-setting body may apply to NZQA for recognition of a national curriculum.
+(2) NZQA—
+  (a) may grant or refuse to grant recognition of the national curriculum to the applicant; and
+  (b) must give the applicant written notice of its decision to grant or refuse recognition; and
+  (c) may grant recognition for a specified period or indefinitely.
+(3) If 2 or more standard-setting bodies have developed a national curriculum together, they may make a joint application for recognition of the national curriculum.
+(4) If NZQA considers that there may be grounds for withdrawing recognition of a national curriculum,—
+  (a) NZQA must give written notice to the standard-setting body concerned stating the grounds on which NZQA is considering withdrawing recognition; and
+  (b) NZQA must give the standard-setting body reasonable time (as specified in the notice) to make submissions on the matter; and
+  (c) after considering those submissions, NZQA—
+    (i) may withdraw recognition from a specified date if it considers there are reasonable grounds to do so; and
+    (ii) must notify the standard-setting body of the withdrawal (if any) and the reasons for it.
+(5) NZQA may withdraw recognition of a national curriculum from a specified date at the written request of the standard-setting body concerned.
+
+### 438C Recognised national curriculum treated as approved programme
+(1) For the purposes of this Act, a national curriculum that is recognised under section 438B is to be treated as if it were a programme granted approval under section 439 and any reference in this Act to an approved programme applies to that national curriculum.
+(2) However, the following sections do not apply in respect of a recognised national curriculum:
+  (a) section 440 (which relates to conditions on programme approvals):
+  (b) section 459 (which relates to compliance notices).
 
 **Approval of programmes**
 
@@ -4897,18 +4957,19 @@ NZQA has the power to carry out any research activities that it considers releva
 ### 441 Accreditation to provide approved programmes
 (1) An institution may not offer or provide all or part of an approved programme unless the institution is granted accreditation to provide the programme or part of the programme.
 (2) An institution may apply to NZQA for a grant of accreditation to provide all or part of a programme.
-(3) If the programme for which accreditation is sought incorporates standards from the Directory of Assessment Standards, the applicant must obtain consent to assess against those standards.
+(3)
 (4) NZQA—
   (a) may grant or refuse to grant accreditation to the institution to provide all or part of the programme; and
   (b) must give the institution written notice of its decision to grant or refuse accreditation; and
-  (c) may grant accreditation without limitation as to time or for a specified period.
+  (c) may grant accreditation for a specified period or indefinitely.
+(4A) If NZQA grants accreditation to the institution to provide all or part of the programme and the programme or part of the programme incorporates standards from the Directory of Assessment and Skill Standards, the institution is authorised to assess against those standards.
 (5) This section—
   (a) does not apply to any secondary school qualification or class of secondary school qualification that NZQA exempts, by notice, from the application of this section:
   (b) is subject to section 453.
 (6) A notice under subsection (5)﻿(a) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 442 Conditions on accreditation
-(1) Every accreditation is subject to the condition that the institution complies at all times with the relevant rules made under section 452, except to the extent that NZQA exempts the institution, by a condition on the accreditation, from compliance.
+(1) Every accreditation to provide an approved programme is subject to the condition that the institution complies at all times with the relevant rules made under section 452, except to the extent that NZQA exempts the institution, by a condition on the accreditation, from compliance.
 (2) When granting accreditation to an institution to provide an approved programme, NZQA may impose conditions on the accreditation that are—
   (a) specific to the programme or a particular class of programmes; or
   (b) specific to the institution or a particular class of institutions.
@@ -4919,17 +4980,17 @@ NZQA has the power to carry out any research activities that it considers releva
   (c) considered any submissions made by the institution in response to the notice.
 (5) When conditions are imposed, amended, or revoked, NZQA must give notice in writing to the accredited institution of the new, amended, or revoked conditions.
 
-### 443 Lapse of accreditation
-(1) An accreditation granted to an institution lapses when—
+### 443 Lapse of accreditation to provide approved programme
+(1) An accreditation to provide an approved programme granted to an institution lapses when—
   (a) 12 months have passed since accreditation was granted and the institution has not during that time provided all or part of the programme to which the accreditation relates; or
   (b) 12 months have passed since the institution last provided all or part of the programme to which the accreditation relates; or
   (c) the programme to which the accreditation relates ceases to be an approved programme; or
-  (d) the status of the qualification to which the accreditation relates is discontinued on the Qualifications Framework.
+  (d) the status of the qualification to which the accreditation relates is discontinued on the Qualifications and Credentials Framework.
 (2) Despite subsection (1), NZQA may, if it considers that the circumstances so require, extend the time specified in subsection (1)﻿(a) or (b).
 (3) NZQA must give written notice of the lapse of an accreditation to the institution concerned.
 
-### 444 Withdrawal of accreditation
-(1) If NZQA considers that there may be grounds for withdrawing an accreditation from an institution, NZQA must give written notice to the institution—
+### 444 Withdrawal of accreditation to provide approved programme
+(1) If NZQA considers that there may be grounds for withdrawing an accreditation to provide an approved programme from an institution, NZQA must give written notice to the institution—
   (a) setting out the grounds on which NZQA is considering withdrawing the accreditation; and
   (b) giving the institution a reasonable period to make submissions on the matter.
 (2) After that period, and having considered any submission made by the institution, NZQA may, on any reasonable grounds, withdraw the accreditation.
@@ -4937,43 +4998,56 @@ NZQA has the power to carry out any research activities that it considers releva
 (4) NZQA may withdraw an accreditation at the written request of the institution concerned.
 (5) This section does not limit NZQA’s power to withdraw an accreditation under section 459(6).
 
-**Training schemes**
+**Micro-credentials**
 
-### 445 Application for training scheme approval
-(1) An institution may apply to NZQA for approval to provide a training scheme.
+### 445 Application for micro-credential approval
+(1) An institution may apply to NZQA for approval of the content of a micro-credential.
 (2) NZQA—
-  (a) may grant or refuse to grant approval to the training scheme; and
+  (a) may grant or refuse to grant approval of the content of the micro-credential; and
   (b) must give the institution and any joint applicant written notice of its decision to grant or refuse approval; and
   (c) may grant approval for a specified period or indefinitely.
-(3) If the training scheme incorporates assessment standards listed in the Directory of Assessment Standards, NZQA may not grant training scheme approval until the institution has obtained consent to assess against those standards.
+(3)
 (4) This section does not apply to any secondary school qualification or class of secondary school qualification that NZQA exempts, by notice, from the application of this section.
 (5) A notice under subsection (4) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
-### 446 Conditions of training scheme approval
-(1) Every training scheme approval is subject to the condition that the institution complies at all times with the relevant rules made under section 452 except to the extent that NZQA exempts the institution, by a condition on the approval, from compliance.
-(2) NZQA may impose conditions on a training scheme approval, and, for that purpose, section 442(2) to (5) applies as if each reference to accreditation were a reference to a training scheme approval under this section.
+### 446 Conditions of micro-credential approval
+(1) Every approval of the content of a micro-credential is subject to the condition that the institution complies at all times with the relevant rules made under section 452 except to the extent that NZQA exempts the institution, by a condition on the approval, from compliance.
+(2) NZQA may impose conditions on an approval, and, for that purpose, section 442(2) to (5) applies as if each reference to accreditation or accreditation to provide an approved programme were a reference to a training scheme approval under this section.
 
-### 447 Lapse of training scheme approval
-(1) A training scheme approval granted to an institution lapses when—
-  (a) 12 months have passed since approval was granted and the institution has not during that time provided all or part of the training scheme to which the approval relates; or
-  (b) 12 months have passed since the institution last provided all or part of the training scheme to which the approval relates.
+### 446A Accreditation to provide approved micro-credentials
+(1) An institution may not offer or provide an approved micro-credential unless the institution is granted accreditation to provide the micro-credential.
+(2) An institution may apply to NZQA for accreditation to provide a micro-credential.
+(3) NZQA—
+  (a) may grant or refuse to grant accreditation to the institution to provide the micro-credential; and
+  (b) must give the institution written notice of its decision to grant or refuse accreditation; and
+  (c) may grant accreditation for a specified period or indefinitely.
+(4) If NZQA grants accreditation to the institution to provide the micro-credential and the micro-credential incorporates standards from the Directory of Assessment and Skill Standards, the institution is authorised to assess against those standards.
+
+### 446B Conditions on accreditation to provide approved micro-credentials
+(1) Every accreditation to provide an approved micro-credential is subject to the condition that the institution complies at all times with the relevant rules made under section 452, except to the extent that NZQA exempts the institution, by a condition on the accreditation, from compliance.
+(2) NZQA may impose conditions on an accreditation to provide an approved micro-credential, and, for that purpose, section 442(2) to (5) applies as if each reference to accreditation or accreditation to provide an approved programme included an accreditation to provide an approved micro-credential under this section.
+
+### 447 Lapse of accreditation to provide approved micro-credential
+(1) An accreditation to provide an approved micro-credential granted to an institution lapses when—
+  (a) 12 months have passed since the accreditation was granted and the institution has not during that time provided the micro-credential to which the accreditation relates; or
+  (b) 12 months have passed since the institution last provided the micro-credential to which the accreditation relates.
 (2) Despite subsection (1), NZQA may, if it considers that the circumstances so require, extend the time specified in subsection (1)﻿(a) or (b).
-(3) NZQA must give written notice of the lapse of a training scheme approval to the institution concerned.
+(3) NZQA must give written notice of the lapse of an accreditation to the institution concerned.
 
-### 448 Withdrawal of training scheme approval
-(1) If NZQA considers that there may be grounds for withdrawing a training scheme approval from an institution, NZQA must give written notice to the institution—
-  (a) setting out the grounds on which NZQA is considering withdrawing the approval; and
+### 448 Withdrawal of micro-credential approval or accreditation
+(1) If NZQA considers that there may be grounds for withdrawing an approval of the content of a micro-credential or an accreditation to provide a micro-credential from an institution, NZQA must give written notice to the institution—
+  (a) setting out the grounds on which NZQA is considering withdrawing the approval or accreditation; and
   (b) giving the institution a reasonable period to make submissions on the matter.
 (2) After the period referred to in subsection (1)﻿(b), and having considered any submission made by the institution, NZQA—
-  (a) may, on reasonable grounds, withdraw the training scheme approval; and
+  (a) may, on reasonable grounds, withdraw the approval or accreditation; and
   (b) must give notice of the withdrawal, with reasons, to the institution concerned.
-(3) This section does not limit NZQA’s power to withdraw a training scheme approval under section 459(6).
-(4) NZQA may withdraw a training scheme approval at the written request of the institution concerned.
+(3) This section does not limit NZQA’s power to withdraw a approval or accreditation under section 459(6).
+(4) NZQA may withdraw a approval or accreditation at the written request of the institution concerned.
 
 **Consent to assess against standards**
 
 ### 449 Consent to assess against standards
-(1) An institution that proposes to assess its students against standards listed in the Directory of Assessment Standards must apply to NZQA for consent to assess against those standards.
+(1) An institution that proposes to assess its students against standards listed in the Directory of Assessment and Skill Standards must apply to NZQA for consent to assess against those standards.
 (2) NZQA may grant or refuse consent to assess against those standards.
 (3) NZQA may withdraw a consent, but only after complying with subsection (4).
 (4) Before NZQA withdraws a consent, it must—
@@ -4985,13 +5059,13 @@ NZQA has the power to carry out any research activities that it considers releva
 
 ### 450 Conditions on consent
 (1) Every consent to assess against standards is subject to the condition that the institution complies at all times with the relevant rules made under section 452 except to the extent that NZQA exempts the institution, by a condition on the consent, from compliance.
-(2) NZQA may impose conditions on a consent to assess against standards, and for that purpose section 442(2) to (5) applies as if each reference to accreditation were a reference to a consent to assess against standards.
+(2) NZQA may impose conditions on a consent to assess against standards, and for that purpose section 442(2) to (5) applies as if each reference to accreditation or accreditation to provide an approved programme were a reference to a consent to assess against standards.
 
 ### 451 When consent expires or ceases to have effect
 (1) A consent to assess against standards expires—
-  (a) when any training scheme approval or accreditation to which the consent relates is withdrawn, lapses, expires, or otherwise ceases to have effect:
-  (b) when the status of all standards to which the consent relates is discontinued in the Directory of Assessment Standards.
-(2) If the status of any standard to which the consent relates is discontinued in the Directory of Assessment Standards, the consent ceases to have effect in respect of that standard.
+  (a) when any accreditation to which the consent relates is withdrawn, lapses, expires, or otherwise ceases to have effect:
+  (b) when the status of all standards to which the consent relates is discontinued in the Directory of Assessment and Skill Standards.
+(2) If the status of any standard to which the consent relates is discontinued in the Directory of Assessment and Skill Standards, the consent ceases to have effect in respect of that standard.
 
 **Rules**
 
@@ -5000,25 +5074,26 @@ NZQA has the power to carry out any research activities that it considers releva
   (a) prescribing the process for, and the information required in, an application for—
     (i) registration of a private training establishment:
     (ii) approval of a programme:
-    (iii) approval of a training scheme:
+    (iii) approval of a micro-credential:
     (iv) accreditation:
     (v) consent to assess against standards:
     (vi) approval as a standard-setting body:
-    (vii) the listing of a qualification on the Qualifications Framework:
-    (viii) the listing of a standard on the Directory of Assessment Standards:
+    (vii) the listing of a qualification or micro-credential on the Qualifications and Credentials Framework:
+    (viii) the listing of a standard on the Directory of Assessment and Skill Standards:
+    (ix) recognition of a national curriculum:
   (b) prescribing criteria that NZQA must apply when considering—
     (i) each class of application described in paragraph (a); and
     (ii) different kinds of application within each class:
-  (c) prescribing requirements that the applicant must meet in order to maintain the registration, approval, accreditation, or consent granted by NZQA:
+  (c) prescribing requirements that the applicant must meet in order to maintain the registration, approval, accreditation, consent, or recognition granted by NZQA:
   (d) prescribing the amount of, or the method of determining, the annual registration fee required under section 349:
   (e) prescribing the requirements for the protection of student fees that must be met by a private training establishment, any person to whom section 355 applies, any agent or person purporting to act as an agent for a student or private training establishment, and any independent trustee:
-  (f) prescribing matters relating to the general operation of the Qualifications Framework and the Directory of Assessment Standards:
+  (f) prescribing matters relating to the general operation of the Qualifications and Credentials Framework and the Directory of Assessment and Skill Standards:
   (g) prescribing the quality assurance requirements that must be met by providers of adult and community education:
   (h) prescribing the amount of, or the method of determining, the annual fee payable by a workforce development council and when and how that fee is payable:
   (i) prescribing quality assurance requirements for workforce development councils, including (without limitation) requirements relating to the performance of the relevant functions of workforce development councils:
-  (j) prescribing matters relating to training packages:
-  (k) providing for the review, amendment, removal, or alteration of the status of qualifications and standards, including their components (including where amendments to titles occur, consequential amendments to programmes of study or training titles, accreditations, and consents to assess against standards):
-  (l) providing any special requirements for NCEA and other secondary school qualifications or awards for the purposes of the Qualifications Framework:
+  (j)
+  (k) providing for the review, amendment, removal, or alteration of the status of qualifications, micro-credentials, and standards, including their components (including where amendments to titles occur, consequential amendments to approved programmes of study or training titles, micro-credential approval titles, accreditations to provide approved programmes or approved micro-credentials, and consents to assess against standards):
+  (l) providing any special requirements for NCEA and other secondary school qualifications or awards for the purposes of the Qualifications and Credentials Framework:
   (m) providing for the conduct of assessments and examinations relating to any qualifications or awards:
   (n) prescribing the details for credits, cross-credits, recognition of prior learning, and moderation:
   (o) prescribing requirements for qualifications in respect of which NZQA is the qualifications developer:
@@ -5030,12 +5105,15 @@ NZQA has the power to carry out any research activities that it considers releva
   (r) prescribing reporting requirements that institutions or workforce development councils must comply with in relation to the student’s record of achievement that is maintained by NZQA:
   (s) for the purposes of rules made under paragraph (r), specifying the qualifications or standards for which institutions or workforce development councils are required to report the credits gained by students undertaking or who have undertaken study or training towards those qualifications or standards:
   (t) prescribing the quality assurance requirements for tertiary education bodies in respect of which NZQA grants approvals or consents under this subpart:
-  (u) prescribing the types of programmes and training schemes that are exempt from the requirements specified in section 356(1):
+  (u) prescribing the types of programmes and micro-credentials that are exempt from the requirements specified in section 356(1):
+  (ua) prescribing the process that an institution must follow in order to make any 1 of the following types of transitions:
+    (i) a transition from education and training that leads to a qualification through an approved programme that it is accredited to provide to education and training that it is accredited to provide through a national curriculum (or vice versa):
+    (ii) a transition from education that leads to a qualification through a national curriculum that it is accredited to provide to an amended or a replacement national curriculum for that qualification.
   (v) providing for any other matters contemplated by this subpart and subpart 5 of Part 4, necessary for their administration, or necessary for giving them full effect.
 (2) Without limiting any power to make rules under this section, restrictions on the use of standards may be included in any rules made under subsection (1)﻿(b) that—
   (a) prescribe criteria that NZQA must apply when considering applications for approval of a programme leading to a degree or postgraduate qualification:
-  (b) prescribe criteria that NZQA must apply when considering applications for the listing of a degree or postgraduate qualification on the Qualifications Framework:
-  (c) prescribe criteria that NZQA must apply when considering applications for the listing of a standard in the Directory of Assessment Standards that relates to any programme leading to a degree or postgraduate qualification.
+  (b) prescribe criteria that NZQA must apply when considering applications for the listing of a degree or postgraduate qualification on the Qualifications and Credentials Framework:
+  (c) prescribe criteria that NZQA must apply when considering applications for the listing of a standard in the Directory of Assessment and Skill Standards that relates to any programme leading to a degree or postgraduate qualification.
 (3) Rules made under subsection (1)﻿(o) may specify different requirements for different qualifications.
 (4) Before making rules under this section that apply to a class of institutions, NZQA must consult,—
   (a) if the rules relate to universities, the Vice-Chancellors Committee; and
@@ -5053,8 +5131,8 @@ NZQA has the power to carry out any research activities that it considers releva
 (3) In exercising the powers of NZQA, the Vice-Chancellors Committee—
   (a) must apply the relevant rules made under section 452:
   (b) may charge fees to a university for the grant of any approval or accreditation:
-  (c) may list or arrange for the listing of qualifications offered by universities on the Qualifications Framework:
-  (d) may correct any errors or omissions in the listing of qualifications on the Qualifications Framework.
+  (c) may list or arrange for the listing of qualifications offered by universities on the Qualifications and Credentials Framework:
+  (d) may correct any errors or omissions in the listing of qualifications on the Qualifications and Credentials Framework.
 (4) To avoid doubt, this section does not limit NZQA’s power to delegate its functions or powers under the Crown Entities Act 2004.
 
 **Granting of awards**
@@ -5068,6 +5146,14 @@ NZQA has the power to carry out any research activities that it considers releva
   (a) is taught mainly by people engaged in research; and
   (b) emphasises general principles and basic knowledge as the basis for self-directed work and learning.
 (4) NZQA may not withhold its consent to the use of any particular term or the granting of an award that, or whose name or description, includes any particular word, unless satisfied on reasonable grounds that it should do so.
+
+### 454A Withdrawal of consent to grant award
+(1) If NZQA considers that there may be grounds for withdrawing consent to grant an award from a person, NZQA must give written notice to the person—
+  (a) setting out the grounds on which NZQA is considering withdrawing consent; and
+  (b) giving the person a reasonable period to make submissions on the matter.
+(2) After that period, and having considered any submission made by the person, NZQA may, on any reasonable grounds, withdraw consent.
+(3) If NZQA withdraws consent under subsection (2), it must give notice of the withdrawal, with reasons, to the person concerned.
+(4) NZQA may withdraw consent at the written request of the person concerned.
 
 ### 455 NCEA may not be provided outside New Zealand
 (1) A person may not provide, or offer to provide, an NCEA qualification outside New Zealand.
@@ -5101,11 +5187,11 @@ NZQA has the power to carry out any research activities that it considers releva
 (1) NZQA may—
   (a) charge fees to any person or institution for any of the following:
     (i) programme approval:
-    (ii) training scheme approval:
+    (ii) micro-credential approval:
     (iii) accreditation:
     (iv) consent to assess against standards:
-    (v) approval to list qualifications on the Qualifications Framework:
-    (vi) approval to list standards in the Directory of Assessment Standards:
+    (v) approval to list qualifications on the Qualifications and Credentials Framework:
+    (vi) approval to list standards in the Directory of Assessment and Skill Standards:
     (vii) registration of a private training establishment:
     (viii) approval to be a standard-setting body:
     (ix) consent to award a degree:
@@ -5127,7 +5213,7 @@ NZQA has the power to carry out any research activities that it considers releva
 ### 459 Compliance notices
 (1) NZQA may issue a compliance notice to an institution requiring the institution to do, or refrain from doing, a particular thing in relation to—
   (a) the institution’s registration as a registered establishment; or
-  (b) the institution’s programme approvals, training scheme approvals, or accreditation; or
+  (b) the institution’s programme approvals, micro-credential approvals, or accreditations; or
   (c) any consent that the institution has to assess against standards; or
   (d) any quality assurance conditions on work-based training; or
   (e) any notice issued under section 458(1)﻿(b).
@@ -5135,20 +5221,47 @@ NZQA has the power to carry out any research activities that it considers releva
   (a) the date on which it is issued; and
   (b) a time on or before which, or a period within which, the institution must comply with the notice; and
   (c) the consequences or possible consequences of non-compliance with the notice.
-(3) NZQA may publish any compliance notice (or a summary of the notice) on an Internet site maintained by or on behalf of NZQA.
+(3)
 (4) An institution that receives a compliance notice must comply with it within the time or period stated in the notice.
 (5) NZQA may, before the expiry of the time or period referred to in subsection (2)﻿(b), extend that time or period during which the notice must be complied with.
 (6) If the institution does not comply with the compliance notice, NZQA may immediately,—
   (a) if the notice related to the registration of a registered establishment, cancel the registration, or impose new conditions, or amend or revoke any existing conditions, on the registration; or
-  (b) if the notice related to a programme or training scheme approval, withdraw the approval, or impose new conditions, or amend or revoke any existing conditions, on the approval; or
+  (b) if the notice related to a programme or micro-credential approval, withdraw the approval, or impose new conditions, or amend or revoke any existing conditions, on the approval; or
   (c) if the notice related to an accreditation, withdraw the accreditation, or impose new conditions, or amend or revoke any existing conditions, on the accreditation; or
   (d) if the notice related to a consent to assess against standards, withdraw the consent, or impose new conditions, or amend or revoke any existing conditions, on the consent; or
-  (e) if the notice related to any quality assurance conditions on work-based training, withdraw the programme or training scheme approval to which the training relates, or impose new conditions, or amend or revoke any existing conditions, on the approval.
+  (e) if the notice related to any quality assurance conditions on work-based training, withdraw the programme or micro-credential approval to which the training relates, or impose new conditions, or amend or revoke any existing conditions, on the approval.
 (7) NZQA may not do any of the things specified in subsection (6) until the later of the following:
   (a) 10 days from the date of issue of the notice:
   (b) the expiry of the time or period referred to in subsection (2)﻿(b).
 (8) If NZQA withdraws programme approval, it must also withdraw any consent to assess against standards or any accreditation in respect of the programme approval.
-(9) If NZQA withdraws any training scheme approval, it must also withdraw any consent to assess against standards in respect of the training scheme approval.
+(9) If NZQA withdraws any micro-credential approval, it must also withdraw any consent to assess against standards or any accreditation in respect of the micro-credential approval.
+
+**Publication of conditions and notices by NZQA**
+
+### 459A Publication of conditions and notices
+NZQA may publish the following on an Internet site maintained by or on behalf of NZQA:
+  (a) any condition (or summary of a condition) imposed by NZQA under any 1 of the following provisions:
+    (i) section 348(2) (which relates to registration of private training establishments):
+    (ii) section 440 (which relates to approval of programmes):
+    (iii) section 442 (which relates to accreditation of institutions to provide approved programmes):
+    (iv) section 446 (which relates to approval to provide micro-credentials):
+    (v) section 446B (which relates to accreditation to provide approved micro-credentials):
+    (vi) section 450 (which relates to consent to assess students against standards):
+  (b) any notice (or summary of a notice) issued by NZQA under any 1 of the following provisions:
+    (i) section 371(1) (which relates to quality assurance improvement notices):
+    (ii) section 372(1) (which relates to compliance notices):
+    (iii) section 459(1) (which relates to compliance notices):
+    (iv) section 535(1) (which relates to sanctions for breach of code):
+    (v) section 535C(1) (which relates to performance improvement notices):
+  (c) any notice (or summary of a notice) of a cancellation of the registration of a registered establishment under section 350:
+  (d) any notice (or summary of a notice) of a withdrawal made under any 1 of the following provisions of an accreditation, an approval, or a consent from an institution or a person:
+    (i) section 438B(4) (which relates to withdrawal of recognition of national curricula):
+    (ii) section 439 (which relates to withdrawal of approval of programmes):
+    (iii) section 444 (which relates to withdrawal of accreditation to provide approved programmes):
+    (iv) section 448 (which relates to withdrawal of approval of content of micro-credentials or accreditation to provide micro-credentials):
+    (v) section 449 (which relates to withdrawal of consent to assess against standards):
+    (vi) section 454A (which relates to withdrawal of consent to grant awards):
+    (vii) section 524A (which relates to withdrawal of approval of classes, courses, or programmes intended for international students).
 
 **Miscellaneous provisions**
 
@@ -5174,15 +5287,19 @@ A member of NZQA may be paid any allowances in respect of child care that NZQA d
 (2) Sections 466 to 469 apply in relation to education services provided to persons who are exempted from the requirements of section 35; and, for the purposes of this subsection and sections 466 to 469, education service is to be construed in that context, and the meaning it has in the definition of applicable service in section 10(1) does not apply.
 
 ### 463 Chief Review Officer to perform certain functions
-The Chief Review Officer must—
+(1) The Chief Review Officer must—
   (a) administer reviews, either general or relating to particular matters, of the performance of applicable organisations in relation to the applicable services they provide—
     (i) when directed by the Minister to do so; or
     (ii) on the Chief Review Officer’s own motion (despite section 52 of the Public Service Act 2020); and
   (b) administer the preparation of reports to the Minister on the undertaking and results of the reviews; and
   (c) give the Minister any other assistance and advice on the performance of the applicable organisations that the Minister requires.
+(2) The Chief Review Officer—
+  (a) must administer reviews of professional learning and development services accessed by applicable organisations when directed by the Minister to do so; and
+  (b) may, despite section 52 of the Public Service Act 2020, administer reviews of professional learning and development services accessed by applicable organisations on the Chief Review Officer’s own motion; and
+  (c) must administer the preparation of reports to the Minister on the undertaking and results of the reviews.
 
 ### 464 Information requests
-(1) In carrying out the functions specified in section 463, the Chief Review Officer may request in writing from an applicable organisation or applicable person such information that the Chief Review Officer considers is reasonably necessary or desirable for the purposes of carrying out those functions.
+(1) In carrying out the functions specified in section 463, the Chief Review Officer may request in writing from an applicable organisation or applicable person, or a provider of professional learning and development services, such information that the Chief Review Officer considers is reasonably necessary or desirable for the purposes of carrying out those functions.
 (2) In this section, applicable organisation, in relation to an early childhood service, includes an entity that owns the service (wholly or partly) or operates the service.
 
 ### 465 Review officers
@@ -5312,7 +5429,7 @@ A review officer who exercises any power under section 472 must, before exercisi
 (2) Subsection (1)﻿(g)﻿(ii) and (iv) does not apply to teacher educators.
 
 ### 478 Purpose of Teaching Council
-The purpose of the Teaching Council is to ensure safe and high-quality leadership, teaching, and learning for children and young people in early childhood, primary, secondary, and senior secondary schooling in English-medium and Māori-medium settings through raising the status of the profession.
+The purpose of the Teaching Council is to ensure safe and high-quality leadership, teaching, and learning for children and young people in early childhood, primary, and secondary schooling in English-medium and Māori-medium settings, and settings of other languages, through raising the status of the profession.
 
 ### 479 Functions and powers of Teaching Council
 (1) The functions that the Teaching Council must perform are as follows:
@@ -5340,6 +5457,7 @@ The purpose of the Teaching Council is to ensure safe and high-quality leadershi
   (n) to set the criteria for reporting serious misconduct and for reporting on competence issues:
   (o) to perform the functions in this subpart relating to teacher competence:
   (p) to co-ordinate a system providing for the vetting by the Police of all teachers:
+  (pa) to prosecute, as the Teaching Council considers appropriate, breaches of the requirements of this Act relating to teacher registration, practising certificates, and limited authorities to teach:
   (q) to perform any other functions conferred on it by this Act or any other enactment.
 (2) The functions that the Teaching Council may perform, with the written approval of the Minister, are as follows:
   (a) to provide leadership to the education profession:
@@ -5413,7 +5531,7 @@ The Teaching Council may establish advisory committees for specific aspects of i
   (b) a Complaints Assessment Committee to—
     (i) investigate complaints of misconduct about, and reports of convictions of, teachers; and
     (ii) carry out any other function, and exercise any power, given under this Act or delegated to it by the Teaching Council; and
-  (c) a Disciplinary Tribunal to conduct hearings relating to misconduct by, and convictions of, individual teachers, and to exercise the powers given under this Act; and
+  (c) a Disciplinary Tribunal to conduct hearings, and review decisions of the Complaints Assessment Committee, relating to misconduct by, and convictions of, individual teachers, and to exercise the powers given under this Act; and
   (d) a Competence Authority to consider reports and complaints about teacher competence and to exercise the powers given under this Act; and
   (e) the practices and procedures of the disciplinary bodies and the Competence Authority; and
   (f) the procedures of the Teaching Council for dealing with reports received under the mandatory reporting provisions in sections 489 to 493; and
@@ -5591,7 +5709,7 @@ The Teaching Council may establish advisory committees for specific aspects of i
   (a) any communications between the person and the representative in relation to the hearing are as privileged as they would have been if the representative had been a barrister or solicitor; and
   (b) the representative is treated as counsel for the purposes of subsection (2).
 
-### 504 Appeals against decisions of disciplinary bodies
+### 504 Appeals against decisions of chairperson or Disciplinary Tribunal
 (1) The teacher who is the subject of a decision by the chairperson or the Disciplinary Tribunal made under section 498(2) or 500 may appeal against that decision to the District Court.
 (2) The Complaints Assessment Committee may, with the leave of the Teaching Council, appeal to the District Court against a decision of the chairperson or the Disciplinary Tribunal made under section 498(2) or 500.
 (3) An appeal under this section must be made within 28 days after receipt of written notice of the decision, or any longer period that the court allows.
@@ -5801,17 +5919,27 @@ The purpose of this subpart is to ensure that international students trust New Z
   (a) the school has or will have adequate staff, equipment, and premises to provide it; and
   (b) the standard of instruction provided in it will not be lower than the standard that would be expected in any similar class, course, or programme for domestic students.
 
+### 524A Withdrawal of approval of course for international students
+(1) If NZQA considers that there may be grounds for withdrawing approval of a class, course, or programme intended exclusively or mainly for international students, NZQA must give written notice to the board of the State school or the managers of the school registered under section 214 to whom the approval was granted—
+  (a) setting out the grounds on which NZQA is considering withdrawing approval; and
+  (b) giving the board or the managers a reasonable period to make submissions on the matter.
+(2) After that period, and having considered any submission made by the board or the managers, NZQA may, on any reasonable grounds, withdraw approval.
+(3) If NZQA withdraws approval under subsection (2), it must give notice of the withdrawal, with reasons, to the board or the managers concerned.
+(4) NZQA may withdraw an approval at the written request of the board or the managers concerned.
+
 **International students at tertiary education and vocational education and training institutions**
 
 ### 525 Enrolment of international students
 (1) An institution’s council may not permit the enrolment of an international student at the institution for all or part of a programme unless—
   (a) the programme is approved by NZQA and the institution is accredited to provide the programme; or
   (b) the programme is exempted under section 528.
-(2) An institution’s council may not permit the enrolment of an international student at the institution for all or part of a training scheme unless the scheme is an approved training scheme or exempted under section 528.
+(2) An institution’s council may not permit the enrolment of an international student at the institution for a micro-credential unless—
+  (a) the micro-credential is approved by NZQA and the institution is accredited to provide the micro-credential; or
+  (b) the micro-credential is exempted under section 528.
 (3) An international student—
   (a) may not be enrolled at an institution if the student's enrolment there has the effect that a domestic student who is eligible to enrol there and has applied for enrolment is not able to be enrolled:
-  (b) may not be enrolled in any programme or training scheme at an institution if the student's enrolment has the effect that a domestic student who is eligible to enrol in the programme or scheme and has applied for enrolment in it is not be able to be enrolled in it.
-(4) Despite subsection (3), although domestic students may not be able to be enrolled, an international student may be enrolled at an institution, or in any programme or scheme at the institution, if the enrolment is in a vacant place—
+  (b) may not be enrolled in any programme or micro-credential at an institution if the student's enrolment has the effect that a domestic student who is eligible to enrol in the programme or micro-credential and has applied for enrolment in it is not be able to be enrolled in it.
+(4) Despite subsection (3), although domestic students may not be able to be enrolled, an international student may be enrolled at an institution, or in any programme or micro-credential at the institution, if the enrolment is in a vacant place—
   (a) that the institution’s council established for international students; and
   (b) whose continued availability is dependent on the fees payable by international students enrolled in it.
 
@@ -5853,33 +5981,33 @@ The purpose of this subpart is to ensure that international students trust New Z
   (b) either—
     (i) the programme is an approved programme and the establishment is accredited to provide the entire programme; or
     (ii) the programme is of less than 3 months' duration and is exempted under section 528; and
-  (c) if standards from the Directory of Assessment Standards are included in the programme, the establishment has a consent to assess against standards.
-(2) A private training establishment may not enrol an international student in a training scheme at the establishment unless—
+  (c) if standards from the Directory of Assessment and Skill Standards are included in the programme, the establishment has a consent to assess against standards.
+(2) A private training establishment may not enrol an international student in a micro-credential at the establishment unless—
   (a) the establishment is a registered establishment and is a signatory to the applicable code issued under section 534; and
   (b) either—
-    (i) the training scheme is an approved training scheme; or
-    (ii) the training scheme is of less than 3 months' duration and is exempted under section 528; and
-  (c) if standards from the Directory of Assessment Standards are included in the training scheme, the establishment has a consent to assess against those standards.
-(3) For the purposes of this section and section 528, a programme or training scheme is of less than 3 months’ duration if the period starting on the day on which the programme or scheme starts and ending on the day on which it ends (or is likely to end) is less than 3 calendar months, irrespective of the number of days on which the programme or training scheme is, or is proposed to be, provided during that period.
+    (i) the micro-credential is an approved micro-credential and the establishment is accredited to provide the micro-credential; or
+    (ii) the micro-credential is of less than 3 months' duration and is exempted under section 528; and
+  (c) if standards from the Directory of Assessment and Skill Standards are included in the training scheme, the establishment has a consent to assess against those standards.
+(3) For the purposes of this section and section 528, a programme or micro-credential is of less than 3 months’ duration if the period starting on the day on which the programme or scheme starts and ending on the day on which it ends (or is likely to end) is less than 3 calendar months, irrespective of the number of days on which the programme or micro-credential is, or is proposed to be, provided during that period.
 
 ### 528 Exemptions
 (1) NZQA may—
-  (a) exempt programmes for the purposes of section 527(1)﻿(b)﻿(ii); or
-  (b) exempt training schemes for the purposes of section 527(2)﻿(b)﻿(ii).
+  (a) exempt programmes for the purposes of section 525(1)﻿(b) or 527(1)﻿(b)﻿(ii); or
+  (b) exempt micro-credentials for the purposes of section 527(2)﻿(b)﻿(ii).
 (2) An exemption under subsection (1)—
-  (a) may exempt only programmes or training schemes that are, or are likely to be, of less than 3 months' duration; and
-  (b) may identify programmes or training schemes, or classes of programmes or training schemes, that are exempt; and
-  (c) may identify programmes or training schemes by reference to a provider, or a class of providers, that offers them; and
-  (d) may be in respect of programmes or training schemes that have been completed, are in progress, or have not yet started.
+  (a) may exempt only programmes or micro-credentials that are, or are likely to be, of less than 3 months' duration; and
+  (b) may identify programmes or micro-credentials, or classes of programmes or micro-credentials, that are exempt; and
+  (c) may identify programmes or micro-credentials by reference to a provider, or a class of providers, that offers them; and
+  (d) may be in respect of programmes or micro-credentials that have been completed, are in progress, or have not yet started.
 (3) An exemption under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 529 Refund entitlements of international students
 (1) A private training establishment must—
-  (a) allow every international student enrolled for a programme or training scheme that is of 3 months' duration or more to withdraw from it within the refund period; and
-  (b) refund to every international student who so withdraws, without deduction, at least so much of any payment, or of the sum of any payments, made by the student to the establishment in respect of that programme or training scheme, and, if withdrawal from the programme or scheme also constitutes withdrawal from the establishment as a whole, in respect of enrolment at the establishment, as exceeds the percentage specified in the notice made under section 530; and
-  (c) allow every international student enrolled for a programme or training scheme that is of less than 3 months’ duration to withdraw from it within a period (being less than 7 days) specified by NZQA; and
-  (d) refund to every international student who so withdraws a minimum amount or proportion, specified by NZQA, of any payments made by the student to the establishment in respect of the programme or training scheme.
-(2) For the purposes of subsection (1)﻿(c), a programme or training scheme is of less than 3 months' duration if the period starting on the day on which the programme or scheme starts and ending on the day on which it ends (or is likely to end) is less than 3 calendar months, irrespective of the number of days on which the programme or training scheme is, or is proposed to be, provided during that period.
+  (a) allow every international student enrolled for a programme or micro-credential that is of 3 months' duration or more to withdraw from it within the refund period; and
+  (b) refund to every international student who so withdraws, without deduction, at least so much of any payment, or of the sum of any payments, made by the student to the establishment in respect of that programme or micro-credential, and, if withdrawal from the programme or micro-credential also constitutes withdrawal from the establishment as a whole, in respect of enrolment at the establishment, as exceeds the percentage specified in the notice made under section 530; and
+  (c) allow every international student enrolled for a programme or micro-credential that is of less than 3 months’ duration to withdraw from it within a period (being less than 7 days) specified by NZQA; and
+  (d) refund to every international student who so withdraws a minimum amount or proportion, specified by NZQA, of any payments made by the student to the establishment in respect of the programme or micro-credential.
+(2) For the purposes of subsection (1)﻿(c), a programme or micro-credential is of less than 3 months' duration if the period starting on the day on which the programme or micro-credential starts and ending on the day on which it ends (or is likely to end) is less than 3 calendar months, irrespective of the number of days on which the programme or micro-credential is, or is proposed to be, provided during that period.
 (3) When the refund period, in relation to any fees paid by or on behalf of an international student, has expired,—
   (a) the fees paid must continue to be held in trust with the independent trustee and the private training establishment must be paid from the trust in the manner prescribed in the rules made under section 452; or
   (b) the private training establishment may, if NZQA approves, make alternative arrangements in relation to the fees paid.
@@ -5889,7 +6017,7 @@ The purpose of this subpart is to ensure that international students trust New Z
 ### 530 Refund requirements set by Minister
 (1) For the purposes of refunds under section 529, the Minister must specify, by notice,—
   (a) either—
-    (i) the end of the period within which an international student may withdraw from a programme or training scheme of 3 months' duration or more and be entitled to a refund under that section; or
+    (i) the end of the period within which an international student may withdraw from a programme or micro-credential of 3 months' duration or more and be entitled to a refund under that section; or
     (ii) a means by which the end of that period may be calculated or ascertained; and
   (b) the maximum percentage of the payment or payments that an establishment may retain; and
   (c) the cost components of the fee total on which the maximum percentage is determined; and
@@ -5900,11 +6028,18 @@ The purpose of this subpart is to ensure that international students trust New Z
   (c) any other relevant bodies.
 (3) A notice under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
-### 531 Private training establishment to notify immigration officer if student withdraws from programme or training scheme
-(1) A private training establishment must ensure that, within 7 days of the withdrawal of any student from a programme or training scheme at the establishment, an immigration officer (within the meaning of section 4 of the Immigration Act 2009) is given written notice of the name of the student and the programme or training scheme, and the day on which the student withdrew.
+### 531 Private training establishment to notify immigration officer if student withdraws from programme or micro-credential
+(1) A private training establishment must ensure that, within 7 days of the withdrawal of any student from a programme or micro-credential at the establishment, an immigration officer (within the meaning of section 4 of the Immigration Act 2009) is given written notice of the name of the student and the programme or micro-credential, and the day on which the student withdrew.
 (2) Subsection (1) does not apply to a student if the establishment is satisfied on reasonable grounds that the student is a domestic student.
 
-### Subpart 7 — Pastoral care of students
+### Subpart 7 — Well-being and safety of students
+
+**Signatory providers**
+
+### 531A Approval and removal of signatory providers
+(1) Before a provider can become a signatory provider of a code, the provider must apply to the relevant code administrator for approval, in exercise of the code administrator’s power under section 535A(3)﻿(a), for the provider to become a signatory provider.
+(2) The relevant code administrator may withdraw approval of a signatory provider at the written request of the provider concerned.
+(3) If approval is withdrawn under subsection (2), a provider ceases to be a signatory to the code and is no longer a signatory provider.
 
 **Enrolment of international students**
 
@@ -5912,6 +6047,7 @@ The purpose of this subpart is to ensure that international students trust New Z
 (1) A provider may enrol a person as an international student or continue to have an international student enrolled, as long as the provider is a signatory provider.
 (2) A provider may not enrol a person as an international student or continue to have an international student enrolled, or provide educational instruction for the person, if the provider—
   (a) is not a signatory provider; or
+  (aa) has its approval to be a signatory provider withdrawn under section 531A(2); or
   (b) is removed as a signatory provider under section 535(2); or
   (c) ceases to be a signatory provider for any other reason provided in the code.
 (3) A signatory provider that is subject to a sanction under section 535(1) may continue to have international students enrolled and may provide educational instruction to those students, but only to the extent permitted by the sanction.
@@ -5921,84 +6057,210 @@ A provider must enrol a person as an international student if the person is not 
   (a) provides the person with educational instruction for more than 2 weeks; or
   (b) accepts tuition fees from the person.
 
-**Pastoral care of domestic and international students**
+**Well-being and safety of domestic and international students**
 
-### 534 Pastoral care codes of practice
+### 534 Well-being and safety codes of practice
 (1) The Minister may issue—
-  (a) a code that provides a framework for the pastoral care of domestic tertiary students:
-  (b) a code that provides a framework for the pastoral care of international students:
-  (c) a code that provides a framework for the pastoral care of domestic tertiary students and international students.
+  (a) 1 or more codes that provide a framework for the well-being and safety of domestic tertiary students:
+  (b) 1 or more codes that provide a framework for the well-being and safety of international students:
+  (c) 1 or more codes that provide a framework for the well-being and safety of domestic tertiary students and international students.
+(1A) The Minister must specify whether a code applies to—
+  (a) any provider that provides educational instruction to the students in respect of whom the code is issued; or
+  (b) a particular type of provider or group of providers (for example, schools, Kura Kaupapa Māori, or Māori providers).
 (2) The purpose of a code,—
   (a) in respect of domestic tertiary students, is to support the Government’s objectives for the education of domestic tertiary students by—
-    (i) requiring providers to take all reasonable steps to maintain the well-being of domestic tertiary students; and
+    (i) requiring providers to take all reasonable steps to maintain the well-being and safety of domestic tertiary students; and
     (ii) ensuring, so far as is possible, that domestic tertiary students have a positive experience that supports their educational achievement:
   (b) in respect of international students, is to support the Government’s objectives for international education by—
-    (i) requiring providers to take all reasonable steps to protect international students; and
-    (ii) ensuring, so far as is possible, that international students have in New Zealand a positive experience that supports their educational achievement.
+    (i) requiring providers to take all reasonable steps to maintain the well-being and safety of international students; and
+    (ii) ensuring, so far as is possible, that international students have a positive experience that supports their educational achievement.
 (3) The scope of a code,—
   (a) in respect of domestic tertiary students, is to prescribe, alongside other quality assurance prescribed by this Act,—
     (i) outcomes sought from providers for their domestic tertiary students; and
-    (ii) key processes required of providers to support the well-being, achievement, and rights of domestic tertiary students:
+    (ii) key processes required of providers to support the well-being and safety, achievement, and rights of domestic tertiary students:
   (b) in respect of international students, is to prescribe, alongside other quality assurance prescribed by this Act,—
     (i) outcomes sought from providers for their international students; and
-    (ii) key processes required of providers to support the well-being, achievement, and rights of international students.
+    (ii) key processes required of providers to support the well-being and safety, achievement, and rights of international students.
 (4) Without limiting subsections (1) to (3), a code may include provisions for 1 or more of the following purposes:
   (a) despite anything in the Public Finance Act 1989, requiring providers to indemnify the code administrator:
   (b) providing for any other matters contemplated by this Part, necessary for its administration, or necessary for giving it full effect.
 (5) Before issuing a code, the Minister must consult—
   (a) those parties that the Minister considers likely to be affected by the code, including representatives of students, parents, providers, signatory providers, and the staff of providers and signatory providers; and
+  (aa) Māori; and
   (b) the Privacy Commissioner.
 (6) A code—
   (a) in respect of domestic tertiary students is binding on all providers:
   (b) in respect of international students is binding on all signatory providers.
 (7) A code—
-  (a) may make different provisions in relation to students under the age of 18 years and in relation to students aged 18 years or over.
+  (a) may make different provision for students under the age of 18 years and students aged 18 years or over:
+  (b) that applies in respect of students undertaking study or training with a provider applies whether the students undertake the study or training in New Zealand or in another country.
   (b)
   (c)
 (8) A code must be made and administered in accordance with regulations made under section 648.
 (9) A code under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
+### 534A Code for particular providers to be mandatory or optional
+(1) A code that applies to a particular type of provider or group of providers under section 534(1A)﻿(b) must specify whether the code is mandatory or optional.
+(2) If a code is mandatory, a provider to which the code applies must comply with that code and is not required to comply with any other code.
+(3) If a code is optional, a provider to which the code applies may elect to comply with that code in place of compliance with any other code and,—
+  (a) if an election is made, the provider must comply with the code and is not required to comply with any other code; and
+  (b) if an election is not made, the provider is not required to comply with the code.
+(4) An election under subsection (3) to comply with a code must be made in accordance with the mechanism set out in the code for this purpose.
+
+### 534B Minister may make minor or technical changes to code or grant exemptions
+(1) The Minister may—
+  (a) make minor or technical amendments to a code; and
+  (b) exempt specified providers, or types or groups of providers, from compliance with specified requirements of a code that applies to that provider, or type or group of providers, under section 534(1A)﻿(b).
+(2) To avoid doubt, the Minister is not required to consult the parties set out in section 534(5) when making an amendment or granting an exemption under this section.
+(3) If the Minister amends a code under subsection (1)﻿(a), the code administrator must make reasonable efforts to notify representatives of students, parents, providers, signatory providers, and the staff of providers and signatory providers of the amendment.
+
 ### 535 Sanctions for breach of code
-(1) If satisfied that a provider or signatory provider has breached the relevant code or failed to comply with a quality improvement notice or compliance notice issued under regulations made under section 648, a code administrator may,—
+(1) If satisfied that a provider or signatory provider has breached the relevant code or failed to comply with a performance improvement notice issued under section 535C, a code administrator may,—
   (a) in the case of signatory providers, impose new, or amend or revoke any existing, conditions on the signatory provider’s approval as a signatory provider:
   (b) in the case of providers and signatory providers, impose limitations on the provider’s or the signatory provider’s power to enrol students.
-(2) If satisfied that a signatory provider has not complied with a sanction imposed under subsection (1) or notice issued under regulations made under section 648, a code administrator may remove the signatory provider as a signatory provider.
+(2) If satisfied that a signatory provider has not complied with a sanction imposed under subsection (1) or notice issued under section 535C, a code administrator may remove the signatory provider as a signatory provider.
+
+**Code administrators**
+
+### 535A Appointment and functions of code administrators
+(1) The Minister may, by notice, appoint a person or an agency to be responsible for—
+  (a) administering—
+    (i) a code for domestic tertiary students:
+    (ii) a code for international students:
+    (iii) a code for domestic tertiary students and international students; and
+  (b) administering 2 or more codes.
+(2) When appointing a code administrator, the Minister must have regard to the knowledge, skills, or experience of the person or agency.
+(3) The functions of the code administrator are,—
+  (a) in the case of international students,—
+    (i) to receive applications from providers seeking to become signatory providers; and
+    (ii) to assess those applications against—
+      (A) the criteria stated in a code; and
+      (B) the purpose stated in section 534(2) and the scope of the code stated in section 534(3); and
+    (iii) to approve or decline to approve applicants becoming signatory providers in accordance with those assessments; and
+  (b) in the case of domestic tertiary students and international students,—
+    (i) to monitor the extent to which providers comply with a code in close collaboration with quality assurance agencies; and
+    (ii) to issue to providers and signatory providers notices under section 535C; and
+    (iii) to impose on providers and signatory providers sanctions under section 535 for breaches of a code and failure to comply with notices; and
+    (iv) to undertake periodic reviews of how providers and signatory providers generally are giving effect to a code, or a part or parts of a code, in order to assess the extent to which the purposes of the code are being met.
+(4) The Minister may set performance standards and priorities for code administrators, which code administrators must have regard to in the performance of their duties and functions.
+(5) A code administrator may allow an applicant to become a signatory provider unconditionally, or subject to any written conditions made known to the applicant at the time the code administrator informs the applicant that the applicant is allowed to become a signatory provider.
+(6) A code administrator may, with the Minister’s prior written approval and subject to any conditions that the code administrator or the Minister thinks fit, delegate any or all of the functions, duties, and powers specified in this section to another person or agency (having regard to their knowledge, skills, or experience).
+(7) A notice made under subsection (1) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+
+### 535B Further obligations of code administrator
+A code administrator must—
+  (a) exercise and perform all of its functions, powers, and duties in a manner that honours Te Tiriti o Waitangi and supports Māori-Crown relationships; and
+  (b) report annually to the Minister on the exercise and performance of its functions, powers, and duties, including the extent to which providers and signatory providers are giving effect to their obligations under the codes, and publish the report on an Internet site maintained by or on behalf of the code administrator; and
+  (c) provide information to the Minister, at the request and in the form specified by the Minister, relating to—
+    (i) the performance of its duties and functions; and
+    (ii) the performance of providers and signatory providers in meeting the requirements of a code.
+
+### 535C Power to issue performance improvement notices
+(1) A code administrator may issue a performance improvement notice to a provider or signatory provider that requires the provider or signatory provider to do, or refrain from doing, a particular thing in relation to—
+  (a) its obligations under a code; or
+  (b) in the case of a signatory provider, the conditions of its approval as a signatory provider.
+(2) The notice must—
+  (a) set out any concerns the administrator has about the provider’s or signatory provider’s systems, practices, training, or procedures; and
+  (b) identify—
+    (i) any areas for improvement in relation to any of the specified outcomes in a code; and
+    (ii) any areas for compliance in relation to key process requirements in a code; and
+  (c) specify the time within which the provider or signatory provider is expected to address the code administrator’s concerns (which must be a reasonable time, having regard to the nature and complexity of the action required); and
+  (d) specify the possible consequences of a failure to comply with a performance improvement notice.
+(3) The code administrator may publish the notice, or a summary of it, in a manner designed to give public notice of it.
+(4) The code administrator may, before the expiry of the time referred to in subsection (2)﻿(c), extend the time, and in that case the time as extended becomes the time within or during which the notice must be complied with.
+
+### 535D Providers and signatory providers to comply with performance improvement notices
+(1) A provider or signatory provider must comply with a performance improvement notice issued under section 535C.
+(2) If, in a code administrator’s opinion, a provider or signatory provider does not comply with the notice, the code administrator may (as the code administrator sees fit) impose sanctions against the provider or signatory provider under section 535.
+(3) The code administrator may not act under subsection (2) until the later of the following:
+  (a) 10 working days after the date on which the notice was issued:
+  (b) the expiry of any time of a kind referred to in section 535C(2)﻿(c) or any extension of that time if that time has been extended under section 535C(4).
 
 **Dispute resolution**
 
 ### 536 Student contract dispute resolution scheme established
 (1) This section establishes a student contract dispute resolution scheme (the DRS).
-(2) The purpose of the DRS is to resolve contractual and financial disputes between students (and former and prospective students) and providers or signatory providers.
-(3) Every provider or signatory provider that enrols, intends to enrol, or has enrolled students is subject to and must (in relation to any contractual or financial dispute with a student or a former or prospective student) comply with the rules of the DRS prescribed under section 539.
+(2) The purpose of the DRS is to resolve disputes between students (and former and prospective students) and providers or signatory providers relating to the following matters:
+  (a) contractual and financial matters:
+  (b) a claim for redress for any loss or harm suffered by a student as a result of a breach by a provider or signatory provider of a code issued under section 534.
+(3) Every provider or signatory provider that enrols, intends to enrol, or has enrolled students is subject to and must (in relation to a dispute described in subsection (2)﻿(a) or (b) with a student or a former or prospective student) comply with the rules of the DRS prescribed under section 539.
 (4) The Minister—
-  (a) may, by notice in the Gazette, appoint 1 or more persons or agencies to be responsible for administering the DRS; and
-  (b) must take reasonable steps to ensure that there is at all times a person or an agency appointed to be responsible for administering the DRS; and
+  (a) may, by notice in the Gazette, appoint 1 or more persons or organisations to be responsible for administering the DRS; and
+  (b) must take reasonable steps to ensure that there is at all times a person or an organisation appointed to be responsible for administering the DRS; and
   (c) may impose any conditions on the appointment that the Minister thinks fit.
-(5) A student claimant may lodge with the DRS operator for resolution under the DRS any contractual or financial dispute with a provider or signatory provider, but only if—
+(5) A student claimant may lodge with a DRS operator for resolution under the DRS a dispute described in subsection (2)﻿(a) or (b) with a provider or signatory provider, but only if—
   (a) the provider or signatory provider has been given an opportunity to resolve the dispute, but the student claimant is not satisfied with the process or outcome, or both; or
   (b) the provider or signatory provider—
     (i) has not tried to resolve the dispute; or
     (ii) has refused to try to do so.
+(5A) In addition, a student claimant may lodge with a DRS operator for resolution under the DRS a dispute with a provider or signatory provider described in subsection (2)﻿(b) only if the code administrator is satisfied that the provider or signatory provider has breached the applicable code.
 (6) However, a student may not lodge a dispute for resolution under subsection (5) later than 7 years after the date of the act or omission on which the dispute is based.
 (7) The resolution of a dispute is binding on all parties to the dispute if—
-  (a) it is the outcome of an adjudication of the dispute by or on behalf of the DRS operator; or
-  (b) it is produced by mediation that is undertaken by or on behalf of the DRS operator and whose outcome the parties to the dispute have agreed is to be binding.
-(8) The DRS operator—
+  (a) it is the outcome of an adjudication of the dispute by or on behalf of a DRS operator; or
+  (b) it is produced by consensual methods undertaken by or on behalf of a DRS operator, and the parties to the dispute have agreed that it is to be binding.
+(8) A DRS operator—
   (a) may charge fees to a student claimant or the provider concerned, or both, according to the rules of the DRS prescribed under section 539; but
   (b) (despite those rules) may in its absolute discretion partially or completely exempt any person, or class of persons, from the payment of fees.
 
+### 536A How DRS operator must perform role
+(1) A DRS operator must perform and exercise its functions, powers, and duties in a manner that contributes to an education system that honours Te Tiriti o Waitangi and supports Māori-Crown relationships by—
+  (a) resolving disputes in a way that—
+    (i) has regard to tikanga Māori; and
+    (ii) is consistent with the principles of Te Tiriti o Waitangi; and
+  (b) responding to the concerns and interests of Māori in the administration and operation of the scheme.
+(2) A DRS operator must perform and exercise its functions, duties, and powers—
+  (a) in a manner that is fair and reasonable in the relevant circumstances; and
+  (b) having regard to—
+    (i) the general law; and
+    (ii) best practice for dispute resolution; and
+    (iii) in the case of a particular dispute, the provisions of a code issued under section 534 that is relevant to the dispute.
+(3) In the adjudication of any dispute, a DRS operator, or a person appointed as an adjudicator, must determine the dispute according to the substantial merits of the case and—
+  (a) is not bound by the rules of evidence or by previous decisions; and
+  (b) is not required to give effect to strict legal obligations, or to legal forms or technicalities.
+
+### 536B Obligation of DRS operator to provide information
+(1) If a specified body reasonably considers that it is necessary for the efficient and effective performance and exercise of any of the body’s functions, duties, and powers that a DRS operator provide certain information to the specified body, the specified body may request that the DRS operator provide the information.
+(2) A DRS operator must—
+  (a) comply with a request under subsection (1) within a reasonable time; and
+  (b) in relation to matters arising from the information requested, provide any other reasonable assistance to the specified body.
+(3) In this section, a specified body means one of the following:
+  (a) the Ministry:
+  (b) a quality assurance agency (for example, NZQA, the Education Review Office, or the Vice-Chancellors Committee) or other body responsible for monitoring or enforcement of education quality:
+  (c) a code administrator or other body responsible for the well-being and safety of students.
+
+### 536C Sharing of information relating to disputes
+(1) A DRS operator, a code administrator, and a quality assurance agency may provide any information about a dispute or the resolution of a dispute to each other if the sharing of information relates to a purpose set out in subsection (2).
+(2) A DRS operator, code administrator, or quality assurance agency may provide information under subsection (1) for 1 or more of the following purposes:
+  (a) to enable the DRS operator, code administrator, or quality assurance agency to perform any of their duties and responsibilities in relation to the dispute or to matters or concerns to which the dispute relates:
+  (b) to ensure the timely and expedient resolution of the dispute:
+  (c) to avoid the unnecessary use or duplication of resources in the resolution of a dispute.
+
+### 536D Sharing of personal information restricted
+(1) No personal information may be supplied under section 536B or 536C except in accordance with—
+  (a) an information matching agreement entered into under Part 10 of the Privacy Act 1993 and continued by clause 11 of Schedule 1 of the Privacy Act 2020; or
+  (b) an approved information sharing agreement entered into under subpart 1 of Part 7 of the Privacy Act 2020; or
+  (c) principles 11 and 12 set out in section 22 of the Privacy Act 2020.
+(2) In this section, personal information has the meaning given to it by section 7(1) of the Privacy Act 2020.
+
 ### 537 Cap on amount to be paid
-In resolving any dispute, the DRS operator—
+In resolving any dispute, a DRS operator—
   (a) may not require a provider or signatory provider to pay to a student claimant in relation to any particular claim any amount exceeding $200,000; but
   (b) may charge the provider fees in addition to any amount required to be paid.
 
+### 537A Time frame for payment for resolution of claim
+(1) Within 20 working days of the date of a resolution of a dispute under section 536(7), a provider or signatory provider must pay to a student claimant any amount it is required to pay to comply with the resolution.
+(2) However, if, before the expiration of the 20 working days, the provider or signatory provider has applied to the District Court under section 538(1)﻿(c) for a modification of the terms of the resolution, the provider or signatory provider is not required to pay the amount until the District Court has determined the matter.
+
 ### 538 District Court to enforce DRS
 (1) The District Court may,—
-  (a) on the application of a student claimant or the DRS operator, make an order requiring a provider or signatory provider to comply with the rules of the DRS or to give effect to any resolution that is binding under section 536(7); or
-  (b) on the application of the provider or signatory provider or the DRS operator, make an order requiring a student claimant to give effect to any resolution that is binding under section 536(7).
-(2) If an order (or part of an order) requiring the provider or signatory provider to comply with the resolution requires the provider or signatory provider to pay any sum of money to any person, that order (or part) may be enforced as if it were a judgment by the District Court for the payment of that sum of money to that person.
-(3) If the District Court is satisfied that the terms of the resolution of a dispute by the DRS operator are manifestly unreasonable, the court may modify the resolution before giving effect to it.
-(4) Subsection (3) overrides subsections (1) and (2) and section 536(7).
+  (a) on the application of a student claimant or a DRS operator, make an order requiring a provider or signatory provider to comply with the rules of the DRS or to give effect to any resolution that is binding under section 536(7); or
+  (b) on the application of the provider or signatory provider or a DRS operator, make an order requiring a student claimant to give effect to any resolution that is binding under section 536(7); or
+  (c) on the application of a student claimant, provider, or signatory provider, make an order—
+    (i) modifying the terms of an adjudicated resolution of a dispute by a DRS operator if the District Court is satisfied that the terms are manifestly unreasonable; and
+    (ii) requiring the student claimant, provider, or signatory provider to give effect to the modified resolution.
+(2) If an order (or part of an order) requiring the provider or signatory provider to comply with the resolution or modified resolution requires the provider or signatory provider to pay any sum of money to any person, that order (or part) may be enforced as if it were a judgment by the District Court for the payment of that sum of money to that person.
+(3)
+(4) An order made under subsection (1)﻿(c) overrides section 536(7).
 
 ### 539 Rules of student contract dispute resolution scheme
 (1) The Governor-General may, by Order in Council made on the recommendation of the Minister, make rules for the functioning and administration of the DRS.
@@ -6037,6 +6299,20 @@ In resolving any dispute, the DRS operator—
 (4) Levy funds must be kept in a separate bank account that is used only for the purposes of the levy.
 (5) As soon as practicable after 1 July in each year, the agency responsible for the administration of the levy must present to the Minister an annual report on the administration of the levy, which must include audited financial statements prepared in accordance with generally accepted accounting practice, and the Minister must present a copy of the report to the House of Representatives.
 (6) The amount of levy payable by a provider under regulations made under this section is a debt due to the Crown and may be recovered in any court of competent jurisdiction.
+
+**Employees of student accommodation**
+
+### 540A Good character assessment of employees of student accommodation
+(1) This section applies in respect of student accommodation operated by a provider or signatory provider.
+(2) The provider or signatory provider must not employ a person to work in the student accommodation without ensuring that the person is of good character.
+(3) In assessing whether a person is of good character, the provider or signatory provider must—
+  (a) obtain a Police vet of the person; and
+  (b) take into account the matters specified in regulations made under section 648(a) for that purpose.
+(4) The provider or signatory provider must make a further assessment of good character of every person—
+  (a) of whom an assessment of good character has already been made under this section by that provider or signatory provider; and
+  (b) who is still employed to work at the student accommodation.
+(5) The further assessment of good character under subsection (4) must be made within 3 years of the previous assessment of that person by the provider or signatory provider.
+(6) This section does not apply in respect of a person if the provider or signatory provider is required under Part 3 of the Children’s Act 2014 to ensure that a safety check of the person is completed in order for the person to be employed to work in the student accommodation.
 
 ### Subpart 8 — Offences
 
@@ -6903,7 +7179,7 @@ The purpose of sections 631, 632, and 643 is to help ensure the safety of studen
 **Student accommodation**
 
 ### 633 Entry to inspect student accommodation subject to codes
-(1) A code administrator may, in accordance with the requirements of the applicable code,—
+(1) A code administrator may—
   (a) enter any student accommodation and inspect the premises and facilities:
   (b) inspect, and make and remove copies of, any information relating to the management of student accommodation:
   (c) ask any person at any student accommodation to make or provide statements, in whatever form or manner is reasonable in the circumstances, about any matter relating to the safety of students who board at the student accommodation.
@@ -6931,6 +7207,29 @@ The purpose of sections 631, 632, and 643 is to help ensure the safety of studen
   (b) give the person in charge a list of all documents that have been removed (if any); and
   (c) return any documents that have been removed unless to do so would prejudice any investigation.
 (3) An authorisation under subsection (1) must be in writing and contain—
+  (a) a reference to this section; and
+  (b) the full name of the person authorised; and
+  (c) a statement of the powers conferred on that person under this section.
+
+**Providers and signatory providers**
+
+### 634A Powers of entry and inspection
+(1) For the purpose of ensuring that a provider or signatory provider complies with a code with which it is required to comply, a code administrator may authorise any person to do, at any reasonable time, any 1 or more of the following things:
+  (a) enter and inspect any premises (other than a dwelling house) that is occupied by the provider or signatory provider:
+  (b) require any person to produce documents or information under the control of the person:
+  (c) inspect, photocopy, print, or copy any documents (whether held in electronic or paper form) that are produced under paragraph (b) or that the authorised person believes on reasonable grounds to belong to the establishment:
+  (d) remove any document referred to in paragraph (c), whether in its original form or as an electronic or a paper copy:
+  (e) require any employee or member of the provider or signatory provider to make or provide statements, in any form and manner that the authorised person specifies:
+  (f) inspect any education and training work and any related materials:
+  (g) meet and talk with any person.
+(2) A person authorised by the code administrator under subsection (1) must—
+  (a) produce evidence of the person’s authorisation to the person in charge of the premises when the person first enters the premises, and at any later time, at the request of the person in charge; and
+  (b) give the person in charge a list of all documents that have been removed (if any); and
+  (c) return any documents that have been removed unless to do so would prejudice any investigation.
+(3) Before authorising a person under subsection (1), the code administrator must be satisfied that the person—
+  (a) is of good character; and
+  (b) has received appropriate training on the exercise of the powers available under subsection (1).
+(4) An authorisation under subsection (1) must be in writing and contain—
   (a) a reference to this section; and
   (b) the full name of the person authorised; and
   (c) a statement of the powers conferred on that person under this section.
@@ -6969,7 +7268,7 @@ The right of parents who have children in early childhood centres to enter the p
   (e) provide for the grant or refusal to grant, duration, expiry, renewal, suspension, transfer, reclassification, and cancellation of licences of 1 or more specified kinds for service providers for each kind of early childhood service, and prescribe the conditions under which licences may be granted, renewed, suspended, or transferred and the fees payable in respect of the grant, renewal, suspension, or transfer of the licences, or do any of those things:
   (f) prescribe conditions governing licensed early childhood services and the duties of their service providers:
   (g) prescribe the records to be kept by service providers in respect of children attending licensed early childhood education and care centres, licensed home-based education and care services, and licensed hospital-based education and care services:
-  (h) regulate the qualifications to be held by any specified number or proportion of persons carrying out the following activities:
+  (h) regulate, including by authorising the Secretary to issue a notice recognising a qualification, the qualifications to be held by any specified number or proportion of persons carrying out the following activities:
     (i) the control and management of each licensed early childhood education and care centre, licensed home-based education and care service, or licensed hospital-based education and care service:
     (ii) the education and care of children attending a licensed early childhood education and care centre, licensed home-based education and care service, or licensed hospital-based education and care service:
   (i) provide for transitional matters not dealt with in this Act:
@@ -7177,17 +7476,21 @@ The right of parents who have children in early childhood centres to enter the p
 (2) Before making a recommendation under subsection (1), the Minister must consult the persons and organisations that the Minister thinks fit.
 (3) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
-### 648 Regulations relating to pastoral care
+### 647A Regulations relating to contracts of enrolment
+(1) The Governor-General may, by Order in Council made on the recommendation of the Minister, make regulations that set out the following requirements:
+  (a) requirements for the form, content, and scope of contracts of enrolment:
+  (b) requirements for the supply of information to students regarding the rights and responsibilities of the parties to a contract of enrolment.
+(2) Regulations made under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+
+### 648 Regulations relating to well-being and safety
 (1) The Governor-General may, by Order in Council made on the recommendation of the Minister, make regulations in relation to the following matters:
-  (a) codes of practice for pastoral care of students, including (without limitation)—
-    (i) setting out the purpose and scope of a code:
-    (ii) providing for the appointment of code administrators:
-    (iii) specifying the functions and duties of code administrators, including (without limitation) the duty to issue improvement notices and compliance notices:
-  (b) dispute resolution schemes relating to the pastoral care of students, including (without limitation)—
+  (a) prescribing the matters that providers and signatory providers must take into account when assessing whether a person working in student accommodation is of good character under section 540A:
+  (b) dispute resolution schemes relating to the well-being and safety of students, including (without limitation)—
     (i) establishing the schemes:
     (ii) providing rules for the schemes:
     (iii) prescribing fees for the schemes:
-    (iv) setting caps on the amounts that those found liable must pay to claimants.
+    (iv) setting caps on the amounts that those found liable must pay to claimants:
+    (v) prescribing annual reporting requirements for a DRS operator, including in relation to the publication of reports.
 (2) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 649 Regulations relating to national student numbers
@@ -7303,7 +7606,7 @@ A person commits an offence, and is liable on conviction to a fine not exceeding
 A person in charge (or apparently in charge) of a hostel commits an offence, and is liable on conviction to a fine not exceeding $5,000, if the person fails, without reasonable excuse, to comply with section 631(3).
 
 ### 665 Offence relating to powers of entry and inspection
-A person commits an offence, and is liable on conviction to a fine not exceeding $10,000, if the person obstructs, hinders, resists, or deceives any person exercising or attempting to exercise a power of entry conferred by section 634(1).
+A person commits an offence, and is liable on conviction to a fine not exceeding $10,000, if the person obstructs, hinders, resists, or deceives any person exercising or attempting to exercise a power of entry conferred by section 634(1) or section 634A(1).
 
 ### 666 Offence relating to breach of order of Student Allowance Appeal Authority
 A person who breaches an order that a Student Allowance Appeal Authority makes under clause 5(8) of Schedule 10 is liable on conviction to a fine not exceeding $3,000.
@@ -7448,7 +7751,7 @@ In this schedule, unless the context otherwise requires,—
   (g) section 78L (action plans):
   (h) section 87 (annual reports).
 (2)
-(3) Despite any other provision of this Act, a provision in any of sections 238H(1) to (4) and (9), 238I, 238J, and 238K of the 1989 Act, as the provision read immediately before the commencement of this clause, continues to apply until the date on which regulations made under section 648 that deal with the matter addressed in the provision come into force.
+(3)
 (4) The following instruments are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements):
   (a) a curriculum statement under section 60A of the 1989 Act:
   (b) national performance measures under section 60A of the 1989 Act:
@@ -7460,11 +7763,11 @@ In this schedule, unless the context otherwise requires,—
 (1) This clause applies to an application for a licence to operate as an early childhood education and care centre made before the date on which section 17 comes into force but not finally determined before that date.
 (2) The application must be determined as if sections 17 and 18 do not apply to it.
 
-### 9 Review of section 17(6)
-(1) The Minister must, by no later than 1 August 2025, review, or arrange for a review of, section 17(6).
+### 9 Review of section 17B
+(1) The Minister must, by no later than 1 August 2025, review, or arrange for a review of, section 17B.
 (2) The review must—
-  (a) consider the purpose, operation, and effectiveness of section 17(6); and
-  (b) assess whether any amendments to section 17(6) are necessary or desirable.
+  (a) consider the purpose, operation, and effectiveness of section 17B; and
+  (b) assess whether any amendments to section 17B are necessary or desirable.
 (3) The Minister must prepare a report of the review, which must be published on an Internet site maintained by or on behalf of the Ministry.
 
 #### Subpart 3 — Provisions for Part 3 (primary and secondary education)
@@ -7483,10 +7786,10 @@ An enrolment scheme that complies with section 71 (regardless of whether that se
   (a) as part of an approval granted under subclause (1); or
   (b) in a direction given to the school after approval is granted under subclause (1).
 (3) NZQA may impose conditions on an approval granted under subclause (1), and, for that purpose, section 442(2) to (5) applies as if—
-  (a) each reference to accreditation were a reference to approval under subclause (1); and
+  (a) each reference to accreditation or accreditation to provide an approved programme were a reference to approval under subclause (1); and
   (b) each reference to an institution were a reference to a registered school.
 (4) NZQA may withdraw an approval granted under subclause (1), and, for that purpose, section 444(1) to (4) applies as if—
-  (a) each reference to accreditation were a reference to approval under subclause (1); and
+  (a) each reference to accreditation or accreditation to provide an approved programme were a reference to approval under subclause (1); and
   (b) each reference to an institution were a reference to a registered school.
 (5) A registered school that is granted approval under subclause (1) may continue to provide assessment for an NCEA qualification in the 2021 and 2022 calendar years to students described in subclause (1).
 (6) NZQA may, for the purposes of subclause (1), make rules, in addition to any relevant requirements set out in rules made under section 452, prescribing—
@@ -7639,7 +7942,7 @@ For the purposes of the Inland Revenue Acts (as defined in section 3(1) of the T
   (a) an approval of a programme under section 439:
   (b) an accreditation to provide all or part of a programme under section 441:
   (c) an approval to provide a training scheme under section 445:
-  (d) a consent to assess against the standards listed in the Directory of Assessment Standards under section 449:
+  (d) a consent to assess against the standards listed in the Directory of Assessment and Skill Standards under section 449:
   (e) a consent to award a degree or a postgraduate qualification under section 454.
 (2) On and after 1 April 2020,—
   (a) except as provided in subclause (3), the approval, accreditation, or consent (including any conditions imposed on an approval, an accreditation, or a consent) must be treated as if it were granted to the existing polytechnic’s corresponding Te Pūkenga—New Zealand Institute of Skills and Technology subsidiary; and
@@ -7744,7 +8047,7 @@ Clauses 44 to 58 apply during the transition period.
   (a) is recognised for the 1 or more industries specified in the notice given by the Minister when recognising the transitional ITO; and
   (b) must carry out the 1 or more activities described in subclause (3) and specified in the notice.
 (3) For the purposes of this clause, the activities are—
-  (a) developing, setting, and maintaining skill standards to be listed on the Directory of Assessment Standards; and
+  (a) developing, setting, and maintaining skill standards to be listed on the Directory of Assessment and Skill Standards; and
   (b) developing and maintaining arrangements for the delivery of work-based training that enable trainees to achieve the relevant skill standards; and
   (c) the apprenticeship training activities described in section 376(2).
 
@@ -7790,8 +8093,8 @@ Clauses 44 to 58 apply during the transition period.
 ### 49 Existing approvals and consents granted to former ITO
 (1) This clause applies to the following matters granted to a former ITO by NZQA under Part 20 of the 1989 Act before 1 April 2020 and in effect immediately before that date:
   (a) an approval of a programme under section 439:
-  (b) an approval to provide a training scheme under section 445:
-  (c) a consent to assess against the standards listed in the Directory of Assessment Standards under section 449.
+  (b) an approval to provide a micro-credential under section 445:
+  (c) a consent to assess against the standards listed in the Directory of Assessment and Skill Standards under section 449.
 (2) On and after 1 April 2020,—
   (a) an approval or a consent (including any conditions imposed on the approval or consent) must be treated as if it were granted to the former ITO’s corresponding transitional ITO; and
   (b) unless the context otherwise requires, every reference in the approval or consent must be read as a reference to the corresponding transitional ITO.
@@ -7938,13 +8241,7 @@ Employment in the service of NZQA is Government service within the meaning of th
 **Pastoral care**
 
 ### 67 Transitional provision relating to code in respect of domestic tertiary students
-(1) This clause—
-  (a) applies to providers that enrol domestic tertiary students; and
-  (b) applies despite subpart 7 of Part 5 of this Act.
-(2) A code in respect of domestic tertiary students issued under Part 18A of the 1989 Act, as it read immediately before the commencement of this clause, is to be treated as a code issued under subpart 7 of Part 5.
-(3) Despite anything in Part 18A of the 1989 Act, as it read immediately before the commencement of this clause, or subpart 7 of Part 5, the Minister may make minor and technical amendments to an interim code, and doing so does not affect its status as the applicable code.
-(4) An interim code issued under Part 18A of the 1989 Act, as it read immediately before the commencement of this clause, expires on 1 January 2022.
-(5) The DRS does not apply to an interim code in respect of domestic tertiary students issued under Part 18A of the 1989 Act, as it read immediately before the commencement of this clause, or as amended by the Minister under subclause (3).
+[Repealed]
 
 ### 68 Transitional provision relating to code in respect of international students
 (1) This clause—
@@ -7993,7 +8290,105 @@ Any 2015 fee, or part of a 2015 fee, that applies to a person and that has not b
 (1) This clause applies to a person who has paid a 2020 fee to the Teaching Council on or after 1 February 2021.
 (2) The payment must be treated on and after commencement as a part-payment of the appropriate 2015 fee payable by the person.
 
+### Part 4 — Provisions relating to Education and Training Amendment Act 2022
+
+**General**
+
+### 77 Interpretation
+In this Part—
+  - **1989 Act** means the Education Act 1989
+  - **Amendment Act** means the Education and Training Amendment Act 2022
+  - **commencement date** means the date on which the Amendment Act (other than sections 44 and 45) comes into force
+  - **DRS** means the student contract dispute resolution scheme established under section 536.
+
+**Licensing of early childhood services**
+
+### 78 Transitional provision relating to applications for licences to operate early childhood services
+Sections 17 to 18C do not apply to an application for a licence under the Education (Early Childhood Services) Regulations 2008 made before the date those sections come into force and to which the requirements for the provision of information and evidence relating to the application specified in regulations have been met.
+
+**Compulsory student services fees**
+
+### 79 Ministerial direction relating to compulsory student services fees
+(1) This clause applies to a direction relating to compulsory student services fees that was given by the Minister under section 227A of the 1989 Act, and that—
+  (a) was continued in force under clause 15; and
+  (b) is in force immediately before the commencement date.
+(2) Despite the repeal of sections 257 and 360 by sections 15 and 18 of the Amendment Act, the direction continues in force until 1 January 2024 (unless it is revoked earlier by the Minister).
+
+**Training schemes**
+
+### 80 Existing training scheme approval to become micro-credential approval and accreditation
+(1) This clause applies to an institution that was granted approval to provide a training scheme under section 445 before the commencement date.
+(2) On and after the commencement date,—
+  (a) the training scheme is to be treated as a micro-credential for the purposes of the Act; and
+  (b) the institution must be treated as if NZQA has—
+    (i) granted approval of the content of a micro-credential under section 445; and
+    (ii) granted accreditation to the institution to provide the micro-credential under section 446A.
+
+**Notices published by NZQA**
+
+### 81 Publication of saved notices by NZQA
+NZQA may publish the following under section 459A:
+  (a) a quality assurance improvement notice (or summary of a notice) issued under section 11C of the Industry Training and Apprenticeships Act 1992 and continued in force under clause 48:
+  (b) a compliance notice (or summary of a notice) issued under section 11D of the Industry Training and Apprenticeships Act 1992 and continued in force under clause 48.
+
+**Disciplinary functions**
+
+### 82 Transitional provision relating to Complaints Assessment Committee investigation and Disciplinary Tribunal review
+(1) The amendments made by sections 44 and 45 of the Amendment Act apply only to investigations commenced on or after the date on which those sections come into force.
+(2) Investigations commenced, and not finally determined before that date, continue as if those amendments had not been enacted.
+
+**Dispute resolution**
+
+### 83 Transitional provision relating to application of DRS to domestic tertiary students’ contractual and financial disputes lodged before commencement date
+(1) Sections 536 to 538 as in force immediately before the Amendment Act apply to a relevant dispute but only if the dispute—
+  (a) relates to circumstances, or an issue or event, that arose or occurred on or after 1 January 2022; and
+  (b) is lodged on or after 1 January 2022 and before the commencement date.
+(2) In subclause (1), relevant dispute means a dispute between a domestic tertiary student (or a former or prospective domestic tertiary student) and a provider to which the DRS applied under section 536(2) prior to the commencement date.
+
+### 84 Transitional provision relating to application of DRS to domestic tertiary students’ contractual and financial disputes lodged after commencement date
+(1) Sections 536 to 538 (as amended by the Amendment Act) apply to a relevant dispute that—
+  (a) relates to circumstances, or an issue or event, that arose or occurred on or after 1 January 2022; and
+  (b) is lodged on or after the commencement date.
+(2) In subclause (1), relevant dispute means a dispute between a domestic tertiary student (or a former or prospective domestic tertiary student) and a provider to which the DRS applies under section 536(2)﻿(a) (as inserted by the Amendment Act).
+
+### 85 Transitional provision relating to application of DRS to disputes about breach of code after commencement date
+Sections 536 to 538 (as amended by the Amendment Act) apply to the dispute if—
+  (a) it is a dispute to which the DRS applies under section 536(2)﻿(b) (as inserted by the Amendment Act); and
+  (b) it relates to circumstances, or an issue or event, that arose or occurred on or after the commencement date.
+
+**Student accommodation**
+
+### 86 Transitional provision relating to good character assessment of employees in student accommodation
+(1) This clause applies in respect of every person who at the commencement date was an employee in student accommodation.
+(2) The provider or signatory provider that operates that student accommodation must ensure, within 3 years of the commencement date, that the provider or signatory provider has made an assessment in accordance with section 540A(3) of whether the person is of good character if the provider or signatory provider continues to employ the person.
+
+**Regulations relating to early childhood services**
+
+### 87 Notices recognising qualifications made under regulations relating to early childhood services validly issued
+(1) This clause applies to a notice issued by the Secretary under—
+  (a) regulations made under section 636(2)﻿(h) made before the commencement date; or
+  (b) regulations made under section 317 of the 1989 Act that are continued in force under clause 4(1).
+(2) A notice to which this clause applies is to be treated as being and having always been validly issued.
+
+**Police vetting**
+
+### 88 Transitional provision relating to Police vetting
+(1) Subclauses (2) and (3) apply in respect of any person—
+  (a) for whom a Police vet must be obtained by the service provider of a licensed early childhood service under clause 1 of Schedule 4; and
+  (b) who has been appointed to a position, or has begun working, at the service concerned; and
+  (c) for whom, at the commencement date, no Police vet had yet been obtained by the service provider.
+(2) The Police vet must be obtained in respect of a person to whom this clause applies before the person has, or is likely to have, unsupervised access to children at the service during normal opening hours.
+(3) The service provider must apply for the Police vet no later than 2 weeks after the person begins work at the service.
+(4) Subclauses (5) and (6) apply in respect of any person—
+  (a) for whom a Police vet must be obtained by the board of a State school or the managers of a private school under clause 9 of Schedule 4; and
+  (b) who has been appointed to a position, or has begun working, at the school concerned; and
+  (c) for whom, at the commencement date, no Police vet had yet been obtained by the board or the managers.
+(5) The Police vet must be obtained in respect of a person to whom this clause applies before the person has, or is likely to have, unsupervised access to students at the school during normal school hours.
+(6) The board or managers must apply for the Police vet no later than 2 weeks after the person begins work at the school.
+
 ## Schedule 2 — Special institutions
+
+## Schedule 2A — Free kindergarten associations
 
 ## Schedule 3 — Teacher registration, practising certificates, and other matters
 
@@ -8229,18 +8624,21 @@ If the management of an early childhood service that is not an early childhood e
 **Police vetting in respect of licensed early childhood services**
 
 ### 1 Police vetting of non-teaching and unregistered employees at licensed early childhood services
-The service provider of a licensed early childhood service must obtain a Police vet of every person—
+(1) The service provider of a licensed early childhood service must obtain a Police vet of every person—
   (a) whom the service provider appoints, or intends to appoint, to a position at the early childhood service; and
   (b) who is to work at the service during normal opening hours; and
-  (c) who is not a registered teacher or holder of a limited authority to teach.
+  (c) who is not—
+    (i) a registered teacher who holds a current practising certificate; or
+    (ii) a holder of a limited authority to teach.
+(2) The Police vet must be obtained before a person’s employment or engagement at the early childhood service begins.
 
 ### 2 Police vetting of contractors and their employees who work at licensed early childhood services
 (1) The service provider of a licensed early childhood service must obtain a Police vet of every contractor, or employee of a contractor, who has, or is likely to have, unsupervised access to children at the service during normal opening hours.
+(1A) The Police vet must be obtained before a contractor, or an employee of a contractor, has, or is likely to have, unsupervised access to children at the service during normal opening hours.
 (2) In this clause, contractor means a person who works at a licensed early childhood service under a contract for services.
 
 ### 3 Police vet must be obtained before person has unsupervised access to children
-(1) A Police vet required under clause 1 or 2 must be obtained before the person has, or is likely to have, unsupervised access to children at the service during normal opening hours.
-(2) The service provider of a licensed early childhood service that is required under clause 1 to obtain a Police vet of a person must apply for the vet no later than 2 weeks after the person begins work at the service.
+[Repealed]
 
 ### 4 Procedures relating to Police vets under clause 1 or 2
 The service provider of a licensed early childhood service that applies for a Police vet of a person under clause 1 or 2—
@@ -8278,18 +8676,21 @@ The service provider of a licensed home-based education and care service that ap
 **Police vetting in respect of primary and secondary schools**
 
 ### 9 Police vetting of non-teaching and unregistered employees at schools
-The board of a State school and the managers of a private school must obtain a Police vet of every person—
+(1) The board of a State school and the managers of a private school must obtain a Police vet of every person—
   (a) whom the board or the managers appoints, or intends to appoint, to a position at the school; and
   (b) who is to work at the school during normal school hours; and
-  (c) who is not a registered teacher or holder of a limited authority to teach.
+  (c) who is not—
+    (i) a registered teacher who holds a current practising certificate; or
+    (ii) a holder of a limited authority to teach.
+(2) The Police vet must be obtained before a person’s employment or engagement at the school begins.
 
 ### 10 Police vetting of contractors and their employees who work at schools
 (1) The board of a State school and the managers of a private school must obtain a Police vet of every contractor, or employee of a contractor, who has, or is likely to have, unsupervised access to students at the school during normal school hours.
+(1A) A Police vet must be obtained before a contractor, or an employee of a contractor, has, or is likely to have, unsupervised access to students at the school during normal school hours.
 (2) In this clause, contractor means a person who works at a school under a contract for services.
 
 ### 11 Police vet must be obtained before person has unsupervised access to students
-(1) A Police vet required under clause 9 or 10 must be obtained before the person has, or is likely to have, unsupervised access to students at the school during normal school hours.
-(2) The board of a State school or the managers of a private school that is required under clause 9 to obtain a Police vet of a person must apply for the vet no later than 2 weeks after the person begins work at the school.
+[Repealed]
 
 ### 12 Further Police vets to be obtained every 3 years
 (1) The board of a State school and the managers of a private school must obtain a further Police vet of every person on whom a Police vet has already been obtained under clause 9 or 10 by that board or management and who still works at the school.
@@ -9598,8 +9999,9 @@ In this schedule, unless the context otherwise requires,—
 (1) This clause applies to the following matters granted to an Te Pūkenga—New Zealand Institute of Skills and Technology subsidiary or treated as having been granted to the subsidiary by NZQA under subpart 2 of Part 5 before the dissolution date and in effect immediately before that date:
   (a) an approval of a programme under section 439:
   (b) an accreditation to provide all or part of a programme under section 441:
-  (c) an approval to provide a training scheme under section 445:
-  (d) a consent to assess against the standards listed on the Directory of Assessment Standards under section 449:
+  (c) an approval of the content of a micro-credential under section 445:
+  (ca) an accreditation to provide a micro-credential under section 446A:
+  (d) a consent to assess against the standards listed on the Directory of Assessment and Skill Standards under section 449:
   (e) a consent to award a degree or a postgraduate qualification under section 454.
 (2) On and after the dissolution date,—
   (a) the approval, accreditation, or consent (including any conditions imposed on an approval or accreditation) continues to apply and must be treated as if it were granted to Te Pūkenga—New Zealand Institute of Skills and Technology; and
@@ -10787,7 +11189,8 @@ Before a person is elected, co-opted, or appointed as a board member, the person
   (a) dies; or
   (b) resigns by written notice to the board; or
   (c) is absent from 3 consecutive board meetings without the prior leave of the board; or
-  (d) becomes a person who (in terms of clause 9(1)) may not become an elected, appointed, or co-opted board member.
+  (d) becomes a person who (in terms of clause 9(1)) may not become an elected, appointed, or co-opted board member; or
+  (e) is removed by the Minister under section 169(2).
 (2) If a property order is made in respect of a board member under section 30 of the Protection of Personal and Property Rights Act 1988 (which relates to temporary orders),—
   (a) subclause (1)﻿(d) does not apply to the board member owing only to the making of that order; but
   (b) while the order remains in force, the board member is to be treated as having been granted leave of absence by the board and is not capable of acting as a board member during that period.
@@ -10845,19 +11248,21 @@ Before a person is elected, co-opted, or appointed as a board member, the person
 In this schedule, unless the context otherwise requires, education provider means—
   (a) an early childhood service; and
   (b) a registered school; and
-  (c) a tertiary education organisation.
+  (c) a tertiary education organisation; and
+  (d) an education provider that is in a jurisdiction described in section 455(2)﻿(b) and that provides teaching and assessment of NCEA standards in that jurisdiction.
 
 ### 2 Purpose
 The purpose of this schedule is to authorise the use by specified users of national student numbers for specific purposes, in order to facilitate the accurate use and transfer, by specified users, of information relating to individual students.
 
 ### 3 Assigning national student numbers
-The Secretary may cause to be assigned a national student number to—
+(1) The Secretary may cause to be assigned a national student number to—
   (a) any student who—
     (i) is enrolled with an education provider; or
     (ii) has been granted an exemption under section 38 or 39:
   (b) any child aged under 6 years if the Secretary has reasonable grounds to believe that the child—
     (i) is unlikely to attend an early childhood service; and
     (ii) is likely to benefit from attending the early childhood service.
+(2) For the purposes of this clause, student includes a student who is studying in a jurisdiction described in section 455(2)﻿(b) and who is receiving teaching and assessment of NCEA standards in that jurisdiction.
 
 ### 4 Use of national student numbers
 (1) The Secretary—
@@ -10867,6 +11272,7 @@ The Secretary may cause to be assigned a national student number to—
     (i) monitoring and ensuring student enrolment and attendance:
     (ii) encouraging attendance at early childhood services:
     (iii) ensuring education providers and students receive appropriate resourcing:
+    (iiia) ensuring that employers and students receive appropriate resourcing and support for work-based training:
     (iv) statistical purposes:
     (v) research purposes:
     (vi) ensuring that student educational records are accurately maintained:
