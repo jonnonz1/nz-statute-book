@@ -1,5 +1,5 @@
 # Children’s Act 2014
-_Consolidation as at 2022-07-01_
+_Consolidation as at 2022-08-01_
 
 ### 1 Title
 This Act is the Children’s Act 2014.
