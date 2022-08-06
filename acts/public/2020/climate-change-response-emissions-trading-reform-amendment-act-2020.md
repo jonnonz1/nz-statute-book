@@ -1,5 +1,5 @@
 # Climate Change Response (Emissions Trading Reform) Amendment Act 2020
-_Consolidation as at 2021-10-28_
+_Consolidation as at 2022-08-06_
 
 ### 1 Title
 This Act is the Climate Change Response (Emissions Trading Reform) Amendment Act 2020.
@@ -4931,16 +4931,11 @@ A unit that is transferred to a conversion account may not be surrendered, cance
 
 ## Schedule 6 — Consequential amendments that commence on 1 January 2024
 
-### 2A Transitional, savings, and related provisions
-The transitional, savings, and related provisions set out in Schedule 1AA have effect according to their terms.
+## Schedule 7 — New Part inserted into Schedule 1AA of Forests Act 1949
 
-## Schedule 7 — New Schedule 1AA inserted in Forests Act 1949
+### Part 2 — Provisions relating to Climate Change Response (Emissions Trading Reform) Amendment Act 2020
 
-### Schedule 1AA — Transitional, savings, and related provisions
-
-#### Part 1 — Provisions relating to Climate Change Response (Emissions Trading Reform) Amendment Act 2020
-
-### 1 Removal of forest sink covenants from register and records
+### 4 Removal of forest sink covenants from register and records
 (1) The EPA (as defined by section 4 of the Climate Change Response Act 2002) must, as soon as is reasonably practicable after the commencement of this clause, give notice that the clause has commenced to—
   (a) the Registrar-General of Land; and
   (b) the Registrar of the Maori Land Court.
@@ -4948,5 +4943,5 @@ The transitional, savings, and related provisions set out in Schedule 1AA have e
   (a) the Registrar-General of Land must record, on each record of title on which a forest sink covenant is registered, that the covenant is terminated; and
   (b) the Registrar of the Maori Land Court must remove any notification of a forest sink covenant from the court’s records of Maori land.
 
-### 2 Crown charges continue against land subject to forest sink covenants
+### 5 Crown charges continue against land subject to forest sink covenants
 For the purposes of any charge registered against land in accordance with section 67ZE immediately before the commencement of this clause, the charge and that section continue to apply as if the section had not been repealed.
