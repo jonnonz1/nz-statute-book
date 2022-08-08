@@ -973,7 +973,7 @@ In section 2(1), definition of infringement notice, after paragraph (jh), insert
 **Other amendments and revocation**
 
 ### 107 Other amendments and revocation
-(1) Amend the Acts specified in Schedules 2 and 3 and Part 1 of Schedule 4 as set out in those schedules.
+(1) Amend the Acts and secondary legislation specified in Schedules 2 and 3 and Part 1 of Schedule 4 as set out in those schedules.
 (2) Amend the secondary legislation specified in Part 2 of Schedule 4 as set out in that schedule.
 (3) The Education (Statistics New Zealand Authorised to Use National Student Numbers) Regulations 2008 (SR 2008/134) are revoked.
 
