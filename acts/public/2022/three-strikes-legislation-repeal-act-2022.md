@@ -70,7 +70,7 @@ Repeal section 139(1)﻿(ba).
 **Amendments to Parole Act 2002**
 
 ### 17 Principal Act
-Sections 18 to 20 amend the Parole Act 2002.
+Sections 18 to 21 amend the Parole Act 2002.
 
 ### 18 Section 20 amended (Parole eligibility date)
 Repeal section 20(5) to (8).
