@@ -1,5 +1,5 @@
 # Overseas Investment Act 2005
-_Consolidation as at 2022-07-01_
+_Consolidation as at 2022-08-16_
 
 ### 1 Title
 This Act is the Overseas Investment Act 2005.
@@ -513,7 +513,7 @@ This Act binds the Crown.
 
 ### 16A Benefit to New Zealand test
 Outline
-(1AA) This subsection shows the ways in which the benefit to New Zealand test can be met, but it is a guide only to the general scheme and effect of this section.The following table is small in size and has 3 columns. Column 1 is headed Pathway. Column 2 is headed Which subsections apply. Column 3 is headed Which counterfactual applies.PathwayWhich subsections applyWhich counterfactual appliesGeneral testSubsections (1), (1A)Subsection (1A)﻿(a)Modified benefit test if relevant land is or includes farm land described in subsection (1C)Subsections (1), (1A), (1C), (1D)Subsection (1A)﻿(a)Modified benefit test for things described in subsection (2) (forestry activities) Subsections (1), (3), (7), (9)Subsection (3)Special benefit test relating to forestry activities Subsections (4) to (9)N/a
+(1AA) This subsection shows the ways in which the benefit to New Zealand test can be met, but it is a guide only to the general scheme and effect of this section.The following table is small in size and has 3 columns. Column 1 is headed Pathway. Column 2 is headed Which subsections apply. Column 3 is headed Which counterfactual applies.PathwayWhich subsections applyWhich counterfactual appliesGeneral testSubsections (1), (1A)Subsection (1A)﻿(a)Modified benefit test if relevant land is or includes farm land described in subsection (1C)Subsections (1), (1A), (1C), (1D), (1E), (2)Subsection (1A)﻿(a)Special benefit test relating to forestry activities Subsections (4) to (9)N/a
 General test
 (1) The benefit to New Zealand test is met if both of the following are met:
   (a) the overseas investment will, or is likely to, benefit New Zealand (or any part of it or group of New Zealanders) to the extent required by this section, as determined by the relevant Ministers under section 17; and
@@ -523,7 +523,7 @@ General test
   (b) must take a proportionate approach to whether the benefit test is met, by taking into account whether that benefit is proportionate to the following:
     (i) the sensitivity of the land (for example, the importance to New Zealand of the purpose for which the land is used, the size and value of the land, any sensitive features associated with the land, and the level of interest that the public have in the land) or the fishing quota; and
     (ii) the nature of the overseas investment transaction (for example, the estate or interest being acquired, whether the estate or interest is temporary or permanent, and the degree of overseas ownership or control of the land or of the estate or interest in land).
-(1B) However, subsection (1A) does not apply if subsection (3) or (4) applies.
+(1B) However, subsection (1A) does not apply if subsection (4) applies.
 Modified benefit test if relevant land is or includes farm land
 (1C) If the relevant land is or includes farm land that in area exceeds 5 hectares, the relevant Ministers must—
   (a) give the following factors high relative importance:
@@ -535,34 +535,23 @@ Modified benefit test if relevant land is or includes farm land
   (b) the transaction does not materially change the level of ownership or control that the relevant overseas person has over the asset; or
   (c) the farm land has no or limited productive capacity as farm land and will, or is likely to, be used promptly, as a result of the overseas investment, for industrial or commercial development (for example, a supermarket) or for the construction of 1 or more buildings that, taken together, will consist of 20 or more new residential dwellings.
 (1E) Subsection (1C) does not preclude the relevant Ministers also giving other factors high relative importance.
-Modified benefit test for things described in subsection (2) (forestry activities)
-(2) Subsection (3) applies if the relevant Ministers are satisfied—
-  (a) that the relevant land will be, or is likely to be, used exclusively, or nearly exclusively, for forestry activities; and
-  (b) that—
-    (i) the relevant land is not residential land only; and
-    (ii) if the relevant land includes any residential land, the residential land adjoins other land that is included in the relevant land but is not residential land; and
-  (c) that the relevant land will not be, or is not likely to be, used, or held for future use, for any residential purposes, except where—
-    (i) accommodation is being provided for the purpose only of supporting forestry activities being carried out on the relevant land; and
-    (ii) all buildings being used for that accommodation are located on land on which some or all of those forestry activities are being carried out or on land that adjoins land on which some or all of those forestry activities are being carried out; and
-  (d) that, whenever a crop of trees is harvested on the relevant land, a new crop will be, or is likely to be, established on the relevant land to replace the crop that is harvested (subject to subsection (7)).
-(3) For the purposes of subsection (1)﻿(a), the relevant Ministers may assess the benefit to New Zealand (or any part of it or group of New Zealanders) by comparing the expected result of the overseas investment with what is expected to happen in relation to the relevant land if—
-  (a) the overseas investment is not given effect to; and
-  (b) there were to be no future changes to the ownership or control (direct or indirect) of—
-    (i) interests in the relevant land; or
-    (ii) rights or interests in securities of persons who own or control (directly or indirectly) interests in the relevant land.
+(2) Subsection (1C) does not apply if the relevant Ministers are satisfied—
+  (a) that, as a result of the overseas investment, the farm land will, or is likely to, be used exclusively, or nearly exclusively, for forestry activities; and
+  (b) that, whenever a crop of trees is harvested on the farm land, a new crop will be, or is likely to be, established on the farm land to replace the crop that is harvested (subject to subsection (7)); and
+  (c) that the non-occupation outcome will, or is likely to, occur in relation to the farm land (where that outcome in clause 17(3) to (5) of Schedule 2 applies with necessary modifications as if the reference to residential land were a reference to the farm land).
+(3)
 Special test relating to forestry activities
 (4) Regulations may provide that the benefit to New Zealand test is also met if the relevant Ministers are satisfied—
-  (a) that the relevant land will be, or is likely to be, used exclusively, or nearly exclusively, for forestry activities; and
+  (a) that the relevant land is already used when the transaction is entered into, and will continue to be used, exclusively, or nearly exclusively, for forestry activities; and
   (b) that—
     (i) the relevant land is not residential land only; and
     (ii) if the relevant land includes any residential land, the residential land adjoins other land that is included in the relevant land but is not residential land; and
-  (c) that the relevant land will not be, or is not likely to be, used, or held for future use, for any residential purposes, except where—
-    (i) accommodation is being provided for the purpose only of supporting forestry activities being carried out on the relevant land; and
-    (ii) all buildings being used for that accommodation are located on land on which some or all of those forestry activities are being carried out or on land that adjoins land on which some or all of those forestry activities are being carried out; and
+  (c) that the non-occupation outcome will, or is likely to, occur in relation to the relevant land (where that outcome in clause 17(3) to (5) of Schedule 2 applies with necessary modifications as if the reference to residential land were a reference to the relevant land); and
   (d) that any requirements set out in regulations in accordance with subsection (5) will be, or are likely to be, met (subject to subsection (8)); and
   (e) that, whenever a crop of trees is harvested on the relevant land, a new crop will be, or is likely to be, established on the relevant land to replace the crop that is harvested (subject to subsection (7)); and
   (f)
   (g) that any other requirements set out in regulations are met.
+(4A) To avoid doubt, the reference in subsection (2)﻿(a) to the use of the farm land and the reference in subsection (4)﻿(a) to the use of the relevant land mean the use that arises under the estate or interest referred to in section 12(1)﻿(a).
 (5) Regulations may, for the purposes of subsection (4)﻿(d), set out requirements that must be met after the overseas investment is given effect to.
 (6) Requirements set out in regulations for the purposes of subsection (4)﻿(d) may (without limitation) be about 1 or more of the following:
   (a) activities that must, or must not, be carried out on the relevant land:
@@ -570,37 +559,38 @@ Special test relating to forestry activities
   (c) outcomes that must result from the overseas investment.
 Powers not to apply, or to modify, certain requirements
 (7) The relevant Ministers may decide—
-  (a) not to apply the requirement set out in subsection (2)﻿(d) or (4)﻿(e) if satisfied that the relevant overseas person (together with the relevant overseas person’s associates) will not have sufficient ownership or control (direct or indirect) of rights in respect of the relevant land to ensure that the requirement will be met:
-  (b) to modify the requirement set out in subsection (2)﻿(d) or (4)﻿(e) by not applying the requirement for a part of the relevant land if satisfied that the relevant overseas person (together with the relevant overseas person’s associates) will not have sufficient ownership or control (direct or indirect) of rights in respect of that part of the relevant land to ensure that the requirement will be met for that part of the relevant land.
+  (a) not to apply the requirement set out in subsection (2)﻿(b) or (4)﻿(e) if satisfied that the relevant overseas person (together with the relevant overseas person’s associates) will not have sufficient ownership or control (direct or indirect) of rights in respect of the relevant land to ensure that the requirement will be met:
+  (b) to modify the requirement set out in subsection (2)﻿(b) or (4)﻿(e) by not applying the requirement for a part of the relevant land if satisfied that the relevant overseas person (together with the relevant overseas person’s associates) will not have sufficient ownership or control (direct or indirect) of rights in respect of that part of the relevant land to ensure that the requirement will be met for that part of the relevant land.
 (8) The relevant Ministers may decide not to apply, or may modify, any requirement set out in regulations for the purposes of subsection (4)﻿(d) if satisfied that the relevant overseas person (together with the relevant overseas person’s associates) will not have sufficient ownership or control (direct or indirect) of rights in respect of the relevant land to ensure that the requirement will be met.
 Definitions
 (9) In this section,—
   - **adjoins** includes separated only by a public road (including a motorway or a State highway, and whether or not the road is formed)
-  - **forestry activities** means any of the following:
+  - **forestry activities** means any of the following activities in respect of any trees (whether exotic or native) that are to be harvested to provide wood:
     (a) maintaining a crop of trees:
     (b) harvesting a crop of trees:
-    (c) establishing a crop of trees.
+    (c) maintaining the land during the period between harvesting a crop of trees and establishing a new crop of trees:
+    (d) establishing a crop of trees.
 
 ### 16B Conditions for consents relating to sensitive land that is residential land: benefit to New Zealand test
 (1) This section applies if an application for consent for an overseas investment in sensitive land is being considered under the benefit to New Zealand test and the relevant land is or includes residential land.
-(2) However, this section does not apply where section 16A(3) is being applied or the application is being considered in accordance with section 16A(4) (see instead section 16C).
+(2) However, this section does not apply (and see instead section 16C)—
+  (a) to the extent that the relevant land is farm land and the relevant Ministers are satisfied in accordance with section 16A(2); or
+  (b) where the application is being considered in accordance with section 16A(4).
 (3) If consent is granted, to the extent that the consent relates to the residential land,—
   (a) the relevant Ministers must determine a residential land outcome listed in the table in clause 19 of Schedule 2 as applying to the residential land; and
   (b) the consent must be made subject to the set of conditions for the residential land outcome, subject to any exemptions applying (in each case, as described in the table).
 (4) Consent may be granted on the basis of different residential land outcomes applying for different parts of the residential land (with different sets of conditions imposed for different parts).
-ExampleA is an overseas person who wants to buy 100% of the shares in what is currently a 100% New Zealand-owned and -controlled company.The company owns the following sensitive land (and has no other interests in sensitive land):40 hectares of non-urban land (that is not residential land):residential land where 2 houses are being constructed.No part of the land is, or will be, used for forestry activities.Criteria for consentBecause the relevant land is a mix of sensitive (but not residential) land and residential land, section 16(1)﻿(e) applies and (in addition to the other criteria in section 16(1) that apply) the benefit to New Zealand test must be met in relation to all of the relevant land.Residential land outcomesBecause the relevant land includes residential land, section 16A(1)﻿(c) applies.A wants to complete and sell one of the houses and live in the other house. A's application for consent proposes the following residential land outcomes (from the table in clause 19 of Schedule 2) for the residential land:occupation as a main home or residence (on the basis that the commitment to reside in New Zealand test will be met in respect of part of the residential land):increased residential dwellings (for the remaining part of the residential land).Required conditionsIf consent is granted, each part of the residential land will be covered by a set of conditions (see clause 19 of Schedule 2) for the residential land outcomes that the relevant Ministers determine apply.(See also sections 25A and 25B, in relation to the imposition of conditions generally.)
+ExampleA is an overseas person who wants to buy 100% of the shares in what is currently a 100% New Zealand-owned and -controlled company.The company owns the following sensitive land (and has no other interests in sensitive land):40 hectares of non-urban land (that is not residential land):residential land where 2 houses are being constructed.No part of the land is, or will be, used for forestry activities.Criteria for consentBecause the relevant land is a mix of sensitive (but not residential) land and residential land, section 16(1)﻿(e) applies and (in addition to the other criteria in section 16(1) that apply) the benefit to New Zealand test must be met in relation to all of the relevant land.Residential land outcomesBecause the relevant land includes residential land, section 16A(1)﻿(b) applies.A wants to complete and sell one of the houses and live in the other house. A's application for consent proposes the following residential land outcomes (from the table in clause 19 of Schedule 2) for the residential land:occupation as a main home or residence (on the basis that the commitment to reside in New Zealand test will be met in respect of part of the residential land):increased residential dwellings (for the remaining part of the residential land).Required conditionsIf consent is granted, each part of the residential land will be covered by a set of conditions (see clause 19 of Schedule 2) for the residential land outcomes that the relevant Ministers determine apply.(See also sections 25A and 25B, in relation to the imposition of conditions generally.)
 
 ### 16C Conditions for consents relating to sensitive land that will be used for forestry activities
-(1) Subsection (2) applies if an application for consent for an overseas investment in sensitive land is being considered under the benefit to New Zealand test and section 16A(3) is being applied.
-(2) If granted, the consent must be made subject to conditions for the purpose of ensuring that the following requirements will be met:
-  (a) the requirements set out in section 16A(2)﻿(a) and (c):
-  (b) the requirement set out in section 16A(2)﻿(d), subject to section 16A(7).
+(1) Subsection (2) applies if an application for consent for an overseas investment in sensitive land is being considered under the benefit to New Zealand test, to the extent that the relevant land is farm land and the relevant Ministers are satisfied in accordance with section 16A(2).
+(2) If granted, the consent must be made subject to conditions for the purpose of ensuring that the requirements set out in section 16A(2) will be met, subject to section 16A(7).
 (3) Subsection (4) applies if an application for consent for an overseas investment in sensitive land is being considered under the benefit to New Zealand test in accordance with section 16A(4).
 (4) If granted, the consent must be made subject to conditions for the purpose of ensuring that the following requirements will be met:
   (a) the requirements set out in section 16A(4)﻿(a) and (c):
   (b) the requirements set out in regulations made for the purposes of section 16A(4)﻿(d), subject to section 16A(8):
   (c) the requirement set out in section 16A(4)﻿(e), subject to section 16A(7).
-(5) A condition imposed in relation to the requirement set out in section 16A(2)﻿(d) or (4)﻿(e) may require the replacement of a crop of trees that is harvested to be on a like-for-like basis or on any similar basis.
+(5) A condition imposed in relation to the requirement set out in section 16A(2)﻿(b) or (4)﻿(e) may require the replacement of a crop of trees that is harvested to be on a like-for-like basis or on any similar basis.
 
 ### 17 Factors for assessing benefit of overseas investments in sensitive land
 What are the factors
@@ -613,9 +603,9 @@ What are the factors
   (f) involve oversight of, or participation in, the overseas investment or any relevant overseas person by persons who are not overseas persons:
   (g) result in other consequential benefits to New Zealand.
 How factors must be considered
-(2) For the purposes of section 16A(1)﻿(a) and (b) (including where section 16A(3) is being applied), the relevant Ministers—
+(2) For the purposes of section 16A(1)﻿(a) and (b), the relevant Ministers—
   (a) must consider all the factors in subsection (1) to determine which factor or factors are relevant to the overseas investment; and
-  (b) must determine whether the criteria in section 16A(1)﻿(a) and (b) (including where section 16A(3) is being applied) are met after having regard to those relevant factors and, in doing so,—
+  (b) must determine whether the criteria in section 16A(1)﻿(a) and (b) are met after having regard to those relevant factors and, in doing so,—
     (i) must deduct from any benefit arising under a factor any directly comparable aspect of the counterfactual, and any negative impact of the overseas investment that is directly comparable, but must stop deducting at zero unless subsection (3) applies:
     (ii) must not deduct from any benefit arising under a factor any non-directly comparable aspect of the counterfactual or any negative impact of the overseas investment that is not directly comparable unless subsection (3) applies:ExamplesDirectly comparableIf a company is generating $10 million in export receipts at the time that the overseas investment transaction is entered into and the overseas investment will result in a total of $15 million in export receipts, the net benefit in respect of export receipts under the economic factor is $5 million.Non-directly comparableIf the overseas investment will result in an increase in jobs, but a decrease in export receipts, as compared with the counterfactual, the decrease in export receipts cannot be deducted from the benefit associated with the increase in jobs. If an overseas investment will result in the introduction of technology but a decrease in export receipts, the decrease in export receipts must not be deducted from any benefits arising from the introduction of technology.
     (iii) must determine the relative importance to be given to each relevant factor or particular benefit arising under a factor, subject to section 16A(1C).
@@ -2527,6 +2517,32 @@ An Order in Council made under section 95, 101, or 106 is not a legislative inst
 ### 51 Amendment of sections 95, 101, and 106
 Sections 95(5), 101(5), and 106(4) (as inserted by the Secondary Legislation Act 2021) are repealed.
 
+### Part 7 — Provisions relating to Overseas Investment (Forestry) Amendment Act 2022
+
+### 52 Interpretation in this Part
+(1) In this Part, unless the context otherwise requires,—
+  - **commencement** means the day after the date on which the Overseas Investment (Forestry) Amendment Act 2022 receives the Royal assent
+  - **new Act** means this Act as it reads immediately after commencement
+  - **old Act** means this Act as it read immediately before commencement.
+(2) Part 1 of this schedule applies when determining whether a transaction is entered into before commencement or on or after commencement (see clause 1(4) and (5)).
+
+### 53 Existing transactions and applications, etc
+(1) This clause applies for the purposes of applying a provision of this Act that relates to—
+  (a) determining when consent is required and the criteria for consent under subpart 1 of Part 2 of this Act; and
+  (b) the making of applications for consent and for granting consent under subpart 2 of Part 2 of this Act.
+(2) Except as provided in this Part, the old Act continues to apply to—
+  (a) any application for consent (including for standing consent) received by the regulator before commencement (regardless of when the transaction is or was entered into or whether it has been given effect to); and
+  (b) any transaction entered into before commencement; and
+  (c) any other matter that relates to events or circumstances before commencement.
+(3) In other cases, the new Act applies.
+(4) Subclause (2)﻿(b) does not apply to a transaction that is given effect to before commencement without consent in breach of this Act.
+
+### 54 Standing consents granted in respect of forestry activities
+(1) This clause applies to a standing consent—
+  (a) that is granted before commencement under clause 3 of Schedule 4; or
+  (b) that is granted after commencement pursuant to an application described in clause 53(2)﻿(a).
+(2) The standing consent and the old Act continue to apply in respect of any overseas investments in sensitive land that are given effect to in reliance on the standing consent.
+
 ## Schedule 1 — Sensitive land
 
 | Row | Land is sensitive if it is or includes this type of land | … and that type exceeds this area threshold (if any) |
@@ -2795,6 +2811,9 @@ ExampleA is an overseas person who wishes to buy a company. The company owns lan
   (d) any overseas person who has a beneficial interest in, or beneficial entitlement to, the relevant interest in the residential land:
   (e) if A is a trust, a person who may (directly or indirectly) benefit under the trust at the discretion of the trustees.
 (4) However, subclause (3)﻿(c) to (e) do not apply to a person who is entitled to occupy the land under any consent or any exemption in this Act or the regulations (for example, a person who has consent on the basis of the commitment to reside in New Zealand test may be entitled to lease a new dwelling in respect of which the developer is subject to a non-occupation outcome under the increased housing test).
+(5) For the purposes of section 16A(2)﻿(c) and (4)﻿(c), subclause (3)﻿(c) does not apply to the extent that—
+  (a) accommodation is being provided for the purpose only of supporting forestry activities (as defined in section 16A(9)) being carried out on the farm land (in the case of section 16A(2)﻿(c)) or the relevant land (in the case of section 16A(4)﻿(c)); and
+  (b) all the buildings being used for that accommodation are located on land on which some or all of those forestry activities are being carried out or on land that adjoins land on which some or all of those forestry activities are being carried out.
 
 ### 18 Conditions for consent if 1 or more tests in Part 3 are met
 (1) This clause applies if consent is to be granted for an overseas investment on the basis that 1 or more of the tests in Part 3 are met.
@@ -2931,10 +2950,10 @@ Other provisions
 (3) To the extent that the transaction will result in the relevant forestry investment, it does not require consent for the purposes of section 10(1)﻿(a) in relation to the relevant forestry right.
 (4) Subclause (1) or (3) (as the case may be) does not apply if, immediately after the relevant forestry investment is given effect to, the sum of the following areas is 1 000 hectares or more:
   (a) the area of the relevant forestry right:
-  (b) the combined area of all other forestry rights—
+  (b) the combined area of all unconsented forestry rights—
     (i) that related forestry investors acquire (or are treated as acquiring) in the same calendar year as that in which the relevant forestry investment is given effect to; and
     (ii) that are for a total term (as calculated in accordance with Schedule 1A) of 10 years or more.
-(5) For the purposes of subclause (4)﻿(b)﻿(i),—
+(5) For the purposes of subclause (4)﻿(b),—
   (a) related forestry investor means—
     (i) the person who makes the relevant forestry investment; or
     (ii) any associate of that person; or
@@ -2944,6 +2963,9 @@ Other provisions
     (ii) the forestry right comes under the ownership or control (direct or indirect) of a person in whom B has (either alone or together with B’s associates) a more than 25% ownership or control interest; and
   (c) it does not matter if a forestry right is acquired (or treated as acquired) by a related forestry investor before the relevant forestry investment is given effect to.
 (6) In this clause, area, in relation to a forestry right, means the area of land covered by the forestry right (including any right, whether of the grantor or grantee, to have the original area increased).
+(7) In this clause, unconsented forestry right means a forestry right that is acquired otherwise than in reliance on any of the following:
+  (a) a consent:
+  (b) an exemption in, or an exemption granted under, this Act or the regulations (other than an exemption under this clause).
 
 ### 7 Crown forestry licence converted into forestry right
 (1) A transaction does not require consent for the purposes of section 10(1)﻿(a) to the extent that it will result in an overseas investment in sensitive land if—
@@ -3050,9 +3072,13 @@ Criteria for grant of standing consent
   (a) that the investor test is met; and
   (b) that the conditions referred to in subclauses (3) and (4) will be, or are likely to be, met; and
   (c) without limiting paragraph (b), that the applicant has, and will continue to have, adequate processes in place for meeting, at all relevant times, the requirements set out in regulations made for the purposes of section 16A(4)﻿(d); and
-  (d) without limiting paragraph (b), that the applicant has a strong record of 1 or both of the following or of the following taken together:
+  (d) without limiting paragraph (b), that the persons referred to in subclause (2A) have a strong record of 1 or both of the following or of the following taken together:
     (i) compliance with this Act and with conditions and other requirements imposed under it (including providing the regulator with complete and accurate information):
     (ii) compliance with corresponding laws, and with conditions and other requirements imposed under corresponding laws, in territories other than New Zealand (including providing regulators with complete and accurate information).
+(2A) For the purposes of subclause (2)﻿(d), the persons are the following (viewed as a group):
+  (a) the applicant:
+  (b) the applicant’s associates:
+  (c) the individuals with control of the relevant overseas person.
 Conditions
 (3) The standing consent must be granted subject to the following conditions:
   (a) conditions for the purpose of ensuring that the benefit to New Zealand test is met in accordance with section 16A(4) for each overseas investment to which the consent will apply (subject to subclauses (5) and (6)):
