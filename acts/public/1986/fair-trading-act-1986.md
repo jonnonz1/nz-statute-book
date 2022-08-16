@@ -1,5 +1,5 @@
 # Fair Trading Act 1986
-_Consolidation as at 2022-05-05_
+_Consolidation as at 2022-08-16_
 
 > Title
 
@@ -74,6 +74,7 @@ _Consolidation as at 2022-05-05_
   - **person** includes a local authority, and any association of persons whether incorporated or not
   - **place** includes any premises, building, aircraft, ship, carriage, vehicle, box, or receptacle
   - **price** includes valuable consideration in any form, whether direct or indirect; and includes any consideration that in effect relates to the acquisition or supply of goods or services or the acquisition or disposition of any interest in land, although ostensibly relating to any other matter or thing
+  - **residential premises** means a building, or part of a building, that is a house, flat, town house, home unit, or similar dwelling erected, or currently used, mainly as a residence, and any land, improvements, or appurtenances belonging to the dwelling or usually enjoyed with it
   - **services** includes any rights (including rights in relation to, and interests in, real or personal property), benefits, privileges, or facilities that are or are to be provided, granted, or conferred and, without limiting the generality of the foregoing, also includes the rights, benefits, privileges, or facilities that are or are to be provided, granted, or conferred under any of the following classes of contract:but does not include rights or benefits in the form of the supply of goods or the performance of work under a contract of service
     (a) a contract for, or in relation to,—
       (i) the performance of work (including work of a professional nature), whether with or without the supply of goods; or
@@ -83,7 +84,9 @@ _Consolidation as at 2022-05-05_
     (b) a contract of insurance, including life assurance, and life reassurance:
     (c) a contract between a bank and a customer of the bank:
     (d) any contract for, or in relation to, the lending of money or granting of credit, or the making of arrangements for the lending of money or granting of credit, or the buying or discounting of a credit instrument, or the acceptance of deposits;—
+  - **small trade contract** has the meaning given in section 26C
   - **standard form consumer contract** means a consumer contract that a court, in the course of proceedings for a declaration under section 46I, and in accordance with section 46J, determines is a standard form contract
+  - **standard form small trade contract** means a small trade contract that a court, in the course of proceedings for a declaration under section 46I, and in accordance with section 46J, determines is a standard form contract
   - **supply** —and as a noun, , and have corresponding meanings
     (a) in relation to goods, includes supply (or resupply) by way of gift, sale, exchange, lease, hire, or hire purchase; and
     (b) in relation to services, includes provide, grant, or confer;—
@@ -93,7 +96,7 @@ _Consolidation as at 2022-05-05_
     (b) is legible; and
     (c) is presented clearly; and
     (d) is readily available to any party affected by the term
-  - **unfair contract term** means a term in a consumer contract that a court has declared, under section 46I, is an unfair contract term
+  - **unfair contract term** means a term in a consumer contract or small trade contract that a court has declared, under section 46I, is an unfair contract term
   - **uninvited direct sale agreement** has the meaning given in section 36K
   - **unsolicited goods** has the meaning given in section 21A(7)
   - **unsolicited services** has the meaning given in section 21B(2).
@@ -108,6 +111,9 @@ _Consolidation as at 2022-05-05_
   (e) a reference to the resupply of goods acquired from a person includes a reference to—
     (i) a supply of goods to another person in an altered form or condition; and
     (ii) a supply to another person of other goods in which the goods have been incorporated.
+
+### 2A Transitional, savings, and related provisions
+The transitional, savings, and related provisions set out in Schedule 1AA have effect according to their terms.
 
 ### 3 Application of Act to conduct outside New Zealand
 (1) This Act extends to the engaging in conduct outside New Zealand by any person resident or carrying on business in New Zealand to the extent that such conduct relates to the supply of goods or services, or the granting of interests in land, within New Zealand.
@@ -177,6 +183,45 @@ In addition to the functions conferred on the Commission by this Act, the Commis
 [Repealed]
 
 ## Part 1 — Unfair conduct
+
+**Unconscionable conduct**
+
+### 7 Unconscionable conduct
+(1) A person must not, in trade, engage in conduct that is unconscionable.
+(2) This section applies whether or not—
+  (a) there is a system or pattern of unconscionable conduct; or
+  (b) a particular individual is identified as disadvantaged, or likely to be disadvantaged, by the conduct; or
+  (c) a contract is entered into.
+(3) This section is not limited by any rule of law or equity relating to unconscionable conduct.
+
+### 8 Court may have regard to certain matters
+(1) When assessing under section 7 whether a person’s conduct is unconscionable, a court may have regard to 1 or more of the following:
+  (a) the relative bargaining power of the person engaging in the conduct (the trader) and any person (whether or not an identified individual) who is disadvantaged, or likely to be disadvantaged, by the conduct (an affected person):
+  (b) the extent to which the trader and an affected person acted in good faith:
+  (c) whether, taking account of the particular characteristics and circumstances of an affected person, the affected person or the affected person’s representative was reasonably able to protect the affected person’s interests:
+  (d) whether an affected person was able to understand any documents provided by the trader:
+  (e) whether the trader subjected an affected person to unfair pressure or tactics or otherwise unduly influenced an affected person:
+  (f) whether the trader unreasonably failed to disclose to an affected person—
+    (i) any intended conduct of the trader that might adversely affect the affected person’s interests:
+    (ii) any risk to the affected person’s interests arising from the trader’s intended conduct, if the trader should have foreseen that the risk would not be apparent to the affected person:
+  (g) if there is a contract to which the conduct relates, anything listed in subsection (2):
+  (h) any other circumstance that the court considers relevant.
+(2) If the conduct involves a contract between the trader and an affected person, the court may also have regard to—
+  (a) the circumstances in which the contract was entered into, including—
+    (i) any inducement to enter into it:
+    (ii) the extent to which the affected person had an effective opportunity to negotiate the terms:
+  (b) whether the affected person obtained independent legal advice, or other independent professional advice, about the contract before entering into it:
+  (c) the terms of the contract:
+  (d) the form of the contract, including, in the case of a written contract, whether its terms are transparent:
+  (e) whether the terms of the contract allow the affected person to be reasonably able to meet their obligations under it:
+  (f) whether the affected person’s obligations under the contract are reasonably necessary for the protection of the trader’s legitimate interests:
+  (g) the conduct of the trader and affected person in complying with the terms of the contract:
+  (h) the length of time the affected person has to remedy any breach:
+  (i) whether any action by the trader in relation to enforcement of the contract was lawful:
+  (j) any other conduct of the trader or affected person, after the contract was entered into, in connection with their relationship.
+(3) To the extent (if any) that no particular individual is identified as disadvantaged or likely to be disadvantaged by the conduct, this section applies with all necessary modifications as if—
+  (a) references to an affected person were references to the type of person likely to be disadvantaged by the conduct; and
+  (b) references to the existence of a particular circumstance were references to the likely existence of that circumstance in relation to that type of person.
 
 **Misleading and deceptive conduct**
 
@@ -422,6 +467,53 @@ No provision of this Part limits or affects any other provision of this Part.
   (a) the contract; or
   (b) any variation of the contract; or
   (c) any new contract that has the effect of operating as a renewal of the contract, and any subsequent renewal.
+
+### 26B Unfair contract terms in standard form small trade contracts
+If a court has declared, under section 46I, that a term in a standard form small trade contract is an unfair contract term, a person must not—
+  (a) include the unfair contract term in a standard form contract (unless the term is included in a way that complies with the terms (if any) of the decision of the court); or
+  (b) apply, enforce, or rely on the unfair contract term in a standard form contract.
+
+### 26C Definition of small trade contract
+(1) In this Act, unless the context otherwise requires, a contract is a small trade contract if—
+  (a) each party to it is engaged in trade; and
+  (b) it is not a consumer contract; and
+  (c) it does not comprise or form part of a trading relationship that exceeds the annual value threshold when the relationship first arises.
+(2) If a party to a proceeding alleges that a contract is a small trade contract, the contract is presumed to be a small trade contract unless any other party to the proceeding proves otherwise.
+(3) This section is subject to section 26E.
+
+### 26D Small trade contracts: trading relationship, annual value threshold, and other definitions
+(1) This section applies for the purposes of section 26C(1)﻿(c).
+(2) Trading relationship, in relation to a contract, means a relationship consisting of—
+  (a) that contract; and
+  (b) any other contract (whether current or prospective) between the same parties on the same or substantially similar terms.
+(3) A trading relationship—
+  (a) first arises when the first or only contract of the relationship is entered into; and
+  (b) exceeds the annual value threshold when the relationship first arises if, at that time,—
+    (i) it includes a transparent term or transparent terms providing for consideration (including GST, if applicable) of $250,000 or more to be paid under it, in relation to any annual period, for the goods, services, or interest in land concerned; or
+    (ii) consideration (including GST, if applicable) worth $250,000 or more is more likely than not to become payable under the relationship, in relation to any annual period, for the goods, services, or interest in land concerned.
+(4) In this section,—
+  (a) the following must be disregarded when determining whether contracts are on the same or substantially similar terms:
+    (i) the main subject matter of the contracts; and
+    (ii) any upfront price (within the meaning of section 46K(2)) payable under the contracts; and
+  (b) annual period, in relation to a trading relationship, means a period—
+    (i) beginning with the date on which the relationship first arises or an anniversary of that date; and
+    (ii) ending 12 months later; and
+  (c) GST means goods and services tax payable under the Goods and Services Tax Act 1985.
+Example 1A and B enter into a contract on 1 December 2022. The contract includes a transparent term under which A is to pay B $253,000 ($220,000 plus GST) for services to be provided before 1 December 2023. On 1 November 2023, A and B enter into a contract on substantially similar terms. The second contract includes a transparent term for A to pay B $57,500 ($50,000 plus GST) for services to be provided in 2024.Neither contract is a small trade contract because the annual value threshold is exceeded when the trading relationship first arises.
+Example 2C and D are both engaged in trade. They enter into 2 contracts for C to buy fruit from D. The contracts are on the same terms except that the first contract relates to grapes and is entered into on 1 January 2023, and the second contract relates to apples and is entered into a year later, on 1 January 2024. Neither contract is a consumer contract and there are no other contracts in the trading relationship.The parties’ expectation when entering into the first contract is that C will spend approximately $120,000 per year under it and that from 2024 it will also spend $180,000 per year under the second contract.Neither contract is a small trade contract because, despite the different subject matter, they form part of the same trading relationship and the annual value threshold is exceeded when the trading relationship first arises.
+Example 3On 1 May 2024, E and F, who are both engaged in trade, enter into an open-ended contract for E to supply stationery to F. The contract is not a consumer contract and the trading relationship contains no other contracts. The contract does not include transparent terms setting out the consideration to be paid, but based on their previous interactions the parties expect that F will spend $100,000 under it each year. However, after several years F is purchasing significantly more stationery than originally anticipated. E is now supplying $300,000 worth of stationery to F each year. There has been no variation of the contract.The contract starts as and remains a small trade contract because the annual value threshold is not exceeded when the trading relationship first arises.
+
+### 26E Regulations relating to definition of small trade contract
+(1) The Governor-General may, by Order in Council made on the recommendation of the Minister, make regulations for the following purposes:
+  (a) providing for any class of contract that is not a consumer contract and that is between parties engaged in trade to be treated as a small trade contract under section 26C; or
+  (b) excluding any class of contract from being a small trade contract under section 26C, and prescribing the terms and conditions (if any) applying to the exclusion.
+(2) The Minister must not make a recommendation unless—
+  (a) the Minister has consulted the persons, or representatives of the persons, that the Minister considers will be substantially affected by any Order in Council made in accordance with the recommendation, and those persons have had the opportunity to comment to the Minister; and
+  (b) the Minister has considered those comments; and
+  (c) in the case of regulations under subsection (1)﻿(a), the Minister is satisfied that the regulations are necessary or desirable in order to promote the purpose of this Act; and
+  (d) in the case of regulations under subsection (1)﻿(b), the Minister has had regard to the purpose of the Act and is satisfied that the requirements of section 26B would be unduly onerous in relation to the excluded class of contract.
+(3) A failure to comply with subsection (2)﻿(a) or (b) does not affect the validity of any regulations made under this section.
+(4) Regulations made under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ## Part 2 — Consumer information
 
@@ -894,12 +986,12 @@ If a layby sale agreement is cancelled under section 36F or 36G, the supplier—
   (a) the consumer's right to cancel the agreement within 5 working days after the date on which the consumer receives a copy of the agreement; and
   (b) how the consumer may cancel the agreement.
 (4) However, if an uninvited direct sale agreement is, or includes, a consumer credit contract (as defined in section 11 of the Credit Contracts and Consumer Finance Act 2003), in relation to that consumer credit contract only,—
-  (a) Part 2 of that Act applies in place of this subpart; and
+  (a) Part 2 of that Act applies in place of subsections (1) to (3) and sections 36M to 36R; and
   (b) the supplier must give the consumer oral notice, before the agreement is entered into, of—
     (i) the consumer's rights to cancel the agreement under that Act; and
     (ii) how the consumer may cancel the agreement under that Act.
 (5) For the purposes of subsection (4), a consumer credit contract is included in an uninvited direct sale agreement if that contract was entered into for the purpose of financing the purchase of the goods or services that are the subject of the uninvited direct sale agreement.
-(6) To avoid doubt, where an uninvited direct sale agreement includes a consumer credit contract, this subpart continues to apply to every part of the agreement that is not a consumer credit contract.
+(6) To avoid doubt, where an uninvited direct sale agreement includes a consumer credit contract, subsections (1) to (3) and sections 36M to 36R continue to apply to every part of the agreement that is not a consumer credit contract.
 
 ### 36M Cancellation of uninvited direct sale agreement by consumer
 (1) A consumer may cancel an uninvited direct sale agreement by giving notice of the cancellation to the supplier—
@@ -953,6 +1045,22 @@ On cancellation of an uninvited direct sale agreement in accordance with section
   (a) the supplier is not entitled to any compensation for those services; and
   (b) if the services have resulted in the alteration of, or damage to, the consumer's property, the supplier must, if required by the consumer and at the supplier's expense, return the property to the condition it was in (or as close as is reasonably practicable to that condition) immediately before the services were provided.
 (4) A supplier is not entitled to damages, or to enforce any other remedy, in relation to the cancellation of an uninvited direct sale agreement under section 36M, except as provided for in this section.
+
+### 36RA Directions to leave premises or not enter premises
+(1) This section applies to a person who, for the purpose of negotiating an uninvited direct sale agreement,—
+  (a) is about to enter residential premises; or
+  (b) has entered residential premises.
+(2) The person must not enter the premises if directed not to enter by anyone who—
+  (a) resides at the premises; or
+  (b) is acting with the actual or apparent authority of someone residing at the premises.
+(3) The person must leave the premises as soon as possible if directed to leave by anyone who—
+  (a) resides at the premises; or
+  (b) is acting with the actual or apparent authority of someone residing at the premises.
+(4) A direction under subsection (2) or (3)—
+  (a) may be verbal or in written or other visual form; and
+  (b) must be audible or visible; and
+  (c) may be a general standing direction (for example, a notice on a gate or front door directing salespeople not to call) or a specific direction (for example, a face-to-face spoken direction).
+(5) If the direction is a specific one, the person must not, for the purpose of negotiating an uninvited direct sale agreement, enter or re-enter the premises within 2 years after the direction is given.
 
 ### 36S Regulations
 (1) The Governor-General may, by Order in Council made on the recommendation of the Minister in accordance with subsection (2), make regulations for the following purposes:
@@ -1298,6 +1406,11 @@ A person may apply to a court or the Disputes Tribunal for an order under sectio
   (a) that the goods to which the proceedings relate were acquired by the defendant for the purpose of resupply from a person (not being an agent of a person outside New Zealand) who carried on in New Zealand the business of supplying such goods; and
   (b) that the defendant did not know, and could not with reasonable diligence have ascertained, that the goods did not comply with the consumer information standard or that the defendant had not complied with that standard in relation to the goods, as the case may be, or that the defendant relied in good faith on a representation by the person from whom the defendant acquired the goods that a consumer information standard had not been prescribed for those goods.
 (6) A defendant is not, without the leave of the District Court, entitled to rely on any defence provided by subsection (5) unless the defendant has, not later than 7 days before the date on which the hearing of the proceedings commences, served, in the case of proceedings for an offence, on the prosecutor, and in the case of any other proceedings, on the person commencing those proceedings, a notice in writing identifying the person by whom the goods were supplied.
+(7) It is a defence to a prosecution of an offence under section 40, or to any other proceedings under this Part, in relation to a contravention of section 36RA, if the defendant proves that—
+  (a) the person who gave the direction under section 36RA(2) or (3), or with whose actual or apparent authority it was given, no longer resided at the premises at the time of the contravening conduct; or
+  (b) the contravening conduct was with the permission (given after the direction under section 36RA(2) or (3) but before the conduct) of someone who—
+    (i) resided at the premises; or
+    (ii) was acting with the actual or apparent authority of someone residing at the premises.
 
 ### 45 Conduct by servants or agents
 (1) Where, in proceedings under this Part in respect of any conduct engaged in by a body corporate, being conduct in relation to which any of the provisions of this Act applies, it is necessary to establish the state of mind of the body corporate, it is sufficient to show that a director, servant or agent of the body corporate, acting within the scope of that person's actual or apparent authority, had that state of mind.
@@ -1374,14 +1487,14 @@ A person who breaches a management banning order made against him or her commits
 **Declaration of unfair contract terms**
 
 ### 46H Application by Commission for declaration of unfair contract term
-(1) The Commission may apply to the High Court or the District Court (at the choice of the Commission) for a declaration under section 46I that a term in a standard form consumer contract is an unfair contract term.
+(1) The Commission may apply to the High Court or the District Court (at the choice of the Commission) for a declaration under section 46I that a term in a standard form consumer contract or standard form small trade contract is an unfair contract term.
 (2) Any person may ask the Commission to apply to a court for a declaration under section 46I in relation to a contract to which the person is a party.
 
 ### 46I Declaration of unfair contract terms
-(1) The High Court or the District Court may, on application by the Commission, declare that a term in a standard form consumer contract is an unfair contract term.
+(1) The High Court or the District Court may, on application by the Commission, declare that a term in a standard form consumer contract or standard form small trade contract is an unfair contract term.
 (2) The court may make the declaration only if it is satisfied that—
-  (a) the term is in a contract that is a consumer contract; and
-  (b) the consumer contract is a standard form contract (as determined in accordance with section 46J); and
+  (a) the term is in a contract that is a consumer contract or small trade contract; and
+  (b) the consumer contract or small trade contract is a standard form contract (as determined in accordance with section 46J); and
   (c) the declaration is not prohibited by section 46K(1); and
   (d) the term is unfair in the sense described in section 46L.
 (3) A declaration under this section—
@@ -1399,21 +1512,21 @@ A person who breaches a management banning order made against him or her commits
 (3) If a party to a proceeding alleges that a contract is a standard form contract, the contract is presumed to be a standard form contract unless any other party to the proceedings proves otherwise.
 
 ### 46K Terms that may not be declared to be unfair contract terms
-(1) A court may not declare a term in a standard form consumer contract to be an unfair contract term to the extent that the term—
+(1) A court may not declare a term in a standard form consumer contract or standard form small trade contract to be an unfair contract term to the extent that the term—
   (a) defines the main subject matter of the contract; or
   (b) sets the upfront price payable under the contract; or
   (c) is a term required or expressly permitted by any enactment.
 (2) In this section, upfront price means the consideration (including any consideration that is contingent upon the occurrence or non-occurrence of a particular event) payable under the contract, but only to the extent that the consideration is set out in a term that is transparent.
 
-### 46L When term in consumer contract is unfair
-(1) A term in a consumer contract is unfair if the court is satisfied that the term—
+### 46L When term in consumer contract or small trade contract is unfair
+(1) A term in a consumer contract or small trade contract is unfair if the court is satisfied that the term—
   (a) would cause a significant imbalance in the parties' rights and obligations arising under the contract; and
   (b) is not reasonably necessary in order to protect the legitimate interests of the party who would be advantaged by the term; and
   (c) would cause detriment (whether financial or otherwise) to a party if it were applied, enforced, or relied on.
-(2) In determining whether a term of a consumer contract is unfair, the court may take into account any matters it thinks relevant, but must take into account—
+(2) In determining whether a term of a consumer contract or small trade contract is unfair, the court may take into account any matters it thinks relevant, but must take into account—
   (a) the extent to which the term is transparent; and
   (b) the contract as a whole.
-(3) For the purpose of subsection (1)﻿(b), a term in a consumer contract must be presumed not to be reasonably necessary in order to protect the legitimate interests of the party who would be advantaged by the term, unless that party proves otherwise.
+(3) For the purpose of subsection (1)﻿(b), a term in a consumer contract or small trade contract must be presumed not to be reasonably necessary in order to protect the legitimate interests of the party who would be advantaged by the term, unless that party proves otherwise.
 (4) For the purpose of subsection (1)﻿(b), and despite anything in section 46M, in relation to contracts of insurance only, the following terms must be taken to be terms that are reasonably necessary in order to protect the legitimate interests of the insurer:
   (a) a term that identifies the uncertain event or that otherwise specifies the subject matter insured or the risk insured against:
   (b) a term that specifies the sum or sums insured or assured:
@@ -1428,7 +1541,7 @@ A person who breaches a management banning order made against him or her commits
   - **uncertain event** has the meaning given in section 7 of the Insurance (Prudential Supervision) Act 2010.
 
 ### 46M Examples of unfair contract terms
-Without limiting section 46I, the following are examples of the kind of terms that, if in a consumer contract, may be unfair contract terms:
+Without limiting section 46I, the following are examples of the kind of terms that, if in a consumer contract or small trade contract, may be unfair contract terms:
   (a) a term that permits, or has the effect of permitting, one party (but not another party) to avoid or limit performance of the contract:
   (b) a term that permits, or has the effect of permitting, one party (but not another party) to terminate the contract:
   (c) a term that penalises, or has the effect of penalising, one party (but not another party) for a breach or termination of the contract:
@@ -1748,6 +1861,26 @@ Section 100 of the Commerce Act 1986 (powers of Commission to prohibit disclosur
   (b) section 13 applies to representations relating to goods that are, or may be, exported from New Zealand for supply to China:
   (c) a contravention of section 10 or 13 is an offence under section 40 and may authorise a warrant being issued in New Zealand under section 47(2) to search a place in New Zealand if the contravention relates to goods that are, or may be, exported from New Zealand for supply to China.
 (2) In this section, Conformity Cooperation Agreement means the Agreement between the Government of New Zealand and the Government of the People's Republic of China on Cooperation in the Field of Conformity Assessment in Relation to Electrical and Electronic Equipment and Components, which is Annex 14 of the Free Trade Agreement between the Government of New Zealand and the Government of the People's Republic of China done at Beijing on 7 April 2008.
+
+## Schedule 1AA — Transitional, savings, and related provisions
+
+### Part 1 — Provision relating to Fair Trading Amendment Act 2021
+
+### 1 Unfair contract terms in standard form small trade contracts
+(1) Sections 26B to 26E do not apply to the following contracts (which, accordingly, are not small trade contracts and must be disregarded when determining which contracts form part of a trading relationship for the purposes of those sections):
+  (a) a contract entered into before the commencement date and not varied or renewed on or after that date:
+  (b) a relevant insurance agreement.
+(2) If a contract entered into before the commencement date is varied or renewed on or after that date and is not a relevant insurance agreement, the contract (as varied or renewed) must be treated for the purposes of sections 26B to 26E as a new contract entered into on the date of the variation or renewal.
+(3) In this clause,—
+  - **commencement date** means the date on which sections 26B to 26E come into force
+  - **relevant insurance agreement** means—
+    (a) a contract of insurance (as defined in section 7 of the Insurance (Prudential Supervision) Act 2010) entered into before the specified date, including as varied or renewed at any time; or
+    (b) a new contract that has the effect of operating as a renewal of a contract described in paragraph (a) or this paragraph, including as varied or renewed at any time
+  - **specified date** means—
+    (a) 1 April 2025; or
+    (b) if an earlier date is specified under subclause (4), that date.
+(4) The Governor-General may, by Order in Council, specify a date for the purposes of paragraph (b) of the definition of specified date in subclause (3).
+(5) An Order in Council made under subclause (4) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ## Schedule 1 — Enactment amended
 
