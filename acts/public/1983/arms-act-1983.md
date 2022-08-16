@@ -1,5 +1,5 @@
 # Arms Act 1983
-_Consolidation as at 2022-06-24_
+_Consolidation as at 2022-08-16_
 
 > Title
 
@@ -778,7 +778,7 @@ Unless sooner revoked under section 18(4), a permit issued for the purposes of s
 A person is disqualified from holding a firearms licence if—
   (a) the person has, within the previous 10 years, been convicted, or been released from custody after being convicted, of any of the following offences:
     (i) an offence under section 16(4), 16A, 44A, 50A, 50D, 51A, 53A, 54, 54A, 55, 55A, 55D, 55E, or 55F:
-    (ii) a serious violent offence as defined in section 86A of the Sentencing Act 2002:
+    (ii) a specified violent offence as defined in section 4 of the Victims’ Orders Against Violent Offenders Act 2014:
     (iii) an offence under section 92, 98, 98A, 189A, 199, 202C, 238, 267(1), 269(1) and (3), or 306 of the Crimes Act 1961:
     (iv) an offence under section 6, 9, 10, 11, 12, 12A, 12AB, or 12F of the Misuse of Drugs Act 1975; or
   (b) the person has, or has had within the previous 10 years, a protection order, other than a temporary order, made against them under—
