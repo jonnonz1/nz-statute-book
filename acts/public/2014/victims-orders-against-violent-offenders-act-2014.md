@@ -1,5 +1,5 @@
 # Victims' Orders Against Violent Offenders Act 2014
-_Consolidation as at 2021-10-28_
+_Consolidation as at 2022-08-16_
 
 ### 1 Title
 This Act is the Victims' Orders Against Violent Offenders Act 2014.
@@ -22,7 +22,7 @@ In this Act, unless the context otherwise requires,—
   - **encourage** includes to incite, counsel, or procure
   - **final non-contact order** means a non-contact order referred to in section 9(4)
   - **immediate family** , in relation to a victim,—
-    (a) means a member of the victim's family, whānau, or other culturally recognised family group, who is in a close relationship with the victim at the time of the violent offence; and
+    (a) means a member of the victim's family, whānau, or other culturally recognised family group, who is in a close relationship with the victim at the time of the specified violent offence; and
     (b) to avoid doubt, includes a person who is—
       (i) the victim's spouse, civil union partner, or de facto partner; or
       (ii) the victim's child or stepchild; or
@@ -37,23 +37,63 @@ In this Act, unless the context otherwise requires,—
   - **non-contact order** means—
     (a) a temporary non-contact order:
     (b) a final non-contact order
+  - **specified violent offence** means an offence against any of the following provisions of the Crimes Act 1961:
+    (1) section 128B (sexual violation):
+    (2) section 129 (attempted sexual violation and assault with intent to commit sexual violation):
+    (3) section 129A(1) (sexual connection with consent induced by threat):
+    (4) section 131(1) (sexual connection with dependent family member under 18 years):
+    (5) section 131(2) (attempted sexual connection with dependent family member under 18 years):
+    (6) section 132(1) (sexual connection with child):
+    (7) section 132(2) (attempted sexual connection with child):
+    (8) section 132(3) (indecent act on child):
+    (9) section 134(1) (sexual connection with young person):
+    (10) section 134(2) (attempted sexual connection with young person):
+    (11) section 134(3) (indecent act on young person):
+    (12) section 135 (indecent assault):
+    (13) section 138(1) (exploitative sexual connection with person with significant impairment):
+    (14) section 138(2) (attempted exploitative sexual connection with person with significant impairment):
+    (15) section 142A (compelling indecent act with animal):
+    (16) section 144A (sexual conduct with children and young people outside New Zealand):
+    (17) section 172 (murder):
+    (18) section 173 (attempted murder):
+    (19) section 174 (counselling or attempting to procure murder):
+    (20) section 175 (conspiracy to murder):
+    (21) section 177 (manslaughter):
+    (22) section 188(1) (wounding with intent to cause grievous bodily harm):
+    (23) section 188(2) (wounding with intent to injure):
+    (24) section 189(1) (injuring with intent to cause grievous bodily harm):
+    (25) section 191(1) (aggravated wounding):
+    (26) section 191(2) (aggravated injury):
+    (27) section 198(1) (discharging firearm or doing dangerous act with intent to do grievous bodily harm):
+    (28) section 198(2) (discharging firearm or doing dangerous act with intent to injure):
+    (29) section 198A(1) (using firearm against law enforcement officer, etc):
+    (30) section 198A(2) (using firearm with intent to resist arrest or detention):
+    (31) section 198B (commission of crime with firearm):
+    (32) section 200(1) (poisoning with intent to cause grievous bodily harm):
+    (33) section 201 (infecting with disease):
+    (34) section 208 (abduction for purposes of marriage or civil union or sexual connection):
+    (35) section 209 (kidnapping):
+    (36) section 232(1) (aggravated burglary):
+    (37) section 234 (robbery):
+    (38) section 235 (aggravated robbery):
+    (39) section 236(1) (causing grievous bodily harm with intent to rob, or assault with intent to rob in specified circumstances):
+    (40) section 236(2) (assault with intent to rob)
   - **temporary non-contact order** means a non-contact order referred to in section 9(3)
   - **victim** —
     (a) means—
-      (i) a person against whom a violent offence is committed by another person; and
-      (ii) a person who, through or by means of a violent offence committed by another person, suffers physical injury, or loss of, or damage to, property; and
-      (iii) a parent or legal guardian of a child, or of a young person, who falls within subparagraph (i) or (ii), unless that parent or guardian is charged with the commission of, or convicted or found guilty of, or pleads guilty to, the violent offence concerned; and
-      (iv) a member of the immediate family of a person who, as a result of a violent offence committed by another person, dies or is incapable, unless that member is charged with the commission of, or convicted or found guilty of, or pleads guilty to, the violent offence concerned; but
-    (b) despite paragraph (a), if a violent offence is committed by a person, does not include any other person who (whether as a principal or party or accessory after the fact or otherwise)—
+      (i) a person against whom a specified violent offence is committed by another person; and
+      (ii) a person who, through or by means of a specified violent offence committed by another person, suffers physical injury, or loss of, or damage to, property; and
+      (iii) a parent or legal guardian of a child, or of a young person, who falls within subparagraph (i) or (ii), unless that parent or guardian is charged with the commission of, or convicted or found guilty of, or pleads guilty to, the specified violent offence concerned; and
+      (iv) a member of the immediate family of a person who, as a result of a specified violent offence committed by another person, dies or is incapable, unless that member is charged with the commission of, or convicted or found guilty of, or pleads guilty to, the specified violent offence concerned; but
+    (b) despite paragraph (a), if a specified violent offence is committed by a person, does not include any other person who (whether as a principal or party or accessory after the fact or otherwise)—
       (i) is charged with the commission of, or convicted or found guilty of, that offence; or
       (ii) is charged with the commission of, or convicted or found guilty of, an offence relating to the same incident or series of incidents as that offence
-  - **violent offence** has the meaning given to serious violent offence by section 86A of the Sentencing Act 2002
   - **violent offender** or has the meaning given to it by section 5
   - **young person** means a person of or over the age of 14 years but under 18 years.
 
 ### 5 Meaning of violent offender or offender
 (1) In this Act, violent offender or offender, in relation to a victim, means a person who at any time—
-  (a) has been convicted of a violent offence that affected the victim; and
+  (a) has been convicted of a specified violent offence that affected the victim; and
   (b) has been sentenced to a term of imprisonment of more than 2 years in respect of that offence.
 (2) For the purposes of subsection (1)﻿(b), it does not matter if,—
   (a) at the time the sentence of imprisonment was imposed, the person was already subject to a term of imprisonment for 1 or more other offences; or
@@ -67,7 +107,7 @@ This Act binds the Crown.
 **Applications**
 
 ### 7 Application for non-contact order
-(1) A victim of a violent offence may make an application to the court for a non-contact order against a violent offender at any time after the offender has been sentenced in respect of the offence.
+(1) A victim of a specified violent offence may make an application to the court for a non-contact order against a violent offender at any time after the offender has been sentenced in respect of the offence.
 (2) However, a victim may not make an application under subsection (1) if—
   (a) there is in force a protection order against the offender made under the Family Violence Act 2018 and the victim is a protected person under that order; or
   (b) there is in force a restraining order against the offender made under the Harassment Act 1997 for the protection of the victim.
@@ -185,8 +225,8 @@ This Act binds the Crown.
 
 ### 18 Discharge of non-contact order by operation of law
 (1) A non-contact order made against an offender is discharged by operation of law if—
-  (a) the offender's conviction for the violent offence that affected the victim is quashed or otherwise set aside; or
-  (b) the offender's sentence for the violent offence that affected the victim is—
+  (a) the offender's conviction for the specified violent offence that affected the victim is quashed or otherwise set aside; or
+  (b) the offender's sentence for the specified violent offence that affected the victim is—
     (i) quashed or otherwise set aside; or
     (ii) substituted with a non-custodial sentence; or
     (iii) substituted with a sentence of imprisonment for a term of 2 years or less.
