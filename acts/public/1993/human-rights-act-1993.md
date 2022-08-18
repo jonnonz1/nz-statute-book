@@ -1,5 +1,5 @@
 # Human Rights Act 1993
-_Consolidation as at 2022-07-01_
+_Consolidation as at 2022-08-18_
 
 > An Act to consolidate and amend the Race Relations Act 1971 and the Human Rights Commission Act 1977 and to provide better protection of human rights in New Zealand in general accordance with United Nations Covenants or Conventions on Human Rights
 
@@ -749,6 +749,12 @@ Nothing in section 57 shall prevent the holding or provision, at any educational
   (i) access to land, housing, or other accommodation:
   (j) education:
   (k) participation in fora for the exchange of ideas and information.
+
+### 63A Conversion practices
+(1) It is unlawful for any person to—
+  (a) perform a conversion practice on any other person; or
+  (b) arrange for a conversion practice to be performed on any other person.
+(2) In this section, conversion practice has the same meaning as in section 5 of the Conversion Practices Prohibition Legislation Act 2022.
 
 ### 64 Choice of procedures
 [Repealed]
