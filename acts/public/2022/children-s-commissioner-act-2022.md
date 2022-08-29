@@ -326,7 +326,7 @@ Information rules made under section 31 must contain rules relating to—
 (3) Nothing in subsection (1) or (2) applies in respect of proceedings for—
   (a) an offence against section 78, 78AA(1), 78A(1), 105, 105A, or 105B of the Crimes Act 1961; or
   (b) the offence of conspiring to commit or attempting to commit an offence against any of the provisions specified in paragraph (a).
-(4) Nothing in subsection (3) applies to a report made by the Commission under section 20(j).
+(4) Nothing in subsection (2) applies to a report made by the Commission under section 20(j).
 (5) Sections 122 to 126 of the Crown Entities Act 2004 apply as if the conduct for which a person may be indemnified or insured under those sections were conduct that is covered by the protection from liability in this section.
 (6) This section contains an exception to section 121 of the Crown Entities Act 2004.
 (7) Anything said or any information supplied by an individual or agency in the course of an inquiry by the Commission under this Act is privileged in the same manner as if the inquiry were a proceeding in a court.
