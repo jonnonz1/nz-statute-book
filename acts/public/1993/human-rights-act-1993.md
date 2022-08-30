@@ -1,5 +1,5 @@
 # Human Rights Act 1993
-_Consolidation as at 2022-08-18_
+_Consolidation as at 2022-08-30_
 
 > An Act to consolidate and amend the Race Relations Act 1971 and the Human Rights Commission Act 1977 and to provide better protection of human rights in New Zealand in general accordance with United Nations Covenants or Conventions on Human Rights
 
@@ -1141,13 +1141,13 @@ Proceedings before the Tribunal are to be commenced by the lodging of an applica
 (4) Nothing in this section affects the New Zealand Bill of Rights Act 1990.
 
 ### 92K Effect of declaration
+Effect on enactment, or act, omission, policy, or activity, concerned
 (1) A declaration under section 92J does not—
   (a) affect the validity, application, or enforcement of the enactment in respect of which it is given; or
   (b) prevent the continuation of the act, omission, policy, or activity that was the subject of the complaint.
-(2) If a declaration is made under section 92J and that declaration is not overturned on appeal or the time for lodging an appeal expires, the Minister for the time being responsible for the administration of the enactment must present to the House of Representatives—
-  (a) a report bringing the declaration to the attention of the House of Representatives; and
-  (b) a report containing advice on the Government's response to the declaration.
-(3) The Minister referred to in subsection (2) must carry out the duties imposed on the Minister by that subsection within 120 days of the date of disposal of all appeals against the granting of the declaration or, if no appeal is lodged, the date when the time for lodging an appeal expires.
+Required actions after declarations of inconsistency
+(2) Sections 92WA and 92WB provide for required actions after a declaration of inconsistency is made under section 92J (by the Tribunal, or by a senior court on an appeal against a decision of the Tribunal).
+(3)
 
 ### 92L Costs
 (1) In any proceedings under section 92B or section 92E or section 97, the Tribunal may make any award as to costs that it thinks fit, whether or not it grants any other remedy.
@@ -1245,6 +1245,20 @@ The Human Rights Review Tribunal must refer the granting of a remedy in any proc
 ### 92W Extension of jurisdiction by agreement between parties
 (1) If, in any proceedings under section 92B or section 92E, only section 92Q prevents the Tribunal from granting any 1 or more of the remedies stated in section 92I, and the parties to the proceedings, by memorandum signed by them or their respective solicitors or agents, agree that the Tribunal is to have jurisdiction to grant any 1 or more of those remedies irrespective of section 92Q, the Tribunal has jurisdiction to grant 1 or more of those remedies accordingly.
 (2) This section overrides sections 92Q to 92U.
+
+**Required actions after declarations of inconsistency**
+
+### 92WA Attorney-General to notify Parliament of declaration of inconsistency
+(1) This section applies if a declaration made under section 92J (by the Tribunal, or by a senior court on an appeal against a decision of the Tribunal) becomes final because—
+  (a) no appeals, or applications for leave to appeal, against the making of the declaration are lodged in the period for lodging them; or
+  (b) all lodged appeals, or applications for leave to appeal, against the making of the declaration are withdrawn or dismissed.
+(2) The Attorney-General must present to the House of Representatives, not later than the sixth sitting day of the House of Representatives after the declaration becomes final, a notice bringing the declaration to the attention of the House of Representatives.
+
+### 92WB Responsible Minister to report to Parliament Government’s response to declaration
+(1) If a notice is presented under section 92WA of a declaration that an enactment is inconsistent, the Minister responsible for the administration of the enactment must present to the House of Representatives, before the deadline, a report advising of the Government’s response to the declaration.
+(2) The deadline is the end of 6 months starting on the date on which the notice is presented, or any earlier or later time—
+  (a) specified by a resolution of the House of Representatives; or
+  (b) otherwise determined by or on behalf of the House of Representatives, in accordance with its rules and practice.
 
 ## Part 4 — Human Rights Review Tribunal
 
