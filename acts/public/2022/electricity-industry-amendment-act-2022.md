@@ -61,7 +61,7 @@ After section 6, insert:Meaning of involved in
 
 ### 7 Section 7 amended (Industry participants)
 (1) After section 7(1)﻿(i), insert:
-  (j) any other person identified in regulations made under section 109(1)﻿(ba).
+  (j) any other person identified in regulations made under section 109(1)﻿(ab).
 (2) In section 7(2)﻿(h), replace 109 with 109(1)﻿(a).
 
 ### 8 Section 10 amended (Exemption from obligation to register)
@@ -435,7 +435,7 @@ In this Part,—
 
 ### 3 Existing exemptions granted under section 11
 An exemption granted by the Authority under section 11 that was in force immediately before the commencement date—
-  (a) continues in effect until it is amended or revoked under section 11(3), or until it expires according to its terms; and
+  (a) continues in effect until it is amended or revoked under section 11(4), or until it expires according to its terms; and
   (b) must not be treated as an exemption from any provision in the Code relating to corporate separation or arm’s-length rules (as defined in section 44C); and
   (c) must, on and from the commencement date, be treated as having been made under section 11 as replaced by the amendment Act.
 
