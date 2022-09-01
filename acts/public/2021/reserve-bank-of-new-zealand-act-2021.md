@@ -1,5 +1,5 @@
 # Reserve Bank of New Zealand Act 2021
-_Consolidation as at 2022-07-01_
+_Consolidation as at 2022-09-01_
 
 ### 1 Title
 This Act is the Reserve Bank of New Zealand Act 2021.
@@ -96,7 +96,7 @@ The purposes of this Act are to—
   - **law enforcement or regulatory agency** means any of the following:
     (a) any department that, with the authority of the Prime Minister, is responsible for the administration of any part of this Act, the prudential legislation, the Financial Markets Authority Act 2011, the Financial Markets Conduct Act 2013, or the Credit Contracts and Consumer Finance Act 2003:
     (b) the Inland Revenue Department:
-    (c) Statistics New Zealand:
+    (c)
     (d) the Treasury:
     (e) the Financial Markets Authority:
     (f) the Commerce Commission:
@@ -2289,6 +2289,7 @@ A person who is required to supply information under section 262 has the same pr
 (4) A member, the Governor, any other office holder of the Bank, or any employee of the Bank must not publish or disclose any information to which this section applies except for the purposes of, or in connection with, the performance or exercise of any function or power under this Act or any other legislation.
 (5) Nothing in any legislation, other than this Act or the Official Information Act 1982, requires the Bank or any person to whom information has been published or disclosed under this section to make that information available to any other person.
 (6) The Bank may make information to which this section applies available under the Official Information Act 1982 only if 1 or more grounds under subsection (2) apply.
+(7) Nothing in this section limits or prevents the provision of information to the Government Statistician for the production of official statistics or research under the Data and Statistics Act 2022.
 
 ### 270 Offence of unauthorised publication or disclosure
 A member, the Governor, any other office holder of the Bank, or any employee of the Bank who intentionally publishes or discloses information in contravention of section 269 commits an offence and is liable on conviction to a fine not exceeding $50,000.
