@@ -1,5 +1,5 @@
 # Customs and Excise Act 2018
-_Consolidation as at 2022-07-01_
+_Consolidation as at 2022-09-01_
 
 ### 1 Title
 This Act is the Customs and Excise Act 2018.
@@ -6470,7 +6470,7 @@ The following provisions apply for the purposes of the Excise and Excise-equival
 (1) The Governor-General may, by Order in Council, amend the Excise and Excise-equivalent Duties Table so as to change a rate of duty that applies to an alcoholic product or a tobacco product.
 (2) A change in a rate of duty that applies to an alcoholic product may come into force only on 1 July in any calendar year.
 (3) A change in a rate of duty that applies to a tobacco product may come into force only on 1 January in any calendar year.
-(4) A new rate of duty that results from a change made by an order under this clause must not exceed the rate given by the following formula:a ÷ b × cwhere—ais the Index number of the Consumers Price Index All Groups excluding credit services issued by the Government Statistician for—bis the Index number of the quarterly Consumers Price Index All Groups excluding credit services issued by the Government Statistician for the quarter ending 12 months before, and expressed on the same base quarter as, the relevant quarter specified in item a of this formulacis the current rate.
+(4) A new rate of duty that results from a change made by an order under this clause must not exceed the rate given by the following formula:a ÷ b × cwhere—ais the index number of the Consumers Price Index (less credit services subgroup) for—bis the index number of the Consumers Price Index (less credit services subgroup) for the quarter ending 12 months before, and expressed on the same base quarter as, the relevant quarter specified in item a of this formulacis the current rate.
   (a) the quarter ending on 31 March in the calendar year in which the new rate is to come into force, if the rate applies to an alcoholic product; or
   (b) the quarter ending on 30 September immediately before the calendar year in which the new rate is to come into force, if the rate applies to a tobacco product
 (5)
@@ -6479,6 +6479,7 @@ The following provisions apply for the purposes of the Excise and Excise-equival
   - **alcoholic product** means any goods specified in—
     (a) any of items 99.05 to 99.50 in Part A of the Excise and Excise-equivalent Duties Table; or
     (b) any of items 21.05 to 22.08 and 33.02 in Part B of that table
+  - **Consumers Price Index (less credit services subgroup)** means the Consumers Price Index (less credit services subgroup) published by Statistics New Zealand or, if that index ceases to be published, any measure certified by the Government Statistician as being equivalent to that index
   - **tobacco product** means any goods specified in—
     (a) item 99.60, 99.65, or 99.67 in Part A of the Excise and Excise-equivalent Duties Table; or
     (b) item 24.02, 24.03, or 24.04 in Part B of that table.
