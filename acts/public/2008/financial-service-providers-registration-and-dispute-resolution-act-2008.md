@@ -1,5 +1,5 @@
 # Financial Service Providers (Registration and Dispute Resolution) Act 2008
-_Consolidation as at 2022-07-01_
+_Consolidation as at 2022-09-01_
 
 ### 1 Title
 This Act is the Financial Service Providers (Registration and Dispute Resolution) Act 2008.
@@ -642,7 +642,7 @@ A person who searches a public register for personal information for a purpose t
   (a) produce a relevant document relating to another person; or
   (b) confirm that information provided by another person is correct, or correct that information, if A is reasonably able to give that confirmation or to make that correction.
 (3) Any person who exercises powers under subsection (1) must make his or her authorisation from the Registrar available on request.
-(4) Nothing in this section limits or affects the Tax Administration Act 1994 or the Statistics Act 1975.
+(4) Nothing in this section limits or affects the Tax Administration Act 1994 or the Data and Statistics Act 2022.
 (5) A person must not obstruct or hinder the exercise of a power conferred by subsection (1).
 (6) If a registered financial service provider, or a director of such a provider, does not comply with a requirement made under subsection (2)﻿(a) or (ab) in relation to the provider (including compliance with the specifications in subsection (2)﻿(ac)) within 20 working days from the date the requirement was notified to the provider or director, the Registrar may assume that the provider is no longer in the business of providing a financial service and sections 18 to 20 apply.
 (7) A person who knowingly fails to comply with a requirement under subsection (2) commits an offence and is liable on conviction,—
