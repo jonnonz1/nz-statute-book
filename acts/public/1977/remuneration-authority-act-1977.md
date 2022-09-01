@@ -1,5 +1,5 @@
 # Remuneration Authority Act 1977
-_Consolidation as at 2022-07-01_
+_Consolidation as at 2022-09-01_
 
 > Title
 
@@ -167,7 +167,7 @@ There shall from time to time be appointed by the chief executive of the Departm
   (b) under section 12B.
 (3)
 (4)
-(5) The Authority shall release to the Government Statistician such of its determinations as the Government Statistician may require for the purpose of publishing statistics pursuant to the Statistics Act 1975.
+(5) The Authority shall release to the Government Statistician such of its determinations as the Government Statistician may require for the purpose of publishing statistics under the Data and Statistics Act 2022.
 (6) Except as expressly provided in this Act, determinations of the Authority shall not be published by the Authority.
 
 ### 16 Publication of determinations fixing Parliamentary salary and allowances
