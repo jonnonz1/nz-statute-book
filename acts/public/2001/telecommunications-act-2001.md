@@ -1,5 +1,5 @@
 # Telecommunications Act 2001
-_Consolidation as at 2022-04-12_
+_Consolidation as at 2022-09-01_
 
 ### 1 Title
 This Act is the Telecommunications Act 2001.
@@ -75,7 +75,7 @@ In this Act, unless the context otherwise requires,—
   - **copper fixed line access services** means the following (as they are described in subpart 1 of Part 2 of Schedule 1):
     (a) Chorus’s unbundled bitstream access:
     (b) Chorus’s unbundled copper low frequency service
-  - **CPI** means the Consumers Price Index (All Groups) published by Statistics New Zealand
+  - **CPI** means the Consumers Price Index (all groups) published by Statistics New Zealand or, if that index ceases to be published, any measure certified by the Government Statistician as being equivalent to that index
   - **deemed TSO instrument** has the meaning set out in section 71
   - **designated access service** means a service described in subpart 1 of Part 2 of Schedule 1
   - **designated multinetwork service** means a service described in subpart 2 of Part 2 of Schedule 1
