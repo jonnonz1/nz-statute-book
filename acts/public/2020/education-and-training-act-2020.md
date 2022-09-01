@@ -1,5 +1,5 @@
 # Education and Training Act 2020
-_Consolidation as at 2022-08-01_
+_Consolidation as at 2022-09-01_
 
 ### 1 Title
 This Act is the Education and Training Act 2020.
@@ -7455,7 +7455,7 @@ The right of parents who have children in early childhood centres to enter the p
   (a) are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements); and
   (b) commence in accordance with subsections (5) to (8), even if they are not yet published.
 (10) In this section,—
-  - **CPI** means the New Zealand Consumers Price Index (All Groups) published by Statistics New Zealand
+  - **CPI** means the Consumers Price Index (all groups) published by Statistics New Zealand or, if that index ceases to be published, any measure certified by the Government Statistician as being equivalent to that index
   - **standard tax** means the amount of tax calculated on a weekly basis that would be withholdable in accordance with tax code M stated in Schedule 5, Part A, clause 4, row 1 of the table of the Tax Administration Act 1994.
 
 ### 646 Regulations relating to Student Allowance Appeal Authorities
@@ -11288,6 +11288,9 @@ The purpose of this schedule is to authorise the use by specified users of natio
 
 ### 5 Person may use or disclose own national student number
 Despite anything in this schedule, a person may use or disclose their own national student number for any purpose.
+
+### 6 National student numbers may be provided to Government Statistician
+Nothing in this schedule limits or prevents the provision of information (including national student numbers) to the Government Statistician for the production of official statistics or research under the Data and Statistics Act 2022.
 
 ## Schedule 25 — Directions relating to COVID-19
 
