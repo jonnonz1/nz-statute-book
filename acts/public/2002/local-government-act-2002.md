@@ -1,5 +1,5 @@
 # Local Government Act 2002
-_Consolidation as at 2022-04-12_
+_Consolidation as at 2022-09-01_
 
 ### 1 Title
 This Act is the Local Government Act 2002.
@@ -1906,7 +1906,7 @@ A policy adopted under section 102(1) must state the local authority's policies 
 (2B) Subject to subsection (2C), a development contribution provided for in a development contributions policy may be increased under the authority of this subsection without consultation, formality, or a review of the development contributions policy.
 (2C) A development contribution may be increased under subsection (2B) only if—
   (a) the increase does not exceed the result of multiplying together—
-    (i) the rate of increase (if any), in the Producers Price Index Outputs for Construction provided by Statistics New Zealand since the development contribution was last set or increased; and
+    (i) the rate of increase (if any), in the PPI since the development contribution was last set or increased; and
     (ii) the proportion of the total costs of capital expenditure to which the development contribution will be applied that does not relate to interest and other financing costs; and
   (b) before any increase takes effect, the territorial authority makes publicly available information setting out—
     (i) the amount of the newly adjusted development contribution; and
@@ -1917,7 +1917,9 @@ A policy adopted under section 102(1) must state the local authority's policies 
   (a) the principal public office of the local authority; and
   (b) such other places within its district or region as the local authority considers necessary in order to provide members of the public with reasonable access to the methodology, provisions, or plan.
 (6) A policy adopted under section 102(1) must be reviewed at least once every 3 years using a consultation process that gives effect to the requirements of section 82.
-(7) In this section, capital expenditure includes any funding provided by a responsible levy authority to contribute to the construction costs of eligible infrastructure that has been, or is intended to be, transferred to the authority under section 90 of the Infrastructure Funding and Financing Act 2020.
+(7) In this section,—
+  - **capital expenditure** includes any funding provided by a responsible levy authority to contribute to the construction costs of eligible infrastructure that has been, or is intended to be, transferred to the authority under section 90 of the Infrastructure Funding and Financing Act 2020
+  - **PPI** means the Producers Price Index Outputs for Construction provided by Statistics New Zealand or, if that index ceases to be published, any measure certified by the Government Statistician as being equivalent to that index.
 
 ### 107 Policy on partnerships with private sector
 [Repealed]
@@ -4321,7 +4323,7 @@ The Minister must notify any change in the membership of a Ministerial body by n
 (3) Regulations made under subsection (1)﻿(dc) may—
   (a) prescribe parameters or benchmarks in any manner, including by—
     (i) reference to fixed terms (for example, the debt of a local authority in a financial year, generally, should not exceed a fixed sum per resident):
-    (ii) the use of ratios, factors, or other relative terms (for example, the expenditure of a local authority in a financial year, generally, should not increase by more than the ratio of population growth multiplied by the rate of increase of the Consumers Price Index):
+    (ii) the use of ratios, factors, or other relative terms (for example, the expenditure of a local authority in a financial year, generally, should not increase by more than the ratio of population growth multiplied by the rate of increase of the Consumers Price Index (all groups) or, if that index ceases to be published, any measure certified by the Government Statistician as being equivalent to that index) :
     (iii) reference to circumstances, statistics, or other publicly available information, whether only concerning local authorities and their districts and regions or otherwise; and
   (b) prescribe parameters or benchmarks in a way that differentiates between different types or classes of local authority (for example, regional councils, territorial authorities, and local authorities with a population, assets, or an average income of its population over or under a specified figure); and
   (c) prescribe parameters or benchmarks in a way that includes or excludes subsidiaries, including council-controlled organisations, council-controlled trading organisations, and council organisations, of a local authority.
