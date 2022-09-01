@@ -1,5 +1,5 @@
 # Child Support Act 1991
-_Consolidation as at 2022-07-01_
+_Consolidation as at 2022-09-01_
 
 > Title
 
@@ -35,6 +35,7 @@ _Consolidation as at 2022-07-01_
     (b) the year commencing on 1 April 1993 and ending with 31 March 1994; or
     (c) any subsequent year commencing on 1 April and ending with 31 March
   - **Commissioner** means the Commissioner of Inland Revenue as defined in the Tax Administration Act 1994
+  - **Consumers Price Index** means the Consumers Price Index (all groups) published by Statistics New Zealand or, if that index ceases to be published, any measure certified by the Government Statistician as being equivalent to that index
   - **COVID-19 New Zealanders Stranded Overseas Support Programme** means the welfare programme of that name approved and established under section 101 of the Social Security Act 2018 on 17 April 2020
   - **domestic maintenance** means any payment required to be made under this Act by any person towards the support of another person under section 58(2) or section 68(2)
   - **employee** has the same meaning as in paragraph (a) of the definition of employee in section YA 1 of the Income Tax Act 2007
@@ -61,7 +62,7 @@ _Consolidation as at 2022-07-01_
     (c) annual amount of child support
   - **income from employment** has the same meaning as in paragraph (a) of the definition of that term in section YA 1 of the Income Tax Act 2007 in respect of the activities of a specified office
   - **income percentage** means, in relation to a parent of a qualifying child, that parent's percentage of the combined child support income amounts of all the child's parents, as determined under section 33
-  - **inflation percentage** means, in relation to a child support year, the movement in the all groups index number of the New Zealand Consumers Price Index during the 12-month period that ends with 31 December before the start of the child-support year
+  - **inflation percentage** means, in relation to a child support year, the movement in the all groups index number of the Consumers Price Index during the 12-month period that ends with 31 December before the start of the child-support year
   - **last relevant tax year** means,—
     (a) in a case where a parent's income for the most recent tax year was derived solely from withholding income, the calendar year ending in that tax year:
     (b) in any other case, the tax year immediately preceding the most recent tax year
@@ -2222,13 +2223,13 @@ The amount that an order under section 106 on the ground in section 105(2)﻿(d)
   (b) otherwise proper,—
 (4) The court shall not, by any order under this section, vary an order unless it is also satisfied—
   (a) that making the variation is justified because of a change in the circumstances of the child, the receiving carer, or a liable parent concerned since the order was made or last varied; or
-  (b) that making the variation is justified because of a change in the all groups index number of the New Zealand Consumer Price Index since the order was made or last varied; or
+  (b) that making the variation is justified because of a change in the all groups index number of the Consumers Price Index since the order was made or last varied; or
   (c) in a case where the order was made by consent, that the order is not proper or adequate; or
   (d) that material facts were withheld from the court that made the order or from a court that varied the order, or that material evidence previously given before such a court was false.
 (5) If the court proposes to vary the order otherwise than by varying any statement included in the order under section 110, the court must consider whether, having regard to the proposed variation, it should also order the variation of any such statement.
 (6) In determining whether to make an order under this section, the court must have regard to the matters mentioned in section 105(4) and (5).
 (7) The court may have regard to other matters beyond those specified in subsection (6).
-(8) The court must not, in considering the variation of an order, have regard to a change in the all groups index number of the New Zealand Consumer Price Index unless at least 12 months have elapsed since the order was made, or was last varied having regard to such a change.
+(8) The court must not, in considering the variation of an order, have regard to a change in the all groups index number of the Consumers Price Index unless at least 12 months have elapsed since the order was made, or was last varied having regard to such a change.
 (9) In satisfying itself for the purposes of subsection (4)﻿(c), the court must have regard to any payments, and any transfer or settlement of property, previously made by the liable parent to the child, to the receiving carer, or to any other person for the benefit of the child.
 (10) The discharge of an order does not affect the recovery of arrears due under the order, or under this Act, when the discharge takes effect.
 
@@ -3480,13 +3481,13 @@ Every question of fact arising in any proceeding under this Act (not being crimi
 
 ### 236 Changes in published statistics to be disregarded
 (1) This section applies to publication by Statistics New Zealand of—
-  (a) the ordinary time average weekly earnings (for males and females combined); or
-  (b) the all groups index number of the Consumer Price Index.
+  (a) the ordinary time average weekly earnings (for males and females combined) or any measure certified by the Government Statistician as being equivalent to that index; or
+  (b) the index number of the Consumers Price Index.
 (2) A correction to those statistics that is published by that department must be disregarded for the purposes of this Act if—
   (a) the correction is published at any time after 1 January immediately preceding the start of a child support year; and
   (b) the statistics corrected are—
     (i) as at mid-February immediately preceding the start of the most recent tax year in relation to the ordinary time average weekly earnings (for males and females combined); or
-    (ii) for the year ending on 31 December immediately preceding the start of the child support year in relation to the all groups index number of the Consumer Price Index.
+    (ii) for the year ending on 31 December immediately preceding the start of the child support year in relation to the index number of the Consumers Price Index.
 
 ### 237 Rounding of amounts
 (1) The following amounts must be rounded to whole dollars:
@@ -4036,7 +4037,7 @@ The amendment to section 152B made by section 241 of the 2022 Act applies to all
 | More than 1.5 but no more than 2 | 10% | 18% | 24% | 10% | 20% | 29% |
 | More than 2 but no more than 2.5 | 7% | 10% | 18% | 9% | 13% | 20% |
 | More than 2.5 | † | † | † | † | † | † |
-| *Average weekly earnings, as published by Statistics New Zealand (for all industries, males and females combined) for the June quarter in the immediately preceding child support year. The weekly earnings are annualised. |  |  |  |  |  |  |
+| * Average weekly earnings (for all industries, males and females combined), published by Statistics New Zealand (or if that index ceases to be published, any measure certified by the Government Statistician as being equivalent to that index) for the June quarter in the immediately preceding child support year. The weekly earnings are annualised. |  |  |  |  |  |  |
 | †For child support income amounts that exceed 2.5 times AWE, the marginal expenditure on children does not increase. The relevant amounts to be inserted in a child expenditure table in this row are therefore the maximum amounts from the row immediately above it. |  |  |  |  |  |  |
 
 ### 1 Short Title and commencement
