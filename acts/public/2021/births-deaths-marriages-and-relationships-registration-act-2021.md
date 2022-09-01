@@ -1,5 +1,5 @@
 # Births, Deaths, Marriages, and Relationships Registration Act 2021
-_Consolidation as at 2021-12-15_
+_Consolidation as at 2022-09-01_
 
 ### 1 Title
 This Act is the Births, Deaths, Marriages, and Relationships Registration Act 2021.
@@ -1400,7 +1400,7 @@ Nothing in this Act limits access to information that is recorded under this Act
 The Registrar-General may publish or otherwise disclose statistical information obtained from information in the registry if the Registrar-General considers that the statistical information may be of interest to the public and is not readily available elsewhere.
 
 ### 122 Provision of information to Statistics New Zealand
-This Act does not limit the provision of information under the Statistics Act 1975.
+This Act does not limit the provision of information under the Data and Statistics Act 2022.
 
 ## Part 5 — Registrar-General and registry
 
