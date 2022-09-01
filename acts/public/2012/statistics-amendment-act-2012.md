@@ -1,5 +1,5 @@
 # Statistics Amendment Act 2012
-_Consolidation as at 2012-08-30_
+_Consolidation as at 2022-09-01_
 
 ### 1 Title
 This Act is the Statistics Amendment Act 2012.
@@ -29,6 +29,6 @@ This Act amends the Statistics Act 1975.
 ### 5 New section 45A inserted
 The following section is inserted after section 45:Offence to use information for unauthorised purpose or fail to comply with directions
   (1) Every person to whom individual schedules are disclosed under section 37C commits an offence who knowingly contravenes—
-    (a) section 37C(4)(a); or
-    (b) section 37C(4)(b).
+    (a) section 37C(4)﻿(a); or
+    (b) section 37C(4)﻿(b).
   (2) A person who commits an offence against subsection (1) is liable on summary conviction to a fine not exceeding $500 or, in the case of a body corporate, not exceeding $2,000.
