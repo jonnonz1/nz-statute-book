@@ -1,5 +1,5 @@
 # Statistics Amendment Act 1994
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2022-09-01_
 
 > An Act to amend the Statistics Act 1975
 
