@@ -1,5 +1,5 @@
 # Residential Care and Disability Support Services Act 2018
-_Consolidation as at 2022-07-01_
+_Consolidation as at 2022-09-01_
 
 ### 1 Title
 This Act is the Residential Care and Disability Support Services Act 2018.
@@ -602,16 +602,17 @@ Regulations may be made under section 74 that provide for payment of a clothing 
   (b) earlier than, the same as, or later than, the date on which the regulations are made.
 (6) Regulations made under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
-### 75 Annual adjustments for increase in New Zealand Consumers Price Index
-(1) The applicable asset thresholds set out in Part 1 of Schedule 2 must be increased on 1 July 2019, and on every following 1 July, by an amount that reflects the upwards movement (if any) in the index number of the Consumers Price Index (All Groups) published by Statistics New Zealand for the year ending on the previous 31 March.
-(2) The income-from-assets exemption (as defined in Part 3 of Schedule 2) must be increased on 1 July 2019, and on every following 1 July, by an amount that reflects the upwards movement (if any) in the index number of the Consumers Price Index (All Groups) published by Statistics New Zealand for the year ending on the previous 31 March.
+### 75 Annual adjustments for increase in Consumers Price Index
+(1) The applicable asset thresholds set out in Part 1 of Schedule 2 must be increased on 1 July 2019, and on every following 1 July, by an amount that reflects the upwards movement (if any) in the index number of the Consumers Price Index (all groups) for the year ending on the previous 31 March.
+(2) The income-from-assets exemption (as defined in Part 3 of Schedule 2) must be increased on 1 July 2019, and on every following 1 July, by an amount that reflects the upwards movement (if any) in the index number of the Consumers Price Index (all groups) for the year ending on the previous 31 March.
 (3) The adjustments (by any percentage movement in the index number of the Consumers Price Index (All Groups)) required under subsection (2) as at 1 July in any year from 2019 to 2021 (inclusive) for the income-from-assets exemption must, despite subsection (2), be calculated,—
-  (a) if, and insofar as, they relate to movements during quarters that end before 29 April 2010, using index numbers for those quarters of the Consumers Price Index (All Groups) published by Statistics New Zealand; and
-  (b) if, and insofar as, they relate to movements during quarters that end after 28 April 2010, using index numbers for those quarters of the Consumers Price Index (All Groups Excluding Cigarettes and Other Tobacco Products) published by Statistics New Zealand.
+  (a) if, and insofar as, they relate to movements during quarters that end before 29 April 2010, using index numbers for those quarters of the Consumers Price Index (all groups); and
+  (b) if, and insofar as, they relate to movements during quarters that end after 28 April 2010, using index numbers for those quarters of the Consumers Price Index (less cigarettes and tobacco subgroup) published by Statistics New Zealand or, if that index ceases to be published, any measure certified by the Government Statistician as being equivalent to that index.
 (4) If the adjusted amount of an applicable asset threshold or, as the case requires, of the income-from-assets exemption is not a whole number of dollars,—
   (a) it must be rounded up to the nearest whole number of dollars; but
   (b) the adjustment made in the following year must be based on the applicable asset threshold or the income-from-assets exemption as it was before it was rounded up.
 (5) This section does not limit section 452 of the Social Security Act 2018 (about orders making discretionary increases to specified amounts in Schedule 2 of this Act).
+(6) In this section, Consumers Price Index (all groups) means the Consumers Price Index (all groups) published by Statistics New Zealand or, if that index ceases to be published, any measure certified by the Government Statistician as being equivalent to that index.
 
 ### 76 Annual published notice of amount of income-from-assets exemption
 (1) The Director-General of Health must, as soon as practicable after 1 July in each year, give written notice of the current amount of the income-from-assets exemption.
