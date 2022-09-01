@@ -1,5 +1,5 @@
 # Insolvency Act 2006
-_Consolidation as at 2022-07-01_
+_Consolidation as at 2022-09-01_
 
 ### 1 Title
 This Act is the Insolvency Act 2006.
@@ -22,6 +22,7 @@ In this Part and Parts 2 to 7, unless the context otherwise requires,—
     (b) a society incorporated under the Incorporated Societies Act 1908:
     (c) a registered society within the meaning of the Industrial and Provident Societies Act 1908:
     (d) a society incorporated or registered overseas that is similar to any society in paragraphs (a) to (c)
+  - **Consumers Price Index** means the Consumers Price Index (all groups) published by Statistics New Zealand or, if that index ceases to be published, any measure certified by the Government Statistician as being equivalent to that index
   - **court** means the High Court
   - **current debt repayment order** has the meaning set out in section 355
   - **document** means a document in any form; and includes—
@@ -1117,7 +1118,7 @@ If the bankrupt defaults in making a payment required under section 147, the onu
   (c) a motor vehicle (up to a maximum value of $6,500).
 (2) For the purposes of subsection (1)﻿(c), the value of a motor vehicle is the value that the Assignee in the Assignee’s discretion places on it.
 (3) The fact that the value of the motor vehicle is less than the maximum value specified in subsection (1)﻿(c) does not give the bankrupt rights in relation to other assets in the bankrupt’s estate.
-(4) The Governor-General may, by Order in Council, amend subsection (1)﻿(c) by increasing the maximum value to take account of any rise in the all groups index number of the New Zealand Consumers Price Index.
+(4) The Governor-General may, by Order in Council, amend subsection (1)﻿(c) by increasing the maximum value to take account of any rise in the all groups index number of the Consumers Price Index.
 (5) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 159 Bankrupt may retain certain assets with consent of creditors
@@ -1137,7 +1138,7 @@ The Assignee may make an allowance out of the property of the bankrupt to the ba
 
 ### 164 Assignee may allow bankrupt to retain money
 (1) The Assignee may allow the bankrupt to retain, for the immediate maintenance of the bankrupt and his or her relatives and dependants, any money up to a maximum of $1,300 that the bankrupt has in the bankrupt's possession or in a bank account at the time of adjudication.
-(2) The Governor-General may, by Order in Council, amend subsection (1) by increasing the maximum amount that the Assignee may allow the bankrupt to retain, to take account of any rise in the Consumer Price Index.
+(2) The Governor-General may, by Order in Council, amend subsection (1) by increasing the maximum amount that the Assignee may allow the bankrupt to retain, to take account of any rise in the Consumers Price Index.
 (3) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### Subpart 5 — Powers of Assignee and court to examine bankrupt and others
@@ -2015,16 +2016,17 @@ A person who obtained an order for costs against the bankrupt before adjudicatio
 (2) The sum stated in subsection (1) must be adjusted as follows:
   (a) subject to paragraph (d), an adjustment must be made, by the Governor-General by Order in Council, after the 3-year period starting on 1 July 2006 and ending on 30 June 2009 and after every 3-year period following that (an adjustment period):
   (b) subject to paragraph (d), the Order in Council must be made within 3 months of the end of an adjustment period:
-  (c) each adjustment must reflect any overall percentage increase, over the relevant adjustment period, in average weekly earnings (total, private sector), calculated by reference to the last Quarterly Employment Survey published by Statistics New Zealand (or, if that survey ceases to be published, a survey certified by the Government Statistician as an equivalent to that survey) within the relevant adjustment period:
+  (c) each adjustment must reflect any overall percentage increase, over the relevant adjustment period, in average weekly earnings (total, private sector), calculated by reference to the last QES within the relevant adjustment period:
   (d) if, in an adjustment period, there is no change, or an overall decrease, in the percentage movement in average weekly earnings (total, private sector), as so calculated, no adjustment may be made for that adjustment period:
   (e) if, in accordance with paragraph (d), no adjustment is made, the next adjustment made for any succeeding adjustment period must reflect any overall percentage increase in average weekly earnings (total, private sector) between the date of the last adjustment and the end of the relevant adjustment period for which the adjustment is to be made:
   (f) all adjustments are cumulative and must be rounded to the nearest $20:
-  (g) any correction to the Quarterly Employment Survey on which an adjustment is based must be disregarded until the adjustment that takes effect in the following adjustment period, which must reflect the corrected information in the calculation of that adjustment and must otherwise be made in accordance with this subsection.
+  (g) any correction to the QES on which an adjustment is based must be disregarded until the adjustment that takes effect in the following adjustment period, which must reflect the corrected information in the calculation of that adjustment and must otherwise be made in accordance with this subsection.
 (3) The sum stated in subsection (1), or any greater amount prescribed under subsection (2) that applies on the date on which a debtor is adjudicated bankrupt, continues to apply to that bankruptcy regardless of any change to that sum that is prescribed after the date on which the debtor is adjudicated bankrupt.
 (4) For the purposes of this section and section 274,—
   (a) remuneration in respect of a period of holiday or of absence from work through sickness or other good cause is to be treated as wages in respect of services rendered to the bankrupt during that period:
   (b) employee means any person of any age employed by an employer to do any work for hire or reward under a contract of service (including a homeworker as defined in section 5 of the Employment Relations Act 2000):
-  (c) holiday pay, in relation to a person, means all sums payable to that person by the bankrupt under subpart 1 of Part 2 of the Holidays Act 2003, and includes all sums that by or under any other enactment or any award, agreement, or contract of service are payable to that person by the bankrupt as holiday pay.
+  (c) holiday pay, in relation to a person, means all sums payable to that person by the bankrupt under subpart 1 of Part 2 of the Holidays Act 2003, and includes all sums that by or under any other enactment or any award, agreement, or contract of service are payable to that person by the bankrupt as holiday pay:
+  (d) QES means the Quarterly Employment Survey published by Statistics New Zealand or, if that survey ceases to be published, any measure certified by the Government Statistician as being equivalent to that survey.
 (5) An order under subsection (2)﻿(a) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 277 Subrogation of persons if payment has been made
@@ -2542,7 +2544,7 @@ The Assignee may make a debt repayment order on the application of—
 (3) A debt repayment order is not invalid if the total amount of the debts proved is more than the amount specified in subsection (1)﻿(a), but in that case—
   (a) the supervisor appointed under section 345 may refer the matter to the Assignee; and
   (b) the Assignee may, if the Assignee thinks appropriate, cancel the order.
-(4) The amount in subsection (1)﻿(a) may be varied by the Governor-General by Order in Council to take account of increases in the all groups index number of the New Zealand Consumers Price Index.
+(4) The amount in subsection (1)﻿(a) may be varied by the Governor-General by Order in Council to take account of increases in the all groups index number of the Consumers Price Index.
 (5) An order under subsection (4) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 344 Additional orders
@@ -2705,7 +2707,7 @@ This subpart sets out a procedure for dealing with a debtor who has no realisabl
 (2) In this section, realisable assets—
   (a) excludes the assets that a bankrupt is allowed to retain under section 158; but
   (b) includes any assets (for example, gifted assets) that might be recoverable by the Assignee if the debtor were adjudicated bankrupt on the date of application for entry to the no asset procedure and if the irregular transaction provisions in subpart 7 of Part 3 applied.
-(3) The amounts in subsection (1)﻿(d) may be varied by the Governor-General by Order in Council to take account of increases in the all groups index number of the Consumer Price Index.
+(3) The amounts in subsection (1)﻿(d) may be varied by the Governor-General by Order in Council to take account of increases in the all groups index number of the Consumers Price Index.
 (4) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 364 Debtor disqualified from entry to no asset procedure in certain cases
@@ -3539,7 +3541,7 @@ If a person is adjudicated bankrupt before the commencement date,—
   (b) former sections 158(1) to (4), 159, 160, 161, and 162 continue to apply to the person.
 
 ### 12 First Order in Council under section 158(4) after commencement date
-The first Order in Council made under section 158(4) after the commencement date may take into account any rise in the all groups index number of the New Zealand Consumers Price Index that occurred on or after 1 July 2019.
+The first Order in Council made under section 158(4) after the commencement date may take into account any rise in the all groups index number of the Consumers Price Index that occurred on or after 1 July 2019.
 
 ### 13 Former section 164 applies if person adjudicated bankrupt before commencement date
 If a person is adjudicated bankrupt before the commencement date,—
