@@ -1,5 +1,5 @@
 # Commodity Levies Act 1990
-_Consolidation as at 2021-10-28_
+_Consolidation as at 2022-09-01_
 
 > An Act to enable the making of Orders in Council imposing on certain commodities levies payable to bodies corporate representing the views and interests of the persons primarily responsible for paying those levies
 
@@ -160,7 +160,7 @@ This Act binds the Crown.
 (5) No Minister shall recommend the making of a levy order imposing a levy on a commodity and prescribing that the levy applies to quantities of the commodity imported into New Zealand, unless the Minister is satisfied, on the basis of information and evidence satisfactory to the Minister, that the rate of levy on imported product provided for in the order cannot be greater than the rate necessary to ensure that exporters or importers of imported product, or other persons acquiring or dealing with imported product, will not derive unearned benefits from the expenditure of the levy.
 
 ### 7 Effect of orders
-Where a levy order has been made imposing on any commodity a levy payable to any industry organisation, the following provisions shall, in accordance with the order, apply:
+(1) Where a levy order has been made imposing on any commodity a levy payable to any industry organisation, the following provisions shall, in accordance with the order, apply:
   (a) every person responsible for paying the levy to the organisation shall do so:
   (b) the organisation may recover the levy from any person responsible for paying it to the organisation—
     (i) by deducting it from any amount the organisation owes the person; or
@@ -175,6 +175,7 @@ Where a levy order has been made imposing on any commodity a levy payable to any
   (e) where a person who has paid the levy to the organisation is not the person primarily responsible for paying it, the former may recover the amount paid from the latter—
     (i) by deducting it from any amount the former owes the latter; or
     (ii) as a debt due in any court of competent jurisdiction.
+(2) Nothing in a levy order limits or prevents the provision of information to the Government Statistician for the production of official statistics or research under the Data and Statistics Act 2022.
 
 ### 8 Conscientious objectors
 Every levy order shall make special provision for the payment of amounts of levy by persons who object on conscientious or religious grounds to paying it in the manner otherwise provided for in the order.
