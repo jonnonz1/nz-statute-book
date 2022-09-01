@@ -1,5 +1,5 @@
 # Biosecurity Act 1993
-_Consolidation as at 2022-07-01_
+_Consolidation as at 2022-09-01_
 
 > An Act to restate and reform the law relating to the exclusion, eradication, and effective management of pests and unwanted organisms
 
@@ -3016,6 +3016,7 @@ The purpose of this Part is to provide a framework that enables the government a
 (3) If the levy is payable to the industry organisation, it is payable to enable the organisation to meet its commitments under the agreement.
 (4) A person responsible for paying the levy must pay it.
 (5) The payee may recover a levy from a person responsible for paying it as a debt due in a court of competent jurisdiction.
+(6) Nothing in a readiness or response levy order limits or prevents the provision of information to the Government Statistician for the production of official statistics or research under the Data and Statistics Act 2022.
 
 ### 100ZD Contents of order
 (1) A readiness or response levy order must specify—
@@ -3906,7 +3907,8 @@ Information that is not publicly available
     (ii) is not published in any form that could reasonably be expected to identify any person:
   (h) to authorise other persons to access and use it for statistical or research purposes, provided that the information used—
     (i) does not identify any person; and
-    (ii) is not published in any form that could reasonably be expected to identify any person.
+    (ii) is not published in any form that could reasonably be expected to identify any person:
+  (i) to provide it to the Government Statistician for the production of official statistics or research under the Data and Statistics Act 2022.
 (3) The references to the Official Information Act 1982 (OIA) in subsection (2)﻿(c) and (d) mean that the OIA cannot be used to access information in the biosecurity database, whether or not the OIA can be used to access the same information from another source.
 (4) For information in the biosecurity database that is not publicly available, the person to whom the information relates or the person's agent may give written permission for access to it and use and disclosure of it for a purpose specified in the permission.
 (5) For information in the biosecurity database that is not publicly available, the person to whom the information relates or the person's agent may give an oral permission to which the following apply:
