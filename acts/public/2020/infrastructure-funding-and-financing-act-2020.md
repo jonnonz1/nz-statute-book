@@ -1,5 +1,5 @@
 # Infrastructure Funding and Financing Act 2020
-_Consolidation as at 2022-07-01_
+_Consolidation as at 2022-09-01_
 
 ### 1 Title
 This Act is the Infrastructure Funding and Financing Act 2020.
@@ -913,8 +913,9 @@ A responsible SPV may apply levy revenue only to pay eligible costs authorised b
 ### 92 Excess levy threshold
 (1) For the purposes of section 91, excess levy threshold means an amount calculated, as at the end of the levy period, in accordance with the following formula:r × $e = $twhere—r is the number of levypayers$e is $50 or the increased amount most recently published by the monitor under this section (if any)$t is the excess levy threshold.
 (2) The monitor must, before the start of each levy year after the commencement of this Act (unless $e would not be increased as a result of paragraph (a)),—
-  (a) increase the amount of $e by a percentage that reflects the upward movement (if any) in the index number of the Consumers Price Index (All Groups) published by Statistics New Zealand for the year ending on the previous 31 March; and
+  (a) increase the amount of $e by a percentage that reflects the upward movement (if any) in the index number of the Consumers Price Index for the year ending on the previous 31 March; and
   (b) publish the increased $e.
+(3) In this section, Consumers Price Index means the Consumers Price Index (all groups) published by Statistics New Zealand or, if that index ceases to be published, any measure certified by the Government Statistician as being equivalent to that index.
 
 **Uncollected levy at end of levy period**
 
