@@ -1,5 +1,5 @@
 # Serious Fraud Office Act 1990
-_Consolidation as at 2021-10-28_
+_Consolidation as at 2022-09-01_
 
 > An Act—ato facilitate the detection and investigation by the Serious Fraud Office of cases of serious or complex fraud; andbto enable proceedings relating to such fraud to be taken expeditiously; andcto provide for matters incidental upon the establishment of the Serious Fraud Office
 
@@ -312,7 +312,7 @@ Judicial notice shall be taken of the signature of the Director and of the fact 
 (3) This section is subject to section 37 and section 39.
 (4) Every member of the Serious Fraud Office commits an offence, and is liable on conviction to a fine not exceeding $5,000, who knowingly contravenes this section.
 
-### 37 Secrecy of information protected under Inland Revenue Department Act 1974
+### 37 Secrecy of information protected under Tax Administration Act 1994
 (1) Every member of the Serious Fraud Office shall observe the strictest secrecy in relation to revenue information.
 (2) For the purposes of this section, revenue information means any information—
   (a) that is subject to an obligation of secrecy under the Tax Administration Act 1994; and
@@ -327,7 +327,7 @@ Judicial notice shall be taken of the signature of the Director and of the fact 
 (4) Every member of the Serious Fraud Office commits an offence, and is liable on conviction to imprisonment for a term not exceeding 6 months or to a fine not exceeding $15,000, who knowingly contravenes this section.
 
 ### 38 Disclosure to Serious Fraud Office of information protected under other Acts
-(1) Any information which is protected under any Act other than the Tax Administration Act 1994 or the Statistics Act 1975 may, notwithstanding any provision of that Act, be disclosed to any member of the Serious Fraud Office for the purpose of investigating or prosecuting any offence involving serious or complex fraud.
+(1) Any information which is protected under any Act other than the Tax Administration Act 1994 or the Data and Statistics Act 2022 may, notwithstanding any provision of that Act, be disclosed to any member of the Serious Fraud Office for the purpose of investigating or prosecuting any offence involving serious or complex fraud.
 (2) No person shall be liable to prosecution for an offence by reason of disclosing information pursuant to this section.
 (3) Every person who discloses any such information to a member of the Serious Fraud Office shall, at the time of making the disclosure, inform the member that the information is so protected.
 
