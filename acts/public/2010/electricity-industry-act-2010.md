@@ -1,5 +1,5 @@
 # Electricity Industry Act 2010
-_Consolidation as at 2021-10-28_
+_Consolidation as at 2022-09-01_
 
 ### 1 Title
 This Act is the Electricity Industry Act 2010.
@@ -7,6 +7,9 @@ This Act is the Electricity Industry Act 2010.
 ### 2 Commencement
 (1) Sections 34 and 35, 116 to 127, and 130 come into force on the day after the date on which this Act receives the Royal assent.
 (2) The rest of this Act comes into force on 1 November 2010.
+
+### 2A Transitional, savings, and related provisions
+The transitional, savings, and related provisions set out in Schedule 1 have effect according to their terms.
 
 ### 3 Act binds the Crown
 This Act binds the Crown.
@@ -22,9 +25,11 @@ The purpose of this Act is to provide a framework for the regulation of the elec
 In this Act, unless the context otherwise requires,—
   - **ancillary service agent** means a person who, pursuant to an agreement with the system operator, provides frequency keeping, instantaneous reserve, voltage support, over frequency reserve, black start, or any other ancillary service specified in the Code, and as defined in the Code
   - **approved test house** means a meter testing and calibration facility that has been approved in accordance with the procedures in the Code
+  - **assets** includes property of any kind, whether tangible or intangible, and includes rights, interests, and claims of every kind however they arise
   - **Authority** , or , means the Electricity Authority established by section 12
   - **breach** has the meaning given in section 6
-  - **Code** , or , means the Code administered by the Authority, as brought into force under section 36 and amended from time to time under section 38, 40, or 43
+  - **business** means any undertaking that is carried on whether for gain or reward or not
+  - **Code** or means the Code administered by the Authority under subpart 3 of Part 2
   - **clearing manager** means the person appointed by the Authority to act as the clearing manager under the Code
   - **community trust** , in relation to a distributor or a retailer, means a trust in respect of which—
     (a) at least 90% of the income beneficiaries comprise persons who are a class or classes identified by reference to their domicile or location or operation within the geographic area or areas of operation of the distributor or retailer; and
@@ -40,6 +45,7 @@ In this Act, unless the context otherwise requires,—
       (v) the person's liability for payment for line services supplied by the distributor; and
     (b) at least 90% of its income distributions are paid to those beneficiaries
   - **distribution** means the conveyance of electricity on lines other than lines that are part of the national grid
+  - **distribution agreement** means an agreement referred to in section 44A(1)
   - **distributor** means a business engaged in distribution
   - **domestic consumer** means a person who purchases or uses electricity in respect of domestic premises
   - **domestic premises** means premises that are used or intended for occupation by a person principally as a place of residence; but does not include premises that constitute any part of premises described in section 5(1)﻿(c) to (k) of the Residential Tenancies Act 1986 (which refers to places such as jails, hospitals, hostels, hotels, and other places providing temporary accommodation)
@@ -51,7 +57,15 @@ In this Act, unless the context otherwise requires,—
     (b) is not any of the industry participants identified in section 7(1)﻿(a) to (h)
   - **line function services** has the meaning given in section 2(1) of the Electricity Act 1992
   - **lines** means works used or intended to be used to convey electricity
-  - **load aggregator** means a person who contracts with 1 or more consumers so that the person is able to deal with the electricity otherwise required by those consumers in any way, including putting in place agreements under which those consumers voluntarily change their consumption level, so that the person is able to offer the combined increase or reduction in the interruptable load of all those consumers as collective demand, either in the wholesale electricity market or under any other bilateral agreement or contract
+  - **load aggregator** means a person who contracts with 1 or more consumers so that the person is able to deal with the electricity otherwise required by those consumers in any way, including putting in place agreements under which those consumers voluntarily change their consumption level, so that the person is able to offer the combined increase or reduction in the interruptible load of all those consumers as collective demand, either in the wholesale electricity market or under any other bilateral agreement or contract
+  - **manager** , in relation to a person,—
+    (a) means a person who, whether alone or jointly with any other person, manages, or directs or supervises the management of, the whole or a substantial part of the business and affairs of the person; and
+    (b) includes,—
+      (i) in relation to a trust, a trustee:
+      (ii) in relation to a local authority, a member; but
+    (c) does not include,—
+      (i) in relation to a body corporate, a director of that body corporate:
+      (ii) in relation to a business in which a local authority or any other person has an interest, a member of that local authority or manager of that person only as a result of that person having that position
   - **market operation service provider** means the system operator and any person appointed by the Authority under the Code to perform any of the following market operation service provider roles:
     (a) the registry manager:
     (b) the reconciliation manager:
@@ -80,6 +94,9 @@ In this Act, unless the context otherwise requires,—
   - **retailer** means a business engaged in retailing
   - **retailing** means the sale of electricity to a consumer other than for the purpose of resale
   - **Rulings Panel** means the Rulings Panel continued by section 23
+  - **small business consumer** means a consumer that is not a domestic consumer and—
+    (a) that is in a class specified in regulations made under section 113A; or
+    (b) if no such regulations have been made, that consumes less than 40 MWh of electricity per year
   - **system operator** means the person who ensures the real-time co-ordination of the electricity system, and is the person referred to in section 8
   - **trader in electricity** means a person who trades in electricity or electricity derivatives, and includes—
     (a) a person who buys or sells contracts under which the payment obligations may change according to the changes in the price at which electricity is bought or sold in any market in New Zealand; and
@@ -100,6 +117,27 @@ In this Act, unless the context otherwise requires,—
   (f) conspires with any other person to breach the provision.
 (2) A breach includes a failure to comply.
 
+### 6A Meaning of involved in
+(1) In this Act, unless the context otherwise requires, a person is involved in an industry participant if the person—
+  (a) carries on a business as an industry participant, either alone or together with its associates and either on its own or another’s behalf; or
+  (b) exceeds the 10% threshold in respect of a business that is an industry participant; or
+  (c) has material influence over a business that is an industry participant.
+(2) A person exceeds the 10% threshold in respect of a business if the person—
+  (a) has more than 10% of the control rights in the business; or
+  (b) has more than 10% of the equity return rights in the business; or
+  (c) is one of 2 or more associates who, in aggregate, have more than 10% of the control rights in the business; or
+  (d) is one of 2 or more associates who, in aggregate, have more than 10% of the equity return rights in the business.
+(3) This section is subject to Schedule 2.
+(4) In this section and in Schedule 2,—
+  - **associate** has the meaning given in clause 8 of Schedule 2
+  - **control right** has the meaning given in clause 5 of Schedule 2
+  - **director** , in relation to a body corporate, means a person occupying the position of director of the body corporate by whatever name called
+  - **equity return right** has the meaning given in clause 6 of Schedule 2
+  - **financial year** means a period of 12 months ending with 31 March
+  - **involvement** has a corresponding meaning to involved in
+  - **material influence** has the meaning given in clause 7 of Schedule 2
+  - **rights** means all rights, powers, privileges, and immunities, whether actual, contingent, or prospective.
+
 ## Part 2 — Electricity industry governance
 
 ### Subpart 1 — Who does what
@@ -116,7 +154,8 @@ In this Act, unless the context otherwise requires,—
   (f) a person who consumes electricity that is conveyed to the person directly from the national grid:
   (g) a person, other than a generator, who generates electricity that is fed into a network:
   (h) a person who buys electricity from the clearing manager:
-  (i) any industry service provider identified in subsection (2).
+  (i) any industry service provider identified in subsection (2):
+  (j) any other person identified in regulations made under section 109(1)﻿(ab).
 (2) The following industry service providers are industry participants:
   (a) a market operation service provider:
   (b) a metering equipment provider:
@@ -125,7 +164,7 @@ In this Act, unless the context otherwise requires,—
   (e) a person that operates an approved test house:
   (f) a load aggregator:
   (g) a trader in electricity:
-  (h) any other industry service provider identified in regulations made under section 109.
+  (h) any other industry service provider identified in regulations made under section 109(1)﻿(a).
 (3) The Authority is not an industry participant, except to the extent that it performs functions as an industry service provider.
 
 ### 8 Transpower is system operator
@@ -150,36 +189,36 @@ In this Act, unless the context otherwise requires,—
 ### 10 Exemption from obligation to register
 (1) Despite section 9(1)﻿(a), an industry participant need not register if—
   (a) it is a member of a class of industry participants identified in regulations made under section 110 as a class of industry participants that is exempt from the obligation to register; or
-  (b) the Authority exempts the participant by issuing an individual exemption notice in the Gazette that—
+  (b) the Authority exempts the participant by issuing an individual exemption notice that—
     (i) identifies the industry participant that is exempt from the obligation to register; and
     (ii) gives reasons for the exemption.
 (2) The Authority may grant an individual exemption to an industry participant only if the Authority is satisfied that—
-  (a) it is not necessary, for the purpose of achieving the Authority's objective under section 15, for the participant to be registered; and
+  (a) it is not necessary, for the purpose of achieving the Authority's objectives under section 15, for the participant to be registered; and
   (b) exempting the participant will reduce overall administration and compliance costs.
-(3) The Authority may amend or revoke an individual exemption, by issuing a notice in the Gazette that identifies the exempt participant and gives reasons for the amendment or revocation, but only if the Authority—
+(3) The Authority may amend or revoke an individual exemption, by issuing a notice that identifies the exempt participant and gives reasons for the amendment or revocation, but only if the Authority—
   (a) has given notice of the proposed amendment or revocation to the exempt participant and given the participant a reasonable opportunity to comment on the proposal; and
   (b) is satisfied that—
-    (i) the amendment or revocation is necessary or desirable for the purpose of achieving the Authority's objective under section 15; and
+    (i) the amendment or revocation is necessary or desirable for the purpose of achieving the Authority's objectives under section 15; and
     (ii) the benefit of the amendment or revocation outweighs any disadvantage resulting from any increased administration and compliance costs.
-(4) To avoid doubt, an individual exemption notice issued under subsection (1)﻿(b) is not a regulation for any purpose.
+(4) A notice issued under subsection (1)﻿(b) or (3) must be published in the Gazette.
 (5) The Authority must publicise a list of all current class and individual exemptions.
 
 ### 11 Exemption from obligation to comply with Code
 (1) Despite section 9(1)﻿(b), an industry participant need not comply with the Code, or specific provisions of the Code, if—
   (a) it is a member of a class of industry participants identified in regulations made under section 110 as a class of industry participants that is exempt from the obligation to comply with the Code or specific provisions of the Code; or
-  (b) the Authority exempts the participant by issuing an individual exemption notice in the Gazette that—
+  (b) the Authority exempts the participant by issuing an individual exemption notice that—
     (i) identifies the industry participant that is exempt from the obligation to comply with the Code or specific provisions of the Code; and
     (ii) gives reasons for the exemption.
 (2) The Authority may grant an individual exemption to an industry participant only if the Authority is satisfied that—
-  (a) it is not necessary, for the purpose of achieving the Authority's objective under section 15, for that participant to comply with the Code or the specific provisions of the Code; and
-  (b) exempting the participant will reduce overall administration and compliance costs.
-(3) The Authority may amend or revoke an individual exemption, by issuing a notice in the Gazette that identifies the exempt participant and gives reasons for the amendment or revocation, but only if the Authority—
-  (a) has given notice of the proposed amendment or revocation to the exempt participant and given the participant a reasonable opportunity to comment on the proposal; and
-  (b) is satisfied that—
-    (i) the amendment or revocation is necessary or desirable for the purpose of achieving the Authority's objective under section 15; and
-    (ii) the benefit of the amendment or revocation outweighs any disadvantage resulting from any increased administration and compliance costs.
-(4) To avoid doubt, an individual exemption notice issued under subsection (1)﻿(b) is not a regulation for any purpose.
-(5) The Authority must publicise a list of all current class and individual exemptions.
+  (a) it is not necessary, for the purpose of achieving the Authority’s objectives under section 15, for the participant to comply with the Code or the specific provisions of the Code; or
+  (b) exempting the participant from the requirement to comply with the Code or the specific provisions of the Code would better achieve the Authority’s objectives than requiring compliance.
+(3) The Authority may grant an individual exemption on any terms or conditions that it reasonably considers are necessary.
+(4) The Authority may amend or revoke an individual exemption, by issuing a notice that identifies the exempt participant and gives reasons for the amendment or revocation, but only if the Authority—
+  (a) has given notice of the proposed amendment or revocation to the exempt participant and given the participant a reasonable opportunity to comment; and
+  (b) in relation to an amendment, is satisfied that the amendment is necessary or desirable for the purpose of achieving the Authority’s objectives in section 15; and
+  (c) in relation to a revocation, is no longer satisfied of the matters in subsection (2).
+(5) A notice issued under subsection (1)﻿(b) or (4) must be published in the Gazette.
+(6) The Authority must publicise a list of all current class and individual exemptions.
 
 **Electricity Authority**
 
@@ -210,10 +249,11 @@ The objective of the Authority is to promote competition in, reliable supply by,
   (c) to monitor compliance with the Act, the regulations, and the Code, and to exempt individual industry participants from the obligation to comply with the Code or specific provisions of the Code:
   (d) to investigate and enforce compliance with this Part, Part 4, the regulations, and the Code (see subpart 4 of this Part):
   (e) to investigate and enforce compliance with Part 3 (see subpart 2 of Part 3):
-  (f) to undertake market-facilitation measures (such as providing education, guidelines, information, and model arrangements), and to monitor the operation and effectiveness of market facilitation measures:
+  (f) to undertake market-facilitation measures (for example, providing education, guidelines, information, and model arrangements), and to monitor the operation and effectiveness of market facilitation measures:
   (g) to undertake industry and market monitoring, and carry out and make publicly available reviews, studies, and inquiries into any matter relating to the electricity industry:
   (h) to contract for market operation services (but see subsection (2)) and system operator services:
   (i) to promote to consumers the benefits of comparing and switching retailers:
+  (ia) to undertake measures aimed at protecting the interests of domestic consumers and small business consumers in relation to the supply of electricity to those consumers:
   (j) to perform any other specific functions imposed on it under this or any other Act.
 (2) Instead of, or as well as, contracting for market operation services, the Authority may itself perform—
   (a) the functions of the market administrator, if the Authority considers it desirable to do so; and
@@ -282,6 +322,21 @@ The objective of the Authority is to promote competition in, reliable supply by,
   (c) the application of section 125 of that Act.
 (4) For the purpose of section 152 of the Crown Entities Act 2004 (which is about disclosing payments in an annual report), the Authority must treat each advisory group member as if he or she were a member of the Authority.
 
+**Small Electricity Consumers Agency**
+
+### 22A Minister may establish Small Electricity Consumers Agency
+(1) The Minister may establish a Small Electricity Consumers Agency by approving 1 or more persons to perform the function of the agency.
+(2) The Minister may approve 1 or more persons to perform the function of the agency, and each person approved may perform all or any part of that function.
+(3) In subsection (2), person includes any instrument of the Crown (for example, a public service agency, as that term is defined in section 5 of the Public Service Act 2020).
+(4) In approving a person or persons under subsection (2), the Minister must be satisfied that the person has (or the persons collectively have) the ability to perform the function of the agency.
+(5) The agency may determine its own procedure, subject to any directions given to it by the Minister.
+
+### 22B Function of agency
+(1) The function of the agency is to represent and advocate for the interests of domestic consumers and small business consumers in the electricity industry.
+(2) The agency may carry out its function by, for example,—
+  (a) promoting the interests of domestic consumers and small business consumers to relevant public service agencies and Crown entities; and
+  (b) providing evidence-based advocacy on behalf of domestic consumers and small business consumers, whether in response to policy proposals or on its own initiative.
+
 **Rulings Panel**
 
 ### 23 Continuation of Rulings Panel
@@ -323,7 +378,7 @@ The function of the Rulings Panel is—
   (d) the name of every person who, after this section comes into force, has been recorded as a current industry participant but subsequently ceases to be.
 (3) For the purposes of the register,—
   (a) an industry participant's contact details are its physical address, postal address, telephone number, fax number, and email address; and
-  (b) an industry participant's business details are details about the nature of its business (for example, whether it is involved in generation, transmission, distribution, retailing, or a combination of any of these).
+  (b) an industry participant's business details are details about the nature of its business (for example, whether it is engaged in generation, transmission, distribution, retailing, or a combination of any of these).
 (4) The register may, but need not, contain the names of all or any industry participants that are exempt from the obligation to be registered.
 
 ### 28 Transfer of old information to register
@@ -349,23 +404,25 @@ The name, contact details, and business details of every person that, immediatel
 **Content and status of Code**
 
 ### 32 Content of Code
-(1) The Code may contain any provisions that are consistent with the objective of the Authority and are necessary or desirable to promote any or all of the following:
+(1) The Code may contain any provisions that are consistent with the objectives of the Authority and are necessary or desirable to promote any or all of the following:
   (a) competition in the electricity industry:
   (b) the reliable supply of electricity to consumers:
   (c) the efficient operation of the electricity industry:
-  (d) the performance by the Authority of its functions:
-  (e) any other matter specifically referred to in this Act as a matter for inclusion in the Code.
+  (d) the protection of the interests of domestic consumers and small business consumers in relation to the supply of electricity to those consumers:
+  (e) the performance by the Authority of its functions:
+  (f) any other matter specifically referred to in this Act as a matter for inclusion in the Code.
 (2) The Code may not—
-  (a) impose obligations on any person other than an industry participant or a person acting on behalf of an industry participant, or the Authority; or
-  (b) purport to do or regulate anything that the Commerce Commission is authorised or required to do or regulate under Part 3 or 4 of the Commerce Act 1986 (other than to set quality standards for Transpower and set pricing methodologies (as defined in section 52C of that Act) for Transpower and distributors); or
+  (a) impose obligations on any person other than an industry participant or a person acting on behalf of an industry participant, or the Authority (other than in accordance with subsection (3)); or
+  (b) purport to do or regulate anything that the Commerce Commission is authorised or required to do or regulate under Part 4 of the Commerce Act 1986 (other than in accordance with subsection (4)); or
   (c) purport to regulate any matter dealt with in or under the Electricity Act 1992.
-(3) The Code may incorporate by reference any of the following:
-  (a) New Zealand Standards, or standards, requirements, or recommended practices of any overseas or international body:
-  (b) codes of practice issued under Part 4 of the Electricity Act 1992:
-  (c) any other written material dealing with technical matters that, in the opinion of the Authority,—
-    (i) is too long to publish as part of the Code; or
-    (ii) it is impracticable to publish as part of the Code.
-(4) Schedule 1 applies to any material incorporated by reference into the Code.
+(3) The Code may impose obligations on a specified person for the purpose of restricting relationships between 2 classes of industry participants, where those relationships may not otherwise be at arm’s length.
+(4) The Code may contain provisions that do any of the following, regardless of whether such a provision would otherwise be prohibited under subsection (2)﻿(b):
+  (a) set quality or information requirements for Transpower or 1 or more distributors, in relation to access to transmission or distribution networks:
+  (b) set pricing methodologies for Transpower or 1 or more distributors.
+(5) Subsections (3) and (4) do not limit subsection (1).
+(6) In this section,—
+  - **pricing methodologies** has the meaning given in section 52C of the Commerce Act 1986
+  - **specified person** means a person (other than an industry participant) who is involved in both classes of industry participant that are the subject of any provisions made in accordance with subsection (3).
 
 ### 33 Status of Code
 (1) The following are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements):
@@ -376,32 +433,13 @@ The name, contact details, and business details of every person that, immediatel
 **Making and amending Code**
 
 ### 34 Content of initial Code
-(1) The Code made under section 36 must comprise—
-  (a) a consolidation of the following enactments:
-    (i) the Electricity Governance Rules made under section 172H of the Electricity Act 1992:
-    (ii) subpart 2 of Part 1 and Parts 2, 2A, and 3 of the Electricity Governance Regulations 2003:
-    (iii) subpart 2 of Part 10 of the Electricity Governance Regulations 2003 (the Comalco agreements exemptions):
-    (iv) the Electricity Governance (Security of Supply) Regulations 2008:
-    (v) the Electricity Governance (Connection of Distributed Generation) Regulations 2007:
-  (b) provisions referred to in section 8(3) (concerning the system operator):
-  (c) provisions to give effect to any exemptions granted under subpart 1 of Part 10 of the Electricity Governance Regulations 2003.
-(2) The Code must include whatever changes to the text of the enactments referred to in subsection (1)﻿(a) are necessary or reasonably required to ensure that the Code—
-  (a) is consistent with this Act, the regulations, and any amendments made to other enactments by this Act; and
-  (b) is accurate and coherent; and
-  (c) addresses any transitional issues.
-(3) To avoid doubt, the Code must not include provisions relating to statements of opportunities or grid planning assumptions.
-(4) The Code is deemed to include the provisions of any regulations or rules made, within 6 months before this section comes into force, under section 172E(3) of the Electricity Act 1992 (which relates to regulations and rules made urgently); but—
-  (a) the provisions expire on the date that is 6 months after the date on which those regulations and rules come into force; and
-  (b) the text of those regulations and rules need not be included in any draft or final copy of the Code that is publicised or made publicly available.
+[Repealed]
 
 ### 35 Certification of draft Code
-(1) The Minister must certify a draft Code that complies with section 34.
-(2) The Minister must publicise the draft Code as soon as practicable after it is certified.
-(3) The Minister's certificate is conclusive evidence that the draft complies with section 34.
+[Repealed]
 
 ### 36 Code comes into force
-(1) The certified draft Code comes into force as the Code on the day this section comes into force.
-(2) That Code is deemed to have been made by the Authority on that day.
+[Repealed]
 
 ### 37 Making Code accessible
 [Repealed]
@@ -431,7 +469,15 @@ The name, contact details, and business details of every person that, immediatel
 (2) Every amendment made under this section—
   (aa) must be published (as required under section 33) with a statement of the Authority’s reasons why the urgent amendment is needed; and
   (a) is not subject to section 38(4); and
-  (b) expires on the date that is 9 months after the date on which it comes into force.
+  (b) expires on the date that is 9 months after the date on which it comes into force, unless it is revoked earlier under section 40A.
+
+### 40A Revocation of urgent amendments
+(1) The Authority may revoke an amendment made under section 40 without complying with section 39(1) if—
+  (a) the Authority considers that the circumstances that gave rise to the amendment no longer exist or have changed significantly; and
+  (b) the Authority considers that, as a result, the continued application of the amendment is not required.
+(2) A revocation made under this section—
+  (a) must be published (as required under section 33) with a statement of the Authority’s reasons why the criteria in subsection (1) are met; and
+  (b) is not subject to section 38(4).
 
 ### 41 Authority to publish consultation charter
 (1) The Authority must develop, issue, and make publicly available a consultation charter that includes guidelines, not inconsistent with this Act, relating to the processes for amending the Code and consulting on proposed amendments.
@@ -442,34 +488,12 @@ The name, contact details, and business details of every person that, immediatel
 **Specific new matters in Code**
 
 ### 42 Specific new matters to be in Code
-(1) Before the date that is 1 year after this section comes into force, the Authority must either—
-  (a) have amended the Code so that it includes all the matters described in subsection (2) (the new matters); or
-  (b) to the extent that the Code does not include all the new matters, have delivered to the Minister a report described in subsection (3).
-(2) The new matters are as follows:
-  (a) provision of compensation by retailers to consumers during public conservation campaigns:
-  (b) imposing a floor or floors on spot prices for electricity in the wholesale market during supply emergencies (including public conservation campaigns):
-  (c) mechanisms to help wholesale market participants manage price risks caused by constraints on the national grid:
-  (d) mechanisms to allow participants who buy electricity on the wholesale market (commonly called the demand side) to benefit from demand reductions:
-  (e) requirements for distributors that do not send accounts to consumers directly to use more standardised tariff structures:
-  (f) requirements for all distributors to use more standardised use-of-system agreements, and for those use-of-system agreements to include provisions indemnifying retailers in respect of liability under the Consumer Guarantees Act 1993 for breaches of acceptable quality of supply, where those breaches were caused by faults on a distributor's network:
-  (g) facilitating, or providing for, an active market for trading financial hedge contracts for electricity.
-(3) A report provided under subsection (1)﻿(b) must—
-  (a) identify which new matters are not included in the Code; and
-  (b) explain why the Authority has not amended the Code to include those matters; and
-  (c) suggest alternative methods by which the matters are or may be provided for; and
-  (d) set out if, when, and how the Authority proposes to provide for the matters.
+[Repealed]
 
 ### 43 Minister may amend Code to include new matters
-(1) The Minister may amend the Code by including provisions for any of the new matters identified in section 42(2) if—
-  (a) the Minister considers that the Code's provisions for a new matter are not satisfactory; or
-  (b) the Minister considers that, in light of the Authority's report given under section 42(1)﻿(b), it is necessary or desirable for the Minister to amend the Code to include provisions for the matter in the Code.
-(2) The Minister may amend the Code as if he or she were the Authority, and sections 38 to 40 apply accordingly.
-(3) Before amending the Code, the Minister must—
-  (a) consult with the Authority (in addition to any consultation required under section 39); and
-  (b) be satisfied that the amendments will achieve the Authority's objective in section 15.
-(4) The power given by this section may not be exercised earlier than 1 year after, and not more than 3 years after, the date on which this section comes into force.
+[Repealed]
 
-**Other specific content**
+**Other content**
 
 ### 44 Transmission agreements
 (1) Without limiting section 32, the Code may require Transpower and 1 or more industry participants to enter into 1 or more agreements for connection to, use of, and (where relevant) investment in, the national grid (a transmission agreement).
@@ -479,19 +503,64 @@ The name, contact details, and business details of every person that, immediatel
 (5) A transmission agreement is binding on both parties and enforceable as if it were a contract between the parties that had been freely and voluntarily entered into.
 (6) If the parties do not comply with a requirement in the Code to enter into 1 or more transmission agreements, the default terms and conditions in the Code, and the provision in subsection (4), are binding on both parties and enforceable as if they were set out in a transmission agreement.
 
+### 44A Distribution agreements
+(1) Without limiting section 32, the Code may require a distributor and 1 or more other industry participants to enter into 1 or more agreements for connection to, and use of, the distributor’s network (a distribution agreement).
+(2) The Code may prescribe default terms and conditions that are deemed to be included in distribution agreements, including terms and conditions that relate to quality or information requirements.
+(3) The parties to a distribution agreement may, by mutual consent, agree to modify any default terms and conditions, but only if and to the extent that the Code permits those terms and conditions to be modified.
+(4) A distribution agreement is binding on both parties and enforceable as if it were a contract between the parties that had been freely and voluntarily entered into.
+(5) If the parties do not comply with a requirement in the Code to enter into 1 or more distribution agreements, the default terms and conditions in the Code are binding on the parties and enforceable as if they were set out in a distribution agreement.
+
+### 44B Minister may amend Code to include specified matters
+(1) The Minister may amend the Code by including provisions for any matter specified in subsection (2) if the Minister—
+  (a) considers that the Code’s provisions for the specified matter are not satisfactory; and
+  (b) is satisfied that the amendment will further the Authority’s objectives in section 15.
+(2) The matters referred to in subsection (1) are as follows:
+  (a) requirements for retailers to process consumer requests for information about their electricity consumption in a timely way:
+  (b) limitations on retailer saves and win-backs:
+  (c) requirements for retailers to provide information to the Authority to enable the Authority to better direct its efforts under section 16(1)﻿(i) (which relates to promoting to consumers the benefits of comparing and switching retailers):
+  (d) requirements for distributors to offer retailers standard terms for access to their networks:
+  (e) requirements for certain categories of industry participant to make available information directed at improving the performance of the wholesale market:
+  (f) requirements for certain industry participants to act as market makers in relation to the trading of some wholesale electricity contracts:
+  (g) requirements for some or all industry participants that are both generators and retailers to release information about the profitability of their retailing activities.
+(3) The Minister may amend the Code under this section as if the Minister were the Authority, and sections 38 to 40 apply accordingly, with any necessary modifications.
+(4) Before amending the Code, the Minister must consult the Authority (in addition to any consultation required under section 39).
+(5) The power given by this section may not be exercised earlier than 1 year after, and not more than 3 years after, the date on which this section comes into force.
+(6) In this section,—
+  - **save** , in relation to a retailer, means action taken by the retailer to initiate contact with a consumer that is intending to switch its electricity supply from the retailer to another retailer, in an attempt to retain the consumer’s business
+  - **win-back** , in relation to a retailer, means action taken by the retailer to initiate contact with a consumer that has agreed to switch its electricity supply from the retailer to another retailer, in an attempt to retain the consumer’s business.
+
+**Application of other Acts**
+
+### 44C Interpretation
+In sections 44D to 44F, a provision in the Code—
+  (a) relates to corporate separation if it requires corporate separation between classes of industry participants, or relates to such a provision; and
+  (b) relates to arm’s-length rules if it requires a person to comply with arm’s-length rules, or relates to such a provision.
+
+### 44D Not interconnected under Commerce Act 1986
+(1) For the purposes of Part 2 of the Commerce Act 1986 (other than sections 36 and 36A), businesses to which provisions in the Code relating to corporate separation or arm’s-length rules apply are deemed to be separate bodies corporate that are not interconnected, despite the fact that they may have a common owner.
+(2) Subsection (1) applies despite section 2(7) of the Commerce Act 1986.
+
+### 44E Illegal contracts
+(1) An agreement lawfully entered into does not become illegal or unenforceable by any party by reason of the fact that its performance is in breach of a provision in the Code relating to corporate separation or arm’s-length rules.
+(2) An agreement entered into in breach of a Code provision relating to corporate separation or arm’s-length rules is voidable, at the option of any party to the agreement who is not in breach of the Code provision, by notice in writing to the other party or parties, at any time within 1 month after the innocent party has notice that the agreement is in breach of the Code provision.
+
+### 44F Substance matters, not form
+Any question under a provision in the Code relating to corporate separation or arm’s-length rules is to be determined according to the nature, substance, and economic effect of the relevant interest or relationship or other facts, and independently of form.
+
 ### Subpart 4 — Monitoring and enforcement
 
 **Authority's powers and procedures**
 
-### 45 Purposes of exercise of Authority's monitoring, investigation, and enforcement powers
+### 45 Purposes of exercise of Authority's monitoring, investigation, enforcement, and review powers
 The purposes for which the powers in section 46 may be exercised are as follows:
   (a) carrying out the Authority's monitoring functions, which are to—
     (i) monitor compliance with this Act (including Part 3), the regulations, and the Code; and
     (ii) undertake and monitor the operation and effectiveness of market-facilitation measures under section 16(1)﻿(f); and
     (iii) undertake industry and market monitoring, and carry out any other function referred to in section 16(1)﻿(g):
-  (b) carrying out the Authority's function of investigating breaches or possible breaches of, and enforcing compliance with, this Part, Part 4, the regulations, and the Code.
+  (b) carrying out the Authority's function of investigating breaches or possible breaches of, and enforcing compliance with, this Part, Part 4, the regulations, and the Code:
+  (c) carrying out a review and producing a report in response to a request by the Minister under section 18.
 
-### 46 Authority's monitoring, investigation, and enforcement powers
+### 46 Authority's monitoring, investigation, enforcement, and review powers
 (1) The Authority may exercise the powers in this section only for a purpose described in section 45.
 (2) The Authority may require an industry participant to do any of the following:
   (a) provide, within any reasonable time specified by the Authority, any information, papers, recordings, and documents that are in the possession, or under the control, of the participant and that are requested for the purpose:
@@ -504,6 +573,37 @@ The purposes for which the powers in section 46 may be exercised are as follows:
 (1) The Authority may, for a purpose specified in section 45(b), authorise an employee of the Authority (an authorised person) to search, under a warrant issued under subsection (2), any place named in the warrant for the purpose of ascertaining whether an industry participant has breached, or may breach, this Part, Part 4, the regulations, or the Code.
 (2) An issuing officer (within the meaning of section 3 of the Search and Surveillance Act 2012), on an application made in the manner provided in subpart 3 of Part 4 of that Act, who is satisfied that there are reasonable grounds to believe that it is necessary, for the purpose of ascertaining whether an industry participant has breached, or may breach, this Part, Part 4, the regulations, or the Code, for an authorised person to search any place may, by warrant, authorise that person to search a place specified in the warrant.
 (3) The provisions of Part 4 of the Search and Surveillance Act 2012 (except for sections 118 and 119) apply, with any necessary modifications.
+
+### 47A Sharing of information and documents with public service agencies, statutory entities, gas industry body, and overseas regulators
+(1) The Authority may provide to a public service agency, a statutory entity, the gas industry body, or an overseas regulator any information, or a copy of any document, that the Authority—
+  (a) holds in relation to the performance or exercise of the Authority’s functions, powers, or duties under this Act or any other legislation; and
+  (b) considers may assist, as the case may be,—
+    (i) the public service agency, statutory entity, or gas industry body in the performance or exercise of its functions, powers, or duties under any legislation; or
+    (ii) the overseas regulator in the performance or exercise of the overseas regulator’s functions, powers, or duties under foreign law.
+(2) The Authority may provide information, or a copy of a document, under this section only if the Authority is satisfied that—
+  (a) doing so will not substantially affect the performance of its functions; and
+  (b) appropriate protections are or will be in place for the purpose of maintaining the confidentiality of anything provided (in particular, information that is personal information within the meaning of the Privacy Act 2020).
+(3) The Authority may use any information, or a copy of any document, in the Authority’s performance or exercise of its functions, powers, or duties under any legislation if the information or copy is provided to the Authority—
+  (a) by a public service agency, a statutory entity, or the gas industry body under any legislation; or
+  (b) by an overseas regulator.
+(4) In this section and section 47B,—
+  - **gas industry body** means the industry body within the meaning of section 43D of the Gas Act 1992
+  - **overseas regulator** means a body in another country that performs functions—
+    (a) that are related to the regulation of New Zealand’s electricity markets; or
+    (b) that otherwise correspond with, or are similar to, any of those conferred on the Authority
+  - **public service agency** has the meaning given in section 5 of the Public Service Act 2020
+  - **statutory entity** means an entity or office named in Schedule 1 of the Crown Entities Act 2004.
+(5) This section applies despite anything to the contrary in any contract, deed, or document.
+(6) Nothing in this section limits the Privacy Act 2020 or any provision of this Act or any other legislation that allows the Authority to use or disclose information (for example, under section 17 of the Crown Entities Act 2004 for the purpose of performing its functions).
+
+### 47B Authority may impose conditions on provision of information or documents
+(1) The Authority may impose any conditions in relation to providing information, or a copy of a document, to a public service agency, a statutory entity, the gas industry body, or an overseas regulator (whether provided in compliance with a request or otherwise).
+(2) The Authority must, in considering what conditions to impose, have regard to whether conditions are necessary or desirable in order to protect the privacy of any individual.
+(3) The conditions may include, without limitation, conditions relating to—
+  (a) maintaining the confidentiality of anything provided (in particular, information that is personal information within the meaning of the Privacy Act 2020):
+  (b) the storing of, the use of, or access to anything provided:
+  (c) the copying, returning, or disposing of copies of documents provided:
+  (d) payment of the costs incurred by the Authority in providing anything or in generally complying with a request.
 
 ### 48 Privileges protected
 (1) Nothing in section 46 limits any claim for legal professional privilege.
@@ -564,13 +664,15 @@ The purposes for which the powers in section 46 may be exercised are as follows:
   (a) issue a private warning or reprimand to an industry participant:
   (b) make an order that a public warning or reprimand be issued to an industry participant:
   (c) impose additional or more stringent record-keeping or reporting requirements under or in connection with the Code:
-  (d) make a pecuniary penalty order requiring an industry participant to pay a pecuniary penalty to the Crown of an amount not exceeding $200,000 (see section 56):
+  (d) make a pecuniary penalty order requiring an industry participant to pay a pecuniary penalty to the Crown of an amount not exceeding $2 million and a further amount not exceeding $10,000 for every day or part of a day during which the breach continues (see section 56):
   (e) make a compensation order requiring an industry participant to pay a sum by way of compensation to any other person:
   (f) make a compliance order requiring an industry participant that is found not to be complying with the Code to take any action that is necessary to restore it to a position of compliance (see section 57):
   (g) make orders regarding the reasonable costs of any investigations or proceedings:
   (h) recommend to the Authority that a change should be made to the Code or the regulations:
   (i) recommend to the Minister that a change should be made to the regulations or the Act.
 (2) The Rulings Panel must take into account its own previous decisions in respect of any similar situations previously dealt with by the Authority or any predecessor of the Authority.
+(3) Two or more breaches relating to one event or series of closely related events arising from the same cause or circumstance must be treated as a single breach.
+(4) The Rulings Panel may also decide to make orders regarding the reasonable costs of any investigations or proceedings on determining that an industry participant has not breached the Code.
 
 ### 55 Restrictions on remedies
 (1) The remedies that the Rulings Panel may impose under section 54 are the only remedies in respect of a breach of the Code.
@@ -593,6 +695,7 @@ The purposes for which the powers in section 46 may be exercised are as follows:
   (g) the length of time the breach remained unresolved:
   (h) the participant’s actions on learning of the breach:
   (i) any benefit that the participant obtained, or expected to obtain, as a result of the breach:
+  (ia) the impact of the penalty on the participant and on the electricity industry:
   (j) any other matters that the Rulings Panel thinks fit.
 
 ### 57 Offence to breach certain orders of Rulings Panel
@@ -638,7 +741,7 @@ There is a right of appeal to the High Court, on a question of law only, against
   (b) a pecuniary penalty order, or the amount payable under a pecuniary penalty order (section 54(1)﻿(d)):
   (c) a compensation order, or the amount payable under a compensation order (section 54(1)﻿(e)):
   (d) a compliance order (section 54(1)﻿(f)):
-  (e) a costs order (section 54(1)﻿(g)):
+  (e) a costs order (section 54(1)﻿(g) or (4)):
   (f) an order by the Rulings Panel, in relation to a particular kind of appeal or dispute, that is identified in the regulations or the Code as an order that may be appealed to the High Court under this section.
 (2) An industry participant may appeal to the High Court against a suspension order or termination order made by the Rulings Panel.
 (3) An industry participant may exercise a right of appeal under this section only if the participant is—
@@ -677,131 +780,47 @@ If an appeal is brought against any decision or order of the Rulings Panel, the 
   (d) any other matters that in the particular circumstances the court thinks fit.
 (4) The court granting leave may, in its discretion, impose any conditions that it thinks fit, whether as to costs or otherwise.
 
-## Part 3 — Separation of distribution from certain generation and retailing
+## Part 3 — Separation of distribution from certain generation
 
-### Subpart 1 — Separation of distribution from certain generation and retailing
+### Subpart 1 — Separation of distribution from certain generation
 
 **Purpose and outline of Part**
 
-### 72 Purpose and outline of this Part
-(1) The purpose of this Part is to promote competition in the electricity industry—
-  (a) by prohibiting a person who is involved in a distributor from being involved in a generator where that may create incentives and opportunities to inhibit competition in the electricity industry; and
-  (b) by restricting relationships between a distributor and a generator or a retailer, where those relationships may not otherwise be at arm's length.
-(2) In general terms, this Part imposes rules in respect of distributors as follows:
-  (a) ownership separation, if a person is involved both in a distributor and in a generator with more than 250 MW of generation directly connected to the national grid:
-  (b) corporate separation and arm's-length rules, if a person is involved both in a distributor and in either or both of—
-    (i) a generator that generates more than 50 MW of generation connected to the distributor's network:
-    (ii) a retailer that retails more than 75 GWh per year to customers connected to the distributor's network:
-  (c) use-of-systems agreement rules, if a connected retailer retails more than 5 GWh per year to customers connected to the distributor's local network:
-  (d) rules preventing persons involved in distributors from paying retailers in respect of the transfer of retail customers:
-  (e) no-discrimination rules that apply when distributors, or electricity trusts or customer co-operatives involved in distributors, pay dividends or rebates.
-(3) Subsection (2) is intended only as a guide to the general scheme and effect of this Part.
+### 72 Purpose of this Part
+The purpose of this Part is to prohibit a person who is involved in a distributor from being involved in a generator where that may create incentives and opportunities to inhibit competition in the electricity industry.
 
 **Interpretation of Part**
 
-### 73 Interpretation in this Part
-In this Part and Schedules 2 and 3, unless the context otherwise requires,—
-  - **arm’s-length rules** means the objective and rules set out in Schedule 3
-  - **assets** includes property of any kind, whether tangible or intangible, and includes rights, interests, and claims of every kind however they arise
-  - **associate** has the meaning given in clause 8 of Schedule 2
-  - **business** means any undertaking that is carried on whether for gain or reward or not
-  - **control right** has the meaning given in clause 5 of Schedule 2
-  - **customer** , in respect of a retailer, means a consumer to whom that retailer sells electricity
-  - **director** , in relation to a body corporate, means a person occupying the position of director of the body corporate by whatever name called
-  - **equity return right** has the meaning given in clause 6 of Schedule 2
-  - **financial year** means a period of 12 months ending with 31 March
-  - **involved in** has the meaning given in section 74
-  - **manager** has the meaning given in clause 10 of Schedule 2
-  - **material influence** has the meaning given in clause 7 of Schedule 2
+### 73 Ownership separation
+(1) A person who is involved in a distributor must not be involved in 1 or more generators that have a total capacity of more than 250 MW that is generated by 1 or more generating plants that are directly connected to the national grid.
+(2) To avoid doubt, generation connected to a distribution network is not directly connected to the national grid.
+(3) In this section,—
   - **nameplate** means the full-load continuous rating of a generating plant under specific conditions as designated by its manufacturer and measured in megawatts in accordance with International Electrotechnical Commission Standard 60034-1 or any successor to that standard or any recognised equivalent standard
-  - **person** includes the trustees of a trust acting in that capacity
-  - **rights** means all rights, powers, privileges, and immunities, whether actual, contingent, or prospective
-  - **subsidiary** has the meaning given in sections 5 and 6 of the Companies Act 1993
-  - **total capacity** means the total nominal capacity of a generator in a financial year (determined according to the nameplates of all of the generator's generating plants).
+  - **total capacity** means the total nominal capacity of a generator in a financial year (determined according to the nameplates of all of the generator’s generating plants).
 
 ### 74 Meaning of involved in
-(1) For the purposes of this Act, a person is involved in a distributor, a generator, or a retailer if the person—
-  (a) carries on a business that does any of those things, either alone or together with its associates and either on its own or another’s behalf; or
-  (b) exceeds the 10% threshold in respect of a business that does any of those things; or
-  (c) has material influence over a business that does any of those things.
-(2) A person exceeds the 10% threshold in respect of a business if the person—
-  (a) has more than 10% of the control rights in the business; or
-  (b) has more than 10% of the equity return rights in the business; or
-  (c) is one of 2 or more associates who, in aggregate, have more than 10% of the control rights in the business; or
-  (d) is one of 2 or more associates who, in aggregate, have more than 10% of the equity return rights in the business.
-(3) Involvement has a corresponding meaning.
-(4) This section is subject to Schedule 2.
+[Repealed]
 
 **Ownership separation**
 
 ### 75 Ownership separation
-(1) A person who is involved in a distributor must not be involved in 1 or more generators that have a total capacity of more than 250 MW that is generated by 1 or more generating plants that are directly connected to the national grid.
-(2) To avoid doubt, generation connected to a distribution network is not directly connected to the national grid.
+[Repealed]
 
 **Corporate separation and arm's-length rules**
 
 ### 76 Corporate separation and arm's-length rules applying to distributors and connected generators and connected retailers
-(1) The person or persons who carry on the business of distribution must carry on that business in a different company from the company that carries on the business of a connected generator or a connected retailer.
-(2) Every person who is involved in a distributor, and every person who is involved in a connected generator or a connected retailer, must comply, and ensure that the person's businesses comply, with the arm's-length rules.
-(3) In this section, unless the context otherwise requires,—
-  - **connected generator** , in relation to a distributor, means a generator—
-    (a) that has a total capacity of more than 50 MW of generation that is connected to any of the distributor's networks; and
-    (b) in respect of which the distributor, or any other person involved in the distributor, is involved
-  - **connected retailer** , in relation to a distributor, means a retailer—
-    (a) that is involved in retailing more than 75 GWh of electricity in a financial year to customers who are connected to any of the distributor's networks; and
-    (b) in respect of which the distributor, or any other person involved in the distributor, is involved.
+[Repealed]
 
 **Other rules**
 
 ### 77 Use-of-systems agreements
-(1) Every director of a distributor in respect of which there is a connected retailer or a connected generator must ensure that—
-  (a) the distribution business has a comprehensive, written use-of-systems agreement that provides for the supply of line function services and information to the connected retailer or connected generator (as the case may be); and
-  (b) the terms of that use-of-systems agreement do not discriminate in favour of 1 business and do not contain arrangements that include elements that the business usually omits, or omit elements that the business usually includes, in use-of-systems agreements with parties that are—
-    (i) connected or related only by the transaction or dealing in question; and
-    (ii) acting independently; and
-    (iii) each acting in its own best interests; and
-  (c) the business operates in accordance with that use-of-systems agreement; and
-  (d) the business publicises that use-of-systems agreement and provides it to the Authority.
-(2) A use-of-systems agreement required by subsection (1)﻿(a) must be entered into, in the case of a business to which the corporate separation rule does not apply, as if the distribution business and the connected retailer or connected generator were separate legal persons.
-(3) In this section, unless the context otherwise requires,—
-  - **connected generator** , in relation to a distributor, means a generator—
-    (a) that has a total capacity of more than 10 MW of generation that is connected to any of the distributor's networks; and
-    (b) in respect of which the distributor, or any other person involved in the distributor, is involved
-  - **connected retailer** , in relation to a distributor, means a retailer—
-    (a) that is involved in retailing more than 5 GWh of electricity on the distributor's local network in a financial year to customers who are connected to that network; and
-    (b) in respect of which the distributor, or any other person involved in the distributor, is involved
-  - **local network** means a network operated by a distributor in a contiguous geographic area or areas.
-(4) The directors of the distributor must ensure that there is also publicised, and provided to the Authority, a certificate signed by those directors stating whether or not, in the preceding calendar year,—
-  (a) the terms in the use-of-systems agreement are a true and fair view of the terms on which line function services and information were supplied in respect of the retailing or generating to which the agreement relates during that year; and
-  (b) this section was otherwise fully complied with during that year.
-(5) Every director commits an offence who—
-  (a) refuses or knowingly fails to comply with this section; or
-  (b) allows a use-of-systems agreement or a certificate to be publicised or provided to the Authority knowing that it is false or misleading in a material particular.
-(6) Every director who commits an offence under subsection (5) is liable on conviction to a fine not exceeding $200,000.
+[Repealed]
 
 ### 78 Person involved in distributor must not pay for transfer of retail customers to connected retailers
-(1) A distributor, and any other person listed in subsection (2), must not pay, or offer to pay, any consideration to a retailer in respect of the transfer to a connected retailer of any retail customers who are connected to the distributor’s networks.
-(2) The persons are—
-  (a) the distributor or any other person involved in the distributor:
-  (b) a connected generator in respect of the distributor or any other person involved in the connected generator:
-  (c) a connected retailer in respect of the distributor or any other person involved in the connected retailer.
-(3) In this section, connected retailer and connected generator have the same meaning as in section 77.
-(4) To avoid doubt, subsection (1) includes a prohibition on—
-  (a) any agreement to acquire the assets or voting securities of another retailer (regardless of whether any, or only nominal, consideration is attributed to customers) as a result of which there is a transfer of responsibility for retailing electricity to customers; and
-  (b) any consideration that is directly or indirectly or in whole or in part in respect of the transfer of any of another retailer's customers or customer accounts.
-(5) Every person commits an offence who knowingly fails to comply with this section and is liable on conviction to a fine not exceeding $500,000.
+[Repealed]
 
 ### 79 No discrimination when paying rebates or dividends
-(1) This section applies if a distributor has a connected retailer.
-(2) Every person listed in subsection (3) must ensure that any rebates or dividends or other similar payments paid do not discriminate between—
-  (a) customers of the connected retailer; and
-  (b) customers of other retailers where those customers are connected to the distributor's networks.
-(3) The persons are—
-  (a) the directors of the distributor:
-  (b) the trustees of any customer trust or community trust that is involved in the distributor and the connected retailer:
-  (c) the directors of any customer co-operative that is involved in the distributor and the connected retailer.
-(4) In this section, connected retailer has the same meaning as in section 77.
-(5) Every director and trustee commits an offence who knowingly fails to comply with this section and is liable on conviction to a fine not exceeding $200,000.
+[Repealed]
 
 ### Subpart 2 — Enforcement and general provisions
 
@@ -814,7 +833,7 @@ In this Part and Schedules 2 and 3, unless the context otherwise requires,—
   (a) $10 million; or
   (b) either,—
     (i) if it can be readily ascertained and if the court is satisfied that the contravention occurred in the course of producing a commercial gain, 3 times the value of any commercial gain resulting from the contravention; or
-    (ii) if the commercial gain cannot be readily ascertained, 10% of the turnover of the body corporate and all of its interconnected bodies corporate (within the meaning of the Commerce Act 1986 and section 92) (if any).
+    (ii) if the commercial gain cannot be readily ascertained, 10% of the turnover of the body corporate and all of its interconnected bodies corporate (within the meaning of the Commerce Act 1986) (if any).
 (4) In any proceedings under this section for a pecuniary penalty, the standard of proof is the standard of proof applying in civil proceedings.
 (5) In determining whether to make a pecuniary penalty order and, if so, the amount of the order, the court must have regard to all relevant matters, including—
   (a) the nature and extent of the act or omission:
@@ -852,7 +871,7 @@ The following provisions of the Commerce Act 1986 apply for the purpose of the e
   (c) section 88A (when undertaking as to damages not required by Authority):
   (d) section 89 (other orders):
   (e) section 90 (conduct by servants or agents):
-  (f) Part 7 (except sections 98H, 99A, 104, 105, 106, 108, 110, and 111).
+  (f) Part 7 (except sections 98H, 99AA to 99P, 104, 105, 106, 108, 110, and 111).
 
 ### 86 Additional proceedings
 Proceedings brought under this Part are in addition to any proceedings brought under any other Act.
@@ -860,27 +879,15 @@ Proceedings brought under this Part are in addition to any proceedings brought u
 **Territorial application of this Part**
 
 ### 87 Application to persons outside New Zealand
-This Part extends to persons outside New Zealand who are involved in a distributor, generator, or retailer in New Zealand.
+This Part extends to persons outside New Zealand who are involved in a distributor or generator in New Zealand.
 
 **Disclosure and reporting to Authority**
 
 ### 88 Disclosure of information to Authority
-(1) Each director of a distributor referred to in section 77(1) (use-of-system agreements) must ensure that the distributor discloses the quantity of electricity sold each financial year by connected retailers to customers who are connected to its local network (within the meanings in that section).
-(2) The disclosure must be made in a statement to the Authority within 2 months after the end of the financial year.
-(3) The statement must be in the form prescribed by the Authority from time to time.
-(4) The statement must be publicised by the Authority and the distributor.
-(5) Every director commits an offence who—
-  (a) refuses or knowingly fails to comply with this section; or
-  (b) provides the statement to the Authority knowing that it is false or misleading in a material particular.
-(6) Every director who commits an offence under subsection (5) is liable on conviction to a fine not exceeding $200,000.
+[Repealed]
 
 ### 89 Directors must report compliance with arm’s-length rules
-(1) Each director of a business to which the arm’s-length rules apply must provide to the Authority, no later than 31 March in each year, a statement confirming whether or not the director has complied with all of the arm’s-length rules during the preceding calendar year.
-(2) The directors and the Authority must ensure that the statement is publicised.
-(3) Every director commits an offence who—
-  (a) refuses or knowingly fails to comply with this section; or
-  (b) provides the statement to the Authority knowing that it is false or misleading in a material particular.
-(4) Every person who commits an offence under subsection (3) is liable on conviction to a fine not exceeding $200,000.
+[Repealed]
 
 **Exemptions**
 
@@ -890,7 +897,7 @@ This Part extends to persons outside New Zealand who are involved in a distribut
   (b) any person from compliance with any provisions of this Part.
 (2) The Authority may grant an exemption only if it is satisfied that—
   (a) the exemption will either promote, or not inhibit, competition in the electricity industry; and
-  (b) the exemption will not permit an involvement in a distributor and a generator or a retailer that may create incentives and opportunities to inhibit competition in the electricity industry.
+  (b) the exemption will not permit an involvement in a distributor and a generator that may create incentives and opportunities to inhibit competition in the electricity industry.
 (3) The exemption takes effect from the date specified in the exemption (which may not be earlier than the date of the Gazette notice).
 (4) The Authority may grant an exemption on any terms and conditions that it reasonably considers are necessary to give effect to the purpose of this Part.
 (5) The Authority may in like manner vary or revoke any such exemption.
@@ -900,18 +907,17 @@ This Part extends to persons outside New Zealand who are involved in a distribut
 **Application of other Acts**
 
 ### 91 Application of Commerce Act 1986
-Except as provided in section 92, nothing in this Part overrides or limits the provisions of the Commerce Act 1986.
+Nothing in this Part overrides or limits the provisions of the Commerce Act 1986.
 
 ### 92 Not interconnected under Commerce Act 1986
-(1) For the purposes of Part 2 of the Commerce Act 1986, businesses to which section 76 (corporate separation and arm’s-length rules) applies are deemed to be separate bodies corporate that are not interconnected, despite the fact that they may have a common owner.
-(2) Subsection (1) applies despite section 2(7) of the Commerce Act 1986.
+[Repealed]
 
 ### 93 Illegal contracts
 (1) An agreement lawfully entered into does not become illegal or unenforceable by any party by reason of the fact that its performance is in breach of a provision of this Part.
 (2) An agreement entered into in breach of a provision of this Part is voidable at the option of any party to the agreement who is not in breach of a provision of this Part by notice in writing to the other party to the agreement at any time within 1 month after the innocent party has notice that the agreement is in breach of a provision of this Part.
 
 ### 94 Substance matters, not form
-Any question under this Part or Schedule 2 or 3 is to be determined according to the nature, substance, and economic effect of the interest or relationship or other facts, and independently of form.
+Any question under this Part or Schedule 2 is to be determined according to the nature, substance, and economic effect of the interest or relationship or other facts, and independently of form.
 
 ## Part 4 — Industry participants and consumers
 
@@ -940,7 +946,7 @@ The dispute resolution scheme may resolve disputes between members of the disput
 (5) The Minister of Consumer Affairs may amend or revoke an individual exemption, by issuing a notice in the Gazette that identifies the exempt participant and gives reasons for the amendment or revocation, but only if the Minister—
   (a) has given notice of the proposed amendment or revocation to the exempt person (where possible) and given the person a reasonable opportunity to comment on the proposal; and
   (b) is satisfied that the amendment or revocation is necessary or desirable in order to meet the purpose of the dispute resolution scheme.
-(6) To avoid doubt, an individual exemption notice issued under subsection (3)﻿(b) is not a regulation for any purpose.
+(6)
 (7) The Ministry must publicise a list of all current class and individual exemptions.
 
 ### 97 Compliance with rules and binding settlements
@@ -986,6 +992,7 @@ The trustees of a customer trust and the trustees of a community trust must, wit
 (2) Every beneficiary has 1 vote.
 (3) The quorum for the annual meeting is 20 beneficiaries.
 (4) No business may be transacted at the annual meeting if a quorum is not present.
+(5) Beneficiaries may attend and vote at an annual meeting in person or, subject to the approval of the trustees, by audio link, audiovisual link, or other remote access facility.
 
 ### 103 Auditor-General to be auditor if no other auditor appointed
 (1) If no auditor is appointed in accordance with section 101(1) or a casual vacancy in the office of auditor is not filled within 1 month after the vacancy occurring in accordance with section 101(2), the Auditor-General must be the auditor of a customer trust or community trust.
@@ -1046,7 +1053,7 @@ The trustees of a customer trust and the trustees of a community trust must, wit
   (a) obligations under this Act, the regulations, and the Code:
   (b) obligations under the Electricity Act 1992 and any regulation made under that Act.
 (2) However, regulations made under section 113 about low fixed charge tariff options do not apply to a distributor in respect of consumers to whom the distributor supplies electricity from an alternative source.
-(3) If a distributor, during a trial or transition in the course of complying with section 105(2), both supplies a place with line function services that connect the place to a network and, at the same time, supplies the place with electricity from an alternative source, the distributor is not to be treated as thereby being involved in generation or retailing for the purposes of Part 3.
+(3) If a distributor, during a trial or transition in the course of complying with section 105(2), both supplies a place with line function services that connect the place to a network and, at the same time, supplies the place with electricity from an alternative source, the distributor is not to be treated as thereby being involved in generation or retailing for the purposes of Part 3 or the Code.
 (4) For the purposes of subpart 9 of Part 4 of the Commerce Act 1986, the Commerce Commission must treat the costs of providing electricity to a place from an alternative source, and any cost arising in respect of a place from an agreement under section 106(1)﻿(a), as if the costs were the cost of providing electricity lines services (as defined in section 54C of the Commerce Act 1986).
 
 ## Part 5 — Miscellaneous
@@ -1056,7 +1063,13 @@ The trustees of a customer trust and the trustees of a community trust must, wit
 ### 109 Regulations identifying industry participants and market operation service provider roles
 (1) The Governor-General may, by Order in Council made on the recommendation of the Minister, given after consulting the Authority, make regulations for the following purposes:
   (a) identifying which industry service providers, in addition to those listed in section 7(2), are industry participants:
+  (ab) identifying which other persons whose activities or roles in the electricity industry are material to the Authority’s objectives under section 15 are industry participants:
   (b) identifying market operation service provider roles that are additional to those listed in the definition of market operation service provider in section 5.
+(1A) The Minister may make a recommendation for the purpose of subsection (1)﻿(ab) only if the Minister is satisfied—
+  (a) that affected persons have been given notice of the proposed recommendation and a reasonable opportunity to comment on the recommendation; and
+  (b) that it is necessary or desirable, for the purpose of achieving the Authority’s objectives under section 15, for the proposed recommendation to be made; and
+  (c) that the advantages and disadvantages of the proposed recommendation have been considered.
+(1B) Regulations under subsection (1)﻿(ab) may identify whether the persons are industry participants for the purposes only of some of this Act, the regulations, or the Code, but if not, the persons are industry participants for all purposes.
 (2) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 110 Class exemptions relating to registration and Code compliance
@@ -1091,13 +1104,13 @@ The trustees of a customer trust and the trustees of a community trust must, wit
 ### 113 Regulations about tariffs and other consumer issues
 (1) The Governor-General may, by Order in Council made on the recommendation of the Minister given after the consultation referred to in subsection (4), make regulations for the purpose of—
   (a) regulating the type of tariffs for fixed and other charges that must or may be offered to domestic consumers; and
-  (b) promoting the fair treatment by distributors and retailers of domestic consumers and small businesses; and
+  (b) promoting the fair treatment by distributors and retailers of domestic consumers and small business consumers; and
   (c) enabling the protection of rural consumers, and consumers supplied with electricity from an alternative source under section 105, from unfair rates of change in the prices charged to them.
 (2) Regulations made under subsection (1) may, without limitation, do any of the following:
   (a) require low fixed charge tariff options to be made available to consumers who use less than a prescribed amount of electricity, and impose requirements (including amounts, or ways of calculating amounts) on industry participants in order to ensure that those tariffs result in a benefit to domestic consumers who opt for them:
   (b) provide for regional variations in the application of the regulations relating to low fixed charge tariff options:
   (c) require distributors or retailers, or both, to provide information relating to the types of tariffs offered to consumers, including to low fixed charge tariffs:
-  (d) regulate distributors’ and retailers’ dealings with domestic consumers and small businesses, including requiring distributors and retailers to comply with any policies, practices, procedures, guidelines, or model contracts or clauses in contracts, that are set out or referred to in the regulations:
+  (d) regulate distributors’ and retailers’ dealings with domestic consumers and small business consumers, including requiring distributors and retailers to comply with any policies, practices, procedures, guidelines, or model contracts or clauses in contracts, that are set out or referred to in the regulations:
   (e) regulate the rate of change in the prices charged by distributors to rural consumers on a network as compared with the rate of change in the prices charged to comparable non-rural consumers on the same network:
   (f) regulate the rate of change in the prices charged to consumers supplied with electricity from an alternative source under section 105:
   (g) provide for offences, punishable on conviction by a fine prescribed by the regulations but not exceeding $100,000, for breaching any regulation made under this section.
@@ -1105,12 +1118,14 @@ The trustees of a customer trust and the trustees of a community trust must, wit
 (4) Before recommending an Order in Council under this section, the Minister must—
   (a) consult with the Minister of Consumer Affairs; and
   (b) obtain and consider advice from the Authority on the impact of the proposed Order in Council on the promotion of competition in, the reliable supply by, and the efficient operation of, the electricity industry.
-(5) In this section,—
-  - **rural consumer** means a consumer in a sparsely populated area
-  - **small business** means a non-domestic consumer that consumes less than 40 MWh per year.
-(6) If any material is incorporated by reference in the regulations, Schedule 1 applies.
+(5) In this section, rural consumer means a consumer in a sparsely populated area.
+(6)
 (7) The Electricity (Low Fixed Charge Tariff Option for Domestic Consumers) Regulations 2004 are deemed to have been made under this section.
 (8) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+
+### 113A Regulations about small business consumers
+(1) The Governor-General may, by Order in Council made on the recommendation of the Minister, make regulations specifying a class of consumers that are not domestic consumers as small business consumers.
+(2) Regulations made under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 114 Regulations promoting accountability in customer trusts and community trusts
 (1) The Governor-General may, by Order in Council made on the recommendation of the Minister, make regulations for the purpose of promoting the accountability of customer trusts and community trusts.
@@ -1119,7 +1134,7 @@ The trustees of a customer trust and the trustees of a community trust must, wit
   (b) specify procedures concerning requests by beneficiaries for information from trusts and trustees, responses to such requests, and rights to review responses:
   (c) require trustees to hold meetings for beneficiaries, and regulate the practices and procedures associated with those meetings.
 (3) Regulations made under this section may include provisions necessary or desirable for monitoring and enforcing compliance with the regulations, including making it an offence, punishable by a fine not exceeding $10,000, to fail to comply with a requirement of the regulations.
-(4) If any material is incorporated by reference in the regulations, Schedule 1 applies.
+(4)
 (5) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 115 General regulation-making power
@@ -1270,6 +1285,7 @@ The purposes of sections 121 to 126 are—
   (d) the costs incurred by the Crown before 1 May 2014 in promoting to customers the benefits of comparing and switching retailers, subject to both of the following limits:
     (i) a limit of $5 million per financial year; and
     (ii) an overall limit of $15 million for the period commencing on 1 November 2010 and ending with 30 April 2014; and
+  (da) the costs incurred by the person or persons performing the function of the Small Electricity Consumers Agency, or a portion of those costs, where the size of the portion to be met by levies under this Act is determined by the Minister; and
   (e) the costs of the Rulings Panel; and
   (f) the costs of establishing and operating any regulated dispute resolution scheme in respect of the electricity industry under Schedule 4; and
   (g) the costs incurred by the Crown in relation to developing and publishing regional electricity supply and demand forecasts and scenarios, and related information and analysis, for the purpose of assisting investment planning by industry participants; and
@@ -1309,6 +1325,13 @@ The purposes of sections 121 to 126 are—
 (2) The Energy Efficiency and Conservation Authority must, at the time when the request is submitted, report to the Minister on the outcome of that consultation.
 (3) This section applies to requests in respect of the financial year beginning 1 July 2018 and later financial years.
 
+### 129B Small Electricity Consumers Agency consultation about request for appropriation
+(1) The Small Electricity Consumers Agency must, before submitting a request to the Minister seeking an appropriation of public money for the following year, or any change to an appropriation for the current year, that relates to costs that are intended to be recovered by way of levies under section 128(3)﻿(da), consult the following about that request:
+  (a) those industry participants who are liable to pay a levy under that section:
+  (b) any other representatives of persons whom the Small Electricity Consumers Agency believes would be significantly affected by a levy under that section.
+(2) The Small Electricity Consumers Agency must, when it submits the request, report to the Minister on the outcome of that consultation.
+(3) This section applies to requests in respect of the financial year beginning 1 July 2021 and later financial years.
+
 **Specific authorisations for purposes of Commerce Act 1986**
 
 ### 130 Specific authorisations for purposes of Commerce Act 1986
@@ -1339,6 +1362,18 @@ No claim for damages may be made against a distributor or the owner of the natio
   - **secondary network provider** means a business that—
     (a) is engaged in the conveyance of electricity on a secondary network; and
     (b) provides services that are substantially similar to the services provided by a distributor.
+
+### Subpart 2B — Material incorporated by reference
+
+### 131B Material incorporated by reference
+(1) This section applies for the purposes of section 66(2)﻿(b) of the Legislation Act 2019.
+(2) If material incorporated by reference in secondary legislation made under this Act is amended or replaced by the originator of the material after the secondary legislation is made, legal effect may be given to that amendment or replacement material if—
+  (a) the amendment or replacement material is of the same general character as the original material; and
+  (b) the maker of the secondary legislation issues a notice to adopt the amendment or replacement material as having legal effect as part of the secondary legislation.
+(3) If material incorporated by reference in secondary legislation made under this Act expires, is revoked, or otherwise ceases to have effect, the material ceases to have legal effect as part of the secondary legislation if the maker of the secondary legislation issues a notice stating that the material ceases to have that legal effect.
+(4) A notice issued under subsection (2)﻿(b) or (3) must be published in the Gazette and publicised by the maker of the secondary legislation.
+(5) This section does not limit section 66(2)﻿(a) of the Legislation Act 2019.
+(6) In this section, material has the meaning given in section 63 of the Legislation Act 2019.
 
 ### Subpart 3 — Transitional and consequential provisions
 
@@ -1425,7 +1460,13 @@ On and after the commencement date, every reference in a document (other than an
 (3) However, the only penalties that may be imposed in relation to a matter that arose, or events that occurred, before the commencement date are the penalties that could have been imposed at the time that the matter arose or events occurred.
 
 ### 140 References to Electricity Governance Rules 2003 and certain regulations
-Unless the context otherwise requires, a reference in any agreement, contract, or other document to the Electricity Governance Rules 2003 or to any provision of those rules, or to the regulations listed in section 34(1) or any provision of those regulations, must be read as a reference to the Code or to the corresponding provision of the Code, as the case requires.
+(1) Unless the context otherwise requires, a reference in any agreement, contract, or other document to the Electricity Governance Rules 2003 or to any provision of those rules, or to the regulations listed in subsection (2) or any provision of those regulations, must be read as a reference to the Code or to the corresponding provision of the Code, as the case requires.
+(2) The regulations are as follows:
+  (a) the Electricity Governance Rules made under section 172H of the Electricity Act 1992:
+  (b) subpart 2 of Part 1 and Parts 2, 2A, and 3 of the Electricity Governance Regulations 2003:
+  (c) subpart 2 of Part 10 of the Electricity Governance Regulations 2003 (the Comalco agreements exemptions):
+  (d) the Electricity Governance (Security of Supply) Regulations 2008:
+  (e) the Electricity Governance (Connection of Distributed Generation) Regulations 2007.
 
 **Rulings Panel**
 
@@ -1634,68 +1675,72 @@ The Electricity Industry Reform Act 1998 (1998 No 88) is repealed.
 ### 166 Amendments to other enactments
 The enactments specified in Schedule 6 are consequentially amended in the manner set out in that schedule.
 
-## Schedule 1 — Material incorporated by reference
+## Schedule 1 — Transitional, savings, and related provisions
 
-### 1 Definitions
-In this schedule, unless the context otherwise requires,—
-  - **Agency** means the Authority or the Ministry, as the case requires
-  - **main document** means the Code or regulations made under section 113 or 114, as the case requires
-  - **material** means written material set out in a document other than the main document
-  - **responsible person** means the chairperson of the Authority or the chief executive of the Ministry, as the case requires.
+### Part 1 — Provisions relating to Electricity Industry Amendment Act 2022
 
-### 2 Material incorporated by reference into main document
-(1) Material may be incorporated by reference into the main document only if—
-  (a) the material deals with technical matters; and
-  (b) in the opinion of the Agency,—
-    (i) the material is too long to publish in the main document; or
-    (ii) it is otherwise impractical to publish the material in the main document.
-(2) Material may be incorporated by reference into the main document—
-  (a) in whole or in part; and
-  (b) with any modifications, additions, or variations specified in the main document.
-(3) Material incorporated by reference—
-  (a) is the material as it exists at the time the relevant provision of the main document is published; and
-  (b) has legal effect as part of the main document for all purposes, except as provided in clauses 7 and 8.
+### 1 Interpretation
+In this Part,—
+  - **amendment Act** means the Electricity Industry Amendment Act 2022
+  - **commencement date** means the day after the date on which the amendment Act receives the Royal assent.
 
-### 3 Proof of material incorporated by reference
-(1) A copy of any material incorporated by reference into the main document must be—
-  (a) certified by the responsible person as a correct copy of the material; and
-  (b) retained by the Agency.
-(2) The production in proceedings of a certified copy of the material is, in the absence of evidence to the contrary, sufficient evidence of the incorporation of the material into the main document.
+### 2 Existing material incorporated by reference
+(1) This clause applies in relation to any written material that was, immediately before the commencement date, incorporated by reference into—
+  (a) the Code; or
+  (b) regulations made under section 113 or 114.
+(2) On and from the commencement date, the material must be treated as having been incorporated by reference in accordance with section 64 of the Legislation Act 2019.
 
-### 4 Access to material incorporated by reference
-(1) The Agency must make copies of all material incorporated by reference publicly available, and must give notice in the Gazette of how the material is available for inspection and purchase.
-(2) Subclause (1) applies to material when it is first incorporated into the main document, and to any subsequent amendment or replacement of the material that is incorporated into the main document.
-(3) A failure to comply with this clause does not invalidate the main document or any part of it.
+### 3 Existing exemptions granted under section 11
+An exemption granted by the Authority under section 11 that was in force immediately before the commencement date—
+  (a) continues in effect until it is amended or revoked under section 11(4), or until it expires according to its terms; and
+  (b) must not be treated as an exemption from any provision in the Code relating to corporate separation or arm’s-length rules (as defined in section 44C); and
+  (c) must, on and from the commencement date, be treated as having been made under section 11 as replaced by the amendment Act.
 
-### 5 Power to give effect to amendments to, or replacements of, material
-(1) Legal effect may be given to an amendment to, or replacement of, material incorporated by reference into the main document if—
-  (a) the amendment or replacement material is made by the person or organisation that made the original material; and
-  (b) the amendment or replacement material is of the same general character as the original material; and
-  (c) the Agency, by notice, adopts the amendment or replacement material as having legal effect as part of the main document.
-(2) A notice under subclause (1)﻿(c) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+### 4 Existing exemptions granted under section 90
+(1) This clause applies to an exemption granted by the Authority under section 90 and in force immediately before the commencement date, if it is an exemption from the obligation to comply with any of the following sections:
+  (a) section 76 (corporate separation and arm’s-length rules applying to distributors and connected generators and connected retailers):
+  (b) section 77 (use-of-systems agreements):
+  (c) section 79 (no discrimination when paying rebates or dividends):
+  (d) section 88 (disclosure of information to Authority):
+  (e) section 89 (directors must report compliance with arm’s-length rules).
+(2) On and from the commencement date, the exemption—
+  (a) must be treated as an exemption made under section 11 (as replaced by the amendment Act) from the obligation to comply with the equivalent provision in the Code; and
+  (b) continues in force until it is amended or revoked under section 11(4), or until it expires according to its terms.
 
-### 6 Effect of expiry of material incorporated by reference
-(1) Material incorporated by reference into the main document that expires, is revoked, or ceases to have effect, ceases to have legal effect as part of the main document only if—
-  (a) an amendment to the main document states that the material ceases to have that legal effect; or
-  (b) the Agency, by notice, states that the material ceases to have that legal effect.
-(2) A notice under subclause (1)﻿(b) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+### 5 Applications for exemptions received before commencement date
+(1) An application for an exemption made under section 11 or 90 that is received (but not granted) by the Authority before the commencement date must be considered under the relevant section as if the amendment Act had not been enacted.
+(2) If the application is granted by the Authority and is an exemption of a type described in subclause (3), it must be treated, after it comes into effect, as having been made under section 11 as inserted by the amendment Act.
+(3) For the purposes of subclause (2), the relevant exemptions are as follows:
+  (a) exemptions under section 11:
+  (b) exemptions under section 90(1) that are exemptions from the obligation to comply with any of the following sections:
+    (i) section 76 (corporate separation and arm’s-length rules applying to distributors and connected generators and connected retailers):
+    (ii) section 77 (use-of-systems agreements):
+    (iii) section 79 (no discrimination when paying rebates or dividends):
+    (iv) section 88 (disclosure of information to Authority):
+    (v) section 89 (directors must report compliance with arm’s-length rules).
 
-### 7 Application of Legislation Act 2019
-(1) Subpart 1 of Part 3 and section 114 of the Legislation Act 2019 do not apply to material incorporated by reference into the main document, or to any amendment to, or replacement of, the material.
-(2)
+### 6 Regulations regarding Small Electricity Consumers Agency
+Regulations made under section 128(3)﻿(da) may provide for the recovery of costs incurred in the year ending 30 June 2022, even if the regulations come into effect after that date.
+
+### 7 References to Authority’s objectives
+(1) This clause applies before the commencement of section 10 of the amendment Act.
+(2) A reference in this Act to the Authority’s objectives under section 15 must be read as a reference to the objective set out in section 15 before the commencement of section 10 of the amendment Act.
 
 ### 8 Application of Regulations (Disallowance) Act 1989
 [Repealed]
 
-## Schedule 2 — When person is involved in distributor, generator, or retailer for purposes of Part 3
+## Schedule 2 — When person is involved in industry participant for purposes of section 6A
 
 ### 1 Purpose of this schedule
 The purpose of this schedule is—
-  (a) to exclude certain interests from the application of the separation rules in Part 3; and
-  (b) to help in interpreting those rules.
+  (a) to exclude certain interests from the application of Code provisions imposed under section 32(3) and (4); and
+  (b) to exclude certain interests from the application of the ownership separation rule in section 73; and
+  (c) to help in interpreting—
+    (i) any Code provisions referred to in paragraph (a); and
+    (ii) section 73.
 
-### 2 Interests in distributors that are too small to count for purposes of Part 3
-No account is to be taken, for the purpose of determining under Part 3 whether a person is involved in a distributor, of any of the following:
+### 2 Interests in distributors that are too small to count for purposes of section 6A
+No account is to be taken, for the purpose of determining under section 6A whether a person is involved in a distributor, of any of the following:
   (a) lines that are not connected, directly or indirectly, to the national grid (for example, certain lines in Haast, the Chatham Islands, and Stewart Island):
   (b) the conveyance of electricity only from a generator to the national grid or from the national grid to a generator:
   (c) the conveyance of less than 5 GWh per financial year:
@@ -1703,8 +1748,8 @@ No account is to be taken, for the purpose of determining under Part 3 whether a
   (e) the conveyance of electricity (other than via the national grid) only from a generator to a network or from a network to a generator:
   (f) the conveyance of electricity mostly in competition with another line or lines operated by another electricity business that is not an associate of a person who is involved in the first line, provided that the competition is actual competition and not potential competition.
 
-### 3 Interests in generators that are too small to count for purposes of Part 3
-No account is to be taken, for the purpose of determining under Part 3 whether a person is involved in a generator, of any of the following interests:
+### 3 Interests in generators that are too small to count for purposes of section 6A
+(1) No account is to be taken, for the purpose of determining under section 6A whether a person is involved in a generator, of any of the following interests:
   (a) an interest in an irrigation scheme, where—
     (i) that scheme is physically connected to a generator or core generation assets and was built and is operated primarily for the purpose of irrigation; and
     (ii) that person does not hold, through the person's interest in the scheme, any equity return rights or control rights in, or manage or operate, the generator or core generation assets; or
@@ -1712,10 +1757,11 @@ No account is to be taken, for the purpose of determining under Part 3 whether a
     (i) the geothermal plant was commissioned between 1 January 1998 and 1 January 2009, and is currently owned by the person that commissioned it; and
     (ii) the output from the geothermal plant is less than 12 MW (determined according to nameplate); or
   (c) the generation of electricity that does not have a total annual nominal capacity greater than 5 GWh per year (determined according to nameplate).
+(2) In this clause, nameplate has the meaning given in section 73(3).
 
-### 4 Other interests that are not counted for purposes of Part 3
-(1) No account is to be taken, for the purposes of Part 3, of a person's business or involvement if—
-  (a) the business or involvement is exempted by the Authority under section 90; or
+### 4 Other interests that are not counted for purposes of section 6A
+(1) No account is to be taken, for the purposes of section 6A, of a person's business or involvement if—
+  (a) the business or involvement is exempted by the Authority under section 90, or section 11, if the exemption under section 11 is an exemption from a Code provision that relates to corporate separation or arm’s-length rules (as defined in section 44C); or
   (b) the ordinary business of the person consists of, or includes, the lending of money, and that person has the involvement only as security given for a loan or guarantee of a loan entered into in the ordinary course of the business of that person or as a result of enforcing that security; or
   (c) that person is authorised to undertake trading activities on a licensed market (within the meaning of section 6(1) of the Financial Markets Conduct Act 2013) and has the involvement by reason only of acting for another person to acquire or dispose of a financial product on behalf of the other person in the ordinary course of business of carrying out those trading activities; or
   (d) that person—
@@ -1763,7 +1809,7 @@ No account is to be taken, for the purpose of determining under Part 3 whether a
   (h) a person that, under a trust or agreement (whether or not the person is a party to it), may at any time have any of the powers referred to in paragraphs (c) to (f).
 (2) Where a person has material influence over a business under this clause, and another person has any of the powers or controls referred to in subclause (1)﻿(c) to (h) in relation to the first person or the majority of its directors or managers, then that other person is deemed also to have material influence over the business, and so on.
 (3) A person is deemed to have material influence over a business if the person is 1 of 2 or more associates who, together, have material influence over the business.
-(4) Subclause (3) does not apply to deem a person to have material influence over a business only because that person is, under clause 8(1)﻿(b), an associate of another person, provided those associates act in accordance with the arm’s-length rules (with all necessary modifications) in respect of the business.
+(4) Subclause (3) does not apply to deem a person to have material influence over a business only because that person is, under clause 8(1)﻿(b), an associate of another person, provided those associates act in accordance with the Code provisions (if any) relating to arm’s-length rules (as defined in section 44C) in respect of the business.
 (5) To avoid doubt, a power to cast 1 of many votes at an election of trustees or councillors does not, of itself, constitute material influence.
 
 ### 8 Meaning of associate
@@ -1784,7 +1830,7 @@ No account is to be taken, for the purpose of determining under Part 3 whether a
 (2) References in subclause (1)﻿(e) to (h) to a company or business relate to a company or business in respect of which a connection with a business is relevant.
 
 ### 9 Substance matters, not form, for purposes of determining level of involvement
-(1) Without limiting section 74, a person may be involved in a business, or be an associate or agent, regardless of whether a right, influence, power, obligation, or agreement is—
+(1) Without limiting section 6A, a person may be involved in a business, or be an associate or agent, regardless of whether a right, influence, power, obligation, or agreement is—
   (a) expressed or implied:
   (b) direct or indirect:
   (c) legally enforceable:
@@ -1796,20 +1842,12 @@ No account is to be taken, for the purpose of determining under Part 3 whether a
 (2) A power, influence, or ability exercisable jointly with another person or persons is deemed to be exercisable by either or any of those persons.
 (3) A reference to a power or obligation includes a reference to a power, influence, ability, or requirement that arises from, or is capable of being exercised or required as a result of, a breach of any trust or agreement whether or not it is legally enforceable.
 
-### 10 Other interpretation for purposes of separation rules
-For the purposes of Part 3, this schedule, and Schedule 3, unless the context otherwise requires,—
+### 10 Other interpretation rules
+For the purposes of section 6A and this schedule, unless the context otherwise requires,—
   - **agreement** includes a deed, a contract, an agreement, an arrangement, and an understanding, whether oral or written, express or implied, and whether or not enforceable at law
   - **expectancy** means, in relation to a business or any other person,—
     (a) an expectancy or a contingent or unvested right to equity returns of the business or person; or
-    (b) a right to equity returns of the business or person which does not confer on the holder a certain or defined share of the equity returns available to all or to any class of persons having equity return rights in the business or person
-  - **manager** , in relation to a person,—
-    (a) means a person who, whether alone or jointly with any other person, manages, or directs or supervises the management of, the whole or a substantial part of the business and affairs of the person; and
-    (b) includes, to avoid doubt,—
-      (i) in relation to a trust, a trustee:
-      (ii) in relation to a local authority, a member; but
-    (c) does not include,—
-      (i) in relation to a body corporate, a director of that body corporate:
-      (ii) in relation to a business in which a local authority or any other person has an interest, a member of that local authority or manager of that person only as a result of that person having that position.
+    (b) a right to equity returns of the business or person which does not confer on the holder a certain or defined share of the equity returns available to all or to any class of persons having equity return rights in the business or person.
 
 ### 11 Exclusions, etc, are cumulative
 In relation to this schedule,—
@@ -1819,125 +1857,19 @@ In relation to this schedule,—
 ## Schedule 3 — Arm's-length rules
 
 ### 1 Objective
-(1) The objective of this schedule is to ensure that businesses to which section 76 apply operate at arm's length.
-(2) Without limiting the ordinary meaning of the expression, arm's length includes having relationships, dealings, and transactions that—if the parties were—
-  (a) do not include elements that parties in their respective positions would usually omit; and
-  (b) do not omit elements that parties in their respective positions would usually include,—
-  (c) connected or related only by the transaction or dealing in question; and
-  (d) acting independently; and
-  (e) each acting in its own best interests.
+[Repealed]
 
 ### 2 Interpretation
-(1) In this schedule,—
-  - **business A** means a business that is required to be carried out in 1 company under section 76 and the term then refers to a business that is required to be carried out in another company under that section
-  - **common parent** , in relation to business A and business B, means a person that is involved in both business A and business B
-  - **electricity trust** means a community trust or a customer trust or a customer co-operative
-  - **parent** , in relation to a business, means every person that is involved in the business.
-(2) In this schedule, a person is interested in a transaction if the person, or an associate of that person,—
-  (a) is a party to, or will derive a material financial benefit from, the transaction; or
-  (b) has a material financial interest in a party to the transaction; or
-  (c) is a director or manager of a party to, or a person who will or may derive a material financial benefit from, the transaction; or
-  (d) is otherwise directly or indirectly materially interested in the transaction.
-(3) Where this schedule applies to business A, it applies equally to business B, and vice versa.
-(4) References to trust A and trust B have corresponding meanings and application.
+[Repealed]
 
 ### 3 Arm's-length rules
-The arm's-length rules are as follows:
-
-**Duty to ensure arm's-length objective is met**
-
-### 1
-Business A and every parent of business A, and business B and every parent of business B, must take all reasonable steps to ensure that the arm's-length objective in clause 1 is met.
-
-**Arm's-length test**
-
-### 2
-Business A, and every parent of business A, must not enter into a transaction in which business B, or any parent of business B, is interested if the terms of the transaction are terms that unrelated parties in the position of the parties to the transaction, each acting independently and in its own best interests, would not have agreed to.
-
-**Duty not to prefer interests of business B**
-
-### 3
-A director or manager of business A must not, when exercising powers or performing duties in connection with business A, act in a manner that the director or manager knows or ought reasonably to know would prefer the interests of business B over the interests of business A.
-
-**Duty not to discriminate in favour of business B**
-
-### 4
-Business A must not, in providing services or benefits, discriminate in favour of business B or the customers, suppliers, or members of business B.
-
-**Duty to focus on interests of right ultimate owners**
-
-### 5
-A director or manager of business A must, when exercising powers or performing duties in connection with business A, act in the interests of the ultimate members of business A in their capacity as such, and must neither subordinate the interests of those members to the interests of the members of business B nor, to the extent that the members or ultimate beneficial members of each business overlap, take account of that fact or have regard to their dual capacity as members of business B and business A.
-
-**Duty of directors and managers of parents of business A**
-
-### 6
-A director or manager of a parent of business A must not, when exercising powers or performing duties in connection with business A, act in a manner that the director or manager knows or ought reasonably to know would prefer the interests of business B, or of the customers, suppliers, or members of business B in that capacity, over the interests of business A or the customers, suppliers, or members of business A.
-
-**At least 2 independent directors**
-
-### 7
-At least 2 directors of business A must—
-(a) be neither a director nor a manager of business B; and
-(b) not be an associate of business B, other than by virtue of being a director of business A.
-
-**No cross-directors who are executive directors**
-
-### 8
-A director of business A may be a director of business B, but must not—
-(a) manage business B on a day-to-day basis; or
-(b) be an associate of business B, other than by virtue of being a director of business A or business B; or
-(c) be involved in business B (other than by having material influence over business B by virtue of being a director of business B).
-
-**Separate management rule**
-
-### 9(1)
-This clause applies if business A is involved in—
-(a) a generator that has a total capacity of more than 50 MW and that is connected to any of business A's networks; or
-(b) a retailer that retails more than 75 GWh of electricity in a financial year to customers who are connected to any of business A's networks.
-((2)) A manager of business A must not—
-  (a) be a manager of business B; or
-  (b) be an associate of business B, other than by virtue of being a manager of business A; or
-  (c) be involved in the business of business B.
-
-**Directors and managers must not be placed under certain obligations**
-
-### 10(1)
-Subject to subclause (2), no person may place a director or manager of business A under an obligation, whether enforceable or not, to act in accordance with the directions, instructions, or wishes of business B, or any director or manager or associate of business B, or any parent of business B, and no director or manager may submit to any such obligation.
-((2)) A common parent, or a cross-director or a cross-manager, of both business A and business B may place a director or manager under an obligation referred to in subclause (1) if doing so does not contravene another of the arm's-length rules.
-
-**Restriction on use of information**
-
-### 11(1)
-Business A must not disclose or permit the disclosure to business B, or use or permit the use for the purposes of business B, of restricted information of business A.
-An electricity trust that is a parent of business A (trust A), business A, and every parent of trust A, must not disclose or permit the disclosure to business B, an electricity trust that is a parent of business B (trust B), or any parent of trust B, or use or permit the use for the purposes of business B or trust B, of restricted information of business A or trust A.
-In these rules, restricted information is information received or generated, and held, by business A or trust A that is connected with its business, being information that—
-  (a) is not available to the competitors or potential competitors of business B or trust B; and
-  (b) if disclosed to business B or trust B, would put, or be likely to put, business B or trust B in a position of material advantage in relation to any competitor or potential competitor.
-((2)) This rule does not prevent cross-directors under rule 8 from having access to normal board information.
-((3)) A manager of business A who is not prohibited from being a manager of business B under rule 9 may use restricted information of both business A and business B, but only to the extent that the use does not contravene another of the arm’s-length rules.
-
-**Records**
-
-### 12
-Every business to which this schedule applies must keep at its registered office a register of transactions entered into between business A, or any parent of business A, and business B, or any parent of business B.
-
-### 13
-Business A must, within 10 working days of entering into any such transaction, enter in its register details sufficient to identify the nature and import of the transaction.
-
-**Practical considerations**
-
-### 14
-Business A and every parent of business A must ensure that its practical arrangements, such as use of accommodation, equipment, and services, do not contravene this schedule.
-
-### 15
-Business A and every parent of business A must ensure that its selection and appointment of advisors does not prejudice compliance with rules 7 to 11.
+[Repealed]
 
 ### 4 Rules do not limit objective
-The arm's-length rules in clause 3 do not limit the generality of the arm's-length objective in clause 1.
+[Repealed]
 
 ### 5 These duties are additional to other duties
-The requirements of this schedule are additional to the requirements of any provisions of the Code or regulations made under this Act.
+[Repealed]
 
 ## Schedule 4 — Dispute resolution scheme
 
