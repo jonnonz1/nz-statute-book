@@ -1,5 +1,5 @@
 # Financial Reporting Act 2013
-_Consolidation as at 2022-01-01_
+_Consolidation as at 2022-09-01_
 
 ### 1 Title
 This Act is the Financial Reporting Act 2013.
@@ -735,7 +735,7 @@ A financial reporting standard (or a part of a standard) that is expressed as ap
 (2) The first review under this section must be completed on or before the date that is 8 years after the date on which this section comes into force.
 (3) Subsequent reviews under this section must be completed on or before the date that is 6 years after the previous review was completed.
 (4) The Minister may, in making a recommendation, make any rounding adjustments that he or she thinks fit.
-(5) In this section, CPI means the Consumers Price Index (All Groups) published by Statistics New Zealand.
+(5) In this section, CPI means the Consumers Price Index (all groups) published by Statistics New Zealand or, if that index ceases to be published, any measure certified by the Government Statistician as being equivalent to that index.
 
 ### 49 Order may amend amounts
 (1) The Governor-General may, by Order in Council, on the recommendation of the Minister, make regulations for all or any of the following purposes:
