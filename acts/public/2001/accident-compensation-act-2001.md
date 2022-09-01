@@ -1,5 +1,5 @@
 # Accident Compensation Act 2001
-_Consolidation as at 2022-07-01_
+_Consolidation as at 2022-09-01_
 
 ### 1 Title
 This Act is the Accident Compensation Act 2001.
@@ -67,6 +67,7 @@ The transitional, savings, and related provisions set out in Schedule 1AA have e
     (a) means the Code of ACC Claimants' Rights approved under section 44; and
     (b) includes any amendments to the Code approved under section 47
   - **Commissioner** means the Commissioner of Inland Revenue, and has the same meaning as in section 3(1) of the Tax Administration Act 1994
+  - **Consumers Price Index** means the Consumers Price Index (all groups) published by Statistics New Zealand or, if that index ceases to be published, any measure certified by the Government Statistician as being equivalent to that index
   - **Corporation** means the Accident Compensation Corporation continued by section 259
   - **counsellor** means a counsellor of a type described in regulations made under this Act
   - **cover** has the meaning set out in section 8
@@ -1454,12 +1455,12 @@ If the Corporation determines under section 107 that a claimant has vocational i
 ### 116 Indexation of lump sum compensation, funeral grant, survivor's grant, and child care payments
 (1) The Corporation must adjust the amounts specified in clauses 56, 64, 65, and 76 of Schedule 1 in the manner specified in subsection (2).
 (2) Any adjustments required by subsection (1) must—
-  (a) be in accordance with a prescribed formula or prescribed formulas relating to movements in the Consumer Price Index; and
+  (a) be in accordance with a prescribed formula or prescribed formulas relating to movements in the Consumers Price Index; and
   (b) have effect from the prescribed date or dates; and
   (c) must be published by the Corporation in such manner as it thinks appropriate to bring the adjustments to the attention of claimants and the general public.
 (3) The Corporation is not required to adjust any amount under subsection (1) if—
-  (a) the prescribed formula specifies a minimum movement in the Consumer Price Index; and
-  (b) the movement in the Consumer Price Index is less than the minimum movement specified.
+  (a) the prescribed formula specifies a minimum movement in the Consumers Price Index; and
+  (b) the movement in the Consumers Price Index is less than the minimum movement specified.
 
 **Powers of Corporation**
 
@@ -3216,8 +3217,8 @@ The purpose of this Part is—
   (d) to facilitate the dissemination of such information across all appropriate sectors (including the government and private sectors):
   (e) to enable the effectiveness of government agencies to be monitored in relation to the Government's overall injury management (including injury prevention) objectives.
 
-### 288 Injury-related statistics are classified under Statistics Act 1975
-Injury-related statistics are a separate class of official statistics under section 4 of the Statistics Act 1975 and the appropriate classification under that section must be used for the purposes of the administration of this Part.
+### 288 Injury-related statistics are official statistics under Data and Statistics Act 2022
+Injury-related statistics are official statistics for the purposes of the Data and Statistics Act 2022.
 
 ### 289 Information manager
 (1) The Prime Minister may designate a person or agency to be an information manager for injury-related information purposes.
@@ -3235,11 +3236,11 @@ Injury-related statistics are a separate class of official statistics under sect
 (6) In exercising the powers conferred by subsection (3), a manager must—
   (a) comply with the Privacy Act 2020 and the Health Information Privacy Code and any other codes issued under that Act; and
   (b) ensure that standards set for the purpose of this Part are complied with; and
-  (c) comply with section 11 of the Statistics Act 1975.
+  (c) comply with the Data and Statistics Act 2022.
 (7) A manager may delegate any of the manager's functions.
 (8) If Statistics New Zealand is designated as an information manager,—
   (a) subsections (2) to (7) and sections 290 and 292 do not apply; but
-  (b) nothing in this section limits or affects anything in the Statistics Act 1975.
+  (b) nothing in this section limits or affects anything in the Data and Statistics Act 2022.
 
 ### 290 Information manager can require government agencies to provide injury-related information
 (1) Without limiting section 289(3), an information manager may require a government agency (other than Statistics New Zealand) that holds information relevant to the purpose of this Part to provide the information to the manager.
@@ -4273,7 +4274,7 @@ Section 447 of the Accident Insurance Act 1998 continues to apply in respect of 
 (2) If an amount has been adjusted under any of sections 115 and 116, the Corporation must use the adjusted amount in any calculation in which it is relevant.
 (3) However, the Corporation must adjust the amounts payable under sections 377 and 378 in the manner specified in subsection (4).
 (4) An adjustment required by subsection (3)—
-  (a) must be in accordance with a prescribed formula or prescribed formulas relating to movements in the Consumer Price Index; and
+  (a) must be in accordance with a prescribed formula or prescribed formulas relating to movements in the Consumers Price Index; and
   (b) has effect on and from the prescribed date or dates.
 
 **Disentitlements**
