@@ -1,5 +1,5 @@
 # Statistics Amendment Act 2013
-_Consolidation as at 2013-12-04_
+_Consolidation as at 2022-09-01_
 
 ### 1 Title
 This Act is the Statistics Amendment Act 2013.
