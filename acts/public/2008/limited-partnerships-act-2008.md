@@ -1,5 +1,5 @@
 # Limited Partnerships Act 2008
-_Consolidation as at 2022-06-01_
+_Consolidation as at 2022-09-01_
 
 ### 1 Title
 This Act is the Limited Partnerships Act 2008.
@@ -722,7 +722,7 @@ Sections 75 to 75D do not apply to a limited partnership in relation to an accou
   (a) a particular form in which the confirmation or correction must be provided; and
   (b) a date by which the confirmation or correction must be provided; and
   (c) whether the confirmation or correction must be verified by the production of original documents or certified copies of original documents or by a statutory declaration.
-(3) Nothing in this section limits or affects the Tax Administration Act 1994 or the Statistics Act 1975.
+(3) Nothing in this section limits or affects the Tax Administration Act 1994 or the Data and Statistics Act 2022.
 (4) A person must not obstruct or hinder the Registrar or a person authorised by the Registrar while exercising a power conferred by subsection (1).
 (5) Any person who fails to comply with a requirement under subsection (2) or acts in contravention of subsection (4) commits an offence and is liable on conviction to a fine not exceeding $10,000.
 (6) In this section, relevant document, in relation to a limited partnership, means a document that contains information relating to—
