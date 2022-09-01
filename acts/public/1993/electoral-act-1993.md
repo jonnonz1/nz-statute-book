@@ -1,5 +1,5 @@
 # Electoral Act 1993
-_Consolidation as at 2022-07-01_
+_Consolidation as at 2022-09-01_
 
 > An Act to reform the electoral system and to provide, in particular, if the proposal for the introduction of the mixed member proportional system is carried at the referendum held under the Electoral Referendum Act 1993,—afor the introduction of the mixed member proportional system of representation in relation to the House of Representatives:bfor the establishment of an Electoral Commission:cfor the repeal of the Electoral Act 1956
 
@@ -30,7 +30,7 @@ This Act may be cited as the Electoral Act 1993.
   - **candidate advertisement** means an advertisement in any medium that may reasonably be regarded as encouraging or persuading voters to do either or both of the following:
     (a) to vote for a constituency candidate (whether or not the name of the candidate is stated):
     (b) not to vote for a constituency candidate (whether or not the name of the candidate is stated)
-  - **census** means the census of population and dwellings carried out by the Department of Statistics pursuant to the Statistics Act 1975
+  - **census** means the census of population and dwellings carried out by Statistics New Zealand under the Data and Statistics Act 2022
   - **Chief Electoral Officer** means the Chief Electoral Officer appointed under this Act; and includes any person authorised to exercise the powers, duties, and functions of the Chief Electoral Officer
   - **component party** means, in relation to a registered political party (in this definition called the ) or in relation to a political party that is applying for registration (in this definition called the ),—
     (a) a political party that is a member of the registered party or of the applicant party; or
@@ -560,10 +560,10 @@ There shall be paid out of money appropriated by Parliament for the purpose to t
 ### 33 Deputies of ex officio members
 (1) Where the Chairperson of the Local Government Commission is unable or likely to be unable to perform his or her duties as a member of the Representation Commission because of illness, absence, or any other reason, and it appears to the Minister of Local Government that the inability to perform the duties is likely to continue for a period of more than 14 days, the Minister of Local Government may appoint a deputy (who shall be another member of the Local Government Commission) to perform all the functions, duties, and powers of the Chairperson of the Local Government Commission in his or her capacity as a member of the Representation Commission.
 (2) The Deputy Surveyor-General appointed pursuant to section 8 of the Survey Act 1986 shall have and may exercise, subject to the control of the Surveyor-General, all the functions, duties, and powers of the Surveyor-General in his or her capacity as a member of the Commission.
-(3) Any Deputy Government Statistician appointed pursuant to section 17 of the Statistics Act 1975 shall have and may exercise, subject to the control of the Government Statistician, all the functions, duties, and powers of the Government Statistician in his or her capacity as a member of the Commission.
+(3) The Statistician may appoint a deputy to perform all the functions, duties, and powers of the chief executive in his or her capacity as a member of the Representation Commission.
 (4) The Deputy Electoral Commissioner appointed under section 4I as the deputy for the Chief Electoral Officer has and may exercise, subject to the control of the Chief Electoral Officer, all the functions, duties, and powers of the Chief Electoral Officer in his or her capacity as a member of the Commission.
 (5) Where the chief executive who holds office under section 28(3)﻿(a) as a member of the Commission is unable or likely to be unable to perform his or her duties as such a member because of illness, absence, or any other reason, or where there is a vacancy in the position of that chief executive, that chief executive or any acting chief executive acting under clause 9(1) to (3) of Schedule 7 of the Public Service Act 2020 may appoint a deputy nominated by the chief executive to perform all the functions, duties, and powers of the chief executive in his or her capacity as a member of the Representation Commission.
-(6) Every deputy appointed under subsection (1) or subsection (5) shall hold office during the pleasure of the person by which that deputy was appointed.
+(6) Every deputy appointed under subsection (1), (3), or (5) shall hold office during the pleasure of the person by which that deputy was appointed.
 (7) No act done by any deputy to which this section applies and no act done by the Commission while any such deputy is so acting, shall in any proceedings be questioned on the ground that the occasion for so acting had not arisen or had ceased.
 (8) Nothing in clause 2(1) and (2) of Schedule 6 of the Public Service Act 2020 authorises a chief executive or acting chief executive or deputy of a chief executive to delegate to any other person any of the functions, duties, or powers of the chief executive or acting chief executive or deputy of the chief executive in his or her capacity as a member of the Representation Commission.
 
@@ -1967,6 +1967,25 @@ For the purposes of sections 111C to 111F,—
   (d) the person requesting the list states in a form to be provided by the Electoral Commission that the list is required for the purpose of that person’s research and will not be used for any other purpose; and
   (e) the Electoral Commission is satisfied that the list should be provided; and
   (f) if the person requesting the list requires the list to be supplied in electronic form, that person supplies to the Electoral Commission a storage medium for that electronic information that complies with the prescribed requirements.
+
+### 112A Provision of electoral information to Government Statistician
+(1) Nothing in this Act limits or prevents the provision of any of the following information to the Government Statistician for the production of official statistics or research under the Data and Statistics Act 2022:
+  (a) a list of electors in a particular age group as defined in section 114(9):
+  (b) a list of electors of Māori descent:
+  (c) a list of electors whose birthdays fall within a period of 12 months:
+  (d) a list of electors as at a date specified by the Statistician:
+  (e) a list of electors on the dormant roll:
+  (f) in relation to each elector on a list described in paragraphs (a) to (e), the elector’s name, date of birth, postal address, residential address, occupation (if any), preferred honorific (if any), and meshblock:
+  (g) information about any elector appearing to be entitled to vote in—
+    (i) 1 or more named electoral districts; or
+    (ii) all electoral districts; or
+    (iii) 1 or more named regions or constituencies of a region; or
+    (iv) 1 or more named territorial authority districts; or
+    (v) 1 or more named wards; or
+    (vi) 1 or more named community board areas; or
+    (vii) 1 or more named local board areas:
+  (h) any other information that the Electoral Commission agrees to provide to the Government Statistician for the production of official statistics or research.
+(2) Despite subsection (1), the Electoral Commission must not provide to the Government Statistician information that is subject to a direction under section 115(1).
 
 ### 113 Supply of computer-compiled lists and electronic storage media to local authorities
 (1) Subject to this section, if an electoral official of a local authority (as defined in section 5 of the Local Electoral Act 2001) wishes to obtain specified information for the purposes of any election, by-election, or poll that is required by or under any Act, the electoral official is entitled to obtain from the Electoral Commission a computer-compiled list or electronic storage medium containing that information.
@@ -5203,7 +5222,7 @@ Where anything is omitted to be done or cannot be done at the time required by o
 (6A) If in any year a regulated period for a general election or a by-election commences before 1 July and ends on or after that date,—
   (a) the adjustments to the amounts referred to in subsection (1) made by the Order in Council that commences on 1 July of that year do not apply in respect of that election or by-election; and
   (b) the adjustments to the amounts referred to in subsection (1) made by the Order in Council of the previous year apply to that election or by-election.
-(7) In this section CPI means the Consumers Price Index All Groups published by Statistics New Zealand.
+(7) In this section, CPI means the Consumers Price Index (all groups) published by Statistics New Zealand or, if that index ceases to be published, any measure certified by the Government Statistician as being equivalent to that index.
 (8) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 267 Regulations
