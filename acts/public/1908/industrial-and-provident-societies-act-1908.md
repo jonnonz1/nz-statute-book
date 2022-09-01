@@ -1,5 +1,5 @@
 # Industrial and Provident Societies Act 1908
-_Consolidation as at 2022-06-01_
+_Consolidation as at 2022-09-01_
 
 > An Act to consolidate certain enactments of the General Assembly relating to industrial and provident societies
 
@@ -291,7 +291,7 @@ With respect to the inspection of the affairs of registered societies the follow
   (b) in any case where the Registrar or the person authorised by him considers that the aforesaid purpose cannot be achieved by inspecting only the documents specified in paragraph (a), or where such documents are not produced for inspection, require any person (including any officer employed in or in connection with any Government Department) to produce for inspection any registers, records, accounts, books, or papers that contain information relating to any money or other property that is or has been managed, supervised, controlled, or held in trust by or for the registered society; and
   (c) inspect and make records of any such registers, records, accounts, books, or papers; and
   (d) for the purposes of making records thereof, take possession of and remove from the premises where they are kept, for such period of time as is reasonable in the circumstances, any such registers, records, accounts, books, or papers.
-(2) Nothing in subsection (1) limits or affects the Tax Administration Act 1994 or the Statistics Act 1975.
+(2) Nothing in subsection (1) limits or affects the Tax Administration Act 1994 or the Data and Statistics Act 2022.
 (3)
 (4) A person who has made an inspection under subsection (1) shall give, divulge, or communicate any records or information that he has acquired in the course of the inspection to such of the following persons as may require such records or information, namely:
   (a) the Registrar:
