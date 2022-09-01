@@ -1,5 +1,5 @@
 # Senior Courts Act 2016
-_Consolidation as at 2022-04-12_
+_Consolidation as at 2022-09-01_
 
 ### 1 Title
 This Act is the Senior Courts Act 2016.
@@ -1414,6 +1414,9 @@ A Judge or Registrar of a senior court may, subject to any terms or conditions t
 (1) Any person may have access to court information of a senior court to the extent provided by, and in accordance with, rules of court.
 (2) Access to judicial information is not subject to any enactment that applies to the provision of, or access to, any other information.
 (3) Any person may have access to any Ministry of Justice information to the extent provided by, and in accordance with, the Official Information Act 1982, the Privacy Act 2020, the Public Records Act 2005, or any other enactment providing for or regulating access to the information.
+(3A) For the purposes of sections 29, 30, and 32 of the Data and Statistics Act 2022,—
+  (a) the provision of court information (other than permitted information in accordance with section 174) and judicial information to the Government Statistician is expressly prevented; but
+  (b) nothing in this Act limits or prevents the provision of Ministry of Justice information to the Government Statistician for the production of official statistics or research.
 (4) In this section, court information, judicial information, and Ministry of Justice information mean the documents and information described as such in Schedule 2.
 
 ### 174 Sharing of permitted information with other agencies
