@@ -1,5 +1,5 @@
 # Public Works Act 1981
-_Consolidation as at 2022-04-12_
+_Consolidation as at 2022-09-01_
 
 > An Act to consolidate and amend the law relating to public works
 
@@ -832,7 +832,7 @@ In this section and sections 72C and 72D, unless the context otherwise requires,
 (2) The Minister must not recommend the making of an Order in Council under this section unless the Minister is of the opinion that it is necessary or desirable to do so having regard to the following:
   (a) the purposes of the compensation payable under sections 72 and 72C (including the differences between the acquisition of land that includes the owner’s home and the acquisition of land that does not include the owner’s home):
   (b) national average land and house sale prices:
-  (c) the New Zealand Consumer Price Index:
+  (c) the Consumers Price Index (all groups) published by Statistics New Zealand or, if that index ceases to be published, any measure certified by the Government Statistician as being equivalent to that index:
   (d) the level of solatium or similar compensation payable in comparable circumstances in jurisdictions outside New Zealand that have similar property rights and land acquisition regimes:
   (e) changes to the matters referred to in paragraphs (b) to (d) since the compensation limits and percentages were last changed:
   (f) comments received in response to public consultation under subsection (3).
