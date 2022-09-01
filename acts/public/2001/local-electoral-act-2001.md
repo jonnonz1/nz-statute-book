@@ -1,5 +1,5 @@
 # Local Electoral Act 2001
-_Consolidation as at 2022-07-01_
+_Consolidation as at 2022-09-01_
 
 ### 1 Title
 This Act is the Local Electoral Act 2001.
@@ -52,7 +52,7 @@ The purpose of this Act is to modernise the law governing the conduct of local e
   - **candidate** —
     (a) means a person who has been nominated as a candidate in any election; and
     (b) includes, in Parts 5 and 5A, a person who has declared his or her intention of becoming a candidate
-  - **census** means the census of population and dwellings carried out by Statistics New Zealand under the Statistics Act 1975
+  - **census** means the census of population and dwellings carried out by Statistics New Zealand under the Data and Statistics Act 2022
   - **close of nominations** , in relation to any election, means 12 noon on nomination day
   - **close of voting** , in relation to any election or poll, means,—
     (a) if booth voting is the method of voting used at the election or poll, 7 pm on polling day:
