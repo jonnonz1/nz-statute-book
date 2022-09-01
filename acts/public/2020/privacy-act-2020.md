@@ -1,5 +1,5 @@
 # Privacy Act 2020
-_Consolidation as at 2022-07-01_
+_Consolidation as at 2022-09-01_
 
 ### 1 Title
 This Act is the Privacy Act 2020.
@@ -375,7 +375,7 @@ IPPs 2, 3, and 4(b) do not apply to personal information collected by an intelli
     (ii) a public inquiry (including a Royal commission), until the final report of that inquiry is presented to the House of Representatives:
     (iii) a person or body appointed under any Act to inquire into a specified matter; or
   (e) personal information contained in a video record made under the Evidence Regulations 2007 or any copy or transcript of the video record.
-(2) IPP 7 does not apply to personal information collected by Statistics New Zealand under the Statistics Act 1975.
+(2) IPP 7 does not apply to personal information collected by the Government Statistician under the Data and Statistics Act 2022.
 
 ### 30 Commissioner may authorise collection, use, storage, or disclosure of personal information otherwise in breach of IPP 2 or IPPs 9 to 12
 (1) An agency may apply to the Commissioner for authorisation to do any of the following in the circumstances of a particular case:
