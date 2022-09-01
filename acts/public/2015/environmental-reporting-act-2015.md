@@ -1,5 +1,5 @@
 # Environmental Reporting Act 2015
-_Consolidation as at 2021-10-28_
+_Consolidation as at 2022-09-01_
 
 ### 1 Title
 This Act is the Environmental Reporting Act 2015.
@@ -44,13 +44,13 @@ In this Act, unless the context otherwise requires,—
   (b) includes estuaries, the sea, the seabed, and the soil of the area described in paragraph (a); and
   (c) includes the animals, vegetation, and structures associated with the marine domain
   - **Minister for the Environment** means the Minister of the Crown who, with the authority of the Prime Minister, is for the time being responsible for the administration of the Environment Act 1986
-  - **Minister of Statistics** means the Minister of the Crown who, with the authority of the Prime Minister, is for the time being responsible for the administration of the Statistics Act 1975
+  - **Minister of Statistics** means the Minister of the Crown who, with the authority of the Prime Minister, is for the time being responsible for the administration of the Data and Statistics Act 2022
   - **Ministers** means the Minister for the Environment and the Minister of Statistics
   - **Ministry** means the department that is, with the authority of the Prime Minister, for the time being responsible for the administration of the Environment Act 1986
   - **pressure** means a natural or human-induced circumstance, factor, element, activity, or process
   - **public health** has the meaning given in section 6(1) of the New Zealand Public Health and Disability Act 2000
   - **Secretary** means the chief executive of the Ministry
-  - **Statistics New Zealand** means the department of State established under that name by the Statistics Act 1975
+  - **Statistics New Zealand** means the department of State continued by the Data and Statistics Act 2022
   - **structure** has the meaning given in section 2(1) of the Resource Management Act 1991
   - **synthesis report** means a report of a kind required to be produced by section 7
   - **te ao Māori** means Māori world view
