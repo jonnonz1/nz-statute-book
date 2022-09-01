@@ -1,5 +1,5 @@
 # Public Records Act 2005
-_Consolidation as at 2021-10-28_
+_Consolidation as at 2022-09-01_
 
 ### 1 Title
 This Act is the Public Records Act 2005.
@@ -123,7 +123,7 @@ In this Act, unless the context otherwise requires,—
     (a) means records collected by a public office for purposes such as research or the preservation of records; but
     (b) does not include public records
   - **standards** means the standards issued by the Chief Archivist under section 27
-  - **Statistician** has the meaning given to it in section 2 of the Statistics Act 1975
+  - **Statistician** has the meaning given to it in section 6 of the Data and Statistics Act 2022
   - **student** means a person enrolled at a tertiary education institution
   - **tertiary education institution** has the same meaning as in section 7(1)﻿(e) of the Crown Entities Act 2004
   - **tikanga Māori** means Māori customary values and practices.
@@ -332,17 +332,14 @@ In relation to the performance of his or her functions and duties and to the exe
 
 ### 22 Deferred transfer of public records
 (1) The requirement to transfer public records under section 21(1) does not apply—
-  (a) to public records that are individual schedules provided to the Statistician under Part 3 of the Statistics Act 1975; or
+  (a)
   (b) if the administrative head of the controlling public office and the Chief Archivist have agreed in writing that the transfer of the public records may be deferred for a specified period on any conditions that the administrative head and the Chief Archivist consider appropriate; or
   (c) to public records that are in electronic form, if the Chief Archivist instructs the controlling public office in writing to continue to maintain and control those records after the expiry of the 25-year period; or
   (d) if a responsible Minister, after consultation with the Minister, certifies that—
     (i) 1 or more of the circumstances referred to in subsection (6) applies in respect of a public record; and
     (ii) the transfer of the public record may be deferred for a specified period.
-(2) In subsection (1)﻿(a), schedule has the meaning given to it in section 2 of the Statistics Act 1975.
-(3) In the case of public records referred to in subsection (1)﻿(a), the records—
-  (a) must be transferred to the control of the Chief Archivist and the possession of Archives New Zealand after a period of 100 years from the day appointed by the Governor-General by Proclamation under section 23(2) of the Statistics Act 1975; and
-  (b) are subject to sections 37D and 37DA of the Statistics Act 1975; and
-  (c) are not subject to Part 3.
+(2)
+(3)
 (4) An agreement entered into under subsection (1)﻿(b) may be renewed for further specified periods by agreement between the administrative head of the controlling public office and the Chief Archivist.
 (5) An instruction issued under subsection (1)﻿(c)—
   (a) must identify the public records to which the instruction relates; and
