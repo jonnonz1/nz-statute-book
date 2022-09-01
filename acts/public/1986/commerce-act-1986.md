@@ -1,5 +1,5 @@
 # Commerce Act 1986
-_Consolidation as at 2022-06-30_
+_Consolidation as at 2022-09-01_
 
 > Title
 
@@ -32,6 +32,7 @@ The purpose of this Act is to promote competition in markets for the long-term b
   - **Commission** —
     (a) means the Commerce Commission established under Part 1; or
     (b) for the purposes of determining any matter or class of matter specified in a direction under section 16(1), means the Division of the Commission specified in the direction in accordance with section 16(5)
+  - **Consumers Price Index** means the Consumers Price Index (all groups) published by Statistics New Zealand or, if that index ceases to be published, any measure certified by the Government Statistician as being equivalent to that index
   - **court** means the High Court of New Zealand
   - **covenant** means a covenant (including a promise not under seal) annexed to or running with an estate or interest in land (whether at law or in equity and whether or not for the benefit of other land); and has a corresponding meaning
   - **credit instrument** means any agreement (whether in writing or not) acknowledging an obligation to pay a sum or sums of money on demand or at any future time or times
@@ -1320,7 +1321,7 @@ For the purpose of monitoring compliance with a price-quality path (whether a de
 ### 53O Section 52P determination to set out requirements of default price-quality paths
 If default price-quality regulation applies to regulated goods or services, the section 52P determination must set out a default price-quality path that includes—
   (a) the starting prices that apply to the supply of the goods or services during the first regulatory period; and
-  (b) the rate or rates of change in prices, relative to the Consumer Price Index, allowed during the first regulatory period; and
+  (b) the rate or rates of change in prices, relative to the Consumers Price Index, allowed during the first regulatory period; and
   (c) the quality standards that apply during the first regulatory period; and
   (d) the date or dates on which the default price-quality path (or any part of it) takes effect; and
   (e) the annual date by which any proposal for a customised price-quality path must be received; and
@@ -1726,22 +1727,22 @@ The Commission must promote incentives, and must avoid imposing disincentives, f
 **Interface with Electricity Industry Act 2010**
 
 ### 54V Impact of certain decisions made under Electricity Industry Act 2010
-(1) The Electricity Authority must consult with the Commission before amending the Electricity Industry Participation Code (the Code) in a manner that will, or is likely to, affect the Commission in the performance of its functions or exercise of its powers under this Part.
-(2) The Electricity Authority must advise the Commission as soon as practicable after doing any of the following things that is likely to be relevant to the powers or functions of the Commission under this Part:
+(1) The Electricity Authority must consult with the Commission before amending the Electricity Industry Participation Code (the Code) in a manner that will, or is likely to, affect the Commission in the performance of its functions or exercise of its powers in relation to electricity lines services under this Part.
+(2) The Electricity Authority must advise the Commission as soon as practicable after doing any of the following things that are likely to be relevant to the powers or functions of the Commission in relation to electricity lines services under this Part:
   (a) making any provision of the Code:
   (b) making any decision under the Code:
-  (c) issuing any guidelines:
-  (d) giving a direction to Transpower and 1 or more industry participants to enter into 1 or more transmission agreements under section 44 of the Electricity Industry Act 2010.
-(3) The Electricity Authority must advise the Commission, as soon as practicable, following any change in the Code that results in increased costs to Transpower or to any distributor or class of distributors.
-(4) The Commission must take into account, before exercising any of its powers or performing any of its functions under this Part,—
-  (a) any provision of the Code, or decision made under it, that relates to or affects the pricing methodologies or performance requirements applicable to Transpower:
-  (b) any provision of the Code, or decision made under it, that relates to or affects the pricing methodologies applicable to any other line owner:
-  (c) any guidelines of which it receives advice under subsection (2)﻿(c) that are likely to be relevant to the exercise of the powers or performance of the duties or functions of the Commission under this Part:
-  (d) any directions of which it receives advice under subsection (2)﻿(d):
-  (e) the levy payable by Transpower or any other line owner under section 128 of the Electricity Industry Act 2010:
-  (f) the continuance of supply obligations imposed by section 105 of the Electricity Industry Act 2010.
-(5) The Commission must, if asked by the Electricity Authority to do so, reconsider a section 52P determination and, to the extent that the Commission considers it necessary or desirable to do so, amend the determination, to take account of any matter referred to in subsection (4).
-(6) Requirements relating to quality standards for Transpower in a section 52P determination must be based on, and be consistent with, quality standards for Transpower that are set by the Electricity Authority; but the Commission may prescribe them in any way it considers appropriate, as authorised by section 53M(3).
+  (c) undertaking any market-facilitation measures.
+  (d)
+(3) The Electricity Authority must advise the Commission, as soon as practicable, following any change in the Code that results in increased costs to a supplier of electricity lines services.
+(4) The Commission must take into account, before exercising any of its powers or performing any of its functions in relation to electricity lines services under this Part,—
+  (a) any provision of the Code, or decision made under it, that relates to or affects—
+    (i) pricing methodologies that apply to a supplier of electricity lines services; or
+    (ii) quality or information requirements that apply to a supplier of electricity lines services:
+  (b) any market-facilitation measures of which it receives advice under subsection (2)﻿(c):
+  (c) the levy payable by a supplier of electricity lines services under section 128 of the Electricity Industry Act 2010:
+  (d) the continuance of supply obligations imposed by section 105 of the Electricity Industry Act 2010.
+(5) The Commission must, if asked by the Electricity Authority to do so, reconsider a section 52P determination and, to the extent that the Commission considers it necessary or desirable to do so, amend the determination, to take account of any matter referred to in subsection (3) or (4).
+(6)
 
 **Savings provisions**
 
@@ -1810,7 +1811,7 @@ Gas pipeline services are subject to default/customised price-quality regulation
 
 ### 55F Section 52P determinations setting out first default price-quality paths
 (1) The Commission must use the processes set out in section 53P in making the first section 52P determinations that set out how default price-quality regulation applies to suppliers of gas pipeline services as if 30 June 2010 were the end of the previous regulatory period.
-(2) However, if a supplier has increased its weighted average prices by more than the movement, or forecast movement, in the all groups index number of the New Zealand Consumer Price Index in the period beginning 1 January 2008 and ending with the date that the determination is made, the Commission may apply claw-back to the extent of requiring the supplier to lower its prices in order to compensate consumers for some or all of any over-recovery of revenues that occurred during that period.
+(2) However, if a supplier has increased its weighted average prices by more than the movement, or forecast movement, in the all groups index number of the Consumers Price Index in the period beginning 1 January 2008 and ending with the date that the determination is made, the Commission may apply claw-back to the extent of requiring the supplier to lower its prices in order to compensate consumers for some or all of any over-recovery of revenues that occurred during that period.
 (3) The Commission may set a default price-quality path in respect of suppliers of gas pipeline services even if all or any of the relevant input methodologies have not been determined.
 (4) If an input methodology is published after a section 52P determination referred to in subsection (1) is made, and if, had that methodology applied at the time the default price-quality paths were set as required by subsection (1), it would have resulted in a materially different path being set, then the Commission may reset the default price-quality paths and may apply claw-back, despite section 53ZB(1).
 (5) However, the Commission may not exercise its powers in subsection (4) later than 9 months after the date of publication of the input methodology.
