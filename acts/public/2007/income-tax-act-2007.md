@@ -1,5 +1,5 @@
 # Income Tax Act 2007
-_Consolidation as at 2022-07-01_
+_Consolidation as at 2022-09-01_
 
 ### A 1 Title
 This Act is the Income Tax Act 2007.
@@ -20051,11 +20051,12 @@ Meaning of existing business
 (8) For the purposes of this section and section EY 29, existing business means, for a policy, that it is—
   (a) issued on or before 30 June 2009:
   (b) issued after 30 June 2009, if—
-    (i) issued on the same substantial and material terms, conditions, and bonus entitlements as profit participation policies that the life insurer issued on or before 30 June 2009, ignoring any annual increase in life insurance cover that is less than 10% or less than annual percentage change in the consumer price index:
+    (i) issued on the same substantial and material terms, conditions, and bonus entitlements as profit participation policies that the life insurer issued on or before 30 June 2009, ignoring any annual increase in life insurance cover that is less than 10% or less than annual percentage change in the Consumers Price Index (all groups):
     (ii) issued as the result of conversion rights in a policy issued on or before 30 June 2009:
   (c) the replacement of another policy (the replaced policy) caused by a life insurer being sold, or selling or transferring its rights and obligations under the replaced policy, and—
     (i) the replaced policy was existing business under this subsection; and
-    (ii) the replaced policy and the policy have the same substantial and material terms, conditions, and bonus entitlements ignoring any annual increase in life insurance cover that is less than 10% or is less than the annual percentage change in the consumer price index.
+    (ii) the replaced policy and the policy have the same substantial and material terms, conditions, and bonus entitlements ignoring any annual increase in life insurance cover that is less than 10% or is less than the annual percentage change in the Consumers Price Index (all groups).
+(9) In this section, Consumers Price Index (all groups) means the Consumers Price Index (all groups) published by Statistics New Zealand or, if that index ceases to be published, any measure certified by the Government Statistician as being equivalent to that index.
 
 ### EY 29 Shareholder base other profit: profit participation policies that are new business
 Calculation of income
@@ -20105,7 +20106,7 @@ Life insurance policies
 (2) This section applies to a life insurance policy, excluding an annuity, a multiple life policy through which the life insurer can look to the individual lives covered, credit card repayment insurance, and a workplace group policy, if the policy is issued by the life insurer before the grandparenting start day or if the life insurer receives an application and a deposit in money before the grandparenting start day for the policy which is issued after that day, and—
   (a) the life insurer has no policyholder base income or policyholder base allowable deduction for the policy; and
   (b) the policy meets the relevant requirements for the relevant period described in subsection (5)﻿(a) to (c); and
-  (c) the amount of life insurance cover at the finish of a cover review period, or at the finish of any shorter period, if the life insurer chooses to measure within the cover review period, has not increased by more than the greater of 10% and the percentage change in the consumer price index for the relevant period, as compared to the amount of life insurance cover at the beginning of the relevant cover review period; and
+  (c) the amount of life insurance cover at the finish of a cover review period, or at the finish of any shorter period, if the life insurer chooses to measure within the cover review period, has not increased by more than the greater of 10% and the percentage change in the Consumers Price Index (all groups) for the relevant period, as compared to the amount of life insurance cover at the beginning of the relevant cover review period; and
   (d) no new or replacement individual life is covered for a period beginning after the grandparenting start day.
 Multiple life policies
 (3) This section applies to a multiple life policy through which the life insurer can look to either the individual lives covered or a relevant underlying life insurance policy, if the multiple life policy (the policy) is issued by the life insurer before the grandparenting start day or if the life insurer receives an application and a deposit in money before the grandparenting start day for the policy which is issued after that day, and—
@@ -20116,7 +20117,7 @@ Multiple life policies
     (ii) the multiple life policy is a life reinsurance policy that was first in place before the grandparenting start day; and
   (d) the substantial and material terms and conditions of the policy do not change on or after the grandparenting start day; and
   (e) either—
-    (i) to the extent to which, looking through to the individual lives covered, the amount of life insurance cover at the finish of a cover review period, or at the finish of any shorter period if the life insurer chooses to measure within the cover review period, has not increased by more than the greater of 10% and the percentage change in the consumer price index for the relevant period, as compared to the amount of life insurance cover at the beginning of the relevant cover review period; or
+    (i) to the extent to which, looking through to the individual lives covered, the amount of life insurance cover at the finish of a cover review period, or at the finish of any shorter period if the life insurer chooses to measure within the cover review period, has not increased by more than the greater of 10% and the percentage change in the Consumers Price Index (all groups) for the relevant period, as compared to the amount of life insurance cover at the beginning of the relevant cover review period; or
     (ii) in the case of a policy that is life reinsurance, to the extent to which a relevant underlying life insurance policy is, or would be ignoring section EY 10(2), one that this subsection or subsection (2) applies to.
 Credit card repayment insurance and workplace group policies
 (4) This section applies to a credit card repayment insurance and to a workplace group policy, if the policy is issued by the life insurer before the grandparenting start day or if the life insurer receives an application and a deposit in money before the grandparenting start day, and—
@@ -20142,7 +20143,7 @@ Requirements under subsection (5)﻿(b) for premium increase
 (5BA) The requirements referred to in subsection (5)﻿(b) for an increase in the premium under a life insurance policy in a year in the continuous rate period are that—
   (a) the increase is made under an agreement entered into before the grandparenting start day; and
   (b) the increase arises from a policy benefit that produces an increase, under a formula in the agreement, in the sum assured under the policy; and
-  (c) the increase in the sum assured under the policy during the year does not exceed the greater of 3% and the percentage change in the consumer price index during the period that is the basis for the calculation, under the formula referred to in paragraph (b), of the increase in the sum assured.
+  (c) the increase in the sum assured under the policy during the year does not exceed the greater of 3% and the percentage change in the Consumers Price Index (all groups) during the period that is the basis for the calculation, under the formula referred to in paragraph (b), of the increase in the sum assured.
 When this section does not apply: life insurance cover increase for whole cover review period
 (5B) This section does not apply for a policy for the whole of an income year if a cover review period finishes in the year and, for that cover review period, there has been an increase in the amount of life insurance cover as described in subsection (2)﻿(c) or (3)﻿(e) and the life insurer has not made an election for measuring within the cover review period under those subsections.
 When this section does not apply: continuity
@@ -20186,6 +20187,7 @@ Meaning of workplace group policy
   (b) in the case of the sponsor being the employer,—
     (i) the employer is required to offer an employee who is a member of the relevant class the opportunity to join the life insurance policy; and
     (ii) the life insurer and the employer have entered an agreement about who pays the premium.
+(16) In this section, Consumers Price Index (all groups) means the Consumers Price Index (all groups) published by Statistics New Zealand or, if that index ceases to be published, any measure certified by the Government Statistician as being equivalent to that index.
 
 ### EY 31 Annuities
 When this section applies
@@ -34729,7 +34731,7 @@ Treatment when tax credits paid by chief executive to certain persons
 What may be done by Order in Council
 (1) The Governor-General may, by Order in Council,—
   (a) increase the amounts in section MD 3(4)﻿(a) and (b) (Calculation of family tax credit) by amounts that—
-    (i) correspond to the movement in the New Zealand Consumers Price Index after the quarter ended with 30 September 2021 that has not yet been taken into account by an increase:
+    (i) correspond to the movement in the Consumers Price Index (all groups) after the quarter ended with 30 September 2021 that has not yet been taken into account by an increase:
     (ii) are rounded up to the nearest whole dollar, without affecting the calculation of later increases made under this paragraph:
   (ab)
   (b) increase the amounts appearing as items in the formula for the in-work tax credit set out in section MD 10(3) (Calculation of in-work tax credit):
@@ -34737,23 +34739,23 @@ What may be done by Order in Council
   (cb) increase the amounts appearing as the amount of the threshold set out in section MD 13(3):
   (d) increase the amount appearing as an item in the formula for the minimum family tax credit in section ME 1(3) (Minimum family tax credit):
   (db) change the amounts in section MG 2(2)﻿(a) (Best Start tax credit) by an amount that—
-    (i) corresponds to the movement in the New Zealand Consumers Price Index after the quarter ended with 30 September 2021 that has not yet been taken into account by an increase:
+    (i) corresponds to the movement in the Consumers Price Index (all groups) after the quarter ended with 30 September 2021 that has not yet been taken into account by an increase:
     (ii) is rounded up to the nearest whole dollar, without affecting the calculation of later increases made under this paragraph:
   (dc) change the amounts in section MG 3(2)﻿(a) (Best Start tax credit abatement):
   (e) replace schedule 31 (Annualised equivalent amount for Part M).
 Order in Council under subsection (1)﻿(a): requirements
 (2) An Order in Council under subsection (1)﻿(a),—
   (a)
-  (b) in the case of the first Order in Council made under subsection (1)﻿(a) after the date on which the Taxation (COVID-19 Support Payments and Working for Families Tax Credits) Act 2021 receives the Royal assent, must be made when the total percentage increase in the movement in the New Zealand Consumers Price Index measured from that applying on 1 October 2021 is 5% or more:
-  (c) in the case of a subsequent Order in Council under subsection (1)﻿(a), must be made when the total percentage increase in the movement in the New Zealand Consumers Price Index measured from that applying on the date when the requirement to make the immediately preceding adjustment arose is 5% or more.
+  (b) in the case of the first Order in Council made under subsection (1)﻿(a) after the date on which the Taxation (COVID-19 Support Payments and Working for Families Tax Credits) Act 2021 receives the Royal assent, must be made when the total percentage increase in the movement in the Consumers Price Index (all groups) measured from that applying on 1 October 2021 is 5% or more:
+  (c) in the case of a subsequent Order in Council under subsection (1)﻿(a), must be made when the total percentage increase in the movement in the Consumers Price Index (all groups) measured from that applying on the date when the requirement to make the immediately preceding adjustment arose is 5% or more.
 Order in Council under subsection (1)﻿(db): requirements
 (2BA) An Order in Council under subsection (1)﻿(db),—
-  (a) in the case of the first Order in Council made under subsection (1)﻿(db) after the date on which the Taxation (COVID-19 Support Payments and Working for Families Tax Credits) Act 2021 receives the Royal assent﻿, must be made when the total percentage increase in the movement in the New Zealand Consumers Price Index measured from that applying on 1 October 2021 is 5% or more:
-  (b) in the case of a subsequent Order in Council under subsection (1)﻿(db), must be made when the total percentage increase in the movement in the New Zealand Consumers Price Index measured from that applying on the date when the requirement to make the immediately preceding adjustment arose is 5% or more.
+  (a) in the case of the first Order in Council made under subsection (1)﻿(db) after the date on which the Taxation (COVID-19 Support Payments and Working for Families Tax Credits) Act 2021 receives the Royal assent﻿, must be made when the total percentage increase in the movement in the Consumers Price Index (all groups) measured from that applying on 1 October 2021 is 5% or more:
+  (b) in the case of a subsequent Order in Council under subsection (1)﻿(db), must be made when the total percentage increase in the movement in the Consumers Price Index (all groups) measured from that applying on the date when the requirement to make the immediately preceding adjustment arose is 5% or more.
 How movement in CPI determined
-(2B) For the purposes of subsections (1)﻿(a)﻿(i) and (db)﻿(i), (2), and (2BA), a movement in the New Zealand Consumers Price Index over a period is determined by comparing the following numbers:
-  (a) the number that, when the period started, was the most recent quarterly index number of the New Zealand Consumers Price Index (All Groups) published by Statistics New Zealand:
-  (b) the number that, when the period ended, was the most recent quarterly index number of the New Zealand Consumers Price Index (All Groups) published by Statistics New Zealand.
+(2B) For the purposes of subsections (1)﻿(a)﻿(i) and (db)﻿(i), (2), and (2BA), a movement in the Consumers Price Index (all groups) over a period is determined by comparing the following numbers:
+  (a) the number that, when the period started, was the most recent quarterly index number of the Consumers Price Index (all groups):
+  (b) the number that, when the period ended, was the most recent quarterly index number of the Consumers Price Index (all groups).
 Order in Council under subsection (1)﻿(ab)
 (2C)
 Timing of Order in Council
@@ -34766,6 +34768,8 @@ Timing of review
 (5) A review undertaken under subsection (4) must occur,—
   (a) in the case of the first review, not later than 30 June 2008; and
   (b) in the case of subsequent reviews, not later than 30 June in the third year after each preceding review.
+Definitions
+(6) In this section, Consumers Price Index (all groups) means the Consumers Price Index (all groups) published by Statistics New Zealand or, if that index ceases to be published, any measure certified by the Government Statistician as being equivalent to that index.
 
 ### Subpart MG — Best Start tax credit
 
