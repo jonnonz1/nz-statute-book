@@ -1,5 +1,5 @@
 # Forests Act 1949
-_Consolidation as at 2022-08-06_
+_Consolidation as at 2022-09-01_
 
 > An Act to consolidate and amend the law relating to forestry
 
@@ -166,6 +166,7 @@ The following parts of this Act bind the Crown:
   (b) information available to the public under any Act or public document:
   (c) information supplied by a local authority.
 (5) Except in respect of a prosecution under this Act, no return or copy of a return made pursuant to this Act shall be disclosed or used as evidence in any proceedings whatever, and no forestry officer shall be compelled to give oral testimony in any proceedings regarding any return.
+(6) Nothing in this section limits or prevents the provision of information to the Government Statistician for the production of official statistics or research under the Data and Statistics Act 2022.
 
 **Financial provisions**
 
