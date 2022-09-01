@@ -1,5 +1,5 @@
 # Duties of Statutory Officers (Census and Other Remedial Provisions) Act 2011
-_Consolidation as at 2011-08-29_
+_Consolidation as at 2022-09-01_
 
 ### 1 Title
 This Act is the Duties of Statutory Officers (Census and Other Remedial Provisions) Act 2011.
@@ -35,7 +35,7 @@ The following sections are inserted after section 8A:Delegation of functions, re
     (a) a specified person or persons of a specified class; or
     (b) the holder or holders for the time being of a specified position, or of a specified class of positions.
   (6) No delegation under this section affects or prevents the performance or exercise of any function, responsibility, duty, or power by the Chief Parliamentary Counsel, or affects the responsibility of the Chief Parliamentary Counsel for the actions of any person acting under the delegation.
-  (1) A person who holds a delegation referred to in section 8B(1)(b) may act in place of the Chief Parliamentary Counsel while the Chief Parliamentary Counsel is absent or incapacitated or during any vacancy in the office of Chief Parliamentary Counsel.
+  (1) A person who holds a delegation referred to in section 8B(1)﻿(b) may act in place of the Chief Parliamentary Counsel while the Chief Parliamentary Counsel is absent or incapacitated or during any vacancy in the office of Chief Parliamentary Counsel.
   (2) No acts done by the person acting in place of the Chief Parliamentary Counsel under subsection (1) may, in any proceedings, be questioned on the ground that the occasion for the authorisation had not arisen or had ceased.
   (1) A delegation under section 8B is revocable at any time in writing.
   (2) A delegation, until it is revoked, continues to have effect according to its terms even if the Chief Parliamentary Counsel by whom it was made has ceased to hold office.
