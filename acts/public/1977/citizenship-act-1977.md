@@ -1,5 +1,5 @@
 # Citizenship Act 1977
-_Consolidation as at 2021-10-28_
+_Consolidation as at 2022-09-01_
 
 > An Act to make better provision with respect to the status of New Zealand citizenship, and to consolidate and amend the British Nationality and New Zealand Citizenship Act 1948
 
@@ -332,6 +332,9 @@ A person who ceases to be a New Zealand citizen shall not thereby be discharged 
 
 ### 26C Access to information for purposes of Identity Information Confirmation Act 2012
 Nothing in this Act limits access to information that is recorded under this Act if the access is for the purposes of, and in accordance with, the Identity Information Confirmation Act 2012.
+
+### 26D Provision of information to Government Statistician
+Nothing in this Act limits or prevents the provision of information recorded under this Act to the Government Statistician for the production of official statistics or research under the Data and Statistics Act 2022.
 
 ### 27 Offences and penalties
 (1) Every person commits an offence, and is liable on conviction to imprisonment for a term not exceeding 5 years or a fine not exceeding $15,000, or both, who—
