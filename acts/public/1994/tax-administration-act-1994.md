@@ -1,5 +1,5 @@
 # Tax Administration Act 1994
-_Consolidation as at 2022-07-01_
+_Consolidation as at 2022-09-01_
 
 > An Act to reorganise and consolidate the law relating to the Inland Revenue Department and the administration of income tax matters
 
@@ -38,8 +38,8 @@ _Consolidation as at 2022-07-01_
     (b) whose members—
       (i) typically provide trustee services in the course of their business activities:
       (ii) satisfy other criteria acceptable to the Commissioner; and
-    - **approved research and development cap** means the approved research and development cap described in section 68CD
     (c) that has been approved by the Commissioner for the purposes of this definition
+  - **approved research and development cap** means the approved research and development cap described in section 68CD
   - **approved research provider** means an approved research provider described in section 124ZH
   - **arrangement** —
     (a) means a contract, agreement, plan or understanding, whether enforceable or unenforceable, including all steps and transactions by which it is carried into effect:
@@ -3813,7 +3813,7 @@ A company or person apportioning its interest expenditure under section FE 6B of
   (b) the person complies with any conditions in the Commissioner’s approval; and
   (c) there is no material change in the provisions in subpart LY of that Act and any associated provisions; and
   (d) if the Commissioner approves a person and their activities for more than 1 income year, the person has given the Commissioner, on or before the 7th day of the 2nd month after the end of the relevant income year, notice that there have been no material changes for their business for the relevant income year.
-(2) The Commissioner may, in accordance with this section, approve a person’s research and development activities for an income year (the first income year), the income year immediately before (the prior year), and up to 2 income years immediately after, if the person makes an application in accordance with subsection (3) on or before the 7th day of the 2nd month after the end of the first income year. For a prior year, the Commissioner may only approve supporting research and development activities described in section LY 5(1)﻿(ab)﻿(i) of the Income Tax Act 2007..
+(2) The Commissioner may, in accordance with this section, approve a person’s research and development activities for an income year (the first income year), the income year immediately before (the prior year), and up to 2 income years immediately after, if the person makes an application in accordance with subsection (3) on or before the 7th day of the 2nd month after the end of the first income year. For a prior year, the Commissioner may only approve supporting research and development activities described in section LY 5(1)﻿(ab)﻿(i) of the Income Tax Act 2007.
 (3) A person must apply to the Commissioner for approval in the form prescribed by the Commissioner, including—
   (a) the activities the person wants the Commissioner to approve; and
   (b) the income years for which approval is sought; and
@@ -10107,10 +10107,7 @@ Section 18 does not prevent the Commissioner communicating information about a p
 Section 18 does not prevent the disclosure of sensitive revenue information to a person or entity specified in clauses 20 to 39 about the matter described in the provision, subject to any conditions set out in the provision.
 
 ### 20 Statistics New Zealand
-Section 18 does not prevent the Commissioner communicating to any officer, being an employee of Statistics New Zealand, any information, being information that—
-  (a) the officer is authorised by that department to receive; and
-  (b) the disclosure of which is made for the purposes of the Statistics Act 1975; and
-  (c) the Commissioner considers is not undesirable to disclose.
+Section 18 does not prevent the Commissioner disclosing information to the Government Statistician for the production of official statistics or research under the Data and Statistics Act 2022 if the Commissioner considers that it is not undesirable to disclose the information.
 
 ### 21 The Treasury
 (1) Section 18 does not prevent the Commissioner communicating to any officer, being an employee of the Treasury (as defined in section 2 of the Public Finance Act 1989), any information, being information that—
