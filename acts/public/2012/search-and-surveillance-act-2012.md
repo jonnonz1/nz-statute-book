@@ -1,5 +1,5 @@
 # Search and Surveillance Act 2012
-_Consolidation as at 2022-07-01_
+_Consolidation as at 2022-09-01_
 
 ### 1 Title
 This Act is the Search and Surveillance Act 2012.
@@ -3417,7 +3417,7 @@ Section 36(1) is amended by omitting 149C(1) and (2), 149D, 151, 152, 161, 165 t
 (2) Section 3(1)﻿(h) is repealed.
 (3) The heading above section 198 and sections 198 to 200 are repealed.
 (4) The heading above section 200A and sections 200A to 200P are repealed.
-(5) Part 2 of Schedule 1 is amended by inserting the following item after the item relating to the Sales Tax Act 1974:The following table is small and has 3 columns.Search and Surveillance Act 2012173Failing to comply with examination order174Failing to comply with production order
+(5) Part 2 of Schedule 1 is amended by inserting the following item after the item relating to the Sales Tax Act 1974:The following table is small in size and has 3 columns. This table amends Schedule 1 of the Summary Proceedings Act 1957 and should be read with that table to provide understanding of the context.Search and Surveillance Act 2012173Failing to comply with examination order174Failing to comply with production order
 
 **Amendments to Summary Proceedings Amendment Act (No 2) 2011**
 
@@ -3638,6 +3638,8 @@ Until the commencement date (within the meaning of section 394 of the Criminal P
 |  | 243 | Customs officer may seize and detain goods or documents that he or she has cause to suspect on reasonable grounds are evidence of certain offences under Misuse of Drugs Act 1975 or Films, Videos, and Publications Classification Act 1993, if those goods or documents are presented or located in the course of exercising powers of inspection, search, or examination under Customs and Excise Act 2018 | Subparts 1, 5, 6, 7, 9, and 10 (except that sections 125(4), 131(5)﻿(f), and 133 and subpart 6 do not apply to forfeited goods) |
 |  | clause 9(2) to (5) of Schedule 5A | Customs officer may exercise search powers in dealing with drugs smuggling outside New Zealand, etc | Subparts 1, 2, and 4 to 10 (except that sections 125(4), 131(5)﻿(f), and 133 and subparts 6 and 8 do not apply to forfeited goods) |
 | Dairy Industry Restructuring Act 2001 | 29I(1) | Constable or chief executive of Ministry of Agriculture and Forestry or person authorised by chief executive may obtain and execute search warrant to search for evidence of offence against section 31(3) of Dairy Industry Restructuring Act 2001 | All (except that sections 118 and 119 apply to constables only) |
+| Data and Statistics Act 2022 | section 57 | Statistician or authorised employee may enter and inspect any place of business (other than private dwelling or marae) or require records to be produced for the purpose of obtaining any data that the Statistician considers necessary or desirable to enable the Statistician to produce official statistics | Subparts 1, 2, 4, 5, 7, and 10 (except for sections 118 and 119) |
+|  | section 58 | Statistician or authorised employee may obtain a search warrant in relation to a place of business or enterprise if satisfied that there are reasonable grounds for believing that it is necessary or desirable for the purpose of enabling the Statistician to produce official statistics | Subpart 3 |
 | Dog Control Act 1996 | 14(1) to (3) | Dog control officer who has good cause to suspect that offence against Dog Control Act 1996 or bylaw under that Act is being committed may enter land or premises, and inspect any dog, and, if authorised by that Act, seize or take custody of dog (note: warrant must be obtained to enter dwellinghouse) | Subparts 1, 2, 4, and 7 to 10 (except that sections 118 and 119 apply to constables only) |
 |  | 56(3) | Dog ranger or dog control officer may enter dwellinghouse to remove barking dog (following non-compliance with remedial notice) if he or she obtains warrant to enter | Subparts 1, 3, 7, 9, and 10 |
 |  | 57(6)﻿(b) | Dog ranger or dog control officer may enter dwellinghouse to seize dog that has attacked persons or animals if he or she has warrant to enter (note: entry may be without warrant in exigent circumstances) | Subparts 1, 3, 7, 9, and 10 |
