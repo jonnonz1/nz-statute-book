@@ -1,5 +1,5 @@
 # Statistics Act 1975
-_Consolidation as at 2021-10-28_
+_Consolidation as at 2022-09-01_
 
 > An Act to consolidate and amend the Statistics Act 1955; and to make provision for official statistics; for a department having the name Statistics New Zealand and the office of Government Statistician; and for the independence of the Statistician in the execution of his duties
 
