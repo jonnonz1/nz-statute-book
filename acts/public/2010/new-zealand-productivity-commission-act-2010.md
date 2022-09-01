@@ -1,5 +1,5 @@
 # New Zealand Productivity Commission Act 2010
-_Consolidation as at 2010-12-20_
+_Consolidation as at 2022-09-01_
 
 ### 1 Title
 This Act is the New Zealand Productivity Commission Act 2010.
@@ -19,7 +19,7 @@ In this Act, unless the context otherwise requires,—
   - **Commission** means the New Zealand Productivity Commission established by section 6
   - **productivity-related matter** means any matter relating to productivity, or improving productivity, in the private sector, the public sector, or the economy as a whole
   - **publicly available** , in relation to a document or information, means that the document or information is available at all reasonable times, free of charge, on an Internet site maintained by, or on behalf of, the Commission
-  - **referring Ministers** has the meaning given to it by section 9(1)(a)
+  - **referring Ministers** has the meaning given to it by section 9(1)﻿(a)
   - **responsible Minister** means the Minister who, under the authority of any warrant or with the authority of the Prime Minister, is the person for the time being responsible for the administration of this Act.
 
 ### 5 Act binds the Crown
@@ -60,8 +60,8 @@ The principal purpose of the Commission is to provide advice to the Government o
 **Conduct of Commission's work**
 
 ### 11 Terms of reference
-(1) In carrying out its functions under section 9(1)(a), the Commission must act in accordance with the terms of reference set by the referring Ministers for each inquiry.
-(2) The referring Ministers must consult with the Commission about the terms of reference for each inquiry, before making a referral to the Commission under section 9(1)(a).
+(1) In carrying out its functions under section 9(1)﻿(a), the Commission must act in accordance with the terms of reference set by the referring Ministers for each inquiry.
+(2) The referring Ministers must consult with the Commission about the terms of reference for each inquiry, before making a referral to the Commission under section 9(1)﻿(a).
 (3) The terms of reference may, without limitation, specify—
   (a) the scope of the inquiry to be undertaken; and
   (b) requirements concerning consultation; and
@@ -77,7 +77,7 @@ The principal purpose of the Commission is to provide advice to the Government o
 (3) Subsections (1) and (2) are subject to sections 9(2), 11, 13, and 14.
 
 ### 13 Submission and presentation of reports
-(1) The Commission must submit a copy of its final report on each inquiry referred to it under section 9(1)(a) to the responsible Minister and each other referring Minister.
+(1) The Commission must submit a copy of its final report on each inquiry referred to it under section 9(1)﻿(a) to the responsible Minister and each other referring Minister.
 (2) The responsible Minister must present a copy of the final report to the House of Representatives as soon as practicable after the Minister receives it.
 
 ### 14 Publication of reports
@@ -87,8 +87,7 @@ The principal purpose of the Commission is to provide advice to the Government o
 **Miscellaneous provisions and amendments to other Acts**
 
 ### 15 Access to statistical information
-(1) Despite anything in the Statistics Act 1975, the Government Statistician may disclose individual schedules (as referred to in section 37C of the Statistics Act 1975) to any member of the Commission solely for bona fide research or statistical purposes pursuant to the functions of the Commission.
-(2) Section 37C(2) to (4) of the Statistics Act 1975 apply as if disclosure authorised by this section were disclosure to a government department under section 37C of that Act.
+[Repealed]
 
 ### 16 Amendments to other Acts
 The enactments in the Schedule are amended in the manner indicated in that schedule.
