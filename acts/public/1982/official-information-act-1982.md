@@ -1,5 +1,5 @@
 # Official Information Act 1982
-_Consolidation as at 2022-04-12_
+_Consolidation as at 2022-09-01_
 
 > An Act to make official information more freely available, to provide for proper access by each person to official information relating to that person, to protect official information to the extent consistent with the public interest and the preservation of personal privacy, to establish procedures for the achievement of those purposes, and to repeal the Official Secrets Act 1951
 
@@ -59,7 +59,8 @@ _Consolidation as at 2022-04-12_
     (k) does not include information contained in a victim impact statement (as defined in section 17AA of the Victims' Rights Act 2002); and
     (l) does not include any evidence, submissions, or other information given or made to—
       (i) the Judicial Conduct Commissioner, the Deputy Judicial Conduct Commissioner, or a Judicial Conduct Panel, in relation to any matter under the Judicial Conduct Commissioner and Judicial Conduct Panel Act 2004; or
-      (ii) the Judicial Complaints Lay Observer
+      (ii) the Judicial Complaints Lay Observer; and
+    (m) does not include information provided to the Government Statistician solely for research by or on behalf of an individual or an organisation (as defined in section 6 of the Data and Statistics Act 2022).
   - **Ombudsmen** means the Ombudsmen holding office under the Ombudsmen Act 1975
   - **organisation** means—
     (a) an organisation named in Part 2 of Schedule 1 of the Ombudsmen Act 1975 (other than the Parliamentary Service or mortality review committees):
