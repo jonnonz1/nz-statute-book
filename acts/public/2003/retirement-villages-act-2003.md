@@ -1,5 +1,5 @@
 # Retirement Villages Act 2003
-_Consolidation as at 2022-05-25_
+_Consolidation as at 2022-09-01_
 
 ### 1 Title
 This Act is the Retirement Villages Act 2003.
@@ -1079,7 +1079,7 @@ In any application for an order against a person under section 82, a finding of 
     (i) inspect and take copies of relevant documents; or
     (ii) take possession of relevant documents and remove them from the place where they are kept, and retain them for a reasonable time, for the purpose of taking copies; or
     (iii) retain relevant documents for a period that is, in all the circumstances reasonable, if there are reasonable grounds for believing that they are evidence of the commission of an offence.
-(2) Nothing in this section affects the Tax Administration Act 1994 or the Statistics Act 1975.
+(2) Nothing in this section affects the Tax Administration Act 1994 or the Data and Statistics Act 2022.
 (3) A person must not obstruct or hinder the Registrar or a person authorised by the Registrar while exercising a power conferred by subsection (1).
 (4) In this section relevant document, in relation to a retirement village, means a document that contains information relating to—
   (a) the retirement village; or
