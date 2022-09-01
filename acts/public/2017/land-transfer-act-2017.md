@@ -1,5 +1,5 @@
 # Land Transfer Act 2017
-_Consolidation as at 2022-04-12_
+_Consolidation as at 2022-09-01_
 
 ### 1 Title
 This Act is the Land Transfer Act 2017.
@@ -858,7 +858,7 @@ On registration of a transfer instrument that transfers or assigns an estate or 
 (3) Subsection (1) applies despite anything in the Family Violence Act 2018.
 
 ### 82A Chief executive must supply tax information to Statistician
-(1) The chief executive must supply to the Statistician (as defined in section 2 of the Statistics Act 1975) tax information and details about the transfer or transfers to which the tax information relates that are held by Land Information New Zealand, if the Statistician requests the information for the purposes of the Statistics Act 1975.
+(1) The chief executive must supply to the Statistician (as defined in section 6 of the Data and Statistics Act 2022) tax information and details about the transfer or transfers to which the tax information relates that are held by Land Information New Zealand, if the Statistician requests the information for the purposes of the Data and Statistics Act 2022.
 (2) Subsection (1) applies despite anything in the Family Violence Act 2018.
 
 ### 83 Other provisions concerning use of tax information
@@ -892,7 +892,7 @@ On registration of a transfer instrument that transfers or assigns an estate or 
 (2) In this section,—
   - **authorised person** means—
     (a) the Commissioner of Inland Revenue or an Inland Revenue officer who is authorised by the Commissioner to disclose and receive information under this section; or
-    (aa) the Statistician or an employee of the department (as those terms are defined in section 2 of the Statistics Act 1975) who is authorised by the Statistician to disclose and receive information under this section; or
+    (aa) the Statistician (as defined in section 6 of the Data and Statistics Act 2022) or an employee of Statistics New Zealand who is authorised by the Statistician to disclose and receive information under this section; or
     (b) the chief executive or an employee of the department who is authorised by the chief executive to disclose and receive information under this section
   - **Inland Revenue Acts** has the meaning given in section 3(1) of the Tax Administration Act 1994.
 
