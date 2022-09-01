@@ -1,5 +1,5 @@
 # Mental Health and Wellbeing Commission Act 2020
-_Consolidation as at 2022-07-01_
+_Consolidation as at 2022-09-01_
 
 ### 1 Title
 This Act is the Mental Health and Wellbeing Commission Act 2020.
@@ -139,7 +139,7 @@ The Commission has the power to—
 ### 15 Reasons for refusing to supply requested information
 (1) The Commission must not request, and an entity must not supply, information that is—
   (a) personal information as defined in section 2(1) of the Privacy Act 1993; or
-  (b) information held by the Government Statistician that was collected under the Statistics Act 1975; or
+  (b) information held by the Government Statistician that was collected under the Data and Statistics Act 2022; or
   (c) information that a revenue officer must keep confidential under section 18 of the Tax Administration Act 1994.
 (2) An entity may refuse a request for information if—
   (a) it can be properly withheld under sections 6, 7, 9(2)﻿(a), (b)﻿(i), (ba)﻿(ii), (c) to (h), (j), or (k) of the Official Information Act 1982; or
