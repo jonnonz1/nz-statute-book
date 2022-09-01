@@ -1,5 +1,5 @@
 # Summary Proceedings Act 1957
-_Consolidation as at 2022-07-01_
+_Consolidation as at 2022-09-01_
 
 > Title
 
@@ -77,6 +77,7 @@ _Consolidation as at 2022-07-01_
     (jf) section 30Q of the Climate Change Response Act 2002; or
     (jg) section 20D or 89 of the Smokefree Environments and Regulated Products Act 1990; or
     (jh) section 30 of the COVID-19 Public Health Response Act 2020; or
+    (ji) section 70 of the Data and Statistics Act 2022; or
     (k) any provision of any other Act providing for the use of the infringement notice procedure under section 21
   - **infringement offence** means any offence under any Act in respect of which a person may be issued with an infringement notice
   - **Police employee** has the same meaning as in section 4 of the Policing Act 2008
