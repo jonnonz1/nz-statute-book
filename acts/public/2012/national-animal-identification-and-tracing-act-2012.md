@@ -1,5 +1,5 @@
 # National Animal Identification and Tracing Act 2012
-_Consolidation as at 2021-10-28_
+_Consolidation as at 2022-09-01_
 
 ### 1 Title
 This Act is the National Animal Identification and Tracing Act 2012.
@@ -461,6 +461,9 @@ An information provider may, on behalf of a PICA, perform 1 or more of the follo
 The NAIT organisation must, at the written request of the Minister, provide the Crown with a copy of all or part of the core data—
   (a) in accordance with the Minister’s specifications (if any); and
   (b) at no cost to the Crown.
+
+### 23B Provision of information to Government Statistician
+Nothing in this Act limits, prevents, or permits a fee to be charged for, the provision of information to the Government Statistician for the production of official statistics or research under the Data and Statistics Act 2022.
 
 ## Part 3 — Obligations of persons participating in NAIT scheme
 
