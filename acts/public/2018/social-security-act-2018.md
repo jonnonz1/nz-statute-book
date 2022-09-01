@@ -1,5 +1,5 @@
 # Social Security Act 2018
-_Consolidation as at 2022-07-01_
+_Consolidation as at 2022-09-01_
 
 ### 1 Title
 This Act is the Social Security Act 2018.
@@ -4388,8 +4388,9 @@ A power in this Part to make any Orders in Council is not limited by any power o
   (a) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements); but
   (b) commences in accordance with subsection (5), even if it is not yet published.
 (6) In this section,—
-  - **average ordinary time weekly earnings** means average ordinary time weekly earnings (per full-time equivalent) as determined by the Quarterly Employment Survey of wages published (as original, or revised, statistics) by Statistics New Zealand (after the deduction of standard tax, and the earner levies, payable as at 1 April of the following year, on those earnings)
+  - **average ordinary time weekly earnings** means average ordinary time weekly earnings (per full-time equivalent) as determined by the QES (after the deduction of standard tax, and the earner levies, payable as at 1 April of the following year, on those earnings)
   - **earner levies** means the levies payable under section 219(1) of the Accident Compensation Act 2001
+  - **QES** means the Quarterly Employment Survey of wages published (as original, or revised, statistics) by Statistics New Zealand or, if that survey ceases to be published, any measure certified by the Government Statistician as being equivalent to that survey
   - **standard tax** means the amount of tax reckoned on a weekly basis that would be deductible in accordance with the tax code “M” stated in schedule 5, part A, clause 4, table row 1 of the Tax Administration Act 1994.
 
 ### 453 Orders in Council: mandatory annual CPI adjustment of rates of certain benefits that are not main benefits
@@ -4401,13 +4402,13 @@ A power in this Part to make any Orders in Council is not limited by any power o
   (b) Part 5 of Schedule 4 (unsupported child’s benefit):
   (c) Part 12 of Schedule 4 (rates of benefits payable to long-term hospital patients).
 (3) The adjustments (by any percentage movement upwards in the CPI) required under subsection (1) as at 1 April in any year from 2018 to 2021 (inclusive) must, despite subsections (1) and (2), be calculated,—
-  (a) if, and insofar as, they relate to movements during quarters that end before 29 April 2010, using index numbers for those quarters of the Consumers Price Index (All Groups) published by Statistics New Zealand; and
-  (b) if, and insofar as, they relate to movements during quarters that end after 28 April 2010, using index numbers for those quarters of the Consumers Price Index (All Groups Excluding Cigarettes and Other Tobacco Products) published by Statistics New Zealand.
+  (a) if, and insofar as, they relate to movements during quarters that end before 29 April 2010, using index numbers for those quarters of the CPI; and
+  (b) if, and insofar as, they relate to movements during quarters that end after 28 April 2010, using index numbers for those quarters of the Consumers Price Index (less cigarettes and tobacco subgroup) published by Statistics New Zealand or, if that index ceases to be published, any measure certified by the Government Statistician as being equivalent to that index.
 (4) An adjustment under subsection (1) must not reduce the weekly amounts of benefits payable under those Parts of Schedule 4.
 (5) Every Order in Council made under subsection (1)—
   (a) comes into force or is considered to come into force on 1 April of the calendar year in which it is made; and
   (b) applies to benefits payable on and after that date.
-(6) In this section, CPI means the Consumers Price Index (All Groups) published by Statistics New Zealand.
+(6) In this section, CPI means the Consumers Price Index (all groups) published by Statistics New Zealand or, if that index ceases to be published, any measure certified by the Government Statistician as being equivalent to that index.
 (7) An order under this section—
   (a) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements); but
   (b) commences in accordance with subsection (5), even if it is not yet published.
