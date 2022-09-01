@@ -1,5 +1,5 @@
 # New Zealand Superannuation and Retirement Income Act 2001
-_Consolidation as at 2022-07-01_
+_Consolidation as at 2022-09-01_
 
 ### 1 Title
 This Act is the New Zealand Superannuation and Retirement Income Act 2001.
@@ -192,12 +192,12 @@ The rate of New Zealand superannuation payable to a person is the appropriate ra
 
 ### 15 Annual adjustment of rates
 (1) In this section,—
-  - **CPI** means the consumers price index-all groups published by Statistics New Zealand
+  - **Consumers Price Index (all groups)** means the Consumers Price Index (all groups) published by Statistics New Zealand or, if that index ceases to be published, any measure certified by the Government Statistician as being equivalent to that index
   - **standard tax** means the amount of tax reckoned on a weekly basis that would be deductible in accordance with the tax code M stated in schedule 5, part A, clause 4, table row 1 of the Tax Administration Act 1994.
-(2) Subject to subsection (3), the rates of New Zealand superannuation stated in clause 1 of Part 1 of Schedule 1, and clause 1(b) of Part 2 of that schedule, must be adjusted, by Order in Council, as at 1 April each year so that in each case the new rate (after the deduction of standard tax) is the rate at that date (after the deduction of standard tax and before the adjustment under this section is made) adjusted by any percentage movement upwards in the CPI between the CPI for the quarter ended with 31 December one year before the immediately preceding 31 December and the CPI for the quarter ended with the immediately preceding 31 December.
-(2A) The adjustments (by any percentage movement upwards in the CPI) required under subsection (2) as at 1 April in any year from 2011 to 2021 (inclusive) must, despite subsections (1) and (2), be calculated,—
-  (a) if, and insofar as, they relate to movements during quarters that end before 29 April 2010, using index numbers for those quarters of the consumers price index-all groups published by Statistics New Zealand; and
-  (b) if, and insofar as, they relate to movements during quarters that end after 28 April 2010, using index numbers for those quarters of the consumers price index-all groups excluding cigarettes and other tobacco products published by Statistics New Zealand.
+(2) Subject to subsection (3), the rates of New Zealand superannuation stated in clause 1 of Part 1 of Schedule 1, and clause 1(b) of Part 2 of that schedule, must be adjusted, by Order in Council, as at 1 April each year so that in each case the new rate (after the deduction of standard tax) is the rate at that date (after the deduction of standard tax and before the adjustment under this section is made) adjusted by any percentage movement upwards in the Consumers Price Index (all groups) between the Consumers Price Index (all groups) for the quarter ended with 31 December one year before the immediately preceding 31 December and the Consumers Price Index (all groups) for the quarter ended with the immediately preceding 31 December.
+(2A) The adjustments (by any percentage movement upwards in the Consumers Price Index (all groups)) required under subsection (2) as at 1 April in any year from 2011 to 2021 (inclusive) must, despite subsections (1) and (2), be calculated,—
+  (a) if, and insofar as, they relate to movements during quarters that end before 29 April 2010, using index numbers for those quarters of the Consumers Price Index (all groups); and
+  (b) if, and insofar as, they relate to movements during quarters that end after 28 April 2010, using index numbers for those quarters of the Consumers Price Index (less cigarettes and tobacco subgroup) published by Statistics New Zealand or, if that index ceases to be published, any measure certified by the Government Statistician as being equivalent to that index.
 (3) Every Order in Council made under subsection (2) must adjust the rates of New Zealand superannuation, subject to subsection (4),—
   (a) so that the weekly amounts referred to in section 16 are set in accordance with that section; and
   (b) so that the rate of New Zealand superannuation specified in clause 1(b) of Part 2 of Schedule 1 preserves its proportional relationship (after the deduction of standard tax) to the rates specified in clause 1 of Part 1 of that schedule.
@@ -215,10 +215,12 @@ The rate of New Zealand superannuation payable to a person is the appropriate ra
 
 ### 16 Annual adjustment of New Zealand superannuation: relationship to net average wage
 (1) The annual adjustment of New Zealand superannuation under section 15 must ensure that—
-  (a) the standard weekly amount of New Zealand superannuation (after the deduction of standard tax) payable to a couple who are married or in a civil union or in a de facto relationship, both of whom are qualified to receive New Zealand superannuation, is not less than 66% or more than 72.5% of the average ordinary time weekly earnings (males and females combined) as determined by the last Quarterly Employment Survey of wages published by the Department of Statistics before 1 March in each year (after the deduction of standard tax and the earner levies payable on those earnings):
+  (a) the standard weekly amount of New Zealand superannuation (after the deduction of standard tax) payable to a couple who are married or in a civil union or in a de facto relationship, both of whom are qualified to receive New Zealand superannuation, is not less than 66% or more than 72.5% of the average ordinary time weekly earnings (males and females combined) as determined by the last QES before 1 March in each year (after the deduction of standard tax and the earner levies payable on those earnings):
   (b) the standard weekly amount of New Zealand superannuation (after the deduction of standard tax) payable to a single person who is living alone is 65% of the weekly amount of New Zealand superannuation (after the deduction of standard tax) payable to a couple who are married or in a civil union, both of whom are qualified to receive New Zealand superannuation:
   (c) the standard weekly amount of New Zealand superannuation (after the deduction of standard tax) payable to a single person who is not living alone is 60% of the weekly amount of New Zealand superannuation (after the deduction of standard tax) payable to a couple who are married or in a civil union, both of whom are qualified to receive New Zealand superannuation.
-(2) In this section, earner levies means the levies payable under section 219(1) of the Accident Compensation Act 2001.
+(2) In this section,—
+  - **earner levies** means the levies payable under section 219(1) of the Accident Compensation Act 2001
+  - **QES** means the Quarterly Employment Survey of wages published by Statistics New Zealand or, if that survey ceases to be published, any measure certified by the Government Statistician as being equivalent to that survey.
 
 **Effect of long-term residential care or hospitalisation**
 
