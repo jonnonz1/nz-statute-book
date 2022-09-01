@@ -1,5 +1,5 @@
 # Child Poverty Reduction Act 2018
-_Consolidation as at 2021-10-28_
+_Consolidation as at 2022-09-01_
 
 ### 1 Title
 This Act is the Child Poverty Reduction Act 2018.
@@ -61,9 +61,9 @@ In this Act, unless the context otherwise requires,—
   - **primary measure** means a measure specified in or required by sections 10 to 13
   - **reports** means reports under section 30
   - **severe material hardship** , in a financial year, for the purposes of section 19, has the meaning given to it by the Statistician’s definition
-  - **Statistician** has the meaning given to it by section 2 of the Statistics Act 1975
+  - **Statistician** has the meaning given to it by section 6 of the Data and Statistics Act 2022
   - **Statistician’s definition** , for a concept or term, means the concept or term as it is defined by a written decision of the Statistician made under section 34
-  - **Statistics New Zealand** means the department of State established under that name by the Statistics Act 1975
+  - **Statistics New Zealand** means the department of State continued by the Data and Statistics Act 2022
   - **strategy** means the strategy under the Children’s Act 2014
   - **supplementary measure** means a measure specified in or required by sections 15 to 20
   - **targets** means—
@@ -238,14 +238,14 @@ The Minister must ensure that each current target is reviewed—
 (2) In preparing the report, and performing other duties or functions under this Act, the Statistician and the chief executive must act independently of, and are not subject to direction from, Ministers of the Crown or other chief executives of departments of State.
 (3) Subsection (2)—
   (a) applies despite section 52 of the Public Service Act 2020 or any other legislation to the contrary; and
-  (b) applies to the Statistician, in performing duties or functions under this Act, instead of section 15 of the Statistics Act 1975.
+  (b) applies to the Statistician, in performing duties or functions under this Act, instead of section 16 of the Data and Statistics Act 2022.
 
 ### 34 Reports: Statistician decides how statistics to be produced
 (1) In preparing the report, and performing other duties or functions under this Act, the Statistician must decide the following to be used in the provision of any statistics to be produced:
   (a) concepts or terms (for example, classifications or definitions) mentioned in section 6(1); and
   (b) the data and statistical methodology.
 (2) Before making the decisions required by subsection (1), the Statistician must consult the chief executive on the Statistician’s proposed decisions.
-(3) The provisions of the Statistics Act 1975 that relate to official statistics apply to the Statistician, in performing duties or functions under this Act, unless this Act provides otherwise or those provisions are inconsistent with this Act.
+(3) The provisions of the Data and Statistics Act 2022 that relate to official statistics apply to the Statistician, in performing duties or functions under this Act, unless this Act provides otherwise or those provisions are inconsistent with this Act.
 
 ### 35 Reports: duty to follow statistical best practice
 In preparing the report, and performing other duties or functions under this Act, the Statistician and the chief executive must, whenever it is reasonably practicable to do so, follow statistical best practice.
