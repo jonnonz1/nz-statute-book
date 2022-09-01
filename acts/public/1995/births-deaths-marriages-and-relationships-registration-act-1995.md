@@ -1,5 +1,5 @@
 # Births, Deaths, Marriages, and Relationships Registration Act 1995
-_Consolidation as at 2022-07-01_
+_Consolidation as at 2022-09-01_
 
 > Title
 
@@ -1294,7 +1294,7 @@ All entries in any register made pursuant to section 25 of the Births and Deaths
 The Registrar-General and every Registrar shall, in respect of any statutory declaration made for the purposes of this Act, the Marriage Act 1955, or the Civil Union Act 2004, be deemed to be persons duly authorised to take and receive a statutory declaration under section 9 of the Oaths and Declarations Act 1957.
 
 ### 87A Provision of information to Statistics New Zealand
-This Act does not limit the provision of information under the Statistics Act 1975.
+This Act does not limit the provision of information under the Data and Statistics Act 2022.
 
 ### 87AB Access to information for purposes of Identity Information Confirmation Act 2012
 Nothing in this Act limits access to information that is recorded under this Act if the access is for the purposes of, and in accordance with, the Identity Information Confirmation Act 2012.
