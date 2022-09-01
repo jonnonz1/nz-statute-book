@@ -1,5 +1,5 @@
 # Veterans' Support Act 2014
-_Consolidation as at 2022-07-01_
+_Consolidation as at 2022-09-01_
 
 ### 1 Title
 This Act is the Veterans' Support Act 2014.
@@ -155,6 +155,7 @@ In this Act, unless the context otherwise requires,—
     (d) dependants of veterans; and
     (e) persons (other than the spouse or partner, or a child or dependant, of the veteran) who provide non-professional support to veterans for the purposes of section 107
   - **partner** means a civil union partner or a de facto partner
+  - **QES** means the Quarterly Employment Survey of wages published by Statistics New Zealand or, if that survey ceases to be published, any measure certified by the Government Statistician as being equivalent to that survey
   - **review decision** means a decision made by a review officer, a review panel, or the general manager under subpart 2 of Part 7
   - **review officer** means a member or a contractor of the Defence Force appointed by the general manager (or by the Chief of Defence Force if section 219(2)﻿(b) applies) to conduct reviews under subpart 2 of Part 7
   - **review panel** means a Veterans' Service Review Panel established under section 223
@@ -468,7 +469,7 @@ The production in proceedings of a statement of principles or an amendment of a 
   (a) the prescribed formula specifies a minimum movement in average weekly earnings; and
   (b) the movement in average weekly earnings is less than the minimum movement specified.
 
-### 31 Indexation of certain entitlements in relation to New Zealand Consumers Price Index
+### 31 Indexation of certain entitlements in relation to Consumers Price Index
 (1) VANZ must adjust the following in the manner specified in subsection (3):
   (a) the rates of disablement pension (section 56):
   (b) the rate of the surviving spouse or partner pension (section 66):
@@ -489,12 +490,13 @@ The production in proceedings of a statement of principles or an amendment of a 
   (n) child care payments for children of deceased veterans (clause 64 of Schedule 2).
 (2) VANZ may adjust in the manner specified in subsection (3) any costs, amounts, or limits on costs that are not required to be adjusted under section 30 or subsection (1) of this section.
 (3) Any adjustments under subsection (1) or (2)—
-  (a) must be made in accordance with a prescribed formula or prescribed formulas relating to any movement in the New Zealand Consumers Price Index or any group or subgroup within the Index; and
+  (a) must be made in accordance with a prescribed formula or prescribed formulas relating to any movement in the Consumers Price Index or any group or subgroup within the Index; and
   (b) have effect from the prescribed date or dates; and
   (c) must be published by VANZ on an Internet site maintained by or on behalf of VANZ and published in any other manner that VANZ thinks appropriate to bring the adjustments to the attention of claimants and the general public.
 (4) VANZ is not required to adjust any amount under subsection (1) if—
-  (a) the prescribed formula specifies a minimum movement in the New Zealand Consumers Price Index or any group or subgroup within the Index; and
-  (b) the movement in the New Zealand Consumers Price Index, group, or subgroup is less than the minimum movement specified.
+  (a) the prescribed formula specifies a minimum movement in the Consumers Price Index or any group or subgroup within the Index; and
+  (b) the movement in the Consumers Price Index, group, or subgroup is less than the minimum movement specified.
+(5) In this section, Consumers Price Index (all groups) means the Consumers Price Index (all groups) published by Statistics New Zealand or, if that index ceases to be published, any measure certified by the Government Statistician as being equivalent to that index.
 
 ## Part 2 — Code of Veterans' and Other Claimants' Rights
 
@@ -721,9 +723,7 @@ Schedule 1 contains transitional provisions relating to veterans who are receivi
 
 ### 61 Rate of weekly income compensation
 (1) Weekly income compensation is payable at the rate that is 80% of the average wage.
-(2) Average wage, in subsection (1), means the before tax average ordinary time weekly wage (all sectors, male and female combined) as at 1 April each year, as specified in—
-  (a) the latest Quarterly Employment Survey published by Statistics New Zealand; or
-  (b) if the survey referred to in paragraph (a) ceases to be published, a survey certified by the Government Statistician as an equivalent survey to the survey referred to in that paragraph.
+(2) In this section, average wage means the before tax average ordinary time weekly wage (all sectors, male and female combined) as at 1 April each year, as specified in the latest QES.
 
 ### 62 Entitlement to weekly income compensation ceases if veteran able to work full-time
 (1) This section applies to a veteran who is under the New Zealand superannuation qualification age and is receiving weekly income compensation.
@@ -1728,14 +1728,14 @@ A veteran’s pension commences on the later of—
 ### 170 Annual adjustment of rates of veteran's pension
 (1) The rates of veteran's pension must be reviewed in accordance with this section before 1 April every year and, if the review concludes that any of the rates require adjustment under this section, the relevant rate or rates must be adjusted as at 1 April by a notice published by VANZ in accordance with this section.
 (2) In this section,—
-  - **average wage** means the average ordinary time weekly earnings (males and females combined) as determined by the last Quarterly Employment Survey of wages published by Statistics New Zealand before 1 March in each year (after the deduction of standard tax and the earner levy payable on those earnings)
-  - **CPI** means the Consumers Price Index All Groups published by Statistics New Zealand
+  - **average wage** means the average ordinary time weekly earnings (males and females combined) as determined by the last QES before 1 March in each year (after the deduction of standard tax and the earner levy payable on those earnings)
+  - **Consumers Price Index (all groups)** means the Consumers Price Index (all groups) published by Statistics New Zealand or, if that index ceases to be published, any measure certified by the Government Statistician as being equivalent to that index
   - **earner levy** means the levy payable under section 219(1) of the Accident Compensation Act 2001
   - **standard tax** means the amount of tax, calculated on a weekly basis, that would be deductible in accordance with tax code M specified in schedule 5, part A, clause 4, table row 1 of the Tax Administration Act 1994.
-(3) Subject to subsections (5) and (6), the relationship rate, the single living alone rate, and the single sharing accommodation rate must be adjusted upwards to reflect any percentage movement upwards in the CPI between—
-  (a) the CPI for the quarter that ends on 31 December 1 year before the immediately preceding 31 December; and
-  (b) the CPI for the quarter that ends on the immediately preceding 31 December.
-(4) The adjustments (by any percentage movements upwards in the CPI) required under subsection (3) as at 1 April in any year from 2015 to 2021 (inclusive) must, despite subsections (2) and (3), be calculated using index numbers of the CPI, excluding cigarettes and other tobacco products, published by Statistics New Zealand.
+(3) Subject to subsections (5) and (6), the relationship rate, the single living alone rate, and the single sharing accommodation rate must be adjusted upwards to reflect any percentage movement upwards in the Consumers Price Index (all groups) between—
+  (a) the Consumers Price Index (all groups) for the quarter that ends on 31 December 1 year before the immediately preceding 31 December; and
+  (b) the Consumers Price Index (all groups) for the quarter that ends on the immediately preceding 31 December.
+(4) The adjustments (by any percentage movements upwards in the CPI) required under subsection (3) as at 1 April in any year from 2015 to 2021 (inclusive) must, despite subsection (3), be calculated using index numbers of the Consumers Price Index less cigarettes and tobacco subgroup published by Statistics New Zealand or, if that index ceases to be published, any measure certified by the Government Statistician as being equivalent to that index.
 (5) If the relationship rate, the single living alone rate, or the single sharing accommodation rate does not meet the relevant criteria described in subsection (6), the rate must be adjusted to meet the criteria.
 (6) The criteria are—
   (a) the total amount payable to a veteran and the veteran's spouse or partner who are both eligible to receive a veteran's pension at the relationship rate (before any abatement under section 171 but after the deduction of standard tax) must not be less than 66% of the average wage or more than 72.5% of the average wage:
@@ -3251,9 +3251,7 @@ If VANZ is determining earnings under this Part in relation to a self-employed p
 
 ### 25 Minimum weekly compensation
 (1) Despite the other provisions of this Part, the weekly compensation payable under this Part must not be less than 80% of the average wage.
-(2) Average wage, in subclause (1), means the before tax average ordinary time weekly wage (all sectors, male and female combined) as at 1 July each year, as specified in—
-  (a) the latest Quarterly Employment Survey published by Statistics New Zealand; or
-  (b) if the survey referred to in paragraph (a) ceases to be published, a survey certified by the Government Statistician as an equivalent survey to the survey referred to in that paragraph.
+(2) In this clause, average wage means the before tax average ordinary time weekly wage (all sectors, male and female combined) as at 1 July each year, as specified in the latest QES.
 
 **VANZ to pay weekly compensation from first day of incapacity**
 
@@ -3404,9 +3402,7 @@ If VANZ is determining earnings under this Part in relation to a self-employed p
 (3) However, the veteran is entitled to weekly compensation at a rate that is not less than 80% of the average wage if the amount calculated under subclause (2) is less than 80% of the average wage.
 (4) Subclause (5) applies to a veteran who had no pre-injury or pre-illness earnings within 12 months of the start of the service-related injury or illness.
 (5) A veteran to whom this subclause applies is entitled to weekly compensation at a rate that is not less than 80% of the average wage.
-(6) Average wage, in this clause, means the before tax average ordinary time weekly wage (all sectors, male and female combined) as at 1 July each year, as specified in—
-  (a) the latest Quarterly Employment Survey published by Statistics New Zealand; or
-  (b) if the survey referred to in paragraph (a) ceases to be published, a survey certified by the Government Statistician as an equivalent survey to the survey referred to in that paragraph.
+(6) In this clause, average wage means the before tax average ordinary time weekly wage (all sectors, male and female combined) as at 1 July each year, as specified in the latest QES.
 
 **Veteran no longer an employee**
 
