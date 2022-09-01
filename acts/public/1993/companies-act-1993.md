@@ -1,5 +1,5 @@
 # Companies Act 1993
-_Consolidation as at 2022-07-01_
+_Consolidation as at 2022-09-01_
 
 > An Act to reform the law relating to companies, and, in particular,—ato reaffirm the value of the company as a means of achieving economic and social benefits through the aggregation of capital for productive purposes, the spreading of economic risk, and the taking of business risks; andbto provide basic and adaptable requirements for the incorporation, organisation, and operation of companies; andcto define the relationships between companies and their directors, shareholders, and creditors; anddto encourage efficient and responsible management of companies by allowing directors a wide discretion in matters of business judgment while at the same time providing protection for shareholders and creditors against the abuse of management power; andeto provide straightforward and fair procedures for realising and distributing the assets of insolvent companies
 
@@ -6266,7 +6266,7 @@ Where, pursuant to this Act or any regulations under this Act, any action is req
   (a) a particular form in which the confirmation or correction must be provided; and
   (b) a date by which the confirmation or correction must be provided; and
   (c) whether the confirmation or correction must be verified by the production of original documents or certified copies of original documents or by a statutory declaration.
-(2) Nothing in this section limits or affects the Tax Administration Act 1994 or the Statistics Act 1975.
+(2) Nothing in this section limits or affects the Tax Administration Act 1994 or the Data and Statistics Act 2022.
 (3) The Registrar or a person authorised by the Registrar must consult with the Reserve Bank of New Zealand before exercising any of the powers conferred by subsection (1) if the purpose of exercising the power relates to a company that is a registered bank (within the meaning of section 2 of the Banking (Prudential Supervision) Act 1989).
 (4) A person must not obstruct or hinder the Registrar or a person authorised by the Registrar while exercising a power conferred by subsection (1).
 (5) Any person who—commits an offence and is liable on conviction to the penalty set out in section 373(2).
@@ -7461,16 +7461,17 @@ Except as provided in this schedule and in any regulations made under this Act, 
 (2) The sum stated in subclause (1) must be adjusted as follows:
   (a) subject to paragraph (d), an adjustment must be made, by the Governor-General by Order in Council, after the 3-year period starting on 1 July 2006 and ending on 30 June 2009 and after every 3-year period following that (an adjustment period) (see subclause (5)):
   (b) subject to paragraph (d), the Order in Council must be made within 4 months of the end of an adjustment period:
-  (c) each adjustment must reflect any overall percentage increase, over the relevant adjustment period, in average weekly earnings (total, private sector), calculated by reference to the last Quarterly Employment Survey published by Statistics New Zealand (or, if that survey ceases to be published, a survey certified by the Government Statistician as an equivalent to that survey) within the relevant adjustment period:
+  (c) each adjustment must reflect any overall percentage increase, over the relevant adjustment period, in average weekly earnings (total, private sector), calculated by reference to the last QES within the relevant adjustment period:
   (d) if, in an adjustment period, there is no change, or an overall decrease, in the percentage movement in average weekly earnings (total, private sector), as so calculated, no adjustment may be made for that adjustment period:
   (e) if, in accordance with paragraph (d), no adjustment is made, the next adjustment made for any succeeding adjustment period must reflect any overall percentage increase in average weekly earnings (total, private sector) between the date of the last adjustment and the end of the relevant adjustment period for which the adjustment is to be made:
   (f) all adjustments are cumulative and must be rounded to the nearest $20:
-  (g) any correction to the Quarterly Employment Survey on which an adjustment is based must be disregarded until the adjustment that takes effect in the following adjustment period, which must reflect the corrected information in the calculation of that adjustment and must otherwise be made in accordance with this subclause.
+  (g) any correction to the QES on which an adjustment is based must be disregarded until the adjustment that takes effect in the following adjustment period, which must reflect the corrected information in the calculation of that adjustment and must otherwise be made in accordance with this subclause.
 (3) The sum stated in subclause (1), or any greater amount prescribed under subclause (2) that applies on the date of commencement of a liquidation, continues to apply to that liquidation regardless of any change to that sum that is prescribed after the date of commencement of the liquidation.
 (4) For the purposes of this clause and clause 1,—
   (a) remuneration in respect of a period of holiday or of absence from work through sickness or other good cause is to be treated as wages in respect of services rendered to the company during that period:
   (b) employee means any person of any age employed by an employer to do any work for hire or reward under a contract of service (including a homeworker as defined in section 5 of the Employment Relations Act 2000); but does not include a person who is, or was at any time during the 12 months before the commencement of the liquidation, a director of the company in liquidation, or a nominee or relative of, or a trustee for, a director of the company:
-  (c) holiday pay, in relation to a person, means all sums payable to that person by the company under subpart 1 of Part 2 of the Holidays Act 2003, and includes all sums that by or under any other enactment or any award, agreement, or contract of service are payable to that person by the company as holiday pay.
+  (c) holiday pay, in relation to a person, means all sums payable to that person by the company under subpart 1 of Part 2 of the Holidays Act 2003, and includes all sums that by or under any other enactment or any award, agreement, or contract of service are payable to that person by the company as holiday pay:
+  (d) QES means the Quarterly Employment Survey published by Statistics New Zealand or, if that survey ceases to be published, any measure certified by the Government Statistician as being an equivalent to that survey.
 (5) An order under subclause (2)﻿(a) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 4 Subrogation of persons if payment has been made
