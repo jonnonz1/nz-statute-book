@@ -1,5 +1,5 @@
 # Building Act 2004
-_Consolidation as at 2022-04-12_
+_Consolidation as at 2022-09-07_
 
 ### 1 Title
 This Act is the Building Act 2004.
@@ -48,12 +48,12 @@ This Act has the following purposes:
       (B) the need to ensure that household units comply with the building code:
     (ii) the need to ensure that maintenance requirements of household units are reasonable:
     (iii) the desirability of ensuring that owners of household units are aware of the maintenance requirements of their household units:
-  (b) the need to ensure that any harmful effect on human health resulting from the use of particular building methods or products or of a particular building design, or from building work, is prevented or minimised:
+  (b) the need to ensure that any harmful effect on human health resulting from the use of particular building products, building methods, or building designs, or from building work, is prevented or minimised:
   (c) the importance of ensuring that each building is durable for its intended use:
   (d) the importance of recognising any special traditional and cultural aspects of the intended use of a building:
   (e) the costs of a building (including maintenance) over the whole of its life:
-  (f) the importance of standards of building design and construction in achieving compliance with the building code:
-  (g) the importance of allowing for continuing innovation in methods of building design and construction:
+  (f) the importance of standards of building products, building methods, and building designs in achieving compliance with the building code:
+  (g) the importance of allowing for continuing innovation in building products, building methods, and building designs:
   (h) the reasonable expectations of a person who is authorised by law to enter a building to undertake rescue operations or firefighting to be protected from injury or illness when doing so:
   (i) the need to provide protection to limit the extent and effects of the spread of fire, particularly with regard to—
     (i) household units (whether on the same land or on other property); and
@@ -63,7 +63,7 @@ This Act has the following purposes:
   (l) the need to facilitate the preservation of buildings of significant cultural, historical, or heritage value:
   (m) the need to facilitate the efficient use of energy and energy conservation and the use of renewable sources of energy in buildings:
   (n) the need to facilitate the efficient and sustainable use in buildings of—
-    (i) materials (including materials that promote or support human health); and
+    (i) building products (including building products that promote or support human health); and
     (ii) material conservation:
   (o) the need to facilitate the efficient use of water and water conservation in buildings:
   (p) the need to facilitate the reduction in the generation of waste during the construction process.
@@ -93,15 +93,24 @@ This Act has the following purposes:
     (ii) empowers the chief executive to register building consent authorities that have been accredited to allow them to perform functions under Parts 2 and 3:
     (iii) provides for the appointment of a building consent accreditation body and the accreditation of building consent authorities:
     (iv) provides for the appointment of a dam owner accreditation body and the accreditation of dam owners:
-    (v) provides for the appointment of a product certification accreditation body and the accreditation of product certification bodies:
-    (vi) sets out a process for the certification of building methods or products:
+    (v) provides for—
+      (A) the appointment of a person as the product certification accreditation body; and
+      (B) the accreditation and registration of product certification bodies; and
+      (C) the certification of building products and building methods and the registration of those certificates:
+    (vi) provides for—
+      (A) the appointment of a person as the modular component manufacturer certification accreditation body; and
+      (B) the accreditation and registration of modular component manufacturer certification bodies; and
+      (C) the certification and registration of modular component manufacturers:
   (d) Part 4 and Schedule 3 deal with matters relating to the licensing and disciplining of building practitioners, the establishment of the Building Practitioners Board, and the making of rules relating to licensed building practitioners:
+  (da) Part 4A deals with consumer rights and remedies in relation to residential building work:
+  (db) Part 4B deals with building product information requirements and suppliers’ obligations in relation to information:
   (e) Part 5 and Schedule 4 deal with miscellaneous matters that underpin the substantive provisions of this Act, including—
     (i) offences and criminal proceedings:
     (ii) implied terms of contracts that provide for building work to be carried out in relation to household units:
     (iii) regulation-making powers:
     (iv) amendments to other enactments and the repeal of the Building Act 1991:
-    (v) transitional provisions.
+    (v) transitional provisions:
+  (f) Schedule 1AA deals with transitional, savings, and related matters.
 (3) This section is intended only as a guide to the general scheme and effect of this Act.
 
 **Transitional, savings, and related provisions**
@@ -138,6 +147,8 @@ The transitional, savings, and related provisions set out in Schedule 1AA have e
       (v) any similar place
   - **acceptable solution** means an acceptable solution issued under section 22(1)
   - **accredited dam owner** means an owner of a dam who is accredited under section 258
+  - **accredited MCMCB** means a person who has been accredited as a modular component manufacturer certification body under section 272J and whose accreditation is not suspended and has not been revoked
+  - **accredited PCB** means a person who has been accredited as a product certification body under section 263 and whose accreditation is not suspended and has not been revoked
   - **allotment** has the meaning given to it by section 10
   - **alter** , in relation to a building, includes to rebuild, re-erect, repair, enlarge, and extend the building
   - **appurtenant structure** , in relation to a dam, means a structure that is integral to the safe functioning of the dam as a structure for retaining water or other fluid
@@ -149,14 +160,16 @@ The transitional, savings, and related provisions set out in Schedule 1AA have e
   - **building consent accreditation body** means the person referred to in section 248(2)
   - **building consent authority** means a person whose name is entered in the register referred to in section 273(1)﻿(a)
   - **building levy** means a levy payable under section 53
-  - **building method or product** has the meaning given to it by section 20
+  - **building method** has the meaning given to it by section 9B
+  - **building product** has the meaning given to it by section 9A
   - **building work** —
-    (a) means work—
-      (i) for, or in connection with, the construction, alteration, demolition, or removal of a building; and
+    (a) means work that is either of the following:
+      (i) for, or in connection with, the construction, alteration, demolition, or removal of a building:
       (ii) on an allotment that is likely to affect the extent to which an existing building on that allotment complies with the building code; and
     (b) includes sitework; and
     (c) includes design work (relating to building work) that is design work of a kind declared by the Governor-General by Order in Council to be restricted building work for the purposes of this Act (see subsection (2)); and
-    (d) in Part 4, and the definition in this section of supervise, also includes design work (relating to building work) of a kind declared by the Governor-General by Order in Council to be building work for the purposes of Part 4 (see subsection (2))
+    (d) in Part 4, and the definition in this section of supervise, also includes design work (relating to building work) of a kind declared by the Governor-General by Order in Council to be building work for the purposes of Part 4 (see subsection (2)); and
+    (f) includes the manufacture of a modular component
   - **cable car** —
     (a) means a vehicle—
       (i) that carries people or goods on or along an inclined plane or a suspended cable; and
@@ -164,6 +177,7 @@ The transitional, savings, and related provisions set out in Schedule 1AA have e
       (iii) the traction for which is supplied by a cable or any other means; but
     (b) does not include a lift that carries people or goods between the floors of a building
   - **certificate of acceptance** means a certificate issued under section 96
+  - **certified MCM** means a person who has been certified as a modular component manufacturer under section 272U and whose certification is not suspended and has not been revoked
   - **chief executive** means the chief executive of the Ministry
   - **classifiable dam** has the meaning given to it by regulations made under this Act
   - **code compliance certificate** means a certificate issued by a building consent authority under section 95
@@ -203,7 +217,7 @@ The transitional, savings, and related provisions set out in Schedule 1AA have e
   - **EPB register** means the register of earthquake-prone buildings established and maintained under section 273(1)﻿(aab)
   - **estimated value** , in relation to building work, means the estimated aggregate of the consideration, determined in accordance with section 10 of the Goods and Services Tax Act 1985, of all goods and services to be supplied for the building work
   - **falsework** , in relation to building work or the maintenance of a building,—
-    (a) means any temporary structure or framework used to support materials, equipment, or an assembly; and
+    (a) means any temporary structure or framework used to support building products, equipment, or an assembly; and
     (b) includes steel tubes, adjustable steel props, proprietary frames, or other means used to support a permanent structure until it becomes self-supporting; but
     (c) does not include scaffolding or cranes used for support
   - **fire hazard** means the danger of potential harm and degree of exposure arising from—
@@ -250,6 +264,11 @@ The transitional, savings, and related provisions set out in Schedule 1AA have e
   - **local authority** has the meaning given to it in section 5(1) of the Local Government Act 2002
   - **low potential impact dam** means a dam that has been classified under section 134B as having low potential impact
   - **low seismic risk** has the meaning given in section 133AD
+  - **manufacturer’s certificate** , in relation to a modular component, means a certificate issued by a registered MCM manufacturer for the modular component under section 272ZF
+  - **MCM scheme rules** means the rules made under section 272ZG
+  - **MCMC accreditation body** means—
+    (a) the person appointed under section 272I; or
+    (b) if no person is appointed, the chief executive
   - **means of escape from fire** , in relation to a building that has a floor area,—
     (a) means continuous unobstructed routes of travel from any part of the floor area of that building to a place of safety; and
     (b) includes all active and passive protection features required to warn people of fire and to assist in protecting people from the effects of fire in the course of their escape from the fire
@@ -259,6 +278,8 @@ The transitional, savings, and related provisions set out in Schedule 1AA have e
   - **Ministry** means the department of State that, with the authority of the Prime Minister, is responsible for the administration of this Act
   - **minor customisation** , in relation to an application for a building consent that incorporates plans and specifications that have national multiple-use approval, means a minor modification, addition, or variation to those plans and specifications that is permitted by regulations made under section 402(1)﻿(kc)
   - **minor variation** means a minor modification, addition, or variation to a building consent that is permitted by regulations made under section 402(1)﻿(kd)
+  - **modular component** means a building product of a prescribed kind
+  - **modular component design** means the drawings, specifications, manufacturing processes, and other documents according to which a modular component is, or is to be, manufactured
   - **national multiple-use approval** means an approval issued by the chief executive under section 30F
   - **natural hazard** has the meaning given to it by section 71
   - **network utility operator** means a person who—
@@ -301,7 +322,8 @@ The transitional, savings, and related provisions set out in Schedule 1AA have e
     (c) in the case of the construction or alteration of a building, also includes—
       (i) the intended use of the building; and
       (ii) the specified systems that the applicant for building consent considers will be required to be included in a compliance schedule required under section 100; and
-      (iii) the proposed inspection, maintenance, and reporting procedures for the purposes of the compliance schedule for those specified systems
+      (iii) the proposed inspection, maintenance, and reporting procedures for the purposes of the compliance schedule for those specified systems; and
+    (d) in the case of a building that will include a modular component, also includes the modular component design of that component
   - **pool** —
     (a) means—
       (i) any excavation or structure of a kind normally used for swimming, paddling, or bathing; or
@@ -315,7 +337,9 @@ The transitional, savings, and related provisions set out in Schedule 1AA have e
   - **prescribed electrical work** has the meaning given to it by section 2(1) of the Electricity Act 1992
   - **prescribed fee** includes a fee calculated in accordance with a rate or method prescribed for this purpose in regulations made under this Act
   - **priority building** has the meaning given in section 133AE
+  - **product certificate** means a certificate issued under section 269 in relation to a building product or building method
   - **product certification accreditation body** means the person referred to in section 261(2)
+  - **product certification scheme rules** means rules made under section 272E
   - **property** —
     (a) includes land, buildings, and goods; but
     (b) does not include incorporeal forms of property
@@ -330,19 +354,29 @@ The transitional, savings, and related provisions set out in Schedule 1AA have e
     (b) a unitary authority
   - **regional council** has the meaning given to it by section 5(1) of the Local Government Act 2002
   - **Registrar** has the meaning given to it by section 282
+  - **registered MCM** means a person who has been registered as a modular component manufacturer under section 272Y and whose registration is not suspended and has not been revoked
+  - **registered MCMCB** means a person who has been registered as a modular component manufacturer certification body under section 272N and whose registration is not suspended and has not been revoked
+  - **registered PCB** means a person who has been registered as a product certification body under section 267A and whose registration is not suspended and has not been revoked
+  - **registered product certificate** means a product certificate that has been registered under section 272A and the registration for which is not suspended and has not been revoked
   - **regulations** means regulations in force under this Act
   - **residential pool** means a pool that is—
     (a) in a place of abode; or
     (b) in or on land that also contains an abode; or
     (c) in or on land that is adjacent to other land that contains an abode if the pool is used in conjunction with that other land or abode
+  - **responsible MCMCB** , in relation to a certified MCM, means—
+    (a) the registered MCMCB that certified the person as a modular component manufacturer; or
+    (b) if the certified MCM has been audited under section 272V by a different registered MCMCB, the registered MCMCB who conducted the most recent audit under that section
+  - **responsible PCB** , in relation to a product certificate or the proprietor of the building product or building method to which it relates, means—
+    (a) the registered PCB that issued the certificate; or
+    (b) if the certificate has been reviewed under section 270 by a different registered PCB, the registered PCB who conducted the most recent review under that section
   - **restricted building work** means any building work that is—
     (a) building work of a kind declared by the Governor-General by Order in Council to be restricted building work (see subsection (2)); or
     (b) design work of a kind declared by the Governor-General by Order in Council to be restricted building work (see subsection (2))
-  - **rules** means any rules made under section 360 and published under the Legislation Act 2019
+  - **rules** , in Part 4, means any rules made under section 360 and published under the Legislation Act 2019
   - **scaffolding used in the course of the construction process** —
     (a) means a structure, framework, swinging stage, suspended scaffolding, or boatswain's chair, that is of a temporary nature and that is used or intended to be used for—
       (i) the support or protection of workers engaged in, or in connection with, construction work for the purpose of carrying out the work; or
-      (ii) the support of materials used in connection with the work; and
+      (ii) the support of materials or building products used in connection with the work; and
     (b) includes any plank, coupling, fastening, fitting, or device used in connection with the construction, erection, or use of scaffolding
   - **scope of accreditation** , in relation to a building consent authority that is not a territorial authority, means the scope of technical competence for which the building consent authority is accredited by a building consent accreditation body in accordance with section 252
   - **seismic work** , in relation to a building or a part of a building that is subject to an EPB notice, means the building work required to ensure that the building or part is no longer earthquake prone
@@ -426,6 +460,28 @@ In this Act, building does not include—
   (i) scaffolding used in the course of the construction process; or
   (j) falsework.
 
+**Meanings of building product and building method**
+
+### 9A Meaning of building product
+(1) In this Act, building product means a product that—
+  (a) could reasonably be expected to be used as a component of a building; or
+  (b) is declared by the Governor-General by Order in Council to be a building product.
+(2) However, a product that would otherwise be a building product under subsection (1)﻿(a) is not a building product if it is declared by the Governor-General by Order in Council not to be a building product.
+(3) In determining whether something could reasonably be expected to be used as a component of a building, the following are relevant considerations:
+  (a) the purposes for which the thing is ordinarily used:
+  (b) the purposes for which the manufacturer or supplier intends the thing to be used:
+  (c) the purposes for which the thing is represented as being used for:
+  (d) the purposes for which the thing is likely to be used (because of the way in which it is presented or for any other reason).
+(4) The matters listed in subsection (3) are relevant, but not determinative, considerations and do not limit what may be considered.
+(5) An Order in Council made under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+
+### 9B Meaning of building method
+(1) In this Act, building method means a method—
+  (a) for using 1 or more products or things as part of building work; or
+  (b) for carrying out building work that is declared by the Governor-General by Order in Council to be a building method.
+(2) However, a method that would otherwise be a building method under subsection (1)﻿(a) is not a building method if it is declared by the Governor-General by Order in Council not to be a building method.
+(3) An Order in Council made under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+
 **Meaning of allotment**
 
 ### 10 Meaning of allotment
@@ -446,7 +502,7 @@ In this Act, building does not include—
 ### 11 Role of chief executive
 Under this Act, the chief executive—
   (a) issues acceptable solutions or verification methods and reviews those documents; and
-  (b) warns against, or bans the use of, particular building methods or products; and
+  (b) warns against, or bans the use of, particular building products or building methods; and
   (ba) determines applications for national multiple-use approvals; and
   (c) specifies the kinds of applications for a building consent that must be copied to Fire and Emergency New Zealand under section 46; and
   (ca) has the functions set out in section 168A in relation to the implementation, administration, and review of this Act; and
@@ -464,11 +520,16 @@ Under this Act, the chief executive—
   (ia) sets a methodology under section 133AV for identifying earthquake-prone buildings; and
   (j) grants and revokes accreditation of dam owners or appoints a dam owner accreditation body to do so; and
   (k) appoints a product certification accreditation body under section 261; and
+  (ka) registers persons as product certification bodies under section 267A and registers product certificates under section 272A; and
+  (kb) makes product certification scheme rules under section 272E; and
+  (kc) appoints a person as the modular component manufacturer certification accreditation body under section 272I; and
+  (kd) registers persons as modular component manufacturer certification bodies under section 272N and modular component manufacturers under section 272Y; and
+  (ke) makes MCM scheme rules under section 272ZG; and
   (l) disseminates information and provides educational programmes on matters relating to building control; and
   (m) takes enforcement action (including taking proceedings for offences under this Act) if the chief executive considers that it is desirable to do so—
     (i) to establish or clarify any matter of principle relating to building or the interpretation of this Act; or
     (ii) in cases where 1 or more territorial authorities are unwilling or unable to take enforcement action; or
-    (iii) to enforce duties or obligations under Part 4A; or
+    (iii) to enforce duties or obligations under subparts 7 and 7A of Part 3 and Parts 4A and 4B; or
     (iv) to enforce duties or obligations under section 162E (manufacturers and retailers must supply notice); and
   (n) establishes and maintains the registers referred to in section 273; and
   (o) appoints the Registrar under section 310; and
@@ -553,9 +614,12 @@ An owner-builder is responsible for ensuring that restricted building work carri
 
 ### 14E Responsibilities of builder
 (1) In subsection (2), builder means any person who carries out building work, whether in trade or not.
-(2) A builder is responsible for—
-  (a) ensuring that the building work complies with the building consent and the plans and specifications to which the building consent relates:
-  (b) ensuring that building work not covered by a building consent complies with the building code.
+(2) A builder who carries out building work that is covered by a building consent is responsible for ensuring that—
+  (a) the building work complies with the building consent and the plans and specifications to which the building consent relates; and
+  (b) all building products and building methods used in carrying out that building work are used in a manner that complies with the building consent and those plans and specifications.
+(2A) A builder who carries out building work that is not covered by a building consent is responsible for ensuring that—
+  (a) the building work complies with the building code; and
+  (b) all building products and building methods used in carrying out that building work are used in a manner that complies with the building code.
 (3) A licensed building practitioner who carries out or supervises restricted building work is responsible for—
   (a) ensuring that the restricted building work is carried out or supervised in accordance with the requirements of this Act; and
   (b) ensuring that he or she is licensed in a class for carrying out or supervising that restricted building work.
@@ -570,6 +634,7 @@ A building consent authority is responsible for—
 ### 14G Responsibilities of product manufacturer or supplier
 (1) In subsection (2), product manufacturer or supplier means a person who manufactures or supplies a building product and who states that the product will, if installed in accordance with the technical data, plans, specifications, and advice prescribed by the manufacturer, comply with the relevant provisions of the building code.
 (2) A product manufacturer or supplier is responsible for ensuring that the product will, if installed in accordance with the technical data, plans, specifications, and advice prescribed by the manufacturer, comply with the relevant provisions of the building code.
+(3) A person who supplies a building product is responsible for ensuring that the person complies with Part 4B (building product information requirements).
 
 ## Part 2 — Building
 
@@ -579,6 +644,7 @@ A building consent authority is responsible for—
 (1) In general terms, this Part provides—
   (a) that all building work must comply with the building code to the extent required by this Act:
   (b) how compliance with the building code is to be established:
+  (baa) for warnings and bans to be issued in relation to building products or building methods:
   (ba) the effect of a national multiple-use approval and how to apply for one:
   (c) when a project information memorandum is required and how to apply for one:
   (d) when a building consent is required and how to apply for one:
@@ -593,7 +659,8 @@ A building consent authority is responsible for—
   (m) for access and facilities for persons with disabilities to and within buildings:
   (n) for territorial authorities to perform functions relating to dangerous, earthquake-prone, or insanitary buildings:
   (na) for territorial authorities and for persons performing functions under the Civil Defence Emergency Management Act 2002 to perform functions relating to managing buildings located in areas designated under subpart 6B:
-  (o) for regional authorities to perform functions relating to dams.
+  (o) for regional authorities to perform functions relating to dams:
+  (p) for matters relating to residential pool safety.
 (2) This section is intended only as a guide to the general scheme and effect of this Part.
 
 ### Subpart 2 — Building code
@@ -621,10 +688,11 @@ All building work must comply with the building code to the extent required by t
   (ba) compliance with a verification method:
   (c) a determination to that effect made by the chief executive under subpart 1 of Part 3:
   (ca) a current national multiple-use approval issued under section 30F, if every relevant condition in that national multiple-use approval is met:
-  (d) a current product certificate issued under section 269, if every relevant condition in that product certificate is met:
+  (d) a current registered product certificate, if every relevant condition in that product certificate is met:
+  (da) in relation to the design and manufacture of a modular component that is designed and manufactured by a registered MCM, a current manufacturer’s certificate issued by that registered MCM:
   (e) to the extent that compliance with a requirement imposed by regulations made under the Electricity Act 1992 or the Gas Act 1992 is compliance with any particular provisions of the building code, a certificate issued under any of those regulations to the effect that any energy work complies with those requirements.
 (2) In considering whether something complies with the building code, a building consent authority or, as the case may be, a regional authority—
-  (a) must have regard to any relevant warning issued, and ban declared, under section 26(2); and
+  (a) must have regard to any relevant warning or ban in force under section 26(2); and
   (b) may have regard to any guidance information published by the chief executive under section 175.
 
 **Regulations may specify only 1 means of complying with building code**
@@ -634,7 +702,7 @@ All building work must comply with the building code to the extent required by t
 (2) Without limiting subsection (1), the regulations may specify the means of compliance with the building code by requiring the use in the prescribed circumstances (if any) of all or any of the following:
   (a) prescribed acceptable solutions:
   (b) prescribed verification methods:
-  (c) building methods, methods of construction, building design, or building materials (building methods or products) that have a current product certificate issued under section 269.
+  (c) building products and building methods that have a current registered product certificate.
 
 ### 21 What happens if regulations specifying that there is only 1 means of complying with building code are made or not made
 (1) If regulations referred to in section 20 are made, a person who carries out any building work must, in order to comply with the building code, comply with those regulations to the extent that they are relevant to the building work.
@@ -674,11 +742,11 @@ The chief executive must ensure that—
 
 **Warnings and bans**
 
-### 26 Chief executive may issue warning about, or ban use of, building methods or products
-(1) This section applies if the chief executive considers on reasonable grounds that the use of a building method or product has resulted, or is likely to result, in a building or building work failing to comply with the building code.
+### 26 Chief executive may issue warning about, or ban use of, building products or building methods
+(1) This section applies if the chief executive considers on reasonable grounds that the use of a building product or building method has resulted, or is likely to result, in a building or building work failing to comply with the building code.
 (2) The chief executive may—
-  (a) issue a warning about the building method or product; or
-  (b) declare a ban on the building method or product.
+  (a) issue a warning about the building product or building method; or
+  (b) declare a ban on the building product or building method.
 (3) The chief executive must publicly notify a warning issued under subsection (2)﻿(a), together with the required information.
 (3A) A ban declared under subsection (2)﻿(b) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 (3B) The required information must be published with the ban.
@@ -694,8 +762,8 @@ The chief executive must ensure that—
   (b) in the case of a ban, whether the ban applies to building work for which a building consent has been issued before the date on which the ban comes into force; and
   (c) whether the procedure in section 29 has been followed in relation to the warning or ban.
 
-### 27 Offence to use building method or product in breach of ban under section 26
-(1) A person must not use a building method or product if doing so breaches a ban under section 26.
+### 27 Offence to use building product or building method in breach of ban under section 26
+(1) A person must not use a building product or building method if doing so breaches a ban under section 26.
 (2) A person who fails to comply with subsection (1)—
   (a) commits an offence; and
   (b) is liable on conviction,—
@@ -789,7 +857,7 @@ The chief executive must ensure that—
 (2) The chief executive may require further reasonable information in respect of the application.
 (3) The chief executive may refuse to accept for processing an application for a national multiple-use approval only if the chief executive is satisfied, on reasonable grounds, that the application—
   (a) does not meet the requirements of this Act; or
-  (b) includes a building method or product in relation to which the chief executive has publicly notified a ban under section 26; or
+  (b) includes a building product or building method in relation to which a ban under section 26(2) is in force; or
   (c) does not meet the prescribed eligibility criteria (if any) for a national multiple-use approval.
 
 ### 30E Processing application for national multiple-use approval
@@ -804,7 +872,7 @@ The chief executive must ensure that—
   (a) the application meets the requirements of section 30B; and
   (b) the applicant has paid the prescribed fee (if any); and
   (c) the application meets the prescribed eligibility criteria for a national multiple-use approval (if any); and
-  (d) the application does not involve the use of a building method or product in relation to which the chief executive has publicly notified a ban under section 26; and
+  (d) the application does not involve the use of a building product or building method in relation to which a ban under section 26(2) is in force; and
   (e) if building work were properly completed in accordance with the plans and specifications that accompanied the application, that building work would comply with the building code.
 (2) A national multiple-use approval may be issued subject to—
   (a) a waiver or modification of the building code; and
@@ -938,7 +1006,7 @@ If a project information memorandum contains information previously supplied to 
 
 **Building consents**
 
-### 40 Buildings not to be constructed, altered, demolished, or removed without consent
+### 40 Building work not to be carried out without consent
 (1) A person must not carry out any building work except in accordance with a building consent.
 (2) A person commits an offence if the person fails to comply with this section.
 (3) A person who commits an offence under this section is liable on conviction to a fine not exceeding $200,000 and, in the case of a continuing offence, to a further fine not exceeding $10,000 for every day or part of a day during which the offence has continued.
@@ -954,7 +1022,10 @@ If a project information memorandum contains information previously supplied to 
   (cb) any building work that is carried out under section 133BV or 133BW (which relate to buildings located in areas designated under subpart 6B); or
   (cc) any building work that is carried out under the powers of investigation in sections 207G to 207M (which relate to building failures); or
   (d) any energy work that, under section 43, does not require a building consent; or
-  (e) any building work that a territorial authority is authorised to carry out under this Act.
+  (e) any building work that a territorial authority is authorised to carry out under this Act; or
+  (f) the manufacture of a modular component that is designed and manufactured—
+    (i) by a registered MCM who is certified to design and manufacture the component; and
+    (ii) with the intention that the component will be used in building work that is carried out somewhere else.
 (2) The Governor-General may, by Order in Council, amend Schedule 1 by—
   (a) adding any building work or class of building work to Schedule 1 as being building work for which a building consent is not required:
   (b) extending or clarifying the scope of any building work or class of building work listed in Schedule 1 as building work for which a building consent is not required:
@@ -1006,6 +1077,11 @@ If a project information memorandum contains information previously supplied to 
   (ba) if a national multiple-use approval has been issued in relation to some or all of the plans and specifications required under paragraph (b), be accompanied by—
     (i) a copy of that national multiple-use approval; and
     (ii) details of any proposed minor customisations; and
+  (bb) if the building work includes the use of a modular component and the applicant wishes to rely on section 19(1)﻿(da), be accompanied by a current manufacturer’s certificate for the component; and
+  (bc) if—be accompanied by a current manufacturer’s certificate for the component; and
+    (i) the building work is the manufacture of, or includes the use of, a modular component; and
+    (ii) the component is to be manufactured by a registered MCM who is certified to manufacture it but was designed by someone else; and
+    (iii) the applicant intends to rely on section 94(2)﻿(a),—
   (c) contain or be accompanied by any other information that the building consent authority reasonably requires; and
   (d) be accompanied by any fees and charges imposed by the building consent authority under section 219 or 240 (as applicable); and
   (e) in the case of an application for a building consent that relates to restricted building work, state the name of each licensed building practitioner who, as far as the applicant is aware at the time the application is made, will be involved in carrying out or supervising the restricted building work that is the subject of the application; and
@@ -1069,12 +1145,18 @@ If a project information memorandum contains information previously supplied to 
   (a) grant the application; or
   (b) refuse the application.
 (1A) The time limit is,—
-  (a) if the application includes plans and specifications in relation to which a national multiple-use approval has been issued, within 10 working days after receipt by the building consent authority of the application; and
-  (b) in all other cases, within 20 working days after receipt by the building consent authority of the application.
+  (a) if the application includes plans and specifications in relation to which a national multiple-use approval has been issued, 10 working days after receipt by the building consent authority of the application; and
+  (aa) 10 working days after receipt by the building consent authority of the application if—
+    (i) the building work is work for or in connection with the construction of a whole building; and
+    (ii) the building (excluding site work, such as foundations and connections to services) will consist solely of a single modular component; and
+    (iii) that modular component is designed and manufactured by a registered MCM who is certified to design and manufacture it; and
+    (iv) the manufacturer’s certificate for that modular component covers all of the building work to which the application relates other than site work such as foundations and connections to services; and
+  (ab) if the building work includes the use of 1 or more modular components but paragraph (aa) does not apply, 20 working days after receipt by the building consent authority of the application or any shorter period prescribed by the regulations; and
+  (b) in all other cases, 20 working days after receipt by the building consent authority of the application.
 (2) A building consent authority may, within the period specified in subsection (1A), require further reasonable information in respect of the application, and, if it does so, the period is suspended until it receives that information.
 (3) In deciding whether to grant or refuse an application for a building consent, the building consent authority must have regard to—
   (a) a memorandum provided by Fire and Emergency New Zealand under section 47 (if any); and
-  (b) whether a building method or product to which a current warning or ban under section 26(2) relates will, or may, be used or applied in the building work to which the building consent relates.
+  (b) whether a building product or building method in relation to which a warning or ban under section 26(2) is in force will, or may, be used or applied in the building work to which the building consent relates.
 (4) Subsection (3) does not limit section 49(1).
 
 ### 49 Grant of building consent
@@ -1512,6 +1594,12 @@ For the purposes of section 90B(1)﻿(a), relevant interest, in relation to the 
     (i) to the building consent authority that granted the building consent for the building work; or
     (ii) if section 91(2) applies, to the building consent authority that it is proposed will issue the code compliance certificate.
 (2A) If applicable, the owner must include with the application any records of work provided by licensed building practitioners under section 88(1).
+(3) If—the application under subsection (1) must be accompanied by a current manufacturer’s certificate for that component.
+  (a) the building work included the use of a modular component; and
+  (b) in granting the building consent, the building consent authority relied on section 19(1)﻿(da),—
+(3A) If—the application under subsection (1) must be accompanied by a current manufacturer’s certificate for that component.
+  (a) the building work was the manufacture of, or included the use of, a modular component; and
+  (b) the application for building consent included a manufacturer’s certificate under section 45(1)﻿(bc),—
 (3)
 (4) If the building work comprises or includes energy work in respect of which a building consent has been granted, the owner must also include with the application any energy work certificate that relates to the energy work.
 
@@ -1533,7 +1621,9 @@ For the purposes of section 90B(1)﻿(a), relevant interest, in relation to the 
   (b) that,—
     (i) in a case where a compliance schedule is required as a result of the building work, the specified systems in the building are capable of performing to the performance standards set out in the building consent; or
     (ii) in a case where an amendment to an existing compliance schedule is required as a result of the building work, the specified systems that are being altered in, or added to, the building in the course of the building work are capable of performing to the performance standards set out in the building consent.
-(2) In deciding whether to issue a code compliance certificate, a building consent authority must have regard to whether a building method or product to which a current warning or ban under section 26(2) relates has, or may have, been used or applied in the building work to which the certificate would relate.
+(2) In deciding whether to issue a code compliance certificate, a building consent authority—
+  (a) must accept a current manufacturer’s certificate for a modular component accompanying the application under section 92(3) or (3A) as establishing that the building work to which the certificate applies complies with the building consent; and
+  (b) must have regard to whether a building product or building method in relation to which a warning or ban under section 26(2) is in force has, or may have, been used or applied in the building work to which the certificate would relate.
 (3) If the owner fails to provide to a building consent authority an energy work certificate in relation to energy work in respect of which a building consent has been granted, the failure is a sufficient reason for the building consent authority to refuse to issue a code compliance certificate in respect of the energy work.
 (4) If a development contribution has been required to be paid or made under section 198 of the Local Government Act 2002, a building consent authority that is other than the territorial authority that made the requirement must refuse to issue a code compliance certificate in respect of the relevant building work until the building consent authority has received—
   (a) evidence that the development contribution has been paid or made by the owner concerned to the territorial authority; or
@@ -1655,7 +1745,7 @@ If a territorial authority refuses to grant an application for a certificate of 
   (b) by reference to—
     (i) a prescribed acceptable solution or prescribed verification method in a regulation referred to in section 20; or
     (ii) an acceptable solution or a verification method issued under section 22; or
-    (iii) a building method or product.
+    (iii) a building product or building method.
 
 ### 104 Building consent authority must notify territorial authority of issue of compliance schedule
 If a building consent authority issues a compliance schedule under section 102, the building consent authority must, within 5 working days after issuing the compliance schedule, provide a copy of it to the territorial authority in whose district the building is situated.
@@ -3410,7 +3500,7 @@ The chief executive must—
 ### 169 Chief executive must monitor current and emerging trends in building design, etc, and must report annually to Minister
 (1) The chief executive must monitor current and emerging trends in building design, building technologies, and other factors that may affect—
   (a) the building code and acceptable solutions and verification methods:
-  (b) any warnings issued, and bans declared, under section 26 in relation to any building method or product:
+  (b) any warnings or bans under section 26(2) in force in relation to a building product or building method:
   (c) any guidance information published by the chief executive under section 175:
   (d) any other functions and duties of the chief executive under this Act.
 (2) The chief executive must, in each year, make a report to the Minister on the performance of his or her functions under subsection (1).
@@ -3427,7 +3517,7 @@ The chief executive must, in performing his or her functions, consult with,—
 (1) The chief executive may, at any time, seek advice from a building advisory panel appointed under section 172 on—
   (a) current and emerging trends in building design, building technologies, and other factors that may affect—
     (i) the building code and acceptable solutions and verification methods:
-    (ii) any warnings issued, or bans declared, under section 26 in relation to any building method or product:
+    (ii) any warnings or bans under section 26(2) in force in relation to a building product or building method:
     (iii) any guidance information published by the chief executive under section 175:
   (b) whether this Act or the regulations are achieving their purpose:
   (c) building issues that are not covered by this Act, but which the panel considers should be dealt with by legislation:
@@ -3470,7 +3560,7 @@ The chief executive must, in performing his or her functions, consult with,—
 (1) The chief executive may publish information for the guidance of—
   (a) any of the following persons to assist them in complying with this Act:
     (i) territorial authorities:
-    (ii) building consent authorities:
+    (ii) disciplinable entities (as defined in section 200):
     (iii) owners:
     (iv) persons who carry out building work; and
   (b) any of the following persons to assist them in the performance of their functions and duties, and in the exercise of their powers (if any), in relation to dams:
@@ -3700,7 +3790,7 @@ The chief executive must, as soon as practicable after receiving an application 
 
 ### 196 Registration continuous so long as person meets criteria for registration
 (1) The chief executive must assess at least once every 3 years, and may assess at any other time, whether a building consent authority whose name is entered in the register of building consent authorities continues to meet the criteria for registration specified in section 192.
-(2) A building consent authority that continues to meet those criteria is entitled to the continuation of its registration, subject to section 203.
+(2) A building consent authority that continues to meet those criteria is entitled to the continuation of its registration, subject to section 203C.
 
 ### 197 Consequences of failure to meet criteria for registration
 (1) Subsection (2) or subsection (3) applies if, after making an assessment under section 196, the chief executive determines that a building consent authority no longer meets the criteria for registration.
@@ -3731,74 +3821,118 @@ The chief executive must, as soon as practicable after receiving an application 
     (i) in the case of an individual, to a fine not exceeding $300,000:
     (ii) in the case of a body corporate, to a fine not exceeding $1,500,000.
 
-### 200 Complaints about building consent authorities
-(1) The chief executive may receive complaints alleging that a building consent authority—
-  (a) has failed, or is failing, without good reason to properly perform any of the authority's functions under this Part or Part 2:
-  (b) has been, or is, negligent in performing those functions.
-(2) As soon as practicable after receiving a complaint, the chief executive must—
-  (a) inform the building consent authority concerned of the complaint; and
-  (b) decide whether to accept or decline the complaint.
-(2A) The chief executive, in considering whether to accept or decline a complaint under subsection (2)﻿(b), is not required to seek any information or submission from the building consent authority, and the building consent authority is not entitled to proffer any information or submission at that stage.
-(3) The chief executive must, immediately after making a decision under subsection (2),—
-  (a) give written notice of the decision to the person who made the complaint and the building consent authority concerned; and
-  (b) if the chief executive decides to accept the complaint, proceed to investigate the complaint.
-(4) The chief executive may decline to accept, and is not required to investigate, a complaint that he or she considers vexatious or frivolous.
+**Disciplinary powers in relation to complaints**
 
-### 201 Chief executive may conduct investigation on own initiative
-(1) If the chief executive considers that there are reasonable grounds for believing that any of the matters specified in section 200(1) applies, the chief executive may decide to investigate the matter—
-  (a) on his or her own initiative; and
-  (b) without a complaint under section 200 being made.
-(2) The chief executive must, immediately after making a decision under subsection (1),—
-  (a) give written notice of the decision to the building consent authority concerned; and
-  (b) proceed to investigate the matter.
-(3) To avoid doubt, this section does not affect the chief executive's power to conduct a review of a territorial authority or regional authority under section 276.
+### 200 Interpretation
+(1) In sections 200 to 203C,—
+  - **complaint** means a complaint made under section 202
+  - **complainant** means the person who makes a complaint
+  - **disciplinable entity** means any of the following:
+    (a) a building consent authority:
+    (b) a registered PCB:
+    (c) a registered MCMCB
+  - **grounds for disciplinary action** has the meaning given in section 201
+  - **respondent** means,—
+    (a) if a complaint is made under section 202, the disciplinable entity who is the subject of the complaint; or
+    (b) if an investigation is commenced under section 203A, the disciplinable entity that is the subject of the investigation.
+(2) In sections 200 to 203C, a reference to a registered PCB or registered MCMCB includes—
+  (a) a person who has been registered as a product certification body or modular component manufacturer certification body but whose registration is suspended; and
+  (b) a person who was, at the time of the conduct in question, a registered PCB or registered MCMCB.
 
-### 202 Procedure if chief executive proceeds to investigate complaint or matter
-(1) This section applies if the chief executive proceeds to investigate—
-  (a) a complaint under section 200; or
-  (b) a matter on his or her own initiative under section 201.
-(2) The chief executive must, in the notice to the building consent authority concerned given under section 200(3) or, as the case may be, section 201(2),—
-  (a) state that the chief executive has reason to believe that 1 or more grounds exist entitling him or her to exercise the disciplinary powers under section 203; and
-  (b) provide particulars that will clearly inform the building consent authority of the ground or grounds; and
-  (c) give the building consent authority a reasonable opportunity to make written submissions on the matter; and
-  (d) consider those submissions (if any).
-(3) For the avoidance of doubt, a building consent authority's failure to make written submissions after being given a reasonable opportunity to do so does not limit the chief executive in investigating the complaint or determining it.
+### 201 Grounds for disciplinary action
+There are grounds for disciplinary action against a disciplinable entity if—
+  (a) it has failed, or is failing, without good reason to properly perform its functions under this Act; or
+  (b) it has been, or is, negligent in performing those functions; or
+  (c) in the case of a registered PCB, it has failed to comply with any product certification scheme rules; or
+  (d) in the case of a registered MCMCB, it has failed to comply with any MCM scheme rules.
 
-### 203 Disciplinary powers of chief executive
-(1) This section applies if the chief executive, after conducting an investigation and considering the submissions made by a building consent authority (if any), is satisfied that the building consent authority—
-  (a) has failed without good reason to properly perform any of the authority's functions under this Part or Part 2:
-  (b) has been negligent in performing those functions.
-(2) The chief executive may do 1 or more of the following:
-  (a) issue a warning to the building consent authority:
-  (b) require the building consent authority to take remedial action—
-    (i) within a specified time; and
-    (ii) that is subject to any conditions that the chief executive thinks fit (if any):
-  (ba) if paragraph (b) applies, require the building consent authority to monitor and report to the chief executive on the progress of the remedial action:
-  (c) limit the functions that the building consent authority may perform under this Part or Part 2 and record the limitation in the appropriate register accordingly:
-  (d) in the case of a building consent authority that is not a territorial authority or a regional authority,—
-    (i) suspend the authority's registration and record the suspension in the appropriate register accordingly; or
-    (ii) if the chief executive considers that the circumstances warrant it, revoke the authority's registration and remove the authority's name from the register of building consent authorities:
-  (e) in the case of a territorial authority or regional authority, recommend to the Minister that the Minister appoint 1 or more persons to act in the place of the territorial authority or, as the case may be, the regional authority in relation to all or any of its functions.
-(3) If subsection (2)﻿(e) applies, sections 277 to 281 apply with all necessary modifications.
-(4) If the chief executive takes any action referred to in subsection (2), he or she must give written notice of the action to the building consent authority and the reasons for the action.
+### 202 Complaints may be made to chief executive
+(1) A person who believes that there are grounds for disciplinary action against a disciplinable entity may lodge a complaint with the chief executive.
+(2) A complaint must—
+  (a) be made in writing; and
+  (b) be made in the prescribed manner (if any); and
+  (c) include the prescribed information (if any).
 
-**Further powers of chief executive**
+### 203 Acceptance of complaints
+(1) As soon as practicable after receiving a complaint, the chief executive must—
+  (a) notify the respondent that the complaint has been made; and
+  (b) decide whether to accept the complaint.
+(2) The chief executive must accept the complaint if the chief executive has reason to believe that there may be grounds for disciplinary action against the respondent.
+(3) The chief executive may decline to accept the complaint if the chief executive—
+  (a) is satisfied that it is vexatious or frivolous; or
+  (b) otherwise does not believe there may be grounds for disciplinary action.
+(4) In considering whether to accept the complaint,—
+  (a) the chief executive may, but is not required to, seek information or hear from the respondent; and
+  (b) the respondent may provide information or submissions if requested by the chief executive.
+(5) If the complaint is accepted, the chief executive must, as soon as practicable,—
+  (a) notify the complainant and respondent of that decision; and
+  (b) commence investigating the complaint.
+(6) The notice must—
+  (a) state that the chief executive has reason to believe that there may be grounds for disciplinary action; and
+  (b) set out those grounds; and
+  (c) give the respondent a reasonable opportunity to make written submissions on the matter as part of the investigation.
+(7) If the complaint is not accepted, the chief executive must immediately notify the complainant and respondent of that decision and the reasons for it.
+
+### 203A Chief executive may initiate investigation
+(1) If the chief executive believes on reasonable grounds that there may be grounds for disciplinary action against a disciplinable entity, the chief executive may decide to investigate the matter without a complaint being made.
+(2) After deciding to investigate, the chief executive must, as soon as practicable,—
+  (a) notify the respondent of that decision; and
+  (b) commence investigating the matter.
+(3) The notice must—
+  (a) state that the chief executive has reason to believe that there may be grounds for disciplinary action; and
+  (b) set out those grounds; and
+  (c) give the respondent a reasonable opportunity to make written submissions on the matter.
+
+### 203B Investigation
+(1) This section applies to an investigation commenced under section 203(5)﻿(b) or 203A(2)﻿(b).
+(2) In conducting the investigation, the chief executive—
+  (a) must consider the submissions (if any) made by the respondent in accordance with the notice under section 203(6) or 203A(3); and
+  (b) may otherwise conduct the investigation as the chief executive considers appropriate.
+(3) After conducting the investigation, if the chief executive is satisfied that there are grounds for disciplinary action against the respondent, the chief executive may take action under section 203C.
+(4) The chief executive must notify the complainant (if any) and respondent of—
+  (a) the outcome of the investigation; and
+  (b) the disciplinary action (if any) being taken (if action is taken under section 203C(1)﻿(f), see also section 272B(3)).
+
+### 203C Disciplinary powers of chief executive
+(1) If satisfied that there are grounds for disciplinary action, the chief executive may do 1 or more of the following:
+  (a) issue a warning to the respondent:
+  (b) require the respondent to take specified remedial action:
+  (c) impose limits on the functions that the respondent may perform under this Act:
+  (d) if the respondent is a building consent authority that is a territorial authority or regional authority, recommend to the Minister that the Minister appoint 1 or more persons to act in the place of the respondent in relation to any or all of its functions under this Act:
+  (e) if paragraph (d) does not apply, suspend or revoke the respondent’s registration:
+  (f) if the ground for the disciplinary action is that set out in section 201(c), either or both of the following:
+    (i) under section 267C(2)﻿(b), suspend the person’s registration as a product certification body:
+    (ii) under section 272B(2)﻿(a), suspend the registration of any product certificate for which the person is the responsible PCB:
+  (g) if the ground for the disciplinary action is that set out in section 201(d), either or both of the following:
+    (i) under section 272P(2)﻿(b), suspend the person’s registration as an MCMCB:
+    (ii) under section 272ZA(2)﻿(b), suspend the registration of any registered MCM for whom the person is the responsible MCMCB.
+(2) A requirement imposed under subsection (1)﻿(b) may include any of the following:
+  (a) time limits for the taking of the remedial action:
+  (b) any conditions the chief executive thinks fit:
+  (c) requirements for the respondent to report to the chief executive on the progress of the remedial action.
+(3) If the chief executive acts under subsection (1)﻿(d), sections 277 to 281 apply with all necessary modifications.
+(4) If the chief executive acts under subsection (1)﻿(e) or (f), the chief executive must update the relevant register kept under section 273 accordingly.
+
+**Enforcement powers of chief executive**
 
 ### 204 Special powers of chief executive for monitoring performance of functions under this Act
 (1) The purpose of this section is to enable the chief executive to—
-  (a) monitor the performance by territorial authorities, building consent authorities, or regional authorities of their functions under this Act; and
-  (aa) decide whether to accept or decline a complaint received under section 200(1); and
-  (ab) investigate a complaint under section 200 or investigate a matter on his or her own initiative under section 201; and
+  (a) monitor the performance of functions under this Act by any of the following:
+    (i) a territorial authority:
+    (ii) a regional authority:
+    (iii) a disciplinable entity (as defined in section 200); and
+  (aa) exercise the chief executive’s powers under sections 200 to 203C in relation to complaints and investigations; and
+  (ab)
   (b) carry out the review of territorial authorities under section 276; and
   (c) assist the Minister in determining whether to exercise the Minister's power under section 277 (which relates to the non-performance of functions by a territorial authority).
 (2) For the purpose of this section, the chief executive—
   (a) must have full access at all reasonable times to—
-    (i) all relevant information that is in the possession or control of any territorial authority, building consent authority, or regional authority; and
+    (i) all relevant information that is in the possession or control of a territorial authority, regional authority, or disciplinable entity; and
     (ii) any place where that information is kept:
-  (b) may require any territorial authority, building consent authority, or regional authority to do any of the following within a reasonable time specified by the chief executive in writing:
+  (b) may require a territorial authority, regional authority, or disciplinable entity to do any of the following within a reasonable time specified by the chief executive in writing:
     (i) supply any relevant information:
     (ii) answer any question that relates to the performance of functions under this Act:
-    (iii) answer any question that relates to a complaint received under section 200(1) or to a complaint investigated under section 200 or to a matter investigated under section 201:
+    (iii)
   (c) may, by written notice, require any person having possession or control of any relevant information to supply to the chief executive, in a manner and within a reasonable time specified in the notice, all or any of the information:
   (d) may enter and re-enter any land or building, with any appliances, machinery, and equipment that are reasonably necessary, to—
     (i) carry out any surveys, inspections, investigations, reviews, tests, and measurements that are reasonably necessary for the purposes of this section; and
@@ -3806,12 +3940,7 @@ The chief executive must, as soon as practicable after receiving an application 
 (3) Subsection (2) does not—
   (a) limit any Act that imposes a prohibition or restriction on the availability of any information; or
   (b) authorise the chief executive, or any person acting on behalf of the chief executive, to enter any household unit being used as such without the permission of the occupier of the household unit.
-(4) In this section, relevant information—
-  (a) means any information of any description that relates to—
-    (i) the performance by a territorial authority, building consent authority, or regional authority of its functions under this Act; or
-    (ii) a complaint received under section 200(1); or
-    (iii) a complaint investigated under section 200 or a matter investigated under section 201; and
-  (b) includes information that is kept in any form, including electronic form.
+(4) In this section, relevant information means any information (of any description and in any form) that relates to the performance of a function under this Act by a territorial authority, regional authority, or disciplinable entity.
 
 ### 205 Limits on power to enter land or building
 The power to enter land or buildings under section 204(2) is subject to the following conditions:
@@ -3835,18 +3964,79 @@ An authorised person supplied with a warrant under section 206—
   (a) must, on the termination of his or her authority, surrender the warrant to the chief executive; and
   (b) must not purport to act under a warrant after the termination of his or her authority to act on behalf of the chief executive.
 
-### 207A Chief executive may require person to provide information or produce documents
-(1) If the chief executive considers it necessary or desirable for the purposes of taking enforcement action under this Act, the chief executive may, by written notice served on any person, require that person—
-  (a) to provide to the chief executive, within the time and in the manner specified in the notice, any information or class of information specified in the notice; or
-  (b) to produce to the chief executive, or to a person specified in the notice who is acting on behalf of the chief executive in accordance with the notice, any document or class of documents specified in the notice (within the time and in the manner specified in the notice); or
-  (c) if necessary, to reproduce, or assist in reproducing, in usable form, information recorded or stored in any documents or classes of documents specified in the notice (within the time and in the manner specified in the notice).
-(2) Information provided in response to a notice under subsection (1)﻿(a) must be provided in the manner specified in the notice.
-(3) If a document is produced in response to a notice under subsection (1), the chief executive, or the person to whom the document is produced, may—
-  (a) inspect and make records of that document; and
-  (b) take copies of the document or of extracts from the document.
+**Power to require information and documents**
 
-### 207B Offence of failing to comply with chief executive's notice for provision of information
-A person who fails to comply with a notice served on that person under section 207A commits an offence and is liable on conviction to a fine not exceeding $5,000.
+### 207A Power to require information or documents
+(1) The chief executive may require any person to provide any information or document that the chief executive reasonably considers it is necessary or desirable to obtain for any of the following purposes:
+  (a) taking enforcement action referred to in section 11(m):
+  (b) exercising the chief executive’s powers under section 26.
+(2) The chief executive must give written notice to the person that specifies—
+  (a) the information or document that must be provided; and
+  (b) how the information or document must be provided; and
+  (c) a reasonable deadline by which the information or document must be provided.
+(3) The person must provide the information or document as required by the notice.
+(4) The chief executive may copy or retain any information or document provided.
+
+### 207B Offence to fail to provide information or documents
+A person who fails to provide any information or document as required by section 207A—
+  (a) commits an offence; and
+  (b) is liable on conviction,—
+    (i) in the case of an individual, to a fine not exceeding $20,000; or
+    (ii) in the case of a body corporate, to a fine not exceeding $60,000.
+
+### 207BA Sharing of information
+(1) The chief executive may provide relevant evidence to a regulatory body if the chief executive reasonably considers that the evidence is reasonably required by the regulatory body in the exercise of its powers or performance of its functions.
+(2) As soon as practicable after doing so, the chief executive must give written notice to—
+  (a) any person to whom the evidence relates; and
+  (b) if it was obtained under section 207A from someone else, that other person.
+(3) The notice must—
+  (a) describe what has been provided; and
+  (b) specify which regulatory body it has been provided to; and
+  (c) explain why it has been provided.
+(4) However, the chief executive need not give a notice if the chief executive reasonably considers that it would prejudice the exercise or performance by the regulatory body of its powers or functions.
+(5) In this section,—
+  - **regulatory body** means any of the following:
+    (a) the chief executive or Ministry exercising powers or performing functions under another Act:
+    (b) another person or body exercising powers or performing functions under this Act:
+    (c) any other person or body established by or under an enactment exercising powers or performing functions in relation to building products, building methods, building designs, or building work
+  - **relevant evidence** means information or documents that are obtained under section 207A or that could have been obtained under that section but were in fact obtained by other means.
+
+**Powers of entry and inspection for subparts 7 and 7A of Part 3 and Parts 4A and 4B**
+
+### 207BB Powers of entry and inspection
+(1) The chief executive may exercise a power under this section for 1 or more of the following purposes (investigative purposes):
+  (a) determining whether a relevant provision has been, or is being, complied with:
+  (b) determining whether there are grounds for taking enforcement action to enforce a duty or an obligation under a relevant provision and deciding whether to do so.
+(2) For investigative purposes, the chief executive may—
+  (a) inspect any of the following:
+    (i) a place at which building work is, or is proposed to be, carried out:
+    (ii) building work that has been, or is being, carried out:
+    (iii) any building or building product; and
+  (b) enter any premises for the purpose of carrying out an inspection under paragraph (a).
+(3) However, if the premises is a household unit or marae, see section 207BC.
+(4) As soon as practicable after entering premises under this section, the chief executive must give written notice to the owners and occupiers of the premises of the exercise of that power.
+(5) A person who enters premises under this section must, when first entering the premises and on request at any other time, show the following to any occupier of the premises:
+  (a) evidence of the person’s identity:
+  (b) the chief executive’s written authorisation to enter the site:
+  (c) if the premises is a household unit or marae, the warrant to enter the premises (if required).
+(6) In this section, relevant provision means a provision of any of the following:
+  (a) subpart 7 of Part 3 (responsibilities relating to product certification):
+  (b) subpart 7A of Part 3 (responsibilities relating to modular component manufacturers):
+  (c) Part 4B (building product information requirements).
+
+### 207BC Power to enter household unit or marae
+(1) Despite section 207BB(2)﻿(b), the chief executive must not exercise the power of entry to enter a household unit that is being used as a household unit or marae except—
+  (a) with the consent of an occupier who is at least 14 years of age; or
+  (b) in accordance with a warrant issued under this section.
+Entry with consent
+(2) The chief executive must not enter with the occupier’s consent unless the chief executive has—
+  (a) told the occupier the reason for the proposed entry; and
+  (b) told the occupier that they may consent, or refuse to consent, to the entry.
+(3) The chief executive may enter the household unit or marae, and exercise the other powers under section 207BB, only in accordance with the conditions of the occupier’s consent (if any).
+Entry under warrant
+(4) An issuing officer (as defined in section 3(1) of the Search and Surveillance Act 2012) may, on application, issue a warrant to enter a household unit or marae if the officer reasonably considers that entering the unit or marae is reasonably necessary for investigative purposes.
+(5) The chief executive must apply for the warrant in the manner provided in subpart 3 of Part 4 of the Search and Surveillance Act 2012, which applies with any necessary modifications.
+(6) The warrant authorises the chief executive to enter the household unit or marae and exercise the other powers under section 207BB.
 
 **Powers of chief executive to investigate building failures**
 
@@ -4013,34 +4203,37 @@ A person who wilfully obstructs, hinders, or resists the investigation of a buil
 **Appeal from chief executive's decisions**
 
 ### 208 Appeals to District Court
-(1) The persons referred to in subsection (2) may appeal to the District Court against—
-  (a) a determination by the chief executive under section 188; or
-  (aa) a direction as to costs given under section 190(2); or
-  (b) the chief executive's decision to—
-    (i) decline to register the person as a building consent authority; or
-    (ii) take any action referred to in section 203; or
-    (iii) refuse to issue a national multiple-use approval.
-(2) The persons are,—
-  (a) in the case of an appeal under subsection (1)﻿(a) or (aa),—
-    (i) the applicant for the determination; or
-    (ii) any other party; or
-  (b) in the case of an appeal under subsection (1)﻿(b)﻿(i), the applicant for registration; or
-  (c) in the case of an appeal under subsection (1)﻿(b)﻿(ii), the building consent authority concerned; or
-  (d) in the case of an appeal under subsection (1)﻿(b)﻿(iii), the applicant for the national multiple-use approval.
+(1) The following decisions of the chief executive are subject to appeal to the District Court:
+  (a) refusing to issue a national multiple-use approval (see section 30F):
+  (b) making a determination under section 188:
+  (c) giving a direction as to costs under section 190(2):
+  (d) taking disciplinary action under section 203C:
+  (e) refusing to register a person as any of the following, or suspending or refusing to lift the suspension of any such registration:
+    (i) a building consent authority (see sections 191 and 197):
+    (ii) a product certification body (see sections 267A, 267C(2), and 267D(2)):
+    (iii) a modular component manufacturer certification body (see sections 272N, 272P(2), and 272Q(2)):
+    (iv) a modular component manufacturer (see sections 272Y, 272ZA(2), and 272ZB(2)):
+  (f) refusing to register a product certificate or suspending, or refusing to lift the suspension of, the registration of a product certificate (see sections 272A, 272B(2), and 272C(2)).
+(2) The following people may appeal against those decisions:
+  (a) if subsection (1)﻿(a) applies, the applicant for approval:
+  (b) if subsection (1)﻿(b) or (c) applies, the applicant for the determination or any other party (as defined in section 176):
+  (c) if subsection (1)﻿(d) applies, the respondent against whom the action is taken:
+  (d) if subsection (1)﻿(e) applies, the applicant for registration or person whose registration is suspended:
+  (e) if subsection (1)﻿(f) applies, the proprietor of the building product or building method to which the certificate relates.
 
 ### 209 Procedure for commencing appeal
 (1) An appeal under section 208 must be made—
   (a) by the appellant filing a notice of appeal with the Registrar of the District Court within 15 working days after,—
-    (i) in the case of an appeal under section 208(1)﻿(a), the date of the determination or the date on which the chief executive amends the determination by way of clarification under section 189; or
-    (ia) in the case of an appeal under section 208(1)﻿(aa), the date of the written direction given by the chief executive under section 190; or
-    (ii) in the case of an appeal under section 208(1)﻿(b), the date of the relevant decision of the chief executive; and
+    (i) in the case of an appeal under section 208(1)﻿(b), the date of the determination or the date on which the chief executive amends the determination by way of clarification under section 189; or
+    (ia)
+    (ii) in any other case, the date of the chief executive’s decision; and
   (b) otherwise in accordance with the District Court Rules (except to any extent that those rules are inconsistent with this section).
-(2) The Registrar of the District Court may extend the time for making an appeal under section 208(1)﻿(a) if the chief executive amends the determination by way of clarification under section 189.
+(2) The Registrar of the District Court may extend the time for making an appeal under section 208(1)﻿(b) if the chief executive amends the determination by way of clarification under section 189.
 
 ### 210 Steps after appeal is commenced
 (1) Either before or immediately after an appeal under section 208 is made, the appellant must serve a copy of the notice of appeal on—
   (a) the chief executive; and
-  (b) in the case of an appeal under section 208(1)﻿(a) or (aa), any other party.
+  (b) in the case of an appeal under section 208(1)﻿(b) or (c), any other party.
 (2) A person served with the notice under subsection (1) who wishes to appear on the appeal must give notice of the person's intention to appear to—
   (a) the appellant; and
   (b) the Registrar of the District Court; and
@@ -4170,8 +4363,8 @@ A territorial authority must, for the purpose of ensuring that it complies with 
   (a) the money payable becomes a charge on the land; and
   (b) the provisions of the Local Government (Rating) Act 2002 and the Local Government Act 2002 apply accordingly.
 (2) The territorial authority—
-  (a) may destroy, sell, or otherwise dispose of any materials that result from the carrying out of any work by the territorial authority; and
-  (b) in the case of the sale of any materials,—
+  (a) may destroy, sell, or otherwise dispose of any building products or other materials that result from the carrying out of any work by the territorial authority; and
+  (b) in the case of the sale of any building products or other materials,—
     (i) must apply the proceeds of the sale towards payment of the amount payable to the territorial authority under subsection (1); and
     (ii) must pay the surplus (if any) to the owner.
 (3) If the territorial authority exercises the powers conferred by this section, the exercise of those powers does not relieve a person from any penalty for failure to comply with the requirements of a notice under this Act.
@@ -4507,7 +4700,7 @@ A dam owner accreditation body may charge an accredited dam owner the prescribed
   (a) in the case of a notice that accreditation has been granted, enter the name of the dam owner on the register kept under section 273(1)﻿(c); or
   (b) in the case of a notice that accreditation has been revoked, remove the name of the dam owner from that register.
 
-### Subpart 7 — Responsibilities of product certification accreditation body
+### Subpart 7 — Responsibilities relating to product certification
 
 **Appointment of product certification accreditation body**
 
@@ -4525,90 +4718,726 @@ A dam owner accreditation body may charge an accredited dam owner the prescribed
 (1) The chief executive must, by notice, specify—
   (a) the minimum frequency of audits that the product certification accreditation body must conduct on accredited product certification bodies; and
   (b) any other matters that the chief executive considers necessary or appropriate.
-(2) The chief executive may, by notice, specify certifications of building methods or products provided by persons outside New Zealand that are to be treated as product certifications for the purposes of this subpart.
-(3) Subsection (2) applies only if the chief executive is satisfied that the building methods and products concerned meet the prescribed criteria and standards for certification.
+(2) The chief executive may, by notice, specify certifications of building products or building methods provided by persons outside New Zealand that are to be treated as product certifications for the purposes of this subpart.
+(3) Subsection (2) applies only if the chief executive is satisfied that the building products or building methods concerned meet the prescribed criteria and standards for certification.
 (4) A notice under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 **Audit fees**
 
 ### 262A Fees for audits
-A product certification accreditation body may charge an accredited product certification body the prescribed fee (if any) for an audit conducted under section 262(1)﻿(a) by the product certification accreditation body on the accredited product certification body.
+A product certification accreditation body may charge an accredited PCB the prescribed fee (if any) for an audit conducted under section 262(1)﻿(a) by the product certification accreditation body on the accredited PCB.
 
 **Accreditation of product certification bodies**
 
-### 263 Accreditation
-The product certification accreditation body may, on the application of a person or body made in accordance with section 265, and on payment by the person or body of the prescribed fee (if any), accredit that person or body to perform the functions of a product certification body under this subpart.
+### 263 Accreditation of product certification body
+(1) The product certification accreditation body may, on application, and on payment of the prescribed fee (if any), accredit a person as a product certification body if satisfied that they—
+  (a) have the ability to perform the functions of a registered PCB competently, impartially, consistently, transparently, and accountably; and
+  (b) have policies, procedures, and systems in place that—
+    (i) will result in them performing their functions as required by paragraph (a); and
+    (ii) comply with any requirements prescribed by regulations made under section 402(1)﻿(tb)﻿(ii)﻿(A); and
+  (c) comply with any other criteria and standards prescribed by regulations made under section 402(1)﻿(tb)﻿(ii)﻿(B); and
+  (d) comply with any product certification scheme rules made under section 272E(3) that supplement the regulations referred to in paragraphs (b)﻿(ii) and (c).
+(2) The application must—
+  (a) be made in writing; and
+  (b) be made in the prescribed manner (if any); and
+  (c) include the prescribed information (if any).
 
-### 264 Criteria for accreditation
-Before granting accreditation, the product certification accreditation body must be satisfied that the applicant—
-  (a) has the necessary ability to perform all or any of the functions specified in this subpart competently, impartially, consistently, transparently, and in an accountable manner, having regard to—
-    (i) the technical competence of the applicant to perform the functions for which the applicant wishes to be accredited; and
-    (ii) the applicant's systems, and in particular whether those systems will allow the applicant to perform the functions for which the applicant wishes to be accredited; and
-  (b) complies with the prescribed criteria and standards for accreditation.
+### 264 Suspension or revocation of accreditation
+(1) The product certification accreditation body may suspend or revoke a person’s accreditation as a product certification body if satisfied that they—
+  (a) no longer meet the criteria for accreditation in section 263; or
+  (b) have failed to comply with any product certification scheme rules.
+(2) However, if—the product certification accreditation body cannot suspend their accreditation unless 3 months have elapsed since those amendments came into force.
+  (a) regulations made for the purposes of section 263(1)﻿(b)﻿(ii) or (c) or product certification scheme rules that supplement those regulations are amended; and
+  (b) a person ceases to meet the criteria in section 263 solely as a result of those amendments,—
+(3) The period of a suspension must allow the person a reasonable period to again meet the criteria in section 263 or to rectify the failure.
+(4) The product certification accreditation body must lift the suspension of a person’s accreditation if satisfied that they again meet those criteria or have rectified the failure.
+(5) If the suspension is not lifted before the end of the suspension period, the product certification accreditation body may revoke the accreditation.
+(6) Before suspending or revoking a person’s accreditation under subsection (1) or (5), the product certification accreditation body must—
+  (a) notify the person in writing of the intention to do so and the reasons for it; and
+  (b) give the person a reasonable opportunity to be heard.
+(7) If the product certification accreditation body suspends, lifts the suspension of, or revokes a person’s accreditation, it must notify the person in writing of—
+  (a) its decision and the reasons for it; and
+  (b) the effect of section 267C(1), 267D(1), or 267E(1)﻿(a) (as applicable).
+(8) If a person’s accreditation is suspended or revoked, the product certification accreditation body must notify them in writing of the suspension or revocation and the reasons for it.
+(9) The chief executive may exercise the powers of the product certification accreditation body under this section (whether or not that body has exercised those powers in relation to the same person in the same period).
 
 ### 265 Application for accreditation
-An application for accreditation under section 263 must—
-  (a) be made in writing; and
-  (b) be given in the prescribed manner (if any); and
-  (c) contain the prescribed information (if any).
-  (d)
+[Repealed]
 
 ### 266 Suspension or revocation of accreditation
-(1) A product certification accreditation body or the chief executive may, at any time, suspend or revoke the accreditation under section 263 of a product certification body, if the product certification accreditation body or chief executive—
-  (a) is satisfied that the product certification body no longer meets the prescribed criteria and standards for accreditation; and
-  (b) has first given the product certification body concerned a reasonable opportunity to be heard.
-(2) A product certification accreditation body that, or chief executive who, suspends the accreditation of a product certification body must—
-  (a) give the product certification body a reasonable period to meet the criteria and standards prescribed for accreditation; and
-  (b) lift the suspension if it or he or she is satisfied that the product certification body meets those standards and criteria within that period.
-(3) A product certification accreditation body or the chief executive may revoke the accreditation of a product certification body at the expiry of the period given in subsection (2), if the product certification body has not met the criteria and standards prescribed for accreditation within that period.
-(4) Despite subsections (1) and (3), the product certification accreditation body or the chief executive must not suspend or revoke the accreditation of a product certification body if—
-  (a) the prescribed criteria and standards for accreditation are amended; and
-  (b) the product certification body no longer meets those criteria and standards solely as a result of the amendments.
-(5) The limit in subsection (4) applies only during the period of 3 months after the date on which the amendments come into force.
+[Repealed]
 
 ### 267 Product certification accreditation body must notify chief executive of grant, suspension, lifting of suspension, or revocation of accreditation
-(1) A product certification accreditation body must notify the chief executive when it grants, suspends, lifts the suspension of, or revokes an accreditation of a product certification body.
+(1) A product certification accreditation body must notify the chief executive when it grants, suspends, lifts the suspension of, or revokes a person’s accreditation as a product certification body.
 (2) The notification must be given—
   (a) in the manner notified by the chief executive to the product certification accreditation body from time to time; and
   (b) within 7 days after the grant, suspension, lifting of suspension, or revocation to which it relates.
 
-**Certification of building methods or products**
+**Registration of product certification bodies**
+
+### 267A Registration of product certification body
+(1) The chief executive may, on application, and on payment of the prescribed fee (if any), register a person as a product certification body if satisfied that they—
+  (a) are an accredited PCB; and
+  (b) meet any prescribed requirements to have adequate means to cover any civil liabilities that may arise in the performance of their functions under this Act; and
+  (c) meet any other prescribed criteria and standards for registration.
+(2) The application must—
+  (a) be made in writing; and
+  (b) be made in the prescribed manner (if any); and
+  (c) include the prescribed information (if any).
+(3) As soon as practicable after receiving the application, the chief executive must—
+  (a) decide whether to register the applicant; and
+  (b) notify the applicant in writing of the decision (including the reasons, if the application is declined).
+
+### 267B Audit of registered PCB
+(1) The chief executive may audit a registered PCB to ascertain whether—
+  (a) they continue to meet the criteria for registration in section 267A; and
+  (b) there are grounds to suspend or revoke their registration under section 267C.
+(2) Any audit conducted under this section is in addition to audits required under section 262(1)﻿(a).
+
+### 267C Suspension of registration of PCB
+Automatic suspension
+(1) A person’s registration as a product certification body is automatically suspended if their accreditation is suspended under section 264.
+Suspension by chief executive
+(2) The chief executive may suspend a person’s registration as a product certification body if satisfied that they—
+  (a) no longer meet the criteria for registration in section 267A; or
+  (b) have failed to comply with any product certification scheme rules.
+(3) However, if—the chief executive cannot suspend their registration under subsection (2)﻿(a) unless 3 months have elapsed since those amendments came into force.
+  (a) regulations made for the purposes of section 267A(1)﻿(b) or (c) are amended; and
+  (b) a person ceases to meet the criteria in section 267A solely as a result of those amendments,—
+(4) Before suspending a person’s registration under subsection (2), the chief executive must—
+  (a) notify them in writing of the intention to do so and the reasons for it; and
+  (b) give them a reasonable opportunity to be heard.
+Notification
+(5) If a person’s registration is suspended under subsection (1) or (2), the chief executive must—
+  (a) notify them in writing of the suspension (including the reasons for it and the effect of section 267E(1)﻿(b) (if applicable)); and
+  (b) update the register accordingly; and
+  (c) take all reasonable steps to notify the proprietors for whom the person is the responsible PCB.
+
+### 267D Lifting of suspension of registration of PCB
+Automatic suspension
+(1) If a person’s registration is suspended under section 272C(1), that suspension is automatically lifted if the suspension of their accreditation is lifted.
+Suspension by chief executive
+(2) If a person’s registration is suspended under section 267C(2), the chief executive may, on application, and on payment of the prescribed fee (if any), lift the suspension if satisfied that they—
+  (a) again meet the criteria in section 267A; or
+  (b) have otherwise rectified the failure that led to the suspension.
+(3) The application must—
+  (a) be made in writing; and
+  (b) be made in the prescribed manner (if any); and
+  (c) include the prescribed information (if any).
+(4) As soon as practicable after receiving the application, the chief executive must—
+  (a) decide whether to lift the suspension; and
+  (b) notify the applicant in writing of the decision (including the reasons, if the suspension is not lifted); and
+  (c) if the suspension is lifted, update the register accordingly.
+
+### 267E Revocation of registration of PCB
+(1) A person’s registration as a product certification body is automatically revoked if—
+  (a) their accreditation is revoked under section 264; or
+  (b) their registration is suspended under section 267C(2) and the suspension is not lifted within 12 months after it was imposed.
+(2) However, if—the 12-month period referred to in subsection (1)﻿(b) is extended until the application is decided.
+  (a) a person’s registration was suspended under section 267C(2); and
+  (b) within 12 months of the suspension being imposed, the person applied under section 267D(2) for the suspension to be lifted; and
+  (c) at the end of those 12 months the application has not been decided,—
+(3) If a person’s registration is revoked, the chief executive must—
+  (a) notify them in writing of the revocation (including the reasons for it); and
+  (b) remove their name from the register.
+
+**Certification of building products and building methods**
 
 ### 268 Application for product certificate
-(1) A proprietor of a building method or product may apply to a product certification body for certification of that building method or product.
-(2) The application must contain the information that is specified from time to time by the product certification body.
+[Repealed]
 
-### 269 Issue of product certificate
-(1) A product certification body must issue a product certificate if it is satisfied that a building method or product that is the subject of an application under section 268 meets the prescribed criteria and standards for certification.
-(2) A product certificate must state whether there are any matters that should be taken into account in the use or application of the building method or product, and if so, what those matters are.
+### 269 Product certificates
+(1) A registered PCB must, on application, issue a product certificate for a building product or building method if satisfied that it complies with—
+  (a) the criteria and standards for certification prescribed by regulations made under section 402(1)﻿(u)﻿(i); and
+  (b) any product certification scheme rules made under section 272E(3) to supplement those regulations.
+(2) If a building product and a building method are to be used together, a single product certificate may be issued in respect of both together.
+(3) The product certificate must state whether there are any matters that should be taken into account in the use or application of the building product or building method and, if so, what those matters are.
+(4) The application must—
+  (a) be made by the proprietor of the building product or building method; and
+  (b) include the information specified by the registered PCB (if any).
 
 ### 270 Annual review of product certificate
-(1) A product certification body must, on an annual basis, review a product certificate by conducting an audit of the building method or product to which the certificate relates.
-(2) The audit must assess whether the building method or product continues to meet the prescribed criteria and standards for certification.
-(3) The proprietor of the building method or product must provide the product certification body with any information or matter that the product certification body requires for the purposes of the audit.
-(4) A person commits an offence if the person fails to provide any information or matter that the product certification body requires under subsection (3).
-(5) A person who commits an offence under this section is liable on conviction to a fine not exceeding $5,000.
+(1) A registered PCB must review each product certificate for which it is the responsible PCB at least once in every 12 months.
+(2) However, subsection (1) does not apply in relation to a review required for a particular period if another registered PCB has reviewed the certificate in that period.
+(3) A registered PCB may review a product certificate for which it is not the responsible PCB at the request of the proprietor of the building product or building method to which it relates.
+(4) A PCB reviewing a certificate under subsection (1) or (3) must do so by conducting an audit of the building product or building method to which the certificate relates to ascertain whether—
+  (a) it continues to comply with the criteria for certification under section 269; and
+  (b) there are grounds to suspend or revoke the certificate under section 271.
+(5) In carrying out an audit, a registered PCB must—
+  (a) take into account any matters specified in regulations made under section 402(1)﻿(u)﻿(ii) and any product certification scheme rules that supplement those regulations; and
+  (b) comply with any other requirements prescribed by those regulations and scheme rules, including as to when the audit is conducted.
+(6) The proprietor of the building product or building method being audited must provide the PCB with any information or matter that the PCB requires for the purposes of the audit.
+(7) A person who fails to comply with subsection (6)—
+  (a) commits an offence; and
+  (b) is liable on conviction,—
+    (i) in the case of an individual, to a fine not exceeding $5,000:
+    (ii) in the case of a body corporate, to a fine not exceeding $25,000.
 
 ### 271 Suspension or revocation of product certificate
-(1) A product certification body that performed the certification of a building method or product, or the chief executive, may, at any time, suspend or revoke that product certificate if the product certification body or chief executive has first given the proprietor of the building method or product a reasonable opportunity to be heard, and the product certification body or chief executive is satisfied that—
-  (a) the certificate has been obtained by fraud, misrepresentation, or concealment of facts; or
-  (b) the building method or product no longer meets the prescribed criteria and standards for certification (whether this becomes apparent as a result of an annual review of a product certificate under section 270 or otherwise); or
-  (c) any certification, or similar authorisation issued or granted in respect of that building method or product, has been revoked or cancelled for any reason; or
-  (d) the building code no longer applies to the building method or product because of an amendment to the code.
-(2) A product certification body that, or chief executive who, suspends a product certificate must—
-  (a) give the proprietor of the building method or product a reasonable period to rectify the matter that led to the suspension of the product certificate; and
-  (b) lift the suspension if it or he or she is satisfied that the proprietor of the building method or product has rectified the matter within that period.
-(3) A product certification body or the chief executive may revoke the product certificate at the expiry of the period given in subsection (2) if, within that period, the proprietor of the building method or product has not rectified the matter that led to the suspension of the product certificate.
-(4) Despite subsections (1) and (3), the product certification body or the chief executive must not suspend or revoke a product certificate if—
-  (a) the prescribed criteria and standards for certification are amended; and
-  (b) the building method or product to which the certificate relates no longer meets those criteria and standards solely as a result of the amendments.
-(5) The limit in subsection (4) applies only during the period of 3 months after the date on which the amendments come into force.
+(1) The responsible PCB for a product certificate may suspend or revoke the certificate if satisfied that—
+  (a) the certificate was obtained by fraud, misrepresentation, or concealment of facts; or
+  (b) the building product or building method no longer meets the criteria for certification in section 269; or
+  (c) any certification or similar authorisation issued or granted in respect of the building product or building method has been suspended or revoked for any reason; or
+  (d) the building code no longer applies to the building product or building method because of an amendment to the code; or
+  (e) the proprietor of the building product or building method has failed to comply with any product certification scheme rules; or
+  (f) the certificate has not been reviewed under section 270 within the previous 12 months.
+(2) However, if—the responsible PCB cannot suspend or revoke the certificate under subsection (1)﻿(b) unless 3 months have elapsed since those amendments came into force.
+  (a) regulations made for the purposes of section 269 or any product certification scheme rules that supplement those regulations are amended; and
+  (b) a building product or building method ceases to meet the criteria in that section solely as a result of those amendments,—
+(3) Subsection (1)﻿(f) does not apply if the certificate has been in force for less than 12 months.
+(4) The period of a suspension must allow the proprietor a reasonable period to ensure that the building product or building method again meets the criteria in section 269 or to get a review undertaken.
+(5) The responsible PCB must lift the suspension of a certificate if satisfied that the building product or building method again meets those criteria or the certificate has been reviewed.
+(6) If the suspension is not lifted before the end of the suspension period, the responsible PCB may revoke the certificate.
+(7) Before suspending or revoking a certificate, the responsible PCB must—
+  (a) notify the proprietor in writing of the intention to do so and the reasons for it; and
+  (b) give them a reasonable opportunity to be heard.
+(8) If the responsible PCB suspends, lifts the suspension of, or revokes a product certificate, it must notify the proprietor in writing of—
+  (a) its decision and the reasons for it; and
+  (b) the effect of section 272B(1), 272C(1), or 272D(1)﻿(a) (as applicable).
+(9) The chief executive may exercise the powers of a responsible PCB under this section (whether or not the responsible PCB has exercised those powers in relation to the same certificate in the same period).
 
-### 272 Product certification body must notify chief executive of issue, suspension, lifting of suspension, and revocation of certificate
-(1) A product certification body must notify the chief executive when it issues, suspends, lifts the suspension of, or revokes a certificate under this subpart.
+### 272 Notification to chief executive by registered PCB
+(1) A registered PCB must notify the chief executive when it does any of the following:
+  (a) issues a product certificate:
+  (b) suspends, or lifts the suspension of, a product certificate:
+  (c) revokes a product certificate:
+  (d) becomes the responsible PCB for a product certificate as a result of carrying out a review under section 270(3).
 (2) The notification must be given—
-  (a) in the manner notified from time to time by the chief executive to the product certification body; and
-  (b) within 7 days after the issue, suspension, lifting of suspension, or revocation to which it relates.
+  (a) in the manner notified in writing by the chief executive to the registered PCB; and
+  (b) within 7 days after the event occurs.
+
+**Registration of product certificates**
+
+### 272A Registration of product certificates
+(1) The chief executive must register a product certificate if satisfied that—
+  (a) the certificate—
+    (i) is in the form (if any) approved by the chief executive; and
+    (ii) includes the prescribed information (if any); and
+  (b) the proprietor of the building product or building method to which the certificate relates has paid the prescribed fee (if any).
+(2) As soon as practicable after receiving notice under section 272 of the issue of a product certificate, the chief executive must—
+  (a) decide whether to register the certificate; and
+  (b) notify the issuing registered PCB and the proprietor of the decision (including the reasons, if the certificate is not registered).
+
+### 272B Suspension of registration of product certificate
+Automatic suspension
+(1) The registration of a product certificate is automatically suspended if the certificate is suspended under section 271.
+Suspension by chief executive
+(2) The chief executive may suspend the registration of a product certificate for a specified period if satisfied that—
+  (a) the responsible PCB has failed to comply with any product certification scheme rules; or
+  (b) the proprietor of the building product or building method has failed to comply with any product certification scheme rules.
+Notification
+(3) If the registration of a product certificate is suspended under subsection (1) or (2), the chief executive must—
+  (a) notify each of the following in writing of the suspension (including the reasons for it and the effect of section 272D(1)﻿(b) (if applicable)):
+    (i) the responsible PCB:
+    (ii) the proprietor of the building product or building method; and
+  (b) update the register accordingly.
+
+### 272C Lifting of suspension of registration of product certificate
+Automatic suspension
+(1) If the registration of a product certificate is suspended under section 272B(1), that suspension is automatically lifted if the suspension of the certificate is lifted.
+Suspension by chief executive
+(2) If the registration of a product certificate is suspended under section 272B(2), the chief executive may, on application, and on payment of the prescribed fee (if any), lift the suspension if satisfied that—
+  (a) in the case of a suspension under section 272B(2)﻿(a), the building product or building method meets the criteria for certification under section 269; or
+  (b) in the case of a suspension under section 272B(2)﻿(b), that the proprietor has rectified the failure.
+(3) The application must—
+  (a) be made in writing by the proprietor of the building product or building method; and
+  (b) be made in the prescribed manner (if any); and
+  (c) include the prescribed information (if any).
+(4) However, the fee (if any) is not payable if the registration of the product certificate was suspended under section 272B(2)﻿(a).
+(5) As soon as practicable after receiving the application, the chief executive must—
+  (a) decide whether to lift the suspension; and
+  (b) notify the applicant in writing of the decision (including the reasons, if the suspension is not lifted); and
+  (c) if the suspension is lifted, update the register accordingly.
+
+### 272D Revocation of registration of product certificate
+(1) The registration of a product certificate is automatically revoked—
+  (a) if the certificate is revoked under section 271; or
+  (b) if the registration is suspended under section 272B(2) and the suspension is not lifted before the end of the suspension period.
+(2) However, if—the period referred to in subsection (1)﻿(b) is extended until the application is decided.
+  (a) the registration of a product certificate was suspended under section 272B(2); and
+  (b) before the end of the suspension period, an application is made under section 272C(2) for the suspension to be lifted; and
+  (c) at the end of the suspension period the application has not been decided,—
+(3) If the registration of a product certificate is revoked, the chief executive must—
+  (a) notify the proprietor in writing of the revocation (including the reasons for it); and
+  (b) remove the certificate from the register.
+
+**Product certification scheme rules**
+
+### 272E Product certification scheme rules
+(1) The chief executive may make rules for the operation of the product certification scheme under this subpart.
+(2) The rules may (without limitation) include rules relating to 1 or more of the following:
+  (a) how the scheme parties are to perform their functions under this Act:
+  (b) how building products and building methods are to be evaluated:
+  (c) the resolution of disputes between scheme parties:
+  (d) procedural and administrative matters.
+(3) The rules may also supplement regulations made under section 402(1)﻿(tb)﻿(ii) or (u)﻿(i) or (ii).
+(4) However, the chief executive must not make rules under subsection (3) unless satisfied that the rules—
+  (a) set out matters of detail to elaborate on matters provided for in the regulations; or
+  (b) set out procedures, methodologies, forms, or other matters of an administrative nature relating to matters provided for in the regulations; or
+  (c) set out how requirements imposed by the regulations may or must be met; or
+  (d) otherwise supplement matters of general principle set out in the regulations.
+(5) In this section, scheme party means any of the following:
+  (a) the product certification accreditation body:
+  (b) an accredited PCB:
+  (c) a registered PCB:
+  (d) the proprietor of a building product or building method that has a current product certificate (whether registered or not).
+(6) Rules made under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+
+### 272F Procedure for making product certification scheme rules
+(1) Before making product certification scheme rules, the chief executive must—
+  (a) publicly notify the proposal to make the rules; and
+  (b) give persons at least 20 working days to make submissions on the proposal; and
+  (c) consider those submissions.
+(2) The notice must include the following:
+  (a) a detailed statement of the proposed rules, including any transitional arrangements (which may, but need not, include a copy of the proposed rules):
+  (b) the reasons for making the rules:
+  (c) the date on which the rules will come into force:
+  (d) details of how, and by when, submissions may be made.
+(3) The chief executive need not comply with subsection (1) in relation to an amendment of the rules if satisfied that the amendment will not adversely affect the substantial interests of any person.
+
+**Offences relating to product registration scheme**
+
+### 272G Offence to misrepresent status as product certification body
+(1) A person who is not a registered PCB must not perform any of the functions of a registered PCB.
+(2) A person who fails to comply with subsection (1)—
+  (a) commits an offence; and
+  (b) is liable on conviction,—
+    (i) in the case of an individual, to a fine not exceeding $300,000:
+    (ii) in the case of a body corporate, to a fine not exceeding $1,500,000.
+(3) A person must not, in any other way, represent themselves as being any of the following if that is not the case:
+  (a) an accredited PCB:
+  (b) a registered PCB:
+  (c) authorised to issue product certificates.
+(4) A person who fails to comply with subsection (3)—
+  (a) commits an offence; and
+  (b) is liable on conviction,—
+    (i) in the case of an individual, to a fine not exceeding $50,000:
+    (ii) in the case of a body corporate, to a fine not exceeding $150,000.
+
+### 272H Offence to misrepresent product certificate
+(1) A person must not represent something as any of the following if that is not the case:
+  (a) having a current product certificate:
+  (b) having a registered product certificate:
+  (c) having been evaluated and certified under the product certification scheme under this subpart.
+(2) A person who fails to comply with subsection (1)—
+  (a) commits an offence; and
+  (b) is liable on conviction,—
+    (i) in the case of an individual, to a fine not exceeding $300,000:
+    (ii) in the case of a body corporate, to a fine not exceeding $1,500,000.
+
+### Subpart 7A — Responsibilities relating to modular component manufacturers
+
+**Appointment of modular component manufacturer certification accreditation body**
+
+### 272I Appointment of modular component manufacturer certification accreditation body
+The chief executive may—
+  (a) appoint a person as the modular component manufacturer certification accreditation body; and
+  (b) revoke the appointment at any time.
+
+**Accreditation of modular component manufacturer certification bodies**
+
+### 272J Accreditation of modular component manufacturer certification body
+(1) The MCMC accreditation body may, on application, and on payment of the prescribed fee (if any), accredit a person as a modular component manufacturer certification body if satisfied that they—
+  (a) have the ability to perform the relevant functions competently, impartially, consistently, transparently, and accountably; and
+  (b) have policies, procedures, and systems in place that—
+    (i) will result in them performing their functions as required by paragraph (a); and
+    (ii) comply with any requirements prescribed by regulations made under section 402(1)﻿(ub)﻿(i)﻿(A); and
+  (c) comply with any other criteria and standards for accreditation prescribed by regulations made under section 402(1)﻿(ub)﻿(i)﻿(B); and
+  (d) comply with any MCM scheme rules made under section 272ZG(3) to supplement the regulations referred to in paragraphs (b)﻿(ii) and (c).
+(2) The application must—
+  (a) be made in writing; and
+  (b) be made in the prescribed manner (if any); and
+  (c) include the prescribed information (if any).
+(3) In this section, relevant functions means the functions of a modular component manufacturer certification body under this Act for which the person wishes to be accredited.
+
+### 272K Audit of accredited MCMCB
+(1) The MCMC accreditation body must audit each accredited MCMCB—
+  (a) at least once in every 12 months; and
+  (b) more frequently if required by the regulations.
+(2) The purpose of an audit is to ascertain whether—
+  (a) the person continues to meet the criteria for accreditation in section 272J; and
+  (b) there are grounds to suspend or revoke their accreditation under section 272L.
+(3) In carrying out an audit, an MCMC accreditation body must—
+  (a) take into account any matters specified in regulations made under section 402(1)﻿(ub)﻿(ii)﻿(B) and any MCM scheme rules that supplement those regulations; and
+  (b) comply with any other requirements prescribed by regulations made under section 402(1)﻿(ub)﻿(ii)﻿(C) and any MCM scheme rules that supplement those regulations.
+(4) The MCMC accreditation body may charge the person being audited the prescribed fee (if any) for conducting the audit.
+
+### 272L Suspension or revocation of accreditation of MCMCB
+(1) The MCMC accreditation body may suspend or revoke a person’s accreditation as a modular component manufacturer certification body if satisfied that they—
+  (a) no longer meet the criteria for accreditation in section 272J; or
+  (b) have failed to comply with any MCM scheme rules.
+(2) However, if—the MCMC accreditation body cannot suspend or revoke their accreditation under subsection (1)﻿(a) unless 3 months have elapsed since those amendments came into force.
+  (a) regulations made for the purposes of section 272J(1)﻿(b)﻿(ii) or (c) or any MCM scheme rules that supplement those regulations are amended; and
+  (b) a person ceases to meet the criteria in section 272J solely as a result of those amendments,—
+(3) The period of a suspension must allow the person a reasonable period to again meet the criteria in section 272J or to rectify the failure.
+(4) The MCMC accreditation body must lift the suspension of a person’s accreditation if satisfied that they again meet those criteria or have rectified the failure.
+(5) If the suspension is not lifted before the end of the suspension period, the MCMC accreditation body may revoke the accreditation.
+(6) Before suspending or revoking a person’s accreditation under subsection (1) or (5), the MCMC accreditation body must—
+  (a) notify the person in writing of the intention to do so and the reasons for it; and
+  (b) give the person a reasonable opportunity to be heard.
+(7) If the MCMC accreditation body suspends, lifts the suspension of, or revokes a person’s accreditation, it must notify the person in writing of—
+  (a) its decision and the reasons for it; and
+  (b) the effect of section 272P(1), 272Q(1), or 272R(1)﻿(a) (as applicable).
+(8) The chief executive may exercise the powers of the MCMC accreditation body under this section (whether or not that body has exercised those powers in relation to the same person in the same period).
+
+### 272M Notification to chief executive by MCMC accreditation body
+(1) The MCMC accreditation body must notify the chief executive when it does any of the following:
+  (a) accredits a person as a modular component manufacturer certification body:
+  (b) suspends, or lifts the suspension of, a person’s accreditation:
+  (c) revokes a person’s accreditation.
+(2) The notification must be given—
+  (a) in the manner notified in writing by the chief executive to the MCMC accreditation body; and
+  (b) within 7 days after the event occurs.
+
+**Registration of modular component manufacturer certification bodies**
+
+### 272N Registration of modular component manufacturer certification body
+(1) The chief executive may, on application, and on payment of the prescribed fee (if any), register a person as a modular component manufacturer certification body if satisfied that they—
+  (a) are an accredited MCMCB; and
+  (b) meet any prescribed requirements to have adequate means to cover any civil liabilities that may arise in the performance of their functions under this Act; and
+  (c) meet any other prescribed criteria and standards for registration.
+(2) The application must—
+  (a) be made in writing; and
+  (b) be made in the prescribed manner (if any); and
+  (c) include the prescribed information (if any).
+(3) As soon as practicable after receiving the application, the chief executive must—
+  (a) decide whether to register the applicant; and
+  (b) notify the applicant in writing of the decision (including the reasons, if the application is declined).
+
+### 272O Audit of registered MCMCB
+The chief executive must audit a registered MCMCB at least once in every 3 years to ascertain whether—
+  (a) they continue to meet the criteria for registration in section 272N; and
+  (b) there are grounds to suspend or revoke their registration under section 272P.
+
+### 272P Suspension of registration of MCMCB
+Automatic suspension
+(1) A person’s registration as a modular component manufacturer certification body is automatically suspended if their accreditation is suspended under section 272L.
+Suspension by chief executive
+(2) The chief executive may suspend a person’s registration as a modular component manufacturer certification body if satisfied that they—
+  (a) no longer meet the criteria for registration in section 272N; or
+  (b) have failed to comply with any MCM scheme rules.
+(3) However, if—the chief executive cannot suspend their registration under subsection (2)﻿(a) unless 3 months have elapsed since those amendments came into force.
+  (a) regulations made for the purposes of section 272N(1)﻿(b) or (c) are amended; and
+  (b) a person ceases to meet the criteria in section 272N solely as a result of those amendments,—
+(4) Before suspending a person’s registration under subsection (2), the chief executive must—
+  (a) notify them in writing of the intention to do so and the reasons for it; and
+  (b) give them a reasonable opportunity to be heard.
+Notification
+(5) If a person’s registration is suspended under subsection (1) or (2), the chief executive must—
+  (a) notify them in writing of the suspension (including the reasons for it and the effect of section 272R(1)﻿(b) (if applicable)); and
+  (b) update the register accordingly; and
+  (c) take all reasonable steps to notify certified MCMs for whom the person is the responsible MCMCB.
+
+### 272Q Lifting of suspension of registration of MCMCB
+Automatic suspension
+(1) If a person’s registration is suspended under section 272P(1), that suspension is automatically lifted if the suspension of their accreditation is lifted.
+Suspension by chief executive
+(2) If a person’s registration is suspended under section 272P(2), the chief executive may, on application, and on payment of the prescribed fee (if any), lift the suspension if satisfied that they—
+  (a) again meet the criteria for registration in section 272N; or
+  (b) have otherwise rectified the failure that led to the suspension.
+(3) The application must—
+  (a) be made in writing; and
+  (b) be made in the prescribed manner (if any); and
+  (c) include the prescribed information (if any).
+(4) As soon as practicable after receiving the application, the chief executive must—
+  (a) decide whether to lift the suspension; and
+  (b) notify the applicant in writing of the decision (including the reasons, if the suspension is not lifted); and
+  (c) if the suspension is lifted, update the register accordingly.
+
+### 272R Revocation of registration of MCMCB
+(1) A person’s registration as a modular component manufacturer certification body is automatically revoked if—
+  (a) their accreditation is revoked under section 272L; or
+  (b) their registration is suspended under section 272P(2) and the suspension is not lifted within 12 months after it was imposed.
+(2) However, if—the 12-month period referred to in subsection (1)﻿(b) is extended until the application is decided.
+  (a) a person’s registration was suspended under section 272P(2); and
+  (b) within 12 months of the suspension being imposed the person applied under section 272Q(2) for the suspension to be lifted; and
+  (c) at the end of those 12 months the application has not been decided,—
+(3) If a person’s registration is revoked, the chief executive must—
+  (a) notify them in writing of the revocation (including the reasons for it); and
+  (b) remove their name from the register.
+
+### 272S Urgent suspension of registration of MCMCB
+(1) The chief executive may suspend a person’s registration as a modular component manufacturer certification body if the chief executive has reasonable grounds to suspect that—
+  (a) they have—
+    (i) certified a manufacturer knowing that its modular components are likely to cause injury or death even if used in accordance with the manufacturer’s instructions; or
+    (ii) certified as a modular component manufacturer a person who does not meet the criteria for certification in section 272U; or
+    (iii) otherwise failed to properly exercise their powers or perform their functions; and
+  (b) that conduct creates a risk of injury or death to any person or a risk to public safety that is sufficient to justify the immediate suspension of the person’s registration.
+(2) The chief executive may suspend the person’s registration without giving them prior notice.
+(3) If a person’s registration is suspended under this section, the chief executive must—
+  (a) notify them in writing of the suspension (including the reasons for it); and
+  (b) update the register accordingly; and
+  (c) take all reasonable steps to notify certified MCMs for whom the person is the responsible MCMCB; and
+  (d) conduct an investigation under section 272T.
+
+### 272T Investigation following urgent suspension
+(1) After suspending a person’s registration under section 272S, the chief executive must investigate whether—
+  (a) they have engaged in conduct referred to in section 272S(1)﻿(a); and
+  (b) there are grounds to suspend or revoke the person’s accreditation or registration under section 272L or 272P.
+(2) The investigation may be conducted by the MCMC accreditation body on behalf of the chief executive.
+(3) After completing the investigation, the chief executive must do 1 of the following:
+  (a) lift the suspension:
+  (b) suspend or revoke the person’s accreditation under section 272L:
+  (c) suspend the person’s registration under section 272P.
+(4) If the chief executive has not done any of the things mentioned in subsection (3) before the expiry of 6 months from when the urgent suspension was imposed, that suspension is lifted on the expiry of those 6 months.
+(5) If the person’s suspension is lifted under subsection (3)﻿(a) or (4), the chief executive must—
+  (a) notify them in writing of the lifting of the suspension; and
+  (b) update the register accordingly.
+(6) This section does not limit the chief executive in taking any other investigative or enforcement action under this Act the chief executive considers appropriate.
+
+**Certification of modular component manufacturers**
+
+### 272U Certification of modular component manufacturer
+(1) A registered MCMCB may, on application, and on payment of the prescribed fee (if any), certify a person as a modular component manufacturer if satisfied that they—
+  (a) have the ability to competently and reliably—
+    (i) manufacture modular components of the kind the person is to be certified to manufacture to a standard that complies with the building code; and
+    (ii) design modular components of the kind (if any) the person is to be certified to design to a standard that complies with the building code; and
+  (b) have policies, procedures, and systems that—
+    (i) will result in them performing their functions as required by paragraph (a); and
+    (ii) comply with any requirements prescribed by regulations made under section 402(1)﻿(uc)﻿(i)﻿(A); and
+  (c) comply with any other criteria and standards for certification prescribed by regulations made under section 402(1)﻿(uc)﻿(i)﻿(B); and
+  (d) comply with any MCM scheme rules made under section 272ZG(3) to supplement the regulations referred to in paragraphs (b)﻿(ii) and (c).
+(2) The certification must specify—
+  (a) the kinds of modular components the person is certified to manufacture; and
+  (b) the kinds of modular components (if any) the person is certified to design.
+(3) The application must—
+  (a) be made in writing; and
+  (b) be made in the prescribed manner (if any); and
+  (c) set out—
+    (i) the kinds of modular components that the person seeks to be certified to manufacture; and
+    (ii) the kinds of modular components (if any) that the person seeks to be certified to design; and
+  (d) include the prescribed information (if any).
+
+### 272V Audit of certified MCM
+(1) A registered MCMCB must audit each certified MCM for whom it is the responsible MCMCB—
+  (a) at least once in every 12 months; and
+  (b) more frequently if required by the regulations.
+(2) However, subsection (1) does not apply in relation to the audit required for a particular period if another registered MCMCB has audited the modular component manufacturer in that period.
+(3) A registered MCMCB may audit a certified MCM for whom it is not the responsible MCMCB at the request of the certified MCM.
+(4) The purpose of an audit is to ascertain whether—
+  (a) the modular component manufacturer continues to meet the criteria for certification in section 272U; or
+  (b) there are grounds to suspend or revoke the person’s certification under section 272W.
+(5) In carrying out an audit, a registered MCMCB must—
+  (a) take into account any matters specified in regulations made under section 402(1)﻿(uc)﻿(ii)﻿(B) and any MCM scheme rules that supplement those regulations; and
+  (b) comply with any other requirements prescribed by regulations made under section 402(1)﻿(uc)﻿(ii)﻿(C) and any MCM scheme rules that supplement those regulations.
+
+### 272W Suspension or revocation of certification of MCM
+(1) The responsible MCMCB for a certified MCM may suspend or revoke the person’s certification if satisfied that they—
+  (a) no longer meet the criteria for certification in section 272U; or
+  (b) have failed to comply with any MCM scheme rules; or
+  (c) have not been audited within the previous 12 months (or any shorter period prescribed for the purposes of section 272V(1)﻿(b)).
+(2) Subsection (1)﻿(b) does not apply if the person has been certified for less than 12 months (or the shorter prescribed period).
+(3) However, if—the responsible MCMCB cannot suspend or revoke their certification under subsection (1)﻿(a) unless 3 months have elapsed since those amendments came into force.
+  (a) regulations made for the purposes of section 272U(1)﻿(b)﻿(ii) or (c) or any MCM scheme rules that supplement those regulations are amended; and
+  (b) a person ceases to meet the criteria in section 272U solely as a result of those amendments,—
+(4) The period of a suspension must allow the person a reasonable period to again meet the criteria in section 272U or to get an audit undertaken.
+(5) The responsible MCMCB must lift the suspension of a person’s certification if satisfied that they again meet those criteria or have been audited.
+(6) If the suspension is not lifted before the end of the suspension period, the responsible MCMCB may revoke the certification.
+(7) Before suspending or revoking a person’s certification, the responsible MCMCB must—
+  (a) notify them in writing of the intention to do so and the reasons for it; and
+  (b) give them a reasonable opportunity to be heard.
+(8) If the responsible MCMCB suspends, lifts the suspension of, or revokes a person’s certification, it must notify the person in writing of—
+  (a) its decision and the reasons for it; and
+  (b) the effect of section 272ZA(1), 272ZB(1), or 272ZC(1)﻿(a) (as applicable).
+(9) If a person’s certification is suspended or revoked, the responsible MCMCB must notify them in writing of the suspension or revocation and the reasons for it.
+(10) The chief executive may exercise the powers of a responsible MCMCB under this section (whether or not the responsible MCMCB has exercised those powers in relation to the same manufacturer in the same period).
+
+### 272X Notification to chief executive by registered MCMCB
+(1) A registered MCMCB must notify the chief executive when it does any of the following:
+  (a) certifies a person as a modular component manufacturer:
+  (b) suspends, or lifts the suspension of, a person’s certification:
+  (c) revokes a person’s certification:
+  (d) becomes the responsible MCMCB for a modular component manufacturer as a result of carrying out an audit under section 272V(3).
+(2) The notification must be given—
+  (a) in the manner notified in writing by the chief executive to the registered MCMCB; and
+  (b) within 7 days after the event occurs.
+
+**Registration of modular component manufacturers**
+
+### 272Y Registration of modular component manufacturer
+(1) The chief executive may, on application, and on payment of the prescribed fee (if any), register a person as a modular component manufacturer if satisfied that they—
+  (a) are a certified MCM; and
+  (b) meet any prescribed requirements to have adequate means to cover any civil liabilities that may arise in relation to their manufacture and design (if applicable) of modular components; and
+  (c) comply with any other prescribed criteria and standards for registration.
+(2) A person who is registered under subsection (1) is a registered MCM only in respect of—
+  (a) the manufacture of modular components of the kind they are certified to manufacture under section 272U; and
+  (b) the design of modular components of the kind (if any) they are certified to design under section 272U.
+(3) The application must—
+  (a) be made in writing; and
+  (b) be made in the prescribed manner (if any); and
+  (c) include the prescribed information (if any).
+(4) As soon as practicable after receiving the application, the chief executive must—
+  (a) decide whether to register the applicant; and
+  (b) notify the applicant in writing of the decision (including the reasons, if the application is declined).
+
+### 272Z Audit of registered MCM
+The chief executive must audit a registered MCM at least once in every 3 years to ascertain whether—
+  (a) they continue to meet the criteria for registration in section 272Y; and
+  (b) there are grounds to suspend the person’s registration under section 272ZA.
+
+### 272ZA Suspension of registration of MCM
+Automatic suspension
+(1) A person’s registration as a modular component manufacturer is automatically suspended if their certification is suspended under section 272W.
+Suspension by chief executive
+(2) The chief executive may suspend a person’s registration as a modular component manufacturer if satisfied that—
+  (a) the person no longer meets the criteria for registration in section 272Y; or
+  (b) the person has failed to comply with any MCM scheme rules; or
+  (c) the responsible MCMCB for the person has failed to comply with any MCM scheme rules.
+(3) However, if—the chief executive cannot suspend their registration under subsection (2) unless 3 months have elapsed since those amendments came into force.
+  (a) regulations made for the purposes of section 272Y(1)﻿(b) or (c) are amended; and
+  (b) a person ceases to meet the criteria in section 272Y solely as a result of those amendments,—
+(4) Before suspending a person’s registration under subsection (2), the chief executive must—
+  (a) notify them in writing of the intention to do so and the reasons for it; and
+  (b) give them a reasonable opportunity to be heard.
+Notification
+(5) If a person’s registration is suspended under subsection (1) or (2), the chief executive must—
+  (a) notify them in writing of the suspension (including the reasons for it and the effect of section 272ZC(1)﻿(b) (if applicable)); and
+  (b) update the register accordingly.
+
+### 272ZB Lifting of suspension of registration of MCM
+Automatic suspension
+(1) If a person’s registration is suspended under section 272ZA(1), that suspension is automatically lifted if the suspension of their certification is lifted.
+Suspension by chief executive
+(2) If a person’s registration is suspended under section 272ZA(2), the chief executive may, on application, and on payment of the prescribed fee (if any), lift the suspension if satisfied that,—
+  (a) in the case of a suspension under section 272ZA(2)﻿(a) or (c), the person meets the criteria for registration in section 272Y; or
+  (b) in the case of a suspension under section 272ZA(2)﻿(b), the person has rectified the failure.
+(3) The application must—
+  (a) be made in writing by the modular component manufacturer; and
+  (b) be made in the prescribed manner (if any); and
+  (c) include the prescribed information (if any).
+(4) However, the fee (if any) is not payable if the person’s registration was suspended under section 272ZA(2)﻿(c).
+(5) As soon as practicable after receiving the application, the chief executive must—
+  (a) decide whether to lift the suspension; and
+  (b) notify the applicant in writing of the decision (including the reasons, if the suspension is not lifted); and
+  (c) if the suspension is lifted, update the register accordingly.
+
+### 272ZC Revocation of registration of MCM
+(1) A person’s registration as a modular component manufacturer is automatically revoked if—
+  (a) their certification is revoked under section 272W; or
+  (b) their registration is suspended under section 272ZA(2) and the suspension is not lifted within 12 months after it was imposed.
+(2) However, if—the 12-month period referred to in subsection (1)﻿(b) is extended until the application is decided.
+  (a) a person’s registration was suspended under section 272ZA(2); and
+  (b) within 12 months of the suspension being imposed the person applied under section 272ZB(2) for the suspension to be lifted; and
+  (c) at the end of those 12 months the application has not been decided,—
+(3) If a person’s registration is revoked, the chief executive must—
+  (a) notify them in writing of the revocation (including the reasons for it); and
+  (b) remove their name from the register.
+
+### 272ZD Urgent suspension of registration of MCM
+(1) The chief executive may suspend a person’s registration as a modular component manufacturer if the chief executive has reasonable grounds to suspect that—
+  (a) they have—
+    (i) manufactured modular components that are likely to cause injury or death even if used in accordance with the manufacturer’s instructions; or
+    (ii) in connection with their modular components, failed to comply with this Act or any MCM scheme rules; and
+  (b) that conduct creates a risk of injury or death to any person or a risk to public safety that is sufficient to justify the immediate suspension of the person’s registration.
+(2) The chief executive may suspend the person’s registration without giving them prior notice.
+(3) If a person’s registration is suspended under this section, the chief executive must—
+  (a) notify them in writing of the suspension (including the reasons for it); and
+  (b) update the register accordingly; and
+  (c) conduct an investigation under section 272ZE.
+
+### 272ZE Investigation following urgent suspension
+(1) After suspending a person’s registration under section 272ZD, the chief executive must investigate whether—
+  (a) they have engaged in conduct referred to in section 272ZD; and
+  (b) there are grounds to suspend or revoke the person’s certification or registration under section 272W or 272ZA.
+(2) The investigation may be conducted by the MCMC accreditation body on behalf of the chief executive.
+(3) After completing the investigation, the chief executive must do 1 of the following:
+  (a) lift the suspension:
+  (b) suspend or revoke the person’s certification under section 272W:
+  (c) suspend the person’s registration under section 272ZA(2).
+(4) If the chief executive has not done any of the things mentioned in subsection (3) before the expiry of 6 months from when the urgent suspension was imposed, that suspension is lifted on the expiry of those 6 months.
+(5) If the person’s suspension is lifted under subsection (3)﻿(a) or (4), the chief executive must—
+  (a) notify them in writing of the lifting of the suspension; and
+  (b) update the register accordingly.
+(6) This section does not limit the chief executive in taking any other investigative or enforcement action under this Act the chief executive considers appropriate.
+
+**Manufacturer’s certificates for modular components**
+
+### 272ZF Registered MCM may issue certificate for modular components
+(1) A registered MCM who is certified to manufacture a modular component may issue a certificate for that component relating to its compliance with the building code or relevant building consent for the purposes of 1 or more of sections 19(1)﻿(da), 45(1)﻿(bb) or (bc), and 92(3) or (3A).
+(2) The certificate must—
+  (a) be in the form (if any) approved by the chief executive; and
+  (b) include the prescribed information; and
+  (c) be issued in accordance with any prescribed requirements.
+(3) The certificate—
+  (a) takes effect when it is issued by the manufacturer; and
+  (b) remains current until the first of the following occurs:
+    (i) the manufacturer revokes the certificate:
+    (ii) the manufacturer ceases to be a registered MCM.
+(4) Regulations prescribing requirements for subsection (2)—
+  (a) may prescribe requirements for all modular components or any class or classes of modular components:
+  (b) may prescribe different requirements for different modular components or classes of modular components:
+  (c) may prescribe different requirements for different manufacturers or classes of manufacturers:
+  (d) may prescribe different requirements depending on when the certificate is issued:
+  (e) may otherwise make different provision for different cases on any differential basis.
+
+**MCM scheme rules**
+
+### 272ZG MCM scheme rules
+(1) The chief executive may make rules for the operation of the modular component manufacturer certification scheme under this subpart.
+(2) The rules may (without limitation) include rules relating to 1 or more of the following:
+  (a) how the scheme parties are to perform their functions under this Act:
+  (b) how modular component manufacturers are to be evaluated:
+  (c) resolution of disputes between scheme parties:
+  (d) procedural and administrative matters.
+(3) The rules may also supplement regulations made under section 402(1)﻿(ub)﻿(i), (ii)﻿(B), or (ii)﻿(C), or (uc)﻿(i), (ii)﻿(B), or (ii)﻿(C).
+(4) However, the chief executive must not make rules under subsection (3) unless satisfied that the rules—
+  (a) set out matters of detail to elaborate on matters provided for in the regulations; or
+  (b) set out procedures, methodologies, forms, or other matters of an administrative nature relating to matters provided for in the regulations; or
+  (c) set out how requirements imposed by the regulations may or must be met; or
+  (d) otherwise supplement matters of general principle set out in the regulations.
+(5) In this section, scheme party means any of the following:
+  (a) the MCMC accreditation body:
+  (b) an accredited MCMCB:
+  (c) a registered MCMCB:
+  (d) a certified MCM:
+  (e) a registered MCM.
+(6) Rules made under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+
+### 272ZH Procedure for making MCM scheme rules
+(1) Before making MCM scheme rules, the chief executive must—
+  (a) publicly notify the proposal to make the rules; and
+  (b) give persons at least 20 working days to make submissions on the proposal; and
+  (c) consider those submissions.
+(2) The notice must include the following:
+  (a) a detailed statement of the proposed rules, including any transitional arrangements (which may, but need not, include a copy of the proposed rules):
+  (b) the reasons for making the rules:
+  (c) the date on which the rules will come into force:
+  (d) details of how, and by when, submissions may be made.
+(3) The chief executive need not comply with subsection (1) in relation to an amendment of the rules if satisfied that the amendment will not adversely affect the substantial interests of any person.
+
+**Offences relating to modular component manufacturer scheme**
+
+### 272ZI Offence to misrepresent status
+(1) A person who is not the MCMC accreditation body must not perform any of the functions of that body.
+(2) A person who is not a registered MCMCB must not perform any of the functions of a registered MCMCB.
+(3) A person who fails to comply with subsection (1) or (2)—
+  (a) commits an offence; and
+  (b) is liable on conviction,—
+    (i) in the case of an individual, to a fine not exceeding $300,000:
+    (ii) in the case of a body corporate, to a fine not exceeding $1,500,000.
+(4) A person must not, in any other way, represent themselves as being any of the following if that is not the case:
+  (a) the MCMC accreditation body:
+  (b) authorised to accredit modular component manufacturer certification bodies:
+  (c) an accredited MCMCB:
+  (d) a registered MCMCB:
+  (e) authorised to certify modular component manufacturers:
+  (f) a certified MCM:
+  (g) a registered MCM.
+(5) A person who fails to comply with subsection (4)—
+  (a) commits an offence; and
+  (b) is liable on conviction,—
+    (i) in the case of an individual, to a fine not exceeding $50,000:
+    (ii) in the case of a body corporate, to a fine not exceeding $150,000.
+
+### 272ZJ Offence to misrepresent modular component as manufactured by registered MCM
+(1) A person must not misrepresent a modular component as being any of the following if that is not the case:
+  (a) manufactured by a registered MCM:
+  (b) a modular component to which section 19(1)﻿(da) would apply.
+(2) A person who fails to comply with subsection (1)—
+  (a) commits an offence; and
+  (b) is liable on conviction,—
+    (i) in the case of an individual, to a fine not exceeding $300,000:
+    (ii) in the case of a body corporate, to a fine not exceeding $1,500,000.
 
 ### Subpart 8 — Miscellaneous responsibilities
 
@@ -4621,8 +5450,10 @@ An application for accreditation under section 263 must—
   (a) a register of building consent authorities for the purposes of section 191:
   (b)
   (c) a register of accredited dam owners notified to the chief executive under section 260:
-  (d) a register of accredited product certification bodies notified to the chief executive under section 267:
-  (e) a register of certified building methods or products notified to the chief executive under section 272.
+  (d) a register of product certification bodies for the purposes of sections 267A to 267E:
+  (e) a register of product certificates for the purposes of sections 272A to 272D:
+  (f) a register of modular component manufacturer certification bodies for the purposes of sections 272N to 272T:
+  (g) a register of modular component manufacturers for the purposes of sections 272Y to 272ZE.
 (2) The chief executive must—
   (a) make each register available for public inspection, without fee, at reasonable hours at the head office of the Ministry; and
   (b) supply to any person, on request and on payment of a reasonable charge, a copy of each register or part of each register.
@@ -4643,13 +5474,18 @@ The purpose of each register is—
     (i) in the case of the register of building consent authorities, the names and contact details of those building consent authorities and, if applicable, the scope of their accreditation; and
     (ii)
     (iii) in the case of the register of accredited dam owners, the names and contact details of those dam owners; and
-    (iv) in the case of the register of accredited product certification bodies, the names and contact details of those product certification bodies; and
-    (v) in the case of the register of certified building methods or products, which building methods or products are certified; and
-  (b) to facilitate the compliance, audit, and other supporting and administrative functions of the chief executive under this Act.
+    (iv) in the case of the register of product certification bodies, the names and contact details of registered PCBs and persons whose registration as a product certification body is suspended; and
+    (v) in the case of the register of product certificates, which building products and building methods have registered product certificates; and
+    (vi) in the case of the register of modular component manufacturer certification bodies, the names and contact details of registered MCMCBs and persons whose registration as a modular component manufacturer certification body is suspended; and
+    (vii) in the case of the register of modular component manufacturers, the following details of registered MCMs and persons whose registration as a modular component manufacturer is suspended:
+      (A) their name and contact details; and
+      (B) the kind of modular components they are certified to manufacture; and
+      (C) the kind of modular components (if any) they are certified to design.
+  (b) to facilitate the compliance, audit, and other supporting and administrative functions of the chief executive and other persons and bodies under this Act.
 
 ### 275 Content of register of building consent authorities
 The register of building consent authorities referred to in section 273(1)﻿(a) must, in addition to the names of the building consent authorities, contain the following information:
-  (a) details of any limits imposed by the chief executive, under section 203(2)﻿(c), on the functions that those authorities may perform:
+  (a) details of any limits imposed by the chief executive, under section 203C, on the functions that those authorities may perform:
   (b) any prescribed information:
   (c) in the case of building consent authorities that are not territorial authorities, the scope of accreditation of each of those authorities.
 
@@ -5473,14 +6309,15 @@ Nothing in this Part limits or derogates from the provisions of the Fair Trading
   (a) builds the household unit by himself or herself or with the assistance of others:
   (b) in trade arranges for the household unit to be built or acquires the household unit from a person who built it or arranged for it to be built:
   (c) acquires the household unit in a transaction that is intended to defeat the purpose and effect of subsection (2).
+(4) However, subsection (3)﻿(a) does not apply to the manufacture of a household unit by a registered MCM who is certified to manufacture the household unit.
 
 ### 362I Implied warranties for building work in relation to household units
 (1) In every contract to which this section applies, the following warranties about building work to be carried out under the contract are implied and are taken to form part of the contract:
   (a) that the building work will be carried out—
     (i) in a proper and competent manner; and
     (ii) in accordance with the plans and specifications set out in the contract; and
-    (iii) in accordance with the relevant building consent:
-  (b) that all materials to be supplied for use in the building work—
+    (iii) in accordance with the relevant building consent (if any):
+  (b) that all building products to be supplied for use in the building work—
     (i) will be suitable for the purpose for which they will be used; and
     (ii) unless otherwise stated in the contract, will be new:
   (c) that the building work will be carried out in accordance with, and will comply with, all laws and legal requirements, including, without limitation, this Act and the regulations:
@@ -5488,7 +6325,7 @@ Nothing in this Part limits or derogates from the provisions of the Fair Trading
     (i) be carried out with reasonable care and skill; and
     (ii) be completed by the date (or within the period) specified in the contract or, if no date or period is specified, within a reasonable time:
   (e) that the household unit, if it is to be occupied on completion of building work, will be suitable for occupation on completion of that building work:
-  (f) if the contract states the particular purpose for which the building work is required, or the result that the owner wishes the building work to achieve, so as to show that the owner relies on the skill and judgement of the other party to the contract, that the building work and any materials used in carrying out the building work will—
+  (f) if the contract states the particular purpose for which the building work is required, or the result that the owner wishes the building work to achieve, so as to show that the owner relies on the skill and judgement of the other party to the contract, that the building work and any building products used in carrying out the building work will—
     (i) be reasonably fit for that purpose; or
     (ii) be of such a nature and quality that they might reasonably be expected to achieve that result.
 (2) Subsection (1) has effect despite any provision to the contrary in any contract or agreement, and despite any provision of any other enactment or rule of law.
@@ -5515,7 +6352,7 @@ A provision of an agreement or instrument that purports to restrict or remove th
 
 ### 362M Remedies if breach of warranty can be remedied
 (1) This section applies in any case where the breach of warranty can be remedied.
-(2) If this section applies, the client may require the building contractor to remedy the breach (including repairing or replacing defective materials supplied by the building contractor or the building contractor's subcontractor).
+(2) If this section applies, the client may require the building contractor to remedy the breach (including repairing or replacing defective building products supplied by the building contractor or the building contractor's subcontractor).
 (3) If the building contractor, after being required to remedy the breach, refuses or neglects to do so, or does not succeed in doing so within a reasonable time, the client may—
   (a) have the breach remedied by someone else and recover from the building contractor all reasonable costs incurred in having the breach remedied; or
   (b) cancel the contract in accordance with section 362P.
@@ -5553,7 +6390,7 @@ For the purposes of section 362N, a breach of warranty is substantial if—
   (c) the defect is able to be remedied; and
   (d) the building work is carried out by or on behalf of a building contractor or the household unit is purchased from an on-seller (as defined in section 362H(3)).
 (2) In any case to which this section applies, the client may give notice, within 12 months from completion of the building work, to either the building contractor or the on-seller (if there is one) requiring that person to remedy the defect.
-(3) In any case to which this section applies, the building contractor or the on-seller, as the case may be, to whom notice has been given in accordance with subsection (2) must remedy the defect (including repairing or replacing defective materials used in the building work) within a reasonable time of notification in writing of the defect.
+(3) In any case to which this section applies, the building contractor or the on-seller, as the case may be, to whom notice has been given in accordance with subsection (2) must remedy the defect (including repairing or replacing defective building products used in the building work) within a reasonable time of notification in writing of the defect.
 (4) In any case in which it is asserted against a building contractor or an on-seller that this section applies, the matters referred to in subsection (1) are presumed unless the contrary is proven.
 (5) In addition to the remedy in subsection (3), the client may obtain from the building contractor or the on-seller damages for any loss or damage to the client resulting from the defect (other than loss or damage through reduction in value of the product of the building work) that was reasonably foreseeable as liable to result from the defect.
 (6) Nothing in this section affects the warranties set out in section 362I or limits the time for enforcing any of those warranties.
@@ -5595,7 +6432,7 @@ For the purposes of section 362N, a breach of warranty is substantial if—
 (1) This section applies where a building contractor has carried out building work under a residential building contract.
 (2) As soon as practicable after completion of the building work, the building contractor must provide in writing the information and documentation prescribed by regulations made under this Act to the following persons:
   (a) the client; and
-  (b) the relevant territorial authority.
+  (b) the relevant territorial authority (if any).
 (3) The regulations referred to in subsection (2) may prescribe different information and documentation to be provided to the client and the relevant territorial authority.
 (4) A person who contravenes subsection (2) commits an infringement offence and is liable to a fine not exceeding $2,000.
 
@@ -5629,6 +6466,94 @@ The purpose of regulations prescribing information and documentation under secti
     (i) the heading to this section is amended by omitting code compliance certificate and substituting consent completion certificate; and
     (ii) subsections (1) and (2) are amended by omitting code compliance certificate and substituting consent completion certificate; and
   (b) second, this subsection is repealed.
+
+## Part 4B — Building product information requirements
+
+### 362VA Building product information requirements may be prescribed
+(1) Regulations may be made under section 402(1)﻿(xg) prescribing information requirements for a building product.
+(2) The information requirements for a building product may specify—
+  (a) what information must be disclosed in relation to the building product; and
+  (b) who must disclose the information and to whom; and
+  (c) when the information must be disclosed.
+(3) Without limiting subsection (2)﻿(a), the information to be disclosed may include information relating to—
+  (a) the building product:
+  (b) the manufacturer, supplier, or other person connected with the supply of the building product:
+  (c) the installation, use, maintenance, or disposal of the building product:
+  (d) any warnings, bans, or other restrictions in force in relation to the building product.
+(4) The information requirements for a building product may also specify any of the following:
+  (a) the form and manner in which information must be disclosed:
+  (b) how information must be obtained or verified before it is disclosed:
+  (c) requirements for reviewing and updating information:
+  (d) requirements for retaining copies of, or keeping records about, information:
+  (e) any other requirements that are necessary or desirable to administer and enforce compliance with the information requirements.
+(5) Regulations prescribing information requirements for building products—
+  (a) may prescribe requirements for a particular building product or a class or classes of building products:
+  (b) may prescribe different requirements for different building products or classes of building products:
+  (c) may prescribe different requirements for different manufacturers, suppliers, or other persons, or classes of such persons:
+  (d) may otherwise make different provision for different cases on any differential basis.
+
+### 362VB Failure to comply with building product information requirements an offence
+(1) This section applies in relation to a building product if information requirements are in force under section 362VA for that product.
+(2) A person must not, in trade, do any of the following with the building product unless the person complies with the information requirements:
+  (a) supply the building product in New Zealand:
+  (b) offer to supply the building product in New Zealand:
+  (c) advertise the supply of the building product in New Zealand:
+  (d) import the product into New Zealand for the purpose of supply.
+(3) A person who fails to comply with subsection (2)—
+  (a) commits an offence; and
+  (b) is liable on conviction,—
+    (i) in the case of an individual, to a fine not exceeding $10,000:
+    (ii) in the case of a body corporate, to a fine not exceeding $30,000.
+
+### 362VC False or misleading representations in relation to building products
+(1) A person must not, in trade, make a relevant representation about a building product that is—
+  (a) unsubstantiated; or
+  (b) false or misleading in a material particular or because of a material omission.
+(2) A relevant representation means a representation relating to a building product that is made in connection with—
+  (a) the supply, or possible supply, of the building product; or
+  (b) the promotion of the supply of the building product.
+(3) A representation is unsubstantiated if, when the representation is made, the person making it does not have reasonable grounds for the representation, irrespective of whether it is false or misleading.
+(4) However, subsection (1)﻿(a) does not apply to a representation that a reasonable person would not expect to be substantiated.
+(5) A person who fails to comply with subsection (1)—
+  (a) commits an offence; and
+  (b) is liable on conviction,—
+    (i) in the case of an individual, to a fine not exceeding $200,000:
+    (ii) in the case of a body corporate, to a fine not exceeding $600,000.
+
+### 362VD Defences for offences against sections 362VB and 362VC
+(1) This section provides defences to a prosecution for an offence against section 362VB(2) or 362VC(1).
+(2) It is a defence if the defendant proves that the failure to comply with section 362VB(2) or 362VC(1) was due to—
+  (a) a reasonable mistake; or
+  (b) reasonable reliance on information supplied to the defendant by another person.
+(3) It is a defence if the defendant proves that—
+  (a) the failure to comply with section 362VB(2) or 362VC(1) was due to—
+    (i) the act or omission of another person; or
+    (ii) an accident or to some other cause beyond the defendant’s control; and
+  (b) the defendant took reasonable precautions and exercised due diligence to avoid the failure.
+(4) In relation to a failure to comply with section 362VB(2)﻿(c) or 362VC(1), it is a defence if the defendant proves that they—
+  (a) are in the business of publishing, or arranging for the publication of, advertisements; and
+  (b) published, or arranged the publication of, the advertisement on behalf of another person in the ordinary course of that business; and
+  (c) did not know, and had no reason to suspect, that the publication of the advertisement would constitute an offence.
+(5) See also section 388 (strict liability and defences).
+
+**Notice to take corrective action**
+
+### 362VE Notice to take corrective action
+(1) The chief executive may give a notice to take corrective action to a person if satisfied that the person has failed to comply with a building product information requirement in force under section 362VA.
+(2) A notice to take corrective action is a notice requiring the person to whom it is given to take any steps specified in the notice to—
+  (a) remedy the non-compliance; or
+  (b) ensure that the non-compliance is not continued or repeated.
+(3) The notice must—
+  (a) be in writing; and
+  (b) specify a reasonable period within which the required steps must be taken.
+
+### 362VF Compliance with notice to take corrective action
+(1) A person who has been given a notice to take corrective action by the chief executive must comply with it within the period specified in it.
+(2) A person who fails to comply with subsection (1)—
+  (a) commits an offence; and
+  (b) is liable on conviction,—
+    (i) in the case of an individual, to a fine not exceeding $10,000:
+    (ii) in the case of a body corporate, to a fine not exceeding $30,000.
 
 ## Part 5 — Miscellaneous provisions
 
@@ -5950,7 +6875,8 @@ Any civil proceedings against a building consent authority in respect of the per
 (1) No civil proceedings may be brought against a building consent authority for anything done or omitted to be done in good faith in reliance on any of the following documents:
   (a) an acceptable solution or a verification method:
   (b) a determination made by the chief executive under subpart 1 of Part 3:
-  (c) a current product certificate issued under subpart 7 of Part 3:
+  (c) a current registered product certificate:
+  (caa) a current manufacturer’s certificate for a modular component:
   (ca) a current national multiple-use approval issued under section 30F (including, in any particular case, any minor customisations permitted by regulations made under section 402(1)﻿(kc)):
   (d) a code compliance certificate issued under section 95:
   (e) a certificate issued under any regulations made under the Electricity Act 1992 or the Gas Act 1992.
@@ -5966,8 +6892,8 @@ Any civil proceedings against a building consent authority in respect of the per
 
 ### 393 Limitation defences
 (1) The Limitation Act 2010 applies to civil proceedings against any person if those proceedings arise from—
-  (a) building work associated with the design, construction, alteration, demolition, or removal of any building; or
-  (b) the performance of a function under this Act or a previous enactment relating to the construction, alteration, demolition, or removal of the building.
+  (a) building work associated with the design, construction, alteration, demolition, or removal of any building or the manufacture of a modular component manufactured by a registered MCM who is certified to manufacture it; or
+  (b) the performance of a function under this Act or a previous enactment relating to the construction, alteration, demolition, or removal of the building or the modular component.
 (2) However, no relief may be granted in respect of civil proceedings relating to building work if those proceedings are brought against a person after 10 years or more from the date of the act or omission on which the proceedings are based.
 (3) For the purposes of subsection (2), the date of the act or omission is,—
   (a) in the case of civil proceedings that are brought against a territorial authority, a building consent authority, a regional authority, or the chief executive in relation to the issue of a building consent or a code compliance certificate under Part 2 or a determination under Part 3, the date of issue of the consent, certificate, or determination, as the case may be; and
@@ -6023,7 +6949,7 @@ Part 10 of Te Ture Whenua Maori Act 1993 applies to the service of notices under
 (1) The Governor-General may, by Order in Council made on the recommendation of the Minister, make regulations that prescribe—
   (a) acceptable solutions or verification methods, or both, that must be used to comply with the building code; and
   (b) the particular circumstances in which those acceptable solutions or verification methods, or both, must be used; and
-  (c) the circumstances in which building methods or products that have a current product certificate issued under section 269 must be used.
+  (c) the circumstances in which building products or building methods that have a current registered product certificate must be used.
 (2) Any regulations made under subsection (1) must state whether those regulations apply to building work for which a building consent has been issued, but for which a code compliance certificate has not been issued.
 (3) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
@@ -6187,10 +7113,10 @@ The chief executive must, within 2 years after the commencement of regulations m
   (a) review the prescribed period of time within which the chief executive must decide whether to issue a national multiple-use approval; and
   (b) prepare for the Minister a report on the findings of that review.
 
-### 403 Consultation requirements for making regulations
+### 403 Consultation requirements for making certain regulations and other Orders in Council
 (1) This section applies to—
-  (a) an Order in Council proposed to be made under section 285; or
-  (b) regulations proposed to be made under section 400 or section 401.
+  (a) an Order in Council proposed to be made under section 9A, 9B, or 285; or
+  (b) regulations proposed to be made under section 400, 401, or 402(1)﻿(xg).
 (2) Before making a recommendation for the making of an Order in Council or regulations under those sections, the Minister must be satisfied that the chief executive has consulted in accordance with subsections (3) and (4).
 (3) The chief executive must—
   (a) do everything reasonably practicable on his or her part to consult with the persons or organisations that appear to the chief executive to be representative of the interests of persons likely to be substantially affected by the making of the relevant Order in Council or regulations; and
@@ -6219,8 +7145,10 @@ Any regulations made under section 402(1)﻿(n) must not come into force earlier
 (4) In this section and in sections 406 to 413, instrument means—
   (a) any regulations; and
   (b) any acceptable solution or verification method; and
-  (c) any Order in Council made under section 41 or 285; and
-  (d) the EPB methodology set under section 133AV.
+  (c) any Order in Council made under section 9A, 9B, 41, or 285; and
+  (d) the EPB methodology set under section 133AV; and
+  (e) product certification scheme rules made under section 272E; and
+  (f) modular component manufacturer certification scheme rules made under section 272ZG.
 
 ### 406 Effect of amendments to, or replacement of, material incorporated by reference
 An amendment to, or replacement of, material incorporated by reference in an instrument has legal effect as part of the instrument only if—
@@ -6609,7 +7537,7 @@ A territorial authority or a regional authority must, by 31 May 2006, apply to b
 ### Part 1 — Provisions relating to Building (Earthquake-prone Buildings) Amendment Act 2016
 
 ### 1 Interpretation
-In this schedule,—
+In this Part,—
   - **amendment Act** means the Building (Earthquake-prone Buildings) Amendment Act 2016
   - **commencement date** means the day on which section 24 of the amendment Act (which inserts subpart 6A of Part 2) comes into force.
 
@@ -6659,6 +7587,64 @@ The fact that provisions added to this Act by the amendment Act refer separately
 (1) The requirements in section 207C(1)﻿(a) and (b) may be satisfied even if the matters to which they relate (the building failure and resulting risk or potential risk) occurred before the commencement date.
 (2) In this clause, commencement date means the date on which section 20 of the Building Amendment Act 2019 comes into force.
 
+### Part 3 — Provisions relating to Legislation Act 2019
+
+### 7 Application of Part
+This Part applies until the main commencement date (as defined in clause 2 of Schedule 1 of the Legislation Act 2019).
+
+### 8 Publication and status of product certification and MCM scheme rules
+(1) This clause applies to—
+  (a) product certification scheme rules; and
+  (b) MCM scheme rules.
+(2) The rules must be—
+  (a) made available on the Ministry’s Internet site (see subclause (3)); and
+  (b) notified in the Gazette together with a statement that the rules are available on the Ministry’s Internet site.
+(3) The chief executive must ensure that the following are publicly available on the Ministry’s Internet site:
+  (a) all product certification scheme rules and MCM scheme rules (including amendments) as they are made; and
+  (b) a consolidated version of each of the product certification scheme rules and MCM scheme rules as in force from time to time.
+(4) The rules are a disallowable instrument, but not a legislative instrument, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
+
+### Part 4 — Provisions relating to Building (Building Products and Methods, Modular Components, and Other Matters) Amendment Act 2021
+
+### 9 Meanings of building product and building method
+(1) An existing reference to a building method or product (as defined in section 20, as in force before the commencement date) is to be read as a reference to a building product (as defined in section 9A) or a building method (as defined in section 9B), as the case requires.
+(2) Subclause (1) applies unless the context otherwise requires.
+(3) In this clause,—
+  - **commencement date** means the date on which section 7 of the Building (Building Products and Methods, Modular Components, and Other Matters) Amendment Act 2021 comes into force
+  - **existing reference** means a reference in regulations or any document made under, or in connection with, this Act that was made before the commencement date.
+
+### 10 Current PCBs have 6 months to become registered
+(1) On and after the commencement date, a current PCB is taken to be a registered PCB.
+(2) If, immediately before the commencement date, the current PCB’s accreditation was suspended, their registration is taken to also be suspended (as if it had been suspended under section 267C(2) when the accreditation was suspended).
+(3) However, subclause (1) ceases to apply to a person on the earlier of the following:
+  (a) the person’s registration under section 267A:
+  (b) the expiry of 6 months from the commencement date:
+  (c) the revocation of the registration under section 267E.
+(4) The chief executive must update the register kept under section 273(1)﻿(d) to show the effect of this clause.
+(5) In this clause,—
+  - **commencement date** means the date on which section 66 of the Building (Building Products and Methods, Modular Components, and Other Matters) Amendment Act 2021 comes into force
+  - **current PCB** means a person who was an accredited product certification body immediately before the commencement date (even if the accreditation was suspended).
+
+### 11 Current product certificates become registered
+(1) On the commencement date, a current certificate becomes a registered product certificate as if it had been registered under section 272A.
+(2) If, immediately before the commencement date, the current certificate was suspended, the registration is taken to also be suspended (as if it had been suspended under section 272B(2) when the certificate was suspended).
+(3) The chief executive must update the register kept under section 273(1)﻿(e) to show the effect of this clause.
+(4) In this clause,—
+  - **commencement date** means the date on which section 67 of the Building (Building Products and Methods, Modular Components, and Other Matters) Amendment Act 2021 comes into force
+  - **current certificate** means a product certificate that was in force immediately before the commencement date (even if it was suspended).
+
+### 12 Product certificates for building designs or building design methods
+(1) If a continued certificate relates to a building design, the certificate provisions apply as if the references in them to a building method included references to a building design.
+(2) If a continued certificate relates to a building design method, the certificate provisions apply as if the references in them—
+  (a) to a building method included references to a building design method; and
+  (b) to the building method complying with the criteria for certification under section 269(1) were references to plans and specifications prepared in accordance with the building design method complying with those criteria.
+(3) In this clause,—
+  - **certificate provisions** means the provisions of this Act relating to product certificates, any regulations relating to product certificates, and any product certification scheme rules made under section 272E(3) to supplement those regulations
+  - **continued certificate** means a current certificate that becomes a registered product certificate under clause 11.
+
+### 13 Time limit for filing charging document
+Section 378, as in force before the commencement of section 91 of the Building (Building Products and Methods, Modular Components, and Other Matters) Amendment Act 2021, continues to apply in relation to offences committed before that commencement.
+
 ## Schedule 1 — Building work for which building consent not required
 
 ### 1AA Interpretation
@@ -6672,14 +7658,14 @@ In this schedule, unless the context otherwise requires,—
 **General**
 
 ### 1 General repair, maintenance, and replacement
-(1) The repair and maintenance of any component or assembly incorporated in or associated with a building, provided that comparable materials are used.
-(2) Replacement of any component or assembly incorporated in or associated with a building, provided that—
-  (a) a comparable component or assembly is used; and
+(1) The repair and maintenance of a building product or an assembly incorporated in or associated with a building, provided that a comparable building product or assembly is used.
+(2) Replacement of a building product or an assembly incorporated in or associated with a building, provided that—
+  (a) a comparable building product or assembly is used; and
   (b) the replacement is in the same position.
 (3) However, subclauses (1) and (2) do not include the following building work:
   (a) complete or substantial replacement of a specified system; or
-  (b) complete or substantial replacement of any component or assembly contributing to the building's structural behaviour or fire-safety properties; or
-  (c) repair or replacement (other than maintenance) of any component or assembly that has failed to satisfy the provisions of the building code for durability, for example, through a failure to comply with the external moisture requirements of the building code; or
+  (b) complete or substantial replacement of a building product or an assembly contributing to the building's structural behaviour or fire-safety properties; or
+  (c) repair or replacement (other than maintenance) of a building product or an assembly incorporated in or associated with a building that has failed to satisfy the provisions of the building code for durability, for example, through a failure to comply with the external moisture requirements of the building code; or
   (d) sanitary plumbing or drainlaying under the Plumbers, Gasfitters, and Drainlayers Act 2006.
 
 ### 2 Territorial and regional authority discretionary exemptions
@@ -6695,11 +7681,11 @@ Any building work in respect of which the territorial authority or regional auth
   (d) does not include sleeping accommodation, unless the building is used in connection with a dwelling and does not contain any cooking facilities.
 (2) However, subclause (1) does not include building work in connection with a building that is closer than the measure of its own height to any residential building or to any legal boundary.
 
-### 3A Single-storey detached buildings exceeding 10, but not exceeding 30, square metres in floor area and constructed of lightweight material
+### 3A Single-storey detached buildings exceeding 10, but not exceeding 30, square metres in floor area and constructed of lightweight building products
 (1) Building work in connection with any detached building that—
   (a) is not more than 1 storey (being a floor level of up to 1 metre above the supporting ground and a height of up to 3.5 metres above the floor level); and
   (b) exceeds 10 square metres in floor area, but does not exceed 30 square metres; and
-  (c) is built using lightweight wall and roof materials, and in accordance with Acceptable Solution B1/AS1 for timber or steel buildings; and
+  (c) is built using lightweight building products for the walls and roof, and in accordance with Acceptable Solution B1/AS1 for timber or steel buildings; and
   (d) does not contain sanitary facilities or facilities for the storage of potable water; and
   (e) does not include sleeping accommodation, unless the building is used in connection with a dwelling and does not contain any cooking facilities; and
   (f) if it includes sleeping accommodation, has smoke alarms installed.
@@ -6770,7 +7756,7 @@ Building work in connection with the interior of any existing non-residential bu
   (b) does not modify or affect any specified system; and
   (c) does not relate to a wall that is—
     (i) a fire separation wall (also known as a firewall); or
-    (ii) made of units of material (such as brick, burnt clay, concrete, or stone) laid to a bond in and joined together with mortar; and
+    (ii) made of units of a building product (such as brick, burnt clay, concrete, or stone) laid to a bond in and joined together with mortar; and
   (d) does not include sanitary plumbing or drainlaying under the Plumbers, Gasfitters, and Drainlayers Act 2006.
 
 ### 11 Internal walls and doorways in existing building
@@ -6779,7 +7765,7 @@ Building work in connection with an internal wall (including an internal doorway
   (b) a bracing element; or
   (c) a fire separation wall (also known as a firewall); or
   (d) part of a specified system; or
-  (e) made of units of material (such as brick, burnt clay, concrete, or stone) laid to a bond in and joined together with mortar.
+  (e) made of units of a building product (such as brick, burnt clay, concrete, or stone) laid to a bond in and joined together with mortar.
 
 ### 12 Internal linings and finishes in existing dwelling
 Building work in connection with any internal linings or finishes of any wall, ceiling, or floor of an existing dwelling.
@@ -6959,13 +7945,13 @@ The removal of a building element from a building that is not more than 3 storey
 **Plumbing and drainage**
 
 ### 32 Repair, maintenance, and replacement
-(1) The repair and maintenance of any sanitary plumbing and drainage in or associated with a building, provided that comparable materials are used.
+(1) The repair and maintenance of any sanitary plumbing and drainage in or associated with a building, provided that comparable building products are used.
 (2) Replacement of sanitary plumbing and drainage in or associated with a building, provided that—
-  (a) a comparable component or assembly is used; and
+  (a) a comparable building product or assembly is used; and
   (b) the replacement is in the same position.
 (3) However, subclauses (1) and (2) do not include the following building work:
   (a) complete or substantial replacement of a specified system; or
-  (b) repair or replacement (other than maintenance) of any component or assembly that has failed to satisfy the provisions of the building code for durability, for example, through a failure to comply with the external moisture requirements of the building code; or
+  (b) repair or replacement (other than maintenance) of any building product or assembly that has failed to satisfy the provisions of the building code for durability, for example, through a failure to comply with the external moisture requirements of the building code; or
   (c) repair or replacement of any water heater (unless permitted under clauses 36 to 38).
 
 ### 33 Drainage access points
@@ -6984,7 +7970,7 @@ The opening and reinstatement of any purpose-made access point within a drainage
 **Water heaters**
 
 ### 36 Repair and maintenance of existing water heater
-The repair or maintenance of any existing water heater using comparable materials, comparable components, or a comparable assembly.
+The repair or maintenance of any existing water heater using comparable building products or a comparable assembly.
 
 ### 37 Replacement of open-vented water storage heater connected to supplementary heat exchanger
 The replacement of any water-storage heater connected to a solid-fuel heater or other supplementary heat exchanger if the replacement—
