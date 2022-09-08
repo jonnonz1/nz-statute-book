@@ -1,5 +1,5 @@
 # Public Service Act 2020
-_Consolidation as at 2022-07-29_
+_Consolidation as at 2022-09-08_
 
 ### 1 Title
 This Act is the Public Service Act 2020.
@@ -1212,6 +1212,10 @@ The amendments to the State Sector (Ministry for Primary Industries) Order 2012 
 |  |  | Ministry of Social Development |  |
 |  |  | Ministry of Transport |  |
 |  |  | The Treasury |  |
+| Digital Executive Board |  | Department of Internal Affairs | Department of Internal Affairs |
+|  |  | Department of the Prime Minister and Cabinet |  |
+|  |  | Ministry of Business, Innovation, and Employment |  |
+|  |  | Statistics New Zealand |  |
 | Executive Board for the Elimination of Family Violence and Sexual Violence |  | Department of Corrections | Ministry of Justice |
 |  | Ministry of Education |  |  |
 |  | Ministry of Health |  |  |
