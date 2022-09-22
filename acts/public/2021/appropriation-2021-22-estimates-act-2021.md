@@ -1,5 +1,5 @@
 # Appropriation (2021/22 Estimates) Act 2021
-_Consolidation as at 2021-09-13_
+_Consolidation as at 2022-09-22_
 
 ### 1 Title
 This Act is the Appropriation (2021/22 Estimates) Act 2021.
