@@ -1,5 +1,5 @@
 # Nga Wai o Maniapoto (Waipa River) Act 2012
-_Consolidation as at 2022-04-12_
+_Consolidation as at 2022-09-28_
 
 ## Preamble
 Ā muri kia mau ki te kawau mārō. Whanake ake, whanake ake
@@ -61,7 +61,7 @@ This Act comes into force on the day after the date on which it receives the Roy
 ### 3 Overarching purpose of this Act
 (1) The overarching purpose of this Act is to restore and maintain the quality and integrity of the waters that flow into and form part of the Waipa River for present and future generations and the care and protection of the mana tuku iho o Waiwaia.
 (2) In subsection (1),—
-  (a) the phrase the waters that flow into and form part of the Waipa River refers to the connected and flowing body of water that comprises the Waipa River together with all its associated waters and water columns, including those flowing through its floodplains and the Maniapoto karst, streams, waterways, tributaries, springs, geothermal springs, watercourses, and lakes but does not include any unconnected waters or artificial watercourse such as an irrigation canal, water supply race, canal for the supply of water for electricity power generation, or farm drainage canal; and
+  (a) the phrase the waters that flow into and form part of the Waipa River refers to the connected and flowing body of water that comprises the Waipa River together with all its associated waters and water columns, including those flowing through its floodplains and the Maniapoto karst, streams, waterways, tributaries, springs, geothermal springs, watercourses, and lakes; and
   (b) the reference to the mana tuku iho o Waiwaia means the ancestral authority and prestige handed down from generation to generation in respect of Waiwaia, as described in the statements of significance set out in part 2 of the deed; and
   (c) Waiwaia refers to the essence and wellbeing of the Waipa River; to Maniapoto, Waiwaia is the personification of the waters of the Waipa River, its ancient and enduring spiritual guardians.
 
