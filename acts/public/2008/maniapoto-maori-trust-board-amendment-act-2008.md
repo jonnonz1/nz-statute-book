@@ -1,5 +1,5 @@
 # Maniapoto Maori Trust Board Amendment Act 2008
-_Consolidation as at 2008-05-22_
+_Consolidation as at 2022-09-28_
 
 ### 1 Title
 This Act is the Maniapoto Maori Trust Board Amendment Act 2008.
