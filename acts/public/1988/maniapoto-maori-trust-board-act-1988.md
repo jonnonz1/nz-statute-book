@@ -1,5 +1,5 @@
 # Maniapoto Maori Trust Board Act 1988
-_Consolidation as at 2011-09-16_
+_Consolidation as at 2022-09-28_
 
 > An Act to establish the Maniapoto Maori Trust Board
 
