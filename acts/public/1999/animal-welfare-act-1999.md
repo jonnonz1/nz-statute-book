@@ -1,5 +1,5 @@
 # Animal Welfare Act 1999
-_Consolidation as at 2022-04-12_
+_Consolidation as at 2022-10-01_
 
 > An Act—ato reform the law relating to the welfare of animals and the prevention of their ill-treatment; and, in particular,—(i)to recognise that animals are sentient:(ia)to require owners of animals, and persons in charge of animals, to attend properly to the welfare of those animals:iito specify conduct that is or is not permissible in relation to any animal or class of animals:iiito provide a process for approving the use of animals in research, testing, and teaching:ivto establish a National Animal Welfare Advisory Committee and a National Animal Ethics Advisory Committee:vto provide for the development and issue of codes of welfare and the approval of codes of ethical conduct:bto repeal the Animals Protection Act 1960
 
@@ -240,8 +240,8 @@ In this Act, unless the context otherwise requires, the term physical, health, a
   (b) is, by virtue of any other Act, the owner of any other animal (being an animal in a wild state); or
   (c) has, under any other Act, the responsibility of administering and managing an animal (being an animal in a wild state),—
 
-### 8A Transitional and savings provisions relating to amendments to Act
-The transitional and savings provisions set out in Schedule 4, which relate to amendments made to this Act by the Animal Welfare Amendment Act (No 2) 2015, have effect for the purposes of this Act.
+### 8A Transitional, savings, and related provisions
+The transitional, savings, and related provisions set out in Schedule 4 have effect according to their terms.
 
 ## Part 1 — Care of animals
 
@@ -575,20 +575,25 @@ The purpose of this Part is to protect the welfare of animals being exported fro
 ### 39 Effect of this Part
 The provisions of this Part do not limit the other provisions of this Act.
 
-### 40 Animal welfare export certificate
+### 40 Animal export requires animal welfare export certificate
 (1) A person commits an offence who exports an animal from New Zealand to another country on a ship or aircraft other than under the authority, and in accordance with the conditions, of an animal welfare export certificate.
 (2) Nothing in subsection (1) applies if the exportation of the animal—
   (a) is exempted from the requirements of that subsection by a notice published under section 48(1); or
   (b) is being effected under the authority of a permit, certificate, or other authorisation issued under the Conservation Act 1987 or any Act listed in Schedule 1 of that Act.
+(2A) However, the exception in subsection (2) does not apply to the exportation of cattle, deer, goats, or sheep by ship if the animals would leave New Zealand on or after 30 April 2023.
 (3) A person who commits an offence against subsection (1) is liable on conviction,—
   (a) in the case of an individual, to imprisonment for a term not exceeding 6 months or to a fine not exceeding $25,000 or to both; or
   (b) in the case of a body corporate, to a fine not exceeding $125,000.
+
+### 41 Animal welfare export certificate must not be issued for certain animals
+(1) A person must not apply for, and the Director-General must not issue, an animal welfare export certificate for the export of cattle, deer, goats, or sheep by ship.
+(2) However, subsection (1) applies only if the intended date for the cattle, deer, goats, or sheep to leave New Zealand is on or after 30 April 2023.
 
 ### 41 Guidelines for issue of animal welfare export certificates
 [Repealed]
 
 ### 42 Application for animal welfare export certificate
-(1) Any person may apply to the Director-General for the issue of an animal welfare export certificate.
+(1) Any person may apply to the Director-General for the issue of an animal welfare export certificate, unless restricted by section 41.
 (2) The application must—
   (a) be made on a form provided by the Director-General for the purpose; and
   (b) contain, or be accompanied by, such information as the Director-General requires; and
@@ -667,6 +672,7 @@ The provisions of this Part do not limit the other provisions of this Act.
   (a) exempt certain species or types of animals from the requirements of section 40(1); or
   (b) specify the circumstances in which any animals are to be exempted from the requirements of section 40(1); or
   (c) exercise both his or her power under paragraph (a) and his or her power under paragraph (b),—
+(1A) However, the Director-General must not exempt the export of cattle, deer, goats, or sheep by ship if the animals would leave New Zealand on or after 30 April 2023.
 (2) A notice under subsection (1) may—
   (a) restrict the exemption to particular modes of transport or to particular destinations; and
   (b) impose conditions that must be complied with.
@@ -2510,10 +2516,12 @@ The Director-General may, if he or she thinks fit, and on payment of the prescri
 
 ## Schedule 3 — Agencies authorised to use animals in protecting human health or safety or enforcing the law
 
-## Schedule 4 — Codes continued in force as codes of welfare issued under this Act
+## Schedule 4 — Transitional, savings, and related provisions
+
+### Part 1 — Provisions relating to Animal Welfare Amendment Act (No 2) 2015
 
 ### 1 Interpretation
-In this schedule, amendment Act means the Animal Welfare Amendment Act (No 2) 2015.
+In this Part, amendment Act means the Animal Welfare Amendment Act (No 2) 2015.
 
 ### 2 Codes of welfare
 (1) Every code of welfare in force at the commencement of this schedule continues in force and, after that commencement, may be amended, reviewed, revoked, or replaced under this Act.
@@ -2530,6 +2538,31 @@ In this schedule, amendment Act means the Animal Welfare Amendment Act (No 2) 20
 (1) This clause applies to persons who, immediately before the commencement of section 56 of the Animal Welfare Amendment Act (No 2) 2015, hold an appointment under this Act as an inspector.
 (2) The terms of appointment of inspectors to whom this clause applies may be amended to specifically authorise them to issue any person with an infringement notice under this Act for breach of a compliance notice.
 (3) An inspector to whom this clause applies may not issue an infringement notice for breach of a compliance notice unless the terms of his or her appointment have been amended to authorise him or her to issue such infringement notices.
+
+### Part 2 — Provisions relating to Animal Welfare Amendment Act 2022
+
+### 5 Animal welfare export certificates issued before 30 April 2023
+(1) This clause applies to an animal welfare export certificate that—
+  (a) authorises the export of cattle, deer, goats, or sheep by ship; and
+  (b) is issued before 30 April 2023.
+(2) The animal welfare export certificate is revoked on 30 April 2023 to the extent that it—
+  (a) authorises the export of cattle, deer, goats, or sheep by ship; and
+  (b) relates to an export by a ship that starts its voyage from a New Zealand port on or after 30 April 2023.
+
+### 6 Applications for animal welfare export certificates made before 30 April 2023
+(1) This clause applies to an application for an animal welfare export certificate that—
+  (a) relates to the export of cattle, deer, goats, or sheep by ship; and
+  (b) is made before 30 April 2023.
+(2) If the Director-General does not decide whether to grant or refuse the application before 30 April 2023, the application must be treated as withdrawn to the extent that it relates to the export of cattle, deer, goats, or sheep by ship.
+(3) If the Director-General grants the application but does not issue or refuse to issue the animal welfare export certificate before 30 April 2023, the Director-General must be treated as refusing to issue the certificate to the extent that it relates to the export of cattle, deer, goats, or sheep by ship.
+
+### 7 Other instruments published or issued before 30 April 2023
+(1) This clause applies to any instrument referred to in section 40(2) that—
+  (a) applies to the export of cattle, deer, goats, or sheep by ship; and
+  (b) is published or issued before 30 April 2023.
+(2) The instrument ceases to have effect for the purpose of section 40(2) (that is, as an exception to the offence created by section 40(1)) to the extent that the instrument—
+  (a) applies to the export of cattle, deer, goats, or sheep by ship; and
+  (b) relates to an export by a ship that starts its voyage from a New Zealand port on or after 30 April 2023.
 
 ## Schedule 5 — Enactments amended
 
