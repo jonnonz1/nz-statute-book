@@ -1,5 +1,5 @@
 # Accident Compensation Act 2001
-_Consolidation as at 2022-09-01_
+_Consolidation as at 2022-10-01_
 
 ### 1 Title
 This Act is the Accident Compensation Act 2001.
@@ -554,13 +554,15 @@ This Part uses and defines the following key terms:
   (d) the absorption of any chemical through the skin within a defined period of time not exceeding 1 month:
   (e) any exposure to the elements, or to extremes of temperature or environment, within a defined period of time not exceeding 1 month, that,—
     (i) for a continuous period exceeding 1 month, results in any restriction or lack of ability that prevents the person from performing an activity in the manner or within the range considered normal for the person; or
-    (ii) causes death.
+    (ii) causes death:
+  (f) an application of a force or resistance internal to the human body at any time from the onset of labour to the completion of delivery that results in an injury described in Schedule 3A to a person who gives birth.
 (2) However, accident does not include—
   (a) any of those kinds of occurrences if the occurrence is treatment given,—
     (i) in New Zealand, by or at the direction of a registered health professional; or
     (ii) outside New Zealand, by or at the direction of a person who has qualifications that are the same as or equivalent to those of a registered health professional; or
   (b) any ecto-parasitic infestation (such as scabies), unless it is work-related; or
   (c) the contraction of any disease carried by an arthropod as an active vector (such as malaria that results from a mosquito bite), unless it is work-related.
+(2A) Subsection (2)﻿(a) does not apply to an accident of the kind described in subsection (1)﻿(f).
 (3) The fact that a person has suffered a personal injury is not of itself to be construed as an indication or presumption that it was caused by an accident.
 
 ### 26 Personal injury
@@ -5511,6 +5513,22 @@ For the purposes of this Part, any child of the claimant who is born within 12 m
 | 201 | Infecting with disease |
 | 204A | Female genital mutilation |
 | 204B | Further offences relating to female genital mutilation |
+
+## Schedule 3A — Maternal birth injuries
+
+| Birth injuries |
+| --- |
+| Anterior wall prolapse, posterior wall prolapse, or uterine prolapse |
+| Coccyx fracture or dislocation |
+| Levator avulsion |
+| Obstetric anal sphincter injury tears or tears to the perineum, labia, vagina, vulva, clitoris, cervix, rectum, anus, or urethra |
+| Obstetric fistula (including vesicovaginal, colovaginal, and ureterovaginal) |
+| Obstetric haematoma of pelvis |
+| Post-partum uterine inversion |
+| Pubic ramus fracture |
+| Pudendal neuropathy |
+| Ruptured uterus during labour |
+| Symphysis pubis capsule or ligament tear |
 
 ## Schedule 4 — Deductions on account of earner levies
 
