@@ -1,5 +1,5 @@
 # Commerce Act 1986
-_Consolidation as at 2022-09-01_
+_Consolidation as at 2022-10-05_
 
 > Title
 
@@ -3495,6 +3495,26 @@ In this Part, unless the context otherwise requires,—
 ### 15 Transitional arrangements for voluntary removal of grocery-related covenant initiated before repeal of section 28B
 (1) This clause applies to a revocation or modification that is initiated under section 28B before the date specified in section 28B(5) (the repeal date).
 (2) Section 28B, as it was immediately before the repeal date, continues to apply in relation to that revocation or modification on and after the repeal date.
+
+### Part 5 — Provisions relating to Commerce Amendment Act 2022
+
+### 16 Interpretation
+(1) In this Part,—
+  - **1-year transitional period** means the period that starts on the commencement date and ends at the close of the first anniversary of the commencement date
+  - **Amendment Act** means the Commerce Amendment Act 2022
+  - **commencement date** means the first anniversary of Royal assent for the Amendment Act.
+(2) In this Part,—
+  (a) a reference to a section or Part (for example, section 36) is a reference to that section as in force on and from the commencement date; and
+  (b) a reference to a former section or Part (for example, former Part 2) is a reference to that section or Part as in force immediately before the commencement date.
+
+### 17 Authorisation under new section 58(6A) to (6D) may be granted before that section comes into force
+(1) This clause applies—
+  (a) before the commencement date; but
+  (b) as if sections 30, 36, 36A, 58(6A) to (6D), 58B, 59, 59A, and 61 were in force.
+(2) A person may apply to the Commission under section 58(6A) to (6D) for an authorisation.
+(3) The Commission may grant the authorisation.
+(4) Sections 58B, 59, 59A, and 61 apply in relation to an application made under this clause.
+(5) An authorisation granted under this clause may only take effect on or after the commencement date.
 
 ## Schedule 1 — Classes of merger or takeover proposals requiring prior clearance or authorisation by the Commission
 
