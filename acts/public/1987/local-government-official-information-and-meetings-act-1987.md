@@ -1,5 +1,5 @@
 # Local Government Official Information and Meetings Act 1987
-_Consolidation as at 2022-04-12_
+_Consolidation as at 2022-10-20_
 
 > An Act to make official information held by local authorities more freely available, to provide for proper access by each person to official information relating to that person which is held by local authorities, to provide for the admission of the public to meetings of local authorities, to protect official information held by local authorities and the deliberations of local authorities to the extent consistent with the public interest and the preservation of personal privacy, and to establish procedures for the achievement of those purposes
 
@@ -572,21 +572,13 @@ The only provisions of this Part that apply to the following local authorities a
 (10) Where agendas and associated reports are for meetings of community boards, it shall be sufficient for the purposes of this section that they be available for public viewing at the main office of the local authority and those service delivery centres and public libraries, if any, under the control of the local authority situated within the community.
 
 ### 46B Modifications to section 46A while epidemic notice in force for COVID-19
-(1) Despite section 46A(2), (3), and (10), an agenda and any associated report referred to in that section may be made available free of charge on the local authority’s Internet site (instead of at the locations referred to in that section).
-(2) A member of the public may still request a copy of the agenda or report in accordance with section 46A(5) (and that copy must be provided by post).
-(3) This section is repealed when the Epidemic Preparedness (COVID-19) Notice 2020 expires or is revoked.
+[Repealed]
 
 ### 47 Admission of public to meetings of local authorities
 Except as otherwise provided by this Part, every meeting of a local authority shall be open to the public.
 
 ### 47A Modifications to section 47 while epidemic notice in force for COVID-19
-(1) For the purposes of section 47, open to the public means that the local authority,—
-  (a) if it is reasonably practicable, enables access to the meeting by broadcasting live the audio or video of the meeting (for example, by broadcasting it on an Internet site); and
-  (b) does 1 or both of the following as soon as practicable after the meeting ends:
-    (i) makes an audio or a video recording of the meeting available on its Internet site:
-    (ii) makes a written summary of the business of the meeting available on its Internet site.
-(2) The local authority must provide the live broadcast, and make the recording or summary available, free of charge.
-(3) This section is repealed when the Epidemic Preparedness (COVID-19) Notice 2020 expires or is revoked.
+[Repealed]
 
 ### 48 Right of local authorities to exclude public
 (1) Subject to subsection (3), a local authority may by resolution exclude the public from the whole or any part of the proceedings of any meeting only on 1 or more of the following grounds:
@@ -635,9 +627,7 @@ Where a meeting of a local authority is required by this Part to be open to the 
   (b) where the local authority concerned is named or specified in Schedule 2, be deemed to be a request for access to official information made under the Official Information Act 1982,—
 
 ### 51AA Modifications to section 51 while epidemic notice in force for COVID-19
-(1) Despite section 51(1), meeting minutes referred to in that section may be made available free of charge on the local authority’s Internet site (instead of at the local authority’s office).
-(2) A member of the public may still request a copy of the minutes in accordance with section 51(2) (and, subject to section 51(3), that copy must be provided by post).
-(3) This section is repealed when the Epidemic Preparedness (COVID-19) Notice 2020 expires or is revoked.
+[Repealed]
 
 ### 51A Public notification of resolution at extraordinary meeting
 (1) A local authority must, as soon as practicable, publicly notify any resolution passed at an extraordinary meeting of the local authority unless—
