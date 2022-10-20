@@ -1,5 +1,5 @@
 # Fire and Emergency New Zealand Act 2017
-_Consolidation as at 2022-04-12_
+_Consolidation as at 2022-10-20_
 
 ### 1 Title
 This Act is the Fire and Emergency New Zealand Act 2017.
@@ -686,8 +686,8 @@ The authorised person may, instead of acting personally, direct any personnel to
 (2) The circumstance referred to in subsection (1) is that FENZ considers that—
   (a) fire risk conditions exist or are likely to exist in the area; and
   (b) the prohibition or restriction is necessary or desirable for fire control.
-(2A) At any time while the Epidemic Preparedness (COVID-19) Notice 2020 is in force, FENZ may also prohibit the lighting of fires in open air in any area without needing to consider the matters in section 52(2).
-(2B) This subsection and subsection (2A) are repealed when the Epidemic Preparedness (COVID-19) Notice 2020 expires or is revoked.
+(2A)
+(2B)
 (3) FENZ may not prohibit a person who resides or works in an area from accessing the area.
 (4) This section and sections 53, 54, and 55 do not apply to any person carrying out essential services in the area to which a prohibition or restriction under this section applies.
 (5) FENZ may—
