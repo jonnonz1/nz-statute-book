@@ -1,5 +1,5 @@
 # Mental Health (Compulsory Assessment and Treatment) Act 1992
-_Consolidation as at 2022-07-01_
+_Consolidation as at 2022-10-20_
 
 > An Act to redefine the circumstances in which and the conditions under which persons may be subjected to compulsory psychiatric assessment and treatment, to define the rights of such persons and to provide better protection for those rights, and generally to reform and consolidate the law relating to the assessment and treatment of persons suffering from mental disorder
 
@@ -1273,16 +1273,7 @@ Wherever practicable, for the purposes of a review by a Review Tribunal of the c
 (3) The district inspector or the official visitor may sign any such registers, records, and books under the last entry.
 
 ### 97A Visitations by remote technology permitted while epidemic notice in force for COVID-19
-(1) A district inspector or an official visitor may make a visit required by section 96 using remote technology, if the district inspector or official visitor considers that it is not practicable to make the visit in person.
-(2) If a district inspector or an official visitor makes a visit required by section 96 using remote technology,—
-  (a) the hospital or service must provide them with the means to—
-    (i) visually inspect all areas of the hospital or service; and
-    (ii) communicate with every person in the hospital or service, whether detained or not; and
-  (b) any information required to be provided under section 97(2) may be provided by electronic means.
-(3) In this section, remote technology means technology that enables a person to—
-  (a) view a place at which they are not physically present; and
-  (b) communicate with a person at that place.
-(4) This section is repealed when the Epidemic Preparedness (COVID-19) Notice 2020 expires or is revoked.
+[Repealed]
 
 ### 98 Reports on visits
 A district inspector or an official visitor who visits any hospital or service must give a report on the visit to the Director of Area Mental Health Services within 14 days after the visit.
