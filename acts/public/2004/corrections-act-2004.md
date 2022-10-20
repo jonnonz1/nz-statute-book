@@ -1,5 +1,5 @@
 # Corrections Act 2004
-_Consolidation as at 2021-10-28_
+_Consolidation as at 2022-10-20_
 
 ### 1 Title
 This Act is the Corrections Act 2004.
@@ -2067,13 +2067,7 @@ Every prisoner or person on temporary release from custody under section 62 who 
 Any hearing or application under any of sections 133 to 138 may be conducted or, as the case requires, determined with all or any of the interested persons participating by way of video link, rather than by being present in person.
 
 ### 139A Mode of hearing or reaching decisions
-(1) This section applies instead of section 139, while the Epidemic Preparedness (COVID-19) Notice 2020 is in force.
-(2) Any hearing or application under any of sections 133 to 138 may be conducted or, as the case requires, determined with all or any of the interested persons participating in one of the following ways, rather than by being present in person:
-  (a) by video link; or
-  (b) if it is not reasonably practicable for the participant to attend in person and video link is unavailable or unable to be used, by audio link unless the hearing adjudicator or Visiting Justice considers that it is contrary to the interests of justice to use audio link.
-(3) To avoid doubt, a motion to determine whether the use of audio link is contrary to the interests of justice may be made by the participant or the hearing adjudicator or Visiting Justice (as the case may be).
-(4) In this section, audio link, in relation to an interested person’s appearance at any proceeding, means facilities that enable audio communication between the interested persons when some or all of them are not physically present at the place of hearing for all or part of the proceeding.
-(5) This section is repealed on the date on which the Epidemic Preparedness (COVID-19) Notice 2020 expires or is revoked.
+[Repealed]
 
 ### 140 Commencement of penalties
 (1) A penalty imposed under section 133 or section 137—
