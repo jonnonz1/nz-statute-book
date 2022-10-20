@@ -1,5 +1,5 @@
 # Courts (Remote Participation) Act 2010
-_Consolidation as at 2021-10-28_
+_Consolidation as at 2022-10-20_
 
 ### 1 Title
 This Act is the Courts (Remote Participation) Act 2010.
@@ -78,11 +78,7 @@ A judicial officer or Registrar must also consider, when he or she is required t
   (b) take into account whether or not the parties consent to the use of AVL for the appearance of the participant.
 
 ### 7A Use of audio links in civil proceedings
-(1) In any circumstances in which a judicial officer or a Registrar would otherwise have determined under section 7 that AVL be used for the appearance of a participant in a civil proceeding, the judicial officer or Registrar may determine that AL be used instead of AVL if—
-  (a) the judicial officer or Registrar considers the criteria set out in section 5 (which applies as if the reference to AVL were a reference to AL) in deciding whether the use of AL is appropriate in the circumstances; and
-  (b) the judicial officer or Registrar determines that it is not contrary to the interests of justice to use AL instead of AVL.
-(2) For the purposes of this section and section 8A, audio link or AL, in relation to a participant’s appearance at any proceeding, means facilities that enable audio communication between participants when some or all of them are not physically present at the place of hearing for all or part of the proceeding.
-(3) This section is repealed when the Epidemic Preparedness (COVID-19) Notice 2020 expires or is revoked.
+[Repealed]
 
 ### 8 Use of audio-visual links in criminal procedural or sentencing matters
 (1) AVL must be used for the appearance of a participant in a criminal procedural matter if AVL is available and the participant is in custody, unless a judicial officer or a Registrar determines that the use of AVL is contrary to the interests of justice.
@@ -97,12 +93,7 @@ A judicial officer or Registrar must also consider, when he or she is required t
 (4) To avoid doubt, a motion to determine whether AVL is contrary to the interests of justice may be made by the participant or the judicial officer or Registrar (as the case may be).
 
 ### 8A Use of audio links in criminal procedural matters
-(1) In any circumstances in which AVL must or may be used in accordance with section 8 for the appearance of a participant in a criminal procedural matter, the judicial officer or Registrar may determine that AL be used instead of AVL if—
-  (a) the judicial officer or Registrar considers the criteria set out in sections 5 and 6 (which apply as if the reference to AVL were a reference to AL) in deciding whether the use of AL is appropriate in the circumstances; and
-  (b) the defendant is not required to attend the hearing; and
-  (c) the judicial officer or Registrar determines that it is not contrary to the interests of justice to use AL instead of AVL.
-(2) To avoid doubt, a motion to determine whether AL is contrary to the interests of justice may be made by the participant or the judicial officer or Registrar (as the case may be).
-(3) This section is repealed when the Epidemic Preparedness (COVID-19) Notice 2020 expires or is revoked.
+[Repealed]
 
 ### 9 Use of audio-visual links in criminal substantive matters
 (1) AVL must not be used in any criminal substantive matter for the appearance of a participant unless a judicial officer determines to allow its use for the appearance of that participant in the proceeding—
