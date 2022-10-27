@@ -1,5 +1,5 @@
 # Companies Act 1993
-_Consolidation as at 2022-09-01_
+_Consolidation as at 2022-10-27_
 
 > An Act to reform the law relating to companies, and, in particular,—ato reaffirm the value of the company as a means of achieving economic and social benefits through the aggregation of capital for productive purposes, the spreading of economic risk, and the taking of business risks; andbto provide basic and adaptable requirements for the incorporation, organisation, and operation of companies; andcto define the relationships between companies and their directors, shareholders, and creditors; anddto encourage efficient and responsible management of companies by allowing directors a wide discretion in matters of business judgment while at the same time providing protection for shareholders and creditors against the abuse of management power; andeto provide straightforward and fair procedures for realising and distributing the assets of insolvent companies
 
@@ -2636,6 +2636,7 @@ The Registrar must pay all infringement fees received into a Crown Bank Account.
     (ii) the classes of business in which the company has an interest, whether as a shareholder of another company or otherwise; and
   (b) include any financial statements or group financial statements for the accounting period that are required to be prepared under Part 11, Part 7 of the Financial Markets Conduct Act 2013, or any other enactment (if any); and
   (c) if an auditor's report is required under Part 11, Part 7 of the Financial Markets Conduct Act 2013, or any other enactment in relation to the financial statements or group financial statements included in the report, include that auditor's report; and
+  (ca) if the company is required to prepare climate statements or group climate statements under section 461Z or 461ZA of the Financial Markets Conduct Act 2013 for the accounting period, include the matters required by section 461ZJ(2) of that Act; and
   (d)
   (e) state particulars of entries in the interests register made during the accounting period; and
   (f) state, in respect of each director or former director of the company, the total of the remuneration and the value of other benefits received by that director or former director from the company during the accounting period; and
