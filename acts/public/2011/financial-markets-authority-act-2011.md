@@ -1,5 +1,5 @@
 # Financial Markets Authority Act 2011
-_Consolidation as at 2022-07-01_
+_Consolidation as at 2022-10-27_
 
 ### 1 Title
 This Act is the Financial Markets Authority Act 2011.
@@ -37,6 +37,7 @@ The purpose of this Act is to—
       (iiia) a listed issuer (within the meaning of section 6(1) of the Financial Markets Conduct Act 2013):
       (iiib) an operator of an FMI within the meaning of section 5 of the Financial Market Infrastructures Act 2021 (other than a pure payment system within the meaning of section 10(2) of that Act):
       (iv) an FMC reporting entity (within the meaning of section 451 of the Financial Markets Conduct Act 2013); and
+      (v) a climate reporting entity (within the meaning of section 461O of the Financial Markets Conduct Act 2013); and
     (c) also includes any of the following:
       (i) a body corporate that is related to a person referred to in paragraph (a) or (b) (within the meaning of section 12(2) of the Financial Markets Conduct Act 2013); or
       (ii) a director or senior manager of a person referred to in paragraph (a) or (b) (within the meaning of those terms in section 4 of the Financial Service Providers (Registration and Dispute Resolution) Act 2008 but applied even if the person referred to in those paragraphs is not a financial service provider); or
