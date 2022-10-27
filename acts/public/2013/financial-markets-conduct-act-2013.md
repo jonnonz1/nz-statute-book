@@ -1,5 +1,5 @@
 # Financial Markets Conduct Act 2013
-_Consolidation as at 2022-07-01_
+_Consolidation as at 2022-10-27_
 
 ### 1 Title
 This Act is the Financial Markets Conduct Act 2013.
@@ -60,6 +60,7 @@ This Act has the following additional purposes:
     (iii) imposing other conduct obligations on providers of discretionary investment management services and on their custodians:
     (iv) providing for the making of regulations regulating the holding and application of investor funds and property by issuers of derivatives:
   (g) Part 7 provides for financial reporting obligations:
+  (ga) Part 7A provides for climate-related disclosure obligations:
   (h) Part 8 provides for enforcement and liability matters and for appeals, including—
     (i) providing the FMA and the High Court with certain powers to avoid, remedy, or mitigate any actual or likely adverse effects of contraventions of this Act or the regulations:
     (ii) the imposition of civil liability (including pecuniary penalty orders and compensation orders):
@@ -90,10 +91,12 @@ This Act has the following additional purposes:
   - **alternative disclosure obligation** means any provision of regulations made under section 351 that is stated by those regulations to be an alternative disclosure obligation
   - **applicable auditing and assurance standard** has the same meaning as in section 5(1) of the Financial Reporting Act 2013
   - **applicable financial reporting standard** has the same meaning as in section 5(1) of the Financial Reporting Act 2013
+  - **applicable climate standard** has the same meaning as in section 5(1) of the Financial Reporting Act 2013
   - **application** , in relation to financial products, includes an offer to acquire the financial products whether in writing or otherwise
   - **associated person** or has the meaning set out in section 12(1)
   - **audio or visual service** means an audio or visual service provided to users of the service by means of telecommunications
   - **authorised body** , in relation to a market services licence, means an entity that is authorised under section 400 to provide a market service under the licence
+  - **authoritative notice** has the same meaning as in section 5(1) of the Financial Reporting Act 2013
   - **balance date** has the same meaning as in section 41 of the Financial Reporting Act 2013
   - **broadcaster** has the same meaning as in section 2(1) of the Broadcasting Act 1989
   - **broadcasting** has the same meaning as in section 2(1) of the Broadcasting Act 1989
@@ -105,6 +108,9 @@ This Act has the following additional purposes:
   - **class** , in relation to financial products, has the meaning set out in subsection (3)
   - **client** , in relation to a financial advice service or client money or property service, has the meaning set out in clause 2 of Schedule 5
   - **client money or property service** has the meaning set out in section 431W(1)
+  - **climate-related disclosure framework** has the same meaning as in section 9AA of the Financial Reporting Act 2013
+  - **climate reporting entity** has the meaning set out in section 461O
+  - **climate statements** has the same meaning as in section 5(1) of the Financial Reporting Act 2013
   - **code of conduct** or means the code of professional conduct in force under clause 39 of Schedule 5
   - **company** —
     (a) means a company, or an overseas company, within the meaning of section 2(1) of the Companies Act 1993; but
@@ -130,6 +136,7 @@ This Act has the following additional purposes:
   - **convertible note** has the same meaning as in section YA 1 of the Income Tax Act 2007
   - **co-operative company** means a company registered as a co-operative company under the Co-operative Companies Act 1996
   - **court** means, in relation to any matter, the court before which the matter is to be determined (see section 538, which confers exclusive jurisdiction on the High Court in proceedings other than proceedings for offences)
+  - **CRD records** means the records that a climate reporting entity is required to keep by subpart 2 of Part 7A
   - **credit union** has the same meaning as in section 2 of the Friendly Societies and Credit Unions Act 1982
   - **custodial service** has the meaning set out in section 431W(2)
   - **custodian** means,—
@@ -226,7 +233,10 @@ This Act has the following additional purposes:
     (a) means (in the case of a debt security) a trust deed:
     (b) means (in the case of a managed investment scheme constituted as a trust) the 1 or more trust deeds that constitutes the scheme or (in the case of any other managed investment scheme) the 1 or more deeds, agreements, or instruments that constitute or govern the scheme (for example, a partnership agreement):
     (c) includes (in each case) any amendments to a document referred to in paragraph (a) or (b)
-  - **group** , in Part 7, means a group comprising an FMC reporting entity and its subsidiaries
+  - **group** ,—
+    (a) in Part 7 and subpart 1 of Part 7A, means a group comprising an FMC reporting entity and its subsidiaries:
+    (b) in Part 7A (other than subpart 1), means a group comprising a climate reporting entity and its subsidiaries
+  - **group climate statements** has the same meaning as in section 5(1) of the Financial Reporting Act 2013
   - **group financial statements** has the same meaning as in section 7 of the Financial Reporting Act 2013
   - **in the business of** , in relation to any service or other activity, means carrying on a business of that type (whether or not the business is the person's only business or the person's principal business)
   - **indemnify** includes relieve, exempt, or excuse from liability, whether before or after the liability arises
@@ -272,7 +282,8 @@ This Act has the following additional purposes:
   - **licence** means a licence under this Act or, in relation to a supervisor, the Financial Markets Supervisors Act 2011, and means having a licence, or being authorised under a licence, under this Act or, in relation to a supervisor, having a licence under the Financial Markets Supervisors Act 2011
   - **licensed insurer** —
     (a) has the same meaning as in section 6 of the Insurance (Prudential Supervision) Act 2010; but
-    (b) in Part 7, does not include a Lloyd's underwriter (within the meaning of that Act) or an insurer that is included in a class of insurers that is the subject of an exemption under section 238(1)﻿(b) of that Act
+    (b) in Part 7, does not include a Lloyd's underwriter (within the meaning of that Act) or an insurer that is included in a class of insurers that is the subject of an exemption under section 238(1)﻿(b)﻿(i)﻿(A) or (ii) of that Act; and
+    (c) in Part 7A, does not include a Lloyd’s underwriter (within the meaning of that Act) or an insurer that is included in a class of insurers that is the subject of an exemption under section 238(1)﻿(b) of that Act
   - **licensed market** means a financial product market that is licensed under Part 5 (subject to any regulations made under section 351(1)﻿(d))
   - **licensed market operator** means a person that is authorised to operate a licensed market under a financial product market licence
   - **licensed market services** means those market services—
@@ -332,12 +343,16 @@ This Act has the following additional purposes:
   - **offeror** means,—
     (a) in relation to an offer of financial products for issue, the issuer; or
     (b) in any other case of an offer of financial products, the person who has the capacity, or who agrees, to transfer the financial products if the offer is accepted
+  - **overseas climate reporting entity** , in Part 7A, means a body corporate that—
+    (a) is incorporated outside New Zealand; and
+    (b) is a climate reporting entity under section 461O(1)﻿(b) to (e) (see section 461Q(3) and (4))
   - **Part 2 fair dealing provision** means any of the provisions specified in section 38(1)
   - **Part 3 offer provision** means any of the provisions specified in section 101(3) or (4)
   - **Part 4 governance provision** means any of the provisions specified in section 228(3) or (4)
   - **Part 5 market provision** means any of the provisions specified in section 385(3) or (4)
   - **Part 6 services provision** means any of the provisions specified in section 449(3) or (4)
   - **Part 7 financial reporting provision** means any of the provisions specified in section 461M(3) or (4)
+  - **Part 7A climate-related disclosure provision** means any of the provisions specified in section 461ZK(3) or (4)
   - **participant** means, in relation to a licensed market, a person authorised by the licensed market operator to participate in that market
   - **person** includes any entity
   - **prescribed intermediary services** means services of a kind that are prescribed for the purposes of this definition and involve a person acting as an intermediary in relation to a financial product or financial service
@@ -414,6 +429,7 @@ This Act has the following additional purposes:
       (iv) any renewal or variation of the terms or conditions of any existing security; but
     (c) does not include any interest or right that is declared by regulations not to be a security for the purposes of this Act
   - **senior manager** , in relation to a person (), means a person who is not a director but occupies a position that allows that person to exercise significant influence over the management or administration of A (for example, a chief executive or a chief financial officer)
+  - **separate fund** , in Parts 7 and 7A, has the meaning set out in section 461A(2)
   - **service provider** or , in relation to a financial service, means a person who supplies a financial service
   - **special resolution** , in relation to—
     (a) holders of a financial product issued by a credit union, means a resolution approved by no less than 75% of the number of members of the credit union who are entitled to vote and who vote on the question:
@@ -423,7 +439,7 @@ This Act has the following additional purposes:
   - **stop order** means an order under section 462
   - **subsidiary** —
     (a) has the meaning set out in section 5 of the Companies Act 1993; and
-    (b) in Part 7, includes any entity that is classified as a subsidiary in any applicable financial reporting standard
+    (b) in Parts 7 and 7A, includes any entity that is classified as a subsidiary in any applicable financial reporting standard
   - **substantial holding** has the meaning set out in section 274
   - **substantial product holder** has the meaning set out in section 274(1)
   - **superannuation scheme** means a scheme that is registered on the register of managed investment schemes as a superannuation scheme (or, if the scheme is registered as a superannuation scheme in respect of only a section of the scheme, means the scheme in respect of that section)
@@ -3702,10 +3718,12 @@ To avoid doubt, market rules are not—
 (6) If the FMA purports to act under a delegation under this section, the FMA must, in the absence of proof to the contrary, be presumed to be acting in accordance with the terms of the delegation.
 (7) No delegation affects or prevents the performance or exercise of any function or power by the Minister or affects the responsibility of the Minister for the actions of a person acting under the delegation.
 
-### 351 Regulations modifying this Part or Part 7 for licensed markets
+### 351 Regulations modifying this Part or Part 7 or 7A for licensed markets
 (1) The Governor-General may, on the recommendation of the Minister in accordance with subsection (3), make regulations for any 1 or more of the following purposes:
   (a) providing that any 1 or more of the provisions in subparts 2 to 8 of this Part (including any definitions in this Act as they apply in the relevant provisions, but excluding the obligations in section 314) do not apply in respect of a licensed market or class of licensed markets (and accordingly do not apply in relation to any issuers listed or financial products quoted on those markets):
-  (ab) providing that section 451(1)﻿(d) does not apply in respect of persons that are listed issuers only in respect of a licensed market or class of licensed markets, and providing for replacement or modified requirements to apply relating to accounting records and financial reporting:
+  (ab) providing that section 451(1)﻿(d) does not apply in respect of persons that are listed issuers only in respect of a licensed market or class of licensed markets, and providing for replacement or modified requirements to apply relating to—
+    (i) accounting records and financial reporting:
+    (ii) CRD records and climate-related disclosures (for those listed issuers that would otherwise be climate reporting entities under section 461O(1)﻿(a)):
   (b) providing for replacement or modified provisions to apply in respect of the licensed market or class of licensed markets (for example, instead of having continuous disclosure provisions in the listing rules and requiring listed issuers to comply with those provisions, having periodic or event-based disclosure or some other way of dealing with any information asymmetries in the market):
   (c) stating which provisions of the regulations (if any) are Part 5 market provisions for the purposes of this Act and, if so, whether the provisions give rise to civil liability under section 385(3) or (4) (see Part 8, in which Part 5 market provisions are specified to be civil liability provisions), including which provisions are alternative disclosure obligations for the purposes of section 314:
   (d) providing that a financial product market must not be treated as a licensed market for the purposes of any provision or provisions of this Act or any other specified enactment:
@@ -5194,7 +5212,7 @@ Accounting records kept under this subpart, or copies of them, must be retained 
 ### 461C Failure to comply with authoritative notice does not give rise to pecuniary penalty
 (1) This section applies if financial statements or group financial statements referred to in this subpart fail to comply with generally accepted accounting practice as a result of a failure to comply with an authoritative notice.
 (2) A pecuniary penalty order may not be made under section 489 in relation to the failure to comply with the authoritative notice.
-(3) In this section, authoritative notice has the same meaning as in section 5(1) of the Financial Reporting Act 2013.
+(3)
 
 **Audit of financial statements**
 
@@ -5285,6 +5303,256 @@ An auditor must, in carrying out an audit for the purposes of section 461D, comp
   (d) section 461H (financial statements must be lodged).
 (4) A contravention of section 456 or 458 (place where, and period for which, accounting records to be kept) may give rise to civil liability (see subpart 3 of Part 8), including a pecuniary penalty not exceeding $200,000 in the case of an individual or $600,000 in any other case.
 
+## Part 7A — Climate-related disclosures for certain FMC reporting entities with higher level of public accountability
+
+### Subpart 1 — Overview, application, and interpretation
+
+### 461N Overview
+(1) This Part provides for climate reporting entities to—
+  (a) keep proper records relating to their obligations to make climate-related disclosures; and
+  (b) prepare climate statements; and
+  (c) lodge those statements.
+(2) This section is only a guide to the general scheme and effect of this Part.
+
+### 461O Meaning of climate reporting entity
+(1) In this Act, a person who is an FMC reporting entity that, under section 461K, is considered to have a higher level of public accountability than other FMC reporting entities is a climate reporting entity if that person is 1 or more of the following:
+  (a) a listed issuer that—
+    (i) is a large listed issuer; and
+    (ii) is not an excluded listed issuer:
+  (b) a registered bank that is large:
+  (c) a licensed insurer that is large:
+  (d) a credit union that is large:
+  (e) a building society that is large.
+(2) In this Act, a manager of a registered scheme (other than a restricted scheme) is a climate reporting entity in respect of the scheme if—
+  (a) the manager is a large manager; and
+  (b) section 461K(1)﻿(b) applies to the manager in respect of the scheme.
+(3) In this section,—
+  - **excluded listed issuer** has the meaning set out in section 461P
+  - **large** , in relation to a registered bank, licensed insurer, credit union, or building society, has the meaning set out in section 461Q
+  - **large listed issuer** has the meaning set out in section 461P
+  - **large manager** has the meaning set out in section 461S.
+
+### 461P Definitions relating to listed issuers
+(1) For the purposes of this Part, a listed issuer is a large listed issuer in respect of an accounting period if at least 1 of the following applies to the listed issuer:
+  (a) the listed issuer,—
+    (i) at any time in the accounting period, has quoted equity securities; and
+    (ii) as at the balance date of each of the 2 preceding accounting periods, has equity securities (whether quoted or unquoted) that have a total value, as implied by the market price or fair value of those equity securities, that exceeds $60 million:
+  (b) the listed issuer,—
+    (i) at any time in the accounting period, has quoted debt securities; and
+    (ii) at any time in the 2 preceding accounting periods, has quoted debt securities with a total face value that exceeds $60 million:
+  (c) the listed issuer is large after amalgamation (within the meaning of section 461R) in respect of the accounting period.
+(2) For the purposes of this Part, a listed issuer is an excluded listed issuer in respect of an accounting period if, at all times during the accounting period,—
+  (a) any equity securities of the issuer and any debt securities of the issuer that are quoted are quoted only on a growth market; or
+  (b) the issuer has no quoted equity securities and no quoted debt securities.
+(3) And see section 351(1)﻿(ab) (which may allow for some listed issuers not to be FMC reporting entities and, consequentially, not climate reporting entities under section 461O(1)﻿(a)).
+(4) For the purposes of subsection (1)﻿(a)﻿(ii)﻿, fair value must be determined in accordance with generally accepted accounting practice.
+(5) In this section, growth market means a financial product market if—
+  - ****
+    (a) the operator has a licence to operate the market issued under section 316; and
+    (b) either or both of the following apply:
+      (i) the licence is subject to a condition that limits the size of issuers that are eligible to become, or to remain, listed issuers on the financial product market (for example, a limit based on the issuer’s market capitalisation):
+      (ii) the market is otherwise designed for, and clearly targeted at, small- and medium-sized entities.
+
+### 461Q Meaning of large (in relation to registered banks, licensed insurers, credit unions, and building societies)
+(1) For the purposes of this Part, a registered bank, credit union, or building society (A) is large in respect of an accounting period if either or both of the following apply:
+  (a) as at the balance date of each of the 2 preceding accounting periods, the total assets of A and A’s subsidiaries (if any) exceed $1 billion:
+  (b) A is large after amalgamation (within the meaning of section 461R) in respect of the accounting period.
+(2) For the purposes of this Part, a licensed insurer is large in respect of an accounting period if at least 1 of the following paragraphs applies to the licensed insurer:
+  (a) as at the balance date of each of the 2 preceding accounting periods, the total assets of the licensed insurer and its subsidiaries (if any) exceed $1 billion:
+  (b) in each of the 2 preceding accounting periods, the annual gross premium revenue of the licensed insurer and its subsidiaries (if any) exceeds $250 million:
+  (c) the licensed insurer is large after amalgamation (within the meaning of section 461R) in respect of the accounting period.
+(3) However, if a registered bank, credit union, building society, or licensed insurer is an overseas company,—
+  (a) subsections (1) and (2) do not apply; and
+  (b) the overseas company is large for the purposes of section 461O(1)﻿(b) to (e) if its New Zealand business, or its group’s New Zealand business, is large under subsection (4).
+(4) The New Zealand business of an overseas company or its group is large in respect of an accounting period if at least 1 of the following paragraphs applies (calculated as if the New Zealand business were an entity):
+  (a) as at the balance date of each of the 2 preceding accounting periods, the total assets of the New Zealand business exceed $1 billion:
+  (b) the overseas company is a licensed insurer and, in each of the 2 preceding accounting periods, the annual gross premium revenue of the New Zealand business exceeds $250 million.
+(5) A financial reporting standard (or a part of a standard) issued by the External Reporting Board that is expressed as applying for the purposes of subsection (4) must be applied in determining whether that provision applies.
+(6) In this section, overseas company means a body corporate that is incorporated outside New Zealand.
+
+### 461R Meaning of large after amalgamation
+(1) For the purposes of this Part, a person (A) is large after amalgamation in respect of an accounting period if—
+  (a) A amalgamated with a large entity during the accounting period; or
+  (b) A is a new entity formed on the amalgamation of 2 or more entities during the accounting period, and at least 1 of those entities was a large entity.
+(2) If A is large after amalgamation under subsection (1) in respect of an accounting period, A continues to be large after amalgamation in respect of the next accounting period.
+(3) In this section, large entity means an entity that, in respect of the accounting period, was any of—
+  (a) a large listed issuer under section 461P(1) (other than an issuer described in section 461P(2)﻿(a) or (b) for the accounting period up to the time of amalgamation):
+  (b) a registered bank, licensed insurer, credit union, or building society that is large under section 461Q.
+
+### 461S Meaning of large manager
+(1) For the purposes of this Part, a manager (A) that holds a market services licence that covers the service referred to in section 388(a) is a large manager in respect of an accounting period of A if, as at the balance date of each of A’s 2 preceding accounting periods, the total assets of the following schemes exceed $1 billion:
+  (a) all schemes for which A is manager; and
+  (b) all schemes for which the manager is an authorised body that provides the service of acting as a manager of a registered scheme under A’s market services licence.
+(2) If A is a large manager, every manager described in subsection (1)﻿(b) is also a large manager.ExampleCompany A holds a licence that covers acting as a manager of registered schemes. A’s subsidiaries, B and C, also provide this service under A’s licence (as authorised bodies).The assets of the schemes for which A is manager total $700 million on the balance date of each of A’s 2 preceding accounting periods (the relevant balance dates).The assets of the schemes managed by B total a further $300 million, and the assets of the schemes managed by C total $200 million, on each of the relevant balance dates.The total assets therefore exceed $1 billion. A is a large manager. B and C are also large managers.
+(3) Subsections (4) and (5) apply if—
+  (a) a manager and a scheme managed by the manager have different balance dates; and
+  (b) the manager becomes, or ceases to be, a large manager.
+(4) If the manager was not a large manager in respect of an accounting period (AP1) but becomes a large manager in respect of the next accounting period (AP2), the manager—
+  (a) is not treated as a large manager in respect of the scheme in relation to the accounting period of the scheme that starts in AP1 and ends in AP2 unless paragraph (b) applies:
+  (b) must be treated as a large manager in respect of the scheme in relation to the accounting period of the scheme that starts in AP1 and ends in AP2 if—
+    (i) the manager was not the manager of the scheme at the start of that accounting period of the scheme; and
+    (ii) the manager at the start of that accounting period of the scheme was a climate reporting entity in respect of the scheme.
+(5) If the manager was a large manager in respect of an accounting period (AP3) but ceases to be a large manager in the next accounting period (AP4), the manager must be treated as a large manager in respect of the scheme in relation to the accounting period of the scheme that starts in AP3 and ends in AP4.
+(6) In this section, the total assets of a scheme are—
+  (a) as reported in the most recent audited financial statements, prepared in accordance with generally accepted accounting practice, for the scheme; or
+  (b) if there are no such statements, as calculated—
+    (i) for a date as near as possible to the balance date of the manager; and
+    (ii) as if for the purpose of preparing financial statements for the scheme in accordance with generally accepted accounting practice.
+(7) In this section, scheme means a registered scheme (other than a restricted scheme).
+
+### 461T Application if person’s status changes during accounting period
+(1) If a person ceases to be a climate reporting entity during an accounting period, that person is treated as continuing to be a climate reporting entity in relation to that accounting period for the purposes of this Act and every other enactment.
+(2) However, subsection (3) applies if the person (A)—
+  (a) ceased to be a climate reporting entity under section 461O(1); and
+  (b) on the balance date, is not a climate reporting entity under section 461O(1) (disregarding the rule in subsection (1)).
+(3) If this subsection applies,—
+  (a) A is not required to ensure the completion of climate statements or group climate statements under any of sections 461Z to 461ZB and the lodgement of those climate statements in relation to the accounting period:
+  (b) records required to be kept by A up to the date that A ceased to be a climate reporting entity under section 461O(1) are CRD records for the purposes of sections 461W to 461Y.
+(4) In any case where a person is, or was, the manager of a registered scheme (and a climate reporting entity under section 461O(2) in respect of the scheme), subsection (1) does not limit—
+  (a) section 461S(5) (which applies if the manager and the scheme have different balance dates); or
+  (b) section 461ZD (which may apply if the manager of a scheme changes during an accounting period).
+
+### 461U Miscellaneous provision relating to application
+Nothing in this Part requires a climate reporting entity to ensure the completion of climate statements or group climate statements and the lodgement of those climate statements in relation to an accounting period that ended before the accounting period in which that person became a climate reporting entity.
+
+### Subpart 2 — CRD records
+
+### 461V Climate reporting entities must keep proper CRD records
+(1) Every climate reporting entity under section 461O(1) must ensure that there are kept at all times records that will enable the climate reporting entity to ensure that the climate statements of the climate reporting entity comply with the climate-related disclosure framework.
+(2) Every manager that is a climate reporting entity in respect of a registered scheme must ensure that there are kept at all times records that will enable the manager to ensure that the climate statements relating to the registered scheme comply with the climate-related disclosure framework.
+(3) Every climate reporting entity must establish and maintain a satisfactory system of control of the records that it is required to keep under this section.
+(4) In this section,—
+  - **climate statements of the climate reporting entity** means the climate statements or group climate statements that are required to be prepared under any of sections 461Z to 461ZB
+  - **climate statements relating to the registered scheme** means the climate statements of the separate funds of the scheme or the climate statements of the scheme that are required to be prepared under section 461ZC.
+
+### 461W Manner in which CRD records to be kept
+(1) Every climate reporting entity must keep the CRD records in the prescribed manner (if any).
+(2) A climate reporting entity that contravenes this section commits an offence and is liable on conviction to a fine not exceeding $50,000.
+(3) The offence in this section is an infringement offence (see subpart 5 of Part 8).
+
+### 461X Period for which CRD records to be kept
+CRD records, or copies of them, must be retained by the climate reporting entity for a period of at least 7 years after the date the records are made.
+
+### 461Y Inspection of CRD records
+(1) Every climate reporting entity must make the CRD records available, in the prescribed manner at all reasonable times for inspection without charge, to—
+  (a) the directors of the climate reporting entity; and
+  (b) any supervisor (if the climate reporting entity is an issuer of debt securities or the manager of a registered scheme); and
+  (c) the FMA; and
+  (d) any other persons authorised or permitted by an enactment to inspect the CRD records of the climate reporting entity or scheme.
+(2) A climate reporting entity that contravenes this section commits an offence and is liable on conviction to a fine not exceeding $50,000.
+(3) The offence in this section is an infringement offence (see subpart 5 of Part 8).
+
+### Subpart 3 — Preparation of climate statements
+
+**Climate statements of climate reporting entities**
+
+### 461Z Climate statements must be prepared
+(1) Every climate reporting entity must ensure that, within 4 months after the balance date of the entity, climate statements that comply with the climate-related disclosure framework are—
+  (a) completed in relation to the entity and that balance date; and
+  (b) dated and signed on behalf of the entity by 2 directors of the entity or, if the entity has only 1 director, by that director.
+(2) However, subsection (1) does not apply to—ExampleA company (incorporated in New Zealand and with no subsidiaries) is a large manager of 2 registered schemes.The company is also a large registered bank, so subsection (2)﻿(c) does not apply. Subsection (1) applies to the company (and see section 461ZC, which also applies to the company in respect of its registered schemes).
+  (a) a climate reporting entity that, on the balance date referred to in subsection (1), has 1 or more subsidiaries; or
+  (b) an overseas climate reporting entity, unless it is a climate reporting entity under section 461O(1)﻿(a); or
+  (c) a person that is a climate reporting entity only under section 461O(2).
+
+### 461ZA Group climate statements must be prepared
+(1) Subsection (2) applies to every climate reporting entity in relation to a balance date of the entity if the entity has, on that balance date, 1 or more subsidiaries.
+(2) The climate reporting entity must ensure that, within 4 months after that balance date, group climate statements that comply with the climate-related disclosure framework are—
+  (a) completed in relation to the group and that balance date; and
+  (b) dated and signed on behalf of the entity by 2 directors of the entity or, if the entity has only 1 director, by that director.
+(3) However, subsection (2) does not apply to—
+  (a) an overseas climate reporting entity, unless it is a climate reporting entity under section 461O(1)﻿(a); or
+  (b) a person that is a climate reporting entity only under section 461O(2).
+
+### 461ZB Climate statements for overseas climate reporting entities
+(1) This section applies to every overseas climate reporting entity, unless it is a climate reporting entity under section 461O(1)﻿(a).
+(2) The climate reporting entity must ensure that, within 4 months after the balance date of the entity, climate statements that comply with the climate-related disclosure framework are—
+  (a) prepared for its New Zealand business as if that business were conducted by a company formed and registered in New Zealand; and
+  (b) dated and signed on behalf of the entity by 2 directors of the entity or, if the entity has only 1 director, by that director.
+(3) However, if the climate reporting entity has, on that balance date, 1 or more subsidiaries, subsection (2) does not apply and instead the entity must ensure that, within 4 months after the balance date of the entity, climate statements that comply with the climate-related disclosure framework are—
+  (a) prepared for the group’s New Zealand business as if the members of the group were companies formed and registered in New Zealand; and
+  (b) dated and signed on behalf of the entity by 2 directors of the entity or, if the entity has only 1 director, by that director.
+(4) Subsection (3) does not limit any obligation under this subpart of a subsidiary of the climate reporting entity.
+
+**Climate statements relating to registered schemes**
+
+### 461ZC Climate statements for separate funds of registered schemes, etc
+(1) This section applies to every manager of a registered scheme that is a climate reporting entity in respect of the scheme.
+(2) The manager must ensure that, within 4 months after the balance date of the scheme, climate statements that comply with the climate-related disclosure framework are—
+  (a) completed in relation to each separate fund of the scheme and that balance date; and
+  (b) if any liabilities of the manager and the scheme are not limited to a separate fund, completed in relation to the scheme and that balance date; and
+  (c) dated and signed on behalf of the manager by 2 directors of the manager or, if the manager has only 1 director, by that director.
+(3) However, if the manager was not the manager of the scheme at the start of the scheme’s accounting period, subsection (2) applies to the manager only if the manager of the scheme at the start of the scheme’s accounting period was a climate reporting entity in respect of the scheme.
+
+### 461ZD Application if manager of registered scheme changes and new manager is not large manager
+(1) This section applies if—
+  (a) the manager of a registered scheme changes during an accounting period of the scheme; and
+  (b) the person who was the manager of the scheme at the start of the accounting period (the old manager) was a climate reporting entity in respect of the scheme; and
+  (c) the person who is the manager of the scheme at the end of the accounting period (the new manager) is not a large manager (within the meaning of section 461S).
+(2) If this section applies, the new manager is not required to ensure the completion of climate statements under section 461ZC(2) and the lodgement of those climate statements in relation to the accounting period.
+(3) Records kept by the old manager up to the date that the old manager ceased to hold office as manager of the scheme are CRD records for the purposes of sections 461W to 461Y.
+
+**Miscellaneous**
+
+### 461ZE Climate statements may be combined in single document
+Nothing in this Part prevents any of the following from being combined in a single document:
+  (a) climate statements and group climate statements that are required to be prepared under any of sections 461Z to 461ZB in relation to an accounting period and 1 or more members of a group:
+  (b) climate statements that are required to be prepared under section 461ZC in relation to an accounting period and a registered scheme.
+
+### 461ZF Failure to comply with authoritative notice does not give rise to pecuniary penalty
+(1) This section applies if climate statements or group climate statements referred to in this subpart fail to comply with the climate-related disclosure framework as a result of a failure to comply with an authoritative notice.
+(2) A pecuniary penalty order may not be made under section 489 in relation to the failure to comply with the authoritative notice.
+
+**Offences**
+
+### 461ZG Offence to knowingly fail to comply with climate standards
+(1) A climate reporting entity and every director of the entity commit an offence if—
+  (a) any of the following fail to comply with an applicable climate standard:
+    (i) the climate statements of the entity prepared under section 461Z:
+    (ii) group climate statements in relation to a group comprising the entity and its subsidiaries prepared under section 461ZA:
+    (iii) the climate statements or group climate statements prepared by the entity under section 461ZB:
+    (iv) in the case of a manager of a registered scheme, the climate statements for any separate fund or for the scheme prepared under section 461ZC; and
+  (b) the entity or the director (as the case may be) knows that the climate statements or group climate statements fail to so comply when those statements are lodged.
+(2) A person who commits an offence under subsection (1) is liable on conviction,—
+  (a) in the case of an individual, to imprisonment for a term not exceeding 5 years, a fine not exceeding $500,000, or both; and
+  (b) in any other case, to a fine not exceeding $2.5 million.
+
+### Subpart 4 — Assurance engagements
+
+### 461ZH No requirement for assurance of climate statements on commencement of Part
+(1) A climate reporting entity is not required to obtain an assurance engagement in relation to the climate statements or group climate statements that are required to be prepared under any of sections 461Z to 461ZC.
+(2) See Part 2 of the Financial Sector (Climate-related Disclosures and Other Matters) Amendment Act 2021, which sets out assurance requirements to apply from a later date.
+
+### Subpart 5 — Lodgement of climate statements
+
+### 461ZI Lodgement of climate statements
+(1) Every climate reporting entity that is required to prepare climate statements or group climate statements under any of sections 461Z to 461ZB must ensure that, within 4 months after the balance date of the entity, copies of those statements are delivered to the Registrar for lodgement.
+(2) Every manager that is a climate reporting entity in respect of a registered scheme must ensure that, within 4 months after the balance date of the scheme, copies of the climate statements that are required to be prepared under section 461ZC are delivered to the Registrar for lodgement.
+(3) A climate reporting entity that contravenes this section commits an offence and is liable on conviction to a fine not exceeding $50,000.
+(4) The offence in this section is an infringement offence (see subpart 5 of Part 8).
+
+### 461ZJ Information about climate statements of climate reporting entities to be made available in annual report
+(1) This section applies to every climate reporting entity that is required to prepare—
+  (a) climate statements or group climate statements under any of sections 461Z to 461ZB; and
+  (b) an annual report under the Companies Act 1993 or any other enactment.
+(2) The climate reporting entity must include, in its annual report for the period ending on the balance date,—
+  (a) a statement that the entity is a climate reporting entity for the purposes of this Act; and
+  (b) a copy of the climate statements or group climate statements prepared by the entity under any of sections 461Z to 461ZB, or the address of (or a link to) the Internet site where a copy of those statements can be accessed.
+(3) A climate reporting entity that contravenes this section commits an offence and is liable on conviction to a fine not exceeding $50,000.
+(4) The offence in this section is an infringement offence (see subpart 5 of Part 8).
+(5) In this section, annual report includes a concise annual report.
+
+### Subpart 6 — Civil liability for certain contraventions of this Part
+
+### 461ZK Part 7A climate-related disclosure provisions
+(1) All of the provisions specified in subsections (3) and (4) are Part 7A climate-related disclosure provisions.
+(2) A contravention of any of the provisions listed in subsection (3) may give rise to civil liability (see subpart 3 of Part 8), including a pecuniary penalty not exceeding $1 million in the case of an individual or $5 million in any other case.
+(3) For the purposes of subsection (2), the provisions are the following:
+  (a) section 461V (climate reporting entities must keep proper CRD records):
+  (b) sections 461Z to 461ZC (climate statements and group climate statements must be prepared):
+  (c) section 461ZI (climate statements must be lodged).
+(4) A contravention of section 461X (CRD records to be kept for 7 years) may give rise to civil liability (see subpart 3 of Part 8), including a pecuniary penalty not exceeding $200,000 in the case of an individual or $600,000 in any other case.
+
 ## Part 8 — Enforcement, liability, and appeals
 
 ### Subpart 1 — FMA's enforcement powers
@@ -5310,7 +5578,7 @@ An auditor must, in carrying out an audit for the purposes of section 461D, comp
     (i) is false or misleading, or is likely to mislead or confuse, in a material particular; or
     (ii) contains any material misdescription or material error or any material matter that is not clearly legible; or
     (iii) does not comply with this Act or the regulations; or
-  (ga) an issuer of financial products, or a person that provides a licensed market service, has contravened any provision of Part 7; or
+  (ga) an issuer of financial products, or a person that provides a licensed market service, has contravened any provision of Part 7 or 7A; or
   (h) any provision of section 388, 391, 423, 431G, 431O, or 431X has been, or is likely to be, contravened in respect of the supply of market services.
 (2) If the FMA is satisfied that a provision referred to in subsection (1)﻿(b) to (d) or (h) is likely to be contravened by a person (A) in the future, the FMA may make a stop order—
   (a) whether or not A has previously contravened the provision; and
@@ -5375,6 +5643,7 @@ A stop order may, in relation to the offer, financial products, registered schem
   (d) a Part 5 market provision:
   (e) a Part 6 services provision:
   (f) a Part 7 financial reporting provision:
+  (fa) a Part 7A climate-related disclosure provision:
   (g) an infringement offence provision:
   (h) an obligation under Schedule 3 or under a trust deed for a Schedule 3 scheme:
   (i) clause 21, 22(1)﻿(b) or (c), 25, or 39 of Schedule 4 (transitional requirements):
@@ -5406,6 +5675,7 @@ A stop order may, in relation to the offer, financial products, registered schem
 (1) The FMA may make an order prohibiting an offeror from distributing a simplified disclosure PDS, or otherwise making an offer under a simplified disclosure PDS, if the FMA is satisfied that the offeror (or the issuer of the relevant financial products) has failed to comply with any of the following at any time during the previous 12 months before the order is made:
   (a) a continuous disclosure obligation:
   (b) any provision under Part 7:
+  (ba) any provision under Part 7A:
   (c) any prescribed provision.
 (2) In this section, simplified disclosure PDS means a PDS of a class that is declared by the regulations as being a class of simplified disclosure PDSs.
 (3) Subsection (1) does not limit any other power of the FMA by or under this Act.
@@ -5442,6 +5712,7 @@ A stop order may, in relation to the offer, financial products, registered schem
 (1) The FMA may make an order that clause 19 of Schedule 1 does not apply in respect of an issuer if the FMA is satisfied that the issuer has failed to comply with any of the following at any time during the previous 12 months before the order is made:
   (a) a continuous disclosure obligation:
   (b) any provision under Part 7:
+  (ba) any provision under Part 7A:
   (c) any prescribed provision.
 (2) Subsection (1) does not limit any other power of the FMA by or under this Act.
 
@@ -5533,6 +5804,7 @@ In this subpart, a civil liability provision is—
   (e) an unsolicited offer provision:
   (f) a Part 6 services provision:
   (g) a Part 7 financial reporting provision:
+  (ga) a Part 7A climate-related disclosure provision:
   (h) section 479(1) (failing to comply with FMA's orders):
   (i) clause 21, 22(1)﻿(b) or (c), 25, or 39 of Schedule 4 (transitional requirements).
 
@@ -5563,7 +5835,7 @@ A declaration of contravention must state the following:
   (c) may order the person to pay to the Crown a pecuniary penalty that the court considers appropriate if it is satisfied that the person has contravened, or been involved in a contravention of, a civil liability provision.
 (3) However, a pecuniary penalty order may not be made—
   (a) for a contravention, or involvement in a contravention, of section 19:
-  (b) in the circumstances referred to in section 431U or 461C.
+  (b) in the circumstances referred to in section 431U, 461C, or 461ZF.
 (4) The court may make a pecuniary penalty order against a director who is treated as contravening a civil liability provision under section 534 (but only if the FMA has applied for the order against the director).
 
 ### 490 Maximum amount of pecuniary penalty
@@ -5578,6 +5850,7 @@ A declaration of contravention must state the following:
   (d) a Part 5 market provision (other than a provision specified in section 385(4)):
   (e) a Part 6 services provision (other than a provision specified in section 449(4)):
   (f) a Part 7 financial reporting provision (other than a provision specified in section 461M(4)):
+  (fa) a Part 7A climate-related disclosure provision (other than section 461X):
   (g) an unsolicited offer provision:
   (h) clause 21, 22(1)﻿(b) or (c), or 25 of Schedule 4 (transitional requirements).
 (3) The maximum amount of a pecuniary penalty for a contravention, or involvement in a contravention, of any other civil liability provision is—
@@ -5680,9 +5953,9 @@ A civil liability order under section 497 may—
   (b) after doing so, believed on reasonable grounds that there was no omission from the disclosure document or register entry in relation to that matter.
 (3) In any proceeding under this subpart against a person (A) for a contravention of section 82 because of a circumstance referred to in section 82(1)﻿(a)﻿(iii), it is a defence if A proves that A was not aware of the matter.
 
-### 501 Additional disclosure or financial reporting defence for directors who are treated as contravening
+### 501 Additional disclosure or financial reporting or climate-related disclosure defence for directors who are treated as contravening
 (1) This section applies if—
-  (a) a person (A) contravenes any of sections 82, 99, 427, 460 to 461B, 461D, and 461H or clause 27 of Schedule 1; and
+  (a) a person (A) contravenes any of sections 82, 99, 427, 460 to 461B, 461D, 461H, 461Z to 461ZC, and 461ZI or clause 27 of Schedule 1; and
   (b) a person (B) is a director of A who is treated as being in contravention under section 534.
 (2) In any proceeding under this subpart against B, it is a defence if B proves that B took all reasonable steps to ensure that A complied with the provision referred to in subsection (1)﻿(a).
 (3) Subsection (2) does not limit any defence that B may have under section 499 or 500 (as a person who is treated as contravening a provision referred to in subsection (1)﻿(a)).
@@ -6024,17 +6297,18 @@ A party to an appeal under section 532A may appeal to the High Court against a d
   (d) has conspired with others to effect the contravention.
 (2) Subsection (1) does not apply to proceedings for offences (but see Part 4 of the Crimes Act 1961, which relates to parties to the commission of offences).
 
-### 534 Directors treated as having contravened in case of defective disclosure or financial reporting contravention
+### 534 Directors treated as having contravened in case of defective disclosure, financial reporting contravention, or climate-related disclosure contravention
 (1) This section applies if, in a proceeding under subpart 3, the court is satisfied that—
   (a) an offeror has contravened section 82 (defective disclosure in PDS or register entry); or
   (b) an issuer has contravened section 99 (defective ongoing disclosure); or
   (c) a licensee or an authorised body has contravened section 427 (defective disclosure statement); or
   (ca) an FMC reporting entity has contravened any of sections 460 to 461B, 461D, and 461H (financial reporting obligations); or
+  (cb) a climate reporting entity has contravened any of sections 461Z to 461ZC and 461ZI (climate-related disclosure obligations); or
   (d) an entity that provided a limited disclosure document under clause 26 of Schedule 1 has contravened clause 27 of that schedule (defective disclosure).
 (2) However, this section does not apply in the prescribed circumstances.
-(3) For the purposes of subpart 3, every director of the offeror, issuer, licensee, authorised body, FMC reporting entity, or entity at the time of the contravention must be treated as also having contravened the provision referred to in subsection (1)﻿(a), (b), (c), (ca), or (d) (as the case may be).
+(3) For the purposes of subpart 3, every director of the offeror, issuer, licensee, authorised body, FMC reporting entity, climate reporting entity, or entity at the time of the contravention must be treated as also having contravened the provision referred to in subsection (1)﻿(a), (b), (c), (ca), (cb), or (d) (as the case may be).
 (4) Every director that is treated as contravening a provision under this section may, under subpart 3, be ordered to pay to the Crown a pecuniary penalty, ordered to pay compensation under section 495, or subject to any other order under subpart 3.
-(5) Nothing in this section limits the liability of the offeror, issuer, licensee, authorised body, FMC reporting entity, or entity referred to in subsection (1).
+(5) Nothing in this section limits the liability of the offeror, issuer, licensee, authorised body, FMC reporting entity, climate reporting entity, or entity referred to in subsection (1).
 (6) See sections 499(1)﻿(a), 500, and 501, which provide defences to a director.
 
 ### 535 State of mind of directors, employees, or agents attributed to body corporate or other principal
@@ -6460,17 +6734,20 @@ Any provision that is implied into a deed or an agreement by or under this Act�
   (b) is enforceable by the parties to the deed or agreement and by any person on whom the provision confers, or purports to confer, a benefit; but
   (c) applies subject to any exemption from compliance with that provision by the FMA under subpart 2.
 
-### 554 Regulations or exemptions may require compliance with generally accepted accounting practice, standards, or FMA frameworks or methodologies
+### 554 Regulations or exemptions may require compliance with generally accepted accounting practice, standards, frameworks, or FMA methodologies
 (1) Regulations, notices issued under subpart 4, or exemptions granted by the FMA may require any person, class of persons, information, or class of information to comply with any of the following:
   (a) generally accepted accounting practice, either generally or in specified circumstances:
   (b) a financial reporting standard:
+  (baaa) the climate-related disclosure framework, either generally or in specified circumstances:
+  (ba) a climate standard:
   (c) an auditing and assurance standard:
   (d) a notice issued under subpart 4.
-(2) Regulations, a notice issued under subpart 4, or an exemption granted by the FMA may require compliance with generally accepted accounting practice, a financial reporting standard, an auditing and assurance standard, or a notice issued under subpart 4—
+(2) Regulations, a notice issued under subpart 4, or an exemption granted by the FMA may require compliance with generally accepted accounting practice, a financial reporting standard, the climate-related disclosure framework, a climate standard, an auditing and assurance standard, or a notice issued under subpart 4—
   (a) in whole or in part; and
   (b) with modifications, additions, or variations specified in the regulations, notice, or exemption.
 (3) In this section,—
   - **auditing and assurance standard** has the same meaning as in section 5(1) of the Financial Reporting Act 2013
+  - **climate standard** has the same meaning as in section 5(1) of the Financial Reporting Act 2013
   - **financial reporting standard** has the same meaning as in section 5(1) of the Financial Reporting Act 2013.
 
 ### 555 Different matters may be prescribed in respect of different circumstances
@@ -6480,7 +6757,7 @@ Different matters may be prescribed, prohibited, restricted, specified, or requi
 
 ### 556 FMA may grant exemptions
 (1) The FMA may, on the terms and conditions (if any) that it thinks fit, exempt any person or class of persons or any transaction or class of transactions from compliance with any provision or provisions of—
-  (a) Parts 2 to 7, subpart 8 of Part 8, and any of the schedules; or
+  (a) Parts 2 to 7A, subpart 8 of Part 8, and any of the schedules; or
   (b) any regulations.
 (2) To avoid doubt, an exemption may extend to exempt from compliance with any provision that is implied into a deed or an agreement by or under any other provision referred to in subsection (1).
 (3) Nothing in subpart 6 or 7 limits subsection (1).
@@ -6512,9 +6789,10 @@ The breach of a term or condition of an exemption granted under this subpart is 
 (2) An offer of financial products that would, but for this subsection, be a regulated offer is not a regulated offer if the terms of an exemption granted under this subpart state that the offer is not a regulated offer.
 (3) A statement under subsection (2) may be in respect of an offer or a class of offers.
 
-### 561A Financial reporting exemptions
+### 561A Financial reporting and climate-related disclosure exemptions
 (1) An exemption granted under this subpart in relation to any provision of Part 7 may, if the FMA thinks fit, apply to an accounting period that commenced before the exemption is granted (including an accounting period that ended before the exemption is granted) if the exemption is granted before the financial statements or group financial statements for that period are required to be lodged under that Part.
-(2) In deciding whether to grant, amend, or revoke an exemption under this subpart in relation to any provision of Part 7, the FMA must consult the Reserve Bank if the exemption concerns any of the following:
+(1A) An exemption granted under this subpart in relation to any provision of Part 7A may, if the FMA thinks fit, apply to an accounting period that commenced before the exemption is granted (including an accounting period that ended before the exemption is granted) if the exemption is granted before the climate statements or group climate statements for that period are required to be lodged under that Part.
+(2) In deciding whether to grant, amend, or revoke an exemption under this subpart in relation to any provision of Part 7 or 7A, the FMA must consult the Reserve Bank if the exemption concerns any of the following:
   (a) a registered bank:
   (b) a licensed insurer:
   (c) an NBDT.
@@ -7565,7 +7843,8 @@ Section 14 of the Trusts Act 2019 (sole trustee cannot be sole beneficiary) does
   (c) Part 3 provides for miscellaneous transitional provisions relating to the enactment of this Act (for example, provisions relating to the licensing of financial product markets):
   (d) Part 4 provides for a transitional provision relating to the Regulatory Systems (Commercial Matters) Amendment Act 2017:
   (e) Part 5 provides for transitional provisions relating to the Financial Markets Conduct Regulations 2014:
-  (f) Part 6 provides for transitional provisions relating to the Financial Services Legislation Amendment Act 2019.
+  (f) Part 6 provides for transitional provisions relating to the Financial Services Legislation Amendment Act 2019:
+  (g) Part 7 provides for transitional provisions relating to Part 1 of the Financial Sector (Climate-related Disclosures and Other Matters) Amendment Act 2021.
 (2) Subclause (1) is only a guide to the general scheme and effect of this schedule.
 
 ### 2 Transitional provisions subject to transitional regulations and exemptions
@@ -8335,6 +8614,28 @@ The FMA must, after receiving an application for a transitional licence, issue t
 (5) In this clause,—
   - **3-year date** means the date that is 3 years after the commencement of section 16 of the amending Act
   - **amending Act** means the Financial Services Legislation Amendment Act 2019.
+
+### Part 7 — Provisions relating to Part 1 of Financial Sector (Climate-related Disclosures and Other Matters) Amendment Act 2021
+
+### 91 Interpretation in this Part
+In this Part, climate standard has the same meaning as in section 5(1) of the Financial Reporting Act 2013.
+
+### 92 Definitions of large listed issuer, large, and large manager may take into account accounting periods that commence before commencement of clause
+In sections 461P(1), 461Q, and 461S, a reference to preceding accounting periods may include an accounting period regardless of whether the accounting period commenced before, on, or after the commencement of this clause.
+
+### 93 Climate-related disclosures for climate reporting entities under section 461O(1)
+(1) The following provisions of this Act apply to a climate reporting entity under section 461O(1) in respect of accounting periods of the entity that commence on or after the date on which the External Reporting Board issues the first climate standard that applies to the entity:
+  (a) subpart 2 of Part 7A (which relates to CRD records):
+  (b) subpart 3 of Part 7A (which relates to preparation of climate statements):
+  (c) subpart 5 of Part 7A (which relates to lodgement of climate statements).
+(2) The provisions listed in subclause (1) do not apply to a climate reporting entity under section 461O(1) in respect of accounting periods of the entity that commence before the date on which the External Reporting Board issues the first climate standard that applies to the entity.
+
+### 94 Climate-related disclosures relating to registered schemes
+(1) The following provisions of this Act apply to a climate reporting entity under section 461O(2) in respect of accounting periods of a registered scheme that commence on or after the date on which the External Reporting Board issues the first climate standard that applies to the scheme:
+  (a) subpart 2 of Part 7A (which relates to CRD records):
+  (b) subpart 3 of Part 7A (which relates to preparation of climate statements):
+  (c) subpart 5 of Part 7A (which relates to lodgement of climate statements).
+(2) The provisions listed in subclause (1) do not apply to a climate reporting entity under section 461O(2) in respect of accounting periods of a registered scheme that commence before the date on which the External Reporting Board issues the first climate standard that applies to the scheme.
 
 ## Schedule 5 — Other provisions relating to financial advice services and client money or property services
 
