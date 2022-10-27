@@ -1,5 +1,5 @@
 # Financial Reporting Act 2013
-_Consolidation as at 2022-09-01_
+_Consolidation as at 2022-10-27_
 
 ### 1 Title
 This Act is the Financial Reporting Act 2013.
@@ -730,7 +730,7 @@ A financial reporting standard (or a part of a standard) that is expressed as ap
 
 ### 48 Minister must regularly review amounts to take into account inflation
 (1) The Minister—
-  (a) must review the monetary amounts specified in sections 45 and 46 of this Act, section 42D of the Charities Act 2005, section 204(3) of the Companies Act 1993, and section 64(2) of the Friendly Societies and Credit Unions Act 1982 for the purpose of determining whether or not to recommend that an adjustment be made to those amounts in order to take into account any increase in the CPI during the period to which the review relates; and
+  (a) must review the monetary amounts specified in sections 45 and 46 of this Act, section 42D of the Charities Act 2005, section 204(3) of the Companies Act 1993, section 64(2) of the Friendly Societies and Credit Unions Act 1982, and sections 461Q and 461S of the Financial Markets Conduct Act 2013 for the purpose of determining whether or not to recommend that an adjustment be made to those amounts in order to take into account any increase in the CPI during the period to which the review relates; and
   (b) may, after conducting a review, make a recommendation for the purposes of section 49.
 (2) The first review under this section must be completed on or before the date that is 8 years after the date on which this section comes into force.
 (3) Subsequent reviews under this section must be completed on or before the date that is 6 years after the previous review was completed.
@@ -747,7 +747,9 @@ A financial reporting standard (or a part of a standard) that is expressed as ap
   (e) amending the amount specified in section 45(2)﻿(b):
   (f) amending the amount specified in section 46:
   (g) amending the amounts specified in section 204(3) of the Companies Act 1993:
-  (h) amending the amount in section 64(2) of the Friendly Societies and Credit Unions Act 1982.
+  (h) amending the amount in section 64(2) of the Friendly Societies and Credit Unions Act 1982:
+  (i) amending the amounts specified in sections 461Q and 461S of the Financial Markets Conduct Act 2013:
+  (j) amending the amounts in the example in section 461S of the Financial Markets Conduct Act 2013.
 (2) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ## Part 3 — Miscellaneous provisions
