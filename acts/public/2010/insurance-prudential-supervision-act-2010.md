@@ -1,5 +1,5 @@
 # Insurance (Prudential Supervision) Act 2010
-_Consolidation as at 2022-07-01_
+_Consolidation as at 2022-10-27_
 
 ### 1 Title
 This Act is the Insurance (Prudential Supervision) Act 2010.
@@ -2519,9 +2519,11 @@ The following are secondary legislation (see Part 3 of the Legislation Act 2019 
     (ii) section 60; or
     (iii) any provision of section 81; or
     (iv) subpart 3 of Part 2:
-  (b) exempting a class of specified persons that have an annual gross premium income (as determined in the manner specified in the regulations) that is less than a specified amount from being—
-    (i) an FMC reporting entity for the purposes of the Financial Markets Conduct Act 2013 by virtue of section 451(h) of that Act:
-    (ii) an issuer for the purposes of the Financial Reporting Act 1993 by virtue of section 4(1)﻿(da) of that Act:
+  (b) exempting a class of specified persons that have an annual gross premium income (as determined in the manner specified in the regulations) that is less than a specified amount—
+    (i) from being—
+      (A) an FMC reporting entity (and, consequentially, a climate reporting entity) for the purposes of the Financial Markets Conduct Act 2013 by virtue of section 451(1)﻿(h) of that Act; or
+      (B) a climate reporting entity for the purposes of the Financial Markets Conduct Act 2013 by virtue of section 461O(1)﻿(c) of that Act:
+    (ii) from being an issuer for the purposes of the Financial Reporting Act 1993 by virtue of section 4(1)﻿(da) of that Act:
   (c) prescribing terms and conditions that an exemption under paragraph (a) or (b) is subject to.
 (2) If the terms and conditions of an exemption under subsection (1)﻿(a) or (b) that are prescribed under subsection (1)﻿(c) are not complied with by a person, the exemption does not apply to the person.
 (3) For the purposes of subsection (1),—
