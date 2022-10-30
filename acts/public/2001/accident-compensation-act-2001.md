@@ -1,5 +1,5 @@
 # Accident Compensation Act 2001
-_Consolidation as at 2022-10-01_
+_Consolidation as at 2022-10-30_
 
 ### 1 Title
 This Act is the Accident Compensation Act 2001.
@@ -137,16 +137,14 @@ The transitional, savings, and related provisions set out in Schedule 1AA have e
     (a) means a plan under section 75 that provides for a claimant to receive rehabilitation that will assist in accordance with section 70 in restoring the claimant's health, independence, and participation to the maximum practicable extent; and
     (b) includes an individual rehabilitation programme or individual rehabilitation plan entered into under a former Act
   - **Māori Health Authority** means the Māori Health Authority established by section 17 of the Pae Ora (Healthy Futures) Act 2022
-  - **medical practitioner** means a health practitioner who—
-    (a) is, or is deemed to be, registered with the Medical Council of New Zealand continued by section 114(1)﻿(a) of the Health Practitioners Competence Assurance Act 2003 as a practitioner of the profession of medicine; and
-    (b) holds a current practising certificate
+  - **medical practitioner** means a medical practitioner of a type defined in regulations made under this Act
   - **mental injury** has the meaning set out in section 27
   - **Minister** means, subject to any enactment, the Minister of the Crown who, under the authority of any warrant or with the authority of the Prime Minister, is for the time being responsible for the administration of this Act
-  - **moped** has the meaning given to it in section 2(1) of the Transport (Vehicle and Driver Registration and Licensing) Act 1986
+  - **moped** has the meaning given to it in section 2(1) of the Land Transport Act 1998
   - **motor vehicle** has the same meaning as in section 2(1) of the Land Transport Act 1998
   - **Motor Vehicle Account** means the Account described in section 213
   - **motor vehicle injury** has the meaning set out in sections 29 and 35
-  - **motorcycle** has the meaning given to it in section 2(1) of the Transport (Vehicle and Driver Registration and Licensing) Act 1986
+  - **motorcycle** has the meaning given to it in section 2(1) of the Land Transport Act 1998
   - **Motorcycle Safety levy** means the levy payable under section 214(3)
   - **New Zealand** has the meaning set out in section 16
   - **New Zealand superannuation qualification age** ,—irrespective of whether or not the particular person qualifies for New Zealand superannuation at that or any other age
@@ -366,6 +364,17 @@ The Corporation must treat the earnings of a private domestic worker as earnings
     (ii) is the spouse or partner, child, or other dependant of a person described in paragraph (a) and generally accompanies that person; and
     (iii) is outside New Zealand during the period of employment of the person described in paragraph (a) or for up to 6 months following the completion of it.
 (5) A person is not ordinarily resident in New Zealand if he or she is in New Zealand unlawfully within the meaning of the Immigration Act 2009. Any period during which a person is in New Zealand unlawfully is not counted as time spent in New Zealand for the purposes of subsection (3).
+(6) In this section,—
+  - **child** , in relation to any person referred to in subsection (1)﻿(b)﻿(i) or (ii) or (4)﻿(a),—
+    (a) means a child who, at the date of that child’s injury,—
+      (i) was aged under 18, or was aged under 21 and was in full-time study at a place of education; and
+      (ii) either—
+        (A) was that person’s natural or adopted child; or
+        (B) would ordinarily have been regarded as that person’s child because they were the child of that person’s spouse or partner, and that person acted as their parent; and
+    (b) does not include an other dependant of that person
+  - **other dependant** , in relation to any person referred to in subsection (1)﻿(b)﻿(i) or (ii) or (4)﻿(a), means a dependant who, at the date of that dependant’s injury,—
+    (a) was financially dependent on that person because of the dependant’s mental or physical condition; and
+    (b) was not that person’s spouse, partner, or child.
 
 ### 18 Spouse (and spouse in relation to deceased claimant)
 (1) Spouse means a person (person A) to whom the claimant is legally married.
@@ -565,6 +574,13 @@ This Part uses and defines the following key terms:
 (2A) Subsection (2)﻿(a) does not apply to an accident of the kind described in subsection (1)﻿(f).
 (3) The fact that a person has suffered a personal injury is not of itself to be construed as an indication or presumption that it was caused by an accident.
 
+### 25A Review of operation of Schedule 3A
+(1) As soon as practicable after 1 October 2025, the Minister must,—
+  (a) for the purpose of determining whether any amendments to Schedule 3A are necessary or desirable, review the operation of Schedule 3A in relation to section 25(1)﻿(f) since the date of that commencement; and
+  (b) prepare a report of the review that includes recommendations on whether any amendments to Schedule 3A are necessary or desirable; and
+  (c) present a copy of the report to the House of Representatives.
+(2) In preparing the report, the Minister must consult the parties the Minister thinks appropriate.
+
 ### 26 Personal injury
 (1) Personal injury means—
   (a) the death of a person; or
@@ -573,7 +589,7 @@ This Part uses and defines the following key terms:
   (d) mental injury suffered by a person in the circumstances described in section 21; or
   (da) work-related mental injury that is suffered by a person in the circumstances described in section 21B; or
   (e) damage (other than wear and tear) to dentures or prostheses that replace a part of the human body.
-(1A) Personal injury includes any degree of hearing loss that is 6% or more of binaural hearing loss caused by a personal injury described in section 20(2).
+(1A) Personal injury includes any degree of hearing loss that is 5% or more of binaural hearing loss caused by a personal injury described in section 20(2).
 (1B) Personal injury does not include any degree of hearing loss caused by—
   (a) a personal injury other than a personal injury described in section 20(2); or
   (b) the ageing process; or
@@ -629,6 +645,7 @@ Mental injury means a clinically significant behavioural, cognitive, or psycholo
   (a) suffered by a person; and
   (b) caused by a gradual process, disease, or infection; and
   (c) caused in the circumstances described in subsection (2).
+(1A) Subsection (1)﻿(c) is subject to subsection (2A).
 (1A)
 (2) The circumstances are—
   (a) the person—
@@ -636,11 +653,12 @@ Mental injury means a clinically significant behavioural, cognitive, or psycholo
     (ii) is employed in an environment that has a particular property or characteristic; and
   (b) the particular property or characteristic—
     (i) causes, or contributes to the cause of, the personal injury; and
-    (ii) is not found to any material extent in the non-employment activities or environment of the person; and
+    (ii)
     (iii) may or may not be present throughout the whole of the person's employment; and
-  (c) the risk of suffering the personal injury—
-    (i) is significantly greater for persons who perform the employment task than for persons who do not perform it; or
-    (ii) is significantly greater for persons who are employed in that type of environment than for persons who are not.
+  (c) that, if the particular property or characteristic is present in both the person’s employment tasks or environment and non-employment activities or environment, it is more likely that the person’s personal injury was caused as a result of the employment tasks or environment rather than the non-employment activities or environment.
+(2A) However, even if it is established that a claimant’s personal injury was caused in the circumstances described in subsection (2), the Corporation may decline the claim if the Corporation establishes that the risk of suffering the personal injury is not significantly greater for persons who—
+  (a) perform the employment task than it is for persons who do not perform it; or
+  (b) are employed in that type of environment than it is for persons who are not.
 (2A)
 (3) Personal injury caused by a work-related gradual process, disease, or infection includes personal injury that is—
   (a) of a type described in Schedule 2; and
@@ -1218,7 +1236,7 @@ An occupational assessment must be undertaken by an assessor whom the Corporatio
   (a) take into account information provided by the Corporation and the claimant; and
   (b) discuss with the claimant all the types of work that are available in New Zealand and suitable for the claimant; and
   (c) consider any comments the claimant makes to the assessor about those types of work.
-(1A) In considering the suitability of the types of work referred to in subsection (1)﻿(b), the occupational assessor may take into account, among other things, the claimant’s earnings before the claimant’s incapacity.
+(1A) In considering the suitability of the types of work referred to in subsection (1)﻿(b), the occupational assessor must take into account, among other things, the claimant’s earnings before the claimant’s incapacity.
 (2) The Corporation must provide to an occupational assessor all information the Corporation has that is relevant to an initial occupational assessment.
 
 ### 92 Report on initial occupational assessment
@@ -1514,6 +1532,7 @@ If the Corporation determines under section 107 that a claimant has vocational i
 (3) Subsection (1) does not apply if the personal injury or death was the result of—
   (a) mental injury suffered because of physical injuries suffered by the claimant for which he or she had cover; or
   (b) mental injury suffered by the claimant in the circumstances described in section 21 or 21B.
+(4) Subsection (1) does not apply if the death was the result of assisted dying in accordance with the End of Life Choice Act 2019.
 
 ### 120 Disentitlement for conviction for murder
 (1) The Corporation must not provide any entitlement under Part 4 of Schedule 1 to a claimant if the claimant—
@@ -2102,7 +2121,7 @@ Nothing in this Act requires a self-employed person to pay a Work Account levy o
 ### 173 Estimation of levy
 (1) The Corporation may require an employer to pay a levy based on the Corporation's reasonable estimate of the levy payable by the employer for part or all of the prescribed period.
 (2) In that event, the Corporation must, as soon as practicable after the end of the period to which the Corporation's requirement relates, calculate the amount of levy actually payable by the employer for the part or all of the prescribed period and—
-  (a) refund any amount greater than $20 that is overpaid, together with (if that amount exceeds $1,000) interest on that amount at the rate prescribed by regulations made under this Act; or
+  (a) refund any amount greater than $20 that is overpaid, together with (if that amount exceeds $1,000) interest on that amount at the rate prescribed by regulations or the rate as calculated by the method prescribed by regulations made under this Act; or
   (b) require the employer to pay any amount greater than $20 that is outstanding.
 (3) The Corporation must not issue an invoice arising from a recalculation under subsection (2) unless the amount invoiced is greater than $20.
 
@@ -2975,7 +2994,7 @@ All money received by the Corporation for injury prevention purposes under secti
 (4) The returns generated by the activities of any Crown entity subsidiary must be applied by the Corporation on a basis determined in the statement of intent under section 272 or (in the absence of such a determination) in a policy direction under section 103 of the Crown Entities Act 2004.
 
 ### 267 Board of Corporation
-(1) The Board of the Corporation consists of not more than 8 members appointed by the Minister under section 28(1)﻿(a) of the Crown Entities Act 2004.
+(1) The Board of the Corporation consists of not more than 9 members appointed by the Minister under section 28(1)﻿(a) of the Crown Entities Act 2004.
 (2) A person is not interested in a matter for the purposes of section 62(2) of the Crown Entities Act 2004 only because he or she is a taxpayer or private motorist.
 (3)
 (4)
@@ -3720,6 +3739,7 @@ A person who commits an offence against this Act or any regulations made under i
   (f) prescribing classifications, and categories of earners, for levy purposes:
   (g) prescribing classifications of industries and risks for the purposes of section 170:
   (h) specifying the threshold that must be met for the purpose of multiple classification in section 170, being a threshold based on the liable earnings of groups of employees or the overall levy payable by the employer:
+  (ha) prescribing the rate of interest payable on any amount exceeding $1,000 under section 173(2)﻿(a) or the method by which the rate is to be calculated:
   (i) prescribing the rate of interest payable on any amount under section 250(3) and the method by which the prescribed rate is to be applied (for example, 7.5% compounding monthly on the outstanding amount unpaid):
   (j) providing for levy adjustments and any matters relating to audits of safety management practices referred to in section 175(7):
   (k) prescribing, in relation to the levy payable under section 213(2)﻿(c),—
@@ -4434,6 +4454,28 @@ Section 17(4) (as amended by the 2019 Act) applies between 1 July 1999 and the c
 (4) A member of the Authority is entitled to be paid reasonable remuneration, fees, or salary for the member’s work in completing a matter-in-process, and any related allowances and expenses.
 (5) The Ministry of Justice must continue to provide support services to the Authority to the extent that those services are required to complete the matters-in-process.
 
+### Part 3 — Provisions relating to Accident Compensation (Maternal Birth Injury and Other Matters) Amendment Act 2022
+
+### 8 Interpretation
+In this Part, amendment Act means the Accident Compensation (Maternal Birth Injury and Other Matters) Amendment Act 2022.
+
+### 9 Assessment of vocational independence
+An assessment of a claimant’s vocational independence that has been commenced, but not determined, before the commencement of this clause must, on or after that commencement, be considered and determined as if sections 10 and 17(1) of the amendment Act had not been enacted.
+
+### 10 Claims for personal injury including hearing loss that have been lodged but not decided
+(1) This clause applies if, before the commencement of this clause,—
+  (a) a person has suffered a personal injury that includes any degree of hearing loss caused by a personal injury described in section 20(2); and
+  (b) the person has lodged a claim with the Corporation under section 48 in respect of the personal injury; and
+  (c) the Corporation has not made a decision on the claim.
+(2) On or after the commencement of this clause, the Corporation must make a decision on the claim as if section 8 of the amendment Act had not been enacted.
+
+### 11 Claims for personal injury caused by work-related gradual process, disease, or infection that have been lodged but not decided
+(1) This clause applies if, before the commencement of this clause,—
+  (a) a person has suffered a personal injury caused by work-related gradual process, disease, or infection described in section 30; and
+  (b) the person has lodged a claim with the Corporation under section 48 in respect of the personal injury; and
+  (c) the Corporation has not made a decision on the claim.
+(2) On or after the commencement of this clause, the Corporation must make a decision on the claim as if section 9 of the amendment Act had not been enacted.
+
 ## Schedule 1 — Entitlements
 
 ### Part 1 — Rehabilitation
@@ -4793,7 +4835,7 @@ An occupational assessment must be undertaken by an assessor whom the Corporatio
   (b) consider the individual rehabilitation plan prepared for the claimant and review the vocational rehabilitation carried out under the plan; and
   (c) discuss with the claimant all the types of work that the assessor identifies as suitable for the claimant; and
   (d) consider any comments the claimant makes to the assessor about those types of work.
-(1A) In considering the suitability of the types of work referred to in subclause (1)﻿(c), the occupational assessor may take into account, among other things, the claimant’s earnings before the claimant’s incapacity.
+(1A) In considering the suitability of the types of work referred to in subclause (1)﻿(c), the occupational assessor must take into account, among other things, the claimant’s earnings before the claimant’s incapacity.
 (2) The Corporation must provide to an occupational assessor all information the Corporation has that is relevant to an occupational assessment.
 
 ### 26 Report on occupational assessment
@@ -4857,6 +4899,12 @@ If the Corporation is determining earnings under this Part in relation to a self
   (b) the Corporation considers that the return, and any related accounts, have not been unreasonably influenced by—
     (i) the fact of the claimant's incapacity; or
     (ii) the effects or likely effects of the incapacity on the claimant's income or business activities.
+
+### 31A Use of employment income information in determining earnings
+(1) The Corporation, for the purposes of calculating a claimant’s earnings for any period under this Part, may take into account the claimant’s most recent pre-incapacity employment income information available from the Inland Revenue Department.
+(2) Subclause (1) applies even if that information does not relate to the period immediately before the claimant’s incapacity commenced.
+(3) Subclauses (1) and (2) do not affect a claimant’s right under section 134 to apply for a review of the Corporation’s decision as to the amount payable to the claimant for weekly compensation, based on their actual earnings.
+(4) In this Part, employment income information has the same meaning as in section 3(1) of the Tax Administration Act 1994.
 
 **Corporation to pay weekly compensation after first week of incapacity**
 
@@ -5034,15 +5082,19 @@ If the Corporation is determining earnings under this Part in relation to a self
   (b) had weekly earnings calculated under clause 41 or, if that clause does not apply, under any of clauses 34, 36, 38, or 39 of less than the minimum weekly earnings as determined under subclause (3); and
   (c) is incapacitated for more than 5 weeks after the incapacity first commenced.
 (2) For the purpose of calculating weekly compensation for loss of earnings payable to the claimant for any period after the 5-week period, the claimant is deemed to have had, immediately before his or her incapacity commenced, the minimum weekly earnings as determined under subclause (3).
-(3) The minimum weekly earnings are—
-  (a) for a person under 18 years of age, the amount as at 1 July each year which is the greater of—
-    (i) the minimum weekly adult rate prescribed under section 4 of the Minimum Wage Act 1983; or
-    (ii) 125% of the rate for a single person under the age of 18 years and without dependent children of supported living payment under the Social Security Act 2018; or
-    (iii) the higher of the amounts calculated under subparagraphs (i) and (ii) as at 1 July in the preceding year.
-  (b) for a person 18 years of age or over, the amount as at 1 July each year which is the greater of—
-    (i) the minimum weekly adult rate prescribed under section 4 of the Minimum Wage Act 1983; or
-    (ii) 125% of the rate for a single person over the age of 18 years and without dependent children of supported living payment under the Social Security Act 2018; or
-    (iii) the higher of the amounts calculated under subparagraphs (i) and (ii) as at 1 July in the preceding year.
+(3) The minimum weekly earnings are,—
+  (a) for a person under the age of 18 years, the amount as at each assessment date that is the greatest of—
+    (i) the minimum weekly adult rate prescribed under section 4 of the Minimum Wage Act 1983; and
+    (ii) 125% of the rate of the supported living payment for a single person under the age of 18 years without dependent children under the Social Security Act 2018; and
+    (iii) the greater of the amounts calculated under subparagraphs (i) and (ii) as at the date of the preceding assessment.
+  (b) for a person 18 years of age or over, the amount as at each assessment date that is the greatest of—
+    (i) the minimum weekly adult rate prescribed under section 4 of the Minimum Wage Act 1983; and
+    (ii) 125% of the rate of the supported living payment for any other single person without dependent children under the Social Security Act 2018; and
+    (iii) the greater of the amounts calculated under subparagraphs (i) and (ii) as at the date of the preceding assessment.
+(4) In subclause (3), assessment date means the most recent of the following dates that results in a greater amount being calculated under paragraph (a) or (b) of that subclause (as applicable):
+  (a) the date on which the current order prescribing the rate of the supported living payment for a single person under the age of 18 years without dependent children under the Social Security Act 2018 came into force; and
+  (b) the date on which the current order prescribing the rate of the supported living payment for any other single person without dependent children under the Social Security Act 2018 came into force; and
+  (c) the date on which the current order prescribing the minimum wage made under section 4 of the Minimum Wage Act 1983 came into force.
 (4)
 (5)
 (6)
@@ -5176,6 +5228,7 @@ If the Corporation is determining earnings under this Part in relation to a self
   (b) employment includes employment whether in New Zealand or overseas.
 (5) Payments made in an overseas currency must be treated as having been converted into New Zealand currency at the average rate of foreign exchange offered, at the date of payment, by registered banks in New Zealand.
 (6) In clause 51(2), earnings includes payments of earnings compensation under the Compensation for Live Organ Donors Act 2016.
+(7) In clause 51(2), earnings does not include payments of weekly compensation and weekly income compensation under the Veterans’ Support Act 2014.
 
 ### 50 Estimation for abatement purposes of earnings that cannot be ascertained
 (1) This clause applies to a claimant who has—
