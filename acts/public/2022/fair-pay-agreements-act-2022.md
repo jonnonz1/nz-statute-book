@@ -2383,7 +2383,7 @@ Despite the expiry date specified in a fair pay agreement, if a party applies fo
 (1) After receiving an application for approval to initiate bargaining for a proposed renewal or a proposed replacement, the chief executive must—
   (a) assess the application; and
   (b) as soon as practicable, notify the applicant in writing whether or not the chief executive has approved the application.
-(2) For the purpose of subsection (1), sections 31(1)﻿(a)﻿(i) and (1)﻿(b), 32, 33(1), (2), (2), and (3)﻿(b)﻿(i) and (ii), 34, 35, and 36 apply with all necessary modifications, including that—
+(2) For the purpose of subsection (1), sections 31(1)﻿(a)﻿(i) and (1)﻿(b), 32, 33(1), (2), and (3)﻿(b)﻿(i) and (ii), 34, 35, and 36 apply with all necessary modifications, including that—
   (a) references to the union must be read as references to the applicant; and
   (b) the application relates to bargaining for the proposed renewal or the proposed replacement, rather than to bargaining for a proposed FPA.
 (3) The chief executive may, for the purpose of verifying information the applicant has provided under section 203(2) or (3) or 204, require the applicant to provide information, of a type prescribed in regulations, in relation to—
@@ -2402,7 +2402,7 @@ Despite the expiry date specified in a fair pay agreement, if a party applies fo
   (b) notify each bargaining party to the fair pay agreement of the chief executive’s approval of the application.
 (2) A notification under subsection (1)﻿(a) or (b) must comply with the requirements of section 37 with the following modifications:
   (a) the references to a proposed FPA must be read as references to a proposed renewal or a proposed replacement:
-  (b) section 37(2)﻿(a)﻿(ii) does not apply.
+  (b) section 37(2)﻿(b) does not apply.
 (3) The chief executive must comply with subsection (1) within 5 working days of approving the application.
 
 ### 208 Notification of bargaining for proposed renewal or proposed replacement
@@ -2772,7 +2772,7 @@ When recommending terms of a proposed agreement or a proposed variation under se
     (i) assessed for coverage overlap under section 146(2); and
     (ii) checked and, if applicable, assessed for coverage overlap under subpart 4 of Part 8; and
     (iii) validated under subpart 5 of Part 8.
-(2) If, when the Authority assesses terms for coverage overlap as required by subsection (1)﻿(b)﻿(ia) and (ii), the Authority decides there is coverage overlap,—
+(2) If, when the Authority assesses terms for coverage overlap as required by subsection (1)﻿(b)﻿(i) and (ii), the Authority decides there is coverage overlap,—
   (a) it must—
     (i) determine, in accordance with section 149, which agreement provides the better terms overall; and
     (ii) notify the bargaining sides for the agreements which agreement provides the better terms overall, no later than 20 working days after deciding that there is coverage overlap; and
