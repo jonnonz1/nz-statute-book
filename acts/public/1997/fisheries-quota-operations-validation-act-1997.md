@@ -1,5 +1,5 @@
 # Fisheries (Quota Operations Validation) Act 1997
-_Consolidation as at 2021-10-28_
+_Consolidation as at 2022-11-01_
 
 > An Act to confirm and validate certain matters in relation to the quota management system
 
