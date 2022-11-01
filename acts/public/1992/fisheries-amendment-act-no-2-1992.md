@@ -1,5 +1,5 @@
 # Fisheries Amendment Act (No 2) 1992
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2022-11-01_
 
 > An Act—aTo make better provision for the enhancement and management of the Southern Scallop Fishery; andbTo make better provision for the recognition of Maori fishing rights; andcTo facilitate the entry of Maori into, and the development by Maori of, the business and activity of fishing; anddTo amend the Fisheries Act 1983 and the Maori Fisheries Act 1989
 
@@ -35,7 +35,7 @@ This section amended s 28U of the principal Act.
 
 ### 9 Fish subject to quota fishing cannot be taken for sale other than under quota
 (1) This subsection amended s 28ZA(2B) of the principal Act.
-(2) This subsection inserted s 28ZA(4)(d) of the principal Act.
+(2) This subsection inserted s 28ZA(4)﻿(d) of the principal Act.
 (3) This subsection amended s 28ZA(4) of the principal Act.
 (4) Subsections (2) and (3) of this section shall be deemed to have come into force on the 1st day of October 1990.
 
@@ -60,10 +60,10 @@ This section inserted a new Part 2B into the principal Act.
 ### 14 Declaration of controlled fisheries
 (1) Consolidated
 (2) Section 11 of the Fisheries Amendment Act 1986 is hereby consequentially repealed.
-(3) Every Order in Council made under section 30(6) of the principal Act (as it read immediately before the commencement of this Act) shall have effect as if it were an order made under section 30(6)(b) of the principal Act (as substituted by subsection (1) of this section).
+(3) Every Order in Council made under section 30(6) of the principal Act (as it read immediately before the commencement of this Act) shall have effect as if it were an order made under section 30(6)﻿(b) of the principal Act (as substituted by subsection (1) of this section).
 
 ### 15 Records and returns
-This section amended s 66(1)(b) of the principal Act.
+This section amended s 66(1)﻿(b) of the principal Act.
 
 ### 16 Regulations
 This section amended s 89 of the principal Act.
@@ -75,13 +75,13 @@ This section inserted s 104A of the principal Act.
 This section amended s 105A(2) of the principal Act.
 
 ### 19 Certificates and official documents
-This section amended s 106(1)(a)(vi) of the principal Act.
+This section amended s 106(1)﻿(a)﻿(vi) of the principal Act.
 
 ### 20 Forfeiture of property and quota on conviction
 This section amended s 107B of the principal Act.
 
 ### 21 Variation of resource rentals
-This section amended s 107G(1)(a) of the principal Act.
+This section amended s 107G(1)﻿(a) of the principal Act.
 
 ### 22 Amounts payable under Act recoverable as statutory debts
 This section inserted s 107I of the principal Act.
