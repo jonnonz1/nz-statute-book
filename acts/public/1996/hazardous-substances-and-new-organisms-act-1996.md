@@ -1,5 +1,5 @@
 # Hazardous Substances and New Organisms Act 1996
-_Consolidation as at 2022-07-01_
+_Consolidation as at 2022-11-01_
 
 > An Act to restate and reform the law relating to the management of hazardous substances and new organisms
 
@@ -95,7 +95,7 @@ _Consolidation as at 2022-07-01_
   - **EPA control** —
     (a) means any control imposed by the Authority under this Act for the purpose of controlling the adverse effects of hazardous substances on people or on the environment; and
     (b) includes, but is not limited to, classification controls, content controls, disposal controls, and ecotoxic controls
-  - **EPA notice** means a notice issued by the Authority under Part 6 or under any other provision of this Act that applies section 76C
+  - **EPA notice** means a notice issued in the Gazette by the Authority under Part 6, or under any provision of this Act that applies section 76C, except a notice issued under section 76E
   - **explosive** means capable of sudden expansion owing to a release of internal energy; and includes the capability to generate—and has a corresponding meaning
     (a) deflagration; or
     (b) pyrotechnic effects,—
@@ -148,6 +148,7 @@ _Consolidation as at 2022-07-01_
     (a) has the meaning given to it in section 72(1) of the Agricultural Compounds and Veterinary Medicines Act 1997; and
     (b) includes an innovative agricultural compound application (as defined in section 72 of that Act as in force immediately before the commencement of the Agricultural Compounds and Veterinary Medicines Amendment Act 2016)
   - **inseparable organism** means any organism which is unable to be separated from any other organism
+  - **international regulator** means an overseas body recognised by a notice issued under section 76E
   - **intrinsic values** , in relation to ecosystems, means those aspects of ecosystems and their constituent parts which have value in their own right, including—
     (a) their biological and genetic diversity; and
     (b) the essential characteristics that determine an ecosystem's integrity, form, functioning, and resilience
@@ -191,6 +192,7 @@ _Consolidation as at 2022-07-01_
   - **railway line** has the same meaning as in section 4(1) of the Railways Act 2005
   - **regional council** means a regional council within the meaning of the Local Government Act 2002
   - **regulations** means regulations in force under this Act
+  - **related chemicals or substances** means chemicals or substances with the same or very similar active ingredients
   - **release** , in relation to new organisms, means to allow the organism to move within New Zealand free of any restrictions other than those imposed in accordance with the Biosecurity Act 1993 or the Conservation Act 1987
   - **research and development** , in relation to a hazardous substance, means systematic investigation or experimentation activities that involve the hazardous substance
   - **responsible chief executive** means the chief executive of the Authority and the chief executive of the department for the time being responsible for the administration of the Medicines Act 1981 or the Agricultural Compounds and Veterinary Medicines Act 1997, as the case may be
@@ -269,8 +271,8 @@ _Consolidation as at 2022-07-01_
 (10) The Judge may hold the inquiry at any times and places the Judge appoints, and shall report on the cause of the incident to the Authority.
 (11) The Judge has all the powers of a Commission of Inquiry under the Commissions of Inquiry Act 1908; and subject to subsections (9) and (10), that Act shall apply accordingly.
 
-### 3A Transitional and savings provisions relating to amendments to Act
-The transitional and savings provisions set out in Schedule 7, which relate to amendments made to this Act by the Hazardous Substances and New Organisms Amendment Act 2015, have effect for the purposes of this Act.
+### 3A Transitional, savings, and related provisions
+The transitional, savings, and related provisions set out in Schedule 7 have effect according to their terms.
 
 ## Part 2 — Purpose of Act
 
@@ -327,7 +329,7 @@ All persons exercising powers and functions under this Act shall take into accou
     (iii) the consideration and investigation of the use of environmental user charges in accordance with section 96:
   (b) monitor and review—
     (i) the extent to which the Act reduces adverse effects on the environment or people from hazardous substances or new organisms:
-    (ii) the enforcement of this Act including, but not limited to, the exercise of any power under section 103 by any enforcement officer:
+    (ii) the enforcement of this Act including, but not limited to, the exercise of any power under section 103 or 103A by any enforcement officer:
   (ba) carry out its enforcement functions under this Act:
   (bb) issue certificates in accordance with section 82 and revoke certificates in accordance with section 82C:
   (c) promote awareness of the adverse effects of hazardous substances and new organisms on people or the environment and awareness of the prevention or safe management of those effects:
@@ -391,6 +393,7 @@ A committee or subcommittee appointed for the purpose of section 19(2)﻿(b) mus
 (1) The Authority may, in writing, delegate to any person, whether or not that person is a member of the Authority, any of the Authority's functions, powers, or duties under this Act, on such conditions as the Authority thinks fit, except—
   (a) the fixing of charges under section 21; and
   (ab) the issuing of an EPA notice; and
+  (ac) the issuing of a notice under section 76E; and
   (b) any power that may be delegated under subsection (2); and
   (c) this power of delegation.
 (2) The Authority may delegate in writing, on such terms and conditions as the Authority thinks fit,—
@@ -405,6 +408,7 @@ A committee or subcommittee appointed for the purpose of section 19(2)﻿(b) mus
     (i) any employee of a person specified in section 97 with relevant experience; or
     (ii) if there is no employee with relevant experience, any other person with relevant experience, whether or not that person is a member of the Authority:
   (cb) the power to decide any application under section 28, if it is not publicly notified under section 53(2), to its chief executive:
+  (cc) the power to decide any application under section 63D, if it is not publicly notified under section 53(2) or required to be consulted on by section 53AA(4), to its chief executive:
   (d) the power to conduct a rapid assessment under section 28A to its chief executive:
   (e) the power to hear and decide any application made under section 31 to its chief executive:
   (f)
@@ -449,6 +453,26 @@ A committee or subcommittee appointed for the purpose of section 19(2)﻿(b) mus
   (c) the hazardous substance that the exposure limit will apply to:
   (d) if the exposure limit applies to any element or compound making up the hazardous substance, the element or compound that the exposure limit will apply to.
 (3) Every person has the right to inspect the register during the ordinary office hours of the Authority.
+
+### 20B Publication of decisions
+(1) If the Authority makes a decision under Part 5 or 6A in respect of any application (including a request under section 62), the Authority must—
+  (a) give its decision in writing, including reasons for the decision; and
+  (b) give a copy of the decision to the applicant and every person who made a submission; and
+  (c) give public notice of the decision as soon as practicable after the decision is made.
+(2) The Authority may withhold any information relating to transhipment applications from a public notice under this section if, in its opinion, the information could pose a risk to national safety and security.
+
+### 20C Reassessments work plan
+(1) The Authority must, within 12 months of the commencement of this section, develop a work plan that sets the priorities for reassessments of hazardous substances that are requested by the chief executive of the Authority.
+(2) When developing or updating a work plan, the Authority must take into account the criteria set out in section 62(2)﻿(a) to (d).
+(3) The work plan must include—
+  (a) a list of substances or groups of related chemicals or substances to be reassessed; and
+  (b) indicative time frames for the start of work by the Authority to reassess each of the listed substances or groups.
+(4) The Authority must ensure that the work plan—
+  (a) gives highest priority to the following:
+    (i) hazardous substances that are prohibited from use under section 64:
+    (ii) hazardous substances that are subject to restriction under section 64A; and
+  (b) is made available, free of charge, on an Internet site maintained by or on behalf of the Authority; and
+  (c) is updated no less than once each calendar year.
 
 ### 21 Charges
 (1) The Authority may from time to time, by notice,—
@@ -596,10 +620,15 @@ In this Act, the term approval means any of the following:
 (1) When the Authority receives an application under section 28 in respect of a hazardous substance, and the applicant has verified the information contained in the application by statutory declaration, the Authority may make a rapid assessment of the adverse effects of importing or manufacturing the substance.
 (2) The Authority may approve a hazardous substance under this section if the Authority is satisfied that—
   (a) a substance having a similar composition and similar hazardous properties has been approved; or
+  (ab) the use of the same substance or a substance having a similar composition and similar hazardous properties has been lawfully authorised by an international regulator; or
   (b) the substance has 1 or more hazardous properties and each hazardous property has the least degree of hazard for that property; or
   (c) the substance has been formulated so that 1 or more of its hazardous properties has a lesser degree of hazard than any substance that has been approved under this Act.
 (3) Sections 77, 77A, and 77B apply to a hazardous substance approved by the Authority under this section as if the approval had been given under section 29.
 (4) If the Authority does not approve a hazardous substance under this section, the application under section 28 may be determined under section 29.
+(5) An applicant relying on subsection (2)﻿(ab) must provide the Authority with evidence of their right to use the information relied on in the application.
+(6) The Authority must not make a rapid assessment under subsection (2)﻿(ab) if the Authority considers the application will have—
+  (a) significant cultural, economic, environmental, ethical, health, or international effects; or
+  (b) significant effects in an area in which the Authority lacks sufficient knowledge or expertise.
 
 ### 29 Determination of applications
 (1) After considering any application for approval made under section 28 the Authority may, in its discretion,—
@@ -613,7 +642,7 @@ In this Act, the term approval means any of the following:
     (iii) the likely effects of the substance being unavailable,—
   (c) decline the application if insufficient information is available to enable the Authority to determine the adverse effects of the substance.
 (2) The provisions of sections 77, 77A, and 77B shall apply to any substance approved by the Authority under subsection (1).
-(3) The Authority shall give its decision in writing, including reasons for the decision, give written notice of the decision to the applicant and every person who made a submission, and publicly notify it.
+(3)
 
 ### 29A Approvals for innovative agricultural compounds and medicines
 [Repealed]
@@ -657,7 +686,7 @@ The Authority may approve the manufacture or importation of any hazardous substa
 (2) An approval under this section—
   (a) must include controls that provide for each of the applicable matters specified in Schedule 3; and
   (b) may include controls that provide for any other matters in order to give effect to the purpose of this Act.
-(3) The Authority shall give its decision, in writing, including reasons for the decision, give written notice of the decision to the applicant and every person who made a submission, and publicly notify it.
+(3)
 
 ### 33 Exemptions from Act for small-scale research on hazardous substances
 (1) Nothing in this Act applies to any small-scale use of hazardous substances in research and development or teaching if—
@@ -738,7 +767,7 @@ The Authority, when making a decision under section 38, shall have regard to—
   (b) the Authority, following an application by any person before the expiry of the time limit, extends the time limit for a further period of up to 5 years.
 (3A) However, subsection (3) does not apply to an approval under this section that takes effect on the expiry of a conditional release approval.
 (4) Every person who releases an organism in accordance with an approval given under this section within 5 years after the date of that approval shall, unless the requirement is waived by the Authority, notify the Authority within 1 month after the date of release.
-(5) The Authority shall give its decision in writing, including reasons for the decision, give written notice of the decision to the applicant and every person who made a submission, and publicly notify it.
+(5)
 
 **Conditional release of new organisms**
 
@@ -979,7 +1008,7 @@ The Authority, when making a decision under section 45, on an application made u
 (2) An approval under this section—
   (a) must include controls that provide for each of the applicable matters specified in Schedule 3; and
   (b) may include controls that provide for any other matters in order to give effect to the purpose of this Act.
-(3) The Authority shall give its decision in writing, including reasons for the decision, give written notice of the decision to the applicant and every person who made a submission, and publicly notify the decision.
+(3)
 (4) In taking into account the adverse effects of the organism under subsection (1)﻿(a)﻿(ii), the Authority must take into account—
   (a) the adverse effects (if any) of having the organism and any inseparable organism in containment; and
   (b) the probability that the organism may escape after considering all the controls to which the organism would be subject if the application were approved; and
@@ -1039,7 +1068,7 @@ The Authority may, for a deemed approval under section 255,—
     (i) the measures which must be taken to avoid, remedy, or mitigate any actual or potential adverse effects from the use of that substance or organism:
     (ii) the requirements for the disposal of the hazardous substance and any waste products:
     (iii) the requirements for the eradication or control of any new organism.
-(3) The Authority shall give its decision in writing, including reasons for the decision, give written notice of the decision to the applicant, and publicly notify it.
+(3)
 
 ### 49 Exemptions from provisions of Act in emergencies
 Subject to sections 49A to 50, nothing in this Act shall apply to any hazardous substance or new organism required for use in an emergency where—was not foreseeable.
@@ -1214,13 +1243,29 @@ On the expiry of an approval under section 49F that relates to a hazardous subst
   (c) the place where the application and accompanying information may be viewed, and the address for service of the Authority and the applicant unless that information has been withheld—
     (i) in accordance with the Official Information Act 1982; or
     (ii) in accordance with this Act.
-(4) The Authority shall, upon receipt of the application, notify—
-  (a) the Minister; and
-  (b) any department as defined in section 5 of the Public Service Act 2020 and any Crown entity which, in the opinion of the Authority, is likely to have an interest in the application; and
-  (c) if the application is an application for approval of a new organism,—
+(4) The Authority must notify the Minister when it receives an application that—
+  (a) is required to be publicly notified; or
+  (b) the Authority decides to publicly notify.
+
+### 53AA Notification and consultation for applications under Part 5
+(1) The Authority must, when it receives an application made under a provision in Part 5, notify—
+  (a) any department or Crown entity that, in the opinion of the Authority, is likely to have an interest in the application; and
+  (b) if the application is an application for approval of a new organism,—
     (i) the Department of Conservation; and
-    (ii) any local authority (within the meaning of the Local Government Act 2002) if, in the opinion of the Authority, the local authority is likely to have an interest in the application; and
-  (d) if the application is an application for approval of a hazardous substance, WorkSafe.
+    (ii) any local authority if, in the opinion of the Authority, the local authority is likely to have an interest in the application; and
+  (c) if the application is an application for approval of a hazardous substance, WorkSafe.
+(2) Subsections (3) to (6) apply to all applications under sections 63A, 63C, and 63D.
+(3) The Authority may reassess an application under section 63A, 63C, or 63D without publicly notifying the reassessment in accordance with section 53.
+(4) The Authority must consult in accordance with subsection (5) if the Authority—
+  (a) does not publicly notify an application in accordance with section 53; and
+  (b) considers that the application will have—
+    (i) significant cultural, economic, environmental, ethical, health, or international effects; or
+    (ii) significant effects in an area in which the Authority lacks sufficient knowledge or expertise.
+(5) The Authority must—
+  (a) do everything reasonably practicable on its part to consult all persons who, in its opinion, are likely to be directly affected by the reassessment; and
+  (b) give those persons a reasonable opportunity to make submissions and comments to the Authority on the reassessment; and
+  (c) consider all submissions and comments received before approving or declining the application.
+(6) If the Authority is not required to consult by subsection (4), the Authority may consult any person before approving or declining the application.
 
 ### 53A Method of public notification
 [Repealed]
@@ -1315,6 +1360,18 @@ Any information withheld from any person in accordance with section 9(2)﻿(b) o
   (b) that provision as incorporated into the Comprehensive and Progressive Agreement for Trans-Pacific Partnership, done at Santiago, Chile, on 8 March 2018, by Article 1.1 of that agreement.
 (9) Subsection (4) does not apply where the Authority is acting under subsection (5) for the purposes of subsection (6).
 
+### 59A Joint processing and decision making on related applications
+(1) This section applies if—
+  (a) the Authority receives related applications; and
+  (b) at least 1 of the applications is publicly notified in accordance with section 53 or required to be consulted on by section 53AA(4); and
+  (c) the Authority considers that decisions on the applications should be made on the same date.
+(2) The Authority may extend a time period that applies to the processing of the related applications to ensure that—
+  (a) they are heard (if more than 1 application is to be heard) at the same time and place; and
+  (b) decisions on the applications are made on the same date.
+(3) However, the Authority may not extend the time period beyond the latest date that applies to the related applications.
+(4) In this section, related applications means applications in respect of hazardous substances (whether or not they have been approved or deemed to be approved) that are, or include, related chemicals or substances.
+  - ****
+
 ### 60 Obligation to hold hearing
 A hearing of any application need not be held unless—
   (a) the Authority considers that a hearing is necessary; or
@@ -1336,20 +1393,22 @@ A hearing of any application need not be held unless—
 (8) At the hearing, the applicant and any person who made submissions and stated that they wished to be heard may speak (either personally or through a representative) and call evidence.
 (9) Where any person who has stated that he or she wished to be heard fails to appear at the hearing, the Authority may nevertheless proceed with the hearing if it considers it fair and reasonable to do so.
 
-### 62 Grounds for reassessment of a substance or organism
-(1) —may at any time request the Authority to decide whether there are grounds for reassessing any new organism in containment, any conditionally released new organism, any qualifying organism released with controls, or any hazardous substance where that organism or substance has previously been assessed by the Authority.
-  (a) any person; or
-  (b) the chief executive of the Authority—
-(2) Where any request has been made under subsection (1), the Authority may decide that grounds exist to reassess that substance or organism after taking into account that—
-  (a) significant new information relating to the effects of the substance or the organism has become available; or
-  (aa) a change in any controls under the Health and Safety at Work Act 2015; or
-  (b) another substance with similar or improved beneficial effects and reduced adverse effects has become available; or
-  (c) information showing a significant change of use, or a significant change in the quantity manufactured, imported, or developed has become available.
-(3) The Authority shall give its decision under subsection (2) in writing, with reasons, to the applicant.
-(4) For the purposes of subsection (1), assessed by the Authority means a decision under any of sections 28A, 29, 32, 38BA, 38C, 38I, 42, 42A, 42B, 42C, 45 or 48 or a decision by the Minister under section 73, or a deemed assessment under section 160A.
+### 62 Grounds for reassessment of substance or organism
+(1) Any person (including the chief executive of the Authority) may at any time request the Authority to decide whether there are grounds for reassessing any of the following where the organism or substance has previously been assessed by the Authority:
+  (a) any new organism in containment:
+  (b) any conditionally released new organism:
+  (c) any qualifying organism released with controls:
+  (d) any hazardous substance.
+(2) If a request has been made under subsection (1), the Authority may decide that grounds exist to reassess the organism or substance after taking into account—
+  (a) that significant new information relating to the effects of the organism or substance has become available; or
+  (b) any change in controls under the Health and Safety at Work Act 2015; or
+  (c) that another substance with similar or improved beneficial effects and reduced adverse effects has become available; or
+  (d) that information showing a significant change of use, or a significant change in the quantity manufactured, imported, or developed, has become available; or
+  (e) whether the substance has been included in the reassessments work plan required by section 20C.
+(3) For the purposes of subsection (1), assessed by the Authority means a decision under any of sections 28A, 29, 32, 38BA, 38C, 38I, 42, 42A, 42B, 42C, 45, and 48 or a decision by the Minister under section 73, or a deemed assessment under section 160A.
 
 ### 63 Reassessment
-(1) Any person or the chief executive of the Authority may request the Authority to proceed with a reassessment following a decision under section 62(2).
+(1) Any person (including the chief executive of the Authority) may request the Authority to proceed with a reassessment following a decision under section 62(2).
 (2) A reassessment under this section shall be deemed to be an application and shall be publicly notified in accordance with section 53 and—
   (a) section 29 and sections 54 to 61 shall apply with all necessary modifications to a reassessment of a hazardous substance approved under section 28A or section 29:
   (b) sections 30 and 32 shall apply with all necessary modifications to a reassessment of a hazardous substance approved under section 32:
@@ -1366,12 +1425,9 @@ A hearing of any application need not be held unless—
 (2) A reassessment under this section—
   (a) may vary the EPA controls that attach to a hazardous substance, or the description of a hazardous substance, or both; but
   (b) may not revoke an approval given to a hazardous substance under this Act to import or manufacture the substance.
-(3) A reassessment under this section is deemed to be an application, and sections 55 to 61 apply with all necessary modifications.
-(4) The Authority may reassess a hazardous substance under this section without publicly notifying the reassessment in accordance with section 53.
-(5) If the Authority does not publicly notify the reassessment in accordance with section 53, the Authority must—
-  (a) do everything reasonably practicable on its part to consult with all persons who, in its opinion, may be affected by the reassessment; and
-  (b) give those persons a reasonable opportunity to make submissions and comments to the Authority on the reassessment; and
-  (c) consider all submissions and comments received.
+(3) A reassessment under this section is deemed to be an application, and sections 53AA and 55 to 61 apply with all necessary modifications.
+(4)
+(5)
 (6) The Authority may approve or decline an application for reassessment under this section as it considers appropriate after taking into account—
   (a) all the effects associated with the reassessment; and
   (b) the best international practices and standards for the safe management of hazardous substances.
@@ -1398,12 +1454,9 @@ A hearing of any application need not be held unless—
     (ii) the description of a hazardous substance:
     (iii) the hazard classification of a hazardous substance; but
   (b) may not revoke an approval given to import or manufacture a hazardous substance under this Act.
-(3) A reassessment under this section is deemed to be an application, and sections 55 to 61 apply with all necessary modifications.
-(4) The Authority may reassess a hazardous substance under this section without publicly notifying the reassessment in accordance with section 53.
-(5) If the Authority does not publicly notify the reassessment in accordance with section 53, the Authority must—
-  (a) do everything reasonably practicable on its part to consult with all persons who, in its opinion, may be affected by the reassessment; and
-  (b) give those persons a reasonable opportunity to make submissions and comments to the Authority on the reassessment; and
-  (c) consider all submissions and comments received.
+(3) A reassessment under this section is deemed to be an application, and sections 53AA and 55 to 61 apply with all necessary modifications.
+(4)
+(5)
 (6) The Authority may approve or decline an application for reassessment under this section as it considers appropriate after taking into account—
   (a) all the effects associated with the reassessment; and
   (b) the best international practices and standards for the safe management of hazardous substances.
@@ -1411,16 +1464,57 @@ A hearing of any application need not be held unless—
 (8) Sections 77, 77A, and 77B apply to any hazardous substance that is approved under this section and, for the purposes of this section, controls previously imposed under section 77A have effect as other specified controls under that section.
 (9) This section does not limit the operation of section 77(2)﻿(a).
 
+### 63D Modified reassessment to align classifications
+(1) Despite anything to the contrary in this Act, the Authority may reassess a hazardous substance in accordance with this section if the Authority is satisfied that—
+  (a) a reassessment of the hazardous substance under section 63 is not appropriate because the reassessment will involve only a specific aspect of the approval; and
+  (b) the amendment is not a minor or technical amendment to which section 67A applies; and
+  (c) the reassessment is necessary to change a hazard classification or control to align with—
+    (i) the equivalent of a hazard classification or control that has been set by an international regulator; or
+    (ii) a hazard classification or control of a related substance that was the subject of an Authority decision after the hazardous substance was approved by the Authority.
+(2) A reassessment under this section—
+  (a) may vary 1 or more of the following:
+    (i) the EPA controls that attach to a hazardous substance:
+    (ii) the description of a hazardous substance:
+    (iii) the hazard classification of a hazardous substance; but
+  (b) may not revoke an approval given to import or manufacture a hazardous substance under this Act.
+(3) A reassessment under this section is treated as an application, and sections 53AA and 55 to 61 apply with all necessary modifications.
+(4) The Authority may approve or decline an application for reassessment under this section as it considers appropriate after taking into account—
+  (a) all the effects associated with the reassessment; and
+  (b) the best international practices and standards for the safe management of hazardous substances.
+(5) Section 65(e) applies, with all necessary modifications, to a reassessment under this section.
+(6) Sections 77, 77A, and 77B apply to any hazardous substance that is approved under this section and, for the purposes of this section, controls previously imposed under section 77A have effect as other specified controls under that section.
+(7) This section does not limit the operation of section 77(2)﻿(a)﻿.
+(8) An applicant relying on subsection (1)﻿(c)﻿(i) must provide the Authority with evidence of the right to use the information relied on in the application.
+(9) The Authority must not reassess a hazardous substance under this section more than once in a 12-month period.
+
 ### 64 Suspension of approvals during reassessment
-Where a decision to reassess any hazardous substance has been publicly notified under section 63(2), and the Authority has reasonable cause to believe that there is significant actual or imminent danger to human health or safety or the environment from the continued use of the substance, the Authority, by notice in the Gazette, may direct that any further use of the substance is prohibited until such time as a decision has been made following the reassessment.
+Where an application to reassess any hazardous substance has been publicly notified under section 63(2), and the Authority has reasonable cause to believe that there is significant actual or imminent danger to human health or safety or the environment from the continued use of the substance, the Authority, by notice in the Gazette, may direct that any further use of the substance is prohibited until such time as a decision has been made following the reassessment.
+
+### 64A Temporary restriction of use during reassessment
+(1) The Authority may, by notice in the Gazette, restrict the use of a hazardous substance in accordance with this section if—
+  (a) a decision under section 62(2) that grounds exist to reassess the hazardous substance has been publicly notified; and
+  (b) the Authority has not approved or declined a reassessment application relating to the decision under section 62(2), or no application for reassessment has been made; and
+  (c) the Authority has reasonable cause to believe that there is actual or likely danger to human health or safety or the environment from the use of the substance; and
+  (d) the Authority has consulted the persons who the Authority considers are likely to be directly affected by the restriction of use.
+(2) The notice—
+  (a) may prohibit the use of a hazardous substance in specified circumstances or places, or by specified classes of persons; but
+  (b) must not prohibit the use of the hazardous substance generally.
+(3) The notice—
+  (a) must identify the nature of the restriction, including any conditions, on the use of the hazardous substance; and
+  (b) remains in force until the earliest of the following:
+    (i) the date on which the Authority approves or declines a reassessment application relating to the hazardous substance:
+    (ii) the date on which the applicant withdraws a reassessment application relating to the hazardous substance:
+    (iii) the date that is 1 year after the date of notification in the Gazette if no reassessment application relating to the grounds decision under section 62(2) has been lodged with the Authority for the substance by that date.
+(4) The Authority must publish the notice on an Internet site maintained by or on behalf of the Authority as soon as practicable after the notice has been published in the Gazette.
 
 ### 65 No compensation following reassessment
-Where any hazardous substance or new organism is reassessed in accordance with section 63, 63A, or 63C or a group standard is amended or revoked under section 96B(3), no compensation shall be payable to any person for any loss where the Authority—
+Where any hazardous substance or new organism is reassessed in accordance with section 63, 63A, 63C, or 63D, or a restriction is imposed under section 64A, or a group standard is amended or revoked under section 96B(3), no compensation shall be payable to any person for any loss where the Authority—
   (a) declines to allow any further importation or manufacture of that substance; or
   (b) declines to approve the release of any new organism from containment; or
   (c) declines to approve any further importation, field testing, or development of any new organism in containment; or
   (d) suspends any approval in accordance with section 64; or
-  (e) varies the controls on any substance or organism.
+  (e) varies the controls on any substance or organism; or
+  (f) imposes a restriction under section 64A.
 
 ### 66 Requirement for disposing of substances
 (1) Where any hazardous substance has been reassessed in accordance with section 63 and the Authority has declined to allow any further importation or manufacture of that substance, the Authority may issue a direction, by notice in the Gazette, prohibiting the use of that substance and requiring that substance to be disposed of, at the owner's expense, in accordance with the controls placed on it by the Authority.
@@ -1455,7 +1549,7 @@ The Authority may, of its own motion, amend any approval given by it under this 
 (1) The Minister may direct that he or she will decide an application under this Act if the Minister considers that the decision on the application will have—
   (a) significant cultural, economic, environmental, ethical, health, international, or spiritual effects; or
   (b) significant effects in an area in which the Authority lacks sufficient knowledge or experience.
-(1A) However, a direction under this section applies to an application that relates to any hazardous substances only if the application is one referred to in section 53.
+(1A) However, a direction under this section applies to an application that relates to any hazardous substances only if the application is one to which section 53(4) applies.
 (2) The direction shall include the Minister's reasons for giving it.
 (2A) Sections 114 and 115 of the Crown Entities Act 2004 do not apply to a direction under subsection (1).
 (2B) This section applies despite section 113 of the Crown Entities Act 2004.
@@ -1617,6 +1711,22 @@ The Authority may, in accordance with section 76C, issue an EPA notice that does
 ### 76D Application of Legislation Act 2019 to EPA notices
 (1) An EPA notice, or an amendment to or revocation of an EPA notice, is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 (2) A statement setting out the extent of the consultation under section 76C that took place before the notice was made must be published with it.
+
+### 76E Authority may recognise overseas bodies as international regulators
+(1) The Authority may, by notice in the Gazette, recognise 1 or more overseas bodies as international regulators for the purposes of sections 28A and 63D.
+(2) Before recognising an overseas body, the Authority must—
+  (a) publicly notify its intention to issue the notice; and
+  (b) give interested persons a reasonable time, which must be specified in the notification published under paragraph (a), to make submissions on the proposal; and
+  (c) consult any persons, representative groups within the hazardous substances industry or elsewhere, government departments, WorkSafe, and Crown entities whom the Authority considers appropriate in each case.
+(3) The Authority must not recognise an overseas body unless the Authority has considered whether—
+  (a) the body operates in a manner comparable to the Authority in regulating hazardous substances; and
+  (b) the legislative regime regulating hazardous substances in which the body operates is comparable to this Act; and
+  (c) the information from the body is readily accessible by the Authority.
+(4) The Authority may amend a notice made under this section—
+  (a) to recognise, or revoke recognition of, 1 or more overseas bodies as international regulators—
+    (i) in accordance with subsections (1) and (2); and
+    (ii) having considered the criteria in subsection (3)﻿(a) to (c); and
+  (b) without complying with subsections (2) and (3), if it considers that the amendment is minor in effect or corrects a minor or technical error.
 
 ### 77 EPA controls on hazardous substances
 (1) Where the Authority has approved the importation or manufacture of any substance under section 28A or section 29, the Authority shall give that substance 1 or more hazard classifications in accordance with the intrinsic properties of that substance and the degree or type of hazard of that substance, if applicable.
@@ -2188,6 +2298,7 @@ Subject to the rights of appeal in section 125, any person on whom a compliance 
     (iv) any prohibition specified in any regulations; or
     (v) any controls specified in any regulations or an EPA notice relating to a hazardous substance; or
     (vi) any requirement to obtain a certificate specified in any regulations or an EPA notice; or
+    (vii) any restriction imposed on the use of a hazardous substance under section 64A; or
   (ea) fails to comply with a condition on a permission granted under section 95A; or
   (eb) fails to comply with a condition imposed under section 96B(1)﻿(b) on an identified group of hazardous substances or products; or
   (f) fails to comply with any compliance order served under section 107; or
@@ -2250,7 +2361,10 @@ In sections 111 to 113—
 (3) Except as provided in subsections (1) and (2), all infringement fees paid in respect of infringement offences must be paid into a Crown Bank Account.
 
 ### 114 Penalties
-(1) Every person who commits an offence against paragraph (a) or paragraph (aa) or paragraph (b) or paragraph (c) or paragraph (d) or paragraph (e) or paragraph (ea) or paragraph (eb) of section 109(1) is liable on conviction to imprisonment for a term not exceeding 3 months or a fine not exceeding $500,000 and, if the offence is a continuing one, to a further fine not exceeding $50,000 for every day or part of a day during which the offence has continued.
+(1) Every person who commits an offence against paragraph (a) or paragraph (aa) or paragraph (b) or paragraph (c) or paragraph (d) or paragraph (da) or paragraph (e)﻿(i) to (vi) or paragraph (ea) or paragraph (eb) of section 109(1) is liable on conviction to imprisonment for a term not exceeding 3 months or a fine not exceeding $500,000 and, if the offence is a continuing one, to a further fine not exceeding $50,000 for every day or part of a day during which the offence has continued.
+(1A) Every person who commits an offence against section 109(1)﻿(e)﻿(vii) is liable on conviction,—
+  (a) in the case of a natural person, to a fine not exceeding $50,000:
+  (b) in the case of a person other than a natural person, to a fine not exceeding $100,000.
 (2) Every person who commits an offence against paragraph (f) or paragraph (g) or paragraph (h) or paragraph (i) of section 109(1), or section 156(1), is liable on conviction to a fine not exceeding $50,000 and, if the offence is a continuing one, to a further fine not exceeding $5,000 for every day or part of a day during which the offence has continued.
 (3) Every person who commits an offence against paragraph (j) or paragraph (k) or paragraph (l) or paragraph (m) of section 109(1) is liable on conviction to a fine not exceeding $5,000.
 (4) Where any person is convicted of an offence against section 109, the court may, instead of or in addition to imposing any fine or term of imprisonment, revoke any transferable permit held by that person.
@@ -2559,8 +2673,8 @@ In this Part, unless the context otherwise requires,—
 
 ### 137 Emergency powers
 (1) When a hazardous substance or new organisms emergency has been declared under section 136, any enforcement officer may—
-  (a) enter any premises or any dwelling at any time without complying with the provisions of section 103 or section 119:
-  (b) exercise any of the powers set out in section 103:
+  (a) enter any premises or any dwelling at any time without complying with the provisions of section 103, 103A, or 119:
+  (b) exercise any of the powers set out in section 103 or 103A:
   (c) exercise any of the powers set out in section 119(5):
   (d) direct any person to stop any activity which may contribute to the emergency:
   (e) request any person, either verbally or in writing, to take any action to prevent or limit the extent of the emergency:
@@ -3437,7 +3551,9 @@ Each Party that has registered for an exemption pursuant to Article 4 for the us
 
 ## Schedule 6 — Regulations and orders revoked
 
-## Schedule 7 — Transitional and savings provisions relating to amendments to Act
+## Schedule 7 — Transitional, savings, and related provisions
+
+### Part 1 — Provisions relating to Hazardous Substances and New Organisms Amendment Act 2015
 
 ### 1 Interpretation
 In this schedule, unless the context otherwise requires,—
@@ -3516,7 +3632,21 @@ Subsections (1) and (2) of section 76C are satisfied in relation to any EPA noti
 [Repealed]
 
 ### 9 Expiry of clause 8
-Clause 8 expires at the close of 3 years after the commencement of this schedule and is then repealed.
+[Repealed]
+
+### Part 2 — Provisions relating to Hazardous Substances and New Organisms (Hazardous Substances Assessments) Amendment Act 2022
+
+### 10 Interpretation
+In this Part, commencement date means the day on which this Part comes into force.
+
+### 11 Application of requirements in section 53AA
+Section 53AA(2) to (6) applies only in respect of applications for reassessment lodged on or after the commencement date.
+
+### 12 Pre-enactment action relating to notice made under section 76E
+Subsections (2) and (3) of section 76E are satisfied in relation to a notice if the Authority took action of the kind described in those subsections before their commencement (including before their enactment) for the purpose of facilitating the issue of the notice.
+
+### 13 Penalty in respect of section 109(1)﻿(da)
+A person is not liable to the penalty under section 114(1) in respect of an offence committed against section 109(1)﻿(da) before the commencement date.
 
 ### 1 Title
 (1) This Act is the Hazardous Substances and New Organisms (Genetically Modified Organisms) Amendment Act 2002.
