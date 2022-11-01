@@ -1,5 +1,5 @@
 # Fisheries Act 1983
-_Consolidation as at 2013-07-01_
+_Consolidation as at 2022-11-01_
 
 > An Act to consolidate and reform the law relating to the management and conservation of fisheries and fishery resources within New Zealand and New Zealand fisheries waters
 
@@ -66,7 +66,7 @@ _Consolidation as at 2013-07-01_
     (d) all other fresh or estuarine waters where fish indigenous to or acclimatised in New Zealand are found
   - **New Zealand fishing vessel** means any fishing vessel registered under section 57
   - **optimum** , in relation to the maximum sustainable yield from a fishery, means the maximum sustainable yield from that fishery modified, for the purposes of a management plan, by any relevant economic, social, recreational, or ecological factor
-  - **owner** , in relation to any fishing vessel, includes any body of persons, whether incorporated or not, by which the vessel is owned and except as provided in section 57(9)(c), includes any charterer, sub-charterer, lessee, or sub-lessee of the vessel
+  - **owner** , in relation to any fishing vessel, includes any body of persons, whether incorporated or not, by which the vessel is owned and except as provided in section 57(9)﻿(c), includes any charterer, sub-charterer, lessee, or sub-lessee of the vessel
   - **PAU 5A** or , or , or or means the area having that name and reference number and described in Part 3 of Schedule 1 of the Fisheries Act 1996
   - **paua** means a fish of the species Haliotis iris or Haliotis australis; but does not include a fish of the species Haliotis virginea
   - **plan** means a fishery management plan made pursuant to Part 1
