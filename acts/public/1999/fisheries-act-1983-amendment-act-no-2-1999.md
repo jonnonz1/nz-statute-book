@@ -1,5 +1,5 @@
 # Fisheries Act 1983 Amendment Act (No 2) 1999
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2022-11-01_
 
 > An Act to amend the Fisheries Act 1983
 
@@ -8,11 +8,11 @@ _Consolidation as at 2007-09-03_
 (2) This Act comes into force on the day after the date on which it receives the Royal assent.
 
 ### 2 Interpretation
-Section 2(1) of the principal Act is amended by inserting, after the definition of the term Foveaux Strait dredge oyster fishery, the following definition:.
+Section 2(1) of the principal Act is amended by inserting, after the definition of the term Foveaux Strait dredge oyster fishery, the following definition:
   - **Freshwater eel** means the species Anguilla australis, Anguilla dieffenbachii, and Anguilla reinhardtii, in all areas in New Zealand fisheries waters
 
 ### 3 Prohibitions and requirements relating to dumping or retention of quota management system fish
-Section 28ZB(1) of the principal Act is amended by inserting, after paragraph (a), the following paragraph:.
+Section 28ZB(1) of the principal Act is amended by inserting, after paragraph (a), the following paragraph:
   (aa) Any freshwater eel of legal size subject to the quota management system that is dead or unlikely to survive if returned to the sea:
 
 ### 4 Taking of fish in excess of quota, and carrying forward of unused quota
