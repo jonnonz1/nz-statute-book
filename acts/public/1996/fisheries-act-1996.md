@@ -1,5 +1,5 @@
 # Fisheries Act 1996
-_Consolidation as at 2022-07-01_
+_Consolidation as at 2022-11-01_
 
 > An Act—ato reform and restate the law relating to fisheries resources; andbto recognise New Zealand's international obligations relating to fishing; andcto provide for related matters
 
@@ -104,11 +104,16 @@ _Consolidation as at 2022-07-01_
     (b) includes amendments to the Fish Stocks Agreement made in accordance with Article 45 of the Agreement that are, or will become, binding on New Zealand from time to time
   - **Fisheries Dispute Commissioner** , or , means a Fisheries Dispute Commissioner appointed under section 117(1)
   - **fisheries resources** means any 1 or more stocks or species of fish, aquatic life, or seaweed
-  - **fisheries services** means outputs produced for the purpose of this Act or the Fisheries Act 1983 as agreed between the Minister and the chief executive; and includes—
+  - **fisheries services** means outputs produced for the purpose of this Act as agreed between the Minister and the chief executive; and includes—
     (a) the management of fisheries resources, fishing and fish farming:
     (b) the enforcement of provisions relating to fisheries resources, fishing, and fish farming:
     (c) research relating to fisheries resources, fishing, and fish farming, including stock assessment and the effects of fishing and fish farming on the aquatic environment:
-    (d) the performance or exercise, by the Minister or the chief executive or any other person, of a function, duty, or power conferred or imposed relating to fisheries resources, fishing, or fish farming (including any observer performing or exercising a function, duty, or power in accordance with the observer programme)
+    (d) the performance or exercise, by the Minister or the chief executive or any other person, of a function, duty, or power conferred or imposed relating to fisheries resources, fishing, or fish farming (including any observer performing or exercising a function, duty, or power in accordance with the observer programme):
+    (e) the provision, installation, and maintenance of electronic and other equipment on fishing vessels to observe fishing and related activities, including—
+      (i) the return, abandonment, processing, or sorting of fish:
+      (ii) transportation connected with fishing:
+      (iii) measures to avoid, remedy, or mitigate fishing-related mortality:
+    (f) the submission, storage, and review of electronic and other data from activities described in paragraph (e)
   - **fishery officer** means—
     (a) a person deemed by section 196(2) to be a fishery officer:
     (b) a person appointed in accordance with section 196(1) to be a fishery officer and holding a warrant under section 198:
@@ -1436,21 +1441,67 @@ If any regulations made under section 297(1)﻿(sa) provide that any transaction
 [Repealed]
 
 ### 72 Dumping of fish prohibited
-(1) No commercial fisher shall return to or abandon in the sea or any other waters any fish, aquatic life, or seaweed of legal size, or for which no legal size is set, that is subject to the quota management system.
-(2) Subsection (1) does not apply if the stock is listed in Schedule 6 and the commercial fisher complies with the requirements set out in that schedule.
-(3) Any commercial fisher who takes any fish, aquatic life, or seaweed subject to the quota management system that is not of legal size shall immediately return that fish, aquatic life, or seaweed, whether alive or dead, to the sea or waters from which the fish, aquatic life, or seaweed was taken.
-(4) Every person commits an offence and is liable to the penalty set out in section 252(3) who contravenes subsection (1) or subsection (3).
+(1) A commercial fisher must not return to or abandon in the sea or any other waters any fish or other animal that is aquatic life that is subject to the quota management system, except as provided in subsection (2) or (3).
+(2) A commercial fisher who takes any fish or other animal that is aquatic life subject to the quota management system must, if required by an instrument made under section 72A(2)﻿(c),—
+  (a) immediately return it to, or abandon it in, the sea or waters from which it was taken; and
+  (b) comply with the conditions and requirements (if any) specified in that instrument.
+(3) A commercial fisher who takes any fish or other animal that is aquatic life subject to the quota management system may return it to, or abandon it in, the sea or waters from which it was taken if—
+  (a) the return is permitted by an instrument made under section 72A(2)﻿(a) or (b); and
+  (b) they comply with the conditions and requirements (if any) specified in that instrument.
+(4) Every person commits an offence and is liable to the applicable penalty imposed by section 252(3A), (5)﻿(ba), or (5A) if the person,—
+  (a) in contravention of subsection (1), in respect of fish or another animal that is aquatic life not listed in an instrument made under section 72A(2)﻿(c), returns or abandons—
+    (i) 50 or fewer fish or other animals that are aquatic life in any 24-hour period; or
+    (ii) more than 50 fish or other animals that are aquatic life in any 24-hour period; or
+  (b) in contravention of subsection (2)﻿(a), fails to return or abandon—
+    (i) 50 or fewer fish or other animals that are aquatic life in any 24-hour period; or
+    (ii) more than 50 fish or other animals that are aquatic life in any 24-hour period; or
+  (c) in contravention of subsection (2)﻿(b), fails to comply with conditions or requirements in respect of the return or abandonment of—
+    (i) 50 or fewer fish or other animals that are aquatic life in any 24-hour period; or
+    (ii) more than 50 fish or other animals that are aquatic life in any 24-hour period; or
+  (d) in contravention of subsection (3)﻿(b), fails to comply with conditions or requirements in respect of the return or abandonment of—
+    (i) 50 or fewer fish or other animals that are aquatic life in any 24-hour period; or
+    (ii) more than 50 fish or other animals that are aquatic life in any 24-hour period.
 (5) Without limiting the application of section 241, it is a defence to any offence under subsection (4) if—
   (a) the return was a return of parts of fish, aquatic life, or seaweed lawfully processed on a vessel; or
   (b) the fish, aquatic life, or seaweed was returned or abandoned to ensure the safety of the vessel or any crew member; or
+  (ba) the commercial fisher believed on reasonable grounds that the return or abandonment of the fish or other animal that is aquatic life was necessary to ensure the safety of—
+    (i) a marine mammal (as defined in section 2(1) of the Marine Mammals Protection Act 1978); or
+    (ii) fish of the species of Chordata listed in Schedule 7A of the Wildlife Act 1953 as Chondrichthyes (cartilaginous fishes); or
+    (iii) any other protected species specified by the Minister in an instrument made under this paragraph.
   (c) the following provisions were complied with, namely,—
     (i) a fishery officer or observer was present when the fish, aquatic life, or seaweed was taken; and
     (ii) the fishery officer or observer authorised the return or abandonment of the fish, aquatic life, or seaweed; and
     (iii) the commercial fisher returned or abandoned the fish, aquatic life, or seaweed under the supervision of the fishery officer or observer, and complied with any directions of the fishery officer or observer; and
     (iv) the amount of fish, aquatic life, or seaweed was included in the returns for the appropriate period that are required to be made by the commercial fisher under this Act.
 (6) Any fish, aquatic life, or seaweed returned or abandoned in accordance with subsection (5)﻿(c) shall be included in the commercial fisher's reported catch for the purposes of section 76.
-(7) The Governor-General may from time to time, by Order in Council made on the recommendation of the Minister, add or omit from Schedule 6 the name of any stock, or amend any provision in that schedule or add new provisions to that schedule.
-(8) An order under subsection (7) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+(7) In proceedings for an offence relating to a contravention of subsection (4),—
+  (a) the prosecutor need not assert in the charging document that the exceptions set out in subsection (2) or (3) or the defence in subsection (5)﻿(ba) do not apply; and
+  (b) the burden of proving that any of the exceptions set out in subsection (2) or (3) or the defence in subsection (5)﻿(ba) applies lies on the defendant.
+(8) An instrument made under subsection (5)﻿(ba)﻿(iii) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+
+### 72A Minister may require or permit fish or other animal that is aquatic life to be returned or abandoned
+(1) The Minister may make instruments for the purposes of section 72(2) or (3) in accordance with this section.
+(2) An instrument made under this section may—
+  (a) permit a stock or species to be returned to or abandoned in the sea or other waters from which it was taken if the Minister is satisfied that the stock or species has an acceptable likelihood of survival if returned or abandoned in the manner specified by the instrument; or
+  (b) permit a stock or species to be returned to or abandoned in the sea or other waters from which it was taken if the Minister is satisfied that the stock or species—
+    (i) would damage other stocks or species taken by the commercial fisher if retained (for example, an ammoniating species); or
+    (ii) is damaged as a result of unavoidable circumstances (for example, diseased or predated fish); or
+  (c) require a stock or species to be returned to or abandoned in the sea or other waters from which it was taken if the Minister is satisfied that the return or abandonment is for a biological, a fisheries management, or an ecosystem purpose and the stock or species has an acceptable likelihood of survival if returned or abandoned in the manner specified by the instrument.
+(3) In considering the acceptable likelihood of survival of a stock or species under subsection (2)﻿(a), the Minister must have regard to—
+  (a) the sustainability of the stock or species; and
+  (b) the method by which the stock or species is taken; and
+  (c) the handling practices for the stock or species taken; and
+  (d) the social, cultural, and economic factors that the Minister considers relevant.
+(4) The instrument may also—
+  (a) provide that it applies to the stocks or species, or classes of stocks or species, specified in the instrument by reference to size, weight, or other physical characteristics:
+  (b) provide that it applies in relation to—
+    (i) the fishing methods, the use of fishing gear, or in the circumstances specified in the instrument; or
+    (ii) the classes of fishing methods, fishing gear, or circumstances specified in the instrument:
+  (c) impose conditions and requirements that the Minister considers appropriate.
+(5) An instrument made under this section may be amended, replaced, or revoked.
+(6) Before making, amending, replacing, or revoking an instrument under this section, the Minister must consult any persons or organisations that the Minister considers are representative of the classes of persons having an interest in the proposed action.
+(7) The decision to make an instrument under this section must be notified in the Gazette.
+(8) An instrument made under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 73 Offence to transfer used annual catch entitlement
 [Repealed]
@@ -2419,7 +2470,7 @@ An application for a high seas fishing permit—
   (k) the conduct of specified programmes of fisheries research:
   (l) the marking of the vessel and other means for its identification:
   (m) the placing of observers on the vessel and the payment of any associated prescribed fees and charges by the permit holder:
-  (n) the installation and maintenance of equipment to monitor fishing or transportation under the permit and the payment of any associated prescribed fees and charges by the permit holder:
+  (n) the provision, installation, and maintenance of electronic and other equipment to observe any fishing and related activities described in paragraph (e) of the definition of fisheries services in section 2(1), and the payment of any associated prescribed fees and charges by the permit holder:
   (o) the installation on the vessel and the maintenance of any automatic location communicator or other equipment for the identification and location of the vessel, and of adequate navigational equipment to enable the vessel to fix its position, and the payment of any associated prescribed fees and charges by the permit holder:
   (p) the carriage on board the vessel of specified charts, publications, and instruments:
   (q) the disposal of fish, aquatic life, and seaweed:
@@ -3808,7 +3859,7 @@ In this subpart, unless the context otherwise requires,—
   (b) the next departure of the vessel from any New Zealand port following the issue of the certificate or notification of the revocation:
   (c) the day on which any observer who is present on the vessel concerned, after the owner, operator, or master is issued with the certificate or notified of the revocation, certifies that the current catch of the vessel has been recorded by that observer:
   (d) such earlier date as may be agreed between the chief executive and the owner, operator, or master of the vessel.
-(5) The chief executive may, for any purpose referred to in section 59(6A) or section 368A(11) of this Act or section 28W(10) of the Fisheries Act 1983, by notice in the Gazette or where appropriate by notice to an individual fisher or other person affected,—
+(5) The chief executive may, for any purpose referred to in section 59(6A) or section 368A(11) of this Act, by notice in the Gazette or where appropriate by notice to an individual fisher or other person affected,—
   (a) set conversion factors for translating numbers of Foveaux Strait dredge oysters into weights, or vice versa:
   (b) specify the circumstances in which or purpose for which any such Foveaux Strait dredge oyster conversion factors may or must be used, including the making of returns and records.
 (6) Any conversion factors specified under subsection (5) are to be used for determining the weight or number (as the case may require) of Foveaux Strait dredge oysters only for the purposes specified in the Gazette notice or the notice to the individual fisher or other person affected.
@@ -3843,7 +3894,10 @@ The following persons shall keep such accounts and records, and provide to the c
 
 ### 191 Disposal of fish by commercial fishers
 (1A) In this section and section 192, commercial fisher includes a person who holds a high seas fishing permit issued under section 113H.
-(1) No commercial fisher may sell or otherwise dispose of fish, aquatic life, or seaweed, taken by the commercial fisher in that capacity, except to a licensed fish receiver or as provided in subsection (2) or subsection (5).
+(1) No commercial fisher may sell or otherwise dispose of fish, aquatic life, or seaweed, taken by the commercial fisher in that capacity, except—
+  (a) to a licensed fish receiver; or
+  (b) as provided in subsection (2) or (5); or
+  (c) by an approved alternative method of disposal in accordance with regulations made under section 297.
 (2) Any commercial fisher may sell or otherwise dispose of, in any one transaction, not more than—taken by the commercial fisher to any person who is not a licensed fish receiver if the transaction takes place on, or in the vicinity of, the vessel used by the commercial fisher to take the fish, aquatic life, or seaweed, or at some other place approved by the chief executive.
   (a) 10 kilogrammes of finfish; or
   (b) 6 kilogrammes of shellfish (other than Foveaux Strait dredge oysters or shellfish of class Crustacea); or
@@ -3881,7 +3935,8 @@ The following persons shall keep such accounts and records, and provide to the c
 (5) No person (other than a person who at the relevant time is acting in the person's capacity as a commercial fisher, licensed fish receiver, fish farmer, or spat catching permit holder) shall purchase, otherwise acquire, or be in possession of any fish, aquatic life, or seaweed for the purpose of sale, unless the fish, aquatic life, or seaweed was purchased or acquired from—
   (a) a commercial fisher in a transaction referred to in section 191(2); or
   (b) a licensed fish receiver; or
-  (c) a fish farmer.
+  (c) a fish farmer; or
+  (d) a person using an approved method of disposal in accordance with regulations made under section 297.
 (6) Every person commits an offence and is liable to the penalty set out in section 252(3) who contravenes any provision of subsections (1) to (5).
 (6A) In proceedings for an offence relating to a contravention of any of subsections (1) to (5),—
   (a) the prosecutor need not assert in the charging document that any exception or excuse in those subsections does not apply; and
@@ -4231,7 +4286,8 @@ The production by a fishery officer, honorary fishery officer, or examiner of a 
 (4) Every person commits an offence and is liable to the penalty set out in section 252(3) who contravenes or fails to comply with subsection (1).
 
 ### 227A Installation and maintenance of equipment on vessels may be required
-The chief executive may require, in relation to any vessel, that specified equipment to observe fishing and transportation be installed and maintained on the vessel in accordance with regulations made under section 297(1)﻿(ca).
+(1) The chief executive may require, in relation to any vessel, that specified equipment to observe fishing and related activities described in paragraph (e) of the definition of fisheries services in section 2(1) be installed and maintained on the vessel in accordance with regulations made under section 297(1)﻿(ca).
+(2) Subsection (1) includes power to require that specified equipment be operated throughout or at any time during a vessel’s voyage.
 
 ## Part 13 — Offences and penalties
 
@@ -4434,7 +4490,7 @@ If it is provided in this Act that any presumption is to apply in respect of any
 (2) Every person convicted of an offence against section 84(3) (licensing offences by foreign vessels) is liable to a fine not exceeding $500,000.
 (3) Every person convicted of an offence against any of the following provisions of this Act is liable to a fine not exceeding $250,000:
   (a)
-  (b) section 72(4) (unlawfully dumping fish):
+  (b)
   (c) section 78(10) (fishing in breach of condition of permit or condition imposed by chief executive):
   (ca) section 78A(8) (fishing in breach of condition imposed on person who is in substance the same person):
   (cb) section 78A(9) (fishing under permit of different person in order to avoid conditions imposed on own permit):
@@ -4460,10 +4516,12 @@ If it is provided in this Act that any presumption is to apply in respect of any
   (o) section 271(2) (failure to keep or provide records or returns):
   (p) section 296ZC(3)﻿(a) (failure by an approved service delivery organisation to supply information to the Minister):
   (q) section 296ZD(2) (failure by an approved service delivery organisation to have information audited).
+(3A) Every person convicted, whether in the same or separate proceedings, of 2 or more offences against section 72(4)﻿(a), (b), (c), or (d) (unlawfully returning, abandoning, or retaining fish or other animals that are aquatic life in any 24-hour period) committed within a period of 3 years is liable to a fine not exceeding $250,000 in respect of the second offence and each subsequent offence committed within that period.
 (4) Every person convicted of an offence against section 257(2) (prohibition of fishing activity in case of reoffending) is liable to imprisonment for a term not exceeding 1 year or to a fine not exceeding $100,000.
 (5) Every person convicted of an offence against any of the following provisions of this Act is liable to a fine not exceeding $100,000:
   (a) section 15(6) (fishing in contravention of a fishing-related mortality measures notice):
   (b) section 16(6) (fishing in contravention of emergency measures):
+  (ba) section 72(4)﻿(a)﻿(ii), (b)﻿(ii), (c)﻿(ii), or (d)﻿(ii) (unlawfully returning, abandoning, or retaining more than 50 fish or other animals that are aquatic life in any 24-hour period):
   (c) section 74(12) (fishing without a minimum holding of annual catch entitlement):
   (d) section 92(6) (breach of condition on fishing permit):
   (e) section 97(11) (breach of condition on special permit):
@@ -4483,6 +4541,7 @@ If it is provided in this Act that any presumption is to apply in respect of any
   (la) sections 312 and 313 (taking scallops outside of season or fishery, or when fishery closed):
   (m) section 368A (taking Foveaux Strait dredge oyster outside season or from prohibited area):
   (o) section 369 (taking Northland scallops outside fishery season).
+(5A) Every person convicted of an offence against section 72(4)﻿(a)﻿(i), (b)﻿(i), (c)﻿(i), or (d)﻿(i) (unlawfully returning, abandoning, or retaining 50 or fewer fish or other animals that are aquatic life in any 24-hour period) is liable to a fine not exceeding $10,000.
 (6) Every person convicted of an offence against any of the following provisions is liable to a fine not exceeding $5,000:
   (a) section 113M(2) (failure by holder of high seas fishing permit to notify chief executive of change of vessel's ownership or operator):
   (b) section 121(3) (unlawfully releasing sensitive information):
@@ -4531,7 +4590,7 @@ If any person is convicted of an offence against this Act, the court shall, in i
 (7) No quota owned by any licensed NBDT (within the meaning of section 4(1) of the Non-bank Deposit Takers Act 2013) is to be regarded as associated quota merely because the licensed NBDT has in the ordinary course of its business as a financier become the owner of that quota.
 
 ### 255A Forfeiture for infringement offence
-(1) Subsection (2) applies if an infringement notice is issued to a person in respect of an infringement offence against this Act and any of the following occurs:
+(1) Subsection (2) applies if an infringement notice is issued to a person in respect of an infringement offence against this Act (other than an offence in respect of the taking or possession of fish or another animal that is aquatic life by a commercial fisher) and any of the following occurs:
   (a) the infringement fee for the offence is paid; or
   (b) a copy of a reminder notice in respect of the infringement offence is filed or a reminder notice is deemed to have been filed in a court under section 21 of the Summary Proceedings Act 1957, as the case requires, within 6 months from the time when the offence is alleged to have been committed; or
   (c) the informant and the defendant, in respect of the infringement notice, enter into an arrangement under section 21(3A) of the Summary Proceedings Act 1957 allowing the defendant to pay the relevant infringement fee by instalments; or
@@ -4555,10 +4614,11 @@ If any person is convicted of an offence against this Act, the court shall, in i
 
 ### 255C Forfeiture for section 252(2), (3), and (5) offences, offences carrying fine of $100,000, repeat offences, and serious non-commercial offences
 (1) Subsection (2) applies in the following cases:
-  (a) on conviction for an offence referred to in section 252(2) or (3) or (5):
-  (b) on conviction for an offence against this Act for which the person is liable to a maximum fine of $100,000:
+  (a) on conviction for an offence referred to in section 252(2) or (3) or (5) (other than an offence referred to in section 252(5)﻿(ba)):
+  (aa) on conviction for a second or subsequent offence referred to in section 252(3A):
+  (b) on conviction for an offence against this Act for which the person is liable to a maximum fine of $100,000 (other than an offence referred to in section 252(5)﻿(ba)):
   (c) on conviction for a serious non-commercial offence:
-  (d) where a person has been convicted of 2 or more offences against this Act and—
+  (d) where a person has been convicted of 2 or more offences against this Act (other than an offence referred to in section 252(5)﻿(ba) or (5A)) and—
     (i) the offences were committed on more than 1 occasion within a period of 3 years; and
     (ii) the offences were offences for which the person was liable to a fine exceeding $5,000.
 (2) The following are forfeit to the Crown unless the court for special reasons relating to the offence orders otherwise:
@@ -4566,10 +4626,11 @@ If any person is convicted of an offence against this Act, the court shall, in i
   (b) any illegal fishing gear in respect of which the offence was committed (whether or not seized under section 207); and
   (c) any property used in the commission of the offence; and.
   (d) in the case of a conviction for an offence under section 186P, any property (excluding fish farm structures) used in the fish farm concerned.
-(3) On conviction of a person for an offence referred to in section 252(2) or (3), the court may order that—
+(2A) On conviction of a person for an offence referred to in section 252(5)﻿(ba), the court may order that any property used in the commission of the offence is forfeit to the Crown.
+(3) On conviction of a person for an offence referred to in section 252(2), (3), (3A), or (5)﻿(ba), the court may order that—
   (a) any quota is forfeit to the Crown; and
   (b) any associated quota is forfeit to the Crown, unless the court is satisfied that section 255E(3B) applies to preclude forfeiture.
-(4) Subsection (2) does not apply to require the forfeiture of—
+(4) Subsections (2) and (2A) do not apply to require the forfeiture of—
   (a) any foreign flagged vessel in respect of an offence committed outside New Zealand fisheries waters; or
   (b) any fish on board or property associated with such a vessel in respect of such an offence.
 
@@ -4668,14 +4729,20 @@ If any person is convicted of an offence against this Act, the court shall, in i
 ### 257 Prohibition of fishing activity in case of reoffending
 (1) If any person is convicted of—within a period of 7 years, the court shall, in addition to any other penalty imposed, order—
   (a) 2 or more offences against this Act that are offences referred to in subsection (1) or subsection (2) or subsection (3) of section 252, and are offences committed on different occasions; or
-  (b) 3 or more offences that are offences referred to in subsection (1) or subsection (2) or subsection (3) or subsection (5) of section 252, and are offences committed on different occasions,—
+  (b) 3 or more offences that are offences referred to in subsection (1) or subsection (2) or subsection (3) or subsection (5) of section 252 (other than an offence referred to in section 252(5)﻿(ba)), and are offences committed on different occasions,—
   (c) that the person forfeit any licence, approval, permission, or fishing permit obtained under this Act; and
   (d) that the person be prohibited, for a period of 3 years commencing on the date of the most recent conviction, from doing any of the following:
     (i) holding any licence, approval, permission, or fishing permit obtained under this Act:
     (ii) engaging in fishing or any activity associated with the taking of fish, aquatic life, or seaweed:
     (iii) deriving any beneficial income from activities associated with the taking of fish, aquatic life, or seaweed.
-(2) Every person commits an offence and is liable to the penalty set out in section 252(4) who knowingly contravenes or fails to comply with an order made under subsection (1).
-(3) Notwithstanding subsection (1), the court may, in the circumstances of any particular case, and upon application being made to it by the person concerned within 30 days after the date of conviction or such extended period as the court may allow, direct that any particular licence, approval, permission, or fishing permit shall not be forfeit, or that the person shall not be prohibited from engaging in fishing or in any activity associated with the taking of fish, aquatic life, or seaweed or deriving any beneficial income from fishing or any activity associated with the taking of fish, aquatic life, or seaweed.
+(1A) If a person is convicted of offences against section 72(4)﻿(a), (b), (c), or (d) and is liable to a fine under section 252(3A), the court must, in addition to any other penalty imposed, make an order—
+  (a) that the person forfeit any licence, approval, permission, or fishing permit obtained under this Act; and
+  (b) that the person be prohibited, for a period of 3 years commencing on the date of the most recent conviction, from doing any of the following:
+    (i) holding any licence, approval, permission, or fishing permit obtained under this Act:
+    (ii) engaging in fishing or any activity associated with the taking of fish, aquatic life, or seaweed:
+    (iii) deriving any beneficial income from activities associated with the taking of fish, aquatic life, or seaweed.
+(2) Every person commits an offence and is liable to the penalty set out in section 252(4) who knowingly contravenes or fails to comply with an order made under subsection (1) or (1A).
+(3) Notwithstanding subsection (1) and (1A), the court may, in the circumstances of any particular case, and upon application being made to it by the person concerned within 30 days after the date of conviction or such extended period as the court may allow, direct that any particular licence, approval, permission, or fishing permit shall not be forfeit, or that the person shall not be prohibited from engaging in fishing or in any activity associated with the taking of fish, aquatic life, or seaweed or deriving any beneficial income from fishing or any activity associated with the taking of fish, aquatic life, or seaweed.
 (4) For the purposes of this section, every conviction in respect of an offence against the Fisheries Act 1983 shall be deemed to be a conviction in respect of an offence against this Act that is referred to in section 252(3).
 (5) For the purposes of this section, if—that conviction shall be deemed to be a conviction in respect of an offence against this Act that is referred to in section 252(3).
   (a) a person is convicted of assault or of any other offence of which an assault constitutes an element, and the conviction relates to an offence committed on or after 1 April 1990; and
@@ -4775,8 +4842,8 @@ The cost recovery principles under this Part are as follows:
 ### 265 Under-recovery and over-recovery of costs
 Without limiting anything in section 264, but subject to section 265A, the Minister must, in recommending the making of an order under section 264, have regard to the costs of any conservation services or fisheries services incurred by the Crown in a previous financial year that—
   (a) were either—
-    (i) not recovered or not recoverable, in whole or in part, by a fee, charge, or levy relating to such services that was previously imposed under this Act or the Fisheries Act 1983; or
-    (ii) over-recovered or over-recoverable, in whole or in part, by a fee, charge, or levy relating to such services that was previously imposed under this Act or the Fisheries Act 1983; and
+    (i) not recovered or not recoverable, in whole or in part, by a fee, charge, or levy relating to such services that was previously imposed under this Act; or
+    (ii) over-recovered or over-recoverable, in whole or in part, by a fee, charge, or levy relating to such services that was previously imposed under this Act; and
   (b) the Minister has not previously had regard to under this section.
 
 ### 265A Recommendation for levies payable in year commencing 1 October 2003 and subsequent years
@@ -4989,7 +5056,7 @@ Except as expressly otherwise provided in this Act, the Catch History Review Com
 (3) In deciding how to perform any function, duty, or power under subsection (1)﻿(b), the chief executive shall give due consideration to the advantages and disadvantages of different options.
 (4) Before entering into any arrangement or contract under subsection (1)﻿(b), the chief executive may, after consultation with the Minister, set contract standards and contract specifications or both which shall be complied with by the other party to the arrangement or contract.
 (4A) The chief executive may, after consultation with the Minister and the other party to the arrangement or contract, amend or revoke contract standards and contract specifications set under subsection (4).
-(5) No arrangement or contract under subsection (1)﻿(b) between the chief executive and any other party (other than an agency of the Crown or other instrument of the Crown) may provide for that other party (or person acting on behalf of that other party) to perform or exercise any power that is conferred or imposed on fishery officers (other than honorary fishery officers or examiners) by or under Part 6 of the Fisheries Act 1983 or by or under this Act.
+(5) No arrangement or contract under subsection (1)﻿(b) between the chief executive and any other party (other than an agency of the Crown or other instrument of the Crown) may provide for that other party (or person acting on behalf of that other party) to perform or exercise any power that is conferred or imposed on fishery officers (other than honorary fishery officers or examiners) by or under this Act.
 (6) Nothing in this section or in any arrangement or contract entered into under the authority of this section relieves the chief executive of the obligation to perform or ensure the performance of any function, duty, or power imposed on the chief executive by this Act or any other Act.
 
 ### 295 Notification of appointments and places for provision of information
@@ -5026,7 +5093,7 @@ In this Part, unless the context otherwise requires, specified functions, duties
   (b) includes the keeping of registers under sections 98, 124, and 186K; but
   (c) does not include—
     (i) any functions, duties, or powers of the Minister; or
-    (ii) any power conferred on fishery officers, honorary fishery officers, or examiners by or under the Fisheries Act 1983 or by or under this Act.
+    (ii) any power conferred on fishery officers, honorary fishery officers, or examiners by or under this Act.
 
 ### 296B Transfer of specified functions, duties, or powers to approved service delivery organisations
 (1) The Governor-General may from time to time, by Order in Council made on the recommendation of the Minister after consultation with the Minister responsible for the administration of the Environment Act 1986, transfer any specified function, duty, or power to an approved service delivery organisation.
@@ -5052,8 +5119,8 @@ In this Part, unless the context otherwise requires, specified functions, duties
 
 ### 296C Effect of transfer of specified functions, duties, or powers
 (1) On and from the date specified for the purpose in the relevant order under section 296B,—
-  (a) an approved service delivery organisation has the specified functions, duties, and powers under the relevant provisions of this Act or the Fisheries Act 1983 specified in the order, and may perform or exercise those functions, duties, or powers as if they had been conferred or imposed on the organisation directly by the relevant enactment; and
-  (b) references to the chief executive (however expressed) in the provisions of this Act or the Fisheries Act 1983 specified in the order must be read as references to the approved service delivery organisation.
+  (a) an approved service delivery organisation has the specified functions, duties, and powers under the relevant provisions of this Act specified in the order, and may perform or exercise those functions, duties, or powers as if they had been conferred or imposed on the organisation directly by the relevant enactment; and
+  (b) references to the chief executive (however expressed) in the provisions of this Act specified in the order must be read as references to the approved service delivery organisation.
 (2) An approved service delivery organisation is responsible to the Minister for ensuring that the specified functions, duties, or powers transferred to the organisation are performed or exercised in accordance with—
   (a) all applicable standards and specifications; and
   (b) all applicable directions given by the Minister under section 296Q.
@@ -5265,7 +5332,7 @@ Every civil penalty under section 296W must be paid into a Crown Bank Account.
 ### 296Z Fees
 (1) An approved service delivery organisation may set fees and charges in respect of functions, duties, and powers performed or exercised by the organisation under an order made under section 296B.
 (2) Fees may be set at any level as specified by the organisation.
-(3) This section applies despite anything in this Act or in the Fisheries Act 1983, but does not limit the application of the Commerce Act 1986.
+(3) This section applies despite anything in this Act, but does not limit the application of the Commerce Act 1986.
 
 ### 296ZAA Suspension of permit and refusal of services for non-payment of fees
 (1) The chief executive may, by notice in writing, after giving a person prior notice in writing of the chief executive's intention to do so, suspend a fishing permit or licence or fish farmer's registration held by the person or refuse to accept for registration any caveat, mortgage, transfer of annual catch entitlement, or transfer of quota shares, or refuse to accept any application for vessel registration or application for the registration of an automatic location communicator, if—
@@ -5327,7 +5394,7 @@ Every civil penalty under section 296W must be paid into a Crown Bank Account.
 (1) Any person must disclose to the Minister information relating to the affairs of an approved service delivery organisation if, in the course of or in connection with performing the role of auditor of the organisation, the person forms an opinion that there is a serious problem with the organisation.
 (2) For the purposes of this Part, a serious problem means the organisation—
   (a) is not operating, or is likely not to operate, in any material respect in accordance with—
-    (i) the provisions of this Act or the Fisheries Act 1983 under which the organisation performs or exercises its functions, duties, or powers; or
+    (i) the provisions of this Act under which the organisation performs or exercises its functions, duties, or powers; or
     (ii) any applicable standards and specifications; or
     (iii) an applicable direction under section 296Q; or
   (b) is insolvent or likely to become insolvent.
@@ -5380,9 +5447,15 @@ An auditor must, before disclosing information to the Minister under section 296
     (xi) regulating the methods, equipment, and devices to be used for determining the size or weight of any fish, aquatic life, or seaweed:
     (xii) regulating the methods, equipment, and devices that may be used to process fish, aquatic life, or seaweed; and prohibiting the processing of fish, aquatic life, or seaweed otherwise than by that method or by use of such equipment or devices:
     (xiii) regulating the methods by, or the circumstances under which, fish, aquatic life, or seaweed may be held, stored, conveyed, or identified, including the use of any containers, marks, or labels:
+    (xiv) for the purposes of section 191(1)﻿(c),—
+      (A) authorising the chief executive to approve alternative methods of disposal of fish, aquatic life, or seaweed:
+      (B) providing for applications to use an approved alternative method of disposal and prescribing requirements relating to applications:
+      (C) prescribing criteria that the chief executive must take into account in considering an application:
+      (D) prescribing requirements relating to the disposal of fish, aquatic life, or seaweed by an approved method of disposal:
+      (E) providing for, and prescribing requirements relating to, the verification of the alternative methods of disposal of fish, aquatic life, or seaweed.
   (b)
   (c) providing for the issue, refusal, renewal, suspension, revocation, surrender, or modification of licences to receive fish, aquatic life, or seaweed by the chief executive, and the imposing of conditions on such licences, whether by the chief executive or otherwise, for persons who wish to act as fish receivers and to purchase or otherwise acquire or be in possession, in prescribed circumstances, of fish, aquatic life, or seaweed taken for the purpose of sale:
-  (ca) prescribing requirements or matters relating to the installation and maintenance of equipment (including electronic equipment) to observe fishing or transportation, and to the payment of any associated prescribed fees and charges:
+  (ca) prescribing requirements relating to the provision, installation, and maintenance of electronic and other equipment (including, for the avoidance of doubt, the requirement for a class of person to provide, install, or maintain the equipment) to observe any fishing and related activities described in paragraph (e) of the definition of fisheries services in section 2(1), and the payment of any associated prescribed fees and charges:
   (d) requiring, or authorising the chief executive to require,—to provide to the chief executive such information as the chief executive may reasonably require for the purpose of this Act:
     (i) any applicant for any licence, permit, approval, or other authority under this Act; or
     (ii) the holder of any such authority—
@@ -5420,10 +5493,15 @@ An auditor must, before disclosing information to the Minister under section 296
     (iii) specifying the period in respect of which fees and charges are payable, which period may begin when the observer is available to board the vessel concerned while it is waiting in port:
     (iv) specifying the method by which the amount payable in any case is to be determined:
   (n) creating offences in respect of the contravention of, or non-compliance with, any regulations made under this Act; and providing for the imposition of fines not exceeding $100,000, including the imposition of different fines in respect of a first offence, a second offence, and subsequent offences:
-  (na) prescribing infringement offences against this Act (which offences may not be offences of taking or possession of fish by a commercial fisher):
+  (na) prescribing infringement offences against this Act by commercial fishers and other persons, including—
+    (i) offences in respect of fishing and related activities, such as offences in respect of—
+      (A) the taking, possession, return, abandonment, processing, or sorting of fish or other animals that are aquatic life:
+      (B) transportation connected with fishing:
+      (C) measures to avoid, remedy, or mitigate fishing-related mortality:
+    (ii) offences in respect of reporting and record-keeping requirements:
   (nb) prescribing the form of infringement notices and infringement offence reminder notices:
   (nc) setting the infringement fee payable in respect of an infringement offence, which fee may not exceed $3,000; and setting different infringement fees for different infringement offences:
-  (nd) specifying serious non-commercial offences for the purposes of this Act, which offences must be offences against regulations made under this Act or the Fisheries Act 1983:
+  (nd) specifying serious non-commercial offences for the purposes of this Act, which offences must be offences against regulations made under this Act:
   (o) implementing any provisions of, or giving effect to, any bilateral or multilateral treaty, convention, or agreement to which New Zealand is a signatory or a party, or any understanding concluded by the Government of New Zealand and the Government of any other country; and declaring any such regulations to apply beyond the outer limits of New Zealand fisheries waters in respect of any New Zealand citizen, person entitled to reside in New Zealand indefinitely, body incorporated in New Zealand, or any New Zealand ship or vessel registered under this Act:
   (oa) implementing or giving effect to provisional measures of an international court or tribunal:
   (p)
@@ -5436,6 +5514,9 @@ An auditor must, before disclosing information to the Minister under section 296
   (u) setting out conditions and other provisions that apply to approvals given under section 296 for the electronic transmission of accounts, records, returns, transactions, information, notices, objections, requests, applications, or other documents:
   (v) prescribing circumstances in which, and times and places at which, a commercial fisher or a person authorised to fish in New Zealand fisheries waters under Part 5 is to notify the Ministry that the commercial fisher or person is intending to land any fish, aquatic life, or seaweed:
   (w) closing an area or areas to commercial fishing, or prohibiting a method or methods of commercial fishing within an area or areas, for the purpose of better providing for recreational fishing for a stock under section 311:
+  (wa) authorising the Minister to set or vary management controls in respect of recreational fishing, including—
+    (i) daily limits, maximum legal sizes, and minimum legal sizes for any stocks, species, or fisheries management areas; and
+    (ii) conditions and requirements relating to the controls:
   (x) prescribing the matters required to be notified to commercial fishers under section 80(1):
   (y) providing for such other matters as are contemplated by or necessary for giving full effect to the provisions of this Act and for its due administration.
 (2) Without limiting anything in subsection (1), any such regulations may—
@@ -5444,6 +5525,9 @@ An auditor must, before disclosing information to the Minister under section 296
 (3) Without limiting anything in this section or section 299(1), regulations made under this section may apply in respect of—
   (a) fishing to which Part 5 applies; and
   (b) New Zealand nationals and New Zealand ships when they are outside New Zealand fisheries waters.
+(3A) If the regulations authorise the Minister under subsection (1)﻿(wa) to set or vary management controls in respect of recreational fishing,—
+  (a) the instrument by which that is done is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements); and
+  (b) the regulations must contain a statement to that effect.
 (4) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 (5) Subsection (6) applies if regulations made under this section authorise any of the following:
   (a) the chief executive to require information referred to in subsection (1)﻿(d):
@@ -5469,6 +5553,26 @@ An auditor must, before disclosing information to the Minister under section 296
 (3) If the regulations authorise the Minister or chief executive under subsection (1)﻿(d) to require a class of persons to provide information relating to fishing-related mortality,—
   (a) the instrument by which that requirement is imposed is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements); and
   (b) the regulations must contain a statement to that effect.
+
+### 298A Regulations relating to demerit points
+(1) The Governor-General may from time to time, by Order in Council, make regulations for all or any of the following purposes:
+  (a) authorising the Minister or the chief executive to record demerit points against any of the following persons who commit a specified infringement offence:
+    (i) the master of a vessel:
+    (ii) the holder of a fishing permit:
+  (b) prescribing the number of demerit points or a graduated scale of demerit points that may be recorded for specified infringement offences (including a greater number of demerit points for committing a second or subsequent infringement offence):
+  (c) specifying different classes of infringement offence that are liable to demerit points:
+  (d) providing for the expiry of recorded demerit points no later than 3 years after the date on which the specified infringement offence is committed:
+  (e) prescribing a civil penalty not exceeding $10,000, which may be a fixed amount or a graduated scale of civil penalties for different levels of recorded demerit points:
+  (f) providing for the review of penalties imposed for recorded demerit points:
+  (g) providing for appeals against penalties imposed for recorded demerit points:
+  (h) providing for the review of video recordings and associated information made by equipment placed on a fishing vessel under section 227A if a specified number of demerit points is accumulated in relation to activities carried out using the vessel:
+  (i) providing for the effective operation of the demerit point system under this section, including regulations that—
+    (i) specify how demerit points (including accumulated demerit points) are to be recorded, including the information to be recorded in connection with the recorded demerit points:
+    (ii) authorise the chief executive to require persons to provide that specified information:
+    (iii) provide for the giving of notices in respect of demerit points.
+(2) Regulations made under this section must provide for the matters specified in subsection (1)﻿(f) and (g).
+(3) This section does not limit the generality of section 297.
+(4) Regulations made under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 299 Regulations relating to foreign licensed access
 (1) Without limiting the generality of section 297, the Governor-General may from time to time, by Order in Council, make regulations for all or any of the following purposes:
@@ -5524,42 +5628,39 @@ An auditor must, before disclosing information to the Minister under section 296
 (2) All authorities, approvals, requirements, conditions, directions, instructions, orders, permits, notices, and circulars issued or imposed under regulations made under this Act shall have effect according to their tenor and shall be complied with by all persons affected thereby.
 
 ### 302A Gazette notices may be consolidated
-(1) The Minister may publish a notice in the Gazette—
-  (a) that revokes 1 or more notices that were given under this Act by the Minister and were required to be published in the Gazette and that are not secondary legislation; and
-  (b) that otherwise has the same effect as the revoked notices had immediately before they were revoked.
-(2) The chief executive may publish a notice in the Gazette—
-  (a) that revokes 1 or more notices that were given under this Act by the chief executive and were required to be published in the Gazette and that are not secondary legislation; and
-  (b) that otherwise has the same effect as the revoked notices had immediately before they were revoked.
-(3) Each part of the new notice that has the same effect as a part of a revoked notice that was given under a particular provision of this Act must be treated as having been given under that provision.
-(4) Any prerequisites for publication of the new notice must be treated as having been satisfied, but only to the extent that the prerequisites for publication of the revoked notices were satisfied when they were published.
-(5) A revoked notice continues to have effect, as if it had not been revoked, on any matter in a period to which the revoked notice applied.
-(5A)
-(6) In this section, in any particular case,—
-  - **new notice** means—
-    (a) the notice published by the Minister under subsection (1) to replace the revoked notices; or
-    (b) the notice published by the chief executive under subsection (2) to replace the revoked notices
-  - **revoked notices** means—
-    (a) the 1 or more notices revoked by the Minister's new notice under subsection (1)﻿(a); or
-    (b) the 1 or more notices revoked by the chief executive's new notice under subsection (2)﻿(a).
+[Repealed]
 
-### 303 Certain secondary legislation may be consolidated
-(1) The Minister may make a notice under section 11(4)﻿(b)﻿(i), 15(5), 16(1), 17B(5)﻿(b), 18, 19(5)﻿(a) or (c), 19(5A), 33(1)﻿(b), 113ZD(3), 186A, 312(3), 368(6), 368A(5) or (8), or 369(6)—
-  (a) that revokes 1 or more notices that were made under those sections by the Minister; and
-  (b) that otherwise has the same effect as the revoked notices had immediately before they were revoked.
-(2) The chief executive may make a notice under section 186B, 186Q(1), 186Q(6)﻿(b), 192A, 271, 313, or 368A(11)—
-  (a) that revokes 1 or more notices that were made under those sections by the chief executive; and
-  (b) that otherwise has the same effect as the revoked notices had immediately before they were revoked.
-(3) Each part of the new notice that has the same effect as a part of a revoked notice that was made under a particular provision of this Act must be treated as having been made under that provision.
-(4) Any prerequisites for making the new notice must be treated as having been satisfied, but only to the extent that the prerequisites for making the revoked notices were satisfied when they were made.
-(5) A revoked notice continues to have effect, as if it had not been revoked, on any matter in a period to which the revoked notice applied.
-(6) A new notice is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
-(7) In this section, in any particular case,—
-  - **new notice** means—
-    (a) the notice made by the Minister under subsection (1) to replace the revoked notices; or
-    (b) the notice made by the chief executive under subsection (2) to replace the revoked notices
-  - **revoked notice** means—
-    (a) a notice revoked by the Minister’s new notice under subsection (1)﻿(a); or
-    (b) a notice revoked by the chief executive’s new notice under subsection (2)﻿(a).
+### 303 Certain secondary legislation or published instruments may be consolidated
+Secondary legislation made by same maker and with same publishing requirements
+(1) The Minister or the chief executive (the maker) may at any time apply this section to any secondary legislation that—
+  (a) the maker has made, or may make, under a provision of this Act, or of regulations made under this Act, by satisfying the same requirements for publishing the secondary legislation; and
+  (b) is not drafted by the PCO (see section 67 of the Legislation Act 2019).
+Other instruments made by same maker and with same publishing requirements
+(2) The Minister or the chief executive (the maker) may at any time apply this section to any instruments that—
+  (a) the maker has made, or may make, under any provisions of this Act, or of regulations made under this Act, by satisfying the same requirements for publishing the instruments; and
+  (b) are not secondary legislation.
+Once this section is applied to specific instruments
+(3) The powers of the maker to amend or replace the specific instruments (whether given by a specific empowering provision, section 48 of the Legislation Act 2019, or otherwise) authorise the maker to—
+  (a) revoke any specific instrument that has been made (a revoked instrument); and
+  (b) make an instrument under any of the specific empowering provisions (the new instrument) that—
+    (i) has the same effect that all or part of the revoked instrument or instruments had immediately before being revoked; and
+    (ii) otherwise has any further effect (if any) authorised by the specific empowering provisions (the new or amended parts).
+(4) For each part of the new instrument (the replacement part) that has the same effect as part of a revoked instrument (the revoked part),—
+  (a) the replacement part must be treated as being made under the specific empowering provision under which the revoked part was made; and
+  (b) any requirements for making the replacement part or for revoking the revoked part, other than the requirements for publication, must be treated as being satisfied to the extent that the requirements for making the revoked part were satisfied when it was made.
+(5) To avoid doubt,—
+  (a) the new or amended parts of the new instrument (if any) are made under the relevant specific empowering provisions; and
+  (b) any requirements of the relevant specific empowering provisions must be satisfied in making those parts.
+(6) A revoked instrument continues to have effect, as if it had not been revoked, in relation to any matter in a period to which the revoked instrument applied.
+(7) In this section,—
+  - **instrument** has the meaning given in section 5 of the Legislation Act 2019
+  - **maker** , in relation to an instrument, means the person empowered to make it, as defined by subsection (1) or (2)
+  - **specific empowering provisions** means the provisions of this Act, or of regulations, that—
+    (a) empower the making of the specific instruments; and
+    (b) are referred to in the subsection under which the maker applies this section to the specific instruments
+  - **specific instruments** means the 1 or more instruments to which the maker applies this section, whether the instruments—
+    (a) have been made (and are to be revoked); or
+    (b) are able to be made.
 
 ### 304 Circulars
 (1) Regulations under this Act may provide for the promulgation from time to time by the chief executive of circulars specifying general criteria for the drawing up, accomplishment, demonstration, carrying on, or provision for any act, plan, proposal, matter, system, process, or thing.
@@ -5683,43 +5784,7 @@ Notwithstanding anything in the Commodity Levies Act 1990, that Act shall apply 
 **Repeals and amendments**
 
 ### 314 Repeals of provisions of Fisheries Act 1983
-(1) The following provisions of the Fisheries Act 1983 are hereby repealed:
-  (a)
-  (b)
-  (c)
-  ((d)–(zo)) Amendment(s) incorporated in the Act(s).
-(2) The following enactments are hereby consequentially repealed:
-  (a) Amendment(s) incorporated in the Act(s):
-  (b) the Territorial Sea and Exclusive Economic Zone Amendment Act 1980:
-  (c) the Territorial Sea and Exclusive Economic Zone Amendment Act 1985:
-  (d) Amendment(s) incorporated in the Act(s):
-  (e) the Fisheries Amendment Act 1986:
-  (f) Amendment(s) incorporated in the Act(s):
-  (g) Amendment(s) incorporated in the Act(s):
-  (h) Amendment(s) incorporated in the Act(s):
-  (i) Amendment(s) incorporated in the Act(s):
-  (j) Amendment(s) incorporated in the Act(s):
-  (k) Amendment(s) incorporated in the Act(s):
-  (l) the Fisheries Amendment Act (No 2) 1990:
-  (m) Amendment(s) incorporated in the Act(s):
-  (n) the Fisheries Amendment Act 1991:
-  (o) the Fisheries Amendment Act (No 2) 1992:
-  (p) Amendment(s) incorporated in the Act(s):
-  (q) the Fisheries Amendment Act (No 3) 1992:
-  (r) the Fisheries Amendment Act 1993:
-  (s) the Fisheries Amendment Act 1994:
-  (t) Amendment(s) incorporated in the Act(s):
-  (u) the Fisheries Amendment Act (No 2) 1994:
-  (v) Amendment(s) incorporated in the Act(s):
-  (w) the Fisheries Amendment Act 1995.
-(3) The Fisheries (Crown Contribution) Order 1995 (SR 1995/205) is hereby consequentially revoked.
-(4) Without limiting anything in the Interpretation Act 1999, the repeal of any enactment by this section does not affect any amendment made to any enactment by any of the following enactments:
-  (a) section 108(5) of the Fisheries Act 1983:
-  (b) section 30 of the Fisheries Amendment Act 1986:
-  (c) sections 57 and 58 of the Fisheries Amendment Act 1990:
-  (d) section 31 of the Fisheries Amendment Act 1991:
-  (e) Part 2 of the Fisheries Amendment Act (No 2) 1992:
-  (f) section 37 of the Treaty of Waitangi (Fisheries Claims) Settlement Act 1992.
+[Repealed]
 
 ### 315 Change of name of Fishing Industry Board Act 1963
 [Repealed]
@@ -6241,6 +6306,75 @@ Section 369L(3) expires with the close of 31 January 2007.
 (1) This clause applies if any amount for which there is a repayment agreement under section 79(1A)﻿(b) has not been paid by 1 October 2021.
 (2) For the purpose of section 79(1), and until the amount is paid, the amount does not count towards the total amount of deemed values owed by a commercial fisher, unless there has been a failure to pay the amount within the time limit specified in the agreement.
 
+### 3 Interpretation
+In this Part,—
+  - **amendment Act** means the Fisheries Amendment Act 2022
+  - **commencement** means the date on which this Part comes into force
+  - **relevant enactment** means an enactment specified in a table in clause 6, 7, or 8.
+
+### 4 2023–24 fishing year for green-lipped mussel in quota management area 9
+[Not in force]
+
+### 5 Continuation of certain regulations
+(1) This clause applies to the Fisheries (Amateur Fishing) Regulations 2013.
+(2) The daily amounts, daily limits, accumulation limits, and minimum sizes specified in the regulations immediately before 29 November 2022 continue to apply until corresponding limits or sizes are enacted and brought into force by an instrument made by the Minister under the regulations.
+
+### 6 Exemptions in regulations continued for specified period for certain stocks or species
+(1) This clause is repealed on the earlier of—
+  (a) 30 September 2026:
+  (b) a date appointed by Order in Council on the recommendation of the Minister.
+(2) Section 72(1) does not apply to any fish of a stock or species listed in the following table that is taken by a commercial fisher if—
+  (a) a relevant enactment prohibits a person from taking or possessing the fish (whether by reason of a condition, requirement, size limit, or otherwise); and
+  (b) the fish is returned to or abandoned in the sea or any other waters in accordance with the relevant enactment:The following table is small in size and has 2 columns. Column 1 is headed Stock or species. Column 2 is headed Relevant enactment.Stock or speciesRelevant enactmentFisheries (Commercial Fishing) Regulations 2001Blue cod (Parapercis colias)Regulation 31Blue moki (Latridopsis ciliaris)Regulation 31Butterfish (Odax pullus, Odax cyanoallix)Regulation 31Flatfishes (except sand flounder) (Rhombosolea leporine, Rhombosolea retiaria, Rhombosolea tapirina, Colistium guntheri, Colistium nudipinnis, Pelotretis flavilatus, Peltorhamphus novaezeelandiae)Regulation 31Kingfish (Seriola lalandi)Regulation 31Red cod (Pseudophycis bachus)Regulation 31Red moki (Cheilodactylus spectabilis)Regulation 31Sand flounder (Rhombosolea plebia)Regulation 31Snapper (Pagrus auratus)Regulation 31Tarakihi (Nemadactylus macropterus)Regulation 31Trevally (Pseudocaranx dentex)Regulation 31Paua (Haliotis iris (ordinary paua)) Regulation 32Paua (Haliotis australis (yellow foot paua))Regulation 32Dredge oysters (Tiostrea chilensis)Regulation 32Scallops (Pecten novaezelandiae)Regulation 32Female spiny rock lobster (Jasus edwardsii)Regulation 37Male spiny rock lobster (Jasus edwardsii)Regulation 37Packhorse rock lobster (Jasus verreauxi)Regulation 37Rock lobster (any species of rock lobster)Regulation 41Eel (short-finned eel (Anguilla australis) and long-finned eel (Anguilla dieffenbachii))Regulation 50Eel (short-finned eel (Anguilla australis) and long-finned eel (Anguilla dieffenbachii))Regulation 51Fisheries (Auckland and Kermadec Areas Commercial Fishing) Regulations 1986Coromandel scallops (Pecten novaezelandiae)Regulation 22BFisheries (Central Area Commercial Fishing) Regulations 1986Paddle crabs (Ovalipes catharus)Regulation 14DMale spiny rock Lobster (Jasus edwardsii)Regulation 14KFisheries (Challenger Area Commercial Fishing) Regulations 1986Scallops (Pecten novaezelandiae)Regulation 12BPaddle crabs (Ovalipes catharus)Regulation 14EFisheries (South-East Area Commercial Fishing) Regulations 1986Spiny rock lobster (Jasus edwardsii)Regulation 6Paddle crab (Ovalipes catharus)Regulation 11JEel (short-finned eel (Anguilla australis) and long-finned eel (Anguilla dieffenbachii))Regulation 11NMale short-finned eel (Anguilla australis)Regulation 11OFisheries (Southland and Sub-Antarctic Areas Commercial Fishing) Regulations 1986Female spiny rock lobster (Jasus edwardsii)Regulation 5CPaddle crab (Ovalipes catharus)Regulation 15H
+
+### 7 Stocks or species deemed to meet criteria in section 72A
+(1) The Minister may make an instrument under section 72A that has effect for a specified period or indefinitely for any stock or species listed in table 1 without further authority than this subclause and as if the statutory prerequisites for making the instrument had been complied with:The following table is small in size and has 2 columns. Column 1 is headed Stock or species. Column 2 is headed Relevant enactment.Stocks or species deemed to meet criteria in section 72A for specified period or indefinitelyStock or speciesRelevant enactmentFisheries (Commercial Fishing) Regulations 2001Paua (Haliotis iris (ordinary paua)) Regulation 32Paua (Haliotis australis (yellow foot paua))Regulation 32Dredge oysters (Tiostrea chilensis)Regulation 32Scallops (Pecten novaezelandiae)Regulation 32Female spiny rock lobster (Jasus edwardsii)Regulation 37Male spiny rock lobster (Jasus edwardsii)Regulation 37Packhorse rock lobster (Jasus verreauxi)Regulation 37Rock lobster (any species of rock lobster)Regulation 41Eel (short-finned eel (Anguilla australis) and long-finned eel (Anguilla dieffenbachii))Regulation 50Eel (short-finned eel (Anguilla australis) and long-finned eel (Anguilla dieffenbachii))Regulation 51Fisheries Act 1996, Schedule 6Rock lobster (Jasus verreauxi, Jasus edwardsii) in all New Zealand fisheries watersPrawn killer (Ibacus alticrenatus) in all New Zealand fisheries watersPaddle crab (Ovalipes catharus) in all New Zealand fisheries watersDeepwater crab (Chaceon bicolor, Lithodes murrayi, Neolithodes brodiei, and Jacquinotia edwardsii) in all New Zealand fisheries watersCockle (Austrovenus stutchburyi) in all New Zealand fisheries waters except fishery management area 10Green-lipped mussel (Perna canaliculus) in quota management areas GLM1, GLM2, GLM3, GLM7A, GLM7B, GLM8, and GLM10Green-lipped mussel (Perna canaliculus) in quota management area GLM9Pipi (Paphies australis) in all New Zealand fisheries waters except fishery management area 10Surf clams (Bassina yatei, Dosinia anus, Dosinia subrosea, Mactra discors, Mactra murchisoni, Paphies donacina, Spisula aequilatera) in all New Zealand fisheries waters except fishery management areas 6 and 10Dredge oyster (Ostrea chilensis) in all New Zealand fisheries waters except quota management area OYU5 and fishery management area 10Knobbed whelk (Austrofusus glans) in quota management areas KWH1, KWH2, KWH3, KWH4, KWH5, KWH6, KWH7A, KWH7B, KWH8, and KWH9Freshwater eel (Anguilla australis, Anguilla dieffenbachii, and Anguilla reinhardtii) in all New Zealand fisheries watersBladder kelp (Macrocystis pyrifera) in all New Zealand fisheries watersKina (Evechinus chloroticus) in all New Zealand fisheries waters
+(2) The Minister may make an instrument under section 72A that has effect until a date no later than 30 September 2026 for any stock or species listed in table 2 without further authority than this subclause and as if the statutory prerequisites for making the instrument had been complied with:The following table is large in size and has 2 columns. Column 1 is headed Stock or species. Column 2 is headed RequirementsStocks or species deemed to meet criteria in section 72A until a date no later than 30 September 2026Stock or speciesRequirementsBlue shark (Prionace glauca) in all New Zealand fisheries watersA commercial fisher may return any blue shark to the waters from which it was taken—For the purposes of paragraph (b) of this requirement, near-dead means unlikely to survive on return.Chatham Islands scallops (Pecten novaezelandiae) in the Chatham Islands scallop fisheryA commercial fisher must immediately return a Chatham Islands scallop to the waters from which it was taken if the scallop is taken—Coromandel scallops (Pecten novaezelandiae) in the Coromandel scallop fisheryA commercial fisher must immediately return a Coromandel scallop to the waters from which it was taken if the scallop is taken—Kingfish (Seriola lalandi) in all New Zealand fisheries watersA commercial fisher may return a kingfish of legal size to the waters from which it was taken if that fish—Mako shark (Isurus oxyrinchus) in all New Zealand fisheries watersA commercial fisher may return any mako shark to the waters from which it was taken—For the purposes of paragraph (b) of this requirement, near-dead means unlikely to survive on return.Northern scallops (Pecten novaezelandiae) in the Northland scallop fisheryA commercial fisher must immediately return any Northland scallop to the waters from which it was taken if the scallop is taken—Patagonian toothfish (Dissostichus eleginoides) in all New Zealand fisheries watersA commercial fisher may return any Patagonian toothfish to the waters from which it was taken if—Porbeagle shark (Lamna nasus) in all New Zealand fisheries watersA commercial fisher may return any porbeagle shark to the waters from which it was taken—For the purposes of paragraph (b) of this requirement, near-dead means unlikely to survive on return.Queen scallop (Zygochlamys delicatula) in all New Zealand fisheries watersA commercial fisher may return any queen scallop to the waters from which it is taken if—Rig (Mustelus lenticulatus) in all New Zealand fisheries watersA commercial fisher may return any rig to the waters from which it was taken if—Rough skate (Dipturus nasutus) in all New Zealand fisheries watersA commercial fisher may return any rough skate to the waters from which it was taken if—Scallop (Pecten novaezelandiae) in quota management areas SCA1A, SCA2A, SCA3, SCA5, SCA7A, SCA7B, SCA7C, SCA8A, SCA9AA commercial fisher may return a scallop of legal size to the waters from which it was taken if the scallop is likely to survive on return.School shark (Galeorhinus galeus) in all New Zealand fisheries watersA commercial fisher may return any school shark to the waters from which it was taken if—Sea cucumber (Stichopus mollis) in all New Zealand fisheries watersA commercial fisher may return any sea cucumber to the waters from which it was taken if—Smooth skate (Dipturus innominatus) in all New Zealand fisheries watersA commercial fisher may return any smooth skate to the waters from which it was taken if—Southern bluefin tuna (Thunnus maccoyii) in all New Zealand fisheries waters and all waters outside the outer boundary of the exclusive economic zoneA person who is a New Zealand national fishing against New Zealand's national allocation of southern bluefin tuna may return any southern bluefin tuna to the waters from which it was taken if—Southern scallops (Pecten novaezelandiae) in the southern scallop fisheryA commercial fisher may return a southern scallop of legal size to the waters from which it was taken if the scallop is likely to survive on return.Spiny dogfish (Squalus acanthias) in all New Zealand fisheries watersA commercial fisher may return any spiny dogfish (whether live or dead) to the waters from which it was taken.Swordfish (Xiphias gladius) in all New Zealand fisheries watersA commercial fisher may return any swordfish to the waters from which it was taken if—For the purposes of this requirement, lower jaw to fork length means the projected straight line distance from the foremost point of the lower jaw to the rear centre edge of the tail (caudal fin).
+  (a) live, if the blue shark is likely to survive on return and the return takes place as soon as practicable after the blue shark was taken; or
+  (b) dead or near-dead, if paragraph (a) does not apply.
+  (a) during any closed season in the Chatham Islands scallop fishery; or
+  (b) in any area in which the taking of Chatham Islands scallops is, at that time, prohibited.
+  (a) during any closed season in the Coromandel scallop fishery; or
+  (b) in any area in which the taking of Coromandel scallops is, at that time, prohibited.
+  (a) is not taken by the method of set netting; and
+  (b) is likely to survive; and
+  (c) is returned to the same waters from which it was taken; and
+  (d) is returned as soon as practicable; and
+  (e) is recorded and reported on catch effort landing returns using an appropriate code.
+  (a) live, if the mako shark is likely to survive on return and the return takes place as soon as practicable after the mako shark was taken; or
+  (b) dead or near-dead, if paragraph (a) does not apply.
+  (a) during any closed season in the Northland scallop fishery; or
+  (b) in any area in which the taking of northern scallops is, at the time, prohibited.
+  (a) the Patagonian toothfish is likely to survive on return; and
+  (b) the return takes place as soon as practicable after the Patagonian toothfish is taken; and
+  (c) in the case of a trawl-caught Patagonian toothfish, it is released only in the presence of an observer.
+  (a) live, if the porbeagle shark is likely to survive on return and the return takes place as soon as practicable after the porbeagle shark was taken; or
+  (b) dead or near-dead, if paragraph (a) does not apply.
+  (a) the queen scallop is likely to survive the return; and
+  (b) the return takes place as soon as practicable after the queen scallop is taken.
+  (a) the rig is likely to survive on return; and
+  (b) the return takes place as soon as practicable after the rig is taken.
+  (a) that rough skate is likely to survive on return; and
+  (b) the return takes place as soon as practicable after the rough skate is taken.
+  (a) the school shark is likely to survive on return; and
+  (b) the return takes place as soon as practicable after the school shark is taken.
+  (a) that sea cucumber is likely to survive on return; and
+  (b) the return takes place as soon as practicable after the sea cucumber is taken.
+  (a) that smooth skate is likely to survive on return; and
+  (b) the return takes place as soon as practicable after the smooth skate is taken.
+  (a) that southern bluefin tuna is likely to survive on return; and
+  (b) the return takes place as soon as practicable after the southern bluefin tuna is taken.
+  (a) that swordfish is likely to survive on return; and
+  (b) the return takes place as soon as practicable after the swordfish is taken; and
+  (c) that swordfish has a lower jaw to fork length of less than 1.25 m.
+(3) The Minister may make an instrument for any stock or species listed in table 1 that includes the same or similar requirements, conditions, or size limits found in the corresponding enactment immediately before commencement.
+(4) The Minister may make an instrument for any stock or species listed in table 2 that includes the same or similar requirements, conditions, or size limits specified in that table.
+(5) On the commencement of an instrument that applies to any of those stocks or species, subclause (1) or (2), as the case may be, ceases to apply to those stocks or species.
+(6) If any of those stocks or species ceases to be subject to an instrument made under section 72A, the authority conferred by subclause (1) or (2) is not revived and the Minister must comply with the statutory prerequisites before including the stock or species in a subsequent instrument under that section.
+
+### 8 References to Fisheries Act 1983
+The repeal of the Fisheries Act 1983 does not affect the operation of provisions in this Act that refer to any provision of the Fisheries Act 1983.
+
 ## Schedule 1A — Agreement for the implementation of the provisions of the United Nations Convention on the Law of the Sea of 10 December 1982 relating to the conservation and management of straddling fish stocks and highly migratory fish stocks
 
 ### Schedule.Group
@@ -6392,44 +6526,6 @@ All positions and directions described in this schedule are based on a geographi
 ## Schedule 5A — Stocks to which sections 67A and 340A do not apply
 
 ## Schedule 6 — Stocks which may be returned to the sea or other waters in accordance with stated requirements
-
-| Stock | Area | Requirements |
-| --- | --- | --- |
-| Bladder kelp (Macrocystis pyrifera) | All New Zealand fisheries waters | A commercial fisher may return bladder kelp to the waters from which it was taken if it was taken as the inevitable consequence of the taking of other fish, aquatic life, or seaweed in accordance with a current fishing permit. |
-| Blue shark (Prionace glauca) | All New Zealand fisheries waters | A commercial fisher may return any blue shark to the waters from which it was taken—alive, if the blue shark is likely to survive on return and the return takes place as soon as practicable after the blue shark was taken; orbdead or near-dead, if paragraph (a) does not apply.For the purposes of paragraph (b) of this requirement, near-dead means unlikely to survive on return. |
-| Chatham Islands scallops (Pecten novaezelandiae) | Chatham Islands scallop fishery | A commercial fisher must immediately return a Chatham Islands scallop to the waters from which it was taken if the scallop is taken—aduring any closed season in the Chatham Islands scallop fishery; orbin any area in which the taking of Chatham Islands scallops is, at that time, prohibited. |
-| Cockle (Austrovenus stutchburyi) | All New Zealand fisheries waters except fisheries management area 10 | A commercial fisher may return any cockle to the waters from which it is taken if—athe cockle is likely to survive the return; andbthe return takes place as soon as practicable after the cockle is taken. |
-| Coromandel scallops (Pecten novaezelandiae) | Coromandel scallop fishery | A commercial fisher must immediately return a Coromandel scallop to the waters from which it was taken if the scallop is taken—aduring any closed season in the Coromandel scallop fishery; orbin any area in which the taking of Coromandel scallops is, at that time, prohibited. |
-| Deepwater crab (Chaceon bicolor, Lithodes murrayi, Neolithodes brodiei, and Jacquinotia edwardsii) | All New Zealand fisheries waters | A commercial fisher may return any deepwater crab to the waters from which it was taken if that deepwater crab—ais taken using potting gear; andbis likely to survive; andcthe return takes place as soon as practicable after the deepwater crab is taken. |
-| Dredge oyster (Ostrea chilensis) | All New Zealand fisheries waters except quota management area OYU5 and fisheries management area 10 | A commercial fisher may return a dredge oyster of legal size to the waters from which it was taken if the oyster is likely to survive on return. |
-| Freshwater eel (Anguilla australis, Anguilla dieffenbachii, and Anguilla reinhardtii) | All New Zealand fisheries waters | A commercial fisher may return any freshwater eel of legal size to the waters from which it is taken if—athat eel is likely to survive on return; andbthe return takes place as soon as practicable after the eel is taken. |
-| Green-lipped mussel (Perna canaliculus) | Quota management areas GLM1, GLM2, GLM3, GLM7A, GLM7B, GLM8, and GLM10 | A commercial fisher may return any green-lipped mussel to the sea if that green-lipped mussel is likely to survive on return. |
-| Green-lipped mussel (Perna canaliculus) | Quota management area GLM9 | A commercial fisher may return any green-lipped mussel to the sea. |
-| Kina (Evechinus chloroticus) | All New Zealand fisheries waters | A commercial fisher may return kina to the waters from which it was taken if the kina—ais taken by hand-gathering; andbis likely to survive on return. |
-| Kingfish (Seriola lalandi) | All New Zealand fisheries waters | A commercial fisher may return a kingfish of legal size to the waters from which it was taken if that fish—ais not taken by the method of set netting; andbis likely to survive; andcis returned to the same waters from which it was taken; anddis returned as soon as practicable; andeis recorded and reported on catch effort landing returns using an appropriate code. |
-| Knobbed whelk (Austrofusus glans) | Quota management areas KWH1, KWH2, KWH3, KWH4, KWH5, KWH6, KWH7A, KWH7B, KWH8, and KWH9 | A commercial fisher may return any knobbed whelk to the waters from which it was taken if—athe knobbed whelk is likely to survive on return; andbthe return takes place as soon as practicable after the knobbed whelk is taken. |
-| Mako shark (Isurus oxyrinchus) | All New Zealand fisheries waters | A commercial fisher may return any mako shark to the waters from which it was taken—alive, if the mako shark is likely to survive on return and the return takes place as soon as practicable after the mako shark was taken; orbdead or near-dead, if paragraph (a) does not apply.For the purposes of paragraph (b) of this requirement, near-dead means unlikely to survive on return. |
-| Northern scallops (Pecten novaezelandiae) | Northland scallop fishery | A commercial fisher shall immediately return any Northland scallop to the waters from which it was taken if the scallop is taken—aduring any closed season in the Northland scallop fishery; orbin any area in which the taking of northern scallops is, at the time, prohibited. |
-| Paddle crab (Ovalipes catharus) | All New Zealand fisheries waters | A commercial fisher may return any paddle crab to the waters from which it was taken if that paddle crab—ais taken using potting gear; andbis likely to survive; andcthe return takes place as soon as practicable after the paddle crab is taken. |
-| Patagonian toothfish (Dissostichus eleginoides) | All New Zealand fisheries waters | A commercial fisher may return any Patagonian toothfish to the waters from which it was taken if—athe Patagonian toothfish is likely to survive on return; andbthe return takes place as soon as practicable after the Patagonian toothfish is taken; andcin the case of a trawl-caught Patagonian toothfish, it is released only in the presence of an observer. |
-| Pipi (Paphies australis) | All New Zealand fisheries waters except fisheries management area 10 | A commercial fisher may return any pipi to the seabed from which it was taken if—athat pipi is likely to survive on return; andbthe return takes place as soon as practicable after the pipi is taken. |
-| Porbeagle shark (Lamna nasus) | All New Zealand fisheries waters | A commercial fisher may return any porbeagle shark to the waters from which it was taken—alive, if the porbeagle shark is likely to survive on return and the return takes place as soon as practicable after the porbeagle shark was taken; orbdead or near-dead, if paragraph (a) does not apply.For the purposes of paragraph (b) of this requirement, near-dead means unlikely to survive on return. |
-| Prawn killer (Ibacus alticrenatus) | All New Zealand fisheries waters | A commercial fisher may return any prawn killer to the waters from which it was taken if—athat prawn killer is likely to survive on return; andbthe return takes place as soon as practicable after the prawn killer is taken. |
-| Queen scallop (Zygochlamys delicatula) | All New Zealand fisheries waters | A commercial fisher may return any queen scallop to the waters from which it is taken if—athe queen scallop is likely to survive the return; andbthe return takes place as soon as practicable after the queen scallop is taken. |
-| Rig (Mustelus lenticulatus) | All New Zealand fisheries waters | A commercial fisher may return any rig to the waters from which it was taken if—athe rig is likely to survive on return; andbthe return takes place as soon as practicable after the rig is taken. |
-| Rock lobster (Jasus verreauxi, Jasus edwardsii) | All New Zealand fisheries waters | 1A commercial fisher may return any rock lobster of legal size to the waters from which it is taken if—athat rock lobster is likely to survive on return; andbthe return takes place as soon as practicable after the rock lobster is taken. |
-|  |  | 2 |
-|  |  | 3A commercial fisher shall immediately return any rock lobster to the waters from which it was taken if—athe lobster is carrying external eggs; orbthe lobster is in the soft-shell stage, being the stage following moulting when the exoskeleton of the lobster has not reached full hardness; orcthe calcified bar or any part of the exoskeleton (the outer shell of the tail) of the first abdominal segment of the tail is in such a state that its tail cannot properly be measured in the manner required under regulations made under section 297; ordin the case of spiny rock lobster, the calcified bar or any part of the exoskeleton (the outer shell of the tail) of the second abdominal segment of the tail is fractured; or any part of any pleural spine of the second abdominal segment is broken. |
-| Rough skate (Dipturus nasutus) | All New Zealand fisheries waters | A commercial fisher may return any rough skate to the waters from which it was taken if—athat rough skate is likely to survive on return; andbthe return takes place as soon as practicable after the rough skate is taken. |
-| Scallop (Pecten novaezelandiae) | SCA1A, SCA2A, SCA3, SCA5, SCA7A, SCA7B, SCA7C, SCA8A, SCA9A | A commercial fisher may return a scallop of legal size to the waters from which it was taken if the scallop is likely to survive on return. |
-| School shark (Galeorhinus galeus) | All New Zealand fisheries waters | A commercial fisher may return any school shark to the waters from which it was taken if—athe school shark is likely to survive on return; andbthe return takes place as soon as practicable after the school shark is taken. |
-| Sea cucumber (Stichopus mollis) | All New Zealand fisheries waters | A commercial fisher may return any sea cucumber to the waters from which it was taken if—athat sea cucumber is likely to survive on return; andbthe return takes place as soon as practicable after the sea cucumber is taken. |
-| Smooth skate (Dipturus innominatus) | All New Zealand fisheries waters | A commercial fisher may return any smooth skate to the waters from which it was taken if—athat smooth skate is likely to survive on return; andbthe return takes place as soon as practicable after the smooth skate is taken. |
-| Southern bluefin tuna (Thunnus maccoyii) | All New Zealand fisheries waters and all waters outside the outer boundary of the exclusive economic zone | A person who is a New Zealand national fishing against New Zealand's national allocation of southern bluefin tuna may return any southern bluefin tuna to the waters from which it was taken if—athat southern bluefin tuna is likely to survive on return; andbthe return takes place as soon as practicable after the southern bluefin tuna is taken. |
-| Southern scallops (Pecten novaezelandiae) | Southern scallop fishery | A commercial fisher may return a southern scallop of legal size to the waters from which it was taken if the scallop is likely to survive on return. |
-| Spiny dogfish (Squalus acanthias) | All New Zealand fisheries waters | A commercial fisher may return any spiny dogfish (whether live or dead) to the waters from which it was taken. |
-| Surf clams (Bassina yatei, Dosinia anus, Dosinia subrosea, Mactra discors, Mactra murchisoni, Paphies donacina, Spisula aequilatera) | All New Zealand fisheries waters except fisheries management areas 6 and 10 | A commercial fisher may return any surf clam to the waters from which it was taken if—athe surf clam is likely to survive on return; andbthe return takes place as soon as practicable after the surf clam is taken. |
-| Swordfish (Xiphias gladius) | All New Zealand fisheries waters | A commercial fisher may return any swordfish to the waters from which it was taken if—athat swordfish is likely to survive on return; andbthe return takes place as soon as practicable after the swordfish is taken; andcthat swordfish has a lower jaw to fork length of less than 1.25 m.For the purposes of this requirement, lower jaw to fork length means the projected straight line distance from the foremost point of the lower jaw to the rear centre edge of the tail (caudal fin). |
 
 ## Schedule 7 — Authority to enter private dwelling house, enclosed garden, or curtilage, or Maori reservation
 
