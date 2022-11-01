@@ -1,5 +1,5 @@
 # Fisheries Amendment Act 1991
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2022-11-01_
 
 > An Act to amend the Fisheries Act 1983 and the Maori Fisheries Act 1989
 
@@ -54,9 +54,9 @@ _Consolidation as at 2007-09-03_
 [Repealed]
 
 ### 12 Manner and timing of payment of compensation
-(1) This subsection substituted s 28OL(1)(a).
+(1) This subsection substituted s 28OL(1)﻿(a).
 (2)
-(3) This section substituted s 28OL(3)(a) and inserted s 28OL(3)(aa) and (ab) of the principal Act.
+(3) This section substituted s 28OL(3)﻿(a) and inserted s 28OL(3)﻿(aa) and (ab) of the principal Act.
 (4) No person shall have any claim against the Crown, the Minister, the Association, the Federation, or the Commission by reason of any delay in the payment of compensation that became payable under the principal Act before the commencement of this Act.
 (5) Notwithstanding anything in the principal Act, where compensation is payable under any of sections 28OG to 28OI of that Act in respect of any allocation or reduction that occurred before the commencement of this Act, the following provisions shall apply:
   (a) In the case of rock lobster (if the compensation balance is sufficient), the payment due shall be paid out of the compensation balance as at the date of the commencement of this Act and be paid before the close of the next quarter after that date of commencement:
@@ -121,7 +121,7 @@ _Consolidation as at 2007-09-03_
 ### 30 Payments to Crown in lieu of disposal or surrender of fish taken contrary to Act
 (1) Where, in relation to any fish taken before the commencement of this section,—
   (a) Any person either—
-    (i) Has notified or notifies a Fishery Officer or any employee of the Ministry of the matters notifiable under section 88(1)(c)(i) of the principal Act (as added by section 22 of the Fisheries Amendment Act 1986) or section 105A(1)(c)(ii) of that Act or regulation 30A(3)(c) of the Fisheries (Commercial Fishing) Regulations 1986; or
+    (i) Has notified or notifies a Fishery Officer or any employee of the Ministry of the matters notifiable under section 88(1)﻿(c)﻿(i) of the principal Act (as added by section 22 of the Fisheries Amendment Act 1986) or section 105A(1)﻿(c)﻿(ii) of that Act or regulation 30A(3)﻿(c) of the Fisheries (Commercial Fishing) Regulations 1986; or
     (ii) Has furnished or furnishes the Director-General or the Ministry with a return in a form purporting to be required by the Director-General under section 66 of the principal Act or under the Fisheries (Reporting) Regulations 1990, being a return showing that, when the fish were taken, a quantity of fish was taken in excess of the quota (if any) held by that person for that class or species of fish or, in the case of salmon, showing a quantity of fish taken in contravention of regulation 30A of the Fisheries (Commercial Fishing) Regulations 1986; and
   (b) That person or a licensed fish receiver—
     (i) Has paid to the Crown a sum (including any interest and any additional amount for late payment) sought by the Crown in respect of the value of the fish referred to in the notice or return; or
@@ -134,7 +134,7 @@ _Consolidation as at 2007-09-03_
   (c) The sum paid shall be deemed to have been validly paid and the Crown shall be entitled to retain that sum; or
   (d) The request or demand shall be deemed to have been validly made and shall be treated as a lawful debt due to the Crown by the person or licensed fish receiver, and that debt shall, subject to subsection (3) of this section, be deemed to be a statutory debt within the meaning of section 13A of the Ministry of Agriculture and Fisheries Act 1953 and may be recovered in any Court of competent jurisdiction; or
   (e) The agreement or arrangement shall be deemed to have been validly made and all of the parties thereto shall be bound by it.
-(2) Every request or demand referred to in subsection (1)(b)(ii)(B) of this section, not being a request or demand made in place of, and for the same amount as, a request or demand cancelled or withdrawn by the Crown, shall be for a sum calculated having regard to the basis on which any like requests or demands were calculated before the commencement of this Act.
+(2) Every request or demand referred to in subsection (1)﻿(b)﻿(ii)﻿(B) of this section, not being a request or demand made in place of, and for the same amount as, a request or demand cancelled or withdrawn by the Crown, shall be for a sum calculated having regard to the basis on which any like requests or demands were calculated before the commencement of this Act.
 (3) Section 13A of the Ministry of Agriculture and Fisheries Act 1953 shall apply to debts due under this section as if such debts are payable within 3 months after the date on which payment is demanded (being a demand made on or after the commencement of this Act).
 (4) Nothing in subsection (1) of this section affects any demand made under section 28ZD of the principal Act or any payment made under that section.
 
