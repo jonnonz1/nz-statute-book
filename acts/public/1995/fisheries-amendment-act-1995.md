@@ -1,5 +1,5 @@
 # Fisheries Amendment Act 1995
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2022-11-01_
 
 > An Act to amend the Fisheries Act 1983
 
