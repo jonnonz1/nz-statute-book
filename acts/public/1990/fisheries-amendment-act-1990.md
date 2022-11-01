@@ -1,5 +1,5 @@
 # Fisheries Amendment Act 1990
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2022-11-01_
 
 > An Act to amend the Fisheries Act 1983
 
@@ -22,7 +22,7 @@ _Consolidation as at 2007-09-03_
 ### 5 New sections substituted
 (1) This subsection substituted new sections 28C, 28CA, and 28D for the former sections 28C and 28D (as inserted by section 10 of the Fisheries Amendment Act 1986) of the principal Act.
 (2) Section 50 of the Maori Fisheries Act 1989 is hereby consequentially repealed.
-(3) For the avoidance of doubt, it is hereby declared that the words appearing in section 28D(1)(a)(i) of the principal Act (as enacted by subsection (1) of this section) shall bear the same meaning as the same words bore in section 28C(1) of the principal Act immediately before its repeal by subsection (1) of this section, and that the use of the term total allowable commercial catch in the said section 28D(1) shall not, by reason of the word commercial appearing in that term, be construed as altering that meaning.
+(3) For the avoidance of doubt, it is hereby declared that the words appearing in section 28D(1)﻿(a)﻿(i) of the principal Act (as enacted by subsection (1) of this section) shall bear the same meaning as the same words bore in section 28C(1) of the principal Act immediately before its repeal by subsection (1) of this section, and that the use of the term total allowable commercial catch in the said section 28D(1) shall not, by reason of the word commercial appearing in that term, be construed as altering that meaning.
 
 ### 6
 [Repealed]
@@ -51,7 +51,7 @@ _Consolidation as at 2007-09-03_
 ### 14 Allocation of individual transferable quota
 (1) This subsection inserted subsection 28O(1A) in the principal Act.
 (2) This subsection amended section 28O(2) of the principal Act.
-(3) This subsection substituted paragraph for 28O(6)(a) of the principal Act.
+(3) This subsection substituted paragraph for 28O(6)﻿(a) of the principal Act.
 (4) Notwithstanding anything in section 28O(1A) of the principal Act (as inserted by subsection (1) of this section), no quota for squid shall be deemed to be allocated to the Crown at any time when the interim order made by the High Court on the 2nd day of November 1987 in certain proceedings commenced by the filing of applications in the Wellington Registry under numbers CP559/87, 610/87, and 614/87, as subsequently varied by that Court, is in force, except to the extent that any variation to the order so allows; and, until that order is discharged or any variation so allows,—
   (a) The Crown may, to the extent that it is not inconsistent with the interim order or any variation to that order, deal with quota for squid in accordance with section 28T of the principal Act as if that section had not been repealed by section 20 of this Act; and
   (b) The provisions of the said section 28T, as in force before its repeal, shall apply accordingly in relation to any such dealings.
