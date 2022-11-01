@@ -1,5 +1,5 @@
 # Fisheries Act 1983 Amendment Act 1999
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2022-11-01_
 
 > An Act to amend the Fisheries Act 1983
 
@@ -9,11 +9,11 @@ _Consolidation as at 2007-09-03_
 (3) The rest of this Act comes into force on a date to be appointed by the Governor-General by Order in Council; and 1 or more Orders in Council may be made appointing different dates for different provisions and different purposes.
 
 ### 2 Interpretation
-Section 2(1) of the principal Act is amended by inserting, after the definition of the term Authority, the following definition:.
+Section 2(1) of the principal Act is amended by inserting, after the definition of the term Authority, the following definition:
   - **Beach cast seaweed** means seaweed of any species that is unattached and cast ashore
 
 ### 3 Fishing permits
-(1) Section 63(13) of the principal Act is amended by repealing paragraph (a), and substituting the following paragraph:.
+(1) Section 63(13) of the principal Act is amended by repealing paragraph (a), and substituting the following paragraph:
   (a) A fishing permit must not be issued in respect of any species of fish (other than tuna), aquatic life, or seaweed (other than beach cast seaweed), that is not for the time being subject to a quota management system (being established by or under Part IIA or Part IIB), except to a person who—
     (i) Held a fishing permit that was in force on 30 September 1992; and
     (ii) Lawfully took fish, aquatic life, or seaweed under a fishing permit held by that person at any time during the period commencing on 1 October 1990 and ending with the close of 30 September 1992:
@@ -43,7 +43,7 @@ The principal Act is amended by inserting, after section 63, the following secti
 Section 67(1) of the principal Act is amended by inserting, after the words dispose of fish, the words or beach cast seaweed.
 
 ### 6 Giving of notices, etc
-(1) Section 88A(1)(e) of the principal Act is amended by adding the expression ; or.
+(1) Section 88A(1)﻿(e) of the principal Act is amended by adding the expression ; or.
 (2) Section 88A(1) of the principal Act is amended by adding the following paragraph:
   (f) Except in the case of any notice or document to be given or served in the course of or for the purpose of any proceedings for an offence against this Act, sent by electronic transmission to the person, or any other person authorised to act on the person's behalf, at that person's or other person's usual or last known address; and, for the purposes of this paragraph,—
     (i) The term electronic transmission means any transmission of information sent electronically; and includes any transmission sent by fax, electronic mail, or electronic data transfer:
@@ -63,7 +63,7 @@ The principal Act is amended by inserting, after section 88A, the following sect
   (3) The chief executive may alter or revoke any approval given under subsection (1).
 
 ### 8 Regulations
-Section 89(1) of the principal Act is amended by inserting, after paragraph (kc), the following paragraph:.
+Section 89(1) of the principal Act is amended by inserting, after paragraph (kc), the following paragraph:
   (kd) Setting out conditions and other provisions that apply to approvals given under section 88B for the electronic transmission of accounts, applications, information, notices, objections, records, requests, returns, transactions, or other documents:
 
 ### 9 Certificates and official documents
