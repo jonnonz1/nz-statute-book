@@ -1,5 +1,5 @@
 # Search and Surveillance Act 2012
-_Consolidation as at 2022-09-07_
+_Consolidation as at 2022-11-15_
 
 ### 1 Title
 This Act is the Search and Surveillance Act 2012.
@@ -17,7 +17,7 @@ This Act is the Search and Surveillance Act 2012.
 (1) In this Act, unless the context otherwise requires,—
   - **access** , in relation to any computer system, means instruct, communicate with, store data in, receive data from, or otherwise make use of any of the resources of the computer system
   - **access information** includes codes, passwords, and encryption keys, and any related information that enables access to a computer system or any other data storage device
-  - **arms** means any firearm, airgun, pistol, prohibited magazine, restricted weapon, imitation firearm, or explosive (as those terms are defined in the Arms Act 1983), or any ammunition
+  - **arms** means any firearm, airgun, pistol, pistol carbine conversion kit, restricted weapon, prohibited magazine, non-prohibited magazine, part, imitation firearm, or explosive (as those terms are defined in the Arms Act 1983), or any ammunition
   - **business context** , in relation to the acquisition of any information by a person, means the acquisition of the information in the person's capacity as—
     (a) a provider of professional services or professional advice in relation to a person who is being investigated, or 1 or more of whose transactions are being investigated, in respect of an offence; or
     (b) a director, manager, officer, trustee, or employee of an entity that is being investigated, or 1 or more of whose transactions are being investigated, in respect of an offence
@@ -489,11 +489,11 @@ Nothing in this Part affects the common law defence of necessity as it applies t
 ### 45 Restrictions on some trespass surveillance and use of interception device
 (1) Nothing in this subpart authorises any enforcement officer to undertake trespass surveillance (other than by means of a tracking device) except in order to obtain evidential material in relation to an offence—
   (a) that is punishable by a term of imprisonment of 7 years or more; or
-  (b) against section 16(4), 16A, 43, 43AA, 44, 44AA, 44A, 45, 50, 50A, 50AA, 50B, 50C, 50CA, 50D, 51, 53A(2), 54, 55, or 55A of the Arms Act 1983; or
+  (b) against section 16(4), 16A, 42A, 42B, 43, 43AA, 44, 44AA, 44A, 45, 50, 50A, 50AA, 50B, 50C, 50CA, 50D, 51, 53A(2), 54, 55, or 55A of the Arms Act 1983; or
   (c) against section 25, 26, or 70 of the Psychoactive Substances Act 2013.
 (2) Nothing in this subpart authorises any enforcement officer to use an interception device except in order to obtain evidential material in relation to an offence—
   (a) that is punishable by a term of imprisonment of 7 years or more; or
-  (b) against section 16(4), 16A, 44, 44A, 45, 50, 50A, 50B, 50C, 50D, 51, 53A(2), 54, 55, or 55A of the Arms Act 1983; or
+  (b) against section 16(4), 16A, 42A, 42B, 44, 44A, 45, 50, 50A, 50B, 50C, 50D, 51, 53A(2), 54, 55, or 55A of the Arms Act 1983; or
   (c) against section 25, 26, or 70 of the Psychoactive Substances Act 2013.
 
 **Surveillance device warrants**
