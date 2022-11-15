@@ -1,5 +1,5 @@
 # Arms Act 1983
-_Consolidation as at 2022-08-16_
+_Consolidation as at 2022-11-15_
 
 > Title
 
@@ -72,6 +72,7 @@ _Consolidation as at 2022-08-16_
       (iii) anything (being a firearm within the meaning of paragraph (a) or subparagraph (i)) which is for the time being dismantled or partially dismantled; and
       (iv) any specially dangerous airgun
   - **firearms licence** means a firearms licence issued under section 24
+  - **firearms prohibition order** or means an order made against a person by a court under section 39A
   - **health practitioner** means a health practitioner registered with the Medical Council of New Zealand, a nurse practitioner registered with the Nursing Council of New Zealand, a psychologist registered with the New Zealand Psychologists Board, or a duly authorised officer under the Mental Health (Compulsory Assessment and Treatment) Act 1992
   - **imitation firearm** means anything that has the appearance of being a firearm capable of discharging any shot, bullet, missile, or other projectile, whether or not it is capable of discharging any shot, bullet, missile, or other projectile
   - **improvement notice** means a notice issued under section 60
@@ -218,9 +219,12 @@ In this Act, prohibited ammunition means any ammunition declared by the Governor
   (b) any requirement to mark any firearm or other item with an identifying marking:
   (c) any requirement to provide any particulars to the Police for inclusion in the registry:
   (d) any requirement to record any particulars, whether in the registry or elsewhere.
-(6) No prosecution for an offence against any of sections 55D, 55E, 55F, and 55G may be commenced or continued against any constable in respect of any act committed by them at a time or during a period when they were acting as an undercover officer, except with the leave of the Attorney-General.
+(6) Except with the leave of the Attorney-General, no prosecution for any of the following offences may be commenced or continued against any constable in respect of any act they commit at a time or during a period when they are acting as an undercover officer:
+  (a) an offence against section 42A, 42B, 55D, 55E, 55F, or 55G; or
+  (b) an offence of conspiring to commit an offence against section 42A, 42B, 55D, 55E, 55F, or 55G; or
+  (c) an offence of attempting to commit an offence against section 42A, 42B, 55D, 55E, 55F, or 55G.
 (7) In subsection (6), undercover officer—
-  (a) means a constable whose identity is for the time being concealed for the purpose of a particular investigation of any suspected offence against any of sections 55D, 55E, 55F, and 55G; and
+  (a) means a constable whose identity is for the time being concealed for the purpose of a particular investigation of any suspected offence against any of sections 42A, 42B, 55D, 55E, 55F, and 55G; and
   (b) includes any other constable who is for the time being directing or assisting that constable in the course of that investigation.
 (8) A certificate signed by the Commissioner to the effect that, at any specified time or during any specified period, the constable named in the certificate was acting as an undercover officer is, for the purposes of subsection (6), conclusive evidence of that fact.
 
@@ -783,7 +787,8 @@ A person is disqualified from holding a firearms licence if—
     (iv) an offence under section 6, 9, 10, 11, 12, 12A, 12AB, or 12F of the Misuse of Drugs Act 1975; or
   (b) the person has, or has had within the previous 10 years, a protection order, other than a temporary order, made against them under—
     (i) section 79 of the Family Violence Act 2018; or
-    (ii) section 14 of the Domestic Violence Act 1995.
+    (ii) section 14 of the Domestic Violence Act 1995; or
+  (c) the person is subject to a firearms prohibition order.
 
 ## Part 5 — Firearms licences, endorsements, and permits to possess
 
@@ -823,6 +828,7 @@ A person is disqualified from holding a firearms licence if—
     (ii) the Game Animal Council Act 2013; or
     (iii) the Wildlife Act 1953; or
     (iv) the Wild Animal Control Act 1977:
+  (ca) the person has, or has had at any time, a firearms prohibition order made against them:
   (d) the person has, or has had at any time, a temporary protection order made against them under—
     (i) section 79 of the Family Violence Act 2018; or
     (ii) section 14 of the Domestic Violence Act 1995:
@@ -1336,12 +1342,65 @@ The Commissioner may cancel certification in respect of a shooting range if the 
 ### 41 Powers of Police to require surrender of airguns or antique firearms
 [Repealed]
 
-### 41A Marking of firearms
-(1) This section applies to all firearms, parts, pistol carbine conversion kits, and magazines possessed by firearms licence holders, including those manufactured in or imported into New Zealand, but does not apply to antique firearms.
-(2) Firearms, parts, pistol carbine conversion kits, and magazines to which this section applies must be marked to the extent provided in, and in accordance with, requirements set out in regulations made under section 74.
-(3) The Crown is not liable to pay compensation in respect of—
-  (a) the loss of value in the case of any firearm, part, pistol carbine conversion kit, or magazine that results from it being marked in accordance with the regulations; or
-  (b) the cost of marking the firearm, part, pistol carbine conversion kit, or magazine.
+## Part 7A — Firearms prohibition orders
+
+### 39 Interpretation
+For the purposes of this Part, firearm or related item means any firearm, pistol, pistol carbine conversion kit, restricted weapon, airgun, imitation firearm, magazine, part of a firearm or restricted weapon, prohibited item, or ammunition.
+
+### 39A When FPO may be made
+(1) This section applies when a court is sentencing an offender who—
+  (a) has been convicted of—
+    (i) an offence under section 16(4), 16A, 44A, 50A, 50D, 51A, 53A, 54, 54A, 55, 55A, 55D, 55E, or 55F; or
+    (ii) a specified violent offence as defined in section 4 of the Victims’ Orders Against Violent Offenders Act 2014; or
+    (iii) an offence under section 98A or 189A of the Crimes Act 1961; or
+    (iv) an offence under any of sections 6A to 10 or sections 12 to 13E of the Terrorism Suppression Act 2002; and
+  (b) committed the offence—
+    (i) when aged 18 years or over; and
+    (ii) after the commencement of this section.
+(2) The court may make an FPO against the offender if the court is satisfied, on the balance of probabilities, that the imposition of an FPO is necessary, reasonable, and appropriate to assist in managing the risk that the offender poses to public safety.
+
+### 39B Effect of FPO
+(1) An FPO made against an offender prohibits the offender from accessing, possessing, or using any firearm or related item.
+(2) An FPO is subject to—
+  (a) the standard conditions set out in section 39C, as may be varied or modified under section 39D by the court making the FPO; and
+  (b) any special conditions imposed under section 39E by the court making the FPO.
+
+### 39C Standard conditions of FPO
+(1) The standard conditions of an FPO are that the offender against whom the order is made must not—
+  (a) associate with or, in any place (including a vehicle), otherwise be in the presence of a person who has with them any firearms or related items that are not in secure storage:
+  (b) reside at any premises in which any firearms or related items are stored:
+  (c) join, or remain a member of, any shooting club (including an airsoft shooting club) or firearms club of any kind, visit the premises of such clubs, or attend the events of such clubs:
+  (d) attend any shooting range or shooting gallery:
+  (e) attend an activity of any kind that involves the use of any firearms or related items:
+  (f) visit any premises or place at which firearms or related items are manufactured, sold, repaired, hired, lent, or otherwise supplied.
+(2) For the purposes of subsection (1)﻿(b), a person resides at any particular premises if they reside at the premises for at least 2 days (whether consecutive or not) in any period of 12 months.
+
+### 39D Varying or modifying standard conditions of FPO
+(1) When making an FPO against an offender, the court may vary or modify the standard conditions of the FPO set out in section 39C having regard to—
+  (a) the nature and seriousness of the offence in respect of which the offender has been convicted; and
+  (b) the circumstances of the offending; and
+  (c) the offender’s personal circumstances (for example, the effect the standard conditions would have on the offender’s employment opportunities); and
+  (d) any other matters that the court considers relevant.
+(2) The court may not vary or modify the standard condition in section 39C(1)﻿(b) unless it is satisfied that there are sufficient safeguards in place to ensure that the offender is not reasonably likely to obtain access to the firearms or related items stored on the premises.
+(3) For the purposes of subsection (2), the court may take into account any proposal agreed between the responsible person and a member of the Police for the Commissioner to prescribe conditions on the responsible person’s firearms licence.
+(4) In subsection (3), responsible person means the firearms licence holder responsible for the secure storage of the firearms and related items in the premises referred to in section 39C(1)﻿(b).
+
+### 39E Special conditions of FPO
+When making an FPO against an offender, the court may impose any 1 or more conditions, additional to the standard conditions, that the court considers are reasonably necessary to prevent the offender from accessing, possessing, or using any firearms or related items.
+
+### 39F Commencement and duration of FPO
+(1) If a court makes an FPO when imposing a non-custodial sentence on the offender, the FPO commences when it is made.
+(2) If a court makes an FPO when imposing a custodial sentence on the offender, the FPO commences when the offender is released from custody (not being a temporary release under section 62 of the Corrections Act 2004).
+(3) An FPO continues in force for a period of 10 years unless sooner revoked by a court.
+
+### 39G Modifying or replacing FPO on subsequent conviction
+If a person who is subject to an FPO is subsequently convicted of an offence of the kind specified in section 39A(1)﻿(a), the court may, when sentencing the person in respect of that offence,—
+  (a) vary or modify any of the existing conditions of the FPO; or
+  (b) impose any special conditions, or additional special conditions; or
+  (c) revoke the FPO and make a new FPO.
+
+### 39H Appeal against decision to make or not make FPO is appeal against sentence
+An FPO is a sentence, and subpart 4 of Part 6 of the Criminal Procedure Act 2011 (appeals against sentence) applies to any decision to make or not make an FPO.
 
 ## Part 8 — Offences
 
@@ -1359,6 +1418,21 @@ A person commits an offence and is liable on conviction to imprisonment for a te
   (b) being the holder of a licence, wilfully parts with possession of that licence in order that it may be used by another person; or
   (c) uses or attempts to use a licence issued in the name of another person with the intention of procuring the possession of any firearm, airgun, pistol, restricted weapon, magazine, or ammunition; or
   (d) supplies particulars or answers in any application for a licence under this Act, knowing them to be incorrect or misleading.
+
+### 42A Offence to breach firearms prohibition order
+(1) A person commits an offence if the person breaches a firearms prohibition order by—
+  (a) accessing, possessing, or using any firearm, pistol, pistol carbine conversion kit, restricted weapon, airgun, imitation firearm, magazine, part of a firearm or restricted weapon, prohibited item, or ammunition; or
+  (b) failing, without reasonable excuse, to comply with any condition of the order.
+(2) A person who is convicted of an offence under subsection (1)﻿(a) is liable,—
+  (a) if the person accesses, possesses, or uses a prohibited firearm, to a term of imprisonment not exceeding 7 years:
+  (b) in any other case, to a term of imprisonment not exceeding 5 years.
+(3) A person who is convicted of an offence under subsection (1)﻿(b) is liable to a term of imprisonment not exceeding 2 years.
+
+### 42B Offence to supply firearms, etc, to person subject to firearms prohibition order
+(1) A person must not supply, or give possession of, any firearm, pistol, pistol carbine conversion kit, restricted weapon, airgun, imitation firearm, magazine, part of a firearm or restricted weapon, prohibited item, or ammunition to another person knowing that the other person is subject to a firearms prohibition order.
+(2) A person who contravenes subsection (1) commits an offence and is liable on conviction,—
+  (a) if the person supplies or gives possession of a prohibited firearm, to a term of imprisonment not exceeding 7 years:
+  (b) in any other case, to a term of imprisonment not exceeding 5 years.
 
 ### 43 Selling or supplying firearm or airgun to unlicensed person
 (1) A person commits an offence and is liable on conviction to imprisonment for a term not exceeding 2 years, or to a fine not exceeding $20,000, if the person—
@@ -1666,6 +1740,15 @@ When an offence against this Act punishable by imprisonment (whether or not it i
 
 ## Part 9 — Miscellaneous provisions
 
+**Marking of firearms**
+
+### 59AAA Marking of firearms
+(1) This section applies to all firearms, parts, pistol carbine conversion kits, and magazines possessed by firearms licence holders, including those manufactured in or imported into New Zealand, but does not apply to antique firearms.
+(2) Firearms, parts, pistol carbine conversion kits, and magazines to which this section applies must be marked to the extent provided in, and in accordance with, requirements set out in regulations made under section 74.
+(3) The Crown is not liable to pay compensation in respect of—
+  (a) the loss of value in the case of any firearm, part, pistol carbine conversion kit, or magazine that results from it being marked in accordance with the regulations; or
+  (b) the cost of marking the firearm, part, pistol carbine conversion kit, or magazine.
+
 **Surrender or delivery of firearms, etc**
 
 ### 59A Surrender by licensed dealer of firearms, etc
@@ -1917,11 +2000,14 @@ Section 25 of the Criminal Procedure Act 2011 shall have no application to prose
 
 ### 69 Forfeitures
 (1) If a person is convicted of an offence of using, carrying, or being in possession of any specified item, the convicting court must, as part of the sentencing, order that the specified item be forfeited to the Crown.
-(2) However, subsection (1) does not apply and the convicting court need not make an order under that provision if the court considers that, given the circumstances of the offending, it would be unjust to make that order.
-(3) Any specified item ordered under subsection (1) to be forfeited to the Crown—
+(1A) If a person is convicted of an offence under section 42A for breaching a firearms prohibition order and is in possession of any firearms or related items, the convicting court must, as part of the sentencing, order that the firearms or related items be forfeited to the Crown.
+(2) However, subsection (1) or (1A) does not apply and the convicting court need not make an order under that provision if the court considers that, given the circumstances of the offending, it would be unjust to make that order.
+(3) Anything ordered under subsection (1) or (1A) to be forfeited to the Crown—
   (a) is forfeited to the Crown accordingly; and
   (b) may be disposed of in any manner that the Commissioner directs.
-(4) In this section, specified item means any firearm, airgun, pistol, restricted weapon, imitation firearm, prohibited item, pistol carbine conversion kit, ammunition, or explosive.
+(4) In this section,—
+  - **firearm or related item** has the meaning given in section 39
+  - **specified item** means any firearm, airgun, pistol, restricted weapon, imitation firearm, prohibited item, pistol carbine conversion kit, ammunition, or explosive.
 
 ### 70 Authorising disposal of firearms, etc, detained by Police
 (1) Without limiting the operation of any other provisions of this Act as to the disposal of any firearm, airgun, pistol, restricted weapon, imitation firearm, prohibited magazine, prohibited part, pistol carbine conversion kit, ammunition, or explosive seized or detained under this Act, any such firearm, airgun, pistol, restricted weapon, imitation firearm, prohibited magazine, prohibited part, pistol carbine conversion kit, ammunition, or explosive that has been detained for not less than 12 months may be disposed of in such manner as the Commissioner may direct.
