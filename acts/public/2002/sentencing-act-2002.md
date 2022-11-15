@@ -1,5 +1,5 @@
 # Sentencing Act 2002
-_Consolidation as at 2022-08-16_
+_Consolidation as at 2022-11-15_
 
 ### 1 Title
 This Act is the Sentencing Act 2002.
@@ -2475,6 +2475,16 @@ The court must not convict and discharge an offender unless it is satisfied that
 (5) If a person appears before a court under this section and the court is satisfied of any of the matters specified in subsection (1), the court—
   (a) must inquire into the circumstances of the original offence and the conduct of the offender since the order was made (including, where appropriate, the circumstances and gravity of the subsequent offence); and
   (b) may sentence or otherwise deal with the offender for the original offence.
+
+**Firearms prohibition orders**
+
+### 111A Firearms prohibition order
+(1) If an offender is convicted of a specified offence committed by the offender when aged 18 years or older, the court may make a firearms prohibition order against the offender under Part 7A of the Arms Act 1983.
+(2) In this section, specified offence means any of the following offences committed after the commencement of Part 7A of the Arms Act 1983:
+  (a) a specified violent offence as defined in section 4 of the Victims’ Orders Against Violent Offenders Act 2014:
+  (b) an offence under section 16(4), 16A, 44A, 50A, 50D, 51A, 53A, 54, 54A, 55, 55A, 55D, 55E, or 55F of the Arms Act 1983:
+  (c) an offence under section 98A or 189A of the Crimes Act 1961:
+  (d) an offence under any of sections 6A to 10 or sections 12 to 13E of the Terrorism Suppression Act 2002.
 
 **Non-association orders**
 
