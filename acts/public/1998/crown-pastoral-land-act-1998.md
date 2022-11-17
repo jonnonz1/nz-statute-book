@@ -1,18 +1,20 @@
 # Crown Pastoral Land Act 1998
-_Consolidation as at 2022-05-18_
-
-> An Act—ato establish a system for reviewing the tenure of Crown land held under certain perpetually renewable leases; andbto establish a system for determining how Crown land formerly held under pastoral occupation licence, and certain other Crown land, should be dealt with; andcotherwise to provide for the administration of Crown pastoral land
+_Consolidation as at 2022-11-17_
 
 ### 1 Short Title
 This Act may be cited as the Crown Pastoral Land Act 1998.
+
+### 1A Purpose
+The purpose of this Act is to provide for the administration of pastoral land in a way that seeks to achieve the following outcomes:
+  (a) maintaining or enhancing inherent values across the Crown pastoral estate for present and future generations, while providing for ongoing pastoral farming of pastoral land:
+  (b) supporting the Crown in its relationships with Māori under te Tiriti o Waitangi/the Treaty of Waitangi:
+  (c) enabling the Crown to get a fair return on its ownership interest in pastoral land.
 
 ### 2 Interpretation
 Unless the context requires otherwise, in this Act,—
   - **approved plan** means a plan returned to the Commissioner under section 90 (by virtue of its application of former section 63)
   - **base carrying capacity** , in relation to a pastoral lease, means the base carrying capacity of land as assessed or determined under Part 1A and under any regulations or rules made under Part 1A and that is expressed in stock units
-  - **Chief Surveyor** —
-    (a) means a person for the time being appointed under section 9 of the Survey Act 1986; and includes the deputy of a Chief Surveyor; and
-    (b) in relation to any land, or any subject matter affecting any land, means the Chief Surveyor of the land district (constituted under section 22 of the Land Act 1948) in which the land is situated
+  - **chief executive** means the chief executive of the department
   - **commencement** , in relation to a reviewable instrument,—
     (a) means the day on which it was granted, if the land was not held under some other reviewable instrument on that day:
     (b) means the day on which the other reviewable instrument was determined, if the land was held under some other reviewable instrument on the day on which it was granted
@@ -31,7 +33,16 @@ Unless the context requires otherwise, in this Act,—
   - **cultivation** includes drainage, felling bush, clearing land for cropping, and clearing and ploughing land for and laying it down for or with pasture
   - **current carrying capacity** , in relation to a pastoral lease, means the current carrying capacity of land as assessed or determined under Part 1A and under any regulations or rules made under Part 1A and that is expressed in stock units
   - **department** means the department of State that, with the authority of the Prime Minister, is for the time being responsible for the administration of this Act
+  - **discretionary pastoral activity** means an activity by a lessee or licensee of pastoral land that requires the consent of the Commissioner under section 10
   - **ecosystem** means a system of interacting living organisms and their environment
+  - **effect** —
+    (a) includes the following effects, regardless of the scale, intensity, duration, or frequency of the effect:
+      (i) any positive or adverse effect:
+      (ii) any temporary or permanent effect:
+      (iii) any past, present, or future effect:
+      (iv) any cumulative effect which arises over time or in combination with other effects; and
+    (b) includes any potential effect of high probability; and
+    (c) includes any potential effect of low probability which has a high potential impact
   - **expert determiner** means a person appointed as an expert determiner under section 23F(1)﻿(a)﻿(i)
   - **grazing permit** means permit under section 68A of the Land Act 1948
   - **historic place** —
@@ -47,9 +58,11 @@ Unless the context requires otherwise, in this Act,—
   - **improvement** —
     (a) means substantial improvement of a permanent character; and
     (b) includes bridging; clearing of broom, bush, gorse, scrub, or sweetbriar; constructing border dykes, head races, irrigation works, sheep dips, water races, water supplies, or water tanks; cultivation; draining; erecting any building; fencing (including rabbit-proof fencing); improving in any way the character or fertility of the soil; installing any electric lighting, electric power plant, or telephone; laying out and cultivating gardens; making embankments or protective works of any kind; planting with trees or live hedges; reclamation from swamps; roading; and sinking wells or bores
-  - **inherent value** , in relation to any land, means a value arising from—
-    (a) a cultural, ecological, historical, recreational, or scientific attribute or characteristic of a natural resource in, on, forming part of, or existing by virtue of the conformation of, the land; or
-    (b) a cultural, historical, recreational, or scientific attribute or characteristic of a historic place on or forming part of the land
+  - **inherent value** , in relation to any land,—
+    (a) means a value that arises from an ecological, a landscape, a cultural, a heritage, or a scientific attribute or characteristic of a natural resource that—
+      (i) is in or forms part of the land or exists by virtue of the natural character of the land; or
+      (ii) relates to a historic place on or forming part of the land; but
+    (b) does not include a pastoral farming activity
   - **land** means land that is subject to a pastoral lease
   - **the land** , in relation to a reviewable instrument, means all land held under it
   - **lessee's assessor** means an assessor appointed by the lessee under section 23F(1)﻿(b)
@@ -65,6 +78,8 @@ Unless the context requires otherwise, in this Act,—
   - **occupation licence** means licence granted under section 66AA of the Land Act 1948 or section 14(7) of this Act
   - **pastoral land** means Crown land for the time being so classified under section 51 of the Land Act 1948
   - **pastoral lease** means a pastoral lease granted under section 66 of the Land Act 1948, and includes any renewal of that lease
+  - **permitted pastoral activity** means an activity by a lessee or licensee of pastoral land that does not require the consent of the Commissioner under section 10
+  - **prohibited pastoral activity** means an activity by a lessee or licensee of pastoral land that must not be undertaken on pastoral land
   - **proposed activity** , in relation to a proposed concession, means activity proposed to be carried out under the concession
   - **proposed facility** , in relation to a proposed concession, means structure or facility proposed for or in relation to the concession
   - **protective mechanism** means—
@@ -96,7 +111,9 @@ Unless the context requires otherwise, in this Act,—
     (a) restriction under section 66(2) of the Land Act 1948 subject to which a pastoral lease was granted before 30 November 1979; or
     (b) restriction under section 66(3) of the Land Act 1948 subject to which a pastoral lease was granted after 29 November 1979
   - **stock unit** means the standard stock unit for the purposes of Part 1A defined by the Valuer-General under section 23O(1)﻿(a)﻿(iii)
+  - **Surveyor-General** has the same meaning as in section 4 of the Cadastral Survey Act 2002
   - **sustainable management covenant** means a covenant reserved under section 97(1)
+  - **te Tiriti o Waitangi/the Treaty of Waitangi** means the Treaty as defined in section 2 of the Treaty of Waitangi Act 1975
   - **undertake** includes cause to be undertaken
   - **unrenewable occupation licence** means occupation licence that is—
     (a) an occupation licence granted under section 66AA of the Land Act 1948 in respect of which the Commissioner has decided, under section 14(4) of this Act, that the Commissioner is not satisfied that the land should continue to be held under occupation licence for any period after the expiry of the existing licence; or
@@ -109,33 +126,178 @@ Unless the context requires otherwise, in this Act,—
     (b) if Waitangi Day or Anzac Day falls on a Saturday or a Sunday, the following Monday; and
     (c) a day in the period commencing on 25 December in any year and ending with 15 January in the following year.
 
+### 2A Transitional, savings, and related provisions
+The transitional, savings, and related provisions set out in Schedule 1AA have effect according to their terms.
+
 ### 3 Act binds the Crown
 This Act binds the Crown.
 
 ## Part 1 — Pastoral leases and occupation licences
 
+### Subpart 1 — Outcomes, activities on pastoral land, and decision-making process
+
+**Outcomes**
+
+### 4 Outcomes for decision makers
+(1) All persons performing or exercising the Crown’s functions, duties, or powers in relation to pastoral land under this Act or the Land Act 1948 must seek to achieve the following:
+  (a) maintaining or enhancing inherent values across the Crown pastoral estate for present and future generations, while providing for ongoing pastoral farming of pastoral land; and
+  (b) supporting the Crown in its relationships with Māori under te Tiriti o Waitangi/the Treaty of Waitangi; and
+  (c) enabling the Crown to get a fair return on its ownership interest in pastoral land.
+(2) Subsection (1)﻿(c) applies only to functions, duties, or powers that relate to rents, easements, or commercial recreation permits in respect of pastoral land.
+
+### 5 Māori interests
+(1) In order to recognise and respect the Crown’s responsibility to give effect to the principles of te Tiriti o Waitangi/the Treaty of Waitangi, the Crown—
+  (a) must recognise and provide for the relationship of Māori and their culture and traditions with their ancestral lands, water, mahinga kai, wāhi tapu, and other taonga in any case where—
+    (i) consent for a discretionary pastoral activity is sought; or
+    (ii) a commercial recreation permit over pastoral land is sought; or
+    (iii) an easement over pastoral land is sought; or
+    (iv) a stock limitation exemption or a variation or revocation of a stock limitation exemption is sought (except a grant, variation, or revocation made under section 15(4)); or
+    (v) a protective mechanism is being considered; and
+  (b) must consult the relevant iwi listed in subsection (2) in accordance with sections 22A, 22C, 100O, 100P, 100R, and 100S.
+(2) The relevant iwi are—
+  (a) Ngāi Tahu Whānui as represented by Te Runanga o Ngai Tahu in accordance with Te Runanga o Ngai Tahu Act 1996:
+  (b) Ngāti Apa ki te Rā Tō:
+  (c) Ngāti Kōata:
+  (d) Ngāti Kuia:
+  (e) Ngāti Rārua:
+  (f) Ngāti Tama ki Te Tau Ihu:
+  (g) Ngāti Toa Rangātira:
+  (h) Rangitāne o Wairau:
+  (i) Te Ātiawa o Te Waka-a-Māui.
+
+**Classification of activities on pastoral land**
+
+### 6 Classification of pastoral activities on pastoral land
+(1) Pastoral activities described in section 7 or 8 of this Act, or in section 100 of the Land Act 1948, are classified as set out in Schedule 1AB.
+(2) A lessee or licensee of pastoral land must obtain the Commissioner’s consent to undertake a pastoral activity if required by section 7 or 8.
+(3) The following classifications apply to pastoral activities on pastoral land:
+  (a) permitted pastoral activities that may be undertaken on pastoral land with any necessary permission under any other enactment (see section 20 and Part 1 of Schedule 1AB):
+  (b) discretionary pastoral activities that may be undertaken on pastoral land only with the consent of the Commissioner under section 10 and with any necessary permission under any other enactment (see section 20 and Part 2 of Schedule 1AB):
+  (c) prohibited activities that must not be undertaken on pastoral land and may not be applied for or consented to (see Part 3 of Schedule 1AB).
+(4) Any question arising as to the class within which any pastoral activity falls must be decided by the Commissioner, whose decision is final, and sections 17 and 18 of the Land Act 1948 do not apply to that decision.
+(5) Schedule 1AB may be amended by Order in Council (see section 100O).
+
+### 6 Special provisions relating to calculation of rent payable for first 11 years of first renewal of pastoral lease granted before 30 November 1979
+[Repealed]
+
+**Provision relating to burning**
+
+### 7 Burning of vegetation
+(1) This section applies to any pastoral activity that involves burning any vegetation on the land (whether felled or not).
+(2) A lessee or licensee of pastoral land—
+  (a) may undertake the pastoral activity, or cause it to be undertaken, if the activity is classified as a permitted pastoral activity in Part 1 of Schedule 1AB:
+  (b) must not undertake the pastoral activity, or cause it to be undertaken, without the Commissioner’s consent under section 10 if the activity is classified in Part 2 of Schedule 1AB as a discretionary pastoral activity or is not classified anywhere in that schedule:
+  (c) must not undertake the pastoral activity, or cause it to be undertaken, if the activity is classified as a prohibited pastoral activity in Part 3 of Schedule 1AB.
+(3) In this section, vegetation does not include timber.
+
+### 7 Special provisions relating to calculation of rent payable for first 11 years of pastoral lease granted after 29 November 1979
+[Repealed]
+
+**Provisions relating to disturbance of soil**
+
+### 8 Activities affecting or disturbing soil
+(1) This section applies to any pastoral activity that affects or disturbs the soil of pastoral land.
+(2) A lessee or licensee of pastoral land—
+  (a) may undertake the pastoral activity, or cause it to be undertaken, if the activity is classified as a permitted pastoral activity in Part 1 of Schedule 1AB:
+  (b) must not undertake the pastoral activity, or cause it to be undertaken, without the Commissioner’s consent under section 10 if the activity is classified in Part 2 of Schedule 1AB as a discretionary pastoral activity or is not classified anywhere in that schedule:
+  (c) must not undertake the pastoral activity, or cause it to be undertaken, if the activity is classified as a prohibited pastoral activity in Part 3 of Schedule 1AB.
+(3) Any ongoing maintenance authorised by a consent under section 10 may continue to be undertaken in accordance with the consent.
+(4) A consent under section 10 to undertake an activity to which this section applies may include provisions setting out the terms of any—
+  (a) ongoing maintenance of the works formed by the activity:
+  (b) ongoing programme to maintain the pasture created or enhanced by the activity.
+(5) Anything done under the consent is subject to every condition, direction, and restriction that forms part of the Commissioner’s consent.
+(6) For the purposes of this section (but not subsection (1)), every consent given under section 106 or 108 of the Land Act 1948 has effect according to its tenor as if it were a discretionary pastoral activity consented to under section 10.
+(7) This section does not forbid or prevent the doing of anything authorised—
+  (a) by or under the Public Works Act 1981 or the Crown Minerals Act 1991; or
+  (b) under the Mining Act 1971.
+(8) Nothing in this section limits or affects the application or effect of section 100 of the Land Act 1948 (which relates to the preservation of timber).
+
+### 8 Calculation of rent payable under pastoral leases after first 11 years
+[Repealed]
+
+**Process for applications to undertake activities on pastoral land**
+
+### 9 Application process
+(1) An applicant who applies for consent to undertake a discretionary pastoral activity or for the grant of a commercial recreation permit under section 66A of the Land Act 1948 must provide sufficient information to enable the Commissioner to assess the application under sections 10 to 12 and Schedule 1ABA.
+(2) The Commissioner may decline to accept an application if the Commissioner thinks that the information provided with the application is insufficient or, alternatively, may obtain further information that the Commissioner thinks necessary to assess the application under sections 10 to 12 and Schedule 1ABA.
+(3) When assessing an application, the Commissioner may obtain any advice the Commissioner thinks necessary in order to make a decision under section 10.
+
+**Process for Commissioner’s decision**
+
+### 10 Commissioner’s decision
+(1) This section applies if the Commissioner accepts an application under section 9.
+(2) The Commissioner must, in accordance with this section and (as applicable) sections 11 and 12 and Schedule 1ABA,—
+  (a) either—
+    (i) decline to grant the application; or
+    (ii) grant the application wholly or in part, with or without any conditions, limitations, directions, or restrictions that the Commissioner thinks necessary, including for the purpose of reducing the adverse effects on inherent values; and
+  (b) if they grant the application, specify the period within which the activity must be carried out.
+(3) Before making a decision, the Commissioner must consult the Director-General of Conservation.
+(4) In deciding whether to grant an application, the Commissioner—
+  (a) must be satisfied that—
+    (i) the inherent values likely to be affected by the proposed activity and the importance of those values have been identified; and
+    (ii) the level of adverse effects of the proposed activity on those inherent values (with regard to the importance of those values) has been identified, including whether the effects could be avoided, remedied, or mitigated; and
+    (iii) any reasonable alternative to the proposed activity that has lesser adverse effects on inherent values has been considered; and
+  (b) must not consider offsetting, including as a way of counterbalancing adverse effects on inherent values, when determining the level of adverse effects on inherent values; and
+  (c) may consider relevant Government policy decided by Cabinet, in particular policy that relates to national directions (such as national policy statements and national environmental standards); and
+  (d) may consider any plan for the management of part or all of the land subject to the reviewable lease or licence; and
+  (e) may consider cross-boundary effects of the activity on neighbouring persons or on any neighbouring land (whether or not the land is subject to a pastoral lease or any other form of tenure); and
+  (f) may consider New Zealand’s commitment to reducing greenhouse gas emissions, where this is consistent with the outcomes stated in this Act; and
+  (g) may consider any other matter the Commissioner considers relevant to determine the application.
+(5) Nothing in this section requires the Commissioner to consent to a proposed discretionary pastoral activity in any case.
+(6) In this section and sections 11, 12, and 15, grant,—
+  (a) in relation to an application for a discretionary pastoral activity, means to consent to the activity:
+  (b) in relation to an application for a commercial recreation permit, means to grant the permit:
+  (c) in relation to an application for an exemption from a stock limitation or the variation or revocation of an exemption, means to grant, vary, or revoke the exemption (see section 15).
+
+### 11 Decision-making criteria: consent for discretionary pastoral activity
+(1) The Commissioner decides whether to grant an application as follows:
+  (a) they may decline the application if satisfied that there is a reasonable alternative to the proposed activity that has lesser adverse effects on inherent values:
+  (b) they may grant the application if they decide that the proposed activity has no more than minor adverse effects on inherent values after actions have been taken to avoid, remedy, or mitigate the effects:
+  (c) they must decline the application if they—
+    (i) decide that the proposed activity has more than minor adverse effects on inherent values after actions have been taken to avoid, remedy, or mitigate the effects; and
+    (ii) are not satisfied under subsections (2) and (3) that the application should be granted:
+  (d) they may grant the application if they—
+    (i) decide that the proposed activity has more than minor adverse effects on inherent values after actions have been taken to avoid, remedy, or mitigate the effects; and
+    (ii) are satisfied under subsections (2) and (3) that the application should be granted.
+(2) Before granting an application for a proposed activity that has more than minor adverse effects on inherent values, the Commissioner must be satisfied that the activity is necessary to enable the lessee or licensee to exercise their rights and obligations under their lease or licence, taking into account 1 or more of the criteria set out in Schedule 1ABA.
+(3) For the purpose of deciding whether the activity is necessary to enable the lessee or licensee to exercise their rights and obligations under their lease or licence, the Commissioner may consider any economic benefits associated with undertaking that activity only to the extent that those benefits relate to the ongoing financial viability of the pastoral farming enterprise.
+
+**Occupation licences**
+
+### 12 Decision-making criteria: grant of commercial recreation permit
+(1) The Commissioner decides whether to grant an application for a commercial recreation permit as follows:
+  (a) they may decline the application if satisfied that there is a reasonable alternative to the proposed activity that has lesser adverse effects on inherent values:
+  (b) they may grant the application if they decide that the proposed activity has no more than minor adverse effects on inherent values after actions have been taken to avoid, remedy, or mitigate the effects:
+  (c) they must decline the application if they—
+    (i) decide that the proposed activity has more than minor adverse effects on inherent values after actions have been taken to avoid, remedy, or mitigate the effects; and
+    (ii) are not satisfied under subsection (2) that the application should be granted:
+  (d) they may grant the application if they—
+    (i) decide that the proposed activity has more than minor adverse effects on inherent values after actions have been taken to avoid, remedy, or mitigate the effects; and
+    (ii) are satisfied under subsection (2) that the application should be granted.
+(2) Before granting an application under subsection (1)﻿(d), the Commissioner must be satisfied that the proposed activity—
+  (a) is an existing activity that—
+    (i) previously has been allowed to be undertaken on the pastoral land under a commercial recreation permit or other consent, right, or licence granted by the Commissioner; and
+    (ii) uses existing infrastructure or buildings previously consented to by the Commissioner; or
+  (b) will use existing infrastructure or buildings previously consented to by the Commissioner, even though the proposed activity is different from the activity for which that previous consent was granted; or
+  (c) is necessary in order to enable the continued use of existing infrastructure or buildings previously consented to by the Commissioner.
+
+### Subpart 2 — Tenure and related provisions
+
 **Pastoral leases**
 
-### 4 Tenure
+### 13 Tenure
 A pastoral lease gives the holder—
   (a) the exclusive right of pasturage over the land:
   (b) a perpetual right of renewal for terms of 33 years:
   (c) no right to the soil:
   (d) no right to acquire the fee simple of any of the land.
 
-### 5 Term
+### 14 Term
 The term of a pastoral lease expires on the expiration of 33 years from 1 January or 1 July (whichever is the sooner) next following its commencement.
 
-### 6 Special provisions relating to calculation of rent payable for first 11 years of first renewal of pastoral lease granted before 30 November 1979
-[Repealed]
+**Pastoral land generally**
 
-### 7 Special provisions relating to calculation of rent payable for first 11 years of pastoral lease granted after 29 November 1979
-[Repealed]
-
-### 8 Calculation of rent payable under pastoral leases after first 11 years
-[Repealed]
-
-### 9 Stock limitations
+### 15 Stock limitations
 (1) The repeal of section 66 of the Land Act 1948 by this Act does not affect—
   (a) the validity or effect of any stock limitation:
   (b) the validity or effect of any power of the Commissioner contained in any pastoral lease to grant an exemption from a stock limitation:
@@ -144,144 +306,122 @@ The term of a pastoral lease expires on the expiration of 33 years from 1 Januar
 (2) An exemption from a stock limitation—
   (a) is (and was) personal to the person who was the holder of the lease concerned at the time the exemption was granted; and
   (b) if not earlier revoked, expires (or expired) when that person ceases (or ceased) to be the holder of the lease.
-(3) Subsection (2) is for the avoidance of doubt.
-(4) Subsections (1) to (3) do not limit or affect the validity or effect of any condition subject to which a stock limitation, or an exemption from a stock limitation, may have been granted.
+(3) Sections 9 to 11 apply to a decision by the Commissioner to grant, vary, or revoke an exemption from any stock limitation as if it were an application for a discretionary pastoral activity, except in the case of a lease transfer as provided for in subsection (4).
+(4) The Commissioner may, at the time that or as soon as practicable after a lease is transferred under section 89 of the Land Act 1948, grant, vary, or revoke an exemption from a stock limitation that provides for stock numbers and types equal to, or lower than, the previous holder’s exemption, after considering—
+  (a) whether the lessee is capable of managing the number of stock that the previous lessee had on the lease; and
+  (b) whether the land in its current state is capable of sustaining the number and types of stock in the previous exemption; and
+  (c) other relevant matters.
+(5) Subsection (2) is for the avoidance of doubt.
+(6) Subsections (1) to (4) do not limit or affect the validity or effect of any condition subject to which a stock limitation, or an exemption from a stock limitation, may have been granted.
 
-### 10 Renewal of lease after expiry
-If by the time a pastoral lease expired,—the Commissioner may grant a renewal of it to the same extent, and in the same manner, as if it had not expired; but the renewal takes effect from its expiry.
+### 16 Renewal of lease after expiry
+(1) Subsection (2) applies if, by the time a pastoral lease expired,—
   (a) the Commissioner and the holder had agreed that, subject to the fixing of the amount of the rent to be paid under it, it would be renewed; but
-  (b) that amount had not yet been fixed,—
+  (b) that amount had not yet been fixed.
+(2) The Commissioner may grant a renewal of the lease to the same extent, and in the same manner, as if it had not expired, but the renewal takes effect from its expiry.
 
-### 11 Belated exchange of pastoral leases for renewable leases
-(1) If—the Commissioner may under the Land Act 1948, with the consent of the State enterprise concerned, grant a renewable lease to the holder (or the holder's successor) to the same extent, and in the same manner, as if the land had not been vested and section 126A were still in force.
+### 17 Belated exchange of pastoral leases for reviewable leases
+(1) Subsection (2) applies if,—
   (a) before the commencement of this Act, any land comprised in a pastoral lease was vested in a State enterprise under the State-Owned Enterprises Act 1986; and
-  (b) before it was vested,—
+  (b) before the land was vested,—
     (i) all the land comprised in that lease had been reclassified as farm land; and
-    (ii) the former Land Settlement Board, the Department of Lands, or the Commissioner had agreed to issue a renewable lease to the holder under section 126A of the Land Act 1948, in exchange for the pastoral lease; and
-    (iii) no renewable lease had in fact been issued; and
-  (c) since it was vested the holder has (or successive holders have) been paying rent as if the land were held on renewable lease,—
-(2) If a renewable lease is granted under subsection (1),—
+    (ii) the former Land Settlement Board, the Department of Lands, or the Commissioner had agreed to issue a reviewable lease to the holder under section 126A of the Land Act 1948, in exchange for the pastoral lease; and
+    (iii) no reviewable lease had in fact been issued; and
+  (c) since the land was vested, the holder has (or successive holders have) been paying rent as if the land were held on reviewable lease.
+(2) The Commissioner may, under the Land Act 1948, with the consent of the State enterprise concerned, grant a reviewable lease to the holder (or the holder's successor) to the same extent, and in the same manner, as if the land had not been vested and that section 126A were still in force.
+(3) If a reviewable lease is granted under subsection (2),—
   (a) it is deemed to have been granted under section 126A of the Land Act 1948 immediately before the land comprised in it was vested in the State enterprise concerned; and
   (b) the Land Act 1948 is deemed to have applied, and continues to apply, to it accordingly; and
-  (c) every transfer of or other dealing with or action affecting the pastoral lease in exchange for which it has been granted occurring after the agreement to grant a renewable lease in exchange for it is deemed to have had effect as a transfer of or other dealing with or action affecting it.
-(3) The granting of a renewable lease under subsection (1) is a disposition for the purposes of section 24 of the Conservation Act 1987.
+  (c) every transfer of or other dealing with or activity that affects the pastoral lease in exchange for which it has been granted, and that occurs after the agreement to grant a reviewable lease in exchange for it, is deemed to have had effect as a transfer of or other dealing with or activity that affects it.
+(4) The granting of a reviewable lease under subsection (2) is a disposition for the purposes of section 24 of the Conservation Act 1987.
 
 **Occupation licences**
 
-### 12 Tenure
-An occupation licence gives the holder the exclusive right of pasturage over the land; but—
+### 18 Tenure
+An occupation licence gives the holder the exclusive right of pasturage over the land, but—
   (a) no right of renewal:
   (b) no right to the soil:
   (c) no right to acquire the fee simple of the land.
 
-### 13 Term and expiry
-(1) The full term of an occupation licence granted under section 66AA of the Land Act 1948 commences on its commencement; and is the sum of—
+### 19 Term and expiry
+(1) The full term of an occupation licence granted under section 66AA of the Land Act 1948 commences on its commencement, and is the sum of—
   (a) the term specified in it; and
   (b) the period commencing on its commencement and ending on the next 1 January or 1 July (whichever is the sooner).
-(2) The full term of an occupation licence granted under section 14 of this Act commences on the expiry of the preceding licence of the land; and is the term specified in it.
-(3) Unless earlier forfeited or surrendered, an occupation licence expires on the expiration of its full term.
+(2) Unless earlier forfeited or surrendered, an occupation licence expires on the expiration of its full term.
 
-### 14 Limited grant of further occupation licence
-(1) The Commissioner must consult the holder of each occupation licence granted under section 66AA of the Land Act 1948 as to whether the holder should be offered a further licence.
-(2) If the licence is not due to expire within 18 months of the commencement of this Act, the Commissioner must consult the holder not later than 15 months before the licence is due to expire.
-(3) If the licence is due to expire within 18 months of the commencement of this Act, the Commissioner must consult the holder as soon as is practicable after the commencement of this Act.
-(4) As soon as is practicable after consulting the holder, the Commissioner must decide whether the Commissioner is satisfied that the land should continue to be held under occupation licence for any period after the expiry of the existing licence.
-(5) If satisfied that the land should continue to be held under licence for any period (not exceeding 5 years) after the expiry of the existing licence, the Commissioner must offer the holder a further occupation licence of the land—
-  (a) for the period; but
-  (b) otherwise on the terms and conditions of the existing licence.
-(6) If not so satisfied, the Commissioner must not offer (or grant) any further occupation licence of the land to any person.
-(7) The offer must specify a day before which the holder must accept it; and if the holder accepts it before that day, the Commissioner must grant the licence offered.
+**Permission under other enactments**
 
-**Pastoral land generally**
+### 20 Permission under other enactments still needed
+(1) This section applies if—
+  (a) any other enactment provides that a person must obtain permission under that enactment before undertaking an activity that is contrary to that enactment; and
+  (b) the activity concerned is a permitted pastoral activity or discretionary pastoral activity, or is authorised by a stock limitation exemption, under this Act.
+(2) Nothing in this section prevents the Commissioner from consenting to a discretionary pastoral activity applied for under section 9 or granting a stock limitation exemption.
+(3) However, the authority conferred by this Act to undertake a permitted pastoral activity or discretionary pastoral activity, or an activity authorised by a stock limitation exemption, does not in itself allow the person to undertake the activity without the required permission under the other enactment.
+(4) In subsection (1), permission includes agreement, authority, consent, licence, permit, and right.
 
-### 15 Burning of vegetation
-(1) A lessee or licensee of pastoral land must not burn any vegetation on the land (whether felled or not), or cause or permit any such vegetation to be burned,—
-  (a) without the Commissioner's prior written consent; or
-  (b) otherwise than in accordance with any condition, direction, or restriction subject to which the Commissioner gave prior written consent.
-(2) Notwithstanding subsection (1), the Commissioner may for the purposes of this section enter into any agreement under section 14(2) of the Forest and Rural Fires Act 1977.
-(3) In this section, vegetation does not include timber.
+**Provisions relating to boundaries and stock movement**
 
-### 16 Activities affecting or disturbing soil
-(1) Except as provided in subsection (2), a lessee or licensee of pastoral land must not—
-  (a) clear or fell any bush or scrub on the land:
-  (b) crop, cultivate, drain, or plough any part of the land:
-  (c) top-dress any part of the land:
-  (d) sow any part of the land with seed:
-  (e) plant any tree or trees on the land:
-  (f) form any path, road, or track on the land:
-  (g) undertake any other activity affecting, or involving or causing disturbance to, the soil.
-(2) A lessee or licensee of pastoral land may do any thing affecting, involving, or causing disturbance to, the soil if—
-  (a) the Commissioner has first given the lessee or licensee written consent to the doing of it; and
-  (b) it is done in accordance with every condition, direction, and restriction, subject to which the Commissioner gave the consent.
-(3) Except to the extent that it expresses a contrary intention,—
-  (a) a consent under subsection (2) to drain any land includes a consent to undertake ongoing maintenance of any drainage works formed pursuant to the consent and in accordance with every condition, direction, and restriction subject to which the Commissioner gave it:
-  (b) a consent under subsection (2) to top-dress any land includes a consent to undertake an ongoing programme of top-dressing on the land or any part of it,—to maintain the pasture created or enhanced by the top-dressing consented to:
-    (i) in accordance with every condition, direction, and restriction subject to which the Commissioner gave it; and
-    (ii) using the fertiliser or mixture of fertilisers consented to,—
-  (c) a consent under subsection (2) to sow any land with seed includes a consent to undertake an ongoing programme of sowing on the land or any part of it,—to maintain the pasture created or enhanced by the sowing consented to:
-    (i) in accordance with every condition, direction, and restriction subject to which the Commissioner gave it; and
-    (ii) using the species or mixture of species consented to,—
-  (d) a consent under subsection (2) to form a road, path, or track on any land includes a consent to undertake ongoing maintenance of any road, path, or track formed pursuant to the consent and in accordance with every condition, direction, and restriction subject to which the Commissioner gave it:
-  (e) a consent under subsection (2) to do a thing not specified in paragraphs (a) to (f) of subsection (1) includes a consent to undertake ongoing maintenance of any thing constructed or formed pursuant to the consent and in accordance with every condition, direction, and restriction subject to which the Commissioner gave it.
-(4) Unless the Commissioner determines otherwise, every consent under subsection (2) to crop, cultivate, or plough any land is deemed to be given subject to the condition that the lessee or licensee concerned must, on the termination of the lease or licence concerned, leave all land that has been cropped, cultivated, or ploughed, properly laid down in good permanent pasture to the Commissioner's satisfaction.
-(5) For the purposes of subsection (1) (but not subsection (3)),—
-  (a) every consent given under section 106 or section 108 of the Land Act 1948 has effect according to its tenor as if it were consent given under this section; and
-  (b) in the case of a consent given under section 108 of the Land Act 1948, subsection (4) has effect accordingly.
-(6) Subsection (1) does not forbid or prevent the doing of any thing authorised—
-  (a) by or under the Public Works Act 1981 or the Crown Minerals Act 1991; or
-  (b) under the Mining Act 1971.
-(7) Nothing in this section limits or affects the application or effect of section 100 of the Land Act 1948.
-
-### 17 Permission under other enactments still needed
-(1) Before a person has obtained permission to do a thing that is contrary to any enactment unless permission has been obtained under that enactment, the Commissioner may for the purposes of this Act give the person consent to do the thing under section 15 or section 16; but the consent does not authorise the person to do the thing without the required permission.
-(2) In subsection (1), permission includes agreement, authority, consent, licence, permit, and right.
-
-### 18 Discretionary actions
-(1) Before taking any action described in subsection (3), the Commissioner must consult the Director-General of Conservation.
-(2) In taking any action described in subsection (3), the Commissioner must take into account—
-  (a) the desirability of protecting the inherent values of the land concerned (other than attributes and characteristics of a recreational value only), and in particular the inherent values of indigenous plants and animals, and natural ecosystems and landscapes; and
-  (b) the desirability of making it easier to use the land concerned for farming purposes.
-(3) The actions are—
-  (a) determining whether to act under section 60(1), section 66A(1), or section 100 of the Land Act 1948 in relation to any pastoral land; and
-  (b) exercising any discretion under section 66A of that Act, or section 15 or section 16 of this Act, in relation to any pastoral land; and
-  (c) considering whether to grant, vary, or revoke an exemption from any stock limitation.
-
-### 19 Breaches of statutory or contractual provisions
-(1) The Commissioner may apply to the District Court for the examination of anything the Commissioner alleges to be a breach of a reviewable instrument committed after the commencement of this Act.
-(2) If satisfied on application under subsection (1) that the holder of a reviewable instrument has after the commencement of this Act committed a breach, the District Court may—
-  (a) order the holder—
-    (i) to take actions (specified by the court) to remedy the breach; or
-    (ii) in default of taking those actions, to pay to the Commissioner exemplary damages (not exceeding $50,000) for the breach; or
-  (b) if, and only if,—(without declaring the instrument forfeit) order the holder to pay to the Commissioner exemplary damages (not exceeding $50,000) for the breach; or
-    (i) it is impossible, impracticable, or otherwise inappropriate to remedy the breach; or
-    (ii) the breach has already been remedied,—
-  (c) declare the instrument forfeit to Her Majesty, and order the holder to pay to the Commissioner an amount being, as seems appropriate to the court,—
-    (i) the lower of $50,000 and the likely costs to the Crown of remedying the breach; or
-    (ii) exemplary damages (not exceeding $50,000) for the breach.
-(3) The District Court must not make an order under subsection (2)﻿(c) unless satisfied that every person with an interest in the land concerned at the time the application under subsection (1) was made—
-  (a) has been given notice of the application; and
-  (b) has an adequate opportunity to appear and be heard in relation to it.
-(4) Sections 244 to 257 of the Property Law Act 2007 are not available in respect of a forfeiture under subsection (2)﻿(c) of this section.
-(5) Section 105 of the Land Act 1948 does not apply to a breach of a reviewable instrument committed after the commencement of this Act.
-(6) In this section, breach, in relation to a reviewable instrument, means an action (or failure or refusal to act) by the holder that is—
-  (a) in contravention of section 100 of the Land Act 1948 or section 15(1) or section 16(1) of this Act, in its application to the land; or
-  (b) in contravention of any provision of or covenant contained in the instrument.
-
-### 20 Boundary disputes
+### 21 Boundary disputes
 Every dispute between the holders of adjacent pastoral land as to the boundary between them must be determined by the Commissioner or a person appointed by the Commissioner for the purpose.
 
-### 21 Boundary adjustments
+### 22 Boundary adjustments
 For the purpose of securing more suitable boundaries of pastoral land held under lease or licence, the Commissioner may, as from a specified day, exclude part of it from the lease or licence and include it in some other lease or licence; and in that case the Commissioner may make any adjustments in rents payable that the Commissioner thinks just and equitable.
 
-### 22 Travelling stock
-Any person travelling with cattle or sheep that are not affected with any contagious or infectious disease may depasture them for any period not exceeding 24 hours—on any unfenced and uncultivated pastoral land (whether let on licence or not).
-  (a) within 500 metres on either side of any road or track commonly used as a thoroughfare; but
-  (b) not within 2 kilometres of a homestead,—
+### Subpart 3 — Monitoring, strategic intentions, and reporting
+
+**Monitoring**
+
+### 22A Chief executive to prepare monitoring framework
+(1) The chief executive must—
+  (a) prepare, regularly update, and make available to the public a framework (the monitoring framework) for the overall performance of the department in relation to the purpose of this Act and the exercise of the department’s stewardship responsibilities (under section 52(1)﻿(d) of the Public Service Act 2020) in relation to this Act; and
+  (b) regularly report on performance against the monitoring framework in relation to the purpose of this Act and those stewardship responsibilities.
+(2) In developing the monitoring framework, the chief executive must—
+  (a) consult relevant iwi and representatives of lessees and licensees of pastoral land; and
+  (b) publish the draft monitoring framework on the department’s Internet site and invite the public to give or send their written submissions on the draft document before it is finalised.
+(3) The first monitoring framework must be prepared and made available to the public not later than 18 months after this section comes into force.
+
+### 22B Commissioner to monitor compliance by holders of reviewable leases or licences
+The Commissioner must monitor the compliance by—
+  (a) holders of reviewable leases or licences of their obligations under their leases or licences, stock limitation exemptions under section 15, and any relevant decision under section 10; and
+  (b) any person granted an easement (under section 60(1) of the Land Act 1948) or a commercial recreation permit (under section 66A of that Act) over pastoral land of their obligations under the easement or commercial recreation permit.
+
+**Crown’s pastoral land strategic intentions document and reporting requirements**
+
+### 22C Strategic intentions document
+(1) The chief executive and the Commissioner must prepare a document setting out the Crown’s pastoral land strategic intentions (the strategic intentions document).
+(2) The strategic intentions document must set out—
+  (a) how the chief executive and the Commissioner propose to perform or exercise their relevant statutory functions, duties, and powers in relation to pastoral land; and
+  (b) how Government policies and priorities will be reflected in the management of pastoral land (to the extent they are consistent with relevant legislation); and
+  (c) relevant key performance indicators to demonstrate how the performance or exercise of the functions, duties, and powers is contributing to achieving the outcomes stated in section 4.
+(3) The strategic intentions document must be updated at least once every 5 years, or sooner at the request of the Minister.
+(4) In developing the strategic intentions document, the chief executive or the Commissioner must—
+  (a) consult relevant iwi and representatives of lessees and licensees of pastoral land; and
+  (b) publish the draft strategic intentions document on the department’s Internet site and invite the public to give or send their written submissions on the draft document before it is finalised.
+(5) The chief executive and the Commissioner must report annually to the Minister on progress against the strategic intentions document and the chief executive must include that report into the department’s annual report.
+(6) The first strategic intentions document must be prepared and made available to the public not later than 18 months after this section comes into force.
+
+### 22D Commissioner must report summary of certain decisions
+(1) The Commissioner must publish on the department’s Internet site, as soon as practicable after it is made, a detailed summary of—
+  (a) every decision of the Commissioner under this Act or the Land Act 1948 that relates to the use of pastoral land (including a decision that relates to a lease, a licence, a commercial recreation permit, an easement, or an exemption from a stock limitation), other than a decision subject to a rehearing under section 17 of the Land Act 1948; and
+  (b) every decision of the Commissioner that determines an application for a rehearing under section 17 of the Land Act 1948 (including a decision not to grant a rehearing) of a decision on an application to undertake a discretionary pastoral activity, and the original decision to which the application for a rehearing relates.
+(2) The summary should set out details of—
+  (a) what the decision relates to; and
+  (b) what the decision enables or does not enable (including any conditions imposed by the decision); and
+  (c) the reasons for the decision.
+(3) The Commissioner must, as soon as practicable, publish on the department’s Internet site a summary of enforcement decisions that sets out the nature of the non-compliance and the reasons for taking enforcement action.
+(4) The Commissioner may defer or dispense with publication of a matter under this section (in whole or in part) if satisfied on reasonable grounds that good reason for withholding the publication would exist under the Official Information Act 1982.
+(5) For the purposes of subsection (3), an enforcement decision is a decision under—
+  (a) section 100A to recover the costs of remedial action:
+  (b) section 100B to accept an enforceable undertaking:
+  (c) section 100I to issue an infringement notice:
+  (d) section 100N to enforce a breach of statutory or contractual provisions.
+
+### Subpart 4 — Application of Land Act 1948
 
 **Application of Land Act 1948**
 
-### 23 Application of Land Act 1948
-Except as provided in sections 4 to 22, nothing in this Part limits or affects the continued application of the Land Act 1948 to any reviewable instrument or any land.
+### 23 Application of Land Act 1948 to this Part
+Except as provided in this Part, nothing in this Part limits or affects the continued application of the Land Act 1948 to any reviewable instrument or any land.
 
 ## Part 1A — Setting rents for pastoral leases
 
@@ -747,14 +887,14 @@ The Valuer-General may, in accordance with clauses 2 and 3 of Schedule 6 of the 
 ### 83 Objects of Part 3
 The objects of this Part are—
   (a) to promote the management of Crown land in a way that is ecologically sustainable; and
-  (b) to enable the protection of significant inherent values of Crown land; and
+  (b) to enable the protection of significant inherent values, including recreational values, of Crown land; and
   (c) subject to paragraphs (a) and (b), to make easier—
     (i) the securing of public access to and enjoyment of Crown land; and
     (ii) the freehold disposal of Crown land capable of economic use.
 
 ### 84 Matters to be taken into account by Commissioner
 In acting under this Part, the Commissioner must (to the extent that those matters are applicable) take into account—
-  (a) the objects of this Part; and
+  (a) the outcomes stated in section 4 and the objects of this Part; and
   (b) the principles of the Treaty of Waitangi; and
   (c) if acting in relation to land used or intended to be used by the Crown for any particular purpose, that purpose.
 
@@ -784,20 +924,34 @@ In acting under this Part, the Commissioner must (to the extent that those matte
 (4) After conducting any review, the Commissioner must devise a preliminary proposal to designate the land concerned in accordance with subsection (5).
 (5) The land (or various areas of it) must be designated as—
   (a) land to be retained in full Crown ownership and control—
-    (i) as conservation area; or
+    (i) as a conservation area; or
     (ii) as a reserve, to be held for a purpose specified in the proposal; or
     (iii) for some specified Crown purpose; or
-  (b) Either or both of the following:
-    (i) land suitable for disposal by special lease (on terms specified in the proposal):
-    (ii) land suitable for disposal in fee simple under the Land Act 1948.
+    (iv) as Crown land without classification; or
+    (v) as a different classification of Crown land under section 51 of the Land Act 1948; or
+  (b) land that may be added to an existing pastoral lease or leased under a new pastoral lease, but only if the land is already classified as pastoral land; or
+  (c) land that may be added to an existing special lease or leased under a new special lease; or
+  (d) land that may be disposed of in fee simple under the Land Act 1948 unencumbered or subject to any covenants or easements (or both) specified in the proposal.
 (6) If a preliminary proposal designates any land as land suitable for disposal by special lease, land suitable for disposal in fee simple, or both, it may designate it subject to either or both of the following things:
   (a) the creation of a sustainable management covenant:
   (b) the continuation in force of an existing easement.
 (7) If a preliminary proposal designates any land held under an occupation licence as land to be retained in Crown ownership, it may also specify any holder's improvements that are to remain on the land.
+(8) If a preliminary proposal designates any land as land that may be leased under a new pastoral lease, the lease may be on any terms that the Commissioner thinks fit, except that—
+  (a) section 4 applies; and
+  (b) the rental must be set in accordance with Part 1A.
+(9) The ability to grant a new pastoral lease in accordance with this section applies despite anything to the contrary in the Land Act 1948.
 
 ### 87 Provisional consent of Minister of Conservation needed for some designations
 (1) Without the prior written provisional consent of the Minister of Conservation, a preliminary proposal may not designate any land as land suitable for disposal subject to the creation of a protective mechanism.
 (2) The Minister must not consent provisionally to a designation in a preliminary proposal unless satisfied that it is reasonably likely that the Minister would consent to a substantive proposal containing the designation.
+
+### 87A Approval of Minister needed for some designations
+(1) The Commissioner must obtain the written consent of the Minister before a preliminary proposal or substantive proposal designates pastoral land as land to be—
+  (a) added to an existing pastoral lease or special lease; or
+  (b) leased by a new pastoral lease or special lease; or
+  (c) reclassified as another form of Crown land; or
+  (d) disposed of in fee simple.
+(2) The Minister must not consent provisionally to a designation described in subsection (1) in a preliminary proposal unless satisfied that it is reasonably likely that the Minister will consent to a substantive proposal containing the designation.
 
 ### 88 Certain provisions of Part 2 relating to preliminary proposals to apply
 The following former sections set out in Schedule 1AC apply with any necessary modifications to a preliminary proposal under this Part:
@@ -826,7 +980,7 @@ The following former sections set out in Schedule 1AC apply with any necessary m
 (1) The former section 47 set out in Schedule 1AC (which forbids the Commissioner to put a substantive proposal to the holder of a reviewable instrument without first considering matters arising out of the consultations on the preliminary proposal out of which the substantive proposal arises) applies to the adoption of a substantive proposal under this Part as if it were the putting of a substantive proposal under the former Part 2 to the holder of a reviewable instrument.
 (2) The following former sections set out in Schedule 1AC apply to a substantive proposal under this Part as if it were a substantive proposal under the former Part 2 (but as if the reference in section 62(1) to its acceptance were a reference to its adoption):
   (a) section 62 (which requires the Commissioner to prepare a final plan of the land to which an accepted substantive proposal relates):
-  (b) section 63 (which relates to the approval of a final plan by the Chief Surveyor):
+  (b) section 63 (which relates to the approval of a final plan by the Surveyor-General):
   (c) section 64 (which relates to the registration of an approved final plan and the substantive proposal out of which the plan arises).
 
 ### 91 Consent of Minister of Conservation needed for some designations
@@ -881,10 +1035,197 @@ When an approved plan relating to land that a substantive proposal designates as
 (2) Section 84 applies to the exercise of the Commissioner's powers under section 97 in relation to the disposal of land under Part 3 as if section 97 were part of Part 3.
 
 ### 99 Commissioner to meet certain official costs
-The Commissioner must pay the appropriate costs of any action taken by a Chief Surveyor or the Registrar-General of Land under Part 2 or Part 3.
+The Commissioner must pay the appropriate costs of any action taken by the Surveyor-General or the Registrar-General of Land under Part 2 or Part 3.
 
 ### 100 Application of sections 17 and 18 of Land Act 1948
 Except as provided in section 89(2), neither section 17 nor section 18 of the Land Act 1948 applies to any decision made under Part 2, Part 3, or this Part.
+
+## Part 4A — Miscellaneous provisions
+
+**Recovery of remedial costs**
+
+### 100A Costs of remedial action
+(1) The Commissioner may recover as a debt due to the Crown the actual and reasonable costs of any remedial action taken to remedy or adequately mitigate a notified breach or alleged breach by a person of—
+  (a) their obligations under a reviewable instrument; or
+  (b) a consent to undertake a discretionary pastoral activity, a commercial recreation permit, or a grant, variation, or revocation of an exemption from a stock limitation.
+(2) For the purposes of this section, a breach or an alleged breach is notified to a person if the Commissioner gives the person a written notice that states—
+  (a) the breach or alleged breach; and
+  (b) the remedial action or mitigation that the Commissioner requires the person to take; and
+  (c) the period within which the Commissioner requires that remedial action or mitigation to be undertaken.
+(3) Notice of a breach or an alleged breach must not be served on a person unless the Commissioner has reasonable grounds for believing that the breach has occurred.
+(4) For the purpose of carrying out any remedial action on any pastoral land held on lease or licence, the Commissioner or any person authorised by them in writing has, at all reasonable times, free rights of ingress, egress, and regress, in respect of that land and all the powers necessary to take the remedial action.
+
+**Enforceable undertakings**
+
+### 100B Commissioner may accept enforceable undertakings
+(1) The Commissioner may accept an enforceable written undertaking, in a form, or containing the information, prescribed by regulations made under this Act (if any), given by a person in connection with a matter relating to a breach or an alleged breach by the person of—
+  (a) their obligations under a reviewable instrument; or
+  (b) a consent to undertake a discretionary pastoral activity, a commercial recreation permit, or a grant, variation, or revocation of an exemption from a stock limitation.
+(2) The giving of an enforceable undertaking does not constitute an admission of guilt by the person giving it in relation to the breach or alleged breach to which the undertaking relates.
+(3) The person may withdraw or vary the undertaking with the consent of the Commissioner.
+(4) If the Commissioner considers that the person is in breach of an undertaking, the Commissioner may apply to the court under section 100N, and section 100N(2) to (6) applies to a breach of undertaking as if it were a breach of a reviewable instrument.
+
+### 100C Commissioner must give notice of decision and reasons
+The Commissioner must give a person who is seeking to make an enforceable undertaking written notice of—
+  (a) their decision to accept or reject the undertaking; and
+  (b) the reasons for the decision.
+
+**Infringement offences**
+
+### 100D Infringement offences
+(1) A person commits an infringement offence against this Act if the person—
+  (a) undertakes without a consent under section 7 (burning of vegetation) an activity on pastoral land that requires a consent under that section; or
+  (b) undertakes without a consent under section 8 (activities affecting or disturbing soil) an activity on pastoral land that requires a consent under either of those sections; or
+  (c) contravenes a stock limitation or an exemption from a stock limitation (see sections 10 and 15); or
+  (d) undertakes without a commercial recreation permit under section 66A of the Land Act 1948 an activity on pastoral land that requires a commercial recreation permit under that section; or
+  (e) undertakes without a consent under section 100 of the Land Act 1948 (preservation of timber) an activity on pastoral land that requires a consent under that section.
+(2) For the purposes of subsection (1)﻿(a), (b), (d), and (e), it is not an infringement offence to contravene the terms of a consent or permit.
+
+### 100E Proceedings for infringement offences
+(1) A person who is alleged to have committed an infringement offence against this Act or regulations made under this Act may—
+  (a) be proceeded against by the filing of a charging document under section 14 of the Criminal Procedure Act 2011; or
+  (b) be served with an infringement notice under section 100I.
+(2) Proceedings commenced in the way described in subsection (1)﻿(a) do not require the leave of a District Court Judge or Registrar under section 21(1)﻿(a) of the Summary Proceedings Act 1957.
+(3) See section 21 of the Summary Proceedings Act 1957 for the procedure that applies if an infringement notice is issued.
+
+### 100F Who may issue infringement notices
+(1) The chief executive may, by a written warrant evidencing the appointment, authorise an employee of the department (an authorised person) to issue infringement notices under this Act.
+(2) Production of the warrant is, in the absence of proof to the contrary, conclusive evidence of the appointment.
+
+### 100G When infringement notice may be issued
+An authorised person may issue an infringement notice to a person if the authorised person believes on reasonable grounds that the person is committing, or has committed, an infringement offence.
+
+### 100H Revocation of infringement notice before payment made
+(1) An authorised person may revoke an infringement notice before—
+  (a) the infringement fee is paid; or
+  (b) an order for payment of a fine is made or deemed to be made by a court under section 21 of the Summary Proceedings Act 1957.
+(2) The authorised person must take reasonable steps to ensure that the person to whom the notice was issued is made aware of the revocation of the notice.
+(3) The revocation of an infringement notice before the infringement fee is paid is not a bar to any further action as described in section 100E(1)﻿(a) or (b) against the person to whom the notice was issued in respect of the same matter.
+
+### 100I What infringement notice must contain
+An infringement notice must be in the form prescribed in regulations made under section 100R and must contain the following particulars:
+  (a) details of the alleged infringement offence that fairly inform a person of the time, place, and nature of the alleged offence:
+  (b) the amount of the infringement fee:
+  (c) the address of the place at which the infringement fee may be paid:
+  (d) how the infringement fee may be paid:
+  (e) the time within which the infringement fee must be paid:
+  (f) a summary of the provisions of section 21(10) of the Summary Proceedings Act 1957:
+  (g) a statement that the person served with the notice has a right to request a hearing:
+  (h) a statement of what will happen if the person served with the notice neither pays the infringement fee nor requests a hearing:
+  (i) any other matters prescribed in regulations made under section 100R.
+
+### 100J How infringement notice may be served
+(1) An infringement notice may be served on the person who the authorised person believes is committing or has committed the infringement offence by—
+  (a) delivering it to the person or, if the person refuses to accept it, bringing it to the person’s notice; or
+  (b) leaving it for the person at the person’s last known place of residence with another person who appears to be of or over the age of 14 years; or
+  (c) leaving it for the person at the person’s place of business or work with another person; or
+  (d) sending it to the person by prepaid post addressed to the person’s last known place of residence or place of business or work; or
+  (e) sending it to an electronic address of the person in any case where the person does not have a known place of residence or business in New Zealand.
+(2) Unless the contrary is shown,—
+  (a) an infringement notice (or a copy of it) sent by prepaid post to a person under subsection (1) is to be treated as having been served on that person on the fifth working day after the date on which it was posted; and
+  (b) an infringement notice sent to a valid electronic address is to be treated as having been served at the time the electronic communication first entered an information system that is outside the control of the department.
+
+### 100K Reminder notices
+A reminder notice must be in the prescribed form, and must include the same particulars, or substantially the same particulars, as the infringement notice.
+
+### 100L Payment of infringement fees
+All infringement fees paid in respect of infringement offences must be paid into a Crown Bank Account.
+
+### 100M Penalties for infringement offences
+A person who commits an infringement offence is liable to—
+  (a) the infringement fee prescribed in regulations for that offence; or
+  (b) a fine imposed by a court not exceeding the maximum fine prescribed in regulations for that offence.
+
+**Breaches relating to reviewable instruments**
+
+### 100N Breaches of statutory or contractual provisions
+(1) The Commissioner may apply to the District Court for the examination of anything the Commissioner alleges to be a breach of a reviewable instrument committed after the commencement of this section.
+(2) If satisfied on application under subsection (1) that the holder of a reviewable instrument has after the commencement of this Act committed a breach, the District Court may—
+  (a) order the holder—
+    (i) to take actions (specified by the court) to remedy the breach; or
+    (ii) in default of taking those actions, to pay to the Commissioner exemplary damages (not exceeding $50,000) for the breach; or
+  (b) (without declaring the instrument forfeit) order the holder to pay to the Commissioner exemplary damages (not exceeding $50,000) for the breach if, and only if,—
+    (i) it is impossible, impracticable, or otherwise inappropriate to remedy the breach; or
+    (ii) the breach has already been remedied; or
+  (c) declare the instrument forfeit to the Crown, and order the holder to pay to the Commissioner an amount being, as seems appropriate to the court,—
+    (i) the lower of $50,000 and the likely costs to the Crown of remedying the breach; or
+    (ii) exemplary damages (not exceeding $50,000) for the breach.
+(3) The District Court must not make an order under subsection (2)﻿(c) unless satisfied that every person with an interest in the land concerned at the time the application under subsection (1) was made—
+  (a) has been given notice of the application; and
+  (b) has had an adequate opportunity to appear and be heard in relation to it.
+(4) Sections 244 to 257 of the Property Law Act 2007 are not available in respect of a forfeiture under subsection (2)﻿(c) of this section.
+(5) Section 105 of the Land Act 1948 does not apply to a breach of a reviewable instrument committed after the commencement of this Act.
+(6) In this section, breach, in relation to a reviewable instrument, means an action (or a failure or refusal to act) by the holder that—
+  (a) contravenes section 100 of the Land Act 1948 or section 7, 8, or 9 of this Act, in its application to the land; or
+  (b) contravenes any provision of or covenant contained in the instrument.
+
+**Further provisions relating to activities and regulations**
+
+### 100O Power to amend Schedule 1AB
+(1) The Governor-General may, by Order in Council made on the recommendation of the Minister, amend, replace, or delete any of the items or definitions in Schedule 1AB in accordance with this section.
+(2) The Minister may make a recommendation under subsection (1) in accordance with subsections (3) to (7).
+(3) Only activities that are described in sections 7 to 9 of this Act, or section 100 of the Land Act 1948, may be classified as permitted pastoral activities or prohibited pastoral activities.
+(4) Activities remain as discretionary pastoral activities unless they meet the criteria for permitted pastoral activities or prohibited pastoral activities.
+(5) An activity may be classified as a permitted pastoral activity only if the Minister is satisfied it meets the following criteria:
+  (a) the pastoral activity must have no more than minor effects on inherent values in all reasonably foreseeable circumstances, which include the possible effects of the activity in all possible locations across the Crown pastoral estate; and
+  (b) the activity must—
+    (i) be required for pastoral farming; or
+    (ii) contribute to the lessee or licensee meeting their obligations under section 99 of the Land Act 1948, or the maintenance or enhancement of inherent values.
+(6) An activity may be classified as a prohibited pastoral activity only if the Minister is satisfied that—
+  (a) the activity will not impact unduly on a lessee’s or licensee’s ability to exercise their rights and obligations under their lease or licence in any reasonably foreseeable circumstances; and
+  (b) the activity would be likely to cause significant loss of inherent values that cannot be avoided in all reasonably foreseeable circumstances.
+(7) The Minister must not recommend the making of an Order in Council under this section unless—
+  (a) the Minister has consulted the Minister of Agriculture and the Minister of Conservation; and
+  (b) the Minister is satisfied that the chief executive or the Commissioner has—
+    (i) consulted relevant iwi and representatives of lessees and licensees of pastoral land; and
+    (ii) published a notice of the proposed recommendation on the department’s Internet site and invited the public to give or send their written submissions on the proposed recommendation before it is finalised.
+(8) To avoid doubt, no change in the classification of a pastoral activity made by an Order in Council under this section affects the terms or conditions of any consent to undertake a discretionary pastoral activity or commercial recreation permit that has effect when the order takes effect.
+(9) An Order in Council made under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+
+### 100P Power to amend Schedule 1ABA
+(1) The Governor-General may, by Order in Council made on the recommendation of the Minister, amend, replace, or revoke any provision in Schedule 1ABA in accordance with this section.
+(2) The Minister may make a recommendation under subsection (1) in accordance with subsection (3).
+(3) The Minister must not recommend the making of an Order in Council under this section unless the Minister is satisfied that the chief executive or the Commissioner has—
+  (a) consulted relevant iwi and representatives of lessees and licensees of pastoral land; and
+  (b) published a notice of the proposed recommendation on the department’s Internet site and invited the public to give or send their written submissions on the proposed recommendation before it is finalised.
+(4) An Order in Council made under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+
+### 100Q Chief executive to review Schedule 1AB
+(1) The chief executive must review Schedule 1AB every 5 years.
+(2) Following the review, the chief executive must advise the Minister on any recommended changes to Schedule 1AB.
+
+### 100R Regulations
+(1) The Governor-General may, by Order in Council made on the recommendation of the Minister, make regulations providing for 1 or more of the following purposes:
+  (a) prescribing the information required to be provided with an application for consent to undertake a discretionary pastoral activity or for the grant of a commercial recreation permit or stock limitation exemption (for example, the description and location of the pastoral activity, the inherent values affected, and mitigation):
+  (b) prescribing matters the Commissioner must take into account in deciding the level of adverse effects of a pastoral activity or commercial recreation permit activity, or a stock limitation exemption, on inherent values:
+  (c) prescribing the form and content of farm plans that may be considered under section 10(4)﻿(d):
+  (d) prescribing fees or charges payable for applications for consent to undertake discretionary pastoral activities or applications for the grant of a commercial recreation permit or stock limitation exemption:
+  (e) prescribing the form of, or the information that must be contained in or accompany, an enforceable undertaking under section 100B:
+  (f) prescribing infringement offences for the contravention of regulations made under this Act:
+  (g) prescribing penalties for infringement offences against this Act or regulations made under this Act, which,—
+    (i) in the case of infringement fees, must not be more than $1,000; and
+    (ii) in the case of maximum fines, must not be more than twice the amount of the infringement fee for the offence:
+  (h) prescribing the form of infringement notices and infringement offence reminder notices:
+  (i) requiring persons to collect information and supply the information to the chief executive or the Commissioner for the purpose of this Act:
+  (j) providing for any other matters contemplated by this Act, necessary for its administration, or necessary for giving it full effect.
+(2) The power to prescribe fees or charges includes the power to prescribe any of the following:
+  (a) the method by which the fees or charges are to be assessed, which may (without limitation) include a general charge and actual and reasonable costs in respect of a discretionary pastoral activity:
+  (b) the persons liable to pay the fees or charges:
+  (c) when the fees or charges must be paid:
+  (d) the circumstances in which the fees or charges may be refunded, remitted, or waived (wholly or partly).
+(3) Fees and charges are a debt due to the Crown and may be recovered by the chief executive or the Commissioner (on behalf of the Crown) in any court of competent jurisdiction.
+(4) The Minister must not recommend the making of regulations under this section unless the Minister is satisfied that the chief executive or the Commissioner has—
+  (a) consulted relevant iwi, representatives of lessees and licensees of pastoral land, and the Director-General of Conservation; and
+  (b) published a notice of the proposed recommendation on the department’s Internet site and invited the public to give or send their written submissions on the proposed recommendation before it is finalised.
+(5) Regulations made under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+
+### 100S Chief executive or Commissioner may set standards and issue directives
+(1) The Commissioner may set standards and issue directives in relation to the administration of pastoral land and its inherent values, including monitoring the state of the land.
+(2) The chief executive may set standards and issue directives in relation to the framework for determining applications for discretionary pastoral consents, commercial recreation permits, or stock limitation exemptions.
+(3) The chief executive or the Commissioner must not set a standard or issue a directive unless one of them has—
+  (a) consulted relevant iwi, representatives of lessees and licensees of pastoral land, and the Director-General of Conservation; and
+  (b) published the draft standard or directive on the department’s Internet site and invited the public to give or send their written submissions on the draft document before it is finalised.
+(4) A standard or directive is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ## Part 5 — Savings, and consequential amendments and repeals
 
@@ -929,6 +1270,50 @@ In this Part,—
 (2) Every proposal to which this clause applies ceases to have any effect.
 (3) All related reviews under this Act in existence immediately before the commencement date are discontinued and the Commissioner must not take any action to progress any of the reviews.
 (4) Nothing in this clause limits or affects a right of judicial review that a person may have in respect of the proposal or related review.
+
+### 4 Pending decisions relating to applications for consents, recreation permits, lease transfers, exemptions from stock limitation, or easements
+(1) This clause applies to every application to the Commissioner for the grant of any of the following in respect of pastoral land or unused Crown land under this Act or the Land Act 1948 that was lodged, but not finally dealt with, before the commencement date:
+  (a) consents to undertake pastoral activities:
+  (b) consents to transfer leases:
+  (c) exemptions from stock limitations or their variation or revocation:
+  (d) recreation permits under section 66A of the Land Act 1948:
+  (e) easements.
+(2) The Commissioner must deal with the application in accordance with the relevant Act as if the amendment Act had not been enacted.
+(3) Any rehearing that was applied for under section 17 of the Land Act 1948 on or after the commencement date and that relates to a decision taken by the Commissioner under this Act before that date must be determined as if the amendment Act had not been enacted.
+
+### 5 Activities authorised by letter to Crown pastoral lessees in 1999
+(1) This clause applies to every lessee who commenced any activity authorised by a consent given by the Commissioner by letter in 1999 and has not completed the activity before the commencement date.
+(2) The lessee may continue and complete the activity, as if it were a permitted pastoral activity under Schedule 1AB, if they satisfy the Commissioner that they have made substantial progress (for example, investing in necessary materials) towards completing the activity based on the consent requirements that existed at the time the activity commenced.
+(3) The 1999 letters are revoked, and the consents given by the letters have effect only as provided by subclause (2).
+
+### 6 Activities authorised by former section 15 or 16
+(1) This clause applies to every consent given under section 15 or 16 (as they read immediately before their repeal by the amendment Act) and in force immediately before the commencement date.
+(2) The consent continues in force according to its tenor, and section 15 or 16 is treated as remaining in force for the purpose of the consent.
+
+### 7 Stock limitation exemptions
+(1) This clause applies to every stock limitation exemption in force immediately before the commencement date.
+(2) The exemption continues in force according to its tenor.
+
+### 8 Existing reviews of unrenewable occupation licences
+(1) This clause applies to every review under section 86 of this Act of an unrenewable occupation licence that commenced, but was not completed, before the commencement date.
+(2) Nothing in the amendment Act affects the review and it must be dealt with as if the amendment Act had not been enacted.
+
+### 9 No compensation payable
+(1) No compensation is payable by the Crown for any loss or damage, or any adverse effect on or under any lease or other right or interest, arising from the enactment or operation of the amendment Act.
+(2) If there is any inconsistency between this clause and any other enactment or rule of law, this clause prevails over that enactment or rule of law.
+
+## Schedule 1AB — Classification of pastoral activities on pastoral land
+
+## Schedule 1ABA — Criteria for considering whether activity necessary to enable lessee or licensee to exercise rights and obligations under lease or licence
+
+### 1 Criteria applicable for consent to discretionary pastoral activity
+(1) To be satisfied under section 11(2), the Commissioner must take into account 1 or more of the following:
+  (a) whether the pastoral activity forms part of the periodic clearance of vegetation as part of a regular cycle to maintain existing pasture created by oversowing, top-dressing, or cultivation:
+  (b) whether the pastoral activity is required to provide reasonable access by way of tracks to areas of the land that are currently subject to a programme of oversowing or top-dressing for the grazing of livestock:
+  (c) whether the pastoral activity is required to use, maintain, or replace consented existing infrastructure or buildings:
+  (d) whether the pastoral activity contributes to the lessee or licensee meeting their obligations under any other enactments:
+  (e) whether the pastoral activity is required to address an exceptional circumstance.
+(2) In addition, the Commissioner may take into account any other relevant considerations.
 
 ## Schedule 1AC — Provisions of former Part 2 referred to elsewhere in this Act
 
