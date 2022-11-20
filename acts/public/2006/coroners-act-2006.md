@@ -1,5 +1,5 @@
 # Coroners Act 2006
-_Consolidation as at 2022-05-25_
+_Consolidation as at 2022-11-20_
 
 ### 1 Title
 This Act is the Coroners Act 2006.
@@ -321,11 +321,7 @@ A coroner is not required to view any body.
     (b) the use of medical imaging.
 
 ### 21B Preliminary inspection must include taking of swabs in certain circumstances relating to COVID-19
-(1) This section—
-  (a) applies on and from the day on which this section comes into force; and
-  (b) ceases to apply immediately after the expiry of the 30-day period that starts on the date on which the Epidemic Preparedness (COVID-19) Notice 2020 expires or is revoked.
-(2) If this section applies, a preliminary inspection of a body performed under section 21A must also include the taking and testing of nasopharyngeal and oropharyngeal swabs in any case where the deceased is suspected to have had COVID-19 at the time of death.
-(3) This section is repealed immediately after the expiry of the 30-day period that starts on the date on which the Epidemic Preparedness (COVID-19) Notice 2020 expires or is revoked.
+[Repealed]
 
 **Interests of families and other relevant people or organisations**
 
