@@ -1,5 +1,5 @@
 # International Finance Agreements Act 1961
-_Consolidation as at 2022-07-01_
+_Consolidation as at 2022-11-24_
 
 > Title
 
