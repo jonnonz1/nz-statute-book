@@ -1,5 +1,5 @@
 # Land Transport Act 1998
-_Consolidation as at 2022-10-20_
+_Consolidation as at 2022-11-26_
 
 > An Act—ato promote safe road user behaviour and vehicle safety; andbto provide for a system of rules governing road user behaviour, the licensing of drivers, and technical aspects of land transport, and to recognise reciprocal obligations of persons involved; andcto consolidate and amend various enactments relating to road safety and land transport; anddto enable New Zealand to implement international agreements relating to road safety and land transport
 
@@ -4376,8 +4376,8 @@ Without limiting any other method of proof, the production in proceedings of a c
   (k) requiring vehicle importers to include, among the vehicles they import in any given year, a minimum proportion of vehicles with zero carbon dioxide emissions:
   (l) prescribing procedures and requirements for the purposes of banking and transferring carbon dioxide credits:
   (m) prescribing procedures and requirements for deferring an obligation to meet carbon dioxide emissions targets:
-  (n) providing for the refund or waiver, or enabling the refund or waiver, of charges imposed under section 177:
-  (o) providing for unpaid charges under section 177 to be recoverable as a debt due to the Crown:
+  (n) providing for the refund or waiver, or enabling the refund or waiver, of charges imposed under section 177 or 182:
+  (o) providing for unpaid charges under section 177 or 182 to be recoverable as a debt due to the Crown:
   (p) prescribing information to be contained in carbon dioxide accounts:
   (q) prescribing the manner in which carbon dioxide accounts must be operated:
   (r) prescribing, for the purposes of section 186, requirements in respect of the allocation of account numbers for carbon dioxide accounts:
@@ -4709,14 +4709,14 @@ For the purposes of this Part, a vehicle is imported into New Zealand at the poi
 **Carbon dioxide accounts: general provisions**
 
 ### 185 Vehicle importers must hold carbon dioxide accounts
-(1) Every vehicle importer who imports a light vehicle on or after 1 December 2022 must hold a carbon dioxide account with the Director.
+(1) Every vehicle importer who imports a Type A or Type B vehicle on or after 1 December 2022 must hold a carbon dioxide account with the Director.
 (2) The account must contain the information and be operated in the manner prescribed by the regulations.
 
 ### 186 Director must allocate unique numbers for carbon dioxide accounts
 The Director must, in accordance with the regulations, allocate a unique account number to each carbon dioxide account when the account is opened.
 
 ### 187 Carbon dioxide account information required for vehicle importation
-On and after 1 December 2022, no light vehicle may be certified for entry under this Act, unless—
+On and after 1 December 2022, no Type A or Type B vehicle may be certified for entry under this Act, unless—
   (a) the carbon dioxide account number of the vehicle importer has been provided to the Director; and
   (b) the carbon dioxide emissions of the vehicle have been recorded in the vehicle importer’s carbon dioxide account.
 
@@ -4731,7 +4731,7 @@ On and after 1 December 2022, no light vehicle may be certified for entry under 
 **Opening, closing, and suspension of carbon dioxide accounts**
 
 ### 189 Opening carbon dioxide accounts
-(1) Any person who intends to import a light vehicle into New Zealand may apply to the Director to open a carbon dioxide account by submitting an application in the manner prescribed by the regulations, accompanied by the prescribed fee (if any).
+(1) Any person who intends to import a Type A or Type B vehicle into New Zealand may apply to the Director to open a carbon dioxide account by submitting an application in the manner prescribed by the regulations, accompanied by the prescribed fee (if any).
 (2) The Director must open a carbon dioxide account on receipt of an application under subsection (1) if the Director is satisfied that—
   (a) the application complies with the prescribed requirements; and
   (b) if the applicant intends to import new vehicles, the applicant does not already hold a carbon dioxide account that relates to new vehicles; and
@@ -6070,6 +6070,16 @@ In this Part, amendment Act means the Land Transport (Clean Vehicles) Amendment 
   (b) consult any persons as the Minister considers appropriate.
 (2) The purposes are to ensure that interested persons are given reasonable time to make submissions on the proposed regulations and to enable the Minister to consult any persons as the Minister considers appropriate before the regulations are made.
 (3) If any action referred to in subclause (1) is taken by or on behalf of the Minister before the commencement of section 24 of the amendment Act, the action is deemed to have been validly taken by the Minister under section 36(2) of the Energy Efficiency and Conservation Act 2000 for the purposes of making the regulations under section 36(1)﻿(ba) of that Act and bringing those regulations into force.
+
+### Part 5 — Provisions relating to Land Transport (Clean Vehicles) Amendment Act (No 2) 2022
+
+### 22 Transitional provision applying to vehicles imported before 1 June 2023 by category 2 light vehicle importers
+(1) This clause applies if the carbon dioxide emissions of a vehicle that is imported in the period starting on 1 January 2023 and ending on 31 May 2023 by a category 2 light vehicle importer exceed the importer’s target that applies in respect of that vehicle.
+(2) For the purpose of paying any charge under section 182, the vehicle is deemed to be imported on 1 June 2023.
+(3) To avoid doubt, subclause (2) only affects the date on which a charge is payable, and does not affect any other obligations under this Act, including the information to be recorded in the vehicle importer’s carbon dioxide account.
+
+### 23 Deferred date for transfer of credits under section 184
+Despite sections 180(1) and (2) and 184(1) and (2), a light vehicle importer may not transfer carbon dioxide credits in their carbon dioxide account to the carbon dioxide account of another light vehicle importer before 1 June 2023.
 
 ## Schedule 1 — Provisions concerning Land Transport Safety Authority of New Zealand
 
