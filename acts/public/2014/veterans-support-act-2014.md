@@ -1,5 +1,5 @@
 # Veterans' Support Act 2014
-_Consolidation as at 2022-09-01_
+_Consolidation as at 2022-11-26_
 
 ### 1 Title
 This Act is the Veterans' Support Act 2014.
@@ -1773,6 +1773,9 @@ A veteran’s pension commences on the later of—
   (a) the single living alone rate, if the person is living alone; or
   (b) the single sharing accommodation rate, if the person is not living alone.
 (3) Any benefit payable to a person to whom this section applies is not subject to abatement in respect of any income of the person that has been included in a means assessment of the person’s spouse or partner under the Residential Care and Disability Support Services Act 2018.
+(4) In subsection (3), any benefit,—
+  (a) has, under section 158(2)﻿(b) of this Act, the meaning given to it in Schedule 2 of the Social Security Act 2018; and so
+  (b) includes, for example, an accommodation supplement (as is explained in the guide in section 17A of that Act).
 
 **Lump sum payment on death**
 
