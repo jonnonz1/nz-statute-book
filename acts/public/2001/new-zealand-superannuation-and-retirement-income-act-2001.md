@@ -1,5 +1,5 @@
 # New Zealand Superannuation and Retirement Income Act 2001
-_Consolidation as at 2022-09-01_
+_Consolidation as at 2022-11-26_
 
 ### 1 Title
 This Act is the New Zealand Superannuation and Retirement Income Act 2001.
@@ -234,6 +234,9 @@ The rate of New Zealand superannuation payable to a person is the appropriate ra
   (c) an emergency benefit under section 63 of the Social Security Act 2018 at the appropriate rate of a supported living payment payable to a person who is single or is single with 1 or more dependent children, as the case may be, in any other case.
 (2A) See section 89 of the Social Security Act 2018, under which a person to whom this section applies may be entitled to a special disability allowance for the purpose of assisting with expenses arising from the hospitalisation of the person’s spouse or partner.
 (3) Any benefit payable to a person to whom this section applies is not subject to abatement in respect of any income of the person that has been included in a means assessment of the person’s spouse or partner under the Residential Care and Disability Support Services Act 2018.
+(3A) In subsection (3), any benefit,—
+  (a) has, under section 4(2) of this Act, the same meaning as it has in the Social Security Act 2018 (see Schedule 2 of that Act); and so
+  (b) includes, for example, an accommodation supplement (as is explained in the guide in section 17A of that Act).
 (4) This section applies despite anything to the contrary in this Act (except sections 19 and 21 to 35).
 
 ### 18 Appropriate rate for spouses or partners of persons in long-term residential care in hospital or rest home
