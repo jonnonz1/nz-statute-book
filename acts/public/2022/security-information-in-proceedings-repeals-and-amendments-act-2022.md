@@ -305,14 +305,14 @@ After section 2, insert:Meaning of classified security information
     (c) that the head of the specified agency certifies in writing cannot be disclosed (except as authorised by or under an Act or other rule of law) because, in the opinion of the head of the specified agency,—
       (i) the information is information of a kind specified in subsection (2); and
       (ii) disclosure of the information would be disclosure of a kind specified in subsection (3).
-  (2) Information falls within subsection (1)﻿(b)﻿(i) if it—
+  (2) Information falls within subsection (1)﻿(c)﻿(i) if it—
     (a) might lead to the identification of, or provide details of,—
       (i) the source of the information; or
       (ii) the nature, content, or scope of the information; or
       (iii) the nature or type of the assistance or operational methods available to the specified agency; or
     (b) is about particular operations that have been undertaken, or are being or are proposed to be undertaken, in relation to any of the functions of the specified agency; or
     (c) has been provided to the specified agency by the Government of another country or by an agency of such a Government or by an international organisation, and is information that cannot be disclosed by the specified agency because the Government, agency, or organisation that provided the information will not consent to the disclosure.
-  (3) Disclosure of information falls within subsection (1)﻿(b)﻿(ii) if the disclosure would be likely—
+  (3) Disclosure of information falls within subsection (1)﻿(c)﻿(ii) if the disclosure would be likely—
     (a) to prejudice the security or defence of New Zealand or the international relations of the Government of New Zealand; or
     (b) to prejudice the entrusting of information to the Government of New Zealand on a basis of confidence by the Government of another country or by an agency of such a Government or by an international organisation; or
     (c) to prejudice the maintenance of the law, including the prevention, investigation, and detection of offences and the right to a fair trial; or
