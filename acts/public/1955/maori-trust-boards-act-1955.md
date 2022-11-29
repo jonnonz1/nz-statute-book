@@ -1,5 +1,5 @@
 # Maori Trust Boards Act 1955
-_Consolidation as at 2021-10-28_
+_Consolidation as at 2022-11-29_
 
 > An Act to make better provision for the administration of certain Maori Trust Boards
 
@@ -18,9 +18,10 @@ _Consolidation as at 2021-10-28_
     (b) the end of another date that the Board adopts as its balance date, as long as a balance date is never more than 15 months after the last balance date
   - **beneficiary** means any person for whose benefit the assets of a Board are administered under this Act
   - **committee** means a committee appointed by a Board under section 20
+  - **electronic voting system** means an electronic voting system provided for by regulations made under this Act
   - **Maori** means a person belonging to the aboriginal race of New Zealand; and includes any descendant of a Maori
   - **Maori Trust Board** or means any Maori Trust Board referred to in Part 1; and includes any body that is declared by any enactment to be a Maori Trust Board within the meaning of this Act
-  - **Minister** means the Minister of Maori Affairs.
+  - **Minister** means the Minister of the Crown who, under the authority of any warrant or with the authority of the Prime Minister, is responsible for the administration of this Act.
 (2)
 
 ## Part 1 — Constitution of Maori Trust Boards
@@ -66,7 +67,7 @@ _Consolidation as at 2021-10-28_
 
 ### 9 Taranaki Maori Trust Board
 (1) The body corporate constituted as a Board of Management under section 49 of the Maori Purposes Act 1931 under the name of the Taranaki Maori Trust Board shall continue to exist under that name and shall be a Maori Trust Board.
-(2) There shall, without further appropriation than this section, be paid out of public money to the Board on 1 April in each year, the sum of $15,000.
+(2)
 (3) The beneficiaries of the Board are hereby declared to be members of the Atiawa, Ngati Tama, Ngati Mutunga, Ngati Maru, Ngati Ruanui, Ngaruahine, Taranaki, and Ngarauru tribes, and their descendants.
 
 ### 9A Tuhoe-Waikaremoana Maori Trust Board constituted
@@ -116,7 +117,8 @@ Each Board shall be a body corporate with perpetual succession and a common seal
 (3) Notwithstanding anything to the contrary in this Act, every member of a Board, unless he sooner vacates his office, shall continue to hold office until his successor comes into office.
 
 ### 16 Extraordinary vacancies
-(1) Any member of a Board may at any time be removed from office by the Governor-General for inefficiency, inability to perform the functions of the office, bankruptcy, neglect of duty, or misconduct proved to the satisfaction of the Governor-General, or if the member is convicted of an offence punishable by imprisonment, or may at any time resign his office by writing addressed to the Minister.
+(1) Any member of a Board may at any time be removed from office by the Governor-General for inefficiency, inability to perform the functions of the office, bankruptcy, neglect of duty, or misconduct proved to the satisfaction of the Governor-General, or if the member is convicted of an offence punishable by imprisonment, or may at any time resign his office by writing addressed to the Board.
+(1A) If a Board receives the resignation in writing of a member, it must notify the Minister as soon as practicable after receipt of the resignation.
 (2) If any member dies, or resigns, or is removed from office, his office shall become vacant, and the vacancy shall be deemed to be an extraordinary vacancy.
 (3) In the case of an extraordinary vacancy the Governor-General may appoint some qualified person to be a member of the Board for the residue of the term for which the vacating member was appointed:
   provided that any member appointed under this subsection shall not be elected in the manner provided in this Act for the filling of vacancies caused by the expiry of the term of office of members.
@@ -374,9 +376,10 @@ Nothing in the Maori Affairs Act 1953 shall prevent the alienation, assignment, 
 (1) The changing by this Act of the name of any body corporate shall not affect any rights or obligations of the body corporate or render defective any legal proceedings by or against the body corporate and any legal proceedings that might have been continued or commenced by or against it under its former name may be continued or commenced by or against it under its new name.
 (2) Where the property of any body corporate of which the name is changed by this Act consists of land or any interest in land, or of any mortgage or encumbrance of land, any security over stock or chattels, any lien, bond, stocks, shares, debentures, or any like security, it shall be the duty of every Registrar of Deeds, District Land Registrar, Registrar of the High Court, or other person charged with the duty of keeping any register, on the application of the body corporate concerned, and without the payment of any fee, to amend the appropriate register or registers so as to show the new name of the body corporate.
 
-### 41 Fees and travelling allowances
-(1) Each Maori Trust Board is hereby declared to be a statutory Board within the meaning of the Fees and Travelling Allowances Act 1951.
-(2) Each Board may pay to its members remuneration by way of fees, salary, or allowances and travelling allowances and expenses in accordance with the Fees and Travelling Allowances Act 1951 and the provisions of that Act shall apply accordingly.
+### 41 Remuneration of members
+A Board may pay to its members remuneration for services provided as a member by way of—
+  (a) fees, salary, or allowances; and
+  (b) travelling allowances or expenses.
 
 ### 41A Payments to Maori Trust Boards by Crown not to constitute income for taxation purposes
 (1) No money paid to a Maori Trust Board from public money pursuant to any provision contained in Part 1, and no money so paid under the corresponding provisions of any Act repealed by this Act, shall, for the purposes of the Income Tax Act 2007, or the Social Security Act 2018, or any other enactment, be deemed to be income of that Board.
@@ -431,21 +434,29 @@ Each Board shall have jurisdiction to determine whether any person applying for 
   (a) the name of any person has been included incorrectly, in that the person was not qualified to be, or was not duly, elected; or
   (b) the name of any person has been excluded incorrectly, in that the person was qualified to be, and was duly, elected,—
 
-**Election by postal ballot**
+**Election by postal ballot or electronic voting**
 
-### 50 Elections to be by postal ballot unless regulations provide otherwise
-Subject to the provisions of this section, the provisions of sections 51, 52, and 53 shall apply in respect of the election of candidates for election to membership of each Board:
-  provided that where regulations under this Act provide for the election to membership of any Board otherwise than by postal ballot, the provisions of the said sections shall not apply to any election to membership of that Board.
+### 50 Elections to be by postal ballot or electronic vote unless regulations provide otherwise
+The election of candidates to membership of a Board must be by 1 or both of the following, as required by the Board, unless regulations made under this Act provide otherwise:
+  (a) postal ballot:
+  (b) electronic vote.
 
-### 51 Ballot papers to be sent out
-Where by section 48 an election is required, the Secretary of the Board concerned, shall, not later than 1 month after the latest date fixed by section 47 for the lodging of nominations, post to each beneficiary shown on the roll of beneficiaries as entitled to vote at the election a printed ballot paper setting out the full names of each candidate for election, the method of marking the ballot paper to indicate the beneficiary's preference, the address to which the ballot paper is to be returned, and the latest time for its return.
+### 51 Ballot papers and electronic voting to be made available
+If an election is required by section 48, the Secretary of the applicable Board must, not later than 1 month after the latest date fixed by section 47 for the lodging of nominations,—
+  (a) send a ballot paper to each beneficiary entitled to vote at the election, which sets out—
+    (i) the full names of each candidate for election; and
+    (ii) the method of marking the ballot paper to indicate the beneficiary’s preference; and
+    (iii) the postal or electronic address to which the ballot paper is to be returned; and
+    (iv) the latest time for its return; and
+  (b) for an election using electronic voting, make the electronic voting system available to each beneficiary entitled to vote at the election.
 
 ### 52 Returning Officer
-Ballot papers shall, not later than 1 month before the date on which the term of office of the members for the time being in office expires, be posted to or lodged with the Returning Officer appointed for the purpose of the election by the Minister. The person appointed as Returning Officer may be the Secretary of the Board or an officer of the public service.
+(1) The Minister may appoint any person, including the Secretary of the Board or an officer of the public service, as the Returning Officer for an election.
+(2) A beneficiary who casts a vote must send the ballot paper or electronic vote to the Returning Officer not later than 1 month before the date of expiry of the term of office of the members in office.
 
-### 53 Results of ballots
-(1) The Returning Officer shall, after the expiration of the time fixed for the return of marked ballot papers, count the votes validly cast for each candidate and communicate the results to the Secretary of the Board.
-(2) Each candidate may, by writing under his hand, appoint 1 scrutineer to be present at the counting of the votes.
+### 53 Results of voting
+(1) After the time fixed for the return of ballot papers and electronic votes has expired, the Returning Officer must count the votes validly cast for each candidate and communicate the results to the Secretary of the Board.
+(2) Each candidate may appoint 1 scrutineer to be present at the counting of the votes.
 
 ### 53A Investigation of conduct and result of election
 (1) Where in the opinion of the Minister (whether based on a report under section 49(3) or otherwise) it appears that irregularities may have occurred in respect of any election under this Act, the Minister may apply to a Judge of the Maori Land Court to investigate the conduct or result of the election.
