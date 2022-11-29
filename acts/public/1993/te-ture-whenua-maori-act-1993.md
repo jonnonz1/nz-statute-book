@@ -1,10 +1,10 @@
 # Te Ture Whenua Maori Act 1993
-_Consolidation as at 2021-10-28_
+_Consolidation as at 2022-11-29_
 
 > An Act to reform the laws relating to Maori land in accordance with the principles set out in the Preamble
 
 ## Preamble
-Nā te mea i riro nā te Tiriti o Waitangi i motuhake ai te noho a te iwi me te Karauna: ā, nā te mea e tika ana kia whakaūtia anō te wairua o te wā i riro atu ai te kāwanatanga kia riro mai ai te mau tonu o te rangatiratanga e takoto nei i roto i te Tiriti o Waitangi: ā, nā te mea e tika ana kia mārama ko te whenua he taonga tuku iho e tino whakaaro nuitia ana e te iwi Māori, ā, nā tērā he whakahau kia mau tonu taua whenua ki te iwi nōna, ki ō rātou whānau, hapū hoki, a, a ki te whakangungu i ngā wāhi tapu hei whakamāmā i te nohotanga, i te whakahaeretanga, i te whakamahitanga o taua whenua hei painga mō te hunga nōna, mō ō rātou whānau, hapū hoki: ā, nā te mea e tika ana kia tū tonu he Te Kooti, ā, kia whakatakototia he tikanga hei āwhina i te iwi Māori kia taea ai ēnei kaupapa te whakatinana.
+Nā te mea i riro nā te Tiriti o Waitangi i motuhake ai te noho a te iwi me te Karauna: ā, nā te mea e tika ana kia whakaūtia anō te wairua o te wā i riro atu ai te kāwanatanga kia riro mai ai te mau tonu o te rangatiratanga e takoto nei i roto i te Tiriti o Waitangi: ā, nā te mea e tika ana kia mārama ko te whenua he taonga tuku iho e tino whakaaro nuitia ana e te iwi Māori, ā, nā tērā he whakahau kia mau tonu taua whenua ki te iwi nōna, ki ō rātou whānau, hapū hoki, a, a ki te whakangungu i ngā wāhi tapu hei whakamāmā i te nohotanga, i te whakahaeretanga, i te whakamahitanga o taua whenua hei painga mō te hunga nōna, mō ō rātou whānau, hapū hoki: ā, nā te mea e tika ana kia tū tonu he Kooti, ā, kia whakatakototia he tikanga hei āwhina i te iwi Māori kia taea ai ēnei kaupapa te whakatinana.
 Whereas the Treaty of Waitangi established the special relationship between the Maori people and the Crown: And whereas it is desirable that the spirit of the exchange of kawanatanga for the protection of rangatiratanga embodied in the Treaty of Waitangi be reaffirmed: And whereas it is desirable to recognise that land is a taonga tuku iho of special significance to Maori people and, for that reason, to promote the retention of that land in the hands of its owners, their whanau, and their hapu, and to protect wahi tapu: and to facilitate the occupation, development, and utilisation of that land for the benefit of its owners, their whanau, and their hapu: And whereas it is desirable to maintain a court and to establish mechanisms to assist the Maori people to achieve the implementation of these principles.
 
 ### 1 Short Title and commencement
@@ -44,6 +44,7 @@ In this Act, unless the context otherwise requires,—
       (vii) a disposition by way of sale by a mortgagee pursuant to a power expressed or implied in any instrument of mortgage
   - **applicable auditing and assurance standard** has the same meaning as in section 5 of the Financial Reporting Act 2013
   - **applicable financial reporting standard** has the same meaning as in section 5 of the Financial Reporting Act 2013
+  - **audiovisual link** means facilities that enable both audio and visual communication
   - **beneficial estate** or does not include an estate or interest vested in any person by way of trust, mortgage, or charge
   - **block** , in relation to any Maori freehold land, means the whole parcel of land comprised and described in an instrument of title
   - **chief executive** means the chief executive of the Ministry
@@ -109,6 +110,7 @@ In this Act, unless the context otherwise requires,—
   - **Registrar** means a Registrar of the Maori Land Court; and includes the Chief Registrar and a Deputy Registrar
   - **road** has the same meaning as in section 315 of the Local Government Act 1974
   - **roading powers** , in relation to a specified development project (or a road within one), has the same meaning as in section 9 of the Urban Development Act 2020
+  - **Ruapuha Uekaha Hapū Trust** means the trust of that name constituted by the Maori Land Court on 2 October 1990 under section 438 of the Maori Affairs Act 1953 and continued under section 354 of this Act
   - **specified development project** has the same meaning as in section 9 of the Urban Development Act 2020
   - **State Loan Department** means—
     (a) Public Trust:
@@ -2052,7 +2054,7 @@ No person has the capacity to alienate any interest in Maori freehold land other
     (ii) on an Internet site to which the members have access free of charge.
 (5) The notice must specify a deadline for receiving tenders or expressions of interest that is—
   (a) reasonable; and
-  (b) no less than 15 working days after the day on which the notice is first published.
+  (b) no less than 20 working days after the day on which the notice is first published.
 (6) For a sale,—
   (a) the notice must specify the terms of sale but need not disclose the minimum sale price set for the land; but
   (b) any of the terms of sale may instead be specified in a document located at a place or on an Internet site described in the notice.
@@ -2319,7 +2321,12 @@ The assembled owners of any land may consider, and, where appropriate, pass reso
 (8) No appeal shall lie against an order made under subsection (6) or subsection (7).
 
 ### 174 Notice of meetings
-(1) Every meeting to be called under section 173 shall be held at such time and place as the court appoints, and the court shall summon the owners to the meeting by notice given in the prescribed manner.
+(1) Every meeting called under section 173 must be held—
+  (a) at the time appointed by the court; and
+  (b) by 1 or both of the following means, as directed by the court:
+    (i) at a place appointed by the court:
+    (ii) using an audiovisual link with 1 or more of the persons permitted by regulations to attend.
+(1A) The court must summon the owners to the meeting by notice given in the prescribed manner.
 (2) Every notice summoning a meeting of the assembled owners shall have incorporated in, or attached to, it a statement of the terms of every proposed resolution that is to be submitted to the meeting.
 (3) No meeting duly summoned in the prescribed manner, and no resolution passed at any such meeting, shall be invalidated or otherwise affected merely because any owner has not in fact received notice of the holding of that meeting.
 
@@ -2893,6 +2900,7 @@ The court shall, in the trust order constituting any trust under this Part, make
   (a) confirm the trust order for the trust without variation; or
   (b) exercise its powers under section 244; or
   (c) terminate the trust if the court is satisfied that there is a sufficient degree of support for termination among the beneficiaries.
+(4) Subsection (3)﻿(c) does not apply in respect of the Ruapuha Uekaha Hapū Trust.
 
 ### 232 Reports of trustees of kai tiaki trusts
 Unless the trust order or any other order of the court requires the trustees of a kai tiaki trust to file reports at shorter intervals, the trustees for the time being of any kai tiaki trust constituted under this Act shall, within 3 months after the end of the period of 12 months beginning with the date on which the trust was constituted, and within 3 months after each subsequent anniversary of that date, file with the Registrar of the court, a report on the operations of the trust during the immediately preceding period of 12 months ending with that date or the anniversary of that date, as the case may require.
@@ -2985,6 +2993,7 @@ No trust constituted under this Part shall be subject to any enactment or rule o
 (2) Where a trust terminated under subsection (1) is a whanau trust, the court shall, notwithstanding anything in subsection (1), make an order vesting the land or the part of the land or the interest in the land in the persons entitled to it in their respective shares, whether at law or in equity, which persons are—
   (a) the persons who were, at the creation of the trust and are at the date of the order, the beneficial owners of the land or the part of the land or the interest in the land; and
   (b) any persons who, at the date of the order, are successors of any of the persons who were, at the creation of the trust, the beneficial owners of the land or the part of the land or the interest in the land.
+(3) This section does not apply in respect of the Ruapuha Uekaha Hapū Trust.
 
 ### 242 Orders for payment of money held in trust
 (1) The court, on the application of any person interested or of its own motion, may order that any money held in trust for any Maori, or any money derived from any Maori land and held in trust, by any trustee, government department, officer of the public service, corporation, solicitor, or accountant be paid to the person or persons beneficially entitled to the money, or to any other person, as the court may direct, on behalf of the person or persons so entitled.
@@ -3025,7 +3034,7 @@ No trust constituted under this Part shall be subject to any enactment or rule o
 In this Part, unless the context otherwise requires,—
   - **equity value** , in relation to a Maori incorporation, means the sum remaining after deducting from the total value of all assets of the incorporation the amount of all liabilities, claims, and debts to which the incorporation is subject or that it owes
   - **shareholder** , in relation to a Maori incorporation, means every person who is registered as the holder of any shares in the incorporation, whether as beneficial owner, trustee, administrator, or otherwise
-  - **special resolution** , in relation to a Maori incorporation, means a resolution that has been passed at a general meeting of shareholders of the Maori incorporation, being a general meeting of which not less than 15 working days’ notice, specifying the intention to propose the resolution as a special resolution, has been duly given.
+  - **special resolution** , in relation to a Maori incorporation, means a resolution that has been passed at a general meeting of shareholders of the Maori incorporation, being a general meeting of which not less than 20 working days’ notice, specifying the intention to propose the resolution as a special resolution, has been duly given.
 
 **Constitution and powers**
 
@@ -4094,6 +4103,7 @@ Every order made under Part 10 of the Maori Affairs Act 1953 and in force on the
 ### 351 Periodic review of trusts constituted under section 438 of Maori Affairs Act 1953
 (1) The trustees for the time being of any trust constituted under section 438 of the Maori Affairs Act 1953 shall apply to the court within 3 years after the commencement of this Act, and thereafter at intervals of 20 years or such shorter intervals as the court may specify on any review of the trust, for a review of the trust.
 (2) On any such review the court may, by order, confirm the trust order without variation, or vary the terms of the order in such manner as it thinks fit, or make an order terminating the trust.
+(3) The power to terminate a trust under subsection (2) does not apply in respect of the Ruapuha Uekaha Hapū Trust.
 
 ### 352 Representation of owners of Maori land
 Where, on the commencement of this Act, any person is, by virtue of an appointment under section 73 of the Maori Affairs Amendment Act 1974, the statutory agent of the owners of any Maori freehold land beneficially owned by more than 10 persons and not vested in any trustee or trustees, that person shall continue in office as the statutory agent of those owners as if that person had been appointed, under section 183 of this Act, as the statutory agent of those owners.
@@ -4190,6 +4200,19 @@ In a provision of this Part, commencement date means the date on which the provi
 
 ### 5 Existing Maori reservations
 A Maori reservation that, at the start of the commencement date, is set apart under section 338 must be treated as if it were set apart by an order of the court.
+
+### Part 3 — Provisions relating to Māori Purposes Act 2022
+
+### 6 Meaning of commencement date
+In this Part, commencement date means the date on which this Part comes into force.
+
+### 7 Deadline for receiving tenders for land subject to right of first refusal
+(1) This clause applies to a notice published under section 147A(4) at any time before the commencement date.
+(2) Section 147A(5)﻿(b) applies to the notice as if it had not been amended by section 6 of the Māori Purposes Act 2022.
+
+### 8 Notice of general meeting specifying intention to propose special resolution
+(1) This clause applies to a notice of a general meeting at which a special resolution is to be proposed that is given under the definition of special resolution in section 246 before the commencement date.
+(2) The definition of special resolution in section 246 applies to the notice as if it had not been amended by section 10 of the Māori Purposes Act 2022.
 
 ## Schedule 1 — Enactments amended
 
