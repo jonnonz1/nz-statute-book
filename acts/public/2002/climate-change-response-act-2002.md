@@ -1,5 +1,5 @@
 # Climate Change Response Act 2002
-_Consolidation as at 2021-11-03_
+_Consolidation as at 2022-11-29_
 
 ### 1 Title
 This Act is the Climate Change Response Act 2002.
@@ -5958,15 +5958,15 @@ Section 178A does not apply if the person’s emissions return described by sect
 (2) Sections 134 to 134D, as inserted by the amendment Act, do not apply in respect of the person for the failure or error.
 (3) This Act, as in force immediately before the commencement of this clause, applies in respect of the person for the failure or error.
 
-### 17 Penalties for forestry activities before 2023 with liability for lower amounts
+### 17 Penalties for forestry activities before 2025 with liability for lower amounts
 (1) This clause applies if—
   (a) new section 134 would otherwise apply to the person (because they have failed to surrender or repay units by a due date); and
   (b) that liability to surrender or repay the units resulted from—
-    (i) a forestry activity carried out before 1 January 2023; and
+    (i) a forestry activity carried out before 1 January 2025; and
     (ii) 1 or more of the following things in relation to the forestry activity:
       (A) an emissions return with an emissions return period and under which the average liability per year of that period is less than 25,000 units:
       (B) an emissions return without an emissions return period and under which the liability is less than 25,000 units:
-      (C) any other requirement in this Act (for example, the requirement to repay units under section 125 or any requirement to surrender units equal to a unit balance) and under which the liability is less than 25,000 units.
+      (C) any other requirement in this Act or secondary legislation made under this Act (for example, the requirement to repay units under section 125 or any requirement to surrender units equal to a unit balance) and under which the liability is less than 25,000 units.
 (2) Under this clause, instead of new section 134 (and other new provisions of this Act that refer to that section) applying, the following provisions apply to the person with the modifications specified:Excess emissions penalty for failing to surrender or repay unitsFurther excess emissions penalty for failing to surrender or repay units when required by notice under section 134Reductions in penaltyDeferred payment arrangements for payments of penaltiesAdditional excess emissions penalty for knowing failure to complyInterest for late paymentObligation to pay penalty not suspended by appealPenalties to be paid into Crown accountReview and appealRecovery of costsTransitional provisionOther former provisionsEPA to publish certain information
   (a) former section 134(1)﻿(a) and (c), (2)﻿(a) and (b)﻿(i) and (iii), (3)﻿(a), and (4), as if—
     (i) former section 134(1)﻿(a) applied to the failure to surrender the units (if any); and
