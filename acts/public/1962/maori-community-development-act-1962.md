@@ -1,5 +1,5 @@
 # Maori Community Development Act 1962
-_Consolidation as at 2021-10-28_
+_Consolidation as at 2022-11-29_
 
 > An Act to provide for the constitution of Maori Associations, to define their powers and functions, and to consolidate and amend the Maori Social and Economic Advancement Act 1945
 
@@ -212,7 +212,9 @@ With respect to all money received by a Maori Association, the following provisi
   (c) the accounting records shall be kept in such manner as may be prescribed by regulations under this Act or, in the absence of any such regulations, as may be determined by the chief executive:
   (d) within 5 months after the end of each financial year, every Maori Association must ensure that financial statements that comply with generally accepted accounting practice are completed in relation to the Maori Association and that financial year:
   (e) every such financial statement must be audited by a qualified auditor appointed by the Maori Association concerned or by some other person approved in that behalf by the chief executive:
-  (f) the New Zealand Maori Council and each District Maori Council must submit a copy of its audited financial statements to the chief executive and each Maori Committee and Maori Executive Committee must submit a copy of its audited financial statements to the District Maori Council in whose district it operates.
+  (f) the New Zealand Maori Council must submit a copy of its audited financial statements to the chief executive:
+  (g) each District Maori Council must submit a copy of its audited financial statements to the New Zealand Maori Council:
+  (h) each Maori Committee and Maori Executive Committee must submit a copy of its audited financial statements to the District Maori Council in whose district it operates.
 (2) The auditor must, in carrying out an audit for the purposes of subsection (1)﻿(e), comply with all applicable auditing and assurance standards.
 (3) The auditor's report must comply with the requirements of all applicable auditing and assurance standards.
 (4) See sections 37 to 39 of the Financial Reporting Act 2013 (which provide for the appointment of a partnership and access to information in relation to the audit under subsection (1)﻿(e)).
