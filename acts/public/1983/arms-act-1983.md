@@ -1,5 +1,5 @@
 # Arms Act 1983
-_Consolidation as at 2022-11-15_
+_Consolidation as at 2022-11-29_
 
 > Title
 
@@ -386,7 +386,9 @@ A dealer who breaches a condition that their dealer’s licence is subject to un
 (2) An application for renewal of a dealer’s licence must be made before the licence expires.
 (3) Sections 5A, 5B, and 6 to 8 apply to an application for renewal of a dealer’s licence as if the application were an application for a new dealer’s licence.
 (4) If an application for renewal of a dealer’s licence has been made but not determined before the date on which the licence would otherwise expire, the licence continues in force until the application is determined.
-(5) The renewal of a licence takes effect from the date of expiry of the previous licence.
+(5) The renewal of a dealer’s licence takes effect from—
+  (a) the date on which the licence expires, if the renewal is issued before the licence expires; or
+  (b) the date on which the renewal is issued, if the renewal is issued after the licence expires.
 
 ### 8B Surrender of dealer’s licence
 A dealer may at any time surrender their dealer’s licence to a member of the Police.
@@ -899,6 +901,13 @@ A holder of a firearms licence who breaches a condition that their firearms lice
   (b) expires 10 years from that date in any other case.
 (2) Despite subsection (1), if a licence is granted to a person who states in the application form for the licence that he or she is a visitor, the licence may be granted subject to a condition that it expires 1 year from the date of issue or expires on any earlier date specified in the licence.
 (3) If a licence has been granted subject to a condition referred to in subsection (2), the licence expires on the date of expiry referred to or specified in the licence, or on the date the person to whom the licence is granted leaves New Zealand, whichever occurs first.
+
+### 25A Application for new firearms licence made by holder of current licence
+(1) The holder of a current firearms licence (licence A) may, before the expiry of licence A, apply for a new firearms licence.
+(2) If an application for a new firearms licence is made but not determined before the expiry of licence A, licence A continues in force, unless it is sooner surrendered or revoked, until the date on which the licence holder is notified of the determination of the application.
+(3) A new licence issued on an application made under this section takes effect from—
+  (a) the date on which licence A expires, if the new licence is issued before licence A expires; or
+  (b) the date on which the new licence is issued, if the new licence is issued after licence A expires.
 
 ### 26 Production of firearms licence
 (1) Every holder of a firearms licence—
@@ -2029,6 +2038,7 @@ No action, claim, or demand whatsoever shall lie or be made or allowed by or in 
   (a) delivered to that person; or
   (b) left at that person's usual or last known place of abode or business or at an address specified by that person for the purpose of any application made under this Act; or
   (c) posted in a letter addressed to that person by name at that person's last known place of abode or business or at an address specified by that person for the purpose of any application made under this Act; or
+  (ca) transmitted to an electronic address that the person has provided as an address for service; or
   (d) made available to that person electronically through the registry, so long as an email is sent to an address supplied by the person to tell them that the notice or other document has been made available and the person has agreed to receive notices or documents in that way.
 (2) Without limiting the provisions of subsection (1), any notice or other document required or authorised by this Act to be served on or given to any person shall be deemed to have been duly served on or given to that person if it is given—
   (a) to any person appearing to have attained the age of 16 years and to be residing at the place of residence of that person; or
@@ -2527,6 +2537,29 @@ The Minister of Police may recommend that regulations be made under section 86 o
 (6) If the regulations provide under subclause (2)﻿(e) for the Commissioner to determine an amount of compensation or the method for calculating an amount of compensation,—
   (a) the instrument by which an amount or a method is determined is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements), unless the instrument applies only to 1 or more named persons; and
   (b) the regulations must contain a statement to that effect.
+
+### Part 3 — Provisions relating to Arms (Licence Holders' Applications for New Licences) Amendment Act 2022
+
+### 20 Application made by firearms licence holder for new licence pending on commencement date
+(1) This clause applies in respect of an application for a new firearms licence that—
+  (a) was made before the commencement date by an applicant—
+    (i) who at the time of making the application held—
+      (A) a current firearms licence; or
+      (B) a firearms licence treated as continuing in force under regulation 28ZB(5) of the Arms Regulations 1992; and
+    (ii) whose firearms licence was not revoked or surrendered before the commencement date; and
+  (b) was not determined before the commencement date.
+(2) Section 25A(2) and (3) (as inserted by the Amendment Act) applies in respect of the application and it does not matter if the firearms licence held by the applicant at the time of making the application expired before the commencement date or expires after the commencement date.
+(3) In this clause,—
+  - **Amendment Act** means the Arms (Licence Holders' Applications for New Licences) Amendment Act 2022
+  - **commencement date** means the date on which the Amendment Act commences.
+
+### 21 Endorsements to continue in force
+(1) This clause applies if—
+  (a) an endorsement was made under section 30 or 30B on a firearms licence and that endorsement has not been surrendered or revoked; and
+  (b) the firearms licence is treated as continuing in force under clause 20.
+(2) If this clause applies,—
+  (a) the endorsement continues in force, subject to section 33C; and
+  (b) any conditions on the endorsement continue in force while the endorsement remains in force.
 
 ### 1 Short Title and commencement
 (1) This Act may be cited as the Arms Amendment Act 1992, and shall be read together with and deemed part of the Arms Act 1983 (hereinafter referred to as “the principal Act”).
