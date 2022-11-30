@@ -1,5 +1,5 @@
 # Customs and Excise Act 2018
-_Consolidation as at 2022-09-01_
+_Consolidation as at 2022-11-30_
 
 ### 1 Title
 This Act is the Customs and Excise Act 2018.
@@ -6213,6 +6213,14 @@ In this Part,—
 (4) Subclause (3) applies despite—
   (a) section 141; and
   (b) the amendments made to the Excise and Excise-equivalent Duties Table by the amendment Act.
+
+### Part 5 — Provisions relating to 2019 and 2020 increases in rates of excise duty for Excise item 99.44
+
+### 44 Adjustment of rates of excise duty for Excise item 99.44
+(1) The Governor-General may, by Order in Council, amend the Excise and Excise-equivalent Duties Table to change the rates of duty that apply to Excise item 99.44.
+(2) The new rates must not exceed what the rates would have been on the date on which the order is made had the rates that applied on 30 June 2019 been increased by the maximum amount permitted under clause 21 of Schedule 3 on 1 July 2019 and each subsequent 1 July until the order under this clause is made.
+(3) Only 1 order may be made under this clause, and it cannot be made more than 12 months after this clause comes into force.
+(4) An order made under this clause is taken to be an order made under clause 21 of Schedule 3, and this Act (other than clause 21(4) of Schedule 3) applies accordingly.
 
 ## Schedule 2 — Application of Act to Defence Force
 
