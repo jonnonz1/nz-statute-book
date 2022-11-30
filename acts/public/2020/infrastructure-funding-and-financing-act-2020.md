@@ -1,5 +1,5 @@
 # Infrastructure Funding and Financing Act 2020
-_Consolidation as at 2022-09-01_
+_Consolidation as at 2022-11-30_
 
 ### 1 Title
 This Act is the Infrastructure Funding and Financing Act 2020.
@@ -10,11 +10,15 @@ This Act comes into force on the day after the date on which it receives the Roy
 ## Part 1 — Preliminary provisions
 
 ### 3 Purpose
-The purpose of this Act is to provide a funding and financing model for the provision of infrastructure for housing and urban development, that—
+(1) The purpose of this Act is to provide a funding and financing model for the provision of infrastructure for urban development, that—
   (a) supports the functioning of urban land markets; and
   (b) reduces the impact of local authority financing and funding constraints; and
   (c) supports community needs; and
   (d) appropriately allocates the costs of infrastructure.
+(2) In this section, urban development includes—
+  (a) development of housing, including public housing and community housing, affordable housing, homes for first-home buyers, and market housing:
+  (b) development and renewal of urban environments, whether or not this includes housing development:
+  (c) development of related commercial, industrial, community, or other amenities, infrastructure, facilities, services, or works.
 
 ### 4 Outline of this Act
 (1) This Part contains preliminary provisions.
