@@ -1,5 +1,5 @@
 # Canterbury Earthquakes Insurance Tribunal Act 2019
-_Consolidation as at 2021-10-28_
+_Consolidation as at 2022-11-30_
 
 ### 1 Title
 This Act is the Canterbury Earthquakes Insurance Tribunal Act 2019.
@@ -466,7 +466,9 @@ Further provisions relating to the tribunal’s procedure, evidence, expert advi
   (b) the general law of New Zealand, in particular,—
     (i) the law of contract as it relates to contracts of insurance:
     (ii) the Earthquake Commission Act 1993.
-(2) The Limitation Act 2010 and any other enactment that prescribes a limitation period or other limitation defence apply to a claim brought before the tribunal.
+(2) For the purposes of the Limitation Act 2010 (and any other enactment that imposes a limitation period), each of the following has effect as if it were the filing of proceedings in a court:
+  (a) the making of an application under section 12 of this Act:
+  (b) the transfer of proceedings to the tribunal under section 16 of this Act.
 (3) An order may require the payment of general damages in accordance with the general law of New Zealand.
 (4) Despite section 47, the tribunal may make an order for costs and expenses that are payable under a contract of insurance between the parties.
 (5) If an order requires a party to do something, other than pay money, the tribunal must also set an amount of money that is payable by them, and the date by which that amount is payable, if they fail or refuse to do that thing by that date.
