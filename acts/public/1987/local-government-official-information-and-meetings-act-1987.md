@@ -1,5 +1,5 @@
 # Local Government Official Information and Meetings Act 1987
-_Consolidation as at 2022-10-20_
+_Consolidation as at 2022-11-30_
 
 > An Act to make official information held by local authorities more freely available, to provide for proper access by each person to official information relating to that person which is held by local authorities, to provide for the admission of the public to meetings of local authorities, to protect official information held by local authorities and the deliberations of local authorities to the extent consistent with the public interest and the preservation of personal privacy, and to establish procedures for the achievement of those purposes
 
@@ -333,7 +333,7 @@ Where a request is made under section 23(1), the local authority—
   (a) as soon as is reasonably practicable, or at the latest within 20 working days, after receiving the request; or
   (b) within an extended time limit notified under section 14(3) to the person who requested the information.
 (5) Undue delay in making official information available in response to a request for that information shall be deemed, for the purposes of subsection (1), to be a refusal to make that information available.
-(6) If an Ombudsman receives a complaint that a local authority has refused to make official information available for any of the reasons specified in section 17(1)﻿(e) to (g), the Ombudsman may notify the Chief Archivist appointed under the Public Records Act 2005.
+(6) If an Ombudsman receives a complaint that a local authority has refused to make official information available for any of the reasons specified in section 17(e) to (g), the Ombudsman may notify the Chief Archivist appointed under the Public Records Act 2005.
 
 ### 28 Application of Ombudsmen Act 1975
 (1) Except as otherwise provided by this Act, the provisions of the Ombudsmen Act 1975 shall apply in respect of investigations and other proceedings carried out under this Part in respect of decisions under Part 2 or section 8 as if they were investigations carried out under the Ombudsmen Act 1975.
