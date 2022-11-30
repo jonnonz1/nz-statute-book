@@ -1,5 +1,5 @@
 # Agricultural Compounds and Veterinary Medicines Act 1997
-_Consolidation as at 2022-04-12_
+_Consolidation as at 2022-11-30_
 
 > An Act to reform and restate the law relating to agricultural compounds, and to repeal—athe Stock Foods Act 1946; andbthe Fertilisers Act 1960; andcthe Animal Remedies Act 1967; anddthe Fertilisers Act 1982
 
@@ -1548,6 +1548,38 @@ The registration of any trade name product under section 21 or section 27, or th
   (b) advise the Minister of the results of any such consultation,—
 (2) Subsection (1) does not apply in respect of any Order in Council if the Minister considers it desirable in the public interest that the Order in Council be made urgently.
 (3) A failure to comply with subsection (1) does not affect the validity of any Order in Council made under this Act.
+
+### 78A Certain secondary legislation or published instruments may be consolidated
+Secondary legislation made by Director-General and with same publishing requirements
+(1) The Director-General (the maker) may at any time apply this section to any secondary legislation that—
+  (a) the maker has made, or may make, under a provision of this Act, or of regulations made under this Act, by satisfying the same requirements for publishing the secondary legislation; and
+  (b) is not drafted by the PCO (see section 67 of the Legislation Act 2019).
+Other instruments made by same maker with same publishing requirements
+(2) The Minister or the Director-General (the maker) may at any time apply this section to any instruments that—
+  (a) the maker has made, or may make, under any provisions of this Act, or of regulations made under this Act, by satisfying the same requirements for publishing the instruments; and
+  (b) are not secondary legislation.
+Once this section is applied to specific instruments
+(3) The powers of the maker to amend or replace the specific instruments (whether given by a specific empowering provision, section 48 of the Legislation Act 2019, or otherwise) authorise the maker to—
+  (a) revoke any specific instruments that have been made (a revoked instrument); and
+  (b) make an instrument under any of the specific empowering provisions (the new instrument) that—
+    (i) has the same effect that all or part of the revoked instrument or instruments had immediately before being revoked; and
+    (ii) otherwise has any further effect (if any) authorised by the specific empowering provisions (the new or amended parts).
+(4) For each part of the new instrument (the replacement part) that has the same effect as part of a revoked instrument (the revoked part),—
+  (a) the replacement part must be treated as being made under the specific empowering provision under which the revoked part was made; and
+  (b) any requirements for making the replacement part or for revoking the revoked part, other than the requirements for publication, must be treated as being satisfied to the extent that the requirements for making the revoked part were satisfied when it was made.
+(5) To avoid doubt,—
+  (a) the new or amended parts of the new instrument (if any) are made under the relevant specific empowering provisions; and
+  (b) any requirements of the relevant specific empowering provisions must be satisfied in making those parts.
+(6) A revoked instrument continues to have effect, as if it had not been revoked, in relation to any matter in a period to which the revoked instrument applied.
+(7) In this section,—
+  - **instrument** has the meaning given in section 5 of the Legislation Act 2019
+  - **maker** , in relation to an instrument, means the person empowered to make it, as defined by subsection (1) or (2)
+  - **specific empowering provisions** means the provisions of this Act, or of regulations, that—
+    (a) empower the making of the specific instruments; and
+    (b) are referred to in the subsection under which the maker applies this section to the specific instruments
+  - **specific instruments** means the 1 or more instruments to which the maker applies this section, whether the instruments—
+    (a) have been made (and are to be revoked); or
+    (b) are able to be made.
 
 ### 79 Relationship with other Acts
 Nothing in this Act affects the requirements of any of the following Acts in relation to any substance, mixture of substances, or biological compound:
