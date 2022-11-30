@@ -1,5 +1,5 @@
 # Oaths and Declarations Act 1957
-_Consolidation as at 2021-10-28_
+_Consolidation as at 2022-11-30_
 
 > An Act to consolidate and amend certain enactments of the Parliament of New Zealand relating to oaths, affirmations, and declarations
 
@@ -58,6 +58,7 @@ Where by any law in force in New Zealand (whether made before or after the comme
   (ca) the Registrar or a Deputy Registrar of the Supreme Court; or
   (d) the Registrar or a Deputy Registrar of the Court of Appeal; or
   (e) a Registrar or Deputy Registrar of the High Court or the District Court; or
+  (ea) a Registrar (including the Chief Registrar) or Deputy Registrar of the Māori Land Court; or
   (f) some other person authorised by law to administer an oath; or
   (g) a member of Parliament; or
   (h) a person who—
