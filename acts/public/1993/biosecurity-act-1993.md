@@ -1,5 +1,5 @@
 # Biosecurity Act 1993
-_Consolidation as at 2022-10-20_
+_Consolidation as at 2022-11-30_
 
 > An Act to restate and reform the law relating to the exclusion, eradication, and effective management of pests and unwanted organisms
 
@@ -4199,7 +4199,7 @@ The purpose of this Part is to provide for the effective prevention, eradication
 (6) On the recommendation of the Minister, the Governor-General may by further Proclamation amend, extend, or revoke a Proclamation under this section and the Minister must publish notice of the amendment, extension, or revocation in the manner provided by subsection (5).
 
 ### 145 Emergency powers
-(1) The Minister may, in the area or areas in which a declaration of biosecurity emergency is in force by notice, take such measures, and do all such acts and things and give all such directions, and require all such acts to be done or not to be done, as the Minister believes on reasonable grounds to be necessary or desirable for the purpose of eradicating or managing the organism in respect of which the emergency has been declared.
+(1) The Minister may, in the area or areas in which a declaration of biosecurity emergency is in force, by notice, take such measures, and do all such acts and things and give all such directions, and require all such acts to be done or not to be done, as the Minister believes on reasonable grounds to be necessary or desirable for the purpose of eradicating or managing the organism in respect of which the emergency has been declared.
 (2) Without prejudice to the generality of the powers conferred by subsection (1), the Minister, or any person authorised by the Minister for the purpose, may require the owner of any goods or premises or craft (being a craft registered in New Zealand, or chartered by a company (within the meaning of section 2(1) of the Companies Act 1993)) that is anywhere in New Zealand and that the Minister or person authorised by the Minister believes on reasonable grounds to be necessary or would be of assistance in eradicating or limiting the spread of the organism to transfer the goods to or permit the premises or craft to be used for a specified period by the Minister or any other person.
 (3) A notice under this section—
   (a) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements), unless it applies only to 1 or more named persons; and
@@ -5140,6 +5140,38 @@ Regulations are secondary legislation
 (5) If regulations made under this Act authorise the granting of an exemption under subsection (4)﻿(b), (d), or (f),—
   (a) the instrument granting an exemption is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements); and
   (b) the regulations must contain a statement to that effect.
+
+### 166A Certain secondary legislation or published instruments may be consolidated
+Secondary legislation made by same maker and with same publishing requirements
+(1) The responsible Minister or the Director-General (the maker) may at any time apply this section to any secondary legislation that—
+  (a) the maker has made, or may make, under a provision of this Act, or of regulations made under this Act, by satisfying the same requirements for publishing the secondary legislation; and
+  (b) is not drafted by the PCO (see section 67 of the Legislation Act 2019).
+Other instruments made by same maker with same publishing requirements
+(2) The responsible Minister, the Director-General, a chief technical officer, or a management agency (the maker) may at any time apply this section to any instruments that—
+  (a) the maker has made, or may make, under any provisions of this Act, or of regulations made under this Act, by satisfying the same requirements for publishing the instruments; and
+  (b) are not secondary legislation.
+Once this section is applied to specific instruments
+(3) The powers of the maker to amend or replace the specific instruments (whether given by a specific empowering provision, section 48 of the Legislation Act 2019, or otherwise) authorise the maker to—
+  (a) revoke any specific instruments that have been made (a revoked instrument); and
+  (b) make an instrument under any of the specific empowering provisions (the new instrument) that—
+    (i) has the same effect that all or part of the revoked instrument or instruments had immediately before being revoked; and
+    (ii) otherwise has any further effect (if any) authorised by the specific empowering provisions (the new or amended parts).
+(4) For each part of the new instrument (the replacement part) that has the same effect as part of a revoked instrument (the revoked part),—
+  (a) the replacement part must be treated as being made under the specific empowering provision under which the revoked part was made; and
+  (b) any requirements for making the replacement part or for revoking the revoked part, other than the requirements for publication, must be treated as being satisfied to the extent that the requirements for making the revoked part were satisfied when it was made.
+(5) To avoid doubt,—
+  (a) the new or amended parts of the new instrument (if any) are made under the relevant specific empowering provisions; and
+  (b) any requirements of the relevant specific empowering provisions must be satisfied in making those parts.
+(6) A revoked instrument continues to have effect, as if it had not been revoked, in relation to any matter in a period to which the revoked instrument applied.
+(7) In this section,—
+  - **instrument** has the meaning given in section 5 of the Legislation Act 2019
+  - **maker** , in relation to an instrument, means the person empowered to make it, as defined by subsection (1) or (2)
+  - **specific empowering provisions** means the provisions of this Act, or of regulations, that—
+    (a) empower the making of the specific instruments; and
+    (b) are referred to in the subsection under which the maker applies this section to the specific instruments
+  - **specific instruments** means the 1 or more instruments to which the maker applies this section, whether the instruments—
+    (a) have been made (and are to be revoked); or
+    (b) are able to be made.
 
 ### 167 Repeals and revocations
 (1) The enactments specified in Schedule 3 are hereby repealed.
