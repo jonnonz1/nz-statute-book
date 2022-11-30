@@ -1,5 +1,5 @@
 # Crown Forest Assets Act 1989
-_Consolidation as at 2021-10-28_
+_Consolidation as at 2022-11-30_
 
 > An Act to provide for—athe management of the Crown's forest assets:bthe transfer of those assets while at the same time protecting the claims of Maori under the Treaty of Waitangi Act 1975:cin the case of successful claims by Maori under that Act, the transfer of Crown forest land to Maori ownership and for payment by the Crown to Maori of compensation:dother incidental matters
 
@@ -299,7 +299,7 @@ A Crown forestry licence does not transfer to, or confer on, the licensee an est
   (a) return the land to Maori ownership in accordance with the recommendation subject to the relevant Crown forestry licence; and
   (b) pay compensation in accordance with Schedule 1.
 (2) Except as otherwise provided in this Act or any relevant Crown forestry licence, the return of any land to Maori ownership shall not affect any Crown forestry licence or the rights of the licensee or any other person under the licence.
-(3) Any money required to be paid as compensation pursuant to this section may be paid without further appropriation than this section.
+(3) Any expenses incurred in returning land to Māori ownership, or in paying compensation required to be paid, under this section may be incurred without further appropriation than this section.
 
 ### 37 Recommendation by Waitangi Tribunal that Crown forest land not liable to return to Maori ownership
 (1) Where the Waitangi Tribunal makes a recommendation in relation to Crown forest land under section 8HB(1)﻿(b) or section 8HB(1)﻿(c) or section 8HE of the Treaty of Waitangi Act 1975 no person shall be entitled to make any claim under section 6 of that Act in respect of the return of that land.
