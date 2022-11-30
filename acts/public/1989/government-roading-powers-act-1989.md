@@ -1,5 +1,5 @@
 # Government Roading Powers Act 1989
-_Consolidation as at 2022-04-12_
+_Consolidation as at 2022-11-30_
 
 > Title
 
@@ -303,7 +303,6 @@ This Act shall bind the Crown.
 
 ### 43 Interpretation
 (1) In this Part,—
-  - **Chief Surveyor** means the Chief Surveyor appointed for the land district in which is situated any land to be dealt with under this Act; and includes the Chief Surveyor's deputy
   - **Crown land** means all land included within that term in the Land Act 1948, except lands held or occupied by any person under the Crown on deferred payment, occupation with right of purchase, perpetual lease, lease in perpetuity, renewable lease, or under any other kind of lease or licence, or for any other estate or interest
   - **drain** means a passage, channel, or pipe on, over, or under the ground for the reception and discharge of stormwater or pollutants, whether continuously or intermittently
   - **Environment Court** means the Environment Court constituted under the Resource Management Act 1991
@@ -315,9 +314,10 @@ This Act shall bind the Crown.
     (a) Crown land over which a road is laid out and marked on the record maps:
     (b) land over which right of way has in any manner been granted or dedicated to the public by any person entitled to make such grant or dedication:
     (c) land taken for road under the provisions of this Act, the Public Works Act 1981, or any other Act or Provincial Ordinance formerly in force:
-    (d) land over which a road has been or is in use by the public which has been formed or improved out of the public funds, or out of the funds of any former province, or out of the ordinary funds of any local authority, for the width formed, used, agreed upon, or fenced, and a sufficient plan of which, approved by the Chief Surveyor of the land district in which such road is situated, has been or is hereafter registered by the District Land Registrar against the properties affected by it; and the Registrar is hereby authorised and required to register any such plans accordingly, anything in any other Act notwithstanding, when the plans are presented for registration by or on behalf of the Minister:
+    (d) land over which a road has been or is in use by the public which has been formed or improved out of the public funds, or out of the funds of any former province, or out of the ordinary funds of any local authority, for the width formed, used, agreed upon, or fenced, and a sufficient plan of which, approved by the Surveyor-General, has been or is hereafter registered by the District Land Registrar against the properties affected by it; and the Registrar is hereby authorised and required to register any such plans accordingly, anything in any other Act notwithstanding, when the plans are presented for registration by or on behalf of the Minister:
     (e) land over which any road, notwithstanding any legal or technical informality in its taking or construction, has been taken, constructed, or used under the authority of the Government of any former province, or of any local authority, and a sufficient plan of which is registered in the manner provided for in paragraph (d),—
   - **stopping** , in relation to a road, includes diverting
+  - **Surveyor-General** means the Surveyor-General appointed under section 5 of the Cadastral Survey Act 2002
   - **urban area** means any area within the boundaries of any district within the meaning of the Local Government Act 2002 that immediately before 1 November 1989 was or formed part of any borough, town district, or community as those terms were then defined in that Act
   - **working day** means any day of the week other than—
     (a) a Saturday, a Sunday, Waitangi Day, Good Friday, Easter Monday, Anzac Day, the Sovereign’s birthday, Te Rā Aro ki a Matariki/Matariki Observance Day, and Labour Day; and
