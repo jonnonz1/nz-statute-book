@@ -1,5 +1,5 @@
 # Te Awa Tupua (Whanganui River Claims Settlement) Act 2017
-_Consolidation as at 2022-04-12_
+_Consolidation as at 2022-11-30_
 
 ### 1 Title
 This Act is the Te Awa Tupua (Whanganui River Claims Settlement) Act 2017.
@@ -1489,6 +1489,9 @@ Section 15(3) applies to the following Acts:
   (a) may be removed with the agreement of the nominators and by written notice to the person:
   (b) may resign by giving written notice to the nominators:
   (c) may be reappointed.
+(3) If the term of appointment of a person appointed to Te Pou Tupua expires, unless the person resigns or is removed from office, that person continues to hold office by virtue of the appointment for the term that has expired, until—
+  (a) that person is reappointed; or
+  (b) a successor to that person is appointed.
 
 ### 2 Vacancies
 (1) If a member of Te Pou Tupua resigns or is removed, or a vacancy arises for any other reason, the nominators must, as soon as is reasonably practicable, appoint a person to replace that member for the remainder of the term of the member being replaced in accordance with the requirements of section 20.
