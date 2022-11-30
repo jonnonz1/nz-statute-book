@@ -1,5 +1,5 @@
 # Dog Control Act 1996
-_Consolidation as at 2021-10-28_
+_Consolidation as at 2022-11-30_
 
 > An Act—ato make better provision for the control of dogs; andbto make better provision in relation to damage caused by dogs; andcto repeal the Dog Control and Hydatids Act 1982 and its amendments
 
@@ -440,7 +440,7 @@ Every classification as a probationary owner and every disqualification under th
     (iii) before the arrival of the dog in New Zealand; and
   (b) is to the effect that to the best of the veterinarian's knowledge and belief, the dog is not a dog listed in Schedule 4.
 (4) Every person who contravenes subsection (1) commits an offence and is liable on conviction to a fine not exceeding $3,000.
-(5) Subsection (1) does not apply in respect of—
+(5) Subsections (1) and (2)﻿(b) do not apply in respect of—
   (a) any dog—
     (i) performing the same function as a disability assist dog (if the dog has been certified as being trained to perform that function by a recognised organisation in the country where the person who the dog assists usually resides); and
     (ii) accompanying and assisting that person or accompanying a person genuinely engaged in the dog's training; or
