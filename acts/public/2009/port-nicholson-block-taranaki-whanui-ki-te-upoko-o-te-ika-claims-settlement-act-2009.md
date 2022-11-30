@@ -1,5 +1,5 @@
 # Port Nicholson Block (Taranaki Whānui ki Te Upoko o Te Ika) Claims Settlement Act 2009
-_Consolidation as at 2022-07-01_
+_Consolidation as at 2022-11-30_
 
 ### 1 Title
 This Act is the Port Nicholson Block (Taranaki Whānui ki Te Upoko o Te Ika) Claims Settlement Act 2009.
@@ -93,7 +93,7 @@ In this Act, unless the context requires another meaning,—
     (b) include—
       (i) the schedules of and any attachments to the deed; and
       (ii) any amendments to the deed or its schedules and attachments
-  - **deferred selection property** means a property described in subpart H of Part 4 of the provisions schedule of the deed of settlement
+  - **deferred selection property** means a property described in subpart H or subpart I of Part 4 of the provisions schedule of the deed of settlement
   - **Director-General** means the Director-General of Conservation
   - **DOC protocol** means a protocol issued by the Minister of Conservation under section 17(1)﻿(a), including any amendments made under section 17(1)﻿(b)
   - **DOC protocol area** means the area shown on the map attached to the DOC protocol
