@@ -1,5 +1,5 @@
 # Resource Management Act 1991
-_Consolidation as at 2022-09-28_
+_Consolidation as at 2022-11-30_
 
 > An Act to restate and reform the law relating to the use of land, air, and water
 
@@ -1951,7 +1951,7 @@ A national environmental standard for an activity that is a discharge may descri
 
 ### 46A Single process for preparing national directions
 (1) This section and sections 47 to 51 set out the requirements for preparing a national direction.
-(2) In this section and sections 47 to 51, national direction means both or either of the following documents:
+(2) In this section and sections 46B to 51, national direction means both or either of the following documents:
   (a) a national environmental standard:
   (b) a national policy statement.
 (3) If the Minister proposes to issue a national direction, the Minister must either—
@@ -2418,6 +2418,8 @@ The purpose of a regional policy statement is to achieve the purpose of the Act 
     (iv)
   (b) the extent to which the regional policy statement needs to be consistent with the policy statements and plans of adjacent regional councils; and
   (c) the extent to which the regional policy statement needs to be consistent with regulations made under the Exclusive Economic Zone and Continental Shelf (Environmental Effects) Act 2012; and
+  (d) any emissions reduction plan made in accordance with section 5ZI of the Climate Change Response Act 2002; and
+  (e) any national adaptation plan made in accordance with section 5ZS of the Climate Change Response Act 2002.
 (2A) When a regional council is preparing or changing a regional policy statement, it must deal with the following documents, if they are lodged with the council, in the manner specified, to the extent that their content has a bearing on the resource management issues of the region:
   (a) the council must take into account any relevant planning document recognised by an iwi authority; and
   (b) in relation to a planning document prepared by a customary marine title group under section 85 of the Marine and Coastal Area (Takutai Moana) Act 2011, the council must, in accordance with section 93 of that Act,—
@@ -2523,6 +2525,8 @@ The purpose of a regional policy statement is to achieve the purpose of the Act 
     (v) relevant project area and project objectives (as those terms are defined in section 9 of the Urban Development Act 2020), if section 98 of that Act applies,—
   (d) the extent to which the regional plan needs to be consistent with the regional policy statements and plans, or proposed regional policy statements and proposed plans, of adjacent regional councils; and
   (e) to the extent to which the regional plan needs to be consistent with regulations made under the Exclusive Economic Zone and Continental Shelf (Environmental Effects) Act 2012; and
+  (f) any emissions reduction plan made in accordance with section 5ZI of the Climate Change Response Act 2002; and
+  (g) any national adaptation plan made in accordance with section 5ZS of the Climate Change Response Act 2002.
 (2A) When a regional council is preparing or changing a regional plan, it must deal with the following documents, if they are lodged with the council, in the manner specified, to the extent that their content has a bearing on the resource management issues of the region:
   (a) the council must take into account any relevant planning document recognised by an iwi authority; and
   (b) in relation to a planning document prepared by a customary marine title group under section 85 of the Marine and Coastal Area (Takutai Moana) Act 2011, the council must, in accordance with section 93 of that Act,—
@@ -2626,12 +2630,10 @@ The purpose of a regional policy statement is to achieve the purpose of the Act 
 **Rules relating to discharge of greenhouse gases**
 
 ### 70A Application to climate change of rules relating to discharge of greenhouse gases
-Despite section 68(3), when making a rule to control the discharge into air of greenhouse gases under its functions under section 30(1)﻿(d)﻿(iv) or (f), a regional council must not have regard to the effects of such a discharge on climate change, except to the extent that the use and development of renewable energy enables a reduction in the discharge into air of greenhouse gases, either—
-  (a) in absolute terms; or
-  (b) relative to the use and development of non-renewable energy.
+[Repealed]
 
 ### 70B Implementation of national environmental standards
-If a national environmental standard is made to control the effects on climate change of the discharge into air of greenhouse gases, a regional council may make rules that are necessary to implement the standard, provided the rules are no more or less restrictive than the standard.
+[Repealed]
 
 ### 71 Rules about esplanade reserves on reclamation
 [Repealed]
@@ -2679,7 +2681,9 @@ The purpose of the preparation, implementation, and administration of district p
     (iia) relevant entry on the New Zealand Heritage List/Rārangi Kōrero required by the Heritage New Zealand Pouhere Taonga Act 2014; and
     (iii) regulations relating to ensuring sustainability, or the conservation, management, or sustainability of fisheries resources (including regulations or bylaws relating to taiapure, mahinga mataitai, or other non-commercial Maori customary fishing); and
     (iv) relevant project area and project objectives (as those terms are defined in section 9 of the Urban Development Act 2020), if section 98 of that Act applies,—
-  (c) the extent to which the district plan needs to be consistent with the plans or proposed plans of adjacent territorial authorities.
+  (c) the extent to which the district plan needs to be consistent with the plans or proposed plans of adjacent territorial authorities; and
+  (d) any emissions reduction plan made in accordance with section 5ZI of the Climate Change Response Act 2002; and
+  (e) any national adaptation plan made in accordance with section 5ZS of the Climate Change Response Act 2002.
 (2A) A territorial authority, when preparing or changing a district plan, must take into account any relevant planning document recognised by an iwi authority and lodged with the territorial authority, to the extent that its content has a bearing on the resource management issues of the district.
 (3) In preparing or changing any district plan, a territorial authority must not have regard to trade competition or the effects of trade competition.
 
@@ -4310,14 +4314,10 @@ After considering an application for a resource consent for a discretionary acti
 **Decisions on applications relating to discharge of greenhouse gases**
 
 ### 104E Applications relating to discharge of greenhouse gases
-When considering an application for a discharge permit or coastal permit to do something that would otherwise contravene section 15 or section 15B relating to the discharge into air of greenhouse gases, a consent authority must not have regard to the effects of such a discharge on climate change, except to the extent that the use and development of renewable energy enables a reduction in the discharge into air of greenhouse gases, either—
-  (a) in absolute terms; or
-  (b) relative to the use and development of non-renewable energy.
+[Repealed]
 
 ### 104F Implementation of national environmental standards
-If a national environmental standard is made to control the effects on climate change of the discharge into air of greenhouse gases, a consent authority, when considering an application for a discharge permit or coastal permit to do something that would otherwise contravene section 15 or section 15B,—
-  (a) may grant the application, with or without conditions, or decline it, as necessary to implement the standard; but
-  (b) in making its determination, must be no more or less restrictive than is necessary to implement the standard.
+[Repealed]
 
 ### 104G Consideration of activities affecting drinking water supply source water
 When considering an application for a resource consent, the consent authority must have regard to—
@@ -8779,11 +8779,7 @@ A copy of, or extract from, a policy statement or plan, certified to be a true c
   (b) prohibit or restrict the publication of any evidence—
 
 ### 277A Powers of Environment Court in relation to evidence heard on appeal by way of rehearing
-(1) This section applies to an appeal brought by way of a rehearing under clause 60 of Schedule 1.
-(2) In conducting the appeal, the Environment Court has full discretion to rehear all or any part of the evidence received by the local authority or panel whose decision is the subject of the appeal.
-(3) The Environment Court must rehear the evidence of a witness if the court has reason to believe that the record of evidence of that person made by direction of the local authority or panel is or may be incomplete in any material way.
-(4) A party to the appeal may introduce new evidence with the leave of the Environment Court.
-(5) The Environment Court may grant leave under subsection (4), but only if it considers that the proposed new evidence was not able to be produced at the hearing conducted by the local authority or panel.
+[Repealed]
 
 ### 278 Environment Court has powers of District Court
 (1) The Environment Court and Environment Judges have the same powers that the District Court has in the exercise of its civil jurisdiction, including, without limitation, the power to commission a report from an independent expert on any matter raised in an appeal, as provided for by subpart 4 of Part 9 of the District Court Rules 2014.
