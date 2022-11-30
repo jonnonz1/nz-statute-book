@@ -1,5 +1,5 @@
 # Prisoners' and Victims' Claims Act 2005
-_Consolidation as at 2022-07-01_
+_Consolidation as at 2022-11-30_
 
 ### 1 Title
 This Act is the Prisoners’ and Victims’ Claims Act 2005.
@@ -393,7 +393,7 @@ In sections 22 and 28, sending date, in relation to a notice required by section
     (i) in respect of the conduct on which the claim is based; and
     (ii) in civil proceedings against the offender in the District Court or the High Court.
 (2) The claim must be—
-  (a) in a form approved for the purpose by the Secretary; and
+  (a) in a form approved for the purpose by the chief executive of the Ministry of Justice after consulting the Chief District Court Judge; and
   (b) filed with the Secretary of the Tribunal; and
   (c) filed before the deadline specified in subsection (3).
 (3) The deadline referred to in subsections (2), (4), and (5) is,—
