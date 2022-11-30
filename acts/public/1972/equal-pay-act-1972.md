@@ -1,5 +1,5 @@
 # Equal Pay Act 1972
-_Consolidation as at 2021-10-28_
+_Consolidation as at 2022-11-30_
 
 > An Act to make provision for the removal and prevention of discrimination, based on the sex of the employees, in the rates of remuneration of males and females in paid employment, and for matters incidental thereto
 
@@ -933,6 +933,7 @@ In performing its functions under this Act, or in respect of any breach of this 
 (1) The Governor-General may from time to time, by Order in Council, make regulations providing for such matters as are contemplated by or necessary for giving full effect to the provisions of this Act and for its due administration, including regulations for the following purposes:
   (a) prescribing matters that must be taken into account when assessing a pay equity claim; and
   (b) prescribing matters that must be taken into account when identifying comparable work under section 13ZE.
+(1A) Regulations may not be made under this section that require the comparators against which a pay equity claim is to be assessed to be ranked or weighted.
 (2) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 20 Act to be administered in Department of Labour
