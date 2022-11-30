@@ -1,5 +1,5 @@
 # Returning Offenders (Management and Information) Act 2015
-_Consolidation as at 2019-07-01_
+_Consolidation as at 2022-11-30_
 
 ### 1 Title
 This Act is the Returning Offenders (Management and Information) Act 2015.
@@ -27,6 +27,15 @@ The purpose of this Act is to obtain information from returning offenders and es
   - **overseas jurisdiction** —
     (a) excludes the islands and territories within the Realm of New Zealand; but
     (b) includes the self-governing state of the Cook Islands, the self-governing state of Niue, Tokelau, and the Ross Dependency
+  - **overturned** , in relation to a conviction for an overseas jurisdiction offence (see sections 23A and 34A), means that the conviction is set aside—
+    (a) without an order for retrial; or
+    (b) with a retrial being ordered but—
+      (i) not being proceeded with; or
+      (ii) not resulting in a conviction; or
+      (iii) being ended by a stay of proceedings
+  - **pardoned** , in relation to a person and an overseas jurisdiction offence (see sections 23A and 34A), means that the person—
+    (a) has been granted a free pardon for the offence; or
+    (b) is, because of the exercise of other applicable legal powers of clemency or mercy, otherwise taken never to have committed the offence
   - **Parole Act** means the Parole Act 2002
   - **Police** means the New Zealand Police
   - **release condition** means a standard release condition or a special condition
@@ -169,6 +178,18 @@ A court may, on the application of the Commissioner, issue a warrant for entry t
 ### 23 Review does not suspend release conditions
 An application for a review under section 22 does not affect the operation of the applicant’s release conditions, which remain in force during the period of review.
 
+### 23A Commissioner must revoke determination if conviction overturned, or person pardoned, for overseas jurisdiction offence
+(1) The Commissioner must revoke a determination that a person is a returning prisoner if, after considering information provided by or on behalf of the person, the Commissioner is satisfied—
+  (a) that the person has been convicted in an overseas jurisdiction of an offence for conduct that constitutes an imprisonable offence in New Zealand; and
+  (b) that the determination was made in respect of the conviction; and
+  (c) that the conviction has been overturned, or that the person has been pardoned for that overseas jurisdiction offence.
+(2) This section does not limit any other duty or power of the Commissioner or of a court to amend or revoke the determination.
+(3) After the revocation, the person—
+  (a) is no longer a returning prisoner because of the determination; and
+  (b) is no longer subject to, and required to comply with, standard release conditions because of service on the person of a determination notice related to the determination; and
+  (c) is no longer required to comply with any special conditions, or interim special conditions, imposed on the person by the District Court because of the determination.
+(4) Subsection (3) overrides sections 24 to 30.
+
 **Consequences of determination as returning prisoner**
 
 ### 24 Returning prisoner subject to standard release conditions
@@ -261,6 +282,16 @@ Release conditions end when—
 In relation to a returning offender to whom this subpart applies, sections 26 to 31 apply, with all necessary modifications, as if—
   (a) the returning offender were a returning prisoner; and
   (b) the reference in those provisions to a release condition or a special condition were a reference to a condition imposed under section 33(1).
+
+### 34A Application to court to revoke conditions imposed if conviction overturned, or person pardoned, for overseas jurisdiction offence
+(1) The chief executive must make an application to a court to revoke conditions imposed under this subpart on a person if, after considering information provided by or on behalf of the person, the chief executive is satisfied—
+  (a) that the person has been convicted in an overseas jurisdiction of an offence for conduct that constitutes an imprisonable offence in New Zealand; and
+  (b) that the conditions were imposed under this subpart by a court in respect of the conviction; and
+  (c) that the conviction has been overturned, or that the person has been pardoned for that overseas jurisdiction offence.
+(2) A court must revoke the conditions if, on an application made under this section by the chief executive, the court is satisfied of the matters specified in subsection (1)﻿(a), (b), and (c).
+(3) This section does not limit any other power of a court to amend or revoke the conditions.
+(4) After the revocation, the person is no longer required to comply with any conditions imposed on the person by a court under section 33(1) because of the conviction.
+(5) Subsection (4) overrides sections 26 to 34.
 
 ### Subpart 4 — Amendments to other Acts and review
 
