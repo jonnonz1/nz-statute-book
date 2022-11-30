@@ -1,5 +1,5 @@
 # Railways Act 2005
-_Consolidation as at 2021-10-28_
+_Consolidation as at 2022-11-30_
 
 ### 1 Title
 This Act is the Railways Act 2005.
@@ -1185,11 +1185,11 @@ Except to the extent that a deed or agreement provides otherwise, no person has 
 ### 94 Notices
 (1) Except as otherwise specified in this Act or in regulations, if a notice or other document is to be given, served on, or provided to a person under this Act, that notice or document may be—
   (a) given to that person personally; or
-  (b) sent by registered post to that person at that person's usual or last known place of business or abode; or
+  (b) sent by post to that person at that person's usual or last known place of business or abode; or
   (c) given personally to any other person authorised to act on behalf of that person; or
-  (d) sent by registered post to that other person at that other person's usual or last known place of business or abode; or
+  (d) sent by post to that other person at that other person's usual or last known place of business or abode; or
   (e) except in the case of a notice or other document to be given or served in the course of, or for the purpose of, any court proceedings for an offence against this Act or an appeal under this Act, sent by post to that person, or any other person authorised to act on that person's behalf, at that person's or other person's usual or last known place of business or abode.
-(2) A notice or other document sent by post or registered post is deemed to have been given, served, or received 7 days after the date on which it was posted, unless the person to whom it was posted proves that, otherwise than through that person's fault, the notice or other document was not received.
+(2) A notice or other document sent by post is deemed to have been given, served, or received 7 days after the date on which it was posted, unless the person to whom it was posted proves that, otherwise than through that person's fault, the notice or other document was not received.
 (3) To avoid doubt, a notice may be in electronic form.
 
 ### 95 Who may file charging document for offence
