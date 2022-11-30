@@ -1,5 +1,5 @@
 # Animal Products Act 1999
-_Consolidation as at 2022-03-01_
+_Consolidation as at 2022-11-30_
 
 > An Act to replace the Meat Act 1981 and the Dairy Industry Act 1952, and to reform and restate the law relating to the processing of animal material into products for use, trade, and export
 
@@ -2897,6 +2897,38 @@ Except where the court making the order appealed from otherwise directs,—
   (b) by any other practicable means (including electronic means).
 (3) If the notice is not secondary legislation (see section 167(6)), the Director-General must give a copy of it to the person named in it.
 
+### 167B Certain secondary legislation or published instruments may be consolidated
+Secondary legislation made by same maker and with same publishing requirements
+(1) The Minister or the Director-General (the maker) may at any time apply this section to any secondary legislation that—
+  (a) the maker has made, or may make, under a provision of this Act, or of regulations made under this Act, by satisfying the same requirements for publishing the secondary legislation; and
+  (b) is not drafted by the PCO (see section 67 of the Legislation Act 2019).
+Other instruments made by same maker with same publishing requirements
+(2) The Minister or the Director-General (the maker) may at any time apply this section to any instruments that—
+  (a) the maker has made, or may make, under any provisions of this Act, or of regulations made under this Act, by satisfying the same requirements for publishing the instruments; and
+  (b) are not secondary legislation.
+Once this section is applied to specific instruments
+(3) The powers of the maker to amend or replace the specific instruments (whether given by a specific empowering provision, section 48 of the Legislation Act 2019, or otherwise) authorise the maker to—
+  (a) revoke any specific instruments that have been made (a revoked instrument); and
+  (b) make an instrument under any of the specific empowering provisions (the new instrument) that—
+    (i) has the same effect that all or part of the revoked instrument or instruments had immediately before being revoked; and
+    (ii) otherwise has any further effect (if any) authorised by the specific empowering provisions (the new or amended parts).
+(4) For each part of the new instrument (the replacement part) that has the same effect as part of a revoked instrument (the revoked part),—
+  (a) the replacement part must be treated as being made under the specific empowering provision under which the revoked part was made; and
+  (b) any requirements for making the replacement part or for revoking the revoked part, other than the requirements for publication, must be treated as being satisfied to the extent that the requirements for making the revoked part were satisfied when it was made.
+(5) To avoid doubt,—
+  (a) the new or amended parts of the new instrument (if any) are made under the relevant specific empowering provisions; and
+  (b) any requirements of the relevant specific empowering provisions must be satisfied in making those parts.
+(6) A revoked instrument continues to have effect, as if it had not been revoked, in relation to any matter in a period to which the revoked instrument applied.
+(7) In this section,—
+  - **instrument** has the meaning given in section 5 of the Legislation Act 2019
+  - **maker** , in relation to an instrument, means the person empowered to make it, as defined by subsection (1) or (2)
+  - **specific empowering provisions** means the provisions of this Act, or of regulations, that—
+    (a) empower the making of the specific instruments; and
+    (b) are referred to in the subsection under which the maker applies this section to the specific instruments
+  - **specific instruments** means the 1 or more instruments to which the maker applies this section, whether the instruments—
+    (a) have been made (and are to be revoked); or
+    (b) are able to be made.
+
 ### 168 Incorporation of material by reference into regulations, notices, and orders
 (1) The following material may be incorporated by reference into any regulations, notice, or order (all referred to in this section as instruments) made or given under this Act:
   (a) standards, requirements, or recommended practices published by or on behalf of any body or person in New Zealand or in any other country:
@@ -2988,6 +3020,11 @@ In this clause and clauses 3 to 5,—
   (b) under which the notice could be made.
 (3) An Order in Council cannot be made under this clause on or after the 4-year date.
 (4) An order under this clause is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+
+### Part 2 — Provision relating to Statutes Amendment Act 2022
+
+### 6 No consolidation of existing notices that are not continuing notices
+Section 167B does not apply to a notice to which clause 4 applies.
 
 ## Schedule
 
