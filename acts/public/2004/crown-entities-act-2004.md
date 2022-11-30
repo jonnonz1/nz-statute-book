@@ -1,5 +1,5 @@
 # Crown Entities Act 2004
-_Consolidation as at 2022-10-06_
+_Consolidation as at 2022-11-30_
 
 ### 1 Title
 This Act is the Crown Entities Act 2004.
@@ -66,7 +66,9 @@ A Crown entity (A) is a parent Crown entity or parent of another Crown entity (B
   (c) omit the name of a Crown agent from Part 1 of Schedule 1 and add that name to another Part of that schedule:
   (d) omit the name of an autonomous Crown entity from Part 2 of Schedule 1 and add that name to Part 3 of that schedule:
   (e) omit the name of an entity or company and substitute another name in recognition of a change in the entity's or company's name:
-  (f) omit the name of an entity or company in recognition of the entity's dissolution or the company's removal from the register under the Companies Act 1993.
+  (f) omit the name of an entity or company in recognition of the entity's dissolution or the company's removal from the register under the Companies Act 1993:
+  (g) remove the exemption for an entity or company from all or any of sections 161, 162, 163, and 164 of this Act:
+  (h) exempt an entity or company from all or any of sections 161, 162, 163, 164, and 165 of this Act.
 (2) An Order in Council cannot be made under this section in relation to a school board or a tertiary education institution.
 (3) An Order in Council cannot be made under this section to add a Crown entity subsidiary to Schedule 1 or Schedule 2.
 (4) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
