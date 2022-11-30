@@ -1,5 +1,5 @@
 # Ngāti Manuhiri Claims Settlement Act 2012
-_Consolidation as at 2022-04-12_
+_Consolidation as at 2022-11-30_
 
 ### 1 Title
 This Act is the Ngāti Manuhiri Claims Settlement Act 2012.
@@ -1121,6 +1121,7 @@ The Crown (acting by and through the chief executive of the land holding agency)
   (c) a person exercising the right must observe any reasonable conditions imposed by the owner that—
     (i) relate to the time, location, or manner of access; and
     (ii) are reasonably required for the safety of people, for the protection of land, improvements, flora, fauna, plant, equipment, or livestock, or for operational reasons.
+(4) The right of access described in this section does not apply to the land described in Schedule 5.
 
 ### 109 Right of access subject to Crown forestry licence
 (1) The right of access under section 108 is subject to the terms of any Crown forestry licence.
@@ -1129,11 +1130,15 @@ The Crown (acting by and through the chief executive of the land holding agency)
   (a) delay the date from which a person may exercise a right of access under section 108; or
   (b) adversely affect the right of access in any other way.
 
-### 110 Notation on computer freehold register
-(1) The Registrar-General must, in accordance with a written application by an authorised person, record on the computer freehold register for the licensed land that the land is subject to this subpart of this Act.
+### 110 Notation on record of title
+(1) The Registrar-General must, in accordance with a written application by an authorised person, record on the record of title for the licensed land that the land is subject to this subpart of this Act.
 (2) An application must be made as soon as is reasonably practicable after—
   (a) the settlement date; or
-  (b) a computer freehold register has been created for the land, if the computer freehold register has not been created by the settlement date.
+  (b) a record of title has been created for the land, if the record of title has not been created by the settlement date.
+(2A) The Registrar-General must remove the notation directed by subsection (1) from—
+  (a) each record of title listed in Part 1 of Schedule 5; and
+  (b) the supplementary record sheet listed in Part 2 of Schedule 5.
+(2B) The Registrar-General must amend the notation directed by subsection (1) on the records of title listed in Part 3 of Schedule 5 to reflect that the described land in each case is not subject to the right of access under this subpart.
 (3) In this section, authorised person means a person authorised by the chief executive of the land holding agency for the licensed land.
 
 ### Subpart 4 — Right of first refusal in relation to RFR land
@@ -1469,3 +1474,79 @@ A notice by or to an RFR landowner or the trustees under subpart 4 of Part 3 mus
 (2) However, a notice is to be treated as having been received on the next working day if, under subclause (1), it would be treated as having been received—
   (a) after 5 pm on a working day; or
   (b) on a day that is not a working day.
+
+## Schedule 5 — Land not subject to right of access
+
+### Part 1 — Records of title not subject to right of access
+
+| Description | Record of title |
+| --- | --- |
+| Lot 24 Deposited Plan 547805 | 970616 |
+| Lot 25 Deposited Plan 547805 | 970617 |
+| Lot 26 Deposited Plan 547805 | 970618 |
+| Lot 27 Deposited Plan 547805 | 970619 |
+| Lot 28 Deposited Plan 547805 | 970620 |
+| Lot 29 Deposited Plan 547805 | 970621 |
+| Lot 30 Deposited Plan 547805 | 970622 |
+| Lot 31 Deposited Plan 547805 | 970623 |
+| Lot 32 Deposited Plan 547805 | 970624 |
+| Lot 33 Deposited Plan 547805 | 970625 |
+| Lot 34 Deposited Plan 547805 | 970626 |
+| Lot 35 Deposited Plan 547805 | 970627 |
+| Lot 36 Deposited Plan 547805 | 970628 |
+| Lot 37 Deposited Plan 547805 | 970629 |
+| Lot 42 Deposited Plan 547805 | 970630 |
+| Lot 200 Deposited Plan 547805 | 970633 |
+| Lot 500 Deposited Plan 547805 | 970640 |
+| Lot 43 Deposited Plan 564230 | 1005313 |
+| Lot 38 Deposited Plan 564230 | 1005315 |
+| Lot 39 Deposited Plan 564230 | 1005316 |
+| Lot 40 Deposited Plan 564230 | 1005317 |
+| Lot 45 Deposited Plan 566118 | 1012923 |
+| Lot 46 Deposited Plan 566118 | 1012924 |
+| Lot 47 Deposited Plan 566118 | 1012925 |
+| Lot 48 Deposited Plan 566118 | 1012926 |
+| Lot 49 Deposited Plan 566118 | 1012927 |
+| Lot 50 Deposited Plan 566118 | 1012928 |
+| Lot 51 Deposited Plan 566118 | 1012929 |
+| Lot 52 Deposited Plan 566118 | 1012930 |
+| Lot 53 Deposited Plan 566118 | 1012931 |
+| Lot 54 Deposited Plan 566118 | 1012932 |
+| Lot 55 Deposited Plan 566118 | 1012933 |
+| Lot 56 Deposited Plan 566118 | 1012934 |
+| Lot 57 Deposited Plan 566118 | 1012935 |
+| Lot 58 Deposited Plan 566118 | 1012936 |
+| Lot 59 Deposited Plan 566118 | 1012937 |
+| Lot 60 Deposited Plan 566118 | 1012938 |
+| Lot 11 Deposited Plan 569364 | 1027844 |
+| Lot 12 Deposited Plan 569364 | 1027845 |
+| Lot 13 Deposited Plan 569364 | 1027846 |
+| Lot 14 Deposited Plan 569364 | 1027847 |
+| Lot 15 Deposited Plan 569364 | 1027848 |
+| Lot 16 Deposited Plan 569364 | 1027849 |
+| Lot 17 Deposited Plan 569364 | 1027850 |
+| Lot 18 Deposited Plan 569364 | 1027851 |
+| Lot 19 Deposited Plan 569364 | 1027852 |
+| Lot 20 Deposited Plan 569364 | 1027853 |
+| Lot 21 Deposited Plan 569364 | 1027854 |
+| Lot 22 Deposited Plan 569364 | 1027855 |
+| Lot 23 Deposited Plan 569364 | 1027856 |
+| Lots 100, 101, 102, 104, 105, 106, 107, 119, 150, 151, and 152 Deposited Plan 547805, Lots 109 and 154 Deposited Plan 564230, Lots 110, 111, 112, and 113 Deposited Plan 566118, Lot 14 Deposited Plan 569960, and Lots 103, 108, 114, and 115 Deposited Plan 569364 | 1027946 |
+| Lots 1, 3, and 12 Deposited Plan 569960, and Lots 201, 410, and 411 Deposited Plan 547805 | 1028750 |
+| Lots 2 and 4 Deposited Plan 569960 | 1028751 |
+| Lot 5 Deposited Plan 569960 and Lot 412 Deposited Plan 547805 | 1028752 |
+| Lots 202 and 207 Deposited Plan 569960, Lot 203 Deposited Plan 566118, and Lot 206 Deposited Plan 564230 | 1028755 |
+
+### Part 2 — Supplementary record sheet under Unit Titles Act 2010 not subject to right of access
+
+| Description | Supplementary record sheet |
+| --- | --- |
+| Lots 11 and 13 Deposited Plan 569960 | 1057374 |
+
+### Part 3 — Records of title where part not subject to right of access
+
+| Description | Record of title (part) |
+| --- | --- |
+| Those parts of Lot 600 Deposited Plan 564455 shown as D and F on Survey Office Plan 578146 | 1005902 |
+| Lot 204 Deposited Plan 569364 and that part of Lot 205 Deposited Plan 569364 shown as J on Survey Office Plan 578146 | 1027947 |
+| Lot 603 Deposited Plan 566118 and that part of Lot 403 Deposited Plan 564455 shown as I on Survey Office Plan 578146 | 1034136 |
