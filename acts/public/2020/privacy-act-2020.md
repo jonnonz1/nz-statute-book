@@ -1,5 +1,5 @@
 # Privacy Act 2020
-_Consolidation as at 2022-11-15_
+_Consolidation as at 2022-11-30_
 
 ### 1 Title
 This Act is the Privacy Act 2020.
@@ -205,7 +205,7 @@ In this Act, overseas agency means an overseas person, body corporate, or uninco
 (3) Despite subsection (1), information that is held by an employee of a department carrying out the functions of a departmental agency must be treated for the purposes of this Act as held by the departmental agency.
 
 ### 11 Personal information treated as being held by another agency in certain circumstances
-(1) This section applies if an agency (A) holds information as an agent for another agency (B) (for example, the information is held by A on behalf of B for safe custody or processing).
+(1) This section applies if an agency (A) holds information for or on behalf of another agency (B) (for example, the information is held by A as a representative or agent of B, or for safe custody or processing on behalf of B).
 (2) For the purposes of this Act, the personal information is to be treated as being held by B, and not A.
 (3) However, the personal information is to be treated as being held by A as well as B if A uses or discloses the information for its own purposes.
 (4) For the purposes of this section, it does not matter whether A—
@@ -1220,10 +1220,11 @@ If any provision of this Act, or any code of practice, excepts or exempts any ac
 
 ### 107 Interim order suspending Commissioner’s direction pending appeal
 (1) The Chairperson of the Tribunal may make an interim order suspending an access direction until an appeal is determined if the Chairperson is satisfied that it is necessary and in the interests of justice to make the order.
-(2) If an interim order is made, a party may apply to the High Court to vary or rescind the order, unless the order was made with that party's consent.
+(2) If an interim order is made under subsection (1), a party may apply to the High Court to vary or rescind the order, unless the order was made with that party's consent.
 (3) An application under subsection (2) may be—
   (a) made only with the leave of the Chairperson:
   (b) made instead of, but not as well as, an appeal against the interim order under section 123(1) of the Human Rights Act 1993.
+(4) An interim order may be made under subsection (1) (and varied or rescinded by the High Court under subsection (2)) whether or not the Chairperson or a Deputy Chairperson of the Tribunal makes an interim order under section 95 of the Human Rights Act 1993 (that may be varied or rescinded by the High Court under section 96 of that Act).
 
 ### 108 Determination of appeal
 (1) The Tribunal may require the Commissioner to provide either or both of the following:
@@ -1261,7 +1262,7 @@ If any provision of this Act, or any code of practice, excepts or exempts any ac
   (a) sections 92Q to 92W; and
   (b) Part 4, except—
     (i) sections 97, 108A, and 108B, in relation to proceedings commenced under section 97, 98, or 104 of this Act; and
-    (ii) sections 95, 96, 97, 108A, and 108B in relation to proceedings commenced under section 105 of this Act.
+    (ii) sections 97, 108A, and 108B in relation to proceedings commenced under section 105 of this Act.
 
 ## Part 6 — Notifiable privacy breaches and compliance notices
 
@@ -1363,16 +1364,16 @@ An agency must notify the Commissioner as soon as practicable after becoming awa
 ### 119 Section 211 does not apply to processes and proceedings relating to failure to notify notifiable privacy breach
 Section 211 (which refers to the liability of employers, principals, and agencies) does not apply to processes or proceedings under this Act relating to the obligations under section 114 or 115.
 
-### 120 Liability for actions of employees, agents, and members of agencies
+### 120 Liability for actions of officers, employees, agents, and members of agencies
 (1) This section applies to processes and proceedings under this Act relating to the obligations under section 114 or 115.
-(2) An employee or a member of an agency is not liable in those processes or proceedings if anything done or omitted by them results in the employer or agency failing to notify the Commissioner or an affected person (or their representative) or give public notice of a notifiable privacy breach.
-(3) For the purpose of those processes and proceedings, anything done or omitted by an employee or a member of an agency is to be treated as being done or omitted by the employer or agency.
+(2) An officer, an employee, or a member of an agency is not liable in those processes or proceedings if anything done or omitted by them results in the employer or agency failing to notify the Commissioner or an affected person (or their representative) or give public notice of a notifiable privacy breach.
+(3) For the purpose of those processes and proceedings, anything done or omitted by an officer, an employee, or a member of an agency is to be treated as being done or omitted by the employer or agency.
 (4) For the purpose of those processes and proceedings, anything done or omitted by an agent of another agency is to be treated as being done or omitted by both the agent and the principal agency.
 (5) However, the extent of liability of an agent is affected by whether they hold personal information that is the subject of a notifiable privacy breach. See the definition of privacy breach in section 112 and see section 11, which applies and which provides that information held by an agent is to be treated as being held by the principal agency unless section 11(3) applies.
 
-### 121 Knowledge of employees, agents, and members of agencies to be treated as knowledge of employers, principal agencies, and agencies
+### 121 Knowledge of officers, employees, agents, and members of agencies to be treated as knowledge of employers, principal agencies, and agencies
 (1) Subsection (2) applies to processes and proceedings under this Act relating to the obligations under section 114 or 115.
-(2) Anything relating to a notifiable privacy breach that is known by an employee or a member of an agency is to be treated as being known by the employer or agency.
+(2) Anything relating to a notifiable privacy breach that is known by an officer, an employee, or a member of an agency is to be treated as being known by the employer or agency.
 (3) Subsection (4) applies to processes and proceedings under this Act relating to the obligations under section 114 or 115 except a proceeding under section 118.
 (4) Anything relating to a notifiable privacy breach that is known by an agent is to be treated as being known by the principal agency.
 
@@ -1487,10 +1488,11 @@ The Commissioner may publish or delay publication of any of the following inform
 
 ### 132 Interim order suspending compliance notice pending appeal
 (1) The Chairperson may make an interim order suspending all or part of a compliance notice until an appeal is determined if satisfied that it is necessary and in the interests of justice to make the order.
-(2) If an interim order is made, a party may apply to the High Court to vary or rescind the order, unless the order was made with that party's consent.
+(2) If an interim order is made, a party may apply to the High Court to vary or rescind the order, unless the order was made under subsection (1) with that party's consent.
 (3) An application under subsection (2) may be—
   (a) made only with the leave of the Tribunal:
   (b) made instead of, but not as well as, an appeal against the interim order under section 123(1) of the Human Rights Act 1993.
+(4) An interim order may be made under subsection (1) (and varied or rescinded by the High Court under subsection (2)) whether or not the Chairperson or a Deputy Chairperson of the Tribunal makes an interim order under section 95 of the Human Rights Act 1993 (that may be varied or rescinded by the High Court under section 96 of that Act).
 
 ### 133 Remedies, costs, and enforcement
 (1) The Tribunal may,—
@@ -1505,7 +1507,7 @@ The Commissioner may publish or delay publication of any of the following inform
 (3) An agency that, without reasonable excuse, fails to comply with an order under subsection (1)﻿(a) or with a compliance notice that is confirmed or modified under subsection (1)﻿(b)﻿(i) commits an offence and is liable on conviction to a fine not exceeding $10,000.
 
 ### 134 Application of Human Rights Act 1993
-Except to the extent modified by this subpart, Part 4 of the Human Rights Act 1993 (except sections 95, 96, 97, 108A, and 108B) applies to proceedings under this subpart with any necessary modifications.
+Except to the extent modified by this subpart, Part 4 of the Human Rights Act 1993 (except sections 97, 108A, and 108B) applies to proceedings under this subpart with any necessary modifications.
 
 ### 135 Commissioner may be represented in proceedings
 In proceedings under this subpart, the Commissioner is entitled to appear in person or to be represented by a lawyer or an agent.
@@ -2241,6 +2243,7 @@ Sections 86 to 90 apply in relation to an inquiry conducted by the Commissioner 
   (a) an Ombudsman:
   (b) the Health and Disability Commissioner:
   (c) the Inspector-General of Intelligence and Security.
+  (d) the Independent Police Conduct Authority.
 (2) For the purpose of consulting a person specified in subsection (1), the Commissioner may disclose to that person any information that the Commissioner considers necessary.
 (3) This section overrides section 206(1).
 
