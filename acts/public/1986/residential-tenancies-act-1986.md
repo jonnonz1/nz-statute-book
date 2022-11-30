@@ -1,5 +1,5 @@
 # Residential Tenancies Act 1986
-_Consolidation as at 2022-11-26_
+_Consolidation as at 2022-11-30_
 
 > An Act to reform and restate the law relating to residential tenancies, to define the rights and obligations of landlords and tenants of residential properties, to establish a tribunal to determine expeditiously disputes arising between such landlords and tenants, to establish a fund in which bonds payable by such tenants are to be held, and to repeal the Tenancy Act 1955 and the Rent Appeal Act 1973 and their amendments
 
@@ -1932,7 +1932,7 @@ Every Tenancy Adjudicator, in the performance of the Tenancy Adjudicator's dutie
 
 ### 74 Records of Tribunal
 (1) Registrars must keep the records and papers of the Tribunal in the way (including by electronic means) approved by the chief executive of the Ministry of Justice.
-(2) Except where the Tribunal otherwise orders under section 95(3), the records and papers of the Tribunal shall be available for public inspection, on payment of the prescribed fee (if any), at all reasonable times.
+(2) Except where the Tribunal otherwise orders under section 95A, the records and papers of the Tribunal shall be available for public inspection, on payment of the prescribed fee (if any), at all reasonable times.
 (3) The chief executive of the Ministry of Justice must make arrangements under which a true copy of any record or paper of the Tribunal that is available for public inspection will be provided to any person on—
   (a) an application made by that person—
     (i) to a Registrar; or
