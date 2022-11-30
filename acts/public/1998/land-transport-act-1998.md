@@ -1,5 +1,5 @@
 # Land Transport Act 1998
-_Consolidation as at 2022-11-26_
+_Consolidation as at 2022-11-30_
 
 > An Act—ato promote safe road user behaviour and vehicle safety; andbto provide for a system of rules governing road user behaviour, the licensing of drivers, and technical aspects of land transport, and to recognise reciprocal obligations of persons involved; andcto consolidate and amend various enactments relating to road safety and land transport; anddto enable New Zealand to implement international agreements relating to road safety and land transport
 
@@ -706,7 +706,7 @@ If an enforcement officer, acting in the course of his or her official duties, b
   (n) prohibiting or restricting, subject to the erection of the prescribed signs, the parking of heavy motor vehicles, or any specified class or description of heavy motor vehicle, on any specified road during specified hours or for a period that exceeds a specified period:
   (o) prescribing the use of parking places and transport stations, which includes (but is not limited to)—
     (i) specifying the vehicles or classes of vehicle that may be entitled to use any parking place or transport station:
-    (ii) reserving any specified parking place or transport station for use, either generally or at specified times, only by members of the judiciary, medical practitioners, members of the diplomatic corps or consular corps, or disabled persons as defined in section 2 of the Disabled Persons Community Welfare Act 1975:
+    (ii) reserving any specified parking place or transport station for use, either generally or at specified times, only by members of the judiciary, health practitioners, members of the diplomatic corps or consular corps, or disabled persons as defined in section 2 of the Disabled Persons Community Welfare Act 1975:
     (iii) if in the relevant road controlling authority's opinion it would be reasonable to reserve parking places or transport stations for use by persons who reside in the vicinity,—
       (A) reserving specified parking places or transport stations for those persons to use, either generally or at specified times; and
       (B) setting the fees that those persons must pay to the relevant road controlling authority, whether annual or otherwise, for the use of those parking places or transport stations (provided that the fees do not exceed the reasonable cost to the relevant road controlling authority of the service involved in granting a permit to park in any parking place or transport station, collecting fees, or otherwise in relation to the reserving of any parking place or transport station):
@@ -2138,9 +2138,9 @@ Evidence of a controlled drug in a blood sample taken under section 72 or 73 may
 ### 74 Procedure for dealing with blood specimens
 (1) A blood specimen taken under section 72 or 73 must be dealt with in accordance with the relevant blood specimen collecting procedure.
 (2)
-(3) In the case of a blood specimen taken under section 72, an enforcement officer must, within 7 days after the date on which the specimen was taken, deliver or cause to be delivered (whether by courier or otherwise), or post by registered post or cause to be posted by registered post, the blood specimen to an approved laboratory for its analysis and custody in accordance with the relevant blood specimen collecting procedure.
+(3) In the case of a blood specimen taken under section 72, an enforcement officer must, within 7 days after the date on which the specimen was taken, deliver or cause to be delivered (whether by courier or otherwise), or post or cause to be posted, the blood specimen to an approved laboratory for its analysis and custody in accordance with the relevant blood specimen collecting procedure.
 (4) In the case of a blood specimen taken under section 73, the health practitioner or medical officer by whom the specimen was taken must,—
-  (a) within 7 days after the date on which the specimen was taken, deliver or cause to be delivered (whether by courier or otherwise), or post or cause to be posted by registered post, the blood specimen to an approved laboratory for its analysis and custody in accordance with the relevant blood specimen collecting procedure; and
+  (a) within 7 days after the date on which the specimen was taken, deliver or cause to be delivered (whether by courier or otherwise), or post or cause to be posted, the blood specimen to an approved laboratory for its analysis and custody in accordance with the relevant blood specimen collecting procedure; and
   (b) if, at the time the blood specimen is taken, there is more than 1 approved laboratory, give the Commissioner a written notification—
     (i) identifying the approved laboratory to whom the blood specimen was (or is being) delivered or posted; and
     (ii) naming the person from whom the blood specimen was taken.
@@ -2148,7 +2148,7 @@ Evidence of a controlled drug in a blood sample taken under section 72 or 73 may
   (a) the person (or the person's solicitor or counsel) may apply to the Commissioner in accordance with subsection (7); and
   (b) if the application complies with subsection (7),—
     (i) the Commissioner, or a person authorised for the purpose by the Commissioner, must forward a copy of the application to the approved laboratory to whom the blood specimen taken from the person was delivered or posted under subsection (3) or subsection (4); and
-    (ii) that laboratory must send by registered post, personal delivery, or delivery by courier the blood specimen, held for the purpose, to the private analyst specified in the application.
+    (ii) that laboratory must send by post, personal delivery, or delivery by courier the blood specimen, held for the purpose, to the private analyst specified in the application.
 (6) If an application under subsection (5) does not comply with subsection (7), the Commissioner or authorised person may refuse to forward a copy of the application to the approved laboratory.
 (7) An application under subsection (5)﻿(a) must—
   (a) be made in writing to the Commissioner not later than 28 days after—
@@ -2184,13 +2184,13 @@ Evidence of a controlled drug in a blood sample taken under section 72 or 73 may
     (ii) if the person was unconscious when the specimen was taken, notified the person in writing as soon as practicable that the blood specimen was taken under section 73 for evidential purposes.
 (4) This section also applies to a certificate purporting to be signed by a health practitioner or medical officer and certifying—
   (a) all the matters referred to in paragraphs (a) to (d) of subsection (2); and
-  (b) that the practitioner or medical officer sent or caused to be sent by registered post, personal delivery, or delivery by courier, on a specified date, the specimen to a specified approved laboratory in accordance with section 74; and
+  (b) that the practitioner or medical officer sent or caused to be sent by post, personal delivery, or delivery by courier, on a specified date, the specimen to a specified approved laboratory in accordance with section 74; and
   (c) that, if at the time the blood specimen was taken more than 1 approved laboratory exists, the practitioner or medical officer has notified the Commissioner in writing of the approved laboratory to which the specimen was delivered or posted.
 (5) This section also applies to a certificate purporting to be signed by an approved analyst and certifying that—
-  (a) a blood specimen in a sealed container was, on a specified date, delivered to an approved analyst (or a person employed by an approved laboratory and approved for the purpose by an approved analyst) for analysis, and was delivered by registered post or personal delivery or delivery by courier; and
+  (a) a blood specimen in a sealed container was, on a specified date, delivered to an approved analyst (or a person employed by an approved laboratory and approved for the purpose by an approved analyst) for analysis, and was delivered by post or personal delivery or delivery by courier; and
   (b) on analysis of the blood specimen by an analyst specified in the certificate, the presence or a specified proportion of alcohol or of a drug, or both (as the case may be), was found in the specimen; and
   (c) no such deterioration or congealing was found as would prevent a proper analysis.
-(6) This section also applies to a certificate purporting to be signed by an approved analyst and certifying that, following an application under section 74, a blood specimen was posted to a specified private analyst by registered post, personal delivery, or delivery by courier, and addressed to the private analyst at the address given in the application.
+(6) This section also applies to a certificate purporting to be signed by an approved analyst and certifying that, following an application under section 74, a blood specimen was posted to a specified private analyst by post, personal delivery, or delivery by courier, and addressed to the private analyst at the address given in the application.
 (7) For the purposes of this section, it is not necessary for the person making a certificate to specify his or her entitlement to give the certificate if the certificate indicates that the person belongs to the general category of persons who may make such a certificate.
 
 ### 75A Certificates of compliance for evidential breath-testing devices
