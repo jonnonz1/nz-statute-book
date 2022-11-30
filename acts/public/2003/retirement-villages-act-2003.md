@@ -1,5 +1,5 @@
 # Retirement Villages Act 2003
-_Consolidation as at 2022-09-01_
+_Consolidation as at 2022-11-30_
 
 ### 1 Title
 This Act is the Retirement Villages Act 2003.
@@ -370,8 +370,8 @@ If a receiver is appointed in respect of property of an operator that includes a
 (2) If an occupation right agreement is cancelled under section 28 the resident is entitled, on request, to a refund, with interest and without deduction other than tax, of the deposit and all progress payments within 10 working days after the request.
 (3) If, at the expiry of the period allowed under section 28 for the cancellation of an occupation right agreement, notice of cancellation has not been given, any interest accrued on a deposit, progress payment, or other payment to which subsection (1) applies must be paid to the operator.
 
-### 30 Information to be provided
-(1) Before any occupation right agreement can be entered into, the intending resident must receive—
+### 30 Operator must ensure information is provided
+(1) Before any occupation right agreement can be entered into, the operator must ensure that the intending resident has received—
   (a) a disclosure statement that complies with Schedule 2; and
   (b) the residents' code of rights; and
   (c) the code of practice (if any), and, if the code is not yet in force, a statement in writing that the code is not yet in force and the date on which it comes into force; and
