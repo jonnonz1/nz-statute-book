@@ -1,5 +1,5 @@
 # Sale and Supply of Alcohol Act 2012
-_Consolidation as at 2022-04-12_
+_Consolidation as at 2022-11-30_
 
 ### 1 Title
 This Act is the Sale and Supply of Alcohol Act 2012.
@@ -1673,7 +1673,7 @@ A person who is in doubt as to the appropriate licensing committee to apply to m
 (5) The decision of the licensing authority on any matter is determined by a majority of the valid votes recorded on it.
 
 ### 178 Annual report
-(1) Within 3 months after the end of its financial year, the licensing authority must prepare and send to the Minister a report—
+(1) Within 6 months after the end of its financial year, the licensing authority must prepare and send to the Minister a report—
   (a) of the authority's proceedings and operations during the year; and
   (b) on the working of this Act and the desirability or otherwise of amending it.
 (2) The Minister must lay a copy of the report before the House of Representatives within 20 sitting days after the day on which he or she receives it.
