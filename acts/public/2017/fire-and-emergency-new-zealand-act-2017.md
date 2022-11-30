@@ -1,5 +1,5 @@
 # Fire and Emergency New Zealand Act 2017
-_Consolidation as at 2022-10-20_
+_Consolidation as at 2022-11-30_
 
 ### 1 Title
 This Act is the Fire and Emergency New Zealand Act 2017.
@@ -407,12 +407,12 @@ FENZ must prepare and issue a fire plan for each local area, including policies 
 
 **Authorised person**
 
-### 23 Authorised person for purposes of this Act and regulations under this Act
-(1) The board may, by written notice to any person, authorise that person to perform or exercise a function, duty, or power under this Act and regulations made under this Act.
-(2) The board may only authorise a person who the board is satisfied is suitably qualified or trained to perform or exercise the function, duty, or power.
+### 23 Authorised person or class of persons for purposes of this Act and regulations under this Act
+(1) The board may, by written notice, authorise a person or class of persons to perform or exercise a function, duty, or power under this Act and regulations made under this Act.
+(2) The board may only authorise a person or class of persons if it is satisfied that the person or class of persons is suitably qualified or trained to perform or exercise the function, duty, or power.
 (3) Any authorisation made by the board is subject to any conditions or limitations specified in the notice.
 (4) However, the performance or exercise of a function, duty, or power by an authorised person is not invalid merely because it does not comply with the conditions specified in the notice.
-(5) The board may revoke an authorisation at any time by written notice to the authorised person.
+(5) The board may revoke an authorisation at any time by written notice.
 
 **Delegations by board**
 
@@ -439,9 +439,7 @@ FENZ must prepare and issue a fire plan for each local area, including policies 
 
 ### 25 Appointment to roles and ranks
 (1) The board may make appointments to roles, ranks, or positions in FENZ.
-(2) An appointee must be—
-  (a) an employee of FENZ; or
-  (b) a FENZ volunteer.
+(2) Appointees must be FENZ personnel.
 (3) An appointment in any role, rank, or position in FENZ may be held separately or in conjunction with any other role, rank, or position in FENZ.
 (4) To avoid doubt, nothing in this Act affects the ability of the board to pay gratuities to any person as—
   (a) an employee of FENZ; or
@@ -585,7 +583,7 @@ The authorised person who is in charge of personnel responding to an emergency m
 (2) The authorised person who is in charge of personnel responding to an emergency may do 1 or more of the following:
   (a) enter any land, building, or structure:
   (b) break into any building or structure that may be on fire or otherwise endangered or that is near the emergency:
-  (c) take or send any equipment or machine required to be used into, through, or upon any land, building, or structure:
+  (c) take or send any equipment or machine required to be used into, through, upon, or over any land, building, or structure:
   (d) remove from any land, building, or structure that is on fire or otherwise endangered, or that is near the emergency, any flammable, combustible, explosive, or dangerous material found in the building or structure:
   (e) cause any building or structure that is on fire or otherwise endangered, or that is adjacent to or in the vicinity of any building or structure that is on fire or otherwise endangered, to be pulled down or shored up (either in whole or in part):
   (f) cause any building or structure to be pulled down or shored up (either in whole or in part) at the time of the emergency or within a reasonable time afterwards.
@@ -855,8 +853,8 @@ FENZ and the owner or occupier of any industrial premises protected or proposed 
 
 ### 71 Powers of industry brigades
 If any industry brigade operates either on the premises for the protection of which it is maintained or outside those premises under an agreement,—
-  (a) the principal officer of the industry brigade may perform all the functions and duties and exercise all the powers of the person for the time being in charge of personnel under sections 41 to 45 if—
-    (i) no such person is present at the emergency; or
+  (a) the principal officer of the industry brigade may perform all the functions and duties and exercise all the powers of an authorised person under sections 38 to 45 if—
+    (i) no authorised person is present at the emergency; or
     (ii) the principal officer is in charge in accordance with an agreement under section 70; and
   (b) sections 160 to 162 apply with all necessary modifications.
 
@@ -894,16 +892,17 @@ FENZ may check, and require checks to be made as to, the adequacy of firefightin
 ### Subpart 4 — Evacuation schemes
 
 ### 75 Relevant building defined for purposes of sections 76 to 79
-(1) In sections 76 to 79, relevant building means a building or part of a building used for 1 or more of the following purposes:
-  (a) the gathering together, for any purpose, of 100 or more persons:
-  (b) providing employment facilities for 10 or more persons:
-  (c) providing accommodation for 6 or more persons (other than in 3 or fewer household units):
-  (d) a place where hazardous substances are present in quantities exceeding the prescribed minimum amounts, whatever the purpose for which the building is used:
-  (e) providing an early childhood education and care centre (other than in a household unit):
-  (f) providing nursing, medical, or geriatric care (other than in a household unit):
-  (g) providing specialised care for persons with disabilities (other than in a household unit):
-  (h) providing accommodation for persons under lawful detention (not being persons serving a sentence of home detention or community detention, or serving a sentence of imprisonment on home detention, or on parole subject to residential restrictions imposed under section 15 of the Parole Act 2002):
-  (i) any other prescribed purpose.
+(1) In sections 76 to 79, relevant building means—
+  (a) a building or part of a building used for 1 or more of the following purposes:
+    (i) the gathering together, for any purpose, of 100 or more persons:
+    (ii) providing employment facilities for 10 or more persons:
+    (iii) providing accommodation for 6 or more persons (other than in 3 or fewer household units):
+    (iv) providing an early childhood education and care centre (other than in a household unit):
+    (v) providing nursing, medical, or geriatric care (other than in a household unit):
+    (vi) providing specialised care for persons with disabilities (other than in a household unit):
+    (vii) providing accommodation for persons under lawful detention (not being persons serving a sentence of home detention or community detention, or serving a sentence of imprisonment on home detention, or on parole subject to residential restrictions imposed under section 15 of the Parole Act 2002):
+    (viii) any other prescribed purpose; or
+  (b) a building or part of a building (other than a household unit) where hazardous substances are present in quantities exceeding the prescribed minimum amounts, whatever the purpose for which the building is used.
 (2) However, in sections 76 to 79, relevant building does not include premises of a mission (as defined in section 2(1) of the Diplomatic Privileges and Immunities Act 1968).
 (3) In this section, early childhood education and care centre has the same meaning as in section 10(1) of the Education and Training Act 2020.
 
@@ -911,7 +910,7 @@ FENZ may check, and require checks to be made as to, the adequacy of firefightin
 (1) The owner of a relevant building must provide an evacuation scheme that is designed to enable evacuation from the scene of a fire or an alarm of fire safely to a place of safety within a reasonable time.
 (2) The owner of a relevant building must maintain an evacuation scheme that has been approved by FENZ under section 77.
 (3) However, the owner of a relevant building is not required to provide or maintain an evacuation scheme for the building if—
-  (a) the building is used for a purpose specified in section 75(1)﻿(b) or (c); and
+  (a) the building is used only for either or both of the purposes specified in section 75(1)﻿(a)﻿(ii) and (iii); and
   (b) the building has an automatic sprinkler system; and
   (c) the owner of the relevant building notifies FENZ, in writing and in the prescribed form (if any), that the building does not require an evacuation scheme.
 (4) A person who knowingly contravenes subsection (1) or (2) commits an offence and is liable on conviction,—
@@ -1666,12 +1665,12 @@ FENZ and the New Zealand Defence Force must take reasonable steps to enter into 
 ### 149 Functions, duties, and powers of Chief of Defence Force in relation to defence area
 (1) The Chief of Defence Force has, in relation to any defence area, all the functions, duties, and powers of—
   (a) the board; and
-  (b) an authorised person under sections 41 to 45.
+  (b) an authorised person under sections 38 to 45.
 (2) Subsection (1) is subject to any agreement between the Chief of Defence Force and FENZ.
 
 ### 150 Command of defence fire brigade and any other personnel
 (1) Every agreement entered into between the Chief of Defence Force and FENZ under section 148 must provide for the command of a defence fire brigade and any other FENZ personnel when they are operating together, whether in a defence area or otherwise.
-(2) If the Chief of Defence Force has been vested with a command in accordance with subsection (1) or a defence fire brigade is operating on its own outside a defence area, the Chief of Defence Force may perform all the functions and duties and exercise all the powers of the person in charge of personnel under sections 41 to 45.
+(2) If the Chief of Defence Force has been vested with a command in accordance with subsection (1) or a defence fire brigade is operating on its own outside a defence area, the Chief of Defence Force may perform all the functions and duties and exercise all the powers of the person in charge of personnel under sections 38 to 45.
 
 **Provision relating to Ministry of Education**
 
