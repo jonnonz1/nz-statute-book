@@ -1,5 +1,5 @@
 # COVID-19 Recovery (Fast-track Consenting) Act 2020
-_Consolidation as at 2021-11-03_
+_Consolidation as at 2022-11-30_
 
 ### 1 Title
 This Act is the COVID-19 Recovery (Fast-track Consenting) Act 2020.
@@ -1428,7 +1428,7 @@ Remote access hearing
     (ii) a relevant local authority:
     (iii) any person or group invited to provide comments under clause 17(2):
   (b) to prepare or commission a report (including a report from a relevant local authority) on an issue relevant to the consent application or notice of requirement.
-(2) If further information is requested under subclause (1)﻿(a), the person or body requesting the information must—
+(2) If further information is requested under subclause (1)﻿(a), the person or body requested to provide the information must—
   (a) provide electronic copies of the information or report requested; or
   (b) advise the EPA, with reasons, that it declines to provide the information or report requested.
 (3) Subclause (2) must be complied with by the date directed by the panel, which must not be later than 10 working days after the direction is given.
