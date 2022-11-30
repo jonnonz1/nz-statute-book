@@ -1,5 +1,5 @@
 # Port Companies Act 1988
-_Consolidation as at 2021-10-28_
+_Consolidation as at 2022-11-30_
 
 > An Act to promote and improve efficiency, economy, and performance in the management and operation of the commercial aspects of ports and, to this end,—ato provide for the formation of port companies to carry out port related commercial activities and control the ownership thereof; andbto establish requirements concerning the accountability and ownership of such companies and the responsibilities of Harbour Boards; andcto repeal the New Zealand Ports Authority Act 1968 and certain other enactments relating to ports and harbours
 
@@ -175,7 +175,7 @@ Nothing in this Act shall be construed as requiring the inclusion in any stateme
 Despite sections 207P to 207V of the Companies Act 1993, every port company and every subsidiary of every port company is a public entity as defined in section 4 of the Public Audit Act 2001 and, in accordance with that Act, the Auditor-General is its auditor.
 
 ### 20 Application of Act to related and associated companies
-(1) Subject to subsection (2), sections 4 (except subsections (1), (3), (6), and (7)), 5, 6, 7, 15, and 18 shall apply to every company that is—as if that company were a port company within the meaning of this Act.
+(1) Subject to subsection (2), sections 4, 5, 6, 7, 15, and 18 shall apply to every company that is—as if that company were a port company within the meaning of this Act.
   (a) a related company (as defined in section 2(3) of the Companies Act 1993) to a port company; or
   (b) a company that consists substantially of the same shareholders as the port company, or is under the control of the same persons—
 (2) Nothing in subsection (1) applies in relation to a company that the Minister notifies in writing is exempt from the provisions of that subsection.
