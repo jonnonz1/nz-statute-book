@@ -1,5 +1,5 @@
 # Family Violence Act 2018
-_Consolidation as at 2022-07-01_
+_Consolidation as at 2022-11-30_
 
 ### 1 Title
 This Act is the Family Violence Act 2018.
@@ -542,7 +542,7 @@ While an order that has been issued is in force,—
 (2) That jurisdiction is criminal jurisdiction of the District Court.
 
 ### 49 Police safety order: contravention: standard of proof
-(1) Every question of fact arising in any proceeding under section 46 or 51 must (in accordance with, but without limiting, section 171) be decided on the balance of probabilities.
+(1) Every question of fact arising in any proceeding under section 46 or 51 must be decided on the balance of probabilities.
 (2) Subsection (1) applies despite section 48 and despite any other contrary law (for example, every enactment or other law in the decision in Mark v Police [2013] NZHC 1041).
 
 ### 50 Police safety order: contravention: rules of court
@@ -1000,14 +1000,15 @@ No consent under section 91 can authorise contact inconsistent with—
 (5) An interim order made under subsection (2) should make clear how it relates to (how it operates with, overrides, or replaces all, or any parts, of) all existing relevant orders (if any) made under the Care of Children Act 2004.
 (6) An interim order made under subsection (2) must be taken to be an interim parenting order made under section 48(1) of the Care of Children Act 2004 (so that, for example,—
   (a) section 49A of that Act applies to it; and
-  (b) it may be varied or discharged under section 56 of that Act).
+  (b) it may be varied or discharged under section 56 of that Act); and
+  (c) a lawyer may be appointed under section 7 of that Act to represent a child who is the subject of proceedings under that Act for the replacement, variation, or discharge of the interim order).
 (7) This section does not limit the court’s power under section 152, in making a temporary protection order, to direct a review of the arrangements for contact between the respondent and a child of the applicant’s family.
 
 ### 106 Proceedings about interim order in respect of child of applicant’s family: legal aid
 (1) This section applies to proceedings under the Care of Children Act 2004 if—
   (a) section 105 of this Act applies, because an application has been made to the court for a protection order, and there is a child of the applicant’s family; and
   (b) the court makes under section 105(2) of this Act, and in respect of the child concerned, an interim order; and
-  (c) section 105(4) of this Act requires that interim order to be taken to be an interim parenting order made under section 48(1) of the Care of Children Act 2004; and
+  (c) section 105(6) of this Act requires that interim order to be taken to be an interim parenting order made under section 48(1) of the Care of Children Act 2004; and
   (d) the proceedings under the Care of Children Act 2004 relate to that interim order being varied, or discharged, or replaced with a further interim parenting order or with a final parenting order.
 (2) For the purposes of section 19(1) of the Legal Services Act 2011 (which contains special provisions about conditions on grants of legal aid to people involved in proceedings under this Act), proceedings to which this section applies are a kind of proceedings that relate to, or arise out of, an application for a protection order under Part 4 of the Family Violence Act 2018.
 
