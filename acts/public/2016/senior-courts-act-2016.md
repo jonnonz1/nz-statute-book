@@ -1,5 +1,5 @@
 # Senior Courts Act 2016
-_Consolidation as at 2022-09-01_
+_Consolidation as at 2022-11-30_
 
 ### 1 Title
 This Act is the Senior Courts Act 2016.
@@ -207,7 +207,8 @@ The High Court may award damages in addition to or in substitution for an injunc
   (f) regulations relating to liquidations made under the Companies Act 1993:
   (g) sections 118, 128, 131, 167, 168, 170, 179, 181, 182, and 186 of the Personal Property Securities Act 1999:
   (h) the Model Law on Cross-Border Insolvency as set out in Schedule 1 of the Insolvency (Cross-border) Act 2006:
-  (i) subpart 2 of Part 2 and sections 25 and 26(1) and (2) of the Contempt of Court Act 2019.
+  (i) subpart 2 of Part 2 and sections 25 and 26(1) and (2) of the Contempt of Court Act 2019:
+  (j) section 89 of the Limited Partnerships Act 2008.
 (3) An Associate Judge may adjourn a proceeding even though the Associate Judge does not have jurisdiction in relation to the proceeding.
 (4) An Associate Judge has the jurisdiction and powers of the court to deal with costs and other matters incidental to the matters over which the Associate Judge has jurisdiction under this section.
 (5) Rules made under section 148 or under any other Act in the same manner as rules under that section may contain any provisions that may be necessary to enable the proper exercise by Associate Judges of the jurisdiction and powers conferred by this section.
@@ -365,6 +366,20 @@ A witness is not required to attend the hearing of a civil proceeding in the Hig
 (5) If the person to be examined fails, without reasonable excuse, to comply with the order or wilfully obstructs the medical examination, the High Court may—
   (a) stay the proceeding; or
   (b) strike out a notice, statement, or other document filed, or a step taken, in the proceeding by the person to be examined.
+
+### 44A Execution of instruments by order of High Court
+(1) This section applies if a person fails to comply, before a date specified by the court or, if no date is specified, within a reasonable time, with a judgment or order of the High Court directing the person to—
+  (a) execute a conveyance, contract, or other document; or
+  (b) endorse a negotiable instrument.
+(2) The High Court may, on application and on the terms it thinks just, make an order directing another person, who it nominates for the purpose, to—
+  (a) execute the conveyance, contract, or other document; or
+  (b) endorse the negotiable instrument.
+(3) The nominee must execute the conveyance, contract, or other document, or endorse the negotiable instrument, before the date specified by the court, or, if no date is specified, within a reasonable time.
+(4) A conveyance, contract, document, or instrument executed or endorsed by the nominee operates and is effective as if the person referred to in subsection (1) had made the execution or endorsement.
+(5) The exercise of the High Court’s power in subsection (2) does not—
+  (a) affect a proceeding already commenced in a court; or
+  (b) invalidate anything that was previously lawful; or
+  (c) validate anything previously declared invalid in any proceeding.
 
 ## Part 3 — Court of Appeal
 
@@ -906,9 +921,11 @@ When a person who is a Judge of the High Court is appointed a Judge of the Court
 ### 114 Appointment of acting Associate Judges
 (1) The Governor-General may, on the advice of the Attorney-General, appoint 1 or more acting Associate Judges.
 (2) A person is eligible for appointment under subsection (1) if the person—
-  (a) is eligible under section 94 to be appointed an Associate Judge and is under the age of 75 years; or
-  (b) is a District Court Judge; or
-  (c) has retired or resigned from office as a District Court Judge.
+  (a) is a District Court Judge; or
+  (b) is under the age of 75 years and has retired or resigned from office as—
+    (i) an Associate Judge; or
+    (ii) a District Court Judge.
+  (c)
 (3) An appointment under subsection (1) may be made because of the illness or absence of any Associate Judge, or for any other temporary purpose.
 (4) During the term of his or her appointment, an acting Associate Judge may only act to the extent authorised by the Chief High Court Judge.
 (5) An acting Associate Judge may be authorised by the Chief High Court Judge to—
@@ -1093,8 +1110,8 @@ An acting Judge or acting Associate Judge, while acting as a member of a court t
   (b) the allowances referred to in section 135(1)﻿(c) payable to a Judge of that court (other than the head of that court) or an Associate Judge.
 
 ### 138 Superannuation of acting Judges
-(1) A superannuation subsidy must not be paid to a person who is appointed as an acting Judge or acting Associate Judge under section 111, 112, 113(2)﻿(a), or 114(2)﻿(c) (which relate to retired Judges and Judges who have resigned from office).
-(2) A person who is appointed as an acting Judge or acting Associate Judge under section 110, 113(2)﻿(b), or 114(2)﻿(b) (which relate to serving Judges) must not be paid a superannuation subsidy at a rate that is higher than the rate that would have been payable calculated only on the basis of the person’s permanent appointment.
+(1) A superannuation subsidy must not be paid to a person who is appointed as an acting Judge or acting Associate Judge under section 111, 112, 113(2)﻿(a), or 114(2)﻿(b) (which relate to retired Judges and Judges who have resigned from office).
+(2) A person who is appointed as an acting Judge or acting Associate Judge under section 110, 113(2)﻿(b), or 114(2)﻿(a) (which relate to serving Judges) must not be paid a superannuation subsidy at a rate that is higher than the rate that would have been payable calculated only on the basis of the person’s permanent appointment.
 (3) Subsection (1) does not apply to a compulsory employer contribution within the meaning of section 101A of the KiwiSaver Act 2006.
 
 ### 139 Superannuation or retiring allowances of Associate Judges
