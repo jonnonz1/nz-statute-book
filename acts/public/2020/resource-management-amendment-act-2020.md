@@ -1,5 +1,5 @@
 # Resource Management Amendment Act 2020
-_Consolidation as at 2020-06-30_
+_Consolidation as at 2022-11-30_
 
 ### 1 Title
 This Act is the Resource Management Amendment Act 2020.
