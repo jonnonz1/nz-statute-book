@@ -1,5 +1,5 @@
 # Anti-Money Laundering and Countering Financing of Terrorism Act 2009
-_Consolidation as at 2022-07-01_
+_Consolidation as at 2022-11-30_
 
 ### 1 Title
 This Act is the Anti-Money Laundering and Countering Financing of Terrorism Act 2009.
@@ -226,7 +226,7 @@ This Act is the Anti-Money Laundering and Countering Financing of Terrorism Act 
       (iii) the Misuse of Drugs Act 1975:
       (iv) the Terrorism Suppression Act 2002:
       (v) the Mutual Assistance in Criminal Matters Act 1992:
-      (vi) the Customs and Excise Act 1996:
+      (vi) the Customs and Excise Act 2018:
       (vii) the Russia Sanctions Act 2022:
     (c) the performance by the New Zealand Security Intelligence Service or the Government Communications Security Bureau of its functions under the Intelligence and Security Act 2017:
     (d) the detection and prevention of the harms specified in section 58(2) of the Intelligence and Security Act 2017:
@@ -924,7 +924,7 @@ Sections 43 to 48 apply, with all necessary modifications, to prescribed transac
   (e) if applicable, the facility through which the transaction was conducted, and any other facilities (whether or not provided by the reporting entity) directly involved in the transaction:
   (f) the name of the officer or employee or agent of the reporting entity who handled the transaction, if that officer, employee, or agent—
     (i) has face-to-face dealings in respect of the transaction with any of the parties to the transaction; and
-    (ii) has formed a suspicion (of the kind referred to in section 40(1)﻿(b)) about the transaction:
+    (ii) has formed a suspicion (of the kind referred to in paragraph (b) of the definition of suspicious activity in section 39A) about the transaction:
   (g) any other information prescribed by regulations.
 (3) A reporting entity must retain the records kept by that reporting entity, in accordance with this section, in relation to a transaction for—
   (a) a period of at least 5 years after the completion of that transaction; or
@@ -1678,12 +1678,12 @@ An AML/CFT supervisor may only use information obtained under section 137 if the
 (3) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 140 Power to use and disclose information supplied or obtained under other enactments for AML/CFT purposes
-(1) A government agency or an AML/CFT supervisor may disclose to any other AML/CFT supervisor or government agency any information supplied or obtained under an enactment listed in subsection (2) if the disclosing entity has reasonable grounds to believe that the disclosure of that information is necessary or desirable for the purpose of ensuring compliance with this Act and regulations.
+(1) A government agency, an AML/CFT supervisor, or a regulator may disclose to another government agency or AML/CFT supervisor any information supplied or obtained under an enactment listed in subsection (2) if the disclosing entity has reasonable grounds to believe that the disclosure of that information is necessary or desirable for the purpose of ensuring compliance with this Act and regulations.
 (2) The enactments referred to in subsection (1) are—
   (a) the Charities Act 2005:
   (b) the Companies Act 1993:
-  (c) the Customs and Excise Act 2018:
-  (d) the Customs and Excise Act 1996:
+  (c) the Criminal Proceeds (Recovery) Act 2009:
+  (d) the Customs and Excise Act 2018:
   (e)
   (f) the Financial Markets Authority Act 2011:
   (g) the Financial Markets Conduct Act 2013:
@@ -1745,8 +1745,8 @@ The financial intelligence functions of the Commissioner are to—
 
 ### 144 Delegation of powers of Commissioner
 (1) The Commissioner may from time to time in writing, either generally or particularly, delegate to a constable of a level of position not less than inspector or an equally senior or more senior Police employee the Commissioner's powers under section 143(1)﻿(a).
-(2) Where any constable exercises any power conferred under subsection (1), that constable must, within 5 days after the day on which the constable exercises the power, give the Commissioner a written report on the exercise of that power and the circumstances in which it was exercised.
-(3) A constable who purports to perform a power under a delegation—
+(2) Where any constable or Police employee exercises any power conferred under subsection (1), that constable or Police employee must, within 5 days after the day on which the constable or Police employee exercises the power, give the Commissioner a written report on the exercise of that power and the circumstances in which it was exercised.
+(3) A constable or Police employee who purports to perform a power under a delegation—
   (a) is, in the absence of proof to the contrary, presumed to do so in accordance with the terms of that delegation; and
   (b) must produce evidence of his or her authority to do so, if reasonably requested to do so.
 (4) Every delegation under this section is revocable at will and does not prevent the exercise of any power by the Commissioner.
