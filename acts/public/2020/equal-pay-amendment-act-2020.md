@@ -1,5 +1,5 @@
 # Equal Pay Amendment Act 2020
-_Consolidation as at 2020-08-07_
+_Consolidation as at 2022-11-30_
 
 ### 1 Title
 This Act is the Equal Pay Amendment Act 2020.
@@ -735,7 +735,7 @@ Replace section 18 with:Penalty for non-complianceProceedings by Labour Inspecto
 (1) In section 19, after administration, insert , including regulations for the following purposes:, and insert:
   (a) prescribing matters that must be taken into account when assessing a pay equity claim; and
   (b) prescribing matters that must be taken into account when identifying comparable work under section 13ZE.
-(2) Regulations may not be made under this section that require the comparators against which a pay equity claim is to be assessed to be ranked or weighted.
+(2)
 
 ### 25 New Schedules 1 and 2 inserted
 Insert the Schedules 1 and 2 set out in Schedule 1 of this Act as the first and second schedules to appear after the last section of the principal Act.
