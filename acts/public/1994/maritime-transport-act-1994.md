@@ -1,5 +1,5 @@
 # Maritime Transport Act 1994
-_Consolidation as at 2022-07-01_
+_Consolidation as at 2022-11-30_
 
 > An Act—ato continue Maritime New Zealand; andbto enable the implementation of New Zealand’s obligations under international maritime agreements; andcto ensure that participants in the maritime transport system are responsible for their actions; anddto consolidate and amend maritime transport law; andefto protect the marine environment; andgto continue, or enable, the implementation of obligations on New Zealand under various international conventions relating to pollution of the marine environment; andhto regulate maritime activities in New Zealand and New Zealand waters; andito regulate maritime activities and the marine environment in the exclusive economic zone and on the continental shelf as permitted under international law
 
@@ -981,7 +981,6 @@ In this Part, unless the context otherwise requires,—
     (a) a document outlining the safety management system of the ship:
     (b) a document outlining the shipboard procedures for the ship:
     (c) the employment contract for an individual seafarer
-  - **doctor's surgery** means a medical practitioner's surgery or any other place where a medical examination or medical care or treatment is carried out or given, including (but not limited to) a place on board a ship
   - **enforcement officer** means—
     (a) a constable:
     (b) a Police employee (other than a constable) who is authorised for the purpose by the Commissioner
@@ -989,6 +988,7 @@ In this Part, unless the context otherwise requires,—
   - **evidential breath-testing device** has the same meaning as in section 2(1) of the Land Transport Act 1998
   - **hospital** means a hospital care institution within the meaning of section 58(4) of the Health and Disability Services (Safety) Act 2001
   - **lawyer** has the same meaning as in section 6 of the Lawyers and Conveyancers Act 2006
+  - **medical centre** means any place where a medical examination or medical care or treatment is carried out or given, including a place on board a ship
   - **medical expenses** means the expenses incurred by a medical practitioner or medical officer in taking a blood specimen
   - **medical officer** means—
     (a) a person acting in a hospital and who, in the normal course of the person's duties, takes blood specimens; or
@@ -1050,7 +1050,7 @@ A seafarer may not perform, or attempt to perform, designated safety, security, 
 (1) An enforcement officer may require a seafarer to undergo a breath screening test without delay if—
   (a) the officer has good cause to suspect that the seafarer has recently committed an offence against section 40C; or
   (b) a safety, security, or marine environmental incident involving the use of the ship has occurred while the seafarer was performing designated safety, security, or marine environmental duties and the officer has good cause to suspect that alcohol was a contributing factor.
-(2) An enforcement officer may not require a seafarer who is in a hospital or doctor's surgery as a result of a safety, security, or marine environmental incident involving the use of a ship to undergo a breath screening test.
+(2) An enforcement officer may not require a seafarer who is in a hospital or medical centre as a result of a safety, security, or marine environmental incident involving the use of a ship to undergo a breath screening test.
 (3) A seafarer who has undergone a breath screening test under this section must remain at the place where the seafarer underwent the test until after the result of the test is ascertained, and an enforcement officer may arrest the seafarer without warrant if the seafarer refuses or fails to remain at that place.
 (4) If an enforcement officer may require a seafarer to undergo a breath screening test, the enforcement officer may also require that seafarer to undergo a test using a passive breath-testing device by holding a passive breath-testing device near the seafarer's mouth for the purpose of ascertaining whether or not there is any alcohol in the seafarer's breath.
 (5) The use or non-use of a passive breath-testing device does not of itself affect the validity of a breath screening test.
@@ -1074,7 +1074,7 @@ A seafarer may not perform, or attempt to perform, designated safety, security, 
   (b) if the seafarer has accompanied an enforcement officer to a place under this section, remain at that place until the seafarer is required either to undergo an evidential breath test or a blood test under this Part, or to accompany an enforcement officer to another place under this section:
   (c) if the seafarer has undergone an evidential breath test under this section, remain at the place where the seafarer underwent the test until after the result of the test is ascertained.
 (6) An enforcement officer may arrest without warrant a seafarer who contravenes subsection (5).
-(7) An enforcement officer may not require a seafarer who is in a hospital or doctor's surgery as a result of a safety, security, or marine environmental incident involving the use of a ship to undergo an evidential breath test.
+(7) An enforcement officer may not require a seafarer who is in a hospital or medical centre as a result of a safety, security, or marine environmental incident involving the use of a ship to undergo an evidential breath test.
 
 ### 40J Seafarer may be required to undergo further evidential breath test if initial test fails to produce result
 (1) If for any reason an evidential breath test carried out under section 40I fails to produce a result, the enforcement officer may, at his or her discretion, either require the seafarer to undergo without delay a further evidential breath test or proceed as if section 40L(1)﻿(c) applies.
@@ -1103,21 +1103,21 @@ If the result of a seafarer's evidential breath test appears to be positive, the
   (a) fails or refuses to accompany an enforcement officer to a place when required to do so under this section; or
   (b) having accompanied an enforcement officer to a place under this section, fails or refuses to remain at that place until requested by a medical practitioner or medical officer to permit a blood specimen to be taken under this section.
 
-### 40M Who must give blood specimen in hospital or surgery
-(1) A person who is under examination, care, or treatment in a hospital or doctor's surgery must permit a blood specimen to be taken from the person by—
+### 40M Who must give blood specimen in hospital or medical centre
+(1) A person who is under examination, care, or treatment in a hospital or medical centre must permit a blood specimen to be taken from the person by—
   (a) the medical practitioner who is in immediate charge of the examination, care, or treatment of the person; or
   (b) another medical practitioner or a medical officer.
-(2) If a person under examination, care, or treatment in a hospital or doctor's surgery is unconscious, a blood specimen may be taken from the person under this section by—
+(2) If a person under examination, care, or treatment in a hospital or medical centre is unconscious, a blood specimen may be taken from the person under this section by—
   (a) the medical practitioner who is in immediate charge of the examination, care, or treatment of the person; or
   (b) another medical practitioner or a medical officer.
-(3) Whether or not a person has consented to the taking of the specimen and whether or not the person is capable of giving consent, the medical practitioner who is in immediate charge of the examination, care, or treatment of the person in a hospital or doctor's surgery—
+(3) Whether or not a person has consented to the taking of the specimen and whether or not the person is capable of giving consent, the medical practitioner who is in immediate charge of the examination, care, or treatment of the person in a hospital or medical centre—
   (a) may take a blood specimen or cause a blood specimen to be taken by another medical practitioner or a medical officer; and
   (b) must either take a blood specimen or cause a blood specimen to be taken by another medical practitioner or a medical officer, if an enforcement officer requests him or her to do so.
 (4) If the specimen originally taken is insufficient for the purposes of the relevant blood specimen collecting procedure, the medical practitioner who is in immediate charge of the examination, care, or treatment of the person may take or cause to be taken by another medical practitioner or a medical officer a further blood specimen (which further specimen is for the purposes of this Part to be treated as a part of the original blood specimen taken from the person), whether or not the person has consented to the taking of the specimen and whether or not the person is capable of giving consent.
 (5) Despite subsections (1) to (4), a blood specimen may be taken from a person under any provision of this section only if the medical practitioner or medical officer—
   (a) has reasonable grounds to suspect that the person—
     (i) is a seafarer; and
-    (ii) is in the hospital or doctor's surgery as a result of—
+    (ii) is in the hospital or medical centre as a result of—
       (A) an accident or incident involving the use of a ship:
       (B) an injury or a medical condition arising subsequent to an accident or incident involving the use of a ship; and
   (b) has examined the person and is satisfied that the taking of the blood specimen would not be prejudicial to the person's proper care or treatment; and
@@ -1160,11 +1160,11 @@ If the result of a seafarer's evidential breath test appears to be positive, the
   (d) each container was received by the medical practitioner or medical officer in a sealed blood specimen collecting kit; and
   (e) the medical practitioner or medical officer handed each container to an enforcement officer named in the certificate.
 (3) This section also applies to a certificate purporting to be signed by a medical practitioner and certifying that—
-  (a) the person named in the certificate was in a hospital or doctor's surgery; and
+  (a) the person named in the certificate was in a hospital or medical centre; and
   (b) the medical practitioner, being a medical practitioner in immediate charge of the examination, care, or treatment of that person, took a blood specimen or caused a blood specimen to be taken by any other medical practitioner or any medical officer from the person under section 40M; and
   (c) the medical practitioner has reasonable grounds to suspect that the person—
     (i) is a seafarer; and
-    (ii) was in the hospital or doctor's surgery as a result of—
+    (ii) was in the hospital or medical centre as a result of—
       (A) an accident or incident involving a ship:
       (B) an injury or a medical condition arising subsequent to an accident or incident involving the use of a ship; and
   (d) before taking the blood specimen or causing the blood specimen to be taken from the person, the medical practitioner examined the person and was satisfied that the taking of the blood specimen would not be prejudicial to the person's proper care or treatment; and
@@ -1314,7 +1314,7 @@ In this Part, unless the context otherwise requires,—
   (d) ask for the worker’s consent before testing the worker; and
   (e) give the worker a written statement that contains the information and other matters set out in subsection (6).
 (6) The statement required under subsection (5)﻿(e) must contain the following:
-  (a) the matters set out in the document referred to in subsection (5)﻿(b):
+  (a) the matters set out in the document referred to in subsection (5)﻿(a):
   (b) the purpose of the test:
   (c) a general description of how the test will be carried out, including how the bodily sample will be taken and how it will be analysed:
   (d) an explanation of the consequences of refusing to consent or of the worker’s test returning a result other than a negative result:
@@ -2519,7 +2519,7 @@ Every person who receives any maritime levy shall, on demand, issue to the perso
 
 ### 200A Minister may notify maritime event where special enforcement powers exercisable
 (1) On application made by—the Minister may, by notice in the Gazette, declare a major maritime event or occasion to be an event or occasion to which section 200B applies.
-  (a) a regional council that has navigational safety jurisdiction over the area or areas concerned under the Local Government Act 1974; or
+  (a) a regional council that has navigational safety jurisdiction over the area or areas concerned under Part 3A; or
   (b) any other person or organisation, if no regional council has such jurisdiction in that case,—
 (2) A notice under subsection (1)—
   (a) must describe the event or occasion to which it applies; and
