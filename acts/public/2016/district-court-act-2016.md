@@ -1,5 +1,5 @@
 # District Court Act 2016
-_Consolidation as at 2022-09-01_
+_Consolidation as at 2022-12-01_
 
 ### 1 Title
 This Act is the District Court Act 2016.
@@ -73,6 +73,9 @@ In this Act, unless the context otherwise requires,—
     (b) the day observed as the anniversary day of the former province in which the relevant office of the court is located; or
     (c) if Waitangi Day or Anzac Day falls on a Saturday or a Sunday, the following Monday; or
     (d) a day in the period commencing on 25 December in a year and ending on 15 January in the following year.
+
+### 4A Transitional, savings, and related provisions
+The transitional, savings, and related provisions set out in Schedule 1AA have effect according to their terms.
 
 ### 5 Act binds the Crown
 This Act binds the Crown.
@@ -464,20 +467,18 @@ A person may be appointed as Chief Community Magistrate if he or she has held a 
 **Remuneration**
 
 ### 60 Remuneration of Chief Community Magistrate and Community Magistrates
-(1) The Chief Community Magistrate must be paid, out of public money, without further appropriation than this section,—
-  (a) a salary or a fee, or an allowance, at the rate determined by the Remuneration Authority; and
+(1) The Chief Community Magistrate and each Community Magistrate must be paid, out of public money, without further appropriation than this section,—
+  (a) a salary, or a fee, or an allowance, at the rate determined by the Remuneration Authority; and
   (b) any additional allowances, such as travelling allowances or other incidental or minor allowances, as determined by the Governor-General by Order in Council.
-(2) Each Community Magistrate must be paid, out of public money, without further appropriation than this section,—
-  (a) a salary, or a fee, or an allowance at the rate determined by the Governor-General by Order in Council; and
-  (b) any additional allowances, such as travelling allowances or other incidental or minor allowances, as determined by the Governor-General by Order in Council.
-(2A) An Order in Council made under subsection (1)﻿(b) or (2), or a provision of any such order, may be made so as to come into force on a specified date that is—
+(2) An Order in Council made under subsection (1)﻿(b), or a provision of any such order, may be made so as to come into force on a specified date that is—
   (a) the date on which the order is made; or
   (b) any other date, whether that date is before or after the date on which the order is made.
-(2B) If no date is specified under subsection (2A) for the coming into force of an Order in Council or a provision of any such order, the order or provision comes into force on the date on which the order is made.
-(3) An order under subsection (1)﻿(b) or (2) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements) and comes into force in accordance with subsection (2A) or (2B) even if it is not yet published.
+(3) If no date is specified under subsection (2), the order or provision comes into force on the date on which the order is made.
+(4) An order under subsection (1)﻿(b) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements) and comes into force in accordance with subsection (2) or (3) even if it is not yet published.
 
-### 61 Remuneration of acting Community Magistrate
-For the period that an acting Community Magistrate acts as authorised under section 59, the acting Community Magistrate must be paid the salary, fee, and allowances determined for a Community Magistrate under section 60.
+### 61 Remuneration of acting Chief Community Magistrate and acting Community Magistrates
+(1) For the period during which an acting Chief Community Magistrate acts as authorised under section 56, the acting Chief Community Magistrate must be paid the salary, fee, or allowances determined for a Chief Community Magistrate under section 60(1).
+(2) For the period during which an acting Community Magistrate acts as authorised under section 59, the acting Community Magistrate must be paid the salary, fee, or allowances determined for a Community Magistrate under section 60(1).
 
 **Registrars, bailiffs, and other officers of court**
 
@@ -508,7 +509,7 @@ For the period that an acting Community Magistrate acts as authorised under sect
 ### 66 Appointment of bailiffs
 (1) Bailiffs and deputy bailiffs may be appointed under the Public Service Act 2020 for the exercise of the powers and performance of duties of bailiffs set out in section 68.
 (2) A Judge may authorise a constable or other person to act on a particular occasion as a bailiff.
-(3) A bailiff must take an oath of office in the following form (or make an affirmation as provided by section 4 of the Oaths and Declarations Act 1957):English form“I, [name], swear that I will faithfully and diligently serve Her (or His) Majesty [specify the name of the reigning Sovereign, as in Queen Elizabeth the Second], Queen (or King) of New Zealand, her (or his) heirs and successors, as a bailiff at [place], without favour or affection, malice or ill-will. While I hold this office I will, to the best of my power, keep the peace and prevent offences against the peace and will, to the best of my skill and knowledge, perform all the duties of the office of bailiff according to law. So help me God.”Māori form“Tēnei au, a [ingoa], e kī taurangi nei, ka rato pirihonga, urupū hoki ahau i Ia Arikinui [tohua te ingoa o te Arikinui kei runga i te torona, pērā ki a Kuini Irahāpeti te Tuarua], Kuini (Kīngi rānei) o Niu Tīreni, me ōna uri whakaheke, hei kaituku hāmene ki [wāhi] i roto i te kore tautoko, kore aroha rānei, kore mahi kino, kore whakaaro kino rānei. I te wā ke tēnei tūranga ahau ka pōkaikaha ahau ki te hohou i te rongo me te kaupare atu i nga mahi kotikoti i te rongo, ā, i roto i ōku tino pūkenga me ōku mōhio, ka whakatutuki i ngā mahi kua whakaritea hei mahi mā te kaituku hāmene, e ai ki te ture. Nō reira, āwhina mai i ahau e te Atua.”
+(3) A bailiff must take an oath of office in the following form (or make an affirmation as provided by section 4 of the Oaths and Declarations Act 1957):English form“I, [name], swear that I will faithfully and diligently serve His (or Her) Majesty [specify the name of the reigning Sovereign, as in King Charles the Third], King (or Queen) of New Zealand, his (or her) heirs and successors, as a bailiff at [place], without favour or affection, malice or ill-will. While I hold this office I will, to the best of my power, keep the peace and prevent offences against the peace and will, to the best of my skill and knowledge, perform all the duties of the office of bailiff according to law. So help me God.”Māori form“Tēnei au, a [ingoa], e kī taurangi nei, ka rato pirihonga, urupū hoki ahau i Ia Arikinui [tohua te ingoa o te Arikinui kei runga i te torona, pērā ki a Kīngi Tiāre te Tuatoru], Kīngi (Kuini rānei) o Niu Tīreni, me ōna uri whakaheke, hei kaituku hāmene ki [wāhi] i roto i te kore tautoko, kore aroha rānei, kore mahi kino, kore whakaaro kino rānei. I te wā ke tēnei tūranga ahau ka pōkaikaha ahau ki te hohou i te rongo me te kaupare atu i nga mahi kotikoti i te rongo, ā, i roto i ōku tino pūkenga me ōku mōhio, ka whakatutuki i ngā mahi kua whakaritea hei mahi mā te kaituku hāmene, e ai ki te ture. Nō reira, āwhina mai i ahau e te Atua.”
 
 ### 67 Appointment of deputy bailiffs
 (1) A Judge may—
@@ -1279,7 +1280,7 @@ An employer commits an offence, and is liable on conviction to a fine not exceed
       (i) out of the Government Superannuation Fund, the Government Superannuation Fund Authority:
       (ii) out of the National Provident Fund, the Board of Trustees of the National Provident Fund
   - **servant of the Crown** —
-    (a) means a person in the service of Her Majesty in respect of the Government of New Zealand:
+    (a) means a person in the service of the Sovereign in respect of the Government of New Zealand:
     (b) includes a person in temporary or casual service:
     (c) does not include a person in honorary service:
     (d) includes any person serving in any of the New Zealand Armed Forces:
@@ -2069,6 +2070,17 @@ The enactments specified in Schedule 2 are consequentially amended in the manner
 
 ### 262 Transitional, savings, and related provisions
 The transitional, savings, and related provisions set out in Schedule 3 have effect according to their terms.
+
+## Schedule 1AA — Transitional, savings, and related provisions
+
+### Part 1 — Provision relating to Remuneration Authority Legislation Act 2022
+
+### 1 Remuneration of Chief Community Magistrate and Community Magistrates
+(1) A person who immediately before the commencement date held office as the Chief Community Magistrate or a Community Magistrate continues to be paid the same amount of remuneration and allowances that applied to that office immediately before that date, until new remuneration and allowances are determined by the Remuneration Authority under section 60(1)﻿(a).
+(2) In this clause,—
+  - **Chief Community Magistrate** includes an Acting Chief Community Magistrate appointed under section 56
+  - **commencement date** means the date on which the Remuneration Authority Legislation Act 2022 comes into force
+  - **Community Magistrate** includes an acting Community Magistrate appointed under section 57.
 
 ## Schedule 1 — Categories of information for purposes of sections 236 and 237 (District Court)
 
