@@ -1,5 +1,5 @@
 # Equal Pay Act 1972
-_Consolidation as at 2022-11-30_
+_Consolidation as at 2022-12-01_
 
 > An Act to make provision for the removal and prevention of discrimination, based on the sex of the employees, in the rates of remuneration of males and females in paid employment, and for matters incidental thereto
 
@@ -645,6 +645,10 @@ General
 ### 13ZN Relationship between pay equity claims and collective bargaining
 (1) The entry into a collective agreement in accordance with the collective bargaining provisions of the Employment Relations Act 2000 by an employer and a union does not settle or extinguish an unsettled pay equity claim to which the employer is a party.
 (2) The existence of an unsettled pay equity claim between an employer and an employee, or of an uncompleted review of a pay equity claim settlement, is not a genuine reason for failing to conclude collective bargaining between that employer and a union representing the employer’s employees for the purposes of section 33 of the Employment Relations Act 2000.
+
+### 13ZNA Relationship between pay equity claims and fair pay agreements
+(1) Bargaining for a proposed agreement or a proposed variation, or the validation of a fair pay agreement under the Fair Pay Agreements Act 2022 that covers 1 or more covered employers and 1 or more covered employees does not settle or extinguish an unsettled pay equity claim to which 1 of those employers is a party.
+(2) In subsection (1), bargaining, covered employee, covered employer, fair pay agreement, proposed agreement, and proposed variation have the meanings given in section 5(1) of the Fair Pay Agreements Act 2022.
 
 **Mediation**
 
