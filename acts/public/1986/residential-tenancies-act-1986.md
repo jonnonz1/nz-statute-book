@@ -1,5 +1,5 @@
 # Residential Tenancies Act 1986
-_Consolidation as at 2022-11-30_
+_Consolidation as at 2022-12-01_
 
 > An Act to reform and restate the law relating to residential tenancies, to define the rights and obligations of landlords and tenants of residential properties, to establish a tribunal to determine expeditiously disputes arising between such landlords and tenants, to establish a fund in which bonds payable by such tenants are to be held, and to repeal the Tenancy Act 1955 and the Rent Appeal Act 1973 and their amendments
 
@@ -1887,11 +1887,13 @@ A boarding house tenancy terminates 48 hours after the death of a sole tenant un
 (8) In this section, Tenancy Adjudicator includes the Principal Tenancy Adjudicator and the Deputy Principal Tenancy Adjudicator.
 
 ### 69 Remuneration of Tenancy Adjudicators
-(1) There shall be paid to the Principal Tenancy Adjudicator and the Deputy Principal Tenancy Adjudicator remuneration by way of salary, fees, or otherwise, and allowances and expenses, at such rate as the Remuneration Authority may from time to time determine in accordance with the Remuneration Authority Act 1977.
-(2) There shall be paid to each Tenancy Adjudicator (other than the Principal Tenancy Adjudicator and the Deputy Principal Tenancy Adjudicator) remuneration by way of salary, fees, or otherwise, and allowances and expenses, at such rate as the Minister of Finance, from time to time determines by written instrument, and different forms of remuneration and different rates may be so determined for different classes of Tenancy Adjudicators.
-(3) The remuneration of a Tenancy Adjudicator shall not be diminished during the continuance of the Tenancy Adjudicator's appointment.
-(4) Any determination under subsection (2), and any provision of any such determination, may be made so as to come into force on a date to be specified in that behalf in the determination, being the date of the making of the determination or any other date, whether before or after the date of the making of the determination.
-(5) Every such determination, and every provision of any such determination, in respect of which no date is specified under subsection (4) shall come into force on the date of the making of the determination.
+(1) Each Tenancy Adjudicator—
+  (a) must be paid a salary, or a fee, or an allowance, at the rate determined by the Remuneration Authority; and
+  (b) must be paid any additional allowances (including travelling allowances and expenses) in accordance with the Fees and Travelling Allowances Act 1951.
+(2) Expenses may be incurred, without further appropriation than this section, to meet the salaries, fees, or allowances determined under subsection (1)﻿(a).
+(3) For the purposes of subsection (1)﻿(b), the Fees and Travelling Allowances Act 1951 applies as if each Tenancy Adjudicator were a member of a statutory Board as defined in section 2 of that Act.
+(4) The remuneration of a Tenancy Adjudicator must not be reduced during the term of the Tenancy Adjudicator’s appointment.
+(5) In this section, Tenancy Adjudicator includes the Principal Tenancy Adjudicator and the Deputy Principal Tenancy Adjudicator.
 
 ### 70 Tenancy Adjudicators to be protected
 Every Tenancy Adjudicator, in the performance of the Tenancy Adjudicator's duties under this Act, shall have and enjoy the same protection as Justices of the Peace acting in their criminal jurisdiction have and enjoy under sections 4A to 4F of the Justices of the Peace Act 1957.
@@ -1912,7 +1914,7 @@ Every Tenancy Adjudicator, in the performance of the Tenancy Adjudicator's dutie
   (d) does not prevent the performance or exercise of a function, duty, or power by the Principal Tenancy Adjudicator.
 (3) A person to whom any functions, duties, or powers are delegated may perform or exercise them in the same manner and with the same effect as if they had been conferred directly by this Act and not by delegation.
 (4) A person who appears to act under a delegation is presumed to be acting in accordance with its terms in the absence of evidence to the contrary.
-(5) A person to whom any functions, duties, or powers are delegated must be paid remuneration and expenses (if any) determined in accordance with section 69(1) for work undertaken in that capacity.
+(5) A person to whom any functions, duties, or powers are delegated must be paid remuneration and expenses (if any) determined in accordance with section 69 for work undertaken in that capacity.
 
 ### 72 Registrars
 (1) Every Registrar, and every Deputy Registrar, of the District Court is a Registrar of the Tribunal.
@@ -3456,6 +3458,16 @@ Any action taken before the enactment or commencement of the COVID-19 Response (
 ### 39 Transitional provision relating to repeal of Schedule 5
 (1) Any order that is made under clause 3 of Schedule 5, and that is in force when Schedule 5 is repealed, is revoked on that repeal.
 (2) The repeal of Schedule 5 does not affect the application of clauses 6 to 13 of Schedule 5 in relation to any tenancy affected, before the repeal, by the operation of Schedule 5 or by anything done under Schedule 5.
+
+### Part 7 — Provision relating to Remuneration Authority Legislation Act 2022
+
+### 40 Remuneration of Principal Tenancy Adjudicator, Deputy Principal Tenancy Adjudicator, and Tenancy Adjudicators
+(1) A person who immediately before the commencement date held office as the Principal Tenancy Adjudicator, the Deputy Principal Tenancy Adjudicator, or a Tenancy Adjudicator continues to be paid the same amount of remuneration and allowances that applied to that office immediately before that date, until new remuneration and allowances are determined by the Remuneration Authority under section 69(1)﻿(a).
+(2) In this clause,—
+  - **commencement date** means the date on which the Remuneration Authority Legislation Act 2022 comes into force
+  - **Deputy Principal Tenancy Adjudicator** includes an acting Deputy Principal Tenancy Adjudicator appointed under section 67A
+  - **Principal Tenancy Adjudicator** includes an acting Principal Tenancy Adjudicator appointed under section 67A
+  - **Tenancy Adjudicator** includes an acting Tenancy Adjudicator appointed under section 67A.
 
 ## Schedule 1 — Clauses for rent increases in fixed-term tenancy agreements
 
