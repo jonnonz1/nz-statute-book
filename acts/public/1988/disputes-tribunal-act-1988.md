@@ -1,5 +1,5 @@
 # Disputes Tribunal Act 1988
-_Consolidation as at 2021-10-28_
+_Consolidation as at 2022-12-01_
 
 ### 1 Title and commencement
 (1) This Act is the Disputes Tribunal Act 1988.
@@ -114,7 +114,7 @@ The Minister may from time to time, by notice in the Gazette,—
   (d) does not prevent the performance or exercise of a function, duty, or power by the Principal Disputes Referee.
 (3) A person to whom any functions, duties, or powers are delegated may perform or exercise them in the same manner and with the same effect as if they had been conferred directly by this Act and not by delegation.
 (4) A person who appears to act under a delegation is presumed to be acting in accordance with its terms in the absence of evidence to the contrary.
-(5) A person to whom any functions, duties, or powers are delegated must be paid remuneration and expenses (if any) determined in accordance with section 8A for work undertaken in that capacity.
+(5) A person to whom any functions, duties, or powers are delegated must be paid remuneration and expenses (if any) determined in accordance with section 9 for work undertaken in that capacity.
 
 ### 7 Appointment of Referees
 (1) The Governor-General may, from time to time, by warrant under the Governor-General's hand, appoint qualified persons to be Referees for the purposes of this Act.
@@ -148,11 +148,14 @@ The Minister may from time to time, by notice in the Gazette,—
   (b) advise the Minister that it makes no recommendation for appointment or reappointment in that particular case.
 
 ### 8A Salary and allowances of Principal Disputes Referee
-(1) The Principal Disputes Referee is to be paid such remuneration as may from time to time be fixed by the Remuneration Authority.
-(2) Travelling allowances and travelling expenses are to be paid to the Principal Disputes Referee in accordance with the Fees and Travelling Allowances Act 1951, and the provisions of that Act apply accordingly.
+[Repealed]
 
-### 9 Salary and allowances
-There shall be paid to every Referee, out of money appropriated by Parliament for the purpose, remuneration by way of fees, salary, and allowances (including travelling allowances and expenses) in accordance with the Fees and Travelling Allowances Act 1951, and the provisions of that Act shall apply accordingly as if a Referee were a member of a statutory board within the meaning of that Act.
+### 9 Remuneration of Principal Disputes Referee and Referees
+(1) The Principal Disputes Referee and each Referee—
+  (a) must be paid a salary, or a fee, or an allowance, at the rate determined by the Remuneration Authority; and
+  (b) must be paid any additional allowances (including travelling allowances and expenses) in accordance with the Fees and Travelling Allowances Act 1951.
+(2) Expenses may be incurred, without further appropriation than this section, to meet the salaries, fees, or allowances determined under subsection (1)﻿(a).
+(3) For the purposes of subsection (1)﻿(b), the Fees and Travelling Allowances Act 1951 applies as if the Principal Disputes Referee and each Referee were a member of a statutory Board as defined in section 2 of that Act.
 
 ## Part 2 — Jurisdiction, functions, and orders of Tribunal
 
@@ -782,6 +785,14 @@ Every reference to a Small Claims Tribunal in any enactment (other than an enact
 ### 1 Reappointment of some existing Referees
 (1) For the purpose of this clause, commencement date means the date on which section 33(1) of the Tribunals Powers and Procedures Legislation Act 2018 comes into force.
 (2) A person who holds the position of Referee immediately before the commencement date and who does not meet the qualification requirement in section 7(2)﻿(a) may be reappointed as a Referee under section 7 if he or she meets the requirements of section 7(2)﻿(b) and (c).
+
+### Part 2 — Provision relating to Remuneration Authority Legislation Act 2022
+
+### 2 Remuneration of Principal Disputes Referee and Referees
+(1) A person who immediately before the commencement date held office as the Principal Disputes Referee or a Referee continues to be paid the same amount of remuneration and allowances that applied to that office immediately before that date, until new remuneration and allowances are determined by the Remuneration Authority under section 9(1)﻿(a).
+(2) In this clause,—
+  - **commencement date** means the date on which the Remuneration Authority Legislation Act 2022 comes into force
+  - **Principal Disputes Referee** includes a person appointed as an Acting Principal Disputes Referee under section 6B.
 
 ## Schedule 1 — Powers and jurisdiction of Disputes Tribunal
 
