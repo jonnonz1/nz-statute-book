@@ -1,5 +1,5 @@
 # Holidays Act 2003
-_Consolidation as at 2022-04-12_
+_Consolidation as at 2022-12-01_
 
 ### 1 Title
 This Act is the Holidays Act 2003.
@@ -96,6 +96,12 @@ Schedule 1AA contains application, savings, and transitional provisions relating
 (3) However, an employment agreement that excludes, restricts, or reduces an employee’s entitlements under this Act—
   (a) has no effect to the extent that it does so; but
   (b) is not an illegal contract under subpart 5 of Part 2 of the Contract and Commercial Law Act 2017.
+
+### 6A Relationship between Act and fair pay agreements
+(1) If an employee is a covered employee in relation to a fair pay agreement under the Fair Pay Agreements Act 2022, the employee is entitled to receive no less than the greater of—
+  (a) each entitlement under this Act; and
+  (b) the corresponding entitlement under the fair pay agreement.
+(2) In subsection (1), covered employee and fair pay agreement have the meanings as in section 5(1) of the Fair Pay Agreements Act 2022.
 
 ### 7 Application
 This Act—
