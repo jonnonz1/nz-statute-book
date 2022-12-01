@@ -1,5 +1,5 @@
 # Resource Management Act 1991
-_Consolidation as at 2022-11-30_
+_Consolidation as at 2022-12-01_
 
 > An Act to restate and reform the law relating to the use of land, air, and water
 
@@ -8620,10 +8620,13 @@ An Environment Judge, alternate Environment Judge, Environment Commissioner, or 
 ### 262 Environment Court members who are ratepayers
 A member of the Environment Court is not to be considered to have an interest in a proceeding before the court solely on the ground that the member is a ratepayer.
 
-### 263 Remuneration of Environment Commissioners and special advisors
-There shall be paid, out of money appropriated by Parliament for the purpose, to every Environment Commissioner, Deputy Environment Commissioner, and special advisor, remuneration by way of fees, salary, or allowances, and travelling allowances and expenses, in accordance with the Fees and Travelling Allowances Act 1951, and the provisions of that Act shall apply accordingly, and—
-  (a) the court shall be a statutory Board for the purposes of that Act; and
-  (b) every special advisor shall be deemed to be a member of a statutory Board.
+### 263 Remuneration of Environment Commissioners, Deputy Environment Commissioners, and special advisors
+(1) Each Environment Commissioner and Deputy Environment Commissioner—
+  (a) must be paid a salary, or a fee, or an allowance, at the rate determined by the Remuneration Authority; and
+  (b) must be paid any additional allowances (including travelling allowances and expenses) in accordance with the Fees and Travelling Allowances Act 1951.
+(2) Expenses may be incurred, without further appropriation than this section, to meet the salaries, fees, or allowances determined under subsection (1)﻿(a).
+(3) Each special advisor must be paid, out of money appropriated by Parliament for the purpose, remuneration by way of a salary, a fee, or an allowance, and travelling allowances and expenses, in accordance with the Fees and Travelling Allowances Act 1951.
+(4) For the purposes of subsections (1)﻿(b) and (3), the Fees and Travelling Allowances Act 1951 applies as if each Environment Commissioner, Deputy Environment Commissioner, and special advisor were a member of a statutory Board as defined in section 2 of that Act.
 
 ### 264 Annual report of Registrar
 (1) The Registrar shall no later than 31 August in each year, deliver to the Minister of the Crown who is responsible for the Ministry of Justice a report stating such information relating to the administration, workload, and resources of the Environment Court during the year ending on the preceding 30 June as the Minister of the Crown who is responsible for the Ministry of Justice may require.
@@ -13208,6 +13211,12 @@ In this Part,—
   (a) was notified; and
   (b) was the subject of a decision under clause 10 of Schedule 1 that was publicly notified.
 (2) If this subclause applies, the plan change or private plan change may proceed as if the Amendment Act had not been enacted.
+
+### Part 6 — Provision relating to Remuneration Authority Legislation Act 2022
+
+### 38 Remuneration of Environment Commissioners and Deputy Environment Commissioners
+(1) A person who immediately before the commencement date held office as an Environment Commissioner or a Deputy Environment Commissioner continues to be paid the same amount of remuneration and allowances that applied to that office immediately before that date, until new remuneration and allowances are determined by the Remuneration Authority under section 263(1)﻿(a).
+(2) In this clause, commencement date means the date on which the Remuneration Authority Legislation Act 2022 comes into force.
 
 ### 1 Title
 (1) This Act is the Resource Management Amendment Act 2003.
