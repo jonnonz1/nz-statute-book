@@ -1,5 +1,5 @@
 # Human Rights Act 1993
-_Consolidation as at 2022-08-30_
+_Consolidation as at 2022-12-01_
 
 > An Act to consolidate and amend the Race Relations Act 1971 and the Human Rights Commission Act 1977 and to provide better protection of human rights in New Zealand in general accordance with United Nations Covenants or Conventions on Human Rights
 
@@ -27,6 +27,7 @@ _Consolidation as at 2022-08-30_
     (c) the person for whom work is done by an unpaid worker
   - **employment agreement** has the meaning given to that term by section 5 of the Employment Relations Act 2000
   - **employment contract** has the meaning given to that term by section 2 of the Employment Contracts Act 1991
+  - **fees framework** means the framework determined by the Government from time to time for the classification and remuneration of statutory and other bodies in which the Crown has an interest
   - **general manager** means the general manager of the Commission appointed by the Chief Commissioner under section 18; and includes any acting general manager of the Commission
   - **Human Rights Review Tribunal** or means the Tribunal continued by section 93
   - **Minister** means the Minister of Justice
@@ -1357,7 +1358,7 @@ Subject to any directions issued by the Chairperson, a Deputy Chairperson of the
   (d) does not prevent the performance or exercise of a function, duty, or power by the Chairperson.
 (3) A person to whom any functions, duties, or powers are delegated may perform or exercise them in the same manner and with the same effect as if they had been conferred directly by this Act and not by delegation.
 (4) A person who appears to act under a delegation is presumed to be acting in accordance with its terms in the absence of evidence to the contrary.
-(5) A person to whom any functions, duties, or powers are delegated must be paid remuneration and expenses (if any) determined in accordance with section 119 for work undertaken in that capacity.
+(5) A person to whom any functions, duties, or powers are delegated must be paid remuneration and expenses (if any) determined in accordance with section 118A for work undertaken in that capacity.
 
 ### 101C References to Chairpersons include deputies and delegates and temporary acting Chairperson
 Unless the context otherwise requires, a reference in this Act or regulations made under this Act to the Chairperson includes—
@@ -1522,11 +1523,17 @@ The Tribunal shall have a seal, which shall be judicially noticed in all courts 
 ### 118 Members of Tribunal not personally liable
 No member of the Tribunal shall be personally liable for any act done or omitted to be done by the Tribunal or any member thereof in good faith in pursuance or intended pursuance of the functions, duties, powers, or authorities of the Tribunal.
 
+### 118A Remuneration of Chairperson and Deputy Chairpersons
+(1) The Chairperson, and each Deputy Chairperson, of the Tribunal—
+  (a) must be paid a salary, or a fee, or an allowance, at the rate determined by the Remuneration Authority; and
+  (b) is entitled in accordance with the fees framework to be reimbursed for actual and reasonable travelling and other expenses incurred in carrying out their office as a Chairperson or Deputy Chairperson.
+(2) Expenses may be incurred, without further appropriation than this section, to meet the salaries, fees, or allowances determined under subsection (1)﻿(a).
+
 ### 119 Fees of members of Tribunal
-(1) A member of the Tribunal is entitled—
+(1) A member of the Tribunal appointed in accordance with section 98(b) is entitled—
   (a) to receive remuneration not within paragraph (b) for services as a member at a rate and of a kind determined by the Minister in accordance with the fees framework; and
   (b) in accordance with the fees framework, to be reimbursed for actual and reasonable travelling and other expenses incurred in carrying out his or her office as a member.
-(2) For the purposes of subsection (1), fees framework means the framework determined by the Government from time to time for the classification and remuneration of statutory and other bodies in which the Crown has an interest.
+(2)
 
 ### 120 Services for Tribunal
 (1) The Ministry of Justice shall furnish such secretarial, recording, and clerical services as may be necessary to enable the Tribunal to discharge its functions.
@@ -1930,6 +1937,14 @@ Section 62A applies even if all or any of the family violence occurred before th
 (2) Each of those Chairpersons may, in consultation with the other Chairperson, exercise the powers of the Chairperson of the Tribunal under the Human Rights Act 1993, as amended by subpart 7 of Part 1 of the Tribunals Powers and Procedures Legislation Act 2018.
 (3) While 2 Chairpersons are appointed, they must act together in issuing practice notes under section 121A.
 (4) For the purpose of this clause, commencement date means the date on which section 83 of the Tribunals Powers and Procedures Legislation Act 2018 comes into force.
+
+### Part 3 — Provision relating to Remuneration Authority Legislation Act 2022
+
+### 3 Remuneration of Chairperson and Deputy Chairpersons of Human Rights Review Tribunal
+(1) A person who immediately before the commencement date held office as the Chairperson or a Deputy Chairperson of the Human Rights Review Tribunal continues to be paid the same amount of remuneration that applied to that office immediately before that date, until new remuneration and allowances are determined by the Remuneration Authority under section 118A(1)﻿(a).
+(2) In this clause,—
+  - **Chairperson** includes a temporary acting Chairperson appointed under section 102
+  - **commencement date** means the date on which the Remuneration Authority Legislation Act 2022 comes into force.
 
 ## Schedule 1 — Administrative provisions applying in respect of Commission
 
