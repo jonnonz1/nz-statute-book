@@ -1,5 +1,5 @@
 # Minimum Wage Act 1983
-_Consolidation as at 2021-10-28_
+_Consolidation as at 2022-12-01_
 
 > An Act to consolidate and amend the law relating to minimum wages
 
@@ -88,7 +88,11 @@ This Act shall bind the Crown.
 (2) Following a review under subsection (1), the Minister may, whether in that year or subsequently, make recommendations to the Governor-General regarding the adjustments that should be made to that minimum rate.
 
 ### 6 Payment of minimum wages
-Notwithstanding anything to the contrary in any enactment, award, collective agreement, determination, or contract of service, but subject to sections 7 to 9, every worker who belongs to a class of workers in respect of whom a minimum rate of wages has been prescribed under this Act, shall be entitled to receive from his employer payment for his work at not less than that minimum rate.
+(1) Notwithstanding anything to the contrary in any enactment, award, collective agreement, determination, or contract of service, but subject to sections 7 to 9, every worker who belongs to a class of workers in respect of whom a minimum rate of wages has been prescribed under this Act, shall be entitled to receive from his employer payment for his work at not less than that minimum rate.
+(2) However, if a worker is a covered employee in relation to a fair pay agreement under the Fair Pay Agreements Act 2022, the worker is entitled to receive no less than the greater of—
+  (a) the minimum rate to which the worker is entitled under this Act; and
+  (b) the minimum rate to which the worker is entitled under the fair pay agreement.
+(3) In subsection (2), covered employee and fair pay agreement have the meanings as in section 5(1) of the Fair Pay Agreements Act 2022.
 
 ### 7 Deductions for board or lodging or time lost
 (1) In any case where a worker is provided with board or lodging by his employer, the deduction in respect thereof by the employer shall not exceed such amount as will reduce the worker's wage calculated at the appropriate minimum rate by more than the cash value thereof as fixed by or under any Act, determination, or agreement relating to the worker's employment, or, if it is not so fixed, the deduction in respect thereof by the employer shall not exceed such amount as will reduce the worker's wages (as so calculated) by more than 15% for board or by more than 5% for lodging.
@@ -105,9 +109,13 @@ Notwithstanding anything to the contrary in any enactment, award, collective agr
 (3) A permit—
   (a) comes into force on the date it is issued or any other date as stated in the permit; and
   (b) remains in force for the period stated in the permit.
-(4) While a permit remains in force, the rate of wages stated in the permit is taken to be the minimum rate of wages prescribed under this Act for the worker.
+(4) While a permit remains in force, the rate of wages stated in the permit is taken to be,—
+  (a) if the worker is a covered employee in relation to a fair pay agreement under the Fair Pay Agreements Act 2022, the minimum rate of wages set out in the fair pay agreement for the worker; or
+  (b) in all other cases, the minimum rate of wages prescribed under this Act for the worker.
 (5) A Labour Inspector may revoke a permit at any time if the Inspector considers it is no longer reasonable and appropriate for the permit to remain in force.
-(6) In this section, disability has the same meaning as in section 21(1)﻿(h) of the Human Rights Act 1993.
+(6) In this section,—
+  - **covered employee** has the same meaning as in section 5(1) of the Fair Pay Agreements Act 2022
+  - **disability** has the same meaning as in section 21(1)﻿(h) of the Human Rights Act 1993.
 
 ### 8A Wages and time records
 [Repealed]
