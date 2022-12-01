@@ -1,5 +1,5 @@
 # Immigration Act 2009
-_Consolidation as at 2022-07-01_
+_Consolidation as at 2022-12-01_
 
 ### 1 Title
 This Act is the Immigration Act 2009.
@@ -6515,6 +6515,14 @@ A person’s entry permission may be revoked in accordance with section 113A(5) 
 ### 3 Suspension of ability to apply for visa or submit expression of interest does not affect existing applications or expressions of interest
 Nothing in regulations made under section 400 for the purpose in section 401A(1) applies to any application for a visa made, or an expression of interest submitted, before the regulations come into force.
 
+### Part 2 — Provision relating to Remuneration Authority Legislation Act 2022
+
+### 4 Remuneration of deputy chair and other members of Tribunal
+(1) A person who immediately before the commencement date held office as a deputy chair or other member of the Tribunal continues to be paid the same amount of remuneration and allowances that applied to that office immediately before that date, until new remuneration and allowances are determined by the Remuneration Authority under clause 4(2)﻿(a) of Schedule 2.
+(2) In this clause,—
+  - **commencement date** means the date on which the Remuneration Authority Legislation Act 2022 comes into force
+  - **member of the Tribunal** includes an acting member appointed under section 219A(1)﻿(b).
+
 ## Schedule 1 — Convention Relating to the Status of Refugees
 
 | Entry into force: 4 October 1967, in accordance with Article VIII |
@@ -6549,7 +6557,11 @@ Each member of the Tribunal must, before entering on the performance of any of h
 
 ### 4 Remuneration
 (1) The remuneration of the District Court Judge who is chair of the Tribunal, and of any other member who is a District Court Judge, is that set under the Remuneration Authority Act 1977.
-(2) The other members of the Tribunal must be paid remuneration by way of fees, salary, and allowances (including travelling allowances and expenses) in accordance with the Fees and Travelling Allowances Act 1951, and that Act applies as if the members were members of a statutory Board within the meaning of that Act.
+(2) Each deputy chair and the other members of the Tribunal (including an acting member appointed under section 219A)—
+  (a) must be paid a salary, or a fee, or an allowance, at the rate determined by the Remuneration Authority; and
+  (b) must be paid any additional allowances (including travelling allowances and expenses) in accordance with the Fees and Travelling Allowances Act 1951.
+(3) Expenses may be incurred, without further appropriation than this clause, to meet the salaries, fees, or allowances determined under subclause (2)﻿(a).
+(4) For the purposes of subclause (2)﻿(b), the Fees and Travelling Allowances Act 1951 applies as if each deputy chair and other member of the Tribunal were a member of a statutory Board as defined in section 2 of that Act.
 
 ### 5 Administration, staffing, and other resources
 (1) The administration services, staffing, and other resources necessary to enable the Tribunal to carry out its functions under this Act are to be provided by the department of State for the time being designated for the purpose by the Prime Minister.
