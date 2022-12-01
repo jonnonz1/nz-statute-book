@@ -1,5 +1,5 @@
 # Defence Act 1990
-_Consolidation as at 2021-10-28_
+_Consolidation as at 2022-12-01_
 
 > An Act—ato continue to authorise the raising and maintaining of armed forces for certain purposes; andbto constitute the New Zealand Defence Force, comprising—ithe Armed Forces under the command of the Chief of Defence Force; andiithe Civil Staff under the control of the Chief of Defence Force; andcto reaffirm that the Armed Forces are under Ministerial authority; anddto define the respective roles and relationships of the Minister of Defence, the Secretary of Defence, and the Chief of Defence Force; andeto redefine the relationship of the Chief of Defence Force to the Chiefs of Service; andfto make provision generally in respect of the establishment, control, and activities of the New Zealand Defence Force, and related matters
 
@@ -529,6 +529,7 @@ Part 2 of the Volunteers Employment Protection Act 1973 applies to—
   (c) the Chief of Army; or
   (d) the Chief of Air Force,—
 (5) Nothing in the Employment Relations Act 2000 applies to the conditions of service of members of the Armed Forces.
+(5A) Nothing in the Fair Pay Agreements Act 2022 applies to members of the Armed Forces.
 (6) Nothing in this section affects any conditions of service in force in respect of members of the Armed Forces immediately before 1 April 1988.
 
 ### 46 Regulations fixing certain terms and conditions of service
