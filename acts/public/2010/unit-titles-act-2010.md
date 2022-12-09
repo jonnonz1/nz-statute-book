@@ -1,5 +1,5 @@
 # Unit Titles Act 2010
-_Consolidation as at 2021-10-28_
+_Consolidation as at 2022-12-09_
 
 ### 1 Title
 This Act is the Unit Titles Act 2010.
@@ -932,11 +932,9 @@ An owner of a principal unit—
 ### 88 Meetings
 (1) All meetings of a body corporate are general meetings.
 (2) A general meeting is either an annual general meeting or extraordinary general meeting.
-(3) Members of a body corporate may attend a general meeting (and members of a body corporate committee may attend a committee meeting) in person, by audio link, or by audiovisual link despite—
-  (a) any limitation or condition on the use of an audio link or audiovisual link that is contained in the body corporate operational rules; or
-  (b) anything to the contrary in this Act or the regulations.
-(4) Subsection (3) applies on and from 25 March 2020.
-(5) This subsection and subsections (3) and (4) are repealed immediately after the expiry of the 12-week period that starts on the date on which the Epidemic Preparedness (COVID-19) Notice 2020 expires or is revoked.
+(3) Members of a body corporate may attend and vote at a general meeting (and members of a body corporate committee may attend and vote at a committee meeting) in person or by audio link, audiovisual link, or other remote access facility despite any limitation or condition on the use of an audio link, audiovisual link, or remote access facility that is contained in the body corporate operational rules.
+(4) A meeting conducted under this section must comply with any procedures or other matters prescribed in the regulations, including those relating to electronic voting.
+(5)
 
 ### 89 Requirement for annual general meeting
 (1) The first annual general meeting of a body corporate must be held as soon as practicable, and in any event within 6 months after the earlier of the following dates:
@@ -1045,7 +1043,9 @@ An extraordinary general meeting must be held in accordance with the regulations
 (4) Every resolution must be recorded in writing.
 
 ### 102 Voting: proxies
-(1) An eligible voter may exercise the right to vote either by being present in person or by proxy.
+(1) An eligible voter may exercise the right to vote—
+  (a) by being present in person or by audio link, audiovisual link, or other remote access facility; or
+  (b) by proxy.
 (2) A proxy for an eligible voter is entitled to attend and be heard at a body corporate meeting as if the proxy were the eligible voter.
 (3) A proxy must be appointed by notice in writing signed by the eligible voter.
 (4) If there are 2 or more eligible voters who own 1 principal unit and they are jointly entitled to exercise 1 vote and wish to do so by proxy, that proxy must be jointly appointed by them and may be 1 of them.
