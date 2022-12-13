@@ -1,5 +1,5 @@
 # Mental Health (Compulsory Assessment and Treatment) Act 1992
-_Consolidation as at 2022-10-20_
+_Consolidation as at 2022-12-13_
 
 > An Act to redefine the circumstances in which and the conditions under which persons may be subjected to compulsory psychiatric assessment and treatment, to define the rights of such persons and to provide better protection for those rights, and generally to reform and consolidate the law relating to the assessment and treatment of persons suffering from mental disorder
 
@@ -81,6 +81,11 @@ _Consolidation as at 2022-10-20_
     (d) a person who is liable to be detained in a hospital, either following an application under section 45(2) or arrangements made under section 46, and who has not ceased, under section 48, to be a special patient; or
     (da) a person who is liable to be detained in a hospital under section 191(2)﻿(a) of the Armed Forces Discipline Act 1971; or
     (e) a person who, in accordance with section 136(5)﻿(a) of the Intellectual Disability (Compulsory Care and Rehabilitation) Act 2003, must be held as a special patient
+  - **victim** means (unless otherwise provided),—
+    (a) in relation to a special patient, a person who has, under section 32B of the Victims’ Rights Act 2002,—
+      (i) asked for notice, or for advice and copies; and
+      (ii) given their address:
+    (b) an individual appointed under section 40 of that Act
   - **welfare guardian** has the same meaning as it has in section 2 of the Protection of Personal and Property Rights Act 1988.
 (2)
 
@@ -96,6 +101,9 @@ A person—
 
 ### 2B Modification to section 2A during COVID-19 response
 [Repealed]
+
+### 2C Transitional, savings, and related provisions
+The transitional, savings, and related provisions set out in Schedule 1AA have effect according to their terms.
 
 ### 3 Act to bind Crown
 This Act shall bind the Crown.
@@ -714,7 +722,7 @@ Subject to the provisions of any other enactment, every special patient shall be
 [Repealed]
 
 ### 46 Detained persons in need of care and treatment
-If it appears to the chief executive of the Department of Corrections that any person who is detained in a prison or in a residence established under section 114 of the Public Safety (Public Protection Orders) Act 2014, whether or not that person is mentally disordered, would benefit from psychiatric care and treatment available in a hospital but not available in the institution in which the person is detained, the chief executive of the Department of Corrections may, with the consent of that person, make arrangements with the Director for the person to be admitted to and detained in that hospital, and, subject to section 50, the person shall be so detained accordingly.
+If it appears to the chief executive of the Department of Corrections that any person who is detained in a prison or in a residence established under section 114 of the Public Safety (Public Protection Orders) Act 2014, whether or not that person is mentally disordered, would benefit from psychiatric care and treatment available in a hospital but not available in the institution in which the person is detained, the chief executive of the Department of Corrections may, with the consent of that person, make arrangements with the Director for the person to be admitted to and detained in that hospital, and, subject to section 50A, the person shall be so detained accordingly.
 
 ### 47 Removal of certain special patients to prisons
 (1) If, in the opinion of the Director of Area Mental Health Services, a special patient detained following an application made under section 45(2) or subject to an order made under section 34(1)﻿(a)﻿(i) of the Criminal Procedure (Mentally Impaired Persons) Act 2003 is fit to be released, that officer may, with the consent of the Director, direct that the special patient be taken to a prison or, as the case requires, a residence established under section 114 of the Public Safety (Public Protection Orders) Act 2014 to serve the remainder of the patient's sentence or the order applicable to the patient, or otherwise be dealt with according to law.
@@ -746,7 +754,7 @@ If it appears to the chief executive of the Department of Corrections that any p
   (a) a reference to a person means a person who—
     (i) is detained in a hospital, either following an application under section 45(2) or under section 46 of this Act or under section 34(1)﻿(a)﻿(i) of the Criminal Procedure (Mentally Impaired Persons) Act 2003; or
     (ii) having been so detained, is on leave:
-  (b) a reference to leave means leave under section 50 or section 52:
+  (b) a reference to leave means leave under section 50A or section 52:
   (c) a reference to a sentence means a sentence, an order of committal, or an order of detention:
   (d) liability to detention under a sentence ceases on the earliest of the following dates:
     (i) the date specified in an order of the New Zealand Parole Board that the person be released on parole or compassionate leave:
@@ -771,44 +779,167 @@ If it appears to the chief executive of the Department of Corrections that any p
 (3) On the transfer of the patient, the court order and the application and certificates on which the order was made, or any other instrument of authority under which the special patient was admitted or detained, shall be delivered to the Director of Area Mental Health Services responsible for the hospital to which the patient is transferred (if they are not already in that Director's possession), together with the clinical records relating to the patient.
 (4) The court order or other instrument of authority shall remain in force in the same manner as if the patient had been ordered to be received in the hospital to which he or she is to be transferred.
 
-### 50 Leave of special patients
-(1) Subject to subsection (2), if 2 medical practitioners certify that a person who is detained in a hospital as a special patient acquitted on account of insanity or pursuant to an order made under section 45 or pursuant to section 46 of this Act or under section 34(1)﻿(a)﻿(i) of the Criminal Procedure (Mentally Impaired Persons) Act 2003 is fit to be allowed to be absent from the hospital, the Minister may grant leave of absence from the hospital on such conditions as the Minister thinks fit, including (at the Minister's discretion) a condition that the person will return to the hospital on such date or within such period as the Minister may specify.
-(2) The power to grant leave under this section shall not be exercised in respect of any person who—
-  (a) was, immediately before his or her admission to the hospital, detained in a prison while awaiting or during the course of a trial or hearing before any court or while awaiting sentence by any court or pending the determination of any appeal to any court against conviction; or
+### 50 Special patient defined
+In this section and in sections 50A to 50G, special patient means a person who is detained in a hospital under—
+  (a) section 24(2)﻿(a) of the Criminal Procedure (Mentally Impaired Persons) Act 2003 as a person acquitted on account of insanity; or
+  (b) section 34(1)﻿(a)﻿(i) of the Criminal Procedure (Mentally Impaired Persons) Act 2003; or
+  (c) an order made under section 45; or
+  (d) section 46.
+
+### 50A Minister may grant leave to special patients
+(1) The Minister may grant a special patient leave of absence from the hospital if—
+  (a) 2 medical practitioners certify that the special patient is fit to be allowed to be absent from the hospital; and
+  (b) the Director supports the proposed leave of absence, taking into account any submission from a victim made in accordance with section 50C or 50D.
+(2) The Minister may grant the leave of absence subject to any conditions the Minister considers appropriate, including (at the Minister’s discretion) a condition that the person must return to the hospital on the date or within the period that the Minister specifies.
+(3) The Minister may not exercise the power to grant leave under this section in respect of any person who—
+  (a) was, immediately before that person’s admission to the hospital, detained in a prison—
+    (i) while awaiting, or during the course of, a trial or hearing before a court; or
+    (ii) while awaiting sentence by a court; or
+    (iii) pending the determination of an appeal to a court against conviction; or
   (b) is subject to a sentence of imprisonment for life or to a sentence of preventive detention.
-(3) The Minister may, at any time during any period of leave granted under this section to any patient, cancel that leave; and in any such case the Director shall, in writing under his or her hand, direct that the patient be admitted or re-admitted to a specified hospital.
-(4) In any case to which subsection (3) applies, the patient may be taken to the specified hospital by the Director, or by the Director of Area Mental Health Services, or by a duly authorised officer, or by any constable, or by any person to whom the charge of the patient has been entrusted during the period of leave.
-(5) If the specified hospital is not the one from which the patient was on leave, the patient shall be received and detained there as if he or she had been transferred to that hospital pursuant to section 49.
+
+### 50B When victims must be notified of impending decision under section 50A
+(1) This section applies if the Director is required to decide whether to support the proposed leave of absence of a special patient under section 50A(1).
+(2) The Director must take all reasonable steps to—
+  (a) give notice to a victim that the Director is required to decide whether to support the proposed leave of absence of the special patient under section 50A(1); and
+  (b) explain to the victim—
+    (i) the process under section 50A for granting a special patient leave of absence; and
+    (ii) how the victim may participate in that process.
+
+### 50C Right of victims to make submissions on proposed leave of absence
+(1) This section applies to a person notified under section 50B.
+(2) The person may write to the Director, making submissions on the decision of whether to grant leave of absence under section 50A(1).
+(3) The person’s submissions may address—
+  (a) any concerns that the person has, on reasonable grounds, about any risk that the special patient presents to—
+    (i) the person’s physical safety or security; or
+    (ii) the physical safety or security of 1 or more members of the person’s immediate family; and
+  (b) any other information that the person considers relevant to the decision of whether to grant leave of absence under section 50A(1).
+(4) The person must send the submissions to the Director by the date specified by the Director.
+(5) The Director must have regard to any written submissions made by a victim under this section or section 50D.
+(6) In this section, immediate family has the same meaning as in section 4 of the Victims’ Rights Act 2002.
+
+### 50D Submissions from certain victims
+(1) This section applies to a person who—
+  (a) is not a victim as defined in section 2(1); but
+  (b) is a victim as defined in section 4 of the Victims’ Rights Act 2002.
+(2) The person may make written submissions to the Director about the decision of whether to grant leave of absence under section 50A(1).
+(3) If the person seeks information from the Director for the purpose of making submissions under subsection (2), the Director may—
+  (a) advise the person of the date on which the Director intends to decide whether to support the proposed leave of absence of the special patient; and
+  (b) give the person any other information that is reasonably necessary to enable the person to make submissions.
+(4) Section 50C applies with any necessary modifications.
+(5) Neither the Director nor any other person has any liability for an act done in pursuance, or intended pursuance, of the Director’s functions under this section or section 50E(1)﻿(b), unless the act was done in bad faith.
+
+### 50E Victims must be notified of decisions made under section 50A
+(1) The Director must advise the following persons of the matters specified in subsection (2):
+  (a) a person notified under section 50B:
+  (b) a person who makes a submission under section 50D(2).
+(2) The specified matters are—
+  (a) whether the Director supports the proposed leave of absence of the special patient under section 50A(1):
+  (b) if the Director supports the proposed leave of absence, whether the Minister has granted the special patient leave of absence under section 50A(1):
+  (c) if the Minister has granted the special patient leave of absence, any conditions applying to the special patient under section 50A(2).
+(3) The Director may withhold advice of a particular condition if, in the Director’s opinion, disclosing the condition would unduly interfere with the privacy of any other person (other than the special patient).
+
+### 50F Information about victims not to be disclosed
+(1) This section applies to sections 50A to 50E.
+(2) No person may, directly or indirectly, disclose to the special patient the current address or contact details of any victim of the special patient.
+
+### 50G Minister may cancel leave of special patients
+(1) The Minister may, during a period of leave of absence granted under section 50A(1) to a special patient, cancel that leave of absence.
+(2) If the Minister cancels a leave of absence, the Director must direct, in writing, that the special patient be admitted or re-admitted to a specified hospital.
+(3) The special patient may be taken to the specified hospital by any of the following:
+  (a) the Director:
+  (b) the Director of Area Mental Health Services:
+  (c) a duly authorised officer:
+  (d) a constable:
+  (e) a person to whom the charge of the special patient has been entrusted during the period of leave.
+(4) If the specified hospital is not the one from which the special patient was on leave of absence, the special patient must be received and detained there as if the special patient had been transferred to that hospital under section 49.
 
 ### 51 Power to direct temporary return to hospital of special patients
-(1) Where any patient is, under section 50, on leave of absence from a hospital, the Director of Area Mental Health Services may, if he or she is satisfied that it is necessary, in the interests of the safety of that patient or the public, direct in writing that that patient be admitted or re-admitted to a specified hospital.
+(1) Where any patient is, under section 50A, on leave of absence from a hospital, the Director of Area Mental Health Services may, if he or she is satisfied that it is necessary, in the interests of the safety of that patient or the public, direct in writing that that patient be admitted or re-admitted to a specified hospital.
 (2) Where a direction is given under subsection (1), the Director of Area Mental Health Services shall—
   (a) record in writing the reasons for the direction; and
   (b) ensure that both a copy of the direction and a copy of the reasons for the direction are given to the patient as soon as practicable.
-(3) Where a direction is given under subsection (1), the patient may, notwithstanding the leave granted under section 50(1), be taken to the specified hospital by the Director, or by the Director of Area Mental Health Services, or by a duly authorised officer, or by any constable, or by any person to whom the charge of the patient has been entrusted during the period of leave.
+(3) Where a direction is given under subsection (1), the patient may, notwithstanding the leave granted under section 50A(1), be taken to the specified hospital by the Director, or by the Director of Area Mental Health Services, or by a duly authorised officer, or by any constable, or by any person to whom the charge of the patient has been entrusted during the period of leave.
 (4) If the specified hospital is not the one from which the patient was on leave, the patient shall, subject to subsections (5) to (7), be received and detained there as if he or she had been transferred to that hospital pursuant to section 49.
-(5) Where a patient is admitted or re-admitted to a hospital pursuant to a direction under subsection (1), that patient shall not, unless his or her leave is cancelled under section 50(3), be detained in that hospital for more than 72 hours.
-(6) If the leave of a patient who is admitted or re-admitted to a hospital pursuant to a direction under subsection (1) is not cancelled before the expiration of his or her period of detention pursuant to that direction, that patient shall, at the end of his or her period of detention pursuant to that direction, be again released on leave subject to the conditions imposed by the Minister under section 50(1).
-(7) Where the Minister decides, within 72 hours after the time at which a patient is admitted or re-admitted to a hospital pursuant to a direction under subsection (1), that that patient's leave is not to be cancelled under section 50(3), that patient shall forthwith be again released on leave subject to the conditions imposed by the Minister under section 50(1).
+(5) Where a patient is admitted or re-admitted to a hospital pursuant to a direction under subsection (1), that patient shall not, unless his or her leave is cancelled under section 50G(1), be detained in that hospital for more than 72 hours.
+(6) If the leave of a patient who is admitted or re-admitted to a hospital pursuant to a direction under subsection (1) is not cancelled before the expiration of his or her period of detention pursuant to that direction, that patient shall, at the end of his or her period of detention pursuant to that direction, be again released on leave subject to the conditions imposed by the Minister under section 50A(2).
+(7) Where the Minister decides, within 72 hours after the time at which a patient is admitted or re-admitted to a hospital pursuant to a direction under subsection (1), that that patient's leave is not to be cancelled under section 50G(1), that patient shall forthwith be again released on leave subject to the conditions imposed by the Minister under section 50A(2).
 
-### 52 Director may grant short-term leave
-(1) Subject to subsection (2) but notwithstanding any other provision of this Act, the Director may, subject to such conditions as the Director thinks fit, grant to any special patient leave of absence from the hospital in which the patient is detained for any period not exceeding 7 days, exclusive of the days of the patient's departure and return.
-(2) The power to grant leave under this section shall not be exercised in respect of any patient described in section 50(2)﻿(a).
-(3) The Director may, at any time during the period of leave granted under this section to any patient, cancel the leave; and, in any such case, the provisions of subsections (3) to (5) of section 50 shall apply with any necessary modifications.
-(4) With the authority of the Director and subject to such conditions as the Director may impose, the Director of Area Mental Health Services may, after consultation (in the case of a patient who is detained in hospital pursuant to an order made under section 45 or pursuant to section 46) with the manager of the appropriate prison, exercise in any particular case the powers conferred on the Director by this section.
+### 52 Director may grant short-term leave to special patients
+(1) The Director may grant a special patient leave of absence from the hospital for a period of up to 7 days, excluding the days of the patient’s departure and return.
+(2) The Director may grant the leave of absence subject to any conditions the Director considers appropriate.
+(3) The Director’s power to grant leave under this section—
+  (a) must not be exercised in respect of any special patient described in section 50A(3)﻿(a); and
+  (b) applies despite any other provision of this Act.
 
 ### 52A Special patients not to leave hospital or depart from New Zealand without permission
 (1) A special patient may not leave the hospital in which the special patient is detained unless—
-  (a) granted leave of absence by the Minister under section 50; or
+  (a) granted leave of absence by the Minister under section 50A; or
   (b) granted leave of absence by the Director under section 52.
 (2) A special patient may not depart from New Zealand unless—
-  (a) the special patient has been granted leave of absence under section 50 or 52; and
+  (a) the special patient has been granted leave of absence under section 50A or 52; and
   (b) the special patient is permitted by the Minister, on terms and conditions specified by the Minister, to be absent from New Zealand during that leave; and
   (c) the special patient’s departure from New Zealand is in accordance with the terms and conditions of the Minister’s permission given under paragraph (b).
 (3) A special patient who contravenes subsection (2) must be treated as having escaped.
 (4) In subsection (2), depart includes—
   (a) attempt to depart:
   (b) prepare to depart.
+
+### 52B When victims must be notified of impending decision under section 52
+(1) This section applies if—
+  (a) the Director intends to decide whether to grant a special patient leave of absence under section 52(1); and
+  (b) that leave of absence would permit the patient to exercise greater autonomy outside the hospital than has any other leave of absence previously granted to the patient.
+(2) The Director must take all reasonable steps to—
+  (a) give notice to a victim that the Director intends to decide whether to grant leave of absence to the special patient under section 52(1); and
+  (b) explain to the victim—
+    (i) the process under section 52 for granting a special patient leave of absence; and
+    (ii) how the victim may participate in that process.
+
+### 52C Right of victims to make submissions on proposed leave of absence
+(1) This section applies to a person notified under section 52B.
+(2) The person may write to the Director, making submissions on the decision of whether to grant leave of absence under section 52(1).
+(3) The person’s submissions may address—
+  (a) any concerns that the person has, on reasonable grounds, about any risk that the special patient presents to—
+    (i) the person’s physical safety or security; or
+    (ii) the physical safety or security of 1 or more members of the person’s immediate family; and
+  (b) any other information that the person considers relevant to the decision of whether to grant leave of absence under section 52(1).
+(4) The person must send the submissions to the Director by the date specified by the Director.
+(5) The Director must have regard to any written submissions made by a victim under this section or section 52D.
+(6) In this section, immediate family has the same meaning as in section 4 of the Victims’ Rights Act 2002.
+
+### 52D Submissions from certain victims
+(1) This section applies to a person who—
+  (a) is not a victim as defined in section 2(1); but
+  (b) is a victim as defined in section 4 of the Victims’ Rights Act 2002.
+(2) The person may make written submissions to the Director about the decision of whether to grant leave of absence under section 52(1).
+(3) If the person seeks information from the Director for the purpose of making submissions under subsection (2), the Director may—
+  (a) advise the person of the date on which the Director intends to decide whether to grant the leave of absence to the special patient; and
+  (b) give the person any other information that is reasonably necessary to enable the person to make submissions.
+(4) Section 52C applies with any necessary modifications.
+(5) Neither the Director nor any other person has any liability for an act done in pursuance, or intended pursuance, of the Director’s functions under this section or section 52E(1)﻿(b), unless the act was done in bad faith.
+
+### 52E Victims must be notified of decisions made under section 52
+(1) The Director must advise the following persons of the matters specified in subsection (2):
+  (a) a person notified under section 52B:
+  (b) a person who makes a submission under section 52D(2).
+(2) The specified matters are—
+  (a) whether the Director has granted a special patient leave of absence under section 52(1):
+  (b) if the Director has granted the special patient leave of absence, any conditions applying to the special patient under section 52(2).
+(3) The Director may withhold advice of a particular condition if, in the Director’s opinion, disclosing the condition would unduly interfere with the privacy of any other person (other than the special patient).
+
+### 52F Information about victims not to be disclosed
+(1) This section applies to sections 52 and 52B to 52E.
+(2) No person may, directly or indirectly, disclose to the special patient the current address or contact details of any victim of the special patient.
+
+### 52G Director may cancel short-term leave of special patients
+(1) The Director may, during a period of leave of absence granted under section 52(1) to a special patient, cancel that leave of absence.
+(2) If the Director cancels a leave of absence, section 50G(2) to (4) applies with any necessary modifications.
+
+### 52H Director may authorise Director of Area Mental Health Services to exercise certain powers
+(1) The Director of Area Mental Health Services may exercise the powers and duties conferred on the Director by sections 50B, 50D, 50E, 52, and 52B to 52G in respect of a special patient—
+  (a) with the authority of the Director; and
+  (b) subject to any conditions imposed by the Director.
+(2) If the special patient is a special patient under section 50(c) or (d), the Director of Area Mental Health Services may exercise a power under subsection (1) only after consulting the manager of the appropriate prison.
 
 ### 53 Escape and absence without leave
 Any special patient who escapes, or who breaches any condition of leave, or who fails to return on the expiry or cancellation of any period of leave may be retaken at any time by the Director, or by the Director of Area Mental Health Services, or by a duly authorised officer, or by any constable, or by any person to whom the charge of the patient had been entrusted during the period of leave, and taken to the hospital from which the patient escaped or was on leave or to any other hospital specified by the Director.
@@ -1082,6 +1213,12 @@ Subject to section 124, every patient is entitled to the prompt dispatch unopene
 ### 80 Tribunal reviews of certain special patients
 (1) Any person to whom a copy of a certificate of clinical review is sent under section 77 may apply to the Review Tribunal for a review of the patient's condition.
 (2) Without limiting anything in subsection (1), the Review Tribunal shall review the patient's condition on the application of the Attorney-General pursuant to subsection (3)﻿(d) of section 77 or of the Minister of Health pursuant to subsection (4)﻿(d) of that section.
+(2A) The convener of the Review Tribunal must notify the Director of an application under subsection (1) for a review of the special patient’s condition.
+(2B) On receiving notice, the Director must take all reasonable steps to—
+  (a) give notice to each victim of the special patient that the Review Tribunal has received an application under subsection (1) for a review of the special patient’s condition; and
+  (b) provide the victim with an explanation of—
+    (i) the process under this section for reviewing a special patient’s condition; and
+    (ii) how the victim may participate in that process.
 (3) The provisions of subsections (2) to (6) of section 79 shall apply in respect of every review under this section as if it were a review under that section.
 (4) In the case of a special patient who was ordered to be detained following a finding of unfitness to stand trial, the following provisions shall apply to any review of that patient's condition under this section:
   (a) the Review Tribunal shall record its findings in a certificate of Tribunal review in the prescribed form, stating whether, in its opinion,—
@@ -1767,6 +1904,35 @@ Every reception order made under section 24 of the Mental Health Act 1969 and in
 ### 146 Persons detained as committed patients pursuant to Criminal Justice Act 1985
 Every person who, immediately before the commencement of this Act, was detained in a hospital as a committed patient pursuant to an order made under subsection (2) or subsection (6) of section 115 or section 118(1) of the Criminal Justice Act 1985, or pursuant to a direction given under subsection (4) or subsection (5) or subsection (6)﻿(b) of section 116 or section 117(2) of that Act, shall be deemed for the purposes of this Act to be detained as a patient, and that order or direction shall be deemed for those purposes to be a compulsory treatment order.
 
+## Schedule 1AA — Transitional, savings, and related provisions
+
+### Part 1 — Provisions relating to Rights for Victims of Insane Offenders Act 2021
+
+### 1 Transitional provision
+(1) This clause applies to any matter initiated under section 50, 52, 80, or Schedule 1 before the commencement of this clause.
+(2) If this clause applies, the provisions of the relevant section or Schedule 1, as they read immediately before the commencement of this clause, continue to apply to the matter as if they had not been amended or replaced by the Rights for Victims of Insane Offenders Act 2021.
+(3) In this clause, matter includes any—
+  (a) action undertaken:
+  (b) decision taken:
+  (c) notice given:
+  (d) proceeding commenced:
+  (e) application made:
+  (f) agreement entered into:
+  (g) requirement imposed.
+
+### 2 Transitional provision if leave decision and resulting leave of absence fall either side of commencement date
+(1) This clause applies if—
+  (a) a leave decision has been made; and
+  (b) as a consequence of the leave decision, a special patient is due to take, or is taking, leave of absence when this clause commences.
+(2) The Director may, to the extent that the Director considers appropriate in the circumstances, advise a victim of the leave decision as specified in sections 50E(2) and 52E(2).
+(3) In this clause, leave decision means a decision made before the commencement of this clause by—
+  (a) the Minister to—
+    (i) grant a special patient leave of absence under section 50(1); or
+    (ii) cancel a special patient’s leave of absence under section 50(3); or
+  (b) the Director to—
+    (i) grant a special patient leave of absence under section 52(1); or
+    (ii) cancel a special patient’s leave of absence under section 52(3).
+
 ## Schedule 1 — Procedural provisions relating to Review Tribunals
 
 ### 1 Examination of patient
@@ -1789,6 +1955,9 @@ Where a Review Tribunal is to review the condition of any patient under any of t
 ### 3 Right of patient and other persons to be heard and call evidence
 (1) The patient, and any person referred to in clause 2(6), shall be entitled to be heard by the Tribunal, whether in person or through a barrister or solicitor, and to call witnesses, and to cross-examine any witness called by any other party to the proceedings.
 (2) Without limiting anything in subclause (1), where the patient is present and appears capable of addressing the Tribunal, the Tribunal shall give the patient an opportunity to do so; and, in any such case, the Tribunal may, if it thinks it desirable to do so, require any parent or guardian of the patient, or any other person with whom the patient is living, or any barrister or solicitor representing any such parent, guardian, or other person, to withdraw from the Tribunal while the patient is addressing the Tribunal.
+
+### 3AAA Right of victim to make a submission
+Any person notified under section 80(2B) may write to the Review Tribunal, by the date specified by the Tribunal, making submissions on the Tribunal’s review of the special patient’s condition.
 
 ### 3A Attendance by remote technology
 (1) A Review Tribunal may determine that a participant be permitted to appear at a hearing by remote technology if the Tribunal considers that it is not practicable for the participant to be physically present.
