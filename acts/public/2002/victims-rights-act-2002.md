@@ -1,5 +1,5 @@
 # Victims' Rights Act 2002
-_Consolidation as at 2022-07-01_
+_Consolidation as at 2022-12-13_
 
 ### 1 Title
 This Act is the Victims' Rights Act 2002.
@@ -15,6 +15,7 @@ The purpose of this Act is to improve provisions for the treatment and rights of
 ### 4 Interpretation
 In this Act, unless the context otherwise requires,—
   - **accused** or , in relation to a victim, means a person charged (whether as a principal or party or accessory after the fact or otherwise) with the commission of the offence that affected the victim
+  - **act proven but not criminally responsible on account of insanity** has the same meaning as in section 4(1) of the Criminal Procedure (Mentally Impaired Persons) Act 2003
   - **address** , in relation to a victim or representative, means the address to which notices may be sent by post or electronic means (including by fax or email) and received by the victim or representative
   - **audio record** means a recording on any medium from which a sound track may be produced by any means
   - **child** means a person under the age of 14 years
@@ -41,9 +42,14 @@ In this Act, unless the context otherwise requires,—
       (i) committed against the victim (or committed against a child or young person of whom the victim is a parent or legal guardian); or
       (ii) through which, or by means of which, the victim (or a child or young person of whom the victim is a parent or legal guardian) suffered physical injury or emotional harm, or loss of, or damage to, property; or
       (iii) that resulted in the death of a member of the victim's immediate family, or in a member of the victim's immediate family being incapable; and
-    (b) includes an alleged offence (whether or not a person is convicted of the offence) committed against the victim (or committed against a child or young person of whom the victim is a parent or legal guardian), or that has affected the victim (or a child or young person of whom the victim is a parent or legal guardian) in any of the ways referred to in paragraph (a)﻿(ii) or (iii)
+    (b) includes an alleged offence (whether or not a person is convicted of the offence) committed against the victim (or committed against a child or young person of whom the victim is a parent or legal guardian), or that has affected the victim (or a child or young person of whom the victim is a parent or legal guardian) in any of the ways referred to in paragraph (a)﻿(ii) or (iii); and
+    (c) includes an offence—
+      (i) committed against the victim; and
+      (ii) in respect of which the court recorded a finding of act proven but not criminally responsible on account of insanity under section 20 of the Criminal Procedure (Mentally Impaired Persons) Act 2003
   - **offender** , in relation to a victim,—
-    (a) means a person convicted of the crime or offence that affected the victim; and
+    (a) means a person—
+      (i) convicted of the crime or offence that affected the victim; or
+      (ii) charged with the crime or offence that affected the victim, and in respect of which the court recorded a finding of act proven but not criminally responsible on account of insanity under section 20 of the Criminal Procedure (Mentally Impaired Persons) Act 2003; and
     (b) in section 9 (which relates to meetings requested by victims) and sections 17AA to 27 (which relate to victim impact statements), includes a person found guilty of, or who pleads guilty to, that crime or offence
   - **representative** means a person appointed under section 40
   - **Secretary** means the Secretary for Justice
@@ -190,25 +196,48 @@ Information required to be given under section 11 or section 12 may be given to 
 ### 16A Criminal proceedings to which section 16 does not apply
 Nothing in section 16 applies to a criminal proceeding if it is necessary to disclose the information in the charge in order to ensure that the defendant is fully and fairly informed of the nature of the charge.
 
+**Victim's views on application for order prohibiting permanently publication of name of accused or offender**
+
+### 16B Victim's views on application for order prohibiting permanently publication of name of accused or offender
+(1) This section applies to a victim if the person accused of the offence or, as the case requires, the offender applies to a court under section 200 of the Criminal Procedure Act 2011 for an order or further order—
+  (a) prohibiting the publication of his or her name, address, or occupation, or of any particulars likely to lead to his or her identification; and
+  (b) having effect permanently.
+(2) If this section applies to a victim, the prosecutor—
+  (a) must make all reasonable efforts to ensure that any views the victim has on the application are ascertained; and
+  (b) must inform the court of any views ascertained under paragraph (a).
+
 **Victim impact statements**
+
+## Part 2AA — Victim impact statements
+
+**Definitions and purpose**
 
 ### 17AA Victim impact statement defined
 (1) In sections 17AB to 27, victim impact statement—
   (a) means information that—
     (i) is ascertained under section 17 from—
       (A) a victim; or
-      (B) a person who, under section 20, is treated as a victim; and
+      (B) a person who, under section 17AAB, is treated as a victim; and
     (ii) is to be, or has been, submitted—
       (A) under section 21AA, on request, to a judicial officer for the purpose of giving the accused a sentence indication:
-      (B) under section 21 to the judicial officer sentencing the offender; and
+      (B) under section 21 to the judicial officer sentencing the offender or making an order under section 24(1) or 25(1) of the Criminal Procedure (Mentally Impaired Persons) Act 2003 in relation to a defendant who is acquitted on account of insanity; and
   (b) includes any recording, summary, transcript, or other copy of that information.
 (2) In this section, information may include any photographs, drawings, or other visual representations provided by the victim.
+
+### 17AAB Statements by others disadvantaged by offence
+(1) The prosecutor may, if he or she considers it appropriate to do so, decide to treat as a victim, for the purposes of sections 17 to 19 and sections 21 to 27, a person—
+  (a) who was disadvantaged by an offence; and
+  (b) from whom information on the effects of the offence has been, or could be, ascertained by or on behalf of the prosecutor; and
+  (c) who is not a victim of the offence, a person accused of the offence, or the offender.
+(2) If the prosecutor decides under subsection (1) to treat a person as a victim of an offence, the person must be treated for the purposes of sections 17 to 19 and sections 21 to 27 as if he or she were a victim of the offence.
 
 ### 17AB Purpose of victim impact statements
 The purpose of a victim impact statement is to—
   (a) enable the victim to provide information to the court about the effects of the offending; and
   (b) assist the court in understanding the victim's views about the offending; and
   (c) inform the offender about the impact of the offending from the victim's perspective.
+
+**Information to be ascertained**
 
 ### 17 Information to be ascertained from victim
 (1) The prosecutor must make all reasonable efforts to ensure that information about the matters specified in subsection (2) is ascertained from the victim.
@@ -242,29 +271,28 @@ The prosecutor must make all reasonable efforts to ensure, before information is
   (ab) advised the victim that he or she was required to ensure that any information that he or she gave is true; and
   (b) read it or replayed it or submitted it in another way to the victim, and is satisfied that the victim approves of it.
 
-### 20 Statements by others disadvantaged by offence
-(1) The prosecutor may, if he or she considers it appropriate to do so, decide to treat as a victim, for the purposes of sections 17 to 19 and sections 21 to 27, a person—
-  (a) who was disadvantaged by an offence; and
-  (b) from whom information on the effects of the offence has been, or could be, ascertained by or on behalf of the prosecutor; and
-  (c) who is not a victim of the offence, a person accused of the offence, or the offender.
-(2) If the prosecutor decides under subsection (1) to treat a person as a victim of an offence, the person must be treated for the purposes of sections 17 to 19 and sections 21 to 27 as if he or she were a victim of the offence.
+**Sentence indication**
 
 ### 21AA Victim impact statement may be used for purpose of sentence indication
 (1) If requested by a court giving a sentence indication under section 61 of the Criminal Procedure Act 2011, the prosecutor must submit to a judicial officer any victim impact statement that has been prepared in relation to the offence.
 (2) A victim impact statement must be submitted under subsection (1) in the form in which it was recorded under section 19 unless the judicial officer directs otherwise.
 (3) For the purposes of subsection (1), it does not matter that the victim impact statement was prepared before this section came into force.
 
+**Use by judicial officer**
+
 ### 21 Victim impact statement to be submitted to judicial officer
 (1) If a victim impact statement has been prepared, the victim impact statement must be submitted by the prosecutor—
-  (a) to the judicial officer sentencing the offender; and
+  (a) to the judicial officer—
+    (i) sentencing the offender; or
+    (ii) making an order under section 24(1) or 25(1) of the Criminal Procedure (Mentally Impaired Persons) Act 2003 in relation to a defendant who is acquitted on account of insanity; and
   (b) in the form in which it was recorded under section 19 unless the judicial officer directs otherwise.
-(2) Despite subsection (1), a victim impact statement containing information ascertained from a person treated as a victim under section 20 may only be submitted with the leave of the judicial officer.
+(2) Despite subsection (1), a victim impact statement containing information ascertained from a person treated as a victim under section 17AAB may only be submitted with the leave of the judicial officer.
 
 ### 21A Victim impact statement may be used for purpose of sentence indication
 [Repealed]
 
 ### 22 Victim impact statement may be read to court
-(1) A victim may make a request to the judicial officer sentencing the offender to have all or any part of a victim impact statement submitted under section 21 read to the court by—
+(1) A victim may make a request to the judicial officer sentencing the offender or making an order under section 24(1) or 25(1) of the Criminal Procedure (Mentally Impaired Persons) Act 2003 in relation to a defendant who is acquitted on account of insanity to have all or any part of a victim impact statement submitted under section 21 read to the court by—
   (a) the victim; or
   (b) the prosecutor; or
   (c) a person nominated by the victim, not being an accused or offender in relation to—
@@ -280,7 +308,7 @@ The prosecutor must make all reasonable efforts to ensure, before information is
 (3) The reading of all or any part of a victim impact statement to the court may be subject to any time limit that the judicial officer considers appropriate.
 
 ### 22A Victim impact statement may be presented to court in some other manner
-(1) The judicial officer sentencing the offender may, at the request of the prosecutor, agree that all or any part of a victim impact statement submitted under section 21 be presented to the court in any manner other than by reading it in accordance with section 22.
+(1) The judicial officer sentencing the offender or making an order under section 24(1) or 25(1) of the Criminal Procedure (Mentally Impaired Persons) Act 2003 in relation to a defendant who is acquitted on account of insanity may, at the request of the prosecutor, agree that all or any part of a victim impact statement submitted under section 21 be presented to the court in any manner other than by reading it in accordance with section 22.
 (2) For example, the manner in which all or any part of the statement may be presented to the court under this section may be any of the following:
   (a) it can be read to the court by the victim while in the courtroom but unable to see the defendant or some other specified person:
   (b) it can be read to the court by the victim from an appropriate place outside the courtroom, either in New Zealand or elsewhere:
@@ -292,6 +320,14 @@ In determining the weight to give to a victim impact statement, the judicial off
   (a) whether the statement is verified in the way stated in section 19(3) or (4); and
   (b) if the statement is verified, the date of the verification; and
   (c) any other matters that the judicial officer considers may properly be taken into account.
+
+### 22C Judicial officer not to take into account withheld part
+(1) In this section, withheld part means a part of a victim impact statement withheld under an order made under section 25.
+(2) A judicial officer must not take into account a withheld part in—
+  (a) sentencing the offender; or
+  (b) making an order under section 24(1) or 25(1) of the Criminal Procedure (Mentally Impaired Persons) Act 2003 in relation to a defendant who is acquitted on account of insanity.
+
+**Distribution or disclosure**
 
 ### 23 Offender not to be given statement to keep
 (1) A prosecutor, or lawyer for an offender, who has a copy of a victim impact statement relating to an offender, must show the statement to the offender if asked to do so by the offender, unless the prosecutor or lawyer—
@@ -314,7 +350,7 @@ In determining the weight to give to a victim impact statement, the judicial off
 A judicial officer may, on his or her own initiative or on an application for the purpose, order that an offender and every lawyer (if any) representing the offender not be given or shown any part of a victim impact statement if, in the judicial officer's opinion, withholding the part is necessary to protect the physical safety or security of the victim concerned.
 
 ### 26 Judicial officer not to take into account withheld part
-A judicial officer must not take into account in sentencing the offender a part of a victim impact statement withheld under an order made under section 25.
+[Repealed]
 
 ### 27 Directions or conditions on other disclosure or other distribution of statements
 (1) The judicial officer may, on his or her own initiative or on an application for the purpose by the prosecutor, give directions, or impose conditions, that—
@@ -331,16 +367,6 @@ A judicial officer must not take into account in sentencing the offender a part 
   (g) give directions, and impose conditions, about any other matters to do with the disclosure and distribution of the statement that the judicial officer considers necessary or appropriate in the circumstances.
 (3) No direction given, or condition imposed, under subsection (1) may be in the same terms or have the same effect as an order made under section 24(3)﻿(b) or section 25.
 
-**Victim's views on application for order prohibiting permanently publication of name of accused or offender**
-
-### 28 Victim's views on application for order prohibiting permanently publication of name of accused or offender
-(1) This section applies to a victim if the person accused of the offence or, as the case requires, the offender applies to a court under section 200 of the Criminal Procedure Act 2011 for an order or further order—
-  (a) prohibiting the publication of his or her name, address, or occupation, or of any particulars likely to lead to his or her identification; and
-  (b) having effect permanently.
-(2) If this section applies to a victim, the prosecutor—
-  (a) must make all reasonable efforts to ensure that any views the victim has on the application are ascertained; and
-  (b) must inform the court of any views ascertained under paragraph (a).
-
 ## Part 2A — Provisions relating to rights of victims who are sexual case complainants
 
 ### 28A Sections 28BA and 28D apply only to individual victims who are sexual case complainants
@@ -348,7 +374,7 @@ Sections 28BA and 28D apply only to an individual victim who is a sexual case co
 
 ### 28BA Victim’s preferences on presenting victim impact statement
 If a victim impact statement of the victim as a sexual case complainant is to be, or has been, submitted under section 21(1), the prosecutor must make all reasonable efforts to ensure that—
-  (a) the victim is informed about the ways in which the victim impact statement may, with the agreement of the judicial officer sentencing the offender, be read to the court, or presented to the court in some other manner, under sections 22 and 22A; and
+  (a) the victim is informed about the ways in which the victim impact statement may, with the agreement of the judicial officer sentencing the offender or making an order under section 24(1) or 25(1) of the Criminal Procedure (Mentally Impaired Persons) Act 2003 in relation to a defendant who is acquitted on account of insanity, be read to the court, or presented to the court in some other manner, under sections 22 and 22A; and
   (b) any preferences the victim has on that matter are ascertained and taken into account in the operation of those sections.
 
 ### 28D Court may be cleared when victim impact statement read or otherwise presented to court
@@ -381,6 +407,24 @@ As soon as practicable after a victim comes into contact with the New Zealand Po
 (2) If this section applies, the prosecutor must—
   (a) make all reasonable efforts to ascertain any views the victim has about the accused, or, as the case requires, the offender, being released on bail; and
   (b) inform the court of any views ascertained under paragraph (a).
+
+**Notice for victims of persons or offenders subject to mental health or intellectual disability care**
+
+### 30A Victims of persons or offenders subject to mental health or intellectual disability care must be notified of person’s or offender’s designation
+(1) Without limiting sections 29 and 32B, this section applies to a victim if the person accused of the offence or, as the case requires, the offender—
+  (a) is liable to be detained in a hospital or facility in connection with the offence; and
+  (b) when their liability of that kind began, they were liable to be detained in a hospital or facility—
+    (i) as a special patient as defined in section 2(1) of the Mental Health (Compulsory Assessment and Treatment) Act 1992 or as a special care recipient as defined in section 6(2) of the Intellectual Disability (Compulsory Care and Rehabilitation) Act 2003; or
+    (ii) under an order made under section 25(1)﻿(a) or (b) or 34(1)﻿(b) of the Criminal Procedure (Mentally Impaired Persons) Act 2003.
+(2) The Director-General of Health must give a victim to whom this section applies—
+  (a) notice of whether the person or offender has been designated as—
+    (i) a special patient as defined in section 2(1) of the Mental Health (Compulsory Assessment and Treatment) Act 1992; or
+    (ii) a special care recipient as defined in section 6(2) of the Intellectual Disability (Compulsory Care and Rehabilitation) Act 2003; or
+    (iii) a patient under the Mental Health (Compulsory Assessment and Treatment) Act 1992, under an order made under section 25(1)﻿(a) or 34(1)﻿(b) of the Criminal Procedure (Mentally Impaired Persons) Act 2003; or
+    (iv) a care recipient under the Intellectual Disability (Compulsory Care and Rehabilitation) Act 2003, under an order made under section 25(1)﻿(b) or 34(1)﻿(b) of the Criminal Procedure (Mentally Impaired Persons) Act 2003; and
+  (b) an explanation of the meaning and consequences of the person or offender’s designation; and
+  (c) a list of the future notifications that the victim is eligible to receive.
+(3) The Director-General of Health must give notice under subsection (2) to the victim as soon as practicable after the person or offender has been designated as one of the classes of people described in subsection (2)﻿(a).
 
 **Duties in relation to informing victims about receiving notices under sections 34 to 39**
 
@@ -792,5 +836,19 @@ The Victims of Offences Act 1987 (1987 No 173) is repealed.
   (c) section 28A (sections 28B to 28D apply only to individual victims, or all victims, who are sexual case complainants) (as inserted by section 31 of that Act), but only to the extent that it relates to the application of sections 28BA and 28D:
   (d) section 28BA (victim’s preferences on presenting victim impact statement) (as inserted by section 30 or 31 of that Act):
   (e) section 28D (court may be cleared when victim impact statement read or otherwise presented to court).
+
+### Part 2 — Provision relating to Rights for Victims of Insane Offenders Act 2021
+
+### 2 Transitional provision
+(1) This clause applies to any matter initiated under section 17AA, 20, 21, 22, 22A, 26, or 28 before the commencement of this clause.
+(2) If this clause applies, the provisions of the relevant section, as they read immediately before the commencement of this clause, continue to apply to the matter as if they had not been amended or replaced by the Rights for Victims of Insane Offenders Act 2021.
+(3) In this clause, matter includes any—
+  (a) action undertaken:
+  (b) decision taken:
+  (c) notice given:
+  (d) proceeding commenced:
+  (e) application made:
+  (f) agreement entered into:
+  (g) requirement imposed.
 
 ## Schedule 1 — Enactments amended
