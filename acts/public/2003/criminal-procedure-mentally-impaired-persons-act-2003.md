@@ -1,5 +1,5 @@
 # Criminal Procedure (Mentally Impaired Persons) Act 2003
-_Consolidation as at 2021-10-28_
+_Consolidation as at 2022-12-13_
 
 ### 1 Title
 This Act is the Criminal Procedure (Mentally Impaired Persons) Act 2003.
@@ -19,6 +19,9 @@ The purpose of this Act is to restate the law formerly set out in Part 7 of the 
 
 ### 4 Interpretation
 (1) In this Act, unless the context otherwise requires,—
+  - **act proven but not criminally responsible on account of insanity** , in respect of a defendant charged with an offence, means—
+    (a) the defendant is found to have caused the act or omission that forms the basis of the offence with which the defendant is charged; and
+    (b) the defendant was insane at the time that the defendant caused that act or omission
   - **care recipient** has the same meaning as that given to the expression care recipient no longer subject to the criminal justice system in the Intellectual Disability (Compulsory Care and Rehabilitation) Act 2003
   - **compulsory care order** has the same meaning as in the Intellectual Disability (Compulsory Care and Rehabilitation) Act 2003
   - **compulsory treatment order** means a compulsory treatment order made under Part 2 of the Mental Health (Compulsory Assessment and Treatment) Act 1992
@@ -42,7 +45,8 @@ The purpose of this Act is to restate the law formerly set out in Part 7 of the 
     (b) includes a defendant who, due to mental impairment, is unable—
       (i) to plead:
       (ii) to adequately understand the nature or purpose or possible consequences of the proceedings:
-      (iii) to communicate adequately with counsel for the purposes of conducting a defence.
+      (iii) to communicate adequately with counsel for the purposes of conducting a defence
+  - **victim** has the same meaning as in section 2(1) of the Mental Health (Compulsory Assessment and Treatment) Act 1992.
 (2) If this Act comes into force before the commencement of section 114(1) of the Health Practitioners Competence Assurance Act 2003, then, until that commencement, subsection (1) must be read as if, for the definitions of medical practitioner and psychologist, there were substituted the following definitions:
   - **medical practitioner** means a medical practitioner registered under the Medical Practitioners Act 1995
   - **psychologist** means a psychologist registered under the Psychologists Act 1981
@@ -154,14 +158,20 @@ The jurisdiction under any of sections 8A and 10 to 13 may be exercised in the a
 
 ### Subpart 2 — Acquittals on account of insanity
 
-### 20 Finding of insanity
-(1) If, at a trial, the defendant gives evidence as to his or her insanity and the jury or (if there is no jury) the Judge finds the defendant not guilty on account of his or her insanity, the Judge must record that finding.
-(2) Before or at a trial, the Judge must record a finding that the defendant is not guilty on account of his or her insanity if—
-  (a) the defendant indicates that he or she intends to raise the defence of insanity; and
-  (b) the prosecution agrees that the only reasonable verdict is not guilty on account of insanity; and
-  (c) the Judge is satisfied, on the basis of expert evidence, that the defendant was insane within the meaning of section 23 of the Crimes Act 1961 at the time of the commission of the offence.
-(3) If, at a trial before a jury, the defendant gives evidence as to his or her insanity and the jury finds the defendant not guilty, the Judge must ask the jury whether or not it has acquitted the defendant on account of his or her insanity.
-(4) In a case where it appears from the evidence that the defendant may have been insane at the time of the commission of the offence, the Judge may ask the jury to find whether the defendant was insane within the meaning of section 23 of the Crimes Act 1961, even though the defendant has not given evidence as to his or her insanity or put the question of his or her sanity in issue.
+### 20 Finding of act proven but not criminally responsible on account of insanity
+(1) If, at a trial, the defendant gives evidence as to the defendant’s insanity and the jury or (if there is no jury) the Judge makes a finding of act proven but not criminally responsible on account of insanity, the Judge must—
+  (a) record a finding of act proven but not criminally responsible on account of insanity; and
+  (b) explain the meaning of that finding to the defendant; and
+  (c) acquit the defendant on account of the defendant’s insanity.
+(2) Before or at a trial, the Judge must do the things specified in subsection (1) if—
+  (a) the defendant indicates an intention to raise the defence of insanity; and
+  (b) the prosecution agrees that the only reasonable verdict is a finding of act proven but not criminally responsible on account of insanity; and
+  (c) the Judge is satisfied, on the basis of expert evidence, that the defendant was insane within the meaning of section 23 of the Crimes Act 1961 at the time of the act or omission that forms the basis of the offence with which the defendant is charged.
+(3) If, at a trial before a jury, the defendant gives evidence as to the defendant’s insanity and the jury finds the defendant not guilty, the Judge must ask the jury whether it has acquitted the defendant on account of the defendant’s insanity.
+(4) The Judge must do the things specified in subsection (1) if—
+  (a) the Judge asks the jury under subsection (3) whether it has acquitted the defendant on account of the defendant’s insanity; and
+  (b) the jury responds that it has acquitted the defendant on that basis.
+(5) If it appears from the evidence that the defendant may have been insane at the time of the act or omission that forms the basis of the offence with which the defendant is charged, the Judge may ask the jury to find whether the defendant was insane within the meaning of section 23 of the Crimes Act 1961, even though the defendant has not given evidence as to the defendant’s insanity or put the question of the defendant’s sanity in issue.
 
 ### 21 Appeal against acquittal on account of insanity
 (1) A defendant who is acquitted on account of his or her insanity may appeal against the verdict or decision, and, for the purposes of such an appeal,—
@@ -261,9 +271,13 @@ The jurisdiction under any of sections 8A and 10 to 13 may be exercised in the a
 (2) If, before or on the expiry of the relevant maximum period specified in section 30, a certificate is given under the Mental Health (Compulsory Assessment and Treatment) Act 1992 or the Intellectual Disability (Compulsory Care and Rehabilitation) Act 2003 to the effect that the defendant is no longer unfit to stand trial, the Attorney-General must either—
   (a) direct that the defendant be brought before the appropriate court; or
   (b) direct that the defendant be held as a patient or, as the case requires, as a care recipient.
-(3) If, at any time before the expiry of the relevant maximum period specified in section 30, a certificate is given under the Mental Health (Compulsory Assessment and Treatment) Act 1992 or the Intellectual Disability (Compulsory Care and Rehabilitation) Act 2003 to the effect that, although the defendant is still unfit to stand trial, the continued detention of the defendant under section 24 is no longer necessary, the Minister of Health, acting with the concurrence of the Attorney-General, must—
-  (a) consider whether, in the Minister's opinion, the continued detention of the defendant under that section is no longer necessary; and
-  (b) direct that the defendant be held as a patient or, as the case requires, as a care recipient if, in the Minister's opinion, that detention is no longer necessary.
+(3) If, at any time before the expiry of the relevant maximum period specified in section 30, a certificate is given under the Mental Health (Compulsory Assessment and Treatment) Act 1992 or the Intellectual Disability (Compulsory Care and Rehabilitation) Act 2003 to the effect that, although the defendant is still unfit to stand trial, the continued detention of the defendant under section 24 is no longer necessary to safeguard the interests specified in subsection (3A), the Minister of Health, acting with the concurrence of the Attorney-General, must—
+  (a) consider whether, in the Minister’s opinion, the continued detention of the defendant under that section is no longer necessary to safeguard those interests; and
+  (b) direct that the defendant be held as a patient or, as the case requires, as a care recipient if, in the Minister’s opinion, that detention is no longer necessary to safeguard those interests.
+(3A) The interests referred to in subsection (3) are—
+  (a) the defendant’s own interests; and
+  (b) the safety of the public or the safety of a person or class of person.
+(3B) In reaching a decision under subsection (3)﻿(a), the Minister must have regard to any report from the Director of Mental Health made under section 33A.
 (4) The Attorney-General must direct that the defendant be held as a patient or, as the case requires, as a care recipient if—
   (a) the defendant is still detained as a special patient or as a special care recipient when the maximum period specified in section 30 expires; and
   (b) no direction under subsection (2) or subsection (3) has been given in respect of the defendant; and
@@ -291,9 +305,58 @@ When a direction is given under section 31 that a defendant be held as a patient
 (4) The interests referred to in subsection (3) are—
   (a) the defendant's own interests; and
   (b) the safety of the public or the safety of a person or class of person.
+(4A) In reaching a decision under subsection (3)﻿(a), the Minister must have regard to any report from the Director of Mental Health made under section 33A.
 (5) A direction under this section—
   (a) that the defendant be held as a patient is to be regarded as a compulsory treatment order for the purposes of the Mental Health (Compulsory Assessment and Treatment) Act 1992, and the provisions of that Act apply accordingly:
   (b) that the defendant be held as a care recipient is to be regarded as a compulsory care order for the purposes of the Intellectual Disability (Compulsory Care and Rehabilitation) Act 2003, and the provisions of that Act apply accordingly.
+
+### 33A Report by Director of Mental Health on defendant’s continued detention
+The Director of Mental Health may report to the Minister of Health about the continued detention under section 24 of a defendant described in section 31(1) or 33(1).
+
+### 33B When victims must be notified of impending decision under section 31 or 33
+(1) This section applies if the Director of Mental Health intends to report to the Minister of Health under section 33A.
+(2) The Director must take all reasonable steps to—
+  (a) give notice to a victim that the Director intends to report to the Minister of Health under section 33A about the continued detention of a defendant; and
+  (b) explain to the victim—
+    (i) the process under section 31(3) or 33(3); and
+    (ii) how the victim may participate in that process.
+
+### 33C Right of victims to make submissions on proposed change of status
+(1) This section applies to a person notified under section 33B.
+(2) The person may write to the Director of Mental Health, making submissions on the decision of whether to change the defendant’s status under section 31(3) or 33(3).
+(3) The person’s submissions may address—
+  (a) any concerns that the person has, on reasonable grounds, about any risk that the defendant presents to—
+    (i) the person’s physical safety or security; or
+    (ii) the physical safety or security of 1 or more members of the person’s immediate family; and
+  (b) any other information that the person considers relevant to the decision of whether to change the defendant’s status under section 31(3) or 33(3).
+(4) The person must send the submission to the Director by the date specified by the Director.
+(5) The Director must have regard to any written submissions made by a victim under this section or section 33D.
+(6) In this section, immediate family has the same meaning as in section 4 of the Victims’ Rights Act 2002.
+
+### 33D Submissions from certain victims
+(1) This section applies to a person who—
+  (a) is not a victim as defined in section 4; but
+  (b) is a victim as defined in section 4 of the Victims’ Rights Act 2002.
+(2) The person may make written submissions to the Director of Mental Health about the decision of whether to change the defendant’s status under section 31(3) or 33(3).
+(3) If the person seeks information from the Director for the purpose of making submissions under subsection (2), the Director may—
+  (a) advise the person of the date on which the Director intends to report to the Minister of Health about the continued detention of the defendant; and
+  (b) give the person any other information that is reasonably necessary to enable the person to make submissions.
+(4) Section 33C applies with any necessary modifications.
+(5) Neither the Director nor any other person has any liability for any act done in pursuance, or intended pursuance, of the Director’s functions under this section or section 33E(1)﻿(b), unless the act was done in bad faith.
+
+### 33E Victims must be notified of decisions made under sections 31 and 33
+(1) The Director of Mental Health must advise the following persons of the matters specified in subsection (2):
+  (a) a person notified under section 33B:
+  (b) a person who makes a submission under section 33D(2).
+(2) The specified matters are—
+  (a) whether the Director’s report to the Minister of Health concludes that the defendant’s continued detention under section 24—
+    (i) continues to be necessary; or
+    (ii) is no longer necessary; and
+  (b) what decision the Minister has reached under section 31(3) or 33(3).
+
+### 33F Information about victims not to be disclosed
+(1) This section applies to sections 33A to 33E.
+(2) No person may, directly or indirectly, disclose to the defendant the current address or contact details of any victim of the defendant.
 
 ### Subpart 4 — Detention, treatment, and care of defendants who are convicted
 
@@ -465,6 +528,34 @@ The Acts specified in the Schedule are amended in the manner indicated in that s
 (1) If, at the commencement of this schedule, criminal proceedings have been commenced against a defendant but the court has not held any hearing to determine, in accordance with section 9 of the principal Act (as it read before the commencement of this schedule), the nature of the defendant’s involvement with the offence, the court may direct that criminal proceedings against the defendant be continued under the provisions of this Act (as amended by subpart 6 of Part 4 of the Courts Matters Act 2018 (the 2018 Act)).
 (2) The court may give a direction under subclause (1) only if it is satisfied that it is in the interests of justice to do so.
 (3) If, however, before the commencement of this schedule, the court has begun proceedings to determine under section 9 of the principal Act (as it was before the commencement of this schedule) whether the defendant caused the act or omission that forms the basis of the offence with which the defendant is charged, or the court has made a determination under that section that proceedings against the defendant must be continued as if the 2018 Act had not been passed.
+
+### Part 2 — Provisions relating to Rights for Victims of Insane Offenders Act 2021
+
+### 2 Interpretation
+In this Part, amendment Act means the Rights for Victims of Insane Offenders Act 2021.
+
+### 3 Proceedings started before commencement
+(1) This clause applies if, at the commencement of the amendment Act, criminal proceedings have been commenced against a defendant but the court has not held any hearing to determine, in accordance with section 20 (as it read before the commencement of the amendment Act), the nature of the defendant’s involvement with the offence.
+(2) The court may direct that criminal proceedings against the defendant be continued under the provisions of this Act (as amended by the amendment Act).
+(3) The court may give a direction under subclause (2) only if it is satisfied that it is in the interests of justice to do so.
+(4) However, proceedings against the defendant must be continued as if the amendment Act had not been enacted if, before the commencement of the amendment Act, the court has—
+  (a) begun proceedings to determine under section 20 (as it was before the commencement of the amendment Act) whether the defendant caused the act or omission that forms the basis of the offence with which the defendant is charged; or
+  (b) made a determination under that section.
+
+### 4 Validity of proceedings under section 20
+No proceeding under section 20 is invalid only because it was conducted under the law as it was before the commencement of the amendment Act when it ought to have been conducted in accordance with the law as it was after the commencement of that Act.
+
+### 5 Matters initiated under section 31 or 33
+(1) This clause applies to any matter initiated under section 31 or 33 before the commencement of this clause.
+(2) If this clause applies, the provisions of the relevant section, as they read immediately before the commencement of this clause, continue to apply to the matter as if they had not been amended or replaced by the amendment Act.
+(3) In this clause, matter includes any—
+  (a) action undertaken; and
+  (b) decision taken; and
+  (c) notice given; and
+  (d) proceeding commenced; and
+  (e) application made; and
+  (f) agreement entered into; and
+  (g) requirement imposed.
 
 ## Schedule 1 — Consequential amendments to other enactments
 
