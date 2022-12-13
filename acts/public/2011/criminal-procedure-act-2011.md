@@ -1,5 +1,5 @@
 # Criminal Procedure Act 2011
-_Consolidation as at 2022-08-16_
+_Consolidation as at 2022-12-13_
 
 ### 1 Title
 This Act is the Criminal Procedure Act 2011.
@@ -2138,7 +2138,7 @@ For the purposes of this subpart, publication means publication in the context o
 (3) The fact that a defendant is well known does not, of itself, mean that publication of his or her name will result in extreme hardship for the purposes of subsection (2)﻿(a).
 (4) Despite subsection (2), when a person who is charged with an offence first appears before the court the court may make an interim order under subsection (1) if that person advances an arguable case that one of the grounds in subsection (2) applies.
 (5) An interim order made in accordance with subsection (4) expires at the person's next court appearance, and may only be renewed if the court is satisfied that one of the grounds in subsection (2) applies.
-(6) When determining whether to make an order or further order under subsection (1) that is to have effect permanently, a court must take into account any views of a victim of the offence conveyed in accordance with section 28 of the Victims' Rights Act 2002.
+(6) When determining whether to make an order or further order under subsection (1) that is to have effect permanently, a court must take into account any views of a victim of the offence conveyed in accordance with section 16B of the Victims' Rights Act 2002.
 
 ### 201 Automatic suppression of identity of defendant in specified sexual cases
 (1) This section applies if a person is accused or convicted of an offence against section 130 or 131 of the Crimes Act 1961.
