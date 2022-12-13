@@ -1,5 +1,5 @@
 # Intellectual Disability (Compulsory Care and Rehabilitation) Act 2003
-_Consolidation as at 2021-10-28_
+_Consolidation as at 2022-12-13_
 
 ### 1 Title
 This Act is the Intellectual Disability (Compulsory Care and Rehabilitation) Act 2003.
@@ -88,6 +88,11 @@ The purposes of this Act are—
   - **support person** , in relation to a care recipient, means a person who has been nominated by the care recipient for the purposes of—
     (a) helping the care recipient express his or her wishes or needs; and
     (b) trying to explain to the care recipient the recommendations and requirements of persons exercising authority over the care recipient
+  - **victim** means (unless otherwise provided),—
+    (a) in relation to a care recipient or a special care recipient, a person who has, under section 32B of the Victims’ Rights Act 2002,—
+      (i) asked for notice, or for advice and copies; and
+      (ii) given their address:
+    (b) an individual appointed under section 40 of that Act
   - **welfare guardian** has the same meaning as in section 2 of the Protection of Personal and Property Rights Act 1988
   - **without notice** , in relation to an application, has the same meaning as ex parte
   - **young person** has the same meaning as in section 2(1) of the Oranga Tamariki Act 1989.
@@ -162,6 +167,9 @@ The purposes of this Act are—
 (3) A facility that is not a secure facility need not have any particular features and, accordingly, a building (such as a residential house) that is not an institution can be used as such a facility.
 (4) In no case can a prison be used as a facility.
 (5) Subsection (3) is subject to any other enactment.
+
+### 9A Transitional, savings, and related provisions
+The transitional, savings, and related provisions set out in Schedule 1 have effect according to their terms.
 
 ### 10 Act binds the Crown
 This Act binds the Crown.
@@ -627,10 +635,58 @@ Every care recipient is entitled to medical treatment and other health care appr
 (2) The care manager may extend the period of authorised leave for a further period of not more than 2 weeks; but no care recipient may be absent under this section for a continuous period of more than 4 weeks.
 (3) The care manager may, at any time during the period of leave, cancel the leave by notifying the person who has undertaken the care of the care recipient during the period of leave or, if there is no such person, by notifying the care recipient.
 
+### 65A When victims must be notified of impending decision under section 65
+(1) This section applies if—
+  (a) a care manager intends to decide whether to authorise a care recipient to be on leave under section 65(1); and
+  (b) that period of leave would permit the care recipient to exercise greater autonomy outside the facility than has any other period of leave previously granted to the care recipient.
+(2) The care manager must take all reasonable steps to—
+  (a) give notice to a victim that the care manager intends to decide whether to authorise a care recipient to be on leave under section 65(1); and
+  (b) explain to the victim—
+    (i) the process under section 65 for granting a care recipient a period of leave; and
+    (ii) how the victim may participate in that process.
+
+### 65B Right of victims to make submissions on proposed leave
+(1) This section applies to a person notified under section 65A.
+(2) The person may write to the care manager, making submissions on the decision of whether to authorise leave under section 65(1).
+(3) The person’s submissions may address—
+  (a) any concerns that the person has, on reasonable grounds, about any risk that the care recipient presents to—
+    (i) the person’s physical safety or security; or
+    (ii) the physical safety or security of 1 or more members of the person’s immediate family; and
+  (b) any other information that the person considers relevant to the decision of whether to authorise leave under section 65(1).
+(4) The person must send the submission to the care manager by the date specified by the care manager.
+(5) The care manager must have regard to any written submissions made by a victim under this section or section 65C.
+(6) In this section, immediate family has the same meaning as in section 4 of the Victims’ Rights Act 2002.
+
+### 65C Submissions from certain victims
+(1) This section applies to a person who—
+  (a) is not a victim as defined in section 5(1); but
+  (b) is a victim as defined in section 4 of the Victims’ Rights Act 2002.
+(2) The person may make written submissions to the care manager about the decision of whether to authorise leave under section 65(1).
+(3) If the person seeks information from the care manager for the purpose of making submissions under subsection (2), the care manager may—
+  (a) advise the person of the date on which the care manager intends to decide whether to authorise a care recipient to be on leave; and
+  (b) give the person any other information that is reasonably necessary to enable the person to make submissions.
+(4) Section 65B applies with any necessary modifications.
+(5) Neither the care manager nor any other person has any liability for an act done in pursuance, or intended pursuance, of the care manager’s functions under this section or section 65D(1)﻿(b), unless the act was done in bad faith.
+
+### 65D Victims must be notified of decisions made under section 65
+(1) The care manager must advise the following persons of the matters specified in subsection (2):
+  (a) a person notified under section 65A:
+  (b) a person who makes a submission under section 65C(2).
+(2) The specified matters are—
+  (a) whether the care manager has authorised a care recipient to be on leave under section 65(1):
+  (b) if the care manager has authorised the care recipient to be on leave, any terms and conditions applying to the care recipient under section 65(1).
+(3) The care manager may withhold advice of a particular term or condition if, in the care manager’s opinion, disclosing the term or condition would unduly interfere with the privacy of any other person (other than the care recipient).
+
+### 65E Information about victims not to be disclosed
+(1) This section applies to sections 65A to 65D.
+(2) No person may, directly or indirectly, disclose to the care recipient the current address or contact details of any victim of the care recipient.
+
 **Leave for special care recipients**
 
 ### 66 Minister may authorise leave for special care recipients
-(1) The Minister may authorise a special care recipient to be on leave from the care recipient's secure facility on any terms and conditions that the Minister specifies, if a specialist assessor certifies that the care recipient is fit to be on leave.
+(1) The Minister may authorise a special care recipient to be on leave from the care recipient’s secure facility on any terms and conditions that the Minister specifies, if—
+  (a) a specialist assessor certifies that the care recipient is fit to be on leave; and
+  (b) the Director-General of Health supports the proposed leave, taking into account any submission from a victim made in accordance with section 67D or 67E.
 (2) The Minister may (at the Minister's discretion) include in the conditions specified under subsection (1) a condition that the care recipient return to the secure facility on a specified date or within a specified period.
 (3) No care recipient may be on leave, authorised under this section, if the care recipient—
   (a) is charged with, or convicted of, an offence, and—
@@ -660,6 +716,72 @@ Every care recipient is entitled to medical treatment and other health care appr
   - **depart** includes—
     (a) attempt to depart:
     (b) prepare to depart.
+
+### 67B When victims must be notified of impending decision under section 66
+(1) This section applies if the Director-General of Health is required to decide whether to support the proposed leave of a special care recipient under section 66(1).
+(2) The Director-General must take all reasonable steps to—
+  (a) give notice to a victim that the Director-General is required to decide whether to support the proposed leave of a special care recipient under section 66(1); and
+  (b) explain to the victim—
+    (i) the process under section 66 for granting a special care recipient a period of leave; and
+    (ii) how the victim may participate in that process.
+
+### 67C When victims must be notified of impending decision under section 67
+(1) This section applies if—
+  (a) the Director-General of Health intends to decide whether to authorise a special care recipient to be on leave under section 67(1); and
+  (b) that period of leave would permit the special care recipient to exercise greater autonomy outside the secure facility than has any other period of leave previously granted to the special care recipient.
+(2) The Director-General must take all reasonable steps to—
+  (a) give notice to a victim that the Director-General intends to decide whether to authorise a special care recipient to be on leave under section 67(1); and
+  (b) provide the victim with an explanation of—
+    (i) the process under section 67 for granting a special care recipient a period of leave; and
+    (ii) how the victim may participate in that process.
+
+### 67D Right of victims to make submissions on proposed leave
+(1) This section applies to a person notified under section 67B or 67C.
+(2) The person may write to the Director-General, making submissions on, or giving information relevant to, the decision of whether to authorise leave under section 66(1) or 67(1).
+(3) The person’s submissions may address—
+  (a) any concerns that the person has, on reasonable grounds, about any risk that the special care recipient presents to—
+    (i) the person’s physical safety or security; or
+    (ii) the physical safety or security of 1 or more members of the person’s immediate family; and
+  (b) any other information that the person considers relevant to the decision of whether to authorise leave under section 66(1) or 67(1).
+(4) The person must send the submissions to the Director-General by the date specified by the Director-General.
+(5) The Director-General must have regard to any written submissions made by a victim under this section or section 67E.
+(6) In this section, immediate family has the same meaning as in section 4 of the Victims’ Rights Act 2002.
+
+### 67E Submissions from certain victims
+(1) This section applies to a person who—
+  (a) is not a victim as defined in section 5(1); but
+  (b) is a victim as defined in section 4 of the Victims’ Rights Act 2002.
+(2) The person may make written submissions to the Director-General of Health about the decision of whether to authorise leave under section 66(1) or 67(1).
+(3) If the person seeks information from the Director-General for the purpose of making submissions under subsection (2), the Director-General may—
+  (a) advise the person of the date on which the Director-General intends to decide whether to—
+    (i) support the proposed leave of the special care recipient under section 66(1); or
+    (ii) authorise a special care recipient to be on leave under section 67(1); and
+  (b) give the person any other information that is reasonably necessary to enable the person to make submissions.
+(4) Section 67D applies with any necessary modifications.
+(5) Neither the Director-General nor any other person has any liability for an act done in pursuance, or intended pursuance, of the Director-General’s functions under this section, section 67F(1)﻿(b), or 67G(1)﻿(b), unless the act was done in bad faith.
+
+### 67F Victims must be notified of decisions made under section 66
+(1) The Director-General must advise the following persons of the matters specified in subsection (2):
+  (a) a person notified under section 67B:
+  (b) a person who makes a submission under section 67E(2) about the decision of whether to authorise leave under section 66(1).
+(2) The specified matters are—
+  (a) whether the Director-General supports the proposed leave of the special care recipient under section 66(1):
+  (b) if the Director-General supports the proposed leave, whether the Minister has authorised the special care recipient leave under section 66(1):
+  (c) if the Minister has authorised the special care recipient leave, any terms and conditions applying to the special care recipient under section 66(1).
+(3) The Director-General may withhold advice of a particular term or condition if, in the Director-General’s opinion, disclosing the term or condition would unduly interfere with the privacy of any other person (other than the special care recipient).
+
+### 67G Victims must be notified of decisions made under section 67
+(1) The Director-General must advise the following persons of the matters specified in subsection (2):
+  (a) a person notified under section 67C:
+  (b) a person who makes a submission under section 67E(2) about the decision of whether to authorise leave under section 67(1).
+(2) The specified matters are—
+  (a) whether the Director-General has authorised a special care recipient to be on leave under section 67(1):
+  (b) if the Director-General has authorised the special care recipient leave, any terms and conditions applying to the special care recipient under section 67(1).
+(3) The Director-General may withhold advice of a particular term or condition if, in the Director-General’s opinion, disclosing the term or condition would unduly interfere with the privacy of any other person (other than the special care recipient).
+
+### 67H Information about victims not to be disclosed
+(1) This section applies to sections 67B to 67G.
+(2) No person may, directly or indirectly, disclose to the special care recipient the current address or contact details of any victim of the special care recipient.
 
 ### Subpart 4 — Status of special care recipients subject to sentences
 
@@ -1267,3 +1389,36 @@ Rules may be made under section 16A of the Family Court Act 1980 regulating the 
     (ii) whether or not professional services are to be provided in a specified number of proceedings during a specified period:
   (e) providing for any other matters contemplated by this Act or necessary for its administration or necessary for giving it full effect.
 (2) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+
+## Schedule 1 — Transitional, savings, and related provisions
+
+### Part 1 — Provisions relating to Rights for Victims of Insane Offenders Act 2021
+
+### 1 Transitional provision
+(1) This clause applies to any matter initiated under section 66 before the commencement of this clause.
+(2) If this clause applies, the provisions of the relevant section, as they read immediately before the commencement of this clause, continue to apply to the matter as if they had not been amended or replaced by the Rights for Victims of Insane Offenders Act 2021.
+(3) In this clause, matter includes any—
+  (a) action undertaken:
+  (b) decision taken:
+  (c) notice given:
+  (d) proceeding commenced:
+  (e) application made:
+  (f) agreement entered into:
+  (g) requirement imposed.
+
+### 2 Transitional provision if leave decision and resulting leave fall either side of commencement date
+(1) This clause applies if—
+  (a) a leave decision has been made; and
+  (b) as a consequence of the leave decision, a care recipient or a special care recipient is due to take, or is taking, leave when this clause commences.
+(2) The Director-General of Health may, to the extent that the Director-General considers appropriate in the circumstances, advise a victim of the leave decision as specified in sections 65D(2) and 67F(2).
+(3) In this clause, leave decision means a decision made before the commencement of this clause by—
+  (a) a care manager to—
+    (i) authorise a care recipient to be on leave under section 65(1); or
+    (ii) extend a care recipient’s leave under section 65(2); or
+    (iii) cancel a care recipient’s leave under section 65(3); or
+  (b) the Minister to—
+    (i) authorise a special care recipient to be on leave under section 66(1); or
+    (ii) cancel a special care recipient’s leave under section 66(4); or
+  (c) the Director-General of Health to—
+    (i) authorise a special care recipient to be on leave under section 67(1); or
+    (ii) cancel a special care recipient’s leave under section 67(3).
