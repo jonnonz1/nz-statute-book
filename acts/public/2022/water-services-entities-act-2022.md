@@ -13,7 +13,7 @@ This Act is the Water Services Entities Act 2022.
   (e) section 210 (which contains regulation-making powers) and section 206 so far as it relates to regulations made under section 210(1)﻿(a):
   (f) section 218 (which ensures that a support package payment made by a water services entity is charged with GST at the rate of 0%):
   (g) section 223 (which amends the Local Government Act 2002 in respect of matters related to water services):
-  (h) sections 234 and 225 (which amend the Taumata Arowai–the Water Services Regulator Act 2020 in respect of te Mana o te Wai):
+  (h) section 234 (which amends the Taumata Arowai–the Water Services Regulator Act 2020 in respect of te Mana o te Wai):
   (i) sections 236 and 237 (which amend the Water Services Act 2021 in respect of—
     (i) te Mana o te Wai; and
     (ii) consultation on, and accounting for and banking of, cost-recovery levies):
@@ -972,7 +972,7 @@ The constitution of a water services entity must provide for the following matte
 (7) A proposed amendment to the entity’s constitution or a proposed new constitution for the entity has no effect if rejected by the Minister.
 (8) The constitution as amended or replaced under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 (9) For that Act, the regional representative group is, despite the Minister’s approval, taken to be the maker of the constitution.
-(10) This section applies, without limitation, to an amendment or new constitution increasing the number of regional representatives (see section 210(4)﻿(b)), but does not apply to an amendment of a type described in section 98(1).
+(10) This section applies, without limitation, to an amendment or new constitution increasing the number of regional representatives (see section 210(4)), but does not apply to an amendment of a type described in section 98(1).
 
 ### 98 Minor or technical amendments
 (1) A regional representative group may, in the manner provided by the constitution, amend the water services entity’s constitution under this section if the amendment—
@@ -1129,7 +1129,7 @@ The water services entity must disclose an interest to which a permission under 
 (1) A water services entity may avoid a natural person act done by the entity in respect of which a board member was in breach of section 107.
 (2) However, the act of a board member—
   (a) may be avoided only within 3 months of the affected act being notified—
-    (i) to the chairperson of the regional representative group, under section 103)﻿(a); or
+    (i) to the chairperson of the regional representative group, under section 108(1)﻿(a); or
     (ii) under section 108(1)﻿(b), and in accordance with the procedure specified, for the purposes of section 108(1)﻿(b), in the constitution; and
   (b) cannot be avoided if the entity receives fair value in respect of the act.
 (3) An act in which a board member is interested can be avoided on the ground of the board member’s interest only in accordance with this section.
@@ -2015,7 +2015,7 @@ In this subpart, problem means a matter, circumstance, or failure (for example, 
     (i) an outline of the problem it has been appointed to manage; and
     (ii) the extent of the Crown manager’s authority; and
   (b) the start and end dates of the Crown manager’s appointment; and
-  (c) the start and dates of the management period.
+  (c) the start and end dates of the management period.
 
 ### Subpart 3 — General provisions applying to Minister’s powers to intervene
 
