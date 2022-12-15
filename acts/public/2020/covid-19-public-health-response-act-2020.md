@@ -1,5 +1,5 @@
 # COVID-19 Public Health Response Act 2020
-_Consolidation as at 2022-11-26_
+_Consolidation as at 2022-12-15_
 
 ### 1 Title
 This Act is the COVID-19 Public Health Response Act 2020.
@@ -340,16 +340,16 @@ A direction under this subpart may be given verbally or in writing.
 (2) A person who commits an offence against subsection (1) is liable on conviction to,—
   (a) for an individual,—
     (i) imprisonment for a term not exceeding 6 months; or
-    (ii) a fine not exceeding $12,000:
+    (ii) a fine not exceeding $5,000:
   (b) for any other person, a fine not exceeding $15,000.
 (3) A person commits an infringement offence if the person does anything specified as an infringement offence in this Act or a COVID-19 order.
 (4) A person who commits an infringement offence is liable to—
   (a) an infringement fee of,—
-    (i) for an individual, $4,000 or any lesser or equal amount prescribed by regulations made under section 33; or
-    (ii) for any other person, $12,000 or any lesser or equal amount prescribed by the regulations; or
+    (i) for an individual, $1,000 or any lesser or equal amount prescribed by regulations made under section 33; or
+    (ii) for any other person, $3,000 or any lesser or equal amount prescribed by the regulations; or
   (b) a fine imposed by a court not exceeding,—
-    (i) for an individual, $12,000 or any lesser or equal amount prescribed by the regulations; or
-    (ii) for any other person, $15,000 or any lesser or equal amount prescribed by the regulations.
+    (i) for an individual, $3,000 or any lesser or equal amount prescribed by the regulations; or
+    (ii) for any other person, $9,000 or any lesser or equal amount prescribed by the regulations.
 
 ### 27 Offences relating to exercise of enforcement powers
 (1) A person commits an offence if the person obstructs or intentionally threatens, assaults, or hinders an enforcement officer in the exercise or performance of powers or functions under sections 20 to 24.
@@ -358,7 +358,7 @@ A direction under this subpart may be given verbally or in writing.
 (4) A person who commits an offence against subsection (1) or (2) is liable on conviction to,—
   (a) for an individual,—
     (i) imprisonment for a term not exceeding 6 months; or
-    (ii) a fine not exceeding $12,000:
+    (ii) a fine not exceeding $5,000:
   (b) for any other person, a fine not exceeding $15,000.
 
 **Provisions relating to infringement offences**
@@ -463,11 +463,11 @@ All infringement fees paid in respect of infringement offences must be paid into
 (1) The Governor-General may, by Order in Council made on the recommendation of the Minister, make regulations—
   (a) prescribing penalties for infringement offences, which,—
     (i) in the case of infringement fees, must not be more than—
-      (A) $4,000, for an individual; or
-      (B) $12,000, for any other person; and
+      (A) $1,000, for an individual; or
+      (B) $3,000, for any other person; and
     (ii) in the case of fines, must not be more than—
-      (A) $12,000, for an individual; or
-      (B) $15,000, for any other person:
+      (A) $3,000, for an individual; or
+      (B) $9,000, for any other person:
   (b) prescribing different penalties for different infringement offences or classes of infringement offences, defined in any way (including by the seriousness of the offence or whether it is a repeat offence), so that (for example) a COVID-19 order may specify that an infringement offence belongs to a certain class and has corresponding penalties:
   (c) prescribing the form of infringement notices and reminder notices, and the information to be included in the notices:
   (d) providing for anything that this Act says may or must be provided for by regulations:
@@ -526,7 +526,7 @@ All infringement fees paid in respect of infringement offences must be paid into
 (4) A person who commits an offence against subsection (3) is liable on conviction to,—
   (a) for an individual,—
     (i) imprisonment for a term not exceeding 6 months; or
-    (ii) a fine not exceeding $12,000:
+    (ii) a fine not exceeding $5,000:
   (b) for any other person, a fine not exceeding $15,000.
 
 ### 34B Protection of evidence collected or obtained for purpose of determining whether person has complied with Act or COVID-19 order
@@ -540,7 +540,7 @@ All infringement fees paid in respect of infringement offences must be paid into
 (4) A person who commits an offence against subsection (1) is liable on conviction to,—
   (a) for an individual,—
     (i) imprisonment for a term not exceeding 6 months; or
-    (ii) a fine not exceeding $12,000:
+    (ii) a fine not exceeding $5,000:
   (b) for any other person, a fine not exceeding $15,000.
 
 ### 34C Breach of section 34A or 34B constitutes interference with privacy of individual under Privacy Act 2020
