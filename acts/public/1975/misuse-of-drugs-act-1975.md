@@ -1,5 +1,5 @@
 # Misuse of Drugs Act 1975
-_Consolidation as at 2022-07-01_
+_Consolidation as at 2022-12-15_
 
 > An Act to consolidate and amend the Narcotics Act 1965 and to make further provision for the prevention of misuse of drugs
 
@@ -1198,11 +1198,17 @@ The Director-General of Health may not issue a licence under clause 4 of Schedul
 
 ### 1 The following substances, namely:
 - **Acetorphine** (03-acetyl-7,8-dihydro-7 α-[1 (R)-hydroxy-1-methylbutyl]-06-methyl-6,14-endoethenomorphine)
+- **Acetylfentanyl**
+- **Acryloylfentanyl**
 - **5F-ADB** Methyl (2S)-2-{[1-(5-fluoropentyl)-1H-indazole-3-carbonyl]amino}-3,3-dimethylbutanoate
 - **AMB-FUBINACA** Methyl (2S)-2-({1-[(4-fluorophenyl)methyl]-1H-indazole-3-carbonyl}amino)-3-methylbutanoate
+- **Amides and carbamates of methamphetamine**
 - **Bufotenine** (3-(2-dimethylaminoethyl)-5-hydroxyindole)
+- **Butyrfentanyl**
 - **Cantharidin** (hexahydro-3a,7a-dimethyl-4,7-epoxyisobenzofuran-1,3-dione)
+- **Carfentanil**
 - **Cocaine** (methyl ester of benzoylecgonine), except when contained in a Class C controlled drug
+- **Cyclopropylfentanyl**
 - **Desomorphine** (dihydrodeoxymorphine)
 - **DET** (N,N-diethyltryptamine)
 - **DMA** (2-amino-1-(2,5-dimethoxyphenyl)propane)
@@ -1210,6 +1216,8 @@ The Director-General of Health may not issue a licence under clause 4 of Schedul
 - **DMT** (N,N-dimethyltryptamine)
 - **DOB** (2-amino-1-(4-bromo-2,5-dimethoxyphenyl)propane) (also known as bromo-DMA)
 - **Etorphine** (7,8-dihydro-7 α-[1 (R)-hydroxy-1-methylbutyl]-06-methyl-6,14-endoethenomorphine)
+- **4-Fluoroisobutyrfentanyl** (4-FIBF)
+- **Furanylfentanyl**
 - **Heroin** (diacetylmorphine)
 - **Ketobemidone** (4-meta-hydroxyphenyl-1-methyl-4-propionylpiperidine)
 - **Lysergic acid** (essential precursor for manufacture of LSD)
@@ -1217,10 +1225,12 @@ The Director-General of Health may not issue a licence under clause 4 of Schedul
 - **MDA** (2-amino-1-(3,4-methylenedioxyphenyl) propane)
 - **Mescaline** (3,4,5-trimethoxyphenethylamine)
 - **Methamphetamine** (2-methylamino-1-phenylpropane)
+- **Methoxyacetylfentanyl**
 - **5-methoxydimethyltryptamine** (5-methoxy-N,N-dimethyltryptamine)
 - **2-methoxy-4,5-methylenedioxyamphetamine** (2-amino-1-(2-methoxy-4,5-methylenedioxyphenyl) propane) (also known as MMDA or MMDA-2)
 - **3-methoxy-4,5-methylenedioxyamphetamine** (2-amino-1-(3-methoxy-4,5-methylenedioxyphenyl) propane) (also known as MMDA)
 - **MPTP** (1-methyl-4-phenyl-1,2,5,6-tetrahydropyridine)
+- **Ocfentanil**
 - **Parahexyl** (3-hexyl-1-hydroxy-7,8,9,10-tetrahydro-6,6,9-trimethyl-6H-dibenzo [b,d] pyran)
 - **PCE** (N-ethyl-1-phenylcyclohexylamine)
 - **PCPY** (1-(1-phenylcyclohexyl)pyrrolidine)
@@ -1232,9 +1242,14 @@ The Director-General of Health may not issue a licence under clause 4 of Schedul
 - **Psilocine** (3-(2-dimethylaminoethyl)-4-hydroxyindole)
 - **Psilotsin** (3-(2-dimethylaminoethyl)-4-hydroxyindole)
 - **Psilocybine** (3-(2-dimethylaminoethyl) indol-4-yl dihydrogen phosphate)
+- **α-Pyrrolidinovalerophenone** (α-PVP)
 - **STP,DOM** (2-amino-1-(2,5-dimethoxy-4-methyl) phenylpropane)
 - **TCP** (1-[1-(2-thienyl)cyclohexyl]piperidine)
-- **TMA** (2-amino-1-(3,4,5-trimethoxyphenyl)propane).
+- **Tetrahydrofuranylfentanyl** (THF-F)
+- **TMA** (2-amino-1-(3,4,5-trimethoxyphenyl)propane)
+- **U-47700**
+- **U-48800**
+- **U-49900** .
 
 ### 2
 The isomers of the substances mentioned in this schedule whenever the existence of such isomers is possible within the specific chemical designation.
@@ -1251,16 +1266,30 @@ Substances containing any proportion of a substance mentioned in clause 1, claus
 ## Schedule 2 — Class B controlled drugs
 
 ### 1 The following substances, namely:
+- **AB-CHMINACA**
+- **AB-FUBINACA**
+- **AB-PINACA**
+- **5F-AKB-48**
+- **AM-2201**
+- **Amphetamine** (2-amino-1-phenylpropane)
+- **Cannabis** preparations: that is, any preparation containing any tetrahydrocannabinols, including cannabis resin (commonly known as hashish) and cannabis oil (commonly know as hash oil), produced by subjecting cannabis plant material to any kind of processing (but does not include a CBD product)
+- **N-ethyl pentylone**
+- **Ethylone**
+- **JWH-018**
+- **MDMA** (2-methylamino-1-(3,4-methylenedioxyphenyl) propane)
+- **MDMB-CHMICA**
+- **Methcathinone**
+- **Morphine**
+- **MT-45**
 - **25B-NBOMe** (2-(4-bromo-2,5-dimethoxyphenyl)-N-(2-methoxybenzyl)ethanamine)
 - **25C-NBOMe** (2-(4-chloro-2,5-dimethoxyphenyl)-N-(2-methoxybenzyl)ethanamine)
 - **25I-NBOMe** (2-(4-iodo-2,5-dimethoxyphenyl)-N-(2-methoxybenzyl)ethanamine)
-- **Amphetamine** (2-amino-1-phenylpropane)
-- **Cannabis** preparations: that is, any preparation containing any tetrahydrocannabinols, including cannabis resin (commonly known as hashish) and cannabis oil (commonly know as hash oil), produced by subjecting cannabis plant material to any kind of processing (but does not include a CBD product)
-- **MDMA** (2-methylamino-1-(3,4-methylenedioxyphenyl) propane)
-- **Methcathinone**
-- **Morphine**
 - **Opium**
-- **Tetrahydrocannabinols** , except when contained in a Class C controlled drug or a CBD product.
+- **Para-methoxymethylamphetamine** (PMMA)
+- **5F-PB-22**
+- **Tetrahydrocannabinols** , except when contained in a Class C controlled drug or a CBD product
+- **UR-144**
+- **XLR-11** .
 
 ### 2
 The isomers of the substances mentioned in clause 1 whenever the existence of such isomers is possible within the specific chemical designation, except for isomers of tetrahydrocannabinols if the isomers naturally occur in cannabis and are not capable of inducing more than a minor psychoactive effect, by any means, in a person.
@@ -1296,9 +1325,12 @@ The substance gamma-hydroxybutyrate (GHB) (commonly known as fantasy) and—
 - **Fenethylline** (3,7-dihydro-1,3-dimethyl-7-[2-[(1-methyl-2-phenylethyl)-amino]ethyl]-1H-purine-2,6-dione)
 - **Fenproporex** (2-(2-cyanoethylamino)-1-phenylpropane)
 - **N-hydroxy MDA** (2-hydroxyamino-1-(3,4-methylenedioxyphenyl) propane)
+- **Lisdexamfetamine**
 - **Mefenorex** (2-(3-chloropropylamino)-1-phenylpropane)
+- **Mephedrone**
 - **Methaqualone** (2-methyl-3-(2-methylphenyl)-4(3H)-quinazolinone)
 - **4-methylaminorex** (cis-2-amino-4-methyl-5-phenyl-2-oxazoline)
+- **Methylone**
 - **Methylphenidate** (α-phenyl-2-piperidineacetic acid methyl ester)
 - **4-methylthioamphetamine**
 - **Norpseudoephedrine** (threo-2-amino-1-hydroxy-1-phenylpropane), including cathine
@@ -1453,6 +1485,7 @@ The following substances:
 - **MeOPP** (1-(4-methoxyphenyl)piperazine)
 - **mCPP** (1-(meta-chlorophenyl)piperazine) or 1-(3-chlorophenyl)piperazine)
 - **MBZP** (1-methyl-4-benzylpiperazine).
+- **Flubromazolam**
 
 ### 3
 The isomers of the substances mentioned in clause 2 whenever the existence of such isomers is possible within the specific chemical designation.
@@ -1596,9 +1629,16 @@ Substances containing any proportion of a substance mentioned in clause 1, claus
 - **Isosafrole**
 - **Lysergic acid**
 - **3, 4,-methylenedioxyphenyl-2-propanone**
+- **Norfentanyl** and its salts
+- **1-phenethyl-4-piperidone** (NPP) and its salts
+- **1-phenethylpiperidin-4-ylidenephenylamine** and its salts
+- **N-phenyl-1-(2-phenylethyl)piperidin-4-amine**
+- **N-phenyl-4-piperidinamine** and its salts
 - **1-phenyl-2 propanone**
+- **4-piperidone** and its salts
 - **Piperonal**
 - **Potassium permanganate**
+- **Propionyl chloride**
 - **Safrole** .
 
 ### 2
@@ -1608,10 +1648,15 @@ The salts of the substances listed in clause 1 whenever the existence of such sa
 - **Acetone**
 - **Anthranilic acid**
 - **Ethyl ether**
+- **Hydriodic acid**
 - **Hydrochloric acid**
+- **Hypophosphorous acid**
+- **Iodine**
 - **Methyl ethyl ketone**
 - **Phenylacetic acid**
+- **Phosphorous acid**
 - **Piperidine**
+- **Red phosphorus**
 - **Sulphuric acid**
 - **Toluene** .
 
@@ -1628,7 +1673,7 @@ The salts of the substances listed in clause 1 whenever the existence of such sa
 ## Schedule 5 — Amount, level, or quantity at and over which controlled drugs are presumed to be for supply
 
 ### 1
-The controlled drugs listed in the first column are presumed to be for supply at and over the amount, level, or quantity listed in the second column.The following table is small in size and has 2 columns without headings.25B-NBOMe (2-(4-bromo-2,5-dimethoxyphenyl)-N-(2-methoxybenzyl)ethanamine)25 milligrams or 25 flakes, tablets, capsules, or other drug forms each containing some quantity of the drug25C-NBOMe (2-(4-chloro-2,5-dimethoxyphenyl)-N-(2-methoxybenzyl)ethanamine)25 milligrams or 25 flakes, tablets, capsules, or other drug forms each containing some quantity of the drug25I-NBOMe (2-(4-iodo-2,5-dimethoxyphenyl)-N-(2-methoxybenzyl)ethanamine)25 milligrams or 25 flakes, tablets, capsules, or other drug forms each containing some quantity of the drugAmphetamine5 grams or 100 flakes, tablets, capsules, or other drug forms each containing some quantity of the drugMorphine5 grams, whether or not contained in a substance, preparation, or mixtureCocainehalf a gram, whether or not contained in a substance, preparation, or mixtureHeroinhalf a gram, whether or not contained in a substance, preparation, or mixtureKetamine (2-(2-chlorophenyl)-2-(methylamino)-cyclohexanone)10 grams, whether or not contained in a substance, preparation, or mixtureLysergidetwo and a half milligrams or 25 flakes, tablets, capsules, or other drug forms each containing some quantity of the drugDOB (2-amino-1-(4-bromo-2,5-dimethoxyphenyl)propane) (also known as bromo-DMA)100 milligrams or 25 flakes, tablets, capsules, or other drug forms each containing some quantity of the drugMDMA (2-methylamino-1-(3,4-methylenedioxyphenyl)propane)5 grams or 100 flakes, tablets, capsules, or other drug forms each containing some quantity of the drugN-ETHYL MDA (2-ethylamino-1-(3,4-methylenedioxyphenyl)propane)5 grams or 100 flakes, tablets, capsules, or other drug forms each containing some quantity of the drugMDA (2-amino-1-(3,4-methylenedioxyphenyl)propane)5 grams or 100 flakes, tablets, capsules, or other drug forms each containing some quantity of the drugTetrahydrocannabinol (as described in Schedule 2)250 milligrams, whether or not contained in a substance, preparation, or mixtureAny cannabis preparation (as described in Schedule 2)5 grams or 100 cigarettes containing the drugCannabis plant (as described in Schedule 3)28 grams or 100 cigarettes containing the drugBZP (1-benzylpiperazine or A2 benzylpiperazine or N-benzylpiperazine (1-benzyl-1,4-diazacyclohexane))5 grams or 100 flakes, tablets, capsules, or other drug forms each containing some quantity of the drugTFMPP (1-(3-trifluoromethylphenyl)piperazine or N-(3-trifluoromethylphenyl)piperazine)5 grams or 100 flakes, tablets, capsules, or other drug forms each containing some quantity of the drugpFPP (1-(4-fluorophenyl)piperazine)5 grams or 100 flakes, tablets, capsules, or other drug forms each containing some quantity of the drugMeOPP (1-(4-methoxyphenyl)piperazine)5 grams or 100 flakes, tablets, capsules, or other drug forms each containing some quantity of the drugmCPP (1-(meta-chlorophenyl)piperazine) or 1-(3-chlorophenyl)piperazine)5 grams or 100 flakes, tablets, capsules, or other drug forms each containing some quantity of the drugMBZP (1-methyl-4-benzylpiperazine)5 grams or 100 flakes, tablets, capsules, or other drug forms each containing some quantity of the drugMethamphetamine5 grams, whether or not contained in a substance, preparation, or mixtureEphedrine10 grams, whether or not contained in a substance, preparation, or mixturePseudoephedrine10 grams, whether or not contained in a substance, preparation, or mixture
+The controlled drugs listed in the first column are presumed to be for supply at and over the amount, level, or quantity listed in the second column.The following table is small in size and has 2 columns without headings.25B-NBOMe (2-(4-bromo-2,5-dimethoxyphenyl)-N-(2-methoxybenzyl)ethanamine)25 milligrams or 25 flakes, tablets, capsules, or other drug forms each containing some quantity of the drug25C-NBOMe (2-(4-chloro-2,5-dimethoxyphenyl)-N-(2-methoxybenzyl)ethanamine)25 milligrams or 25 flakes, tablets, capsules, or other drug forms each containing some quantity of the drug25I-NBOMe (2-(4-iodo-2,5-dimethoxyphenyl)-N-(2-methoxybenzyl)ethanamine)25 milligrams or 25 flakes, tablets, capsules, or other drug forms each containing some quantity of the drugAmphetamine5 grams or 100 flakes, tablets, capsules, or other drug forms each containing some quantity of the drugMorphine5 grams, whether or not contained in a substance, preparation, or mixtureCocainehalf a gram, whether or not contained in a substance, preparation, or mixtureHeroinhalf a gram, whether or not contained in a substance, preparation, or mixtureKetamine (2-(2-chlorophenyl)-2-(methylamino)-cyclohexanone)10 grams, whether or not contained in a substance, preparation, or mixtureLysergidetwo and a half milligrams or 25 flakes, tablets, capsules, or other drug forms each containing some quantity of the drugDOB (2-amino-1-(4-bromo-2,5-dimethoxyphenyl)propane) (also known as bromo-DMA)100 milligrams or 25 flakes, tablets, capsules, or other drug forms each containing some quantity of the drugMDMA (2-methylamino-1-(3,4-methylenedioxyphenyl)propane)5 grams or 100 flakes, tablets, capsules, or other drug forms each containing some quantity of the drugN-ETHYL MDA (2-ethylamino-1-(3,4-methylenedioxyphenyl)propane)5 grams or 100 flakes, tablets, capsules, or other drug forms each containing some quantity of the drugMDA (2-amino-1-(3,4-methylenedioxyphenyl)propane)5 grams or 100 flakes, tablets, capsules, or other drug forms each containing some quantity of the drugTetrahydrocannabinol (as described in Schedule 2)250 milligrams, whether or not contained in a substance, preparation, or mixtureAny cannabis preparation (as described in Schedule 2)5 grams or 100 cigarettes containing the drugCannabis plant (as described in Schedule 3)28 grams or 100 cigarettes containing the drugBZP (1-benzylpiperazine or A2 benzylpiperazine or N-benzylpiperazine (1-benzyl-1,4-diazacyclohexane))5 grams or 100 flakes, tablets, capsules, or other drug forms each containing some quantity of the drugTFMPP (1-(3-trifluoromethylphenyl)piperazine or N-(3-trifluoromethylphenyl)piperazine)5 grams or 100 flakes, tablets, capsules, or other drug forms each containing some quantity of the drugpFPP (1-(4-fluorophenyl)piperazine)5 grams or 100 flakes, tablets, capsules, or other drug forms each containing some quantity of the drugMeOPP (1-(4-methoxyphenyl)piperazine)5 grams or 100 flakes, tablets, capsules, or other drug forms each containing some quantity of the drugmCPP (1-(meta-chlorophenyl)piperazine) or 1-(3-chlorophenyl)piperazine)5 grams or 100 flakes, tablets, capsules, or other drug forms each containing some quantity of the drugMBZP (1-methyl-4-benzylpiperazine)5 grams or 100 flakes, tablets, capsules, or other drug forms each containing some quantity of the drugMethamphetamine5 grams, whether or not contained in a substance, preparation, or mixtureEphedrine10 grams, whether or not contained in a substance, preparation, or mixturePseudoephedrine10 grams, whether or not contained in a substance, preparation, or mixtureEthylone and N-ethyl pentylone5 grams or 100 doses, whether or not contained in a substance, preparation, or mixture, or 25 flakes, tablets, capsules, or other drug forms, each containing some quantity of the drugFentanyl analogues specified in Schedule 10.5 grams, whether or not contained in a substance, preparation, or mixture, or 25 flakes, tablets, capsules, or other drug forms, each containing some quantity of the drugPara-methoxymethylamphetamine (PMMA)5 grams, whether or not contained in a substance, preparation, or mixtureSynthetic cannabinoids specified in Part 1 of Schedule 2250 milligrams, whether or not contained in a substance, preparation, or mixture, except when contained in plant material, and 28 grams for plant material containing any of the specified synthetic cannabinoidsSynthetic opioids specified in Schedule 10.5 grams whether or not contained in a substance, preparation, or mixture
 
 ### 2
 Any controlled drug not specified in clause 1 is presumed to be for supply at and over the level of 56 grams.
