@@ -1,5 +1,5 @@
 # COVID-19 Public Health Response (Extension of Act and Reduction of Powers) Amendment Act 2022
-_Consolidation as at 2022-11-25_
+_Consolidation as at 2022-12-15_
 
 ### 1 Title
 This Act is the COVID-19 Public Health Response (Extension of Act and Reduction of Powers) Amendment Act 2022.
@@ -258,7 +258,7 @@ Revoke regulations 6A to 8.
   (b) refund, in whole or in part, existing charges (whether or not those charges are paid before or after the commencement of this clause).
 (4) The Minister may continue to waive, in accordance with the MIQ regulations, the payment of existing charges.
 (5) In this clause,—
-  - **amendment Act** 2022 means the COVID-19 Public Health Response (Extension of Act and Reduction of Powers) Amendment Act 2022
+  - **2022 amendment Act** means the COVID-19 Public Health Response (Extension of Act and Reduction of Powers) Amendment Act 2022
   - **chief executive** has the meaning given in section 5(1) of the COVID-19 Public Health Response Act 2020 before the commencement of section 6 of the 2022 amendment Act
   - **existing charges** means charges that a person is liable to pay under old subpart 3A of Part 2
   - **MIQ regulations** means the COVID-19 Public Health Response (Managed Isolation and Quarantine Charges) Regulations 2020 as in force before their revocation by section 34 of the 2022 amendment Act
