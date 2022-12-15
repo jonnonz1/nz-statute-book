@@ -1,5 +1,5 @@
 # Chemical Weapons (Prohibition) Act 1996
-_Consolidation as at 2021-10-28_
+_Consolidation as at 2022-12-15_
 
 > An Act to implement in the law of New Zealand the Convention on the Prohibition of the Development, Production, Stockpiling and Use of Chemical Weapons and on their Destruction
 
@@ -206,12 +206,12 @@ Amendment(s) incorporated in the Act(s).
 |  |  |  | (CAS registry number) |
 | --- | --- | --- | --- |
 | A. Toxic chemicals: |  |  |  |
-| (1) | O-Alkyl (_C10, incl. cycloalkyl) alkyl(Me, Et, n-Pr or i-Pr)-phosphonofluoridates |  |  |
+| (1) | O-Alkyl (≤C10, incl. cycloalkyl) alkyl(Me, Et, n-Pr or i-Pr)-phosphonofluoridates |  |  |
 |  | e.g. | Sarin: O-Isopropyl methylphosphonofluoridate | (107–44–8) |
 |  |  | Soman: O-Pinacolyl methylphosphonofluoridate | (96–64–0) |
-| (2) | O-Alkyl (_C10, incl. cycloalkyl) N,N-dialkyl(Me, Et, n-Pr or i-Pr) phosphoramidocyanidates |  |  |
+| (2) | O-Alkyl (≤C10, incl. cycloalkyl) N,N-dialkyl(Me, Et, n-Pr or i-Pr) phosphoramidocyanidates |  |  |
 |  | e.g. | Tabun: O-Ethyl N,N-dimethyl phosphoramidocyanidate | (77–81–6) |
-| (3) | O-Alkyl (H or _C10, incl. cycloalkyl) S-2-dialkyl(Me, Et, n-Pr or i-Pr)-aminoethyl alkyl(Me, Et, n-Pr or i-Pr) phosphonothiolatesand corresponding alkylated or protonated salts |  |  |
+| (3) | O-Alkyl (H or ≤C10, incl. cycloalkyl) S-2-dialkyl(Me, Et, n-Pr or i-Pr)-aminoethyl alkyl(Me, Et, n-Pr or i-Pr) phosphonothiolatesand corresponding alkylated or protonated salts |  |  |
 |  | e.g. | VX: O-Ethyl S-2-diisopropylaminoethyl methyl phosphonothiolate | (50782–69–9) |
 | (4) | Sulfur mustards: |  |  |
 |  | 2-Chloroethylchloromethylsulfide |  | (2625–76–5) |
@@ -233,10 +233,25 @@ Amendment(s) incorporated in the Act(s).
 |  | HN3: Tris(2-chloroethyl)amine |  | (555–77–1) |
 | (7) | Saxitoxin |  | (35523–89–8) |
 | (8) | Ricin |  | (9009–86–3) |
+| (13) | P-alkyl (H or ≤C10, incl. cycloalkyl) N-(1-(dialkyl(≤C10, incl. cycloalkyl)amino)) alkylidene(H or ≤C10, incl. cycloalkyl) phosphonamidic fluorides and corresponding alkylated or protonated salts |  |  |
+|  | e.g. | N-(1-(di-n-decylamino)-n-decylidene)-P-decylphosphonamidic fluoride | (2387495-99-8) |
+|  |  | Methyl-(1-(diethylamino)ethylidene) phosphonamidofluoridate | (2387496-12-8) |
+| (14) |  | O-alkyl (H or ≤C10, incl. cycloalkyl) N-(1-(dialkyl(≤C10, incl. cycloalkyl)amino)) alkylidene(H or ≤C10, incl. cycloalkyl) phosphoramidofluoridates and corresponding alkylated or protonated salts |  |
+|  | e.g. | O-n-Decyl N-(1-(di-n-decylamino)-n-decylidene)phosphoramidofluoridate | (2387496-00-4) |
+|  |  | Methyl (1-(diethylamino)ethylidene) phosphoramidofluoridate | (2387496-04-8) |
+|  |  | Ethyl (1-(diethylamino)ethylidene) phosphoramidofluoridate | (2387496-06-0) |
+| (15) |  | Methyl-(bis(diethylamino)methylene) phosphonamidofluoridate | (2387496-14-0) |
+| (16) |  | Carbamates (quaternaries and bisquaternaries of dimethylcarbamoyloxypyridines) |  |
+|  |  | Quaternaries of dimethylcarbamoyloxypyridines: |  |
+|  |  | 1-[N,N-dialkyl(≤C10)-N-(n-(hydroxyl, cyano, acetoxy)alkyl(≤C10)) ammonio]-n-[N-(3-dimethylcarbamoxy-α-picolinyl)-N,N-dialkyl(≤C10) ammonio]decane dibromide (n=1-8) |  |
+|  | e.g. | 1-[N,N-dimethyl-N-(2-hydroxy)ethylammonio)-10-[N-(3-dimethylcarbamoxy-α-picolinyl)-N,N-dimethylammonio]decane dibromide | (77104-62-2) |
+|  |  | Bisquaternaries of dimethylcarbamoyloxypyridines: |  |
+|  |  | 1,n-Bis[N-(3-dimethylcarbamoxy-α-picolyl)-N,N-dialkyl(≤C10) ammonio]-alkane-(2,(n-1)-dione) dibromide (n=2-12) |  |
+|  | e.g. | 1,10-Bis[N-(3-dimethylcarbamoxy-α-picolyl)-N-ethyl-N-methylammonio]decane-2,9-dione dibromide | (77104-00-8) |
 | B. Precursors: |  |  |  |
 | (9) | Alkyl (Me, Et, n-Pr or i-Pr) phosphonyldifluorides |  |  |
 |  | e.g. | DF: Methylphosphonyldifluoride | (676–99–3) |
-| (10) | O-Alykl (H or _C10, incl. cycloalkyl) o-2-dialkyl(Me, Et, n-Pr or i-Pr)-aminoethyl alkyl(Me, Et, n-Pr or i-Pr) phosphonitesand corresponding alkylated or protonated salts |  |  |
+| (10) | O-Alykl (H or ≤C10, incl. cycloalkyl) O-2-dialkyl(Me, Et, n-Pr or i-Pr)-aminoethyl alkyl(Me, Et, n-Pr or i-Pr) phosphonitesand corresponding alkylated or protonated salts |  |  |
 |  | e.g. | QL: O-Ethyl O-2-diisopropylaminoethyl methylphosphonite | (57856–11–8) |
 | (11) | Chlorosarin: O-Isopropyl methylphosphonochloridate |  | (1445–76–7) |
 | (12) | Chlorosoman: O-Pinacolyl methylphosphonochloridate |  | (7040–57–5) |
