@@ -1,5 +1,5 @@
 # Taumata Arowai–the Water Services Regulator Act 2020
-_Consolidation as at 2021-11-15_
+_Consolidation as at 2022-12-15_
 
 ### 1 Title
 This Act is the Taumata Arowai–the Water Services Regulator Act 2020.
@@ -42,7 +42,9 @@ In this Act, unless the context otherwise requires,—
       (iii) the New Zealand Defence Force; and
     (b) any person who operates a stormwater network, or any aspect of a stormwater network, for, or on behalf of, an organisation specified in paragraph (a)
   - **Taumata Arowai** means Taumata Arowai–the Water Services Regulator established by section 8
-  - **Te Mana o te Wai** has the meaning set out in the National Policy Statement for Freshwater Management issued in 2020 under section 52 of the Resource Management Act 1991 and any statement issued under that section that amends or replaces the 2020 statement
+  - **Te Mana o te Wai** —
+    (a) has the meaning set out in the National Policy Statement for Freshwater Management issued in 2020 under section 52 of the Resource Management Act 1991 and any statement issued under that section that amends or replaces the 2020 statement (and see also sections 5, 10, 17, and 18 of this Act):
+    (b) applies, for the purposes of this Act, to water (as that term is defined in section 2(1) of the Resource Management Act 1991)
   - **urban area** —
     (a) means an area identified in a district plan or proposed district plan as being primarily zoned for residential, industrial, or commercial activities, together with adjoining special-purpose and open-space zones, however described; but
     (b) does not include an area zoned primarily for rural or rural-residential activities, however described
