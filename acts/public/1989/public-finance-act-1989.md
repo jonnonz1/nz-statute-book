@@ -1,5 +1,5 @@
 # Public Finance Act 1989
-_Consolidation as at 2022-11-30_
+_Consolidation as at 2022-12-16_
 
 > Title
 
@@ -2424,6 +2424,7 @@ Despite clause 2, old section 45 must be read as if it included a requirement fo
 | Crown Regional Holdings Limited |  | ✓ |  | ✓ |  |
 | Education Payroll Limited | ✓ | ✓ | ✓ | ✓ |  |
 | Health Benefits Limited | ✓ | ✓ | ✓ | ✓ |  |
+| Kiwi Group Capital Limited |  |  |  |  |  |
 | New Zealand Green Investment Finance Limited | ✓ | ✓ | ✓ | ✓ |  |
 | Ngāpuhi Investment Fund Limited |  | ✓ | ✓ | ✓ |  |
 | Ōtākaro Limited | ✓ | ✓ | ✓ | ✓ |  |
