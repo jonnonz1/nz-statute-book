@@ -1,5 +1,5 @@
 # Subordinate Legislation Confirmation Act 2021
-_Consolidation as at 2021-12-13_
+_Consolidation as at 2022-12-17_
 
 ### 1 Title
 This Act is the Subordinate Legislation Confirmation Act 2021.
