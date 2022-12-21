@@ -1,5 +1,5 @@
 # Victims' Rights Act 2002
-_Consolidation as at 2022-12-13_
+_Consolidation as at 2022-12-21_
 
 ### 1 Title
 This Act is the Victims' Rights Act 2002.
@@ -369,13 +369,29 @@ A judicial officer may, on his or her own initiative or on an application for th
 
 ## Part 2A — Provisions relating to rights of victims who are sexual case complainants
 
-### 28A Sections 28BA and 28D apply only to individual victims who are sexual case complainants
-Sections 28BA and 28D apply only to an individual victim who is a sexual case complainant (the victim).
+### 28A Sections 28B to 28D apply only to individual victims, or all victims, who are sexual case complainants
+(1) Sections 28B, 28BA, and 28D apply only to an individual victim who is a sexual case complainant (the victim).
+(2) Section 28C applies only to all victims who are sexual case complainants (the victims).
+
+### 28B Victim’s preferences on ways of giving evidence
+The prosecutor must make all reasonable efforts to ensure that—
+  (a) the victim is informed about the ways in which the victim may give evidence (whether in chief or under cross-examination or on re-examination) as a sexual case complainant; and
+  (b) any preferences the victim has on the ways of giving evidence as a sexual case complainant are ascertained and taken into account in the operation of sections 106C to 106J of the Evidence Act 2006.
 
 ### 28BA Victim’s preferences on presenting victim impact statement
 If a victim impact statement of the victim as a sexual case complainant is to be, or has been, submitted under section 21(1), the prosecutor must make all reasonable efforts to ensure that—
-  (a) the victim is informed about the ways in which the victim impact statement may, with the agreement of the judicial officer sentencing the offender or making an order under section 24(1) or 25(1) of the Criminal Procedure (Mentally Impaired Persons) Act 2003 in relation to a defendant who is acquitted on account of insanity, be read to the court, or presented to the court in some other manner, under sections 22 and 22A; and
+  (a) the victim is informed about the ways in which the victim impact statement may, with the agreement of the judicial officer sentencing the offender, be read to the court, or presented to the court in some other manner, under sections 22 and 22A; and
   (b) any preferences the victim has on that matter are ascertained and taken into account in the operation of those sections.
+
+### 28C Availability of appropriate facilities when attending court
+(1) The Secretary must make all reasonable efforts to ensure that appropriate facilities are available to the victims when attending court, or participating in or viewing the proceeding related to the offences concerned, as sexual case complainants.
+(2) In determining whether facilities for those purposes are appropriate, the Secretary must, in addition to any other factors that the Secretary considers relevant, take into account—
+  (a) the victims’ physical and emotional comfort and safety:
+  (b) any physical constraints posed by the courtroom or courthouse.
+(3) Examples of appropriate facilities may include—
+  (a) alternative waiting areas away from the general public:
+  (b) alternative bathroom facilities:
+  (c) other measures to minimise the likelihood that the victims encounter the defendants or the defendants’ supporters.
 
 ### 28D Court may be cleared when victim impact statement read or otherwise presented to court
 A court may, on an application made for the purpose by the prosecutor under section 199AA of the Criminal Procedure Act 2011, make an order under that section that the courtroom be cleared while the victim’s victim impact statement is read or otherwise presented to the court.
