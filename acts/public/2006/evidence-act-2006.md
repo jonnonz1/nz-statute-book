@@ -1,5 +1,5 @@
 # Evidence Act 2006
-_Consolidation as at 2022-11-30_
+_Consolidation as at 2022-12-21_
 
 ### 1 Title
 This Act is the Evidence Act 2006.
@@ -26,11 +26,9 @@ This Act binds the Crown.
   - **common bundle** means a compilation of documents that the parties to a civil proceeding wish to offer in evidence at the hearing of the proceeding, being a compilation that—
     (a) is prepared in accordance with rules of court or the practice of a court; and
     (b) is filed in court
-  - **communication assistance** means oral or written interpretation of a language, written assistance, technological assistance, and any other assistance that enables or facilitates communication with a person who—
-    (a) does not have sufficient proficiency in the English language to—
-      (i) understand court proceedings conducted in English; or
-      (ii) give evidence in English; or
-    (b) has a communication disability
+  - **communication assistance** means any assistance (for example, oral or written interpretation of a language, written assistance, or technological assistance) that enables or facilitates communication with a person who for any reason (for example, insufficient proficiency in the English language, age, or a disability) requires assistance to—
+    (a) understand court proceedings; or
+    (b) give evidence
   - **conviction** means,—
     (a) in sections 47 to 49, a subsisting conviction entered before or after the commencement of this Act by—
       (i) a New Zealand court or a court-martial conducted under New Zealand law in New Zealand or elsewhere; or
@@ -105,6 +103,9 @@ This Act binds the Crown.
       (i) an offence against any of the provisions of sections 128 to 142A or section 144A of the Crimes Act 1961; or
       (ii) any other offence against a person of a sexual nature; and
     (b) for the purpose of sections 40(3)﻿(b), 44 to 44A, and 95(1) only, a civil proceeding that involves issues in dispute of a sexual nature
+  - **sexual case complainant or propensity witness** means a person of any age who is 1 or both of the following:
+    (a) a complainant who is to give or is giving evidence in a sexual case:
+    (b) a witness for the prosecution who is to give or is giving evidence in a sexual case that is or includes propensity evidence (as defined in section 40(1)) related to their personal experience of a sexual nature with any 1 or more defendants
   - **sexual reputation** , of a complainant, for the purposes of section 44AA,—
     (a) means the way in which the complainant is regarded, by others, in sexual matters (including, without limitation, as having a particular sexual disposition or experience); but
     (b) excludes any witness’s evidence that is derived from the witness’s personal sexual experience with, or personal knowledge of the sexual disposition of, the complainant (evidence of which is subject to section 44)
@@ -1136,6 +1137,7 @@ In any proceeding, the party who calls a witness may, if the Judge determines th
 (2) The Judge may recall a witness under subsection (1),—
   (a) if there is a jury, at any time until the jury retires to consider its verdict:
   (b) in any other proceeding, at any time until judgment is delivered.
+(3) This section is subject to section 106H (further cross-examination if all evidence of sexual case complainant or propensity witness has been or is to be given by video record made before trial).
 
 ### 100 Questioning of witnesses by Judge
 (1) In any proceeding, the Judge may ask a witness any questions that, in the opinion of the Judge, justice requires.
@@ -1155,17 +1157,18 @@ In any proceeding, the party who calls a witness may, if the Judge determines th
 
 ### Subpart 5 — Alternative ways of giving evidence
 
-### 102 Application
+### 102 General provisions are subject to provisions for specific situations
 Sections 103 to 106 (which provide for alternative ways of giving evidence) are subject to the following provisions (which deal with specific situations):
-  (aa) section 106A (which relates to family violence complainants):
-  (a) sections 107 to 107B (which relate to child witnesses in criminal proceedings):
-  (b) sections 108 and 109 (which relate to undercover Police officers):
-  (c) sections 110 to 119 (which relate to anonymous witnesses).
+  (a) sections 106AA to 106B (which relate to family violence complainants):
+  (b) sections 106C to 106J (which relate to sexual case complainants or propensity witnesses):
+  (c) sections 107AA to 107B (which relate to child witnesses in criminal proceedings):
+  (d) sections 108 and 109 (which relate to undercover Police officers):
+  (e) sections 110 to 118 (which relate to anonymous witnesses).
 
-### 102A Relationship of Courts (Remote Participation) Act 2010 to sections 103 to 106
+### 102A Relationship of Courts (Remote Participation) Act 2010 to this subpart
 Nothing in the Courts (Remote Participation) Act 2010 affects or limits the ability of—
-  (a) a party to apply under section 103(1) for evidence to be given in an alternative way; or
-  (b) a Judge to make directions under that subsection.
+  (a) a witness to give evidence, or a party to apply for evidence to be given, under a provision of this subpart; or
+  (b) a Judge to make directions under a provision of this subpart.
 
 **General**
 
@@ -1211,10 +1214,10 @@ If an application for directions is made under section 103, before giving any di
 (3) The Judge may admit evidence that is given substantially in accordance with the terms of a direction under section 103, despite a failure to observe strictly all of those terms.
 
 ### 106 Video record evidence
-(1) Without limiting section 105(1)﻿(a)﻿(iii), in a criminal proceeding, the video record evidence of a witness that is to be offered as an alternative way of giving evidence at the trial must, if a video record of that witness's evidence was filed as a formal statement under the Criminal Procedure Act 2011 or the witness gave oral evidence by way of a video record in accordance with an oral evidence order made under that Act, include that video record.
-(2) A video record offered by the prosecution as an alternative way of giving evidence must be recorded and dealt with in compliance with any regulations made under this Act.
-(3) A video record that is to be offered by the prosecution as an alternative way of giving evidence must be offered for viewing by a defendant or his or her lawyer before it is offered in evidence (including prior to any pre-trial consideration of admissibility), unless the Judge directs otherwise.
-(4) A copy of a video record that is to be offered by the prosecution as an alternative way of giving evidence must be given to a defendant’s lawyer unless subsection (4A) applies, or, if subsection (4A) does not apply, the Judge directs otherwise.
+(1) Without limiting section 105(1)﻿(a)﻿(iii), in a criminal proceeding, the video record evidence of a witness that is to be offered as an alternative way of giving evidence in chief at the trial must, if a video record of that witness's evidence was filed as a formal statement under the Criminal Procedure Act 2011 or the witness gave oral evidence by way of a video record in accordance with an oral evidence order made under that Act, include that video record.
+(2) A video record offered by the prosecution as an alternative way of giving evidence in chief must be recorded and dealt with in compliance with any regulations made under this Act.
+(3) A video record that is to be offered by the prosecution as an alternative way of giving evidence in chief must be offered for viewing by a defendant or his or her lawyer before it is offered in evidence (including prior to any pre-trial consideration of admissibility), unless the Judge directs otherwise.
+(4) A copy of a video record that is to be offered by the prosecution as an alternative way of giving evidence in chief must be given to a defendant’s lawyer, subject to compliance with any conditions the Judge directs, unless subsection (4A) applies, or, if subsection (4A) does not apply, the Judge directs otherwise.
 (4A) Subject to subsections (4B) and (4C), a defendant’s lawyer is not entitled to be given a copy of a video record under subsection (4) of—
   (a) any child complainant; or
   (b) any witness (including an adult complainant) in a sexual case or a violent case.
@@ -1224,24 +1227,26 @@ If an application for directions is made under section 103, before giving any di
   (b) the nature of the evidence contained on the video record; and
   (c) the ability of the defendant or his or her lawyer to view the video record under subsection (3) and to otherwise access the content of the video record, including by way of a transcript of the video record.
 (5) All parties must be given the opportunity to make submissions about the admissibility of all or any part of a video record that is to be offered as an alternative way of giving evidence.
-(6) If the defendant indicates he or she wishes to object to the admissibility of all or any part of a video record that is to be offered as an alternative way of giving evidence, that video record must be viewed by the Judge.
+(6) If the defendant indicates he or she wishes to object to the admissibility of all or any part of a video record that is to be offered by the prosecution as an alternative way of giving evidence in chief, that video record must be viewed by the Judge.
 (7) The Judge may order to be excised from a video record offered as evidence any material that, if the evidence were given in the ordinary way, would or could be excluded in accordance with this Act.
 (8) The Judge may admit a video record that is recorded and offered as evidence substantially in accordance with the terms of any direction under this subpart and the terms of regulations referred to in subsection (2), despite a failure to observe strictly all of those terms.
-(9) To avoid doubt, subsections (3) to (4C) do not apply to any lawyer representing the Crown who may be given a copy of a video record (which may or may not be offered as an alternative way of giving evidence) at any time for the purpose of providing legal advice to the Police before a charging document is filed and for conducting the prosecution once proceedings have commenced.
+(9) To avoid doubt, subsections (3) to (4C) do not apply to any lawyer representing the Crown who may be given a copy of a video record (which may or may not be offered by the prosecution as an alternative way of giving evidence) at any time for the purpose of providing legal advice to the Police before a charging document is filed and for conducting the prosecution once proceedings have commenced.
 (10) In this section, a reference to a person being given a video record includes a reference to the person being given access to the video record, for example, being given access to an electronic copy of the video record through an Internet site.
 
 **Giving of evidence by family violence complainants**
 
+### 106AA Sections 106A and 106B apply to family violence complainants
+Sections 106A and 106B apply to a complainant (a family violence complainant) who is not a child and who is to give or is giving evidence in a family violence case (which does not include a sexual case).
+
 ### 106A Giving of evidence by family violence complainants
-(1) This section applies to a complainant who is not a child and who is to give or is giving evidence in a family violence case (a family violence complainant).
-(2) A family violence complainant is entitled to give his or her evidence in chief by a video record made before the hearing.
-(3) The video record must be one recorded—
+(1) A family violence complainant is entitled to give their evidence in chief by a video record made before the hearing.
+(2) The video record must be one recorded—
   (a) by a Police employee; and
   (b) no later than 2 weeks after the incident in which it is alleged a family violence offence occurred.
-(4) If a video record is to be or has been used as the complainant’s evidence in chief, a Judge must give a direction under section 103 about how the complainant will give the other parts of his or her evidence, including any further evidence in chief.
-(5) To avoid doubt, section 106 applies to a video record offered as the complainant’s evidence in chief under this section.
-(6) If the prosecution intends to use a video record as a complainant’s evidence in chief, the prosecution must provide the defendant and the court with a written notice stating that intention to do so.
-(7) Unless a Judge permits otherwise, the notice must be given no later than when a case management memorandum (for a Judge-alone trial) or a trial callover memorandum (for a jury trial) is filed under the Criminal Procedure Act 2011.
+(3) If a video record is to be or has been used as the complainant’s evidence in chief, a Judge must give a direction under section 103 about how the complainant will give the other parts of their evidence, including any further evidence in chief.
+(4) Section 106 applies to a video record offered as the complainant’s evidence in chief under this section.
+(5) If the prosecution intends to use a video record as a complainant’s evidence in chief, the prosecution must provide the defendant and the court with a written notice stating that intention to do so.
+(6) Unless a Judge permits otherwise, the notice must be given no later than when a case management memorandum (for a Judge-alone trial) or a trial callover memorandum (for a jury trial) is filed under the Criminal Procedure Act 2011.
 
 ### 106B Application by defendant for family violence complainant to give evidence in ordinary way or different alternative way
 (1) Despite section 106A, a defendant may apply to a Judge for a direction that a family violence complainant give evidence or any part of his or her evidence in the ordinary way under section 83 or in a different alternative way under section 105.
@@ -1253,7 +1258,116 @@ If an application for directions is made under section 103, before giving any di
   (a) whether the interests of justice require a departure from the usual procedure under section 106A in the particular case; and
   (b) the matters in section 103(3) and (4).
 
+**Giving of evidence by sexual case complainants or propensity witnesses**
+
+### 106C Sections 106D to 106J apply to sexual case complainants or propensity witnesses
+Sections 106D to 106J apply to a sexual case complainant or propensity witness of any age.
+
+### 106D Giving of evidence by sexual case complainants or propensity witnesses
+(1) A sexual case complainant or propensity witness is entitled to give evidence in 1 or more alternative ways so that—
+  (a) the complainant or witness gives evidence in 1 or more of the following ways:
+    (i) by a video record made before the trial:
+    (ii) while in the courtroom but unable to see the defendant or some other specified person:
+    (iii) from an appropriate place outside the courtroom, either in New Zealand or elsewhere:
+  (b) by use of any appropriate practical and technical means the Judge, the jury (if any), and any lawyers can see and hear the complainant or witness giving evidence, in accordance with any regulations made under section 201:
+  (c) the defendant can see and hear the complainant or witness, unless the Judge directs otherwise.
+(2) A sexual case complainant or propensity witness who gives evidence of any kind in one way is entitled to give the other parts of their evidence, including any further evidence in chief, in 1 or more other ways.
+(3) A prosecutor intending to call a sexual case complainant or propensity witness must provide every other party and the court with a written notice stating—
+  (a) the 1 or more ways in which the complainant or witness will give their evidence (which may, unless the complainant or witness is a child, be or include the ordinary way); and
+  (b) if the complainant’s or witness’s cross-examination evidence (as defined in subsection (7)) is to be given by a video record made before the trial, any 1 or more other alternative ways in which their evidence is to be given during the recording.
+(4) However, no notice is required under subsection (3) if—
+  (a) the complainant or witness is a child who indicates their wish to give evidence or any part of their evidence in the ordinary way under section 83; and
+  (b) the prosecutor applies under section 106E to a Judge for a direction that the complainant or witness be permitted to do so.
+(5) Unless a Judge permits otherwise, the notice required under subsection (3) must be given,—
+  (a) if the notice states that the complainant or witness will give all or any of their cross-examination evidence (as defined in subsection (7)) by a video record made before the trial, as early as practicable; and
+  (b) in every case, no later than when a case management memorandum (for a Judge-alone trial) or a trial callover memorandum (for a jury trial) is filed under the Criminal Procedure Act 2011.
+(6) If a prosecutor has given notice under subsection (3) and it is no longer possible or desirable for the complainant or witness to give evidence by the means stated in the notice, the prosecutor may file an amended notice but must do so as early as practicable.
+(7) In this section and sections 106G to 106IA, cross-examination evidence, for a complainant or witness, includes the following evidence (if any) that they give with their evidence given in cross-examination:
+  (a) evidence in chief given by them further to their evidence recorded and offered under section 106:
+  (b) evidence in re-examination given by them about matters arising out of their evidence given in cross-examination.
+(8) This section is subject to sections 106E to 106I.
+
+### 106E Application by prosecutor for sexual case complainant or propensity witness who is child to give evidence in ordinary way
+(1) If a sexual case complainant or propensity witness who is a child indicates their wish to give evidence or any part of their evidence in the ordinary way under section 83, the prosecutor may apply to a Judge for a direction that the complainant or witness be permitted to do so.
+(2) Unless a Judge permits otherwise, an application under subsection (1) must be made no later than when a case management memorandum (for a Judge-alone trial) or a trial callover memorandum (for a jury trial) is filed under the Criminal Procedure Act 2011.
+(3) The Judge—
+  (a) may direct that the complainant or witness give evidence or any part of their evidence in the ordinary way, if satisfied that the complainant or witness fully appreciates the likely effect on the complainant or witness of doing so; and
+  (b) before giving a direction, may call for and receive a report, from any person considered by the Judge to be qualified to advise, on the effect on the complainant or witness of giving evidence in the ordinary way or any alternative way.
+(4) When considering whether to give a direction under this section, the Judge must have regard to—
+  (a) whether the interests of justice require a departure from the usual procedure under section 106D(3) in the particular case; and
+  (b) the matters in section 103(3) and (4).
+
+### 106F Application by any other party for sexual case complainant or propensity witness to give evidence in ordinary way or different alternative way
+(1) Despite section 106D, if a notice given under section 106D(3) states that a sexual case complainant or propensity witness is to give all or any part of their evidence in an alternative way, any other party may apply to a Judge for a direction that the complainant or witness give evidence or that part of their evidence in the ordinary way under section 83, or in a different alternative way under section 106D.
+(2) An application for a direction under subsection (1) must be made as early as practicable before the trial, or at a later time permitted by a Judge.
+(3) Before giving a direction under this section, the Judge—
+  (a) must give each party an opportunity to be heard in chambers; and
+  (b) may call for and receive a report, from any person considered by the Judge to be qualified to advise, on the effect on the complainant or witness of giving evidence in the ordinary way or any alternative way.
+(4) When considering whether to give a direction under this section, the Judge must, in addition to any other matter that the Judge considers relevant, have regard to—
+  (a) whether the interests of justice require a departure from the usual procedure under section 106D(3) in the particular case; and
+  (b) the matters in section 103(3) and (4).
+
+### 106G Direction that sexual case complainant’s or propensity witness’s cross-examination evidence not be given by video record made before trial
+(1) Despite section 106F(4), the Judge may give a direction under section 106F that all or any of the complainant’s or witness’s cross-examination evidence (as defined in section 106D(7)) not be given by a video record made before the trial only if the Judge considers that—
+  (a) the giving of that evidence in that way would present a real risk to the fairness of the trial; and
+  (b) that risk cannot be mitigated adequately in any other way.
+(2) A direction referred to in subsection (1) may be made—
+  (a) on an application made under section 106F; or
+  (b) on the Judge’s own initiative.
+(3) For the purposes of subsection (1), the Judge must, in addition to any other matter that the Judge considers relevant, have regard to whether the witness is likely to need to give further evidence (including cross-examination evidence) after the making of a video record (for example, due to further disclosure).
+(4) For the purposes of subsection (1), it must not be presumed, and must be shown clearly in the circumstances of the case, that the following consequences of cross-examination before trial would present a real risk to the fairness of the trial:
+  (a) the making of a video record will require the defence to disclose all or any of its strategy earlier than if all of the evidence of the complainant or witness were given in the ordinary way or in a different alternative way:
+  (b) the defence will be unable to tailor its cross-examination to a jury’s reaction:
+  (c) the making of a video record before the trial will involve preparation and other effort extra to that required for the trial:
+  (d) complying with or using any appropriate practical and technical means for the making of a video record will involve more difficulty for all or any parties than if all of the complainant’s or witness’s evidence were given at the trial.
+
+### 106H Further cross-examination if all evidence of sexual case complainant or propensity witness has been or is to be given by video record made before trial
+(1) This section applies to a sexual case complainant or propensity witness only if all of their evidence (except any further cross-examination evidence they give under this section) has been or is to be given by video record made before the trial.
+(2) The defence may apply to a Judge for a direction that the defence be permitted to further cross-examine the complainant or propensity witness after a video record is made of their cross-examination evidence.
+(3) The Judge may give the direction,—
+  (a) if all parties agree that a recall of the complainant or propensity witness is necessary or desirable, under section 99 of this Act; and
+  (b) in any other case, only if the Judge considers it would be contrary to the interests of justice not to do so (despite section 99 of this Act).
+(4) For the purposes of subsection (3), the Judge must, in addition to any other matter that the Judge considers relevant, have regard to—
+  (a) whether further evidence, or an additional matter, has been disclosed, or has otherwise come to light, that is directly relevant to the determination of the case:
+  (b) whether that further evidence, or that additional matter, can be adequately addressed without requiring the complainant to be further cross-examined.
+(5) If the Judge gives the direction, the complainant or propensity witness must give the further cross-examination evidence at trial (and so not by video record made before the trial).
+(6) However, the Judge may, if satisfied that exceptional circumstances make it impossible or impracticable for the further cross-examination evidence to be given at trial, amend the direction so that the complainant or propensity witness must give the further cross-examination evidence by video record made before the trial.
+
+### 106I Video record evidence: sexual case complainant’s or propensity witness’s cross-examination evidence given by video record made before trial
+(1) A sexual case complainant’s or propensity witness’s cross-examination evidence given by video record made before trial must comply with all applicable enactments in or made under this Act and any other relevant Act (and those enactments apply with all necessary modifications) as if that evidence were being given at trial.
+(2) A video record made before trial of the complainant’s or propensity witness’s cross-examination evidence must be recorded and dealt with in compliance with any regulations made under this Act.
+(3) All parties must be given secure access to the recording, including a version edited under subsection (5), subject to compliance with any conditions the Judge directs, unless a Judge directs otherwise.
+(4) All parties must be given the opportunity to make submissions about the admissibility of all or any part of the complainant’s or propensity witness’s cross-examination evidence that is given by a video record made before the trial.
+(5) The Judge may, on an application for the purpose made by any party or on the Judge’s own initiative, order to be excised from a video record made before the trial of the complainant’s or propensity witness’s cross-examination evidence all or any of the following material:
+  (a) any material that, if the evidence were given in the ordinary way, would or could be excluded in accordance with this Act:
+  (b) procedural content that is irrelevant to the determination of the proceeding (for example, witness breaks):
+  (c) any other material that the parties agree is not to form part of the evidence.
+(6) After edits to a video record are ordered under subsection (5), further edits to the video record may be made (on an application for the purpose made by any party or on the Judge’s own initiative) only if any new relevant issues have arisen and the interests of justice require the edited version to be revisited.
+(7) The Judge may admit a video record made before the trial of evidence, and that is recorded and dealt with substantially in accordance with the terms of any direction under this subpart and the terms of regulations referred to in subsection (2), despite a failure to observe strictly all of those terms.
+
+### 106IA Procedure if video record evidence under section 106 not offered, or not admitted, as evidence in chief
+(1) This section applies if,—
+  (a) a prosecutor gives a notice under section 106D(3) stating that a sexual case complainant or propensity witness is to give all of their evidence by a video record made before trial; and
+  (b) for any reason, video record evidence under section 106 is not offered as an alternative way of the complainant or witness giving, or is not admitted as, evidence in chief (for example, because the record is of poor quality, or it contains inadmissible, or other non-complying, material).
+(2) The complainant or witness may give both their evidence in chief and their cross-examination evidence by a video record made before the trial.
+(3) The making and use of that video record must comply with—
+  (a) the process, and requirements, specified in sections 106D to 106I for a sexual case complainant’s or propensity witness’s cross-examination evidence given by video record made before trial (and that process, and those requirements, apply with any necessary modifications); and
+  (b) the process, and requirements, specified in regulations made under this Act that apply to a video record made under this section.
+
+### 106J Making of video record of sexual case complainant’s or propensity witness’s evidence given at trial and not given by video record made before trial
+(1) A video record must be made, in accordance with any applicable regulations made under section 201, of evidence (of any kind)—
+  (a) given at trial by a sexual case complainant or propensity witness; and
+  (b) not given by video record made before trial.
+(2) That video record may be used by the complainant or witness to give evidence in an alternative way under this Act (for example, in or for a retrial)—
+  (a) in a sexual case, and under section 106D(1)﻿(a)﻿(i); or
+  (b) in any other proceeding, and under any other provisions of this subpart.
+(3) Section 106 (except section 106(4A) to (4C)) applies, with any necessary modifications, to the video record.
+(4) This section does not limit or affect a video record of a witness’s evidence being filed as a formal statement under the Criminal Procedure Act 2011, or section 99 (Oral evidence must be recorded) of that Act, or a witness giving oral evidence by way of a video record in accordance with an oral evidence order made under that Act.
+
 **Giving of evidence by child witnesses**
+
+### 107AA Sections 107 to 107B apply to child witnesses
+Sections 107 to 107B apply to a child witness when giving evidence in a criminal proceeding unless the witness is a defendant who is a child or a sexual case complainant or propensity witness who is a child.
 
 ### 107 Alternative ways of giving evidence by child witnesses in criminal proceedings
 (1) A child witness, when giving evidence in a criminal proceeding, is entitled to give evidence in 1 or more alternative ways so that—
@@ -1427,42 +1541,60 @@ At any time before a witness gives evidence during a trial, a High Court Judge m
 ### 118 Witness in Police witness protection programme
 If, at any time after the events that are the subject of a charge, a witness under a Police witness protection programme assumes a new identity, the witness may not be required in any proceeding concerning the charge to disclose his or her assumed name or any particulars likely to disclose his or her new identity.
 
-**Offences and requirements for disclosure of video records in proceedings other than under section 106 or in Family Court proceedings**
+**Offences and requirements for disclosure of video records in proceedings that are not criminal proceedings or Family Court proceedings**
 
 ### 119 Offences
-(1AA) A person who is in possession of a video record of any of the types specified in section 106(4A), other than as permitted by an Act or any regulations, commits an offence and is liable on conviction,—
-  (a) in the case of an individual, to a fine not exceeding $2,000:
-  (b) in the case of a body corporate, to a fine not exceeding $10,000.
-(1AB) A person who is in possession of a video record of any of the types specified in section 106(4A) with the intention of copying, supplying, or showing the video record, other than as permitted by an Act or any regulations, commits an offence and is liable on conviction,—
-  (a) in the case of an individual, to a term of imprisonment not exceeding 6 months:
-  (b) in the case of a body corporate, to a fine not exceeding $10,000.
-(1AC) A person who copies, supplies, or shows a video record of any of the types specified in section 106(4A), other than as permitted by an Act or any regulations, commits an offence and is liable on conviction,—
-  (a) in the case of an individual, to a term of imprisonment not exceeding 6 months:
-  (b) in the case of a body corporate, to a fine not exceeding $10,000.
+Unauthorised possession of, or dealing with, any video record
+(1AA) A person who is in possession of, or who deals with, a video record (whether a video record made under section 106, or a video record made before or at the hearing or the trial under any of sections 106AA to 106J), other than as permitted by legislation or court order, commits an offence and is liable on conviction,—
+  (a) if the person is an individual, to a fine not exceeding $2,000:
+  (b) if the person is a body corporate, to a fine not exceeding $10,000.
+Video records to which offences in subsections (1AB) and (1AC) apply
+(1ABA) The offences in subsections (1AB) and (1AC) apply to a video record (whether a video record made under section 106, or a video record made before or at the hearing or the trial under any of sections 106AA to 106J) of—
+  (a) any child complainant; or
+  (b) any witness (including an adult complainant) in a sexual case or a violent case.
+Possession of video record with intention of unauthorised copying, supplying, or showing
+(1AB) A person who is in possession of a video record of a type specified in subsection (1ABA), with the intention of copying, supplying, or showing the video record, other than as permitted by legislation or court order, commits an offence and is liable on conviction,—
+  (a) if the person is an individual, to a term of imprisonment not exceeding 6 months:
+  (b) if the person is a body corporate, to a fine not exceeding $10,000.
+Unauthorised copying, supplying, or showing of video record
+(1AC) A person who copies, supplies, or shows a video record of a type specified in subsection (1ABA), other than as permitted by legislation or court order, commits an offence and is liable on conviction,—
+  (a) if the person is an individual, to a term of imprisonment not exceeding 6 months:
+  (b) if the person is a body corporate, to a fine not exceeding $10,000.
+Contravention of witness anonymity order
 (1) A person commits an offence and is liable on conviction to a term of imprisonment not exceeding 7 years who, with knowledge of a pre-trial witness anonymity order made under section 110, intentionally contravenes section 111(b) or (d).
 (2) A person commits an offence and is liable on conviction to a term of imprisonment not exceeding 7 years who, with knowledge of a witness anonymity order made under section 112, intentionally contravenes section 113(c) or (e).
 (3) If a person contravenes section 111(b) or (d) or 113(c) or (e), and that contravention does not constitute an offence against subsection (1) or (2), the person commits an offence and is liable on conviction,—
   (a) in the case of an individual, to a fine not exceeding $2,000:
   (b) in the case of a body corporate, to a fine not exceeding $10,000.
+Contempt of court
 (4) Nothing in this section limits the power of any court to punish any contempt of court.
 
-### 119A Requirements for disclosure of video records in proceedings other than under section 106 or in Family Court proceedings
-(1) Unless subsection (2) applies, the Police must not disclose a copy or a transcript of any video record to which this section applies to parties in any proceedings other than—
-  (a) criminal proceedings (disclosure of which is provided for in section 106); or
-  (b) Family Court proceedings (disclosure of which is provided for in regulations made under section 201).
-(2) A Judge or judicial officer may order disclosure of a video record to the parties, if he or she is satisfied that—
-  (a) the disclosure will not prejudice any criminal proceedings for which the video record may be offered as evidence; and
-  (b) it is in the interests of justice to do so after considering the matters in section 119B.
-(3) If a Judge or judicial officer makes an order for disclosure, he or she must, subject to subsection (4), give directions for the way in which disclosure is to be made, which may include the Police providing the parties with—
-  (a) a copy, a transcript, or a summary of the video record:
+### 119A Requirements for disclosure of video records in proceedings that are not criminal proceedings or Family Court proceedings
+Definitions of disclose, proceedings, and video record
+(1A) In this section,—
+  - **disclose** , in relation to a video record, means to disclose or produce the video record under an order—
+    (a) made by a Judge or judicial officer; and
+    (b) made under a power existing under legislation other than this section
+  - **proceedings** means proceedings that are not—
+    (a) criminal proceedings; or
+    (b) Family Court proceedings
+  - **video record** means all, or any extract from or part, of—
+    (a) any video record (whether a video record made under section 106, or a video record made before or at the hearing or the trial under any of sections 106AA to 106J); or
+    (b) any copy, transcript, or summary of any video record referred to in paragraph (a).
+Police must not disclose video record unless order for disclosure complies
+(1) The Police must not disclose a video record to all or any parties to proceedings unless the order for disclosure is made in compliance with subsection (2).
+Restriction on Judge or judicial officer making order for disclosure
+(2) A Judge or judicial officer may make an order for disclosure of a video record to all or any parties to proceedings only if satisfied—
+  (a) that the disclosure will not prejudice any criminal proceedings for which the video record may be offered as evidence; and
+  (b) that, after considering the matters in section 119B, it is in the interests of justice to do so.
+Directions for how video record to be disclosed under order for disclosure
+(3) A Judge or judicial officer who makes an order for disclosure must, subject to subsection (4), give directions for the way in which the video record is to be disclosed, which may include the Police or court providing all or any parties to proceedings with—
+  (a) the video record, or a transcript or a summary of the video record:
   (b) an opportunity to view the video record:
   (c) access to 1 or more extracts or parts of the video record by any of the means in paragraphs (a) and (b).
-(4) A Judge or judicial officer may make a particular direction for the way in which disclosure is to be made, if he or she is satisfied that the direction is in the interests of justice after considering the matters in section 119B.
-(5) A video record that is disclosed in proceedings under this section must be dealt with in compliance with any regulations made under section 201.
-(6) To avoid doubt, this section applies to the exercise of existing powers to order the production and disclosure of evidence, and does not create a new power to do so.
-(7) For the purposes of this section,—
-  - **proceedings** means proceedings in any court or tribunal, other than the proceedings listed in subsection (1)﻿(a) and (b)
-  - **video record** means a video record of an interview with a witness it is intended may be offered by the prosecution as evidence in a criminal proceeding.
+(4) A Judge or judicial officer may make a particular direction for the way in which the video record is to be disclosed if satisfied that, after considering the matters in section 119B, the direction is in the interests of justice.
+Disclosed video record must be dealt with in compliance with regulations made under section 201
+(5) A video record disclosed under this section to all or any parties to proceedings must be dealt with in compliance with any regulations made under section 201.
 
 ### 119B Matters Judge or judicial officer must consider before ordering disclosure of video record or giving direction for disclosure
 The matters that a Judge or judicial officer must consider for the purposes of section 119A(2)﻿(b) and (4) are—
@@ -1541,6 +1673,21 @@ The matters that a Judge or judicial officer must consider for the purposes of s
   (b) alert the jury to the possibility that a mistaken witness may be convincing; and
   (c) where there is more than 1 identification witness, refer to the possibility that all of them may be mistaken.
 (3) If evidence of identity is given against the defendant in any criminal proceeding and the defendant disputes that evidence, the court must bear in mind the need for caution before convicting the defendant in reliance on the correctness of any such identification and, in particular, must bear in mind the possibility that the witness may be mistaken.
+
+### 126A Judicial directions about misconceptions arising in sexual cases
+(1) In a sexual case tried before a jury, the Judge must give the jury any direction the Judge considers necessary or desirable to address any relevant misconception relating to sexual cases.
+(2) Misconceptions relating to sexual cases (all or any of which the Judge may consider relevant in the case) include, but are not limited to, misconceptions—
+  (a) about the prevalence or features of false complaints in sexual cases:
+  (b) that a victim or an offender in a sexual case has, or does not have, particular stereotypical characteristics:
+  (c) that sexual offending is committed only by strangers, or is less serious when committed by a family member (including, but not limited to, a spouse, civil union partner, or de facto partner) or by an acquaintance:
+  (d) that sexual offending always involves force or the infliction of physical injuries:
+  (e) that, in a sexual case, a complainant is less credible or more likely to have consented, or a defendant’s belief in consent is reasonable, based solely on the complainant—
+    (i) dressing provocatively, acting flirtatiously, or drinking alcohol or taking drugs:
+    (ii) being in a relationship with a defendant, including a sexual relationship:
+    (iii) maintaining contact with a defendant, or showing a lack of visible distress, after the alleged offending.
+(3) This section does not limit or affect—
+  (a) section 127 (delayed complaints or failure to complain in sexual cases):
+  (b) any regulations made under section 201(1)﻿(m) (warning or informing jury about very young children’s evidence).
 
 ### 127 Delayed complaints or failure to complain in sexual cases
 (1) Subsection (2) applies if, in a sexual case tried before a jury, evidence is given or a question is asked or a comment is made that tends to suggest that the person against whom the offence is alleged to have been committed either delayed making or failed to make a complaint in respect of the offence.
@@ -2226,21 +2373,19 @@ Every witness required to attend for examination by an order made under section 
 
 ### 201 Regulations
 (1) The Governor-General may, by Order in Council, make regulations—
-  (a) prescribing the procedure to be followed, the type of equipment to be used, and the arrangements to be made where a person’s evidence is to be video recorded:
+  (a) prescribing the procedure to be followed (see also section 201A), the type of equipment to be used, and the arrangements to be made where a person’s evidence is to be video recorded:
   (b) providing for the approval of interviewers, or classes of interviewers, for child complainants, and providing for such approvals to be proved by production of certificates in the prescribed form:
   (c) regulating the way in which evidence of a witness may be given in an alternative way:
   (d) prescribing the form of certificate by which an interviewer is to formally identify a video record:
   (e) regulating the video recording of evidence:
   (f) providing for the consent of persons to be video recorded and specifying who may give consent on behalf of children who are to be video recorded:
   (g) prescribing the uses to which any video records may be put and prohibiting their use for other purposes:
-  (ga) prescribing the ways in which video records may be dealt with, including the custody or return of video records, or prohibiting or restricting their copying:
+  (ga) prescribing the ways in which video records may be dealt with, including access to or the disclosure or sharing of video records, or the custody or return of video records, or prohibiting or restricting their copying:
   (h) providing for the safe custody of video records intended to be offered as evidence:
   (ha) prescribing requirements for viewing video records of evidence by defendants, their lawyers, and expert witnesses, including where and when viewing can take place:
   (i) providing for the preparation of transcripts of video records and for their uses and safe custody:
-  (ia) regulating the destruction of video records:
-  (ib) prescribing offences for non-compliance with regulations relating to the use of video records of evidence and any transcripts of such evidence, with a maximum penalty of,—
-    (i) in the case of an individual, a fine not exceeding $2,000:
-    (ii) in the case of a body corporate, a fine not exceeding $10,000:
+  (ia) regulating the destruction of video records or of transcripts of video records (including the destruction of copies or summaries of, or of extracts or parts of, video records or transcripts of video records):
+  (ib)
   (j) regulating the provision of communication assistance to defendants and witnesses:
   (k) providing for requirements, in addition to those set out in section 45(3), for formal procedures that are held to obtain visual identification evidence:
   (l) providing for the determination of the amount of fees and expenses, including minimum and maximum amounts, payable in respect of professional services provided by counsel appointed under section 115:
@@ -2250,6 +2395,11 @@ Every witness required to attend for examination by an order made under section 
 (2) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 **Periodic review of operation of Act**
+
+### 201A Regulations made under section 201(1)﻿(a) may authorise Judge to make order restricting attendance by, or excluding, members of media at making, before trial, of video record of sexual case complainant’s or propensity witness’s evidence
+(1) Regulations made under section 201(1)﻿(a) may authorise a Judge to make an order restricting attendance by, or excluding, any member of the media at any making, before trial, of a video record of a sexual case complainant’s or propensity witness’s evidence.
+(2) In this section, member of the media has the same meaning as in section 198(2) of the Criminal Procedure Act 2011.
+(3) This section does not limit the generality of section 201(1)﻿(a), and applies despite anything to the contrary in the Criminal Procedure Act 2011.
 
 ### 202 Periodic review of operation of Act
 [Repealed]
