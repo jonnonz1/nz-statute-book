@@ -1,5 +1,5 @@
 # Criminal Procedure Act 2011
-_Consolidation as at 2022-12-13_
+_Consolidation as at 2022-12-21_
 
 ### 1 Title
 This Act is the Criminal Procedure Act 2011.
@@ -959,8 +959,8 @@ Despite section 95(1), the oral evidence of a complainant may be taken only by a
   (a) ensure that no person other than those referred to in subsection (1) is present; and
   (b) advise the complainant of the complainant's right to request the presence of any person under subsection (1)﻿(h).
 
-### 98 Application of sections 103 to 105 of Evidence Act 2006
-If an oral evidence order is made, sections 103 to 105 of the Evidence Act 2006 apply with any necessary modifications to the taking of the oral evidence.
+### 98 Application of subpart 5 of Part 3 of Evidence Act 2006
+If an oral evidence order is made, subpart 5 (alternative ways of giving evidence) of Part 3 (trial process) of the Evidence Act 2006 applies with any necessary modifications to the taking of the oral evidence.
 
 ### 99 Oral evidence must be recorded
 (1) Oral evidence must be recorded and that record must be authenticated.
@@ -1990,7 +1990,7 @@ In this subpart, unless the context otherwise requires,—
   - **name** , in relation to a person, means the person's name and any particulars likely to lead to the person's identification
   - **suppression order** means an order made under—
     (a) any of sections 199C, 200, 202, and 205; or
-    (b) section 199A(3) that varies the effect of automatic suppression in any proceedings; or
+    (b) section 199A(3) or 199BA(3) that varies the effect of automatic suppression in any proceedings; or
     (c) section 199B(1) or 199D(2).
 
 ### 195 Context in which publication prohibited
@@ -2040,7 +2040,7 @@ For the purposes of this subpart, publication means publication in the context o
   (d) any lawyer engaged in the proceedings:
   (e) any officer of the court:
   (f) the Police employee in charge of the case:
-  (g) any member of the media (as defined in section 198(2)):
+  (g) any member of the media (as defined in section 198(2)), except that this paragraph is subject to an order of the kind specified in subsection (4)﻿(a):
   (h) any person whose presence is requested by the complainant:
   (i) any person expressly permitted by the Judge to be present.
 (2) Before the complainant starts to give evidence, the Judge must—
@@ -2052,6 +2052,9 @@ For the purposes of this subpart, publication means publication in the context o
   (c) any other offence against the person of a sexual nature:
   (d) being a party to the commission of any offence referred to in paragraphs (a) to (c):
   (e) conspiring with any person to commit any such offence.
+(4) Nothing in this Act limits the following:
+  (a) an order restricting attendance by, or excluding, members of the media at any making, before trial, of a video record of a sexual case complainant’s or propensity witness’s evidence:
+  (b) regulations made under section 201(1)﻿(a) of the Evidence Act 2006 authorising a Judge to make an order of that kind.
 
 ### 199AA Court may be cleared when victim impact statement read or otherwise presented to court in cases of sexual nature
 (1) In any case of a sexual nature, a court may, on an application made for the purpose by the prosecutor, make an order that no person may be present in the courtroom while the victim’s victim impact statement is read or otherwise presented to the court, except for the following:
@@ -2096,6 +2099,18 @@ For the purposes of this subpart, publication means publication in the context o
   (a) served with the application for an order or notified that the court is considering making an order under subsection (1); and
   (b) given an opportunity to be heard by the court.
 (3) An order made under subsection (1) expires with the expiry of the automatic suppression to which it relates.
+
+**Automatic suppression of sexual case complainant’s or propensity witness’s evidence that is video recorded before trial**
+
+### 199BA Automatic suppression of sexual case complainant’s or propensity witness’s evidence that is video recorded before trial
+(1) No person may publish the whole or any part of a sexual case complainant’s or propensity witness’s evidence that is video recorded before trial (see sections 106C to 106J of the Evidence Act 2006) except as permitted by or under this section.
+(2) The automatic suppression in subsection (1) remains in force, unless earlier lifted by the court, until—
+  (a) the evidence is presented at trial in the sexual case; or
+  (b) the relevant charges in the sexual case are withdrawn, dismissed, stayed, or otherwise disposed of.
+(3) However, the court may, by order made on application or on its own initiative,—
+  (a) lift the suppression:
+  (b) vary the effect of the suppression by permitting the publication of any evidence as specified in the order.
+(4) This section does not limit other suppression provisions or orders.
 
 **Temporary suppression of trial-related information**
 
@@ -2263,11 +2278,11 @@ For the purposes of this subpart, publication means publication in the context o
 ### 211 Offences and penalties
 (1) Every person commits an offence who knowingly or recklessly publishes any name, address, occupation, or other information in breach of—
   (a) a suppression order; or
-  (b) any of sections 199A, 201, 203, and 204; or
+  (b) any of sections 199A, 199BA, 201, 203, and 204; or
   (c) an order made under section 286 or 292.
 (2) Every person commits an offence who publishes any name, address, occupation, or other information in breach of—
   (a) a suppression order; or
-  (b) any of sections 199A, 201, 203, and 204; or
+  (b) any of sections 199A, 199BA, 201, 203, and 204; or
   (c) an order made under section 286 or 292.
 (3) Subsection (2) does not apply to a person who hosts material on websites or other electronic retrieval systems that can be accessed by a user unless the specific information has been placed or entered on the site or system by that person.
 (4) A person who commits an offence against subsection (1) is liable on conviction,—
@@ -2314,6 +2329,8 @@ The duty of an appeal court to determine an appeal under subparts 2 to 10 is sub
 (2) The defendant or the prosecutor may, with the leave of the first appeal court, appeal to that court against a decision that is one of the following:
   (a) making or refusing to make an order under section 79 (as to admissibility of evidence):
   (b) granting or refusing to grant permission under section 44 of the Evidence Act 2006 (which relates to the cross-examination of a complainant):
+  (ba) granting or refusing to grant an application for a direction under section 106F of the Evidence Act 2006 in respect of a notification under section 106D of that Act that cross-examination evidence is to be given by video record made before trial:
+  (bb) granting or refusing to grant an application under section 106H of the Evidence Act 2006 for further cross-examination of a sexual case complainant or propensity witness all of whose evidence has been or is to be given by video record made before trial:
   (c) giving or refusing to give leave on an application under section 109(1)﻿(d) of the Evidence Act 2006 (which relates to the identity of a witness):
   (ca) making or refusing to make a pre-trial witness anonymity order under section 110 of the Evidence Act 2006:
   (d) making or refusing to make a witness anonymity order under section 112 of the Evidence Act 2006.
@@ -2337,6 +2354,8 @@ The duty of an appeal court to determine an appeal under subparts 2 to 10 is sub
   (g) making or refusing to make an order under section 151 (for a person to be retried on ground that acquittal tainted):
   (h) refusing to make an order under section 157 (to transfer proceeding to a court at another place):
   (i) granting or refusing to grant permission under section 44 of the Evidence Act 2006 (relating to the cross-examination of a complainant):
+  (ia) granting or refusing to grant an application for a direction under section 106F of the Evidence Act 2006 in respect of a notification under section 106D of that Act that cross-examination evidence is to be given by video record made before trial:
+  (ib) granting or refusing to grant an application under section 106H of the Evidence Act 2006 for further cross-examination of a sexual case complainant or propensity witness all of whose evidence has been or is to be given by video record made before trial:
   (j) giving or refusing to give leave on an application under section 109(1)﻿(d) of the Evidence Act 2006 (relating to the identity of a witness):
   (ja) making or refusing to make a pre-trial witness anonymity order under section 110 of the Evidence Act 2006:
   (k) making or refusing to make a witness anonymity order under section 112 of the Evidence Act 2006.
@@ -2782,7 +2801,7 @@ Every determination of a second appeal under this subpart by the High Court is f
 **First appeals**
 
 ### 282 Interpretation
-In this subpart, suppression order means an order made under section 199A(3), 199B(1), 199C, 199D(2), 200, 202, or 205.
+In this subpart, suppression order means an order made under section 199A(3), 199B(1), 199BA(3), 199C, 199D(2), 200, 202, or 205.
 
 ### 283 Right of appeal against decision on suppression order
 (1) A person specified in subsection (2) may appeal under this subpart to the first appeal court against a decision of a court—
