@@ -1,5 +1,5 @@
 # Employment Relations Act 2000
-_Consolidation as at 2022-12-01_
+_Consolidation as at 2022-12-30_
 
 ### 1 Title
 This Act is the Employment Relations Act 2000.
@@ -191,16 +191,15 @@ Schedule 1AA contains application, savings, and transitional provisions relating
     (ii) a person intending to work; but
   (c) excludes a volunteer who—
     (i) does not expect to be rewarded for work to be performed as a volunteer; and
-    (ii) receives no reward for work performed as a volunteer; and
-  (d) excludes, in relation to a film production, any of the following persons:
-    (i) a person engaged in film production work as an actor, voice-over actor, stand-in, body double, stunt performer, extra, singer, musician, dancer, or entertainer:
-    (ii) a person engaged in film production work in any other capacity.
-(1A) However, subsection (1)﻿(d) does not apply if the person is a party to, or covered by, a written employment agreement that provides that the person is an employee.
+    (ii) receives no reward for work performed as a volunteer.
+  (d)
+(1A)
 (2) In deciding for the purposes of subsection (1)﻿(a) whether a person is employed by another person under a contract of service, the court or the Authority (as the case may be) must determine the real nature of the relationship between them.
 (3) For the purposes of subsection (2), the court or the Authority—
   (a) must consider all relevant matters, including any matters that indicate the intention of the persons; and
   (b) is not to treat as a determining matter any statement by the persons that describes the nature of their relationship.
 (4) Subsections (2) and (3) do not limit or affect the Real Estate Agents Act 2008 or the Sharemilking Agreements Act 1937.
+(4A) Nothing in this section applies to determine the employment status of a person who falls within the meaning of screen production worker in section 11 of the Screen Industry Workers Act 2022.
 (5) The court may, on the application of a union, a Labour Inspector, or 1 or more other persons, by order declare whether the person or persons named in the application are—
   (a) employees under this Act; or
   (b) employees or workers within the meaning of any of the Acts specified in section 223(1).
@@ -209,19 +208,7 @@ Schedule 1AA contains application, savings, and transitional provisions relating
     (i) is the applicant; or
     (ii) has consented in writing to another person applying for the order; and
   (b) the other person who is alleged to be the employer of the person is a party to the application or has an opportunity to be heard on the application.
-(7) In this section,—
-  - **film** means a cinematograph film, a video recording, and any other material record of visual moving images that is capable of being used for the subsequent display of those images; and includes any part of any film, and any copy or part of a copy of the whole or any part of a film
-  - **film production** means the production of a film or video game
-  - **film production work** —
-    (a) means the following work performed, or services provided, in relation to a film production:
-      (i) work performed, or services provided, by an actor, voice-over actor, stand-in, body double, stunt performer, extra, singer, musician, dancer, or entertainer (whether as an individual or not):
-      (ii) pre-production work or services (whether on the set or off the set):
-      (iii) production work or services (whether on the set or off the set):
-      (iv) post-production work or services (whether on the set or off the set):
-      (v) promotional or advertising work or services (whether on the set or off the set) by a person referred to in subparagraphs (i) to (iv); but
-    (b) excludes work performed, or services provided, in respect of the production of any programme intended initially for broadcast on television
-  - **video game** means any video recording that is designed for use wholly or principally as a game
-  - **video recording** means any disc, magnetic tape, or solid state recording device containing information by the use of which 1 or more series of visual images may be produced electronically and shown as a moving picture.
+(7)
 
 ### 6A Status of examples
 (1) In this Act, an example is only illustrative of the provision it relates to and does not limit the provision.
@@ -308,7 +295,8 @@ The object of this Part is—
   (b) on and from the date of registration stated in the certificate, the union is registered as a union under this Act.
 
 ### 16 Annual return of members
-A union must deliver to the Registrar of Unions, not later than 1 June in each calendar year, an annual return of members, stating how many members it had as at 1 March in that year.
+(1) A union must deliver to the Registrar of Unions, not later than 1 June in each calendar year, an annual return of members, stating how many members it had as at 1 March in that year.
+(2) If a union has delivered, or will deliver, information required under this section to the Registrar of Screen Industry Organisations under section 85 of the Screen Industry Workers Act 2022, the union may permit the Registrar of Unions to obtain that information from the Registrar of Screen Industry Organisations.
 
 ### 17 Cancellation of union's registration
 (1) The Registrar of Unions may cancel the registration of a union under this Act, but only if—
@@ -3188,6 +3176,7 @@ The chief executive or a Labour Inspector may recover in the District Court as a
     (xi)
   (xii) the Fair Pay Agreements Act 2022.
   (b) any order, determination, direction, or requirement made or given under this Act by the Authority or a member or officer of the Authority.
+  (c) any order, determination, direction, or requirement made or given under the Screen Industry Workers Act 2022 by the Authority or a member or an officer of the Authority.
 (2) Where this section applies, the Authority may, in addition to any other power it may exercise, by order require, in or in conjunction with any matter before the Authority under this Act to which that person is a party or in respect of which that person is a witness, that person to do any specified thing or to cease any specified activity, for the purpose of preventing further non-observance of or non-compliance with that provision, order, determination, direction, or requirement.
 (3) The Authority must specify a time within which the order is to be obeyed.
 (4) The following persons may take action against another person by applying to the Authority for an order of the kind described in subsection (2):
@@ -3837,6 +3826,7 @@ If a matter before the Authority relates principally to an alleged breach of emp
   (a) bargaining; or
   (b) the fixing of new terms and conditions of employment.
 (3) Except as provided in this Act, no court has jurisdiction in relation to any matter that, under subsection (1), is within the exclusive jurisdiction of the Authority.
+(4) The Authority has jurisdiction to perform and exercise the functions and powers conferred on it by the Screen Industry Workers Act 2022.
 
 ### 162 Application of law relating to contracts
 Subject to sections 163 and 164, the Authority may, in any matter related to an employment agreement, make any order that the High Court or the District Court may make under any enactment or rule of law relating to contracts, including—
@@ -4159,7 +4149,7 @@ The making of an election under section 179 does not operate as a stay of procee
   (k) to issue warrants under section 231:
   (ka) to hear and determine any application for review of the type referred to in section 237D:
   (l) to exercise its powers in respect of any offence against this Act:
-  (m) to exercise such other functions and powers as are conferred on it by this or any other Act.
+  (m) to exercise such other functions and powers as are conferred on it by this or any other Act, including the Screen Industry Workers Act 2022.
 (2) The court does not have jurisdiction to entertain an application for summary judgment.
 (3) Except as provided in this Act, no other court has jurisdiction in relation to any matter that, under subsection (1), is within the exclusive jurisdiction of the court.
 
