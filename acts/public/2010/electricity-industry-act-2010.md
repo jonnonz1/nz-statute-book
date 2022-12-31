@@ -1,5 +1,5 @@
 # Electricity Industry Act 2010
-_Consolidation as at 2022-09-01_
+_Consolidation as at 2022-12-31_
 
 ### 1 Title
 This Act is the Electricity Industry Act 2010.
@@ -239,8 +239,10 @@ In this Act, unless the context otherwise requires,—
 (1) No member of the Authority, when acting as a member, may represent, or promote the interests or views of, any organisation or any particular industry participant or group of industry participants.
 (2) This section does not limit, and is in addition to, the duties of members set out in Part 2 of the Crown Entities Act 2004.
 
-### 15 Objective of Authority
-The objective of the Authority is to promote competition in, reliable supply by, and the efficient operation of, the electricity industry for the long-term benefit of consumers.
+### 15 Objectives of Authority
+(1) The main objective of the Authority is to promote competition in, reliable supply by, and the efficient operation of, the electricity industry for the long-term benefit of consumers.
+(2) The additional objective of the Authority is to protect the interests of domestic consumers and small business consumers in relation to the supply of electricity to those consumers.
+(3) The additional objective applies only to the Authority’s activities in relation to the dealings of industry participants with domestic consumers and small business consumers.
 
 ### 16 Functions of Authority
 (1) The Authority's functions are as follows:
