@@ -1,5 +1,5 @@
 # Electoral Act 1993
-_Consolidation as at 2022-09-01_
+_Consolidation as at 2023-01-01_
 
 > An Act to reform the electoral system and to provide, in particular, if the proposal for the introduction of the mixed member proportional system is carried at the referendum held under the Electoral Referendum Act 1993,—afor the introduction of the mixed member proportional system of representation in relation to the House of Representatives:bfor the establishment of an Electoral Commission:cfor the repeal of the Electoral Act 1956
 
@@ -117,7 +117,9 @@ This Act may be cited as the Electoral Act 1993.
       (iii) any person remunerated by fees or commission and not by wages or salary
   - **Registrar** , in relation to any district, means the Registrar of Electors appointed for that district under section 22; and includes his or her deputy
   - **Registrar of Births and Deaths** means Registrar within the meaning of section 2 of the Births, Deaths, Marriages, and Relationships Registration Act 1995
-  - **regulated period** has the meaning given to it by section 3B
+  - **regulated period** has the meaning given to it by—
+    (a) section 3B, in relation to a general election:
+    (b) section 3BA, in relation to a by-election
   - **representative** , in Part 5, means,—
     (a) in relation to a person who is outside New Zealand, or who has a physical impairment,—
       (i) a person who is a registered elector:
@@ -211,8 +213,10 @@ The transitional, savings, and related provisions set out in Schedule 1AA have e
       (ii) generally available to members of the public
   - **vehicle** has the meaning given to it by section 2(1) of the Land Transport Act 1998.
 
-### 3B Meaning of regulated period
-(1) In this Act, regulated period, in relation to a general election, has the meaning given to it by subsections (2) and (3).
+### 3B Meaning of regulated period: general election
+(1) In this Act, regulated period, in relation to a general election, has the meaning given to it by—
+  (a) subsections (2) and (3), if the Prime Minister gives public notice of the day that is to be polling day for the general election and that day is not subsequently changed to a later day; and
+  (b) subsection (4), if the Prime Minister gives public notice of the day that is to be polling day for the general election and that day is subsequently changed to a later day.
 (2) If before the close of the default day the Prime Minister gives public notice of the day that is to be polling day for the election, the regulated period—
   (a) commences on the later of the following days:
     (i) the day after the date on which the Prime Minister gives that public notice:
@@ -221,12 +225,21 @@ The transitional, savings, and related provisions set out in Schedule 1AA have e
 (3) If at the close of the default day the Prime Minister has not given public notice of the day that is to be polling day for the election, the regulated period—
   (a) commences on the close of the default day; and
   (b) ends with the close of the day before polling day.
-(4) In this Act, regulated period, in relation to a by-election, means the period that—
-  (a) commences on the day after the notice of the vacancy to be filled by the by-election is published under section 129(1); and
-  (b) ends with the close of the day before polling day.
+(4) If at any time after giving public notice of the day that is to be polling day (day A) the Prime Minister gives public notice that day A is changed to a later day (day B), the regulated period is the shorter of the following periods:
+  (a) the period—
+    (i) commencing on the day after the date on which the Prime Minister gives public notice of day B; and
+    (ii) ending on the close of the day before day B; and
+  (b) the period—
+    (i) commencing 3 months before day B; and
+    (ii) ending on the close of the day before day B.
 (5) In this section,—
   - **default day** means the day that is 2 years and 9 months after the polling day for the preceding general election
   - **give public notice** means issue a media statement.
+
+### 3BA Meaning of regulated period: by-election
+In this Act, regulated period, in relation to a by-election, means the period that—
+  (a) commences on the day after the day on which the notice of the vacancy to be filled by the by-election is published under section 129(1); and
+  (b) ends with the close of the day before polling day.
 
 ### 3C Electoral Commission to publish details relating to regulated period
 The Electoral Commission must, as soon as practicable after the commencement of the regulated period for a general election, publish in the Gazette notice of—
@@ -966,9 +979,7 @@ Subject to the provisions of this Act, the following persons, and no others, sha
 
 ### 63A Application fee
 (1) The fee payable on making an application under section 63 is $500 (inclusive of goods and services tax).
-(2) The fee must be paid by—
-  (a) direct credit to a bank account nominated by the Electoral Commission; or
-  (b) bank cheque.
+(2) The fee must be paid by direct credit to a bank account nominated by the Electoral Commission.
 
 ### 64 Times when registration prohibited
 (1) At no time in the period that, in relation to a general election,—shall action be taken in relation to any application for the registration of a political party.
@@ -1008,7 +1019,12 @@ The Electoral Commission shall refuse an application for the registration of a p
   (b) to notify the Electoral Commission of any changes in the address for service of correspondence; and
   (c) to notify the Electoral Commission whenever a new secretary of the party is appointed; and
   (d) to notify the Electoral Commission if the number of current financial members of the party who are eligible to enrol as electors falls below 500; and
-  (e) subject to subsection (4), to notify the Electoral Commission by way of a declaration in the manner provided by section 9 of the Oaths and Declarations Act 1957 whenever there is any change in the details recorded in the Register of Political Parties in respect of the party under subsection (1)﻿(a)﻿(iii).
+  (da) to notify the Electoral Commission—
+    (i) whether the party is an incorporated society and, if so, the party’s balance date:
+    (ii) if the party is not an incorporated society, whether the party’s constitution requires the preparation of annual financial statements and, if so, the party’s balance date:
+    (iii) whether the party’s annual financial statements prepared in accordance with any other enactment or the party’s constitution are required to be audited by a qualified auditor:
+    (iv) of any subsequent change to the matters notified under subparagraphs (i) to (iii); and
+  (e) to notify the Electoral Commission by way of a declaration in the manner provided by section 9 of the Oaths and Declarations Act 1957 whenever there is any change in the details recorded in the Register of Political Parties in respect of the party under subsection (1)﻿(a)﻿(iii).
   (f)
 (4)
 
@@ -2185,9 +2201,7 @@ Whenever Parliament is dissolved or expires, the Governor-General must, not late
 
 ### 127A Deposit by party secretary
 (1) If a secretary of a political party submits a list under section 127, he or she must pay to the Electoral Commission, no later than noon on the day before nomination day, a deposit of $1,000 (inclusive of goods and services tax).
-(2) The deposit must be paid by—
-  (a) direct credit to a bank account nominated by the Electoral Commission; or
-  (b) bank cheque.
+(2) The deposit must be paid by direct credit to a bank account nominated by the Electoral Commission.
 (3) The deposit is forfeit and must be paid into a Crown Bank Account if the party neither—
   (a) receives in total at least 0.5% of the total number of all party votes received by all the parties listed on the part of the ballot paper that relates to the party vote; nor
   (b) wins a constituency seat.
@@ -2203,7 +2217,7 @@ Whenever Parliament is dissolved or expires, the Governor-General must, not late
   (a) if the list is not submitted by a political party registered under Part 4; or
   (b) if the list is not lodged with the Electoral Commission by noon on the day before nomination day; or
   (c) if the list does not contain the name of at least 1 candidate; or
-  (d) if the list is not accompanied by the declaration required by section 127(3A); or
+  (d) if the list does not contain the declaration required by section 127(2)﻿(c); or
   (da)
   (e) if the deposit required by section 127A is not paid by noon on the day before nomination day.
 (2) Where—the Electoral Commission shall delete the name of that person from the list and the order of preference in the list shall be deemed to be amended accordingly.
@@ -2325,9 +2339,9 @@ Where any vacancy is filled under section 137, or the Electoral Commission deter
 
 ### 144 Deposit by candidate
 (1) Every constituency candidate, or some person on the constituency candidate’s behalf, shall deposit with the Returning Officer the sum of $300 not later than noon on nomination day.
-(2) The deposit may be paid—
-  (a) in the form of money, a bank draft, or a bank cheque; or
-  (b) in any other form that the Electoral Commission approves.
+(2) The deposit must be paid—
+  (a) in cash; or
+  (b) by direct credit to a bank account nominated by the Electoral Commission.
 (3) The deposit of an unsuccessful candidate is forfeit and must be paid into a Crown Bank Account if the candidate receives in total less than 5% of the total number of votes received by constituency candidates in the district.
 (4) In every other case, the deposit of a constituency candidate must be returned to the person who paid it, but only after the Electoral Commission has received from that candidate duly completed returns under sections 205K and 209.
 
@@ -2409,9 +2423,7 @@ Sections 146B to 146L provide an alternative to the procedures set out in sectio
 
 ### 146F Deposit payable in respect of bulk nomination schedule
 (1) If a secretary of a party lodges a bulk nomination schedule under section 146D, he or she must pay to the Electoral Commission, by noon on the day before nomination day, a deposit of $300 (inclusive of goods and services tax) for every constituency candidate nominated in the bulk nomination schedule.
-(2) The deposit must be paid in 1 lump sum by—
-  (a) direct credit to a bank account nominated by the Electoral Commission; or
-  (b) bank cheque.
+(2) The deposit must be paid in 1 lump sum by direct credit to a bank account nominated by the Electoral Commission.
 (3) If an unsuccessful constituency candidate nominated in a bulk nomination schedule receives in total less than 5% of the total number of votes received by constituency candidates in the district for which the unsuccessful candidate was nominated, the amount of the deposit paid under subsection (1) in respect of that unsuccessful candidate is forfeit and must be paid into a Crown Bank Account.
 (4) After deducting any amounts forfeit under subsection (3), the Electoral Commission must return the remainder (if any) of the amount paid under subsection (1) to the party secretary, but only if the Electoral Commission has received from every constituency candidate nominated in the bulk nomination schedule duly completed returns under sections 205K and 209.
 
@@ -2462,7 +2474,7 @@ Sections 146B to 146L provide an alternative to the procedures set out in sectio
 (1) If a candidate for election for an electoral district withdraws his or her nomination under section 146J, or the nomination of a constituency candidate nominated in a bulk nomination schedule is required by section 152 or section 152A(3) to be treated as if it had not been made, the secretary of the party may nominate another candidate for election for that electoral district in the following manner:
   (a) written notice of the nomination must be lodged with the Electoral Commission, by hand, post, or electronically, not later than noon on nomination day:
   (b) the requirements set out in subsections (1) to (3) of section 146E apply in relation to a notice under this section as if the nomination were made in a bulk nomination schedule:
-  (c) the secretary of the party must lodge with the Electoral Commission, by noon on nomination day, a deposit (in the form of money, a bank draft, or a bank cheque) of the amount payable under section 146F(1) for a constituency candidate nominated in a bulk nomination schedule, unless the Electoral Commission holds the amount of the deposit paid under section 146F(1) in respect of the candidate whose nomination was withdrawn or (as the case may be) who died or became incapacitated.
+  (c) the secretary of the party must lodge with the Electoral Commission, by noon on nomination day, a deposit (in cash or in the form of direct credit to a bank account nominated by the Electoral Commission) of the amount payable under section 146F(1) for a constituency candidate nominated in a bulk nomination schedule, unless the Electoral Commission holds the amount of the deposit paid under section 146F(1) in respect of the candidate whose nomination was withdrawn or (as the case may be) who died or became incapacitated.
 (2) Sections 146F(3) and (4), 146G, and 146H apply in relation to a nomination lodged under this section as if the nomination had been included in a bulk nomination schedule, except that the references in those sections to the day before nomination day are to be read as references to nomination day.
 
 ### 146L Inspection of bulk nomination schedules and consents to nomination
@@ -2817,7 +2829,8 @@ No person not actually engaged in voting may remain in a polling place other tha
   (d) any other person with the permission of the Returning Officer.
 
 ### 165 Voters not to be communicated with in polling place
-(1) No scrutineer or other official or unofficial person shall communicate with any voter in a polling place either before or after the voter has given his or her vote, except only the issuing officer (with an interpreter if necessary), who may ask the questions he or she is authorised to put, and give such general directions as may assist any voter to give his or her vote, and in particular may on request inform a voter orally of the names of—
+(1) No person other than an electoral official may communicate with a voter in a polling place, either before or after the voter has voted.
+(1A) An electoral official (with an interpreter if necessary) may ask only the questions the electoral official is authorised to put and give any general directions that may assist any voter, and in particular may, on request, inform a voter orally of the names of—
   (a) all the constituency candidates in alphabetical order with their party designations; and
   (b) all the parties in alphabetical order who have submitted a party list, and the names of the candidates on each list in the order of preference submitted by the party in accordance with section 127.
 (2) Every person who offends against this section shall be liable on conviction to a fine not exceeding $400 and may at once be removed from the polling place by order of the manager.
@@ -3159,7 +3172,7 @@ Nothing in section 180 or section 181 requires the electorate votes or the party
   (b) be witnessed as specified in the form.
 (5) Where a political party appoints more than 1 scrutineer to be present during the allocation of list seats, only 1 scrutineer for that political party, or such greater number as is permitted by the Electoral Commission, shall be present at any one time.
 (6) No candidate shall act as a scrutineer under this section.
-(7) A scrutineer appointed under this section may be appointed by facsimile transmission.
+(7)
 
 ### 184 Ballot papers and certificate to be compared on recount
 (1) At any recount made as aforesaid the Returning Officer shall produce to the District Court Judge all the used ballot papers, together with the Justice’s certificate stating the total number of ballot papers used at the election.
@@ -3708,7 +3721,7 @@ A person may search the register for a purpose set out in section 204S.
 ### 204X When search constitutes interference with privacy of individual
 A search of the register for personal information that has not been carried out for a purpose specified in section 204S constitutes an action that is an interference with the privacy of an individual under section 69 of the Privacy Act 2020.
 
-## Part 6A — Election expenses and donations
+## Part 6A — Election expenses, donations, and annual financial statements
 
 ### Subpart 1 — Election expenses of candidates
 
@@ -4197,7 +4210,10 @@ Every person is guilty of—
       (ii) is not a New Zealand citizen or registered as an elector; or
     (b) a body corporate incorporated outside New Zealand; or
     (c) an unincorporated body that has its head office or principal place of business outside New Zealand
-  - **party donation** means a donation (whether of money or of the equivalent of money or of goods or services or of a combination of those things) that is made to a party, or to any person or body of persons on behalf of the party who are involved in the administration of the affairs of the party, and—
+  - **party donation** —
+    (aaa) means a donation (whether of money or of the equivalent of money or of goods or services or of a combination of those things) that is made to—
+      (i) a party; or
+      (ii) any person or body of persons if there are reasonable grounds to believe that the donation is intended for the benefit of the party; and
     (a) includes,—
       (i) where goods or services are provided by a New Zealand person to a party, or to any person on the party's behalf, under a contract or arrangement at a value less than their reasonable market value, the latter being a value that exceeds $1,500, the amount of the difference between the former value and the reasonable market value of those goods or services; and
       (ia) where goods or services are provided by an overseas person to a party, or to any person on the party’s behalf, under a contract or an arrangement at a value less than their reasonable market value, the latter being a value that exceeds $50, the amount of the difference between the former value and the reasonable market value of those goods or services; and
@@ -4224,6 +4240,9 @@ All references to an amount or value of a donation or contribution are inclusive
 (2) Every person to whom a party donation is given or sent must, within 10 working days after receiving the donation, either—
   (a) transmit the donation to the party secretary; or
   (b) deposit the donation into a bank account nominated by the party secretary.
+
+### 207BA Offence relating to contravention of section 207B
+A person who fails, without reasonable excuse, to comply with section 207B commits an offence and is liable on conviction to a fine not exceeding $40,000.
 
 ### 207C Contributors to be identified
 (1) This section applies to a donation (other than an anonymous donation) that is funded from contributions.
@@ -4345,7 +4364,7 @@ In this subpart, unless the context otherwise requires,—
 (1) This section applies to any New Zealand person who intends to make a donation in excess of $1,500 to a party while preventing the disclosure of the person's identity to—
   (a) the party concerned; and
   (b) the public generally.
-(2) A person to whom this section applies may send a donation in excess of $1,500 by way of a cheque, cash, or a bank draft to the Electoral Commission.
+(2) A person to whom this section applies may send a donation in excess of $1,500 to the Electoral Commission by paying the amount of the donation by direct credit to a bank account nominated by the Electoral Commission.
 (3) A donation under subsection (2) must be accompanied by a statement specifying—
   (a) the name of the party that is to receive the donation; and
   (b) the full name and address of the donor; and
@@ -4396,7 +4415,7 @@ The Electoral Commission—
 (3) In this section, authorised person means—
   (a) a member or employee or other person engaged by the Electoral Commission:
   (b) a donor or contributor and any officer, employee, relative, adviser, or agent of the donor or contributor:
-  (c) any other person to whom the identifying details must be supplied to enable the donation to be made (for example, an employee of a bank who processes a cheque by which the donation is made):
+  (c) any other person to whom the identifying details must be supplied to enable the donation to be made:
   (d) any person to whom the identifying details must be supplied to comply with 1 or more of the Inland Revenue Acts (within the meaning of section 3(1) of the Tax Administration Act 1994):
   (e) the Auditor-General:
   (f) any other person entitled to the information in question in accordance with any search warrant, summons, or any process under rules of court, or in the course of any proceedings.
@@ -4482,8 +4501,8 @@ If a candidate considers that there is no relevant information to disclose under
 
 ### 210 Annual return of party donations
 (1) A party secretary must file with the Electoral Commission, for each year, a return of party donations setting out—
-  (a) the details specified in subsection (2) for every party donation (other than a donation of the kind referred to in paragraphs (c) to (e)) received by him or her that, either on its own or when aggregated with all other donations made by or on behalf of the same donor during the year, exceeds $15,000 in sum or value; and
-  (b) whether section 207C applies to any donation and, if so, and to the extent known or ascertainable from the information supplied under that section, the details specified in subsection (3) in respect of every contribution received from a New Zealand person that, either on its own or when aggregated with other contributions made by or on behalf of the same contributor to the donation, or to other donations during the year, exceeds $15,000 in sum or value; and
+  (a) the details specified in subsection (2) for every party donation (other than a donation of the kind referred to in paragraphs (c) to (e)) received by him or her that, either on its own or when aggregated with all other donations made by or on behalf of the same donor during the year, exceeds $5,000 in sum or value; and
+  (b) whether section 207C applies to any donation and, if so, and to the extent known or ascertainable from the information supplied under that section, the details specified in subsection (3) in respect of every contribution received from a New Zealand person that, either on its own or when aggregated with other contributions made by or on behalf of the same contributor to the donation, or to other donations during the year, exceeds $5,000 in sum or value; and
   (c) the details specified in subsection (4) in respect of every anonymous party donation received by him or her—
     (i) exceeding $50, in any case where the party secretary believes or has reasonable grounds to suspect the donor is an overseas person; or
     (ii) exceeding $1,500, in any other case; and
@@ -4521,20 +4540,40 @@ If a candidate considers that there is no relevant information to disclose under
   (a) the date the payment was received; and
   (b) the amount of the payment; and
   (c) the amount of interest included in the payment.
-(6A) The details referred to in subsection (1)﻿(f) are—
-  (a) the number of anonymous party donations received of an amount not exceeding $1,500, and the total amount of all such donations:
-  (b)
-  (c) the number of all party donations received of an amount exceeding $1,500 but not exceeding $5,000, and the total amount of all such donations:
-  (d) the number of all party donations received of an amount exceeding $5,000 but not exceeding $15,000, and the total amount of all such donations.
+(6A) The details referred to in subsection (1)﻿(f) are,—
+  (a) in respect of anonymous party donations received of an amount not exceeding $1,500,—
+    (i) the number of donations; and
+    (ii) the total amount of the donations; and
+  (b) in respect of all other party donations received of an amount not exceeding $1,500,—
+    (i) the number of donations; and
+    (ii) the total amount of the donations; and
+  (c) in respect of party donations received of an amount exceeding $1,500 but not exceeding $5,000,—
+    (i) the number of donations; and
+    (ii) the total amount of the donations.
+(6B) A return must also set out—
+  (a) the total amount of all of the party donations disclosed under subsection (1)﻿(a); and
+  (b) the total amount of all of the party donations disclosed under subsection (1)﻿(c); and
+  (c) the total amount of all of the party donations disclosed under subsection (1)﻿(d); and
+  (d) the total amount of all of the party donations disclosed under subsection (1)﻿(e); and
+  (e) the total amount of all of the party donations disclosed under subsection (1)﻿(f); and
+  (f) the aggregate of the total amounts referred to in paragraphs (a) to (e); and
+  (g) a breakdown of the aggregate referred to in paragraph (f) showing the total amount of—
+    (i) party donations received in money; and
+    (ii) other party donations received (whether of the equivalent of money or of goods or services).
 (7) A return must—
   (a) be filed by 30 April of the following year; and
   (b) be in the form required by the Electoral Commission; and
-  (c) be accompanied by an auditor's report obtained under section 210A.
+  (c) be accompanied by an auditor’s report, if an auditor’s report is required to be obtained under section 210A.
 (8) Despite anything in subsection (1), if a party secretary is required to file under that subsection a return of party donations that relates to the year in which the party became registered, that return is to relate to the period beginning with the date of registration of the party and ending with 31 December of that year.
 (9) In this section, year means the period of 12 months starting on 1 January and ending with the close of 31 December.
 
 ### 210A Auditor's report on annual return of party donations
-(1) A party secretary must, before the Electoral Commission receives the return required by section 210, obtain from the auditor appointed under section 206J a report on the return.
+(1) This section applies if—
+  (a) an annual return of party donations required to be filed under section 210 shows that the total amount of donations received by the party secretary for the year exceeds $50,000; or
+  (b) an annual return of party donations required to be filed under section 210 shows that the total amount of donations received by the party secretary for the year does not exceed $50,000, but the annual return of party loans filed by the party secretary under section 214C for the same year discloses that the party—
+    (i) has entered into at least 1 loan during that year; or
+    (ii) has an unpaid balance exceeding $15,000 on a loan entered into during any previous year.
+(1A) A party secretary must obtain from the auditor appointed under section 206J a report on the return of party donations.
 (2) The auditor must state in the report whether, in the auditor's opinion, the return fairly reflects the party donations received by the party secretary.
 (3) The auditor must make any examinations that the auditor considers necessary.
 (4) The auditor must specify in the report any case in which—
@@ -4548,29 +4587,38 @@ If a candidate considers that there is no relevant information to disclose under
 ### 210B Nil return
 If a party secretary considers that there is no relevant information to disclose under section 210, the party secretary must file a nil return under that section.
 
-### 210C Return of party donation received from same donor exceeding $30,000
-(1) A party secretary must file with the Electoral Commission a return in respect of every party donation that exceeds $30,000.
-(2) A party secretary must file with the Electoral Commission a return in respect of every party donation that—
-  (a) the party secretary knows is from a donor who in the 12 months immediately preceding the date of receipt of the donation (the last 12 months) has made 1 or more previous donations; and
-  (b) when aggregated with all previous donations received from the donor in the last 12 months exceeds $30,000.
-(3) If a return is made under subsection (2), the donations disclosed in that return must be disregarded when applying this section in relation to a party donation that is made after that return is filed.
-(4) A return filed under subsection (1) must be in the form required by the Electoral Commission and set out—
+### 210C Return of party donation received from same donor exceeding $20,000
+(1) A party secretary must file with the Electoral Commission a return in respect of every party donation received from a donor during the period specified in subsection (2) (the specified period) that—
+  (a) exceeds $20,000; or
+  (b) when aggregated with all previous donations received from the donor in the specified period, exceeds $20,000.
+(2) The specified period is,—
+  (a) if a general election is held in the calendar year in which the term of Parliament is due to expire, the period—
+    (i) commencing on the earlier of the following dates:
+      (A) the day after the date on which the Prime Minister gives public notice of the day that is to be polling day; and
+      (B) 1 January of that year; and
+    (ii) ending on the close of the day before polling day; or
+  (b) if a general election is held in a year other than in the calendar year in which the term of Parliament is due to expire, the period—
+    (i) commencing on the day after the date on which the Prime Minister gives public notice of the day that is to be polling day; and
+    (ii) ending on the close of the day before polling day.
+(3) If a return is made under subsection (1)﻿(b), the donations disclosed in that return must be disregarded when applying this section in relation to a party donation that is made after that return is filed.
+(4) A return filed under subsection (1)﻿(a) must be in the form required by the Electoral Commission and set out—
   (a) the name of the donor (if known); and
   (b) the address of the donor (if known); and
   (c) the amount of the donation; and
   (d) the date the donation was received; and
-  (e) the following details in respect of every contribution to the donation made by or on behalf of the same contributor that exceeds $30,000:
+  (e) the following details in respect of every contribution to the donation made by or on behalf of the same contributor that exceeds $20,000:
     (i) the name of the contributor; and
     (ii) the address of the contributor; and
     (iii) the amount of the contribution.
-(5) A return filed under subsection (2) must be in the form required by the Electoral Commission and set out—
+(5) A return filed under subsection (1)﻿(b) must be in the form required by the Electoral Commission and set out—
   (a) the name of the donor; and
   (b) the address of the donor; and
   (c) the amount of the donation; and
   (d) the amounts of all previous donations; and
   (e) the date the donation was received; and
   (f) the dates all previous donations were received.
-(6) A return must be filed under subsection (1) or (2) within 10 working days of the donation being received by the party secretary.
+(6) A return must be filed under subsection (1)﻿(a) or (b) within 10 working days of the donation being received by the party secretary.
+(7) In this section, give public notice means issue a media statement.
 
 ### 210D Offences relating to return of party donations
 (1) A party secretary commits an offence and is liable on conviction to a fine not exceeding $40,000 who, without reasonable excuse,—
@@ -4600,24 +4648,65 @@ If a party secretary considers that there is no relevant information to disclose
 (2) During the public inspection period, the Electoral Commission must make available for public inspection a copy of every return and report referred to in subsection (1).
 (3) The Electoral Commission may make inspection under subsection (2) subject to the payment of any charges that may be made under the Official Information Act 1982.
 
+### Subpart 7 — Annual financial statements of parties
+
+### 210G Annual financial statements to be provided to Electoral Commission
+(1) The secretary of a party that is an incorporated society must provide a copy of the party’s annual financial statements to the Electoral Commission—
+  (a) on the same date as the date on which the party’s annual financial statements are given to the Registrar of Incorporated Societies; but
+  (b) in any event, not later than 6 months after the party’s balance date.
+(2) The secretary of a party that is not an incorporated society, but that has a constitution requiring the preparation of annual financial statements for the party, must provide a copy of the party’s annual financial statements to the Electoral Commission within 6 months after the party’s balance date.
+(3) The secretary of a party that is not an incorporated society and does not have a constitution requiring the preparation of annual financial statements for the party must provide to the Electoral Commission each year, within 6 months after the most recent default balance date, annual financial statements for the previous 12-month period ending on that default balance date (the previous 12-month period) prepared in accordance with generally accepted accounting practice and containing the following information:
+  (a) details of the income and expenditure, or receipts and payments, of the party during the previous 12-month period; and
+  (b) details of the assets and liabilities of the party at the close of the previous 12-month period; and
+  (c) details of all mortgages, charges, and other security interests of any description affecting any of the property of the party at the close of the previous 12-month period.
+(4) No annual financial statements that are in respect of any period before 1 January 2023 are required to be provided to the Electoral Commission under this section.
+(5) In this section,—
+  - **default balance date** means 31 March in any year
+  - **generally accepted accounting practice** has the same meaning as in section 8 of the Financial Reporting Act 2013
+  - **incorporated society** means an incorporated society registered under the Incorporated Societies Act 1908 or the Incorporated Societies Act 2022.
+
+### 210H Auditor’s report on annual financial statements
+(1) This section applies if an auditor’s report is required to be obtained on a party’s annual financial statements by—
+  (a) any enactment; or
+  (b) the party’s constitution.
+(2) When providing a copy of the party’s annual financial statements to the Electoral Commission in accordance with section 210G the party secretary must also provide to the Electoral Commission a copy of the auditor’s report obtained on the statements.
+
+### 210I Publication of annual financial statements
+The Electoral Commission may publish, in any manner that the Electoral Commission considers appropriate, annual financial statements received under section 210G.
+
+### 210J Offences relating to annual financial statements
+(1) A party secretary commits an offence and is liable on conviction to a fine not exceeding $40,000 if the party secretary, without reasonable excuse, provides the Electoral Commission with annual financial statements for the party during the late period.
+(2) A party secretary is guilty of a corrupt practice if the party secretary, without reasonable excuse,—
+  (a) provides the Electoral Commission with annual financial statements for the party after the late period; or
+  (b) fails to provide the Electoral Commission with annual financial statements for the party.
+(3) In this section, late period, in relation to providing annual financial statements, means the period commencing on the day after the date on which the statements are required to be provided to the Electoral Commission and ending on the day that is 15 working days later.
+
 ## Part 6B — Loans
 
 ### 211 Application of this Part
-This Part applies to loans entered into on behalf of parties.
+This Part applies to loans entered into by—
+  (a) a party secretary on behalf of the party:
+  (b) a candidate.
 
 ### Subpart 1 — General provisions relating to loans
 
 ### 212 Interpretation
 In this Part,—
+  - **late period** , in relation to the filing of a return, means the period commencing on the day after the date on which the return is required to be filed and ending on the day that is 15 working days later
   - **lender** , in relation to a loan, means the person providing the loan
-  - **loan** —
-    (a) means a written or an oral agreement or arrangement under which a lender lends money or agrees to lend money in the future at specified dates or on request or on the occurrence of a particular event; but
-    (b) does not include any money lent by a registered bank at a commercial interest rate
+  - **loan** ,—
+    (a) to a candidate,—
+      (i) means a written or an oral agreement or arrangement under which a lender lends money or agrees to lend money at specified dates or on request or on the occurrence of a particular event for use in the candidate’s campaign for election; but
+      (ii) does not include any money lent by a registered lender at a commercial interest rate:
+    (b) to a party,—
+      (i) means a written or an oral agreement or arrangement under which a lender lends money or agrees to lend money at specified dates or on request or on the occurrence of a particular event; but
+      (ii) does not include any money lent by a registered bank at a commercial interest rate
   - **loan amount** means—
     (a) the amount of money lent by the lender under the loan; or
     (b) where any money may be lent under the loan in the future, the maximum amount that may be owed at any one time; or
     (c) the total of the amounts in paragraphs (a) and (b), in any case where the lender has provided, and may in the future provide, money under the loan
-  - **registered bank** has the same meaning as in section 2(1) of the Banking (Prudential Supervision) Act 1989.
+  - **registered bank** has the same meaning as in section 2(1) of the Banking (Prudential Supervision) Act 1989
+  - **registered lender** means a lender who is registered as a financial service provider under the Financial Service Providers (Registration and Dispute Resolution) Act 2008.
 
 ### 213 Party secretary may enter into loan on behalf of party
 (1) A party may enter into a loan only with the authorisation of the party secretary.
@@ -4633,9 +4722,13 @@ A person is guilty of—
 ### 214A Offence to enter into arrangement to circumvent section 213, 214C, or 214F
 A person who enters into an agreement, arrangement, or understanding with any other person for the purpose of circumventing section 213, or for the purpose of circumventing the disclosure required by section 214C or 214F, is guilty of an illegal practice.
 
-### 214B Records of loans
+### 214B Records of loans: parties
 (1) A party secretary must keep proper records of all loans entered into on behalf of the party.
 (2) A party secretary who fails, without reasonable excuse, to comply with subsection (1) commits an offence and is liable on conviction to a fine not exceeding $40,000.
+
+### 214BA Records of loans: candidates
+(1) A candidate must keep proper records of all loans they enter into.
+(2) A candidate who fails, without reasonable excuse, to comply with subsection (1) commits an offence and is liable on conviction to a fine not exceeding $40,000.
 
 ### 214BA Periods for claiming and paying expenses
 [Repealed]
@@ -4651,13 +4744,13 @@ A person who enters into an agreement, arrangement, or understanding with any ot
 
 ### Subpart 2 — Disclosure of loans
 
-### 214C Annual return of loans
-(1) A party secretary must file with the Electoral Commission, for each year, a return setting out—
+### 214C Annual return of party loans
+(1) A party secretary must file with the Electoral Commission, for each year, a return of party loans setting out—
   (a) the details specified in subsection (2) in respect of—
     (i) every loan entered into during the year that has a loan amount exceeding $15,000; and
     (ii) every loan entered into in any previous year that—
       (A) has a loan amount exceeding $15,000; and
-      (B) at the close of 31 December of the year for which the return is filed, has an unpaid balance exceeding $15,000; and
+      (B) at the close of 31 December of the year for which the return of party loans is filed, has an unpaid balance exceeding $15,000; and
   (b) the details specified in subsection (3) in respect of every loan entered into during the year that has a loan amount not exceeding $15,000, but which exceeds $15,000 when aggregated with—
     (i) the loan amounts of all other loans provided by the same lender during the year; or
     (ii) the unpaid balances of any loans provided by the same lender during any previous year; and
@@ -4679,34 +4772,35 @@ A person who enters into an agreement, arrangement, or understanding with any ot
 (4) The details referred to in subsection (1)﻿(c) are—
   (a) the number of loans; and
   (b) the total of the aggregated loan amounts.
-(5) A return must—
+(5) A return of party loans must—
   (a) be filed by 30 April of the following year; and
   (b) be in a form required by the Electoral Commission; and
   (c) be accompanied by an auditor's report obtained under section 214D.
 (6) In this section, year means the period of 12 months starting on 1 January and ending with the close of 31 December.
 (7) Despite anything in subsection (1), if a party secretary is required to file under that subsection a return of party loans that relates to the year in which the party became registered, that return is to relate to the period beginning with the date of registration of the party and ending with 31 December of that year.
 
-### 214D Auditor's report on annual return of loans
-(1) A party secretary must, before the Electoral Commission receives the return required by section 214C, obtain from the auditor appointed under section 206J a report on the return.
-(2) The auditor must state in the report whether, in the auditor's opinion, the return fairly reflects the loans entered into by the party.
+### 214D Auditor’s report on annual return of party loans
+(1) This section applies to a return of party loans required to be filed under section 214C, except for a nil return filed under section 214E.
+(1A) A party secretary must obtain a report on the return of party loans from the auditor appointed under section 206J.
+(2) The auditor must state in the report whether, in the auditor's opinion, the return of party loans fairly reflects the loans entered into by the party.
 (3) The auditor must make any examinations that the auditor considers necessary.
 (4) The auditor must specify in the report any case in which—
-  (a) the return does not, in the auditor's opinion, fairly reflect the loans entered into by or on behalf of the party:
+  (a) the return of party loans does not, in the auditor's opinion, fairly reflect the loans entered into by or on behalf of the party:
   (b) the auditor has not received from the party secretary all the information that the auditor requires to carry out his or her duties:
   (c) proper records of loans entered into by or on behalf of the party have not, in the auditor's opinion, been kept by the party secretary.
 (5) The auditor—
   (a) must have access at all reasonable times to all records, documents, and accounts that relate to the loans entered into by or on behalf of the party and that are held by the party or the party secretary; and
   (b) may require the party secretary to provide any information and explanation that, in the auditor's opinion, may be necessary to enable the auditor to prepare the report.
 
-### 214E Nil return
-If a party secretary considers that there is no relevant information to disclose under section 214C, the party secretary must file a nil return under that section.
+### 214E Nil return: parties
+If a party secretary considers that there is no relevant information to disclose under section 214C, the party secretary must file a nil return of party loans under that section.
 
-### 214F Return of loan provided by same lender exceeding $30,000
-(1) A party secretary must file with the Electoral Commission a return in respect of every loan entered into that has a loan amount exceeding $30,000.
-(2) A party secretary must file with the Electoral Commission a return in respect of every loan entered into—
+### 214F Return of party loan provided by same lender exceeding $30,000
+(1) A party secretary must file with the Electoral Commission a return in respect of every loan entered into on behalf of the party that has a loan amount exceeding $30,000.
+(2) A party secretary must file with the Electoral Commission a return in respect of every loan entered into on behalf of the party—
   (a) that is provided by a lender who, in the 12 months immediately preceding the date on which the loan was entered into (the last 12 months), has provided 1 or more other loans to the party (previous loans); and
   (b) that exceeds $30,000 when the amount of the loan is aggregated with the loan amounts of all the previous loans.
-(3) If a return is made under subsection (2), the loans disclosed in that return must be disregarded when applying this section in relation to a loan that is entered into by the party after that return is filed.
+(3) If a return is made under subsection (2), the loans disclosed in that return must be disregarded when applying this section in relation to a loan that is entered into on behalf of the party after that return is filed.
 (4) A return filed under subsection (1) must be in the form required by the Electoral Commission and must set out—
   (a) the name of the lender; and
   (b) the address of the lender; and
@@ -4740,21 +4834,54 @@ If a party secretary considers that there is no relevant information to disclose
     (i) he or she had no intention to misstate or conceal the facts; and
     (ii) he or she took all reasonable steps in the circumstances to ensure that the information in the return was accurate.
 (4) A party secretary charged with an offence against subsection (3)﻿(a) may be convicted of an offence against subsection (3)﻿(b).
-(5) In this section, late period, in relation to the filing of a return, means the period commencing on the day after the date on which the return is required to be filed and ending on the day that is 15 working days later.
+(5)
+
+### 214GA Return of candidate loans
+(1) A candidate must, at the same time as filing a return of election expenses (under section 205K) and a return of donations (under section 209), file with the Electoral Commission a return setting out the details specified in subsection (2) in respect of every loan entered into.
+(2) The details referred to in subsection (1) are—
+  (a) the name of the lender; and
+  (b) the address of the lender; and
+  (c) the loan amount; and
+  (d) the date on which the loan was entered into; and
+  (e) the repayment date for the loan, or a statement that there is no repayment date; and
+  (f) the interest rate or rates; and
+  (g) the unpaid balance of the loan amount, if any; and
+  (h) the name and address of any guarantor of the loan; and
+  (i) the details of any security given for the loan; and
+  (j) whether there is any term of the loan agreement or arrangement that enables the lender to reduce or extinguish the loan amount or interest, or both, or grant any concession in respect of repayment of that amount or interest, or both.
+(3) A return must be in the form required by the Electoral Commission.
+
+### 214GB Nil return: candidates
+If a candidate considers that there is no relevant information to disclose under section 214GA, the candidate must file a nil return of candidate loans under that section.
+
+### 214GC Offences relating to return of candidate loans
+(1) A candidate commits an offence and is liable on conviction to a fine not exceeding $40,000 who, without reasonable excuse, files a return of candidate loans under section 214GA during the late period.
+(2) A candidate is guilty of a corrupt practice if the candidate, without reasonable excuse,—
+  (a) files a return of candidate loans under section 214GA after the late period; or
+  (b) fails to file a return of candidate loans under section 214GA.
+(3) A candidate who files a return of candidate loans under section 214GA that is false in any material particular is guilty of—
+  (a) a corrupt practice if the candidate filed the return knowing it to be false in any material particular; or
+  (b) an illegal practice in any other case unless the candidate proves that—
+    (i) the candidate had no intention to misstate or conceal the facts; and
+    (ii) the candidate took all reasonable steps in the circumstances to ensure that the information in the return was accurate.
+(4) A candidate charged with an offence against subsection (3)﻿(a) may be convicted of an offence against subsection (3)﻿(b).
 
 ### 214H Duty of Electoral Commission
 (1) If the Electoral Commission believes that any person has committed an offence specified in this Part, the Electoral Commission must report the facts on which that belief is based to the New Zealand Police.
 (2) Subsection (1) does not apply if the Electoral Commission considers that the offence is so inconsequential that there is no public interest in reporting those facts to the New Zealand Police.
 
-### 214I Obligation to retain records necessary to verify return of party loans
+### 214I Obligation to retain records necessary to verify return of loans
 (1) A party secretary must take all reasonable steps to ensure that all records, documents, and accounts that are reasonably necessary to enable returns under sections 214C and 214F to be verified are retained until the expiry of the period within which a prosecution may be commenced under this Act in relation to the returns or in relation to any matter to which the returns relate.
 (2) A party secretary who fails, without reasonable excuse, to comply with subsection (1) commits an offence and is liable on conviction to a fine not exceeding $40,000.
+(3) A candidate must take all reasonable steps to ensure that all records, documents, and accounts that are reasonably necessary to enable returns filed under section 214GA to be verified are retained until the expiry of the period within which a prosecution may be commenced under this Act in relation to the returns or in relation to any matter to which the returns relate.
+(4) A candidate who fails, without reasonable excuse, to comply with subsection (3) commits an offence and is liable on conviction to a fine not exceeding $40,000.
 
-### 214J Return of party loans to be publicly available
+### 214J Returns of loans to be publicly available
 (1) The Electoral Commission may publish, in any manner that the Electoral Commission considers appropriate, the following returns and reports:
   (a) a return filed under section 214C; and
   (b) a report obtained under section 214D accompanying a return referred to in paragraph (a); and
-  (c) a return filed under section 214F.
+  (c) a return filed under section 214F; and
+  (d) a return filed under section 214GA.
 (2) During the public inspection period, the Electoral Commission must make available for public inspection a copy of every return and report referred to in subsection (1).
 (3) The Electoral Commission may make inspection under subsection (2) subject to the payment of any charges that may be made under the Official Information Act 1982.
 
@@ -4841,6 +4968,11 @@ Where any person knowingly provides money for any purpose which is contrary to t
 (1) During the period beginning 9 weeks before polling day and ending with the close of the day before polling day, the display of an advertisement of a specified kind is not subject to—
   (a) any prohibition or restriction imposed in any other enactment or bylaw, or imposed by any local authority, that applies in relation to the period when an advertisement of a specified kind may be displayed; or
   (b) any prohibition or restriction imposed in any bylaw, or imposed by any local authority, that applies in relation to the content or language used in an advertisement of a specified kind.
+(1A) Despite subsection (1), if at any time after the 9-week period referred to in that subsection commences the date that is to be polling day (date A) is changed to a later date (date B),—
+  (a) the period that began 9 weeks before date A ends at the close of 7 days after the date on which public notice is given of date B by the issue of a media statement; and
+  (b) an additional period applies for the purposes of subsection (1) in respect of the later polling day that is the shorter of the following periods; and
+    (i) the period beginning 9 weeks before polling day and ending with the close of the day before polling day; and
+    (ii) the period beginning on the day after the day on which the period in paragraph (a) closes and ending with the close of the day before polling day.
 (2) In this section, advertisement of a specified kind means an advertisement displayed in a public place or on private property that does not exceed 3 square metres in size and that—
   (a) encourages or persuades, or appears to encourage or persuade, voters to vote for a party registered under Part 4; or
   (b) is used, or appears to be used, to promote or procure the election of a candidate; but
@@ -5382,6 +5514,14 @@ In this Part,—
 
 ### 4 Prison manager to assist specified prisoners to register as electors
 A prison manager must, as soon as is reasonably practicable after the commencement of the Act, comply with sections 86A and 86B in respect of a specified prisoner as if the specified prisoner were a prisoner referred to in section 86A being received into the prison.
+
+### Part 3 — Provisions relating to Electoral Amendment Act 2022
+
+### 5 Transitional provision relating to annual return of party donations for year ending 31 December 2022
+Despite sections 6 and 7 of the Electoral Amendment Act 2022, sections 210 and 210A as in force immediately before 1 January 2023 continue to apply in respect of an annual return of party donations required to be filed by a party secretary with the Electoral Commission for the year ending on 31 December 2022.
+
+### 6 Transitional provision relating to party donations received from same donor over $30,000
+Despite section 8 of the Electoral Amendment Act 2022, section 210C as in force immediately before 1 January 2023 continues to apply on and after that date in respect of all party donations received before the close of 31 December 2022.
 
 ## Schedule 1 — Provisions relating to Electoral Commission
 
