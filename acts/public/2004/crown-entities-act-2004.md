@@ -1,5 +1,5 @@
 # Crown Entities Act 2004
-_Consolidation as at 2022-11-30_
+_Consolidation as at 2023-01-01_
 
 ### 1 Title
 This Act is the Crown Entities Act 2004.
@@ -1870,7 +1870,7 @@ Subpart 3 of Part 2 does not apply to any company that is a Crown entity subsidi
 (1) The reporting requirements and provisions that would have applied if this Act and the Public Finance Amendment Act 2004 had not been enacted continue to apply in respect of each financial year that ends before 1 July 2006 to a Crown entity, rather than the reporting requirements and provisions enacted by this Act.
 (2) Therefore, for example, the Crown entity must comply, in respect of those financial years, with the requirements relating to annual financial statements, annual reports, and audits that were in the Public Finance Act 1989 or the entity's Act, as the case may be, immediately before the commencement of this section.
 (3) Despite subsections (1) and (2),—
-  (a) section 87(2)﻿(ca)﻿(iv) and (v) of the Education Act 1989 applies in respect of each financial year that ends on or after 31 December 2004; and
+  (a) section 134(2)﻿(d)﻿(iv) and (v) of the Education and Training Act 2020 applies in respect of each financial year that ends on or after 31 December 2004; and
   (b) section 152 applies in respect of the financial year commencing on 1 July 2005 and each subsequent financial year.
 (4) In this section, Crown entity includes any entity that is required by any other Act to report as though it were a Crown entity.
 
@@ -2041,13 +2041,13 @@ New sections 150(3), (5), and (6) and 151(1)﻿(f), as inserted on the commencem
 | Section 135 | Officials for the purposes of sections of the Crimes Act 1961 |
 | Section 136 | Interpretation for Part 4 |
 | Section 137 | Application of subpart 2 of Part 4 |
-| Section 155, with the variation specified in section 87(4) of the Education Act 1989 | Statement of responsibility for financial statements |
+| Section 155, with the variation specified in section 134(5) of the Education and Training Act 2020 | Statement of responsibility for financial statements |
 | Section 157 | Variation of reporting requirements of multi-parent subsidiaries |
 | Section 158 | Bank accounts |
 | Section 159 | Application of acquisition of financial products, borrowing, guarantees, indemnities, and derivatives rules |
 | Sections 160 to 164 | Restrictions on acquisition of financial products, borrowing, guarantees, indemnities, and derivatives |
 | Section 167 | Gifts |
-| Section 168(1) and (2), except that the reference to section 154 must be read as a reference to section 87(3) of the Education Act 1989 | Accounting records |
+| Section 168(1) and (2), except that the reference to section 154 must be read as a reference to section 134(3) of the Education and Training Act 2020 | Accounting records |
 | Section 173 | Regulations |
 | Section 176 | Application of provisions of the Public Finance Act 1989 |
 | Section 178 | Application of Archives Act 1957 |
