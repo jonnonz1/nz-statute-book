@@ -1,5 +1,5 @@
 # Forests Act 1949
-_Consolidation as at 2022-09-01_
+_Consolidation as at 2023-01-01_
 
 > An Act to consolidate and amend the law relating to forestry
 
@@ -1102,7 +1102,8 @@ The purpose of this Part is to promote the sustainable forest management of indi
   (g) any indigenous timber—
     (i) from a planted indigenous forest, if that timber is, or is from, a shrub, bush, seedling, or sapling; or
     (ii) other than indigenous timber to which subparagraph (i) applies, if the Secretary has stated in writing that he or she is satisfied that the timber has been harvested from a planted indigenous forest; or
-    (iii) harvested from a forest subject to a forest sink covenant established in accordance with Part 3B.
+    (iii) harvested from a forest subject to a forest sink covenant established in accordance with Part 3B; or
+    (iv) harvested from a forest on land in respect of which a person is registered as a participant in permanent forestry under the Climate Change Response Act 2002.
 (2) Before giving approval under subsection (1)﻿(f)﻿(ii), the Secretary must be satisfied that the area concerned can continue to supply an annual or periodic non-diminishing yield of tree fern trunks in perpetuity.
 (3) No indigenous timber (other than personal effects and any finished or manufactured indigenous timber products) may be exported from New Zealand—
   (a) unless—
@@ -1125,6 +1126,7 @@ The purpose of this Part is to promote the sustainable forest management of indi
       (B) land held, managed, or administered by the Crown under the Conservation Act 1987 or any Act listed in Schedule 1 of that Act; or
       (C) a planted indigenous forest; or
       (D) a forest subject to a forest sink covenant established in accordance with Part 3B; or
+      (E) a forest on land in respect of which a person is registered as a participant in permanent forestry under the Climate Change Response Act 2002; or
     (ii) the timber has been or will be felled—
       (A) for a public work as defined in the Public Works Act 1981; or
       (B) with the approval of the owner, for a mining operation; or
