@@ -1,5 +1,5 @@
 # Climate Change Response Act 2002
-_Consolidation as at 2022-11-29_
+_Consolidation as at 2023-01-01_
 
 ### 1 Title
 This Act is the Climate Change Response Act 2002.
@@ -134,7 +134,7 @@ In order to recognise and respect the Crown’s responsibility to give effect to
     (vi) section 30M (infringement offences):
     (via) section 30W(1)﻿(a) (price of carbon):
     (vii) section 60 (exemptions in respect of activities listed in Schedule 3):
-    (viii) section 60A (exemptions for participants in activity listed in Part 1 of Schedule 4):
+    (viii) section 60A (exemptions for participants in standard forestry or permanent forestry):
     (ix) section 84A or 84B (phase-out rates for eligible industrial activities):
     (x) section 161D(1)﻿(a) (notice specifying description of activity in relation to industrial allocations), unless the only purpose of the notice is to require persons to provide electricity-related contracts or any information related to those contracts:
     (xi) section 161G (eligible agricultural activities):
@@ -142,8 +142,13 @@ In order to recognise and respect the Crown’s responsibility to give effect to
     (xiii) section 163 (methodologies and verifiers):
     (xiv) section 164 (unique emissions factors):
     (xv) section 168(1)﻿(nb) (New Zealand’s best practice forest management):
-    (xvi) section 186F (pre-1990 offsetting forest land):
-    (xvii) section 194C (input returns):
+    (xva) section 180G (exemptions for deforestation of land with tree weeds):
+    (xvi) section 181W (P90 offsetting):
+    (xvia) section 190F (pecuniary penalty for clear-felling):
+    (xvib) section 191I (averaging):
+    (xvic) section 192U (P89 offsetting):
+    (xvid) section 193R (temporary adverse event suspensions):
+    (xvii) section 194B (input returns):
     (xviii) section 196F (forestry classifications):
     (xix) section 244 (exemptions from payment of synthetic greenhouse gas levy):
     (xx) section 246(1)﻿(a) to (e) (synthetic greenhouse gas levy):
@@ -169,7 +174,7 @@ In order to recognise and respect the Crown’s responsibility to give effect to
   (e) section 30M (infringement offences):
   (ea) section 30W(1)﻿(a) (price of carbon):
   (f) section 60 (exemptions in respect of activities listed in Schedule 3), unless the Crown has signed a negotiated greenhouse agreement with the person exempted:
-  (g) section 60A (exemptions for participants in activity listed in Part 1 of Schedule 4):
+  (g) section 60A (exemptions for participants in standard forestry or permanent forestry):
   (h) section 84A or 84B (phase-out rates for eligible industrial activities):
   (i) section 161D(1)﻿(a) (notice specifying description of activity in relation to industrial allocations), unless the only purpose of the notice is—
     (i) to require persons to provide electricity-related contracts or any information related to those contracts; or
@@ -179,8 +184,13 @@ In order to recognise and respect the Crown’s responsibility to give effect to
   (l) section 163 (methodologies and verifiers):
   (m) section 164 (unique emissions factors):
   (n) section 168(1)﻿(nb) (New Zealand’s best practice forest management):
-  (o) section 186F (pre-1990 offsetting forest land):
-  (p) section 194C (input returns):
+  (na) section 180G (exemptions for deforestation of land with tree weeds):
+  (o) section 181W (P90 offsetting):
+  (oa) section 190F (pecuniary penalty for clear-felling):
+  (ob) section 191I (averaging):
+  (oc) section 192U (P89 offsetting):
+  (od) section 193R (temporary adverse event suspensions):
+  (p) section 194B (input returns):
   (q) section 196F (forestry classifications):
   (r) section 216 (voluntary reporting or surrender for animals–farmer or fertiliser–farmer activity):
   (s)
@@ -223,22 +233,33 @@ In order to recognise and respect the Crown’s responsibility to give effect to
   - **auction** means an auction to sell New Zealand units under section 6A
   - **biogenic methane** means all methane greenhouse gases produced from the agriculture and waste sectors (as reported in the New Zealand Greenhouse Gas Inventory)
   - **cancel** , in relation to a unit, means the transfer of the unit to a cancellation account in the Registry with the effect specified in section 18CA(1)
-  - **carbon accounting area** means an area of post-1989 forest land that—
-    (a) is defined by a person who is registered or has applied to register as a participant under section 57 in relation to an activity listed in Part 1 of Schedule 4; and
-    (b) meets any relevant criteria specified in regulations made under this Act; or
-    (c) is constituted as a carbon accounting area by operation of section 188(7)﻿(b) or 192(3)﻿(b)
+  - **carbon accounting area** means an area of post-1989 forest land—
+    (a) that—
+      (i) is defined by a person who is registered, or has applied to register, as a participant under section 57 in relation to an activity of standard forestry or permanent forestry; and
+      (ii) meets any relevant criteria specified in regulations made under this Act; or
+    (b) that is constituted as a carbon accounting area by a provision of this Act
+  - **carbon accounting area (averaging)** has the meaning given in section 191B(2)
   - **carbon dioxide equivalent** , in relation to a greenhouse gas, means the amount of carbon dioxide (in tonnes) that would produce the same global warming as the amount of that gas, calculated in accordance with international climate change obligations
-  - **carbon equivalence** , in relation to land that is the subject of an offsetting forest land application under section 186A, means that the offsetting forest land achieves, within the usual rotation period for forest species on the pre-1990 forest land, the same carbon stock as was contained in the pre-1990 forest land at the time of the clearing as determined in accordance with regulations made under section 186F
   - **chief executive** means the chief executive of the department that is, with the authority of the Prime Minister, responsible for the administration of this Act
-  - **clear** , in relation to a tree,—
-    (a) includes—
-      (i) felling, harvesting, burning, removing by mechanical means, spraying with a herbicide intended to kill the tree, or undertaking any other form of human activity that kills the tree; and
-      (ii) felling, burning, killing, uprooting, or destroying by a natural cause or event; but
-    (b) does not include pruning or thinning
+  - **clear** ,—
+    (a) in relation to a tree,—
+      (i) includes—
+        (A) felling, harvesting, burning, removing by mechanical means, spraying with a herbicide intended to kill the tree, or undertaking any other form of human activity that kills the tree; and
+        (B) felling, burning, killing, uprooting, or destroying by a natural cause or event; but
+      (ii) does not include pruning or thinning; and
+    (b) in relation to land, means to clear (as defined in paragraph (a)) the forest species that are on the land
+  - **clear-felled** , in relation to an area of land, means an area—
+    (a) of at least 1 hectare; and
+    (b) on which any trees are cleared or killed by any form of human activity, including by felling, harvesting, burning, removing by mechanical means, or spraying with a herbicide intended to kill the tree; and
+    (c) that, after that type of clearing or killing, has tree crown cover from forest species of 30% or less in each hectare
   - **Climate Change Commission** and mean the Climate Change Commission established under section 5A
   - **coal** has the same meaning as in section 2(1) of the Crown Minerals Act 1991
   - **Conference of the Parties** means the Conference of the Parties to the Convention
   - **consolidated group** means a consolidated group formed under section 150
+  - **constitution date** , in relation to a carbon accounting area, means,—
+    (a) for a carbon accounting area that is defined in an application referred to in section 182C(1), the date the applicant’s registration takes effect under section 57(8); or
+    (b) for a carbon accounting area that a participant applies to add under section 182C(3), the date of the notice given under section 182C(6)﻿(b)﻿(ii); or
+    (c) for any other carbon accounting area, the date on which a person becomes a participant in an activity in the carbon accounting area under a provision of Part 5
   - **Convention** —
     (a) means the United Nations Framework Convention on Climate Change done at New York on 9 May 1992, a copy of the English text of which is set out in Schedule 1; and
     (b) includes any amendments made to the Convention that are, or will become, binding on New Zealand from time to time
@@ -249,7 +270,7 @@ In order to recognise and respect the Crown’s responsibility to give effect to
   - **Crown land** has the same meaning as in section 2(1) of the Crown Minerals Act 1991
   - **dairy processing** , in relation to milk or colostrum, means the first occasion, other than at a farm dairy, on which the milk or colostrum is made subject to heat treatment, freezing, separation, concentration, filtering, blending, extraction of milk components, and the addition of other material, including (but not limited to) food, ingredients, additives, or processing aids as defined in the Food Standards Code
   - **deforest** , in relation to forest land,—
-    (a) means to convert forest land to land that is not forest land (see section 181, for example); and
+    (a) means to convert forest land to land that is not forest land (see section 180A, for example); and
     (b) includes deforestation after forest land is cleared, where section 179 applies
   - **disposal facility** means any facility, including a landfill,—
     (a) at which waste is disposed; and
@@ -305,13 +326,14 @@ In order to recognise and respect the Crown’s responsibility to give effect to
   - **ETS participant provisions** means Parts 4 to 5D of this Act
   - **exempt land** —
     (a) means pre-1990 forest land that has been declared to be exempt land—
-      (i) under section 183 or 183B; or
-      (ii) under section 184 and in respect of which the conditions in section 184(6) have been met; but
-    (b) does not include any forest land that met the definition in paragraph (a), but has been deforested, and in respect of which the number of units that would have been required to be surrendered in relation to an activity listed in Part 1 of Schedule 3, had the land not been exempt land, have been surrendered under section 187(2)
+      (i) under section 180B or 180D; or
+      (ii) under section 180E, as long as the EPA has not declared otherwise (because a requirement or condition has been breached); but
+    (b) does not include any forest land that met the definition in paragraph (a), but has been deforested, and in respect of which the number of units that would have been required to be surrendered in relation to an activity listed in Part 1 of Schedule 3, had the land not been exempt land, have been surrendered under section 182A(2)
   - **exotic forest species** means a forest species that is not an indigenous forest species
   - **export** has a corresponding meaning to exportation in section 5(1) of the Customs and Excise Act 2018
   - **farm dairy** has the same meaning as in section 4(1) of the Animal Products Act 1999
   - **financial year** has the same meaning as in section 2(1) of the Public Finance Act 1989
+  - **first rotation forest** has the meaning given in section 191C(3) and (4)
   - **Food Standards Code** has the same meaning as in section 4(1) of the Animal Products Act 1999
   - **forest land** —
     (a) means an area of land of at least 1 hectare that has, or is likely to have, tree crown cover from forest species of more than 30% in each hectare; and
@@ -319,10 +341,11 @@ In order to recognise and respect the Crown’s responsibility to give effect to
     (c) does not include—
       (i) a shelter belt of forest species, where the tree crown cover has, or is likely to have, an average width of less than 30 metres; or
       (ii) an area of land where the forest species have, or are likely to have, a tree crown cover of an average width of less than 30 metres, unless the area is contiguous with land that meets the requirements specified in paragraph (a) or (b)
+  - **forest sink covenant** means a forest sink covenant that is or was registered against land under section 67ZD of the Forests Act 1949
   - **forest species** means a tree species capable of reaching at least 5 metres in height at maturity in the place where it is located, but does not include tree species grown or managed primarily for the production of fruit or nut crops
   - **forestry activity** means—
-    (a) an activity listed in Part 1 or 1A of Schedule 3 (deforesting certain pre-1990 forest land or pre-1990 offsetting forest land); or
-    (b) an activity listed in Part 1 of Schedule 4 (forestry on post-1989 forest land)
+    (a) an activity listed in Part 1 or 1A of Schedule 3 (deforesting certain pre-1990 forest land or P90 offsetting land); or
+    (b) an activity listed in Part 1 or 1A of Schedule 4 (standard forestry or permanent forestry on post-1989 forest land)
   - **forestry classification** has the meaning given in section 196
   - **fugitive coal seam gas** means gas released by the activity of mining coal as calculated in accordance with any regulations made under this Act
   - **general cancellation account** means an account in the Registry for the purpose of holding units on behalf of the Crown that are cancelled for any reason
@@ -392,7 +415,6 @@ In order to recognise and respect the Crown’s responsibility to give effect to
   - **nominated entity** , in relation to a consolidated group, means an entity appointed under section 150(4)﻿(b) or 152(3)﻿(b) as the nominated entity of a consolidated group
   - **obligation fuel** means any fuel specified as obligation fuel in regulations made under this Act
   - **obligation jet fuel** means any jet fuel specified as obligation jet fuel in regulations made under this Act
-  - **offsetting forest land** means land that the EPA has approved as offsetting forest land under section 186B
   - **offshore mitigation** means emissions reductions and removals, or allowances from emissions trading schemes,—
     (a) that originate from outside New Zealand; and
     (b) that are expressed as a quantity of carbon dioxide equivalent; and
@@ -408,6 +430,7 @@ In order to recognise and respect the Crown’s responsibility to give effect to
     (b) includes any amendments made to the Paris Agreement that are, or will become, binding on New Zealand from time to time
   - **participant** means a person who is a participant under section 54
   - **performance** , in relation to ruminants and other farmed livestock, means the production statistics with respect to those animals, including, but not limited to, weight, milk production, lambing and calving percentage, and wool weight
+  - **permanent forestry** has the meaning given in section 182
   - **post-1989 forest land** means forest land that—
     (a) is one of the following:
       (i) land that was not forest land on 31 December 1989:
@@ -415,23 +438,27 @@ In order to recognise and respect the Crown’s responsibility to give effect to
       (iii) land that was pre-1990 forest land, other than exempt land,—
         (A) that was deforested on or after 1 January 2008; and
         (B) in respect of which any liability to surrender units arising in relation to an activity listed in Part 1 of Schedule 3 has been satisfied:
-      (iv) land that was pre-1990 forest land, other than exempt land, that was deforested on or after 1 January 2013 and offset by pre-1990 offsetting forest land:
-      (v) land that was pre-1990 offsetting forest land that was deforested after 1 January 2013 and in respect of which any liability to surrender units arising in relation to an activity listed in Part 1A of Schedule 3 has been satisfied:
+      (iv) land—but only if that liability has been satisfied:
+        (A) that was pre-1990 forest land that was the subject of a P90 offset application; and
+        (B) that ceased to be forest land while section 179A(1)﻿(b) applied to it (so it could not be treated as deforested); and
+        (C) in respect of which a liability to surrender units arose under section 181D (because the P90 offset application was declined) or section 181N(3) (because the land became area 1 (not offset) land),—
+      (v) land that was P90 offsetting land that was deforested after 1 January 2013 and in respect of which any liability to surrender units arising in relation to an activity listed in Part 1A of Schedule 3 has been satisfied:
       (vi) land that was exempt land—
         (A) that has been deforested; and
-        (B) in respect of which the number of units that would have been required to be surrendered in relation to an activity listed in Part 1 of Schedule 3, had the land not been exempt land, have been surrendered under section 187(2):
+        (B) in respect of which the number of units that would have been required to be surrendered in relation to an activity listed in Part 1 of Schedule 3, had the land not been exempt land, have been surrendered under section 182A(2):
       (vii) land that was exempt land that has been deforested more than 8 years ago; and
-    (b) is not offsetting forest land or pre-1990 offsetting forest land
-  - **pre-1990 forest land** —
-    (a) means forest land—
-      (i) that was forest land on 31 December 1989; and
-      (ii) that remained as forest land on 31 December 2007 (taking into account subsection (5)); and
-      (iii) where the forest species on the forest land on 31 December 2007 consisted predominantly of exotic forest species; but
-    (b) does not include any forest land that met the definition in paragraph (a), but—
-      (i) has been deforested and in respect of which any liability to surrender units arising in respect of an activity listed in Part 1 of Schedule 3 has been satisfied; or
-      (ii) was declared to be exempt land, has been deforested, and the number of units that would have been required to be surrendered in respect of an activity listed in Part 1 of Schedule 3 had the land not been exempt land have been surrendered under section 187(2)﻿(b)
+    (b) is not area 1 (approved) land (as defined in section 181) or P90 offsetting land
+  - **pre-1990 forest land** means forest land that—
+    (a) is either of the following:
+      (i) land—
+        (A) that was forest land on 31 December 1989; and
+        (B) that remained as forest land on 31 December 2007 (taking into account subsection (5)); and
+        (C) where the forest species on the forest land on 31 December 2007 consisted predominantly of exotic forest species; or
+      (ii) land that has become pre-1990 forest land under section 181T; and
+    (b) is not either of the following:
+      (i) land that has been deforested and in respect of which any liability to surrender units arising in respect of an activity listed in Part 1 of Schedule 3 has been satisfied; or
+      (ii) land that was declared to be exempt land and has been deforested, and in respect of which the number of units that would have been required to be surrendered in respect of an activity listed in Part 1 of Schedule 3, had the land not been exempt land, have been surrendered under section 182A(2)﻿(b)
   - **pre-1990 forest land allocation plan** means the allocation plan issued under section 70 in respect of pre-1990 forest land
-  - **pre-1990 offsetting forest land** means offsetting forest land that the EPA has noted as pre-1990 offsetting forest land on the register under section 186D(3)
   - **primary representative** means an individual appointed by an account holder as a primary representative of the account holder in accordance with any regulations made under Part 2
   - **production land** means any land used for the production of primary products (including agricultural, pastoral, horticultural, and forestry products); but does not include any buildings
   - **Protocol** —
@@ -454,7 +481,9 @@ In order to recognise and respect the Crown’s responsibility to give effect to
   - **Registrar** means the person appointed under section 11
   - **Registrar of Motor Vehicles** has the same meaning as Registrar in section 233(1) of the Land Transport Act 1998
   - **Registry** means the Registry established in New Zealand for the purpose set out in section 10
-  - **removal activity** means an activity that is listed in Part 1 or 2 of Schedule 4
+  - **removal activity** means—
+    (a) an activity of standard forestry or permanent forestry (on post-1989 forest land); or
+    (b) an activity that is listed in Part 2 of Schedule 4 (other removal activities)
   - **removals** ,—
     (a) in relation to a removal activity, means carbon dioxide equivalent greenhouse gases that are, as a result of the removal activity,—
       (i) removed from the atmosphere; or
@@ -470,14 +499,17 @@ In order to recognise and respect the Crown’s responsibility to give effect to
     (b) an elected activity under Article 3.4 of the Protocol
   - **solid biofuel** means wood, wood waste, sulphate lyes, or charcoal
   - **specified synthetic greenhouse gas** means a hydrofluorocarbon or perfluorocarbon specified in regulations made under section 246(1)﻿(a)
+  - **standard forestry** has the meaning given in section 182
+  - **subsequent rotation forest** has the meaning given in section 191C(6)
   - **surrender** means the transfer of a unit to a surrender account in the Registry with the effect specified in section 18CA(2)
   - **surrender account** means an account in the Registry for the purpose of holding units that account holders have surrendered
   - **synthetic greenhouse gas** means—
     (a) a hydrofluorocarbon; or
     (b) a perfluorocarbon
   - **synthetic greenhouse gas levy** or means the levy imposed by section 227
+  - **temporary adverse event land** has the meaning given in section 193(1)
   - **the Customs** has the same meaning as Customs in section 5(1) of the Customs and Excise Act 2018
-  - **tree weed** means a tree that is defined or designated as—
+  - **tree weed** means a forest species that is defined or designated as—
     (a) a pest in a pest management strategy under the Biosecurity Act 1993; or
     (b) a tree weed in regulations made under this Act
   - **tree weed spread** means the spread of a tree weed by natural regeneration
@@ -496,7 +528,6 @@ In order to recognise and respect the Crown’s responsibility to give effect to
       (iii) holders of a registered forestry right; or
       (iv) parties to a Crown conservation contract
   - **unit** means a New Zealand unit or an approved overseas unit
-  - **usual rotation period** , in relation to a forest species on land that is the subject of an offsetting forest land application under section 186A, means the usual rotation period prescribed for a forest species in any regulations made under this Act
   - **waste** means any thing that has been disposed of or discarded—
     (a) including (but not limited to) any disposed of or discarded thing that is defined by its composition or source (for example, organic waste, electronic waste, or construction and demolition waste); but
     (b) excluding any solid biofuel combusted for the purposes of generating electricity or industrial heat
@@ -522,7 +553,7 @@ In order to recognise and respect the Crown’s responsibility to give effect to
 (7) For the purposes of the definition of landowner in relation to the activity listed in Part 1 of Schedule 3, 1 or more pieces of land (land A) and 1 or more pieces of other land (land B) that are owned by the same person are to be treated as if they were owned by different persons if—
   (a) land A and land B are held under different trusts; and
   (b) each trust has the same trustee or trustees; and
-  (c) the trustees hold land A and land B in their capacity as professional trustees (as defined in section 183(7)).
+  (c) the trustees hold land A and land B in their capacity as professional trustees (as defined in section 180B(7)).
 
 ### 4AA Greenhouse gas definition may be amended to add gases
 (1) The Governor-General may, by Order in Council made on the recommendation of the Minister,—
@@ -2078,12 +2109,12 @@ For the purpose of reporting to the Secretariat in accordance with international
 ### 54 Participants
 (1) A person is a participant,—
   (a) in respect of an activity listed in Schedule 3, if the person—
-    (i) is required under section 180, 186I, 204, or 213 to be treated as the person carrying out the activity; or
+    (i) is required under section 180, 181P, 204, or 213 to be treated as the person carrying out the activity; or
     (ii) if subparagraph (i) does not apply, carries out the activity; and
   (b) in relation to an activity listed in Schedule 4, if the person—
     (i) carries out the activity, is registered as a participant under section 57 in respect of the activity, and that registration has taken effect; or
     (ii) becomes a participant under Part 5 in respect of the activity and is not removed from the register in respect of that activity.
-(2) Any reference in the ETS participant provisions to a person or participant carrying out an activity must be read as referring to the person who is to be treated under section 180, 186I, 204, or 213 as carrying out the activity, or if those sections do not apply, to the person or participant carrying out the activity.
+(2) Any reference in the ETS participant provisions to a person or participant carrying out an activity must be read as referring to the person who is to be treated under section 180, 181P, 204, or 213 as carrying out the activity, or if those sections do not apply, to the person or participant carrying out the activity.
 (3) Subsection (1)﻿(a) is subject to any exemption under an Order in Council made under section 60.
 (4) A person who was a participant under subsection (1) continues to be a participant for the purposes of this Act in respect of any obligations (including, but not limited to, the obligation to retain records in accordance with section 67), or entitlements under section 64, arising in respect of an activity listed in Schedule 3 or 4 that the person carried out while a participant.
 (5) The EPA must ensure that the registers, or the information contained in the registers, kept for the purposes of section 56 or 57 are open for public inspection, without fee, on the EPA's Internet site and in any other form the EPA considers appropriate.
@@ -2118,9 +2149,7 @@ For the purpose of reporting to the Secretariat in accordance with international
     (ii) the activity that the person carries out; and
   (b) notify the person that the person’s name and the activity the person carries out have been entered on the register.
 (4) If the EPA receives a notice under subsection (1)﻿(a) from a person whose name is already on the register kept in accordance with subsection (3), the EPA need not re-enter the person’s name on the register, but must enter next to the person’s name the activity that is specified in the notice, and notify the person that the activity has been entered on the register next to the person's name.
-(5) To avoid doubt, a person does not carry out an activity listed in Schedule 3, and so does not have to notify the EPA under subsection (1)﻿(a), merely because they—
-  (a) deforest pre-1990 forest land that may not be treated as deforested under section 179A(1)﻿(b); or
-  (b) deforest land that has ceased to be forest land (and pre-1990 forest land) because it has been offset by pre-1990 offsetting forest land.
+(5) To avoid doubt, a person carrying out an activity on land to which section 179A applies (and which therefore may not be treated as deforested) is not carrying out an activity listed in Schedule 3, and so does not have to notify the EPA under subsection (1)﻿(a).
 
 ### 57 Applicant to be registered as participant in respect of activities listed in Schedule 4
 (1) A person who carries out an activity listed in Schedule 4, or who will do so at the time that the person’s registration takes effect, may apply to be registered as a participant in respect of the activity by application to the EPA in accordance with subsection (2).
@@ -2139,6 +2168,7 @@ For the purpose of reporting to the Secretariat in accordance with international
     (ii) will carry out the activity in the year in which the person’s registration will take effect in accordance with subsection (8); and
   (b) has met any conditions of registration in respect of the activity in the ETS participant provisions; and
   (ba) has met any eligibility criteria prescribed in relation to the activity; and
+  (bb) if the activity is standard forestry or permanent forestry, has met any obligations incurred while previously registered (if ever) in respect of an activity of standard forestry; and
   (c) has paid any prescribed fees or charges.
 (5) The EPA registers a person by entering on a register kept by the EPA for the purpose of this section—
   (a) the name of the applicant; and
@@ -2162,7 +2192,7 @@ For the purpose of reporting to the Secretariat in accordance with international
     (ii) the date on which the applicant’s name is to be removed in accordance with subsection (4); and
   (b) notify the applicant of the date on which the applicant’s name was, or is to be, removed from the register in accordance with subsection (4).
   (c)
-(4) The EPA must remove the name of an applicant under subsection (1) from the register in respect of the activity specified in the application immediately or on any later date required by section 188(7), 198(3), or 209(3).
+(4) The EPA must remove the name of an applicant under subsection (1) from the register in respect of the activity specified in the application immediately or on any later date required by section 186A, 198(3), or 209(3).
 
 ### 59 Removal from register of participants in respect of activities listed in Schedules 3 and 4
 (1) A person who is registered under section 56 or 57 in respect of an activity listed in Schedule 3 or 4 must notify the EPA as soon as practicable if the person ceases, or will cease, to carry out the activity for the remainder of the year and the whole of the following year.
@@ -2172,6 +2202,24 @@ For the purpose of reporting to the Secretariat in accordance with international
     (i) has been removed from the register in respect of the activity; or
     (ii) if the person’s name will be removed from the register in respect of the activity on a future date, that the person’s name will be removed from the register in respect of the activity on that date.
 (3) This section is subject to sections 200 and 211.
+
+### 59AA Removal from register for persistent non-compliance (standard forestry participants only)
+(1) The EPA may remove the name of a person from the register kept under section 57 in respect of an activity of standard forestry if—
+  (a) the person has not submitted an emissions return required by section 183A by 365 days after the date on which the person was required to submit the emissions return; or
+  (b) the person has not surrendered or repaid units by 365 days after the date on which the person was required to surrender or repay the units; or
+  (c) the person has not paid a penalty imposed by sections 134 to 134D by the first day that is—
+    (i) at least 90 days after the date on which the person was required to pay the penalty; and
+    (ii) at least 365 days after the date on which the person was required to surrender or repay the units or submit the emissions return to which the penalty relates.
+(2) However, the EPA may not rely on subsection (1)﻿(a) to remove the name of a person from the register if—
+  (a) the person has submitted an emissions return under section 183 within 365 days after the date on which the emissions return required by section 183A was required to be submitted; or
+  (b) the EPA has made an assessment under section 121 of the matters that should have been in the person’s emissions return, and—
+    (i) the person has surrendered any units required to be surrendered as a result of the assessment; and
+    (ii) the person has paid any penalties resulting from the failure to submit the return and from the assessment.
+(3) At least 90 days before removing the name of the person from the register, the EPA must notify the person—
+  (a) that the EPA proposes to remove the name of the person from the register; and
+  (b) of the reason for the proposed removal (for example, failure to surrender units); and
+  (c) of the actions that the person may take to prevent the removal (for example, surrender the units that the person has failed to surrender).
+(4) The EPA may still take action under this section if it is unable to notify the person of its proposal to do so because it is not reasonably practicable to locate them or their address.
 
 ### 59A Removal from register if participant never carried out activity
 (1) The EPA must remove the name of a person from the register in respect of an activity if the EPA is satisfied that the person is not carrying out the activity and has never carried out the activity.
@@ -2208,8 +2256,8 @@ For the purpose of reporting to the Secretariat in accordance with international
 (7)
 (8)
 
-### 60A Exemption for participants in activity listed in Part 1 of Schedule 4
-(1) The Governor-General may, by Order in Council made on the recommendation of the Minister, exempt any person or class of persons carrying out an activity listed in Part 1 of Schedule 4 from any provision or provisions of—
+### 60A Exemption for participants in standard forestry or permanent forestry
+(1) The Governor-General may, by Order in Council made on the recommendation of the Minister, exempt any person or class of persons carrying out standard forestry or permanent forestry from any provision or provisions of—
   (a) Part 4 or 5; or
   (b) regulations made for the purposes of Part 4 or 5.
 (2) An order under this section may—
@@ -2254,26 +2302,41 @@ For the purpose of reporting to the Secretariat in accordance with international
   (b) an eligible person.
 
 ### 62 Monitoring of emissions and removals
-A participant must, in respect of each activity listed in Schedule 3 or 4 that is carried out by the participant in a year,—
+(1) A participant must, in respect of each activity listed in Schedule 3 or 4 that is carried out by the participant in a year,—
   (a) collect the prescribed data or other prescribed information (which data or information must, if required by regulations made under this Act, be verified by a person or organisation recognised by the EPA under section 92); and
   (b) calculate the emissions and the removals from the activity in accordance with the methodologies prescribed in regulations made under this Act; and
   (c) if required by regulations made under this Act, have the calculations verified by a person or organisation recognised by the EPA under section 92; and
   (d) keep, in the prescribed format (if any), records of the data or information and calculations.
+(2) Subsection (1)﻿(b) does not apply in relation to emissions and removals that a person is not required to calculate under—
+  (a) section 191G, relating to carbon accounting areas (averaging); or
+  (b) section 193F(3), relating to temporary adverse event land.
 
 ### 63 Liability to surrender units to cover emissions
 (1) A participant is liable to surrender 1 unit for each whole tonne of emissions from each activity listed in Schedule 3 or 4 that the participant carries out,—
   (a) as calculated in accordance with this Act; and
   (b) at the times required under this Act.
+(1A) However, subsection (1) does not apply to emissions for which a participant is not liable to surrender units as a result of any of the following:
+  (a) section 179A (when forest land may not be treated as deforested):
+  (b) section 182G (certain natural events or clearance for forest management):
+  (c) sections 185A and 192L(3) (limiting liability to unit balances for carbon accounting areas):
+  (d) section 191F(2) (carbon accounting areas (averaging)):
+  (e) section 193F(1) (temporary adverse event land).
 (2) If a participant is liable to surrender units under this Act, the participant must make an application under section 18C to transfer the required number of units from the participant’s holding account to a surrender account designated by the EPA.
-(3) Subsection (1) is subject to section 191(1)﻿(c).
+(3)
 (4) If the provision of this Act that imposes a liability to surrender or repay units does not specify the deadline for doing so, the deadline is within 60 working days after the EPA gives the person a notice requiring the surrender or repayment.
+(5) See also sections 189E, 189F, and 189G in relation to liability to surrender units when transferring—
+  (a) from PFSI activity to standard forestry in a carbon accounting area (averaging); or
+  (b) between permanent forestry and standard forestry in a carbon accounting area (averaging).
 
 ### 63A Modification of liability to surrender units to cover certain emissions
 [Repealed]
 
 ### 64 Entitlement to receive New Zealand units for removal activities
 (1) A participant is entitled to receive 1 New Zealand unit for each whole tonne of removals from the participant’s removal activities, as calculated in accordance with this Act.
-(1A) Subsection (1) does not apply to removals for which a participant is not entitled to receive units under section 197 (grant-funded forests).
+(1A) Subsection (1) does not apply to removals for which a participant is not entitled to receive units under—
+  (a) section 191E, relating to carbon accounting areas (averaging); or
+  (b) section 193F(1), relating to temporary adverse event land; or
+  (c) section 197, relating to grant-funded forests.
 (2) If a participant submits an emissions return to the EPA that contains an assessment of the participant's entitlement to receive New Zealand units, then the EPA must, within 20 working days of receiving the emissions return, direct the Registrar to transfer the number of New Zealand units contained in the assessment to the participant’s holding account.
 (3) Subsection (2) does not apply—
   (a) if, within 20 working days of the EPA receiving the emissions return, the EPA or an enforcement officer serves notice on the participant under section 94 requiring the participant to provide information in respect of any matter contained in the emissions return; or
@@ -2309,31 +2372,24 @@ A participant must, in respect of each activity listed in Schedule 3 or 4 that i
 [Repealed]
 
 ### 65 Annual emissions returns
-(1) In the period beginning on 1 January and ending on 31 March in each year, a participant—
-  (a) must submit an annual emissions return to the EPA in respect of each of the activities listed in Schedule 3 or Part 2, 3, or 4 of Schedule 4 that the participant carried out in the immediately preceding year:
-  (b) must, in the case where approval for the participant's offsetting forest land application is treated as revoked under section 186D(2) or is revoked under section 186G(1), submit an annual emissions return to the EPA in respect of the activity listed in Part 1 of Schedule 3 that the participant carried out that covers the period—
-    (i) beginning when the activity first occurred; and
-    (ii) ending on the date that the revocation occurred.
-(1A) For the purposes of the annual emissions return, the activity carried out in the period specified in subsection (1)﻿(b) is to be treated as if it were carried out in the immediately preceding year.
+(1) In the period beginning on 1 January and ending on 31 March in each year, a participant must submit an annual emissions return to the EPA in respect of each of the activities listed in Schedule 3 or Part 2, 3, or 4 of Schedule 4 that the participant carried out in the immediately preceding year.
+(1A)
 (2) The annual emissions return must, in respect of activities that the participant carried out during the year covered by the return,—
   (a) record the participant’s activities; and
-  (b) record the participant’s emissions and removals as calculated and, if required, as verified under section 62(b) and (c); and
+  (b) record the participant’s emissions and removals as calculated and, if required, as verified under section 62(1)﻿(b) and (c); and
   (c) contain an assessment of the participant’s—
     (i) liability to surrender units in respect of the participant’s emissions; and
     (ii) entitlement to receive New Zealand units for the participant’s removals; and
   (d) be accompanied by such other information as may be prescribed; and
   (e) be accompanied by the prescribed fee (if any); and
   (f) be signed by the participant.
-(2A) If section 186E(1) applies,—
-  (a) subsection (2)﻿(b) and (c) does not apply; and
-  (b) the annual emissions return must record the emissions for the relevant pre-1990 forest land under section 186D(3)﻿(c) as emissions of the participant for an activity listed in Part 1A of Schedule 3 for which the participant is liable to surrender units.
+(2A)
 (3) The participant must submit the annual emissions return under subsection (1) by submitting it in the prescribed manner and format.
 (4) Following the submission of an annual emissions return under subsection (1),—
-  (a) a participant (other than a participant carrying out an activity listed in Part 5 of Schedule 3) must, by 31 May, surrender the number of units listed in the participant’s assessment under subsection (2)﻿(c)﻿(i) or recorded under subsection (2A)﻿(b); and
+  (a) a participant (other than a participant carrying out an activity listed in Part 5 of Schedule 3) must, by 31 May, surrender the number of units listed in the participant’s assessment under subsection (2)﻿(c)﻿(i); and
   (b) a participant carrying out an activity listed in Part 5 of Schedule 3 must, by 31 May, surrender the number of units listed in the participant’s assessment under subsection (2)﻿(c)﻿(i) less the number of units allocated to the participant for the year to which the assessment relates under section 86BA.
-(5) To avoid doubt, a person does not carry out an activity listed in Schedule 3, and so does not have to submit an annual emissions return under subsection (1)﻿(a), merely because they—
-  (a) deforest pre-1990 forest land that may not be treated as deforested under section 179A(1)﻿(b); or
-  (b) deforest land that has ceased to be forest land (and pre-1990 forest land) because it has been offset by pre-1990 offsetting forest land.
+(5) Despite the rest of this section, a participant in an activity of standard forestry or permanent forestry (on post-1989 forest land) must instead submit emissions returns as required by Part 5.
+(6) To avoid doubt, a person carrying out an activity on land to which section 179A applies (and which therefore may not be treated as deforested) is not carrying out an activity listed in Schedule 3, and so does not have to submit an annual emissions return under subsection (1).
 
 ### 66 Quarterly returns for other removal activities
 (1) Despite anything in this Act, a person who is a participant in respect of an activity listed in Part 2 of Schedule 4 may, within 20 working days after the following dates, submit an emissions return that complies with subsection (2):
@@ -2354,14 +2410,14 @@ A participant must, in respect of each activity listed in Schedule 3 or 4 that i
 ### 67 Retention of emissions records
 (1) A participant must keep sufficient records to enable the EPA to verify, in respect of any year in which the participant carries or carried out an activity listed in Schedule 3 or 4,—
   (a) the activities carried out by the participant; and
-  (b) the emissions and removals from those activities as calculated and, if required, as verified under section 62(b) and (c); and
+  (b) the emissions and removals from those activities as calculated and, if required, as verified under section 62(1)﻿(b) and (c); and
   (c) the participant’s assessment of the participant’s—
     (i) liability to surrender units; and
     (ii) entitlement to receive New Zealand units; and
   (d) any other information contained in an emissions return submitted by the participant.
 (2) The records specified in subsection (1) must—
-  (a) include the records specified in section 62(d); and
-  (b) in the case where they relate to an activity listed in Part 1 of Schedule 3 or 4, be retained for a period of at least 20 years after the end of the year to which they relate; and
+  (a) include the records specified in section 62(1)﻿(d); and
+  (b) in the case where they relate to a forestry activity, be retained for a period of at least 20 years after the end of the year to which they relate; and
   (c) in every other case, be retained for a period of at least 7 years after the end of the year to which they relate.
 
 ### Subpart 2 — Issuing and allocating New Zealand units
@@ -2796,7 +2852,8 @@ The EPA must apply section 64A as follows:
   (f) in the case of a penalty imposed under sections 134A to 134D, whether the penalty was imposed for behaviour that was grossly careless or behaviour that was knowing.
 (1C) In subsection (1A), qualifying penalty means—
   (a) a penalty imposed under section 134; or
-  (b) a penalty imposed under sections 134A to 134D, if the EPA is satisfied that the penalty was imposed for behaviour that was grossly careless or knowing.
+  (b) a penalty imposed under sections 134A to 134D, if the EPA is satisfied that the penalty was imposed for behaviour that was grossly careless or knowing; or
+  (c) a penalty imposed under section 190E or 190H.
 (2) The EPA—
   (a) must publish the information specified in subsections (1) to (1B) as soon as practicable after the end of the reporting year; and
   (b) may publish the information specified in subsections (1) to (1B), in whole or in part, at any other time and in whatever manner and format that the EPA considers appropriate.
@@ -2830,7 +2887,7 @@ The EPA must apply section 64A as follows:
 (4) To avoid doubt, if the EPA prescribes an electronic form or format under subsection (1), the EPA may require any signature on that form or that relates to that format to be an electronic signature.
 
 ### 91 Approval of unique emissions factors
-(1) The EPA may approve the use by a participant of a unique emissions factor when calculating emissions or removals from an activity under section 62(b) if—
+(1) The EPA may approve the use by a participant of a unique emissions factor when calculating emissions or removals from an activity under section 62(1)﻿(b) if—
   (a) regulations made under section 164 provide a mechanism for participants to apply for approval to use a unique emissions factor for the activity; and
   (b) the EPA is satisfied that the unique emissions factor that the participant has applied to use meets any requirements prescribed in regulations made under section 164.
 (2) An approval under subsection (1)—
@@ -2859,7 +2916,7 @@ The EPA must apply section 64A as follows:
 (4) Information contained in an emissions return, for that or any later date, that is based on the incorrect unique emissions factor may be treated as being incorrect for the purposes of section 120 (so that the EPA may amend the emissions return under that section to reflect the corrected unique emissions factor).
 
 ### 92 Recognition of verifiers
-(1) The EPA may, in accordance with any regulations made under section 163, recognise a person or organisation with the prescribed expertise, technical competence, or qualifications as a person or organisation that may undertake verification functions for the purposes of section 62(a) and (c) or regulations made under section 164 relating to the process for approval of a unique emissions factor.
+(1) The EPA may, in accordance with any regulations made under section 163, recognise a person or organisation with the prescribed expertise, technical competence, or qualifications as a person or organisation that may undertake verification functions for the purposes of section 62(1)﻿(a) and (c) or regulations made under section 164 relating to the process for approval of a unique emissions factor.
 (2) A person or organisation may be recognised by the chief executive as able to verify information or unique emissions factors in respect of—
   (a) 1 or more types of data or information or calculations of types of emissions or removals:
   (b) 1 or more activities in Schedule 3 or 4.
@@ -3011,10 +3068,10 @@ No enforcement officer or person called upon to assist an enforcement officer wh
   (b) whether the person—
     (i) is a participant in respect of an activity listed in Schedule 3 or is eligible to register as a participant in respect of an activity listed in Schedule 4; or
     (ii) would be either of those things if certain proposals were carried out or events happened:
-  (c) the correct application of any provision contained in regulations made under section 161A, 161G, 163, 164, 167, 168, 186F, 194C, 196F, or 197A in respect of a particular matter specified in the person’s application:
+  (c) the correct application of any provision contained in regulations made under section 161A, 161G, 163, 164, 167, 168, 180G, 181W, 190F, 191I, 192U, 193R, 194B, 196F, or 197A in respect of a particular matter specified in the person’s application:
   (ca) whether any of this Act’s requirements that relate to a decision that the EPA can make about forest land on land that the person has, or will have, an interest in are satisfied, or would be satisfied if certain proposals were carried out or events happened—for example, the requirements that must be satisfied—
     (i) for any forest land that is cleared to not be treated as deforested (for the purposes of this Act) under section 179A:
-    (ii) for pre-1990 forest land to be eligible for a decision to be made under section 184(5)﻿(a) (exemptions for deforestation of land with tree weeds):
+    (ii) for pre-1990 forest land to be eligible for a decision to be made under section 180E(3)﻿(a) (exemptions for deforestation of land with tree weeds):
     (iii) for the EPA to approve an application relating to forest land:
   (d) any other matters prescribed in regulations made under section 168(1)﻿(b).
 (2) Every application under subsection (1) must—
@@ -3063,7 +3120,7 @@ No enforcement officer or person called upon to assist an enforcement officer wh
   (a) a properly completed application for a ruling; and
   (b) all information that the EPA considers relevant to the consideration of the application, including information requested under section 107A.
 (2) Subject to section 114(2), a ruling comes into effect on the day on which it is made.
-(3) A ruling may be made subject to any conditions that the EPA considers appropriate, including any condition that a proposal is carried out or that something happens (see section 107(1)﻿(b)﻿(ii)).ExampleThe EPA may rule that a person is eligible to register as a participant in an activity listed in Part 1 of Schedule 4 on the condition that the relevant land is planted in forest species and meets the definition of forest land.
+(3) A ruling may be made subject to any conditions that the EPA considers appropriate, including any condition that a proposal is carried out or that something happens (see section 107(1)﻿(b)﻿(ii)).ExampleThe EPA may rule that a person is eligible to register as a participant in an activity of standard forestry on the condition that the relevant land is planted in forest species and meets the definition of forest land.
 (4) Subsection (1) is subject to section 108 and the EPA’s discretion in section 107A(3)﻿(b) to make a ruling on only part of a matter.
 
 ### 110 Notice of emissions rulings
@@ -3138,6 +3195,7 @@ At any time after an emissions ruling is made, the EPA may, by notice, require a
   (b) a participant who has ceased to carry out any activities in New Zealand:
   (c) the executor or administrator of a deceased participant:
   (d) a participant who has become bankrupt or has been put into liquidation.
+(3A) However, subsections (1) and (3) do not apply to a participant in an activity of standard forestry or permanent forestry (on post-1989 forest land), who must instead submit emissions returns as required by Part 5.
 (4) A final emissions return submitted under subsection (2) or (3) must—
   (a) contain all of the information required in an annual emissions return under section 65(2), but only in respect of the following periods, as relevant:
     (i) if the return is submitted in response to a requirement of the EPA under subsection (2), the period specified by the EPA:
@@ -3249,10 +3307,10 @@ An amendment made to an emissions return under section 120, or an assessment mad
 
 ### 127 Time bar for amendment of emissions returns
 (1) If a participant has complied with the participant’s obligation to surrender units in relation to an emissions return required or permitted by—
-  (a) any section except those specified in paragraph (b), the EPA may not amend the emissions return, or the assessment made by the participant of the units to be surrendered or received, after the expiration of 4 years from the end of the year or other period in respect of which the emissions return was made, or in the case of a return under section 187 or 191, from the date of the submission of the emissions return, if the amendment would—
+  (a) any section except those specified in paragraph (b), the EPA may not amend the emissions return, or the assessment made by the participant of the units to be surrendered or received, after the expiration of 4 years from the end of the year or other period in respect of which the emissions return was made, or in the case of a return required by section 182A or 186B, from the date of the submission of the emissions return, if the amendment would—
     (i) increase the number of units required to be surrendered by the participant; or
     (ii) alter the number of New Zealand units that the participant is entitled to receive for removal activities:
-  (b) section 189 or 193, the EPA may not amend the emissions return, or the assessment made by the participant of the units to be surrendered or received, after the expiration of 7 years from the end of the year or other period in respect of which the emissions return was made if the amendment would—
+  (b) section 183, 183A, 187, 188, 189, 192A, 192Q, 193A, or 193K, the EPA may not amend the emissions return, or the assessment made by the participant of the units to be surrendered or received, after the expiration of 7 years from the end of the year or other period in respect of which the emissions return was made if the amendment would—
     (i) increase the number of units required to be surrendered by the participant; or
     (ii) alter the number of New Zealand units that the participant is entitled to receive for removal activities.
 (2) However,—
@@ -3268,6 +3326,29 @@ Any amendment or assessment made by the EPA for the purpose of this Act that is 
   (a) must be treated as an amendment or assessment made by or under the properly delegated authority of the EPA; and
   (b) is not invalid by virtue of the fact that it is made automatically by such means.
 
+**Notices required from participants**
+
+### 128A EPA may act if participant fails to give notice
+(1) The EPA may act under this section if it is satisfied that a participant has failed to give a notice in accordance with section 181G, 192J, or 193K (the notice provision).
+(2) The EPA may,—
+  (a) if no notice has been given, prepare the notice that ought to have been given; or
+  (b) if a notice has been given but is not complete, complete the notice.
+(3) The EPA may do the following when preparing or completing the notice:
+  (a) if the notice must include an emissions return (including any new unit balance report), the EPA may apply—
+    (i) section 120 to amend an emissions return that was included; or
+    (ii) section 121 to assess the matters that should have been in an emissions return that was not included; and
+  (b) if the notice must include any other information, prepare or complete that information by making any required assumptions or estimates.
+(4) Before taking action under this section, the EPA must notify the participant of its intention to do so, and give them at least 60 working days to give or correct the required notice.
+(5) If the participant gives or corrects the required notice by that deadline, the notice must be treated as having been given to the EPA—
+  (a) in accordance with the notice provision; and
+  (b) on the last day on which it could have been given under that provision.
+(6) The EPA may still take action under this section if it is unable to notify the participant of its intention to do so because it is not reasonably practicable to identify or locate them or their address.
+(7) Despite subsection (2),—
+  (a) for a notice under section 181G,—
+    (i) the EPA cannot identify any land as area 2 (excess) land; and
+    (ii) if any land in area 2 that is qualifying forest land is not identified as area 2 (forested land), the EPA must identify it as area 2 (non-ETS) land; and
+  (b) for a notice required by section 192J, the EPA cannot identify any land as P89 offsetting (excess) land.
+
 ### Subpart 4 — Offences and penalties
 
 ### 129 Offences in relation to failure to comply with various provisions
@@ -3282,7 +3363,7 @@ Any amendment or assessment made by the EPA for the purpose of this Act that is 
       (B)
       (C) by the pre-1990 forest land allocation plan; or
     (iv) fails to notify the EPA of a matter that is required to be notified under section 112; or
-    (v) fails to notify the EPA, within the time required, of a matter required to be notified under section 84(2)﻿(b) or 192(3).
+    (v) fails to notify the EPA, within the time required, of a matter required to be notified under section 84(2)﻿(b) or 187(4).
 (2) Every person who is convicted of an offence against subsection (1) is liable on conviction,—
   (a) the first time the person is convicted of that offence, to a fine not exceeding $8,000:
   (b) the second time the person is convicted of that offence, to a fine not exceeding $16,000:
@@ -3359,7 +3440,7 @@ Every person to whom section 99(1) applies who knowingly acts in contravention o
     (i) the person has failed to submit the emissions return by the due date; and
     (ii) if the person does not submit the return within 20 working days after the notice is given, the EPA will make an assessment under section 121 and a penalty may apply; and
   (d) the person fails to submit the emissions return within 20 working days after the notice is given.
-(2) If the emissions return is for an activity listed in Part 1 of Schedule 4 (for post-1989 forestry), the person has either—
+(2) If the emissions return is for an activity of standard forestry or permanent forestry, the person has either—
   (a) emissions equal to the carbon dioxide equivalent tonnes of emissions, less removals (if any), assessed for the return to the extent they match a net liability to surrender or repay units; or
   (b) removals equal to the carbon dioxide equivalent tonnes of removals, less emissions (if any), assessed for the return to the extent they match a net entitlement to receive or be reimbursed units.
 (3) If the emissions return is for any other activity, the person has either—
@@ -3416,7 +3497,7 @@ Meaning of due date
   (a) the EPA amends a person’s emissions return under section 120; and
   (b) the EPA is satisfied that the amendment was needed because the person failed to take reasonable care.
 (2) In particular,—
-  (a) subsections (3) to (5) apply if the emissions return is for an activity listed in Part 1 of Schedule 4 (for post-1989 forestry):
+  (a) subsections (3) to (5) apply if the emissions return is for an activity of standard forestry or permanent forestry:
   (b) subsections (6) to (8) apply if the emissions return is for any other activity.
 Activities relating to post-1989 forestry
 (3) The person has either—
@@ -3488,7 +3569,7 @@ Meaning of due date
 (2) However, if a deferred payment arrangement has been made under section 135A, the person must pay the penalty by the date or dates agreed under the arrangement.
 
 ### 135A Deferred payment arrangements for payments of penalties
-(1) A person who is liable to pay a penalty imposed under sections 134 to 134D may request to enter into an arrangement with the EPA for the person to pay the penalty after the date required by section 135(1), either in a single payment or in instalments.
+(1) A person who is liable to pay a penalty imposed under sections 134 to 134D, 190E, or 190H may request to enter into an arrangement with the EPA for the person to pay the penalty after the date required by section 135(1) or 190I(3)﻿(a), either in a single payment or in instalments.
 (2) The EPA must consider the request, taking into account the person’s financial position on the date on which the request is made.
 (3) The EPA may—
   (a) accept the request; or
@@ -3510,11 +3591,11 @@ Meaning of due date
   (b) the person is not meeting their obligations under the arrangement.
 
 ### 136 Penalties are debt due to Crown
-The amount of a penalty imposed under sections 134 to 134D, together with any interest that accrues on that penalty, constitutes a debt due to the Crown and is recoverable by the EPA in a court of competent jurisdiction.
+The amount of a penalty imposed under sections 134 to 134D, 190E, or 190H, together with any interest that accrues on that penalty, constitutes a debt due to the Crown and is recoverable by the EPA in a court of competent jurisdiction.
 
 ### 137 Interest for late payment
 (1) This section applies if—
-  (a) a person is liable to pay a penalty imposed under sections 134 to 134D; and
+  (a) a person is liable to pay a penalty imposed under sections 134 to 134D, 190E, or 190H; and
   (b) the person has not paid the penalty by the date on which the penalty was due (as stated in the notice issued under the relevant section); and
   (c) in the case of a penalty imposed under section 134, the person has not surrendered or repaid the units to which the penalty relates.
 (2) If this section applies, the person is liable to pay interest on the full amount of the penalty—
@@ -3537,7 +3618,7 @@ The amount of a penalty imposed under sections 134 to 134D, together with any in
 (8) An order under subsection (2)﻿(a) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 138 Obligation to pay penalty not suspended by appeal
-(1) The obligation to pay and the right to receive and recover any penalty imposed under sections 134 to 134D or interest imposed under section 137 are not suspended by any review or appeal.
+(1) The obligation to pay and the right to receive and recover any penalty imposed under sections 134 to 134D, 190E, or 190H or interest imposed under section 137 are not suspended by any review or appeal.
 (2) If the applicant or appellant is successful in the review or appeal, the amount of any penalty or interest paid by the applicant must be refunded to the applicant or appellant by the EPA, and any units not required to be transferred to a Crown holding account or surrendered must be reimbursed in accordance with the procedure specified in section 124.
 (3) However, any obligation on the EPA under subsection (2) is suspended pending the outcome of any appeal filed under section 146.
 (4) The EPA must pay interest on any refunded penalty and interest calculated in accordance with the following formula:((X × Y) ÷ 365) × Zwhere—Xis the number of days in the period that—Yis the amount of penalty and interest that, having been paid, is caused to be refunded in accordance with the outcome of a successful appeal; andZis the rate of interest specified by the Governor-General by Order in Council made under section 137(2)﻿(a).
@@ -3545,7 +3626,8 @@ The amount of a penalty imposed under sections 134 to 134D, together with any in
   (b) ends on the day on which the relevant penalty is refunded by the EPA; and
 
 ### 138A Penalties to be paid into Crown account
-The EPA must pay the amount of all penalties and interest on the penalties received from a person in accordance with sections 134 to 134D or 137 into a Crown Bank Account.
+(1) The EPA must pay the amount of all penalties and interest on the penalties received from a person in accordance with sections 134 to 134D, 137, 190E, or 190H into a Crown Bank Account.
+(2) However, this section is subject to a court order that a penalty imposed under section 190E or 190H must be applied first to pay the EPA’s actual costs in bringing the proceedings.
 
 ### 139 Liability of body corporate
 If, in the course of proceedings against a body corporate for an offence under this Part, it is necessary to establish the state of mind of the body corporate, it is sufficient to show that a director, employee, or agent of the body corporate, acting within the scope of the person’s actual or apparent authority, had that state of mind.
@@ -3731,7 +3813,7 @@ If a party to any proceedings before the District Court under section 145 is dis
 (6) This section—
   (a) does not prevent the nominated entity submitting—
     (i) a quarterly emissions return under section 66 for other removal activities of the consolidated group; or
-    (ii) submitting an emissions return under section 187 in respect of an entity who is a member of the consolidated group; and
+    (ii) submitting an emissions return under section 182A in respect of an entity who is a member of the consolidated group; and
   (b) applies with any necessary modifications to the period of an emissions return in either of those circumstances.
 (7) To avoid doubt, an emissions return for a consolidated group or any member of a consolidated group may be submitted only by the nominated entity of the consolidated group.
 
@@ -3849,7 +3931,7 @@ If an entity ceases to be a member of a consolidated group, the entity—
   (a) be in the prescribed form; and
   (b) contain any other information the EPA may require; and
   (c) be accompanied by the prescribed fee (if any).
-(4) For the purposes of subsection (1), the following transfers must be treated as changes in the membership of an unincorporated body and not as the transfer of an interest for the purposes of section 192(1)﻿(a):
+(4) For the purposes of subsection (1), the following transfers must be treated as changes in the membership of an unincorporated body and not as the transfer of an interest for the purposes of section 187(1)﻿(a):
   (a) the transfer of land from members of an unincorporated body to members of an unincorporated body if at least 60% of the members of an unincorporated body are the same following the transfer; and
   (b) the transfer of a registered lease, registered forestry right, or Crown conservation contract relating to post-1989 forest land from members of an unincorporated body to members of an unincorporated body if at least 60% of the members of an unincorporated body are the same following the transfer.
 
@@ -3868,7 +3950,7 @@ If an entity ceases to be a member of a consolidated group, the entity—
   (b) the cost of the units that the insolvent participant would be required to surrender or repay under this Act (other than this provision); and
   (c) any costs associated with bringing and carrying out the action to recover the debt.
 (3) For the purposes of subsection (2)﻿(a), the following formula must be used to calculate the total cost of the units:A = B × Cwhere—Ais the total cost of the unitsBis the number of unitsCis the price, in dollars, of carbon per tonne on the relevant date, as set by or in accordance with regulations made under section 30W.
-(4) Any administrative costs incurred in the recovery of costs under subsection (2) and any penalties incurred under section 134 to 134D constitute a debt to the Crown and are recoverable by the chief executive in a court of competent jurisdiction.
+(4) Any administrative costs incurred in the recovery of costs under subsection (2) and any penalties incurred under section 134 to 134D, 190E, or 190H constitute a debt to the Crown and are recoverable by the chief executive in a court of competent jurisdiction.
 (5) In this section,—
   - **insolvency process** means receivership under the Receiverships Act 1993, liquidation under the Companies Act 1993, or bankruptcy under the Insolvency Act 2006
   - **relevant date** means the earlier of—
@@ -4093,15 +4175,15 @@ If an entity ceases to be a member of a consolidated group, the entity—
 
 ### 163 Regulations relating to methodologies and verifiers
 (1) The Governor-General may, by Order in Council made on the recommendation of the Minister, make regulations for 1 or more of the following purposes:
-  (a) prescribing the data or other information that must be collected under section 62(a) in respect of an activity, and, if relevant, the mechanism or method by which the data or information must be collected; and
+  (a) prescribing the data or other information that must be collected under section 62(1)﻿(a) in respect of an activity, and, if relevant, the mechanism or method by which the data or information must be collected; and
   (ab) authorising, in respect of a forestry activity, the EPA to specify the location where, and the device by which, the data or other information prescribed in accordance with paragraph (a) must be collected; and
-  (b) prescribing a methodology or methodologies for calculating emissions or removals from an activity for the purposes of section 62(b); and
+  (b) prescribing a methodology or methodologies for calculating emissions or removals from an activity for the purposes of section 62(1)﻿(b); and
   (c) prescribing the data or other information, or the calculations of emissions or removals, that must be verified by a person or organisation recognised by the EPA under section 92; and
   (d) authorising the EPA to issue guidelines or standards by notice in relation to—
     (i) the matters prescribed under paragraph (a); and
     (ii) the method and format for determining the spatial extent of an area of forest land; and
   (e) prescribing, for the purposes of section 92,—
-    (i) the process by which a person or organisation may be recognised as being able to verify information or calculations for the purposes of section 62(a) or (c) or unique emissions factors for the purposes of regulations made under section 164; and
+    (i) the process by which a person or organisation may be recognised as being able to verify information or calculations for the purposes of section 62(1)﻿(a) or (c) or unique emissions factors for the purposes of regulations made under section 164; and
     (ii) the expertise, technical competence, or qualifications required for recognition as a person or organisation able to verify unique emissions factors or information relating to 1 or more types of data or information, the calculations of certain types of emissions or removals, or 1 or more activities; and
     (iii) any additional—
       (A) requirements for recognition of an organisation; and
@@ -4164,7 +4246,7 @@ If an entity ceases to be a member of a consolidated group, the entity—
     (ii) administering the operation of the ETS participant provisions:
     (iii) enforcing and monitoring compliance with the ETS participant provisions:
     (iv) doing anything else authorised or required under the ETS participant provisions; or
-  (c) who submits an input return under section 194A, to enable the recovery of all or part of the direct and indirect costs of the EPA in doing calculations and giving notice under section 194B.
+  (c) who submits an input return under section 194, to enable the recovery of all or part of the direct and indirect costs of the EPA in doing calculations and giving notice under section 194A.
 (3) Examples of the costs that may be recovered under subsection (2) include (but are not limited to)—
   (a) the cost of processing applications and returns:
   (b) the costs of providing, operating, and maintaining systems, databases, and other processes in connection with—
@@ -4194,14 +4276,14 @@ If an entity ceases to be a member of a consolidated group, the entity—
   (a) specifying the fuel that is obligation fuel and the jet fuel that is obligation jet fuel for the purposes of this Act; and
   (b) prescribing matters in respect of which applications for emissions rulings may be made; and
   (c)
-  (ca) prescribing a date by which an application to the EPA must be submitted under section 183; and
+  (ca) prescribing a date by which an application to the EPA must be submitted under section 180B; and
   (d) prescribing forest species that are tree weeds; and
   (e) prescribing criteria for carbon accounting areas; and
   (f) requiring notification by the EPA of the status of forest land or any changes to the status of forest land under section 195; and
   (g) providing for the circumstances in which a notice of the status of forest land must be cancelled by the Registrar-General of Land, a Registrar of the Maori Land Court, or the Registrar of Deeds; and
   (h)
   (i)
-  (j) prescribing a format or formats for the keeping of records under section 62(d); and
+  (j) prescribing a format or formats for the keeping of records under section 62(1)﻿(d); and
   (k) prescribing the form and manner in which any application, return, information, or other document must be submitted or notified under the ETS participant provisions, and the particulars to be provided in the application, return, or other document; and
   (l) prescribing the information that must be provided in or with applications or other documents under the ETS participant provisions; and
   (m) prescribing a threshold for the purposes of any removal activity listed in Part 2 of Schedule 4; and
@@ -4209,6 +4291,9 @@ If an entity ceases to be a member of a consolidated group, the entity—
     (i) subpart 1 of Part 2 of Schedule 4; and
     (ii) subpart 2 of Part 2 of Schedule 4, which may include criteria for the type of carbon dioxide capture and storage in respect of which a person may register as a participant; and
     (iii) subpart 3 of Part 2 of Schedule 4; and
+  (naa) prescribing additional criteria for the approval of—
+    (i) an application to reconfigure carbon accounting areas for standard or permanent forestry, for the purposes of section 188A(2)﻿(c):
+    (ii) an application to change activity on post-1989 forest land, for the purposes of section 189A(2)﻿(d); and
   (na) prescribing rules for the rounding of amounts of units calculated under, or referred to in, this Act; and
   (nb) prescribing the meaning (or things that are included within the meaning) of New Zealand’s best practice forest management for the purposes of section 179A; and
   (o) providing for any other matters contemplated by the ETS participant provisions or Schedules 3 and 4, necessary for their administration, or necessary for giving them full effect.
@@ -4224,7 +4309,7 @@ If an entity ceases to be a member of a consolidated group, the entity—
   (a) in whole or in part; and
   (b) with modifications, additions, or variations specified in the regulations.
 (3) Material incorporated by reference in regulations has legal effect as part of the regulations.
-(4) In this section and sections 170 to 174, relevant empowering section means section 161A, 161G, 163, 164, 167, 168, 186F, 194C, 196F, or 197A.
+(4) In this section and sections 170 to 174, relevant empowering section means section 161A, 161G, 163, 164, 167, 168, 180G, 181W, 190F, 191I, 192U, 193R, 194B, 196F, or 197A.
 
 ### 170 Effect of amendments to, or replacement of, material incorporated by reference in regulations
 (1) Subsection (2) applies to an amendment to, or a replacement of, material if the material—
@@ -4304,10 +4389,10 @@ Sections 169 to 176 do not affect the application of sections 29 to 32 of the St
   (a) either—
     (i) a person is required to surrender or repay units—
       (A) as a result of submitting an emissions return; or
-      (B) under section 123(3) or (6) or 183A(2)﻿(b); or
+      (B) under section 123(3) or (6) or 180C(2)﻿(b); or
     (ii) the EPA is required by this Act to reimburse units to any person; and
   (b) the units that must be surrendered, repaid, or reimbursed are in respect of,—
-    (i) for an activity on post-1989 forest land, emissions or removals that are attributed by section 178C(3) to a calendar year that ends before the start date for auctions; or
+    (i) for an activity of standard forestry, emissions or removals that are attributed by section 178C(3) to a calendar year that ends before the start date for auctions; or
     (ii) for any other activity, emissions or removals that occurred in a calendar year that ends before the start date for auctions; or
     (iii) an activity that the person ceased to participate in, and for which the person has submitted an emissions return, before the start date for auctions.
 (1A) If subsection (1)﻿(b)﻿(i) applies, for the purposes of this section, the units in respect of the emissions or removals attributed to a calendar year must be rounded to the nearest whole number (where 0.5 is rounded up).
@@ -4344,13 +4429,11 @@ Sections 169 to 176 do not affect the application of sections 29 to 32 of the St
 (2) If the unit that must be surrendered, repaid, or reimbursed is in respect of emissions or removals that occurred in a calendar year that is—
   (a) 2019 or earlier, the fixed price is $25; or
   (b) 2020 or later, but that ends before the start date for auctions, the fixed price is $35.
-(3) For the purposes of section 178A, if an emissions return covers more than 1 calendar year of an activity on post-1989 forest land, emissions and removals are attributed to, and treated as having occurred in, each year in the proportion that the year bears to the emissions return period.
+(3) For the purposes of section 178A, if an emissions return covers more than 1 calendar year of an activity of standard forestry, emissions and removals are attributed to, and treated as having occurred in, each year in the proportion that the year bears to the emissions return period.
 
 ## Part 5 — Sector-specific provisions: forestry
 
 ### Subpart 1 — Deforestation
-
-**General**
 
 ### 179 Forest land to be treated as deforested in certain cases
 (1) Without limiting paragraph (a) of the definition of deforest in section 4(1), a hectare of forest land must be treated as deforested for the purposes of this Act if the forest species on that hectare have been cleared and,—
@@ -4362,11 +4445,11 @@ Sections 169 to 176 do not affect the application of sections 29 to 32 of the St
     (i) predominantly exotic forest species are growing, but that hectare does not have tree crown cover of more than 30% from trees that have reached 5 metres in height; or
     (ii) predominantly indigenous forest species are growing, but that hectare is not forest land; or
   (c) 20 years after clearing, predominantly indigenous forest species are growing, but that hectare does not have tree crown cover of more than 30% from trees that have reached 5 metres in height.
-(1A) Subsection (1)﻿(a)﻿(ii) applies only if the EPA is satisfied that the relevant local authority has determined that the soil erosion risk of the land is at least moderate.
-(2) If forest land is to be treated as deforested under subsection (1),—
-  (a) the deforestation is to be treated as having been carried out 4 years, 10 years, or 20 years, after the clearing of the forest species, as the case may be; but
+(2) Subsection (1)﻿(a)﻿(ii) applies only if the EPA is satisfied that the relevant local authority has determined that the soil erosion risk of the land is at least moderate.
+(3) If forest land is to be treated as deforested under subsection (1),—
+  (a) the deforestation is to be treated as having been carried out 4 years, 10 years, or 20 years after the clearing of the forest species, as the case may be; but
   (b) the liability in respect of the deforestation must be calculated by reference to the age and forest species of the trees cleared 4 years, 10 years, or 20 years earlier, as the case may be.
-(3) Nothing in this section limits the EPA's ability to exercise powers under section 121 in respect of the deforestation of a hectare of forest land whenever the EPA considers that—
+(4) Nothing in this section limits the EPA's ability to exercise powers under section 121 in respect of the deforestation of a hectare of forest land whenever the EPA considers that—
   (a) the hectare has been converted to land that is not forest land; and
   (b) any obligations imposed under this Act in respect of the deforestation have not been complied with.
 
@@ -4377,25 +4460,20 @@ Sections 169 to 176 do not affect the application of sections 29 to 32 of the St
     (ii) is an area that is less than 1 hectare or that is less than 30 metres wide at its widest point; and
     (iii) is required to be or remain cleared to implement New Zealand's best practice forest management; and
     (iv) is used only for the purpose of implementing New Zealand's best practice forest management:
-  (b) in the case of pre-1990 forest land that is the subject of an offsetting forest land application that the EPA has approved under section 186B, the pre-1990 forest land that is cleared may not be treated as deforested if cleared,—
-    (i) in the case where the land is converted to a use other than forest land (for example, dairy), in the period—
-      (A) beginning on the date that the approval is given; and
-      (B) ending with the earlier of 2 years after the date that the approval was given or 4 years after the date that the pre-1990 forest land was cleared; or
-    (ii) in the case where the land is not converted to another land use and remains forest land, in the period—
-      (A) beginning on the date that the pre-1990 forest land was cleared; and
-      (B) ending 4 years after the date that the pre-1990 forest land was cleared:
+  (b) in the case of pre-1990 forest land in relation to which a P90 offset application has been submitted under section 181A, the land may not be treated as deforested during the period—
+    (i) starting on the date on which the application is submitted; and
+    (ii) ending on the P90 offset date for the land under section 181F(3):
   (c) in the case of post-1989 forest land, the post-1989 forest land that is cleared may not be treated as deforested if the cleared land—
-    (i) is contiguous with the edge of post-1989 forest land that existed on the date of registration; and
+    (i) is contiguous with the edge of post-1989 forest land that existed on the date of the first registration of any person as a participant in standard forestry or permanent forestry in respect of the cleared land; and
     (ii) is an area that is less than 1 hectare or that is less than 30 metres wide at its widest point; and
     (iii) is required to be or remain cleared to implement New Zealand's best practice forest management; and
     (iv) is used only for the purpose of implementing New Zealand's best practice forest management.
-(2) Subsection (1)﻿(b) does not apply if the EPA revokes its approval of an offsetting forest land application under section 186G(1).
-(3) This section applies to land that was cleared before, on, or after the commencement of this section.
-(4) If regulations prescribe any meaning for New Zealand’s best practice forest management, then that term has or includes that meaning in this section.
+(2) However, in relation to subsection (1)﻿(b), see section 181D, under which the effect of subsection (1)﻿(b) may be reversed.
+(3) If subsection (1)﻿(c) applies (where land is cleared for forest management), see sections 182G, 186A, and 186C.
+(4) This section applies to land that was cleared before, on, or after the commencement of this section.
+(5) If regulations prescribe any meaning for New Zealand’s best practice forest management, then that term has (or includes) that meaning in this section.
 
 ### Subpart 2 — Pre-1990 forest land
-
-**Pre-1990 forest land**
 
 ### 180 Participant in respect of pre-1990 forest land
 (1) If the activity listed in Part 1 of Schedule 3 is carried out, the landowner of the pre-1990 forest land is to be treated as the person carrying out the activity unless the EPA is satisfied that—
@@ -4404,23 +4482,22 @@ Sections 169 to 176 do not affect the application of sections 29 to 32 of the St
 (2) If the EPA is satisfied that the criteria specified in subsection (1)﻿(a) and (b) are met, the third party is to be treated as the person carrying out the activity.
 (3) To avoid doubt, for the purposes of this Act, no person, other than a landowner or, in the circumstances in subsection (2), a third party, is to be treated as carrying out an activity listed in Part 1 of Schedule 3.
 
-### 181 When deforestation to be treated as occurring in respect of pre-1990 forest land
+### 180A When deforestation to be treated as occurring in respect of pre-1990 forest land
 (1) This section applies to any hectare of pre-1990 forest land that is being converted to land that is not forest land.
-(1A) The hectare of forest land is to be treated as being deforested on the date of the first action on it that is inconsistent with it remaining forest land.
-(2) However, subsection (3) applies if the hectare of forest land was cleared but not deforested prior to—
+(2) The hectare of forest land is to be treated as being deforested on the date of the first action on it that is inconsistent with it remaining forest land.
+(3) However, subsection (4) applies if the hectare of forest land was cleared but not deforested prior to—
   (a) the forest land being transferred to the landowner; or
   (b) control of the forest land reverting to that landowner following the expiry or termination of a forestry right, Crown forestry licence, lease, or other agreement that relates to the land.
-(3) The hectare of forest land is to be treated as being deforested on the date of the first action on it that—
+(4) The hectare of forest land is to be treated as being deforested on the date of the first action on it that—
   (a) is inconsistent with the hectare remaining forest land; and
   (b) happens after the date of transfer of the land or the date of the expiry or termination of the forestry right, Crown forestry licence, lease, or other agreement relating to the land.
-(3A) In any case, the liability in respect of the deforestation must be calculated by reference to the age and forest species of the trees when they were cleared, unless section 186(2) applies.
-(4) This section applies only if section 4(5) does not apply.
-(5) This section does not apply to pre-1990 forest land that is the subject of an offsetting forest land application that the EPA has approved under section 186B.
+(5) In any case, the liability in respect of the deforestation must be calculated by reference to the age and forest species of the trees when they were cleared, unless section 180H(2) applies.
+(6) This section applies only if section 4(5) does not apply.
+(7) To avoid doubt, this section does not apply—
+  (a) to land to which section 179A applies (and which therefore may not be treated as deforested); or
+  (b) to land to which section 181N(3) applies.
 
-### 182 Offsetting in relation to pre-1990 forest land
-[Repealed]
-
-### 183 Applications for exemption for land holdings of less than 50 hectares of pre-1990 forest land
+### 180B Applications for exemption for land holdings of less than 50 hectares of pre-1990 forest land
 (1) This section applies to a person who—
   (a) is a landowner of an area of pre-1990 forest land at the date of issue of the pre-1990 forest land allocation plan; or
   (b) was the landowner of an area of pre-1990 forest land at the date (if any), between 1 January 2008 and the date of issue of the pre-1990 forest land allocation plan, on which the area was converted to land that is not forest land.
@@ -4442,7 +4519,7 @@ Sections 169 to 176 do not affect the application of sections 29 to 32 of the St
     (ii) in any other case, from each person who owned the land on 1 September 2007 (other than a joint tenant who is a professional trustee) stating that the person, together with any persons associated with that person, owned less than a total of 50 hectares of pre-1990 forest land on 1 September 2007; and
   (f) be signed by the applicant; and
   (g) be accompanied by any other prescribed information.
-(4) If the EPA is satisfied that the applicant is a person to whom this section applies, the land is pre-1990 forest land, and each of the criteria specified in subsection 2(a) to (c) is met, the EPA must—
+(4) If the EPA is satisfied that the applicant is a person to whom this section applies, the land is pre-1990 forest land, and each of the criteria specified in subsection (2)﻿(a) to (c) is met, the EPA must—
   (a) declare the land to be exempt land; and
   (b) notify the applicant that the land has been declared exempt land.
 (5) Despite subsection (3)﻿(a), the EPA may, at its discretion, accept applications after the date specified in the public notice given under subsection (3)﻿(a)﻿(ii) or prescribed by regulations under section 168(1)﻿(ca).
@@ -4453,14 +4530,14 @@ Sections 169 to 176 do not affect the application of sections 29 to 32 of the St
     (ii) in the case where none of the joint tenants is a professional trustee, each of the joint tenants must individually have been a landowner of less than 50 hectares of pre-1990 forest land; and
   (c) if land was owned by persons as tenants in common, each tenant in common’s interest in the land is to be treated as a divided interest on 1 September 2007; and
   (d) if land was owned by a sole professional trustee or owned by professional trustees only, the total pre-1990 forest land held in the trust on 1 September 2007 was less than 50 hectares.
-(7) For the purposes of this section and section 183B,—
+(7) For the purposes of this section and section 180D,—
   - **own** , in relation to pre-1990 forest land, means to be a landowner of the land
   - **professional trustee** —
     (a) means a trustee whose profession, employment, or business is or includes acting as a trustee or investing money on behalf of others; and
     (b) includes a trustee in whom property is vested under Te Ture Whenua Maori Act 1993.
 
-### 183A Certain applications not otherwise permitted by section 183
-(1) Despite section 183(2)﻿(c) and (3)﻿(a), a person may make an application under section 183 by 31 December 2013 if—
+### 180C Certain applications not otherwise permitted by section 180B
+(1) Despite section 180B(2)﻿(c) and (3)﻿(a), a person may make an application under section 180B by 31 December 2013 if—
   (a) the area concerned was owned, as at 1 September 2007, by a sole professional trustee or by professional trustees only; and
   (b) an allocation of units has been made before the commencement of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 in respect of the area under the pre-1990 forest land allocation plan.
 (2) If the EPA proposes to accept the application, the EPA must notify the applicant that—
@@ -4468,14 +4545,14 @@ Sections 169 to 176 do not affect the application of sections 29 to 32 of the St
   (b) the applicant must first, within 30 working days after receiving the notice, surrender or repay to the Crown holding account specified in the notice the number of units specified in the notice; and
   (c) if the units are not surrendered or repaid in accordance with paragraph (b), then the application will be declined.
 (3) The units referred to in subsection (2) must be the same number of units that have been allocated and transferred under the pre-1990 forest land allocation plan in relation to the land concerned.
-(4) The EPA must,—
+(4) The EPA must—
   (a) accept the application and declare the area concerned to be exempt land if, by the expiry of the 30 days, the units have been surrendered or repaid; or
   (b) decline the application if, by the expiry of the 30 days, the units have not been surrendered or repaid.
 (5) To avoid doubt,—
-  (a) section 183 (as amended by the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012) otherwise applies to an application permitted by this section, but subject to the modifications made by this section; and
+  (a) section 180B otherwise applies to an application permitted by this section, but subject to the modifications made by this section; and
   (b) if an application is granted and an area is declared to be exempt land, the entitlement to units under the pre-1990 forest land allocation plan in respect of the land is cancelled.
 
-### 183B Applications for exemption for some Maori land or land with 10 or more owners
+### 180D Applications for exemption for some Maori land or land with 10 or more owners
 (1) This section applies to an area of pre-1990 forest land that—
   (a) is less than 50 hectares; and
   (b) on 1 September 2007,—
@@ -4501,159 +4578,490 @@ Sections 169 to 176 do not affect the application of sections 29 to 32 of the St
   (a) declare the land to be exempt land; and
   (b) notify the applicant that the land has been declared exempt land.
 
-### 184 Exemptions for deforestation of land with tree weeds
+### 180E Exemptions for deforestation of land with tree weeds
 (1) An application may be made under this section for pre-1990 forest land to be declared exempt land (in relation to deforestation) if a prescribed type of tree weed—
   (a) is growing on the land; or
   (b) was cleared from the land as part of the deforestation process on or after 1 January 2008.
 (2) The application may be made by—
   (a) the landowner of the pre-1990 forest land; or
   (b) a third party to whom section 180 applies.
-(3)
-(4)
-(5) The EPA must consider the application against the prescribed criteria and priorities and—
+(3) The EPA must consider the application against the prescribed criteria and priorities and—
   (a) may declare the land, or any part of the land, to be exempt land, if satisfied that—
-    (i) the applicant is eligible to apply for the exemption under subsection (3); and
+    (i) the applicant is eligible to apply for the exemption under subsection (2); and
     (ii) the land is pre-1990 forest land; and
     (iii) the criteria specified in subsection (1) are met; and
   (b) must, if the EPA declares any land to be exempt land, notify the applicant of—
     (i) the declaration; and
     (ii) any requirements or conditions that the EPA has decided to impose on the person whose land is exempted.
-(6) The clearing of tree weeds on exempt land that has not been cleared before the land was declared exempt land must be—
-  (a) commenced within 24 months of the date of notification of the exemption; and
-  (b) completed by the end of the mandatory emissions return period in which the exemption was granted.
-(7) Any land that is declared to be exempt land under this section ceases to be exempt land if either of the conditions specified in subsection (6) is breached.
-(8) If a person is convicted of an offence under section 132 or 133 in relation to an application under this section,—
+(4) The EPA—
+  (a) may declare that a person’s land ceases to be exempt land (under this section) if the person breaches any requirement or condition that the EPA imposed on them for the exempt land; and
+  (b) if it does so, must notify the person of the declaration.
+(5) If a person is convicted of an offence under section 132 or 133 in relation to an application under this section,—
   (a) the person must be treated as a person who has failed to submit an annual emissions return in respect of an activity listed in Part 1 of Schedule 3 when required to do so under this Act; and
   (b) the EPA must make an assessment of the matters that should have been in the person’s annual emissions return and the number of units the person would have been liable to surrender if the land had not been exempt land; and
   (c) the person is liable to surrender the number of units in the assessment under paragraph (b); and
-  (d) section 123(1) to (3) and the other provisions of this Act apply as if the assessment under paragraph (b) was an assessment under section 121.
-(9)
+  (d) section 123(1) to (3) and the other provisions of this Act apply as if the assessment under paragraph (b) were an assessment under section 121.
 
-### 185 Effect of exemption
+### 180F Effect of exemption
 The status of pre-1990 forest land as exempt land runs with the land and is not affected by any change in the ownership of the land.
 
-### 186 Methodology for pre-1990 forest land cleared in 8 years or less
-(1) Subsection (2) applies where the trees cleared from pre-1990 forest land by a person carrying out the activity in Part 1 of Schedule 3 are 8 years or younger.
-(2) If this subsection applies, the participant must,—
-  (a) for the purposes of sections 62(b) and 65(2)﻿(b), apply any prescribed methodology and calculate and record the emissions from the activity as if the trees cleared from the pre-1990 forest land were trees of the age and species of the oldest trees of the predominant species (as determined by regulations made under section 163) cleared from the pre-1990 forest land during the previous 9 years (excluding any period in which the pre-1990 forest land is temporarily unstocked); and
-  (b) surrender units under this Act based on emissions calculated and recorded in accordance with paragraph (a).
-(3) A methodology for calculating emissions from the activity in Part 1 of Schedule 3 prescribed in regulations under section 163 must relate to the trees that are cleared from the pre-1990 forest land as part of the deforestation activity.
-
-### Subpart 3 — Pre-1990 offsetting forest land
-
-**Pre-1990 offsetting forest land**
-
-### 186A Persons who own pre-1990 forest land may submit offsetting forest land applications to EPA
-(1) A person who owns pre-1990 forest land may submit an offsetting forest land application to the EPA if that forest land—
-  (a) was first planted before 1 January 1990; or
-  (b) was harvested and re-established after 1 January 1960.
-(2) If the proposed offsetting forest land and the pre-1990 forest land are owned by the same person, the application must be submitted by that person.
-(3) In the case where the proposed offsetting forest land and the pre-1990 forest land are owned by different persons, the application must be submitted jointly by those persons.
-(4) To avoid doubt, any pre-1990 forest land cleared, but not deforested, before the commencement of this section is eligible to be offset if that land meets the requirements specified in subsection (1).
-
-### 186B Criteria for approving offsetting forest land applications
-(1) The EPA must approve land as offsetting forest land if—
-  (a) the land—
-    (i) is the subject of an offsetting forest land application that—
-      (A) is in the prescribed form, and accompanied by the payment of any prescribed fee; and
-      (B) complies with any relevant regulations made under section 186F; and
-      (C) is accompanied by any other relevant information that the EPA may require; and
-    (ii) was—
-      (A) not forest land on or after 31 December 1989; or
-      (B) forest land on 31 December 1989 that was deforested between 1 January 1990 and 31 December 2007 and is (at the time the offsetting forest application is made) not forest land; or
-      (C) pre-1990 forest land (other than exempt land) that was deforested on or after 1 January 2008 and any liability in respect of it to surrender units in relation to the activity listed in Part 1 of Schedule 3 has been satisfied, and is (at the time the offsetting forest application is made) not forest land; or
-      (D) pre-1990 forest land (other than exempt land) that was deforested on or after 1 January 2013 and offset by pre-1990 offsetting forest land, and is (at the time the offsetting forest application is made) not forest land; or
-      (E) exempt land that has been deforested and in respect of which the number of units that would have been required to be surrendered in relation to the activity in Part 1A of Schedule 3 had the land not been exempt land has been surrendered, and is (at the time the offsetting forest application is made) not forest land; and
-  (b) the land is land—
-    (i) that has a total area (whether or not contiguous) that is equal to or greater than the total area of the pre-1990 forest land that is to be offset by that land (whether or not contiguous); and
-    (ii) in which each individual parcel that makes up the total area of the offsetting forest land is at least 1 hectare with an average width of at least 30 metres; and
-  (c) the EPA is satisfied that the land is likely to—
-    (i) achieve carbon equivalence with the pre-1990 forest land that is to be offset by that land within the usual rotation period for forest species of the pre-1990 forest land; and
-    (ii) become forest land before the pre-1990 forest land that is to be offset by that land is deforested; and
-  (d) any other requirements with respect to offsetting specified in this Act or regulations made under this Act are satisfied.
-(2) The EPA may decline any application that does not meet all or any of the requirements specified in subsection (1).
-
-### 186C Conditions applicable to offsetting forest land
-(1) If the EPA approves an offsetting forest land application, the following conditions apply:
-  (a) the offsetting forest land must—
-    (i) become forest land before the relevant pre-1990 forest land is deforested; and
-    (ii) be established by direct planting activities, including direct seeding but excluding natural forest regeneration; and
-    (iii) be established on the land specified in the application approved by the EPA; and
-    (iv) achieve carbon equivalence with the relevant pre-1990 forest land:
-  (b) the owner of the pre-1990 forest land must surrender or repay units if required to do so under section 186H:
-  (c) any relevant conditions prescribed by regulations made under section 186F must be satisfied.
-(2) Subsection (1)﻿(a)﻿(i) is subject to section 179A(1)﻿(b).
-
-### 186D Requirements relating to offsetting forest land
-(1) A person who owns pre-1990 forest land must submit a declaration to the EPA in the prescribed form, before the end of the relevant period specified in section 179A(1)﻿(b), stating that the offsetting forest land has become forest land.
-(2) If the EPA is not satisfied that the land subject to an approved offsetting forest land application has become forest land by the time that the relevant pre-1990 forest land is deforested,—
-  (a) the application is to be treated as revoked under section 186G; and
-  (b) the person who owns the pre-1990 forest land must surrender units for the deforested pre-1990 forest land.
-(3) If the EPA is satisfied that the offsetting forest land has become forest land by the time that the pre-1990 forest land is deforested, the EPA must, on a register kept for the purposes of this section, note—
-  (a) that the offsetting forest land is pre-1990 offsetting forest land; and
-  (b) any conditions placed on that forest land under section 186C or 186F; and
-  (c) the emissions for the relevant pre-1990 forest land.
-(4) The EPA must, upon written request by the person who owns or owned (or who is a prospective transferee of) the relevant pre-1990 offsetting forest land or the relevant pre-1990 forest land, provide a statement containing the information specified in subsection (3) to the person or prospective transferee (as the case may be).
-
-### 186E Deforesting pre-1990 offsetting forest land before usual rotation period of forest species on pre-1990 forest land
-(1) If the owner of pre-1990 offsetting forest land carries out an activity in Part 1A of Schedule 3 before the usual rotation period for forest species on the relevant pre-1990 forest land is completed, the owner must surrender units equivalent to the emissions for the relevant pre-1990 forest land.
-(2) If subsection (1) applies, the EPA must remove the pre-1990 offsetting forest land from the register specified in section 186D(3).
-
-### 186F Regulations relating to offsetting
-(1) The Governor-General may, by Order in Council made on the recommendation of the Minister, make regulations for 1 or more of the following purposes:
-  (a) prescribing the usual rotation period for a forest species:
-  (b) prescribing any conditions that land that is subject to an offsetting forest land application must meet—
-    (i) before the EPA may approve the application; and
-    (ii) after the EPA has approved the application:
-  (c) prescribing the methodology for determining and calculating carbon equivalence:
-  (d) providing for any other matters contemplated by sections 186B and 186C, necessary for their administration, or necessary for giving them full effect.
+### 180G Regulations about exemptions for deforestation of land with tree weeds
+(1) The Governor-General may, by Order in Council made on the recommendation of the Minister, make regulations for 1 or more of the following purposes in relation to exemptions under section 180E:
+  (a) prescribing the types of tree weed for which an application may be made for pre-1990 forest land to be declared exempt land:
+  (b) defining those types of tree weed based on any matter, such as the following:
+    (i) the species of tree weed:
+    (ii) the geographical location of the tree weed:
+    (iii) whether a weed control programme applies to the tree weed:
+  (c) prescribing processes for making applications to the EPA for an exemption, including fees for applications:
+  (d) prescribing the information required in an application, including—
+    (i) information to properly describe or define the land:
+    (ii) evidence about the land and the forest species on the land:
+  (e) prescribing the criteria and priorities that the EPA must consider in deciding whether to grant an exemption:
+  (f) prescribing any requirements or conditions that the EPA may impose on a person whose land is exempted, including for weed control on the land:
+  (g) specifying that 1 or more of the following is different for different types of tree weed:
+    (i) the process for making the application:
+    (ii) the information required in the application:
+    (iii) the criteria and priorities that the EPA must consider:
+    (iv) any requirements or conditions that the EPA may impose on a person whose land is exempted:
+  (h) providing for any other matters contemplated by sections 180E and 180F, necessary for their administration, or necessary for giving them full effect.
 (2) See sections 3A and 3B for consultation requirements that apply to the making of the regulations.
 (3) The regulations come into force 3 months after the date of their publication under the Legislation Act 2019, or on any later date specified in the regulations.
 (4) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
-### 186G EPA may revoke approval in certain circumstances
-(1) The EPA may, in relation to a person specified in section 186A(2) or (3), revoke any approval it has given under section 186B if—
-  (a) the person fails to comply with section 186C; and
-  (b) the EPA has not noted on the register specified in section 186D(3) that the offsetting forest land is pre-1990 offsetting forest land.
-(2) If the EPA revokes an approval, the provisions of this Act, other than section 179A(1)﻿(b), apply to the relevant pre-1990 forest land as if the relevant offsetting forest application had not been made.
-
-### 186H Treatment of allocations in respect of pre-1990 forest land that is offset
-(1) This section applies to any owner of pre-1990 forest land—
-  (a) that was the subject of an offsetting forest land application approved under section 186B; and
-  (b) to which an allocation was made under the pre-1990 forest land allocation plan (before or after the commencement of this section).
-(2) If this section applies, the owner of the pre-1990 forest land must, within 30 working days of the date of notice given by the EPA,—
-  (a) open a holding account under section 18A that has been approved by the Registrar if the owner does not have one; and
-  (b) surrender or repay units equivalent to the portion of units that are allocated, as part of the second tranche, to the pre-1990 forest land that is offset by transferring them to a Crown holding account (whether or not the allocation was actually transferred when allocated).
-(3) The notice referred to in subsection (2) must specify—
-  (a) the number of units that must be repaid; and
-  (b) the Crown holding account to which the units must be transferred.
-(4) If the owner of the pre-1990 forest land complies with subsection (2), but approval is revoked under section 186G or treated as revoked under section 186D(2)﻿(a), the EPA must, in accordance with section 124, reimburse the owner for any units that the owner has surrendered or repaid under subsection (2).
-(5) The EPA must, upon written request by a person who owns or owned (or is a prospective transferee of) pre-1990 forest land, provide a statement to the person or prospective transferee (as the case may be) about an allocation (if any) made under the pre-1990 forest land allocation plan.
-(6) For the purposes of subsection (2), second tranche, in relation to an allocation, means the units that are allocated to a person under the pre-1990 forest land allocation plan on or after 1 January 2013.
-
-### 186I Participant in respect of pre-1990 offsetting forest land
-If an activity listed in Part 1A of Schedule 3 is carried out, the landowner of the pre-1990 offsetting forest land is to be treated as the person carrying out the activity.
-
-### 186J Methodology for pre-1990 offsetting forest land cleared after usual rotation period is completed
-(1) Subsection (2) applies where the trees cleared from pre-1990 offsetting forest land by a person carrying out the activity in Part 1A of Schedule 3 after the usual rotation period is completed are 8 years or younger.
+### 180H Methodology for pre-1990 forest land cleared in 8 years or less
+(1) Subsection (2) applies where the trees cleared from pre-1990 forest land by a person carrying out the activity in Part 1 of Schedule 3 are 8 years or younger.
 (2) If this subsection applies, the participant must,—
-  (a) for the purposes of sections 62(b) and 65(2)﻿(b), apply any prescribed methodology and calculate and record the emissions from the activity as if the trees cleared from the pre-1990 offsetting forest land were trees of the age and species of the oldest trees of the predominant species (as determined by regulations made under section 163 or 186F) cleared from the pre-1990 offsetting forest land during the previous 9 years (excluding any period in which the pre-1990 forest land is temporarily unstocked); and
+  (a) for the purposes of sections 62(1)﻿(b) and 65(2)﻿(b), apply any prescribed methodology and calculate and record the emissions from the activity as if the trees cleared from the pre-1990 forest land were trees of the age and species of the oldest trees of the predominant species (as determined by regulations made under section 163) cleared from the pre-1990 forest land during the previous 9 years (excluding any period in which the pre-1990 forest land is temporarily unstocked); and
   (b) surrender units under this Act based on emissions calculated and recorded in accordance with paragraph (a).
-(3) A methodology for calculating emissions from the activity in Part 1A of Schedule 3 prescribed in regulations under section 163 or 186F must relate to the trees that are cleared from the pre-1990 offsetting forest land as part of the deforestation activity.
+(3) A methodology for calculating emissions from the activity in Part 1 of Schedule 3 prescribed in regulations under section 163 must relate to the trees that are cleared from the pre-1990 forest land as part of the deforestation activity.
 
-### Subpart 4 — Post-1989 forest land
+### Subpart 3 — P90 offsetting land
 
-**Post-1989 forest land**
+### 181 Interpretation
+In this subpart,—
+  - **area 1 (approved) land** means land that—
+    (a) has become area 1 (approved) land under section 181C(2)﻿(a); and
+    (b) has not ceased to be area 1 (approved) land under section 181N(2)﻿(a) to (d)
+  - **area 1 (damaged) land** has the meaning given in section 181G(3)﻿(a)﻿(iii)
+  - **area 1 (forested) land** has the meaning given in section 181G(3)﻿(a)﻿(ii)
+  - **area 1 (not offset) land** has the meaning given in section 181G(3)﻿(a)﻿(iv)
+  - **area 1 (offset) land** has the meaning given in section 181G(3)﻿(a)﻿(i)
+  - **area 2 (approved) land** means land that—
+    (a) has become area 2 (approved) land under section 181C(2)﻿(c) or 181J(2)﻿(b); and
+    (b) has not ceased to be area 2 (approved) land under section 181N(2)﻿(e) to (i)
+  - **area 2 (damaged) land** has the meaning given in section 181G(3)﻿(b)﻿(iii)
+  - **area 2 (excess) land** means land that—
+    (a) has become area 2 (excess) land under section 181G(3)﻿(b)﻿(iv); and
+    (b) has not ceased to be area 2 (excess) land under section 181N(5)
+  - **area 2 (forested) land** has the meaning given in section 181G(3)﻿(b)﻿(i)
+  - **area 2 (non-ETS) land** has the meaning given in section 181G(3)﻿(b)﻿(v)
+  - **area 2 (unforested) land** has the meaning given in section 181G(3)﻿(b)﻿(ii)
+  - **baseline carbon stock** has the meaning given in section 181F(2)
+  - **baseline date** has the meaning given in section 181F(3)
+  - **default P90 offset date** has the meaning given in section 181F(5)﻿(a)
+  - **expected carbon stock** has the meaning given in section 181F(4)
+  - **P90 offset application** means an application submitted to the EPA under section 181A
+  - **P90 offset application date** means the date on which a P90 offset application is submitted to the EPA under section 181A
+  - **P90 offset date** has the meaning given in section 181F(5)
+  - **P90 offset release criteria** has the meaning given in section 181F(1)
+  - **P90 offsetting land** means land that—
+    (a) has become P90 offsetting land under section 181N(2)﻿(e); and
+    (b) has not ceased to be P90 offsetting land under—
+      (i) section 181R(1)﻿(a), for clearing before the required equivalence date; or
+      (ii) section 181S(1)﻿(a), for deforestation before the required equivalence date; or
+      (iii) section 181T(1)﻿(a), on the required equivalence date
+  - **P90 release criteria notice** means a notice given under section 181G(1)
+  - **required equivalence date** has the meaning given in section 181F(6).
 
-### 187 Conditions on registration as participant in respect of certain activities relating to post-1989 forest land
-(1) A person may not be registered as a participant under section 57 in respect of an activity listed in Part 1 of Schedule 4 that relates to—
+**P90 offset application**
+
+### 181A Application to offset land for pre-1990 forest land
+(1) The owner of pre-1990 forest land may apply to the EPA to offset other land for the pre-1990 forest land.
+(2) The application must—
+  (a) specify the pre-1990 forest land to which the application relates (area 1); and
+  (b) specify the land proposed as offsetting land for that pre-1990 forest land (area 2); and
+  (c) include any information prescribed in regulations made under section 181W.
+(3) If area 1 and area 2 are owned by different persons, the application must be made jointly by all the owners of both areas.
+(4) The application must—
+  (a) be signed by all of the applicants; and
+  (b) be submitted—
+    (i) in the prescribed manner and format; and
+    (ii) together with the prescribed fee (if any); and
+    (iii) together with the prescribed information (if any).
+
+### 181B Criteria for P90 offset application
+(1) If a person submits a P90 offset application, the EPA,—
+  (a) if satisfied that the criteria in subsection (2) were met on the P90 offset application date, must approve the application; or
+  (b) otherwise, may decline the application (then see section 181D).
+(2) The criteria are that—Area 1 criteriaArea 2 criteriaParticipant criteriaP90 offset release criteriaPrescribed criteria
+  (a) the land in area 1 is pre-1990 forest land that is one or other of the following:
+    (i) land that was first planted before 1 January 1990; or
+    (ii) land that was harvested and re-established after 1 January 1960; and
+  (b) the land in area 2 is 1 or more of the following:
+    (i) land that is not forest land on the P90 offset application date but, if it were to become forest land,—
+      (A) would be post-1989 forest land; and
+      (B) if it were in a carbon accounting area, would meet the criteria in section 191C for having a first rotation forest:
+    (ii) post-1989 forest land that—
+      (A) became post-1989 forest land less than 2 years before the P90 offset application date; and
+      (B) meets the criteria in section 191C for having a first rotation forest (or would do so if it were in a carbon accounting area):
+    (iii) area 2 (excess) land, unless the re-use period prescribed in regulations made under section 181W has expired:
+    (iv) P89 offsetting (excess) land (as defined in section 192), unless the re-use period prescribed in regulations made under section 181W has expired; and
+  (c) if any of the land in area 2 is in a carbon accounting area, all of the land in the carbon accounting area—
+    (i) is land to which paragraph (b) applies; and
+    (ii) is part of area 2; and
+  (d) the total area (whether contiguous or not) of area 2 is equal to or greater than the total area (whether contiguous or not) of area 1; and
+  (e) each individual parcel that makes up area 2 has an area of at least 1 hectare with an average width of at least 30 metres; and
+  (f) each person who will be a participant in respect of land in area 2 would be eligible to be a participant under section 57 if the person were carrying out an activity listed in Part 1 of Schedule 4 on that land; and
+  (g) the EPA is satisfied that, if all of the land in area 1 becomes area 1 (offset) land, on the P90 offset date the P90 offset release criteria are likely to be met; and
+  (h) any other criteria prescribed in regulations made under section 181W are met.
+
+### 181C Effect of approval of P90 offset application
+(1) This section applies if the EPA approves a P90 offset application.
+(2) Starting on the P90 offset application date,—
+  (a) area 1 is area 1 (approved) land; and
+  (b) if any of the land in area 2 is in a carbon accounting area, the participant for that land—
+    (i) is liable to surrender the number of units equal to the unit balance of that carbon accounting area; and
+    (ii) ceases to be a participant in the relevant activity on that carbon accounting area; and
+  (c) area 2 is the area 2 (approved) land for area 1.
+(3) If subsection (2)﻿(b) applies, the EPA must amend the register kept under section 57, and the records of carbon accounting areas kept under section 182C(2), to record the effects of this section.
+(4) If subsection (2)﻿(b)﻿(i) applies,—
+  (a) the notice requiring those units to be surrendered (referred to in section 63(4)) must also set out the effect of paragraph (b); and
+  (b) if the units are not surrendered by the due date, the EPA may revoke the approval by giving written notice to the participant.
+(5) If an approval is revoked under subsection (4), this Act applies as if the application had never been made.
+(6) However, despite subsection (5), the effect of subsection (2)﻿(b)﻿(ii) is not reversed (so the person is not reinstated as a participant for the carbon accounting area).
+
+### 181D Effect of P90 offset application being declined
+(1) This section applies if—
+  (a) the EPA declines a P90 offset application; and
+  (b) an activity listed in Part 1 of Schedule 3 was carried out on any of the land in area 1 (the affected land) on a date (date D) that was on or after the P90 offset application date but before the application was declined.
+(2) The owner of the affected land on date D—
+  (a) is liable to surrender the number of units they would have been required to surrender when that activity was carried out if the application had not been made; and
+  (b) must comply with sections 56 and 65 in relation to that liability.
+(3) The emissions return required under subsection (2)﻿(b) must cover the period starting on the P90 offset application date and ending on date D, as if that period were all part of the immediately preceding year.
+
+**Liability to surrender allocation**
+
+### 181E Allocations for pre-1990 forest land to be surrendered when application approved
+(1) This section applies in relation to pre-1990 forest land if—
+  (a) the land becomes area 1 (approved) land; and
+  (b) an allocation was made in respect of the land as part of the second tranche (whether or not the units were actually transferred when allocated).
+(2) The owner of the land must,—
+  (a) if they do not have a holding account under section 18A, open a holding account; and
+  (b) surrender or repay the number of units equal to the number allocated as part of the second tranche by transferring them to a Crown holding account.
+(3) The owner must do so within 30 working days after the EPA gives them a notice requiring them to do so.
+(4) The notice must specify—
+  (a) the number of units to be surrendered or repaid; and
+  (b) the Crown holding account to which the units must be transferred.
+(5) In this section, second tranche means the allocation of units under the pre-1990 forest land allocation plan that were transferred on or after 1 January 2013.
+
+**Offsetting on P90 offset date**
+
+### 181F P90 offset release criteria
+(1) The P90 offset release criteria in respect of area 1 (approved) land and its area 2 (approved) land are that, on the P90 offset date,—
+  (a) the area of the area 2 (forested) land and any area 2 (damaged) land is equal to or greater than the area of the area 1 (offset) land; and
+  (b) the expected carbon stock of the area 2 (forested) land and any area 2 (damaged) land is equal to or greater than the baseline carbon stock for the area 1 (offset) land; and
+  (c) any other criteria prescribed in regulations made under section 181W are met.
+(2) The baseline carbon stock for area 1 (offset) land is the carbon stock that the land had on the baseline date, determined in accordance with regulations made under section 181W.
+(3) The baseline date, for area 1 (approved) land, is—
+  (a) if, on the P90 offset application date, every hectare of land in area 1 had forest species on it that had tree crown cover of more than 30%, the P90 offset application date; or
+  (b) if not, the date on which the clearing of area 1 started most recently before the P90 offset application date.
+(4) The expected carbon stock,—
+  (a) of area 2 (forested) land, is the carbon stock that the land is expected to have achieved on the required equivalence date determined in accordance with regulations made under section 181W; and
+  (b) of area 2 (damaged) land, is the carbon stock that the land would have been expected to have achieved on the required equivalence date had it not been affected by the adverse natural event determined in accordance with regulations made under section 181W.
+(5) The P90 offset date, in relation to area 1 (approved) land, is—
+  (a) the date 4 years after the baseline date (the default P90 offset date); or
+  (b) if a P90 release criteria notice is given before the default P90 offset date, the date on which the notice is given.
+(6) The required equivalence date is the last day of the period that—
+  (a) starts when the forest species on area 2 (approved) land are first established; and
+  (b) ends at the end of the usual rotation period prescribed in regulations made under section 181W for the forest species that were on the area 1 (approved) land on the baseline date.
+
+### 181G P90 release criteria notice
+(1) The owners of the land in area 1 and area 2 must give notice (P90 release criteria notice) to the EPA under this section identifying the status of all land in area 1 and area 2 (including any additional land in relation to which an application is being made under section 181H) on the P90 offset date.
+(2) The P90 release criteria notice—
+  (a) may be given before the default P90 offset date (under section 181F(5)﻿(a)); but
+  (b) if not given before that date, must be given within 60 working days after the default P90 offset date.
+(3) The P90 release criteria notice must—
+  (a) identify all of the land in area 1 as one of the following:
+    (i) area 1 (offset) land, being all the land in area 1 (other than any area 1 (damaged) land) that, on the P90 offset date,—
+      (A) has ceased to be forest land; or
+      (B) has been cleared with the intention that it will cease to be forest land:
+    (ii) area 1 (forested) land, being all the land in area 1 that is still forest land on the P90 offset date, other than any land that is area 1 (offset) land under subparagraph (i)﻿(B):
+    (iii) area 1 (damaged) land, being any land in area 1 that has been affected by a natural event that permanently prevents re-establishing a forest on the land:
+    (iv) area 1 (not offset) land, being any land in area 1 that section 181L requires to be identified as area 1 (not offset) land; and
+  (b) identify all of the land in area 2 as one of the following:
+    (i) area 2 (forested) land, being all the land in area 2 that is qualifying forest land on the P90 offset date, other than any land that is area 2 (excess) land or area 2 (non-ETS) land:
+    (ii) area 2 (unforested) land, being all the land in area 2 that is not qualifying forest land on the P90 offset date, other than land that is area 2 (damaged) land:
+    (iii) area 2 (damaged) land, being any land in area 2 that, before the P90 offset date, was affected by a natural event that permanently prevents establishing a forest on the land:
+    (iv) area 2 (excess) land, being any land in area 2 that—
+      (A) is qualifying forest land on the P90 offset date (but see subsection (4)); and
+      (B) does not need to be included in the area 2 (forested) land in order for the P90 offset release criteria to be met; and
+      (C) the owners want to be excluded from the area 2 (forested) land and to be available for re-use under section 181B(2)﻿(b)﻿(iii) or 192B(2)﻿(c)﻿(iii):
+    (v) area 2 (non-ETS) land, being any land in area 2 that—
+      (A) is qualifying forest land on the P90 offset date (but see subsection (4)); and
+      (B) does not need to be included in the area 2 (forested) land in order for the P90 offset release criteria to be met; and
+      (C) the owners want to be excluded from the area 2 (forested) land but not to be available for re-use under section 181B(2)﻿(b)﻿(iii) or 192B(2)﻿(c)﻿(iii); and
+  (c) specify—
+    (i) the baseline carbon stock for the area 1 (offset) land; and
+    (ii) the expected carbon stock of the area 2 (forested) land; and
+  (d) include any information prescribed in regulations made under section 181W.
+(4) If an application is made under section 181H to add additional land, the additional land must be identified as area 2 (forested) land.
+(5) The P90 release criteria notice must—
+  (a) be made jointly by all of the persons who, on the P90 offset date, own land in area 1 or area 2 (including any additional land in relation to which an application is made under section 181H); and
+  (b) be signed by all of the owners; and
+  (c) be given within 60 working days after the P90 offset date; and
+  (d) be given—
+    (i) in the prescribed manner and format; and
+    (ii) together with the prescribed fee (if any); and
+    (iii) together with the prescribed information (if any).
+(6) Land is qualifying forest land if—
+  (a) each hectare of the land has forest species on it that have, or are likely to have, tree crown cover of more than 30%; and
+  (b) those forest species were established by direct planting activities, including direct seeding but excluding natural forest regeneration; and
+  (c) each individual parcel that makes up the land has an area of at least 1 hectare and has an average width of at least 30 metres.
+
+### 181H Application to add area 2 (approved) land
+(1) An application to add more land (additional land) to the area 2 (approved) land may be made when the P90 release criteria notice is given to the EPA.
+(2) The application must—
+  (a) be made jointly by all of the persons who own land in area 1, area 2, or the additional land; and
+  (b) be signed by all of the applicants; and
+  (c) be given—
+    (i) in the prescribed manner and format; and
+    (ii) together with the prescribed fee (if any); and
+    (iii) together with the prescribed information (if any).
+
+### 181I Criteria for adding area 2 (approved) land
+(1) If an application is made under section 181H, the EPA,—
+  (a) if satisfied that the criteria in subsection (2) are met, must approve the application; or
+  (b) otherwise, may decline the application.
+(2) The criteria are that—
+  (a) the additional land—
+    (i) is land of a kind specified in section 181B(2)﻿(b)﻿(ii), (iii), or (iv); and
+    (ii) is qualifying forest land (as defined in section 181G(6)); and
+  (b) if the application is not approved, on the P90 offset date the P90 offset release criteria in section 181F(1)﻿(a) or (b) (or both) will not be met; and
+  (c) the area of the additional land is not more than is necessary to enable the P90 offset release criteria to be met; and
+  (d) any other criteria prescribed in regulations made under section 181W are met.
+
+### 181J Effect of approval of application to add area 2 (approved) land
+(1) This section applies if the EPA approves an application under section 181H to add land to the area 2 (approved) land.
+(2) On the P90 offset date (but before section 181N takes effect),—
+  (a) if any of the additional land is a carbon accounting area, the participant for that land—
+    (i) is liable to surrender the number of units equal to the unit balance of that carbon accounting area; and
+    (ii) ceases to be a participant in the relevant activity on that carbon accounting area; and
+  (b) the additional land becomes part of the area 2 (approved) land (and is therefore part of area 2 and becomes area 2 (forested) land (see section 181G(3)﻿(b)﻿(i) and (4)).
+(3) If subsection (2)﻿(a) applies, the EPA must amend the register kept under section 57, and the records of carbon accounting areas kept under section 182C(2), to record the effects of this section.
+(4) If subsection (2)﻿(a)﻿(i) applies,—
+  (a) the notice requiring those units to be surrendered (referred to in section 63(4)) must also set out the effect of paragraph (b); and
+  (b) if the units are not surrendered by the due date, the EPA may revoke the approval by giving written notice to the participant.
+(5) If an approval is revoked under subsection (4), this Act applies as if the application had never been made, except that—
+  (a) the effect of subsection (2)﻿(a)﻿(ii) is not reversed (so the person is not reinstated as a participant for the carbon accounting area); and
+  (b) section 181M does not apply.
+
+### 181K Effect of application to add area 2 (approved) land being declined
+(1) This section applies if the EPA declines an application under section 181H to add land to the area 2 (approved) land.
+(2) The EPA must notify the applicants of—
+  (a) the decision and the reasons for it; and
+  (b) the owners’ right under section 144 to seek a review of that decision; and
+  (c) the effect of subsection (3) and section 128A.
+(3) If the EPA gives a notice under subsection (2),—
+  (a) the P90 release criteria notice that was accompanied by the application is taken not to have been given; and
+  (b) the owners must give the EPA—
+    (i) a revised P90 release criteria notice for area 1 and area 2; and
+    (ii) if they wish to do so, another application under section 181H to add additional land; and
+  (c) the deadline for giving the P90 release criteria notice under section 181G(2)﻿(b) is extended to 60 working days after the notice was given under subsection (2).
+(4) However, if the owners have previously given a revised notice under subsection (3)﻿(b)﻿(i) that was accompanied by an application under section 181H,—
+  (a) subsection (3)﻿(b)﻿(ii) does not apply and the owners cannot make another application under section 181H; and
+  (b) section 181M does not apply.
+
+### 181L Land that must be identified as area 1 (not offset) land
+(1) Land in area 1 must be identified as area 1 (not offset) land if, in the absence of this section,—
+  (a) the land would be identified as area 1 (offset) land; and
+  (b) either or both of the following would apply:
+    (i) the area of the area 1 (offset) land would be greater than the area of the area 2 (forested) land and any area 2 (damaged) land:
+    (ii) the baseline carbon stock for the area 1 (offset) land would be greater than the expected carbon stock of the area 2 (forested) land and any area 2 (damaged) land.
+(2) The area of any land identified as area 1 (not offset) land must be the minimum area necessary to result in the P90 offset release criteria being met.
+
+### 181M Extension of time to add area 2 (approved) land
+(1) This section applies if—
+  (a) a P90 release criteria notice is given to the EPA within the time required by section 181G(2); and
+  (b) an application under section 181H was not made when the P90 release criteria notice was given; and
+  (c) the P90 release criteria notice is not a revised notice given under section 181K(3)﻿(b); and
+  (d) the EPA is not satisfied that the P90 release criteria notice identifies the land in a way that results in the P90 offset release criteria being met.
+(2) The EPA may, by giving a notice to the owners of area 1 and area 2, offer them an opportunity to submit a revised P90 release criteria notice with an application under section 181H.
+(3) The EPA’s notice must set out—
+  (a) the reasons for the EPA’s decision that the P90 release criteria notice is not correct; and
+  (b) the owners’ right under section 144 to seek a review of that decision; and
+  (c) the effect of subsection (4) and section 128A.
+(4) If the EPA gives a notice under subsection (2),—
+  (a) the P90 release criteria notice referred to in subsection (1)﻿(a) is taken not to have been given; and
+  (b) the owners must give the EPA—
+    (i) a revised P90 release criteria notice for area 1 and area 2; and
+    (ii) if they wish to do so, an application under section 181H to add additional land; and
+  (c) the deadline for giving the P90 release criteria notice under section 181G(2)﻿(b) is extended to 60 working days after the notice was given under subsection (2).
+
+### 181N Effect on P90 offset date
+(1) This section applies if a P90 release criteria notice is given to the EPA in accordance with section 181G.
+(2) With effect on the P90 offset date,—
+  (a) the area 1 (offset) land—
+    (i) ceases to be area 1 (approved) land; and
+    (ii) is the land against which the area 2 (forested) land and area 2 (damaged) land are compared to determine whether the P90 offset release criteria are met; and
+  (b) the area 1 (forested) land—
+    (i) ceases to be area 1 (approved) land; and
+    (ii) is not part of the land used to determine whether the P90 offset release criteria are met; and
+  (c) the area 1 (damaged) land—
+    (i) ceases to be area 1 (approved) land; and
+    (ii) is not part of the land used to determine whether the P90 offset release criteria are met; and
+  (d) the area 1 (not offset) land—
+    (i) ceases to be area 1 (approved) land; and
+    (ii) is not part of the land used to determine whether the P90 offset release criteria are met; and
+  (e) the area 2 (forested) land—
+    (i) is part of the land used to determine whether the P90 offset release criteria are met; and
+    (ii) becomes P90 offsetting land (then see sections 181P to 181T and Part 1A of Schedule 3); and
+    (iii) ceases to be area 2 (approved) land; and
+  (f) the area 2 (unforested) land—
+    (i) is not part of the land used to determine whether the P90 offset release criteria are met; and
+    (ii) ceases to be area 2 (approved) land; and
+  (g) the area 2 (damaged) land—
+    (i) is part of the land used to determine whether the P90 offset release criteria are met; and
+    (ii) ceases to be area 2 (approved) land; and
+  (h) the area 2 (excess) land—
+    (i) is not part of the land used to determine whether the P90 offset release criteria are met; and
+    (ii) ceases to be area 2 (approved) land, but remains area 2 (excess) land subject to subsection (5); and
+  (i) the area 2 (non-ETS) land—
+    (i) is not part of the land used to determine whether the P90 offset release criteria are met; and
+    (ii) ceases to be area 2 (approved) land and area 2 (non-ETS) land.
+(3) Starting on the P90 offset date, the owner of the area 1 (not offset) land on the P90 offset date—
+  (a) is liable to surrender units as a result of the deforestation of the land as if that deforestation had occurred on the P90 offset date (see also section 180A(7)﻿(b)); and
+  (b) must comply with sections 56 and 65 in relation to that liability.
+(4) To avoid doubt,—
+  (a) the owner of the area 1 (offset) land incurs no liability under section 63 for the deforestation (because of section 179A(1)﻿(b)); and
+  (b) the owner of the area 1 (forested) land is not liable to surrender any units (because the land has not been deforested); and
+  (c) the owner of the area 1 (damaged) land is not liable to surrender any units (because the land is excluded from Part 1 of Schedule 3).
+(5) Land ceases to be area 2 (excess) land if the land—
+  (a) becomes area 2 (approved) land as a result of being included in a P90 offset application under section 181B(2)﻿(b)﻿(iii); or
+  (b) becomes P89 offsetting (approved) land as a result of being included in a P89 offset application under section 192B(2)﻿(c)﻿(iii); or
+  (c) becomes part of a carbon accounting area as a result of an application under section 182C(1) or (3).
+(6) The EPA must update the register kept under section 181U to record the effect of this section.
+
+### 181O Reimbursement of surrendered allocation
+(1) This section applies if—
+  (a) a person surrendered units in respect of area 1 (approved) land in accordance with section 181E(2); and
+  (b) on the P90 offset date, any of that land is area 1 (forested) land or area 1 (damaged) land.
+(2) Starting on the P90 offset date, the EPA is liable to reimburse to that person (whether or not they still own the land) the number of units surrendered under section 181E(2) in respect of that area 1 (forested) land or area 1 (damaged) land.
+
+**P90 offsetting land**
+
+### 181P Participant in respect of P90 offsetting land
+If an activity listed in Part 1A of Schedule 3 is carried out on P90 offsetting land, the landowner is to be treated as the person carrying out the activity.
+
+### 181Q Clearing or deforestation before required equivalence date
+(1) This section applies if—
+  (a) a P90 offset application was approved; and
+  (b) on the P90 offset date, the area 2 (approved) land became P90 offsetting land for the area 1 (offset) land; and
+  (c) before the required equivalence date, either or both of the following occur on some or all of the P90 offsetting land (the affected land):
+    (i) the land is cleared:
+    (ii) an activity listed in Part 1A of Schedule 3 (a Part 1A activity) is carried out on the land.
+(2) If the affected land is cleared, section 181R applies in relation to the clearing of the land.
+(3) If a Part 1A activity is carried out on the affected land, section 181S applies in relation to that activity.
+(4) If the affected land is cleared and later (but still before the required equivalence date) a Part 1A activity is carried out on the affected land,—
+  (a) if, before the Part 1A activity is carried out, the owner submits an emissions return as required by section 181R(1)﻿(b)﻿(ii),—
+    (i) section 181R applies in relation to the clearing of the land; and
+    (ii) section 181S does not apply in relation to the Part 1A activity; or
+  (b) if the owner does not submit an emissions return as required by section 181R(1)﻿(b)﻿(ii) before the Part 1A activity is carried out,—
+    (i) section 181R does not apply in relation to the clearing of the land; and
+    (ii) section 181S applies in relation to the Part 1A activity.
+(5) For the purposes of this section and section 181R, a hectare of P90 offsetting land that has been cleared is to be treated as having been cleared on the first date on which any part of that hectare was cleared.
+
+### 181R Clearing before required equivalence date
+(1) If this section applies in relation to the clearing of affected land, starting on the date on which the clearing occurred,—
+  (a) the affected land ceases to be P90 offsetting land; and
+  (b) the owner of the affected land—
+    (i) is liable to surrender the units as if the affected land were deforested on the date on which it was cleared; and
+    (ii) must submit an emissions return as required by section 65 in relation to that deemed deforestation; and
+    (iii) if they do not have a holding account under section 18A, must open a holding account.
+(2) However, the number of units the owner is liable to surrender under subsection (1)﻿(b)﻿(i) is the number calculated under subsection (3) instead of the number of units they would otherwise be liable to surrender under section 63.
+(3) The number of units to be surrendered (s) is calculated as follows:s = (d ÷ a) × nwhere—dis the area of the affected land (in hectares)ais the total area of all of the area 1 (approved) land referred to in section 181Q(1)﻿(b) (in hectares)nis the baseline carbon stock of the area 1 (offset) land, as recorded under section 181U(2)﻿(d) (in tonnes).
+(4) In the emissions return required under subsection (1)﻿(b)﻿(ii), the relevant portion of the emissions from the area 1 (offset) land is to be recorded as if it were the emissions from deforestation of the affected land.
+(5) The liability under subsection (1)﻿(b)﻿(i) is to be treated as a liability to surrender units for emissions from the deemed deforestation on the P90 offsetting land.
+(6) The EPA must update the register under section 181U to record the effect of this section.
+(7) To avoid doubt, the affected land is not to be treated as having been deforested other than as required by this section.
+
+### 181S Deforestation before required equivalence date
+(1) If this section applies in relation to the carrying out of a Part 1A activity on affected land, starting on the date on which the activity was carried out,—
+  (a) the affected land ceases to be P90 offsetting land; and
+  (b) the owner of the affected land—
+    (i) must submit an emissions return as required by section 65 as a result of the carrying out of the activity; but
+    (ii) is liable to surrender the number of units calculated under subsection (2) instead of the number of units they would otherwise be liable to surrender under section 63 for the emissions from the carrying out of the activity.
+(2) The number of units to be surrendered (s) is calculated as follows:s = (d ÷ a) × nwhere—dis the area of the affected land (in hectares)ais the total area of all of the area 1 (approved) land referred to in section 181Q(1)﻿(b) (in hectares)nis the baseline carbon stock of the area 1 (offset) land, as recorded under section 181U(2)﻿(d) (in tonnes).
+(3) In the emissions return required under subsection (1)﻿(b)﻿(i), the relevant portion of the emissions from the area 1 (offset) land is to be recorded as if it were the emissions from the carrying out of the activity.
+(4) The liability under subsection (1)﻿(b)﻿(ii) is to be treated as a liability to surrender units for emissions from the carrying out of the activity on the P90 offsetting land.
+(5) The EPA must update the register under section 181U to record the effect of this section.
+
+### 181T P90 offsetting land becomes pre-1990 forest land
+(1) On the required equivalence date, the P90 offsetting land—
+  (a) ceases to be P90 offsetting land; and
+  (b) becomes pre-1990 forest land.
+(2) The EPA must update the register under section 181U to record the effect of this section.
+
+**Administrative matters**
+
+### 181U P90 offsetting land register
+(1) The EPA must keep a register of the following:
+  (a) P90 offsetting land:
+  (b) land that has become pre-1990 forest land under section 181T and has not been recorded in the register under section 56:
+  (c) area 2 (excess) land.
+(2) The register must include the following information about the registered land:
+  (a) whether it is P90 offsetting land, pre-1990 forest land, or area 2 (excess) land:
+  (b) a description of the land:
+  (c) the area of the land (in hectares):
+  (d) for P90 offsetting land, the baseline carbon stock of the relevant area 1 (offset) land (in tonnes):
+  (e) for pre-1990 forest land, the date on which it became pre-1990 forest land:
+  (f) for area 2 (excess) land, the date on which it became area 2 (excess) land.
+
+### 181V EPA to give information on request
+(1) The EPA must, on request, give a copy of the information on the register under section 181U about P90 offsetting land to the owner of that land or the relevant area 1 (offset) land.
+(2) The EPA must, on request, give the owner of pre-1990 forest land a statement of the number of units (if any) the owner would be liable to surrender under section 181E if that section were to apply in relation to the land.
+(3) In this section,—
+  - **owner** , in relation to land, means a person who owns the land, or has previously owned it, or is a prospective transferee of it
+  - **request** means a written request from the person to whom the information is to be given.
+
+### 181W Regulations for P90 offsetting
+(1) The Governor-General may, by Order in Council made on the recommendation of the Minister, make regulations for 1 or more of the following purposes:
+  (a) prescribing the information to be included in, and other requirements for,—
+    (i) P90 offset applications (section 181A):
+    (ii) P90 release criteria notices (section 181G):
+    (iii) applications to add land to area 2 (approved) land (section 181I):
+  (b) prescribing re-use periods for area 2 (excess) land or P89 offsetting (excess) land (section 181B(2)﻿(b)﻿(iii) and (iv)):
+  (c) prescribing additional criteria for approval of—
+    (i) P90 offset applications (section 181B(2)﻿(h)):
+    (ii) applications to add land to area 2 (approved) land (section 181I):
+  (d) prescribing additional P90 offset release criteria (section 181F(1)﻿(c)):
+  (e) prescribing the methodology for determining—
+    (i) baseline carbon stock (section 181F(2)):
+    (ii) expected carbon stock (section 181F(4)):
+  (f) prescribing usual rotation periods for forest species (section 181F(6)):
+  (g) providing for any other matters contemplated by this subpart, necessary for its administration, or necessary for giving it full effect.
+(2) See sections 3A and 3B for consultation requirements that apply to the making of the regulations.
+(3) The regulations come into force 3 months after the date of their publication under the Legislation Act 2019 or on any later date specified in the regulations.
+(4) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+
+### Subpart 4 — Post-1989 forest land (standard and permanent forestry)
+
+### 182 Standard and permanent forestry on post-1989 forest land
+(1) In this subpart,—
+  - **final forestry emissions return** means an emissions return that is prepared under section 183B and is not a provisional forestry emissions return
+  - **permanent forestry** means an activity listed in Part 1A of Schedule 4
+  - **provisional forestry emissions return** means an emissions return submitted under section 183
+  - **standard forestry** means an activity listed in Part 1 of Schedule 4.
+(2) To avoid doubt, standard forestry and permanent forestry comprise the same list of activities carried out in respect of post-1989 forest land, but the difference is that the person carrying out the activity has chosen the relevant Part of Schedule 4 to apply to the land.
+
+### 182A Conditions on registration as participant in certain activities of standard or permanent forestry in respect of post-1989 forest land
+(1) A person may not be registered as a participant under section 57 in respect of an activity of standard forestry or permanent forestry that relates to—
   (a) owning any post-1989 forest land, unless the person is the landowner of the post-1989 forest land and—
     (i) there is no forestry right or lease registered in respect of that land; or
     (ii) the person has the written agreement of any holder of a registered forestry right or registered lease in respect of that land to the person registering as a participant; or
-  (b) holding a registered forestry right or being the leaseholder under a registered lease in respect of any post-1989 forest land, unless the person,—
+  (b) holding a registered forestry right or being the leaseholder under a registered lease in respect of any post-1989 forest land, unless the person—
     (i) is the holder of the registered forestry right or the leaseholder of the registered lease; and
     (ii) has the written agreement of the landowner of the land to the forestry right holder or leaseholder, as the case may be, registering as a participant.
-(2) A person may not be registered as a participant under section 57 in respect of carrying out an activity listed in Part 1 of Schedule 4 in relation to exempt land that has been deforested 8 or less years ago unless the person—
+(2) A person may not be registered as a participant under section 57 in respect of an activity of standard forestry or permanent forestry in relation to exempt land that has been deforested 8 or less years ago unless the person—
   (a) has submitted an emissions return to the EPA that—
     (i) records the emissions from the deforestation of the land—
       (A) that would have been required to have been recorded in an annual emissions return under section 65, had the land not been declared to be exempt land; and
@@ -4663,82 +5071,53 @@ If an activity listed in Part 1A of Schedule 3 is carried out, the landowner of 
     (iv) is signed by the person submitting the application; and
   (b) has surrendered, within 60 working days after the EPA gives the person a notice requiring the surrender, the number of units listed in the assessment under paragraph (a)﻿(ii); and
   (c) complies with subsection (1), if applicable.
-(3) To avoid doubt, if there is a person registered as a participant in respect of carrying out an activity listed in Part 1 of Schedule 4 in respect of any post-1989 forest land, no other person may be registered as a participant in respect of carrying out a different activity listed in Part 1 of Schedule 4 in respect of that land.
-(4) A person may not be registered as a participant under section 57 in respect of carrying out an activity listed in Part 1 of Schedule 4 in respect of post-1989 forest land unless—
+(3) To avoid doubt, if any person is registered as a participant carrying out an activity of standard forestry or permanent forestry in respect of any post-1989 forest land, no person (including that person) can be registered as a participant carrying out a different activity of standard forestry or permanent forestry in respect of that land.
+(4) A person may not be registered as a participant under section 57 in respect of an activity of standard forestry or permanent forestry in relation to post-1989 forest land unless—
   (a) any action taken by the person in respect of the post-1989 forest land since 1 January 2008 (including, but not limited to, removal of any existing vegetation before planting of a forest species on the land) complied with the Resource Management Act 1991, including any plan under that Act, or the Forests Act 1949 that was in force at the time the action was taken; and
-  (b) if the post-1989 forest land is subject to a pest management plan under the Biosecurity Act 1993 that imposes requirements in respect of any forest species on the land, the person—
-    (i) has complied with the requirements; or
+  (b) if the post-1989 forest land is subject to a pest management plan under the Biosecurity Act 1993 that imposes requirements in respect of any forest species on the land, the person has—
+    (i) complied with the requirements; or
     (ii) verified that any other person required to comply with the requirements has done so.
-(5) A person may not be registered as a participant under section 57 in respect of carrying out an activity listed in Part 1 of Schedule 4 in relation to post-1989 forest land where the forest species on the land is predominantly naturally regenerated tree weeds unless the EPA is satisfied that the risk of tree weed spread from the land that is the subject of the application for registration is low.
+(5) A person may not be registered as a participant under section 57 in respect of an activity of standard forestry or permanent forestry in relation to post-1989 forest land where the forest species on the land is predominantly naturally regenerated tree weeds unless the EPA is satisfied that the risk of tree weed spread from the land that is the subject of the application for registration is low.
 (6) Subsection (5) does not apply to any person who has registered as a participant before 1 January 2013.
 
-### 187A EPA to give public notice of criteria for assessing risk of tree weed spread
+### 182B EPA to give public notice of criteria for assessing risk of tree weed spread
 The EPA must give public notice of the criteria for assessing the risk of tree weed spread from land that is the subject of an application for registration under section 57.
 
-### 188 Registration as participant in respect of post-1989 forest land
-(1) An application under section 57 to be registered as a participant in respect of an activity listed in Part 1 of Schedule 4—
+### 182C Registration as participant in standard or permanent forestry
+(1) An application under section 57 to be registered as a participant in respect of an activity of standard forestry or permanent forestry—
   (a) may be submitted for all post-1989 forest land in respect of which the applicant carries out the activity, or any part of the land in respect of which the applicant carries out the activity; and
   (b) must define the carbon accounting area or areas in respect of which the applicant wishes to be a participant; and
   (c) must be accompanied by a declaration, in the prescribed form, that—
-    (i) any action taken by the applicant since 1 January 2008 in relation to the post-1989 forest land in respect of which the application is submitted (including, but not limited to, removal of any existing vegetation before planting of a forest species on the land) complied with the Resource Management Act 1991, including any plan under that Act, or the Forests Act 1949, that was in force at the time the action was taken; and
+    (i) any action taken by the applicant since 1 January 2008 in relation to the post-1989 forest land in respect of which the application is submitted (including, but not limited to, removal of any existing vegetation before planting of a forest species on the land) complied with the Resource Management Act 1991, including any plan under that Act or the Forests Act 1949 that was in force at the time the action was taken; and
     (ii) if the post-1989 forest land is subject to a pest management plan under the Biosecurity Act 1993 that imposes requirements in respect of any forest species on the land, the applicant has—
       (A) complied with the requirements; or
       (B) verified that any other person required to comply with the requirements has done so; and
   (d) must be accompanied by any information prescribed by regulations made under this Act.
-(2) The EPA must, for every person who is a participant in respect of an activity listed in Part 1 of Schedule 4, keep a record of—
+(2) The EPA must keep the following records for the activity of standard forestry or permanent forestry for which a person is a participant (whether by registration under section 57 or otherwise):
   (a) the carbon accounting area or areas in respect of which the person is a participant; and
-  (b) the unit balance of each carbon accounting area in respect of which the person is a participant, as calculated in accordance with section 190(2).
-(3) A person who is a participant in respect of an activity listed in Part 1 of Schedule 4—
-  (a) may apply to the EPA to—
-    (i) add or remove any carbon accounting area or areas to or from the post-1989 forest land in respect of which the person is recorded as a participant; or
-    (ii) remove post-1989 forest land from any carbon accounting area or areas in respect of which the person is recorded as a participant; and
-  (b) must, as soon as practicable, notify the EPA if—
-    (i) the person ceases to carry out the activity in respect of a carbon accounting area or any land in a carbon accounting area in respect of which the person is recorded as a participant; or
-    (ii) the post-1989 forest land in respect of which the person carries out the activity, or any part of the land in which the person carries out the activity, is affected by a natural event that permanently prevents re-establishing a forest on that land.
-(4) An application or a notice under subsection (3) must be—
+  (b) for each carbon accounting area used for an activity of standard forestry, whether or not it is a carbon accounting area (averaging); and
+  (c) the unit balance of each carbon accounting area in respect of which the person is a participant, as calculated under the last emissions return submitted for the area.
+(3) A person who is a participant in standard forestry or permanent forestry (whether by registration under section 57 or otherwise) may apply to the EPA to add any carbon accounting area or areas to the post-1989 forest land in respect of which the person is recorded as a participant.
+(4) An application under subsection (3) must be—
   (a) in the prescribed form; and
   (b) accompanied by any prescribed fee and any prescribed information.
-(5) The EPA may not add a carbon accounting area to the post-1989 forest land in respect of which a person is recorded as a participant, unless satisfied that the person would (if appropriate) qualify to be registered as a participant in respect of that land under section 187.
+(5) The EPA may (under this section) add a carbon accounting area to the post-1989 forest land in respect of which a person is recorded as a participant only if—
+  (a) the EPA is satisfied that the person would (if appropriate) qualify to be registered as a participant in respect of that land under section 182A; and
+  (b) where the forest species on that land is predominantly naturally regenerated tree weeds, the EPA is satisfied that the risk of tree weed spread from the land is low.
 (6) If the EPA—
-  (a) registers a person as a participant under section 57 in relation to an activity listed in Part 1 of Schedule 4, the EPA must notify the person in accordance with section 57(6); or
-    (i)
-    (ii)
-  (b) receives an application to add a carbon accounting area and is satisfied as to the matters specified in subsection (5), the EPA must—
-    (i)
-    (ii) update the participant's record to reflect the addition of the carbon accounting area; and
-    (iii) notify the participant accordingly.
-(7) If the EPA receives—
-  (a) an application under section 58 for the removal of a person’s name from the register as a participant in relation to an activity listed in Part 1 of Schedule 4, or is satisfied under section 59(2) that the person has ceased to carry out the activity, the EPA must—
-    (i)
-    (ii) remove the person’s name from the register—
-      (A) 10 working days after the date of the notification under section 58(3)﻿(b); or
-      (B) as required under section 59(2):
-  (b) an application to remove a carbon accounting area, or remove land from a carbon accounting area in respect of which a person is recorded as a participant, or a notification that the person has ceased to carry out the activity in respect of a carbon accounting area or part of a carbon accounting area, the EPA must—
-    (i)
-    ((ii)) update the participant's record to reflect,—
-      (A) if a carbon accounting area is removed or the person has ceased to carry out the activity in respect of all of the carbon accounting area, the removal of the carbon accounting area from the post-1989 forest land in respect of which the person is recorded as a participant; or
-      (B) if land has been removed from a carbon accounting area or the person has ceased to carry out the activity in respect of part of a carbon accounting area, a new carbon accounting area constituted from the remaining land and the unit balance of the new carbon accounting area determined in accordance with section 190(3)﻿(b); and
-    (iii) notify the participant accordingly.
-(7A) If the EPA is notified under subsection (3)﻿(b)﻿(ii), the EPA must, if satisfied that the post-1989 forest land is affected by a natural event that permanently prevents re-establishing a forest on that land, comply with the requirements specified in subsection (7)﻿(b)﻿(ii) and (iii).
-(8) A change made to the participant's record under subsection (6)﻿(b)﻿(ii) or (7)﻿(b)﻿(ii) has effect on and after the date of the relevant notice given under subsection (6)﻿(b)﻿(iii) or (7)﻿(b)﻿(iii), as the case may be.
-(9) Subsection (10) applies if a person terminates a forest sink covenant registered under section 67ZD of the Forests Act 1949 and then registers as a participant in respect of the post-1989 forest land that was covered by the covenant.
-(10) If this subsection applies,—
-  (a) despite section 57(8), the person registering as a participant is to be treated as being a participant in respect of the land formerly the subject of the covenant on and after the date the covenant was registered on the land under section 67ZD of the Forests Act 1949; and
-  (b) for the purposes of sections 189 to 194, any units transferred by or to the Crown in respect of the post-1989 forest land while it was the subject of the forest sink covenant must be treated as New Zealand units transferred for removals or surrendered for emissions from the land under this Act; and
-  (c) the post-1989 forest land formerly the subject of the covenant constitutes a single carbon accounting area in respect of which the person is registered as a participant for the purposes of subsection (2).
-(11) See also sections 188B and 188C (which require notice to the participant and notice to interested parties, if any).
+  (a) registers a person as a participant under section 57 in relation to an activity of standard forestry or permanent forestry, the EPA must notify the person under section 57(6):
+  (b) receives an application to add a carbon accounting area and subsection (5) is satisfied, the EPA must—
+    (i) update the participant's record to reflect the addition of the carbon accounting area; and
+    (ii) notify the participant accordingly.
+(7) The addition of a carbon accounting area under subsection (6)﻿(b)﻿(i) has effect on and after the date of the notice given under subsection (6)﻿(b)﻿(ii).
+(8) See also sections 182D and 182E (which require notice to the participant and notice to interested parties, if any).
 
-### 188A Person ceases to be participant in respect of post-1989 forest land if natural event permanently prevents re-establishing forest on that land
-If post-1989 forest land is affected by a natural event that permanently prevents re-establishing a forest on that land,—
-  (a) a person registered as a participant in respect of an activity listed in Part 1 of Schedule 4 ceases to be a participant in respect of the affected carbon accounting area or affected land in that carbon accounting area; and
-  (b) the person is to be treated as having ceased to carry out the activity listed in Part 1 of Schedule 4 when given notice by the EPA under section 188(7)﻿(b)﻿(iii).
-
-### 188B Notice to forestry participant if their registration added or removed
+### 182D Notice to forestry participant if their registration added or removed
 The EPA must give written or electronic notice to a participant, or former participant, of the following matters as soon as practicable after the EPA carries them out under any of Parts 5 to 5D:
   (a) the participant’s registration or removal from registration in respect of an activity, and the date on which this took or takes effect:
   (b) the addition or removal of any area or land for which the participant is registered, and the date on which this took or takes effect.
 
-### 188C Notice to interested party if forestry participant’s registration added or removed
+### 182E Notice to interested party if forestry participant’s registration added or removed
 (1) A participant must notify the interested party (if any) of the following matters under this section, in writing or electronically, as soon as practicable after receiving the EPA’s notice about, or becoming aware of, the matter:
   (a) the participant’s registration, or removal from registration, in respect of an activity, and the date that this took or takes effect:
   (b) the addition or removal of any area or land for which the participant is registered, and the date that this took or takes effect.
@@ -4749,161 +5128,218 @@ The EPA must give written or electronic notice to a participant, or former parti
     (ii) being a party to a Crown conservation contract over land; or
   (b) any person with a registered forestry right or registered lease in respect of the land, in relation to a participant who is registered for an activity relating to owning post-1989 forest land.
 
-### 189 Emissions returns for post-1989 forest land activities
-(1) This section applies to a person who is a participant in respect of an activity listed in Part 1 of Schedule 4.
-(2) A person to whom this section applies—
-  (a) must not submit an annual emissions return under section 65 or an emissions return under section 118 in relation to that activity; and
-  (b) may submit an emissions return in accordance with subsection (3) in relation to that activity; and
-  (c) must submit any emissions return required by subsection (4) or section 191 or 193 in respect of that activity; and
-  (d) may submit an emissions return in accordance with subsection (4A), if—
-    (i) the person is considering entering into a transaction described in section 192(1)﻿(a) or (b); or
-    (ii) the expiry of an interest referred to in section 192(1)﻿(c) is imminent; or
-    (iii) within 20 working days of applying under section 188(3)﻿(a)﻿(i) to remove a carbon accounting area from the land in respect of which the person is recorded as carrying out an activity listed in Part 1 of Schedule 4 or being removed from the register as a participant in respect of all the land in respect of an activity listed in Part 1 of Schedule 4, the person applies to—
-      (A) add a carbon accounting area or areas consisting of all the post-1989 forest land that was the subject of the application under section 188(3)﻿(a)﻿(i); or
-      (B) register as a participant under section 57 in relation to all the post-1989 forest land in respect of which the person had ceased to be registered as a participant.
-(3) A person to whom this section applies may, on 1 occasion, on or before 30 June in any year, submit an emissions return that—
-  (a) relates to the preceding year or years; and
-  (b) is in respect of any or all of the carbon accounting areas in respect of which the person is recorded as a participant; and
-  (c) for each carbon accounting area covered by the return, is in respect of the period—
-    (i) commencing on the later of—
-      (A) the first day of the mandatory emissions return period in which the return is submitted; or
-      (B) the date on which the land in the carbon accounting area became post-1989 forest land; or
-      (BA) the date of constitution of the carbon accounting area (as specified in section 190(5)), if the carbon accounting area was constituted following removal of land from a carbon accounting area under section 188(7)﻿(b)﻿(ii)﻿(B) or transmission of an interest under section 192(3)﻿(b); or
-      (C) the day after the end of the period covered by the last emissions return submitted for the carbon accounting area; and
-    (ii) ending on 31 December in the last year to which it relates.
-(4) A person to whom this section applies must, if registered as a participant on the last day of any mandatory emissions return period, within 6 months of the end of that period, submit an emissions return that—
-  (a) is in respect of each of the carbon accounting areas in respect of which the person was recorded as a participant on the last day of the mandatory emissions return period; and
-  (b) for each carbon accounting area covered by the return, is in respect of the period—
-    (i) commencing on the later of—
-      (A) the first day of the mandatory emissions return period that has just ended; or
-      (B) the date on which the land in the carbon accounting area became post-1989 forest land; or
-      (C) the date of constitution of the carbon accounting area (as specified in section 190(5)), if the carbon accounting area was constituted following removal of land from a carbon accounting area under section 188(7)﻿(b)﻿(ii)﻿(B) or transmission of an interest under section 192(3)﻿(b); or
-      (D) the day after the end of the period covered by the last emissions return submitted for the carbon accounting area under subsection (4A), if an emissions return has been submitted under that subsection in relation to the carbon accounting area during the mandatory emissions return period; and
-    (ii) ending on the last day of the mandatory emissions return period that has just ended.
-(4A) A person to whom this section applies may, in the circumstances in subsection (2)﻿(d), submit an emissions return in respect of any carbon accounting area to which a proposed transaction, or expiry of an interest, or an application under section 58, 59, or 188(3)﻿(a)﻿(i) relates that is in respect of the period—
-  (a) commencing on the latest of—
-    (i) the first day of the mandatory emissions return period in which the return is submitted; or
-    (ii) the date on which the land in the carbon accounting area became post-1989 forest land; or
-    (iii) the date of constitution of the carbon accounting area (as specified in section 190(5)), if the carbon accounting area was constituted following removal of land from a carbon accounting area under section 188(7)﻿(b)﻿(ii)﻿(B) or transmission of an interest under section 192(3)﻿(b); or
-    (iv) if an emissions return has already been submitted under this subsection in relation to the carbon accounting area during the mandatory emissions return period, the day after the end of the period covered by the last emissions return submitted for the carbon accounting area under this subsection; and
-  (b) ending on the date of submission of the emissions return.
-(5) An emissions return submitted under subsection (3), (4), or (4A)—
-  (a) must, in respect of each carbon accounting area covered by the return,—
-    (i) record the activity in respect of which the person is recorded as a participant for the carbon accounting area; and
-    (ii) record the emissions and removals from the carbon accounting area during the emissions return period as calculated under section 62(b) and, if required, as verified under section 62(c); and
-    (iii) contain an assessment of the participant’s gross liability to surrender units for emissions or entitlement to receive New Zealand units for removals from the carbon accounting area that takes into account sections 188(10) and 190(1), but does not take into account any returns under subsection (3) that cover part of the same period as the emissions return; and
-    (iv) contain the information required by subsection (6), if relevant; and
-    (v) contain an assessment of the participant’s net liability to surrender units in respect of emissions or entitlement to receive New Zealand units for removals from the carbon accounting area during the emissions return period, taking into account sections 188(10) and 190(1) and subsections (6) and (7); and
-  (b) may contain an assessment of the participant's net liability to surrender or repay units or net entitlement to receive New Zealand units in respect of all carbon accounting areas covered by the return, as referred to in subsection (8); and
-  (c) must be—
-    (i) accompanied by—
-      (A) the prescribed fee (if any); and
-      (B) any prescribed information; and
-    (ii) signed by the participant; and
-    (iii) submitted in the prescribed manner and format.
-(6) If a person submits an emissions return under subsection (4) that covers a carbon accounting area in respect of a period for which a return has already been submitted under subsection (3), the return submitted under subsection (4) must—
-  (a) record the number of units transferred for removals or surrendered for emissions in respect of the carbon accounting area in respect of the return or returns submitted under subsection (3); and
-  (b) contain an assessment of the difference between—
-    (i) the net number of units transferred for removals or surrendered for emissions from the carbon accounting area in respect of the return or returns submitted under subsection (3) (which must be determined by subtracting the number of units surrendered for emissions from the carbon accounting area from the number of units transferred in respect of removals from the carbon accounting area); and
-    (ii) the gross number of units assessed as the participant’s liability to surrender or entitlement to receive in respect of the carbon accounting area under the return submitted under subsection (4) as recorded under subsection (5)﻿(a)﻿(iii).
-(7) If the assessment referred to in subsection (6)﻿(b) shows that the person would be—
-  (a) entitled to fewer units for removals from the carbon accounting area in respect of the return submitted under subsection (4) than the net units that have been transferred in respect of returns under subsection (3), the person is liable to repay the number of units transferred in excess of the entitlement in the return under subsection (4); or
-  (b) entitled to receive more units for removals from the carbon accounting area in respect of the return submitted under subsection (4) than the net number of units that have been transferred in respect of returns under subsection (3), the person is entitled to receive the number of units that is the difference between the entitlement in respect of the return under subsection (4) and the net number of units already transferred in respect of returns under subsection (3); or
-  (c) liable to surrender more units for emissions from the carbon accounting area in respect of the return submitted under subsection (4) than the net number of units already surrendered in respect of returns under subsection (3), the person is liable to surrender the number of units that is the difference between the net number surrendered and the number assessed as being required to be surrendered under the return under subsection (4); or
-  (d) liable to surrender fewer units for emissions from the carbon accounting area in respect of the return submitted under subsection (4) than the net number of units already surrendered in respect of returns under subsection (3), the EPA must arrange for reimbursement to the person, in accordance with section 124, of the number of units that is the difference between the net number surrendered and the number assessed as being required to be surrendered under the return under subsection (4).
-(7A) Subsections (6) and (7) apply to a return submitted under subsection (4A) as if it were a return submitted under subsection (4).
-(8) A person who submits an emissions return under this section—
-  (a) may include in the return an assessment of the person’s net liability to surrender or repay units, or the person’s net entitlement to New Zealand units, calculated by determining the difference between the total number of units required to be surrendered for emissions from each of the carbon accounting areas covered by the return (or, if relevant, required to be repaid in respect of the carbon accounting areas covered by the return) and the total number of New Zealand units to which the person is entitled in respect of removals from each of the carbon accounting areas covered by the return (or, if relevant, is entitled to be reimbursed in respect of carbon accounting areas covered by the return); and
-  (b) may elect to surrender or repay the net number of units for which the person is liable, or to receive the net number of units to which the person is entitled, as determined under paragraph (a); and
-  (c) must, if the person makes an election under paragraph (b), indicate clearly in the return that such an election has been made; and
-  (d) must, if an assessment in the emissions return shows a liability or a net liability to—
-    (i) surrender units, surrender those units; or
-    (ii) repay units, repay those units, by transferring the number of units required to be transferred to a Crown holding account designated by the EPA, and the provisions of sections 134, 134A, and 134C apply, with any necessary modifications, as if—
-      (A) the units the person is required to repay were units transferred to the person in error; and
-      (B) the requirement to repay the units arose under section 125.
-(8A) Despite subsection (8)﻿(d), a person who submits an emissions return under this section that shows a liability or a net liability is under no obligation to surrender units if—
-  (a) the emissions return is in respect of post-1989 forest land; and
-  (b) that land is affected by a natural event that permanently prevents re-establishing a forest on that land.
-(9) In this section,—
-  - **units surrendered** , in relation to an emissions return under subsection (3), include units that a person would have been required to surrender in respect of emissions covered by the return, but which were not actually surrendered because of an election under subsection (8)
-  - **units transferred for removals** , in relation to an emissions return under subsection (3), include units that a person would have been entitled to receive for removals in respect of the return, but which were not actually transferred because of an election under subsection (8).
+### 182F Removing registration as participant in standard or permanent forestry
+(1) This section sets out some situations in which section 186 or 186B applies (which relate to ceasing participation for whole or part carbon accounting areas).
+(2) Section 186 applies if the EPA—
+  (a) receives an application under section 58 for the removal of a person’s name from the register as a participant in standard forestry; or
+  (b) is satisfied under section 59(2) that the person has ceased to carry out standard forestry or permanent forestry.
+(3) Section 186 applies if the EPA decides to remove the name of a person from the register in respect of an activity of standard forestry under section 59AA (for persistent non-compliance), or in respect of an activity of standard forestry or permanent forestry under section 59A (because the person never carried out the activity).
+(4) A person who is a participant in standard forestry or permanent forestry—
+  (a) may apply to the EPA to—
+    (i) remove any carbon accounting area or areas from the post-1989 forest land in respect of which the person is recorded as a participant; or
+    (ii) remove post-1989 forest land from any carbon accounting area or areas in respect of which the person is recorded as a participant; and
+  (b) must, as soon as practicable, notify the EPA if the person ceases to carry out the activity in respect of—
+    (i) a carbon accounting area in respect of which the person is recorded as a participant; or
+    (ii) any land in a carbon accounting area in respect of which the person is recorded as a participant.
+(5) An application or a notice under subsection (4) must be—
+  (a) in the prescribed form; and
+  (b) accompanied by any prescribed fee and any prescribed information.
+(6) Section 186 applies if the EPA—
+  (a) receives and approves an application to remove a carbon accounting area for which a person is recorded as a participant; or
+  (b) receives a notice that a person has ceased to carry out standard forestry or permanent forestry on all of a carbon accounting area; or
+  (c) is satisfied that a person has ceased to carry out standard forestry or permanent forestry on all of a carbon accounting area.
+(7) Section 186B applies if the EPA—
+  (a) receives and approves an application to remove land from a carbon accounting area for which a person is recorded as a participant; or
+  (b) receives a notice that a person has ceased to carry out standard forestry or permanent forestry on part of a carbon accounting area; or
+  (c) is satisfied that a person has ceased to carry out standard forestry or permanent forestry on part of a carbon accounting area.
+(8) This section is subject to section 190A (which restricts the removal of land relating to permanent forestry).
 
-### 190 Special rules regarding surrender of units in relation to post-1989 forest land
-(1) Despite section 63, a person who is or was a participant in respect of an activity listed in Part 1 of Schedule 4 is not liable to surrender more units in relation to any carbon accounting area or part of a carbon accounting area than the unit balance of that carbon accounting area or part of a carbon accounting area.
-(2) The unit balance of a carbon accounting area must be calculated in accordance with the following formula:UB = (A – B) + OUBwhere—UBis the unit balance of the carbon accounting areaAis the net number of New Zealand units transferred for removals from the carbon accounting area since the date it was constituted (that is, the number of units transferred for removals less any units repaid under section 123(6) or 189(8))Bis the net number of New Zealand units surrendered for emissions from the carbon accounting area since the date it was constituted (that is, the number of units surrendered, less any units reimbursed under section 124 or 189(7))OUBis,—
-  (a) if the carbon accounting area is constituted from land from another carbon accounting area (following the removal of land from a carbon accounting area, or transmission of an interest as defined in section 192), the opening unit balance of the carbon accounting area, as determined in accordance with subsection (3); or
-  (b) if the carbon accounting area is not constituted as described in paragraph (a), but is constituted from land that was subject to a forest sink covenant under section 67ZD of the Forests Act 1949, the net number of units transferred in respect of the land in the carbon accounting area while it was the subject of the forest sink covenant; or
-  (c) if the carbon accounting area is not constituted from land from another carbon accounting area or land that was subject to a forest sink covenant, zero.
-(3) The following provisions apply if a person is required by this subpart to calculate the unit balance of a newly constituted carbon accounting area:
-  (a) if a carbon accounting area (CAA2) has been constituted under section 192(3)﻿(b)﻿(iii) from the land remaining in an affected carbon accounting area (CAA1) following transmission of an interest in part of the CAA1, the person must calculate the opening unit balance of CAA2 in accordance with subsection (4), and for the purposes of that calculation—
-    (i) H is the number of hectares of post-1989 forest land in CAA1; and
-    (ii) Hp is the number of hectares of post-1989 forest land in CAA2; and
-    (iii) UB is the unit balance of CAA1 calculated in accordance with subsection (2) (and includes any units transferred or surrendered in respect of the removals or emissions reported in the emissions return submitted under section 193(1)); and
-    (iv) UBp is the opening unit balance for CAA2 for the purposes of subsection (2):
-  (b) if a carbon accounting area (CAA2) has been constituted under section 188(7)﻿(b)﻿(ii)﻿(B) from the land remaining in a carbon accounting area (CAA1) because the person has removed land from CAA1 or ceased carrying out an activity listed in Part 1 of Schedule 4 in respect of part of CAA1, the opening unit balance of CAA2 is the figure calculated under section 191(4) for UBr for the purposes of the person’s emissions return under section 191(3):
-  (c) if a carbon accounting area (CAA2) has been constituted by operation of section 192(3)﻿(b)﻿(ii), the person must calculate the opening unit balance of CAA2 by—
-    (i) calculating the unit balance of any whole carbon accounting areas that form part of CAA2 in accordance with subsection (2), including (but not limited to) any units transferred or surrendered in respect of the removals or emissions reported in the emissions return under section 193(1); and
-    (ii) calculating the unit balance of any part carbon accounting area that forms part of CAA2 in accordance with subsection (4), and for the purposes of that calculation—
-      (A) H is the number of hectares of post-1989 forest land in the carbon accounting area of which the part carbon accounting area formed a part before the transmission of the interest; and
-      (B) Hp is the number of hectares of post-1989 forest land in the part carbon accounting area; and
-      (C) UB is the unit balance of the carbon accounting area of which the part carbon accounting area formed a part before the transmission of the interest, including (but not limited to) any units transferred or surrendered in respect of the removals or emissions reported in the emissions return under section 193(1); and
-    (iii) adding together the unit balances obtained under subparagraphs (i) and (ii).
-(4) The unit balance of part of a carbon accounting area must be calculated in accordance with the following formula:UBp = UB/H × Hpwhere—UBpis the unit balance of the part of the carbon accounting areaUBis the unit balance of the carbon accounting area of which the part carbon accounting area formed a part, calculated in accordance with subsection (2)His the number of hectares in the carbon accounting area of which the part carbon accounting area formed a partHpis the number of hectares in the part of the carbon accounting area for which a unit balance is calculated.
-(5) For the purposes of this section,—
-  (a) units transferred for removals, surrendered, repaid, or reimbursed in respect of a carbon accounting area include units that a person would have been entitled to receive, or would have been required to surrender or repay, in respect of a carbon accounting area, but which were not actually transferred, surrendered, repaid, or reimbursed because of an election under section 189(8); and
-  (b) the date that a carbon accounting area is constituted is—
-    (i) the date the person’s registration as a participant in respect of the activity in the application took effect in accordance with section 57(8) for a carbon accounting area defined in an application referred to in section 188(1); and
-    (ii) the date the participant’s record is updated under section 188(6) or (7) for a carbon accounting area where land has been removed from a carbon accounting area, a person has ceased to carry out the activity on part of a carbon accounting area, or a person has applied to add a carbon accounting area under section 188(3)﻿(a)﻿(i); and
-    (iii) the date the carbon accounting area was constituted under that section for a carbon accounting area constituted by operation of section 192(3)﻿(b); and
-  (c) hectare includes any fraction of a hectare.
+### 182G Removing registration as participant in standard or permanent forestry in certain natural events or clearance for forest management
+(1) A person who is a participant in standard forestry or permanent forestry may, as soon as practicable, notify the EPA if all or part of the post-1989 forest land on which the person carries out the activity—
+  (a) is affected by a natural event that permanently prevents re-establishing a forest on that land; or
+  (b) is cleared land to which section 179A(1)﻿(c) applies (which is land cleared for best practice forest management that may not be treated as deforested).
+(2) The notice must—
+  (a) include the prescribed information (if any); and
+  (b) be signed by the person; and
+  (c) be given—
+    (i) in the prescribed manner and format; and
+    (ii) together with the prescribed fee (if any); and
+    (iii) together with the prescribed information (if any).
+(3) If the EPA is satisfied that the post-1989 forest land is land to which subsection (1)﻿(a) or (b) applies, then whichever of section 186 or 186B is relevant applies (so that the person is not liable to surrender units equal to the unit balance of the affected land).
 
-### 191 Ceasing to be registered as participant in respect of post-1989 forest land
-(1) Subject to section 193, a person who is or was a participant in respect of an activity listed in Part 1 of Schedule 4—
-  (a) must submit an emissions return to the EPA within 20 working days of—
-    (i) being removed from the register in respect of that activity; or
-    (ii) removing a carbon accounting area or ceasing to be a participant in respect of a carbon accounting area in respect of which the person is recorded as a participant under section 188; or
-    (iii) removing land from a carbon accounting area or ceasing to carry out the activity in respect of part of a carbon accounting area in respect of which the person is recorded as a participant under section 188; and
-  (b) is, in respect of any carbon accounting area,—
-    (i) required to be covered by the return under subsection (2), liable to surrender the unit balance of the carbon accounting area; and
-    (ii) required to be covered by the return under subsection (3),—
-      (A) liable to surrender the unit balance relating to any land removed from the carbon accounting area or on which the person has ceased to carry out the activity, plus or minus any units that the person is required to surrender for emissions or entitled to receive for removals in respect of the land remaining in the carbon accounting area, as calculated under subsection (4); or
-      (B) entitled to receive the number of units assessed as the participant’s entitlement for removals from the land remaining in the carbon accounting area, less the unit balance relating to any land removed from the carbon accounting area or upon which the person has ceased to carry out the activity, calculated under subsection (4).
-  (c)
-(1A)
-(2) An emissions return submitted under this section—
-  (a) must,—
-    (i) if subsection (1)﻿(a)﻿(i) applies, be in respect of all the carbon accounting areas in respect of which the person is or was recorded as a participant in relation to that activity; or
-    (ii) if subsection (1)﻿(a)﻿(ii) applies, be in respect of the carbon accounting area or areas being removed in respect of which the person is ceasing to be a participant; and
-  (b) must record the unit balance of each carbon accounting area required to be covered by the return under paragraph (a), calculated in accordance with section 190(2).
-(3) An emissions return submitted under this section because subsection (1)﻿(a)﻿(iii) applies must—
-  (a) be in respect of each carbon accounting area from which land is removed or in respect of which the person is ceasing to carry out the activity on part of the land in the carbon accounting area; and
-  (b) for each carbon accounting area required to be covered by the return under paragraph (a), be for the period,—
-    (i) commencing on the latest of—
-      (A) the first day of the mandatory emissions return period in which the land was removed from the carbon accounting area (or the person ceased to carry out the activity on part of the land in the carbon accounting area); or
-      (B) the date on which the land in the carbon accounting area became post-1989 forest land; or
-      (C) the date of constitution of the carbon accounting area (as specified in section 190(5)), if the carbon accounting area was constituted following removal of land from a carbon accounting area under section 188(7)﻿(b)﻿(ii)﻿(B) or transmission of an interest under section 192(3)﻿(b); or
-      (D) if an emissions return has been submitted under section 189(4A) in relation to the carbon accounting area, the day after the end of the period covered by the last emissions return submitted for the carbon accounting area under that section; and
-    (ii) ending on the date the land is removed from the carbon accounting area or the person ceases to carry out the activity on part of the land in the carbon accounting area; and
-  (c) in respect of each carbon accounting area required to be covered by the return under paragraph (a),—
-    (i) comply with section 189(5)﻿(a) and (6), as if any references in section 189(6) to subsection (4) of that section were references to this section; and
-    (ii) record the notional unit balance of the carbon accounting area, calculated by taking the unit balance of the carbon accounting area (as calculated under section 190(2)) before submission of the return under this section and, if the assessment recorded in the return under section 189(5)﻿(a)﻿(v) shows the person would be—
-      (A) entitled to receive units in respect of removals from the carbon accounting area during the emissions return period, adding that number of units to the unit balance; or
-      (B) liable to surrender units in respect of emissions from the carbon accounting area during the emissions return period, subtracting that number of units from the unit balance; and
-    (iii) record the person’s assessment of the person’s net liability to surrender units or entitlement to receive units in respect of the post-1989 forest land being removed from and the land remaining in the carbon accounting area calculated in accordance with subsection (4).
-(4) Net liability to surrender units or entitlement to receive units in respect of a carbon accounting area required to be covered by the return under subsection (3)﻿(a) must be calculated in accordance with the following formula:X = UBCAA – UBrwhere—Xis,—UBCAAis the unit balance of the carbon accounting area before the removal of the land and submission of the return under this section, calculated in accordance with section 190(2)UBris the unit balance of the land remaining in the carbon accounting area calculated as follows:UBr = (NUBCAA/HCAA) × Hrwhere—NUBCAAis the notional unit balance of the carbon accounting area calculated under subsection (3)﻿(c)﻿(ii)HCAAis the number of hectares in the carbon accounting area before removal of the land or before the person ceased to carry out the activity in respect of part of the landHris the number of hectares in the carbon accounting area, less the number of hectares being removed or in respect of which the person has ceased to carry out the activity.
-  (a) if positive, the number of units the person must surrender in respect of the land being removed from the carbon accounting area or upon which the person has ceased to carry out the activity (as adjusted by any units required to be surrendered for emissions, or units to which the person is entitled for removals, from the land remaining in the carbon accounting area); or
-  (b) if negative, the number of units to which the person is entitled in respect of removals from the land remaining in the carbon accounting area (as adjusted by any units required to be surrendered for the land being removed from the carbon accounting area or in respect of which the person has ceased to carry out the activity)
-(5) If a person submits an emissions return under subsection (3), section 189(7) applies to the person as if the references in that provision to subsection (4) were references to this section.
-(6) Section 189(8) applies, with any necessary modifications, to a person who—
-  (a) submits an emissions return under this section; or
-  (b) submits an emissions return in respect of post-1989 forest land that is affected by a natural event that permanently prevents re-establishing a forest on that land because subsection (1)﻿(a)﻿(ii) or (iii) applies.
-(7) An emissions return submitted under this section must be—
-  (a) submitted in the prescribed manner and format; and
-  (b) accompanied by any prescribed fee and any other prescribed information.
+### 182 Offsetting in relation to pre-1990 forest land
+[Repealed]
 
-### 191A If participant has never carried out activity in carbon accounting area
-(1) This section applies if the EPA is satisfied that a person is not carrying out, and has never carried out, the activity in Part 1 of Schedule 4 in a carbon accounting area, or part of an accounting area, for which they are registered.
-(2) The EPA must amend the register kept under section 57, and the records of carbon accounting areas kept under section 188(2), to remove the person’s registration in respect of the carbon accounting area, or part carbon accounting area.
+**Provisional and final forestry emissions returns**
+
+### 183 Provisional forestry emissions return in any year
+(1) This section applies to a person who is a participant in an activity of standard forestry or permanent forestry.
+(2) The person may, once before 1 July in each year, submit a provisional forestry emissions return prepared under section 183B for the activity—
+  (a) that covers 1 or more of the carbon accounting areas for which the person is a participant in the activity (each a CAA1); and
+  (b) that uses the last day of the previous calendar year as the relevant date.
+
+### 183A Final forestry emissions return at end of mandatory emissions return period
+(1) This section applies to a person who is a participant in an activity of standard forestry or permanent forestry on the last day of a mandatory emissions return period.
+(2) The person must submit a final forestry emissions return prepared under section 183B for the activity—
+  (a) that covers each carbon accounting area for which the person was a participant in the activity on the last day of the mandatory emissions return period (each a CAA1); and
+  (b) that uses the last day of the mandatory emissions return period as the relevant date.
+(3) The deadline for submitting the emissions return is 6 months after the end of the mandatory emissions return period.
+(4) However, subsection (2) does not apply in relation to a carbon accounting area in relation to which a participant is not required to submit an emissions return under—
+  (a) section 191G(b), relating to carbon accounting areas (averaging); or
+  (b) section 193F(3)﻿(b), relating to temporary adverse event land.
+
+### 183B Preparing provisional or final forestry emissions return
+(1) An emissions return prepared under this section must—
+  (a) specify the CAA1s that the emissions return covers; and
+  (b) specify the activity for which the person was a participant on the CAA1s; and
+  (c) for each CAA1,—
+    (i) specify the emissions return period that applies, by using subsection (4) and the relevant date from the provision that requires the return; and
+    (ii) specify the emissions and removals during the emissions return period; and
+    (iii) set out the calculation under section 184 of the person’s gross liability or entitlement for emissions and removals during the emissions return period; and
+    (iv) specify the person’s net liability or entitlement for emissions and removals during the emissions return period by,—
+      (A) for a provisional forestry emissions return, specifying the same value as the person’s gross liability or entitlement; or
+      (B) for a final forestry emissions return, setting out the calculation of that value under section 184A (which takes into account the liability or entitlement under each provisional forestry emissions return for an overlapping period, if any, and other matters); and
+    (v) set out the calculation under section 184B of the unit balance; and
+  (d) set out the calculation under section 184C of the person’s total liability or entitlement for all the CAA1s.
+(2) The emissions return must—
+  (a) include the prescribed information (if any); and
+  (b) be signed by the participant; and
+  (c) when submitted under the relevant provision, be submitted—
+    (i) in the prescribed manner and format; and
+    (ii) together with the prescribed fee (if any); and
+    (iii) together with the prescribed information (if any).
+(3) See section 62(1)﻿(b) and (c) for the requirements to calculate (and potentially verify) emissions and removals.
+(4) In this section, emissions return period, for a CAA1, means the period that—
+  (a) starts on the latest of the following:
+    (i) the first day of the mandatory emissions return period in which the relevant date falls:
+    (ii) if the CAA1 was constituted by registration under section 182C, the date on or before registration on which any of the land in the CAA1 became post-1989 forest land:
+    (iii) if the CAA1 was constituted in another way, the constitution date of the CAA1:
+    (iv) the day after the last day of the emissions return period for the CAA1 under,—
+      (A) for a provisional forestry emissions return, the last provisional or final forestry emissions return submitted for the CAA1; and
+      (B) for a final forestry emissions return, the last final forestry emissions return submitted for the CAA1; and
+  (b) ends on the relevant date.
+(5) If subsection (4)﻿(a)﻿(ii) applies, the person must be treated as if they became a participant in respect of the CAA1 on the date under that subparagraph (before the CAA1 was actually constituted) for the purposes of calculating—
+  (a) emissions and removals from the CAA1; and
+  (b) the unit balance of the CAA1.
+
+**Calculations for provisional and final forestry emissions returns**
+
+### 184 Gross liability or entitlement for each CAA1 in emissions return
+(1) A person’s gross liability or entitlement for a CAA1 over an emissions return period (g) is calculated as follows:g = r − ewhere—ris the number of units required for removals from the CAA1 during the emissions return periodeis the number of units required for emissions from the CAA1 during the emissions return period.
+Recalculation based on unit balance for provisional forestry emissions return (see section 185A)
+(2) However, in preparing a provisional forestry emissions return, if—then g is recalculated as the negative of p.
+  (a) the g calculated under subsection (1) is a negative number, giving a gross liability; and
+  (b) that gross liability is greater than the value p calculated for the CAA1 under section 184B,—
+
+### 184A Net liability or entitlement for each CAA1 in final forestry emissions return
+Calculation based on overlapping provisional forestry emissions returns
+(1) A person’s net liability or entitlement for a CAA1 over an emissions return period (h) is calculated as follows:h = g − gnwhere—gis the person’s gross liability or entitlement for the CAA1 (under that same final forestry emissions return)gnis the sum of the person’s gross liability or entitlement for the CAA1 under each overlapping provisional forestry emissions return (if any).
+(2) To avoid doubt, if there is no overlapping provisional forestry emissions return, a person’s net liability or entitlement is the same as their gross liability or entitlement for a CAA1.
+Recalculation based on liability for changes involving averaging accounting
+(3) However, if section 189F or 189G applies, h is recalculated as follows:h = ha − swhere—hais the person’s net liability or entitlement calculated under subsection (1)sis the number of units the person is liable to surrender under section 189F or 189G.
+Recalculation based on unit balance (see section 185A)
+(4) Finally, if—then h is recalculated as the negative of p.
+  (a) the h calculated under subsection (1), or as recalculated under subsection (3) (if it applies), is a negative number, giving a net liability; and
+  (b) that net liability is greater than the value p calculated for the CAA1 under section 184B,—
+Definition
+(5) In this section, overlapping provisional forestry emissions return means each provisional forestry emissions return (if any) submitted for a period that overlaps with the emissions return period of the final forestry emissions return.
+
+### 184B Unit balance calculation for each CAA1 in emissions return
+The unit balance of a CAA1 (u) is calculated for an emissions return as follows:u = p + hwhere—pis—his the person’s net liability or entitlement for the CAA1 under the emissions return for which u is calculated.
+  (a) the previous unit balance of the CAA1 calculated under the last emissions return submitted for the CAA1; or
+  (b) zero, if there is no such return
+
+### 184C Total liability or entitlement for all CAA1s in emissions return
+A person’s total liability or entitlement for all the CAA1s covered by an emissions return is the sum of the person’s net liability or entitlement for each CAA1.
+
+**Total liability or entitlement and unit balance has effect for all emissions returns**
+
+### 184D Total liability or entitlement has effect, and unit balance updated, when emissions return submitted
+(1) This section applies when a person submits a provisional or final forestry emissions return.
+(2) If the person’s total liability or entitlement for the CAA1s covered by the emissions return is—
+  (a) a positive number, the person is entitled to receive (or be reimbursed) that number of New Zealand units; or
+  (b) a negative number, the person is liable to surrender (or repay) that number of units.
+(3) For a final forestry emissions return, the person—to the extent that they surrendered, or received, more units for a CAA1 under provisional forestry emissions returns than required to satisfy their net liability or entitlement for the CAA1 under the final forestry emissions return.
+  (a) is entitled to be reimbursed (instead of to receive) units; or
+  (b) is liable to repay (instead of to surrender) units—
+(4) The unit balance of each CAA1 covered by the emissions return is updated to the unit balance calculated under the return.
+
+**New unit balance report for certain applications or notices**
+
+### 185 New unit balance report
+(1) A new unit balance report prepared under this section must—
+  (a) specify the CAA2s that the report covers and, for each CAA2 whose boundaries are not the same as a CAA1, define the CAA2; and
+  (b) specify the CAA1s (that are replaced by the CAA2s); and
+  (c) set out the calculation under this section of the opening unit balance of each CAA2; and
+  (d) if any CAA1 forms a notional CAA2 and a remainder CAA2 (because participation ceases for part of the CAA1 under section 186B), set out the calculation under this section of the person’s final liability or entitlement.
+(2) However, subsection (1) is subject to the following provisions (which limit reconfiguration):
+  (a) section 191H (carbon accounting areas (averaging)):
+  (b) section 192G (P89 offsetting (approved) land):
+  (c) section 193H (temporary adverse event land).
+Opening unit balance if CAA2 has same boundaries as CAA1
+(3) If a CAA2 has the same boundaries as a CAA1, the opening unit balance of the CAA2 (v) is calculated as follows:v = uwhere—uis the unit balance of the CAA1 (under the emissions return for the CAA1 that includes the report).
+Opening unit balance if CAA2 formed from land in 1 or more CAA1s
+(4) If a CAA2 is formed from land in 1 or more CAA1s, the opening unit balance of the CAA2 (v) is calculated by summing the result of the following calculation for each CAA1 that overlaps with the CAA2 (because any land in the CAA1 becomes land in the CAA2):un × (an ÷ bn)where—unis the unit balance of the overlapping CAA1 (under the emissions return for the CAA1 that includes the report)anis the area of overlap between the CAA2 and the overlapping CAA1 (in hectares)bnis the area of the overlapping CAA1 (in hectares).
+Final liability or entitlement if CAA1 forms notional CAA2 and remainder CAA2
+(5) A person’s final liability or entitlement (f) is calculated as follows:f = t − unwhere—tis the person’s total liability or entitlement for the CAA1s (under the emissions return for the CAA1s that includes the report)unis the sum of the opening unit balance of each notional CAA2 formed from a CAA1.
+
+**Maximum liability is unit balance of carbon accounting area**
+
+### 185A Maximum liability is unit balance of carbon accounting area
+Despite section 63, a person who is or was a participant in respect of an activity of standard forestry or permanent forestry is not liable to surrender more units in relation to any carbon accounting area or part of a carbon accounting area than the unit balance of that carbon accounting area or part of a carbon accounting area.
+
+**Ceasing participation in standard or permanent forestry**
+
+### 186 Ceasing participation for whole carbon accounting areas
+(1) This section applies if a person ceases, or is to cease, participation in an activity of standard forestry or permanent forestry (on the end date) on 1 or more whole carbon accounting areas (each a CAA1).
+(2) However, this section does not apply if another provision of this Act requires an emissions return to be prepared for the situation.
+(3) To avoid doubt, this section applies whether—
+  (a) the person is ceasing to be a participant in the activity in a CAA1, or is removing a CAA1 for which the person is recorded as a participant; or
+  (b) the person is giving notice to the EPA, the EPA has approved an application from the person, or the EPA is acting under a provision of this Act; or
+  (c) the CAA1s are some or all of the carbon accounting areas on which the person participates in the activity.
+
+### 186A Effect of ceasing participation for whole carbon accounting areas
+(1) If section 186 applies, then, starting on the end date,—
+  (a) the person ceases to be a participant in the activity in the CAA1s; and
+  (b) the person is liable to surrender the number of units equal to the unit balance of each CAA1 (calculated under the last emissions return submitted for the CAA1).
+(2) However, subsection (1)﻿(b) does not apply if the person has ceased to be a participant because of section 182G (for a natural event that permanently prevents re-establishing a forest or land cleared for best practice forest management).
+(3) The EPA must amend the register kept under section 57, and the records of carbon accounting areas kept under section 182C(2), to record the effects of this section.
+(4) See sections 182D and 182E, which require notice to the participant and notice to interested parties, if any.
+
+### 186B Ceasing participation for part carbon accounting areas
+(1) This section applies if a person ceases, or is to cease, participation in an activity of standard forestry or permanent forestry (on the end date) in only part of 1 or more carbon accounting areas (each a CAA1).
+(2) To avoid doubt, this section applies whether—
+  (a) the person ceases to be a participant in the activity in part of a CAA1, or is removed from being recorded as a participant in respect of part of a CAA1; or
+  (b) the person is giving notice to the EPA, the EPA has approved an application from the person, or the EPA is acting under a provision of this Act.
+(3) However, this section does not apply to a situation for which another provision of this Act already requires an emissions return to be prepared.
+(4) The person must—
+  (a) prepare a final forestry emissions return under section 183B for the activity—
+    (i) that covers each CAA1; and
+    (ii) that uses the end date as the relevant date; and
+  (b) include in that return a new unit balance report under section 185 for the activity that covers the following carbon accounting areas (each a CAA2) formed from each CAA1:
+    (i) a notional CAA2 for the part of the CAA1 where participation ceases:
+    (ii) a remainder CAA2 for the rest of the land in the CAA1.
+(5) The person must—
+  (a) include the emissions return with the application or notice when it is made or given; or
+  (b) if there is no application or notice, provide the emissions return when required by the EPA.
+(6) The land in a notional CAA2 must be treated as forest land if the person has ceased to be a participant because of section 182G (for a natural event that permanently prevents re-establishing a forest or land cleared for best practice forest management).
+
+### 186C Effect of ceasing participation for part carbon accounting areas
+(1) This section applies if a final forestry emissions return (for the CAA1s) is provided to the EPA in accordance with section 186B, including a new unit balance report (for the CAA2s).
+(2) Starting on the end date,—
+  (a) the emissions return is treated as being submitted (so that the total liability or entitlement has effect, and the unit balance is updated, for the CAA1s under section 184D); and
+  (b) the person ceases to be a participant in the activity on the notional CAA2s; and
+  (c) the person is liable to surrender the number of units equal to the opening unit balance calculated for each notional CAA2 in the new unit balance report; and
+  (d) the person is a participant in the activity in the remainder CAA2s (instead of the CAA1s); and
+  (e) the unit balance of each remainder CAA2 is the opening unit balance calculated for it in the new unit balance report; but
+  (f) any entitlement to receive units because of paragraph (a) is offset against any liability to surrender units under paragraph (c), so that the person’s final liability or entitlement is as calculated in the new unit balance report.
+(3) However, subsection (2)﻿(c) and (f) does not apply if the person has ceased to be a participant because of section 182G (for a natural event that permanently prevents re-establishing a forest or land cleared for best practice forest management).
+(4) The EPA must amend the register kept under section 57, and the records of carbon accounting areas kept under section 182C(2), to record the effects of this section.
+(5) See sections 182D and 182E, which require notice to the participant and notice to interested parties, if any.
+
+### 186D If participant has never carried out activity in carbon accounting area
+(1) This section applies if the EPA is satisfied that a person is not carrying out, and has never carried out, the activity of standard or permanent forestry in a carbon accounting area, or part of an accounting area, for which they are registered.
+(2) The EPA must amend the register kept under section 57, and the records of carbon accounting areas kept under section 182C(2), to remove the person’s registration in respect of the carbon accounting area, or part carbon accounting area.
 (3) The person must surrender the unit balance that relates to the carbon accounting area (or part area).
 (4) At least 60 days before amending the register, the EPA must notify the person—
   (a) that the EPA proposes to remove the person’s registration in respect of the carbon accounting area, or part carbon accounting area; and
@@ -4911,16 +5347,36 @@ The EPA must give written or electronic notice to a participant, or former parti
   (c) of the actions that the person may take to prevent the removal (for example, provide evidence that the person carries out the activity in the carbon accounting area).
 (5) The EPA may still take action under this section if it is unable to notify the person of its proposal to do so because it is not reasonably practicable to locate them or their address.
 
-### 192 Effect of transmission of interest in post-1989 forest land
-(1) This section applies—The following table is medium in size and has 4 columns. Columns 1 to 4 are grouped under the heading Part A. Column 1 is headed Existing participant. Column 2 is headed Interest transferred. Column 3 is headed New participant. Column 4 is headed New activity in Part 1 of Schedule 4.Part AExisting participantInterest transferredNew participantNew activity in Part 1 of Schedule 4Landowner of post-1989 forest landPost-1989 forest land in respect of which the person is recorded as a participantNew land ownerOwning post-1989 forest landHolder of a registered forestry right over post-1989 forest landRegistered forestry right over post-1989 forest land in respect of which the person is recorded as a participantNew forestry right holderHolding a registered forestry right over post-1989 forest landLeaseholder under a registered lease of post-1989 forest landRegistered lease over post-1989 forest land in respect of which the person is recorded as a participantNew lesseeBeing the leaseholder under a registered lease of post-1989 forest landParty to a Crown conservation contractCrown conservation contract over post-1989 forest land in respect of which the person is recorded as a participantNew party to the Crown conservation contractBeing a party to a Crown conservation contractThe following table is medium in size and has 4 columns. Columns 1 to 4 are grouped under the heading Part B. Column 1 is headed Existing participant. Column 2 is headed Interest entered into. Column 3 is headed New participant. Column 4 is headed New activity in Part 1 of Schedule 4.Part BExisting participantInterest entered intoNew participantNew activity in Part 1 of Schedule 4Landowner of post-1989 forest land Registered forestry right over post-1989 forest land in respect of which the person is recorded as a participantHolder of a registered forestry right over post-1989 forest land (only if agreed under subsection (1A))Being the holder of a registered forestry right over post-1989 forest land (only if agreed under subsection (1A))Landowner of post-1989 forest land Registered lease of post-1989 forest land in respect of which the person is recorded as a participantLessee under a registered lease of post-1989 forest land (only if agreed under subsection (1A))Being a lessee under a registered lease of post-1989 forest land (only if agreed under subsection (1A))Landowner of Crown land that is post-1989 forest landCrown conservation contract over post-1989 forest land in respect of which the person is recorded as a participantParty to the Crown conservation contractBeing a party to a Crown conservation contractThe following table is medium in size and has 4 columns. Columns 1 to 4 are grouped under the heading Part C. Column 1 is headed Existing participant. Column 2 is headed Interest expired or terminated. Column 3 is headed New participant. Column 4 is headed New activity in Part 1 of Schedule 4.Part CExisting participantInterest expired or terminatedNew participantNew activity in Part 1 of Schedule 4Holder of a registered forestry right over post-1989 forest landRegistered forestry right over post-1989 forest land in respect of which the person is recorded as a participantLandowner of the post-1989 forest landOwning post-1989 forest landLeaseholder under a registered lease of post-1989 forest landRegistered lease over post-1989 forest land in respect of which the person is recorded as a participantLandowner of the post-1989 forest landOwning post-1989 forest landParty to a Crown conservation contractCrown conservation contract over post-1989 forest land in respect of which the person is recorded as a participantLandowner of the post-1989 forest landOwning post-1989 forest land.
-  (a) if, subject to section 157A(4), a person registered as a participant in respect of an activity listed in Part 1 of Schedule 4 and who is described in the first column of Part A of the following table transfers, including by way of sale, assignment, or by operation of law, all or any of the interest described in the second column of Part A of the table to a person described in the third column of Part A of the table:
-  (b) if a person registered as a participant in respect of an activity listed in Part 1 of Schedule 4 and who is described in the first column of Part B of the following table grants an interest or enters into a contract described in the second column of Part B of the table:
-  (c) if an interest described in the second column of Part C of the following table expires or is terminated, and the person described in the first column of Part C of the table is, in relation to that interest, registered as a participant in respect of an activity listed in Part 1 of Schedule 4:
-(1A) Despite subsection (1)﻿(b), if a transferor covered by that paragraph grants a registered forestry right or registered lease described in the second column of Part B of the table in that subsection, this section applies only if, before the date of transmission,—
+### 186E Deforesting pre-1990 offsetting forest land before usual rotation period of forest species on pre-1990 forest land
+[Repealed]
+
+### 186F Regulations relating to offsetting
+[Repealed]
+
+### 186G EPA may revoke approval in certain circumstances
+[Repealed]
+
+### 186H Treatment of allocations in respect of pre-1990 forest land that is offset
+[Repealed]
+
+### 186I Participant in respect of pre-1990 offsetting forest land
+[Repealed]
+
+### 186J Methodology for pre-1990 offsetting forest land cleared after usual rotation period is completed
+[Repealed]
+
+**Transmission of interest relating to standard or permanent forestry**
+
+### 187 Transmission of interest in post-1989 forest land
+(1) This section applies—The following table is small in size and has 4 columns. Columns 1 to 4 are grouped under the heading Part A. Column 1 is headed Existing participant. Column 2 is headed Interest transferred. Column 3 is headed New participant. Column 4 is headed New activity of standard or permanent forestry.Part AExisting participantInterest transferredNew participantNew activity of standard or permanent forestryLandowner of post-1989 forest landPost-1989 forest land in respect of which the person is recorded as a participantNew land ownerOwning post-1989 forest landHolder of a registered forestry right over post-1989 forest landRegistered forestry right over post-1989 forest land in respect of which the person is recorded as a participantNew forestry right holderHolding a registered forestry right over post-1989 forest landLeaseholder under a registered lease of post-1989 forest landRegistered lease over post-1989 forest land in respect of which the person is recorded as a participantNew lesseeBeing the leaseholder under a registered lease of post-1989 forest landParty to a Crown conservation contractCrown conservation contract over post-1989 forest land in respect of which the person is recorded as a participantNew party to the Crown conservation contractBeing a party to a Crown conservation contractThe following table is small in size and has 4 columns. Columns 1 to 4 are grouped under the heading Part B. Column 1 is headed Existing participant. Column 2 is headed Interest entered into. Column 3 is headed New participant. Column 4 is headed New activity of standard or permanent forestry.Part BExisting participantInterest entered intoNew participantNew activity of standard or permanent forestryLandowner of post-1989 forest landRegistered forestry right over post-1989 forest land in respect of which the person is recorded as a participantHolder of a registered forestry right over post-1989 forest land (only if agreed under subsection (2))Being the holder of a registered forestry right over post-1989 forest land (only if agreed under subsection (2))Landowner of post-1989 forest landRegistered lease of post-1989 forest land in respect of which the person is recorded as a participantLessee under a registered lease of post-1989 forest land (only if agreed under subsection (2))Being a lessee under a registered lease of post-1989 forest land (only if agreed under subsection (2))Landowner of Crown land that is post-1989 forest landCrown conservation contract over post-1989 forest land in respect of which the person is recorded as a participantParty to the Crown conservation contractBeing a party to a Crown conservation contractThe following table is small in size and has 4 columns. Columns 1 to 4 are grouped under the heading Part C. Column 1 is headed Existing participant. Column 2 is headed Interest expired or terminated. Column 3 is headed New participant. Column 4 is headed New activity of standard or permanent forestry.Part CExisting participantInterest expired or terminatedNew participantNew activity of standard or permanent forestryHolder of a registered forestry right over post-1989 forest landRegistered forestry right over post-1989 forest land in respect of which the person is recorded as a participantLandowner of the post-1989 forest landOwning post-1989 forest landLeaseholder under a registered lease of post-1989 forest landRegistered lease over post-1989 forest land in respect of which the person is recorded as a participantLandowner of the post-1989 forest landOwning post-1989 forest landParty to a Crown conservation contractCrown conservation contract over post-1989 forest land in respect of which the person is recorded as a participantLandowner of the post-1989 forest landOwning post-1989 forest land.
+  (a) if, subject to section 157A(4), a person registered as a participant in respect of an activity of standard forestry or permanent forestry and who is described in the first column of Part A of the following table transfers, including by way of sale, assignment, or by operation of law, all or any of the interest described in the second column of Part A of the table to a person described in the third column of Part A of the table:
+  (b) if a person registered as a participant in respect of an activity of standard forestry or permanent forestry and who is described in the first column of Part B of the following table grants an interest or enters into a contract described in the second column of Part B of the table:
+  (c) if an interest described in the second column of Part C of the following table expires or is terminated, and the person described in the first column of Part C of the table is, in relation to that interest, registered as a participant in respect of an activity of standard forestry or permanent forestry:
+(2) Despite subsection (1)﻿(b), if a transferor covered by that paragraph grants a registered forestry right or registered lease described in the second column of Part B of the table in that subsection, this section applies only if, before the date of transmission,—
   (a) the transferor and the transferee have agreed in writing that the transferee is to become the participant in relation to the post-1989 forest land to which the transmitted interest relates; and
   (b) the transferor has given written notice of the agreement to the EPA.
-(2) In subsections (1), (1A), and (3) to (7) and section 193,—
-  (a) affected carbon accounting area—
+(3) In this section and section 187A,—
+  (a) CAA1—
     (i) means a carbon accounting area that contains post-1989 forest land to which a transmitted interest relates; and
     (ii) includes, where a transmitted interest relates to post-1989 forest land in part of a carbon accounting area, that carbon accounting area:
   (b) each of the persons described in the first column of the table in subsection (1) is a transferor:
@@ -4937,87 +5393,1277 @@ The EPA must give written or electronic notice to a participant, or former parti
       (D) the Crown conservation contract:
     (ii) in the circumstances described in subsection (1)﻿(b), the date of registration of the registered forestry right over post-1989 forest land, the date of registration of the registered lease of post-1989 forest land, or the date the Crown conservation contract is entered into:
     (iii) in the circumstances described in subsection (1)﻿(c), the date that the registered forestry right over post-1989 forest land, registered lease of post-1989 forest land, or Crown conservation contract expires or is terminated.
-(3) If this section applies, then,—
-  (a) within 20 working days of the date of transmission of the transmitted interest,—
-    (i) the transferor and transferee must notify the EPA of the transmission; and
-    (ii) the transferor must submit an emissions return as required by section 193 in relation to any affected carbon accounting areas; and
-  (b) from the date of transmission,—
-    (i) the transferor ceases to be a participant under this Act in relation to the post-1989 forest land to which the transmitted interest relates and the transferee becomes a participant in respect of the activity listed in Part 1 of Schedule 4 that is referred to in the fourth column of the table in subsection (1) in relation to the post-1989 forest land to which the transmitted interest relates; and
-    (ii) the area of post-1989 forest land to which the transmitted interest relates constitutes a new carbon accounting area in respect of which the transferee is the participant; and
-    (iii) any post-1989 forest land remaining in an affected carbon accounting area and to which the transmitted interest does not relate constitutes a new carbon accounting area in respect of which the transferor is the participant.
-(4) If this section applies because a transmitted interest has been transmitted by operation of law, then—
-  (a) the notice given under subsection (3)﻿(a)﻿(i) must be given as soon as practicable after the date of transmission; and
-  (b) the emissions return required under section 193 must be submitted as soon as possible after the date of the transmission.
-(5) A notice given under subsection (3)﻿(a)﻿(i) must be—
+(4) The transferor and transferee must give notice of the transmission to the EPA—
+  (a) within 20 working days of the date of transmission; or
+  (b) if the transmission occurred by operation of law, as soon as practicable after the date of transmission.
+(5) The notice must—
+  (a) include a final forestry emissions return prepared by the transferor under section 183B for the activity—
+    (i) that covers each CAA1; and
+    (ii) that uses the date of transmission as the relevant date; and
+  (b) include in that return a new unit balance report prepared by the transferor under section 185 for the activity that covers the following carbon accounting areas (each a CAA2):
+    (i) for each CAA1 where the transmitted interest applies to its entire area, a transferee CAA2 with the same boundaries as the CAA1:
+    (ii) for each other CAA1,—
+      (A) a transferee CAA2 for the part of the CAA1 to which the transmitted interest relates; and
+      (B) a transferor CAA2 for the rest of the CAA1.
+(6) The notice must be—
   (a) in the prescribed form; and
   (b) accompanied by any prescribed fees or charges and any prescribed information; and
   (c) signed by both the transferor and the transferee.
-(5A) However, if the transmitted interest is part of a deceased participant’s estate,—
+(7) However, if the transmitted interest is part of a deceased participant’s estate,—
   (a) for the transfer to the executor or administrator,—
-    (i) subsections (3)﻿(a), (4), and (5) do not apply (so that no notice or emissions return is required); but
-    (ii) subsection (3)﻿(b) still applies and the EPA must act under subsection (6); and
+    (i) subsections (4) to (6) do not apply (so that no notice, final forestry emissions return, or new unit balance report is required); but
+    (ii) section 187A(2)﻿(b) and (c) and (3) still applies; and
   (b) for the transfer from the executor or administrator to a successor,—
-    (i) the transferee (not the transferor) must submit the emissions return required by section 193; and
-    (ii) for the purposes of that emissions return, the affected carbon accounting areas are those that relate to the transfer to the executor or administrator; and
+    (i) the transferee (not the transferor) must prepare the final forestry emissions return and new unit balance report required by subsection (5); and
+    (ii) for the purposes of those documents, the CAA1s are the CAA1s that relate to the transfer to the executor or administrator; and
   (c) in every case, the executor or administrator of more than 1 deceased participant’s estate is treated under this Act as if they were a separate participant for each of those estates.
-(6) Following receipt of a notice complying with subsection (5) and the emissions return required under section 193, the EPA must take such of the following actions as are relevant:
-  (a) if the transferee is not already registered under section 57, enter the transferee's name on the register kept under section 57 as a participant in respect of an activity listed in Part 1 of Schedule 4 that is referred to in the fourth column of the table in subsection (1):
-  (b) if the transferee is already registered under section 57, but not in respect of the activity listed in Part 1 of Schedule 4 that is referred to in the fourth column of the table in subsection (1), amend that registration to show that the transferee is now a participant in respect of that activity:
-  (c) if the transferor is registered under section 57 only in respect of carrying out the activity listed in Part 1 of Schedule 4 in respect of post-1989 forest land to which the transmitted interest relates, remove the transferor's name from the register in respect of that activity:
-  (d) update the EPA's records under section 188(2) by—
-    (i) removing the affected carbon accounting areas from the transferor’s record (if the transferor remains a participant only in respect of an activity listed in Part 1 of Schedule 4); and
-    (ii) recording any new carbon accounting areas constituted by operation of subsection (3)﻿(b)﻿(ii) or (iii) on the transferor's or transferee’s record; and
-    (iii) recording the opening unit balance of any carbon accounting area referred to in subparagraph (ii), calculated in accordance with section 190(3)﻿(a) or (c):
-  (e) as applicable, give notice to the transferor and transferee of the action taken by the EPA under paragraphs (a) to (d).
-(7) To avoid doubt,—
-  (a) for the purposes of section 54(4), a transferor continues to be liable in respect of any obligations that arose in relation to the carbon accounting area or part of the carbon accounting area while the transferor was a participant in respect of the post-1989 forest land to which the transmitted interest relates (for example, in respect of the submitting of returns and surrendering of units required under section 189); and
+(8) To avoid doubt,—
+  (a) for the purposes of section 54(4), but subject to section 187D, a transferor continues to be liable in respect of any obligations that arose in relation to the CAA1 while the transferor was a participant in respect of the post-1989 forest land to which the transmitted interest relates (for example, in respect of the submitting of returns and surrendering of units); and
   (b) a transferor is not required to notify the EPA separately under section 59 if the result of the transfer is that the transferor is ceasing to carry out the activity; and
-  (c) the EPA is not required to notify any person under section 188(6)﻿(a) of the registration of the transferee under section 57 if that registration is in accordance with this section.
+  (c) the EPA is not required to notify any person under section 182C(6)﻿(a) of the registration of the transferee under section 57 if that registration is in accordance with this section.
 
-### 193 Emissions returns in relation to transmitted interests
-(1) If section 192 applies, the transferor is not required to submit an emissions return under section 191 in respect of any post-1989 forest land to which the transmitted interest relates, but must submit an emissions return under this section by the date specified in section 192(3)﻿(a) or 192(4)﻿(b), as applicable.
-(2) An emissions return under this section must—
-  (a) be in respect of all affected carbon accounting areas; and
-  (b) in respect of each carbon accounting area covered by the return, be for the period—
-    (i) commencing on the latest of—
-      (A) the first day of the mandatory emissions return period in which the interest was transmitted; or
-      (B) the date on which the land in the affected carbon accounting area became post-1989 forest land; or
-      (C) the date of constitution of the carbon accounting area (as specified in section 190(5)), if the carbon accounting area was constituted following removal of land from a carbon accounting area under section 188(7)﻿(b)﻿(ii)﻿(B) or transmission of an interest under section 192(3)﻿(b); or
-      (D) if an emissions return has been submitted under section 189(4A) in relation to the affected carbon accounting area, the day after the end of the period covered by the last emissions return submitted for the carbon accounting area under that section; and
-    (ii) ending on the date of transmission; and
-  (c) comply with section 189(5) and (6), as if the references in those provisions to subsection (4) were references to this section.
-(3) If a person submits an emissions return under this section,—
-  (a) section 189(7) applies to the person as if the references in that provision to subsection (4) were references to this section; and
-  (b) section 189(8) applies to the person as if the reference in that provision to this section was a reference to section 193.
+### 187A Effect of transmission of interest in post-1989 forest land
+(1) This section applies if notice of a transmission is given to the EPA in accordance with section 187, including a final forestry emissions return (for the CAA1s) and a new unit balance report (for the CAA2s).
+(2) Starting on the date of transmission,—
+  (a) the emissions return is treated as being submitted (so that the total liability or entitlement has effect, and the unit balance is updated, for the CAA1s under section 184D); and
+  (b) the transferee becomes a participant on the transferee CAA2s in the relevant activity referred to in the fourth column of the table in section 187(1); and
+  (c) the transferor,—
+    (i) if there is 1 or more transferor CAA2s, is a participant in the relevant activity described in section 187(1) on the transferor CAA2s (instead of the CAA1s); or
+    (ii) otherwise, ceases to be a participant in that activity on the CAA1s; and
+  (d) the unit balance of each CAA2 is the opening unit balance calculated for it in the new unit balance report.
+(3) The EPA must amend the register kept under section 57, and the records of carbon accounting areas kept under section 182C(2), to record the effects of this section.
 
-**Information about status of forest land**
+**Non-compliance for transmitted interests**
 
-### 194 Information about status of forest land
-(1) Despite anything in this Act, the EPA must, on receipt of a written request for information about the carbon accounting area or areas to which it relates, provide a statement containing the information in subsection (2) to—
-  (a) the landowner of any post-1989 forest land in respect of which the holder of a registered forestry right or registered lease or party to a Crown conservation contract is a participant; or
-  (b) a prospective transferee, holder of a registered forestry right or registered lease, or party to a Crown conservation contract who has the written consent of the participant in respect of any post-1989 forest land.
-(2) A statement under subsection (1) must set out—
-  (a) the emissions returns (if any) that have been submitted in respect of the carbon accounting area or areas covered by the information request since the carbon accounting area or areas were constituted, and the period covered by those returns; and
-  (b) the unit balance of the carbon accounting area or areas covered by the information request.
-  (c)
-(3)
+### 187B EPA may act if person fails to give notice of transmitted interest
+(1) This section applies if—
+  (a) the EPA is satisfied that a notice has not been given in accordance with section 187(4) (for a transmission of interest); and
+  (b) section 187D (for 1 or more transmissions of interest after that first one) does not apply to the transmission.
+(2) In particular, this section applies to whichever of the following notices (forming part of that overall notice required by section 187(4)) has not been given in accordance with that provision (each a failed notice):
+  (a) the part that requires information from the transferor (the transferor notice):
+  (b) the part that requires information from the transferee (the transferee notice).
+EPA may correct matters
+(3) The EPA may act under section 187C(2) and (3) in relation to a failed notice if—
+  (a) the EPA notifies the transferor or transferee of its intention to do so; and
+  (b) the EPA specifies the following deadline for them to give or correct the required notice: the end of the 90th working day after the EPA gives its notice; and
+  (c) they do not give or correct the required notice by the deadline.
+EPA may correct matters, remove relevant registration after transmission registered, or do both
+(4) The EPA may act under 1 or both of section 187C(2) and (3) and section 187C(4) and (5) in relation to a failed notice if—
+  (a) the following requirements are met:
+    (i) the EPA notifies the transferor or transferee of its intention to do so; and
+    (ii) the EPA specifies the following deadline for them to give or correct the required notice:
+      (A) 6 months after the end of the mandatory emissions return period in which the date of transmission falls; or
+      (B) if the EPA gives its notice after the deadline in subsubparagraph (A), the end of the 90th working day after the EPA gives its notice; and
+    (iii) they do not give or correct the required notice by the deadline; or
+  (b) the EPA is unable to notify the transferor or transferee of its intention to do so because it is not reasonably practicable to identify or locate them or their address.
+EPA may remove relevant registration where transmission not registered
+(5) The EPA may act under section 187C(6) and (7) in relation to a failed notice if—
+  (a) the following requirements are met:
+    (i) the EPA notifies the transferor or transferee of its intention to do so; and
+    (ii) the EPA specifies the following deadline for them to give or correct the required notice:
+      (A) 6 months after the end of the mandatory emissions return period in which the date of transmission falls; or
+      (B) if the EPA gives its notice after the deadline in subsubparagraph (A), the end of the 90th working day after the EPA gives its notice; and
+    (iii) they do not give or correct the required notice by the deadline; or
+  (b) the EPA is unable to notify the transferor or transferee of its intention to do so because it is not reasonably practicable to identify or locate them or their address.
+(6) However, where this section also applies to 1 or more other transmissions of interest for different parts of the same CAA1, the EPA must not act under section 187C(6) and (7) unless it is authorised to do so (by satisfying subsection (5) of this section) in respect of both the transferor and transferee of all of the transmissions.
+Transferor or transferee gives or corrects notice
+(7) If the transferor or transferee gives or corrects the required notice by the deadline specified in a notice given by the EPA under this section, their notice must be treated as having been given to the EPA—
+  (a) in accordance with section 187(4); and
+  (b) on the last day on which it could have been given under that provision.
 
-### Subpart 5 — General
+### 187C How EPA may act
+(1) In acting under this section in relation to a failed notice, the EPA may—
+  (a) use subsections (2) and (3) to correct matters:
+  (b) use subsections (4) and (5) to remove registration in relation to relevant CAA2s (after the transmission is registered):
+  (c) use subsections (6) and (7) to remove registration in relation to relevant CAA1s (where the transmission is not registered).
+Correcting matters
+(2) The EPA may,—
+  (a) if the failed notice has not been given, prepare the notice that ought to have been given; or
+  (b) if the failed notice has been given but is not complete, complete the notice.
+(3) The EPA may do the following when preparing or completing the notice:
+  (a) if the notice must include an emissions return (including any new unit balance report), the EPA may apply—
+    (i) section 120 to amend an emissions return that was included; or
+    (ii) section 121 to assess the matters that should have been in an emissions return that was not included; and
+  (b) if the notice must include any other information, the EPA may prepare or complete that information by making any required assumptions or estimates.
+Removing registration for relevant areas after transmission registered
+(4) If the transmission of interest has had effect in accordance with section 187A, the EPA may amend the register kept under section 57, and the records of carbon accounting areas kept under section 182C(2), to record that—
+  (a) the transferee ceased to be a participant in the relevant activity on each transferee CAA2 immediately after becoming a participant for those, if the transferee notice is a failed notice:
+  (b) the transferor ceased to be a participant in the relevant activity on the transferor CAA2s immediately after becoming a participant for those, if—
+    (i) there are 1 or more transferor CAA2s; and
+    (ii) the transferor notice is a failed notice.
+(5) If the EPA acts under subsection (4),—
+  (a) the person who ceases to be a participant on certain CAA2s is liable to surrender the number of New Zealand units equal to the unit balance of each of those CAA2s (calculated under the last emissions return submitted for the CAA2); and
+  (b) see sections 182D and 182E, which require notice to the participant and notice to interested parties, if any.
+Removing registration for relevant areas where transmission not registered
+(6) If the transmission of interest has not had effect in accordance with section 187A, the EPA may amend the register kept under section 57, and the records of carbon accounting areas kept under section 182C(2), to record that the transferor ceased to be a participant in the relevant activity in the CAA1s on the date of transmission.
+(7) If the EPA acts under subsection (6),—
+  (a) the transferor is liable to surrender the number of New Zealand units equal to the unit balance of each of those CAA1s (calculated under the last emissions return submitted for the CAA1); and
+  (b) see sections 182D and 182E, which require notice to the participant and notice to interested parties, if any.
 
-**Post-1989 forest land and pre-1990 forest land**
+### 187D EPA may attribute liability and entitlement to final transferee after earlier non-compliant transmission
+(1) This section applies if a person would have been a transferee of a transmitted interest (the final transmission) under section 187 had it not been for—
+  (a) the failure of any person to give notice in accordance with section 187(4) for an earlier transmission of interest (the first transmission); and
+  (b) if there were 1 or more other transmissions of interest between the first and final transmissions, those other transmissions not becoming subject to (and compliant with) the requirements of section 187 after that failure.
+(2) The EPA must treat the transferee of the final transmission as if they were liable to surrender units for all emissions, and entitled to receive units for all removals, from the land in their transferee CAA2s in the period that—
+  (a) starts immediately after the emissions return period of the last emissions return submitted for the CAA1s of the first transmission; and
+  (b) ends on the date of transmission of the final transmission.
+(3) The EPA must do so by acting under section 187C(2) to (5), which applies with any required modifications, to the extent required to—
+  (a) calculate that liability and entitlement; and
+  (b) amend the register kept under section 57, and the records of carbon accounting areas kept under section 182C(2), to record that the transferee is a participant in the relevant activity on the transferee CAA2s.
+(4) The EPA must also act under section 187C(2) to (5), which applies with any required modifications, to the extent required to do 1 or both of the following for any transferor CAA2s that derive, during the first or any other transmission, from the land in the CAA1s of the first transmission:
+  (a) calculate the liability and entitlement of the transferor of the transferor CAA2:
+  (b) amend the register kept under section 57, and the records of carbon accounting areas kept under section 182C(2), to record that the transferor is a participant in the relevant activity in the transferor CAA2.
+
+**Application to reconfigure carbon accounting areas for standard or permanent forestry**
+
+### 188 Application to reconfigure carbon accounting areas for standard or permanent forestry
+(1) A participant in an activity of standard forestry or permanent forestry may apply to reconfigure any of the carbon accounting areas for the activity.
+(2) The application must—
+  (a) specify the activity; and
+  (b) specify the land to which the application relates, which must be 1 or more whole carbon accounting areas for the activity (each a CAA1); and
+  (c) include a final forestry emissions return prepared under section 183B for the activity—
+    (i) that covers the CAA1s; and
+    (ii) that uses the date on which the application is submitted to the EPA as the relevant date; and
+  (d) include in that return a new unit balance report prepared under section 185 for the activity that covers 1 or more carbon accounting areas (CAA2s) consisting of all the same land in the CAA1s.
+(3) The application must also—
+  (a) be signed by the applicant; and
+  (b) be submitted—
+    (i) in the prescribed manner and format; and
+    (ii) together with the prescribed fee (if any); and
+    (iii) together with the prescribed information (if any).
+(4) However, subsection (1) is subject to the following provisions (which limit reconfiguration):
+  (a) section 191H (carbon accounting areas (averaging)):
+  (b) section 192G (P89 offsetting (approved) land):
+  (c) section 193H (temporary adverse event land).
+
+### 188A Criteria to reconfigure carbon accounting areas for standard or permanent forestry
+(1) If a person submits an application under section 188 (for a participant in an activity of standard forestry or permanent forestry to reconfigure carbon accounting areas for the activity), the EPA,—
+  (a) if satisfied that the criteria in subsection (2) are met, must approve the application; or
+  (b) otherwise, may decline the application.
+(2) The criteria are—
+  (a) that the application complies with section 188; and
+  (b) that the applicant has paid any prescribed fees or charges; and
+  (c) that any other criteria prescribed in regulations made under section 168(1)﻿(naa) are met.
+(3) In considering the application, the EPA must treat the land to which it relates as post-1989 forest land.
+
+### 188B Approval of application to reconfigure carbon accounting areas for standard or permanent forestry
+(1) This section applies if the EPA approves a person’s application under section 188 (for a participant in an activity of standard forestry or permanent forestry to reconfigure carbon accounting areas for the activity).
+(2) Starting on the day on which the application was submitted to the EPA,—
+  (a) the emissions return for the CAA1s is treated as being submitted (so that the total liability or entitlement has effect, and the unit balance is updated, for the CAA1s under section 184D); and
+  (b) the person is a participant in the activity on the CAA2s (instead of the CAA1s); and
+  (c) the person is not liable to surrender the unit balance of each CAA1; and
+  (d) the unit balance of each CAA2 is the opening unit balance calculated for it in the new unit balance report.
+(3) The EPA must amend the register kept under section 57, and the records of carbon accounting areas kept under section 182C(2), to record the effects of this section.
+
+### 188C Restriction start date of reconfigured carbon accounting area for permanent forestry
+(1) This section applies if a person reconfigures carbon accounting areas for permanent forestry by approval of an application under section 188.
+(2) For the purposes of section 190, the restriction start date of a CAA2 is the latest restriction start date of the CAA1s that overlap with the CAA2 (because any land in the CAA1 became land in the CAA2).
+
+**Application to change activity on post-1989 forest land**
+
+### 189 Application to change activity on post-1989 forest land
+(1) A participant in an initial activity on any post-1989 forest land may apply to become a participant in—
+  (a) a final activity on the land, if the initial activity is standard forestry or permanent forestry; or
+  (b) 1 or more final activities on the land, if the initial activity is PFSI activity.
+(2) To avoid doubt, a change in activity carries over the unit balance of each carbon accounting area (or the net number of units transferred for PFSI land) from the initial activity to the final activity.
+Change from standard or permanent forestry
+(3) If the initial activity is standard forestry or permanent forestry, the application must—
+  (a) specify the initial activity and the final activity; and
+  (b) specify the land to which the application relates, which must be 1 or more whole carbon accounting areas for the initial activity (each a CAA1); and
+  (c) include a final forestry emissions return prepared under section 183B for the initial activity—
+    (i) that covers the CAA1s; and
+    (ii) that uses the date on which the application is submitted to the EPA as the relevant date; and
+    (iii) that includes any liability required to be included by section 189F(4) or 189G(4); and
+  (d) include in that return a new unit balance report prepared under section 185 for the final activity that covers the following 1 or more carbon accounting areas (each a CAA2):
+    (i) CAA2s that have the same boundaries as the CAA1s, to the extent that subparagraph (ii) does not apply:
+    (ii) if the clear-fell exception applies and any land that is now in 1 or more CAA1s was clear-felled after the forest sink covenant was terminated,—
+      (A) a CAA2 for all of the land that was clear-felled; and
+      (B) a CAA2 for each CAA1 to the extent it was not clear-felled.
+Change from PFSI activity
+(4) If the initial activity is PFSI activity, the application must—
+  (a) specify the initial activity and the 1 or more final activities; and
+  (b) specify the land to which the application relates (the PFSI land), which must be all of the forest land that a forest sink covenant is registered against; and
+  (c) include an emissions return prepared under section 189C for the initial activity that covers the PFSI land, and specifying the liability (if any) calculated under section 189E; and
+  (d) include in that return a new unit balance report prepared under section 189D for each final activity that covers the following carbon accounting areas (each a CAA2):
+    (i) if the final activity for any of the land is standard forestry, one CAA2 for all of that land:
+    (ii) if the final activity for any of the land is permanent forestry, one CAA2 for all of that land, unless subparagraph (iii) applies:
+    (iii) if the final activity for any of the land is permanent forestry (the PF land) and any of the PF land was clear-felled after the forest sink covenant was terminated,—
+      (A) one CAA2 for all of the PF land that was clear-felled; and
+      (B) one CAA2 for the rest of the PF land.
+General provisions
+(5) The application must also—
+  (a) be signed by the applicant; and
+  (b) be submitted—
+    (i) in the prescribed manner and format; and
+    (ii) together with the prescribed fee (if any); and
+    (iii) together with the prescribed information (if any).
+(6) The following table specifies the matters referred to in this section (under the relevant headings):The following table is small in size and has 4 columns. Column 1 is headed Previous activity. Column 2 is headed Initial activity. Column 3 is headed Final activity. Column 4 is headed Clear-fell exception.Previous activityInitial activityFinal activityClear-fell exceptionPFSI activityStandard forestryPFSI activityPermanent forestryException appliesStandard forestry Permanent forestryPFSI activityStandard forestry Permanent forestryException appliesPermanent forestryStandard forestry
+(7) As indicated in the table, the clear-fell exception applies to—
+  (a) a change from PFSI activity (initial activity) to permanent forestry (final activity):
+  (b) a change from standard forestry (initial activity) to permanent forestry (final activity), if the activity on the land was previously changed from PFSI activity (previous activity) to standard forestry under this section.
+
+### 189A Criteria to change activity on post-1989 forest land
+(1) If a person submits an application under section 189 (for a participant in an initial activity on post-1989 forest land to become a participant in a final activity on the land), the EPA,—
+  (a) if satisfied that the criteria in subsection (2) are met, must approve the application; or
+  (b) otherwise, may decline the application.
+(2) The criteria are—
+  (a) that the application complies with section 189; and
+  (b) that the applicant has paid any prescribed fees or charges; and
+  (c) if the initial activity is PFSI activity, that the EPA is satisfied that the person would (if appropriate) qualify to be registered as a participant in respect of the land under section 182A; and
+  (d) that any other criteria prescribed in regulations made under section 168(1)﻿(naa) are met.
+(3) In considering the application,—
+  (a) if the initial activity is standard forestry or permanent forestry, the EPA must treat the land to which the application relates as post-1989 forest land; or
+  (b) if the initial activity is PFSI activity, the EPA must treat the forest land to which the application relates as post-1989 forest land.
+
+### 189B Approval of application to change activity on post-1989 forest land
+(1) This section applies if the EPA approves a person’s application under section 189 (for a participant in an initial activity on post-1989 forest land to become a participant in a final activity on the land).
+(2) If the initial activity is standard forestry or permanent forestry, then, starting on the day on which the application was submitted to the EPA,—
+  (a) the emissions return for the CAA1s is treated as being submitted (so that the total liability or entitlement has effect, and the unit balance is updated, for the CAA1s under section 184D); and
+  (b) the person ceases to be a participant in the initial activity on the CAA1s; and
+  (c) the person becomes a participant in the final activity on the CAA2s; and
+  (d) the person is not liable to surrender the unit balance of each CAA1; and
+  (e) the unit balance of each CAA2 is the opening unit balance calculated for it in the new unit balance report.
+(3) If the initial activity is PFSI activity, then, starting on the day on which the application was submitted to the EPA,—
+  (a) the forest sink covenant registered against the PFSI land is terminated; and
+  (b) if section 189E applies to a CAA2, the person is liable to surrender the number of units (if any) calculated under that section and specified in the emissions return; and
+  (c) for each CAA2, the person becomes a participant in the final activity specified for that CAA2 in the application; and
+  (d) the unit balance of each CAA2 is the opening unit balance calculated for it in the new unit balance report.
+(4) The EPA must amend the register kept under section 57, and the records of carbon accounting areas kept under section 182C(2), to record the effects of this section.
+
+### 189C Emissions return for application to change from PFSI activity
+(1) An emissions return prepared under this section must—
+  (a) specify the PFSI land that the return covers; and
+  (b) specify that the person carried out PFSI activity on the PFSI land; and
+  (c) set out the calculation under subsection (2) of the PFSI unit balance from transfers of units while the forest sink covenant was registered against the PFSI land; and
+  (d) if applicable, set out the calculation under section 189E of the person’s liability (s) for the PFSI land.
+(2) The PFSI unit balance of the PFSI land (g) is calculated as follows:g = r − ewhere—ris the number of units that were transferred by the Crown in respect of the PFSI land while the forest sink covenant was registered against iteis the number of units that were transferred to the Crown in respect of the PFSI land while the forest sink covenant was registered against it.
+(3) The emissions return must—
+  (a) include the prescribed information (if any); and
+  (b) be signed by the participant; and
+  (c) when submitted under the relevant provision, be submitted—
+    (i) in the prescribed manner and format; and
+    (ii) together with the prescribed fee (if any); and
+    (iii) together with the prescribed information (if any).
+
+### 189D New unit balance reports for application to change from PFSI activity
+(1) A new unit balance report prepared under this section for a final activity must—
+  (a) specify the CAA2 that the report covers or, if the final activity is permanent forestry to which section 189(4)﻿(d)﻿(iii) applies, specify and define each CAA2 that the report covers; and
+  (b) specify the PFSI land (all or part of which will form the CAA2 or CAA2s); and
+  (c) set out the calculation under this section of the opening unit balance and, if applicable, the provisional unit balance of the CAA2 or each CAA2.
+One final activity and 1 CAA2
+(2) If there is only 1 final activity for the PFSI land and 1 CAA2 (formed from all the PFSI land), and section 189E does not apply, the opening unit balance of the CAA2 (v) is the PFSI unit balance (g) (under the emissions return for the PFSI land that includes the report).
+(3) If there is only 1 final activity for the PFSI land and 1 CAA2 (formed from all the PFSI land), and section 189E applies,—
+  (a) the provisional unit balance of the CAA2 (h) is the PFSI unit balance (g) (under the emissions return for the PFSI land that includes the report); and
+  (b) the opening unit balance of the CAA2 (v) is calculated as follows:v = h − swhere—his the provisional unit balance of the CAA2sis the number of units (if any) that the person is liable to surrender under section 189E.
+Two final activities or 2 CAA2s
+(4) Subsections (5) and (6) apply if there are 2 final activities for the PFSI land or 2 CAA2s for a final activity.
+(5) If section 189E does not apply to a particular CAA2, the opening unit balance of that CAA2 (v) is calculated as follows:v = g × (a ÷ b)where—gis the PFSI unit balance (under the emissions return for the PFSI land that includes the report)ais the area of the CAA2 (in hectares)bis the area of the PFSI land (in hectares).
+(6) If section 189E applies to a particular CAA2,—
+  (a) the provisional unit balance of that CAA2 (h) is calculated as follows:h = g × (a ÷ b)where—gis the PFSI unit balance (under the emissions return for the PFSI land that includes the report)ais the area of the CAA2 (in hectares)bis the area of the PFSI land (in hectares); and
+  (b) the opening unit balance of that CAA2 (v) is calculated as follows:v = h − swhere—his the provisional unit balance of the CAA2sis the number of units (if any) that the person is liable to surrender under section 189E.
+
+### 189E Liability to surrender units on transfer from PFSI activity to standard forestry in carbon accounting area (averaging)
+(1) This section applies to a CAA2 if—
+  (a) a person submits an application under section 189; and
+  (b) the initial activity is PFSI activity and the final activity for the CAA2 is standard forestry; and
+  (c) on the constitution date for the CAA2, any land in it (area A) will have a determined carbon stock greater than its nominal average carbon stock.
+(2) If the EPA approves the application, the person is liable to surrender the number of units (s) calculated as follows:s = (d − n) × awhere—dis the determined carbon stock of area A, determined as if it were in a carbon accounting area (averaging) (in tonnes per hectare)nis what the nominal average carbon stock for area A will be when the CAA2 is constituted (in tonnes per hectare)ais the area (in hectares) of area A.
+(3) If the CAA2 will have 2 or more areas of land that the regulations require to be treated separately for the purpose of determining their nominal average carbon stock or determined carbon stock (or both), subsection (2) applies separately in respect of each area.
+(4) However, if the s calculated under subsection (2), or the sum of each s where subsection (3) applies, is greater than the provisional unit balance of the CAA2 under section 189D(3)﻿(a) or (6)﻿(a), then s is recalculated as that provisional unit balance.
+(5) The liability to surrender units under this section—
+  (a) is to be treated as a liability for emissions from the PFSI land; and
+  (b) must be included in the emissions return under section 189(4)﻿(c) as the person’s liability for the land.
+(6) In this section, terms defined in section 191 have the meanings given in that section.
+
+### 189F Liability to surrender units on transfer from permanent forestry to standard forestry in carbon accounting area (averaging)
+(1) This section applies if—
+  (a) a person submits an application under section 189; and
+  (b) the initial activity is permanent forestry and the final activity is standard forestry; and
+  (c) on the constitution date for any CAA2, any land in it (area A) will have a determined carbon stock greater than its nominal average carbon stock.
+(2) If the EPA approves the application, the person is liable to surrender the number of units (s) calculated as follows:s = (d − n) × awhere—dis the determined carbon stock of area A, determined as if it were in a carbon accounting area (averaging) (in tonnes per hectare)nis what the nominal average carbon stock for area A will be when the CAA2 is constituted (in tonnes per hectare)ais the area (in hectares) of area A.
+(3) If the CAA2 will have 2 or more areas of land that the regulations require to be treated separately for the purpose of determining their nominal average carbon stock or determined carbon stock (or both), subsection (2) applies separately in respect of each area.
+(4) The liability to surrender units equal to the s calculated under subsection (2), or the sum of each s where subsection (3) applies,—
+  (a) is to be treated as a liability for emissions from the CAA1 that includes area A during the emissions return period for the emissions return under section 189(3)﻿(c); and
+  (b) must be included in that emissions return as part of the calculation under section 184A of the person’s net liability or entitlement required by section 183B(1)﻿(c)﻿(iv).
+(5) In this section, terms defined in section 191 have the meanings given in that section.
+
+### 189G Liability to surrender units on transfer from standard forestry in carbon accounting area (averaging) to permanent forestry
+(1) This section applies if—
+  (a) a person submits an application under section 189; and
+  (b) the initial activity is standard forestry and the final activity is permanent forestry; and
+  (c) any land (area A) in a CAA1 that is a carbon accounting area (averaging)—
+    (i) has a subsequent rotation forest; and
+    (ii) has a determined carbon stock that is less than the nominal average carbon stock for area A.
+(2) If the EPA approves the application, the person is liable to surrender the number of units (s) calculated as follows:s = (n − d) × awhere—nis the nominal average carbon stock for area A (in tonnes per hectare)dis the determined carbon stock of area A (in tonnes per hectare)ais the area (in hectares) of area A.
+(3) If the CAA1 has 2 or more areas of subsequent rotation forest that the regulations require to be treated separately for the purpose of determining their nominal average carbon stock or determined carbon stock (or both), subsection (2) applies separately in respect of each area.
+(4) The liability to surrender units equal to the s calculated under subsection (2), or the sum of each s where subsection (3) applies,—
+  (a) is to be treated as a liability for emissions from the CAA1 during the emissions return period for the emissions return under section 189(3)﻿(c); and
+  (b) must be included in that emissions return as part of the calculation under section 184A of the person’s net liability or entitlement required by section 183B(1)﻿(c)﻿(iv).
+(5) In this section, terms defined in section 191 have the meanings given in that section.
+
+**Restrictions for permanent forestry land**
+
+### 190 Permanent forestry period for land
+(1) If a person becomes registered as a participant carrying out permanent forestry in respect of any land, the permanent forestry period for the land is—
+  (a) an initial period of 50 years starting on the restriction start date; and
+  (b) any 1 or more consecutive periods of a further 25 years for which a participant chooses the option under section 190J(1)﻿(a).
+(2) The restriction start date for the land is specified in column 4 of the table, which applies to a situation as follows:
+  (a) if no initial activity is specified (in column 2), it means the person became registered for the permanent forestry without reference to any initial activity on the land:
+  (b) if an initial activity is specified (in column 2) and no previous activity is specified (in column 1), it means—
+    (i) the person became registered for the permanent forestry by acceptance of an application under section 189 to change from the initial activity; and
+    (ii) the person previously became registered for the initial activity without reference to any previous activity:
+  (c) if an initial activity is specified (in column 2) and a previous activity is specified (in column 1), it means—
+    (i) the person became registered for the permanent forestry by acceptance of an application under section 189 to change from the initial activity; and
+    (ii) the person previously became registered for the initial activity by acceptance of an application under section 189 to change from the previous activity.
+(3) However, as indicated in column 5 of the table, the restriction start date is the registration date for the CAA2 formed from clear-felled land if—
+  (a) the clear-fell exception applied in the application under section 189 to change from the initial activity; and
+  (b) any of the land in the application was clear-felled after the forest sink covenant was terminated.
+(4) After any land’s permanent forestry period has started, its permanent forestry period—
+  (a) may change under section 188C (if carbon accounting areas are reconfigured); but
+  (b) does not change if the land becomes part of a new carbon accounting area when—
+    (i) a person ceases to be a participant on other land because of section 182G (for a natural event that permanently prevents re-establishing a forest or land cleared for best practice forest management); or
+    (ii) an interest is transmitted under section 187; or
+    (iii) other land is removed in accordance with section 190B (an exception requiring the Minister’s approval); or
+    (iv) any of the land in the carbon accounting area becomes temporary adverse event land under section 193C.
+(5) In this section,—
+  - **covenant date** means the date of registration of the forest sink covenant on land
+  - **registration date** means the date on which the person became registered as a participant in permanent forestry on the land.
+(6) The following table contains the columns referred to in this section:The following table is small in size and has 5 columns. Column 1 is headed Previous activity. Column 2 is headed Initial activity. Column 3 is headed Final activity. Column 4 is headed Restriction start date. Column 5 is headed Later restriction start date (for clear-felled land).Column 1Column 2Column 3Column 4Column 5Previous activityInitial activityFinal activityRestriction start dateLater restriction start date (for clear-felled land)Permanent forestryRegistration datePFSI activityPermanent forestryCovenant dateRegistration dateStandard forestryPermanent forestryRegistration datePFSI activityStandard forestry Permanent forestryCovenant dateRegistration date
+
+### 190A Restriction on ceasing to be registered for permanent forestry
+(1) The only ways in which a person may cease to be registered as a participant carrying out permanent forestry in respect of any land are as follows:
+  (a) the person is exempted from this section by an Order in Council under section 60A:
+  (b) the person ceases to be a participant because of—
+    (i) section 182G (for a natural event that permanently prevents re-establishing a forest or land cleared for best practice forest management); or
+    (ii) section 193L(2)﻿(e) (for temporary adverse event land that becomes permanently affected land):
+  (c) the land becomes land for which a transferee under section 187 is instead registered as carrying out permanent forestry (if there is a transmitted interest):
+  (d) the registration is removed in accordance with section 190B (an exception requiring the Minister’s approval):
+  (e) the registration for the whole carbon accounting area that includes the land is removed because of section 190G (after land is deforested):
+  (f) after the permanent forestry period ends,—
+    (i) the EPA removes the registration under section 190K (because the person chooses that option, for example):
+    (ii) the person changes from permanent forestry to standard forestry on the land by application under section 189.
+(2) This section overrides any other provision of this Act.
+
+### 190B Minister may approve removal of land from permanent forestry
+(1) This section sets out an exception by which a person can cease to be registered as a participant carrying out permanent forestry in respect of any land (the removal of land), whether all or part of a carbon accounting area.
+(2) The person must—
+  (a) first obtain the Minister’s approval in writing to the removal of land; and
+  (b) then apply for the removal of land under section 182F(4)﻿(a)﻿(i) or (ii) and comply with sections 186 and 186A or sections 186B and 186C (whichever apply).
+(3) The provisions referred to in subsection (2)﻿(b), and the provisions applied by them, apply as if the land subject to the removal of land were forest land.
+(4) The Minister may approve the removal of land only to the extent that the Minister is satisfied that—
+  (a) it would be unreasonable in the circumstances to require the person to remain registered in respect of the land; and
+  (b) the removal will not materially undermine the environmental integrity of 1 or both of the following:
+    (i) the activity of permanent forestry as a whole (not just by that person):
+    (ii) the emissions trading scheme.
+(5) In considering those matters, the Minister must have regard to—
+  (a) the desirability of minimising any compliance and administrative costs associated with the emissions trading scheme; and
+  (b) the relative costs of approving or not approving the removal of land, and who bears the costs; and
+  (c) any other matters the Minister considers relevant.
+
+### 190C Exception from prohibition on clear-felling and deforestation
+(1) Sections 190D to 190H do not apply to—
+  (a) land for which a person ceases to be a participant because of—
+    (i) section 182G (for a natural event that permanently prevents re-establishing a forest or land cleared for best practice forest management); or
+    (ii) section 193L(2)﻿(e) (for temporary adverse event land that becomes permanently affected land); or
+  (b) temporary adverse event land.
+(2) However, if land ceases to be temporary adverse event land and section 193Q applies, sections 190D to 190H do apply to the land.
+(3) For that purpose,—
+  (a) any clear-felling or deforestation that occurred while the land was temporary adverse event land is to be treated as having occurred on the date the land ceased to be temporary adverse event land; but
+  (b) any penalty must be calculated by reference to the pre-event carbon stock rate for the land under section 193A(3)﻿(d)﻿(i).
+
+### 190D Permanent forestry land must not be clear-felled
+(1) A person who is registered as a participant carrying out permanent forestry on any land must ensure that the land is not clear-felled.
+(2) If any of the land is clear-felled (the clear-felled land),—
+  (a) the person must, as soon as practicable, notify the EPA of the clear-felling; and
+  (b) the EPA must apply section 190E (pecuniary penalty for clear-felling) when required by that section.
+
+### 190E Pecuniary penalty for clear-felling of permanent forestry land
+(1) This section applies after—
+  (a) a person has notified the EPA of clear-felling under section 190D(2); and
+  (b) a final forestry emissions return has been submitted that covers the 1 or more carbon accounting areas that include the clear-felled land.
+(2) The EPA must apply to the court for a pecuniary penalty order against the person for contravening section 190D(1) unless the EPA is satisfied that the defence applies.
+(3) The court—
+  (a) must determine whether the person has contravened section 190D(1); and
+  (b) must determine whether the person has established, on the balance of probabilities, that the defence applies; and
+  (c) if it is satisfied that the person has contravened the provision without a defence,—
+    (i) must make a declaration of contravention; and
+    (ii) must order the person to pay a pecuniary penalty to the Crown.
+(4) The amount of the pecuniary penalty—
+  (a) must be the deemed value of the part of the forest on the clear-felled land that was cleared or killed below the requirement for tree crown cover from forest species of 30% in each hectare, as determined in accordance with regulations; but
+  (b) may be reduced, at the court’s discretion, if the court is satisfied that the person has a reasonable excuse for the contravention.
+(5) In this section, defence means that—
+  (a) the clear-felling was beyond the person’s control; and
+  (b) the person could not reasonably have foreseen the clear-felling; and
+  (c) the person could not reasonably have taken steps to prevent the clear-felling.
+
+### 190F Regulations for pecuniary penalty for clear-felling
+(1) The Governor-General may, by Order in Council made on the recommendation of the Minister, make regulations for 1 or more of the following purposes in relation to a pecuniary penalty under section 190E:
+  (a) setting out how to calculate the deemed value of the part of the forest on clear-felled land that was cleared or killed below the requirement for tree crown cover from forest species of 30% in each hectare:
+  (b) specifying different factors that affect the calculation of the deemed value, for example,—
+    (i) the area of the clear-felled land, in hectares:
+    (ii) the geographic region of the clear-felled land:
+    (iii) the forest species, or the type of forest, that was on the clear-felled land:
+    (iv) the age or size of the forest that was on the clear-felled land:
+  (c) providing for any other matters contemplated by section 190E, necessary for its administration, or necessary for giving it full effect.
+(2) Before recommending the making of regulations under this section, the Minister must—
+  (a) consider—
+    (i) the differences in value between forests of different types or ages or with trees of different forest species or sizes; and
+    (ii) the market value of the wood and other products removed from forests, and the historic variation in the market value; and
+    (iii) the need to assign an appropriate value for forests with no market, or for which no market price is available, so as to deter clear-felling on all land in permanent forestry; and
+    (iv) any need to deem the volume of the harvest from a forest; and
+  (b) comply with the consultation requirements in sections 3A and 3B.
+(3) Regulations made under this section come into force 3 months after the date of their publication under the Legislation Act 2019, or on any later date specified in the regulations.
+(4) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+
+### 190G Permanent forestry land must not be deforested
+(1) A person who is registered as a participant carrying out permanent forestry on any land must ensure that the land is not deforested.
+(2) If any of the land is deforested (the deforested land),—
+  (a) the person ceases to be a participant in permanent forestry in respect of each carbon accounting area that includes any deforested land (each a CAA1); and
+  (b) accordingly,—
+    (i) the person must notify the EPA under section 182F(4)﻿(b) that they have ceased to carry out the activity on the CAA1s; and
+    (ii) sections 186 and 186A apply in respect of the CAA1s; and
+  (c) the EPA must apply section 190H (pecuniary penalty for deforestation).
+
+### 190H Pecuniary penalty for deforestation of permanent forestry land
+(1) If this section applies, the EPA must apply to the court for a pecuniary penalty order against the person for contravening section 190G(1) unless the EPA is satisfied that the defence applies.
+(2) The court—
+  (a) must determine whether the person has contravened section 190G(1); and
+  (b) must determine whether the person has established, on the balance of probabilities, that the defence applies; and
+  (c) if it is satisfied that the person has contravened the provision without a defence,—
+    (i) must make a declaration of contravention; and
+    (ii) must order the person to pay a pecuniary penalty to the Crown.
+(3) The amount of the pecuniary penalty, in dollars (a), must be calculated as follows:a = b × cwhere—bis the number of units equal to the sum of the unit balance of each CAA1 that was calculated under the last emissions return submitted for the CAA1 before the clearing that caused the deforestationcis the price, in dollars, of carbon per tonne on the final date on which deforestation occurred, as set by or in accordance with regulations made under section 30W.
+(4) However, the amount may be reduced, at the court’s discretion, if the court is satisfied that the person has a reasonable excuse for the contravention.
+(5) In this section, defence means that—
+  (a) the deforestation was beyond the person’s control; and
+  (b) the person could not reasonably have foreseen the deforestation; and
+  (c) the person could not reasonably have taken steps to prevent the deforestation.
+
+### 190I Due dates for payment of penalties and recovery of EPA’s costs
+(1) This section applies if the court orders that a person pay a pecuniary penalty under section 190E or 190H.
+(2) The court must also order that the penalty be applied first to pay the EPA’s actual costs in bringing the proceedings.
+(3) The person must pay the penalty—
+  (a) within 20 working days after the date on which the order is made, or by any later date specified by the order; or
+  (b) by the date or dates agreed under a deferred payment arrangement under section 135A.
+
+### 190J Option must be chosen at end of permanent forestry period
+(1) After the permanent forestry period ends, the participant carrying out permanent forestry on post-1989 forest land must choose an option for each carbon accounting area (each a CAA1) by doing 1 of the following:
+  (a) giving notice to the EPA that they will carry out permanent forestry on the CAA1 for a further 25 years; or
+  (b) removing the CAA1 from permanent forestry by any means available under this Act.
+(2) The participant must choose an option before or when the first of the following documents is submitted for the CAA1:
+  (a) a provisional forestry emissions return:
+  (b) a final forestry emissions return under section 183A for the mandatory emissions return period in which the permanent forestry period ended.
+(3) If the participant does not choose an option before or when submitting an emissions return described by subsection (2), or does not submit the final forestry emissions return described by subsection (2), the EPA must give notice to the participant.
+(4) The EPA’s notice must state—
+  (a) that the participant must choose an option for each CAA1 within 30 working days after the EPA gave its notice; and
+  (b) that a CAA1 will be removed from permanent forestry if the participant does not choose an option for it by then.
+
+### 190K Removal of carbon accounting area from permanent forestry
+(1) This section applies to a CAA1 if the participant does not choose an option for the CAA1 by the deadline in the EPA’s notice given under section 190J(3).
+(2) As a result,—
+  (a) the participant ceases to be a participant in permanent forestry on the CAA1; and
+  (b) the participant is liable to surrender the number of units equal to the unit balance of the CAA1 (calculated under the last emissions return submitted for the CAA1).
+(3) The EPA must amend the register kept under section 57, and the records of carbon accounting areas kept under section 182C(2), to record the effects of this section.
+
+### Subpart 5 — Averaging accounting methodology
+
+### 191 Interpretation
+In this subpart,—
+  - **carbon accounting area (averaging)** has the meaning given in section 191B(2)
+  - **DCS** (being the determined carbon stock for land) has the meaning given in section 191D(2)
+  - **first rotation forest** has the meaning given in section 191C(3) and (4)
+  - **NACS** (being the nominal average carbon stock for land) has the meaning given in section 191D(3)
+  - **subsequent rotation forest** has the meaning given in section 191C(6)
+  - **TACS** (being the typical average carbon stock for land) has the meaning given in section 191D(4).
+
+### 191A Overview of averaging accounting methodology
+(1) The object of averaging accounting methodology is to account for emissions and removals from an activity of standard forestry—
+  (a) by reference to the expected long-term average level of carbon stock of the land over multiple forest rotations, rather than by reference to short-term changes in the actual carbon stock of the land (as required by sections 63 and 64); and
+  (b) in a way that achieves approximately the same result in the long term as would have been achieved using carbon stock change accounting but without the repeated receipt and surrender of units for each forest rotation.
+(2) The number of units that a participant for a carbon accounting area (averaging) is entitled to receive, or is liable to surrender,—
+  (a) is determined by reference to the expected long-term average carbon stock of the land over multiple forest rotations and changes in that average (see sections 191E and 191F); and
+  (b) will vary depending on whether the land has a first rotation forest or a subsequent rotation forest (see section 191C).
+
+### 191B Averaging accounting applies to carbon accounting areas (averaging)
+(1) Averaging accounting methodology applies in respect of emissions and removals from an activity of standard forestry in a carbon accounting area (averaging).
+(2) A carbon accounting area in respect of which a participant is registered in respect of an activity of standard forestry is a carbon accounting area (averaging) if—
+  (a) its constitution date is after 31 December 2022; and
+  (b) it was constituted—
+    (i) under section 182C from land that was not part of a previous carbon accounting area; or
+    (ii) under section 189B from land on which the initial activity was permanent forestry or PFSI activity; or
+    (iii) from a reconfiguration of 1 or more carbon accounting areas (averaging) (and no other land).
+(3) See also clause 33 of Schedule 1AA, which allows some other carbon accounting areas to be converted into carbon accounting areas (averaging).
+
+### 191C First rotation forest and subsequent rotation forest
+(1) Land in a carbon accounting area (averaging) has either a first rotation forest or a subsequent rotation forest.
+(2) Different parts of a carbon accounting area (averaging) may have different rotation forests.
+(3) Land has a first rotation forest if—
+  (a) the land has not been cleared since it became forest land; or
+  (b) the land,—
+    (i) having been forest land, was deforested; and
+    (ii) remained deforested for at least the stand-down period prescribed in regulations made under section 191I (but see subsection (5)); and
+    (iii) was re-established as forest land; and
+    (iv) has not been cleared since that re-establishment; or
+  (c) the land—
+    (i) is post-1989 forest land because of paragraph (a)﻿(iii) to (vii) of the definition of post-1989 forest land in section 4; and
+    (ii) has not been cleared since it became post-1989 forest land; or
+  (d) the land is declared by regulations made under section 191I to have a first rotation forest.
+(4) However, land that would otherwise have a first rotation forest under subsection (3) does not have a first rotation forest if it is declared by regulations made under section 191I to have a subsequent rotation forest.
+(5) Subsection (3)﻿(b)﻿(ii) does not apply if the deforestation referred to in subsection (3)﻿(b)﻿(i) occurred before 1 January 2021.
+(6) Land has a subsequent rotation forest if it does not have a first rotation forest.
+
+### 191D Carbon stock measures for land
+(1) There are 3 measures of carbon stock for land in a carbon accounting area (averaging)—
+  (a) the determined carbon stock:
+  (b) the nominal average carbon stock:
+  (c) the typical average carbon stock.
+(2) The determined carbon stock (DCS) of land is the current level of carbon stock of the land determined in accordance with the prescribed methodology.
+(3) The nominal average carbon stock (NACS) for land is the average carbon stock of the land if the length of each forest rotation is assumed to be equal to,—determined in accordance with the prescribed methodology.
+  (a) if the land has a first rotation forest, the current age of the forest species on the land:
+  (b) if the land has a subsequent rotation forest, the prior clearing age,
+(4) The typical average carbon stock (TACS) for land is the average carbon stock of the land if the average length of each forest rotation is assumed to be equal to,— determined in accordance with the prescribed methodology.
+  (a) if the land has a first rotation forest, the average expected rotation length for land of that kind:
+  (b) if the land has a subsequent rotation forest, the prior clearing age,
+(5) In this section,—
+  - **average carbon stock** , of land, means the expected long-term average level of carbon stock of the land over multiple forest rotations
+  - **prescribed methodology** means the methodology prescribed in regulations made under section 191I
+  - **prior clearing age** , for land that has a subsequent rotation forest, means the age of the forest species that were cleared from the land at the end of the previous rotation at the time they were cleared, determined in accordance with the prescribed methodology.
+
+### 191E Entitlement to receive units
+(1) The participant in respect of a carbon accounting area (averaging) is entitled to receive New Zealand units for removals from the carbon accounting area in accordance with regulations made under section 191I.
+(2) In general terms, the participant will be entitled to receive units as follows:
+  (a) in the case of land that has a first rotation forest,—
+    (i) for removals that occur while the land’s DCS is less than its TACS; and
+    (ii) if—
+      (A) the land’s DCS is equal to or greater than its TACS; and
+      (B) the land’s NACS increases to an amount that is greater than its TACS:
+  (b) in the case of land that has a second rotation forest, if its NACS increases to an amount that is greater than its TACS.
+(3) If the regulations prescribe different NACS or TACS (or both) for different classes of land, the participant may also be entitled to receive units if the land changes from one class to another with a different NACS or TACS (or both).
+
+### 191F Liability to surrender units
+(1) The participant in respect of a carbon accounting area (averaging) is liable to surrender units for emissions from the carbon accounting area in accordance with regulations made under section 191I.
+(2) In general terms, the participant is liable to surrender units as follows:
+  (a) in the case of land that has a first rotation forest, for emissions that occur when—
+    (i) the land’s DCS is greater than its NACS; and
+    (ii) the land’s NACS is less than its TACS:
+  (b) in the case of land that has a subsequent rotation forest, if the land’s NACS decreases to an amount that is less than its TACS.
+(3) If the regulations prescribe different NACS or TACS (or both) for different classes of land, the participant may also be liable to surrender units if the land changes from one class to another with a different NACS or TACS (or both).
+(4) The participant is also liable to surrender units if the land is deforested.
+
+### 191G Calculating and reporting emissions and removals
+If provided in the regulations, the participant in respect of a carbon accounting area (averaging) is not required to—
+  (a) calculate emissions and removals for which they are not liable to surrender, or entitled to receive, units; or
+  (b) submit emissions returns covering a carbon accounting area (averaging) in relation to which they are not liable to surrender, or entitled to receive, units.
+
+### 191H Restriction on reconfiguration
+Carbon accounting areas cannot be reconfigured (whether by application under section 188 or by any other process that requires the submission of a new unit balance report) so as to combine in a CAA2 land from a CAA1 that is a carbon accounting area (averaging) and land from a CAA1 that is not.
+
+### 191I Regulations for averaging
+(1) The Governor-General may, by Order in Council made on the recommendation of the Minister, make regulations for 1 or more of the following purposes:
+  (a) prescribing—
+    (i) how emissions and removals from an activity of standard forestry in a carbon accounting area (averaging) must be calculated and reported:
+    (ii) the circumstances in which a participant is or is not liable to surrender units, or entitled to receive New Zealand units, for those emissions and removals:
+    (iii) the methodology for determining the number of units the participant is entitled to receive or liable to surrender in those circumstances:
+  (b) providing that a participant for a carbon accounting area (averaging) is not required to—
+    (i) calculate emissions and removals for which they are not liable to surrender, or entitled to receive, units:
+    (ii) submit emissions returns for a carbon accounting area (averaging) in relation to which they are not liable to surrender, or entitled to receive, units:
+  (c) for the purposes of the definition of first rotation forest (see section 191C),—
+    (i) prescribing the stand-down period:
+    (ii) declaring land to have a first rotation forest or a subsequent rotation forest:
+  (d) prescribing methodologies for determining DCS, NACS, TACS, and prior clearing age (see section 191D):
+  (e) providing for any other matters contemplated by this subpart, necessary for its administration, or necessary for giving it full effect.
+(2) Regulations made under this section may make different provision for different cases on any differential basis, including—
+  (a) for different forest species:
+  (b) for forest species of different ages:
+  (c) for different rotation periods:
+  (d) for different parts of New Zealand.
+(3) Regulations made under this section may have retrospective effect as follows:
+  (a) regulations may apply on and from the commencement of the mandatory emissions return period in which they are made or a later date in that period:
+  (b) regulations made under subsection (1)﻿(c)﻿(i) may prescribe a stand-down period that begins before the regulations are made.
+(4) However, regulations cannot be made under subsection (1)﻿(c)﻿(i) that would increase the length of the stand-down period for a carbon accounting area whose constitution date is before those regulations come into force.
+(5) Regulations made under this section may require the use of a computer programme available via the Internet site of the EPA.
+(6) Regulations made under subsection (1)﻿(b) may relate to emissions or removals that—
+  (a) stem directly from an activity; or
+  (b) are associated with a product or other thing that is the subject of an activity.
+(7) See sections 3A and 3B for consultation requirements that apply to the making of regulations under this section.
+(8) See also sections 169 to 175 (incorporation by reference).
+(9) Regulations made under this section come into force 3 months after the date of their publication under the Legislation Act 2019, or on any later date specified in the regulations.
+(10) Regulations under this section—
+  (a) are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements); and
+  (b) have effect in accordance with subsection (3) even if they are not yet published.
+
+### Subpart 6 — P89 offsetting
+
+### 192 Interpretation
+In this subpart,—
+  - **expected carbon stock** , for P89 offsetting (forested) land, has the meaning given in section 192I
+  - **P89 offset application** means an application to the EPA submitted under section 192A
+  - **P89 offset application date** means the date on which a P89 offset application is submitted to the EPA under section 192A
+  - **P89 offset date** , for P89 offsetting (approved) land, has the meaning given in section 192C(2)﻿(g)
+  - **P89 offset release criteria** has the meaning given in section 192I
+  - **P89 offsetting (approved) land** means land that—
+    (a) has become P89 offsetting (approved) land under section 192C(2)﻿(f) or 192S(2)﻿(c); and
+    (b) has not ceased to be P89 offsetting (approved) land under a provision referred to in section 192D
+  - **P89 offsetting (excess) land** means land that—
+    (a) has become P89 offsetting (excess) land under section 192J(2)﻿(a)﻿(iii); and
+    (b) has not ceased to be P89 offsetting (excess) land under section 192N(3)
+  - **P89 offsetting (forested) land** has the meaning given in section 192J
+  - **P89 offsetting (unforested) land** has the meaning given in section 192J
+  - **P89 release criteria notice** means a notice given under section 192J(1)
+  - **qualifying forest land** has the meaning given in section 192J(3)
+  - **reference carbon stock** , for a CAA1, has the meaning given in section 192A(2)﻿(e).
+
+**P89 offset applications**
+
+### 192A Application to offset land for land in carbon accounting area (averaging)
+(1) A participant in an activity of standard forestry on 1 or more carbon accounting areas (averaging) may apply to the EPA to offset other land for those areas (to transfer the unit balance from the carbon accounting areas (averaging) to the new land).
+(2) The application must—
+  (a) specify the carbon accounting areas (averaging) to which the application relates (each a CAA1); and
+  (b) specify the land proposed to be used to offset each CAA1; and
+  (c) include a final forestry emissions return prepared under section 183B for the activity—
+    (i) that covers the CAA1s; and
+    (ii) that uses the P89 offset application date as the relevant date; and
+  (d) include in that return a new unit balance report prepared under section 185 that covers 1 or more carbon accounting areas (each a CAA2) for each CAA1 consisting of the land specified under paragraph (b); and
+  (e) include—
+    (i) the carbon stock of each CAA1 on the P89 offset application date determined in accordance with regulations made under section 192U (the reference carbon stock for the CAA1); and
+    (ii) if the person proposed as the participant in respect of any of the CAA2s is not already registered as a participant, the information necessary for that person to become registered; and
+    (iii) any other information prescribed in regulations made under section 192U.
+(3) If the person proposed as the participant in respect of any of the CAA2s is not the participant in respect of the CAA1s, the application must be made jointly with that other person.
+(4) The application must—
+  (a) be signed by all of the applicants; and
+  (b) be submitted—
+    (i) in the prescribed manner and format; and
+    (ii) together with the prescribed fee (if any); and
+    (iii) together with the prescribed information (if any).
+
+### 192B Criteria for P89 offset application
+(1) If a person submits a P89 offset application, the EPA,—
+  (a) if satisfied that the criteria in subsection (2) were met on the P89 offset application date, must approve the application; or
+  (b) otherwise, may decline the application.
+(2) The criteria are that—CAA1 criteriaCAA2 criteriaParticipant criteriaP89 offset release criteriaPrescribed criteria
+  (a) the land in each CAA1 is 1 or both of the following:
+    (i) land that has a first rotation forest and whose NACS is equal to or greater than its TACS (as those terms are defined in section 191D):
+    (ii) land that has a subsequent rotation forest; and
+  (b) the predominant forest species on each CAA1 were established by direct planting activities, including direct seeding but excluding natural forest regeneration; and
+  (c) the land in each CAA2 is 1 or more of the following:
+    (i) land that is not forest land on the P89 offset application date, but if it were to become forest land—
+      (A) would be post-1989 forest land; and
+      (B) if it were in a carbon accounting area, would meet the criteria in section 191C for having a first rotation forest:
+    (ii) post-1989 forest land that—
+      (A) became post-1989 forest land less than 2 years before the P89 offset application date; and
+      (B) meets the criteria in section 191C for having a first rotation forest (or would do so if it were in a carbon accounting area):
+    (iii) area 2 (excess) land (as defined in section 181), unless the re-use period prescribed in regulations made under section 192U has expired:
+    (iv) P89 offsetting (excess) land, unless the re-use period prescribed in regulations made under section 192U has expired; and
+  (d) the total area (whether or not contiguous) of the CAA2s for a CAA1 is equal to or greater than the area of that CAA1; and
+  (e) each individual parcel that makes up the CAA2 has an area of at least 1 hectare and has an average width of at least 30 metres; and
+  (f) the participant in respect of each CAA2 would, if the land in the CAA2 were forest land,—
+    (i) if they are not already registered as a participant in the activity, qualify to be registered under section 57; and
+    (ii) qualify under section 182A to be registered as a participant in respect of the CAA2; and
+  (g) the EPA is satisfied that, on the P89 offset date, the P89 offset release criteria are likely to be met in respect of each CAA1 and the CAA2s proposed in respect of it; and
+  (h) any other criteria prescribed in regulations made under section 192U are met.
+
+### 192C Effect of approval of P89 offset application
+(1) This section applies if the EPA approves a P89 offset application.
+(2) Starting on the P89 offset application date,—
+  (a) the emissions return for the CAA1s is treated as being submitted (so that the total liability or entitlement has effect, and the unit balance is updated, for the CAA1s under section 184D); and
+  (b) if any of the land proposed to be included in a CAA2 is already in a carbon accounting area, the participant for that land—
+    (i) is liable to surrender the number of units equal to the unit balance of that carbon accounting area; and
+    (ii) ceases to be a participant in the relevant activity in that carbon accounting area; and
+  (c) the persons proposed as participants for CAA2s are participants in the activity in the CAA2s; and
+  (d) the participant in respect of the CAA1s—
+    (i) ceases to be a participant in the activity in the CAA1s; and
+    (ii) is not liable to surrender the unit balances of the CAA1s; and
+  (e) the unit balance of each CAA2 is the opening unit balance calculated for it in the new unit balance report; and
+  (f) the land in the CAA2s for a CAA1 is the P89 offsetting (approved) land for that CAA1; and
+  (g) the P89 offset date for the P89 offsetting (approved) land for a CAA1 is,—
+    (i) if, on the P89 offset application date, every hectare of land in the CAA1 had forest species on it that had tree crown cover of more than 30%, 4 years after the P89 offset application date; or
+    (ii) if not, 4 years after the clearing of the CAA1 started most recently before the P89 offset application date.
+(3) The EPA must amend the register kept under section 57, and the records of carbon accounting areas kept under section 182C(2), to record the effects of this section.
+(4) If subsection (2)﻿(b)﻿(i) applies,—
+  (a) the notice requiring those units to be surrendered (referred to in section 63(4)) must also set out the effect of paragraph (b); and
+  (b) if the units are not surrendered by the due date, the EPA may revoke the approval by giving written notice to the participant.
+(5) If an approval is revoked under subsection (4), this Act applies as if the application had never been made.
+(6) However, despite subsection (5), the effect of subsection (2)﻿(b)﻿(ii) is not reversed (so the person is not reinstated as a participant for the carbon accounting area).
+
+**P89 offsetting (approved) land**
+
+### 192D Duration of P89 offsetting (approved) land status
+(1) Land that becomes P89 offsetting (approved) land for a CAA1 under section 192C(2)﻿(f) remains P89 offsetting (approved) land until one of the following occurs:
+  (a) the land meets the P89 offset release criteria and is released from being P89 offsetting (approved) land on the P89 offset date under section 192N(2)﻿(c):
+  (b) the person ceases to be a participant because of section 182G (for a natural event that permanently prevents re-establishing a forest):
+  (c) the land becomes temporary adverse event land under section 193C:
+  (d) the land is P89 offsetting (unforested) land and ceases to be P89 offsetting (approved) land under section 192N(2)﻿(d):
+  (e) the land is P89 offsetting (excess) land and ceases to be P89 offsetting (approved) land under section 192N(2)﻿(e):
+  (f) the land is declared to not be P89 offsetting (approved) land under section 192O(3) and ceases to be so under section 192P(2)﻿(a):
+  (g) the land is removed land and ceases to be P89 offsetting (approved) land under section 192S(2)﻿(d).
+(2) To avoid doubt, the land continues to be P89 offsetting (approved) land even if the carbon accounting areas containing the land are reconfigured (whether under section 188B or by any other process that requires the submission of a new unit balance report).
+
+### 192E Effect of being P89 offsetting (approved) land
+All of the provisions of this Act that apply to post-1989 forest land that is in a carbon accounting area (averaging) apply to P89 offsetting (approved) land as if it were post-1989 forest land, subject to sections 192F and 192G.
+
+### 192F Subsequent rotation forest
+(1) P89 offsetting (approved) land is to be treated as having a subsequent rotation forest (despite section 191C(3)).
+(2) Subsection (1) continues to apply to P89 offsetting (forested) land (identified under section 192J) until—
+  (a) it is first cleared after the P89 offset date (even though it ceases to be P89 offsetting (approved) land on the P89 offset date); or
+  (b) the participant becomes registered for an activity of permanent forestry on the land.
+(3) To avoid doubt, when subsection (1) ceases to apply to any land, section 191C applies.
+
+### 192G Reconfiguration restrictions
+(1) A carbon accounting area containing P89 offsetting (approved) land cannot be reconfigured (whether by application under section 188 or by any other process that requires the submission of a new unit balance report) except as permitted by subsection (2).
+(2) Reconfiguration is permitted—
+  (a) to reconfigure the carbon accounting areas that contain the P89 offsetting (approved) land for the same CAA1 without including any other land:
+  (b) to remove land that is affected by a natural event that permanently prevents re-establishing a forest in accordance with sections 182G and 186B:
+  (c) to remove land that becomes temporary adverse event land under section 193C:
+  (d) on the P89 offset date as required under section 192J:
+  (e) to substitute land under sections 192Q to 192S.
+
+### 192H No transfers to permanent forestry
+A participant for a carbon accounting area containing P89 offsetting (approved) land cannot apply under section 189 to become a participant in an activity of permanent forestry on that land.
+
+**Offsetting on P89 offset date**
+
+### 192I P89 offset release criteria
+(1) The P89 offset release criteria in respect of a CAA1 and its P89 offsetting (approved) land that is P89 offsetting (forested) land are that, on the P89 offset date,—
+  (a) the area of the P89 offsetting (forested) land is equal to or greater than the area of CAA1; and
+  (b) the expected carbon stock of the P89 offsetting (forested) land is equal to or greater than the reference carbon stock of the CAA1; and
+  (c) any other criteria prescribed in regulations made under section 192U are met.
+(2) The expected carbon stock of land is the carbon stock (determined in accordance with regulations made under section 192U) that the land is expected to have achieved at the end of the period prescribed in regulations made under that section.
+Adjustment if adverse event
+(3) If any of the P89 offsetting (approved) land ceases to be P89 offsetting (approved) land under section 192D(1)﻿(b) or (c) (because of adverse events) on or before the P89 offset date,—
+  (a) for subsection (1)﻿(a), the area of the CAA1 on the P89 offset application date is to be treated as reduced in accordance with subsection (4); and
+  (b) for subsection (1)﻿(b), the reference carbon stock for the CAA1 is to be treated as reduced in accordance with subsection (5).
+(4) The reduced area of the CAA1 (in hectares) (y) is calculated as follows:y = a × (j ÷ k)where—ais the area of the CAA1 on the P89 offset application date (in hectares)jis the area of the land that ceased to be P89 offsetting (approved) land under section 192D(1)﻿(b) or (c) (in hectares)kis the area of the P89 offsetting (approved) land on the P89 offset application date (being all of the CAA2s under section 192A) (in hectares).
+(5) The reduced reference carbon stock for the CAA1 (in tonnes) (w) is calculated as follows:w = c × (j ÷ k)where—cis the reference carbon stock for the CAA1 (in tonnes)jis the area of the land that ceased to be P89 offsetting (approved) land under section 192D(1)﻿(b) or (c) (in hectares)kis the area of the P89 offsetting (approved) land on the P89 offset application date (being all of the CAA2s under section 192A) (in hectares).
+
+### 192J P89 release criteria notice
+(1) The participants in an activity of standard forestry on the P89 offsetting (approved) land for a CAA1 on the P89 offset date must give notice (P89 release criteria notice) to the EPA of the extent of compliance with the P89 offset release criteria on the P89 offset date.
+(2) The P89 release criteria notice must—
+  (a) identify all of the P89 offsetting (approved) land that is each of the following:
+    (i) P89 offsetting (forested) land, being all the P89 offsetting (approved) land that is qualifying forest land on the P89 offset date, other than P89 offsetting (excess) land:
+    (ii) P89 offsetting (unforested) land, being all the P89 offsetting (approved) land that is not qualifying forest land on the P89 offset date:
+    (iii) P89 offsetting (excess) land, being any P89 offsetting (approved) land that—
+      (A) is qualifying forest land on the P89 offset date; and
+      (B) does not need to be part of the P89 offsetting (forested) land in order for the P89 offset release criteria to be met; and
+      (C) the participants want to be excluded from the P89 offsetting (forested) land and to be available for re-use under section 181B(2)﻿(b)﻿(iv) or 192B(2)﻿(c)﻿(iv); and
+  (b) include final forestry emissions returns under section 183B for each participant and activity—
+    (i) that covers each carbon accounting area that contains the P89 offsetting (approved) land (each a CAA3); and
+    (ii) that uses the P89 offset date as the relevant date; and
+  (c) include in each return a P89 offset date unit balance report under section 192M that covers the following carbon accounting areas (each a CAA4) formed from each CAA3:
+    (i) 1 or more forested CAA4s for the P89 offsetting (forested) land in the CAA3:
+    (ii) an unforested CAA4 for any P89 offsetting (unforested) land in the CAA3:
+    (iii) 1 or more excess CAA4s for any P89 offsetting (excess) land in the CAA3; and
+  (d) include any information prescribed in regulations made under section 192U.
+(3) Land is qualifying forest land if—
+  (a) each hectare of land has forest species on it that have, or are likely to have, tree crown cover of more than 30%; and
+  (b) those forest species were established by direct planting activities, including direct seeding but excluding natural forest regeneration; and
+  (c) each individual parcel that makes up the land has an area of at least 1 hectare and has an average width of at least 30 metres; and
+  (d) the land has not been declared not to be qualifying forest land under section 192O(2).
+(4) The P89 release criteria notice must—
+  (a) be made jointly by the participants in respect of all of the P89 offsetting (approved) land for the CAA1; and
+  (b) be signed by all of the participants; and
+  (c) be given within 60 working days after the P89 offset date; and
+  (d) be given—
+    (i) in the prescribed manner and format; and
+    (ii) together with the prescribed fee (if any); and
+    (iii) together with the prescribed information (if any).
+(5) In relation to a final forestry emissions return required by subsection (2)﻿(b), sections 183B to 184D apply as if the references in those sections to CAA1 were references to CAA3.
+(6) Sections 183B to 185, and the provisions applied by them, apply as if the land in an unforested CAA4 were forest land.
+
+### 192K Liability to surrender units if P89 offset release criteria not met
+(1) This section applies in relation to the CAA3s for a CAA1 if the P89 offset release criteria under either or both of paragraphs (a) and (b) of section 192I(1) are not met.
+(2) The participants for the CAA3 are liable to surrender the number of units determined under subsections (4) to (6).
+(3) That liability is apportioned between the CAA3s under section 192L.
+Liability for area insufficiency
+(4) If the criterion in section 192I(1)﻿(a) is not met, the number of units to be surrendered (sa) is calculated as follows:sa = [(c − d) ÷ c] × uwhere—cis the area of the CAA1 on the P89 offset application date (reduced under section 192I(3) if applicable) (in hectares)dis the total area of all of the P89 offsetting (forested) land for the CAA1 (in hectares)uis the unit balance of the CAA1 in the emissions return that accompanied the application under section 192A.
+Liability for carbon insufficiency
+(5) If the criterion in section 192I(1)﻿(b) is not met, the number of units to be surrendered (sc) is calculated as follows:sc = (e − f)where—eis the reference carbon stock for the CAA1 (reduced under section 192I(3) if applicable) (in tonnes)fis the total expected carbon stock of all of the P89 offsetting (forested) land for the CAA1 (in tonnes).
+Total liability
+(6) The total liability under this section (t) is calculated as follows:t = sa + sc
+
+### 192L Maximum liability and apportionment
+(1) This section applies if the participants for the CAA3s for a CAA1 have a liability under section 192K.
+One CAA3
+(2) If there is only one CAA3,—
+  (a) section 185A applies; and
+  (b) the liability for that CAA3 is equal to t under section 192K(6).
+Two or more CAA3s: maximum liability
+(3) If there are 2 or more CAA3s,—
+  (a) section 185A does not apply; but
+  (b) if the total liability calculated under section 192K(6) (t) is greater than the total of the unit balances of all of the CAA3s, t is reduced to be equal to that total unit balance.
+Two or more CAA3s: apportionment
+(4) If there are 2 or more CAA3s, the liability for each CAA3 (k) is calculated as follows:k = t × (a3 ÷ b3)where—tis the total liability under section 192K(6), reduced under subsection (3) if applicablea3is the area of the CAA3 (in hectares)b3is the total area of all of the CAA3s (in hectares).
+
+### 192M P89 offset date unit balance report
+(1) A P89 offset date unit balance report required by section 192J(2)﻿(c) must—
+  (a) specify the CAA4s that the report covers and, for each CAA4 whose boundaries are not the same as a CAA3, define the CAA4; and
+  (b) specify the CAA3s (whose land will form the CAA4s); and
+  (c) specify the opening unit balance of each unforested CAA4 and each excess CAA4 (if any) as zero; and
+  (d) set out the calculation under subsection (2) of the opening unit balance of each forested CAA4.
+(2) The opening unit balance of a forested CAA4 (v) is calculated as follows:v = (u − k) × (a4 ÷ b4)where—uis the unit balance of the CAA3 in the emissions return under section 192J(2)﻿(b)kis,—a4is the area of the forested CAA4 (in hectares)b4is the total area of all of the P89 offsetting (forested) land for the CAA1 (in hectares).
+  (a) if there is only one CAA4, zero; or
+  (b) if there are 2 or more CAA4s, the liability of the CAA3 under section 192L
+
+### 192N Effect on P89 offset date
+(1) This section applies if a P89 release criteria notice is given to the EPA in accordance with section 192J, including a final forestry emissions return (for the CAA3s) and a P89 offset date unit balance report (for the CAA4s).
+(2) Starting on the P89 offset date,—
+  (a) the emissions return for the CAA3s is treated as being submitted (so that the total liability or entitlement has effect, and the unit balance is updated, for the CAA3s under section 184D); and
+  (b) the participants are not liable to surrender the unit balances of each CAA3 (although they may be liable to surrender units under section 192K); and
+  (c) for each forested CAA4,—
+    (i) the person who was the participant in respect of the CAA3 from which it was formed is the participant in respect of the forested CAA4 (instead of the CAA3); and
+    (ii) the land in the forested CAA4 is released from being P89 offsetting (approved) land; and
+    (iii) the unit balance of each forested CAA4 is the opening unit balance calculated for it in the P89 offset date unit balance report; and
+  (d) for each unforested CAA4,—
+    (i) the person who was the participant in respect of the CAA3 from which it was formed ceases to be a participant in respect of the unforested CAA4; and
+    (ii) the land in the unforested CAA4 ceases to be P89 offsetting (approved) land; and
+    (iii) the unit balance of each unforested CAA4 is zero; and
+  (e) for each excess CAA4,—
+    (i) the person who was the participant in respect of the CAA3 from which it was formed is the participant in respect of the excess CAA4; and
+    (ii) the land in the excess CAA4 ceases to be P89 offsetting (approved) land but remains P89 offsetting (excess) land subject to subsection (3)); and
+    (iii) the unit balance of each excess CAA4 is zero.
+(3) Land ceases to be P89 offsetting (excess) land if—
+  (a) the land becomes area 2 (approved) land as a result of being included in a P90 offset application under section 181B(2)﻿(b)﻿(iii); or
+  (b) the land becomes P89 offsetting (approved) land as a result of being included in a P89 offset application under section 192B(2)﻿(c)﻿(iii); or
+  (c) all re-use periods prescribed in regulations made under section 181W or 192U expire.
+(4) The EPA must amend the register kept under section 57, and the records of carbon accounting areas kept under section 182C(2), to record the effects of this section.
+(5) After the P89 offset date, section 179 (except subsection (1)﻿(a)) applies to the P89 offsetting (forested) land as if it had been cleared on the P89 offset application date.
+(6) Subsection (5) ceases to apply when that land is next cleared (after which section 179 will apply).
+
+**Action if criteria for initial P89 offset application not met**
+
+### 192O EPA may take action if original criteria not met
+(1) This section applies if the EPA—
+  (a) approved a P89 offset application; but
+  (b) is now satisfied that the application should not have been approved because some or all of the P89 offsetting (approved) land did not meet the criteria in section 192B(2)﻿(c) or (e) or any applicable criteria prescribed for section 192B(2)﻿(h).
+Action on or before P89 offset date
+(2) If this section applies to land on or before the P89 offset date, the EPA may declare that the land that did not meet those criteria is not qualifying forest land for the purposes of section 192J.
+Action after P89 offset date
+(3) If this section applies to land after the P89 offset date, the EPA may declare that section 192P applies to the carbon accounting area that now contains the land that did not meet those criteria.
+Procedure
+(4) The EPA cannot make a declaration under this section more than 7 years after the P89 offset application date.
+(5) Before making a declaration, the EPA must—
+  (a) notify the participant of its intention to do so and the grounds for doing so; and
+  (b) give the participant at least 60 working days to—
+    (i) show cause as to why the EPA should not do so; or
+    (ii) take other remedial action specified in the notice (see section 192Q).
+(6) If the EPA makes a declaration under this section, it must give the participant notice of—
+  (a) the declaration and the date on which it was made; and
+  (b) the participant’s liability under section 192P (if applicable); and
+  (c) the participant’s right under section 144 to seek a review of the decision to make the declaration.
+
+### 192P Effect of declaration after P89 offset date
+(1) This section applies if the EPA makes a declaration under section 192O(3) that this section applies to a carbon accounting area (the CAA).
+(2) Starting on the date on which the declaration is made, the participant in respect of the CAA—
+  (a) is liable to surrender the number of units equal to the unit balance of the CAA; and
+  (b) ceases to be a participant in respect of the CAA.
+(3) The EPA must amend the register kept under section 57, and the records of carbon accounting areas kept under section 182C(2), to record the effects of this section.
+
+### 192Q Remedial action: land substitution
+(1) In a notice under section 192O(5), the EPA may give the participant the option to take remedial action by substituting other land for land that did not meet the criteria (the non-compliant land).
+(2) A participant given that option may apply to the EPA to do so.
+(3) The application must—
+  (a) specify the carbon accounting areas (each a CAA5) that include the non-compliant land for which other land is to be substituted; and
+  (b) identify all the land in each CAA5 as either—
+    (i) removed land, being the non-compliant land for which other land is to be substituted; or
+    (ii) remaining land, being all the land in the CAA5 that is not removed land; and
+  (c) identify the land that is proposed to be substituted for the removed land (substitute land); and
+  (d) include a final forestry emissions return prepared under section 183B for the relevant activity—
+    (i) that covers the CAA5s; and
+    (ii) that uses the date on which the application is submitted to the EPA as the relevant date; and
+  (e) include in that return a new unit balance report that—
+    (i) relates to the following carbon accounting areas (each a CAA6):
+      (A) a removed CAA6 for the removed land:
+      (B) a remaining CAA6 for the remaining land:
+      (C) a substitute CAA6 for the substitute land; and
+    (ii) specifies the opening unit balance of the removed CAA6 as zero; and
+    (iii) calculates the opening unit balance for the remaining CAA6s and substitute CAA6s in accordance with section 185(4), which applies even though a CAA6 is formed from land in 1 or more CAA5s and from other land; and
+    (iv) is otherwise prepared under section 185; and
+  (f) include any information prescribed in regulations made under section 192U.
+(4) The application must—
+  (a) be signed by the participant; and
+  (b) be given within the period specified in the notice under section 192O(5); and
+  (c) be given—
+    (i) in the prescribed manner and format; and
+    (ii) together with the prescribed fee (if any); and
+    (iii) together with the prescribed information (if any).
+(5) In relation to the final forestry emissions return and new unit balance report required by subsection (3)﻿(d) and (e), sections 183B to 185 apply as if—
+  (a) the references in those sections to CAA1 were references to CAA5; and
+  (b) the references in those sections to CAA2 were references to CAA6.
+(6) Sections 183B to 185, and the provisions applied by them, apply as if the land in a removed CAA6 were forest land.
+
+### 192R Criteria for land substitution
+(1) If a person submits an application under section 192Q to substitute land, the EPA,—
+  (a) if satisfied that the criteria in subsection (2) are met, must approve the application; or
+  (b) otherwise, may decline the application.
+(2) The criteria are that—
+  (a) the substitute land is land of a kind specified in 1 or more of subparagraphs (i) to (iv) of section 192B(2)﻿(c); and
+  (b) the area of the substitute land is equal to or greater than the area of the removed land; and
+  (c) the EPA is satisfied that,—
+    (i) if the substitution date is before the P89 offset date, the P89 offset release criteria are likely to be met in respect of the CAA1 and the new P89 offsetting (approved) land; or
+    (ii) if the substitution date is on or after the P89 offset date, the expected carbon stock of the new P89 offsetting (approved) land as at the substitution date was equal to or greater than the reference carbon stock of the CAA1; and
+  (d) any other criteria prescribed in regulations made under section 192U are met.
+(3) In this section,—
+  - **new P89 offsetting (approved) land** means all of the land that will be P89 offsetting (approved) land for the CAA1 if the application is approved
+  - **substitution date** means the date on which the application under section 192Q was submitted.
+
+### 192S Effect of approval of land substitution
+(1) This section applies if the EPA approves an application under section 192R.
+(2) Starting on the date on which the application was submitted,—
+  (a) the emissions return for the CAA5s is treated as being submitted (so that the total liability or entitlement has effect, and the unit balance is updated, for the CAA5s under section 184D); and
+  (b) if any of the land in a substitute CAA6 is already in a carbon accounting area, the participant for that land—
+    (i) is liable to surrender the number of units equal to the unit balance of that carbon accounting area; and
+    (ii) ceases to be a participant in the relevant activity on that carbon accounting area; and
+  (c) in respect of the remainder CAA6s and substitute CAA6s,—
+    (i) the person becomes a participant in the activity in those CAA6s (instead of the CAA5s); and
+    (ii) the unit balance of each of those CAA6s is the opening unit balance calculated for it in the new unit balance report; and
+    (iii) the land in those CAA6s is P89 offsetting (approved) land for the original CAA1 (together with any P89 offsetting (approved) land for the CAA1 that was not included in this application); and
+  (d) in respect of each removed CAA6,—
+    (i) the person ceases to be a participant in the activity of the removed CAA6; and
+    (ii) the land ceases to be P89 offsetting (approved) land; and
+    (iii) the person is not liable to surrender units (because the unit balance is zero).
+(3) If subsection (2)﻿(b)﻿(i) applies,—
+  (a) the notice requiring those units to be surrendered (referred to in section 63(4)) must also set out the effect of paragraph (b); and
+  (b) if the units are not surrendered by the due date, the EPA may revoke the approval by giving written notice to the participant.
+(4) If an approval is revoked under subsection (3), this Act applies as if the application had never been made.
+(5) However, despite subsection (4), the effect of subsection (2)﻿(b)﻿(ii) is not reversed (so the person is not reinstated as a participant for the carbon accounting area).
+(6) The EPA must amend the register kept under section 57, and the records of carbon accounting areas kept under section 182C(2), to record the effects of this section.
+(7) To avoid doubt, the substitution of land under this section does not affect the P89 offset date for the CAA1.
+
+### 192T Effect of application to substitute land being declined
+(1) This section applies if the EPA declines an application under section 192R.
+(2) The participant cannot make another application under section 192Q.
+(3) The EPA—
+  (a) may make the declaration under section 192O; and
+  (b) if it does so, the notice under section 192O(6) must also notify the participants of—
+    (i) the decision to decline the application under section 192R, and the reasons for it; and
+    (ii) the participants’ right under section 144 to seek a review of that decision.
+
+**Regulations**
+
+### 192U Regulations for P89 offsetting
+(1) The Governor-General may, by Order in Council made on the recommendation of the Minister, make regulations for 1 or more of the following purposes:
+  (a) prescribing the methodology for determining—
+    (i) reference carbon stock (section 192A):
+    (ii) expected carbon stock (section 192I(2)):
+  (b) prescribing the information to be included in, and other requirements for,—
+    (i) P89 offset applications (section 192A):
+    (ii) P89 release criteria notices (section 192J):
+    (iii) applications to substitute land (section 192Q):
+  (c) prescribing re-use periods for area 2 (excess) land or P89 offsetting (excess) land (section 192B(2)﻿(c)﻿(iii) and (iv)):
+  (d) prescribing additional criteria for the approval of—
+    (i) P89 offset applications (section 192B(2)﻿(h)):
+    (ii) land substitution applications (section 192R(2)﻿(d)):
+  (e) prescribing additional P89 offset release criteria (section 192I(1)﻿(c)):
+  (f) prescribing the period for the purposes of the definition of expected carbon stock (section 192I(2)):
+  (g) providing for any other matters contemplated by this subpart, necessary for its administration, or necessary for giving it full effect.
+(2) Regulations made under this section may make different provision for different cases on any differential basis, including—
+  (a) for different forest species:
+  (b) for forest species of different ages:
+  (c) for different rotation periods:
+  (d) for different parts of New Zealand.
+(3) Regulations made under this section may have retrospective effect to the extent that they may apply on and from the commencement of the mandatory emissions return period in which they are made or a later date in that period.
+(4) Regulations made under this section may require the use of a computer programme available via the Internet site of the EPA.
+(5) See sections 3A and 3B for consultation requirements that apply to the making of regulations under this section.
+(6) See also sections 169 to 175 (incorporation by reference).
+(7) Regulations under this section—
+  (a) are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements); and
+  (b) have effect in accordance with subsection (3) even if they are not yet published.
+
+### Subpart 7 — Temporary adverse events
+
+### 193 Interpretation for this subpart
+(1) In this subpart,—
+  - **adverse event** , in relation to temporary adverse event land, means the event referred to in section 193A(1)﻿(b) as a result of which the land became temporary adverse event land
+  - **affected land** has the meaning given in section 193A(1)
+  - **carbon recovery** has the meaning given in section 193M
+  - **event date** , in relation to an adverse event, means the later of,—
+    (a) if the event occurs—
+      (i) on only 1 day, that day; or
+      (ii) over 2 or more days, the first of those days (even if land in a particular carbon accounting area is not affected until the second or a later day of the event); and
+    (b) if the event occurs in circumstances specified in regulations made under section 193R, the date provided for in the regulations
+  - **non-established land** has the meaning given in section 193K
+  - **permanently affected land** has the meaning given in section 193K
+  - **pre-event carbon stock rate** , for temporary adverse event land from a CAA1, means the average carbon stock per hectare of the affected land in the CAA1 on the day before the event date, determined in accordance with regulations made under section 193R, unless subsection (2) applies
+  - **re-established land** has the meaning given in section 193K
+  - **re-establishment** has the meaning given in section 193J
+  - **re-establishment date** has the meaning given in section 193J
+  - **temporary adverse event land** means land that has become temporary adverse event land under section 193C(2)﻿(e) and has not ceased to be so under a provision referred to in section 193D.
+(2) For the purposes of the definition of pre-event carbon stock rate,—
+  (a) if land that is temporary adverse event land in relation to an adverse event (event 1) becomes temporary adverse event land in relation to a later adverse event (event 2), the pre-event carbon stock rate for the land in relation to event 2 is the same as the pre-event carbon stock rate it had in relation to event 1; and
+  (b) if P89 offsetting (approved) land becomes temporary adverse event land, the pre-event carbon stock rate for the land is the reference carbon stock (under section 192A) per hectare of the CAA1 for which the land is P89 offsetting (approved) land.
+
+**Application**
+
+### 193A Application for temporary adverse event suspension
+(1) Post-1989 forest land is affected land if—
+  (a) the land is in a carbon accounting area (a CAA1); and
+  (b) the land is affected by an event of a kind prescribed in regulations made under section 193R (the adverse event); and
+  (c) the event results in each hectare of land ceasing to have forest species on it that have, or are likely to have, tree crown cover of more than 30%; and
+  (d) the area of land in each CAA1 that is affected by the event is equal to or greater than any minimum prescribed in regulations made under section 193R; and
+  (e) the extent of carbon stock lost from the land affected by the event is equal to or greater than any minimum prescribed in regulations made under section 193R.
+(2) A participant in an activity of standard forestry or permanent forestry in a CAA1 may apply for a temporary adverse event suspension for the affected land in that CAA1.
+(3) The application must—
+  (a) specify the CAA1s to which the application relates; and
+  (b) include a final forestry emissions return prepared under section 183B for the activity—
+    (i) that covers the CAA1s; and
+    (ii) that uses the day before the event date as the relevant date; and
+  (c) include in that return a new unit balance report prepared under section 185 for the activity that covers the following carbon accounting areas (CAA2s) formed from each CAA1:
+    (i) an affected CAA2 for the affected land in the CAA1:
+    (ii) a remainder CAA2 for the rest of the land in the CAA1; and
+  (d) include—
+    (i) the pre-event carbon stock rate for the affected land; and
+    (ii) any other information prescribed in regulations made under section 193R.
+(4) The application must—
+  (a) be signed by the participant; and
+  (b) be submitted by the deadline prescribed in regulations made under section 193R; and
+  (c) be submitted—
+    (i) in the prescribed manner and format; and
+    (ii) together with the prescribed fee (if any); and
+    (iii) together with the prescribed information (if any).
+
+### 193B Criteria of temporary adverse event suspension
+(1) If a person submits an application under section 193A for a temporary adverse event suspension, the EPA,—
+  (a) if satisfied that the criteria in subsection (2) are met, must approve the application; or
+  (b) otherwise, may decline the application.
+(2) The criteria are that—
+  (a) the land in the affected CAA2s is affected land; and
+  (b) the participant notified the EPA of the occurrence of the adverse event in accordance with regulations made under section 193R; and
+  (c) the EPA is satisfied that the land in the affected CAA2s—
+    (i) is likely to achieve re-establishment under section 193J; and
+    (ii) is likely to achieve carbon recovery under section 193M; and
+  (d) any other criteria prescribed in regulations made under section 193R are met.
+
+### 193C Approval of temporary adverse event suspension
+(1) This section applies if the EPA approves an application for a temporary adverse event suspension under section 193B.
+(2) Starting on the day before the event date,—
+  (a) the emissions return for the CAA1s is treated as being submitted (so that the total liability or entitlement has effect, and the unit balance is updated, for the CAA1s under section 184D); and
+  (b) the person is a participant in the activity on the CAA2s (instead of the CAA1s); and
+  (c) the person is not liable to surrender the unit balance of each CAA1; and
+  (d) the unit balance of each CAA2 is the opening unit balance calculated for it in the new unit balance report; and
+  (e) the land in the affected CAA2s formed from a CAA1 is the temporary adverse event land from that CAA1 in relation to the adverse event.
+(3) The EPA must amend the register kept under section 57, and the records of carbon accounting areas kept under section 182C(2), to record the effects of this section.
+
+**Temporary adverse event land**
+
+### 193D Duration of temporary adverse event land status
+(1) Land that becomes temporary adverse event land under section 193C(2)﻿(e) remains temporary adverse event land until one of the following occurs:
+  (a) the land is released from being temporary adverse event land under section 193N (having achieved carbon recovery and passed the re-establishment date):
+  (b) the person ceases to be a participant because of section 182G (for a natural event that permanently prevents re-establishing a forest), whether as a result of the adverse event or a different event:
+  (c) the land is affected by another event and becomes temporary adverse event land under section 193C(2)﻿(e) in relation to that later event:
+  (d) the land is non-established land and ceases to be temporary adverse event land under section 193L(2)﻿(d):
+  (e) the land is permanently affected land and ceases to be temporary adverse event land under section 193L(2)﻿(e):
+  (f) the land ceases to be temporary adverse event land under section 193O because of a breach of condition:
+  (g) the land ceases to be temporary adverse event land under section 193P because it is intentionally converted, cleared before it achieves carbon recovery, or is to be treated as deforested.
+(2) To avoid doubt, the land continues to be temporary adverse event land even if the carbon accounting areas containing the land—
+  (a) are reconfigured (whether under section 188B or by any other process that requires the submission of a new unit balance report); or
+  (b) change activity from standard forestry to permanent forestry or vice versa.
+
+### 193E Effect of being temporary adverse event land
+(1) All of the provisions of this Act that apply to post-1989 forest land continue to apply to temporary adverse event land as if it remained forest land, subject to sections 193F to 193I.
+(2) The temporary adverse event land is also subject to any conditions prescribed in regulations made under section 193R.
+
+### 193F No liability or entitlement
+(1) A participant in respect of temporary adverse event land is not liable to surrender units, or entitled to receive New Zealand units, for emissions and removals for the land (including emissions resulting from the adverse event).
+(2) However, subsection (1) is subject to sections 189F and 189G, and the participant is liable to surrender units under those sections if they apply.
+(3) If provided in regulations made under section 193R, the participant is not required to—
+  (a) calculate emissions and removals for which they are not liable to surrender, or entitled to receive, units; or
+  (b) submit emissions returns covering a carbon accounting area in relation to which they are not liable to surrender, or entitled to receive, units.
+
+### 193G First rotation forest
+(1) If temporary adverse event land is in a carbon accounting area (averaging), and on the day before the event date the land had a first rotation forest, then the land is to be treated as continuing to have a first rotation forest.
+(2) Subsection (1) continues to apply in relation to re-established land until it is first cleared after the re-establishment date (even though it ceases to be temporary adverse event land on the re-establishment date).
+(3) To avoid doubt, when subsection (1) ceases to apply to land, section 191C applies.
+
+### 193H Reconfiguration restrictions
+(1) A carbon accounting area containing temporary adverse event land cannot be reconfigured (whether by application under section 188 or by any other process that requires the submission of a new unit balance report) except as permitted by subsection (2).
+(2) Reconfiguration is permitted—
+  (a) to reconfigure the carbon accounting areas that contain the temporary adverse event land from the same CAA1 without including any other land:
+  (b) to remove land that is affected by a natural event that permanently prevents re-establishing a forest in accordance with sections 182G and 186B (whether that is the adverse event or a different event):
+  (c) to remove land that becomes temporary adverse event land in relation to a different event:
+  (d) on the re-establishment date as required under section 193K:
+  (e) to remove land that has ceased to be temporary adverse event land when section 193Q(5) applies.
+
+### 193I Damage to land turns out to be permanent
+(1) If the adverse event was a natural event and it becomes apparent that it permanently prevents the re-establishing of a forest on the land,—
+  (a) if that becomes apparent before the re-establishment date, the participant may notify the EPA under section 182G (then see section 193D(1)﻿(b)); or
+  (b) if that is apparent at the re-establishment date and the participant has not notified the EPA under section 182G, the participant must identify the land as permanently affected land under section 193K (then see section 193L(2)﻿(e)); or
+  (c) if that becomes apparent after the re-establishment date, the participant may notify the EPA under section 182G (then see section 193D(1)﻿(b)).
+(2) To avoid doubt, if P89 offsetting (approved) land is affected by another event that permanently prevents re-establishing a forest on that land, the participant may comply with section 182G in relation to that event.
+
+**Re-establishment**
+
+### 193J Re-establishment criteria
+(1) A hectare of temporary adverse event land achieves re-establishment if, on the re-establishment date, the hectare has forest species on it that have, or are likely to have, tree crown cover of more than 30%.
+(2) The re-establishment date, in relation to an adverse event, means the later of—
+  (a) the date 4 years after the event date; and
+  (b) in circumstances specified in regulations made under section 193R, the date provided for in the regulations.
+
+### 193K Notice of achievement of re-establishment
+(1) A participant in an activity of standard forestry or permanent forestry in 1 or more carbon accounting areas that contain temporary adverse event land from a CAA1 (each a CAA3) must give notice to the EPA of the extent to which the temporary adverse event land has achieved re-establishment.
+(2) The notice must,—
+  (a) for each CAA3, identify all of the land in the CAA3 that is each of the following:
+    (i) re-established land, being all of the land in the CAA3 that, on the re-establishment date, has achieved re-establishment:
+    (ii) non-established land, being all of the land in the CAA3 that, on the re-establishment date, has not achieved re-establishment and is not permanently affected land:
+    (iii) if the adverse event was a natural event, permanently affected land, being all of the land in the CAA3—
+      (A) that, on the re-establishment date, has not achieved re-establishment; and
+      (B) on which the adverse event has permanently prevented re-establishing a forest; and
+  (b) include a final forestry emissions return under section 183B for the activity—
+    (i) that covers each CAA3; and
+    (ii) that uses the re-establishment date as the relevant date; and
+  (c) include in that return a new unit balance report under section 185 that covers the following carbon accounting areas (each a CAA4) formed from each CAA3:
+    (i) 1 or more re-established CAA4s for any re-established land in the CAA3:
+    (ii) a non-established CAA4 for any non-established land in the CAA3:
+    (iii) a permanently affected CAA4 for any permanently affected land in the CAA3; and
+  (d) include any information prescribed in regulations made under section 193R.
+(3) The notice must—
+  (a) be signed by the participant; and
+  (b) be given within 60 working days after the re-establishment date; and
+  (c) be given—
+    (i) in the prescribed manner and format; and
+    (ii) together with the prescribed fee (if any); and
+    (iii) together with the prescribed information (if any).
+(4) In relation to the final forestry emissions return and the new unit balance report required by subsection (2)﻿(b) and (c), sections 183B to 185 apply as if—
+  (a) the references in those sections to CAA1 were references to CAA3; and
+  (b) the references in those sections to CAA2 were references to CAA4.
+(5) Sections 183B to 185, and the provisions applied by them, apply as if the land in a non-established CAA4 or a permanently affected CAA4 were forest land.
+
+### 193L Effect on re-establishment date
+(1) This section applies if a person gives the EPA a notice in accordance with section 193K, including a final forestry emissions return (for the CAA3s) and new unit balance report (for the CAA4s).
+(2) Starting on the re-establishment date,—
+  (a) the emissions return for the CAA3s is treated as being submitted (so that the total liability or entitlement has effect, and the unit balance is updated, for the CAA3s under section 184D); and
+  (b) the person is not liable to surrender the unit balance of each CAA3; and
+  (c) for each re-established CAA4,—
+    (i) the person is the participant in respect of the re-established CAA4 (instead of the CAA3); and
+    (ii) the land in the re-established CAA4 remains temporary adverse event land; and
+    (iii) the unit balance of the re-established CAA4 is the opening unit balance calculated for it in the new unit balance report; and
+  (d) for each non-established CAA4,—
+    (i) the person is a participant in respect of the non-established CAA4; and
+    (ii) the land in the non-established CAA4 ceases to be temporary adverse event land; and
+    (iii) the unit balance of the non-established CAA4 is the opening unit balance calculated for it in the new unit balance report; and
+    (iv) section 193Q applies to the land; and
+  (e) for each permanently affected CAA4,—
+    (i) the person ceases to be a participant in respect of the permanently affected CAA4; and
+    (ii) the land in the permanently affected CAA4 ceases to be temporary adverse event land; and
+    (iii) the person is not liable to surrender the unit balance of each permanently affected CAA4.
+(3) The EPA must amend the register kept under section 57, and the records of carbon accounting areas kept under section 182C(2), to record the effects of this section.
+
+**Carbon recovery**
+
+### 193M Carbon recovery criteria
+A hectare of temporary adverse event land achieves carbon recovery when the carbon stock of the hectare (determined in accordance with regulations made under section 193R) is equal to the pre-event carbon stock rate.
+
+### 193N Notice when land achieves carbon recovery
+(1) When temporary adverse event land achieves carbon recovery, the participant in respect of the land must give notice to the EPA that the land has achieved carbon recovery.
+(2) The notice must—
+  (a) be signed by the participant; and
+  (b) be given when the next emissions return that covers the land is submitted; and
+  (c) be given—
+    (i) in the prescribed manner and format; and
+    (ii) together with the prescribed fee (if any); and
+    (iii) together with the prescribed information (if any).
+(3) If the participant gives notice in relation to land under this section before giving the notice required for the land under section 193K, the land is released from being temporary adverse event land with effect from the date on which the notice under section 193K takes effect under section 193L.
+(4) If the participant has given notice in relation to land under section 193K before giving notice under this section, the land is released from being temporary adverse event land with effect from when carbon recovery was achieved.
+
+**Ceasing to be temporary adverse event land before recovery**
+
+### 193O Cancellation for breach of conditions
+(1) If the EPA is satisfied that a condition applying under section 193E(2) has not been met in respect of temporary adverse event land in a carbon accounting area, the EPA may cancel the approval in respect of all of the land in the carbon accounting area.
+(2) If the approval is cancelled,—
+  (a) the land ceases to be temporary adverse event land; and
+  (b) section 193Q applies to the land.
+Procedure
+(3) Before cancelling an approval, the EPA must—
+  (a) notify the participant of its intention to do so and the grounds for doing so; and
+  (b) give the participant at least 60 working days to—
+    (i) rectify the non-compliance; or
+    (ii) show cause as to why the EPA should not cancel the approval.
+(4) If the EPA cancels an approval, it must give the participant notice of—
+  (a) its decision and the reasons for it; and
+  (b) the date on which the cancellation occurred; and
+  (c) the person’s right to seek a review of the decision under section 144.
+
+### 193P Other circumstances causing land to cease to be temporary adverse event land
+Intentional conversion to non-forest land
+(1) Temporary adverse event land is intentionally converted if the participant—
+  (a) takes any action that is inconsistent with the land achieving re-establishment; or
+  (b) otherwise takes any action for the purpose of converting the land to land that is not forest land.
+(2) If temporary adverse event land is intentionally converted,—
+  (a) the land ceases to be temporary adverse event land; and
+  (b) the land is to be treated as deforested (despite section 179A); and
+  (c) the reversion date for section 193Q is the date on which the first action referred to in subsection (1)﻿(a) or (b) occurred.
+Re-established land cleared before carbon recovery
+(3) If re-established land is cleared after its re-establishment date but before it achieves carbon recovery,—
+  (a) the land ceases to be temporary adverse event land; and
+  (b) the land is to be treated as deforested; and
+  (c) the reversion date for section 193Q is the date on which the clearing commenced.
+Re-established land treated as deforested
+(4) If re-established land becomes land that is to be treated as deforested under section 179(1)﻿(b) or (c) before it achieves carbon recovery,—
+  (a) the land ceases to be temporary adverse event land; and
+  (b) the reversion date for section 193Q is the 10-year or 20-year date under section 179.
+
+### 193Q Consequences if land ceases to be temporary adverse event land
+(1) This section applies to the following land:
+  (a) non-established land that ceases to be temporary adverse event land under section 193L(2)﻿(d), for which the reversion date is the re-establishment date:
+  (b) land in a carbon accounting area in respect of which the approval is cancelled under section 193O, for which the reversion date is the date of the cancellation:
+  (c) land that ceases to be temporary adverse event land under section 193P, for which the reversion date is the date specified in that section.
+Act reapplies
+(2) Starting on the reversion date, the provisions of this Act apply to the land as if the land had never become temporary adverse event land.
+Liability or entitlement
+(3) As a result, the participant must include all the emissions and removals for the land on and after the event date (including as a result of the adverse event) in the next emissions return the participant is required to submit.
+(4) For that purpose,—
+  (a) all of those emissions and removals are to be treated as having occurred on the reversion date; but
+  (b) the emissions resulting from the adverse event are to be determined by reference to the pre-event carbon stock rate for the land.
+Reconfiguration
+(5) Section 193H(2)﻿(e) applies to a reconfiguration if—
+  (a) the land to which this section applies is only part of a carbon accounting area; and
+  (b) as a result of subsection (2), the participant is required to reconfigure that carbon accounting area to remove that land.
+Permanent forestry
+(6) If the activity on the land is permanent forestry, see also section 190C(2).
+
+**Regulations**
+
+### 193R Regulations for temporary adverse events
+(1) The Governor-General may, by Order in Council made on the recommendation of the Minister, make regulations for 1 or more of the following purposes:
+  (a) prescribing circumstances and dates for the definitions of event date and re-establishment date in sections 193 and 193J:
+  (b) prescribing the methodology for determining—
+    (i) the pre-event carbon stock rate (section 193):
+    (ii) carbon stock loss (section 193A):
+    (iii) carbon stock for the purpose of determining carbon recovery (section 193M):
+  (c) prescribing the kinds of events that are adverse events (section 193A):
+  (d) prescribing—
+    (i) the minimum affected area (section 193A(1)﻿(d)):
+    (ii) the minimum carbon stock loss (section 193A(1)﻿(e)):
+  (e) prescribing other information to be included in, and the submission date and other requirements for, applications made under section 193A:
+  (f) prescribing notification requirements and other criteria for approval under section 193B:
+  (g) prescribing conditions for the purposes of section 193E(2):
+  (h) providing that a participant for temporary adverse event land is not required to—
+    (i) calculate emissions and removals for which they are not liable to surrender, or entitled to receive, units:
+    (ii) submit emissions returns covering a carbon accounting area in relation to which they are not liable to surrender, or entitled to receive, units (section 193F(3)):
+  (i) prescribing other information to be included in, and other requirements for, notices under section 193K:
+  (j) providing for any other matters contemplated by this subpart, necessary for its administration, or necessary for giving it full effect.
+(2) Regulations under this section may make different provision for different cases on any differential basis.
+(3) Regulations made under this section may require the use of a computer programme available via the Internet site of the EPA.
+(4) Regulations made under subsection (1)﻿(g) may relate to emissions or removals that—
+  (a) stem directly from an activity; or
+  (b) are associated with a product or other thing that is the subject of an activity.
+(5) See sections 3A and 3B for consultation requirements that apply to the making of regulations under this section.
+(6) Regulations made under this section come into force 3 months after the date of their publication under the Legislation Act 2019, or on any later date specified in the regulations.
+(7) See also sections 169 to 175 (incorporation by reference).
+(8) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+
+### Subpart 8 — General
 
 **Input returns may be submitted before actual emissions returns**
 
-### 194A Input returns may be submitted for certain emissions returns for forestry activities
+### 194 Input returns may be submitted for certain emissions returns for forestry activities
 (1) This section applies before a person submits an emissions return (for a forestry activity) of a type specified in the regulations.
 (2) The person may first submit, for the activity and 1 or more of the areas or carbon accounting areas covered by the emissions return, an input return that contains the data or information required by the regulations.
 (3) The input return must be submitted by—
   (a) the deadline specified in the regulations; or
   (b) any extended deadline granted by the EPA under the regulations.
-(4) In this section, regulations means regulations made under section 194C.
+(4) In this section, regulations means regulations made under section 194B.
 
-### 194B EPA may do calculations based on input return
-(1) This section applies if the EPA receives an input return in accordance with section 194A.
+### 194A EPA may do calculations based on input return
+(1) This section applies if the EPA receives an input return in accordance with section 194.
 (2) As soon as practicable after receipt, the EPA must—
   (a) calculate for each area or carbon accounting area covered by the input return, as required for the relevant emissions return,—
     (i) the participant’s emissions and removals; and
@@ -5029,7 +6675,7 @@ The EPA must give written or electronic notice to a participant, or former parti
     (iv) a statement about the effect of subsection (3).
 (3) The EPA is not liable for anything that results from the calculations that it makes in good faith under this section, and the EPA’s calculations and notice do not affect any obligation of the participant under this Act (such as the obligation to submit an accurate emissions return).
 
-### 194C Regulations for input returns
+### 194B Regulations for input returns
 (1) The Governor-General may, by Order in Council made on the recommendation of the Minister, make regulations for 1 or more of the following purposes:
   (a) specifying the 1 or more types of emissions return for a forestry activity for which input returns may be submitted, which may be specified by reference to 1 or more of the following:
     (i) the type of forestry activity:
@@ -5046,27 +6692,50 @@ The EPA must give written or electronic notice to a participant, or former parti
   (b) the regulations must contain a statement to that effect.
 (4) A person who has complied with guidelines or standards issued by the EPA under regulations made under subsection (1)﻿(e) is, in the absence of proof to the contrary, presumed to have complied with the relevant requirements specified in regulations corresponding to those guidelines or standards.
 
+### 194C Regulations for input returns
+[Repealed]
+
 **Notification of status of forest land**
 
 ### 195 Notification of status of forest land
-(1) The EPA must, if required by regulations made under section 168, notify the following persons of the details of the land that the EPA is satisfied is pre-1990 forest land, pre-1990 offsetting forest land, or post-1989 forest land in respect of which a person has registered as a participant under section 57, or that the EPA has declared to be exempt land:
+(1) The EPA must, if required by regulations made under section 168, notify the following persons of the details of the land that the EPA is satisfied is a type of land described in subsection (2):
   (a) the Registrar of the Maori Land Court in whose jurisdiction the land is situated in relation to Maori land; and
-  (b) the Registrar-General of Land in relation to land registered under the Land Transfer Act 2017; and
+  (b) the Registrar-General of Land in relation to land that is registered under the Land Transfer Act 2017; and
   (c) the Registrar of Deeds in relation to land that is registered under the Deeds Registration Act 1908.
-(2) On receipt of a notice under subsection (1), the Registrar-General of Land or the Registrar of the Maori Land Court or the Registrar of Deeds must record the notice on the appropriate register under the Land Transfer Act 2017, record of the Maori Land Court, or deeds index under the Deeds Registration Act 1908.
-(3) The Registrar-General of Land or the Registrar of the Maori Land Court or the Registrar of Deeds must cancel any notices recorded under subsection (2) if required under regulations made under section 168.
+(2) The types of land are—
+  (a) the following types of land in respect of which a person is registered as a participant:
+    (i) pre-1990 forest land:
+    (ii) P90 offsetting land:
+    (iii) post-1989 forest land:
+  (b) the following types of post-1989 forest land:
+    (i) P89 offsetting (approved) land (as defined in section 192):
+    (ii) temporary adverse event land:
+    (iii) land for which a person is registered as a participant in permanent forestry:
+  (c) land that the EPA has declared to be exempt land.
+(3) On receipt of a notice under subsection (1), the Registrar-General of Land or the Registrar of the Maori Land Court or the Registrar of Deeds must record the notice on the appropriate register under the Land Transfer Act 2017, record of the Maori Land Court, or deeds index under the Deeds Registration Act 1908.
+(4) The Registrar-General of Land or the Registrar of the Maori Land Court or the Registrar of Deeds must cancel any notices recorded under subsection (3) if required under regulations made under section 168.
+
+**Information about status of forest land**
+
+### 195A Information about status of forest land
+(1) Despite anything in this Act, the EPA must, on receipt of a written request for information about the carbon accounting area or areas to which it relates, provide a statement containing the information in subsection (2) to—
+  (a) the landowner of any post-1989 forest land in respect of which the holder of a registered forestry right or registered lease or party to a Crown conservation contract is a participant; or
+  (b) a prospective transferee, holder of a registered forestry right or registered lease, or party to a Crown conservation contract who has the written consent of the participant in respect of any post-1989 forest land.
+(2) A statement under subsection (1) must set out—
+  (a) the emissions returns (if any) that have been submitted in respect of the carbon accounting area or areas covered by the information request since the carbon accounting area or areas were constituted, and the period covered by those returns; and
+  (b) the unit balance of the carbon accounting area or areas covered by the information request.
 
 **Forestry classifications of land**
 
 ### 196 Meaning of forestry classification
 In this Act, forestry classification means 1 or more classifications of an area of land that—
   (a) classifies the area by whether or how—
-    (i) a definition or matter in the Act that relates to forestry applies to the area; or
-    (ii) the area is eligible to have a definition or matter in the Act apply to it if certain requirements are satisfied; and
+    (i) a definition or matter in this Act that relates to forestry applies to the area; or
+    (ii) the area is eligible to have a definition or matter in this Act apply to it if certain requirements are satisfied; and
   (b) is given—
     (i) by the EPA under section 196A (initial classification), 196C (change of classification to correct error), 196D (change of classification to update for changes), or 144 (review of classification); or
     (ii) by the decision of the District Court or High Court under section 145 or 146.
-ExamplesIf specified by regulations, an area of land might be classified as—pre-1990 forest land:post-1989 forest land:land that is eligible to become post-1989 forest land (if it becomes forest land):pre-1990 offsetting forest land:land that has been deforested, or deforested on specified dates:land that is eligible to be declared exempt land under section 184 (because of tree weeds):land that was forest land on 31 December 1989:exempt land:pre-1990 forest land to which the pre-1990 forest land allocation plan applies:something else.
+ExamplesIf specified by regulations, an area of land might be classified as—pre-1990 forest land:post-1989 forest land:land that is eligible to become post-1989 forest land (if it becomes forest land):P90 offsetting land:land that has been deforested, or deforested on specified dates:land that is eligible to be declared exempt land under section 180E (because of tree weeds):post-1989 forest land for which a participant is registered for standard forestry that is or is not a carbon accounting area (averaging):post-1989 forest land for which a participant is registered for permanent forestry:land that was forest land on 31 December 1989:exempt land:pre-1990 forest land to which the pre-1990 forest land allocation plan applies:something else.
 
 ### 196A EPA may give forestry classifications to areas of land
 The EPA may give 1 or more forestry classifications to an area of land in accordance with regulations made under section 196F.
@@ -5075,7 +6744,7 @@ The EPA may give 1 or more forestry classifications to an area of land in accord
 [Repealed]
 
 ### 196B Effect of forestry classifications
-(1) The forestry classification of an area of land is conclusive evidence of how the relevant definition or matter in the Act applies to the area.
+(1) The forestry classification of an area of land is conclusive evidence of how the relevant definition or matter in this Act applies to the area.
 (2) The EPA must apply this Act to the area in accordance with the forestry classification.
 (3) If a person’s application, notice, emissions return, or other document under this Act specifies the forestry classification of an area of land, the document—
   (a) need not include any information that is covered by the forestry classification; but
@@ -5098,7 +6767,7 @@ The EPA may give 1 or more forestry classifications to an area of land in accord
 (1) This section applies if a forestry classification has effect before the date on which the classification is given, whether—
   (a) by the EPA under section 196A, 196C, or 196D or on review under section 144; or
   (b) by the decision of a court on appeal under section 145 or 146.
-(2) The forestry classification must be ignored in respect of the period before the date of the decision—
+(2) The forestry classification must be ignored in respect of the period before the date on which the classification is given—
   (a) to the extent that it would increase the number of units that a person is required to surrender, or decrease the number of New Zealand units that a person is entitled to receive, in respect of that period; and
   (b) in respect of any other matter specified by regulations made under section 196F.
 (3) In all other respects, the forestry classification must be applied to that period.
@@ -5114,9 +6783,9 @@ The EPA may give 1 or more forestry classifications to an area of land in accord
       (B) considering, granting, or declining the application; and
     (iii) must require the EPA to first consult the persons that the regulations specify are likely to be substantially affected by the classification, unless the only persons likely to be substantially affected have applied for, or agreed to, the classification:
   (c) providing for when a forestry classification comes into effect, which may, for example,—
-    (i) subject to section 196E, be before the date of the decision if the classification is changed under section 196C or 196D, on review by the EPA under section 144, or on appeal to the court under section 145 or 146:
+    (i) subject to section 196E, be before the date on which the classification is given if the classification is changed under section 196C or 196D, on review by the EPA under section 144, or on appeal to the court under section 145 or 146:
     (ii) differ for different forestry classifications or circumstances, such as whether a person is responsible for a material change described in section 196D(1)﻿(a):
-  (d) specifying matters for the purposes of section 196E(2)﻿(b) (in respect of which a forestry classification is ignored for the period before the date of the decision):
+  (d) specifying matters for the purposes of section 196E(2)﻿(b) (in respect of which a forestry classification is ignored for the period before the date on which it is given):
   (e) providing for the publication of the following in 1 or more notices, instruments, maps, or tools, which may be electronic:
     (i) any decision to give a forestry classification to an area of land:
     (ii) the current forestry classifications of all areas of land, and any related matters.
@@ -5148,8 +6817,8 @@ A participant in an activity of standard forestry or permanent forestry in a car
   (d) for different parts of New Zealand.
 (3) Regulations made under this section may require the use of a computer programme available via the Internet site of the EPA.
 (4) Regulations made under subsection (1)﻿(c) may relate to emissions or removals that—
-  (a) stem directly from the activity; or
-  (b) are associated with a product or other thing that is the subject of the activity.
+  (a) stem directly from the relevant activity; or
+  (b) are associated with a product or other thing that is the subject of the relevant activity.
 (5) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ## Part 5A — Sector-specific provisions: liquid fossil fuels
@@ -5882,6 +7551,7 @@ In this Part,—
 ### 5 Satisfying requirements for making regulations
 (1) This clause applies to any requirement for the making of any regulations under this Act as amended by the amendment Act.
 (2) Anything done before the commencement of this clause satisfies the requirement as long as it would have satisfied the requirement if it had been done after the commencement.
+(3) If the thing was done in relation to regulations under section 193R relating to land in a carbon accounting area that is used for permanent forestry, it also satisfies (to the same extent) the requirement to do that thing in relation to regulations under that section relating to land in a carbon accounting area that is used for standard forestry and that is not a carbon accounting area (averaging).
 
 ### 6 New regulations may commence on or after commencement of clause
 Any regulations made under this Act before the commencement of this clause may come into force on, or at any time after, that commencement, despite anything in this Act that prevents them from coming into force within a certain period after the date of their publication under the Legislation Act 2019.
@@ -5907,7 +7577,7 @@ If section 27 applies to information immediately before its amendment by the ame
   (a) the return also relates to a period after 1 January 2020; and
   (b) it is possible for emissions or removals occurring before 1 January 2020 to be excluded from the published information.
 (3) Section 89A—
-  (a) applies in respect of emissions returns submitted under section 189, 191, or 193 for emissions or removals on or after 1 January 2020; but
+  (a) applies in respect of emissions returns for an activity of standard forestry or permanent forestry for emissions or removals on or after 1 January 2023; but
   (b) does not apply in respect of any other emissions returns in relation to post-1989 forest land during a mandatory emissions returns period commencing before 1 January 2023.
 (4) Section 89(1A) and (1B) does not apply in respect of failures or errors made by a person before 1 January 2021.
 
@@ -5921,7 +7591,7 @@ If section 27 applies to information immediately before its amendment by the ame
   (b) exists immediately before the commencement of this clause.
 (2) Sections 150 and 151A do not apply to an existing forestry consolidated group (so that no members or activities may be added to the group).
 (3) The nominated entity of an existing forestry consolidated group—
-  (a) may submit a single emissions return under section 189(3) in respect of 1 or more of the activities listed in Part 1 of Schedule 4 carried out by a member of the group in a year; and
+  (a) may submit a single emissions return under section 183 in respect of 1 or more of the activities of standard forestry carried out by a member of the group in a year; and
   (b) must submit any emissions return required under a provision of Part 5 on behalf of any member of the group when the member is required to do so; and
   (c) must sign any emissions return submitted by the nominated entity in accordance with section 65(2)﻿(f) on behalf of the group.
 (4) In relation to an existing forestry consolidated group, section 153(2) to (4) applies to the liability to surrender units or entitlement to be transferred units in relation to an emissions return referred to in subclause (3) as if the references in that section to a year were references to the period covered by the emissions return.
@@ -5929,8 +7599,10 @@ If section 27 applies to information immediately before its amendment by the ame
 
 ### 13 Fixed price (for option to pay money instead of surrendering or repaying)
 Section 178A does not apply if the person’s emissions return described by section 178A(1)﻿(a)﻿(i)﻿(A)—
-  (a) is in respect of an activity listed in Part 1 of Schedule 4; and
-  (b) does not impose a net liability to surrender or repay units for all of the carbon accounting areas covered by the return (for example, under section 189(8)).
+  (a) both—
+    (i) is in respect of an activity listed in Part 1 of Schedule 4; and
+    (ii) does not impose a net liability to surrender or repay units for all of the carbon accounting areas covered by the return (for example, under section 189(8)); or
+  (b) is prepared under clause 34 (for opting in to averaging).
 
 #### Subpart 2 — Provisions that commence on 30 November 2020
 
@@ -5967,7 +7639,7 @@ Section 178A does not apply if the person’s emissions return described by sect
       (A) an emissions return with an emissions return period and under which the average liability per year of that period is less than 25,000 units:
       (B) an emissions return without an emissions return period and under which the liability is less than 25,000 units:
       (C) any other requirement in this Act or secondary legislation made under this Act (for example, the requirement to repay units under section 125 or any requirement to surrender units equal to a unit balance) and under which the liability is less than 25,000 units.
-(2) Under this clause, instead of new section 134 (and other new provisions of this Act that refer to that section) applying, the following provisions apply to the person with the modifications specified:Excess emissions penalty for failing to surrender or repay unitsFurther excess emissions penalty for failing to surrender or repay units when required by notice under section 134Reductions in penaltyDeferred payment arrangements for payments of penaltiesAdditional excess emissions penalty for knowing failure to complyInterest for late paymentObligation to pay penalty not suspended by appealPenalties to be paid into Crown accountReview and appealRecovery of costsTransitional provisionOther former provisionsEPA to publish certain information
+(2) Under this clause, instead of new section 134 (and other new provisions of this Act that refer to that section) applying, the following provisions apply to the person with the modifications specified:Excess emissions penalty for failing to surrender or repay unitsFurther excess emissions penalty for failing to surrender or repay units when required by notice under section 134Reductions in penaltyDeferred payment arrangements for payments of penaltiesAdditional excess emissions penalty for knowing failure to complyInterest for late paymentObligation to pay penalty not suspended by appealPenalties to be paid into Crown accountReview and appealRecovery of costsTransitional provisionOther former provisionsEPA to publish certain informationRemoval from register for persistent non-compliance (by standard forestry participant)
   (a) former section 134(1)﻿(a) and (c), (2)﻿(a) and (b)﻿(i) and (iii), (3)﻿(a), and (4), as if—
     (i) former section 134(1)﻿(a) applied to the failure to surrender the units (if any); and
     (ii) former section 134(1)﻿(c) applied to the failure to repay the units (if any):
@@ -5984,10 +7656,187 @@ Section 178A does not apply if the person’s emissions return described by sect
   (j) former section 159, as if its subsection (3) specified that variable C is the price, in dollars, of carbon per tonne 1 year after the date of the penalty notice given under former section 134 or 136 in relation to the units, as set by or in accordance with regulations made under new section 30W:
   (k) former section 217(2)﻿(b)﻿(ii) and (c):
   (l) any other former provision of this Act that provides for a process that applies to any former provision applied by this clause:
-  (m) new section 89, as if a penalty imposed under former section 134, 134A, or 136 were a qualifying penalty.
+  (m) new section 89, as if a penalty imposed under former section 134, 134A, or 136 were a qualifying penalty:
+  (n) new section 59AA(1)﻿(c), (3), and (4), as if a penalty imposed under former section 134, 134A, or 136 were imposed under new section 134, but only if the deadline to pay the penalty under new section 59AA(1)﻿(c) is on or after 1 January 2023.
 (3) In this section,—
   - **former** , in relation to a provision, means the provision as in force immediately before the commencement of this clause
   - **new** , in relation to a provision, means the provision as in force on or after the commencement of this clause.
+
+#### Subpart 4 — Provisions that commence on 1 January 2023
+
+**Persistent non-compliance**
+
+### 18 Deregistering participants for persistent non-compliance
+The EPA must not remove the name of a person from the register in respect of an activity under section 59AA if the failure on which the EPA relies occurred before the commencement of this clause.
+
+**Time bar for amendment of emissions returns**
+
+### 19 Time bar for amendment of emissions returns
+If an emissions return was required or permitted by a section to which section 127(1) applied immediately before the commencement of this clause, section 127 continues to apply, as it was immediately before the commencement of this clause, in relation to that emissions return.
+
+**Tree weeds**
+
+### 20 Existing exemptions for deforestation of land with tree weeds
+(1) This clause applies to land for which, immediately before the commencement of this clause, there is an exemption under section 184.
+(2) The exemption applies as if it had been granted under this Act as amended by the amendment Act, so that the conditions in former section 184(6) no longer apply.
+
+### 21 Carbon accounting areas with tree weeds already added to post-1989 forest land
+Section 182C(5)﻿(b) does not affect a carbon accounting area added to any post-1989 forest land before the commencement of that provision.
+
+**Existing emissions returns**
+
+### 22 Emissions returns already submitted or assessed
+If an emissions return was submitted by a person, or assessed by the EPA under section 121, before the commencement of this clause, the emissions return must be dealt with in accordance with this Act as it was immediately before the commencement of this clause.
+
+**P90 offsetting land**
+
+### 23 Interpretation
+In clauses 23 to 27,—
+  - **commencement date** means the date on which this clause comes into force
+  - **former** , in relation to a provision, means the provision as in force immediately before the commencement date
+  - **new offsetting provisions** means subpart 3 of Part 5 and section 179A(1)﻿(b), as inserted by the amendment Act.
+
+### 24 New offsetting provisions apply to existing offsets
+(1) Anything done or omitted to be done to, or in relation to, land under former sections 186A to 186J and that is of ongoing effect is to be treated, on and after the commencement date, as having been done or omitted to be done under the new offsetting provisions.
+(2) For the purposes of subclause (1), the new offsetting provisions apply with any necessary modifications.
+
+### 25 Existing approved applications may be amended to include new land
+(1) The owners of pre-1990 forest land that is the subject of an existing approved application may apply to the EPA to substitute land of the kind referred to in section 181B(2)﻿(b)﻿(ii), (iii), or (iv) for some or all of the area 2 (approved) land under the application.
+(2) The application must—
+  (a) identify the existing approved offset land that is to be replaced (area A); and
+  (b) identify the land that is to be substituted for area A (area B); and
+  (c) include—
+    (i) any information in relation to area B that would be required in an application under section 181A; and
+    (ii) any other information prescribed in regulations made under section 181W.
+(3) The application must be made jointly by all of the persons who, on the date of the application, own any of the area 1 (approved) land, area 2 (approved) land, or land in area B.
+(4) The application must—
+  (a) be signed by all of the applicants; and
+  (b) be submitted before the P90 offset date for the existing approved application; and
+  (c) be submitted—
+    (i) in the prescribed manner and format; and
+    (ii) together with the prescribed fee (if any); and
+    (iii) together with the prescribed information (if any).
+(5) In this clause, existing approved application means an application under former section 186A—
+  (a) that was approved before the commencement date; but
+  (b) in relation to which a declaration under former section 186D had not been given to the EPA before the commencement date.
+(6) To avoid doubt, nothing in this clause prevents a person who submitted an application under former section 186A that has not yet been approved from withdrawing or amending the application.
+
+### 26 Approval of application
+(1) If a person submits an application under clause 25, the EPA,—
+  (a) if satisfied that the criteria in subclause (2) are met, must approve the application; or
+  (b) otherwise, may decline the application.
+(2) The criteria are that—
+  (a) the land in area B is land that meets the criteria in section 181B(2)﻿(b) (other than subparagraph (i)) and (c):
+  (b) the area 2 (approved) land under the existing application less area A plus area B (revised offsetting land) meets the criteria in section 181B(2)﻿(d) and (e):
+  (c) the EPA is satisfied that if all of the revised offsetting land were to become area 1 (offset) land, the P90 offset release criteria are likely to be met on the P90 offset date:
+  (d) any other criteria prescribed in regulations made under section 181W are met.
+(3) If the EPA approves the application,—
+  (a) area A ceases to be part of the area 2 (approved) land; and
+  (b) area B becomes part of the approved offset land; and
+  (c) this Act applies as if the existing application had been approved (on its original approval date) in relation to the revised offsetting land.
+
+### 27 Change of terminology: pre-1990 offsetting forest land to P90 offsetting land
+A reference (in an enactment or other document) to pre-1990 offsetting forest land includes, in relation to a time before the commencement date, a reference to P90 offsetting land, unless the context otherwise requires.
+
+**Non-compliance for transmitted interests**
+
+### 28 Non-compliance for transmitted interests
+(1) Section 187B(1) to (3), but no other subsections of that section, applies to a transmission of interest whose date of transmission was before the commencement of this clause.
+(2) Section 187D—
+  (a) does not apply to a final transmission whose date of transmission was before the commencement of this clause; but
+  (b) applies to a final transmission whose date of transmission is on or after the commencement of this clause, even if the first transmission, and any other transmission of interest between the first and final transmissions, was before that commencement.
+
+**Changing of activity on post-1989 forest land**
+
+### 29 Previous changing of activity on post-1989 forest land
+(1) If a person satisfied former section 188(9) before the commencement of this clause, they must be treated as having had an application under section 189 approved to become registered as a participant in standard forestry (the final activity) by changing from PFSI activity (the initial activity).
+(2) See sections 189(7)﻿(b) and 190(2)﻿(c)﻿(ii), which are provisions to which this clause relates.
+
+### 30 Application to change from standard to permanent forestry
+(1) This clause applies to a person who, in the period starting on 1 January 2018 and ending on 31 December 2023,—
+  (a) becomes registered as a participant carrying out standard forestry in respect of any post-1989 forest land, whether or not registered in respect of that land before; and
+  (b) has an application under section 189 approved to change from standard forestry to permanent forestry on that land.
+(2) For each CAA1 covered by the emissions return that accompanied the application, the person may surrender any units that are equal in number to the unit balance of the CAA1.
+(3) The deadline for surrendering the units is 60 working days after the person submits the application.
+(4) For each unit surrendered, the person becomes entitled to a unit for removals from permanent forestry.
+
+### 31 All PFSI activity is changed to permanent forestry in 2024
+(1) This clause applies to a person’s forest land that a forest sink covenant is registered against immediately before 1 January 2024 (the PFSI land).
+(2) On 1 January 2024,—
+  (a) the EPA must apply sections 189 to 189B as if the person had that day submitted an application in accordance with section 189 to become a participant in a final activity of permanent forestry on the PFSI land; but
+  (b) the EPA may apply section 121 for the purposes of the application.
+
+**Carbon accounting areas (averaging)**
+
+### 32 Emissions returns for carbon accounting area (averaging) in third mandatory emissions return period
+(1) This clause applies in relation to a carbon accounting area (CAA1) that becomes a carbon accounting area (averaging) under section 191B(2) during the third mandatory emissions return period.
+(2) In any emissions return in respect of a period in the third mandatory emissions return period, the calculations and assessments in relation to the CAA1 must be made as if—
+  (a) the CAA1 had been a carbon accounting area (averaging) since the beginning of the period covered by the emissions return; and
+  (b) the amendment Act had come into force before that date.
+
+### 33 Carbon accounting areas constituted in 2019–2022: opting in to averaging
+(1) A participant in an activity of standard forestry on post-1989 forest land in 1 or more carbon accounting areas (each a CAA1) may give notice to the EPA to change the CAA1s into carbon accounting areas (averaging) if all of the following apply to each CAA1:
+  (a) it was constituted—
+    (i) by a person being registered as a participant in respect of the land (as referred to in former section 188(1) or section 182C); or
+    (ii) by the land being added as a carbon accounting area under former section 188(3) or section 182C(3):
+  (b) the application to register the participant, or add the carbon accounting area, was made after 31 December 2018 but before 1 January 2023:
+  (c) its constitution date is before 1 January 2023:
+  (d) it meets the requirements of section 191B(2)﻿(b):
+  (e) before the notice is given under this clause, no final forestry emissions return required by section 183A has been submitted covering the CAA1 in relation to the mandatory emissions return period ending on 31 December 2022:
+  (f) before the notice is given under this clause, no other emissions return has been (or should have been) submitted covering the CAA1 in relation to a period after 1 January 2023.
+(2) The notice given under this clause must—
+  (a) specify the CAA1s to which it relates; and
+  (b) include an emissions return prepared under clause 34 for the activity that covers the CAA1s.
+(3) The notice must—
+  (a) be signed by the participant; and
+  (b) be submitted on or before 30 June 2023; and
+  (c) be submitted—
+    (i) in the prescribed manner and format; and
+    (ii) together with the prescribed fee (if any); and
+    (iii) together with the prescribed information (if any).
+(4) An emissions return prepared under clause 34 for the activity that covers the CAA1s, when submitted with the notice, satisfies the obligation to submit the final forestry emissions return required by section 183A covering the CAA1s in relation to the mandatory emissions return period ending on 31 December 2022.
+(5) In this clause, former, in relation to a provision, means that provision as in force before this clause came into force.
+
+### 34 Preparing emissions return for carbon accounting areas changing to averaging
+(1) An emissions return prepared under this clause must—
+  (a) specify—
+    (i) the CAA1s that the return covers; and
+    (ii) if the land in a CAA1 has not all been in the CAA1 for the whole of the emissions return period, all of the carbon accounting areas that any of the land has been part of during the emissions return period (the predecessor CAAs); and
+  (b) for each CAA1,—
+    (i) specify the activity for which the person is a participant on the CAA1s; and
+    (ii) specify the emissions return period that applies under subclause (2); and
+    (iii) specify the emissions and removals during the emissions return period from all of the land now in the CAA1 (whether they occurred when the land was part of the CAA1 or part of a predecessor CAA); and
+    (iv) set out the calculation under clause 35(1) of the person’s averaging liability or entitlement for emissions and removals during the emissions return period; and
+    (v) set out the averaging unit balance determined under clause 35(3); and
+    (vi) set out the calculation under clause 35(4) of the person’s actual liability or entitlement; and
+  (c) set out the calculation under clause 35(5) of the person’s total liability or entitlement for all the CAA1s.
+(2) The emissions return period for a CAA1 is the period that—
+  (a) starts on the later of—
+    (i) 1 January 2018; and
+    (ii) the date on which any of the land in the CAA1 became post-1989 forest land; and
+  (b) ends on 31 December 2022.
+
+### 35 Calculations for CAA1s changing to averaging
+(1) A person’s averaging liability or entitlement for a CAA1 (a) is calculated as follows:a = r − ewhere—ris the number of units required for the removals from the CAA1 during the emissions return period, determined in accordance with subclause (2)eis the number of units required for the emissions from the CAA1 during the emissions return period, determined in accordance with subclause (2).
+(2) The values of variables r and e in subclause (1) are to be determined as if—
+  (a) all of the land now in the CAA1 had been a single carbon accounting area since the beginning of the emissions return period; and
+  (b) that carbon accounting area had been a carbon accounting area (averaging) since the beginning of the emissions return period; and
+  (c) the amendment Act had come into force before the beginning of the emissions return period.
+(3) The averaging unit balance of a CAA1 is,—
+  (a) if the person’s averaging liability or entitlement for the CAA1 is positive, that amount; or
+  (b) if the person’s averaging liability or entitlement for the CAA1 is negative, zero.
+(4) A person’s actual liability or entitlement for a CAA1 (h) is calculated as follows:h = u − cwhere—uis the averaging unit balance of the CAA1 under subclause (3)cis—
+  (a) the previous unit balance of the CAA1 calculated under the last emissions return submitted for the CAA1; or
+  (b) if there is no such return, zero.
+(5) A person’s total liability or entitlement for all the CAA1s (t) is calculated as follows:t = hnwhere—hnis the sum of the person’s actual liability or entitlement for each CAA1.
+
+### 36 Effect of changing to carbon accounting areas (averaging)
+(1) This clause applies if the EPA decides that a notice under clause 33 and the accompanying emissions return are correct.
+(2) If the person’s total liability or entitlement for the CAA1s covered by the emissions return is—
+  (a) a positive number, the person is entitled to receive that number of New Zealand units; or
+  (b) a negative number, the person is liable to surrender that number of units.
+(3) The unit balance of each CAA1 covered by the emissions return is updated to the averaging unit balance calculated under the return.
+(4) Each CAA1 covered by the notice becomes a carbon accounting area (averaging) and is to be treated as having become so on 1 January 2023.
 
 ## Schedule 1 — United Nations Framework Convention on Climate Change
 
