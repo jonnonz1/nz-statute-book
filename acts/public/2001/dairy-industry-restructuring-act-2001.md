@@ -1,5 +1,5 @@
 # Dairy Industry Restructuring Act 2001
-_Consolidation as at 2021-10-28_
+_Consolidation as at 2023-01-01_
 
 ### 1 Title
 This Act is the Dairy Industry Restructuring Act 2001.
@@ -1367,7 +1367,7 @@ Sections 109A to 109M expire and are repealed,—
 (1) Every person commits an offence against this section who—
   (aa) fails, without reasonable excuse, to comply with a requirement to provide periodic returns or periodic forecasts specified in regulations made under section 115; or
   (a) fails, without reasonable excuse, to comply with any information disclosure requirements prescribed in regulations made under section 116; or
-  (b) fails, without reasonable excuse, to comply with the requirements of section 117(1) and (3).
+  (b) fails, without reasonable excuse, to comply with the requirements of section 117(1) and (3):
   (c)
 (2) Every person commits an offence against this section who makes a false declaration under section 117(4) in relation to any information, statement, or report supplied under section 117(1) or (3).
 (3) Every person who commits an offence against subsection (1) is liable on conviction to a fine not exceeding $200,000 and, if the offence is a continuing one, to a further fine not exceeding $10,000 for every day or part of a day during which the offence is continued.
@@ -1480,7 +1480,7 @@ The Commission may amend a determination to clarify it if—
 **Levy**
 
 ### 134 New co-op must pay levy
-(1) New co-op must pay, in each financial year, a levy to the Minister that is determined in accordance with regulations made under subsection (2).
+(1) New co-op must pay, for each financial year, a levy to the Minister that is determined in accordance with regulations made under subsection (2).
 (2) The Governor-General may, by Order in Council made on the recommendation of the Minister, make regulations—
   (a) specifying the amount of the levy, or method of calculating or ascertaining the amount of the levy, on the basis that the costs estimated under subsection (4) should be met fully out of the levy:
   (b) including in the levy, or providing for the inclusion in the levy of, any shortfall in recovering those actual costs (including, without limitation, providing for a reconciliation of the levy against the levy that would have been payable had the calculation used the actual costs and invoicing new co-op for the amount under-recovered from it as part of the levy):
@@ -1490,7 +1490,7 @@ The Commission may amend a determination to clarify it if—
   (f) providing for the payment and collection of the levy:
   (g) requiring payment of the levy for a financial year or part financial year, even though the regulations may be made after that financial year has commenced:
   (h) exempting or providing for exemptions from, and providing for waivers of, the whole or any part of the levy.
-(3) The regulations may provide for the levy to apply, and be calculated in respect of, 1 or more financial years (with the levy being collected in each of those years from new co-op).
+(3) The regulations may provide for the levy to apply, and be calculated in respect of, 1 or more financial years (with the levy being collected for each of those years from new co-op).
 (4) In calculating estimated costs for the purposes of subsection (2)﻿(a), the Commission—
   (a) may include—
     (i) the cost of making determinations; and
@@ -1642,11 +1642,12 @@ Proceedings brought under this Part are in addition to any proceedings brought u
 (2) For the purposes of this subpart, the setting of a base milk price provides for contestability in the market for the purchase of milk from farmers if any notional costs, revenues, or other assumptions taken into account in calculating the base milk price are practically feasible for an efficient processor.
 
 ### 150B Certain assumptions do not detract from purpose of subpart
-It does not detract from the achievement of the purpose set out in section 150A that new co-op sets the base milk price using assumptions that include any of the following:
+(1) It does not detract from the achievement of the purpose set out in section 150A that new co-op sets the base milk price using assumptions that include any of the following:
   (a) that new co-op operates a national network of facilities for the collection and processing of milk:
   (b) that the size of new co-op's assumed units of processing capacity approximates to the average size of new co-op's actual units of processing capacity:
   (c) that gains and losses experienced by new co-op resulting from foreign currency fluctuations, including from new co-op's foreign currency risk-management strategies, are incorporated in the base milk price:
   (d) that all milk collected by new co-op is processed into commodities at yields that are practically feasible.
+(2) Subsection (1) does not extend to the way in which new co-op uses an assumption in setting the base milk price.
 
 ### 150C Setting of base milk price in way that is consistent with certain principles
 (1) For the achievement of the purpose set out in section 150A, the base milk price must be set in a way that is consistent with the following principles:
@@ -1726,6 +1727,7 @@ The Commission must, for each season, review the milk price manual and make a re
 
 ### 150I Commission's report
 (1) The Commission must make a report on the extent to which the milk price manual is consistent with the purpose of this subpart (see section 150A).
+(1A) To avoid doubt, a report under subsection (1) may include the extent to which the way new co-op uses an assumption described in section 150B(1) in relation to the milk price manual is consistent with the achievement of the purpose set out in section 150A.
 (2) In making the report, the Commission must—
   (a) have regard to the information provided to it by new co-op under section 150L or under the procedure agreed under section 150K; and
   (b) have regard to any submission made by new co-op under section 150M(2)﻿(a) or under the procedure agreed under section 150K; and
@@ -1777,6 +1779,7 @@ New co-op must, not later than 1 August in each year,—
 
 ### 150P Commission's report
 (1) The Commission must make a report on the extent to which the assumptions adopted and the inputs and process used by new co-op in calculating the base milk price for the season are consistent with the purpose of this subpart (see section 150A).
+(1A) To avoid doubt, a report under subsection (1) may include the extent to which the way new co-op uses an assumption described in section 150B(1) in calculating the base milk price is consistent with the achievement of the purpose set out in section 150A.
 (2) In making the report, the Commission must—
   (a) have regard to the information provided to it by new co-op under section 150T or under the procedure agreed under section 150S; and
   (b) have regard to any submission made by new co-op under section 150U(2)﻿(a) or under the procedure agreed under section 150S; and
@@ -1806,14 +1809,14 @@ The Commission must finalise its report under section 150P and make it publicly 
   (b) the procedure set out in sections 150T and 150U applies to the extent that anything that is required to be done by new co-op under those sections remains still to be done.
 
 ### 150T New co-op must provide Commission with certain information
-New co-op must, not later than 1 July in each year,—
+New co-op must, not later than 15 June in each year,—
   (a) provide the Commission with the assumptions adopted and the inputs and process used by new co-op in calculating the base milk price for the preceding season; and
   (b) certify to the Commission the extent to which, in new co-op's view, the assumptions adopted and the inputs and process used by new co-op in calculating the proposed base milk price are consistent with the purpose of this subpart (see section 150A); and
   (c) provide the Commission with reasons for the view expressed in new co-op's certificate given under paragraph (b).
 
 ### 150U Draft Commission report
-(1) No later than 15 August following the season to which the report under section 150P relates, the Commission must provide new co-op with a draft of its report.
-(2) No later than 1 September following the season to which the report relates, new co-op must—
+(1) No later than 1 August following the season to which the report under section 150P relates, the Commission must provide new co-op with a draft of its report.
+(2) No later than 15 August following the season to which the report relates, new co-op must—
   (a) make a submission to the Commission on the draft report; or
   (b) notify the Commission that it does not wish to make a submission.
 
