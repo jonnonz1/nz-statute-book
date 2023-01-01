@@ -1,5 +1,5 @@
 # Smokefree Environments and Regulated Products Act 1990
-_Consolidation as at 2022-07-01_
+_Consolidation as at 2023-01-01_
 
 > Title
 
@@ -22,8 +22,10 @@ _Consolidation as at 2022-07-01_
   - **aircraft** has the same meaning as in section 2 of the Civil Aviation Act 1990
   - **approved evidence of age document** has the meaning given by section 5(1) of the Sale and Supply of Alcohol Act 2012
   - **approved Internet site** means an Internet site to which a person’s approval as a specialist vape retailer applies
+  - **approved smoked tobacco retail premises** means premises from which an approved smoked tobacco retailer is approved to sell smoked tobacco products
+  - **approved smoked tobacco retailer** means a person who is approved by the Director-General as an approved smoked tobacco retailer under section 20H
   - **approved vaping premises** means premises to which a person’s approval as a specialist vape retailer applies
-  - **automatic vending machine** means any self-service machine that,—
+  - **automatic vending machine** means any machine that,—
     (a) on the insertion of a coin or token or by any other means, dispenses by way of sale regulated products, whether automatically or with the assistance of the purchaser; and
     (b) does not require replenishment between each sale
   - **casino** means a casino for which a casino venue licence is in force under section 122 or section 137 of the Gambling Act 2003
@@ -31,9 +33,11 @@ _Consolidation as at 2022-07-01_
   - **class 4 gambling venue licence** means a class 4 venue licence within the meaning of section 4(1) of the Gambling Act 2003
   - **coastal cargo** has the meaning given to it by section 198(6) of the Maritime Transport Act 1994
   - **company name** includes any corporate name, firm name, or business name, whether or not it is registered or registrable under the Companies Act 1993 or any other enactment
+  - **constituent** means any thing that makes up, is present in, or is emitted from a regulated product
   - **craft** means—
     (a) an aircraft:
     (b) a ship (as defined in section 2(1) of the Maritime Transport Act 1994)
+  - **database** means the database established under section 77
   - **dedicated room** means an internal area in a hospital care institution, a residential disability care institution, or a rest home that is used solely to—
     (a) enable patients or residents who smoke to smoke, or to socialise with each other in a place where smoking is permitted; or
     (b) enable patients or residents who vape to vape, or to socialise with each other in a place where vaping is permitted
@@ -46,10 +50,20 @@ _Consolidation as at 2022-07-01_
     (a) means a person who employs 1 or more employees; and
     (b) includes a person who arranges for volunteers to undertake work
   - **enforcement officer** means a person appointed under section 91
+  - **entity** includes—
+    (a) a body corporate:
+    (b) a corporation sole:
+    (c) in the case of a trust that has—
+      (i) only 1 trustee, the trustee acting in that capacity as trustee:
+      (ii) more than 1 trustee, the trustees acting jointly in their capacity as trustees:
+    (d) an unincorporated body (including a partnership)
+  - **flavour** , in relation to a notifiable product, means a clearly noticeable smell or taste—
+    (a) resulting from an additive or a combination of additives; and
+    (b) that is noticeable before or during use of the product
   - **foreign ship** means a ship that is not a New Zealand ship
   - **gambling** has the meaning set out in section 4(1) of the Gambling Act 2003
   - **gambling area** , in relation to a casino venue, means the area of the venue in which gambling is conducted
-  - **harmful constituent** means a substance declared by regulations to be a harmful constituent in a regulated product of a specified class or description
+  - **general vape retailer** means a retailer of vaping products, other than a specialist vape retailer
   - **heated tobacco product** means a smokeless tobacco product that has a device that uses or facilitates the use of heat to aerosolise nicotine from tobacco leaf directly
   - **herbal smoking product** means a product that—
     (a) is or contains vegetable matter; and
@@ -70,17 +84,26 @@ _Consolidation as at 2022-07-01_
       (i) a seller whose business is or includes offering the product for sale (whether by retail or wholesale); and
       (ii) a person (whether the purchaser or a person acting on the purchaser's behalf) who is at a distance from the seller's place of business; and
     (b) contains a term providing for the product to be delivered by or on behalf of the seller to, or to a place or person chosen by, the purchaser
+  - **iwi-Māori partnership board** has the same meaning as in section 4 of the Pae Ora (Healthy Futures) Act 2022
   - **large retailer** , in relation to a person that is alleged to have committed an offence in a certain accounting period, means a retailer whose total turnover in the prior accounting period exceeded $50 million (as accounting period and turnover are defined by section 2(1) of the Commerce Act 1986, except that in those definitions body corporate is to be read as any retailer)
   - **licensed premises** means any premises, or any part of any premises, on which alcohol is sold pursuant to a licence under the Sale and Supply of Alcohol Act 2012
   - **managers** , in relation to a school, or premises to which section 7A(4) applies, means all the people who control and manage the school or premises, whether or not they have a proprietary interest in the school or premises
   - **manufacturer** includes any company with which a manufacturer is associated within the meaning of subpart YB of the Income Tax Act 2007
+  - **Māori Health Authority** means the health entity established under section 17 of the Pae Ora (Healthy Futures) Act 2022
   - **Minister** means the Minister of Health
+  - **Ministry** means the department of State that, with the authority of the Prime Minister, is responsible for the administration of this Act
   - **New Zealand continental waters** has the meaning given to it by section 222(1) of the Maritime Transport Act 1994
   - **New Zealand resident** means—
     (a) a New Zealand citizen:
     (b) a permanent resident of New Zealand within the meaning of section 73 of the Electoral Act 1993:
     (c) a company incorporated in New Zealand
   - **New Zealand ship** has the meaning given to it by section 2(1) of the Ship Registration Act 1992
+  - **notifiable product** means—
+    (a) a vaping product; or
+    (b) a smokeless tobacco product; or
+    (c) a herbal smoking product; or
+    (d) any other regulated product (other than a smoked tobacco product) declared by regulations to be a notifiable product
+  - **notifier** means the manufacturer or importer of a notifiable product
   - **of the same kind** ,—
     (a) in relation to tobacco products and herbal smoking products, means not differing in a manner stated in subsection (2):
     (b) in relation to vaping products and heated tobacco products, means not differing in a manner stated in subsection (2A)
@@ -89,6 +112,9 @@ _Consolidation as at 2022-07-01_
   - **package** means a pack, carton, wrapping, or other container in which a regulated product is sold at retail
   - **point of sale** means a checkout, till, or cashbox where regulated products may be bought
   - **product request** means a request (however expressed) made to a retailer by a person who has asked to purchase a specified, or any available, regulated product
+  - **product safety requirements** means safety requirements prescribed in regulations for a notifiable product
+  - **prohibited flavour** means a flavour or a class of flavour listed in Part 2 of Schedule 2
+  - **prohibited substance** means a substance declared under section 70 to be unsafe for use in a notifiable product
   - **public service** —
     (a) means any of the following public service agencies:
       (i) a department:
@@ -121,6 +147,9 @@ _Consolidation as at 2022-07-01_
       (iii) the use of the company name of a regulated product manufacturer in any advertisement or promotion to the public where the company name or any part of it is used as, or is included in, a regulated product trade mark,—
   - **regulations** means regulations made under this Act
   - **residential disability care institution** has the meaning given to that term by section 58(4) of the Health and Disability Services (Safety) Act 2001
+  - **responsible person** , in relation to an entity, means—
+    (a) a director, partner, or trustee of the entity; or
+    (b) if the entity does not have directors, partners, or trustees, a person who acts in relation to the entity in the same or a similar way as a director, partner, or trustee would were the entity a company, partnership, or trust
   - **rest home** has the meaning given to it by section 58(4) of the Health and Disability Services (Safety) Act 2001
   - **restaurant** means any premises, or any part of any premises, where the principal business is the selling of meals or refreshments to the general public for consumption on the premises, whether or not liquor is or may be sold on those premises or that part of those premises; and includes any room or area on a ship or train where meals or refreshments are provided for passengers to consume
   - **retailer** means a person engaged in any business that includes the sale of regulated products at retail
@@ -131,9 +160,10 @@ _Consolidation as at 2022-07-01_
       (ii) cultural or sporting activities (or both) involving, or undertaken for the benefit of, the young people attending the school
   - **ship** has the meaning given to it by section 2(1) of the Ship Registration Act 1992
   - **ship on demise charter to a New Zealand-based operator** has the meaning given to it by section 4 of the Ship Registration Act 1992
+  - **smoked tobacco product** means a tobacco product that is intended to be used in a way that involves ignition or the combustion process
   - **smokeless tobacco product** means a tobacco product that is intended to be used in a way that does not involve ignition or the combustion process
   - **smoking accessory** means any article or substance that is used in conjunction with smoking, including cigarette papers, pipe cleaners, cigarette lighters, lighter fuel, and ashtrays; and includes the packaging, carton, wrapping, or other container in which smoking accessories are customarily sold at retail
-  - **specialist vape retailer** means a person who is approved by the Director-General as a specialist vape retailer under section 14A
+  - **specialist vape retailer** means a person who is approved by the Director-General as a specialist vape retailer under section 20P
   - **suitably qualified health worker** means—
     (a) a registered health practitioner; or
     (b) a person who—
@@ -228,19 +258,51 @@ _Consolidation as at 2022-07-01_
 This Act shall bind the Crown.
 
 ### 3A Purposes of this Act
-(1) The purposes of this Act are, in general, as follows:
-  (a) to reduce the exposure of people who do not themselves smoke to any detrimental effect on their health caused by smoking by others; and
-  (b) to prevent the normalisation of vaping; and
-  (c) to regulate and control the marketing, advertising, and promotion of regulated products (whether directly, including through the appearance of regulated products and packages, or through the sponsoring of other products, services, or events) in order to improve public health by—
-    (i) discouraging people, especially children and young people, from taking up smoking; and
-    (ii) discouraging non-smokers, especially children and young people, from taking up vaping or using smokeless tobacco products; and
-    (iii) encouraging people to stop smoking, vaping, or otherwise using regulated products; and
-    (iv) discouraging people who have stopped smoking, vaping, or otherwise using regulated products from resuming smoking, vaping, or using regulated products; and
-  (d) to support smokers to switch to regulated products that are significantly less harmful than smoking; and
-  (e) to regulate the safety of vaping products and smokeless tobacco products; and
-  (f) to monitor and regulate the presence of harmful constituents found in regulated products and their emissions; and
-  (g) to give effect to certain obligations and commitments that New Zealand has as a party to the WHO Framework Convention on Tobacco Control, done at Geneva on 21 May 2003.
-(2) Subsection (1) does not limit or affect the particular purposes of Parts 1, 1A, 2, 3, and 4.
+(1) The purposes of this Act are—
+  (a) to provide for the regulation of smoked tobacco products—
+    (i) to reduce disparities in smoking rates and smoking-related illnesses between New Zealand population groups and, in particular, between Māori and other groups; and
+    (ii) to prevent the harmful effect of other people’s smoking on the health of others, and especially on young people and children; and
+    (iii) to significantly reduce the retail availability of smoked tobacco products; and
+    (iv) to prevent young people, and successive generations, from ever taking up smoking; and
+    (v) to reduce the appeal and addictiveness of smoked tobacco products; and
+    (vi) to restrict all forms of advertising and promotion; and
+  (b) to provide for the regulation of notifiable products in a way that seeks to minimise harm, especially harm to young people and children; and
+  (c) to give effect to certain obligations and commitments that New Zealand has as a party to the WHO Framework Convention on Tobacco Control, done at Geneva on 21 May 2003.
+(2)
+
+### 3AA Guide to this Act
+(1) Part 1 prohibits smoking and vaping in workplaces, certain public enclosed areas, registered schools, and early childhood education and care centres.
+(2) Part 1A prohibits smoking and vaping in vehicles carrying children.
+(3) Part 1B regulates entry into the smoked tobacco and vaping products markets.
+(4) Part 2 regulates and controls the advertising, promotion, sale, and distribution of regulated products.
+(5) Part 3 regulates the packaging and labelling of regulated products.
+(6) Part 3A provides for—
+  (a) the approval of smoked tobacco products; and
+  (b) the regulation of constituents of smoked tobacco products.
+(7) Part 4 regulates the safety of notifiable products.
+(8) Part 5—
+  (a) empowers the making of secondary legislation; and
+  (b) contains provisions relating to—
+    (i) the enforcement of this Act; and
+    (ii) reporting requirements relating to regulated products; and
+    (iii) appeals against product approval and notification decisions.
+(9) This section is intended as a guide only.
+
+### 3AB Te Tiriti o Waitangi (the Treaty of Waitangi)
+In order to provide for the Crown’s intention to give effect to the principles of te Tiriti o Waitangi (the Treaty of Waitangi), this Act—
+  (a) requires the Director-General, before determining an application process for the approval of smoked tobacco retailers, to consult—
+    (i) the Māori Health Authority; and
+    (ii) each iwi-Māori partnership board; and
+    (iii) any iwi or other Māori who the Director-General considers have an interest in the application process; and
+  (b) requires the Director-General, before determining the maximum number of approved smoked tobacco retailers and the area to which that number applies, to consult—
+    (i) the Māori Health Authority; and
+    (ii) any iwi-Māori partnership board for all or part of the proposed area; and
+    (iii) any iwi whose rohe includes all or part of the proposed area; and
+    (iv) any other Māori who the Director-General considers will be affected; and
+  (c) requires the Director-General to—
+    (i) have systems in place for the purposes of carrying out the consultation referred to in paragraphs (a) and (b); and
+    (ii) consult the Māori Health Authority before determining the iwi or other Māori to consult; and
+  (d) requires the Minister, before preparing regulations relating to requirements for smoked tobacco products, to consider the risks and benefits to Māori of regulating a constituent (including both users and non-users of smoked tobacco products).
 
 ### 3B Transitional, savings, and related provisions
 The transitional, savings, and related provisions set out in Schedule 1 have effect according to their terms.
@@ -248,11 +310,7 @@ The transitional, savings, and related provisions set out in Schedule 1 have eff
 ## Part 1 — Smoking and vaping prohibited in workplaces and public areas
 
 ### 4 Purposes of this Part
-The purposes of this Part are—
-  (a) to prevent the detrimental effect of other people's smoking on the health of people in workplaces, or in certain public enclosed areas, who do not smoke or do not wish to smoke there; and
-  (aa) to prevent the normalisation of vaping; and
-  (b) to prevent young people who are being taught or cared for in registered schools or early childhood education and care centres from being influenced by seeing other people smoke or vape there; and
-  (c) to prevent the detrimental effect of other people's smoking on the health of young people who are being taught or cared for in registered schools or early childhood education and care centres.
+[Repealed]
 
 ### 5 Smoking and vaping in workplaces prohibited
 (1) An employer must take all reasonably practicable steps to ensure that no person smokes or vapes at any time in a workplace that is not—
@@ -274,7 +332,7 @@ The purposes of this Part are—
 
 ### 6 Dedicated rooms in hospital care institutions, residential disability care institutions, and rest homes
 (1) An employer may permit smoking or vaping by patients or residents of a workplace that is, or is part of, a hospital care institution, a residential disability care institution, or a rest home if—
-  (a) the smoking or vaping takes place only in 1 or more dedicated rooms for smoking or vaping; and
+  (a) the smoking takes place only in 1 or more dedicated rooms for smoking; and
   (aa) the vaping takes place only in 1 or more dedicated rooms for vaping; and
   (b) each dedicated room is equipped with or connected to a mechanical ventilation system to which subsection (2) applies; and
   (c) the employer has taken all reasonably practicable steps to minimise the escape of emissions from the dedicated smoking or vaping rooms into any part of the workplace that is not a dedicated room; and
@@ -367,7 +425,7 @@ This Act applies to a ship if, and only if, it is—
 (3) No person may smoke or vape at any time in any part of a place in respect of which a class 4 gambling venue licence is held that is not an open area.
 
 ### 14 Specialist vape retailers and vaping in approved vaping premises exempt
-(1) This Part does not apply to—
+(1) Section 5 does not apply to—
   (a) a person who vapes in any approved vaping premises of a specialist vape retailer; and
   (b) the specialist vape retailer who allows the person to vape in those premises.
 (2) A specialist vape retailer must take all practicable steps to prevent a person under the age of 18 years from entering the retailer’s approved vaping premises.
@@ -377,25 +435,7 @@ This Act applies to a ship if, and only if, it is—
 (4) In subsection (1), to vape means to inhale using a vaping device only.
 
 ### 14A Application for approval as specialist vape retailer
-(1) A person who sells vaping products from retail premises may apply to the Director-General for approval to be a specialist vape retailer in relation to specified retail premises and, if applicable, specified Internet sites.
-(2) The Director-General must not give a person approval to be a specialist vape retailer unless satisfied that—
-  (a) the retail premises in which the vaping products are or will be sold are a fixed permanent structure; and
-  (b) at least—
-    (i) 70% of the person’s total sales from the retail premises are or will be from the sale of vaping products; or
-    (ii) 60% of the person’s total sales from the retail premises are or will be from the sale of vaping products and the Director-General is satisfied that the lower threshold is appropriate in the circumstances; and
-  (c) any requirements in regulations have been met.
-(3) It is a condition of an approval that the criteria in subsection (2)﻿(a) and (c) continue to be complied with.
-(4) In determining whether the lower threshold is appropriate in the circumstances, the Director-General must, in accordance with regulations (if any), have regard to—
-  (a) the geographic location of the retail premises; and
-  (b) the population in relation to which the retailer carries out their business; and
-  (c) any prescribed criteria.
-(5) It is a condition of an approval that the sales threshold be maintained or, if it was not attained when approval was given, that it be maintained on and from a date specified in the approval.
-(6) The Director-General may, in accordance with regulations, impose any other conditions on the approval.
-(7) The Director-General may suspend an approval if the Director-General has reasonable grounds to suspect that any condition of the approval is not being complied with.
-(8) The Director-General may cancel an approval if the Director-General is satisfied that any condition of the approval is not being complied with.
-(9) A person who provides false or misleading information in an application for approval to be a specialist vape retailer commits an offence and is liable to a fine not exceeding $10,000.
-(10) In making an assessment under subsection (2)﻿(b), the Director-General may take into account the person’s total sales from the retail premises for the previous 12 months (if any) and any other information that the Director-General considers relevant.
-(11) In this section, sales threshold means at least 70%, or if subsection (2)﻿(b)﻿(ii) applies, 60% of the person’s total sales from the retail premises are from the sale of vaping products.
+[Repealed]
 
 ### 15 Complaints relating to smoking or vaping in workplace
 (1) Where any person believes on reasonable grounds that any person has contravened any provision of this Part in so far as it relates to any workplace, the person may complain to the employer of that workplace, or to the Director-General, specifying the particulars of the complaint.
@@ -413,7 +453,7 @@ This Act applies to a ship if, and only if, it is—
     (ii) the person who is the subject of the complaint is the employer for that workplace, or an employee or volunteer of that employer; and
     (iii) the complaint was not referred to the Director-General by the employer under subsection (6) of section 15,—
   (b) in all other cases, the matter shall be dealt with as though it were a complaint to which subsection (3) applied.
-(3) On receipt by the Director-General of a complaint under this Part, a person appointed under section 14 may make further inquiries by way of investigation in respect of the complaint.
+(3) On receipt by the Director-General of a complaint under this Part, a person appointed under section 91 may make further inquiries by way of investigation in respect of the complaint.
 (4) The person who investigates the complaint may take no further action if the complaint is trivial, frivolous, vexatious, or not made in good faith, or if, during the investigation, the person receives a satisfactory assurance that there will be no repetition of the cause for the complaint; and in any such case the person who made the complaint shall be advised of the reasons why no further action is being taken.
 (5) The person investigating the complaint may, on investigation, try to settle the cause of the complaint and obtain a satisfactory assurance against repetition of the cause of the complaint.
 (6) Where no such settlement and assurance can be obtained, or if the cause of complaint is in breach of a previously given assurance, a charging document may be filed under section 14 of the Criminal Procedure Act 2011 in respect of the relevant offence.
@@ -445,8 +485,7 @@ This Act applies to a ship if, and only if, it is—
 (4)
 
 ### 18 Prosecution of offences
-(1) Every prosecution for an offence against this Part must be commenced by a person appointed under section 91.
-(2) Despite anything to the contrary in section 25 of the Criminal Procedure Act 2011, the limitation period in respect of an offence against this Part ends on the date that is 12 months after the date on which the offence was committed.
+[Repealed]
 
 ### 19 Protection of persons acting under authority of Act
 [Repealed]
@@ -462,7 +501,7 @@ Nothing in this Part, and no steps taken in compliance or purported compliance w
 ## Part 1A — Smoke-free motor vehicles carrying child occupants
 
 ### 20B Purpose of this Part
-The purpose of this Part is to limit children’s exposure to second-hand smoke and other emissions by prohibiting smoking or vaping when they are in motor vehicles.
+[Repealed]
 
 ### 20C Interpretation for this Part
 In this Part, unless the context otherwise requires,—
@@ -518,26 +557,171 @@ A person commits an offence, and is liable on conviction to a fine not exceeding
   (b) intentionally fails to comply with a requirement under section 20E; or
   (c) when required under section 20E(1)﻿(d) or (2)﻿(d) to give information, gives information the person knows to be false or misleading.
 
+## Part 1B — Regulation of entry into smoked tobacco and vaping products markets
+
+### Subpart 1 — Approval as smoked tobacco retailer
+
+### 20G Sale of smoked tobacco products other than by approved smoked tobacco retailer prohibited
+(1) A person must not sell or offer for sale a smoked tobacco product unless the person is an approved smoked tobacco retailer.
+(2) Subsection (1) does not apply to a person who sells or offers for sale a smoked tobacco product—
+  (a) for export; or
+  (b) to an approved smoked tobacco retailer; or
+  (c) to a distributor of smoked tobacco products who has complied with section 20S.
+(3) A person who, without reasonable excuse, contravenes subsection (1) commits an offence and is liable on conviction to a fine not exceeding $400,000.
+
+### 20H Application for approval as smoked tobacco retailer
+(1) A person may apply to the Director-General, in accordance with the application process determined under section 20L, to be an approved smoked tobacco retailer in relation to—
+  (a) specified retail premises; and
+  (b) if applicable, a specified Internet site that is or will be operated together with the specified retail premises.
+(2) A person who, without reasonable excuse, provides false or misleading information in an application for approval to be an approved smoked tobacco retailer commits an offence and is liable on conviction to a fine not exceeding $10,000.
+
+### 20I Grant of approval as smoked tobacco retailer
+(1) The Director-General must not give a person approval to be an approved smoked tobacco retailer unless satisfied that,—
+  (a) for an individual, the applicant is—
+    (i) a fit and proper person; and
+    (ii) a New Zealand resident; and
+  (b) for an entity,—
+    (i) each responsible person is a fit and proper person; and
+    (ii) the applicant is—
+      (A) carrying on business in New Zealand; or
+      (B) incorporated or registered under New Zealand law; and
+  (c) any retail premises in which the products are or will be sold are—
+    (i) a fixed permanent structure; and
+    (ii) appropriate premises from which to operate; and
+  (d) for a specified Internet site,—
+    (i) the Internet site is or will be operated together with the specified retail premises for which approval is sought; and
+    (ii) there is no reasonable access to retail premises in which smoked tobacco products are or will be sold—
+      (A) in an identifiable geographic area; or
+      (B) by an identifiable part of the population who smoke the products; and
+  (e) the applicant’s security, training, sales, delivery, and other business systems meet any requirements in regulations; and
+  (f) any other requirements in regulations have been met.
+(2) Despite subsection (1)﻿(d), the Director-General may decline to give any person or class of person approval to be an approved smoked tobacco retailer for a specified Internet site if the Director-General is satisfied that giving the approval would be inconsistent with the purpose set out in section 3A(a)﻿(iii).
+(3) When considering a matter in subsection (1)﻿(a)﻿(i) or (b)﻿(i), the Director-General must have regard to any criteria or requirements specified in regulations.
+(4) It is a condition of an approval that the criteria in subsection (1)﻿(a) to (f) continue to be complied with.
+(5) It is a condition of an approval in respect of a specified Internet site that the holder must not sell or offer for sale at retail smoked tobacco products—
+  (a) at a URL other than the approved URL; and
+  (b) outside the approved geographic area (if any).
+(6) The Director-General may, in accordance with regulations, impose any other conditions on an approval, or on a class of approval, including the expiry date of the approval.
+(7) An approval expires on the date specified in the approval unless it is earlier cancelled.
+(8) An approval is not transferable.
+
+### 20J Director-General may suspend approval
+(1) The Director-General may suspend an approval granted under section 20I for 1 month if the Director-General has reasonable grounds to believe that—
+  (a) any condition of the approval is not being complied with; or
+  (b) an applicable requirement under this Act or regulations is not being complied with.
+(2) Before suspending an approval, the Director-General must give the holder of the approval a reasonable opportunity to be heard.
+(3) The Director-General may extend the period of suspension—
+  (a) for a further month:
+  (b) more than once.
+(4) The Director-General must tell the holder of the approval in writing of the suspension and give reasons.
+(5) Before the period of suspension ends, the Director-General must—
+  (a) decide whether to cancel or reinstate the approval; and
+  (b) tell the holder of the approval in writing of the decision and give reasons.
+(6) A cancellation or reinstatement takes effect immediately after the end of the period of suspension.
+(7) A person whose approval is suspended must not sell a smoked tobacco product during the period of suspension.
+(8) A person who, without reasonable excuse, contravenes subsection (7) commits an offence and is liable on conviction to a fine not exceeding $400,000.
+
+### 20K Director-General may cancel approval
+(1) The Director-General may cancel an approval without any prior suspension if the Director-General is satisfied that 1 or more of the following are not being complied with:
+  (a) a condition of the approval:
+  (b) a requirement in this Act or regulations.
+(2) Before cancelling an approval without prior suspension, the Director-General must give the holder of the approval a reasonable opportunity to be heard.
+(3) The Director-General must tell the holder of the approval in writing of the cancellation and give reasons.
+
+### 20L Director-General to determine and publish application process
+(1) The Director-General must determine an application process for the approval of smoked tobacco retailers that—
+  (a) ensures that any maximum number of approved smoked tobacco retail premises declared for the relevant area under section 20M is not exceeded; and
+  (b) includes a system for ranking applications, including relative weighting of criteria; and
+  (c) meets any requirements set out in regulations.
+(2) Before determining the application process, the Director-General—
+  (a) may consult any person whom the Director-General considers appropriate; and
+  (b) must consult Māori in accordance with section 20N.
+(3) The Director-General must set out the application process in writing and publish it on an Internet site maintained by, or on behalf of, the Ministry.
+(4) The published application process must include—
+  (a) any additional assessment criteria set out in regulations; and
+  (b) a description of the system for ranking applications determined by the Director-General.
+
+### 20M Director-General must set maximum numbers of approved smoked tobacco retail premises
+(1) The Director-General must, by written notice, determine the maximum number of approved smoked tobacco retail premises permitted in 1 or more areas described in the notice (which may include all of New Zealand).
+(2) The maximum number of approved smoked tobacco retail premises in New Zealand must not exceed 600.
+(3) The maximum number for each area may be a single current maximum or a series of reducing maximum numbers over time.
+(4) Before determining the maximum number and the area to which that number applies, the Director-General—
+  (a) may consult any person whom the Director-General considers appropriate; and
+  (b) must consult Māori in accordance with section 20N.
+(5) In determining the maximum number and the area to which that number applies, the Director-General must take into account—
+  (a) the population size in the area and the estimated number of people in the area who smoke; and
+  (b) the geographic nature of the area, including the estimated average travel time required to purchase smoked tobacco products; and
+  (c) the views of those consulted under subsection (4).
+(6) The Director-General may amend or replace a notice made under this section in accordance with subsections (1) to (5).
+(7) A notice made under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+
+### 20N Consultation with Māori
+(1) For the purposes of section 20L(2), the Director-General must consult—
+  (a) the Māori Health Authority; and
+  (b) each iwi-Māori partnership board; and
+  (c) any iwi or other Māori who the Director-General considers have an interest in the application process.
+(2) For the purposes of section 20M(4), the Director-General must consult—
+  (a) the Māori Health Authority; and
+  (b) any iwi-Māori partnership board for all or part of a proposed area; and
+  (c) any iwi whose rohe includes all or part of a proposed area; and
+  (d) any other Māori who the Director-General considers will be affected.
+(3) The Director-General must consult the Māori Health Authority before determining whom to consult for the purposes of subsections (1)﻿(c) and (2)﻿(c) and (d).
+(4) The Director-General must have systems in place for the purposes of—
+  (a) carrying out the consultation under subsections (1) and (2); and
+  (b) enabling that consultation to inform the Director-General’s decisions under sections 20L(1) and 20M(1).
+
+### 20O Director-General to ensure maximum numbers of approved smoked tobacco retail premises not exceeded
+The Director-General must ensure, when granting a person approval to be an approved smoked tobacco retailer, that any maximum number of approved smoked tobacco retail premises determined for the relevant area under section 20M is not exceeded.
+
+### Subpart 2 — Approval as specialist vape retailer
+
+### 20P Application for approval as specialist vape retailer
+(1) A person who sells vaping products from retail premises may apply to the Director-General for approval to be a specialist vape retailer in relation to specified retail premises and, if applicable, specified Internet sites.
+(2) The Director-General must not give a person approval to be a specialist vape retailer unless satisfied that—
+  (a) the retail premises in which the vaping products are or will be sold are—
+    (i) a fixed permanent structure; and
+    (ii) appropriate premises from which to operate; and
+  (b) at least—
+    (i) 70% of the total sales from the retail premises are or will be from the sale of vaping products; or
+    (ii) 60% of the total sales from the retail premises are or will be from the sale of vaping products and the Director-General is satisfied that the lower threshold is appropriate in the circumstances; and
+  (c) any requirements in regulations have been met.
+(3) In determining whether the lower threshold is appropriate in the circumstances, the Director-General must, in accordance with regulations (if any), have regard to—
+  (a) the geographic location of the retail premises; and
+  (b) the population in relation to which the retailer carries out their business; and
+  (c) any criteria prescribed in regulations.
+(4) In making an assessment under subsection (2)﻿(b), the Director-General may take into account the total sales from the retail premises for the previous 12 months (if any) and any other information that the Director-General considers relevant.
+(5) A person who, without reasonable excuse, provides false or misleading information in an application for approval to be a specialist vape retailer commits an offence and is liable on conviction to a fine not exceeding $10,000.
+
+### 20Q Conditions of approval granted under section 20P
+(1) It is a condition of an approval granted under section 20P that—
+  (a) the criteria in section 20P(2)﻿(a) to (c) and the requirements in section 14(2) continue to be complied with; and
+  (b) the sales threshold be maintained or, if it was not attained when approval was given, that it be maintained on and from a date specified in the approval.
+(2) The Director-General may, in accordance with regulations, impose any other conditions on the approval.
+(3) The Director-General may suspend an approval if the Director-General has reasonable grounds to believe that any condition of the approval is not being complied with.
+(4) The Director-General may cancel an approval if the Director-General is satisfied that any condition of the approval is not being complied with.
+(5) In this section, sales threshold means at least 70% or, if section 20P(2)﻿(b)﻿(ii) applies, 60% of total sales from the retail premises are from the sale of vaping products.
+
+### Subpart 3 — Notification obligations
+
+### 20R Obligation of person selling notifiable products
+(1) A person who sells notifiable products in New Zealand must notify the Director-General that they are selling the products.
+(2) A person who sells notifiable products in New Zealand must renew their notification each year before the anniversary of their previous notification.
+(3) A notification (including a renewal of a notification) must be made on the database in accordance with requirements in regulations.
+(4) A person who, without reasonable excuse, fails to notify the Director-General that they are selling a notifiable product or fails to renew a notification commits an offence and is liable to a fine not exceeding $5,000.
+
+### 20S Obligation of distributor in respect of smoked tobacco products
+(1) A distributor of smoked tobacco products in New Zealand must notify the Director-General that they are distributing the products.
+(2) A distributor of smoked tobacco products in New Zealand must renew their notification each year before the anniversary of their previous notification.
+(3) A notification (including a renewal of a notification) must be made on the database in accordance with requirements in regulations.
+(4) A distributor of smoked tobacco products in New Zealand who, without reasonable excuse, fails to notify the Director-General that they are distributing a smoked tobacco product or fails to renew a notification commits an offence and is liable to a fine not exceeding $5,000.
+
 ## Part 2 — Restrictions on advertising, promotion, sale, and distribution of regulated products
 
 ### 21 Outline of this Part
-(1) Subpart 1 contains restrictions on the advertising of regulated products and related communications.
-(2) Subpart 2 contains restrictions on sponsorship and related activities involving the use of a regulated product trade mark or a related company name.
-(3) Subpart 3 contains prohibitions relating to the supply and distribution of regulated products.
-(4) Subpart 4 contains prohibitions relating to inducements and rewards involving regulated products.
-(5) Subpart 5 restricts the visibility of a regulated product from the place from which it is sold.
-(6) Subpart 6 contains requirements relating to point-of-sale health information or warnings.
-(7) Subpart 7 prohibits the sale, delivery, and supply of regulated products and toy regulated products to people younger than 18 years.
-(8) Subpart 8 contains provisions relating to the sale of regulated products by way of automatic vending machines.
+[Repealed]
 
 ### 22 Purposes of this Part
-(1) The purposes of this Part are—
-  (a) to reduce the social approval of smoking, particularly among children and young people; and
-  (b) to discourage non-smokers, particularly children and young people, from vaping and using tobacco products.
-(2) To achieve those purposes, this Part—
-  (a) imposes controls on the marketing, advertising, and promotion of regulated products and their association through sponsorship with other products and events; and
-  (b) requires health messages and other information to be displayed on automatic vending machines; and
-  (c) prohibits the sale of regulated products and toy regulated products to people younger than 18 years.
+[Repealed]
 
 ### Subpart 1 — Restrictions on advertising of regulated products and related communications
 
@@ -579,7 +763,7 @@ Section 23 does not apply to—
     (ii) the regulated product advertisement included in that film, video recording, or sound recording is in the form of a reference to, or a depiction of, a tobacco product trade mark that is only an incidental part of that film, video recording, or sound recording:
   (f) a public health message issued by the Director-General for the purposes of this Act or any of its Parts that is published by a public service or an individual or organisation that is funded (whether wholly or partly and whether directly or indirectly) by a public service:
   (g) the following activities:
-    (i) the display, in accordance with any regulations, of vaping products within any retail premises or on any Internet site of a retailer; and
+    (i) the display, in accordance with any regulations, of vaping products that are available for sale within the retail premises or on the Internet site of the retailer; and
     (ii) if regulations made under section 81(1)﻿(5)﻿(ii) are in force and apply to the retailer, a retailer providing within their retail premises or on their Internet site information (in any medium) relating to vaping products in accordance with regulations; and
     (iii) until regulations made under section 81(1)﻿(5)﻿(ii) are in force, a retailer providing within their retail premises or on their Internet site information about vaping being a less harmful alternative to smoking:
   (h) any advice or message given by a suitably qualified health worker to an individual or to groups for the purpose of supporting them to switch from smoking to vaping:
@@ -602,11 +786,8 @@ Retailer exemption
   (b) display inside that retailer’s place of business any notice for the public that—
     (i) does no more than indicate, using only printed or written words, the fact that regulated products in general are available for purchase in that place and the location or locations where they may be purchased; and
     (ii) complies with any requirements in regulations:
-  (c) display the retailer’s name or trade name at the outside of the retailer’s place of business so long as the name is not and does not include—
-    (i) any word or expression signifying that a regulated product is available for purchase in that place; or
-    (ii) the trade mark of a regulated product; or
-    (iii) the company name of a manufacturer or an importer of regulated products.
-(2) Subsection (1)﻿(c)﻿(i) does not apply to a specialist vape retailer whose name or trade name includes the word vape, vaping, or any name derived from the word vape.
+  (c) display the retailer’s name or trade name at the outside of the retailer’s place of business or on their Internet site so long as the name is not and does not include a reserved name.
+(2)
 Vending machine exemption
 (3) A person who offers regulated products for sale (whether by retail or wholesale) by way of an automatic vending machine may display, on the outside of the vending machine, any notice for the public that—
   (a) does no more than—
@@ -619,6 +800,17 @@ Internet-seller exemption
   (b) does no more than identify the regulated product and indicate its price; and
   (c) complies with any requirements in regulations.
 (5) Subsections (1)﻿(a) and (b) and (4) do not limit the exemption in section 24(g) relating to the display of, and provision of information relating to, vaping products.
+(6) In this section, reserved name means,—
+  (a) in respect of a name displayed on the outside of a specialist vape retailer’s approved vaping premises or on their approved Internet site, a name that includes—
+    (i) any word or expression signifying that a regulated product other than a vaping product is available for purchase in that place; or
+    (ii) the trade mark of a regulated product, other than a trade mark registered by the specialist vape retailer relating to—
+      (A) a vaping product manufactured by the specialist vape retailer; or
+      (B) the specialist vape retailer’s retail vaping business; or
+    (iii) the company name of a manufacturer or an importer of regulated products, unless it is also the company name of the specialist vape retailer; and
+  (b) in respect of a name that is displayed on the outside of the place of business or the approved Internet site of any other retailer of regulated products, a name that includes—
+    (i) any word or expression signifying that a regulated product is available for purchase in that place; or
+    (ii) the trade mark of a regulated product; or
+    (iii) the company name of a manufacturer or an importer of regulated products.
 
 ### 26 Liability of employees, employers, agents, and principals
 For the purposes of this Act, every person is deemed to publish a regulated product advertisement whether the person does so on the person’s own account or as the agent or employee of any other person.
@@ -727,7 +919,7 @@ In this subpart, unless the context otherwise requires,—
 (3) For the purposes of this section, a regulated product is distributed or supplied at a reduced charge if—
   (a) the charge for the product itself is reduced; or
   (b) the charge for distribution or supply of the product is not reduced or purports not to be reduced, but some other item is supplied free of charge or at a reduced charge, together with the product.
-(4) Subsections (1)﻿(a) and (2) do not apply to the distribution of vaping products by a specialist vape retailer from their approved vaping premises or approved Internet site.
+(4) Subsection (2) does not apply to the supply of vaping products by a specialist vape retailer from their approved vaping premises or approved Internet site.
 (5) Subsections (1) and (2) do not apply in relation to vaping products that are distributed or supplied free of charge or at a reduced charge as part of a smoking cessation programme.
 (6) A person who, without reasonable excuse, distributes or supplies any regulated product in contravention of subsection (1) or (2) commits an offence and is liable,—
   (a) in the case of a manufacturer, an importer, or a distributor,—
@@ -826,12 +1018,13 @@ In this subpart, unless the context otherwise requires,—
   (a) the contravention occurred without the person’s knowledge; and
   (b) the person took reasonable precautions and exercised due diligence to prevent the contravention.
 (4) A person charged with contravening subsection (1)﻿(a) satisfies the requirements of subsection (3)﻿(a) and (b) if the person proves that they have sighted an evidence of age document of the person to whom the product was sold that indicated that the person was of or over the age of 18 years.
+(4A) A person charged with contravening subsection (1)﻿(a) does not satisfy the requirements of subsection (3)﻿(a) and (b) if the person relies solely on a statement (given orally or in written form) from the person to whom the product was sold that indicated that the person was of or over the age of 18 years.
 (5) Subsection (4) does not affect the generality of subsection (3).
 (6) It is not a defence to a charge under subsection (2)—
   (a) that the person to whom the product was sold was buying it for or on behalf of, or as agent for, a person of or over the age of 18 years; or
   (b) that the person charged believed on reasonable grounds that the person to whom the product was sold was buying it for or on behalf of, or as agent for, a person of or over the age of 18 years.
-(7) Anything done by a person (A) as the employee of another person (B) is, for the purposes of an offence against subsection (2), to be treated as done by B as well as by A, whether or not it was done with B’s knowledge or approval.
-(8) Anything done by a person (A) as the agent of another person (B) is, for the purposes of an offence against subsection (2), to be treated as done by B as well as by A, unless it is done without B's express or implied authority, precedent or subsequent.
+(7)
+(8)
 
 ### 41 Supplying regulated product to people younger than 18 years prohibited
 (1) A person must not, in a public place,—
@@ -906,15 +1099,18 @@ In this subpart, unless the context otherwise requires,—
 (3) A person who, without reasonable excuse, contravenes subsection (1) commits an offence and is liable to a fine not exceeding $10,000.
 (4) Subsection (1) does not apply to a regulated product or package that is visible in a way that complies with any relevant temporary transitional exemption regulations in force under section 81(1)﻿(14).
 
-### 47 Automatic vending machines must not be located where public have access
+### 47 Automatic vending machines must not be located in public place
 (1) A person must not—
-  (a) permit an automatic vending machine that dispenses or is capable of dispensing regulated products to be located in a place to which members of the public have access; or
-  (b) permit a regulated product to be sold by way of an automatic vending machine in a place to which members of the public have access.
+  (a) permit an automatic vending machine that dispenses or is capable of dispensing regulated products to be located in a public place; or
+  (b) permit a regulated product to be sold by way of an automatic vending machine in a public place.
 (2) Subsection (1) does not apply to an automatic vending machine if—
   (a) no individual sale can occur unless the machine is activated by the person who would otherwise be in breach of that subsection (or an employee or agent of that person); and
-  (b) the device used to activate the machine is permanently located in a place from which any person using it can see the person to whom the sale is to be made.
-(3) For the purposes of this Act, a person who activates an automatic vending machine so that the sale of a regulated product to another person occurs is a party to the sale of that product to the other person.
+  (b) the device used to activate the machine is permanently located—
+    (i) in a place that provides the person using it with a direct line of sight to the person to whom the sale is to be made; and
+    (ii) close to the machine.
+(3) For the purposes of this Act, a person who activates an automatic vending machine so that the sale of a regulated product to another person occurs is a party to that sale.
 (4) A person who, without reasonable excuse, contravenes subsection (1)﻿(a) or (b) commits an offence and is liable to a fine not exceeding $2,000.
+(5) In this section, public place has the same meaning as in section 2(1) of the Summary Offences Act 1981.
 
 ### 48 Automatic vending machines must display health messages required by or under this Act
 (1) A person who sells a regulated product from an automatic vending machine that can be seen from a place to which members of the public have access—
@@ -1096,21 +1292,10 @@ In this subpart, unless the context otherwise requires,—
 ### 41F Enforcement
 [Repealed]
 
-## Part 3 — Packaging, labelling, and constituents of regulated products
+## Part 3 — Packaging and labelling of regulated products
 
 ### 49 Purposes of this Part
-The purposes of this Part are—
-  (a) to reduce the social approval of smoking, particularly among children and young people:
-  (b) to reduce the appeal of vaping and the use of heated tobacco products for non-smokers, particularly children and young people:
-  (c) to require the standardised appearance of regulated products and their packages (including messages and information) in order to—
-    (i) reduce the appeal of smoking, particularly for young people; and
-    (ii) further reduce any social and cultural acceptance and approval of smoking; and
-    (iii) reduce the appeal of vaping and use of heated tobacco products for non-smokers, particularly for children and young people; and
-    (iv) make warning messages and images more noticeable and effective; and
-    (v) reduce the likelihood of consumers acquiring false perceptions about the harmful effects of smoked tobacco products, vaping products, and smokeless tobacco products:
-  (d) to discourage non-smokers, particularly children and young people, from vaping and using heated tobacco products:
-  (e) to reduce some of the harmful effects of tobacco products on the health of users by monitoring and regulating the presence of harmful substances in the products and in tobacco emissions:
-  (f) to facilitate the harmonisation of the laws of New Zealand and Australia relating to the labelling of smoked tobacco products (including, without limitation, requirements relating to the display of health messages).
+[Repealed]
 
 ### Subpart 1 — Packaging and labelling requirements
 
@@ -1151,7 +1336,7 @@ The purposes of this Part are—
   (a) a message relating to—
     (i) the harmful health, social, cultural, or economic effects, or other harmful effects, of using the regulated product:
     (ii) the beneficial effects of stopping the use of the product or of not using the regulated product:
-  (b) if the product is intended for smoking, a list of the harmful constituents, and their respective quantities, present in its emissions:
+  (b) for a smoked tobacco product, the constituents required by regulations to be listed, and their respective quantities, that are present in the product or its emissions:
   (c) whether as part of or in addition to any message about effects, a photograph or picture relating to—
     (i) the harmful health, social, cultural, or economic effects, or other harmful effects, of using the regulated product:
     (ii) the beneficial effects of stopping the use of the product or of not using the regulated product.
@@ -1160,9 +1345,9 @@ The purposes of this Part are—
     (i) the harmful health, social, cultural, or economic effects, or other harmful effects, of using the product:
     (ii) the beneficial effects of stopping the use of the product or of not using the product; and
   (b) if the regulated product is intended for smoking, as much of the following information (stated, as regulations may require, by reference to the class of regulated product to which the product belongs, or to the product's brand as a regulated product of any class or variant of a brand of a regulated product of any class) as regulations require:
-    (i) a list of the harmful constituents, and their respective quantities, present in the product:
+    (i) a list of the constituents, and their respective quantities, present in the product:
     (ii) a list of the additives, and their respective quantities, present in the product:
-    (iii) a list of the harmful constituents, and their respective quantities, present in the product’s emissions.
+    (iii) a list of the constituents, and their respective quantities, present in the product’s emissions.
 
 ### 53 Restrictions on sale of certain regulated products in small quantities
 (1) A manufacturer, importer, distributor, or retailer must not sell or offer for sale—
@@ -1180,7 +1365,7 @@ The purposes of this Part are—
 ### 54 Restrictions on advertising, labelling, and sale of oral use products
 (1) A person must not publish a regulated product advertisement that directly or indirectly states or suggests that a regulated product is suitable for chewing or for any other oral use.
 (2) A person must not import for sale, sell, pack, or distribute any regulated product labelled or otherwise described as suitable for chewing, or for any other oral use.
-(3) A person must not import for sale, sell, pack, or distribute any oral nicotine product unless the Minister of Health has given consent or provisional consent to the distribution of the product under the Medicines Act 1981.
+(3) A person must not import for sale, sell, pack, or distribute any regulated product suitable for chewing or for any other oral use unless the Minister of Health has given consent or provisional consent to the distribution of the product under the Medicines Act 1981.
 (4) A person who, without reasonable excuse, contravenes subsection (1), (2), or (3) commits an offence and is liable,—
   (a) in the case of a manufacturer, an importer, or a distributor, to a fine not exceeding $10,000; or
   (b) in any other case, to a fine not exceeding $5,000.
@@ -1189,34 +1374,13 @@ The purposes of this Part are—
 ### Subpart 2 — Constituents of regulated products
 
 ### 55 Limits on harmful constituents of tobacco products and herbal smoking products
-(1) A manufacturer or an importer must not offer for sale or export any tobacco product or herbal smoking product that—
-  (a) contains, or generates in its emissions, a harmful constituent prohibited by regulations; or
-  (b) contains, or generates in its emissions, harmful constituents in excess of any limits prescribed by regulations, as determined in accordance with any tests so prescribed.
-(2) A person who, without reasonable excuse, contravenes subsection (1) commits an offence and is liable to a fine not exceeding $10,000.
+[Repealed]
 
 ### 56 Annual testing for constituents of prescribed regulated products
-(1) This section applies to a regulated product specified in regulations as a product to which this section applies.
-(2) Every manufacturer and every importer of the regulated product must conduct either or both of the following tests (as regulations require):
-  (a) a test for the constituents of each brand of the product sold by the manufacturer or importer, and the respective quantities of those constituents:
-  (b) a test for the constituents of any emissions.
-(3) The tests must be conducted each year by 31 December in accordance with any requirements in regulations.
-(4) If regulations require it, each variant of the brand must be tested separately.
+[Repealed]
 
 ### 57 Director-General may require testing or further testing
-(1) The Director-General may, by written notice, require a manufacturer or an importer of a regulated product to conduct tests of the product.
-(2) Any tests required under this section may be in addition to any tests required under section 56.
-(3) The tests must be conducted—
-  (a) in accordance with regulations; and
-  (b) in a laboratory nominated by the Director-General; but
-  (c) at the expense in all respects of the manufacturer or importer.
-(4) In any year, the Director-General must not require tests to be conducted under this section in respect of more than one of the brands of regulated products to which section 56 applies sold by a particular manufacturer or importer.
-(5) However, subsection (4) does not apply to vaping products.
-(6) A person commits an offence if the person, without reasonable excuse,—
-  (a) fails to conduct any tests required under this section; or
-  (b) fails to conduct those tests in accordance with regulations.
-(7) A person who commits an offence under subsection (6) is liable,—
-  (a) in the case of a body corporate, to a fine not exceeding $10,000; or
-  (b) in any other case, to a fine not exceeding $5,000.
+[Repealed]
 
 ## Part 3 — Transitional provisions for certain amendments
 
@@ -1300,22 +1464,116 @@ The purposes of this Part are—
 ### 65 Films Act 1983 amended
 [Repealed]
 
+## Part 3A — Requirements for smoked tobacco products
+
+**Smoked tobacco products must be approved**
+
+### 57A Interpretation
+In this Part, manufacture does not include the making of 1 or more smoked tobacco products by a person for their personal use if the total annual mass of manufactured product is less than 5 kilograms.
+
+### 57B Smoked tobacco products must be approved
+(1) A person must not sell, offer for sale, manufacture, import, or supply a smoked tobacco product unless the product has been approved by the Director-General.
+(2) A person who knowingly or recklessly contravenes subsection (1) commits an offence and is liable on conviction to a fine not exceeding $600,000.
+
+### 57C Application for approval for sale or import of smoked tobacco products
+(1) A person may apply to the Director-General for approval of a smoked tobacco product intended for sale, manufacture, import, or supply in New Zealand in accordance with any requirements in regulations.
+(2) The Director-General must not grant approval of a smoked tobacco product for sale, manufacture, import, or supply unless satisfied that—
+  (a) the applicant is,—
+    (i) for an individual, a New Zealand resident:
+    (ii) for an entity,—
+      (A) carrying on business in New Zealand; or
+      (B) incorporated or registered under New Zealand law; and
+  (b) the product has been tested in accordance with regulations; and
+  (c) the product does not contain a constituent—
+    (i) prohibited by this Act or regulations; or
+    (ii) in a quantity that exceeds any limits in this Act or regulations; and
+  (d) any other criteria in regulations have been met.
+(3) However, the Director-General may grant a specified smoked tobacco product that does not meet 1 or more of the requirements listed in subsection (2) temporary approval for sale, manufacture, import, or supply in New Zealand if the Director-General is satisfied—
+  (a) that—
+    (i) the specified product is not a cigarette; and
+    (ii) no similar compliant product can be sourced; and
+    (iii) the sale and supply of the specified product will not result in a significant increase in the appeal and addictiveness of smoked tobacco products; and
+    (iv) any other criteria specified in regulations are met; or
+  (b) that—
+    (i) the specified product will be manufactured in, or imported into, New Zealand for research purposes only and will not be offered for sale or supply; and
+    (ii) any other criteria specified in regulations are met.
+(4) A temporary approval granted under subsection (3)—
+  (a) is subject to review by the Director-General in accordance with any requirements in regulations; and
+  (b) may be revoked following a review under paragraph (a); and
+  (c) expires on the date that is 12 months after the date on which it is granted unless earlier revoked; and
+  (d) may be renewed for a further period of up to 12 months.
+(5) It is a condition of any approval granted under subsection (2) that—
+  (a) the product continues to meet the requirements in subsection (2); and
+  (b) there is no significant change to the product.
+(6) In this section, significant change means any of the following changes (as applicable):
+  (a) a change that produces different results in any testing of the product required by this Act or regulations made under this Act:
+  (b) any other change to the product that is specified in regulations.
+(7) The Director-General may, in accordance with regulations, impose any other conditions on an approval or a temporary approval.
+(8) A person who, without reasonable excuse, provides false or misleading information in an application for approval or temporary approval under this section commits an offence and is liable on conviction to a fine not exceeding $50,000.
+
+### 57D Director-General may suspend approval or temporary approval
+(1) The Director-General may suspend an approval or a temporary approval granted under section 57C for 1 month if the Director-General has reasonable grounds to believe that—
+  (a) any condition of the approval is not being complied with; or
+  (b) an applicable requirement under this Act or regulations is not being complied with.
+(2) Before suspending an approval or a temporary approval, the Director-General must give the holder of the approval or temporary approval a reasonable opportunity to be heard.
+(3) The Director-General may extend the period of suspension—
+  (a) for a further month:
+  (b) more than once.
+(4) The Director-General must tell the holder of the approval or temporary approval in writing of the suspension and give reasons.
+(5) Before the period of suspension ends, the Director-General must—
+  (a) decide whether to cancel or reinstate the approval or temporary approval; and
+  (b) tell the holder of the approval or temporary approval in writing of the decision and give reasons.
+(6) A cancellation or reinstatement takes effect immediately after the end of the period of suspension.
+(7) A person must not sell, offer for sale, manufacture, import, or supply a smoked tobacco product whose approval is suspended during the period of suspension.
+(8) A person who, without reasonable excuse, contravenes subsection (7) commits an offence and is liable on conviction to a fine not exceeding $400,000.
+
+### 57E Director-General may cancel approval or temporary approval
+(1) The Director-General may cancel an approval or a temporary approval without any prior suspension if the Director-General is satisfied that—
+  (a) any condition of the approval is not being complied with; or
+  (b) an applicable requirement under this Act or regulations is not being complied with.
+(2) Before cancelling an approval or a temporary approval without prior suspension, the Director-General must give the holder of the approval or temporary approval a reasonable opportunity to be heard.
+(3) The Director-General must tell the holder of the approval or temporary approval in writing of the cancellation and give reasons.
+
+**Constituents of smoked tobacco products**
+
+### 57F Limits on constituents of smoked tobacco products
+(1) A person must not sell, offer for sale, manufacture, import, or supply a smoked tobacco product that contains, or generates in its emissions, a constituent that is—
+  (a) prohibited by this Act or regulations; or
+  (b) in a quantity that exceeds any limits in this Act or regulations, as determined in accordance with any prescribed tests.
+(2) A person who knowingly or recklessly contravenes subsection (1) commits an offence and is liable on conviction to a fine not exceeding $400,000.
+
+### 57G Annual testing for constituents of smoked tobacco products
+(1) This section applies to a smoked tobacco product specified in regulations as a product to which this section applies.
+(2) Every manufacturer and every importer of a smoked tobacco product must, at their own expense, conduct a test to ensure that the constituents of the product, and their respective quantities, comply with any limits or prohibitions prescribed in this Act or regulations.
+(3) The tests must be conducted each year by 31 December in accordance with any requirements in regulations.
+(4) A manufacturer or an importer who, without reasonable excuse, fails to comply with subsection (2) or (3) commits an offence and is liable on conviction to a fine not exceeding $50,000.
+
+### 57H Director-General may require testing or further testing
+(1) The Director-General may, by notice in writing, require a manufacturer or an importer of a smoked tobacco product to conduct tests of the product.
+(2) Any tests required under this section may be in addition to any tests required under section 57G.
+(3) The tests must be conducted—
+  (a) in accordance with regulations (if any); and
+  (b) at the expense in all respects of the manufacturer or importer.
+(4) The manufacturer or importer must, if required by the Director-General in the notice in writing, provide, at their own cost, a sample of the product required to be tested—
+  (a) to the Director-General; and
+  (b) in the quantity specified in the notice.
+(5) In any year, the Director-General must not require tests to be conducted under this section in respect of more than 1 of the brands of smoked tobacco products sold by a particular manufacturer or importer.
+(6) A person commits an offence if the person, without reasonable excuse,—
+  (a) fails to conduct any tests required under this section; or
+  (b) fails to conduct those tests in accordance with regulations.
+(7) A person who commits an offence under subsection (6) is liable on conviction to a fine not exceeding $50,000.
+
+### 57I Limits on nicotine for smoked tobacco products
+(1) The limit for the nicotine content in the tobacco in an individual smoked tobacco product is 0.8 mg/g.
+(2) Nicotine must not be present in any other constituent of an individual smoked tobacco product, unless it is derived from the tobacco in the product.
+
 ## Part 4 — Regulated products that must be notified
 
 ### 58 Purpose of this Part
-The purpose of this Part is to regulate the safety of notifiable products.
+[Repealed]
 
 ### 59 Defined terms
-In this Part, unless the context otherwise requires,—
-  - **database** means the database established under section 77
-  - **flavour** , in relation to a notifiable product, means a clearly noticeable smell or taste resulting from an additive or a combination of additives which is noticeable before or during use of the product
-  - **notifiable product** means a—
-    (a) vaping product; or
-    (b) smokeless tobacco product
-  - **notifier** means the manufacturer or importer of a notifiable product
-  - **product safety requirements** means safety requirements prescribed in regulations for a notifiable product
-  - **prohibited flavour** means a flavour or a class of flavour listed in Part 2 of Schedule 2
-  - **prohibited substance** means a substance declared under section 70.
+[Repealed]
 
 ### 60 Notifier must not sell product unless it has been notified
 (1) A notifier of a notifiable product must not sell the product in New Zealand unless it—
@@ -1345,17 +1603,17 @@ Before notifying a notifiable product that is intended for sale in New Zealand, 
 (2) A notifier may renew a product notification by notifying it in accordance with this Part before it expires.
 
 ### 65 Obligations of retailers
-(1) A retailer must not sell a notifiable product in New Zealand—
+(1) A retailer must not sell or supply a notifiable product in New Zealand—
   (a) unless it has been notified in accordance with this Part; or
   (b) that does not comply with product safety requirements; or
   (c) for which notification has been cancelled or suspended; or
   (d) whose notification has been expired for more than 3 months; or
   (e) that has been recalled under section 73.
-(2) A retailer must not, unless subsection (3) applies, sell a notifiable product that contains a flavour that is not listed in Part 1 of Schedule 2.
+(2) A retailer must not, unless subsection (3) applies, sell a vaping product or smokeless tobacco product that contains a flavour that is not listed in Part 1 of Schedule 2.
 (3) A specialist vape retailer—
   (a) may sell a vaping product that contains any flavour except a prohibited flavour; but
   (b) if the vaping product contains a flavour that is not from a class of flavour listed in Part 1 of Schedule 2, must sell the product only from the retailer’s approved vaping premises or the retailer’s approved Internet site.
-(4) A retailer must comply with any requirements in regulations (if any) relating to the sale of notifiable products that contain a flavour.
+(4) A retailer must comply with any requirements in regulations (if any) relating to the sale of vaping products or smokeless tobacco products that contain a flavour.
 (5) However, subsections (2) to (4) do not apply to vaping products that are part of a smoking cessation programme.
 (6) A person who, without reasonable excuse, contravenes subsection (1), (2), (3), or (4) commits an offence and is liable to a fine not exceeding $400,000 in the case of a large retailer, or $50,000 in any other case.
 
@@ -1385,6 +1643,38 @@ Before notifying a notifiable product that is intended for sale in New Zealand, 
 (1) A notifiable product must not contain a substance in excess of any maximum limit declared under this section.
 (2) The Director-General may declare a maximum limit for a substance contained in a notifiable product if satisfied, on reasonable grounds, that exceeding the limit causes the product to become unsafe.
 (3) A declaration under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+
+### 69A Annual testing for constituents of notifiable products
+(1) This section applies to a notifiable product specified in regulations as a product to which this section applies.
+(2) Every manufacturer and every importer of a notifiable product must, at their own expense, conduct either or both of the following tests (as regulations require):
+  (a) a test for the constituents of each brand of the product sold by the manufacturer or importer, and the respective quantities of those constituents:
+  (b) a test for the constituents of any emissions.
+(3) The tests must be conducted each year by 31 December in accordance with any requirements in regulations.
+(4) If regulations require it, each variant of the brand must be tested separately.
+(5) A person commits an offence if the person, without reasonable excuse,—
+  (a) fails to conduct any tests required under this section; or
+  (b) fails to conduct those tests in accordance with regulations.
+(6) A person who commits an offence under subsection (5) is liable on conviction,—
+  (a) in the case of a body corporate, to a fine not exceeding $10,000; or
+  (b) in any other case, to a fine not exceeding $5,000.
+
+### 69B Director-General may require testing or further testing of notifiable product
+(1) The Director-General may, by written notice, require a manufacturer or an importer of a notifiable product to conduct tests of the product.
+(2) Any tests required under this section may be in addition to any tests required under section 69A.
+(3) The tests must be conducted—
+  (a) in accordance with regulations; and
+  (b) at the expense in all respects of the manufacturer or importer.
+(4) The manufacturer or importer must, if required by the Director-General in the written notice, provide, at their own cost, a sample of the product required to be tested—
+  (a) to the Director-General; and
+  (b) in the quantity specified in the notice.
+(5) In any year, the Director-General must not require tests to be conducted under this section in respect of more than 1 of the brands of prescribed notifiable products to which section 69A applies that are sold by a particular manufacturer or importer.
+(6) However, subsection (5) does not apply to vaping products.
+(7) A person commits an offence if the person, without reasonable excuse,—
+  (a) fails to conduct any tests required under this section; or
+  (b) fails to conduct those tests in accordance with regulations.
+(8) A person who commits an offence under subsection (7) is liable on conviction,—
+  (a) in the case of a body corporate, to a fine not exceeding $10,000; or
+  (b) in any other case, to a fine not exceeding $5,000.
 
 ### 70 Declaration of prohibited substance
 (1) The Director-General may declare a substance to be a prohibited substance if satisfied that the substance is unsafe for use in a notifiable product.
@@ -1443,23 +1733,13 @@ Before notifying a notifiable product that is intended for sale in New Zealand, 
 (6) A person who, without reasonable excuse, contravenes subsection (4)﻿(b) commits an offence and is liable to a fine not exceeding $10,000, in the case of a body corporate, or to a fine not exceeding $5,000 in any other case.
 
 ### 76 Appeals against decision to suspend or cancel product notification
-(1) If the Director-General decides to suspend or cancel a product notification of a notifiable product, the notifier of that product may appeal to the appeals committee against the decision.
-(2) The notifier may lodge the appeal within 60 days after the Director-General’s decision or within any further period that the appeals committee may allow.
-(3) The decision being appealed continues in force unless the appeals committee orders otherwise.
-(4) An appeal is by way of rehearing.
-(5) On hearing the appeal, the appeals committee may—
-  (a) confirm, reverse, or modify the decision appealed against:
-  (b) make any other decision that the Director-General could have made.
-(6) The appeals committee must not review any decision, or any part of a decision, not appealed against.
-(7) A party may appeal to the High Court—
-  (a) against a determination of the appeals committee on a question of law only; and
-  (b) in accordance with the rules of court.
+[Repealed]
 
 ### 77 Establishment of database and confidentiality of certain information
 (1) The Director-General must establish and maintain a database for the purpose of this Part.
 (2) The database may be in any form that the Director-General thinks fit.
 (3) The Director-General must protect the confidentiality of any information that—
-  (a) is entered by a notifier on the database; and
+  (a) is entered on the database; and
   (b) may reasonably be regarded as confidential or commercially sensitive.
 
 ### 78 Technical advisory committee
@@ -1476,12 +1756,7 @@ Before notifying a notifiable product that is intended for sale in New Zealand, 
 (4) An advisory committee may, subject to any provision in this Act, the regulations, and any terms of reference, determine its own procedure.
 
 ### 79 Appeals committee
-(1) An appeals committee is established to determine appeals against decisions of the Director-General to cancel or suspend a product notification.
-(2) The appeals committee must consist of 3 members, each appointed by the Minister on any terms and conditions that the Minister thinks fit.
-(3) The appeals committee may, subject to any provision of this Act or the regulations, regulate its own procedure.
-(4) In performing its functions or exercising its powers under this Act, the appeals committee must—
-  (a) act independently; and
-  (b) comply with the principles of natural justice.
+[Repealed]
 
 ## Part 5 — Regulations, enforcement, and other matters
 
@@ -1494,7 +1769,7 @@ Before notifying a notifiable product that is intended for sale in New Zealand, 
 ### Subpart 1 — Regulations
 
 ### 81 Regulations
-(1) The Governor-General may from time to time, by Order in Council, make regulations for all or any of the following purposes:Forms, registers, and other documentsInternal areaHealth messages on automatic vending machinesSection 24 exemptionsSection 25 exemptions Section 27 exemptionsAcceptable forms of delivery and visibilityHealth information and warnings at point of sale and on InternetInfringement noticesConstituents of regulated productsAnnual returns and reportsHow certain regulated products may differSpecialist vape retailersGeneral matters
+(1) The Governor-General may from time to time, by Order in Council, make regulations for all or any of the following purposes:Forms, registers, and other documentsInternal areaHealth messages on automatic vending machinesSection 24 exemptionsSection 25 exemptions Section 27 exemptionsAcceptable forms of delivery and visibilityHealth information and warnings at point of sale and on InternetInfringement noticesApproval of smoked tobacco productsTesting requirementsAnnual returns, reports, and recordsHow certain regulated products may differSpecialist vape retailersGeneral matters
   (1) prescribing forms, certificates, notices, leaflets, signs, particulars, and notifications, and the persons by whom and the persons to whom any of them must be supplied:
   (2) prescribing records and registers for the purposes of this Act or any of its Parts, including—
     (i) prescribing the manner in which and the period during which any such records and registers must be kept; and
@@ -1528,23 +1803,27 @@ Before notifying a notifiable product that is intended for sale in New Zealand, 
     (i) prescribing information or warnings that must be made visible; and
     (ii) prescribing the requirements with which the information or warnings must comply:
   (19) prescribing for the purposes of section 89 (and for the purposes of the procedure in section 21 of the Summary Proceedings Act 1957 as modified and applied by section 89) the form of infringement notices and reminder notices for infringement offences, and any other particulars to be contained in infringement notices and reminder notices:
-  (20) for the purpose of regulating harmful constituents of tobacco products or herbal smoking products,—
-    (i) specifying what those harmful constituents are:
-    (ii) prohibiting harmful constituents for the purposes of section 55(1)﻿(a):
-    (iii) prescribing limits for harmful constituents in those products or their emissions and a method of determining whether those limits have been exceeded:
+  (20) prescribing requirements for the purposes of section 57C(1):
+  (20A) prescribing criteria that the Director-General must have regard to for the purpose of section 57C(2)﻿(d) or (4):
+  (20B) prescribing criteria that a smoked tobacco product or class of smoked tobacco product must meet for temporary approval by the Director-General under section 57C(3):
+  (20C) prescribing the circumstances in which a temporary approval granted under section 57C(3) may be reviewed or revoked:
+  (20D) providing conditions that may be imposed by the Director-General when granting an approval or a temporary approval under section 57C or criteria that apply when imposing a condition:
   (21) specifying the class or classes of regulated products to which section 56 is to apply:
+  (21A) prescribing standards and requirements for testing for the purpose of section 57C(2)﻿(b):
   (22) prescribing for the purposes of section 100—
-    (i) sales-related information that manufacturers, importers, and specialist vape retailers must provide in the annual return required under that section:
+    (i) sales-related information that manufacturers, importers, approved smoked tobacco retailers, and specialist vape retailers must provide in the annual return required under that section:
+    (ia) reporting requirements for distributors of smoked tobacco products and general vape retailers:
     (ii) the form and manner in which returns and reports required under that section must be prepared and filed:
+  (22A) prescribing for the purposes of section 101 the constituents of a regulated product that the manufacturer must record:
   (23) prescribing for the purposes of section 2(2A) the way in which vaping products, heated tobacco products, or any packages of those products that bear the same brand name may differ in the products they contain:
   (24) providing, in relation to applications for approval to be a specialist vape retailer,—
     (i) for the manner in which the application must be made; and
     (ii) requirements that must be met before approval may be given; and
     (iii) conditions that may be imposed by the Director-General when granting an approval or criteria that apply when imposing a condition:
-  (25) for the purpose of section 14A(4), prescribing matters that must be considered by the Director-General when having regard to—
+  (25) for the purpose of section 20P(4), prescribing matters that must be considered by the Director-General when having regard to—
     (i) the geographic location of the retail premises; or
     (ii) the population in relation to which the retailer carries out their business:
-  (26) prescribing any other criteria that the Director-General must have regard to for the purpose of section 14A(4):
+  (26) prescribing any other criteria that the Director-General must have regard to for the purpose of section 20P(4):
   (27) providing for any other related matters contemplated by this Act, necessary for its administration, or necessary for giving it full effect.
 (2) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
@@ -1584,6 +1863,33 @@ Information that must be contained in annual returns
     (iii) show any other information about the regulated product in respect of the previous year; and
   (b) specify different requirements for different kinds or classes of regulated product.
 
+### 82A Regulations for sale and distribution of smoked tobacco products
+(1) The Governor-General may, by Order in Council made on the recommendation of the Minister, make regulations prescribing requirements for the purposes of sections 20H, 20I, and 20L, which may include setting—
+  (a) criteria for the approval of—
+    (i) a person as an approved smoked tobacco retailer; and
+    (ii) retail premises to which an application for approval applies; and
+  (b) fit and proper person criteria; and
+  (c) requirements for business systems; and
+  (d) criteria for imposing conditions on approvals or classes of approval.
+(2) Regulations made under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+
+### 82B Regulations relating to requirements for smoked tobacco products
+(1) The Governor-General may, by Order in Council made on the recommendation of the Minister, make regulations for all or any of the following purposes:
+  (a) prescribing safety standards for smoked tobacco products:
+  (b) specifying changes to a smoked tobacco product for the purposes of the definition of significant change in section 57C(6):
+  (c) for the purposes of section 57F(1),—
+    (i) prohibiting constituents of smoked tobacco products:
+    (ii) prescribing limits for the quantities of constituents in smoked tobacco products or their emissions and a method of determining whether those limits have been exceeded:
+  (d) prescribing standards and requirements for testing for the purposes of section 57G(3) or 57H(3):
+  (e) prescribing requirements for the method used to determine whether the limit and the prohibition specified in section 57I for the nicotine content in an individual smoked tobacco product has been complied with.
+(2) Before preparing regulations under subsection (1)﻿(a), (c), or (e), the Minister must consider—
+  (a) the risks and benefits to the population (including both users and non-users of smoked tobacco products) of regulating the constituent; and
+  (b) the risks and benefits to Māori (including both users and non-users of smoked tobacco products) of regulating the constituent; and
+  (c) whether regulating a constituent of a smoked tobacco product will reduce the use of the product by reducing the appeal or addictiveness of the product, including—
+    (i) the likelihood that existing users of smoked tobacco products will stop using the product; and
+    (ii) the likelihood that those who do not use smoked tobacco products will start using the product.
+(3) Regulations made under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+
 ### 83 Regulations for standardised packaging (including messages and information)
 (1) The Governor-General may, by Order in Council, make regulations for all or any of the following purposes:
   (a) prescribing for the purposes of section 50(1)﻿(a) requirements, or options permitted, for all or any aspects of the appearance of a regulated product:
@@ -1592,6 +1898,7 @@ Information that must be contained in annual returns
     (i) the form, size, and content of messages and information to be displayed with, on, or in the package for a regulated product:
     (ii) the photographs and pictures to be displayed as part of or in addition to messages about effects relating to a regulated product:
     (iii) the circumstances and manner in which the messages, information, photographs, and pictures must be displayed:
+    (iv) the constituents in a smoked tobacco product or its emissions that must be listed:
   (d) prescribing for the purposes of section 50(2)﻿(b) requirements, or options permitted, for the display of the brand or company name on the package for a regulated product, including the circumstances and manner in which the name is to be displayed:
   (e) prescribing for the purposes of section 50(2)﻿(c) requirements, or options permitted, for all or any other aspects of the appearance of the package for a regulated product.
 (2) Regulations under subsection (1)﻿(a) or (e) may (without limitation) do all or any of the following:
@@ -1620,10 +1927,12 @@ Information that must be contained in annual returns
 (1) The Governor-General may, by Order in Council, make regulations—
   (a) prescribing safety requirements for regulated products that are notifiable products:
   (b) specifying changes to the parts or components of a notifiable product for the purpose of the definition of significant change in section 67(2):
+  (ba) prescribing standards and requirements for testing for the purposes of section 69A(3) or 69B(3):
   (c) amending Part 1 of Schedule 2 (which lists the classes of flavours that may be contained in notifiable products sold by any retailer):
   (d) amending Part 2 of Schedule 2 (which lists the flavours and classes of flavours that must not be contained in any notifiable product):
   (e) specifying requirements that apply to retailers in relation to notifiable products that contain a flavour:
-  (f) specifying how a notifier must describe a product and its parts when notifying it.
+  (f) specifying how a notifier must describe a product and its parts when notifying it:
+  (g) declaring a regulated product to be a notifiable product.
 (2) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 85 Regulations imposing fees
@@ -1631,7 +1940,11 @@ Information that must be contained in annual returns
   (a) requiring the payment to the Director-General of fees—
     (i) by a notifier in respect of products that must be notified under Part 4; and
     (ii) by a notifier in connection with the performance or exercise by the Director-General of any function, power, or duty under Part 4; and
-    (iii) by an applicant in relation to an application for approval as a specialist vape retailer under Part 1; and
+    (iii) by an applicant in relation to an application for approval as a specialist vape retailer under Part 1B; and
+    (iv) by a person in respect of the notification of, or the renewal of a notification of, a notifiable product under section 20R; and
+    (v) by a distributor in respect of the notification of, or the renewal of a notification of, smoked tobacco products under section 20S; and
+    (vi) by an applicant in relation to an application for approval as an approved smoked tobacco retailer under Part 1B; and
+    (vii) by an applicant in relation to an application for approval or temporary approval of a smoked tobacco product under Part 3A; and
   (b) prescribing the amounts of those fees and charges or the manner in which those fees are to be calculated.
 (2) Any Order in Council made under subsection (1) may authorise the Director-General to refund or waive, in whole or in part and on any conditions as may be prescribed, payment of any fee, charge, or cost payable in relation to a notifier or a class of notifier or a retailer or a class of retailer.
 (3) Any fee prescribed under this section is recoverable in any court of competent jurisdiction as a debt due to the Crown.
@@ -1641,36 +1954,42 @@ Information that must be contained in annual returns
   (b) the regulations must contain a statement to that effect.
 
 ### 86 Regulations imposing levies
-(1) The Governor-General may, by Order in Council made on the recommendation of the Minister, make regulations providing for the levies that must be paid by a notifier under Part 4.
+(1) The Governor-General may, by Order in Council made on the recommendation of the Minister, make regulations providing for the levies that must be paid by a retailer, distributor, importer, or manufacturer of—
+  (a) a notifiable product under Part 4; or
+  (b) a smoked tobacco product.
 (2) Levies may be prescribed on the basis of—
   (a) the costs of the Director-General in performing or exercising the Director-General’s functions, powers, and duties under Part 4, where the size of the portion to be met by levies under that Part is determined by the Minister; and
-  (b) the costs of collecting the levy money.
+  (b) the costs of the Director-General in performing or exercising the Director-General’s functions, powers, and duties under Parts 1B and 3A, to the extent that the costs are not met by fees imposed by regulations made under section 85; and
+  (c) the costs of collecting the levy money.
 (3) Levies may be prescribed on the basis that any actual cost that could have been, but has not been, recovered as a levy shortfall for a year may be recovered (along with any financing charge) over any period of up to 5 years.
 (4) The regulations may—
-  (a) specify the class or classes of notifiers or retailers that are required to pay a levy:
+  (a) specify the class or classes of retailer, distributor, importer, or manufacturer that are required to pay a levy:
   (b) specify the amount of levies, or method of calculating or ascertaining the amount of levies:
   (c) include in levies, or provide for the inclusion in levies of, any shortfall in recovering the actual costs:
   (d) provide for refunds of any over-recovery of the actual costs:
   (e) provide for the payment and collection of levies:
-  (f) provide different levies for different classes of notifiers or retailers:
+  (f) provide different levies for different classes of retailer, distributor, importer, or manufacturer:
   (g) specify the financial year or part financial year to which a levy applies, and apply that levy to that financial year or part financial year and each subsequent financial year until the levy is revoked or replaced:
   (h) for the first financial year to which a levy applies, include in a levy amount or method the costs relating to establishing the database and performing or exercising the functions, duties, and powers of the Director-General that relate to Part 4:
   (i) require payment of a levy for a financial year or part financial year, irrespective of the fact that the regulations may be made after that financial year has commenced:
   (j) provide for waivers or refunds of the whole or any part of a levy for any case or class of cases.
-(5) If a person is in 2 or more classes of notifiers or retailers in respect of which different levies have been prescribed, the person must pay each of those levies (unless the regulations provide otherwise).
+(5) If a person is in 2 or more classes of retailer, distributor, importer, or manufacturer in respect of which different levies have been prescribed, the person must pay each of those levies (unless the regulations provide otherwise).
 (6) Any levy prescribed under this section is recoverable in any court of competent jurisdiction as a debt due to the Crown.
 (7) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
-### Subpart 2 — Infringement offences
+### Subpart 2 — Offences
+
+**Infringement offences**
 
 ### 87 Infringement offences
 In this subpart,—
   - **infringement fee** ,—
-    (a) in relation to an infringement offence against any of sections 38(3), 39(3), 42(2), 43(3), 44(4), 47(4), and 53(4) or section 41(2) (to the extent that it relates to regulated products other than tobacco products), means $200; and
-    (b) in relation to an infringement offence against any of sections 34(4), 36(5), 37(4), 40(2), 46(3), 53(4), and 54(4) or section 41(2) (to the extent that it relates to tobacco products), means—
+    (a) in relation to an infringement offence against any of sections 38(3), 39(3), 42(2), 43(4), 44(4), 47(4), and 53(4) or section 41(2) (to the extent that it relates to regulated products other than tobacco products), means $200; and
+    (b) in relation to an infringement offence against any of sections 34(4), 36(5), 37(4), 40(2), 46(3), and 54(4) or section 41(2) (to the extent that it relates to tobacco products), means—
       (i) $1,000, in the case of a manufacturer, an importer, or a distributor; or
-      (ii) $500
-  - **infringement offence** means an offence against any of sections 34(4), 36(5), 37(4), 38(3), 39(3), 40(2), 41(2), 42(2), 43(3), 44(4), 46(3), 47(4), 53(4), and 54(4).
+      (ii) $500; and
+    (c) in relation to an infringement offence against section 20R(4) or 20S(4), $500
+  - **infringement offence** means an offence against any of sections 20R(4), 20S(4), 34(4), 36(5), 37(4), 38(3), 39(3), 40(2), 41(2), 42(2), 43(4), 44(4), 46(3), 47(4), 53(4), and 54(4).
 
 ### 88 Commission of infringement offences
 (1) A person who is alleged to have committed an infringement offence may—
@@ -1699,11 +2018,23 @@ In this subpart,—
 ### 90 Payment of infringement fees
 All infringement fees paid in respect of infringement offences must be paid into a Crown Bank Account.
 
+**Other offence provisions**
+
+### 90A Liability for action of employee
+(1) This section applies to an offence against section 20G(3), 20H(2), 20J(8), 40(2), 40A(2), 40B(2), 43(4), 44(4), 57B(2), 57C(8), 57D(8), 57F(2), 57H(6), or 69B(7).
+(2) Anything done by a person (A) as the employee of another person (B) is, for the purposes of an offence, to be treated as done by B as well as by A, whether or not it was done with B’s knowledge or approval.
+(3) Anything done by a person (A) as the agent of another person (B) is, for the purposes of an offence, to be treated as done by B as well as by A, unless it is done without B’s express or implied authority, given before or after the action.
+
+### 90B Burden of proof of reasonable excuse
+In proceedings for an offence against any of sections 17(3) to (6) and (8C), 20G(3), 20H(2), 20J(8), 20P(5), 20R(4), 20S(4), 23(5), 27(2), 29(2), 30(5), 31(5), 33(6), 34(4), 36(5), 37(4), 38(3), 39(3), 43(4), 44(4), 46(3), 47(4), 48(2)﻿(b), 53(4), 54(4), 55(2), 57(6), 57C(8), 57D(8), 57G(4), 57H(6), 60(3), 63(2), 65(6), 66(2), 69B(7), 73(4), 75(5) and (6), and 101(6),—
+  (a) the prosecutor need not assert absence of reasonable excuse in the charging document; and
+  (b) the burden of proving that the defendant had a reasonable excuse lies on the defendant.
+
 ### Subpart 3 — Enforcement officers
 
 ### 91 Appointment of enforcement officers
 (1) The Director-General must appoint to enforce this Act people who are—
-  (a) employees of the Ministry of Health, a local authority under the Local Government Act 2002, or Health New Zealand established by the Pae Ora (Healthy Futures) Act 2022; or
+  (a) employees of the Ministry, a local authority under the Local Government Act 2002, or Health New Zealand established by the Pae Ora (Healthy Futures) Act 2022; or
   (b) employees or officers of some other person or body; or
   (c) officers designated under section 7A of the Health Act 1956; or
   (d) inspectors appointed under section 163 of the Health and Safety at Work Act 2015.
@@ -1796,21 +2127,102 @@ A person commits an offence, and is liable on conviction to a fine not exceeding
 
 ### Subpart 4 — Annual returns and reports
 
-### 100 Annual reporting requirements for manufacturers, importers, and specialist vape retailers
+### 100 Annual reporting requirements for manufacturers, importers, distributors, and retailers of regulated products
 (1) Each year a person who is a manufacturer of regulated products or an importer of regulated products must, in accordance with regulations,—
   (a) prepare—
     (i) a return showing sales-related information required by regulations in respect of the regulated products manufactured or imported by the person; and
-    (ii) a report of the results of all tests (if any) that the person conducted during the previous year for the purposes of section 56 or 57; and
+    (ii) a report of the results of all tests (if any) that the person conducted during the previous year for the purposes of section 56, 57, 57G, 57H, 69A, or 69B; and
   (b) file the return and the report with the Director-General no later than 31 January.
-(2) Each year a specialist vape retailer must, in accordance with regulations,—
+(2) Each year a retailer of regulated products must, in accordance with regulations,—
   (a) prepare a return showing sales-related information required by regulations in respect of the regulated products or class of regulated products sold by the retailer; and
   (b) file the return with the Director-General no later than 31 January.
+(2A) A distributor of smoked tobacco products must report to the Director-General on their distribution activities in accordance with regulations.
 (3) The Director-General—
   (a) must take all practicable steps to ensure that all returns and reports received under this section are publicly available on an Internet site under the Director-General’s control; and
   (b) may publish or make publicly available in any other way all or any part of any such return or report.
-(4) A person who fails to comply with subsection (1) or (2) commits an offence and is liable,—
+(4) A person who fails to comply with subsection (1), (2), or (2A) commits an offence and is liable,—
   (a) in the case of a body corporate, to a fine not exceeding $10,000; or
   (b) in any other case, to a fine not exceeding $5,000.
+
+### 101 Record-keeping requirements for regulated products
+(1) This section applies to a manufacturer, importer, exporter, distributor, or retailer of a regulated product.
+(2) The person must take reasonable steps to keep accurate records of—
+  (a) all the regulated products that they manufacture, import, export, buy, sell, or supply; and
+  (b) for a manufacturer, the constituents required by regulations to be recorded that the manufacturer uses or intends to use in the manufacture of each regulated product.
+(3) The person must keep the records for 3 years from the date of each transaction.
+(4) An enforcement officer may require a person to provide a copy of the records kept under this section by notice in writing.
+(5) The person must provide the enforcement officer with a copy of the records, in the format required in the notice, within 10 working days of receiving the notice.
+(6) A person who, without reasonable excuse, fails to comply with subsection (2), (3), or (5) commits an offence and is liable on conviction,—
+  (a) in the case of a body corporate, to a fine not exceeding $10,000; or
+  (b) in any other case, to a fine not exceeding $5,000.
+
+### Subpart 5 — Appeals
+
+### 102 Appeals against decision to suspend or cancel product approval or notification
+(1) If the Director-General decides to suspend or cancel the approval of a smoked tobacco product or a notification of a notifiable product, the following persons may appeal to the appeals committee against the decision:
+  (a) in the case of an approval of a smoked tobacco product, the holder of the approval:
+  (b) in the case of a notification of a notifiable product, the notifier.
+(2) The holder of the approval or the notifier may lodge the appeal within 60 days after the Director-General’s decision or within any further period that the appeals committee may allow.
+(3) The decision being appealed against continues in force unless the appeals committee orders otherwise.
+(4) An appeal is by way of rehearing.
+(5) On hearing the appeal, the appeals committee may—
+  (a) confirm, reverse, or modify the decision appealed against:
+  (b) make any other decision that the Director-General could have made.
+(6) The appeals committee must not review any decision, or any part of a decision, not appealed against.
+(7) A party may appeal to the High Court—
+  (a) against a determination of the appeals committee on a question of law only; and
+  (b) in accordance with the rules of court.
+
+### 103 Appeals committee
+(1) The appeals committee established under section 79 of this Act is continued.
+(2) The appeals committee may determine appeals against decisions of the Director-General to cancel or suspend an approval of a smoked tobacco product or a product notification.
+(3) The appeals committee must consist of 3 members, each appointed by the Minister on any terms and conditions that the Minister thinks fit.
+(4) The appeals committee may, subject to any provision of this Act or regulations, regulate its own procedure.
+(5) In performing its functions or exercising its powers under this Act, the appeals committee must—
+  (a) act independently; and
+  (b) comply with the principles of natural justice.
+
+### Subpart 6 — Direct access to information by government agencies
+
+### 104 Direct access to information by government agencies
+(1) The purpose of this section is to facilitate access by a government agency to information stored in a database for the purpose of assisting the chief executive of that agency to administer and enforce this Act and the Customs and Excise Act 2018.
+(2) The Director-General may, for the purposes of this section, allow the chief executive of the New Zealand Customs Service or any other government agency to access 1 or more databases in accordance with a written agreement entered into by the Director-General and the chief executive.
+(3) A written agreement must specify—
+  (a) the database or databases that may be accessed; and
+  (b) the particular type or class of information that may be accessed; and
+  (c) the particular purpose or purposes for which the information is accessed; and
+  (d) the particular function being, or to be, carried out by the government agency for which the information is required; and
+  (e) the mechanism by which the information is to be accessed; and
+  (f) how the information accessed is to be used by the government agency to achieve the particular purpose or purposes; and
+  (g) the positions or designations of the persons in the government agency who may access the database or databases; and
+  (h) the records to be kept in relation to each occasion a database is accessed; and
+  (i) the safeguards that are to be applied for protecting personal information, or commercially sensitive information, that is disclosed; and
+  (j) the requirements relating to storage and disposal of information obtained by the agency from the database or databases; and
+  (k) the circumstances (if any) in which the information may be disclosed by the government agency to another agency, and how that disclosure may be made; and
+  (l) the requirements for reviewing the agreement.
+(4) In this section,—
+  - **chief executive of a government agency** includes the Commissioner of Police
+  - **government agency** means—
+    (a) a public service agency (as defined in section 5 of the Public Service Act 2020), other than—
+      (i) the Ministry; and
+      (ii) the Government Communications Security Bureau; and
+      (iii) the New Zealand Security Intelligence Service; and
+      (iv) Statistics New Zealand:
+    (b) a Crown agent named in Part 1 of Schedule 1 of the Crown Entities Act 2004:
+    (c) an independent Crown entity named in Part 3 of Schedule 1 of the Crown Entities Act 2004:
+    (d) the New Zealand Police:
+    (e) the New Zealand Defence Force.
+
+### Subpart 7 — Review of certain provisions of Act
+
+### 105 Ministry must review certain provisions of Act
+(1) The Ministry must, no later than 1 January 2029,—
+  (a) conduct a review of the policy and operation of the following:
+    (i) Part 1B:
+    (ii) sections 40A and 40B:
+    (iii) Part 3A; and
+  (b) prepare and provide to the Minister a report on the review.
+(2) As soon as practicable after receiving the report, the Minister must present a copy to the House of Representatives.
 
 ## Schedule 1 — Transitional, savings, and related provisions
 
@@ -1894,6 +2306,37 @@ Section 79 (which establishes an appeals committee) does not apply until the dat
 ### 13 Continued application of Smoke-free Environments Regulations 2017 to tobacco products and herbal smoking products
 (1) Until the effective date, the Smoke-free Environments Regulations 2017 apply, with all necessary modifications, in respect of tobacco products and herbal smoking products as if those regulations were made under subpart 1 of Part 5.
 (2) In this clause, effective date means the date on which the Smoke-free Environments Regulations 2017 are replaced by regulations made under subpart 1 of Part 5.
+
+### Part 3 — Provisions relating to Smokefree Environments and Regulated Products (Smoked Tobacco) Amendment Act 2022
+
+### 14 Interpretation
+In this Part, unless the context otherwise requires,—
+  - **amendment Act** means the Smokefree Environments and Regulated Products (Smoked Tobacco) Amendment Act 2022
+  - **commencement date** means the date on which section 56 of the amendment Act comes into force.
+
+### 15 Obligation of person selling notifiable products
+Section 20R (which relates to the notification requirement of a person who sells notifiable products) does not apply until the date that is 9 months after the commencement date.
+
+### 16 Obligation of distributor in respect of smoked tobacco products
+Section 20S (which relates to the notification requirement of a distributor in respect of smoked tobacco products) does not apply until the date that is 9 months after the commencement date.
+
+### 17 Sale of smoked tobacco products other than by approved smoked tobacco retailer
+(1) Section 20G (which prohibits the sale of smoked tobacco products other than by an approved smoked tobacco retailer) does not apply until the date that is 18 months after the commencement date.
+(2) Section 20H (which provides for applications for approval to be an approved smoked tobacco retailer) does not apply until the earlier of the following:
+  (a) the date on which regulations made under section 82A commence:
+  (b) the date that is 18 months after the commencement date.
+
+### 18 Smoked tobacco product approval and constituent requirements
+(1) The following provisions do not apply until the date that is 27 months after the commencement date:
+  (a) section 57B (which prohibits the sale, manufacture, import, or supply of a smoked tobacco product, unless it is approved):
+  (b) section 57F (which prohibits the sale, manufacture, import, or supply of a smoked tobacco product that contains a prohibited constituent or a constituent in excess of prescribed limits):
+  (c) section 57I (which sets a limit and a prohibition in respect of the nicotine content in an individual smoked tobacco product).
+(2) Section 57C (which provides for applications for approval for sale or import of smoked tobacco products) does not apply until the earlier of the following:
+  (a) the date on which regulations made under section 81(1)﻿(20) (relating to approval of smoked tobacco products) commence:
+  (b) the date that is 27 months after the commencement date.
+
+### 19 Notifier must not sell product unless it has been notified
+The requirement in section 60 on a notifier of a notifiable product does not apply in respect of a herbal smoking product until the date that is 9 months after the commencement date.
 
 ## Schedule 2 — Notifiable product flavours
 
