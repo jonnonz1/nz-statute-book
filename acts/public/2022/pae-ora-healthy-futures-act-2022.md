@@ -1,5 +1,5 @@
 # Pae Ora (Healthy Futures) Act 2022
-_Consolidation as at 2022-06-14_
+_Consolidation as at 2023-01-13_
 
 ### 1 Title
 This Act is the Pae Ora (Healthy Futures) Act 2022.
@@ -1456,8 +1456,176 @@ A person is funding eligible if the person belongs to a class of eligible people
 
 ## Schedule 4 — Iwi-Māori partnership boards
 
-| Iwi-Māori partnership board | Area covered by the board |
+| Iwi-Māori partnership board | Area covered by board |
 | --- | --- |
+| Te Taumata Hauora o Te Kahu o Taonui | Tai Tokerau–Tāmaki |
+| Te Moana a Toi | Mataatua |
+| Tairāwhiti Toitū Te Ora | Tairāwhiti |
+| Te Taura Ora o Waiariki | Te Arawa |
+| Tūwharetoa | Tūwharetoa |
+| Te Punanga Ora | Taranaki |
+| Te Mātuku | Whanganui |
+| Tihei Tākitimu | Tākitimu Hawke's Bay |
+| Te Pae Oranga o Ruahine o Tararua | Manawatū |
+| Te Karu o te Ika Poari Hauora | Wairarapa |
+| Ātiawa Toa | Te Upoko o te Ika Greater Wellington/Hutt |
+
+### 1 Interpretation
+In this Part, unless the context otherwise requires,—
+  - **district** has the same meaning as in section 5(1) of the Local Government Act 2002
+  - **local board area** has the same meaning as in section 5(1) of the Local Government Act 2002
+  - **territorial authority** has the same meaning as in section 5(1) of the Local Government Act 2002.
+
+### 2 Description of Tai Tokerau–Tāmaki area
+The Tai Tokerau–Tāmaki area consists of—
+  (a) the districts of the following territorial authorities:
+    (i) Far North District Council:
+    (ii) Kaipara District Council:
+    (iii) Whangarei District Council; and
+  (b) the local board areas of the following:
+    (i) Albert–Eden Local Board:
+    (ii) Aotea–Great Barrier Local Board:
+    (iii) Devonport–Takapuna Local Board:
+    (iv) Henderson–Massey Local Board:
+    (v) Hibiscus and Bays Local Board:
+    (vi) Kaipātiki Local Board:
+    (vii) Maungakiekie–Tāmaki Local Board:
+    (viii) Ōrākei Local Board:
+    (ix) Puketāpapa Local Board:
+    (x) Rodney Local Board:
+    (xi) Upper Harbour Local Board:
+    (xii) Waiheke Local Board:
+    (xiii) Waitākere Ranges Local Board:
+    (xiv) Waitematā Local Board:
+    (xv) Whau Local Board.
+
+### 3 Description of Mataatua area
+The Mataatua area consists of—
+  (a) the districts of the following territorial authorities:
+    (i) Kawerau District Council:
+    (ii) Ōpōtiki District Council:
+    (iii) Tauranga City Council:
+    (iv) Western Bay of Plenty District Council; and
+  (b) the following statistical area 2 geographic areas (as determined by Statistics New Zealand in the Statistical standard for geographic areas 2018 and described in the Statistical Area 2 2018 dataset):
+    (i) Coastlands:
+    (ii) Edgecumbe:
+    (iii) Manawahe:
+    (iv) Matata–Otakiri:
+    (v) Onepu Spring:
+    (vi) Te Teko Lakes:
+    (vii) Thornton–Awakeri:
+    (viii) Inlet Ohiwa Harbour West:
+    (ix) Allandale:
+    (x) Ohope:
+    (xi) Trident:
+    (xii) Whakatane Central:
+    (xiii) Whakatane West.
+
+### 4 Description of Tairāwhiti area
+The Tairāwhiti area consists of—
+  (a) the district of Gisborne District Council; and
+  (b) the following statistical area 1 geographic areas (as determined by Statistics New Zealand in the Statistical standard for geographic areas 2018 and described in the Statistical Area 1 2018 dataset):
+    (i) 7015774:
+    (ii) 7015775:
+    (iii) 7015776:
+    (iv) 7015777; and
+  (c) the following meshblocks (as determined by Statistics New Zealand in the Statistical standard for geographic areas 2018 and described in the Meshblock 2018 dataset):
+    (i) 1400000:
+    (ii) 1400100:
+    (iii) 4004469:
+    (iv) 4011088.
+
+### 5 Description of Te Arawa area
+The Te Arawa area consists of the district of Rotorua District Council.
+
+### 6 Description of Tūwharetoa area
+The Tūwharetoa area consists of the district of Taupo District Council.
+
+### 7 Description of Taranaki area
+The Taranaki area consists of the districts of the following territorial authorities:
+  (a) New Plymouth District Council:
+  (b) South Taranaki District Council:
+  (c) Stratford District Council.
+
+### 8 Description of Whanganui area
+The Whanganui area consists of—
+  (a) the districts of the following territorial authorities:
+    (i) Rangitikei District Council:
+    (ii) Whanganui District Council; and
+  (b) the following statistical area 2 geographic areas (as determined by Statistics New Zealand in the Statistical standard for geographic areas 2018 and described in the Statistical Area 2 2018 dataset):
+    (i) Ohakune:
+    (ii) Raetihi:
+    (iii) Tangiwai:
+    (iv) Waiouru.
+
+### 9 Description of Tākitimu Hawke's Bay area
+The Tākitimu Hawke's Bay area consists of—
+  (a) the districts of the following territorial authorities:
+    (i) Central Hawke's Bay District Council:
+    (ii) Hastings District Council:
+    (iii) Napier City Council; and
+  (b) the following statistical area 2 geographic areas (as determined by Statistics New Zealand in the Statistical standard for geographic areas 2018 and described in the Statistical Area 2 2018 dataset):
+    (i) Maungataniwha–Raupunga:
+    (ii) Frasertown–Ruakituri:
+    (iii) Wairoa:
+    (iv) Whakaki; and
+  (c) the following statistical area 1 geographic areas (as determined by Statistics New Zealand in the Statistical standard for geographic areas 2018 and described in the Statistical Area 1 2018 dataset):
+    (i) 7015769:
+    (ii) 7015770:
+    (iii) 7015771; and
+  (d) the following meshblocks (as determined by Statistics New Zealand in the Statistical standard for geographic areas 2018 and described in the Meshblock 2018 dataset):
+    (i) 4011087:
+    (ii) 4011089:
+    (iii) 4011090.
+
+### 10 Description of Manawatū area
+The Manawatū area consists of—
+  (a) the districts of the following territorial authorities:
+    (i) Horowhenua District Council:
+    (ii) Manawatu District Council:
+    (iii) Palmerston North City Council:
+    (iv) Tararua District Council; and
+  (b) the following statistical area 2 geographic areas (as determined by Statistics New Zealand in the Statistical standard for geographic areas 2018 and described in the Statistical Area 2 2018 dataset):
+    (i) Forest Lakes (Kapiti Coast District):
+    (ii) Otaki:
+    (iii) Otaki Beach:
+    (iv) Waitohu.
+
+### 11 Description of Wairarapa area
+The Wairarapa area consists of the districts of the following territorial authorities:
+  (a) Carterton District Council:
+  (b) Masterton District Council:
+  (c) South Wairarapa District Council.
+
+### 12 Description of Te Upoko o te Ika Greater Wellington/Hutt area
+The Te Upoko o te Ika Greater Wellington/Hutt area consists of—
+  (a) the districts of the following territorial authorities:
+    (i) Hutt City Council:
+    (ii) Porirua City Council:
+    (iii) Upper Hutt City Council:
+    (iv) Wellington City Council; and
+  (b) the following statistical area 2 geographic areas (as determined by Statistics New Zealand in the Statistical standard for geographic areas 2018 and described in the Statistical Area 2 2018 dataset):
+    (i) Kapiti Island:
+    (ii) Maungakotukutuku:
+    (iii) Otaihanga:
+    (iv) Ōtaki Forks:
+    (v) Paekākāriki:
+    (vi) Paraparaumu Beach East:
+    (vii) Paraparaumu Beach North:
+    (viii) Paraparaumu Beach West:
+    (ix) Paraparaumu Central:
+    (x) Paraparaumu East:
+    (xi) Paraparaumu North:
+    (xii) Peka Peka:
+    (xiii) Raumati Beach East:
+    (xiv) Raumati Beach West:
+    (xv) Raumati South:
+    (xvi) Tararua Forest Park:
+    (xvii) Te Horo:
+    (xviii) Waikanae Beach:
+    (xix) Waikanae East:
+    (xx) Waikanae Park:
+    (xxi) Waikanae West.
 
 ## Schedule 5 — Provisions applying to mortality review committees
 
