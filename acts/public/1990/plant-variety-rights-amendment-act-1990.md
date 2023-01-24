@@ -1,5 +1,5 @@
 # Plant Variety Rights Amendment Act 1990
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2023-01-24_
 
 > An Act to amend the Plant Variety Rights Act 1987
 
