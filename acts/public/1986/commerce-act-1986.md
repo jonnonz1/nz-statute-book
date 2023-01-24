@@ -1,5 +1,5 @@
 # Commerce Act 1986
-_Consolidation as at 2022-10-05_
+_Consolidation as at 2023-01-24_
 
 > Title
 
@@ -704,7 +704,7 @@ For the purposes of section 38,—
   (b) the Designs Act 1953; or
   (c) the Trade Marks Act 2002; or
   (d) the Copyright Act 1994; or
-  (e) the Plant Variety Rights Act 1987; or
+  (e) the Plant Variety Rights Act 2022; or
   (f) the Layout Designs Act 1994.
 (3) For the purposes of subsection (2),—
   (a) a person who has applied for a patent in accordance with the Patents Act 2013 and filed the complete specification in relation to the application shall, until the application is determined, be deemed to have been granted the patent to which the application relates:
