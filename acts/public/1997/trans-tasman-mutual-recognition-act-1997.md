@@ -1,5 +1,5 @@
 # Trans-Tasman Mutual Recognition Act 1997
-_Consolidation as at 2022-04-12_
+_Consolidation as at 2023-01-24_
 
 > An Act to provide for the recognition in New Zealand of regulatory standards adopted in Australia regarding goods and occupations
 
