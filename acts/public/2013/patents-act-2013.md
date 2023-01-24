@@ -1,5 +1,5 @@
 # Patents Act 2013
-_Consolidation as at 2021-10-28_
+_Consolidation as at 2023-01-24_
 
 ### 1 Title
 This Act is the Patents Act 2013.
@@ -259,7 +259,7 @@ An invention is a patentable invention if the invention, so far as claimed in a 
 (2) An invention of a method of treatment of human beings by surgery or therapy is not a patentable invention.
 (3) An invention of a method of diagnosis practised on human beings is not a patentable invention.
 (4) A plant variety is not a patentable invention.
-(5) For the purposes of subsection (4), plant variety has the same meaning as that given to the term variety in section 2 of the Plant Variety Rights Act 1987.
+(5) For the purposes of subsection (4), plant variety has the same meaning as in section 7 of the Plant Variety Rights Act 2022.
 
 ### Subpart 2 — Patent rights
 
