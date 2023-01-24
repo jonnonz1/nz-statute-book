@@ -1,5 +1,5 @@
 # Plant Variety Rights Act 2022
-_Consolidation as at 2022-11-18_
+_Consolidation as at 2023-01-24_
 
 ### 1 Title
 This Act is the Plant Variety Rights Act 2022.
