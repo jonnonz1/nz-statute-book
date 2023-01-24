@@ -1,5 +1,5 @@
 # Disputes Tribunal Act 1988
-_Consolidation as at 2022-12-01_
+_Consolidation as at 2023-01-24_
 
 ### 1 Title and commencement
 (1) This Act is the Disputes Tribunal Act 1988.
@@ -20,7 +20,7 @@ In this Act, unless the context otherwise requires,—
     (b) proceedings have been—
       (i) commenced in the Tribunal under section 24(1); or
       (ii) transferred to the Tribunal under section 24(3) or (4) or section 37
-  - **intellectual property** means any property right constituted by the Patents Act 2013, the Designs Act 1953, the Trade Marks Act 2002, the Copyright Act 1994, or the Plant Variety Rights Act 1987
+  - **intellectual property** means any property right constituted by the Patents Act 2013, the Designs Act 1953, the Trade Marks Act 2002, the Copyright Act 1994, or the Plant Variety Rights Act 2022
   - **Investigator** means a person appointed under section 41(1) to inquire into, and report to the Tribunal upon, any matter of fact
   - **lodge** , except for the purposes of sections 50 and 51, in relation to a document, means to lodge or file the document in, or to send it by post or electronically to, any office of the Disputes Tribunal together with the filing fee (if any) that is payable, and , , and have corresponding meanings
   - **Minister** means the Minister of Justice
