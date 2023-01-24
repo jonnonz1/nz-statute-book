@@ -1,5 +1,5 @@
 # Plant Variety Rights Act 1987
-_Consolidation as at 2021-10-28_
+_Consolidation as at 2023-01-24_
 
 > An Act to consolidate and amend the law relating to the granting of proprietary rights in respect of plant varieties
 
