@@ -1,5 +1,5 @@
 # Tax Administration Act 1994
-_Consolidation as at 2022-09-01_
+_Consolidation as at 2023-02-20_
 
 > An Act to reorganise and consolidate the law relating to the Inland Revenue Department and the administration of income tax matters
 
@@ -2074,7 +2074,6 @@ Date of default assessment
 (3) If an individual does not satisfy the Commissioner that the income information in their pre-populated account for the tax year correctly and completely records their income for the corresponding income year, the date on which the assessment is treated as being made is the date on which the Commissioner provides a default assessment under section 106.
 Notification requirements
 (4) The Commissioner must notify an individual affected when an assessment is treated as having been made under subsection (2) or (3).
-Flowchart 2: Process for writing off amounts of tax to pay
 
 ### 22J Commissioner’s power in relation to certain amounts of tax payable
 When amounts written off
@@ -2091,6 +2090,7 @@ Order in Council amending schedule 8
 (3B) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 Consultation
 (4) Before the Minister makes a recommendation under subsection (3), a consultative process must be undertaken that includes the distribution of the proposed amendments to schedule 8 to persons or representatives of persons that it is considered reasonable to consult for the purposes of this section.
+Flowchart 2: Process for writing off amounts of tax to pay
 
 ### 22K No obligation to provide information: de minimis and certain other amounts
 Small amounts of income
@@ -6381,13 +6381,6 @@ Except where a tax law provides otherwise, interest payable by a taxpayer to the
     (ii) C and F, if section RC 9(9)﻿(b)﻿(ii) applies:
   (c) in 1 instalment on the interest instalment date F for the taxpayer's corresponding income year, if section RC 9(9)﻿(c) of that Act applies.
 (2) In this section, a reference to an instalment classified by the alphanumeric designations A to F1 is a reference to an instalment date in the table in Schedule 3, Part A of the Income Tax Act 2007 on which an instalment of provisional tax is payable by a provisional taxpayer for an income year that corresponds to a tax year.
-ExampleSection 120KDMr Yellow, who has a March balance date, decides to change to a May balance date. The transitional year is 14 months long. He starts business on 31 July, estimating provisional tax at $15,000 for the income year. At the end of the year, Mr Yellow's residual income tax is $20,000. He is not subject to GST.Instalments in transitional year: 28th day of 5th, 9th, and 13th months after balance date, and final instalment on 28th day of month following final month in transitional year (s MB 20(2) and Schedule 13, Part B Income Tax Act 2004). But first business day falls within 30 days of the date that would be the first instalment, 28 August (s MB 20(4)﻿(a) of that Act), so no instalment is due. The April instalment only is due on 7 May.Amounts payable on the instalment dates are calculated under s MB 22 of that Act.Three interest start dates apply: 16 January, 8 May, and 29 June (s 120KD(2)).
-First instalment due 15 January: $15,000 × 4/14 = $4,285
-Second instalment due 7 May: $15,000 × 8/14 − $4,285 = $4,286
-Final instalment due 28 June: $15,000 − $8,571 = $6,429.
-First instalment 15 January on RIT: $20,000 × 4/14 = $5,714interest payable from 16 January on: ($5,714 − $4,285) = $1,429
-Second instalment 7 May on RIT: $20,000 × 4/14 = $5,714interest payable from 8 May on: ($5,714 − $4,286) = $1,428
-Final instalment 28 June on RIT: $20,000 − ($5,714 + $5,714) = $8,572interest payable from 29 June on RIT: ($8,572 − $6,429) = $2,143.
 
 ### 120KD Provisional tax instalments in transitional years
 (1) For a transitional year to which Schedule 3, Part B of the Income Tax Act 2007 applies, the residual income tax of a provisional taxpayer, other than a person to whom section 120KE(1) or (3) applies, is due and payable as determined under sections RC 21 to RC 24 of the Income Tax Act 2007.
@@ -6399,9 +6392,13 @@ Final instalment 28 June on RIT: $20,000 − ($5,714 + $5,714) = $8,572interest 
   (b) 6, for provisional taxpayers who pay on the equivalent of instalment dates C and F.
 (5) For the purposes of calculating the amount of interest due in relation to a final instalment of provisional tax, the amount of residual income tax payable is the residual income tax for the tax year minus any amount treated as due on an instalment date referred to in subsection (3).
 (6) In this section, a provisional taxpayer includes a new provisional taxpayer.
-ExampleSection 120KEDr Beige starts the income year (March balance date) using a GST ratio to determine the amount of provisional tax payable. He makes payments in June and August. On 10 September 2007, Dr Beige decides to change his determination method. He must then estimate his residual income tax for the income year (s MB 17(5) Income Tax Act 2004), and pay 2 instalments under the estimation method on instalment dates D and F (s MB 6(5) of that Act). Dr Beige provides a return for the income year that shows residual income tax of $30,000.Four interest start dates apply:for credit interest, the interest start date is 11 September 2007 (s 120KE(6)):for debit interest, the interest start dates are:11 September for unpaid instalments under the GST ratio method (s 120KE(7))16 January 2008 for unpaid instalments under estimation method (s 120C(1)﻿(a)﻿(i)﻿(A))8 May 2008 for unpaid instalments under estimation method (s 120C(1)﻿(a)﻿(i)﻿(A)).Files return for year and RIT is $30,000Balance is $25,500 ($30,000 − $4,500)Estimation instalments: interest calculated on unpaid tax of:
-on 16 Jan 2008 on $9,750 ($12,750 − $3,000) (s 120C(2)﻿(b))
-on 8 May 2008 on $9,750 ($12,750 − $3,000) (s 120C(2)﻿(b)).
+ExampleSection 120KDMr Yellow, who has a March balance date, decides to change to a May balance date. The transitional year is 14 months long. He starts business on 31 July, estimating provisional tax at $15,000 for the income year. At the end of the year, Mr Yellow's residual income tax is $20,000. He is not subject to GST.Instalments in transitional year: 28th day of 5th, 9th, and 13th months after balance date, and final instalment on 28th day of month following final month in transitional year (s MB 20(2) and Schedule 13, Part B Income Tax Act 2004). But first business day falls within 30 days of the date that would be the first instalment, 28 August (s MB 20(4)﻿(a) of that Act), so no instalment is due. The April instalment only is due on 7 May.Amounts payable on the instalment dates are calculated under s MB 22 of that Act.Three interest start dates apply: 16 January, 8 May, and 29 June (s 120KD(2)).
+First instalment due 15 January: $15,000 × 4/14 = $4,285
+Second instalment due 7 May: $15,000 × 8/14 − $4,285 = $4,286
+Final instalment due 28 June: $15,000 − $8,571 = $6,429.
+First instalment 15 January on RIT: $20,000 × 4/14 = $5,714interest payable from 16 January on: ($5,714 − $4,285) = $1,429
+Second instalment 7 May on RIT: $20,000 × 4/14 = $5,714interest payable from 8 May on: ($5,714 − $4,286) = $1,428
+Final instalment 28 June on RIT: $20,000 − ($5,714 + $5,714) = $8,572interest payable from 29 June on RIT: ($8,572 − $6,429) = $2,143.
 
 ### 120KE Provisional tax and rules on use of money interest
 (1) A provisional taxpayer's residual income tax for a tax year is due and payable in 1 instalment on their terminal tax date if—
@@ -6430,6 +6427,9 @@ on 8 May 2008 on $9,750 ($12,750 − $3,000) (s 120C(2)﻿(b)).
   (a) for the period of the tax year in which they use the GST ratio, from the later of the dates set out in subsection (6):
   (b) for the period of the tax year in which they estimate their provisional tax, from whichever dates of instalments B, D, and F for their corresponding income year occur 30 days after their last ratio instalment date.
 (8) In this section, a reference to an instalment classified by the alphanumeric designations A to F1 is a reference to a date in the table in Schedule 3, Part A of the Income Tax Act 2007 on which an instalment of provisional tax is payable by a provisional taxpayer for an income year that corresponds to a tax year.
+ExampleSection 120KEDr Beige starts the income year (March balance date) using a GST ratio to determine the amount of provisional tax payable. He makes payments in June and August. On 10 September 2007, Dr Beige decides to change his determination method. He must then estimate his residual income tax for the income year (s MB 17(5) Income Tax Act 2004), and pay 2 instalments under the estimation method on instalment dates D and F (s MB 6(5) of that Act). Dr Beige provides a return for the income year that shows residual income tax of $30,000.Four interest start dates apply:for credit interest, the interest start date is 11 September 2007 (s 120KE(6)):for debit interest, the interest start dates are:11 September for unpaid instalments under the GST ratio method (s 120KE(7))16 January 2008 for unpaid instalments under estimation method (s 120C(1)﻿(a)﻿(i)﻿(A))8 May 2008 for unpaid instalments under estimation method (s 120C(1)﻿(a)﻿(i)﻿(A)).Files return for year and RIT is $30,000Balance is $25,500 ($30,000 − $4,500)Estimation instalments: interest calculated on unpaid tax of:
+on 16 Jan 2008 on $9,750 ($12,750 − $3,000) (s 120C(2)﻿(b))
+on 8 May 2008 on $9,750 ($12,750 − $3,000) (s 120C(2)﻿(b)).
 
 ### 120KF Tolerance for provisional tax instalments
 [Repealed]
