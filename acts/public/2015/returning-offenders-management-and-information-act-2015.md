@@ -1,5 +1,5 @@
 # Returning Offenders (Management and Information) Act 2015
-_Consolidation as at 2022-11-30_
+_Consolidation as at 2023-02-28_
 
 ### 1 Title
 This Act is the Returning Offenders (Management and Information) Act 2015.
@@ -11,6 +11,53 @@ This Act comes into force on the day on which it receives the Royal assent.
 
 ### 3 Purpose
 The purpose of this Act is to obtain information from returning offenders and establish release conditions for offenders returning to New Zealand following a prison sentence of more than 1 year in an overseas jurisdiction.
+
+### 3A Act’s provisions apply retrospectively
+(1) A provision of this Act applies to a person after the provision’s commencement even if all or any of the following occurred before the provision’s commencement:
+  (a) the person’s conduct overseas that constitutes an imprisonable offence in New Zealand:
+  (b) the person’s conviction for an overseas jurisdiction offence for that conduct:
+  (c) the person’s having been sentenced to 1 or more terms of imprisonment overseas for the overseas jurisdiction offence:
+  (d) the end of the person’s sentence of imprisonment overseas for the overseas jurisdiction offence:
+  (e) the person’s release from custody in a prison overseas or, if the person is detained in an immigration or other facility overseas following release from prison overseas, release from that facility overseas:
+  (f) the person’s deportation or removal to New Zealand on grounds that are or include their conviction for the overseas jurisdiction offence:
+  (g) the person’s return to New Zealand:
+  (h) the person’s conviction for the overseas jurisdiction offence being overturned:
+  (i) the person’s being pardoned for the overseas jurisdiction offence:
+  (j) any other conduct of, or event relating to, the person that the provision requires to have occurred in order for the provision to apply.
+(2) This section does not affect or limit—
+  (a) the validations in clause 8 of Schedule 1:
+  (b) the exception to those validations in clause 9 of Schedule 1.
+(3) This section overrides any inconsistent other law.
+(4) In particular, any other law, for the purposes of subsection (3), includes any law in all or any of the following:
+  (a) section 7 of the Interpretation Act 1999 (in force after this Act’s commencement until the close of 27 October 2021):
+  (b) section 12 of the Legislation Act 2019 (in force after 27 October 2021):
+  (c) G v Commissioner of Police [2022] NZHC 3514.
+
+### 3B Act’s provisions override inconsistent other law
+(1) This section applies to conduct—
+  (a) mentioned in, or otherwise necessary for carrying out, or giving full effect to, a provision of this Act; and
+  (b) after the provision’s commencement.
+(2) Examples of the conduct are—
+  (a) making, amending, revoking, or revoking and replacing, a determination or other decision:
+  (b) requesting a person to provide identifying particulars and taking them if the person provides them in response to a request, detaining the person (using reasonable force if necessary) if the person refuses, taking the identifying particulars of a person who has been detained for the purpose of taking them, giving a direction related to exercising those powers, or entering, recording, and storing on a Police information recording system the identifying particulars of a person that are provided in response to a request or otherwise taken:
+  (c) issuing, amending, revoking, revoking and replacing, or serving a notice (for example, a databank compulsion notice under section 14, or a determination notice):
+  (d) applying for, issuing, or executing a warrant for entry to any premises to serve a determination notice:
+  (e) applying for, imposing, varying, discharging, or revoking a standard release condition or a special condition (which, in this section, includes, without limitation, a condition imposed under section 33(1) and to which sections 26 to 31 apply under section 34):
+  (f) suspending under section 28(3) a standard release condition or a special condition:
+  (g) administering a standard release condition or a special condition (for example, monitoring compliance with a standard release condition or a special condition, and investigating and prosecuting an offence of breaching a standard release condition or a special condition):
+  (h) reviewing under section 22 a determination under section 17:
+  (i) doing, or omitting to do, any other act or omission mentioned in, or otherwise necessary for carrying out, or giving full effect to, the provision.
+(3) The conduct must or may be done or omitted in accordance with the provision even if the conduct is, for an overseas jurisdiction offence for which the relevant person has been convicted and punished overseas, 1 or both of the following:
+  (a) punishment again:
+  (b) a variation and increase of penalty between commission of, and sentencing for, that offence.
+(4) This section does not affect or limit—
+  (a) the validations in clause 8 of Schedule 1:
+  (b) the exception to those validations in clause 9 of Schedule 1.
+(5) This section overrides any inconsistent other law.
+(6) In particular, any other law, for the purposes of subsection (5), includes any law in all or any of the following:
+  (a) section 6(1) and (2) of the Sentencing Act 2002:
+  (b) sections 25(g) and 26(2) of the New Zealand Bill of Rights Act 1990:
+  (c) G v Commissioner of Police [2022] NZHC 3514.
 
 ### 4 Interpretation
 (1) In this Act, unless the context otherwise requires,—
@@ -44,7 +91,11 @@ The purpose of this Act is to obtain information from returning offenders and es
   - **returning prisoner** has the meaning given to it in section 16
   - **sentence of life imprisonment** has the meaning given to it in section 24(3)
   - **special condition** means a condition imposed by a court under section 26(1) or 27(1)
-  - **standard release condition** means a condition that is set out or referred to in section 25.
+  - **standard release condition** means a condition that is set out or referred to in section 25
+  - **the provision’s commencement** or , for a provision of this Act inserted, amended, or replaced after this Act’s commencement, includes—
+    (a) this Act’s commencement; and
+    (b) the commencement of any other related provision of this Act inserted, amended, or replaced after this Act’s commencement; and
+    (c) the commencement of any legislation inserting, amending, or replacing the provision.
 (2) In this Act, unless the context otherwise requires, a term that is used but not defined, but that is defined in the Parole Act, has the same meaning as in that Act.
 
 ### 5 Transitional, savings, and related provisions
@@ -135,6 +186,15 @@ A returning prisoner is a person who has been determined by the Commissioner to 
 ### 18 Time for Commissioner to determine that person is returning prisoner
 A determination by the Commissioner that a person is a returning prisoner must not be made later than 6 months after that person’s return to New Zealand.
 
+### 18A Notice and right to be heard
+(1) A determination by the Commissioner that a person is a returning prisoner must be made without providing the person with notice or a right to be heard.
+(2) This section does not prevent a person providing voluntarily to the Commissioner, in response to a request that the Commissioner may (but need not) make, information—
+  (a) about whether the person is a returning prisoner; and
+  (b) adding to other information available to the Commissioner about that matter.
+(3) This section also does not affect a returning prisoner’s right to apply for—
+  (a) review under section 22 of the Commissioner’s determination:
+  (b) judicial review of the Commissioner’s determination.
+
 ### 19 Determination notice
 (1) The Commissioner must serve a written notice on a person (P) who has been determined to be a returning prisoner.
 (2) The notice must be served,—
@@ -167,7 +227,7 @@ A court may, on the application of the Commissioner, issue a warrant for entry t
   (a) the returning prisoner does not meet 1 or more of the criteria set out in section 17(1); or
   (b) the determination notice incorrectly states the period for which the returning prisoner is subject to release conditions; or
   (c) the determination notice was served more than 6 months after a person’s return to New Zealand.
-(2) The application must be made within 15 working days after service on the returning prisoner of the determination notice.
+(2) The application must be made at any time after service on the returning prisoner of the determination notice.
 (3) The review must be a factual inquiry only and must be completed within 20 working days after receipt of the application.
 (4) The Commissioner must—
   (a) give the applicant a reasonable opportunity to state his or her case before the Commissioner makes a decision; and
@@ -296,28 +356,13 @@ In relation to a returning offender to whom this subpart applies, sections 26 to
 ### Subpart 4 — Amendments to other Acts and review
 
 ### 35 Parole Act 2002 amended
-(1) This section amends the Parole Act 2002.
-(2) In section 107C(1)﻿(b)﻿(iii), after New Zealand, insert ; or.
-(3) After section 107C(1)﻿(b), insert:
-  (c) has been convicted of a relevant offence and in respect of that offence has been determined to be a returning prisoner under the Returning Offenders (Management and Information) Act 2015:
-  (d) is a person to whom subpart 3 of Part 2 of the Returning Offenders (Management and Information) Act 2015 applies.
-(4) In section 107F(1)﻿(c), after New Zealand, insert ; or.
-(5) After section 107F(1)﻿(c), insert:
-  (d) where the offender is a person described in section 107C(1)﻿(c) or (d), at any time before the end of the period for which the offender is subject to release conditions under the Returning Offenders (Management and Information) Act 2015.
+[Repealed]
 
 ### 36 Public Safety (Public Protection Orders) Act 2014 amended
-(1) This section amends the Public Safety (Public Protection Orders) Act 2014.
-(2) In section 7(1)﻿(d)﻿(iii), after New Zealand, insert ; or.
-(3) After section 7(1)﻿(d), insert:
-  (e) the person—
-    (i) has committed a serious sexual or violent offence; and
-    (ii) in respect of that offence,—
-      (A) has been determined to be a returning prisoner under the Returning Offenders (Management and Information) Act 2015; or
-      (B) is a returning offender to whom subpart 3 of Part 2 of that Act applies; and
-    (iii) is subject to release conditions under the Returning Offenders (Management and Information) Act 2015.
+[Repealed]
 
 ### 37 Review by select committee
-A select committee to be determined by the Clerk of the House of Representatives must, 18 months after the commencement of this Act, review the operation of this Act and prepare a report on that review.
+[Repealed]
 
 ## Schedule 1 — Transitional, savings, and related provisions
 
@@ -354,3 +399,42 @@ This Part comes into force on the date on which section 39 of the Oranga Tamarik
   (a) with all necessary modifications; and
   (b) subject to the exclusions in subclause (2).
 (2) Clauses 4(1)﻿(a) and (b), 7, 8, 10, 11, and 12 of Schedule 1AA of the 1995 Act are excluded from the application of subclause (1).
+
+### Part 4 — Provisions relating to Returning Offenders (Management and Information) Amendment Act 2023
+
+### 6 Interpretation
+In this Part, Amendment Act means the Returning Offenders (Management and Information) Amendment Act 2023.
+
+### 7 Application of amendments
+(1) The amendments made by the Amendment Act apply only to conduct after the Amendment Act’s commencement.
+(2) However, this clause is subject to clauses 8 and 9.
+
+### 8 Validations of specified conduct and specified determinations
+Validation of specified conduct
+(1) Conduct by a person or court that is invalid is validated if—
+  (a) the conduct was purportedly done or omitted under a provision of this Act after this Act’s commencement and before the Amendment Act’s commencement; and
+  (b) the conduct would have been valid had the Amendment Act been in force when the conduct occurred.
+(2) The conduct is validated from when it occurred.
+(3) Examples of conduct that may be validated by subclause (1) are—
+  (a) making, amending, revoking, or revoking and replacing, a determination or other decision:
+  (b) requesting a person to provide identifying particulars and taking them if the person provides them in response to a request, detaining the person (using reasonable force if necessary) if the person refuses, taking the identifying particulars of a person who has been detained for the purpose of taking them, giving a direction related to exercising those powers, or entering, recording, and storing on a Police information recording system the identifying particulars of a person that are provided in response to a request or otherwise taken:
+  (c) issuing, amending, revoking, revoking and replacing, or serving a notice (for example, a databank compulsion notice under section 14, or a determination notice):
+  (d) applying for, issuing, or executing a warrant for entry to any premises to serve a determination notice:
+  (e) applying for, imposing, varying, discharging, or revoking a standard release condition or a special condition (which, in this clause, includes, without limitation, a condition imposed under section 33(1) and to which sections 26 to 31 apply under section 34):
+  (f) suspending under section 28(3) a standard release condition or a special condition:
+  (g) administering a standard release condition or a special condition (for example, monitoring compliance with a standard release condition or a special condition, and investigating and prosecuting an offence of breaching a standard release condition or a special condition):
+  (h) reviewing under section 22 a determination under section 17:
+  (i) doing, or omitting to do, any other act or omission mentioned in, or otherwise necessary for carrying out, or giving full effect to, the provision.
+Validation of specified determinations
+(4) A determination that is invalid is validated if—
+  (a) the determination was purportedly made under section 17 of this Act after this Act’s commencement and before the Amendment Act’s commencement; and
+  (b) the determination would be valid if the person determined to be a returning prisoner had been provided with notice and a right to be heard before the determination was made.
+(5) The determination is validated from when it was made.
+Exception to validations
+(6) However, this clause is subject to clause 9.
+
+### 9 Exception for particular applicant and decision as it relates to them
+The validations in clause 8 do not—
+  (a) apply to the particular applicant in G v Commissioner of Police [2022] NZHC 3514 (whose effect was stayed, for persons other than the particular applicant, by an interim order made in G v Commissioner of Police [2022] NZHC 3628); or
+  (b) affect that judgment as it relates to that applicant; or
+  (c) affect any party’s rights of appeal in respect of that judgment.
