@@ -1,5 +1,5 @@
 # Land Transport Act 1998
-_Consolidation as at 2022-11-30_
+_Consolidation as at 2023-03-11_
 
 > An Act—ato promote safe road user behaviour and vehicle safety; andbto provide for a system of rules governing road user behaviour, the licensing of drivers, and technical aspects of land transport, and to recognise reciprocal obligations of persons involved; andcto consolidate and amend various enactments relating to road safety and land transport; anddto enable New Zealand to implement international agreements relating to road safety and land transport
 
@@ -38,6 +38,7 @@ _Consolidation as at 2022-11-30_
     (a) if 2 or more wheels of a motor vehicle are substantially in the same line transversely and some or all of them have separate axles, the axles of all those wheels are to be treated as 1 axle:
     (b) if the longitudinal centre line of an axle of a motor vehicle is less than 1 metre distant from the longitudinal centre line of another axle, the 2 axles are to be treated as 1 axle (a dual axle):
     (c) for the purposes of measuring the distance of a dual axle from any other axle, the measurement must be taken from the longitudinal centre line of that one of the 2 axles comprising the dual axle which is nearer to the axle from which the distance is to be measured
+  - **blood concentration level** means, for a qualifying drug, the proportion of the drug in a person’s blood
   - **blood specimen** means a specimen of venous blood taken in accordance with normal medical procedures
   - **blood specimen collecting instrument** means—
     (a) a needle and syringe; or
@@ -54,7 +55,7 @@ _Consolidation as at 2022-11-30_
   - **class exemption** means an exemption granted under section 168D(1)﻿(b)
   - **clean vehicle discount scheme** has the same meaning as in section 5(1) of the Land Transport Management Act 2003
   - **Commissioner** means the Commissioner of Police
-  - **compulsory impairment test** means a test, carried out in a manner prescribed by the Minister of Police by notice (see subsection (6)), to determine whether a person’s capacity to drive is impaired
+  - **compulsory impairment test** means a test, carried out in a manner prescribed by the Minister of Police by notice (see subsection (6)), to indicate whether a person’s capacity to drive is impaired
   - **concurrent offence** means an offence—
     (a) that is not a qualifying offence; and
     (b) that occurred as part of the same series of events as the facts that gave rise to the person’s conviction for a qualifying offence; and
@@ -92,6 +93,7 @@ _Consolidation as at 2022-11-30_
     (b) a Police employee who is not a constable who is authorised for the purpose by the Commissioner:
     (c) a person who is appointed to that office by warrant under section 208 or who holds that office by virtue of this Act:
     (d) the Agency, in the circumstances set out in section 208A
+  - **evidence of use of a qualifying drug** has the meaning set out in section 11A(2)
   - **evidence of vehicle inspection** , in relation to a vehicle, means any certificate, label, or document issued under this Act as evidence of the completion of the periodic vehicle inspection requirements in respect of that vehicle
   - **evidential breath test** means a test carried out by means of an evidential breath-testing device in a manner prescribed in respect of that device by the Minister of Police, by notice (see subsection (6))
   - **evidential breath-testing device** means a device of a kind approved for the purpose of evidential breath tests by the Minister of Police, by notice (see subsection (6))
@@ -110,6 +112,7 @@ _Consolidation as at 2022-11-30_
     (a) a defence fire brigade and an industry brigade (as those terms are defined in section 6 of the Fire and Emergency New Zealand Act 2017); and
     (b) employed firefighters or other members of a defence fire brigade or an industry brigade; and
     (c) employees, volunteers, and contractors of Fire and Emergency New Zealand who are operational personnel delivering designated services (as those terms are defined in section 6 of the Fire and Emergency New Zealand Act 2017)
+  - **first oral fluid test** means an oral fluid test carried out under section 71A
   - **former enactment** means a provision of the Transport Act 1962, or of Part 2 of the Transport (Vehicle and Driver Registration and Licensing) Act 1986, or of the Land Transport Act 1993, repealed by this Act
   - **goods** means all kinds of movable personal property; and includes articles sent by post, and animals
   - **goods service** —
@@ -139,6 +142,7 @@ _Consolidation as at 2022-11-30_
   - **heavy traffic** means—
     (a) the use of any heavy motor vehicle; or
     (b) any other traffic declared to be heavy traffic by the Agency by notice (see subsection (6))
+  - **high-risk level** means, for a listed qualifying drug, the blood concentration level specified for the drug in Part 1 of Schedule 5
   - **hospital** means a hospital care institution within the meaning of section 58(4) of the Health and Disability Services (Safety) Act 2001
   - **image** , in relation to approved vehicle surveillance equipment, includes a photograph, an electronic form of information storage, and the display and transmission of any pictorial or digital information
   - **infringement offence** means—
@@ -174,6 +178,7 @@ _Consolidation as at 2022-11-30_
   - **light rail vehicle** has the same meaning as in section 4(1) of the Railways Act 2005
   - **light rental service vehicle** means a rental service vehicle having a gross vehicle mass of not more than 3 500 kg
   - **light vehicle** means a motor vehicle that has a gross vehicle mass of not more than 3,500 kg
+  - **listed qualifying drug** means a qualifying drug listed in Schedule 5
   - **load** —
     (a) includes part of a load; and
     (b) includes covers, ropes, ties, blocks, tackles, barrows, or other equipment or object used in the securing or containing of loads on vehicles or the loading or unloading of vehicles, whether or not any other load is on the vehicle; but
@@ -229,6 +234,10 @@ _Consolidation as at 2022-11-30_
   - **nurse** means a health practitioner who is, or is deemed to be, registered with the Nursing Council of New Zealand continued by section 114(1)﻿(a) of the Health Practitioners Competence Assurance Act 2003 as a practitioner of the profession of nursing whose scope of practice permits the performance of general nursing functions
   - **offence against this Act** includes an offence against or prescribed by the regulations
   - **operate** , in relation to a vehicle, means to drive or use the vehicle on a road, or to cause or permit the vehicle to be on a road or to be driven on a road, whether or not the person is present with the vehicle; and has a corresponding meaning
+  - **oral fluid test** means a test that is carried out—
+    (a) by means of an oral fluid testing device; and
+    (b) in a manner approved for that device by the Minister of Police under section 71G
+  - **oral fluid testing device** means a device of a kind approved by the Minister of Police under section 71G for the purpose of testing oral fluid for the presence of the qualifying drugs specified in a notice made under that section
   - **organised criminal activity** means an activity that—
     (a) involves 2 or more persons; and
     (b) has the acquisition of income or assets by means of a continuing course of criminal conduct as one of its objects
@@ -265,10 +274,12 @@ _Consolidation as at 2022-11-30_
       (ii) a vehicle specified as an exempt passenger service vehicle in the regulations or the rules
   - **passive breath-testing device** means a passive breath-testing device of a kind approved by the Minister of Police, by notice (see subsection (6))
   - **permanent speed limit** means a speed limit that is in force except when a seasonal, variable, minimum, emergency, or temporary speed limit is in force
-  - **positive** , in relation to an evidential breath test, means an evidential breath test that indicates,—
-    (a) in the case of a person who holds an alcohol interlock licence or a zero alcohol licence, that the breath of the person who underwent the test contains alcohol; or
-    (b) in the case of a person who is apparently younger than 20, that the breath of the person who underwent the test contains alcohol; or
-    (c) in the case of any other person, that the proportion of alcohol in the breath of the person who underwent the test exceeds 250 micrograms of alcohol per litre of breath
+  - **positive** ,—
+    (a) in relation to the result of an evidential breath test, means the result of the test indicates,—
+      (i) in the case of a person who holds an alcohol interlock licence or a zero alcohol licence, that the breath of the person who underwent the test contains alcohol; or
+      (ii) in the case of a person who is apparently younger than 20, that the breath of the person who underwent the test contains alcohol; or
+      (iii) in the case of any other person, that the proportion of alcohol in the breath of the person who underwent the test exceeds 250 micrograms of alcohol per litre of breath:
+    (b) in relation to the result of an oral fluid test, means the result of the test indicates that the concentration level of a qualifying drug in the oral fluid of the person who underwent the test equals or exceeds the level specified for the drug in a notice made under section 71G
   - **premises** , in sections 130 and 131, includes a vehicle, rail vehicle, carriage, box, or receptacle; but does not include a dwelling or Maori reservation constituted by or under the Maori Affairs Act 1953 or Part 17 of Te Ture Whenua Maori Act 1993
   - **prescribed** means,—
     (a) in relation to a matter under this Act, prescribed by this Act or by regulations, rules, or notice made under this Act:
@@ -280,43 +291,7 @@ _Consolidation as at 2022-11-30_
     (a) restricting or placing conditions on the racing of motor vehicles or any associated activities:
     (b) controlling or restricting cruising or any associated activities
   - **qualifying drug** —
-    (a) means any substance, preparation, mixture, or article containing—
-      (i) a controlled drug specified in Schedule 1, Schedule 2, or Part 1, 4, or 7 of Schedule 3 of the Misuse of Drugs Act 1975; and
-      (ii) any of the following drugs:
-        (A) Alprazolam:
-        (B) Bromazepam:
-        (C) Brotizolam:
-        (D) Camazepam:
-        (E) Chlordiazepoxide:
-        (F) Clobazam:
-        (G) Clonazepam:
-        (H) Clotiazepam:
-        (I) Cloxazolam:
-        (J) Delorazepam:
-        (K) Diazepam:
-        (L) Estazolam:
-        (M) Ethyl loflazepate:
-        (N) Fludiazepam:
-        (O) Flunitrazepam:
-        (P) Flurazepam:
-        (Q) Halazepam:
-        (R) Haloxazolam:
-        (S) Ketazolam:
-        (T) Loprazolam:
-        (U) Lorazepam:
-        (V) Lormetazepam:
-        (W) Medazepam:
-        (X) Midazolam:
-        (Y) Nimetazepam:
-        (Z) Nitrazepam:
-        (ZA) Nordazepam:
-        (ZB) Oxazepam:
-        (ZC) Oxazolam:
-        (ZD) Pinazepam:
-        (ZE) Prazepam:
-        (ZF) Temazepam:
-        (ZG) Tetrazepam:
-        (ZH) Triazolam; and
+    (a) means any substance, preparation, mixture, or article containing a controlled drug specified in Schedule 1 or 2 of the Misuse of Drugs Act 1975 or any of Parts 1 to 5 and Part 7 of Schedule 3 of the Misuse of Drugs Act 1975; and
     (b) includes—
       (i) any controlled drug analogue (within the meaning of controlled drug analogue in section 2(1) of the Misuse of Drugs Act 1975); and
       (ii) any prescription medicine; but
@@ -356,6 +331,7 @@ _Consolidation as at 2022-11-30_
     (b) includes a person acting under and within the terms of a delegation or authorisation given by the controlling authority
   - **the rules** means the ordinary rules and emergency rules made under this Act and the rules referred to in section 220
   - **Science Minister** means, subject to any enactment, the Minister of the Crown who, under the authority of any warrant or with the authority of the Prime Minister, is for the time being responsible for the administration of the Research, Science, and Technology Act 2010
+  - **second oral fluid test** means an oral fluid test carried out under section 71B
   - **Secretary** means the chief executive of the Ministry
   - **service** , in Part 4A, includes—
     (a) an operation carried out on 1 occasion only; and
@@ -384,6 +360,7 @@ _Consolidation as at 2022-11-30_
     (b) any offence specified as a stationary vehicle offence in regulations made under this Act
   - **storage provider** means a person who stores vehicles impounded under this Act
   - **territorial authority** means a territorial authority within the meaning of the Local Government Act 2002
+  - **tolerance level** means, for a listed qualifying drug, the blood concentration level specified for the drug in Part 2 of Schedule 5
   - **toll** has the same meaning as in section 5 of the Land Transport Management Act 2003
   - **toll offence** means an offence against section 54(1) of the Land Transport Management Act 2003
   - **towage fee** , in respect of a parking offence, means an amount specified as the towage fee in respect of that offence by the Secretary by notice (see subsection (6)); and, for the purposes of this definition, the Secretary may prescribe different rates of towage fees in respect of different classes of persons, vehicles, products, or any other property or item, or on the basis of different times of use, or different distances, or on any other differential basis
@@ -424,6 +401,7 @@ _Consolidation as at 2022-11-30_
     (i) a traction engine
   - **unladen weight** , in relation to a vehicle, means the weight of the vehicle together with the fuel in its fuel system (if any) and the equipment and accessories on it that are necessary for its operation for the purpose for which it was designed
   - **unlicensed** , in relation to a driver, includes holding an expired licence
+  - **unlisted qualifying drug** means a qualifying drug not listed in Schedule 5
   - **vehicle** —
     (a) means a contrivance equipped with wheels, tracks, or revolving runners on which it moves or is moved; and
     (b) includes a hovercraft, a skateboard, in-line skates, and roller skates; but
@@ -562,10 +540,14 @@ A person may not drive or attempt to drive a motor vehicle while—
     (i) the person’s breath, as ascertained by an evidential breath test subsequently undergone by the person under section 69, contains alcohol; or
     (ii) the person’s blood, as ascertained from an analysis of a blood specimen subsequently taken from the person under section 72 or 73, contains alcohol.
 
-### 11A Persons may not drive or attempt to drive while impaired and their blood contains evidence of use of qualifying drug
-A person may not drive or attempt to drive a motor vehicle while—
-  (a) impaired; and
-  (b) that person's blood contains evidence of the use of a qualifying drug.
+### 11A Persons not to drive or attempt to drive while blood contains evidence of, or oral fluid indicates, use of qualifying drug
+(1) A person may not drive or attempt to drive a motor vehicle while—
+  (a) the person’s blood contains evidence of use of a qualifying drug (see sections 57A(1) and (2), 57B(1) and (2), and 57C(1) and (2)); or
+  (b) the person’s oral fluid indicates use of a qualifying drug (see sections 57A(3), 57B(3), and 57C(3) and (4)).
+(2) A person’s blood contains evidence of use of a qualifying drug if—
+  (a) the blood concentration level of a listed qualifying drug exceeds the tolerance level for the drug; or
+  (b) the blood contains any level of an unlisted qualifying drug.
+(3) For the purposes of subsection (1)﻿(b), a person’s oral fluid indicates use of a qualifying drug if the results of a first oral fluid test and a second oral fluid test subsequently undergone by the person are positive and indicate the use of the same qualifying drug.
 
 ### 12 Persons not to drive while under influence of alcohol or drugs
 A person may not drive or attempt to drive a motor vehicle while under the influence of drink or a drug, or both, to such an extent as to be incapable of having proper control of the vehicle.
@@ -574,8 +556,8 @@ A person may not drive or attempt to drive a motor vehicle while under the influ
 
 ### 13 Drivers and other road users to comply with directions of enforcement officers, etc
 (1AA) A person driving a motor vehicle that has a warning notice given under section 22AF attached to it must comply with that notice.
-(1) A person must comply with sections 68, 69, 70, 71A, 72, and 73 (which relate to the administration of breath screening tests, evidential breath tests, and blood tests).
-(2) A person must comply with all lawful requirements, directions, and requests made by an enforcement officer under any of sections 68, 69, 70, 71A, 72, and 73.
+(1) A person must comply with sections 68, 69, 70, 71A, 71B, 71C, 71E, 71F, 72, and 73 (which relate to the administration of breath screening tests, evidential breath tests, oral fluid tests, compulsory impairment tests, and blood tests).
+(2) A person must comply with all lawful requirements, directions, and requests made by an enforcement officer under any of sections 68, 69, 70, 71A, 71B, 71C, 71E, 71F, 72, and 73.
 (3) A person must comply with all lawful requirements and requests made by a health practitioner or medical officer under section 72 or section 73 (which relate to the administration of blood tests).
 (4) A person may not—
   (a) remove, obscure, or render indistinguishable a notice affixed to a vehicle under section 115, unless current evidence of vehicle inspection has been obtained for the vehicle or (if the notice was given under section 96(1B)) the direction requiring the vehicle not to be driven on a road has been cancelled under section 102(3)﻿(b) or section 110(3)﻿(a)﻿(ii); or
@@ -1357,7 +1339,7 @@ The Director may, in accordance with the rules, approve or revoke an alternative
   (b) an identical copy of any logbook removed, or a copy of any logbook made, by an enforcement officer in accordance with section 30ZH(3) or section 30ZH(4).
 (2) In any proceedings in respect of an offence against subpart 1 it is presumed, until the contrary is proved, that the contents of any logbook produced to an enforcement officer authorised to demand production of the logbook or removed by an enforcement officer from an accident scene where the driver is incapacitated are an accurate statement of the truth of the matter required to be recorded in the logbook by section 30ZF.
 
-## Part 5 — Offences relating to driving (other than alcohol-related offences) and penalties
+## Part 5 — Offences relating to driving (other than alcohol- and drug-related offences) and penalties
 
 **Offences relating to driver licensing**
 
@@ -1409,7 +1391,7 @@ The Director may, in accordance with the rules, approve or revoke an alternative
 (1) A person commits an offence if the person provides, or offers or agrees to provide, driving instruction in a motor vehicle for financial or commercial gain without an appropriate current driver licence authorising the person to operate as a driving instructor.
 (2) The maximum penalty on conviction for an offence against subsection (1) is a fine not exceeding $1,000.
 
-**Offences relating to driving (other than offences involving alcohol)**
+**Offences relating to driving (other than offences involving alcohol or drugs)**
 
 ### 34 Contravention of section 6
 (1) A person commits an offence if the person—
@@ -1667,7 +1649,7 @@ A court may impose a fine for an infringement offence, other than an overloading
 (3A) The mandatory disqualification in subsection (3)﻿(b) does not apply if—
   (a) an order is made under section 65; or
   (b) an alcohol interlock sentence is ordered under section 65AC(1).
-(4) If a person is convicted of a third or subsequent offence against subsection (1) or subsection (2), or any of sections 57A(1), 58(1), 60(1), or 61(1) or (2) (whether or not that offence is of the same kind as the person's first or second offence against any of those provisions),—
+(4) If a person is convicted of a third or subsequent offence against subsection (1) or (2) or any of sections 57A(1), 57B(1), 57C(1), 58(1), 60(1), or 61(1) or (2) (whether or not that offence is of the same kind as the person's first or second offence against any of those provisions),—
   (a) the maximum penalty is imprisonment for a term not exceeding 2 years or a fine not exceeding $6,000; and
   (b) the court must order the person to be disqualified from holding or obtaining a driver licence for more than 1 year.
 (4A) The mandatory disqualification in subsection (4)﻿(b) does not apply if—
@@ -1708,27 +1690,88 @@ A court may impose a fine for an infringement offence, other than an overloading
   (b) an alcohol interlock sentence is ordered under section 65AC(1).
 (8) The imposition of a mandatory disqualification under this section is subject to section 81 (which allows a court not to order disqualification for special reasons relating to the offence).
 
-### 57A Driving while impaired and with blood that contains evidence of use of qualifying drug
-(1) A person who drives or attempts to drive a motor vehicle on a road commits an offence if—
-  (a) the person does not complete a compulsory impairment test in a manner satisfactory to an enforcement officer, who is trained to give the test, when required to do so by an enforcement officer under section 71A; and
-  (b) the person's blood, as ascertained from an analysis of a blood specimen subsequently taken under section 72 or 73, contains evidence of the use of a qualifying drug.
-(2) If a person is convicted of a first or second offence against subsection (1),—
+### 57A Driving with blood that contains evidence of, or oral fluid that indicates, use of 1 qualifying drug
+Offence: driving while blood contains evidence of use of 1 qualifying drug
+(1) A person who drives or attempts to drive a motor vehicle on a road commits an offence if, as ascertained from an analysis of a blood specimen subsequently taken from the person under section 72 or 73, the person’s blood—
+  (a) contains evidence of use of a listed qualifying drug and the blood concentration level of the drug exceeds the high-risk level for the drug; or
+  (b) contains evidence of use of an unlisted qualifying drug and the blood specimen was taken after the person failed to complete a compulsory impairment test in a manner satisfactory to an enforcement officer who is trained to give the test when the person was required to do so under section 71F.
+Infringement offence: driving while blood contains evidence of use of 1 qualifying drug
+(2) A person who drives or attempts to drive a motor vehicle on a road commits an infringement offence if, as ascertained from an analysis of a blood specimen subsequently taken from the person under section 72 or 73, the person’s blood—
+  (a) contains evidence of use of 1 listed qualifying drug and the blood concentration level of the drug equals or is less than the high-risk level (if any) for the drug; or
+  (b) contains evidence of use of 1 unlisted qualifying drug and the person was not required to undergo a compulsory impairment test under section 71F before the blood specimen was taken.
+Infringement offence: driving while oral fluid indicates use of qualifying drug
+(3) A person who drives or attempts to drive a motor vehicle on a road commits an infringement offence if—
+  (a) the results of a first oral fluid test and second oral fluid test subsequently undergone by the person are positive and indicate the use of the same qualifying drug; and
+  (b) the person does not elect to have a blood test in accordance with section 71D.
+
+### 57B Driving while blood contains evidence of, or oral fluid indicates, use of 2 or more qualifying drugs
+Offence: driving while blood contains evidence of use of 2 or more qualifying drugs
+(1) A person who drives or attempts to drive a motor vehicle on a road commits an offence if, as ascertained from an analysis of a blood specimen subsequently taken from the person under section 72 or 73, the person’s blood contains evidence of use of 2 or more qualifying drugs and either or both of the following apply:
+  (a) 1 or more of the drugs are listed qualifying drugs and the blood concentration level for 1 or more listed qualifying drugs exceeds the applicable high-risk level:
+  (b) 1 or more of the drugs are unlisted qualifying drugs and the blood specimen was taken after the person failed to complete a compulsory impairment test in a manner satisfactory to an enforcement officer who is trained to give the test when the person was required to do so under section 71F.
+Infringement offence: driving while blood contains evidence of use of 2 or more qualifying drugs
+(2) A person who drives or attempts to drive a motor vehicle on a road commits an infringement offence if, as ascertained from an analysis of a blood specimen subsequently taken from the person under section 72 or 73, the person’s blood—
+  (a) contains evidence of use of 2 or more listed qualifying drugs and the blood concentration level of each listed qualifying drug equals or is less than the high-risk level for the drug; or
+  (b) contains evidence of use of 2 or more unlisted qualifying drugs and the person was not required to undergo a compulsory impairment test under section 71F before the blood specimen was taken; or
+  (c) contains evidence of use of 1 or more listed qualifying drugs and 1 or more unlisted qualifying drugs and—
+    (i) the blood concentration level of each listed qualifying drug equals or is less than the high-risk level for the drug; and
+    (ii) the person was not required to undergo a compulsory impairment test under section 71F before the blood specimen was taken.
+Infringement offence: driving while oral fluid indicates use of 2 or more qualifying drugs
+(3) A person who drives or attempts to drive a motor vehicle on a road commits an infringement offence if—
+  (a) the results of a first oral fluid test and second oral fluid test subsequently undergone by the person are positive and indicate the use of 2 or more of the same qualifying drugs; and
+  (b) the person does not elect to have a blood test in accordance with section 71D.
+
+### 57C Driving while blood or breath contains alcohol and blood contains evidence of, or oral fluid indicates, use of 1 qualifying drug
+Offence: driving while blood contains alcohol and evidence of use of 1 qualifying drug
+(1) A person who drives or attempts to drive a motor vehicle on a road commits an offence if, as ascertained from an analysis of a blood specimen subsequently taken from the person under section 72 or 73, the person’s blood contains alcohol and evidence of use of 1 qualifying drug and any or all of the following apply:
+  (a) the proportion of alcohol in the person’s blood—
+    (i) exceeds 80 milligrams of alcohol per 100 millilitres of blood; or
+    (ii) if the person is younger than 20, exceeds 30 milligrams of alcohol per 100 millilitres of blood; or
+    (iii) if the person holds an alcohol interlock licence or a zero alcohol licence, equals or is less than 50 milligrams of alcohol per 100 millilitres of blood:
+  (b) the drug is a listed qualifying drug and the blood concentration level of the drug exceeds the high-risk level for the drug:
+  (c) the drug is an unlisted qualifying drug and the blood specimen was taken after the person failed to complete a compulsory impairment test in a manner satisfactory to an enforcement officer who is trained to give the test when the person was required to do so under section 71F.
+Infringement offence: driving while blood contains alcohol and evidence of use of 1 qualifying drug
+(2) A person who drives or attempts to drive a motor vehicle on a road commits an infringement offence if the person’s blood, as ascertained from an analysis of a blood specimen subsequently taken from the person under section 72 or 73,—
+  (a) contains alcohol and the proportion of alcohol in the person’s blood equals or is less than—
+    (i) 80 milligrams of alcohol per 100 millilitres of blood; or
+    (ii) if the person is younger than 20, 30 milligrams of alcohol per 100 millilitres of blood; and
+  (b) contains evidence of use of a qualifying drug and,—
+    (i) if the drug is a listed qualifying drug, the blood concentration level of the drug equals or is less than the high-risk level (if any) for the drug; and
+    (ii) if the drug is an unlisted qualifying drug, the person was not required to undergo a compulsory impairment test under section 71F before the blood specimen was taken.
+Infringement offence: driving while blood contains alcohol and oral fluid indicates use of 1 qualifying drug
+(3) A person who drives or attempts to drive a motor vehicle on a road commits an infringement offence if,—
+  (a) as ascertained from an analysis of a blood specimen subsequently taken from the person under section 72 or 73, the person’s blood contains alcohol but the proportion of alcohol in the person’s blood equals or is less than—
+    (i) 80 milligrams of alcohol per 100 millilitres of blood; or
+    (ii) if the person is younger than 20, 30 milligrams of alcohol per 100 millilitres of blood; and
+  (b) the results of a first oral fluid test and the second oral fluid test subsequently undergone by the person are positive and indicate the use of the same qualifying drug; and
+  (c) the person does not elect to have a blood test in accordance with section 71D.
+Infringement offence: driving while breath contains alcohol and oral fluid indicates use of 1 qualifying drug
+(4) A person who drives or attempts to drive a motor vehicle on a road commits an infringement offence if—
+  (a) the proportion of alcohol in the person’s breath, as ascertained by an evidential breath test subsequently undergone by the person under section 69, equals or is less than—
+    (i) 400 micrograms of alcohol per litre of breath; or
+    (ii) if the person is younger than 20, 150 micrograms of alcohol per litre of breath; and
+  (b) the results of a first oral fluid test and second oral fluid test subsequently undergone by the person are positive and indicate the use of the same qualifying drug; and
+  (c) the person does not elect to have a blood test in accordance with section 71D.
+(5) Subsections (2), (3), and (4) do not apply to a person who holds an alcohol interlock licence or a zero alcohol licence (see section 57AA for offences relating to contravention of specified breath or blood alcohol limits by a holder of an alcohol interlock licence or a zero alcohol licence).
+
+### 57D Penalties for offences against sections 57A(1), 57B(1), and 57C(1)
+(1) If a person is convicted of a first or second offence against section 57A(1),—
   (a) the maximum penalty is imprisonment for a term not exceeding 3 months or a fine not exceeding $4,500; and
-  (b) the court must order the person to be disqualified from holding or obtaining a driver licence for 6 months or more.
-(2A) If an offence against subsection (1) is a concurrent offence in relation to a qualifying offence for an alcohol interlock sentence, then the mandatory disqualification in subsection (2)﻿(b) does not apply and section 65AH(3)﻿(b) applies.
-(3) If a person is convicted of a third or subsequent offence against subsection (1) or any of sections 56(1), 56(2), 58(1), 60(1), 61(1), and 61(2) (whether or not that offence is of the same kind as the person's first or second offence against any of those provisions),—
+  (b) the court must order the person to be disqualified for 6 months or more from holding or obtaining a driver licence.
+(2) If a person is convicted of a first or second offence against section 57B(1) or 57C(1),—
+  (a) the maximum penalty is imprisonment for a term not exceeding 6 months or a fine not exceeding $4,500; and
+  (b) the court must order the person to be disqualified for 9 months or more from holding or obtaining a driver licence.
+(3) If a person is convicted of a third or subsequent offence against any of sections 56(1), 56(2), 57A(1), 57B(1), 57C(1), 58(1), 60(1), 61(1), or 61(2) (whether or not that offence is of the same kind as the person's first or second offence against any of those provisions),—
   (a) the maximum penalty is imprisonment for a term not exceeding 2 years or a fine not exceeding $6,000; and
-  (b) the court must order the person to be disqualified from holding or obtaining a driver licence for more than 1 year.
-(3A) If an offence against subsection (1) is a concurrent offence in relation to a qualifying offence for an alcohol interlock sentence, then the mandatory disqualification in subsection (3)﻿(b) does not apply and section 65AH(3)﻿(b) applies.
-(4) Subsection (3)﻿(b) does not apply if an order is made under section 65.
-(5) For the purposes of this section, a conviction for an offence against a provision of the Transport Act 1962 that corresponds to an offence specified in subsection (3) is to be treated as a conviction for an offence specified in that subsection.
-(6) The imposition of a mandatory disqualification under this section is subject to section 81 (which allows a court not to order disqualification for special reasons relating to the offence).
+  (b) the court must order the person to be disqualified for more than 1 year from holding or obtaining a driver licence.
+(4) If an offence against section 57A(1) or 57B(1) is a concurrent offence in relation to a qualifying offence for an alcohol interlock sentence, then the mandatory disqualification in subsection (1)﻿(b), (2)﻿(b), or (3)﻿(b) does not apply and section 65AH(3)﻿(b) applies.
+(5) Subsection (3)﻿(b) does not apply if an order is made under section 65.
+(6) For the purposes of this section, a conviction against a provision of the Transport Act 1962 corresponding to an offence specified in subsection (3) is to be treated as a conviction for an offence specified in that subsection.
+(7) The imposition of a mandatory disqualification under this section is subject to section 81 (which allows a court not to order disqualification for special reasons relating to the offence).
 
 ### 58 Contravention of section 12
-(1) A person commits an offence if the person drives or attempts to drive a motor vehicle on a road—
-  (a) while under the influence of drink or a drug, or both, to such an extent as to be incapable of having proper control of the vehicle; or
-  (b) if the person’s blood, as ascertained from an analysis of a blood specimen subsequently taken under section 73, contains evidence of the use of a controlled drug specified in Schedule 1 of the Misuse of Drugs Act 1975.
-(1A) To avoid doubt, subsection (1)﻿(b) does not limit subsection (1)﻿(a).
+(1) A person commits an offence if the person drives or attempts to drive a motor vehicle on a road while under the influence of drink or a drug, or both, to such an extent as to be incapable of having proper control of the vehicle.
+(1A)
 (2) If a person is convicted of a first or second offence against subsection (1),—
   (a) the maximum penalty is imprisonment for a term not exceeding 3 months or a fine not exceeding $4,500; and
   (b) the court must order the person to be disqualified from holding or obtaining a driver licence for 6 months or more.
@@ -1736,7 +1779,7 @@ A court may impose a fine for an infringement offence, other than an overloading
   (a) an order is made under section 65; or
   (b) an alcohol interlock sentence is ordered under section 65AC(1).
 (2B) If an offence against subsection (1) is a concurrent offence in relation to a qualifying offence for an alcohol interlock sentence, then the mandatory disqualification in subsection (3)﻿(b) does not apply and section 65AH(3)﻿(b) applies.
-(3) If a person is convicted of a third or subsequent offence against subsection (1) or any of sections 56(1), 56(2), 57A(1), 60(1), and 61(1) and (2) (whether or not that offence is of the same kind as the person's first or second offence against any of those provisions),—
+(3) If a person is convicted of a third or subsequent offence against subsection (1) or any of sections 56(1), 56(2), 57A(1), 57B(1), 57C(1), 60(1), and 61(1) and (2) (whether or not that offence is of the same kind as the person's first or second offence against any of those provisions),—
   (a) the maximum penalty is imprisonment for a term not exceeding 2 years or a fine not exceeding $6,000; and
   (b) the court must order the person to be disqualified from holding or obtaining a driver licence for more than 1 year.
 (3A) The mandatory disqualification in subsection (3)﻿(b) does not apply to an offence against subsection (1)﻿(a) that is a qualifying offence if—
@@ -1749,11 +1792,11 @@ A court may impose a fine for an infringement offence, other than an overloading
 ### 59 Failure or refusal to remain at specified place or to accompany enforcement officer
 (1) A person commits an offence if the person—
   (a) fails or refuses to remain at the place where the person underwent a breath screening test under section 68 until after the result of the test is ascertained; or
-  (b) fails or refuses to accompany without delay an enforcement officer to a place when required to do so under section 69, 71A, or 72; or
-  (c) having accompanied an enforcement officer to a place under a requirement under section 69, 71A, or 72,—
-    (i) fails or refuses to remain at that place until the person is required either to undergo an evidential breath test or a blood test or a compulsory impairment test under this Act; or
+  (b) fails or refuses to accompany without delay an enforcement officer to a place when required to do so under section 69, 71A, 71B, 71E, 71F, or 72; or
+  (c) having accompanied an enforcement officer to a place under a requirement under section 69, 71A, 71B, 71E, 71F, or 72,—
+    (i) fails or refuses to remain at that place until the person is required either to undergo an evidential breath test, an oral fluid test, a blood test, or a compulsory impairment test under this Act; or
     (ii) fails or refuses to accompany an enforcement officer to another place under any of those sections; or
-  (d) having undergone an evidential breath test under a requirement under section 69 or a compulsory impairment test under section 71A, fails or refuses to remain at the place where the person underwent the test until after the result of the test is ascertained.
+  (d) having undergone an evidential breath test under a requirement under section 69, an oral fluid test under a requirement under any of sections 71A to 71C, or a compulsory impairment test under section 71F, fails or refuses to remain at the place where the person underwent the test until after the result of the test is ascertained.
 (2) If a person is convicted of an offence against subsection (1),—
   (a) the maximum penalty is a fine not exceeding $4,500; and
   (b) the court may disqualify the person from holding or obtaining a driver licence for such period as the court thinks fit.
@@ -1763,14 +1806,14 @@ A court may impose a fine for an infringement offence, other than an overloading
   (a) fails or refuses to permit a blood specimen to be taken after having been required to do so under section 72 by an enforcement officer; or
   (b) fails or refuses to permit a blood specimen to be taken without delay after having been requested to do so under section 72 by a health practitioner or medical officer; or
   (c) is a person from whom a health practitioner or medical officer may take a blood specimen under section 73 and refuses or fails to permit such a person to take a blood specimen; or
-  (d) fails or refuses to undergo a compulsory impairment test under section 71A.
+  (d) fails or refuses to undergo a compulsory impairment test under section 71F.
 (2) If a person is convicted of a first or second offence against subsection (1),—
   (a) the maximum penalty is imprisonment for a term not exceeding 3 months or a fine not exceeding $4,500; and
   (b) the court must order the person to be disqualified from holding or obtaining a driver licence for 6 months or more.
 (2A) The mandatory disqualification in subsection (2)﻿(b) does not apply if—
   (a) an order is made under section 65; or
   (b) an alcohol interlock sentence is ordered under section 65AC(1).
-(3) If a person is convicted of a third or subsequent offence against subsection (1) or any of sections 56(1), 56(2), 57A(1), 58(1), and 61(1) and (2) (whether or not that offence is of the same kind as the person's first or second offence against any of those provisions),—
+(3) If a person is convicted of a third or subsequent offence against subsection (1) or any of sections 56(1), 56(2), 57A(1), 57B(1), 57C(1), 58(1), and 61(1) and (2) (whether or not that offence is of the same kind as the person's first or second offence against any of those provisions),—
   (a) the maximum penalty is imprisonment for a term not exceeding 2 years or a fine not exceeding $6,000; and
   (b) the court must order the person to be disqualified from holding or obtaining a driver licence for more than 1 year.
 (3A) The mandatory disqualification in subsection (3)﻿(b) does not apply if—
@@ -1789,18 +1832,18 @@ A court may impose a fine for an infringement offence, other than an overloading
   (b) the proportion of alcohol in the blood of the person in charge, as ascertained from an analysis of a blood specimen subsequently taken from that person under section 72 or section 73, exceeds 80 milligrams of alcohol per 100 millilitres of blood.
 (2) A person commits an offence if the person is in charge of a motor vehicle and causes bodily injury to, or the death of, a person—
   (a) while under the influence of drink or a drug, or both, to such an extent as to be incapable of having proper control of the vehicle; or
-  (b) if the blood of the person in charge, as ascertained from an analysis of a blood specimen subsequently taken under section 73, contains evidence of the use of a controlled drug specified in Schedule 1 of the Misuse of Drugs Act 1975; or
-  (c) if—
-    (i) the person does not complete a compulsory impairment test in a manner satisfactory to an enforcement officer, who is trained to give the test, when required to do so by an enforcement officer under section 71A; and
-    (ii) the person’s blood, as ascertained from an analysis of a blood specimen subsequently taken under section 72 or 73, contains evidence of the use of a qualifying drug.
-(2A) To avoid doubt, subsection (2)﻿(b) or (2)﻿(c) does not limit subsection (2)﻿(a).
+  (b) if, as ascertained from an analysis of a blood specimen subsequently taken from the person under section 72 or 73, the blood of the person in charge—
+    (i) contains evidence of use of a listed qualifying drug and the blood concentration level of the drug exceeds the high-risk level for the drug; or
+    (ii) contains evidence of use of an unlisted qualifying drug and the blood specimen was taken after the person failed to complete a compulsory impairment test in a manner satisfactory to an enforcement officer who is trained to give the test when the person was required to do so under section 71F.
+  (c)
+(2A) To avoid doubt, subsection (2)﻿(b) does not limit subsection (2)﻿(a).
 (3) If a person is convicted of an offence against subsection (1) or (2) that causes bodily injury to another person,—
   (a) the maximum penalty is imprisonment for a term not exceeding 5 years or a fine not exceeding $20,000; and
   (b) the court must order the person to be disqualified from holding or obtaining a driver licence for 1 year or more in the case of a first or second offence against this section or section 56(1) or (2), or section 58(1), or section 60(1).
 (3AA) If a person is convicted of an offence against subsection (1) or (2) that causes the death of another person,—
   (a) the maximum penalty is imprisonment for a term not exceeding 10 years or a fine not exceeding $20,000; and
   (b) the court must order the person to be disqualified from holding or obtaining a driver licence for 1 year or more in the case of a first or second offence against this section or section 56(1) or (2), 58(1), or 60(1).
-(3A) If a person is convicted of a third or subsequent offence against this section or section 56(1) or (2), or section 57A(1), or section 58(1), or section 60(1) (whether or not that offence is of the same kind as the person's first or second offence against any of those provisions), the court must order the person to be disqualified from holding or obtaining a driver licence for more than 1 year.
+(3A) If a person is convicted of a third or subsequent offence against this section any of sections 56(1), 56(2), 57A(1), 57B(1), 57C(1), 58(1), and 60(1) (whether or not that offence is of the same kind as the person's first or second offence against any of those provisions), the court must order the person to be disqualified from holding or obtaining a driver licence for more than 1 year.
 (3B) Subsection (3A) does not apply if an order is made under section 65.
 (3BA) If an alcohol interlock sentence is ordered under section 65AC(1) for an offence against subsection (1) or (2)﻿(a) that is a qualifying offence, then the mandatory disqualification in subsection (3)﻿(b), (3AA)﻿(b), or (3A) (whichever applies) is the period of disqualification for the purposes of section 65AE(d) (see section 65AD).
 (3BB) If an offence against subsection (2) is a concurrent offence in relation to a qualifying offence for an alcohol interlock sentence, then the mandatory disqualification in subsection (3)﻿(b), (3AA)﻿(b), or (3A) (whichever applies) is the period of disqualification for the purposes of section 65AE(d) (see section 65AH(3)﻿(a)).
@@ -1810,12 +1853,11 @@ A court may impose a fine for an infringement offence, other than an overloading
 ### 62 Causing injury or death in circumstances to which section 61 does not apply
 (1) A person commits an offence if the person causes bodily injury to or the death of a person by carelessly driving a motor vehicle (in a manner that is not an offence against section 61)—
   (a) while under the influence of drink or a drug, or both; or
-  (b) if the blood of the person driving, as ascertained from an analysis of a blood specimen subsequently taken under section 73, contains evidence of the use of a controlled drug specified in Schedule 1 of the Misuse of Drugs Act 1975.
+  (b) if, as ascertained from an analysis of a blood specimen subsequently taken from the person under section 72 or 73, the blood of the person driving contains evidence of use of a listed qualifying drug and the blood concentration level of the drug equals or is less than the high-risk level (if any) for the drug.
 (1A) To avoid doubt, subsection (1)﻿(b) does not limit subsection (1)﻿(a).
-(1B) A person commits an offence if—
-  (a) the person causes bodily injury to, or the death of, a person by driving or attempting to drive a motor vehicle; and
-  (b) the person does not complete a compulsory impairment test in a manner satisfactory to an enforcement officer, who is trained to give the test, when required to do so by an enforcement officer under section 71A; and
-  (c) the person's blood, as ascertained from an analysis of a blood specimen subsequently taken under section 72 or 73, contains evidence of the use of a qualifying drug.
+(1B) A person commits an offence if the person causes bodily injury to, or the death of, a person by driving or attempting to drive a vehicle if, as ascertained from an analysis of a blood specimen subsequently taken from the person under section 72 or 73, the blood of the person driving—
+  (a) contains evidence of use of a listed qualifying drug and the blood concentration level of the drug exceeds the high-risk level for the drug; or
+  (b) contains evidence of use of an unlisted qualifying drug and the blood specimen was taken after the person failed to complete a compulsory impairment test in a manner satisfactory to an enforcement officer who is trained to give the test when the person was required to do so under section 71F.
 (2) If a person commits an offence against subsection (1) or (1B),—
   (a) the maximum penalty is imprisonment for a term not exceeding 3 years or a fine not exceeding $10,000; and
   (b) the court must order the person to be disqualified from holding or obtaining a driver licence for 1 year or more.
@@ -1834,15 +1876,20 @@ A court may impose a fine for an infringement offence, other than an overloading
 ### 64 Defences
 (1) It is a defence to proceedings for an offence against section 60 (which relates to failing or refusing to supply a blood specimen) if the court is satisfied, on the evidence of a health practitioner, that the taking of a blood specimen from the defendant would have been prejudicial to the defendant's health.
 (1AA) Subsection (1) is subject to section 60(3B) and (3C).
-(1A) It is a defence to proceedings for an offence against section 57A(1) or 62(1B) if the court is satisfied that the person has consumed the relevant qualifying drug—
+(1A) It is a defence to proceedings for an offence against section 57A(1) or (2), 57B(1) or (2), 57C(1) or (2) or 62(1B) if the court is satisfied that the person has consumed the relevant qualifying drug—
   (a) in accordance with—
     (i) a current and valid prescription written for that person by a health practitioner; and
     (ii) any instructions from a health practitioner or from the manufacturer of the qualifying drug; or
   (b) because it was administered by a health practitioner, provided that the person complied with the instructions (if any) that the health practitioner has given.
+(1AB) It is a defence to proceedings for an offence against section 57A(3), 57B(3), or 57C(3) or (4) if the person’s oral fluid indicates use of a qualifying drug and—
+  (a) the person—
+    (i) has a current and valid prescription for the qualifying drug that was written for that person by a health practitioner; and
+    (ii) has complied with the instructions (if any) from a health practitioner or from the manufacturer of the qualifying drug about driving, consuming alcohol or other prescription medicines, or both, while consuming the qualifying drug; or
+  (b) the drug was administered by a health practitioner, and the person complied with the instructions (if any) given by the health practitioner.
 (1B) It is a defence to proceedings for an offence against section 60(1)﻿(d) if the court is satisfied that the person's failure or refusal to undergo a compulsory impairment test is because of—
   (a) a pre-existing medical condition or pre-existing disability that precludes undergoing the test:
   (b) an injury, sustained in a motor vehicle accident giving rise to an obligation to undergo the test, that precludes undergoing the test.
-(2) It is no defence to proceedings for an offence that a provision forming part of sections 68 to 75A, and 77 has not been strictly complied with or has not been complied with at all, provided there has been reasonable compliance with such of those provisions as apply.
+(2) It is no defence to proceedings for an offence that a provision forming part of sections 68 to 75A, 77, and 77A has not been strictly complied with or has not been complied with at all, provided there has been reasonable compliance with such of those provisions as apply.
 (3) In any proceedings against any person for an offence against section 52(1)﻿(c) arising out of circumstances in which an enforcement officer exercised powers under section 121(2) and in respect of which a breath screening test or an evidential breath test or a blood test was undergone by the person, it is no defence that—
   (a) the breath screening test or evidential breath test indicated that,—
     (i) in the case of a person apparently younger than 20, the person’s breath did not contain alcohol; or
@@ -1853,7 +1900,7 @@ A court may impose a fine for an infringement offence, other than an overloading
     (ii) in the case of a person who holds an alcohol interlock licence or a zero alcohol licence, the person's blood did not contain alcohol; or
     (iii) in any other case, the proportion of alcohol in the person’s blood did not exceed 50 milligrams of alcohol per 100 millilitres of blood.
 (3A) It is no defence to proceedings for an offence against section 60 (which relates to failing or refusing to supply a blood specimen) that—
-  (a) there was or may have been an error in the result of the breath screening test or evidential breath test; or
+  (a) there was or may have been an error in the result of the breath screening test, evidential breath test, or oral fluid test; or
   (b) the occurrence or likely occurrence of any such error did not entitle or empower a person to request or require an evidential breath test or a blood test.
 (4) It is no defence to proceedings for an offence against this Act in respect of the proportion of alcohol in a person's breath—
   (a) that there was or may have been an error in the result of the breath screening test or evidential breath test; or
@@ -1861,6 +1908,9 @@ A court may impose a fine for an infringement offence, other than an overloading
 (5) It is no defence to proceedings for an offence against this Act in respect of the proportion of alcohol in a person's blood—
   (a) that there was or may have been an error in the result of the breath screening test or evidential breath test; or
   (b) that the occurrence or likely occurrence of any such error did not entitle or empower a person to request or require an evidential breath test or a blood test.
+(6) It is no defence to proceedings for an offence against this Act in respect of the proportion of a qualifying drug in a person’s blood—
+  (a) that there was or may have been an error in the result of the first oral fluid test or second oral fluid test; or
+  (b) that the occurrence or likely occurrence of any such error did not entitle or empower a person to request or require a second oral fluid test or a blood test.
 
 **Mandatory disqualification and assessment for repeat offences**
 
@@ -1887,7 +1937,7 @@ A court may impose a fine for an infringement offence, other than an overloading
 **Mandatory alcohol interlock sentence for repeat offences and certain first offences**
 
 ### 65AB Qualifying offences
-(1) Section 65AC applies if a court convicts a person of an offence in relation to alcohol against any of sections 56(1), 56(2), 57(1), 57(2), 57AA, 58(1)﻿(a), 60(1)﻿(a) to (c), 61(1), 61(2)﻿(a), and 62(1)﻿(a) and either—
+(1) Section 65AC applies if a court convicts a person of an offence in relation to alcohol against any of sections 56(1), 56(2), 57(1), 57(2), 57AA, 57C(1), 58(1)﻿(a), 60(1)﻿(a) to (c), 61(1), 61(2)﻿(a), and 62(1)﻿(a) and either—
   (a) the person convicted has previously been convicted of such an offence committed within 5 years of the date of the commission of the offence being dealt with by the court (whether or not section 65(2) or (4) also applies); or
   (b) the offence for which the person is convicted involves either or both of the following:
     (i) the proportion of alcohol in the person’s breath, as ascertained by an evidential breath test subsequently undergone by the person under section 69, is or exceeds 800 micrograms of alcohol per litre of breath:
@@ -1993,12 +2043,16 @@ If this section applies because an exception described in section 65AB(2) applie
 ### 67 Blood test fee
 (1) The following persons who undergo a blood test are liable to pay the blood test fee that applied on the date of that test and any associated medical expenses:
   (a) any person who—
-    (i) elects or is required to undergo the blood test under section 70A(1) or 72(1); and
+    (i) elects or is required to undergo the blood test under section 70A(1) or 72(1)﻿(a), (b), (c), or (d); and
     (ii) before undergoing the blood test is advised in accordance with section 69(4A)﻿(d), 72(1D), or 72(1E):
+  (aa) any person who—
+    (i) elects or is required to undergo a blood test under section 71D or 72(1)﻿(e), (f), (g), or (h); and
+    (ii) is advised in accordance with section 71A(5)﻿(c), 71D(2), or 72(1F) before undergoing the blood test; and
+    (iii) commits an offence against section 57A(1) or (2), 57B(1) or (2), or 57C(1) or (2):
   (b) any person who undergoes a blood test under section 73.
 (1A) Subsection (1) does not apply if the result of the blood test indicates that the person has committed an infringement offence against section 56(2B).
 (1B) The blood test fee and any associated medical expenses payable by a person under subsection (1),—
-  (a) in the case of a person who is convicted of an offence against any of sections 56(2), 57(2), 57AA, 57A, 58, 61(1)﻿(b), 61(2), and 62, are deemed to be a fine imposed on the conviction of the person for that offence; and
+  (a) in the case of a person who is convicted of an offence against any of sections 56(2), 57(2), 57AA, 57A(1), 57B(1), 57C(1), 58, 61(1)﻿(b), 61(2), and 62, are deemed to be a fine imposed on the conviction of the person for that offence; and
   (b) in all other cases, are recoverable from the person as a debt due to the Crown.
 (1C) An enforcement officer may waive or refund the blood test fee and any associated medical expenses payable or paid by a person under subsection (1) if—
   (a) the result of the blood test does not indicate that the person contravened a specified blood-alcohol limit; and
@@ -2007,7 +2061,7 @@ If this section applies because an exception described in section 65AB(2) applie
       (A) a pre-existing medical condition or pre-existing disability that precluded undergoing the test; or
       (B) an injury, sustained in a motor vehicle accident that gave rise to the obligation to undergo the test; or
     (ii) was taken under section 73.
-(2) For the purposes of subsection (1), the Minister of Police may from time to time, by notice, prescribe a fee for each type of blood test that is carried out under this Act.
+(2) For the purposes of subsection (1), the Minister of Police may from time to time, by notice, prescribe a fee for each type of blood test that is carried out under this Act (including prescribing different fees for different classes of persons).
 (3) The medical expenses referred to in subsection (1) may not exceed the actual and reasonable medical expenses associated with the taking of a blood specimen.
 (4) A notice under subsection (2) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
@@ -2024,6 +2078,7 @@ If this section applies because an exception described in section 65AB(2) applie
 (3) A person who has undergone a breath screening test under this section must remain at the place where the person underwent the test until after the result of the test is ascertained, and an enforcement officer may arrest the person without warrant if the person refuses or fails to remain at that place.
 (4) If an enforcement officer is entitled to require a person to undergo a breath screening test, the officer may also require that person to undergo a test using a passive breath-testing device, which test is one where the officer holds a passive breath-testing device near the person's mouth for the purpose of ascertaining whether or not there is any alcohol in the person's breath.
 (5) The use or non-use of a passive breath-testing device does not of itself affect the validity of a breath screening test.
+(6) An enforcement officer may require a person to undergo a breath screening test whether or not a person has already undergone an oral fluid test under any of sections 71A to 71C and regardless of the result (or failure to produce a result) of any such oral fluid test or tests.
 
 ### 69 Who must undergo evidential breath test
 (1) An enforcement officer may require a person to accompany an enforcement officer to a place where it is likely that the person can undergo an evidential breath test or a blood test (or both) when required to do so by the officer, if,—
@@ -2056,7 +2111,7 @@ If this section applies because an exception described in section 65AB(2) applie
 (1) If for any reason an evidential breath test carried out under section 69 by an enforcement officer fails to produce a result, the enforcement officer may, at his or her discretion, either require the person to undergo without delay a further evidential breath test or proceed as if section 72(1)﻿(c) applies.
 (2) A requirement made under subsection (1) is deemed to be a requirement under section 69(4).
 
-### 70A Right to elect blood test
+### 70A Who has right to elect blood test after positive evidential breath test
 (1) A person has the right, within 10 minutes of being advised by an enforcement officer of the matters specified in section 77(3)﻿(a) (which sets out the conditions of the admissibility of the test), to elect to have a blood test to assess the proportion of alcohol in his or her blood, if the result of that person's evidential breath test appears to be positive, and—
   (a) the result of the person's evidential breath test indicates that the proportion of alcohol in the person's breath exceeds 400 micrograms of alcohol per litre of breath; or
   (b) the person is apparently younger than 20; or
@@ -2071,19 +2126,129 @@ If this section applies because an exception described in section 65AB(2) applie
   (c) the person fails to produce a driver licence and is unable to satisfy the officer by some other means that the person is 20 or older.
 (2) An enforcement officer is not obliged to take any further steps, other than requiring the production of a driver licence, to ascertain the age of a person for the purposes of section 69.
 
-### 71A Requirement to undergo compulsory impairment test
-(1) An enforcement officer may require any of the following persons to undergo a compulsory impairment test given by an enforcement officer trained to give the test if the enforcement officer has good cause to suspect that the person has consumed a drug or drugs:
+**Enforcement procedures for offences involving use of qualifying drugs**
+
+### 71A Who must undergo first oral fluid test
+(1) An enforcement officer may require any of the following persons to undergo a first oral fluid test without delay:
   (a) a driver of, or a person attempting to drive, a motor vehicle on a road:
-  (b) a person whom the officer has good cause to suspect has recently committed an offence against this Act that involves the driving of a motor vehicle:
+  (b) a person who the officer has good cause to suspect has recently committed an offence against this Act that involves the driving of a motor vehicle:
   (c) if an accident has occurred involving a motor vehicle,—
     (i) the driver of the vehicle at the time of the accident; or
-    (ii) if the enforcement officer is unable to ascertain who the driver of the motor vehicle was at the time of the accident, a person whom the officer has good cause to suspect was in the motor vehicle at the time of the accident.
-(2) An enforcement officer may require a person specified under subsection (1) to—
+    (ii) if the enforcement officer is unable to ascertain who the driver of the motor vehicle was at the time of the accident, a person who the officer has good cause to suspect was in the motor vehicle at the time of the accident.
+(2) An enforcement officer—
+  (a) may require a person to undergo a first oral fluid test whether or not the person has already undergone a breath screening test under section 68 or an evidential breath test under section 69 and regardless of the result (or failure to produce a result) of any such oral fluid test or tests; but
+  (b) must not require a person to undergo a first oral fluid test if an enforcement officer has required the person to undergo a compulsory impairment test under section 71F(1).
+(3) An enforcement officer may require the person—
+  (a) to remain in the place where stopped to undergo the first oral fluid test; or
+  (b) if it is not practicable for the person to undergo an oral fluid test at the place where stopped, to accompany an enforcement officer to a place where it is likely that the person can undergo a first oral fluid test.
+(4) If it is not practicable for a person to undergo a first oral fluid test at a place to which the person has accompanied an enforcement officer under subsection (3)﻿(b), an enforcement officer may require the person to accompany the officer to any other place where it is likely that the person can undergo a first oral fluid test.
+(5) An enforcement officer who requires a person to undergo a first oral fluid test under this section must, without delay, advise the person that,—
+  (a) if the person refuses to undergo a first oral fluid test under this section or a second oral fluid test under section 71B, the person will be required to permit the taking of a blood specimen under section 72(1)﻿(e); and
+  (b) if the result of a blood test indicates the presence of alcohol, 1 or more qualifying drugs, or both alcohol and 1 or more qualifying drugs, the person may be issued with an infringement notice or charged with an offence, depending on—
+    (i) the proportion of any alcohol in the person’s blood; and
+    (ii) the blood concentration level and type of the qualifying drugs (if any) in the person’s blood; and
+  (c) the person may be liable to pay a blood test fee and associated medical costs if the result of the blood test establishes that the person has committed an offence against section 57A(1), 57B(1), or 57C(1) or an infringement offence against section 57A(2), 57B(2), or 57C(2).
+(6) A person must—
+  (a) accompany an enforcement officer to a place when required to do so under this section:
+  (b) if the person has accompanied an enforcement officer to a place under this section, remain at that place until the person is required to undergo an oral fluid test under this section:
+  (c) if the person has undergone an oral fluid test under this section, remain at the place where the person underwent the test until after the result of the test is ascertained.
+(7) An enforcement officer may arrest without warrant a person who contravenes subsection (6).
+(8) An enforcement officer may require a person who has been arrested under subsection (7) and taken to or detained at a place to undergo a first oral fluid test at that place.
+(9) An enforcement officer may not require a person who is in a hospital or medical centre as a result of an accident involving a motor vehicle to undergo an oral fluid test under this section.
+
+### 71B Who must undergo second oral fluid test
+(1) An enforcement officer must require a person to undergo a second oral fluid test without delay if the person has undergone a first oral fluid test and the result of the first oral fluid test is positive unless the person is instead required to undergo a compulsory impairment test in the circumstances described in section 71F(5).
+(2) An enforcement officer may require the person—
+  (a) to remain in the place where the person underwent the first oral fluid test to undergo the second oral fluid test; or
+  (b) if it is not practicable for the person to undergo a second oral fluid test at the place where the person underwent the first oral fluid test, to accompany an enforcement officer to a place where it is likely that the person can undergo a second oral fluid test.
+(3) If it is not practicable for a person to undergo a second oral fluid test at a place to which the person has accompanied an enforcement officer under subsection (2)﻿(b), an enforcement officer may require the person to accompany the officer to any other place where it is likely that the person can undergo a second oral fluid test.
+(4) A person must—
+  (a) accompany an enforcement officer to a place when required to do so under this section:
+  (b) if the person has accompanied an enforcement officer to a place under this section, remain at that place until the person is required to undergo an oral fluid test under this section:
+  (c) if the person has undergone an oral fluid test under this section, remain at the place where the person underwent the test until after the result of the test is ascertained.
+(5) An enforcement officer may arrest without warrant a person who contravenes subsection (4).
+(6) An enforcement officer may require a person who has been arrested under subsection (5) and taken to or detained at a place to undergo a second oral fluid test at that place.
+
+### 71C Person must undergo further oral fluid test if either first or second oral fluid test fails to produce result
+(1) An enforcement officer must require a person to undergo without delay a further oral fluid test if—
+  (a) a first oral fluid test carried out under section 71A fails to produce a result:
+  (b) a second oral fluid test carried out under section 71B fails to produce a result.
+(2) A person must remain at the place where the person underwent the test that failed to produce a result until after the result of the further oral fluid test is ascertained.
+(3) An enforcement officer may arrest without warrant a person who contravenes subsection (2).
+(4) An enforcement officer may require a person who has been arrested under subsection (3) and taken to or detained at a place to undergo a further oral fluid test at that place.
+(5) A positive result of a further oral fluid test required under subsection (1) must,—
+  (a) if required following a first oral fluid test that failed to produce a result, be treated for all purposes under this Act as the result of the first oral fluid test; or
+  (b) if required following a second oral fluid test that failed to produce a result, be treated for all purposes under this Act as the result of the second oral fluid test.
+(6) A person may be required to undergo only 1 further oral fluid test under subsection (1).
+
+### 71D Person has right to elect blood test after 2 positive oral fluid tests
+(1) A person has the right, within 10 minutes of being advised by an enforcement officer of the matters specified in section 77A(3)﻿(a), to elect to have a blood test to assess the proportion of a qualifying drug in the person’s blood if—
+  (a) the person has undergone a first oral fluid test and a second oral fluid test that have produced positive results; and
+  (b) the results of both tests indicate the use of 1 or more of the same qualifying drugs.
+(2) An enforcement officer who advises a person of the matters specified in section 77A(3)﻿(a) must also, without delay, advise the person that if the person elects to have a blood test the person may be liable to pay a blood test fee and associated medical costs if the result of the blood test establishes that the person has committed an offence against section 57A(1), 57B(1), or 57C(1) or an infringement offence against section 57A(2), 57B(2), or 57C(2).
+
+### 71E Person may be required to accompany enforcement officer to undergo blood test
+(1) An enforcement officer may require the following persons to accompany an enforcement officer to a place where it is likely that the person can undergo an evidential blood test when required to do so by the officer:
+  (a) a person who fails or refuses to undergo an oral fluid test without delay after having been required to do so by the officer under any of sections 71A to 71C:
+  (b) a person who has undergone a first oral fluid test and a second oral fluid test that have produced positive results if—
+    (i) the person was the driver of a motor vehicle at the time an accident occurred involving the motor vehicle or an enforcement officer has good cause to suspect that the person was in the motor vehicle at the time of the accident; and
+    (ii) the enforcement officer has good cause to suspect that another person has been injured or killed as a result of the accident:
+  (c) a person who has elected to have a blood test under section 71D:
+  (d) a person who fails to complete a compulsory impairment test in a manner satisfactory to an enforcement officer who is trained to give the test when the person is required to do so by an enforcement officer under section 71F.
+(2) If it is not practicable for a person to undergo a blood test at a place to which the person has accompanied an enforcement officer under subsection (1), an enforcement officer may require the person to accompany the officer to any other place where it is likely that the person can undergo a blood test.
+(3) The person must—
+  (a) accompany the enforcement officer to a place when required to do so under this section:
+  (b) if the person has accompanied an enforcement officer to a place under this section, remain at that place until the person is required to provide a blood specimen for collection under section 72 or 73.
+(4) An enforcement officer may arrest without warrant a person who contravenes subsection (3).
+
+### 71F Who must undergo compulsory impairment test
+(1) An enforcement officer may require any of the following persons to undergo a compulsory impairment test given by an enforcement officer trained to give the test if the enforcement officer has good cause to suspect that the person has consumed a drug or drugs:
+  (a) a driver of, or a person attempting to drive, a motor vehicle on a road:
+  (b) a person who the officer has good cause to suspect has recently committed an offence against this Act that involves the driving of a motor vehicle:
+  (c) if an accident has occurred involving a motor vehicle,—
+    (i) the driver of the vehicle at the time of the accident; or
+    (ii) if the enforcement officer is unable to ascertain who the driver of the motor vehicle was at the time of the accident, a person who the officer has good cause to suspect was in the motor vehicle at the time of the accident.
+(2) An enforcement officer may require a person specified in subsection (1) to—
   (a) remain in the place where stopped, for a period of time that is reasonable in the circumstances, to undergo the compulsory impairment test; or
   (b) accompany an enforcement officer to another place to undergo the compulsory impairment test if it would enhance road safety, personal safety, the person's privacy, or the giving or taking of the test.
-(3) A person who has undergone a compulsory impairment test must remain at the place where the person underwent the test until after the result of the test is ascertained.
+(3) A person who has undergone a compulsory impairment test must remain at the place where the person underwent the test until the result of the test is ascertained.
 (4) An enforcement officer may arrest a person without warrant if the person refuses or fails to comply with subsection (2) or (3).
-(5) An enforcement officer may exercise the powers in subsections (1) and (2) in addition to any breath screening tests under section 68 or evidential breath tests under section 69 and regardless of the outcome of any such tests.
+(5) An enforcement officer may exercise the powers in subsections (1) and (2) in addition to any of the following:
+  (a) any breath screening test, regardless of the result of the test (or a failure of the test to produce a result):
+  (b) any evidential breath test, regardless of the result of the test (or a failure of the test to produce a result):
+  (c) a first oral fluid test that—
+    (i) does not produce a positive result; or
+    (ii) produces a positive result that indicates the use of more than 1 qualifying drug:
+  (d) a second oral fluid test that does not produce a positive result.
+(6) An enforcement officer must not exercise the powers in subsection (1) and (2) in addition to either of the following:
+  (a) a first oral fluid test that produces a positive result that indicates the use of only 1 qualifying drug:
+  (b) a second oral fluid test that produces a positive result.
+
+### 71G Approval of oral fluid tests and oral fluid testing devices
+(1) The Minister of Police may, by notice, approve—
+  (a) a kind of device that may be used as an oral fluid testing device for the purposes of testing oral fluid for the presence of 1 or more specified qualifying drugs:
+  (b) the manner in which an oral fluid test may be carried out by means of an oral fluid testing device.
+(2) Before giving a notice under subsection (1), the Minister of Police must—
+  (a) consult the Minister of Transport and the Science Minister; and
+  (b) have regard to the accuracy of the device; and
+  (c) be satisfied that any device proposed to be approved under subsection (1)﻿(a) and used in a manner proposed to be approved under subsection (1)﻿(b) will return a positive result only if the device detects the presence of a qualifying drug at a level that indicates recent use of a specified qualifying drug.
+(3) In determining for the purposes of subsection (2)﻿(c) whether a device will return a positive result only if the device detects the presence of a qualifying drug at a level that indicates recent use of a specified qualifying drug, the Minister must have regard to any relevant New Zealand Standards or joint Australian/New Zealand Standards.
+(4) A notice made under subsection (1) for the purposes of approving a kind of device or a test—
+  (a) must specify, for each specified qualifying drug, the concentration level of the qualifying drug in the person’s oral fluid at or above which the result of the test will appear positive for that qualifying drug; and
+  (b) may—
+    (i) define an approved device as a device that bears or is associated by its manufacturer with such trade name or number or other expression, or any combination of those things, as may be specified in the notice:
+    (ii) provide for a test, or part of a test, to be carried out in accordance with instructions displayed or printed on or by a specified kind of device.
+(5) In the absence of proof to the contrary, a device is to be treated as bearing or being associated with a particular trade name or number or other expression if that name or number or other expression—
+  (a) appears on the device, whether on a label or otherwise, or is shown on a display panel on the device; or
+  (b) is printed out by the device on a card or on paper; or
+  (c) appears on printed matter that—
+    (i) accompanies the device; and
+    (ii) is associated with the device or is intended by the manufacturer of the device to be associated with the device; and
+    (iii) is issued by or on behalf of the manufacturer.
+(6) In this section, specified qualifying drug means a qualifying drug specified in a notice made under subsection (1).
+(7) A notice made under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+
+**Enforcement procedures involving taking of blood specimens**
 
 ### 72 Who must give blood specimen at places other than hospital or medical centre
 (1) A person must permit a health practitioner or medical officer to take a blood specimen from the person when required to do so by an enforcement officer if—
@@ -2095,13 +2260,19 @@ If this section applies because an exception described in section 65AB(2) applie
   (d) the officer has arrested the person under section 120(1) and has good cause to suspect that the person has committed an offence against any of sections 56 to 62, and either—
     (i) a health practitioner has examined the person and believes that the person may be under the influence of drink or a drug, or both; or
     (ii) the person has refused to be examined by a health practitioner for the purposes of this paragraph; or
-  (e) the person does not complete a compulsory impairment test in a manner satisfactory to an enforcement officer, who is trained to give the test, when required to do so by an enforcement officer under section 71A.
+  (e) the person fails or refuses to undergo without delay an oral fluid test after having been required to do so by an enforcement officer under any of sections 71A to 71C; or
+  (f) the person has undergone a second oral fluid test under section 71B and—
+    (i) it appears to the officer that the test is positive; and
+    (ii) within 10 minutes of being advised by an enforcement officer of the matters specified in section 77A(3)﻿(a) (which sets out the conditions of the admissibility of the test), the person advises the officer that the person wishes to undergo a blood test; or
+  (g) the person has undergone 2 oral fluid tests under any of sections 71A to 71C and the person has accompanied an enforcement officer to a place where the person can undergo an evidential blood test under section 71E(1)﻿(b) or (2); or
+  (h) the person fails to complete a compulsory impairment test in a manner satisfactory to an enforcement officer who is trained to give the test when the person is required to do so by an enforcement officer under section 71F.
 (1AA) Subsection (1)﻿(b) does not apply in the case of a person (other than a person who is apparently younger than 20 or who holds an alcohol interlock licence or a zero alcohol licence) if the result of the evidential breath test under section 69(4) indicates that the proportion of alcohol in the person's breath exceeds 250 micrograms of alcohol per litre of breath but does not exceed 400 micrograms of alcohol per litre of breath.
-(1A) Subsection (1)﻿(e) only applies if an enforcement officer has good cause to suspect that the person has consumed a drug or drugs.
-(1B) Subsection (1)﻿(e) applies regardless of whether the person has failed any breath screening tests under section 68 or evidential breath tests under section 69 and regardless of the outcome of any such tests.
-(1C) An enforcement officer may exercise the powers in subsections (1) and (2) in addition to any breath screening tests under section 68 or evidential breath tests under section 69.
+(1A) Subsection (1)﻿(h) only applies if an enforcement officer has good cause to suspect that the person has consumed a drug or drugs.
+(1B) Subsection (1)﻿(h) applies regardless of whether the person has failed any breath screening tests under section 68, evidential breath tests under section 69, or oral fluid tests under any of sections 71A to 71C and regardless of the outcome of any such tests.
+(1C) An enforcement officer may exercise the powers in subsections (1) and (2) in addition to any breath screening tests under section 68, evidential breath tests under section 69, or oral fluid tests under any of sections 71A to 71C.
 (1D) An enforcement officer who advises a person of the matters specified in section 77(3)﻿(a) (which sets out the conditions of the admissibility of an evidential breath test) must also, without delay, advise the person that if the person elects to have a blood test the person may be liable to pay a blood test fee and associated medical costs, whether or not the result of that blood test establishes that the person has committed an offence against this Act.
-(1E) An enforcement officer who requires a person to permit the taking of a blood specimen under subsection (1)﻿(c), (d), or (e) must advise the person that the person may be liable to pay a blood test fee and associated medical costs, whether or not the result of the blood test establishes that the person has committed an offence against this Act.
+(1E) An enforcement officer who requires a person to permit the taking of a blood specimen under subsection (1)(c) or (d) must advise the person that the person may be liable to pay a blood test fee and associated medical costs, whether or not the result of the blood test establishes that the person has committed an offence against this Act.
+(1F) An enforcement officer who requires a person to permit the taking of a blood specimen under subsection (1)﻿(e), (f), (g), or (h) must advise the person, without delay, that the person may be liable to pay a blood test fee and associated medical costs if the result of the blood test establishes that the person has committed an offence against section 57A(1), 57B(1), or 57C(1) or an infringement offence against section 57A(2), 57B(2), or 57C(2).
 (2) A person who has been required by an enforcement officer under subsection (1) to permit the taking of a blood specimen must, without delay after being requested to do so by a health practitioner or medical officer, permit that practitioner or medical officer to take a blood specimen from that person.
 (3) If it is not practicable for a blood specimen to be taken from a person by a health practitioner or medical officer at a place where the person has been required under this section to permit the taking of a blood specimen, the person must accompany an enforcement officer to any other place where it is likely that a blood specimen can be taken from the person by a health practitioner or medical officer if the officer requires the person to do so.
 (4) If a blood specimen taken under this section is insufficient for the purposes of the relevant blood specimen collecting procedure,—
@@ -2132,8 +2303,11 @@ If this section applies because an exception described in section 65AB(2) applie
 (7) No civil or criminal proceedings may be taken against the Crown, Health New Zealand, or any other person in respect of the taking of a blood specimen under this section, or in respect of the sending of a blood specimen to an approved laboratory, on the ground of lack of consent of a person whose consent to the taking of the blood specimen would have been otherwise required by law if this section had not been enacted.
 (8) Nothing in subsection (7) applies to any proceeding on the ground of any negligent act or omission in the taking of a blood specimen.
 
-### 73A Evidence of controlled drug in blood sample taken under section 72 or 73 may not be used as evidence of use of controlled drugs in prosecutions under Misuse of Drugs Act 1975
-Evidence of a controlled drug in a blood sample taken under section 72 or 73 may not be used as evidence of the use of a controlled drug in a prosecution for an offence under the Misuse of Drugs Act 1975.
+### 73A Purposes for which blood specimen taken under section 72 or 73 may be used as evidence
+(1) Evidence of alcohol or evidence of use of any 1 or more qualifying drugs in a blood specimen taken under section 72 or 73 may be used as evidence in a prosecution for any offence under this Act (see also sections 77(2) and 77A(1), which specify presumptions for the purposes of this Act relating to drug testing and alcohol testing).
+(2) Neither of the following may be used as evidence of the use of a controlled drug in a prosecution for an offence under the Misuse of Drugs Act 1975:
+  (a) a positive result of an oral fluid test taken under any of sections 71A to 71C:
+  (b) a blood specimen taken under section 72 or 73.
 
 ### 74 Procedure for dealing with blood specimens
 (1) A blood specimen taken under section 72 or 73 must be dealt with in accordance with the relevant blood specimen collecting procedure.
@@ -2162,7 +2336,7 @@ Evidence of a controlled drug in a blood sample taken under section 72 or 73 may
 
 **Evidential provisions**
 
-### 75 Certificates in blood-alcohol proceedings
+### 75 Certificates in blood-alcohol and drug-driving proceedings
 (1) Except as provided in section 79, production of a certificate to which this section applies in proceedings for an offence against this Part is sufficient evidence, in the absence of proof to the contrary, of such of the matters as are stated in the certificate and of the sufficiency of the authority and qualifications of the person by whom the certificate is made and, in the case of a certificate referred to in subsection (5), of the person who carried out the analysis.
 (2) This section applies to a certificate purporting to be signed by a health practitioner or medical officer and certifying that—
   (a) a specimen of venous blood was taken by the practitioner or medical officer in accordance with the blood specimen collecting procedure specified in the certificate from a person named in the certificate; and
@@ -2236,6 +2410,20 @@ Evidence of a controlled drug in a blood sample taken under section 72 or 73 may
 (5)
 (6) If it is proved in proceedings for an offence against section 60 that the defendant failed or refused to comply with section 13 without reasonable cause, that failure or refusal may be treated as supporting any evidence given on behalf of the prosecution, or as rebutting any evidence given on behalf of the defendant, concerning the defendant's condition at the time of the alleged offence.
 
+### 77A Presumptions relating to drug testing
+(1) For the purposes of proceedings for an offence against this Act arising out of the circumstances in respect of which a blood specimen was taken from the defendant under section 72 or 73, it is to be conclusively presumed that the proportion of a qualifying drug in the defendant’s blood at the time of the alleged offence was the same as the proportion of the qualifying drug in the blood specimen taken from the defendant.
+(2) For the purposes of proceedings for an infringement offence against section 57A(3), 57B(3), 57C(3), or 57C(4), it is to be presumed in the absence of proof to the contrary that a person’s oral fluid contains a qualifying drug if the results of the first oral fluid test and second oral fluid test undergone by the person indicate use of the drug.
+(3) However, except as provided in subsection (4), the positive results of a first oral fluid test and a second oral fluid test are not admissible in evidence in proceedings for an infringement offence against section 57A(3), 57B(3), 57C(3), or 57C(4) if—
+  (a) the person who underwent the tests is not advised by an enforcement officer, without delay after the result of the second oral fluid test is ascertained,—
+    (i) that the second oral fluid test was positive; and
+    (ii) that the person will be presumed to have committed an infringement offence against this Act if the person does not request a blood test within 10 minutes; or
+  (b) the person who underwent the test—
+    (i) advises an enforcement officer, within 10 minutes of being advised of the matters specified in paragraph (a), that the person wishes to undergo a blood test; and
+    (ii) complies with section 72(2).
+(4) Subsection (3)﻿(a) does not apply if the person who underwent the test fails or refuses to remain at the place where the person underwent the test until the person can be advised of the result of the test.
+(5) The result of an oral fluid test is not admissible in evidence in proceedings for any offence against this Act other than an offence under section 57A(3), 57B(3), 57C(3), or 57C(4).
+(6) If it is proved in proceedings for an offence against section 60 that the defendant failed or refused to comply with section 13 without reasonable cause, that failure or refusal may be treated as supporting any evidence given on behalf of the prosecution, or as rebutting any evidence given on behalf of the defendant, concerning the defendant’s condition at the time of the alleged offence.
+
 ### 78 Presumptions as to age of driver
 If a certificate referred to in section 143 is produced in proceedings for an offence against this Part involving a person who is apparently younger than 20, it is to be presumed, in the absence of proof to the contrary, that the date stated in the certificate as being the date of birth of the person to whom the certificate relates is accurate.
 
@@ -2253,11 +2441,13 @@ If a certificate referred to in section 143 is produced in proceedings for an of
     (i) was not suitable for analysis; or
     (ii) was suitable for analysis but, for specified reasons, that analysis was not carried out; or
     (iii) was suitable for analysis and that analysis was carried out but, for specified reasons, the results of the analysis are not available; or
-  (c) the blood specimen received by the private analyst relating to the defendant has been analysed and found to contain,—
+  (c) the blood specimen received by the private analyst relating to the defendant has been analysed and found to contain, in the case of a certificate that certified the presence of or a specified proportion of alcohol,—
     (i) in the case of a defendant who (at the time of the commission of the offence) was younger than 20 or held an alcohol interlock licence or a zero alcohol licence, no alcohol; or
     (ii) in any other case, not more than 50 milligrams of alcohol per 100 millilitres of blood; or
-  (d) the blood specimen received by the private analyst relating to the defendant has been analysed and found to contain 20 milligrams or more of alcohol per 100 millilitres of blood more or less than the proportion of alcohol per 100 millilitres of blood specified in the certificate referred to in section 75(5); or
-  (e) if a certificate certifies that there is evidence of a qualifying drug, the defendant’s blood specimen has been received and analysed by the private analyst and found to contain no evidence of a qualifying drug.
+  (d) the blood specimen received by the private analyst relating to the defendant has been analysed and found to contain, in the case of a certificate that certified the presence of or a specified proportion of alcohol, 20 milligrams or more of alcohol per 100 millilitres of blood more or less than the proportion of alcohol per 100 millilitres of blood specified in the certificate referred to in section 75(5); or
+  (e) the blood specimen received by the private analyst relating to the defendant has been analysed and found to contain,—
+    (i) if a certificate certified that there is evidence of use of a listed qualifying drug, a blood concentration level equal to or less than the tolerance level for the drug; or
+    (ii) if a certificate certified that there is evidence of use of an unlisted qualifying drug, no presence of the qualifying drug.
 (5) Where a blood specimen is destroyed in accordance with section 74(8), that act does not affect the admissibility in proceedings of a certificate given in respect of the specimen by an approved analyst for the purposes of this Act.
 
 ## Part 6A — Offences relating to transport services and penalties
@@ -2783,14 +2973,23 @@ A defendant who is obliged to pay a traffic fine is liable to the imposition of 
   (aa) an alcohol interlock sentence has been ordered under section 65AC(1); or
   (b) the offender is prohibited from applying for a limited licence under section 103(2)﻿(a), (b), or (d).
 
+**Mandatory prohibition from driving following 2 positive oral fluid tests**
+
+### 94A Mandatory prohibition from driving for 12-hour period if results of 2 oral fluid tests are positive
+(1) An enforcement officer must forbid a person to drive a motor vehicle for a 12-hour period if the person has undergone 2 oral fluid tests and the results of both tests are positive.
+(2) The 12-hour period starts immediately after the enforcement officer notifies the person of the prohibition.
+(3) An enforcement officer may arrest without warrant a person who fails to comply with a direction under subsection (1) or drives or attempts to drive within the 12-hour period.
+
 **Mandatory suspension of driver licence**
 
 ### 95 Mandatory 28-day suspension of driver licence in certain circumstances
 (1) An enforcement officer must give a person a notice under this section if the enforcement officer believes on reasonable grounds that the person has—
   (a) undergone an evidential breath test or blood test under this Act and been found,—
-    (i) for an offence, where the person has previously been convicted of an offence against any of sections 56(1) or (2), 57A, 58(1), 60(1), or 61(1) or (2) within the last 4 years,—
+    (i) for an offence, where the person has previously been convicted of an offence against any of sections 56(1) or (2), 57A(1), 57B(1), 57C(1), 58(1), 60(1), or 61(1) or (2) within the last 4 years,—
       (A) to have a breath alcohol concentration exceeding 400 micrograms of alcohol per litre of breath; or
-      (B) to have a blood alcohol concentration exceeding 80 milligrams of alcohol per 100 millilitres of blood:
+      (B) to have a blood alcohol concentration exceeding 80 milligrams of alcohol per 100 millilitres of blood; or
+      (C) to have a blood concentration level of a listed qualifying drug exceeding the high-risk level for the drug; or
+      (D) to have an unlisted qualifying drug in the person’s blood after the person failed to complete a compulsory impairment test in a manner satisfactory to an enforcement officer who is trained to give the test when the person was required to do so under section 71F:
     (ii) in any other case,—
       (A) to have a breath alcohol concentration exceeding 650 micrograms of alcohol per litre of breath; or
       (B) to have a blood alcohol concentration exceeding 130 milligrams of alcohol per 100 millilitres of blood; or
@@ -2838,12 +3037,12 @@ A defendant who is obliged to pay a traffic fine is liable to the imposition of 
   (b) the person's driver licence is for the time being suspended or was revoked; or
   (ba) in the case of a person who is the holder of an alcohol interlock licence, the person operated that vehicle contrary to the conditions of that licence; or
   (c) in the case of a person who was previously forbidden to drive because the person was an unlicensed driver or his or her driver licence had expired, the person did not hold a driver licence; or
-  (d) the person—
-    (i) had a—
-      (A) breath alcohol concentration exceeding 400 micrograms of alcohol per litre of breath; or
-      (B) blood alcohol concentration exceeding 80 milligrams of alcohol per 100 millilitres of blood; or
-      (C) failed or refused to undergo a blood test, after having been required or requested to do so under section 72 or section 73; and
-    (ii) had received convictions for 2 or more previous offences against any of sections 56(1) or (2), 57, 57AA, 57A, 58(1), 60(1), or 61(1) or (2) within the last 4 years.
+  (d) the person, if they had previously been convicted of 2 or more offences against any of sections 56(1) and (2), 57, 57AA, 57A(1), 57B(1), 57C(1), 58(1), 60(1), and 61(1) and (2) within the last 4 years,—
+    (i) had a breath alcohol concentration exceeding 400 micrograms of alcohol per litre of breath; or
+    (ii) had a blood alcohol concentration exceeding 80 milligrams of alcohol per 100 millilitres of blood; or
+    (iii) had a blood concentration level of a listed qualifying drug exceeding the high-risk level for the drug; or
+    (iv) had any presence of an unlisted qualifying drug in their blood after failing to complete a compulsory impairment test in a manner satisfactory to an enforcement officer who is trained to give the test when the person was required to do so under section 71F; or
+    (v) failed or refused to undergo a blood test, after having been required or requested to do so under section 72 or 73.
 (1AA) An enforcement officer must, if practicable, seize and impound, or seize and authorise the impoundment of, a motor vehicle for 28 days if the officer believes on reasonable grounds that—
   (a) the driver operated the vehicle in a manner that breached a qualifying bylaw; and
   (b) the vehicle is subject to a warning notice attached under section 22AF.
@@ -3088,6 +3287,8 @@ In this Part,—
     (v) section 39(1):
     (vi) section 56(1) or (2):
     (via) section 57A(1):
+    (viaa) section 57B(1):
+    (viab) section 57C(1):
     (vii) section 58(1):
     (viii) section 60(1):
     (ix) section 61(1) or (2):
@@ -3198,7 +3399,7 @@ In this Part,—
   (c) a person who is disqualified from holding or obtaining a driver licence by an order made on his or her conviction for an offence against section 32(1) (which relates to driving while disqualified or contrary to a limited licence):
   (d) a person who is disqualified by an order made on his or her conviction—committed within 5 years after the commission of any other offence specified in this paragraph and arising from a different incident (whether or not both offences are of the same kind, regardless of when convictions were entered for those offences):
     (i) for an offence against any of sections 35, 36, 38, and 39 (which relate to reckless or dangerous driving, careless or inconsiderate driving causing injury or death, and failing to stop after an accident); or
-    (ii) for an offence against any of sections 56, 57A, 58, 60, 61, and 62 (which relate to offences involving alcohol or drugs); or
+    (ii) for an offence against any of sections 56, 57A, 57B, 57C, 58, 60, 61, and 62 (which relate to offences involving alcohol or drugs); or
     (iii) for an offence against section 33(1) (which relates to applying for or obtaining a driver licence while disqualified from doing so); or
     (iv) for an offence against a provision of the Transport Act 1962 that corresponds to an offence specified in any of subparagraphs (i) to (iii)—
   (e) a person who—
@@ -3210,7 +3411,7 @@ In this Part,—
 (1) No order may be made under section 105 that authorises a person to obtain a limited licence before the expiration of 28 days from the date the order of disqualification takes effect if the person is disqualified on conviction—
   (a) for an offence against this Act or the Transport Act 1962 involving driving hours or logbooks; or
   (b) for an offence against any of sections 35, 36, 38, and 39 (which relate to reckless or dangerous driving, careless or inconsiderate driving causing injury or death, and failing to stop after an accident); or
-  (c) for an offence against any of sections 56, 57A, 58, 60, 61, and 62 (which relate to offences involving alcohol or drugs); or
+  (c) for an offence against any of sections 56, 57A, 57B, 57C, 58, 60, 61, and 62 (which relate to offences involving alcohol or drugs); or
   (d) for an offence against section 33(1) (which relates to applying for or obtaining a driver licence while disqualified from doing so); or
   (e) for an offence against section 42 (which relates to insecure loads on vehicles).
 (2) An order may be made under section 105 authorising a person to drive a motor vehicle of a particular class only if the person held a driver licence or endorsement for that class immediately before he or she was disqualified.
@@ -3480,7 +3681,7 @@ An enforceable undertaking takes effect and becomes enforceable when the Directo
     (ii) has also committed or is committing an offence against section 35(1)﻿(a) or section 35(1)﻿(b) (which relate to reckless or dangerous driving offences), or is, or has recently been, driving under the influence of drink or a drug, or both; and
   (b) is freshly pursuing that person.
 (2) The enforcement officer may, without warrant, in the course of the pursuit enter, by force if necessary, any premises which the person has entered, for either or both of the following purposes:
-  (a) determining whether or not a power conferred on an enforcement officer by section 68 or section 69 should be exercised in respect of that person:
+  (a) determining whether or not a power conferred on an enforcement officer by section 68, 69, or 71A should be exercised in respect of that person:
   (b) exercising or completing the exercise of any such power in respect of that person (as if the person were in a motor vehicle on a road).
 (2A) The provisions of Part 4 of the Search and Surveillance Act 2012 (except subpart 3) apply in respect of the power in subsection (2).
 ((3)) An enforcement officer may, without warrant, enter, by force if necessary, a building or place where a vehicle to which section 96, 96A, or 123 applies is being stored or kept, and seize and impound the vehicle,—
@@ -3498,7 +3699,7 @@ An enforceable undertaking takes effect and becomes enforceable when the Directo
 (1) An enforcement officer may arrest a person without warrant if the officer has good cause to suspect that the person—
   (a) has committed an offence against any of sections 58 to 62; or
   (b) has assaulted that or any other enforcement officer while the officer was acting in the course of the officer's official duties.
-(1A) An enforcement officer may arrest a person without warrant if the person does not complete a compulsory impairment test in a manner satisfactory to an enforcement officer, who is trained to give the test, when required to do so by an enforcement officer under section 71A.
+(1A) An enforcement officer may arrest a person without warrant if the person does not complete a compulsory impairment test in a manner satisfactory to an enforcement officer, who is trained to give the test, when required to do so by an enforcement officer under section 71F.
 (2) A person assisting an enforcement officer may arrest without warrant a person referred to in subsection (1)﻿(b).
 (3) A person other than a constable who exercises any power of arrest conferred by this section must, as soon as practicable, deliver the arrested person into the custody of a constable.
 (4) The obligation in subsection (3) does not apply until the completion of the exercise of any powers that may be exercised under this Act in respect of the arrested person or any vehicle driven by that person.
@@ -3509,8 +3710,9 @@ An enforceable undertaking takes effect and becomes enforceable when the Directo
   (a) either—
     (i) a person who is for the time being in charge of a motor vehicle,—
       (A) because of his or her physical or mental condition (however arising), is incapable of having proper control of the vehicle; or
-      (B) has not completed a compulsory impairment test in a manner satisfactory to an enforcement officer, who is trained to give the test, when required to do so by an enforcement officer under section 71A; or
-      (C) has failed or refused to undergo a compulsory impairment test when required to do so under section 71A; or
+      (B) has not completed a compulsory impairment test in a manner satisfactory to an enforcement officer, who is trained to give the test, when required to do so by an enforcement officer under section 71F; or
+      (C) has failed or refused to undergo a compulsory impairment test when required to do so under section 71F; or
+      (D) has failed or refused to permit a blood specimen to be taken when required to do so by an enforcement officer under section 72(1)﻿(a) or (e); or
     (ii) the requirements of any enactment concerning work time or rest time are not being complied with; and
   (b) in all the circumstances, the direction or prohibition or action is necessary in the interests of that person or of any other person or of the public.
 (2) The enforcement officer may—
@@ -4317,6 +4519,7 @@ Without limiting any other method of proof, the production in proceedings of a c
   (mf) providing for any matter necessary to establish, maintain, and operate the register of land transport records established by section 200E:
   (n) providing for such other matters as are contemplated by or necessary for giving full effect to the provisions of this Act and for its due administration.
 (2) The maximum number of demerit points that may be set by regulations made under subsection (1) in respect of any offence—
+  (aaa) is 75 demerit points in the case of an offence against section 57B(2) or (3) or 57C(2), (3), or (4):
   (a) is 60 demerit points in the case of—
     (i) an offence against any of sections 35(1), 36(1), 38(1), and 39(1) (which relate to reckless or dangerous driving, careless or inconsiderate driving causing injury or death, and failing to stop after an accident):
     (ii) an offence against any of sections 56, 57, 57A, 58(1), 60(1), 61(1), 61(2), 62(1), and 62(1B) (which relate to offences involving alcohol or drugs):
@@ -4325,6 +4528,48 @@ Without limiting any other method of proof, the production in proceedings of a c
   (b) is 50 demerit points in the case of any other offence.
 (3) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 (4) Regulations that identify fees or charges as land transport revenue for the purposes of the Land Transport Management Act 2003 must be confirmed by an Act (see subpart 3 of Part 5 of the Legislation Act 2019).
+
+### 167AAA Setting or amending high-risk and tolerance blood concentration levels for drug-driving offences
+(1) The Governor-General may, by Order in Council, in accordance with a recommendation of the Minister and the Minister of Police, amend Schedule 5 by doing any 1 or more of the following:
+  (a) adding the name of a qualifying drug to Part 1 of Schedule 5 and specifying a high-risk level for the drug:
+  (b) adding the name of a qualifying drug to Part 2 of Schedule 5 and specifying a tolerance level for the drug:
+  (c) amending any high-risk level or tolerance level specified in Schedule 5 for a qualifying drug.
+(2) A high-risk level for a qualifying drug—
+  (a) may be specified only if a tolerance level is specified for the drug; and
+  (b) may be the same as the tolerance level for the drug.
+(3) Before making a recommendation under subsection (1), the Ministers must, in respect of each qualifying drug referred to in the proposed order,—
+  (a) seek and consider independent advice from independent experts appointed under section 167AAB on—
+    (i) the specific effects of each drug referred to in the proposed order; and
+    (ii) the appropriate high-risk level for each drug referred to in any proposed amendment to Part 1 of Schedule 5; and
+    (iii) the appropriate tolerance level for each drug referred to in any proposed amendment to Part 2 of Schedule 5; and
+  (b) publish a notice in the Gazette and any other media the Ministers consider appropriate of their intention to recommend the making of the Order in Council; and
+  (c) give interested persons a reasonable time, which must be specified in the notice published under paragraph (b), to make submissions on the proposed order; and
+  (d) consult the persons, representative groups, government departments, and Crown entities that the Ministers consider reasonable and appropriate to consult in the circumstances.
+(4) The Minister may seek and consider independent advice from independent experts appointed under section 167AAB on any other matter the Minister considers appropriate before making a recommendation under subsection (1).
+(5) The Governor-General may, by Order in Council, amend the name or description of any qualifying drug named or described in Schedule 5, if the amendment is necessary for the purpose of rendering that name or description consistent with the name or description of the qualifying drug in the Misuse of Drugs Act 1975.
+(6) An Order in Council made under this section—
+  (a) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements); and
+  (b) if made under subsection (1), must be confirmed by an Act (see subpart 3 of Part 5 of the Legislation Act 2019).
+
+### 167AAB Ministers may appoint independent experts for purposes of section 167AAA
+(1) The Minister of Transport, the Minister of Police, and the Science Minister (the Ministers) may from time to time appoint 1 or more independent experts to advise the Ministers on matters relating to setting and amending high-risk blood concentration levels and tolerance blood concentration levels for qualifying drugs under section 167AAA.
+(2) The independent experts appointed under subsection (1) must together have appropriate expertise in relevant medical and scientific fields, including pharmacology and toxicology.
+(3) The function of the independent experts is—
+  (a) to carry out medical and scientific evaluations of qualifying drugs; and
+  (b) to advise the Ministers on—
+    (i) the specific effects of qualifying drugs, including the pharmacological, psychoactive, and toxicological effects; and
+    (ii) the appropriate high-risk levels and tolerance levels for qualifying drugs in accordance with subsections (4) and (5).
+(4) In advising the Ministers on the appropriate high-risk level for a qualifying drug, the independent experts must take into account—
+  (a) the specific effects of the qualifying drug and the medical and scientific evaluations of the drug carried out under subsection (3)﻿(a); and
+  (b) that the high-risk level specified for a qualifying drug should, as far as practicable, be a blood concentration level that, to the best of the independent experts’ knowledge, is likely to impair a person’s driving; and
+  (c) the high-risk levels specified, at the time of advising the Ministers, in Part 1 of Schedule 5 for other listed qualifying drugs and, in particular (where possible), for drugs with similar effects.
+(5) In advising the Ministers on the appropriate tolerance level for a qualifying drug, the independent experts must take into account—
+  (a) the specific effects of the qualifying drug and the medical and scientific evaluations of the drug carried out under subsection (3)﻿(a); and
+  (b) that the tolerance level specified for a qualifying drug should, as far as practicable, be a blood concentration level that, to the best of the independent experts’ knowledge,—
+    (i) is likely to indicate that a person has recently used the drug; and
+    (ii) is unlikely to be exceeded if the person has such a low level of the drug in their blood (whether due to passive exposure or otherwise) that their driving is unlikely to be impaired; and
+  (c) for a qualifying drug that is a prescription medicine, the maximum dose of the prescription medicine that is generally prescribed; and
+  (d) the tolerance levels specified, at the time of advising the Ministers, in Part 2 of Schedule 5 for other listed qualifying drugs and, in particular (where possible), for drugs with similar effects.
 
 ### 167A Regulations imposing fees and charges for purposes of clean vehicle discount scheme
 (1) Without limiting the generality of section 167(1)﻿(j), regulations for the purpose of promoting the transition of New Zealand’s light vehicle fleet to zero- and low-emission vehicles and reducing vehicle carbon dioxide emissions may be made under that provision providing for fees and charges to be paid in relation to the carbon dioxide emissions of imported new and used light vehicles.
@@ -5191,22 +5436,25 @@ For the purposes of issuing an infringement notice under section 139, the Agency
 ### 209 Taking of blood specimens for statistical or research purposes
 (1) Despite anything in any Act or rule of law, a health practitioner or medical officer employed by an approved health authority—
   (a) may, with the general or special approval of that health authority, take for statistical or research purposes, whether in the hospital at which the practitioner or officer is employed or otherwise, a blood specimen from a person who the practitioner or officer believes is in the hospital at which the practitioner or officer is employed for examination, care, or treatment as a result of an accident involving a motor vehicle:
-  (b) may, with the consent of a person from whom such a blood specimen may be taken under this subsection, take for such purposes a specimen of breath, saliva, urine, perspiration, or eye vapour from that person.
-(2) A blood, breath, saliva, urine, perspiration, or eye vapour specimen taken under this section must be labelled that it was taken for statistical or research purposes, and evidence as to the proportion of alcohol or of a drug found in that specimen is not admissible in any civil or criminal proceedings in any court or in proceedings before a person acting judicially.
+  (b) may, with the consent of a person from whom such a blood specimen may be taken under this subsection, take for such purposes a specimen of breath, oral fluid, urine, perspiration, or eye vapour from that person.
+(2) A blood, breath, oral fluid, urine, perspiration, or eye vapour specimen taken under this section must be labelled that it was taken for statistical or research purposes, and evidence as to the proportion of alcohol or of a drug found in that specimen is not admissible in any civil or criminal proceedings in any court or in proceedings before a person acting judicially.
 (2A)
 (2B)
 (2C)
-(3) Subsections (5) and (6) of section 73 apply to every blood, breath, saliva, urine, perspiration, or eye vapour specimen taken under this section as if the specimen had been taken under that section.
+(3) Subsections (5) and (6) of section 73 apply to every blood, breath, oral fluid, urine, perspiration, or eye vapour specimen taken under this section as if the specimen had been taken under that section.
 (4) For the purposes of this section, a person acting judicially means any person having in New Zealand by law authority to hear, receive, and examine evidence.
 
 ### 209AA Expiry and repeal of section 209(2A) to (2C)
 Subsections (2A) to (2C) of section 209 expire and are repealed with the close of a date to be appointed by the Governor-General by Order in Council.
 
-### 209A Analysing blood specimens for statistical or research purposes related to use of drugs or alcohol
-(1) Without limiting the purposes for which a blood specimen may be analysed or re-analysed under this Act, a person may, for statistical or research purposes related to the use of drugs or alcohol, analyse or re-analyse in an approved laboratory a blood specimen from a person taken under section 72 or 73.
+### 209A Analysing oral fluid or blood specimens for statistical or research purposes related to use of drugs or alcohol
+(1) A person may, for statistical or research purposes related to the use of drugs or alcohol, analyse or re-analyse in an approved laboratory—
+  (a) an oral fluid sample taken from a person under any of sections 71A to 71C:
+  (b) a blood specimen from a person taken under section 72 or 73.
 (2) Subsection (1) applies to any blood specimen taken under this Act before, during, or after it comes into force.
-(3) No analysis of a blood specimen under subsection (1) may be used as evidence in any proceedings for an offence.
-(4) A blood specimen analysed or re-analysed under subsection (1) must be treated in a manner that does not identify the person from whom the blood specimen is taken.
+(3) No analysis of an oral fluid sample or a blood specimen under subsection (1) may be used as evidence in any proceedings for an offence.
+(4) An oral fluid sample or a blood specimen analysed or re-analysed under subsection (1) must be treated in a manner that does not identify the person from whom the oral fluid sample or blood specimen is taken.
+(5) Nothing in this section limits the purposes for which an oral fluid sample or a blood specimen may be analysed or re-analysed under this Act.
 
 ### 210 Service of notices
 (1) A notice required to be given to a person for the purposes of this Act, or a request in writing under section 118, may be given or made by causing it to be delivered to that person, or to be left at the person's usual or last known place of residence or business or at the address specified by the person in any application or other document under this Act or the Transport (Vehicle and Driver Registration and Licensing) Act 1986, or to be posted in a letter addressed to the person at that place of residence or business or address.
@@ -6081,6 +6329,37 @@ In this Part, amendment Act means the Land Transport (Clean Vehicles) Amendment 
 ### 23 Deferred date for transfer of credits under section 184
 Despite sections 180(1) and (2) and 184(1) and (2), a light vehicle importer may not transfer carbon dioxide credits in their carbon dioxide account to the carbon dioxide account of another light vehicle importer before 1 June 2023.
 
+### Part 6 — Provision relating to Land Transport (Drug Driving) Amendment Act 2022
+
+### 24 Review of amendments made by Land Transport (Drug Driving) Amendment Act 2022
+(1) The Minister must appoint a reviewer to undertake a review of the amendments made by the Land Transport (Drug Driving) Amendment Act 2022—
+  (a) no earlier than 3 years after the commencement of that Act; and
+  (b) no later than 4 years after the commencement of that Act.
+(2) The Minister must ensure that the reviewer appointed under subclause (1) is independent of the—
+  (a) New Zealand Police; and
+  (b) Ministry of Transport.
+(3) The review undertaken under subclause (1) must, subject to clause 25, consider—
+  (a) the impact of the amendments; and
+  (b) the reliability of oral fluid tests and blood tests in assessing a person’s impairment; and
+  (c) whether appropriate thresholds and impairment levels have been set for different drugs; and
+  (d) whether the amendments have been appropriately implemented by the New Zealand Police and other relevant entities; and
+  (e) whether the amendments have had a disproportionate impact on Māori and Pasifika people; and
+  (f) the extent to which, if it can be assessed, the number of people driving while impaired by drugs has changed since the amendments came into force; and
+  (g) whether—
+    (i) further amendments should be considered:
+    (ii) any of the amendments should be repealed; and
+  (h) any other matter that the Minister requests the reviewer examine; and
+  (i) any other matter that the reviewer considers relevant.
+(4) The reviewer must provide the review to the Minister within 12 months of the date of the reviewer’s appointment under subclause (1).
+(5) The Minister must, within 60 working days of the day the review is provided to the Minister under subclause (4), present to the House of Representatives—
+  (a) the review; and
+  (b) a response to the review.
+
+### 25 Order for review to not consider matters
+(1) The Governor-General may, by Order in Council, on the advice of the Minister, require that the review undertaken under clause 24 not consider 1 or more of the matters identified in clause 24(3).
+(2) Before advising the Governor-General to make an Order in Council under subclause (1), the Minister must present a paper to the House of Representatives explaining the reasons why, in the Minister’s view, the review should not consider the matters identified in the Order in Council.
+(3) An Order in Council made under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+
 ## Schedule 1 — Provisions concerning Land Transport Safety Authority of New Zealand
 
 ## Schedule 2 — Enactments repealed
@@ -6088,6 +6367,68 @@ Despite sections 180(1) and (2) and 184(1) and (2), a light vehicle importer may
 ## Schedule 3 — Enactments amended
 
 ## Schedule 4 — New Parts 1, 2, 5, 7, 8, 9, and 10 substituted in Schedule 2 of Transport Act 1962
+
+## Schedule 5 — Blood concentration levels for offences related to drug driving
+
+### Part 1 — High-risk blood concentration levels for drug-driving offences
+
+| Qualifying drug | High-risk level (ng/ml) |
+| --- | --- |
+| Alprazolam | 50 |
+| Amphetamine | 100 |
+| Buprenorphine | 1 |
+| Clonazepam | 50 |
+| Cocaine | 20 |
+| Codeine | 200 |
+| Diazepam | 200 |
+| Dihydrocodeine | 200 |
+| Fentanyl | 0.5 |
+| GHB | 50,000 |
+| Ketamine | 50 |
+| Lorazepam | 30 |
+| MDMA | 50 |
+| Methadone | 200 |
+| Methamphetamine | 50 |
+| Midazolam | 30 |
+| Morphine | 20 |
+| Nitrazepam | 50 |
+| Oxazepam | 800 |
+| Oxycodone | 50 |
+| Temazepam | 800 |
+| THC (cannabis) | 3 |
+| Tramadol | 250 |
+| Triazolam | 4 |
+| Zopiclone | 50 |
+
+### Part 2 — Tolerance blood concentration levels for drug-driving offences
+
+| Qualifying drug | Tolerance level (ng/ml) |
+| --- | --- |
+| Alprazolam | 20 |
+| Amphetamine | 20 |
+| Buprenorphine | 1 |
+| Clonazepam | 20 |
+| Cocaine | 5 |
+| Codeine | 50 |
+| Diazepam | 100 |
+| Dihydrocodeine | 50 |
+| Fentanyl | 0.5 |
+| GHB | 10,000 |
+| Ketamine | 10 |
+| Lorazepam | 10 |
+| MDMA | 10 |
+| Methadone | 50 |
+| Methamphetamine | 10 |
+| Midazolam | 10 |
+| Morphine | 10 |
+| Nitrazepam | 20 |
+| Oxazepam | 200 |
+| Oxycodone | 20 |
+| Temazepam | 200 |
+| THC (cannabis) | 1 |
+| Tramadol | 100 |
+| Triazolam | 4 |
+| Zopiclone | 20 |
 
 ### 1 Title
 This Act is the Land Transport (Enforcement Powers) Amendment Act 2009.
