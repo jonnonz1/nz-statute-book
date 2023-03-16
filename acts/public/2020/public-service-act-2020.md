@@ -1,5 +1,5 @@
 # Public Service Act 2020
-_Consolidation as at 2022-09-08_
+_Consolidation as at 2023-03-16_
 
 ### 1 Title
 This Act is the Public Service Act 2020.
@@ -1480,6 +1480,7 @@ A request to the Commissioner under clause 17 must contain sufficient informatio
 
 | Functional chief executive | Host department |
 | --- | --- |
+| Chief Executive, Cyclone Recovery | Department of the Prime Minister and Cabinet |
 
 ## Schedule 6 — Other functions and powers of public service chief executives
 
