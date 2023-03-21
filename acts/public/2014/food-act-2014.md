@@ -1,5 +1,5 @@
 # Food Act 2014
-_Consolidation as at 2022-12-20_
+_Consolidation as at 2023-03-21_
 
 ### 1 Title
 This Act is the Food Act 2014.
@@ -5501,6 +5501,33 @@ In this schedule, unless the context otherwise requires,—
 ### 3 Renewal of registration
 (1) A registration may be renewed by paying the prescribed fee (if any) to the proper authority at any time during the period that the registration is effective.
 (2) On payment of the prescribed fee, the proper authority may renew the registration for a further period determined by the proper authority unless the proper authority is satisfied that any 1 or more of the criteria specified in section 56 or 86(b) or, as the case may be, section 116 are no longer being met.
+
+### 3A Renewal of affected registrations that expire during, or within specified period after, severe weather event
+(1) In this clause,—
+  - **affected food business** means a food business located wholly or partly in any of the following regions or districts impacted by a severe weather event:
+    (a) the regions of Northland, Auckland, Waikato, Bay of Plenty, Gisborne, and Hawke’s Bay:
+    (b) the districts of Tararua, Masterton, Carterton, and South Wairarapa
+  - **affected registration** means a registration—
+    (a) of—
+      (i) a food control plan that applies to 1 or more affected food businesses; or
+      (ii) an affected food business that is subject to a national programme; and
+    (b) that expires at any time during the specified period
+  - **severe weather event** means any of the following weather events:
+    (a) Cyclone Hale, which crossed the North Island during the period commencing on 8 January 2023 and ending on 12 January 2023:
+    (b) heavy rainfall commencing on 26 January 2023 and ending on 3 February 2023 in the Northland, Auckland, Waikato, and Bay of Plenty regions:
+    (c) Cyclone Gabrielle, which crossed the North Island during the period commencing on 12 February 2023 and ending on 16 February 2023
+  - **specified period** means the period—
+    (a) commencing on 8 January 2023; and
+    (b) ending on the close of 16 May 2023.
+(2) Despite clause 3, an affected registration may be renewed under this clause—
+  (a) after the expiry of the period during which the affected registration is effective; and
+  (b) whether the expiry occurs before, on, or after the date on which this clause comes into force.
+(3) An affected registration may be renewed by paying the prescribed fee to the proper authority at any time during the specified period.
+(4) On payment of the prescribed fee, the proper authority may renew the affected registration for a further period determined by the proper authority, if the proper authority is satisfied that all of the criteria specified in section 56 or 86(b), as the case may be, are continuing to be met.
+(5) A person may operate an affected food business without the renewal of an affected registration—
+  (a) during the specified period; and
+  (b) after the expiry of the specified period until the date on which the person is notified whether the registration has been renewed, if the prescribed fee for the renewal was paid before the expiry of that period.
+(6) This clause is repealed at the close of 30 June 2023.
 
 ### 3A Renewal of registrations that expire during, or in 4 weeks after, COVID-19 lockdown period
 [Repealed]
