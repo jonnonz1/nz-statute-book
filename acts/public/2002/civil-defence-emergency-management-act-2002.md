@@ -1,5 +1,5 @@
 # Civil Defence Emergency Management Act 2002
-_Consolidation as at 2022-07-01_
+_Consolidation as at 2023-03-21_
 
 ### 1 Title
 This Act is the Civil Defence Emergency Management Act 2002.
@@ -369,6 +369,14 @@ Each member of a Civil Defence Emergency Management Group—
 (3) A Group Controller or person directed under section 27 may authorise any suitably qualified and experienced person to perform any function or duty or exercise any power of that Group Controller or directed person, including the power to authorise the use of those powers, functions, and duties.
 (4) No Group Controller or person directed under section 27 may exercise any power conferred on Controllers by this Act during any state of national emergency in any manner contrary to any priorities for the use of resources and services that have been determined by the Director or National Controller.
 
+### 28A Application of temporary provision in Part 1 of Schedule 3
+(1) The temporary provision set out in Part 1 of Schedule 3 applies during the period—
+  (a) commencing on the day on which this section comes into force; and
+  (b) ending on the close of 30 September 2024.
+(2) While the temporary provision applies, clause 1 of Schedule 3 replaces section 28.
+(3) During the application of the temporary provision, a cross-reference in this Act or any other enactment to section 28, or including section 28, is to be treated as a cross-reference to, or including, clause 1 of Schedule 3.
+(4) This section and Part 1 of Schedule 3 are repealed on the close of 1 October 2024.
+
 **Group Recovery Managers and Local Recovery Managers**
 
 ### 29 Appointment of Group Recovery Managers
@@ -389,6 +397,14 @@ Each member of a Civil Defence Emergency Management Group—
 (3) A Group Recovery Manager or a Local Recovery Manager may authorise any suitably qualified and experienced person to perform any function or duty or exercise any power of that Group Recovery Manager or Local Recovery Manager, except the power to authorise another person to perform those functions and duties or to exercise those powers.
 (4) A Group Recovery Manager or Local Recovery Manager who authorises a person under subsection (3) to perform a function or duty or to exercise a power remains responsible and accountable under this Act for the performance of the function or duty or the exercise of the power.
 (5) No Group Recovery Manager or Local Recovery Manager, and no person performing the functions or duties or exercising the powers of a Group Recovery Manager or Local Recovery Manager, may exercise any power conferred on Group Recovery Managers by this Act during any national transition period in any manner contrary to any priorities for the use of resources and services that have been determined by the Director or National Recovery Manager.
+
+### 30B Application of temporary provision in Part 2 of Schedule 3
+(1) The temporary provision set out in Part 2 of Schedule 3 applies during the period—
+  (a) commencing on the day on which this section comes into force; and
+  (b) ending on the close of 30 September 2024.
+(2) While the temporary provision applies, clause 2 of Schedule 3 replaces section 30A.
+(3) During the application of this temporary provision, a cross-reference in this Act or any other enactment to section 30A, or including section 30A, is to be treated as a cross-reference to, or including, clause 2 of Schedule 3.
+(4) This section and Part 2 of Schedule 3 are repealed on the close of 1 October 2024.
 
 ## Part 3 — Civil defence emergency management planning and civil defence emergency management duties
 
@@ -748,6 +764,16 @@ Emergency services must—
 (2) The validity of a declaration made under subsection (1) is not affected by the inclusion in it of any additional information not specified in the appropriate prescribed form.
 (3) A person who makes a declaration in accordance with subsection (1) must immediately give notice to the public of the declaration by any means of communication that are reasonably practicable in the circumstances of the case, and must ensure that the declaration is published in the Gazette as soon as practicable.
 
+### 73A Application of temporary provisions in Part 3 of Schedule 3
+(1) The temporary provisions set out in Part 3 of Schedule 3 apply during the period—
+  (a) commencing on the day on which this section comes into force; and
+  (b) ending on the close of 30 September 2024.
+(2) The temporary provisions have the following effect while they apply:
+  (a) clause 3 of Schedule 3 replaces section 66:
+  (b) clause 4 of Schedule 3 replaces section 68.
+(3) During the application of the temporary provisions, a cross-reference in this Act or any other enactment to a replaced provision, or including a replaced provision, is to be treated as a cross-reference to, or including, the corresponding replacement provision.
+(4) This section and Part 3 of Schedule 3 are repealed on the close of 1 October 2024.
+
 ## Part 5 — Powers in relation to civil defence emergency management
 
 ### 74 Statements by Director
@@ -1038,6 +1064,17 @@ A person exercising a power conferred on him or her by this Part must—
     (i) in 1 or more newspapers circulating in the areas, districts, or wards to which the notice relates; and
     (ii) on an Internet site to which the public has free access; and
   (b) ensure that the notice or extension is published in the Gazette as soon as practicable.
+
+### 94FA Application of temporary provisions in Part 4 of Schedule 3
+(1) The temporary provisions set out in Part 4 of Schedule 3 apply during the period—
+  (a) commencing on the day on which this section comes into force; and
+  (b) ending on the close of 30 September 2024.
+(2) The temporary provisions have the following effect while they apply:
+  (a) clause 5 of Schedule 3 replaces section 94A:
+  (b) clause 6 of Schedule 3 replaces section 94B:
+  (c) clause 7 of Schedule 3 replaces section 94E.
+(3) During the application of the temporary provisions, a cross-reference in this Act or any other enactment to a replaced provision, or including a replaced provision, is to be treated as a cross-reference to, or including, the corresponding replacement provision.
+(4) This section and Part 4 of Schedule 3 are repealed on the close of 1 October 2024.
 
 ## Part 5B — Powers in relation to transition periods
 
@@ -1440,3 +1477,106 @@ An entity that produces, processes, or distributes to retail outlets and bulk cu
 An entity that provides a rail network or service.
 
 ## Schedule 2 — Acts amended
+
+## Schedule 3 — Temporary Provisions
+
+### Part 1 — Temporary provision relating to functions of Group Controllers
+
+### 1 Functions of Group Controllers
+(1) A Group Controller must, during a state of local emergency for the area for which the Group Controller is appointed, direct and co-ordinate, for the purposes of this Act, the use of the personnel, material, information, services, and other resources made available by departments, Civil Defence Emergency Management Groups, and other persons.
+(2) The Group Controller must also perform any functions or duties delegated to the Group Controller by the Civil Defence Emergency Management Group or conferred on Controllers by this Act or any other enactment, and may exercise any power conferred on the Group Controller by delegation under this Act.
+(3) A Group Controller or person directed under section 27 may authorise any suitably qualified and experienced person to perform any function or duty or exercise any power of that Group Controller or directed person, including the power to authorise the exercise or performance of those powers, functions, and duties.
+(4) No Group Controller or person directed under section 27 may exercise any power conferred on Controllers by this Act during any state of national emergency (whether or not the state of national emergency is in force at the same time as a state of local emergency for another emergency in the same area) in any manner contrary to any priorities for the use of resources and services that have been determined by the Director or National Controller.
+(5) No Group Controller or person directed under section 27 may exercise any power conferred on Controllers by this Act during any state of local emergency that is in force at the same time as a national transition period for another emergency in the same area in any manner contrary to any priorities for the use of resources and services that have been determined by the Director or National Recovery Manager.
+
+### Part 2 — Functions of Recovery Managers
+
+### 2 Functions of Recovery Managers
+(1) A Group Recovery Manager must, during a local transition period for the area for which the Group Recovery Manager is appointed, direct and co-ordinate the use of the personnel, material, information, services, and other resources made available by departments, Civil Defence Emergency Management Groups, and other persons for the purpose of carrying out recovery activities.
+(2) The Group Recovery Manager must also perform any functions or duties delegated to the Group Recovery Manager by the Civil Defence Emergency Management Group or conferred on Group Recovery Managers by this Act or any other enactment, and may exercise any power conferred on the Group Recovery Manager by delegation under this Act.
+(3) A Group Recovery Manager or a Local Recovery Manager may authorise any suitably qualified and experienced person to perform any function or duty or exercise any power of that Group Recovery Manager or Local Recovery Manager, except the power to authorise another person to perform those functions and duties or to exercise those powers.
+(4) A Group Recovery Manager or Local Recovery Manager who authorises a person under subclause (3) to perform a function or duty or to exercise a power remains responsible and accountable under this Act for the performance of the function or duty or the exercise of the power.
+(5) No Group Recovery Manager or Local Recovery Manager, and no person performing the functions or duties or exercising the powers of a Group Recovery Manager or Local Recovery Manager, may exercise any power conferred on Group Recovery Managers by this Act during any national transition period (whether or not the national transition period is in force at the same time as a local transition period for another emergency in the same area) in any manner contrary to any priorities for the use of resources and services that have been determined by the Director or National Recovery Manager.
+(6) No Group Recovery Manager or Local Recovery Manager, and no person performing the functions or duties or exercising the powers of a Group Recovery Manager or Local Recovery Manager, may exercise any power conferred on Group Recovery Managers by this Act during any state of national emergency that is in force at the same time as a local transition period for another emergency in the same area in any manner contrary to any priorities for the use of resources and services that have been determined by the Director or National Controller.
+
+### Part 3 — Temporary provisions relating to declarations of state of emergency
+
+### 3 Minister may declare state of national emergency
+(1) The Minister may declare that a state of national emergency exists over the whole of New Zealand or any areas or districts if at any time it appears to the Minister that—
+  (a) an emergency has occurred or may occur; and
+  (b) the emergency is, or is likely to be, of such extent, magnitude, or severity that the civil defence emergency management necessary or desirable in respect of it is, or is likely to be, beyond the resources of the Civil Defence Emergency Management Groups whose areas may be affected by the emergency.
+(2) The Minister must advise the House of Representatives as soon as practicable where a state of national emergency has been declared or extended.
+(3) A state of national emergency may be declared for any area or district while there is in force in that area or district, in relation to another emergency,—
+  (a) any other state of emergency; or
+  (b) a national transition period.
+
+### 4 Declaration of state of local emergency
+(1) A person appointed for the purpose under section 25 may declare that a state of local emergency exists in the area for which the person is appointed if at any time it appears to the person that an emergency has occurred or may occur within the area.
+(2) A person who is authorised to declare a state of local emergency may declare that the state of local emergency exists in respect of the whole area of the Civil Defence Emergency Management Group concerned or 1 or more districts or wards within the area.
+(3) If an authorised person declares a state of local emergency for—
+  (a) the whole area of a Civil Defence Emergency Management Group, then any other state of local emergency already in force for 1 or more districts or wards within the area ceases to have effect:
+  (b) a district within the area of a Civil Defence Emergency Management Group, then any other state of local emergency already in force for 1 or more wards within the district ceases to have effect.
+(4) A state of local emergency may be declared in respect of an area that is not affected by an emergency if, in the opinion of any person authorised to declare a state of local emergency in respect of that area, the resources of that area are needed to assist any other area where a state of local emergency is in force.
+(5) The fact that a person purporting to be authorised by section 25 declares a state of local emergency is, in the absence of proof to the contrary, conclusive evidence that the person is authorised under that section to do so.
+(6) A state of local emergency may be declared under this section for any area while there is in force in that area, in relation to another emergency,—
+  (a) a state of national emergency; or
+  (b) a transition period.
+(7) Nothing in this clause authorises a state of local emergency to be declared for COVID-19 without the prior approval of the Minister, but this subclause does not prevent a state of local emergency being declared for any purpose that is not related to COVID-19.
+
+### Part 4 — Temporary provisions relating to transition periods
+
+### 5 Minister may give notice of national transition period
+(1) After a state of emergency has been declared for any area, or after an emergency arises for which a state of emergency has not been declared, the Minister may give notice of a national transition period over the whole of New Zealand or any areas or districts if it appears to the Minister that a national transition period is required.
+(2) Without limiting subclause (1), the Minister must be satisfied that invoking the powers to manage, co-ordinate, or direct recovery activities is—
+  (a) in the public interest; and
+  (b) necessary or desirable to ensure a timely and effective recovery.
+(3) In deciding whether a national transition period is required, the Minister must have regard to—
+  (a) the areas or districts affected by the emergency; and
+  (b) whether the focus of activities in any area or district is moving from response to recovery, including whether a state of emergency is about to expire or be terminated; and
+  (c) the capacity of any Civil Defence Emergency Management Group and any local authority in any area or district affected by the emergency to carry out recovery activities.
+(4) If the Minister gives notice of a national transition period,—
+  (a) the Minister must advise the House of Representatives as soon as practicable; and
+  (b) any other transition period for the same emergency then in force in any area or district to which the national transition period applies ceases to have effect; and
+  (c) any state of emergency or local transition period for another emergency in the area or district to which the national transition period applies continues in force.
+
+### 6 Notice of local transition period
+(1) A person who is authorised to give notice of a local transition period by being appointed for the purpose under section 25(1)﻿(b) or otherwise authorised by section 25(4) or (5) may, after a state of emergency has been declared for the area of the Civil Defence Emergency Management Group concerned, give notice of a local transition period for the area of the Civil Defence Management Group concerned, or for 1 or more districts or wards within the area, if it appears to the person that a local transition period is required.
+(2) After an emergency arises, for which a state of emergency has not been declared, a person who is appointed or otherwise authorised under section 25 to give notice of a local transition period may do so in accordance with subclause (1) with the approval of the Minister.
+(3) After a state of emergency has been declared for the area of a Civil Defence Emergency Management Group, or after an emergency arises for which a state of emergency has not been declared, the Minister may give notice of a local transition period for the area or for 1 or more districts or wards within the area if—
+  (a) it appears to the Minister that a local transition period is required for the whole or any part of the area; and
+  (b) notice of a local transition period has not been given under subclause (1).
+(4) Without limiting subclauses (1) to (3), the Minister or the appointed or otherwise authorised person must not give notice of a local transition period unless satisfied that invoking the powers to manage, co-ordinate, or direct recovery activities is—
+  (a) in the public interest; and
+  (b) necessary or desirable to ensure a timely and effective recovery.
+(5) In deciding whether a local transition period is required, the Minister or the appointed or otherwise authorised person must have regard to—
+  (a) the areas, districts, or wards affected by the emergency; and
+  (b) whether the focus of activities in any area, district, or ward is moving from response to recovery, including whether a state of emergency is about to expire or be terminated.
+(6) The Minister must also have regard to the capacity of any Civil Defence Emergency Management Group and any local authority in any area, district, or ward affected by the emergency to carry out recovery activities.
+(7) Before giving notice under subclause (3), the Minister must, in a manner the Minister considers appropriate, seek and consider comment from any affected Civil Defence Emergency Management Group and the mayor of any affected local authority, unless—
+  (a) it is impracticable in the circumstances to do so; or
+  (b) in the opinion of the Minister, the urgency of the situation requires the notice of transition to be given immediately.
+(8) If notice of a local transition period is given under this clause over—
+  (a) the whole area of a Civil Defence Emergency Management Group, any other local transition period already in force for 1 or more districts or wards within the area ceases to have effect:
+  (b) a district within the area of a Civil Defence Emergency Management Group, any other local transition period already in force for 1 or more wards within the district ceases to have effect.
+(9) After notice of a local transition period has been given for an area (the first area) in accordance with subclauses (1) to (3), a further notice of a local transition period may be given, in accordance with those subclauses, for another district or ward in the area of the relevant Civil Defence Emergency Management Group that is not affected by an emergency if it appears to the person giving notice that the resources of that other district or ward are needed to assist the first area.
+(10) The fact that a person purporting to be authorised under section 25 gives notice of a local transition period is, in the absence of proof to the contrary, conclusive evidence that the person is authorised to do so.
+(11) However, nothing in this clause authorises notice of a local transition period to be given for any part of New Zealand while a national transition period for the same emergency is in force for that part.
+(12) Notice of a local transition period may be given for any part of New Zealand while there is in force in respect of the part, in relation to another emergency in that part,—
+  (a) a state of national emergency; or
+  (b) a national transition period.
+(13) Nothing in this clause authorises notice of a local transition period to be given for any part of New Zealand for COVID-19 without the prior approval of the Minister, but this subclause does not prevent notice of a local transition period being given for any other purpose.
+
+### 7 Termination of transition periods
+(1) The Minister may by notice terminate a national transition period.
+(2) The person who gave notice of a local transition period (or the Minister or another person appointed or otherwise authorised to give that notice) may by notice terminate the local transition period.
+(3) A notice terminating a transition period terminates the relevant transition period when given.
+(4) Before giving notice under subclause (2), the Minister must, in a manner the Minister considers appropriate, seek and consider comment from any affected Civil Defence Emergency Management Group and the mayor of any affected local authority, unless—
+  (a) it is impracticable in the circumstances to do so; or
+  (b) in the opinion of the Minister, the urgency of the situation requires the notice of termination to be given immediately.
+(5) A notice terminating a transition period must—
+  (a) specify the time and date on which it is given; and
+  (b) specify the areas, districts, or wards to which the transition period applies; and
+  (c) be in the form prescribed by regulations made under section 115 or a form of similar effect.
+(6) A person who terminates a transition period must—
+  (a) immediately notify the public by any means of communication that are reasonably practicable in the circumstances of the case; and
+  (b) ensure that the notice of termination is published in the Gazette as soon as practicable after it is given.
