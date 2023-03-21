@@ -1,5 +1,5 @@
 # Resource Management Act 1991
-_Consolidation as at 2022-12-17_
+_Consolidation as at 2023-03-21_
 
 > An Act to restate and reform the law relating to the use of land, air, and water
 
@@ -9492,6 +9492,18 @@ Every abatement notice shall be in the prescribed form and shall state—
 
 **Emergency works**
 
+### 329A Interpretation
+(1) In sections 330AAA, 330AA, and 330C,—
+  - **affected area** means an area affected by 1 or more severe weather events
+  - **area** means any of the following regions or districts:
+    (a) the regions of Northland, Auckland, Waikato, Bay of Plenty, Gisborne, and Hawke’s Bay:
+    (b) the districts of Tararua, Masterton, Carterton, and South Wairarapa
+  - **severe weather event** means any of the following weather events:
+    (a) Cyclone Hale, which crossed the North Island during the period commencing on 8 January 2023 and ending on 12 January 2023:
+    (b) heavy rainfall commencing on 26 January 2023 and ending on 3 February 2023 in the Northland, Auckland, Waikato, and Bay of Plenty regions:
+    (c) Cyclone Gabrielle, which crossed the North Island during the period commencing on 12 February 2023 and ending on 16 February 2023.
+(2) This section is repealed on the close of 1 October 2024.
+
 ### 330 Emergency works and power to take preventive or remedial action
 (1) Where—is, in the opinion of the person, authority, network utility operator, or lifeline utility, affected by or likely to be affected by—the provisions of sections 9, 12, 13, 14, and 15 shall not apply to any activity undertaken by or on behalf of that person, authority, network utility operator, or lifeline utility to remove the cause of, or mitigate any actual or likely adverse effect of, the emergency.
   (a) any public work for which any person has financial responsibility; or
@@ -9510,10 +9522,25 @@ Every abatement notice shall be in the prescribed form and shall state—
 (4) Nothing in this section shall authorise any person to do anything in relation to an emergency involving a marine oil spill or suspected marine oil spill within the meaning of section 281 of the Maritime Transport Act 1994.
 (5) In this section and section 330A, lifeline utility means a lifeline utility within the meaning of section 4 of the Civil Defence Emergency Management Act 2002 other than a lifeline utility that is a network utility operator to which subsection (1)﻿(c) applies.
 
+### 330AAA Modification of requirements in section 330(3) for authorities in affected areas
+(1) This section applies if, because of or in connection with the impacts of a severe weather event, a local authority or consent authority acting under section 330(2) enters a place on land within an affected area when the occupier cannot be found there.
+(2) Section 330(3) is satisfied, and the local authority or consent authority is not required to take further action to contact the occupier, if—
+  (a) there is displayed in a prominent place on the land a notice that gives the date of entry, the reasons for entry, and the contact details of a person who can provide further information; and
+  (b) as soon as practicable after entering the land, the local authority or consent authority serves written notice (containing the same information as in paragraph (a)) on the person who is the ratepayer for the land for the purposes of the Local Government (Rating) Act 2002.
+(3) This section is repealed on the close of 1 October 2024.
+
 ### 330A Resource consents for emergency works
 (1) Where an activity is undertaken under section 330, the person (other than the occupier), authority, network utility operator, or lifeline utility who or which undertook the activity shall advise the appropriate consent authority, within 7 days, that the activity has been undertaken.
 (2) Where such an activity, but for section 330, contravenes any of sections 9, 12, 13, 14, and 15 and the adverse effects of the activity continue, then the person (other than the occupier), authority, network utility operator, or lifeline utility who or which undertook the activity shall apply in writing to the appropriate consent authority for any necessary resource consents required in respect of the activity within 20 working days of the notification under subsection (1).
 (3) If the application is made within the time stated in subsection (2), the activity may continue until the application for a resource consent and any appeals have been finally determined.
+
+### 330AA Modification of requirements in section 330A for activities undertaken in affected areas
+(1) This section applies if, because of or in connection with the impacts of a severe weather event, a person, local authority, consent authority, network utility operator, or lifeline utility (or a person acting on their behalf) undertakes an activity in an affected area under section 330.
+(2) The time within which advice of the activity must be given under section 330A(1) is extended to 100 working days.
+(3) The time within which any application for a resource consent must be lodged under section 330A(2) is extended to 160 working days.
+(4) Section 330A(3) applies subject to the time periods as modified by subsections (2) and (3).
+(5) In this section, lifeline utility has the same meaning as in section 330(5).
+(6) This section is repealed on the close of 1 October 2024.
 
 ### 330B Emergency works under Civil Defence Emergency Management Act 2002
 (1) If any activity is undertaken by any person exercising emergency powers during a state of emergency declared, or transition period notified, under the Civil Defence Emergency Management Act 2002, the provisions of sections 9, 12, 13, 14, and 15 do not apply to any activity undertaken by or on behalf of that person to remove the cause of, or mitigate any actual or adverse effect of, the emergency.
@@ -9522,6 +9549,13 @@ Every abatement notice shall be in the prescribed form and shall state—
 (4) If the application is made within the time stated in subsection (3), the activity may continue until the application for a resource consent and any appeals have been finally determined.
 (5) A person does not commit an offence under section 338(1)﻿(a) by acting in accordance with this section.
 
+### 330C Modification of requirements in section 330B for activities undertaken in affected areas
+(1) This section applies if, because of or in connection with the impacts of a severe weather event, a person (or a person acting on their behalf) undertakes an activity to which section 330B applies in a part of an affected area to which a state of emergency or transition period under the Civil Defence Emergency Management Act 2002 is in force.
+(2) The time within which advice of the activity must be given under section 330B(2) is extended to 100 working days.
+(3) The time within which any application for a resource consent must be lodged under section 330B(3) is extended to 160 working days.
+(4) Section 330B(4) and (5) applies subject to the time periods as modified by subsections (2) and (3).
+(5) This section is repealed on the close of 1 October 2024.
+
 ### 331 Reimbursement or compensation for emergency works
 (1) Where the local authority or consent authority takes action under section 330(2) because of the default of any person, the authority may require reimbursement from that person of its actual and reasonable costs (as defined in section 314(2)).
 (1A) Where the costs required to be paid under subsection (1) are not duly paid within 20 working days of being required, the authority may seek an enforcement order under section 314(1)﻿(d).
@@ -9529,6 +9563,72 @@ Every abatement notice shall be in the prescribed form and shall state—
   (a) person having an estate or interest in land that is injuriously affected by the exercise of any power under section 330(2); and
   (b) other person suffering any damage as a result of the exercise of that power—
 (3) Any compensation under subsection (2) shall be claimed and determined in accordance with Part 5 of the Public Works Act 1981 and the provisions of that Act, so far as they apply and with all necessary modifications, shall apply accordingly.
+
+**Emergency activities undertaken by certain rural landowners and occupiers**
+
+### 331A Application of sections 331B to 331E
+(1) Sections 331B to 331E apply to activities undertaken on rural land in an affected area.
+(2) In this section and sections 331B, 331C, and 331E, rural land means land in an affected area that—
+  (a) has a general rural, rural production, or Māori purpose zoning status (or the nearest equivalent zone) in the relevant district or combined plan; or
+  (b) has located on it any marae, papakāinga, or urupā; or
+  (c) is used for the primary purpose of livestock or horticultural farming.
+(3) In this section, affected area has the same meaning as in section 329A.
+
+### 331B Owner or occupier of rural land may take emergency preventive or remedial measures
+(1) Subsection (2) applies if,—
+  (a) because of or in connection with the impacts of a severe weather event, a sudden event or an adverse effect on the environment has caused, is causing, or is likely to cause loss of life or injury to humans, loss of life or serious detriment to the health or well-being of animals, or serious damage to land or property; and
+  (b) the owner or occupier of rural land—
+    (i) considers, on reasonable grounds, that preventive or remedial measures are required to avoid, remedy, or mitigate the loss, injury, detriment, or damage; and
+    (ii) considers that, in the circumstances, the measures are proportionate to the loss, injury, detriment, or damage or the risk of the loss, injury, detriment, or damage; and
+    (iii) undertakes 1 or more activities to implement the measures in a manner that,—
+      (A) so far as is reasonably practicable, avoids, remedies, or mitigates the adverse environmental effects; and
+      (B) will not cause significant adverse effects beyond the boundaries of the owner’s or occupier’s rural land.
+(2) An activity undertaken under subsection (1)﻿(b)﻿(iii) is deemed to be a permitted activity for the purposes of any or all of the following:
+  (a) any relevant plan or proposed plan:
+  (b) any applicable regulations:
+  (c) any applicable national environmental standards.
+(3) However, an activity is not deemed a permitted activity under subsection (2) if it—
+  (a) is classified as a prohibited activity in any of the following:
+    (i) any relevant plan or proposed plan:
+    (ii) any applicable regulations:
+    (iii) any applicable national environmental standard; or
+  (b) is an activity referred to in section 12; or
+  (c) is undertaken on culturally significant land, or will impact on culturally significant land, without the written permission of the relevant iwi or hapū given following notice to the relevant iwi or hapū by the owner or occupier of the rural land in accordance with subsection (4).
+(4) The notice referred to in subsection (3)﻿(c) must be given to the relevant iwi or hapū at least 20 working days before the activity is undertaken and must include—
+  (a) details of the proposed activity to be undertaken; and
+  (b) the proximity of the proposed activity to the wāhi tapu, site of cultural significance, or area subject to a statutory acknowledgement; and
+  (c) the anticipated effect of the proposed activity on the wāhi tapu, site of cultural significance, or area subject to a statutory acknowledgement and proposals to avoid, remedy, or mitigate the effect; and
+  (d) a request for permission from the relevant iwi or hapū to undertake the proposed activity; and
+  (e) a request for protocols or management plans in relation to the wāhi tapu, site of cultural significance, or area subject to a statutory acknowledgement.
+(5) If an activity undertaken under subsection (1)﻿(b)﻿(iii) is not deemed a permitted activity, the relevant provisions of any relevant plan or proposed plan, any applicable regulations, and any applicable national environmental standards apply.
+(6) Subsection (2) applies whether or not the sudden event or adverse effect was foreseeable.
+(7) In this section,—
+  - **culturally significant land** is land that—
+    (a) is on, or adjoins, a wāhi tapu or a site of cultural significance; or
+    (b) is on, near, or adjoins land that has an area that is subject to a statutory acknowledgement
+  - **severe weather event** has the same meaning as in section 329A
+  - **statutory acknowledgement** means redress of that name included in certain Treaty settlement Acts
+  - **wāhi tapu** or includes those identified in any of the following:
+    (a) a relevant plan or proposed plan:
+    (b) the New Zealand Archaeological Association’s site recording scheme:
+    (c) a list maintained under section 65 or 81 of the Heritage New Zealand Pouhere Taonga Act 2014:
+    (d) the records of the Maori Land Court as a site set apart as a Maori reservation under Part 17 of Te Ture Whenua Maori Act 1993.
+
+### 331C Requirement for owner or occupier to give notice to relevant consent authority
+(1) An owner or occupier of rural land who has acted under section 331B must give written notice to the relevant consent authority that the activity has been undertaken.
+(2) Notice must be given within 60 working days after the activity begins, or such extended period that the consent authority may allow by written notice.
+(3) If the owner or occupier fails to comply with the specified or extended notice period in subsection (2), the permitted activity status of the activity is revoked as from the date on which the notice period in that subsection ends.
+
+### 331D Duty to gather information, monitor, and keep records
+Nothing in section 331B or 331C limits or affects a local authority’s duties under section 35.
+
+### 331E Enforcement proceedings
+For the purposes of activities undertaken under section 331B, any person authorised to do so by Part 12 may take enforcement proceedings (including declaratory proceedings) under that Part, including in any case where it is alleged that the owner or occupier of rural land has breached section 16 or 17.
+
+### 331F Repeal of this section and sections 331A to 331E
+(1) This section and sections 331A to 331E and the cross-heading above section 331A are repealed on the close of 1 April 2024.
+(2) The repeal of section 331B does not affect a permitted activity status conferred on an activity under section 331B(2).
+(3) However, subsection (2) does not limit or affect the operation of this Act (including the ability to change the status of the permitted activity in a district or regional plan) after the repeal of section 331B.
 
 **Powers of entry and search**
 
