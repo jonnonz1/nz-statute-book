@@ -1,5 +1,5 @@
 # Local Government Act 2002
-_Consolidation as at 2023-02-01_
+_Consolidation as at 2023-03-21_
 
 ### 1 Title
 This Act is the Local Government Act 2002.
@@ -5096,9 +5096,9 @@ Each local authority must, before 1 January 2024,—
 **Long-term planning**
 
 ### 27 Long-term planning to exclude water services during establishment period
-(1) This clause applies to the following long-term planning:
-  (a) a draft or final long-term plan or an amendment to a long-term plan (under section 93 and Part 1 of Schedule 10), or associated material or documentation:
-  (b) a consultation document related to a long-term plan, and information relied on by the content of that document (under sections 93A to 93G):
+(1) This clause applies to the following long-term planning for plans that take effect in any period on or after 1 July 2024:
+  (a) a draft or final long-term plan (under section 93 and Part 1 of Schedule 10), or associated material or documentation:
+  (b) a consultation document related to a long-term plan (other than a consultation document related to the amendment of a long-term plan), and information relied on by the content of that document:
   (c) a financial strategy (under section 101A):
   (d) an infrastructure strategy (under section 101B).
 (2) That long-term planning must, during the establishment period, exclude any content (for example, any proposals or associated information) relating to water services.
@@ -6750,6 +6750,20 @@ In clauses 6, 7, 8, and 9, remuneration includes—
 (7) In this clause,—
   - **audio link** means facilities that enable audio communication between participants at a meeting when 1 or more of them is not physically present at the place of the meeting
   - **audiovisual link** means facilities that enable audio and visual communication between participants at a meeting when 1 or more of them is not physically present at the place of the meeting.
+
+### 25B Modifications to clause 25A during period 12 February 2023 to 1 April 2024
+(1) Subclauses (2) to (4) apply instead of clause 25A(1) during the period—
+  (a) commencing on 12 February 2023; and
+  (b) ending on the close of 30 September 2024.
+(2) A member of a local authority, or of a committee of a local authority, has, unless lawfully excluded, the right to attend any meeting of the local authority or committee by means of audio link or audiovisual link.
+(3) To that end, a member may attend a meeting by means of audio link or audiovisual link despite—
+  (a) clause 27(5)﻿(a); and
+  (b) any limitation or condition on the use of an audio link or audiovisual link that is contained in the local authority’s standing orders; and
+  (c) anything else to the contrary in the local authority’s standing orders.
+(4) For a Civil Defence Emergency Management Group, the reference in subclause (3) to a local authority’s standing orders includes any standing orders that apply to the Group under section 19 of the Civil Defence Emergency Management Act 2002.
+(5) Subclause (6) applies instead of clause 25A(4).
+(6) A member of the local authority or committee who attends a meeting by means of audio link or audiovisual link, in accordance with this clause, is to be counted as present for the purposes of clause 23.
+(7) This clause is repealed on the close of 1 October 2024.
 
 ### 25B Modifications to clause 25A while epidemic notice in force for COVID-19
 [Repealed]
