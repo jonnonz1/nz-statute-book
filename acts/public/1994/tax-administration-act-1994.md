@@ -1,5 +1,5 @@
 # Tax Administration Act 1994
-_Consolidation as at 2023-02-20_
+_Consolidation as at 2023-03-31_
 
 > An Act to reorganise and consolidate the law relating to the Inland Revenue Department and the administration of income tax matters
 
@@ -183,6 +183,7 @@ _Consolidation as at 2023-02-20_
     (a) a thing that is used to hold, in or on the thing and in any form, items of information:
     (b) an item of information held in or on a thing referred to in paragraph (a):
     (c) a device associated with a thing referred to in paragraph (a) and required for the expression, in any form, of an item of information held in or on the thing
+  - **DRCD deferral date** has the meaning given by section RA 6(6) of the Income Tax Act 2007
   - **due date** means the last day on which a taxpayer is able—before being liable to pay a penalty or (in the case of paragraph (a)) interest under Part 7
     (a) to pay tax; or
     (b) to provide a tax return; or
@@ -266,7 +267,7 @@ _Consolidation as at 2023-02-20_
   - **large multinational group** , for an income year or a period set by the Commissioner under section 78G, means a consolidated accounting group that, in the income year or period,—
     (a) has a member resident in New Zealand or income with a source in New Zealand; and
     (b) has a member resident in a country or territory other than New Zealand; and
-    (c) in the preceding income year or period, has annual consolidated group revenue equal to or exceeding the exemption threshold referred to in paragraph 5.53 of the OECD transfer pricing guidelines
+    (c) in the preceding income year or period, has annual consolidated group revenue equal to or exceeding the exemption threshold referred to in paragraph 5.52 of the OECD transfer pricing guidelines
   - **late filing penalty** means a civil penalty imposed under section 139A or 139AAA for not providing on time a tax return described in section 139A(1) or 139AAA(1), as applicable
   - **late payment penalty** means—
     (a) a civil penalty imposed under section 139B for not paying a tax calculated or assessed as payable under a tax law on time; and
@@ -1502,7 +1503,7 @@ Offences and penalties
 Declarations by revenue officers
 (1) For the purposes of section 18(1), before a revenue officer performs their first official duty as an officer, they must complete a declaration of confidentiality as prescribed by the Commissioner.
 Certificates by other officers
-(2) For the purposes of section 18(2), a person, other than a revenue officer, who acquires, obtains, or has access to revenue information must complete a certificate of confidentiality as prescribed by the Commissioner. The certificate must be kept in a form acceptable to the Commissioner by the person, entity, or agency that employs, appoints, or contracts services from the person.
+(2) For the purposes of section 18(2), a person, other than a revenue officer, who acquires, obtains, or has access to sensitive revenue information must complete a certificate of confidentiality as prescribed by the Commissioner. The certificate must be kept in a form acceptable to the Commissioner by the person, entity, or agency that employs, appoints, or contracts services from the person.
 Making declarations
 (3) The declaration under subsection (1) may be made before—
   (a) the Commissioner; or
@@ -2519,7 +2520,7 @@ Persons
   (f) a multi-rate PIE that attributes income to an investor or a proxy for an investor, see section 25J:
   (g)
   (h) a public unit trust that pays an amount that is treated as a taxable dividend on a withdrawal from the trust, see section 25L:
-  (i) an emigrating company that is treated under section FL 2 of the Income Tax Act 2007 as paying a dividend to shareholders, see section 25M:
+  (i) an emigrating company that is treated under section FL 2 or FL 3 of the Income Tax Act 2007 as paying a dividend to shareholders, see section 25M:
   (ib) a custodial institution that pays on or transfers an amount of investment income to an end investor, see section 25MB:
   (j) a person who would be liable to pay an amount referred to in paragraph (a) but for the circumstances described in subsection (2).
 Circumstances when withholding not required
@@ -2540,9 +2541,12 @@ Nominees
 (2) Despite subsection (1), when an investor is a nominee, the investment income information required from a payer referred to in section 25E(1)﻿(b) is limited to information held in relation to the nominee unless the payer has access to information on the ultimate investor.
 
 ### 25G Information on dividends
-A payer referred to in section 25E(1)﻿(c) must deliver the investment income information for the payment of the dividend as set out in schedule 6, table 1, rows 1 to 11, 14, and 16 to 22, as applicable, to the Commissioner—
+Delivery of investment income information
+(1) A payer referred to in section 25E(1)﻿(c) must deliver the investment income information for the payment of the dividend as set out in schedule 6, table 1, rows 1 to 11, 14, and 16 to 22, as applicable, to the Commissioner—
   (a) in electronic form and by means of an electronic communication as prescribed by the Commissioner; and
   (b) by the 20th of the month following the month in which the amount of investment income is paid to or derived by the payee.
+Certain dividends derived by dual resident companies
+(2) For the purposes of subsection (1) and a dividend described in section CD 1(3) of the Income Tax Act 2007, the payer must treat the DRCD deferral date as the date on which the amount of investment income is paid to or derived by the payee.
 
 ### 25H Information on royalties paid to non-residents
 A payer referred to in section 25E(1)﻿(d) must deliver the investment income information for the payment of the royalty as set out in schedule 6, table 1, rows 1 to 11, 16, 21, and 22, as applicable, to the Commissioner—
@@ -2571,9 +2575,14 @@ A payer referred to in section 25E(1)﻿(h) must deliver the investment income i
   (b) by 15 May after the end of the tax year.
 
 ### 25M Information from emigrating companies
-A payer referred to in section 25E(1)﻿(i) must deliver the investment income information set out in schedule 6, table 1, rows 1 to 11, 14, 16, 21, and 22, as applicable, for a tax year to the Commissioner—
+Delivery of investment income information
+(1) A payer referred to in section 25E(1)﻿(i) must deliver the investment income information set out in schedule 6, table 1, rows 1 to 11, 14, 16, 21, and 22, as applicable, for a tax year to the Commissioner—
   (a) in electronic form and by means of an electronic communication as prescribed by the Commissioner; and
-  (b) within 3 months after the time of emigration.
+  (b) by the relevant date set out in subsection (2).
+Due date
+(2) The relevant date is,—
+  (a) for an emigrating company that is treated under section FL 2 of the Income Tax Act 2007 as paying a dividend to shareholders, the date that is 3 months after the time of emigration:
+  (b) for an emigrating company that is treated under section FL 3 of the Income Tax Act 2007 as paying a dividend to shareholders, the date that is 3 months after the earliest of the events described in subsection (1)﻿(a) to (c) of that section occurs.
 
 ### 25MB Information from custodial institutions
 When this section applies
@@ -2756,11 +2765,13 @@ A person who gives a notice that the retirement scheme prescribed rate for the p
   (j) such other information as may be required by the Commissioner.
 (1B) An Australian ICA company must use, in a shareholder dividend statement, the term “New Zealand imputation credit” to describe the quantity referred to in subsection (1)﻿(g).
 (1C) The company must give the shareholder dividend statement to the shareholder—
-  (a) at the time of payment of the dividend, if paragraph (b) does not apply; or
-  (b) before the date that is 3 months after the time of emigration, if the company is treated under section FL 2 of the Income Tax Act 2007 (which relates to an emigrating company) as paying the dividend.
+  (a) at the time of payment of the dividend, if neither of paragraphs (b) and (c) applies; or
+  (b) before the date that is 3 months after the time of emigration, if the company is treated under section FL 2 of the Income Tax Act 2007 as paying the dividend; or
+  (c) before the date that is 3 months after the earliest of the events described in section FL 3(1)﻿(a) to (c) of that Act occurs, if the company is treated under that section as paying the dividend.
 (2) For the purposes of this section, a shareholder dividend statement is treated as given to a shareholder if it is delivered in a way described in section 14F(4) to—
   (a) the shareholder; or
   (b) a person authorised to act on behalf of the shareholder.
+(3) For the purposes of this section, a company that pays to a shareholder a dividend described in section CD 1(3) of the Income Tax Act 2007 is treated as paying the dividend on the DRCD deferral date.
 
 ### 30 Statement to shareholder when FDP credit attached to dividend
 [Repealed]
@@ -3317,26 +3328,34 @@ A person who is adjudicated bankrupt under the Insolvency Act 2006 and derives a
     (iii) whether or not the application of any of the continuity provisions would preclude the carrying forward, offsetting, or other utilisation of any tax loss or loss balance or credit balance of the company referred to in subparagraph (i).
 (7) Notwithstanding subsections (1), (4), and (5), a non-active company shall furnish a return of income or an annual ICA return if required by the Commissioner to do so.
 
-### 43B Trustees of non-active trusts and administrators or executors of non-active estates may be excused from filing returns
+### 43B Trustees, administrators, or executors of certain trusts or estates not required to file returns
 (1) A person who is a trustee of a trust or an administrator or executor of an estate is not required to make a return of income for a tax year for the trust or estate if—
   (a) the trust or estate is non-active throughout the income year corresponding to the tax year; and
   (b) for a person who is a trustee, the trust is a complying trust under section HC 10 of the Income Tax Act 2007; and
-  (c) the person has provided to the Commissioner, in a form approved by the Commissioner,—
+  (c) if the trust or estate has a tax file number, the person has provided to the Commissioner, in a form approved by the Commissioner,—
     (i) a declaration that the trust or estate is non-active and that the person will notify the Commissioner if the trust or estate ceases to be non-active; and
     (ii) a statement of the matters required by the Commissioner.
 (2) For the purposes of this section, a trust or estate is non-active for a tax year if, throughout the income year corresponding to the tax year, the trustee of the trust or the administrator or executor of the estate—
-  (a) has not derived any income; and
+  (a) has not derived any assessable income; and
   (b) has no deductions; and
-  (c) has not been a party to, or perpetuated, or continued with, transactions with assets of the trust or estate which, during the corresponding income year,—
-    (i) give rise to income in any person’s hands; or
-    (ii) give rise to fringe benefits to an employee or to a former employee.
+  (c) has not been a party to, or perpetuated, or continued with, transactions with assets of the trust or estate with a person who is associated with the trustee of the trust or executor or administrator of the estate which, during the income year corresponding to the tax year,—
+    (i) give rise to income in that person’s hands; or
+    (ii) give rise to fringe benefits to that person in their capacity as an employee or former employee.
 (3) In determining whether a trust or estate complies with the requirements of subsection (2), no account shall be taken of any—
   (a) reasonable fees paid to professional persons to administer the trust or estate; or
-  (b) bank charges or other minimal administration costs totalling not more than $200 in the tax year; or
-  (c) interest earned on trust or estate assets in any bank account during the tax year, to the extent to which the total interest does not exceed $200; or
-  (d) insurance, rates, and other expenditure incidental to the occupation of a dwelling owned by the trust or estate and incurred by the beneficiaries of the trust or estate.
-(4) Where at any time any paragraph of subsection (2) ceases to apply to a trust or estate for which a declaration under this section has been made, a trustee of the trust or administrator or executor of the estate must notify the Commissioner that the trust or estate has ceased to be non-active.
-(5) Despite subsection (1), a person who is a trustee of a non-active trust or an executor or administrator of a non-active estate must furnish a return of income if required by the Commissioner to do so.
+  (b) bank charges or other minimal administration costs totalling not more than $1,500 in the tax year; or
+  (c) income derived by the trustee of a trust or an administrator or executor of an estate during the tax year that would be reportable income, as defined in section 22D of the Tax Administration Act 1994, if the trust or estate were an individual, to the extent to which the total amount of that income does not exceed $1,000; or
+  (d) insurance, rates, interest, and other expenditure incidental to the occupation of a dwelling owned by the trust or estate and incurred by the beneficiaries of the trust or estate.
+(3B) If subsection (1) does not apply, a person who is a trustee of a trust is also not required to make a return of income for a tax year for the trust—
+  (a) if the trust is a testamentary trust; and
+  (b) the trust is a complying trust under section HC 10 of the Income Tax Act 2007; and
+  (c) if the trust has a tax file number, the person has provided to the Commissioner, in a form approved by the Commissioner,—
+    (i) a declaration that the trust meets the requirements of this subsection and that the person will notify the Commissioner if the trust ceases to meet those requirements; and
+    (ii) a statement of the matters required by the Commissioner; and
+  (d) the trustee of the trust has derived no assessable income or has derived assessable income that would be reportable income, as defined in section 22D of the Tax Administration Act 1994, if the trust were an individual, of a total amount not exceeding $5,000 for the income year corresponding with the tax year; and
+  (e) the trustee of the trust has derived an amount, that does not exceed $1,000 in total for the tax year, of assessable income that is not reportable income, as defined in section 22D of the Tax Administration Act 1994, if the trust were an individual, and the trustee of the trust has incurred in the tax year a total amount of deductible expenditure that is not exceeded by the assessable income by more than $200 for the income year corresponding with the tax year.
+(4) If subsection (2) or (3B) cease to apply to a trust or estate, a trustee of the trust or administrator or executor of the estate must notify the Commissioner that the relevant subsection no longer applies.
+(5) Despite subsection (1) or (3B), a person referred to in subsection (1) or (3B) must furnish a return of income if required by the Commissioner to do so.
 
 ### 44 Commissioner may in certain cases demand special returns, and make special assessments
 (1) This section applies to the following persons:
@@ -3629,8 +3648,8 @@ Every gift-exempt body must, when notified by the Commissioner, furnish a return
   (e) the name, date of birth, jurisdiction of tax residence, and tax file number and taxpayer identification number, of each person having a power under the trust to appoint or dismiss a trustee, to add or remove a beneficiary, or to amend the trust deed:
   (f) the other information required by the Commissioner.
 (3) A trustee of a trust who is required to file a return for a tax year under subsection (1) is not required to file a return in the form required by subsection (2) if—
-  (a) the trustee is excluded from the requirement to make a return by section 43B (which relates to non-active trusts):
-  (b) the trust is a foreign trust:
+  (a) the trustee is excluded from the requirement to make a return by section 43B:
+  (b) the trust is a foreign exemption trust:
   (c) the trustees of the trust are incorporated as a board under the Charitable Trusts Act 1957:
   (d) the trust is a charitable trust registered under the Charities Act 2005:
   (e) the trustee is eligible under section HF 2 of the Income Tax Act 2007 to choose under section HF 11 of that Act to become a Maori authority:
@@ -3811,13 +3830,14 @@ A company or person apportioning its interest expenditure under section FE 6B of
 (1) For the purposes of section LY 3(1)﻿(d) of the Income Tax Act 2007, a person’s research and development activities are approved for the income year, if the Commissioner approves the activities, as provided by subsections (2) to (7), and—
   (a) the person’s application for approval does not contain a material omission or misrepresentation; and
   (b) the person complies with any conditions in the Commissioner’s approval; and
-  (c) there is no material change in the provisions in subpart LY of that Act and any associated provisions; and
-  (d) if the Commissioner approves a person and their activities for more than 1 income year, the person has given the Commissioner, on or before the 7th day of the 2nd month after the end of the relevant income year, notice that there have been no material changes for their business for the relevant income year.
+  (c) there is no material change in the provisions in subpart LY of that Act and any associated provisions.
+  (d)
 (2) The Commissioner may, in accordance with this section, approve a person’s research and development activities for an income year (the first income year), the income year immediately before (the prior year), and up to 2 income years immediately after, if the person makes an application in accordance with subsection (3) on or before the 7th day of the 2nd month after the end of the first income year. For a prior year, the Commissioner may only approve supporting research and development activities described in section LY 5(1)﻿(ab)﻿(i) of the Income Tax Act 2007.
 (3) A person must apply to the Commissioner for approval in the form prescribed by the Commissioner, including—
   (a) the activities the person wants the Commissioner to approve; and
   (b) the income years for which approval is sought; and
   (c) any other information required by the Commissioner.
+(3B) If a person’s research and development activities materially change during the period of an approval, and they want the change to be covered by the approval, they must apply to the Commissioner for a variation of the approval by the deadline in subsection (7) or (7B), as applicable.
 (4) The Commissioner may only approve a person’s activities to the extent to which, in the opinion of the Commissioner, the relevant activity is a core research and development activity or a supporting research and development activity.
 (5) If the Commissioner approves a person’s activities for an income year, the Commissioner must notify the person what activities of the person the Commissioner approves of as core research and development activities or supporting research and development activities, for which income years, and any conditions upon which the approval is made.
 (6) The Commissioner must notify the person of the intention to decline the application before the application is declined.
@@ -3842,6 +3862,7 @@ A company or person apportioning its interest expenditure under section FE 6B of
   (a) the criteria and methodologies the person wants the Commissioner to approve; and
   (b) the income years for which approval of a criterion or methodology is sought; and
   (c) any other information required by the Commissioner.
+(4B) If a person’s criteria and methodologies materially change during the period of an approval, and they want the change to be covered by the approval, they must apply to the Commissioner for a variation of the approval by the deadline in subsection (8).
 (5) The Commissioner may approve—
   (a) appropriate criteria and methodologies for determining whether an activity is a core research and development activity, a supporting research and development activity, or not a research and development activity at all:
   (b) appropriate criteria and methodologies for determining whether an amount of expenditure or loss is or is not an amount of eligible research and development expenditure.
@@ -3875,7 +3896,7 @@ A company or person apportioning its interest expenditure under section FE 6B of
 [Repealed]
 
 ### 69 Annual ICA return
-(1) An imputation credit account (ICA) company must provide to the Commissioner an annual ICA return in the prescribed form for a tax year, showing—
+(1) Subject to subsection (3), an imputation credit account (ICA) company must provide to the Commissioner an annual ICA return in the prescribed form for a tax year, showing—
   (a) the opening balance and closing balance of the imputation credit account for the tax year:
   (b) the amount and source of all credits and debits that have arisen during the tax year as described in sections OA 5(2) and OA 6(2) of the Income Tax Act 2007:
   (c) the amount of any further income tax payable for the tax year under sections OB 65 to OB 67 of that Act:
@@ -3890,6 +3911,7 @@ A company or person apportioning its interest expenditure under section FE 6B of
 (2) The annual ICA return required for the tax year by subsection (1) must be provided to the Commissioner no later than—
   (a) the last day of the July that follows the end of the tax year, if the ICA company is an Australian ICA company that is not required to file a return of income for the tax year:
   (b) if paragraph (a) does not apply, the last day on which the ICA company is permitted under section 37 to file a return of income for the tax year.
+(3) Subsection (1) does not apply to an ICA company that is a member of a consolidated imputation group if the ICA for the company has a nil balance at all times during the relevant tax year.
 
 ### 69B Annual Maori authority credit account return required by Maori authority
 (1) A Maori authority must, no later than the time allowed by section 37 for furnishing a return of income for a tax year, furnish to the Commissioner an annual Maori authority credit account return in the prescribed form for the tax year.
@@ -3924,9 +3946,7 @@ A company or person apportioning its interest expenditure under section FE 6B of
 (1) A person must file by electronic means, in the form and electronic format prescribed by the Commissioner, a statement in relation to—
   (a) R&D loss tax credits under the Income Tax Act 2007 that they claim for a tax year:
   (b) R&D repayment tax that they must pay for a tax year.
-(2) The statement described in subsection (1) must be filed with the Commissioner no later than the earliest of the following:
-  (a) the day on which the person files a return of income for the relevant tax year:
-  (b) the last day for filing a return of income for the relevant tax year under section 37.
+(2) The statement described in subsection (1) must be filed with the Commissioner no later than the day that is 30 days after the last day for filing a return of income for the relevant tax year under section 37.
 (3) R&D repayment tax is due on the terminal tax date for the relevant tax year.
 
 ### 71 Annual FDPA return
@@ -4405,17 +4425,12 @@ In determining the amount of WFF tax credit that is payable under section 80KN, 
 ### 89AB Response periods
 (1) This section applies for the purposes of Parts 4A and 8A to set the period for a notice in response to another notice (the initiating notice). The period is called the response period.
 (2) When the initiating notice is a notice of proposed adjustment, the response period is a 2-month period starting on the date of issue of the notice, unless section 89AC applies.
-(3) When the initiating notice is a notice of assessment issued by a taxpayer, the response period for a notice of proposed adjustment under section 89DA is—
-  (a) a 4-month period starting on the date of issue of the initiating notice; or
-  (b) if the notice of proposed adjustment relates solely to the amount of a tax credit under section LH 2 of the Income Tax Act 2007, a period starting on the date the initiating notice is received in an office of the department and ending 2 years after the latest date to provide a return of income for the relevant tax year.
+(3) When the initiating notice is a notice of assessment issued by a taxpayer, the response period for a notice of proposed adjustment under section 89DA is a 4-month period starting on the date of issue of the initiating notice.
 (4) When the initiating notice is either a notice of disputable decision or a notice revoking or varying a disputable decision that is not an assessment, the response period for a notice is—
-  (a) a 2-month period starting on the date of issue of the initiating notice, unless paragraph (b) or (c) applies; or
-  (b) for a notice of proposed adjustment to which paragraph (c) does not apply, a 4-month period starting on the date of issue of the initiating notice; or
-  (c) for a notice of proposed adjustment relating solely to the amount of a tax credit under section LH 2 of that Act, a period starting on the date the notice of proposed adjustment is received in an office of the department and ending on the later of—
-    (i) 4 months after the date of the initiating notice:
-    (ii) 2 years after the latest date to provide a return of income for the relevant tax year.
+  (a) a 2-month period starting on the date of issue of the initiating notice; or
+  (b) for a notice of proposed adjustment, a 4-month period starting on the date of issue of the initiating notice.
 (5) When the initiating notice is a disclosure notice, a notice issued by the Commissioner rejecting an adjustment proposed by a disputant, or a disputant's statement of position, the response period is a 2-month period starting on the date of issue of the initiating notice, unless section 89AC applies.
-(6) For the purposes of subsections (3)﻿(b) and (4)﻿(c)﻿(ii), if the taxpayer is a member of an internal software development group to which section 68E applies, the latest date for providing a return means the latest date for any member of the group.
+(6)
 
 ### 89AC Response period when initiating notice filed late
 When the initiating notice is a notice of proposed adjustment referred to in section 89AB(2) or a statement of position referred to in section 89AB(5), and the disputant issues the initiating notice outside the applicable response period but the notice is treated as being issued within that period, the response period for the response to the initiating notice is a 2–month period beginning on the earlier of—
@@ -5274,10 +5289,7 @@ In this Part—
   (b) inquire into the correctness of any return or other information supplied by any person; or
   (c) prosecute any person; or
   (d) recover any debt owing by any person.
-(4) Despite subsection (1), the Commissioner may not make a binding ruling on the following provisions and matters:
-  (a) whether a person meets the eligibility requirements in section LH 3 of the Income Tax Act 2007:
-  (b) whether expenditure or depreciation loss meets the requirements of the definition of eligible expenditure in section LH 4 of that Act:
-  (c) whether an activity meets the requirements of the definition of research and development activities in section LH 7 of that Act.
+(4)
 
 ### 91CB Binding rulings on certain matters
 (1) The Commissioner may make a private ruling or a short-process ruling on whether a person meets the requirements of the Income Tax Act 2007 or the Goods and Services Tax Act 1985 that affect or define the status of a person for the purposes of either or both those Acts. Examples include—
@@ -7470,7 +7482,7 @@ For the purposes of determining a person’s liability to pay a late payment pen
 [Repealed]
 
 ### 141 Tax shortfalls
-(1) Tax shortfalls are to be calculated by the Commissioner in accordance with this section.
+(1) Tax shortfalls are to be calculated by the Commissioner in accordance with this section unless otherwise specified in a provision of an Inland Revenue Act.
 (2) A tax shortfall calculation is required each time a taxpayer is liable to pay a shortfall penalty, subject to sections 141AA(1) and 141EE(4).
 (3) A separate tax shortfall calculation is required—
   (a) for each return period; and
@@ -7493,15 +7505,8 @@ For the purposes of determining a person’s liability to pay a late payment pen
   (a) subsection (7) would apply to the taxpayer in the absence of this subsection if the associated person's return period were the same as the taxpayer's return period; and
   (b) the taxpayer's return period affected by the adjustment referred to in subsection (7)﻿(a) overlaps the associated person's return period affected by the adjustment referred to in subsection (7)﻿(b); and
   (c) the taxpayer's tax position is not an abusive tax position and does not involve evasion or a similar act.
-(7C) Subsection (7D) applies if—
-  (a) the Commissioner makes an adjustment to a taxpayer's tax position (taxpayer A) for a tax credit under section LH 2 of the Income Tax Act 2007 relating to internal software development as that term is defined in section LH 17 of that Act; and
-  (b) the adjustment described in paragraph (a) results in a tax shortfall; and
-  (c) the Commissioner makes an adjustment to another taxpayer's tax position (taxpayer B) for a tax credit under section LH 2 of that Act relating to internal software development as defined in section LH 17 of that Act; and
-  (d) the adjustment described in paragraph (c) is for the same tax year as the adjustment described in paragraph (a); and
-  (e) for taxpayer B, an entitlement to an amount of refund or increased refund of tax (the refund amount) results from the adjustment described in paragraph (c); and
-  (f) for the period to which the adjustments described in paragraphs (a) and (c) relate, taxpayer A and taxpayer B are members of the same internal software development group, as that term is defined in section LH 17 of that Act; and
-  (g) the tax credits described in paragraphs (a) and (c) relate to expenditure or depreciation loss under subpart LH incurred while taxpayer A and taxpayer B are members of the same internal software development group, as that term is defined in section LH 17 of that Act.
-(7D) If this subsection applies because of subsection (7C), then, for the purposes of imposing a penalty, the Commissioner may treat an amount that is less than or equal to taxpayer B's refund amount, described in subsection (7C)﻿(e), as an amount of tax paid by taxpayer A. Treating the amount as tax paid by taxpayer A for the purposes of imposing a penalty reduces taxpayer A's shortfall.
+(7C)
+(7D)
 (8) The Commissioner may treat the companies in a wholly-owned group as if they were a single taxpayer for the purposes of determining a tax shortfall.
 (9) If, in the application of subsection (6), 2 types of tax have different return periods, the Commissioner may, for the purpose of determining a tax shortfall, specify that part of 1 or more return periods for one of the tax types is to be treated as the same return period for the other tax type.
 (10) If—the tax shortfalls arising from the taxpayer's tax positions are to be aggregated and deemed to be 1 tax shortfall.
@@ -8892,7 +8897,7 @@ Despite any other provision of this Act or the Income Tax Act 2007, the Commissi
 (6) The Commissioner may cancel an instalment arrangement if—
   (a) it was entered into on the basis of false or misleading information provided by the taxpayer; or
   (b) the taxpayer is not meeting their obligations under the arrangement.
-(7) Despite sections LA 6(2) and LH 2(6) of the Income Tax Act 2007, a taxpayer with an instalment arrangement who is meeting their obligations under it may choose to have an amount of refundable tax credit remaining for a tax year paid to them rather than used under the ordering rules set out in those sections.
+(7) Despite section LA 6(2) of the Income Tax Act 2007, a taxpayer with an instalment arrangement who is meeting their obligations under it may choose to have an amount of refundable tax credit remaining for a tax year paid to them rather than used under the ordering rules set out in those sections.
 
 ### 177C Write-off of tax by Commissioner
 (1) The Commissioner may write off outstanding tax that cannot be recovered.
@@ -8913,7 +8918,7 @@ Despite any other provision of this Act or the Income Tax Act 2007, the Commissi
   (c) a taxpayer's estate has been distributed.
 (3) Despite subsection (1), the Commissioner must not write off outstanding tax (inclusive of any shortfall penalties), if a taxpayer is liable to pay, in relation to the outstanding tax, a shortfall penalty for an abusive tax position or evasion or a similar act.
 (4) Despite subsection (2), the Commissioner may reinstate all or part of the outstanding tax written off if the Commissioner receives, by operation of law, additional funds in respect of a taxpayer after the taxpayer becomes bankrupt, is liquidated or if additional funds due to the taxpayer's estate are discovered after the taxpayer's estate has been distributed.
-(5) If the Commissioner writes off outstanding tax for a taxpayer who has a tax loss, the Commissioner must extinguish all or part of the taxpayer's tax loss, by—
+(5) If the Commissioner writes off outstanding tax for a taxpayer who has a tax loss, other than a write-off under section 22J or 174AA, the Commissioner must extinguish all or part of the taxpayer's tax loss, by—
   (a) dividing the amount written off by 0.33 and reducing the tax loss by that amount, if the taxpayer is not a company; or
   (b) dividing the amount written off by 0.28 and reducing the tax loss by that amount, if the taxpayer is a company.
 (5B) If the Commissioner writes off outstanding tax for a taxpayer who has a tax credit carried forward under section LE 3 of the Income Tax Act 2007, the Commissioner must extinguish an amount of the tax credit on a one-for-one basis.
@@ -10113,7 +10118,7 @@ Section 18 does not prevent the Commissioner disclosing information to the Gover
 (1) Section 18 does not prevent the Commissioner communicating to any officer, being an employee of the Treasury (as defined in section 2 of the Public Finance Act 1989), any information, being information that—
   (a) the officer is authorised by the Secretary (as defined in section 2 of that Act) to receive; and
   (b) the Commissioner considers is not undesirable to disclose and is essential to enable that officer to carry out any duty lawfully conferred on that officer relating to the preparation of taxation revenue forecasts.
-(2) Section 18 does not prevent the Commissioner communicating to any officer, being an employee of the Treasury (as defined in section 2 of the Public Finance Act 1989), any information communicated to that person for the purposes of section LH 15 of the Income Tax Act 2007.
+(2)
 
 ### 22 Intelligence and security agencies
 Section 18 does not prevent the Commissioner allowing the Director-General of an intelligence and security agency (as defined in section 4 of the Intelligence and Security Act 2017), or an employee of that intelligence and security agency authorised by the Director-General for that purpose, access to information specified in a permission given under section 137 or 138 of that Act.
@@ -10291,6 +10296,10 @@ Section 18 does not prevent the Commissioner communicating to a person’s fund 
 (2) Information provided for the purpose in subclause (1)﻿(a) may include, for example, information on tax defaults, tax-related penalties, and tax settlement agreements made with the Commissioner.
 (3) Section 18 does not prevent the regulator from disclosing sensitive revenue information to any officer or employee of an agency referred to in section 126(2) of the OIA, if the officer or employee is authorised by the agency to receive the information and the regulator has reasonable grounds to believe that the disclosure of that information is necessary for the purpose of managing national security and public order risks associated with transactions by overseas persons.
 (4) Despite subclause (1), the Commissioner may disclose information to the regulator only where it is reasonable and practical to do so, the information is readily available, and it is not undesirable to disclose the information.
+
+### 39C Chief executive responsible for administration of the Residential Tenancies Act 1986
+(1) Section 18 does not prevent the Commissioner from disclosing sensitive revenue information to the chief executive (CE) responsible for the administration of the Residential Tenancies Act 1986 and to the CE’s delegatees responsible for the administration of the Residential Tenancies Act 1986, if the disclosure is necessary for the purpose of the CE forming or changing an opinion that land meets or does not meet the definition of build-to-rent land in the Income Tax Act 2007.
+(2) No information will be disclosed unless the Commissioner is satisfied that the information is readily available and that it is reasonable and practicable to communicate the information.
 
 #### Subpart 2 — Disclosures in provisions related to exchanges of information
 
