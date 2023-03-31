@@ -1,5 +1,5 @@
 # Income Tax Act 2007
-_Consolidation as at 2023-01-24_
+_Consolidation as at 2023-03-31_
 
 ### A 1 Title
 This Act is the Income Tax Act 2007.
@@ -323,6 +323,10 @@ An amount that a person derives from disposing of personal property is income of
 ### CB 6A Disposal within 10 years: Bright-line test for residential land
 When this section applies: relationship with subject matter
 (1A) This section applies if none of sections CB 6 to CB 12 apply.
+When this section does not apply
+(1AB) This section does not apply to a person’s disposal of residential land if—
+  (a) the person first acquired an estate or interest in the land before 27 March 2021:
+  (b) the land meets the requirements of section CB 6AB, CB 6AC, CB 6AE, or FB 3A (Residential land), and the transferor first acquired an estate or interest in the land before 27 March 2021.
 Some definitions
 (1) In this section,—
   (a) 10-year test land means residential land to the extent to which, using a land area test, it is not new build land, and the land’s bright-line disposal date is within 10 years of the earliest of any of the applicable dates (bright-line acquisition dates) described in subsections (3) to (7C):
@@ -359,9 +363,9 @@ Change of trustees: subdivision
 Leases with perpetual right of renewal
 (5) In the case where the residential land is a freehold estate in residential land, acquired as the owner of a leasehold estate with a perpetual right of renewal, the bright-line acquisition date for the purposes of the definitions of 10-year test land and 5-year test land is the date the leasehold estate was granted.
 Joint tenancy converted to tenancy in common
-(5B) In the case and to the extent to which the residential land is held as a tenant in common in a share equal to all joint owners, acquired subsequent to, and to the extent to which it was previously being held as a joint tenant nominally in the same share equal to the same joint owners, the bright-line acquisition date for the purposes of the definitions of 10-year test land and 5-year test land is the date the joint tenancy was acquired.
+(5B) In the case and to the extent to which the residential land is held as a tenant in common in a share equal to all joint owners, converted subsequent to, and to the extent to which it was previously being held as a joint tenant nominally in the same share equal to the same joint owners, the bright-line acquisition date for the purposes of the definitions of 10-year test land and 5-year test land is the same as prior to the conversion.
 Tenancy in common converted to joint tenancy
-(5C) In the case and to the extent to which the residential land is held as a joint tenant nominally in a share equal to all joint owners, acquired subsequent to, and to the extent to which it was previously being held as a tenant in common in the same share equal to the same joint owners, the bright-line acquisition date for the purposes of the definitions of 10-year test land and 5-year test land is the date the tenancy in common in equal shares was acquired.
+(5C) In the case and to the extent to which the residential land is held as a joint tenant nominally in a share equal to all joint owners, converted subsequent to, and to the extent to which it was previously being held as a tenant in common in the same share equal to the same joint owners, the bright-line acquisition date for the purposes of the definitions of 10-year test land and 5-year test land is the same as prior to the conversion.
 Dividing from and merging with pre-existing land
 (5D) To the extent to which land (land A) is either transferred by a person and, before transfer from them, was part of other land (pre-existing land) that a person owned, or is transferred to a person and, after transfer to them, merges with other land (also pre-existing land) that the person owns, an instrument of transfer for the transfer is treated as not being for the pre-existing land.
 Estate or interest acquired upon completion of land development or subdivision
@@ -397,25 +401,36 @@ Relationship with subject matter
 (15) For the purposes of calculating a person’s net income in relation to the disposal of residential land for which they derive an amount of income under this section, sections FC 9B, FC 9C, and FC 9D (which relate to residential land) provide disposal and acquisition amounts for transactions that subsections (7) to (7C) of this section apply to.
 
 ### CB 6AB Residential land transferred in relation to certain family trusts and other capacities
-Transfer to trustee
-(1) If a trustee holds land on a rollover trust, then the bright-line acquisition date for the land, when the trustee disposes of it, is the bright-line acquisition date that the settlor had for the land before transfer to the trustee. The transfer to the trustee must be on or after 1 April 2022.
-Transfer to original settlor
-(2) If a person (an original settlor) holds land that was transferred back to them from a trustee of a trust that the original settlor originally settled, and the trust is a rollover trust, then the bright-line acquisition date for the land, when the original settlor disposes of it, is the bright-line acquisition date that the trustee had for the land before transfer to the original settlor. The transfer to the original settlor must be on or after 1 April 2022.
-Transfer to or from different capacity, proportionality
-(3) For the purposes of applying subsections (1) and (2) for a person who is a settlor in the case of subsection (1) or an original settlor in the case of subsection (2), the person may have a capacity other than settlor or original settlor (for example: LTC owner). However, in the case of an original settlor, subsection (2) does not apply unless the land transferred back to them from the relevant trustee is—
-  (a) the same land that they originally settled and all other original settlors also get back their land; or
-  (b) in part the same land that they originally settled if that part and all other transfers back to other original settlors are in the same proportions as in the original settlement.
+Family trusts: transfers to trusts
+(1) The bright-line acquisition date for land, when a trustee of a trust (trust A) disposes of the land, is the bright-line acquisition date that the transferors (the transferors) of the land to the trustee had, if the transferors transfer the land to the trustee on or after 1 April 2022 and—
+  (a) trust A is a rollover trust and the transferors are settlors and, at the time that the transferors transfer the land to the trustee,—
+    (i) the transferors are beneficiaries of trust A; and
+    (ii) at least 1 transferor is a principal settlor of trust A:
+  (b) the transferors are trustees of a trust (trust B) that is a rollover trust, and, for trust A,—
+    (i) all the beneficiaries are the same as for trust B, and trust A is also a rollover trust:
+    (ii) all the natural person beneficiaries are either the same as, or close family associates of a principal settlor of, trust B, and trust A is also a rollover trust.
+Family trusts: transfers from trusts
+(2) When persons (the transferees) dispose of land that was transferred to them from a trustee of a trust (trust A), the bright-line acquisition date for the land is the bright-line acquisition date that the trustee of trust A had for the land, if the trustee transfers the land to the transferees on or after 1 April 2022 and—
+  (a) the transferees are settlors of trust A and had transferred the land to the trustee; and
+  (b) the transferees acquire proportionally the same amount of land they had transferred to the trustee and, at the time that the trustee transfers the land to the transferees,—
+    (i) the transferees are beneficiaries of trust A; and
+    (ii) at least 1 transferee is a principal settlor of trust A; and
+    (iii) trust A is a rollover trust.
+Other capacities
+(3) For the purposes of applying subsections (1)﻿(a) and (2), the transferors and transferees may have different capacities in relation to the different criteria in those subsections (for example: a transferee may be a settlor in their personal capacity and be a beneficiary as an LTC owner).
 Transfer to self
-(4) If a person transfers the same land to themselves in a different capacity, and there is no intervening transfer to a third party, then the bright-line acquisition date for the land when they dispose of it to a third party in that different capacity is the bright-line acquisition date that the person first had for the land. The transfer to the different capacity must be on or after 1 April 2022, and must not be to or from a person in their capacity of settlor, beneficiary, or trustee.
+(4) If a person in 1 capacity transfers land to themselves in a different capacity, then the bright-line acquisition date for the land when they dispose of it to a third party in that different capacity is the bright-line acquisition date that the person first had for the land. The transfer to the different capacity must be on or after 1 April 2022.
 Key term: rollover trust
 (5) Rollover trust means, at the time of a relevant transfer to or from a relevant trust,—
   (a) all relevant transfers to either trustees in the case of subsection (1) or to original settlors in the case of subsection (2) are either by people who are beneficiaries or to people who are beneficiaries, as applicable, 1 of whom is a principal settlor (for example: if the land is transferred to 2 people who are original settlors, then they must be beneficiaries of the trust, in addition to any other capacity they might have, and 1 of them must be a principal settlor); and
   (b) all principal settlors are beneficiaries of the trust; and
   (c) all principal settlors are close family associates; and
-  (d) all beneficiaries are either close family beneficiaries, or trustees of another trust and at least 1 beneficiary of the other trust is a close family associate of a beneficiary of the relevant trust.
+  (d) all beneficiaries are close family beneficiaries.
 Key term: close family beneficiary
 (6) Close family beneficiary means, for the relevant trust, a beneficiary that is 1 or more of the following:
   (a) a principal settlor:
+  (ab) a trustee of another trust and at least 1 beneficiary of the other trust is a close family associate of a beneficiary of the relevant trust:
+  (ac) any association, club, institution, society, organisation, or trust not carried on for the private profit of any person whose funds are applied wholly or principally to any civic, community, charitable, philanthropic, religious, benevolent, or cultural purpose, whether in New Zealand or elsewhere, and, in the case of it having 1 principal settlor only, the trust has 1 or more beneficiaries who are close family associates of the principal settlor:
   (b) a close family associate of another beneficiary who is also a principal settlor:
   (c) a company in which a 50% or more voting interest, or a 50% or more market value interest if a market value circumstance exists, is owned by a beneficiary of the trust that is a close family associate of another beneficiary that does meet the principal settlor requirements for the trust:
   (d) a charity registered under the Charities Act 2005.
@@ -428,14 +443,19 @@ Exception
 (8) This section does not apply for the transfer of shares in an LTC to or from a trustee.
 
 ### CB 6AC Residential land transferred in relation to certain Māori family trusts
-Transfer to trustee
-(1) If a Māori trustee holds land on a Māori rollover trust, the bright-line acquisition date for the land, when the Māori trustee disposes of it, is the bright-line acquisition date that the settlor had for the land before transfer to the Māori trustee. The transfer to the trustee must be on or after 1 April 2022.
-Transfer to original settlor
-(2) If a person (an original settlor) holds land that was transferred back to them from a Māori trustee of a trust that the original settlor originally settled, and the trust is a Māori rollover trust, the bright-line acquisition date for the land, when the original settlor disposes of it, is the bright-line acquisition date that the Māori trustee had for the land before transfer to the original settlor. The transfer to the original settlor must be on or after 1 April 2022.
-Transfer to or from different capacity, proportionality
-(3) For the purposes of applying subsections (1) and (2) for a person who is a settlor in the case of subsection (1) or an original settlor in the case of subsection (2), the person may have a capacity other than settlor or original settlor (for example: LTC owner), but in the case of an original settlor, subsection (2) does not apply unless the land transferred back to them from the relevant trustee is—
-  (a) the same land that they originally settled and all other original settlors also get back their land; or
-  (b) in part the same land that they originally settled if that part and all other transfers back to other original settlors are in the same proportions as in the original settlement.
+Transfers to trusts
+(1) The bright-line acquisition date for land, when a Māori trustee of a trust (trust A) disposes of the land, is the bright-line acquisition date that the transferors (the transferors) of the land to the Māori trustee had, if the transferors transfer the land to the Māori trustee on or after 1 April 2022 and—
+  (a) trust A is a Māori rollover trust and the transferors are settlors and, at the time that the transferors transfer the land to the trustee, the transferors are beneficiaries of trust A:
+  (b) the transferors are Māori trustees of a trust (trust B) that is a Māori rollover trust, and, for trust A, all the beneficiaries are the same as for trust B, and trust A is also a Māori rollover trust.
+Transfers from trusts
+(2) When persons (the transferees) dispose of land that was transferred to them from a Māori trustee of a trust (trust A), the bright-line acquisition date for the land is the bright-line acquisition date that the Māori trustee of trust A had for the land, if the Māori trustee transfers the land to the transferees on or after 1 April 2022 and—
+  (a) the transferees are settlors of trust A and had transferred the land to the Māori trustee; and
+  (b) the transferees acquire proportionally the same amount of land they had transferred to the Māori trustee and, at the time that the Māori trustee transfers the land to the transferees,—
+    (i) the transferees are beneficiaries of trust A; and
+    (ii) trust A is a Māori rollover trust; and
+    (iii) the transferees are settlors of trust A.
+Other capacities
+(3) For the purposes of applying subsections (1)﻿(a) and (2), the transferors and transferees may have different capacities in relation to the different criteria in those subsections (for example: a transferee may be a settlor in their personal capacity and be a beneficiary as an LTC owner).
 Key term: Māori rollover trust
 (4) Māori rollover trust means, at the time of a relevant transfer to or from a relevant trust,—
   (a) all relevant transfers to either trustees in the case of subsection (1) or to original settlors in the case of subsection (2) are either by people who are beneficiaries or to people who are beneficiaries, as applicable (for example: if the land is transferred to 2 people who are original settlors, then they must be beneficiaries of the trust, in addition to any other capacity they might have); and
@@ -444,7 +464,7 @@ Key term: Māori rollover trust
     (ii) descendants of the same tipuna; and
   (c) the land is subject to Te Ture Whenua Maori Act 1993.
 Key term: Māori trustee
-(5) Māori trustee means a trustee of a trust that is either a Maori authority, or eligible to elect to be a Maori authority, under section HF 2(3)﻿(e)﻿(i) (Who is eligible to be a Maori authority?).
+(5) Māori trustee means a trustee of a trust that is either a Maori authority, or eligible to elect to be a Maori authority.
 
 ### CB 6AE Certain transfers of residential land included in settlement of claim under the Treaty of Waitangi
 What this section applies to
@@ -656,7 +676,7 @@ Meaning of group of persons
 Special rule: counted days
 (6)
 A definition
-(7) In this section, and in sections CZ 40 and EL 9 (which relate to the main home exclusion), principal settlor means, for a trust, a settlor whose settlements for the trust are the greatest or greatest equal, by market value.
+(7)
 
 ### CB 16 Residential exclusion from sections CB 6 to CB 11
 Exclusion
@@ -1228,6 +1248,10 @@ Income
 (1) A dividend derived by a person is income of the person.
 Timing of income: dividends other than non-cash dividends
 (2) The income is allocated to the income year in which the person receives the dividend if the dividend is a dividend other than a non-cash dividend.
+Exception: certain dividends derived by dual resident companies
+(3) Despite subsection (2), the income is allocated to the income year of the person in which the DRCD deferral date falls if the dividend—
+  (a) is derived by a New Zealand resident company that is treated under a double tax agreement as not being resident in New Zealand; and
+  (b) meets the requirements set out in section CW 10(1)﻿(b) to (d), (5), and (6) (Dividend within New Zealand wholly-owned group).
 
 ### CD 2 Distribution excluded from being dividend
 A distribution, derived by a member of a co-operative company, that is excluded by section CD 34B from being a dividend is income of the member.
@@ -1349,14 +1373,14 @@ Corresponding payments not dividends
 
 ### CD 14 Notional distributions of emigrating companies
 Dividend
-(1) A notional distribution of an emigrating company under section FL 2 (Treatment of emigrating companies and their shareholders) is a dividend for a shareholder of the company.
+(1) A notional distribution of an emigrating company under section FL 2 or FL 3 (which relate to the treatment of emigrating companies and their shareholders) is a dividend for a shareholder of the company.
 Amount of dividend
-(2) The amount of the dividend is determined by a shareholder’s entitlement in the circumstances set out in section FL 2.
+(2) The amount of the dividend is determined by a shareholder’s entitlement in the circumstances set out in section FL 2 or FL 3, as applicable.
 
 ### CD 15 Tax credits linked to dividends
 Imputation credits and withholding taxes
 (1) The amount of a dividend includes—
-  (a) an imputation credit attached to the dividend:
+  (a) an imputation credit attached to the dividend subject to any limitation to the imputation credit made under section LE 5 where the person is a beneficiary:
   (b) an amount of RWT or NRWT, as applicable, withheld from or paid in relation to the dividend.
 Relationship with sections CD 16 and CD 17
 (2) Subsection (1) is overridden by sections CD 16 and CD 17.
@@ -1566,7 +1590,7 @@ Employee share schemes
 When this section applies
 (1) This section applies when a shareholder—
   (a) is paid an amount in relation to a share on the liquidation of the company:
-  (b) is treated under section FL 2 (Treatment of emigrating companies and their shareholders) as being paid an amount in relation to a share in the company.
+  (b) is treated under section FL 2 or FL 3 (which relate to the treatment of emigrating companies and their shareholders) as being paid an amount in relation to a share in the company.
 Return of subscribed capital or capital gains
 (2) The amount paid is a dividend only to the extent to which it is more than—
   (a) the available subscribed capital per share calculated under the ordering rule; and
@@ -1731,7 +1755,8 @@ Amount not dividend
 Exclusion for interests in FIFs resident in Australia
 (2) Subsection (1)﻿(b)﻿(iv) does not apply if the person's interest in the company is included, at the beginning of the income year in which the payment is made, in a direct income interest of 10% or more in a FIF that, at the beginning of the income year,—
   (a) meets the requirements of section EX 35(b)﻿(i) to (iii) (Exemption for interest in FIF resident in Australia); and
-  (b) does not have its liability for income tax reduced by an exemption, allowance, or relief referred to in section EX 35(c)﻿(i) or (ii).
+  (b) does not have its liability for income tax reduced by an exemption, allowance, or relief referred to in section EX 35(c)﻿(i) or (ii); and
+  (c) is not a unit trust or is a unit trust subject under Australian law to income tax on its income in the same way as a company.
 Application of rule for certain managed funds
 (3) Subsection (2) does not apply if—
   (a) the person is a portfolio investment entity, an entity eligible to be a portfolio investment entity, or a life insurance company; and
@@ -1975,7 +2000,7 @@ Subscriptions amount: amalgamated company
     (iii) not shares in the amalgamated company:
   (b) does not include any other amount for the agreement of shareholders of an amalgamating company to the amalgamation and the resulting property acquisitions by the amalgamated company.
 Subscriptions amount: emigrating company
-(16) If a company has been treated under section FL 2 (Treatment of emigrating companies and their shareholders) as paying a distribution to shareholders, the subscriptions amount includes the amount of the distribution that is a dividend.
+(16) If a company has been treated under section FL 2 or FL 3 (which relate to the treatment of emigrating companies and their shareholders) as paying a distribution to shareholders, the subscriptions amount includes the amount of the distribution that is a dividend.
 Subscriptions amount: Maori authority
 (17) If the company is a Maori authority, the subscriptions amount includes the taxable income derived by the Maori authority in the 2003–04 tax year or an earlier tax year.
 Subscriptions amount: no double counting
@@ -3067,7 +3092,7 @@ General rule
     (v) the exemption in section EX 35 (Exemption for interest in FIF resident in Australia):
     (vi) the 10-year exemption for a venture capital company emigrating to a grey list country in section EX 36 (Venture capital company emigrating to grey list country: 10-year exemption):
     (vii) the 10-year exemption for a grey list company owning a New Zealand venture capital company in section EX 37 (Grey list company owning New Zealand venture capital company: 10-year exemption):
-    (viii) the exemption for an employee share purchase scheme of a grey list company in section EX 38 (Exemptions for employee share schemes):
+    (viii) the exemption for an employee share scheme of a grey list company in section EX 38 (Exemptions for employee share schemes):
     (ix) the terminating exemption for a grey list company with numerous New Zealand shareholders in section EX 39 (Terminating exemption for grey list company with numerous New Zealand shareholders):
     (x) the terminating exemption for a grey list company investing in Australasian equities in section EZ 32 (Terminating exemption for grey list FIF investing in Australasian listed equities):
     (xi) the foreign exchange control exemption in section EX 40 (Foreign exchange control exemption):
@@ -3166,7 +3191,7 @@ Types of life insurance policies
 What this section applies to
 (1) This section applies for—
   (a) an insurer who—
-    (i) uses IFRS 4, Appendix D for general insurance contracts:
+    (i) uses IFRS 4, Appendix D or IFRS 17 for general insurance contracts:
     (ii) is a life insurer who has general insurance contracts; and
   (b) general insurance contracts, excluding contracts having premiums to which section CR 3 (Income of non-resident general insurer) applies.
 When this section does not apply
@@ -3177,7 +3202,7 @@ Definition of items in formula
 (3) In the formula,—
   (a) opening outstanding claims reserve is the total for the general insurance contracts of—
     (i) the amount of the insurer's closing outstanding claims reserve for the income year before the current year (the prior year), for general insurance contracts to which neither of subparagraphs (ii) and (iii) apply:
-    (ii) if the current year is the first year that this section applies to the insurer and general insurance contracts, the amount of the insurer's reserve for outstanding claims liability, calculated at the end of the prior year using the basis the insurer used for tax purposes in that prior year, for general insurance contracts to which subparagraph (iii) does not apply:
+    (ii) the amount of the insurer’s closing outstanding claims reserve, for general insurance contracts not referred to in subparagraph (iii), used by the insurer for tax purposes for the prior year, if the current year is the first year for which this section applies to the insurer, or for which the insurer adopts IFRS 17, or for which the insurer applies for the first time in a tax calculation the definition of present value (gross) in section EY 24(5) (Outstanding claims reserving amount: non-participation policies not annuities):
     (iii) the amount calculated using the formula in section DW 4(4B) (Deductions for general insurance outstanding claims reserve), for general insurance contracts transferred to the insurer in the current year by a transfer to which section ED 3(1B) (Part-year tax calculations for transfers: general insurance OCR) applies:
   (b) closing outstanding claims reserve is the amount of the insurer’s outstanding claims reserve, calculated at the end of the current year.
 
@@ -3607,7 +3632,7 @@ When credits attached
 (2) The amount of a taxable Maori authority distribution or notional distribution is increased by a credit that is attached or is treated as attached under section RE 24 (When amount of tax treated as Maori authority credit).
 
 ### CV 12 Trustees: amounts received after person’s death
-To the extent to which section HC 8 (Amounts received after person’s death) applies to an amount that a trustee of an estate of a deceased person receives in an income year, the amount is income of the trustee.
+To the extent to which section HC 8(2) (Amounts received after person’s death) applies to an amount that a trustee of an estate of a deceased person receives in an income year, the amount is income of the trustee.
 
 ### CV 13 Amounts derived from trusts
 An amount derived by a person is income of the person if it is—
@@ -3697,6 +3722,14 @@ Exempt income
 ### CW 3B Pre-1990 forest land units: emissions trading scheme
 [Repealed]
 
+### CW 3C Certain subdivisions of land
+Exempt income
+(1) An amount that a person derives from disposing of land is exempt income if they are a co-owner of the land and—
+  (a) the land is disposed of by the person to themselves and other co-owners, but to no third parties by any co-owner; and
+  (b) as between the co-owners, the value of the land disposed of by them to each of themselves is proportionate to the value contributed by each co-owner for their acquisition of the land. For example: A contributes $10 for the acquisition of land worth $25, and B contributes $15. When A and B dispose of the land to themselves at a later date for a total of $50, A provides $20 and B provides $30. Because, as between themselves as co-owners, the disposal to each of themselves is proportionate in value to their acquisition contribution, amounts derived by A and B in relation to the disposal are exempt income.
+Exception: 5% safe harbour
+(2) Despite subsection (1), if the person has the smallest proportion of the land as between co-owners and the land’s value at the time of disposal is not exactly proportionate to the acquisition value as between co-owners, income derived by the person from disposing of the land is nevertheless exempt income if the difference between the actual disposal proportion and the proportion required by subsection (1) for an exemption is less than 5%.
+
 ### CW 4 Annuities under life insurance policies
 When this section applies
 (1) This section applies when—
@@ -3778,13 +3811,25 @@ Non-application to certain dividends
   (b) excluded by section CD 36(2) (Foreign investment fund income) from the effect of section CD 36(1).
 
 ### CW 10 Dividend within New Zealand wholly-owned group
-Exempt income
+Exempt income: dividends within wholly-owned groups
 (1) A dividend is exempt income if—
-  (a) it is derived by a company (the recipient) that is resident in New Zealand; and
+  (a) it is derived by a company (the recipient) that is—
+    (i) not a foreign company; or
+    (ii) a New Zealand resident company that is treated under a double tax agreement as not being resident in New Zealand; and
   (b) it is derived from a company (the payer) that is part of the same wholly-owned group of companies as the recipient at the time the dividend is derived; and
   (c) the payer is not a foreign company; and
   (d) the payer is not a company that can derive only exempt income; and
-  (e) the requirements of subsections (5) and (6) are met.
+  (e) the requirements of subsections (5) and (6) are met; and
+  (f) for a dividend derived by a company described in paragraph (a)﻿(ii), 1 or more of the following apply:
+    (i) the recipient is treated as not being resident in New Zealand under a double tax agreement between New Zealand and Australia:
+    (ii) immediately after the dividend is derived by the recipient, the recipient has only shareholders that would have full relief from New Zealand tax under a double tax agreement on a dividend paid to them at that time by the recipient if the recipient were treated as being a company that is not a foreign company:
+    (iii) the total amount of dividends derived by the recipient from the payer is less than $1 million in each 12-month period that includes the date on which the dividend is derived by the recipient:
+    (iv) the recipient becomes a company that is not a foreign company within 2 years of the date on which it derived the dividend and does not itself pay a dividend in the period that starts on the date on which it derived the dividend and ends on the date on which it becomes a company that is not a foreign company.
+Exempt income: fully imputed dividends within wholly-owned groups
+(1B) A dividend is exempt income to the extent to which it is fully imputed if—
+  (a) it is derived by a company described in subsection (1)﻿(a)﻿(ii); and
+  (b) the requirements of subsection (1)﻿(b) to (e) are met; and
+  (c) the requirement of subsection (1)﻿(f) is not met.
 Aligned balance dates
 (2)
 Exclusion: dividends from council-controlled organisations
@@ -5127,7 +5172,7 @@ When fringe benefit arises
 Exclusions
 (2) Subsection (1) does not apply to a loan made—
   (a) as an employee share loan:
-  (b) under a share purchase scheme:
+  (b) under an exempt ESS:
   (bb) as an amount that is a PAYE-related overpayment:
   (c)
   (d) as an advance of salary and wages, if,—
@@ -5393,7 +5438,7 @@ Meaning
 Exclusions
 (2) This section does not apply—
   (a) to shares, rights, or options in a qualifying company:
-  (b) to a loan made under a share purchase scheme:
+  (b) to a loan made under an exempt ESS:
   (c) to an employer and an employee who are associated persons.
 
 ### CX 36 Meaning of private use
@@ -5459,7 +5504,7 @@ Farm-in expenditure under a farm-out arrangement is excluded income of a petrole
 ### CX 47 Government grants to businesses
 When this section applies
 (1) This section applies when—
-  (a) a local authority or a public authority makes a payment to a person for a business that the person carries on; and
+  (a) a local authority, a public authority, or a public purpose Crown-controlled company makes a payment to a person for a business that the person carries on; and
   (b) the payment—
     (i) is in the nature of a grant or subsidy to the person; or
     (ii) is a grant-related suspensory loan to the person; and
@@ -5948,6 +5993,21 @@ Extent of exemption
   (a) accommodation:
   (b) less than or equal to $3,200 in total, if the income is in a form other than accommodation.
 
+### CZ 23B Employee benefits for North Island flooding events: exempt income
+Exempt income
+(1) Income derived by an employee from an employer is exempt income to the extent given by subsection (2) if the income—
+  (a) would be assessable income in the absence of this section; and
+  (b) is provided by the employer for the purpose of relief of employees from the adverse effects of a North Island flooding event; and
+  (c) is derived in the period of 8 weeks beginning on the first day of the relevant North Island flooding event; and
+  (d) does not replace a PAYE income payment; and
+  (e) does not depend on the seniority of the employee; and
+  (f) is available to another employee, who is not an associated person of the employer and is or was immediately before a North Island flooding event in full-time employment with the employer, if the employee is an associated person of the employer; and
+  (g) is treated by the employer as being exempt income for the employee.
+Extent of exemption
+(2) Income satisfying subsection (1) is exempt income to the extent to which the income is—
+  (a) accommodation:
+  (b) less than or equal to $5,000 in total, if the income is in a form other than accommodation.
+
 ### CZ 24 Employee benefits for Canterbury earthquake relief: not fringe benefits
 When this section applies
 (1) This section applies when an employee receives from an employer a benefit that—
@@ -5963,6 +6023,23 @@ Benefits with known value for employee
   (a) exempt income under section CZ 23(2)﻿(b); and
   (b) derived by the employee from the employer in the same period.
 Benefits with unknown value for employee
+(3) Benefits satisfying subsection (1) that would, in the absence of this section, be fringe benefits having a value for the employee that the employer could not estimate, are not fringe benefits.
+
+### CZ 24B Employee benefits for North Island flooding events relief: not fringe benefits
+When this section applies
+(1) This section applies when an employee receives from an employer a benefit that—
+  (a) would be a fringe benefit in the absence of this section; and
+  (b) is for the purpose of the relief of employees from the adverse effects of a North Island flooding event; and
+  (c) is received in the period of 8 weeks beginning on the first day of the relevant North Island flooding event; and
+  (d) does not replace a PAYE income payment; and
+  (e) does not depend on the seniority of the employee; and
+  (f) is available to another employee, who is not an associated person of the employer and is or was immediately before the relevant North Island flooding event in full-time employment with the employer, if the employee is an associated person of the employer; and
+  (g) is treated by the employer as not being a fringe benefit.
+Benefits with known value for employee
+(2) Benefits satisfying subsection (1) that would, in the absence of this section, be fringe benefits having a value for the employee that the employer could estimate, are not fringe benefits to the extent to which their total value as fringe benefits for the period would be less than or equal to the amount by which $5,000 exceeds the income that is—
+  (a) exempt under section CZ 23B(2)﻿(b); and
+  (b) derived by the employee from the employer in the same period.
+Benefits without known value for employee
 (3) Benefits satisfying subsection (1) that would, in the absence of this section, be fringe benefits having a value for the employee that the employer could not estimate, are not fringe benefits.
 
 ### CZ 25 Land and buildings as revenue account property affected by Canterbury earthquakes and replaced—insurance or compensation, Government purchase
@@ -6100,6 +6177,28 @@ Related provisions
   (a) commencing on 4 September 2010:
   (b) applying for the person's income year that includes 4 September 2010 and for all later income years.
 
+### CZ 29B Accommodation expenditure: North Island flooding events
+When this section applies
+(1) This section applies for the purposes of section CW 16B (Accommodation expenditure: out-of-town secondments and projects) when—
+  (a) the employment duties of an employee require them to work on a project of limited duration for rebuilding or recovery, including the repair and reconstruction of land, infrastructure, and other property in the areas affected by the North Island flooding events; and
+  (b) the distant workplace is a workplace in the areas affected by the North Island flooding events.
+Exempt income
+(2) The value provided or expenditure incurred by the employer of the employee for or in relation to the accommodation is exempt income of the employee.
+Modified definition of project of limited duration
+(3) Despite paragraph (c)﻿(iii) of the definition of project of limited duration and section CW 16C(2)﻿(d) (Time periods for certain accommodation expenditure), for the purposes of this section, the 3-year limit is ignored and is replaced by 5 years, if the employee starts work at the distant workplace in the period commencing on the date of the first relevant North Island flooding event, being 8 January 2023, 26 January 2023, or 12 February 2023, as the case may be, and ending 6 months after that date.
+Time limit extension
+(4) The time limit imposed by subsection (3) may be extended or modified by Order in Council made—
+  (a) on the recommendation of the Minister of Revenue; and
+  (b) before the time limit in subsection (3) that applies immediately before the Order in Council comes into force.
+Definitions for this section
+(5) In this section,—
+  (a) rebuilding includes—
+    (i) extending, repairing, improving, subdividing, or converting any land, infrastructure, or other property; and
+    (ii) rebuilding communities:
+  (b) recovery includes restoration and enhancement.
+Relationship with section CZ 30
+(6) Section CZ 30 does not apply to modify the application of this section.
+
 ### CZ 30 Transitional provision: application of certain accommodation provisions
 When this section applies
 (1) This section applies for the purposes of sections CE 1B, CW 16B to CW 16F, and CW 17CB (which relate to expenditure on accommodation and work-related meals) when an employer provides accommodation or incurs expenditure that meets the requirements of those provisions in the period that starts on 1 January 2011 or 1 April 2011, as applicable, and ends on 31 March 2015.
@@ -6201,6 +6300,8 @@ When this section applies
 (1) This section applies to a person’s disposal of residential land, if the person first acquires an estate or interest in the residential land on or after 29 March 2018 and section CB 6A (Disposal within 10 years: bright-line test for residential land) does not apply. However, this section does not apply to—
   (a) a person’s disposal of a freehold estate in residential land that the person acquired as the owner of a leasehold estate with a perpetual right of renewal, if the person was granted the leasehold estate before 29 March 2018:
   (b) a person’s disposal of an estate or interest in residential land that the person acquired as the result of the completion of a land development or subdivision, if before 29 March 2018 the person entered into the agreement under which they acquired the estate or interest upon the completion of the land development or subdivision.
+When this section does not apply
+(1B) This section does not apply to a person’s disposal of residential land if the land meets the requirements of section CB 6AB, CB 6AC, CB 6AE, or FB 3A (which relate to residential land), and the transferor first acquired an estate or interest in the land before 29 March 2018.
 Disposal within 5 years
 (2) An amount that a person derives from disposing of residential land is income of the person, if the bright-line date for the residential land is within 5 years of—
   (a) the date (the bright-line acquisition date) on which the instrument to transfer the land to the person was registered—
@@ -6218,11 +6319,11 @@ Leases with perpetual right of renewal
 Estate or interest acquired upon completion of land development or subdivision
 (5) Despite subsection (2), an amount that a person derives from disposing of an estate or interest in residential land, acquired as the result of the completion of a land development or subdivision, is income if the bright-line date for the estate or interest is within 5 years of the date of the person entering into the agreement (the bright-line acquisition date) under which they acquired the estate or interest upon the completion of the land development or subdivision.
 Joint tenancy converted to tenancy in common
-(5B) Despite subsection (2), for residential land transferred in the case and to the extent to which the residential land is held as a tenant in common in a share equal to all joint owners, acquired subsequent to, and to the extent to which it was previously being held as a joint tenant nominally in the same share equal to the same joint owners, an amount that a person derives from disposing of the residential land is income of the person if the bright-line disposal date for the residential land is within 5 years of the date (the bright-line acquisition date) that the joint tenancy was acquired.
+(5B) Despite subsection (2), for residential land transferred in the case and to the extent to which the residential land is held as a tenant in common in a share equal to all joint owners, converted subsequent to, and to the extent to which it was previously being held as a joint tenant nominally in the same share equal to the same joint owners, an amount that a person derives from disposing of the residential land is income of the person if the bright-line disposal date for the residential land is within 5 years of the date (the bright-line acquisition date) that was the person’s bright-line acquisition date for the land prior to the conversion.
 Tenancy in common converted to joint tenancy
-(5C) Despite subsection (2), for residential land transferred in the case and to the extent to which the residential land is held as a joint tenant nominally in a share equal to all joint owners, acquired subsequent to, and to the extent to which it was previously being held as a tenant in common in the same share equal to the same joint owners, an amount that a person derives from disposing of the residential land is income of the person if the bright-line disposal date for the residential land is within 5 years of the date (the bright-line acquisition date) that the tenancy in common was acquired.
-Dividing from and merging with pre-existing land
-(5D) To the extent to which land (land A) is either transferred by a person and, before transfer from them, was part of other land (pre-existing land) that a person owned, or is transferred to a person and, after transfer to them, merges with other land (also pre-existing land) that the person owns, an instrument of transfer for the transfer is treated as not being for the pre-existing land.
+(5C) Despite subsection (2), for residential land transferred in the case and to the extent to which the residential land is held as a joint tenant nominally in a share equal to all joint owners, converted subsequent to, and to the extent to which it was previously being held as a tenant in common in the same share equal to the same joint owners, an amount that a person derives from disposing of the residential land is income of the person if the bright-line disposal date for the residential land is within 5 years of the date (the bright-line acquisition date) that was the person’s bright-line acquisition date for the land prior to the conversion.
+Land-owning person
+(5D) In the case and to the extent to which a person who owns land (pre-existing land) has more land transferred to them (the transfer land) or transfers part of their pre-existing land (also, the transfer land), the instrument of transfer for the transfer land is for the transfer land only and is treated as not being for the pre-existing land, for the purposes of the definition of bright-line acquisition date.
 Beginning of 5-year period for transfers by registration if trustees change
 (6) If the person referred to in subsection (2)﻿(a) or (3)﻿(a) is a trustee of a trust who has been transferred the land or undivided land from a trustee of the trust, the date on which the instrument was registered is treated as occurring on,—
   (a) for subsection (2)﻿(a),—
@@ -6238,7 +6339,7 @@ Residential land transferred to Maori authorities, or similar eligible persons, 
 Certain transfers of residential land included in settlement of claim under the Treaty of Waitangi
 (6D) Despite subsections (2) to (5C), for certain transfers of residential land, as described in section CB 6AE (Certain transfers of residential land included in settlement of claim under the Treaty of Waitangi), an amount that a person derives from disposing of the residential land is income of the person if the bright-line disposal date for the residential land is within 5 years of the bright-line acquisition date given by section CB 6AE.
 Exception: disposal of land by executor, administrator, or beneficiary
-(7) This section does not apply to an amount that an executor or administrator described in section FC 1(1)﻿(a) (Disposals to which this subpart applies), or a beneficiary described in section FC 1(1)﻿(b), derives from disposing of residential land that was transferred to them on the death of a person.
+(7) This section does not apply to an amount that an executor or administrator described in section FC 1(1)﻿(a) (Disposals to which this subpart applies), or a beneficiary described in section FC 1(1)﻿(b), derives from disposing of residential land that was transferred to them on the death of a person (see also: section FC 9 (Residential land transferred to executor, administrator, or beneficiary on death of person).
 Relationship with subject matter
 (8) This section applies if none of sections CB 6 to CB 12 apply.
 A definition
@@ -7284,9 +7385,9 @@ Link with subpart DA
 When this section applies
 (1) This section applies to an investor in a multi-rate PIE when—
   (a) an amount of attributed PIE loss is attributed under section HM 36 (Calculating amounts attributed to investors) to an investor for an attribution period in a tax year; and
-  (b) the investor is—
-    (i) resident in New Zealand:
-    (ii) a trustee who has chosen a prescribed investor rate referred to in schedule 6, table 1, row 5 or 7.
+  (b) either—
+    (i) the investor is a zero-rated investor; or
+    (ii) the PIE calculates its tax liability using the quarterly calculation option under section HM 43 and the amount is attributed to an exiting investor to whom section HM 61 applies.
 Deduction
 (2) The investor is allowed a deduction for the amount allocated to the investor's income year in which the PIE's tax year ends.
 When this section also applies
@@ -7488,6 +7589,12 @@ Deduction: immediate
 (3) The person is allowed a deduction for the expenditure described in subsection (1), if their total expenditure described in subsection (1) in relation to all property is $10,000 or less for the income year.
 Link with subpart DA
 (4) This section overrides the capital limitation. The general permission must still be satisfied and the other general limitations still apply.
+
+### DB 68 Amounts paid for utilities distribution assets
+When this section applies
+(1) This section applies when a person incurs expenditure in relation to either a utilities distribution asset or a utilities distribution network.
+Determining whether expenditure of capital nature
+(2) For the purpose of determining whether the expenditure is capital in nature, the expenditure is treated as relating to a utilities distribution asset and is treated as not being incurred in relation to a utilities distribution network.
 
 ### Subpart DC — Employee or contractor expenditure
 
@@ -7790,10 +7897,8 @@ In this subpart,—
     (a) includes, for a person,—
       (i) their clients, customers, shareholders, other financiers, and suppliers:
       (ii) the clients, customers, shareholders, other financiers, and suppliers of an associated person:
-    (b) if the person is in partnership, does not include other partners in the partnership
-  - **business premises** —
-    (a) means the normal business premises or a temporary workplace of the person (or an associate):
-    (b) does not include premises or a workplace established mainly for the purpose of enjoying entertainment.
+    (b) if the person is in partnership, does not include other partners in the partnership.
+  - **business premises**
 
 ### Subpart DE — Motor vehicle expenditure
 
@@ -7966,7 +8071,7 @@ Secondary legislation
 ### DF 1 Government grants to businesses
 When this section applies
 (1) This section applies when—
-  (a) a local authority or a public authority makes a payment to a person for a business that the person carries on; and
+  (a) a local authority, a public authority, or a public purpose Crown-controlled company makes a payment to a person for a business that the person carries on; and
   (b) the payment—
     (i) is in the nature of a grant or subsidy to the person; or
     (ii) is a grant-related suspensory loan to the person; and
@@ -7979,12 +8084,12 @@ When this section does not apply
   (a) the payment of an R&D loss tax credit and the person’s expenditure is attributable to that payment:
   (b) an RDTI transition support payment and the person’s expenditure is attributable to that payment.
 When subsection (2) applies
-(1B) Subsection (2) applies when, in the absence of this section, the person would be allowed a deduction for expenditure by the person to which the payment by the local or public authority corresponds.
+(1B) Subsection (2) applies when, in the absence of this section, the person would be allowed a deduction for expenditure by the person to which the payment by the local authority, public authority, or public purpose Crown-controlled company corresponds.
 No deduction (with exception)
 (2) The person is denied, to the extent of the amount of the payment, the deduction that they would have been allowed in the absence of this section.
 When subsection (4) applies
 (3) Subsection (4) applies when—
-  (a) expenditure by the person in the acquisition, construction, installation, or extension of an item of depreciable property is expenditure to which the payment by the local or public authority corresponds; and
+  (a) expenditure by the person in the acquisition, construction, installation, or extension of an item of depreciable property is expenditure to which the payment by the local authority, public authority, or public purpose Crown-controlled company corresponds; and
   (b) in the absence of this section, the person would be allowed a deduction for an amount of depreciation loss for the item of depreciable property.
 Amount of depreciation loss
 (4) For the purpose of quantifying the amount of depreciation loss, the amount of the expenditure is reduced by the amount of the payment.
@@ -8159,7 +8264,10 @@ Apportionment
 (2) For the purposes of this subpart,—
   (a) if the person is not a company, an amount of interest expenditure incurred in relation to an asset is included in the item expenditure in section DG 9(3)﻿(a):
   (b) if the person is a company other than a qualifying company, an amount of interest expenditure incurred in relation to an asset is apportioned under section DG 11:
-  (c) if the person is a qualifying company, they are treated for the purposes of this subpart as a person that is not a company.
+  (c) if the person is a qualifying company, they are treated for the purposes of this subpart as a person that is not a company:
+  (d) despite paragraphs (a) and (b), a person must apportion an amount of interest expenditure for the income year using the formula in section DG 9(2) and treat the amount of the interest expenditure as the item expenditure in section DG 9(3)﻿(a) to the extent to which—
+    (i) the interest expenditure is for disallowed residential property that is an asset; or
+    (ii) the interest expenditure is for acquiring an ownership interest in, or to become a beneficiary of, an interposed residential property holder and the interposed residential property holder has an asset at any time during the income year.
 Exchange rate fluctuations
 (3) Interest expenditure does not include a deduction for an amount that arises only from movement in currency exchange rates.
 
@@ -8245,7 +8353,7 @@ Associated persons
 What this section does
 (1) This section quantifies the amount of a deduction that a close company is allowed for an income year when—
   (a) the company has an asset to which this subpart applies; and
-  (b) the company incurs interest expenditure for the income year that is not for disallowed residential property nor to acquire an ownership interest in, or become a beneficiary of, an interposed residential property holder.
+  (b) the company incurs interest expenditure for the income year.
 Determining values and deductions
 (2) The company must first determine the amount of its debt value and its asset value for the income year, and then apply either subsection (3) or subsections (4) to (6).
 Debt value less than asset value
@@ -8688,8 +8796,8 @@ Interposed residential property percentage
 Definition of items in formula
 (2) In the formula in subsection (1)—
   (a) disqualified assets is the value of the person’s property that is disallowed residential property, but excluding—
-    (i) property described in section DH 4(1) to (3); and
-    (ii) for a close company, property that is subject to subpart DG (Expenditure related to use of certain assets):
+    (i) property described in section DH 4; and
+    (ii)
   (b) total assets is the value of the person’s assets.
 Special rule: interposed residential property holder
 (3) If the person is a company, the items disqualified assets and total assets in this section are calculated to also include assets held by lower tier companies to the company by applying section YC 4 (Look-through rule for corporate shareholders), treating the person as the ultimate shareholder, to attribute, in proportion to the relevant voting interests and market value interests under that section, those lower tier assets.
@@ -8701,7 +8809,7 @@ Grandparented residential interest
 (1) Grandparented residential interest means interest, for a person and a grandparented transitional loan, that is,—
   (a) interest for the loan’s principal to the extent to which the interest is incurred for disallowed residential property:
   (b) if the loan (the underlying loan) is for both disallowed residential property and property that is allowed property described in subsection (3)﻿(b), and the portion incurred for disallowed residential property cannot reasonably be determined, the portion of underlying interest calculated by reference to a notional loan principal (the notional loan principal) that the person is treated as having used to acquire, on 26 March 2021, the disallowed residential property to which the underlying loan relates. The initial notional loan principal is calculated using the formula in subsection (2) and the treatment of repayments is provided in subsection (4).
-Grandparented residential interest: loan portion when tracing cannot reasonably be determined: initial notional loan balance
+Grandparented residential interest: loan portion when tracing cannot reasonably be determined: initial notional loan principal
 (2) For the purpose of subsection (1)﻿(b), the notional loan principal is calculated using the following formula, treating a negative amount as zero:outstanding borrowings − allowed property.
 Definition of items in formula
 (3) In the formula in subsection (2),—
@@ -8729,7 +8837,7 @@ Definition of items in formula
   (b) quarterly interposed residential property percentage is the interposed residential property percentage for the interposed residential property holder, calculated, as described in section DH 6, at the end of the relevant quarterly calculation period.
 
 ### DH 9 Exception to limited denial of deductions: loans denominated in foreign currencies
-Despite section DH 8(2) and (3), a deduction is denied for all interest to which section DH 8(1) applies that is incurred under a loan in foreign currency.
+[Repealed]
 
 ### DH 10 Limited denial of deductibility: simplified calculation of interest affected
 Application of section
@@ -8755,7 +8863,7 @@ Definition of items in formula
   (b) advances is the total amount of the loan applied in transactions that occur in the period between the start date and the balance time:
   (c) repayments is the total amount of the loan repaid in transactions that occur in the period between the start date and the balance time:
   (d) unrelated advances is the total amount of the loan that is not a grandparented transitional loan in the period between the start date and the balance time:
-  (e) unrelated repayments is the total amount of the loan repayments applied under section DH 7(4) against the notional loan principal in the period between the start date and the balance time.
+  (e) unrelated repayments is the total amount of the loan repayments applied under section DH 7(4), other than against the notional loan principal, in the period between the start date and the balance time.
 
 ### DH 11 Denied amounts: treatment upon disposal of disallowed residential property
 Disposal subject to section CB 6A or CZ 39: denied amount included as cost
@@ -8770,7 +8878,7 @@ Land not used in undertaking creating new build land
 (1) For the purposes of this subpart, a person’s land, excluding land described in section DH 4(2) and (3), is—
   (a) valued at its most recent capital value or annual value set by a local authority; or
   (b) if the land was acquired after the most recent local authority valuation, it is valued at its acquisition cost or, in the case of an associated person acquisition, its market value.
-Property used in undertaking
+Other property
 (2) For the purposes of this subpart, to the extent to which subsection (1) does not apply for a person’s property, the property is—
   (a) valued using its tax book value; or
   (b) if the person prepares financial accounts according to relevant accounting standards or legislative standards, valued using the financial accounts’ valuation.
@@ -8851,7 +8959,7 @@ General rule
     (v) the exemption in section EX 35 (Exemption for interest in FIF resident in Australia):
     (vi) the 10-year exemption for a venture capital company emigrating to a grey list country in section EX 36 (Venture capital company emigrating to grey list country: 10-year exemption):
     (vii) the 10-year exemption for a grey list company owning a New Zealand venture capital company in section EX 37 (Grey list company owning New Zealand venture capital company: 10-year exemption):
-    (viii) the exemption for an employee share purchase scheme of a grey list company in section EX 38 (Exemptions for employee share schemes):
+    (viii) the exemption for an employee share scheme of a grey list company in section EX 38 (Exemptions for employee share schemes):
     (ix) the terminating exemption for a grey list company with numerous New Zealand shareholders in section EX 39 (Terminating exemption for grey list company with numerous New Zealand shareholders):
     (x) the terminating exemption for a grey list company investing in Australasian equities in section EZ 32 (Terminating exemption for grey list FIF investing in Australasian listed equities):
     (xi) the foreign exchange control exemption in section EX 40 (Foreign exchange control exemption):
@@ -10466,7 +10574,7 @@ Link with subpart DA
 When this section applies
 (1) This section applies for—
   (a) an insurer who—
-    (i) uses IFRS 4, Appendix D for general insurance contracts:
+    (i) uses IFRS 4, Appendix D, or IFRS 17 for general insurance contracts:
     (ii) is a life insurer who has general insurance contracts; and
   (b) general insurance contracts, excluding contracts having premiums to which section CR 3 (Income of non-resident general insurer) applies.
 When this section does not apply
@@ -10478,11 +10586,13 @@ Formula for insurer's OCR deduction
 Definition of items in formula
 (4) In the formula,—
   (a) opening outstanding claims reserve is—
-    (i) the amount of the insurer's closing outstanding claims reserve for the income year before the current year (the prior year); or
-    (ii) the amount of the insurer's reserve for outstanding claims liability, calculated at the end of the prior year, using the basis the insurer used for tax purposes in that prior year, if the current year is the first year that this section applies to the insurer:
+    (i) the amount of the insurer's closing outstanding claims reserve for the income year before the current year (the prior year), if none of subparagraphs (ii), (iii), and (iv) applies; or
+    (ii) the amount of the insurer's reserve for outstanding claims liability, calculated at the end of the prior year, using the basis the insurer used for tax purposes in that prior year, if the current year is the first year that this section applies to the insurer; or
+    (iii) the amount of the insurer’s reserve for outstanding claims liability, calculated at the end of the prior year using the basis the insurer used for tax purposes in that prior year for general insurance contracts, if the insurer is a general insurer and the current year is the first year in which the insurer adopts IFRS 17 for general insurance contracts; or
+    (iv) the amount of the insurer’s reserve for outstanding claims liability, calculated at the end of the prior year using the basis the insurer used for tax purposes in that prior year for general insurance contracts, if the insurer is a life insurer with general insurance contracts who does not adopt IFRS 17 in the current year and the current year is the first year in which the insurer applies the definition of present value (gross) in section EY 24(5) (Outstanding claims reserving amount: non-participation policies not annuities):
   (b) closing outstanding claims reserve is the amount of the insurer’s outstanding claims reserve, calculated at the end of the current year.
 Contracts transferred to insurer
-(4B) If a person (the transferor) transfers a general insurance contract (the contract) to the insurer by a transfer to which section ED 3(1B) (Part-year tax calculations for transfers: general insurance OCR) applies, the amount of the item opening outstanding claims reserve for the contract under subsection (4) for the insurer is the amount calculated using the formula—unreported claim events + reported claims unpaid + risk margin.
+(4B) If a person (the transferor) transfers a general insurance contract (the contract) to the insurer by a transfer to which section ED 3(1B) (Part-year tax calculations for transfers: general insurance OCR) applies, the amount of the item opening outstanding claims reserve for the contract under subsection (4) for the insurer is the amount calculated using the formula—unreported claim events + reported claims unpaid + risk adjustment.
 Definition of items in formula in subsection (4B)
 (4C) In the formula in subsection (4B),—
   (a) unreported claim events is the actuarially determined estimate of the present value of claims, not reported to the transferor before the transfer, for events occurring before the transfer,—
@@ -10491,7 +10601,7 @@ Definition of items in formula in subsection (4B)
   (b) reported claims unpaid is the actuarially determined estimate of the present value of the claims reported to the transferor before the transfer and not paid before the transfer,—
     (i) taking into account the probability of the claims being paid and the future expenses for administering the claims; and
     (ii) after subtracting the present value of relevant reinsurance claims of the insurer:
-  (c) risk margin is the appropriate margin for claims described in paragraph (a) or (b), to the extent to which the margin—
+  (c) risk adjustment is the appropriate adjustment for claims described in paragraph (a) or (b), to the extent to which the adjustment—
     (i) is actuarially determined; and
     (ii) reflects the uncertainty of the estimates arising from the use of the relevant best estimate assumptions; and
     (iii) is not already included in the risk components of the claims.
@@ -12298,6 +12408,8 @@ Property: tangible
 (2) An item of tangible property is depreciable property if—
   (a) it is described by subsection (1); and
   (b) it is not described by section EE 7.
+Property: utilities distribution assets
+(2B) For the purposes of this subpart, utilities distribution assets are separate items of property.
 Property: intangible
 (3) An item of intangible property is depreciable property if—
   (a) it is within the definition of depreciable intangible property; and
@@ -12316,6 +12428,7 @@ The following property is not depreciable property:
   (e) excepted financial arrangements other than depreciable intangible property:
   (f) property that will not decline in value, as far as its owner is concerned, because, when they dispose of it, they have a right to be compensated for any decline in its value:
   (fb) property that is a piece of an item of depreciable property that is an aircraft or an aircraft engine, if the expenditure on the piece is treated under section DW 5(8) (Aircraft operators: aircraft engines and aircraft engine overhauls) as being expenditure incurred in carrying out an aircraft engine overhaul:
+  (fc) a utilities distribution network, to the extent to which it is treated as an item of property separate from the relevant utilities distribution assets:
   (g) property that its owner chooses, under section EE 8, to treat as not depreciable:
   (h) property that its owner chooses, under section EE 38, to deal with under that section:
   (i) property for whose cost a person other than the property’s owner is allowed a deduction:
@@ -12707,7 +12820,7 @@ Definition of items in formula
 
 ### EE 31 Annual rate for item acquired in person’s 1995–96 or later income year
 What this section is about
-(1) This section is about the annual rate that applies to an item of depreciable property that a person acquires, other than under section FL 2(2) (Treatment of emigrating companies and their shareholders), in their 1995–96 income year or a later income year (not including fixed life intangible property or excluded depreciable property, for which rates are set in sections EE 33 and EZ 15 (Annual rate for excluded depreciable property: 1992–93 tax year)). Subsection (2) applies to specify the annual rate for the item if the requirements in subsection (2A) are met, and subsection (3) applies to specify the annual rate for the item if subsections (2A) and (2) do not apply and the requirements in subsection (3A) are met.
+(1) This section is about the annual rate that applies to an item of depreciable property that a person acquires, other than under section FL 2(2) or FL 3(2) (which relate to the treatment of emigrating companies and their shareholders), in their 1995–96 income year or a later income year (not including fixed life intangible property or excluded depreciable property, for which rates are set in sections EE 33 and EZ 15 (Annual rate for excluded depreciable property: 1992–93 tax year)). Subsection (2) applies to specify the annual rate for the item if the requirements in subsection (2A) are met, and subsection (3) applies to specify the annual rate for the item if subsections (2A) and (2) do not apply and the requirements in subsection (3A) are met.
 Requirements for subsection (2) rate
 (2A) This subsection applies, and the rate is 1 of the rates given by subsection (2), if the person—
   (a) acquires the item on or before 20 May 2010; or
@@ -16043,6 +16156,12 @@ Functional currency
 (3) Even if another currency may be used as the functional currency under IFRSs, the methods must be applied using New Zealand dollars.
 Financial statements
 (4) Unless the context otherwise requires, references to IFRSs in sections EW 15D to EW 15I are references to IFRS rules used to prepare the person's financial statements.
+Agreed spreading methods for life financial reinsurance
+(5) A life insurer who, in an income year, is a party to a life financial reinsurance contract (the reinsurance contract) and to a deed of settlement under section 6A of the Tax Administration Act 1994 with the Commissioner that meets the requirements of subsection (6), must use the agreed spreading method referred to in subsection (6)﻿(b) for the reinsurance contract and the income year.
+Deed of settlement requirements
+(6) The deed of settlement must—
+  (a) be entered into by the life insurer and the Commissioner before 1 January 2023; and
+  (b) require the life insurer to use for the income year a method (the agreed spreading method) for spreading the income or expenditure under life financial reinsurance that differs from the treatment of life financial reinsurance that would otherwise be required under the IFRS used by the life insurer for the income year.
 
 ### EW 15C Preparing and reporting methods
 Who this section applies to
@@ -16071,7 +16190,9 @@ Fair value method not used for certain financial arrangements
   (b) the person uses for the other financial arrangement a method that is not the IFRS financial reporting method.
 Meaning of impaired credit adjustment
 (3) For the purposes of this section, impaired credit adjustment means—
-  (a) for a financial arrangement accounted for under the fair value method, the movement in fair value through the decline in credit quality of the arrangement:
+  (a) for a financial arrangement accounted for under the fair value method, a movement in fair value—
+    (i) through a decline in the credit quality of the arrangement; or
+    (ii) through an improvement in the credit quality of the arrangement to the extent to which it offsets earlier movements in fair value described in subparagraph (i):
   (b) for a financial arrangement not accounted for under the fair value method, credit impairment adjustments made under IFRSs.
 
 ### EW 15E Determination alternatives
@@ -16789,7 +16910,7 @@ Consideration: creditor
   (b) to the extent to which the proportional debt ratio for the amount equals the proportional ownership ratio.
 Some definitions
 (6) For the purposes of this section,—
-  - **nominal shares** are shares held by the trustee of a share purchase scheme, or employees or former employees of the debtor, if the total of those shares represent voting interests in the debtor that add up to no more than 3%, or, as applicable, market value interests in the company that add up to no more than 3%
+  - **nominal shares** are shares held by the trustee of an exempt ESS, or employees or former employees of the debtor, if the total of those shares represent voting interests in the debtor that add up to no more than 3%, or, as applicable, market value interests in the company that add up to no more than 3%
   - **proportional debt ratio** means, for a creditor and an amount of debt, the percentage that the creditor’s amount bears to the total amounts of debt to which this section applies remitted at the time the creditor’s debt is remitted
   - **proportional ownership ratio** means the creditor’s percentage of the ownership interests or, as applicable, market value interests, total partner’s interests, or total effective look-through interests for the debtor, ignoring nominal shares.
 
@@ -18427,7 +18548,7 @@ Grey list companies
   (e) at the time the person acquires the shares, the FIF—
     (i) employs the person:
     (ii) owns, directly or indirectly, the person’s employer; and
-  (f) the person acquires the shares under a employee share scheme; and
+  (f) the person acquires the shares under an employee share scheme; and
   (g) the employee share scheme includes a restriction on the disposal of the shares; and
   (h) at the beginning of the year, the period of the restriction—
     (i) has not expired:
@@ -18561,11 +18682,11 @@ Certain non-ordinary shares
   (b) a non-participating redeemable share:
   (c) an interest in a non-resident holding directly or indirectly assets of which 80% or more by value at a time in the income year—
     (i) consist of fixed-rate foreign equities, or financial arrangements providing funds to a person; and
-    (ii) are denominated in New Zealand dollars or, under IFRS 9, are hedged items having a value in New Zealand dollars governed by a hedging instrument that is highly effective:
+    (ii) are denominated in New Zealand dollars or are assets having a value in New Zealand dollars that is governed by 1 or more related financial arrangements that remove 80% to 125% of foreign currency risk for the assets and are entered with the sole purpose and net effect of offsetting exposure to foreign currency exchange rate movement in the value of the assets:
   (cb) an interest in a non-resident if—
     (i) the non-resident holds directly or indirectly assets of which 80% or more by value at a time in the income year consist of fixed-rate foreign equities or financial arrangements providing funds to a person ignoring financial arrangements between the non-resident and other members of a group of companies that it is a member of; and
     (ii) the non-resident is not listed on a recognised exchange or is listed on a recognised exchange but is a foreign PIE equivalent, ignoring section HL 10(4) (Further eligibility requirements relating to investments) for the purposes of this subparagraph; and
-    (iii) the interest is, under IFRS 9, a hedged item having a value in New Zealand dollars governed by a hedging instrument that is highly effective:
+    (iii) the interest has a value in New Zealand dollars that is governed by 1 or more related financial arrangements that remove 80% to 125% of foreign currency risk for the interest and are entered with the sole purpose and net effect of offsetting exposure to foreign currency exchange rate movement in the value of the interest:
   (d) a share that involves an obligation—
     (i) of another person to provide to the investor, directly or indirectly through an arrangement, an amount that is more than the issue price of the share; and
     (ii) that is non-contingent or subject to a contingency that is sufficiently remote to be immaterial:
@@ -18762,11 +18883,10 @@ FIF income formula
 Definition of items in FIF income formula
 (4) The items in the FIF income formula in subsection (3) are defined in subsections (5) to (7).
 Opening value
-(5) Opening value is the total of the market values of the FDR interests that—
-  (a) the person holds at the start of the income year; and
-  (b) are not, at the beginning of the income year, included in a direct income interest of 10% or more in a FIF that, at the beginning of the year,—
-    (i) meets the requirements of section EX 35(b)﻿(i) to (iii); and
-    (ii) does not have its liability for income tax reduced by an exemption, allowance, or relief referred to in section EX 35(c)﻿(i) or (ii).
+(5) Opening value is the total of the market values of the FDR interests held by the person at the start of the income year that are not, at the start of the income year, included in a direct income interest of 10% or more in a FIF that, at the start of the income year,—
+  (a) meets the requirements of section EX 35(b)﻿(i) to (iii); and
+  (b) does not have its liability for income tax reduced by an exemption, allowance, or relief referred to in section EX 35(c)﻿(i) or (ii); and
+  (c) is not a unit trust or is a unit trust subject under Australian law to income tax on its income in the same way as a company.
 Exclusion for certain managed funds
 (5B) Subsection (5)﻿(b) does not apply if—
   (a) the person is a portfolio investment entity, an entity eligible to be a portfolio investment entity, or a life insurance company; and
@@ -18829,11 +18949,10 @@ Formula
 Definition of items in formula
 (4) The items in the formula in subsection (3) are defined in subsections (5) to (15).
 Opening value
-(5) Opening value is the total of the market values of the FDR interests that—
-  (a) the interest holder holds at the start of the unit valuation period; and
-  (b) are not, at the beginning of the income year, included in a direct income interest of 10% or more in a FIF that, at the beginning of the year,—
-    (i) meets the requirements of section EX 35(b)﻿(i) to (iii); and
-    (ii) does not have its liability for income tax reduced by an exemption, allowance, or relief referred to in section EX 35(c)﻿(i) or (ii).
+(5) Opening value is the total of the market values of the FDR interests held by the person at the start of the unit valuation period that are not, at the start of the unit valuation period, included in a direct income interest of 10% or more in a FIF that, at the start of the income year,—
+  (a) meets the requirements of section EX 35(b)﻿(i) to (iii); and
+  (b) does not have its liability for income tax reduced by an exemption, allowance, or relief referred to in section EX 35(c)﻿(i) or (ii); and
+  (c) is not a unit trust or is a unit trust subject under Australian law to income tax on its income in the same way as a company.
 Exclusion for certain managed funds
 (5B) Subsection (5)﻿(b) does not apply if—
   (a) the interest holder is a portfolio investment entity, an entity eligible to be a portfolio investment entity, or a life insurance company; and
@@ -19088,7 +19207,8 @@ When this section applies
 Exclusion for interests in FIFs resident in Australia
 (1B) Subsection (1)﻿(c) does not apply if the person's interest in the company is included, at the beginning of the income year in which the payment is made, in a direct income interest of 10% or more in a FIF that, at the beginning of the income year,—
   (a) meets the requirements of section EX 35(b)﻿(i) to (iii); and
-  (b) does not have its liability for income tax reduced by an exemption, allowance, or relief referred to in section EX 35(c)﻿(i) or (ii).
+  (b) does not have its liability for income tax reduced by an exemption, allowance, or relief referred to in section EX 35(c)﻿(i) or (ii); and
+  (c) is not a unit trust or is a unit trust subject under Australian law to income tax on its income in the same way as a company.
 Application of rule for certain managed funds
 (1C) Subsection (1B) does not apply if—
   (a) the person is a portfolio investment entity, an entity eligible to be a portfolio investment entity, or a life insurance company; and
@@ -19955,16 +20075,23 @@ Calculation of reserving amount
 Definition of items in formula
 (2) In the formula in subsection (1),—
   (a) opening outstanding claims reserve is—
-    (i) the amount of the life insurer’s closing outstanding claims reserve for the class of policies, for the income year before the current year (the prior year); or
-    (ii) if the life insurer has no closing outstanding claims reserve for the prior year, the amount that would be the outstanding claims reserve for the class of policies, using subsections (3) and (4) with necessary modifications, calculated at the end of the prior year, but using a basis consistent with the one that the insurer used for tax purposes in that prior year (for example, if IBNR liability was not accounted for, for tax purposes, in the prior year, the opening balance calculation does not take into account IBNR liability):
+    (i) if subparagraphs (ii), (iii), and (iv) do not apply, the amount of the life insurer’s closing outstanding claims reserve for the class of policies, for the income year before the current year (the prior year); or
+    (ii) if the life insurer has no closing outstanding claims reserve for the prior year, the amount that would be the outstanding claims reserve for the class of policies, using subsections (3) and (4) with necessary modifications, calculated at the end of the prior year, but using a basis consistent with the one that the insurer used for tax purposes in that prior year (for example, if liability for claims incurred but not reported was not accounted for, for tax purposes, in the prior year, the opening balance calculation does not take into account liability for claims incurred but not reported); or
+    (iii) if the current year is the first year in which the insurer adopts IFRS 17 for accounting, the amount of the insurer’s reserve for outstanding claims liability for the class of policies, calculated at the end of the prior year using the basis the insurer used for tax purposes in that prior year; or
+    (iv) if the insurer does not adopt IFRS 17 in the current year and the current year is the first year in which the insurer applies the definition of present value (gross), the amount of the insurer’s reserve for outstanding claims liability for the class of policies, calculated at the end of the prior year using the basis the insurer used for tax purposes in that prior year:
   (b) closing outstanding claims reserve is the amount of the life insurer’s outstanding claims reserve calculated under subsections (3) and (4) for the class of policies at the end of the current year.
 Outstanding claims reserve calculation
-(3) A life insurer’s outstanding claims reserve is calculated for the relevant policies using the formula—life risk claims incurred + life risk claims reported + risk margin.
+(3) A life insurer’s outstanding claims reserve is calculated for the relevant policies using the formula—life risk claims incurred but not reported + life risk claims reported + risk adjustment.
 Definition of items in formula
 (4) In the formula in subsection (3),—
-  (a) life risk claims incurred is the actuarially determined estimate of present values (gross) for the life risk components of claims not yet reported to the life insurer before the end of the current year, but the insured-against event has occurred. The life risk components must take into account the probability of the claims being paid, and future expenses for administering the claims, but the present value (gross) of relevant life reinsurance claims must be subtracted from the total:
+  (a) life risk claims incurred but not reported is the actuarially determined estimate of present values (gross) for the life risk components of claims not yet reported to the life insurer before the end of the current year, but the insured-against event has occurred. The life risk components must take into account the probability of the claims being paid, and future expenses for administering the claims, but the present value (gross) of relevant life reinsurance claims must be subtracted from the total:
   (b) life risk claims reported is the present values (gross) of the life risk components of claims reported but not yet paid. The life risk components must take into account the probability of the claims being paid, and future expenses for administering the claims, but the present values (gross) of relevant life reinsurance claims must be subtracted from the total:
-  (c) risk margin is the appropriate margin for the life risk components of claims described in paragraph (a) or (b), to the extent to which the margin is actuarially determined, reflects the uncertainty of the estimates that arise from the use of the relevant best estimate assumptions, and is not already included in the life risk components of the claims.
+  (c) risk adjustment is the appropriate adjustment for the life risk components of claims described in paragraph (a) or (b), to the extent to which the adjustment is actuarially determined, reflects the uncertainty of the estimates that arise from the use of the relevant best estimate assumptions, and is not already included in the life risk components of the claims.
+Determining the present value (gross) of life risk components of claims
+(5) For the purposes of calculating a life insurer’s outstanding claims reserve under this section for a class of policies, present value (gross) for the life risk component of a claim under a life insurance policy or life reinsurance policy that is part of the class means the present value of the life risk component that is included in the outstanding claims reserve of the life insurer, calculated—
+  (a) using the discount rates that would be used in calculating the present value, gross of tax, of the life risk component for the purposes of the financial statements of the life insurer; and
+  (b) gross of tax; and
+  (c) net of GST.
 
 ### EY 25 Premium smoothing reserving amount: non-participation policies not annuities
 Calculation of reserving amount
@@ -22822,6 +22949,8 @@ Cost of residential land
 (3) If the residential land is transferred to a person who disposes of it, and the person derives income, the cost of the land to the person is—
   (a) the cost of the land incurred by the deceased person; and
   (b) all other expenditure incurred by the person, the deceased person, or the administrator or executor of the deceased person, as applicable, for which no deduction has been allowed.
+Rollover relief extended
+(4) Despite subsection (3), if the residential land is transferred by a beneficiary of the deceased person on or after 1 April 2022 to a person who is a recipient as described in section FC 9B(a) to (e), and the person disposes of it, sections CB 6A and CZ 39 do not apply to the disposal.
 
 **Exceptions for residential land transferred to trustees of certain trusts or other entities**
 
@@ -24470,9 +24599,11 @@ Exception to test for acting together
 
 ### FL 1 What this subpart does
 When this subpart applies
-(1) This subpart applies when a company that is a New Zealand resident (the emigrating company) stops being a New Zealand resident.
+(1) This subpart applies when a company that is a New Zealand resident (the emigrating company)—
+  (a) stops being a New Zealand resident; or
+  (b) starts being treated under a double tax agreement as not being a New Zealand resident.
 Tax effects
-(2) For tax purposes, the effects on an emigrating company and its shareholders, when an emigrating company becomes non-resident reflect the effects that would have resulted if,—
+(2) For tax purposes, the effects on an emigrating company and its shareholders, when an emigrating company becomes non-resident, or if a specified event occurs after an emigrating company starts being treated under a double tax agreement as not being a New Zealand resident, reflect the effects that would have resulted if,—
   (a) immediately before the time of emigration,—
     (i) the emigrating company disposed of its property at market value; and
     (ii) the emigrating company went into liquidation; and
@@ -24481,15 +24612,38 @@ Tax effects
     (i) the same ownership and business activities as those of the emigrating company immediately before the time of emigration; and
     (ii) the property of the emigrating company immediately before the time of emigration, acquired at its market value at that time.
 
-### FL 2 Treatment of emigrating companies and their shareholders
+### FL 2 Treatment of companies that become non-resident and their shareholders
 When this section applies
-(1) This section applies immediately before the time of emigration of an emigrating company.
+(1) This section applies in relation to a New Zealand resident company that—
+  (a) either—
+    (i) is not treated under a double tax agreement as not being a New Zealand resident; or
+    (ii) has been treated under a double tax agreement as not being a New Zealand resident since before 30 August 2022; and
+  (b) stops being a New Zealand resident.
 Treatment of company
-(2) The company is treated as—
+(2) Immediately before the company stops being a New Zealand resident, the company is treated as—
   (a) disposing of its property to a person, and reacquiring the property from the person, for consideration equal to the market value of the property at the time; and
   (b) making a distribution in money as a dividend to its shareholders of an amount that would be available for distribution at the time if the company were treated as going into liquidation.
-Treatment of shareholder
-(3) Each shareholder of the company is treated as being paid a distribution in money as a dividend of the amount the shareholder would be entitled to at the time if the company were treated as going into liquidation.
+Treatment of shareholders
+(3) Immediately before the company stops being a New Zealand resident, each shareholder of the company is treated as being paid a distribution in money as a dividend of the amount the shareholder would be entitled to at the time if the company were treated as going into liquidation.
+
+### FL 3 Treatment of companies that start being treated as non-resident and their shareholders
+When this section applies
+(1) This section applies in relation to a New Zealand resident company that, on or after 30 August 2022, starts being treated under a double tax agreement (the DTA) as not being a New Zealand resident if, after the company starts being treated under the DTA as not being a New Zealand resident, 1 or more of the following events occur:
+  (a) the company takes a tax position in a return of income that is consistent with relief from New Zealand tax being available under the DTA for an amount of income derived by the company on the basis that the company is treated under the DTA as not being a New Zealand resident:
+  (b) the company becomes a non-resident:
+  (c) the company has been treated under the DTA as not being a New Zealand resident for a continuous period of 2 years starting on the day on which it receives a competent authority determination that it is treated under the DTA as not being a New Zealand resident.
+Treatment of company
+(2) Immediately before the company starts being treated under the DTA as not being a New Zealand resident, the company is treated as—
+  (a) disposing of its property to a person, and reacquiring the property from the person, for consideration equal to the market value of the property at the time; and
+  (b) making a distribution in money as a dividend to its shareholders at the time of an amount that would be available for distribution at the time if the company were treated as going into liquidation.
+Treatment of shareholders
+(3) Immediately before the company starts being treated under the DTA as not being a New Zealand resident, each shareholder of the company at the time is treated as being paid a distribution in money as a dividend of the amount the shareholder would be entitled to at the time if the company were treated as going into liquidation.
+Timing of income: company
+(4) An amount of income derived by the company from a deemed disposal under subsection (2) is allocated to the income year of the company in which the earliest of the events described in subsection (1)﻿(a) to (c) occurs.
+Timing of income: shareholders
+(5) A dividend that a shareholder of the company at the time referred to in subsection (3) is treated as being paid under that subsection is allocated to the income year of the shareholder in which the earliest of the events described in subsection (1)﻿(a) to (c) occurs.
+Relationship with section CD 1
+(6) This section overrides section CD 1(2) (Dividend).
 
 ### Subpart FM — Consolidated groups of companies
 
@@ -24832,10 +24986,10 @@ Sections 30 and 68 of Tax Administration Act 1994: FDP accounts
 When company eligible
 (1) A company is eligible to form, join, and continue as part of a consolidated group at a particular time if, at the time,—
   (a) it is resident in New Zealand; and
-  (b) it is not a foreign company; and
+  (b)
   (c) it is not a company that derives only exempt income, except exempt income under sections CW 9 and CW 10 (which relate to income from equity); and
   (d) it is incorporated in New Zealand or carrying on a business in New Zealand through a fixed establishment; and
-  (e) it is not, by the law of another country or territory, liable to income tax in that country or territory through domicile, residence, or place of incorporation; and
+  (e)
   (eb) it is a member of the same wholly-owned group of companies as the other members of the consolidated group; and
   (f) when subsection (2) or (4) applies, it meets the relevant conditions; and
   (g) subsection (6) does not apply to it.
@@ -24994,7 +25148,7 @@ When company eligible
   (a) it is resident in New Zealand or resident in Australia; and
   (b) it is part of the same wholly-owned group of companies; and
   (c) it is not treated under a double tax agreement as resident in a country other than New Zealand or Australia, as applicable, for the purposes of taxation in the relevant country; and
-  (d) it is required to maintain an imputation credit account under section OB 1 (General rules for companies with imputation credit accounts) or because of an election under section OB 2 (Australian companies choosing to have imputation credit accounts); and
+  (d) it is required to maintain an imputation credit account (see sections OB 1 and OB 2); and
   (e) if it is a company that is part of a consolidated group, it meets the criteria set out in subsection (2); and
   (f) if it is a qualifying company or a mining company, it meets the condition set out in subsection (3); and
   (g) subsection (5) does not apply to it.
@@ -26742,7 +26896,7 @@ Determination of identified transaction
   (a) accurately delineating the transfer pricing arrangement using the approach given in the OECD transfer pricing guidelines, chapter I, section D﻿.﻿1; and
   (b) identifying a transaction of supply and acquisition under the transfer pricing arrangement as delineated under paragraph (a).
 No transaction or differing transaction
-(1C) If the requirements of the OECD transfer pricing guidelines, paragraph 1.122, are met, the approach described in the OECD transfer pricing guidelines, chapter I, section D﻿.﻿2 must be used to treat a transfer pricing arrangement involving a supply and acquisition as instead involving—
+(1C) If the requirements of the OECD transfer pricing guidelines, paragraph 1.142, are met, the approach described in the OECD transfer pricing guidelines, chapter I, section D﻿.﻿2 must be used to treat a transfer pricing arrangement involving a supply and acquisition as instead involving—
   (a) no supply and acquisition; or
   (b) an identified transaction that differs from the supply and acquisition under the accurately delineated transfer pricing arrangement.
 Available methods for calculating arm’s length amount
@@ -27033,7 +27187,7 @@ Section GC 1 (Disposals of trading stock at below market value) does not apply t
 Section GC 1 (Disposals of trading stock at below market value) does not apply to a disposal of trading stock by a person—
   (a) to a donee organisation or a public authority; and
   (b) in—
-    (i) the period that begins on 17 March 2020 and ends on 31 March 2023; or
+    (i) the period that begins on 17 March 2020 and ends on 31 March 2024; or
     (ii) a period specified by an Order in Council made under section 225ABA of the Tax Administration Act 1994.
 
 ### GZ 5 Disposals of trading stock to non-associates
@@ -27043,7 +27197,7 @@ When this section applies
     (i) is not associated with person A; and
     (ii) is not a donee organisation or a public authority; and
   (b) in—
-    (i) the period that begins on 17 March 2020 and ends on 31 March 2023; or
+    (i) the period that begins on 17 March 2020 and ends on 31 March 2024; or
     (ii) a period specified by an Order in Council made under section 225ABA of the Tax Administration Act 1994.
 Exclusion from section GC 1
 (2) Section GC 1 (Disposals of trading stock at below market value) does not apply to the disposal.
@@ -27756,7 +27910,7 @@ Income year for which LTC elections are treated as received
 Commissioner's discretion as to LTC elections
 (5) An election that is late or does not have each person signing and dating as required by subsection (1)﻿(a) and (d) is treated as an election that has been received by the Commissioner for the income year under subsection (3) but subject to subsection (4), if all relevant persons sign and date it during the income year it may first operate, and the Commissioner decides that exceptional circumstances are the sole cause of the lateness or failure to sign and date.
 Valuation transfer
-(6) An entity that ceases to be a company upon becoming an LTC is treated as having, as an LTC, the same status, intention, purpose, and tax book values it had as a company for its assets, liabilities, and associated legal rights and obligations.
+(6) An entity that ceases to be a company upon becoming an LTC is treated as having, as an LTC, the same status, intention, purpose, and tax book timings and values it had as a company for its assets, liabilities, and associated legal rights and obligations.
 
 ### Subpart HC — Trusts
 
@@ -27866,8 +28020,10 @@ Exclusions from corpus
 ### HC 8 Amounts received after person’s death
 When this section applies
 (1) This section applies when a trustee of an estate of a deceased person receives an amount in an income year that is not income that the person derived during their lifetime, but would have been included in the person’s income had they been alive when it was received.
+Reportable income received within 28 days after person’s death
+(1B) The trustee may treat an amount of reportable income received by the trustee within the period of 28 days starting with the date of the person’s death as if it were income that was derived by the person before being received by the trustee.
 Income
-(2) The amount is treated under section CV 12 (Trustees: amounts received after person’s death) as income derived by the trustee in the income year.
+(2) An amount not treated as being derived by the person under subsection (1B) is treated under section CV 12 (Trustees: amounts received after person’s death) as income derived by the trustee in the income year.
 
 ### HC 9 Classifying trusts
 A trust is classified at the time it makes a distribution as—
@@ -28113,13 +28269,13 @@ Exempt income
     (i) a superannuation fund; or
     (ii) a testamentary trust or an inter vivos trust of which a settlor died resident in New Zealand (whether or not they died in the income year); and
   (c) for a foreign trust for which a resident trustee applies for registration within the period (the application period) given by section 59C of the Tax Administration Act 1994 and that is registered by the end of the income year (the post-deadline year) beginning next after the end of the application period,—
-    (i) the trust has a trust deed; and
+    (i) the trust has a trust deed or a will or other document that creates and governs the trust; and
     (ii) the income year ends after the day on which the Taxation (Business Tax, Exchange of Information, and Remedial Matters) Act 2017 receives the Royal assent; and
     (iii) for an income year that includes part of the application period or is the post-deadline year, the trust is registered before the end of the post-deadline year and is not deregistered before the foreign-sourced amount is derived; and
     (iv) for an income year beginning after the end of the post-deadline year, the trust is registered when the foreign-sourced amount is derived; and
     (v) the trustee complies with the requirements under sections 22, 59B, 59C, and 59D of the Tax Administration Act 1994 that the trustee must meet during the income year; and
   (d) for a foreign trust to which paragraph (c) does not apply,—
-    (i) the trust has a trust deed; and
+    (i) the trust has a trust deed or a will or other document that creates and governs the trust; and
     (ii) the trust is registered at the beginning of the income year; and
     (iii) the trust is registered when the foreign-sourced amount is derived; and
     (iv) the trustee complies with the requirements under sections 22, 59B, 59C, and 59D of the Tax Administration Act 1994 that the trustee must meet during the income year; and
@@ -29874,15 +30030,8 @@ When this section applies
 Person treated as investor
 (2) The PIE may treat the person as an investor in the class if the PIE acquires sufficient investments as described in section HM 11 as soon after the investor’s acquisition of the interests as is practicable.
 
-### HM 40 Deductions for attributed PIE losses for zero-rated and exiting investors
-When this section applies
-(1) This section applies to an investor in a multi-rate PIE when—
-  (a) an amount of attributed PIE loss is attributed under section HM 36 to the investor for an attribution period in a tax year; and
-  (b) either—
-    (i) the investor is a zero-rated investor; or
-    (ii) the PIE calculates its tax liability using the quarterly calculation option under section HM 43 and the amount is attributed to an exiting investor to whom section HM 61 applies.
-Deduction
-(2) In the investor's income year in which the end of the PIE's income year falls, the investor is allowed a deduction under section DB 53 (Attributed PIE losses of certain investors). The amount of the deduction is equal to the amount attributed for the income year or exit period.
+### HM 40 Deductions for attributed PIE losses for zero-rated and exiting investors equal to amount attributed
+The deduction an investor referred to in section DB 53(1) is allowed is equal to the amount attributed for the income year or exit period.
 
 **Calculating and paying tax liability**
 
@@ -31217,6 +31366,9 @@ The purpose of this subpart and sections GB 3BA to GB 3BAC (which relate to arra
 ### IB 2 Meaning of ownership continuity breach
 In this subpart, an ownership continuity breach, for a company, means a breach of the requirements for continuity of ownership of section IA 5 (Restrictions on companies’ loss balances carried forward: continuity of ownership) that, if met, enable a tax loss component of the company to be carried forward in a loss balance.
 
+### IB 2B When subsequent ownership continuity breach regarded as occurring
+For the purposes of this subpart, once an ownership continuity breach has occurred for a company that, in the absence of section IB 3, prevents a tax loss component of the company from being carried forward to a tax year in a loss balance, a subsequent change in the holders of voting interests or market value interests in the company is not regarded as resulting in a subsequent ownership continuity breach unless the company would not meet the minimum continuity requirements of section IA 5(2) and (3) for the carrying forward of the tax loss component to the tax year in a loss balance if the meaning of continuity period in that section is modified by replacing the words “the start of the income year that corresponds to the tax year in which a tax loss component is included in the tax loss” with the words “immediately after the company’s last ownership continuity breach occurred that, in the absence of section IB 3, prevents the tax loss component from being carried forward to the tax year in a loss balance”.
+
 ### IB 3 When tax loss components of companies carried forward despite ownership continuity breach
 When this section applies
 (1) This section applies when an ownership continuity breach occurs for a company.
@@ -31331,14 +31483,14 @@ Interests held
 (1) A wholly-owned group of companies means 2 or more companies in relation to which a group of persons holds, for the relevant period,—
   (a) common voting interests that add up to 100%; and
   (b) if a market value circumstance exists for a company that is part of a group of companies, common market value interests that add up to 100%.
-Employees’ share purchase schemes
-(2) In subsection (1), company shares held by the trustee of, or by employees or former employees of the company as a consequence of the operation of, a share purchase scheme are disregarded to the extent to which they represent voting interests in the company that add up to no more than 3%, or, as applicable, market value interests in the company that add up to no more than 3%.
+Exempt employee share schemes
+(2) In subsection (1), company shares held by the trustee of, or by employees or former employees of the company as a consequence of the operation of, an exempt ESS are disregarded to the extent to which they represent voting interests in the company that add up to no more than 3%, or, as applicable, market value interests in the company that add up to no more than 3%.
 
 ### IC 5 Company B using company A’s tax loss
 Requirements
 (1) Company A may make a tax loss available to company B to subtract from its net income under section IA 3(2) (Using tax losses in tax year) only if—
   (a) company A and company B have minimum common ownership for the relevant period as set out in sections IC 2(2) and IC 6; and
-  (b) company A meets the residence requirements of section IC 7; and
+  (b) company A meets the requirements of section IC 7; and
   (c) company A has the required continuity of ownership or business activities under section IC 2(1) and, if it applies, section IC 10(2)﻿(a); and
   (d) the amount falls within the limits set by section IC 8(1) and (2); and
   (e) the payment and notification requirements of section IC 9 are met.
@@ -31360,6 +31512,8 @@ Tax years before 1981–82 and between 1981–82 and 1991–92
   (a) subsection (1)﻿(a) for a tax loss component that arises in tax years between 1981–82 and 1991–92; and
   (b) subsection (1)﻿(b) for a tax loss component that arises in tax years before the 1991–92 tax year; and
   (c) subsection (1)﻿(a) for a tax loss component that arises in tax years before the 1981–82 tax year.
+Commonality periods starting before 15 March 2017 for tax years after 1990–91
+(8) Section IZ 7B (Grouping tax losses for commonality periods starting before 15 March 2017 for tax years after 1990–91) modifies the requirements of subsection (1)﻿(b) for a commonality period starting before 15 March 2017 for a tax loss component that arises after the 1990–91 tax year.
 
 ### IC 6 Common ownership for period
 Commonality period
@@ -31371,15 +31525,13 @@ When companies have different balance dates
 Relationship with section IZ 7
 (4) Section IZ 7(1) and (2)(Grouping tax losses for tax years before 1981–82 and between 1981–82 and 1991–92) overrides subsections (1) and (2).
 
-### IC 7 Residence of company A
+### IC 7 Place of incorporation or carrying on business
 Incorporation or carrying on business
 (1) Company A, for the commonality period, must be either—
   (a) incorporated in New Zealand; or
   (b) carrying on a business in New Zealand through a fixed establishment in New Zealand.
 Residence in New Zealand
-(2) In addition to meeting the requirements of subsection (1), company A, for the commonality period, must not be a company resident in New Zealand that is—
-  (a) treated under a double tax agreement, and for the purposes of the agreement, as not resident in New Zealand; or
-  (b) liable by the law of another country or territory to income tax in that country or territory through domicile, residence, or place of incorporation.
+(2)
 Relationship with section IZ 7
 (3) Section IZ 7(4) (Grouping tax losses for tax years before 1981–82 and between 1981–82 and 1991–92) overrides this section.
 
@@ -32064,6 +32216,11 @@ Residence of company A
 Relationship with sections IC 5 and IC 6
 (5) Subsections (1) and (2) override sections IC 5(1)﻿(a) and IC 6 (which relate to grouping requirements) and subsection (4) overrides sections IC 5(1)﻿(b) and IC 6.
 
+### IZ 7B Grouping tax losses for commonality periods starting before 15 March 2017 for tax years after 1990–91
+For the purposes of section IC 5(1)﻿(b) (Company B using company A’s tax loss), if the commonality period started before 15 March 2017 and company A’s tax loss component arose in a tax year after the 1990–91 tax year, in addition to meeting the requirements of section IC 7(1) (Place of incorporation or carrying on business), company A, for the part of the commonality period that precedes 15 March 2017, must not be a company resident in New Zealand that is—
+  (a) treated under a double tax agreement, and for the purposes of the agreement, as not resident in New Zealand; or
+  (b) liable by the law of another country or territory to income tax in that country or territory through domicile, residence, or place of incorporation.
+
 ### IZ 8 Election to use net loss for 2019–20 or 2020–21 year as tax loss in preceding year
 Terms used in this section
 (1) This section provides that a person who has taxable income in the 2018–19 or 2019–20 income year, or is in a group of companies with a person who has taxable income in 1 of those years, and has a net loss in the following income year may choose to reduce the taxable income in the first year by an amount, which is treated as being an available tax loss that can be used in the first income year, and subtracting the same amount from the net loss that would otherwise be available in the second income year, subject to restrictions that are expressed in terms of—
@@ -32626,7 +32783,7 @@ Trustee treated as beneficiary
 When this section applies
 (1) This section applies when a person who has a tax credit under section LE 1 is the beneficiary of a trust and, in that capacity, derives a dividend with an imputation credit attached.
 Limitation on amount of credit
-(2) The person’s credit is limited to an amount calculated using the formula—(person's distributions ÷ trust distributions)× (total beneficiary credits − person's supplementary dividend).
+(2) The person’s credit and imputation credit is limited to an amount calculated using the formula—(person's distributions ÷ trust distributions)× (total beneficiary credits − person's supplementary dividend).
 Definition of items in formula
 (3) In the formula,—
   (a) person’s distributions is the total distributions for the tax year made to the person in their capacity as beneficiary of the trust:
@@ -32912,8 +33069,8 @@ Amount of credit
   (e) the amount of foreign tax paid, under legislation of another country or territory that is equivalent of the international tax rules, by a foreign company in relation to income derived by the CFC.
 Credits for parent companies and group companies
 (1B) For the purposes of this section and sections LK 2, LK 3, and LK 6, a company that is part of a group of companies that includes a person with attributed CFC income has a tax credit for the tax year corresponding to the income year of an amount that is equal to an amount of foreign income tax paid by the group company in relation to the CFC from which the income is derived.
-Residence requirements
-(1C) For the purposes of subsection (1B), the residence requirements set out in section IC 7 (Residence of company A) do not apply to disallow the use of the tax credit by group companies under section LK 6.
+Place of incorporation or carrying on business
+(1C) For the purposes of subsection (1B), the requirements set out in section IC 7 (Place of incorporation or carrying on business) do not apply to disallow the use of the tax credit by group companies under section LK 6.
 Amount adjusted
 (2) The amount of the person’s credit in subsection (1) may be reduced or increased if section LK 7 applies.
 Limitation to quarantined amount
@@ -33413,7 +33570,7 @@ Current loss credit
 (4C) In the formula in subsection (4)﻿(b), the item current loss credit is the amount given by subsection (2).
 Exploration abandonment excess
 (4D) In the formula in subsection (4)﻿(b), the item exploration abandonment excess is the greater of zero and,—
-  (a) if the amount of the net loss described in subsection (1)﻿(c) is less than or equal to the total amount of the deductions described in subsection (1)﻿(a)﻿(i) and (ii), zero; or
+  (a) if the amount described in subsection (1)﻿(a)﻿(iii) is zero or the amount of the net loss described in subsection (1)﻿(c) is less than or equal to the total amount of the deductions described in subsection (1)﻿(a)﻿(i) and (ii), zero; or
   (b) if the amount of the net loss described in subsection (1)﻿(c) is equal to or exceeds the total amount of the deductions described in subsection (1)﻿(a)﻿(i) to (iii) and the amount described in subsection (1)﻿(a)﻿(iii) is greater than zero, the amount calculated by multiplying the amount referred to in subsection (1)﻿(a)﻿(iii) for the income year by the tax rate referred to in subsection (3)﻿(b) and subtracting the amount of income tax (the post-abandonment tax) paid by,—
     (i) for a petroleum miner, the petroleum miner and any consolidated group of which they are a member on net income derived for tax years beginning after drilling for the purposes of exploration ceased in the exploratory well, calculated on a year-by-year basis and aggregated:
     (ii) for a farm-in party, the farm-in party and any consolidated group of which they are a member on net income derived for tax years beginning after drilling for the purposes of exploration ceased in the exploratory well, calculated on a year-by-year basis and aggregated; or
@@ -35373,13 +35530,14 @@ Exclusions
 Exception to subsection (2): Australian resident
 (3)
 
-### OB 2 Australian companies choosing to have imputation credit accounts
+### OB 2 Australian companies with imputation credit accounts
 Election to be Australian ICA company
 (1) A company that is resident in Australia may choose, by notifying the Commissioner, to be obliged to establish and maintain an imputation credit account.
 Ineligibility
 (2) Despite meeting the residency requirements, a company is not eligible to make an election referred to in subsection (1) if—
   (a) the company—
     (i) is a company referred to in section OB 1(2)﻿(a)﻿(iii) or (iv), and (b) to (f); or
+    (ib) is treated as not being resident in Australia under a double tax agreement between New Zealand and Australia; or
     (ii) is treated as resident in a country other than Australia under an agreement between Australia and the other country that would be a double tax agreement if negotiated between New Zealand and that other country; or
   (b) an earlier election has been revoked by the Commissioner under subsection (7)﻿(b), and the company has not shown the Commissioner that it has taken adequate steps to prevent the grounds of revocation occurring again.
 When electing company becomes Australian ICA company
@@ -35388,6 +35546,8 @@ When electing company becomes Australian ICA company
   (b) for the purposes of section OB 60,—
     (i) for a company that is formed or becomes eligible in the tax year, the first day of the tax year in which the Commissioner receives the notice and the Commissioner notifies the company of that date; or
     (ii) if subparagraph (i) does not apply, 30 days after the date on which the Commissioner receives the notice.
+When New Zealand resident company becomes Australian ICA company
+(3B) If a company that is resident in New Zealand stops being a company that is required by section OB 1 to maintain an imputation credit account because, under a double tax agreement between New Zealand and Australia, the company is treated as not being resident in New Zealand, the company continues to be required to maintain an imputation credit account.
 Joint and several liability
 (4) A company that is part of the same wholly-owned group of companies as an Australian ICA company may have joint and several liability with the Australian ICA company for further income tax, civil penalties, and interest under Part 7 of the Tax Administration Act 1994 imposed on the Australian ICA company for a breach by the Australian ICA company of the imputation rules.
 Exclusion
@@ -35397,12 +35557,14 @@ Dividend in Australian currency
 How status ends
 (7) A company ends its status as an Australian ICA company if—
   (a) the company ceases to be resident in Australia or meets a requirement of subsection (2)﻿(a) or (b); or
-  (b) the company revokes the election by notifying the Commissioner; or
-  (c) the Commissioner gives the company notice revoking the election.
+  (b) for a company that has made an election under subsection (1),—
+    (i) the company revokes the election by notifying the Commissioner; or
+    (ii) the Commissioner gives the company notice revoking the election.
+  (c)
 When status ends
 (8) For the purposes of subsection (7), the company ends its status as an Australian ICA company—
   (a) from the day on which the relevant circumstance of ineligibility in subsection (2) applies; or
-  (b) unless paragraph (c) applies, from the last day of the tax year in which the company or the Commissioner revokes the election; or
+  (b) for a company that has made an election under subsection (1), unless paragraph (a) or (c) applies, from the last day of the tax year in which the company or the Commissioner revokes the election; or
   (c) for the purposes of section OB 60,—
     (i) when the company notifies the Commissioner, on the date on which the Commissioner receives the notice; or
     (ii) on the date set out in the Commissioner’s notice.
@@ -35639,6 +35801,14 @@ Table reference
 (2) The imputation credit in subsection (1) is referred to in table O1: imputation credits, row 21 (credit in credit transfer notice).
 Credit date
 (3) The credit date is the day the notice is given.
+
+### OB 23B ICA transfer from consolidated imputation group to departing member for unused tax payment
+Credit
+(1) An ICA company that ceases to be a member of a consolidated imputation group may choose to have an imputation credit for the amount of an imputation debit that the consolidated imputation group has under section OP 41B (Consolidated ICA debit for unused tax payment of departing member) because, immediately before the ICA company ceases to be a member, the imputation credit account of the consolidated imputation group contains an imputation credit arising under section OP 7 or OP 8 (which relate to consolidated ICAs) from a payment (the unused imputation credit payment) that is made by the ICA company when the ICA company is a member of the consolidated imputation group and is held, unused, by the Commissioner or a tax pooling intermediary when the membership ceases.
+Table reference
+(2) The imputation credit in subsection (1) is referred to in table O1: imputation credits, row 21B (unused imputation credit payment by member before departure).
+When credit arises
+(3) The credit date is the date of the credit to the imputation credit account of the consolidated imputation group for the unused imputation credit payment.
 
 ### OB 24 ICA credit on resident’s restricted amalgamation
 Credit
@@ -36147,13 +36317,14 @@ Treatment of group dividends
 
 ### OB 62 Retrospective attachment of imputation credits
 When this section applies
-(1) This section applies in relation to a dividend arising from a transfer pricing arrangement or under subpart FL (Emigration of resident companies) when—
-  (a) an ICA company pays a non-cash dividend whose amount is later adjusted under section GC 7 or GC 8 (which relate to transfer pricing arrangements):
-  (b) an emigrating company that was an ICA company immediately before the time of emigration and is treated under section FL 2 (Treatment of emigrating companies and their shareholders) as paying a distribution to shareholders.
+(1) This section applies in relation to a dividend—
+  (a) arising from a transfer pricing arrangement when an ICA company pays a non-cash dividend whose amount is later adjusted under section GC 7 or GC 8 (which relate to transfer pricing arrangements); or
+  (b) arising under subpart FL (Emigration of resident companies) when an emigrating company that was an ICA company immediately before the time of emigration is treated under section FL 2 or FL 3 (which relate to the treatment of emigrating companies and their shareholders) as paying a distribution to shareholders; or
+  (c) that an ICA company pays and that is described in section CD 1(3) (Dividend).
 Imputation credits attached retrospectively
 (2) The company may attach retrospectively an imputation credit to the dividend or distribution, as applicable.
 Limit for ICA company
-(3) The amount of all imputation credits attached retrospectively by a company referred to in subsection (1)﻿(a) during a tax year must not be more than the lesser of—
+(3) The amount of all imputation credits attached retrospectively by a company referred to in subsection (1)﻿(a) or (c) during a tax year must not be more than the lesser of—
   (a) the credit balance of the company’s imputation credit account at the end of the tax year in which the dividend is paid; or
   (b) the credit balance of the company’s imputation credit account at the end of each of the tax years in the period that runs from the tax year of payment of the dividend to the tax year in which the credit is attached retrospectively under subsection (1).
 Limit for emigrating company
@@ -37677,6 +37848,14 @@ Table reference
 Credit date
 (3) The credit date is the day the notice is given.
 
+### OP 16B Consolidated ICA credit transfer to departing consolidated imputation group for unused tax payment
+Credit
+(1) A consolidated imputation group (the departing group) that ceases to be a part of a consolidated imputation group (the parent group) may choose to have an imputation credit for the amount of an imputation debit that the parent group has under section OP 41C because, immediately before the departing group ceases to be part of the parent group, the imputation credit account of the parent group contains an imputation credit arising under section OP 7 or OP 8 from a payment (the unused imputation credit payment) that is made by the departing group when the departing group is part of the parent group and is held, unused, by the Commissioner or a tax pooling intermediary when the departing group ceases to be part of the parent group.
+Table reference
+(2) The imputation credit in subsection (1) is referred to in table O19: imputation credits of consolidated imputation groups, row 11B (unused imputation credit payment by departing consolidated group before departure).
+When credit arises
+(3) The credit date is the day of the credit to the imputation credit account of the parent group for the unused imputation credit payment.
+
 ### OP 17 Consolidated ICA resident withholding tax withheld
 Credit
 (1) A consolidated imputation group has an imputation credit for resident withholding tax (RWT) that is treated under section RA 9(1)﻿(b) (Treatment of amounts withheld as received) as derived by a group company other than as policyholder base income.
@@ -37933,6 +38112,28 @@ Table reference
 (2) The imputation debit in subsection (1) is referred to in table O20: imputation debits of consolidated imputation groups, row 15 (credit transfer).
 Debit date
 (3) The debit date is the day the dividend is paid.
+
+### OP 41B Consolidated ICA debit for unused tax payment of departing member
+Debit
+(1) A consolidated imputation group (the group) may choose to have an imputation debit for the amount of an imputation credit (the credit) in the group’s imputation credit account if—
+  (a) the credit arises under section OP 7 or OP 8 from a payment (the unused imputation credit payment) by a member of the consolidated imputation group (the company); and
+  (b) the company ceases to be a member of the group after making the unused imputation credit payment; and
+  (c) when the company ceases to be a member of the group, the unused imputation credit payment is held by the Commissioner or a tax pooling intermediary without having been applied to satisfy a tax liability, other than a liability of the company for provisional tax.
+Table reference
+(2) The imputation debit in subsection (1) is referred to in table O20: imputation debits of consolidated imputation groups, row 15B (member of consolidated imputation group leaving after making unused imputation credit payment).
+Debit date
+(3) The debit date is the date of the credit to the consolidated imputation group’s imputation credit account for the unused imputation credit payment.
+
+### OP 41C Consolidated ICA debit for unused tax payment of departing part of group
+Debit
+(1) A consolidated imputation group (the main group) may choose to have an imputation debit for the amount of an imputation credit (the credit) in the main group’s imputation credit account if—
+  (a) the credit arises under section OP 7 or OP 8 from a payment (the unused imputation credit payment) by a consolidated group (the part group) that is part of the main group; and
+  (b) the part group ceases to be a part of the main group after making the unused imputation credit payment; and
+  (c) when the part group ceases to be a part of the main group, the unused imputation credit payment is held by the Commissioner or a tax pooling intermediary without having been applied to satisfy a tax liability, other than a liability of the part group for provisional tax.
+Table reference
+(2) The imputation debit in subsection (1) is referred to in table O20: imputation debits of consolidated imputation groups, row 15C (part of consolidated imputation group leaving after making unused imputation credit payment).
+Debit date
+(3) The debit date is the date of the credit to the consolidated imputation group’s imputation credit account for the unused imputation credit payment.
 
 ### OP 42 Consolidated ICA debit for loss of shareholder continuity
 Debit
@@ -38556,6 +38757,10 @@ Foreign dividends
 (3)
 Timing for payments of passive income
 (4) An amount of tax withheld under subsections (1) and (2) must be withheld at the time the person makes the payment.
+Certain dividends paid to dual residents
+(5) For the purposes of subsections (2) and (4) and sections OB 9, OB 30, RA 15, and RF 3 (which relate to imputation credit accounts and withholding and payment obligations), a person who makes a payment of a dividend described in section CD 1(3) (Dividend) is treated as making the payment on the DRCD deferral date.
+Meaning of DRCD deferral date
+(6) For the purposes of this section and sections CD 1, OB 9, OB 30, RA 15, RF 3, and RF 11BB, the DRCD deferral date is the day that is the second anniversary of the date on which the dividend was actually paid.
 
 ### RA 6B Withholding and payment obligations for retirement scheme contributions
 A person who makes a contribution to a retirement savings scheme must withhold and pay RSCT for the contribution to the Commissioner under subpart RH (Withholding tax on retirement scheme contributions) by the due dates.
@@ -38721,9 +38926,13 @@ Exclusion
 
 ### RA 18 Payment date for emigrating companies
 When this section applies
-(1) This section applies to an emigrating company that is treated under section FL 2 (Treatment of emigrating companies and their shareholders) as paying a distribution to a shareholder.
+(1) This section applies to an emigrating company that is treated under section FL 2 or FL 3 (which relate to the treatment of emigrating companies and their shareholders) as paying a distribution to a shareholder.
 Payment
-(2) On or before the date that is 3 months after the time of emigration, the company must pay to the Commissioner all amounts of tax for resident passive income or non-resident passive income withheld in relation to the distribution.
+(2) On or before the relevant date set out in subsection (3), the company must pay to the Commissioner all amounts of tax for resident passive income or non-resident passive income withheld in relation to the distribution.
+Due date
+(3) The relevant date is,—
+  (a) for a company that is treated under section FL 2 as paying a distribution to a shareholder, the date that is 3 months after the time of emigration:
+  (b) for a company that is treated under section FL 3 as paying a distribution to a shareholder, the date that is 3 months after the earliest of the events described in subsection (1)﻿(a) to (c) of that section occurs.
 
 ### RA 19 Refunds of excess amounts or when amounts mistakenly paid
 When this section applies
@@ -38863,13 +39072,15 @@ Exclusion
 Choice of method
 (1) A person liable to pay provisional tax must calculate the amount payable for a tax year using 1 of the methods described in subsections (2) to (7).
 Standard method: 5% uplift
-(2) Under the standard method, the amount of provisional tax payable for the tax year is 105% of the person’s residual income tax for the preceding tax year, determined under section RC 6. Subsection (3) overrides this subsection.
+(2) Under the standard method, the amount of provisional tax payable for the tax year is, for the purpose of determining the amount of any particular instalment of provisional tax payable under section RC 9, 105% of the person’s residual income tax for the preceding tax year, determined under section RC 6. Subsection (3) overrides this subsection.
 Standard method: 10% uplift
-(3) Despite subsection (2), the amount of provisional tax payable for the tax year is 110% of the person’s residual income tax for the tax year before the preceding tax year if—
+(3) Despite subsection (2), the amount of provisional tax payable for the tax year is, for the purpose of determining the amount of any particular instalment of provisional tax payable under section RC 9, 110% of the person’s residual income tax for the tax year before the preceding tax year if—
   (a) they are required to provide a return of income for the preceding tax year; and
-  (b) the return is not due on or before the date on which the first payment of provisional tax for the tax year is required through the application of section 37 of the Tax Administration Act 1994, or an extension granted under that section; and
-  (c) they have not provided the return on or before that date; and
-  (d) the date is not the date of instalment F for the corresponding income year.
+  (b) the return is not due on or before the relevant instalment date through the application of section 37 of the Tax Administration Act 1994, or an extension granted under that section; and
+  (c) they have not provided the return on or before the relevant instalment date; and
+  (d) the relevant instalment date is not the date of instalment F for the corresponding income year.
+Non-working days
+(3B) For the purposes of subsection (3)﻿(c), if the relevant instalment date falls on a day that is not a working day, a return for the preceding tax year provided on the first working day after that instalment date is deemed to have been provided on the instalment date.
 Relationships and modification of standard method
 (4) Subsections (5) to (7) override subsection (3). Sections RC 10(5), RZ 3 (Standard method: 2010–11 to 2012–13 income years) and RZ 5D (Standard method or GST method: transition for Maori authorities) modify subsections (2) and (3).
 Truncation
@@ -41304,24 +41515,31 @@ Exception: certain income from land
 
 ### RF 2 Non-resident passive income
 Interest, certain dividends, and royalties
-(1) Non-resident passive income means income having a source in New Zealand that a non-resident derives and that consists of—
-  (a) a dividend other than an investment society dividend:
-  (b) a royalty:
-  (c) an investment society dividend when the non-resident is not engaged in business in New Zealand through a fixed establishment in New Zealand:
-  (d) interest, other than interest derived in the circumstances set out in subsection (2B):
-  (e) non-resident financial arrangement income.
+(1) Non-resident passive income means income having a source in New Zealand that—
+  (a) a non-resident derives and that consists of—
+    (i) a dividend other than an investment society dividend:
+    (ii) a royalty:
+    (iii) an investment society dividend when the non-resident is not engaged in business in New Zealand through a fixed establishment in New Zealand:
+    (iv) interest, other than interest derived in the circumstances set out in subsection (2B):
+    (v) non-resident financial arrangement income; or
+  (b) a New Zealand resident company that is treated under a double tax agreement as not being resident in New Zealand derives and that is a dividend other than an investment society dividend.
 Inclusion: Capital value increase under inflation-indexed instruments
 (1B) Non-resident passive income includes an amount, arising at the time of a relevant coupon payment (the current coupon payment) equal to the amount given by the formula in section RE 18B(4) (Capital value increase under inflation-indexed instruments: RWT cap) in relation to the current coupon payment, if that current coupon payment is—
   (a) non-resident passive income under subsection (1); and
   (b) in relation to an inflation-indexed instrument.
-Exclusions
+Exclusions: non-residents
 (2) The following amounts derived by a non-resident are excluded from non-resident passive income:
   (a) an amount of exempt income:
   (b) interest arising because section EI 2 (Interest from inflation-indexed instruments) applies to an inflation-indexed instrument:
   (c) an amount of excluded income under sections CX 56B and CX 56C (which relate to attributed PIE income), as applicable:
   (d) an amount derived by a trustee of a trust after the effective date of an election under section HC 33(1) (Choosing to satisfy income tax liability of trustee) for the trust.
+Exclusions: dual resident companies
+(2BA) The following amounts derived by a New Zealand resident company that is treated under a double tax agreement as not being resident in New Zealand are excluded from non-resident passive income:
+  (a) an amount of exempt income:
+  (b) an amount of excluded income under sections CX 56B and CX 56C, as applicable:
+  (c) an amount derived by a trustee of a trust after the effective date of an election under section HC 33(1) for the trust.
 Interest exceptions
-(2B) Subsection (1)﻿(d) does not include interest derived from money lent by a non-resident—
+(2B) Subsection (1)﻿(a)﻿(iv) does not include interest derived from money lent by a non-resident—
   (a) for the purposes of a business they carry on in New Zealand through a fixed establishment in New Zealand; or
   (b) when the non-resident is—
     (i) a registered bank engaged in business in New Zealand through a fixed establishment in New Zealand; and
@@ -41381,7 +41599,7 @@ When this section applies
     (ii) a non-resident carrying on a business in New Zealand through a fixed establishment in New Zealand; and
   (b) the borrower is party to a financial arrangement with a non-resident (the lender) through which funding is provided to the borrower, other than funding provided by the lender through a fixed establishment in New Zealand; and
   (c) the financial arrangement—
-    (i) gives rise to non-resident passive income under section RF 2(1)﻿(d); or
+    (i) gives rise to non-resident passive income under section RF 2(1)﻿(a)﻿(iv); or
     (ii) would give rise to income referred to in subparagraph (i) in the absence of section RF 2(2B)﻿(c).
 Meaning of non-resident financial arrangement income
 (2) Non-resident financial arrangement income, for a financial arrangement and an income year, means an amount having a source in New Zealand that is accrued on a related-party debt and derived by a lender in the income year when—
@@ -41470,7 +41688,7 @@ Calculation of amount of tax
 
 ### RF 9 When dividends fully imputed
 When this section applies
-(1) This section applies for the purposes of sections RF 8, RF 10, and RF 11B to determine the extent to which a dividend is fully imputed.
+(1) This section applies for the purposes of sections RF 8, RF 10, RF 11B, and RF 11BB to determine the extent to which a dividend is fully imputed.
 Fully imputed
 (2) The extent to which a dividend is fully imputed is calculated using the formula—(imputation credit amount + supplementary dividend amount)× (1 − tax rate) ÷ tax rate.
 Definition of items in formula
@@ -41532,6 +41750,17 @@ The rate of NRWT payable on a payment of non-resident passive income in the form
     (i) the non-resident has a direct voting interest in the company of 10% or more:
     (ii) the non-resident does not have a direct voting interest in the company of 10% or more and, in the absence of this section, the post-treaty tax rate for the dividend would be less than 15% if no imputation credits were attached to the payment:
   (b) to the extent to which the payment is not a fully-imputed dividend, the post-treaty tax rate for the dividend that, in the absence of this section, would apply if no imputation credits were attached to the payment.
+
+### RF 11BB Certain dividends paid to dual resident companies
+When this section applies
+(1) This section applies when a company makes a payment of non-resident passive income in the form of a dividend to a New Zealand resident company (the recipient) that is treated under a double tax agreement as not being resident in New Zealand to the extent to which the dividend is not fully imputed, if—
+  (a) the requirements of section CW 10(1)﻿(b) to (d), (5), and (6) (Dividend within New Zealand wholly-owned group) are met; and
+  (b) the requirement of section CW 10(1)﻿(f) is not met; and
+  (c) the recipient becomes a company that is not a foreign company before the DRCD deferral date.
+Amount of tax
+(2) The amount of tax is the lesser of—
+  (a) the amount of tax that the payer would be required to withhold and pay in the absence of this section; and
+  (b) the sum of all dividends paid by the recipient while it was treated under the double tax agreement as not being resident in New Zealand to the extent to which those dividends were not fully imputed.
 
 ### RF 11C Interest paid by non-resident companies to non-residents
 When this section applies
@@ -41629,7 +41858,7 @@ Elections related to deferral calculation
   (b) in relation to which they reasonably expect non-resident financial arrangement income will arise for a later income year.
 Making elections
 (4) The election must be made by notifying the Commissioner by the earlier of—
-  (a) the first day on which interest described in section RF 2(1)﻿(d) is paid:
+  (a) the first day on which interest described in section RF 2(1)﻿(a)﻿(iv) is paid:
   (b) the last day of the income year in which the arrangement becomes a related-party debt.
 ExampleNZ Sub C Ltd (C) has borrowed $500,000 from its non-resident parent. Although interest accrues on this loan, C does not expect to make any interest payments for some years. C has also borrowed from a bank but has no other related-party loans. C’s expected financial arrangement expenditure on the related-party debt for the first 3 years is $32,000, $36,000 and $41,000. C will not have to calculate whether NRFAI arises until the end of the third year as this is when the related party de minimis is reached. However, C expects that once the related party de minimis is reached, NRFAI will arise because there are expected to be no interest payments. Therefore, C notifies Inland Revenue during the first year, that it will withhold NRWT on NRFAI from the start of the first year.
 
@@ -41817,7 +42046,7 @@ What this subpart does
 (1) This subpart imposes an obligation to pay a tax called residential land withholding tax (RLWT).
 When this subpart applies
 (2) This subpart applies for a residential land purchase amount in relation to a disposal of residential land located in New Zealand by a person (the vendor) to another person (the purchaser) if—
-  (a) the relevant residential land purchase amount would be income of the vendor under section CB 6A or CZ 39 (which relate to the bright-line test for residential land) ignoring sections CB 6A(13), CB 16A, CZ 39(8), and CZ 40 (which relate to the bright-line test); and
+  (a) the relevant residential land purchase amount would be income of the vendor under section CB 6A or CZ 39 (which relate to the bright-line test for residential land) ignoring sections CB 6A(1A), CB 16A, CZ 39(8), and CZ 40 (which relate to the bright-line test); and
   (b) the vendor is an offshore RLWT person.
 How this subpart applies to joint owners
 (3) For the purposes of this subpart, vendors who are co-owners are treated as disposing of separate residential land on the basis of an appropriate split of the underlying residential land and the consideration for its disposal.
@@ -42932,7 +43161,9 @@ In this Act, unless the context requires otherwise,—
     (b) the Australian Commissioner of Tax (ACT), in the ACT’s capacity under the Superannuation (Unclaimed Money and Lost Members) Act 1999 (Aust)
   - **Australian exempt public sector superannuation scheme** means an exempt public sector superannuation scheme as defined in section 10 of the Superannuation Industry (Supervision) Act 1993 (Aust)
   - **Australian financial year** is defined in section CV 8(3) (Regulations: Australian wine producer rebate) for the purposes of that section
-  - **Australian ICA company** is a company that must establish and maintain an imputation credit account because of an election under section OB 2 (Australian companies choosing to have imputation credit accounts)
+  - **Australian ICA company** means a company that—
+    (a) is required to establish and maintain an imputation credit account because of an election under section OB 2(1) (Australian companies with imputation credit accounts); or
+    (b) is required by section OB 2(3B) to maintain an imputation credit account
   - **Australian non-attributing shares** is defined in section EM 8 (Some definitions) for the purposes of subpart EM (Hedging of currency movements in Australian non-attributing shares and attributing FDR method interests)
   - **Australian regulated superannuation fund** means a regulated superannuation fund as defined in section 19 of the Superannuation Industry (Supervision) Act 1993 (Aust)
   - **Australian retirement savings account** means a retirement savings account as defined in section 8 of the Retirement Savings Accounts Act 1997 (Aust)
@@ -43021,6 +43252,13 @@ In this Act, unless the context requires otherwise,—
     (a) section CB 6A(3) to (7C) (Disposal within 10 years: bright-line test for residential land), and ending with the bright-line date for the residential land:
     (b) section CZ 39(2) to (6) (Disposal within 5 years: bright-line test for residential land: acquisition on or after 29 March 2018), and ending with the bright-line date for the residential land
   - **broodmare** means a broodmare that is bloodstock
+  - **build-to-rent land** —
+    (a) means, for a person, land that they own and that is described in section CB 12(1)﻿(a) to (e) or CB 13(1)﻿(a) and (b), to the extent to which it is or was part of 1 project of 20 or more dwellings, and to the extent to which it is currently 1 of 20 or more dwellings used, available for use, or being prepared or restored for use, as a dwelling occupied under a residential tenancy to which the Residential Tenancies Act 1986 applies or would apply, if—
+      (i) in the case of a dwelling completely built before 1 July 2023, the landlord or manager for the dwelling has offered any current tenants before 1 July 2023 a fixed-term tenancy of no less than 10 years, and always offers prospective tenants such a tenancy; and
+      (ii) in the case of a dwelling completely built on or after 1 July 2023, the landlord or manager for the dwelling always offers prospective tenants a fixed-term tenancy of no less than 10 years; and
+      (iii) the tenancy agreement expressly refers to the ability of the tenant to personalise the dwelling with the consent of the landlord in accordance with sections 42, 42A, and 42B of the Residential Tenancies Act 1986, and includes examples of possible personalisations and the landlord’s position on the keeping of pets; and
+      (iv) the tenancy agreement provides that a tenant may terminate the tenancy with 56 days’ notice, as provided by section 58A of the Residential Tenancies Act 1986:
+    (b) does not include land that at any time after it first meets the requirements of paragraph (a) fails to meet those requirements
   - **building**
   - **building society** is defined in section 2 of the Building Societies Act 1965
   - **business** —
@@ -43030,7 +43268,9 @@ In this Act, unless the context requires otherwise,—
       (ii) an airport operator:
     (c) is further defined in section DD 11 (Some definitions) for the purposes of subpart DD (Entertainment expenditure)
   - **business contacts** is defined in section DD 11 (Some definitions) for the purposes of subpart DD (Entertainment expenditure)
-  - **business premises** is defined in section DD 11 (Some definitions) for the purposes of subpart DD (Entertainment expenditure) and the land sales provisions
+  - **business premises** , for subparts DD and DH and sections CB 6A to CB 15 and CZ 39,—
+    (a) means the normal business premises or a temporary workplace of the person (or an associate):
+    (b) does not include premises or a workplace established mainly for the purpose of enjoying entertainment
   - **business tool** means an item that is used by an employee in the performance of their work duties and in the absence of section CX 21 (Business tools) would give rise to an unclassified benefit
   - **business use** , for a motor vehicle and for a person, means travel undertaken by the vehicle wholly in deriving the person’s income
   - **calculation method** , for the calculation of FIF income or FIF loss, means any of the attributable FIF income method, the comparative value method, the deemed rate of return method, the fair dividend rate method, and the cost method
@@ -43179,11 +43419,11 @@ In this Act, unless the context requires otherwise,—
   - **community trust** is defined in section 4 of the Community Trusts Act 1999
   - **company** —
     (a) means a body corporate or other entity that has a legal existence separate from that of its members, whether it is incorporated or created in New Zealand or elsewhere:
-    (ab) does not include a partnership:
+    (ab) does not include a limited partnership, other than a listed limited partnership or foreign corporate limited partnership:
     (abb) does not include a look-through company, except in the PAYE rules, the FBT rules, the NRWT rules, the RWT rules, the ESCT rules, the RSCT rules, and for the purposes of subpart FO (Amalgamation of companies):
     (abc) does not include a company that is acting in the capacity of trustee:
-    (ac) includes a listed limited partnership:
-    (ad) includes a foreign corporate limited partnership:
+    (ac)
+    (ad)
     (b) includes a unit trust:
     (c) includes a trustee of a group investment fund that is not a designated group investment fund, but only to the extent to which the fund results from investments made into it that are—
       (i) not from a designated source, as defined in section HR 3(5) (Definitions for section HR 2: group investment funds); and
@@ -43199,6 +43439,7 @@ In this Act, unless the context requires otherwise,—
   - **company dividend statement** means a statement required by section 25G of the Tax Administration Act 1994 to be completed and retained by a company for a dividend
   - **comparative value method** means the method of calculating FIF income or FIF loss in section EX 51 (Comparative value method)
   - **compensation**
+  - **competent authority** is defined in section 3(1) of the Tax Administration Act 1994
   - **completed** , for a film, means the completion of the film to—
     (a) the stage of production at which the film has been completely edited, shot by shot, to its final length; or
     (b) a production stage equivalent to that described in paragraph (a)
@@ -43514,7 +43755,7 @@ In this Act, unless the context requires otherwise,—
   - **discontinuance profit formula** means the formula in section EY 37 (Discontinuance profit formula (existing policies)) or the formula in section EY 38 (Discontinuance profit formula (new policies))
   - **discount payment date** is defined in section EZ 30(3) (Base premium for 1998–99 premium year under Accident Insurance Act 1998) for the purposes of that section
   - **dispose** ,—
-    (a) in sections CB 6A to CB 16, CB 18, CB 19, CB 21, CB 22, CZ 39, and subpart EL (which relate to the disposal of land), for land, includes—
+    (a) in sections CB 6A to CB 16, CB 18, CB 19, CB 21, CB 22, CW 3C, CZ 39, and subpart EL (which relate to the disposal of land), for land, includes—
       (i) compulsory acquisition under any Act by the Crown, a local authority, or a public authority:
       (ii) if there is a mortgage secured on the land, a disposal by or for the mortgagee as a result of the mortgagor’s defaulting under the mortgage:
     (b) in sections CB 24 (Disposal of timber or right to take timber), CB 25 (Disposal of land with standing timber), DP 10 (Cost of acquiring timber or right to take timber: other cases), DP 11 (Cost of timber), and GC 2 (Disposals of timber rights or standing timber), includes—
@@ -43573,6 +43814,7 @@ In this Act, unless the context requires otherwise,—
     (d) a company that, in New Zealand, is engaged solely in the business of life insurance referred to in section EY 8(2)﻿(c) (Meaning of life insurance)
   - **donee organisation** means an entity described in section LD 3(2) (Meaning of charitable or other public benefit gift) or listed in schedule 32 (Recipients of charitable or other public benefit gifts)
   - **double tax agreement** is defined in section BH 1 (Double tax agreements)
+  - **DRCD deferral date** is defined in section RA 6(6) (Withholding and payment obligations for passive income) for the purposes of that section and sections CD 1, OB 9, OB 30, RA 15, RF 3, and RF 11BB (which relate to dividends, imputation credit accounts, and withholding and payment obligations)
   - **dwelling** —
     (a) means any place configured as a residence or abode, whether or not it is used as a place of residence or abode, including any appurtenances belonging to or enjoyed with the place:
     (ab) despite paragraph (a), for the purposes of subpart EE and the definitions of commercial building, commercial fit-out, and residential building, means any place used predominantly as a place of residence or abode, including any appurtenances belonging to or enjoyed with the place:
@@ -44088,7 +44330,7 @@ In this Act, unless the context requires otherwise,—
   - **fully credited** is defined in section CD 43(26) (Available subscribed capital (ASC) amount) for the purposes of that section
   - **fully credited for conduit tax relief**
   - **fully imputed** ,—
-    (a) for the purposes of sections CB 26, CB 32C, CD 39, EX 20B, RF 8, and RF 10, and schedule 6, table 1B (which relate to distributions by PIEs and certain dividends), means the amount calculated under section RF 9(2) (When dividends fully imputed):
+    (a) for the purposes of sections CB 26, CB 32C, CD 39, CW 10, EX 20B, RF 8, RF 10, and RF 11BB, and schedule 6, table 1B (which relate to distributions by PIEs and certain dividends), means the amount calculated under section RF 9(2) (When dividends fully imputed):
     (b) for the purposes of sections CW 15, HA 14, HA 16, and HA 19 (which relate to dividends paid by qualifying companies), and RE 2 (Resident passive income) means the amount calculated under section HA 15(2) (Fully imputed distributions)
   - **fund provider** , for a person and a KiwiSaver scheme or a complying superannuation fund of which they are a member, means the trustees of the scheme or fund
   - **further FDP**
@@ -44251,14 +44493,15 @@ In this Act, unless the context requires otherwise,—
   - **hybrid mismatch legislation** is defined in section FH 15(1) (Definitions)
   - **hybrid mismatch report** is defined in section FH 15(1) (Definitions)
   - **ICA** means imputation credit account
-  - **ICA company** means a company that must establish and maintain an imputation credit account,—
-    (a) as a New Zealand resident company, under section OB 1 (General rules for companies with imputation credit accounts):
-    (b) as an Australian ICA company, because of an election under section OB 2 (Australian companies choosing to have imputation credit accounts)
+  - **ICA company** means a company that—
+    (a) is required by section OB 1 (General rules for companies with imputation credit accounts) to establish and maintain an imputation credit account; or
+    (b) is an Australian ICA company
   - **identical goods** , for the purposes of the FBT rules, for any goods, means other goods that are the same in terms of physical characteristics, quality, and reputation, except for minor differences in appearance that do not affect the value of the goods
   - **identical share** means a share that confers the same rights and imposes the same obligations on a holder as an original share
   - **IFRS** means a New Zealand Equivalent to International Financial Reporting Standard, in effect under the Financial Reporting Act 2013, and as amended from time to time or an equivalent standard issued in its place
   - **IFRS 4** means the IFRS, numbered NZ IFRS 4, that relates to insurance contracts
   - **IFRS 9** means the IFRS, numbered 9, that relates to financial reporting of financial assets and financial liabilities
+  - **IFRS 17** means the IFRS, numbered NZ IFRS 17, that relates to insurance contracts
   - **IFRS designated FX hedge** means a FX hedge that is designated, under IFRS rules, as a hedge for a foreign ASAP for which section EW 32(2B) (Consideration for agreement for sale and purchase (ASAP) of property or services, hire purchase agreement, specified option, or finance lease) applies
   - **IFRSE** means an International Financial Reporting Standard approved by the International Accounting Standards Board, as amended from time to time
   - **impaired credit adjustment** is defined in section EW 15D(3) (IFRS financial reporting method) for the purposes of that section.
@@ -45077,6 +45320,26 @@ In this Act, unless the context requires otherwise,—
   - **non-standard income year** has the meaning given in section YE 1(5) (References to balance dates and years)
   - **non-taxable bonus issue** means a bonus issue that is not a taxable bonus issue
   - **normal retiring age** is defined in section CW 26E (Meaning of normal retiring age) for the purposes of section CW 26C (Meaning of exempt ESS)
+  - **North Island flooding events** means flooding and other damage that occurred as a result of 1 or more of the following:
+    (a) Cyclone Hale, which crossed the North Island of New Zealand during the period starting on 8 January 2023 and ending on 12 January 2023, in 1 or more of the following districts:
+      (i) Coromandel:
+      (ii) Gisborne:
+      (iii) Northland:
+      (iv) Wairarapa:
+      (v) Wairoa:
+    (b) heavy rainfall starting on 26 January 2023 and ending on 3 February 2023, in 1 or more of the following regions:
+      (i) Auckland:
+      (ii) Bay of Plenty:
+      (iii) Northland:
+      (iv) Waikato:
+    (c) Cyclone Gabrielle, which crossed the North Island of New Zealand during the period starting on 12 February 2023 and ending on 16 February 2023, in 1 or more of the following regions or districts:
+      (i) Auckland:
+      (ii) Bay of Plenty:
+      (iii) Gisborne:
+      (iv) Hawke’s Bay:
+      (v) Northland:
+      (vi) Tararua:
+      (vii) Waikato
   - **notice** is defined in section 3(1) of the Tax Administration Act 1994
   - **notice of entitlement** means a notice issued under section 80KD(2) of the Tax Administration Act 1994
   - **notice period** is defined in section FM 38(6) (Notice requirements on forming or joining consolidated group) for the purposes of that section
@@ -45103,7 +45366,7 @@ In this Act, unless the context requires otherwise,—
   - **NZIAS 32** means New Zealand Equivalent to International Accounting Standard 32, in effect under the Financial Reporting Act 2013 and as amended from time to time, or an equivalent standard issued in its place
   - **NZIAS 39**
   - **NZIAS 41** is defined in section EB 6(3) (Cost) for the purposes of that section
-  - **OECD transfer pricing guidelines** means guidelines published by the Organisation for Economic Co-operation and Development as OECD 2017, OECD Transfer Pricing Guidelines for Multinational Enterprises and Tax Administrations 2017, OECD Publishing, Paris
+  - **OECD transfer pricing guidelines** means guidelines published by the Organisation for Economic Co-operation and Development as OECD (2022), OECD Transfer Pricing Guidelines for Multinational Enterprises and Tax Administrations 2022, OECD Publishing, Paris
   - **offered or entered into in New Zealand** , for an insurance contract, a reinsurance contract, and a life insurance policy, means a contract or policy offered or entered into in New Zealand, whether or not—
     (a) the contract or policy is executed in New Zealand; or
     (b) the insurer under the contract or policy—
@@ -45175,9 +45438,12 @@ In this Act, unless the context requires otherwise,—
   - **outstanding balance** ,—
     (a) in section FA 10 (Treatment when lease ends: lessor acquiring asset), includes principal, interest, and penalties that are owing by the lessee to the lessor on the date that the lease is terminated
     (b) is defined in section FZ 2(9) (Effect of specified lease on lessor and lessee) for the purposes of sections FZ 2 and FZ 3 (which relate to specified leases)
-  - **outstanding claims reserve** means—
+  - **outstanding claims reserve** , for an insurer to which a following paragraph applies, means—
     (a) for an insurer who uses IFRS 4, the amount of the insurer's outstanding claims liability for general insurance contracts, excluding contracts having premiums to which section CR 3 (Income of non-resident general insurer) applies, as that liability is measured under Appendix D, paragraphs 5.1 to 5.2.12 of IFRS 4 for the insurer's financial statements less the amount of reinsurance and non-reinsurance recoveries receivable, as measured for the financial statements:
-    (b) for a life insurer, the amount that would be the life insurer's outstanding claims reserve under section EY 24(3) and (4) (Outstanding claims reserving amount: non-participation policies not annuities) for general insurance contracts, excluding contracts having premiums to which section CR 3 applies, if section EY 24(3) and (4) were modified so as to apply to general insurance contracts and reinsurance contracts, instead of to life insurance policies and reinsurance contracts
+    (ab) for a general insurer who uses IFRS 17, the amount of the insurer’s liability for incurred claims for general insurance contracts, excluding contracts having premiums to which section CR 3 applies, as that liability is measured for the insurer’s financial statements, reduced by the amount, measured for the insurer’s financial statements, of reinsurance recoveries and non-reinsurance recoveries receivable in relation to the incurred claims:
+    (b) for a life insurer, the amount that would be the life insurer's outstanding claims reserve under section EY 24(3), (4), and (5) (Outstanding claims reserving amount: non-participation policies not annuities) for general insurance contracts, excluding contracts having premiums to which section CR 3 applies, if section EY 24(3), (4), and (5) were modified so as to apply to general insurance contracts and reinsurance contracts, instead of to life insurance policies and reinsurance contracts:
+    (c) for a life insurer and life insurance contracts, the amount calculated under section EY 24(3) and (4) for the outstanding claims reserve and for part-year transfers of life insurance contracts under section EY 5 (Part-year tax calculations):
+    (d) for transfers of general insurance contracts to an insurer, the amount calculated under section CR 4(3)﻿(a)﻿(iii) (Income for general insurance outstanding claims reserve) or DW 4(4B) and (4C) (Deduction for general insurance outstanding claims reserve) to which section ED 3(1B) (Part-year calculations for transfers: general insurance OCR) applies
   - **overseas eligible expenditure**
   - **overseas pension** is defined in section CW 28(2) (Pensions) for the purposes of that section
   - **overtime** is defined in section CW 17C(6) (Payments for overtime meals and certain other allowances) for the purposes of that section
@@ -45443,9 +45709,7 @@ In this Act, unless the context requires otherwise,—
   - **prescribed period**
   - **prescribed proportion**
   - **prescribed rate of interest** means the rate of interest declared by regulations made under section RA 21(3) (Regulations) to be the rate applying to employment-related loans
-  - **present value (gross)** means—
-    (a) a present value calculated using the risk-free rate of return as the discount rate, gross of tax; but
-    (b) face value, if the whole discount period is less than a year
+  - **present value (gross)** , for a life insurer calculating the outstanding claims reserving amount for a claim under an insurance contract, has the meaning given by section EY 24(5) (Outstanding claims reserving amount: non-participation policies not annuities)
   - **present value (net)** means—
     (a) a present value calculated using the risk-free rate of return as the discount rate, net of tax; but
     (b) face value, if the whole discount period is less than a year
@@ -45488,7 +45752,7 @@ In this Act, unless the context requires otherwise,—
     (a) means a scheme comprising 1 or more steps undertaken by a company by which it—
       (i) notifies some or all of its shareholders that shares are to be issued on a particular date; and
       (ii) gives the notified shareholders an option to have some or all of the shares issued to them repurchased by the company:
-    (b) does not include an issue of shares under a employee share scheme or a share purchase scheme
+    (b) does not include an issue of shares under an employee share scheme or an exempt ESS
   - **profit participation policy** —
     (a) means a class of life insurance policy—
       (i) that has an asset base; and
@@ -45895,7 +46159,7 @@ In this Act, unless the context requires otherwise,—
       (i) an act or failure to act on the part of a person that has the effect of making the person a settlor; or
       (ii) a transaction or series of transactions that a person enters into and that has the effect of making the person a settlor; and
     (b) includes a settlement that a person is treated as making because the person is treated as being a settlor of the settlement; but
-    (c) in the definition of principal settlor in section CB 16A(7) (Main home exclusion for disposal within 10 years), does not include either services provided to a trust for less than market value, or a transfer of value except if that value is transferred by 1 or more of the following:
+    (c) in the definition of principal settlor, does not include either services provided to a trust for less than market value, or a transfer of value except if that value is transferred by 1 or more of the following:
       (i) a beneficiary:
       (ii) a trustee:
       (iii) a person with power of appointment or removal of trustees:
@@ -46278,7 +46542,9 @@ In this Act, unless the context requires otherwise,—
       (vi) the definition of right to take timber:
       (vii) the definition of trading stock, paragraph (b)﻿(iv)
   - **time bar** means the provisions of sections 108, 108A, and 108B of the Tax Administration Act 1994
-  - **time of emigration** for an emigrating company, is the time at which the emigrating company becomes a non-resident for the purposes of subpart FL (Emigration of resident companies)
+  - **time of emigration** , for an emigrating company, means—
+    (a) the time at which the emigrating company starts being treated under a double tax agreement as not being resident in New Zealand, if section FL 3 (Treatment of companies that start being treated as non-resident and their shareholders) applies in relation to the emigrating company; or
+    (b) otherwise, the time at which the emigrating company becomes a non-resident
   - **time of the disposal** , for a disposal of a business or of part of a business, means the date on which the agreement for the disposal is settled by the exchange of the seller’s business or part of the business for the buyer’s consideration
   - **time of the sale**
   - **Tokelau International Trust Fund** means the trust governed by the Deed concerning the Tokelau International Trust Fund dated 10 November 2004 and signed by Her Majesty the Queen in right of New Zealand and the Government of Tokelau
@@ -46391,7 +46657,7 @@ In this Act, unless the context requires otherwise,—
       (v) a group investment fund established under the Trustee Companies Act 1967:
       (vi) a friendly society registered under the Friendly Societies and Credit Unions Act 1982:
       (vii) a superannuation fund:
-      (viii) an employee share purchase scheme:
+      (viii) an exempt ESS:
       (ix) a fund that meets the requirements of section CW 45 (Funeral trusts):
       (x) any other trust of any specified kind that is declared not to be a unit trust for the purposes of section HD 13 (Unit trusts) by the Governor-General by Order in Council (and such an order is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
   - **unit trust manager** is defined in section CD 16(4) (Certain dividends not increased by tax credits) for the purposes of that section
@@ -46407,6 +46673,15 @@ In this Act, unless the context requires otherwise,—
     (a) existed at the close of the 2017–18 income year; and
     (b) had not been included in the tax loss for the 2017–18 tax year or for an earlier tax year
   - **unwind** is defined in section HR 10 (What happens when vehicle stops being transparent debt funding special purpose vehicle?)
+  - **utilities distribution assets** —
+    (a) means the property (for example: a power pole) used or available to use to distribute, as applicable, electricity, gas, telecommunications services, water, and other goods and services, by a utilities distribution network operator:
+    (b) does not include property that is a utilities distribution network treated as an item of property separate from the relevant property described in paragraph (a)
+  - **utilities distribution network** means a network made up of utilities distribution assets
+  - **utilities distribution network operator** means a person to the extent to which they are, or are associated with:
+    (a) an electricity distributor under the Electricity Act 1992:
+    (b) a gas distributor under the Gas Act 1992:
+    (c) a network operator under the Telecommunications Act 2001:
+    (d) an operator under the Water Services Act 2021
   - **valuation premiums** is defined in section EY 29(7) (Shareholder base other profit: profit participation policies that are new business) for the purposes of that section
   - **variable principal debt instrument** ,—
     (a) in the financial arrangements rules, means a financial arrangement that contemplates that 1 party may, on demand or call,—
