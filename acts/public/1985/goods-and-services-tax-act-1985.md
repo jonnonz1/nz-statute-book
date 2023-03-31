@@ -1,5 +1,5 @@
 # Goods and Services Tax Act 1985
-_Consolidation as at 2022-12-15_
+_Consolidation as at 2023-03-31_
 
 > An Act to make provision for the imposition and collection of goods and services tax
 
@@ -265,6 +265,7 @@ _Consolidation as at 2022-12-15_
     (i) person A is associated with another person (the relative) under paragraph (c); and
     (ii) the relative is associated with the trustee under paragraph (f):
   (d) a partnership and a partner in the partnership:
+  (db) a joint venture and a member of the joint venture:
   (e)
   (f) a trustee of a trust and a person who has benefited or is eligible to benefit under the trust, except if, in relation to a supply of goods and services,—
     (i) the trustee is a charitable or non-profit body with wholly or principally charitable, benevolent, philanthropic, or cultural purposes and the supply is made in carrying out these purposes; or
@@ -369,8 +370,8 @@ _Consolidation as at 2022-12-15_
     (ii) charged with tax at the rate of 0% under section 11A(1)﻿(q) or (r) and, before the acquisition, have never been owned or used by the person or an associated person.
 (3) The amount of input tax is—
   (a) if the supplier and the recipient are associated persons, the lesser of—
-    (i) for goods received by the supplier from a person who, at the time of the receipt, is not an associated person, the tax fraction of the purchase price for the supplier; and
-    (ib) for goods received by the supplier from a person who, at the time of the receipt, is an associated person, the tax fraction of the purchase price for the most recent acquisition of the supply by a person who, at the time of the acquisition, is an associated person from a person who, at the time of the acquisition, is not an associated person; and
+    (i) the tax fraction of the original purchase price of the goods when they were received by the supplier; and
+    (ib)
     (ii) the tax fraction of the purchase price; and
     (iii) the tax fraction of the open market value of the supply; or
   (b) if the supplier and the recipient are associated persons and the supplier is deemed to have made a supply of the goods under section 5(3) that has been valued under section 10(7A), the lesser of—
@@ -498,9 +499,9 @@ _Consolidation as at 2022-12-15_
 (11F) A supply of goods and services is not treated as being made to the extent that goods and services are supplied for the redemption of a token, stamp or voucher.
 (11G) Despite subsection (11F), the supplier of a token, stamp or voucher, with a face value may treat the supply of goods and services on the redemption of the token, stamp or voucher instead of the issue or sale, as a supply of goods and services by the redeemer of the token, stamp, or voucher—
   (a) if the supply is a supply of remote services or of distantly taxable goods; or
-  (b) when a supply does not meet the requirements of paragraph (a), if—
-    (i) it is not practical to treat the issue or sale as a supply of goods and services; and
-    (ii) the supplier of the goods and services and the issuer or seller of the token, stamp, or voucher are, or could be, different persons, the issuer and the supplier, or the seller and the supplier, agree, or are parties to an agreement.
+  (b) when a supply does not meet the requirements of paragraph (a)—
+    (i) if it is not practical to treat the issue or sale as a supply of goods and services; and
+    (ii) if the supplier of the goods and services and the issuer or seller of the token, stamp, or voucher are, or could be, different persons, the issuer and the supplier, or the seller and the supplier, agree or are parties to an agreement.
 (11GA) For the purpose of subsection (11G)﻿(a), a situation in which it may not be practical to treat the issue or sale as a supply of goods and services includes one in which the issuer or seller of a token, stamp or voucher and the supplier of the goods and services for which the token, stamp or voucher is redeemed may be different persons.
 (11H) Subsection (11G) does not apply to the extent that the consideration that is received for the supply is more than the face value of the token, stamp or voucher.
 (11I) Subsection (11G) does not apply to the supply of—
@@ -528,7 +529,8 @@ _Consolidation as at 2022-12-15_
 (14B) If part of a supply of an equity security or participatory security is the supply of a right to receive supplies of goods and services that are not exempt supplies, the supply of the right is treated as being a supply of goods and services made for a consideration.
 (15) When either of the following supplies are included in a supply, they are deemed to be a separate supply from the supply of any other real property that is included in the supply:
   (a) a supply of a principal place of residence:
-  (b) a supply referred to in section 14(1)﻿(d).
+  (b) a supply referred to in section 14(1)﻿(d):
+  (c) a supply that a person elects to apply section 6(3)﻿(e):
 (16) Where a registered person has claimed a deduction in accordance with section 20(3) in respect of the supply of a dwelling, any subsequent supply by the registered person of—will, for the avoidance of doubt but subject to subsections (17), (18), and (19)﻿(b), be deemed to be a taxable supply.
   (a) the dwelling; or
   (b) any land or other part of the dwelling that has ceased or will by reason of the supply cease to be appurtenant to or enjoyed with the dwelling,—
@@ -581,7 +583,12 @@ For the purpose of the definition of output tax and sections 8(1), 15A to 15E, 1
     (ii) as a Judge, Solicitor-General, Controller and Auditor-General, or Ombudsman:
     (iia) pursuant to an appointment made by the Governor-General or the Governor-General in Council and evidenced by a warrant or by an Order in Council or by a notice published in the Gazette in accordance with section 2(2) of the Official Appointments and Documents Act 1919:
     (iii) as a Chairman or member of any local authority or any board, council, committee, or other body, subject to subsection (4); or
-  (d) any activity to the extent to which the activity involves the making of exempt supplies.
+  (d) any activity to the extent to which the activity involves the making of exempt supplies; or
+  (e) an activity involving the supply of goods by way of sale that a registered person has elected is not a taxable activity, provided—
+    (i) the person has not previously claimed a deduction under section 20(3) for the supply of goods before the goods are sold; and
+    (ii) the goods were not acquired for the principal purpose of making taxable supplies; and
+    (iii) the goods were not used for the principal purpose of making taxable supplies; and
+    (iv) the goods were not acquired as zero-rated supplies under section 11(1)﻿(m) or (mb).
 (4) Despite subsection (3)﻿(b) and (c)﻿(iii), if a director, member, or other person referred to in those paragraphs is paid a fee or another amount in relation to their engagement, occupation, or employment in circumstances in which they are required to account for the payment to their employer, the payment is treated as consideration for a supply of services by the employer to the person who made the payment to the director, member, or other person.
 (5) For the purposes of subsection (3)﻿(b) and (c)﻿(iii), if a person in carrying on a taxable activity, accepts an office, any services supplied by that person as holder of that office are deemed to be supplied in the course or furtherance of that taxable activity.
 
@@ -1389,13 +1396,17 @@ In addition to the returns specified in sections 16, 17, and 19B, the Commission
 
 ### 20 Calculation of tax payable
 (1) In respect of each taxable period every registered person shall calculate the amount of tax payable by that registered person in accordance with the provisions of this section.
-(2) Notwithstanding any other provision in this Act, no deduction of input tax and no deduction calculated under section 25(2)﻿(b) or (5) shall be made in respect of a supply, unless—
-  (a) a tax invoice or debit note or credit note, in relation to that supply, has been provided in accordance with sections 24, 24BA, and 25 and is held by the registered person making that deduction at the time that any return in respect of that supply is furnished; or
-  (b) a tax invoice is not required to be issued pursuant to section 24(5) or section 24(6), or a debit note or credit note is not required to be issued pursuant to section 25; or
-  (c) sufficient records are maintained as required pursuant to section 24(7) where the supply is a supply of secondhand goods to which that section relates; or
-  (d) the supply is a supply of goods or services that is treated by section 5B as being made by the recipient and the recipient has accounted for the output tax charged in respect of the supply; or
-  (e) the supply is a supply of goods and services that is treated as made under section 60B to a nominated person and that person maintains sufficient records as required by section 24(7B):
-  provided that where a tax invoice or debit note or credit note in relation to that supply has been provided in accordance with this Act, the Commissioner may determine that no deduction for input tax in relation to that supply shall be made unless that tax invoice or debit note or credit note is retained in accordance with the provisions of section 75.
+(2) A registered person, when including an amount for a supply of goods or services as a deduction in a calculation of an amount of tax payable by the registered person, must,—
+  (a) for a supply, meet the requirements of section 75; and
+  (b) for a supply that a registered person intends to claim a deduction for under section 20(3) because of an adjustment made under section 25(2)﻿(b) to correct an inaccuracy, have issued a credit note if required by section 25; and
+  (c) for a supply, other than a taxable supply, of secondhand goods, meet the requirements of section 24(7); and
+  (d) for a supply that the registered person treats as being within section 5B, have a record of the supply showing that—
+    (i) the supply meets the requirements for treatment under section 5B as being made by the registered person; and
+    (ii) the registered person accounts for the output tax charged for the supply; and
+  (e) for a supply that the registered person treats as being made to the registered person as a nominated person under section 60B, have a record of the supply showing that—
+    (i) the registered person is nominated to be the recipient of the supply by another person (the nominator) under a contract with the supplier to which the registered person is not a party; and
+    (ii) the nominator and the registered person agree that the supply is to be treated as being made to the registered person and record the agreement; and
+    (iii) the registered person pays to the supplier the full consideration for the supply.
 (3) Subject to this section, in calculating the amount of tax payable in respect of each taxable period, there shall be deducted from the amount of output tax of a registered person attributable to the taxable period—
   (a) in the case of a registered person who is required to account for tax payable on an invoice basis pursuant to section 19, the amount of the following:
     (i) input tax in relation to the supply of goods and services (not being a supply of secondhand goods to which section 3A(1)﻿(c) of the input tax definition applies), made to that registered person during that taxable period:
@@ -1447,9 +1458,9 @@ In addition to the returns specified in sections 16, 17, and 19B, the Commission
 (3A) For the purpose of subsection (3), output tax does not include the tax on the taxable value of a fringe benefit provided or granted to another person under the FBT rules of the Income Tax Act 1994.
 (3AB)
 (3B)
-(3C) For the purposes of subsection (3), and if subsections (3D) or (3L) do not apply,—
-  (a) input tax as defined in section 3A(1)﻿(a) or (c) may be deducted to the extent to which the goods or services are used for, or are available for use in, making taxable supplies:
-  (b) input tax as defined in section 3A(1)﻿(b) may be deducted to the extent to which the goods are used for, or are available for use in, making taxable supplies other than—
+(3C) For the purposes of subsection (3), and if subsections (3D), (3L), or (3LB) do not apply,—
+  (a) input tax as defined in section 3A(1)﻿(a) or (c) may be deducted to the extent to which the goods or services are used for, or are intended to be used in, making taxable supplies:
+  (b) input tax as defined in section 3A(1)﻿(b) may be deducted to the extent to which the goods are used for, or are intended to be used in, making taxable supplies other than—
     (i) the delivery of the goods to a person in New Zealand:
     (ii) arranging or making easier the delivery of the goods to a person in New Zealand.
 (3D) A registered person who makes both taxable and exempt supplies is not required to apportion input tax for an adjustment period between such supplies if the registered person has reasonable grounds to believe that the total value of exempt supplies will not exceed the lesser of—
@@ -1504,8 +1515,8 @@ In addition to the returns specified in sections 16, 17, and 19B, the Commission
   (b) including in a return for the taxable period in which the election date occurs an amount of output tax on the disposal of each asset referred to in subsection (3KB)﻿(b) equal to the tax on a taxable supply having a value equal to the total of—
     (i) each amount, which may be estimated using a method acceptable to the Commissioner if adequate records are not available, that affects under subsection (3K) the calculation of the registered person’s input tax before the election date and is included in the cost of the asset; and
     (ii) each amount arising from the asset, which may be estimated using a method acceptable to the Commissioner if adequate records are not available, that affects under subsection (3K) the calculation of the registered person’s input tax before the election date and is included in the operating costs of the asset in the period of 7 years before the election date.
-(3L) For the purposes of subsection (3), a registered person who is non-resident may deduct input tax as defined in section 3A(1)﻿(a) or (c) to the extent to which the registered person uses the goods or services for, or has the goods and services available for use in, making taxable supplies, treating all the supplies made by the person as if they were made and received in New Zealand.
-(3LB) For the purposes of subsection (3), a registered person who is non-resident may deduct input tax as defined in section 3A(1)﻿(b) if the deduction is not denied by subsection (3LC).
+(3L) For the purposes of subsection (3), a registered person who is non-resident may deduct input tax as defined in section 3A(1)﻿(a) or (c) to the extent to which the registered person uses the goods and services for, or intends the goods or services for use in, making taxable supplies, treating all the supplies made by the person as if they are made and received in New Zealand.
+(3LB) For the purposes of subsection (3), a registered person who is non-resident may deduct input tax as defined in section 3(1)﻿(b) to the extent to which the goods or services are used for, or intended to be used in, making taxable supplies, treating all supplies made by the person as if they were made and received in New Zealand.
 (3LC) A registered person who is non-resident may not deduct input tax as defined in section 3A(1)﻿(b) if the imported goods are—
   (a) supplied to a person (the recipient) who—
     (i) is not a registered person; or
@@ -1626,7 +1637,8 @@ If a person makes a return that includes a figure for the value of supplies char
   (ac) the person has made an adjustment under section 21FB for a change in use of the goods or services and has not changed the use of the goods or services since that change:
   (b) the value of the goods or services, excluding GST, is $5,000 or less:
   (c) the difference between the percentage intended use on acquisition and the percentage actual use for the relevant adjustment period is less than 10 percentage points, but this paragraph does not apply if the adjustment amounts to more than $1,000:
-  (d) the difference between the previous actual use calculated for the most recent adjustment period in which an adjustment was made and the percentage actual use for the relevant adjustment period is less than 10 percentage points, but this paragraph does not apply if the adjustment amounts to more than $1,000.
+  (d) the difference between the previous actual use calculated for the most recent adjustment period in which an adjustment was made and the percentage actual use for the relevant adjustment period is less than 10 percentage points, but this paragraph does not apply if the adjustment amounts to more than $1,000:
+  (e) they intend to apply section 6(3)﻿(e) or 91 to the supply.
 (3) An adjustment arises on the last day of the relevant adjustment period.
 (4) For an adjustment to which sections 21A to 21H apply, a registered person who principally makes supplies of financial services may choose to use a fair and reasonable method, as agreed with the Commissioner, for making adjustments in subsequent adjustment periods. For this purpose,—
   (a) the method must have regard to the tenor of sections 21A to 21H:
@@ -1728,20 +1740,20 @@ For the purposes of section 21A(b),—
 (2) If the use changes to total taxable use, the person's adjustment for the adjustment period referred to in subsection (1)﻿(c)﻿(ii) is an amount of input tax calculated using the formula—full input tax deduction − actual deduction.
 (3) In the formula,—
   (a) full input tax deduction is the total amount of input tax on the supply, after taking into account any nominal GST component chargeable under section 20(3J)﻿(a)﻿(i):
-  (b) actual deduction is the amount of deduction already claimed, taking into account adjustments made up to the end of the adjustment period referred to in subsection (1)﻿(c)﻿(ii).
+  (b) actual deduction is the amount of deduction already claimed, taking into account adjustments made up to the end of the adjustment period referred to in subsection (1)﻿(c)﻿(ii) and including any nominal GST component chargeable under section 20(3J)﻿(a)﻿(i) which has not previously been returned as output tax under section 20(3J)﻿(a)﻿(iv).
 (4) If the use changes to total non-taxable use, the person's adjustment for the adjustment period referred to in subsection (1)﻿(c)﻿(ii) is an amount of output tax that is equal to the amount of the person's actual deduction as described in subsection (3)﻿(b).
 
 ### 21G Definitions and requirements for apportioned supplies and adjustment periods
 (1) For the purposes of this section and sections 8(4B)﻿(b), 9(2)﻿(h), 20(3H) and (3JC), 20G, 21 to 21F, and 21H,—
   (a) percentage actual use, for a registered person and an adjustment period,—
     (i) means the extent to which the goods or services are actually used by the person for making taxable supplies; and
-    (ii) is calculated for the period that starts when the goods or services are acquired and finishes at the end of the relevant adjustment period; and
+    (ii) is calculated for the period that starts when the goods or services are acquired, or if section 21FB has been applied to the goods or services, from the point of the calculation made under that section and finishes at the end of the relevant adjustment period; and
     (iii) is expressed as a percentage of total use:
   (b) percentage intended use, for a registered person, means the extent to which the goods or services are intended to be used by the person for making taxable supplies, estimated at the time of acquisition under section 20(3G) and expressed as a percentage of total use:
   (c) percentage difference means the difference between the percentage actual use determined under paragraph (a) and, as applicable,—
     (i) the percentage intended use determined under paragraph (b); or
     (ii) for a subsequent adjustment period following a period in which a person has made an adjustment, the previous actual use of the goods or services in the earlier period.
-(2) For the purposes of this section and sections 20G, 21 to 21F, and 21H,—
+(2) For the purposes of this section and sections 20G, 21 to 21F, 21FB, and 21H,—
   (a) the first adjustment period is a period that—
     (i) starts on the date of acquisition; and
     (ii) ends on the date as the person chooses that either corresponds to the person's first balance date described in section 15B(6) that falls after the date of acquisition, or corresponds to the person's first balance date that falls at least 12 months after the date of acquisition:
@@ -2506,7 +2518,7 @@ The obligations and liabilities under this Act of any person in respect of anyth
   (b) the agreement includes the name, address, and registration number of each member of the supplier group; and
   (c) if the terms of the agreement differ from normal commercial terms agreed earlier between the members of the supplier group, each member of the supplier group records the circumstances taken into account by the member in entering the agreement; and
   (d) The Commissioner has not invalidated the agreement because the Commissioner considers that the members of the supplier group have failed to satisfy the requirements of the agreement and this section.
-(3) The issuing member of a supplier group is responsible for the obligations under this Act of a supplying member making a supply.
+(3) The issuing member of a supplier group is responsible for the GST record-keeping obligations under this Act of a supplying member making a supply that the issuing member has agreed to be responsible for under subsection (1).
 (4) When the members of a supplier group agree to have, or to change, the issuing member for the supplier group, the issuing member must notify the Commissioner of the member’s role and provide the Commissioner with an undertaking to meet the obligations of an issuing member for the supplier group.
 
 ### 56 Branches and divisions
@@ -3135,6 +3147,9 @@ Where—the supplier may increase the consideration for the supply by an amount 
 
 ### 81 Regulations
 [Repealed]
+
+### 81B Limitation on amending assessments for legislative charges
+Despite section 25 of this Act, and sections 113 and 113A of the Tax Administration Act 1994, as applicable, a person or the Commissioner must not amend an assessment in a manner that is inconsistent with section 5(6EC) to (6EE).
 
 ## Part 12 — Transitional provisions
 
