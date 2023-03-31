@@ -1,5 +1,5 @@
 # Income Tax Act 2004
-_Consolidation as at 2020-03-23_
+_Consolidation as at 2023-03-31_
 
 ### A 1 Title
 This Act is the Income Tax Act 2004.
@@ -12013,7 +12013,9 @@ Modification of IFRS method
   (b) an amount arising from the fair value method under IFRSs is allocated to an income year, even though the amount is allocated to equity reserves under IFRSs.
 Impaired credit adjustment
 (4) In this section, impaired credit adjustment means,—
-  (a) for a financial arrangement accounted for using the fair value method, the movement in fair value due to the decline in credit quality of the arrangement:
+  (a) for a financial arrangement accounted for under the fair value method, a movement in fair value—
+    (i) through a decline in the credit quality of the arrangement; or
+    (ii) through an improvement in the credit quality of the arrangement to the extent to which it offsets earlier movements in fair value described in subparagraph (i):
   (b) for a financial arrangement not accounted for using the fair value method, credit impairment adjustments made under IFRSs.
 
 ### EW 15D Determination alternatives to IFRS
@@ -14420,7 +14422,7 @@ Exemptions applying
   (a) holds an attributing interest in a FIF; and
   (b) either—
     (i) the interest ceases to be an attributing interest in a FIF because 1 of the exemptions in sections EX 32 to EX 37 starts to apply; or
-    (ii) the person ceases having FIF income or loss from the interest because they dispose of an attributing interest in a FIF and fall below the $50,000 threshold in sections CQ 5(1)﻿(d) or (db)(When FIF income arises) and DN 6(1)﻿(d) or (db) (When FIF loss arises).
+    (ii) the person ceases having FIF income or loss from the interest because they dispose of an attributing interest in a FIF and fall below the $50,000 threshold in sections CQ 5(1)﻿(d) or (db) (When FIF income arises) and DN 6(1)﻿(d) or (db) (When FIF loss arises).
 Market value for cost-based methods
 (6) If the person uses the comparative value method, the deemed rate of return method, the fair dividend rate method, or the cost method to calculate FIF income or loss from the interest for the period before the change, the person is treated as having—
   (a) disposed of the interest to an unrelated person immediately before the change; and
