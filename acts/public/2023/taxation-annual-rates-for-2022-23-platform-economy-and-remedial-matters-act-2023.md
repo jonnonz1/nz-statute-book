@@ -40,10 +40,10 @@ This Act is the Taxation (Annual Rates for 2022–23, Platform Economy, and Reme
 (33) Section 118 comes into force on 6 December 2022.
 (34) Sections 20, 49, 53, 65, 114(15), (21), (22), and (36) come into force on 1 January 2023.
 (35) Sections 32, 33, 34, and 114(19) come into force on 8 January 2023.
-(36) Sections 14, 16, 17, 25, 27, 31, 55, 58, 59, 80, 105, 107, 114(8), 116, 119(5), 124(3), (8), (9), and (10), 125(2), 132(2), 113(2), 136(2), 137(2), (3), (7), (10), (13), (18), (22), (24), and (25), 139(1), 142(1) and (3), 143(2), 145, 159, 163, 166, 188(2), 192, 193, 195, 198, 205, 208(2) and (4), 222, and 223 come into force on 1 April 2023.
+(36) Sections 14(2) and (4), 16, 17, 25, 27, 31, 55, 58, 59, 80, 105, 107, 114(8), 116, 119(5), 124(3), (8), (9), and (10), 125(2), 132(2), 113(2), 136(2), 137(2), (3), (7), (10), (13), (18), (22), (24), and (25), 139(1), 142(1) and (3), 143(2), 145, 159, 163, 166, 188(2), 192, 193, 195, 198, 205, 208(2) and (4), 222, and 223 come into force on 1 April 2023.
 (37) Sections 121(8) and 124(4) come into force on 1 July 2023.
 (38) Sections 162(4), (7), and (9), 165, 188(1), 189, 191, 201, 202(3), 210, 211, and 212 come into force on 1 January 2024.
-(39) Sections 18, 24, 28, 36, 100, 103, 104, 106, 114(18), 121(2), (3), (4), (5), (6), and (7), 124(5), 126(1), 130, 131, 132, 134, 135, 136, 137(4), (5), (14), (15), (16), (17), (23), (27), and (28), 138, 140, 141, 144(1), (3), and (5), 146, 147, 151, 152(1), (3), (4), and (5), 153, 154, 155, 167, 168, 169, 199, 208(3), and 213(1) come into force on 1 April 2024.
+(39) Sections 18, 24, 28, 36, 100, 103, 104, 106, 114(18), 121(2), (3), (4), (5), (6), and (7), 124(5), 126(1), 130, 131, 132(1), (4), and (5), 134, 135, 136, 137(4), (5), (14), (15), (16), (17), (23), (27), and (28), 138, 140, 141, 144(1), (3), and (5), 146, 147, 151, 152(1), (3), (4), and (5), 153, 154, 155, 167, 168, 169, 199, 208(3), and 213(1) come into force on 1 April 2024.
 (40) Section 119(3) comes into force on 1 April 2026.
 (41) Sections 124(1) and (2) and 158(2) come into force on 30 June 2026.
 (42) Section 119(7) comes into force on 1 April 2027.
@@ -330,7 +330,7 @@ In section CX 57B(1),—
     (c) is received in the period of 8 weeks beginning on the first day of the relevant North Island flooding event; and
     (d) does not replace a PAYE income payment; and
     (e) does not depend on the seniority of the employee; and
-    (f) is available to another employee, who is not an associated person of the employer and is or was immediately before the relevant North Island flood event in full-time employment with the employer, if the employee is an associated person of the employer; and
+    (f) is available to another employee, who is not an associated person of the employer and is or was immediately before the relevant North Island flooding event in full-time employment with the employer, if the employee is an associated person of the employer; and
     (g) is treated by the employer as not being a fringe benefit.
   (2) Benefits satisfying subsection (1) that would, in the absence of this section, be fringe benefits having a value for the employee that the employer could estimate, are not fringe benefits to the extent to which their total value as fringe benefits for the period would be less than or equal to the amount by which $5,000 exceeds the income that is—
     (a) exempt under section CZ 23B(2)﻿(b); and
@@ -1003,7 +1003,7 @@ In schedule 15, after item 10, insert:The following table is small in size and h
 In schedule 21B, part B, item 21, replace the contract for the Callaghan Innovation project grant with the contract for the Callaghan Innovation project grant. Nor does it include an amount spent by a recipient of a New to R&D Grant, to the extent to which the amount exceeds the amount covered by the New to R&D Grant contract.
 
 ### 119 Schedule 32 amended (Recipients of charitable or other public benefit gifts)
-(1) In schedule 32, insert, in appropriate alphabetical order, Cotton On Foundation Limited, Engineers Without Borders New Zealand Incorporated, Family for Every Child New Zealand Trust, Forest for People Limited, Joyya Trust, and Solomon Island Medical Mission Charitable Trust.
+(1) In schedule 32, insert, in appropriate alphabetical order, Cotton On Foundation Limited, Engineers Without Borders New Zealand Incorporated, Family for Every Child New Zealand Trust, Forests for People Limited, Joyya Trust, and Solomon Island Medical Mission Charitable Trust.
 (2) In schedule 32, insert, in appropriate alphabetical order, Heilala Vanilla Foundation.
 (3) In schedule 32, delete Heilala Vanilla Foundation.
 (4) In schedule 32, insert, in appropriate alphabetical order, New Zealand for UNHCR (United Nations High Commissioner for Refugees).
@@ -1110,7 +1110,7 @@ This Part amends the Goods and Services Tax Act 1985.
     (ii) the goods were not acquired for the principal purpose of making taxable supplies; and
     (iii) the goods were not used for the principal purpose of making taxable supplies; and
     (iv) the goods were not acquired as zero-rated supplies under section 11(1)﻿(m) or (mb).
-(2) In section 6(e)﻿(iv), after (mb), insert , unless the person has chosen to return the nominal GST component as output tax under section 20(3J)﻿(a)﻿(iv).
+(2) In section 6(3)﻿(e)﻿(iv), after (mb), insert , unless the person has chosen to return the nominal GST component as output tax under section 20(3J)﻿(a)﻿(iv).
 (3) Subsection (1) applies to supplies made on or after 1 April 2011, but not to supplies for which an assessment has been made prior to 30 August 2022.
 (4) Subsection (2) applies to taxable periods starting on or after 1 April 2023.
 
@@ -1794,7 +1794,7 @@ After section 139AB, insert:Penalty for trustee’s failure to register, provide
 
 ### 198 Section 141ED amended (Penalty for unpaid amounts of employers’ withholding payments)
 After section 141ED(1), insert:
-  (1B) This section and sections 139A and 139B (which relate to late filing and late payment penalties) do not apply when a non-resident employer incorrectly concludes that they do not have to withhold and pay, or pay, an amount of tax for an amount of tax for a PAYE income payment to a cross-border employee to the Commissioner in an income year, if the employer—
+  (1B) This section and sections 139A and 139B (which relate to late filing and late payment penalties) do not apply when a non-resident employer incorrectly concludes that they do not have to withhold and pay, or pay, an amount of tax for a PAYE income payment to a cross-border employee to the Commissioner in an income year, if the employer—
     (a) has either 2 or fewer employees present in New Zealand during the income year or pays $500,000 or less of employment-related taxes for the income year; and
     (b) has, within 60 days of a relevant failure to withhold and pay, or pay, taken reasonable measures to manage their employment-related tax obligations.
 
