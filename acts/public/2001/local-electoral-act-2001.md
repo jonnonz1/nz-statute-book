@@ -1,5 +1,5 @@
 # Local Electoral Act 2001
-_Consolidation as at 2022-10-20_
+_Consolidation as at 2023-03-31_
 
 ### 1 Title
 This Act is the Local Electoral Act 2001.
@@ -64,6 +64,7 @@ The purpose of this Act is to modernise the law governing the conduct of local e
   - **constituency** means a constituency established under this Act and resulting from the division, for electoral purposes, of a region
   - **counting program** is a computer application program used to implement the New Zealand method of counting single transferable votes that must operate within a particular operating environment
   - **district** means the district of a local authority; and includes a region
+  - **dormant roll** means a dormant roll referred to in section 109 of the Electoral Act 1993
   - **election** means election to any office in, under, or in connection with any local authority, local board, community board, or other body required by law to be filled by the election of the electors of any local government area
   - **elector** means any person entitled under any law for the time being in force to vote at an election or poll, as the case may be, held under this Act
   - **Electoral Commission** means the Electoral Commission established by section 4B of the Electoral Act 1993
@@ -76,15 +77,25 @@ The purpose of this Act is to modernise the law governing the conduct of local e
   - **extraordinary vacancy** means a vacancy occurring in any elective office except for the purpose of any triennial or other general election
   - **First Past the Post** means the electoral system that is described generally in section 5A
   - **general constituency** , in relation to a region, means every constituency of the region that is not a Māori constituency
+  - **General electoral district** has the meaning given in section 3(1) of the Electoral Act 1993
   - **general electoral population** has the same meaning as in section 3(1) of the Electoral Act 1993
   - **general ward** , in relation to the district of a territorial authority, means every ward of the district that is not a Māori ward
   - **local authority** means a territorial authority or regional council; and also includes any other elected or partly-elected body (other than a local board or a community board) to which this Act, or any of its predecessors, is applied or has been made to apply by any other enactment
   - **local board** has the same meaning as in section 5(1) of the Local Government Act 2002
   - **local board area** has the same meaning as in section 5(1) of the Local Government Act 2002
   - **local government area** means the area comprised within the jurisdiction of a local authority; and includes a subdivision of that area
+  - **Māori** has the meaning given in section 3(1) of the Electoral Act 1993
   - **Māori constituency** means a Māori constituency created in accordance with Schedule 1A
   - **Māori electoral district** has the same meaning as in section 3(1) of the Electoral Act 1993
-  - **Māori electoral population** has the same meaning as in section 3(1) of the Electoral Act 1993
+  - **Māori electoral population** means a figure representing both the persons registered as electors of the Māori electoral districts and a proportion of Māori persons who are not registered as electors of any electoral district and a proportion of Māori persons under the age of 18 years, which figure must be fixed—
+    (a) by ascertaining a proportion determined by dividing—
+      (i) the total number of persons, on census day, either—
+        (A) registered as electors of Māori electoral districts; or
+        (B) named on the dormant rolls for Māori electoral districts; by
+      (ii) the total number of Māori persons, on census day, either—
+        (A) registered as electors of Māori electoral districts or General electoral districts; or
+        (B) named on the dormant rolls for Māori electoral districts or General electoral districts; and
+    (b) by applying the proportion ascertained under paragraph (a) to the total number of ordinarily resident Māori persons on census day
   - **Māori ward** means a Māori ward created in accordance with Schedule 1A
   - **member of a local authority** , in relation to a local authority, includes the mayor
   - **Minister** means the Minister of Local Government
@@ -97,6 +108,7 @@ The purpose of this Act is to modernise the law governing the conduct of local e
     (c) inspect the electoral roll; or
     (d) apply for enrolment or for amendment of the electoral roll; or
     (e) lodge nominations of candidates for an election
+  - **on census day** , in relation to a number or information, means that number or information as determined by the last periodic census
   - **poll** means the submission to the vote of electors for decision of a proposal or the provision of opinion on a proposal or other matter, other than an election, that is required to be submitted under this Act or any other Act to which this Act, or any of its predecessors, is applied or has been made to apply
   - **polling day** means the day on which the voting period for an election or poll ends
   - **region** has the same meaning as in section 5(1) of the Local Government Act 2002
@@ -2453,7 +2465,12 @@ In determining the number of wards and the boundaries of Māori wards, and the n
 (1) The Government Statistician must, at the request of a territorial authority or regional council or, if appropriate, the Commission, supply the territorial authority or regional council or the Commission with a certificate—
   (a) specifying the Māori electoral population for the district or region; and
   (b) the general electoral population of the district or region.
-(2) The numbers included in the certificate must be derived from information contained in the most recent report of the Government Statistician to the Surveyor-General and to the other members of the Representation Commission made under section 35(6) of the Electoral Act 1993.
+(2) The numbers included in the certificate must be derived from information contained in—
+  (a) the most recent report of the Government Statistician to the Surveyor-General and the other members of the Representation Commission made under section 35(6) of the Electoral Act 1993; or
+  (b) if subclause (2A) applies, the alternative report referred to in subclause (2A)﻿(b).
+(2A) In a year where a periodic census is held but a report under section 35(6) of the Electoral Act 1993 is not due to be completed (for the purposes of that Act) until after 1 April of the following year (see the definition of counting day in section 79(2) of that Act),—
+  (a) the Electoral Commission must, as soon as practicable after census day, supply to the Government Statistician the information listed in section 79(1) of that Act as on census day; and
+  (b) the Government Statistician must prepare an alternative report for the purposes of this Act, with the information referred to in paragraph (a).
 (3) A certificate issued under subclause (1) is conclusive evidence of the information contained in that certificate.
 
 ### 8 This schedule to be read with Local Government Act 1974 or Local Government Act 2002 and other provisions of this Act
