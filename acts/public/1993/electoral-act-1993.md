@@ -1,5 +1,5 @@
 # Electoral Act 1993
-_Consolidation as at 2023-01-01_
+_Consolidation as at 2023-03-31_
 
 > An Act to reform the electoral system and to provide, in particular, if the proposal for the introduction of the mixed member proportional system is carried at the referendum held under the Electoral Referendum Act 1993,—afor the introduction of the mixed member proportional system of representation in relation to the House of Representatives:bfor the establishment of an Electoral Commission:cfor the repeal of the Electoral Act 1956
 
@@ -39,6 +39,7 @@ This Act may be cited as the Electoral Act 1993.
   - **corrupt practice** means any act declared by this Act to be a corrupt practice
   - **Corrupt Practices List** , in relation to any district, means the Corrupt Practices List made out for that district under section 100
   - **costs** includes charges and expenses
+  - **counting day** has the meaning given in section 79(2)
   - **Crown** means Her Majesty in respect of the Government of New Zealand
   - **current financial member** , in relation to a political party, means a member of the party—
     (a) whose membership of the party resulted from an application made by the member to join the party; and
@@ -71,17 +72,22 @@ This Act may be cited as the Electoral Act 1993.
   - **manager** , in relation to a polling place, means the person designated, under section 158(2), as the manager of the polling place
   - **Maori** means a person of the Maori race of New Zealand; and includes any descendant of such a person
   - **Maori electoral district** means an electoral district constituted under section 45
-  - **Maori electoral population** means a figure representing both the persons registered as electors of the Maori electoral districts and a proportion of the persons of New Zealand Maori descent who are not registered as electors of any electoral district and a proportion of the persons of New Zealand Maori descent under the age of 18 years, which figure shall be fixed—
+  - **Māori electoral population** means a figure representing both the persons registered as electors of the Māori electoral districts and a proportion of Māori persons who are not registered as electors of any electoral district and a proportion of Māori persons under the age of 18 years, which figure must be fixed—
     (a) by ascertaining a proportion determined by dividing—
-      (i) the total number of persons registered as at the close of the last day of the period specified in the last notice published under section 77(2) as electors of Maori electoral districts, and persons on the dormant rolls for Maori electoral districts; by
-      (ii) the total number of persons of New Zealand Maori descent registered as at the close of the day referred to in subparagraph (i) as electors of either General electoral districts or Maori electoral districts, and persons on the dormant rolls for Maori electoral districts and General electoral districts; and
-    (b) by applying the proportion ascertained under paragraph (a) to the total number of ordinarily resident persons of New Zealand Maori descent as determined by the last periodical census
+      (i) the total number of persons, on counting day, either—
+        (A) registered as electors of Māori electoral districts; or
+        (B) named on the dormant rolls for Māori electoral districts; by
+      (ii) the total number of Māori persons, on counting day, either—
+        (A) registered as electors of Māori electoral districts or General electoral districts; or
+        (B) named on the dormant rolls for Māori electoral districts or General electoral districts; and
+    (b) by applying the proportion ascertained under paragraph (a) to the total number of ordinarily resident Māori persons on census day
   - **medical practitioner** means a health practitioner who is, or is deemed to be, registered with the Medical Council of New Zealand continued by section 114(1)﻿(a) of the Health Practitioners Competence Assurance Act 2003 as a practitioner of the profession of medicine
   - **member of the Defence Force** means any person resident in New Zealand within the meaning of this Act who is for the time being a member of the New Zealand Defence Force constituted by section 11(1) of the Defence Act 1990; and includes any person so resident who is attached to, or employed by, or carries out duties of the New Zealand Defence Force which necessitate his or her being outside New Zealand
   - **mental impairment** , in relation to any person, means an impairment causing a person to lack, wholly or partly, the capacity to understand the nature of any decision about registering as an elector
   - **meshblock** means statistical meshblock
   - **Minister** means the Minister of Justice
   - **nomination day** , in relation to any election, means the day appointed in the writ for that election as the latest day for the nomination of candidates
+  - **on census day** has the meaning given in section 79(2)
   - **party** , in Parts 6AA, 6A, and 6B,—
     (a) means a political party registered under Part 4; and
     (b) includes a political party that at any time during the regulated period has been registered under Part 4
@@ -603,10 +609,10 @@ Any political party to which a member of Parliament belongs and any independent 
     (v) any projected variation in the General electoral population of those districts during their life:
   (g) no General electoral district shall be situated partially in the North Island and partially in the South Island.
 (4) As soon as possible after each periodical census, the Surveyor-General shall call a meeting of the members of the Commission who hold office under any of the provisions of paragraphs (a) to (e) of section 28(2) for the purpose of nominating a Chairperson of the Commission.
-(5) As soon as possible after each periodical census and each period specified in a notice published under section 77(2), the Electoral Commission shall supply the Government Statistician with the information that the Electoral Commission is required to supply to the Government Statistician under section 77(6).
-(6) When the Government Statistician—the Government Statistician shall thereupon report the results of the census and his or her calculation of the Maori electoral population as at the close of the last day of that period to the Surveyor-General and to the other members of the Commission.
+(5) The Electoral Commission must supply the Government Statistician with the information required to be supplied under section 79(1) in accordance with that section.
+(6) When the Government Statistician—the Government Statistician shall thereupon report the results of the census and his or her calculation of the Maori electoral population as on counting day to the Surveyor-General and to the other members of the Commission.
   (a) has the results of the census; and
-  (b) has been supplied by the Electoral Commission with the information that the Electoral Commission is required, under section 77(6), to supply to the Government Statistician as soon as practicable after the last day of the period specified in the notice published under section 77(2),—
+  (b) has been supplied by the Electoral Commission with the information required to be supplied under section 79(1),—
 (7) Upon receipt of the report of the Government Statistician, the Surveyor-General shall prepare maps showing the distribution of the population and provisional boundaries for the electoral districts, and shall then call a meeting of the Commission.
 (8) The report so made by the Government Statistician, and the maps so prepared by the Surveyor-General, shall be sufficient evidence as to the General electoral population of New Zealand or of the North Island or of the South Island or of any district.
 
@@ -1220,66 +1226,96 @@ For the purposes of this Act, a person is a permanent resident of New Zealand if
 (2) Where an elector is qualified to be registered as an elector of an electoral district, his or her registration as an elector of that district shall not be invalid by reason only of the fact that at the time of that registration he or she was registered as an elector of a district for which he or she was not, or was no longer, qualified to be registered.
 (3) Notwithstanding that the validity of the registration of an elector of an electoral district is preserved by subsection (2), for the purposes of section 60, such an elector is not qualified, by virtue of that registration, to vote at an election unless, when the elector votes, he or she is no longer registered as an elector of another electoral district.
 
-### 76 Maori option
-(1) Subject to this section and to sections 77 to 79, a Maori who possesses the qualifications prescribed in that behalf by this Act shall have the option of being registered either as an elector of a Maori electoral district or as an elector of a General electoral district.
-(2) Every such option shall be exercised—
-  (a) at the time the Maori first qualifies and applies to be registered as an elector of any electoral district; or
-  (b) in the case of a Maori who was not registered as an elector of any electoral district on the first day of the period last specified in a notice published under section 77(2), on the first subsequent application for registration as an elector; or
-  (c) in any other case, in accordance with section 77 or section 78.
+### 76 Māori option
+(1) A Māori who is eligible to be registered as an elector may choose to be registered as an elector of—
+  (a) a Māori electoral district; or
+  (b) a General electoral district.
+(2) The option under subsection (1) (the Māori option) may be exercised by a person in accordance with section 77.
 
-### 77 Periodic exercise of Maori option and determination of Maori population
-(1) Every elector who is a Maori may exercise periodically, in accordance with this section, the option given by section 76(1).
-(2) The Minister shall, in accordance with this section, specify from time to time, by notice in the Gazette, a period of 4 months during which any Maori may exercise the option given by section 76(1).
-(3) The Minister shall, as soon as practicable after the commencement of this section, and in accordance with section 269(2), publish the first notice under subsection (2).
-(4) Subject to subsections (3) and (5) and to section 269(2), the Minister shall, in every year that a quinquennial census of population is taken, but in no other year, publish a notice under subsection (2).
-(5) Notwithstanding subsection (4), where a Parliament is due to expire in a year in which a quinquennial census of population is to be taken, the Minister shall not, in that year, publish a notice under subsection (2), but shall instead, in the year following the year in which the quinquennial census of population is taken, publish such a notice.
-(6) For the purpose of enabling the Government Statistician to calculate the Maori electoral population, the Electoral Commission shall, as soon as practicable after the last day of each period specified in a notice published under subsection (2), supply to the Government Statistician—
-  (a) the total number of persons registered as electors of the Maori electoral districts as at the close of that last day; and
-  (b) the total number of persons registered as electors of the General electoral districts, who, as at the close of that last day, are recorded as having given written notice to the Electoral Commission that they are persons of New Zealand Maori descent; and
-  (c) the total number of persons whose names are shown on the dormant rolls maintained under section 109 for the Maori electoral districts; and
-  (d) the total number of persons whose names are shown on the dormant rolls maintained under section 109 for General electoral districts who are recorded as having given written notice that they are persons of New Zealand Maori descent.
+### 77 Exercise of Māori option
+Exercise of option by 17-year-olds
+(1) A Māori who is 17 years old may exercise the Māori option at the time they apply for registration as an elector under section 82(2).
+Exercise of option when person applies for registration as elector
+(2) A Māori may exercise the Māori option at the time they apply for registration as an elector under section 83.
+Exercise of option by registered elector
+(3) A Māori who is registered as an elector may, at any time, exercise the Māori option by advising the Electoral Commission,—
+  (a) in the case of a person registered as an elector of a Māori electoral district, that they wish to be registered as an elector of a General electoral district:
+  (b) in the case of a person registered as an elector of a General electoral district, that they wish to be registered as an elector of a Māori electoral district.
 
-### 78 Exercise of Maori option
-(1) A Maori who is registered as an elector on the first day of an option period may exercise once in that period the Maori option.
-(2) The Electoral Commission must send on the first day of an option period a notice in a form that the Electoral Commission has approved to—
-  (a) every person registered as an elector of a Maori electoral district; and
-  (b) every person registered as an elector of a General electoral district who has,—
-    (i) in his or her application for registration as an elector, specified that he or she is a Maori; or
-    (ii) in response to an inquiry under section 89D, notified the Electoral Commission that he or she is a Maori.
-(3) Subsection (4) applies to every Maori—
-  (a) who receives a notice sent under subsection (2); and
-  (b) who,—
-    (i) being registered as an elector of a Maori electoral district, wishes to be registered as an elector of a General electoral district; or
-    (ii) being registered as an elector of a General electoral district, wishes to be registered as an elector of a Maori electoral district.
-(4) A Maori to whom this subsection applies may exercise the Maori option by advising whether he or she wishes to be registered as an elector of—
-  (a) a General electoral district; or
-  (b) a Maori electoral district.
-(5) A Maori who wishes to exercise the Maori option under subsection (4) must advise the Electoral Commission as to which option he or she has chosen by—
-  (a) indicating his or her choice on the notice received under subsection (2), adding his or her signature and the date, and then returning the notice to the Electoral Commission:
-  (b) indicating his or her choice using an approved electronic medium:
-  (c) completing an application for registration as an elector in accordance with section 83.
-(6) A Maori who is outside New Zealand, or who has a physical or mental impairment may exercise the Maori option through a representative, and section 86 applies with any necessary modifications.
-(7)
-(8) Advice received under subsection (5) is deemed to be an application for registration as an elector for the purposes of—
+### 78 Process for and effect of exercise of Māori option
+How option is exercised
+(1) A person may exercise the Māori option by indicating their choice,—
+  (a) in writing, by completing and signing a form that the Electoral Commission has approved and returning it to the Electoral Commission:
+  (b) in an approved electronic medium, by providing the required information:
+  (c) in an application for registration as an elector.
+Receipt of late or non-compliant form or application
+(2) If a form or an application described in subsection (1)﻿(a) or (c) is received by the Electoral Commission by post after the start of any election period and it complies with the requirements in subsection (3), that form or application is to be treated as having been received before the start of the election period and the elector must, if the form or application is otherwise in order, be treated as having exercised the Māori option.
+(3) The requirements for a form or an application are the following:
+  (a) it must be received no later than noon on the fourth day after the start of an election period; and
+  (b) it must be postmarked or date-stamped before the start of an election period.
+(4) If a form or an application described in subsection (1)﻿(a) or (c) is received by the Electoral Commission by post before the start of any election period but that form or application does not comply with the requirements for signing and dating, the Electoral Commission may treat the notice as being in accordance with those requirements if the non-compliance is remedied not later than 6 days after the start of the election period.
+Representatives may act on behalf of some persons
+(5) A person who is outside New Zealand or who has a physical or mental impairment may exercise the Māori option through a representative and section 86 applies with any necessary modifications.
+Effect of exercise of option
+(6) The exercise of the Māori option (if not made in an application under section 83) is to be treated as an application for registration as an elector for the purposes of—
   (a) the definition of electoral roll in section 3(1); and
-  (b) sections 89A, 98, and 103.
-(9) A Maori who receives a notice sent under subsection (2) but who does not exercise the option given by section 76(1) in the option period continues to be registered on the roll as an elector of the electoral district in which he or she is currently registered.
-(10) If a notice returned to the Electoral Commission under subsection (5)﻿(a) is received by the Electoral Commission by post after the end of the option period but not later than noon on the day after the last day of that period, the notice is deemed to have been received in that option period, and the elector must, if the notice is otherwise in order, be deemed to have exercised the option given by section 76(1) in that option period.
-(11) If a notice returned to the Electoral Commission under subsection (5)﻿(a) is received by the Electoral Commission within the option period but that notice does not comply with the requirements for signing and dating, the Electoral Commission may treat the notice as being in accordance with those requirements before the end of that option period if the non-compliance is remedied within 6 days after the end of that option period.
-(12) For the purposes of this section,—
-  - **Maori option** means the option provided by section 76(1)
-  - **option period** means the period specified in a notice published under section 77(2)
-  - **person registered as an elector** includes a person of or over the age of 17 years who has had an application under section 82(2) to register as an elector accepted by the Electoral Commission.
+  (b) sections 89, 89A, 98, and 103.
+(7) In this section, election period means—
+  (a) a general election period (see section 78A(4)); or
+  (b) a local government election period (see section 78B(4)); or
+  (c) a by-election period (see section 78C(6)).
 
-### 79 Restriction on transfer between General and Maori electoral rolls
-Except as provided in sections 76 to 78,—
-  (a) no Maori may transfer from a General electoral roll to a Maori electoral roll or vice versa:
-  (b) no Maori whose name has been removed from an electoral roll or who ceases to be qualified as an elector of an electoral district may be registered as an elector for a different type of electoral district.
+### 78A Māori option may not be exercised in general election period
+(1) The following persons may not exercise the Māori option during a general election period:
+  (a) a Māori who is registered as an elector of an electoral district:
+  (b) a Māori who is named on a dormant roll and applies for registration as an elector of an electoral district.
+(2) To avoid doubt, subsection (1) relates to changing the type of district in which the person is entitled to vote only and does not otherwise affect any other section in this Act relating to the registration of electors.
+(3) The Electoral Commission must not give effect to either of the following during a general election period:
+  (a) any advice received under section 77(3) by a registered elector; or
+  (b) if processing an application under section 83 by a Māori person named on a dormant roll, the choice made by the person when exercising the Māori option in that application if it would register them as an elector for a different type of district from that for which they were previously registered.
+(4) In this section, general election period means any of the following periods:
+  (a) the period that is 3 months before polling day for a general election, if at least 3 months’ public notice is given of polling day (polling day A):
+  (b) the period commencing on the day after the day on which public notice of polling day is given and ending on polling day, if less than 3 months’ public notice is given of polling day (polling day B):
+  (c) if during a period specified in paragraph (a) or (b) public notice is given that polling day A or polling day B is changed to a later date (polling day C), such part of the period specified in paragraph (a) or (b) (as relevant) that has elapsed up until the end of the day on which the public notice is given, and a further period specified in paragraph (a) or (b) (as relevant) in relation to polling day C.
+
+### 78B Māori option may not be exercised in local government election period
+(1) The following persons may not exercise the Māori option during a local government election period:
+  (a) a Māori who is registered as an elector of an electoral district:
+  (b) a Māori who is named on a dormant roll and applies for registration as an elector of an electoral district.
+(2) To avoid doubt, subsection (1) relates to changing the type of district in which the person is entitled to vote only and does not otherwise affect any other section in this Act relating to the registration of electors.
+(3) The Electoral Commission must not give effect to either of the following during a local government election period:
+  (a) any advice received under section 77(3) by a registered elector; or
+  (b) if processing an application under section 83 by a Māori person named on a dormant roll, the choice made by the person when exercising the Māori option in that application if it would register them as an elector for a different type of district from that for which they were previously registered.
+(4) In this section, local government election period means a period that is 3 months before polling day for an election held under section 10(2) of the Local Electoral Act 2001.
+
+### 78C Māori option may not be exercised in by-election period
+(1) This section applies if the Speaker has published a notice of vacancy for an electoral district.
+(2) The following persons may not exercise the Māori option during a by-election period if doing so would result in the person being eligible to vote in the by-election:
+  (a) a Māori who is registered as an elector of an electoral district:
+  (b) a Māori who is named on a dormant roll and applies for registration as an elector of an electoral district.
+(3) To avoid doubt, subsection (2) relates to changing the type of district in which the person is entitled to vote only and does not otherwise affect any other section in this Act relating to the registration of electors.
+(4) The Electoral Commission must not give effect to either of the following during a by-election period:
+  (a) any advice received under section 77(3) by a registered elector; or
+  (b) if processing an application under section 83 by a Māori person named on a dormant roll, the choice made by the person when exercising the Māori option in that application if it would register them as an elector for a different type of district from that for which they were previously registered.
+(5) However, subsections (2) and (4) do not apply if under section 131 no writ is issued.
+(6) In this section, by-election period means the period beginning on the date on which the notice of vacancy is published and ending on polling day for the by-election.
+
+### 79 Determination of Māori electoral population
+(1) For the purpose of enabling the Government Statistician to calculate the Māori electoral population, the Electoral Commission must, as soon as practicable after counting day, supply to the Government Statistician the following information as on counting day:
+  (a) the total number of persons registered as electors of Māori electoral districts; and
+  (b) the total number of Māori persons registered as electors of General electoral districts; and
+  (c) the total number of persons whose names are on the dormant rolls maintained under section 109 for Māori electoral districts; and
+  (d) the total number of Māori persons whose names are on the dormant rolls maintained under section 109 for General electoral districts.
+(2) In this Act,—
+  - **counting day** —
+    (a) means on census day; or
+    (b) if a periodic census and a general election take place in the same calendar year, means 1 April in the following year
+  - **on census day** , in relation to a number or information, means that number or information as determined by the last periodic census.
 
 ### 80 Disqualifications for registration
 (1) The following persons are disqualified for registration as electors:
-  (a) a New Zealand citizen who (subject to subsection (3)) is outside New Zealand and has not been in New Zealand within the last 3 years:
-  (b) a permanent resident of New Zealand (not being a New Zealand citizen) who (subject to subsection (3)) is outside New Zealand and has not been in New Zealand within the last 12 months:
+  (a) a New Zealand citizen who (subject to subsection (3)) is outside New Zealand and has not been in New Zealand within the last 6 years:
+  (b) a permanent resident of New Zealand (not being a New Zealand citizen) who (subject to subsection (3)) is outside New Zealand and has not been in New Zealand within the last 4 years:
   (c) a person who is detained in a hospital under the Mental Health (Compulsory Assessment and Treatment) Act 1992 or in a secure facility under the Intellectual Disability (Compulsory Care and Rehabilitation) Act 2003, and to whom one of the following applies:
     (i) the person has been found by a court or a Judge to be unfit to stand trial within the meaning of the Criminal Procedure (Mentally Impaired Persons) Act 2003, or has been acquitted on account of his or her insanity, and (in either case) is detained under an order or direction under section 24 or section 31 or section 33 of that Act or under the corresponding provisions of the Criminal Justice Act 1985 and has been so detained for a period exceeding 3 years:
     (ii) the person has been found by a court, on conviction of any offence, to be mentally impaired, and is detained under an order made under section 34 of the Criminal Procedure (Mentally Impaired Persons) Act 2003 or section 118 of the Criminal Justice Act 1985, and has been so detained for a period exceeding 3 years:
@@ -1394,7 +1430,7 @@ A person who has a physical or mental impairment may apply for registration as a
 ### 86B Prison manager to collect and send enrolment information to Electoral Commission
 (1) If a prisoner referred to in section 86A or 86AB wants their enrolment details sent to the Electoral Commission to facilitate their registration as an elector, the prisoner must provide to the prison manager the following information for that purpose:
   (a) the prisoner’s details specified in section 83(2)﻿(a), (b), (c), (d), (g), and (h); and
-  (b) if the prisoner is of Maori descent and at the time of providing their enrolment details is, in accordance with section 76(2), eligible to exercise the option referred to in section 76(1), whether the prisoner’s preference is to be enrolled on the Maori electoral roll or General electoral roll.
+  (b) if the prisoner is Māori, whether their choice is to be registered in a Māori electoral district or a General electoral district.
 (2) The prison manager must collect the enrolment information provided by a prisoner and send that information to the Electoral Commission as soon as is reasonably practicable—
   (a) after collecting the information, if the information is collected from a prisoner referred to in section 86A; or
   (b) after the prisoner’s release from prison, if the information is collected from a prisoner referred to in section 86AB.
@@ -1466,7 +1502,9 @@ When carrying out their duties under sections 86A, 86AB, and 86B, a prison manag
 
 ### 89 Procedure following application for registration
 (1) If the Electoral Commission is satisfied that any applicant for registration as an elector (whether by transfer from another district, or otherwise) is qualified to be registered, the Electoral Commission must enter the name of the applicant on the roll.
-(2) If the Electoral Commission believes that a Māori applicant is prevented, by the manner in which the applicant last exercised the option given by section 76, from being registered as an elector of the district to which the application relates, the Electoral Commission must notify the applicant of its reasons for refusing the application.
+(2) If on receiving any application that includes the exercise of the Māori option the Electoral Commission believes that it is prevented, by any of sections 78A to 78C, from giving effect to the option, the Electoral Commission must—
+  (a) notify the applicant of the reason why the exercise of the Māori option cannot be given effect to until a later date and advise what that date is; and
+  (b) advise the applicant whether they are entitled to be registered as an elector in another type of district.
 (3) Where an application for registration as an elector has been received before the issue of a writ and it has not been possible for the Electoral Commission to ascertain, at the time of the issue of the writ, whether the applicant is currently registered as an elector of another electoral district, the Electoral Commission must, subject to subsection (4), include the name of the applicant on any main, supplementary, or composite roll printed as at writ day.
 (4) Notwithstanding anything in this Act, where the Electoral Commission has, under subsection (3), included the name of any person on any main, supplementary, or composite roll printed as at writ day, the Electoral Commission must, within 6 days after writ day determine, either—
   (a) to enter the name of the applicant on the electoral roll; or
@@ -1545,6 +1583,19 @@ The Electoral Commission must, not later than 14 days after the registration of 
   (a) a person registered as an elector includes any person of or over the age of 17 years who has had an application to register as an elector accepted by the Electoral Commission; and
   (b) the particulars contained in the application to register are the particulars on the roll for that person.
 
+### 89DA Updating Māori option details
+(1) The Electoral Commission must send to Māori electors information about the exercise of the Māori option, if practicable, not later than—
+  (a) 30 April 2023; and
+  (b) 31 March in any other year in which Parliament is due to expire.
+(2) The Electoral Commission must send to Māori electors information about the exercise of the Māori option not less than 3 months before the commencement of a local government election period under section 78B.
+(3) The information required to be sent to Māori electors under subsections (1) and (2) may be sent by any means that the Electoral Commission considers appropriate and—
+  (a) must inform the elector that they are currently registered in a Māori electoral district or a General electoral district (whichever applies); and
+  (b) must inform the elector that they are entitled to—
+    (i) exercise the Māori option under section 76 at any time other than as provided in sections 78A to 78C; and
+    (ii) change the type of district in which they are registered; and
+  (c) must include a form or information about an approved electronic medium to use to exercise the Māori option; and
+  (d) may give information about the differences between the 2 types of electoral districts that the Electoral Commission considers would be useful.
+
 ### 89E No inquiry required if application for registration as elector received
 If the Electoral Commission receives, during an inquiry under section 89D(1), or within 28 days before the commencement of an inquiry under that section, a duly completed application for registration as an elector,—
   (a) that application is deemed to be a completed form for the purposes of section 89D; and
@@ -1554,18 +1605,18 @@ If the Electoral Commission receives, during an inquiry under section 89D(1), or
 (1) If, following an inquiry under section 89D, the Electoral Commission receives notice under section 89D(5)﻿(b) that an elector has changed his or her place of residence and now resides in another electoral district, the Electoral Commission—
   (a) must, in accordance with section 98(1)﻿(a), remove the elector’s name from the roll for the district in which the elector previously resided; and
   (b) must, in accordance with section 89, register that elector on the roll for the district in which the elector resides.
-(2) If, following an inquiry under section 89D, the Electoral Commission receives notice under section 89D(5)﻿(c) of any change or correction to an elector's particulars, other than a change of place of residence referred to in subsection (1), the Electoral Commission must amend the elector's particulars on the roll in accordance with that notification.
+(2) If, following an inquiry under section 89D, the Electoral Commission receives notice under section 89D(5)﻿(b) of any change or correction to an elector's particulars, other than a change of place of residence referred to in subsection (1), the Electoral Commission must amend the elector's particulars on the roll in accordance with that notification.
 (3) An elector remains on the roll and his or her particulars on the roll remain unchanged if—
-  (a) the Electoral Commission does not receive from the elector a form or information under section 89D(5)﻿(c); or
-  (b) the Electoral Commission receives from the elector a form or information under section 89D(5)﻿(c) with no changes.
-(4) A form that a person intends to return, or returns, under section 89D(5)﻿(c)﻿(i) must be signed and may be rejected for incompleteness, in accordance with subsections (1)﻿(a), (2), and (3) of section 83 (which apply with all necessary modifications), as if the form were an application in respect of registration as an elector.
-(5) Information that an elector intends to supply, or supplies, electronically under section 89D(5)﻿(c)﻿(ii)—
+  (a) the Electoral Commission does not receive from the elector a form or information under section 89D(5)﻿(b); or
+  (b) the Electoral Commission receives from the elector a form or information under section 89D(5)﻿(b) with no changes.
+(4) A form that a person intends to return, or returns, under section 89D(5)﻿(b)﻿(i) must be signed and may be rejected for incompleteness, in accordance with subsections (1)﻿(a), (2), and (3) of section 83 (which apply with all necessary modifications), as if the form were an application in respect of registration as an elector.
+(5) Information that an elector intends to supply, or supplies, electronically under section 89D(5)﻿(b)﻿(ii)—
   (a) is not an application in respect of registration as an elector required by section 83(1)﻿(a) to be signed; but
   (b) may be rejected for incompleteness under section 83(3) (which applies with all necessary modifications) if it does not include all the details specified in section 83(2)﻿(a), (b), (c), and (h).
 
 ### 89G Elector who cannot be contacted to be included in dormant roll
 (1) This section applies if—
-  (a) the Electoral Commission is notified that an inquiry made under section 89D(1) or a notice sent under section 78(2) cannot be delivered to the elector to whom it is addressed because the whereabouts of the elector are not known; or
+  (a) the Electoral Commission is notified that an inquiry made under section 89D(1) cannot be delivered to the elector to whom it is addressed because the whereabouts of the elector are not known; or
   (b) at any other time, the elector cannot be contacted at the elector’s address on the roll.
 (2) If this section applies, the Electoral Commission must—
   (a) make any inquiry as to the whereabouts of the elector that the Electoral Commission thinks fit; and
@@ -1714,9 +1765,7 @@ Where, within 14 days after the day on which a notice under section 95A(1) or se
     (i) is duly certified to the Electoral Commission; or
     (ii) is notified to the Electoral Commission under section 81:
     (ii)
-  (g) the name of every person who, being a Maori,—
-    (i) has indicated his or her choice, pursuant to section 78, to be registered as an elector for a different type of electoral district; or
-    (ii) is registered in contravention of section 79:
+  (g) the name of every Māori person who has exercised the Māori option under section 76 and chosen to be registered as an elector for a different type of electoral district:
   (h) where the roll is for a Maori electoral district, the name of every person who is not a Maori:
   (i) the name of every person who has been registered for the district—
     (i) by mistake; or
