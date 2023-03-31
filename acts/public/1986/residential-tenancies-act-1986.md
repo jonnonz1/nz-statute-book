@@ -1,5 +1,5 @@
 # Residential Tenancies Act 1986
-_Consolidation as at 2022-12-01_
+_Consolidation as at 2023-03-31_
 
 > An Act to reform and restate the law relating to residential tenancies, to define the rights and obligations of landlords and tenants of residential properties, to establish a tribunal to determine expeditiously disputes arising between such landlords and tenants, to establish a fund in which bonds payable by such tenants are to be held, and to repeal the Tenancy Act 1955 and the Rent Appeal Act 1973 and their amendments
 
@@ -54,7 +54,7 @@ _Consolidation as at 2022-12-01_
     (h) communication facilities:
     (i) recreational areas:
     (j) lawns, gardens, and outhouses
-  - **fixed-term tenancy** means a tenancy for a fixed term; but, except as provided in section 58(1), does not include such a tenancy that is terminable by notice
+  - **fixed-term tenancy** means a tenancy for a fixed term; but, except as provided in section 58(1) or 58A, does not include such a tenancy that is terminable by notice
   - **the Fund** means the Residential Tenancies Fund established by section 127
   - **goods** means goods, baggage, and chattels of any description; and includes animals and plants; and also includes money, documents, and all other things of value
   - **guarantor** , in relation to a tenancy, means a person who guarantees the performance of the tenant’s obligations, or who indemnifies the landlord against loss that he or she may incur in respect of the tenancy, or who assumes liability for the performance of the obligations of the tenant, and has a corresponding meaning
@@ -1069,7 +1069,7 @@ In sections 49A to 49D, unless the context otherwise requires, premises includes
 
 ### 50 Circumstances in which tenancies are terminated
 (1) Subject in the case of a subtenancy to section 57, no tenancy to which this Act applies shall terminate or be terminated otherwise than as follows:
-  (a) in the case of a fixed-term tenancy, on the expiry of the term of the tenancy or, if any of sections 55AA, 56A(1), 58(1)﻿(d), (da), 59, 59A, or 59B apply, by giving notice in accordance with the applicable section:
+  (a) in the case of a fixed-term tenancy, on the expiry of the term of the tenancy or, if any of sections 55AA, 56A(1), 58(1)﻿(d), (da), 58A, 59, 59A, or 59B apply, by giving notice in accordance with the applicable section:
   (ab) on the death of a sole tenant under a tenancy agreement or a sole tenant under a boarding house tenancy agreement, in accordance with section 50A or 66W, as the case requires:
   (ac) by the sole tenant under a fixed-term tenancy or periodic tenancy giving notice of withdrawal under section 56B:
   (b) in the case of a periodic tenancy to which a right of termination under any of sections 51 to 53B, 55AA, 56A(1), 58(1)﻿(c), and 59 to 59B applies, by giving notice in accordance with the applicable section:
@@ -1342,6 +1342,15 @@ With the consent of the Tribunal, the parties to a tenancy agreement may provide
   (da) in the case of a fixed-term tenancy, the tenant has the same right to give notice terminating the tenancy as the tenant would have had if the tenancy had been a periodic tenancy:
   (e) paragraph (d) shall not apply where the mortgagee or other person is bound by the tenancy or consented in writing to its creation.
 (2) Subsection (1) shall apply notwithstanding anything to the contrary in the Property Law Act 2007 or the Land Transfer Act 1952 or any other enactment.
+
+### 58A Termination of tenancies in respect of build-to-rent land
+(1) This section applies if a tenant has accepted an offer—
+  (a) for a fixed-term tenancy of at least 10 years in respect of build-to-rent land; or
+  (b) for an extension or renewal of such a tenancy, provided that the extension or renewal is for at least 10 years.
+(2) The tenant may terminate the tenancy by giving at least 56 days’ notice to the landlord.
+(3) In this section, build-to-rent land means—
+  (a) land as described in paragraph (a) of the definition of build-to-rent land in section YA 1 of the Income Tax Act 2007; and
+  (b) includes land that, at any time after it first meets the description referred to in paragraph (a), fails to meet that description.
 
 ### 59 Destruction of premises
 (1) Where, otherwise than as a result of a breach of the tenancy agreement (whether for a fixed-term tenancy or a periodic tenancy), the premises are destroyed, or are so seriously damaged as to be uninhabitable,—
