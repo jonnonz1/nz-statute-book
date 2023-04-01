@@ -1,5 +1,5 @@
 # Income Tax Act 2007
-_Consolidation as at 2023-03-31_
+_Consolidation as at 2023-04-01_
 
 ### A 1 Title
 This Act is the Income Tax Act 2007.
@@ -16,7 +16,7 @@ Act effective for 2008–09 income year and later
 
 ### AA 1 Purpose of Act
 The main purposes of this Act are—
-  (a) to define, and impose tax on, net income:
+  (a) to define, and impose tax on, a net amount of income:
   (b) to impose obligations concerning tax:
   (c) to set out rules for calculating tax and for satisfying the obligations imposed.
 
@@ -339,7 +339,7 @@ Income
   (a) 10-year test land:
   (b) 5-year test land.
 Exception: death
-(2B) This section does not apply to an amount that an executor or administrator described in section FC 1(1)﻿(a) (Disposals to which this subpart applies), or a beneficiary described in section FC 1(1)﻿(b), derives from disposing of residential land that was transferred to them on the death of a person.
+(2B) This section does not apply to an amount that an executor or administrator described in section FC 1(1)﻿(a) (Disposals to which this subpart applies), or a beneficiary described in section FC 1(1)﻿(b), derives from disposing of residential land that was transferred to them on the death of a person (see also: section FC 9 (Residential land transferred to executor, administrator, or beneficiary on death of person).
 Disposal
 (3) In the case where none of subsections (4) to (7C) are applicable, the bright-line acquisition date for the purposes of the definitions of 10-year test land and 5-year test land is—
   (a) the date on which the instrument to transfer the land to the person was registered—
@@ -366,8 +366,8 @@ Joint tenancy converted to tenancy in common
 (5B) In the case and to the extent to which the residential land is held as a tenant in common in a share equal to all joint owners, converted subsequent to, and to the extent to which it was previously being held as a joint tenant nominally in the same share equal to the same joint owners, the bright-line acquisition date for the purposes of the definitions of 10-year test land and 5-year test land is the same as prior to the conversion.
 Tenancy in common converted to joint tenancy
 (5C) In the case and to the extent to which the residential land is held as a joint tenant nominally in a share equal to all joint owners, converted subsequent to, and to the extent to which it was previously being held as a tenant in common in the same share equal to the same joint owners, the bright-line acquisition date for the purposes of the definitions of 10-year test land and 5-year test land is the same as prior to the conversion.
-Dividing from and merging with pre-existing land
-(5D) To the extent to which land (land A) is either transferred by a person and, before transfer from them, was part of other land (pre-existing land) that a person owned, or is transferred to a person and, after transfer to them, merges with other land (also pre-existing land) that the person owns, an instrument of transfer for the transfer is treated as not being for the pre-existing land.
+Land-owning person
+(5D) In the case and to the extent to which a person who owns land (pre-existing land) has more land transferred to them (the transfer land) or transfers part of their pre-existing land (also, the transfer land), the instrument of transfer for the transfer land is for the transfer land only and is treated as not being for the pre-existing land, for the purposes of the definition of bright-line acquisition date.
 Estate or interest acquired upon completion of land development or subdivision
 (6) In the case where the residential land is acquired as the result of the completion of a land development or subdivision, the bright-line acquisition date for the purposes of the definitions of 10-year test land and 5-year test land is the date the person enters into the agreement under which they acquired the estate or interest upon the completion of the land development or subdivision.
 Residential land transferred for certain family trusts
@@ -415,14 +415,17 @@ Family trusts: transfers from trusts
   (b) the transferees acquire proportionally the same amount of land they had transferred to the trustee and, at the time that the trustee transfers the land to the transferees,—
     (i) the transferees are beneficiaries of trust A; and
     (ii) at least 1 transferee is a principal settlor of trust A; and
-    (iii) trust A is a rollover trust.
+    (iii) trust A is a rollover trust; and
+  (c) trust A is a rollover trust and—
+    (i) the transferees had not transferred the land to the trustee; and
+    (ii) all transferees are principal settlors at the time that the trustee transfers the land to the transferees and also at the time that the trustee acquired the land.
 Other capacities
 (3) For the purposes of applying subsections (1)﻿(a) and (2), the transferors and transferees may have different capacities in relation to the different criteria in those subsections (for example: a transferee may be a settlor in their personal capacity and be a beneficiary as an LTC owner).
 Transfer to self
 (4) If a person in 1 capacity transfers land to themselves in a different capacity, then the bright-line acquisition date for the land when they dispose of it to a third party in that different capacity is the bright-line acquisition date that the person first had for the land. The transfer to the different capacity must be on or after 1 April 2022.
 Key term: rollover trust
 (5) Rollover trust means, at the time of a relevant transfer to or from a relevant trust,—
-  (a) all relevant transfers to either trustees in the case of subsection (1) or to original settlors in the case of subsection (2) are either by people who are beneficiaries or to people who are beneficiaries, as applicable, 1 of whom is a principal settlor (for example: if the land is transferred to 2 people who are original settlors, then they must be beneficiaries of the trust, in addition to any other capacity they might have, and 1 of them must be a principal settlor); and
+  (a)
   (b) all principal settlors are beneficiaries of the trust; and
   (c) all principal settlors are close family associates; and
   (d) all beneficiaries are close family beneficiaries.
@@ -432,7 +435,9 @@ Key term: close family beneficiary
   (ab) a trustee of another trust and at least 1 beneficiary of the other trust is a close family associate of a beneficiary of the relevant trust:
   (ac) any association, club, institution, society, organisation, or trust not carried on for the private profit of any person whose funds are applied wholly or principally to any civic, community, charitable, philanthropic, religious, benevolent, or cultural purpose, whether in New Zealand or elsewhere, and, in the case of it having 1 principal settlor only, the trust has 1 or more beneficiaries who are close family associates of the principal settlor:
   (b) a close family associate of another beneficiary who is also a principal settlor:
-  (c) a company in which a 50% or more voting interest, or a 50% or more market value interest if a market value circumstance exists, is owned by a beneficiary of the trust that is a close family associate of another beneficiary that does meet the principal settlor requirements for the trust:
+  (c) a company in which a 50% or more voting interest, or a 50% or more market value interest if a market value circumstance exists, is owned by a beneficiary of the trust that is—
+    (i) a principal settlor of the trust:
+    (ii) a close family associate of another beneficiary that is a principal settlor of the trust:
   (d) a charity registered under the Charities Act 2005.
 Key term: close family associates
 (7) Two persons are close family associates if 1 or more of the following applies:
@@ -458,7 +463,7 @@ Other capacities
 (3) For the purposes of applying subsections (1)﻿(a) and (2), the transferors and transferees may have different capacities in relation to the different criteria in those subsections (for example: a transferee may be a settlor in their personal capacity and be a beneficiary as an LTC owner).
 Key term: Māori rollover trust
 (4) Māori rollover trust means, at the time of a relevant transfer to or from a relevant trust,—
-  (a) all relevant transfers to either trustees in the case of subsection (1) or to original settlors in the case of subsection (2) are either by people who are beneficiaries or to people who are beneficiaries, as applicable (for example: if the land is transferred to 2 people who are original settlors, then they must be beneficiaries of the trust, in addition to any other capacity they might have); and
+  (a)
   (b) all beneficiaries are—
     (i) members of the same iwi or hapu:
     (ii) descendants of the same tipuna; and
@@ -1761,6 +1766,13 @@ Application of rule for certain managed funds
 (3) Subsection (2) does not apply if—
   (a) the person is a portfolio investment entity, an entity eligible to be a portfolio investment entity, or a life insurance company; and
   (b) the FIF is a foreign PIE equivalent.
+Distribution by Australian unit trust of funds from attributing interest in a foreign investment fund
+(4) An amount paid by a CFC to a person (the CFC distribution) is not a dividend—
+  (a) if the CFC—
+    (i) is a unit trust that is not subject under Australian law to income tax on its income in the same way as a company; and
+    (ii) has an interest in a foreign investment fund (the FIF); and
+  (b) if the interest of the CFC in the FIF is an attributing interest of the person (the indirect FIF interest) that meets the requirements of section EX 59(1) in all the time that the interest is an attributing interest of the person or of an associated person; and
+  (c) to the extent to which the CFC distribution is funded directly or indirectly from the indirect FIF interest.
 
 ### CD 36B Foreign superannuation withdrawals and pensions from foreign superannuation scheme
 An amount paid to a person by a company that is a foreign superannuation scheme is not a dividend if the person derives the amount as a—
@@ -2231,7 +2243,7 @@ Meaning of employer
     (ii) pays an amount for the employee's accommodation at a distant workplace:
   (b) in sections CW 16B to CW 16F, CZ 29, and CZ 30, includes a company that is part of the same group of companies as the employer.
 Persons on shadow payrolls
-(3B) A PAYE income payment that is paid by a non-resident employer to a person who undertakes employment services in New Zealand but who remains on the employer’s payroll system in a country or territory outside New Zealand is treated as derived by the person on the 20th day after payment when the employer chooses to deliver their employment income information under section 23J(3) of the Tax Administration Act 1994.
+(3B) For the treatment of PAYE income payments made to a cross-border employee who undertakes employment services in New Zealand, see section CE 1F.
 Amendment of exclusions by Order in Council
 (4) For the purposes of subsection (2), the Governor-General may by Order in Council make regulations to add to the types of accommodation that are excluded by paragraph (b) of the definition of accommodation from the rules relating to accommodation provided in connection with employment.
 Application of Order in Council
@@ -2320,6 +2332,20 @@ Meaning of minister of religion
     (ii) whose duties are related mainly to the practice, study, teaching, or advancement of religious beliefs; and
     (iii) whose accommodation is used as an integral part of performing their duties:
   (b) does not include a member of a religious society or order referred to in section CW 25 (Value of board for religious society members).
+
+### CE 1F Treatment of amounts derived by cross-border employees
+When this section applies
+(1) This section applies in certain circumstances when an employer pays a PAYE income payment to a cross-border employee who provides services in New Zealand. For this purpose, the payment may include an amount paid to the person after they have left New Zealand that is a payment for services provided by the person while they were in New Zealand.
+Amounts treated as derived 20 days after payment
+(2) When the employee remains on the employer’s payroll system in a country or territory outside New Zealand, the PAYE income payment is treated as derived by them on the 20th day after payment when the employer chooses to deliver their employment income information under section 23J(3) of the Tax Administration Act 1994.
+Employees undertaking tax obligations
+(3) When an amount of tax is not withheld or when payment is insufficient as described in section RD 21, RD 62B, or RD 71B, as applicable, and the employee must undertake the relevant tax obligations in relation to employment, they must do so as if an employer, and, for this purpose, may pay the initial amount of tax for the payment as a lump sum.
+Meaning of cross-border employee
+(4) For the purposes of this section and sections CE 1(3B), RA 15(4B), RD 62B, RD 65, and RD 71B, and sections 23IB, 120B, and 141ED of the Tax Administration Act 1994, a cross-border employee—
+  (a) means—
+    (i) for a person providing a service in New Zealand, an employee of a non-resident employer:
+    (ii) for a person providing a service outside New Zealand, a resident employee; and
+  (b) includes a secondee or a person who provides a service for or on behalf of a person who is not resident in New Zealand.
 
 ### CE 2 Benefits under employee share schemes
 Benefit
@@ -5164,7 +5190,7 @@ Person treated as having right to use vehicle
 If, on any day, a motor vehicle is made available by an employer for the private use of more than 1 employee, this availability is treated as a single instance. The taxable value of the fringe benefit is reduced by the total amount of any contributions paid by an employee or employees.
 
 ### CX 9 Subsidised transport
-A fringe benefit arises when an employer provides subsidised transport to an employee.
+A fringe benefit arises when an employer provides subsidised transport to an employee, unless section CX 19C or CX 19D applies.
 
 ### CX 10 Employment-related loans
 When fringe benefit arises
@@ -5301,6 +5327,50 @@ Temporary change in workplace
 A benefit that an employer provides to an employee in the form of transport of the employee in a vehicle is not a fringe benefit if the vehicle—
   (a) is not a motor vehicle; and
   (b) is not designed principally for the carriage of passengers.
+
+### CX 19C Certain public transport
+Travel between home and work
+(1) A fare that an employer subsidises mainly for the purposes of an employee travelling between their home and place of work is not a fringe benefit if the fare—
+  (a) is a public transport fare for 1 or more of the following:
+    (i) bus service:
+    (ii) rail vehicle:
+    (iii) ferry:
+    (iv) cable car:
+  (b) is partly funded by the Total Mobility Scheme administered by Waka Kotahi.
+Meaning of bus service
+(2) Bus service means a service for the carriage of passengers for hire or reward by means of a motor vehicle, but does not include—
+  (a) a service that can be reserved for use by a single person or a self-selected group of people:
+  (b) a shuttle service as defined in section 5 of the Land Transport Management Act 2003.
+Meaning of public transport fare
+(3) Public transport fare means the money paid for a journey on a means of transport that is available to the public and for which set fares are charged.
+Meaning of rail vehicle
+(4) Rail vehicle has the same meaning as in section 4(1) of the Railways Act 2005.
+
+### CX 19D Certain self-powered and low-powered vehicles and vehicle-share services
+Self-powered or low-powered vehicles
+(1) A vehicle that an employer provides to an employee for the main purpose of the employee travelling between their home and place of work is not a fringe benefit if the vehicle is—
+  (a) a bicycle:
+  (b) an electric bicycle:
+  (c) a scooter:
+  (d) an electric scooter:
+  (e) any other vehicle declared under section 168A of the Land Transport Act 1998 to be—
+    (i) a mobility device; or
+    (ii) not a motor vehicle.
+Payment of vehicle-share service costs
+(2) A benefit that an employer provides to an employee in the form of assistance with the payment of the employee’s costs of using a vehicle-share service for the main purpose of an employee travelling between their home and place of work is not a fringe benefit if the vehicle-share service provides use of 1 or more of the following vehicles to the employee:
+  (a) a bicycle:
+  (b) an electric bicycle:
+  (c) a scooter:
+  (d) an electric scooter:
+  (e) any other vehicle declared under section 168A of the Land Transport Act 1998 to be—
+    (i) a mobility device; or
+    (ii) not a motor vehicle.
+Regulations
+(3) For the purposes of subsections (1) and (2), the Governor-General may, by Order in Council made on the recommendation of the Minister of Revenue, make regulations specifying—
+  (a) the maximum allowable cost of the vehicle referred to in subsection (1); and
+  (b) requirements for any vehicle referred to in subsections (1) and (2).
+Meaning of vehicle-share service
+(4) In this section, vehicle-share service means a transport service that allows users to hire a vehicle for a point-to-point trip through a mobile communication device.
 
 ### CX 20 Benefits to enable performance of duties
 The taxable value of a benefit that an employer provides to an employee by way of subsidised transport, or in the form of expenditure that an employer incurs on accommodation or transport provided to an employee, is zero if the expenditure—
@@ -5689,7 +5759,7 @@ Excluded income
 
 ### CX 57B Amounts derived during periods covered by calculation methods
 When this section applies
-(1) This section applies when a person derives an amount other than FIF income from an attributing interest in a FIF in a period for which they have used a calculation method referred to in section EX 59(1) (Codes: comparative value method, deemed rate of return method, fair dividend rate method, and cost method) to calculate their FIF income or loss.
+(1) This section applies when a person derives an amount, that is not FIF income from an attributing interest in a FIF or a dividend to which section CD 36(4) (Foreign investment fund income) applies, in a period for which they have used a calculation method referred to in section EX 59(1) (Codes: comparative value method, deemed rate of return method, fair dividend rate method, and cost method) to calculate their FIF income or loss.
 Excluded income
 (2) The amount derived is excluded income of the person.
 
@@ -16433,7 +16503,7 @@ Straight-line method and market valuation method
 IFRS method
 (2B) Section EW 25B sets out a particular consistency requirement for a method for IFRS preparers.
 Change of spreading method
-(3) Section EW 26 sets out the circumstances in which a person may change their spreading method.
+(3) Sections EW 26 and HM 35(8)﻿(c) (Determining net amounts and taxable amounts) set out the circumstances in which a person may change their spreading method.
 
 ### EW 25 Consistency of use of straight-line method and market valuation method
 Straight-line method for all financial arrangements
@@ -16913,6 +16983,30 @@ Some definitions
   - **nominal shares** are shares held by the trustee of an exempt ESS, or employees or former employees of the debtor, if the total of those shares represent voting interests in the debtor that add up to no more than 3%, or, as applicable, market value interests in the company that add up to no more than 3%
   - **proportional debt ratio** means, for a creditor and an amount of debt, the percentage that the creditor’s amount bears to the total amounts of debt to which this section applies remitted at the time the creditor’s debt is remitted
   - **proportional ownership ratio** means the creditor’s percentage of the ownership interests or, as applicable, market value interests, total partner’s interests, or total effective look-through interests for the debtor, ignoring nominal shares.
+
+### EW 46D Consideration when insolvent company’s debt repaid with consideration received for issuing shares
+When this section applies
+(1) This section applies when—
+  (a) a company is a debtor; and
+  (b) the debtor or a person (person A) associated with the debtor enters into an arrangement with another person (person B); and
+  (c) under the arrangement, the debtor or person A issues shares to person B for consideration; and
+  (d) the debtor does not satisfy the solvency test set out in section 4 of the Companies Act 1993 at either or both of the following times:
+    (i) immediately before the arrangement is entered into:
+    (ii) immediately before the issue of the shares; and
+  (e) the terms of the arrangement require the debtor or person A to use some or all of the consideration to pay, directly or indirectly, an amount of the debtor’s debt to the creditor; and
+  (f) section EW 46C would not apply if the amount of the debtor’s debt is remitted; and
+  (g) the debtor or person A uses some or all of the consideration to pay, directly or indirectly, the amount of the debtor’s debt to the creditor.
+Consideration
+(2) The debtor or person A, as applicable, is treated as—
+  (a) not having paid, directly or indirectly, the amount of the debtor’s debt to the creditor; and
+  (b) having made a payment, at the time the shares were issued, of an amount of the debtor’s debt to the creditor equal to the amount calculated using the formula in subsection (3).
+Formula
+(3) The formula is—shares’ market value × repayment ÷ total consideration.
+Definition of items in formula
+(4) In the formula,—
+  (a) shares’ market value is the market value of the shares issued to person B at the time they were issued:
+  (b) repayment is the amount of the debtor’s debt to the creditor that is paid, directly or indirectly, using consideration received for the issue of the shares to person B:
+  (c) total consideration is the total amount of consideration paid by person B for the issue of the shares.
 
 **Consideration when legal defeasance has occurred**
 
@@ -17563,7 +17657,9 @@ Gross
     (v) section EX 37B:
     (vi) section EX 39:
   (b) a dividend that is paid by a company resident in New Zealand to the extent to which the dividend is not fully imputed:
-  (c) an amount that is a deductible foreign equity distribution or a distribution for fixed-rate equity and is not a distribution from an associated non-attributing active CFC:
+  (c) an amount that is not a distribution from an associated non-attributing active CFC and is—
+    (i) a deductible foreign equity distribution (the distribution), to the extent to which the distribution is not from, or funded directly or indirectly from, an attributing interest that is an income interest in a FIF meeting the requirements of section EX 59(1):
+    (ii) a distribution for fixed-rate foreign equity:
   (d) a royalty of a type referred to in subsection (5):
   (e) rent of a type referred to in subsection (6):
   (f) income from a business of insurance or from being an insurer:
@@ -17746,7 +17842,7 @@ Definition of items in formula
 Funding costs
 (10) Funding costs is the total of amounts in the accounting period, each of which—
   (a) would be a deduction of the CFC relating to a financial arrangement to which the CFC is a party and which provides funds for the CFC:
-  (b) is a distribution relating to fixed-rate foreign equity or a deductible foreign equity distribution of the CFC and is paid by the CFC to a company resident in New Zealand, to another CFC, or to a FIF for which the interest holder uses the attributable FIF income method.
+  (b) is a distribution relating to fixed-rate foreign equity or a deductible foreign equity distribution of the CFC, other than a deductible foreign equity distribution (the distribution) to the extent to which the distribution is funded directly or indirectly from an attributing interest that is an income interest in a FIF meeting the requirements of section EX 59(1), and is paid by the CFC to a company resident in New Zealand, to another CFC, or to a FIF for which the interest holder uses the attributable FIF income method.
 Cost fraction
 (11) Cost fraction is,—
   (a) if the CFC is not excessively debt funded under section EX 20D, the amount of the item asset fraction referred to in subsection (8); or
@@ -22944,7 +23040,7 @@ Financial arrangements: cash basis person
 What this section applies to
 (1) This section applies in the circumstances described in section FC 1(1)﻿(a) or (b) when residential land is transferred on a person’s death and section FC 5 does not apply.
 Residential land
-(2) Section CB 6A and CZ 39 (which relate to the bright-line test for residential land) do not apply to the transfer of the residential land, including any intervening transfer to an executor or administrator.
+(2) Section CB 6A and CZ 39 (which relate to the bright-line test for residential land) do not apply to the transfer of the residential land, including any intervening transfer to an executor or administrator (see also: sections CB 6A(2B) and CZ 39(7)).
 Cost of residential land
 (3) If the residential land is transferred to a person who disposes of it, and the person derives income, the cost of the land to the person is—
   (a) the cost of the land incurred by the deceased person; and
@@ -25640,7 +25736,7 @@ Section FC 2(1) (Transfer at market value) does not apply to a transfer of prope
     (i) is not associated with the transferor; or
     (ii) is associated with the transferor, but is a donee organisation or a public authority; and
   (c) the transfer is made in—
-    (i) the period that begins on 17 March 2020 and ends on 16 March 2022; or
+    (i) the period that begins on 17 March 2020 and ends on 31 March 2024; or
     (ii) a period specified by an Order in Council made under section 225ABA of the Tax Administration Act 1994.
 
 ## Part G — Avoidance and non-market transactions
@@ -26215,7 +26311,7 @@ Meaning of substantial business assets
 (6) Substantial business assets means depreciable property that—
   (a) at the end of the associated entity’s corresponding income year, has a total cost of more than either—
     (i) $75,000; or
-    (ii) 25% or more of the associated entity’s total income from services for the income year; and
+    (ii) 25% of the associated entity’s total income from services for the income year; and
   (b) is not for private use.
 Assets subject to finance lease, hire purchase agreement, or specified lease
 (7) For the purposes of subsection (6)﻿(a), the cost of depreciable property includes—
@@ -27299,7 +27395,7 @@ Dividends derived by trustees
 (2) For the purposes of subsection (1)﻿(b), all dividends that the trustee of a trust derives from a qualifying company in an income year must be beneficiary income of 1 or more persons who are not trustees or companies other than qualifying companies. However, this subsection does not apply to non-cash dividends other than taxable bonus issues.
 Special shareholding rules
 (3) When the shares in a qualifying company that has 5 or fewer shareholders are held by relatives, other companies, and trustees, the following special rules apply:
-  (a) if a shareholder in a qualifying company is connected within the first degree of relationship to another shareholder in the company by either blood relationship, marriage, civil union or de facto relationship, or adoption, they are treated as a single shareholder, and this treatment continues while they remain a shareholder in the company despite any later death or dissolution:
+  (a) if a shareholder in a qualifying company is connected within the first degree of relationship to another shareholder in the company by either blood relationship, marriage, civil union or de facto relationship, they are treated as a single shareholder, and this treatment continues while they remain a shareholder in the company despite any later death or dissolution:
   (b) shares in a qualifying company that are held by another company are treated as held by the shareholders in that other company:
   (c) if a shareholder in a qualifying company is a trustee, the shareholders are counted, without the trustee, as the larger of the following:
     (i) the group who signed the election as shareholder; or
@@ -28262,28 +28358,28 @@ Treatment of non-resident trustee in other provisions
 
 ### HC 26 Foreign-sourced amounts: resident trustees
 Exempt income
-(1) A foreign-sourced amount that a New Zealand resident trustee derives in an income year, and is included in trustee income for the income year, is exempt income under section CW 54 (Foreign-sourced amounts derived by trustees) if—
+(1) A foreign-sourced amount that a resident trustee of a foreign trust derives in an income year, and is included in trustee income for the income year, is exempt income under section CW 54 (Foreign-sourced amounts derived by trustees) if—
   (a) no settlor of the trust is at any time in the income year a New Zealand resident who is not a transitional resident or, if no settlor exists in the income year, the last surviving settlor was a non-resident when that settlor ceased to exist; and
   (ab) no election under section HC 33 has been made for the trust; and
   (b) the trust is not—
     (i) a superannuation fund; or
     (ii) a testamentary trust or an inter vivos trust of which a settlor died resident in New Zealand (whether or not they died in the income year); and
-  (c) for a foreign trust for which a resident trustee applies for registration within the period (the application period) given by section 59C of the Tax Administration Act 1994 and that is registered by the end of the income year (the post-deadline year) beginning next after the end of the application period,—
+  (c) for a trust for which a resident trustee applies for registration within the period (the application period) given by section 59C of the Tax Administration Act 1994 and that is registered by the end of the income year (the post-deadline year) beginning next after the end of the application period,—
     (i) the trust has a trust deed or a will or other document that creates and governs the trust; and
     (ii) the income year ends after the day on which the Taxation (Business Tax, Exchange of Information, and Remedial Matters) Act 2017 receives the Royal assent; and
     (iii) for an income year that includes part of the application period or is the post-deadline year, the trust is registered before the end of the post-deadline year and is not deregistered before the foreign-sourced amount is derived; and
     (iv) for an income year beginning after the end of the post-deadline year, the trust is registered when the foreign-sourced amount is derived; and
     (v) the trustee complies with the requirements under sections 22, 59B, 59C, and 59D of the Tax Administration Act 1994 that the trustee must meet during the income year; and
-  (d) for a foreign trust to which paragraph (c) does not apply,—
+  (d) for a trust to which paragraph (c) does not apply,—
     (i) the trust has a trust deed or a will or other document that creates and governs the trust; and
     (ii) the trust is registered at the beginning of the income year; and
     (iii) the trust is registered when the foreign-sourced amount is derived; and
     (iv) the trustee complies with the requirements under sections 22, 59B, 59C, and 59D of the Tax Administration Act 1994 that the trustee must meet during the income year; and
   (e) the amount is not beneficiary income derived by a minor that is treated as if it were trustee income.
 Time for compliance with requirements
-(1B) For a trustee to satisfy subsection (1)﻿(c)﻿(v) or (d)﻿(iv) for an income year, the trustee must—
+(1B) For a trustee to satisfy subsection (1)﻿(c)﻿(iii), (iv), or (v) or (d)﻿(ii), (iii), or (iv) for an income year, the trustee must—
   (a) comply in the income year with the requirements referred to in the subparagraph:
-  (b) satisfy the Commissioner that the trustee made reasonable efforts in the income year to comply with the requirements referred to in the subparagraph and corrected the failure to comply within a reasonable period of time after the trustee became aware of the failure.
+  (b) satisfy the Commissioner that the trustee made reasonable efforts in the income year to comply with the requirements referred to in the subparagraph and to remedy the non-compliance.
 When subsection (3) applies
 (2)
 When knowledge offence committed
@@ -28567,7 +28663,7 @@ Some definitions
     (b) section 31 of the Care of Children Act 2004; or
     (c) section 53 of the Public Trust Office Act 1957 by a court order; or
     (d) section 7(4) of the Adoption Act 1955
-  - **relative** means a person referred to in paragraph (a) of the definition of in section YA 1 (Definitions) extended to include being in a marriage, civil union, or de facto relationship with a person connected to the other through adoption, as described in paragraph (a)(iv), or guardianship.
+  - **relative** means a person referred to in paragraph (a) of the definition of in section YA 1 (Definitions) extended to include being in a marriage, civil union, or de facto relationship with a person connected to the other through guardianship.
 
 ### HC 37 Testamentary trusts and minor beneficiary rule
 Testamentary trusts not subject to minor beneficiary rule
@@ -29889,8 +29985,9 @@ Taxable income or tax loss
 (7) If the result of the formula is positive, the amount is taxable income of the class for the period. If the result of the formula is negative, the amount is a tax loss of the class for the period.
 Use of valuations or financial statements
 (8) Income and deductions of the multi-rate PIE are allocated to investors and investor classes for attribution periods as—
-  (a) reflected in the PIE's valuation of investor interests, if the PIE makes these valuations:
-  (b) shown in the PIE's financial statements, if the PIE does not makes the valuations referred to in paragraph (a).
+  (a) reflected in the PIE's valuation of investor interests, if the PIE makes these valuations and paragraph (c) does not apply to the income and deductions:
+  (b) shown in the PIE's financial statements, if the PIE does not makes the valuations referred to in paragraph (a) and paragraph (c) does not apply to the income and deductions:
+  (c) given by Determination G27: Swaps, Method C, if the income and deductions arise from a financial arrangement that meets the requirements for the method and the multi-rate PIE, before becoming a party to the financial arrangement, chooses to use the method for the income and deductions from such financial arrangements and does not revoke the choice.
 
 ### HM 35B Treatment of certain provisions made by multi-rate PIEs
 When this section applies
@@ -30949,7 +31046,7 @@ Treatment of income
     (i) to settle a Treaty of Waitangi claim:
     (ii) in accordance with the Maori Fisheries Act 2004:
   (c) assets that are not money and are gifted or bequeathed to the person when they met the requirements to derive exempt income under section CW 41 or CW 42:
-  (d) assets that are land set apart in a Maori reservation for the purposes of a marae or meeting place under Part 17 of the Te Ture Whenua Maori Act 1993:
+  (d) assets that are land set apart in a Maori reservation for the purposes of a marae or meeting place under Part 17 of Te Ture Whenua Maori Act 1993:
   (e) assets that are shares in companies, if this section applies to the companies and their end dates are the same as the person’s end date.
 Person’s rules
 (4)
@@ -34467,8 +34564,8 @@ Definition of items in formula
 (3) The items in the formula are defined in subsections (4) and (5).
 Prescribed amount
 (4) Prescribed amount is the sum of the following amounts:
-  (a) for the eldest dependent child for whom the person is a principal caregiver during the entitlement period, $6,642; and
-  (b) for each dependent child for whom the person is a principal caregiver during the entitlement period, other than the eldest dependent child, $5,412.
+  (a) for the eldest dependent child for whom the person is a principal caregiver during the entitlement period, $7,121; and
+  (b) for each dependent child for whom the person is a principal caregiver during the entitlement period, other than the eldest dependent child, $5,802.
 Days
 (5) Days is the number of days in the entitlement period.
 Order in Council increasing amount
@@ -34695,7 +34792,7 @@ Formula
 (2) The formula is—(prescribed amount − net family scheme income) × weekly periods ÷ 52.
 Definition of items in formula
 (3) In the formula,—
-  (a) prescribed amount is $32,864:
+  (a) prescribed amount is $34,216:
   (b) net family scheme income is the net family scheme income, calculated using the formula in section ME 3, for a relationship period containing the entitlement period, of—
     (i) the person; or
     (ii) their spouse, civil union partner, or de facto partner; or
@@ -34953,7 +35050,7 @@ Best Start tax credit for dependent child
 (1) For the purposes of section MG 1(3)﻿(a), the person’s Best Start tax credit for the entitlement period for the dependent child is calculated using the formula—prescribed amount × days ÷ 365.
 Definition of items in formula
 (2) In the formula,—
-  (a) prescribed amount is, for the dependent child, $3,388:
+  (a) prescribed amount is, for the dependent child, $3,632:
   (b) days is the number of days in the entitlement period.
 If dependent child dies during entitlement period
 (3) The person continues to be entitled to the Best Start tax credit for 4 weeks after the dependent child dies, if the person otherwise meets the requirements of section MG 1(1).
@@ -40875,6 +40972,16 @@ Choosing to change to income year basis
 Part-periods
 (6) If an employer changes their payment period from an income year to a quarter, and the day referred to in subsection (4)﻿(b) is not the same day as the first day of a quarter, then for the purposes of the payment of FBT, the employer must treat the period between that day and the first day of the next quarter as if it were a quarter.
 
+### RD 62B Obligations of cross-border employees when FBT liability not paid
+When this section applies
+(1) This section applies when a cross-border employee receives a fringe benefit in relation to a period when they are providing employment services in New Zealand.
+Employees’ obligations
+(2) If the employer and employee agree and record in a document that the employee is liable for employment-related tax obligations, the employee must—
+  (a) treat the value of the fringe benefit as a PAYE income payment and withhold and pay tax as if an employer; and
+  (b) provide the relevant information required under section 23I of the Tax Administration Act 1994. The employer must provide the employee with the relevant information that the employee does not have.
+When person exempt
+(3) Subsection (2)﻿(a) does not apply if the employee is exempt from paying the amount of the liability.
+
 ### RD 63 When employer stops employing staff
 Who this section applies to
 (1) This section applies in a tax year to an employer who stops employing staff and does not intend to replace them. But this section does not apply to an employer who continues to provide a fringe benefit to a former employee.
@@ -40969,6 +41076,16 @@ In determining whether an employer or a person has met their obligation to pay a
   (a) the employer, the person, or their PAYE intermediary is treated as having paid to the superannuation fund an amount of tax withheld under the ESCT rules or the PAYE rules, if applicable; and
   (b) the fund is treated as having received the amount referred to under paragraph (a); and
   (c) the payment referred to in paragraph (a) and the receipt referred to in paragraph (b) are treated as having occurred when the superannuation fund received the employer's superannuation cash contribution.
+
+### RD 71B Obligations of cross-border employees when amounts of tax not paid
+When this section applies
+(1) This section applies when an employer or person makes an employer’s superannuation cash contribution or an employer’s contribution to a foreign superannuation scheme for a cross-border employee that relates to a period during which the employee is providing employment services in New Zealand.
+Employees’ obligations
+(2) If the employer and employee agree and record in a document that the employee is liable for employment-related tax obligations, then the employee must—
+  (a) provide the relevant information required under section 23I of the Tax Administration Act 1994. The employer must provide the employee with the relevant information that the employee does not have; and
+  (b) pay the amount of the tax, as if an employer.
+When person exempt
+(3) Subsection (2)﻿(b) does not apply if the employee is exempt from paying the amount of tax.
 
 ### RD 72 Recovery of tax paid by superannuation funds
 [Repealed]
@@ -43261,6 +43378,7 @@ In this Act, unless the context requires otherwise,—
     (b) does not include land that at any time after it first meets the requirements of paragraph (a) fails to meet those requirements
   - **building**
   - **building society** is defined in section 2 of the Building Societies Act 1965
+  - **bus service** is defined in section CX 19C (Certain public transport) for the purposes of that section
   - **business** —
     (a) includes any profession, trade, or undertaking carried on for profit:
     (b) includes the activities of—
@@ -43606,6 +43724,7 @@ In this Act, unless the context requires otherwise,—
   - **creditor workout** , in relation to a financial arrangement, means—
   (a) a compromise, as that term is defined in section 227 of the Companies Act 1993, in writing that, for the parties to the financial arrangement, is binding under Part 14, 15, or 15A of that Act, or is otherwise legally binding, to the extent to which the compromise does not cancel all of a debt:
   (b) a suspension in part of the repayment of any deposit, the payment of any debt, or the discharge of any obligation, under section 44 of the Corporations (Investigation and Management) Act 1989
+  - **cross-border employee** is defined in section CE 1F(4) (Treatment of amounts derived by cross-border employees for the purposes of that section and sections CE 1(3B), RA 15(4B), RD 62B, RD 65, and RD 71B (which relate to amounts derived by employees)
   - **cross-border related borrowing** is defined in section GC 6(3B) (Purpose and application of rules and nature of arrangements)
   - **Crown Research Institute** is defined in section 2 of the Crown Research Institutes Act 1992
   - **cryptoasset** means a digital representation of value that exists in—
@@ -45814,6 +45933,7 @@ In this Act, unless the context requires otherwise,—
   - **public purpose Crown-controlled company** means—
     (a) a company that is listed in schedule 35 (Public purpose Crown-controlled companies); or
     (b) a company (the wholly-owned subsidiary) that has 100% of its shares owned directly or indirectly by a company that is listed in schedule 35 if the wholly-owned subsidiary’s primary purpose is the carrying out of a public policy objective of the Government of New Zealand
+  - **public transport fare** is defined in section CX 19C (Certain public transport) for the purposes of that section
   - **public unit trust** means—
     (a) a unit trust that has 100 or more unit holders, treating all associated persons as 1 person, who are—
       (i) unit trust managers who hold units in the ordinary course of their activities in relation to the unit trust; or
@@ -45877,6 +45997,7 @@ In this Act, unless the context requires otherwise,—
       (i) provide a service of research or development:
       (ii) further another person’s research or development activities
   - **R&D repayment tax** means a tax liability payable under section MX 7 (Reinstatement of R&D tax losses and R&D repayment tax)
+  - **rail vehicle** is defined in section CX 19C (Certain public transport) for the purposes of that section
   - **Railways assets** is defined in section EZ 68 (Definitions) for the purposes of sections EZ 64 to EZ 67 (which relate to New Zealand Railways Corporation restructure)
   - **Railways assets and liabilities** is defined in section EZ 68 (Definitions) for the purposes of sections EZ 64 to EZ 67 (which relate to New Zealand Railways Corporation restructure)
   - **Railways liabilities** is defined in section EZ 68 (Definitions) for the purposes of sections EZ 64 to EZ 67 (which relate to New Zealand Railways Corporation restructure)
@@ -45936,7 +46057,7 @@ In this Act, unless the context requires otherwise,—
       (i) being within the second degree of blood relationship to the other:
       (ii) being in a marriage, civil union, or de facto relationship with the other:
       (iii) being in a marriage, civil union, or de facto relationship with a person who is within the second degree of blood relationship to the other:
-      (iv) being adopted as a child of the other or as a child of a person who is within the first degree of relationship to the other:
+      (iv)
       (v) being the trustee of a trust under which a relative has benefited or is eligible to benefit:
     (b) is defined in section HC 36(5) for the purposes of only that section:
     (bb) in the definition of look-through company, means a person connected with another person by any of the means described in paragraph (a)﻿(i) to (iv):
@@ -45982,7 +46103,7 @@ In this Act, unless the context requires otherwise,—
   - **research and development loan scheme** means the research and development loan scheme established by Ministerial direction to Callaghan Innovation under section 112 of the Crown Entities Act 2004, notice number 2020–go2811
   - **research and development project**
   - **research and development tax credit** means a tax credit under section LY 1 (Research and development tax credits)
-  - **resident foreign trustee** is defined in section 3(1) of the Tax Administration Act 1994
+  - **resident foreign trustee**
   - **resident group member** is defined in section IQ 2B(9) (Effect of attributed CFC net loss and some FIF net loss from before first affected year) for the purposes of that section and section LK 5B (Credits from tax year before first affected year)
   - **resident imputation subgroup** has the meaning given in section FN 8(2) (Trans-Tasman imputation groups and resident imputation subgroups)
   - **resident in Australia** , for a company, means being resident under section YD 2(1) (Residence of companies) if Australia were treated as being New Zealand for the purposes of that section
@@ -46624,7 +46745,7 @@ In this Act, unless the context requires otherwise,—
     (g) sections LE 4, LE 5, LF 2, LF 3, and LO 2 (which relate to tax credits for beneficiary minors):
     (gb) the definitions of look-through company and look-through counted owner:
     (gc) section YD 3BA (Country of residence of joint trustees):
-    (h) sections 43B, 59, 59BA, 59BAB, and 93B of the Tax Administration Act 1994
+    (h) sections 43B, 59, 59BA, 59BAB, 59B, 59C, 59D, 59DB, 93B, and 139AC of the Tax Administration Act 1994
   - **trustee** ,—
     (a) for a trust,—
       (i) means the trustee only in the capacity of trustee of the trust; and
@@ -46888,7 +47009,7 @@ Degree of relationship
 Exception: blood relationships
 (2) For the purposes of the land provisions and sections EB 13 (Low turnover valuation) and EC 5 (Transfer of livestock because of self-assessed adverse event), subsection (1)﻿(a) and (c) does not apply, and persons are associated persons because of a blood relationship only if 1 is the infant child of the other.
 Treatment of adoption
-(3) For the purposes of this section, a child by adoption is treated as a natural child of the adoptive parents and not as a natural child of the birth parents.
+(3)
 Exception
 (4) A person is not associated with another person under this section if the person cannot reasonably be expected to know that—
   (a) the other person exists:
@@ -48312,6 +48433,12 @@ The highest of the following amounts is the relevant amount for clause 4(c):
 For the purposes of this schedule, if a person who owns a motor vehicle to which this schedule applies receives a payment under the clean vehicle discount scheme for the vehicle,—
 (a) the cost price of the vehicle to the person on the first acquisition of it by them is net of the amount of the payment; and
 (b) the cost of the vehicle to the person on the first acquisition of it by them is net of the amount of the payment.
+
+### 7C
+For the purposes of this schedule, if a person who owns a motor vehicle to which this schedule applies receives a payment under the State Sector Decarbonisation Fund for the vehicle,—
+(a) the cost price of the vehicle to the person on the first acquisition of it by them is the cost price before the payment is taken into account; and
+(b) the cost of the vehicle to the person on the first acquisition of it by them is the cost before the payment is taken into account; and
+(c) when determining the tax value of the vehicle under subpart EE, the cost for the purposes of section EE 57 is not reduced by the payment under section DF 1.
 
 ### 8
 To determine the value of a benefit under clause 1—
