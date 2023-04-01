@@ -1,5 +1,5 @@
 # KiwiSaver Act 2006
-_Consolidation as at 2022-07-01_
+_Consolidation as at 2023-04-01_
 
 ### 1 Title
 This Act is the KiwiSaver Act 2006.
@@ -187,6 +187,9 @@ This Act is the KiwiSaver Act 2006.
   (b) the employer carries on a business from a fixed establishment in New Zealand (within the meaning of section YA 1 of the Income Tax Act 2007); or
   (c) the employer does not meet the requirements in subsections (a) and (b), and the employer chooses to apply this Act.
 (3) This Act applies to an employer only in respect of the employer’s employees who are referred to in subsection (1).
+
+### 6A Transitional, savings, and related provisions
+The transitional, savings, and related provisions set out in Schedule 1AA have effect according to their terms.
 
 ### 7 Act binds the Crown
 This Act binds the Crown.
@@ -1540,7 +1543,8 @@ In considering whether a fee is unreasonable in relation to the provision of a K
 
 ### 127 Member’s interest in KiwiSaver scheme not assignable
 (1) Except as expressly provided in this Act, a member’s interest or any future benefits that will or may become payable to a member under the KiwiSaver scheme must not be assigned or charged or passed to any other person whether by way of security, operation of law, or any other means.
-(2) However, subsection (1) does not prevent a member’s interest or any future benefits that will or may become payable to a member under the KiwiSaver scheme from being released, assigned, or charged, or from passing to any other person if it is required by the provisions of any enactment, including a requirement by order of the court under any enactment (including an order made under section 31 of the Property (Relationships) Act 1976).
+(2) Subsection (1) does not prevent a member’s interest or any future benefits that will or may become payable to a member under the KiwiSaver scheme from being released, assigned, or charged, or from passing to any other person if it is required by the provisions of any enactment, including a requirement by order of the court under any enactment (including an order made under section 31 of the Property (Relationships) Act 1976).
+(3) Subsection (1) also does not prevent an amount up to the value of the member’s accumulation from being released to the Official Assignee of New Zealand on behalf of the Crown if that release is required because of a civil forfeiture order within the meaning of section 5(1) of the Criminal Proceeds (Recovery) Act 2009.
 
 ### 128 Application of Financial Transactions Reporting Act 1996 to default allocation of members to KiwiSaver schemes
 (1) This section applies in respect of any allocation of a person (A) to, or any application by a person (A) to become a member of, a KiwiSaver scheme under sections 50 to 52.
@@ -2355,6 +2359,20 @@ Non-compliance with an enactment related to securities is ignored if the non-com
   (b) relates to a product disclosure statement, or to information lodged on the relevant disclosure register, under the Financial Markets Conduct Act 2013; and
   (c) comes to an end before 31 January 2021.
 
+## Schedule 1AA — Transitional, savings, and related provisions
+
+### Part 1 — Provisions relating to Criminal Proceeds (Recovery) Amendment Act 2023
+
+### 1 Application of amendments relating to civil forfeiture orders under Criminal Proceeds (Recovery) Act 2009
+(1) The relevant provisions extend to a civil forfeiture order made in respect of an interest held in a KiwiSaver scheme that is issued before the commencement of subpart 1 of Part 2 of the amendment Act.
+(2) However, the relevant provisions apply only in relation to a civil forfeiture order made on or after that commencement.
+(3) In this clause,—
+  - **amendment Act** means the Criminal Proceeds (Recovery) Amendment Act 2023
+  - **civil forfeiture order** has the same meaning as in section 5(1) of the Criminal Proceeds (Recovery) Act 2009
+  - **relevant provisions** means the following provisions (as inserted by the amendment Act):
+    (a) section 127(3):
+    (b) clause 7(3)﻿(b) of Schedule 1.
+
 ## Schedule 1 — KiwiSaver scheme rules
 
 ### 1 Application
@@ -2448,7 +2466,10 @@ A manager may reasonably require a member who applies to make a permitted withdr
 
 ### 7 Release of funds required under other enactments
 (1) The manager must comply with the provisions of any enactment that requires the manager to release funds from the KiwiSaver scheme in accordance with that enactment.
-(2) A requirement to release funds from the KiwiSaver scheme under any enactment includes a requirement by order of any court under any enactment (including an order made under section 31 of the Property (Relationships) Act 1976).
+(2) A requirement to release funds from the KiwiSaver scheme under any enactment includes a requirement to release funds from the KiwiSaver scheme by or because of an order of any court under any enactment.
+(3) Examples of an order of a court referred to in subsection (2) are—
+  (a) an order made under section 31 of the Property (Relationships) Act 1976; and
+  (b) a civil forfeiture order within the meaning of section 5(1) of the Criminal Proceeds (Recovery) Act 2009 (see section 84A of that Act).
 
 ### 8 Withdrawal for purpose of purchase of first home
 (1) This clause applies to a member if the member has not made a withdrawal under this clause before (whether or not from the member's current KiwiSaver scheme or from a KiwiSaver scheme to which the person previously belonged) and,—
