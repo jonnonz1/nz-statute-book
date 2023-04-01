@@ -1,5 +1,5 @@
 # Companies Act 1993
-_Consolidation as at 2022-11-29_
+_Consolidation as at 2023-04-01_
 
 > An Act to reform the law relating to companies, and, in particular,—ato reaffirm the value of the company as a means of achieving economic and social benefits through the aggregation of capital for productive purposes, the spreading of economic risk, and the taking of business risks; andbto provide basic and adaptable requirements for the incorporation, organisation, and operation of companies; andcto define the relationships between companies and their directors, shareholders, and creditors; anddto encourage efficient and responsible management of companies by allowing directors a wide discretion in matters of business judgment while at the same time providing protection for shareholders and creditors against the abuse of management power; andeto provide straightforward and fair procedures for realising and distributing the assets of insolvent companies
 
@@ -7482,6 +7482,7 @@ Except as provided in this schedule and in any regulations made under this Act, 
   (e) subject to clause 3(1), any reimbursement or payment provided for, or ordered by, the Employment Relations Authority, the Employment Court, or the Court of Appeal under section 123(1)﻿(b) or section 128 of the Employment Relations Act 2000, to the extent that the reimbursement or payment does not relate to any matter set out in section 123(1)﻿(c) of the Employment Relations Act 2000, in respect of wages or other money or remuneration lost during the 4 months before the commencement of the liquidation:
   (f) amounts that are preferential claims under section 263(2):
   (g) all amounts payable to the Commissioner of Inland Revenue in accordance with section 167(2) of the Tax Administration Act 1994 as applied by section 67 of the KiwiSaver Act 2006:
+  (ga) all employer contributions payable to the Commissioner of Inland Revenue under Part 3, subpart 3 of the KiwiSaver Act 2006, including compulsory employer contributions unpaid and specified in a notice under section 141(5) of that Act:
   (h) all sums that, by any other enactment, are required to be paid in accordance with the priority established by this subclause.
 (3) After paying the claims referred to in subclause (2), the liquidator must next pay all sums, for which a buyer is a creditor in the liquidation of the company under section 36J of the Fair Trading Act 1986,—
   (a) paid by the buyer to a seller on account of the purchase price of goods; or
