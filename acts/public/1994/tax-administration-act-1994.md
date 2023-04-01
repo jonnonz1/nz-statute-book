@@ -1,5 +1,5 @@
 # Tax Administration Act 1994
-_Consolidation as at 2023-03-31_
+_Consolidation as at 2023-04-01_
 
 > An Act to reorganise and consolidate the law relating to the Inland Revenue Department and the administration of income tax matters
 
@@ -89,7 +89,7 @@ _Consolidation as at 2023-03-31_
     (b) a late payment penalty; or
     (c) a shortfall penalty; or
     (cb) a promoter penalty; or
-    (cc) a penalty under section 142H or 142I; or
+    (cc) a penalty under section 142H, 142I, 142J, or 142K; or
     (cd) a penalty under section 141EE; or
     (d) a non-electronic filing penalty; or
     (e) a civil penalty under section 215 of the KiwiSaver Act 2006
@@ -222,6 +222,11 @@ _Consolidation as at 2023-03-31_
   - **first payment period** , in section 47 and 173, has the same meaning as in section YA 1 of the Income Tax Act 2007
   - **FMA** means the Financial Markets Authority established under Part 2 of the Financial Markets Authority Act 2011
   - **foreign account information-sharing agreement** has the same meaning as in section YA 1 of the Income Tax Act 2007
+  - **foreign exemption trust** , for an income year or part of an income year (the test period), means a trust for which a trustee is resident in New Zealand in the test period, no election under section HC 33 of the Income Tax Act 2007 is effective for the trust and the test period, and either or both—
+    (a) no settlor is resident in New Zealand at any time in the period—
+      (i) starting on the later of 17 December 1987 and the date on which a settlement was first made on the trust; and
+      (ii) ending at the end of the test period:
+    (b) the trustee takes a tax position that an amount of income derived by the trustee in or before the test period is exempt income under section HC 26 of the Income Tax Act 2007
   - **fringe benefit** , in section 22, has the meaning given by section CX 2 of the Income Tax Act 2007
   - **full and complete inspection** —
     (a) includes use as evidence in court proceedings:
@@ -372,7 +377,7 @@ _Consolidation as at 2023-03-31_
   - **private domestic worker** is defined in schedule 7, part C, subpart 2, clause 42(3) for the purposes of that clause
   - **private dwelling** is defined in section 17(5) for the purposes of that section and section 17D
   - **proceedings** means proceedings commenced before a hearing authority under Part 8 or Part 8A; and includes a document that a tax law requires to be filed with a hearing authority, or to be served on a person, in connection with the proceedings
-  - **professional trustee** , in section 43B, means a person whose profession, employment, or business is or includes acting as a trustee or investing money on behalf of others
+  - **professional trustee** means a person whose profession, employment, or business is or includes acting or investing money on behalf of others
   - **promoter** is defined in section 141EC
   - **property** , in section 90, has the same meaning as in paragraph (b) of the definition of that term in section YA 1 of the Income Tax Act 2007
   - **property or documents** is defined in section 17(5) for the purposes of that section and sections 16 and 16B
@@ -415,9 +420,6 @@ _Consolidation as at 2023-03-31_
     (c) does not later have their approval of representative status disallowed by the Commissioner
   - **request** , for a mode of communication, has the meaning set out in section 14B
   - **research and development certificate** means a research and development certificate described in section 124ZI
-  - **resident foreign trustee** means a person who,—
-    (a) either alone or jointly with another person, acts as a trustee of a foreign trust; and
-    (b) is resident in New Zealand within the meaning of section YD 1, YD 2, or YD 3 (excluding section YD 2(2)) of the Income Tax Act 2007
   - **residual income tax** —
     (a) is defined in section 120KB(4) for the purposes of Part 7:
     (b) for the purposes of any other provision of this Act, has the same meaning as in section YA 1 of the Income Tax Act 2007
@@ -627,7 +629,7 @@ Except where there is express provision to the contrary,—For example, a refere
   (aa) deductions of levies under the Accident Compensation Act 2001 or a regulation made under that Act; or
   (b) deductions under the Child Support Act 1991; or
   (bb) deductions under the KiwiSaver Act 2006; or
-  (bc) amounts of KiwiSaver Act 2006 employer contributions paid or to be paid to the Commissioner, including an amount of compulsory employer contributions unpaid, specified in a notice under section 141(5) of that Act; or
+  (bc) amounts of KiwiSaver Act 2006 employer contributions paid or to be paid to the Commissioner, including an amount of compulsory employer contributions unpaid and specified in a notice under section 141(5) of that Act; or
   (c) salary or wage deductions under the Student Loan Scheme Act 2011,—
 (4) When a taxpayer has an obligation under any of sections RA 5, RA 6, RA 10, RA 15 to RA 19, RD 2, RD 4, RD 22, RE 20, RE 21, or RF 13 of the Income Tax Act 2007—the taxpayer's tax position in respect of the due date is the tax paid and not the amount of tax shown as payable in the tax return.
   (a) furnishes a return that shows a liability to pay tax under that section; and
@@ -2235,7 +2237,7 @@ When information delivered electronically
 (5) If an employer in the new group chooses to deliver their employment income information electronically, whether through a service or platform provided by the Commissioner or through the use of payroll software, the employer is immediately included in the online group.
 
 ### 23I Employment income information requirements for employees
-An employee who is required to provide employment income information relating to a PAYE income payment to the Commissioner under section RD 21(1)﻿(a) of the Income Tax Act 2007 must deliver the information in the prescribed format within 10 working days after the end of the month in which the payment is made.
+An employee who is required to provide employment income information relating to employment-related tax obligations as if an employer under section CE 1F(3) of the Income Tax Act 2007 must deliver the information in the prescribed format within 10 working days after the end of the month in which the payment is made.
 
 ### 23J Delivery of employment income information for certain special payments
 What this section applies to
@@ -3672,13 +3674,18 @@ Every gift-exempt body must, when notified by the Commissioner, furnish a return
 (3) If the trustee of a trust is a non-resident, a settlor of the trust who is a New Zealand resident is responsible for ensuring the performance of the obligations imposed on the trustee by this section.
 (4) A notice under subsection (2) is secondary legislation under the Legislation Act 2019 (see Part 3 of the Legislation Act 2019 for publication requirements).
 
-### 59B Foreign trust with resident foreign trustee: registration and disclosure
-(1) The Commissioner may register a foreign trust if the foreign trust has a resident foreign trustee and a trustee pays the prescribed fee.
-(2) Resident foreign trustees of a foreign trust must apply to the Commissioner for registration of the foreign trust and pay the prescribed fee.
-(3) A trustee applying for registration of a foreign trust (the contact trustee) is responsible for communicating with the Commissioner for the trust and must provide, with the application and fee,—
+### 59B Foreign exemption trust: registration and disclosure
+(1) The Commissioner may register a foreign exemption trust if a trustee pays the prescribed fee.
+(1B) The Commissioner may treat the registration of a trust under subsection (1) as being in force from a date preceding the successful application for registration of the trust, if the Commissioner considers that the trustee made reasonable efforts to obtain registration at the earlier date.
+(1C) A trust that is registered under this section as a foreign trust at the start of the day on which the Taxation (Annual Rates for 2022–23, Platform Economy, and Remedial Matters) Act 2023 receives the Royal assent is treated as being registered as a foreign exemption trust from that day.
+(2) A trustee of a foreign exemption trust must apply to the Commissioner for registration of the foreign exemption trust, provide the information required by subsection (3) and the declaration required by subsection (4), and pay the prescribed fee.
+(2B) The requirement under subsection (2) for a trustee to register a foreign exemption trust commences on the later of—
+  (a) the date (the amendment assent date) on which the Taxation (Annual Rates for 2022–23, Platform Economy, and Remedial Matters) Act 2023 receives the Royal assent:
+  (b) the due date for an income tax return of the trust relating to the first income year for which the trust meets the requirements to be a foreign exemption trust.
+(3) A trustee applying for registration of a foreign exemption trust (the contact trustee) is responsible for communicating with the Commissioner for the trust and must provide, with the application and fee,—
   (a) the name of the trust:
   (b) the date, amount, settlor, and nature of each settlement on the trust that is not a provision to the trustee at less than market value of minor services incidental to the activities of the trust and is made in the period of time ending with the application and beginning with—
-    (i) the date on which the trust is formed, if a trustee is not a natural person or is in the business of providing trustee services; or
+    (i) the date on which the trust is formed, if a trustee is not a natural person or is a professional trustee; or
     (ii) the later of the date on which the trust is formed and 30 June 2013, if subparagraph (i) does not apply and a trustee becomes required to register the trust on the date on which the Taxation (Business Tax, Exchange of Information, and Remedial Matters) Act 2017 receives the Royal assent; or
     (iii) the later of the date on which the trust is formed and the date that is 4 years before the earliest date on which a trustee becomes required to register the trust, if subparagraphs (i) and (ii) do not apply:
   (c) the name, email address, physical residential or business address, jurisdiction of tax residence, taxpayer identification number, and connection with the trust of—
@@ -3687,11 +3694,13 @@ Every gift-exempt body must, when notified by the Commissioner, furnish a return
     (iii) each person with a power to control the exercise of a power referred to in subparagraph (ii):
     (iv) each person with a power to control a trustee in the administration of the trust:
     (v) each trustee:
-    (vi) for a fixed trust, each beneficiary that is not a minor and each nominee for a beneficiary:
-    (vii) for a fixed trust and a beneficiary who is a minor, the parent or guardian of the beneficiary:
-  (d) for a fixed trust and a beneficiary who is a minor, the name, age, and taxpayer identification number of the beneficiary:
-  (e) for a discretionary trust, details of each beneficiary or class of beneficiary sufficient for the Commissioner to determine, when a distribution is made under the trust, whether a person is a beneficiary:
-  (f) a copy of the trust deed and of each document that amends or supplements the trust deed, and a copy of each document that is the functional equivalent of a trust deed or amending or supplementing document.
+    (vi) each beneficiary that is not a minor and has a fixed interest in the trust:
+    (vib) each nominee for a beneficiary that has a fixed interest in the trust:
+    (vii) the parent or guardian of a beneficiary that is a minor and has a fixed interest in the trust:
+  (d) for each beneficiary that is a minor and has a fixed interest in the trust, the name, date of birth, and taxpayer identification number of the beneficiary:
+  (e) for each beneficiary or class of beneficiary that has a discretionary interest in the trust, details sufficient for the Commissioner to determine, when a distribution is made under the trust, whether a person is a beneficiary:
+  (eb) for each beneficiary or class of beneficiary that has a residual interest in the trust, details sufficient for the Commissioner to determine, when a distribution is made in the winding up of the trust, whether a person is a residual beneficiary:
+  (f) a copy of the trust deed, will, or other document that creates and governs the trust (the creating document), and of each document that amends or supplements the creating document.
 (4) The contact trustee must provide a signed declaration that each person referred to in subsection (3)﻿(c)﻿(i) to (vii)—
   (a) is deceased; or
   (b) despite the efforts of the contact trustee detailed in the declaration, cannot be located by the contact trustee; or
@@ -3700,32 +3709,35 @@ Every gift-exempt body must, when notified by the Commissioner, furnish a return
     (ii) the Anti-Money Laundering and Countering Financing of Terrorism Act 2009:
     (iii) the regulations made under the Anti-Money Laundering and Countering Financing of Terrorism Act 2009.
 (5) A contact trustee must provide to the Commissioner the details of an addition or alteration to a particular to which subsection (3) refers and any signed declaration under subsection (4) required as a consequence of the addition or alteration.
-(6) A contact trustee who anticipates ceasing to be the person communicating with the Commissioner for the trust must provide to the Commissioner the details of—
+(6) A contact trustee who anticipates ceasing to be the person communicating with the Commissioner for the trust must provide to the Commissioner, within 30 days of becoming aware of the anticipated date of the cessation, the details of—
   (a) the anticipated date on which the trustee ceases to be the contact trustee for the foreign trust:
   (b) the email address and physical residential address of the trustee after the anticipated date:
   (c) the name, email address, and physical residential or business address of the replacement contact trustee for the foreign trust after the anticipated date.
-(7) If a foreign trust has more than 1 resident foreign trustee, each resident foreign trustee is responsible for the performance of the obligations imposed on a trustee relating to registration of the trust, disclosure of information, annual returns, financial statements, and payment of fees.
+(6B) A contact trustee who anticipates a change in the trustee’s e-mail address, physical residential address, or other contact details, must provide the Commissioner with details of the change within 30 days of becoming aware of the anticipated change.
+(7) Each trustee of a foreign exemption trust is responsible for the performance of the obligations imposed on a trustee relating to registration of the trust, disclosure of information, annual returns, financial statements, and payment of fees.
 
 ### 59C Time limits for registration and disclosure of changes
-(1) A resident foreign trustee who becomes required to register the foreign trust under section 59B—
-  (a) on the date (the assent date) on which the Taxation (Business Tax, Exchange of Information, and Remedial Matters) Act 2017 receives the Royal assent, is required to apply for the registration in the period beginning with the assent date and ending with 30 June 2017, except if subsection (3) applies:
-  (b) after the assent date, is required to apply for the registration in the period of 30 days beginning from the day on which the requirement commences, except if subsection (3) applies.
-(2) A resident foreign trustee who is required by section 59B(5) to provide information to the Commissioner after an application for the trust to be registered, must provide the information within 30 days after becoming aware of the addition or alteration.
+(1) A trustee who becomes required to register a foreign exemption trust under section 59B(2B)—
+  (a) on the date (the amendment assent date) on which the Taxation (Annual Rates for 2022–23, Platform Economy, and Remedial Matters) Act 2023 receives the Royal assent, is required to apply for the registration in the period beginning with the amendment assent date and ending with 30 April 2023, except if subsection (3) applies; or
+  (b) after the amendment assent date, is required to apply for the registration in the period of 30 days from which the requirement commences, except if subsection (3) applies.
+(2) A trustee who is required by section 59B(5) to provide information to the Commissioner after an application for the trust to be registered, must provide the information before or with the income tax return that is next due after the trustee becomes aware of the addition or alteration.
 (3) A period for the meeting of a requirement that would otherwise be given by subsection (1) for a trustee is given by subsection (4) for the trustee if—
-  (a) each trustee of the foreign trust is a natural person; and
-  (b) for each resident foreign trustee of the foreign trust, the foreign trust is the first trust for which the trustee has been a resident foreign trustee; and
-  (c) each trustee of the foreign trust is not in the business of providing trustee services; and
-  (d) the end of the period of 4 years and 30 days beginning with the earliest date on which a trustee of the foreign trust becomes a resident foreign trustee (the grace period) occurs after the period that would otherwise be given by subsection (1).
+  (a) each trustee of the trust is a natural person; and
+  (b) for each trustee of the trust who is responsible for the performance of the obligations imposed by section 59B, the trust is the first trust for which the trustee has been a trustee; and
+  (c) each trustee of the trust is not a professional trustee; and
+  (d) the end of the period of 4 years and 30 days beginning with the earliest date on which the trust becomes a foreign exemption trust (the grace period) occurs after the period that would otherwise be given by subsection (1).
 (4) If subsection (3) applies for a requirement imposed on a trustee, the trustee must meet the requirement within the grace period.
 
-### 59D Annual return for foreign trust
-(1) A resident foreign trustee must provide to the Commissioner a return for the foreign trust, and the prescribed fee, for each year (the return year) that—
-  (a) includes a period during which the foreign trust is registered or section 59B requires a resident foreign trustee to register the foreign trust; and
+### 59D Annual return for foreign exemption trust
+(1) A trustee of a foreign exemption trust must provide to the Commissioner a return for the trust, the declaration required by subsection (2B), and the prescribed fee, for each year (the return year) that—
+  (a) includes a period in which—
+    (i) a trustee of the trust derives income for which the trustees of the trust take a tax position that the income is exempt income under section HC 26 of the Income Tax Act 2007:
+    (ii) the trust is registered as a foreign exemption trust or a trustee is required to register the trust; and
   (b) ends with—
-    (i) a date (the balance date) for which the resident foreign trustee prepares financial statements or is required to prepare financial statements; or
-    (ii) 31 March if the resident foreign trustee does not prepare financial statements and is not required to prepare financial statements; and
-  (c) begins after 31 March 2017, if a resident foreign trustee becomes required to register the foreign trust on the date of enactment of this section; and
-  (d) if the resident foreign trustee has a grace period referred to in section 59C(3), ends after the grace period.
+    (i) a date (the balance date) for which the trustee prepares financial statements or is required to prepare financial statements; or
+    (ii) 31 March if the trustee does not prepare financial statements and is not required to prepare financial statements; and
+  (c) begins after 31 March 2023, if a trustee becomes required to register the trust on the date of enactment of this subsection; and
+  (d) if the trustee has a grace period referred to in section 59C(3), ends after the grace period.
 (2) A return must be in the form prescribed by the Commissioner and include—
   (a) financial statements for the trust and the return year, if the trustee prepares financial statements or is required to prepare financial statements:
   (b) the date, amount, and nature of each settlement that—
@@ -3733,23 +3745,47 @@ Every gift-exempt body must, when notified by the Commissioner, furnish a return
     (ii) is made on the trust in the return year:
   (c) the name, email address, physical residential or business address, jurisdiction of tax residence, and taxpayer identification number of each settlor making the settlement:
   (d) the date, amount, and nature of each distribution made by the trustee of the trust in the return year and the name of the beneficiary who receives the distribution:
-  (e) for each beneficiary to which a distribution is made, the email address, physical residential address, jurisdiction of tax residence, and taxpayer identification number of the beneficiary or, if the beneficiary is a minor, the age, jurisdiction of tax residence, and tax identification number of the beneficiary and the name, email address, physical residential address, jurisdiction of tax residence and taxpayer identification number of the parent or guardian of the beneficiary.
-(3) A return and the prescribed fee for a foreign trust and a return year must be provided by a resident foreign trustee to the Commissioner by—
-  (a) the date that is 6 months after the balance date for the trust and the return year, if the trust has a balance date; or
-  (b) the 30 September following the end of the return year, if the trust does not have a balance date.
+  (e) for each beneficiary to which a distribution is made, the email address, physical residential address, jurisdiction of tax residence, and taxpayer identification number of the beneficiary or, if the beneficiary is a minor, the date of birth, jurisdiction of tax residence, and tax identification number of the beneficiary and the name, email address, physical residential address, jurisdiction of tax residence and taxpayer identification number of the parent or guardian of the beneficiary:
+  (f) details of each addition or alteration to a particular provided with an application for registration or in an earlier return, if the details have not been provided earlier.
+(2B) The trustee must provide a signed declaration that each settlor referred to in subsection (2)﻿(c)—
+  (a) is deceased; or
+  (b) despite the efforts of the trustee detailed in the declaration, cannot be located by the trustee; or
+  (c) has been informed of, and has agreed to provide the information necessary for compliance with the requirements relating to the provision of information relating to the settlement, the trust, and persons connected with the trust, imposed by all of—
+    (i) the Tax Administration Act 1994:
+    (ii) the Anti-Money Laundering and Countering Financing of Terrorism Act 2009:
+    (iii) the regulations made under the Anti-Money Laundering and Countering Financing of Terrorism Act 2009.
+(3) A return and the prescribed fee for a foreign exemption trust and a return year must be provided by a trustee to the Commissioner by the later of—
+  (a) the date by which the trustee is required to apply for registration of the trust:
+  (b) the date that is—
+    (i) 6 months after the balance date for the trust and the return year, if the trust has a balance date; or
+    (ii) the 30 September following the end of the return year, if the trust does not have a balance date.
+
+### 59DB Deregistration of foreign exemption trusts
+(1) The Commissioner may deregister a trust that is registered as a foreign exemption trust if the Commissioner considers that the trust,—
+  (a) at the time of registration, did not meet the requirements for registration:
+  (b) after the time of registration, ceased to meet the requirements for registration.
+(2) A deregistration under subsection (1) may be effective from—
+  (a) the time of registration, if the Commissioner considers the trust did not meet the requirements for the registration; or
+  (b) a time after the registration at which the Commissioner considers the trust had ceased to meet the requirements for registration.
+(3) If the Commissioner proposes to deregister a trust, the Commissioner must give notice of the proposal to the contact trustee of the trust not less than 30 days before the deregistration is implemented.
+(4) The contact trustee for a trust must apply to the Commissioner for deregistration of the trust if the trustee becomes aware that the trust does not meet the requirements for registration.
+(5) A trustee making an application under subsection (4) must provide with the application—
+  (a) the reasons for the application; and
+  (b) a return for the trust for the income year, or part of the income year, for which the trust meets the requirements for registration and that includes the day before the day on which the trust ceases to meet the requirements for registration; and
+  (c) further information required by the Commissioner.
 
 ### 59E Fees: regulations and exemption
 (1) The Governor-General may from time to time, by Order in Council, make regulations prescribing—
-  (a) the fee for an application for the registration of a foreign trust:
-  (b) the fee for an annual return for a foreign trust.
+  (a) the fee for an application for the registration of a foreign exemption trust:
+  (b) the fee for an annual return for a foreign exemption trust.
 (2) A regulation made under subsection (1) may set out the period for which a fee prescribed by the regulations is to apply.
 (3) Until the commencement of the first regulation made under subsection (1),—
-  (a) the prescribed fee for an application for the registration of a foreign trust is $270 inclusive of goods and services tax:
-  (b) the prescribed fee for an annual return for a foreign trust and a return year is $50 inclusive of goods and services tax.
+  (a) the prescribed fee for an application for the registration of a foreign exemption trust is $270 inclusive of goods and services tax:
+  (b) the prescribed fee for an annual return for a foreign exemption trust and a return year is $50 inclusive of goods and services tax.
 (4) Subsection (3) and this subsection are repealed when that first regulation commences.
-(5) A resident foreign trustee for a foreign trust is not required to pay a fee referred to in subsection (1) if each resident foreign trustee for the foreign trust—
+(5) A trustee for a foreign exemption trust is not required to pay a fee referred to in subsection (1) if each trustee for the foreign exemption trust—
   (a) is a natural person; and
-  (b) is not in the business of providing trustee services.
+  (b) is not a professional trustee.
 (6) Regulations under subsection (1) are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 60 Returns of inter-related arrangements
@@ -3760,10 +3796,20 @@ Every gift-exempt body must, when notified by the Commissioner, furnish a return
   (a) the existence and nature of that interest; and
   (b) such other information as may be required by the Commissioner in respect of that interest for the purposes of the administration of the Income Tax Act 2007:
   provided that, unless the Commissioner requires, no person shall be required to disclose a control interest to the extent to which such control interest exists only by virtue of the application of section EX 3(1)﻿(b) or (d) of the Income Tax Act 2007.
-(1B) A resident foreign trustee of a foreign trust who makes the disclosure required by section 59B is exempt from the requirements of subsection (1).
+(1B) A trustee of a foreign trust who makes the disclosure required by section 59B is exempt from the requirements of subsection (1).
 (1C) A multi-rate PIE that does not calculate and pay tax using the provisional tax calculation option under section HM 44 of the Income Tax Act 2007 must make a disclosure under subsection (1) in the prescribed form within the time allowed by section 37 for filing its return for the corresponding tax year under section 25J.
 (2) The Commissioner may exempt any person or class of persons from the requirements of subsection (1) where, in the opinion of the Commissioner, disclosure by that person or class or classes of persons is not necessary for the administration of the international tax rules.
 (3) The Commissioner may at any time cancel any exemption granted to any person or class or classes of persons under subsection (2).
+
+### 61B Disclosure requirements for high-value assets intended to be used in making taxable supplies
+(1) A registered person who acquires land, a ship, or an aircraft, with the intention of using it to make taxable supplies must disclose to the Commissioner, in the form and by the deadline prescribed by the Commissioner,—
+  (a) the existence and nature of the acquisition; and
+  (b) such other information as may be required by the Commissioner.
+(2) The Commissioner may exempt any person or class of persons from the requirements of subsection (1) where, in the opinion of the Commissioner, that person is at low risk of using the relevant asset for a use other than for making taxable supplies.
+(3) For the purposes of this section,—
+  (a) aircraft has the meaning set out in section 2 of the Civil Aviation Act 1990:
+  (b) land has the meaning set out in section 2 of the Goods and Services Tax Act 1985:
+  (c) ship has the meaning set out in section 2 of the Maritime Transport Act 1994.
 
 ### 62 Returns as to debentures and interest on debentures
 Every company or local or public authority shall from time to time, as required by the Commissioner, make a return giving such particulars as the Commissioner requires relative to debentures issued by that company or local or public authority, the holders of the debentures, and the interest paid or payable on the debentures.
@@ -4474,6 +4520,7 @@ The Commissioner must issue a notice of proposed adjustment before the Commissio
   (lbaa) the Commissioner is making an amendment before finalising the account of a qualifying individual under section 22H; or
   (lba) the assessment is of a penalty under section 142H or 142I; or
   (lb) the assessment extinguishes all or part of a taxpayer's tax loss in accordance with section 177C(5); or
+  (lbb) the assessment extinguishes all or part of a taxpayer’s excess amount under section EL 4 of the Income Tax Act 2007 in accordance with section 177C(5BA); or
   (m) the assessment includes a calculation by the Commissioner of a tax credit under the family scheme.
 
 ### 89D Taxpayers and others with standing may issue notices of proposed adjustment
@@ -6044,6 +6091,15 @@ Where, whether before or after the commencement of this Act,—the validity of t
 (2) However, if the Commissioner is of the opinion that employment income information provided by a taxpayer is fraudulent or wilfully misleading, the Commissioner may amend the assessment at any time so as to increase its amount.
 (3) This section overrides every other provision of this Act, and any other rule or law, that limits the Commissioner’s right to amend assessments.
 
+### 108AC Time bar for amending assessment of student loan deductions
+(1) The Commissioner may not amend an assessment when—
+  (a) a taxpayer provides employment income information that includes an amount of salary or wage deductions required to be made under the Student Loan Scheme Act 2011 which, for the purposes of this section, is treated as the making of an assessment of the amount by the taxpayer; and
+  (b) 4 years have passed from the date on which the taxpayer provided the employment income information.
+(2) However, the Commissioner may amend the assessment at any time if the Commissioner is of the opinion that either or both of the following apply:
+  (a) employment income information provided by a taxpayer is fraudulent or wilfully misleading:
+  (b) there would be a significant adverse effect on a borrower, as defined in section 4(1) of the Student Loan Scheme Act 2011, if the assessment is not amended.
+(3) This section is subject to section 64 of the Student Loan Scheme Act 2011, but overrides every other provision of this Act, and any other rule or law, that limits the Commissioner’s right to amend assessments.
+
 ### 108B Extension of time bars
 (1) The application of a time bar that is referred to in subsection (3) may be delayed for a taxpayer by a waiver—
   (a) for 12 months from the time at which the time bar would otherwise apply if—
@@ -6219,6 +6275,9 @@ Nothing in this Part applies to—
   (a) a person (other than an employer and the Commissioner) specified in section 157A in relation to the person's obligations under a tax law specified in that section:
   (b) a liable person in relation to child support (both as defined in the Child Support Act 1991):
   (bb) an employer in relation to amounts of compulsory employer contributions unpaid and specified in a notice under section 141(5) of the KiwiSaver Act 2006:
+  (bc) a non-resident employer who incorrectly concludes that they do not have to withhold and pay, or pay, an amount of tax for a PAYE income payment to a cross-border employee to the Commissioner in an income year, and the employer—
+    (i) has either 2 or fewer employees present in New Zealand during the income year or pays $500,000 or less of employment-related taxes for the income year; and
+    (ii) has, within 60 days of a relevant failure to withhold and pay, or pay, taken reasonable measures to manage their employment-related tax obligations:
   (c) a borrower in relation to repayment obligation (both as defined in the Student Loan Scheme Act 2011).
 
 **General provisions**
@@ -6692,7 +6751,7 @@ Discretion to disallow persons as nominated persons
 Certain family members excluded
 (4) For the purposes of subsection (3)﻿(a), the persons excluded are—
   (a) a spouse, civil union partner, or de facto partner:
-  (b) a relative, that is, another person connected with the person within 2 degrees of a relationship, whether by blood relationship or by adoption.
+  (b) a relative, that is, another person connected with the person within 2 degrees of a relationship.
 Notification of refusal to list
 (5) For the purposes of subsection (1), the Commissioner must—
   (a) notify the person of the refusal:
@@ -7307,14 +7366,12 @@ The purposes of this Part are—
 (5) Except in the case of a late filing penalty resulting from employment income information or from a tax return required under sections 16 to 18 of the Goods and Services Tax Act 1985, the Commissioner must, not less than 30 days before imposing a late filing penalty,—
   (a) send notice to a taxpayer that a late filing penalty may be imposed if a return specified in the notice is not filed; or
   (b) publicly notify that a late filing penalty may be imposed on taxpayers who omit to file the required return.
-(6) Subsections (7) to (9) apply in relation to a late filing penalty when a taxpayer fails to provide employment income information to the Commissioner by a due date when, for the 12-month period before the due date, the taxpayer has delivered on time all the required income information.
-(7) Subject to subsection (9), the Commissioner must notify the taxpayer,—
+(6) Subsections (7) and (8) apply in relation to a late filing penalty when a taxpayer fails to provide employment income information to the Commissioner by a due date when, for the 12-month period before the due date, the taxpayer has delivered on time all the required income information.
+(7) The Commissioner must notify the taxpayer,—
   (a) first, that a late filing penalty will be payable for a further failure to provide income information on time:
   (b) secondly, that the penalty is payable when a further failure occurs after the notice referred to in paragraph (a) has been given.
 (8) For employment income information, the maximum penalty that may be imposed in relation to a month, regardless of the number of failures to provide employment income information, is $250.
-(9) Despite subsection (7), a taxpayer is not liable to pay a late filing penalty in relation to employment income information if the Commissioner considers that, in a particular case or class of cases, a penalty should not be imposed. However, the Commissioner’s discretion may be exercised only if—
-  (a) it is necessary because of resource constraints imposed on the Commissioner during the period of co-existence of 2 Inland Revenue software platforms; and
-  (b) the taxpayer’s non-compliance is not serious or unreasonable.
+(9)
 (10)
 
 ### 139AAA Late filing penalty for GST returns
@@ -7354,6 +7411,14 @@ The purposes of this Part are—
   (a) the Commissioner requires the member under section 17 to provide information or a document that is treated under section 17E(2) as being in the knowledge, possession, or control of the company; and
   (b) the member fails to provide the information or document within the time allowed by the Commissioner.
 (2) The penalty under this section is the amount specified by the Commissioner, which must not exceed $100,000.
+
+### 139AC Penalty for trustee’s failure to register, provide information for, foreign exemption trust
+(1) A trustee of a foreign exemption trust is liable to pay a penalty under this section if the trustee fails to comply with the requirements of section 22, 59B, 59C, or 59D.
+(2) The penalty under this section is the amount specified by the Commissioner, which must not be more than $1,000.
+(3) A trustee is not liable to pay a penalty under this section for a failure to comply with requirements if the Commissioner is satisfied that the trustee makes reasonable efforts to comply with the requirements and to remedy the non-compliance with the requirements.
+(4) The due date for payment of a penalty imposed under this section is the later of—
+  (a) 30 days after the date on which the Commissioner issues the notice of assessment for the penalty:
+  (b) the date specified by the Commissioner in the notice of assessment as being the due date for payment of the penalty.
 
 ### 139B Late payment penalty
 (1) This section applies to a taxpayer if and to the extent to which the taxpayer does not pay by the default date an amount of tax (the unpaid tax), calculated by the taxpayer as payable or for which the taxpayer is assessed, and—
@@ -7666,6 +7731,9 @@ Despite sections 141A to 141E, a provisional taxpayer who uses a GST ratio in a 
     (ii) of the circumstances in which further penalties will be imposed and of how a further penalty will be calculated; and
     (iii) of actions that the taxpayer may take to avoid the imposition of further penalties; and
   (c) subsection (3) does not apply to the taxpayer.
+(1B) This section and sections 139A and 139B (which relate to late filing and late payment penalties) do not apply when a non-resident employer incorrectly concludes that they do not have to withhold and pay, or pay, an amount of tax for an amount of tax for a PAYE income payment to a cross-border employee to the Commissioner in an income year, if the employer—
+  (a) has either 2 or fewer employees present in New Zealand during the income year or pays $500,000 or less of employment-related taxes for the income year; and
+  (b) has, within 60 days of a relevant failure to withhold and pay, or pay, taken reasonable measures to manage their employment-related tax obligations.
 (2) Before giving to the taxpayer the first Commissioner's notice in relation to the required amount, the Commissioner must give to the taxpayer a notice that a penalty may be imposed under this section if the unpaid amount is not paid.
 (3) A taxpayer is not liable to pay an employers’ withholding payment penalty in relation to an unpaid amount if—
   (a) the taxpayer is a receiver or liquidator—
@@ -7966,7 +8034,7 @@ Despite sections 141A to 141E, a provisional taxpayer who uses a GST ratio in a 
     (ii) which has a new due date set under section 142A(2), on the due date for the payment of the unpaid tax; or
     (iii) which has a new due date set under section 142A(5), on the collection date, described in section 142A(6), for the unpaid tax:
   (b) in all other cases, on the date the Commissioner notifies the taxpayer to be the due date for payment of the penalty.
-(2) Subsection (1)﻿(a) does not apply for a shortfall penalty assessed under section 141A if section 141A(5) determines the time at which liability for the shortfall penalty is treated as arising.
+(2)
 (3) A shortfall penalty that is an electronic sales suppression penalty under section 141EE is due and payable on the relevant date set out in subsection (1)﻿(a), treating the electronic sales suppression penalty as if it were an amount of unpaid tax.
 
 ### 142C Due date for payments by officers
@@ -8040,15 +8108,13 @@ The due date for payment, by a member of a large multinational group, of a penal
   (a) does not keep the documents required to be kept by a tax law; or
   (ab) fails to register with a foreign government agency as required by Part 11B; or
   (b) does not provide information (including tax returns and tax forms) to the Commissioner or any other person when required to do so by a tax law; or
-  (ba) does not provide a tax invoice as required by section 24 of the Goods and Services Tax Act 1985; or
+  (ba) does not provide taxable supply information as required by section 19K or 19L of the Goods and Services Tax Act 1985; or
   (c) does not apply for registration as required under section 51 of the Goods and Services Tax Act 1985; or
   (d) claims, under section 20(3) of the Goods and Services Tax Act 1985, more than 1 amount of input tax for a taxable supply to the person, resulting in a total amount of input tax claimed by the person for the taxable supply that exceeds the output tax charged to the person for the taxable supply.
-(1B) No person who is a resident foreign trustee may be convicted of an offence against subsection (1)﻿(a) for not keeping documents required to be kept under section 22 if the person proves that—
+(1B) No person who is a trustee of a foreign trust may be convicted of an offence against subsection (1)﻿(a) for not keeping documents required to be kept under section 22 if the person proves that—
   (a) the person did not know of the requirements of section 22:
-  (b) another resident foreign trustee has been appointed under section 22(2C) as agent of the resident foreign trustees for the purposes of section 22 and the Commissioner has been notified of the appointment.
-(1C) No person who is a resident foreign trustee may be convicted of an offence against subsection (1)﻿(b) for not disclosing information required to be disclosed under section 59B if the person proves that—
-  (a) the person did not know of the requirements of section 59B:
-  (b) another resident foreign trustee has been appointed under section 59B(7) as agent of the resident foreign trustees for the purposes of section 59B and the Commissioner has been notified of the appointment.
+  (b) another trustee has been appointed under section 22(2C) as agent of the resident foreign trustees for the purposes of section 22 and the Commissioner has been notified of the appointment.
+(1C) No person who is a trustee of a foreign exemption trust may be convicted of an offence against subsection (1)﻿(b) for not disclosing information required to be disclosed under section 59B or 59D if the person proves that the person did not know of the requirements of the section.
 (2) No person may be convicted of an offence against subsection (1)﻿(b) for not providing information (other than tax returns and tax forms) to the Commissioner if the person proves that, as and when the person was required by the Commissioner to provide the information—
   (a) the person did not have the information in the person's knowledge, possession or control; and
   (b) no non-resident, who under section 17E(1) was controlled directly or indirectly by the person, had the information in the non-resident's knowledge, possession or control.
@@ -8073,8 +8139,8 @@ The due date for payment, by a member of a large multinational group, of a penal
   (d) knowingly applies or permits the application of the amount of a deduction or withholding of tax made or deemed made under a tax law for any purpose other than in payment to the Commissioner; or
   (e) knowingly does not make a deduction or withholding of tax required to be made by a tax law; or
   (f)
-  (fb) knowingly does not issue a receipt relating to a supply of distantly taxable goods as required by section 24BAB(3) of the Goods and Services Tax Act 1985; or
-  (fc) knowingly does not provide information relating to a supply of distantly taxable goods as required by section 24BAC of the Goods and Services Tax Act 1985; or
+  (fb) knowingly does not issue a receipt relating to a supply of distantly taxable goods as required by section 19M(4) of the Goods and Services Tax Act 1985; or
+  (fc) knowingly does not provide information relating to a supply of distantly taxable goods as required by section 12C of the Goods and Services Tax Act 1985; or
   (g) in relation to a recipient of a supply of distantly taxable goods or of remote services from a non-resident supplier, and for the purposes of avoiding the payment of goods and services tax, knowingly provides altered, false, or misleading information relating to their residence in New Zealand or their status as a registered person; or
   (h) in relation to an underlying supplier, of a supply of distantly taxable goods or remote services by a marketplace, knowingly provides altered, false, or misleading information relating to the country or territory in which the underlying supplier is resident.
 (2) No person may be convicted of an offence against subsection (1)﻿(ac) for knowingly failing to provide information, including a self-certification, to another person or against subsection (1)﻿(b) for knowingly not providing information (other than tax returns and tax forms) to the Commissioner if the person proves that, as and when the person was required to provide the information—
@@ -8250,15 +8316,15 @@ A person who is convicted of an offence against this Act or any other Inland Rev
     (i) was caused by an act done or carried out by, or by an omission of, or through knowledge attributable to, the employee, agent, or officer; or
     (ii) is evasion committed by the employee, agent, or officer.
 (2) An employee, agent, or officer who does or carries out the act or omission, or has the knowledge or intent referred to in subsection (1), is liable on conviction for up to the same maximum fine or term of imprisonment, or both, that could apply to an individual, if an individual had committed the principal offence.
-(2B) A natural person is not liable under this section in relation to an offence by a resident foreign trustee that is a body corporate if section 147B imposes liability for an offence relating to the offence of the resident foreign trustee.
+(2B) A natural person is not liable under this section in relation to an offence by a trustee of a foreign trust that is a body corporate if section 147B imposes liability for an offence relating to the offence of the trustee.
 (3) An employee or officer of a body corporate includes a person who, by reason of the person's employment with, or position in relation to, the body corporate, is responsible by law, contract, or otherwise for undertaking an action on behalf of the body corporate.
 
 ### 147B Directors and officers of resident foreign trustee
 A natural person who is resident in New Zealand commits an offence against this Act if—
-  (a) the natural person, in relation to a resident foreign trustee that is not a natural person, is—
-    (i) a director of the resident foreign trust:
-    (ii) in a position in the resident foreign trustee allowing significant influence over the management or administration of the resident foreign trustee; and
-  (b) the resident foreign trustee commits an offence against section 143A (principal offence); and
+  (a) the natural person, in relation to a resident trustee of a foreign trust that is not a natural person, is—
+    (i) a director of the resident trustee:
+    (ii) in a position in the resident trustee allowing significant influence over the management or administration of the resident trustee; and
+  (b) the resident trustee commits an offence against section 143A (principal offence); and
   (c) the cause of the principal offence was—
     (i) an act done or carried out by the person:
     (ii) an omission of the person:
@@ -8535,7 +8601,7 @@ Every person who under this Act pays any tax for or on behalf of any other perso
 ### 167 Recovery of tax and payments from employers or PAYE intermediaries
 (1) Every amount of tax or combined tax and earner-related payment withheld or deducted under the PAYE rules and, where applicable, section 115 of the Accident Rehabilitation and Compensation Insurance Act 1992 or section 285 of the Accident Insurance Act 1998 or section 221 of the Accident Compensation Act 2001, shall be held in trust for the Crown, and any amount so held in trust shall not be property of the employer liable to execution, and, in the event of the bankruptcy or liquidation of the employer or of an assignment for the benefit of the employer's creditors, shall remain apart, and form no part of the estate in bankruptcy, liquidation, or assignment.
 (2) When an amount of tax or combined tax and earner-related payment has been withheld or deducted under the PAYE rules and, where applicable, section 115 of the Accident Rehabilitation and Compensation Insurance Act 1992 or section 285 of the Accident Insurance Act 1998 or section 221 of the Accident Compensation Act 2001, and the employer has failed to deal with the amount of the tax or payment withheld or deducted (or any part of it) in the manner required by subsection (1) or the PAYE rules, the amount of the tax or payment for the time being unpaid to the Commissioner shall, in the application of the assets of the employer, rank as follows:
-  (a) where the employer is, or one of whom is, an individual, upon the employer's bankruptcy or upon the employer's making an assignment for the benefit of the employer's creditors, the amount of the tax or payment shall rank without limitation in amount, and notwithstanding anything in any other Act, in order of priority immediately after preferential claims for wages or other sums payable to or on account of any servant or worker or apprentice or articled clerk, and in priority to all other claims:
+  (a) where the employer is, or 1 of whom is, an individual, upon the employer’s bankruptcy or upon the employer making an assignment for the benefit of the employer’s creditors, the amount of the tax or payment shall have the ranking provided for in section 274 of the Insolvency Act 2006:
   (b) where the employer is a company, upon the liquidation of the company, the amount of the tax or payment shall have the ranking provided for in Schedule 7 of the Companies Act 1993 (whether or not the company has been incorporated or registered under that Act); and
   (c) where the employer is a company, upon the appointment of a receiver on behalf of the holder of any debenture given by the company secured by a charge over any property of the company, or upon possession being taken on behalf of the debenture holder of the property, the amount of the tax or payment shall have the ranking provided for in Schedule 7 of the Companies Act 1993 (whether or not the company has been incorporated or registered under that Act), as if the receiver were a liquidator.
 (2B) This section applies to a person instead of an employer if—
@@ -8737,11 +8803,11 @@ In this Part—
     (a) a natural person for whom the settlor has natural love and affection; or
     (b) an organisation or a trust whose income is exempt under section CW 41 or CW 42 of the Income Tax Act 2007; or
     (c) a natural person that satisfies paragraph (a) and an organisation or a trust that satisfies paragraph (b)
-  - **relative** means, in relation to a person, another person connected with the person by blood relationship, marriage, civil union or de facto relationship, or adoption.
+  - **relative** means, in relation to a person, another person connected with the person by blood relationship, marriage, civil union or de facto relationship.
 (6) For the purpose of the relative definition—
   (a) persons are connected by blood relationship if one is the child of the other:
   (b) persons are connected by marriage, civil union or de facto relationship if one person is in a marriage, civil union or de facto relationship with the other:
-  (c) persons are connected by adoption if one has been adopted as the child of the other.
+  (c)
 (7)
 
 ### 173MB Limitation on transfer by PAYE intermediary
@@ -8921,8 +8987,11 @@ Despite any other provision of this Act or the Income Tax Act 2007, the Commissi
 (5) If the Commissioner writes off outstanding tax for a taxpayer who has a tax loss, other than a write-off under section 22J or 174AA, the Commissioner must extinguish all or part of the taxpayer's tax loss, by—
   (a) dividing the amount written off by 0.33 and reducing the tax loss by that amount, if the taxpayer is not a company; or
   (b) dividing the amount written off by 0.28 and reducing the tax loss by that amount, if the taxpayer is a company.
+(5BA) If the Commissioner writes off outstanding tax for a taxpayer who has an excess amount under section EL 4 of the Income Tax Act 2007, the Commissioner must extinguish all or part of the taxpayer’s excess amount by—
+  (a) dividing the amount written off by 0.33 and reducing the excess amount by that amount, if the taxpayer is not a company; or
+  (b) dividing the amount written off by 0.28 and reducing the excess amount by that amount, if the taxpayer is a company.
 (5B) If the Commissioner writes off outstanding tax for a taxpayer who has a tax credit carried forward under section LE 3 of the Income Tax Act 2007, the Commissioner must extinguish an amount of the tax credit on a one-for-one basis.
-(5C) If a taxpayer has both a tax loss to which subsection (5) applies and a tax credit to which subsection (5B) applies, the Commissioner must extinguish the tax loss before extinguishing the tax credit.
+(5C) For a taxpayer for which the Commissioner writes off outstanding tax, subsection (5) applies before subsection (5BA), and subsection (5BA) applies before subsection (5B).
 (6) For the purpose of subsection (5), the tax loss that may be extinguished is the tax loss of the taxpayer at the time at which the outstanding tax is written off and the Commissioner may use a figure for that tax loss based on the most recent return of income furnished by the taxpayer.
 (7) The Commissioner may reverse a write-off if—
   (a) outstanding tax is written off on the grounds of serious hardship, and the taxpayer for whom the debt was written off is a natural person who—
