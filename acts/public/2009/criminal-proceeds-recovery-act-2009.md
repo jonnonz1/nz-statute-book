@@ -1,5 +1,5 @@
 # Criminal Proceeds (Recovery) Act 2009
-_Consolidation as at 2021-10-28_
+_Consolidation as at 2023-04-01_
 
 ### 1 Title
 This Act is the Criminal Proceeds (Recovery) Act 2009.
@@ -140,6 +140,11 @@ This Act comes into force on 1 December 2009.
 
 ### 7 Meaning of unlawfully benefited from significant criminal activity
 In this Act, unless the context otherwise requires, a person has unlawfully benefited from significant criminal activity if the person has knowingly, directly or indirectly, derived a benefit from significant criminal activity (whether or not that person undertook or was involved in the significant criminal activity).
+
+**Savings, transitional, and related provisions**
+
+### 7A Transitional, savings, and related provisions
+The transitional, savings, and related provisions set out in Schedule 1 have effect according to their terms.
 
 **Application**
 
@@ -786,6 +791,17 @@ If an appeal by any person against the making of an instrument forfeiture order 
 (3) A profit forfeiture order made against a person is provable in the bankruptcy of that person.
 (4) To avoid doubt, subsection (3) applies despite anything in section 232(2) of the Insolvency Act 2006.
 
+**Discharge of civil forfeiture order applying to interests in KiwiSaver scheme**
+
+### 84A Discharge of civil forfeiture order applying to interests in KiwiSaver scheme
+(1) To the extent that the property specified in a civil forfeiture order is an interest held by a person as a member of a KiwiSaver scheme, the interest must be disposed of in accordance with this section.
+(2) At the time that the property is required to be disposed of under section 82 or 83, the Official Assignee must notify the manager of the scheme.
+(3) As soon as practicable after the Official Assignee notifies the manager, the manager must arrange for an amount up to the member’s accumulation to be released into the custody and control of the Official Assignee.
+(4) In this section,—
+  - **KiwiSaver scheme** has the meaning given to it in section 4(1) of the KiwiSaver Act 2006
+  - **manager** , in relation to a KiwiSaver scheme, means the person who is the manager (as defined in section 6(1) of the Financial Markets Conduct Act 2013) of the scheme
+  - **member’s accumulation** has the meaning given to it in section 4(1) of the KiwiSaver Act 2006.
+
 **Discharge of instrument forfeiture order by Official Assignee**
 
 ### 85 Discharge of instrument forfeiture order by Official Assignee
@@ -1074,21 +1090,33 @@ If any property is seized pursuant to a warrant issued under section 101 or 102(
 ### 111 Official Assignee to hold property
 If property is seized pursuant to a warrant issued under section 110, or transferred to the Official Assignee under section 103, the Official Assignee must arrange for the property to be kept until it is dealt with in accordance with another provision of this Act.
 
-### 112 Return of seized property
-(1) If any property is seized pursuant to a warrant issued under section 110 or transferred to the Official Assignee under section 103 the property must, unless it is the subject of a forfeiture order, be returned to the person,—
-  (a) if the property was subject to a restraining order when the relevant search warrant was issued, after the expiry of the restraining order to which the property relates:
-  (b) if the property is property referred to in section 101(2)﻿(b) or 102(2)﻿(a) that was not the subject of a restraining order when the relevant search warrant was issued, after—
-    (i) the expiry of 28 days from the date on which the property comes into the control or custody of the Official Assignee; or
-    (ii) if a restraining order is obtained in respect of the property before the expiry of the period referred to in subparagraph (i), the expiry of the restraining order to which the property relates; or
-    (iii) if a restraining order is not obtained in respect of the property before the expiry of the period referred to in subparagraph (i) but an application for a forfeiture order is made within that period, the determination of that application.
-(2) This section is subject to section 113.
+### 112 Return of seized property that is not subject of forfeiture order
+(1) Any property that is transferred to the Official Assignee under section 103, or seized under a warrant issued under section 110, must be returned to the appropriate person in accordance with this section.
+(2) However, this section does not require the return of property if that property is the subject of a forfeiture order—
+  (a) when the property is transferred or seized as referred to in subsection (1); or
+  (b) when a requirement to return the property to the appropriate person as soon as practicable would otherwise apply under this section.
+(3) If the property was the subject of a restraining order when the relevant search warrant was issued, the property must be returned to the appropriate person as soon as practicable after the expiry of the restraining order.
+(4) If the property was not the subject of a restraining order when the relevant search warrant was issued, the property must be returned to the appropriate person as soon as practicable after the expiry of 28 days after the date on which the property comes into the custody or control of the Official Assignee (the 28-day period).
+(5) However,—
+  (a) if a restraining order is obtained in relation to that property before the expiry of the 28-day period, the property must be returned to the appropriate person as soon as practicable after the order expires; or
+  (b) if a restraining order is not obtained in relation to that property before the expiry of the 28-day period but an application for a forfeiture order is made as soon as practicable and before that expiry, the property must be returned as soon as practicable after the application is determined; or
+  (c) if an application for a restraining order is made as soon as practicable and before the expiry of the 28-day period, but not determined before that expiry, the property must be returned as soon as practicable after—
+    (i) the application is determined if the application is refused; or
+    (ii) the expiry of the restraining order if the application is granted.
+(6) This section is subject to section 113.
+(7) In this section, the appropriate person to whom property must be returned is the owner of the property or the person entitled to possession of it.
 
-### 113 Retention of seized property if forfeiture order made
-(1) Subsection (2) applies if—
-  (a) any property is seized pursuant to a warrant issued under section 110 or is transferred to the Official Assignee under section 103; and
-  (b) but for this subsection, the Official Assignee would be required, under section 112, to arrange for any property to be returned to a person as soon as practicable after the expiry of a restraining order or the determination of an application for a forfeiture order; and
-  (c) at, or before, the end of that period, a forfeiture order is made in relation to the property.
-(2) If a forfeiture order is made in respect of any property that is in the possession of the Official Assignee under section 111 or subsequently comes into the possession of the Official Assignee, the Official Assignee must deal with the property as required by the order.
+### 113 Disputed ownership, etc, of seized property to which section 112 applies
+(1) The Official Assignee may apply to the District Court for an order under this section if there is a dispute, or the Official Assignee is uncertain (for any reason), about whom property must be returned to under section 112.
+(2) On an application under this section, the District Court may—
+  (a) order that the property be destroyed; or
+  (b) order that the property be delivered to the person appearing to the court to be the owner of the property or entitled to possession of it; or
+  (c) if the owner or person entitled to possession cannot be found, make any order with respect to the property’s possession or sale that the court thinks fit.
+(3) If, after the District Court makes an order under this section in relation to any property, an action is commenced against the Crown for the recovery of the property or its value, the order and the delivery of the property in accordance with the order may be given and must be received in evidence in bar of the action.
+(4) However, the order or delivery does not affect the right of any persons entitled by law to possession of the property to recover the property from any person or body (other than the Crown).
+(5) In this section, the Crown includes—
+  (a) the Commissioner or any Police employee (within the meaning of section 4 of the Policing Act 2008); and
+  (b) the Official Assignee or any delegate of the Official Assignee or any other member of staff of the Official Assignee.
 
 **General rules about search warrants**
 
@@ -1462,11 +1490,29 @@ No person is excused from answering any question, supplying any information, pro
 (1) No evidence that is lawfully obtained under section 105 or 107 is inadmissible by reason only of the fact that it was so obtained.
 (2) This section is subject to section 165.
 
-### 165 Admissibility of self-incriminating statements
-(1) A self-incriminating statement made orally by a person (whether or not the statement is recorded in writing) in the course of answering any question, or supplying any information, or producing any document, or providing any explanation, as required under section 105 or 107, may be used in evidence against that person only in a prosecution for an offence under section 108 of the Crimes Act 1961 (which relates to perjury) or under this Act in relation to any evidence given by the person that is inconsistent with the statement.
-(2) Despite subsection (1), any statement made in relation to—
-  (a) a refusal or failure to answer any question, supply any information, produce any document, provide any explanation, or comply with any other requirement may be used in evidence against that person in any prosecution for any offence under section 152 arising from that refusal or failure:
-  (b) the answering of any question in a way that is false or misleading in a material particular, or the supply of any information, or the production of any document, or the providing of any explanation that is false or misleading in a material particular, may be used in evidence against that person in any prosecution for any offence under section 152 arising from that act.
+### 165 Admissibility of self-incriminating statement made in response to production or examination order
+General
+(1) Any self-incriminating statement that a person makes orally, in the course of doing any of the following in response to a production or examination order, is not admissible against them in any civil or criminal proceedings:
+  (a) answering any question:
+  (b) supplying any information:
+  (c) producing any document:
+  (d) providing any explanation.
+(2) Subsection (1) applies whether or not the statement is recorded in writing.
+(3) Subsections (4) to (8) set out exceptions to subsection (1).
+Exception for civil proceedings
+(4) Any statement that a person makes in response to a production or examination order may be used in evidence against them in any civil proceedings specified in section 10(1).
+Exceptions for criminal proceedings
+(5) Any self-incriminating statement referred to in subsection (1) that a person makes may be used in evidence against them in any prosecution for an offence against section 109 of the Crimes Act 1961 (which relates to perjury), or an offence against this Act, relating to any evidence given by the person that is inconsistent with that statement.
+(6) Any statement that a person makes in relation to their failure to comply with a production or examination order may be used in evidence against them in any prosecution for an offence against section 152 arising from that failure.
+(7) Any false or misleading statement that a person makes in response to a production or examination order may be used in evidence against them in any prosecution for an offence against section 152 arising from making that statement.
+(8) Any false or misleading document that a person produces in response to a production or examination order may be used in evidence against them in any prosecution for an offence against section 152 arising from producing that document.
+Definitions
+(9) In this section,—
+  - **false or misleading** means false or misleading in a material particular
+  - **production or examination order** means—
+    (a) a production order made under section 105; or
+    (b) an examination order made under section 107.
+(10) In this section, doing any thing in response to a production or examination order includes doing any thing in response to a requirement of the Commissioner under section 105 or 107.
 
 ### 166 Admissibility of evidence given to court or Official Assignee
 (1) Subsection (2) applies if—
@@ -1475,7 +1521,7 @@ No person is excused from answering any question, supplying any information, pro
 (2) If this subsection applies—
   (a) any self-incriminating statement or disclosure made by the person in response to the question or any self-incriminating statement furnished in response to the requirement is not admissible against that person in any civil or criminal proceedings, other than—
     (i) a proceeding for giving false evidence in the course of the examination or, as the case may require, for making any false statement in any statement so furnished; or
-    (ii) the prosecution of that person for an offence against section 108 of the Crimes Act 1961 (which relates to perjury) or under this Act in relation to any evidence given by the person that is inconsistent with the statement or disclosure; or
+    (ii) the prosecution of that person for an offence against section 109 of the Crimes Act 1961 (which relates to perjury), or under this Act, relating to any evidence given by the person that is inconsistent with the statement or disclosure; or
     (iii) the proceedings in relation to which the statement was made or the document was given:
   (b) any other evidence provided by the person is admissible in civil or criminal proceedings, subject to any enactment or rule of law to the contrary.
 
@@ -1806,3 +1852,40 @@ Section 71 is repealed and the following section substituted:Criminal Proceeds (
 
 ### 225 Section 81 repealed
 Section 81 is repealed.
+
+## Schedule 1 — Transitional, savings, and related provisions
+
+### Part 1 — Provisions relating to Criminal Proceeds (Recovery) Amendment Act 2023
+
+### 1 Definition
+In this Part, amendment Act means the Criminal Proceeds (Recovery) Amendment Act 2023.
+
+### 2 Restraining order under section 24A and type 2 assets forfeiture order
+(1) An order may be made under section 24A in respect of any specific property of a respondent whether the respondent acquired that property before, on, or after the commencement of that section.
+(2) A type 2 assets forfeiture order may be made in respect of any specific property of a respondent whether the respondent acquired that property before, on, or after the commencement of section 50C.
+
+### 3 Variation of existing restraining order to extend to interest in KiwiSaver scheme
+(1) A court may make an order under section 35 varying the restrained property to which an existing restraining order relates so that the restrained property is or includes an interest held by a person as a member of a KiwiSaver scheme.
+(2) Subsection (1) does not limit the generality of section 34(1) or 35(a).
+(3) In this clause, existing restraining order means a restraining order made under section 24 or 25 that is in force on the commencement of section 84A.
+
+### 4 Discharge of civil forfeiture order applying to interest in KiwiSaver scheme
+Section 84A applies only in relation to a civil forfeiture order made on or after the commencement of that section.
+
+### 5 Disclosure of source orders
+(1) In section 109A,—
+  (a) a reference to a section 24 restraining order includes a reference to a section 24 restraining order that is in force on the commencement of section 109A; and
+  (b) a reference to an application for a type 1 assets forfeiture order includes a reference to an application for an assets forfeiture order made and yet to be determined immediately before that commencement.
+(2) In this clause, section 24 restraining order means an order made under section 24.
+
+### 6 Return of seized property that is not subject of forfeiture order
+(1) New sections 112 and 113 extend to property that was transferred to the Official Assignee under section 103, or seized under a warrant issued under section 110, before the commencement of those new sections if, immediately before that commencement, the property had not yet been returned under section 112 (as in force before its replacement by new section 112).
+(2) In this clause, a reference to a new section is a reference to the section as inserted by the amendment Act.
+
+### 7 Admissibility of self-incriminating statements made in response to production or examination order
+(1) New section 165(1), (2), and (5) extends to any self-incriminating statement that a person makes or has made orally (before the commencement of those provisions) in the course of doing any of the things referred to in new section 165(1) in response to a production or examination order made before the commencement of those provisions.
+(2) New section 165(4) extends to any statement that a person makes or has made (before the commencement of that provision) in response to a production or examination order made before the commencement of that provision.
+(3) New section 165(6) and (7) extends to any statement referred to in those provisions that a person makes or has made (before the commencement of those provisions) in response to a production or examination order made before the commencement of those provisions.
+(4) New section 165(8) extends to any false or misleading document that a person produces or has produced (before the commencement of that provision) in response to a production or examination order made before the commencement of that provision.
+(5) In this clause, a reference to a new section is a reference to the section as inserted by the amendment Act.
+(6) Any term or expression that is used in this clause and defined in section 165 has the same meaning as in that section.
