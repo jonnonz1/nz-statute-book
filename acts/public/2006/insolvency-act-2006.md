@@ -1,5 +1,5 @@
 # Insolvency Act 2006
-_Consolidation as at 2022-09-01_
+_Consolidation as at 2023-04-01_
 
 ### 1 Title
 This Act is the Insolvency Act 2006.
@@ -1987,6 +1987,7 @@ A person who obtained an order for costs against the bankrupt before adjudicatio
   (e) subject to section 276(1), any reimbursement or payment provided for, or ordered by, the Employment Relations Authority, the Employment Court, or the Court of Appeal under section 123(1)﻿(b) or section 128 of the Employment Relations Act 2000, to the extent that the reimbursement or payment does not relate to any matter set out in section 123(1)﻿(c) of the Employment Relations Act 2000, in respect of wages or other money or remuneration lost during the 4 months before the adjudication:
   (f) amounts that are preferential claims under section 172(2) and (3):
   (g) all amounts payable to the Commissioner of Inland Revenue in accordance with section 167(2) of the Tax Administration Act 1994 as applied by section 67 of the KiwiSaver Act 2006:
+  (ga) all employer contributions payable to the Commissioner of Inland Revenue under Part 3, subpart 3 of the KiwiSaver Act 2006, including compulsory employer contributions unpaid and specified in a notice under section 141(5) of that Act:
   (h) all sums that, by any other enactment, are required to be paid in accordance with the priority established by this subsection.
 (3) After paying the claims referred to in subsection (2), the Assignee must next pay all sums, for which a buyer is a creditor in the bankruptcy under section 36J of the Fair Trading Act 1986,—
   (a) paid by the buyer to a seller on account of the purchase price of goods; or
