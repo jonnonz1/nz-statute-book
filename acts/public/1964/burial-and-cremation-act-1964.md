@@ -1,5 +1,5 @@
 # Burial and Cremation Act 1964
-_Consolidation as at 2022-07-01_
+_Consolidation as at 2023-04-05_
 
 > An Act to consolidate and amend the law relating to the burial and cremation of the dead
 
@@ -9,12 +9,14 @@ _Consolidation as at 2022-07-01_
 
 ### 2 Interpretation
 (1) In this Act, unless the context otherwise requires,—
+  - **associate coroner** means a person who holds office as an associate coroner under the Coroners Act 2006
   - **body** means a dead human body and includes the body of a stillborn child
   - **burial ground** means a denominational burial ground or a private burial ground; but does not include a Maori burial ground
   - **cemetery** means any land held, taken, purchased, acquired, set apart, dedicated, or reserved, under the provisions of any Act or before the commencement of this Act, exclusively for the burial of the dead generally, and, where the context so permits, includes a closed cemetery
   - **certificate of cause of death** , in relation to a death or a body, means a certificate referred to in section 46B, 46C, or 46CA relating to the cause of death or, as the case may require, the cause of death of the person whose body it is
   - **closed cemetery** means a cemetery which has been closed by a closing order and has a corresponding meaning
   - **closing order** means an order made under paragraph (a) of subsection (1) of section 41 before 1 January 1969, or a notice published under that paragraph after that date, or an Order in Council made under any corresponding former provision
+  - **coroner** includes an associate coroner to the extent that they have the jurisdiction of a coroner under the Coroners Act 2006
   - **coroner's authorisation** , in relation to a body, means an authorisation by a coroner under section 42 of the Coroners Act 2006 for the release of the body
   - **corporation** , in relation to a local authority, means that local authority as constituted a body corporate by section 12 of the Local Government Act 2002
   - **cremation** means the reduction to ashes of dead bodies by burning
