@@ -1,5 +1,5 @@
 # Water Services Act 2021
-_Consolidation as at 2022-12-15_
+_Consolidation as at 2023-04-05_
 
 ### 1 Title
 This Act is the Water Services Act 2021.
@@ -48,6 +48,7 @@ In this Act, unless the context otherwise requires,—
   - **acceptable solution or verification method** means a drinking water acceptable solution or verification method issued under section 50
   - **agent** includes a contractor
   - **approved form** means a form provided by Taumata Arowai
+  - **associate coroner** means a person who holds office as an associate coroner under the Coroners Act 2006
   - **backflow** means the unplanned reversal of flow of water or mixtures of water and contaminants into the water supply system
   - **backflow prevention device** means a device that prevents backflow
   - **chief executive** means the chief executive of Taumata Arowai
@@ -55,6 +56,7 @@ In this Act, unless the context otherwise requires,—
   - **compliance officer** means a compliance officer appointed under section 98
   - **compliance rules** means compliance rules made under section 49
   - **consumer** means a person who consumes or uses drinking water supplied by a drinking water supplier
+  - **coroner** includes an associate coroner to the extent that they have the jurisdiction of a coroner under the Coroners Act 2006
   - **council-controlled organisation** has the meaning given to it by section 6 of the Local Government Act 2002
   - **Crown organisation** has the same meaning as in section 4 of the Crown Organisations (Criminal Liability) Act 2002
   - **department** means a department listed in Part 1 of Schedule 2 of the Public Service Act 2020
