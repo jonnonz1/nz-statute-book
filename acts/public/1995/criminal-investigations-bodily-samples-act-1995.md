@@ -1,5 +1,5 @@
 # Criminal Investigations (Bodily Samples) Act 1995
-_Consolidation as at 2021-10-28_
+_Consolidation as at 2023-04-05_
 
 > An Act—ato make provision for the taking of bodily samples for use in criminal investigations; andbto authorise—ithe establishment of a databank of information derived from the analysis of bodily samples taken from certain persons; andiithe use of information from that databank in criminal investigations; andcto provide for matters incidental thereto
 
@@ -1908,7 +1908,8 @@ For the purpose of this clause, a related offence in section 61 includes a relat
 | Possession of offensive weapons or disabling substances | section 202A |
 | Assault with weapon | section 202C |
 | Receiving (if the value of the property does not exceed $1,000) | section 246 |
-| Threatening acts | section 308 |
+| Threatening acts in relation to dwellinghouses and persons in dwellinghouses | section 308 |
+| Discharging firearm to intimidate | section 308A |
 |  | Land Transport Act 1998 |
 | Contravention of section 7 or section 22 involving injury | section 36 |
 | Contravention of section 7 by causing death of another person | section 36AA |
