@@ -1,5 +1,5 @@
 # Crimes Act 1961
-_Consolidation as at 2021-11-06_
+_Consolidation as at 2023-04-05_
 
 > An Act to consolidate and amend the Crimes Act 1908 and certain other enactments of the Parliament of New Zealand relating to crimes and other offences
 
@@ -922,7 +922,7 @@ In sections 98C to 98F, unless the context otherwise requires,—
 ### 99 Interpretation
 In this Part, unless the context otherwise requires,—
   - **bribe** means any money, valuable consideration, office, or employment, or any benefit, whether direct or indirect
-  - **judicial officer** means a Judge of any court, or a District Court Judge, Coroner, Justice of the Peace, or Community Magistrate, or any other person holding any judicial office, or any person who is a member of any tribunal authorised by law to take evidence on oath
+  - **judicial officer** means a Judge of any court, or a District Court Judge, Coroner, associate coroner, Justice of the Peace, or Community Magistrate, or any other person holding any judicial office, or any person who is a member of any tribunal authorised by law to take evidence on oath
   - **law enforcement officer** means any constable, or any person employed in the detection or prosecution or punishment of offenders
   - **official** means any person in the service of the Sovereign in right of New Zealand (whether that service is honorary or not, and whether it is within or outside New Zealand), or any member or employee of any local authority or public body, or any person employed in the education service within the meaning of section 10(7) of the Education and Training Act 2020.
 
@@ -2728,10 +2728,14 @@ Every one is liable to imprisonment for a term not exceeding 10 years who contam
   (d) causing major damage to the national economy of New Zealand.
 (4) To avoid doubt, the fact that a person engages in any protest, advocacy, or dissent, or engages in any strike, lockout, or other industrial action, is not, by itself, a sufficient basis for inferring that a person has committed an offence against subsection (1).
 
-### 308 Threatening acts
+### 308 Threatening acts in relation to dwellinghouses and persons in dwellinghouses
 Every one is liable to imprisonment for a term not exceeding 3 years who, with intent to intimidate or annoy any person,—
   (a) breaks or damages or threatens to break or damage any dwellinghouse; or
-  (b) by the discharge of firearms or otherwise, alarms or attempts to alarm any person in any dwellinghouse.
+  (b) by threatening behaviour, alarms or attempts to alarm any person in a dwellinghouse.
+
+### 308A Discharging firearm to intimidate
+(1) A person commits an offence who discharges a firearm intending to intimidate 1 or more other persons.
+(2) A person who is convicted of an offence under subsection (1) is liable to a term of imprisonment not exceeding 5 years.
 
 ### 309 Conspiring to prevent collection of rates or taxes
 Every one is liable to imprisonment for a term not exceeding 2 years who conspires with any other person by force or intimidation to prevent the collection of any rates or taxes the levying and collection of which is authorised by law.
