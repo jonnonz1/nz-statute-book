@@ -1,5 +1,5 @@
 # Anti-Money Laundering and Countering Financing of Terrorism Act 2009
-_Consolidation as at 2022-11-30_
+_Consolidation as at 2023-04-05_
 
 ### 1 Title
 This Act is the Anti-Money Laundering and Countering Financing of Terrorism Act 2009.
@@ -1125,6 +1125,17 @@ Publication under the Legislation Act 2019 of a code of practice is conclusive e
 (4) If an application for an injunction against a person has been made under this Act, a court must, in determining whether to grant the injunction, have regard to any code of practice in force under section 64(6).
 (5) If an application for a pecuniary penalty against a person has been made under this Act, a court must, in determining whether to impose a pecuniary penalty, have regard to any code of practice in force under section 64(6) at the time the person engaged in conduct that constituted the relevant civil liability act.
 
+### Subpart 5A — Cash transactions above applicable threshold value
+
+### 67A Prohibition on certain cash transactions
+A person who is in trade must not buy or sell any of the following articles by way of a cash transaction or a series of related cash transactions, if the total value of that transaction or those transactions is equal to or above the applicable threshold value:
+  (a) jewellery:
+  (b) watches:
+  (c) gold, silver, or other precious metals:
+  (d) diamonds, sapphires, or other precious stones:
+  (e) motor vehicles (within the meaning of section 6(1) of the Motor Vehicle Sales Act 2003):
+  (f) ships (within the meaning of section 2(1) of the Maritime Transport Act 1994).
+
 ### Subpart 6 — Cross-border transportation of cash
 
 ### 68 Reports about movement of cash into or out of New Zealand
@@ -1211,7 +1222,8 @@ In this Part, a civil liability act occurs when a reporting entity fails to comp
   (da) fails to report transactions in accordance with subpart 2A of Part 2:
   (e) fails to keep records in accordance with the requirements of subpart 3 of Part 2:
   (f) fails to establish, implement, or maintain an AML/CFT programme:
-  (g) fails to ensure that its branches and subsidiaries comply with the relevant AML/CFT requirements.
+  (g) fails to ensure that its branches and subsidiaries comply with the relevant AML/CFT requirements:
+  (h) enters into cash transactions in relation to certain items in breach of section 67A.
 
 ### 79 Possible responses to civil liability act
 If a civil liability act is alleged to have occurred, the relevant AML/CFT supervisor may do 1 or more of the following:
@@ -1294,7 +1306,7 @@ The powers in sections 85 to 89 are in addition to, and do not derogate from, an
 (2) For a civil liability act specified in section 78(b), (c), (d), or (g), the maximum amount of a pecuniary penalty under this Act is,—
   (a) in the case of an individual, $100,000; and
   (b) in the case of a body corporate or partnership, $1 million.
-(3) For a civil liability act specified in section 78(a), (da), (e), or (f), the maximum amount of a pecuniary penalty under this Act is,—
+(3) For a civil liability act specified in section 78(a), (da), (e), (f), or (h), the maximum amount of a pecuniary penalty under this Act is,—
   (a) in the case of an individual, $200,000; and
   (b) in the case of a body corporate or partnership, $2 million.
 (4) In determining an appropriate pecuniary penalty, the court must have regard to all relevant matters, including—
@@ -1390,7 +1402,7 @@ A person commits an offence if the person wilfully obstructs any AML/CFT supervi
 A person commits an offence if, without reasonable excuse, the person provides information to an AML/CFT supervisor knowing that information to be false or misleading in any material respect.
 
 ### 104 Time limit for prosecution of offences relating to non-compliance with AML/CFT requirements
-Despite anything to the contrary in section 25 of the Criminal Procedure Act 2011, the limitation period in respect of an offence under any of sections 101 to 103 of this Act ends on the date that is 3 years after the date on which the offence was committed.
+Despite anything to the contrary in section 25 of the Criminal Procedure Act 2011, the limitation period in respect of an offence under section 101, 102, 103, or 105A of this Act ends on the date that is 3 years after the date on which the offence was committed.
 
 ### 105 Penalties
 (1) A person who commits an offence under section 101 is liable, on conviction, to,—
@@ -1403,6 +1415,16 @@ Despite anything to the contrary in section 25 of the Criminal Procedure Act 201
     (i) a term of imprisonment of not more than 3 months:
     (ii) a fine of up to $10,000; and
   (b) in the case of a body corporate or partnership, a fine of up to $50,000.
+
+**Offence relating to cash transactions**
+
+### 105A Contravention of section 67A
+(1) A person commits an offence who contravenes section 67A.
+(2) A person who commits an offence under subsection (1) is liable, on conviction, to,—
+  (a) in the case of an individual, either or both of the following:
+    (i) a term of imprisonment of not more than 2 years:
+    (ii) a fine of up to $300,000; and
+  (b) in the case of a body corporate or partnership, a fine of up to $5 million.
 
 **Offences relating to cross-border transportation of cash**
 
