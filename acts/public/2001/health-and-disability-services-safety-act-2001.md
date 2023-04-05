@@ -1,5 +1,5 @@
 # Health and Disability Services (Safety) Act 2001
-_Consolidation as at 2022-07-01_
+_Consolidation as at 2023-04-05_
 
 ### 1 Title
 This Act is the Health and Disability Services (Safety) Act 2001.
@@ -329,6 +329,7 @@ If required by section 18 or section 19 or section 24 to consult on a matter rel
   (a) any incident or situation (for example, a fire, flood, or failure of equipment or facilities) that has put at risk, may have put at risk, puts at risk, or may be putting at risk the health or safety of people for whom the person was or is providing the services; and
   (b) any investigation commenced by a constable into any aspect of the services, their provision, or any premises in which they were provided; and
   (c) any death of a person to whom the person was providing the services, or occurring in any premises in which they were provided, that is required to be reported to a coroner under the Coroners Act 2006.
+(6) For the purposes of subsection (5)﻿(c), a coroner includes an associate coroner to the extent that they have the jurisdiction of a coroner under the Coroners Act 2006.
 
 **Auditing agencies**
 
