@@ -1,5 +1,5 @@
 # Te Ture mō Te Reo Māori 2016
-_Consolidation as at 2021-10-28_
+_Consolidation as at 2023-04-05_
 
 ## Part Te Wāhanga 1 — Ko te ingoa me ngā whakataunga tīmatanga i te reo Māori
 
@@ -556,7 +556,7 @@ The Māori language is an official language of New Zealand.
     (b) giving oral expression in Māori of words spoken in English
   - **legal proceedings** (whakahaerenga ā-ture) means—
     (a) proceedings before a court or tribunal named in Schedule 2:
-    (b) proceedings before a coroner:
+    (b) proceedings before a coroner or an associate coroner:
     (c) proceedings to inquire into and report on any matter of particular interest to iwi and Māori before—
       (i) an inquiry to which section 6 of the Inquiries Act 2013 applies:
       (ii) a tribunal or other body that has any of the powers of a commission of inquiry under any other enactment:
