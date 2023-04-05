@@ -1,5 +1,5 @@
 # Visiting Forces Act 2004
-_Consolidation as at 2021-10-28_
+_Consolidation as at 2023-04-05_
 
 ### 1 Title
 This Act is the Visiting Forces Act 2004.
@@ -20,10 +20,12 @@ The purpose of this Act is—
   - **applicable agreement** , in relation to a visiting force, means a status of forces agreement entered into between New Zealand and the sending State (the text of which agreement may, as provided in subsection (2), be set out in regulations made under section 23)
   - **armed forces** , in relation to a sending State, includes any armed forces raised in any territory for whose international relations the Government of that State is responsible
   - **Armed Forces of New Zealand** has the same meaning as Armed Forces has in section 2(1) of the Defence Act 1990
+  - **associate coroner** means a person who holds office as an associate coroner under the Coroners Act 2006
   - **civilian component** , in relation to a visiting force, means the civilian personnel who are neither New Zealand citizens nor ordinarily resident in New Zealand, and who—
     (a) are employed by or in the service of the visiting force; or
     (b) are serving with an organisation that, with the approval of the Government of New Zealand, is accompanying the visiting force; or
     (c) are attached to or accompanying the visiting force
+  - **coroner** includes an associate coroner to the extent that they have the jurisdiction of a coroner under the Coroners Act 2006
   - **dependant** , in relation to a visiting force, means a person who—
     (a) is not a member of the visiting force or its civilian component; and
     (b) is neither a New Zealand citizen nor ordinarily resident in New Zealand; and
