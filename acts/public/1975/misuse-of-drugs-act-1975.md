@@ -1,5 +1,5 @@
 # Misuse of Drugs Act 1975
-_Consolidation as at 2022-12-15_
+_Consolidation as at 2023-04-05_
 
 > An Act to consolidate and amend the Narcotics Act 1965 and to make further provision for the prevention of misuse of drugs
 
@@ -11,6 +11,7 @@ _Consolidation as at 2022-12-15_
 ### 2 Interpretation
 (1) In this Act, unless the context otherwise requires,—
   - **approved laboratory** means a laboratory for the time being approved under section 5A
+  - **associate coroner** means a person who holds office as an associate coroner under the Coroners Act 2006
   - **carrier** includes every person engaged in carrying goods (including mail) for hire or reward by any means, and whether by land, water, or air
   - **CBD product** has the meaning given in section 2A
   - **Class A controlled drug** means the controlled drugs specified or described in Schedule 1
@@ -22,6 +23,7 @@ _Consolidation as at 2022-12-15_
     (b) any pharmacy-only medicine or prescription medicine or restricted medicine within the meaning of the Medicines Act 1981; or
     (c) an approved product within the meaning of the Psychoactive Substances Act 2013
     (d) a non-psychoactive THC analogue
+  - **coroner** includes an associate coroner to the extent that they have the jurisdiction of a coroner under the Coroners Act 2006
   - **cultivate** includes sow or plant; and has a corresponding meaning
   - **dentist** means a health practitioner who is, or is deemed to be, registered with the Dental Council established by section 114(2) of the Health Practitioners Competence Assurance Act 2003 as a practitioner of the profession of dentistry
   - **dependent** means being in a state of periodic or chronic intoxication, produced by the repeated consumption, smoking, or other use of a controlled drug detrimental to the person in relation to whom the word is used, and involving a compulsive desire to continue consuming, smoking, or otherwise using the drug or a tendency to increase the dose of the drug; and has a corresponding meaning
@@ -415,8 +417,8 @@ For the purposes of this Act, the functions of the Minister include the provisio
 (1) Every person commits an offence who, without reasonable excuse, imports into, or exports from, New Zealand any precursor substance.
 (2) Without limiting the circumstances under subsection (1) in which a person may have a reasonable excuse, a person has a reasonable excuse if—
   (a) he or she imports a precursor substance into New Zealand in order that—
-    (i) a medical practitioner, dentist, or veterinarian may, in the circumstances referred to in section 8(2)﻿(a), produce or manufacture a controlled drug from the precursor substance; or
-    (ii) a pharmacist or any person with the authority and under the immediate supervision of a pharmacist may, in any of the circumstances referred to in section 8(2)﻿(b), produce or manufacture a controlled drug from the precursor substance; or
+    (i) a medical practitioner, dentist, or veterinarian may, in the circumstances referred to in section 8(1)﻿(a), produce or manufacture a controlled drug from the precursor substance; or
+    (ii) a pharmacist or any person with the authority and under the immediate supervision of a pharmacist may, in any of the circumstances referred to in section 8(1)﻿(b), produce or manufacture a controlled drug from the precursor substance; or
     (iii) the precursor substance be used for a lawful purpose (including, without limitation, an agricultural, commercial, or industrial purpose); or
   (b) the precursor substance that he or she is importing into, or exporting from, New Zealand has been lawfully supplied to that person for his or her own medical use; or
   (c) he or she exports a precursor substance from New Zealand in order that the precursor substance be used for a purpose that is authorised or lawful under the law of the country to which it is being exported.
