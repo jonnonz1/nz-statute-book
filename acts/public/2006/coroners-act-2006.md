@@ -1,5 +1,5 @@
 # Coroners Act 2006
-_Consolidation as at 2022-11-20_
+_Consolidation as at 2023-04-05_
 
 ### 1 Title
 This Act is the Coroners Act 2006.
@@ -80,6 +80,8 @@ In performing or exercising a function, power, or duty, a coroner must have rega
 
 ### 9 Interpretation
 In this Act, unless the context otherwise requires,—
+  - **approved form** means a form approved and issued under section 140B
+  - **associate coroner** means a person appointed under section 104A
   - **bodily sample** , in relation to a body,—
     (a) means a sample or specimen (whether of a body part, or of any other thing that is in or on the body, or of both) taken from the body by a pathologist after the death of the person concerned; and so
     (b) includes a sample or specimen so taken of blood or tissue, urine or other bodily fluids, or contents of the stomach or bowel, and a sample or specimen so taken that is, or is part of, the following:
@@ -211,11 +213,14 @@ In this Act, unless the context otherwise requires,—
 ### 11 Application of Act to deaths of members of visiting forces
 This Act is subject to section 19 of the Visiting Forces Act 2004, which applies to inquiries relating to members of visiting forces.
 
+### 11A Transitional, savings, and related provisions
+The transitional, savings, and related provisions set out in Schedule 1 have effect according to their terms.
+
 ### 12 Act binds the Crown
 This Act binds the Crown.
 
 ### 12A Transitional and savings provisions relating to amendments to this Act
-Schedule 1 contains transitional and savings provisions relating to amendments made to this Act that affect this Act’s other provisions (see section 143A).
+[Repealed]
 
 ## Part 2 — Deaths to be reported and post-mortems
 
@@ -261,7 +266,7 @@ Schedule 1 contains transitional and savings provisions relating to amendments m
 
 ### 16 Responsible coroner
 (1) The responsible coroner must perform every part of the coroner's role in relation to a death.
-(2) However, a duty coroner may from time to time perform or exercise a function, duty, or power on behalf of the responsible coroner.
+(2) However, a duty coroner may from time to time perform or exercise the functions, powers, and duties of the responsible coroner, including (without limitation) deciding not to open an inquiry into a death.
 (3) In this section, duty coroner means a coroner who is, for the time being, authorised by the chief coroner to perform or exercise any function, duty, or power that—
   (a) would ordinarily be performed or exercised by a responsible coroner; but
   (b) in the circumstances, is more appropriately performed or exercised by a coroner who is immediately available.
@@ -545,7 +550,7 @@ In section 38 and this section,—
 (1) The responsible coroner must, if not prohibited from doing so by section 43 or 44, authorise the release of the body concerned as soon as he or she is satisfied that it is no longer necessary to withhold it from family members.
 (2) The coroner may, if not prohibited from doing so by section 43 or 44, authorise the release of the body.
 (3) The coroner's authorisation must be—
-  (a) given by written notice in the prescribed form; and
+  (a) given by written notice in an approved form; and
   (b) signed by the coroner.
 (4) A body whose release a coroner has authorised under this section may be released accordingly.
 
@@ -615,7 +620,7 @@ In ascertaining whether the family members or other people to whom the body is t
 ### 52 Requests for return of retained parts and samples
 (1) This section applies to a request, under section 50 or 51, for the return of a body part or bodily sample.
 (2) If the request is not expressly confined to 1 or more specified parts or samples, it must be treated as seeking the return of all parts and samples retained in relation to the body concerned.
-(3) The request need not describe specifically or technically the part or sample, but must be in writing and may, but need not, be in a form approved for the purpose by the chief coroner.
+(3) The request need not describe specifically or technically the part or sample, but must be in writing and may, but need not, be in an approved form.
 
 ### 53 Parts and samples whose retention is not permitted must generally be returned when body released
 (1) A pathologist who is not permitted by section 48 to retain a body part or bodily sample must, to the extent that it has not been destroyed in the course of analysis conducted for the purposes of the post-mortem,—
@@ -762,9 +767,15 @@ In deciding whether to open and conduct an inquiry, a coroner must have regard t
   (f) any other matters the coroner thinks fit.
 
 ### 64 Duties of coroner who decides not to open inquiry
-(1) A coroner who decides not to open an inquiry into a death must notify the Secretary, in the prescribed form, of the decision.
-(2) The prescribed form must contain or have attached to it (as the case requires) the prescribed information (which must include the coroner's reasons for the decision).
-(3) The prescribed form must also be accompanied by a written statement as to the identity of the person concerned and that—
+(1) A coroner who decides not to open an inquiry into a death must notify the Secretary, in an approved form, of the decision.
+(2) An approved form must contain or have attached to it (as the case requires)—
+  (a) the coroner’s reasons for the decision not to open an inquiry; and
+  (b) the cause of death to the extent known.
+(2A) The coroner may record the cause of death in an approved form as presumed natural causes without investigation if the coroner is satisfied that—
+  (a) the evidence gathered to date raises a presumption that the death is from natural causes; and
+  (b) no further investigation is required to discharge the coroner’s role under this Act.
+(2B) The coroner is not required to provide information regarding the circumstances of the death if the coroner considers there is no public interest in doing so.
+(3) An approved form must also be accompanied by a written statement as to the identity of the person concerned and that—
   (a) is signed by the person making it; and
   (b) shows that the person's signature has been witnessed either by a constable or by a person (not being a constable) the coroner authorised to witness that signature.
 
@@ -776,7 +787,7 @@ In deciding whether to open and conduct an inquiry, a coroner must have regard t
 [Repealed]
 
 ### 67 Chief coroner and Secretary to be notified of inquiry
-A coroner who opens an inquiry under any of sections 60, 62, and 65, or in accordance with an order under any of sections 95 to 97, must notify the following, in the prescribed form, that the inquiry has been opened:
+A coroner who opens an inquiry under any of sections 60, 62, and 65, or in accordance with an order under any of sections 95 to 97, must notify the following, in an approved form, that the inquiry has been opened:
   (a) the chief coroner; and
   (b) the Secretary.
 
@@ -885,14 +896,31 @@ If satisfied that it is in the interests of justice, decency, public order, or p
 (2) The evidence received may be expert evidence.
 (3) Subsection (1) is subject to the rest of this Act.
 
-### 77 Hearings on papers and chambers findings
+### 77 Coroner may hold hearing on papers and make chambers findings
 (1) A coroner may, instead of holding an inquest, hold a hearing on the papers and make chambers findings if the coroner—
-  (a) gives notice to the persons specified in subsection (2) of the coroner's proposal to hold a hearing on the papers and make chambers findings; and
-  (b) has not, at the end of the period stated in the notice (which must be a period that the coroner considers reasonable in the circumstances), received any notification of an intention to give evidence, or cross-examine witnesses, in person.
-(2) The persons to whom the coroner must give notice under subsection (1)﻿(a) are—
-  (a) those persons who, under section 76, are persons from whom evidence is generally to be heard for the purposes of an inquiry; and
-  (b) those persons who, under section 89, are entitled to cross-examine witnesses at an inquest.
-(3) A coroner who has given notice under subsection (1)﻿(a) must hold an inquest instead of holding a hearing on the papers and making chambers findings if he or she receives a notification of the kind referred to in subsection (1)﻿(b).
+  (a) notifies interested parties of the coroner’s intention to hold a hearing on the papers and make chambers findings instead of holding an inquest; and
+  (b) allows a reasonable period for interested parties to make their views known to the coroner on whether—
+    (i) an inquest should be held; or
+    (ii) a hearing should proceed on the papers; and
+  (c) considers those views, among other relevant factors and information; and
+  (d) is satisfied that an inquest is not required for the discharge of the coroner’s role under this Act.
+(2) This section does not apply to an associate coroner.
+
+### 77A Associate coroner holds hearing on papers or refers death to chief coroner
+(1) An associate coroner may hold a hearing on the papers and make chambers findings if—
+  (a) the associate coroner considers an inquest may not be required, having considered the matters in section 80(2); and
+  (b) the associate coroner notifies interested parties of the associate coroner’s intention to hold a hearing on the papers and make chambers findings rather than refer the death to the chief coroner; and
+  (c) the associate coroner allows a reasonable period for interested parties to make their views known to the associate coroner on whether—
+    (i) an inquest should be held; or
+    (ii) a hearing should proceed on the papers; and
+  (d) no interested party expresses the view that an inquest should be held.
+(2) If an interested party expresses the view that an inquest should be held, or the associate coroner considers an inquest may be required,—
+  (a) the associate coroner must refer the death to the chief coroner; and
+  (b) the chief coroner must assign the death to a coroner (but not to an associate coroner).
+(3) The coroner who is assigned the death must decide whether to hold an inquest or a hearing on the papers.
+(4) If interested parties have been consulted, the coroner who is assigned the death—
+  (a) must consider the views (if any) expressed by the parties, among other relevant factors and information; and
+  (b) is not required to reconsult interested parties if the coroner decides to proceed by way of a hearing on the papers and make chambers findings.
 
 ### 78 Protection for witnesses and counsel
 The following have the same privileges and immunities as witnesses and counsel in courts of law:
@@ -980,15 +1008,20 @@ A person who gives evidence at an inquest—
 (1) This subsection applies to a coroner who—
   (a) intends to hold, or is holding, an inquest; and
   (b) is satisfied that it is necessary or desirable to have any evidence taken at a place other than the place where the inquest is to be, or is being, held.
-(2) A coroner to whom subsection (1) applies may, by written notice signed by the coroner, authorise some other coroner or, if no other coroner is available, a Justice to take the evidence.
-(3) A coroner or Justice taking evidence under subsection (2) has the same powers in respect of taking it as the coroner holding the inquest concerned, and must give notice under section 81 (date, etc, and notice of inquest) of the taking of the evidence as if it were the inquest concerned.
+(2) A coroner to whom subsection (1) applies may, by written notice signed by the coroner, authorise some other coroner or, if no other coroner is available, an associate coroner or a Justice to take the evidence.
+(3) A coroner, an associate coroner, or a Justice taking evidence under subsection (2) has the same powers in respect of taking it as the coroner holding the inquest concerned, and must give notice under section 81 (date, etc, and notice of inquest) of the taking of the evidence as if it were the inquest concerned.
 (4) The following sections apply to the taking of evidence under subsection (2) as if it were being taken at an inquest:
   (a) section 76 (people from whom evidence generally to be heard):
   (b) section 79(1) and (2) (admission and verification of evidence):
   (c) section 88 (evidence at inquest):
   (d) section 89 (others who may cross-examine at inquest):
   (e) section 90 (evidence by written statement confirmed by witness).
-(5) Evidence given by a witness under subsection (2) and admitted by a coroner or Justice must be put into writing, read over to or by the witness, and signed by the witness and the coroner or Justice, who must send it to the coroner holding the inquest concerned; and that coroner must receive it and act upon it as if it had been given and admitted at the inquest concerned.
+(5) Evidence given by a witness under subsection (2) and admitted by a coroner, an associate coroner, or a Justice must be—
+  (a) put into writing; and
+  (b) read over to or by the witness; and
+  (c) signed by the witness and the coroner, associate coroner, or Justice.
+(6) The coroner, associate coroner, or Justice must then send the evidence to the coroner holding the inquest concerned.
+(7) The coroner holding the inquest must receive the evidence and act upon it as if it had been given and admitted at the inquest concerned.
 
 **Completion of inquiries**
 
@@ -1005,15 +1038,17 @@ A person who gives evidence at an inquest—
 
 ### 93 Certificate of and written reasons for interim findings
 (1) Before concluding an inquiry, the coroner conducting it may, after considering all the evidence admitted to date for the purposes of the inquiry, and in the light of the purposes stated in section 57, complete and sign a certificate of interim findings in relation to the death concerned.
-(2) The certificate of interim findings must be in the prescribed form, which must require the coroner to state in writing the reasons for his or her interim findings.
+(1A) Another coroner may complete and sign the certificate if the coroner conducting the inquiry is not available.
+(2) The certificate of interim findings must be in an approved form, which must require the coroner to state in writing the reasons for his or her interim findings.
 (3) The coroner must send the completed and signed certificate of findings to the Secretary.
 
 ### 94 Certificate of and written reasons for findings
 (1) The coroner conducting and completing an inquiry must—
   (a) consider all the evidence admitted for the purposes of the inquiry; and
   (b) as soon as is reasonably practicable, and in light of the purposes stated in section 57, complete and sign a certificate of findings in relation to the death concerned.
-(2) The certificate of findings must be in the prescribed form, which must require the coroner to state in writing the reasons for his or her findings.
-(3) The certificate of findings may differ from, and once issued supersedes, any certificate of interim findings issued by the coroner in relation to the death concerned.
+(1A) Despite section 57(2)﻿(e), the coroner is not required to make findings in relation to the circumstances of the death concerned if the coroner considers there is no public interest in doing so.
+(2) The certificate of findings must be in an approved form, which must require the coroner to state in writing the reasons for his or her findings.
+(3) The certificate of findings may differ from, and once issued supersedes, any certificate of interim findings issued by a coroner in relation to the death concerned.
 (4) The coroner must send the completed and signed certificate of findings to the Secretary, together with—
   (a) all depositions of evidence admitted for the purposes of the inquiry; and
   (b) a certificate of the registration of the death (if applicable); and
@@ -1101,6 +1136,23 @@ The coroner on whom an order is served in accordance with section 100 must open 
 (8) A relief coroner acts in the place of, or helps, a coroner, but only when authorised to do so by the chief coroner.
 (9) A relief coroner who is acting in the place of a coroner may rely on actions by, or steps involving, the coroner, as if they were actions by, or steps involving, the relief coroner.
 
+### 104A Associate coroners
+(1) The Governor-General may, by warrant, appoint fit and proper people to be associate coroners.
+(2) Each one of those people must have held a practising certificate as a barrister or solicitor for at least 5 years.
+(3) The appointment must be for a period not exceeding 5 years, but the person is eligible to be reappointed for 1 or more further terms.
+(4) The appointment must be made on the advice of the Attorney-General, given after consultation with the Minister.
+(5) An associate coroner vacates that office, if they have not earlier done so in another way, on attaining the age of 70 years.
+(6) However, a former associate coroner of or over the age of 70 years may be reappointed as an associate coroner for 1 term that—
+  (a) is specified in the warrant of reappointment; and
+  (b) does not exceed 2 years.
+
+### 104B Coroners, relief coroners, and associate coroners may continue in office to complete investigations
+(1) A coroner, a relief coroner, or an associate coroner who has retired or whose term of office has expired may continue in office for the purpose of completing any investigations already commenced before their retirement or the expiry of their term.
+(2) A coroner, a relief coroner, or an associate coroner must not continue in office under subsection (1) for longer than 3 months without the consent of the Attorney-General.
+(3) The fact that a coroner, a relief coroner, or an associate coroner continues in office does not affect the power to appoint another person to the office.
+(4) A coroner, a relief coroner, or an associate coroner who continues in office is entitled to be paid the appropriate rate for the days or half-days worked in completing the investigation.
+(5) The appropriate rate is the rate of the remuneration and allowances to which the coroner, the relief coroner, or the associate coroner would have been entitled for those days or half-days if the coroner, the relief coroner, or the associate coroner had not retired or their term of office had not expired.
+
 ### 105 Chief coroner
 (1) The Governor-General must, by warrant, appoint a fit and proper person as chief coroner.
 (2) No person can be appointed under this section as chief coroner unless he or she is a District Court Judge or coroner immediately before being appointed as chief coroner, or is appointed as a coroner when appointed as the chief coroner.
@@ -1121,30 +1173,37 @@ The coroner on whom an order is served in accordance with section 100 must open 
 The Governor-General may appoint another coroner to act as chief coroner until the chief coroner resumes the performance and exercise of the functions, powers, and duties of that office if the chief coroner is, by illness, absence from New Zealand, or by some other cause, prevented from performing and exercising those functions, powers, and duties.
 
 ### 106A Attorney-General to publish information concerning coronial appointment process
-The Attorney-General must publish information explaining his or her processes for—
-  (a) seeking expressions of interest for the appointment of coroners; and
-  (b) nominating people for appointment as a coroner.
+(1) The Attorney-General must publish information explaining his or her processes for—
+  (a) seeking expressions of interest for the appointment of coroners and associate coroners; and
+  (b) nominating people for appointment as a coroner or an associate coroner.
+(2) The processes under subsection (1) may be different for coroners and associate coroners.
 
 ### 107 Concurrent office or employment
 (1) The chief coroner must, after consulting the Attorney-General, develop and publish a protocol specifying—
-  (a) the employment, or types of employment, that the Attorney-General considers to be compatible with being a coroner; and
-  (b) the offices, or types of offices, that the Attorney-General considers to be compatible with being a coroner.
-(2) The protocol may specify different employment or offices, or types of employment or types of offices, for relief coroners and other coroners.
+  (a) the employment, or types of employment, that the Attorney-General considers to be compatible with being a coroner or an associate coroner; and
+  (b) the offices, or types of offices, that the Attorney-General considers to be compatible with being a coroner or an associate coroner.
+(2) The protocol may specify different employment or offices, or types of employment or types of offices, for relief coroners and other coroners and associate coroners.
 (3) A coroner may hold another judicial office but must not undertake any other paid employment or hold any non-judicial office (whether paid or not) unless that employment or office is of a type specified in the protocol as being compatible with being a coroner.
+(4) An associate coroner may hold another judicial office but must not undertake any other paid employment or hold any non-judicial office (whether paid or not) unless that employment or office is of a type specified in the protocol as being compatible with being an associate coroner.
 
 ### 107A Recusal
-The chief coroner must, after consulting the Attorney-General, develop and publish guidelines to assist coroners to decide if they should recuse themselves from an inquiry.
+The chief coroner must, after consulting the Attorney-General, develop and publish guidelines to assist coroners and associate coroners to decide if they should recuse themselves from an inquiry.
 
-### 108 Coroners act full-time unless authorised to act part-time
+### 108 Coroners and associate coroners act full-time unless authorised to act part-time
 (1) A coroner acts as a coroner full-time unless he or she is authorised by the Attorney-General to act part-time.
-(2) The Attorney-General may, in accordance with subsection (4), authorise a coroner appointed under section 103 (coroners) or section 104 (relief coroners) to act part-time for any specified period.
-(3) To avoid doubt, an authorisation under subsection (2) may take effect as from a coroner's appointment or at any other time, and may be given more than once in respect of the same coroner.
-(4) The Attorney-General may (after consultation with the Minister) authorise a coroner to act part-time only—
-  (a) at the request of the coroner; and
+(1A) An associate coroner acts as an associate coroner full-time unless they are authorised by the Attorney-General to act part-time.
+(2) The Attorney-General may, in accordance with subsection (4), authorise the following people to act part-time for any specified period:
+  (a) a coroner appointed under section 103 (coroners) or section 104 (relief coroners):
+  (b) an associate coroner.
+(3) To avoid doubt, an authorisation under subsection (2) may—
+  (a) take effect as from the appointment of the coroner or the associate coroner or at any other time; and
+  (b) be given more than once in respect of the same coroner or associate coroner.
+(4) The Attorney-General may (after consultation with the Minister) authorise a coroner or an associate coroner to act part-time only—
+  (a) at the request of the coroner or the associate coroner; and
   (b) with the concurrence of the chief coroner.
 (5) In considering whether to concur under subsection (4)﻿(b), the chief coroner must have regard to the need for coronial investigations to be conducted in an orderly and expeditious way.
-(6) A coroner who is authorised to act part-time must resume acting full-time at the end of the authorised part-time period.
-(7) The basis on which a coroner acts must not be altered during the term of the coroner's appointment without the coroner's consent, but consent under this subsection is not necessary if the alteration is required by subsection (6).
+(6) A coroner or an associate coroner who is authorised to act part-time must resume acting full-time at the end of the authorised part-time period.
+(7) The basis on which a coroner or an associate coroner acts must not be altered during the term of their appointment without their consent, but consent under this subsection is not necessary if the alteration is required by subsection (6).
 (8) Nothing in this section applies to a person who (under section 22(a) of the District Court Act 2016) is a coroner by virtue of holding office as a District Court Judge.
 
 ### 109 Maximum number of coroners
@@ -1157,12 +1216,12 @@ The chief coroner must, after consulting the Attorney-General, develop and publi
   (e) the aggregate number (for example, 21.5) must not exceed the maximum number of coroners that is for the time being permitted by subsection (1).
 
 ### 110 Salaries and allowances
-(1) There must be paid to coroners (including the chief coroner, the deputy chief coroner, and any relief coroners), out of public money, without further authority than this section,—
+(1) There must be paid to coroners (including the chief coroner, the deputy chief coroner, and any relief coroners) and associate coroners, out of public money, without further authority than this section,—
   (a) salaries at the rates from time to time determined by the Remuneration Authority; and
   (b) the allowances from time to time determined by the Remuneration Authority; and
   (c) the additional allowances (if any), being travelling allowances or incidental or minor allowances, from time to time determined by the Governor-General.
-(2) A coroner's salary must not be diminished during the continuance of the coroner's appointment.
-(3) The salary and allowances payable for a period during which a coroner acts on a part-time basis must be calculated and paid as a pro-rata proportion of the salary and allowances of a full-time equivalent position.
+(2) The salary of a coroner or an associate coroner must not be diminished during the continuance of their appointment.
+(3) The salary and allowances payable for a period during which a coroner or an associate coroner acts on a part-time basis must be calculated and paid as a pro-rata proportion of the salary and allowances of a full-time equivalent position.
 (4) If the chief coroner ceases to hold that office but continues to hold office as a coroner, his or her salary and allowances may be reduced by the amount of any salary or allowances he or she received solely because of being the chief coroner.
 (4A) If the deputy chief coroner ceases to hold that office but continues to hold office as a coroner, his or her salary and allowances may be reduced by the amount of any salary or allowances he or she received solely because of being the deputy chief coroner.
 (5) For the purposes of subsection (2), the payment of salary and allowances on a pro-rata basis under subsection (3) or the payment of reduced salary and allowances under subsection (4) or (4A) is not a diminution in salary.
@@ -1175,16 +1234,17 @@ The chief coroner must, after consulting the Attorney-General, develop and publi
 ### 112 Resignation
 (1) A coroner who is not a District Court Judge may at any time resign the office by written notice to the Attorney-General.
 (2) A relief coroner may at any time resign the office by written notice to the Attorney-General.
+(3) An associate coroner may at any time resign the office by written notice to the Attorney-General.
 
-### 113 Complaints about coroners
-(1) Complaints about coroners' conduct may be made, received, and dealt with in accordance with the Judicial Conduct Commissioner and Judicial Conduct Panel Act 2004 because coroners are Judges as defined in section 5 of that Act.
+### 113 Complaints
+(1) Complaints about the conduct of coroners and associate coroners may be made, received, and dealt with in accordance with the Judicial Conduct Commissioner and Judicial Conduct Panel Act 2004 because coroners and associate coroners are Judges as defined in section 5 of that Act.
 (2) If a complaint is made about the conduct of the chief coroner and, under section 17 of that Act, the Commissioner or the Deputy Commissioner must refer the complaint to the chief coroner, the Commissioner or the Deputy Commissioner may also refer the complaint to the Attorney-General.
 
 ### 114 Removal
-(1) The Governor-General may, if he or she thinks fit, remove a coroner from office for inability or misbehaviour.
+(1) The Governor-General may, if he or she thinks fit, remove a coroner or an associate coroner from office for inability or misbehaviour.
 (2) Subsection (1) is subject to sections 33(2) and 34 of the Judicial Conduct Commissioner and Judicial Conduct Panel Act 2004, which prevent removal unless—
-  (a) a Judicial Conduct Panel has reported to the Attorney-General that it is of the opinion that consideration of the removal of the coroner is justified; or
-  (b) the coroner has been convicted of a criminal offence punishable by imprisonment for 2 or more years and the Attorney-General takes steps independently of that Act to initiate the removal of the coroner.
+  (a) a Judicial Conduct Panel has reported to the Attorney-General that it is of the opinion that consideration of the removal of the coroner or the associate coroner is justified; or
+  (b) the coroner or the associate coroner has been convicted of a criminal offence punishable by imprisonment for 2 or more years and the Attorney-General takes steps independently of that Act to initiate the removal of the coroner or the associate coroner.
 (3) Nothing in this section applies to a person who (under section 22(a) of the District Court Act 2016) is a coroner by virtue of holding office as a District Court Judge.
 
 **Administration**
@@ -1224,6 +1284,15 @@ The chief coroner must, after consulting the Attorney-General, develop and publi
 (5A) A coroner exercising the power under subsection (3)﻿(e) has the same powers that a Judge has under subpart 2 of Part 2 of the Contempt of Court Act 2019, and subpart 2 and sections 25 and 26(1) and (2) of that Act apply with the necessary modifications.
 (6) Evidence given by a person (whether at an inquest or otherwise) on oath or affirmation administered by a coroner under this section must, for the purposes of section 108 of the Crimes Act 1961 (which relates to perjury), be treated as having been given as evidence in a judicial proceeding on oath.
 (7) Nothing in this section limits any power of a coroner under any other enactment or the application of the Inferior Courts Procedure Act 1909 (which makes further provision for the validity of the judicial proceedings of inferior courts notwithstanding technical or formal errors) in respect of the exercise by a coroner of any judicial authority conferred on the coroner by this Act.
+
+### 117A Functions, powers, duties, and immunities of associate coroners
+(1) Except as set out in subsections (2) to (4), another provision of this Act, or in rules made under section 140A,—
+  (a) an associate coroner has the functions, powers, and duties of a coroner appointed under section 103; and
+  (b) an associate coroner has the immunities of a coroner under section 117; and
+  (c) references in this Act to a coroner, designated coroner, duty coroner, replacement coroner, or responsible coroner must be read, with the necessary modifications, as including an associate coroner.
+(2) An associate coroner does not have the functions, powers, or duties of a coroner to hold an inquest.
+(3) References in this Act or other legislation to a coroner holding an inquest do not include an associate coroner (but see section 91(2) to (7) if an associate coroner is authorised by a coroner to take evidence at a distance).
+(4) Subsection (1)﻿(c) does not apply to sections 103 to 114.
 
 ### 118 Coroner may call for investigations or examinations or commission reports
 (1) A coroner may cause to be made by other persons any investigations or examinations, or commission from them any reports, medical or otherwise, the coroner thinks proper—
@@ -1338,21 +1407,22 @@ A warrant under section 128 authorises a constable executing the warrant—
 (4) Any thing seized under subsection (1) must be delivered to the coroner who directed under section 31 the post-mortem of the body and must if practicable be returned promptly once it is no longer needed for the purposes of that post-mortem.
 
 ### 132 Chief coroner may issue practice notes
-(1) To help to inform, and to achieve consistency in, coronial decision-making and other coronial conduct, the chief coroner may issue to coroners written practice notes (not inconsistent with this Act).
-(2) Section 6 requires a coroner, in performing or exercising a function, power, or duty, to have regard to any practice note issued under this section that is relevant to the performance or exercise of the function, power, or duty.
-(3) Practice notes under this section may specify matters to which coroners must have regard in—
-  (a) making recommendations or comments (see section 57A):
-  (b) recommending to the chief coroner that a specialist adviser be appointed to sit with and help the coroner at an inquest (see section 83(2)):
-  (c) holding joint inquests (see section 84(3)):
-  (d) calling for investigations or examinations, or commissioning reports (see section 118(2)):
-  (e) managing the disclosure of evidence to witnesses appearing at a hearing:
-  (f) determining whether to hold a pre-hearing:
-  (g) determining whether a person is appropriately regarded as an expert in a particular area:
-  (h) determining the format of the coroner's written findings:
-  (i) co-ordinating with other investigating authorities, official bodies, and statutory officers who investigate deaths.
-(4) Subsection (3) does not limit subsection (1).
-(5) Before issuing a practice note (or an amendment, revocation, or replacement of a practice note) under this section, the chief coroner must take all reasonable steps to consult other coroners on the terms and effect of that practice note (or of that amendment, revocation, or replacement of a practice note).
-(6) The chief coroner must regularly review any practice notes issued under this section.
+(1) To help inform, and to achieve consistency in, coronial decision making and other coronial conduct, the chief coroner may issue to coroners and associate coroners written practice notes (not inconsistent with this Act).
+(2) Practice notes under this section may specify matters—
+  (a) to which coroners and associate coroners must have regard when—
+    (i) making recommendations or comments (see section 57A):
+    (ii) calling for investigations or examinations, or commissioning reports (see section 118(2)):
+    (iii) determining the format of their written findings:
+    (iv) co-ordinating with other investigating authorities, official bodies, and statutory officers who investigate deaths:
+  (b) to which coroners must have regard when—
+    (i) recommending to the chief coroner that a specialist adviser be appointed to sit with and help the coroner at an inquest (see section 83(2)):
+    (ii) holding joint inquests (see section 84(3)):
+    (iii) managing the disclosure of evidence to witnesses appearing at a hearing:
+    (iv) determining whether to hold a pre-hearing:
+    (v) determining whether a person is appropriately regarded as an expert in a particular area.
+(3) Subsection (2) does not limit subsection (1).
+(4) Before issuing a practice note (or an amendment, revocation, or replacement of a practice note) under this section, the chief coroner must take all reasonable steps to consult coroners and associate coroners about the terms and effect of that practice note (or of that amendment, revocation, or replacement of a practice note).
+(5) The chief coroner must regularly review any practice notes issued under this section.
 
 ### 133 Chief coroner must designate coroners for specified kinds of deaths
 (1) The chief coroner must from time to time, by notice in writing to the coroners concerned and to the New Zealand Police, designate coroners to receive, under section 15(2)﻿(a), reports of all deaths of a specified kind.
@@ -1374,16 +1444,16 @@ A warrant under section 128 authorises a constable executing the warrant—
 
 **Offences and penalties**
 
-### 134 Failure to supply information or documents or other things as required by coroner's notice under section 120
-Every person commits an offence against this section, and is liable on conviction to a fine not exceeding $1,000, who, without reasonable excuse, fails to comply with a notice under section 120 (coroner may by written notice require person to supply information or documents or other things) to the extent that the person is capable of complying with it.
+### 134 Failure to supply information or documents or other things as required by notice under section 120
+Every person commits an offence against this section, and is liable on conviction to a fine not exceeding $1,000, who, without reasonable excuse, fails to comply with a notice under section 120 to the extent that the person is capable of complying with it.
 
 ### 135 False or misleading statements and omissions in certain documents
 (1) Every person commits an offence against this section, and is liable on conviction to a fine not exceeding $1,000, who, in any document to which subsection (2) applies, makes a statement or omits any matter knowing that, or being reckless as to whether, the statement or omission makes the document false or misleading in a material particular.
 (2) This subsection applies to the following documents:
   (a) a doctor's report required under section 40:
   (b) a witness's evidence put into writing, read over to or by the witness, and signed by the witness, in accordance with section 79(3):
-  (c) reports commissioned by a coroner under section 118:
-  (d) documents prepared under section 120(1)﻿(a) (coroner may by written notice require person to supply information or documents or other things).
+  (c) reports commissioned under section 118:
+  (d) documents prepared under section 120(1)﻿(a).
 
 ### 136 Non-compliance with direction about removal of body
 Every person commits an offence against this section, and is liable on conviction to a fine not exceeding $2,000, who—
@@ -1391,12 +1461,12 @@ Every person commits an offence against this section, and is liable on convictio
   (b) hinders or prevents any person from complying with a direction about the removal of a body under section 20.
 
 ### 137 Failure or refusal to give report required
-Every pathologist or doctor commits an offence against this section, and is liable on conviction to a fine not exceeding $1,000, who, without reasonable excuse, fails or refuses to give to a coroner a report required under—
-  (a) section 31(6) (coroner may direct post-mortem); or
-  (b) section 40 (coroner may require person's doctor to report).
+Every pathologist or doctor commits an offence against this section, and is liable on conviction to a fine not exceeding $1,000, who, without reasonable excuse, fails or refuses to give a report required under—
+  (a) section 31(6); or
+  (b) section 40.
 
 ### 138 False or misleading statement for purposes of section 64(3)
-Every person commits an offence against this section, and is liable on conviction to imprisonment for a term not exceeding 7 years, who makes a written statement as to the identity of a person for the purposes of section 64(3) (duties of coroner who decides not to open inquiry)—
+Every person commits an offence against this section, and is liable on conviction to imprisonment for a term not exceeding 7 years, who makes a written statement as to the identity of a person for the purposes of section 64(3)—
   (a) knowing the statement to be false; and
   (b) intending to mislead people who might rely upon it.
 
@@ -1408,7 +1478,7 @@ Every person commits an offence against this section, and is liable on convictio
 (3) Subsection (1) does not apply to a person who hosts material on Internet sites or other electronic retrieval systems that can be accessed by a user, unless the specific information has been placed or entered on the site or system by that person.
 
 ### 139A Publication of information in contravention of section 74
-(1) A person commits an offence if the person publishes or permits to be published any information in contravention of a prohibition under section 74 (which empowers the coroner to prohibit the making public of evidence given at any part of inquiry proceedings).
+(1) A person commits an offence if the person publishes or permits to be published any information in contravention of a prohibition under section 74.
 (2) A person who commits an offence against subsection (1) is liable on conviction,—
   (a) in the case of a body corporate, to a fine not exceeding $5,000:
   (b) in any other case, to a fine not exceeding $1,000.
@@ -1422,6 +1492,17 @@ Every person commits an offence against this section, and is liable on convictio
   (b) providing for any other matters contemplated by this Act, necessary for its administration, or necessary for giving it full effect.
 (2) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
+### 140A Rules
+(1) The Governor-General may, with the concurrence of the chief coroner, make rules that—
+  (a) provide for any conditions or limitations on the exercise or performance of a coroner’s functions, powers, and duties by associate coroners:
+  (b) contain provisions that may be necessary to enable the proper exercise or performance by associate coroners of their functions, powers, and duties.
+(2) Rules made under this section are subject to section 117A(2) and (3).
+(3) Rules made under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+
+### 140B Secretary may approve forms
+(1) The Secretary may approve and issue forms for the purposes of this Act.
+(2) The Secretary must have the agreement of the chief coroner before approving and issuing forms.
+
 ### 141 Transitional provisions: amendments to Coroners Act 1988 effective day after assent are in Schedule 1
 [Repealed]
 
@@ -1431,8 +1512,8 @@ Every person commits an offence against this section, and is liable on convictio
 ### 143 Coroners Act 1988 repealed
 The Coroners Act 1988 (1988 No 111) is repealed.
 
-### 143A Transitional and savings provisions: arrangements effective after commencement of Coroners Amendment Act 2016 are in Schedule 1
-The transitional and savings provisions set out in Schedule 1 have effect after the commencement of the Coroners Amendment Act 2016.
+### 143A Transitional and savings provisions: arrangements effective after commencement of Coroners Amendment Act 2016 are in Part 1 of Schedule 1
+The transitional and savings provisions set out in Part 1 of Schedule 1 have effect after the commencement of the Coroners Amendment Act 2016.
 
 ### 144 Transitional provisions: arrangements effective on and after 1 July 2007 are in Schedule 3
 The repeal, by section 143, of the Coroners Act 1988, is subject to the provisions set out in Schedule 3.
@@ -1443,7 +1524,9 @@ The Judicial Conduct Commissioner and Judicial Conduct Panel Act 2004 is amended
 ### 146 Consequential amendments are in Schedule 5
 The Acts listed in Schedule 5 are amended in the manner indicated in that schedule.
 
-## Schedule 1 — Transitional and savings provisions effective after commencement of Coroners Amendment Act 2016
+## Schedule 1 — Transitional, savings, and related provisions
+
+### Part 1 — Transitional and savings provisions effective after commencement of Coroners Amendment Act 2016
 
 ### 1 Interpretation
 In this schedule,—
@@ -1519,6 +1602,18 @@ A practice note issued by the chief coroner under section 132 before the commenc
 (1) This clause applies to a coroner who, before the commencement date, was a designated coroner (within the meaning of section 9 as it read before the commencement date).
 (2) In respect of deaths where the date of death is earlier than the commencement date, the coroner remains the designated coroner (within the meaning of section 9 as it read before the commencement date).
 (3) In respect of deaths where the date of death is on or after the commencement date, the coroner must be treated as a designated coroner (within the meaning of section 9 as amended by the amendment Act).
+
+### Part 2 — Provisions relating to Coroners Amendment Act 2023
+
+### 6 Interpretation for this Part
+In this Part, commencement date means the date on which this Part comes into force.
+
+### 7 Continuation of section 77 if coroner has given notice before commencement date
+Section 77 (as it read before the commencement date) continues to apply as if the Coroners Amendment Act 2023 had not been enacted if—
+  (a) a coroner gives notice under section 77(1)﻿(a) before the commencement date; and
+  (b) the coroner receives a notification of the kind referred to in section 77(1)﻿(b)—
+    (i) before, on, or after the commencement date; but
+    (ii) within the notification period stated in the notice.
 
 ## Schedule 2 — Functions or powers available day after assent
 
