@@ -1,5 +1,5 @@
 # Judicial Conduct Commissioner and Judicial Conduct Panel Act 2004
-_Consolidation as at 2021-10-28_
+_Consolidation as at 2023-04-05_
 
 ### 1 Title
 This Act is the Judicial Conduct Commissioner and Judicial Conduct Panel Act 2004.
@@ -22,6 +22,7 @@ The purpose of this Act is to enhance public confidence in, and to protect the i
 
 ### 5 Interpretation
 In this Act, unless the context otherwise requires,—
+  - **associate coroner** means a person who holds office as an associate coroner under the Coroners Act 2006
   - **complaint** or —
     (a) means a complaint under section 11 about the conduct of a Judge; and
     (b) includes—
@@ -43,7 +44,7 @@ In this Act, unless the context otherwise requires,—
     (f) in relation to the District Court, the Chief District Court Judge:
     (g) in relation to the Environment Court, the Chief Environment Court Judge:
     (h) in relation to the Maori Land Court, the Chief Judge of the Maori Land Court:
-    (i) in relation to a coroner, the chief coroner
+    (i) in relation to a coroner or an associate coroner, the chief coroner
   - **Judge** —
     (a) means—
       (i) a Judge of the Supreme Court; or
@@ -55,7 +56,7 @@ In this Act, unless the context otherwise requires,—
       (vi) a District Court Judge; or
       (vii) a Judge of the Environment Court; or
       (viii) a Judge of the Maori Land Court; or
-      (ix) a coroner; and
+      (ix) a coroner or an associate coroner; and
     (b) includes a person who holds office as an acting Judge, or an acting Associate Judge; but
     (c) does not include a retired Judge or a former Judge
   - **Judicial Conduct Commissioner** or —
