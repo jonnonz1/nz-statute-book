@@ -1,5 +1,5 @@
 # Foreign Affairs Act 1988
-_Consolidation as at 2020-08-07_
+_Consolidation as at 2023-04-05_
 
 > An Act to make better provision for the conduct of relations between New Zealand and foreign states generally
 
@@ -20,6 +20,9 @@ In this Act, unless the context otherwise requires,—
   - **Secretary** means the Secretary of Foreign Affairs and Trade
   - **State** means any State, country, or territory; but does not include New Zealand
   - **State services** has the meaning given to it by section 5 of the Public Service Act 2020.
+
+### 2AA Transitional, savings, and related provisions
+The transitional, savings, and related provisions set out in Schedule 1 have effect according to their terms.
 
 ### 2A Maori name of Ministry of Foreign Affairs and Trade
 The name of the Ministry of Foreign Affairs and Trade is, in the Maori language, Manatū Aorere.
@@ -70,11 +73,28 @@ Any head of mission or head of post may, on conditions determined by the Secreta
 ### 12 Persons assigned overseas who are servicemen
 No person shall cease to be a serviceman (within the meaning of section 2 of the Defence Act 1971) for the purposes of that Act or the Armed Forces Discipline Act 1971 merely because that person is assigned or reassigned overseas under section 6.
 
+### 12A Consular loans
+(1) The Minister of Foreign Affairs, on behalf of the Crown, may lend money to—
+  (a) a New Zealand citizen who is outside New Zealand:
+  (b) a permanent resident who is outside New Zealand:
+  (c) an individual who is assisting a person referred to in paragraph (a) or (b) (an assisting party).
+(2) The Minister may lend money under subsection (1) if the Minister is satisfied that—
+  (a) a person referred to in subsection (1)﻿(a) or (b) is in distress; and
+  (b) exceptional circumstances exist; and
+  (c) lending money would provide short-term assistance consistent with New Zealand’s consular functions.
+(3) The Minister may lend money under subsection (1) on any terms and conditions that the Minister sees fit.
+(4) If the Minister lends money under subsection (1), the amount payable by the borrower is recoverable in a court of competent jurisdiction as a debt due to the Crown.
+(5) In this section,—
+  - **borrower** means a person or an assisting party who—
+    (a) received a loan under subsection (1); and
+    (b) has not fully repaid the amount payable under the loan
+  - **permanent resident** has the same meaning as in section 4 of the Immigration Act 2009.
+
 ### 13 Prerogative of Crown not affected
 Nothing in this Act extinguishes any power or authority that, if this Act had not been passed, would be exercisable by virtue of the prerogative of the Crown.
 
 ### 14 Consequential amendments, repeals, and savings
-(1) The enactments specified in the Schedule are hereby amended in the manner indicated in that schedule.
+(1) The enactments specified in Schedule 2 are hereby amended in the manner indicated in that schedule.
 (2) The following enactments are hereby repealed:
   (a) the Foreign Affairs Act 1983:
   (b) the Foreign Affairs Amendment Act 1988.
@@ -90,4 +110,13 @@ Nothing in this Act extinguishes any power or authority that, if this Act had no
 (5)
 (6)
 
-## Schedule  — Enactments amended
+## Schedule 1 — Transitional, savings, and related provisions
+
+### Part 1 — Provision relating to Foreign Affairs (Consular Loans) Amendment Act 2023
+
+### 1 Validation of consular loans
+(1) This clause applies to any lending of money by the Ministry in the period that started on 18 July 2013 and ended on 15 June 2020 for the purpose of providing consular assistance to a person outside New Zealand.
+(2) The lending is and always has been authorised for the purposes of section 65K of the Public Finance Act 1989.
+(3) In this clause, lend money has the meaning given in section 2(1) of the Public Finance Act 1989.
+
+## Schedule 2 — Enactments amended
