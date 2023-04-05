@@ -1,5 +1,5 @@
 # Commerce Act 1986
-_Consolidation as at 2023-01-24_
+_Consolidation as at 2023-04-05_
 
 > Title
 
@@ -43,7 +43,7 @@ The purpose of this Act is to promote competition in markets for the long-term b
     (c) any label, marking, or other writing that identifies or describes any thing of which it forms part, or to which it is attached by any means:
     (d) any book, map, plan, graph, or drawing:
     (e) any photograph, film, negative, tape, or other device in which 1 or more visual images are embodied so as to be capable (with or without the aid of some other equipment) of being reproduced
-  - **give effect to** , in relation to a provision of a contract, arrangement, or understanding, includes—
+  - **give effect to** , in relation to a provision of a contract, arrangement, understanding, or covenant, includes—
     (a) do an act or thing in pursuance of or in accordance with that provision:
     (b) enforce or purport to enforce that provision
   - **goods** —
@@ -72,7 +72,9 @@ The purpose of this Act is to promote competition in markets for the long-term b
   - **prescribed** means prescribed by regulations under this Act or by the Commission
   - **price** , includes valuable consideration in any form, whether direct or indirect; and includes any consideration that in effect relates to the acquisition or supply of goods or services, although ostensibly relating to any other matter or thing
   - **price fixing** has the meaning given in section 30A(2)
-  - **provision** , in relation to an understanding or arrangement, means any matter forming part of or relating to the understanding or arrangement
+  - **provision** ,—
+    (a) in relation to a covenant, means a term of the covenant; and
+    (b) in relation to an understanding or arrangement, means any matter forming part of or relating to the understanding or arrangement
   - **public service agency** means any of the agencies listed in section 10(a) of the Public Service Act 2020
   - **publicly available** , in relation to making a document or information available, means that—
     (a) the document or information is available for inspection, free of charge, on an Internet site that is publicly accessible at all reasonable times; and
@@ -93,6 +95,10 @@ The purpose of this Act is to promote competition in markets for the long-term b
     (b) a power to exercise, or control the exercise of, a right to vote attaching to any such share that carries the right to vote at meetings of the company:
     (c) a power to acquire or dispose of, or control the acquisition or disposition of, any such share:
     (d) a perpetual debenture and perpetual debenture stock
+  - **substantial** means real or of substance, except in—
+    (a) sections 36 and 36A when referring to a degree of power in a market; and
+    (b) section 47(3) and (4); and
+    (c) Part 4
   - **supply** ,—
     (a) in relation to goods, includes supply (or resupply) by way of gift, sale, exchange, lease, hire, or hire purchase; and
     (b) in relation to services, includes provide, grant, or confer; and
@@ -103,16 +109,16 @@ The purpose of this Act is to promote competition in markets for the long-term b
     (a) a Saturday, a Sunday, Waitangi Day, Good Friday, Easter Monday, Anzac Day, the Sovereign’s birthday, Te Rā Aro ki a Matariki/Matariki Observance Day, and Labour Day; and
     (ab) if Waitangi Day or Anzac Day falls on a Saturday or a Sunday, the following Monday; and
     (b) a day in the period commencing with 25 December in any year and ending with 15 January in the following year.
-(1A) In this Act (except sections 36, 36A, and 47(3) and (4)) substantial means real or of substance.
+(1A)
 (2) In this Act,—
   (a) a reference to engaging in conduct shall be read as a reference to doing or refusing to do any act, including—
     (i) the entering into, or the giving effect to a provision of, a contract or arrangement; or
     (ii) the arriving at, or the giving effect to a provision of, an understanding; or
-    (iii) the requiring of the giving of, or the giving of, a covenant:
+    (iii) the requiring of the giving of, or the giving effect to a provision of, or the giving of, a covenant:
   (b) a reference to conduct, when that expression is used as a noun otherwise than as mentioned in paragraph (a), shall be read as a reference to the doing of, or the refusing to do, any act, including—
     (i) the entering into, or the giving effect to a provision of, a contract or arrangement; or
     (ii) the arriving at, or the giving effect to a provision of, an understanding; or
-    (iii) the requiring of the giving of, or the giving of, a covenant:
+    (iii) the requiring of the giving of, or the giving of, or the giving effect to a provision of, a covenant:
   (c) a reference to refusing to do an act includes a reference to—
     (i) refraining (otherwise than inadvertently) from doing that act; or
     (ii) making it known that that act will not be done:
@@ -138,7 +144,10 @@ The purpose of this Act is to promote competition in markets for the long-term b
 (6) In this Act,—
   (a) a reference to a contract shall be construed as including a reference to a lease of, or a licence in respect of, any land or a building or part of a building, and shall be so construed notwithstanding any express reference in this Act to any such lease or licence:
   (b) a reference to making or entering into a contract, in relation to such a lease or licence, shall be read as a reference to granting or taking the lease or licence:
-  (c) a reference to a party to a contract, in relation to such a lease or licence, shall be read as including a reference to any person bound by, or entitled to the benefit of, any provision contained in the lease or licence.
+  (c) a reference to a party to a contract, in relation to such a lease or licence, shall be read as including a reference to any person bound by, or entitled to the benefit of, any provision contained in the lease or licence:
+  (d) a reference to a party to a covenant means a person who—
+    (i) is bound by, or entitled to the benefit of, the covenant; or
+    (ii) would be bound by, or entitled to the benefit of, the covenant if not for section 28(4) or 30C.
 (7) For the purposes of this Act, any 2 bodies corporate are to be treated as interconnected if—and interconnected bodies corporate has a corresponding meaning.
   (a) one of them is a body corporate of which the other is a subsidiary (within the meaning of section 5 of the Companies Act 1993); or
   (b) both of them are subsidiaries (within the meaning of that section) of the same body corporate; or
@@ -146,17 +155,17 @@ The purpose of this Act is to promote competition in markets for the long-term b
   (c) both of them are interconnected with bodies corporate that, in accordance with paragraph (a) or paragraph (b), are interconnected,—
 (7A) For the purposes of subsection (7)﻿(a) and (b), no body corporate may be regarded as a subsidiary (within the meaning of section 5 of the Companies Act 1993) of the Crown.
 (8) For the purposes of this Act,—
-  (a) any contract or arrangement entered into, or understanding arrived at by an association or body of persons, shall be deemed to have been entered into or arrived at by all the persons who are members of the association or body:
+  (a) any contract or arrangement entered into, or understanding arrived at, or covenant given or required to be given, by an association or body of persons, shall be deemed to have been entered into, arrived at, given, or required to be given by all the persons who are members of the association or body:
   (b) any recommendation made by an association or body of persons to its members or to any class of its members shall, notwithstanding anything to the contrary in the constitution or rules of the association or body of persons, be deemed to be an arrangement made between those members or the members of that class and between the association or body of persons and those members or the members of that class.
 (9) Nothing in subsection (8) applies to—
-  (a) any member of an association or body of persons who expressly notifies the association or body in writing that he disassociates himself from the contract, arrangement, or understanding or any provision thereof and who does so disassociate himself:
-  (b) to any member of an association or body of persons who establishes that he had no knowledge and could not reasonably have been expected to have had knowledge of the contract, arrangement, or understanding.
+  (a) any member of an association or body of persons who expressly notifies the association or body in writing that he disassociates himself from the contract, arrangement, understanding, or covenant or any provision thereof and who does so disassociate himself:
+  (b) to any member of an association or body of persons who establishes that he had no knowledge and could not reasonably have been expected to have had knowledge of the contract, arrangement, understanding, or covenant.
 
 ### 3 Certain terms defined in relation to competition
 (1) In this Act, competition means workable or effective competition.
-(1A) Every reference in this Act, except the reference in section 36A(2)(b) and (c), to the term market is a reference to a market in New Zealand for goods or services as well as other goods or services that, as a matter of fact and commercial common sense, are substitutable for them.
-(1B) The reference in section 36A(2)(b) to the term market, in relation to a market in Australia, is a reference to a market in Australia for goods or services as well as other goods or services that, as a matter of fact and commercial common sense, are substitutable for them.
-(1C) The reference in section 36A(2)(c) to the term market in relation to a market in New Zealand and Australia, is a reference to a market in New Zealand and Australia for goods or services as well as other goods or services that, as a matter of fact and commercial common sense, are substitutable for them.
+(1A) Every reference in this Act, except in section 36A, to the term market is a reference to a market in New Zealand for goods or services as well as other goods or services that, as a matter of fact and commercial common sense, are substitutable for them.
+(1B)
+(1C)
 (2) In this Act, unless the context otherwise requires, references to the lessening of competition include references to the hindering or preventing of competition.
 (3) For the purposes of this Act, the effect on competition in a market shall be determined by reference to all factors that affect competition in that market including competition from goods or services supplied or likely to be supplied by persons not resident or not carrying on business in New Zealand.
 (4) In sections 27 and 28, a reference to a market in relation to the purpose or effect in respect of competition of a provision of a contract, arrangement, or understanding, or of a covenant, or of conduct, shall be read as including a reference to—
@@ -168,7 +177,7 @@ The purpose of this Act is to promote competition in markets for the long-term b
 (6) For the purposes of section 28, a covenant shall be deemed to have or to be likely to have the effect of substantially lessening competition in a market if—taken together, have or are likely to have the effect of substantially lessening competition in that market.
   (a) that covenant; and
   (b) any other covenant to the benefit of which that person or an associated person (within the meaning of section 28(7)) is entitled or would be entitled if the covenant were enforceable—
-(7) For the purposes of sections 27 and 28, the engaging in conduct shall be deemed to have or to be likely to have the effect of substantially lessening competition in a market if—taken together, have or are likely to have the effect of substantially lessening competition in that market.
+(7) For the purposes of sections 27, 28, 36, and 36A, the engaging in conduct shall be deemed to have or to be likely to have the effect of substantially lessening competition in a market if—taken together, have or are likely to have the effect of substantially lessening competition in that market.
   (a) the engaging in that conduct; and
   (b) the engaging by that person in conduct of the same or a similar kind—
 (8)
@@ -196,11 +205,18 @@ Where the Commission is required under this Act to determine whether or not, or 
 (2) Notwithstanding any enactment or rule of law, proceedings under Part 6 may be brought against a body corporate referred to in subsection (1).
 
 ### 6A Special provisions relating to application of Act to the Crown in right of Australia and to Australian Crown corporations
-Section 36A, and Parts 6 and 7, in so far as they relate to a contravention of, or confer powers that may be exercised in relation to, that section, apply to—
+(1) The provisions referred to in subsection (2) apply to—
   (a) the Crown in right of the Commonwealth of Australia, each of the States of the Commonwealth of Australia, and the Northern Territory and the Australian Capital Territory, in so far as the Crown engages in trade; and
   (b) every body corporate that is an authority of the Commonwealth of Australia within the meaning of section 4 of the Competition and Consumer Act 2010 of the Parliament of the Commonwealth of Australia in so far as it engages in trade; and
   (c) every body corporate established for a purpose of a State of the Commonwealth of Australia by or under a law of that State in so far as it engages in trade; and
   (d) every body corporate in which a State of the Commonwealth of Australia or in which a body corporate referred to in paragraph (c) has a controlling interest in so far as it engages in trade.
+(2) For the purposes of subsection (1), the provisions are—
+  (a) section 36A; and
+  (b) Part 5, in so far as it relates to section 36A; and
+  (c) Schedule 1AA, in so far as it relates to section 36A; and
+  (d) Parts 6 and 7, in so far as they relate to a contravention of, or confer powers that may be exercised in relation to,—
+    (i) section 36A; or
+    (ii) Part 5 or Schedule 1AA (in so far as that Part or that schedule relates to section 36A).
 
 ### 6B Crown and Crown corporations not immune from jurisdiction in relation to certain provisions of Competition and Consumer Act 2010
 Neither the Crown nor a body corporate that is an instrument of the Crown in respect of the Government of New Zealand is immune, and neither the Crown nor such a body corporate may claim immunity, from the jurisdiction of the courts of New Zealand and Australia in relation to a contravention of section 46A of the Competition and Consumer Act 2010 of the Parliament of the Commonwealth of Australia and in relation to Parts VI and XII of that Act in so far as they relate to a contravention of that section.
@@ -211,10 +227,10 @@ The transitional, savings, and related provisions set out in Schedule 1AA have e
 ### 6C Application of Evidence Amendment Act 1980
 [Repealed]
 
-### 7 Law relating to restraint of trade and breaches of confidence not affected
+### 7 Relationship with law on restraint of trade
 (1) Nothing in this Act limits or affects any rule of law relating to restraint of trade not inconsistent with any of the provisions of this Act.
-(2) Nothing in this Act limits or affects any rule of law relating to breaches of confidence.
-(3) No rule of law referred to in subsection (1) or subsection (2) affects the interpretation of any of the provisions of this Act.
+(2)
+(3) No rule of law referred to in subsection (1) affects the interpretation of any of the provisions of this Act.
 
 ## Part 1 — The Commerce Commission
 
@@ -346,7 +362,7 @@ In addition to the functions conferred on the Commission by this Act, the Commis
 
 ## Part 2 — Restrictive trade practices
 
-**Practices substantially lessening competition**
+**Contracts, arrangements, understandings, or covenants substantially lessening competition**
 
 ### 27 Contracts, arrangements, or understandings substantially lessening competition prohibited
 (1) No person shall enter into a contract or arrangement, or arrive at an understanding, containing a provision that has the purpose, or has or is likely to have the effect, of substantially lessening competition in a market.
@@ -364,7 +380,7 @@ In addition to the functions conferred on the Commission by this Act, the Commis
 (5) No person shall—
   (a) threaten to engage in particular conduct if a person who, but for subsection (4), would be bound by a covenant, does not comply with the terms of the covenant; or
   (b) engage in particular conduct because a person who, but for subsection (4), would be bound by a covenant, has failed to comply, or proposes or threatens to fail to comply, with the terms of the covenant.
-(6) Where a person—that person shall, by issuing that invitation, making that offer, or making that fact known, be deemed to require the giving of the covenant.
+(6) For the purposes of this section, where a person—that person shall, by issuing that invitation, making that offer, or making that fact known, be deemed to require the giving of the covenant.
   (a) issues an invitation to another person to enter into a contract containing a covenant; or
   (b) makes an offer to another person to enter into a contract containing a covenant; or
   (c) makes it known that the person will not enter into a contract of a particular kind unless the contract contains a covenant of a particular kind or in particular terms,—
@@ -467,32 +483,33 @@ In addition to the functions conferred on the Commission by this Act, the Commis
 
 **Cartel provisions**
 
-### 30 Prohibition on entering into or giving effect to cartel provision
+### 30 Contracts, arrangements, understandings, or covenants containing cartel provisions prohibited
 (1) No person may—
   (a) enter into a contract or arrangement, or arrive at an understanding, that contains a cartel provision; or
+  (ab) give, or require the giving of, a covenant that contains a cartel provision; or
   (b) give effect to a cartel provision.
 (2) See section 80 for liability to a pecuniary penalty, and section 82B for criminal liability, for contravention of this section.
 
 ### 30A Meaning of cartel provision and related terms
-(1) A cartel provision is a provision, contained in a contract, arrangement, or understanding, that has the purpose, effect, or likely effect of 1 or more of the following in relation to the supply or acquisition of goods or services in New Zealand:
+(1) A cartel provision is a provision, contained in a contract, arrangement, understanding, or covenant, that has the purpose, effect, or likely effect of 1 or more of the following in relation to the supply or acquisition of goods or services in New Zealand:
   (a) price fixing:
   (b) restricting output:
   (c) market allocating.
-(2) In this Act, price fixing means, as between the parties to a contract, arrangement, or understanding, fixing, controlling, or maintaining, or providing for the fixing, controlling, or maintaining of,—
-  (a) the price for goods or services that any 2 or more parties to the contract, arrangement, or understanding supply or acquire in competition with each other; or
-  (b) any discount, allowance, rebate, or credit in relation to goods or services that any 2 or more parties to the contract, arrangement, or understanding supply or acquire in competition with each other.
+(2) In this Act, price fixing means, as between the parties to a contract, arrangement, understanding, or covenant, fixing, controlling, or maintaining, or providing for the fixing, controlling, or maintaining of,—
+  (a) the price for goods or services that any 2 or more parties to the contract, arrangement, understanding, or covenant supply or acquire in competition with each other; or
+  (b) any discount, allowance, rebate, or credit in relation to goods or services that any 2 or more parties to the contract, arrangement, understanding, or covenant supply or acquire in competition with each other.
 (3) In this Act, restricting output means preventing, restricting, or limiting, or providing for the prevention, restriction, or limitation of,—
-  (a) the production or likely production by any party to a contract, arrangement, or understanding of goods that any 2 or more of the parties to the contract, arrangement, or understanding supply or acquire in competition with each other; or
-  (b) the capacity or likely capacity of any party to a contract, arrangement, or understanding to supply services that any 2 or more parties to the contract, arrangement, or understanding supply or acquire in competition with each other; or
-  (c) the supply or likely supply of goods or services that any 2 or more parties to a contract, arrangement, or understanding supply in competition with each other; or
-  (d) the acquisition or likely acquisition of goods or services that any 2 or more parties to a contract, arrangement, or understanding acquire in competition with each other.
-(4) In this Act, market allocating means allocating between any 2 or more parties to a contract, arrangement, or understanding, or providing for such an allocation of, either or both of the following:
+  (a) the production or likely production by any party to a contract, arrangement, understanding, or covenant of goods that any 2 or more of the parties to the contract, arrangement, understanding, or covenant supply or acquire in competition with each other; or
+  (b) the capacity or likely capacity of any party to a contract, arrangement, understanding, or covenant to supply services that any 2 or more parties to the contract, arrangement, understanding, or covenant supply or acquire in competition with each other; or
+  (c) the supply or likely supply of goods or services that any 2 or more parties to a contract, arrangement, understanding, or covenant supply in competition with each other; or
+  (d) the acquisition or likely acquisition of goods or services that any 2 or more parties to a contract, arrangement, understanding, or covenant acquire in competition with each other.
+(4) In this Act, market allocating means allocating between any 2 or more parties to a contract, arrangement, understanding, or covenant, or providing for such an allocation of, either or both of the following:
   (a) the persons or classes of persons to or from whom the parties supply or acquire goods or services in competition with each other:
   (b) the geographic areas in which the parties supply or acquire goods or services in competition with each other.
 
 ### 30B Additional interpretation relating to cartel provisions
 In this Act, in relation to a cartel provision,—
-  (a) if a person is a party to a contract, arrangement, or understanding, each of the person's interconnected bodies corporate is taken to be a party to the contract, arrangement, or understanding; and
+  (a) if a person is a party to a contract, arrangement, understanding, or covenant, each of the person's interconnected bodies corporate is taken to be a party to the contract, arrangement, understanding, or covenant; and
   (b) if a person (person A) or any of person A's interconnected bodies corporate supplies or acquires goods or services in competition with another person (person B) or any of person B's interconnected bodies corporate, person A is taken to supply or acquire those goods or services in competition with person B; and
   (c) a reference to persons in competition with each other for the supply or acquisition of goods or services includes a reference to—
     (i) persons who are, or are likely to be, in competition with each other in relation to the supply or acquisition of those goods or services; and
@@ -500,19 +517,25 @@ In this Act, in relation to a cartel provision,—
 
 ### 30C Cartel provisions generally unenforceable
 (1) No cartel provision is enforceable.
-(2) However, nothing in subsection (1) affects the enforceability of a cartel provision in any contract to which section 31, 32, 33, 44A(4) or (5), or 44B applies.
+(2) However, nothing in subsection (1) affects the enforceability of a cartel provision in—
+  (a) a contract or covenant to which section 31 applies; or
+  (b) a contract to which section 32, 33, 44A(4) or (5), or 44B applies.
 
 ### 31 Exception for collaborative activity
 Exception for entering into cartel provision
 (1) Nothing in section 30(1)﻿(a) applies to a person in relation to a cartel provision if, at the time of entering into or arriving at the contract, arrangement, or understanding that contains the provision,—
   (a) the person and 1 or more other parties to the contract, arrangement, or understanding are involved in a collaborative activity; and
   (b) the cartel provision is reasonably necessary for the purpose of the collaborative activity.
+Exception for giving, or requiring the giving of, covenant containing cartel provision
+(1A) Nothing in section 30(1)﻿(ab) applies to a person in relation to a cartel provision if, at the time of giving, or requiring the giving of, a covenant that contains the provision,—
+  (a) the person and 1 or more other parties to the covenant are involved in a collaborative activity; and
+  (b) the cartel provision is reasonably necessary for the purpose of the collaborative activity.
 Exceptions for giving effect to cartel provision
 (2) Nothing in section 30(1)﻿(b) applies to a person in relation to a cartel provision if, at the time of giving effect to the cartel provision,—
-  (a) the person and 1 or more other parties to the contract, arrangement, or understanding that contains the provision are involved in a collaborative activity; and
+  (a) the person and 1 or more other parties to the contract, arrangement, understanding, or covenant that contains the provision are involved in a collaborative activity; and
   (b) the cartel provision is reasonably necessary for the purpose of the collaborative activity.
 (3) Nothing in section 30(1)﻿(b) applies to a person in relation to a cartel provision that constitutes a restraint of trade if—
-  (a) the person and 1 or more other parties to the contract, arrangement, or understanding that contains the provision were involved in a collaborative activity that has ended; and
+  (a) the person and 1 or more other parties to the contract, arrangement, understanding, or covenant that contains the provision were involved in a collaborative activity that has ended; and
   (b) the cartel provision was reasonably necessary for the purpose of the collaborative activity; and
   (c) the collaborative activity did not end because the lessening of competition between any 2 or more parties became its dominant purpose.
 Meaning of collaborative activity
@@ -544,31 +567,37 @@ A provision in a contract, arrangement, or understanding does not have the purpo
 ### 35 Contracts or covenants subject to authorisation not prohibited under certain conditions
 [Repealed]
 
-**Taking advantage of market power**
+**Misuse of market power**
 
-### 36 Taking advantage of market power
-(1) Nothing in this section applies to any practice or conduct to which this Part applies that has been authorised under Part 5.
-(2) A person that has a substantial degree of power in a market must not take advantage of that power for the purpose of—
-  (a) restricting the entry of a person into that or any other market; or
-  (b) preventing or deterring a person from engaging in competitive conduct in that or any other market; or
-  (c) eliminating a person from that or any other market.
-(3) For the purposes of this section, a person does not take advantage of a substantial degree of power in a market by reason only that the person seeks to enforce a statutory intellectual property right, within the meaning of section 45(2), in New Zealand.
-(4) For the purposes of this section, a reference to a person includes 2 or more persons that are interconnected.
+### 36 Misuse of market power
+(1) A person that has a substantial degree of power in a market must not engage in conduct that has the purpose, or has or is likely to have the effect, of substantially lessening competition in—
+  (a) that market; or
+  (b) any other market in which the person, or an interconnected person,—
+    (i) supplies or acquires, or is likely to supply or acquire, goods or services; or
+    (ii) supplies or acquires, or is likely to supply or acquire, goods or services indirectly through 1 or more other persons.
+(2) In this section, a person has a substantial degree of power in a market if—
+  (a) the person has a substantial degree of power in the market; or
+  (b) the person, together with 1 or more interconnected persons, has a substantial degree of power in the market; or
+  (c) 1 or more interconnected persons of the person have a substantial degree of power in the market; or
+  (d) 2 or more interconnected persons together have a substantial degree of power in the market.
 
-### 36A Taking advantage of market power in trans-Tasman markets
-(1) Nothing in this section applies to any practice or conduct to which this Part applies that has been authorised under Part 5.
-(2) A person must not, for any of the purposes specified in subsection (3), take advantage of the person's substantial degree of power (if any)—
-  (a) in a market; or
-  (b) in a market in Australia; or
-  (c) in a market in New Zealand and Australia.
-(3) The purposes are as follows:
-  (a) restricting the entry of a person into a market that is not a market exclusively for services:
-  (b) preventing or deterring a person from engaging in competitive conduct in a market that is not a market exclusively for services:
-  (c) eliminating a person from a market that is not a market exclusively for services.
-(4) For the purposes of this section, a person does not take advantage of a substantial degree of power in a market by reason only that the person seeks to enforce—
-  (a) a statutory intellectual property right, within the meaning of section 45(2), in New Zealand:
-  (b) a statutory intellectual property right in Australia.
-(5) For the purposes of this section, a reference to a person includes 2 or more persons that are interconnected.
+### 36A Misuse of market power in trans-Tasman markets
+(1) Subsection (2) applies if 1 or more of the following applies to a person:
+  (a) the person has a substantial degree of power in a market in New Zealand:
+  (b) the person has a substantial degree of power in a market in Australia:
+  (c) the person has a substantial degree of power in a market in New Zealand and Australia.
+(2) The person must not engage in conduct that has the purpose, or has or is likely to have the effect, of substantially lessening competition in—
+  (a) a market in New Zealand in which the person has a substantial degree of power (if any) and that is not a market exclusively for services; or
+  (b) any other market in New Zealand, not being a market exclusively for services, in which the person, or an interconnected person,—
+    (i) supplies or acquires, or is likely to supply or acquire, goods or services; or
+    (ii) supplies or acquires, or is likely to supply or acquire, goods or services indirectly through 1 or more other persons.
+(3) In this section, a person has a substantial degree of power in a market if—
+  (a) the person has a substantial degree of power in the market; or
+  (b) the person, together with 1 or more interconnected persons, has a substantial degree of power in the market; or
+  (c) 1 or more interconnected persons of the person have a substantial degree of power in the market; or
+  (d) 2 or more interconnected persons together have a substantial degree of power in the market.
+(4) In this section, market means a market for goods or services as well as other goods or services that, as a matter of fact and commercial common sense, are substitutable for them.
+(5) Section 36A does not limit section 36.
 
 ### 36B Purposes may be inferred
 The existence of any of the purposes specified in section 36 or section 36A, as the case may be, may be inferred from the conduct of any relevant person or from any other relevant circumstances.
@@ -678,6 +707,7 @@ For the purposes of section 38,—
     (ii) an activity ancillary to a specified activity that is reasonably necessary for the purposes of the co-operation.
 (7) For the purposes of subsection (6)﻿(a), parties to the contract, arrangement, or understanding excludes persons who are parties only because section 30B(a) applies.
 (8) In this section,—
+  - **cartel provision** means a cartel provision in a contract, arrangement, or understanding
   - **specified activity** means any of the following:
     (a) the co-ordination of schedules and the determination of port calls:
     (b) the exchange, sale, hire, or lease (including the sublease) of space on a ship:
@@ -694,28 +724,18 @@ For the purposes of section 38,—
   (c) the provision relates to the exchange, sale, hire, or lease (including the sublease) of space on a ship between the person and 1 or more parties to the contract, arrangement, or understanding; and
   (d) the exchange, sale, hire, or lease (including the sublease) is carried out for the purposes of the co-operation.
 (4) For the purposes of subsection (3)﻿(a), parties to the contract, arrangement, or understanding excludes persons who are parties only because section 30B(a) applies.
+(5) In this section, cartel provision means a cartel provision in a contract, arrangement, or understanding.
 
 ### 45 Exceptions in relation to intellectual property rights
-(1) Nothing in this Part, except sections 36, 36A, 37, and 38, applies—
-  (a) to the entering into of a contract or arrangement or arriving at an understanding in so far as it contains a provision authorising any act that would otherwise be prohibited by reason of the existence of a statutory intellectual property right; or
-  (b) to any act done to give effect to a provision of a contract, arrangement, or understanding referred to in paragraph (a).
-(2) For the purposes of subsection (1), a statutory intellectual property right means a right, privilege, or entitlement that is conferred, or acknowledged as valid, by or under—
-  (a) the Patents Act 2013; or
-  (b) the Designs Act 1953; or
-  (c) the Trade Marks Act 2002; or
-  (d) the Copyright Act 1994; or
-  (e) the Plant Variety Rights Act 2022; or
-  (f) the Layout Designs Act 1994.
-(3) For the purposes of subsection (2),—
-  (a) a person who has applied for a patent in accordance with the Patents Act 2013 and filed the complete specification in relation to the application shall, until the application is determined, be deemed to have been granted the patent to which the application relates:
-  (b) a person who has made an application for the registration of a design in accordance with section 7 of the Designs Act 1953 shall, until the application is determined, be deemed to be the registered proprietor of the design:
-  (c) a person who has made an application in accordance with section 32 of the Trade Marks Act 2002 for registration of a trade mark shall, until the application is determined, be deemed to be the registered proprietor of the trade mark:
-  (d) a person who has made an application in accordance with section 5 of the Plant Variety Rights Act 1987 shall, until the application is determined, be deemed to have been granted the plant variety rights to which the application relates.
+[Repealed]
 
 ### 46 Saving in respect of business acquisitions
 Nothing in this Part applies—
-  (a) to the entering into of a contract or arrangement or the arriving at of an understanding in so far as the contract, arrangement, or understanding contains a provision that provides for the acquisition or disposition of assets of a business or shares; or
-  (b) to any act done to give effect to a provision of a contract, arrangement, or understanding that provides for the acquisition or disposition of assets of a business or shares.
+  (a) to any of the following to the extent that the contract, arrangement, understanding, or covenant provides for the acquisition or disposition of assets of a business or shares:
+    (i) entering into a contract or an arrangement:
+    (ii) arriving at an understanding:
+    (iii) giving, or requiring the giving of, a covenant; or
+  (b) to any act done to give effect to a provision of a contract, arrangement, understanding, or covenant that provides for the acquisition or disposition of assets of a business or shares.
 
 ## Part 3 — Business acquisitions
 
@@ -2181,53 +2201,64 @@ This subpart does not limit subpart 2, which allows for regulation to be imposed
 (4) A person who wishes to carry out or enforce a covenant to which that person considers section 28 would apply, or might apply, may apply to the Commission for an authorisation to do so, and the Commission may grant an authorisation for that person to carry out or enforce the covenant.
 (5)
 (6)
+(6A) A person who wishes to engage in conduct to which that person considers section 36 or 36A would apply, or might apply, may apply to the Commission for an authorisation to do so, and the Commission may grant an authorisation for that person to engage in that conduct.
+(6B) A person who wishes to enter into a contract or an arrangement, or arrive at an understanding, that contains a provision that is, or might be, a cartel provision may apply to the Commission for an authorisation to do so, and the Commission may grant an authorisation for that person to enter into the contract or arrangement, or arrive at the understanding.
+(6C) A person who wishes to give, or require the giving of, a covenant that contains a provision that is, or might be, a cartel provision may apply to the Commission for an authorisation to do so, and the Commission may grant an authorisation for that person to give, or require the giving of, the covenant.
+(6D) A person who wishes to give effect to a provision of a contract, arrangement, understanding, or covenant that is, or might be, a cartel provision may apply to the Commission for an authorisation to do so, and the Commission may grant an authorisation for that person to give effect to that provision.
 (7) A person who wishes to engage in the practice of resale price maintenance to which that person considers section 37 would apply, or might apply, may apply to the Commission for an authorisation to do so, and the Commission may grant an authorisation for that person to engage in the practice.
 (8) A person who wishes to do an act to which that person considers section 38 would apply, or might apply, may apply to the Commission for an authorisation to do so, and the Commission may grant an authorisation for that person to do that act.
 
 ### 58A Effect of authorisation
-(1) While an authorisation under section 58(1) remains in force, nothing in section 27, 30, or 30C prevents an applicant from—
+(1) While an authorisation under section 58(1) remains in force, nothing in section 27, 30, 30C, 36, or 36A prevents an applicant from—
   (a) entering into, or in accordance with the authorisation, giving effect to or enforcing any provision of the contract to which the authorisation relates; or
   (b) entering into, or in accordance with the authorisation, giving effect to the arrangement to which the authorisation relates; or
   (c) arriving at, or in accordance with the authorisation, giving effect to the understanding to which the authorisation relates.
-(2) While an authorisation under section 58(2) remains in force, nothing in section 27, 30, or 30C prevents an applicant from—
+(2) While an authorisation under section 58(2) remains in force, nothing in section 27, 30, 30C, 36, or 36A prevents an applicant from—
   (a) in accordance with the authorisation, giving effect to or enforcing the contract to which the authorisation relates; or
   (b) in accordance with the authorisation, giving effect to the arrangement or understanding.
-(3) While an authorisation under subsection (3) of section 58 remains in force, nothing in section 28 shall prevent the applicant from—
+(3) While an authorisation under section 58(3) remains in force, nothing in section 28, 30, 30C, 36, or 36A prevents the applicant from—
   (a) requiring the giving of, or giving, the covenant to which the authorisation relates; or
   (b) carrying out or enforcing the terms of the covenant to which the authorisation relates in accordance with the authorisation.
-(4) While an authorisation under subsection (4) of section 58 remains in force, nothing in section 28 shall prevent the applicant from carrying out or enforcing the terms of the covenant to which the authorisation relates in accordance with the authorisation.
-(5) While an authorisation under subsection (7) of section 58 remains in force, nothing in section 37 shall prevent the applicant from engaging in the practice to which the authorisation relates in accordance with the authorisation.
-(6) While an authorisation under subsection (8) of section 58 remains in force, nothing in section 38 shall prevent the applicant from doing the act to which the authorisation relates in accordance with the authorisation.
+(4) While an authorisation under section 58(4) remains in force, nothing in section 28, 30, 30C, 36, or 36A prevents the applicant from carrying out or enforcing the terms of the covenant to which the authorisation relates in accordance with the authorisation.
+(4A) While an authorisation under section 58(6A) remains in force, nothing in section 27, 28, 30, 30C, 36, 36A, 37, or 38 prevents an applicant from engaging in conduct to which the authorisation relates in accordance with the authorisation.
+(4B) While an authorisation under section 58(6B) remains in force, nothing in section 27, 30, 30C, 36, or 36A prevents an applicant from—
+  (a) entering into the contract or arrangement, or arriving at the understanding, to which the authorisation relates; or
+  (b) in accordance with the authorisation, giving effect to any cartel provision in the contract, arrangement, or understanding to which the authorisation relates.
+(4C) While an authorisation under section 58(6C) remains in force, nothing in section 28, 30, 30C, 36, or 36A prevents an applicant from—
+  (a) giving, or requiring the giving of, the covenant to which the authorisation relates; or
+  (b) giving effect to any cartel provision of the covenant to which the authorisation relates in accordance with the authorisation.
+(4D) While an authorisation under section 58(6D) remains in force, nothing in section 27, 28, 30, 30C, 36, or 36A prevents an applicant from giving effect to any cartel provision of the contract, arrangement, understanding, or covenant to which the authorisation relates in accordance with the authorisation.
+(5) While an authorisation under section 58(7) remains in force, nothing in section 36, 36A, or 37 prevents the applicant from engaging in the practice to which the authorisation relates in accordance with the authorisation.
+(6) While an authorisation under section 58(8) remains in force, nothing in section 36, 36A, or 38 prevents the applicant from doing the act to which the authorisation relates in accordance with the authorisation.
 
 ### 58B Additional provisions relating to authorisations
-(1) Every authorisation granted by the Commission to a person under section 58 to—shall have effect as if it were also an authorisation in the same terms to every other person named or referred to in the application for the authorisation as a party to the contract, arrangement, or understanding, or the practice or act, or as a person who is or would be bound by, or entitled to the benefit of, the covenant, as the case may be.
-  (a) enter into a contract or arrangement or arrive at an understanding; or
-  (b) give effect to a provision of a contract, arrangement, or understanding; or
-  (c) require the giving of, or give, a covenant; or
-  (d) carry out or enforce the terms of a covenant; or
-  (e) engage in the practice of resale price maintenance; or
-  (f) do any act referred to in section 38,—
+(1) An authorisation granted to a person under section 58 has effect as if it were also an authorisation in the same terms to every other person named or referred to in the application for the authorisation as—
+  (a) a party to the contract, arrangement, understanding, conduct, practice, or act to which the application relates; or
+  (b) a person who is or would be bound by, or entitled to the benefit of, the covenant to which the application relates.
 (2) An authorisation granted to a person under section 58 may be expressed to apply to or in relation to another person who,—
   (a) in the case of an authorisation to enter into a contract or arrangement or arrive at an understanding, becomes a party to the proposed contract or arrangement at a time after it is entered into or becomes a party to the proposed understanding at a time after it is arrived at:
-  (b) in the case of an authorisation to give effect to a provision of a contract, arrangement, or understanding, becomes a party to the contract, arrangement, or understanding at a time after the authorisation is granted:
+  (b) in the case of an authorisation to give effect to a provision of a contract, arrangement, understanding, or covenant, becomes a party to the contract, arrangement, understanding, or covenant at a time after the authorisation is granted:
   (c) in the case of an authorisation to require the giving of, or to give, a covenant, becomes bound by, or entitled to the benefit of, the covenant at a time after the covenant is given:
   (d) in the case of an authorisation to carry out or enforce the terms of a covenant, becomes bound by, or entitled to the benefit of, the covenant at a time after the authorisation is granted.
 
 ### 59 Contracts or covenants subject to authorisation not prohibited under certain conditions
 (1) Despite anything in this Act, but subject to section 59B,—
-  (a) a contract to which section 27 applies may be entered into if the requirements of subsection (2) are complied with:
-  (b) a covenant to which section 28 applies may be required to be given, or may be given, if the requirements of subsection (2) are complied with.
+  (a) a contract to which section 27 or 30(1)﻿(a) applies may be entered into if the requirements of subsection (2) are complied with:
+  (aa) a contract the entry into which is, or the giving effect to a provision of which would be, conduct to which section 36 or 36A applies may be entered into if the requirements of subsection (2) are complied with:
+  (b) a covenant to which section 28 or 30(1)﻿(ab) applies may be required to be given, or may be given, if the requirements of subsection (2) are complied with:
+  (c) a covenant the requiring of the giving of which, or the giving of which, is conduct to which section 36 or 36A applies may be required to be given, or may be given, if the requirements of subsection (2) are complied with.
 (2) For the purposes of subsection (1), the requirements that must be met are,—
-  (a) in the case of a contract to which section 27 applies, that the contract is subject to a condition that the provision does not come into force unless and until authorisation is granted to give effect to it and that an application must be made for that authorisation within 15 working days after the contract is entered into:
-  (b) in the case of a covenant to which section 28 applies, that the covenant is subject to the condition that it does not have effect unless and until authorisation is granted to give effect to it and that application must be made for that authorisation within 15 working days after the covenant is made.
-(3) The condition referred to in subsection (2)﻿(a) or (b) may provide for the provision to come into force, or the covenant to have effect, as the case may be, on the basis of an interim authorisation being granted under section 65AAA, but only if the condition also provides for the provision or covenant to cease to have effect immediately if—
+  (a) in the case of a contract described in subsection (1)﻿(a), that the contract is subject to a condition that the provision does not come into force unless and until authorisation is granted to give effect to it and that an application must be made for that authorisation within 15 working days after the contract is entered into:
+  (aa) in the case of a contract described in subsection (1)﻿(aa), that the contract is subject to a condition that the contract does not come into force unless and until authorisation is granted to engage in the conduct to which section 36 or 36A applies and that an application must be made for that authorisation within 15 working days after the contract is entered into:
+  (b) in the case of a covenant described in subsection (1)﻿(b) or (c), that the covenant is subject to the condition that it does not have effect unless and until authorisation is granted to give effect to it, or to engage in the conduct to which section 36 or 36A applies, as the case may be, and that application must be made for that authorisation within 15 working days after the covenant is made.
+(3) The condition referred to in subsection (2)﻿(a), (aa), or (b) may provide for the provision or the contract to come into force, or the covenant to have effect, as the case may be, on the basis of an interim authorisation being granted under section 65AAA, but only if the condition also provides for the provision, contract, or covenant to cease to have effect immediately if—
   (a) the interim authorisation ceases to be in force; and
   (b) the authorisation under section 58 has not been granted.
 
 ### 59A When Commission may grant authorisation
 (1) The Commission may grant an authorisation to a person—
   (a) to enter into a contract or arrangement, or to arrive at an understanding, even though the contract or arrangement has been entered into, or the understanding has been arrived at, before the Commission makes a determination in respect of the application for that authorisation; or
-  (b) to give effect to a provision of a contract or arrangement entered into, or an understanding arrived at, even though the applicant has already given, or is already giving, effect to the provision before the Commission makes a determination in respect of the application for that authorisation; or
+  (b) to give effect to a provision of a contract or arrangement entered into, or an understanding arrived at, or a covenant given, even though the applicant has already given, or is already giving, effect to the provision before the Commission makes a determination in respect of the application for that authorisation; or
   (c) to require the giving of, or to give, a covenant even though the covenant has been given before the Commission makes a determination in respect of the application for that authorisation; or
   (d) to do an act or engage in conduct referred to in section 37 or section 38 even though the applicant has already done the act or is already engaging in the conduct before the Commission makes a determination in respect of the application for that authorisation.
 (2)
@@ -2255,26 +2286,29 @@ Nothing in section 59 or section 59A prevents conduct that occurred before an au
 (8) Any person who has made an application to the Commission for an authorisation may, at any time, by notice in writing to the Commission, withdraw the application.
 
 ### 61 Determination of applications for authorisation of restrictive trade practices
-(1) The Commission shall, in respect of an application for an authorisation under section 58, make a determination in writing—
+(1) The Commission must, in respect of an application for an authorisation under section 58, make a determination in writing—
   (a) granting such authorisation as it considers appropriate:
   (b) declining the application.
 (1A) If authorisation is not granted within 120 working days after the date on which the application is registered, the Commission is deemed to have declined the application, subject to any alternative timetable agreed between the Commission and the applicant.
 (2) Any authorisation granted pursuant to section 58 may be granted subject to such conditions not inconsistent with this Act and for such period as the Commission thinks fit.
-(3) The Commission shall take into account any submissions in relation to the application made to it by the applicant or by any other person.
-(4) The Commission shall state in writing its reasons for a determination made by it.
-(5) Before making a determination in respect of an application for an authorisation, the Commission shall comply with the requirements of section 62.
-(6) The Commission shall not make a determination granting an authorisation pursuant to an application under section 58(1) to (4) unless it is satisfied that—as the case may be, to which the application relates, will in all the circumstances result, or be likely to result, in a benefit to the public which would outweigh the lessening in competition that would result, or would be likely to result therefrom.
+(3) The Commission must take into account any submissions in relation to the application made to it by the applicant or by any other person.
+(4) The Commission must state in writing its reasons for a determination made by it.
+(5) Before making a determination in respect of an application for an authorisation, the Commission must comply with the requirements of section 62.
+(6) The Commission must not make a determination granting an authorisation relating to an application under section 58(1) to (6A) unless it is satisfied that—as the case may be, to which the application relates, will in all the circumstances result, or be likely to result, in a benefit to the public which would outweigh the lessening in competition that would result, or would be likely to result therefrom.
   (a) the entering into of the contract or arrangement or the arriving at the understanding; or
   (b) the giving effect to the provision of the contract, arrangement or understanding; or
   (c) the giving or the requiring of the giving of the covenant; or
-  (d) the carrying out or enforcing of the terms of the covenant—
+  (d) the carrying out or enforcing of the terms of the covenant; or
+  (e) engaging in the conduct—
 (6A) For the purposes of subsection (6), a lessening in competition includes a lessening in competition that is not substantial.
 (7)
-(8) The Commission shall not make a determination granting an authorisation pursuant to an application under section 58(7) or (8) unless it is satisfied that—as the case may be, will in all the circumstances result, or be likely to result, in such a benefit to the public that—
-  (a) the engaging in the practice of resale price maintenance to which the application relates; or
-  (b) the act or conduct to which the application relates—
-  (c) the engaging in the practice should be permitted; or
-  (d) the act or conduct should be permitted.
+(8) The Commission must not make a determination granting an authorisation relating to an application under section 58(6B) to (8) unless it is satisfied that the following matter to which the application relates will in all the circumstances result, or be likely to result, in such a benefit to the public that the matter should be permitted:
+  (a) entry into the contract or arrangement, or arriving at the understanding:
+  (b) giving, or requiring the giving of, the covenant:
+  (c) giving effect to the provision of the contract, arrangement, understanding, or covenant:
+  (d) engaging in the practice of resale price maintenance:
+  (e) the act or conduct.
+(9) For the purposes of section 58(6B) to (6D) and subsection (8)﻿(a) to (c), it is not necessary for the Commission to determine whether a particular provision is in fact a cartel provision, providing there are reasonable grounds for believing that it might be.
 
 ### 62 Commission to prepare draft determination in relation to restrictive trade practices
 (1) Before determining an application for an authorisation under section 58, the Commission shall prepare a draft determination in relation to the application.
@@ -2372,19 +2406,26 @@ Nothing in section 59 or section 59A prevents conduct that occurred before an au
 This section and sections 65AA to 65AD are repealed immediately after the expiry of the 6-month period that starts on the date on which the Epidemic Preparedness (COVID-19) Notice 2020 expires or is revoked.
 
 ### 65A Commission may give clearances relating to cartel provisions
-(1) A person who proposes to enter into a contract or arrangement, or arrive at an understanding, that contains, or may contain, a cartel provision may apply to the Commission for a clearance under this section.
+(1) A person who proposes to do any of the following may apply to the Commission for a clearance under this section:
+  (a) enter into a contract or an arrangement that contains, or may contain, a cartel provision:
+  (b) arrive at an understanding that contains, or may contain, a cartel provision:
+  (c) give, or require the giving of, a covenant that contains, or may contain, a cartel provision.
 (2) The Commission must give a clearance under this section if it is satisfied that—
-  (a) the applicant and any other party to the proposed contract, arrangement, or understanding are or will be involved in a collaborative activity; and
-  (b) every cartel provision in the contract, arrangement, or understanding is reasonably necessary for the purpose of the collaborative activity; and
-  (c) entering into the contract or arrangement, or arriving at the understanding, or giving effect to any provision of the contract, arrangement, or understanding, will not have, or would not be likely to have, the effect of substantially lessening competition in a market.
+  (a) the applicant and any other party to the proposed contract, arrangement, understanding, or covenant are or will be involved in a collaborative activity; and
+  (b) every cartel provision in the contract, arrangement, understanding, or covenant is reasonably necessary for the purpose of the collaborative activity; and
+  (c) the following will not have, or would not be likely to have, the effect of substantially lessening competition in a market:
+    (i) entering into the contract or arrangement:
+    (ii) arriving at the understanding:
+    (iii) giving, or requiring the giving of, the covenant:
+    (iv) giving effect to any provision of the contract, arrangement, understanding, or covenant.
 (3) For the purpose of subsection (2), it is not necessary for the Commission to determine whether a particular provision is in fact a cartel provision, providing there are reasonable grounds for believing it might be.
 (4) If clearance is not given within 30 working days after the date on which the application is registered in accordance with section 60(2)﻿(a), the Commission is deemed to have declined to give the clearance, subject to any alternative timetable agreed between the Commission and the person applying for clearance.
 
 ### 65B Effect of clearance under section 65A
 The effect of a clearance given under section 65A is that—
-  (a) a party to the contract, arrangement, or understanding to which the clearance relates does not contravene section 27 or 30 by entering into the contract or arrangement, or arriving at the understanding; and
-  (b) a person does not contravene section 27 or 30 by giving effect to any cartel provision in the contract, arrangement, or understanding to which the clearance relates; and
-  (c) section 30C(1) does not apply to any cartel provision in the contract, arrangement, or understanding.
+  (a) a party to the contract, arrangement, understanding, or covenant to which the clearance relates does not contravene section 27, 28, 30, 36, or 36A by entering into the contract or arrangement, or arriving at the understanding , or giving, or requiring the giving of, the covenant; and
+  (b) a person does not contravene section 27, 28, 30, 36, or 36A by giving effect to any cartel provision in the contract, arrangement, understanding, or covenant to which the clearance relates; and
+  (c) section 30C(1) does not apply to any cartel provision in the contract, arrangement, understanding, or covenant.
 
 ### 65C Procedures relating to clearances
 (1) Section 60 (except subsections (2)﻿(c) and (3)) applies to an application for a clearance under section 65A in the same way as it applies to an application for an authorisation made under section 58.
@@ -2430,7 +2471,7 @@ The effect of a clearance given under section 65A is that—
 (5) The Commission may consult with any person who, in the opinion of the Commission, is able to assist it in making a determination under section 66 or section 67, as the case may be.
 
 ### 69 Effect of clearance or authorisation
-Nothing in section 27, 47, or 47A applies to the acquisition of assets of a business or shares if the assets or shares are acquired in accordance with a clearance or an authorisation and while the clearance or authorisation is in force.
+Nothing in section 27, 36, 36A, 47, or 47A applies to the acquisition of assets of a business or shares if the assets or shares are acquired in accordance with a clearance or an authorisation and while the clearance or authorisation is in force.
 
 ### 69A Commission may accept undertakings
 (1) In giving a clearance or granting an authorisation under section 66 or section 67, the Commission may accept a written undertaking given by or on behalf of the person who gave a notice under section 66(1) or section 67(1), as the case may be, to dispose of assets or shares specified in the undertaking.
@@ -2663,7 +2704,8 @@ In any proceedings under this Part for a pecuniary penalty—
 ### 80C Court may order certain persons to be excluded from management of body corporate
 The court may make an order that a person must not, without the leave of the court, be a director or promoter of, or in any way, either directly or indirectly, be concerned or take part in the management of, a body corporate for a period not exceeding 5 years as may be specified in the order, if the court is satisfied on the application of the Commission that the person has, in contravention of section 30,—
   (a) entered into a contract or arrangement, or has arrived at an understanding, that contains a cartel provision; or
-  (b) given effect to a contract, arrangement, or understanding that contains a cartel provision.
+  (ab) given, or required the giving of, a covenant that contains a cartel provision; or
+  (b) given effect to a contract, arrangement, understanding, or covenant that contains a cartel provision.
   (c)
   (d)
 
@@ -2711,6 +2753,9 @@ The court may, on the application of the Commission or any other person, grant a
   (a) the person,—
     (i) in contravention of section 30(1)﻿(a), enters into a contract or arrangement, or arrives at an understanding, that contains a cartel provision; and
     (ii) intends, at that time, to engage in price fixing, restricting output, or market allocating; or
+  (ab) the person,—
+    (i) in contravention of section 30(1)﻿(ab), gives, or requires the giving of, a covenant that contains a cartel provision; and
+    (ii) intends, at the time the person gives or requires the giving of the covenant, to engage in price fixing, restricting output, or market allocating; or
   (b) the person,—
     (i) in contravention of section 30(1)﻿(b), gives effect to a cartel provision; and
     (ii) intends, at the time the cartel provision is given effect to, to engage in price fixing, restricting output, or market allocating.
@@ -2720,7 +2765,7 @@ The court may, on the application of the Commission or any other person, grant a
   (b) either,—
     (i) if it can be readily ascertained and if the court is satisfied that the offence occurred in the course of producing a commercial gain, 3 times the value of any commercial gain resulting from the contravention; or
     (ii) if the commercial gain cannot be readily ascertained, 10% of the turnover of the person and all its interconnected bodies corporate (if any) in each accounting period in which the contravention occurred.
-(4) See the exceptions set out in Part 2, which relate to conduct that would otherwise contravene section 30(1)﻿(a) or (b).
+(4) See the exceptions set out in Part 2, which relate to conduct that would otherwise contravene section 30(1)﻿(a), (ab), or (b).
 
 ### 82C Defence relating to exceptions to cartel prohibition
 (1) In a prosecution under section 82B, it is a defence if, at the time of the alleged contravention, the defendant believed on reasonable grounds that 1 or more of the exceptions set out in Part 2 applied in relation to the conduct that constituted the alleged contravention.
@@ -2953,9 +2998,9 @@ For the purposes of sections 85A and 85B, the court must not take into account a
   (a) varying the contract, in such manner as it thinks fit, not being a manner inconsistent with the provisions of this Act:
   (b) cancelling the contract:
   (c) requiring any person who is a party to the contract to make restitution or pay compensation to any other person who is a party to the contract.
-(3) Where a covenant is given in contravention of this Act, or as the case may be, the enforcement of the terms of a covenant would contravene this Act, the court may, in any proceedings under this Part, or on application made for the purpose by a person who, but for section 28(4) would be bound by or entitled to the benefit of the covenant or any person claiming through or under any such person, make an order—
+(3) Where a covenant is given in contravention of this Act, or as the case may be, the enforcement of the terms of a covenant would contravene this Act, the court may, in any proceedings under this Part, or on application made for the purpose by a party to the covenant or any person claiming through or under any such person, make an order—
   (a) varying the covenant, in such manner as it thinks fit, not being a manner inconsistent with the provisions of this Act:
-  (b) requiring any person who, but for section 28(4) would be bound by or entitled to the benefit of the covenant to make restitution or pay compensation to any other person who, but for section 28(4) would be bound by or entitled to the benefit of the covenant.
+  (b) requiring any party to the covenant to make restitution or pay compensation to any other person who, but for section 28(4) would be bound by or entitled to the benefit of the covenant.
 (4) Nothing in subsection (2) or subsection (3) shall prevent any proceedings being instituted or commenced under this Part.
 (5) Nothing in subpart 5 of Part 2 of the Contract and Commercial Law Act 2017 applies to any contract entered into in contravention of this Act or to any contract which contains a provision the giving effect to of which would constitute a contravention of this Act.
 (6) Notwithstanding any enactment or rule of law, where a contract is entered into in contravention of this Act by reason that the contract contains a particular provision, or the contract contains a provision which if given effect to would contravene this Act, the enforceability of any other provision of the contract shall not be affected by the existence of that provision.
@@ -2995,7 +3040,7 @@ The following persons may exercise the right of appeal pursuant to section 91:
   (b) in the case of an appeal against a determination of the Commission revoking or amending an authorisation pursuant to section 65(1) or revoking an authorisation and substituting a further authorisation pursuant to that subsection, the person to whom the authorisation was granted:
   (ba) in the case of an appeal against a determination of the Commission under section 65A,—
     (i) the person who applied for the clearance; and
-    (ii) any other person who is a party to the contract, arrangement, or understanding to which the application for clearance relates:
+    (ii) any other person who is a party to the contract, arrangement, understanding, or covenant to which the application for clearance relates:
   (c) in the case of an appeal against a determination of the Commission under section 66 in relation to a notice seeking a clearance,—
     (i) the person who sought the clearance; and
     (ii) any person whose assets, or the shares in which, are proposed to be acquired pursuant to the clearance:
@@ -3475,9 +3520,10 @@ Former sections 74A to 74C remain in force for the purposes of allowing a Commis
 ### Part 3 — Provision relating to COVID-19 Response (Further Management Measures) Legislation Act 2020
 
 ### 12 Application of provisions after repeal
-For the purposes of an application that is made during the epidemic period, sections 65AA to 65AD continue to apply as if they remained in force, despite their repeal by section 65AE, to the application including in relation to—
+(1) For the purposes of an application that is made during the epidemic period, sections 65AA to 65AD continue to apply as if they remained in force, despite their repeal by section 65AE, to the application including in relation to—
   (a) any authorisation or provisional authorisation granted on the application:
   (b) any appeal in relation to a determination of the Commission on the application.
+(2) Subclause (1) applies on and after section 65AE repeals sections 65AA to 65AD. If the epidemic period, as defined in section 65AA(1), ends on the date on which section 24 of the Commerce Amendment Act 2022 comes into force, see clause 20.
 
 ### Part 4 — Provisions relating to Commerce (Grocery Sector Covenants) Amendment Act 2022
 
@@ -3515,6 +3561,54 @@ In this Part, unless the context otherwise requires,—
 (3) The Commission may grant the authorisation.
 (4) Sections 58B, 59, 59A, and 61 apply in relation to an application made under this clause.
 (5) An authorisation granted under this clause may only take effect on or after the commencement date.
+
+### 18 Application of cartel prohibition to covenants in force before commencement date
+During the 1-year transitional period, nothing in section 30(1)﻿(b) applies in relation to a covenant that is given, or required to be given, before the commencement date.
+
+### 19 Application of sections 36 and 36A to contracts, arrangements, understandings, and covenants in force before commencement date
+Sections 36 and 36A apply to conduct that gives effect to a contract, arrangement, understanding, or covenant whether—
+  (a) the contract or arrangement was entered into before, on, or after the commencement date; or
+  (b) the understanding was arrived at before, on, or after the commencement date; or
+  (c) the covenant was given, or required to be given, before, on, or after the commencement date.
+
+### 20 Conduct authorised before sections 36 and 36A replaced continues to be authorised
+(1) Nothing in section 36 or 36A applies to any conduct—
+  (a) to which former Part 2 applied; and
+  (b) that, before the commencement date, was authorised under the former Part 5.
+(2) Nothing in section 36 or 36A applies to any conduct—
+  (a) to which former Part 2 applied; and
+  (b) in respect of which an application for an authorisation under the former Part 5 was—
+    (i) made before the commencement date; and
+    (ii) approved on or after the commencement date.
+(3) See former sections 36(1) and 36A(1).
+
+### 21 Application of former section 45 to existing statutory intellectual property rights
+Despite its repeal, former section 45(1)﻿(b) continues to apply during the 1-year transitional period in relation to a contract, arrangement, or understanding that was—
+  (a) described in former section 45(1)﻿(a); and
+  (b) entered into, or arrived at, before the commencement date.
+
+### 22 Sections 58A, 58B, and 59 apply to existing authorisations
+Sections 58A, 58B, and 59 apply to an authorisation granted by the Commission under former section 58 before the commencement date.
+
+### 23 Savings provisions if epidemic period under sections 65AA to 65AD ended by Amendment Act
+(1) This clause applies if the epidemic period, as defined in section 65AA(1), ends on the date on which section 24 of the Amendment Act comes into force (see section 65AA(1)﻿(b)﻿(ii).
+(2) If this clause applies, it applies in relation to the following applications for an authorisation that are made on or after the date on which the epidemic period ends but before the close of the 6-month period that starts on the date on which the Epidemic Preparedness (COVID-19) Notice 2020 expires or is revoked:
+  (a) an application for an authorisation under section 58(1), (2), or (6B):
+  (b) an application for an authorisation under section 58(6D) that relates to giving effect to a provision of a contract, arrangement, or understanding that is, or may be, a cartel provision.
+(3) Despite section 60(1), the Commission may, in its discretion, waive all or part of any fee payable for the application.
+(4) Despite section 61(5), the Commission may, in its discretion, determine the application without complying with section 62.
+
+### 24 Section 65B applies to existing clearances
+Section 65B applies to a clearance given by the Commission under former section 65A before the commencement date.
+
+### 25 Section 69 applies to existing clearances and authorisations
+Section 69 applies in relation to a clearance or an authorisation whether the clearance was given, or the authorisation was granted, before, on, or after the commencement date.
+
+### 26 Court may make order in relation to covenant only if given on or after commencement date
+Section 80C applies to a covenant only if the covenant is given, or required to be given, on or after the commencement date.
+
+### 27 Offence under section 82B(1)﻿(b) does not apply in relation to covenants given before commencement date
+Section 82B(1)﻿(b) does not apply to a person who gives effect to a cartel provision in a covenant given, or required to be given, before the commencement date.
 
 ## Schedule 1 — Classes of merger or takeover proposals requiring prior clearance or authorisation by the Commission
 
