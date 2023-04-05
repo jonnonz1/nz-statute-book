@@ -1,5 +1,5 @@
 # Search and Surveillance Act 2012
-_Consolidation as at 2022-11-15_
+_Consolidation as at 2023-04-05_
 
 ### 1 Title
 This Act is the Search and Surveillance Act 2012.
@@ -131,9 +131,10 @@ The purpose of this Act is to facilitate the monitoring of compliance with the l
 ### Subpart 1 — Rules about search warrant powers in relation to places, vehicles, and other things
 
 ### 6 Issuing officer may issue search warrant
-An issuing officer may issue a search warrant, in relation to a place, vehicle, or other thing, on application by a constable if the issuing officer is satisfied that there are reasonable grounds—
+(1) An issuing officer may issue a search warrant, in relation to a place, vehicle, or other thing, on application by a constable if the issuing officer is satisfied that there are reasonable grounds—
   (a) to suspect that an offence specified in the application and punishable by imprisonment has been committed, or is being committed, or will be committed; and
   (b) to believe that the search will find evidential material in respect of the offence in or on the place, vehicle, or other thing specified in the application.
+(2) This section does not apply to an application for a search warrant issued under section 18D.
 
 ### Subpart 2 — Warrantless powers to enter and search when effecting arrest
 
@@ -251,6 +252,130 @@ A constable may, without a warrant, enter and search a vehicle that is in a publ
 (3) A constable may, without a warrant, enter a place or vehicle, search it, seize any arms or any licence under the Arms Act 1983 found there, and detain the arms or licence if he or she has reasonable grounds to suspect that there are arms in the place or vehicle—
   (a) in respect of which a category 3 offence, a category 4 offence, or an offence against the Arms Act 1983 has been committed, or is being committed, or is about to be committed; or
   (b) that may be evidential material in relation to a category 3 offence, a category 4 offence, or an offence against the Arms Act 1983.
+
+### Subpart 6A — Warrants to search and seize weapons when there is gang conflict
+
+### 18A Interpretation
+In this subpart, unless the context otherwise requires,—
+  - **gang** has the same meaning as in section 4 of the Prohibition of Gang Insignia in Government Premises Act 2013
+  - **gang conflict** means ongoing dissension between 2 or more gangs, or factions within a gang, that—
+    (a) has involved, or is likely to involve, the use of weapons; and
+    (b) has presented, or is likely to present, a risk of harm to persons or damage to property
+  - **gang insignia** has the same meaning as in section 4 of the Prohibition of Gang Insignia in Government Premises Act 2013
+  - **gang member** —
+    (a) means an individual who is a member of a gang (including an individual who is a prospective member or nominee); and
+    (b) includes—
+      (i) an individual who demonstrates affiliation to a gang by displaying the gang’s insignia:
+      (ii) an individual who is involved in the affairs of a gang for the likely purpose of participating in a criminal activity
+  - **weapon** means—
+    (a) any arms; and
+    (b) any other item made, or modified, for use to cause bodily injury.
+
+### 18B Application for warrant to search places and vehicles and seize weapons
+If a gang conflict exists, a constable may apply to a Judge for a warrant to—
+  (a) search places and vehicles in an area for the purpose of locating weapons at, in, or on those places or in or on those vehicles; and
+  (b) seize any weapons found at, in, or on those places or in or on those vehicles.
+
+### 18C Content of application
+(1) An application made under section 18B must set out the following particulars:
+  (a) the name of the applicant; and
+  (b) the provision that authorises the making of the application; and
+  (c) the grounds on which the application is made (including the reasons why the applicant believes the legal requirements for issuing the warrant are satisfied); and
+  (d) a description of the area in which the gang conflict exists; and
+  (e) the name or names of the gang or gangs involved in the gang conflict; and
+  (f) a description of the area in which the search of places and vehicles is proposed to be conducted; and
+  (g) the name or names of the gang or gangs in that area involved in the gang conflict; and
+  (h) the names of any persons other than persons who are gang members of a gang referred to in paragraph (e) whose places and vehicles are proposed to be entered and searched; and
+  (i) the addresses or descriptions of the places proposed to be entered and searched; and
+  (j) a description of the vehicles proposed to be entered and searched; and
+  (k) the period for which the warrant is sought.
+(2) When considering an application made under section 18B, the Judge—
+  (a) may require the applicant to provide further information concerning the grounds on which the warrant is sought; but
+  (b) must not, in any circumstances, require the applicant to disclose the name, address, or any other identifying detail of an informant unless, and only to the extent that, that information is necessary for the Judge to assess either or both of the following:
+    (i) the credibility of the informant:
+    (ii) whether there is a proper basis for issuing the warrant.
+(3) The applicant must disclose in the application—
+  (a) details of any other application for a search warrant that the applicant knows to have been made within the previous 3 months in respect of any place or vehicle proposed to be searched; and
+  (b) the result of that application or those applications.
+(4) The applicant must, before applying for a search warrant under section 18B, make reasonable inquiries within the Police, for the purpose of complying with subsection (3).
+
+### 18D Issue of warrant to search places and vehicles in specified area and seize weapons
+(1) A Judge may issue a warrant on an application made under section 18B if the Judge is satisfied that there are reasonable grounds to believe that—
+  (a) a gang conflict exists; and
+  (b) 1 or more gangs involved in the gang conflict are in a specified area; and
+  (c) the issue of the warrant may reduce the risk of harm to people or property.
+(2) A Judge, if satisfied of either or both of the following matters, may issue a warrant authorising a search in the specified area of 1 or more specified places for the purpose of locating weapons and seizing any weapons found at, in, or on any of those places:
+  (a) there are reasonable grounds to suspect that the specified places are owned, occupied, or used by 1 or more gang members of a specified gang:
+  (b) there are reasonable grounds—
+    (i) to suspect that the specified places are owned, occupied, or used by 1 or more specified persons; and
+    (ii) to believe that the specified persons are encouraging or assisting in the gang conflict.
+(3) A warrant authorising the search of places specified under subsection (2) may only authorise the search of non-private premises if the Judge issuing the warrant is satisfied that there are reasonable grounds to suspect that the premises are being used by gang members to conduct gang-related activities involving weapons.
+(4) A Judge, if satisfied of either or both of the following matters, may issue a warrant authorising a search in the specified area of 1 or more specified vehicles for the purpose of locating weapons and seizing any weapons found in or on any of those vehicles:
+  (a) there are reasonable grounds to suspect the specified vehicles are owned or used by 1 or more gang members of a specified gang:
+  (b) there are reasonable grounds—
+    (i) to suspect that the specified vehicles are owned or used by 1 or more specified persons; and
+    (ii) to believe that the specified persons are encouraging or assisting in the gang conflict.
+(5) A warrant may also authorise a search within the specified area of any vehicles other than specified vehicles for the purpose of locating and seizing weapons found in or on the vehicles if a constable is satisfied that there are reasonable grounds to suspect that the vehicles are—
+  (a) owned or used by 1 or more gang members of a specified gang; or
+  (b) owned or used by 1 or more specified persons who are encouraging or assisting in the gang conflict.
+(6) In this section,—
+  - **specified area** means the area specified in the warrant by any description (for example, by geographical region) that enables the boundaries of the area to be ascertained, and may be any of the following:
+    (a) the same area as the area in which the gang conflict exists; or
+    (b) a different area to the area in which the gang conflict exists; or
+    (c) an area that includes part of the area in which the gang conflict exists; or
+    (d) an area within the area in which the gang conflict exists
+  - **specified gang** means a gang specified in a warrant issued under this section
+  - **specified person** means a person specified in a warrant issued under this section who is not a gang member of a specified gang
+  - **specified place** means a place specified in a warrant issued under this section
+  - **specified vehicle** means a vehicle specified in a warrant issued under this section.
+
+### 18E Places and vehicles may be searched on more than 1 occasion
+A warrant issued under section 18D may be executed on more than 1 occasion in respect of—
+  (a) different places or vehicles:
+  (b) the same place or vehicle, subject to any conditions specified in the warrant that the Judge considers reasonable.
+
+### 18F Form and content of warrant
+(1) This section applies in respect of a warrant issued under section 18D.
+(2) Every warrant must be in the prescribed form, if any.
+(3) Every warrant must be directed to a constable.
+(4) A warrant may be—
+  (a) executed by a constable:
+  (b) subject to any conditions specified in the warrant that the issuing Judge considers reasonable, including (without limitation)—
+    (i) any restriction on the time of execution that is reasonable:
+    (ii) a condition that the occupier or person in charge of a place must provide reasonable assistance to a constable executing the warrant if, in the absence of such assistance, it would not be practicable to execute the warrant without undue delay.
+(5) Every search warrant must contain, in reasonable detail, the following particulars:
+  (a) the name of the issuing Judge and the date on which the warrant was issued:
+  (b) the provision that authorises the issue of the warrant:
+  (c) a statement that the constable executing the warrant may use any assistance that is reasonable in the circumstances:
+  (d) a statement that any constable may execute the warrant:
+  (e) a statement that the constable executing the warrant may use any force, if authorised by this Act or any other enactment, that is reasonable in the circumstances to enter or break open or access any area within the place or vehicle being searched:
+  (f) a description of the area in which authorised searches of places and vehicles may be conducted (the specified area):
+  (g) to the extent that is applicable,—
+    (i) the addresses or descriptions of places in the specified area that are authorised to be searched (specified places):
+    (ii) the descriptions of vehicles in the specified area that are authorised to be searched (specified vehicles):
+    (iii) a statement that vehicles other than specified vehicles are authorised to be searched in the specified area in accordance with section 18D(5):
+    (iv) the name or names of the gang or gangs in the specified area involved in the gang conflict (specified gangs):
+    (v) the names of persons who are not gang members of a specified gang whose places and vehicles may be searched in the specified area (specified persons):
+  (h) a description of what may be seized:
+  (i) the period during which the warrant may be executed, being a period specified by the issuing Judge not exceeding 14 days from the date on which the warrant was issued:
+  (j) any conditions specified by the issuing Judge under subsection (4)﻿(b):
+  (k) an explanation of the availability of relevant privileges and an outline of how any of those privileges may be claimed (where applicable):
+  (l) a statement that any person found in the place or vehicle to be searched may be searched if there are reasonable grounds to believe that an item being searched for is on that person.
+(6) A person is not required, as a consequence of a condition imposed under subsection (4)﻿(b), to give any information tending to incriminate the person.
+(7) In this section, issuing Judge, in relation to a warrant issued under section 18D, means the Judge issuing the warrant.
+
+### 18G Judge may require warrant report
+(1) A Judge who issues a warrant under section 18D may impose a condition under section 18F(4)﻿(b) requiring the Commissioner to provide the Judge with a search warrant report within a specified period after the expiry of the period during which the warrant may be executed.
+(2) A search warrant report must contain the following information:
+  (a) whether the warrant was executed; and
+  (b) whether the execution of the warrant resulted in the seizure of any weapons; and
+  (c) whether the execution of the warrant resulted in the seizure of evidential material, and, if so, whether that material was—
+    (i) a weapon seized under the warrant; or
+    (ii) material seized under section 123 or 123B; and
+  (d) whether any other powers exercised in conjunction with the execution of the warrant resulted in the seizure of evidential material; and
+  (e) whether any criminal proceedings have been brought, or are under consideration, that relate to—
+    (i) the weapons seized; or
+    (ii) any other evidential material seized.
 
 ### Subpart 7 — Police powers in relation to Misuse of Drugs Act 1975 offences
 
@@ -490,11 +615,13 @@ Nothing in this Part affects the common law defence of necessity as it applies t
 (1) Nothing in this subpart authorises any enforcement officer to undertake trespass surveillance (other than by means of a tracking device) except in order to obtain evidential material in relation to an offence—
   (a) that is punishable by a term of imprisonment of 7 years or more; or
   (b) against section 16(4), 16A, 42A, 42B, 43, 43AA, 44, 44AA, 44A, 45, 50, 50A, 50AA, 50B, 50C, 50CA, 50D, 51, 53A(2), 54, 55, or 55A of the Arms Act 1983; or
-  (c) against section 25, 26, or 70 of the Psychoactive Substances Act 2013.
+  (c) against section 25, 26, or 70 of the Psychoactive Substances Act 2013; or
+  (d) against section 308A of the Crimes Act 1961.
 (2) Nothing in this subpart authorises any enforcement officer to use an interception device except in order to obtain evidential material in relation to an offence—
   (a) that is punishable by a term of imprisonment of 7 years or more; or
   (b) against section 16(4), 16A, 42A, 42B, 44, 44A, 45, 50, 50A, 50B, 50C, 50D, 51, 53A(2), 54, 55, or 55A of the Arms Act 1983; or
-  (c) against section 25, 26, or 70 of the Psychoactive Substances Act 2013.
+  (c) against section 25, 26, or 70 of the Psychoactive Substances Act 2013; or
+  (d) against section 308A of the Crimes Act 1961.
 
 **Surveillance device warrants**
 
@@ -995,6 +1122,7 @@ In this subpart, unless the context otherwise requires,—
   (b) the result of that application or those applications.
 (4) The applicant must, before making an application for a search warrant, make reasonable inquiries within the law enforcement agency in which the applicant is employed or engaged, for the purpose of complying with subsection (3).
 (5) The issuing officer may authorise the search warrant to be executed on more than 1 occasion during the period in which the warrant is in force if he or she is satisfied that this is required for the purposes for which the warrant is being issued.
+(6) This section does not apply to an application made under section 18B (see section 18C).
 
 ### 99 Application must be verified
 An application for a search warrant must contain or be accompanied by a statement by the applicant confirming the truth and accuracy of the contents of the application.
@@ -1068,8 +1196,8 @@ An issuing officer must not issue a warrant to seize any thing held by a lawyer 
   (a) whether the search warrant was executed:
   (b) whether the execution of the search warrant resulted in the seizure of evidential material, and, if so, whether that material was material—
     (i) specified in the search warrant; or
-    (ii) seized under section 123; or
-    (iii) some of which was specified in the warrant and some of which was seized under section 123:
+    (ii) seized under section 123 or 123B; or
+    (iii) some of which was specified in the warrant and some of which was seized under section 123 or 123B:
   (c) whether any other powers exercised in conjunction with the execution of the warrant resulted in the seizure of evidential material:
   (d) whether any criminal proceedings have been brought, or are under consideration, that relate to any evidential material seized.
 
@@ -1242,6 +1370,88 @@ Every person called on to assist a person executing a search warrant authorising
   (b) any other search power exercisable by him or her under this Act or any other enactment.
 (3) If an enforcement officer seizes any item or items under subsection (2), in circumstances where he or she is not already exercising a search power, the enforcement officer may exercise any applicable power conferred by section 110 in relation to the seizure of the item or items.
 
+**Seizure of cash found in suspicious circumstances**
+
+### 123A Interpretation
+(1) In this section and sections 123B to 123E,—
+  - **authorised holding period** , in relation to cash seized, means the period for which the Police are authorised to hold the cash by an order made under—
+    (a) section 123C(3)﻿(a); or
+    (b) section 123C(7)
+  - **cash** means any of the following:
+    (a) cash as defined in section 5(1) of the Anti-Money Laundering and Countering Financing of Terrorism Act 2009:
+    (b) gold bars:
+    (c) gold ingots
+  - **cash seized** means cash seized under section 123B
+  - **cash seizure threshold amount** means—
+    (a) the amount of NZ$10,000 or an equivalent cash amount; or
+    (b) such other amount as may be prescribed by regulations made under section 342(2A) or an equivalent cash amount to the prescribed amount
+  - **enforcement officer** includes an aviation security officer as defined in section 2(1) of the Civil Aviation Act 1990.
+(2) For the purposes of sections 123B to 123E, cash is in the possession of a person if it is—
+  (a) on the person; or
+  (b) in a bag or receptacle owned by or carried by or with the person; or
+  (c) in or under the effective control of the person; or
+  (d) in a vehicle in which the person is the driver or an occupant.
+
+### 123B Seizure of cash of or over cash seizure threshold amount
+(1) This section applies to a constable who,—
+  (a) as part of their duties,—
+    (i) is exercising a search power; or
+    (ii) is lawfully in any place or in or on a vehicle; or
+    (iii) is conducting a lawful search of a person; and
+  (b) sees or finds cash in the possession of any person that the constable reasonably believes to be an amount of or over the cash seizure threshold amount.
+(2) This section also applies to a constable who is informed by an enforcement officer that the enforcement officer, while lawfully screening or searching any person, item, or vehicle as part of their duties, has seen or found cash in the possession of any person in suspicious circumstances.
+(3) The constable may question the person in the possession of the cash about—
+  (a) the origin of the cash; and
+  (b) the intended use for the cash.
+(4) The constable must advise the person in possession of the cash of the power of the constable, or of any person assisting the constable, to seize the cash under subsection (5).
+(5) The constable, or any person assisting the constable, may seize the cash if the constable—
+  (a) reasonably believes the cash to be an amount of or over the cash seizure threshold amount; and
+  (b) is not satisfied with the explanations given by the person in response to the questions put to the person under subsection (3); and
+  (c) has reasonable grounds to suspect that the cash is not of lawful or legitimate origin or derivation, or is to be used for, or to further, any unlawful or dishonest purpose.
+(6) As soon as is reasonably practicable, and in any case not later than 7 days after the cash is seized, a constable must—
+  (a) return the cash to the person from whom it was seized, or have made contact with that person or that person’s representative to arrange for the return of the cash; or
+  (b) release the cash to the owner of the cash (if the owner is not the person from whom the cash was seized); or
+  (c) make an application to the District Court under section 123C for Police to hold the cash for a further period.
+(7) Nothing in this section affects or limits the power of a constable to seize property that is given by or under any other legislative provision or by the common law.
+
+### 123C Application to retain cash seized for further period
+(1) A constable may apply to a District Court Judge for an order authorising the Police to hold any cash seized for a further period to enable investigations to continue to establish the origin of the cash or its intended use.
+(2) The Police may continue to hold the cash seized pending the determination or withdrawal of the application.
+(3) A District Court Judge may—
+  (a) grant the application if satisfied of the matters in subsection (4) and make an order authorising the Police to continue to hold the cash seized for a further period not exceeding 28 days from the date of the order; or
+  (b) decline the application and make directions for—
+    (i) the return of the cash to the person from whom the cash was seized; or
+    (ii) the release of the cash to the owner of the cash (if the owner is not the person from whom the cash was seized).
+(4) The matters referred to in subsection (3)﻿(a) are that the Police—
+  (a) continue to have reasonable grounds to suspect that the cash is not of lawful or legitimate origin or derivation, or is to be used for, or to further, any unlawful or dishonest purpose; and
+  (b) are—
+    (i) continuing investigations to establish the origin of the cash seized or its intended use; or
+    (ii) taking steps to commence proceedings under the Criminal Proceeds (Recovery) Act 2009 for a restraining order or forfeiture order in respect of the cash seized.
+(5) Before the expiry of the period specified in an order made under subsection (3)﻿(a) (the further period), a constable may make an application to the District Court to extend the further period for another period not exceeding 28 days commencing from the expiry of the further period to enable continuing investigations to establish the origin or intended use of the cash seized.
+(6) Only 1 application may be made under subsection (5).
+(7) A District Court Judge may grant an application made under subsection (5) if in respect of that application the Judge is satisfied of the matters in subsection (4).
+(8) However, in no case may an order be made under subsection (3)﻿(a), or be extended under subsection (7), if the effect of making or extending the order would be to authorise the Police to hold the cash seized for a period exceeding 63 days from the date on which it was seized.
+
+### 123D Return or release of cash seized
+(1) If any of the circumstances specified in subsection (2) exist, the Police must, as soon as is reasonably practicable,—
+  (a) return the cash seized to the person from whom it was seized, or make contact with the person or the person’s representative to arrange for the return of the cash; or
+  (b) release the cash to the owner of the cash (if the owner is not the person from whom the cash was seized).
+(2) The circumstances referred to in subsection (1) are that—
+  (a) the authorised holding period has ended and before the end of that period the Police did not commence proceedings under the Criminal Proceeds (Recovery) Act 2009 for a restraining order or forfeiture order in respect of the cash seized:
+  (b) any proceedings commenced under the Criminal Proceeds (Recovery) Act 2009 for a restraining order or forfeiture order in respect of the cash seized have been withdrawn or dismissed:
+  (c) the person from whom the cash was seized, or the owner of the cash, has requested the return of the cash and provided the Police with information about its origin and intended purpose and the Police, having considered all available information, are satisfied that the cash has lawful and legitimate origin or derivation and is not to be used for any unlawful or dishonest purpose.
+
+### 123E Application to District Court for return or release of cash seized
+(1) The person from whom the cash was seized, or the owner of the cash, may apply to the District Court for the return or release of the cash seized if—
+  (a) the person or owner has requested the Police to return the cash and that request has been refused; and
+  (b) the Police have not commenced proceedings under the Criminal Proceeds (Recovery) Act 2009 for a restraining order or forfeiture order in respect of the cash seized.
+(2) A District Court Judge may grant an application made under subsection (1) if, having regard to the following, the Judge is satisfied that it would be contrary to the interests of justice for the Police to continue to hold the cash:
+  (a) the value of the cash seized; and
+  (b) any loss or damage to the applicant that is caused, or is likely to be caused, by not returning or releasing the cash seized; and
+  (c) the need for the Police to continue to hold the cash seized for the purpose of—
+    (i) commencing proceedings under the Criminal Proceeds (Recovery) Act 2009 for a restraining order or forfeiture order; or
+    (ii) producing it as evidence in any other proceedings.
+
 **Search of persons**
 
 ### 124 Internal searches generally prohibited
@@ -1329,8 +1539,18 @@ If an enforcement officer exercises a power to stop a vehicle, he or she must, i
     (ii) identify himself or herself either by name or by unique identifier; and
     (iii) if not in Police uniform, produce evidence of his or her identity; and
   (b) before or on initial entry into or onto the place or vehicle, or other thing to be searched, provide the occupier of the place or the person in charge of the vehicle or other thing with—
-    (i) a copy of the search warrant; or
-    (ii) if the power is exercised without a warrant, the name of the enactment under which the search is taking place and the reason for the search under that enactment unless it is impracticable to do so in the circumstances.
+    (i) a copy of the search warrant (unless the warrant is issued under section 18D); or
+    (ii) if the power is exercised under a warrant issued under section 18D(2) or (3), a copy of the warrant redacted to show only the particular place in respect of which the search power is being exercised; or
+    (iii) if the power is exercised under a warrant issued under section 18D(4) or (5), or both, and it is reasonably practicable in the circumstances to do so, to the extent applicable in relation to the particular search,—
+      (A) a copy of the warrant redacted to show only the specified vehicle in respect of which the search power is being exercised:
+      (B) a copy of the warrant showing the authority to search vehicles other than specified vehicles, or redacted to show only the authority to search vehicles other than specified vehicles; or
+    (iv) if the power is exercised under a warrant issued under section 18D(4) or (5), or both, and it is not reasonably practicable in the circumstances to provide a copy of the warrant in accordance with subparagraph (iii),—
+      (A) the name of the enactment under which the search is taking place; and
+      (B) the reason for the search under that enactment; and
+      (C) advice about how a copy of the warrant referred to in subparagraph (iii) can be made available within 7 days after the date of the search; or
+    (v) if the power is exercised without a warrant and it is reasonably practicable in the circumstances to do so,—
+      (A) the name of the enactment under which the search is taking place; and
+      (B) the reason for the search under that enactment.
 (2) The person exercising the search power is not required to comply with subsection (1) if he or she has reasonable grounds to believe that—
   (a) no person is lawfully present in or on the place, vehicle, or other thing to be searched; or
   (b) compliance with subsection (1)﻿(a) would—
@@ -1343,9 +1563,14 @@ If an enforcement officer exercises a power to stop a vehicle, he or she must, i
 (4) If the occupier of a place is not present at any time during the search, or no person is in charge of the vehicle or other thing during the search, the person carrying out the search must,—
   (a) on completion of the search, leave a copy of the notice referred to in subsection (5) and a copy of the search warrant (if applicable), in a prominent position at the place, or in or on the vehicle or other thing; or
   (b) if this is not reasonably practicable, provide a copy of the notice referred to in subsection (5) and a copy of the search warrant (if applicable), to the occupier of the place or the owner of the vehicle or other thing no later than 7 days after the exercising of the power.
+(4A) In subsection (4), search warrant includes a search warrant redacted in accordance with subsection (1)﻿(b)﻿(ii) or (iii).
 (5) The notice required by subsection (4) is a written notice containing the following particulars:
   (a) the date and time of the commencement and completion of the search:
   (b) the name or unique identifier of the person who had overall responsibility for that search:
+  (ba) if the power is exercised under a warrant issued under section 18D(4) or (5), or both,—
+    (i) the name of the enactment under which the search took place; and
+    (ii) the reason for the search under that enactment; and
+    (iii) advice about how a copy of the warrant referred to in subsection (1)﻿(b)﻿(iii) can be made available within 7 days after the date of the search:
   (c) where the power is exercised without a warrant, the name of the enactment under which the search is taking place and the reason for the search under that enactment:
   (d) the address of the office to which inquiries should be made:
   (e) if nothing is seized, the fact that nothing was seized:
@@ -1540,6 +1765,7 @@ Any person who wishes to claim privilege in respect of any thing seized or sough
   (a) section 13 (which deals with property taken from people locked up in Police custody); and
   (b) subpart 5 of this Part (which relates to privilege and confidentiality); and
   (c) any other enactment.
+(3) This subpart does not apply to cash seized under section 123B of this Act.
 
 ### 150 Certain things must be returned
 (1) A thing seized or produced must, if it is not required for investigative or evidential purposes, or unless it is liable to forfeiture to the Crown or any other person (whether by operation of law or by order of a court or otherwise), be—
@@ -1656,6 +1882,20 @@ If a photograph or a copy of a seized or produced thing will be adequate for inv
   (b) the person to whom notice would otherwise be given under paragraph (a) cannot be located after reasonable inquiries have been made; or
   (c) in a case where a person objects to the destruction of the thing within 30 working days of receiving a notice under paragraph (a) and any person applies to a court to determine the status of the thing, the court is satisfied that the possession of the thing by the person from whom it was seized or who was required to produce it is unlawful under New Zealand law.
 
+### 160A Disposal of weapons
+(1) Subsection (2) applies if a weapon is seized as a result of the execution of a warrant issued under section 18D and—
+  (a) there is no mechanism provided for disposing of the weapon, or it has not been disposed of, under any other legislation; and
+  (b) no order has been made by a court in relation to the disposal of the weapon.
+(2) The Police may destroy the seized weapon if—
+  (a) notice is given to the person from whom the weapon was seized and that person—
+    (i) consents to its destruction; or
+    (ii) does not within 30 days consent to its destruction; or
+  (b) the person to whom the notice would otherwise be given under paragraph (a) cannot be located after reasonable inquiries have been made; or
+  (c) in a case where a person objects to the destruction of the weapon within 30 working days of receiving a notice under paragraph (a) and any person applies within that period to a court to determine the status of the weapon, the court is satisfied that—
+    (i) the possession of the weapon by the person from whom it was seized is unlawful under New Zealand law; or
+    (ii) there is no legitimate reason to own or possess the weapon and the destruction of the weapon is just.
+(3) In this section, weapon has the same meaning as in section 18A.
+
 ### 161 Disposal of forensic copies
 (1) A person who makes a forensic copy of any data held in a computer system or other data storage device must, if he or she determines that the data does not contain any evidential material, ensure that the forensic copy and any copies made from that copy are deleted, erased, or otherwise destroyed in a way that prevents retrieval of the copy or copies by any method.
 (2) However, if an examination of the data shows that it contains a mixture of data that is evidential material and data that is not evidential material,—
@@ -1723,6 +1963,7 @@ If there is any inconsistency between any of sections 164 to 167 and the provisi
 (1) The Commissioner must include in every annual report prepared by him or her for the purposes of section 43 of the Public Finance Act 1989—
   (a) the number of occasions on which entry or search powers under Part 2 or 3 of this Act were exercised without a warrant in the period covered by the report:
   (b) the number of occasions on which warrantless surveillance powers under Part 3 of this Act were exercised in the period covered by the report that involved the use of a surveillance device:
+  (ba) the matters set out in section 171A in relation to warrants under subpart 6A of Part 2 of this Act:
   (c) the number of applications for an examination order that were granted or refused in the period covered by the report:
   (d) in respect of each kind of surveillance device used without a warrant under Part 3 of this Act in the period covered by the report, the numbers of that kind of device used—
     (i) for a period of no more than 24 hours:
@@ -1755,6 +1996,17 @@ If there is any inconsistency between any of sections 164 to 167 and the provisi
   (c) the exercise of any power of entry that does not also confer a power of search:
   (d) a search undertaken by consent:
   (e) any prescribed search or surveillance, or search or surveillance of a prescribed kind, in any prescribed area or an area of a prescribed kind.
+
+### 171A Information to be included in report on warrants under subpart 6A of Part 2
+The following information is required by section 170(1)﻿(ba) to be included in an annual report:
+  (a) the number of applications made under section 18B in the period covered by the report:
+  (b) the number of warrants issued under section 18D in the period covered by the report:
+  (c) for each warrant issued under section 18D in the period covered by the report,—
+    (i) the number of searches conducted; and
+    (ii) the number of places searched (on 1 or more occasions); and
+    (iii) the number of vehicles searched (on 1 or more occasions); and
+    (iv) the number of weapons seized as a result of the places and vehicles searched:
+  (d) the number of persons charged in criminal proceedings where the collection of evidential material relevant to those proceedings was significantly assisted by the execution of a warrant issued under section 18D in the period covered by the report.
 
 ### 172 Information to be included in report on surveillance device warrants and declaratory orders
 The information required to be included in an annual report by section 170(1)﻿(f) or 171(1)﻿(e) is the following:
@@ -3459,6 +3711,7 @@ The Telecommunications (Residual Provisions) Act 1987 (1987 No 116) is repealed.
   (b) prescribe any form of warrant or order by listing the minimum information requirements to be included:
   (c) authorise a chief executive or any other specified person or class of person to authorise variations in the language, provisions, or format of any form of warrant or order in the warrant or order:
   (d) authorise a chief executive or any other specified class of person to include additional information in a prescribed form of warrant or order.
+(2A) The Governor-General may, by Order in Council, make regulations prescribing, for the purposes of the definition of cash seizure threshold amount in section 123A(1), an amount of New Zealand dollars that is more or less than $10,000.
 (3) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 **Transitional provisions**
