@@ -1,5 +1,5 @@
 # Transport Accident Investigation Commission Act 1990
-_Consolidation as at 2020-12-01_
+_Consolidation as at 2023-04-05_
 
 > An Act—ato establish the Transport Accident Investigation Commission, and to define its functions, duties, and powers; andbto regulate the disclosure and admissibility of certain transport accident or incident investigation information
 
@@ -179,7 +179,7 @@ For the purposes of this Part, unless the context otherwise requires,—
     (a) proceedings before a court or tribunal, including—
       (i) a court of inquiry under section 200A of the Armed Forces Discipline Act 1971; and
       (ii) proceedings relating to an offence under the Armed Forces Discipline Act 1971; and
-    (b) proceedings before any coroner; and
+    (b) proceedings before any coroner or associate coroner; and
     (c) an arbitration under the Arbitration Act 1996; and
     (d) proceedings before a commission of inquiry under the Commissions of Inquiry Act 1908 or a body, other than the Commission, having the powers or any of the powers of such a commission of inquiry; and
     (e) an inquiry or investigation by any person, other than the Commission, having authority to conduct the inquiry or investigation under any Act; and
@@ -288,7 +288,7 @@ The following actions do not constitute disclosure of a record referred to in se
 
 ### 14N Admissibility of accident or incident findings, recommendations, or report
 No findings or recommendations published, or report made after an investigation by the Commission are admissible as evidence in any proceedings except—
-  (a) a coroner's inquiry; or
+  (a) a coroner’s inquiry or an associate coroner’s inquiry; or
   (b) an application for review of a decision of the Commission.
 
 ### 14O Commission investigators not compellable to give opinion evidence in certain proceedings
