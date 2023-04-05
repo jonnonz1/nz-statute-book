@@ -1,5 +1,5 @@
 # Births, Deaths, Marriages, and Relationships Registration Act 1995
-_Consolidation as at 2022-09-01_
+_Consolidation as at 2023-04-05_
 
 > Title
 
@@ -22,6 +22,7 @@ In this Act, unless the context otherwise requires,—
   - **adopted person** means a person information (not being information derived from an adoption order that has been discharged) relating to whom has been recorded under section 24 or section 25, or under a corresponding provision of a former Act or a former Adoption Act
   - **adoption information** means information relating to an adoption; and, in relation to any adoption, means information relating to that adoption
   - **approved information sharing agreement** and have the meanings given to them by section 138 of the Privacy Act 2020
+  - **associate coroner** means a person who holds office as an associate coroner under the Coroners Act 2006
   - **birth** includes a still-birth; but does not include a miscarriage
   - **birth certificate** means a document—and, in relation to any person, means a birth certificate containing registered birth information relating to the person's birth
     (a) issued by, and signed or sealed by or stamped with the seal of, a Registrar; and
@@ -43,6 +44,7 @@ In this Act, unless the context otherwise requires,—
     (c) under the control of—
       (i) the Registrar-General or a Registrar; or
       (ii) a person (other than the Registrar-General or a Registrar) who has the function of managing, on behalf of the Registrar-General, information recorded under this Act or a former Act
+  - **coroner** includes an associate coroner to the extent that they have the jurisdiction of a coroner under the Coroners Act 2006
   - **coroner's authorisation** , in relation to a body, means an authorisation by a coroner under section 42 of the Coroners Act 2006 for the release of the body
   - **dead foetus** means a foetus that, whether or not the umbilical cord had been severed or the placenta had detached, at no time after issuing completely from its mother breathed or showed any other sign of life (such as beating of the heart, pulsation of the umbilical cord, or definite movement of the voluntary muscles)
   - **death** does not include a miscarriage or a still-birth
