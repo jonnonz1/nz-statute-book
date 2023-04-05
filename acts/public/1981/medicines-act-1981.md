@@ -1,5 +1,5 @@
 # Medicines Act 1981
-_Consolidation as at 2022-07-01_
+_Consolidation as at 2023-04-05_
 
 > An Act to consolidate and amend the law relating to the manufacture, sale, and supply of medicines, medical devices, and related products
 
@@ -29,6 +29,7 @@ _Consolidation as at 2022-07-01_
     (d) capturing or immobilising any animal;—
   - **appropriate committee** means a committee appointed under section 8(1)
   - **approved laboratory** means a laboratory approved by the Minister by notice for the purposes of this Act
+  - **associate coroner** means a person who holds office as an associate coroner under the Coroners Act 2006
   - **authorised prescriber** means—
     (a) a nurse practitioner; or
     (b) an optometrist; or
@@ -47,6 +48,7 @@ _Consolidation as at 2022-07-01_
   - **carrier** includes every person engaged in carrying goods for hire or reward by any mode of transport, whether by land, water, or air
   - **container** , in relation to a medicine or medical device, means the bottle, jar, box, packet, or other receptacle that contains or is to contain it, not being a capsule, cachet, or other article in which the medicine or device is or is to be administered; and where any such receptacle is or is to be contained in another such receptacle, includes the former but does not include the latter receptacle
   - **controlled drug** has the same meaning as in section 2(1) of the Misuse of Drugs Act 1975
+  - **Coroner** includes an associate coroner to the extent that they have the jurisdiction of a coroner under the Coroners Act 2006
   - **cosmetic** means any substance or mixture of substances used or represented for use for the purpose of beautifying, improving, protecting, altering, or cleansing the hair, skin, or complexion of human beings; and includes—
     (a) any perfume:
     (b) any deodorant:
@@ -323,7 +325,7 @@ The Minister shall provide every committee appointed under section 8, and the Me
 (2) The Director-General may from time to time appoint any person, not being an officer of the public service, as an officer, either in a part- or full-time capacity, for the purposes of this Act.
 (3) Any appointment under subsection (2) may be made either generally for the purposes of this Act or for any specified purpose, or for the exercise of any specified power or function of an officer under this Act, or for any specified period; and may be made in respect of New Zealand generally or in respect of any specified area or areas.
 (4) There may be paid out of money appropriated by Parliament for the purpose to any person appointed under subsection (2) such remuneration as may be fixed by the Director-General.
-(5) No person appointed under subsection (2) shall be deemed by reason of that appointment to be employed in the service of Her Majesty the Queen for the purposes of the Public Service Act 2020 or the Government Superannuation Fund Act 1956.
+(5) No person appointed under subsection (2) shall be deemed by reason of that appointment to be employed in the service of the Sovereign for the purposes of the Public Service Act 2020 or the Government Superannuation Fund Act 1956.
 
 ### 16 Exercise of powers of Director-General and other officers
 (1) The Director-General, every Medical Officer of Health, and every other officer, shall exercise the powers and functions conferred on him by this Act subject to the direction and control of the Minister.
