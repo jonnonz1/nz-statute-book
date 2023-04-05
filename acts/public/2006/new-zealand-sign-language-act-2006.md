@@ -1,5 +1,5 @@
 # New Zealand Sign Language Act 2006
-_Consolidation as at 2022-07-01_
+_Consolidation as at 2023-04-05_
 
 ### 1 Title
 This Act is the New Zealand Sign Language Act 2006.
@@ -27,7 +27,7 @@ In this Act, unless the context otherwise requires,—
     (b) the oral expression in English or Maori or both of messages expressed in New Zealand Sign Language
   - **legal proceedings** means—that is required to inquire into and report upon any matter of particular interest to the Deaf community
     (a) proceedings before any court or tribunal named in the Schedule; and
-    (b) proceedings before any coroner; and
+    (b) proceedings before any coroner or associate coroner; and
     (c) proceedings to inquire into and report on any matter of particular interest to the Deaf community before—
       (i) a commission of inquiry under the Commissions of Inquiry Act 1908; or
       (ii) a tribunal or other body having any of the powers of a commission of inquiry under any other enactment; or
