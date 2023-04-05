@@ -1,5 +1,5 @@
 # Land Transport Act 1998
-_Consolidation as at 2023-03-11_
+_Consolidation as at 2023-04-05_
 
 > An Act—ato promote safe road user behaviour and vehicle safety; andbto provide for a system of rules governing road user behaviour, the licensing of drivers, and technical aspects of land transport, and to recognise reciprocal obligations of persons involved; andcto consolidate and amend various enactments relating to road safety and land transport; anddto enable New Zealand to implement international agreements relating to road safety and land transport
 
@@ -3046,6 +3046,7 @@ A defendant who is obliged to pay a traffic fine is liable to the imposition of 
 (1AA) An enforcement officer must, if practicable, seize and impound, or seize and authorise the impoundment of, a motor vehicle for 28 days if the officer believes on reasonable grounds that—
   (a) the driver operated the vehicle in a manner that breached a qualifying bylaw; and
   (b) the vehicle is subject to a warning notice attached under section 22AF.
+(1AAB) An enforcement officer must, if practicable, seize and impound, or seize and authorise the impoundment of, a motor vehicle for 28 days if the officer believes on reasonable grounds that the driver has committed an offence against section 35(1)﻿(a) or (b) or 39(1).
 (1A) An enforcement officer must, if practicable, seize and impound, or seize and authorise the impoundment of, a motor vehicle for 28 days if the officer believes on reasonable grounds that a person—
   (a) operated the vehicle in a race, or in an unnecessary exhibition of speed or acceleration, on a road in contravention of section 22A(1); or
   (b) without reasonable excuse, operated the vehicle on a road in a manner that caused the vehicle to undergo sustained loss of traction in contravention of section 22A(3).
@@ -3367,8 +3368,8 @@ In this Part,—
   (c) the owner did not know and could not reasonably have been expected to know that the driver was not permitted to drive; or
   (d) the owner took all reasonable steps to prevent the driver from driving the vehicle; or
   (e) the driver drove the vehicle in a serious medical emergency (which for the purpose of this paragraph includes carrying a person who is about to give birth); or
-  (f) if section 96(1A), (1AA), or (1AB) applies, the owner did not know and could not reasonably be expected to know that the operator of the vehicle would contravene section 22A(1) or (3), 22AF, or 114 (whichever applies); or
-  (g) if section 96(1A), (1AA), or (1AB) applies, the owner took all reasonable steps to prevent the operator of the vehicle from contravening section 22A(1) or (3), 22AF, or 114 (whichever applies); or
+  (f) if section 96(1A), (1AA), (1AAB), or (1AB) applies, the owner did not know and could not reasonably be expected to know that the operator of the vehicle would contravene section 22A(1) or (3), 22AF, 35(1)﻿(a) or (b), 39(1), or 114 (whichever applies); or
+  (g) if section 96(1A), (1AA), (1AAB), or (1AB) applies, the owner took all reasonable steps to prevent the operator of the vehicle from contravening section 22A(1) or (3), 22AF, 35(1)﻿(a) or (b), 39(1), or 114 (whichever applies); or
   (ga) if section 96(1AB) applies, the owner—
     (i) was not the person driving the vehicle when the vehicle failed to stop (or remain stopped); and
     (ii) either—
