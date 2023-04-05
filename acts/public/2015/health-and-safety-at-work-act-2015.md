@@ -1,5 +1,5 @@
 # Health and Safety at Work Act 2015
-_Consolidation as at 2021-10-28_
+_Consolidation as at 2023-04-05_
 
 ### 1 Title
 This Act is the Health and Safety at Work Act 2015.
@@ -166,6 +166,7 @@ In this Act, unless the context otherwise requires,—
   - **aircraft** has the same meaning as in section 2(1) of the Civil Aviation Act 1990
   - **approved code of practice** means a code of practice approved by the Minister under section 222
   - **Armed Forces** has the same meaning as in section 2(1) of the Defence Act 1990
+  - **associate coroner** means a person who holds office as an associate coroner under the Coroners Act 2006
   - **authorised** has the meaning given in section 203
   - **CAA** means the Civil Aviation Authority of New Zealand established by section 72A of the Civil Aviation Act 1990
   - **cease work** has the meaning given in section 82
@@ -173,6 +174,7 @@ In this Act, unless the context otherwise requires,—
   - **compliance power** means the functions and powers conferred on an inspector or a health and safety medical practitioner (as relevant) under this Act
   - **constable** has the same meaning as in section 4 of the Policing Act 2008
   - **construct** includes assemble, erect, reconstruct, reassemble, and re-erect
+  - **coroner** includes an associate coroner to the extent that they have the jurisdiction of a coroner under the Coroners Act 2006
   - **Crown organisation** has the same meaning as in section 4 of the Crown Organisations (Criminal Liability) Act 2002
   - **defence area** has the same meaning as in section 2(1) of the Defence Act 1990
   - **demise charter** has the same meaning as in section 2(1) of the Ship Registration Act 1992
