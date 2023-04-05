@@ -1,5 +1,5 @@
 # Human Tissue Act 2008
-_Consolidation as at 2021-10-28_
+_Consolidation as at 2023-04-05_
 
 ### 1 Title
 This Act is the Human Tissue Act 2008.
@@ -46,6 +46,7 @@ The purpose of this Act is to help to ensure that collection or use of human tis
 ### 6 Interpretation
 In this Act, unless the context otherwise requires,—
   - **anatomical examination** means examination of a body, or any part of a body, for the purpose of the study and practice of the science of anatomy
+  - **associate coroner** means a person who holds office as an associate coroner under the Coroners Act 2006
   - **authorised person** means a person who is not the Director-General but is authorised in writing by the Director-General to enter and inspect premises for the purposes of this Act
   - **body** means a dead human body
   - **capable** , in relation to an individual and a decision whether to give, make, raise, amend, revoke, revoke and replace, or accept or disagree with informed consent, an informed objection, an overriding objection, or a nomination, means that the individual has the capacity to—
@@ -56,6 +57,7 @@ In this Act, unless the context otherwise requires,—
   - **collect** , in relation to human tissue, means to remove or take that tissue from a living individual, as a body, or from a body
   - **consumer** means a health consumer or a disability services consumer, as those terms are defined in section 2(1) of the Health and Disability Commissioner Act 1994
   - **controlled drug** means a controlled drug within the meaning of the Misuse of Drugs Act 1975
+  - **coroner** includes an associate coroner to the extent that they have the jurisdiction of a coroner under the Coroners Act 2006
   - **dead foetus** means a foetus that does not breathe or show any other sign of life (such as beating of the heart, pulsation of the umbilical cord, or definite movement of the voluntary muscles), whether or not all or any of the following apply:
     (a) the umbilical cord has been severed:
     (b) the placenta has detached:
