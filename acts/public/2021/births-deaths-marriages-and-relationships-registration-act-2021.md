@@ -1,5 +1,5 @@
 # Births, Deaths, Marriages, and Relationships Registration Act 2021
-_Consolidation as at 2022-09-01_
+_Consolidation as at 2023-04-05_
 
 ### 1 Title
 This Act is the Births, Deaths, Marriages, and Relationships Registration Act 2021.
@@ -497,6 +497,9 @@ A medical practitioner or nurse practitioner who gives a certificate of cause of
 (3) The notification must include all information known to the coroner relating to the date, place, and cause of the death and the identity of the deceased person.
 (4) The coroner must notify the Registrar-General of any additional information relating to the date, place, or cause of the death or the identity of the deceased person as soon as practicable after becoming aware of it.
 (5) A coroner must not include in the information provided under subsections (2) to (4) any information that tends to incriminate any person of any offence.
+(6) For the purposes of this section,—
+  - **associate coroner** means a person who holds office as an associate coroner under the Coroners Act 2006
+  - **coroner** includes an associate coroner to the extent that they have the jurisdiction of a coroner under the Coroners Act 2006.
 
 ### 43 Other person may be authorised to notify
 (1) A person who is not required under sections 40 to 42 to notify a death may notify the death only if the person is authorised to do so—
