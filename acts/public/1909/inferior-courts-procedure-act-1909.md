@@ -1,5 +1,5 @@
 # Inferior Courts Procedure Act 1909
-_Consolidation as at 2021-10-28_
+_Consolidation as at 2023-04-05_
 
 > An Act to make further provision for the validity of the judicial proceedings of inferior Courts notwithstanding technical or formal errors
 
@@ -7,10 +7,13 @@ _Consolidation as at 2021-10-28_
 This Act may be cited as the Inferior Courts Procedure Act 1909, and shall come into operation on 1 January 1910.
 
 ### 2 Interpretation
-In this Act the term inferior Court means—
+(1) In this Act the term inferior Court means—
   (a) the District Court:
   (b) the Disputes Tribunal constituted under the Disputes Tribunal Act 1988:
   (c) a District Court Judge, Justice of the Peace, Community Magistrate, Coroner, or Referee of the Disputes Tribunal in respect of the exercise of any judicial authority conferred upon him or her by any Act.
+(2) For the purposes of this section,—
+  - **associate coroner** means a person who holds office as an associate coroner under the Coroners Act 2006
+  - **Coroner** includes an associate coroner to the extent that they have the jurisdiction of a coroner under the Coroners Act 2006.
 
 ### 3 Waiver of errors in civil proceedings before an inferior Court
 (1) In any civil proceedings before an inferior Court any error, irregularity, omission, or defect, whether it relates to the jurisdiction of the Court, or to the procedure therein, or to any other matter, and whether it appears on the face of the record or of the proceedings or not, and whether it is within the knowledge of the Court or not, may be waived or acquiesced in by any party to the proceedings.
