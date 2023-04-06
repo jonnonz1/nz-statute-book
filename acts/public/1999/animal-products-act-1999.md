@@ -1,5 +1,5 @@
 # Animal Products Act 1999
-_Consolidation as at 2022-11-30_
+_Consolidation as at 2023-04-06_
 
 > An Act to replace the Meat Act 1981 and the Dairy Industry Act 1952, and to reform and restate the law relating to the processing of animal material into products for use, trade, and export
 
@@ -2651,6 +2651,7 @@ Except where the court making the order appealed from otherwise directs,—
     (xic) the Local Government Act 2002:
     (xid) the Wine Act 2003:
     (xie) the Food Act 2014:
+    (xif) Organic Products and Production Act 2023:
     (xii) any other Act enacted in substitution for any of the above enactments:
   (b) any primary producer, processor, transporter of animal material or product, or exporter:
   (c) any verifier or verifying agency:
