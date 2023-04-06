@@ -1,5 +1,5 @@
 # Dairy Industry Restructuring Act 2001
-_Consolidation as at 2023-01-01_
+_Consolidation as at 2023-04-06_
 
 ### 1 Title
 This Act is the Dairy Industry Restructuring Act 2001.
@@ -74,6 +74,7 @@ The purpose of this Act is to—
       (ii) the season after a notice of withdrawal is given; or
     (b) the published price on the date that an application is made or a notice of withdrawal is given plus 7.5% if the June price referred to in paragraph (a) exceeds the highest price in the price range; or
     (c) the published price on the date that an application is made or a notice of withdrawal is given less 7.5% if the June price referred to in paragraph (a) is less than the lowest price in the price range
+  - **described as organic** has the meaning given in section 9 of the Organic Products and Production Act 2023
   - **designated market** means,—
     (a) for the initial and interim licences, a market listed in Schedule 5; and
     (b) for the licences that apply following the initial and interim licences, a market listed in Schedule 5A
@@ -142,7 +143,13 @@ The purpose of this Act is to—
   - **new co-op fund** means the fund referred to in section 109D(1)﻿(b)
   - **new co-op fund securities** means the securities referred to in section 109D(1)﻿(b)﻿(i)
   - **new entrant** means a dairy farmer who is not a shareholding farmer who applies to become a shareholding farmer under section 73
-  - **organic milk** means raw milk certified as organic milk by a certifying entity or person prescribed by regulations made under section 115
+  - **operator** has the meaning given in section 6 of the Organic Products and Production Act 2023
+  - **organic milk** —
+    (a) means milk that is described as organic and restricted by an organic standard; or
+    (b) if milk is not restricted by an organic standard, means raw milk—
+      (i) produced by an operator complying voluntarily with a relevant organic standard (as referred to in section 12(c) of the Organic Products and Production Act 2023); or
+      (ii) certified as organic milk by a certifying entity or person prescribed by regulations made under section 115(1)﻿(fa)
+  - **organic standard** has the meaning given in section 6 of the Organic Products and Production Act 2023
   - **panel** means the Milk Price Panel established under section 150D
   - **person eligible to hold an export licence** means a natural person, unincorporated body, or body corporate who is registered to export under Part 5 of the Animal Products Act 1999
   - **previous manager** , in relation to the core database, means an entity (or the Crown) replaced as manager of the core database by regulations made under section 65A
@@ -172,6 +179,7 @@ The purpose of this Act is to—
     (f) a grandparent of that person:
     (g) a parent, step-parent, brother, or sister, including a stepbrother or stepsister, of that person's spouse, civil union partner, or de facto partner
   - **relevant interest** has the same meaning as in sections 235 to 238 of the Financial Markets Conduct Act 2013
+  - **restricted by an organic standard** has the meaning given in section 10 of the Organic Products and Production Act 2023
   - **season** means a period of 12 months beginning on 1 June in a year and ending on 31 May in the following year
   - **shareholding farmer** means a dairy farmer who is registered as the holder of co-operative shares
   - **sharemilker** has the meaning given by section 2 of the Sharemilking Agreements Act 1937
