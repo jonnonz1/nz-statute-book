@@ -1,5 +1,5 @@
 # Search and Surveillance Act 2012
-_Consolidation as at 2023-04-05_
+_Consolidation as at 2023-04-06_
 
 ### 1 Title
 This Act is the Search and Surveillance Act 2012.
@@ -4010,6 +4010,11 @@ Until the commencement date (within the meaning of section 394 of the Criminal P
 | Oranga Tamariki Act 1989 | 39(1) and (3) | Constable or chief executive may obtain and execute place of safety warrant authorising search for, and removal of, child at risk of harm | Sections 99, 101, and 105 |
 |  | 40(1) and (4) | On application for order that child is in need of care and protection, constable or chief executive may obtain and execute search warrant authorising search for and removal of child | Sections 99, 101, and 105 |
 |  | 386(1) | If child or young person absconds, constable or chief executive may obtain and execute search warrant authorising search for, and removal and return of, child or young person | Sections 99, 101, and 105 |
+| Organic Products and Production Act 2023 | 81 | Power of warrantless entry | All (except subparts 2, 3, 6, and 8 and sections 118 and 119) |
+|  | 82 | Applying for search warrant | Sections 98 to 101 |
+|  | 83 | Issuing search warrant | Sections 102 to 104 and 107 and subpart 5 |
+|  | 84 | Entry under search warrant | All (except subparts 2, 3, 6, and 8 and sections 118 and 119) |
+|  | 90 | Relevant chief executive may request information | Subpart 5 |
 | Outer Space and High-altitude Activities Act 2017 | 60 | Powers of enforcement officers | Subparts 1, 4, 5, 6, 7, 9, and 10 (except for sections 118 and 119) |
 |  | 61 | Provisions relating to entry to dwellinghouse or marae | Subparts 1, 3, 4, 5, 7, 9, and 10 (except that sections 118 and 119 apply only in respect of warrant issued to a named constable or to every constable) |
 | Overseas Investment Act 2005 | 56(3) | Regulator may obtain search warrant to search place or thing if there are reasonable grounds to believe offence under Overseas Investment Act 2005 has been, or is being, committed at place or thing or there is on, under, or over place or thing evidence of offence against that Act | All (except sections 118 and 119) |
