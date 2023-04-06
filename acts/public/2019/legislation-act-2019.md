@@ -1,5 +1,5 @@
 # Legislation Act 2019
-_Consolidation as at 2023-03-11_
+_Consolidation as at 2023-04-06_
 
 ### 1 Title
 This Act is the Legislation Act 2019.
@@ -1637,7 +1637,7 @@ A failure to comply with this schedule does not invalidate secondary legislation
 | Section 52W |  |  | Exemption applies |
 | Section 53ZG |  |  | Exemption applies |
 | District Court Act 2016 |  |  |  |
-| Section 60(1)﻿(b), (2) |  |  | Exemption applies |
+| Section 60(1)﻿(b) |  |  | Exemption applies |
 | Dog Control Act 1996 |  |  |  |
 | Section 78A(1) |  |  | Exemption applies |
 | Financial Markets Conduct Act 2013 |  |  |  |
@@ -1663,6 +1663,8 @@ A failure to comply with this schedule does not invalidate secondary legislation
 | Section 4(1), (1B) |  |  | Exemption applies |
 | Ombudsmen Act 1975 |  |  |  |
 | Section 15 |  | Exemption applies | See s 115(a) |
+| Organic Products and Production Act 2023 |  |  |  |
+| Section 143 (for the purpose of section 63) | The relevant chief executive considers that compliance would result in 1 or more of the following: adisclosure of commercially sensitive information:bdisclosure of a trade secret:cprejudice to New Zealand’s position in current or future negotiations for overseas market access:dprejudice to the international relations of New Zealand. | Exemption applies if exemption ground is met | Exemption applies |
 | Parliamentary Service Act 2000 |  |  |  |
 | Section 25 |  | Exemption applies | See s 115(a) |
 | Remuneration Authority Act 1977 |  |  |  |
@@ -1740,7 +1742,7 @@ A failure to comply with this schedule does not invalidate secondary legislation
 | Gambling Act 2003 | 319(1) |  |
 | KiwiSaver Act 2006 | 65(1) |  |
 | Land Transport Act 1998 | 167(1)﻿(j) | Only if the regulations prescribe fees or charges that are identified as land transport revenue for the purposes of the Land Transport Management Act 2003 |
-| Land Transport Act 1998 | 167A(1) |  |
+| Land Transport Act 1998 | 167AAA(1) |  |
 | Land Transport Act 1998 | 269 or 269A | Only if the regulations prescribe fees or charges that are identified, or are to be treated, as land transport revenue for the purposes of the Land Transport Management Act 2003 |
 | Land Transport Management Act 2003 | 65ZJ(1) |  |
 | Maritime Security Act 2004 | 78(4)﻿(b) |  |
