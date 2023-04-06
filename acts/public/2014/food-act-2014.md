@@ -1,5 +1,5 @@
 # Food Act 2014
-_Consolidation as at 2023-03-21_
+_Consolidation as at 2023-04-06_
 
 ### 1 Title
 This Act is the Food Act 2014.
@@ -4425,6 +4425,7 @@ The chief executive must enter the outcome of each review of a decision describe
   (v) the National Animal Identification and Tracing Act 2012; or
   (w) the Sale and Supply of Alcohol Act 2012; or
   (x) the Psychoactive Substances Act 2013; or
+  (xa) the Organic Products and Production Act 2023; or
   (y) any other Act enacted in substitution for any of the Acts specified in paragraphs (a) to (x); or
   (z) any other Act that is declared by the Governor-General, by Order in Council made under section 394, to be an Act for the purposes of this subsection.
 (4) The persons are—
