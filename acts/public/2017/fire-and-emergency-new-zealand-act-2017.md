@@ -1,5 +1,5 @@
 # Fire and Emergency New Zealand Act 2017
-_Consolidation as at 2022-11-30_
+_Consolidation as at 2023-04-06_
 
 ### 1 Title
 This Act is the Fire and Emergency New Zealand Act 2017.
@@ -19,8 +19,8 @@ This Act is the Fire and Emergency New Zealand Act 2017.
   (a) sections 65 to 68 (which relate to the removal of things that increase fire risk):
   (b) section 200 (which repeals certain provisions of the Local Government Act 2002):
   (c) clause 39 of Schedule 1 (which relates to transitional provisions concerning the removal of fire hazards).
-(5) Sections 80 to 140 (which relate to levies) come into force on a date, not earlier than 1 July 2018, appointed by the Governor-General by Order in Council.
-(6) If sections 80 to 140 are not previously brought into force under subsection (5), those sections come into force on 1 July 2024.
+(5) Sections 80 to 140 (which relate to levies) come into force on 1 July 2026 unless earlier brought into force on a date appointed by the Governor-General by Order in Council.
+(6)
 (7) The rest of this Act comes into force on 1 July 2017.
 (8) An order under subsection (2) or (5) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
@@ -64,7 +64,7 @@ In this Act, unless the context otherwise requires,—
   - **code of practice for firefighting water supplies** means a code of practice—
     (a) that is approved by the Minister under section 72; and
     (b) that relates to firefighting water supplies, including standards of water supply and access to, and volume and pressure of, water supply
-  - **contract of fire insurance** means an agreement under which any property is insured against loss or damage from fire, whether the agreement includes other risks or not, but does not include any contract of marine insurance (as defined in section 81(1)) or any contract of reinsurance
+  - **contract of fire insurance** has the meaning given in section 81(1)
   - **contractor** , in relation to FENZ,—
     (a) means a person engaged by FENZ under a contract for services; and
     (b) includes a subcontractor to a person described in paragraph (a) who is engaged to assist with the performance of those services
@@ -953,27 +953,18 @@ The purpose of this Part is to provide for a levy that is—
 ### 81 Interpretation in this Part
 (1) In this Part, unless the context otherwise requires,—
   - **adjudicator** means an adjudicator appointed under section 131
-  - **amount insured** has the meaning given in section 82
   - **carries on insurance business in New Zealand** has the same meaning as in section 8 of the Insurance (Prudential Supervision) Act 2010
-  - **contract of insurance** —
-    (a) means a contract of insurance (within the meaning of section 7 of the Insurance (Prudential Supervision) Act 2010)—
-      (i) relating to a motor vehicle in New Zealand under which—
-        (A) the motor vehicle is insured against physical loss or damage; or
-        (B) any person is insured against third party liability; or
-      (ii) relating to any property other than a motor vehicle under which the property is insured against physical loss or damage (whatever the cause of the loss or damage), including—
-        (A) temporary or reparable loss or damage; and
-        (B) any consequential loss or damage; but
-    (b) does not include—
-      (i) a contract for reinsurance:
-      (ii) a contract of marine insurance:
-      (iii) a contract of insurance under which an aircraft that performs a scheduled international air service (within the meaning of section 87A of the Civil Aviation Act 1990) is insured
-  - **contract of marine insurance** has the same meaning as in section 3 of the Marine Insurance Act 1908, except that it does not include—
-    (a) a contract of insurance in respect of any cargo after any of the following has occurred:
-      (i) the delivery of the cargo to the consignee’s or any other final warehouse or place of storage at the destination named in the contract of insurance:
-      (ii) the delivery of the cargo to any other warehouse or place of storage, whether or not at the destination named in the contract of insurance, that the insured elects to use either for storage other than in the ordinary course of transit, or for allocation or distribution:
-      (iii) the expiry of 60 days after completion of discharge overside of the cargo from an overseas vessel at the final port of discharge; or
-    (b) a contract of insurance in respect of any ship or vessel normally or customarily removed from the water and transported or stored on land when not in use
-  - **declared value** means the value determined in accordance with section 83
+  - **contract of fire insurance** —
+    (a) means a contract of insurance, within the meaning of section 7 of the Insurance (Prudential Supervision) Act 2010, relating to property under which the property is insured against loss or damage by fire (whether or not the property is insured against other risks under the contract); but
+    (b) does not include a contract of reinsurance within the meaning of section 6(1) of that Act
+  - **contract of insurance** means—
+    (a) a contract of fire insurance:
+    (b) a contract of motor vehicle insurance
+  - **contract of motor vehicle insurance** —
+    (a) means a contract of insurance, within the meaning of section 7 of the Insurance (Prudential Supervision) Act 2010, relating to a motor vehicle under which either or both of the following apply:
+      (i) the motor vehicle is insured against physical loss or damage:
+      (ii) any person is insured against third party liability in connection with the use of the vehicle; but
+    (b) does not include a contract of reinsurance within the meaning of section 6(1) of that Act
   - **insurance intermediary** has the same meaning as in section 2(1) of the Insurance Intermediaries Act 1994
   - **insurer** means a person that carries on insurance business in New Zealand and that is liable as the insurer under a contract of insurance in respect of property
   - **levy advantage** means a reduction in, or the avoidance of, liability to pay the levy
@@ -995,7 +986,7 @@ The purpose of this Part is to provide for a levy that is—
   - **levy position** means a position or an approach taken in relation to a contract of insurance with regard to the levy payable in respect of any property under this Part, including, without limitation, a position or an approach that—
     (a) no levy is payable in respect of the property; or
     (b) a levy payer is not required to file a return in respect of the property; or
-    (c) the property has a particular amount insured or declared value
+    (c) the property has a particular sum insured
   - **levy shortfall** means, in relation to a levy position that results in too little levy being paid or payable by the levy payer, the difference in the amount of levy payable under—
     (a) the correct levy position; and
     (b) the levy payer’s levy position
@@ -1008,12 +999,6 @@ The purpose of this Part is to provide for a levy that is—
     (a) has the same meaning as in section 6(1) of the Insurance (Prudential Supervision) Act 2010; and
     (b) includes any person who is entitled to any indemnity or benefit under the contract of insurance
   - **property** means any real or personal property in New Zealand
-  - **qualified person** , in relation to any property, means any of the following persons who has the qualifications and experience suitable for valuing the property:
-    (a) a chartered professional engineer (within the meaning of section 6 of the Chartered Professional Engineers of New Zealand Act 2002):
-    (b) a plant and machinery valuer:
-    (c) a quantity surveyor:
-    (d) a registered architect (within the meaning of section 6 of the Registered Architects Act 2005):
-    (e) a registered valuer (within the meaning of section 2 of the Valuers Act 1948)
   - **relevant court** , in relation to a dispute under subpart 5, means—
     (a) if the total amount that FENZ seeks to recover comes within the District Court’s civil jurisdiction, the District Court; and
     (b) in any other case, the High Court
@@ -1031,6 +1016,13 @@ The purpose of this Part is to provide for a levy that is—
     (b) any residential land
   - **respondent** means a person to whom FENZ provides a notice of levy shortfall
   - **specialised accommodation** means a building that is specified, in regulations made under section 141, as specialised accommodation for the purposes of this Part
+  - **sum insured** means—Example 1A single contract of fire insurance insures several different types of property, such as buildings, plant and contents, and stock. Each type of property has an individual insured value in the contract of fire insurance. There is no overall insured value specified under the contract of fire insurance. The individual insured values are—buildings: $2,000,000plant and contents: $500,000stock: $800,000The sum insured is the amount paid out in the event of a total loss (before considering deductions or additional limits in paragraph (a)﻿(i) and (ii)). In this example, the insurer will pay up to each individual insured value for each property type for loss or damage from any 1 event.The sum insured is $3,300,000 ($2,000,000 + $500,000 + $800,000).Note: If the contract of fire insurance specifies a total amount to be paid out in the event of a total loss, refer to example 2.Example 2A contract of fire insurance contains multiple properties. Adding the maximum insured values of each individual property comes to $2,000,000. However, the schedule of the contract of fire insurance specifies that the insurer will pay for loss or damage for any 1 event up to an amount of $700,000.The sum insured is $700,000.Example 3The schedule of a contract of fire insurance does not specify the insured value of the property under the contract. Under paragraph (b), the insurer calculates they would pay up to $800,000 in the event of a total loss of the property. However, the final amount that will be paid is dependent on several additional limits in the contract of fire insurance that cannot be accurately identified until the event causing the total loss has occurred, and a deductible amount.Calculations for the deductible and additional limits are not required under paragraph (b)﻿(i) and (ii) respectively.The sum insured is $800,000.
+    (a) the insured value of the property as stated in the schedule of the contract of fire insurance, this being the amount that will be paid out in the event of a total loss before taking into account the following:
+      (i) any amounts to be deducted before payment is made to the policyholder:
+      (ii) additional limits, sub-limits, clauses, or extensions to the contract of fire insurance that cannot be accurately identified as part of a total loss until the event has occurred; and
+    (b) if no insured value is stated in the schedule of the contract of fire insurance, the insured value of the property as calculated by the insurer, this being the amount that will be paid out in the event of a total loss before taking into account the following:
+      (i) any amounts to be deducted before payment is made to the policyholder:
+      (ii) additional limits, sub-limits, clauses, or extensions to the contract of fire insurance that cannot be accurately identified as part of a total loss until the event has occurred
   - **third party liability** means a person’s liability to any other person arising from or in connection with a motor vehicle
   - **working day** means a day of the week other than—
   (a) a Saturday, a Sunday, Waitangi Day, Good Friday, Easter Monday, Anzac Day, the Sovereign’s birthday, Te Rā Aro ki a Matariki/Matariki Observance Day, and Labour Day; and
@@ -1039,35 +1031,20 @@ The purpose of this Part is to provide for a levy that is—
 (2) The provisions of this Part must be interpreted in a manner that best gives effect to the purpose set out in section 80.
 
 ### 82 Meaning of amount insured
-In this Part, amount insured means,—
-  (a) in the case of property that is insured under a contract of insurance that contains an express maximum limit on the amount for which the property is, under the contract, insured against physical loss or damage over the term of the contract, that maximum limit (excluding any goods and services tax):
-  (b) in any other case, the declared value as determined under section 83.
-Example 1A contract of insurance provides, in the case of physical loss or damage to property, that the insurer must pay to the policyholder an amount equal to the cost of replacing or reinstating the property up to a maximum of $800,000. The amount insured is $800,000.Example 2A contract of insurance provides, in the case of physical loss or damage to property, that the insurer must pay to the policyholder an amount equal to the cost of replacing or reinstating the property. The amount insured is the declared value.
+[Repealed]
 
 ### 83 Declared value
-(1) This section applies in the case of property described in section 82(b).
-(2) The declared value is the maximum amount (excluding any goods and services tax) for which the property is, under the contract of insurance, insured against physical loss or damage over the term of the contract.
-(3) The declared value must be set out in—
-  (a) a statement made by or on behalf of the policyholder; or
-  (b) a valuation certificate given by a qualified person and obtained by or on behalf of the policyholder.
-(4) A levy payer must provide a statement or certificate to FENZ at the same time the levy payer provides the levy return in relation to the contract of insurance to which the property relates.
-(5) If FENZ considers that the amount set out in a statement provided in accordance with subsection (4) is not a fair and reasonable declared value,—
-  (a) FENZ may determine the declared value by obtaining a valuation certificate given by a qualified person; and
-  (b) the declared value is the amount set out in the certificate obtained by FENZ under paragraph (a).
-(6) However, if the policyholder considers that the declared value determined under subsection (5) is not a fair and reasonable declared value,—
-  (a) the policyholder (or a person acting on the policyholder’s behalf) may obtain a valuation certificate given by a qualified person that sets out the declared value; and
-  (b) the declared value is the amount set out in the certificate obtained under paragraph (a).
-(7) A statement or certificate under this section must contain a statement that the declared value in the statement or certificate is fair and reasonable.
+[Repealed]
 
 ### Subpart 2 — Levy on insured property
 
 ### 84 Levy payable on motor vehicles
-(1) A levy is payable in respect of a motor vehicle that is the subject of a contract of insurance.
+(1) A levy is payable in respect of a motor vehicle that is the subject of a contract of motor vehicle insurance.
 (2) The amount of levy that is payable is the annual amount prescribed in regulations made under section 141 pro-rated in respect of the period of insurance.
 
 ### 85 Levy payable on other property
-(1) A levy is payable in respect of any property, other than a motor vehicle, that is insured under a contract of insurance.
-(2) The amount of levy that is payable is an amount calculated on the basis of the amount insured and pro-rated in respect of the period of insurance in accordance with regulations made under section 141.
+(1) A levy is payable in respect of any property, other than a motor vehicle, that is insured under a contract of fire insurance.
+(2) The amount of levy that is payable is an amount calculated on the basis of the sum insured and pro-rated in respect of the period of insurance in accordance with regulations made under section 141.
 
 ### 86 Insurer must pay levy to FENZ
 (1) On entering into a contract of insurance, the insurer becomes liable to pay the levy to FENZ.
@@ -1092,7 +1069,7 @@ A levy payer that is liable to pay the levy in relation to a contract of insuran
 **Policyholder to pay insurer**
 
 ### 89 Policyholder must pay amount of levy to insurer
-(1) On entering into a contract of insurance under which property is insured against physical loss or damage, the policyholder becomes liable to pay the amount of levy that is payable by the insurer under section 86 to the insurer, in accordance with the contract of insurance.
+(1) On entering into a contract of insurance, the policyholder becomes liable to pay the amount of levy that is payable by the insurer under section 86 to the insurer, in accordance with the contract of insurance.
 (2) The amount payable by the policyholder under subsection (1) is a debt due by the policyholder to the insurer and is recoverable by the insurer.
 
 ### 90 Insurer must identify levy on invoice, etc
@@ -1202,7 +1179,7 @@ FENZ must provide a notice of levy shortfall under section 116—
 ### 102 FENZ’s power to determine liability for levy in case of levy avoidance arrangement
 (1) This section applies if an arrangement is void under section 101.
 (2) FENZ may determine a levy payer’s liability for the levy, in a way that FENZ considers appropriate, in order to counteract a levy advantage that a person obtains from or under a levy avoidance arrangement.
-(3) When applying subsection (2), FENZ may have regard to the amount insured that FENZ considers would have applied, would in all likelihood have applied, or might be expected to have applied had the arrangement not occurred.
+(3) When applying subsection (2), FENZ may have regard to the sum insured that FENZ considers would have applied, would in all likelihood have applied, or might be expected to have applied had the arrangement not occurred.
 
 **Shortfall penalties**
 
@@ -1536,10 +1513,10 @@ Interest payable to FENZ under this subpart is payable immediately and without t
 ### Subpart 7 — Regulations relating to levy
 
 ### 141 Levy regulations
-(1) For the purpose of this Part, the Governor-General may, by Order in Council made on the recommendation of the Minister in accordance with sections 142 and 143, make regulations prescribing a levy in respect of property that is insured against physical loss or damage.
+(1) For the purpose of this Part, the Governor-General may, by Order in Council made on the recommendation of the Minister in accordance with sections 142 and 143, make regulations prescribing a levy in respect of property that is insured under a contract of insurance.
 (2) The regulations must,—
-  (a) for every motor vehicle that is insured against physical loss or damage, prescribe an annual rate of levy per vehicle:
-  (b) for all other property that is insured against physical loss or damage, prescribe an annual rate of levy as a proportion of the amount insured.
+  (a) in respect of every motor vehicle that is insured under a contract of motor vehicle insurance, prescribe an annual levy amount per vehicle:
+  (b) in respect of all other property that is insured under a contract of fire insurance, prescribe an annual rate of levy as a proportion of the sum insured.
 (3) The regulations may—
   (a) prescribe rates of levy under subsection (2)﻿(b) for the following types of property that differ from the rate of levy prescribed for other property under that subsection:
     (i) residential property:
@@ -1583,7 +1560,7 @@ Interest payable to FENZ under this subpart is payable immediately and without t
 (3) The Minister must then determine the portion of FENZ’s net costs for the period that are to be met by levies.
 (4) In making a determination, the Minister must take into account the following (in addition to the purpose of this Part):
   (a) an estimate of the total number of motor vehicles in respect of which the levy is payable and the likelihood of any change in that number:
-  (b) an estimate of the total amount insured for insured properties and the likelihood of any change in that amount:
+  (b) an estimate of the total sum insured for property insured under contracts of fire insurance and the likelihood of any change in that amount:
   (c) an estimate of the total amount of exemptions and waivers from the payment of the levy that are expected to apply in relation to the period:
   (d) any amount by which actual levy income received in a preceding period exceeded FENZ’s actual net costs in a preceding period:
   (e) any amount by which actual levy income received in a preceding period was less than FENZ’s actual net costs in a preceding period:
@@ -2604,23 +2581,23 @@ Despite their repeal by section 200, sections 183 and 184 of the Local Governmen
   (a) every bylaw to which this clause applies continues in force as if section 146(c) had not been repealed; and
   (b) whilst such a bylaw is in force, section 153(1)﻿(e) of the Local Government Act 2002 continues to apply to the bylaw as if section 153(1)﻿(e) had not been repealed.
 
-**Levy relief in period ending with close of 30 June 2025**
+**Levy relief in period ending with close of 30 June 2030**
 
 ### 41 Interpretation in clauses 42 to 44
 In clauses 42 to 44, words or expressions have the meanings given in Part 3 of this Act.
 
-### 42 Levy relief in period ending with close of 30 June 2025
-(1) The Governor-General may, by Order in Council made on the recommendation of the Minister, make regulations providing for exemptions from the levy in relation to the whole or part of the period that commences on the date on which sections 80 to 140 commence (in accordance with section 2) and that ends with the close of 30 June 2025.
+### 42 Levy relief in period ending with close of 30 June 2030
+(1) The Governor-General may, by Order in Council made on the recommendation of the Minister, make regulations providing for exemptions from the levy in relation to the whole or part of the period that commences on the date on which sections 80 to 140 commence (in accordance with section 2) and that ends with the close of 30 June 2030.
 (2) Regulations made under subclause (1) must specify—
   (a) the policyholders or the classes of policyholder who may qualify for an exemption (in whole or in part) from the levy (specified policyholders):
   (b) the circumstances in which a specified policyholder may qualify for an exemption (qualifying circumstances):
-  (c) the property to which an exemption may apply (for example, a type or types of property or the property of a specified policyholder that is under or over a certain threshold of amount insured) (specified property):
+  (c) the property to which an exemption may apply (for example, a type or types of property or the property of a specified policyholder that is under or over a certain threshold of sum insured) (specified property):
   (d) how the amount of an exemption may be determined:
   (e) any conditions that attach to an exemption.
 (3) The regulations may specify the qualifying circumstances by specifying a formula that defines the qualifying circumstances.
 (4) The formula may include a variable or variables based on—
   (a) the amount of levy the specified policyholder paid in the transitional period in relation to the policyholder’s specified property (or, if levy was not payable in respect of the property in that period, the amount that the policyholder would have paid in the transitional period had levy been payable in respect of the property); and
-  (b) the amount of levy that the specified policyholder would, in the absence of an exemption under regulations made under this clause, pay in levy in relation to the policyholder’s specified property in any period falling within the period commencing on the date on which sections 80 to 140 commence and ending with the close of 30 June 2025.
+  (b) the amount of levy that the specified policyholder would, in the absence of an exemption under regulations made under this clause, pay in levy in relation to the policyholder’s specified property in any period falling within the period commencing on the date on which sections 80 to 140 commence and ending with the close of 30 June 2030.
 (5) For the purposes of specifying how the amount of an exemption may be determined, the regulations must—
   (a) specify a formula for the calculation of the amount of the exemption; or
   (b) provide for the amount of the exemption to be agreed between FENZ and the specified policyholder.
@@ -2631,7 +2608,7 @@ In clauses 42 to 44, words or expressions have the meanings given in Part 3 of t
 (8) Regulations under this clause are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 43 Minister’s recommendation under clause 42
-(1) The Minister may recommend the making of regulations under clause 42 only if the Minister is satisfied that the regulations are necessary or desirable to ensure that the specified policyholders are not subject to an unreasonable burden because of any increase in the amount of levy payable by the policyholders as a consequence of the commencement of Part 3 (and the calculation of the levy amount on the amount insured or the declared value of property rather than on the basis set out in section 48 of the Fire Service Act 1975).
+(1) The Minister may recommend the making of regulations under clause 42 only if the Minister is satisfied that the regulations are necessary or desirable to ensure that the specified policyholders are not subject to an unreasonable burden because of any increase in the amount of levy payable by the policyholders as a consequence of the commencement of Part 3 (and the calculation of the levy amount on the sum insured rather than on the basis set out in section 48 of the Fire Service Act 1975).
 (2) The Minister may recommend the making of regulations under clause 42 only after having regard to—
   (a) the purpose set out in section 80; and
   (b) the likely effect of the exemption on the cost-effectiveness and efficiency of the administration of the levy and Part 3 of the Act.
