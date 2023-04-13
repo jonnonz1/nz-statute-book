@@ -1,5 +1,5 @@
 # Crimes Act 1961
-_Consolidation as at 2023-04-05_
+_Consolidation as at 2023-04-13_
 
 > An Act to consolidate and amend the Crimes Act 1908 and certain other enactments of the Parliament of New Zealand relating to crimes and other offences
 
@@ -1282,6 +1282,16 @@ There is no presumption of law that a person is incapable of sexual connection b
     (b) includes a former guardian
   - **step-parent** includes a former step-parent
   - **uncle** , in relation to a person, includes a half-brother of one of the person's parents.
+
+### 131AB Grooming for sexual conduct with young person
+(1) A person aged 18 years or over is liable to imprisonment for a term not exceeding 3 years, if—
+  (a) they communicate by words or conduct with a person under the age of 16 years (the young person); and
+  (b) they do so intending to facilitate the young person engaging or being involved in conduct that would be an offence against this Part, or against any of paragraphs (a)﻿(i), (d)﻿(i), (e)﻿(i), or (f)﻿(i) of section 98AA(1).
+(2) It is immaterial whether or not a response is made to the communication by the young person.
+(3) A reference in this section to a young person under the age of 16 years or the young person includes a reference to a constable who pretends to be a young person under the age of 16 years (the fictitious young person) if the offender, when taking any of the actions described in subsection (1), believed that the fictitious young person was a young person under the age of 16 years.
+(4) It is a defence to a charge under subsection (1) if the person charged proves that,—
+  (a) before the time they took the action concerned, they had taken reasonable steps to find out whether the young person was of or over the age of 16 years; and
+  (b) at the time they took the action concerned, they believed on reasonable grounds that the young person was of or over the age of 16 years.
 
 ### 131B Meeting young person following sexual grooming, etc
 (1) Every person is liable to imprisonment for a term not exceeding 7 years if,—
