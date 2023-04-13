@@ -1,5 +1,5 @@
 # Local Government (Auckland Council) Act 2009
-_Consolidation as at 2021-04-01_
+_Consolidation as at 2023-04-13_
 
 ### 1 Title
 This Act is the Local Government (Auckland Council) Act 2009.
@@ -925,6 +925,10 @@ A director of a substantive council-controlled organisation who is elected to be
 (3) The statement of intent must also specify how the meetings will be publicly notified (for example, by notice in 1 or more newspapers).
 (4) In respect of each meeting held in accordance with this section, the board must allocate a reasonable amount of time for members of the public attending the meeting to address the board in relation to the subject matter of the meeting.
 (5) Meetings held pursuant to this section shall be subject to the rules and requirements that normally apply to the meetings of the board of the council-controlled organisation (including, for example, under its constitution), provided that this section prevails in the event of any conflict between this section and the rules and requirements that normally apply to meetings of the board.
+
+### 96A Timing of public meeting for shareholder feedback on 2023/2024 statement of intent
+(1) The meeting otherwise required to be held under section 96(2)﻿(a) before 30 June 2023 to consider the 2023/2024 draft statement of intent may instead be held on any date before 30 September 2023.
+(2) This section is repealed on the close of 30 September 2023.
 
 **Disputes between local boards and governing body**
 
