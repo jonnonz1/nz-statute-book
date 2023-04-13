@@ -1,5 +1,5 @@
 # Local Government Act 2002
-_Consolidation as at 2023-03-21_
+_Consolidation as at 2023-04-13_
 
 ### 1 Title
 This Act is the Local Government Act 2002.
@@ -1577,6 +1577,23 @@ A summary of the information contained in a statement of proposal must—
   (a) applies except to the extent that this Act or any other enactment expressly provides otherwise; and
   (b) is for the avoidance of doubt.
 
+### 83B Interpretation
+(1) In sections 83C, 93DA, 94A, and 95AAA and Schedule 8,—
+  - **severe weather event** means any of the following weather events:
+    (a) Cyclone Hale, which crossed the North Island during the period commencing on 8 January 2023 and ending on 12 January 2023:
+    (b) heavy rainfall commencing on 26 January 2023 and ending on 3 February 2023 in the Northland, Auckland, Waikato, and Bay of Plenty regions:
+    (c) Cyclone Gabrielle, which crossed the North Island during the period commencing on 12 February 2023 and ending on 16 February 2023
+  - **severe weather events affected area** has the same meaning as in section 4(1) of the Severe Weather Emergency Recovery Legislation Act 2023.
+(2) This section is repealed on the close of 30 September 2023.
+
+### 83C Use of special consultative procedure during recovery from severe weather events
+(1) A local authority that is required, by this Act or any other legislation, to use or adopt the special consultative procedure may take the modified approach to using the special consultative procedure that is set out in this section, in a severe weather events affected area.
+(2) When making decisions about the timing and manner of consultation steps in the course of using the special consultative procedure, the local authority may rely on 1 or more of the modifications set out in subsection (3).
+(3) The modifications to the special consultative procedure are as follows:
+  (a) the minimum period referred to in section 83(1)﻿(b)﻿(iii) is 14 days:
+  (b) the matters set out in section 83(1)﻿(d) and (e) are highly desirable but not mandatory.
+(4) This section is repealed on the close of 30 September 2023.
+
 ### 83B Use of special consultative procedure during outbreak of COVID-19
 [Repealed]
 
@@ -1715,6 +1732,11 @@ The purpose of the consultation document is to provide an effective basis for pu
   (b) the quality of the information and assumptions underlying the information provided in the consultation document.
 (5) The report under subsection (4) must not comment on the merits of any policy content of the consultation document.
 
+### 93DA Amendments to long-term plan after severe weather events
+(1) This section applies to a local authority using the special consultative procedure in making an amendment to the authority’s current long-term plan that applies in severe weather events affected areas.
+(2) Despite section 93D(4), the local authority may adopt a consultation document that does not contain a report from the Auditor-General as required by that provision if the local authority is satisfied that obtaining and including the report will prevent the authority from amending the long-term plan.
+(3) This section is repealed on the close of 30 September 2023.
+
 ### 93DA Amendments to long-term plan during outbreak of COVID-19
 [Repealed]
 
@@ -1744,6 +1766,15 @@ Before adopting a consultation document under section 93A, the local authority m
 (2) In the case of an amended long-term plan, the report under subsection (1) must contain a report by the Auditor-General confirming or amending the report made when the long-term plan was adopted.
 (3) A report under subsection (1) must not comment on the merits of any policy content of the plan.
 
+### 94A Long-term plan amended during recovery from severe weather events
+(1) This section applies to a long-term plan that is amended using a special consultative procedure in which the local authority adopts a consultation document of a kind authorised by section 93DA(2) for use in a severe weather events affected area.
+(2) Despite section 94(2), the amended long-term plan is not required to contain a report by the Auditor-General of the kind required by that provision.
+(3) However, the amended long-term plan must contain a statement—
+  (a) that the plan incorporates an amendment that has not been audited; and
+  (b) that includes the reasons why the amendment was not audited.
+(4) The local authority must include a statement under subsection (3) in the amended long-term plan immediately before the Auditor-General’s report under section 94(1).
+(5) This section is repealed on the close of 30 September 2023.
+
 ### 94A Long-term plan amended during outbreak of COVID-19
 [Repealed]
 
@@ -1765,6 +1796,11 @@ Before adopting a consultation document under section 93A, the local authority m
   (c) include the information required by Part 2 of Schedule 10.
 (6A) Except where subsection (5) requires otherwise, the local authority must comply with subsection (6)﻿(b) and (c) by means of reference to, rather than duplication of, the long-term plan.
 (7) A local authority must, within 1 month after the adoption of its annual plan, make the plan publicly available.
+
+### 95AAA 2023/2024 annual plan due date
+(1) Section 95(3) does not apply to a local authority in a severe weather events affected area.
+(2) An annual plan that applies to a severe weather events affected area and that relates to the 2023/2024 financial year must be adopted before 30 September 2023.
+(3) This section is repealed on the close of 30 September 2023.
 
 ### 95A Purpose and content of consultation document for annual plan
 (1) The purpose of the consultation document under section 82A(3) is to provide a basis for effective public participation in decision-making processes relating to the activities to be undertaken by the local authority in the coming year, and the effects of those activities on costs and funding, as proposed for inclusion in the annual plan, by—
@@ -7021,6 +7057,11 @@ The board must deliver the completed statement of intent to the shareholders bef
 
 ### 4 Shareholding local authority may extend deadlines by up to 1 month
 The shareholders of a council-controlled organisation may, by written notice, extend a deadline specified in clause 1(2), 2, or 3 for a period or periods not exceeding in total 1 calendar month.
+
+### 4A 2023/2024 statement of intent
+(1) Clause 4 does not apply to a local authority in a severe weather events affected area.
+(2) The shareholders of a council-controlled organisation in a severe weather events affected area may, by written notice, extend a deadline specified in clause 1(2), 2, or 3 for a period or periods not exceeding in total 3 calendar months.
+(3) This clause is repealed on the close of 30 September 2023.
 
 ### 5 Modifications of statements of intent
 The board may, by written notice, modify a statement of intent at any time if the board has first—
