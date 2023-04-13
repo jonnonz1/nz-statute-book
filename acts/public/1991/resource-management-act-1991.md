@@ -1,5 +1,5 @@
 # Resource Management Act 1991
-_Consolidation as at 2023-03-21_
+_Consolidation as at 2023-04-13_
 
 > An Act to restate and reform the law relating to the use of land, air, and water
 
@@ -9497,7 +9497,7 @@ Every abatement notice shall be in the prescribed form and shall state—
   - **affected area** means an area affected by 1 or more severe weather events
   - **area** means any of the following regions or districts:
     (a) the regions of Northland, Auckland, Waikato, Bay of Plenty, Gisborne, and Hawke’s Bay:
-    (b) the districts of Tararua, Masterton, Carterton, and South Wairarapa
+    (b) the districts of Tararua, Manawatū, Rangitikei, Masterton, Carterton, and South Wairarapa
   - **severe weather event** means any of the following weather events:
     (a) Cyclone Hale, which crossed the North Island during the period commencing on 8 January 2023 and ending on 12 January 2023:
     (b) heavy rainfall commencing on 26 January 2023 and ending on 3 February 2023 in the Northland, Auckland, Waikato, and Bay of Plenty regions:
@@ -9596,22 +9596,25 @@ Every abatement notice shall be in the prescribed form and shall state—
   (c) is undertaken on culturally significant land, or will impact on culturally significant land, without the written permission of the relevant iwi or hapū given following notice to the relevant iwi or hapū by the owner or occupier of the rural land in accordance with subsection (4).
 (4) The notice referred to in subsection (3)﻿(c) must be given to the relevant iwi or hapū at least 20 working days before the activity is undertaken and must include—
   (a) details of the proposed activity to be undertaken; and
-  (b) the proximity of the proposed activity to the wāhi tapu, site of cultural significance, or area subject to a statutory acknowledgement; and
-  (c) the anticipated effect of the proposed activity on the wāhi tapu, site of cultural significance, or area subject to a statutory acknowledgement and proposals to avoid, remedy, or mitigate the effect; and
+  (b) the proximity of the proposed activity to the wāhi tapu, site of cultural significance, or area subject to a statutory acknowledgement or specified statutory overlay; and
+  (c) the anticipated effect of the proposed activity on the wāhi tapu, site of cultural significance, or area subject to a statutory acknowledgement or specified statutory overlay and proposals to avoid, remedy, or mitigate the effect; and
   (d) a request for permission from the relevant iwi or hapū to undertake the proposed activity; and
-  (e) a request for protocols or management plans in relation to the wāhi tapu, site of cultural significance, or area subject to a statutory acknowledgement.
+  (e) a request for protocols or management plans in relation to the wāhi tapu, site of cultural significance, or area subject to a statutory acknowledgement or specified statutory overlay.
 (5) If an activity undertaken under subsection (1)﻿(b)﻿(iii) is not deemed a permitted activity, the relevant provisions of any relevant plan or proposed plan, any applicable regulations, and any applicable national environmental standards apply.
 (6) Subsection (2) applies whether or not the sudden event or adverse effect was foreseeable.
 (7) In this section,—
   - **culturally significant land** is land that—
     (a) is on, or adjoins, a wāhi tapu or a site of cultural significance; or
-    (b) is on, near, or adjoins land that has an area that is subject to a statutory acknowledgement
+    (b) is on or adjoins land that has an area that is subject to a statutory acknowledgement; or
+    (c) is within, is adjacent to, or directly affects the statutory overlay of ngā rohe moana and ngā rohe moana o ngā hapū o Ngāti Porou, as described in section 11 and Schedule 3 of the Ngā Rohe Moana o Ngā Hapū o Ngāti Porou Act 2019
   - **severe weather event** has the same meaning as in section 329A
+  - **specified statutory overlay** means the statutory overlay of ngā rohe moana and ngā rohe moana o ngā hapū o Ngāti Porou in the Ngā Rohe Moana o Ngā Hapū o Ngāti Porou Act 2019, as described in section 11 and Schedule 3 of that Act
   - **statutory acknowledgement** means redress of that name included in certain Treaty settlement Acts
   - **wāhi tapu** or includes those identified in any of the following:
     (a) a relevant plan or proposed plan:
     (b) the New Zealand Archaeological Association’s site recording scheme:
     (c) a list maintained under section 65 or 81 of the Heritage New Zealand Pouhere Taonga Act 2014:
+    (ca) section 11 and Schedule 3 of the Ngā Rohe Moana o Ngā Hapū o Ngāti Porou Act 2019:
     (d) the records of the Maori Land Court as a site set apart as a Maori reservation under Part 17 of Te Ture Whenua Maori Act 1993.
 
 ### 331C Requirement for owner or occupier to give notice to relevant consent authority
