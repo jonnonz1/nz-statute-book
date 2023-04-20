@@ -1,5 +1,5 @@
 # Property Law Act 2007
-_Consolidation as at 2022-10-20_
+_Consolidation as at 2023-04-20_
 
 ### 1 Title
 This Act is the Property Law Act 2007.
@@ -1213,48 +1213,19 @@ Any rule of law entitling a mortgagee to foreclose the equity of redemption in m
 (2) A notice required by section 119 may specify that the action required to remedy the default includes the payment (whether to the mortgagee or receiver) of a specified amount, being the reasonable costs and disbursements (whether of the mortgagee or receiver) in preparing and serving the notice.
 
 ### 120A COVID-19 outbreak extension of remedial period: application
-Mortgages to which sections 120B to 120E apply
-(1) Sections 120B to 120E apply to a mortgage in operation in the COVID-19 period (even if it came into operation, was varied, or both, before or in that period) if—
-  (a) section 119(1) applies to the mortgage under sections 75 to 78, 125, and 126; and
-  (b) the current mortgagor has been in default in that period.
-Definitions
-(2) In this section and sections 120B to 120E,—
-  - **COVID-19 period** means all or any of the period that—
-    (a) starts on 1 April 2020; and
-    (b) ends at the close of the 6-month period that starts on the date on which the Epidemic Preparedness (COVID-19) Notice 2020 expires or is revoked
-  - **enforcement action** , for a mortgage, if the current mortgagor has been in default, includes taking 1 or both of the following actions:
-    (a) exercising a power specified in section 119(2):
-    (b) seeking payment of amounts secured by the mortgage and payable by any person under an acceleration clause
-  - **remedial period** means the period (under section 120(1)﻿(c), and as extended by sections 120B and 120C) within which the current mortgagor must remedy the default or cause it to be remedied.
+[Repealed]
 
 ### 120B COVID-19 outbreak extension of remedial period: extension
-(1) This section applies to enforcement action taken for reasons that are or include that the current mortgagor has been in default in the COVID-19 period.
-(2) For the purposes of that enforcement action, 20 working days in section 120(1)﻿(c) must be read as 40 working days.
+[Repealed]
 
 ### 120C COVID-19 outbreak extension of remedial period: notices
-(1) This section applies to a notice under section 119—
-  (a) served on or after 1 April 2020 and before the commencement of this section; and
-  (b) based on the remedial period being less than 40 working days; and
-  (c) whether or not the remedial period for the notice as served ended before the commencement of this section.
-(2) The notice must be taken to be based on the remedial period being 40 working days.
+[Repealed]
 
 ### 120D COVID-19 outbreak extension of remedial period: enforcement
-(1) Enforcement action must be taken not to comply with section 119(1) if that enforcement action is—
-  (a) taken before the commencement of this section; and
-  (b) inconsistent with sections 120B and 120C.
-(2) However, nothing in this section affects—
-  (a) section 184 (which provides protection to a person who purchases mortgaged property from a mortgagee or receiver); and
-  (b) section 51 of the Land Transfer Act 2017 (which provides, in the case of a transfer of an estate or interest in land, for title by registration except as provided for by that section); and
-  (c) any other enactment or law that protects, or protects a person claiming through, a person who acquires property for valuable consideration and in good faith.
+[Repealed]
 
 ### 120E COVID-19 outbreak extension of remedial period: proceedings
-(1) This section applies to a proceeding—
-  (a) in or before a court or tribunal, or before a person acting judicially; and
-  (b) about, or about matters that include, a mortgage to which this section applies under section 120A(1).
-(2) In particular, this section applies even if the proceeding—
-  (a) commenced before the commencement of this section; and
-  (b) is not finally determined (at first instance, or on any appeal) on the commencement of this section.
-(3) Any relief granted in the proceeding (for example, any leave granted by a court to exercise a power specified in section 119(2)) must be not inconsistent with sections 120B to 120D.
+[Repealed]
 
 ### 121 Copy of notice under section 119 must be served on former mortgagor, covenantor, subsequent mortgagee, and caveator
 (1) A copy of the notice served under section 119 must, as soon as possible, be served (whether by the mortgagee or receiver) on the following persons if either the mortgagee or receiver has actual notice of the name and address of the person:
@@ -1337,48 +1308,19 @@ A term has no effect if it—
 (2) A notice required by section 128(1) may specify that the action required to remedy the default includes the payment (whether to the mortgagee or receiver) of a specified amount, being the reasonable costs and disbursements (whether of the mortgagee or receiver) in preparing and serving the notice.
 
 ### 129A COVID-19 outbreak extension of remedial period: application
-Mortgages to which sections 129B to 129E apply
-(1) Sections 129B to 129E apply to a mortgage in operation in the COVID-19 period (even if it came into operation, was varied, or both, before or in that period) if—
-  (a) section 128(1) applies to the mortgage under sections 75 to 78, 135, and 136; and
-  (b) the current mortgagor has been in default in that period.
-Definitions
-(2) In this section and sections 129B to 129E,—
-  - **COVID-19 period** means all or any of the period that—
-    (a) starts on 1 April 2020; and
-    (b) ends at the close of the 6-month period that starts on the date on which the Epidemic Preparedness (COVID-19) Notice 2020 expires or is revoked
-  - **enforcement action** , for a mortgage, if the current mortgagor has been in default, includes taking 1 or both of the following actions:
-    (a) exercising a power to sell the mortgaged goods:
-    (b) seeking payment of amounts secured by the mortgage and payable by any person under an acceleration clause
-  - **remedial period** means the period (under section 129(1)﻿(c), and as extended by sections 129B and 129C) within which the current mortgagor must remedy the default or cause it to be remedied.
+[Repealed]
 
 ### 129B COVID-19 outbreak extension of remedial period: extension
-(1) This section applies to enforcement action taken for reasons that are or include that the current mortgagor has been in default in the COVID-19 period.
-(2) For the purposes of that enforcement action, 10 working days in section 129(1)﻿(c) must be read as 30 working days.
+[Repealed]
 
 ### 129C COVID-19 outbreak extension of remedial period: notices
-(1) This section applies to a notice under section 128(1)—
-  (a) served on or after 1 April 2020 and before the commencement of this section; and
-  (b) based on the remedial period being less than 30 working days; and
-  (c) whether or not the remedial period for the notice as served ended before the commencement of this section.
-(2) The notice must be taken to be based on the remedial period being 30 working days.
+[Repealed]
 
 ### 129D COVID-19 outbreak extension of remedial period: enforcement
-(1) Enforcement action must be taken not to comply with section 128(1) if that enforcement action is—
-  (a) taken before the commencement of this section; and
-  (b) inconsistent with sections 129B and 129C.
-(2) However, nothing in this section affects—
-  (a) section 184 (which provides protection to a person who purchases mortgaged property from a mortgagee or receiver); and
-  (b) section 124 of the Personal Property Securities Act 1999 (which provides, in the case of transfer of collateral sold by a secured party, for a purchaser to acquire good title to goods); and
-  (c) any other enactment or law that protects, or protects a person claiming through, a person who acquires property for valuable consideration and in good faith.
+[Repealed]
 
 ### 129E COVID-19 outbreak extension of remedial period: proceedings
-(1) This section applies to a proceeding—
-  (a) in or before a court or tribunal, or before a person acting judicially; and
-  (b) about, or about matters that include, a mortgage to which this section applies under section 129A(1).
-(2) In particular, this section applies even if the proceeding—
-  (a) commenced before the commencement of this section; and
-  (b) is not finally determined (at first instance, or on any appeal) on the commencement of this section.
-(3) Any relief granted in the proceeding (for example, any leave granted by a court to exercise any power to sell the mortgaged goods) must be not inconsistent with sections 129B to 129D.
+[Repealed]
 
 ### 130 Copy of notice under section 128 must be served on former mortgagor, covenantor, and subsequent mortgagee
 (1) A copy of the notice served under section 128 must, as soon as possible, be served (whether by the mortgagee or receiver) on the following persons if either the mortgagee or receiver has actual notice of the name and address of the person:
@@ -2485,53 +2427,19 @@ An acknowledgement by a lessee that a person who is not entitled to the reversio
 (4) The period for remedying the breach specified under subsection (3)﻿(c) may run concurrently with the period specified in subsection (1)﻿(a) in which the rent must be in arrears before the lessor may exercise any right to cancel the lease.
 
 ### 245A COVID-19 outbreak extension of applicable periods: application
-Leases to which sections 245B to 245E apply
-(1) Sections 245B to 245E apply to a lease in operation in the COVID-19 period (even if it came into operation, was varied, or both, before or in that period) if—
-  (a) section 245 applies to the lease under section 206; and
-  (b) the rent has been in arrears in that period.
-Definitions
-(2) In this section and sections 245B to 245E,—
-  - **applicable periods** means the following periods (as extended by sections 245B and 245C):
-    (a) the arrears period in section 245(1)﻿(a):
-    (b) the notice period in section 245(3)﻿(c)
-  - **COVID-19 period** means all or any of the period that—
-    (a) starts on 1 April 2020; and
-    (b) ends at the close of the 6-month period that starts on the date on which the Epidemic Preparedness (COVID-19) Notice 2020 expires or is revoked
-  - **enforcement action** , for a lease, if the rent has been in arrears, includes taking all or any of the following actions:
-    (a) exercising a right to cancel the lease because of a breach of the covenant to pay rent under the lease:
-    (b) applying to a court for an order for possession of the land:
-    (c) re-entering the land peaceably (and without committing forcible entry under section 91 of the Crimes Act 1961).
+[Repealed]
 
 ### 245B COVID-19 outbreak extension of applicable periods: extensions
-(1) This section applies to enforcement action taken for reasons that are or include a breach of the covenant to pay rent under the lease because the rent has been in arrears in the COVID-19 period.
-(2) For the purposes of that enforcement action,—
-  (a) 10 working days in section 245(1)﻿(a) must be read as 30 working days; and
-  (b) 10 working days in section 245(3)﻿(c) must be read as 30 working days.
+[Repealed]
 
 ### 245C COVID-19 outbreak extension of applicable periods: notices
-(1) This section applies to a notice under section 245(1)﻿(b) or (2)—
-  (a) served on or after 1 April 2020 and before the commencement of this section; and
-  (b) based on the arrears period in section 245(1)﻿(a), the notice period in section 245(3)﻿(c), or both, being a period of less than 30 working days; and
-  (c) whether or not 1 or both of those applicable periods for the notice as served ended before the commencement of this section.
-(2) The notice must be taken to be based on the arrears period in section 245(1)﻿(a), the notice period in section 245(3)﻿(c), or both, being a period of 30 working days.
+[Repealed]
 
 ### 245D COVID-19 outbreak extension of applicable periods: enforcement
-(1) Enforcement action must be taken not to comply with sections 244 and 245 if that enforcement action is—
-  (a) taken before the commencement of this section; and
-  (b) inconsistent with sections 245B and 245C.
-(2) However, nothing in this section affects—
-  (a) section 184 (which provides protection to a person who purchases mortgaged property from a mortgagee or receiver); and
-  (b) section 51 of the Land Transfer Act 2017 (which provides, in the case of a transfer of an estate or interest in land, for title by registration except as provided for by that section); and
-  (c) any other enactment or law that protects, or protects a person claiming through, a person who acquires property for valuable consideration and in good faith.
+[Repealed]
 
 ### 245E COVID-19 outbreak extension of applicable periods: proceedings
-(1) This section applies to a proceeding—
-  (a) in or before a court or tribunal, or before a person acting judicially; and
-  (b) about, or about matters that include, a lease to which this section applies under section 245A(1).
-(2) In particular, this section applies even if the proceeding—
-  (a) commenced before the commencement of this section; and
-  (b) is not finally determined (at first instance, or on any appeal) on the commencement of this section.
-(3) Any relief granted in the proceeding (for example, on an application made under section 244(1)﻿(a) for an order for possession of the land, or otherwise in exercise of the powers conferred by sections 253 to 264) must be not inconsistent with sections 245B to 245D.
+[Repealed]
 
 ### 245F COVID-19 outbreak further measures: application
 [Repealed]
