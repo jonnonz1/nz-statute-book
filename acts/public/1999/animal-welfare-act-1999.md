@@ -1,5 +1,5 @@
 # Animal Welfare Act 1999
-_Consolidation as at 2022-11-30_
+_Consolidation as at 2023-04-30_
 
 > An Act—ato reform the law relating to the welfare of animals and the prevention of their ill-treatment; and, in particular,—(i)to recognise that animals are sentient:(ia)to require owners of animals, and persons in charge of animals, to attend properly to the welfare of those animals:iito specify conduct that is or is not permissible in relation to any animal or class of animals:iiito provide a process for approving the use of animals in research, testing, and teaching:ivto establish a National Animal Welfare Advisory Committee and a National Animal Ethics Advisory Committee:vto provide for the development and issue of codes of welfare and the approval of codes of ethical conduct:bto repeal the Animals Protection Act 1960
 
@@ -580,14 +580,14 @@ The provisions of this Part do not limit the other provisions of this Act.
 (2) Nothing in subsection (1) applies if the exportation of the animal—
   (a) is exempted from the requirements of that subsection by a notice published under section 48(1); or
   (b) is being effected under the authority of a permit, certificate, or other authorisation issued under the Conservation Act 1987 or any Act listed in Schedule 1 of that Act.
-(2A) However, the exception in subsection (2) does not apply to the exportation of cattle, deer, goats, or sheep by ship if the animals would leave New Zealand on or after 30 April 2023.
+(2A) However, the exception in subsection (2) does not apply to the exportation of cattle, deer, goats, or sheep by ship.
 (3) A person who commits an offence against subsection (1) is liable on conviction,—
   (a) in the case of an individual, to imprisonment for a term not exceeding 6 months or to a fine not exceeding $25,000 or to both; or
   (b) in the case of a body corporate, to a fine not exceeding $125,000.
 
 ### 41 Animal welfare export certificate must not be issued for certain animals
 (1) A person must not apply for, and the Director-General must not issue, an animal welfare export certificate for the export of cattle, deer, goats, or sheep by ship.
-(2) However, subsection (1) applies only if the intended date for the cattle, deer, goats, or sheep to leave New Zealand is on or after 30 April 2023.
+(2)
 
 ### 41 Guidelines for issue of animal welfare export certificates
 [Repealed]
@@ -672,7 +672,7 @@ The provisions of this Part do not limit the other provisions of this Act.
   (a) exempt certain species or types of animals from the requirements of section 40(1); or
   (b) specify the circumstances in which any animals are to be exempted from the requirements of section 40(1); or
   (c) exercise both his or her power under paragraph (a) and his or her power under paragraph (b),—
-(1A) However, the Director-General must not exempt the export of cattle, deer, goats, or sheep by ship if the animals would leave New Zealand on or after 30 April 2023.
+(1A) However, the Director-General must not exempt the export of cattle, deer, goats, or sheep by ship.
 (2) A notice under subsection (1) may—
   (a) restrict the exemption to particular modes of transport or to particular destinations; and
   (b) impose conditions that must be complied with.
