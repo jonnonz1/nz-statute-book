@@ -1,5 +1,5 @@
 # Ombudsmen Act 1975
-_Consolidation as at 2022-10-06_
+_Consolidation as at 2023-05-01_
 
 > An Act to consolidate and amend the Parliamentary Commissioner (Ombudsman) Act 1962
 
@@ -111,8 +111,8 @@ For the purpose of providing superannuation or retiring allowances for any Ombud
 Nothing in section 13 shall permit an Ombudsman to investigate any decision or recommendation made, or any act done or omitted, in or by any committee or subcommittee of any organisation named or specified in Part 3 of Schedule 1 (other than an education board or a hospital board), or by any officer, employee, or member of any such organisation to which this subsection applies in his capacity as such officer, employee, or member, unless the decision or recommendation was made, or the act or omission occurred or continued within 6 months before Part 3 of Schedule 1 came into force.
 
 ### 15 House of Representatives may make rules for guidance of Ombudsmen
-(1) The House of Representatives may from time to time, if it thinks fit, make general rules for the guidance of the Ombudsmen in the exercise of their functions under this Act or under the Official Information Act 1982 or under the Local Government Official Information and Meetings Act 1987 or under the Protected Disclosures (Protection of Whistleblowers) Act 2022, and may at any time in like manner revoke or vary any such rules.
-(2) Any such rules may authorise an Ombudsman from time to time, in the public interest or in the interests of any person or public service agency or organisation, to publish reports relating generally to the exercise of his functions under this Act or under the Official Information Act 1982 or under the Local Government Official Information and Meetings Act 1987 or under the Protected Disclosures (Protection of Whistleblowers) Act 2022 or to any particular case or cases investigated by him, whether or not the matters to be dealt with in any such report have been the subject of a report to the House of Representatives under this Act.
+(1) The House of Representatives may from time to time, if it thinks fit, make general rules for the guidance of the Ombudsmen in the exercise of their functions under this Act or under the Official Information Act 1982 or under the Local Government Official Information and Meetings Act 1987 or under the Protected Disclosures (Protection of Whistleblowers) Act 2022 or under the Oversight of Oranga Tamariki System Act 2022, and may at any time in like manner revoke or vary any such rules.
+(2) Any such rules may authorise an Ombudsman from time to time, in the public interest or in the interests of any person or public service agency or organisation, to publish reports relating generally to the exercise of his functions under this Act or under the Official Information Act 1982 or under the Local Government Official Information and Meetings Act 1987 or under the Protected Disclosures (Protection of Whistleblowers) Act 2022 or under the Oversight of Oranga Tamariki System Act 2022 or to any particular case or cases investigated by him, whether or not the matters to be dealt with in any such report have been the subject of a report to the House of Representatives under this Act.
 (3) Rules under this section—
   (a) are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements); but
   (b) come into force in accordance with the rules, even if they are not yet published.
@@ -356,6 +356,7 @@ Despite the enactment of the Amendment Act, the entity known as Insurance & Fina
 
 | Departmental agency | Host department |
 | --- | --- |
+| Aroturuki Tamariki—Independent Children’s Monitor | Education Review Office |
 | Cancer Control Agency | Ministry of Health |
 | Ministry for Disabled People | Ministry of Social Development |
 | Ministry for Ethnic Communities | Department of Internal Affairs |
