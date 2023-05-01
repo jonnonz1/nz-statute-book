@@ -1,5 +1,5 @@
 # Oversight of Oranga Tamariki System Act 2022
-_Consolidation as at 2022-08-29_
+_Consolidation as at 2023-05-01_
 
 ### 1 Title
 This Act is the Oversight of Oranga Tamariki System Act 2022.
@@ -659,8 +659,8 @@ Section 60 amends the Official Information Act 1982.
 Sections 62 and 63 amend the Ombudsmen Act 1975.
 
 ### 62 Section 15 amended (House of Representatives may make rules for guidance of Ombudsmen)
-(1) In section 15(1), after 2000, insert or under the Oversight of Oranga Tamariki System Act 2022.
-(2) In section 15(2), after 2000, insert or under the Oversight of Oranga Tamariki System Act 2022.
+(1) In section 15(1), after 2022, insert or under the Oversight of Oranga Tamariki System Act 2022.
+(2) In section 15(2), after 2022, insert or under the Oversight of Oranga Tamariki System Act 2022.
 
 ### 63 Schedule 1 amended
 In Schedule 1, Part 2, insert in its appropriate alphabetical order:Care or custody providers within the meaning of section 8(1) of the Oversight of Oranga Tamariki System Act 2022
