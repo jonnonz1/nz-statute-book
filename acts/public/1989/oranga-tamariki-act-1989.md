@@ -1,5 +1,5 @@
 # Oranga Tamariki Act 1989
-_Consolidation as at 2022-12-17_
+_Consolidation as at 2023-05-01_
 
 > Title
 
@@ -95,6 +95,7 @@ _Consolidation as at 2022-12-17_
     (a) deemed, for the purposes of the Official Information Act 1982, to be held (see section 2(4) and (5) of that Act):
     (b) held by officers or employees or members of organisations or entities that are not subject to the Official Information Act 1982
   - **hospital** has the same meaning as in section 2(1) of the Mental Health (Compulsory Assessment and Treatment) Act 1992
+  - **Independent Monitor of the Oranga Tamariki System** has the same meaning as in section 8(1) of the Oversight of Oranga Tamariki System Act 2022
   - **independent person** means—
     (a) a practitioner registered under the Health Practitioners Competence Assurance Act 2003 who provides health or disability support services:
     (b) a children’s worker (as defined in section 23(1) of the Children’s Act 2014):
@@ -292,7 +293,7 @@ This Act binds the Crown.
     (ii) to receive responses to those complaints that are—
       (A) timely and fair; and
       (B) centred on the child or young person:
-  (bae) ensure that the policies and services provided by the department are informed by the outcomes of cases considered by the complaints process and the reviews of those outcomes undertaken in accordance with regulations made under section 447(1)﻿(fb):
+  (bae) ensure that the policies and services provided by the department are informed by the outcomes of cases considered by the complaints process and any reviews of those outcomes:
   (baf) develop and publish policies and practice standards in relation to the chief executive’s role in—
     (i) managing, and participating in, family group conferences; and
     (ii) giving effect to the conferences’ outcomes:
@@ -879,17 +880,20 @@ Where an application is made to the court under section 44, or a child or young 
   (b) if an application for a care or protection order has been made in respect of the child or young person, make an order under section 78 relating to the custody of the child or young person pending the determination of the application:
   (c) make any order that it is empowered to make under section 121.
 
-### 47 Report to be furnished to Commissioner where child or young person released before required to be brought before court
-(1) Where—the person who placed the child or young person in that custody shall, as soon as practicable after the release of the child or young person, send to the Commissioner a report containing the details required by subsection (2).
-  (a) a child or young person is placed in the custody of the chief executive pursuant to section 39 or section 40 or section 42; and
-  (b) the child or young person is released from that custody before the child or young person is required by section 45(a) to be brought before the court,—
+### 47 Report to be sent to Ombudsman if child or young person released before required to be brought before court
+(1) This section applies if—
+  (a) a child or young person is placed in the custody of the chief executive under section 39, 40, or 42; and
+  (b) the child or young person is released from that custody before the child or young person is required by section 45(a) to be brought before the court.
+(1A) If this section applies, the person who released the child or young person from that custody must, as soon as practicable after the release,—
+  (a) write a report containing the details required by subsection (2); and
+  (b) send a copy of the report to the Ombudsman to enable the Ombudsman to consider whether to exercise any functions or powers under the Ombudsmen Act 1975 in relation to any matter arising from the release of the child or young person from custody.
 (2) The details to be included in a report required by subsection (1) in relation to the placing of a child or young person in the custody of the chief executive are as follows:
   (a) where the child or young person was placed in the custody of the chief executive pursuant to a warrant issued under section 39 or section 40, the grounds on which that warrant was issued and the reasons why the child or young person was so placed:
   (b) where the child or young person was placed in the custody of the chief executive pursuant to section 42, the reasons why the child or young person was so placed:
   (c) where and with whom the chief executive placed the child or young person while the child or young person was in the chief executive's custody:
   (d) whether a medical examination of the child or young person was carried out pursuant to section 53, and, if so, the findings of that examination:
   (e) the reason for releasing the child or young person from the custody of the chief executive:
-  (f) the details of any further action that the person who placed the child or young person in that custody has taken, or is proposing to take, in relation to the child or young person.
+  (f) the details of any follow up action, where needed, in relation to the child or young person and the proposed plan for undertaking the action, including who is responsible for undertaking the action and the time frame within which the action must be undertaken.
 
 ### 48 Unaccompanied children and young persons
 (1) Where a child or young person is found unaccompanied by a parent or guardian or other person who usually has the care of the child or young person in a situation in which the child's or young person's physical or mental health is being, or is likely to be, impaired, a constable may, using such force as may reasonably be necessary, take the child or young person and—place the child or young person in the custody of the chief executive by delivering the child or young person to the chief executive (acting through the chief executive’s delegate).
@@ -5556,9 +5560,9 @@ Sections 101 and 105 of the Search and Surveillance Act 2012 apply, with any nec
 
 ### 445E Limit on proceedings
 (1) No proceedings may be brought in any court—
-  (a) in relation to any act or omission that occurred on or after the commencement of this section by the chief executive, the chief executive’s delegate, or an employee of the department that could have been the subject of a complaint under the 1 or more complaints mechanisms established, amended, or replaced by the chief executive and a review of the outcome of that complaint under the review mechanism provided for in regulations made under section 447(1)﻿(fb), unless—
+  (a) in relation to any act or omission that occurred on or after the commencement of this section by the chief executive, the chief executive’s delegate, or an employee of the department that could have been the subject of a complaint under the 1 or more complaints mechanisms established, amended, or replaced by the chief executive, unless—
     (i) a complaint has been made under that mechanism and determined; and
-    (ii) the opportunity for review established under regulations made under section 447(1)﻿(fb) has been exercised by the complainant and the review completed:
+    (ii)
   (b) in relation to any purported breach of duty owed to the child or young person under this Act or any regulations made under this Act by the chief executive or the chief executive’s delegate, or an employee or contractor of the department, or an organisation or other person having the care or custody of a child or young person (including an organisation or person with whom a child or young person is placed by the chief executive under section 362), except by a child or young person to whom the duty is allegedly owed.
 (2) In this section and section 445F, young person includes a young person as defined in section 386AAA.
 
@@ -5654,7 +5658,7 @@ Sections 101 and 105 of the Search and Surveillance Act 2012 apply, with any nec
       (A) caregivers; and
       (B) organisations in which children or young persons may be placed:
     (iv) the creation and maintenance of records for a child or young person recording important matters in their life (including significant life events and significant achievements) occurring while they are in care, and the provision of access to those records for the child or young person:
-    (v) the manner in which care standards are monitored or reported on, within the department, by the organisations approved under section 396, and by the agency or body referred to in section 447A:
+    (v) the manner in which care standards are monitored or reported on, within the department and by the organisations approved under section 396:
     (vi) the assessment of the safety and suitability of caregivers and their households:
     (vii) the assessment of the suitability of organisations in which children or young persons may be placed:
   (fb) providing for the appointment by the Minister of a person or an organisation (independent of the department) to review the outcomes produced by the 1 or more complaints mechanisms established, amended, or replaced by the chief executive under section 7(2)﻿(bad), and establishing a review mechanism—
@@ -5683,9 +5687,7 @@ Sections 101 and 105 of the Search and Surveillance Act 2012 apply, with any nec
 (3) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 447A Minister to appoint independent persons to monitor compliance with prescribed standard of care
-The Minister must appoint an agency or a body (independent of the department) to—
-  (a) monitor compliance by the chief executive, the chief executive’s delegates, or bodies or organisations approved under section 396 with regulations made under section 447(1)﻿(fa):
-  (b) report on compliance with those regulations to the Minister.
+[Repealed]
 
 ### 448 Rules of procedure
 (1) The Governor-General may, by Order in Council, make rules regulating the practice and procedure of the Youth Court under this Act.
@@ -5857,7 +5859,7 @@ Section 314 as amended by the Children, Young Persons, and Their Families Amendm
 (2) Sections 215 to 232 of this Act apply to investigations of alleged offending by persons aged 17 years if the offending occurred or is alleged to have occurred before, on, or after the commencement date.
 
 ### 6 Application of complaints mechanism
-A complaints mechanism established under section 7(2)﻿(bad) of this Act applies to any act or omission that occurred on or after 1 January 2008.
+A complaints mechanism established under section 7(2)﻿(bad) of this Act applies to any act or omission that occurred on or after 1 April 2017.
 
 ### 7 Previous definition of child or young person in need of care or protection applies to proceedings underway
 (1) For the purpose of this clause, commencement date means the date on which section 17 of the Children, Young Persons, and Their Families (Oranga Tamariki) Legislation Act 2017 comes into force.
