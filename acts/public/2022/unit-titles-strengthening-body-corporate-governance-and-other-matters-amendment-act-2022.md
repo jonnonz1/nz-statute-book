@@ -1,5 +1,5 @@
 # Unit Titles (Strengthening Body Corporate Governance and Other Matters) Amendment Act 2022
-_Consolidation as at 2022-12-09_
+_Consolidation as at 2023-05-09_
 
 ### 1 Title
 This Act is the Unit Titles (Strengthening Body Corporate Governance and Other Matters) Amendment Act 2022.
