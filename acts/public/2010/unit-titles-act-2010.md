@@ -1,5 +1,5 @@
 # Unit Titles Act 2010
-_Consolidation as at 2022-12-09_
+_Consolidation as at 2023-05-09_
 
 ### 1 Title
 This Act is the Unit Titles Act 2010.
@@ -18,7 +18,7 @@ The purpose of this Act is to provide a legal framework for the ownership and ma
   (d) to protect the integrity of the development as a whole.
 
 ### 4 Overview
-(1) This Act provides for the following matters:Preliminary provisionsCreation of unit title developmentsDealings with unit title developmentsManagement structures and arrangementsFinancial and property managementDisclosure of informationSpecial provisions relating to leasehold landDisputesCancellation of unit plansConversion of existing schemesAdministrationGeneral provisions
+(1) This Act provides for the following matters:Preliminary provisionsCreation of unit title developmentsDealings with unit title developmentsManagement structures and arrangementsFinancial and property managementDisclosure of informationSpecial provisions for large unit title developmentsSpecial provisions relating to leasehold landDisputesCancellation of unit plansConversion of existing schemesAdministrationGeneral provisions
   (a) Part 1 sets out the purpose of the Act and its application, and defines terms used in the Act:
   (b) subparts 1 to 6 of Part 2 deal with the creation of unit title developments and related matters, in particular—
     (i) land and buildings may be subdivided into a unit title development by the deposit of a unit plan by the Registrar-General of Land:
@@ -50,6 +50,7 @@ The purpose of this Act is to provide a legal framework for the ownership and ma
   (f) subpart 14 of Part 2 deals with disclosure of information in certain cases, in particular—
     (i) the seller of a unit must disclose certain information about the unit title development to a buyer or prospective buyer of the unit:
     (ii) the original owner of the unit title development (that is, the developer of it) must disclose certain information to the body corporate at the point where the original owner and any associates have sold sufficient units in the development that the original owner and any associates have ceased to have control of 75% of the votes of the body corporate:
+  (fa) Part 2A applies to large unit title developments. The Part imposes extra or more specific obligations, or both, on those types of developments over and above the general obligations in the rest of the Act and the regulations, although, in most cases, the body corporate of a large unit title development may opt out of the requirements by special resolution:
   (g) Part 3 sets out certain provisions that apply where the estate in the underlying land that the deposited unit plan of subdivision relates to is an estate as lessee or licensee:
   (h) subpart 1 of Part 4 relates to disputes, in particular—
     (i) the Tenancy Tribunal is the dispute resolution body for unit title disputes below a certain monetary amount that do not relate to the title to land:
@@ -84,6 +85,7 @@ The purpose of this Act is to provide a legal framework for the ownership and ma
     (d) in relation to a subsidiary unit title development, has the meaning given to it in section 19
   - **body corporate** means a body corporate of a unit title development created under section 75 on the deposit of a unit plan
   - **body corporate committee** means a committee established by a body corporate under section 112
+  - **body corporate manager** has the meaning given by section 114G
   - **body corporate operational rules** , in relation to a particular body corporate, means the rules that apply to that body corporate under section 105(2) as altered from time to time by the body corporate under section 105(3)
   - **building elements** includes the external and internal components of any part of a building or land on a unit plan that are necessary to the structural integrity of the building, the exterior aesthetics of the building, or the health and safety of persons who occupy or use the building and including, without limitation, the roof, balconies, decks, cladding systems, foundations systems (including all horizontal slab structures between adjoining units or underneath the lowest level of the building), retaining walls, and any other walls or other features for the support of the building
   - **buyer** has the meaning given to it in section 144
@@ -107,6 +109,7 @@ The purpose of this Act is to provide a legal framework for the ownership and ma
     (b) in relation to a particular subsidiary unit title development, means the head unit title development of the layered unit title development of which the subsidiary unit title development is a part
   - **infrastructure** includes pipes, wires, ducts, conduits, gutters, watercourses, cables, channels, flues, conducting, or transmission equipment necessary for the provision of water, sewerage, drainage, stormwater removal, gas, electricity, oil, shelter, protection from fire, security, rubbish collection, air, telephone connection, Internet access, radio reception, television reception, or any other services or utilities to or from a unit or to or from the common property
   - **land** means land within the meaning of the Land Transfer Act 2017
+  - **large unit title development** means a unit title development that includes 10 or more principal units
   - **layered unit title development** has the meaning given to it in section 19(1)
   - **long-term financial and maintenance planning regime** , in relation to a body corporate, means the body corporate’s funds and the body corporate’s long-term maintenance plan
   - **long-term maintenance plan** , in relation to a body corporate, means the body corporate’s plan as required to be established and maintained by section 116
@@ -128,9 +131,11 @@ The purpose of this Act is to provide a legal framework for the ownership and ma
   - **registered valuer** means a registered valuer within the meaning of the Valuers Act 1948
   - **Registrar** , in relation to any land, means the Registrar-General of Land as defined in the Land Transfer Act 2017
   - **regulations** means regulations in force under this Act
+  - **remediation report** means a report prepared by a suitably qualified building professional that reviews and reports on investigations of any defects within the unit title development
   - **seller** has the meaning given to it in section 144
   - **service contract** means a contract between a body corporate and another person (the ) engaging the service contractor (other than as an employee of the body corporate) for a term of at least 1 year to supply services to the body corporate or to the unit owners
   - **settlement date** has the meaning given to it in section 144
+  - **signage agreement** means a contract or an agreement (including a licence) between a body corporate and another person that permits that person to display a sign of any kind on the unit title development
   - **special resolution** means a resolution passed in accordance with section 98(4)
   - **stage unit plan** means a plan described in section 25(2)
   - **stand-alone unit** means that no part of any building in the unit is attached in any way to any building in any other unit or to any building in the common property
@@ -458,6 +463,11 @@ No territorial authority, authorised officer of a territorial authority, member 
 (2A) Alternatively, the registered proprietor or owner may assign to a unit a different utility interest if that different utility interest is—
   (a) fair and equitable, in the view of the registered proprietor or owner, having regard to the relevant benefits and the costs to units; and
   (b) shown on the documentation lodged with the unit plan.
+(2B) A utility interest assignment for the purposes of subsection (2A) may be—
+  (a) a single uniform interest; or
+  (b) a multiple set of interests,—
+    (i) each targeted at a particular service or amenity; and
+    (ii) which may be, for a specific interest targeted at a particular service or amenity, assigned to some units only.
 (3) The utility interest is used to determine a range of matters including, but not limited to,—
   (a) the extent of the obligation of the owner of the principal unit in respect of contributions levied by the body corporate under section 121 in respect of the long-term maintenance fund, the optional contingency fund, and the operating account:
   (b) the rights of the owner of the principal unit in relation to a distribution of any surplus money in the long-term maintenance fund, the optional contingency fund, or the operating account, or personal property of the body corporate under section 131.
@@ -466,6 +476,11 @@ No territorial authority, authorised officer of a territorial authority, member 
 (1) As soon as a future development unit is in use as a place of residence or business or otherwise, the registered proprietor, owner, or body corporate (as the case may be) must assign a deemed utility interest to that unit.
 (2) The deemed utility interest assigned to the future development unit is the total of all the proposed ownership interests assigned to the proposed principal units and proposed accessory units in the future development unit under section 38.
 (2A) Alternatively, the body corporate (if any) may assess and assign the first deemed utility interest for a future development unit by special resolution at a general meeting under section 41 (with all necessary modifications).
+(2B) A deemed utility interest assignment for the purposes of subsection (2A) may be—
+  (a) a single uniform interest; or
+  (b) a multiple set of interests,—
+    (i) each targeted at a particular service or amenity; and
+    (ii) which may be, for a specific interest targeted at a particular service or amenity, assigned to some units only.
 (3) The deemed utility interest is used to determine the extent of the future development unit’s owner’s obligations in respect of contributions relating to the funds levied by the body corporate under section 121.
 
 **Reassessment**
@@ -484,8 +499,13 @@ No territorial authority, authorised officer of a territorial authority, member 
   (b) the date of the valuer’s assessment; or
   (c) if there are 2 dates (1 under paragraph (a) and 1 under paragraph (b)), the earlier date.
 (5) Any reassessment of the ownership interest of a unit must be made by a registered valuer assessing the value of each of the units relative to each other.
-(5A) A reassessment of the utility interest may be made by the body corporate on a fair and equitable basis, having regard to the relevant benefits and the costs to units.
-(6) If, as a result of a reassessment, a utility interest is to be assigned other than on the basis of the value of the unit relative to each other unit, the body corporate must, by special resolution, approve the method of apportionment of the utility interest.
+(5A) A reassessment of the utility interests may be made by the body corporate on a fair and equitable basis, having regard to the relevant benefits and the costs to units.
+(5B) A reassessment of the utility interests made by a body corporate created before the commencement of the Unit Titles (Strengthening Body Corporate Governance and Other Matters) Amendment Act 2022 may be of—
+  (a) a single uniform interest; or
+  (b) a multiple set of interests,—
+    (i) each targeted at a particular service or amenity; and
+    (ii) which may be, for a specific interest targeted at a particular service or amenity, assigned to some units only.
+(6) If, as a result of a reassessment, utility interests are to be assigned other than on the basis of the value of the unit relative to each other unit, the body corporate must, by special resolution, approve the method of apportionment of the utility interests.
 (7) Sections 212 to 216 (which provide for an objection process) apply to a resolution made in accordance with subsection (6).
 (8) Any costs incurred in the reassessment must be paid for by the body corporate.
 (9) In this section and section 42,—
@@ -827,7 +847,7 @@ An owner of a principal unit—
   (b) holds a share in the common property in accordance with section 54(2):
   (c) is entitled as a body corporate member to exercise a vote in respect of his or her unit, subject to section 96 and any other requirements in the regulations:
   (d) is entitled to have quiet enjoyment of his or her unit without interruption by other unit owners or occupiers, or the body corporate or its agents, except as authorised by this Act or the regulations:
-  (e) subject to section 80(1)﻿(h) and (i), may make any alterations, additions, or improvements to his or her unit so long as these are within the unit boundary and do not materially affect any other unit or common property:
+  (e) subject to section 80(1)﻿(h) and (i), may make any alterations, additions, or improvements to his or her unit so long as these are within the unit boundary and do not materially affect the use, enjoyment, or ownership interest of any other unit or common property:
   (f) has the right to have any dispute resolved in the manner set out in subpart 1 of Part 4:
   (g) has the right to enforce the body corporate operational rules:
   (h) has the right to attend the general meetings of the body corporate.
@@ -846,7 +866,7 @@ An owner of a principal unit—
   (f) must pay all rates, taxes, charges, body corporate levies, and other outgoings that are from time to time payable in respect of the unit:
   (g) must repair and maintain the unit and keep it in good order to ensure that no damage or harm, whether physical, economic, or otherwise, is, or has the potential to be, caused to the common property, any building element, any infrastructure, or any other unit in the building:
   (h) must notify the body corporate of his or her intention to carry out any additions or structural alterations before the commencement of any work:
-  (i) must not make any additions or structural alterations to the unit that materially affect any other unit or the common property without the written consent of the body corporate:
+  (i) must not make any additions or structural alterations to the unit that materially affect the use, enjoyment, or ownership interest of any other unit or the common property without the written consent of the body corporate:
   (j) must comply with the body corporate operational rules:
   (k) must not do anything that breaches or in any way undermines any policy of insurance in the name of the body corporate.
 (2) For the purpose of subsection (1), an owner of a future development unit that is in use as a place of residence or business or otherwise, in whole or in part, is to be treated as an owner of a principal unit.
@@ -886,6 +906,7 @@ An owner of a principal unit—
 (1) The body corporate has the powers and duties set out in—
   (a) sections 40 to 42 (which relate to the assignment and reassessment of ownership interests and utility interests):
   (b) section 81 (which permits the body corporate to act as an agent for the unit owners who lease or licence their principal unit and are absent for the purpose of enforcing the body corporate operational rules):
+  (ba) section 84A (which requires the body corporate to keep records to enable information disclosure obligations to be met):
   (c) section 85 (which requires the body corporate to keep and maintain a register of all the owners of principal units and accessory units on the plan):
   (d) section 86 (which relates to the body corporate's power to sign documents on behalf of the owner):
   (e) section 87 (which requires the payment of ground rental to a lessor):
@@ -903,6 +924,9 @@ An owner of a principal unit—
   (q) section 206 (which relates to the provision of records and documents on request from a unit owner):
   (r) any other provisions of this Act, any other Act, or the regulations that confer powers or duties on the body corporate and subject to any limitations to those powers and duties in this Act, any other Act, or the regulations.
 (2) Except as expressly provided in this Act, the body corporate does not have any duties in respect of a future development unit that comprises part of the unit title development.
+
+### 84A Records to be kept
+A body corporate must keep the records necessary to enable unit owners to comply with their obligations under sections 146 and 147 to provide disclosure statements containing the prescribed information.
 
 ### 85 Register of unit owners
 (1) A body corporate must keep and maintain a register of all owners of principal units and accessory units on the unit plan in accordance with the regulations.
@@ -985,8 +1009,13 @@ An extraordinary general meeting must be held in accordance with the regulations
 (4) Any vote cast by a subsidiary body corporate representative is, in the absence of evidence to the contrary, to be treated as having been cast in accordance with subsection (2).
 
 ### 95 Quorum
-(1) At a general meeting of a body corporate, the persons entitled to exercise the voting power in respect of not less than 25% of the principal units or their proxies constitute a quorum, provided that if the body corporate contains 2 or more members a quorum must be at least 2 members.
+(1) A quorum for a general meeting of a body corporate is the number of persons attending in accordance with section 88(3) (including proxies)—
+  (a) who are entitled to exercise the voting power in respect of not less than 25% of the total number of principal units; and
+  (b) who also satisfy the eligibility requirements to exercise that voting power (for example, have no outstanding levy amounts owing to the body corporate).
+(1A) However, if a body corporate comprises 2 or more members, a quorum must be at least 2 persons who satisfy the requirements of subsection (1).
 (2) Except as otherwise provided for in this Act and the regulations, no business may be transacted at a general meeting of the body corporate unless a quorum is present at the time.
+(3) To avoid doubt, nothing in this section prevents those who are entitled but not eligible to vote from attending meetings and taking part in any discussions.
+(4) For entitlement to vote, see section 79(c). For eligibility to vote, see section 79(c), section 96, and the regulations.
 
 ### 96 Voting: eligibility
 (1) A person eligible to vote at a general meeting of the body corporate (eligible voter) is a person who is of or over the age of 16 years and—
@@ -1024,8 +1053,8 @@ An extraordinary general meeting must be held in accordance with the regulations
 (6) A special resolution passed under this section is subject to a request for a poll under section 99 and the motion being confirmed by that poll.
 
 ### 99 Request for poll
-(1) A poll may be requested by any eligible voter voting on a motion passed by ordinary resolution under section 97 or by special resolution under section 98.
-(2) The eligible voter must request the poll in person at the meeting.
+(1) A poll may be requested by any eligible voter or their proxy who votes on a motion passed by ordinary resolution under section 97 or by special resolution under section 98.
+(2) The eligible voter or their proxy must request the poll in person at the meeting or by audio link, audiovisual link, or other remote access facility.
 
 ### 100 Counting of votes if poll requested
 (1) This section applies if—
@@ -1037,8 +1066,11 @@ An extraordinary general meeting must be held in accordance with the regulations
 (5) The result of any poll is the resolution of the general meeting.
 
 ### 101 How matters at general meeting of body corporate decided
-(1) Any matters at a general meeting of a body corporate relating to an exercise of a duty or power that may not be delegated under section 108(2), or that have not been delegated to the body corporate committee, must be decided by special resolution.
-(2) Except as otherwise provided in this Act, all other matters to be decided by the body corporate at a general meeting must be decided by ordinary resolution.
+(1) A matter to be decided by a body corporate must be decided by ordinary resolution at a general meeting.
+(2) Subsection (1) applies unless—
+  (a) the Act provides for the matter to be decided by the body corporate by special resolution; or
+  (b) the body corporate committee exercises a delegated authority to decide the matter.
+(2A) A body corporate may decide matters within its functions and powers regardless of whether they have been delegated to the body corporate committee (see also section 110 concerning the effect of delegation on the body corporate).
 (3) Any matter that is not on the agenda for a general meeting may be discussed at the meeting but, unless all the eligible voters are present at the meeting, no resolution may be voted on and made in respect of that matter except to include that matter on the agenda for a subsequent general meeting.
 (4) Every resolution must be recorded in writing.
 
@@ -1099,11 +1131,13 @@ An extraordinary general meeting must be held in accordance with the regulations
 
 ### 108 Delegation of duties and powers
 (1) Except as provided in subsection (2), a body corporate may delegate any of its duties or powers, either generally or specifically, to the body corporate committee by special resolution and written notice.
-(2) The body corporate must not delegate any of the powers or duties set out in—
-  (a) subsection (1) (which is the general power of delegation):
-  (b) section 41 (which provides for the reassessment of ownership interests and utility interests):
-  (c) section 105(4) (which requires the body corporate to comply with the body corporate operational rules):
-  (d) section 136(4) (which relates to the application of insurance monies in or towards reinstatement of the development).
+(2) The body corporate must not delegate—
+  (a) any of the powers or duties set out in—
+    (i) subsection (1) (which is the general power of delegation):
+    (ii) section 41 (which provides for the reassessment of ownership interests and utility interests):
+    (iii) section 105(4) (which requires the body corporate to comply with the body corporate operational rules):
+    (iv) section 136(4) (which relates to the application of insurance moneys in or towards reinstatement of the development); and
+  (b) a matter if the Act provides for the matter to be decided by the body corporate by special resolution.
 
 ### 109 Delegated duties and powers of body corporate committee
 (1) A body corporate committee to which any duties or powers are delegated under section 108(1) may, unless the delegation provides otherwise, perform the duties and exercise the powers in the same manner, subject to the same restrictions, and with the same effect as if it were the body corporate.
@@ -1122,13 +1156,102 @@ A delegation under section 108(1) may be revoked by special resolution and writt
 
 ### 112 Establishment of body corporate committee
 (1) A body corporate of a unit title development of 9 or fewer principal units may form a body corporate committee.
-(2) A body corporate of a unit title development of 10 or more principal units must form a body corporate committee unless the body corporate, by special resolution, decides not to form a body corporate committee.
+(2) A body corporate of a large unit title development must form a body corporate committee unless the body corporate, by special resolution, decides not to form a body corporate committee.
+(3) A body corporate committee (if the body corporate decides to form one) must be formed and conduct its business in accordance with this Act and the regulations.
+
+### 112A Chairperson of body corporate committee
+(1) The chairperson of a body corporate is—
+  (a) a member of its body corporate committee; and
+  (b) the chairperson of the body corporate committee.
+(2) Subsection (1)﻿(b) applies unless, at its annual general meeting, the body corporate decides by ordinary resolution that the chairperson of the committee should instead be a person that is elected to the committee (by the process prescribed in the regulations).
 
 ### 113 Decision-making of body corporate committee
-Any matters at a meeting of a body corporate committee must be decided by a simple majority of votes.
+(1) A body corporate committee must produce an agenda for each body corporate committee meeting.
+(2) A body corporate committee must keep written records of its meetings.
+(3) Matters must be decided by a simple majority of votes and each resolution must be recorded and included in the written records for the meeting.
+(4) The committee must promptly report to the body corporate on the meetings it holds in the manner prescribed in the regulations.
 
 ### 114 Body corporate committee to report to body corporate
 A body corporate committee must report, as prescribed in the regulations, to the body corporate on the exercise of the duties or powers delegated to it by the body corporate under section 108(1).
+
+### 114A Body corporate committee to comply with code of conduct
+The members of a body corporate committee must comply with the code of conduct for committee members prescribed in the regulations.
+
+### 114B Conflicts of interest of members of body corporate committee
+The members of a body corporate committee must comply with the conflict of interest rules contained in sections 114C to 114F.
+
+### 114C Duty to disclose conflicts of interest
+(1) A member of a body corporate committee who is interested in a matter must disclose details of the nature and extent of the interest (including any monetary value of the interest, if it can be quantified)—
+  (a) to the committee; and
+  (b) in an interests register kept by the committee (see section 114F).
+(2) Disclosure under subsection (1) must be made as soon as practicable after the member becomes aware of being interested in the matter.
+(3) A person is interested in a matter if the person—
+  (a) may derive a financial benefit from the matter; or
+  (b) is the spouse, civil union partner, de facto partner, child, or parent of a person who may derive a financial benefit from the matter; or
+  (c) may have a financial interest in a person to whom the matter relates; or
+  (d) is a partner, director, officer, board member, or trustee of a person who may have a financial interest in a person to whom the matter relates; or
+  (e) may be interested in the matter because the body corporate’s operational rules say so.
+(4) However, a person is not interested in a matter—
+  (a) merely because they receive an indemnity, insurance cover, remuneration, or other benefit authorised by the body corporate; or
+  (b) if the interest is due to their membership of the body corporate and it is the same or substantially the same as the interest of all or most other members of the body corporate; or
+  (c) if their interest is so remote or insignificant that it cannot reasonably be regarded as likely to influence the person in carrying out their responsibilities under this Act, the regulations, or the body corporate’s operational rules.
+(5) In this section and sections 114D to 114F, matter means—
+  (a) the body corporate committee’s performance of its functions or exercise of its powers; and
+  (b) an arrangement, agreement, or contract (a transaction) made or entered into, or proposed to be entered into, by the body corporate committee (whether on behalf of the body corporate or otherwise).
+
+### 114D Consequences of being interested in matter
+(1) A member who is interested in a matter—
+  (a) must not vote or take part in any decision of the body corporate committee that relates to the matter; and
+  (b) must not sign any document relating to the entry into a transaction or the initiation of the matter; but
+  (c) may take part in any committee discussion relating to the matter and be present at the time the decision of the committee is made (unless the committee decides otherwise).
+(2) A member who is prohibited from voting under subsection (1) may still be counted for the purpose of determining whether there is a quorum at any meeting at which the matter is considered, with 1 exception, as set out in subsection (3).
+(3) If 50% or more of the members of the committee are prohibited from voting under subsection (1), an extraordinary general meeting of the body corporate must be called to consider and determine the matter.
+
+### 114E Consequences of failure to disclose interest
+(1) A body corporate committee must notify the members of the body corporate of a failure to comply with section 114C or 114D, and of any transactions affected, as soon as practicable after becoming aware of the failure.
+(2) A failure to comply with section 114C or 114D does not affect the validity of the committee’s decision on the matter concerned or the matter itself (but the member’s behaviour may be censured under Part 4).
+(3) Subsection (2) does not affect any right a person may have to make an application under this Act in relation to the decision on the matter.
+
+### 114F Interests register
+(1) The body corporate committee must keep a register of disclosures made by committee members under section 114C (an interests register).
+(2) The interests register must be available for inspection by the members of the committee.
+(3) The operational rules of the body corporate may provide for whether (and, if so, the extent to which) the interests register is to be made available for inspection by other members of the body corporate or any other person.
+
+**Body corporate managers**
+
+### 114G Definition of body corporate manager
+(1) In this Act, body corporate manager means a person who is employed or engaged by a body corporate (whether itself or through its body corporate committee) to provide (or manage the provision of) 1 or more of the services specified in subsection (2).
+(2) The services are as follows:
+  (a) record-keeping and other administrative services:
+  (b) financial services, including the handling of money belonging to the body corporate or members of the body corporate:
+  (c) regulatory compliance services, including—
+    (i) the making or preparing of statutory disclosures; and
+    (ii) regulatory compliance services performed on behalf of the body corporate (including the body corporate committee and the body corporate chairperson).
+
+### 114H Functions and duties of body corporate manager
+(1) A body corporate manager must exercise or perform the functions and duties—
+  (a) that the body corporate may lawfully authorise the body corporate manager to exercise or perform; and
+  (b) that are specified in a written agreement setting out the manager’s terms of employment/engagement.
+(2) The agreement must also provide for any matter prescribed by the regulations.
+(3) Subsection (4) applies if a body corporate intends to employ or engage a body corporate manager that is the owner of a principal unit within the unit title development.
+(4) The person or a proxy for the person is not entitled to vote on any resolution relating to the person’s employment or engagement as the manager.
+
+### 114I Conflicts of interest of body corporate managers
+(1) A body corporate manager must, as soon as practicable after becoming aware of any conflict of interest, disclose it to the body corporate committee or, if there is no committee, to the body corporate chairperson, and the body corporate must decide whether, and on what terms, the manager may continue to act in the matter concerned.
+(2) To avoid doubt, if a person is engaged as a body corporate manager by more than 1 body corporate,—
+  (a) the manager must act independently in relation to each body corporate; and
+  (b) all matters for which the manager is responsible in relation to each body corporate must be independently satisfied; and
+  (c) the manager must not intermix the funds, records, or any other things of any of the body corporates with those of 1 or more of the other body corporates.
+(3) For the purposes of determining whether there is a conflict of interest in relation to a matter, section 114C(3) to (5) applies—
+  (a) as if a reference to a body corporate committee were a reference to a body corporate manager; and
+  (b) with any other necessary modifications.
+(4) The body corporate committee or the chairperson of a body corporate must keep a separate register of disclosures made by its body corporate managers (an interests register).
+(5) The register must be available for inspection—
+  (a) by members of the body corporate committee (if any); and
+  (b) if the operational rules of the body corporate allow, by any other members of the body corporate or any other person to the extent that the rules provide.
+
+### 114J Body corporate manager to comply with code of conduct
+A body corporate manager must comply with the code of conduct for body corporate managers prescribed in the regulations.
 
 ### Subpart 13 — Financial and property management
 
@@ -1199,9 +1322,9 @@ The body corporate may enter into an agreement with the owner of a future develo
 (2) The amount of any unpaid levy, together with any reasonable costs incurred in collecting the levy, is recoverable as a debt due to the body corporate by the person who was the unit owner at the time the levy became payable or by the person who is the unit owner at the time the proceedings are instituted.
 
 ### 125 Recovery of metered charges
-(1) If any amenity or service is supplied to the unit title development and the body corporate installs and maintains a meter recording the use of that amenity or service by any principal unit, the body corporate may charge the owner of that unit the cost of the usage as indicated on the meter.
-(2) Any charge is recoverable from the owner of the principal unit as if it were a levy.
-(3) The cost of the usage charged by the body corporate to the principal unit owner must be the same as that charged by the provider of the amenity or service.
+(1) If any amenity or service is supplied to the unit title development and the body corporate installs and maintains a meter recording the use of that amenity or service by any principal unit or accessory unit, the body corporate may charge the owner of that unit the cost of the usage as indicated on the meter.
+(2) Any charge is recoverable from the owner of the principal unit or the accessory unit as if it were a levy.
+(3) The cost of the usage charged by the body corporate to the principal unit owner or the accessory unit owner must be the same as that charged by the provider of the amenity or service.
 
 ### 126 Recovery of money expended for repairs and other work
 (1) This section applies where the body corporate does any repair, work, or act that it is required or authorised to do, by or under this Act, or by or under any other Act, but the repair, work, or act—
@@ -1275,7 +1398,7 @@ The body corporate may distribute money or personal property in its possession a
 (3) The body corporate, every unit owner, and every person entitled as mortgagee, by virtue of a registrable mortgage of any principal unit, have an insurable interest in the property covered by the principal insurance policy.
 (4) For the purposes of subsection (3), in a layered unit title development—
   (a) the body corporate referred to is the head body corporate; and
-  (b) a unit owner is a unit owner in any unit title development that is part of the layered title development.
+  (b) a unit owner is a unit owner in any unit title development that is part of the layered unit title development.
 (5) The body corporate must, by notice in writing, inform the insurer and keep the insurer informed of the name and address of every unit owner and mortgagee.
 (6) Nothing in subsection (5) prevents a unit owner or mortgagee from giving notice to an insurer.
 
@@ -1325,17 +1448,22 @@ The body corporate may distribute money or personal property in its possession a
 
 **Review of service contracts**
 
-### 139 Original owner’s obligation in relation to service contracts
-(1) This section applies if a body corporate enters into a service contract for the unit title development before the date that the control period ends.
-(2) The original owner and any associate of the original owner who is a member of the body corporate during the control period must exercise reasonable skill, care, and diligence and act in the best interests of the body corporate, as constituted after the date that the control period ends, in ensuring that—
-  (a) the terms of the service contract achieve a fair and reasonable balance between the interests of the service contractor and the body corporate as constituted after the date that the control period ends; and
+### 139 Original owner’s obligation in relation to service contracts and signage agreements
+(1) This section applies if a body corporate enters into a service contract or a signage agreement for the unit title development before the date on which the control period ends.
+(2) The original owner and any associate of the original owner who is a member of the body corporate during the control period must exercise reasonable skill, care, and diligence and act in the best interests of the body corporate, as constituted after the date on which the control period ends, in ensuring that—
+  (a) the terms of the contract or agreement achieve a fair and reasonable balance between the interests of the other party to the contract or agreement and the body corporate as constituted after the date on which the control period ends; and
   (b) the terms are appropriate for the unit title development; and
-  (c) the powers able to be exercised, and functions required to be performed, by the service contractor under the service contract—
+  (c) in respect of a service contract, the powers able to be exercised, and functions required to be performed, by the service contractor—
     (i) are appropriate for the unit title development; and
     (ii) do not adversely affect the body corporate’s ability to carry out its functions.
+(3) Despite subsection (2), the body corporate must not enter into a service contract or a signage agreement that has effect for longer than 24 months after the date on which the control period ends, unless the contract or agreement also includes—
+  (a) a term—
+    (i) providing for the contract or agreement to be varied after the control period ends by agreement of the parties; and
+    (ii) including a right for either party to cancel the contract or agreement, without penalty, if agreement on a variation cannot be reached; and
+  (b) a term providing that any rights of renewal under the contract or agreement exercisable after the control period ends are exercisable only if the body corporate agrees (by ordinary resolution) to each renewal as it arises.
 
-### 140 Compensation for, or termination of, service contracts
-(1) This section applies to a service contract—
+### 140 Compensation for, or termination of, service contracts or signage agreements
+(1) This section applies to a service contract or signage agreement—
   (a) to which the body corporate of a unit title development is a party; and
   (b) that was entered into before the date that the control period ended in relation to the unit title development concerned.
 (2) The appropriate decision-maker may, on the application of the body corporate, require a person, or, as the case may be, persons, described in subsection (3) to pay compensation to the body corporate if it appears to the appropriate decision-maker that the body corporate has suffered loss or damage because that person has, or, as the case may be, those persons have, failed to comply with section 139.
@@ -1343,7 +1471,7 @@ The body corporate may distribute money or personal property in its possession a
   (a) the original owner:
   (b) an associate of the original owner who was a member of the body corporate during the control period.
 (4) An application under subsection (2) must be made within 3 years after that date that the control period ended.
-(5) The appropriate decision-maker may, on an application made by the body corporate, make an order terminating the service contract if it appears to the appropriate decision-maker that the contract is harsh or unconscionable.
+(5) The appropriate decision-maker may, on an application made by the body corporate, make an order terminating the service contract or signage agreement if it appears to the appropriate decision-maker that the contract or agreement is harsh or unconscionable.
 
 **Appointment of administrator**
 
@@ -1405,7 +1533,8 @@ A provision in any agreement to exclude or limit the obligation to disclose unde
 
 ### 146 Pre-contract disclosure to prospective buyer
 (1) Before a buyer enters into an agreement for sale and purchase of a unit the seller must provide a disclosure statement (a pre-contract disclosure statement) to the buyer.
-(2) The pre-contract disclosure statement must be in the prescribed form and contain the prescribed information.
+(2) The pre-contract disclosure statement must contain the prescribed information (to the extent that it is capable of being provided in relation to the unit and the development concerned).
+(3) If the seller does not comply with subsections (1) and (2), the settlement date agreed to in a subsequent agreement for sale and purchase may be delayed in accordance with section 149 or the agreement may be cancelled in accordance with section 149A.
 
 ### 147 Pre-settlement disclosure to buyer
 (1) This section applies if a buyer and a seller have entered into an agreement for sale and purchase.
@@ -1416,34 +1545,75 @@ A provision in any agreement to exclude or limit the obligation to disclose unde
 (4) A body corporate may withhold a certificate referred to in subsection (3)﻿(b) if any debt that is due to the body corporate by the unit owner is unpaid.
 
 ### 148 Buyer may request additional disclosure
-(1) A buyer may request an additional disclosure statement or may request some, but not all, of the information required to be in an additional disclosure statement (specific prescribed information).
-(2) The request may be made at any time before whichever of the following dates occurs first:
-  (a) the close of the fifth working day after the date that the agreement was entered into; or
-  (b) the close of the tenth working day before the settlement date.
-(3) If a buyer makes a request in accordance with subsections (1) and (2), the seller must provide the additional disclosure statement to the buyer no later than the fifth working day after the date on which the request was made.
-(4) The additional disclosure statement must contain the prescribed information or, if the buyer has requested only specific prescribed information, the specific prescribed information requested.
-(5) The buyer must pay to the seller all reasonable costs incurred by the seller in providing the additional disclosure statement or specific prescribed information, but the non-payment of these costs does not justify the seller withholding disclosure.
+[Repealed]
 
-### 149 Buyer may delay settlement if disclosure late or not made
-(1) This section applies if—
-  (a) the seller provides a pre-settlement disclosure statement or an additional disclosure statement on a date that is later than the fifth working day before the settlement date; or
-  (b) at the close of business on the last working day before the settlement date the seller has not provided a pre-settlement disclosure statement or, if one had been requested, an additional disclosure statement.
-(2) The buyer may, by notice in writing, postpone the settlement date—
-  (a) in the case referred to in subsection (1)﻿(a), until the fifth working day after the date on which the latest disclosure statement to be given was provided; or
-  (b) in the case referred to in subsection (1)﻿(b), until the fifth working day after the date on which the disclosure statement is provided or, if more than 1 is required to be provided, the latest to be provided.
+### 149 Buyer may delay settlement if pre-contract disclosure late, incomplete, inaccurate, or not made at all
+(1) Subsection (2) applies if the seller has not provided a complete and accurate pre-contract disclosure statement to the buyer on a date that is earlier than 5 working days before the settlement date.
+(2) The buyer may, by notice in writing given on or before the settlement date, delay the settlement date,—
+  (a) if the seller has provided a complete and accurate pre-contract disclosure statement on a date that is later than 5 working days before the settlement date, until the fifth working day after the date on which the pre-contract disclosure statement was provided; and
+  (b) if the seller has provided an incomplete or inaccurate pre-contract disclosure statement or has not provided a pre-contract disclosure statement at all, until the fifth working day after the date on which the seller provides a complete and accurate pre-contract disclosure statement.
+(3) A buyer who delays the settlement date by giving notice under subsection (2)﻿(b) may, by notice in writing, further delay the settlement date until the fifth working day after the seller provides a complete and accurate statement if—
+  (a) the seller provides a further incomplete or inaccurate pre-contract disclosure statement; or
+  (b) the seller does not provide a complete and accurate pre-contract disclosure statement within 5 working days after the date on which notice was given under subsection (2)﻿(b).
+(4) The buyer must give notice of further delay,—
+  (a) if subsection (3)﻿(a) applies, within 5 working days of the seller providing the further incomplete or inaccurate pre-contract disclosure statement; or
+  (b) if subsection (3)﻿(b) applies, within 5 working days of the expiry of the period set out in that paragraph.
+(5) If a buyer gives notice of further delay under subsection (3) and the seller fails to provide the buyer with a complete and accurate pre-contract disclosure statement within 5 working days of the date of that notice, the buyer must, unless the buyer and seller agree otherwise,—
+  (a) cancel the agreement for sale and purchase under section 149A (if permitted by that section); or
+  (b) proceed with the agreement for sale and purchase, with settlement—
+    (i) on the date that is 5 working days from the date on which the buyer advises the seller of the election to proceed; or
+    (ii) on a date agreed by the buyer and seller.
+
+### 149A Buyer may cancel agreement for sale and purchase if pre-contract disclosure late, incomplete, inaccurate, or not made at all
+(1) The buyer may cancel the agreement for sale and purchase under this section if—
+  (a) the seller—
+    (i) has not provided a pre-contract disclosure statement to the buyer in accordance with section 146; or
+    (ii) subject to subsection (2), has provided to the buyer a pre-contract disclosure statement that is incomplete or inaccurate; and
+  (b) the buyer does not delay settlement under section 149.
+(2) The buyer may not cancel an agreement for sale and purchase for provision of an incomplete or inaccurate pre-contract disclosure statement before the agreement was entered into if—
+  (a) the disclosure is incomplete or inaccurate but—
+    (i) this was noted by the seller in the disclosure statement by reference to the specific information not provided or the manner in which it was inaccurate; and
+    (ii) the seller confirmed in the pre-contract disclosure statement that the reason for the incomplete disclosure or inaccuracy was that the information (or document containing the information) required to complete or correct the pre-contract disclosure statement did not exist or, despite reasonable efforts, could not be found; or
+  (b) the incomplete or inaccurate information contained in the pre-contract disclosure statement would not have had the effect of—
+    (i) substantially reducing the benefit to the buyer under the agreement for sale and purchase or as a unit owner; or
+    (ii) substantially increasing the burden of the buyer under the agreement for sale and purchase or as a unit owner; or
+    (iii) in relation to the buyer, making the benefit or burden of the agreement for sale and purchase substantially different from that represented or contracted for; or
+  (c) the seller provides the missing information or corrects the inaccuracy in the pre-contract disclosure statement before the buyer gives notice to cancel the contract.
+(3) Before cancelling an agreement for sale and purchase under this section,—
+  (a) the buyer must, on or before the settlement date, give the seller notice in writing that they intend to cancel the agreement; and
+  (b) the seller has 10 working days from the date the notice under paragraph (a) is given to provide a complete and accurate pre-contract disclosure statement.
+(4) Whether or not the seller has provided a complete and accurate pre-contract disclosure statement, the buyer must, within 5 working days of the expiry of the period provided by subsection (3)﻿(b),—
+  (a) cancel the agreement for sale and purchase by notice in writing; or
+  (b) proceed with the agreement for sale and purchase, with settlement—
+    (i) on the date that is 5 working days from the date on which the buyer advises the seller of the election to proceed; or
+    (ii) on a date agreed by the buyer and seller.
 
 ### 150 Seller must rectify inaccuracies in disclosure statement
-(1) This section applies if, before the settlement date, the seller becomes aware that information contained in a disclosure statement given under any of sections 146, 147, and 148 or this section—
+(1) This section applies if, before the settlement date, the seller becomes aware that information contained in a disclosure statement given under section 146 or 147 or this section—
   (a) was inaccurate when the disclosure statement was given; or
   (b) has, since it was given, become inaccurate.
 (2) The seller must, within 5 working days after the date on which this section begins to apply, or any longer period agreed between the buyer and the seller, give the buyer a statement correcting the inaccuracy.
-(3) If a statement is given under subsection (2) within the period of 5 working days before the settlement date, the buyer may, by notice in writing, postpone the settlement date until the fifth working day after the date on which the statement under subsection (2) was provided.
+(3) If a statement is given under subsection (2) within the period of 5 working days before the settlement date, the buyer may, by notice in writing, delay the settlement date until the fifth working day after the date on which the statement under subsection (2) was provided.
 
-### 151 Cancellation by buyer
-(1) This section applies if—
-  (a) the seller does not provide the disclosure statements referred to in section 147 or 148 within the times prescribed in those sections; and
-  (b) the buyer does not postpone the settlement date under section 149(2).
-(2) The buyer may, by giving 10 days' notice in writing to the seller, cancel the agreement for sale and purchase.
+### 151 Buyer may delay settlement if pre-settlement disclosure late, incomplete, inaccurate, or not made at all
+(1) Subsection (2) applies if the seller provides a pre-settlement disclosure statement to the buyer on a date that is later than 5 working days before the settlement date but prior to the settlement date.
+(2) The buyer may, by notice in writing given on or before the settlement date, delay the settlement date until the fifth working day after the date on which the pre-settlement disclosure statement was provided.
+(3) Subsection (4) applies if, at the close of business on the last working day before the settlement date, the seller has provided an incomplete or inaccurate pre-settlement disclosure statement or has not provided a pre-settlement disclosure statement at all.
+(4) The buyer may, by notice in writing given on or before the settlement date, delay the settlement date until the fifth working day after the date on which the seller provides a complete and accurate pre-settlement disclosure statement.
+
+### 151A Buyer may cancel agreement for sale and purchase if pre-settlement disclosure late, incomplete, inaccurate, or not made at all
+(1) The buyer may cancel the agreement for sale and purchase under this section if—
+  (a) the seller has not provided a complete and accurate pre-settlement disclosure statement within the time required in section 147; and
+  (b) the buyer chooses not to delay settlement under section 151.
+(2) Before cancelling an agreement for sale and purchase under this section,—
+  (a) the buyer must, on or before the settlement date, give the seller notice in writing that they intend to cancel the agreement; and
+  (b) the seller has 10 working days from the notice under paragraph (a) being given to fully comply with the seller’s obligations under section 147(3).
+(3) If the seller has not fully complied with its obligations under section 147(3) at the end of the period provided in subsection (2)﻿(b), the buyer must, within 5 working days of the expiry of the period,—
+  (a) cancel the agreement for sale and purchase by notice in writing; or
+  (b) proceed with the agreement for sale and purchase, with settlement—
+    (i) on the date that is 5 working days from the date on which the buyer advises the seller of the election to proceed; or
+    (ii) on a date agreed by the buyer and seller.
+(4) If the seller has fully complied with their obligations under section 147(3) at the end of the period provided in subsection (2)﻿(b), the buyer may not cancel the agreement for sale and purchase under this section.
 
 ### 152 Further requirements concerning disclosure statements
 A disclosure statement given under any of sections 146, 147, 148, and 150 must be dated and signed by the seller or a person authorised by the seller.
@@ -1469,6 +1639,16 @@ The body corporate must hold a general meeting within 3 months from the date on 
 (1) This section applies if, at any time after the turn-over disclosure statement is provided, the original owner becomes aware that information provided under section 156 was inaccurate as at the date that the control period ended.
 (2) The original owner must, within 5 working days after the date on which this section begins to apply, or any longer period agreed between the original owner and the body corporate, give the body corporate a statement correcting the inaccuracy.
 (3) The body corporate is entitled to rely on the information contained in that statement as conclusive evidence of the accuracy of the matters described in that statement.
+
+## Part 2A — Special provisions for large unit title developments
+
+### 157A Application of this Part
+(1) This Part applies to a large unit title development.
+(2) If there is an inconsistency between a provision in this Part and a provision in the rest of the Act (or any regulations made under the Act), the provision in this Part prevails, but only to the extent of the inconsistency.
+(3) To avoid doubt, except to the extent expressly provided in this Part or as set out in subsection (2), unit title developments to which this Part applies must also comply with all the relevant provisions of the rest of this Act and the regulations.
+
+### 157B Employment or engagement of body corporate manager or managers
+The body corporate of a large unit title development must employ or engage 1 or more body corporate managers, unless the body corporate, by special resolution, decides not to do so.
 
 ## Part 3 — Special provisions relating to leasehold land
 
@@ -1612,16 +1792,19 @@ The owner of a future development unit in a unit title development to which this
 
 ### 171 Jurisdiction of Tenancy Tribunals
 (1) Except as provided in this section, a Tenancy Tribunal (a Tribunal) constituted under section 67 of the Residential Tenancies Act 1986 has jurisdiction to hear and determine all disputes arising between any persons of the kind listed in subsection (2) in relation to a unit title development (a unit title dispute).
+(1AA) To avoid doubt, the Limitation Act 2010 applies to any unit title dispute heard by the Tribunal.
 (1A) To avoid doubt, and without limiting subsection (1), a unit title dispute may relate to a claim for unpaid levies.
 (2) The persons mentioned in subsection (1) are—
   (a) the owner of a principal unit or a former owner of a principal unit:
   (b) a future development unit owner:
   (c) an occupier of a future development unit:
   (d) a body corporate:
+  (da) a body corporate manager:
   (e) an administrator:
   (f) a registered valuer:
   (g) an occupier of a principal unit:
   (h) a service contractor:
+  (ha) a party to a signage agreement:
   (i) a prospective buyer of a principal unit:
   (j) an original owner:
   (k) a lessor of base land:
@@ -1632,7 +1815,7 @@ The owner of a future development unit in a unit title development to which this
   (b) order any party to refrain from doing anything that would constitute a breach of an obligation arising under this Act, the body corporate operational rules, or any agreement that is binding on the party and relevant to the unit title dispute:
   (c) make any supplementary orders of a consequential or ancillary nature necessary to exercise or perfect the exercise of any of its jurisdiction.
 (4) The Tribunal does not have jurisdiction—
-  (a) to make an order requiring any person or body to pay any sum, or to do any work to a value, or otherwise incur expenditure, in excess of $50,000; or
+  (a) to make an order requiring any person or body to pay any sum, or to do any work to a value, or otherwise incur expenditure, in excess of $100,000; or
   (b) to hear a dispute relating to the application of insurance money under section 136(4); or
   (c) to hear any dispute relating to the title of land.
 (5) Without limiting subsection (4)﻿(c), a dispute relating to the title of land includes—
@@ -1640,12 +1823,12 @@ The owner of a future development unit in a unit title development to which this
   (b) cancellation of a unit plan:
   (c) conversion under subpart 3 of this Part.
 (6) An order of the Tribunal that exceeds any restriction specified in subsection (4) is of no effect.
-(7) Subsection (4)﻿(a) does not prevent a party to a unit title dispute from abandoning as much of the claim as exceeds $50,000 in order to bring the claim within the jurisdiction of the Tribunal; and in any such case, an order of the Tribunal in relation to the claim operates to discharge any person against whom the claim is made and the subsequent order made from liability in respect of the amount abandoned.
-(8) The Tribunal has jurisdiction to hear and determine any claim arising under any unit title dispute that is a claim for the balance, not exceeding $50,000, after a set-off or any counterclaim made by the other party to the dispute against the claimant arising out of the same dispute, being a counterclaim admitted by the claimant.
+(7) Subsection (4)﻿(a) does not prevent a party to a unit title dispute from abandoning as much of the claim as exceeds $100,000 in order to bring the claim within the jurisdiction of the Tribunal; and in any such case, an order of the Tribunal in relation to the claim operates to discharge any person against whom the claim is made and the subsequent order made from liability in respect of the amount abandoned.
+(8) The Tribunal has jurisdiction to hear and determine any claim arising under any unit title dispute that is a claim for the balance, not exceeding $100,000, after a set-off or any counterclaim made by the other party to the dispute against the claimant arising out of the same dispute, being a counterclaim admitted by the claimant.
 (9) A cause of action must not be divided into 2 or more claims for the purpose of bringing it within the jurisdiction of the Tribunal.
 
 ### 172 Jurisdiction of District Court
-(1) The District Court has jurisdiction to hear and determine a unit title dispute if the order sought requires any person or body to pay any sum, or to do any work to a value, or otherwise incur expenditure, in excess of $50,000 but not more than $350,000.
+(1) The District Court has jurisdiction to hear and determine a unit title dispute if the order sought requires any person or body to pay any sum, or to do any work to a value, or otherwise incur expenditure, in excess of $100,000 but not more than $350,000.
 (2) In addition to the jurisdiction conferred under subsection (1), the District Court also has jurisdiction to hear and determine a unit title dispute relating to the application of insurance money under section 136(4) for amounts up to and including $50,000.
 (3) The District Court does not have jurisdiction to hear any dispute relating to the title of land.
 (4) Any provision of any agreement that purports to exclude or limit the jurisdiction of the District Court is of no effect.
@@ -2056,17 +2239,21 @@ For the purposes of this subpart, designated resolution means a resolution relat
   (c) prescribing for the regulation of the funds set up under sections 115, 117, 118, and 119:
   (d) specifying the matters to be included in a body corporate committee report:
   (e) specifying the information to be included in the register of unit owners:
-  (f) prescribing matters relating to the administration of a body corporate and a body corporate committee:
+  (f) prescribing matters relating to the administration of a body corporate and a body corporate committee, including in relation to meeting requirements and procedures for participation by remote access:
+  (fa) specifying matters associated with the functions and duties that a body corporate manager may perform or exercise, including any terms that must be included in a manager’s terms of employment or engagement:
   (g) specifying matters associated with the functions, powers, and duties of a body corporate and a body corporate committee:
-  (h) prescribing the manner and form of voting procedures and all other matters relating to voting:
+  (h) prescribing the manner and form of voting procedures and all other matters relating to voting, including in relation to electronic voting:
   (i) prescribing body corporate operational rules:
   (j) prescribing requirements of a long-term maintenance plan and matters to be included in that plan:
   (k) prescribing the form and content of disclosure statements required under this Act:
   (l) prescribing the form and content of certificates:
   (m) prescribing for matters relating to the register and requirements for depositing unit plans and amendments to unit plans with the Registrar:
-  (n) imposing fees and charges for anything authorised by this Act:
+  (n) imposing fees and charges for anything authorised by this Act, including in relation to the settling of disputes:
   (o) prescribing the rate of interest payable on money owing to a body corporate:
   (p) regulating the practice and conduct of business under this Act:
+  (pa) prescribing codes of conduct for—
+    (i) body corporate committee members; and
+    (ii) body corporate managers:
   (q) prescribing forms for the purposes of this Act:
   (r) providing for any other matters contemplated by this Act, necessary for its administration, or necessary for giving it full effect.
 (2) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
@@ -2167,6 +2354,43 @@ In this Part,—
 (1) This clause applies to any declaration of the High Court that is made under section 188 (including as applied by section 165 and Schedule 2) before the commencement date and that authorises the cancellation of a unit plan.
 (2) Section 189 and any related regulations, in each case as in force immediately before the commencement date, continue to apply in relation to that declaration despite the enactment of Part 2 of the Regulatory Systems (Building and Housing) Amendment Act 2017.
 
+### Part 2 — Provisions relating to Unit Titles (Strengthening Body Corporate Governance and Other Matters) Amendment Act 2022
+
+### 4 Definitions
+In this Part,—
+  - **2022 Act** means the Unit Titles (Strengthening Body Corporate Governance and Other Matters) Amendment Act 2022
+  - **amendment** means an amendment to this Act made by a provision of the 2022 Act
+  - **commencement date** , in relation to an amendment, means the date on which the provision of the 2022 Act that makes the amendment comes into force
+  - **principal Act** means the Unit Titles Act 2010.
+
+### 5 Savings provision for existing service contracts and signage agreements
+(1) This clause applies to a service contract or signage agreement entered into before the commencement of sections 27 and 28 of the 2022 Act (which relate to sections 139 and 140 of the principal Act).
+(2) Section 139(3) does not apply to any service contract or signage agreement entered into before the commencement of section 27 of the 2022 Act.
+(3) In respect of a signage agreement entered into by a body corporate before the commencement of section 28 of the 2022 Act,—
+  (a) section 140(2) does not apply:
+  (b) section 140(5) applies.
+
+### 6 Pecuniary penalties
+Sections 176B to 176E do not apply to acts or omissions before the commencement of section 38 of the 2022 Act.
+
+### 7 Proceedings that have commenced
+An amendment does not apply to proceedings commenced before a court or the Tribunal before the commencement date.
+
+### 8 Documents to be retained and produced by body corporate or body corporate manager
+Section 202A applies to any documents (or copies of them) in the possession or control of a body corporate or a body corporate manager on or after the commencement of regulations that specify any prescribed document or class of prescribed document for the purpose of section 202A, whether the documents (or copies) were created before, on, or after that date.
+
+### 9 Only 1 penalty order for same conduct
+Section 176E applies to conduct whether the conduct is engaged in before, on, or after the commencement of section 38 of the 2022 Act.
+
+### 10 Power to issue improvement notices
+Section 176F applies to a contravention of a provision of this Act or of regulations made under this Act that occurs on or after the commencement of section 39 of the 2022 Act.
+
+### 11 Tribunal may authorise inspections
+The Tribunal may make an order under section 202D(2) whether the breach of this Act is believed on reasonable grounds to have occurred before, on, or after the commencement of section 41 of the 2022 Act.
+
+### 12 Chief executive may take proceedings in place of specified person
+The chief executive may act under section 202E in respect of proceedings that were brought or could have been brought on or after the commencement of section 41 of the 2022 Act.
+
 ## Schedule 1 — Illustrative examples of unit title developments
 
 ## Schedule 2 — Modifications to this Act applicable to timeshare resorts
@@ -2187,15 +2411,15 @@ An extraordinary general meeting must be held in accordance with the regulations
     (ii) a timeshare resort comprising timeshare units only, is signed by or for the timeshare unit owners of not less than 20% of the timeshare units.
 
 ### 95 Quorum
-(1) At a general meeting of a body corporate, the timeshare owners of not less than 5% of the timeshare entitlements or their proxies constitute a quorum.
-(2) However, in the case of a timeshare resort comprising both timeshare units and non-timeshare units, the following constitutes a quorum:
-  (a) the persons entitled to exercise not less than 25% of the votes able to be exercised in respect of the non-timeshare units or their proxies; and
-  (b) the owners of not less than 5% of the timeshare entitlements or their proxies.
+(1) A quorum for a general meeting of a body corporate is the number of timeshare owners attending in accordance with section 88(3) (including proxies) who are entitled to exercise not less than 5% of the timeshare entitlements and also satisfy the eligibility requirements to exercise that voting power (for example, have no outstanding levy amounts owing to the body corporate).
+(2) However, in the case of a timeshare resort comprising both timeshare units and non-timeshare units, a quorum for a general meeting of the body corporate is—
+  (a) the number of non-timeshare owners attending in accordance with section 88(3) (including proxies) who are entitled to exercise not less than 25% of the votes able to be exercised in respect of non-timeshare units and who also satisfy the eligibility requirements to exercise that voting power; and
+  (b) the number of persons attending in accordance with section 88(3) (including proxies) who are entitled to exercise not less than 5% of the votes able to be exercised in respect of timeshare unit entitlements and who also satisfy the eligibility requirements to exercise that voting power.
 (3) Except as otherwise provided for in this Act and the regulations, no business may be transacted at a general meeting of the body corporate unless a quorum is present at the time.
 
 ### 99 Request for a poll by owner of non-timeshare unit in timeshare resort
 (1) This section and section 100 apply to a timeshare resort comprising both timeshare units and non-timeshare units.
-(2) A poll may be requested by any eligible voter who is an owner of a non-timeshare unit voting on a motion passed by ordinary resolution under section 97 or special resolution under section 98.
+(2) A poll may be requested by any eligible voter who is an owner of a non-timeshare unit or their proxy voting on a motion passed by ordinary resolution under section 97 or special resolution under section 98.
 
 ### 100 Counting of votes if poll requested
 (1) This section applies if—
