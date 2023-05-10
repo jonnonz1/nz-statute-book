@@ -1,5 +1,5 @@
 # Terrorism Suppression Act 2002
-_Consolidation as at 2021-10-28_
+_Consolidation as at 2023-05-10_
 
 ### 1 Title
 This Act is the Terrorism Suppression Act 2002.
@@ -75,6 +75,7 @@ The purpose of this Act is—
   - **funds** —
     (a) means assets of every kind, whether tangible or intangible, moveable or immoveable, however acquired; and
     (b) includes legal documents or instruments (for example, bank credits, travellers' cheques, bank cheques, money orders, shares, securities, bonds, drafts, and letters of credit) in any form (for example, in electronic or digital form) evidencing title to, or an interest in, assets of any kind
+  - **imprisoned** , in relation to an entity, has, in sections 35A to 35E (and in Part 2 of Schedule 1AA), the meaning given to it in section 35G
   - **infrastructure facility** means a facility (whether publicly or privately owned) providing or distributing basic services for a population (for example, water, sewage disposal, energy, fuel, or communications)
   - **intelligence and security agency** means—
     (a) the New Zealand Security Intelligence Service:
@@ -592,7 +593,7 @@ A designation under section 22—
     (i) by a notice (in the prescribed form (if any)) indicating that it has been made being given (in the prescribed manner (if any)) with all reasonable speed to the designated entity, if practicable, where that entity or a representative of it is in New Zealand; and
     (ii) by a notice indicating that it has been made being given to any other persons or bodies, as the Prime Minister directs under section 28(2):
   (g)
-  (h) operates until it expires or is revoked but, if it is made the subject of any judicial review (whether under the Judicial Review Procedure Act 2016 or otherwise) or other proceedings before a court and is not sooner revoked under section 34, continues to operate until those proceedings are withdrawn or finally determined.
+  (h) operates until it expires or is revoked but, if it is made the subject of any judicial review (whether under the Judicial Review Procedure Act 2016 or otherwise) or other proceedings before a court and is not sooner revoked under section 34 or 35D, continues to operate until those proceedings are withdrawn or finally determined.
 
 **Further provisions relating to interim and final designations**
 
@@ -648,7 +649,7 @@ No designation under section 20 or section 22 is invalid just because—
 **Material on which designations may be based**
 
 ### 30 Information available to Prime Minister
-In considering whether to make or to revoke a designation under section 20 or section 22 or section 34, the Prime Minister may take into account any relevant information, including classified security information.
+In considering whether to make, revoke, or renew a designation under section 20, 22, 34, 35, or 35D, the Prime Minister may take into account any relevant information, including classified security information.
 
 ### 31 United Nations Security Council information
 [Repealed]
@@ -691,12 +692,71 @@ Nothing in this Act prevents a person from bringing any judicial review (whether
 
 ### 35 Designations under section 22 to expire after 3 years unless renewed by Prime Minister
 (1) A designation under section 22 expires 3 years after the date on which it takes effect, unless it is earlier—
-  (a) revoked under section 34; or
+  (a) revoked under section 34 or 35D; or
   (b) renewed by an order under subsection (2) or (3).
 (2) The Prime Minister may order that a designation made under section 22 remain in force for a further 3 years after the making of the order if the Prime Minister is satisfied that there are still reasonable grounds as set out in section 22 for an entity to be designated under that section.
 (3) Before the expiry of an order under subsection (2), the Prime Minister may make another order renewing the designation concerned for a further 3 years.
 (4) After making an order under subsection (2) or (3), the Prime Minister must report to the Intelligence and Security Committee on the renewal of the designation.
 (5) The Prime Minister may make any number of orders under subsection (3) in respect of the same designation.
+
+**Effect on final designation if entity imprisoned**
+
+### 35A Effect on final designation if entity imprisoned
+When sections 35B to 35F apply
+(1) Sections 35B to 35F apply if an entity is for the time being—
+  (a) the subject of a designation made under section 22 as—
+    (i) a terrorist entity; or
+    (ii) an associated entity; and
+  (b) imprisoned (as defined in section 35G).
+When imprisonment starts does not matter
+(2) Sections 35B to 35F apply whether the entity starts to be imprisoned before, at, or after 1 or both of—
+  (a) the time when the designation takes effect:
+  (b) the time when the last renewal (if any) of the designation takes effect.
+
+### 35B Certain revocation applications stopped
+While the entity is imprisoned, no application for revocation of the designation can be made under section 34(1)﻿(a) or (b) on the ground specified in section 34(3)﻿(b).
+
+### 35C Duration of designation extended (3-year period until expiry paused)
+(1) While the entity is imprisoned, any incomplete 3-year period, or further 3-year period, under section 35, for expiry of the designation, does not run or end.
+(2) When the entity ceases to be imprisoned, that period, or further period, resumes, and the designation may expire (if it is not renewed under section 35).
+
+### 35D Periodic review whether designation no longer justified
+(1) The Prime Minister must, at least once every 3 years while the entity is imprisoned, review the designation and decide whether it is no longer justified.
+(2) The Prime Minister must revoke under this section a designation that they decide under this section is no longer justified (see also sections 23(h) and 42).
+
+### 35E Periodic review: when designation no longer justified
+(1) The Prime Minister may decide a designation is no longer justified under section 35D only if satisfied that none of its effects is necessary or desirable for the prevention, or other suppression, of terrorism.
+(2) Subsection (1) applies regardless of whether, at all or any times while imprisoned, the entity is no longer involved in any way in acts of the kind that made, or that would make, the entity eligible for designation under section 22.
+
+### 35F Periodic review: procedure
+For a review under section 35D, the Prime Minister—
+  (a) must take reasonable steps to allow the following to make available relevant information:
+    (i) the entity; and
+    (ii) a third party with an interest in the designation that, in the Prime Minister’s opinion after having regard to section 34(2), is an interest apart from any interest in common with the public; and
+  (b) must take into account any relevant information made available in response to those steps; and
+  (c) may take into account any other relevant information, including classified security information (see also section 30).
+
+### 35G Definition: when entity is imprisoned
+Definition
+(1) For sections 35A to 35E, an entity is imprisoned only if the entity—Prisoner under Corrections Act 2004Arrested and detained or sentenced for armed forces discipline
+  (a) is in the legal custody under the Corrections Act 2004 of—
+    (i) the chief executive (as defined in section 3(1) of that Act); or
+    (ii) the Commissioner of Police; or
+  (b) is arrested and detained under the Armed Forces Discipline Act 1971 pending release or trial; or
+  (c) is a service detainee or a service prisoner (as those terms are defined in section 4 of the Prisoners' and Victims' Claims Act 2005).
+When entity may be in specified legal custody under Corrections Act 2004
+(2) Subsection (1)﻿(a) applies, without limiting the generality of that provision, if the entity is in the legal custody specified in that provision and—
+  (a) is detained for the purposes of any remand pending or during trial or sentence in the District Court or High Court; or
+  (b) is detained in a prison as a young person (aged 17 years), pending hearing in the Youth Court, and under an order made under section 238(1)﻿(f) of the Oranga Tamariki Act 1989; or
+  (c) is serving a sentence of imprisonment (for example, is serving a sentence of imprisonment as a young person—
+    (i) detained under that sentence in a prison or in a Police jail under section 34(1) or (2) of the Corrections Act 2004; and so
+    (ii) not detained under that sentence in a residence under section 34A(1) of that Act); or
+  (d) is detained under the Immigration Act 2009 (for example, pending deportation); or
+  (e) is detained under the Extradition Act 1999 (for example, pending the surrender of the entity to the extradition country).
+Meaning of young person
+(3) In this section, young person means a young person within the meaning given in section 2(1) of the Oranga Tamariki Act 1989.
+
+**Classified security information, and notification**
 
 ### 36 Applications under section 35 and related proceedings
 [Repealed]
@@ -733,7 +793,7 @@ Nothing in this Act prevents a person from bringing any judicial review (whether
 [Repealed]
 
 ### 42 Notification of revocation, expiry, or invalidity of designations
-(1) If a designation under this Act expires or is revoked or is found to be or to have been invalid, under section 34 or section 35 or by virtue of any judicial review (whether under the Judicial Review Procedure Act 2016 or otherwise) or other proceedings before a court, the Prime Minister must—
+(1) If a designation under this Act expires or is revoked or is found to be or to have been invalid, under section 34, 35, or 35D or by virtue of any judicial review (whether under the Judicial Review Procedure Act 2016 or otherwise) or other proceedings before a court, the Prime Minister must—
   (a) ensure that notice of the revocation or expiry or invalidity is published in the Gazette as soon as practicable; and
   (b) take all reasonable steps to ensure that notice of the revocation or expiry or invalidity is given, in the manner and form required by section 21(d) or section 23(f), to every person and body specified in subsection (2) who is not already aware of it.
 (2) The persons and bodies referred to in subsection (1)﻿(b) are every person or body to whom notice of the making of the designation was given under section 21(d) or section 23(f).
@@ -993,7 +1053,7 @@ The following sections of the Criminal Proceeds (Recovery) Act 2009 and the Sent
 
 ### 59 Discharge of order under section 55 on appeal
 (1)
-(2) The revocation, under section 34, of a designation that has been renewed by an order made under section 35(2), does not discharge any order made under section 55 against property of the entity who was the subject of the designation.
+(2) The revocation, under section 34 or 35D, of a designation that has been renewed by an order made under section 35(2), does not discharge any order made under section 55 against property of the entity who was the subject of the designation.
 (3) If an order under section 55 in respect of any property is discharged by a court hearing an appeal, under section 58, against the making of the order, the Attorney-General must,—
   (a) as soon as practicable after the discharge of the order, serve notice of the discharge of the order under section 55 (in any manner, and within any time, the court may direct) on any person who the Attorney-General has reason to believe may have had an interest in the property immediately before the making of the order; and
   (b) if required to do so by a court, serve notice of the discharge of the order under section 55 (in any manner, and within any time, the court may direct) on such persons as the court may specify.
@@ -1149,6 +1209,57 @@ In this Part,—
 
 ### 2 Amendments apply only to conduct after commencement
 The amendments made by the Amendment Act apply only to conduct after the commencement.
+
+### Part 2 — Provisions relating to Counter-Terrorism Acts (Designations and Control Orders) Amendment Act 2023
+
+### 3 Definitions
+In this Part,—
+  - **Amendment Act** means the Counter-Terrorism Acts (Designations and Control Orders) Amendment Act 2023
+  - **commencement** means the commencement of the Amendment Act
+  - **imprisoned** , in relation to an entity, has the meaning given to it in section 35G
+  - **new sections** means—
+    (a) section 30 (as amended by the Amendment Act); and
+    (b) sections 35A to 35G (as inserted by the Amendment Act)
+    - **refusal** , of a revocation application, includes, without limitation, a failure or refusal to decide the application
+    - **revocation application** means an application—
+      (a) for revocation of the designation of an entity who, at any time or times before the commencement, was for the time being—
+        (i) the subject of a designation made under section 22 as—
+          (A) a terrorist entity; or
+          (B) an associated entity; and
+        (ii) imprisoned; and
+      (b) made under section 34(1)﻿(a) or (b); and
+      (c) made on the ground specified in section 34(3)﻿(b).
+
+### 4 New sections apply to designations in force after commencement
+The new sections apply, after the commencement, to a designation in force after the commencement, regardless of whether the commencement is before, at, or after—
+  (a) the time when the designation takes effect:
+  (b) the time when the last renewal (if any) of the designation takes effect:
+  (c) the time when the entity starts to be imprisoned.
+
+### 5 New sections also apply to revocation applications made, but not withdrawn or determined, before commencement
+(1) The new sections also apply, after the commencement, to a revocation application if the application—
+  (a) is made before the commencement; and
+  (b) is not withdrawn, or determined, before the commencement.
+(2) In particular, after the commencement, section 35B applies to the application as if it were a purported revocation application that—
+  (a) was made on or after the commencement; and
+  (b) need not be decided because of section 35B.
+(3) This clause does not limit how section 35B affects a purported application made on or after the commencement for revocation of the designation of an entity who, at any time or times before, on, or after the commencement, was for the time being—
+  (a) the subject of a designation made under section 22 as—
+    (i) a terrorist entity; or
+    (ii) an associated entity; and
+  (b) imprisoned.
+(4) Subclause (3) applies whether the purported application was made—
+  (a) under section 34(1)﻿(a) or (b), on the ground specified in section 34(3)﻿(b), and before the Security Information in Proceedings (Repeals and Amendments) Act 2022 comes into force; or
+  (b) under section 29C(1)﻿(a) or (b), on the ground specified in section 29C(3)﻿(b), and when or after the Security Information in Proceedings (Repeals and Amendments) Act 2022 comes into force.
+
+### 6 Validation of pre-commencement refusals of revocation applications
+(1) This clause makes valid, from when it was made, a refusal of a revocation application if—
+  (a) the application was made, determined, and refused before the commencement; and
+  (b) the refusal is invalid.
+(2) This clause applies even if the refusal, its making, or both is or are the subject of any judicial review, or other proceedings before a court,—
+  (a) commenced before the commencement; and
+  (b) not finally determined (including any rehearing, retrial, or appeal) before the commencement.
+(3) Subclause (2) does not limit subclause (1).
 
 ## Schedule 1 — International Convention for the Suppression of Terrorist Bombings
 
