@@ -1,5 +1,5 @@
 # Terrorism Suppression (Control Orders) Act 2019
-_Consolidation as at 2021-10-05_
+_Consolidation as at 2023-05-10_
 
 ### 1 Title
 This Act is the Terrorism Suppression (Control Orders) Act 2019.
@@ -25,6 +25,7 @@ In this Act, unless the context otherwise requires,—
   - **Commissioner** means a person who is—
     (a) the Commissioner of Police holding office under section 12 of the Policing Act 2008; or
     (b) an acting Commissioner of Police appointed or deemed to be appointed under section 15 of that Act
+  - **community-based sentence** has the meaning in section 44 of the Sentencing Act 2002
   - **constable** has the meaning in section 4 of the Policing Act 2008
   - **control order** means an interim control order or a final control order made under section 12(1)
   - **country** includes any State, territory, province, or other part of a country
@@ -34,6 +35,13 @@ In this Act, unless the context otherwise requires,—
     (b) set aside, and not replaced by a sentence of imprisonment for a fixed term, on the appeal
   - **designated terrorist entity** has the meaning in section 4(1) of the Terrorism Suppression Act 2002
   - **disclosable supporting information** , for an application for, or for the renewal, variation, or discharge of, a control order, means all information supporting the application that can be disclosed in accordance with all current directions, orders, or other relevant decisions, if any, of the court
+  - **EM address** , for a relevant person who is, or may be, subject to an EM requirement for a residential requirement, means the residence in which the relevant person is to reside and remain in accordance with the residential requirement
+  - **EM requirement** means a requirement (for a residential requirement, or for any other requirement imposed by a control order) of the kind stated in section 17(n) (see also the relevant person’s obligations under section 17A)
+  - **EM requirement for a residential requirement** means a requirement of the kind stated in section 17(n) and that requires the relevant person to—
+    (a) submit to electronic monitoring of compliance with a residential requirement of the control order concerned; and
+    (b) co-operate with, and comply with any lawful direction given by, Police; and
+    (c) not tamper with or damage or do anything to interfere with the functioning of the electronic monitoring equipment; and
+    (d) otherwise comply with their obligations under the EM requirement for the residential requirement (see section 17A)
   - **engages in terrorism-related activities** has the meaning in section 8(1)
   - **foreign country** means a country other than New Zealand
   - **long-term sentence** has the meaning in section 4(1) of the Parole Act 2002
@@ -42,13 +50,20 @@ In this Act, unless the context otherwise requires,—
     (a) does or omits an act for the purpose of aiding any person to commit the terrorism; or
     (b) abets any person in the commission of the terrorism; or
     (c) incites, counsels, or procures any person to commit the terrorism
+  - **overturned** , in section 28A(1), in relation to a conviction or sentence specified in section 6(5) or (6), has the meaning in section 28A(3) to (5)
+  - **post-detention conditions** has the meaning in section 4(1) of the Sentencing Act 2002
   - **principal party** , in relation to terrorism, means a person who (alone or with any other person or other people) actually commits the terrorism
   - **prison** has the meaning in section 3(1) of the Corrections Act 2004
   - **release conditions** , in relation to 1 or more sentences of imprisonment that are or include a determinate sentence of imprisonment referred to in section 6(5)﻿(b) and (c), has the same meaning as in section 4(1) of the Parole Act 2002
-  - **relevant offender** means a person to whom section 6(5) applies (see section 6(1AA))
+  - **relevant occupant** means, for a residence that is or may be an EM address,—
+    (a) if it is a family residence, every person of or over the age of 16 years who ordinarily lives there; and
+    (b) if it is any other residence, every person whom the Commissioner or the chief executive of the Department of Corrections identifies as being a relevant occupant for the purposes of section 16D and clause 3 of Schedule 3
+  - **relevant offender** means a person to whom section 6(5) or (6) applies (see section 6(1AA))
   - **relevant person** has the meaning in section 6(1AA)
   - **relevant returner** means a person to whom section 6(1) applies (see section 6(1AA))
   - **requirements** , of a control order, means the prohibitions, restrictions, or other requirements that the order imposes, in accordance with this Act, on the relevant person in respect of whom the order is made
+  - **residential requirement** means a requirement of the kind stated in section 17(j)
+  - **sentence of home detention** means a sentence of home detention imposed under section 80A of the Sentencing Act 2002
   - **short-term sentence** has the meaning in section 4(1) of the Parole Act 2002
   - **statutory release date** , in relation to 1 or more sentences of imprisonment that are or include a determinate sentence of imprisonment referred to in section 6(5)﻿(b) and (c), has the same meaning as in section 4(1) of the Parole Act 2002
   - **terrorism** means a terrorist act as defined in section 5(1) of the Terrorism Suppression Act 2002
@@ -58,7 +73,7 @@ In this Act, unless the context otherwise requires,—
 Definition: relevant returner or relevant offender
 (1AA) A relevant person means a person who is—
   (a) a person to whom subsection (1) applies (and who, in this Act, is called, under section 5, a relevant returner); or
-  (b) a person to whom subsection (5) applies (and who, in this Act, is called, under section 5, a relevant offender).
+  (b) a person to whom subsection (5) or (6) applies (and who, in this Act, is called, under section 5, a relevant offender).
 Engagement in terrorism-related activities in foreign country
 (1) This subsection applies to a person who is 18 years old or older, who is or may be coming to New Zealand or has arrived in New Zealand, and who before their arrival in New Zealand—
   (a) engaged in terrorism-related activities (see section 8(1)) in a foreign country; or
@@ -71,9 +86,18 @@ Engagement in terrorism-related activities in foreign country
 (4) Subsection (1) applies even if the person is, or may be, a returning offender, or returning prisoner, who is subject to all or any of the Returning Offenders (Management and Information) Act 2015.
 Commission of terrorism-related New Zealand offence punished by determinate sentence of imprisonment
 (5) This subsection applies to a person who is 18 years old or older and—
-  (a) who, on or after the commencement date of the Counter-Terrorism Legislation Act 2021, committed, and was convicted of, a terrorism-related New Zealand offence (see section 8A); and
+  (a) who, on or after 5 October 2021 (which is the commencement date of the Counter-Terrorism Legislation Act 2021), committed, and was convicted of, a terrorism-related New Zealand offence (see section 8A); and
   (b) who was sentenced, on or after that commencement date, for that offence, to a determinate sentence of imprisonment; and
   (c) whose statutory release date, or whose last day as an offender who is subject to release conditions, for 1 or more sentences of imprisonment that are or include that determinate sentence of imprisonment, is after that commencement date.
+Commission of terrorism-related New Zealand offence punished by sentence of home detention or community-based sentence
+(6) This subsection applies to a person who is 18 years old or older and—
+  (a) who, on or after the commencement date of the Counter-Terrorism Acts (Designation and Control Orders) Amendment Act 2023, committed, and was convicted of, a terrorism-related New Zealand offence (see section 8A); and
+  (b) who was sentenced, on or after that commencement date, for that offence, to a sentence of home detention or a community-based sentence; and
+  (c) whose last day as an offender who is subject to that sentence of home detention (including while subject to post-detention conditions), or that community-based sentence, is after that commencement date.
+Effect of appeal against conviction or sentence
+(7) Subsections (5) and (6) apply (subject to section 28A (discharge if conviction or sentence overturned on criminal appeal)) even if—
+  (a) the convicted person or a prosecutor has appealed against the conviction or sentence; and
+  (b) the sentence is suspended, or ceases to run, because of the filing of a notice of appeal or application for leave to appeal.
 
 ### 7 Duty to have regard to specified aspects of evidence relied on
 (1) In determining whether evidence establishes or helps to establish compliance with section 6(1), the court must have regard to—
@@ -100,11 +124,15 @@ Facilitation or material support requires some actual or constructive knowledge
   (c) any terrorism was actually carried out.
 
 ### 8A Meaning of terrorism-related New Zealand offence
-A terrorism-related New Zealand offence means an offence that is—
+(1) A terrorism-related New Zealand offence means an offence that is—
   (a) an offence against the Terrorism Suppression Act 2002 (even if that offence was committed wholly, or partly, outside New Zealand, but is prosecuted in New Zealand under any of sections 15 to 18 of that Act and sections 7, 8, and 8A of the Crimes Act 1961); or
   (b) an offence—
     (i) against section 124(1), 127(4), 129(3), or 131A(1) of the Films, Videos, and Publications Classification Act 1993, or section 390 of the Customs and Excise Act 2018; and
-    (ii) that involves a publication that is objectionable (as those terms are defined in sections 2 and 3 of the Films, Videos, and Publications Classification Act 1993) for reasons that are or include the extent and degree to which, and the manner in which, the publication (as provided in section 3(3)﻿(d) of that Act) promotes or encourages acts of terrorism.
+    (ii) that involves a specified objectionable publication.
+(2) In this section, specified objectionable publication means a publication that is objectionable (as those terms are defined in sections 2 and 3 of the Films, Videos, and Publications Classification Act 1993 (the FVPC Act)) for reasons that are or include all or any of the following:Publication deemed objectionable under section 3(2) of FVPC ActPublication determined objectionable under section 3(3) of FVPC Act
+  (a) the publication promotes or supports, or tends to promote or support, acts of torture or the infliction of extreme violence or extreme cruelty (as provided in section 3(2)﻿(f) of the FVPC Act):
+  (b) the extent and degree to which, and the manner in which, the publication describes, depicts, or otherwise deals with acts of torture, the infliction of serious physical harm, or acts of significant cruelty (as provided in section 3(3)﻿(a)﻿(i) of the FVPC Act):
+  (c) the extent and degree to which, and the manner in which, the publication promotes or encourages acts of terrorism (as provided in section 3(3)﻿(d) of the FVPC Act).
 
 ### 9 Status of examples
 (1) An example used in this Act is only illustrative of the provisions to which it relates. It does not limit those provisions.
@@ -131,7 +159,7 @@ This Act binds the Crown.
     (ii) to prevent engagement in terrorism-related activities in a country; and
   (c) any requirements the order imposes for 1 or both of the incidental purposes stated in section 3(c) are necessary and appropriate, and are only those necessary and appropriate, to support the relevant person’s reintegration into New Zealand or rehabilitation, or both.
 (3) In determining any requirements imposed, the court must also—
-  (a) consider how requirements, if imposed, will or may affect the person’s personal circumstances (for example, financial position, health, and privacy); and
+  (a) consider how requirements, if imposed, will or may affect the person’s personal circumstances (for example, financial position, health, and privacy), and their ability to comply with any conditions of any sentence they are serving, order they are subject to, or relevant conditions imposed upon them; and
   (b) consider whether requirements are justified limits on rights and freedoms in the New Zealand Bill of Rights Act 1990, and consider any other matters the court thinks relevant; and
   (c) comply with section 17 and with the limits in sections 18, 19, and 20.
 
@@ -149,7 +177,7 @@ This Act binds the Crown.
 (1) The court may make a control order only on an application for the purpose made by the Commissioner under this Act.
 (2) The application must—
   (a) state whether the order sought by the Commissioner is an interim control order or a final control order; and
-  (b) if it is made, and to be heard and determined by the court, without notice to the relevant person, make clear how the application complies with section 15(2)﻿(a) or (b).
+  (b) if it is made, and to be heard and determined by the court, without notice to the relevant person, make clear how the application complies with section 15(2)﻿(a) or (b) or 16A(2).
 (3) The application must also state whether any final control order sought replaces an interim control order.
 (4) The application must also state the terms, and any conditions, of the requirements of the order sought by the Commissioner, indicating whether they are—
   (a) the requirements the order would impose for the main purposes stated in section 3(a) and (b); or (if applicable)
@@ -191,7 +219,7 @@ This Act binds the Crown.
 (1) The Commissioner may make an application for an interim control order in respect of a relevant offender only if—
   (a) the application is made—
     (i) after they become a relevant offender; and
-    (ii) on or before their statutory release date, or their last day as an offender who is subject to release conditions, for the 1 or more sentences of imprisonment mentioned in section 6(5)﻿(c); and
+    (ii) on or before their statutory release date, or their last day as an offender who is subject to release conditions, for the 1 or more sentences of imprisonment mentioned in section 6(5)﻿(c) or, as the case requires, on or before their last day as an offender who is subject to the sentence of home detention (including while subject to post-detention conditions), or the community-based sentence, mentioned in section 6(6)﻿(c); and
   (b) the Commissioner believes on reasonable grounds that it is necessary and appropriate that the interim control order is made as soon as practicable in order to manage the real risks posed by the relevant offender of engagement in terrorism-related activities in a country.
 (2) The application for the interim control order may be made, and must be heard and determined by the court, without notice to the relevant offender if the Commissioner believes on reasonable grounds that it is necessary and appropriate to make the application, and for it to be heard and determined, without notice in order to manage the real risks posed by the relevant offender of engagement in terrorism-related activities in a country.
 (3) If the application for the interim control order is made on notice to the relevant offender, the documents to be served must exclude any information supporting the application that is not disclosable supporting information.
@@ -204,19 +232,50 @@ This Act binds the Crown.
 (1) The Commissioner may make an application for a final control order in respect of a relevant offender only if—
   (a) no interim control order in respect of the relevant offender has been applied for, and the application for the final control order is made—
     (i) after they become a relevant offender; and
-    (ii) on or before their statutory release date, or their last day as an offender who is subject to release conditions, for the 1 or more sentences of imprisonment mentioned in section 6(5)﻿(c); or
+    (ii) on or before their statutory release date, or their last day as an offender who is subject to release conditions, for the 1 or more sentences of imprisonment mentioned in section 6(5)﻿(c) or, as the case requires, on or before their last day as an offender who is subject to the sentence of home detention (including while subject to post-detention conditions), or the community-based sentence, mentioned in section 6(6)﻿(c); or
   (b) an interim control order in respect of the relevant offender was applied for and made, and the application for the final control order is made—
     (i) within 3 months after the date on which the interim order was served on the relevant offender; or
     (ii) within any longer or shorter period the court directs (on its own initiative or on an application for the purpose made) on or after making the interim order and during that 3-month period; or
   (c) an interim control order in respect of the relevant offender was applied for and declined, and the application for the final control order is made—
     (i) after they become a relevant offender; and
-    (ii) on or before their statutory release date, or their last day as an offender who is subject to release conditions, for the 1 or more sentences of imprisonment mentioned in section 6(5)﻿(c); and
+    (ii) on or before their statutory release date, or their last day as an offender who is subject to release conditions, for the 1 or more sentences of imprisonment mentioned in section 6(5)﻿(c) or, as the case requires, on or before their last day as an offender who is subject to the sentence of home detention (including while subject to post-detention conditions), or the community-based sentence, mentioned in section 6(6)﻿(c); and
     (iii) because of a material change in circumstances since the interim control order was declined.
 (2) The application for the final control order must be—
   (a) made on notice to the relevant offender; and
   (b) set down for hearing, and heard, as soon as practicable; and
   (c) determined as soon as practicable.
 (3) Because the application for the final control order is made on notice to the relevant offender, the documents to be served must exclude any information supporting the application that is not disclosable supporting information.
+
+### 16C Report on whether EM requirement practicable and appropriate
+(1) If the requirements of a control order sought are or include an EM requirement (see section 14(4)), the application for the order must be accompanied by a report on whether an EM requirement is practicable and appropriate.
+(2) The report must address whether an EM requirement is practicable and appropriate, including—
+  (a) whether the monitoring equipment will function adequately; and
+  (b) if the report relates only or in part to an EM requirement for a residential requirement, complying with section 16D.
+(3) The report may also address any of the following matters:
+  (a) the relevant person’s circumstances, including their employment, training, and childcare commitments; and
+  (b) any other matter that is or may be relevant to whether (and if so, on what terms, and any conditions) a control order should impose an EM requirement.
+
+### 16D EM address for EM requirement for residential requirement
+(1) In preparing a report under section 16C relating only or in part to an EM requirement for a residential requirement, the Commissioner or the chief executive of the Department of Corrections must ascertain the following:
+  (a) whether the proposed EM address is appropriate for electronic monitoring of the relevant person, including whether there is any evidence of violence between—
+    (i) the relevant person and any occupant of that address; and
+    (ii) the relevant person and any person who may reasonably be expected to visit that address:
+  (b) after following the steps set out in subsection (2), whether the relevant occupants consent to the relevant person remaining at the EM address with an EM requirement for a residential requirement.
+(2) Before ascertaining whether or not a relevant occupant consents, the Commissioner or the chief executive of the Department of Corrections must—
+  (a) ensure that the occupant—
+    (i) is aware of the nature of the circumstances that may lead to the relevant person becoming subject to an EM requirement for a residential requirement; and
+    (ii) is aware of the nature of any past offending by the relevant person; and
+    (iii) is aware of and understands the effects of an EM requirement for a residential requirement; and
+  (b) inform the occupant that the information in paragraph (a) is given to the occupant to enable them to make an informed decision whether to consent to the relevant person remaining at the EM address with an EM requirement for a residential requirement; and
+  (c) inform the occupant that the information in paragraph (a) must be used only for the purpose of making the decision referred to in paragraph (b); and
+  (d) inform the occupant that consent to the relevant person remaining at the EM address with an EM requirement for a residential requirement can be withdrawn at any time and inform the occupant how they may withdraw their consent.
+
+### 16E Use of information obtained for report
+(1) The uses to which information obtained for the purpose of preparing a report under section 16C may be put are the following:
+  (a) use in the determination of the application to which the report relates:
+  (b) any use to which the relevant person has consented:
+  (c) any other use that is or may be necessary for the purposes of this Act.
+(2) That information may not be used except in accordance with subsection (1).
 
 **Requirements that may be imposed**
 
@@ -231,21 +290,76 @@ A control order may impose on a relevant person only requirements that do all or
   (g) prohibit or restrict the relevant person from carrying out specified activities related to the real risk that the relevant person poses, including specified activities in respect of their work, occupation, or recreational activities:
   (h) prohibit or restrict the relevant person from holding accounts, possessing certain financial instruments, or using specified financial services:
   (i) prohibit or restrict the relevant person from transacting in property (for example, property over a certain value or transactions involving certain people):
-  (j) require the relevant person to reside at a specified address agreed between the relevant person and the Police (or as otherwise specified by the court) and to remain at that address between specified times each day, or on specified days (see also section 18):
+  (j) require the relevant person to reside at a specified address agreed between the relevant person and the Police (or as otherwise specified by the court) and to remain at that address (except as authorised by or under section 18) between specified times each day, or on specified days (see also section 18):
   (k) require the relevant person to report to specified constables at specified times and places (for example, meeting a constable twice a week):
   (l) require the relevant person to facilitate reasonable access by the Police or their agents to premises, equipment, or information if that access is necessary for monitoring compliance with the requirements stated in the order (for example, facilitating access to search the relevant person’s residence, electronic devices, or financial accounts):
   (m) require that the relevant person allow themselves to be photographed and impressions made of their fingerprints:
-  (n) require that the relevant person submits to electronic monitoring of compliance with the requirements of the control order concerned and does not tamper with, or damage, or do anything to interfere with the functioning of the electronic monitoring device (see also section 19):
+  (n) require that the relevant person submits to electronic monitoring of compliance with the requirements of the control order concerned and complies with their other obligations under section 17A (see also section 19(1)):
   (o) require that the relevant person undertake alcohol and drug assessments, and rehabilitative or reintegrative needs assessments:
-  (p) require that the relevant person, if they have given and not withdrawn their informed consent to do so, engage with specified rehabilitative services (for example, alcohol and drug treatment services) (see also section 20).
+  (p) require that the relevant person, if they have given and not withdrawn their informed consent to do so, engage with specified rehabilitative services (for example, alcohol and drug treatment services) (see also section 20):
+  (q) require that the relevant person comply with any requirements that are not of a kind specified in paragraphs (a) to (p), that are specified in the order, and that are imposed under section 12(2)﻿(b) and (c) and (3) for (as the case requires)—
+    (i) the main purposes stated in section 3(a) and (b); or
+    (ii) 1 or both of the incidental purposes stated in section 3(c).
+
+### 17A Relevant person’s obligations under EM requirement
+Obligations under any EM requirement
+(1) A relevant person who is subject to a control order with an EM requirement must—
+  (a) submit to electronic monitoring of compliance with the requirements of the control order concerned (see section 17(n)); and
+  (b) co-operate with, and comply with any lawful direction given by, Police; and
+  (c) not tamper with or damage or do anything to interfere with the functioning of the electronic monitoring equipment.
+Obligations under EM requirement for residential requirement
+(2) A relevant person who is subject to a control order with an EM requirement for a residential requirement must (as well as complying with their obligations under subsection (1))—
+  (a) not leave the EM address at any time except as authorised by or under section 18; and
+  (b) remain in the area of the EM address that has been defined under clause 3 of Schedule 3, except as authorised by or under section 18; and
+  (c) present themselves at the door of the EM address when required to do so by a constable.
+Breach
+(3) A breach by a relevant person of an obligation under subsection (1) or (2) is a breach of the EM requirement (see section 32).
 
 **Limits on requirements**
 
-### 18 Limit on requiring relevant person to remain at specified address
-No requirement of the kind stated in section 17(j) can require the relevant person to remain at a specified address for more than 12 hours in any 24-hour period.
+### 18 Limits on residential requirement
+Daily limit on residential requirement
+(1) No residential requirement can require the relevant person to remain at a specified address for more than 12 hours in any 24-hour period.
+Authorised absences: general
+(2) A residential requirement does not prevent the relevant person from leaving a specified address—
+  (a) as authorised under subsection (3) or (5); or
+  (b) to seek urgent medical or dental treatment; or
+  (c) to avoid or minimise a serious risk of death or injury to the relevant person or any other person; or
+  (d) to surrender themselves to Police custody.
+Authorised absences: court-authorised absences
+(3) A court imposing a residential requirement can authorise the relevant person to be absent from a specified address.
+(4) In authorising a relevant person to be absent from the specified address, the court must specify—
+  (a) the time or times during which the relevant person may be absent; and
+  (b) the purpose or purposes for which the relevant person may be absent.
+Authorised absences: Police-authorised absences
+(5) In addition to absences authorised under subsection (3), if the relevant person is subject to a residential requirement (whether or not the relevant person is also subject to an EM requirement for a residential requirement), a constable who is of or above the level of position of inspector may authorise the relevant person to be absent from the specified address with or without a specified purpose for any or all days remaining to be served under the order.
+Further provision if EM requirement for residential requirement
+(6) If the relevant person is, or is to be, also subject to an EM requirement for a residential requirement,—
+  (a) a specified address under section 17(j) must be the same as the EM address:
+  (b) references in subsections (1) to (5) to a, or the, specified address include a reference to the area defined under clause 3 of Schedule 3.
 
-### 19 Limit on requiring electronic monitoring
-The court must not impose a requirement of the kind stated in section 17(n) if the court considers that a less restrictive requirement or combination of requirements would be sufficient to achieve the main purposes stated in section 3(a) and (b) and (if applicable) 1 or both of the incidental purposes stated in section 3(c).
+### 19 Limits on EM requirement
+Limit on any EM requirement
+(1) An EM requirement requires (see section 17(n)) the relevant person—
+  (a) to submit to electronic monitoring of compliance with the requirements of the control order concerned; and
+  (b) to comply with their other obligations under section 17A.
+(2) An EM requirement may be imposed by a control order only—
+  (a) under section 12(2)﻿(b) or (c); and
+  (b) for the relevant purposes mentioned in section 12(2)﻿(b) or (c).
+(3) The court must not impose an EM requirement if the court considers that a less restrictive requirement or combination of requirements would be sufficient to achieve—
+  (a) the main purposes stated in section 3(a) and (b); and (if applicable)
+  (b) 1 or both of the incidental purposes stated in section 3(c).
+(4) The court must not impose an EM requirement unless the court is satisfied on reasonable grounds that the relevant person has been made aware of and understands their obligations under the EM requirement (see section 17A).
+(5) In considering whether (and if so, on what terms, and any conditions) to impose an EM requirement, the court—
+  (a) must consider the report referred to in section 16C; and
+  (b) may have regard to any other relevant information.
+Limits on EM requirement for residential requirement
+(6) In imposing an EM requirement for a residential requirement, a court must specify the EM address (see also sections 17(j) and 18(6)﻿(a)).
+(7) The court must not impose an EM requirement for a residential requirement unless the court is satisfied on reasonable grounds (see also section 16D) that—
+  (a) the proposed EM address is appropriate for the purpose of a control order with an EM requirement for a residential requirement:
+  (b) it is practicable for the relevant person to remain at the proposed EM address:
+  (c) every relevant occupant of the proposed EM address has consented to the relevant person remaining at the proposed EM address with an EM requirement for a residential requirement:
+  (d) the consent of the relevant occupant has been obtained after the steps set out in section 16D(2) have been followed.
 
 ### 20 Limit on requiring relevant person to engage with specified rehabilitative services
 (1) No relevant person may be made, or may remain, subject to a requirement of the kind stated in section 17(p) unless the relevant person—
@@ -256,6 +370,11 @@ The court must not impose a requirement of the kind stated in section 17(n) if t
 (3) No particular conduct, or form of words, is required to give, withhold, or withdraw informed consent of that kind.
 (4) A relevant person who withholds, or withdraws, informed consent of that kind does not breach the relevant requirement for the purposes of section 32 (offence to breach requirements).
 
+**Management of EM requirement**
+
+### 20A Management of EM requirement
+An EM requirement, if imposed, is managed under Schedule 3.
+
 **Service**
 
 ### 21 Service of control order
@@ -264,7 +383,7 @@ The court must not impose a requirement of the kind stated in section 17(n) if t
   (a) if P is a relevant returner, and if practicable, on P’s arrival in New Zealand; or
   (b) if P is a relevant returner, and if service on P’s arrival in New Zealand is not practicable, as soon as is reasonably practicable after P’s arrival in New Zealand; but
   (c) in any event, not later than 12 months after the control order is made.
-(3) The control order and its requirements expire if the control order is not served within that 12-month period, but its expiry does not prevent another control order being applied for and made in respect of the same relevant person based on engagement in 1 or both of the following:
+(3) The control order and its requirements expire if the control order is not served within that 12-month period, but its expiry does not prevent another control order being applied for and made in respect of the same relevant person based on engagement in, or commission of, 1 or both of the following:
   (a) the same terrorism-related activities in a foreign country or, as the case requires, the same terrorism-related New Zealand offence:
   (b) later and different terrorism-related activities in a foreign country or, as the case requires, a later and different terrorism-related New Zealand offence.
 
@@ -280,7 +399,7 @@ The Commissioner must prepare, and serve with an interim control order made with
   (h) a copy of the disclosable supporting information; and
   (i) how the relevant person can challenge the order, its requirements, or both—
     (i) by applying to the High Court under this Act to vary or discharge the order, its requirements, or both:
-    (ii) by opposing an application made (no later than the date stated in or directed under section 16(1)﻿(b)) by the Commissioner to the High Court for a final control order in respect of the relevant person and to replace the interim order:
+    (ii) by opposing an application made (no later than the date stated in or directed under section 16(1)﻿(b) or 16B(1)﻿(b)) by the Commissioner to the High Court for a final control order in respect of the relevant person and to replace the interim order:
     (iii) by appealing under the Senior Courts Act 2016 to the Court of Appeal, or the Supreme Court, or both against the order, its requirements, or both (or, if the order is replaced by a final control order, against the final control order, its requirements, or both); and
   (j) an explanation of the relevant person’s related rights to legal advice and representation; and
   (k) an explanation of the relevant person’s related rights to apply for legal aid; and
@@ -310,16 +429,21 @@ The Commissioner must prepare, and serve with an interim control order made with
 (4) Those 2 years include, for a final control order that replaces an interim control order, the period the interim control order has effect.
 (4A) Those 2 years exclude, for a final control order in respect of a relevant offender, any period on or before their statutory release date, or their last day as an offender who is subject to release conditions, for the 1 or more sentences of imprisonment mentioned in section 6(5)﻿(c).
 (5) Those 2 years exclude, for a final control order, any period during which both the order and its requirements are wholly suspended under section 28.
-(6) A final control order expires (subject to earlier variation, discharge, or expiry of the order or its requirements and to section 26(2)) at the end of its duration, but its expiry does not prevent another control order being applied for and made in respect of the same relevant person but based on engagement in later and different terrorism-related activities in a foreign country or terrorism-related New Zealand offence.
+(6) A final control order expires (subject to earlier variation, discharge, or expiry of the order or its requirements and to section 26(2)) at the end of its duration.
+(7) However, the expiry of a final control order does not prevent another control order being applied for and made in respect of the same relevant person, but based on—
+  (a) engagement in later and different terrorism-related activities in a foreign country; or
+  (b) commission of a later and different terrorism-related New Zealand offence.
 
 ### 26 Renewal
 (1) The court may renew a final control order on an application for the purpose made by the Commissioner within its duration.
 (2) If an application for renewal of a final control order is made, the order has effect until the application is withdrawn or finally determined.
 (3) No final control order can be renewed more than twice.
-(4) No control order that has expired under section 29 (expiry if relevant person sentenced to long-term sentence) can be renewed.
+(4) No control order can be renewed if it has expired under—
+  (a) section 28B (expiry if relevant person recalled to prison and remains in prison because of that recall for at least 2 years); or
+  (b) section 29 (expiry if relevant person sentenced to long-term sentence).
 (5) In deciding the application, the court must apply the provisions of this Act about making, and the requirements of, a final control order.
 (6) In particular, because the application is made on notice, the documents to be served must exclude any information supporting the application that is not disclosable supporting information.
-(7) However, sections 14(1) to (3) and 16(1) do not apply to the application.
+(7) However, sections 14(1) to (3), 16(1), and 16B(1) do not apply to the application.
 (8) A renewed final control order takes effect and expires, and is varied, suspended, or discharged, in the same way as one that has not been renewed.
 
 **Variation or discharge, and suspension or expiry, of control order and requirements**
@@ -340,15 +464,44 @@ The Commissioner must prepare, and serve with an interim control order made with
 
 ### 28 Suspension
 (1) This section applies if, while a relevant person is subject to a control order, the relevant person is detained—
-  (a) in a prison on remand; or
+  (a) in a prison on remand, or in a prison on a recall; or
   (b) in a prison while serving a short-term sentence; or
   (c) in a hospital under the Mental Health (Compulsory Assessment and Treatment) Act 1992; or
   (d) in a facility under the Intellectual Disability (Compulsory Care and Rehabilitation) Act 2003.
 (2) The control order and its requirements, to the extent (if any) that they cannot be complied with during that detention, are suspended until the relevant person is no longer detained in the prison, hospital, or facility.
 
+### 28A Discharge if conviction or sentence overturned on criminal appeal
+When control order discharged
+(1) A control order made in respect of a relevant offender is discharged if, on a criminal appeal by the offender or by a prosecutor, the conviction or sentence specified in section 6(5) or (6) is overturned.
+(2) The control order is discharged regardless of whether the relevant person is a relevant person in reliance on section 6(7).
+When conviction overturned
+(3) The conviction is overturned if it is set aside—
+  (a) without an order for retrial; or
+  (b) with a retrial being ordered but—
+    (i) not being proceeded with; or
+    (ii) not resulting in a conviction specified in section 6(5) or (6); or
+    (iii) being ended by a stay of proceedings.
+When sentence overturned
+(4) The sentence is overturned if—
+  (a) it is set aside or remitted; and
+  (b) another sentence (whether more or less severe) specified in section 6(5) or (6) is not imposed (by an appeal court or by the sentencing court) on the offender for the relevant offence.
+(5) The sentence is also overturned if—
+  (a) it, or any part of it, or any condition of it, is varied (by an appeal court); and
+  (b) because of that variation, the sentence imposed on the offender for the relevant offence is not a sentence specified in section 6(5) or (6).
+
+### 28B Expiry if relevant person recalled to prison and remains in prison because of that recall for at least 2 years
+(1) This section applies if, while a relevant person is subject to a control order, the relevant person is recalled to prison and remains in prison because of that recall (and not because of any later recall to prison of that relevant person) for at least 2 years.
+(2) The control order and its requirements expire, and the control order cannot be replaced by a final control order or renewed.
+(3) However, the expiry of the control order does not prevent another control order being applied for and made in respect of the same relevant person, but based on—
+  (a) engagement in later and different terrorism-related activities in a foreign country; or
+  (b) commission of a later and different terrorism-related New Zealand offence.
+
 ### 29 Expiry if relevant person sentenced to long-term sentence
 (1) This section applies if, while a relevant person is subject to a control order, the relevant person is sentenced to a long-term sentence.
-(2) The control order and its requirements expire, and the control order cannot be replaced by a final control order or renewed, but its expiry does not prevent another control order being applied for and made in respect of the same relevant person but based on engagement in later and different terrorism-related activities in a foreign country or terrorism-related New Zealand offence.
+(2) The control order and its requirements expire, and the control order cannot be replaced by a final control order or renewed.
+(3) However, the expiry of the control order does not prevent another control order being applied for and made in respect of the same relevant person, but based on—
+  (a) engagement in later and different terrorism-related activities in a foreign country; or
+  (b) commission of a later and different terrorism-related New Zealand offence.
 
 **Appeals**
 
@@ -382,10 +535,23 @@ The Commissioner must prepare, and serve with an interim control order made with
   (b) to prevent engagement in terrorism-related activities in a country:
   (c) to protect the person and to support the person’s reintegration into New Zealand or rehabilitation, or both.
 (3) No person may publish, in any report or account of the proceeding in which the court considers and determines the application or (as the case requires) makes, renews, varies, or discharges the control order, the person’s name, address, or occupation, unless the court, by order, permits the publication.
-(4) The court may make an order that permits the publication (for example, if the person applies to the court for such an order and the court is satisfied that the person understands the nature and effect of their decision to apply for the order) only if satisfied that permitting the publication is consistent with the purposes of this section.
+(3A) The court may make an order that permits the publication—
+  (a) on its own initiative; or
+  (b) on an application for the purpose made by the Commissioner or by the person.
+(3B) In particular, the court may make an order that permits the publication—
+  (a) on an application for the purpose made by the Commissioner, if—
+    (i) the Commissioner has made, without notice to the person, an application for a control order in respect of the person; and
+    (ii) the court has not yet heard or finally determined the application for the control order in respect of the person:
+  (b) on an application for the purpose made by the Commissioner or by the person, if—
+    (i) the Commissioner has made, on notice to the person, an application for a control order in respect of the person; and
+    (ii) the court has not yet heard or finally determined the application for the control order in respect of the person.
+(4) The court may make an order that permits the publication—
+  (a) only if satisfied that permitting the publication is consistent with the purposes of this section; and
+  (b) if the order is made on an application by the person, only if satisfied that the person understands the nature and effect of their decision to apply for the order.
 (5) In particular, before making an order that permits the publication, the court must consider whether the order will or may lead to the publicising of views that do either or both of the following:
   (a) promote or encourage hostility towards any group of persons on 1 or more of the grounds specified in section 21 of the Human Rights Act 1993:
   (b) promote or encourage criminal acts or terrorism.
+(5A) For the purposes of subsection (5)﻿(a), the ground in section 21(1)﻿(i) of the Human Rights Act 1993 must be taken to be age, which means any age commencing with the age of 16 years.
 (6) An order under this section that permits the publication does not limit any power to clear the court, or to forbid publication, that a court has under any other law.
 (7) Nothing in this section applies to or prevents communication, by or on behalf of the Commissioner or another person performing official duties or functions, of information if the communication is necessary or desirable for the administration or enforcement of this Act.
 (8) In this section, name, in relation to a person, means the person’s name and any particulars likely to lead to the person’s identification.
@@ -441,4 +607,55 @@ A person’s conduct before the commencement of this Act may be relied on (with 
   (a) under this Act; and
   (b) after that commencement.
 
+### Part 2 — Provisions relating to Counter-Terrorism Acts (Designations and Control Orders) Amendment Act 2023
+
+### 2 Definitions
+In this Part,—
+  - **Amendment Act** means the Counter-Terrorism Acts (Designations and Control Orders) Amendment Act 2023
+  - **commencement** means the commencement of the Amendment Act.
+
+### 3 Pre-commencement residential requirements or EM requirements
+Sections 16C to 16E, 17(j) and (n), 17A, 18, 19, and 20A apply, after the commencement, to a requirement—
+  (a) of the kind stated in section 17(j) or (n); and
+  (b) in a control order made before the commencement; and
+  (c) if the order and requirement are in force after the commencement.
+
+### 4 Effect of appeal against conviction or sentence
+Sections 6(7) and 28A apply only to—
+  (a) an application for a control order made after the commencement:
+  (b) a control order made after the commencement.
+
+### 5 Expiry if relevant person recalled to prison and remains in prison because of that recall for at least 2 years
+Section 28B applies, after the commencement, to a control order—
+  (a) made before or after the commencement; and
+  (b) in force after the commencement.
+
 ## Schedule 2 — Overview of decisions in making control order
+
+## Schedule 3 — Management of EM requirement
+
+### 1 Responsibility for management of EM requirement
+(1) The Minister of Justice, in consultation with the Minister of Police and the Minister of Corrections, may, by notice in writing, nominate 1 or both of the following as the person or persons responsible for the management of an EM requirement for a residential requirement:
+  (a) the Commissioner:
+  (b) the chief executive of the Department of Corrections.
+(2) The person or persons nominated under subclause (1)—
+  (a) is or are responsible for the management of the EM requirement; and
+  (b) may authorise their respective employees to carry out any functions related to all or any of the following:
+    (i) applying for a control order that would impose the EM requirement:
+    (ii) managing the EM requirement (including, without limitation, authorising absences under section 18(5)):
+    (iii) applying for the EM requirement to be varied or discharged.
+(3) The Minister of Justice may make a nomination under subclause (1) from time to time, and, in consultation with the Minister of Police and the Minister of Corrections, may revoke a nomination by notice in writing to the person or persons concerned.
+
+### 2 Use of information obtained
+Information that is obtained from the electronic monitoring of a relevant person with a control order with an EM requirement for a residential requirement may be used for any of the following purposes:
+  (a) verifying compliance by the relevant person with the requirements of the order:
+  (b) detecting non-compliance by the relevant person with requirements of the order and providing evidence of that non-compliance:
+  (c) detecting the commission by the relevant person of an offence and providing evidence of that offence:
+  (d) verifying that the relevant person has not tampered with or damaged or done anything to interfere with the functioning of the electronic monitoring equipment:
+  (e) achieving the relevant purposes mentioned in section 12(2)﻿(b) or (c).
+
+### 3 Commissioner or chief executive of the Department of Corrections must define area of EM address to which relevant person is confined
+(1) The Commissioner or the chief executive of the Department of Corrections must define the area of an EM address to which a relevant person with an EM requirement for a residential requirement is confined.
+(2) After defining the area of an EM address under subclause (1), the Commissioner or the chief executive of the Department of Corrections must—
+  (a) show the area to the relevant person; and
+  (b) ensure that the relevant occupants are advised of the area.
