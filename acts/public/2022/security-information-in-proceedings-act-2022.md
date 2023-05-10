@@ -1,5 +1,5 @@
 # Security Information in Proceedings Act 2022
-_Consolidation as at 2022-11-28_
+_Consolidation as at 2023-05-10_
 
 ### 1 Title
 This Act is the Security Information in Proceedings Act 2022.
@@ -106,7 +106,7 @@ In this Act, unless the context otherwise requires,—
       (i) section 113 of the Overseas Investment Act 2005:
       (ii) section 29AB of the Passports Act 1992:
       (iii) section 101 of the Telecommunications (Interception Capability and Security) Act 2013:
-      (iv) section 38 of the Terrorism Suppression Act 2002; and
+      (iv) section 34 of the Terrorism Suppression Act 2002; and
     (b) in any other proceeding, national security information
   - **security information order** has the meaning given by section 31
   - **SI application** means an application to an authorised court under section 32(1)
@@ -326,7 +326,7 @@ This Part applies in relation to the following civil proceedings:
     (i) section 113(1) of the Overseas Investment Act 2005:
     (ii) section 29AA(1) of the Passports Act 1992:
     (iii) section 101(1) of the Telecommunications (Interception Capability and Security) Act 2013:
-    (iv) section 38(1) of the Terrorism Suppression Act 2002:
+    (iv) section 34(1) of the Terrorism Suppression Act 2002:
   (b) any civil proceeding in which NSI is or may be at issue in the proceeding.
 
 ### 30 Overview of SI application process
