@@ -1,5 +1,5 @@
 # Security Information in Proceedings (Repeals and Amendments) Act 2022
-_Consolidation as at 2022-11-28_
+_Consolidation as at 2023-05-10_
 
 ### 1 Title
 This Act is the Security Information in Proceedings (Repeals and Amendments) Act 2022.
@@ -527,8 +527,8 @@ In section 29A(4), replace section 35(1) with section 29B(1).
 Immediately after section 29A, insert:Expiry, renewal, and revocation of designations
 
 ### 71 New section 29D inserted (Notification of decisions about expiry or revocation of designations)
-After section 29C (as renumbered and repositioned by section 77 of this Act), insert:Notification of decisions about expiry or revocation of designations
-  (1) If a designation under this Act expires or is revoked under section 29B or 29C, the Prime Minister must—
+After section 29C (as renumbered and repositioned by section 77 of this Act), insert:Notification of decisions about expiry or revocation of designationsExpiry or revocation of designationDecision to decline application for revocation of designationDecision under section 35D that designation continues to be justified
+  (1) If a designation under this Act expires or is revoked under section 29B , 29C, or 35D, the Prime Minister must—
     (a) ensure that notice of the expiry or revocation is published in the Gazette as soon as practicable; and
     (b) take all reasonable steps to ensure that notice of the expiry or revocation is given, in the manner and form required by section 21(d) or 23(f), to every person and body—
       (i) to whom notice of the designation was given under section 21(d) or 23(f); and
@@ -537,18 +537,23 @@ After section 29C (as renumbered and repositioned by section 77 of this Act), in
   (3) If the applicant is the designated entity, or a representative of the designated entity, and the Prime Minister relied on classified security information in declining the application, the notice must state that—
     (a) the Prime Minister relied on that kind of information; and
     (b) the entity may request that a summary of the classified security information be provided to them under section 31.
+  (4) If the Prime Minister decides that the result of a review under section 35D is that the designation continues to be justified, the Prime Minister must take all reasonable steps to ensure that notice of the result of the review is given to the designated entity or a representative of the designated entity (in the prescribed manner and form (if any)) with all reasonable speed.
+  (5) If the Prime Minister relied on classified security information in deciding that the result of a review under section 35D is that the designation continues to be justified, the notice must state that—
+    (a) the Prime Minister relied on that kind of information; and
+    (b) the entity may request that a summary of the classified security information be provided to them under section 31.
 
 ### 72 Cross-heading above section 30 replaced
 Replace the cross-heading above section 30 with:Material on which designations, renewals, or revocations may be based
 
 ### 73 Section 30 amended (Information available to Prime Minister)
-In section 30, replace or section 22 or section 34 with , 22, 29B, or 29C.
+In section 30, replace 34, 35, with 29B, 29C,.
 
 ### 74 New sections 31 and 31A and cross-heading inserted
 After section 30, insert:Additional requirements where classified security information used in certain decisionsProvision of summary of classified security informationNotification to Inspector-General of Intelligence and Security of provision of classified security information
-  (1) This section applies if a designated terrorist entity requests a summary (as referred to in section 26(da) or 29D(3)﻿(b)) of the classified security information that the Prime Minister relied on in deciding—
+  (1) This section applies if a designated terrorist entity requests a summary (as referred to in section 26(da) or section 29D(3)﻿(b) or (5)﻿(b)) of the classified security information that the Prime Minister relied on in deciding—
     (a) to make a designation under section 20 or 22; or
-    (b) to decline an application for revocation of a designation under section 29C.
+    (b) to decline an application for revocation of a designation under section 29C; or
+    (c) the result of a review under section 35D is that the designation continues to be justified.
   (2) The purpose of the summary is to enable the designated terrorist entity to have a sufficient understanding of the classified security information the Prime Minister relied on in making the decision (without that information being disclosed to the entity).
   (3) If the designated terrorist entity requests a summary,—
     (a) the Prime Minister and the head of the specified agency that holds the classified security information must agree on the contents of the summary; and
@@ -556,7 +561,8 @@ After section 30, insert:Additional requirements where classified security infor
   (4) However, the Prime Minister may refuse to provide a summary if the Prime Minister and the head of the specified agency are not satisfied that a summary can be provided that is sufficient to meet its purpose without disclosing classified security information.
   (1) The Director-General of an intelligence and security agency must notify the Inspector-General of Intelligence and Security if the agency provides classified security information to the Prime Minister or department to assist the Prime Minister to decide whether to—
     (a) make a designation under section 20 or 22 in relation to an entity; or
-    (b) decline an application for revocation of a designation under section 29C.
+    (b) to decline an application for revocation of a designation under section 29C; or
+    (c) the result of a review under section 35D is that the designation continues to be justified.
   (2) The Director-General must make the notification as soon as practicable after providing the classified security information to assist the Prime Minister.
   (3) In this section, department has the meaning given to it in section 5 of the Public Service Act 2020.
 
@@ -566,15 +572,8 @@ Repeal section 32.
 ### 76 Cross-heading above section 33 replaced
 Replace the cross-heading above section 33 with:Proceedings arising out of designations, renewals, and revocations
 
-### 77 Section 34 renumbered as section 29C and repositioned (Revocation of designations)
-Renumber section 34 as section 29C and reposition it after section 29B (as renumbered and repositioned by section 78 of this Act).
-
-### 78 Section 35 renumbered as section 29B and repositioned (Designations under section 22 to expire after 3 years unless renewed by Prime Minister)
-(1) Renumber section 35 as section 29B and reposition it after the new cross-heading inserted after section 29A by section 70 of this Act.
-(2) In section 35(1)﻿(a), replace section 34 with section 29C.
-
-### 79 Section 38 replaced (Procedure in proceedings involving classified security information)
-Replace section 38 with:Proceedings involving classified security information
+### 76A New section 34 inserted (Proceedings involving classified security information)
+After section 33, insert:Proceedings involving classified security information
   (1) This section applies to any civil proceedings (including public law and judicial review proceedings) in a court relating to the administration or enforcement of this Act.
   (2) If the Crown proposes to present classified security information in proceedings, the Attorney-General must—
     (a) make an application to an authorised court under section 32 of the 2022 Act for a security information order to protect the confidentiality of the information to be given as evidence in the proceedings; and
@@ -584,16 +583,45 @@ Replace section 38 with:Proceedings involving classified security information
     - **2022 Act** means the Security Information in Proceedings Act 2022
     - **authorised court** , , , and have the meanings given to them in section 4 of the 2022 Act.
 
+### 77 Section 34 renumbered as section 29C and repositioned (Revocation of designations)
+Renumber section 34 as section 29C and reposition it after section 29B (as renumbered and repositioned by section 78 of this Act).
+
+### 78 Section 35 renumbered as section 29B and repositioned (Designations under section 22 to expire after 3 years unless renewed by Prime Minister)
+(1) Renumber section 35 as section 29B and reposition it after the new cross-heading inserted after section 29A by section 70 of this Act.
+(2) In section 35(1)﻿(a), replace section 34 with section 29C.
+
+### 78A Section 35B amended (Certain revocation applications stopped)
+In section 35B, replace section 34(1)﻿(a) or (b) on the ground specified in section 34(3)﻿(b) with section 29C(1)﻿(a) or (b) on the ground specified in section 29C(3)﻿(b).
+
+### 78B Section 35C amended (Duration of designation extended (3-year period until expiry paused))
+In section 35C(1) and (2), replace 35 with 29B.
+
+### 78C Section 35D amended (Periodic review whether designation no longer justified)
+In section 35D(2), replace 42 with 29D.
+
+### 78D Section 35F amended (Periodic review: procedure)
+In section 35F(a)﻿(ii), replace 34(2) with 29C(2).
+
+### 78E Cross-heading below section 35G repealed
+Repeal the cross-heading below section 35G.
+
+### 79 Section 38 repealed (Procedure in proceedings involving classified security information)
+Repeal section 38.
+
 ### 80 Section 40 repealed (Ancillary general practices and procedures to protect classified security information)
 Repeal section 40.
 
-### 81 Section 42 amended (Notification of revocation, expiry, or invalidity of designations)
+### 81 Section 42 renumbered as section 35 and repositioned (Notification of revocation, expiry, or invalidity of designations)
+(1AAA) Renumber section 42 as section 35 and reposition it after section 34 (as inserted by section 76A of this Act).
 (1) In the heading to section 42, delete revocation, expiry, or.
-(2) In section 42(1), replace expires or is revoked or is found to be or to have been invalid, under section 34 or section 35 or with is found to have been invalid.
+(2) In section 42(1), replace expires or is revoked or is found to be or to have been invalid, under section 34, 35, or 35D with is found to have been invalid.
 (3) In section 42(1)﻿(a) and (b), delete revocation or expiry or.
 
+### 81A Section 56 amended (Notice of application under section 55)
+In section 56(4), replace 38 with 34.
+
 ### 82 Section 58 amended (Appeal against decision on application under section 55)
-In section 58(2), replace sections 38 and 40 with section 38.
+In section 58(2), replace sections 38 and 40 with section 34.
 
 ### 83 Section 59 amended (Discharge of order under section 55 on appeal)
 (1) In section 59(2), replace section 34 with section 29C.
@@ -837,20 +865,21 @@ The amendments made to this Act by the 2022 Act apply only in relation to any re
 In this Part, unless the context otherwise requires,—
   - **2022 Act** means sections 62 to 84 of the Security Information in Proceedings (Repeals and Amendments) Act 2022
   - **commencement date** means the date on which the 2022 Act comes into force
-  - **relevant action** means one of the following decisions of the Prime Minister:
+  - **relevant action** means one of the following:
     (a) a decision of the Prime Minister to make a designation under section 20 or 22:
     (b) the expiry of a designation under section 29B (as renumbered and repositioned by section 78 of the Security Information in Proceedings (Repeals and Amendments) Act 2022):
     (c) a decision of the Prime Minister to renew a designation under section 29B (as renumbered and repositioned by section 78 of the Security Information in Proceedings (Repeals and Amendments) Act 2022):
-    (d) a decision of the Prime Minister to revoke a designation or to decline an application to revoke a designation under section 29C (as renumbered and repositioned by section 77 of the Security Information in Proceedings (Repeals and Amendments) Act 2022)
-  - **section 38 proceedings** means proceedings to which section 38 applies.
+    (d) a decision of the Prime Minister to revoke a designation or to decline an application to revoke a designation under section 29C (as renumbered and repositioned by section 77 of the Security Information in Proceedings (Repeals and Amendments) Act 2022):
+    (e) a decision of the Prime Minister that the result of a review under section 35D is that a designation continues to be justified
+  - **section 34 proceedings** means proceedings to which section 34 applies.
 
 ### 4 Administrative decisions
 The amendments made to this Act by the 2022 Act apply only in relation to any relevant action that occurs on or after the commencement date.
 
 ### 5 Proceedings involving classified security information
-(1) The amendments made to this Act by the 2022 Act (except for this clause) apply to section 38 proceedings commenced on or after the commencement date.
-(2) To avoid doubt, subclause (1) applies to section 38 proceedings that commence on or after the commencement date, but that relate to a relevant action that occurred before, on, or after the commencement date.
-(3) Section 38 proceedings commenced before the commencement date, and not finally determined before the commencement date (including any rehearing, retrial, or appeal), continue as if the amendments made to this Act by the 2022 Act had not been enacted.
+(1) The amendments made to this Act by the 2022 Act (except for this clause) apply to section 34 proceedings commenced on or after the commencement date.
+(2) To avoid doubt, subclause (1) applies to section 34 proceedings that commence on or after the commencement date, but that relate to a relevant action that occurred before, on, or after the commencement date.
+(3) Proceedings to which section 38 (as in force before the commencement date) applied, and that were not finally determined before the commencement date (including any rehearing, retrial, or appeal), continue as if the amendments made to this Act by the 2022 Act had not been enacted.
 
 ## Schedule 7 — New Part 2 inserted into Schedule 1AA of Evidence Act 2006
 
