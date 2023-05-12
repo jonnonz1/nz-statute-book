@@ -1,5 +1,5 @@
 # Public Service Act 2020
-_Consolidation as at 2023-05-01_
+_Consolidation as at 2023-05-12_
 
 ### 1 Title
 This Act is the Public Service Act 2020.
@@ -1205,6 +1205,7 @@ The amendments to the State Sector (Ministry for Primary Industries) Order 2012 
 |  |  | Ministry of Transport |  |
 |  |  | New Zealand Customs Service |  |
 | Climate Change Chief Executives Board |  | Department of Conservation | Ministry for the Environment |
+|  | Department of Internal Affairs |  |  |
 |  | Ministry of Business, Innovation, and Employment |  |  |
 |  |  | Ministry for the Environment |  |
 |  |  | Ministry of Foreign Affairs and Trade |  |
@@ -1212,6 +1213,7 @@ The amendments to the State Sector (Ministry for Primary Industries) Order 2012 
 |  |  | Ministry for Primary Industries |  |
 |  |  | Ministry of Social Development |  |
 |  |  | Ministry of Transport |  |
+|  |  | National Emergency Management Agency |  |
 |  |  | The Treasury |  |
 | Digital Executive Board |  | Department of Internal Affairs | Department of Internal Affairs |
 |  |  | Department of the Prime Minister and Cabinet |  |
