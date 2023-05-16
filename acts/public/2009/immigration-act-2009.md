@@ -1,5 +1,5 @@
 # Immigration Act 2009
-_Consolidation as at 2022-12-01_
+_Consolidation as at 2023-05-16_
 
 ### 1 Title
 This Act is the Immigration Act 2009.
@@ -856,26 +856,11 @@ At any one time, a person may hold only 1 current visa.
   (b) takes effect—
     (i) from the date the visa is granted, if the condition is imposed, varied, or waived when the visa is granted; or
     (ii) from the date specified in the notice (being a date not earlier than the date of notification), in any other case.
-(4A) The Minister may, by special direction in relation to a class or classes of persons holding resident visas,—
-  (a) vary conditions that would otherwise apply to visas of the relevant types, or that were imposed under this section, that relate to travel to New Zealand:
-  (b) vary or cancel conditions that would otherwise apply to visas of the relevant types, or that were imposed under this section, that relate to employment in New Zealand.
-(4B) However, the Minister may not make a special direction under subsection (4A) unless satisfied that—
-  (a) doing so is reasonably necessary to manage the effects, or deal with the consequences, of—
-    (i) the outbreak of COVID-19; or
-    (ii) measures taken under this Act or any other enactment to contain or mitigate the outbreak of COVID-19 or its effects; or
-    (iii) any other measures (whether in New Zealand or elsewhere) to contain or mitigate the outbreak of COVID-19 or its effects; and
-  (b) the direction does not materially disadvantage the class or classes of persons to which it relates.
-(4C) A special direction under subsection (4A) may, without limiting the generality of the manner in which persons may be classified, classify persons to whom a variation or cancellation of a visa condition applies by reference to all or any of the following:
-  (a) their nationality:
-  (b) the country or place from which they are travelling (whether it be their original or an intermediate point of departure):
-  (c) whether or not they hold, or are required to hold, any particular type of travel or immigration documentation, by whomever issued:
-  (d) the type of visa concerned:
-  (e) any other type of visa that they have applied for.
-(4D) A special direction under subsection (4A)—
-  (a) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements); and
-  (b) commences in accordance with section 378(3), even if it is not yet published; and
-  (c) must be published together with an explanation of the effect of the special direction.
-(4E) This subsection and subsections (4A) to (4D) are repealed at the close of 15 May 2023.
+(4A)
+(4B)
+(4C)
+(4D)
+(4E)
 (5) To avoid doubt,—
   (a) subsection (2) applies whether the resident visa was granted as an exception to residence instructions or otherwise:
   (b) nothing in this section allows the Minister to impose conditions on a permanent resident visa, whether at the time of or subsequent to granting the visa.
@@ -898,30 +883,11 @@ At any one time, a person may hold only 1 current visa.
   (b) takes effect—
     (i) from the date the visa is granted, if the condition is imposed, varied, or waived when the visa is granted; or
     (ii) from the date specified in the notice (being a date not earlier than the date of notification), in any other case.
-(4A) The Minister may, by special direction in relation to a class or classes of persons holding temporary entry class visas,—
-  (a) impose further conditions on the visas, whether or not the conditions are specified in the temporary entry instructions in relation to visas of the relevant types:
-  (b) vary or cancel conditions that would otherwise apply to visas of the relevant types or that were imposed under this section.
-(4B) However, the Minister may not make a special direction under subsection (4A) unless satisfied that—
-  (a) doing so is reasonably necessary to manage the effects, or deal with the consequences, of—
-    (i) the outbreak of COVID-19; or
-    (ii) measures taken under this Act or any other enactment to contain or mitigate the outbreak of COVID-19 or its effects; or
-    (iii) any other measures (whether in New Zealand or elsewhere) to contain or mitigate the outbreak of COVID-19 or its effects; and
-  (b) the direction—
-    (i) does not materially disadvantage the class or classes of persons to which it relates; or
-    (ii) relates to compliance with directions, orders, or requirements of the Minister of Health, the Director-General of Health, any medical officer of health, or a District Court Judge given or imposed—
-      (A) under the Health Act 1956 or any other Act (whether enacted before or after the Immigration (COVID-19 Response) Amendment Act 2020); and
-      (B) in response to COVID-19.
-(4C) A special direction under subsection (4A) may, without limiting the generality of the manner in which persons may be classified, classify persons to whom a further visa condition, or a variation or cancellation of a visa condition, applies by reference to all or any of the following:
-  (a) their nationality:
-  (b) the country or place from which they are travelling or have travelled (whether it be their original or an intermediate point of departure):
-  (c) whether or not they hold, or are required to hold, any particular type of travel or immigration documentation, by whomever issued:
-  (d) the type of visa concerned:
-  (e) any other type of visa that they have applied for.
-(4D) A special direction under subsection (4A)—
-  (a) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements); and
-  (b) commences in accordance with section 378(3), even if it is not yet published; and
-  (c) must be published together with an explanation of the effect of the special direction.
-(4E) This subsection and subsections (4A) to (4D) are repealed at the close of 15 May 2023.
+(4A)
+(4B)
+(4C)
+(4D)
+(4E)
 (5) Nothing in this section applies to a temporary entry class visa that is subject to restricted temporary entry instructions.
 
 ### 53 Conditions on temporary entry class visas subject to restricted temporary entry instructions
@@ -937,30 +903,11 @@ At any one time, a person may hold only 1 current visa.
   (b) takes effect—
     (i) from the date the visa is granted, if the condition is imposed, varied, or waived when the visa is granted; or
     (ii) from the date specified in the notice (being a date not earlier than the date of notification), in any other case.
-(4A) The Minister may, by special direction in relation to a class or classes of persons holding temporary entry class visas subject to restricted temporary entry instructions,—
-  (a) impose further conditions on the visas, whether or not the conditions are specified in the restricted temporary entry instructions in relation to visas of the relevant types:
-  (b) vary or cancel conditions that would otherwise apply to visas of the relevant types or that were imposed under this section.
-(4B) However, the Minister may not make a special direction under subsection (4A) unless satisfied that—
-  (a) doing so is reasonably necessary to manage the effects, or deal with the consequences, of—
-    (i) the outbreak of COVID-19; or
-    (ii) measures taken under this Act or any other enactment to contain or mitigate the outbreak of COVID-19 or its effects; or
-    (iii) any other measures (whether in New Zealand or elsewhere) to contain or mitigate the outbreak of COVID-19 or its effects; and
-  (b) the direction—
-    (i) does not materially disadvantage the class or classes of persons to which it relates; or
-    (ii) relates to compliance with directions, orders, or requirements of the Minister of Health, the Director-General of Health, any medical officer of health, or a District Court Judge given or imposed—
-      (A) under the Health Act 1956 or any other Act (whether enacted before or after the Immigration (COVID-19 Response) Amendment Act 2020); and
-      (B) in response to COVID-19.
-(4C) A special direction under subsection (4A) may, without limiting the generality of the manner in which persons may be classified, classify persons to whom a further visa condition, or a variation or cancellation of a visa condition, applies by reference to all or any of the following:
-  (a) their nationality:
-  (b) the country or place from which they are travelling or have travelled (whether it be their original or an intermediate point of departure):
-  (c) whether or not they hold, or are required to hold, any particular type of travel or immigration documentation, by whomever issued:
-  (d) the type of visa concerned:
-  (e) any other type of visa that they have applied for.
-(4D) A special direction under subsection (4A)—
-  (a) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements); and
-  (b) commences in accordance with section 378(3), even if it is not yet published; and
-  (c) must be published together with an explanation of the effect of the special direction.
-(4E) This subsection and subsections (4A) to (4D) are repealed at the close of 15 May 2023.
+(4A)
+(4B)
+(4C)
+(4D)
+(4E)
 (5) To avoid doubt, subsection (2) applies whether the temporary entry class visa was granted as an exception to temporary entry instructions or otherwise.
 
 ### 54 Conditions on transit visas
@@ -1001,24 +948,11 @@ At any one time, a person may hold only 1 current visa.
 ### 57 Applications for visas
 (1) An application for a visa must be made in the manner prescribed for the class or type of visa sought.
 (2) The applicant must provide his or her contact address and address for service.
-(3) The Minister may by special direction waive 1 or more of the prescribed requirements for applying for a visa (whether at an immigration control area or otherwise) in respect of a class or classes of persons.
 (3)
-(4) However, the Minister may not make a special direction under subsection (3) unless satisfied that doing so is reasonably necessary to manage the effects, or deal with the consequences, of—
-  (a) the outbreak of COVID-19; or
-  (b) measures taken under this Act or any other enactment to contain or mitigate the outbreak of COVID-19 or its effects; or
-  (c) any other measures (whether in New Zealand or elsewhere) to contain or mitigate the outbreak of COVID-19 or its effects.
 (4)
-(5) A waiver made in accordance with subsection (3) may, without limiting the generality of the manner in which persons may be classified, classify persons to whom the waiver applies by reference to all or any of the following:
-  (a) their nationality:
-  (b) the country or place from which they are travelling or have travelled (whether it be their original or an intermediate point of departure):
-  (c) whether or not they hold, or are required to hold, any particular type of travel or immigration documentation, by whomever issued:
-  (d) the type of visa concerned:
-  (e) any other type of visa that they hold or have applied for.
-(6) A special direction under subsection (3)—
-  (a) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements); and
-  (b) commences in accordance with section 378(3), even if it is not yet published; and
-  (c) must be published together with an explanation of the effect of the special direction.
-(7) This subsection and subsections (3) to (6) are repealed at the close of 15 May 2023.
+(5)
+(6)
+(7)
 
 ### 58 Obligation on applicant to inform of all relevant facts, including changed circumstances
 (1) It is the responsibility of an applicant for a visa to ensure that all information, evidence, and submissions that the applicant wishes to have considered in support of the application are provided when the application is made.
@@ -1050,31 +984,7 @@ Where an application for a visa is made by or for a person under 18 years of age
 (2) A decision to grant a visa under subsection (1) is in the Minister’s absolute discretion.
 
 ### 61A Grant of visas by special direction
-(1) The Minister may at any time of the Minister’s own volition, by special direction, grant a visa of any type to a person who—
-  (a) is outside New Zealand; or
-  (b) is in New Zealand and holds a temporary entry class visa.
-(2) The Minister may at any time of the Minister’s own volition, by special direction, grant visas of any type to a class or classes of persons who—
-  (a) are outside New Zealand; or
-  (b) are in New Zealand and hold temporary entry class visas.
-(3) A visa may be granted under subsection (1) or (2) even if the grant is contrary to immigration instructions.
-(4) However, the Minister—
-  (a) may not make a special direction under subsection (1) unless satisfied that the grant of the visa does not materially disadvantage the person to whom it is granted:
-  (b) may not make a special direction under subsection (2) unless satisfied that—
-    (i) doing so is reasonably necessary to manage the effects, or deal with the consequences, of—
-      (A) the outbreak of COVID-19; or
-      (B) measures taken under this Act or any other enactment to contain or mitigate the outbreak of COVID-19 or its effects; or
-      (C) any other measures (whether in New Zealand or elsewhere) to contain or mitigate the outbreak of COVID-19 or its effects; and
-    (ii) the grant of the visas does not materially disadvantage the class or classes of persons to whom they are granted.
-(5) A special direction under subsection (2) may, without limiting the generality of the manner in which persons may be classified, classify persons to whom a visa is granted by reference to all or any of the following:
-  (a) their nationality:
-  (b) the country or place from which they are travelling or have travelled (whether it be their original or an intermediate point of departure):
-  (c) whether or not they hold, or are required to hold, any particular type of travel or immigration documentation, by whomever issued:
-  (d) any type of visa that they hold or have applied for.
-(6) A special direction under subsection (2)—
-  (a) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements); and
-  (b) commences in accordance with section 378(3), even if it is not yet published; and
-  (c) must be published together with an explanation of the effect of the special direction.
-(7) This section is repealed at the close of 15 May 2023.
+[Repealed]
 
 ### 62 Form of visa
 (1) A visa is granted by being entered and retained in the records (whether electronic or physical) of the Department in a manner determined by the chief executive.
@@ -1263,36 +1173,15 @@ The holder of a permanent resident visa is entitled—
 (2) The visa must, for all purposes, be treated as if it continues to be a current visa allowing stay in New Zealand until the earlier of the following events:
   (a) its cancellation:
   (b) the expiration of 3 months after the day on which the epidemic management notice expires.
-(2A) Subsection (2) is subject to any extension of the visa by special direction under section 78A.
-(2B) This subsection and subsection (2A) are repealed at the close of 15 May 2023.
+(2A)
+(2B)
 (3) Subsection (2) does not require—
   (a) the endorsement or modification of the visa; or
   (b) the issue of a document extending the visa; or
   (c) the grant of a new visa.
 
 ### 78A Extension of temporary entry class visa by special direction
-(1) The Minister may, by special direction in relation to a class or classes of persons holding temporary entry class visas, extend the visas by a period of up to 6 months from the date on which they would otherwise expire.
-(2) However, the Minister may not make a special direction under subsection (1) unless satisfied that doing so is reasonably necessary to manage the effects, or deal with the consequences, of—
-  (a) the outbreak of COVID-19; or
-  (b) measures taken under this Act or any other enactment to contain or mitigate the outbreak of COVID-19 or its effects; or
-  (c) any other measures (whether in New Zealand or elsewhere) to contain or mitigate the outbreak of COVID-19 or its effects.
-(3) A visa extended under subsection (1) must, for all purposes, be treated as if it continues to be a current visa allowing a person to travel to New Zealand, apply for entry permission, and stay in New Zealand, until the earlier of the following events:
-  (a) the visa’s cancellation:
-  (b) the expiration of the period of the extension.
-(4) Subsection (1) does not require—
-  (a) the endorsement or modification of the visa; or
-  (b) the issue of a document extending the visa; or
-  (c) the grant of a new visa.
-(5) A visa extension under subsection (1) may, without limiting the generality of the manner in which persons may be classified, classify persons to whom the extension applies by reference to all or any of the following:
-  (a) their nationality:
-  (b) the country or place from which they are travelling or have travelled (whether it be their original or an intermediate point of departure):
-  (c) whether or not they hold, or are required to hold, any particular type of travel or immigration documentation, by whomever issued:
-  (d) the type of visa concerned.
-(6) A special direction under subsection (1)—
-  (a) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements); and
-  (b) commences in accordance with section 378(3), even if it is not yet published; and
-  (c) must be published together with an explanation of the effect of the special direction.
-(7) This section is repealed at the close of 15 May 2023.
+[Repealed]
 
 **Temporary entry class visas: provisions applying to temporary visas**
 
@@ -1386,14 +1275,9 @@ The following persons may apply for a limited visa:
 (4) The Minister may, by special direction that has effect for a period not exceeding 3 months,—
   (a) classify persons as persons to whom a transit visa waiver applies (whether by reference to the matters referred to in subsection (3)﻿(a) or otherwise):
   (b) suspend any transit visa waiver specified in regulations for any class or classes of person.
-(4A) The Minister may, by special direction,—
-  (a) waive, in any individual case, the requirement to hold a transit visa:
-  (b) suspend, in any individual case, a transit visa waiver made by regulations referred to in subsection (2)﻿(a).
-(4B) However, the Minister may not make a special direction under subsection (4A) unless satisfied that doing so is reasonably necessary to manage the effects, or deal with the consequences, of—
-  (a) the outbreak of COVID-19; or
-  (b) measures taken under this Act or any other enactment to contain or mitigate the outbreak of COVID-19 or its effects; or
-  (c) any other measures (whether in New Zealand or elsewhere) to contain or mitigate the outbreak of COVID-19 or its effects.
-(4C) This subsection and subsections (4A) and (4B) are repealed at the close of 15 May 2023.
+(4A)
+(4B)
+(4C)
 (5) A special direction made under subsection (4)—
   (a) must be notified in writing through diplomatic channels to any country concerned; and
   (b) expires at the end of the period of 3 months following the day on which it was made, unless sooner cancelled by the Minister by a further special direction, or by regulations; and
@@ -1756,14 +1640,7 @@ A person who applies for entry permission must provide a contact address and an 
 (4) A revocation under this section is made by entry on the records of the Department, and takes effect immediately.
 
 ### 113A Revocation of deemed entry permission
-(1) This section applies if a person’s entry permission is deemed to have been granted under regulations made under this Act.
-(2) An immigration officer may revoke the entry permission if permitted or required by, and only in accordance with, immigration instructions certified under section 22(1)﻿(b).
-(3) Subsection (2) applies despite anything in the regulations under which entry permission is deemed to have been granted or in any other provision of this Act.
-(4) If the person arrives at an immigration control area, entry permission may be revoked at any time before the person leaves the immigration control area.
-(5) If the person arrives in New Zealand other than at an immigration control area, entry permission may be revoked within 72 hours of the person first arriving in New Zealand.
-(6) A revocation under this section is made by entry on the records of the Department and takes effect immediately.
-(7) Without limiting the generality of section 22, immigration instructions certified under section 22(1)﻿(b) may provide for the revocation of entry permission that is deemed to have been granted under regulations made under this Act.
-(8) This section is repealed at the close of 15 May 2023.
+[Repealed]
 
 **Turnaround provisions**
 
@@ -5402,16 +5279,16 @@ In any proceedings or process of a kind referred to in section 375(2) in relatio
   (a) any person, visa, or document; or
   (b) any 2 or more persons, visas, or documents where by reason of any specific event, occurrence, or unusual circumstances there is a common link between those persons, visas, or documents.
 (2) The Minister may give in writing a special direction—
-  (aaa) varying or cancelling conditions of resident visas in relation to any class of persons, in accordance with section 50(4A):
-  (aab) imposing, varying, or cancelling conditions of temporary entry class visas in relation to any class of persons, in accordance with section 52(4A) or 53(4A):
-  (aac) waiving 1 or more prescribed requirements for applying for a visa in relation to any class of persons, in accordance with section 57(3):
-  (aad) granting, at any time and of the Minister’s own volition, visas of any type to any class of persons, in accordance with section 61A(2):
+  (aaa)
+  (aab)
+  (aac)
+  (aad)
   (a) waiving the requirement to hold a visa permitting travel to New Zealand in relation to any class of persons, in accordance with section 69(2)﻿(a):
   (b) suspending, under section 69(2)﻿(b), a visa waiver made in accordance with section 69(1):
-  (ba) extending temporary entry class visas in relation to any class of persons, in accordance with section 78A(1):
+  (ba)
   (c) classifying persons to whom a transit visa waiver applies, in accordance with section 86(4)﻿(a):
   (d) suspending, under section 86(4)﻿(b), a transit visa waiver made in accordance with section 86(2)﻿(a).
-(2A) This subsection and subsection (2)﻿(aaa) to (aad) and (ba) are repealed at the close of 15 May 2023.
+(2A)
 (3) A special direction comes into force on the day on which it is made, or any later date specified in the direction.
 (4) Where a special direction is given orally, the chief executive or immigration officer must as soon as possible make a written record of the content and date of the direction.
 (5) A special direction may be subject to such conditions as the Minister thinks fit.
@@ -5432,16 +5309,16 @@ Any decision made, or discretion exercised, under this Act by an immigration off
   (a) this power of delegation; and
   (b) the power to certify immigration instructions under section 22; and
   (c) the powers referred to in section 33(1) and (2) (which relate to the use of classified information); and
-  (ca) the power to make a special direction under section 50(4A) (relating to varying or cancelling resident visa conditions in relation to any class of persons); and
-  (cb) the power to make a special direction under section 52(4A) or 53(4A) (relating to imposing, varying, or cancelling temporary entry class visa conditions in relation to any class of persons); and
-  (cc) the power to make a special direction under section 57(3) (which relates to waiving 1 or more prescribed requirements for applying for a visa in relation to any class of persons); and
-  (cd) the power to make a special direction under section 61A(2) (which relates to granting visas of the Minister’s own volition to any class of persons who are outside New Zealand or who are in New Zealand with temporary entry class visas); and
+  (ca)
+  (cb)
+  (cc)
+  (cd)
   (d) the power to make a special direction under section 69(2)﻿(a) or (b) (which relates to waiving the requirement for classes of persons to hold a visa permitting travel to New Zealand); and
-  (da) the power to make a special direction under section 78A(1) (which relates to extending temporary entry class visas in relation to any class of persons); and
+  (da)
   (e) the power to make a special direction under section 86(4) in relation to transit visas; and
   (f) the power to certify under section 163(1) that a person constitutes a threat or risk to security; and
   (g) the power to make a decision of a kind referred to in section 139 or 199 in relation to a protected person who has committed certain crimes or been guilty of certain acts.
-(1A) This subsection and subsection (1)﻿(ca) to (cd) and (da) are repealed at the close of 15 May 2023.
+(1A)
 (2) The immigration officer to whom a delegation may be made may be an officer referred to by name or the officer who for the time being holds a specified position.
 (3) Every delegation is revocable at will, and no delegation prevents the exercise of any power by the Minister.
 (4) A delegation may be made subject to such restrictions and conditions as the Minister thinks fit, and may be made either generally or in relation to any particular case.
@@ -5833,39 +5710,10 @@ Without limiting section 400, regulations made under that section may—
   (e) prescribe the manner in which an expression of interest must be made for the purposes of section 92(1).
 
 ### 401A Regulations relating to suspending ability to make applications for visas and expressions of interest
-(1) Without limiting the generality of section 400, regulations made under that section may suspend the ability of all persons, or of any class of persons, who are outside New Zealand to—
-  (a) apply for a particular class or type of visa; or
-  (b) submit an expression of interest in obtaining an invitation to apply for a particular class or type of visa.
-(2) Subsections (3) to (7) apply to regulations made for the purposes of subsection (1).
-(3) The regulations may—
-  (a) provide for different periods of suspension for different classes of people and different classes and types of visa; and
-  (b) without limiting the generality of the manner in which persons may be classified, classify persons by reference to all or any of the following:
-    (i) the country or place from which they are travelling or have travelled (whether it be their original or an intermediate point of departure):
-    (ii) whether or not they hold, or are required to hold, any particular type of travel or immigration documentation, by whomever issued:
-    (iii) any other type of visa that they hold or have applied for:
-    (iv) any other factor that is relevant to containing or mitigating the outbreak of COVID-19 or its effects; and
-  (c) without limiting the generality of the manner in which classes or types of visa may be classified, classify classes or types of visa by reference to all or any of the following:
-    (i) in the case of a temporary visa, the name and description of the visa as provided in the immigration instructions:
-    (ii) whether an application for the visa is required by or under the regulations to be made online:
-    (iii) any specific information or evidence that is required by the regulations or the immigration instructions to be provided in order for an application for the visa to be made.
-(4) The Minister must not recommend the making of the regulations unless satisfied that doing so is reasonably necessary to manage the effects, or deal with the consequences, of—
-  (a) the outbreak of COVID-19; or
-  (b) measures taken under this Act or any other enactment to contain or mitigate the outbreak of COVID-19 or its effects; or
-  (c) any other measures (whether in New Zealand or elsewhere) to contain or mitigate the outbreak of COVID-19 or its effects.
-(5) A suspension may be for a period not exceeding 6 months specified in the regulations.
-(6) If the requirements of subsection (4) continue to be met, regulations may from time to time be made under section 400 that extend the period of a suspension already in force for a further period not exceeding 6 months.
-(7) An extension referred to in subsection (6) may only be made before the end of the period to be extended.
-(8) This section is repealed at the close of 15 May 2023.
+[Repealed]
 
 ### 401B Provisions relating to regulations made for purposes of section 401A
-(1) If the making of an application for a class or type of visa by all persons or by any class of persons is suspended by regulations made for the purposes of section 401A, then, despite any other provision of this Act (or any immigration instruction),—
-  (a) no person or, as the case may be, no person in the relevant class of persons may apply for a visa of that class or type; and
-  (b) if a person purports to apply for a visa contrary to paragraph (a), the application is deemed not to have been made.
-(2) If the ability of all persons or of any class of persons to submit an expression of interest in relation to a class or type of visa is suspended by regulations made for the purposes of section 401A, then, despite any other provision of this Act (or any immigration instruction),—
-  (a) no person or, as the case may be, no person in the relevant class of persons may submit an expression of interest in obtaining an invitation to apply for a visa of that class or type; and
-  (b) if a person purports to submit an expression of interest in obtaining an invitation to apply for a visa contrary to paragraph (a), the expression of interest is deemed not to have been submitted.
-(3) To avoid doubt, no suspension provided for by regulations made for the purposes of section 401A affects the ability of any person to claim refugee or protected person status.
-(4) This section is repealed at the close of 15 May 2023.
+[Repealed]
 
 ### 402 Regulations relating to procedures and requirements in relation to arrivals in and departures from New Zealand
 Without limiting the generality of section 400, regulations made under that section may—
@@ -5928,8 +5776,7 @@ Without limiting the generality of section 400, regulations made under that sect
 **Modifications of Act relating to COVID-19 outbreak**
 
 ### 403B Modifications of Act relating to COVID-19 outbreak
-(1) The provisions of this Act identified in Schedule 6 apply as modified in that schedule.
-(2) This section and Schedule 6 are repealed at the close of 15 May 2023.
+[Repealed]
 
 ## Part 12 — Repeals, transitional provisions, saving provisions, and related matters
 
@@ -6855,45 +6702,28 @@ A victim to whom this section applies may make submissions to the Minister of Im
 ## Schedule 6 — Modifications of Act relating to COVID-19 outbreak
 
 ### 1 Modification to section 4 (Interpretation)
-Section 4 must be read as if in the appropriate place there were inserted:
-  - **medical officer of health** “ has the meaning given to it by section 2(1) of the Health Act 1956”.
+[Repealed]
 
 ### 2 Modifications to section 50 (Conditions on resident visas)
-(1) In section 50(2)﻿(b), the reference to subsection (1) must be read as a reference to this section.
-(2) In section 50(4), the reference to this section must be read as a reference to any of subsections (1) to (3).
-(3) Section 50 must be read as if subsection (5) were replaced with:
-  (“(5)) To avoid doubt,—
-    (a) subsection (2) applies whether the resident visa was granted as an exception to residence instructions or otherwise:
-    (b) subsection (4A) applies whether the resident visas, or any of them, were granted as an exception to residence instructions or otherwise:
-    (c) nothing in this section allows the Minister to impose conditions on a permanent resident visa, whether at the time of or subsequent to granting the visa.”
+[Repealed]
 
 ### 3 Modifications to section 52 (Conditions on temporary entry class visas (other than those subject to restricted temporary entry instructions))
-(1) In section 52(2)﻿(b), the reference to subsection (1) must be read as a reference to this section.
-(2) In section 52(4), the reference to this section must be read as a reference to any of subsections (1) to (3).
+[Repealed]
 
 ### 4 Modifications to section 53 (Conditions on temporary entry class visas subject to restricted temporary entry instructions)
-(1) In section 53(2)﻿(b), the reference to subsection (1) must be read as a reference to this section.
-(2) In section 53(4), the reference to this section must be read as a reference to any of subsections (1) to (3).
-(3) Section 53 must be read as if subsection (5) were replaced with:
-  (“(5)) To avoid doubt,—
-    (a) subsection (2) applies whether the temporary entry class visa was granted as an exception to temporary entry instructions or otherwise:
-    (b) subsection (4A) applies whether the temporary entry class visas, or any of them, were granted as an exception to temporary entry instructions or otherwise.”
+[Repealed]
 
 ### 5 Modification to section 56 (Visa holder must comply with conditions)
-Section 56(4) must be read as if after section 386A the words or if the special direction making them was notified in the Gazette in accordance with section 50(4D)﻿(a), 52(4D)﻿(a), or 53(4D)﻿(a) were inserted.
+[Repealed]
 
 ### 6 Modification to section 63 (Expiry of visa)
-Section 63 must be read as if after subsection (2) the following subsection were inserted:
-  (“(3)) Subsections (1) and (2) are subject to any extension of the visa under section 78A.”
+[Repealed]
 
 ### 7 Modification to section 66 (Cancellation of temporary entry class or transit visa by Minister or immigration officer)
-In section 66(1)﻿(b), the reference to section 78 must be read as a reference to section 78 or 78A.
+[Repealed]
 
 ### 8 Modification to section 86 (Who must obtain transit visa)
-Section 86 must be read as if subsection (2) were replaced with:
-  (“(2)) Subsection (1) applies to the person unless—
-    (a) he or she is classified, by regulations made under section 400 or special direction of the Minister under subsection (4), as a person to whom a transit visa waiver applies; or
-    (b) an individual waiver under subsection (4A) applies.”
+[Repealed]
 
 ### 9 Modification to section 400 (Regulations generally)
-In section 400(b), the reference to section 401 must be read as a reference to section 401 or 401A.
+[Repealed]
