@@ -1,0 +1,1724 @@
+# Forests (Legal Harvest Assurance) Amendment Act 2023
+_Consolidation as at 2023-05-19_
+
+### 1 Title
+This Act is the Forests (Legal Harvest Assurance) Amendment Act 2023.
+
+### 2 Commencement
+(1) This Act, other than the provisions described in subsection (2), comes into force on the earlier of the following dates:
+  (a) 3 years after this Act receives the Royal assent:
+  (b) a date specified by Order in Council.
+(2) Section 49, so far as it relates to the following provisions, comes into force 12 months after this Act comes into force or on an earlier date specified by Order in Council:
+  (a) subpart 10 of Part 5 except for sections 139, 140, and 141; and
+  (b) subpart 2 of Part 7.
+(3) An Order in Council made under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+
+### 3 Principal Act
+This Act amends the Forests Act 1949.
+
+## Part 1 — Amendments to principal Act
+
+### 4 Section 2 amended (Interpretation)
+(1) In section 2(1), repeal the definitions of forestry register and forestry practice standards.
+(2) In section 2(1), definition of log trader, replace section 63I with section 166.
+(3) In section 2(1), definition of registered, replace paragraph (c) with:
+  (c) in relation to Part 2A, registered under that Part as a forestry adviser:
+  (d) in relation to Part 5, registered under that Part for legal harvest:
+  (e) in relation to Part 6, registered under that Part as a log trader
+(4) In section 2(1), insert in their appropriate alphabetical order:
+  - **marae** includes the area of land on which all buildings such as wharenui (meeting house), wharekai (dining room), ablution blocks, and any other associated buildings are situated
+  - **misconduct** ,—
+    (a) in relation to a person registered as a forestry adviser, has the meaning given in section 63ZI(4); and
+    (b) in relation to a person registered as a log trader, has the meaning given in section 179(2)
+  - **New Zealand log** , in Parts 5 and 6, means a log grown in New Zealand on forest land
+  - **officer** means a forestry officer appointed under section 11 or a person appointed under section 10
+  - **practice standards** means,—
+    (a) for forestry advisers, the practice standards set under section 63ZZL; and
+    (b) for legal harvest, the practice standards set under section 158; and
+    (c) for log traders, the practice standards set under section 200
+  - **threshold volume** , in relation to the registration requirement for log traders, has the meaning given in section 169(4)
+  - **unsatisfactory conduct** ,—
+    (a) in relation to a person registered as a forestry adviser, has the meaning given in section 63ZI(3); and
+    (b) in relation to a person registered as a log trader, has the meaning given in section 179(1)
+
+### 5 Section 2B amended (Parts of this Act that bind the Crown)
+After section 2B(b), insert:
+  (c) Part 5:
+  (d) Part 6:
+  (e) Part 7.
+
+### 6 Section 13 amended (Protection of forestry officers, etc)
+(1) In the heading to section 13, replace of forestry officers, etc with from personal liability.
+(2) In section 13(1), replace by any forestry officer, by an employee of the Ministry, or by any person appointed to a committee under section 15(2)﻿(b) with by a person to whom this section applies.
+(3) Replace section 13(2) with:
+  (2) This section applies to—
+    (a) an officer:
+    (b) an employee of the Ministry:
+    (c) a person appointed to a committee under section 15(2)﻿(b):
+    (d) a person called on to assist an officer:
+    (e) a person outside the public service to the extent that the person is acting under a delegation referred to in section 63D.
+
+### 7 Section 15B amended (Collection and disclosure of statistical information)
+In section 15B(5), after forestry officer, insert or other officer.
+
+### 8 Section 59 amended (Offences with respect to forestry officers)
+(1) In the heading to section 59, delete forestry.
+(2) In section 59(a), delete forestry.
+
+### 9 Section 60 amended (Other offences)
+(1) In section 60(a), replace a forestry with an.
+(2) In section 60(c), delete forestry.
+
+### 10 Part 2A heading amended
+In the Part 2A heading, delete log traders and.
+
+### 11 Section 63A amended (Purpose of this Part)
+In section 63A(2)﻿(a) and (b), delete log traders and.
+
+### 12 Section 63B replaced (Forestry Authority)
+Replace section 63B with:Forestry Authority
+  The Secretary is the Forestry Authority.
+
+### 13 Section 63C amended (Functions)
+(1) In section 63C(a) and (b)﻿(i), delete log traders and.
+(2) In section 63C(f), replace section 63ZZE(g) with section 63ZZE(1)﻿(g).
+(3) In section 63C(b)﻿(ii), delete registered log traders and.
+(4) In section 63C, insert as subsection (2):
+  (2) The Forestry Authority may, for the purpose of subsection (1)﻿(a), establish different categories of registration for registered forestry advisers.
+
+### 14 Section 63G amended (Power to obtain information from registered persons)
+(1) In section 63G(1), delete log trader or.
+(2) In section 63G(2)﻿(a), delete registered log trader or.
+
+### 15 Sections 63H to 63K and cross-heading above section 63H repealed
+Repeal sections 63H to 63K and the cross-heading above section 63H.
+
+### 16 Section 63L replaced (Forestry advisers must be registered)
+Replace section 63L with:Requirement for forestry advisers to be registered
+  (1) A person who wishes to provide a forestry adviser service for reward must—
+    (a) be registered as a forestry adviser under section 63Q; and
+    (b) have authorisation (as specified in their registration) to provide that kind of forestry adviser service.
+  (2) However,—
+    (a) subsection (1) does not apply if the person is within a class of persons who are exempt from the requirement to be registered (see section 63ZZN(1)﻿(a)); and
+    (b) subsection (1)﻿(b) does not apply if the person is within a class of persons who are exempt from the requirement to have authorisation to provide that forestry adviser service or class of service (see section 63ZZN(1)﻿(b)).
+  (3) A person must not falsely hold out that they, or any other person,—
+    (a) are a registered forestry adviser; or
+    (b) have authorisation to provide a forestry adviser service; or
+    (c) are not required to be registered as a forestry adviser or to have authorisation to provide a forestry adviser service.
+
+### 17 Section 63M amended (Meaning of forestry adviser service)
+(1) In section 63M(1)﻿(b), after produce, insert , but only from the time of harvest up to and including the first processing (within the meaning of section 76) of that timber or forest produce.
+(2) In section 63M(1)﻿(d), replace section 63ZZE(b) with section 63ZZE(1)﻿(b).
+(3) In section 63M(2)﻿(a), replace incidental to, and not the principal part of, with the provision of advice that is ancillary or incidental to.
+
+### 18 Section 63N replaced (Entitlement to be registered forestry adviser)
+Replace section 63N with:Registration criteria for forestry advisers
+  (1) The criteria that must be met (to the satisfaction of the Forestry Authority) in order for a person to be a registered forestry adviser are as follows:
+    (a) the person is an individual; and
+    (b) the person is a fit and proper person to provide a forestry adviser service; and
+    (c) the person meets the entitlement criteria set by regulations made under section 63ZZE(1)﻿(c).
+  (2) In determining whether a person is a fit and proper person, the Forestry Authority must take into account—
+    (a) the matters set out in regulations made under section 63ZZE(1)﻿(e); and
+    (b) any other matters that the Authority considers relevant.
+
+### 19 Section 63O amended (Obligations of registered forestry adviser)
+(1) In section 63O(c)﻿(ii), replace section 63ZZE(g) with section 63ZZE(1)﻿(g).
+(2) In section 63O(e), replace section 63ZZE(k) with section 63ZZE(1)﻿(k).
+(3) In section 63O(f), replace section 63ZZE(h) with section 63ZZE(1)﻿(h).
+(4) In section 63O(g), replace section 63ZZE(i) and (j) with section 63ZZE(1)﻿(i) and (j).
+(5) Replace section 63O(h) with:
+  (h) comply with any other obligations that apply to registered forestry advisers, whether imposed by this Part or by regulations.
+
+### 20 Section 63P amended (Application for registration)
+(1) In section 63P(1), delete log trader or.
+(2) In section 63P(1)﻿(b), replace section 63ZZE(m) with section 63ZZE(1)﻿(m).
+
+### 21 Section 63Q amended (Decision on application for registration)
+(1) In section 63Q(1), delete log trader or.
+(2) Replace section 63Q(2) with:
+  (2) If the Authority is satisfied that the applicant meets the registration criteria (see section 63N), the Authority must—
+    (a) register the applicant; and
+    (b) notify the applicant of—
+      (i) the date on which the registration has effect; and
+      (ii) the date on which the registration will expire if it is not renewed (see section 63R); and
+      (iii) any conditions of the registration (see section 63U); and
+      (iv) which forestry adviser services the person is authorised to provide.
+  (2A) The Authority—
+    (a) may ask the applicant to provide any other information that the Authority needs to decide whether the applicant meets the registration criteria; and
+    (b) if the applicant does not provide the requested information within 6 months after being asked for it, may decline the application for that reason.
+
+### 22 Section 63R amended (Registrations expire unless renewed)
+(1) In the heading to section 63R, replace Registrations expire with Registration expires.
+(2) In section 63R, delete log trader or.
+(3) In section 63R, replace section 63ZZE(n) with section 63ZZE(1)﻿(n).
+
+### 23 Section 63S amended (Application for renewal of registration)
+(1) In section 63S(1), delete log trader or.
+(2) In section 63S(1)﻿(c), replace section 63ZZE(m) with section 63ZZE(1)﻿(m).
+
+### 24 Section 63T amended (Decision on application for renewal of registration)
+(1) In section 63T(1), delete log trader or.
+(2) In section 63T(2)﻿(b)﻿(iv), delete for a forestry adviser,.
+
+### 25 Section 63U amended (Conditions of registration)
+(1) In section 63U(1), replace section 63ZZE(k) with section 63ZZE(1)﻿(k).
+(2) In section 63U(1)﻿(a), delete log trader or.
+(3) Repeal section 63U(3).
+(4) In section 63U(4), delete on the registration of a forestry adviser.
+(5) In section 63U(7), delete on a registered forestry adviser.
+(6) In section 63U(7), replace section 63ZZE(k) with section 63ZZE(1)﻿(k).
+
+### 26 Section 63V amended (Measures to address unsatisfactory conduct or misconduct)
+Repeal section 63V(1)﻿(c).
+
+### 27 Section 63W repealed (Notice requiring log trader to address unsatisfactory conduct)
+Repeal section 63W.
+
+### 28 Section 63X replaced (Suspension of registration for misconduct)
+Replace section 63X with:Suspension of registration as forestry adviser
+  (1) The Forestry Authority may suspend a person’s registration as a forestry adviser if the Authority is satisfied that the person—
+    (a) has engaged in misconduct (as defined by section 63ZI) in their capacity as a registered forestry adviser; or
+    (b) has failed to meet their obligations to pay fees, levies, or charges imposed by regulations made under this Part and the failure is more than minor or inconsequential; or
+    (c) is no longer providing a forestry adviser service.
+  (2) Before suspending a person’s registration as a forestry adviser, the Authority must—
+    (a) give the person notice of the Authority’s intention to suspend registration and the reasons for the decision; and
+    (b) invite the person to provide information to satisfy the Authority that the decision is inappropriate; and
+    (c) give the person a reasonable opportunity to respond.
+  (3) After completing the steps in subsection (2), the Authority must notify the person of the Authority’s decision. The notice must—
+    (a) include the reasons for the decision; and
+    (b) in the case of a suspension,—
+      (i) specify the dates of the period of suspension; and
+      (ii) specify any conditions imposed under this section; and
+    (c) inform the person of the right of review under section 63Z.
+  (4) A suspension takes effect on the date on which the person is given notice under subsection (3), or a later date if specified in the notice.
+  (5) The suspension ceases on the expiry of the period specified in the notice unless—
+    (a) the person has exhausted their right of review in respect of the decision to suspend registration (after which registration is revoked under section 63Y); or
+    (b) the Authority notifies the person that the suspension is lifted on an earlier date.
+  (6) The Authority may lift the suspension on an earlier date than that specified in the notice if the Authority is satisfied that the reasons for the suspension no longer apply.
+  (7) The Authority may impose conditions that apply for the duration of the suspension, but the Authority must be satisfied that the conditions are—
+    (a) necessary or desirable for the purposes of this Part; and
+    (b) reasonable.
+  (8) A person whose registration is suspended must, for the duration of the suspension, comply with any conditions imposed under this section.
+  (9) While a person’s registration is suspended, the person must be treated as not being registered under this Part.
+
+### 29 Section 63Y replaced (Revocation of registration)
+Replace section 63Y with:Revocation of registration as forestry adviser
+  (1) The Forestry Authority must revoke a person’s registration as a forestry adviser—
+    (a) if the registration is suspended under section 63X and the person has exhausted their right of review under section 63Z in respect of the decision to suspend; or
+    (b) at the request of the registered person.
+  (2) If a forestry adviser’s registration is suspended, the Authority may revoke their registration if the Authority is satisfied that—
+    (a) the person has failed within a reasonable time to take appropriate corrective action to remedy the deficiency or failure that resulted in the suspension; and
+    (b) the person has not sought a review of the decision to suspend registration.
+  (3) The revocation has effect on the date on which it is notified to the registered person or a later date specified by the Authority and notified to the registered person.
+
+### 30 Section 63Z amended (Right of review of certain decisions of Forestry Authority)
+(1) In section 63Z(1)﻿(a), (b), and (e), delete log trader or.
+(2) Repeal section 63Z(1)﻿(d).
+
+### 31 Section 63ZA amended (Who reviews decision)
+In section 63ZA(1)﻿(b), after Secretary, insert or is performing or exercising a function or power delegated under section 63D.
+
+### 32 Section 63ZI amended (Complaints about unsatisfactory conduct or misconduct)
+In section 63ZI(4)﻿(c), replace section 63ZZE(f) with section 63ZZE(1)﻿(f).
+
+### 33 Section 63ZJ amended (Disputes about commercial matters)
+Repeal section 63ZJ(1)﻿(b).
+
+### 34 Section 63ZK replaced (Offences)
+Replace section 63ZK with:Offences
+  (1) A person commits an offence if the person fails to comply with—
+    (a) section 63L(1) (requirement for forestry advisers to be registered); or
+    (b) section 63L(3) (requirement not to falsely hold out that a person is registered or has authorisation, or is not required to be registered or have authorisation); or
+    (c) section 63O (obligations of registered forestry adviser); or
+    (d) section 63P(2) (requirement not to provide false or misleading information in application for registration); or
+    (e) section 63S(2) (requirement not to provide false or misleading information in application for renewal of registration).
+  (2) It is a defence to a charge under any of paragraphs (a) to (e) of subsection (1) if—
+    (a) the defendant proves that the commission of the offence was due to—
+      (i) the act or omission of another person; or
+      (ii) an accident; or
+      (iii) some other cause or circumstances outside the defendant’s control; and
+    (b) the defendant proves that they took reasonable precautions and exercised due diligence to avoid the commission of the offence or offences of the same kind.
+  (3) It is a defence to a charge under subsection (1)﻿(d) or (e) that the defendant—
+    (a) did not know that the information they provided was false or misleading; and
+    (b) exercised all reasonable care and due diligence to ensure that the information provided was not false or misleading.
+  (4) However, a defence in subsection (2) or (3) is available only if—
+    (a) the defendant notifies the prosecutor in writing, at least 15 working days before the hearing date, that they intend to rely on the defence; or
+    (b) the court gives leave for the defendant to rely on the defence.
+
+### 35 Cross-heading above section 63ZM replaced
+Replace the cross-heading above section 63ZM with:Register of forestry advisers
+
+### 36 Sections 63ZM and 63ZN repealed
+Repeal sections 63ZM and 63ZN.
+
+### 37 Section 63ZO amended (Register of forestry advisers)
+In section 63ZO(3)﻿(e), replace section 63ZZE(o) with section 63ZZE(1)﻿(o).
+
+### 38 Section 63ZP amended (Form of forestry registers)
+(1) In the heading to section 63ZP, replace forestry registers with forestry advisers register.
+(2) In section 63ZP(a), replace forestry registers with forestry advisers register.
+(3) In section 63ZP(b), replace registers is as set out in sections 63ZN and 63ZO with register is as set out in section 63ZO.
+
+### 39 Section 63ZQ amended (Access to forestry registers)
+(1) In the heading to section 63ZQ, replace forestry registers with forestry advisers register.
+(2) In section 63ZQ(1)﻿(a),—
+  (a) replace forestry registers with forestry advisers register; and
+  (b) replace them with it.
+(3) In section 63ZQ(1)﻿(b) and (2)﻿(a), replace a forestry register with the register.
+
+### 40 Section 63ZR amended (Obligation to notify Forestry Authority of changes)
+(1) In section 63ZR(1), replace a forestry register with the forestry advisers register.
+(2) In section 63ZR(2), replace 10 with 20.
+
+### 41 Subpart 2 of Part 2A repealed
+Repeal subpart 2 of Part 2A.
+
+### 42 Section 63ZZC amended (Requirements before making regulations)
+Replace section 63ZZC(1)﻿(b)﻿(i) to (iii) with:
+  (i) section 207 (principles of cost recovery):
+  (ii) section 208 (requirement for consultation):
+  (iii) section 210 (cost recovery to relate generally to financial year); and
+
+### 43 Section 63ZZD amended (Regulations may subdelegate power to make rules)
+(1) In section 63ZZD(1), replace Regulations with If a person is delegated a function or power under this Part, regulations.
+(2) In section 63ZZD(2)﻿(c), replace sections 63ZT to 63ZW with sections 207 to 210.
+
+### 44 Section 63ZZE amended (Regulations: registration)
+(1) Repeal section 63ZZE(1)﻿(a).
+(2) In section 63ZZE(1)﻿(c),—
+  (a) delete a log trader or; and
+  (b) replace sections 63J(1)﻿(b) and 63N(1)﻿(c) with section 63N(1)﻿(c).
+(3) In section 63ZZE(1)﻿(e),—
+  (a) delete log trader or; and
+  (b) replace sections 63J(2)﻿(a) and 63N(2)﻿(a) with section 63N(2)﻿(a).
+(4) In section 63ZZE(1)﻿(g), replace sections 63K(b)﻿(ii) and with section.
+(5) In section 63ZZE(1)﻿(h), replace sections 63K(d) and with section.
+(6) In section 63ZZE(1)﻿(i), replace sections 63K(e) and with section.
+(7) In section 63ZZE(1)﻿(l), replace sections 63K(f) and with section.
+(8) In section 63ZZE(1)﻿(m), delete log trader or.
+(9) In section 63ZZE(1)﻿(n), replace log traders, forestry advisers, or both with forestry advisers.
+(10) In section 63ZZE(1)﻿(o),—
+  (a) replace forestry register with forestry advisers register; and
+  (b) replace sections 63ZN(3)﻿(d) and 63ZO(3)﻿(e) with section 63ZO(3)﻿(e).
+
+### 45 Section 63ZZI amended (Regulations: levies)
+Replace section 63ZZI(4) with:
+  (4) Regulations made under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+
+### 46 Section 63ZZL amended (Rules: forestry practice standards)
+(1) In the heading to section 63ZZL, replace forestry practice standards with practice standards for forestry advisers.
+(2) In section 63ZZL(1), delete registered log traders and.
+(3) Repeal section 63ZZL(2)﻿(b).
+
+### 47 Section 63ZZN amended (Exemptions from registration requirements)
+Replace section 63ZZN(1)﻿(a) and (b) with:
+  (a) exempt any class of persons from the requirement to be a registered forestry adviser (see section 63L(1)﻿(a)):
+  (b) exempt any class of persons from the requirement to have authorisation, whether in relation to a particular service or class of service (see section 63L(1)﻿(b)):
+
+### 48 Section 71B amended (Restriction on exercise of power of entry)
+(1) In section 71B(1)﻿(e), after may, insert , subject to subsection (2A).
+(2) After section 71B(2), insert:
+  (2A) An issuing officer must not issue a search warrant in relation to an offence under Part 5 unless the officer has reasonable grounds for believing that there is, in the place to be searched,—
+    (a) something in relation to the offence that has been or is being or is intended to be committed; or
+    (b) evidence of the commission of the offence.
+
+### 49 New Parts 5 to 7 inserted
+After Part 4, insert:Legal harvest assurancePurpose of this PartOutline of legal harvest systemInterpretationWhen is timber legally harvested?How indigenous timber is regulated under this PartWho must comply with legal harvest information requirementsResponsible person must comply with legal harvest information requirementsLegal harvest information requirementsWhen responsible person not required to comply with legal harvest information requirementsRequirements for legal harvest statementVoluntary compliance with legal harvest information requirementsWho must register for legal harvestPersons must be registered for legal harvest before carrying out certain activitiesRegistration criteria for legal harvestPersons not required to be registered for legal harvestObligations of persons registered for legal harvestObligations of registered personsRegistered person must not receive regulated timber or specified timber products unless they receive legal harvest information or exceptions applyRegistered person must provide legal harvest information if requested by another registered personRegistered person must declare continuing compliance with obligationsApplication process to be registered for legal harvestApplication to be registered for legal harvestDecision on application for registrationRegistration of branches and divisions for legal harvestConditions of registrationSuspension and revocation of registration for legal harvestSuspension of registrationProcess for suspensionEffect of suspensionRevocation of registration for legal harvestDue diligence systemsRegistered person must have due diligence systemObligations of registered person in relation to due diligence system for legal harvestApproval of due diligence system templatesSecretary may approve due diligence system templateSecretary may approve due diligence system template developed by third partyRecognition of certification schemeRecognised certification schemesDue diligence system must be kept up to dateRequirement to keep due diligence system up to dateAssessment of due diligence systemPurpose of assessment of due diligence systemWhen due diligence system must be assessedHow assessment of due diligence system must be carried outAssessment fees and chargesExporter statements and requirementsExporter statementsSecretary may issue exporter statementForm and content of exporter statementDuration of exporter statementApplication for exporter statementSecretary may withdraw exporter statementLimitation of liabilityExport requirementsExport requirementsPublication, etc, of notices specifying export requirementsSecretary may grant exemption from export requirementAssessors and recognised agenciesDuties of assessors and recognised agenciesImmunity from liability for assessors outside public serviceRecognition of assessorsRecognition of agenciesRecognition of class of individualsApplication for recognitionProcess for deciding application for recognitionRecognition of certain assessors or agencies without applicationSecretary may impose conditions of recognitionDuration of recognition and renewalSuspension of recognitionSecretary may suspend recognitionSecretary may extend suspension of assessor or agency recognitionMethod of suspending recognitionWithdrawal of recognitionSecretary may withdraw recognitionMethod of withdrawing recognitionSurrender of recognitionSurrender of recognitionRegistersLegal harvest registerRegister of assessors and recognised agenciesSecretary to determine form of registers and make registers available to publicPerson may apply to have certain information withheld from registerPerson must notify Secretary of changes to their information on registerCompliance, enforcement, and powers of SecretaryOverview of this subpartSecretary’s powersSecretary may give directions on functions, duties, or powersPublication of notices relating to harvest lawsSecretary's power to obtain informationEnforcement powersPower of warrantless entry and inspection for purpose of enforcing this PartEntry and inspection under search warrant for the purpose of enforcing this PartMatters may be continued by different officerOfficer may issue warning and compliance notice to person registered for legal harvestOffences and penaltiesOffence to provide false or misleading informationStrict liability offences relating to legal harvestReview and appealRight of review of certain decisionsWho reviews decisionHow review is conductedAppealsSecondary legislationRegulationsRequirements before making regulationsPower to make regulationsRegulations may grant exemptionsRegulations may set fees and chargesRegulations may impose leviesRegulations about offencesRulesRules setting practice standards for legal harvestGeneral mattersEvidence in proceedingsEvidence in proceedingsLiability of body corporateLiability of directors and managers of companiesAutomated electronic systemArrangement for systemEffect of use of systemReview of this PartReview of this Part and operation and effectiveness of legal harvest systemLog tradersPurpose of this PartMeaning of log traderLog traders must be registeredRequirement for log traders to be registeredRegistration criteria for log tradersWhen person not required to be registered log traderObligations of registered log tradersObligations of registered log traderRegistered log trader must declare continuing compliance with obligationsApplication process to be registered log traderApplication to be registered log traderDecision on application for registrationConditions of registrationSuspension and revocation of log trader registrationSuspension of log trader’s registrationProcess for suspensionEffect of suspensionRevocation of log trader registrationComplaints and dispute resolutionMeaning of unsatisfactory conduct and misconductComplaints about unsatisfactory conduct or misconduct by registered log traderDisputes about commercial mattersMeasures to address unsatisfactory conduct or misconduct by registered log traderNotice requiring registered log trader to address unsatisfactory conductOffencesOffences relating to log tradersRegister of log tradersLog trader registerRegister must be available to publicPerson may apply to have certain information withheld from registerPerson must notify Secretary of changes to their information on registerPowers and functions of SecretarySecretary’s functionsSecretary's power to obtain informationSecondary legislationRequirements before making regulationsRegulations: registrationMinister may exempt from registration requirementsPower to make regulations generallyRegulations may establish resolution process for complaintsDisputes resolution process for commercial mattersRegulations may set fees and chargesRegulations may impose leviesRequirements before making rulesRules: practice standards for log tradersReview and appealRight of review of certain decisionsWho reviews decisionHow review is conductedAppealsProvisions that apply to Parts 2A, 5, and 6Part applies to specified PartsCost recoveryObligation to recover costsPrinciples of cost recoveryRequirement for consultationMethods of cost recoveryCost recovery to relate generally to financial yearMinister may review levels and methods of cost recoveryTrust accounts required to be kept by persons collecting leviesFees, levies, and charges payable are debt due to the CrownServices may be withdrawn until debt paidObligation to pay fee, charge, levy, or penalty not suspended by disputeInfringement offencesInterpretationInfringement offencesWho may issue infringement noticesWhen infringement notice may be issuedRevocation of infringement notice before payment madeWhat infringement notice must containHow infringement notice may be servedPayment of infringement feesReminder notices
+  The purpose of this Part is to—
+    (a) strengthen the international reputation of the forestry sector; and
+    (b) safeguard and enhance market access for the forestry sector; and
+    (c) reduce the risk of importing timber that is not legally harvested; and
+    (d) help reduce international trade in timber that is not legally harvested.
+  (1) The legal harvest system established under this Part—
+    (a) requires a person who is responsible for harvesting regulated timber to—
+      (i) provide, when supplying that timber to others in trade, legal harvest information about that timber (which includes a statement about the extent to which the timber is legally harvested); and
+      (ii) keep the legal harvest information up to date; and
+      (iii) keep records of any legal harvest information they have provided; and
+    (b) requires a person to be registered for legal harvest before—
+      (i) acting as a log trader for certain activities; or
+      (ii) carrying out the first processing of regulated timber (in trade); or
+      (iii) importing or exporting any specified timber product (in trade); and
+    (c) requires those registered for legal harvest to have a due diligence system to eliminate or mitigate the risk of them dealing in—
+      (i) timber that is not legally harvested; or
+      (ii) specified timber products that are or include timber that is not legally harvested; and
+    (d) requires the due diligence system to be assessed by an assessor; and
+    (e) provides for the recognition of assessors and agencies; and
+    (f) enables the Secretary to issue exporter statements and impose export requirements.
+  (2) This section is intended as a guide only.
+  (1) In this Part, unless the context otherwise requires,—
+    - **assessment report** means the written report on a due diligence system that an assessor produces under section 106
+    - **assessor** means a person who assesses the due diligence systems under this Part and who is recognised by the Secretary as an assessor for the purposes of this Part
+    - **due diligence requirement** means a requirement imposed by or under this Part that relates to due diligence for legal harvest
+    - **due diligence system** means a due diligence system for legal harvest (see section 99)
+    - **export requirement** means an export requirement specified by notice under section 114
+    - **first processing** , in relation to timber,—
+      (a) means—
+        (i) sawing, chipping, pulping, splitting, veneer peeling, or slicing of unprocessed timber; or
+        (ii) the application of any other process specified in regulations; but
+      (b) does not include—
+        (i) removing branches from felled trees; or
+        (ii) cutting trees into log grades or lengths at a harvest site
+    - **harvest laws of a place or country** has the meaning given in section 77(3)
+    - **legal harvest information** has the meaning given in subsection (2)
+    - **legal harvest information requirements** has the meaning given in section 80
+    - **legal harvest statement** means a statement and an undertaking about the extent to which timber has been, is being, or will be legally harvested (see section 82)
+    - **recognition** means a recognition by the Secretary—
+      (a) of a person as an assessor under section 119 or by virtue of that person belonging to a class of individuals recognised under section 121; or
+      (b) of a person as a recognised agency under section 120; or
+      (c) of a class of individuals as assessors under section 121
+    - **recognised certification scheme** means a certification scheme recognised under section 102
+    - **register** means the legal harvest register or register of assessors and recognised agencies, as the case may be
+    - **registered person** means a person registered for legal harvest under this Part
+    - **regulated activity** ,—
+      (a) for a responsible person for a harvest of regulated timber, means, in trade, providing any timber resulting from the harvest to another person (see section 79); and
+      (b) for a person required to register for legal harvest, means any of the activities specified in section 84(1)
+    - **regulated timber** means the roots, stump, logs, branches, and leaves from—
+      (a) exotic species of New Zealand timber unless and to the extent that they are excluded by regulations; or
+      (b) indigenous species of New Zealand timber but only to the extent that they are included by regulations
+    - **responsible person** , in relation to a harvest,—
+      (a) means the owner of the forest or other person with the right to harvest the trees or woody plants; and
+      (b) includes a person acting on their behalf
+    - **specified timber product** means any timber, or any product made from or containing timber, that is identified by regulations, and by reference to items, headings, or subheadings that appear in the Tariff, as a product to which this Part applies
+    - **Tariff** has the meaning given in section 2(1) of the Tariff Act 1988
+    - **template** , in relation to a due diligence system, means a template referred to in section 100 or 101
+    - **threshold level** ,—
+      (a) in relation to the requirement to provide a legal harvest statement, has the meaning given in section 81(3); and
+      (b) in relation to the registration requirement for legal harvest, has the meaning given in section 86(5).
+  (2) For the purposes of this Part, legal harvest information,—
+    (a) for regulated timber that results from the harvest of exotic species of New Zealand timber,—
+      (i) means the legal harvest statement relating to the timber; and
+      (ii) includes any supporting evidence, if that evidence is required by regulations or under the registered person’s due diligence system; and
+    (b) for regulated timber that results from the harvest of indigenous species of New Zealand timber, means the information required by regulations; and
+    (c) for specified timber products, means the information required by regulations.
+  (1) In this Part, timber is legally harvested if the person who harvests the trees or woody plants from which the timber derives—
+    (a) has the right to harvest them; and
+    (b) has all necessary legal authority to exercise that right; and
+    (c) does not contravene the harvest laws of the place or country of harvest when carrying out the harvest.
+  (2) If the harvest laws of a place or country are specified by the Secretary in a notice, a person may choose to satisfy the requirement in subsection (1)﻿(c) only in relation to the harvest laws specified in the notice.
+  (3) The harvest laws of a place or country are laws that—
+    (a) affect how or whether a harvest is to be carried out; and
+    (b) set requirements, conditions, or restrictions relating to—
+      (i) land and resource use; or
+      (ii) property rights or interests in what is harvested; or
+      (iii) property rights or interests in the land where the harvest occurs; or
+      (iv) access to the land where the harvest occurs; or
+      (v) any other matter that the Secretary considers relevant for the purposes of this Part and specifies in a notice.
+  (4) The Secretary may, for the purposes of this Part, specify in a notice what they consider to be the harvest laws of a place or country after being satisfied that the laws specified meet the description in subsection (3).
+  (5) In this section, harvest includes any work on the land that is necessary to prepare for the harvest or to stabilise the land after the harvest.
+  (6) Section 140 applies to a notice made under subsection (3)﻿(b)﻿(v) or (4).
+  (7) A notice made under subsection (3)﻿(b)﻿(v) or (4) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+  This Part applies to a person who trades in indigenous timber only if—
+    (a) it is regulated timber; or
+    (b) the person has voluntarily complied with the legal harvest system in accordance with section 83.
+  (1) A responsible person for the harvest of regulated timber must comply with the legal harvest information requirements when supplying that timber to another person in trade.
+  (2) This section is subject to section 81.
+  The legal harvest information requirements are as follows:
+    (a) a responsible person who supplies regulated timber (the supplier) to another person (the recipient) in trade must provide the recipient with the legal harvest information for the timber:
+    (b) the supplier must provide the legal harvest information to the recipient before or when the timber is supplied to the recipient:
+    (c) if the supplier becomes aware that any part of the legal harvest information is false or misleading in any material particular, they must provide the recipient with correct and up-to-date legal harvest information,—
+      (i) if all the timber has not been supplied, before continuing to supply the timber to the recipient; or
+      (ii) if all the timber has been supplied, as soon as is reasonably practicable until trade between the supplier and the recipient is completed for that harvest:
+    (d) the supplier must, in accordance with regulations, keep records of legal harvest information that they have provided under this section.
+  (1) A responsible person does not have to comply with section 79(1) if—
+    (a) they belong to a class of persons specified by regulations as exempt from the legal harvest information requirements; or
+    (b) the timber they supply is of a kind specified in regulations as timber to which section 79(1) does not apply (whether in part or in whole); or
+    (c) the timber is supplied in the circumstances, or for the purposes, specified in regulations; or
+    (d) all their regulated activity qualifies for 1 or more of the activity exceptions.
+  (2) The activity exceptions are the following:
+    (a) if the responsible person carried out the activity in the previous full financial year,—
+      (i) their level of activity in that year was less than the threshold level of timber; and
+      (ii) their level of activity in the current financial year does not in fact exceed that threshold level:
+    (b) if the responsible person did not carry out the activity in the previous full financial year, their level of activity in the current financial year is reasonably expected by them not to, and does not in fact, exceed the threshold level of timber.
+  (3) In this section, threshold level, in relation to regulated timber, means the level specified by regulations.
+  (4) Regulations may specify a threshold level by reference to volume, number of units, number of consignments, value, or any other measure.
+  (1) A legal harvest statement—
+    (a) must identify the timber to which it relates in accordance with any requirement or criteria in regulations (for example, by referring to location or by species of timber); and
+    (b) must include any information that is required by regulations; and
+    (c) must be made in the form approved by the Secretary.
+  (2) However, a legal harvest statement for regulated timber that results from the harvest of indigenous species of New Zealand timber need not comply with subsection (1) if it complies with alternative requirements set in regulations.
+  (1) A responsible person who is not required to comply with section 79(1) may, however, choose to comply with that section for particular timber that they supply in trade.
+  (2) If the person chooses to comply with section 79(1) for particular timber that they supply in trade,—
+    (a) they must, in relation to that timber, comply with all of the legal harvest information requirements; and
+    (b) that timber is treated as regulated timber for the purposes of this Part.
+  (1) A person must be registered for legal harvest before they carry out any of the following activities:
+    (a) the activity of a log trader described in section 166(1)﻿(a):
+    (b) in trade, the first processing of regulated timber:
+    (c) in trade, importing or exporting a specified timber product for which they are the importer or exporter:
+    (d) any of the above activities as an agent of another person.
+  (2) A person must not falsely hold out that they are, or any other person is,—
+    (a) registered for legal harvest; or
+    (b) not required to be registered for legal harvest.
+  (3) This section is subject to section 86.
+  (4) See section 167, which also requires a log trader to register under Part 6.
+  (1) The criteria that must be met (to the satisfaction of the Secretary) in order for a person to be registered for legal harvest are as follows:
+    (a) the person must be a fit and proper person to be registered for legal harvest; and
+    (b) the person must have a due diligence system that complies with section 99; and
+    (c) the person must meet any other criteria set by regulations.
+  (2) In determining whether a person is a fit and proper person, the Secretary must take into account—
+    (a) the matters set out in regulations; and
+    (b) any other matters that the Secretary considers relevant.
+  (3) See subpart 4 for the application process to be registered for legal harvest.
+  (1) A person does not have to register for legal harvest if—
+    (a) the only activity that they carry out relates to indigenous timber that is not regulated timber; or
+    (b) they are within a class of persons who are exempted by regulations from the requirement to be registered; or
+    (c) all their regulated activities fall within 1 or more of the activity exceptions.
+  (2) The activity exceptions are the following:Low-level activityExempt activities
+    (a) if the person carried out the activity in the previous full financial year,—
+      (i) their level of activity in that year was less than the threshold level for regulated timber or specified timber products; and
+      (ii) their level of activity in the current financial year does not in fact exceed that threshold level:
+    (b) if the person did not carry out the activity in the previous full financial year, their level of activity in the current financial year is reasonably expected by them not to, and does not in fact, exceed the threshold level for regulated timber or specified timber products:
+    (c) the activity is the shipping or transporting of regulated timber or specified timber products, or associated logistical activities:
+    (d) the activity is within a class of exempt activities specified by regulations for the purpose of this section.
+  (3) A person who does not have to register for legal harvest may choose to do so.
+  (4) To avoid doubt, a new trader who relies on an exception in subsection (2)﻿(b) must register as soon as that subsection ceases to apply.
+  (5) In this section, threshold level, in relation to regulated timber or specified timber products, means the level specified by regulations.
+  (6) Regulations may specify a threshold level by reference to volume, number of units, number of consignments, value, or any other measure, and (as applicable) by reference to—
+    (a) any combination of regulated timber; or
+    (b) any combination of specified timber products.
+  (1) A registered person must—
+    (a) have and maintain a due diligence system in accordance with sections 99 and 103; and
+    (b) act in accordance with their due diligence system whenever they undertake a regulated activity; and
+    (c) have their due diligence system assessed as required by this Part; and
+    (d) not receive regulated timber or specified timber products unless in accordance with section 88; and
+    (e) comply with any applicable export requirements imposed under section 114; and
+    (f) adhere to the practice standards for legal harvest (if any); and
+    (g) keep records as required by regulations; and
+    (h) notify the Secretary within 20 working days after any significant change in circumstances; and
+    (i) report to the Secretary as required by regulations; and
+    (j) keep their name and contact details up to date by notifying any change to the Secretary; and
+    (k) comply with any other obligations that apply to persons registered for legal harvest, whether imposed by this Part or by regulations.
+  (2) A registered person must continue to be a fit and proper person to be registered for legal harvest.
+  (3) In this section, significant change of circumstances includes—
+    (a) any matter that may result in a registered person no longer being a fit and proper person to be registered for legal harvest; and
+    (b) the death of the person in control of the registered person, bankruptcy, receivership, voluntary administration, or liquidation.
+  (4) If subsection (3)﻿(b) applies, the person who assumes control of the registered person’s business must give the notice that is required by subsection (1)﻿(h).
+  (1) Before receiving any regulated timber or specified timber product, a registered person must—
+    (a) receive the legal harvest information from the supplier of the regulated timber or specified timber product; and
+    (b) conduct due diligence (in accordance with their due diligence system) in relation to the regulated timber or specified timber product.
+  (2) However, subsection (1) does not apply if—
+    (a) section 81(1) applies to the responsible person who supplied the regulated timber; or
+    (b) the regulated timber or timber from which the specified timber product is made—
+      (i) is of a kind specified in regulations as timber to which section 79(1) does not apply (see section 81(1)﻿(b)); or
+      (ii) is supplied in the circumstances or for the purposes specified in regulations (see section 81(1)﻿(c)).
+  A registered person must provide legal harvest information that they hold for regulated timber or a specified timber product to another registered person who requests that information.
+  (1) A registered person must provide a declaration to the Secretary that they are continuing to comply with their obligations under section 87.
+  (2) The declaration must—
+    (a) be made—
+      (i) annually by the date specified in regulations; and
+      (ii) at any other times as required by or under this Part; and
+    (b) include any other information required by regulations; and
+    (c) be made in the form approved by the Secretary; and
+    (d) be accompanied by payment of any fee specified in regulations.
+  (3) The Secretary may grant a person an extension of up to 20 working days to make their declaration if the Secretary is satisfied that the person is, for reasons outside their control, unable to provide the declaration by the due date.
+  (4) The Secretary may require the person to provide any evidence that the Secretary requires to verify information given in a declaration.
+  (1) An application for registration for legal harvest must—
+    (a) be made to the Secretary in the form approved by the Secretary; and
+    (b) identify the activity to which the registration relates (including any activity that qualifies for an exemption under section 86); and
+    (c) be accompanied by—
+      (i) details of the applicant’s due diligence system; and
+      (ii) if the due diligence system is not based on a template, an assessment report on the due diligence system; and
+    (d) include the information specified by regulations; and
+    (e) be accompanied by payment of any fee specified in regulations.
+  (2) A person must not provide false or misleading information in or with the application.
+  (1) This section applies if the Secretary receives an application for registration that is made in accordance with section 91.
+  (2) If the Secretary is satisfied that the applicant meets the registration criteria in section 85, the Secretary must—
+    (a) register the applicant; and
+    (b) notify the applicant of the date from which the registration has effect.
+  (3) The Secretary—
+    (a) may ask the applicant to provide any other information that the Secretary needs to decide whether the applicant meets the registration criteria; and
+    (b) if the applicant does not provide the requested information within 6 months after being asked for it, may decline the application for that reason.
+  (4) If the Secretary declines the application, the Secretary must notify the applicant of—
+    (a) the decision; and
+    (b) the reasons for the decision; and
+    (c) the right of review under section 148.
+  (1) This section applies if—
+    (a) a person meets the registration criteria for legal harvest; and
+    (b) the person carries out a regulated activity in branches or divisions.
+  (2) The person (the parent entity) may apply for a branch or division to be registered separately from them.
+  (3) For the purpose of section 92 (decision on application for registration), the branch or division may be registered for legal harvest if the Secretary is satisfied that—
+    (a) the parent entity has a separate registration; and
+    (b) the branch or division—
+      (i) carries out a regulated activity; and
+      (ii) can be separately identified by reference to its location or the nature of the activities it carries out; and
+      (iii) can independently comply with the obligations of a registered person.
+  (4) If the Secretary registers a branch or division for legal harvest, this Part applies as if any regulated activity for legal harvest that is carried out by the branch or division were not carried out by the parent entity.
+  (5) However, if the branch or division fails to comply with the obligations of a registered person, any liability or consequence that results from the failure reverts to the parent entity if it cannot be applied to, or is not satisfied by, the branch or division.
+  (1) The Secretary may, subject to subsection (2) and regulations,—
+    (a) impose conditions on the registration of a person for legal harvest; and
+    (b) at any time, modify the conditions.
+  (2) The Secretary—
+    (a) may impose conditions if satisfied that the registered person has failed to comply with any of their obligations under section 87; but
+    (b) may impose only the conditions that the Secretary considers necessary or desirable for the purposes of this Part, and that are reasonable.
+  (3) If the Secretary decides to impose or modify a condition, the Secretary must give the registered person notice of—
+    (a) the decision; and
+    (b) the reasons for the decision; and
+    (c) the right of review under section 148.
+  (4) A new or modified condition has effect on and from the date specified in the notice or, if no date is specified, the date of the notice.
+  (5) Regulations may impose restrictions on the conditions that may be imposed under this section or on how they may be imposed or modified.
+  The Secretary may suspend a person’s registration for legal harvest if the Secretary is satisfied that—
+    (a) the person has contravened their obligations under this Part in a way that is more than minor or inconsequential; or
+    (b) the person is no longer carrying out the activity for which they were registered.
+  (1) Before suspending a person’s registration for legal harvest, the Secretary must—
+    (a) give the person notice of the Secretary’s intention to suspend registration and the reasons for the decision; and
+    (b) invite the person to provide information to satisfy the Secretary that the decision is inappropriate; and
+    (c) give the person a reasonable opportunity to respond.
+  (2) After completing the steps in subsection (1), the Secretary must notify the person of the Secretary’s decision. The notice must—
+    (a) include the reasons for the decision; and
+    (b) in the case of a suspension,—
+      (i) specify the dates of the period of suspension; and
+      (ii) specify any conditions imposed under this section; and
+    (c) inform the person of the right of review under section 148.
+  (3) A suspension takes effect on the date on which the person is given notice under subsection (2), or a later date if specified in that notice.
+  (4) The suspension ceases on the expiry of the period specified in the notice unless—
+    (a) the person has exhausted their right of review in respect of the decision to suspend registration (after which registration is revoked under section 98); or
+    (b) the Secretary notifies the person that the suspension is lifted on an earlier date.
+  (5) The Secretary may lift the suspension on an earlier date than that specified in the notice if the Secretary is satisfied that the reasons for the suspension no longer apply.
+  (6) The Secretary may impose conditions that apply for the duration of the suspension, but the Secretary must be satisfied that the conditions are—
+    (a) necessary or desirable for the purposes of this Part; and
+    (b) reasonable.
+  (7) A person whose registration is being suspended must, for the duration of the suspension, comply with any conditions imposed under this section.
+  As long as a person’s registration for legal harvest is suspended,—
+    (a) the person must be treated as not being registered for legal harvest, subject to any conditions imposed under section 94(1); and
+    (b) if the person is registered as a log trader in relation to a regulated activity for which they are also registered for legal harvest, they must be treated as not being registered as a log trader in relation to that activity.
+  (1) The Secretary must revoke a person’s registration for legal harvest—
+    (a) if registration is suspended under section 95 and the person has exhausted their right of review under section 148 of the decision to suspend registration; or
+    (b) at the request of the registered person.
+  (2) If a person’s registration for legal harvest is suspended, the Secretary may revoke their registration if the Secretary is satisfied that—
+    (a) the person has failed within a reasonable time to take appropriate corrective action to remedy the deficiency or failure that resulted in the suspension; and
+    (b) the person has not sought a review of the decision to suspend registration.
+  (3) The revocation has effect on the date on which it is notified to the registered person, or a later date specified by the Secretary and notified to the registered person.
+  (1) A registered person must—
+    (a) have a due diligence system for legal harvest; and
+    (b) act in accordance with their due diligence system whenever they undertake a regulated activity.
+  (2) The due diligence system must effectively eliminate or minimise the risk of the person doing either of the following:
+    (a) dealing in any timber that—
+      (i) results from the harvest of regulated timber; and
+      (ii) is not legally harvested:
+    (b) importing or exporting any specified timber products that are, or include timber that is, not legally harvested.
+  (3) The due diligence system must comply with—
+    (a) any requirements set by regulations; and
+    (b) any practice standards for legal harvest.
+  (4) Regulations may set any requirements that are relevant to eliminating or minimising the risks described in subsection (2), including requirements about—
+    (a) when supporting evidence is required:
+    (b) information that a registered person must collect:
+    (c) how to assess the completeness, accuracy, or reliability of the information collected:
+    (d) how to eliminate or mitigate a risk:
+    (e) how a recognised certification scheme, or a certification given under it, may be used in a due diligence system:
+    (f) other methods to satisfy a due diligence requirement:
+    (g) keeping records.
+  (5) Without limiting subsection (4)﻿(b), regulations may require the following information to be collected:
+    (a) the kind, origin, and details of the regulated timber or specified product; and
+    (b) evidence of any contravention of any harvest laws of the place or country of harvest (see section 77(1)﻿(c)).
+  (6) The due diligence system may be based on a template.
+  (1) The Secretary may, by notice, approve a template for a due diligence system developed by the Secretary.
+  (2) The template may include, or be accompanied by, guidance on the extent to which a due diligence system must be consistent with the template for the Secretary to treat it as based on a template for the purposes of this Part.
+  (3) Before approving a template, the Secretary must consult the persons or organisations that the Secretary considers representative of the interests of persons likely to be substantially affected by the approval of the template.
+  (4) The Secretary must not approve the template unless satisfied that the template complies with any requirements set in regulations.
+  (5) As soon as practicable after the Secretary approves a template, the Secretary must—
+    (a) publish the approval notice, or notify its making, in the Gazette; and
+    (b) publish the approval notice on an Internet site maintained by or on behalf of the Ministry; and
+    (c) make a copy of the template available, free of charge, on an Internet site or for public inspection at reasonable hours at the head office of the Ministry; and
+    (d) take reasonable steps to bring the approved template to the attention of persons likely to be substantially affected by it; and
+    (e) on request, supply a copy of the template, free of charge, to any person who cannot access it on the Internet site.
+  (6) Regulations may set requirements that a template must comply with, including requiring the template to provide for the matters set out in section 99.
+  (1) The Secretary may, by notice, approve a template for a due diligence system developed by a person other than the Secretary.
+  (2) The template may include, or be accompanied by, guidance on the extent to which a due diligence system must be consistent with the template for the Secretary to treat it as based on a template for the purposes of this Part.
+  (3) The Secretary must not approve the template unless satisfied that the template complies with any requirements set in regulations.
+  (4) The Secretary may require payment of a fee or charge specified by regulations before approving the template.
+  (5) The Secretary may approve the template—
+    (a) subject to any conditions specified by the Secretary in the notice; and
+    (b) for a period (if any) specified by the Secretary in the notice.
+  (6) Regulations may set requirements that a template must comply with, including requiring the template to provide for the matters set out in section 99.
+  (1) The Secretary may, by notice, recognise a certification scheme as one that may be used in a due diligence system.
+  (2) The Secretary may give a notice under this section only if they are satisfied that—
+    (a) the requirements of the scheme are sufficient, in terms of eliminating or minimising the risk of dealing in timber that is not legally harvested, to justify it being used in a due diligence system; and
+    (b) the scheme satisfies any other criteria set by regulations.
+  (3) The Secretary must—
+    (a) publish the notice on an Internet site maintained by or on behalf of the Ministry; and
+    (b) where practicable, cause the details of the recognition to be brought to the attention of persons likely to be affected by the certification scheme by notice or publication in any newspaper or trade journal, or by any other practicable means (including electronic means).
+  (4) A notice given under this section has effect on and from the date on which it is published.
+  (5) The Secretary must maintain a publicly available list of recognised certification schemes.
+  (1) If any change, event, or other matter occurs that increases, or will increase, the risks described in section 99(2), the registered person must—
+    (a) amend their due diligence system as necessary to comply with that section; and
+    (b) notify the Secretary.
+  (2) The person must take the steps set out in subsection (1) as soon as practicable after the change, event, or other matter occurs.
+  (3) The person must otherwise make any amendments to the system that are necessary to keep it up to date.
+  The purpose of an assessment of a person’s due diligence system is to assess—
+    (a) the extent to which the system complies with the requirements of section 99; and
+    (b) the extent to which the person has acted, is acting, or is able to act in accordance with their system when they undertake a regulated activity.
+  (1) A person who wishes to be registered for legal harvest must, unless their due diligence system is based on a template, have their due diligence system assessed within the period of 6 months before the date on which they apply to be registered.
+  (2) A registered person must have their system assessed—
+    (a) at regular intervals based on the level of risk as required by section 99(2); and
+    (b) whenever required to do so by an export requirement; and
+    (c) when directed by the Secretary if—
+      (i) the Secretary has reasonable grounds to believe the person has failed to comply, or is likely to fail to comply, with an obligation under this Part; or
+      (ii) the Secretary is notified under section 103(1) and the Secretary considers there is an increased risk.
+  (3) Subsection (2) applies to a registered person whether or not their due diligence system is based on a template.
+  (1) A person may apply for an assessment of their due diligence system to an assessor of their choice.
+  (2) The person must give the assessor—
+    (a) access to places, things, and information that the assessor reasonably needs to undertake the assessment; and
+    (b) any reasonable assistance that the assessor asks for to undertake the assessment.
+  (3) The assessor must undertake the assessment as soon as practicable after they receive the details of the due diligence system.
+  (4) The assessor must, in accordance with the requirements set in regulations and practice standards for legal harvest,—
+    (a) complete the assessment; and
+    (b) provide the person whose due diligence system is being assessed with—
+      (i) a draft assessment report; and
+      (ii) a reasonable amount of time to respond to the recommendations in the draft report, including by carrying out any recommended corrective action; and
+    (c) produce a final assessment report; and
+    (d) notify the outcome to the Secretary.
+  A person who applies for an assessment of their due diligence system is liable for,—
+    (a) if the assessor is an employee of the Ministry or any other department, the application fee and assessment charge that are specified by regulations; and
+    (b) if the assessor is not an employee of the Ministry or any other department, the fees and charges set by the assessor.
+  (1) The Secretary may issue a statement for the purpose of—
+    (a) facilitating trade in legally harvested timber; and
+    (b) facilitating trade in products wholly or partly made from legally harvested timber; and
+    (c) supporting access to overseas markets of specified timber products.
+  (2) A person must not falsely hold out—
+    (a) that they have an exporter statement; or
+    (b) that their statement is valid after it has expired or been withdrawn.
+  (3) A person must not use an exporter statement in a false and misleading way in relation to the timber or products that they export.
+  (1) An exporter statement—
+    (a) must state that the person exporting the specified timber product—
+      (i) is registered for legal harvest; and
+      (ii) is complying with their obligations as a registered person under this Part; and
+    (b) must state that the exporter is complying with any export requirements specified under section 114; and
+    (c) may contain any other information that the Secretary considers necessary and appropriate to support the registered person’s access to a particular export market.
+  (2) An exporter statement must—
+    (a) state the period for which it is valid, in accordance with section 110; and
+    (b) state that it may become invalid before the expiry of that period for the reasons set out in section 112.
+  (1) An exporter statement is valid for—
+    (a) the period of 12 months that begins on the day on which it is issued; or
+    (b) the period specified in the statement.
+  (2) However, an exporter statement becomes invalid before the expiry of that period if it is withdrawn by the Secretary.
+  (1) A person may apply to the Secretary for an exporter statement at any time.
+  (2) An application must—
+    (a) specify the countries to which the specified timber product is intended for export; and
+    (b) include a statement from the applicant that they are complying with all applicable export requirements; and
+    (c) include information specified in regulations; and
+    (d) be in the form approved by the Secretary; and
+    (e) be accompanied by payment of any fee specified in regulations.
+  The Secretary may withdraw an exporter statement at any time if the Secretary is satisfied that—
+    (a) the statement was inappropriately or incorrectly issued; or
+    (b) the statement is not or is no longer true.
+  The Crown is not liable, and neither the Secretary nor any employee of the Ministry is liable, for any loss resulting from a refusal or failure by a relevant authority of an overseas market to admit specified timber products to that market.
+  (1) The Secretary may, by notice,—
+    (a) impose export requirements set by the New Zealand Government relating to specified timber products; and
+    (b) impose export requirements set by an overseas market relating to specified timber products; and
+    (c) specify how and when the export requirements may or must be met; and
+    (d) specify who is responsible for ensuring the export requirements are met; and
+    (e) specify matters that must be recorded, including how they must be recorded.
+  (2) The Secretary must be satisfied, before imposing export requirements, that—
+    (a) the requirements directly relate to ensuring that a specified timber product is, or is made of, timber that is legally harvested; and
+    (b) the requirements are—
+      (i) necessary or desirable for the purpose of facilitating or supporting access to overseas markets; or
+      (ii) in accordance with the requirements of the relevant authority of the importing country, or can reasonably be expected to satisfy the requirements of the relevant authority of the importing country; or
+      (iii) necessary or desirable to safeguard statements provided by the Secretary relating to a person’s compliance with the legal harvest obligations; or
+      (iv) necessary or desirable to safeguard or strengthen New Zealand’s reputation as a producer of legally harvested timber.
+  (3) An export requirement may relate to—
+    (a) all or any classes or descriptions of specified timber products intended for export; or
+    (b) all or any classes of person.
+  (4) The Secretary may, in the notice, specify requirements that the Secretary is satisfied are necessary or desirable for the purpose of maintaining consistency with any standards, requirements, or recommended practices that apply or are accepted internationally.
+  (5) Before imposing an export requirement under subsection (1), other than subsection (1)﻿(b), the Secretary must consult persons or organisations that the Secretary considers are reasonably likely to have an interest in the proposed change.
+  (6) A notice made under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+  (1) A notice made under section 114 must be published under the Legislation Act 2019 (see section 114(6)).
+  (2) However, if, under the Legislation Act 2019, the notice is not required to be published, the Secretary—
+    (a) must make it available for inspection free of charge, or for purchase at reasonable cost, to any exporters and other persons who—
+      (i) are affected by the requirements in the notice; and
+      (ii) satisfy the Secretary that their specific activities cannot be properly undertaken under this Act unless they have that access; and
+    (b) is not required to make it available to any other person.
+  (1) The Secretary may, by notice, grant an exemption from any export requirement to—
+    (a) all or any classes of specified timber products intended for export from New Zealand; or
+    (b) a specified person or all or any classes of person.
+  (2) The Secretary may grant an exemption under subsection (1)﻿(a) only if the Secretary is satisfied that—
+    (a) the specified timber product to which the export requirement applies is to be used—
+      (i) for product assurance or research purposes:
+      (ii) as trade samples or for the assessment or development of any overseas market:
+      (iii) for personal or non-commercial purposes; or
+    (b) the exemption is authorised by regulations.
+  (3) The Secretary may grant an exemption under subsection (1)﻿(b) only if satisfied that—
+    (a) the person or class of person is using the specified timber product for any purpose specified in subsection (2)﻿(a)﻿(i) to (iii); or
+    (b) the exemption is authorised by regulations.
+  (4) Notices made under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+  (1) An assessor must, when acting as an assessor under this Part, ensure that they—
+    (a) maintain any applicable competency requirements set in regulations; and
+    (b) maintain an appropriate degree of impartiality and independence; and
+    (c) maintain appropriate confidentiality (particularly in respect of commercially sensitive matters) relating to operations and activities the assessor comes into contact with in the course of assessing due diligence systems (except to the extent that the assessor is required to report under paragraph (d)); and
+    (d) report to the Secretary as required by this Part or regulations; and
+    (e) comply with all conditions of their recognition; and
+    (f) comply with any other requirements set by this Part or regulations.
+  (2) A recognised agency must—
+    (a) ensure that each of its recognised assessors is a fit and proper person; and
+    (b) ensure it has adequate resources and systems in place to carry out its functions and activities; and
+    (c) have documented policies and procedures to safeguard the confidentiality of the information obtained or created while carrying out those functions and activities; and
+    (d) have systems, processes, and procedures to manage appropriately any conflict of interest that might arise while carrying out those functions and activities; and
+    (e) comply with all conditions of its recognition; and
+    (f) comply with any other requirements set by this Part or regulations.
+  (3) An assessor who is not engaged by a recognised agency must comply with subsections (1) and (2) (with all necessary modifications).
+  If an assessor is a person outside the public service, section 104 of the Public Service Act 2020 applies to them, when acting as an assessor under this Part, as if they were a public service employee.
+  (1) The Secretary may recognise a natural person as an assessor for the purposes of this Part if the Secretary is satisfied that the person is a fit and proper person to be an assessor.
+  (2) In considering whether the person is a fit and proper person, the Secretary—
+    (a) must take into account—
+      (i) the competencies and resources of the person to manage and carry out the functions of an assessor; and
+      (ii) any conviction of a kind specified in regulations that is entered against the person; and
+      (iii) the person’s character and reputation; and
+      (iv) the person’s ability to maintain an appropriate degree of impartiality and independence in managing and carrying out the functions of an assessor under this Part; and
+      (v) any applicable requirements set by this Part or regulations; and
+    (b) must be satisfied that the person’s system for undertaking assessments is fit for purpose; and
+    (c) may take into account any other matters that the Secretary considers relevant.
+  (3) The Secretary may recognise a person as an assessor on the application of a person under section 122 or without application under section 124.
+  (1) The Secretary may recognise a person as a recognised agency for the purposes of this Part.
+  (2) The function of a recognised agency is to operate and manage systems under which assessors (engaged by the agency) are able to carry out their functions under this Part.
+  (3) Before recognising a person as a recognised agency, the Secretary must be satisfied that—
+    (a) the person’s system for undertaking assessments under this Part is fit for purpose; and
+    (b) the person is a fit and proper person to be a recognised agency after taking into account—
+      (i) the competencies and resources of the person to manage and carry out the function of a recognised agency; and
+      (ii) any specified conviction entered against the person or any director or manager of the person; and
+      (iii) the person’s character and reputation, including, if appropriate, the character and reputation of the person’s directors or of those responsible for its management or control; and
+      (iv) any applicable requirements set by this Part or regulations; and
+    (c) the person has effective systems to ensure, in accordance with section 119(2), that each of their assessors is a fit and proper person.
+  (4) The Secretary may recognise a person as a recognised agency on the application of a person under section 122 or without application under section 124.
+  (1) The Secretary may recognise a class of individuals as assessors for the purposes of this Part—
+    (a) on the application of a recognised agency; or
+    (b) on the application of a person who is also applying to the Secretary for recognition as a recognised agency; or
+    (c) on the application of a class of individuals.
+  (2) Before recognising a class of individuals as assessors under subsection (1)﻿(a) or (b), the Secretary must be satisfied that—
+    (a) those individuals are engaged by the applicant; and
+    (b) the applicant has the systems and capacity to ensure that each of those individuals is a fit and proper person in accordance with section 119(2); and
+    (c) the applicant complies with the requirements of section 120(3)﻿(a) and (b).
+  (3) Before recognising a class of individuals as assessors under subsection (1)﻿(c), the Secretary must be satisfied that the class is an appropriate class to undertake the assessments, and for that purpose the Secretary must take into account—
+    (a) whether the individuals within the class have the competencies, training, qualifications, and experience suitable for undertaking assessments; and
+    (b) any other criteria specified in regulations.
+  (4) If the Secretary recognises a class of individuals as assessors under subsection (1)﻿(c), the Secretary may, if they consider on reasonable grounds that it is appropriate to do so, exclude 1 or more members of the class, or categories of members of the class, from the recognised class.
+  (5) The application must comply with any requirements set in regulations.
+  (1) An application for recognition must—
+    (a) be made to the Secretary in the form approved by the Secretary; and
+    (b) include any information required by regulations; and
+    (c) be accompanied by payment of any fee specified in regulations.
+  (2) A person must not provide false or misleading information in the application.
+  (1) If the Secretary receives an application for recognition, the Secretary must—
+    (a) decide, in accordance with section 119, 120, or 121 (as the case may be), whether to accept or decline the application; and
+    (b) notify the applicant of that decision, including (if applicable) the date of recognition, any conditions of recognition, and the matters referred to in section 126(2); and
+    (c) make any necessary changes to the register of assessors and recognised agencies.
+  (2) If the Secretary intends to decline an application for recognition, the Secretary must first—
+    (a) notify the applicant of the Secretary’s intention to decline recognition and include reasons; and
+    (b) invite the applicant to provide information, within 20 working days after the date of the notification, to satisfy the Secretary that a decision to decline recognition is inappropriate; and
+    (c) consider any further information provided by the applicant.
+  (1) The Secretary may, without receiving an application under section 122, recognise—
+    (a) the Ministry or any group within the Ministry as a recognised agency; and
+    (b) any officer or employee of any department within the meaning of section 5 of the Public Service Act 2020 as an assessor.
+  (2) The Secretary must—
+    (a) give the Ministry, department, or person written notice of the recognition; and
+    (b) give notice to the affected group of the recognition in any manner that the Secretary is reasonably satisfied will ensure that the matter is sufficiently notified to the group; and
+    (c) include in the notice the date of recognition, any conditions of recognition, and the matters referred to in section 126(2) (if applicable).
+  (3) The Secretary must also make any necessary changes to the register of assessors and recognised agencies.
+  (1) The Secretary may impose on a recognition any conditions that the Secretary thinks fit.
+  (2) The Secretary may modify those conditions if the Secretary—
+    (a) gives the assessor or agency written notice of the modifications and include reasons; and
+    (b) provides the assessor or agency with a reasonable opportunity to respond; and
+    (c) considers their responses (if any) before giving final notice of the decision.
+  (3) However, if an assessor is recognised under section 124, the Secretary—
+    (a) may modify the conditions without completing the steps in subsection (2); but
+    (b) must ensure the assessor is sufficiently notified of any modifications.
+  (1) A recognition continues indefinitely unless the Secretary decides to limit the recognition to a period.
+  (2) If the Secretary decides to limit a recognition to a period, the Secretary must—
+    (a) specify the period in the notice given under section 123 or 124; and
+    (b) include reasons for the decision.
+  (3) If a recognition is for a specified period,—
+    (a) a person may apply to the Secretary for a renewal of the recognition, no later than 1 month before the specified period ends; or
+    (b) the Secretary may renew the recognition without application.
+  (4) In deciding whether to renew a recognition, the Secretary must be satisfied that,—
+    (a) either—
+      (i) the circumstances of the recognised agency, person, or class of individuals have not changed; or
+      (ii) any changes in those circumstances do not adversely affect the current recognition; and
+    (b) the reasons why the Secretary recognised the recognised agency, person, or class of individuals still apply; and
+    (c) the recognised agency or person has, or a sufficient proportion of the members of the recognised class of individuals have, complied with the conditions of their recognition and the requirements of this Part during the period of recognition.
+  (5) Sections 122, 123, and 125 apply with all modifications to an application for renewal.
+  (1) The Secretary may suspend a recognition if the Secretary has reasonable grounds to believe that—
+    (a) the person is no longer meeting the criteria for recognition; or
+    (b) the person’s performance as an assessor or agency is unsatisfactory; or
+    (c) the person has failed to satisfy a requirement of this Part or regulations; or
+    (d) the person has failed to pay an ongoing recognition fee, charge, or levy within the period of 30 days after the date on which it was due and payable.
+  (2) However, the Secretary must not suspend recognition of a class of individuals unless the Secretary has reasonable grounds to believe that the conduct described in subsection (1)﻿(b), (c), or (d) is the conduct of a significant proportion of the class.
+  (3) To avoid doubt, an assessor who belongs to a recognised class of individuals may have their recognition suspended under subsection (1).
+  (4) The maximum period of suspension is 3 months.
+  (5) The Secretary may do either or both of the following:
+    (a) impose conditions that must be satisfied before the suspension is lifted:
+    (b) require a suspended person to take appropriate corrective action to remedy the deficiency or failure that resulted in the suspension.
+  (1) The Secretary may extend the period of suspension under section 127 if the Secretary has reasonable grounds to believe that—
+    (a) any conditions imposed under that section have not been satisfied within the suspension period; or
+    (b) any corrective actions required under that section have not been fulfilled within the suspension period.
+  (2) The Secretary may, in addition to any conditions or requirements imposed under section 127, do either or both of the following:
+    (a) impose conditions that must be satisfied before the extended period of suspension is lifted:
+    (b) require a suspended person to take appropriate corrective action to remedy the deficiency or failure that resulted in the suspension.
+  (1) If the Secretary intends to suspend a recognition, the Secretary must first—
+    (a) give the affected person 15 working days’ notice of the Secretary’s intention to suspend recognition and include reasons; and
+    (b) in the notice, invite the affected person to provide information to satisfy the Secretary that a decision to suspend is inappropriate.
+  (2) If the Secretary decides to suspend recognition, the Secretary must notify the affected person in writing of—
+    (a) the decision and the date from which the suspension takes effect; and
+    (b) the right of review available under section 148.
+  (3) The suspension continues until the start of—
+    (a) the date on which the affected person has exhausted their right of review under section 148 in respect of the decision to suspend (after which recognition is withdrawn under section 130); or
+    (b) any earlier date on which the Secretary notifies the affected person that the suspension is lifted.
+  (4) The Secretary may lift the suspension if the Secretary is satisfied that the reasons for the suspension no longer apply.
+  (5) While recognition is suspended,—
+    (a) if the affected person is an assessor (recognised under section 119 or by virtue of belonging to a recognised class of individuals under section 121), they must be treated as not being an assessor under this Part; or
+    (b) if the affected person is a recognised class of individuals, they must be treated as not being a recognised class of individuals under this Part; or
+    (c) if the affected person is an agency, they must be treated as not being a recognised agency under this Part.
+  (6) In this section,—
+    - **affected person** means the recognised agency, assessor, or recognised class of individuals whose recognition is or is proposed to be suspended
+    - **suspension** includes an extension of a suspension.
+  (1) The Secretary may withdraw a recognition if the Secretary has reasonable grounds to believe that—
+    (a) it would be appropriate to suspend recognition, or extend a suspension, but repeated suspensions in the past have been ineffective; or
+    (b) recognition has been suspended and the person has exhausted their right of review under section 148(1)﻿(d); or
+    (c) the person or agency is no longer a fit and proper person to be an assessor or a recognised agency; or
+    (d) the person or agency is no longer carrying out their role as an assessor or recognised agency.
+  (2) If recognition is suspended, the Secretary may withdraw recognition if the Secretary is satisfied that—
+    (a) the person has failed within a reasonable time to take appropriate corrective action to remedy the deficiency or failure that resulted in the suspension; and
+    (b) the person has not sought a review of the decision to suspend.
+  (1) Before the Secretary withdraws a recognition, the Secretary must—
+    (a) notify the person or agency of the Secretary’s intention to withdraw recognition and include reasons; and
+    (b) invite the person or agency to provide information, within 20 working days after the date of the notification, to satisfy the Secretary that a decision to withdraw recognition is inappropriate; and
+    (c) consider any further information provided by the person or agency.
+  (2) If the Secretary withdraws recognition, they must notify the person or agency that recognition has been withdrawn.
+  (3) If withdrawal of recognition relates to 1 or more individuals belonging to a class recognised under section 121, the recognised agency must provide the Secretary with an updated list of the class of individual assessors in accordance with regulations.
+  (1) An assessor or a recognised agency may by written notice,—
+    (a) surrender their recognition to the Secretary; and
+    (b) specify a future date on which the surrender is to take effect (the proposed date).
+  (2) Before the proposed date, the assessor or agency must notify any registered person with whom they are dealing immediately before the surrender that their recognition is surrendered.
+  (3) A surrender takes effect on the later of—
+    (a) the proposed date; and
+    (b) the date on which the Secretary records the surrender in the register of assessors and recognised agencies.
+  (1) The Secretary must ensure that a public register of persons registered for legal harvest is kept and maintained.
+  (2) The purpose of the register is—
+    (a) to enable members of the public to know whether a person is a registered person; and
+    (b) to enable members of the public to know how to contact a registered person; and
+    (c) to assist with the enforcement of the provisions of this Part.
+  (3) The register must include, in relation to each registered person,—
+    (a) the person’s name or trading name and contact details; and
+    (b) the date on which the person was registered; and
+    (c) if the person holds an exporter statement,—
+      (i) any information specified in regulations relating to the exporter statement; and
+      (ii) the history of any previous exporter statements; and
+    (d) details (including dates) of any suspension or withdrawal of registration; and
+    (e) the name or designation of the person who is responsible for the day-to-day management of the business; and
+    (f) any other information required by regulations.
+  (1) The Secretary must ensure that a public register of persons recognised as assessors and recognised agencies is kept and maintained.
+  (2) The purpose of the register is—
+    (a) to enable members of the public to know whether a person is an assessor or whether an agency is a recognised agency; and
+    (b) to enable members of the public to know how to contact the assessor or recognised agency; and
+    (c) to assist with the enforcement of the provisions of this Part.
+  (3) The register must include, in relation to each assessor,—
+    (a) the person’s name or trading name and contact details and, if they are engaged by a recognised agency, the agency’s trading name and contact details; and
+    (b) the date on which the person became recognised as an assessor; and
+    (c) details of any suspension, withdrawal, or surrender of recognition; and
+    (d) any other information required by regulations.
+  (4) The register must include the information described in subsection (3) in relation to each recognised agency (with all necessary modifications).
+  The Secretary must—
+    (a) determine the form in which each register is to be kept; and
+    (b) make each register available for public inspection at all reasonable times, free of charge, by publishing it on an Internet site maintained by, or on behalf of, the Secretary; and
+    (c) supply a copy of information contained in the register to anyone who requests it, at no more than a reasonable cost.
+  (1) A person (the first person) whose physical address is entered on a register may apply to the Secretary to withhold that information or any other information (withheld information) specified in regulations on the grounds that—
+    (a) its disclosure would be prejudicial to their personal safety or their family's; or
+    (b) they want to preserve their privacy.
+  (2) The Secretary must ensure that the withheld information is not available for inspection or disclosure, if satisfied that—
+    (a) the grounds relating to personal safety apply; or
+    (b) the grounds relating to privacy apply.
+  (3) Despite subsection (2), the Secretary may provide the withheld information to another person (the other person) if—
+    (a) the Secretary is satisfied that the other person needs the address to exercise a legal right, or satisfy a legal obligation, in relation to the first person (for example, to serve notice on them); and
+    (b) before providing the information, the Secretary gives notice to the first person specifying—
+      (i) the name of the other person to whom it will be provided; and
+      (ii) the date on which it will be provided.
+  (1) A person whose details are entered on a register must notify the Secretary of any change in those details.
+  (2) The person must notify the Secretary in writing within 20 working days after the date on which the change occurs.
+  (1) This subpart provides for—
+    (a) the Secretary’s powers to give directions relating to functions, duties, and powers of specified persons, to notify the harvest laws of a place or country, and to obtain information; and
+    (b) an officer’s powers to enter and inspect a place with or without a search warrant; and
+    (c) warning notices to be issued by an officer to a person registered for legal harvest who the officer reasonably believes is failing to comply with a requirement under this Part; and
+    (d) compliance notices to be issued to that person if they do not comply with that requirement after being issued a warning notice; and
+    (e) offences relating to the supply of false or misleading information; and
+    (f) strict liability offences for failure to comply with specified sections of this Part.
+  (2) This section is intended as a guide only.
+  (1) The Secretary may give a direction to the following persons in relation to their functions, duties, or powers under this Part:
+    (a) a recognised agency:
+    (b) an assessor:
+    (c) an officer.
+  (2) A direction may apply to a person or class of persons.
+  (1) This section applies to a notice made under section 77(3)﻿(b)﻿(v) or (4).
+  (2) After making the notice, the Secretary must—
+    (a) publish the notice, or notify its making, in the Gazette; and
+    (b) publish the notice on an Internet site maintained by or on behalf of the Ministry; and
+    (c) make a copy of the notice available, free of charge, on an Internet site or for public inspection at reasonable hours at the head office of the Ministry; and
+    (d) take reasonable steps to bring the notice to the attention of persons likely to be substantially affected by it; and
+    (e) on request, supply a copy of the notice, free of charge, to any person who cannot access it on the Internet site.
+  (1) The Secretary may, by notice to any person or class of persons who has obligations under this Part, require that person—
+    (a) to provide the Secretary with the information or class of information specified in the notice; and
+    (b) to provide the information within a specified time frame or at regular intervals specified in the notice.
+  (2) Before issuing a notice, the Secretary must be satisfied that the information is required for any 1 of the following purposes:
+    (a) to verify whether the person is a fit and proper person—
+      (i) to be registered for legal harvest; or
+      (ii) to be an assessor or a recognised agency; or
+    (b) to verify whether the person is complying with their obligations under this Part; or
+    (c) to verify information provided to the Secretary by the person; or
+    (d) to gather statistical information for the purpose of this Part, which may include,—
+      (i) understanding the forestry supply chain; or
+      (ii) monitoring and evaluating the effectiveness of the legal harvest system; or
+      (iii) providing more certainty and transparency for suppliers in the forestry supply chain.
+  (3) The person must provide the information—
+    (a) in a form specified by the Secretary; and
+    (b) within a reasonable time.
+  (4) The Secretary may use the information only for purposes related to those specified in subsection (2).
+  (5) See section 9 of the Official Information Act 1982 for reasons for the Secretary to withhold any official information it holds (including where making the information available would disclose a trade secret or be likely to unreasonably prejudice a person’s commercial position).
+  (1) An officer may exercise their powers under this section for the purpose of determining whether a person is complying with a provision of this Part or any secondary legislation or notices made under this Part.
+  (2) An officer may enter and inspect a place (except for a dwelling house or marae) described in subsection (3) at any reasonable time without a search warrant.
+  (3) The places are the following:
+    (a) a place where a responsible person, a person registered for legal harvest, a recognised agency, or an assessor operates:
+    (b) any land, premises, vehicle, conveyance, ship, aircraft, railway, railcar, or bulk cargo container, or other area or thing where the officer reasonably believes any of the following will be found:
+      (i) regulated timber:
+      (ii) specified timber products:
+      (iii) documents, records, or other information that relate to carrying out a regulated activity.
+  (4) An officer may be accompanied by any person reasonably necessary to help the officer carry out their functions.
+  (5) See section 71B, which sets restrictions on the exercise of a power of entry under this Act.
+  (1) An officer may exercise their powers under this section for the purpose of determining whether a person is complying with a provision of this Part or any secondary legislation or notices made under this Part.
+  (2) An officer may, in accordance with the conditions of a search warrant issued in accordance with section 71B,—
+    (a) enter a place (including a dwelling house or a marae) described in section 142 and specified in the warrant; and
+    (b) search and examine the place; and
+    (c) take any samples and seize any documents, records, or information; and
+    (d) seize any thing in order to access those documents, records, or information.
+  (3) An officer may be accompanied by any person reasonably necessary to help the officer carry out their functions.
+  (4) Part 4 of the Search and Surveillance Act 2012 (other than subparts 2, 3, and 8 and sections 118 and 119) applies to anything done under this section.
+  (5) Any exercise of the power of entry or inspection at a marae or a building associated with a marae must take account of the kawa of the marae so far as practicable in the circumstances.
+  (1) An action initiated or taken under this Part by an officer may be continued by another officer.
+  (2) If an officer has issued a warning or compliance notice or an infringement offence notice under this Part, another officer may—
+    (a) take further steps on or in relation to the notice; or
+    (b) vary, revoke, or withdraw the notice.
+  (1) If an officer reasonably believes that a person registered for legal harvest is failing, or has failed, to comply with a requirement imposed by or under this Part (a requirement),—
+    (a) the officer may issue a warning notice to the person; and
+    (b) if the person fails to comply with the requirement despite the warning, the officer may issue a compliance notice to the person.
+  (2) A warning notice must—
+    (a) state the requirement; and
+    (b) include guidance to help the person to comply with the requirement and include any other information that the Secretary considers appropriate; and
+    (c) state that failure to comply with the requirement may result in the issuing of a compliance notice; and
+    (d) state the person’s right, under section 148, to seek a review of the decision to issue the warning notice.
+  (3) A compliance notice must state—
+    (a) the requirement; and
+    (b) why the officer reasonably believes the person is failing, or has failed to comply with the requirement; and
+    (c) the nature and extent of the failure to comply with the requirement; and
+    (d) the date by which the person must comply with the requirement (the compliance date); and
+    (e) that failing to comply with the compliance notice may result in 1 or more of the following:
+      (i) an infringement notice being issued:
+      (ii) conditions being imposed on the person’s registration:
+      (iii) suspension of registration:
+      (iv) prosecution; and
+    (f) the person’s right, under section 148, to seek a review of the decision to issue the compliance notice.
+  (4) An officer may withdraw a compliance notice by written notice, but may issue a new compliance notice if subsection (1) applies.
+  (5) The person must comply with the compliance notice, subject to subsection (6).
+  (6) The compliance date may be extended by the officer at the person’s request.
+  (1) A person commits an offence if the person, for the purpose of any application, statement, declaration, report, evidence, or other information required or supplied under this Part,—
+    (a) supplies to a person any false or misleading information, knowing it to be false or misleading; or
+    (b) supplies to a person any false or misleading information.
+  (2) A person commits an offence if the person aids or conspires with another person to commit an offence against subsection (1)﻿(a) or (b).
+  (3) It is a defence to a charge under subsection (1)﻿(b) that the defendant—
+    (a) did not know they were providing false or misleading information; and
+    (b) took reasonable precautions and exercised due diligence to ensure that the information provided was not false or misleading.
+  (4) However, the defence in subsection (3) is available only if—
+    (a) the defendant notifies the prosecutor in writing, at least 15 working days before the hearing date, that they intend to rely on the defence; or
+    (b) the court gives leave for the defendant to rely on the defence.
+  (5) A person who commits an offence against subsection (1)﻿(a) or (2) is liable on conviction,—
+    (a) if the person is an individual, to a fine not exceeding $200,000; and
+    (b) in any other case, to a fine not exceeding $600,000.
+  (6) A person who commits an offence against subsection (1)﻿(b) is liable on conviction,—
+    (a) if the person is an individual, to a fine not exceeding $100,000; and
+    (b) in any other case, to a fine not exceeding $200,000.
+  (1) A person commits an offence if—
+    (a) they fail to comply with the legal harvest information requirements when required to do so by section 79:
+    (b) they fail to comply with section 84(1) (persons must be registered for legal harvest):
+    (c) they fail to comply with section 84(2) (person must not falsely hold out that a person is registered or is not required to be registered):
+    (d) they fail to comply with any of their obligations in section 87(1)﻿(f) to (k) (obligations of registered persons):
+    (e) they receive regulated timber or specified timber products in contravention of section 88(1):
+    (f) they fail to have a due diligence system for legal harvest as required by section 99(1)﻿(a):
+    (g) they fail to act in accordance with their due diligence system whenever they undertake a regulated activity as required by section 99(1)﻿(b):
+    (h) they fail to keep their due diligence system up to date as required by section 103:
+    (i) they fail to have their due diligence system assessed as required by section 105:
+    (j) they fail to comply with section 108(2) (person must not falsely hold out that they have an exporter statement or a valid exporter statement):
+    (k) they fail to comply with section 108(3) (person must not use exporter statement in a false or misleading way):
+    (l) they are required by a notice issued under section 141 to provide information to the Secretary and they fail to comply with the requirement.
+  (2) It is a defence to a charge under subsection (1) if the defendant proves that—
+    (a) the commission of the offence was due to—
+      (i) the act or omission of another person; or
+      (ii) an accident; or
+      (iii) some other cause or circumstances outside the defendant’s control; and
+    (b) the defendant took reasonable precautions and exercised due diligence to avoid the commission of the offence or offences of the same kind.
+  (3) However, the defence in subsection (2) is available only if—
+    (a) the defendant notifies the prosecutor in writing, at least 15 working days before the hearing date, that they intend to rely on the defence; or
+    (b) the court gives leave for the defendant to rely on the defence.
+  (4) A person who commits an offence against subsection (1) is liable on conviction,—
+    (a) if the person is an individual, to a fine not exceeding $40,000; and
+    (b) in any other case, to a fine not exceeding $200,000.
+  (1) A person to whom any of the following decisions apply may seek a review of the decision:
+    (a) a decision to decline an application for registration for legal harvest:
+    (b) a decision to decline an application for recognition:
+    (c) a decision to impose conditions of recognition:
+    (d) a decision to renew, suspend, or withdraw recognition:
+    (e) a decision to impose or modify a condition of registration:
+    (f) a decision to suspend the registration of a person registered for legal harvest:
+    (g) a decision to issue a warning notice or compliance notice to a person registered for legal harvest.
+  (2) The person must—
+    (a) apply to the Secretary for the review in writing, within 30 days after the date on which they were notified of the decision; and
+    (b) state, in the application, the reasons why the person disagrees with the decision.
+  (3) The decision sought to be reviewed remains valid unless and until altered by the Secretary.
+  (1) The reviewer of a decision referred to in section 148(1) must be,—
+    (a) for a decision made by the Secretary, a person appointed by the Minister under subsection (2); and
+    (b) for a decision made by a person who is acting under the delegated authority of the Secretary,—
+      (i) a person who was not involved in making the decision and who is designated by the Secretary; or
+      (ii) the Secretary.
+  (2) The Minister may appoint a person for the purpose of subsection (1)﻿(a) on any terms and conditions that the Minister considers appropriate (including conditions as to the payment of fees).
+  (1) If the Secretary receives an application for review, the Secretary must ensure that the application is forwarded to the appropriate reviewer (see section 149).
+  (2) The reviewer must review the decision—
+    (a) within 60 days after receiving the application; or
+    (b) within an extended period not exceeding a further 30 days that the reviewer notifies to the applicant in writing before the end of the 60 days.
+  (3) For the purposes of a review,—
+    (a) the reviewer may require the applicant to supply, within the time specified by the reviewer, information additional to that contained in the application for review; and
+    (b) the time taken to supply the additional information (or the time allowed for its supply, if the information is not in fact supplied) is not to be counted for the purposes of the time limits specified in subsection (2).
+  (4) The reviewer must, as soon as practicable after completing the review, notify the applicant in writing of—
+    (a) the decision on the review; and
+    (b) the reasons for the decision; and
+    (c) the right of appeal under section 151.
+  (5) A decision by the reviewer under this section is final, unless determined otherwise by a court of law of competent jurisdiction.
+  (1) A person to whom a decision of a reviewer under section 150 applies may appeal to the High Court against the decision.
+  (2) At any time before the final determination of an appeal, the High Court may make an interim order that an appellant is, until the end of the day on which the High Court finally determines the appeal,—
+    (a) to be treated as if they were a registered person; or
+    (b) to be treated as if they were an assessor, a recognised class of individuals, or a recognised agency.
+  (3) An interim order may be subject to any conditions that the High Court thinks fit.
+  (4) A party may appeal to the Court of Appeal against a decision of the High Court under this section on a question of law only.
+  (5) An appeal under this section must be brought—
+    (a) in accordance with the rules of court; and
+    (b) within 20 working days after the day on which notice of the relevant decision is given to the appellant.
+  (6) However, the relevant court may accept a late appeal no later than 60 working days after the day on which notice was given to the appellant if the court is satisfied that exceptional circumstances prevented the appeal from being made in time.
+  (7) Nothing in this section affects the right of any person to apply for judicial review.
+  (1) The Minister must not recommend that regulations be made under this Part unless the Minister is satisfied—
+    (a) that the regulations are necessary or desirable for 1 or more of the purposes of this Part; and
+    (b) for regulations relating to cost recovery, that the requirements of the following sections have been met (to the extent appropriate in the circumstances):
+      (i) section 207 (principles of cost recovery):
+      (ii) section 208 (requirement for consultation):
+      (iii) section 210 (cost recovery to relate generally to financial year); and
+    (c) for other regulations, that there has been appropriate consultation with affected persons or representatives of persons substantially affected, including representatives of tangata whenua and forestry industry bodies.
+  (2) Consultation need not be undertaken on matters involving minor corrections or updating, or otherwise of a minor or technical nature.
+  (3) A failure to consult does not affect the validity of any regulations made for the purposes of this Part.
+  (1) The Governor-General may, by Order in Council made on the recommendation of the Minister, make regulations that—
+    (a) specify any matter that this Part indicates is to be specified by regulations:
+    (b) provide for anything this Part requires or permits to be provided for by regulations:
+    (c) provide for anything incidental that is necessary for carrying out, or giving full effect to, this Part.
+  (2) Regulations made under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+  (1) Regulations—
+    (a) may grant exemptions that are permitted or required under this Part to be granted by regulations; and
+    (b) may impose terms or conditions on any such exemption.
+  (2) The breach of a term or condition of an exemption is a breach of the provision to which the exemption relates (unless the terms or conditions of the exemption otherwise provide).
+  (1) Regulations may do any of the following:
+    (a) set the amounts of fees and charges for the purposes of this Part:
+    (b) set the method by which the amount of any fee or charge is to be calculated:
+    (c) provide for exemptions from, or waivers or refunds of, a fee or charge, in whole or in part, in any class of case:
+    (d) authorise the Secretary to grant an exemption, waiver, or refund in any particular case or class of case.
+  (2) Regulations may set fees and charges that—
+    (a) differ, depending on whether a special or an urgent service is provided:
+    (b) include more than 1 level of fee or charge for the same service provided in different ways or provided in, or in respect of, different places:
+    (c) differ for otherwise similar services provided in different ways:
+    (d) differ, depending on the amount of service required, or the components of the service required, for the particular person.
+  (3) If regulations prescribe a formula for determining a fee or charge, the formula may specify the value of 1 or more of its components as being an amount or amounts notified for those components by the Secretary.
+  (4) The amount or amounts referred to in subsection (3) must be notified by the Secretary on an Internet site maintained by or on behalf of the Ministry.
+  (1) Regulations may do any of the following:
+    (a) impose a levy payable to the Secretary for the purpose of wholly or partially funding the services provided, and functions performed, by the Secretary:
+    (b) provide for exemptions from, or waivers or refunds of, a levy, in whole or in part, in any class of case:
+    (c) authorise the Secretary to grant an exemption, waiver, or refund in any particular case or class of case.
+  (2) Regulations made for a purpose described in subsection (1) must specify—
+    (a) the persons primarily responsible for paying the levy; and
+    (b) the basis on which the amount of levy is to be calculated or ascertained; and
+    (c) the persons (if any) to be exempt from paying the levy; and
+    (d) the persons responsible for collecting the levy from those primarily responsible for paying it; and
+    (e) the maximum rate of levy; and
+    (f) how the actual rate of the levy is to be set; and
+    (g) how the rates of the levy and variation of rates are to be notified; and
+    (h) whether the persons collecting the levy are entitled to recover the costs of levy collection and the estimated amount of those costs.
+  (3) Regulations made for a purpose described in subsection (1) may provide for any of the following:
+    (a) the making of returns to the Secretary for the purpose of enabling or assisting the determination of amounts of levy payable:
+    (b) the circumstances in which, and conditions subject to which, persons may be allowed extensions of time for the payment of any levy:
+    (c) the payment of additional or increased levy when amounts of levy otherwise payable have been paid late, paid in part, or not paid at all:
+    (d) the holding of funds from which payments of levy are to be made on trust in separate accounts.
+  (4) Regulations made under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+  (5) If regulations made under subsection (1)﻿(c) authorise the Secretary to grant an exemption, waiver, or refund,—
+    (a) an instrument granting an exemption, waiver, or refund is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements), unless it applies only in a particular case; and
+    (b) the regulations must contain a statement to that effect.
+  (1) Regulations may—
+    (a) specify the offences in this Part or in regulations that are infringement offences, and prescribe infringement fees not exceeding $1,000 for those offences:
+    (b) prescribe offences for the breach of regulations and maximum fines for those offences not exceeding $5,000 for an individual and $20,000 for a body corporate.
+  (2) Regulations made under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+  (1) The Secretary may make rules that set practice standards for legal harvest.
+  (2) The rules may only supplement a requirement that—
+    (a) is imposed under this Part or by regulations; and
+    (b) relates to due diligence systems or the assessment of due diligence systems.
+  (3) The Secretary must not make rules under this section unless satisfied that consultation has been carried out with affected persons or representatives of persons substantially affected, including representatives of tangata whenua and forestry industry bodies.
+  (4) Consultation is not required for matters involving minor corrections or updating, or otherwise of a minor or technical nature.
+  (5) A failure to consult does not affect the validity of the rules.
+  (6) Rules made under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+  (1) In any proceedings for an offence under this Part, a certificate or document (including an electronic copy) of any of the following kinds is admissible in evidence and, in the absence of proof to the contrary, is sufficient evidence of the matter stated in the certificate or of the contents of the document, as the case may require:
+    (a) a certificate purporting to be signed by the Secretary to the effect that, at any specified date or period,—
+      (i) a person is or was an officer or a recognised assessor; or
+      (ii) an agency is or was a recognised agency; or
+      (iii) a person was or was not registered for legal harvest; or
+      (iv) a certification scheme was or was not recognised; or
+      (v) an assessment report was or was not submitted; or
+      (vi) an exporter statement had or had not been given or had been withdrawn; or
+      (vii) a specified document was or was not an export requirement, a template document, a practice standard, a notice, a direction, or an extract from a register kept under this Part:
+    (b) a certificate purporting to be signed by any person authorised by this Part or the Public Service Act 2020 to delegate to any person, or to persons of any kind or description, the exercise or performance of any power or function under this Part, stating that—
+      (i) the person has delegated the exercise or performance of the power or function specified in the certificate to the person specified in the certificate; or
+      (ii) the person has delegated the exercise of the power or function specified in the certificate to persons of a kind or description specified in the certificate, and that a named person specified in the certificate is a person of that kind or description:
+    (c) a certificate purporting to be signed by an analyst or a recognised assessor stating the results of any test taken under or for the purposes of this Part:
+    (d) a document purporting to be a copy of any material incorporated by reference:
+    (e) a document purporting to be a template document, standard, statement, requirement, notice, or direction made or an approval given under this Part.
+  (2) The production of a certificate or document purporting to be a certificate or document to which subsection (1) applies is prima facie evidence that it is such a certificate or document, without proof of the signature of the person purporting to have signed it or of its nature.
+  (3) No certificate of an analyst or recognised assessor and no other evidence of a test under this Part is to be ruled inadmissible or disregarded by reason only of the fact that any of the provisions of this Part or of any regulations, notices, or orders made under this Part relating to the taking, analysing, testing, or examining of samples have not been strictly complied with, if there has been reasonable compliance with those provisions.
+  (4) A certificate or document to which subsection (1) applies is not admissible in evidence unless,—
+    (a) at least 20 days before the hearing at which the certificate or document is to be tendered, a copy is served, by or on behalf of the prosecutor, on the defendant or the defendant's agent or counsel, and that person is at the same time informed in writing that the prosecutor does not propose to call the person who signed the certificate or document as a witness at the hearing or to call evidence as to the nature of the certificate or document; and
+    (b) the court has not, on the application of the defendant made not less than 10 days before the hearing, ordered, not less than 5 days before the hearing (or any lesser period that the court in the special circumstances of the case thinks fit), that the certificate or document should not be admissible as evidence in the proceedings.
+  (5) The court may not make an order under subsection (4)﻿(b) unless it is satisfied that there is a reasonable doubt as to the accuracy or validity or identity of a certificate or document.
+  If, in the course of proceedings against a body corporate for an offence under this Part, it is necessary to establish the state of mind of the body corporate, it is sufficient to show that a director, employee, or agent of the body corporate, acting within the scope of that person's actual or apparent authority, had that state of mind.
+  Where a body corporate is convicted of an offence under this Part, every director and every person concerned in the management of the body corporate is also guilty of a like offence if it is proved that—
+    (a) the act or omission that constituted the offence took place with the authority, permission, or consent of the director or person; or
+    (b) the director or person knew that the offence was to be or was being committed, and failed to take all reasonable steps to prevent or stop it.
+  (1) The Secretary may arrange for the use of an automated electronic system to do the actions described in subsection (2) that this Part or another enactment allows or requires the persons described in subsection (3) to do for the purposes of this Part.
+  (2) The actions are the following:
+    (a) exercising a power other than a power to make secondary legislation:
+    (b) carrying out a function:
+    (c) carrying out a duty:
+    (d) making a decision, including making a decision by—
+      (i) analysing information that a person described in subsection (3) holds or has access to about a person, regulated timber, or specified timber products; and
+      (ii) applying criteria predetermined by the Secretary to the analysis:
+    (e) doing an action for the purpose of exercising a power, carrying out a function or duty, or making a decision:
+    (f) communicating the exercising of a power, carrying out of a function or duty, or making of a decision.
+  (3) The persons are the following:
+    (a) the Secretary:
+    (b) officers.
+  (4) The Secretary may make an arrangement only if satisfied that—
+    (a) the system has the capacity to do the action with reasonable reliability; and
+    (b) a process is available under which a person affected by an action done by the system can have the action reviewed by a person described in subsection (3) without undue delay.
+  (5) A system used in accordance with an arrangement may include components outside New Zealand.
+  (6) The Secretary must consult the Privacy Commissioner about including in an arrangement actions that involve the collection or use of personal information.
+  (1) This section applies to an action done by an automated electronic system.
+  (2) An action allowed or required by this Part and done by the system—
+    (a) is treated as an action done properly by the appropriate person referred to in section 162(3); and
+    (b) is not invalid by virtue only of the fact that it is done by the system.
+  (3) If an action allowed or required by another enactment and done by the system is done in accordance with any applicable provisions in the enactment on the use of an automated electronic system, the action—
+    (a) is treated as an action done properly by the appropriate person referred to in section 162(3); and
+    (b) is not invalid by virtue only of the fact that it is done by the system.
+  (4) If the system operates in such a way as to render the action done or partly done by the system clearly wrong, the action may be done by the appropriate person referred to in section 162(3).
+  (1) The Minister must review this Part and the operation and effectiveness of the legal harvest system no later than 5 years after the commencement of section 74.
+  (2) The Minister must present a report of the review to the House of Representatives as soon as practicable after it has been completed.
+  (1) The purpose of this Part is to—
+    (a) support the continuous, predictable, and long-term supply of timber, and equity of access to timber, for domestic processing and export; and
+    (b) support a more transparent and open market for log sales; and
+    (c) improve the confidence and informed participation of businesses and investors in the forestry and wood-processing sector; and
+    (d) contribute to the development, and improve the long-term sustainability, of the forestry and wood-processing sector; and
+    (e) contribute to improved climate change outcomes from the forestry and wood-processing sector.
+  (2) To that end, this Part—
+    (a) establishes a regulatory system for log traders; and
+    (b) imposes obligations on persons registered as log traders to ensure that logs grown in New Zealand are bought and sold in a way that is transparent and professional.
+  (1) A log trader is any of the following:
+    (a) a person who, in trade,—
+      (i) buys New Zealand logs, whether after harvest or in the form of trees to be harvested at an agreed time, and whether or not the person intends to on-sell the logs; or
+      (ii) exports New Zealand logs; or
+      (iii) processes New Zealand logs that the person has grown themselves:
+    (b) a person who does any of the things specified in paragraph (a) as the agent for another person:
+    (c) a company that, in trade, receives ownership of New Zealand logs from a related company, whether the transfer relates to logs after harvest or in the form of trees to be harvested at an agreed time.
+  (2) In this section, related company has the meaning given in section 2(1) of the Companies Act 1993.
+  (1) A log trader must be a registered log trader under this Part before carrying out any activity described in any of section 166(1)﻿(a) to (c).
+  (2) However, a log trader is not required to be registered if they are a person to whom section 169(1)﻿(a) or (b) applies.
+  (3) A person must not falsely hold out that they are, or any other person is,—
+    (a) a registered log trader; or
+    (b) not required to be a registered log trader.
+  (4) To avoid doubt, a new trader under section 169(2)﻿(b)﻿ must register as soon as that section ceases to apply (when, at any time in the current financial year, their activity in that financial year is either reasonably expected to, or does in fact, involve at least the threshold volume of logs).
+  (5) See section 84, which provides for when a log trader must also be registered for legal harvest.
+  (1) The criteria that an applicant must meet (to the satisfaction of the Secretary) in order to be registered as a log trader are as follows:
+    (a) the person must be required by this Part to be a registered log trader; and
+    (b) the person must be a fit and proper person to be a registered log trader; and
+    (c) any other criteria set by regulations.
+  (2) In determining whether a person is a fit and proper person, the Secretary must take into account—
+    (a) the matters set out in regulations; and
+    (b) any other matters that the Secretary considers relevant.
+  (1) A person does not have to be a registered log trader if—
+    (a) they are within a class of persons who are exempted by notice under section 193(1)﻿(a) from the requirement to be a registered log trader; or
+    (b) all their regulated activities fall within 1 or more of the activity exceptions.
+  (2) The activity exceptions are the following:Low-volume activityExempt activities
+    (a) if they carried out an activity in the previous full financial year,—
+      (i) their activity in that year involved less than the threshold volume of logs; and
+      (ii) their activity in the current financial year does not in fact involve more than that threshold volume:
+    (b) if they did not carry out the activity in the previous full financial year, their activity in the current financial year is reasonably expected by them not to, and does not in fact, involve more than the threshold volume of logs:
+    (c) the activity is the shipping or transporting of logs, or associated logistical activities:
+    (d) the activity is within a class of transactions or transfers exempted under section 193(1)﻿(b).
+  (3) To avoid doubt, a new trader who relies on the exception in subsection (2)﻿(b) must register as soon as that subsection ceases to apply.
+  (4) In this section, threshold volume means—
+    (a) 2,000 cubic metres per year, unless paragraph (b) applies; or
+    (b) any volume specified by regulations.
+  (1) A registered log trader must—
+    (a) adhere to the practice standards for log traders; and
+    (b) adhere to any agreement—
+      (i) that is entered into by the registered log trader or an organisation to which they belong; and
+      (ii) that is identified by regulations as an applicable forestry industry agreement; and
+    (c) keep records as required by regulations; and
+    (d) notify the Secretary within 20 working days after the date of any significant change in circumstances; and
+    (e) report to the Secretary as required by regulations; and
+    (f) comply with any other obligations imposed by this Part or regulations.
+  (2) A registered log trader must continue to be a fit and proper person to be a registered log trader.
+  (3) In this section, significant change of circumstances includes—
+    (a) any matter that may result in a registered log trader no longer complying with subsection (2); and
+    (b) the death of the person in control of the registered log trader, bankruptcy, receivership, voluntary administration, or liquidation.
+  (4) If subsection (3)﻿(b) applies, the person who assumes control of the registered log trader’s business must give the notice that is required by subsection (1)﻿(d).
+  (1) A registered log trader must provide a declaration to the Secretary that they are continuing to comply with their obligations under section 170.
+  (2) The declaration must—
+    (a) be made—
+      (i) annually by the date specified in regulations; and
+      (ii) at any other times as required by or under this Part; and
+    (b) include any other information required by regulations; and
+    (c) be made in the form approved by the Secretary; and
+    (d) be accompanied by payment of any fee specified in regulations.
+  (3) The Secretary may grant a person an extension of up to 20 working days to make their declaration if the Secretary is satisfied that the person is, for reasons outside their control, unable to provide the declaration by the due date.
+  (4) The Secretary may require the person to provide any evidence that the Secretary requires to verify information given in a declaration.
+  (1) An application to be a registered log trader must—
+    (a) be made to the Secretary in the form approved by the Secretary; and
+    (b) include the information specified by regulations; and
+    (c) be accompanied by payment of any fee specified in regulations.
+  (2) A person must not provide false or misleading information in or with the application.
+  (1) This section applies if the Secretary receives an application for registration made in accordance with section 172.
+  (2) If the Secretary is satisfied that the applicant meets the registration criteria in section 168, the Secretary must—
+    (a) register the applicant; and
+    (b) notify the applicant of the date from which the registration has effect.
+  (3) The Secretary—
+    (a) may ask the applicant to provide any other information that the Secretary needs to decide whether the applicant meets the registration criteria; and
+    (b) if the applicant does not provide the requested information within 6 months after being asked for it, may decline the application for that reason.
+  (4) If the Secretary declines the application, the Secretary must notify the applicant of—
+    (a) the decision; and
+    (b) the reasons for the decision; and
+    (c) the right of review under section 201.
+  (1) The Secretary may, subject to subsection (2) and regulations,—
+    (a) impose conditions on a person’s registration as a log trader; and
+    (b) at any time, modify the conditions of registration.
+  (2) The Secretary may—
+    (a) impose conditions if satisfied that the person has engaged in unsatisfactory conduct (see section 179(1)); and
+    (b) impose conditions needed to enable the Secretary to monitor the person’s compliance with their obligations under this Part; and
+    (c) impose only the conditions that the Secretary considers necessary or desirable for the purposes of this Part, and that are reasonable.
+  (3) If the Secretary decides to impose or modify a condition, the Secretary must give the person notice of—
+    (a) the decision; and
+    (b) the reasons for the decision; and
+    (c) the right of review under section 201.
+  (4) A new or modified condition has effect on and from the date specified by the Secretary in the notice or, if no effective date is specified, the date of the notice.
+  (5) Regulations may impose restrictions on the conditions that may be imposed under this section or on how they may be imposed or modified.
+  The Secretary may suspend a log trader’s registration if the Secretary is satisfied that—
+    (a) the person has engaged in misconduct in their capacity as a registered log trader; or
+    (b) the person is no longer carrying out the activities of a registered log trader; or
+    (c) the person has failed to meet their obligations to pay fees, charges, or levies imposed by regulations made under this Part, and the failure is more than minor or inconsequential.
+  (1) Before suspending a log trader’s registration, the Secretary must—
+    (a) give the person notice of the Secretary's intention to suspend registration, including reasons for the decision; and
+    (b) invite the person to provide information to satisfy the Secretary that the decision is inappropriate; and
+    (c) give the person reasonable opportunity to respond.
+  (2) After completing the steps in subsection (1), the Secretary must notify the person of the Secretary’s decision. The notice must—
+    (a) include the reasons for the decision; and
+    (b) in the case of a suspension, specify the dates of the period of suspension; and
+    (c) inform the person of the right of review under section 201.
+  (3) A suspension takes effect on the date on which the person is given notice under subsection (2), or a later date if specified in that notice.
+  (4) The suspension ceases on the expiry of the period specified in the notice unless—
+    (a) the person has exhausted their right of review in respect of the decision to suspend (after which the registration is revoked under section 178); or
+    (b) the Secretary notifies the person that the suspension is lifted on an earlier date.
+  (5) The Secretary may lift the suspension on an earlier date than that specified in the notice if the Secretary is satisfied that the reasons for the suspension no longer apply.
+  As long as a log trader’s registration is suspended,—
+    (a) they must be treated as not being a registered log trader under this Part; and
+    (b) if they are registered for legal harvest in relation to a regulated activity for which they are also registered as a log trader, they must be treated as not being registered for legal harvest in relation to that activity.
+  (1) The Secretary must revoke a log trader’s registration—
+    (a) if registration is suspended under section 175 and the person has exhausted their right of review under section 201 in respect of the decision to suspend; or
+    (b) at the request of the registered log trader.
+  (2) If a log trader’s registration is suspended, the Secretary may revoke their registration if the Secretary is satisfied that—
+    (a) the person has failed within a reasonable time to take appropriate corrective action to remedy the deficiency or failure that resulted in the suspension; and
+    (b) the person has not sought a review of the decision to suspend registration.
+  (3) The revocation has effect on the date on which it is notified to the registered log trader or on a later date specified by the Secretary and notified to the registered log trader.
+  (1) A registered log trader engages in unsatisfactory conduct if their conduct—
+    (a) falls short of the standard that a reasonable member of the public is entitled to expect from a reasonably competent registered log trader; or
+    (b) contravenes the person’s obligations under this Part in a way that is more than minor or inconsequential; or
+    (c) is incompetent or negligent; or
+    (d) would reasonably be regarded by registered log traders of good standing as being unacceptable.
+  (2) A registered log trader engages in misconduct if—
+    (a) they engage in conduct that would reasonably be regarded by registered log traders of good standing, or reasonable members of the public, as disgraceful; or
+    (b) they wilfully or recklessly fail (whether by act or omission) to meet an obligation under this Part that is more than minor or inconsequential; or
+    (c) they commit a serious offence, or are involved in a serious matter, that is specified by regulations.
+  (1) Any person may complain to the Secretary, or the Secretary may initiate a complaint, that person has engaged in unsatisfactory conduct or misconduct in their capacity as a registered log trader.
+  (2) The complaint must be made and dealt with in accordance with regulations.
+  (1) If there is a dispute between any of the following persons about a commercial matter, 1 or more of the parties to the dispute may refer it to dispute resolution:
+    (a) any owner of forests or proposed forests:
+    (b) any registered, or previously registered, log trader.
+  (2) The dispute must be referred and dealt with in accordance with regulations.
+  (3) If the parties to the dispute have not resolved the dispute by agreement after following that process, the parties may agree to refer the dispute to mediation or arbitration.
+  (4) If a dispute is referred to arbitration, the provisions of the Arbitration Act 1996 apply to the dispute.
+  (5) This section does not apply to a dispute that is subject to a dispute resolution process set out in a contract between the parties.
+  (1) If the Secretary is satisfied that a person has, in their capacity as a registered log trader, engaged in unsatisfactory conduct, the Secretary may—
+    (a) impose or modify a condition of the person’s registration under section 174(1) to enable the Secretary to monitor the person’s compliance with their obligations under this Part:
+    (b) issue a notice to warn the person that the Secretary may consider a failure to address the unsatisfactory conduct as satisfying the test in section 179 for misconduct.
+  (2) If the Secretary is satisfied that a person has, in their capacity as a registered log trader, engaged in misconduct, the Secretary may—
+    (a) suspend the person’s registration under section 175:
+    (b) consider whether there are grounds to prosecute the person for an offence under section 184(1).
+  (1) This section applies if the Secretary is satisfied that—
+    (a) a person has, in their capacity as a registered log trader, engaged in unsatisfactory conduct; and
+    (b) the unsatisfactory conduct involves an error or omission on the part of the person.
+  (2) The Secretary may issue the person with a notice that requires the person—
+    (a) to rectify, at their own expense, the error or omission; or
+    (b) where it is not practicable to rectify the error or omission, to take steps to provide, at the person’s own expense, relief, in whole or in part, from the consequences of the error or omission.
+  (3) A notice under this section must include notice of the person’s right of review, under section 201, of the decision to issue the notice.
+  (4) A notice under this section may be enforced in all respects as if it were an order of the District Court on the filing of a sealed copy in that court.
+  (1) A person commits an offence if—
+    (a) they fail to comply with section 167(1) (requirement for log traders to be registered); or
+    (b) they fail to comply with section 167(3) (requirement not to falsely hold out that a person is registered or is not required to be registered); or
+    (c) they fail to comply with section 170 (obligations of registered log trader); or
+    (d) they fail to comply with section 172(2) (requirement not to provide false or misleading information in the application).
+  (2) It is a defence to a charge under subsection (1)﻿(a), (b), or (c) if the defendant proves that—
+    (a) the commission of the offence was due to—
+      (i) the act or omission of another person; or
+      (ii) an accident; or
+      (iii) some other cause or circumstances outside the defendant’s control; and
+    (b) the defendant took reasonable precautions and exercised due diligence to avoid the commission of the offence or offences of the same kind.
+  (3) However, the defence in subsection (2) is available only if—
+    (a) the defendant notifies the prosecutor in writing, at least 15 working days before the hearing date, that they intend to rely on the defence; or
+    (b) the court gives leave for the defendant to rely on the defence.
+  (4) It is a defence to a charge under subsection (1)﻿(d) that the defendant—
+    (a) did not know that the information they provided was false or misleading; and
+    (b) exercised all reasonable care and due diligence to ensure that the information provided was not false or misleading.
+  (5) A person who commits an offence against subsection (1) is liable on conviction,—
+    (a) if the person is an individual, to a fine not exceeding $40,000; and
+    (b) in any other case, to a fine not exceeding $100,000.
+  (1) The Secretary must ensure that a public register of log traders is kept and maintained.
+  (2) The purpose of the public register is—
+    (a) to enable members of the public to know whether a person is a registered log trader; and
+    (b) to enable members of the public to know how to contact a registered log trader; and
+    (c) to assist with the enforcement of the provisions of this Part.
+  (3) The register must include, in relation to each registered log trader,—
+    (a) the person’s trading name and contact details; and
+    (b) the date on which the person became registered; and
+    (c) details (including dates) of any suspension or revocation of registration; and
+    (d) the name or designation of the person who is responsible for the day-to-day management of the business; and
+    (e) any other information required by regulations.
+  (4) The Secretary must determine the form in which the log trader register is to be kept.
+  The Secretary must—
+    (a) make the register of log traders available for public inspection at all reasonable times, free of charge, by publishing it on an Internet site maintained by, or on behalf of, the Secretary; and
+    (b) supply a copy of information contained in the register to anyone who requests it, at no more than a reasonable cost.
+  (1) A person whose physical address is entered on the register may apply to the Secretary to withhold that information or any information (withheld information) specified in regulations on the grounds that—
+    (a) its disclosure would be prejudicial to their personal safety or their family's; or
+    (b) they want to preserve their privacy.
+  (2) The Secretary must ensure that the withheld information is not available for inspection or disclosure, if satisfied that—
+    (a) the grounds relating to personal safety apply; or
+    (b) the grounds relating to privacy apply.
+  (3) Despite subsection (2), the Secretary may provide the withheld information to another person if—
+    (a) the Secretary is satisfied that the other person needs the withheld information to exercise a legal right, or satisfy a legal obligation, in relation to the first person (for example, to serve notice on them); and
+    (b) before providing the withheld information, the Secretary gives notice to the first person specifying—
+      (i) the name of the person to whom it will be provided; and
+      (ii) the date on which it will be provided.
+  (1) A person whose details are entered on the log trader register must notify the Secretary of any change in those details.
+  (2) The person must notify the Secretary in writing within 20 working days after the date on which the change occurs.
+  The functions of the Secretary under this Part are the following:
+    (a) to establish and maintain a registration system for log traders:
+    (b) to promote to persons in the forestry supply chain—
+      (i) awareness of the registration for log traders; and
+      (ii) the benefits of using registered log traders:
+    (c) to monitor, and take action to ensure, the compliance of registered log traders and other persons with their obligations under this Part:
+    (d) to establish and maintain a public register of persons registered as log traders:
+    (e) to develop, maintain, and promote to registered log traders the practice standards for log traders:
+    (f) to establish a process for resolving complaints and disputes relating to registered log traders.
+  (1) The Secretary may, by notice to any person or class of person who has obligations under this Part, require that person—
+    (a) to provide the Secretary with the information or class of information specified in the notice; and
+    (b) to provide the information within a specified time frame or at regular intervals specified in the notice.
+  (2) Before issuing a notice, the Secretary must be satisfied that the information is required to—
+    (a) verify whether the person is complying with their obligations under this Part; or
+    (b) gather statistical information for understanding the forestry supply chain.
+  (3) The person must provide the information—
+    (a) in a form specified by the Secretary; and
+    (b) within a reasonable time.
+  (4) The Secretary may use the information only for purposes related to those specified in subsection (2).
+  (5) See section 9 of the Official Information Act 1982 for reasons for the Secretary to withhold any official information that they hold (including where making the information available would disclose a trade secret or be likely to unreasonably prejudice a person’s commercial position).
+  (1) The Minister must not recommend that regulations be made under this Part unless the Minister is satisfied—
+    (a) that the regulations are necessary or desirable for 1 or more of the purposes of this Part; and
+    (b) for regulations relating to cost recovery, that the requirements of the following sections have been met (to the extent appropriate in the circumstances):
+      (i) section 207 (principles of cost recovery):
+      (ii) section 208 (requirement for consultation):
+      (iii) section 210 (cost recovery to relate generally to financial year); and
+    (c) for other regulations, that there has been appropriate consultation with affected persons or representatives of persons substantially affected, including representatives of tangata whenua, forestry industry bodies, and unions (as defined in section 5 of the Employment Relations Act 2000).
+  (2) Consultation need not be undertaken on matters involving minor corrections or updating, or otherwise of a minor or technical nature.
+  (3) A failure to consult does not affect the validity of any regulations made for the purposes of this Part.
+  (1) The Governor-General may, by Order in Council made on the recommendation of the Minister, make regulations that do any of the following:
+    (a) specify a volume of logs for the purpose of the definition of threshold volume in section 169(4):
+    (b) specify further criteria for registration as a log trader:
+    (c) specify matters the Secretary must take into account in determining whether a person is a fit and proper person to be a registered log trader:
+    (d) specify offences or matters that are serious for the purposes of section 179(2)﻿(c) (relating to misconduct):
+    (e) require log traders to keep records on specified matters and to keep those records in a specified manner for a specified period:
+    (f) require log traders to report to the Secretary on a regular basis, to enable the Secretary to monitor log traders’ compliance with their obligations under this Part:
+    (g) specify when reports referred to in paragraph (f) must be made and what information they must contain:
+    (h) impose further obligations on log traders (which may relate to ongoing training to be undertaken):
+    (i) specify the information that must be included in an application for registration as a log trader:
+    (j) specify information that must be kept on the register of log traders.
+  (2) Regulations made under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+  (1) The Minister may, by notice made on the recommendation of the Secretary,—
+    (a) exempt any class of persons from the requirement to be registered as a log trader; and
+    (b) exempt any class of transactions or transfers for the purpose of section 169(2)﻿(d)﻿(ii) (exempt activities); and
+    (c) set terms and conditions for any exemption granted under this section.
+  (2) Before granting an exemption, the Minister must obtain and consider advice from the Secretary as to whether the exemption should—
+    (a) be granted for a specified period of no more than 5 years; or
+    (b) be granted for an indefinite period but kept under review.
+  (3) The breach of a term or condition of an exemption granted under this section is a breach of the provision to which the exemption relates (unless the terms of the exemption otherwise provide).
+  (4) A notice under this section must include a statement of the Minister’s reasons for granting the exemption.
+  (5) A notice under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+  (1) The Governor-General may, by Order in Council made on the recommendation of the Minister, make regulations that—
+    (a) specify any matter that this Part indicates is to be specified by regulations:
+    (b) provide for anything this Part requires or permits to be provided for by regulations:
+    (c) provide for anything incidental that is necessary for carrying out, or giving full effect to, this Part.
+  (2) Regulations made under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+  (1) Regulations may establish a resolution process for complaints that a log trader (including one whose registration is suspended or revoked) has engaged in unsatisfactory conduct or misconduct.
+  (2) Without limiting subsection (1), regulations may do any of the following:
+    (a) establish a complaints panel and its procedures:
+    (b) require the Secretary to forward any complaint to the panel:
+    (c) authorise the panel to require log traders to provide information relating to a complaint:
+    (d) require the panel to publish its findings:
+    (e) if the panel finds that a log trader has, or may have, engaged in unsatisfactory conduct or misconduct, require the panel to—
+      (i) notify the Secretary of that finding; and
+      (ii) recommend that the Secretary consider whether to take 1 or more of the actions specified in section 182.
+  (3) Regulations made under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+  (1) For the purpose of section 181, regulations may—
+    (a) establish a process to deal with disputes referred to it by parties under that section; and
+    (b) provide for the manner in which disputes are referred.
+  (2) Regulations made under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+  (1) Regulations may do any of the following:
+    (a) set the amounts of fees and charges for the purposes of this Part:
+    (b) set the method by which the amount of any fee or charge is to be calculated:
+    (c) provide for exemptions from, or waivers or refunds of, a fee or charge, in whole or in part, in any class of case:
+    (d) authorise the Secretary to grant an exemption, waiver, or refund in any particular case or class of case.
+  (2) Regulations may set fees and charges that—
+    (a) differ, depending on whether a special or an urgent service is provided:
+    (b) include more than 1 level of fee or charge for the same service provided in different ways or provided in, or in respect of, different places:
+    (c) differ for otherwise similar services provided in different ways:
+    (d) differ, depending on the amount of service required or the components of the service required for the particular person.
+  (3) If regulations prescribe a formula for determining a fee or charge, the formula may specify the value of 1 or more of its components as being an amount or amounts notified for those components by the Secretary.
+  (4) The amount or amounts referred to in subsection (3) must be notified by the Secretary on an Internet site maintained by or on behalf of the Ministry.
+  (5) Regulations made under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+  (1) Regulations may do any of the following:
+    (a) impose a levy payable to the Secretary for the purpose of wholly or partially funding the services provided and functions performed by the Secretary:
+    (b) provide for exemptions from, or waivers or refunds of, a levy, in whole or in part, in any class of case:
+    (c) authorise the Secretary to grant an exemption, waiver, or refund in any particular case or class of case.
+  (2) Regulations made for a purpose described in subsection (1) must specify—
+    (a) the persons primarily responsible for paying the levy; and
+    (b) the basis on which the amount of levy is to be calculated or ascertained; and
+    (c) the persons (if any) to be exempt from paying the levy; and
+    (d) the persons responsible for collecting the levy from those primarily responsible for paying it; and
+    (e) the maximum rate of levy; and
+    (f) how the actual rate of the levy is to be set; and
+    (g) how the rates of the levy and variation of rates are to be notified; and
+    (h) whether the persons collecting the levy are entitled to recover the costs of levy collection and the estimated amount of those costs.
+  (3) Regulations made for a purpose described in subsection (1) may provide for any of the following:
+    (a) the making of returns to the Secretary for the purpose of enabling or assisting the determination of amounts of levy payable:
+    (b) the circumstances in which, and conditions subject to which, persons may be allowed extensions of time for the payment of any levy:
+    (c) the payment of an additional or increased levy when amounts of levy otherwise payable have been paid late, paid in part, or not paid at all:
+    (d) the holding of funds, from which payments of levy are to be made, on trust in separate accounts.
+  (4) Regulations made under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+  (5) If regulations made under subsection (1)﻿(c) authorise the Secretary to grant an exemption, waiver, or refund,—
+    (a) an instrument granting an exemption, waiver, or refund is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements), unless it applies only in a particular case; and
+    (b) the regulations must contain a statement to that effect.
+  (1) The Secretary must not recommend that rules be made under this subpart unless satisfied—
+    (a) that the rules are necessary or desirable for the purposes of this Part; and
+    (b) that there has been appropriate consultation with affected persons or representatives of persons substantially affected, including representatives of tangata whenua, forestry industry bodies, and unions (as defined in section 5 of the Employment Relations Act 2000).
+  (2) Consultation need not be undertaken on matters involving minor corrections or updating, or otherwise of a minor or technical nature.
+  (3) A failure to consult does not affect the validity of any rules made for the purposes of this Part.
+  (1) The Secretary may make rules that set practice standards for log traders.
+  (2) The rules may set standards for any matter relating to forestry operations and forestry services including the following:
+    (a) valuation; and
+    (b) emissions trading; and
+    (c) sale and purchase agreements for domestic transactions or exports; and
+    (d) other sale and purchase requirements.
+  (3) However, the rules must not impose any condition or requirement that is properly a matter for commercial agreement between parties.
+  (4) Rules made under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+  (1) A person to whom any of the following decisions apply may seek a review of the decision:
+    (a) a decision to decline an application to be a registered log trader (see section 173):
+    (b) a decision to impose or modify a condition of registration (see section 174):
+    (c) a decision to suspend a person’s registration as a log trader (see section 175):
+    (d) a decision to issue a notice requiring a registered log trader to—
+      (i) rectify an error or omission (see section 183(2)﻿(a)); or
+      (ii) take steps to provide relief from the consequences of the error or omission (see section 183(2)﻿(b)).
+  (2) An application for review of the decision must—
+    (a) be made to the Secretary, in writing, within 30 days after the date on which the decision was notified to the applicant; and
+    (b) state the grounds on which it is believed that the decision was inappropriate.
+  (3) The decision sought to be reviewed remains valid unless and until altered by the Secretary.
+  (1) The reviewer of a decision referred to in section 201(1) must be,—
+    (a) for a decision made by the Secretary, a person appointed by the Minister under subsection (2); and
+    (b) for a decision made by a person who is acting under the delegated authority of the Secretary,—
+      (i) a person who was not involved in making the decision and who is designated by the Secretary; or
+      (ii) the Secretary.
+  (2) The Minister may appoint a person for the purpose of subsection (1)﻿(a) on any terms and conditions that the Minister considers appropriate (including conditions as to the payment of fees).
+  (1) If the Secretary receives an application for review under section 201, the Secretary must ensure that the application is forwarded to the appropriate reviewer (see section 202).
+  (2) The reviewer must review the matter—
+    (a) within 60 days after receiving the application; or
+    (b) within an extended period not exceeding a further 30 days that the reviewer notifies to the applicant in writing before the end of the 60 days.
+  (3) For the purposes of a review,—
+    (a) the reviewer may require the applicant to supply, within the time specified by the reviewer, information additional to that contained in the application for review; and
+    (b) the time taken to supply the additional information (or allowed for its supply, if the information is not in fact supplied) is not to be counted for the purposes of the time limits specified in subsection (2).
+  (4) The reviewer must, as soon as practicable after completing the review, notify the applicant in writing of—
+    (a) the decision on the review; and
+    (b) the reasons for the decision; and
+    (c) the right of appeal under section 204.
+  (5) A decision by the reviewer under this section is final, unless determined otherwise by a court of law of competent jurisdiction.
+  (1) A person to whom a decision of the reviewer under section 203 applies may appeal to the High Court against the decision.
+  (2) At any time before the final determination of an appeal, the High Court may make an interim order that an appellant is to be treated as if they were a registered log trader until the end of the day on which the High Court finally determines the appeal.
+  (3) An interim order may be subject to any conditions that the High Court thinks fit.
+  (4) A party may appeal to the Court of Appeal against a decision of the High Court under this section on a question of law only.
+  (5) An appeal under this section must be brought—
+    (a) in accordance with the rules of court; and
+    (b) within 20 working days after the day on which notice of the relevant decision is given to the appellant.
+  (6) However, the relevant court may accept a late appeal no later than 60 working days after the day on which notice was given to the appellant if the court is satisfied that exceptional circumstances prevented the appeal from being made in time.
+  (7) Nothing in this section affects the right of any person to apply for judicial review.
+  (1) This Part applies to the following Parts:
+    (a) Part 2A (regulation of forestry advisers):
+    (b) Part 5 (legal harvest assurance):
+    (c) Part 6 (log traders).
+  (2) In this Part, specified Part means a Part specified in subsection (1).
+  (1) This section applies to the direct and indirect costs of administering a specified Part.
+  (2) The Minister must take all reasonable steps to ensure that the costs are recovered, whether by way of fees, levies, or otherwise.
+  (3) The obligation to recover costs does not apply to costs that are provided for by money appropriated by Parliament for the purpose.
+  (1) In determining the most appropriate method of cost recovery to use, the Minister must have regard, as far as is reasonably practicable, to the following criteria:
+    (a) equity, in that funding for a particular function, power, or service, or a particular class of functions, powers, or services, should generally, and to the extent practicable, be sourced from the users or beneficiaries of the relevant function, power, or service at a level commensurate with their use or benefit from the function, power, or service:
+    (b) efficiency, in that costs should generally be allocated and recovered in order to ensure that maximum benefits are delivered at minimum cost:
+    (c) justifiability, in that costs should be collected only to meet the actual and reasonable costs (including indirect costs) of the provision or exercise of the relevant function, power, or service:
+    (d) transparency, in that costs should be identified and allocated as closely as practicable in relation to tangible service provision for the recovery period in which the service is provided.
+  (2) However,—
+    (a) there need not be a strict apportionment of the costs to be recovered for a particular function or service based on usage; and
+    (b) without limiting the way in which fees or charges may be set, a fee or charge may be set at a level or in a way that—
+      (i) is determined by calculations that involve an averaging of costs or potential costs:
+      (ii) takes into account costs or potential costs of services that are not directly to be provided to the person who pays the fee or charge but that are an indirect or potential cost arising from the delivery of the service in question to a class of persons or all persons who use the service.
+  (1) Costs must not be recovered unless there has been consultation with affected persons or representatives of persons substantially affected, including representatives of tangata whenua and forestry industry bodies.
+  (2) Consultation is not required in relation to specific fees or charges, or the specific levels of fees or charges, so long as the fees or charges set are reasonably within the scope of any general consultation.
+  The methods by which costs may be recovered are as follows:
+    (a) fixed fees or charges:
+    (b) fees or charges based on a scale or formula or at a rate determined on an hourly or other unit basis:
+    (c) use of a formula or other method of calculation for fixing fees and charges:
+    (d) the recovery by way of fee or charge of actual and reasonable costs expended in, or associated with, the performance of a service or function:
+    (e) estimated fees or charges, or fees or charges based on estimated costs, paid before the provision of the service or function, followed by reconciliation and an appropriate further payment or refund after provision of the service or function:
+    (f) levies:
+    (g) any combination of the above.
+  (1) This section applies to regulations—
+    (a) that are made under a specified Part; and
+    (b) that set a fee, charge, or levy that applies in any financial year.
+  (2) Regulations—
+    (a) must have been made before the start of that financial year, unless subsection (3) applies; and
+    (b) apply in that financial year and all subsequent financial years until revoked or replaced, unless regulations provide otherwise.
+  (3) Regulations may be made during a financial year that alter or set a fee, charge, or levy payable in that financial year only if—
+    (a) the fee, charge, or levy is reduced, removed, or restated without substantive alteration; or
+    (b) in the case of an increased, or a new, fee, charge, or levy,—
+      (i) appropriate consultation has been carried out with persons or representatives of persons substantially affected by the alteration or setting, including representatives of tangata whenua and forestry industry bodies:
+      (ii) the Minister is satisfied that those persons or representatives agree or do not substantially disagree with the alteration or setting.
+  (4) This section does not prevent the amendment of any regulation setting a fee, charge, or levy if any substantive alteration effected by the amendment is for the purpose of correcting an error.
+  (5) Recovery may be made in any financial year of any shortfall in cost recovery for any of the preceding 4 financial years, and allowance may be made for any over-recovery of costs in those financial years (including any estimated shortfall or over-recovery for the immediately preceding financial year).
+  (1) The Minister may, from time to time, review the levels and methods of cost recovery in relation to a specified Part.
+  (2) A review may—
+    (a) make provision for recovery in any relevant financial year of any shortfall in cost recovery for any of the preceding 4 financial years; or
+    (b) make allowance for any over-recovery of costs in those years (including any estimated shortfall or over-recovery for the immediately preceding financial year).
+  (3) To avoid doubt, all areas of cost recovery need not be reviewed at the same time, nor is there any time limit on the making of regulations to implement the results of a review.
+  (1) This section applies if—
+    (a) regulations are made under a specified Part; and
+    (b) regulations require the operation of a trust account for any levy money by the person responsible for collecting the levy.
+  (2) Any amount held on trust that is due to be paid to the Secretary by the levy collector—
+    (a) is to be treated as levy money held on trust for the Secretary; and
+    (b) is not available for the payment of any creditor (other than the Secretary) of the levy collector, and is not liable to be attached or taken in execution at the instance of the creditor.
+  (3) A person who ceases to be responsible for collecting a levy must continue to maintain the trust account until all the levy money payable to the Secretary for the period during which the person was responsible for collecting the levy has been paid.
+  (4) Subsection (3) does not affect any obligation or liability under this Part of any other person who has become responsible for collecting the levy.
+  A fee, levy, or charge that has become payable under a specified Part is a debt due to the Crown that is recoverable by the Secretary in any court of competent jurisdiction.
+  (1) If a person fails to pay by the due date any fee, levy, or charge payable under a specified Part, the person to whom the fee, levy, or charge is payable (the collector) may—
+    (a) withdraw, or refuse to provide the person with, a service of the kind to which the debt relates; or
+    (b) refuse to perform a function under the specified Part in respect of the person in default.
+  (2) The collector—
+    (a) must give the person written notice of their intention to act under subsection (1) at least 10 working days before it acts; and
+    (b) must not act if the person satisfies the collector during that period that the debt is not payable.
+  (3) The collector is not required to reinstate or supply the service, or perform the function, until a court holds that—
+    (a) the debt or part concerned is paid; or
+    (b) the debt or part concerned is not payable; or
+    (c) some lesser amount is payable, and the amount is paid.
+  (1) This section applies if there is a dispute between a person and the Secretary regarding the person’s liability to pay any amount of a fee, charge, levy, or penalty under a specified Part.
+  (2) The following are not suspended by the dispute:
+    (a) the obligation of the person to pay the fee, charge, levy, or penalty:
+    (b) the right of the Secretary to receive and recover the amount owing.
+  In this subpart,—
+    - **infringement fee** , in relation to an infringement offence, means the infringement fee specified in regulations
+    - **infringement offence** means an offence—
+      (a) against a provision of the regulations or any of—
+        (i) section 63ZK(1)﻿(a) to (h); or
+        (ii) section 147(1)﻿(a) to (l); or
+        (iii) section 184(1)﻿(a) to (d); and
+      (b) that regulations specify as being an infringement offence.
+  (1) A person who is alleged to have committed an infringement offence may—
+    (a) be proceeded against by the filing of a charging document under section 14 of the Criminal Procedure Act 2011; or
+    (b) be issued with an infringement notice under section 219.
+  (2) Proceedings commenced in the way described in subsection (1)﻿(a) do not require the leave of a District Court Judge or Registrar under section 21(1)﻿(a) of the Summary Proceedings Act 1957.
+  (3) See section 21 of the Summary Proceedings Act 1957 for the procedure that applies if an infringement notice is issued.
+  Any officer may issue infringement notices under this subpart.
+  An officer may issue an infringement notice to a person if they believe on reasonable grounds that the person is committing, or has committed, an infringement offence.
+  (1) An officer may revoke an infringement notice before—
+    (a) the infringement fee is paid; or
+    (b) an order for payment of a fine is made or deemed to be made by a court under section 21 of the Summary Proceedings Act 1957.
+  (2) The officer must take reasonable steps to ensure that the person to whom the notice was issued is made aware that the notice is revoked.
+  (3) The revocation of an infringement notice before the infringement fee is paid is not a bar to any further action as described in section 217(1)﻿(a) or (b) against the person to whom the notice was issued in respect of the same matter.
+  An infringement notice must be in the form prescribed in regulations and must contain the following particulars:
+    (a) details of the alleged infringement offence that fairly inform a person of the time, place, and nature of the alleged offence:
+    (b) the amount of the infringement fee:
+    (c) the address of the place where the infringement fee may be paid:
+    (d) how the infringement fee may be paid:
+    (e) the time within which the infringement fee must be paid:
+    (f) a summary of section 21(10) of the Summary Proceedings Act 1957:
+    (g) a statement that the person served with the notice has a right to request a hearing:
+    (h) a statement of what will happen if the person served with the notice neither pays the infringement fee nor requests a hearing:
+    (i) any other matters specified in regulations.
+  (1) An infringement notice may be served on the person who the officer believes is committing or has committed the infringement offence by—
+    (a) delivering it to the person or, if the person refuses to accept it, bringing it to the person’s notice; or
+    (b) leaving it for the person at the person’s last known place of residence with another person who appears to be of or over the age of 14 years; or
+    (c) leaving it for the person at the person’s place of business or work with another person; or
+    (d) sending it to the person by prepaid post addressed to the person’s last known place of residence or place of business or work; or
+    (e) sending it to an electronic address of the person in any case where the person does not have a known place of residence or business in New Zealand.
+  (2) Unless the contrary is shown,—
+    (a) an infringement notice (or a copy of it) sent by prepaid post to a person under subsection (1) is to be treated as having been served on that person on the fifth working day after the date on which it was posted; and
+    (b) an infringement notice sent to a valid electronic address is to be treated as having been served at the time the electronic communication first entered an information system that is outside the control of the Secretary.
+  All infringement fees paid for infringement offences must be paid into a Crown Bank Account.
+  A reminder notice must be in the form specified in regulations and must include the same particulars, or substantially the same particulars, as the infringement notice.
+
+### 50 Schedule 1AA amended
+In Schedule 1AA,—
+  (a) insert the Part set out in Schedule 1 of this Act as the last Part; and
+  (b) make all necessary consequential amendments.
+
+## Part 2 — Consequential amendments to other enactments
+
+### 51 Consequential amendments
+Amend the enactments specified in Schedule 2 as set out in that schedule.
+
+## Schedule 1 — New Part 2 inserted into Schedule 1AA
+
+### Part 2 — Provisions relating to Forests (Legal Harvest Assurance) Amendment Act 2023
+
+### 4 Interpretation
+In this Part,—
+  - **amendment Act** means the Forests (Legal Harvest Assurance) Amendment Act 2023
+  - **commencement date** means the date on which this Part commenced.
+
+### 5 How Part 5 applies to regulated timber under pre-existing arrangements
+(1) Part 5—
+  (a) applies to any regulated timber or specified timber products supplied or received after the commencement date under a pre-existing arrangement; and
+  (b) to avoid doubt, does not apply to regulated timber or specified timber products supplied or received before the commencement date.
+(2) In this clause, pre-existing arrangement means a transaction agreed to, or an agreement made, before the commencement date.
+
+### 6 Continuation of exemption notices made under section 63ZZN
+An exemption notice made by the Secretary under section 63ZZN before the commencement date must be treated as if it were a notice made under section 193.
+
+## Schedule 2 — Consequential amendments
+
+| Empowering provision | Exemption grounds | Presentation exemption (s 114(2)﻿(a)) | Disallowance exemption (s 115(d)) |
+| --- | --- | --- | --- |
+| Forests Act 1949 |  |  |  |
+| Section 114(1)﻿(b) | The Secretary considers that compliance would result in 1 or more of the following activities:adisclosure of commercially sensitive information:bprejudice to New Zealand’s position in current or future negotiations for overseas market access:cprejudice to the international relations of New Zealand. | Exemption applies if exemption ground is met | Exemption applies |
+
+| Section 142 | Officer may (at a reasonable time) enter certain places without search warrant to determine whether a person is complying with requirements imposed by or under Part 5 of the Forests Act 1949 (which relates to the legal harvest system). | Part 4 (other than subparts 2, 3, 6, and 8 and sections 118 and 119) |
+| --- | --- | --- |
+| Section 143 | Officer may in accordance with search warrant enter, search, and examine a place. | Part 4 (other than subparts 2, 3, 6, and 8 and sections 118 and 119) |
