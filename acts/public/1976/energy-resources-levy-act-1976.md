@@ -1,5 +1,5 @@
 # Energy Resources Levy Act 1976
-_Consolidation as at 2021-10-28_
+_Consolidation as at 2023-05-20_
 
 > An Act to make provision for the imposition, assessment, and collection of a levy on certain energy resources produced in New Zealand
 
@@ -31,6 +31,9 @@ This Act may be cited as the Energy Resources Levy Act 1976.
   - **Secretary** means the chief executive of the department of State that, with the authority of the Prime Minister, is for the time being responsible for the administration of this Act
   - **South Island lignite** means lignite produced in the South Island.
 (2) For the purposes of this Act, 2 or more persons acting as co-trustees shall be deemed to be 1 person.
+
+### 2A Transitional, savings, and related provisions
+The transitional, savings, and related provisions set out in Schedule 1 have effect according to their terms.
 
 ### 3 Act to bind Crown
 This Act shall bind the Crown.
@@ -65,6 +68,7 @@ This Act shall bind the Crown.
 (2) Notwithstanding section 4,—
   (a) where the total energy content of all natural gas that is produced during a particular month and the levy on which would be payable by the same person does not exceed 50 gigajoules, no levy shall be payable on that natural gas:
   (b) where the total weight of all coal that is produced during a particular month and the levy on which would be payable by the same person does not exceed 10 tonnes, no levy shall be payable on that coal.
+(3) The exemption in subsection (1)﻿(a) does not apply to any natural gas produced from any land to which a licence relates if the licence was granted in relation to a discovery of natural gas made before 1 January 1986 (even if the licence was extended on or after that date).
 
 ### 7 Levy on certain energy resources may be remitted or reduced by Order in Council
 (1) The Governor-General may, from time to time and in respect of any particular energy resource that in his opinion would not be produced if a levy at the rate specified in section 4, or, as the case may be, in an Order in Council under section 5, were payable thereon, prescribe by Order in Council that, subject to such conditions as are specified in the Order in Council,—and every such Order in Council shall have effect according to its tenor. The Governor-General may in like manner vary or revoke any such Order in Council.
@@ -263,3 +267,20 @@ Where there is disagreement between the Secretary and any person as to whether a
 
 ### 38 Amendments to Ministry of Energy Resources Act 1972
 [Repealed]
+
+## Schedule 1 — Transitional, savings, and related provisions
+
+### Part 1 — Provisions relating to Energy Resources Levy Amendment Act 2023
+
+### 1 Meaning of commencement date
+In this schedule, commencement date means the date on which the amendment to section 6 of this Act was made by section 5 of the Energy Resources Levy Amendment Act 2023.
+
+### 2 Amended section 6 does not apply retrospectively
+Section 6(3), as inserted by section 5 of the Energy Resources Levy Amendment Act 2023, applies to natural gas produced on or after the commencement date.
+
+### 3 Validation of levy payments made before commencement date
+(1) This clause applies if, before the commencement date,—
+  (a) a levy was paid on natural gas; and
+  (b) the exemption in section 6(1)﻿(a) applied or might have applied to that natural gas.
+(2) The levy was properly payable by the person who paid it.
+(3) Money received by the Secretary in payment of the levy is and always has been lawfully collected and applied.
