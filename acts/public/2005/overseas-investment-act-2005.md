@@ -1,5 +1,5 @@
 # Overseas Investment Act 2005
-_Consolidation as at 2022-08-16_
+_Consolidation as at 2023-05-31_
 
 ### 1 Title
 This Act is the Overseas Investment Act 2005.
@@ -1500,14 +1500,16 @@ The court must not refuse to make an order under sections 47 to 51 on the ground
 
 ### 61A Regulations regarding alternative monetary thresholds for overseas investments in significant business assets
 (1) The Governor-General may, by Order in Council made on the recommendation of the Minister, make regulations in order to implement obligations in all or any of the following international agreements in respect of certain overseas investments in New Zealand in significant business assets by certain investors:
-  (aaa) the Comprehensive and Progressive Agreement for Trans-Pacific Partnership, done at Santiago, Chile, on 8 March 2018:
-  (a) the Trans-Pacific Partnership Agreement done at Auckland on 4 February 2016:
-  (b) the Free Trade Agreement between New Zealand and the Republic of Korea done at Seoul on 23 March 2015:
-  (c) the Agreement between New Zealand and the Separate Customs Territory of Taiwan, Penghu, Kinmen and Matsu on Economic Cooperation done at Wellington on 10 July 2013:
-  (d) the Protocol on Investment to the New Zealand–Australia Closer Economic Relations Trade Agreement done at Wellington on 16 February 2011:
-  (e) the New Zealand–Hong Kong, China Closer Economic Partnership Agreement done at Hong Kong on 29 March 2010:
-  (f) the Free Trade Agreement between the Government of New Zealand and the Government of the People's Republic of China done at Beijing on 7 April 2008:
-  (g) the Trans-Pacific Strategic Economic Partnership Agreement, done at Wellington on 18 July 2005.
+  (aaa)
+  (a) the Trans-Pacific Strategic Economic Partnership Agreement, done at Wellington on 18 July 2005:
+  (b) the Free Trade Agreement between the Government of New Zealand and the Government of the People’s Republic of China, done at Beijing on 7 April 2008:
+  (c) the New Zealand–Hong Kong, China Closer Economic Partnership Agreement, done at Hong Kong on 29 March 2010:
+  (d) the Protocol on Investment to the New Zealand–Australia Closer Economic Relations Trade Agreement, done at Wellington on 16 February 2011:
+  (e) the Agreement between New Zealand and the Separate Customs Territory of Taiwan, Penghu, Kinmen, and Matsu on Economic Cooperation, done at Wellington on 10 July 2013:
+  (f) the Free Trade Agreement between New Zealand and the Republic of Korea, done at Seoul on 23 March 2015:
+  (g) the Trans-Pacific Partnership Agreement, done at Auckland on 4 February 2016:
+  (h) the Comprehensive and Progressive Agreement for Trans-Pacific Partnership, done at Santiago on 8 March 2018:
+  (i) the Free Trade Agreement between New Zealand and the United Kingdom of Great Britain and Northern Ireland, done at London on 28 February 2022.
 (2) Regulations made under subsection (1) may provide for alternative monetary thresholds under section 13 that apply, on terms and conditions (if any), to 1 or more classes of transactions, persons, interests, rights, and assets.
 (3) The Minister must be satisfied, before making a recommendation under this section, that the regulations do not provide for an alternative monetary threshold that is higher than the amount provided for in the relevant international agreement referred to in subsection (1), but the text of the regulations may otherwise differ from the text of an agreement.
 (4) Regulations made under subsection (1) may incorporate by reference any provisions of an international agreement referred to in that subsection.
