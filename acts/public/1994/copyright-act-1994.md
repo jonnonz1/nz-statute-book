@@ -1,5 +1,5 @@
 # Copyright Act 1994
-_Consolidation as at 2022-04-12_
+_Consolidation as at 2023-05-31_
 
 > An Act to consolidate and amend the law relating to copyright
 
@@ -3240,8 +3240,10 @@ A person (A) infringes a performer’s rights if,—
 ### 174A Application
 This subpart applies only to recordings that are sound recordings.
 
-### 174B Consent required for making sound recording available to public
-A performer’s rights are infringed by a person who, without the performer’s consent and by means of a recording, communicates to the public the whole or a substantial part of a performance.
+### 174B Consent required to communicate or play sound recording to public
+A performer’s rights are infringed by a person who, without the performer’s consent, and by means of a recording,—
+  (a) communicates to the public the whole or a substantial part of a performance; or
+  (b) plays in public the whole or a substantial part of a performance.
 
 ### 174C Consent required for copying of sound recording
 (1) A performer’s rights are infringed by a person who, without the performer’s consent, copies a recording of the whole or a substantial part of a performance.
