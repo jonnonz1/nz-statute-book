@@ -1,5 +1,5 @@
 # Tariff Act 1988
-_Consolidation as at 2022-01-01_
+_Consolidation as at 2023-05-31_
 
 > An Act to consolidate and amend the law relating to the imposition of tariff duty
 
@@ -290,7 +290,8 @@ In this section and sections 15B to 15H, unless the context otherwise requires,�
     (e) the Republic of Korea FTA; or
     (f) the CPTPP; or
     (g) the TPP; or
-    (h) the RCEP
+    (h) the RCEP; or
+    (i) the UK FTA
   - **industry** , in relation to any goods, means—
     (a) the New Zealand producers, as a whole, of like or directly competitive goods; or
     (b) the New Zealand producers of like or directly competitive goods whose collective output constitutes a major proportion of the total production of those goods
@@ -303,7 +304,8 @@ In this section and sections 15B to 15H, unless the context otherwise requires,�
   - **serious injury** means a significant overall impairment in the position of a domestic industry
   - **Thai FTA** means the New Zealand–Thailand Closer Economic Partnership Agreement done at Bangkok on 19 April 2005
   - **transitional safeguard investigation** means a transitional safeguard investigation started under section 15B(1)
-  - **transitional safeguard measure** means a transitional safeguard measure applied under section 15F.
+  - **transitional safeguard measure** means a transitional safeguard measure applied under section 15F
+  - **UK FTA** means the Free Trade Agreement between New Zealand and the United Kingdom of Great Britain and Northern Ireland, done at London on 28 February 2022.
 
 ### 15B Chief executive may undertake transitional safeguard or emergency action investigation
 (1) The chief executive may undertake a transitional safeguard investigation to ascertain whether goods that have been subject to tariff reduction or removal after the entry into force of a free trade agreement—
@@ -384,7 +386,7 @@ The Minister may extend a transitional safeguard or emergency action measure app
     (ii) are causing, or threatening to cause, serious injury to an industry producing a like or directly competitive good; and
   (b) there exist,—
     (i) in relation to a provisional transitional safeguard measure to be applied under the Thai FTA, highly unusual and critical circumstances; or
-    (ii) in relation to a provisional transitional safeguard measure to be applied under the China FTA, the AANZFTA, the Malaysia FTA, the Republic of Korea FTA, or the RCEP, critical circumstances; and
+    (ii) in relation to a provisional transitional safeguard measure to be applied under the China FTA, the AANZFTA, the Malaysia FTA, the Republic of Korea FTA, the RCEP, or the UK FTA, critical circumstances; and
   (c) the delay in applying a transitional safeguard measure under section 15F would cause serious injury to the industry which would be difficult to repair.
 (2) A provisional transitional safeguard measure applies on and from—
   (a) the date specified in the measure (which may be a date before, on, or after the date on which the determination is made); or
