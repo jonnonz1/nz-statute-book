@@ -1,5 +1,5 @@
 # Dairy Industry Restructuring Act 2001
-_Consolidation as at 2023-04-06_
+_Consolidation as at 2023-05-31_
 
 ### 1 Title
 This Act is the Dairy Industry Restructuring Act 2001.
@@ -160,7 +160,7 @@ The purpose of this Act is to—
     (c) copies of the document or information may be purchased by any person at a reasonable price
   - **published price** means the price of a co-operative share set under section 77(1) or amended under section 77(2) as published by new co-op
   - **quota year** means, for designated markets in—
-    (a) the European Communities, the United States of America, and the Dominican Republic, a period of 12 months beginning on 1 January and ending on 31 December; and
+    (a) the European Communities, the United States of America, the Dominican Republic, and the United Kingdom, a period of 12 months beginning on 1 January and ending on 31 December; and
     (b) Japan, a period of 12 months beginning on 1 April and ending on 31 March in the following year
   - **quoted** has the same meaning as in section 6(1) of the Financial Markets Conduct Act 2013
   - **raw milk** —
@@ -337,7 +337,8 @@ This Act binds the Crown.
   (a) any rights in respect of designated markets that become available as a result of the expiry of the initial period under section 24:
   (b) any rights in respect of designated markets in the European Communities listed in Schedule 5A that become available as a result of reductions under section 25:
   (c) any quantities that become available as a result of increases in rights in respect of designated markets listed in Schedule 5A after the initial periods, except where the quantities are reallocated in accordance with section 27A(2):
-  (d) any rights in respect of designated markets listed in Schedule 5A that become available at the expiry of any other allocations.
+  (d) any rights in respect of designated markets listed in Schedule 5A that become available at the expiry of any other allocations:
+  (e) any rights in respect of the United Kingdom listed in Schedule 5A that become available at the expiry of any other allocations.
 (2) Following the expiry of the initial and interim licences, export licences for the designated markets listed in Schedule 5A must be allocated or reallocated by, or on behalf of, the Crown.
 (3) The Minister must, in accordance with the rules set out in Schedule 5B, allocate export licences to multiple participants for the designated markets listed in Schedule 5A unless subsection (4) applies.
 (4) If the Minister is satisfied that an allocation under subsection (3) is not appropriate, having regard to the purpose in section 21(1), the Minister may recommend to the Governor-General that an Order in Council is made to allocate or reallocate export licences under subsection (7).
@@ -349,6 +350,15 @@ This Act binds the Crown.
   (b) have regard to the purpose in section 21(1).
 (9) Subsection (1) does not limit the Minister’s power under subsection (3) or (5), or the Governor-General’s power under subsection (7), to allocate new licences in respect of those rights or quantities to the Board or new co-op.
 (10) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+
+### 26A Commencement and expiry of UK quotas
+(1) If the UK FTA first comes into force on a day other than 1 January in any year, a transitional tariff rate quota must be applied in that year on a pro rata basis.
+(2) If a UK WTO tariff quota first becomes available under this Act on a day other than 1 January in any year, the tariff quota must be applied in that year on a pro rata basis.
+(3) Despite anything to the contrary in section 26, a transitional tariff rate quota expires at the end of the last day of the fourth year after the year in which the UK FTA comes into force.
+(4) In this section,—
+  - **transitional tariff rate quota** means a UK transitional tariff rate quota listed in Schedule 5A
+  - **UK FTA** means the Free Trade Agreement between New Zealand and the United Kingdom of Great Britain and Northern Ireland, done at London on 28 February 2022
+  - **UK WTO tariff quota** means a UK WTO tariff quota listed in Schedule 5A.
 
 ### 27 Increases in rights to export to designated markets during initial period
 (1) This section applies if, during the initial period, there is an increase in the Crown’s rights to secure the economic benefits that are obtained from designated markets that are not allocated in an existing export licence.
@@ -460,8 +470,8 @@ For the purpose of determining and monitoring compliance with the rules set out 
   (a) may be used in civil or criminal proceedings against the eligible participant if it is a body corporate; but
   (b) may not be used in civil or criminal proceedings against the employee or agent of the eligible participant who gave the incriminating answer.
 
-### 29H Power to audit milk collection data
-(1) For the purpose of determining and monitoring compliance with the rules set out in Schedule 5B, the chief executive, or a person authorised by the chief executive, may audit the milk collection data received from an eligible participant.
+### 29H Power to audit milk solids collection data
+(1) For the purpose of determining and monitoring compliance with the rules set out in Schedule 5B, the chief executive, or a person authorised by the chief executive, may audit the milk solids collection data received from an eligible participant.
 (2) Participants must be notified of the possibility of an audit on a cost-recovery basis at the time of an application for an export licence.
 (3) Participants may be charged a fee for an audit carried out under subsection (1).
 
@@ -499,7 +509,7 @@ Subpart 6 of Part 4 of the Search and Surveillance Act 2012 applies to any prope
 (2) Every person commits an offence against this Act, and is liable on conviction to the following fines, who does not provide the information or document required under section 29G:
   (a) a fine not exceeding $200,000; and
   (b) a further fine not exceeding $10,000 for every day or part of a day during which the offence is continued.
-(3) Every person commits an offence against this Act, and is liable for the following, who provides a false declaration in relation to milk collection data contrary to Schedule 5B:
+(3) Every person commits an offence against this Act, and is liable for the following, who provides a false declaration in relation to milk solids collection data contrary to Schedule 5B:
   (a) a declaration by a court of competent jurisdiction that the person is not eligible for further allocations of export licences for a period determined by the court; and
   (b) a fine not exceeding $200,000 or a term of imprisonment not exceeding 3 months, or both.
 
@@ -2146,6 +2156,13 @@ Regulations made under section 134 (as replaced by section 32 of the Dairy Indus
 | United States of America | Other American-type cheese | Product that falls within the product description provided in headnote 17 of Schedule XX/United States of America of the World Trade Organization for entry under the tariff quota for other American-type cheese of New Zealand origin, only including those quantities for which designated importer import licences are issued in accordance with United States of America law, and not including product destined for import into the United States of America other than under the terms of that tariff quota. |
 | Japan | Prepared edible fat | Product falling within HS code 2106.90 that falls within the product description provided in Schedule XXXVIII/Japan of the World Trade Organization for entry under the tariff quota for prepared edible fat of New Zealand origin, including trade outside the terms of the quota. |
 | Dominican Republic | Milk powder | Product that falls within the product description provided in Schedule XXIII/Dominican Republic of the World Trade Organization for entry under the tariff quota for milk powder of New Zealand origin, including trade outside the terms of the quota. |
+| UK WTO tariff quotas |  |  |
+| United Kingdom | Butter | Destined for import into the United Kingdom under the World Trade Organization tariff quota for butter of New Zealand origin, as provided for in the United Kingdom’s Customs (Tariff Quotas) (EU Exit) Regulations 2020, including any amendment or any successor to those regulations. |
+| United Kingdom | Cheddar cheese | Destined for import into the United Kingdom under the World Trade Organization tariff quota for cheddar cheese of New Zealand origin, as provided for in the United Kingdom’s Customs (Tariff Quotas) (EU Exit) Regulations 2020, including any amendment or any successor to those regulations. |
+| United Kingdom | Cheese for processing | Destined for import into the United Kingdom under the World Trade Organization tariff quota for cheese for processing of New Zealand origin, as provided for in the United Kingdom’s Customs (Tariff Quotas) (EU Exit) Regulations 2020, including any amendment or any successor to those regulations. |
+| UK transitional tariff rate quotas |  |  |
+| United Kingdom | Butter | Destined for import into the United Kingdom under the transitional tariff rate quota for butter of New Zealand origin, as provided for in TRQ-3 Butter, Part 2B-2, Annex 2A of the Free Trade Agreement between the United Kingdom and New Zealand, including any amendment or any successor to that Annex. |
+| United Kingdom | Cheese | Destined for import into the United Kingdom under the transitional tariff rate quota for cheese of New Zealand origin, as provided for in TRQ-4 Cheese, Part 2B-2, Annex 2A of the Free Trade Agreement between the United Kingdom and New Zealand, including any amendment or successor to that Annex. |
 
 ## Schedule 5B — Rules for allocation of export licences to multiple participants for designated markets in Schedule 5A
 
@@ -2161,7 +2178,7 @@ To be eligible to receive a share of export licences, participants must collect 
   (iii) the season immediately prior to the season referred to in subparagraph (ii) (if a participant wishes to use an average of the most recent 3 seasons for the purpose of assessing his or her eligibility to receive a share of export licences).
 
 ### 3
-For the purposes of assessing the share of export licences, each participant must submit milk collection data to the chief executive or a person authorised by the chief executive by statutory declaration (as set out in Schedule 5C), including—
+For the purposes of assessing the share of export licences, each participant must submit milk solids collection data to the chief executive or a person authorised by the chief executive by statutory declaration (as set out in Schedule 5C), including—
 (a) data from the most recent season; and
 (b) data from the previous season (if a participant wishes to use an average of the most recent 2 seasons for the purpose of assessing his or her share of export licences); and
 (c) data from the season immediately prior to the season referred to in paragraph (b) (if a participant wishes to use an average of the most recent 3 seasons for the purpose of assessing his or her share of export licences).
