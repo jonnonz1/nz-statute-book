@@ -1,5 +1,5 @@
 # Fair Pay Agreements Act 2022
-_Consolidation as at 2022-11-01_
+_Consolidation as at 2023-06-01_
 
 ### 1 Title
 This Act is the Fair Pay Agreements Act 2022.
@@ -494,8 +494,8 @@ Bargaining for a proposed FPA may be initiated only in accordance with this subp
 (5) If the chief executive declines an application, the chief executive must also, by written notice, advise the applicant of the reasons for declining the application.
 
 ### 34 Time frame for chief executive
-(1) The chief executive must comply with section 33(1) as soon as is reasonably practicable.
-(2) This subsection and subsection (1) expire on the date that is 6 months after section 33 comes into force.
+(1)
+(2)
 (3) The chief executive must comply with section 33(1)—
   (a) as soon as practicable; but
   (b) no later than 30 working days after receiving—
