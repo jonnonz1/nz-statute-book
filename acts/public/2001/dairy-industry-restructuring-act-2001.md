@@ -1,5 +1,5 @@
 # Dairy Industry Restructuring Act 2001
-_Consolidation as at 2023-05-31_
+_Consolidation as at 2023-06-01_
 
 ### 1 Title
 This Act is the Dairy Industry Restructuring Act 2001.
@@ -152,8 +152,10 @@ The purpose of this Act is to—
   - **organic standard** has the meaning given in section 6 of the Organic Products and Production Act 2023
   - **panel** means the Milk Price Panel established under section 150D
   - **person eligible to hold an export licence** means a natural person, unincorporated body, or body corporate who is registered to export under Part 5 of the Animal Products Act 1999
+  - **personal information** has the meaning given by section 7(1) of the Privacy Act 2020
   - **previous manager** , in relation to the core database, means an entity (or the Crown) replaced as manager of the core database by regulations made under section 65A
   - **price range** , in relation to an application under section 73 or a notice of withdrawal under section 97, means the range of prices from 7.5% more than the published price at the time that the application is made or the notice is given to 7.5% less than the published price at that time
+  - **publicly accessible** , in relation to making a document or information accessible, means that the document or information is available for inspection, free of charge, on an Internet site that is accessible to the public at all reasonable times (except to the extent that making the document or information available would infringe copyright in the material in question or is inconsistent with any enactment or rule of law)
   - **publicly available** , in relation to making a document or information available, means that—
     (a) the document or information is available for inspection, free of charge, on an Internet site that is publicly accessible at all reasonable times (except to the extent that making the document or information available would infringe copyright in the material in question or is inconsistent with any enactment or rule of law); and
     (b) a copy of the document or information is available for inspection, free of charge, at all reasonable times at the head office of the person required to make it publicly available or, if that person is a Minister, at the head office of the relevant Ministry; and
@@ -838,16 +840,16 @@ The purpose of this subpart is to promote the efficient operation of dairy marke
 ### 71 Statement of principles
 The intention of this subpart is to promote the following principles:
   (a) independent processors must be able to obtain raw milk, and other dairy goods and services, necessary for them to compete in dairy markets:
-  (b) new co-op must accept applications by new entrants and shareholding farmers to supply it with milk, as shareholding farmers:
+  (b) new co-op must accept applications by shareholding farmers to supply it with milk:
   (c) new co-op must not discriminate between new entrants and shareholding farmers whose circumstances are the same:
   (d) shareholding farmers who withdraw from new co-op, and cease or reduce supply, must receive their capital in new co-op without unreasonable delay:
   (e) the amount per unit of milk production paid, at a time, to new co-op to become a shareholding farmer must be the same as the amount per unit of milk production received, at the same time, from new co-op by a shareholding farmer who withdraws from new co-op.
   (f)
 
 ### 72 Overview
-(1) Sections 73 to 85 describe the obligation of new co-op to accept applications from new entrants and shareholding farmers to supply milk, as shareholding farmers.
+(1) Sections 73 to 85 describe the obligations of new co-op if it accepts applications from new entrants and shareholding farmers to supply milk, as shareholding farmers.
 (2) Sections 86 to 93 describe circumstances when the commencement of supply of milk to new co-op may be deferred.
-(3) Sections 94 to 96 are exceptions to the obligation to accept applications.
+(3)
 (4) Sections 97 to 105 describe the right of shareholding farmers to cease or reduce the supply of milk to new co-op as shareholding farmers.
 (5) Sections 106 to 109 regulate the supply of milk to new co-op.
 (5A) Sections 109A to 109J provide for the disapplication of specified provisions in this subpart (being provisions that relate to the requirement for new co-op to issue and accept the surrender of co-operative shares) if there is in place a regime for trading co-operative shares on a licensed market and there is established a fund (the new co-op fund) the securities of which are quoted on a licensed market.
@@ -856,30 +858,26 @@ The intention of this subpart is to promote the following principles:
 (7) Sections 115 to 119 are regulatory powers concerning the supply of dairy goods or services, and the publication and supply of information.
 (8) Sections 120 to 133 empower the Commission to determine disputes arising under this subpart.
 (9) Section 134 provides for the imposition of a levy on new co-op to pay the costs of the Commission.
-(10) Sections 135 to 146—
-  (a) allocate responsibility for enforcing this subpart; and
-  (b) contain general provisions.
+(10) Sections 135 to 139 contain general provisions.
 (11) Sections 147 to 150 provide for reports on the operation of subparts 5 and 5A of Part 2.
 (11)
 (12)
 
-**New co-op must accept supply**
+**New co-op may accept supply**
 
-### 73 New co-op must accept application
-(1) New co-op must accept an application to become a shareholding farmer that is made by a new entrant in an application period.
-(2) New co-op must accept an application to increase the volume of milk supplied as a shareholding farmer to new co-op that is made by a shareholding farmer in an application period.
-(3) New co-op must notify the applicant, within 15 working days of receipt of the application,—
-  (a) of its acceptance of the application; or
-  (b) of its rejection of the application under section 94 or 95.
-(3A) Further provisions relating to the exceptions are in—
-  (a) section 94 (the first exception):
-  (b) section 95 (the second exception).
-(4) Sections 136 to 139 specify—
+### 73 New co-op’s obligations relating to applications by shareholding farmers and discretion to accept new entrants
+(1) New co-op must accept an application to increase the volume of milk supplied as a shareholding farmer to new co-op that is made by a shareholding farmer in an application period.
+(2) New co-op may, in its discretion, accept or decline an application made in an application period by a new entrant to supply milk to new co-op.
+(3) In exercising its discretion to accept or decline an application to become a shareholder, new co-op must have regard to—
+  (a) the effect of its decision on the ongoing viability of the farm to which the application relates, if new co-op had a supply agreement in respect of the farm at any time in the previous season; and
+  (b) the land-use opportunities available to the applicant.
+(4) New co-op must notify the applicant of its decision on the application within 15 working days of receipt of the application.
+(5) Sections 136 to 139 specify—
   (a) how an application may be given; and
   (b) when an application is made.
 
 ### 74 Commencement and terms of supply
-(1) If an application referred to in section 73 is made to new co-op in an application period, new co-op must accept the milk to which the application relates from the beginning of the season following that application period.
+(1) If new co-op accepts an application under section 73 made in an application period, new co-op must accept the milk to which the application relates from the beginning of the season following that application period.
 (2) Despite subsection (1), new co-op is not required to accept milk if the shareholding farmer fails to satisfy the applicable terms of supply.
 (3) New co-op may, in its discretion, accept an application made outside an application period from a dairy farmer, including a shareholding farmer, to supply milk as a shareholding farmer.
 
@@ -934,11 +932,11 @@ Section 77A first applies—
     (ii) for information required to be published by subsection (3), continuously throughout the season to which it applies.
 
 ### 81 Requirements applying to co-operative shares for applications in application period
-(1) The price of a co-operative share issued to a new entrant or a shareholding farmer in response to an application that new co-op is required by section 73 to accept is—
+(1) The price of a co-operative share issued to a new entrant or a shareholding farmer in response to an application that new co-op accepts under section 73 is—
   (a) the June price in the first season for the supply of milk to which the application relates if the new entrant or shareholding farmer elects to pay that price; or
   (b) the default price if that election is not made.
 (2) An election under subsection (1)﻿(a) must be made with the application from the new entrant or shareholding farmer.
-(3) The co-operative share standard that applies to a new entrant or a shareholding farmer who makes an application under section 73 that new co-op is required to accept is the co-operative share standard published at the beginning of the application period in which the application is made.
+(3) The co-operative share standard that applies to a new entrant or a shareholding farmer who makes an application under section 73 that new co-op accepts is the co-operative share standard published at the beginning of the application period in which the application is made.
 
 ### 82 Requirements applying to co-operative shares for applications outside application period
 (1) The price of a co-operative share issued to a new entrant or a shareholding farmer in response to an application to which section 74(3) applies is the June price in the first season for the supply of milk to which the application relates.
@@ -975,9 +973,9 @@ New co-op must not require payment from a new entrant or a shareholding farmer f
 (3) Sections 87 to 93 apply while a capacity constraint notice applies to a geographical area.
 
 ### 87 Effect of capacity constraint notice on supply
-(1) New co-op must defer, until the end of the period specified in the capacity constraint notice, the commencement of the supply of milk that is the subject of applications that new co-op is required to accept under section 73 in the area to which the capacity constraint notice applies.
+(1) New co-op must defer, until the end of the period specified in the capacity constraint notice, the commencement of the supply of milk that is the subject of applications that new co-op accepts under section 73 in the area to which the capacity constraint notice applies.
 (2) However, a subsequent capacity constraint notice is of no effect in relation to a supply of milk that has previously been deferred under subsection (1).
-(3) Despite subsection (1), new co-op may accept a supply of milk that is the subject of an application that new co-op is required to accept under section 73 earlier than the end of a period of deferral specified by new co-op under section 86(2).
+(3) Despite subsection (1), new co-op may accept a supply of milk that is the subject of an application that new co-op accepts under section 73 earlier than the end of a period of deferral specified by new co-op under section 86(2).
 (4) Offers to accept supply of milk under subsection (3) must be made in the same order that applications to supply the milk were received by new co-op.
 
 ### 88 Effect of capacity constraint notice on purchase of co-operative shares
@@ -1035,24 +1033,13 @@ New co-op must not require payment from a new entrant or a shareholding farmer f
 **Exceptions**
 
 ### 94 Minimal supply: first exception
-New co-op may reject an application by a new entrant or a shareholding farmer if the supply of milk solids obtainable from milk to be supplied by the applicant in a season is less than 10 000 kilograms.
+[Repealed]
 
 ### 95 Transport costs: second exception
-(1) New co-op may reject an application by a new entrant if the cost of transporting the milk of the new entrant exceeds the highest cost of transporting another shareholding farmer’s milk.
-(2) In subsection (1) and this subsection,—
-  - **cost of transporting the milk of the new entrant** is the lowest cost practically available to new co-op for transporting 1 000 litres of that milk to a factory
-  - **highest cost of transporting another shareholding farmer’s milk** is the highest cost incurred by new co-op of transporting 1 000 litres of milk to the same factory from any of the shareholding farmers whose milk is routinely transported to that factory in the season in which the application is made.
-(3) In subsection (2), factory means a facility operated by new co-op that—
-  (a) has a capacity to store at least 50 000 litres of milk; and
-  (b) has operated for more than 120 days in the season before the season in which the application is made.
-(4) New co-op must disclose the evidence on which it relies to reject an application, on demand, to—
-  (a) the new entrant whose application is rejected; and
-  (b) the Commission.
+[Repealed]
 
 ### 96 Order in Council may terminate second exception
-(1) The Governor-General may, by Order in Council made on the recommendation of the Minister, declare that section 95 does not apply to a geographical area specified in the order from a date specified in the order.
-(2) The Minister must not make a recommendation under subsection (1) unless the Minister is satisfied that new co-op pays shareholding farmers in the geographical area different amounts for milk based on the different costs of transporting that milk.
-(3) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+[Repealed]
 
 **New co-op must allow withdrawal**
 
@@ -1140,7 +1127,7 @@ New co-op must ensure that redeemable preference shares issued by it under secti
 (5) In its terms of supply, but subject to subsections (1) to (4), new co-op may provide for differential pricing for milk based on any matters specified in the terms of supply, including, but not limited to, matters that relate to animal welfare, food safety, health and safety, employment conditions, the environment, climate change, and sustainability.
 
 ### 107 Regulation of supply contracts for raw milk
-(1) New co-op must offer new entrants contracts for milk supply as shareholding farmers for 1 season.
+(1) If new co-op accepts applications from new entrants, it must offer them contracts for milk supply as shareholding farmers for 1 season.
 (2) New co-op may offer new entrants and shareholding farmers longer-term contracts for milk supply if new co-op complies with subsection (3).
 (3) New co-op must ensure that, at all times, 33% or a greater percentage of the milk solids produced within a 160 kilometre radius of any point in New Zealand—
   (a) is supplied under contracts with independent processors; or
@@ -1267,12 +1254,35 @@ For the purposes of section 109D(1)﻿(c), the notice given by new co-op to the 
 Sections 109L to 109N apply only while the specified subpart 5 provisions do not apply.
 
 ### 109L New co-op's obligations in relation to market in co-operative shares and to new co-op fund
-(1) New co-op must ensure that there are 1 or more market makers in co-operative shares operating during the periods of operation of the licensed market on which the co-operative shares are quoted.
+(1) New co-op must ensure that there are 1 or more market makers in co-operative shares who—
+  (a) are designated a market maker under the market rules of the licensed market on which the co-operative shares are quoted; and
+  (b) operate during the periods of operation of the licensed market on which the co-operative shares are quoted.
 (2) New co-op must ensure that the holders of new co-op fund securities have the following rights:
   (a) subject to section 161A(2), the right to appoint and remove the manager of the fund; and
   (b) the right to appoint and remove a majority of the board of the manager of the fund; and
   (c) the right to vote on resolutions proposed at general meetings of the fund; and
   (d) the right to pass a resolution for the liquidation of the fund.
+(3) In this section, market rules has the same meaning as in section 6(1) of the Financial Markets Conduct Act 2013.
+
+### 109LA New co-op must commission financial markets research and analysis about its performance
+(1) New co-op must commission, on an ongoing basis, financial markets research and analysis in respect of new co-op’s performance.
+(2) New co-op must ensure that the commissioned financial markets research and analysis—
+  (a) is free from bias and independent of new co-op; and
+  (b) provides credible analysis.
+(3) New co-op must make the commissioned financial markets research and analysis publicly accessible.
+
+### 109LB New co-op must keep list of financial markets research and analysis about its performance
+(1) New co-op must keep and maintain a list of financial markets research and analysis relating to new co-op’s performance.
+(2) New co-op must ensure that the list—
+  (a) reflects a diverse range of financial markets research and analysis of new co-op’s performance (to the extent that the research and analysis is readily available); and
+  (b) is regularly updated to maintain currency.
+(3) New co-op must make the list publicly accessible.
+(4) New co-op must ensure that the following are complied with in relation to each item of financial markets research and analysis on the list:
+  (a) the item is a credible analysis of new co-op’s performance; and
+  (b) the item is accompanied by information that describes the extent, if any, of new co-op’s involvement in the preparation of the item; and
+  (c) the item is available to be accessed; and
+  (d) the item is accompanied by information about how to access the item or a means of accessing the item.
+(5) New co-op may include in the list additional information that is not an item of analysis. Any additional information must be clearly identified in the list as additional information.
 
 ### 109M Restrictions on new co-op
 (1) Subsection (2) applies to conduct by new co-op that restricts, prevents, or deters—
@@ -1280,9 +1290,12 @@ Sections 109L to 109N apply only while the specified subpart 5 provisions do not
   (b) participation by shareholding farmers, new entrants, and market makers in co-operative shares in trading in co-operative shares or new co-op fund securities; or
   (c) the ability of shareholding farmers and new entrants to exchange co-operative shares for new co-op fund securities, and vice versa; or
   (d) the liquidity of the market for co-operative shares or for new co-op fund securities.
+(1A) Despite subsection (1)﻿(c) and (d), subsection (2) does not apply to conduct by new co-op that—
+  (a) restricts the exchange of co-operative shares for new co-op fund securities by setting a limit on the number of new co-op shares that may be exchanged for new co-op fund securities; or
+  (b) prevents the exchange of co-operative shares for new co-op fund securities when a limit referred to in paragraph (a) has been reached.
 (2) New co-op must not engage in any conduct to which this subsection applies for the purpose of restricting, preventing, or deterring—
-  (a) a new entrant from becoming a shareholding farmer pursuant to an application under section 73(1); or
-  (b) a shareholding farmer from increasing the volume of milk supplied to new co-op pursuant to an application under section 73(2); or
+  (a) a new entrant from becoming a shareholding farmer pursuant to an application under section 73(2); or
+  (b) a shareholding farmer from increasing the volume of milk supplied to new co-op pursuant to an application under section 73(1); or
   (c) a shareholder farmer from ceasing or reducing the supply of milk to new co-op pursuant to a notice of withdrawal under section 97(1).
 
 ### 109N Expiry of sections 109A to 109M
@@ -1386,7 +1399,11 @@ Sections 109A to 109M expire and are repealed,—
   (aa) fails, without reasonable excuse, to comply with a requirement to provide periodic returns or periodic forecasts specified in regulations made under section 115; or
   (a) fails, without reasonable excuse, to comply with any information disclosure requirements prescribed in regulations made under section 116; or
   (b) fails, without reasonable excuse, to comply with the requirements of section 117(1) and (3):
+  (c) fails, without reasonable excuse, to comply with the requirements of section 109LA; and
   (c)
+  (d) fails, without reasonable excuse, to comply with the requirements of section 109LB; and
+  (e) fails, without reasonable excuse, to comply with the requirements of section 135A:
+  (f) fails, without reasonable excuse, to comply with the requirements of a notice given under section 150ZF(2)﻿(a), (b), or (c).
 (2) Every person commits an offence against this section who makes a false declaration under section 117(4) in relation to any information, statement, or report supplied under section 117(1) or (3).
 (3) Every person who commits an offence against subsection (1) is liable on conviction to a fine not exceeding $200,000 and, if the offence is a continuing one, to a further fine not exceeding $10,000 for every day or part of a day during which the offence is continued.
 (4) Every person who commits an offence against subsection (2) is liable on conviction to a fine not exceeding $20,000.
@@ -1511,14 +1528,14 @@ The Commission may amend a determination to clarify it if—
 (3) The regulations may provide for the levy to apply, and be calculated in respect of, 1 or more financial years (with the levy being collected for each of those years from new co-op).
 (4) In calculating estimated costs for the purposes of subsection (2)﻿(a), the Commission—
   (a) may include—
-    (i) the cost of making determinations; and
+    (i) the cost of making determinations and directions; and
     (ii) the cost of enforcing this subpart or subpart 5A; and
-    (iii) the cost of enforcing determinations in the High Court; and
+    (iii) the cost of enforcing determinations and directions in the High Court; and
     (iv) over-recoveries or under-recoveries of actual costs; and
     (v) the cost of conducting reviews under subpart 5A; and
   (b) must exclude—
     (i) the cost of taking other proceedings in the High Court, or defending proceedings against the Commission in the High Court; and
-    (ii) the cost of investigations that are not related to complaints or determinations made under this subpart; and
+    (ii) the cost of investigations that are not related to complaints or determinations made under this subpart, or directions made under subpart 5A; and
     (iii) the cost of providing input for the reports under section 147 on the operation of subparts 5 and 5A; and
   (c) must calculate and deduct the total amount of application fees likely to be received.
 (5) The Minister must consult with new co-op and the Commission before making a recommendation under subsection (2).
@@ -1529,6 +1546,10 @@ The Commission may amend a determination to clarify it if—
 
 ### 135 Constitution of new co-op
 This subpart applies despite anything in the constitution of new co-op or the Companies Act 1993.
+
+### 135A Dividends and retentions policy
+(1) New co-op must keep and maintain a dividends and retentions policy.
+(2) New co-op must make the policy publicly accessible.
 
 ### 136 Making and giving applications or notices
 (1) Applications or notices made or given under sections 73 to 109 may be delivered, posted, or sent by facsimile or electronically.
@@ -1548,61 +1569,25 @@ An application or notice sent electronically is made or given at the time that t
 **Enforcement**
 
 ### 140 Jurisdiction of High Court
-The High Court may hear and determine the following matters:
-  (a) proceedings for recovering pecuniary penalties under section 141:
-  (b) applications for injunctions under section 142:
-  (c) actions for damages under section 143.
+[Repealed]
 
 ### 141 Pecuniary penalties
-(1) If the court is satisfied, on the application of the Commission, that a person has contravened this subpart or regulations made under section 115, the court may order the person to pay to the Crown a pecuniary penalty that the court determines to be appropriate.
-(2) The maximum amount of a pecuniary penalty under subsection (1) is the same as the amount that applies under section 80 of the Commerce Act 1986.
-(3) Despite section 145, section 79 of the Commerce Act 1986 does not apply to proceedings under this section.
+[Repealed]
 
 ### 142 Injunctions
-If the court is satisfied, on the application of the Commission or any other person, that a person has contravened this subpart or regulations made under section 115, the court may grant an injunction restraining a person from continuing the contravention.
+[Repealed]
 
 ### 143 Actions for damages
-(1) Every person is liable for damages for loss or damage caused by that person engaging in conduct that constitutes a contravention of this subpart or regulations made under section 115.
-(2) Sections 82 and 82A of the Commerce Act 1986 apply to actions for damages under this section.
+[Repealed]
 
 ### 144 Miscellaneous
-(1) In determining an appropriate penalty under section 141, the court must have regard to all relevant matters, including the following:
-  (a) the purpose and principles of this subpart, as expressed in sections 70 and 71:
-  (b) the nature and extent of the act or omission:
-  (c) the nature and extent of any loss or damage suffered by any person as a result of the act or omission:
-  (d) in the case of a body corporate, the nature and extent of any commercial gain resulting from the contravention:
-  (e) the circumstances in which the act or omission took place:
-  (f) whether or not the person has previously been found by the court in proceedings under this subpart to have engaged in similar conduct.
-(2) The standard of proof in proceedings under this subpart is the standard of proof that applies in civil proceedings.
-(3) In any proceedings under this subpart, the Commission, on the order of the court, may obtain discovery and administer interrogatories.
-(4) Proceedings under this subpart may be commenced within 3 years after the matter giving rise to the contravention arose.
-(5) If conduct by a person constitutes a contravention of 2 or more provisions of this subpart, proceedings may be instituted under this subpart against that person in relation to the contravention of 1 or more of the provisions, but no person is liable to more than 1 pecuniary penalty under this subpart for the same conduct.
+[Repealed]
 
 ### 145 Application of Commerce Act 1986 provisions
-The following provisions of the Commerce Act 1986 apply with all necessary modifications:
-  (a) sections 15 to 17 (proceedings of the Commission):
-  (aa) sections 74A to 74C (provisions relating to undertakings):
-  (b) sections 77 and 78 (lay members):
-  (c) section 79 (evidence not otherwise admissible):
-  (d) section 88 (general provisions relating to granting of injunctions):
-  (e) section 88A (when undertakings as to damages not required):
-  (f) section 89 (other orders):
-  (g) section 90 (conduct by servants or agents):
-  (h) section 98 (Commission may require person to supply information or documents or give evidence):
-  (i) section 98A (power to search):
-  (j) section 98G (relating to warrants, etc):
-  (k) section 99 (powers of Commission to take evidence):
-  (l) section 100 (powers of Commission to prohibit disclosure of information, documents, and evidence):
-  (la) section 100A (stating case for High Court):
-  (m) sections 101 and 102 (notices):
-  (n) section 103 (offences):
-  (o) section 104 (determinations of Commission):
-  (p) section 106 (proceedings privileged):
-  (q) section 106A (judicial notice):
-  (r) section 109 (Commission may prescribe forms).
+[Repealed]
 
 ### 146 Additional proceedings
-Proceedings brought under this Part are in addition to any proceedings brought under any other Act.
+[Repealed]
 
 **Regular reports on operation of subparts 5 and 5A**
 
@@ -1619,7 +1604,7 @@ Proceedings brought under this Part are in addition to any proceedings brought u
 
 ### 148 Commission input
 (1) The Minister may, in consultation with the Minister responsible for the Commerce Act 1986, require the Commission to provide input for a regular report under section 147.
-(2) In providing any input to the report as required by the Minister, the Commission may exercise the powers specified in section 145.
+(2) In providing any input to the report as required by the Minister, the Commission may exercise the powers specified in section 150ZF.
 
 ### 149 Terms of reference for report to be published
 (1) The terms of reference for a report under section 147 may provide for any matter that relates to whether subparts 5 and 5A should be retained, repealed, or amended that the Minister considers appropriate.
@@ -1703,7 +1688,7 @@ Proceedings brought under this Part are in addition to any proceedings brought u
 (1) New co-op must establish and maintain a committee known as the Milk Price Panel (the panel).
 (2) New co-op must set the terms of reference for the panel, which must include the functions set out in subsections (3) and (4), and the panel must act in accordance with those terms of reference.
 (3) The panel must, for each season,—
-  (a) supervise the calculation of the base milk price; and
+  (a) supervise the calculation of the base milk price carried out by the person or persons engaged under section 150EA; and
   (b) advise new co-op as necessary on the application of the milk price manual; and
   (c) recommend to new co-op the base milk price.
 (4) The panel may, as it considers necessary or desirable, make recommendations to new co-op in respect of the milk price manual, including a recommendation that it should be amended and a recommendation that a proposed amendment should not be made.
@@ -1711,10 +1696,46 @@ Proceedings brought under this Part are in addition to any proceedings brought u
 (6) If new co-op contravenes subsection (1), (2), or (5), it commits an offence and is liable on conviction to a fine not exceeding $200,000 and a fine of $10,000 for each day that the offence continues.
 
 ### 150E Appointment of members of panel
-(1) New co-op must appoint the members of the panel and must appoint one of the members as the chair.
-(1A) New co-op must appoint 1 member of the panel who is nominated by the Minister, and the appointment must be on the same terms and conditions that apply to members appointed under subsection (1).
+(1) New co-op must appoint—
+  (a) 2 members nominated by the Minister to the panel; and
+  (b) a chair of the panel nominated by new co-op who has been approved by the Minister; and
+  (c) 2, 3, or 4 more members to the panel; and
+  (d) an additional member nominated by the Minister if the chair is a member nominated by the Minister.
+(1A) Members appointed on the nomination of the Minister must be appointed on the same terms and conditions as other members appointed by new co-op to the panel.
 (2) New co-op must ensure that at all times the chair and a majority of the members (including the chair) are independent.
-(3) If, without reasonable excuse, new co-op contravenes subsection (1A) or (2), it commits an offence and is liable on conviction to a fine not exceeding $200,000 and a fine of $10,000 for each day that the offence continues.
+(2A) New co-op must ensure at all times that the chair does not have a meaningful association with new co-op or with a shareholding farmer, for example, the chair must not be—
+  (a) a sitting director of new co-op, a member of new co-op’s Co-operative Council, or a current panel member appointed by that council; or
+  (b) a relative of a person described in paragraph (a); or
+  (c) an associated person or an employee of a person described in paragraph (a).
+(2B) The obligation in subsection (2A)—
+  (a) is in addition to the obligation in subsection (2); and
+  (b) applies regardless of how a position or relationship referred to in subsection (2A)﻿(a) to (c) is described in new co-op’s constitution or any other document.
+(3) If, without reasonable excuse, new co-op contravenes subsection (1), (1A), (2), or (2A), it commits an offence and is liable on conviction to a fine not exceeding $200,000 and a fine of $10,000 for each day that the offence continues.
+
+### 150EA Calculation of base milk price
+(1) New co-op must engage 1 or more persons to calculate a base milk price that will enable the panel to perform its function under section 150D(3).
+(2) New co-op must ensure that a person—
+  (a) is engaged to provide the service for a term of no more than 6 consecutive seasons; and
+  (b) is not re-engaged to provide the service until at least 4 seasons have passed since the end of their previous term.
+(3) New co-op must ensure that a person it engages to provide the service—
+  (a) is independent of new co-op; and
+  (b) operates at arm’s length in relation to new co-op when providing the service.
+(4) The requirements in subsection (2) apply, in respect of a person that is an entity, to the entity and its key personnel.
+(5) In this section,—
+  - **arm’s length** includes, without limiting the ordinary meaning of the expression, having relationships, dealings, and transactions that—
+    (a) do not include elements that parties in their respective positions would usually omit, if the parties were—
+      (i) connected or related only by the transaction or dealing in question; and
+      (ii) acting independently; and
+      (iii) each acting in their own best interests; and
+    (b) do not omit elements that parties in their respective positions would usually include, if the parties were—
+      (i) connected or related only by the transaction or dealing in question; and
+      (ii) acting independently; and
+      (iii) each acting in their own best interests
+  - **key personnel** , in respect of an entity, means—
+    (a) a director, partner, trustee, or senior manager of the entity who has a role in providing the service; and
+    (b) senior personnel engaged by the entity for the purpose of providing the service
+  - **service** means the calculation of the base milk price described in subsection (1).
+(6) If, without reasonable excuse, new co-op contravenes subsection (1), (2), or (3), it commits an offence and is liable on conviction to a fine not exceeding $200,000 and a fine of $10,000 for each day that the offence continues.
 
 **Milk price manual**
 
@@ -1754,6 +1775,13 @@ The Commission must, for each season, review the milk price manual and make a re
 ### 150J Commission must make final report publicly available
 The Commission must finalise its report under section 150I and make it publicly available by 15 December in the season to which the milk price manual relates.
 
+### 150JA Milk price manual review information to be published
+(1) New co-op must make all non-sensitive information publicly accessible within 20 working days after the date on which the Commission makes its final report publicly available under section 150J.
+(2) In this section, non-sensitive information means information that has been requested by or provided to the Commission in relation to the review of the milk price manual and that new co-op reasonably considers is not—
+  (a) commercially sensitive; or
+  (b) subject to legal professional privilege; or
+  (c) personal information.
+
 **Procedure for Commission's review of milk price manual**
 
 ### 150K Procedure for review of milk price manual
@@ -1767,7 +1795,7 @@ The Commission must finalise its report under section 150I and make it publicly 
 ### 150L New co-op must provide Commission with milk price manual and other information
 New co-op must, not later than 1 August in each year,—
   (a) provide the Commission with the milk price manual for the current season; and
-  (b) provide the Commission with any recommendations by the panel in relation to the setting of the base milk price; and
+  (b) provide the Commission with any recommendations by the panel in relation to the milk price manual; and
   (c) notify the Commission of any change in the economic and business environment that, in new co-op's view, requires a change to the milk price manual; and
   (d) certify to the Commission the extent to which new co-op considers that the milk price manual is consistent with the purpose of this subpart (see section 150A); and
   (e) provide the Commission with reasons for the view expressed in new co-op's certificate given under paragraph (d).
@@ -1809,6 +1837,13 @@ New co-op must, not later than 1 August in each year,—
 ### 150Q Commission must make final report publicly available
 The Commission must finalise its report under section 150P and make it publicly available by 15 September following the season to which it relates.
 
+### 150QA Base milk price calculation review information to be published
+(1) New co-op must make all non-sensitive information publicly accessible within 20 working days after the date on which the Commission makes its final report publicly available under section 150Q.
+(2) In this section, non-sensitive information means information that has been requested by or provided to the Commission in relation to the review of the calculation of the base milk price and that new co-op reasonably considers is not—
+  (a) commercially sensitive; or
+  (b) subject to legal professional privilege; or
+  (c) personal information.
+
 ### 150R Steps new co-op must take if base milk price changed after Commission report
 (1) This section applies if, after the Commission has made its report under section 150P publicly available, new co-op changes the base milk price for the season to which the report relates.
 (2) New co-op must without delay make publicly available—
@@ -1827,10 +1862,11 @@ The Commission must finalise its report under section 150P and make it publicly 
   (b) the procedure set out in sections 150T and 150U applies to the extent that anything that is required to be done by new co-op under those sections remains still to be done.
 
 ### 150T New co-op must provide Commission with certain information
-New co-op must, not later than 15 June in each year,—
+(1) New co-op must, not later than 15 June in each year,—
   (a) provide the Commission with the assumptions adopted and the inputs and process used by new co-op in calculating the base milk price for the preceding season; and
   (b) certify to the Commission the extent to which, in new co-op's view, the assumptions adopted and the inputs and process used by new co-op in calculating the proposed base milk price are consistent with the purpose of this subpart (see section 150A); and
   (c) provide the Commission with reasons for the view expressed in new co-op's certificate given under paragraph (b).
+(2) New co-op must, no later than 5 working days before 15 September in each year, provide to the Commission the panel recommendations described in section 150D(3)﻿(c) in relation to the setting of the base milk price.
 
 ### 150U Draft Commission report
 (1) No later than 1 August following the season to which the report under section 150P relates, the Commission must provide new co-op with a draft of its report.
@@ -1838,17 +1874,154 @@ New co-op must, not later than 15 June in each year,—
   (a) make a submission to the Commission on the draft report; or
   (b) notify the Commission that it does not wish to make a submission.
 
+**Directions relating to Commission reviews**
+
+### 150UA Commission may give directions in relation to reviews
+(1) The Commission may, by notice, direct new co-op to do 1 or more of the following in the manner specified in the notice:
+  (a) take any action in relation to a matter referred to in any of the following reports:
+    (i) a report made under section 150I:
+    (ii) a report made under section 150P:
+  (b) publish any information requested by or provided to the Commission as part of a review under section 150H or 150O (whether or not the information is actually provided to the Commission).
+(2) A direction must state—
+  (a) the date by which, or period within which, the direction must be complied with; and
+  (b) the reasons for which it is given.
+(3) New co-op must comply with a direction given under this section.
+
+### 150UB Criteria for giving directions
+(1) The Commission may only give a direction that is consistent with the purpose set out in section 150A.
+(2) A direction under section 150UA(1)﻿(b) is consistent with the purpose set out in section 150A for the purpose of subsection (1).
+(3) A direction under section 150UA(1)﻿(b) to publish information applies despite sections 150JA and 150QA if the Commission is satisfied that the information is not—
+  (a) commercially sensitive; or
+  (b) subject to legal professional privilege; or
+  (c) personal information.
+
+### 150UC Process for giving directions
+(1) Before giving a direction (the proposed direction), the Commission must—
+  (a) make the proposed direction and the reasons for the proposed direction publicly available; and
+  (b) consult new co-op about the proposed direction (including the Commission’s reasons for giving the proposed direction); and
+  (c) have regard to any submissions or evidence provided by the persons consulted.
+(2) If the Commission gives a direction, it must provide the direction to new co-op.
+(3) After providing the direction to new co-op, the Commission must make the direction, and the Commission’s reasons for giving the direction, publicly available.
+
+### 150UD Amendment and revocation of directions
+(1) The Commission may amend or revoke a direction—
+  (a) on its own initiative; or
+  (b) at the request of new co-op, if the Commission is satisfied that new co-op has provided the Commission with evidence of reasonable grounds to amend or revoke the direction.
+(2) A direction may be amended or revoked in the same way in which it may be made, except that section 150UC(1) does not apply to an amendment of a direction if the Commission is satisfied that the amendment is only correcting a minor error or is otherwise of a minor nature.
+
 **Application of Commerce Act 1986**
 
 ### 150V Application of Commerce Act 1986 to review by Commission under this subpart
-(1) The following provisions of the Commerce Act 1986 apply, with all necessary modifications, to a review by the Commission under this subpart as if the review were an investigation by the Commission of a contravention of that Act:
-  (a) sections 15 to 17:
-  (b) sections 98 to 98G:
-  (c) section 99:
-  (d) sections 100 to 103:
-  (e) section 106:
-  (f) section 109.
-(2) For the purpose of carrying out its functions and exercising its powers under this subpart, the Commission may, in addition to exercising its powers under section 98 of the Commerce Act 1986, by notice in writing, require new co-op, at the time and place specified in the notice, to produce or supply to the Commission an expert opinion from an appropriately qualified person, or from a member of a class of appropriately qualified persons, as determined by the Commission in relation to any matter specified by the Commission.
+[Repealed]
+
+### Subpart 5B — Enforcement
+
+### 150W Jurisdiction of High Court
+The High Court may hear and determine the following matters:
+  (a) applications for orders under section 150Y:
+  (b) proceedings for recovering pecuniary penalties under section 150Z:
+  (c) applications for injunctions under section 150ZC:
+  (d) actions for damages under section 150ZD.
+
+### 150X Meaning of relevant provision
+In this subpart, relevant provision means subpart 5 or 5A or regulations made under section 115.
+
+### 150Y Court may order new co-op to comply with direction
+The court may, on application by the Commission, order new co-op to comply with a direction given under section 150UA by a specified date or within a specified period.
+
+### 150Z Pecuniary penalties
+(1) The court may, on application by the Commission, order a person to pay to the Crown a pecuniary penalty if satisfied that the person—
+  (a) has contravened a relevant provision; or
+  (b) has been involved in a contravention of a relevant provision.
+(2) The maximum amount of a pecuniary penalty under subsection (1) is,—
+  (a) for contravention of section 150UA or 150Y, $500,000 in respect of each act or omission; and
+  (b) for any other contravention, the same as the amount that applies under section 80 of the Commerce Act 1986.
+(3) Despite section 150ZF, section 79 of the Commerce Act 1986 does not apply to proceedings under this section.
+(4) In this section and section 150ZB, a person is involved in a contravention of a relevant provision if the person—
+  (a) has attempted to contravene the provision; or
+  (b) has aided, abetted, counselled, or procured any other person to contravene the provision; or
+  (c) has induced, or attempted to induce, any other person, whether by threats or promises or otherwise, to contravene the provision; or
+  (d) has been in any way, directly or indirectly, knowingly concerned in, or party to, the contravention by any other person of the provision; or
+  (e) has conspired with any other person to contravene the provision.
+
+### 150ZA Defences for person in contravention of relevant provision
+(1) In any proceeding under section 150Z against a person (A) for a contravention of a relevant provision, it is a defence if A proves that—
+  (a) A’s contravention was due to reasonable reliance on information supplied by another person; or
+  (b) both of the following apply:
+    (i) A’s contravention was due to the act or default of another person, or to an accident or to some other cause beyond A’s control; and
+    (ii) A took reasonable precautions and exercised due diligence to avoid the contravention.
+(2) For the purposes of subsection (1)﻿(a) and (b)﻿(i), another person does not include a director, an employee, or an agent of A.
+
+### 150ZB Defences for person involved in contravention of relevant provision
+(1) This section applies if—
+  (a) a person (A) contravenes a relevant provision; and
+  (b) another person (B) is involved in the contravention.
+(2) In any proceeding under section 150Z against B for involvement in the contravention of a relevant provision, it is a defence if B proves that—
+  (a) B’s involvement in the contravention was due to reasonable reliance on information supplied by another person; or
+  (b) B took all reasonable steps to ensure that A complied with the provision.
+(3) For the purposes of subsection (2)﻿(a), another person does not include a director, an employee, or an agent of B.
+
+### 150ZC Injunctions
+(1) If the court is satisfied, on application under subsection (2), that a person has contravened a relevant provision, the court may grant an injunction restraining a person from continuing the contravention.
+(2) An application may be made by—
+  (a) the Commission, if the application relates to the contravention of any relevant provision:
+  (b) any other person, if the application relates to the contravention of subpart 5 or regulations made under section 115.
+
+### 150ZD Actions for damages
+(1) Every person (other than the Commerce Commission) is liable for damages for loss or damage caused by that person engaging in conduct that constitutes a contravention of subpart 5 or regulations made under section 115.
+(2) Sections 82(1) and 82A of the Commerce Act 1986 apply to actions for damages under this section.
+
+### 150ZE Miscellaneous
+(1) In determining an appropriate penalty under section 150Z, the court must have regard to all relevant matters, including the following:
+  (a) for a contravention of subpart 5 or regulations made under section 115, the purpose and principles of subpart 5, as expressed in sections 70 and 71; and
+  (b) for a contravention of subpart 5A, the purpose of subpart 5A, as expressed in section 150A; and
+  (c) the nature and extent of the contravention; and
+  (d) the nature and extent of any loss or damage suffered by any person because of the contravention; and
+  (e) any gains made or losses avoided by the person in contravention; and
+  (f) whether the person in contravention has paid an amount in compensation or taken other steps for reparation or restitution; and
+  (g) the circumstances in which the contravention or other act or omission took place (including whether it was intentional, inadvertent, or caused by negligence); and
+  (h) any previous contraventions of a similar nature; and
+  (i) any other relevant matter.
+(2) The standard of proof in proceedings under this subpart is the standard of proof that applies in civil proceedings.
+(3) In any proceedings under this subpart, the Commission, on the order of the court, may obtain discovery and administer interrogatories.
+(4) Proceedings under this subpart may be commenced within 3 years after the matter giving rise to the contravention arose.
+(5) If conduct by a person constitutes a contravention of 2 or more provisions of subpart 5 or 5A, proceedings may be instituted under this subpart against that person in relation to the contravention of 1 or more of the provisions, but no person is liable to more than 1 pecuniary penalty under this subpart for the same conduct.
+
+### 150ZF Application of Commerce Act 1986 provisions
+(1) The following provisions of the Commerce Act 1986 apply in respect of this subpart and subparts 5 and 5A with all necessary modifications:
+  (a) sections 15 to 17 (proceedings of the Commission):
+  (b) sections 74A to 74C (provisions relating to undertakings):
+  (c) sections 77 and 78 (lay members):
+  (d) section 79 (evidence not otherwise admissible):
+  (e) section 88 (general provisions relating to granting of injunctions):
+  (f) section 88A (when undertakings as to damages not required):
+  (g) section 89 (other orders):
+  (h) section 90 (conduct by employees or agents):
+  (i) section 98 (Commission may require person to supply information or documents or give evidence):
+  (j) section 98A (power to search):
+  (k) section 98G (relating to warrants, etc):
+  (l) section 99 (powers of Commission to take evidence):
+  (m) section 100 (powers of Commission to prohibit disclosure of information, documents, and evidence):
+  (n) section 100A (stating case for High Court):
+  (o) sections 101 and 102 (notices):
+  (p) section 103 (offences):
+  (q) section 104 (determinations of Commission):
+  (r) section 106 (proceedings privileged):
+  (s) section 106A (judicial notice):
+  (t) section 109 (Commission may prescribe forms).
+(2) For the purpose of carrying out its functions and exercising its powers under a relevant provision, the Commission may, in addition to exercising its powers under section 98 of the Commerce Act 1986, by notice in writing, require new co-op—
+  (a) to do either or both of the following, at the time and place specified in the notice, if the Commission has reason to believe new co-op may have information relevant for that purpose:
+    (i) prepare and produce, or supply to the Commission, documents and information in relation to any matter specified in the notice:
+    (ii) answer any questions in relation to any matter specified in the notice; and
+  (b) to have prepared and to produce, or to supply to the Commission, at the time and place specified in the notice, an expert opinion from an appropriately qualified person, or from a member of a class of appropriately qualified persons, as determined by the Commission in relation to any matter specified in the notice; and
+  (c) to provide any or all of the following:
+    (i) a written statement that states whether or not new co-op has complied with relevant provisions:
+    (ii) a report on the written statement referred to in subparagraph (i) that is signed by an auditor in accordance with any form specified by the Commission:
+    (iii) sufficient information to enable the Commission to properly determine whether relevant provisions have been complied with:
+    (iv) a certificate, in the form specified by the Commission and signed by at least 1 director of new co-op, confirming the truth and accuracy of any information provided under this section.
+
+### 150ZG Additional proceedings
+Proceedings brought under this Part are in addition to any proceedings brought under any other Act.
 
 ### Subpart 6 — Taxation
 
@@ -2116,8 +2289,17 @@ Regulations made under section 134 (as replaced by section 32 of the Dairy Indus
 ### 5 Effect of changes to open entry provisions on existing shareholding farmers
 (1) The commencement of section 73 (as enacted by section 24 of the Dairy Industry Restructuring Amendment Act 2020) does not affect the ability of the Commission to receive and determine applications in respect of conduct before that commencement, or the ability of a party to a determination or the Commission to enforce a determination, and sections 120 to 133 have effect for that purpose.
 (2) An application under section 120 may not be made later than 1 year after that commencement.
-(3) The commencement of section 73 (as so enacted) does not affect the liability of a person for a contravention of subpart 5 or regulations made under this Act committed before that commencement, and sections 140 to 146 have effect for that purpose.
+(3) The commencement of section 73 (as so enacted) does not affect the liability of a person for a contravention of subpart 5 or regulations made under this Act committed before that commencement, and sections 150W to 150ZG have effect for that purpose.
 (4) Proceedings for a contravention described in subclause (3) may be taken as if section 73 (as so enacted) had not been enacted.
+
+### Part 2 — Provisions relating to Dairy Industry Restructuring (Fonterra Capital Restructuring) Amendment Act 2022
+
+### 6 Interpretation
+In this Part, commencement date means the date on which section 28 of the Dairy Industry Restructuring (Fonterra Capital Restructuring) Amendment Act 2022 comes into force.
+
+### 7 Calculation of base milk price
+(1) A person that, immediately before the commencement date, was engaged by new co-op to calculate a base milk price is a person engaged by new co-op under section 150EA(1) if the person meets the requirements in section 150EA(3).
+(2) Despite section 150EA(2)﻿(a), the maximum term of engagement for a person referred to in subclause (1) is 2 consecutive seasons starting on the day after the commencement date.
 
 ## Schedule 1 — Specified provisions of new co-op constitution
 
