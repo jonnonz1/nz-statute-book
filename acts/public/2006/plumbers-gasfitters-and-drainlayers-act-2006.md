@@ -1,5 +1,5 @@
 # Plumbers, Gasfitters, and Drainlayers Act 2006
-_Consolidation as at 2021-10-28_
+_Consolidation as at 2023-06-07_
 
 ### 1 Title
 This Act is the Plumbers, Gasfitters, and Drainlayers Act 2006.
@@ -1699,11 +1699,56 @@ Subject to any order of the court, every decision, direction, or order of the Bo
     (ii) in the case of a body corporate, must not exceed $3,000:
   (k) prescribing information to be included in infringement notices and reminder notices:
   (l) prescribing transitional or savings provisions relating to the coming into force of this Act:
-  (m) providing for any other matters contemplated by this Act, necessary for its administration, or necessary for giving it full effect.
-(2) Any regulation made under subsection (1) may make different provisions in respect of different classes of persons.
+  (m) providing for anything incidental that is necessary for carrying out, or giving full effect to, this Act.
+(1A) The Governor-General may, by Order in Council made on the recommendation of the Minister, make regulations providing for anything that Part 2A of this Act says may or must be provided for by regulations.
+(2) Any regulation made under subsection (1) or (1A) may make different provisions in respect of different classes of persons.
 (3) Any transitional or savings provisions prescribed in regulations made under subsection (1)﻿(l) are in addition to the provisions of sections 173 to 184.
 (4) All regulations made under subsection (1)﻿(l) that are still in force on the day that is 3 years after the commencement of this section expire at the close of that day.
 (5) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+
+### 172A Regulations relating to fees and charges for appointment as self-containment certification authority
+(1) The Governor-General may, by Order in Council made on the recommendation of the Minister, make regulations for either or both of the following purposes:
+  (a) requiring the payment to the Board of fees and charges on an application to the Board to be appointed as a self-containment certification authority:
+  (b) prescribing the amounts of those fees and charges or the manner in which those fees and charges are to be calculated.
+(2) Regulations made under subsection (1) may authorise the Board to refund or waive, in whole or in part and on any conditions that may be prescribed, payment of any fee or charge payable in relation to any person or class of persons.
+(3) Any fee, charge, or cost payable to the Board is recoverable by the Board in any court of competent jurisdiction as a debt due to the Board.
+(4) Regulations made under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+(5) If the regulations authorise the Board under subsection (2) to grant a refund or waiver,—
+  (a) an instrument granting a refund or waiver is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements) unless it applies only to 1 or more named persons; and
+  (b) the regulations must contain a statement to that effect.
+
+### 172B Levy of owners of motor vehicles with certificate of self-containment
+(1) The following persons must pay to the Crown, or a prescribed person on behalf of the Crown, a levy prescribed by regulations:
+  (a) a person applying under section 87U(1) for a certificate of self-containment for a motor vehicle:
+  (b) a person applying under section 87V(1) for a renewal of a certificate of self-containment for a motor vehicle.
+(2) The Governor-General may, by Order in Council made on the recommendation of the Minister, make regulations providing for the levies.
+(3) Levies must be prescribed on the basis that the following costs should be met fully out of the levies:
+  (a) the costs of the Board in performing or exercising those of its functions, powers, and duties under this Act and any other enactment that relate to the regulation of self-contained motor vehicles; and
+  (b) the costs of collecting the levy money.
+(4) Levies may be prescribed on the basis that any actual cost that could have been, but has not been, recovered as a levy shortfall for a year may be recovered (along with any financing charge) over any period of up to 5 years.
+(5) The regulations may—
+  (a) specify the amount of levies, or method of calculating or ascertaining the amount of levies:
+  (b) include in levies, or provide for the inclusion in levies of, any shortfall in recovering the actual costs:
+  (c) refund, or provide for refunds of, any over-recovery of the actual costs:
+  (d) provide for the payment and collection of levies:
+  (e) specify the financial year or part financial year to which a levy applies, and apply that levy to that financial year or part financial year and each subsequent financial year until the levy is revoked or replaced:
+  (f) for the first financial year to which a levy applies, include in a levy amount or method the costs of the Board in establishing its functions under section 137(k)﻿(ii), (na), (oa), and (p)﻿(ii):
+  (g) require payment of a levy for a financial year or part financial year, irrespective of the fact that the regulations may be made after that financial year has commenced:
+  (h) provide for waivers or refunds of the whole or any part of a levy for any case or class of cases.
+(6) The amount of any unpaid levy is recoverable in any court of competent jurisdiction as a debt due to the Board, or to any other person prescribed for the purposes of this subsection, on behalf of the Crown.
+(7) The Board, or any other person prescribed for the purposes of this subsection, must ensure that—
+  (a) each levy payment is paid into a Crown Bank Account and is separately accounted for; or
+  (b) by the 20th day of the month after the month in which the Board or other person receives a levy payment, the levy payment is paid into a Crown Bank Account.
+(8) Regulations made under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+(9) If regulations authorise a person to grant waivers or refunds referred to in subsection (5)﻿(h),—
+  (a) an instrument granting a waiver or refund is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements), unless it applies only to 1 or more named persons; and
+  (b) the regulations must contain a statement to that effect.
+
+### 172C Requirements before making certain regulations
+(1) The Minister may recommend the making of regulations under section 172(1A) only if the Minister—
+  (a) has consulted persons that the Minister considers are likely to be significantly affected by the regulations or persons that the Minister considers to be representatives of those persons; and
+  (b) is satisfied that the regulations facilitate the management of the adverse effects of freedom camping on the natural environment.
+(2) The Minister may recommend the making of regulations under section 172A(1) or 172B(2) only if the Minister has consulted persons that the Minister considers are likely to be significantly affected by the regulations or persons that the Minister considers to be representatives of those persons.
 
 **Transitional provisions**
 
