@@ -1,5 +1,5 @@
 # Family Court Act 1980
-_Consolidation as at 2021-10-28_
+_Consolidation as at 2023-06-07_
 
 > Title
 
@@ -49,6 +49,42 @@ The District Court has a division known as the Family Court.
   (a) the Principal Family Court Judge is absent for any reason; or
   (b) the office of the Principal Family Court Judge is vacant.
 (2) The Governor-General may at any time during the illness or absence of any Family Court Judge, or for any other temporary purpose, by warrant under his hand, appoint 1 or more District Court Judges (including any Judge appointed under section 31 of the District Court Act 2016) to be a Family Court Judge or Family Court Judges to hold office for such time as is specified in the warrant.
+
+### 7A Appointment of Family Court Associates
+(1) The Governor-General may, on the recommendation of the Attorney-General, appoint 1 or more Family Court Associates.
+(2) The Governor-General appoints a Family Court Associate by a signed warrant of appointment.
+(3) A Family Court Associate may be appointed on a part-time or full-time basis.
+(4) A person may be appointed a Family Court Associate if the person—
+  (a) has, for at least 7 years, held a New Zealand practising certificate as a barrister or as a barrister and solicitor; and
+  (b) is, by reason of their training, experience, and personality a suitable person to hold the office of Family Court Associate.
+
+### 7B Term of appointment of Family Court Associates
+A Family Court Associate is appointed for a term of not more than 7 years and may be reappointed for 1 or more further terms.
+
+### 7E Remuneration of Family Court Associates
+(1) A Family Court Associate must be paid, out of public money and without further appropriation than this section,—
+  (a) a salary, a fee, or an allowance at the rate determined by the Remuneration Authority; and
+  (b) any additional allowances, (including travelling allowances and expenses) in accordance with the Fees and Travelling Allowances Act 1951.
+(2) Expenses may be incurred, without further appropriation than this section, to meet the salaries, fees, or allowances determined under subsection (1)﻿(a).
+(3) For the purposes of subsection (1)﻿(b), the Fees and Travelling Allowances Act 1951 applies as if a Family Court Associate were a member of a statutory Board as defined in section 2 of that Act.
+
+### 7F Remuneration of Family Court Associates must not be reduced
+The remuneration payable to a Family Court Associate must not be reduced while the Family Court Associate holds office.
+
+### 7G Restrictions on Family Court Associates
+A Family Court Associate must not—
+  (a) hold any office or engage in any employment or occupation that will, in the opinion of the Governor-General, impair the proper discharge of the functions of a Family Court Associate; or
+  (b) practise as a lawyer; or
+  (c) be employed by the Ministry of Justice or the Department of Corrections.
+
+### 7I Resignation of Family Court Associates
+A Family Court Associate may at any time resign by written notice to the Attorney-General.
+
+### 7J Removal of Family Court Associates
+(1) The Governor-General may, on the advice of the Attorney-General, remove a Family Court Associate from office for inability or misbehaviour.
+(2) Subsection (1) is subject to sections 33(2) and 34 of the Judicial Conduct Commissioner and Judicial Conduct Panel Act 2004, which prevent removal unless—
+  (a) a Judicial Conduct Panel has reported to the Attorney-General that it is of the opinion that consideration of the removal of the Family Court Associate is justified; or
+  (b) the Family Court Associate has been convicted of a criminal offence punishable by imprisonment for 2 or more years and the Attorney-General takes steps independently of that Act to initiate the removal of the Family Court Associate.
 
 ### 8 Counselling supervisors, counsellors, and other officers
 (1) There shall from time to time be appointed under the Public Service Act 2020, as an officer of the Ministry of Justice, a person whose principal responsibility shall be to perform such duties as the chief executive of the Ministry of Justice may direct to facilitate the proper functioning of the Family Court and of counselling and related services.
