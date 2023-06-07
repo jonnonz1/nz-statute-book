@@ -1,5 +1,5 @@
 # Accident Compensation Act 2001
-_Consolidation as at 2022-10-30_
+_Consolidation as at 2023-06-07_
 
 ### 1 Title
 This Act is the Accident Compensation Act 2001.
@@ -15,6 +15,7 @@ This Act is the Accident Compensation Act 2001.
 The purpose of this Act is to enhance the public good and reinforce the social contract represented by the first accident compensation scheme by providing for a fair and sustainable scheme for managing personal injury that has, as its overriding goals, minimising both the overall incidence of injury in the community, and the impact of injury on the community (including economic, social, and personal costs), through—
   (a) establishing as a primary function of the Corporation the promotion of measures to reduce the incidence and severity of personal injury:
   (b) providing for a framework for the collection, co-ordination, and analysis of injury-related information:
+  (ba) ensuring that the Corporation monitors access to the accident compensation scheme by Māori and identified population groups in order to deliver services under this Act in a manner that supports access to the scheme by injured Māori and injured persons in those population groups:
   (c) ensuring that, where injuries occur, the Corporation's primary focus should be on rehabilitation with the goal of achieving an appropriate quality of life through the provision of entitlements that restores to the maximum practicable extent a claimant's health, independence, and participation:
   (d) ensuring that, during their rehabilitation, claimants receive fair compensation for loss from injury, including fair determination of weekly compensation and, where appropriate, lump sums for permanent impairment:
   (e) ensuring positive claimant interactions with the Corporation through the development and operation of a Code of ACC Claimants' Rights:
@@ -127,6 +128,7 @@ The transitional, savings, and related provisions set out in Schedule 1AA have e
   - **health practitioner** —
     (a) means a person who is, or is deemed to be, registered with an authority established or continued by section 114 of the Health Practitioners Competence Assurance Act 2003 as a practitioner of a particular health profession; but
     (b) in relation to that health profession and to any purpose stated in a relevant notice under section 322A, does not include a person who, for that purpose, is declared not to be a health practitioner
+  - **identified population group** means a population group identified by the Corporation as appropriate for the purposes of a report under section 278B
   - **impairment** , unless otherwise defined in regulations made under section 322, means a loss, loss of use, or derangement of any body part, organ system, or organ function
   - **incapacity** ,—
     (a) for the purposes of determining incapacity, means incapacity determined under section 103 or section 105, as the case may require; and
@@ -2907,6 +2909,7 @@ Except as otherwise specified in this Act or as required by virtue of any delega
 (1) The functions of the Corporation are to—
   (a) carry out the duties referred to in section 165; and
   (b) promote measures to reduce the incidence and severity of personal injury in accordance with section 263; and
+  (ba) monitor access to the accident compensation scheme by Māori and identified population groups to identify how to improve delivery of services under this Act to injured Māori and injured persons in those population groups; and
   (c) manage assets, liabilities, and risks in relation to the Accounts, including risk management by means of reinsurance or other means; and
   (d) carry out such other functions as are conferred on it by this Act, or are ancillary to and consistent with those functions.
 (2) To avoid doubt, it is not a function of the Corporation or any Crown entity subsidiary of the Corporation to provide insurance, but it may provide insurance-related services in accordance with section 263 or section 265.
@@ -3108,6 +3111,16 @@ The provisions set out in Schedule 5 apply in relation to the Corporation (but, 
 (4) The Minister must—
   (a) provide a copy of the report to the Minister of Finance; and
   (b) after complying with paragraph (a) but within 5 working days after receiving the report from the Corporation or, if Parliament is not in session, as soon as possible after the commencement of the next session of Parliament, present the report to the House of Representatives.
+
+### 278B Corporation to report in each financial year on access to accident compensation scheme by Māori and identified population groups
+(1) The Corporation must, in each financial year, prepare a report concerning access to the accident compensation scheme by Māori and identified population groups.
+(2) The report must provide analysis of—
+  (a) the level of access to the accident compensation scheme in that financial year by Māori and identified population groups; and
+  (b) any disparities the Corporation identifies in access to the accident compensation scheme that affect Māori or any identified population group; and
+  (c) any barriers the Corporation identifies that affect access to the accident compensation scheme by Māori or any identified population group; and
+  (d) the causes of, or factors contributing to, those disparities and barriers, as identified by the Corporation.
+(3) The Corporation must provide the report to the Minister as soon as practicable after the end of each financial year.
+(4) The Minister must present the report to the House of Representatives as soon as practicable after receiving it.
 
 **Information collection**
 
@@ -4475,6 +4488,36 @@ An assessment of a claimant’s vocational independence that has been commenced,
   (b) the person has lodged a claim with the Corporation under section 48 in respect of the personal injury; and
   (c) the Corporation has not made a decision on the claim.
 (2) On or after the commencement of this clause, the Corporation must make a decision on the claim as if section 9 of the amendment Act had not been enacted.
+
+### Part 4 — Provisions relating to Accident Compensation (Access Reporting and Other Matters) Amendment Act 2023
+
+### 12 Interpretation
+In this Part,—
+  - **2023 amendment Act** means the Accident Compensation (Access Reporting and Other Matters) Amendment Act 2023
+  - **annual scheme access report** means a report prepared by the Corporation under section 278B.
+
+### 13 First annual scheme access report
+(1) The Corporation must, before preparing the first annual scheme access report, consult with such organisations and people as the Corporation considers appropriate about the methods that it proposes to use in preparing that report, including the methods the Corporation proposes to use to identify—
+  (a) the levels of access to the accident compensation scheme by Māori and identified population groups the Corporation proposes to report on in the first annual scheme access report; and
+  (b) disparities in access to the accident compensation scheme that affect Māori or any identified population group.
+(2) The Corporation must provide the first annual scheme access report to the Minister as soon as practicable after 30 June 2024.
+(3) Section 278B(2)﻿(c) and (d) does not apply to the first annual scheme access report and subclauses (4) and (5) apply instead.
+(4) The first annual scheme access report must also—
+  (a) state that Māori will be reported on in all subsequent annual scheme access reports; and
+  (b) describe the identified population groups that the Corporation proposes to report on, in addition to Māori, in the second and third annual scheme access reports; and
+  (c) describe the methods that the Corporation proposes to use in preparing the second and third annual scheme access reports.
+(5) The description of the methods referred to in subclause (4)﻿(c) must include,—
+  (a) in the cases of the second and third annual scheme access reports, a description of how the Corporation, when preparing those reports, proposes to engage with Māori and the identified population groups that the Corporation proposes to report on in those reports:
+  (b) in the case of the second annual scheme access report, a description of the methods the Corporation proposes to use to identify any barriers that affect access to the accident compensation scheme by Māori and the identified population groups that the Corporation proposes to report on in that report:
+  (c) in the case of the third annual scheme access report, a description of the methods the Corporation proposes to use to identify the causes of, or factors contributing to, those disparities and barriers.
+
+### 14 Second annual scheme access report
+Section 278B(2)﻿(d) does not apply to the second annual scheme access report.
+
+### 15 Minimum weekly earnings of earners in full-time employment
+The amendments set out in section 9 of the 2023 amendment Act apply only in respect of claimants—
+  (a) whose entitlement to weekly compensation arose on or after the date on which section 9 commences; or
+  (b) who were receiving weekly compensation before the date on which section 9 commences and remain entitled to receive weekly compensation on or after that date.
 
 ## Schedule 1 — Entitlements
 
