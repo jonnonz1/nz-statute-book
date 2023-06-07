@@ -1,5 +1,5 @@
 # Summary Proceedings Act 1957
-_Consolidation as at 2023-04-06_
+_Consolidation as at 2023-06-07_
 
 > Title
 
@@ -79,6 +79,7 @@ _Consolidation as at 2023-04-06_
     (jga) section 97 of the Organic Products and Production Act 2023; or
     (jh) section 30 of the COVID-19 Public Health Response Act 2020; or
     (ji) section 70 of the Data and Statistics Act 2022; or
+    (jj) section 27 of the Freedom Camping Act 2011; or
     (k) any provision of any other Act providing for the use of the infringement notice procedure under section 21
   - **infringement offence** means any offence under any Act in respect of which a person may be issued with an infringement notice
   - **Police employee** has the same meaning as in section 4 of the Policing Act 2008
