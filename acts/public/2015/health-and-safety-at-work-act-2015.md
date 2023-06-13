@@ -1,5 +1,5 @@
 # Health and Safety at Work Act 2015
-_Consolidation as at 2023-04-05_
+_Consolidation as at 2023-06-13_
 
 ### 1 Title
 This Act is the Health and Safety at Work Act 2015.
@@ -855,15 +855,11 @@ Engagement with workers under this subpart is required in relation to work healt
 **Election of health and safety representatives**
 
 ### 62 Election of health and safety representatives
-(1) A worker who carries out work for a business or undertaking may notify the PCBU that the worker wishes 1 or more health and safety representatives to be elected to represent workers who carry out work for that business or undertaking.
-(2) Subject to subsection (4), if a PCBU receives a notification under subsection (1), the PCBU must initiate the election of 1 or more health and safety representatives to represent workers who carry out work for that business or undertaking, within the time prescribed by regulations.
-(3) A PCBU may, on the PCBU's own initiative, initiate the election of 1 or more health and safety representatives to represent workers who carry out work for that business or undertaking.
-(4) A PCBU is not required to initiate the election of 1 or more health and safety representatives, if the work of the business or undertaking—
-  (a) is carried out by fewer than 20 workers; and
-  (b) is not within the scope of any high-risk sector or industry prescribed by regulations for the purposes of this section.
-(5) A PCBU who seeks to rely on subsection (4) to refuse a worker’s request for the election of 1 or more health and safety representatives under subsection (1) must give written notice to that effect within a reasonable time to that worker.
-(6) The PCBU’s obligation to hold an election in response to a worker’s request for the election of 1 or more health and safety representatives under subsection (1) applies only in relation to holding an election for the work group to which that worker belongs.
-(7) A person who contravenes subsection (2) or (5) commits an offence and is liable on conviction,—
+(1) A worker who carries out work for a business or undertaking may request the PCBU to initiate the election of 1 or more health and safety representatives to represent workers who carry out work for that business or undertaking.
+(2) If a PCBU receives a request under subsection (1), the PCBU must, within the time prescribed by regulations, initiate the election of 1 or more health and safety representatives to represent workers who carry out work for that business or undertaking.
+(3) The PCBU’s obligation to initiate an election in response to a worker’s request applies only in relation to an election for the work group to which the worker belongs.
+(4) A PCBU may, on the PCBU’s own initiative, initiate the election of 1 or more health and safety representatives to represent workers who carry out work for that business or undertaking.
+(5) A person who contravenes subsection (2) commits an offence and is liable on conviction,—
   (a) for an individual, to a fine not exceeding $5,000:
   (b) for any other person, to a fine not exceeding $25,000.
 
@@ -892,23 +888,12 @@ An election for 1 or more health and safety representatives (whether following t
 **Health and safety committees**
 
 ### 66 Health and safety committees
-(1) The following persons may request that the PCBU at a workplace establish a health and safety committee for the business or undertaking or part of the business or undertaking:
+(1) The following persons may request the PCBU at a workplace to establish a health and safety committee for the business or undertaking or part of the business or undertaking:
   (a) a health and safety representative for a work group of workers carrying out work at that workplace; or
   (b) 5 or more workers at that workplace.
-(2) Subject to subsection (3), the PCBU must, within 2 months of receiving a request under subsection (1), decide whether to establish a health and safety committee for the business or undertaking or part of the business or undertaking.
-(3) A PCBU is not required to decide whether to establish a health and safety committee if the work of the business or undertaking—
-  (a) is carried out by fewer than 20 workers; and
-  (b) is not within the scope of any high-risk sector or industry prescribed by regulations for the purposes of this section.
-(4) A PCBU who considers subsection (3) applies in relation to a request under subsection (1) must give written notice to that effect within a reasonable time to the person (or persons) who made the request.
-(5) The PCBU may refuse a request made under subsection (1) if the PCBU is satisfied that existing worker participation practices at the workplace sufficiently meet the requirements of section 61.
-(6) The PCBU must give written notice of its decision under subsection (2)—
-  (a) as soon as practicable to workers who the PCBU considers have an interest in the decision; and
-  (b) no later than any prescribed time.
-(7) If the PCBU decides to refuse a request made under subsection (1), the notice under subsection (6) must include—
-  (a) the reasons for the decision; and
-  (b) a statement that workers may raise the refusal as an issue under subpart 6 of this Part.
-(8) A PCBU at a workplace may establish a health and safety committee for the workplace or part of the workplace on the PCBU's own initiative.
-(9) A person who contravenes subsection (2) commits an offence and is liable on conviction,—
+(2) The PCBU must, as soon as practicable after receiving a request under subsection (1), establish a health and safety committee for the business or undertaking or part of the business or undertaking.
+(3) A PCBU at a workplace may establish a health and safety committee for the workplace or part of the workplace on the PCBU’s own initiative.
+(4) A person who contravenes subsection (2) commits an offence and is liable on conviction,—
   (a) for an individual, to a fine not exceeding $5,000:
   (b) for any other person, to a fine not exceeding $25,000.
 
@@ -2306,7 +2291,7 @@ In this subpart, authorised means authorised by a licence, permit, registration,
     (ii) the procedure for electing or removing a health and safety representative:
     (iii) the eligibility criteria to vote for a health and safety representative:
     (iv) the term of office for health and safety representatives:
-    (v) specifying high-risk sectors or industries for the purposes of sections 62(4)﻿(b) and 66(3)﻿(b):
+    (v)
     (vi) specifying or providing for the method of determining the maximum total number of days’ paid leave for health and safety representatives that a PCBU is required to allow for the whole business or undertaking under clause 12(2) of Schedule 2, based on the number of workers who work for the PCBU as at specified dates in the year:
     (vii) specifying the number of days’ paid leave that a PCBU must allow a health and safety representative in specific industries to take in a year under clause 12(1)﻿(a)﻿(ii) of Schedule 2:
     (viii) maintaining a list of health and safety representatives and providing the list to the regulator:
