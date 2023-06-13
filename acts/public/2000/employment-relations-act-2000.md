@@ -1,5 +1,5 @@
 # Employment Relations Act 2000
-_Consolidation as at 2022-12-30_
+_Consolidation as at 2023-06-13_
 
 ### 1 Title
 This Act is the Employment Relations Act 2000.
@@ -855,7 +855,9 @@ During facilitation, a party to bargaining for a collective agreement must deal 
     (i) a coverage clause; and
     (ii) the rates of wages or salary payable to employees bound by the agreement; and
     (ii)
-    (iii) a plain language explanation of the services available for the resolution of employment relationship problems, including a reference to the period of 90 days in section 114 within which a personal grievance must be raised; and
+    (iii) a plain language explanation of the services available for the resolution of employment relationship problems, including a reference to—
+      (A) the 12-month period within which a personal grievance must be raised under section 114(1) if the grievance is in respect of sexual harassment under section 103(1)﻿(d); and
+      (B) the 90-day period within which any other personal grievance must be raised under section 114(1); and
     (iv) a clause providing how the agreement can be varied; and
     (v) the date on which the agreement expires or an event on the occurrence of which the agreement is to expire; and
   (b) must not contain anything—
@@ -1122,7 +1124,9 @@ The object of this Part is—
     (iii) an indication of where the employee is to perform the work; and
     (iv) any agreed hours of work specified in accordance with section 67C or, if no hours of work are agreed, an indication of the arrangements relating to the times the employee is to work; and
     (v) the wages or salary payable to the employee; and
-    (vi) a plain language explanation of the services available for the resolution of employment relationship problems, including a reference to the period of 90 days in section 114 within which a personal grievance must be raised; and
+    (vi) a plain language explanation of the services available for the resolution of employment relationship problems, including a reference to—
+      (A) the 12-month period within which a personal grievance must be raised under section 114(1) if the grievance is in respect of sexual harassment under section 103(1)﻿(d); and
+      (B) the 90-day period within which any other personal grievance must be raised under section 114(1); and
   (b) must not contain anything—
     (i) contrary to law; or
     (ii) inconsistent with this Act.
@@ -2918,18 +2922,21 @@ Each of the terms personal grievance, discrimination, sexual harassment, adverse
   (c) other money payable on dismissal.
 
 ### 114 Raising personal grievance
-(1) Every employee who wishes to raise a personal grievance must, subject to subsections (3) and (4), raise the grievance with his or her employer within the period of 90 days beginning with the date on which the action alleged to amount to a personal grievance occurred or came to the notice of the employee, whichever is the later, unless the employer consents to the personal grievance being raised after the expiration of that period.
+(1) An employee who wishes to raise a personal grievance must, subject to subsections (3) and (4), raise the grievance with their employer within the applicable employee notification period unless the employer consents to the personal grievance being raised after the expiration of that period.
 (2) For the purposes of subsection (1), a grievance is raised with an employer as soon as the employee has made, or has taken reasonable steps to make, the employer or a representative of the employer aware that the employee alleges a personal grievance that the employee wants the employer to address.
-(3) Where the employer does not consent to the personal grievance being raised after the expiration of the 90-day period, the employee may apply to the Authority for leave to raise the personal grievance after the expiration of that period.
+(3) Where the employer does not consent to the personal grievance being raised after the expiration of the employee notification period, the employee may apply to the Authority for leave to raise the personal grievance after the expiration of that period.
 (4) On an application under subsection (3), the Authority, after giving the employer an opportunity to be heard, may grant leave accordingly, subject to such conditions (if any) as it thinks fit, if the Authority—
   (a) is satisfied that the delay in raising the personal grievance was occasioned by exceptional circumstances (which may include any 1 or more of the circumstances set out in section 115); and
   (b) considers it just to do so.
 (5) In any case where the Authority grants leave under subsection (4), the Authority must direct the employer and employee to use mediation to seek to mutually resolve the grievance.
 (6) No action may be commenced in the Authority or the court in relation to a personal grievance more than 3 years after the date on which the personal grievance was raised in accordance with this section.
+(7) In this section, employee notification period means,—
+  (a) in respect of a personal grievance under section 103(1)﻿(d), the period of 12 months beginning with the date on which the action alleged to amount to the personal grievance occurred or came to the notice of the employee, whichever is later:
+  (b) in respect of any other personal grievance, the period of 90 days beginning with the date on which the action alleged to amount to a personal grievance occurred or came to the notice of the employee, whichever is later.
 
 ### 115 Further provision regarding exceptional circumstances under section 114
 For the purposes of section 114(4)﻿(a), exceptional circumstances include—
-  (a) where the employee has been so affected or traumatised by the matter giving rise to the grievance that he or she was unable to properly consider raising the grievance within the period specified in section 114(1); or
+  (a) where the employee has been so affected or traumatised by the matter giving rise to the grievance that he or she was unable to properly consider raising the grievance within the applicable employee notification period under section 114; or
   (b) where the employee made reasonable arrangements to have the grievance raised on his or her behalf by an agent of the employee, and the agent unreasonably failed to ensure that the grievance was raised within the required time; or
   (c) where the employee's employment agreement does not contain the explanation concerning the resolution of employment relationship problems that is required by section 54 or section 65, as the case may be; or
   (d) where the employer has failed to comply with the obligation under section 120(1) to provide a statement of reasons for dismissal.
@@ -2938,20 +2945,20 @@ For the purposes of section 114(4)﻿(a), exceptional circumstances include—
 (1) For the purposes of section 103B, this section is complied with—
   (a) when an employee—
     (i) considers that the actions of a controlling third party caused or contributed to the personal grievance; and
-    (ii) notifies the controlling third party of that fact within the 90-day employee notification period; or
+    (ii) notifies the controlling third party of that fact within the applicable employee notification period; or
   (b) when an employer—
     (i) considers that the actions of a controlling third party caused or contributed to the personal grievance; and
     (ii) notifies the controlling third party of that fact within the 90-day employer notification period; or
   (c) if the controlling third party has consented to being notified under subsection (2); or
   (d) if the Authority has granted leave to notify the controlling third party under subsection (4).
-(2) Subsection (1)﻿(a) or (b) does not apply if the controlling third party consents to being notified after the expiration of the relevant 90-day notification period.
-(3) If the controlling third party does not consent to being notified after the relevant 90-day notification period, the employee or the employer may apply to the Authority for leave to notify the controlling third party after the expiration of that period.
+(2) Subsection (1)﻿(a) or (b) does not apply if the controlling third party consents to being notified after the expiration of the relevant notification period.
+(3) If the controlling third party does not consent to being notified after the relevant notification period, the employee or the employer may apply to the Authority for leave to notify the controlling third party after the expiration of that period.
 (4) On an application under subsection (3), the Authority, after giving the controlling third party an opportunity to be heard, may grant leave accordingly, subject to any conditions that it thinks fit, if the Authority considers it just to do so.
 (5) In any case where the Authority grants leave under subsection (4), the Authority must direct the employee, the employer, and the controlling third party to use mediation to seek to resolve the personal grievance.
 (6) In this section,—
-  - **90-day employee notification period** means the period of 90 days beginning with the date on which the action alleged to amount to a personal grievance occurred or came to the notice of the employee, whichever is later
   - **90-day employer notification period** means the period of 90 days beginning with the date on which the employer’s employee raised the personal grievance with the employer
-  - **relevant 90-day notification period** means the 90-day employee notification period or the 90-day employer notification period.
+  - **employee notification period** has the same meaning as in section 114(7)
+  - **relevant notification period** means the applicable employee notification period or the 90-day employer notification period.
 
 ### 116 Special provision where sexual harassment alleged
 Where a personal grievance involves allegations of sexual harassment, no account may be taken of any evidence of the complainant's sexual experience or reputation.
@@ -5136,6 +5143,28 @@ Clause 3 of Schedule 3A (as inserted by the COVID-19 Response (Vaccinations) Leg
   (a) an existing right under the repealed legislation:
   (b) the completion of any process or proceedings started but not completed by the close of the day immediately before the repeal:
   (c) the previous operation of the repealed legislation or anything done or suffered under it.
+
+### Part 5 — Provisions relating to Employment Relations (Extended Time for Personal Grievance for Sexual Harassment) Amendment Act 2023
+
+### 19 Interpretation
+In this Part,—
+  - **2023 amendment Act** means the Employment Relations (Extended Time for Personal Grievance for Sexual Harassment) Amendment Act 2023
+  - **commencement** means commencement of the 2023 amendment Act.
+
+### 20 Application of requirement for employment agreement to explain new personal-grievance period for sexual harassment
+Collective agreements
+(1) Section 54 (as amended by section 4 of the 2023 amendment Act) applies to a collective agreement concluded on or after the date of commencement whether bargaining for the agreement was initiated before, on, or after the date of commencement.
+(2) Section 54 (as it read immediately before commencement) continues to apply to a collective agreement concluded before commencement.
+Individual employment agreements
+(3) Section 65 (as amended by section 5 of the 2023 amendment Act) applies to an individual employment agreement entered into on or after the date of commencement whether bargaining for the agreement was initiated before, on, or after the date of commencement.
+(4) Section 65 (as it read immediately before commencement) continues to apply to an individual employment agreement entered into before commencement.
+
+### 21 Application of new personal-grievance period for sexual harassment
+(1) This clause applies for the purposes of determining the period within which an employee who wishes to raise a personal grievance under section 103(1)﻿(d) must—
+  (a) raise the personal grievance; and
+  (b) if applicable, notify a controlling third party that the employee considers that the actions of the controlling third party caused or contributed to the personal grievance.
+(2) Sections 114 to 115A (as amended by the 2023 amendment Act) apply in respect of a personal grievance if the action alleged to amount to the personal grievance occurred or came to the notice of the employee on or after the date of commencement.
+(3) Sections 114 to 115A (as they read immediately before commencement) continue to apply in respect of a personal grievance if the action alleged to amount to the personal grievance occurred and came to the notice of the employee before commencement.
 
 ## Schedule 1 — Essential services
 
