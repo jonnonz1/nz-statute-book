@@ -1,5 +1,5 @@
 # Sale and Supply of Alcohol Act 2012
-_Consolidation as at 2022-11-30_
+_Consolidation as at 2023-06-13_
 
 ### 1 Title
 This Act is the Sale and Supply of Alcohol Act 2012.
@@ -2157,6 +2157,15 @@ In considering an application for the renewal of a manager's certificate, the li
   (b) supplied to any person by way of gift by any person who resides on the premises on which the alcohol is consumed.
 (4) A person who acts as, or as if he or she were, an occupier or a person having any part in the care, management, or control of any premises is to be treated as an occupier of the premises, but without affecting the liability of any other person.
 (5) Premises may be treated as being kept or used as a place of resort for the consumption of alcohol even though they are open only for the use of particular people or particular classes of person, and not to all people who wish to use them.
+
+### 235A Exemption to section 235 for certain race meetings
+(1) Section 235 does not apply in the following circumstances:
+  (a) the person (A) referred to in section 235(1) is a small racing club; and
+  (b) the consumption of alcohol takes place on a day when A is using the unlicensed premises referred to in section 235(1) to hold a race meeting; and
+  (c) A holds either an on-licence or an on-site special licence that applies to an area within the premises for the duration of the race meeting.
+(2) In this section, the following terms have the same meanings as in section 5(1) of the Racing Industry Act 2020:
+  (a) race meeting:
+  (b) small racing club.
 
 ### 236 People found on unlicensed premises kept as place of resort for consumption of alcohol
 (1) A person who is not a constable acting in the execution of his or her duty commits an offence if he or she is found on any unlicensed premises kept or used in breach of section 235.
