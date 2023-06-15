@@ -1,5 +1,5 @@
 # Intelligence and Security Act 2017
-_Consolidation as at 2022-07-01_
+_Consolidation as at 2023-06-15_
 
 ### 1 Title
 This Act is the Intelligence and Security Act 2017.
@@ -1426,7 +1426,7 @@ The purpose of this subpart is to enable an intelligence and security agency to 
 In this subpart, restricted information means—
   (a) information that a revenue officer must keep confidential under section 18(1) of the Tax Administration Act 1994:
   (b) information relating to national student numbers assigned by the Secretary of Education under clause 3 of Schedule 24 of the Education and Training Act 2020 to students enrolled with a tertiary education provider:
-  (c) information relating to an adoption held by the Registrar-General appointed under section 79(1) of the Births, Deaths, Marriages, and Relationships Registration Act 1995:
+  (c) information relating to an adoption held by the Registrar-General appointed under section 124(1) of the Births, Deaths, Marriages, and Relationships Registration Act 2021:
   (d) photographic images used for driver licences that are stored under section 28(5) of the Land Transport Act 1998.
 
 ### 136 Application for permission to access restricted information
@@ -3314,7 +3314,7 @@ Section 185(4) of this Act applies to a report in respect of an inquiry that was
 | GCSB and NZSIS | Information about border-crossing persons, goods, and craft that has been collected in connection with the performance or exercise of a function, duty, or power under the Customs and Excise Act 1996 | New Zealand Customs Service |
 | GCSB and NZSIS | Financial intelligence information | New Zealand Police |
 | NZSIS | Information about people and locations identified as posing a possible physical threat to GCSB or NZSIS employees | New Zealand Police |
-| NoteIn this schedule,—birth information, civil union information, death information, marriage information, name change information, and Registrar-General have the meanings given to them by section 2 of the Births, Deaths, Marriages, and Relationships Registration Act 1995citizenship information means information that relates to the acquisition or loss of citizenship by, or to the citizenship status of, any personfinancial intelligence information means information held by the Commissioner of Police in the performance of his or her financial intelligence functions specified in sections 142 and 143 of the Anti-Money Laundering and Countering Financing of Terrorism Act 2009GCSB means the Government Communications Security BureauNZSIS means the New Zealand Security Intelligence Service. |  |  |
+| NoteIn this schedule,—birth information, death information, marriage information, civil union information, name-change information, and Registrar-General have the meanings given to them by section 4 of the Births, Deaths, Marriages, and Relationships Registration Act 2021citizenship information means information that relates to the acquisition or loss of citizenship by, or to the citizenship status of, any personfinancial intelligence information means information held by the Commissioner of Police in the performance of his or her financial intelligence functions specified in sections 142 and 143 of the Anti-Money Laundering and Countering Financing of Terrorism Act 2009GCSB means the Government Communications Security BureauNZSIS means the New Zealand Security Intelligence Service. |  |  |
 
 ## Schedule 3 — Administrative provisions
 
