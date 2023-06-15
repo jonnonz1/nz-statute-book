@@ -1,5 +1,5 @@
 # Citizenship Act 1977
-_Consolidation as at 2022-09-01_
+_Consolidation as at 2023-06-15_
 
 > An Act to make better provision with respect to the status of New Zealand citizenship, and to consolidate and amend the British Nationality and New Zealand Citizenship Act 1948
 
@@ -11,7 +11,7 @@ _Consolidation as at 2022-09-01_
 (1) In this Act, unless the context otherwise requires,—
   - **alien** means a person who does not have the status of a New Zealand citizen, a Commonwealth citizen (British subject), a British protected person, or an Irish citizen
   - **Armed Forces** has the meaning given to it by section 2 of the Defence Act 1990
-  - **Crown service under the New Zealand Government** means the service of the Crown under the Government of New Zealand or under the Government of a New Zealand mandated territory or New Zealand trust territory, whether that service is in any part of Her Majesty's realms and territories or elsewhere; and includes employment in any of the State Services, as that term is defined in section 5 of the Public Service Act 2020
+  - **Crown service under the New Zealand Government** means the service of the Crown under the Government of New Zealand or under the Government of a New Zealand mandated territory or New Zealand trust territory, whether that service is in any part of the Sovereign's realms and territories or elsewhere; and includes employment in any of the State Services, as that term is defined in section 5 of the Public Service Act 2020
   - **employee** has the meaning given to it by section 5 of the Public Service Act 2020, except that it includes—
     (a) any chief executive
     (b)
@@ -19,8 +19,8 @@ _Consolidation as at 2022-09-01_
   - **New Zealand** includes the Cook Islands, Niue, Tokelau, and the Ross Dependency
   - **New Zealand overseas representative** means a diplomatic or consular representative for New Zealand or a representative of the Government of New Zealand in any other country; and includes a High Commissioner for New Zealand in any other country
   - **prescribed** means prescribed by regulations made under this Act or by the Minister
-  - **protected State** means a State or territory that is declared by Her Majesty by Order in Council to be a protected State for the purposes of the British Nationality Act 1948 (UK); and includes the New Hebrides and Canton Island
-  - **protectorate** means a State or territory that is declared by Her Majesty by Order in Council to be a protectorate for the purposes of the British Nationality Act 1948 (UK)
+  - **protected State** means a State or territory that is declared by the Sovereign by Order in Council to be a protected State for the purposes of the British Nationality Act 1948 (UK); and includes the New Hebrides and Canton Island
+  - **protectorate** means a State or territory that is declared by the Sovereign by Order in Council to be a protectorate for the purposes of the British Nationality Act 1948 (UK)
   - **Secretary** means the Secretary for Internal Affairs.
 (2) References in this Act to a Commonwealth country include references to every territory for the international relations of which that country is responsible.
 (3) For the purposes of this Act,—
@@ -312,7 +312,7 @@ A person who ceases to be a New Zealand citizen shall not thereby be discharged 
 (3) For the purposes of subsection (2), an agreement made in relation to citizenship information to be used to verify whether a person is eligible to hold a New Zealand passport, must be entered into by the Secretary in his or her capacity as the holder of citizenship information with himself or herself in the capacity as the holder of information under the Passports Act 1992.
 (4) An agreement entered into under subsection (2) may be varied by the Secretary and the chief executive.
 (5) The Secretary may disclose citizenship information to the chief executive only in accordance with Schedule 4 and an agreement entered into under subsection (2).
-(5A) Despite anything in this section, the Secretary may disclose information about a person's citizenship status or the citizenship status of a person's parent or parents to the Registrar-General appointed under section 79(1) of the Births, Deaths, Marriages, and Relationships Registration Act 1995 for the purpose of recording that person's citizenship status on his or her birth record.
+(5A) Despite anything in this section, the Secretary may disclose information about a person's citizenship status or the citizenship status of a person's parent or parents to the Registrar-General appointed under section 124(1) of the Births, Deaths, Marriages, and Relationships Registration Act 2021 for the purpose of recording that person's citizenship status on his or her birth record.
 (5B) On or after 1 December 2020, no information may be supplied under this section except under—
   (a) an information matching agreement entered into under Part 10 of the Privacy Act 1993 and continued by clause 11 of Schedule 1 of the Privacy Act 2020; or
   (b) an information matching agreement entered into under subpart 4 of Part 7 of the Privacy Act 2020; or
@@ -419,7 +419,7 @@ Consents given under section 3(5A)﻿(b)﻿(i) or (ii) before the commencement d
 | Agency | Purpose |
 | --- | --- |
 | Department of Internal Affairs | To verify whether a person is eligible to hold a New Zealand passport |
-| Registrar-General appointed under section 79(1) of the Births, Deaths, Marriages, and Relationships Registration Act 1995 | For the Registrar-General to be satisfied whether or not a person is a New Zealand citizen |
+| Registrar-General appointed under section 124(1) of the Births, Deaths, Marriages, and Relationships Registration Act 2021 | For the Registrar-General to be satisfied whether or not a person is a New Zealand citizen |
 | Department of Inland Revenue | To verify the identity of a person to establish—athe tax file number of the person:bthe details of an applicant for child support |
 | Department of Labour | To verify—aa person's citizenship status:ba person's entitlement to reside in New Zealand |
 | Ministry of Social Development | To—averify a person's eligibility or continuing eligibility for benefits, war pensions, grants, loans, or allowances:bverify a person's eligibility or continuing eligibility for a community services card |
