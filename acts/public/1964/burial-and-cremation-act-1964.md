@@ -1,5 +1,5 @@
 # Burial and Cremation Act 1964
-_Consolidation as at 2023-04-05_
+_Consolidation as at 2023-06-15_
 
 > An Act to consolidate and amend the law relating to the burial and cremation of the dead
 
@@ -21,7 +21,7 @@ _Consolidation as at 2023-04-05_
   - **corporation** , in relation to a local authority, means that local authority as constituted a body corporate by section 12 of the Local Government Act 2002
   - **cremation** means the reduction to ashes of dead bodies by burning
   - **crematorium** means appliances and machinery and furnaces for effecting cremation, and includes any building in which any such appliances, machinery, or furnaces are fixed
-  - **dead foetus** has the meaning given to it in section 2 of the Births, Deaths, Marriages, and Relationships Registration Act 1995
+  - **dead foetus** has the meaning given to it in section 4 of the Births, Deaths, Marriages, and Relationships Registration Act 2021
   - **denominational burial ground** means any land, outside the boundaries of a cemetery, held, purchased, acquired, set apart, or dedicated, under the provisions of any Act or before the commencement of this Act, for the burial of the dead belonging to 1 or more religious denominations
   - **disposal** includes burial and cremation
   - **financial statements** has the same meaning as in section 6 of the Financial Reporting Act 2013
@@ -47,7 +47,7 @@ _Consolidation as at 2023-04-05_
   - **registered bank** has the same meaning as in section 2 of the Banking (Prudential Supervision) Act 1989
   - **religious denomination** means the adherents of any religion and includes any church, sect, or other subdivision of such adherents
   - **specified not-for-profit entity** has the same meaning as in section 46 of the Financial Reporting Act 2013
-  - **stillborn child** has the same meaning as in section 2 of the Births, Deaths, Marriages, and Relationships Registration Act 1995
+  - **stillborn child** has the same meaning as in section 4 of the Births, Deaths, Marriages, and Relationships Registration Act 2021
   - **tablet** includes a plaque
   - **trustees** means the trustees of a cemetery or of a private burial ground, as the case may require, and, for all the purposes of this Act in relation to the rights, powers, and duties conferred or imposed on managers by this Act, includes managers
   - **unavailable** means dead, unknown, missing, of unsound mind, or unable to act by virtue of a medical condition.
@@ -399,7 +399,7 @@ The Minister may, by any reopening order or by any later notice in the Gazette,�
   (a) a written certificate relating to the cause of the stillbirth signed—
     (i) by a medical practitioner who was present at the birth or examined the child after birth; or
     (ii) if no medical practitioner was present at the birth or examined the child after birth, by a midwife; or
-  (b) a statutory declaration, made by the person or one of the persons required under the Births, Deaths, Marriages, and Relationships Registration Act 1995 to notify the birth, to the effect that the child was born dead, and that—
+  (b) a statutory declaration, made by the person or one of the persons required under the Births, Deaths, Marriages, and Relationships Registration Act 2021 to notify the birth, to the effect that the child was born dead, and that—
     (i) no medical practitioner or midwife was present at the birth; or
     (ii) it is impossible to obtain a certificate under paragraph (a) from a medical practitioner or midwife present at the birth; or
   (c) a coroner's authorisation.
@@ -458,7 +458,7 @@ To avoid doubt, the Crown is not liable for the costs incurred by a person in su
 ### 46F Transfer of charge of body
 (1) A person having charge of a body must not transfer charge of it to another person unless he or she first—
   (a) gives the other person a certificate of cause of death or coroner's authorisation; and
-  (b) gets from the other person a notice, in the standard form, taking responsibility for notifying a Registrar under section 42 of the Births, Deaths, Marriages, and Relationships Registration Act 1995 of the death of the person whose body it is, and (except where the body is being removed by the other person for anatomical examination under the Human Tissue Act 2008)—
+  (b) gets from the other person a notice taking responsibility for notifying a Registrar under section 40 of the Births, Deaths, Marriages, and Relationships Registration Act 2021 of the death of the person whose body it is, and (except where the body is being removed by the other person for anatomical examination under the Human Tissue Act 2008)—
     (i) taking responsibility for disposing of the body; and
     (ii) describing (with enough detail to enable it to be identified) the place where the other person intends to dispose of the body.
 (2) However, in any of the following circumstances the person transferring the body does not have to comply with subsection (1):
@@ -469,7 +469,7 @@ To avoid doubt, the Crown is not liable for the costs incurred by a person in su
     (iii) the occupier of a hospital.
 (3) Nevertheless, if a person has a certificate of cause of death or coroner's authorisation at the time that he or she transfers charge of a body to another person, he or she must give the certificate or authorisation to the other person.
 (4) A person must not take charge of a body for anatomical examination under the Human Tissue Act 2008, or removal from New Zealand for disposal outside New Zealand, without first obtaining a certificate of cause of death or coroner's authorisation.
-(5) In this section, standard form has the same meaning as in section 2 of the Births, Deaths, Marriages, and Relationships Registration Act 1995.
+(5) A notice under subsection (1)﻿(b) must be provided in accordance with any directions issued by the Registrar-General under the Births, Deaths, Marriages, and Relationships Registration Act 2021.
 
 ### 47 Burial in private burial place
 (1) Notwithstanding anything in this Act, any body may be buried in any private burial place (not being a private burial ground) used for burials before the date of the commencement of this Act; but no such burial shall be made without the previous sanction of a District Court Judge, or, if within a city or part of the district of a territorial authority which was formerly a city or borough or part of a city or borough, without the additional sanction of the mayor or 2 members of the governing body of the territorial authority.
