@@ -1,5 +1,5 @@
 # Criminal Records (Clean Slate) Act 2004
-_Consolidation as at 2021-10-28_
+_Consolidation as at 2023-06-15_
 
 ### 1 Title
 This Act is the Criminal Records (Clean Slate) Act 2004.
@@ -43,7 +43,7 @@ In this Act, unless the context otherwise requires,—
         (B) convictions entered (including, without limitation, any item on a list of previous convictions); and
         (C) sentences imposed (including, without limitation, any item on a list of previous sentences); and
         (D) orders imposed on an offender as a result of a conviction; but
-      (ii) does not include details in a marriage certificate or civil union certificate of a conviction for bigamy or coerced marriage or civil union recorded under section 60 of the Births, Deaths, Marriages, and Relationships Registration Act 1995 (or any corresponding provision of an earlier enactment) or section 62F of that Act and included in the certificate under regulations made under section 88(1)﻿(b) of that Act
+      (ii) does not include details in a marriage certificate or civil union certificate of a conviction for bigamy registered under section 66 of the Births, Deaths, Marriages, and Relationships Registration Act 2021 (or any corresponding provision of an earlier enactment) and included in the certificate under regulations made under section 144(1)﻿(g) of that Act
   - **custodial sentence** means a sentence of imprisonment imposed under the Sentencing Act 2002 or under any earlier corresponding enactment; and includes—
     (a) a sentence of corrective training; and
     (b) a sentence of preventive detention; and
