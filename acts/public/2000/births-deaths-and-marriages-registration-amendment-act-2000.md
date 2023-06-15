@@ -1,5 +1,5 @@
 # Births, Deaths, and Marriages Registration Amendment Act 2000
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2023-06-15_
 
 ### 1 Title
 (1) This Act is the Births, Deaths, and Marriages Registration Amendment Act 2000.
@@ -23,10 +23,10 @@ The principal Act is amended by repealing section 37, and substituting the follo
       (i) the doctor who last attended the person during the illness is unavailable; or
       (ii) less than 24 hours has passed since the death, and the doctor who last attended the person during the illness is unlikely to be able to give a doctor's certificate for the death within 24 hours after the death; or
       (iii) 24 hours or a longer period has passed since the death, and the doctor who last attended the person during the illness has not given a doctor's certificate for the death.
-  (2) Subparagraphs (ii) and (iii) of subsection (1)(b) do not apply if the doctor who last attended the person during the illness has refused to give a doctor's certificate for the death because that doctor was not satisfied, or was not yet satisfied, that the death was a natural consequence of the illness.
+  (2) Subparagraphs (ii) and (iii) of subsection (1)﻿(b) do not apply if the doctor who last attended the person during the illness has refused to give a doctor's certificate for the death because that doctor was not satisfied, or was not yet satisfied, that the death was a natural consequence of the illness.
   (3) If a death is required to be reported to a coroner under paragraph (a), or any of paragraphs (c) to (j), of section 4 of the Coroners Act 1988, or has been reported to a coroner under that Act, a doctor must not give a doctor's certificate for the death under subsection (1) unless a coroner has decided not to hold an inquest into the death.
-  (4) A doctor who must give a doctor's certificate under subsection (1)(a) but knows that since he or she attended the person concerned some other doctor attended the person must not give the certificate without taking all reasonable steps to consult the other doctor.
-  (5) A doctor must not give a doctor's certificate for a death under subsection (1)(b) unless the doctor has—
+  (4) A doctor who must give a doctor's certificate under subsection (1)﻿(a) but knows that since he or she attended the person concerned some other doctor attended the person must not give the certificate without taking all reasonable steps to consult the other doctor.
+  (5) A doctor must not give a doctor's certificate for a death under subsection (1)﻿(b) unless the doctor has—
     (a) had regard to the medical records relating to the person concerned of the doctor who last attended the person during the illness; and
     (b) had regard to the circumstances of the person's death; and
     (c) examined the person's body.
