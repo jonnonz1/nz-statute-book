@@ -1,5 +1,5 @@
 # Births, Deaths, Marriages, and Relationships Registration Amendment Act 2008
-_Consolidation as at 2008-07-24_
+_Consolidation as at 2023-06-15_
 
 ### 1 Title
 This Act is the Births, Deaths, Marriages, and Relationships Registration Amendment Act 2008.
@@ -32,10 +32,10 @@ The following section is inserted before section 2:Purpose
 
 ### 7 Interpretation
 (1) The definitions of coroner’s order, funeral director, give a doctor’s certificate, and to record in section 2 are repealed.
-(2) The definitions of doctor's certificate, and register in section 2 are repealed and the following definitions substituted:.
+(2) The definitions of doctor's certificate, and register in section 2 are repealed and the following definitions substituted:
   - **doctor's certificate** , in relation to a death or a body, means a doctor's certificate referred to in sections 46B and 46C of the Burial and Cremation Act 1964 relating to the cause of death or, as the case may be, the cause of death of the person whose body it is
   - **register** means that a Registrar records (in a manner authorised by the Registrar-General) information under this Act, a former Act, or a former Adoption Act
-(3) Section 2 is amended by inserting the following definitions in their appropriate alphabetical order:.
+(3) Section 2 is amended by inserting the following definitions in their appropriate alphabetical order:
   - **coroner's authorisation** , in relation to a body, means an authorisation by a coroner under section 42 of the Coroners Act 2006 for the release of the body
   - **Director of Security** means the Director of Security holding office under the New Zealand Security Intelligence Service Act 1969
   - **foreign registration authority** means an authority constituted in a State outside New Zealand that has the function of recording information relating to name changes or deaths within that State
@@ -95,7 +95,7 @@ Section 15 is repealed and the following sections are substituted:Registration o
     (a) the child's parents if the information is on the standard form signed by both parents; or
     (b) a parent of the child if the information is on the standard form signed by the parent and accepted under section 9(2).
   (2) The Registrar-General must register or direct a Registrar who is authorised by the Registrar-General to register births to register, as part of the birth information of a child, information about the identity of a parent of the child if—
-    (a) the form is accepted under section 9(2)(b) or (c), the information relates to a person who has not signed the form, and the Registrar-General is satisfied that the person is a parent of the child; or
+    (a) the form is accepted under section 9(2)﻿(b) or (c), the information relates to a person who has not signed the form, and the Registrar-General is satisfied that the person is a parent of the child; or
     (b) the information relates to the child's father, and—
       (i) a Family Court or the High Court has declared the man to be the child's father; or
       (ii) a Family Court has made a paternity order declaring the man to be the child's father; or
@@ -142,7 +142,7 @@ Section 21 is repealed and the following sections are substituted:Definitions fo
     (a) a statutory declaration made, in accordance with subsection (3), by an eligible person or the guardian of an eligible person on a form provided by the Registrar-General for the purpose (accompanied by the eligible person’s written consent if the eligible person is 16 years of age or older and the application was made by the eligible person’s guardian); or
     (b) a deed poll executed before 1 September 1995, evidencing any change in the eligible person’s names; or
     (c) a copy of a deed poll executed and filed in an office of the High Court before 1 September 1995 and certified by a Registrar of the Court in which it was filed.
-  (3) The eligible person or the guardian of the eligible person must declare, in the statutory declaration provided under subsection (2)(a),—
+  (3) The eligible person or the guardian of the eligible person must declare, in the statutory declaration provided under subsection (2)﻿(a),—
     (a) an intention to abandon (and to adopt some other names instead of) the names most recently included in—
       (i) the eligible person’s birth information or name change information; or
       (ii) the registration of the eligible person’s birth in another State; or
@@ -162,8 +162,8 @@ Section 21 is repealed and the following sections are substituted:Definitions fo
 ### 14 Registration of New Zealand adoptions
 Section 24 is amended by repealing subsection (3) and substituting the following subsections:
   (3) The Registrar-General must include additional information described in subsection (5) in the birth information of an adopted person if an application—
-    (a) is made under subsection (4)(a); or
-    (b) is made under subsection (4)(b) and is accompanied by the adopted person's written consent if he or she is 16 or 17 years of age.
+    (a) is made under subsection (4)﻿(a); or
+    (b) is made under subsection (4)﻿(b) and is accompanied by the adopted person's written consent if he or she is 16 or 17 years of age.
   (4) The application may be made by—
     (a) the adopted person if he or she is 18 years of age or older or (if younger than 18 years of age) has earlier married, entered into a civil union, or been in a de facto relationship; or
     (b) if the birth information relates to an adopted person who is younger than 18 years of age and has not earlier married, entered into a civil union, or been in a de facto relationship,—
@@ -199,7 +199,7 @@ The following section is inserted after the Part 5 heading:Definitions for secti
   (2) The Court must cause a copy of the application to be served on—
     (a) the Registrar-General, if the applicant's birth is registered or is registrable under this Act but is not yet registered; and
     (b) any other person who, in the Court's opinion, is interested in it or might be affected by the granting of the declaration.
-(3) Section 28(3)(a) is amended by omitting that there is included in the registration and substituting either that the applicant's birth is registrable under this Act but is not yet registered, or that there is included in the record.
+(3) Section 28(3)﻿(a) is amended by omitting that there is included in the registration and substituting either that the applicant's birth is registrable under this Act but is not yet registered, or that there is included in the record.
 
 ### 17 Declarations of Family Court as to appropriate gender identity for children
 (1) Section 29(1) is amended by omitting a person who has not attained the age of 18 years and who has never married or entered into a civil union (in subsection (3) of this section referred to as the child) and substituting an eligible child (the child).
@@ -207,7 +207,7 @@ The following section is inserted after the Part 5 heading:Definitions for secti
   (2) The Court must cause a copy of the application to be served on—
     (a) the Registrar-General, if the child's birth is registered or is registrable under this Act but is not yet registered; and
     (b) any other person who, in the Court's opinion, is interested in it or might be affected by the granting of the declaration.
-(3) Section 29(3)(a) is amended by omitting registration and substituting record.
+(3) Section 29(3)﻿(a) is amended by omitting registration and substituting record.
 
 ### 18 Sections 37 to 41 repealed
 Sections 37 to 41 are repealed.
@@ -246,20 +246,20 @@ Section 65 is repealed and the following section substituted:Request for new ide
       (i) an officer or employee of the New Zealand Security Intelligence Service; or
       (ii) approved by the Director of Security to undertake activities for the New Zealand Security Intelligence Service.
   (2) The Minister may then direct the Registrar-General, in writing, to create new identity information for the person if the Minister is satisfied that it is—
-    (a) in the interests of justice that new identity information be created as a result of a request under subsection (1)(a); or
-    (b) in the interests of security that new identity information be created as a result of a request under subsection (1)(b).
+    (a) in the interests of justice that new identity information be created as a result of a request under subsection (1)﻿(a); or
+    (b) in the interests of security that new identity information be created as a result of a request under subsection (1)﻿(b).
   (3) New identity information is created by the Registrar-General by omitting, amending, or inserting—
     (a) birth information, death information, marriage information, civil union information, or name change information (including, if necessary, the creation of other identities to support the person's new identity information); and
     (b) operational or administrative information as necessary, so that it supports the information described in paragraph (a).
   (4) The Registrar-General may omit, amend, or insert information in the birth information, death information, marriage information, civil union information, or name change information of a person for whom new identity information has been created if the Registrar-General receives notification that the new identity is no longer needed or has been compromised, from—
-    (a) the Commissioner of Police in relation to new identity information created as a result of a request under subsection (1)(a); or
-    (b) the Director of Security in relation to new identity information created as a result of a request under subsection (1)(b).
+    (a) the Commissioner of Police in relation to new identity information created as a result of a request under subsection (1)﻿(a); or
+    (b) the Director of Security in relation to new identity information created as a result of a request under subsection (1)﻿(b).
   (5) In this section,—
     - **employee** and have the same meaning as in section 2 of the New Zealand Security Intelligence Service Act 1969
     - **undercover police officer** means a person who is a member of the police or a corresponding overseas law enforcement agency and whose identity is concealed for the purpose of an undercover investigation approved by the Commissioner of Police.
 
 ### 24 Birth certificates generally
-(1) Section 67(3) is amended by omitting 65(2)(b), 65(3)(b) and substituting 65(3).
+(1) Section 67(3) is amended by omitting 65(2)﻿(b), 65(3)﻿(b) and substituting 65(3).
 (2) Section 67 is amended by repealing subsections (4) to (6).
 
 ### 25 New section 70B inserted
@@ -274,7 +274,7 @@ The heading to Part 9 is omitted and the following heading substituted: Searches
 Sections 73 to 75 are repealed and the following sections substituted:Definitions for sections 74 to 75GAccess to birth information, death information, marriage information, civil union information, or name change informationPersons authorised to access source documentsSubject of birth information, marriage information, civil union information, or name change information may search access register and request non-disclosure directionEffect and duration of non-disclosure directionRegistrar may provide limited verification of registered information that becomes publicly available while non-disclosure direction in forceRegistrar-General must keep access registerPublic sector agencies may search access registerSearches for certain authorised purposesSearches for purposes of gathering statistics, or for health, historical, or demographic research
   In sections 74 to 75G,—
     - **access register** means the access register required to be kept under section 75D(1)
-    - **non-disclosure direction** means a direction described in section 75A(2)(b)
+    - **non-disclosure direction** means a direction described in section 75A(2)﻿(b)
     - **personal representative** , in relation to a person, means,—
       (a) if the person has not attained the age of 18 years or has not earlier married or entered into a civil union or de facto relationship, a parent or guardian of the person; or
       (b) if the person has attained the age of 18 years or has earlier married or entered into a civil union or de facto relationship, a person who has been granted a power of attorney or has been given written authority by the person.
@@ -295,7 +295,7 @@ Sections 73 to 75 are repealed and the following sections substituted:Definition
     (a) the person who is the subject of the birth information, marriage information, civil union information, or name change information contained in the source document or that person's personal representative:
     (b) a person who satisfies the Registrar-General that access is required for the maintenance of the accuracy of the registered information:
     (c) a person who satisfies the Registrar-General that access is required for a purpose consistent with the purpose of recording information under this Act that cannot be met by obtaining a certificate or print-out.
-  (2) However, a person described in subsection (1)(a) may not inspect or obtain a copy of information from a register, or an index to a register, that is regarded by the Registrar-General as a source document because it is maintained in documentary form and was created before 1 January 1998.
+  (2) However, a person described in subsection (1)﻿(a) may not inspect or obtain a copy of information from a register, or an index to a register, that is regarded by the Registrar-General as a source document because it is maintained in documentary form and was created before 1 January 1998.
   (1) This section applies to a person who is the subject of birth information, marriage information, civil union information, or name change information.
   (2) A person to whom this section applies, or his or her personal representative, may, at any time, request the Registrar-General—
     (a) to provide a copy of all entries made in the access register in relation to the person’s birth information, marriage information, civil union information, or name change information:
@@ -306,9 +306,9 @@ Sections 73 to 75 are repealed and the following sections substituted:Definition
     (c) the requirement in subsection (4) is met.
   (4) A person making the request must provide the Registrar-General with any means of identification that are reasonably necessary to allow the identity of the person to be readily ascertained.
   (5) The Registrar-General must adopt appropriate procedures to ensure that, if the request is made by the person’s personal representative, the personal representative has the written authority of that person or is otherwise properly authorised by that person.
-  (6) Subsection (2)(a) is subject to section 75E.
-  (7) Subsection (2)(b) is subject to sections 75F and 75G.
-  (1) This section applies if the Registrar-General complies with a request under section 75A(2)(b) for a non-disclosure direction in respect of a person’s birth information, marriage information, civil union information, or name change information.
+  (6) Subsection (2)﻿(a) is subject to section 75E.
+  (7) Subsection (2)﻿(b) is subject to sections 75F and 75G.
+  (1) This section applies if the Registrar-General complies with a request under section 75A(2)﻿(b) for a non-disclosure direction in respect of a person’s birth information, marriage information, civil union information, or name change information.
   (2) During the period in which the non-disclosure direction is in force, a Registrar—
     (a) may comply with a request under section 74 to access the birth information, marriage information, civil union information, or name change information only if the request is made—
       (i) by the person who is the subject of that information; or
@@ -321,7 +321,7 @@ Sections 73 to 75 are repealed and the following sections substituted:Definition
     (b) the date on which the Registrar-General directs that the direction be withdrawn in accordance with a request under subsection (4).
   (4) A person who is the subject of the information to which a non-disclosure direction relates or that person’s personal representative may, at any time, request the Registrar-General—
     (a) to withdraw the direction; or
-    (b) on 1 or more prescribed grounds, to reinstate the direction after it has been withdrawn or after the prescribed period referred to in subsection (3)(a) has expired.
+    (b) on 1 or more prescribed grounds, to reinstate the direction after it has been withdrawn or after the prescribed period referred to in subsection (3)﻿(a) has expired.
   (5) Section 75A(3) to (5) applies with any necessary modifications to a request under subsection (4).
   (6) Subsection (2) is subject to sections 75F and 75G.
   (1) This section applies if a person who is the subject of birth information, marriage information, civil union information, or name change information makes any part of the information, or any information corresponding to that part of the information, publicly available while a non-disclosure direction in respect of that information is in force.
@@ -339,22 +339,22 @@ Sections 73 to 75 are repealed and the following sections substituted:Definition
       (i) the name of the person who made the request; and
       (ii) the date on which the request was made; and
       (iii) whether or not the Registrar complied with the request.
-  (3) Subsection (2)(a) is subject to sections 75F(2) and 75G.
-  (1) Despite section 75A(2)(a), a public sector agency (within the meaning of section 2 of the Privacy Act 1993) may request the Registrar-General to provide a copy of all entries made in the access register in relation to any person if it is necessary to avoid prejudice to the maintenance of the law (including the prevention, detection, investigation, prosecution, and punishment of offences).
+  (3) Subsection (2)﻿(a) is subject to sections 75F(2) and 75G.
+  (1) Despite section 75A(2)﻿(a), a public sector agency (within the meaning of section 2 of the Privacy Act 1993) may request the Registrar-General to provide a copy of all entries made in the access register in relation to any person if it is necessary to avoid prejudice to the maintenance of the law (including the prevention, detection, investigation, prosecution, and punishment of offences).
   (2) The Registrar-General must comply with a request under subsection (1) as soon as practicable after it is made.
   (3) To avoid doubt, section 75A(3) and (4) do not apply to a request under subsection (1).
-  (1) Sections 75A(2)(b) and 75B(2) do not apply to a request made by any of the following persons under section 74 to access any information relating to the registration of a person’s birth, marriage, civil union, or name change:
+  (1) Sections 75A(2)﻿(b) and 75B(2) do not apply to a request made by any of the following persons under section 74 to access any information relating to the registration of a person’s birth, marriage, civil union, or name change:
     (a) a person who requires the information for use in proceedings in a court or tribunal:
     (b) an adopted person who is searching for information about his or her birth family:
     (c) an executor, administrator, or trustee of an estate or trust who requires the information for the administration of the estate or trust:
     (d) a person who satisfies the Registrar-General that access to the information or a source document is required for the maintenance of the accuracy of the registered information:
     (e) a person who satisfies the Registrar-General that access to a source document is required for a purpose consistent with the purpose of recording information under the Act that cannot be met by obtaining a certificate or print-out.
-  (2) Sections 75A(2)(b), 75B(2), and 75D(2) do not apply to a request made by any of the following persons under section 74 to access any information relating to the registration of a person’s birth, marriage, civil union, or name change:
+  (2) Sections 75A(2)﻿(b), 75B(2), and 75D(2) do not apply to a request made by any of the following persons under section 74 to access any information relating to the registration of a person’s birth, marriage, civil union, or name change:
     (a) a public sector agency that requires the information to avoid prejudice to the maintenance of the law (including the prevention, detection, investigation, prosecution, and punishment of offences):
     (b) a public sector agency to whom disclosure of the information is contemplated or authorised by any other enactment:
     (c) the New Zealand Security Intelligence Service if it requires the information for the exercise of its security-related functions:
     (d) the police so they can notify next of kin of a person’s death.
-  (1) Despite sections 74, 75A(2)(b), 75B(2), and 75D(2), the Registrar-General may direct a Registrar to cause a search to be made or to provide information if the request for the information is made by a person acting on behalf of a government agency or a body or person for the purpose of—
+  (1) Despite sections 74, 75A(2)﻿(b), 75B(2), and 75D(2), the Registrar-General may direct a Registrar to cause a search to be made or to provide information if the request for the information is made by a person acting on behalf of a government agency or a body or person for the purpose of—
     (a) the gathering of statistics or historical or demographic research, and—
       (i) information relating to particular individuals is not sought and will not be retained; or
       (ii) if information relating to particular individuals is sought, the information—
@@ -365,13 +365,13 @@ Sections 73 to 75 are repealed and the following sections substituted:Definition
       (ii) if information relating to particular individuals is sought, the information—
         (A) relates to persons who are dead or were born at least 120 years ago; or
         (B) the Registrar-General is satisfied that, in causing the search to be made, or providing the information, the public benefit outweighs the effect on individual privacy.
-  (2) For the purposes of subsection (1)(a)(ii)(B) and (b)(ii)(B), the Registrar-General must take into account the following matters:
+  (2) For the purposes of subsection (1)﻿(a)﻿(ii)﻿(B) and (b)﻿(ii)﻿(B), the Registrar-General must take into account the following matters:
     (a) the number of individuals whose privacy will be affected:
     (b) the degree to which each individual's privacy will be affected:
     (c) whether an ethics review committee or a similar body has considered and approved the research and, if so, the persons making up the committee or body and the type of work it undertakes:
     (d) how the agency, body, or person undertaking the research proposes to hold, use, and, if relevant, dispose of the information obtained.
   (3) The Registrar-General may impose any conditions on the holding, use, publication, and disposal of information provided under this section that the Registrar-General considers appropriate to prevent or minimise an effect on individual privacy.
-  (4) Before exercising any powers under this section for the purposes of subsection (1)(a)(ii)(B) and (b)(ii)(B), the Registrar-General must—
+  (4) Before exercising any powers under this section for the purposes of subsection (1)﻿(a)﻿(ii)﻿(B) and (b)﻿(ii)﻿(B), the Registrar-General must—
     (a) consult with, and invite comments from, the Privacy Commissioner; and
     (b) take those comments into account.
 
@@ -379,14 +379,14 @@ Sections 73 to 75 are repealed and the following sections substituted:Definition
 Section 78 is amended by repealing subsection (4) and substituting the following subsections:
   (4) The Registrar-General may notify a government agency that has an interest in ensuring that people do not have more than 1 identity of the fact that section 65 applies to a person and provide details about the person, such as the person's date of birth, former name, and new name, to the agency.
   (5) However, the Registrar-General may do so only if he or she has the written approval of—
-    (a) the Commissioner of Police, in the case of a new identity created as the result of a request made under section 65(1)(a); or
-    (b) the Director of Security, in the case of a new identity created as the result of a request made under section 65(1)(b).
+    (a) the Commissioner of Police, in the case of a new identity created as the result of a request made under section 65(1)﻿(a); or
+    (b) the Director of Security, in the case of a new identity created as the result of a request made under section 65(1)﻿(b).
   (6) Subsections (7) and (8) apply if a person requests, under this Act, birth information, death information, marriage information, civil union information, or name change information of a person for whom a new identity has been created.
   (7) The Registrar-General must, as soon as practicable,—
     (a) cause the person who has the new identity to be notified that the information has been requested, if the Registrar-General has the person's latest contact details; and
     (b) also notify—
-      (i) the Commissioner of Police, if the new identity was created as a result of a request under section 65(1)(a); or
-      (ii) the Director of Security, if the new identity was created as a result of a request under section 65(1)(b).
+      (i) the Commissioner of Police, if the new identity was created as a result of a request under section 65(1)﻿(a); or
+      (ii) the Director of Security, if the new identity was created as a result of a request under section 65(1)﻿(b).
   (8) The Registrar-General may also inform the person who has the new identity and the Commissioner of Police or the Director of Security (whichever is notified under subsection (7)) of the following information:
     (a) the date and time of the request:
     (b) the name, address, and contact details (if known) of the person who made the request:
@@ -398,7 +398,7 @@ Section 78 is amended by repealing subsection (4) and substituting the following
 (2) Section 78A(1) is amended by omitting and civil union, and substituting civil union information, and name change.
 (3) Section 78A(4) is amended by omitting and civil union, and substituting civil union information, and name change.
 (4) Section 78A is amended by inserting the following subsection after subsection (4):
-  (4A) Sections 74, 75A(2)(b), 75B(2), and 75D(2) do not apply if this section applies.
+  (4A) Sections 74, 75A(2)﻿(b), 75B(2), and 75D(2) do not apply if this section applies.
 (5) Section 78A is amended by adding the following subsection:
   (6) In this section, a reference to the chief executive of a specified agency means, in the case of the Government Superannuation Fund Authority or the National Provident Fund, a reference to the Board of the Government Superannuation Fund Authority or, as the context requires, the Board of Trustees of the National Provident Fund.
 
@@ -487,8 +487,8 @@ The following sections are inserted after section 78A:Information matching to tr
       (iii) the place where the person died or the place where it was registered, or both:
       (iv) the date of birth of the person who died or the age of the person on death, or both:
       (v) the registration number.
-  (4) Subsection (3) is subject to sections 75A(2)(b) and 75B(2).
-  (5) If this section applies, sections 74(2)(e) and (3) and 75D(2) do not apply.
+  (4) Subsection (3) is subject to sections 75A(2)﻿(b) and 75B(2).
+  (5) If this section applies, sections 74(2)﻿(e) and (3) and 75D(2) do not apply.
   (1) Index information must not be made available intentionally on an Internet site.
   (2) Index information that is made available on an Internet site before the commencement of this section must be removed from the site within 14 days after the commencement of this section.
   (3) However, index information may be made available on an Internet site (or remain available if it is available on the site before the commencement of this section) if—
@@ -497,7 +497,7 @@ The following sections are inserted after section 78A:Information matching to tr
       (i) is the subject of the information; or
       (ii) has been granted a power of attorney or given written authority to make the information available by the person who is the subject of the information; or
     (c) the information is historical information.
-  (4) Index information may be made available on an Internet site under subsection (3)(b)(ii) only to the extent that the power of attorney or written authority does not prohibit making available the information on the Internet.
+  (4) Index information may be made available on an Internet site under subsection (3)﻿(b)﻿(ii) only to the extent that the power of attorney or written authority does not prohibit making available the information on the Internet.
   (5) In this section,—
     - **index information** means information obtained under section 74(2) before the commencement of this section, or section 39B(2) of the Births and Deaths Registration Act 1951, or part of the information obtained
     - **Internet site** includes part of an Internet site that is not generally accessible to members of the public.
@@ -509,7 +509,7 @@ The following sections are inserted after section 78A:Information matching to tr
 
 ### 31 Registrars
 (1) Section 81(1) is amended by adding or any other Act under which Registrars exercise functions.
-(2) Section 81(2)(c) is amended by inserting or any other Act under which Registrars exercise functions after Act.
+(2) Section 81(2)﻿(c) is amended by inserting or any other Act under which Registrars exercise functions after Act.
 
 ### 32 Heading to Part 11 substituted
 The heading to Part 11 is omitted and the following heading substituted: Powers of inquiry and correction and updating of records.
@@ -524,7 +524,7 @@ Sections 82 to 84 are repealed and the following sections substituted:Registrar-
   (3) The Registrar-General may delegate his or her powers under this section to 1 or more Registrars.
   (4) In this section, registrable event means an adoption, birth, death, marriage, civil union, name change, or sexual assignment or reassignment.
   (1) If a Registrar is satisfied (on reasonable grounds) after making any inquiries under section 82 that seem appropriate, that information in respect of a birth, death, marriage, civil union, or name change is or is likely to be incorrect, he or she must decline to record the information.
-  (2) This section overrides anything in this Act to the contrary and is in addition to the powers of the Registrar-General under sections 24(2), 24(3)(b), 25(b), 30(2), and 31.
+  (2) This section overrides anything in this Act to the contrary and is in addition to the powers of the Registrar-General under sections 24(2), 24(3)﻿(b), 25(b), 30(2), and 31.
   (1) If a Registrar is satisfied, after making any inquiries under section 82 that seem appropriate, that information recorded under this Act or a former Act contains a clerical error, he or she must correct the error and notify the Registrar-General of the error and its correction.
   (2) If the Registrar-General is satisfied, after making any inquiries under section 82 that seem appropriate, that any information—
     (a) recorded under this Act or a former Act is incorrect, he or she must cause it to be removed and (if the Registrar-General is satisfied that relevant information in the Registrar-General's possession is correct) cause the correct information to be substituted; or
@@ -532,7 +532,7 @@ Sections 82 to 84 are repealed and the following sections substituted:Registrar-
   (1) The Registrar-General must amend a person's birth information in accordance with subsection (2) if the Registrar-General is satisfied, after making any inquiries under section 82 that seem appropriate, that—
     (a) the person was conceived as a result of an AHR procedure to which Part 2 of the Status of Children Act 1969 applies; and
     (b) the person's birth information does not include information about a parent of the person as determined under that Act, or includes information about a person purporting to be a parent but who is not a parent in terms of that Act.
-  (2) The Registrar-General must amend the birth information by adding or deleting (or both) information described in subsection (1)(b).
+  (2) The Registrar-General must amend the birth information by adding or deleting (or both) information described in subsection (1)﻿(b).
   (3) In this section, AHR procedure has the same meaning as in section 15 of the Status of Children Act 1969.
 
 ### 34 Family Court may consider proposed corrections in cases of difficulty or dispute
@@ -563,10 +563,10 @@ The following sections are inserted after section 87:Provision of information to
   (2) Information required by the forms must be prescribed by regulations and may include information prescribed to be contained in certificates under this Act.
 
 ### 38 Regulations
-Section 88(1) is amended by inserting the following paragraphs after paragraph (a):.
-  (ab) specifying the grounds on which a request for a non-disclosure direction may be made to the Registrar-General under section 75A(2)(b):
-  (ac) specifying the grounds on which a request for the reinstatement of a non-disclosure direction may be made to the Registrar-General under section 75B(4)(b):
-  (ad) prescribing the period referred to in section 75B(3)(a) for which a non-disclosure direction under section 75A(2)(b) remains in force, including the conditions subject to which any such direction ceases to be in force:
+Section 88(1) is amended by inserting the following paragraphs after paragraph (a):
+  (ab) specifying the grounds on which a request for a non-disclosure direction may be made to the Registrar-General under section 75A(2)﻿(b):
+  (ac) specifying the grounds on which a request for the reinstatement of a non-disclosure direction may be made to the Registrar-General under section 75B(4)﻿(b):
+  (ad) prescribing the period referred to in section 75B(3)﻿(a) for which a non-disclosure direction under section 75A(2)﻿(b) remains in force, including the conditions subject to which any such direction ceases to be in force:
 
 ### 39 Offences and penalties
 (1) Section 89(1) is amended by adding the following paragraphs:
@@ -574,13 +574,13 @@ Section 88(1) is amended by inserting the following paragraphs after paragraph (
   (h) for a purpose contemplated by this Act, provides any means of identification knowing that it is false or having reason to suspect that it has been forged or falsified.
 (2) Section 89(2) is amended by omitting to imprisonment for a term not exceeding 2 years and substituting on indictment to imprisonment for a term not exceeding 5 years.
 (3) Section 89 is amended by repealing subsection (3) and substituting the following subsections:
-  (2A) A person who commits an offence against subsection (1)(g) or (h) is liable, on summary conviction, to a term of imprisonment not exceeding 3 months or a fine not exceeding $10,000, or both.
+  (2A) A person who commits an offence against subsection (1)﻿(g) or (h) is liable, on summary conviction, to a term of imprisonment not exceeding 3 months or a fine not exceeding $10,000, or both.
   (3) A person who commits any other offence against this Act is liable, on summary conviction, to a fine not exceeding—
     (a) $50,000 for a contravention of or failure to comply with section 78F(7) or 78I:
     (b) $10,000 for a contravention of or failure to comply with section 42:
     (c) $1,000 for—
       (i) a contravention of or failure to comply with a provision of this Act other than section 42, 78F(7), or 78I; or
-      (ii) an offence against any of subsection (1)(d) to (f).
+      (ii) an offence against any of subsection (1)﻿(d) to (f).
 
 ### 40 New section 89A inserted
 The following section is inserted after section 89:Electronic transactions
@@ -604,7 +604,7 @@ The following sections are inserted after section 91:No liability for costs incu
 Applications under the Births, Deaths, and Marriages Registration Act 1995 made before the commencement of this Act are to be continued and completed in accordance with the Births, Deaths, and Marriages Registration Act 1995 as if this Act had not been enacted.
 
 ### 44 Transitional provision relating to Human Tissue Act 2008
-Until the commencement of section 92 of the Human Tissue Act 2008, references to that Act in the items relating to sections 46E(1)(c)(ii) and 46F of the Burial and Cremation Act 1964 (as set out in Schedule 3 of this Act) must be read as references to the Human Tissue Act 1964.
+Until the commencement of section 92 of the Human Tissue Act 2008, references to that Act in the items relating to sections 46E(1)﻿(c)﻿(ii) and 46F of the Burial and Cremation Act 1964 (as set out in Schedule 3 of this Act) must be read as references to the Human Tissue Act 1964.
 
 ### 45 New Schedule 1A substituted
 Schedule 1A is repealed and the schedule set out in Schedule 1 of this Act is substituted.
@@ -680,9 +680,9 @@ The Acts specified in Schedule 3 are amended in the manner set out in that sched
   (a) the doctor who last attended the person during the illness is unavailable; or
   (b) less than 24 hours has passed since the death, and the doctor who last attended the person during the illness is unlikely to be able to give a doctor's certificate for the death within 24 hours after the death; or
   (c) 24 hours or a longer period has passed since the death, and the doctor who last attended the person during the illness has not given a doctor's certificate for the death.
-(4) Subsection (3)(b) and (c) do not apply if the doctor who last attended the person during the illness has refused to give a doctor's certificate for the death because that doctor was not satisfied, or was not yet satisfied, that the death was a natural consequence of the illness.
+(4) Subsection (3)﻿(b) and (c) do not apply if the doctor who last attended the person during the illness has refused to give a doctor's certificate for the death because that doctor was not satisfied, or was not yet satisfied, that the death was a natural consequence of the illness.
 (5) A doctor must not give a doctor's certificate under subsection (2) or (3) if the death—
-  (a) must be reported to the New Zealand Police because section 13 (except subsection (1)(b)) of the Coroners Act 2006 applies; or
+  (a) must be reported to the New Zealand Police because section 13 (except subsection (1)﻿(b)) of the Coroners Act 2006 applies; or
   (b) has been reported to a coroner under section 15(2) of that Act.
 (6) A doctor may give a doctor's certificate despite subsection (5) if a coroner has decided not to open an inquiry into the death.
 (7) A doctor who must give a doctor's certificate under subsection (2), but knows that since he or she attended the person concerned some other doctor attended the person, must not give the certificate without taking all reasonable steps to consult the other doctor.
@@ -744,7 +744,7 @@ A person who contravenes or fails to comply with section 46AA or 46A commits an 
   (a) there is an agreement between the department and the Registrar-General in accordance with section 99 of the Privacy Act 1993; and
   (b) the request is in accordance with the agreement.
 
-| Births, Deaths, Marriages, and Relationships Registration Act 1995 | 89(1)(a), (b), (c) | Offences relating to making a false statement or tampering with information under the Births, Deaths, Marriages, and Relationships Registration Act 1995 |
+| Births, Deaths, Marriages, and Relationships Registration Act 1995 | 89(1)﻿(a), (b), (c) | Offences relating to making a false statement or tampering with information under the Births, Deaths, Marriages, and Relationships Registration Act 1995 |
 | --- | --- | --- |
 
 ## Schedule 4 — Amendments to Births, Deaths, and Marriages Registration (Prescribed Information and Forms) Regulations 1995
