@@ -1,5 +1,5 @@
 # Coroners Act 2006
-_Consolidation as at 2023-04-05_
+_Consolidation as at 2023-06-15_
 
 ### 1 Title
 This Act is the Coroners Act 2006.
@@ -91,7 +91,7 @@ In this Act, unless the context otherwise requires,—
     (a) includes a part of a person (whether or not the person's identity is known when the part is discovered or is later determined)—
       (i) without which no person can live; or
       (ii) discovered in such circumstances or such a state that it is probable that the person is dead; and
-    (b) does not include a dead foetus or a still-born child (as those terms are defined in section 2 of the Births, Deaths, Marriages, and Relationships Registration Act 1995); and
+    (b) does not include a dead foetus or a stillborn child (as those terms are defined in section 4 of the Births, Deaths, Marriages, and Relationships Registration Act 2021); and
     (c) for the purposes of an authorisation for release under section 42, does not include any body part or bodily sample retained in accordance with section 48(2)
   - **body part** , in relation to a body,—
     (a) means any part of the body (whether separated from the body before, on, or after the death concerned); and so
@@ -800,7 +800,7 @@ A coroner who opens an inquiry under any of sections 60, 62, and 65, or in accor
   (b) open an inquiry into the death and then adjourn it; or
   (c) adjourn an inquiry already opened into the death.
 (3) A coroner who has under subsection (2) postponed or adjourned an inquiry must not open or proceed with it until criminal proceedings against the person have been finally concluded (as defined in subsection (6)).
-(4) Subsections (2) and (3) do not limit or affect sections 44 and 45 of the Births, Deaths, Marriages, and Relationships Registration Act 1995 (which require the coroner to notify a Registrar of the death).
+(4) Subsections (2) and (3) do not limit or affect section 42 of the Births, Deaths, Marriages, and Relationships Registration Act 2021 (which requires the coroner to notify a Registrar of the death).
 (5) Despite subsection (3), a coroner who has under subsection (2) postponed or adjourned an inquiry may later open or resume it if satisfied that—
   (a) the person is no longer to be charged with a criminal offence relating to the death or its circumstances; or
   (b) to open or resume it would not prejudice the person charged, or thought likely to be charged, with a criminal offence relating to the death or its circumstances.
