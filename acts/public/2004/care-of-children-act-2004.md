@@ -1,5 +1,5 @@
 # Care of Children Act 2004
-_Consolidation as at 2022-11-30_
+_Consolidation as at 2023-06-15_
 
 ### 1 Title
 This Act is the Care of Children Act 2004.
@@ -126,7 +126,7 @@ In this Act, unless the context otherwise requires,—
     (a) Australia; or
     (b) any State or Territory of Australia; or
     (c) any other country outside New Zealand that is declared by Order in Council to be a prescribed overseas country for the purposes of this Act; and, for the purposes of this paragraph, the Cook Islands, Niue, and Tokelau must each be treated as a country outside New Zealand
-  - **Registrar-General** has the meaning given to it by section 2 of the Births, Deaths, Marriages, and Relationships Registration Act 1995
+  - **Registrar-General** has the meaning given to it by section 4 of the Births, Deaths, Marriages, and Relationships Registration Act 2021
   - **role of providing day-to-day care for a child** —
     (a) means the role, under this Act, an order under this Act, or an order made by a court in a prescribed overseas country, of providing day-to-day care for the child; and
     (b) includes, while exercising that role, exclusive responsibility for the child’s day-to-day living arrangements
@@ -182,6 +182,7 @@ For the purposes of this Act, guardianship of a child means having (and therefor
   (c) determining for or with the child, or helping the child to determine, questions about important matters affecting the child.
 (2) Important matters affecting the child include (without limitation)—
   (a) the child’s name (and any changes to it); and
+  (aa) the child’s registered sex under the Births, Deaths, Marriages, and Relationships Registration Act 2021 (and any changes to it); and
   (b) changes to the child’s place of residence (including, without limitation, changes of that kind arising from travel by the child) that may affect the child’s relationship with his or her parents and guardians; and
   (c) medical treatment for the child (if that medical treatment is not routine in nature); and
   (d) where, and how, the child is to be educated; and
@@ -208,7 +209,7 @@ For the purposes of this Act, guardianship of a child means having (and therefor
 (5) This section is subject to sections 18 to 34, and therefore does not limit or affect the appointment of 1 or more additional guardians (for example, an additional testamentary guardian of the child appointed by the deceased parent under section 26(2)) or an order (relating to guardianship of the court) under section 33(1).
 
 ### 18 Father identified on birth certificate is guardian
-(1) A child’s father who is not a guardian of the child just because of section 17(2) or (3) becomes a guardian of the child if his particulars are registered after the commencement of this section as part of the child’s birth information because he and the child’s mother both notified the birth as required by section 9 of the Births, Deaths, Marriages, and Relationships Registration Act 1995.
+(1) A child’s father who is not a guardian of the child just because of section 17(2) or (3) becomes a guardian of the child if his particulars are registered after the commencement of this section as part of the child’s birth information because he and the child’s mother both notified the birth as required by section 12 of the Births, Deaths, Marriages, and Relationships Registration Act 2021.
 (2) Subsection (1) does not change the guardianship status of a father who became a guardian before the commencement of this section.
 
 ### 19 Father who was not mother’s spouse, civil union partner, or de facto partner may apply to be appointed as guardian
