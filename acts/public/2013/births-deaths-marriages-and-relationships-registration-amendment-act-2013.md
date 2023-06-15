@@ -1,5 +1,5 @@
 # Births, Deaths, Marriages, and Relationships Registration Amendment Act 2013
-_Consolidation as at 2013-02-26_
+_Consolidation as at 2023-06-15_
 
 ### 1 Title
 This Act is the Births, Deaths, Marriages, and Relationships Registration Amendment Act 2013.
@@ -26,4 +26,4 @@ The following section is inserted after section 78A:Disclosure of birth informat
   (4) Subsection (1) applies whether or not a non-disclosure direction is in force in respect of any or all of the personal information about an identifiable individual referred to in that subsection.
   (5) In this section,—
     - **approved information sharing agreement** and have the meanings given to them by section 96C of the Privacy Act 1993
-    - **non-disclosure direction** means a direction made by the Registrar-General on a request under section 75A(2)(b) that a person's birth information, marriage information, civil union information, or name change information not be disclosed to the public.
+    - **non-disclosure direction** means a direction made by the Registrar-General on a request under section 75A(2)﻿(b) that a person's birth information, marriage information, civil union information, or name change information not be disclosed to the public.
