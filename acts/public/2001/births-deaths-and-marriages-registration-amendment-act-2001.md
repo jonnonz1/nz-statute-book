@@ -1,5 +1,5 @@
 # Births, Deaths, and Marriages Registration Amendment Act 2001
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2023-06-15_
 
 ### 1 Title
 (1) This Act is the Births, Deaths, and Marriages Registration Amendment Act 2001.
