@@ -1,5 +1,5 @@
 # Electoral Act 1993
-_Consolidation as at 2023-03-31_
+_Consolidation as at 2023-06-15_
 
 > An Act to reform the electoral system and to provide, in particular, if the proposal for the introduction of the mixed member proportional system is carried at the referendum held under the Electoral Referendum Act 1993,—afor the introduction of the mixed member proportional system of representation in relation to the House of Representatives:bfor the establishment of an Electoral Commission:cfor the repeal of the Electoral Act 1956
 
@@ -122,7 +122,7 @@ This Act may be cited as the Electoral Act 1993.
       (ii) any person by reason of his or her being employed in any of Her Majesty’s forces except the Royal New Zealand Navy, the Regular Force of the New Zealand Army, or the Regular Air Force of the Royal New Zealand Air Force; or
       (iii) any person remunerated by fees or commission and not by wages or salary
   - **Registrar** , in relation to any district, means the Registrar of Electors appointed for that district under section 22; and includes his or her deputy
-  - **Registrar of Births and Deaths** means Registrar within the meaning of section 2 of the Births, Deaths, Marriages, and Relationships Registration Act 1995
+  - **Registrar of Births and Deaths** means Registrar within the meaning of section 4 of the Births, Deaths, Marriages, and Relationships Registration Act 2021
   - **regulated period** has the meaning given to it by—
     (a) section 3B, in relation to a general election:
     (b) section 3BA, in relation to a by-election
@@ -1633,16 +1633,16 @@ If the Electoral Commission receives, during an inquiry under section 89D(1), or
 **Death of registered elector**
 
 ### 92 Notification of death of registered elector
-(1) The Registrar-General appointed under section 79(1) of the Births, Deaths, Marriages, and Relationships Registration Act 1995 must, as soon as is reasonably practicable after the registration of the death of any person of or over the age of 17 years, notify the information described in subsection (2) to the Electoral Commission.
-(2) The information referred to in subsection (1) is the fact of the death, together with any particulars known to the Registrar-General appointed under section 79(1) of the Births, Deaths, Marriages, and Relationships Registration Act 1995 that may be required to enable the Electoral Commission—
+(1) The Registrar-General appointed under section 124(1) of the Births, Deaths, Marriages, and Relationships Registration Act 2021 must, as soon as is reasonably practicable after the registration of the death of any person of or over the age of 17 years, notify the information described in subsection (2) to the Electoral Commission.
+(2) The information referred to in subsection (1) is the fact of the death, together with any particulars known to the Registrar-General appointed under section 124(1) of the Births, Deaths, Marriages, and Relationships Registration Act 2021 that may be required to enable the Electoral Commission—
   (a) to determine the electoral district in which the deceased person resided; and
   (b) to take appropriate steps in relation to the roll and other records.
 
 **Marriage or civil union of registered elector**
 
 ### 93 Notification of marriages and civil unions
-(1) In this section, Registrar-General means the Registrar-General appointed under section 79(1) of the Births, Deaths, Marriages, and Relationships Registration Act 1995.
-(2) As soon as is reasonably practicable after the registration of a marriage under Part 7 of the Births, Deaths, Marriages, and Relationships Registration Act 1995, or the registration of a civil union under Part 7A of that Act, the Registrar-General must provide to the Electoral Commission the following information in respect of each of the parties to the marriage or civil union:
+(1) In this section, Registrar-General means the Registrar-General appointed under section 124(1) of the Births, Deaths, Marriages, and Relationships Registration Act 2021.
+(2) As soon as is reasonably practicable after the registration of a marriage or a civil union under subpart 5 of Part 2 of the Births, Deaths, Marriages, and Relationships Registration Act 2021, the Registrar-General must provide to the Electoral Commission the following information in respect of each of the parties to the marriage or civil union:
   (a) full name:
   (b) date of birth:
   (c) usual residential address:
@@ -1658,8 +1658,8 @@ If the Electoral Commission receives, during an inquiry under section 89D(1), or
 **Change of name of registered elector**
 
 ### 94 Notification of change of name
-(1) This section applies if a person registers a change of his or her name under section 21B of the Births, Deaths, Marriages, and Relationships Registration Act 1995.
-(2) The Registrar-General appointed under section 79(1) of the Births, Deaths, Marriages, and Relationships Registration Act 1995 must provide to the Electoral Commission the following information for the purposes of determining whether any change is required to the name and address under which that person is registered on the roll:
+(1) This section applies if a person registers a change of his or her name under section 69 or 70 of the Births, Deaths, Marriages, and Relationships Registration Act 2021.
+(2) The Registrar-General appointed under section 124(1) of the Births, Deaths, Marriages, and Relationships Registration Act 2021 must provide to the Electoral Commission the following information for the purposes of determining whether any change is required to the name and address under which that person is registered on the roll:
   (a) the old name and the new name of the person; and
   (b) the person’s date of birth; and
   (c) the person’s full residential address.
@@ -2402,10 +2402,10 @@ Where any vacancy is filled under section 137, or the Electoral Commission deter
   (ca)
   (d) if the required deposit is not paid as required by this Act.
 (2) Subject to the concurrence of the Electoral Commission, the Returning Officer shall not accept the nomination of any constituency candidate if the Returning Officer is not satisfied, by such evidence (if any) as the Returning Officer requires, that the name under which the candidate is nominated is—
-  (a) the name under which the candidate’s birth was registered, with any alteration or addition made thereto under section 20 of the Births, Deaths, Marriages, and Relationships Registration Act 1995 or an earlier corresponding provision; or
+  (a) the name under which the candidate’s birth was registered, with any alteration or addition made to it under section 67 of the Births, Deaths, Marriages, and Relationships Registration Act 2021 (or an earlier corresponding provision); or
   (b) in the case of a person who has been adopted, the name conferred on that person by the adoption order; or
   (c) the name by which the candidate was commonly known throughout the period of 12 months ending with the day on which the nomination paper is lodged with the Returning Officer; or
-  (d) the name which was adopted by the candidate through a name change registered under section 21B of the Births, Deaths, Marriages, and Relationships Registration Act 1995 (or an earlier corresponding provision) before the period of 12 months ending with the day on which the nomination paper is lodged with the Returning Officer and which was used by the candidate throughout that period.
+  (d) the name which was adopted by the candidate through a name change registered under section 71 of the Births, Deaths, Marriages, and Relationships Registration Act 2021 (or an earlier corresponding provision) before the period of 12 months ending with the day on which the nomination paper is lodged with the Returning Officer and which was used by the candidate throughout that period.
 (3) Despite anything in subsection (2), in applying that subsection in the case of any constituency candidate who is, or has been, married to, or in a civil union with, another person, the other person’s surname may be substituted for the candidate’s surname in any of the cases specified in paragraphs (a) to (d) of that subsection, unless, if the other person were nominated as a constituency candidate under that surname, the Returning Officer would be required to reject his or her nomination under the provisions of that subsection.
 (4)
 (5) Notwithstanding anything in subsection (2), the Returning Officer may, with the concurrence of the Electoral Commission, accept the nomination of any constituency candidate under a name that does not comply with the provisions of that subsection, if the Returning Officer is satisfied that the name has been adopted by the candidate in good faith and for good reason and is not indecent or offensive or likely to deceive or cause confusion.
