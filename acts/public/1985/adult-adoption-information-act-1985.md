@@ -1,5 +1,5 @@
 # Adult Adoption Information Act 1985
-_Consolidation as at 2021-10-28_
+_Consolidation as at 2023-06-15_
 
 > An Act to provide for greater access to information relating to adoptions and to the parties to adoptions by adult adopted persons and their birth parents, and for other related matters
 
@@ -11,7 +11,7 @@ _Consolidation as at 2021-10-28_
 ### 2 Interpretation
 In this Act, unless the context otherwise requires,—
   - **adopted person** means a person in respect of whom an adoption order has at any time been made; and has a corresponding meaning
-  - **adoption order** means an adoption order made under the Adoption Act 1955 or any corresponding former enactment; and includes an instrument details of which have been registered under section 21A of the Births and Deaths Registration Act 1951 or section 25 of the Births, Deaths, Marriages, and Relationships Registration Act 1995
+  - **adoption order** means an adoption order made under the Adoption Act 1955 or any corresponding former enactment; and includes an instrument details of which have been registered under section 21A of the Births and Deaths Registration Act 1951 or section 33 of the Births, Deaths, Marriages, and Relationships Registration Act 2021
   - **adoptive parent** , in relation to any other person, means a person who has at any time, either alone or pursuant to an application made jointly with a spouse, adopted that other person under an adoption order; but no person shall be an adoptive parent by reason only of—
     (a) having consented to an adoption by a spouse; or
     (b) having become the spouse of an adoptive parent after the adoption concerned
@@ -22,8 +22,8 @@ In this Act, unless the context otherwise requires,—
   - **chief executive** means the chief executive of the Department
   - **Department** means the department for the time being responsible for the administration of the Oranga Tamariki Act 1989
   - **identifying information** , in relation to any person, means that person's name or address; and includes any information that is likely to enable any other person to ascertain that person's name or address
-  - **original birth certificate** , in relation to any person, means a birth certificate (within the meaning of the Births, Deaths, Marriages, and Relationships Registration Act 1995) containing information recorded under that Act or a former Act (within the meaning of that Act) relating to the person's birth, bearing on its face the words ISSUED FOR THE PURPOSES OF THE ADULT ADOPTION INFORMATION ACT 1985; and includes any such certificate from which there have been omitted, in accordance with this Act, any details relating to either or both of the person's birth parents
-  - **Registrar-General** means the Registrar-General appointed under the Births, Deaths, Marriages, and Relationships Registration Act 1995
+  - **original birth certificate** , in relation to any person, means a birth certificate (within the meaning of the Births, Deaths, Marriages, and Relationships Registration Act 2021) containing information recorded under that Act or a former Act (within the meaning of that Act) relating to the person's birth, bearing on its face the words ISSUED FOR THE PURPOSES OF THE ADULT ADOPTION INFORMATION ACT 1985; and includes any such certificate from which there have been omitted, in accordance with this Act, any details relating to either or both of the person's birth parents
+  - **Registrar-General** means the Registrar-General appointed under the Births, Deaths, Marriages, and Relationships Registration Act 2021
   - **social worker** means a social worker employed in the Department; and, in relation to any matter undertaken by one social worker, includes any other social worker dealing with that matter.
 
 **Access to information**
@@ -56,8 +56,8 @@ In this Act, unless the context otherwise requires,—
   (b) the Registrar-General is satisfied that that parent is dead,—
 
 ### 5 Certificates for persons adopted before commencement of Act
-(1) The Registrar-General shall inform every applicant to whom this subsection is applied by section 4(1)﻿(b) of the existence, effect, and date of expiry of the endorsements concerned, and, notwithstanding section 63 of the Births, Deaths, Marriages, and Relationships Registration Act 1995, shall send the applicant an original birth certificate from which there have been removed all details relating to the applicant's birth parents, and every reference to any surname registered for the applicant.
-(2) Notwithstanding section 63 of the Births, Deaths, Marriages, and Relationships Registration Act 1995, but subject to subsection (3), the following provisions shall apply to every application under section 4(1) made by an applicant to whom this subsection is applied by section 4(1)﻿(c):
+(1) The Registrar-General shall inform every applicant to whom this subsection is applied by section 4(1)﻿(b) of the existence, effect, and date of expiry of the endorsements concerned, and, notwithstanding section 83 of the Births, Deaths, Marriages, and Relationships Registration Act 2021, shall send the applicant an original birth certificate from which there have been removed all details relating to the applicant's birth parents, and every reference to any surname registered for the applicant.
+(2) Notwithstanding section 83 of the Births, Deaths, Marriages, and Relationships Registration Act 2021, but subject to subsection (3), the following provisions shall apply to every application under section 4(1) made by an applicant to whom this subsection is applied by section 4(1)﻿(c):
   (a) the Registrar-General shall notify the applicant in writing,—
     (i) if the applicant lives within New Zealand, of the counselling available in the area in which the applicant lives, from social workers and approved persons and organisations; and
     (ii) that except where the applicant lives outside New Zealand, an original birth certificate will not be given to the applicant until the applicant has received counselling:
@@ -74,7 +74,7 @@ In this Act, unless the context otherwise requires,—
   (b) the Registrar-General is not satisfied that that parent is dead.
 
 ### 6 Certificates for persons adopted after commencement of Act
-Notwithstanding section 63 of the Births, Deaths, Marriages, and Relationships Registration Act 1995, the following provisions shall apply to every application under section 4(1) by an applicant to whom this section is applied by section 4(1)﻿(d):as the case requires; and the applicant shall be entitled to uplift it at any reasonable time.
+Notwithstanding section 83 of the Births, Deaths, Marriages, and Relationships Registration Act 2021, the following provisions shall apply to every application under section 4(1) by an applicant to whom this section is applied by section 4(1)﻿(d):as the case requires; and the applicant shall be entitled to uplift it at any reasonable time.
   (a) the Registrar-General shall notify the applicant in writing—
     (i) of the counselling available in the area in which the applicant lives, from social workers and approved persons and organisations; and
     (ii) that if within 28 days the applicant notifies the Registrar-General in writing that the applicant desires counselling from a social worker or a specified approved person or organisation, an original birth certificate will be sent to the appropriate office of the Department or that person or organisation; and
@@ -146,7 +146,7 @@ Notwithstanding section 63 of the Births, Deaths, Marriages, and Relationships R
   (b) satisfied that it is necessary or desirable, for the purpose of providing treatment of or advice relating to any medical condition of that patient, or for the purpose of providing genetic counselling for or in relation to that patient, to obtain information about the medical or genetic history of an unknown relative,—
 (3) Where, in the opinion of any doctor, any information obtained as a result of that doctor's dealings with any patient is likely to be relevant to the provision of treatment of or advice relating to any medical condition or potential medical condition of any unknown relative, or the provision of genetic counselling for or in relation to any unknown relative, that doctor may with the consent of that patient (or, where that patient is not an adult, of that patient's guardian) give the chief executive notice in writing to that effect, together with a separate statement of that information.
 (4) A social worker may produce a notice under subsection (2) or subsection (3)—
-  (a) to the Registrar-General; and in that case, notwithstanding section 63 of the Births, Deaths, Marriages, and Relationships Registration Act 1995, the social worker shall be entitled to obtain an original birth certificate of the adopted person concerned:
+  (a) to the Registrar-General; and in that case, notwithstanding section 83 of the Births, Deaths, Marriages, and Relationships Registration Act 2021, the social worker shall be entitled to obtain an original birth certificate of the adopted person concerned:
   (b) to the Registrar of the court where the court file relating to the adoption concerned is held; and in that case the social worker shall be entitled to search, inspect, and take a copy of any document on the file concerned.
 (5) A social worker may disclose to the doctor concerned (in the case of a notice under subsection (2)) or the doctor of any unknown relative (in the case of a notice under subsection (3)) any information whatsoever (not being identifying information) relevant to the medical or genetic history of the patient or relative concerned.
 (6) No doctor shall disclose to any person any identifying information obtained by the use of information obtained under this section.
