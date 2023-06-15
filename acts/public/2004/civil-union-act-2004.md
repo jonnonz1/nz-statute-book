@@ -1,5 +1,5 @@
 # Civil Union Act 2004
-_Consolidation as at 2021-10-28_
+_Consolidation as at 2023-06-15_
 
 ### 1 Title
 This Act is the Civil Union Act 2004.
@@ -19,7 +19,7 @@ In this Act, unless the context otherwise requires,—
   - **Minister** means the Minister of the Crown who, under the authority of any warrant or with the authority of the Prime Minister, is for the time being responsible for the administration of this Act
   - **New Zealand** includes the Ross Dependency
   - **prohibited degrees of civil union** means the degrees of relationship set out in Schedule 2
-  - **Registrar** and have the meanings given in section 2 of the Births, Deaths, Marriages, and Relationships Registration Act 1995.
+  - **Registrar** and have the meanings given in section 4 of the Births, Deaths, Marriages, and Relationships Registration Act 2021.
 
 ### 4 Overview of civil union
 (1) Two people, whether they are of different or the same sex, may enter into a civil union under this Act if—
@@ -27,7 +27,7 @@ In this Act, unless the context otherwise requires,—
   (b) they are not within the prohibited degrees of civil union as set out in Schedule 2 (but in some cases a court may dispense with this prohibition—see section 10):
   (c) they are not currently married or in a civil union with someone else (but married couples may enter into a civil union with each other—see section 18).
 (2) A civil union may be solemnised by a Registrar or, if a Registrar has issued a licence, by a civil union celebrant or an exempt body.
-(3) After a civil union is solemnised, it is registered as a civil union under Part 7A of the Births, Deaths, Marriages, and Relationships Registration Act 1995.
+(3) After a civil union is solemnised, it is registered as a civil union under subpart 5 of Part 2 of the Births, Deaths, Marriages, and Relationships Registration Act 2021.
 (4) The dissolution of a civil union is governed by the Family Proceedings Act 1980.
 (5) This section is by way of explanation only. If a provision of this or any other Act is inconsistent with this section, the other provision prevails.
 
@@ -73,7 +73,7 @@ Two people who are within the prohibited degrees of civil union, as set out in S
   (b) the person believes that the parties are not within the prohibited degrees of civil union or, if they are, an order has been made under section 10 dispensing with the prohibition; and
   (c) there is no other lawful impediment to the intended civil union.
 (2A) The information in subsection (2) may be verified—
-  (a) electronically in a manner specified by the Registrar-General (see also section 82A of the Births, Deaths, Marriages, and Relationships Registration Act 1995); or
+  (a) electronically in a manner specified by the Registrar-General (see also section 128 of the Births, Deaths, Marriages, and Relationships Registration Act 2021); or
   (b) by the person giving notice appearing personally before the Registrar and making a statutory declaration.
 (3) However, if the 2 parties to an intended civil union are ordinarily resident outside New Zealand, the requirements of subsections (1) and (2A)﻿(b) are satisfied if—
   (a) one of the parties gives notice to the Registrar of the intended civil union in a manner specified by the Registrar-General; and
@@ -116,11 +116,11 @@ A licence authorises, but does not oblige, a civil union celebrant or an exempt 
 (2) During the solemnisation, in the presence of the civil union celebrant and at least 2 witnesses, each party must make a clear statement to the other that—
   (a) names both parties; and
   (b) acknowledges that they are freely joining in a civil union with each other.
-(3) The celebrant must, under section 62B of the Births, Deaths, Marriages, and Relationships Registration Act 1995, take all reasonable steps to ensure that the civil union is registered under that Act.
+(3) The celebrant must, under section 53 of the Births, Deaths, Marriages, and Relationships Registration Act 2021, take all reasonable steps to ensure that the civil union is registered under that Act.
 
 ### 16 Solemnisation by exempt body
 (1) A civil union may be solemnised by an exempt body if it is solemnised in accordance with the rules and procedures of the body as most recently notified to the Registrar-General in accordance with Schedule 1.
-(2) When a civil union is solemnised by an exempt body, the obligations imposed on civil union celebrants by section 62B of the Births, Deaths, Marriages, and Relationships Registration Act 1995 must be performed by the person or office holder, or in the manner, as set out in the rules and procedures of the exempt body that have been most recently notified to the Registrar-General in accordance with Schedule 1.
+(2) When a civil union is solemnised by an exempt body, the obligations imposed on civil union celebrants by section 53 of the Births, Deaths, Marriages, and Relationships Registration Act 2021 must be performed by the person or office holder, or in the manner, as set out in the rules and procedures of the exempt body that have been most recently notified to the Registrar-General in accordance with Schedule 1.
 
 **Changing form of relationship**
 
@@ -217,7 +217,7 @@ The purpose of section 18 is to allow couples who are married or in a civil unio
 (1) Any person may apply to the Registrar-General to be appointed as a civil union celebrant.
 (2) The Registrar-General may appoint a person as a civil union celebrant if the person has paid any prescribed application fee and the Registrar-General is satisfied that—
   (a) the person is of good character; and
-  (b) the person will conscientiously perform the duties of a civil union celebrant under this Act and under the Births, Deaths, Marriages, and Relationships Registration Act 1995; and
+  (b) the person will conscientiously perform the duties of a civil union celebrant under this Act and under the Births, Deaths, Marriages, and Relationships Registration Act 2021; and
   (c) it is in the interests of the public generally, or of a particular community (whether defined by geography, interest, belief, or some other factor) that the person be appointed as a civil union celebrant.
 (3) The Registrar-General must give notice in the Gazette of the name of every person who is appointed or reappointed as a civil union celebrant.
 (4) A person named in a notice given under subsection (3) is entitled to act as a civil union celebrant on and from the date specified in the notice, and ceases to be entitled to act as a civil union celebrant when his or her appointment ceases under section 28(1).
@@ -374,8 +374,8 @@ Consents given under section 19 or 20 before the commencement date continue to h
   (f) any prescribed information.
 (3) The application must be—
   (a) signed by at least 10 members of the body who are of or over the age of 16, each of whom must state his or her age and address; or
-  (b) approved electronically by, or on behalf of, at least 10 members of the body who are of or over the age of 16 in a manner specified by the Registrar-General (see also section 82A of the Births, Deaths, Marriages, and Relationships Registration Act 1995).
-(3A) A person who is not a member of the organisation must verify, either electronically in a manner specified by the Registrar-General or by statutory declaration, that the signatories to an application signed under subsection (3)﻿(a) are who they claim to be and are members of the body (see also section 82A of the Births, Deaths, Marriages, and Relationships Registration Act 1995).
+  (b) approved electronically by, or on behalf of, at least 10 members of the body who are of or over the age of 16 in a manner specified by the Registrar-General (see also section 128 of the Births, Deaths, Marriages, and Relationships Registration Act 2021).
+(3A) A person who is not a member of the organisation must verify, either electronically in a manner specified by the Registrar-General or by statutory declaration, that the signatories to an application signed under subsection (3)﻿(a) are who they claim to be and are members of the body (see also section 128 of the Births, Deaths, Marriages, and Relationships Registration Act 2021).
 
 ### 2 Registrar-General or Minister may grant exemption
 (1) The Registrar-General may agree to grant the exemption applied for if any prescribed application fee is paid and the Registrar-General is satisfied that—
