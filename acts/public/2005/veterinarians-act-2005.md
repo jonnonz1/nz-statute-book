@@ -1,5 +1,5 @@
 # Veterinarians Act 2005
-_Consolidation as at 2021-10-28_
+_Consolidation as at 2023-06-15_
 
 ### 1 Title
 This Act is the Veterinarians Act 2005.
@@ -213,7 +213,7 @@ If the Council is satisfied that a person with provisional registration is fit f
     (i) under subsection (2); or
     (ii) by any other means; or
   (c) the person has been registered as a result of an error and the Council is informed of or discovers the error.
-(2) On the registration of the death of any person who is stated to be a veterinarian, or who is registered under this Act, every Registrar (within the meaning of section 2 of the Births, Deaths, Marriages, and Relationships Registration Act 1995)—
+(2) On the registration of the death of any person who is stated to be a veterinarian, or who is registered under this Act, every Registrar (within the meaning of section 4 of the Births, Deaths, Marriages, and Relationships Registration Act 2021)—
   (a) must notify the Council in writing of the death of the person and particulars of the date and place of death; and
   (b) may charge the Council a reasonable fee for a notification under paragraph (a).
 (3) This section does not limit the powers of the Council under Part 3.
