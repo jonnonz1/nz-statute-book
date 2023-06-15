@@ -1,5 +1,5 @@
 # Marriage Act 1955
-_Consolidation as at 2021-10-28_
+_Consolidation as at 2023-06-15_
 
 > An Act to consolidate and amend the law relating to marriage
 
@@ -19,7 +19,7 @@ _Consolidation as at 2021-10-28_
   - **service marriage** means a marriage solemnised outside New Zealand at a time when the person who solemnised it, and at least one party to it, is a member of a naval, military, or air force raised in New Zealand, and the person who solemnised it—
     (a) is both a chaplain and a marriage celebrant; or
     (b) in the case only of a marriage solemnised before 1 September 1995, is a person duly authorised to solemnise it.
-(2) In this Act, unless the context otherwise requires, the terms Registrar-General, Deputy Registrar-General, and Registrar have the meanings assigned to them by section 2 of the Births, Deaths, Marriages, and Relationships Registration Act 1995.
+(2) In this Act, unless the context otherwise requires, the terms Registrar-General, Deputy Registrar-General, and Registrar have the meanings assigned to them by section 4 of the Births, Deaths, Marriages, and Relationships Registration Act 2021.
 
 ### 2A Transitional, savings, and related provisions
 The transitional, savings, and related provisions set out in Schedule 1AA have effect according to their terms.
@@ -58,11 +58,11 @@ The transitional, savings, and related provisions set out in Schedule 1AA have e
   (b) the number or, if that cannot be accurately ascertained, the approximate number of members of the organisation who are of or over the age of 18 years.
 (2A) The statement must be—
   (a) signed by the persons specified in subsection (2B), each of whom must state his or her age and address; or
-  (b) approved electronically by, or on behalf of, the persons specified in subsection (2B) in a manner specified by the Registrar-General (see also section 82A of the Births, Deaths, Marriages, and Relationships Registration Act 1995).
+  (b) approved electronically by, or on behalf of, the persons specified in subsection (2B) in a manner specified by the Registrar-General (see also section 128 of the Births, Deaths, Marriages, and Relationships Registration Act 2021).
 (2B) The persons are—
   (a) the chief office bearer and at least 10 members of the organisation who are of or over the age of 18; or
   (b) in the case of an organisation whose constitution or tenets do not recognise a chief office bearer, at least 10 members of the organisation who are of or over the age of 18.
-(3) Another person must verify, either electronically in a manner specified by the Registrar-General or by statutory declaration, that the signatories to a statement signed under subsection (2A)﻿(a) are who they claim to be and are members of the organisation (see also section 82A of the Births, Deaths, Marriages, and Relationships Registration Act 1995).
+(3) Another person must verify, either electronically in a manner specified by the Registrar-General or by statutory declaration, that the signatories to a statement signed under subsection (2A)﻿(a) are who they claim to be and are members of the organisation (see also section 128 of the Births, Deaths, Marriages, and Relationships Registration Act 2021).
 (4) If the Registrar-General is satisfied that the principal object or one of the principal objects of the organisation is to uphold or promote religious beliefs or philosophical or humanitarian convictions, he or she may by notice in the Gazette declare the organisation to be an approved organisation.
 (4A) If the Registrar-General fails or refuses to declare the organisation an approved organisation, he or she shall, if required to do so by the organisation, refer the application to the Minister who, if he or she is satisfied that the principal object or one of the principal objects of the organisation is to uphold or promote beliefs or convictions as aforesaid, may direct the Registrar-General to declare the organisation, by notice in the Gazette, an approved organisation; and in that case the Registrar-General shall forthwith do so.
 (5)
@@ -101,7 +101,7 @@ The transitional, savings, and related provisions set out in Schedule 1AA have e
   (a) the applicant is—
     (i) a Justice of the Peace; or
     (ii) a person who is otherwise of good character; and
-  (b) the applicant will conscientiously perform the duties of a marriage celebrant under this Act and under the Births, Deaths, Marriages, and Relationships Registration Act 1995; and
+  (b) the applicant will conscientiously perform the duties of a marriage celebrant under this Act and under the Births, Deaths, Marriages, and Relationships Registration Act 2021; and
   (c) it is in the interests of the public generally, or of a particular community (whether defined by geography, interest, belief, or some other factor) that the person be a marriage celebrant.
 
 ### 12 Renewal of list
@@ -199,7 +199,7 @@ The grounds on which a marriage is void ab initio are set out in section 31 of t
   (b) he or she believes that the intended marriage is not prohibited by section 15; and
   (c) there is no other lawful impediment to the intended marriage.
 (2A) The information in subsection (2) may be verified—
-  (a) electronically in a manner specified by the Registrar-General (see also section 82A of the Births, Deaths, Marriages, and Relationships Registration Act 1995); or
+  (a) electronically in a manner specified by the Registrar-General (see also section 128 of the Births, Deaths, Marriages, and Relationships Registration Act 2021); or
   (b) by the person giving notice appearing personally before the Registrar and making a statutory declaration.
 (3) However, if the 2 parties to an intended marriage are ordinarily resident outside New Zealand, the requirements of subsection (1) and (2A)﻿(b) are satisfied if—
   (a) one of the parties gives notice to the Registrar in a manner specified by the Registrar-General; and
@@ -291,11 +291,11 @@ A Registrar shall issue a marriage licence or solemnise a marriage, as the case 
   (c) a statement containing a description of the rules and procedures by which the body proposes to solemnise marriages.
 (3) The statement referred to in subsection (2)﻿(a) must be—
   (a) signed by the persons specified in subsection (4), each of whom must state his or her age and address; or
-  (b) approved electronically by, or on behalf of, the persons specified in subsection (4) in a manner specified by the Registrar-General (see also section 82A of the Births, Deaths, Marriages, and Relationships Registration Act 1995).
+  (b) approved electronically by, or on behalf of, the persons specified in subsection (4) in a manner specified by the Registrar-General (see also section 128 of the Births, Deaths, Marriages, and Relationships Registration Act 2021).
 (4) The persons are—
   (a) the chief office bearer and at least 10 members of the religious body who are of or over the age of 18; or
   (b) in the case of a religious body whose rules and procedures or tenets do not recognise a chief office bearer, at least 10 members of the organisation who are of or over the age of 18.
-(5) Another person must verify, either electronically in a manner specified by the Registrar-General or by statutory declaration, that the signatories to an application signed under subsection (3)﻿(a) are who they claim to be and are members of the body (see also section 82A of the Births, Deaths, Marriages, and Relationships Registration Act 1995).
+(5) Another person must verify, either electronically in a manner specified by the Registrar-General or by statutory declaration, that the signatories to an application signed under subsection (3)﻿(a) are who they claim to be and are members of the body (see also section 128 of the Births, Deaths, Marriages, and Relationships Registration Act 2021).
 
 ### 32C Declaration of religious body as exempt religious body
 (1) The Registrar-General may, on receiving an application under section 32B, grant the exemption sought by declaring the religious body to be an exempt religious body if the Registrar-General is satisfied—
@@ -397,7 +397,7 @@ All marriages (whether solemnised before or after the commencement of this Act) 
   (b) he or she believes the intended marriage is not prohibited by Schedule 2; and
   (c) there is no other lawful impediment to the intended marriage.
 (2A) The information in subsection (2) may be verified—
-  (a) electronically in a manner specified by the Registrar-General (see also section 82A of the Births, Deaths, Marriages, and Relationships Registration Act 1995); or
+  (a) electronically in a manner specified by the Registrar-General (see also section 128 of the Births, Deaths, Marriages, and Relationships Registration Act 2021); or
   (b) by the person giving notice appearing personally before the Registrar and making a statutory declaration.
 (3) If the person giving notice is under the age of 20 years, the same consent shall be required as in the case of a marriage to be solemnised in New Zealand.
 (4) The provisions of section 25 relating to caveats shall apply in respect of intended marriages to which this section relates as they apply to marriages intended to be solemnised in New Zealand.
