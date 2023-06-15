@@ -1,5 +1,5 @@
 # Identity Information Confirmation Act 2012
-_Consolidation as at 2020-12-01_
+_Consolidation as at 2023-06-15_
 
 ### 1 Title
 This Act is the Identity Information Confirmation Act 2012.
@@ -36,7 +36,7 @@ In this Act, unless the context otherwise requires,—
     (a) means a person or body of persons (whether corporate or unincorporate and whether in the public sector or private sector); but
     (b) does not include an intermediary
   - **applicable database** means any file, register, device, or computer system in or on which information is recorded under each of the following:
-    (a) the Births, Deaths, Marriages, and Relationships Registration Act 1995:
+    (a) the Births, Deaths, Marriages, and Relationships Registration Act 2021:
     (b) the Citizenship Act 1977:
     (c) the Passports Act 1992
   - **chief executive** means the chief executive of the department
@@ -56,7 +56,7 @@ In this Act, unless the context otherwise requires,—
     (b) submits, on behalf of an agency, an individual's identity information for an identity information check in accordance with a separate agreement between the intermediary and the agency (whether or not for reward or in conjunction with any other business or activity)
   - **Privacy Commissioner** means the person who holds that office under section 13 of the Privacy Act 2020
   - **recorded information** means information that is recorded in or on any or all of the applicable databases
-  - **Registrar-General** has the meaning given to it in section 2 of the Births, Deaths, Marriages, and Relationships Registration Act 1995
+  - **Registrar-General** has the meaning given to it in section 4 of the Births, Deaths, Marriages, and Relationships Registration Act 2021
   - **responsible officials** means either or both of the following (as the case may be):
     (a) the Registrar-General:
     (b) the chief executive.
@@ -92,7 +92,7 @@ The purpose of the confirmation service is to allow an agency or intermediary to
 (3) If it is impracticable for the confirmation service to comply with subsection (2) for any reason, the confirmation service must advise the agency or intermediary that the identity information check cannot be processed and may ask the agency or intermediary to resubmit the individual's identity information.
 (4) The confirmation service must not, at any stage, supply to the agency or intermediary any recorded information about the individual who is the subject of the search.
 (5) However, subsection (4) does not limit or prevent the disclosure of—
-  (a) information, under section 78K of the Births, Deaths, Marriages, and Relationships Registration Act 1995, that the individual is dead or that name change information exists in relation to the individual:
+  (a) information, under section 117 of the Births, Deaths, Marriages, and Relationships Registration Act 2021, that the individual is dead or that name change information exists in relation to the individual:
   (b) any information about the status of any other recorded information in relation to the individual (for example, whether a passport has been cancelled).
 (6) After carrying out the search referred to in subsection (2), the confirmation service must supply to the agency or intermediary information about the search result and, in particular, whether any or all of the individual's identity information submitted to the service is consistent with any recorded information.
 (7) Without limiting subsection (6), the information that may be supplied under that subsection generally includes, subject to subsection (4), one of the following search results:The following table is small in size and has 2 columns. Column 1 is headed Result and column 2 is headed Description.ResultDescriptionConsistentIdentity information is consistent with recorded information.Not consistentIdentity information is not consistent with recorded information.ExceptionOne or more of the circumstances described in subsection (5) apply (for example, the identity information may relate to an individual who is dead), including information about which of those circumstances apply.
@@ -108,7 +108,7 @@ The purpose of the confirmation service is to allow an agency or intermediary to
     (ii) the privacy of individuals:
   (c) any other matter that the responsible officials consider to be relevant.
 (2) For the purposes of subsection (1), a confirmation agreement must be entered into by—
-  (a) the Registrar-General, if the agreement relates to identity information checks against any recorded information under the Births, Deaths, Marriages, and Relationships Registration Act 1995:
+  (a) the Registrar-General, if the agreement relates to identity information checks against any recorded information under the Births, Deaths, Marriages, and Relationships Registration Act 2021:
   (b) the chief executive, if the agreement relates to identity information checks against any recorded information under either or both of the Citizenship Act 1977 and the Passports Act 1992.
 (3) To avoid doubt, the responsible officials—
   (a) have the sole discretion to decide whether to enter into a confirmation agreement with an agency or intermediary; and
@@ -207,7 +207,7 @@ The Privacy Commissioner may, at intervals not shorter than 12 months, require t
 (1) There is no cause of action against the Crown, or a Minister of the Crown, or the responsible officials, or a delegate of the responsible officials, or an employee or a contractor of the department, to recover damages for any loss or damage that is due directly or indirectly to the use of the confirmation service for an identity information check.
 (2) Subsection (1) applies whether the loss or damage is caused by any person taking any action or failing to take any action, so long as the act or omission occurred in the exercise or performance of his or her functions, duties, or powers under any of the following:
   (a) this Act:
-  (b) the Births, Deaths, Marriages, and Relationships Registration Act 1995:
+  (b) the Births, Deaths, Marriages, and Relationships Registration Act 2021:
   (c) the Citizenship Act 1977:
   (d) the Passports Act 1992.
 (3) A person is not exempted from liability under subsection (1) for any act or omission to act that constitutes bad faith or gross negligence on the part of that person.
@@ -216,12 +216,14 @@ The Privacy Commissioner may, at intervals not shorter than 12 months, require t
 
 ### 21 Relationship between this Act and other enactments
 (1) If there is any inconsistency between this Act and any of the following Acts, or any regulations made under the following Acts, this Act prevails:
-  (a) the Births, Deaths, Marriages, and Relationships Registration Act 1995:
+  (a) the Births, Deaths, Marriages, and Relationships Registration Act 2021:
   (b) the Citizenship Act 1977:
   (c) the Passports Act 1992:
   (d) the Privacy Act 2020.
-(2) However, despite subsection (1), this Act must be read subject to sections 76, 77, and 86 of the Births, Deaths, Marriages, and Relationships Registration Act 1995. Accordingly, nothing in this Act authorises the giving of permission to inspect, or the disclosure of, any document containing information to which those sections apply.
-(3) Sections 68 and 78(6) to (8) of the Births, Deaths, Marriages, and Relationships Registration Act 1995 apply for the purposes, and in connection with the operation, of the confirmation service.
+(2) However, despite subsection (1), this Act must be read subject to sections 106, 107, and 110 of the Births, Deaths, Marriages, and Relationships Registration Act 2021. Accordingly, nothing in this Act authorises the giving of permission to inspect, or the disclosure of, any document containing information to which those sections apply.
+(3) The following provisions of the Births, Deaths, Marriages, and Relationships Registration Act 2021 apply for the purposes, and in connection with the operation, of the confirmation service:
+  (a) clause 12 of Schedule 1; and
+  (b) section 108(2) to (4).
 
 **Consequential amendments to other enactments**
 
