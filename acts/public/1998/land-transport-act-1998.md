@@ -1,5 +1,5 @@
 # Land Transport Act 1998
-_Consolidation as at 2023-04-05_
+_Consolidation as at 2023-06-15_
 
 > An Act—ato promote safe road user behaviour and vehicle safety; andbto provide for a system of rules governing road user behaviour, the licensing of drivers, and technical aspects of land transport, and to recognise reciprocal obligations of persons involved; andcto consolidate and amend various enactments relating to road safety and land transport; anddto enable New Zealand to implement international agreements relating to road safety and land transport
 
@@ -5269,7 +5269,7 @@ Sections 109A and 109B of the Land Transport Management Act 2003 apply to inform
 (2) A person who is acting in the course of the person’s official duties as an employee of the Department of Internal Affairs may access or use any photographic image stored under section 28(5) to verify the identity of a particular individual.
 (3) A person who is the next of kin of a deceased individual to whom a photographic image stored under section 28(5) relates may access the photographic image—
   (a) on production to the Agency of—
-    (i) a death certificate (within the meaning of section 2 of the Births, Deaths, Marriages, and Relationships Registration Act 1995) relating to the death of the individual; or
+    (i) a death certificate (within the meaning of section 4 of the Births, Deaths, Marriages, and Relationships Registration Act 2021) relating to the death of the individual; or
     (ii) the grant of probate of the will of the individual or of letters of administration to the individual’s estate; and
   (b) only if the person who is seeking access to the photographic image satisfies the Agency that the person is the individual’s next of kin.
 (4) A person who is acting in the course of the person’s official duties as an employee of a specified agency may access or use any photographic image stored under section 28(5) to verify the identity of a particular individual for the purpose of law enforcement.
