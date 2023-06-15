@@ -1,5 +1,5 @@
 # Electronic Identity Verification Act 2012
-_Consolidation as at 2021-10-28_
+_Consolidation as at 2023-06-15_
 
 ### 1 Title
 This Act is the Electronic Identity Verification Act 2012.
@@ -78,7 +78,7 @@ In this Act, unless the context otherwise requires,—
   - **electronic signature** , in relation to information in electronic form, means a method used to identify an individual and to indicate that individual's approval of that information
   - **identity-related information** —
     (a) means any or all of the following:
-      (i) adoption information, birth information, death information, marriage information, civil union information, and name change information under the Births, Deaths, Marriages, and Relationships Registration Act 1995:
+      (i) adoption information, birth information, death information, marriage information, civil union information, and name change information under the Births, Deaths, Marriages, and Relationships Registration Act 2021:
       (ii) citizenship information (within the meaning of section 26A(6) of the Citizenship Act 1977):
       (iii) identifying information (within the meaning of section 303(8) of the Immigration Act 2009, except that it also includes the expiry date of any visa granted to the individual (if applicable)):
       (iv) New Zealand travel document information of a kind referred to in section 37 of the Passports Act 1992:
@@ -102,7 +102,7 @@ In this Act, unless the context otherwise requires,—
   - **pre-commencement electronic identity credential** has the meaning given to it by section 73
   - **Privacy Commissioner** means the Privacy Commissioner appointed under section 13 of the Privacy Act 2020
   - **record of usage history** means the record that the chief executive is required to keep under section 44 about the usage history of each electronic identity credential and each electronic identity photograph
-  - **Registrar-General** has the meaning given to it by section 2 of the Births, Deaths, Marriages, and Relationships Registration Act 1995
+  - **Registrar-General** has the meaning given to it by section 4 of the Births, Deaths, Marriages, and Relationships Registration Act 2021
   - **Service** means the Electronic Identity Verification Service described in section 55
   - **Service database** means an electronic file, register, or device in or on which information is or is to be recorded or stored by the Service or employees of the department for the purposes of this Act
   - **specified individual** has the meaning given to it by section 12(2)
@@ -147,9 +147,10 @@ An electronic identity credential is a record kept in electronic form that—
   (a) the individual's current name (that is, the individual's name at the time of applying for an electronic identity credential to be issued):
   (b) the individual's full name at birth (if different from the current name):
   (c) other names the individual has used before applying for an electronic identity credential to be issued or renewed:
-  (d) other names the individual may use while an electronic identity credential is current (for example, a name change registered under section 21B of the Births, Deaths, Marriages, and Relationships Registration Act 1995 or under a corresponding provision in overseas legislation)
+  (d) other names the individual may use while an electronic identity credential is current (for example, a name change registered under section 71 of the Births, Deaths, Marriages, and Relationships Registration Act 2021 or under a corresponding provision in overseas legislation)
   (a) the individual's sex as recorded at birth:
-  (b) the individual's nominated sex if the individual can provide to the chief executive evidence of a sex change (for example, a declaration of the Family Court under section 28 or 29 of the Births, Deaths, Marriages, and Relationships Registration Act 1995)
+  (ab) the individual’s registered sex (as defined in section 4 of the Births, Deaths, Marriages, and Relationships Registration Act 2021):
+  (b) the individual's nominated sex if the individual can provide to the chief executive evidence of a sex change
   (a) locality or town or city:
   (b) state or province or territory:
   (c) country
@@ -167,7 +168,7 @@ An electronic identity credential is a record kept in electronic form that—
 (2) This section is subject to section 12.
 
 ### 12 Exception to section 11 for certain individuals with new identity information
-(1) Section 11 does not apply to an individual who is specified in subsection (2) for whom new identity information has been created under section 65 of the Births, Deaths, Marriages, and Relationships Registration Act 1995 (which relates to the protection of certain witnesses, undercover police officers, and other protected persons).
+(1) Section 11 does not apply to an individual who is specified in subsection (2) for whom new identity information has been created under sections 75 and 76 of the Births, Deaths, Marriages, and Relationships Registration Act 2021 (which relates to the protection of certain witnesses, undercover police officers, and other protected persons).
 (2) An individual referred to in subsection (1) (a specified individual) is—
   (a) a person who is, has been, or will be, an undercover Police officer; or
   (b) an employee of an intelligence and security agency.
@@ -183,10 +184,10 @@ An electronic identity credential is a record kept in electronic form that—
 (9) In this section,—
   - **employee** has the meaning given to it by section 22 of the Intelligence and Security Act 2017
   - **intelligence and security agency** has the meaning given to it by section 4 of the Intelligence and Security Act 2017
-  - **undercover Police officer** has the meaning given to it by section 65(5) of the Births, Deaths, Marriages, and Relationships Registration Act 1995.
+  - **undercover Police officer** has the meaning given to it by section 75(2) of the Births, Deaths, Marriages, and Relationships Registration Act 2021.
 
 ### 13 Limits of exception in section 12
-(1) The following individuals for whom new identity information has been created under section 65 of the Births, Deaths, Marriages, and Relationships Registration Act 1995 do not come within the exception set out in section 12:
+(1) The following individuals for whom new identity information has been created under sections 75 to 77 of the Births, Deaths, Marriages, and Relationships Registration Act 2021 do not come within the exception set out in section 12:
   (a) an individual who is, has been, or will be a witness in any proceeding and who is not a specified individual:
   (b) an individual who needs protection because of his or her relationship to an individual who is, has been, or will be a witness in any proceeding.
 (2) For an individual referred to in subsection (1), the chief executive—
