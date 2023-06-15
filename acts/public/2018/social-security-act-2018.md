@@ -1,5 +1,5 @@
 # Social Security Act 2018
-_Consolidation as at 2023-04-01_
+_Consolidation as at 2023-06-15_
 
 ### 1 Title
 This Act is the Social Security Act 2018.
@@ -865,7 +865,7 @@ Before granting a disability allowance, MSD may require the applicant (or the sp
     (a) any asset that MSD considers is impracticable to realise; or
     (b) any administration expenses; or
     (c) any non-assessable assets, if section 91 or 93 applies
-  - **child** includes a still-born child as defined in section 2 of the Births, Deaths, Marriages, and Relationships Registration Act 1995
+  - **child** includes a still-born child as defined in section 4 of the Births, Deaths, Marriages, and Relationships Registration Act 2021
   - **non-assessable assets** , in relation to a deceased person, a spouse or partner, or the parents or any other person who was liable in law to maintain a deceased child on the date of death, are—
     (a) that person’s estate or interest, on the date of death of the deceased, in the person’s own principal place of residence, including any estate or interest in the land on which it is erected, and any other buildings or improvements on that land that are used mainly for the purposes of that person’s household; and
     (b) chattels that the person owned or that were in the person’s possession under a hire purchase agreement, a conditional sale agreement, or an agreement for lease or hire, on the date of death of the deceased, and that are—
