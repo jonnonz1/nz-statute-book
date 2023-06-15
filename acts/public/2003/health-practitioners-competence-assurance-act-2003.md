@@ -1,5 +1,5 @@
 # Health Practitioners Competence Assurance Act 2003
-_Consolidation as at 2022-07-01_
+_Consolidation as at 2023-06-15_
 
 ### 1 Title
 This Act is the Health Practitioners Competence Assurance Act 2003.
@@ -749,7 +749,7 @@ The Health and Disability Commissioner must, under section 42(1) of the Health a
 A registrar of a court in New Zealand who knows that a person convicted in the court is a health practitioner must send a notice of the conviction to the responsible authority if the conviction is for—
   (a) an offence punishable by imprisonment for a term of 3 months or longer; or
   (b) an offence against—
-    (i) the Births, Deaths, Marriages, and Relationships Registration Act 1995; or
+    (i) the Births, Deaths, Marriages, and Relationships Registration Act 2021; or
     (ii) the Burial and Cremation Act 1964; or
     (iii) the Contraception, Sterilisation, and Abortion Act 1977; or
     (iv) the Coroners Act 2006; or
@@ -1155,7 +1155,7 @@ The provisions set out in Schedule 1 apply to the Tribunal and its proceedings.
   (g) the practitioner has breached an order of the Tribunal under section 101.
 (2) The Tribunal may make a finding under subsection (1)﻿(c) only if the conviction concerned—
   (a) is for an offence against—
-    (i) the Births, Deaths, Marriages, and Relationships Registration Act 1995; or
+    (i) the Births, Deaths, Marriages, and Relationships Registration Act 2021; or
     (ii) the Burial and Cremation Act 1964; or
     (iii) the Contraception, Sterilisation, and Abortion Act 1977; or
     (iv) the Coroners Act 2006; or
@@ -1696,7 +1696,7 @@ On payment of the fee (if any) set by the Registrar's authority, the Registrar m
 (2) The authority must not direct the Registrar to cancel the entry in the register relating to a health practitioner if there are criminal or disciplinary actions pending against the practitioner.
 
 ### 143 Entry to be cancelled on death of health practitioner
-(1) Promptly after registering the death of a person who appears to have been a health practitioner, a Registrar (within the meaning of section 2 of the Births, Deaths, Marriages, and Relationships Registration Act 1995) must give the Registrar of the responsible authority written notice of the death, with particulars of its date and place.
+(1) Promptly after registering the death of a person who appears to have been a health practitioner, a Registrar (within the meaning of section 4 of the Births, Deaths, Marriages, and Relationships Registration Act 2021) must give the Registrar of the responsible authority written notice of the death, with particulars of its date and place.
 (2) If there is an entry in the register relating to the health practitioner, the Registrar must, as soon as is practicable after receiving the notice, cancel it.
 (3) An authority may direct its Registrar to cancel the entry in the register relating to a health practitioner if it believes on reasonable grounds (other than having received written notice under subsection (1)) that a registered health practitioner has died.
 (4)
