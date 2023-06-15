@@ -1,5 +1,5 @@
 # Status of Children Act 1969
-_Consolidation as at 2021-10-28_
+_Consolidation as at 2023-06-15_
 
 > Title
 
@@ -111,8 +111,8 @@ No action shall lie against any executor of the will or administrator or trustee
 (4) No action shall lie against an executor, administrator, or trustee for any decision that he makes in applying the proviso to paragraph (b) of subsection (2) if he establishes that in making that decision he acted honestly.
 
 ### 8 Evidence and proof of paternity
-(1) If, pursuant to—the name of the father of the child to whom an entry relates has been entered (whether before or after the commencement of this Act) in the Register of Births, or, in the case of any country to which section 141, or any of sections 145 to 149 of the Evidence Act 2006 applies, in a register of that country relating to births, a certified copy of the entry made or given and purporting to be signed or sealed in accordance with that Act or that law shall be prima facie evidence that the person named as the father is the father of the child.
-  (a) any provision of the Births, Deaths, Marriages, and Relationships Registration Act 1995 or the corresponding provision of any former Act (within the meaning of that Act); or
+(1) If, pursuant to—the name of the father of the child to whom an entry relates has been entered (whether before or after the commencement of this Act) in the child’s birth record, or, in the case of any country to which section 141, or any of sections 145 to 149 of the Evidence Act 2006 applies, in a register of that country relating to births, a certified copy of the entry made or given and purporting to be signed or sealed in accordance with that Act or that law shall be prima facie evidence that the person named as the father is the father of the child.
+  (a) any provision of the Births, Deaths, Marriages, and Relationships Registration Act 2021 or the corresponding provision of any former Act (as defined in Schedule 1 of that Act); or
   (b) any provision of any law of any country to which section 141, or any of sections 145 to 149 of the Evidence Act 2006 applies,—
 (2) Any instrument signed by the mother of a child and by any person acknowledging that he is the father of the child shall, if executed as a deed or by each of those persons in the presence of a solicitor, be prima facie evidence that the person named as the father is the father of the child.
 (3) A paternity order within the meaning of the Domestic Proceedings Act 1968 (or an affiliation order under any corresponding former Act) shall, subject to section 52 of that Act, be prima facie evidence of paternity in any subsequent proceedings, whether or not between the same parties.
@@ -134,7 +134,7 @@ No action shall lie against any executor of the will or administrator or trustee
 (3) If the Family Court or the High Court makes a declaration under section 10(2) or (3), or the Family Court makes a paternity order under the Family Proceedings Act 1980,—
   (a) the Registrar of the court must forward a copy of the declaration or order, as the case may require, to the Registrar-General for filing in his or her office under this section; and
   (b) on receipt of any such copy, the Registrar-General must file it accordingly as if it were an instrument of the kind described in section 8(2).
-(4) For the purposes of this section, Registrar-General has the same meaning as in section 2 of the Births, Deaths, Marriages, and Relationships Registration Act 1995.
+(4) For the purposes of this section, Registrar-General has the same meaning as in section 4 of the Births, Deaths, Marriages, and Relationships Registration Act 2021.
 
 ### 10 Declaration as to paternity
 (1) In this section, eligible person means a person—
