@@ -1,5 +1,5 @@
 # Local Electoral Act 2001
-_Consolidation as at 2023-03-31_
+_Consolidation as at 2023-06-15_
 
 ### 1 Title
 This Act is the Local Electoral Act 2001.
@@ -1080,7 +1080,7 @@ In the case of a poll, a notice under section 52 must also—
 ### 56 Name of candidate
 An electoral officer must not accept the nomination of a candidate if the electoral officer is not satisfied, by the evidence (if any) that the electoral officer requires, that the name under which the candidate is nominated is—
   (a) the name under which the candidate's birth was registered; or
-  (b) the name which the candidate adopted by deed poll or by statutory declaration under Part 3 of the Births, Deaths, Marriages, and Relationships Registration Act 1995, at least 6 months before nomination day; or
+  (b) the name registered for the candidate under subpart 6 of Part 2 of the Births, Deaths, Marriages, and Relationships Registration Act 2021 at least 6 months before nomination day; or
   (c) the name by which the candidate was commonly known during the 6 months before nomination day, not being a name that—
     (i) might cause offence to a reasonable person; or
     (ii) is unreasonably long; or
