@@ -1,5 +1,5 @@
 # Adoption Act 1955
-_Consolidation as at 2021-10-28_
+_Consolidation as at 2023-06-15_
 
 > An Act to consolidate and amend certain enactments of the Parliament of New Zealand relating to the adoption of children
 
@@ -287,7 +287,7 @@ Sections 11B to 11D of the Family Court Act 1980 apply to the publication of a r
 ### 23 Inspection of adoption records
 (1) An adoption order shall be open to inspection by any person who requires to inspect it for some purpose in connection with the administration of an estate or trust of which that person is executor, administrator, or trustee.
 (2) Adoption records are open to inspection by—
-  (a) any Registrar (as defined in section 2 of the Births, Deaths, Marriages, and Relationships Registration Act 1995) or marriage celebrant under the Marriage Act 1955 for the purpose of investigating forbidden degrees of relationship under the Marriage Act 1955; and
+  (a) any Registrar (as defined in section 4 of the Births, Deaths, Marriages, and Relationships Registration Act 2021) or marriage celebrant under the Marriage Act 1955 for the purpose of investigating forbidden degrees of relationship under the Marriage Act 1955; and
   (b) any Registrar (as so defined) or civil union celebrant under the Civil Union Act 2004 for the purpose of investigating prohibited degrees of civil union under the Civil Union Act 2004.
 (2A) Adoption records are open to inspection by a social worker for the purpose of preparing a report required under section 23A(1).
 (3) Adoption records shall not be available for production or open to inspection except—
