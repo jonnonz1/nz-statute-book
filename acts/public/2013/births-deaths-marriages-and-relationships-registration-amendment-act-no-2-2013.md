@@ -1,5 +1,5 @@
 # Births, Deaths, Marriages, and Relationships Registration Amendment Act (No 2) 2013
-_Consolidation as at 2013-12-04_
+_Consolidation as at 2023-06-15_
 
 ### 1 Title
 This Act is the Births, Deaths, Marriages, and Relationships Registration Amendment Act (No 2) 2013.
