@@ -1,5 +1,5 @@
 # Child Support Act 1991
-_Consolidation as at 2022-09-01_
+_Consolidation as at 2023-06-15_
 
 > Title
 
@@ -174,7 +174,7 @@ The objects of this Act are—
 
 ### 7 Meaning of parent
 (1) For the purposes of this Act, a person is a parent of a child if—
-  (a) the person's name is entered in the Register of Births pursuant to the Births, Deaths, Marriages, and Relationships Registration Act 1995, or is entered in a register of births or parentage information kept under the law of any overseas jurisdiction, as a parent of the child; or
+  (a) the person's name is entered in the child’s birth record under the Births, Deaths, Marriages, and Relationships Registration Act 2021, or is entered in a register of births or parentage information kept under the law of any overseas jurisdiction, as a parent of the child; or
   (b) the person is or was a party to a legal marriage and the child was conceived by or born to the person, or the other party to the marriage, during the legal marriage; or
   (c) the person adopted the child under the Adoption Act 1955 or under an adoption to which section 17 of that Act applies and that adoption order has not been discharged; or
   (d) a New Zealand court, or a court or public authority of any overseas jurisdiction, has at any time found that the person is a parent of the child, and the finding has not been cancelled or set aside; or
