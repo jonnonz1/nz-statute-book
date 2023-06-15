@@ -1,5 +1,5 @@
 # Referenda (Postal Voting) Act 2000
-_Consolidation as at 2022-04-12_
+_Consolidation as at 2023-06-15_
 
 ### 1 Title
 This Act is the Referenda (Postal Voting) Act 2000.
@@ -47,7 +47,7 @@ This Act comes into force on the day after the date on which it receives the Roy
   - **referendum** means a government initiated referendum or a citizens initiated referendum
   - **referendum material** means material that is prepared by the panel and presented to electors for the purpose of informing them about each proposal that is the subject of the referendum
   - **referendum roll** means the list of electors described in section 21(1)
-  - **Registrar of Births and Deaths** means a registrar within the meaning of the Births, Deaths, Marriages, and Relationships Registration Act 1995
+  - **Registrar of Births and Deaths** means a registrar within the meaning of the Births, Deaths, Marriages, and Relationships Registration Act 2021
   - **Registrar of the court** means the Registrar of the High Court in Wellington
   - **respondent** means a respondent to an application
   - **response** means a response to a proposal or an answer to a question
