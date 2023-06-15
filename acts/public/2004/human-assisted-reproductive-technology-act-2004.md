@@ -1,5 +1,5 @@
 # Human Assisted Reproductive Technology Act 2004
-_Consolidation as at 2022-07-01_
+_Consolidation as at 2023-06-15_
 
 ### 1 Title
 This Act is the Human Assisted Reproductive Technology Act 2004.
@@ -78,8 +78,8 @@ In this Act, unless the context otherwise requires,—
   - **provider** —
     (a) means a person who, in the course of a business (whether or not carried on with a view to making a profit), performs, or arranges the performance of, services in which donated embryos or donated cells are used; and
     (b) includes a successor provider
-  - **Registrar-General** means the person for the time being appointed to that office under section 79(1) of the Births, Deaths, Marriages, and Relationships Registration Act 1995
-  - **still-born child** has the meaning given to it by section 2 of the Births, Deaths, Marriages, and Relationships Registration Act 1995
+  - **Registrar-General** means the person for the time being appointed to that office under section 124(1) of the Births, Deaths, Marriages, and Relationships Registration Act 2021
+  - **still-born child** has the meaning given to it by section 4 of the Births, Deaths, Marriages, and Relationships Registration Act 2021
   - **successor provider** means the successor, receiver, or liquidator of any provider or successor provider
   - **surrogacy arrangement** means an arrangement under which a woman agrees to become pregnant for the purpose of surrendering custody of a child born as a result of the pregnancy
   - **valuable consideration** includes an inducement, discount, or priority in the provision of a service.
