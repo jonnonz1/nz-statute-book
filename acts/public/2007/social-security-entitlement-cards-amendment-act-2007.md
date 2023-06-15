@@ -1,5 +1,5 @@
 # Social Security (Entitlement Cards) Amendment Act 2007
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2023-06-15_
 
 ### 1 Title
 This Act is the Social Security (Entitlement Cards) Amendment Act 2007.
@@ -19,7 +19,7 @@ The purpose of this Part is to provide regulation-making powers for—
   (c) microchips embedded in entitlement cards.
 
 ### 5 Regulations providing for issue and use of entitlement cards
-(1) Section 132A(1) is amended by inserting the following paragraph after paragraph (b):.
+(1) Section 132A(1) is amended by inserting the following paragraph after paragraph (b):
   (ba) providing for cardholders' photographs to be affixed to or imaged into a category of entitlement cards and prescribing procedures, requirements, and other matters in relation to those photographs:
 (2) Section 132A(2) is amended by omitting a magnetic stripe on them, and substituting all or any of a magnetic stripe or a barcode on them, or a microchip embedded in them,.
 (3) Section 132A is amended by adding the following subsections:
