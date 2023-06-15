@@ -1,5 +1,5 @@
 # Births, Deaths, Marriages, and Relationships Registration Act 1995
-_Consolidation as at 2023-04-05_
+_Consolidation as at 2023-06-15_
 
 > Title
 
