@@ -1,5 +1,5 @@
 # Family Court Act 1980
-_Consolidation as at 2023-06-07_
+_Consolidation as at 2023-06-15_
 
 > Title
 
@@ -292,7 +292,7 @@ Notwithstanding anything in section 11, the District Court may—
 (3) Subsection (2) does not limit the powers conferred by subsection (1).
 (4) For the purposes of subsection (2)﻿(i), each of the following Acts is a specified Act:
   (a) the Adoption Act 1955:
-  (b) the Births, Deaths, Marriages, and Relationships Registration Act 1995:
+  (b) the Births, Deaths, Marriages, and Relationships Registration Act 2021:
   (c) the Child Support Act 1991:
   (d) the Oranga Tamariki Act 1989:
   (da) the Civil Union Act 2004:
