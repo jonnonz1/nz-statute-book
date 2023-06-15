@@ -1,5 +1,5 @@
 # Privacy Act 2020
-_Consolidation as at 2023-04-20_
+_Consolidation as at 2023-06-15_
 
 ### 1 Title
 This Act is the Privacy Act 2020.
@@ -137,7 +137,7 @@ This Act binds the Crown.
   - **Parliamentary Under-Secretary** means a Parliamentary Under-Secretary in their capacity as a Parliamentary Under-Secretary
   - **personal information** —
     (a) means information about an identifiable individual; and
-    (b) includes information relating to a death that is maintained by the Registrar-General under the Births, Deaths, Marriages, and Relationships Registration Act 1995 or any former Act (as defined in section 2 of the Births, Deaths, Marriages, and Relationships Registration Act 1995)
+    (b) includes information relating to a death that is maintained by the Registrar-General under the Births, Deaths, Marriages, and Relationships Registration Act 2021 or any former Act (as defined in Schedule 1 of that Act)
   - **private sector agency** means an agency that is not a public sector agency
   - **public sector agency** —
     (a) means an agency that is a Minister, a Parliamentary Under-Secretary, a department, an organisation, or a local authority; and
@@ -2422,7 +2422,7 @@ A transfer prohibition notice that was given by the Commissioner under section 1
 | New Zealand Customs Service | To verify the identity of a person who—ais in a Customs-controlled area; andbis departing, or attempting to depart, from New Zealand | Department of CorrectionsDepartment of Internal AffairsMBIE (Immigration)Ministry of Health and Health New Zealand and Māori Health Authority (only in relation to special patients, restricted patients, and special care recipients)New Zealand Transport AgencyRegistrar-General |  |
 | New Zealand Police | To verify the identity of a person—awhose identifying particulars have been taken under section 32 or 33 of the Policing Act 2008:bwhose identifying particulars have been taken under section 11 of the Returning Offenders (Management and Information) Act 2015:cwho has breached, has attempted to breach, or is preparing to breach a condition of any sentence, or order imposed under any enactment, that the person not leave New Zealand | Department of CorrectionsDepartment of Internal AffairsMBIE (Immigration)Ministry of Health and Health New Zealand and Māori Health Authority (only in relation to special patients, restricted patients, and special care recipients)New Zealand Customs ServiceNew Zealand Transport AgencyRegistrar-General |  |
 | Registrar-General | To verify the identity of a person who has applied for the registration of a name change | MBIE (Immigration)Ministry of Health and Health New Zealand and Māori Health Authority (only in relation to special patients, restricted patients, and special care recipients)New Zealand PoliceNew Zealand Transport Agency |  |
-|  |  |  | Note:1References in this schedule to the Department of Internal Affairs are references to the parts of the Department of Internal Affairs that administer the Citizenship Act 1977 and the Passports Act 1992.2References in this schedule to MBIE (Immigration) are references to the part of the Ministry of Business, Innovation, and Employment that administers the Immigration Act 2009.3References in this schedule to the Registrar-General are references to the Registrar-General appointed under section 79(1) of the Births, Deaths, Marriages, and Relationships Registration Act 1995, and include a Deputy Registrar-General. |
+|  |  |  | Note:1References in this schedule to the Department of Internal Affairs are references to the parts of the Department of Internal Affairs that administer the Citizenship Act 1977 and the Passports Act 1992.2References in this schedule to MBIE (Immigration) are references to the part of the Ministry of Business, Innovation, and Employment that administers the Immigration Act 2009.3References in this schedule to the Registrar-General are references to the Registrar-General appointed under section 124(1) of the Births, Deaths, Marriages, and Relationships Registration Act 2021, and include a Deputy Registrar-General. |
 
 ## Schedule 4 — Law enforcement information
 
@@ -2480,7 +2480,7 @@ A transfer prohibition notice that was given by the Commissioner under section 1
 | Enactment | Information matching provision |
 | --- | --- |
 | Accident Compensation Act 2001 | Sections 246, 280, and 281 |
-| Births, Deaths, Marriages, and Relationships Registration Act 1995 | Section 78A |
+| Births, Deaths, Marriages, and Relationships Registration Act 2021 | Section 112 |
 | Citizenship Act 1977 | Section 26A |
 | Corrections Act 2004 | Sections 180 to 180D and 181 |
 | Customs and Excise Act 2018 | Sections 306 to 310 |
