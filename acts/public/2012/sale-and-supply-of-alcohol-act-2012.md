@@ -1,5 +1,5 @@
 # Sale and Supply of Alcohol Act 2012
-_Consolidation as at 2023-06-13_
+_Consolidation as at 2023-06-15_
 
 ### 1 Title
 This Act is the Sale and Supply of Alcohol Act 2012.
@@ -2549,7 +2549,7 @@ In any proceedings for an offence against any of the provisions of this Act in r
 (4) In any proceedings for an offence against any of sections 239, and 241 to 245,—
   (a) any element of the offence relating to the age of any person must be treated as having been proved unless at least 20 working days before the hearing the defendant puts the question in issue by written notice to that effect served on the prosecution; and
   (b) the age of any person may be proved by the production of—
-    (i) a birth certificate (within the meaning of section 2 of the Births, Deaths, Marriages, and Relationships Registration Act 1995) relating to the person; or
+    (i) a birth certificate (within the meaning of section 4 of the Births, Deaths, Marriages, and Relationships Registration Act 2021) relating to the person; or
     (ii) an approved evidence of age document; or
     (iii) a passport relating to the person.
 
