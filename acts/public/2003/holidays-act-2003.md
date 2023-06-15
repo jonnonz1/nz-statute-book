@@ -1,5 +1,5 @@
 # Holidays Act 2003
-_Consolidation as at 2022-12-01_
+_Consolidation as at 2023-06-15_
 
 ### 1 Title
 This Act is the Holidays Act 2003.
@@ -791,7 +791,7 @@ An employee is not entitled to be paid for any sick leave that has not been take
   (c) any cultural responsibilities of the employee in relation to the death.
 (4) In this section,—
   - **miscarriage** means the end of a pregnancy in the first 20 weeks of pregnancy other than as a result of abortion services provided in accordance with the Contraception, Sterilisation, and Abortion Act 1977
-  - **still-birth** means a still-birth within the meaning of the Births, Deaths, Marriages, and Relationships Registration Act 1995 other than as a result of abortion services provided in accordance with the Contraception, Sterilisation, and Abortion Act 1977.
+  - **still-birth** means a still-birth within the meaning of the Births, Deaths, Marriages, and Relationships Registration Act 2021 other than as a result of abortion services provided in accordance with the Contraception, Sterilisation, and Abortion Act 1977.
 
 ### 70 Duration of bereavement leave
 (1) An employer must allow an employee to take—
