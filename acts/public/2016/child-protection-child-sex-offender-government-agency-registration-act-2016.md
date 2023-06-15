@@ -1,5 +1,5 @@
 # Child Protection (Child Sex Offender Government Agency Registration) Act 2016
-_Consolidation as at 2021-10-28_
+_Consolidation as at 2023-06-15_
 
 ### 1 Title
 This Act is the Child Protection (Child Sex Offender Government Agency Registration) Act 2016.
@@ -542,10 +542,10 @@ An act or omission that a person does or omits to do in good faith in the admini
 ### Subpart 4 — Restrictions on change of name by offender
 
 ### 52 Application of subpart
-This subpart applies despite anything to the contrary in the Births, Deaths, Marriages, and Relationships Registration Act 1995.
+This subpart applies despite anything to the contrary in the Births, Deaths, Marriages, and Relationships Registration Act 2021.
 
 ### 53 Application for change of name by registrable offender
-(1) A registrable offender must not apply to the Registrar-General to register a change of his or her name under the Births, Deaths, Marriages, and Relationships Registration Act 1995 without first having obtained the written approval of the Commissioner.
+(1) A registrable offender must not apply to the Registrar-General to register a change of his or her name under the Births, Deaths, Marriages, and Relationships Registration Act 2021 without first having obtained the written approval of the Commissioner.
 (2) An offender who, without reasonable excuse, contravenes subsection (1) commits an offence and is liable on conviction to imprisonment for a term not exceeding 2 years, or a fine not exceeding $4,000, or both.
 
 ### 54 Approval by Commissioner
