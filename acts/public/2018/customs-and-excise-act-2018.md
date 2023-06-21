@@ -1,5 +1,5 @@
 # Customs and Excise Act 2018
-_Consolidation as at 2022-11-30_
+_Consolidation as at 2023-06-21_
 
 ### 1 Title
 This Act is the Customs and Excise Act 2018.
@@ -660,6 +660,23 @@ Except as otherwise provided in this Act, every person arriving in New Zealand m
     (ii) a Police station; and
   (b) remain at the place where he or she reported to the Customs officer, or at the Police station, for any reasonable time that Customs requires to enable a Customs officer to carry out any function under this Act in relation to that person.
 
+### 28A Persons arriving in New Zealand to provide information
+(1) Every person arriving in New Zealand must provide Customs with the information prescribed by the chief executive’s rules.
+(2) The information must be provided—
+  (a) in the way prescribed by the chief executive’s rules; and
+  (b) by the prescribed time.
+(3) The prescribed time may be before a person arrives in New Zealand.
+(4) In that case, the person is to be treated as complying with subsections (1) and (2) if (and only if) they have provided the information—
+  (a) in the way prescribed by the chief executive’s rules; and
+  (b) by that prescribed time.
+(5) Regulations may prescribe exemptions from subsection (1).
+
+### 28B Offences in relation to providing information
+(1) A person commits an offence if the person—
+  (a) fails to comply with section 28A(1) or (2); or
+  (b) provides Customs with information under section 28A(1) that is erroneous in a material particular.
+(2) A person who commits an offence under this section is liable on conviction to a fine not exceeding $1,000.
+
 ### 29 Disembarkation
 (1) This section applies to every person who is on board a craft that arrives in New Zealand.
 (2) The person must comply with every Customs direction concerning disembarkation.
@@ -709,7 +726,7 @@ A person preparing to board a craft for departure from New Zealand must comply w
   (b) from a Customs-controlled area to any craft.
 
 ### 34 Offence in relation to wilful failure to comply with requirements when arriving in, or departing from, New Zealand
-(1) A person commits an offence if the person wilfully fails to comply with any requirement imposed on the person by or under any of sections 28 to 33.
+(1) A person commits an offence if the person wilfully fails to comply with any requirement imposed on the person by or under section 28 or any of sections 29 to 33.
 (2) A person who commits an offence under this section is liable on conviction to a fine not exceeding $5,000.
 
 **Departure of craft**
@@ -926,6 +943,16 @@ Customs may, for the purposes of passenger and crew processing, monitoring the m
   (a) details of craft movements, including the craft name and registration number or identifier, estimated date and time of arrival or departure, and place of origin and destination:
   (b) personal information, including the person’s name, date of birth, sex, biometric information, passport number, nationality, and travel movements.
 
+**Power to collect other arrival information**
+
+### 53A Power to collect information designated as arrival information
+(1) Customs may collect information from a person to verify their compliance with a requirement under another Act if—
+  (a) the information is designated as arrival information by 1 or more provisions of that Act (the relevant provisions); and
+  (b) the relevant provisions are listed in subsection (2); and
+  (c) the person must comply with the requirement before or when they arrive in New Zealand.
+(2) There are no relevant provisions for the purpose of this section as enacted.
+(3) Section 28A does not apply to information designated as arrival information for the purposes of this section (see the relevant provisions for requirements relating to how and when the information is to be provided).
+
 **Defences**
 
 ### 54 Defences for offences under subpart
@@ -933,6 +960,7 @@ Customs may, for the purposes of passenger and crew processing, monitoring the m
   (a) that, in any case where it is alleged that anything required to be done was not done, the defendant took all reasonable steps to ensure that it was done; or
   (b) that, in any case where it is alleged that anything unlawful was done, the defendant took all reasonable steps to ensure that it was not done.
 (2) Subsection (1) does not apply to an offence under section 34 or 52.
+(3) It is a defence to a prosecution for an offence under section 28B(1)﻿(b) if the defendant proves that the defendant took all reasonable steps to ensure that the information provided was not erroneous in a material particular.
 
 ### Subpart 2 — Customs places and Customs-controlled areas
 
@@ -6221,6 +6249,13 @@ In this Part,—
 (2) The new rates must not exceed what the rates would have been on the date on which the order is made had the rates that applied on 30 June 2019 been increased by the maximum amount permitted under clause 21 of Schedule 3 on 1 July 2019 and each subsequent 1 July until the order under this clause is made.
 (3) Only 1 order may be made under this clause, and it cannot be made more than 12 months after this clause comes into force.
 (4) An order made under this clause is taken to be an order made under clause 21 of Schedule 3, and this Act (other than clause 21(4) of Schedule 3) applies accordingly.
+
+### Part 6 — Provisions relating to Customs and Excise (Arrival Information) Amendment Act 2023
+
+### 45 Application of section 28A to arrivals on Defence Force ships and cruise ships
+Section 28A applies to a person arriving in New Zealand on one of the following kinds of ship only on or after 31 October 2023:
+  (a) a ship under the control of the Defence Force:
+  (b) a ship operated as part of an international cruise business.
 
 ## Schedule 2 — Application of Act to Defence Force
 
