@@ -1,5 +1,5 @@
 # Arms Act 1983
-_Consolidation as at 2023-04-05_
+_Consolidation as at 2023-06-24_
 
 > Title
 
@@ -1351,6 +1351,95 @@ The Commissioner may cancel certification in respect of a shooting range if the 
 ### 41 Powers of Police to require surrender of airguns or antique firearms
 [Repealed]
 
+## Part 7 — Direct access by certain government agencies to registry
+
+### 38Y Interpretation
+In this Part,—
+  - **accessing agency** means—
+    (a) the Department of Conservation; and
+    (b) the Ministry of Foreign Affairs and Trade; and
+    (c) the New Zealand Customs Service
+  - **arms item** has the meaning given in section 2(1) and includes, as an additional class of item, ammunition
+  - **direct access** , in relation to the registry, means to do either or both of the following (whether remotely or otherwise):
+    (a) search the registry:
+    (b) copy any information stored in the registry
+  - **import and export information** , in relation to a licence holder, means details relating to—
+    (a) any permit to import issued to the licence holder under section 18(2) or (4):
+    (b) any class or classes of arms items exported by the licence holder
+  - **licence holder** means—
+    (a) a person who is the holder of a firearms licence; and
+    (b) a person who at any time held a firearms licence
+  - **licence information** , in relation to a licence holder, means—
+    (a) the licence holder’s—
+      (i) name; and
+      (ii) date of birth; and
+      (iii) residential address; and
+    (b) the following details about the licence holder’s firearms licence:
+      (i) the firearms licence number; and
+      (ii) the date of expiry of the firearms licence; and
+      (iii) any endorsements on the firearms licence.
+
+### 38Z Relationship between this Part and other law
+This Part does not prevent or limit the collection, use, or disclosure of information that—
+  (a) is authorised or required by or under any enactment; or
+  (b) is permitted under any enactment.
+
+### 38ZA Direct access to licence information
+(1) The Department of Conservation may have direct access to a licence holder’s licence information recorded in the registry.
+(2) The purpose of the direct access is to provide administrative assistance to the Director-General of Conservation in relation to the issue, under section 38 of the Conservation Act 1987, of permits for hunting.
+
+### 38ZB Direct access to import and export information recorded in registry
+(1) The Ministry of Foreign Affairs and Trade and the New Zealand Customs Service may have direct access to a licence holder’s import and export information recorded in the registry.
+(2) The purpose of the direct access is to assist the agencies in performing or exercising their functions, duties, and powers in relation to the movement of lawfully permitted and lawfully possessed arms items.
+
+### 38ZC Direct access must be in accordance with direct access agreement
+All direct access authorised by section 38ZA or 38ZB must be in accordance with a written direct access agreement entered into between—
+  (a) the Minister responsible for the accessing agency; and
+  (b) the Minister of Police.
+
+### 38ZD Matters to which Ministers must have regard before entering into direct access agreement
+Before entering into a direct access agreement, the Ministers referred to in section 38ZC must be satisfied—
+  (a) that—
+    (i) in the case of direct access authorised by section 38ZA, the direct access will enable the Director-General of Conservation to more effectively or efficiently issue permits for hunting; or
+    (ii) in the case of direct access authorised by section 38ZB, the direct access will enable the Ministry of Foreign Affairs and Trade or the New Zealand Customs Service to perform and exercise their functions, duties, and powers more effectively or efficiently; and
+  (b) that there are adequate safeguards to protect the privacy of individuals, including that the proposed compliance and audit requirements for the direct access, use, disclosure, and retention of the information are sufficient; and
+  (c) that the agreement includes appropriate procedures for direct access, use, disclosure, and retention of the information.
+
+### 38ZE Consultation before entering into direct access agreement
+(1) Before entering into a direct access agreement, the Ministers referred to in section 38ZC must consult and invite comment on the proposed agreement from—
+  (a) the Privacy Commissioner; and
+  (b) the advisory group established under section 88.
+(2) When consulted on a direct access agreement, the Privacy Commissioner must have particular regard to the matters that the Ministers need to be satisfied of before entering into the agreement that are specified in section 38ZD(b) and (c).
+(3) The Ministers must have regard to any comment received from the Privacy Commissioner and the advisory group on the proposed agreement.
+
+### 38ZF Content of direct access agreements
+A direct access agreement must specify—
+  (a) the particular information in relation to licence holders that may be accessed:
+  (b) the particular purpose or purposes for which the information may be accessed:
+  (c) the particular function, duty, or power being, or to be, performed or exercised by the accessing agency for which the information is required:
+  (d) the mechanism by which the information is to be accessed:
+  (e) the position or designation of the person or persons in the accessing agency who may access the information:
+  (f) the records to be kept in relation to each occasion on which the registry is accessed:
+  (g) the safeguards that are to be applied for protecting information:
+  (h) the requirements relating to storage and disposal of information obtained from the registry:
+  (i) that the accessing agency may use the information only in accordance with the purposes for which it was accessed:
+  (j) the requirements for reviewing the agreement:
+  (k) the requirement to regularly audit access to the registry.
+
+### 38ZG Variation of direct access agreement
+Sections 38ZD and 38ZE apply with any necessary modifications in respect of a proposal to enter into an agreement varying a direct access agreement.
+
+### 38ZH Publication of direct access agreements
+(1) An agreement, and all variations to the agreement, must be published on—
+  (a) an Internet site maintained by or on behalf of the accessing agency; and
+  (b) an Internet site maintained by or on behalf of the Police.
+(2) However, subsection (1) does not apply to—
+  (a) an agreement or a variation of an agreement that may be withheld on a request made under the Official Information Act 1982:
+  (b) a provision of an agreement or a variation of an agreement that may be withheld on a request made under the Official Information Act 1982.
+(3) If, in reliance on subsection (2)﻿(a), an agreement or a variation of an agreement is not published, a summary of the agreement or variation of the agreement must be published on—
+  (a) an Internet site maintained by or on behalf of the accessing agency; and
+  (b) an Internet site maintained by or on behalf of the Police.
+
 ## Part 7A — Firearms prohibition orders
 
 ### 39 Interpretation
@@ -1737,6 +1826,13 @@ When an offence against this Act punishable by imprisonment (whether or not it i
   (a) at the nearest Police station; or
   (b) to a member of the Police.
 (2) Every person commits an offence and is liable on conviction to imprisonment for a term not exceeding 3 months or to a fine not exceeding $1,000 or to both who contravenes subsection (1).
+
+### 58A Offences relating to registry
+(1) A person commits an offence who, without reasonable excuse, fails to provide information to the Police in accordance with section 95.
+(2) A person who commits an offence against subsection (1) is liable on conviction to a fine not exceeding $10,000.
+(3) A person commits an offence if the person intentionally fails to provide information to the Police in accordance with section 95.
+(4) A person commits an offence if the person provides information to the Police for inclusion in the registry, knowing the information to be false or misleading in a material respect.
+(5) A person who commits an offence against subsection (3) or (4) is liable on conviction to a term of imprisonment not exceeding 2 years, or to a fine not exceeding $20,000.
 
 ### 59 Unsafe firearms or pistols
 (1) Where, in the opinion of a commissioned officer of Police, any firearm or pistol is unsafe, that commissioned officer may, by notice in writing to the owner of that firearm or pistol, require the owner to ensure that that firearm or pistol is brought to a safe standard of repair and produced to a member of the Police within a period or by a date specified in the notice.
@@ -2332,6 +2428,42 @@ The Minister of Police may recommend that regulations be made under section 86 o
 (4) Regulations made under section 74(1)﻿(jb) (if any) apply in relation to any notice given for the purpose of this section and to any action required under subsection (3).
 (5) A health practitioner is not liable to criminal, civil, or disciplinary proceedings by disclosing personal information in the course of performing any function or responsibility under this section, as long as the practitioner acts in good faith.
 
+**Registration of firearms and dealings**
+
+### 93 Commissioner to keep registry
+The Commissioner must keep and operate a registry for the purposes of this Act.
+
+### 94 Content of registry
+(1) The following particulars must be recorded in the registry:
+  (a) the number and date of expiry of every type of licence held by a person under this Act:
+  (b) every licence holder’s full name, date of birth, and address:
+  (c) every endorsement on a licence:
+  (d) every condition on a licence or an endorsement that is additional to conditions imposed by this Act or regulations made under section 74:
+  (e) the particulars of the make, model, and identifying markings of every firearm, restricted weapon, and prohibited magazine possessed by a licence holder, and of the location of the firearm, restricted weapon, and prohibited magazine, if the particulars are held by the Police:
+  (f) every particular that regulations made under section 74 require to be recorded in the registry.
+(2) The registry may include—
+  (a) photographs provided under section 34A; and
+  (b) any other information that the Commissioner considers necessary or desirable—
+    (i) to ensure that the registry is complete and accurate; or
+    (ii) for the administration of this Act and regulations made under it; and
+  (c) any other photographs that the Commissioner considers necessary or desirable.
+
+### 95 Obligation to provide information to registry
+(1) This section applies to the following persons:
+  (a) every holder of a firearms licence:
+  (b) every holder of a dealer’s licence:
+  (c) every other person who is or intends to be in possession of a firearm or other item regulated by or under this Act.
+(2) This section also applies to the following events in relation to any firearm or other item regulated by or under this Act:
+  (a) its sale or supply, excluding a temporary transfer:
+  (b) its purchase or receipt, excluding a temporary transfer:
+  (c) its importation:
+  (d) its exportation:
+  (e) its manufacture:
+  (f) its theft, loss, or destruction:
+  (g) any other event specified for the purpose of this section in regulations made under section 74.
+(3) Every person to whom this section applies, and every person who has responsibilty in relation to any event to which this section applies, must provide the relevant details to the Police in accordance with the time and any other requirements prescribed by regulations made under section 74.
+(4) In this section, temporary transfer means a transfer of possession of the firearm (not being a pistol, restricted weapon, prohibited magazine, or prohibited firearm) or other item for less than 30 days.
+
 **Review of operation of this Act**
 
 ### 96 Review of this Act
@@ -2484,6 +2616,17 @@ The Minister of Police may recommend that regulations be made under section 86 o
     (ii) the date that is 5 years after the date of commencement of Part 6.
 (3) In the case of any other shooting range that existed as a shooting range immediately before the commencement of Part 6, an application under section 38M must be made within 12 months after the commencement of Part 6.
 (4) If an application for certification of the range is made within that 12-month period, the range is to be treated, as from the time the Commissioner receives the application until the application has been decided, as if the range has been issued with a certificate under section 38P.
+
+### 14 Obligations relating to registry
+(1) This clause applies if a person is a licence or permit holder under this Act immediately before the date of commencement of section 95 or is a prescribed person for the purposes of this clause.
+(2) In subclause (1), prescribed person means any person who belongs to a class of persons declared by regulations made under section 74D to be prescribed persons for the purposes of subclause (1).
+(3) The person must provide the Police with the relevant information within the time and in accordance with any other requirements prescribed by regulations made under section 74 or 74D (as the case may be) if the person—
+  (a) is applying for a licence or an endorsement; or
+  (b) is notifying a change in circumstances (such as a change of address); or
+  (c) has responsibility in relation to an event referred to in section 95(2); or
+  (d) is subject to compliance or enforcement action by the Police under this Act.
+(4) If none of the circumstances in subclause (3) apply to the person within 5 years after the registry starts operating, the person must, from the close of that 5-year period, provide the Police with the relevant information in accordance with regulations made under section 74.
+(5) If none of the circumstances in subclause (3) apply to a licence holder within 5 years after the registry starts operating and the holder no longer possesses a firearm, part, magazine, or ammunition at the end of that 5-year period, the holder must notify the Police of that fact as soon as practicable after that period ends.
 
 ### 15 Permits to import issued for purposes of section 16(1) of Act before commencement date revoked
 (1) A permit issued for the purposes of section 16(1) of this Act (as in force immediately before the commencement date) is revoked to the extent that it authorises the importation of a firearm that,—
