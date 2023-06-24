@@ -1,5 +1,5 @@
 # Intelligence and Security Act 2017
-_Consolidation as at 2023-06-15_
+_Consolidation as at 2023-06-24_
 
 ### 1 Title
 This Act is the Intelligence and Security Act 2017.
@@ -3314,6 +3314,7 @@ Section 185(4) of this Act applies to a report in respect of an inquiry that was
 | GCSB and NZSIS | Information about border-crossing persons, goods, and craft that has been collected in connection with the performance or exercise of a function, duty, or power under the Customs and Excise Act 1996 | New Zealand Customs Service |
 | GCSB and NZSIS | Financial intelligence information | New Zealand Police |
 | NZSIS | Information about people and locations identified as posing a possible physical threat to GCSB or NZSIS employees | New Zealand Police |
+| NZSIS | Information about people and firearms collected in connection with the performance or exercise of a function, duty, or power under the Arms Act 1983, to be used for the purpose of assisting Police in determining whether a person is a fit and proper person to possess firearms or airguns | New Zealand Police |
 | NoteIn this schedule,—birth information, death information, marriage information, civil union information, name-change information, and Registrar-General have the meanings given to them by section 4 of the Births, Deaths, Marriages, and Relationships Registration Act 2021citizenship information means information that relates to the acquisition or loss of citizenship by, or to the citizenship status of, any personfinancial intelligence information means information held by the Commissioner of Police in the performance of his or her financial intelligence functions specified in sections 142 and 143 of the Anti-Money Laundering and Countering Financing of Terrorism Act 2009GCSB means the Government Communications Security BureauNZSIS means the New Zealand Security Intelligence Service. |  |  |
 
 ## Schedule 3 — Administrative provisions
