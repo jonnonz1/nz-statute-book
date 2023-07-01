@@ -1,5 +1,5 @@
 # Social Security Act 2018
-_Consolidation as at 2023-06-15_
+_Consolidation as at 2023-07-01_
 
 ### 1 Title
 This Act is the Social Security Act 2018.
@@ -1079,18 +1079,39 @@ An obligation applies from the time that the benefit in question is paid, except
 **General obligations: notification of change of circumstances**
 
 ### 113 Beneficiary must notify change of circumstances
+Obligation to notify without delay change of circumstances
 (1) A beneficiary must without delay notify MSD of a change in the beneficiary’s circumstances if—
   (a) the change affects the beneficiary’s entitlement to receive a benefit; or
   (b) the change affects the rate of a benefit the beneficiary receives.
+Examples of change of circumstances
 (2) Examples of a change in a beneficiary’s circumstances include—
   (a) a change in the beneficiary’s relationship status, number of children, income, accommodation, or employment:
   (b) a change in the relationship status, income, accommodation, or employment of the beneficiary’s spouse or partner:
   (c) the beneficiary or his or her spouse or partner becoming entitled to an overseas pension.
+Meaning of change in beneficiary’s relationship status
 (3) In subsection (2)﻿(a), a change in the beneficiary’s relationship status means the beneficiary’s—
   (a) entering into a marriage, civil union, or de facto relationship; or
   (b) ceasing to live together with, or separating from, a spouse or civil union partner; or
   (c) ceasing to live together (as a couple in a relationship in the nature of marriage or civil union) with, or separating from, a de facto partner; or
   (d) ceasing to be in a marriage, civil union, or de facto relationship, because it has ended by reason of an event not specified in paragraph (b) or (c) (for example, by dissolution, or on a spouse’s or partner’s death).
+How subsection (1) is satisfied for information share child support payment
+(4) Subsection (1) is satisfied for a change in a beneficiary’s circumstances that is an information share child support payment made to a beneficiary if the payment is disclosed to MSD under a specified approved information sharing agreement.
+(5) In this section,—
+  - **information share child support payment** —
+    (a) has the meaning given to it in Schedule 2; and therefore
+    (b) excludes a general provisions child support payment (as that term is defined in Schedule 2)
+    - **specified approved information sharing agreement** has the meaning given to it in Schedule 2.
+Exception if person does not notify without delay change that is review ground
+(6) However, subsection (4) does not apply if—
+  (a) MSD has in some way notified the beneficiary of the income charging of the payment under Schedule 3 (see the examples given in subsection (7)); and
+  (b) the beneficiary does not notify MSD without delay of a change in the beneficiary’s circumstances that relates to the payment and that is or may be all or any of the review grounds specified in section 304A(1)﻿(a) to (g).
+Examples of MSD notifying beneficiary of income charging of payment
+(7) For the purposes of subsection (6)﻿(a), examples of MSD in some way notifying the beneficiary of the income charging under Schedule 3 of the payment include MSD notifying the beneficiary—
+  (a) that information share child support payments are, or will be, charged as income of the beneficiary under Schedule 3; or
+  (b) of a change in amounts or timing of information share child support payments; or
+  (c) of a change in how information share child support payments are charged as income of the beneficiary under Schedule 3.
+Review grounds include any additional grounds prescribed by regulations
+(8) For the purposes of subsection (6)﻿(b), the review grounds specified in section 304A(1)﻿(a) to (g) include, without limitation, any 1 or more additional grounds prescribed by regulations made under section 418(1)﻿(ja).
 
 **Specific obligations: notification of absence from New Zealand**
 
@@ -2684,6 +2705,7 @@ This Part contains provisions on the following matters:
   (b) reviews by MSD of a beneficiary’s past or current entitlement to a benefit or rate of benefit:
   (c) how a benefit commences (for example, after a stand-down period), ends, and may expire and be regranted:
   (d) how a benefit is paid, tax on benefits, and how debts can be recovered (including by way of deductions):
+  (da) the use of automated electronic systems to make decisions, exercise powers, comply with obligations, and take related actions:
   (e) notices and communications, services, and preferred suppliers:
   (f) reciprocity agreements with other countries:
   (g) prosecutions for offences, debt-recovery proceedings, and maintenance proceedings.
@@ -2748,16 +2770,41 @@ MSD must, after a claim for a benefit is made (and, if applicable, inquired into
 ### Subpart 3 — Review of entitlement to, or rate of, benefit granted
 
 ### 304 Review of entitlement and rate payable
+Review under subpart
 (1) MSD may review a benefit that has been granted to ascertain all or any of the following:
   (a) whether the beneficiary is, or remains, entitled to receive the benefit, or rate of benefit, that is being paid to the beneficiary:
   (b) whether the beneficiary was not entitled to receive the benefit, or rate of benefit, that was paid to the beneficiary.
+Review under subpart of information share child support payments
+(1A) MSD may review under this subpart whether a person’s information share child support payment is or was all or any of their weekly income under Part 3A of Schedule 3, but only on all or any of the review grounds specified in section 304A(1)﻿(a) to (g) for the purposes of this subsection.
+Review grounds include any additional grounds prescribed by regulations
+(1B) For the purposes of subsection (1A), the review grounds specified in section 304A(1)﻿(a) to (g) for the purposes of subsection (1A) include, without limitation, any 1 or more additional grounds prescribed by regulations made under section 418(1)﻿(ja).
+Subpart applies to special assistance
 (2) This subpart applies, so far as applicable and with all necessary modifications, to special assistance granted under a programme approved under section 100 or 101.
+Review of, or appeal against, decision on review under subpart
 (3) Rights to seek a review of, or to appeal against, a decision on a review under this subpart are given by the following subparts of Part 7:
   (a) subpart 2 (reviews by benefits review committee):
   (b) subpart 3 (appeals to appeal authority):
   (c) subpart 4 (appeals to courts):
   (d) subpart 5 (appeals to medical board).
 (4) Subsection (3) is by way of explanation only.
+
+### 304A Grounds for review of whether person’s information share child support payment is or was their weekly income
+(1) For the purposes of section 304(1A), the specified grounds are that MSD is satisfied of all or any of the following:
+  (a) the person did not receive all or any of the payment before or on the deemed receipt (as defined in clause 15D of Schedule 3):
+  (b) the person is or was unable to access all or any of the payment for reasons that are or include exceptional circumstances:
+  (c) MSD has charged under Part 3A of Schedule 3 an amount of weekly income that is not the correct amount for reasons that are or include all or any of the following:
+    (i) the information share is incorrect due to an error by the Commissioner or an officer of the Department (as those terms are defined in the Tax Administration Act 1994):
+    (ii) the information share is correct but read incorrectly by an automated electronic system:
+    (iii) the information share is correct but due to a person’s error is inputted incorrectly into a system used by MSD:
+  (d) a person has been incorrectly identified, or not identified, as the proper recipient of the payment (whether that mis- or non-identification was by an automated electronic system or a person):
+  (e) for reasons that are or include a disruption to an automated electronic system, information about the payment is not shared with MSD on the transaction date (as defined in clause 15C of Schedule 3), with the result that the payment is charged as weekly income under Part 3A of Schedule 3 after an affected benefit payment, or other assistance payment, has been made:
+  (f) the person to whom the payment was made has died, and their benefit—
+    (i) is specified in section 326(1)﻿(a) to (h); and
+    (ii) will end, or has ended, under section 326(2) or (3):
+  (g) any 1 or more additional grounds prescribed, for the purposes of this paragraph, by regulations made under section 418(1)﻿(ja).
+(2) In this section,—
+  - **automated electronic system** means an automated electronic system used under subpart 5A
+  - **disruption** , to an automated electronic system, includes, without limitation, a disruption to disclosure to MSD of all or any information used in or by the system.
 
 ### 305 Information for review
 (1) MSD may for the review require the beneficiary or the beneficiary’s spouse or partner to provide information, or answer questions,—
@@ -3269,6 +3316,67 @@ MSD cannot recover a penalty imposed on a person by a decision under section 354
 Recovery under section 362 of a debt is not prevented by the following:
   (a) section 74B of the Property Law Act 2007 (payments made under mistake of law or fact not always recoverable):
   (b) any other law relating to payment by or under mistake.
+
+### Subpart 5A — Use of automated electronic systems in respect of information share child support payments
+
+### 363A Use of automated electronic systems to make decisions, exercise powers, comply with obligations, and take related actions
+MSD may approve use
+(1) MSD may approve the use of an automated electronic system by a specified person to make any decision, exercise any power, comply with any obligation, or take any other related action under any specified provision.
+Meanings of specified person and specified provision
+(2) In this subpart,—
+  - **specified person** means any of the following performing or exercising a duty, function, or power under a specified provision:
+    (a) the chief executive of the responsible department:
+    (b) a public service employee, or other person, acting under a delegation (direct or indirect) from that chief executive
+  - **specified provision** has the same meaning as in clause 11 of Schedule 3.
+Specified provision must be about effect of child support income
+(3) The specified provision must be about how an information share child support payment is or affects any person’s assets, income, or other means of any kind (however described), for the purposes of, or for any purpose related to,—
+  (a) a benefit; or
+  (b) any other assistance under this Act.
+Requirements for approval
+(4) MSD may approve the use of an automated electronic system only if—
+  (a) the system is under the responsible department’s control; and
+  (b) MSD is satisfied that the system has the capacity to make the decision, exercise the power, comply with the obligation, or take the related action with reasonable reliability; and
+  (c) MSD is satisfied that the use of the system is consistent with the approved standard for MSD’s use of automated electronic systems (see subsections (5) and (6)); and
+  (d) 1 or more persons are always available, as an alternative, to make the decision, exercise the power, comply with the obligation, or take the related action.
+Approved standard for MSD’s use of automated electronic systems
+(5) MSD must ensure that there is in force at all times after the commencement of this section an approved standard for MSD’s use of automated electronic systems.
+(6) The standard, and any amendment, revocation, or replacement of the standard, must be—
+  (a) approved by MSD, in consultation with the Privacy Commissioner appointed under the Privacy Act 2020; and
+  (b) reviewed at least once every 3 years; and
+  (c) published in the Gazette; and
+  (d) published on an Internet site that—
+    (i) is maintained by, or on behalf of, the responsible department; and
+    (ii) is publicly available free of charge.
+Effect of use of approved system
+(7) A decision that is made, a power that is exercised, an obligation that is complied with, or a related action that is taken using an automated electronic system under this section must be treated for all purposes as if it were made, exercised, complied with, or taken (as the case may be) by a specified person authorised or required by the specified provision to make the decision, exercise the power, comply with the obligation, or take the related action.
+
+### 363B Publication of details of arrangements for use of automated electronic systems
+(1) MSD must ensure that details of any arrangements to use an automated electronic system, and any variation or revocation of the arrangements, are published as soon as practicable—
+  (a) in the Gazette; and
+  (b) on an Internet site that—
+    (i) is maintained by, or on behalf of, the responsible department; and
+    (ii) is publicly available free of charge.
+(2) Those details must identify—
+  (a) the relevant decision, power, obligation, or related action to be made, exercised, complied with, or taken under the specified provision; and
+  (b) the automated electronic system that is to make, exercise, comply with, or take that decision, power, obligation, or related action.
+(3) The use of an automated electronic system is not made invalid by reason only of a failure to publish details of it or any variation to it as soon as practicable in accordance with subsection (1).
+
+### 363C Variation and substitution of decisions made by automated electronic systems
+(1) This section applies to a decision made by an automated electronic system (the relevant decision).
+(2) A specified person may—
+  (a) vary, or add to, the terms or conditions of the relevant decision; or
+  (b) substitute a decision for the relevant decision if the specified person is satisfied that the new decision—
+    (i) could have been made under the same specified provision as the relevant decision; and
+    (ii) is more favourable to the affected person.
+(3) A specified person is not obliged to exercise any power in subsection (2) in respect of the relevant decision.
+
+### 363D Appeals and reviews unaffected
+General rule
+(1) A person has the same rights of appeal or right to apply for administrative or judicial review (if any) in relation to a decision made, power exercised, obligation complied with, or other action taken by an automated electronic system as the person would have had if the decision, power, obligation, or other action had been made, exercised, complied with, or taken by a specified person.
+Review under subpart 3 of Part 6 of information share child support payments
+(2) However, this section is subject to sections 304(1A) and 304A (under which MSD may review under subpart 3 of Part 6 whether a person’s information share child support payment is or was all or any of their weekly income under Part 3A of Schedule 3, but only on all or any of the review grounds specified in section 304A(1)﻿(a) to (g)).
+Review grounds include any additional grounds prescribed by regulations
+(3) For the purposes of subsection (2), the review grounds specified in section 304A(1)﻿(a) to (g) include, without limitation, any 1 or more additional grounds prescribed by regulations made under section 418(1)﻿(ja).
 
 ### Subpart 6 — Notices and communications, services, and preferred suppliers
 
@@ -3855,10 +3963,12 @@ Regulations for purposes of specified provisions
   (h) section 152, definition of screening drug test, paragraph (c)﻿(iii):
   (i)
   (j) section 250(1)﻿(e) (excuse of good and sufficient reason: failure to comply with drug-testing obligation):
+  (ja) section 304A(1)﻿(g) (additional grounds for review of whether person’s information share child support payment is or was all or any of their weekly income):
   (k) sections 341(1) and (3)﻿(d) and 342(1)﻿(b) (which relate to youth support payments):
   (l) section 344(2) (young person beneficiaries may elect money management):
   (m) section 373(1)﻿(a)﻿(ii) and (b) (administration service providers: contracts):
   (n) section 374(1)﻿(c) (administration service providers: contents and form of contracts):
+  (na) paragraph (j) of the definition of general provisions child support payment in Schedule 2 (additional kinds of payments that are general provisions child support payments):
   (o) clause 11 of Schedule 3, definition of appropriate number of weeks, paragraph (b) (calculation of income: interpretation):
   (p) clause 10(3) of Schedule 6 (code of conduct: relationship with Privacy Act 2020 code of practice):
   (q) clause 20(2) of Schedule 6 (disclosure of information about people to whom service provider’s contract applies).
@@ -5110,6 +5220,74 @@ The amendments apply, after the commencement, only to—
   (b) an applicant for an accommodation supplement whose application was made, but was not withdrawn or determined, before the commencement:
   (c) an applicant for an accommodation supplement whose application is made after the commencement.
 
+### Part 9 — Provisions relating to Child Support (Pass On) Acts Amendment Act 2023
+
+### 95 Application of amendments
+(1) In this clause,—
+  - **amendments** means the amendments made to this Act by subpart 1 of Part 2 of the Child Support (Pass On) Acts Amendment Act 2023
+  - **formula assessment** has the meaning in section 2(1) of the Child Support Act 1991.
+(2) The amendments apply only to—
+  (a) use on or after 1 July 2023 of automated electronic systems to make decisions, exercise powers, comply with obligations, and take related actions; and
+  (b) income based on child support in respect of a period (whether all, or any part, of a child support year) that starts on or after 1 July 2023; and
+  (c) abatement on or after 1 July 2023 of youth payment or young parent payment.
+(3) The child support referred to in subclause (2)﻿(b) includes, but is not limited to, child support under a formula assessment or a voluntary agreement or an order of a court made or entered into before 1 July 2023.
+(4) Child support in respect of a period (whether all, or any part, of a child support year) that starts before 1 July 2023 is subject to this Act as in force at the relevant time before 1 July 2023.
+
+### 96 MSD must exclude as income specified child support notified to MSD
+(1) In this clause,—
+  - **changeover** , for a person, means—
+    (a) the start of 31 July 2023, if the person is in receipt of a benefit or other assistance payable in instalments of 1 week’s benefit or other assistance; or
+    (b) the start of 2 August 2023, if the person is in receipt of a benefit or other assistance payable in instalments of 2 weeks’ benefit or other assistance
+  - **income** , of a person, means income of the person for the purposes of this Act.
+(2) This clause applies to child support that is money received by a person if—
+  (a) MSD is notified of the person’s receipt of the child support (for example, as a change of circumstances notified under section 113) before 1 July 2023; and
+  (b) the child support is income of the person for a period or periods before 1 July 2023; and
+  (c) MSD expects the child support to continue to be received by the person for a period or periods on or after 1 July 2023; and
+  (d) MSD would, if this clause had not been enacted, also treat the child support as income of the person for a period or periods on or after the changeover.
+(3) MSD must, after the changeover, treat the child support as if it were not the person’s income after the changeover.
+(4) MSD must remove, from MSD records of the person’s income, child support treated by MSD under this clause as if it were not the person’s income after the changeover.
+
+### 97 MSD must ensure beneficiary’s allowable costs for temporary additional support or special benefit during specified period include certain child support liability
+(1) This clause applies if, on or after 1 July 2023 and before or on 29 September 2023, MSD becomes aware in any way, from information made available to MSD by or on behalf of the beneficiary, that—
+  (a) a beneficiary was receiving, for all or any of that period, a benefit that is—
+    (i) temporary additional support; or
+    (ii) a special benefit continued under section 23 of the Social Security (Working for Families) Amendment Act 2004 (as that section is saved by clause 19 of this schedule); and
+  (b) the beneficiary’s allowable costs for that benefit did not include, but should have included, at all or any times during that period, child support required to be paid by them for the week or weeks concerned under a formula assessment under the Child Support Act 1991.
+(2) MSD must review under section 304 whether, for the reason specified in subclause (1)﻿(b), the beneficiary was not entitled to receive that benefit, or the rate of that benefit, that was paid to the beneficiary for all or any of that period.
+(3) If satisfied because of the review that the beneficiary’s allowable costs for that benefit did not include, but should have included, at all or any times during that period, child support of the kind referred to in subclause (1)﻿(b), MSD must—
+  (a) ensure that the beneficiary’s relevant allowable costs for that benefit include that support from the later of 1 July 2023 or when that support started; and
+  (b) suspend, cancel, or vary the rate of that benefit accordingly from a date that is within that period and that MSD reasonably determines.
+
+### 98 Regulations for transitional and savings purposes
+Power to make regulations on recommendation of relevant Minister
+(1) The Governor-General may, by Order in Council made on the recommendation of the relevant Minister, make regulations prescribing transitional provisions, savings provisions, or both, related to amendments made by the Child Support (Pass On) Acts Amendment Act 2023 to the Child Support Act 1991, this Act, or the Public and Community Housing Management Act 1992.
+Regulations must be for specified transitional or savings purposes
+(2) The regulations must be for either or both of the following purposes:
+  (a) facilitating, or ensuring the orderliness of, the transition to those amendments being brought into operation:
+  (b) ensuring that existing rights or obligations continue as part of, or despite, that transition.
+Requirements for recommendation of relevant Minister
+(3) The relevant Minister who may recommend the making of regulations made under subclause (1) is—
+  (a) the Minister (as defined in Schedule 2 for provisions of this Act), to the extent that the regulations relate to amendments made to provisions of this Act:
+  (b) the Minister of Revenue, to the extent that the regulations relate to amendments made to the Child Support Act 1991:
+  (c) the Minister of Housing, to the extent that the regulations relate to amendments made to the Public and Community Housing Management Act 1992.
+(4) The relevant Minister must not recommend the making of regulations made under subclause (1) unless satisfied that those regulations—
+  (a) are reasonably necessary for either or both of the purposes in subclause (2)﻿(a) and (b); and
+  (b) are consistent with the purposes of those amendments.
+Provisions prescribed may be in addition to or instead of specified clauses
+(5) The transitional provisions or savings provisions prescribed by regulations made under subclause (1) may be provisions in addition to or instead of all or any of the following clauses:
+  (a) clauses 29 to 31 of Schedule 1 of the Child Support Act 1991 as inserted by the Child Support (Pass On) Acts Amendment Act 2023:
+  (b) clauses 95 to 97 of this Part of this schedule of this Act as inserted by the Child Support (Pass On) Acts Amendment Act 2023:
+  (c) clause 22 of Schedule 4 of the Public and Community Housing Management Act 1992 as inserted by the Child Support (Pass On) Acts Amendment Act 2023.
+What prescribed transitional provisions or savings provisions may do
+(6) The transitional provisions or savings provisions prescribed by regulations made under subclause (1) may do all or any of the following:
+  (a) provide that, for a transitional period, in any circumstances, or subject to any conditions, specified in the regulations, 1 or more provisions (including definitions) of the relevant Act amended do not apply, or apply with modifications or additions:
+  (b) provide that, for a transitional period, in any circumstances, or subject to any conditions, specified in the regulations, 1 or more provisions repealed, amended, or revoked by those amendments are to continue to apply, or apply with modifications or additions, as if they had not been repealed, amended, or revoked:
+  (c) provide for any other matter necessary for either or both of the purposes in subclause (2)﻿(a) and (b).
+Secondary legislation
+(7) Regulations under this clause are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+Power ends at, and any regulations made are revoked at, start of 1 July 2026
+(8) Regulations made under this clause cannot be made after, and are revoked by this clause at, the start of 1 July 2026.
+
 ## Schedule 2 — Dictionary
 
 ## Schedule 3 — Income and liabilities
@@ -5119,8 +5297,9 @@ The amendments apply, after the commencement, only to—
 ### 1 What this schedule does
 This schedule contains provisions on the following matters:
   (a) the ranking of income provisions in and outside this schedule:
-  (b) what, for the purposes of this Act, is income:
-  (c) how income is calculated:
+  (b) what, for the purposes of this Act, is income (including an overview of how child support may be income for the purposes of this Act):
+  (c) general provisions on how income is calculated:
+  (ca) special provisions on how weekly income is calculated if that income is information share child support payments:
   (d) what may happen if an applicant for a benefit deprives the applicant of income, property, or both:
   (e) how insurance payments to or for a person affect liabilities for the purposes of various benefits.
 
@@ -5175,8 +5354,38 @@ A person’s income includes the following payments made to the person:
 (1) A person’s income includes the value of any goods, services, transport, or accommodation supplied on a regular basis to the person by any other person.
 (2) Subclause (1) applies to the value of the goods, services, transport, or accommodation as calculated before the deduction (if applicable) of income tax.
 
-### 8 Income excludes specified benefits, etc
-A person’s income excludes the following payments:
+### 7A Overview of how child support may be income
+Interests acquired
+(1) Under clause 8(m), child support that is an interest acquired by a person (rather than money received by (a payment made to) a person) is not income of the person. Examples are—
+  (a) an interest acquired that is an offset child support payment; or
+  (b) an interest acquired by way of any child support debt recovery by reduced further payments of child support.
+Deductions
+(2) Under clause 8(n), child support that is a child support deduction for a receiving carer who is a UCB beneficiary is not income of that person.
+Money received (payments)
+(3) Child support that is money received by a person is income of the person for the purposes of this Act unless it is—Court-ordered lump sums MSD determines are capital are not incomeChild support excess payments are not incomePayments covered by income exemption regulations are not income
+  (a) a payment that is ordered by the Family Court under section 109 of the Child Support Act 1991 (orders for provision of child support in form of lump sum) and that MSD determines, under clause 3(b) of this schedule, is an interest in capital received or acquired by the person; or
+  (b) a child support excess payment (which includes, without limitation, a mixed child support payment) that, under clause 8(na), is not income of the person; or
+  (c) a payment that, under clause 9 and income exemption regulations made under section 422, is not income of the person.
+(4) A child support payment is 1 of the following (as defined in Schedule 2)—
+  (a) an information share child support payment; or
+  (b) a general provisions child support payment.
+How information share child support payments are charged as income
+(5) An information share child support payment that is income is subject to—
+  (a) general annual income provisions in Part 3 of this schedule (see clauses 12 and 14 (how annual income is calculated)); and
+  (b) special weekly income provisions in Part 3A of this schedule.
+How general provisions child support payments are charged as income
+(6) A general provisions child support payment that is income is subject to—
+  (a) general annual income provisions in Part 3 of this schedule (see clauses 12 and 14 (how annual income is calculated)); and
+  (b) general weekly income provisions in Part 3 of this schedule (see clauses 13 and 14 (how weekly income is calculated)).
+Special provisions about cash assets or income for particular purposes
+(7) This overview is about income for the purposes of the Act, and so does not affect special provisions about cash assets or income for particular purposes, for example,—
+  (a) accommodation supplement (see regulations made under section 423):
+  (b) childcare assistance (see regulations made under section 424):
+  (c) temporary additional support (see regulations made under section 428):
+  (d) a benefit’s stand-down period (see regulations made under section 440).
+
+### 8 Income excludes specified benefits, payments, interests acquired, etc
+A person’s income excludes the following amounts or payments:
   (a) any benefit, grant, allowance, or concession received by the person under this Act, Part 6 of the Veterans’ Support Act 2014, or Part 1 of the New Zealand Superannuation and Retirement Income Act 2001:
   (b) any pension or allowance (other than weekly income compensation or weekly compensation) under the Veterans’ Support Act 2014 received by any person because of the person’s own disablement:
   (c) any surviving spouse or partner pension received by the person under section 66 of the Veterans’ Support Act 2014:
@@ -5193,8 +5402,11 @@ A person’s income excludes the following payments:
     (ii) subpart KD of the Income Tax Act 2004; or
     (iii) subpart KD of the Income Tax Act 1994; or
     (iv) Part 11A of the Income Tax Act 1976:
-  (m) any money received by the Commissioner of Inland Revenue by way of child support which is not required to be paid to the person under the Child Support Act 1991:
-  (n) any money received by the Commissioner of Inland Revenue by way of child support which is paid to the person under section 142 of the Child Support Act 1991:
+  (m) child support that is an interest acquired by the person, for example,—
+    (i) an interest acquired that is an offset child support payment; or
+    (ii) an interest acquired by way of child support debt recovery by reduced further payments of child support:
+  (n) a child support deduction for a receiving carer who is a UCB beneficiary:
+  (na) a child support excess payment (which includes, without limitation, a mixed child support payment):
   (o) any amount of output tax charged in respect of a supply of goods and services made by that person:
   (p) any amount of goods and services tax payable by the Commissioner of Inland Revenue to that person.
 
@@ -5214,29 +5426,31 @@ In considering, in respect of a person, whether a payment, credit, or service is
   (f) whether the person has assigned the person’s right to receive the payment, credit, or service:
   (g) any other matters that MSD considers, in the circumstances of the particular case, to be relevant.
 
-### Part 3 — Calculation of income
+### Part 3 — General provisions on calculation of income
 
 ### 11 Interpretation
 In clauses 12 to 14,—
   - **appropriate number of weeks** means a number that—
     (a) must not exceed 52; and
     (b) is specified, for the benefit concerned, in regulations made under section 418(1)﻿(o)
-  - **specified provision** means a provision that is all or a portion of all or any of the following:
+  - **specified provision** means a provision that is all or a portion of legislation in or made under all or any of the following:
     (a) this Act (for example, a schedule of this Act):
     (b) the New Zealand Superannuation and Retirement Income Act 2001:
     (c) Part 6 of the Veterans’ Support Act 2014.
 
-### 12 How annual income calculated
+### 12 How annual income is calculated
 (1) A person’s annual income, for the rate of benefit, or as referred to in a specified provision, is (unless the context otherwise requires) the person’s estimated income for the 52 weeks commencing on the date on which the benefit (if granted, or regranted) will commence.
 (2) The estimated annual income for the 52 weeks specified in subclause (1) is an amount equal to the income received by the person for the 52 weeks ending on the day preceding the date on which the benefit, if granted or regranted, will commence as MSD determines.
+(3) The income received by the person for the 52 weeks specified in subclause (2) is or includes any information share child support payment that is charged as weekly income of the person under Part 3A of this schedule for all or any of those weeks.
 
-### 13 How weekly income calculated
+### 13 How weekly income is calculated: general
 (1) A person’s weekly income, for the rate of benefit, or as referred to in a specified provision, is (unless the context otherwise requires) the person’s weekly income calculated by dividing the person’s total income over the appropriate number of weeks by that number of weeks.
 (2) MSD may, in calculating a person’s weekly income under subclause (1), determine the period or periods to which any income relates, having regard to—
   (a) the extent to which it was earned in that period or those periods; or
   (b) the extent to which any other entitlement to it arose in, or in respect of, that period or those periods; or
   (c) the period or periods for which it was otherwise received, acquired, paid, provided, or supplied.
 (3) MSD’s determination under subclause (2) is not limited to, or by, the exact time or times of the relevant earning, entitlement, receipt, acquisition, payment, provision, or supply, referred to in subclause (2)﻿(a) to (c).
+(4) Nothing in this clause applies to any information share child support payment (see Part 3A of this schedule).
 
 ### 14 Adjustments for likely reductions or increases
 The estimated income for the period for which the calculation under clause 12(1) or 13(1) is made is the income as calculated under clause 12(1) or 13(1), but adjusted for all (if any) of the following deductions and additions:
@@ -5256,6 +5470,7 @@ The estimated income for the period for which the calculation under clause 12(1)
       (C) a director, a shareholder, and an employee:
     (vi) people otherwise engaged in business or trade; and
   (b) prescribing the circumstances in which those rules apply.
+(1A) However, neither subclause (1) nor rules made under subclause (1) apply to any information share child support payment (see Part 3A of this schedule).
 (2) Rules made under subclause (1) may prescribe for the purposes of this Act all or any of the following:
   (a) the kinds of deduction from income allowed under the Income Tax Act 2007 that are to be disregarded in determining income, and—
     (i) the circumstances in which the deductions are to be disregarded; and
@@ -5283,6 +5498,141 @@ The estimated income for the period for which the calculation under clause 12(1)
   (b) earlier than, the same as, or later than, the date on which the rules are made.
 (6) Rules under this clause are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
+### Part 3A — Special provisions on calculation of weekly income that is information share child support payment
+
+**How payment is charged as weekly income**
+
+### 15A How payment is charged as weekly income
+What this Part does
+(1) This Part sets out how a person’s information share child support payment is all or any of their weekly income—
+  (a) for the rate of benefit; or
+  (b) for a specified provision (as defined in clause 15C).
+Key steps in charging payment as weekly income
+(2) The key steps in charging the payment as weekly income are as follows:
+  (a) the payment is taken to be received at deemed receipt:
+  (b) deemed receipt is used to identify when income charging starts and ends:
+  (c) the payment amount is divided by the number of weeks the payment is charged to produce equal amounts of weekly income for each of those weeks.
+Exceptions
+(3) Under the exception in clause 15H (terminal benefit), which applies when the person has died, and their benefit will end, or has ended, under section 326(2) or (3), the payment is not charged as the person’s weekly income.
+(4) Under the exception in clause 15I (transfer to new benefit paid in different instalments), MSD may charge the payment amount—
+  (a) as income for other weeks; and
+  (b) as equal or unequal amounts of weekly income for each of those other weeks.
+
+### 15B Effect of non-payment of benefit or other assistance
+Part applies even if benefit or other assistance not payable
+(1) This Part applies to a person and an income-charging period even if the person’s benefit or other assistance under this Act is not payable at all or any of the following times:Examples of benefit or other assistance not payableThe person’s benefit or other assistance under this Act—is not payable at the start of the period; butis payable again later in the period.The person’s benefit or other assistance under this Act—is payable at the start of the period; butis not payable, then is payable again, later in the period.
+  (a) at or after the time of disclosure to MSD of a payment that could be charged as income in the period:
+  (b) at the start or end of, or at any other time or times in, the period.
+(2) Subclause (1) applies whether or not the person’s benefit or other assistance under this Act changes at the start or end of, or at any other time or times in, the period.
+(3) But subclause (1)﻿(a) does not apply (despite subclause (4)) to a person’s benefit or other assistance under this Act that is not payable because it has been cancelled.
+Meaning of not payable
+(4) For the purposes of subclause (1), a person’s benefit or other assistance under this Act is not payable (subject to subclause (3)) if all or any of the following apply:
+  (a) the benefit or other assistance under this Act is, in connection with a review under section 304 or otherwise, suspended, or otherwise not payable, in connection with decisions MSD has made, or is to make, about whether the person is, or remains, entitled to—
+    (i) the benefit or other assistance under this Act; or
+    (ii) the rate of benefit or other assistance under this Act that was paid to the person:
+  (b) the person is subject to legislation in or made under this Act that provides for the suspension, or other non-payment, in certain circumstances, of that person’s benefit or other assistance under this Act.
+Legislation providing for suspension or other non-payment
+(5) The legislation mentioned in subclause (4)﻿(b) includes, without limitation,—
+  (a) section 213 (immediate suspension of benefit at request of New Zealand Police):
+  (b) section 219 (general rule: benefit not payable while beneficiary absent from New Zealand):
+  (c) section 237 (sanction for second failure: suspension of main benefit):
+  (d) section 270 (sanction for first or second failure: suspension of in-hand allowance and incentive payments):
+  (e) section 280 (sanction for first or second failure: suspension of in-hand allowance and incentive payments):
+  (f) sections 331 to 336 (expiry and regrant of specified benefits):
+  (g) regulations made under section 436 (regulations: factors affecting benefits: absence from New Zealand):
+  (h) regulations made under section 441(1) (regulations: expiry and regrant of benefits).
+
+**Definitions**
+
+### 15C Interpretation
+In this Part,—
+  - **business day** , for an information share child support payment, means a day of the week other than—
+    (a) a Saturday, a Sunday, Waitangi Day, Good Friday, Easter Monday, Anzac Day, the Sovereign’s birthday, Te Rā Aro ki a Matariki/Matariki Observance Day, and Labour Day; and
+    (b) if Waitangi Day or Anzac Day falls on a Saturday or a Sunday, the following Monday; and
+    (c) Christmas Day, Boxing Day, New Year’s Day, and 2 January; and
+    (d) if Christmas Day or 1 January falls on a Friday, the following Monday; and
+    (e) if Christmas Day or 1 January falls on a Saturday or a Sunday, the following Monday and Tuesday
+  - **expected date of the next in-cycle payment** , for an in-cycle payment made on the second business day after the 19th day of a month, means the third business day after the 19th day of the next month
+  - **in-cycle payment** means an information share child support payment that is made—
+    (a) by the Commissioner of Inland Revenue to the receiving carer; and
+    (b) on the second business day after the 19th day of a month
+  - **out-of-cycle payment** means an information share child support payment that is not an in-cycle payment
+  - **specified provision** has the same meaning as in clause 11 of this schedule
+  - **standard income-charging period** means,—
+    (a) if the relevant benefit or other assistance is paid in instalments of 1 week’s benefit or other assistance, a period that—
+      (i) starts on a Monday; and
+      (ii) ends at the close of the first Sunday after that Monday; and
+    (b) if the relevant benefit or other assistance is paid in instalments of 2 weeks’ benefit or other assistance, a period that—
+      (i) starts on a Wednesday; and
+      (ii) ends at the close of the second Tuesday after that Wednesday
+  - **transaction date** , for an information share child support payment to a person, means the date of the business day on which a bank is to make the payment to the person by direct credit to a bank account nominated by the person under section 148 of the Child Support Act 1991, as the date of that business day is—
+    (a) stated in the Commissioner of Inland Revenue’s instructions to the bank; and
+    (b) disclosed to MSD under the specified approved information sharing agreement.
+
+**Receipt**
+
+### 15D Deemed receipt: general rule
+In this Part, the deemed receipt of a person’s information share child support payment is,—
+  (a) at the start of the first business day after the transaction date, if MSD makes no determination under clause 15E; or
+  (b) if MSD makes a determination under clause 15E, at the start of the date determined under that clause.
+
+### 15E Deemed receipt: exception
+(1) MSD may determine that a person’s information share child support payment is, for the purposes of this Part, taken to be received—
+  (a) not at the start of the first business day after the transaction date (under the general rule in clause 15D(a)); but instead
+  (b) at the start of a later date.
+(2) MSD must consider the day on which the person actually received the payment, and any advantage to the person of the general rule in clause 15D(a) not applying to the person, if, and when, MSD decides—
+  (a) whether to make a determination under this clause; and
+  (b) the terms of a determination made under this clause.
+
+**Payment charged as income: general rules**
+
+### 15F When income charging starts: general rule
+In-cycle payment or out-of-cycle payment
+For a person’s in-cycle payment or out-of-cycle payment, income charging starts as set out in item 1 or 2 of the following table:The following table is small in size and has 3 columns. Column 1 is headed Item. Column 2 is headed If the relevant benefit or other assistance is paid. Column 3 is headed income charging starts.ItemIf the relevant benefit or other assistance is paid ... income charging starts ... 1in instalments of 1 week’s benefit or other assistanceat the start of a standard income-charging period, if deemed receipt falls in that period2in instalments of 2 weeks’ benefit or other assistanceat the start of a standard income-charging period, if deemed receipt falls in week 1 of that periodorat the start of the next standard income-charging period, if deemed receipt falls in week 2 of a standard income-charging period
+
+### 15G When income charging ends: general rule
+In-cycle payment
+(1) For a person’s in-cycle payment, income charging ends as set out in item 1 or 2 of the following table:The following table is small in size and has 3 columns. Column 1 is headed Item. Column 2 is headed If the relevant benefit or other assistance is paid. Column 3 is headed income charging ends.ItemIf the relevant benefit or other assistance is paid ... income charging ends ... 1in instalments of 1 week’s benefit or other assistanceat the end of the standard income-charging period immediately before the expected date of the next in-cycle payment2in instalments of 2 weeks’ benefit or other assistanceat the end of the 4 weeks that start on the day on which the payment starts to be charged as the person’s income
+Out-of-cycle payment
+(2) For a person’s out-of-cycle payment, income charging ends as set out in item 1 or 2 of the following table:The following table is small in size and has 3 columns. Column 1 is headed Item. Column 2 is headed If the relevant benefit or other assistance is paid. Column 3 is headed income charging ends.ItemIf the relevant benefit or other assistance is paid ... income charging ends ... 1in instalments of 1 week’s benefit or other assistance at the end of the first Sunday before the day that—(a) is in the month after the month of deemed receipt; and(b) corresponds to the day of deemed receiptorat the end of the first day of the second month after the month of deemed receipt, if the month after the month of deemed receipt contains no day that corresponds to the day of deemed receipt2in instalments of 2 weeks’ benefit or other assistanceat the end of the 4 weeks that start on the day on which the payment starts to be charged as the person’s income
+
+**Exceptions**
+
+### 15H Terminal benefit
+When clause applies to payment
+(1) This clause applies to the person’s information share child support payment (whether an in-cycle payment or an out-of-cycle payment) if—
+  (a) the person has died, and their benefit—
+    (i) is specified in any of paragraphs (a) to (h) of section 326(1); and
+    (ii) will end, or has ended, under section 326(2) or (3); and
+  (b) the payment’s deemed receipt is after the person’s death.
+Payment is not charged as weekly income
+(2) The payment is not charged as the person’s weekly income.
+Relationship with clauses 15F and 15G
+(3) This clause overrides clauses 15F and 15G.
+
+### 15I Transfer to new benefit paid in different instalments
+Transfer from weekly-instalment benefit to fortnightly-instalment benefit
+(1) This clause applies to a person who transfers—
+  (a) from a benefit or other assistance that is payable in instalments of 1 week’s benefit or other assistance; and
+  (b) to a benefit or other assistance that is payable in instalments of 2 weeks’ benefit or other assistance.
+Transfer from fortnightly-instalment benefit to weekly-instalment benefit
+(2) This clause also applies to a person who transfers—
+  (a) from a benefit or other assistance that is payable in instalments of 2 weeks’ benefit or other assistance; and
+  (b) to a benefit or other assistance that is payable in instalments of 1 week’s benefit or other assistance.
+MSD may determine that payment is charged as income for other weeks
+(3) MSD may determine that the person’s information share child support payment is charged as the person’s weekly income for a period that—
+  (a) MSD identifies; and
+  (b) is after the deemed receipt; and
+  (c) is 3 or more weeks, but not more than 6 weeks; and
+  (d) does not start or end as required by clauses 15F and 15G.
+(4) In making a determination under this clause, MSD may charge the payment amount as equal or unequal amounts of weekly income.
+Mandatory relevant consideration
+(5) MSD must consider how MSD can best charge the payment as weekly income reasonably and conveniently if, and when, MSD decides—
+  (a) whether to make a determination under this clause; and
+  (b) the terms of a determination made under this clause.
+Relationship with clauses 15F and 15G
+(6) This clause overrides clauses 15F and 15G.
+
 ### Part 4 — Deprivation of income or property
 
 ### 16 Effect of deprivation of income or property
@@ -5291,6 +5641,19 @@ The estimated income for the period for which the calculation under clause 12(1)
     (i) an applicant for a benefit has, directly or indirectly, deprived the applicant of income, property, or both:
     (ii) the spouse or partner of an applicant for a benefit has, directly or indirectly, deprived the spouse or partner of income, property, or both; and
   (b) the deprivation results in the applicant’s qualifying for that benefit, any other benefit, or an increased rate of benefit.
+(1A) For the purposes of this clause and of rules under clause 17, deprivation of income, property, or both, by a person who is an applicant for a benefit, or the spouse or partner of that applicant, excludes that person doing all or any of—
+  (a) not applying for a formula assessment of child support payable in respect of a qualifying child under the Child Support Act 1991:
+  (b) electing to end a formula assessment of child support payable in respect of a qualifying child under that Act:
+  (c) choosing not to enter into a voluntary agreement for child support in respect of a qualifying child under that Act (whether or not that voluntary agreement—
+    (i) is a voluntary agreement that, under section 48 of that Act, qualifies for acceptance by the Commissioner of Inland Revenue; and so
+    (ii) is a qualifying voluntary agreement (as defined in section 2(1) of that Act)):
+  (d) making under that Act an election to terminate liability under a qualifying voluntary agreement that, under section 48 of that Act, has been accepted by the Commissioner of Inland Revenue:
+  (e) not making, or making, any other arrangement (for example, one in respect of a qualifying child and that is not a qualifying voluntary agreement (as those terms are defined in section 2(1) of that Act)) that does or may affect whether or what child support is payable in respect of a qualifying child under that Act.
+(1B) Subclause (1A) does not apply to, and does not limit the application of section 9 (UCB beneficiaries must apply for formula assessment) of the Child Support Act 1991 to,—
+  (a) an applicant for an unsupported child’s benefit; or
+  (b) the spouse or partner of that applicant; or
+  (c) a UCB beneficiary; or
+  (d) the spouse or partner of that UCB beneficiary.
 (2) MSD may refuse to grant a benefit, cancel or reduce a benefit already granted, or grant a benefit at a reduced rate.
 (3) In this clause and clause 17,—
   - **income** excludes, for 12 months after the date of the person’s receipt of the amount, an amount that—
@@ -5311,6 +5674,7 @@ The estimated income for the period for which the calculation under clause 12(1)
 (1) The Governor-General may, by Order in Council, for the purposes of clause 16 make rules—
   (a) relating to the deprivation of income, property, or both; and
   (b) prescribing the circumstances in which the rules apply.
+(1A) Rules under this clause are subject to clause 16(1A) (under which deprivation of income, property, or both, excludes specified conduct by a person who is an applicant for a benefit, or the spouse or partner of that applicant).
 (2) Rules under this clause are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### Part 5 — Effect on liabilities of insurance payments
@@ -5387,13 +5751,13 @@ The following table is small in size and contains 4 columns. The columns have no
 
 #### Subpart 1 — Rates of youth payment and young parent payment
 
-| 1For a single young person without dependent children |  | $294.18 a week subject to clause 11 |  |
+| 1For a single young person without dependent children |  | $294.18 a week subject to clauses 11 and 11A |  |
 | --- | --- | --- | --- |
-| 2For a single young person who—is aged 16 to 17 years; andis living with or being financially supported by a parent or guardian; andhas a dependent child or children |  | $272.74 a week subject to clause 11 |  |
-| 3For any other single young person with a dependent child or children |  | $472.79 a week subject to clause 11 |  |
-| 4For a young person who is in a relationship and is without dependent children |  | $287.35 a week subject to clause 12 |  |
-| 5For a young person who is in a relationship and has a dependent child or children |  | (a) | $303.43 a week subject to clause 12 if the young person’s spouse or partner is not receiving a main benefit under this Act; or |
-|  | (b) | $303.43 a week subject to clause 12 if the young person’s spouse or partner is receiving a main benefit under this Act |  |
+| 2For a single young person who—is aged 16 to 17 years; andis living with or being financially supported by a parent or guardian; andhas a dependent child or children |  | $272.74 a week subject to clauses 11 and 11A |  |
+| 3For any other single young person with a dependent child or children |  | $472.79 a week subject to clauses 11 and 11A |  |
+| 4For a young person who is in a relationship and is without dependent children |  | $287.35 a week subject to clauses 12 and 12A |  |
+| 5For a young person who is in a relationship and has a dependent child or children |  | (a) | $303.43 a week subject to clauses 12 and 12A if the young person’s spouse or partner is not receiving a main benefit under this Act; or |
+|  | (b) | $303.43 a week subject to clauses 12 and 12A if the young person’s spouse or partner is receiving a main benefit under this Act |  |
 | 6In this Part, dependent child (as defined in Schedule 2) excludes a child in respect of whom an orphan’s benefit or an unsupported child’s benefit is being paid. |  |  |  |
 
 #### Subpart 2 — Component
@@ -5410,10 +5774,14 @@ The following table is small in size and contains 4 columns. The columns have no
 
 #### Subpart 4 — Abatement rates and income limits
 
-| 11The applicable rate of youth payment or young parent payment in clause 1, 2, or 3 must be reduced by $1 for every $1 of the young person’s weekly income that exceeds $258.08, but no amount of youth payment or young parent payment or incentive payment is payable if the young person’s weekly income exceeds $308.08. |
+| 11The applicable rate of youth payment or young parent payment in clause 1, 2, or 3 must be reduced by $1 for every $1 of the young person’s weekly income (excluding any 1 or more information share child support payments) that exceeds $258.08, but no amount of youth payment or young parent payment or incentive payment is payable if the young person’s weekly income (excluding any 1 or more information share child support payments) exceeds $308.08. |
 | --- |
-| 12The applicable rate of youth payment or young parent payment in clause 4 or 5 must be reduced by 50 cents for every $1 of the combined weekly income of the young person and the young person’s spouse or partner that exceeds $258.08, but no amount of youth payment or young parent payment or incentive payment is payable if that combined income exceeds $358.08. |
-| 13For the purposes of clause 11 or 12 and a rate of young parent payment, MSD may disregard up to $20 a week of the personal earnings of the young person used to meet the costs of childcare for any of the person’s dependent children (see clause 6). |
+| 11AIf, after complying with clause 11, an amount of youth payment or young parent payment or incentive payment is payable, the applicable rate of youth payment or young parent payment in clause 1, 2, or 3 must also be reduced by $1 for every $1 of any of the young person’s relevant weekly income (as defined in clause 11B). |
+| 11BIn clause 11A, the young person’s relevant weekly income means their weekly income—that is 1 or more information share child support payments; andthat exceeds $258.08 of their weekly income that is 1 or both of—any weekly income (excluding any 1 or more information share child support payments):any 1 or more information share child support payments. |
+| 12The applicable rate of youth payment or young parent payment in clause 4 or 5 must be reduced by 50 cents for every $1 of the combined weekly income of the young person and the young person’s spouse or partner (excluding any 1 or more information share child support payments) that exceeds $258.08, but no amount of youth payment or young parent payment or incentive payment is payable if that combined weekly income (excluding any 1 or more information share child support payments) exceeds $358.08. |
+| 12AIf, after complying with clause 12, an amount of youth payment or young parent payment or incentive payment is payable, the applicable rate of youth payment or young parent payment in clause 4 or 5 must also be reduced by 50 cents for every $1 of the relevant combined weekly income of the young person and the young person’s spouse or partner (as defined in clause 12B) that exceeds $258.08. |
+| 12BIn clause 12A, the relevant combined weekly income of the young person and the young person’s spouse or partner means their combined weekly income—that is 1 or more information share child support payments; andthat exceeds $258.08 of their combined weekly income that is 1 or both of—any weekly income (excluding any 1 or more information share child support payments):any 1 or more information share child support payments. |
+| 13For the purposes of clause 11, 11A, 12, or 12A and a rate of young parent payment, MSD may disregard up to $20 a week of the personal earnings of the young person (excluding any that are the young person’s weekly income that is 1 or more information share child support payments) used to meet the costs of childcare for any of the person’s dependent children (see clause 6). |
 
 ###
 [Repealed]
