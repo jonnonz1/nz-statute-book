@@ -1,5 +1,5 @@
 # Companies Act 1993
-_Consolidation as at 2023-04-01_
+_Consolidation as at 2023-07-01_
 
 > An Act to reform the law relating to companies, and, in particular,—ato reaffirm the value of the company as a means of achieving economic and social benefits through the aggregation of capital for productive purposes, the spreading of economic risk, and the taking of business risks; andbto provide basic and adaptable requirements for the incorporation, organisation, and operation of companies; andcto define the relationships between companies and their directors, shareholders, and creditors; anddto encourage efficient and responsible management of companies by allowing directors a wide discretion in matters of business judgment while at the same time providing protection for shareholders and creditors against the abuse of management power; andeto provide straightforward and fair procedures for realising and distributing the assets of insolvent companies
 
@@ -6484,9 +6484,9 @@ Notwithstanding any other Act or rule of law, a report prepared by a person in r
 (3) Any Order in Council made under subsection (1) may authorise the Registrar to waive, in whole or in part and on such conditions as may be prescribed, payment of any amount referred to in paragraph (b) of that subsection.
 (3A) If the Registrar declines to reserve a name or revokes the reservation of a name under section 22, the Registrar may remit the fee payable in respect of a subsequent application on behalf of the company to reserve a name.
 (3B) If the Registrar, under section 24(1), requires a company to change its name, no fee is payable in respect of an application for the reservation of a name or an application to change the name of the company.
-(3C) Regulations made under this section may authorise a fee, or a portion of a fee, payable under this section to be used to recover the costs, or a share of the costs, of the Registrar of New Zealand Business Numbers in the performance or exercise of the Registrar’s functions, powers, and duties under the New Zealand Business Number Act 2016.
-(3D) The costs recovered in accordance with subsection (3C), and the functions, powers, and duties in relation to which those costs were incurred, need not be related, directly or indirectly, to the company or companies from which the fee is collected.
-(3E) Subsections (3C) and (3D) and this subsection are repealed on 1 July 2023.
+(3C)
+(3D)
+(3E)
 (4) Any fee or amount payable to the Registrar is recoverable by the Registrar in any court of competent jurisdiction as a debt due to the Crown.
 (5) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
