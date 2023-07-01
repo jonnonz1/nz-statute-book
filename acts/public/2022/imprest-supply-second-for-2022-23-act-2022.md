@@ -1,5 +1,5 @@
 # Imprest Supply (Second for 2022/23) Act 2022
-_Consolidation as at 2022-09-21_
+_Consolidation as at 2023-07-01_
 
 ### 1 Title
 This Act is the Imprest Supply (Second for 2022/23) Act 2022.
