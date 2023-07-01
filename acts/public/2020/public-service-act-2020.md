@@ -1,5 +1,5 @@
 # Public Service Act 2020
-_Consolidation as at 2023-05-12_
+_Consolidation as at 2023-07-01_
 
 ### 1 Title
 This Act is the Public Service Act 2020.
@@ -1228,12 +1228,14 @@ The amendments to the State Sector (Ministry for Primary Industries) Order 2012 
 |  |  | New Zealand Police |  |
 |  |  | Oranga Tamariki—Ministry for Children |  |
 |  |  | Public Service Commission |  |
-| Strategic Planning Reform Board |  | Department of Conservation | Ministry for the Environment |
+| Spatial Planning Board |  | Department of Conservation | Ministry for the Environment |
 |  | Department of Internal Affairs |  |  |
 |  |  | Ministry for Culture and Heritage |  |
 |  |  | Ministry for Primary Industries |  |
 |  |  | Ministry for the Environment |  |
 |  |  | Ministry of Business, Innovation, and Employment |  |
+|  |  | Ministry of Education |  |
+|  |  | Ministry of Health |  |
 |  |  | Ministry of Housing and Urban Development |  |
 |  |  | Ministry of Māori Development—Te Puni Kōkiri |  |
 |  |  | Ministry of Transport |  |
