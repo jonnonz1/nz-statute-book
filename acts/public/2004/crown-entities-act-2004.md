@@ -1,5 +1,5 @@
 # Crown Entities Act 2004
-_Consolidation as at 2023-01-01_
+_Consolidation as at 2023-07-01_
 
 ### 1 Title
 This Act is the Crown Entities Act 2004.
@@ -1542,14 +1542,9 @@ The statement of responsibility must—
 (2) The Auditor-General must—
   (a) audit the statements and information referred to in subsection (1)﻿(a); and
   (b) provide an audit report to the Crown entity within 4 months after the end of each financial year.
-Extension of time limit for 2020/21 and 2021/22 audits
-(3) Despite the time limit in subsection (2)﻿(b),—
-  (a) in relation to the financial year ending with 30 June 2021, the audit report referred to in that subsection must be provided by the Auditor-General no later than the close of 31 December 2021; and
-  (b) in relation to the financial year ending with 30 June 2022, the audit report referred to in that subsection must be provided by the Auditor-General no later than the close of 31 December 2022.
-(4) However, subsection (3) applies to an entity only if its financial year ends with 30 June.
-(5) Subsections (3) and (4), the heading above subsection (3), and this subsection are repealed at the close of 30 June 2023.
 (3)
 (4)
+(5)
 
 **Application of this subpart to Crown entity groups**
 
@@ -1990,7 +1985,7 @@ New sections 150(3), (5), and (6) and 151(1)﻿(f), as inserted on the commencem
 | --- | --- | --- | --- | --- | --- |
 |  | s 161 | s 162 | s 163 | s 164 |  |
 | Broadcasting Standards Authority |  |  |  |  |  |
-| Children's Commissioner |  |  |  |  |  |
+| Children and Young People’s Commission |  |  |  |  |  |
 | Climate Change Commission |  |  |  |  |  |
 | Commerce Commission |  |  |  |  |  |
 | Criminal Cases Review Commission |  |  |  |  |  |
