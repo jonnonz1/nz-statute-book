@@ -1,5 +1,5 @@
 # Child Support Act 1991
-_Consolidation as at 2023-06-15_
+_Consolidation as at 2023-07-01_
 
 > Title
 
@@ -36,7 +36,6 @@ _Consolidation as at 2023-06-15_
     (c) any subsequent year commencing on 1 April and ending with 31 March
   - **Commissioner** means the Commissioner of Inland Revenue as defined in the Tax Administration Act 1994
   - **Consumers Price Index** means the Consumers Price Index (all groups) published by Statistics New Zealand or, if that index ceases to be published, any measure certified by the Government Statistician as being equivalent to that index
-  - **COVID-19 New Zealanders Stranded Overseas Support Programme** means the welfare programme of that name approved and established under section 101 of the Social Security Act 2018 on 17 April 2020
   - **domestic maintenance** means any payment required to be made under this Act by any person towards the support of another person under section 58(2) or section 68(2)
   - **employee** has the same meaning as in paragraph (a) of the definition of employee in section YA 1 of the Income Tax Act 2007
   - **employer** has the same meaning as in paragraphs (a) and (b) of the definition of employer in section YA 1 of the Income Tax Act 2007
@@ -92,23 +91,16 @@ _Consolidation as at 2023-06-15_
     (a) a carer of a qualifying child who the Commissioner determines under section 17 is a receiving carer of the child; or
     (b) a person who is entitled to receive child support under section 58(1) or 68(1)
   - **social security beneficiary** means a person who is in receipt of a social security benefit
-  - **social security benefit** means—
-    (a) sole parent support under section 29 of the Social Security Act 2018:
-    (b) an unsupported child’s benefit under section 46 of that Act:
-    (c) any of the following benefits under that Act, but only if granted to a sole parent (within the meaning of that Act):
-      (i) a supported living payment under section 34 on the ground of restricted work capacity or total blindness:
-      (ii) jobseeker support (other than jobseeker support under section 25(3) or (4) of that Act):
-      (iii) young parent payment:
-    (d) an emergency benefit under section 63 of that Act, but only if granted to a sole parent (within the meaning of that Act):
-    (e) special assistance under the COVID-19 New Zealanders Stranded Overseas Support Programme that corresponds to a benefit of a kind specified in paragraph (a), (c), or (d), but only if granted to a sole parent (within the meaning of that Act):
-    (f) special assistance under that programme that corresponds to a benefit of the kind specified in paragraph (b)
+  - **social security benefit** means any benefit as defined in Schedule 2 of the Social Security Act 2018
   - **source deduction payment** means a PAYE income payment (as defined in section RD 3 of the Income Tax Act 2007)
   - **step-parent** , in relation to any child, means, in applying any provision of this Act relating to the liability of a person to pay child support, any person who has been declared to be a step-parent of the child by the Family Court under section 99
   - **tax year** has the meaning in section YA 1 of the Income Tax Act 2007
+  - **UCB beneficiary** , in respect of a child, means a person who is in receipt of an unsupported child’s benefit for the child
   - **unincorporated body of persons** includes—
     (a) a partnership:
     (b) a joint venture:
     (c) the trustees of a trust
+  - **unsupported child’s benefit** means unsupported child’s benefit under section 46 of the Social Security Act 2018
   - **withholding income** means—
     (a) income from employment that has a New Zealand source that is subject to the PAYE rules (as defined in section YA 1 of the Income Tax Act 2007):
     (b) interest or a dividend that has a New Zealand source that is subject to the RWT rules (as defined in section YA 1 of the Income Tax Act 2007).
@@ -209,37 +201,43 @@ The objects of this Act are—
   (a) the chief executive of the department for the time being responsible for the administration of the Oranga Tamariki Act 1989; or
   (b) a body or organisation approved under section 396 of that Act.
 
-### 9 Social security beneficiaries must apply for formula assessment
+### 9 UCB beneficiaries must apply for formula assessment
+Person to whom section applies
 (1) This section applies to a person who is a carer of a qualifying child (other than a child to whom section 8(2) applies) and—
-  (a) is a social security beneficiary; and
-  (b) provides, or considers that he or she provides, at least 35% of ongoing daily care to the child; and
+  (a) is a UCB beneficiary; and
+  (b) provides, or considers that the person provides, at least 35% of ongoing daily care to the child; and
   (c) is not already a receiving carer in respect of the child (but see subsection (4)).
-(2) A person to whom this section applies must apply for a formula assessment of child support in relation to every parent of the child unless subsection (5B) applies.
-(3) A social security beneficiary who is required under subsection (2) to apply for a formula assessment of child support in relation to a parent of the child, must make the application—
-  (a) at the same time as an application for social security benefit is made:
-  (b) at a time other than when an application for social security benefit is made, when notified by the Commissioner that an application for a formula assessment is required in relation to the qualifying child.
-(4) If a person who is or becomes a social security beneficiary receives child support pursuant to an order under Part 4 that relates to an overseas order (as referred to in section 67(b)),—
+Person must apply for formula assessment
+(2) A person to whom this section applies must apply for a formula assessment of child support in relation to every parent of the child unless subsection (5) applies.
+When UCB beneficiary must make application for formula assessment
+(3) A UCB beneficiary who is required under subsection (2) to apply for a formula assessment of child support in relation to a parent of the child must make the application—
+  (a) at the same time as an application for unsupported child’s benefit is made:
+  (b) at a time other than when an application for unsupported child’s benefit is made, when notified by the Commissioner that an application for a formula assessment is required in relation to the qualifying child.
+If UCB beneficiary receives child support pursuant to order under Part 4 that relates to overseas order
+(4) If a person who is or becomes a UCB beneficiary receives child support pursuant to an order under Part 4 that relates to an overseas order (as referred to in section 67(b)),—
   (a) the person is deemed not to be a receiving carer for the purpose of this section; and
-  (b) the person is deemed to have made, on the date on which he or she becomes a social security beneficiary, an election under section 70 that the order be one to which Part 4 does not apply; and
-  (c) if the person ceases to be a social security beneficiary, or ceases to provide at least 35% of ongoing daily care to the child,—
+  (b) the person is deemed to have made, on the date on which the person becomes a UCB beneficiary, an election under section 70 that the order be one to which Part 4 does not apply; and
+  (c) if the person ceases to be a UCB beneficiary, or ceases to provide at least 35% of ongoing daily care to the child,—
     (i) any formula assessment applying at that time ceases to apply; and
     (ii) the election under section 70 is deemed to be revoked (despite section 70(4)) on the following day.
-(5) If the person is in receipt of an unsupported child's benefit in respect of 1 or more children, but is not in receipt of any other social security benefit, subsection (2) applies only in relation to the child or children in respect of whom the unsupported child's benefit is paid.
-(5B) A social security beneficiary is not required to apply for a formula assessment in relation to a parent of the child if either the Commissioner or the chief executive of the department for the time being responsible for the administration of the Social Security Act 2018 is satisfied that—
+When UCB beneficiary not required to apply for formula assessment
+(5) A UCB beneficiary is not required to apply for a formula assessment in relation to a parent of the child if either the Commissioner or the chief executive of the department for the time being responsible for the administration of the Social Security Act 2018 is satisfied that all or any of the following applies:
   (a) there is insufficient evidence available to establish who in law that parent is:
-  (b) if the beneficiary made an application for a formula assessment of child support or took steps to make an application for a formula assessment of child support in relation to that parent, there would be a risk of violence—
-    (i) to the beneficiary:
-    (ii) if the beneficiary is a sole parent, to any of the beneficiary’s children:
-    (iii) if the beneficiary is in receipt of an unsupported child’s benefit, to the beneficiary’s partner, the beneficiary’s children, the qualifying child, a parent of the qualifying child, or a sibling of the qualifying child:
-  (c) that parent died before the application for social security benefit was made:
+  (b) there would be a risk of violence to a specified person if the UCB beneficiary were to do 1 or both of the following:
+    (i) make an application for a formula assessment of child support in relation to that parent:
+    (ii) take steps to make an application for a formula assessment of child support in relation to that parent:
+  (c) that parent died before the application for unsupported child’s benefit was made:
   (d) the child was conceived as a result of incest or sexual violation:
-  (e) the beneficiary cannot make an application for a formula assessment of child support in relation to that parent because of a compelling circumstance, other than a circumstance mentioned elsewhere in this subsection.
-(6)
-(6B)
-(7)
-(8) In this section,—
-  - **sole parent** has the same meaning as in Schedule 2 of the Social Security Act 2018
-  - **unsupported child’s benefit** includes special assistance under the COVID-19 New Zealanders Stranded Overseas Support Programme that corresponds to an unsupported child’s benefit under section 46 of the Social Security Act 2018
+  (e) the UCB beneficiary cannot make an application for a formula assessment of child support in relation to that parent because of a compelling circumstance, other than a circumstance mentioned elsewhere in this subsection.
+Meanings in subsection (5)﻿(b) of specified person and violence
+(6) In subsection (5)﻿(b),—
+  - **specified person** , for a UCB beneficiary, means any of the following:
+    (a) the UCB beneficiary:
+    (b) the UCB beneficiary’s spouse or partner:
+    (c) the UCB beneficiary’s children:
+    (d) the qualifying child:
+    (e) a parent of the qualifying child:
+    (f) a sibling of the qualifying child
   - **violence** has the same meaning as in section 9 of the Family Violence Act 2018.
 
 ### 10 Form of application
@@ -264,12 +262,12 @@ The objects of this Act are—
   (b) payment of child support is sought from both parents of the child or any of the children.
 (3) When this subsection applies, the form may be treated as if it contained separate applications for a formula assessment of child support in respect of the child or each of the children from a parent from whom payment of child support is sought.
 
-### 12 Deemed application by beneficiary
-(1) This section applies if a social security beneficiary is entitled to child support payments under a voluntary agreement but child support payments then cease to be payable under the agreement because—
+### 12 Deemed application by UCB beneficiary
+(1) This section applies if a UCB beneficiary is entitled to child support payments under a voluntary agreement but child support payments then cease to be payable under the agreement because—
   (a) the agreement expires; or
   (b) the amount payable by the liable parent is less than the amount that would be payable by the liable parent under a formula assessment; or
   (c) an election under section 64 (to terminate liability under the voluntary agreement) takes effect.
-(2) If this section applies, on the day after the date on which the child support payments cease to be payable under the agreement, the Commissioner is deemed to have received from the beneficiary a properly completed application for a formula assessment for child support, as required by section 9, in relation to the same child or children, the same liable parent, and the same carer, as the voluntary agreement related to.
+(2) If this section applies, on the day after the date on which the child support payments cease to be payable under the agreement, the Commissioner is deemed to have received from the UCB beneficiary a properly completed application for a formula assessment for child support, as required by section 9, in relation to the same child or children, the same liable parent, and the same carer, as the voluntary agreement related to.
 
 ### 13 Notification by Commissioner of application
 (1) On receiving a properly completed application for a formula assessment in respect of 1 or more qualifying children, the Commissioner must notify the applicant, and every parent and carer identified in the application, that the Commissioner has received an application for a formula assessment and will therefore ascertain—
@@ -424,9 +422,7 @@ The objects of this Act are—
 (3) The election qualifies for acceptance if—
   (a) person P is a recognised carer of child C by virtue of subsection (6)﻿(a); and
   (b) every other recognised carer of child C (if any) agrees to the election.
-(4) However, the election does not qualify for acceptance if a recognised carer of child C is, or is expected to be, on the day referred to in section 25(5)﻿(a) or (b) (as the case may be),—
-  (a) a social security beneficiary by virtue of paragraph (a), (c), (d), or (e) of the definition of social security benefit in section 2(1); or
-  (b) a social security beneficiary by virtue of paragraph (b) or (f) of that definition where the unsupported child’s benefit or special assistance is granted in respect of child C.
+(4) However, the election does not qualify for acceptance if a recognised carer of child C is, or is expected to be, on the day referred to in section 25(5)﻿(a) or (b), a UCB beneficiary in respect of child C.
 (5) In determining whether to accept the election, the Commissioner—
   (a) may act on the basis of any information accompanying the notice of election and any other information in the Commissioner’s possession; and
   (b) is not required to conduct any enquiries or investigations into the matter.
@@ -437,7 +433,7 @@ The objects of this Act are—
 (8) The acceptance may be overturned, wholly on the basis of information in the Commissioner’s possession at the time of the acceptance,—
   (a) under Part 6, on an objection to the acceptance made under section 90(1)﻿(bb); or
   (b) under Part 7, on an appeal against the Commissioner’s disallowance of an objection to the acceptance made under section 90(1)﻿(bb).
-(9) The Commissioner may overturn the acceptance if a person whom the Commissioner regarded as being a recognised carer of child C when accepting the election is a social security beneficiary of the kind referred to in subsection (4)﻿(a) or (b) on the day referred to in section 25(5)﻿(a) or (b) (as the case may be).
+(9) The Commissioner may overturn the acceptance if a person whom the Commissioner regarded as being a recognised carer of child C when accepting the election is a UCB beneficiary in respect of child C on the day referred to in section 25(5)﻿(a) or (b) (as the case may be).
 (10) Without affecting the acceptance, subsequent changes may be made to the receiving carers or liable parents, or to their entitlements or liabilities, under the formula assessment in respect of times before the day referred to in section 25(5)﻿(a) or (b) (as the case may be) (and the acceptance does not prevent a person applying for a new formula assessment in respect of child C).
 (11) A notice of election must be given using an approved form or given in another way approved by the Commissioner.
 
@@ -524,7 +520,7 @@ A parent's income percentage, in relation to a qualifying child, is the percenta
   (b) annualised.
 (2) The amount of living allowance is as follows:
   (a) for a person not identified in paragraph (b), the rate set out in clause 1 of Part 2 of Schedule 4 of the Social Security Act 2018 (ignoring the reference to Income Test 1):
-  (b) for a person granted a supported living payment under subpart 4 of Part 2 of the Social Security Act 2018 who is, for the purposes of that benefit, a single beneficiary with 1 or more dependent children, special assistance under the COVID-19 New Zealanders Stranded Overseas Support Programme that corresponds to such a payment, or both, the rate set out in clause 1(c) of Part 3 of Schedule 4 of that Act (ignoring the reference to Income Test 1).
+  (b) for a person granted a supported living payment under subpart 4 of Part 2 of the Social Security Act 2018 who is, for the purposes of that benefit, a single beneficiary with 1 or more dependent children, the rate set out in clause 1(c) of Part 3 of Schedule 4 of that Act (ignoring the reference to Income Test 1).
 (3) The version of the appropriate schedule of the Social Security Act 2018 that applies in a child support year is the version in force on 1 January in the immediately preceding child support year.
 (4) The Commissioner must ensure that notice of the applicable living allowances under this section that apply to the current and (if applicable) the previous child support year is available at all reasonable times on an Internet site maintained by or on behalf of the Inland Revenue Department.
 
@@ -798,10 +794,10 @@ In sections 40 to 45, unless the context otherwise requires,—
   (a) 2 or more voluntary agreements are made by the same parties providing for payments to be made in respect of 1 or more qualifying children; and
   (b) the sum of the weekly instalments payable under those agreements is not less than $10.
 
-### 50 Exception where payee is social security beneficiary
+### 50 Exception where payee is UCB beneficiary
 Any voluntary agreement that provides for payments—shall not qualify for acceptance by the Commissioner under this Act unless the annual rate at which those payments are to be made under the agreement is equal to or exceeds the annual rate that would be payable—
   (a) that are towards the support of a qualifying child; and
-  (b) that are to be made to a person who is, or will be on the day on which the liability to make any such payment commences in terms of section 59, in receipt of a social security benefit,—
+  (b) that are to be made to a person who is, or will be on the day on which the liability to make any such payment commences in terms of section 59, in receipt of an unsupported child’s benefit for the qualifying child,—
   (c) if the liability were assessed under a formula assessment; and
   (d) if the person by whom the payments are to be made were not entitled, under the formula assessment procedure, to make an election under section 40.
 
@@ -1261,7 +1257,6 @@ In this Part, unless the context otherwise requires,—
   - **relevant minimum annual rate of financial support** means, in relation to a child support year,—
     (a) for an exemption from child support payable under a formula assessment or under an order under section 109, the minimum annual rate for that year under section 72(1)﻿(a):
     (b) for an exemption from any other child support payable under this Act or from domestic maintenance, $520
-  - **social security benefit** means any benefit as defined in Schedule 2 of the Social Security Act 2018.
 
 ### Subpart 2 — Exemptions for hospital patients, persons suffering from long-term periods of illness, prisoners, and persons under 16 years
 
@@ -1858,8 +1853,8 @@ If the Commissioner decides to start proceedings under this Part, the Commission
 ### 96Y Election by receiving carer or by liable parent to become party or discontinue proceedings
 (1) Any relevant person (see subsection (8)) may elect to become a party to proceedings before the Commissioner under this Part.
 (2) A relevant person may elect to discontinue proceedings in relation to a formula assessment of child support that was or will become payable, except that—
-  (a) a receiving carer who was a social security beneficiary during a particular period may not elect to discontinue proceedings in respect of child support that was payable during that period; and
-  (b) a receiving carer who is a social security beneficiary may not elect to discontinue proceedings in respect of child support that will become payable.
+  (a) a receiving carer who was a UCB beneficiary during a particular period may not elect to discontinue proceedings in respect of child support that was payable during that period; and
+  (b) a receiving carer who is a UCB beneficiary may not elect to discontinue proceedings in respect of child support that will become payable.
 (3) If a relevant person makes an election under subsection (1) or (2), the election must be—
   (a) in writing; and
   (b) filed with the Commissioner within 14 days after the date on which the Commissioner sends notification to the relevant person under section 96X.
@@ -2327,11 +2322,14 @@ The Commissioner shall, as soon as practicable, take such action as is necessary
 ### 121 Evidence on hearing of appeal against disallowance
 Where a court is considering an appeal under this Act against the disallowance by the Commissioner (in whole or in part) of an objection made under section 90, the objector shall not, without leave of the court, be entitled to plead or adduce evidence in support of any ground of objection not specified in the objector's notice of objection.
 
-### 122 Social security beneficiary to be compellable witness against liable parent
-(1) Notwithstanding any rule of law to the contrary, in any proceeding under this Act a person—shall be a compellable witness for the Commissioner against the person who, in relation to that eligible applicant, is the liable parent, and for the liable parent against the Commissioner.
-  (a) who is a parent or carer of a qualifying child; and
-  (b) who is in receipt of a social security benefit at any time during any period to which the proceeding relates,—
-(2)
+### 122 UCB beneficiary is compellable witness against liable parent
+(1) This section applies, in a proceeding under this Act, to a person (person A) who is—
+  (a) a carer of a qualifying child; and
+  (b) in receipt of an unsupported child’s benefit at any time during a period to which the proceeding relates.
+(2) Person A is a compellable witness—
+  (a) for the Commissioner against a person who, in relation to person A, is a liable parent; and
+  (b) for a liable parent against the Commissioner.
+(3) This section applies despite any rule of law to the contrary.
 
 ### 123 Conduct of proceedings
 (1) The business of courts and of Judges shall, so far as is consistent with the due despatch of business, be arranged in such a manner as may be necessary for the separating of the hearing of proceedings under this Act from other business.
@@ -2393,9 +2391,9 @@ Where any person makes default in any payment of financial support under this Ac
     (ii) if the Commissioner considers automatic deduction inappropriate in the person’s case, by another payment method acceptable to the Commissioner.
 
 ### 131 Social security beneficiaries to pay financial support by automatic deduction
-Where any person who is required to pay financial support under this Act is in receipt of any benefit under the Social Security Act 2018, or Part 6 of the Veterans' Support Act 2014, or the New Zealand Superannuation and Retirement Income Act 2001,—
+Where any person who is required to pay financial support under this Act is in receipt of any social security benefit,—
   (a) section 129 of this Act shall not apply; and
-  (b) payments of financial support shall be payable by way of automatic deduction under Part 10 of this Act from any instalment of any benefit to which the person is or may become entitled under that Act.
+  (b) payments of financial support shall be payable by way of automatic deduction under Part 10 of this Act from any instalment of any social security benefit to which the person is or may become entitled.
 
 **Due dates for payment of financial support**
 
@@ -2607,71 +2605,54 @@ Where, in any month, an amount is paid to, or to be credited by, the Commissione
 
 **Payments by Commissioner**
 
-### 141 Payment to receiving carers who are not social welfare beneficiaries
-All money received by the Commissioner by way of child support in respect of a qualifying child shall, if the receiving carer of that child is not a recipient of a social security benefit, be paid to the receiving carer in accordance with this Part.
+### 141 Payment to receiving carers who are not UCB beneficiaries
+(1) This section applies to money received by the Commissioner if—
+  (a) the money is by way of child support in respect of a qualifying child; and
+  (b) the receiving carer of that child is not a UCB beneficiary for that child.
+(2) The money must be paid to the receiving carer in accordance with this Part.
 
-### 142 Payment of formula assessment child support to receiving carers who are social security beneficiaries
-(1) Where—the Commissioner shall—
-  (a) the receiving carer of 1 or more children is a recipient of a social security benefit; and
-  (b) the Commissioner receives money by way of child support in respect of that child or those children; and
-  (c) that money is paid by a liable parent or parents under 1 or more formula assessments; and
-  (d) the Commissioner does not receive money in respect of that child or those children from any person under a voluntary agreement,—
-  (ea) pay to the receiving carer the amount of child support paid by a liable parent that is payable to the receiving carer and is payable by that liable parent for the periods when the receiving carer is not a recipient of a social security benefit; and
-  (e) aggregate all remaining payments of child support payable to that receiving carer; and
-  (f) deduct an amount equal to whichever is the lesser of the following amounts:
-    (i) the net of tax amount of social security benefit receivable by the receiving carer; or
-    (ii) the aggregate of all payments of child support received by the Commissioner that are payable to the receiving carer (after any deductions have been made in accordance with paragraph (ea)); and
-  (g) pay any remaining child support to the receiving carer.
-(2) Where a receiving carer of more than 1 child receives an unsupported child's benefit in respect of 1 or more children, then subsection (1) shall not apply and the Commissioner shall,—
-  (a) in respect of each child for whom an unsupported child's benefit is payable,—
-    (ia) pay to the receiving carer the amount of child support paid by a liable parent that is payable to the receiving carer and is payable by that liable parent in respect of the child for periods when the receiving carer is not a recipient of an unsupported child's benefit in respect of the child; and
-    (i) aggregate all remaining payments of child support payable to the receiving carer in respect of each such child; and
-    (ii) deduct an amount equal to whichever is the lesser of the following amounts:
-      (A) the net of tax amount of the unsupported child's benefit; or
-      (B) the aggregate of all payments of child support received by the Commissioner that are payable to the receiving carer in respect of that child (after any deductions have been made in accordance with subparagraph (ia)); and
-    (iii) pay any remaining child support in respect of that child to the receiving carer; and
-  (b) in respect of any other child or children,—
-    (ia) pay to the receiving carer the amount of child support paid by a liable parent that is payable to the receiving carer and is payable by that liable parent in respect of that child or those children for the periods when the receiving carer is not a recipient of a social security benefit; and
-    (i) aggregate all remaining payments of child support payable to the receiving carer in respect of that child or children; and
-    (ii) deduct an amount equal to whichever is the lesser of the following amounts:
-      (A) the net of tax amount of social security benefit (other than unsupported child's benefit) receivable by the receiving carer; or
-      (B) the aggregate of all payments of child support received by the Commissioner in respect of that child or children that are payable to the receiving carer (after any deductions have been made in accordance with subparagraph (ia)); and
-    (iii) pay any remaining child support in respect of that child or children to the receiving carer.
+### 142 Payment of formula assessment child support to receiving carers who are UCB beneficiaries
+When section applies
+(1) This section applies only if—
+  (a) a person is the receiving carer of 1 or more children (the child support child or children); and
+  (b) the person is also a UCB beneficiary in respect of 1 or more children (the UCB child or children); and
+  (c) the child support child or children is or are either the same as, or different from, the UCB child or children; and
+  (d) the Commissioner receives money by way of child support in respect of the UCB child or children; and
+  (e) that money is paid by a liable parent or parents under 1 or more formula assessments; and
+  (f) the Commissioner does not receive money in respect of the UCB child or children from any person under a voluntary agreement.
+Duty in respect of each child for whom an unsupported child’s benefit is payable
+(2) If this section applies, the Commissioner must, in respect of each child for whom an unsupported child’s benefit is payable,—
+  (a) pay to the receiving carer the amount of child support paid by a liable parent that is payable to the receiving carer by that liable parent in respect of the child for periods when the receiving carer is not a recipient of an unsupported child’s benefit in respect of the child; and
+  (b) aggregate all remaining payments of child support payable to the receiving carer in respect of each such child; and
+  (c) deduct an amount equal to whichever is the lesser of the following amounts:
+    (i) the net of tax amount of the unsupported child’s benefit; or
+    (ii) the aggregate of all payments of child support received by the Commissioner that are payable to the receiving carer in respect of that child (except for any amount the Commissioner is required to pay under paragraph (a)); and
+  (d) pay any remaining child support in respect of that child to the receiving carer.
+Interaction with section 137 (order in which payments to be applied by Commissioner)
 (3) This section does not limit the application of section 137 to the liable parent.
-(4) In this section and section 143, unsupported child’s benefit includes special assistance under the COVID-19 New Zealanders Stranded Overseas Support Programme that corresponds to an unsupported child’s benefit under section 46 of the Social Security Act 2018.
 
-### 143 Payment of voluntary agreement child support to receiving carers who are social security beneficiaries
-(1) Where—the Commissioner shall—
-  (a) the receiving carer of 1 or more children is a recipient of a social security benefit; and
-  (b) the Commissioner receives money by way of child support in respect of that child or those children; and
-  (c) any of that money is paid by a liable parent or parents under 1 or more voluntary agreements,—
-  (da) pay to the receiving carer the amount of child support paid by a liable parent that is payable to the receiving carer and is payable by that liable parent for the periods when the receiving carer is not a recipient of a social security benefit; and
-  (d) in respect of each child for whom money is paid under a voluntary agreement, pay to the receiving carer the amount by which that money exceeds the payment that would have been made under a formula assessment of child support (except to the extent that the amount has already been paid under paragraph (da)); and
-  (e) aggregate all remaining payments of child support payable to the receiving carer; and
-  (f) deduct an amount equal to whichever is the lesser of the following amounts:
-    (i) the net of tax amount of social security benefit receivable by the receiving carer; or
-    (ii) the aggregate of all payments of child support received by the Commissioner that are payable to the receiving carer (after any deductions have been made in accordance with paragraphs (da) and (d)); and
-  (g) pay any remaining child support to the receiving carer.
-(1A) If a receiving carer of more than 1 child receives an unsupported child's benefit in respect of 1 or more children, then subsection (1) does not apply and the Commissioner must,—
-  (a) in respect of each child for whom money is paid under a voluntary agreement, pay to the receiving carer—
-    (i) the amount of child support paid by a liable parent that is payable to the receiving carer and is payable by that liable parent in respect of the child for periods when the receiving carer is not a recipient of a social security benefit; and
-    (ii) the amount by which the money paid under the voluntary agreement in respect of the child exceeds the payment that would have been made under a formula assessment of child support (except to the extent that the amount has already been paid under subparagraph (i)); and
-  (b) in respect of each child for whom an unsupported child's benefit is payable,—
-    (i) pay to the receiving carer the amount of child support paid by a liable parent that is payable to the receiving carer and is payable by that liable parent in respect of the child for periods when the receiving carer is not a recipient of an unsupported child's benefit in respect of the child (except to the extent that the amount has already been paid under paragraph (a)); and
-    (ii) aggregate all remaining payments of child support payable to the receiving carer in respect of each such child; and
-    (iii) deduct an amount equal to whichever is the lesser of the following amounts:
-      (A) the net of tax amount of the unsupported child's benefit; or
-      (B) the aggregate of all payments of child support received by the Commissioner that are payable to the receiving carer in respect of that child (after any deductions have been made in accordance with paragraphs (a) and (b)﻿(i)); and
-    (iv) pay any remaining child support in respect of that child to the receiving carer; and
-  (c) in respect of any other child or children,—
-    (i) pay to the receiving carer the amount of child support paid by a liable parent that is payable to the receiving carer and is payable by that liable parent in respect of that child or those children for the periods when the receiving carer is not a recipient of a social security benefit (except to the extent that the amount has already been paid under paragraph (a)); and
-    (ii) aggregate all remaining payments of child support payable to the receiving carer in respect of that child or children; and
-    (iii) deduct an amount equal to whichever is the lesser of the following amounts:
-      (A) the net of tax amount of social security benefit (other than unsupported child's benefit) receivable by the receiving carer; or
-      (B) the aggregate of all payments of child support received by the Commissioner in respect of that child or children that are payable to the receiving carer (after any deductions have been made in accordance with paragraphs (a) and (c)﻿(i)); and
-    (iv) pay any remaining child support in respect of that child or children to the receiving carer.
-(2) For the purposes of calculating under subsection (1)﻿(d) or subsection (1A)﻿(a) the payments that would have been made under a formula assessment, the child support income amount of a liable parent who made the payment under a voluntary agreement shall be the amount that would apply if no election under section 40 could be made.
-(3) This section does not limit the application of section 137 to the liable parent.
+### 143 Payment of voluntary agreement child support to receiving carers who are UCB beneficiaries
+When section applies
+(1) This section applies only if—
+  (a) a person is the receiving carer of 1 or more children (the child support child or children); and
+  (b) the person is also a UCB beneficiary in respect of 1 or more children (the UCB child or children); and
+  (c) the child support child or children is or are either the same as, or different from, the UCB child or children; and
+  (d) the Commissioner receives money by way of child support in respect of the UCB child or children; and
+  (e) any of that money is paid by a liable parent or parents under 1 or more voluntary agreements.
+Duty in respect of each child for whom money is paid under a voluntary agreement
+(2) If this section applies, the Commissioner must, in respect of each child for whom money is paid under a voluntary agreement, pay to the receiving carer—
+  (a) the amount of child support paid by a liable parent that is payable to the receiving carer by that liable parent in respect of the child for periods when the receiving carer is not a recipient of an unsupported child’s benefit in respect of the child; and
+  (b) the amount by which the money paid under the voluntary agreement in respect of the child (except for any amount that the Commissioner is required to pay under paragraph (a)) exceeds the payment that would have been made under a formula assessment of child support.
+Duty in respect of each child for whom an unsupported child’s benefit is payable
+(3) If this section applies, the Commissioner must also, in respect of each child for whom an unsupported child’s benefit is payable,—
+  (a) pay to the receiving carer the amount of child support paid by a liable parent that is payable to the receiving carer by that liable parent in respect of the child for periods when the receiving carer is not a recipient of an unsupported child’s benefit in respect of the child (except for any amount the Commissioner is required to pay under subsection (2)); and
+  (b) aggregate all remaining payments of child support payable to the receiving carer in respect of each such child; and
+  (c) deduct an amount equal to whichever is the lesser of the following amounts:
+    (i) the net of tax amount of the unsupported child’s benefit; or
+    (ii) the aggregate of all payments of child support received by the Commissioner that are payable to the receiving carer in respect of that child (except for any amount the Commissioner is required to pay under subsection (2) or under paragraph (a) of this subsection); and
+  (d) pay any remaining child support in respect of that child to the receiving carer.
+Interaction with section 137 (order in which payments to be applied by Commissioner)
+(4) This section does not limit the application of section 137 to the liable parent.
 
 ### 144 Payment of lump sum and other child support
 (1) All money received by the Commissioner—shall be paid to the receiving carer in accordance with this Part.
@@ -2752,7 +2733,7 @@ In any case where—
 ### 152B Offsetting child support payments
 (1) This section applies if 2 persons are each liable to pay in respect of the other an amount of child support under a formula assessment or a voluntary agreement (whether or not those amounts have become due and payable).
 (1A) The Commissioner may at any time offset one amount against the other if the Commissioner is satisfied that it would be just and equitable to do so.
-(2) However, the Commissioner cannot exercise this power in respect of any amount in respect of a period if during that period the other parent is expected to be a social security beneficiary (as defined in section 2(1)).
+(2) However, the Commissioner cannot exercise this power in respect of any amount in respect of a period if during that period the other parent is expected to be a UCB beneficiary).
 (3) Subsection (4) applies if—
   (a) the power to offset should not have been exercised because of subsection (2); and
   (b) the reversal of the offsetting results in a requirement to pay an additional amount of child support.
@@ -2950,13 +2931,13 @@ All unpaid financial support and any unpaid penalty or other charge imposed ther
 Subject to section 180, no legal action may be taken by a payee in relation to any amount of financial support due and payable by a liable person to the Commissioner.
 
 ### 179A Waiver of right to payment
-(1) A payee who is a non-parent receiving carer of a qualifying child (other than a payee who is in receipt of an unsupported child's benefit for that child, or in receipt of any other social security benefit) may, by notice to the Commissioner, waive their right to receive the child support payments yet to be paid by a liable parent.
+(1) A payee who is a non-parent receiving carer of a qualifying child (other than a payee who is in receipt of an unsupported child's benefit for that child) may, by notice to the Commissioner, waive their right to receive the child support payments yet to be paid by a liable parent.
 (2) The notice takes effect as a waiver on the date specified in the notice; but if no date is specified, it takes effect on the date on which the notice is received by the Commissioner.
 (3) On and from the date on which a waiver takes effect, no unpaid child support payments constitute a debt payable by the liable parent to the Crown, whether the payments were due before, on, or after the date on which the waiver takes effect.
 (4) A waiver under this section is revocable at any time, by notice to the Commissioner, and the revocation takes effect on the later of the following:
   (a) the date specified in the notice:
   (b) the date on which the notice is received by the Commissioner.
-(5) A waiver under this section is deemed to be revoked if, and on the date that, the payee begins to receive an unsupported child's benefit for the child to whom the waiver relates, or begins to receive any other social security benefit.
+(5) A waiver under this section is deemed to be revoked if, and on the date that, the payee begins to receive an unsupported child's benefit for the child to whom the waiver relates.
 (6) If a waiver is revoked, the liable parent must pay the child support due in relation to the child from the date the revocation takes effect, and must pay it within 30 days after the date on which the notice of revocation is given to the liable parent.
 
 ### 180 Payee may uplift financial support debt
@@ -2964,9 +2945,9 @@ Subject to section 180, no legal action may be taken by a payee in relation to a
   (a) the Commissioner cease to pursue payment of the whole or any part of an amount payable by the liable person that is unpaid and in arrear; or
   (b) the Commissioner not pursue payment of an amount that is to become payable in the future by a liable person.
 (2) This section does not entitle an election to be made in relation to an amount of child support payable to a payee, other than pursuant to a lump sum order made under section 109,—
-  (a) under subsection (1)﻿(a), if the amount of child support was payable in respect of a period during which the payee was a social security beneficiary (as defined in section 2(1)); or
-  (b) under subsection (1)﻿(b), if the payee is a social security beneficiary (as so defined) at the time of the making of the election; or
-  (c) under subsection (1)﻿(b), if the payee is not a social security beneficiary (as so defined) at the time of the making of the election, unless, at that time,—
+  (a) under subsection (1)﻿(a), if the amount of child support was payable in respect of a period during which the payee was a UCB beneficiary); or
+  (b) under subsection (1)﻿(b), if the payee is a UCB beneficiary at the time of the making of the election; or
+  (c) under subsection (1)﻿(b), if the payee is not a UCB beneficiary at the time of the making of the election, unless, at that time,—
     (i) the Commissioner has accepted an election under section 27 that covers the liability of the liable parent to pay child support; or
     (ii) the payee elects that the liability of the liable parent to pay child support is to end under section 64 or 70.
 (3) Where the Commissioner receives an election under subsection (1) that complies with the requirements of this section, the amount of money that is or becomes unpaid and in arrear, to the extent that the payee has elected that the Commissioner not pursue payment,—
@@ -2975,13 +2956,13 @@ Subject to section 180, no legal action may be taken by a payee in relation to a
   (c) without prejudice to any mode of recovery and despite section 179, may be recovered by the payee in the District Court.
 (4) An election made under this section is irrevocable from the time that the amount of child support or domestic maintenance is unpaid and in arrear.
 
-### 180A Commissioner may write off benefit component of child support debt if receiving carer was social security beneficiary and recovery would cause serious hardship or be inefficient use of Commissioner's resources
+### 180A Commissioner may write off benefit component of child support debt if receiving carer was UCB beneficiary and recovery would cause serious hardship or be inefficient use of Commissioner's resources
 (1) The Commissioner may write off some or all of the benefit component of an amount of child support that is payable by the liable person to the Crown under this Act, and that is unpaid and in arrear, if—
-  (a) the amount of child support was payable in respect of a period during which the receiving carer was a social security beneficiary (as defined in section 2(1)); and
+  (a) the amount of child support was payable in respect of a period during which the receiving carer was a UCB beneficiary); and
   (b) the Commissioner is satisfied that recovery of that part or, as the case requires, all, of the benefit component of the amount of child support would do either or both of the following:
     (i) place the liable person in serious hardship (as defined in section 135G(3)):
     (ii) involve an inefficient use of the Commissioner's resources.
-(2) The benefit component of an amount of child support, in subsection (1), means the proportion of that amount that is deductible under section 142 or 143 in respect of social security benefit or unsupported child’s benefit (or any lesser amount that would be deductible in lieu of that proportion under those sections).
+(2) The benefit component of an amount of child support, in subsection (1), means the proportion of that amount that is deductible under section 142 or 143 in respect of unsupported child’s benefit (or any lesser amount that would be deductible in lieu of that proportion under those sections).
 
 ### 180B Commissioner may write off child support debt if liable person has died and his or her estate is insufficient
 (1) The Commissioner may write off some or all of an amount of child support debt that is payable by the estate of a liable person to the Crown under this Act, and that is unpaid and in arrear, if—
@@ -4011,6 +3992,31 @@ The amendments to section 87A made by section 238 of the 2022 Act apply in respe
 
 ### 28 Amendment to section 152B (Offsetting child support payments)
 The amendment to section 152B made by section 241 of the 2022 Act applies to all child support years, regardless of the period in which the liability to pay financial support arose or when an amount of financial support became due and payable.
+
+### Part 7 — Provisions relating to Child Support (Pass On) Acts Amendment Act 2023
+
+### 29 Application of amendments
+(1) In this clause, amendments means the amendments made to this Act by subpart 1 of Part 1 of the Child Support (Pass On) Acts Amendment Act 2023.
+(2) The amendments apply only to child support in respect of a period (whether all, or any part, of a child support year) that starts on or after 1 July 2023.
+(3) That child support includes, but is not limited to, child support under a formula assessment or a voluntary agreement or an order of the court made or entered into before 1 July 2023.
+(4) Child support in respect of a period (whether all, or any part, of a child support year) that starts before 1 July 2023 is subject to this Act as in force at the relevant time before 1 July 2023.
+
+### 30 Election by receiving carer to discontinue proceedings
+(1) Old section 96Y(2)﻿(a) continues to apply on and after 1 July 2023 to proceedings in respect of child support that was payable—
+  (a) in respect of a particular period before that date; and
+  (b) to a receiving carer who was a social security beneficiary (as defined in old section 2(1)) during that particular period.
+(2) Subclause (1) applies whether the proceedings were or are commenced before, on, or after 1 July 2023.
+(3) In this clause, a reference to an old provision is a reference to that provision as in force immediately before 1 July 2023.
+(4) This clause does not limit the generality of clause 29(4).
+
+### 31 Social security beneficiary to be compellable witness against liable parent
+(1) Old section 122 continues to apply on and after 1 July 2023 to any proceeding under this Act to the extent that the proceeding relates to any period before that date.
+(2) Subclause (1) applies whether the proceeding was or is commenced before, on, or after 1 July 2023.
+(3) In this clause, a reference to an old provision is a reference to that provision as in force immediately before 1 July 2023.
+(4) This clause does not limit the generality of clause 29(4).
+
+### 32 Regulations for transitional and savings purposes
+Clauses 29 to 31 may be added to or displaced by transitional provisions or savings provisions prescribed by regulations made under clause 98(1) of Schedule 1 of the Social Security Act 2018.
 
 ## Schedule 2 — Care cost percentage
 
