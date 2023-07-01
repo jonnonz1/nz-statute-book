@@ -1,5 +1,5 @@
 # Corrections Act 2004
-_Consolidation as at 2022-10-20_
+_Consolidation as at 2023-07-01_
 
 ### 1 Title
 This Act is the Corrections Act 2004.
@@ -1779,7 +1779,7 @@ In this section and in sections 112 to 122, unless the context otherwise require
     (iv) the Privacy Commissioner; or
     (v) a member of the Human Rights Commission continued by section 4 of the Human Rights Act 1993, or an employee of the Commission; or
     (vi) a member of the Independent Police Conduct Authority; or
-    (vii) the Children's Commissioner; or
+    (vii) a board member of the Children and Young People’s Commission; or
     (viii) a Justice of the Peace; or
   (d) a call between a prisoner and a person acting, in his or her official capacity, on behalf of the International Criminal Court; or
   (e) a call between a prisoner and a person (other than a prisoner) who—
