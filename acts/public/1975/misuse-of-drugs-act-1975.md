@@ -1,5 +1,5 @@
 # Misuse of Drugs Act 1975
-_Consolidation as at 2023-04-05_
+_Consolidation as at 2023-07-01_
 
 > An Act to consolidate and amend the Narcotics Act 1965 and to make further provision for the prevention of misuse of drugs
 
@@ -1277,6 +1277,7 @@ Substances containing any proportion of a substance mentioned in clause 1, claus
 - **Cannabis** preparations: that is, any preparation containing any tetrahydrocannabinols, including cannabis resin (commonly known as hashish) and cannabis oil (commonly know as hash oil), produced by subjecting cannabis plant material to any kind of processing (but does not include a CBD product)
 - **N-ethyl pentylone**
 - **Ethylone**
+- **Fentanyl**
 - **JWH-018**
 - **MDMA** (2-methylamino-1-(3,4-methylenedioxyphenyl) propane)
 - **MDMB-CHMICA**
@@ -1388,7 +1389,6 @@ Substances containing any proportion of a substance mentioned in clause 1, claus
 - **Ethylmethylthiambutene** (3-ethylmethylamino-1,1-di-(2′-thienyl)-1-butene)
 - **Etonitazene** (1-diethylaminoethyl-2-para-ethoxybenzyl-5-nitrobenzimidazole)
 - **Etoxeridine** (1-[2-(2-hydroxyethoxy)ethyl]-4-phenylpiperidine-4-carboxylic acid ethyl ester)
-- **Fentanyl** (1-phenethyl-4-(N-propionylanilino)piperidine)
 - **-fluorofentanyl** p (4′-fluoro-N-1-(phenethyl-4-piperidyl) propionanilide)
 - **Furethidine** (1-(2-tetrahydrofurfuryloxyethyl)-4-phenylpiperidine-4-carboxylic acid ethyl ester)
 - **Hydrocodone** (dihydrocodeinone)
@@ -1602,6 +1602,8 @@ Substances containing any proportion of a substance mentioned in clause 1, claus
 - **Temazepam**
 - **Tetrazepam**
 - **Triazolam** .
+- **Zolpidem**
+- **Zopiclone**
 
 ### 2
 The isomers of the substances mentioned in this Part whenever the existence of such isomers is possible within the specific chemical designation.
