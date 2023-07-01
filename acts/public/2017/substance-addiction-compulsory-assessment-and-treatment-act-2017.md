@@ -1,5 +1,5 @@
 # Substance Addiction (Compulsory Assessment and Treatment) Act 2017
-_Consolidation as at 2021-10-28_
+_Consolidation as at 2023-07-01_
 
 ### 1 Title
 This Act is the Substance Addiction (Compulsory Assessment and Treatment) Act 2017.
@@ -544,7 +544,7 @@ Every patient is entitled to the company of others.
   (d) the Privacy Commissioner:
   (e) the Health and Disability Commissioner:
   (f) a Human Rights Commissioner:
-  (g) in the case of a patient who is a child or young person, the Children’s Commissioner:
+  (g) in the case of a patient who is a child or young person, a board member of the Children and Young People’s Commission:
   (h) the Director-General of Health:
   (i) the Director:
   (j) a district inspector:
