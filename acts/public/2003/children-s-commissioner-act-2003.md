@@ -1,5 +1,5 @@
 # Children's Commissioner Act 2003
-_Consolidation as at 2020-12-01_
+_Consolidation as at 2023-07-01_
 
 ### 1 Title
 This Act is the Children's Commissioner Act 2003.
