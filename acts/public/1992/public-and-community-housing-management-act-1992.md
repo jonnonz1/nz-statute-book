@@ -1,5 +1,5 @@
 # Public and Community Housing Management Act 1992
-_Consolidation as at 2022-07-01_
+_Consolidation as at 2023-07-01_
 
 > Title
 
@@ -27,9 +27,9 @@ _Consolidation as at 2022-07-01_
   - **assessable income** has the meaning given to that term by section 108
   - **authority** means the authority appointed under section 159 to perform the functions and exercise the powers of the regulatory authority under Part 10
   - **calculate** includes ascertain
-  - **calculation mechanism** ,—
-    (a) before the commencement of the regulations first made under section 114, means sections 107 to 113 and the provisions of Schedule 2; and
-    (b) after that commencement, means sections 107 to 113 and the regulations for the time being in force under section 114
+  - **calculation mechanism** means—
+    (a) sections 107 to 113; and
+    (b) the regulations for the time being in force under section 114
   - **code of conduct** ,—
     (a) in relation to information that may be required under section 80, means the code of conduct issued under section 86:
     (b) in relation to information that may be required under section 125, means the code of conduct issued under section 138
@@ -904,6 +904,19 @@ The assessable income of an applicable person is the agency's estimate of the pe
 (1) Subsection (2) applies if the agency is satisfied that—
   (a) an applicable person has directly or indirectly deprived himself or herself of any income or property; and
   (b) as a consequence of the deprivation, an income-related rent of any social housing in respect of which the person is an applicable person is (or but for this section would be) lower than it would otherwise be.
+(1A) For the purposes of this section, deprivation of income, property, or both, by an applicable person excludes that applicable person doing all or any of—
+  (a) not applying for a formula assessment of child support payable in respect of a qualifying child under the Child Support Act 1991:
+  (b) electing to end a formula assessment of child support payable in respect of a qualifying child under that Act:
+  (c) choosing not to enter into a voluntary agreement for child support in respect of a qualifying child under that Act (whether or not that voluntary agreement—
+    (i) is a voluntary agreement that, under section 48 of that Act, qualifies for acceptance by the Commissioner of Inland Revenue; and so
+    (ii) is a qualifying voluntary agreement (as defined in section 2(1) of that Act)):
+  (d) making under that Act an election to terminate liability under a qualifying voluntary agreement that, under section 48 of that Act, has been accepted by the Commissioner of Inland Revenue:
+  (e) not making, or making, any other arrangement (for example, one in respect of a qualifying child and that is not a qualifying voluntary agreement (as those terms are defined in section 2(1) of that Act)) that does or may affect whether or what child support is payable in respect of a qualifying child under that Act.
+(1B) Subsection (1A) does not apply to, and does not limit the application of section 9 (UCB beneficiaries must apply for formula assessment) of the Child Support Act 1991 to,—
+  (a) an applicant for an unsupported child’s benefit; or
+  (b) the spouse or partner of that applicant; or
+  (c) a UCB beneficiary (as defined in section 2(1) of the Child Support Act 1991); or
+  (d) the spouse or partner of that UCB beneficiary.
 (2) The agency may treat the person's assessable income as having been increased to the extent the agency thinks necessary to reflect the deprivation, or any lesser extent.
 (3) Subsection (2) overrides sections 107(1) and 113.
 (4) In this section,—
@@ -952,6 +965,29 @@ For the purposes of section 108, a person's weekly income is the person's estima
 (3) Every person who is a prospective tenant must promptly advise the agency of any change in the circumstances of the person or the person's spouse or partner likely to result in the person not or no longer—
   (a) being eligible to be allocated social housing; or
   (b) needing to be allocated, assigned, or let any particular social housing.
+
+### 115A How duty to advise satisfied for information share child support payment made to person
+How section 115(1), (2), or (3) is satisfied for payment
+(1) Section 115(1), (2), or (3) is satisfied for a change in a person’s circumstances that is an information share child support payment made to the person if the payment is disclosed to the agency under an approved information sharing agreement (as defined in section 138 of the Privacy Act 2020) between—
+  (a) the Inland Revenue Department (as the department responsible for the administration of the Child Support Act 1991); and
+  (b) the agency (as the department, departmental agency, or Crown entity responsible for the administration of provisions of this Act).
+Exception if person does not promptly advise of matter relevant to review
+(2) However, subsection (1) does not apply if—
+  (a) the agency has in some way notified the person that the payment has been disclosed to the agency under an approved information sharing agreement (see the examples given in subsection (3)); and
+  (b) the person does not promptly advise the agency of a change in the person’s circumstances that relates to the payment, and that is or may be relevant to a review under all or any of—Examples of change in circumstances that relates to paymentExamples of a change in the person’s circumstances that relates to the payment include that—the person did not receive all or any of the payment:the payment as received by the person is of a smaller amount than the amount of the payment as disclosed to the agency under an approved information sharing agreement:the person has been incorrectly identified as the proper recipient of the payment.
+    (i) section 116 (reviews of income-related rents):
+    (ii) section 117 (agency may review housing eligibility):
+    (iii) section 118 (agency may review housing needs of tenant).
+Examples of agency notifying person that payment disclosed to agency
+(3) For the purposes of subsection (2)﻿(a), examples of the agency in some way notifying the person that the payment has been disclosed to the agency under an approved information sharing agreement include the agency notifying the person—
+  (a) that information share child support payments are, or will be, disclosed to the agency under an approved information sharing agreement; or
+  (b) that 1 or more particular information share child support payments disclosed to the agency under an approved information sharing agreement are or may be relevant to—
+    (i) a review proposed to be conducted under all or any of sections 116 to 118; or
+    (ii) any outcome (for example, any proposed outcome) of a review conducted under all or any of sections 116 to 118.
+Meaning of information share child support payment
+(4) In this section, information share child support payment—
+  (a) has the same meaning as in Schedule 2 of the Social Security Act 2018; and therefore
+  (b) excludes a general provisions child support payment (as that term is defined in Schedule 2 of the Social Security Act 2018).
 
 ### 116 Reviews of income-related rents
 (1) The agency may at any time, of its own motion or on application by a tenant of the social housing concerned, review any income-related rent to ascertain—
@@ -1791,71 +1827,46 @@ If regulations under section 187(1)﻿(a) establish a body to dispose of appeals
 **Prescribed proportions, thresholds, and amounts**
 
 ### 1 Proportion of income up to threshold
-The proportion of 25% is prescribed for the purposes of section 107(2)﻿(a).
+[Repealed]
 
 ### 2 Thresholds
-The following thresholds are prescribed for the purposes of paragraphs (a) and (b) of section 107(2):
-  (a) in the case of a sole tenant who has no spouse or partner and no dependent children (as defined in Schedule 2 of the Social Security Act 2018), is the rate stated in clause 1(a) of Schedule 1 of the New Zealand Superannuation and Retirement Income Act 2001, after deduction of standard tax; and
-  (b) in every other case, is the rate stated in clause 1(c) of Schedule 1 of the New Zealand Superannuation and Retirement Income Act 2001, after deduction of standard tax, multiplied by 2.
+[Repealed]
 
 ### 3 Proportion of income above threshold
-The proportion of 50% is prescribed for the purposes of section 107(2)﻿(b).
+[Repealed]
 
 ### 4 Proportion of family tax credit
-The proportion of 25% is prescribed for the purposes of sections 107(2)﻿(c) and 107(3)﻿(b).
+[Repealed]
 
 ### 5 Prescribed amount of family tax credit
-The maximum rate of family tax credit payable under subparts MA to MF and MZ of the Income Tax Act 2007 in respect of an eldest dependent child who is under 16 is prescribed for the purposes of sections 107(2)﻿(c)﻿(ii) and 107(3)﻿(b)﻿(ii).
+[Repealed]
 
 ### 6 Proportion of benefit
-The proportion of 25% is prescribed for the purposes of section 107(3)﻿(a).
+[Repealed]
 
 **Contributions by additional residents**
 
 ### 7 Application
-This clause applies to social housing if, and only if, in the agency's opinion, the applicable persons' principal source of income is contributions from additional residents.
+[Repealed]
 
 ### 8 Extent to which contributions included in income
-For the purposes of section 109(2),—
-  (a) if clause 7 applies to social housing, the weekly income of the applicable persons includes all contributions from additional residents:
-  (b) if clause 7 does not apply to social housing and the applicable persons receive contributions from fewer than 3 additional residents, their weekly income does not include any contributions from additional residents:
-  (c) if clause 7 does not apply to social housing and the applicable persons receive contributions from 3 or more additional residents, their weekly income—
-    (i) does not include any contributions from the 2 additional residents making the greatest contributions; and
-    (ii) includes only 62% of the sum of the contributions from the other additional resident or residents.
+[Repealed]
 
 **Payments included in or excluded from income**
 
 ### 9 Certain payments to be income
-For the purposes of section 110(1)﻿(a), a person's weekly income includes—
-  (a) the appropriate weekly proportion of every amount or payment received as—
-    (ia) a specified benefit (as defined in section 198(3) of the Social Security Act 2018) other than an orphan’s benefit or an unsupported child’s benefit; or
-    (i) an income-tested benefit (within the meaning of section 3(1) of the Social Security Act 1964) other than an orphan's benefit or an unsupported child's benefit; or
-    (ii) New Zealand superannuation under the New Zealand Superannuation and Retirement Income Act 2001 or a veteran's pension under Part 6 of the Veterans' Support Act 2014; or
-    (iii) a study grant; and
-  (b) amounts received from Accident Compensation Corporation or an insurer under the Accident Compensation Act 2001 as weekly compensation for loss of earnings or potential earning capacity; and
-  (c) any minimum family tax credit the person is eligible for under subparts MA to MF and MZ of the Income Tax Act 2007.
+[Repealed]
 
 ### 10 Certain payments not to be income
-For the purposes of section 110(1)﻿(b), a person's weekly income does not include—
-  (a) an amount or payment—
-    (i) received as a benefit, allowance, or other payment under the Social Security Act 2018 not referred to in clause 9(a); or
-    (ii) received as a parental tax credit, child tax credit, in-work tax credit, or Best Start tax credit under subparts MA to MG and MZ of the Income Tax Act 2007; or
-    (iii) of a kind stated in any of clauses 8(b) to (j) and 9 of Schedule 3, and regulations made under section 422, of the Social Security Act 2018; or
-  (b) in the case of a person with a disability, the value of any regular disability support services supplied to the person; or
-  (c) the value of any regular disability support services supplied to any dependent child of the person who—
-    (i) is residing in the social housing concerned; and
-    (ii) is a person with a disability.
+[Repealed]
 
 ### 11 Assessable assets
-(1) For the purposes of section 111(2), assessable assets,—
-  (a) in the case of a person with a spouse or partner or a single person with a dependent child or children, means any cash assets (as defined in section 68 of the Social Security Act 2018) in excess of $5,400:
-  (b) in any other case, means any cash assets (as defined in section 68 of the Social Security Act 2018) in excess of $2,700.
-(2) If, on or after the date this subclause comes into force, a person receives an impairment lump sum under Schedule 1 of the Accident Compensation Act 2001 or a lump sum payment of an independence allowance under Part 13 or Part 4 of Schedule 1 of the Accident Insurance Act 1998, then for the period of 12 months following the receipt of that lump sum payment, the applicable amount in subclause (1)﻿(a) or (b) is considered to be increased by the amount of that payment.
+[Repealed]
 
 **Period for estimating income**
 
 ### 12 Period for estimating income
-The period of 52 weeks is prescribed for the purposes of section 113.
+[Repealed]
 
 ## Schedule 3 — Transitional matters relating to certain Kāinga Ora–Homes and Communities tenants
 
@@ -2073,6 +2084,19 @@ No claim for breach of contract lies against HNZ, the Corporation, the agency, o
 
 ### 21 References to Housing Restructuring and Tenancy Matters Act 1992
 Every reference in any enactment and in any document to the Housing Restructuring and Tenancy Matters Act 1992 must, unless the context otherwise provides, be read as a reference to the Public and Community Housing Management Act 1992.
+
+### Part 5 — Provisions relating to Child Support (Pass On) Acts Amendment Act 2023
+
+### 22 Application of amendments
+(1) In this clause,—
+  - **amendments** means the amendments made to this Act by subpart 3 of Part 2 of the Child Support (Pass On) Acts Amendment Act 2023
+  - **child support** , , and have the meanings in section 2(1) of the Child Support Act 1991.
+(2) The amendments apply only to income based on child support in respect of a period (whether all, or any part, of a child support year) that starts on or after 1 July 2023.
+(3) The child support referred to in subclause (2) includes, but is not limited to, child support under a formula assessment or a voluntary agreement or an order of a court made or entered into before 1 July 2023.
+(4) Child support in respect of a period (whether all, or any part, of a child support year) that starts before 1 July 2023 is subject to this Act as in force at the relevant time before 1 July 2023.
+
+### 23 Regulations for transitional and savings purposes
+Clause 22 may be added to or displaced by transitional provisions or savings provisions prescribed by regulations made under clause 98(1) of Schedule 1 of the Social Security Act 2018.
 
 ### 1 Title
 This order may be cited as the Housing New Zealand Limited Vesting Order 1993.
