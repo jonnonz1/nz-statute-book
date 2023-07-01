@@ -1,5 +1,5 @@
 # Human Assisted Reproductive Technology Act 2004
-_Consolidation as at 2023-06-15_
+_Consolidation as at 2023-07-01_
 
 ### 1 Title
 This Act is the Human Assisted Reproductive Technology Act 2004.
@@ -431,7 +431,7 @@ The Minister must establish a committee to be known as the Advisory Committee on
   (e) 1 or more members with the ability to articulate issues from a consumer perspective; and
   (f) 1 or more members with expertise in relevant areas of the law; and
   (g) 1 or more members with the ability to articulate the interests of children.
-(5) Any person appointed by virtue of subsection (4)﻿(g) must at the time of his or her appointment hold the office of Children's Commissioner or be a representative or employee of the person who holds that office.
+(5) Any person appointed by virtue of subsection (4)﻿(g) must at the time of his or her appointment be a board member, representative, or employee of the Children and Young People’s Commission.
 (6) At least half the members of the advisory committee must be laypersons.
 (7) For the purposes of subsection (6), a layperson is a person who, at no time during the person's membership of the advisory committee or in the 3 years before becoming a member of the committee,—
   (a) is a health practitioner within the meaning of the Health Practitioners Competence Assurance Act 2003; or
