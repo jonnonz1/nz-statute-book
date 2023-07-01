@@ -1,5 +1,5 @@
 # Ombudsmen Act 1975
-_Consolidation as at 2023-05-01_
+_Consolidation as at 2023-07-01_
 
 > An Act to consolidate and amend the Parliamentary Commissioner (Ombudsman) Act 1962
 
@@ -370,6 +370,6 @@ Despite the enactment of the Amendment Act, the entity known as Insurance & Fina
 | Climate Change Chief Executives Board | Ministry for the Environment |
 | Digital Executive Board | Department of Internal Affairs |
 | Executive Board for the Elimination of Family Violence and Sexual Violence | Ministry of Justice |
-| Strategic Planning Reform Board | Ministry for the Environment |
+| Spatial Planning Board | Ministry for the Environment |
 
 ## Schedule 2 — Enactments repealed
