@@ -1,8 +1,8 @@
 # Greater Christchurch Regeneration Act 2016
-_Consolidation as at 2022-07-01_
+_Consolidation as at 2023-07-01_
 
 ### 1 Title
-This Act is the Greater Christchurch Regeneration Act 2016.
+[Repealed]
 
 ### 2 Commencement
 [Repealed]
@@ -10,72 +10,31 @@ This Act is the Greater Christchurch Regeneration Act 2016.
 ## Part 1 — Preliminary provisions
 
 ### 3 Purposes
-(1) This Act supports the regeneration of greater Christchurch through the following purposes:
-  (a) enabling a focused and expedited regeneration process:
-  (b) facilitating the ongoing planning and regeneration of greater Christchurch:
-  (c)
-  (d)
-  (e) enabling the Crown to efficiently and effectively manage, hold, and dispose of land acquired by the Crown under the Canterbury Earthquake Recovery Act 2011 or this Act.
-(2) In this Act,—
-  - **regeneration** means—
-    (a) rebuilding, in response to the Canterbury earthquakes or otherwise, including—
-      (i) extending, repairing, improving, subdividing, or converting land:
-      (ii) extending, repairing, improving, converting, or removing infrastructure, buildings, and other property:
-    (b) improving the environmental, economic, social, and cultural well-being, and the resilience, of communities through—
-      (i) urban renewal and development:
-      (ii) restoration and enhancement (including residual recovery activity)
-  - **urban renewal** means the revitalisation or improvement of an urban area, and includes—
-    (a) rebuilding:
-    (b) the provision and enhancement of community facilities and public open space.
+[Repealed]
 
 ### 4 Interpretation
-In this Act, unless the context otherwise requires,—
-  - **agreement** includes any contract, arrangement, or understanding
-  - **chief executive** , in relation to a provision of this Act, means the chief executive of the department of State that, with the authority of the Prime Minister, is responsible for the administration of that provision
-  - **Christchurch central city** means the area bounded by Bealey Avenue, Fitzgerald Avenue, Moorhouse Avenue, Deans Avenue, and Harper Avenue
-  - **council** means Canterbury Regional Council, Christchurch City Council, Selwyn District Council, or Waimakariri District Council
-  - **council organisation** has the same meaning as in section 6 of the Local Government Act 2002
-  - **enactment** has the same meaning as in section 13 of the Legislation Act 2019 and includes any plan, programme, bylaw, or rule made under any Act
-  - **greater Christchurch** means the area described in clause 1 of Schedule 2
-  - **land** includes an interest in land
-  - **Minister** means, in relation to any provision of this Act, the Minister of the Crown who, with the authority of the Prime Minister, is for the time being responsible for the administration of that provision
-  - **regeneration** has the meaning given to it in section 3(2)
-  - **requiring authority** has the same meaning as in section 2(1) of the Resource Management Act 1991
-  - **urban renewal** has the meaning given to it in section 3(2)
-  - **working day** means a day of the week other than—
-  (a) a Saturday, a Sunday, Waitangi Day, Good Friday, Easter Monday, Anzac Day, the Sovereign’s birthday, Te Rā Aro ki a Matariki/Matariki Observance Day, and Labour Day; and
-  (b) the day the anniversary of Canterbury is observed in greater Christchurch; and
-  (c) if Waitangi Day or Anzac Day falls on a Saturday or a Sunday, the following Monday; and
-  (d) a day in the period commencing on 20 December in any year and ending with 10 January in the following year.
+[Repealed]
 
 ### 5 Transitional, savings, and related provisions
-The transitional, savings, and related provisions (if any) set out in Schedule 1 have effect according to their terms.
+[Repealed]
 
 ### 6 Act binds the Crown
-This Act binds the Crown.
+[Repealed]
 
 ### 7 Application of Ngāi Tahu Claims Settlement Act 1998
-(1) Nothing in this Act affects the operation of the Ngāi Tahu Claims Settlement Act 1998.
-(2) To avoid doubt, if a Minister or, as the case may be, a chief executive wishes to exercise his or her power under this Act to dispose of land or to amalgamate land to which the Ngāi Tahu Claims Settlement Act 1998 applies, he or she must do so in accordance with the Ngāi Tahu Claims Settlement Act 1998.
-(3) For the purpose of the Ngāi Tahu Claims Settlement Act 1998, an amalgamation of land under this Act is a disposition of land.
+[Repealed]
 
 ### 8 Geographical application of Act
-(1)
-(2) Between 1 July 2021 and the repeal date determined under section 151(3), the provisions listed in that subsection apply only in respect of land in the Ōtākaro Avon River Corridor.
-(3)
+[Repealed]
 
 ### 9 Effect of Plans on exercise of powers under Act
 [Repealed]
 
 ### 10 Effect of Act on other powers
-If powers are available under this Act to a Minister or a chief executive,—
-  (a) the Minister or chief executive, as the case may be, may, in his or her complete discretion, elect to use any other power available to the Minister or chief executive, whether under any other enactment or otherwise; and
-  (b) nothing in this Act applies to the exercise of that other power.
+[Repealed]
 
 ### 11 Conditions applying to exercise of powers by Minister or chief executive
-(1) A Minister or a chief executive must ensure that, when he or she exercises or claims his or her powers, rights, and privileges under this Act, he or she does so in accordance with 1 or more of the purposes of the Act.
-(2) A Minister or a chief executive may exercise or claim a power, right, or privilege under this Act where he or she reasonably considers it necessary.
-(3) This section is subject to sections 91, 92, 93, 94, and 107.
+[Repealed]
 
 ## Part 2 — Functions, powers, and processes relating to regeneration of greater Christchurch
 
@@ -291,17 +250,10 @@ If powers are available under this Act to a Minister or a chief executive,—
 [Repealed]
 
 ### 75 New surveys
-(1) This section applies if there is a legal requirement to notify any adjoining owners that a cadastral survey dataset is to be deposited under the Land Transfer Act 2017.
-(2) The chief executive may direct the Registrar-General of Land to seek the consent of the adjoining owners to the new survey definition.
-(3) If the adjoining owners give their consent, the Registrar-General of Land may deposit the cadastral survey dataset and issue new records of title accordingly.
-(4) If an adjoining owner fails to respond within 10 working days (or any further period allowed by the chief executive) after the date of service of the request for consent or refuses to consent, the chief executive may direct the Registrar-General of Land, upon deposit of the cadastral survey dataset, to issue a record of title qualified as described in section 17(1)﻿(a) of the Land Transfer Act 2017.
-(5) The chief executive may direct the Registrar-General of Land to disapply the application of section 207 of the Land Transfer Act 2017 in respect of any qualified record of title issued in accordance with subsection (4), and the Registrar-General of Land must remove the qualification as to title.
-(6) Subsection (5) is subject to any relevant determination by a court under subpart 4.
-(7)
+[Repealed]
 
 ### 76 Disputes
-(1) If an adjoining owner wishes to dispute a survey definition determined under section 75, the dispute must be heard and determined in accordance with section 119 and treated as an appeal against a direction under section 75(5).
-(2) Any dispute against the lodgement of a caveat under section 207 of the Land Transfer Act 2017 against a qualified record of title issued in accordance with a direction under section 75(4) must be heard and determined in accordance with section 119 and treated as an appeal.
+[Repealed]
 
 **Building works, etc**
 
@@ -338,16 +290,7 @@ If powers are available under this Act to a Minister or a chief executive,—
 [Repealed]
 
 ### 87 Prohibiting and restricting public access, closing and stopping roads, etc
-(1)
-(2)
-(3) The chief executive may, by giving notice in the Gazette and in a newspaper circulating in greater Christchurch, stop any road or part of a road in greater Christchurch.
-(4) The stopping of a road under subsection (3) has effect as if the road had been stopped in accordance with section 342 and Schedule 10 of the Local Government Act 1974 and as if the chief executive were a council within the meaning of that section.
-(5) The chief executive must consult the relevant road controlling authority—
-  (a) before stopping a road or part of a road under this section:
-  (b) if practicable, before exercising any other power under this section in relation to a road.
-(6) To avoid doubt,—
-  (a) there is no right of appeal or objection against a decision made under subsection (3):
-  (b) nothing in section 345 of the Local Government Act 1974 applies to the disposal of land resulting from a stopping of a road under this section.
+[Repealed]
 
 ### 88 Offences relating to access and roads
 [Repealed]
@@ -363,76 +306,39 @@ If powers are available under this Act to a Minister or a chief executive,—
 **Acquisition and other dealing with property**
 
 ### 91 Acquisition and other dealing with property
-(1) The chief executive may, in the name of the Crown,—
-  (a) purchase or otherwise acquire land:
-  (b) hold, mortgage, and lease land acquired by the Crown under this Act or under the Canterbury Earthquake Recovery Act 2011.
-(2) The Minister’s approval is required for the following actions of the chief executive under subsection (1):
-  (a) the purchase or other acquisition of land:
-  (b) the granting of a lease of land that, including rights of renewal, is or could be for a term of 2 years or more.
-(3) Nothing in section 11 applies to the exercise of a power under this section.
+[Repealed]
 
 **Other dealing with land**
 
 ### 92 Declarations by Minister concerning land
-(1) The Minister may, by notice in the Gazette, declare land acquired by the Crown under this Act or under the Canterbury Earthquake Recovery Act 2011 to be set apart for a public work in terms of the Public Works Act 1981.
-(2) The Minister may, by notice in the Gazette, declare land acquired by the Crown under this Act or under the Canterbury Earthquake Recovery Act 2011 to be land subject to the Land Act 1948 and not this Act.
-(3) A declaration under subsection (2) is subject to the chief executive confirming that any requirements under sections 107 to 109 to offer the land back that would apply if the land was to be disposed of have been complied with.
-(4) The Minister may, by notice in the Gazette, declare land held for a public work in terms of the Public Works Act 1981 (whether held by the Crown or otherwise) to be held under this Act.
-(5) Nothing in section 11 applies to the exercise of powers under this section.
+[Repealed]
 
 ### 93 Subdividing land, etc
-(1) The chief executive may subdivide, resubdivide, improve, and develop all or any land acquired by the Crown under this Act (including land amalgamated under section 94) or under the Canterbury Earthquake Recovery Act 2011.
-(2) Nothing in section 11 or Part 10 of the Resource Management Act 1991 applies to any subdivision under this section.
-(3) Nothing in section 11 applies to the exercise of powers under this section.
+[Repealed]
 
 ### 94 Amalgamation of land
-(1) The Minister may, in accordance with sections 95 to 101, amalgamate all or any land acquired by the Crown under this Act or the Canterbury Earthquake Recovery Act 2011 with all or any land described in subsection (2).
-(2) The land referred to in subsection (1) is—
-  (a) land owned by the Crown:
-  (b) land owned by a council, if the council has consented to the vesting of the land in the Crown.
-(3) Nothing in section 11 applies to the amalgamation of land under this section.
-(4) Nothing in the Resource Management Act 1991 applies to any amalgamation under this section.
+[Repealed]
 
 ### 95 Minister must consult Minister of Conservation in certain cases
-The Minister must, before publishing a notice under section 96, consult the Minister of Conservation if any piece of land that the Minister intends to be amalgamated is subject to the Reserves Act 1977 or is a conservation area (as defined in section 2(1) of the Conservation Act 1987) and the Minister intends that the reserve or conservation status of that land will be extinguished by the amalgamation.
+[Repealed]
 
 ### 96 Notice of intention to vest land in the Crown
-If the Minister intends to amalgamate land as described in section 94 and 1 or more pieces of land to be amalgamated are owned by a council, the Minister must publish a notice in the Gazette containing the following:
-  (a) a description of each piece of land to be vested in the Crown; and
-  (b) either,—
-    (i) in relation to each piece of land, details of any estate or interest in the land, or any status, restriction, charge, or any other encumbrance that applies to the land, that is intended to be extinguished by the amalgamation; or
-    (ii) a statement that any estate or interest in, or any status, restriction, charge, or any other encumbrance that applies to, any piece of land to be vested will be extinguished when the land vests in the Crown; and
-  (c) the name of the current owner of each piece of land; and
-  (d) the date on which the vesting will take effect.
+[Repealed]
 
 ### 97 Effect of notice of intention to vest land in the Crown
-On the date specified in the Gazette notice under section 96,—
-  (a) the land specified in the notice is vested in fee simple in the Crown; and
-  (b) each estate, interest, status, restriction, charge, or any other encumbrance referred to in the notice in accordance with section 96(b)﻿(i) or (ii) is extinguished.
+[Repealed]
 
 ### 98 Notice of intention to amalgamate land
-If the Minister intends to amalgamate land as described in section 94, the Minister must publish a notice in the Gazette containing the following:
-  (a) a description of each piece of land to be amalgamated; and
-  (b) either,—
-    (i) in relation to each piece of land, details of any estate or interest in the land, or any status, restriction, charge, or any other encumbrance that applies to the land, that is intended to be extinguished by the amalgamation; or
-    (ii) a statement that any estate or interest in, or any status, restriction, charge, or any other encumbrance that applies to, any piece of land to be vested will be extinguished when the land vests in the Crown; and
-  (c) the date on which the amalgamation will take effect.
+[Repealed]
 
 ### 99 Effect of notice of intention to amalgamate land
-On the date specified in the Gazette notice under section 98,—
-  (a) the land specified in the notice is amalgamated; and
-  (b) each estate, interest, status, restriction, charge, or any other encumbrance referred to in the notice in accordance with section 98(b)﻿(i) or (ii) is extinguished.
+[Repealed]
 
 ### 100 Minister may publish vesting notice and amalgamation notice together
-The Minister may publish the information required by sections 96 and 98 relating to the same piece of land in a single Gazette notice.
+[Repealed]
 
 ### 101 Notice to be registered
-(1) The Minister may lodge a Gazette notice under section 96 or 98 with the Registrar-General of Land, who must register it without fee against the appropriate record of title or records of title.
-(2) The Registrar-General of Land may require the deposit of a survey plan of any piece of land being amalgamated.
-(3) The Registrar-General of Land may do all things that may be necessary to give effect to the notice, including—
-  (a) cancelling any record of title:
-  (b) issuing 1 or more records of title:
-  (c) removing any estate, interest, status, restriction, charge, or other encumbrance.
+[Repealed]
 
 **Compulsory acquisition of land**
 
@@ -454,34 +360,13 @@ The Minister may publish the information required by sections 96 and 98 relating
 **Disposal of land**
 
 ### 107 Disposal of land
-(1) Subject to the Minister’s approval, the chief executive may, if he or she thinks fit, in accordance with sections 108 and 109 if applicable, dispose of land held by the Crown under this Act or under the Canterbury Earthquake Recovery Act 2011.
-(2)
-(3) To avoid doubt, except as provided in sections 108 and 109, nothing in sections 40 to 42 of the Public Works Act 1981 applies to the disposal of the land.
-(4) Nothing in section 11 applies to the disposal of land to which this section applies.
-(5) This section and sections 108 and 109 are subject to section 7(2).
-(6) In this section and sections 108 and 109, the granting of a lease of land that, including rights of renewal, is or could be for a term of more than 35 years is a disposal of the land.
+[Repealed]
 
 ### 108 Certain land to be disposed of under section 107 subject to offer back provisions in Public Works Act 1981
-Any requirements to offer land back under the Public Works Act 1981 continue to apply to land to which section 107 applies if the land—
-  (a) was declared in accordance with section 92(4) to be land held under this Act; or
-  (b) was declared under section 53(5) of the Canterbury Earthquake Recovery Act 2011 to be land held under that Act.
+[Repealed]
 
 ### 109 Certain compulsorily acquired land to be disposed of under section 107 must be offered back
-(1) This section applies if land to which section 107 applies—
-  (a) is land in greater Christchurch outside the Christchurch central city, or residential land in the Christchurch central city, that was compulsorily acquired under section 104; and
-  (b) has not been used for the purpose for which it was acquired or for any other purpose under this Act; and
-  (c) was not compulsorily acquired for the purpose of disposal or for purposes that included disposal.
-(2) Before disposing of the land, the chief executive must offer to sell the land by private contract to the person from whom it was acquired or that person's successor—
-  (a) at the current market value of the land as determined by a valuation carried out by a registered valuer; or
-  (b) if the chief executive considers it reasonable to do so, at any lesser price.
-(3) Subsection (2) does not apply if—
-  (a) the chief executive considers that—
-    (i) to offer the land back would be impracticable, unreasonable, or unfair; or
-    (ii) there has been a significant change in the character of the land in connection with the purpose for which it was acquired; or
-  (b) the land is to be set apart for a public work under section 92(1).
-(4) Section 40(2A), (4), and (5) of the Public Works Act 1981 applies with all necessary modifications to an offer back under this section.
-(5) If any offer to sell land under subsection (2) has not been accepted within 20 working days of the receipt of the offer, this section ceases to apply and the land may be disposed of under section 107.
-(6) To avoid doubt, the disposal of land in the Christchurch central city other than residential land is not subject to this section or sections 40 to 42 of the Public Works Act 1981.
+[Repealed]
 
 ### Subpart 3 — Compensation under this Act
 
@@ -512,32 +397,13 @@ Any requirements to offer land back under the Public Works Act 1981 continue to 
 ### Subpart 4 — Appeal rights
 
 ### 118 Appeal
-(1) There is no right of appeal against a decision of the Minister or the chief executive acting, or purporting to act, under this Act, except as provided in sections 119 and 120.
-(2) A proceeding must not be brought, and a court must not hear any proceeding, that is in breach of this section.
-(3) To avoid doubt, there is no right of appeal, whether under this Act or the Resource Management Act 1991, against any decision under section 93 or 94.
+[Repealed]
 
 ### 119 Exceptions to exclusion of appeals
-(1) Any person referred to in subsection (2) may appeal to the High Court—
-  (a)
-  (b)
-  (c) in respect of any dispute referred to in section 76.
-  (d)
-  (e)
-(2) The persons who may appeal under subsection (1) are,—
-  (a)
-  (b)
-  (c) in the case of an appeal under subsection (1)﻿(c), any adjoining owner who disputes the survey concerned or the lodgement of the caveat.
-  (d)
-  (e)
-(3) For the purposes of hearing an appeal under subsection (1), the court may appoint 1 or more suitably qualified persons (including an Environment Commissioner or other expert) to assist it by giving advice if the court considers that it is desirable to have expert assistance.
-(4) The advisers must give their advice in the manner that the court may direct during the proceeding on any question referred to them.
-(5) The advice is information provided to the court, and may be given the weight that the court thinks fit.
-(6) Any decision to which an appeal relates has full effect unless and until set aside by a court.
+[Repealed]
 
 ### 120 Appeal from High Court and in some cases from Court of Appeal
-(1) An appeal to the Court of Appeal may, with the leave of that court, be brought against a decision of the High Court in a case referred to in section 119 on a question of law or on any other question.
-(2) The decision of the Court of Appeal is final.
-(3)
+[Repealed]
 
 ### Subpart 5 — Regenerate Christchurch
 
@@ -626,15 +492,7 @@ Any requirements to offer land back under the Public Works Act 1981 continue to 
 ### Subpart 7 — Miscellaneous provisions
 
 ### 145 Protection from liability
-(1) Except as otherwise provided in this Act, no action lies against the Crown, or an officer or employee or a Minister of the Crown, or against any other person,—
-  (a) to recover any damages or other amount for any loss, damage, or adverse effect that is due directly or indirectly to any action taken under this Act; or
-  (b) to require any work to be carried out or other action to be taken in order to remedy or mitigate any loss, damage, or adverse effect that results directly or indirectly from any action taken under this Act.
-(2) No person who takes any action under this Act is liable under the Resource Management Act 1991 for any fine, costs, or expenses in respect of that action, except as otherwise provided in this Act.
-(3) Subsection (1) applies whether the loss, damage, or adverse effect is caused by any person taking any action or failing to take any action, so long as the act or omission occurred in the exercise or performance, or intended exercise or intended performance, of his or her functions, duties, or powers under this Act.
-(4) No person is exempted from liability under subsection (1) for any act or omission to act that constitutes bad faith or gross negligence on the part of that person.
-(5) If, under this Act, the Minister or the chief executive becomes a party to any agreement entered into by a council for the purposes of carrying out demolition or other works, the Minister or chief executive is entitled to the full benefit of any provision in the agreement that limits or excludes any liability of the council (such as liability for damage caused by, or for the costs of, demolition work) under the agreement.
-(6) If a council assumes any liability of the Minister or chief executive in relation to demolition or other works under this Act, the council is entitled to the full benefit of any provision in an agreement that limits or excludes any liability of the Minister or the chief executive (such as liability for damage caused by, or for the costs of, demolition work) under the agreement.
-(7) In this section, references to this Act include Orders in Council made under or continued by this Act.
+[Repealed]
 
 **Repeal of Canterbury Earthquake Recovery Act 2011 and related matters**
 
@@ -658,13 +516,7 @@ Any requirements to offer land back under the Public Works Act 1981 continue to 
 **Repeal, amendments, and revocations**
 
 ### 151 Repeal of this Act and revocations
-(1) This Act, except for the provisions listed in subsections (2) and (3), is repealed on the close of 30 June 2021.
-(2) Subpart 6 of Part 2 is repealed on the close of 30 June 2022.
-(3) This section and sections 1, 3 to 7, 8(2), 10, 11, 75, 76, 87(3), (4), (5), and (6), 91 to 101, 107 to 109, 118, 119, 120, and 145 and the cross-headings above sections 91, 92, and 107 are repealed at the earlier of—
-  (a) the close of 30 June 2023; and
-  (b) a date set by Order in Council, made by the Governor-General on the recommendation of the Minister.
-(4) At the close of 30 June 2021, every Order in Council continued by section 147 that is in force is revoked.
-(5) An order under subsection (3)﻿(b) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+[Repealed]
 
 ### 152 Consequential amendments and revocation
 [Repealed]
