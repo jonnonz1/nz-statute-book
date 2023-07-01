@@ -1,5 +1,5 @@
 # Accident Compensation Act 2001
-_Consolidation as at 2023-06-07_
+_Consolidation as at 2023-07-01_
 
 ### 1 Title
 This Act is the Accident Compensation Act 2001.
@@ -2812,7 +2812,7 @@ If any person (with the consent of the Commissioner) changes the date of the ann
 (2) The liability to pay the penalty is in addition to the liability to repay the overpayment.
 
 ### 250 Penalties and interest due to Corporation in respect of unpaid levies
-(1) This section applies if any levy payable under this Act or any former Act is unpaid on the day that is 30 days after the date on which payment is due.
+(1) This section applies if any levy payable under this Act or any former Act is unpaid on the day after the date on which payment is due.
 (2) The due date for payment may not be less than 30 days after the date of the notice advising that the levy is payable.
 (3) A person who owes such a levy to the Corporation is liable to pay to the Corporation interest assessed at the rate and applied by the method (if any) prescribed by regulations made under this Act, which is payable on—
   (a) any unpaid levy; and
