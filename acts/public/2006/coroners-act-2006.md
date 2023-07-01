@@ -1,5 +1,5 @@
 # Coroners Act 2006
-_Consolidation as at 2023-06-15_
+_Consolidation as at 2023-07-01_
 
 ### 1 Title
 This Act is the Coroners Act 2006.
@@ -150,7 +150,7 @@ In this Act, unless the context otherwise requires,—
     (a) means the land and the waters enclosed by the outer limits of the territorial sea of New Zealand (as described in section 3 of the Territorial Sea, Contiguous Zone, and Exclusive Economic Zone Act 1977); and
     (b) includes the Ross Dependency
   - **other investigating authority** , in relation to a death, means an authority (other than a coroner) permitted or required by law to investigate the death; and includes, without limitation, any of the following authorities:
-    (a) the Commissioner as defined in section 4(1) of the Children's Commissioner Act 2003:
+    (a)
     (b) the Civil Aviation Authority of New Zealand established by section 72A of the Civil Aviation Act 1990:
     (c) the Corporation as defined in section 39 of the Accident Compensation Act 2001:
     (d) the Director or a Deputy Director or a district inspector as defined in section 2(1) of the Mental Health (Compulsory Assessment and Treatment) Act 1992:
