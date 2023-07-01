@@ -1,5 +1,5 @@
 # Crimes of Torture Act 1989
-_Consolidation as at 2018-02-21_
+_Consolidation as at 2023-07-01_
 
 > Title
 
@@ -17,7 +17,7 @@ This Act may be cited as the Crimes of Torture Act 1989.
   - **the Convention** means the Convention Against Torture and Other Cruel, Inhuman, or Degrading Treatment or Punishment, adopted by the General Assembly of the United Nations on 10 December 1984, a copy of the English text of which is set out in Schedule 1
   - **New Zealand** includes all waters within the outer limits of the territorial sea of New Zealand (as defined by section 3 of the Territorial Sea, Contiguous Zone, and Exclusive Economic Zone Act 1977)
   - **public official** means—
-    (a) any person in the service of Her Majesty in right of New Zealand, including—
+    (a) any person in the service of the Sovereign in right of New Zealand, including—
       (i) a member of any of the Armed Forces of New Zealand; and
       (ii) a judicial officer and a law enforcement officer within the meaning of Part 6 of the Crimes Act 1961; and
       (iii) an officer within the meaning of the Corrections Act 2004; and
@@ -103,7 +103,7 @@ In this Part, unless the context otherwise requires,—
   - **National Preventive Mechanism** means 1 or more of the following that may, for the time being, be designated under section 26 as a National Preventive Mechanism:
     (a) an Ombudsman holding office under the Ombudsmen Act 1975:
     (b) the Independent Police Conduct Authority:
-    (c) the Children's Commissioner:
+    (c) the Children and Young People’s Commission:
     (d) the Registrar of the Court Martial of New Zealand appointed under section 79 of the Court Martial Act 2007:
     (e) any other person, body or agency that is designated a National Preventive Mechanism
   - **Optional Protocol** means the Optional Protocol to the Convention against Torture and Other Cruel, Inhuman or Degrading Treatment or Punishment, adopted by the General Assembly of the United Nations on 18 December 2002, a copy of the English text of which is set out in Schedule 2
