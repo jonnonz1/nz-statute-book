@@ -1,5 +1,5 @@
 # Energy (Fuels, Levies, and References) Act 1989
-_Consolidation as at 2021-10-28_
+_Consolidation as at 2023-07-01_
 
 > Title
 
@@ -97,6 +97,7 @@ Any consent, licence, permit, approval, or remission, given or granted by the Mi
   (ba) compliance by the Crown with New Zealand’s obligation, under Article 2 of the International Energy Agreement, to maintain the emergency reserve commitment set out in that Article; and
   (c) the recovery of those levies.
 (2A) Despite subsections (1) and (2), levies recovered under sections 23 and 24 may be applied for the purpose of meeting a portion of the costs of the EECA, in performing its functions and exercising its powers and duties under the Energy Efficiency and Conservation Act 2000, where the size of the portion to be met by each levy under this Act is determined by the Minister.
+(2B) Levies recovered under section 24 may also be applied for the purpose of meeting the reasonable costs and expenses of the Crown in promoting resilience of engine fuel supplies in New Zealand.
 (3) Levies recovered under section 24 may be applied for the purpose of meeting the reasonable costs and expenses incurred by the Crown for the purpose set out in subsection (2)﻿(ba) on and from 1 July 2013, even though subsection (2)﻿(ba) commences after that date.
 (4) In this section, International Energy Agreement has the meaning given in section 2 of the International Energy Agreement Act 1976.
 
