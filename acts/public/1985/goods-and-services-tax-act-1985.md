@@ -1,5 +1,5 @@
 # Goods and Services Tax Act 1985
-_Consolidation as at 2023-04-01_
+_Consolidation as at 2023-07-01_
 
 > An Act to make provision for the imposition and collection of goods and services tax
 
@@ -236,6 +236,7 @@ _Consolidation as at 2023-04-01_
   - **tax file number** has the meaning assigned to that term by section YA 1 of the Income Tax Act 2007
   - **tax fraction** means the fraction calculated in accordance with the following formula:a ÷ (100 + a)where—ais the rate of tax specified in section 8(1)
   - **tax invoice** means a document provided pursuant to sections 24 and 24BA
+  - **tax law** has the meaning set out in section 3(1) of the Tax Administration Act 1994
   - **tax payable** means an amount of tax calculated in accordance with section 19C and section 20; and includes—
     (a) any amount referred to in section 17(2) or section 51B:
     (b) any late payment penalty or shortfall penalty:
@@ -478,6 +479,15 @@ _Consolidation as at 2023-04-01_
     (ii) subject to paragraph (a)﻿(ii), any other payment made to a person where the payment is for the personal use and benefit of the person or, as the case may be, a relative (as defined in paragraph (a) of the definition of that term in section YA 1 of the Income Tax Act 2007) of the person; or
     (iii) any payment of a kind that is declared by the Governor-General by Order in Council not to be a taxable grant or subsidy for the purposes of subsection (6D).
 (6EB) An order under subsection (6E)﻿(a)﻿(ii) or (b)﻿(iii) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+(6EC) A charge, including a fee or a levy, payable under legislation is deemed to be consideration for a supply of goods and services.
+(6ED) Subsection (6EC) does not apply to a charge—
+  (a) listed in the schedule:
+  (b) that is, or is in the nature of,—
+    (i) a fine:
+    (ii) a penalty:
+    (iii) interest:
+    (iv) a general tax.
+(6EE) For the purposes of subsection (6ED), a general tax means a charge in the nature of a tax imposed by a tax law where the revenue is not earmarked in legislation for a particular purpose or function.ExamplesFor the purposes of section 5(6ED) and (6EE), an example of a charge that is—a general tax is income tax:not a general tax is a levy used to fund the performance of regulatory functions.
 (6F) For the purposes of this Act, the amount payable by the Crown or the agency under the Public and Community Housing Management Act 1992 under a reimbursement agreement or a tailored agreement under that Act is treated as consideration for the supply of accommodation in a dwelling by way of hire.
 (7) For the purposes of this Act—
   (a) every local authority is deemed to supply goods and services to any person where any amount of rates is payable by that person to that local authority:
