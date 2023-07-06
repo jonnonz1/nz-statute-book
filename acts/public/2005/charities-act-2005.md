@@ -1,5 +1,5 @@
 # Charities Act 2005
-_Consolidation as at 2022-01-01_
+_Consolidation as at 2023-07-06_
 
 ### 1 Title
 This Act is the Charities Act 2005.
@@ -90,7 +90,7 @@ This Act binds the Crown.
 **Board and chief executive**
 
 ### 8 Establishment, functions, duties, and powers of Board
-(1) A Board comprising 3 members appointed by the Minister is established.
+(1) A Board comprising 5 members appointed by the Minister is established.
 (2) The Minister must notify in the Gazette—
   (a) the names of the members of the Board; and
   (b) the name of the chairperson of the Board.
@@ -195,7 +195,7 @@ The name of an entity complies with this section if—
   (b) the entity is incorporated under that name under the Charitable Trusts Act 1957; or
   (c) the entity is incorporated under that name under the Companies Act 1993; or
   (d) the entity is established, or constituted, by an Act under that name; or
-  (e) in any other case, in the opinion of the Board, the name is not—
+  (e) in any other case, if the Board decides that the name is not—
     (i) offensive; or
     (ii) liable to mislead the public.
 
@@ -304,13 +304,19 @@ The purpose of the register is—
   (h) each notice of change sent or delivered under section 40; and
   (i) the terms and conditions of any exemption granted under section 43 that is in force in relation to the entity.
 (2) The register must contain any other information or documents prescribed by regulations.
+(2A) The register may contain any other information or documents provided by a charitable entity that support the purpose of the register.
 (3) This section is subject to section 25.
 
 ### 25 Chief executive may allow information and documents to be omitted or removed from register and may restrict public access to information and documents
 (1) The chief executive may remove or omit from the register any information or documents that relate to a charitable entity if—
   (a) the charitable entity is removed from the register; or
   (b) the chief executive considers, in the public interest, that the information or documents should not form part of the register.
-(2) The chief executive may, on a request from an entity or on its own motion, prevent or restrict public access to any information or documents that relate to the entity if the chief executive considers, in the public interest, that public access to that information or those documents should be prevented or restricted.
+(2) The chief executive may, on a request from a charitable entity or an individual referred to in paragraph (b) or (c) or on the chief executive’s own motion, prevent or restrict public access to any information that relates to—
+  (a) the entity if the chief executive considers, in the public interest, that public access to that information should be prevented or restricted; or
+  (b) an individual if the chief executive considers that public access to that information would be likely to prejudice the privacy or personal safety of any person; or
+  (c) an individual if the individual is—
+    (i) a protected person in relation to a protection order under the Family Violence Act 2018; or
+    (ii) a person for whose benefit a suppression provision or order applies under any legislation.
 (3) For the purposes of subsection (2), the chief executive may prevent or restrict access subject to any terms and conditions that it thinks fit.
 (4) This section does not limit the Official Information Act 1982.
 
@@ -318,6 +324,7 @@ The purpose of the register is—
 The chief executive may, at any time, make any amendments to the register that are necessary—
   (a) to reflect any changes in the information that relates to a charitable entity; or
   (b) to correct a mistake caused by any error or omission on the part of the chief executive; or
+  (ba) to correct a mistake caused by any error or omission on the part of a charitable entity that the chief executive is satisfied was an honest and genuine mistake or omission; or
   (c) for the purposes of section 25; or
   (d) to comply with any order made under section 60 or section 61.
 
@@ -461,7 +468,9 @@ If a collector who acts on behalf of a charitable entity is requesting funds, ca
   (c) sent or delivered to the chief executive.
 (2) The annual return of a charitable entity must—
   (a) be in the form, contain the particulars, and comply with the directions as to the preparation of those returns that are prescribed by the chief executive under section 42; and
-  (b) be accompanied by a copy of the financial statements of the charitable entity (or, in the case of section 46(1A)﻿(b), of each entity that forms part of the single entity) for the most recently completed accounting period.
+  (b) be accompanied by—
+    (i) a copy of the financial statements of the charitable entity (or, in the case of section 46(1A)﻿(b), of each entity that forms part of the single entity) for the most recently completed accounting period (unless an exemption under section 42AC(1) applies); and
+    (ii) the fee prescribed by regulations for the application (if any).
 (3) For the purposes of this Act,—
   (a) an entity may nominate a balance date for the entity—
     (i) in the application for registration of the entity as a charitable entity; or
@@ -492,6 +501,18 @@ If a collector who acts on behalf of a charitable entity is requesting funds, ca
   (a) specified not-for-profit entity has the meaning set out in section 46 of the Financial Reporting Act 2013:
   (b) accounting period, applicable financial reporting standard, financial statements, generally accepted accounting practice, and non-GAAP standard have the same meanings as in section 5 of the Financial Reporting Act 2013.
 (3) If a charitable entity is subject to another Act that imposes duties relating to the preparation, audit, registration, or lodgement of financial statements, the entity must, in addition to complying with this Act, comply with the requirements of that other Act.
+
+### 42AB Meaning of minimum financial information and qualifying financial entity
+(1) In this section and section 42AC,—
+  - **minimum financial information** means financial information prescribed by regulations, and may include information about a charitable entity’s income, expenditure, assets, liabilities, mortgages, charges, other security interests, related party transactions, and donations
+  - **qualifying charitable entity** means a charitable entity whose total assets and total operating expenditure both remain at all times below the maximum financial thresholds prescribed by regulations made on the recommendation of the Minister.
+(2) Before recommending the making of regulations prescribing maximum financial thresholds for the purposes of the definition of qualifying charitable entity in subsection (1), the Minister must have regard to the purpose of this Act.
+
+### 42AC Chief executive may exempt class of qualifying charitable entities from providing financial statements
+(1) The chief executive may, by notice, exempt a class of qualifying charitable entities from complying with section 41(2)﻿(b).
+(2) Before granting an exemption under subsection (1), the chief executive must have regard to the purpose of this Act.
+(3) A qualifying charitable entity that is exempt from complying with section 41(2)﻿(b) must, when it sends or delivers its annual return to the chief executive, report to the chief executive in the form (if any) prescribed by the chief executive on its minimum financial information.
+(4) An exemption granted under subsection (1) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 42B Offence to knowingly fail to comply with standards
 (1) A charitable entity and every officer of the charitable entity commit an offence and are liable on conviction to a fine not exceeding $50,000 if—
@@ -692,25 +713,26 @@ In considering whether to revoke an entity's status as forming part of a single 
 **Provisions relating to how notices are given and served for purposes of various sections**
 
 ### 56 Notices
-(1) Any notice given under this Act by the chief executive is sufficiently given if—
+(1) Any notice given under this Act is sufficiently given if—
   (a) it is in writing; and
-  (b) it is signed by the chief executive or a person authorised by him or her for the purpose; and
+  (b) it is signed by a member of the Board, the chief executive, or a person authorised by the Board or the chief executive for the purpose; and
   (c) it is served or given in accordance with section 57 on or to the person or persons primarily concerned or on or to any person considered by the chief executive or authorised person to represent the person or persons primarily concerned.
-(2) In all courts and in all proceedings under this Act, notices given under this Act that purport to be signed by, or on behalf of, the chief executive must be treated as having been signed with due authority in accordance with subsection (1)﻿(b) unless the contrary is proved.
+(2) In all courts and in all proceedings under this Act, notices given under this Act that purport to be signed by, or on behalf of, a member of the Board or the chief executive must be treated as having been signed with due authority in accordance with subsection (1)﻿(b) unless the contrary is proved.
 
 ### 57 Service of notices
-(1) If this Act authorises the chief executive to serve a notice on, or give a notice to, any person, the notice may be served or given by—
+(1) If this Act authorises the Board or the chief executive to serve a notice on, or give a notice to, any person, the notice may be served or given by—
   (a) delivering it to that person; or
   (b) leaving it at—
     (i) the person's usual or last known place of residence or business; or
-    (ii) the address specified by the person in any notice, application, or other document made, given, or tendered to the chief executive under this Act; or
-  (c) posting it by letter addressed to the person at that place of residence or business or at that address.
+    (ii) the address specified by the person in any notice, application, or other document made, given, or tendered to the Board or the chief executive under this Act; or
+  (c) posting it by letter addressed to the person at that place of residence or business or at that address; or
+  (d) serving or giving the notice in electronic form and by means of an electronic communication.
 (2) If any notice is sent to any person by registered letter, then,—
   (a) unless the contrary is proved, the notice must be treated as having been delivered to the person when it would have been delivered in the ordinary course of post; and
   (b) in proving the delivery, it is sufficient to prove that the letter was properly addressed and posted.
 (3) If the notice is required to be served on, or given to, an entity,—
   (a) the notice may be served on, or given to, an officer or any other person holding a similar position in the entity; and
-  (b) service on the entity must, unless otherwise directed by the chief executive, be treated as service on all persons who are officers of the entity, or who are represented on the entity by those officers.
+  (b) service on the entity must, unless otherwise directed by the Board or the chief executive, be treated as service on all persons who are officers of the entity, or who are represented on the entity by those officers.
 
 **Administrative penalties**
 
@@ -840,13 +862,17 @@ Amendment(s) incorporated in the Act(s).
     (ii) access to that register:
     (iii) the location of, and hours of access to, that register:
   (f) declaring any class or classes of persons to be, or not to be, officers for the purposes of this Act:
-  (g) providing for any other matters contemplated by this Act, necessary for its administration, or necessary for giving it full effect.
+  (g) providing the procedure for appeals under this Act:
+  (h) prescribing the fees to be paid in respect of the filing of an appeal to an Authority under this Act:
+  (i) prescribing the circumstances in which any fees paid or to be paid in respect of the filing of an appeal under this Act may be refunded, remitted, or waived, in whole or in part:
+  (j) providing for anything this Act says may or must be provided for by regulations:
+  (k) providing for anything incidental that is necessary for carrying out, or giving full effect to, this Act.
 (2)
 (3) The Board or the chief executive may refuse to perform a function or exercise a power until the fee prescribed by regulations is paid.
 (4) Any Order in Council made under subsection (1) may authorise the Board or the chief executive to refund or waive, in whole or in part and on any conditions as may be prescribed by regulations, payment of any fee or amount payable in relation to any person or class of persons.
 (5) Any fee or amount payable to the Board or the chief executive is recoverable by the Board or the chief executive in any court of competent jurisdiction as a debt due to the Board or the chief executive.
 (6) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
-(7) If the regulations authorise the chief executive to refund or waive a fee in relation to any class of persons under subsection (4),—
+(7) If the regulations authorise the Board or the chief executive to refund or waive a fee in relation to any class of persons under subsection (4),—
   (a) the instrument refunding or waiving the fee is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements); and
   (b) the regulations must contain a statement to that effect.
 
@@ -867,7 +893,7 @@ The enactments in the Schedule are amended in the manner indicated in that sched
 
 ## Schedule 1AA — Transitional, savings, and related provisions
 
-**Provisions relating to Charities Amendment Act 2014**
+### Part 1 — Provisions relating to Charities Amendment Act 2014
 
 ### 1 Interpretation
 In clause 2,—
@@ -877,6 +903,25 @@ In clause 2,—
 ### 2 Provisions relating to audit or review apply to accounting periods that commence on or after commencement
 (1) The principal Act, as amended by the 2014 Amendment Act, applies to a charitable entity in relation to accounting periods that commence on or after the commencement of this clause.
 (2) The principal Act, as in force before the commencement of this clause, continues to apply to a charitable entity in relation to accounting periods that commenced before the commencement of this clause as if the 2014 Amendment Act had not been enacted.
+
+### Part 2 — Provisions relating to Charities Amendment Act 2023
+
+### 3 Interpretation
+In this Part,—
+  (a) Amendment Act means the Charities Amendment Act 2023
+  (b) principal Act means the Charities Act 2005.
+
+### 4 Provisions relating to decisions of Board or chief executive
+The principal Act, as in force before the commencement of this clause, continues to apply to the following as if the amendment Act had not been enacted:
+  (a) an application for registration under section 17 made before the commencement of this clause; and
+  (b) any process for the removal of an entity from the register where the chief executive issued a notice under section 33 before the commencement of this clause.
+
+### 5 Certain proceedings, etc, in progress continue
+(1) This clause applies to a proceeding that, immediately before the commencement of sections 28 and 29 of the amendment Act, is pending or in progress—
+  (a) in the High Court, on an appeal under section 59 of the principal Act:
+  (b) in the Court of Appeal, on an appeal under section 60(5) of the principal Act.
+(2) A proceeding to which this clause applies may be continued and completed as if sections 59 to 61 of the principal Act had not been repealed by the amendment Act.
+(3) To avoid doubt, section 60(5) of the principal Act applies in respect of a proceeding continued in the High Court under subclause (2).
 
 ## Schedule 1 — Amendments to other Acts
 
@@ -891,7 +936,7 @@ In clause 2,—
   (b) in the case of the appointment of a member, state the term of the appointment.
 
 ### 2 Membership of Board and criteria for appointment
-(1) The Board comprises 3 members (see section 8(1)).
+(1) The Board comprises 5 members (see section 8(1)).
 (2) The Minister may only appoint as a member a person who, in the Minister's opinion, has the appropriate knowledge, skills, and experience to assist the Board to perform its functions.
 
 ### 3 Validity of members' acts
