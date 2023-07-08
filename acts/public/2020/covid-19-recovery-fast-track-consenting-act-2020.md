@@ -1,5 +1,5 @@
 # COVID-19 Recovery (Fast-track Consenting) Act 2020
-_Consolidation as at 2022-11-30_
+_Consolidation as at 2023-07-08_
 
 ### 1 Title
 This Act is the COVID-19 Recovery (Fast-track Consenting) Act 2020.
