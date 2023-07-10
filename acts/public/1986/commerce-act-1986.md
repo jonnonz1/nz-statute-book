@@ -1,5 +1,5 @@
 # Commerce Act 1986
-_Consolidation as at 2023-04-20_
+_Consolidation as at 2023-07-10_
 
 > Title
 
@@ -64,6 +64,7 @@ The purpose of this Act is to promote competition in markets for the long-term b
   - **member of the Commission** —
     (a) means a member appointed under section 9(2); and
     (b) means the Telecommunications Commissioner appointed under section 9 of the Telecommunications Act 2001; and
+    (ba) means the Grocery Commissioner appointed under section 167 of the Grocery Industry Competition Act 2023; and
     (c) in the circumstances in section 11(3), includes an associate member
   - **Minister** means the Minister of the Crown who, under the authority of any warrant or with the authority of the Prime Minister, is for the time being responsible for the administration of this Act
   - **overseas regulator** means an overseas body that has competition law functions corresponding to those of the Commission under this Act
@@ -251,6 +252,7 @@ The transitional, savings, and related provisions set out in Schedule 1AA have e
 (1) The Commission must have no less than 4, and no more than 8, members appointed in accordance with this section, and may also have associate members appointed under section 11(1).
 (2) No less than 3, and no more than 7, of the members, of whom at least 1 must be a barrister and solicitor of at least 5 years' standing, must be appointed by the Governor-General in accordance with section 28(1)﻿(b) of the Crown Entities Act 2004.
 (3) One of the members must be appointed by the Governor-General as Telecommunications Commissioner under section 9 of the Telecommunications Act 2001.
+(3A) One of the members must be appointed by the Governor-General as Grocery Commissioner under section 167 of the Grocery Industry Competition Act 2023.
 (4) The Minister must not recommend a person for appointment as a member under subsection (2) unless,—
   (a) in the opinion of the Minister, that person is qualified for appointment, having regard to the functions of the Commission, by virtue of that person's knowledge of or experience in industry, commerce, economics, law, accountancy, public administration, or consumer affairs; and
   (b) in the case of a member who is a barrister or solicitor, the Minister has first consulted with the Attorney-General.
