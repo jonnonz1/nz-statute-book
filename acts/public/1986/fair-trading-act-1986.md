@@ -1,5 +1,5 @@
 # Fair Trading Act 1986
-_Consolidation as at 2022-08-16_
+_Consolidation as at 2023-07-10_
 
 > Title
 
@@ -62,6 +62,7 @@ _Consolidation as at 2022-08-16_
       (iii) minerals, trees, and crops, whether on, under, or attached to land or not:
       (iv) gas and electricity:
       (v) to avoid doubt, water and computer software
+  - **grocery supply contract** has the meaning given in section 26C
   - **infringement fee** , , and have the meanings given in section 40B
   - **layby sale agreement** has the meaning given in section 36B
   - **local authority** includes every local authority and every public body or other authority created by or pursuant to any public Act or local Act
@@ -85,8 +86,9 @@ _Consolidation as at 2022-08-16_
     (c) a contract between a bank and a customer of the bank:
     (d) any contract for, or in relation to, the lending of money or granting of credit, or the making of arrangements for the lending of money or granting of credit, or the buying or discounting of a credit instrument, or the acceptance of deposits;—
   - **small trade contract** has the meaning given in section 26C
+  - **specified trade contract** has the meaning given in section 26C
   - **standard form consumer contract** means a consumer contract that a court, in the course of proceedings for a declaration under section 46I, and in accordance with section 46J, determines is a standard form contract
-  - **standard form small trade contract** means a small trade contract that a court, in the course of proceedings for a declaration under section 46I, and in accordance with section 46J, determines is a standard form contract
+  - **standard form trade contract** means a specified trade contract that a court, in the course of proceedings for a declaration under section 46I, and in accordance with section 46J, determines is a standard form contract
   - **supply** —and as a noun, , and have corresponding meanings
     (a) in relation to goods, includes supply (or resupply) by way of gift, sale, exchange, lease, hire, or hire purchase; and
     (b) in relation to services, includes provide, grant, or confer;—
@@ -96,7 +98,7 @@ _Consolidation as at 2022-08-16_
     (b) is legible; and
     (c) is presented clearly; and
     (d) is readily available to any party affected by the term
-  - **unfair contract term** means a term in a consumer contract or small trade contract that a court has declared, under section 46I, is an unfair contract term
+  - **unfair contract term** means a term in a consumer contract or specified trade contract that a court has declared, under section 46I, is an unfair contract term
   - **uninvited direct sale agreement** has the meaning given in section 36K
   - **unsolicited goods** has the meaning given in section 21A(7)
   - **unsolicited services** has the meaning given in section 21B(2).
@@ -468,29 +470,38 @@ No provision of this Part limits or affects any other provision of this Part.
   (b) any variation of the contract; or
   (c) any new contract that has the effect of operating as a renewal of the contract, and any subsequent renewal.
 
-### 26B Unfair contract terms in standard form small trade contracts
-If a court has declared, under section 46I, that a term in a standard form small trade contract is an unfair contract term, a person must not—
+### 26B Unfair contract terms in standard form trade contracts
+If a court has declared, under section 46I, that a term in a standard form trade contract is an unfair contract term, a person must not—
   (a) include the unfair contract term in a standard form contract (unless the term is included in a way that complies with the terms (if any) of the decision of the court); or
   (b) apply, enforce, or rely on the unfair contract term in a standard form contract.
 
-### 26C Definition of small trade contract
-(1) In this Act, unless the context otherwise requires, a contract is a small trade contract if—
+### 26C Definition of specified trade contract
+(1) In this Act, unless the context otherwise requires, a contract is a specified trade contract if subsection (2) or (3) applies to the contract.
+(2) This subsection applies to a contract (a small trade contract) if—
   (a) each party to it is engaged in trade; and
   (b) it is not a consumer contract; and
   (c) it does not comprise or form part of a trading relationship that exceeds the annual value threshold when the relationship first arises.
-(2) If a party to a proceeding alleges that a contract is a small trade contract, the contract is presumed to be a small trade contract unless any other party to the proceeding proves otherwise.
-(3) This section is subject to section 26E.
+(3) This subsection applies to a contract (a grocery supply contract) if—
+  (a) each party to it is engaged in trade; and
+  (b) it is not a consumer contract; and
+  (c) it is a contract between—
+    (i) at least 1 regulated grocery retailer (within the meaning of Part 2 of the Grocery Industry Competition Act 2023); and
+    (ii) at least 1 supplier; and
+  (d) it relates to the acquisition of goods in respect of which the end-user is a consumer; and
+  (e) it does not comprise or form part of a trading relationship that exceeds the annual value threshold when the relationship first arises.
+(4) If a party to a proceeding alleges that a contract is a specified trade contract, the contract is presumed to be a specified trade contract unless any other party to the proceeding proves otherwise.
+(5) This section is subject to section 26E.
 
-### 26D Small trade contracts: trading relationship, annual value threshold, and other definitions
-(1) This section applies for the purposes of section 26C(1)﻿(c).
+### 26D Specified trade contracts: trading relationship, annual value threshold, and other definitions
+(1) This section applies for the purposes of section 26C.
 (2) Trading relationship, in relation to a contract, means a relationship consisting of—
   (a) that contract; and
   (b) any other contract (whether current or prospective) between the same parties on the same or substantially similar terms.
 (3) A trading relationship—
   (a) first arises when the first or only contract of the relationship is entered into; and
-  (b) exceeds the annual value threshold when the relationship first arises if, at that time,—
-    (i) it includes a transparent term or transparent terms providing for consideration (including GST, if applicable) of $250,000 or more to be paid under it, in relation to any annual period, for the goods, services, or interest in land concerned; or
-    (ii) consideration (including GST, if applicable) worth $250,000 or more is more likely than not to become payable under the relationship, in relation to any annual period, for the goods, services, or interest in land concerned.
+  (b) exceeds an annual value threshold when the relationship first arises, in relation to the specified amount, if, at that time,—
+    (i) it includes a transparent term or transparent terms providing for consideration (including GST, if applicable) of at least the specified amount to be paid under it, in relation to any annual period, for the goods, services, or interest in land concerned; or
+    (ii) consideration (including GST, if applicable) of at least the specified amount is more likely than not to become payable under the relationship, in relation to any annual period, for the goods, services, or interest in land concerned.
 (4) In this section,—
   (a) the following must be disregarded when determining whether contracts are on the same or substantially similar terms:
     (i) the main subject matter of the contracts; and
@@ -498,15 +509,18 @@ If a court has declared, under section 46I, that a term in a standard form small
   (b) annual period, in relation to a trading relationship, means a period—
     (i) beginning with the date on which the relationship first arises or an anniversary of that date; and
     (ii) ending 12 months later; and
-  (c) GST means goods and services tax payable under the Goods and Services Tax Act 1985.
-Example 1A and B enter into a contract on 1 December 2022. The contract includes a transparent term under which A is to pay B $253,000 ($220,000 plus GST) for services to be provided before 1 December 2023. On 1 November 2023, A and B enter into a contract on substantially similar terms. The second contract includes a transparent term for A to pay B $57,500 ($50,000 plus GST) for services to be provided in 2024.Neither contract is a small trade contract because the annual value threshold is exceeded when the trading relationship first arises.
-Example 2C and D are both engaged in trade. They enter into 2 contracts for C to buy fruit from D. The contracts are on the same terms except that the first contract relates to grapes and is entered into on 1 January 2023, and the second contract relates to apples and is entered into a year later, on 1 January 2024. Neither contract is a consumer contract and there are no other contracts in the trading relationship.The parties’ expectation when entering into the first contract is that C will spend approximately $120,000 per year under it and that from 2024 it will also spend $180,000 per year under the second contract.Neither contract is a small trade contract because, despite the different subject matter, they form part of the same trading relationship and the annual value threshold is exceeded when the trading relationship first arises.
-Example 3On 1 May 2024, E and F, who are both engaged in trade, enter into an open-ended contract for E to supply stationery to F. The contract is not a consumer contract and the trading relationship contains no other contracts. The contract does not include transparent terms setting out the consideration to be paid, but based on their previous interactions the parties expect that F will spend $100,000 under it each year. However, after several years F is purchasing significantly more stationery than originally anticipated. E is now supplying $300,000 worth of stationery to F each year. There has been no variation of the contract.The contract starts as and remains a small trade contract because the annual value threshold is not exceeded when the trading relationship first arises.
+  (c) GST means goods and services tax payable under the Goods and Services Tax Act 1985; and
+  (d) specified amount,—
+    (i) in relation to a small trade contract, means $250,000; and
+    (ii) in relation to a grocery supply contract, means $1 million.
+Example 1A and B enter into a contract on 1 December 2022. The contract includes a transparent term under which A is to pay B $253,000 ($220,000 plus GST) for services to be provided before 1 December 2023. On 1 November 2023, A and B enter into a contract on substantially similar terms. The second contract includes a transparent term for A to pay B $57,500 ($50,000 plus GST) for services to be provided in 2024.Neither contract is a small trade contract because the annual value threshold of $250,000 is exceeded when the trading relationship first arises.
+Example 2C and D are both engaged in trade. They enter into 2 contracts for C to buy fruit from D. The contracts are on the same terms except that the first contract relates to grapes and is entered into on 1 January 2023, and the second contract relates to apples and is entered into a year later, on 1 January 2024. Neither contract is a consumer contract and there are no other contracts in the trading relationship.The parties’ expectation when entering into the first contract is that C will spend approximately $120,000 per year under it and that from 2024 it will also spend $180,000 per year under the second contract.Neither contract is a small trade contract because, despite the different subject matter, they form part of the same trading relationship and the annual value threshold of $250,000 is exceeded when the trading relationship first arises.
+Example 3On 1 May 2024, E and F, who are both engaged in trade, enter into an open-ended contract for E to supply stationery to F. The contract is not a consumer contract and the trading relationship contains no other contracts. The contract does not include transparent terms setting out the consideration to be paid, but based on their previous interactions the parties expect that F will spend $100,000 under it each year. However, after several years F is purchasing significantly more stationery than originally anticipated. E is now supplying $300,000 worth of stationery to F each year. There has been no variation of the contract.The contract starts as and remains a small trade contract because the annual value threshold of $250,000 is not exceeded when the trading relationship first arises.
 
-### 26E Regulations relating to definition of small trade contract
+### 26E Regulations relating to definition of specified trade contract
 (1) The Governor-General may, by Order in Council made on the recommendation of the Minister, make regulations for the following purposes:
-  (a) providing for any class of contract that is not a consumer contract and that is between parties engaged in trade to be treated as a small trade contract under section 26C; or
-  (b) excluding any class of contract from being a small trade contract under section 26C, and prescribing the terms and conditions (if any) applying to the exclusion.
+  (a) providing for any class of contract that is not a consumer contract and that is between parties engaged in trade to be treated as a small trade contract or grocery supply contract under section 26C; or
+  (b) excluding any class of contract from being a small trade contract or grocery supply contract under section 26C, and prescribing the terms and conditions (if any) applying to the exclusion.
 (2) The Minister must not make a recommendation unless—
   (a) the Minister has consulted the persons, or representatives of the persons, that the Minister considers will be substantially affected by any Order in Council made in accordance with the recommendation, and those persons have had the opportunity to comment to the Minister; and
   (b) the Minister has considered those comments; and
@@ -1221,7 +1235,7 @@ Any bid at an auction may be withdrawn before the end of the auction.
   (d) applications for orders under section 46B to enforce an undertaking involving a sum that, in total, exceeds $350,000 or, if greater, the amount specified in section 74 of the District Court Act 2016:
   (e) appeals from any order of the District Court under section 46B:
   (f) appeals from any order or decision of the District Court under section 46C or 46G:
-  (g) applications by the Commission for a declaration under section 46I.
+  (g) applications for a declaration under section 46I.
 (2) See also section 100A of the Commerce Act 1986, under which the Commission may state a case for the opinion of the High Court on any question of law arising in any matter before it under this Act.
 
 ### 38 Jurisdiction of District Court
@@ -1230,7 +1244,7 @@ Any bid at an auction may be withdrawn before the end of the auction.
   (b) applications for orders under sections 40A, 42, and 43:
   (c) applications for orders under section 46B to enforce an undertaking involving a sum that, in total, does not exceed $350,000 or, if greater, the amount specified in section 74 of the District Court Act 2016:
   (d) applications under sections 46C and 46G:
-  (e) applications by the Commission for a declaration under section 46I.
+  (e) applications for a declaration under section 46I.
 (2) This section is subject to section 43B.
 
 ### 39 Jurisdiction of Disputes Tribunal
@@ -1486,15 +1500,18 @@ A person who breaches a management banning order made against him or her commits
 
 **Declaration of unfair contract terms**
 
-### 46H Application by Commission for declaration of unfair contract term
-(1) The Commission may apply to the High Court or the District Court (at the choice of the Commission) for a declaration under section 46I that a term in a standard form consumer contract or standard form small trade contract is an unfair contract term.
+### 46H Application for declaration of unfair contract term
+(1) The Commission may apply to the High Court or the District Court (at the choice of the Commission) for a declaration under section 46I that a term in a standard form consumer contract or standard form trade contract is an unfair contract term.
 (2) Any person may ask the Commission to apply to a court for a declaration under section 46I in relation to a contract to which the person is a party.
+(3) Any person may apply to the High Court or the District Court (at their choice) for a declaration under section 46I that a term in a grocery supply contract that is a standard form trade contract is an unfair contract term.
 
 ### 46I Declaration of unfair contract terms
-(1) The High Court or the District Court may, on application by the Commission, declare that a term in a standard form consumer contract or standard form small trade contract is an unfair contract term.
+(1) The High Court or the District Court may,—
+  (a) on application by the Commission, declare that a term in a standard form consumer contract or standard form trade contract is an unfair contract term; or
+  (b) on application by any person, declare that a term in a grocery supply contract that is a standard form trade contract is an unfair contract term.
 (2) The court may make the declaration only if it is satisfied that—
-  (a) the term is in a contract that is a consumer contract or small trade contract; and
-  (b) the consumer contract or small trade contract is a standard form contract (as determined in accordance with section 46J); and
+  (a) the term is in a contract that is a consumer contract or specified trade contract; and
+  (b) the consumer contract or specified trade contract is a standard form contract (as determined in accordance with section 46J); and
   (c) the declaration is not prohibited by section 46K(1); and
   (d) the term is unfair in the sense described in section 46L.
 (3) A declaration under this section—
@@ -1512,21 +1529,21 @@ A person who breaches a management banning order made against him or her commits
 (3) If a party to a proceeding alleges that a contract is a standard form contract, the contract is presumed to be a standard form contract unless any other party to the proceedings proves otherwise.
 
 ### 46K Terms that may not be declared to be unfair contract terms
-(1) A court may not declare a term in a standard form consumer contract or standard form small trade contract to be an unfair contract term to the extent that the term—
+(1) A court may not declare a term in a standard form consumer contract or standard form trade contract to be an unfair contract term to the extent that the term—
   (a) defines the main subject matter of the contract; or
   (b) sets the upfront price payable under the contract; or
   (c) is a term required or expressly permitted by any enactment.
 (2) In this section, upfront price means the consideration (including any consideration that is contingent upon the occurrence or non-occurrence of a particular event) payable under the contract, but only to the extent that the consideration is set out in a term that is transparent.
 
-### 46L When term in consumer contract or small trade contract is unfair
-(1) A term in a consumer contract or small trade contract is unfair if the court is satisfied that the term—
+### 46L When term in consumer contract or specified trade contract is unfair
+(1) A term in a consumer contract or specified trade contract is unfair if the court is satisfied that the term—
   (a) would cause a significant imbalance in the parties' rights and obligations arising under the contract; and
   (b) is not reasonably necessary in order to protect the legitimate interests of the party who would be advantaged by the term; and
   (c) would cause detriment (whether financial or otherwise) to a party if it were applied, enforced, or relied on.
-(2) In determining whether a term of a consumer contract or small trade contract is unfair, the court may take into account any matters it thinks relevant, but must take into account—
+(2) In determining whether a term of a consumer contract or specified trade contract is unfair, the court may take into account any matters it thinks relevant, but must take into account—
   (a) the extent to which the term is transparent; and
   (b) the contract as a whole.
-(3) For the purpose of subsection (1)﻿(b), a term in a consumer contract or small trade contract must be presumed not to be reasonably necessary in order to protect the legitimate interests of the party who would be advantaged by the term, unless that party proves otherwise.
+(3) For the purpose of subsection (1)﻿(b), a term in a consumer contract or specified trade contract must be presumed not to be reasonably necessary in order to protect the legitimate interests of the party who would be advantaged by the term, unless that party proves otherwise.
 (4) For the purpose of subsection (1)﻿(b), and despite anything in section 46M, in relation to contracts of insurance only, the following terms must be taken to be terms that are reasonably necessary in order to protect the legitimate interests of the insurer:
   (a) a term that identifies the uncertain event or that otherwise specifies the subject matter insured or the risk insured against:
   (b) a term that specifies the sum or sums insured or assured:
@@ -1541,7 +1558,7 @@ A person who breaches a management banning order made against him or her commits
   - **uncertain event** has the meaning given in section 7 of the Insurance (Prudential Supervision) Act 2010.
 
 ### 46M Examples of unfair contract terms
-Without limiting section 46I, the following are examples of the kind of terms that, if in a consumer contract or small trade contract, may be unfair contract terms:
+Without limiting section 46I, the following are examples of the kind of terms that, if in a consumer contract or specified trade contract, may be unfair contract terms:
   (a) a term that permits, or has the effect of permitting, one party (but not another party) to avoid or limit performance of the contract:
   (b) a term that permits, or has the effect of permitting, one party (but not another party) to terminate the contract:
   (c) a term that penalises, or has the effect of penalising, one party (but not another party) for a breach or termination of the contract:
@@ -1881,6 +1898,20 @@ Section 100 of the Commerce Act 1986 (powers of Commission to prohibit disclosur
     (b) if an earlier date is specified under subclause (4), that date.
 (4) The Governor-General may, by Order in Council, specify a date for the purposes of paragraph (b) of the definition of specified date in subclause (3).
 (5) An Order in Council made under subclause (4) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+
+### Part 2 — Provision relating to Grocery Industry Competition Act 2023
+
+### 2 Unfair contract terms in standard form trade contracts
+(1) New sections 26B to 26E do not apply to the following contracts:
+  (a) a contract entered into before the commencement date and not varied or renewed on or after that date:
+  (b) a relevant insurance agreement.
+(2) In addition, old sections 26B to 26E continue to apply to a contract if those sections applied to the contract immediately before the commencement date.
+(3) If a contract entered into before the commencement date is varied or renewed on or after that date and is not a relevant insurance agreement, the contract (as varied or renewed) must be treated for the purposes of new sections 26B to 26E as a new contract entered into on the date of the variation or renewal.
+(4) In this clause,—
+  - **commencement date** means the date on which sections 202 to 215 of the Grocery Industry Competition Act 2023 come into force
+  - **new** , in relation to a provision of this Act, means the provision as in force on and after the commencement date
+  - **old** , in relation to a provision of this Act, means the provision as in force immediately before the commencement date
+  - **relevant insurance agreement** has the same meaning as in clause 1 of this schedule.
 
 ## Schedule 1 — Enactment amended
 
