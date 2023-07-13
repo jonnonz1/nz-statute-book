@@ -1,5 +1,5 @@
 # Self-contained Motor Vehicles Legislation Act 2023
-_Consolidation as at 2023-06-06_
+_Consolidation as at 2023-07-13_
 
 ### 1 Title
 This Act is the Self-contained Motor Vehicles Legislation Act 2023.
