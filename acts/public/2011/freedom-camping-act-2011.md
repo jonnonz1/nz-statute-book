@@ -1,5 +1,5 @@
 # Freedom Camping Act 2011
-_Consolidation as at 2023-06-07_
+_Consolidation as at 2023-07-13_
 
 ### 1 Title
 This Act is the Freedom Camping Act 2011.
@@ -173,6 +173,7 @@ This Act binds the Crown.
   (a) by a bylaw made under section 11; or
   (b) in the case of a self-contained motor vehicle, by the limit placed on the maximum number of people for which the vehicle is certified; or
   (c) under any other legislation.
+(4) A person must display a warrant card in a motor vehicle if the person is using the motor vehicle to freedom camp in a local authority area, other than a local authority area defined in a bylaw made under section 11A.
 (5) See subpart 3 of Part 1 of Schedule 1AA for the applicable law during the transitional period.
 
 ### 10A Bylaws declaring NZTA land to be local authority area
@@ -255,10 +256,11 @@ This Act binds the Crown.
 ### Subpart 2 — Freedom camping on conservation land
 
 ### 15 Where freedom camping on conservation land permitted
-Freedom camping is permitted on any conservation land unless freedom camping is restricted or prohibited on the land—
+(1) Freedom camping is permitted on any conservation land unless freedom camping is restricted or prohibited on the land—
   (a)
   (b) in accordance with a notice made under section 17; or
   (c) under a conservation Act or any other enactment.
+(2) A person must display a warrant card in a motor vehicle if the person is using the motor vehicle to freedom camp on conservation land on which freedom camping in a motor vehicle is restricted to self-contained motor vehicles.
 
 ### 16 Freedom camping restriction and prohibition signs
 [Repealed]
@@ -305,7 +307,8 @@ The Director-General must exercise the powers conferred on him or her under this
 ### Subpart 3 — Freedom camping on LINZ land
 
 ### 19A Where freedom camping on LINZ land permitted
-Freedom camping is not permitted on LINZ land except in accordance with a notice made under section 19B.
+(1) Freedom camping is not permitted on LINZ land except in accordance with a notice made under section 19B.
+(2) A person must display a warrant card in a motor vehicle if the person is using the motor vehicle to freedom camp on LINZ land on which freedom camping in a motor vehicle is permitted on the condition that the motor vehicle is self-contained.
 
 ### 19B Notices permitting freedom camping on LINZ land
 (1) Subsection (2) applies to LINZ land that is controlled or managed under either or both of the following Acts:
@@ -344,6 +347,7 @@ Freedom camping is not permitted on LINZ land except in accordance with a notice
 (1) A person commits an infringement offence if the person—
   (a) freedom camps in a local authority area in breach of any prohibition or restriction specified in a bylaw made under section 11 or 11A that applies to the area; or
   (b) freedom camps in a local authority area, other than a local authority area defined in a bylaw made under section 11A as permitting motor vehicles that are not self-contained, using a motor vehicle that is not self-contained; or
+  (c) fails to display a warrant card in a motor vehicle that the person is using to freedom camp in a local authority area, other than a local authority area defined in a bylaw made under section 11A; or
   (d) freedom camps in a local authority area in a self-contained motor vehicle with more people than the vehicle is certified for; or
   (e) while freedom camping in a local authority area,—
     (i) interferes with or damages the area, its flora or fauna, or any structure in the area; or
@@ -359,6 +363,7 @@ Freedom camping is not permitted on LINZ land except in accordance with a notice
 ### 20A Infringement offences relating to conservation land
 A person commits an infringement offence if the person—
   (a) freedom camps on conservation land in breach of any prohibition or restriction specified in a notice made under section 17 that applies to the land; or
+  (b) fails to display a warrant card in a motor vehicle that the person is using to freedom camp on conservation land on which freedom camping is restricted to self-contained motor vehicles; or
   (c) while freedom camping on conservation land,—
     (i) interferes with or damages the land, its flora or fauna, or any structure on the land; or
     (ii) deposits waste in or on the land (other than into an appropriate waste receptacle); or
@@ -369,6 +374,7 @@ A person commits an infringement offence if the person—
 A person commits an infringement offence if the person—
   (a) freedom camps on LINZ land, except to the extent that freedom camping is permitted on the land in accordance with a notice made under section 19B; or
   (b) freedom camps on LINZ land in breach of any restriction or condition specified in a notice made under section 19B that applies to the land; or
+  (c) fails to display a warrant card in a motor vehicle that the person is using to freedom camp on LINZ land on which freedom camping in a motor vehicle is permitted on the condition that the motor vehicle is self-contained; or
   (d) while freedom camping on LINZ land,—
     (i) interferes with or damages the land, its flora or fauna, or any structure on the land; or
     (ii) deposits waste in or on the land (other than into an appropriate waste receptacle); or
