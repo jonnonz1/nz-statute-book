@@ -1,5 +1,5 @@
 # Russia Sanctions Act 2022
-_Consolidation as at 2022-05-17_
+_Consolidation as at 2023-07-21_
 
 ### 1 Title
 This Act is the Russia Sanctions Act 2022.
@@ -386,6 +386,7 @@ All the provisions of the Customs and Excise Act 2018 that apply with respect to
   (ia) the Fisheries Act 1996:
   (j) the Gambling Act 2003:
   (k) the Goods and Services Tax Act 1985:
+  (ka) the Immigration Act 2009:
   (l) the Income Tax Act 2007:
   (m) the Insurance (Prudential Supervision) Act 2010:
   (n) Parts 1 to 7 of the Intelligence and Security Act 2017:
