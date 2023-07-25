@@ -1,5 +1,5 @@
 # Financial Markets Conduct Act 2013
-_Consolidation as at 2022-10-27_
+_Consolidation as at 2023-07-25_
 
 ### 1 Title
 This Act is the Financial Markets Conduct Act 2013.
@@ -7844,7 +7844,8 @@ Section 14 of the Trusts Act 2019 (sole trustee cannot be sole beneficiary) does
   (d) Part 4 provides for a transitional provision relating to the Regulatory Systems (Commercial Matters) Amendment Act 2017:
   (e) Part 5 provides for transitional provisions relating to the Financial Markets Conduct Regulations 2014:
   (f) Part 6 provides for transitional provisions relating to the Financial Services Legislation Amendment Act 2019:
-  (g) Part 7 provides for transitional provisions relating to Part 1 of the Financial Sector (Climate-related Disclosures and Other Matters) Amendment Act 2021.
+  (g) Part 7 provides for transitional provisions relating to Part 1 of the Financial Sector (Climate-related Disclosures and Other Matters) Amendment Act 2021:
+  (h) Part 8 provides for transitional provisions relating to the Financial Markets (Conduct of Institutions) Amendment Act 2022.
 (2) Subclause (1) is only a guide to the general scheme and effect of this schedule.
 
 ### 2 Transitional provisions subject to transitional regulations and exemptions
@@ -8636,6 +8637,55 @@ In sections 461P(1), 461Q, and 461S, a reference to preceding accounting periods
   (b) subpart 3 of Part 7A (which relates to preparation of climate statements):
   (c) subpart 5 of Part 7A (which relates to lodgement of climate statements).
 (2) The provisions listed in subclause (1) do not apply to a climate reporting entity under section 461O(2) in respect of accounting periods of a registered scheme that commence before the date on which the External Reporting Board issues the first climate standard that applies to the scheme.
+
+### Part 8 — Provisions relating to Financial Markets (Conduct of Institutions) Amendment Act 2022
+
+### 95 Dealing with applications to act as financial institution from existing banks, insurers, and NBDTs
+(1) This clause applies to a person (A) if,—
+  (a) immediately before the commencement of this clause, A is a registered bank, a licensed insurer, or a licensed NBDT; and
+  (b) an application is made for a licence to cover A’s service of acting as a financial institution (whether under an existing or a new licence and whether under section 395 or, by way of an application to vary the conditions of a licence, under section 404 of this Act).
+(2) To the extent that the application relates to A, the FMA must not decline the application unless the Reserve Bank has given its consent.
+(3) The Reserve Bank may withhold its consent only if the Reserve Bank is satisfied,—
+  (a) in a case where A is a registered bank or a licensed NBDT, that withholding the consent is necessary for maintaining a sound and efficient financial system:
+  (b) in a case where A is a licensed insurer, that withholding the consent is necessary for maintaining a sound and efficient insurance sector.
+(4) If the FMA has asked for the Reserve Bank’s consent but the Reserve Bank refuses to give its consent, the FMA must accept the application (to the extent that it relates to A) even if it does not consider that 1 or more of the requirements referred to in section 396 or 400 are satisfied.
+(5) The FMA may exercise a power under section 414(2) in respect of the requirements referred to in section 396 or 400 (without having to be satisfied under section 414(1)).
+(6) Subclause (5) ceases to apply in relation to a person when the FMA first becomes satisfied that those requirements referred to in section 396 or 400 are satisfied in relation to the person.
+
+### 96 Regulations may provide that licensing requirement does not apply until particular date
+(1) The Governor-General may, by Order in Council, on the recommendation of the Minister, make regulations for the purpose set out in subclause (2) (and those regulations have effect despite the commencement of section 8 of the Financial Markets (Conduct of Institutions) Amendment Act 2022).
+(2) The purpose is to provide that the requirement to hold, or be authorised under, a licence to provide the service of acting as a financial institution does not apply to a class of persons specified in the regulations until on or after a date specified in those regulations.
+(3) A date specified in those regulations must be on or before the fifth anniversary of the date on which the Financial Markets (Conduct of Institutions) Amendment Act 2022 receives the Royal assent.
+(4) The Minister must consult the FMA before making a recommendation under this clause.
+(5) Regulations made under this clause are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+ExampleThe requirement for financial institutions to hold a market services licence comes into force on a particular date (date A).However, regulations under this clause provide that the requirement does not apply to NBDTs until a later date (date B). While the requirement applies to registered banks and insurers on date A, it only starts to apply to NBDTs on date B.
+
+### 97 Applications for financial institution licence may be made before commencement
+(1) A person may apply for a market services licence to cover the service of acting as a financial institution—
+  (a) before the commencement of section 8 of the Financial Markets (Conduct of Institutions) Amendment Act 2022; and
+  (b) if regulations under clause 96 apply, before the date referred to in clause 96(2).
+(2) For the purposes of dealing with the application, any provisions of the Financial Markets (Conduct of Institutions) Amendment Act 2022 that are relevant to the matter and that are not yet in force must be treated as if they were in force.
+(3) The FMA may refuse to consider the application if it is made—
+  (a) before a date specified by the FMA; or
+  (b) before an event specified by the FMA has occurred; or
+  (c) before circumstances specified by the FMA exist.
+(4) Subclause (3) ceases to apply to an application made after the later of—
+  (a) the commencement of section 8 of the Financial Markets (Conduct of Institutions) Amendment Act 2022; and
+  (b) the date referred to in clause 96(2) (if the regulations made under that clause apply in relation to the applicant).
+(5) This clause does not limit section 395(1A).
+
+### 98 Incentives regulations may apply to existing agreements
+(1) Regulations made under section 546(1)﻿(og) may provide that they apply to 1 or more classes of incentives offered, given, or otherwise payable on or after the commencement of those regulations.
+(2) Subclause (1) may apply even if an incentive is offered, given, or otherwise payable under an agreement entered into before either or both of the following:
+  (a) the commencement of those regulations:
+  (b) the enactment of the Financial Markets (Conduct of Institutions) Amendment Act 2022.
+(3) However, nothing in those regulations applies to—
+  (a) any incentive that is given or otherwise paid or payable before the commencement of those regulations; or
+  (b) any incentive that a person has become entitled to before that commencement (even if it is given or otherwise payable after that commencement).
+(4) If the regulations apply to an agreement referred to in subclause (2), compliance with those regulations does not—
+  (a) place any party to the agreement or any other person in breach of the agreement, or make any of them liable for a civil wrong; or
+  (b) entitle any person to terminate or cancel an agreement, or to accelerate the performance of an obligation, or to impose a penalty or an increased charge, unless the regulations provide otherwise.
+ExampleA company (A) acts as an insurer. A offers motor vehicle insurance to consumers.A car dealer (B) offers A’s insurance to its customers when they buy cars. A is contractually obliged to pay B an incentive based on the volume of A’s insurance products that are sold. The contract providing for the incentive is entered into before commencement of the regulations.The regulations cannot apply to incentives that are payable before the commencement of the regulations. However, this clause allows the regulations to apply to incentives payable after commencement even though the contract was entered into before commencement.The regulations ban a certain incentive that would otherwise be payable under the contract.A must no longer pay the incentive. A does not breach the contract by refusing to pay the incentive and B has no right to cancel the contract because of that refusal.
 
 ## Schedule 5 — Other provisions relating to financial advice services and client money or property services
 
