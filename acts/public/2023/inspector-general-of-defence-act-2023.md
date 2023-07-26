@@ -24,7 +24,7 @@ This Act is the Inspector-General of Defence Act 2023.
 ### 4 Interpretation
 (1) In this Act, unless the context otherwise requires,—
   - **advisory panel** means a panel appointed under section 48
-  - **assessment function** has the meaning given in section 8(1)﻿(b) and has a corresponding meaning
+  - **assessment function** has the meaning given in section 8(b) and has a corresponding meaning
   - **Auditor-General** means the Controller and Auditor-General appointed under section 7 of the Public Audit Act 2001
   - **Chief of Defence Force** means the officer appointed as Chief of Defence Force under section 8 of the Defence Act 1990
   - **Defence Force** means the New Zealand Defence Force constituted by section 11(1) of the Defence Act 1990, excluding Veterans’ Affairs New Zealand
@@ -38,7 +38,7 @@ This Act is the Inspector-General of Defence Act 2023.
   - **Human Rights Commissioner** means a member of the Human Rights Commission that is continued by section 4 of the Human Rights Act 1993
   - **Independent Police Conduct Authority** means the authority established by section 4 of the Independent Police Conduct Authority Act 1988
   - **Inspector-General** means the Inspector-General of Defence appointed under section 7(2) (but see also sections 12(2) and 52(4)﻿(b), which provide for some references to the Inspector-General to be read as including references to the Deputy Inspector-General or a delegate)
-  - **investigation function** has the meaning given in section 8(1)﻿(a) and has a corresponding meaning
+  - **investigation function** has the meaning given in section 8(a) and has a corresponding meaning
   - **member of the Defence Force** has the meaning given in section 2(1) of the Defence Act 1990
   - **New Zealand Security Intelligence Service** means the New Zealand Security Intelligence Service continued by section 7 of the Intelligence and Security Act 2017
   - **Ombudsman** means an Ombudsman appointed under the Ombudsmen Act 1975
@@ -157,7 +157,7 @@ Schedule 2 applies in relation to the offices of Inspector-General and Deputy In
     (vi) an estimated time frame for completing the investigation or assessment; and
   (b) consult the Secretary of Defence and the Chief of Defence Force on the draft terms of reference; and
   (c) finalise the terms of reference, having regard to any comments provided by the Secretary of Defence and the Chief of Defence Force; and
-  (d) notify the Minister, the Secretary of Defence, and the Chief of Defence Force of the Inspector-General’s intention to begin the investigation or assessment, unless it is in included in the Inspector-General’s annual work programme under section 53.
+  (d) notify the Minister, the Secretary of Defence, and the Chief of Defence Force of the Inspector-General’s intention to begin the investigation or assessment, unless it is included in the Inspector-General’s annual work programme under section 53.
 (2) A notification under subsection (1)﻿(d) must include—
   (a) the finalised terms of reference; and
   (b) at least 5 working days’ notice of any public announcement of the investigation or assessment.
@@ -574,7 +574,7 @@ This Act applies to incidents that occur before the commencement of its provisio
 ### 1 Term of office of Inspector-General and Deputy Inspector-General
 (1) A person holds office as the Inspector-General for an initial term (which must not be more than 5 years) that the Governor-General, on the recommendation of the House of Representatives, specifies in the person’s appointment.
 (2) A person holding office as the Inspector-General may be reappointed for 1 further term of not more than 3 years.
-(3) A person holds office as the Deputy Inspector-General for an initial term (which must be not more than 3 years) that the Governor-General, on the recommendation of the House of Representatives, specifies in the person’s appointment.
+(3) A person holds office as the Deputy Inspector-General for an initial term (which must not be more than 3 years) that the Governor-General, on the recommendation of the House of Representatives, specifies in the person’s appointment.
 (4) A person holding office as the Deputy Inspector-General may be reappointed for 1 or more further terms of not more than 3 years each.
 (5) Unless they have died, resigned, or been removed, a person holding office as the Inspector-General or the Deputy Inspector-General continues to hold office until one of the following occurs, even if the term for which they were appointed has ended:
   (a) the person is reappointed:
