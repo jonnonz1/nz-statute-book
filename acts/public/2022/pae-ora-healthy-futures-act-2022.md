@@ -1,5 +1,5 @@
 # Pae Ora (Healthy Futures) Act 2022
-_Consolidation as at 2023-01-13_
+_Consolidation as at 2023-07-27_
 
 ### 1 Title
 This Act is the Pae Ora (Healthy Futures) Act 2022.
@@ -1459,6 +1459,8 @@ A person is funding eligible if the person belongs to a class of eligible people
 | Iwi-Māori partnership board | Area covered by board |
 | --- | --- |
 | Te Taumata Hauora o Te Kahu o Taonui | Tai Tokerau–Tāmaki |
+| Ngaa Pou Hauora oo Taamaki Makaurau | South Auckland |
+| Te Tiratū | Waikato–Tainui |
 | Te Moana a Toi | Mataatua |
 | Tairāwhiti Toitū Te Ora | Tairāwhiti |
 | Te Taura Ora o Waiariki | Te Arawa |
@@ -1469,6 +1471,8 @@ A person is funding eligible if the person belongs to a class of eligible people
 | Te Pae Oranga o Ruahine o Tararua | Manawatū |
 | Te Karu o te Ika Poari Hauora | Wairarapa |
 | Ātiawa Toa | Te Upoko o te Ika Greater Wellington/Hutt |
+| Te Kāhui Hauora o Te Tau Ihu | Nelson–Marlborough |
+| Te Tauraki | Ngāi Tahu |
 
 ### 1 Interpretation
 In this Part, unless the context otherwise requires,—
@@ -1498,6 +1502,129 @@ The Tai Tokerau–Tāmaki area consists of—
     (xiii) Waitākere Ranges Local Board:
     (xiv) Waitematā Local Board:
     (xv) Whau Local Board.
+
+### 2A Description of South Auckland area
+The South Auckland area consists of—
+  (a) the local board areas of the following:
+    (i) Franklin Local Board:
+    (ii) Howick Local Board:
+    (iii) Māngere–Ōtāhuhu Local Board:
+    (iv) Manurewa Local Board:
+    (v) Ōtara–Papatoetoe Local Board:
+    (vi) Papakura Local Board; and
+  (b) the following statistical area 2 geographic areas (as determined by Statistics New Zealand in the Statistical standard for geographic areas 2018 and described in the Statistical Area 2 2018 dataset):
+    (i) Aka Aka:
+    (ii) Mangatangi:
+    (iii) Onewhero:
+    (iv) Pokeno:
+    (v) Pokeno Rural:
+    (vi) Tuakau North:
+    (vii) Tuakau Rural:
+    (viii) Tuakau South; and
+  (c) the following meshblocks (as determined by Statistics New Zealand in the Statistical standard for geographic areas 2018 and described in the Meshblock 2018 dataset):
+    (i) 843600:
+    (ii) 843700:
+    (iii) 843800:
+    (iv) 843900:
+    (v) 844000:
+    (vi) 844300:
+    (vii) 845800:
+    (viii) 845900:
+    (ix) 846101:
+    (x) 846200:
+    (xi) 846300:
+    (xii) 846401:
+    (xiii) 846402:
+    (xiv) 846500:
+    (xv) 4000653:
+    (xvi) 4000654:
+    (xvii) 4000655:
+    (xviii) 4000656:
+    (xix) 4000657:
+    (xx) 4001036:
+    (xxi) 4001037:
+    (xxii) 4002519:
+    (xxiii) 4010816:
+    (xxiv) 4010817:
+    (xxv) 4010950:
+    (xxvi) 4010951.
+
+### 2B Description of Waikato–Tainui area
+The Waikato–Tainui area consists of—
+  (a) the districts of the following territorial authorities:
+    (i) Hamilton City Council:
+    (ii) Hauraki District Council:
+    (iii) Matamata–Piako District Council:
+    (iv) Ōtorohanga District Council:
+    (v) South Waikato District Council:
+    (vi) Thames–Coromandel District Council:
+    (vii) Waipa District Council:
+    (viii) Waitomo District Council; and
+  (b) the following statistical area 2 geographic areas (as determined by Statistics New Zealand in the Statistical standard for geographic areas 2018 and described in the Statistical Area 2 2018 dataset):
+    (i) Eureka–Tauwhare:
+    (ii) Hamilton Park:
+    (iii) Horotiu:
+    (iv) Horsham Downs:
+    (v) Huntly East:
+    (vi) Huntly Rural:
+    (vii) Huntly West:
+    (viii) Kainui–Gordonton:
+    (ix) Maramarua:
+    (x) National Park:
+    (xi) Ngapuke:
+    (xii) Ngaruawahia Central:
+    (xiii) Ngaruawahia North:
+    (xiv) Ngaruawahia South:
+    (xv) Otangiwai–Ohura:
+    (xvi) Pukemoremore:
+    (xvii) Raglan:
+    (xviii) Rangiriri:
+    (xix) Rotokauri:
+    (xx) Tamahere North:
+    (xxi) Tamahere South:
+    (xxii) Taumarunui Central:
+    (xxiii) Taumarunui East:
+    (xxiv) Taumarunui North:
+    (xxv) Taupiri–Lake Kainui:
+    (xxvi) Te Kauwhata:
+    (xxvii) Te Kowhai:
+    (xxviii) Te Uku:
+    (xxix) Waerenga:
+    (xxx) Whatawhata East:
+    (xxxi) Whatawhata West:
+    (xxxii) Whitikahu; and
+  (c) the following meshblocks (as determined by Statistics New Zealand in the Statistical standard for geographic areas 2018 and described in the Meshblock 2018 dataset):
+    (i) 844200:
+    (ii) 844400:
+    (iii) 846601:
+    (iv) 846602:
+    (v) 846700:
+    (vi) 846900:
+    (vii) 847000:
+    (viii) 847101:
+    (ix) 847102:
+    (x) 847200:
+    (xi) 849001:
+    (xii) 849002:
+    (xiii) 849100:
+    (xiv) 849200:
+    (xv) 849300:
+    (xvi) 849400:
+    (xvii) 849500:
+    (xviii) 849600:
+    (xix) 852400:
+    (xx) 852500:
+    (xxi) 852600:
+    (xxii) 852700:
+    (xxiii) 852800:
+    (xxiv) 852900:
+    (xxv) 853100:
+    (xxvi) 853201:
+    (xxvii) 853300:
+    (xxviii) 853400:
+    (xxix) 853500:
+    (xxx) 853600:
+    (xxxi) 853700.
 
 ### 3 Description of Mataatua area
 The Mataatua area consists of—
@@ -1626,6 +1753,25 @@ The Te Upoko o te Ika Greater Wellington/Hutt area consists of—
     (xix) Waikanae East:
     (xx) Waikanae Park:
     (xxi) Waikanae West.
+
+### 13 Description of Nelson–Marlborough area
+The Nelson–Marlborough area consists of all the lands, islands, and coasts of Te Waipounamu north of a line—
+  (a) commencing in the Marlborough Land District at a point on the coastline of Cloudy Bay at the south-eastern end of Big Lagoon, north-west of White Bluffs, being on the production, in a north-easterly direction, of a right line between survey mark IP2 on SO Plan 5485 (Marlborough Land District) and the Trig station on Belvedere Peak situated in the Nelson Land District; then
+  (b) proceeding by a right line in a south-westerly direction, passing through the survey mark IP2 on SO Plan 5485 (Marlborough Land District), to the Trig station on Belvedere Peak situated in the Nelson Land District, being the source of the Clarence River; then
+  (c) proceeding generally in a westerly direction along the summit of the ridge of the Spenser Mountains, passing through Waiau Pass, to the peak of Mount Mahanga; then
+  (d) proceeding generally in a northerly direction along the summit of the ridge of the Mahanga Range to the peak of Mount Misery; then
+  (e) continuing by a right line in a north-north-westerly direction to the junction of the western bank of the D’Urville River with the shore of Lake Rotoroa; then
+  (f) proceeding generally in a north-westerly direction following the south-western shore of Lake Rotoroa to the south-east corner of Gowan Bridge, at the confluence of Lake Rotoroa and the Gowan River, being at position 5934547.5 metres north and 2476179.4 metres east (NZMG); then
+  (g) proceeding by a right line in a north-north-westerly direction to the Trig station on Mount Owen; then
+  (h) continuing in a north-north-westerly direction by a right line to the Trig station on Mount Patriarch; then
+  (i) proceeding generally in a north-easterly, northerly and again north-easterly direction along the summit of the ridge of the Arthur Range to the Trig station on Mount Arthur; then
+  (j) proceeding by a right line in a north-westerly direction to the Trig station on Mount Peel; then
+  (k) proceeding generally in a north-westerly direction along the summit of the ridge of the Peel Range, passing through the Trig station on Mount Ranolf, to the Trig station on Aorere Peak; then
+  (l) proceeding by a right line in a north-westerly direction to the Trig station on Mount Gouland; then
+  (m) continuing in a north-westerly direction by a right line to Trig Station Kahurangi No. 2 at Kahurangi Point and that line produced to a point on the coastline of the Tasman Sea.
+
+### 14 Description of Ngāi Tahu area
+The Ngāi Tahu area consists of the area identified as the takiwā of Ngāi Tahu Whānui in section 5 of the Te Runanga o Ngai Tahu Act 1996.
 
 ## Schedule 5 — Provisions applying to mortality review committees
 
