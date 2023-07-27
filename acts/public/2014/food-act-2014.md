@@ -1,5 +1,5 @@
 # Food Act 2014
-_Consolidation as at 2023-07-01_
+_Consolidation as at 2023-07-27_
 
 ### 1 Title
 This Act is the Food Act 2014.
@@ -5120,7 +5120,7 @@ Other notices that are not secondary legislation
 (2) The Food Act 1981 is repealed by section 420. See that section and section 2 for the staggered commencement of the repeal of different provisions of that Act.
 (3) However, despite the repeal of the Food Act 1981,—
   (a) the Food Hygiene Regulations 1974 and the Food (Safety) Regulations 2002 continue in force until the end of this Act’s introductory period unless revoked earlier by regulations made under this Act; and
-  (b) the Dietary Supplements Regulations 1985 continue in force until 1 March 2026 unless revoked earlier by regulations made under this Act.
+  (b) the Dietary Supplements Regulations 1985 continue in force until section 398 of the Therapeutic Products Act 2023 commences unless revoked earlier by regulations made under this Act.
 (4) Each food sector will have an authorised period to make the transition from the requirements of the Food Act 1981 and the Food Hygiene Regulations 1974 to the new requirements of this Act. That period will start on the relevant appointed date and end on a date that the Governor-General, by Order in Council, may specify by regulations made under this Act. The effect of allowing an authorised transition period for each food sector is intended to provide food businesses across the entire food industry with a staggered and orderly transition to the new requirements of this Act.
 (5) A food business that is subject to the Food Hygiene Regulations 1974 immediately before the relevant appointed date may do any of the following during the authorised transition period for the food sector that the food business is in:
   (a) comply with the Food Hygiene Regulations 1974; or
@@ -5187,7 +5187,7 @@ In this subpart, Act's introductory period means the period that—
 (2) The other provisions of the Food Act 1981 are repealed on the date or dates appointed by Order in Council for the purpose of their repeal (see section 2(1)).
 (3) Despite subsection (2),—
   (a) the Food Hygiene Regulations 1974 and the Food (Safety) Regulations 2002 continue in force until the end of this Act’s introductory period unless revoked earlier by regulations made under this Act; and
-  (b) the Dietary Supplements Regulations 1985 continue in force until 1 March 2026 unless revoked earlier by regulations made under this Act; and
+  (b) the Dietary Supplements Regulations 1985 continue in force until section 398 of the Therapeutic Products Act 2023 commences unless revoked earlier by regulations made under this Act; and
   (c) the regulations continued by paragraph (a) or (b) may be amended as if the Food Act 1981 had not been repealed.
 (4) The following are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements):
   (a) the Dietary Supplements Regulations 1985:
