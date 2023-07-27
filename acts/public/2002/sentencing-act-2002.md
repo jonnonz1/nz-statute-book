@@ -1,5 +1,5 @@
 # Sentencing Act 2002
-_Consolidation as at 2023-04-05_
+_Consolidation as at 2023-07-27_
 
 ### 1 Title
 This Act is the Sentencing Act 2002.
@@ -3141,7 +3141,7 @@ For the purposes of determining the value of an instrument of crime, a court may
 (4) In this section, relevant date means the date on which the offender was convicted of the qualifying instrument forfeiture offence.
 
 ### 142I Determining ownership of property
-For the purpose of determining the nature and extent of any person’s interest in an instrument of crime, the court may apply the provisions of section 58 of the Criminal Proceeds (Recovery) Act 2009, which applies with all necessary modifications.
+For the purpose of determining the nature and extent of any person’s interest in an instrument of crime, the court may apply the provisions of section 17A of the Criminal Proceeds (Recovery) Act 2009, which applies with all necessary modifications.
 
 ### 142J Applications for relief from instrument forfeiture order
 (1) Any person (other than the offender) may make an application for relief from an instrument forfeiture order.
