@@ -1,5 +1,5 @@
 # Local Government Official Information and Meetings Act 1987
-_Consolidation as at 2022-11-30_
+_Consolidation as at 2023-07-27_
 
 > An Act to make official information held by local authorities more freely available, to provide for proper access by each person to official information relating to that person which is held by local authorities, to provide for the admission of the public to meetings of local authorities, to protect official information held by local authorities and the deliberations of local authorities to the extent consistent with the public interest and the preservation of personal privacy, and to establish procedures for the achievement of those purposes
 
@@ -83,8 +83,12 @@ The question whether any official information is to be made available, where tha
 
 ### 6 Conclusive reasons for withholding official information
 Good reason for withholding official information exists, for the purpose of section 5, if the making available of that information would be likely—
-  (a) to prejudice the maintenance of the law, including the prevention, investigation, and detection of offences, and the right to a fair trial; or
-  (b) to endanger the safety of any person.
+  (a) to prejudice the security or defence of New Zealand or the international relations of the Government of New Zealand; or
+  (b) to prejudice the entrusting of information to the Government of New Zealand on a basis of confidence by—
+    (i) the Government of another country or an agency of that Government; or
+    (ii) any international organisation (as defined in section 2(1) of the Official Information Act 1982); or
+  (c) to prejudice the maintenance of the law, including the prevention, investigation, and detection of offences, and the right to a fair trial; or
+  (d) to endanger the safety of any person.
 
 ### 7 Other reasons for withholding official information
 (1) Where this section applies, good reason for withholding official information exists, for the purpose of section 5, unless, in the circumstances of the particular case, the withholding of that information is outweighed by other considerations which render it desirable, in the public interest, to make that information available.
@@ -100,7 +104,7 @@ Good reason for withholding official information exists, for the purpose of sect
   (d) avoid prejudice to measures protecting the health or safety of members of the public; or
   (e) avoid prejudice to measures that prevent or mitigate material loss to members of the public; or
   (f) maintain the effective conduct of public affairs through—
-    (i) the free and frank expression of opinions by or between or to members or officers or employees of any local authority, or any persons to whom section 2(5) applies, in the course of their duty; or
+    (i) the free and frank expression of opinions by or between or to members or officers or employees of any local authority in the course of their duty; or
     (ii) the protection of such members, officers, employees, and persons from improper pressure or harassment; or
   (g) maintain legal professional privilege; or
   (h) enable any local authority holding the information to carry out, without prejudice or disadvantage, commercial activities; or
@@ -368,7 +372,10 @@ Where an Ombudsman investigates a complaint made under section 27 in relation to
 (3) Except as provided in subsection (1), nothing in section 22 of the Ombudsmen Act 1975 shall apply in respect of a decision that may be investigated and reviewed under section 27(1) or section 27(2) of this Act.
 
 ### 31 Disclosure of certain information not to be recommended
-Where the Attorney-General certifies that the making available of any information would be likely to prejudice the prevention, investigation, or detection of offences, an Ombudsman shall not recommend that the information be made available, but may recommend that the making available of the information be given further consideration by the appropriate local authority.
+(1) An Ombudsman must not recommend that information be made available if—
+  (a) the Prime Minister certifies that making the information available would be likely to prejudice the security or defence of New Zealand or the international relations of the Government of New Zealand; or
+  (b) the Attorney-General certifies that making the information available would be likely to prejudice the prevention, investigation, or detection of offences.
+(2) However, the Ombudsman may recommend that the appropriate local authority give further consideration to making the information available.
 
 ### 32 Recommendations made to local authorities
 (1) Where a recommendation is made under section 30(1) to a local authority, a public duty to observe that recommendation shall be imposed on that local authority on the commencement of the 21st working day after the day on which that recommendation is made to the local authority unless, before that day, the local authority, by resolution made at a meeting of that local authority, decides otherwise and records that decision in writing.
