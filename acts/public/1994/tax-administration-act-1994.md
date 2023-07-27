@@ -1,5 +1,5 @@
 # Tax Administration Act 1994
-_Consolidation as at 2023-04-01_
+_Consolidation as at 2023-07-27_
 
 > An Act to reorganise and consolidate the law relating to the Inland Revenue Department and the administration of income tax matters
 
@@ -8113,7 +8113,7 @@ The due date for payment, by a member of a large multinational group, of a penal
   (d) claims, under section 20(3) of the Goods and Services Tax Act 1985, more than 1 amount of input tax for a taxable supply to the person, resulting in a total amount of input tax claimed by the person for the taxable supply that exceeds the output tax charged to the person for the taxable supply.
 (1B) No person who is a trustee of a foreign trust may be convicted of an offence against subsection (1)﻿(a) for not keeping documents required to be kept under section 22 if the person proves that—
   (a) the person did not know of the requirements of section 22:
-  (b) another trustee has been appointed under section 22(2C) as agent of the resident foreign trustees for the purposes of section 22 and the Commissioner has been notified of the appointment.
+  (b) another trustee has been appointed under section 22(2C) as agent of the trustees for the purposes of section 22 and the Commissioner has been notified of the appointment.
 (1C) No person who is a trustee of a foreign exemption trust may be convicted of an offence against subsection (1)﻿(b) for not disclosing information required to be disclosed under section 59B or 59D if the person proves that the person did not know of the requirements of the section.
 (2) No person may be convicted of an offence against subsection (1)﻿(b) for not providing information (other than tax returns and tax forms) to the Commissioner if the person proves that, as and when the person was required by the Commissioner to provide the information—
   (a) the person did not have the information in the person's knowledge, possession or control; and
@@ -10226,6 +10226,11 @@ Section 18 does not prevent the Commissioner disclosing to the chief executive o
 (2) This clause authorises the exchange of information between the Inland Revenue Department and the department for the time being responsible for the administration of the New Zealand Business Number Act 2016 to ensure that the correct primary business data (as defined in section 20(2) of that Act) for businesses and New Zealand Business Numbers is provided for inclusion in the New Zealand Business Number Register.
 (3) For the purposes of subclause (2), the Commissioner may supply an authorised officer of the department for the time being responsible for the administration of the New Zealand Business Number Act 2016 information concerning primary business data to verify the correctness of the information to be included in the New Zealand Business Number Register.
 (4) In this clause, authorised officer, in relation to the responsible department, means any officer, employee, or agent of that department who is authorised by the chief executive of that department to receive information supplied by the Commissioner under this clause.
+
+### 25B Business, Innovation, and Employment: Registrar of Business Payment Practices
+Section 18 does not prevent the Commissioner disclosing information to the Registrar of Business Payment Practices for the following purposes:
+  (a) establishing and maintaining the register under the Business Payment Practices Act 2023:
+  (b) monitoring compliance with the requirements of that Act (under which certain entities must disclose their payment practices information).
 
 ### 26 Agencies for workplace safety
 Section 18 does not prevent the Commissioner communicating to a person who is an officer or employee of the Ministry of Business, Innovation and Employment, WorkSafe New Zealand, or an agency designated under section 191 of the Health and Safety at Work Act 2015, information that—
