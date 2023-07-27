@@ -1,5 +1,5 @@
 # Mutual Assistance in Criminal Matters Act 1992
-_Consolidation as at 2021-10-28_
+_Consolidation as at 2023-07-27_
 
 > An Act to facilitate the provision and obtaining of international assistance in criminal matters
 
@@ -118,6 +118,12 @@ _Consolidation as at 2021-10-28_
 (2) The things referred to in subsection (1) are—
   (a) tainted property (as defined in relation to Part 2); or
   (b) property of a person who has unlawfully benefited from significant criminal activity.
+(2A) An investigation certified by the Attorney-General to have commenced in New Zealand relating to the restraint or forfeiture of property must be treated as a criminal investigation for the purposes of Part 2 if the property—
+  (a) is, or is proposed to be, the subject of an application for—
+    (i) a restraining order under section 24A of the Criminal Proceeds (Recovery) Act 2009 (the CPR Act); or
+    (ii) a type 2 assets forfeiture order (within the meaning of the CPR Act); or
+  (b) is the subject of a restraining order under section 24A of the CPR Act.
+(2B) Subsection (2A) applies despite the related proceedings being civil in nature.
 (3) An investigation in a foreign country certified by the Central Authority for that country to have commenced in that country relating to the restraint or forfeiture of property that is, or is suspected on reasonable grounds to be or to be likely to be, any of the things referred to in subsection (4) must be treated as a criminal investigation for the purposes of Part 3 despite the related proceedings being civil in nature.
 (4) The things referred to in subsection (3) are—
   (a) tainted property (as defined in relation to Part 3); or
@@ -131,6 +137,9 @@ _Consolidation as at 2021-10-28_
 (2) The things referred to in subsection (1) are—
   (a) tainted property (as defined in relation to Part 2); or
   (b) property of a person who has unlawfully benefited from significant criminal activity.
+(2A) A proceeding certified by the Attorney-General to have been instituted in respect of the forfeiture or restraint of property by way of an application for any of the following orders must be treated as a criminal proceeding for the purposes of Part 2 despite being civil in nature:
+  (a) a restraining order under section 24A of the Criminal Proceeds (Recovery) Act 2009:
+  (b) a type 2 assets forfeiture order (within the meaning of that Act).
 (3) A proceeding certified by the Central Authority of the requesting country to have been instituted in respect of the forfeiture or restraint of property that is, or is suspected on reasonable grounds to be or to be likely to be, any of the things referred to in subsection (4) must be treated as a criminal proceeding despite being civil in nature.
 (4) The things referred to in subsection (3) are—
   (a) tainted property (as defined in relation to Part 3); or
