@@ -1,5 +1,5 @@
 # Criminal Proceeds (Recovery) Act 2009
-_Consolidation as at 2023-04-01_
+_Consolidation as at 2023-07-27_
 
 ### 1 Title
 This Act is the Criminal Proceeds (Recovery) Act 2009.
@@ -46,11 +46,15 @@ This Act comes into force on 1 December 2009.
 ### 5 Interpretation
 (1) In this Act, unless the context otherwise requires,—
   - **all or part of a respondent’s property** means all or part of the property in which an identifiable respondent has an interest
-  - **assets forfeiture order** means an order made under section 50(1)
+  - **assets forfeiture order** means—
+    (a) a type 1 assets forfeiture order; or
+    (b) a type 2 assets forfeiture order
+  - **associate** , in relation to a member of or participant in an organised criminal group, has the meaning given to it in section 5A
   - **benefit** includes proceeds and property
   - **civil forfeiture order** means an assets forfeiture order or a profit forfeiture order
   - **Commissioner** means the Commissioner of Police
   - **convert** means, in relation to property, to change it from one form to another, whether by sale or by some other means (for example, selling a car and buying a boat with the proceeds of the sale)
+  - **convertible legitimate property** of a respondent has the meaning given to it in section 5B
   - **dealing with** , in relation to property,—
     (a) means to use or deal with property in any way and by any means; and
     (b) includes,—
@@ -59,6 +63,7 @@ This Act comes into force on 1 December 2009.
       (iii) receiving or making a gift of property; and
       (iv) registering an interest in property
   - **department** has the same meaning as in section 5 of the Public Service Act 2020
+  - **disclosure of source order** means an order made under section 109A(1)
   - **document** —
     (a) means a document in any form (including, without limitation, a document in an electronic form); and
     (b) includes (without limitation) any of the following:
@@ -68,6 +73,7 @@ This Act comes into force on 1 December 2009.
       (iv) labels, markings, or other writing that identifies or describes any thing of which it forms part, or to which it is attached by any means:
       (v) books, maps, plans, graphs, or drawings:
       (vi) photographs, films, negatives, tapes, or any other device in which 1 or more visual images are embodied so as to be capable (with or without the aid of some other equipment) of being reproduced
+  - **exempt proportion** , in relation to specific property of a respondent, has the meaning given to it in section 5B
   - **financial institution** means either a person within the meaning of financial institution as defined in section 3 of the Financial Transactions Reporting Act 1996 or as defined in section 5 of the Anti-Money Laundering and Countering Financing of Terrorism Act 2009
   - **foreign country** has the same meaning as in section 2(1) of the Mutual Assistance in Criminal Matters Act 1992
   - **foreign forfeiture order** has the same meaning as in section 2(1) of the Mutual Assistance in Criminal Matters Act 1992
@@ -88,8 +94,10 @@ This Act comes into force on 1 December 2009.
     (b) a right, power, or privilege in connection with the property
   - **interim foreign restraining order** means an order applied for under section 128
   - **lawyer** means a lawyer within the meaning of section 6 of the Lawyers and Conveyancers Act 2006
+  - **legitimate property** of a respondent has the meaning given to it in section 5B
   - **Official Assignee** means the Official Assignee of New Zealand
   - **organisation** means an organisation listed in Part 2 of Schedule 1 of the Ombudsmen Act 1975
+  - **organised criminal group** has the meaning given to it in section 5A
   - **profit forfeiture order** means an order made under section 55
   - **property** —
     (a) means real or personal property of any kind—
@@ -114,24 +122,63 @@ This Act comes into force on 1 December 2009.
     (a) in relation to an application for a restraining order or forfeiture order, the person identified in that application as the respondent (if any); and
     (b) in relation to a restraining order or forfeiture order that has been made, the person in relation to whom that order is made (if any)
   - **restrained property** means property that is the subject of a restraining order
-  - **restraining order** means an order made under section 24, 25, or 26
+  - **restraining order** means an order made under section 24, 24A, 25, or 26
   - **significant criminal activity** has the meaning given to it in section 6
   - **significant foreign criminal activity** has the same meaning as in section 2(1) of the Mutual Assistance in Criminal Matters Act 1992
-  - **specific property** means identifiable property in relation to which there may, but need not, be a person who is an identifiable owner
+  - **specific property** means identifiable property in relation to which there may, but need not, be a person who is an identifiable owner (subject to section 13)
   - **tainted property** —
     (a) means any property that has, wholly or in part, been—
       (i) acquired as a result of significant criminal activity; or
       (ii) directly or indirectly derived from significant criminal activity; and
     (b) includes any property that has been acquired as a result of, or directly or indirectly derived from, more than 1 activity if at least 1 of those activities is a significant criminal activity
+  - **threshold amount** , for the purposes of sections 6(1)﻿(b), 24A(1)﻿(d) and (e), and 50C(1)﻿(d) and (e), means $30,000 or a prescribed amount that exceeds $30,000
+  - **type 1 assets forfeiture order** means an order made under section 50
+  - **type 2 assets forfeiture order** means an order made under section 50C
   - **unlawfully benefited from significant criminal activity** has the meaning given to it in section 7.
 (2) A reference in this Act to benefits, proceeds, or property being derived by a person (person A) includes benefits, proceeds, or property derived—
   (a) directly or indirectly by person A; and
   (b) by another person at the request or direction of person A.
 
+### 5A Meanings of associate and organised criminal group
+Meaning of associate
+(1) In this Act, unless the context otherwise requires, associate, in relation to a member of or participant in an organised criminal group,—
+  (a) means a person who—
+    (i) is associated with the member or participant; and
+    (ii) is not a mere acquaintance of the member or participant; and
+  (b) includes another member of or participant in the organised criminal group (whether or not a mere acquaintance of the member or participant).
+(2) For the purposes of subsection (1), a person is capable of being a participant in an organised criminal group whether or not the person shares the objective or objectives described in subsection (3) of the persons comprising the group.
+Meaning of organised criminal group
+(3) In this Act, unless the context otherwise requires, organised criminal group means a group of 3 or more people who have as their objective, or one of their objectives, obtaining a material benefit from significant criminal activity.
+(4) In subsection (3), obtaining a material benefit from significant criminal activity means obtaining, directly or indirectly, any privilege, pecuniary advantage, property, or other valuable consideration of any kind for—
+  (a) engaging in that activity; or
+  (b) doing any thing that forms part of engaging in that activity.
+(5) For the purposes of subsection (3), a group of persons is capable of being an organised criminal group whether or not—
+  (a) some of the persons in the group are subordinates or employees of others in the group; or
+  (b) only some of the people involved in the group at a particular time are involved in the planning, arrangement, or execution at that time of any particular action, activity, or transaction; or
+  (c) the membership of the group changes from time to time.
+
+### 5B Meanings of legitimate property, convertible legitimate property, and exempt proportion
+Meaning of legitimate property
+(1) In this Act, unless the context otherwise requires, legitimate property of a respondent—
+  (a) means all property acquired by the respondent, including—
+    (i) any property gifted or loaned to the respondent (including money available to the respondent by way of credit); and
+    (ii) any property acquired by the respondent through another person acting for, on behalf of, or for the benefit of the respondent; but
+  (b) does not include any property acquired as a result of, or directly or indirectly derived from, an activity that is engaged in by the respondent or any other person and is an offence.
+(2) For the purposes of subsection (1)﻿(b), a person engages in an activity that is an offence whether or not—
+  (a) they have been charged with or convicted of an offence in connection with the activity; or
+  (b) they have been acquitted of an offence in connection with the activity; or
+  (c) their conviction for an offence in connection with the activity has been quashed or set aside.
+Meaning of convertible legitimate property
+(3) In this Act, unless the context otherwise requires, a respondent’s convertible legitimate property, for their acquisition of specific property,—
+  (a) is property that, at the relevant time before the acquisition, was the respondent’s legitimate property that they were readily able to use for the acquisition; but
+  (b) excludes any of that legitimate property that they did not use for the acquisition.
+Meaning of exempt proportion
+(4) In this Act, unless the context otherwise requires, exempt proportion, in relation to specific property of a respondent, means the proportion of the value of the specific property that they would have been able to acquire for reasonable market value if they had used only their convertible legitimate property for that acquisition.
+
 ### 6 Meaning of significant criminal activity
 (1) In this Act, unless the context otherwise requires, significant criminal activity means an activity engaged in by a person that if proceeded against as a criminal offence would amount to offending—
   (a) that consists of, or includes, 1 or more offences punishable by a maximum term of imprisonment of 5 years or more; or
-  (b) from which property, proceeds, or benefits of a value of $30,000 or more have, directly or indirectly, been acquired or derived.
+  (b) from which property, proceeds, or benefits of a value of the threshold amount or more have, directly or indirectly, been acquired or derived.
 (2) A person is undertaking an activity of the kind described in subsection (1) whether or not—
   (a) the person has been charged with or convicted of an offence in connection with the activity; or
   (b) the person has been acquitted of an offence in connection with the activity; or
@@ -183,27 +230,45 @@ Property may, but need not, be restrained property or foreign restrained propert
 
 ### 13 No identifiable owner required for certain proceedings relating to specific property
 (1) In proceedings for a restraining order or an assets forfeiture order relating to specific property, an owner of that specific property need not be identified.
-(2) Subsection (1) does not apply to proceedings to register a foreign restraining order.
+(2) Subsection (1) does not apply to—
+  (a) proceedings for an order made under section 24A or a type 2 assets forfeiture order; or
+  (b) proceedings to register a foreign restraining order.
 
 ### 14 Differing grounds for restraining and later forfeiting property
 If proceedings for a forfeiture order or to register a foreign forfeiture order in New Zealand involve restrained property or property that was the subject of a foreign restraining order registered in New Zealand, the forfeiture order or the registration of a foreign forfeiture order may be sought on grounds that differ from those on which the restraining order was made or the foreign restraining order was registered.
 
 ### 15 No criminal proceedings required for civil forfeiture order or in registering foreign forfeiture order
-The significant criminal activity or significant foreign criminal activity on which a civil forfeiture order or registration of a foreign forfeiture order in New Zealand is based does not need to be, or to have been, the subject of any criminal proceedings in New Zealand or a foreign country.
+(1) The significant criminal activity or significant foreign criminal activity on which a civil forfeiture order or registration of a foreign forfeiture order in New Zealand is based does not need to be, or to have been, the subject of any criminal proceedings in New Zealand or a foreign country.
+(2) In this section, the significant criminal activity on which a type 2 assets forfeiture order is to be treated as being based is significant criminal activity in which any persons (as members of or participants in the organised criminal group that is referred to in section 50C(1)﻿(a)) have been involved at any time.
 
 ### 16 Quashing criminal proceedings does not impact on civil forfeiture
 (1) Subsection (2) applies if criminal proceedings are commenced or pending or have been withdrawn or determined in respect of any significant criminal activity that is the basis for—
   (a) an assets forfeiture order or a profit forfeiture order; or
   (b) an application for an order of that kind.
 (2) If this subsection applies, the order or application is not affected by the criminal proceedings, even if any conviction entered in those proceedings is or has been quashed or set aside.
+(3) In this section, significant criminal activity is to be treated as the basis for a type 2 assets forfeiture order or an application for an order of that kind if it is significant criminal activity in which any persons (as members of or participants in the organised criminal group that is referred to in section 50C(1)﻿(a)) have been involved at any time.
 
 ### 17 Multiple forfeiture orders and foreign forfeiture orders
 (1) Nothing in this Act restricts a court from making 1 or more of the following types of orders in relation to the same instance of significant criminal activity:
-  (a) assets forfeiture orders:
+  (a) type 1 assets forfeiture orders:
   (b) instrument forfeiture orders:
   (c) profit forfeiture orders.
 (2) Subsection (1) is subject to section 54(1)﻿(b).
 (3) Nothing in this Act restricts a court from registering 1 or more foreign forfeiture orders in New Zealand in relation to the same instance of significant foreign criminal activity.
+
+### 17A Court may treat effective control over property as interest in property
+(1) If the High Court is satisfied that a respondent has effective control over property, the Court may, on an application made by the Commissioner, order that the property is to be treated as though the respondent had an interest in the property specified by the Court.
+(2) An order under subsection (1) may—
+  (a) be made even if the respondent has no interest in the property; and
+  (b) specify an interest that differs from the interest that the respondent has in the property.
+(3) Without limiting the generality of subsections (1) and (2), the Court may have regard to—
+  (a) shareholdings in, debentures over, or directorships of, any company that has an interest (whether direct or indirect) in the property; and
+  (b) any trust that has a relationship to the property; and
+  (c) family, domestic, and business relationships between persons having an interest in the property or in companies of the kind referred to in paragraph (a) or in trusts of the kind referred to in paragraph (b), and any other persons.
+(4) Property that is subject to an order under subsection (1) may be included in any restraining order, any type 2 assets forfeiture order, or any profit forfeiture order that is made against the respondent.
+(5) If the Commissioner applies for an order under subsection (1),—
+  (a) the Commissioner must, so far as it is practicable to do so, serve notice of the application on the respondent and on any person who, to the knowledge of the Commissioner, has an interest in the property; and
+  (b) the respondent and any other person who claims an interest in the property are entitled to appear and to adduce evidence at the hearing of the application.
 
 ### Subpart 2 — Restraining orders
 
@@ -211,7 +276,7 @@ The significant criminal activity or significant foreign criminal activity on wh
 
 ### 18 Applying for restraining order
 The following persons may apply for a restraining order:
-  (a) the Commissioner may apply for a restraining order of the kind described in section 24 or 25 (which relate to restraining specific property or all or part of a respondent’s property):
+  (a) the Commissioner may apply for a restraining order of the kind described in section 24, 24A, or 25 (which relate to restraining specific property or all or part of a respondent’s property):
   (b) a prosecutor may apply for a restraining order of the kind described in section 26 (which relates to restraining an instrument of crime).
 
 ### 19 Application for restraining order to identify proposed restrained property, respondent (if any), and interest holders
@@ -222,7 +287,7 @@ An application for a restraining order must identify the following:
 
 ### 20 Court to which application for restraining order made
 An application for a restraining order must be made to,—
-  (a) in the case of an application made under section 24 or 25, the High Court; and
+  (a) in the case of an application made under section 24, 24A, or 25, the High Court; and
   (b) in the case of an application made under section 26,—
     (i) the High Court, if the offence with which the instrument of crime is associated is for a category 4 offence, or if an order has been made under section 68 or 70 of the Criminal Procedure Act 2011 transferring the proceedings in relation to the offence to the High Court:
     (ii) the District Court, if subparagraph (i) does not apply.
@@ -251,11 +316,34 @@ An application for a restraining order must be made to,—
 
 **Making restraining orders**
 
-### 24 Making restraining order relating to specific property
+### 24 Making restraining order relating to specific property that is potentially tainted
 (1) A court hearing an application for a restraining order relating to specific property may, if the court is satisfied it has reasonable grounds to believe that any property is tainted property, make an order that the property (restrained property)—
   (a) is not to be disposed of, or dealt with, other than is provided for in the restraining order; and
   (b) is to be under the Official Assignee’s custody and control.
 (2) A restraining order may be made under subsection (1) whether or not there is a respondent in relation to whom the restraining order relates.
+
+### 24A Making restraining order relating to specific property of associates of certain persons connected to organised criminal group
+Grounds and making of order
+(1) A court hearing an application for a restraining order relating to specific property of the respondent may make an order under this section if satisfied that it has reasonable grounds to believe each of the following:
+  (a) when the respondent acquired the specific property, the respondent was an associate of 1 or more members of or participants in an organised criminal group:
+  (b) all or any of those members or participants have, as members of or participants in the group,—
+    (i) been involved in significant criminal activity at any time; or
+    (ii) unlawfully benefited from significant criminal activity at any time:
+  (c) the respondent’s convertible legitimate property for their acquisition of the specific property would have been insufficient to enable them to acquire the specific property at or near reasonable market value:
+  (d) if the application relates to a single item of specific property, the amount calculated in accordance with the formula is at least the threshold amount:
+  (e) if the application relates to more than 1 item of specific property, the sum of the amounts calculated in accordance with the formula for each item of specific property is at least the threshold amount.
+(2) The formula is—x − ywhere—xis the reasonable market value of the specific property when the application was madeyis the value represented by the exempt proportion of the specific property when the application was made.
+(3) The restraining order that the court may make is an order that the property to which it applies (the restrained property)—
+  (a) is not to be disposed of, or dealt with, other than as provided for in the restraining order; and
+  (b) is to be under the Official Assignee’s custody and control.
+Formal valuation not required and estimate of relevant values sufficient
+(4) In an application made for the purposes of this section, the Commissioner is not required to provide the court with any formal valuation, and may provide estimates, as evidence of any of the following (the relevant property values):
+  (a) the value of any property that the Commissioner alleges is the respondent’s convertible legitimate property for the respondent’s acquisition of the specific property to which the application relates:
+  (b) the value of any property, at the relevant time before the respondent acquired the specific property, that the Commissioner alleges is excluded by paragraph (b) of the definition of convertible legitimate property in section 5B(3):
+  (c) the reasonable market value of specific property at the following dates:
+    (i) the date on which it was acquired by the respondent:
+    (ii) the date of the application.
+(5) For the purposes of this section, the court may rely on estimates provided by the Commissioner as evidence of the relevant property values.
 
 ### 25 Making restraining order relating to all or part of respondent’s property
 (1) A court hearing an application for a restraining order relating to all or part of a respondent’s property may, if the court is satisfied it has reasonable grounds to believe that the respondent has unlawfully benefited from significant criminal activity, make an order that the property it specifies in the order (restrained property)—
@@ -317,10 +405,11 @@ An application for a restraining order must be made to,—
 (2) The court must exclude a severable interest from proposed restrained property or restrained property at, or after, the time a restraining order is made if the applicant proves on the balance of probabilities—
   (a) that the applicant has an interest in the property to which the restraining order relates; and
   (b) if the order was or is to be made under section 24 or 25, that the applicant has not unlawfully benefited from the significant criminal activity to which the restraining order relates; and
+  (ba) if the order was or is to be made under section 24A, that the applicant has not unlawfully benefited from significant criminal activity in which any persons (as members of or participants in the organised criminal group that is referred to in section 24A(1)﻿(a)) have been involved at any time; and
   (c) if the order was or is to be made under section 26, that the applicant was not involved in the qualifying instrument forfeiture offence to which the restraining order relates.
 (3) The court may exclude a severable interest from proposed restrained property or restrained property at, or after, the time a restraining order is made if it considers that it is in the public interest to do so, having regard to all the circumstances, including, without limitation,—
   (a) any undue hardship that is reasonably likely to be caused to any person by the severable interest in property being made or having been made restrained property:
-  (b) the gravity of the significant criminal activity or qualifying instrument forfeiture offence with which the property in which the person has a severable interest is associated:
+  (b) the gravity of any significant criminal activity or the qualifying instrument forfeiture offence with which the property in which the person has a severable interest is associated:
   (c) the likelihood that the interest will become subject to a forfeiture order.
 
 ### 31 Excluding severable interest from restrained property when applicant mortgagee
@@ -479,10 +568,10 @@ The following persons are entitled to appear and to adduce evidence at the heari
   (b) proceedings for the application to which the entry relates are discontinued for any reason (including, without limitation, because the application is withdrawn); or
   (c) the application to which the entry relates is amended so as to exclude the property in respect of which the entry is made.
 
-**Application for assets forfeiture order**
+**Type 1 assets forfeiture order: application and making**
 
-### 49 Application for assets forfeiture order to specify proposed forfeited property, grounds, respondent (if any), and persons with interests (if known)
-The Commissioner must specify the following in an application for an assets forfeiture order:
+### 49 Contents of application for type 1 assets forfeiture order
+The Commissioner must specify the following in an application for a type 1 assets forfeiture order:
   (a) the property that the Commissioner alleges is tainted property; and
   (b) the grounds for the Commissioner's belief that the property is tainted property; and
   (c) the respondent (if any); and
@@ -490,26 +579,85 @@ The Commissioner must specify the following in an application for an assets forf
 
 **Making assets forfeiture order**
 
-### 50 Making assets forfeiture order
-(1) If, on an application for an assets forfeiture order, the High Court is satisfied on the balance of probabilities that specific property is tainted property, the Court must make an assets forfeiture order in respect of that specific property.
+### 50 Making type 1 assets forfeiture order
+(1) If, on an application for a type 1 assets forfeiture order, the High Court is satisfied on the balance of probabilities that specific property is tainted property, the Court must make a type 1 assets forfeiture order in respect of that specific property.
 (2) Subsection (1) is subject to section 51.
-(3) The Court must specify in an assets forfeiture order the property to which the order applies and that the property—
+(2A) The specific property is presumed to be tainted property if the Commissioner shows, on the balance of probabilities, that the respondent was served with a disclosure of source order in relation to that property and that the respondent—
+  (a) failed to comply with the order; or
+  (b) in purported compliance with the order, made a statement that is false or misleading in a material particular.
+(2B) The presumption may be rebutted if the respondent shows, on the balance of probabilities, that—
+  (a) the respondent had a reasonable excuse for failing to comply with the order or for making the false or misleading statement (as the case may be); or
+  (b) the specific property is not tainted property.
+(2C) The presumption applies (so long as it is not rebutted) whether or not the respondent has been convicted of an offence against section 152.
+(2D) The presumption does not apply if the Court is satisfied that it would not be in the interests of justice for the presumption to apply.
+(3) The Court must specify in a type 1 assets forfeiture order the property to which the order applies and that the property—
   (a) vests in the Crown absolutely; and
   (b) is in the custody and control of the Official Assignee.
-(4) Despite subsection (1), the Court may not make an assets forfeiture order in relation to property that no person has claimed an interest in, unless the Court is satisfied, on the balance of probabilities, of the following additional matters:
+(4) Despite subsection (1), the Court may not make a type 1 assets forfeiture order in relation to property that no person has claimed an interest in, unless the Court is satisfied, on the balance of probabilities, of the following additional matters:
   (a) that a restraining order was earlier made in relation to the same property; and
   (b) that the restraining order has been in place for a period of at least 1 year; and
   (c) that the Commissioner has contacted or made all reasonable efforts to contact any person the Commissioner believes may have an interest in the property.
-(5) If any property that is land is vested in the Crown absolutely as a consequence of an assets forfeiture order made under subsection (3), an interest recorded on the title to the land that is not affected by the assets forfeiture order is not extinguished.
+(5) If any property that is land is vested in the Crown absolutely as a consequence of a type 1 assets forfeiture order made under subsection (3), an interest recorded on the title to the land that is not affected by the type 1 assets forfeiture order is not extinguished.
+
+**Type 2 assets forfeiture order: application and making**
+
+### 50A Contents of application for type 2 assets forfeiture order
+(1) The Commissioner must specify each of the following in an application for a type 2 assets forfeiture order:
+  (a) the respondent:
+  (b) the specific property of the respondent to which the application relates:
+  (c) the reasonable market value of the specific property, as determined by the Commissioner, at the following dates:
+    (i) the date on which it was acquired by the respondent:
+    (ii) the date of the application:
+  (d) the property that the Commissioner alleges was the respondent’s convertible legitimate property for the respondent’s acquisition of the specific property (see section 50B):
+  (e) the value of the alleged convertible legitimate property, as determined by the Commissioner, at the relevant time before the respondent acquired the specific property:
+  (f) the property that the Commissioner alleges is excluded legitimate property:
+  (g) the value of the alleged excluded legitimate property, as determined by the Commissioner, at the relevant time before the respondent acquired the specific property:
+  (h) any persons other than the respondent who, to the knowledge of the Commissioner, have an interest in the specific property to which the application relates.
+(2) In this section, excluded legitimate property means property of the respondent that is excluded by paragraph (b) of the definition of convertible legitimate property in section 5B(3).
+
+### 50B Convertible legitimate property presumed to be property stated in application
+(1) For the purposes of section 50C (including when determining the exempt proportion of specific property of the respondent), the respondent’s convertible legitimate property for their acquisition of specific property is presumed to consist of the property that the application for the type 2 assets forfeiture order states is that convertible legitimate property.
+(2) However, that presumption may be rebutted by the respondent to the extent that the respondent satisfies the court, on the balance of probabilities, that the respondent’s convertible legitimate property for the acquisition consisted of—
+  (a) some or all of the property stated in the application and other property; or
+  (b) other property not stated in the application.
+
+### 50C Making type 2 assets forfeiture order
+(1) The High Court must make a type 2 assets forfeiture order, in respect of specific property of a respondent to which an application for the order relates, if satisfied, on the balance of probabilities, that,—
+  (a) when the respondent acquired the specific property, the respondent was an associate of 1 or more members of or participants in an organised criminal group; and
+  (b) all or any of those members or participants have, as members of or participants in the group,—
+    (i) been involved in significant criminal activity at any time; or
+    (ii) unlawfully benefited from significant criminal activity at any time; and
+  (c) the respondent’s convertible legitimate property for their acquisition of the specific property would have been insufficient to enable them to acquire the specific property at or near reasonable market value; and
+  (d) if the application relates to a single item of specific property, the amount calculated in accordance with the formula is at least the threshold amount; and
+  (e) if the application relates to more than 1 item of specific property, the sum of the amounts calculated in accordance with the formula for each item of specific property is at least the threshold amount.
+(2) However, the Court must not make a type 2 assets forfeiture order in respect of specific property if—
+  (a) the respondent satisfies the Court, on the balance of probabilities, that the specific property is not tainted property; or
+  (b) the Court is satisfied that it would not be in the interests of justice to make the order.
+(3) See also section 51 (exclusion of respondent’s property from assets forfeiture order because of undue hardship) and sections 61 to 69 (which relate to relief from a civil forfeiture order for persons other than a respondent).
+(4) The formula is—x − ywhere—xis the reasonable market value of the specific property when the application was madeyis the value represented by the exempt proportion of the specific property when the application was made.
+
+### 50D Matters to be specified in type 2 assets forfeiture order
+(1) The Court must specify in a type 2 assets forfeiture order the specific property to which the order applies (the subject property) and that the subject property—
+  (a) vests in the Crown absolutely to the extent of the interest specified in the order; and
+  (b) is in the custody and control of the Official Assignee.
+(2) The interest that vests in the Crown is to be expressed as a proportion of the value of the subject property that remains after excluding the exempt proportion (if any) of that property.
+(3) To the extent that the respondent satisfies the Court, on the balance of probabilities, that a proportion of the value of the subject property is not attributable to significant criminal activity,—
+  (a) that proportion is to be treated as the exempt proportion for the purpose of subsection (2); and
+  (b) the definition in section 5B(4) does not apply for that purpose.
+(4) The proportion of the value that is not attributable to significant criminal activity is the proportion of that value that—
+  (a) was not acquired by the respondent as a result of significant criminal activity engaged in by any person; and
+  (b) was not directly or indirectly derived by the respondent from significant criminal activity engaged in by any person.
+
+**Exclusion from type 1 or type 2 assets forfeiture order**
 
 ### 51 Exclusion of respondent’s property from assets forfeiture order because of undue hardship
 (1) The High Court may, on an application made by the respondent before an assets forfeiture order is made, exclude certain property from an assets forfeiture order if it considers that, having regard to all of the circumstances, undue hardship is reasonably likely to be caused to the respondent if the property is included in the assets forfeiture order.
 (2) The circumstances the Court may have regard to under subsection (1) include, without limitation,—
   (a) the use that is ordinarily made, or was intended to be made, of the property that is, or is proposed to be, the subject of the assets forfeiture order; and
   (b) the nature and extent of the respondent’s interest in the property; and
-  (c) the circumstances of the significant criminal activity to which the order relates.
+  (c) in the case of a type 1 assets forfeiture order, the circumstances of the significant criminal activity to which the order relates.
 
-**Application for profit forfeiture order**
+**Profit forfeiture order: application and making**
 
 ### 52 Contents of application for profit forfeiture order
 An application for a profit forfeiture order must—
@@ -529,9 +677,9 @@ An application for a profit forfeiture order must—
 ### 54 High Court must determine maximum recoverable amount
 (1) Before the High Court makes a profit forfeiture order, the Court must determine the maximum recoverable amount by—
   (a) taking the value of the benefit determined in accordance with section 53; and
-  (b) deducting from that the value of any property forfeited to the Crown as a result of an assets forfeiture order made in relation to the same significant criminal activity to which the profit forfeiture order relates.
+  (b) deducting from that the value of any property forfeited to the Crown as a result of a type 1 assets forfeiture order made in relation to the same significant criminal activity to which the profit forfeiture order relates.
 (2) In determining the value of any property under subsection (1)﻿(b), the Court may, at its own discretion or at the request of either party to the proceedings, seek an independent valuation as to the value of the property.
-(3) If an assets forfeiture order relating to a determination under this section is discharged on appeal, the Court may, on application by the Commissioner, vary the maximum recoverable amount in the profit forfeiture order to reflect that there is no longer a deduction to be made on account of the assets forfeiture order.
+(3) If a type 1 assets forfeiture order relating to a determination under this section is discharged on appeal, the Court may, on application by the Commissioner, vary the maximum recoverable amount in the profit forfeiture order to reflect that there is no longer a deduction to be made on account of the type 1 assets forfeiture order.
 
 ### 55 Making profit forfeiture order
 (1) The High Court must make a profit forfeiture order if it is satisfied on the balance of probabilities that—
@@ -560,20 +708,6 @@ An application for a profit forfeiture order must—
   (a) is unable to be found; or
   (b) by reason of being outside New Zealand, is not amenable to justice.
 
-### 58 Court may treat effective control over property as interest in property
-(1) If the High Court is satisfied that a respondent has effective control over property, the Court may, on an application made by the Commissioner, order that the property is to be treated as though the respondent had an interest in the property specified by the Court.
-(2) An order under subsection (1) may—
-  (a) be made even if the respondent has no interest in the property; and
-  (b) specify an interest that differs from the interest that the respondent has in the property.
-(3) Without limiting the generality of subsections (1) and (2), the Court may have regard to—
-  (a) shareholdings in, debentures over, or directorships of, any company that has an interest (whether direct or indirect) in the property; and
-  (b) any trust that has a relationship to the property; and
-  (c) family, domestic, and business relationships between persons having an interest in the property or in companies of the kind referred to in paragraph (a) or in trusts of the kind referred to in paragraph (b), and any other persons.
-(4) Property that is subject to an order under subsection (1) may be included in any profit forfeiture order and in any restraining order that is made against the respondent.
-(5) If the Commissioner applies for an order under subsection (1),—
-  (a) the Commissioner must, so far as it is practicable to do so, serve notice of the application on the respondent and on any person who, to the knowledge of the Commissioner, has an interest in the property; and
-  (b) the respondent and any other person who claims an interest in the property are entitled to appear and to adduce evidence at the hearing of the application.
-
 **Matters associated with making civil forfeiture order**
 
 ### 59 Additional matters in respect of making civil forfeiture order
@@ -584,7 +718,7 @@ An application for a profit forfeiture order must—
 (3) Part 4 of the Search and Surveillance Act 2012 (except subpart 6), so far as applicable and with all necessary modifications, applies in relation to a warrant issued under subsection (2) as if it were a warrant issued under section 101 to a member of the police.
 
 ### 60 Civil forfeiture order relating to land
-(1) Nothing in section 50 or 55 affects the operation of section 89 of the Land Transfer Act 2017 in relation to a civil forfeiture order made in respect of an estate or interest in land under that Act.
+(1) Nothing in section 50, 50C, 50D, or 55 affects the operation of section 89 of the Land Transfer Act 2017 in relation to a civil forfeiture order made in respect of an estate or interest in land under that Act.
 (2) If the High Court makes a civil forfeiture order in respect of an estate or interest in land, the order must be transmitted by the Registrar of the Court to the Registrar-General of Land or the Registrar of Deeds, as the case may be, for the purposes of registration under the Land Transfer Act 2017 or the Deeds Registration Act 1908, as the case may require.
 
 **Relief from civil forfeiture order for persons other than respondent**
@@ -623,7 +757,9 @@ The following persons are entitled to appear and to adduce evidence at the heari
 ### 66 Making order for relief from civil forfeiture order where person has interest and was not involved in significant criminal activity
 (1) On receipt of an application for an order for relief from a civil forfeiture order under section 61 or 62, the High Court must grant the relief that the Court considers appropriate if the applicant proves on the balance of probabilities that the applicant—
   (a) has an interest, or would but for any civil forfeiture order have an interest, in the property to which the application relates; and
-  (b) has not unlawfully benefited from the significant criminal activity to which the application relates.
+  (b) has not unlawfully benefited from the following significant criminal activity:
+    (i) in the case of a type 2 assets forfeiture order or proposed type 2 assets forfeiture order, any significant criminal activity in which any persons (as members of or participants in the organised criminal group that is referred to in section 50C(1)﻿(a)) have been involved at any time:
+    (ii) in any other case, the significant criminal activity to which the civil forfeiture order or proposed civil forfeiture order relates.
 (2) The High Court may make an order for relief under this section at or after the time the associated civil forfeiture order is made.
 
 ### 67 Making order for relief from civil forfeiture order on grounds of undue hardship
@@ -631,8 +767,8 @@ The following persons are entitled to appear and to adduce evidence at the heari
 (2) The circumstances the Court may have regard to under subsection (1) include, without limitation,—
   (a) the use that is ordinarily made, or was intended to be made, of the property that is, or is proposed to be, the subject of the civil forfeiture order; and
   (b) the nature and extent of any person’s interest in the property; and
-  (c) the degree, if any, to which the person had knowledge of the significant criminal activity to which the property relates; and
-  (d) the circumstances of the significant criminal activity to which the property or order relates.
+  (c) the degree, if any, to which the person had knowledge of any significant criminal activity to which the civil forfeiture order or proposed civil forfeiture order relates; and
+  (d) the circumstances of any significant criminal activity to which the civil forfeiture order or proposed civil forfeiture order relates.
 
 ### 68 Matters associated with relief from civil forfeiture order when interest severable
 If the High Court grants relief from a civil forfeiture order under section 66 or 67 in respect of a severable interest it must,—
@@ -759,6 +895,10 @@ If an appeal by any person against the making of an instrument forfeiture order 
 (3) Despite subsections (1) and (2), if the period for bringing an appeal against the assets forfeiture order has expired and no appeal has been filed or all appeals have been withdrawn or finally determined, the Official Assignee—
   (a) may realise any asset that makes up the property that is the subject of the assets forfeiture order; but
   (b) must, if he or she does so, hold the proceeds of realising those assets until the expiry of the specified period.
+(4) If the assets forfeiture order is a type 2 assets forfeiture order, the property may be disposed of only to the extent of the interest specified in the order.
+(5) If that interest is not severable from the property to which it relates, that property may be wholly disposed of, but—
+  (a) the money resulting from the disposal that is to be applied under subsection (1) is limited to the proportion of the realised amount that is equal to the proportion referred to in section 50D(2); and
+  (b) any remaining money must be paid to the former interest holder.
 
 **Discharge of profit forfeiture order by Official Assignee**
 
@@ -1070,6 +1210,35 @@ If any property is seized pursuant to a warrant issued under section 101 or 102(
   (c) that person is otherwise under any obligation (whether arising by virtue of any enactment or any rule of law or otherwise) to maintain secrecy in relation to, or not to disclose, that information.
 (2) If this section applies, then despite the fact that the disclosure would otherwise constitute a breach of an obligation of secrecy or non-disclosure, the disclosure by that person, of that information in accordance with this Act is not a breach of that obligation of secrecy or non-disclosure or (where applicable) of any enactment by which that obligation is imposed.
 
+**Disclosure of source orders**
+
+### 109A High Court may make disclosure of source order
+(1) On application by the Commissioner, the High Court may make an order (a disclosure of source order) requiring a respondent to whom a section 24 restraining order relates to give the Commissioner, in the prescribed form and within the period specified in the order, the source information.
+(2) The Commissioner cannot apply for a disclosure of source order on or after applying for a type 1 assets forfeiture order relating to the same property to which the restraining order applies.
+(3) The Court may make a disclosure of source order only if satisfied that there are reasonable grounds to believe that the respondent—
+  (a) is residing outside New Zealand (whether temporarily or permanently) or is absent from New Zealand; or
+  (b) is a corporation that is incorporated outside New Zealand (other than an overseas company that is registered under Part 18 of the Companies Act 1993).
+(4) The source information is the following information relating to the respondent’s property to which the restraining order applies:
+  (a) the name of each person who the respondent knows holds, or believes may hold, an interest in the property and the nature of that interest:
+  (b) the circumstances in which the respondent acquired the property, including—
+    (i) how they acquired it; and
+    (ii) the source of any funds or other property used for that acquisition:
+  (c) if the property is tangible and movable property that the respondent acquired outside New Zealand and, after that acquisition, was brought into New Zealand,—
+    (i) the country or place in which they acquired the property; and
+    (ii) any countries or places through which the property transited before being moved into New Zealand:
+  (d) any other information of a kind specified in the disclosure of source order:
+  (e) any documents of a kind specified in the order to substantiate the information referred to in any of paragraphs (a) to (d).
+(5) The period specified in the order must not exceed the period of 2 months after the order is made unless the Court is satisfied that special circumstances exist that make a longer period appropriate.
+(6) The Court may,—
+  (a) on application by the Commissioner, vary the period specified in the order by way of a further order; or
+  (b) on application by the respondent or on the Court’s own motion, extend the period specified in the order by way of a further order.
+(7) The order must inform the respondent of the effect of each of the following:
+  (a) section 50(2A) to (2D) (rebuttable presumption for type 1 assets forfeiture orders):
+  (b) section 152 (offence relating to failure to comply with orders, etc):
+  (c) section 163 (privilege against self-incrimination no excuse):
+  (d) section 165A (admissibility of self-incriminating statement made in response to disclosure of source order).
+(8) In this section, section 24 restraining order means an order made under section 24.
+
 **Official Assignee’s powers**
 
 ### 110 Official Assignee may apply for warrant to search for and seize property
@@ -1379,7 +1548,7 @@ A person who claims an interest in property sought to be forfeited under a forei
   (b) in the case of a body corporate, to a fine not exceeding $60,000.
 
 ### 152 Failing to comply with orders and search warrants
-(1) Every person commits an offence who, being a person against whom an examination order or production order is made,—
+(1) Every person commits an offence who, being a person against whom an examination order, a production order, or a disclosure of source order is made,—
   (a) fails, without reasonable excuse, to comply with that order; or
   (b) in purported compliance with the order, produces or makes available to the Commissioner a document or makes a statement which the person knows is false or misleading in a material particular.
 (2) Every person commits an offence who fails, without reasonable excuse, to comply with a search warrant issued under this Act that relates to his or her premises.
@@ -1482,12 +1651,12 @@ Nothing in sections 105 and 107 requires any of the following persons to comply 
   (d) any person acting in his or her capacity as an officer or employee of the Reserve Bank of New Zealand.
 
 ### 163 Privilege against self-incrimination no excuse
-No person is excused from answering any question, supplying any information, producing any document, or providing any explanation under section 105 or 107 on the ground that to do so would or might incriminate or tend to incriminate that person.
+No person is excused from answering any question, supplying any information, producing any document, or providing any explanation under section 105, 107, or 109A on the ground that to do so would or might incriminate or tend to incriminate that person.
 
 **Admissibility of evidence**
 
 ### 164 Admissibility of evidence
-(1) No evidence that is lawfully obtained under section 105 or 107 is inadmissible by reason only of the fact that it was so obtained.
+(1) No evidence that is lawfully obtained under section 105, 107, or 109A is inadmissible by reason only of the fact that it was so obtained.
 (2) This section is subject to section 165.
 
 ### 165 Admissibility of self-incriminating statement made in response to production or examination order
@@ -1513,6 +1682,18 @@ Definitions
     (a) a production order made under section 105; or
     (b) an examination order made under section 107.
 (10) In this section, doing any thing in response to a production or examination order includes doing any thing in response to a requirement of the Commissioner under section 105 or 107.
+
+### 165A Admissibility of self-incriminating statement made in response to disclosure of source order
+General
+(1) Any self-incriminating statement that a person makes in response to a disclosure of source order is not admissible against the person in any civil or criminal proceedings.
+(2) Subsections (3) to (5) set out exceptions to subsection (1).
+Exception for civil proceedings
+(3) Any statement that a person makes in response to a disclosure of source order may be used in evidence against them in any civil proceedings specified in section 10(1).
+Exceptions for prosecution for offences against section 152
+(4) Any statement that the person makes in relation to their failure to provide information that the order requires them to provide may be used in evidence against them in any prosecution for an offence against section 152 arising from that failure.
+(5) Any false or misleading statement that the person makes in response to the order may be used in evidence against them in any prosecution for an offence against section 152 arising from making that statement.
+Definition of false or misleading statement
+(6) In this section, false or misleading statement means a statement that is false or misleading in a material particular.
 
 ### 166 Admissibility of evidence given to court or Official Assignee
 (1) Subsection (2) applies if—
@@ -1584,6 +1765,7 @@ Despite section 171, the Proceeds of Crime Act 1991 continues in force for the p
 (1) The Governor-General may from time to time, by Order in Council, make regulations for all or any of the following purposes:
   (a) prescribing applications, notices, and other documents for the purposes of this Act and requiring their use:
   (b) prescribing forms for the purposes of this Act and requiring their use:
+  (ba) prescribing an amount for the purposes of the definition of threshold amount in section 5(1):
   (c) providing for the service of notices and other documents under this Act to be dispensed with in such circumstances as are specified in the regulations:
   (d) providing for the creation of charges in respect of property to which any profit forfeiture order applies, specifying the priority of any such charge in relation to any other encumbrances and the circumstances in which a charge ceases to have effect, and providing for any other related matters:
   (e) prescribing or providing for the costs recoverable by the Official Assignee under section 87:
@@ -1600,156 +1782,107 @@ Despite section 171, the Proceeds of Crime Act 1991 continues in force for the p
 **Amendments to Crimes Act 1961**
 
 ### 175 Amendments to Crimes Act 1961
-Sections 176 to 178 amend the Crimes Act 1961.
+[Repealed]
 
 ### 176 Defence of enforcement of enactment
-Section 244(b) is amended by omitting Proceeds of Crime Act 1991 and substituting Criminal Proceeds (Recovery) Act 2009.
+[Repealed]
 
 ### 177 Destruction of relevant records made by use of interception device
-Section 312J is amended by inserting the following subsection after subsection (1):
-  (1A) In subsection (1), proceedings includes proceedings under sections 142A to 142Q of the Sentencing Act 2002 and any proceedings under the Criminal Proceeds (Recovery) Act 2009.
+[Repealed]
 
 ### 178 Restriction on admissibility of evidence of private communications lawfully intercepted
-Section 312N is amended by repealing paragraph (i) and substituting the following paragraphs:
-  (i) offences of 2 or more of those kinds specified in paragraphs (a) to (h); or
-  (j) an offence specified in paragraphs (a) to (h) and the evidence is relevant to a proceeding under the Criminal Proceeds (Recovery) Act 2009 or a proceeding under sections 142A to 142Q of the Sentencing Act 2002.
+[Repealed]
 
 **Amendments to Customs and Excise Act 1996**
 
 ### 179 Amendments to Customs and Excise Act 1996
-Sections 180 to 182 amend the Customs and Excise Act 1996.
+[Repealed]
 
 ### 180 Detention of goods suspected to be tainted property
-(1) Section 166A is amended by omitting the heading and substituting the following heading: Detention of goods suspected to be instrument of crime or tainted property.
-(2) Section 166A is amended by repealing paragraph (c) and substituting the following paragraph:
-  (c) he or she has good cause to suspect that the goods are an instrument of crime or tainted property (as those terms are defined in section 5(1) of the Criminal Proceeds (Recovery) Act 2009).
+[Repealed]
 
 ### 181 Further provisions about detention under section 166A
-Section 166C(4)﻿(d) is amended by omitting Proceeds of Crime Act 1991 and substituting Criminal Proceeds (Recovery) Act 2009.
+[Repealed]
 
 ### 182 Return of goods detained under section 166A
-Section 166D(3) is amended by repealing paragraph (a) and substituting the following paragraph:
-  (a) an information is laid in respect of the relevant qualifying instrument forfeiture offence (as defined in section 5(1) of the Criminal Proceeds (Recovery) Act 2009); or
+[Repealed]
 
 **Amendments to Evidence Act 2006**
 
 ### 183 Amendment to Evidence Act 2006
-Section 184 amends the Evidence Act 2006.
+[Repealed]
 
 ### 184 Undercover police officers
-Section 108 is amended by adding the following subsection:
-  (6) This section also applies, with any necessary modifications, in any case where a person is being, or is to be, proceeded against under—
-    (a) the Criminal Proceeds (Recovery) Act 2009; or
-    (b) sections 142A to 142Q of the Sentencing Act 2002.
+[Repealed]
 
 **Amendments to Financial Transactions Reporting Act 1996**
 
 ### 185 Amendments to Financial Transactions Reporting Act 1996
-Sections 186 to 195 amend the Financial Transactions Reporting Act 1996.
+[Repealed]
 
 ### 186 Title amended
-The Long Title is amended by omitting Proceeds of Crime Act 1991 and substituting Criminal Proceeds (Recovery) Act 2009.
+[Repealed]
 
 ### 187 Verification of identity where money laundering or proceeds of crime suspected
-(1) The heading to section 11 is amended by omitting proceeds of crime and substituting proceeds of significant criminal activity.
-(2) Section 11(1)﻿(b)﻿(ii) is amended by omitting Proceeds of Crime Act 1991 and substituting Criminal Proceeds (Recovery) Act 2009.
+[Repealed]
 
 ### 188 Offences
-Section 13(1)﻿(j)﻿(ii)﻿(B) is amended by omitting Proceeds of Crime Act 1991 and substituting Criminal Proceeds (Recovery) Act 2009.
+[Repealed]
 
 ### 189 Financial institutions to report suspicious transactions
-Section 15(1)﻿(b)﻿(ii) is amended by omitting Proceeds of Crime Act 1991 and substituting Criminal Proceeds (Recovery) Act 2009.
+[Repealed]
 
 ### 190 Auditors may report suspicious transactions
-Section 16(b) is amended by omitting Proceeds of Crime Act 1991 and substituting Criminal Proceeds (Recovery) Act 2009.
+[Repealed]
 
 ### 191 Protection of identity of persons making suspicious transaction reports
-(1) Section 21(2)﻿(b) is amended by omitting Proceeds of Crime Act 1991 and substituting Criminal Proceeds (Recovery) Act 2009.
-(2) Section 21(2) is amended by repealing paragraphs (c) and (d) and substituting the following paragraphs:
-  (c) any activity relating to an application for a restraining order, assets forfeiture order, or profit forfeiture order under the Criminal Proceeds (Recovery) Act 2009:
-  (d) any activity relating to the making of an instrument forfeiture order under section 142N of the Sentencing Act 2002:
-  (e) the administration of the Mutual Assistance in Criminal Matters Act 1992.
+[Repealed]
 
 ### 192 Offences
-Section 22(1)﻿(b)﻿(ii) is amended by omitting Proceeds of Crime Act 1991 and substituting Criminal Proceeds (Recovery) Act 2009.
+[Repealed]
 
 ### 193 Commissioner to issue guidelines relating to reporting of suspicious transactions
-Section 24(1)﻿(a)﻿(ii) is amended by omitting Proceeds of Crime Act 1991 and substituting Criminal Proceeds (Recovery) Act 2009.
+[Repealed]
 
 ### 194 Application of Privacy Act 1993
-(1) Section 28(c) is amended by omitting Proceeds of Crime Act 1991 and substituting Criminal Proceeds (Recovery) Act 2009.
-(2) Section 28 is amended by repealing paragraphs (d) and (e) and substituting the following paragraphs:
-  (d) any activity relating to an application for a restraining order, assets forfeiture order, or profit forfeiture order under the Criminal Proceeds (Recovery) Act 2009:
-  (e) any activity relating to the making of an instrument forfeiture order under section 142N of the Sentencing Act 2002:
-  (f) the administration of the Mutual Assistance in Criminal Matters Act 1992.
+[Repealed]
 
 ### 195 Application of Privacy Act 1993
-(1) Section 43(b) is amended by omitting Proceeds of Crime Act 1991 and substituting Criminal Proceeds (Recovery) Act 2009.
-(2) Section 43 is amended by repealing paragraphs (c) and (d) and substituting the following paragraphs:
-  (c) any activity relating to an application for a restraining order, assets forfeiture order, or profit forfeiture order under the Criminal Proceeds (Recovery) Act 2009:
-  (d) any activity relating to the making of an instrument forfeiture order under section 142N of the Sentencing Act 2002:
-  (e) the administration of the Mutual Assistance in Criminal Matters Act 1992.
+[Repealed]
 
 **Amendments to International Crimes and International Criminal Court Act 2000**
 
 ### 196 Amendments to International Crimes and International Criminal Court Act 2000
-Sections 197 to 201 amend the International Crimes and International Criminal Court Act 2000.
+[Repealed]
 
 ### 197 Interpretation
-(1) Paragraph (b) of the definition of forfeiture order in section 4 is amended by omitting pecuniary penalty order and substituting profit forfeiture order.
-(2) The definition of tainted property in section 4 is repealed and the following definition substituted:
-  - **tainted property** , in relation to an international crime, means any—
-    (a) instrument of crime as defined in section 5(1) of the Criminal Proceeds (Recovery) Act 2009; or
-    (b) tainted property as defined in section 5(1) of the Criminal Proceeds (Recovery) Act 2009.
+[Repealed]
 
 ### 198 Attorney-General may authorise measures
-Section 112(1) is repealed and the following subsection substituted:
-  (1) If the Attorney-General gives authority for the request for assistance in identifying, tracing and freezing, or seizing tainted property to proceed, the Attorney-General may authorise the appropriate New Zealand authority to apply for 1 or more of the following orders or warrants:
-    (a) a search warrant under section 101 or 102 of the Criminal Proceeds (Recovery) Act 2009:
-    (b) any restraining order made under the Criminal Proceeds (Recovery) Act 2009:
-    (c) a production order under section 104 of the Criminal Proceeds (Recovery) Act 2009.
+[Repealed]
 
 ### 199 Method of registration of order
-Section 128(3) and (4) are amended by omitting Proceeds of Crimes Act 1991 and substituting in each case Criminal Proceeds (Recovery) Act 2009.
+[Repealed]
 
 ### 200 New sections 130 and 131 substituted
-Sections 130 and 131 are repealed and the following sections substituted:Effect of registration of orderForfeiture order may be treated as profit forfeiture order
-  (1) A forfeiture order registered under section 128 has effect and may be enforced as if it were a profit forfeiture order—
-    (a) made by the High Court under the Criminal Proceeds (Recovery) Act 2009; and
-    (b) entered on the date of registration.
-  (2) Subsection (1) applies subject to sections 132 and 133.
-  (3) If a forfeiture order is registered under section 128,—
-    (a) subpart 3 of Part 2 of the Criminal Proceeds (Recovery) Act 2009 so far as is applicable and with any necessary modifications, and except to the extent that this Act provides otherwise, applies in relation to the order; and
-    (b) the property must be disposed of, or otherwise dealt with, in accordance with the order of, or directions given by, the ICC and the Attorney-General may give such directions as may be necessary to give effect to that order or those directions; and
-    (c) if, for any reason, the Attorney-General is not able to dispose of the property in accordance with the ICC’s order or directions, the Attorney-General may, after consulting with the ICC, arrange for the property to be transferred to the person in whom it was vested immediately before the forfeiture order was made.
-  (4) A restraining order registered in accordance with section 112(2) has effect, and may be enforced, as if it were a restraining order—
-    (a) made under the Criminal Proceeds (Recovery) Act 2009; and
-    (b) entered on the date of registration.
-  (1) If the Attorney-General is unable to give effect to a forfeiture order, the Attorney-General must take measures to recover—
-    (a) the value specified by the ICC as the value of the tainted property ordered by the ICC to be forfeited; or
-    (b) if the ICC has not specified the value of the tainted property, the value that, in the opinion of the Attorney-General, is the value of the tainted property ordered by the ICC to be forfeited.
-  (2) In a case to which subsection (1) applies, the forfeiture order is to be treated as a profit forfeiture order for the equivalent amount and may be enforced accordingly as if it were a profit forfeiture order—
-    (a) made by the High Court under the Criminal Proceeds (Recovery) Act 2009; and
-    (b) entered on the date of registration.
+[Repealed]
 
 ### 201 Cancellation of registration order
-Section 134(4) is amended by omitting Proceeds of Crime Act 1991 and substituting Criminal Proceeds (Recovery) Act 2009.
+[Repealed]
 
 **Amendments to International War Crimes Tribunals Act 1995**
 
 ### 202 Amendments to International War Crimes Tribunals Act 1995
-Sections 203 to 205 amend the International War Crimes Tribunals Act 1995.
+[Repealed]
 
 ### 203 New section 43 substituted
-Section 43 is repealed and the following section substituted:Effect of registration of order
-  Subject to sections 44 to 47, a forfeiture order registered in accordance with section 42 has effect and may be enforced as if it were a profit forfeiture order made by the High Court under the Criminal Proceeds (Recovery) Act 2009 and entered on the date of registration.
+[Repealed]
 
 ### 204 Registered forfeiture orders
-Section 44 is amended by repealing paragraph (a) and substituting the following paragraph:
-  (a) subpart 3 of Part 2 of the Criminal Proceeds (Recovery) Act 2009 so far as is applicable and with any necessary modifications, and except to the extent that this Act provides otherwise, applies in relation to the order; and
+[Repealed]
 
 ### 205 Cancellation of registration of forfeiture order
-Section 47(4) is amended by omitting Proceeds of Crime Act 1991 and substituting Criminal Proceeds (Recovery) Act 2009.
+[Repealed]
 
 **Amendment to Judicature Act 1908**
 
@@ -1762,96 +1895,66 @@ Section 47(4) is amended by omitting Proceeds of Crime Act 1991 and substituting
 **Amendments to Legal Services Act 2000**
 
 ### 208 Amendments to Legal Services Act 2000
-Sections 209 and 210 amend the Legal Services Act 2000.
+[Repealed]
 
 ### 209 When legal aid may be granted: civil matters
-Section 9 is amended by adding the following subsections:
-  (11) The Agency may grant legal aid to an applicant in respect of a civil proceeding under the Criminal Proceeds (Recovery) Act 2009 if the Agency considers that the interests of justice require that the applicant be granted legal aid.
-  (12) In considering whether or not the interests of justice require that an applicant be granted legal aid under subsection (7), the Agency must have regard to—
-    (a) whether there are any serious consequences for the applicant if legal aid is not granted; and
-    (b) whether there are any complex factual, legal, or evidential matters in the proceeding that require the applicant to be legally represented.
-  (13) Subsections (3) and (4) do not apply to an application for legal aid in respect of a civil proceeding under the Criminal Proceeds (Recovery) Act 2009.
+[Repealed]
 
 ### 210 Schedule 1 amended
-Schedule 1 is amended by repealing clause 3(1)﻿(f) and substituting the following paragraphs:
-  (f) the value of the subject matter of the proceedings, unless the Agency determines a proportion of that value that should be included in the assessment of the person’s total assets:
-  (g) the value of any property that is the subject of a restraining order under the Criminal Proceeds (Recovery) Act 2009.
+[Repealed]
 
 **Amendment to Misuse of Drugs Act 1975**
 
 ### 211 Amendment to Misuse of Drugs Act 1975
-Section 212 amends the Misuse of Drugs Act 1975.
+[Repealed]
 
 ### 212 Laundering proceeds of drug offences
-Section 12B(6)﻿(b) is amended by omitting Proceeds of Crime Act 1991 and substituting Criminal Proceeds (Recovery) Act 2009.
+[Repealed]
 
 **Amendment to Summary Proceedings Act 1957**
 
 ### 213 Amendment to Summary Proceedings Act 1957
-Section 214 amends the Summary Proceedings Act 1957.
+[Repealed]
 
 ### 214 Part 2 of Schedule 1 amended
-(1) Part 2 of Schedule 1 is amended by omitting the item relating to the Proceeds of Crime Act 1991.
-(2) Part 2 of Schedule 1 is amended by inserting the following item after the item relating to the Criminal Investigations (Bodily Samples) Act 1995:The following table is small in size and has 3 columns. This table amends Part 2 of Schedule 1 of the Criminal Investigations (Bodily Samples) Act 1995 and should be read with that table to provide understanding of the context.Criminal Proceeds (Recovery) Act 2009150Contravention of restraining orders or foreign restraining orders151Contravention of forfeiture orders or foreign forfeiture orders152Failing to comply with orders and search warrants154Offence to disclose existence or operation of search order155Offence of obstruction
+[Repealed]
 
 **Amendments to Tax Administration Act 1994**
 
 ### 215 Amendments to Tax Administration Act 1994
-Sections 216 and 217 amend the Tax Administration Act 1994.
+[Repealed]
 
 ### 216 Officers to maintain secrecy
-Section 81(4) is amended by inserting the following paragraph after paragraph (gb):
-  (gc) communicating to any authorised person (as defined in section 98(1) of the Criminal Proceeds (Recovery) Act 2009) any information required for the purpose specified in subsection (2)﻿(b) of that section:
+[Repealed]
 
 ### 217 Further secrecy requirements
-(1) Section 87(4) is amended by inserting the following paragraph after paragraph (db):
-  (dc) where it is given to any authorised person (as defined in section 98(1) of the Criminal Proceeds (Recovery) Act 2009), be kept by the Commissioner as a permanent record:
-(2) Section 87(5)﻿(a)﻿(i) is amended by inserting (gc), after (gb),.
+[Repealed]
 
 **Amendments to Terrorism Suppression Act 2002**
 
 ### 218 Amendments to Terrorism Suppression Act 2002
-Sections 219 to 225 amend the Terrorism Suppression Act 2002.
+[Repealed]
 
 ### 219 Prohibition on dealing with property of, or derived or generated from property of, terrorist and associated entities
-Section 9(3)﻿(b) is amended by omitting section 50 of the Proceeds of Crime Act 1991 and substituting section 80 of the Criminal Proceeds (Recovery) Act 2009.
+[Repealed]
 
 ### 220 Further provisions about detention under section 47A
-Section 47C(5)﻿(d) is amended by omitting Proceeds of Crime Act 1991, and substituting Criminal Proceeds (Recovery) Act 2009.
+[Repealed]
 
 ### 221 Variation, revocation, or expiry of direction
-Section 50(3)﻿(b) is repealed and the following paragraph substituted:
-  (b) on a forfeiture order being made under section 55 in relation to the property concerned, in which case section 85 of the Criminal Proceeds (Recovery) Act 2009 (as modified and applied by section 57(b) of this Act) applies.
+[Repealed]
 
 ### 222 New section 51 substituted
-Section 51 is repealed and the following section substituted:Further provisions on management of property subject to section 9
-  The following sections of the Criminal Proceeds (Recovery) Act 2009 apply, with the following (and any other necessary) modifications, to property that is the subject of a direction under section 48, as if the direction were a restraining order under that Act:
-    (a) section 27 (which relates to the registration of restraining orders):
-    (b) section 32 (which relates to applications for orders that certain dispositions or dealings be set aside, except that the applications must be made by the Attorney-General):
-    (c) section 80 (which relates to powers of the Official Assignee to preserve the value of property):
-    (d) section 81 (which relates to the Official Assignee’s liability for payment of rates, etc, on the property):
-    (e) section 87 (which relates to costs recoverable by the Official Assignee, and any regulations made under that Act for the purposes of that section apply, with any necessary modifications, accordingly):
-    (f) sections 88 to 90 (which relate to the Official Assignee making and revoking delegations, except that the delegations must relate only to functions and powers of the Official Assignee under this Act):
-    (g) section 150 (which makes it an offence to dispose of or deal with the property in contravention of a restraining order, knowing that the restraining order has been made in respect of the property):
-    (h) section 157 (which relates to an indemnity for enforcement officers, except that the indemnity must relate only to the exercise or performance, or purported exercise or performance, or omission to exercise or perform, functions and powers of the Official Assignee under this Act).
+[Repealed]
 
 ### 223 New section 57 substituted
-Section 57 is repealed and the following section substituted:Further provisions relating to orders under section 55
-  The following sections of the Criminal Proceeds (Recovery) Act 2009 and the Sentencing Act 2002 apply, with the following (and all other necessary) modifications, to the making, effect, operation, and discharge of an order under section 55, as if the order were an instrument forfeiture order under section 142N of the Sentencing Act 2002:
-    (a) sections 70, 72, and 73 of the Criminal Proceeds (Recovery) Act 2009 (which relate to the effect of the order) except that—
-      (i) the reference in section 73(2) to the Official Assignee must be read as a reference to the Attorney-General, and the property may be disposed of or otherwise dealt with in accordance with any direction of the Attorney-General; and
-      (ii) references in section 73 to an instrument forfeiture order must be read as reference to an order under section 35(2) or section 55 of this Act:
-    (b) section 85 of the Criminal Proceeds (Recovery) Act 2009 (which relates to the Official Assignee discharging the order), except that the relevant appeal period in relation to the making of an order under section 35(2) or section 55 of this Act means the period ending—
-      (i) when the time for bringing an appeal against the decision of the Court expires, if no such appeal has been brought; or
-      (ii) if an appeal against the decision of the Court has been brought, when the appeal is finally determined or withdrawn, whichever occurs first:
-    (c) section 142N(3)﻿(a), (4), and (5) of the Sentencing Act 2002 (which relate to the terms of the order and to any directions that are necessary and convenient for giving effect to it).
+[Repealed]
 
 ### 224 New section 71 substituted
-Section 71 is repealed and the following section substituted:Criminal Proceeds (Recovery) Act 2009 not affected
-  Nothing in this Act affects the Criminal Proceeds (Recovery) Act 2009.
+[Repealed]
 
 ### 225 Section 81 repealed
-Section 81 is repealed.
+[Repealed]
 
 ## Schedule 1 — Transitional, savings, and related provisions
 
