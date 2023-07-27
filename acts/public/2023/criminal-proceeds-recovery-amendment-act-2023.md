@@ -1,5 +1,5 @@
 # Criminal Proceeds (Recovery) Amendment Act 2023
-_Consolidation as at 2023-03-31_
+_Consolidation as at 2023-07-27_
 
 ### 1 Title
 This Act is the Criminal Proceeds (Recovery) Amendment Act 2023.
