@@ -1,5 +1,5 @@
 # Education and Training Act 2020
-_Consolidation as at 2023-01-01_
+_Consolidation as at 2023-07-29_
 
 ### 1 Title
 This Act is the Education and Training Act 2020.
@@ -5624,21 +5624,24 @@ The Teaching Council may establish advisory committees for specific aspects of i
 (4) An employer to whom a complaint is referred under subsection (3), or who is required to provide information in the course of an investigation by the Complaints Assessment Committee, must report to the Complaints Assessment Committee as required by it.
 
 ### 497 Powers of Complaints Assessment Committee
-(1) The Complaints Assessment Committee may investigate any report, complaint, or matter referred to it under section 496.
+(1) The Complaints Assessment Committee may investigate any report, complaint, or matter referred to it under section 496 and, for this purpose, may conduct a hearing.
+(1A) A hearing is to be a hearing on the papers, unless the Complaints Assessment Committee otherwise directs.
 (2) Following an investigation, the Complaints Assessment Committee may do 1 or more of the following:
   (a) resolve to take the matter no further:
   (b) refer the teacher concerned to a competency review:
   (c) refer the teacher concerned to an impairment process, which may involve either or both of the following:
     (i) assessment of an impairment:
     (ii) assistance with an impairment.
-(3) If the Complaints Assessment Committee makes a finding of misconduct that is not serious misconduct, by agreement with the teacher and the person who made the complaint or report or referred the matter, it may do 1 or more of the following:
+(3) If the Complaints Assessment Committee makes a finding of misconduct or serious misconduct, with the agreement of the teacher concerned, it may do 1 or more of the following:
   (a) censure the teacher:
   (b) impose conditions on the teacher’s practising certificate or authority, including (without limitation) requiring the teacher to undergo supervision or professional development:
-  (c) suspend the teacher’s practising certificate or authority for a specified period, or until specified conditions are met:
+  (c)
   (d) annotate the register or the list of authorised persons in a specified manner:
   (e) direct the Teaching Council to impose conditions on any subsequent practising certificate issued to the teacher.
 (4) The Complaints Assessment Committee may, at any time, refer a matter to the Disciplinary Tribunal for a hearing.
-(5) The Complaints Assessment Committee must refer to the Disciplinary Tribunal any matter that the Committee considers may possibly constitute serious misconduct.
+(5) The Complaints Assessment Committee must refer to the Disciplinary Tribunal any matter if the Committee considers that either of the following powers is likely to be considered in order to address the matter:
+  (a) the power to suspend a teacher’s practising certificate or authority under section 500(1)﻿(d):
+  (b) the power to cancel a teacher’s registration or authority or practising certificate under section 500(1)﻿(g).
 (6) When a matter is referred to the Disciplinary Tribunal under subsection (5), a notice must be sent to the teacher concerned setting out the charge of misconduct against the teacher.
 (7) Any person authorised by the Complaints Assessment Committee may require an employer, a former employer, or a government agency to provide information that the person considers necessary for the purposes of an investigation.
 
@@ -5663,6 +5666,19 @@ The Teaching Council may establish advisory committees for specific aspects of i
 (6) For the purposes of this section and section 498(1) and clauses 8(4) and 21(4) of Schedule 3, a matter is concluded when the later of the following occurs in relation to the complaint or report:
   (a) the Complaints Assessment Committee has carried out whatever action it decides to take under section 497(2):
   (b) the Disciplinary Tribunal has carried out whatever action it decides to take under section 500(1), if the Complaints Assessment Committee has referred the matter to the Disciplinary Tribunal under section 497(4) or (5).
+
+### 499A Review of Complaints Assessment Committee decisions
+(1) A teacher who is the subject of a decision by the Complaints Assessment Committee under section 497(2) or (3), or the person who made the complaint or report or referred the matter to the Committee under section 496 that led to the decision, may request that the Disciplinary Tribunal review all or part of that decision.
+(2) A request for a review under this section must be made within 28 days after receipt of written notice of the decision, or any longer period that the Disciplinary Tribunal allows.
+(3) The review is by way of written notice to the Disciplinary Tribunal of the teacher’s or person’s intention to request a review, accompanied by—
+  (a) a copy of the written notice of the decision; and
+  (b) the fee prescribed by notice made under section 480, if any; and
+  (c) any other information that the teacher or person wishes the Disciplinary Tribunal to consider in relation to the review.
+(4) The review is by way of rehearing.
+(5) The Disciplinary Tribunal must consider the review as soon as practicable, and may confirm, reverse, or modify the decision in accordance with its powers under section 500, or refer the matter back to the Complaints Assessment Committee.
+(6) Nothing in this section gives the Disciplinary Tribunal power to review any part of the Complaint Assessment Committee’s decision to which the request does not relate.
+(7) A decision of the Complaints Assessment Committee continues in force and has effect pending the determination of the review.
+(8) The Disciplinary Tribunal may order a party to pay the costs incurred by the other party in respect of the review.
 
 ### 500 Powers of Disciplinary Tribunal
 (1) Following a hearing of a charge of serious misconduct, or a hearing into any matter referred to it by the Complaints Assessment Committee, the Disciplinary Tribunal may do 1 or more of the following:
