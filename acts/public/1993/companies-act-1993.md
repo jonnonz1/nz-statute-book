@@ -1,5 +1,5 @@
 # Companies Act 1993
-_Consolidation as at 2023-07-01_
+_Consolidation as at 2023-08-04_
 
 > An Act to reform the law relating to companies, and, in particular,—ato reaffirm the value of the company as a means of achieving economic and social benefits through the aggregation of capital for productive purposes, the spreading of economic risk, and the taking of business risks; andbto provide basic and adaptable requirements for the incorporation, organisation, and operation of companies; andcto define the relationships between companies and their directors, shareholders, and creditors; anddto encourage efficient and responsible management of companies by allowing directors a wide discretion in matters of business judgment while at the same time providing protection for shareholders and creditors against the abuse of management power; andeto provide straightforward and fair procedures for realising and distributing the assets of insolvent companies
 
@@ -1537,6 +1537,7 @@ In this Act, the terms board and board of directors, in relation to a company, m
 (2) A director of a company that is a wholly-owned subsidiary may, when exercising powers or performing duties as a director, if expressly permitted to do so by the constitution of the company, act in a manner which he or she believes is in the best interests of that company's holding company even though it may not be in the best interests of the company.
 (3) A director of a company that is a subsidiary (but not a wholly-owned subsidiary) may, when exercising powers or performing duties as a director, if expressly permitted to do so by the constitution of the company and with the prior agreement of the shareholders (other than its holding company), act in a manner which he or she believes is in the best interests of that company's holding company even though it may not be in the best interests of the company.
 (4) A director of a company that is carrying out a joint venture between the shareholders may, when exercising powers or performing duties as a director in connection with the carrying out of the joint venture, if expressly permitted to do so by the constitution of the company, act in a manner which he or she believes is in the best interests of a shareholder or shareholders, even though it may not be in the best interests of the company.
+(5) To avoid doubt, in considering the best interests of a company or holding company for the purposes of this section, a director may consider matters other than the maximisation of profit (for example, environmental, social, and governance matters).
 
 ### 132 Exercise of powers in relation to employees
 (1) Nothing in section 131 limits the power of a director to make provision for the benefit of employees of the company in connection with the company ceasing to carry on the whole or part of its business.
