@@ -1,5 +1,5 @@
 # Care of Children Act 2004
-_Consolidation as at 2023-06-15_
+_Consolidation as at 2023-08-16_
 
 ### 1 Title
 This Act is the Care of Children Act 2004.
@@ -46,7 +46,8 @@ The principles relating to a child's welfare and best interests are that—
   (c) a child's care, development, and upbringing should be facilitated by ongoing consultation and co-operation between his or her parents, guardians, and any other person having a role in his or her care under a parenting or guardianship order:
   (d) a child should have continuity in his or her care, development, and upbringing:
   (e) a child should continue to have a relationship with both of his or her parents, and that a child's relationship with his or her family group, whānau, hapū, or iwi should be preserved and strengthened:
-  (f) a child's identity (including, without limitation, his or her culture, language, and religious denomination and practice) should be preserved and strengthened.
+  (f) a child's identity (including, without limitation, his or her culture, language, and religious denomination and practice) should be preserved and strengthened:
+  (g) a child must be given reasonable opportunities to participate in any decision affecting them.
 
 ### 5A Family violence to be taken into account
 (1) This section applies if—
@@ -58,6 +59,9 @@ The principles relating to a child's welfare and best interests are that—
   (b) 1 or both of the following kinds of orders made under section 79 of the Family Violence Act 2018 is or are, or at any time has or have been, in force against 1 or more parties to the application:
     (i) a temporary protection order:
     (ii) a final protection order.
+(1A) In taking into account the principle in section 5(a), the court must have regard to—
+  (a) the purpose of the Family Violence Act 2018, under which an order specified in subsection (1)﻿(b) was made; and
+  (b) the principles set out in section 4 of that Act guiding the achievement of that purpose.
 (2) In taking into account the principle in section 5(a), the court must have regard in particular to the following matters:
   (a) whether a temporary protection order, or final protection order, is still in force:
   (b) the circumstances in which that order was made:
@@ -70,6 +74,7 @@ The principles relating to a child's welfare and best interests are that—
   (b) involving family violence (as defined in section 9 of that Act).
 
 ### 6 Child’s views
+(1AAA) The purpose of this section is to implement in New Zealand Article 12 of the United Nations Convention on the Rights of the Child.
 (1) This subsection applies to proceedings involving—
   (a) the guardianship of, or the role of providing day-to-day care for, or contact with, a child; or
   (b) the administration of property belonging to, or held in trust for, a child; or
@@ -79,19 +84,24 @@ The principles relating to a child's welfare and best interests are that—
   (b) any views the child expresses (either directly or through a representative) must be taken into account.
 
 ### 7 Appointment of lawyer to represent child in proceedings
-A court may appoint, or direct the Registrar of the court to appoint, a lawyer to represent a child who is the subject of, or who is a party to, proceedings (other than criminal proceedings) under this Act if the court—
+(1) A court may appoint, or direct the Registrar of the court to appoint, a lawyer to represent a child who is the subject of, or who is a party to, proceedings (other than criminal proceedings) under this Act if the court—
   (a) has concerns for the safety or well-being of the child; and
   (b) considers an appointment necessary.
+(2) When appointing a lawyer to represent a child, the court or Registrar must, so far as is reasonably practicable, appoint a lawyer who is, by reason of their personality, cultural background, training, and experience, suitably qualified to represent the child.
+
+### 7AA Lawyer appointed to represent child must explain proceedings to child
+A lawyer appointed under section 7 to represent a child must, if it is reasonably practicable to do so having regard to the age and maturity of the child, explain the nature of the proceedings to the child in a manner that the child is most likely to understand.
 
 ### 7A Lawyers acting for parties
 [Repealed]
 
-### 7B Duties of lawyer when giving advice
-A lawyer providing legal advice to a person about arrangements for the guardianship or care of a child, or both, must ensure that the person is aware of—
+### 7B Duties of lawyers
+(1) A lawyer providing legal advice to a person about arrangements for the guardianship or care of a child, or both, must ensure that the person is aware of—
   (a) the need for the child's welfare and best interests to be the first and paramount consideration when settling arrangements; and
   (b) the mechanisms for assisting resolution of family disputes; and
   (c) the steps for commencing a proceeding under this Act and subsequently pursuing the proceeding through the court process to obtain a resolution; and
   (d) the types of directions and orders that the court may make if a proceeding is commenced.
+(2) Before commencing a proceeding under this Act, a lawyer must take any steps that, in the opinion of the lawyer, assist in enabling the issues in dispute to be resolved as safely, fairly, inexpensively, simply, and speedily as is consistent with justice.
 
 ### 8 Interpretation
 In this Act, unless the context otherwise requires,—
