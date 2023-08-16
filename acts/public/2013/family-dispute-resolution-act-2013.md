@@ -1,5 +1,5 @@
 # Family Dispute Resolution Act 2013
-_Consolidation as at 2021-10-28_
+_Consolidation as at 2023-08-16_
 
 ### 1 Title
 This Act is the Family Dispute Resolution Act 2013.
@@ -68,6 +68,7 @@ This Act binds the Crown.
 (2) If an FDR provider determines that it is appropriate to start family dispute resolution for a family dispute, the FDR provider must make every endeavour to—
   (a) identify the matters in issue between the parties; and
   (b) facilitate discussion between the parties in respect of those matters; and
+  (ba) ensure that the children who are the subject of the dispute are given any reasonable opportunities to participate in the decisions affecting them that the FDR provider considers appropriate; and
   (c) assist the parties to reach an agreement on the resolution of those matters that best serves the welfare and best interests of all children involved in the dispute.
 
 **Family dispute resolution forms**
