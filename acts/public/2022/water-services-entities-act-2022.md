@@ -1,10 +1,11 @@
 # Water Services Entities Act 2022
-_Consolidation as at 2022-12-14_
+_Consolidation as at 2023-08-23_
 
 ### 1 Title
 This Act is the Water Services Entities Act 2022.
 
 ### 2 Commencement
+15 December 2022
 (1) The following provisions come into force on the day after the date of Royal assent:
   (a) sections 3, 4, 5(a), (b), (c), and (f), and 6 to 10 (preliminary provisions):
   (b) subparts 1 to 3, 6, and 8 of Part 2 (which relate to the establishment of water services entities and the roles of the Minister, Crown monitor, and board):
@@ -18,10 +19,20 @@ This Act is the Water Services Entities Act 2022.
     (i) te Mana o te Wai; and
     (ii) consultation on, and accounting for and banking of, cost-recovery levies):
   (j) Schedule 1 (which contains transitional, savings, and related provisions).
-(2) The rest of this Act comes into force—
-  (a) on a date set by the Governor-General by Order in Council; or
-  (b) to the extent not brought into force earlier, on 1 July 2024.
-(3) An Order in Council made under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+Commencement of Water Services Entities Amendment Act 2023
+(1A) The following provisions come into force on the day after the date of Royal assent of the Water Services Entities Amendment Act 2023:
+  (a) section 27 (establishment and membership of regional representative group):
+  (b) section 93 (what constitution must contain) so far as it relates to regulations made under section 210(1)﻿(a)﻿:
+  (c) section 97 (process for amending or replacing constitution) so far as it relates to regulations made under section 210(1)﻿(a):
+  (d) section 117(4) (directions for shared services not subject to section 117):
+  (e) sections 123 to 128 (protections from liability):
+  (f) section 129 (method of contracting):
+  (g) section 131(2A) (directions for shared services):
+  (h) subpart 2A of Part 4 (directions for shared services):
+  (i) section 206 (engagement requirements).
+1 July 2024
+(2) The rest of this Act comes into force on 1 July 2024.
+(3)
 
 ## Part 1 — Preliminary provisions
 
@@ -30,10 +41,12 @@ This Act is the Water Services Entities Act 2022.
   (a) water services; and
   (b) water services infrastructure.
 (2) This Act seeks to achieve that purpose by—
-  (a) establishing 4 water services entities to provide water services in New Zealand:
-  (b) providing for their service delivery areas and for their governance, reporting, and accountability arrangements:
+  (a) establishing 10 water services entities to provide water services in New Zealand:
+  (aa) ensuring that this Act applies to a water services entity, and its service area, only on and after that entity’s operational establishment date (see section 6A):
+  (b) providing for their service delivery areas and for their governance, reporting, and accountability arrangements (for example, shared services arrangements, community priority statements, a funding agency, and protected transactions):
   (c) providing for their objectives, operating principles, and duties, functions, and powers (see sections 12 to 14):
   (d) requiring them to give effect to the principles of te Tiriti o Waitangi/the Treaty of Waitangi and Te Mana o Te Wai (see section 4):
+  (da) providing a locally led process enabling them to merge if their regional representative groups decide to do so (see section 19A):
   (e) providing for monitoring and oversight arrangements:
   (f) ensuring water services infrastructure is retained in public ownership:
   (g) ensuring water services infrastructure is not operated for the purpose of generating profit for shareholders.
@@ -134,7 +147,7 @@ In this Act, unless the context otherwise requires,—
       (ii) green water services infrastructure that delivers stormwater water services (as defined in this section)
   - **Te Mana o te Wai** —
     (a) has the meaning set out in the National Policy Statement for Freshwater Management issued in 2020 under section 52 of the Resource Management Act 1991 and any statement issued under that section that amends or replaces the 2020 statement (and see also sections 4, 5, and 14 of this Act); and
-    (b) applies, for the purposes of this Act, to water (as that term is defined in section 2(1) of the Resource Management Act 1991)
+    (b) applies, for the purposes of this Act, to water (as that term is defined in this section)
   - **Te Mana o te Wai statement for water services** means a statement provided by mana whenua to a water services entity under section 143
   - **territorial authority** has the meaning set out in section 5 of the Local Government Act 2002
   - **territorial authority owners** means, in relation to a water services entity, the territorial authorities listed in the part of Schedule 2 that relates to the entity
@@ -151,6 +164,14 @@ In this Act, unless the context otherwise requires,—
     (a) Treaty settlement Acts:
     (b) Treaty settlement deeds
   - **wastewater network** means the infrastructure owned or operated by, or processes used by, a water services entity to collect, store, transmit through reticulation, treat, or discharge wastewater
+  - **water** —
+    (a) has the same meaning as in section 2(1) of the Resource Management Act 1991; but
+    (b) includes water in any form while in any pipe, tank, or cistern
+  - **water body** —
+    (a) has the same meaning as in section 2(1) of the Resource Management Act 1991; but
+    (b) includes water—
+      (i) in, or in any part of, a river, lake, stream, pond, wetland, or aquifer; and
+      (ii) that is located within the coastal marine area (as that term is defined in that section 2(1))
   - **water services** means services relating to water supply, wastewater, and stormwater
   - **water services entity** or means a water services entity established under section 11
   - **water services infrastructure** —
@@ -170,6 +191,47 @@ In this Act, unless the context otherwise requires,—
         (i) the point of supply:
         (ii) any end-point treatment device:
         (iii) any backflow prevention device.
+
+### 6A Act applies to water services entity, and its service area, only on and after that entity’s establishment date
+General rule
+(1) This Act, and secondary legislation made under this Act, apply to a water services entity, and its service area, only on and after that entity’s establishment date.
+(2) Before the entity’s establishment date, local government organisations provide water services in their districts (to the extent that they are part of the entity’s service area) under the law in force immediately before 1 July 2024.
+Exception
+(3) However, subsections (1) and (2) do not affect or limit the operation, during a water service’s entity’s establishment period, of the following:
+  (a) this section:
+  (b) Schedule 1 of this Act:
+  (c) Schedule 1AA of the Local Government Act 2002:
+  (d) Schedule 1AA of the Local Government (Rating) Act 2002:
+  (e) Schedule 1 of the Local Government (Financial Reporting and Prudence) Regulations 2014.
+Establishment date
+(4) The Northland and Auckland Water Services Entity’s establishment date is 1 July 2024.
+(5) Any other water services entity’s establishment date is an establishment date for the entity that is set by an Order in Council made under this section on the recommendation of the Minister, and that is one of the following dates:
+  (a) 1 July 2024:
+  (b) 1 October 2024:
+  (c) 1 January 2025:
+  (d) 1 April 2025:
+  (e) 1 July 2025:
+  (f) 1 October 2025:
+  (g) 1 January 2026:
+  (h) 1 April 2026:
+  (i) 1 July 2026.
+Order in Council setting establishment date
+(6) The power under this section to set an establishment date for an entity is capable of being exercised more than once to amend, revoke, or replace an Order in Council made in a previous exercise of the power, but only so long as each re-exercise of the power—
+  (a) takes effect before the previous establishment date; and
+  (b) is recommended due to exceptional circumstances (for example, an emergency) arising only after the previous exercise of the power.
+(7) Within 6 months of this section’s commencement, the Minister must recommend, and the Governor-General in Council must make, 1 or more Orders in Council—
+  (a) made under this section; and
+  (b) setting establishment dates for all the water services entities whose establishment dates are to be set by Order in Council.
+(8) Before recommending an Order in Council setting a water services entity’s establishment date, the Minister must engage in accordance with section 206 with territorial authority owners and mana whenua in the entity’s service area.
+(9) An Order in Council made under this section may contain, or be amended so that it contains, establishment dates for all or any of the water services entities whose establishment dates are set by Order in Council.
+(10) An Order made under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+Merger of water services entities
+(11) However, for a water services entity whose establishment is provided for by an Order in Council made under clause 24(1) of Schedule 2A (Order in Council to give effect to requested merger),—
+  (a) the rest of this Act, and secondary legislation made under the rest of this Act, applies to that water services entity, and its service area, only on and after the date on which the provisions of that order establishing that water services entity have effect; and
+  (b) subsections (1) to (10), and the transitional provisions specified in subsection (3)﻿(b) to (e), of this section do not apply to the entity.
+(12) However, subsection (11) does not limit the application of section 19A and Schedule 2A to a water services entity—
+  (a) that is proposed to be part of a requested merger; and
+  (b) to which section 19A and Schedule 2A apply under subsection (1).
 
 ### 7 Transitional, savings, and related provisions
 The transitional, savings, and related provisions set out in Schedule 1 have effect according to their terms.
@@ -199,8 +261,17 @@ Nothing in section affects duties, functions, and powers under Act
 ### Subpart 1 — Establishment of water services entities
 
 ### 11 Water services entities established
-(1) This section establishes the water services entities named in Parts 1 to 4 of Schedule 2.
-(2) This section does not limit section 210(1)﻿(d) of this Act or section 25(4) of the Local Government Act 2002.
+Entities established
+(1) This section (as inserted by the Water Services Entities Amendment Act 2023) establishes the water services entities named in Parts 1 to 10 of Schedule 2.
+When each water services entity established
+(2) Each water services entity is established on the date on which the appointment of the entity’s establishment board under clause 3 of Schedule 1 takes effect.
+When new entity resulting from merger established
+(3) However, a water services entity whose establishment is provided for by an Order in Council made under clause 24(1) of Schedule 2A (Order in Council to give effect to requested merger) is established when the provisions of that order establishing that water services entity have effect.
+Changing entity’s name, mergers, and local government reorganisation
+(4) This section does not limit—
+  (a) section 210(1)﻿(d) of this Act; or
+  (b) clause 24(1) of Schedule 2A of this Act; or
+  (c) section 25(4) of the Local Government Act 2002.
 
 ### 12 Objectives of water services entities
 The objectives of each water services entity are to—
@@ -217,6 +288,7 @@ The objectives of each water services entity are to—
 ### 13 Functions of water services entities
 The functions of each water services entity are—
   (a) to provide safe, reliable, and efficient water services in its area; and
+  (aa) to enter into shared services arrangements related to all or any activities specified in section 137A(5) (for example, related to debt funding and management), whether or not those shared services arrangements are required to give effect to a direction given under section 137A; and
   (b) any functions that are incidental and related to, or consequential on, its functions set out in paragraph (a).
 
 ### 14 Operating principles
@@ -269,14 +341,15 @@ Not company, council organisation, council-controlled organisation, etc
 (3) In this section,—
   - **population** , of a district or part district of a territorial authority owner, means that population as determined by the most recent available census of population and dwellings carried out by Statistics New Zealand under the Data and Statistics Act 2022
   - **relevant date** , for an allocation or a reallocation to the territorial authority owners of shares in a water services entity, means a date that is—
-    (a) the establishment date (as defined in clause 1 of Schedule 1); or
+    (a) 1 July 2026; or
     (b) the date immediately after a 5-year period that started on—
-      (i) the establishment date (as so defined); or
+      (i) 1 July 2026; or
       (ii) a fifth anniversary of the establishment date (as so defined); or
     (c) a date on which a territorial authority owner, or its district, is created, adjusted, altered, or abolished in or under the Local Government Act 2002 in a way that affects one or both of the following:
-      (i) territorial authority owners named in Parts 1 to 4 of Schedule 2:
+      (i) territorial authority owners named in Parts 1 to 10 of Schedule 2:
       (ii) their districts or part districts specified in those Parts; or
-    (d) a date on which a divestment proposal (as defined in clause 1 of Schedule 4) that affects the water services entities named in Parts 1 to 4 of Schedule 2, or their service areas, or both, takes effect.
+    (ca) a date on which a merger proposal (see section 19A) that affects the water services entities named in Parts 1 to 10 of Schedule 2, or their service areas, or both, takes effect; or
+    (d) a date on which a divestment proposal (as defined in clause 1 of Schedule 4) that affects the water services entities named in Parts 1 to 10 of Schedule 2, or their service areas, or both, takes effect.
 (4) The monitor must notify every allocation or reallocation, as soon as practicable, to the Minister, the water services entity, and every territorial authority owner.
 (5) The monitor must also make every allocation or reallocation publicly available, as soon as practicable, by publishing a copy on an Internet site maintained by, or on behalf of, the department in a format that is readily accessible.
 
@@ -289,6 +362,11 @@ A water services entity may do anything that is authorised by this Act.
 
 ### 19 Acts must be for purpose of functions
 A water services entity may do an act under section 17 or 18 only for the purpose of performing its functions.
+
+### Subpart 1A — Merger of water services entities
+
+### 19A Merger of water services entities
+Water services entities may merge in accordance with Schedule 2A.
 
 ### Subpart 2 — Validity of acts
 
@@ -360,12 +438,11 @@ The role of the Minister is to oversee and manage the Crown’s interests in, an
 
 ### 27 Establishment and membership of regional representative group
 (1) This section establishes a regional representative group for each water services entity.
-(2) Each regional representative group consists of a number of regional representatives that is provided for in the constitution (see section 93(a)﻿(i)) and is—
-  (a) 12 regional representatives; or
-  (b) any greater number of regional representatives.
+(2) Each regional representative group consists of the number of regional representatives that is provided for in the constitution (see section 93(a)﻿(i)).
 (3) Each entity’s regional representative group must include an equal number of—
   (a) territorial authority representatives; and
   (b) mana whenua representatives.
+(4) Each entity’s regional representative group must include at least 1 representative from each territorial authority owner in the entity’s service area.
 
 ### 28 Role of regional representative group
 The role of a water services entity’s regional representative group is—
@@ -844,7 +921,7 @@ Each water services entity must have a constitution that complies with the requi
 ### 93 What constitution must contain
 The constitution of a water services entity must provide for the following matters:Composition of regional representative groupProcedures for regional representative groupComposition of regional advisory panelProcedures for regional advisory panelProcedures for performing duty to provide funding for specified remuneration, expenses, or costsComposition of boardProcedures for boardProcedures for dispute resolutionProcedures for reviewing, amending, or replacing the constitution
   (a) the composition of the regional representative group, including—
-    (i) the group’s number (which must be a whole number and an even number) of regional representatives (see section 27(2) and (3)); and
+    (i) the group’s number (which must be a whole number and an even number) of regional representatives (see section 27(2) to (4)); and
     (ii) the procedures for the appointment of territorial authority representatives to the group (see section 32), which must include procedures for ensuring that appointed representatives achieve equitable and reasonable representation of relevant metropolitan, provincial, and rural authorities; and
     (iii) the procedures for the appointment of mana whenua representatives to the group (see section 33); and
     (iv) the requirements before appointment to the group, including disclosure of interests (see section 34); and
@@ -1189,7 +1266,9 @@ Duty to provide information
   (b) to require the performance or non-performance of a particular act, or the bringing about of a particular result, in respect of a particular person or persons.
 (2) This section applies to all Government policy statements and statements of strategic and performance expectations issued under this Act.
 (3) This section also prevents a constitution of a water services entity from conferring a power of direction that would contravene this section.
-(4) However, nothing in this section affects the performance or exercise of a territorial authority’s regulatory duties, functions, or powers under legislation other than this Act.
+(4) However, nothing in this section affects the following:
+  (a) the giving of a direction under section 137A (directions for shared services):
+  (b) the performance or exercise of a territorial authority’s regulatory duties, functions, or powers under legislation other than this Act.
 
 **Obligation to maintain ownership and control of water services and significant assets**
 
@@ -1344,12 +1423,21 @@ Government policy statement on water services
 (2) Subpart 2 is about a Government policy statement on water services that—
   (a) states the Government’s overall direction and priorities for water services; and
   (b) informs and guides agencies involved in, and the activities necessary or desirable for, water services.
+Directions for shared services
+(2A) Subpart 2A is about directions to require entities to share services provided to those entities.
 Statement of strategic and performance expectations
 (3) Subpart 3 is about a regional representative group’s statement of strategic and performance expectations that—
   (a) states the regional representative group’s objectives and priorities for water services in the entity’s service area; and
   (b) informs and guides the decisions and actions of the board of the entity.
 Te Mana o te Wai statement for water services
 (4) Subpart 4 is about a Te Mana o te Wai statement for water services provided to a water services entity by mana whenua. The entity must prepare, in accordance with engagement requirements (see sections 206 to 209), a response to the statement. That response must include a plan that sets out how the entity intends to give effect to Te Mana o te Wai, to the extent that it applies to the entity’s duties, functions, and powers.
+Community priority statements for water services
+(4A) Subpart 4A is about a community priority statement for water services made—
+  (a) about a water body in the service area of a water services entity; and
+  (b) by an eligible person (see section 145AB); and
+  (c) to the entity’s regional representative group; and
+  (d) by any current deadline for community priority statements that has been set by the group and notified to the public (see section 145AC); and
+  (e) to state to the group the person’s views about, and priorities for, how water services provided by, or other activities of, the entity do or could affect or relate to the water body.
 Reporting obligations
 (5) Subpart 5 provides for reporting obligations of a water services entity, through the following documents which, except for an annual report, are also prepared in accordance with engagement requirements (see sections 206 to 209):
   (a) a statement of intent:
@@ -1361,8 +1449,11 @@ Financial management and independence, accounting, and borrowing
 (6) Subpart 6 provides further for financial management and independence.
 (7) Subpart 7 contains provisions about accounting records.
 (8) Subpart 8 contains provisions about borrowing.
+Funding Agency and protected transactions
+(9) Subpart 9 contains provisions related to the Water Services Entities Funding Agency.
+(10) Subpart 10 contains provisions related to protected transactions.
 Status of outline
-(9) This outline is only a guide to this Part’s general scheme and effect.
+(11) This outline is only a guide to this Part’s general scheme and effect.
 
 ### Subpart 2 — Government policy statement on water services
 
@@ -1418,6 +1509,67 @@ A water services entity must give effect to any Government policy statement (as 
   (a) present a copy to the House of Representatives; and
   (b) arrange for a copy to be given to each water services entity.
 (2) The department must make the Government policy statement publicly available as soon as practicable after it is issued by publishing a copy on an Internet site maintained by, or on behalf of, the department in a format that is readily accessible.
+
+### Subpart 2A — Directions for shared services
+
+### 137A Directions for shared services
+Purposes for which direction may be given
+(1) The Minister may direct water services entities to comply with specified requirements to share services provided to those entities and that are requirements for all or any of the following purposes:
+  (a) to improve (directly or indirectly) the provision of water services:
+  (b) to develop expertise and capability:
+  (c) to ensure business continuity:
+  (d) to manage risks to the water services entities’ financial position, the Government’s financial position, or both.
+Entities to which direction may be given
+(2) The direction may be given only to 2 or more entities each of which is—
+  (a) a water services entity; or
+  (b) a subsidiary of a water services entity.
+Requirements for direction
+(3) The direction must not be inconsistent with the operating principles of water services entities set out in section 14.
+(4) The direction may direct 2 or more entities to which it may be given about how to give effect to it, but only in respect of any 1 or more specified periods—
+  (a) after it comes into force; and
+  (b) before 1 July 2026.
+(5) The direction must be limited to all or any of the following activities:
+  (a) debt funding and management (for example, through the Water Services Entities Funding Agency):
+  (b) information and communication technology, and digital infrastructure procurement and management:
+  (c) other procurement, and supply chain management:
+  (d) risk management and insurance:
+  (e) workforce development and employment relations.
+(6) However, a direction to which subsection (5)﻿(a) applies may only be given (despite subsection (1)) jointly by the Minister and the Minister of Finance.
+(7) A direction given under this section must include the reasons why it is given and a statement of its purposes.
+Commencement
+(8) A direction given under this section comes into force on the commencement date stated in it (which must be not earlier than the day after the date on which it is given).
+Direction is secondary legislation
+(9) Directions given under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+
+### 137B Process for giving directions under section 137A
+Engagement
+(1) The Minister must, before giving a direction under section 137A, engage in accordance with section 206 in relation to the proposed direction with—
+  (a) the water services entities; and
+  (b) the regional representative group of each water services entity; and
+  (c) Taumata Arowai–the Water Services Regulator; and
+  (d) the Commission; and
+  (e) other persons, and representative groups of persons, who have an interest in water services in New Zealand.
+(2) The Minister must, in giving a direction under section 137A, consider—
+  (a) the input or feedback provided through the engagement in accordance with section 206 in relation to the proposed direction; and
+  (b) whether and how the proposed direction should respond to any issues or concerns raised by that input or feedback.
+(3) Subsection (2) does not limit or affect section 206A.
+Notification
+(4) The Minister must, as soon as practicable after giving a direction under section 137A, notify the entities to which the direction will apply that the direction—
+  (a) has been given; and
+  (b) will come into force on the commencement date stated in it.
+Shared services directions related to debt finding and management
+(5) However, for a direction to which section 137A(5)﻿(a) applies, references in this section to the Minister are to be treated as references to the Minister acting jointly with the Minister of Finance (and section 206, as applied by this section, applies accordingly).
+Exception for amendments or replacements with limited effect
+(6) Subsections (1) and (4) do not apply to any amendment or replacement of the direction (see section 48 of the Legislation Act 2019) if that amendment or replacement has only a minor effect and does not adversely and substantially affect the interests of any person.
+
+### 137C Obligation to give effect to direction
+(1) This section applies to an entity to which a direction under section 137A is given, but only while the direction is in force.
+(2) The entity must give effect to the direction when performing its functions.
+
+### 137D Certain arrangements or agreements exempt from specified sections of Commerce Act 1986
+Any arrangement or agreement is exempt from sections 27, 30, 30C, 36, and 36A of the Commerce Act 1986 if the arrangement or agreement is—
+  (a) entered into by parties that are or include 1 or more entities to which a direction under section 137A is given; and
+  (b) entered into by those 1 or more entities in order to give effect to the direction when performing their functions (in accordance with section 137C).
 
 ### Subpart 3 — Regional representative group’s statement of strategic and performance expectations
 
@@ -1481,6 +1633,56 @@ The regional representative group of a water services entity must annually revie
 The board of a water services entity must make its response to a Te Mana o te Wai statement for water services publicly available by publishing a copy on an Internet site maintained by, or on behalf of, the entity in a format that is readily accessible—
   (a) as soon as practicable after issuing the response; and
   (b) in any event, within 2 years after receiving the statement to which it relates.
+
+### Subpart 4A — Community priority statements for water services
+
+### 145A Making of statement
+A community priority statement for water services may be made—
+  (a) about a water body in the service area of a water services entity; and
+  (b) by a person who is an eligible person (see section 145AB); and
+  (c) to the entity’s regional representative group; and
+  (d) by any current deadline for community priority statements that has been set by the group and notified to the public (see section 145AC); and
+  (e) to state to the group the person’s views about, and priorities for, how water services provided by, or other activities of, the entity do or could affect or relate to the water body.
+
+### 145AB Who is eligible person
+Meaning of eligible person
+(1) An eligible person, for the purposes of section 145A(b), means a person who—
+  (a) has a connection with the entity’s service area (see subsection (2)); and
+  (b) has an interest in how water services are provided in that service area, or in how other activities of the entity do or could affect or relate to the water body, or in both.
+When person has connection with entity’s service area
+(2) A person has a connection with the entity’s service area for the purposes of subsection (1)﻿(a) only if the person is—
+  (a) an individual who ordinarily resides in that service area; or
+  (b) a corporation sole or a body corporate (including, without limitation, a local authority that is a body corporate with perpetual succession under section 12(1) of the Local Government Act 2002) whose registered office, or whose main place of activities, is in that service area; or
+  (c) an unincorporated body, or any other person of any kind,—
+    (i) whose main place of activities is in that service area; and
+    (ii) whose purpose is, or includes, for any reason, any matter related to a water body in that service area; or
+  (d) a corporation sole, a body corporate, any unincorporated body, or any other person of any kind,—
+    (i) whose registered office, or whose main place of activities, is not in that service area; and
+    (ii) who is a regional, national, or international organisation, of any kind, that carries out all or any of its activities in any place or places in New Zealand; and
+    (iii) whose purpose is, or includes, for any reason, any matter related to a water body in that service area.
+
+### 145AC Regional representative group may set, and notify publicly, current deadline for statements
+(1) A water services entity’s regional representative group may set, and notify publicly, a current deadline for community priority statements.
+(2) In setting a current deadline for community priority statements, the group must consider when it may next have regard to those statements (see section 145C(3) and (4))—
+  (a) in preparing, issuing, or reviewing the group’s statement of strategic and performance expectations under section 139; and
+  (b) as part of any comments the group makes on the water services entity’s planning and reporting documents under subpart 5.
+(3) A current deadline for community priority statements is notified publicly for the purposes of this section if the deadline is published—
+  (a) on an Internet site maintained by, or on behalf of, the entity; and
+  (b) in any other ways that the group thinks are reasonable in the circumstances.
+
+### 145B Other requirements for making statement
+(1) A community priority statement for water services must be made in writing.
+(2) A community priority statement for water services must state—
+  (a) the person’s interest in how water services are provided in the entity’s service area, or in how other activities of the entity do or could affect or relate to the water body, or in both; and
+  (b) the person’s views about, and priorities for, how water services provided by, or other activities of, the entity do or could affect or relate to the water body.
+(3) A community priority statement must be made by any current deadline for community priority statements that has been set by the regional representative group and notified to the public (see section 145AC).
+(4) However, a community priority statement made after any current deadline of that kind must be treated as having been received before the next current deadline of that kind (if any).
+
+### 145C What regional representative group must or may do in response to statement
+(1) This section applies to a water services entity’s regional representative group to which a community priority statement for water services is made.
+(2) The group must forward the statement to a consumer forum established by the water services entity under section 207.
+(3) The group may consider the statement in preparing, issuing, or reviewing the group’s statement of strategic and performance expectations under section 139.
+(4) The group may consider the statement as part of any comments the group makes on the water services entity’s planning and reporting documents under subpart 5.
 
 ### Subpart 5 — Reporting obligations
 
@@ -1858,6 +2060,138 @@ An annual report must state, as at the end of the financial year,—
 ### 173 Borrowing in foreign currency
 A water services entity may borrow or enter into incidental arrangements within or outside New Zealand in currency other than New Zealand currency.
 
+### Subpart 9 — Water Services Entities Funding Agency
+
+**Preliminary provisions**
+
+### 173A Purpose
+(1) The purpose of this subpart is to facilitate the operation of the Funding Agency.
+(2) To achieve that purpose, this subpart—
+  (a) exempts the Funding Agency from certain regulatory or taxation criteria that would otherwise apply to it; and
+  (b) applies to the Funding Agency certain regulatory or taxation criteria that would otherwise not apply to it; and
+  (c) authorises water services entities to deal with the Funding Agency in a manner in which they would otherwise not be authorised to do so; and
+  (d) authorises or requires water services entities, in certain situations, to act in a manner in which they would otherwise not be authorised or required to act.
+
+### 173B Definitions
+In this subpart, unless the context otherwise requires,—
+  - **borrowing** has the same meaning as in section 173K
+  - **Funding Agency** means a limited liability company—
+    (a) registered under Part 2 of the Companies Act 1993; and
+    (b) approved for the purposes of this subpart by the Minister by notice in the Gazette
+  - **incidental arrangement** has the same meaning as in section 173K
+  - **loan** has the same meaning as in section 173K
+  - **Minister** has the meaning given by section 2(1) of the Public Finance Act 1989
+  - **protected transaction** has the same meaning as in section 173K.
+
+### 173C Application
+This subpart applies to the Funding Agency only while the Funding Agency is a subsidiary of 1 or more water services entities.
+
+**Application of Non-bank Deposit Takers Act 2013**
+
+### 173D Funding Agency not non-bank deposit taker
+The Funding Agency is not an NBDT (a non-bank deposit taker) for the purposes of the Non-bank Deposit Takers Act 2013.
+
+**Application of Financial Markets Conduct Act 2013**
+
+### 173E Financial Markets Conduct Act 2013 applies to Funding Agency as if it were local authority
+The Financial Markets Conduct Act 2013 applies to the Funding Agency as if it were a local authority.
+
+**Prohibitions and restrictions relating to subsidiaries**
+
+### 173F Exemptions from prohibitions and restrictions applying to subsidiaries
+(1) This section applies to a water services entity only while the Funding Agency is a subsidiary of 1 or more water services entities (see section 173C).
+(2) A water services entity may give a guarantee, an indemnity, or a security in respect of the performance of any obligation by the Funding Agency.
+(3) A water services entity may lend money, or provide any other financial accommodation, to the Funding Agency on terms and conditions that are more favourable to the Funding Agency than those that would apply if the water services entity were borrowing the money or obtaining the financial accommodation.
+(4) Subsection (5) applies if the water services entity gives a guarantee, an indemnity, or a security, or lends money or provides any other financial accommodation, under subsection (2) or (3) while the Funding Agency is a subsidiary of a water services entity and, subsequently, the Funding Agency ceases to be a subsidiary of a water services entity.
+(5) The guarantee, indemnity, security, loan, or other financial accommodation continues subject to its terms, and the obligations and rights of the water services entity in respect of the guarantee, indemnity, security, loan, or other financial accommodation continue to apply, despite the Funding Agency no longer being a subsidiary of a water services entity.
+
+**Additional requirements for water services entity’s funding and pricing plan**
+
+### 173G Additional requirements to be specified in water services entity’s funding and pricing plan
+(1) This section applies to a water services entity if it has prepared and provided to its regional representative group a funding and pricing plan and it gives a guarantee in relation to either or both of the following:
+  (a) any indebtedness of the Funding Agency:
+  (b) another water services entity’s indebtedness to the Funding Agency.
+(2) The water services entity must specify in its funding and pricing plan its policy on the giving of any securities that secure obligations under the guarantee.
+
+**Protected transactions**
+
+### 173H Certain kinds of arrangements and transactions to be treated as protected transactions
+(1) This section applies to arrangements of any of the following kinds:
+  (a) a guarantee by a water services entity of any indebtedness owed by another water services entity to the Funding Agency:
+  (b) a guarantee by a water services entity of any indebtedness of the Funding Agency:
+  (c) a commitment by a water services entity to contribute equity to the Funding Agency:
+  (d) a commitment by a water services entity to lend money to the Funding Agency.
+(2) Those arrangements are to be treated as protected transactions for the purposes of sections 173L to 173O.
+(3) This section does not limit the generality of sections 173L to 173O.
+
+**Crown relationship with Funding Agency**
+
+### 173I Crown may lend money to Funding Agency
+(1) The Minister, on behalf of the Crown, may lend money to the Funding Agency if—
+  (a) the Minister considers that it is necessary or expedient in the public interest to do so; and
+  (b) the money is lent on commercial terms.
+(2) The Minister may lend money under subsection (1) without further appropriation than this section.
+
+### 173J No Crown guarantee for debts of Funding Agency
+(1) No debt of the Funding Agency is guaranteed by the Crown.
+(2) If the Funding Agency enters into any loan agreement or incidental arrangement, the agreement or arrangement must include a statement that the loan or liability under the agreement or arrangement is not guaranteed by the Crown.
+(3) However, subsections (1) and (2) do not apply if the Crown is liable (for example, the Crown is liable to pay a debt) under a guarantee or an indemnity given by the Minister, on behalf of the Crown, under section 65ZD of the Public Finance Act 1989.
+
+### Subpart 10 — Protected transactions
+
+### 173K Definitions
+In this subpart, unless the context otherwise requires,—
+  - **borrowing** —
+    (a) means the incurring by any means of debt to raise money; and
+    (b) includes the incurring of debt—
+      (i) under any contract or arrangement for hire purchase, deferred payment, instalment payment, sale and lease-back or buy-back, financial lease, loan, overdraft, or other arrangement for obtaining debt finance; or
+      (ii) by the drawing, acceptance, making, endorsement, issue, or sale of bills of exchange, promissory notes, and other negotiable instruments and debt securities; or
+      (iii) by the use, for any purpose, of funds received or invested by a water services entity for any other purpose if the water services entity has resolved to repay, with or without interest, the funds used; but
+    (c) does not include debt incurred in connection with the hire purchase of goods, the deferred purchase of goods or services, or the giving of credit for the purchase of goods or services if—
+      (i) the period for which the indebtedness is outstanding is less than 91 days and the indebtedness is not incurred again promptly after payment; or
+      (ii) the goods or services are obtained in the ordinary course of the water services entity’s performance of its lawful responsibilities, on terms and conditions available generally to parties of equivalent creditworthiness, for amounts not exceeding in aggregate an amount—
+        (A) determined by resolution of the water services entity as not being so significant as to require specific authorisation; or
+        (B) recorded for the purposes of this subparagraph in the then current borrowing management policy of the water services entity
+  - **charge** includes a mortgage, a floating charge, and any other non-possessory security interest deliberately created by the water services entity concerned
+  - **incidental arrangement** means—
+    (a) a contract or an arrangement for the management, reduction, sharing, limiting, assumption, offset, or hedging of financial risks and liabilities in relation to any investment or investments or any loan or loans or other incidental arrangement, whether or not that contract or arrangement involves—
+      (i) the expenditure, borrowing, or lending of money; or
+      (ii) a water services entity undertaking to make payments in exchange for another person undertaking to make payments to the water services entity; or
+      (iii) the creation or acquisition or disposal of any property or right; or
+    (b) a contract or an arrangement with any bank, financial institution, or other person providing for any person to act as underwriter, broker, indemnifier, guarantor, accommodation party, manager, dealer, trustee, registrar, or paying, fiscal, or other agent for, or in connection with, any loan or investment; or
+    (c) the creation of a charge
+  - **loan** includes the amounts raised or indebtedness incurred, as the context may require, as a result of borrowing
+  - **protected transaction** means (subject to section 173H, which requires specified arrangements to be treated as protected transactions for the purposes of sections 173L to 173O) all or any of the following:
+    (a) any deed, agreement, right, or obligation constituting, relating to, or for the purpose of any borrowing or incidental arrangement:
+    (b) any charge, guarantee, or security for the payment of any amount (including any loan) payable in relation to, or for the purpose of any borrowing or incidental arrangement:
+    (c) any conveyance or transfer of any property in relation to, or for the purpose of any borrowing or incidental arrangement.
+
+### 173L Protected transactions
+(1) Every protected transaction entered into, or purportedly entered into, by or on behalf of a water services entity is valid and enforceable despite—
+  (a) the water services entity failing to comply with any provision of this Act in any respect; or
+  (b) the entry into, or performance of, the protected transaction being outside the capacity, rights, or powers of the water services entity; or
+  (c) a person held out by the water services entity as being a member of the establishment board, member of the board, or an employee, agent, or attorney, of the water services entity—
+    (i) not having been validly appointed as such; or
+    (ii) not having the authority to exercise any power or to do anything either that the person is held out as having or that a person appointed to such a position would customarily have; or
+  (d) a document issued, or purporting to be issued, on behalf of the water services entity by a person with actual or customary authority, or held out as having such authority, to issue the document not being valid or not being genuine.
+(2) However, nothing in this subpart overrides section 118 (obligation to maintain water services).
+
+### 173M Certificate of compliance
+(1) This section applies to a certificate—
+  (a) signed, or purporting to be signed, by the chief executive of a water services entity; and
+  (b) to the effect that the water services entity has complied with this Act in connection with a protected transaction.
+(2) The certificate is conclusive proof for all purposes that the water services entity has so complied.
+
+### 173N Good faith in relation to protected transactions
+(1) Sections 173L and 173M apply in relation to a protected transaction even though a person of the kind referred to in section 173L(1)﻿(c) or (d) or 173M acts fraudulently or forges a document that appears to have been signed on behalf of the water services entity, unless any person dealing with the water services entity in relation to the protected transaction or a person who had acquired property, rights, or interests from the water services entity acts in bad faith.
+(2) A person may not rely on section 173L or 173M in relation to a protected transaction if that person has dealt in bad faith with a water services entity in relation to the protected transaction.
+(3) For the purpose of subsections (1) and (2),—
+  (a) a person is not regarded as acting in bad faith by reason only of the fact that, in relation to any protected transaction, the person knew or ought to have known of the existence of any of the states of affairs referred to in paragraphs (a) to (d) of section 173L(1); and
+  (b) a person must be presumed to have acted in good faith unless the contrary is proved.
+
+### 173O Savings provision in respect of power of court
+Nothing in sections 173K to 173N affects the ability of any person to obtain from a court any remedy that has the effect of preventing or restraining temporarily or permanently a water services entity from doing any act or thing in the future (other than an act or a thing necessary for the performance of a protected transaction that has already been entered into).
+
 ## Part 5 — Monitoring
 
 ### Subpart 1 — Monitor
@@ -2136,7 +2470,7 @@ On and from the expiry of the term of a Crown manager appointed in relation to a
 
 ### 200 Interim review of governance and accountability arrangements under Act
 (1) The Minister must, in the relevant period, commission a review of the need for, and the operation and effectiveness of, the governance and accountability arrangements under this Act.
-(2) The relevant period starts on the fifth anniversary, and ends on the sixth anniversary, of the establishment date (as defined in clause 1 of Schedule 1).
+(2) The relevant period starts on the fifth anniversary, and ends on the sixth anniversary, of 1 July 2026.
 (3) The interim review required by this section must include consideration of the following matters:
   (a) governance structures, and related roles and responsibilities, under this Act:
   (b) interaction of each water services entity’s regional representative group with the following:
@@ -2164,7 +2498,7 @@ On and from the expiry of the term of a Crown manager appointed in relation to a
 
 ### 201 Comprehensive review of water services legislation
 (1) The Minister must, in the relevant period, commission a review of the need for, and operation and effectiveness of, water services legislation.
-(2) The relevant period starts on the ninth anniversary, and ends on the tenth anniversary, of the establishment date (as defined in clause 1 of Schedule 1).
+(2) The relevant period starts on the ninth anniversary, and ends on the tenth anniversary, of 1 July 2026.
 (3) The comprehensive review required by this section must include consideration of the following:
   (a) legislation in or made under this Act, plus each water services entity’s constitution:
   (b) legislation in or made under Taumata Arowai–the Water Services Regulator Act 2020:
@@ -2200,16 +2534,19 @@ A review required by this subpart must be done by the following reviewer:
 (5) The Minister must, after receiving the report, promptly present a copy to the House of Representatives.
 
 ### 205 Repeal of this subpart
-This subpart is repealed on the 15th anniversary of the establishment date (as defined in clause 1 of Schedule 1).
+This subpart is repealed on the 15th anniversary of 1 July 2026.
 
 ### Subpart 2 — Engagement
 
 ### 206 Engagement requirements
 (1) This section applies to engagement that a water services entity or the Minister must undertake in accordance with any of the following provisions:
+  (aaa) section 6A(8) (relating to setting by Order in Council establishment dates under section 6A for 1 or more water services entities):
   (a) section 120(2) (relating to joint arrangements, or joint water services entity arrangements, for the purpose of providing water services):
   (b) section 134(b) (relating to preparation or review of a Government policy statement):
+  (ba) section 137B(1) (relating to giving a direction under section 137A for shared services):
   (c) section 144(1)﻿(b) (relating to the preparation of a response to a Te Mana o te Wai statement for water services):
   (d) section 210(1)﻿(a) and (2) (relating to the making of regulations to provide for a model constitution):
+  (da) clause 14 of Schedule 2A (relating to whether a finalised merger proposal should be implemented):
   (e) clauses 1, 7, 14, and 19 of Schedule 3 (relating to statements of intent, asset management plans, funding and pricing plans, and infrastructure strategies).
 (2) Engagement requires that a water services entity or the Minister do either or both of the following before deciding on a matter:
   (a) consult on a proposal:
@@ -2221,6 +2558,12 @@ This subpart is repealed on the 15th anniversary of the establishment date (as d
   (c) must allow adequate time for engagement to occur and for a response or responses from the particular person or persons with whom the water services entity or the Minister is engaging; and
   (d) may consider the relevance and sufficiency of any earlier engagement.
 
+### 206A Report on engagement
+(1) This section applies when a water services entity or the Minister is undertaking engagement in accordance with a provision referred to in section 206(1).
+(2) The water services entity or the Minister must, as soon as practicable after finalising any relevant statement, response, plan, strategy, or secondary legislation (specified document),—
+  (a) prepare a report on how input into, and feedback on, the specified document was considered and incorporated into the specified document; and
+  (b) publish the report on an Internet site maintained by, or on behalf of, the water services entity in a format that is readily accessible.
+
 **Consumer engagement**
 
 ### 207 Consumer forum
@@ -2229,11 +2572,14 @@ This subpart is repealed on the 15th anniversary of the establishment date (as d
   (a) assist with effective and meaningful consumer and community engagement; and
   (b) gather and compile consumer views; and
   (c) assist the water services entity to understand consumer needs, expectations, and service requirements; and
+  (ca) assist the entity’s regional representative group and, through that group, the entity, to understand views and priorities—
+    (i) about 1 or more water bodies in the entity’s service area; and
+    (ii) stated in 1 or more community priority statements for water services (see subpart 4A of Part 4); and
   (d) reflect and represent the interests and diversity of consumers across the entity’s region.
 (3) A consumer forum may be established under this section—
   (a) for the whole or part of a service area; and
   (b) in relation to all, or a particular class of, consumers.
-(4) The chief executive of a water services entity must ensure that each of its consumer forums achieves equitable and reasonable representation of metropolitan, provincial, and rural communities in its service area.
+(4) The chief executive of a water services entity must ensure that each of its consumer forums achieves equitable and reasonable representation of metropolitan, provincial, and rural communities, and mana whenua, in its service area.
 (5) The chief executive of the entity must provide a guidance document to each consumer forum established under this section that provides for the composition and procedures of the forum, including—
   (a) the intervals between meetings; and
   (b) the number of members that may be on the forum; and
@@ -2248,7 +2594,10 @@ This subpart is repealed on the 15th anniversary of the establishment date (as d
 (1) The chief executive of a water services entity must prepare a consumer engagement stocktake annually and no later than 3 months before the end of a financial year.
 (2) The purpose of a consumer engagement stocktake is to—
   (a) capture consumer and community feedback on, and satisfaction with, how the entity is performing; and
-  (b) set out how the water services entity will respond to consumer and community needs and address consumer and community concerns.
+  (b) set out how the water services entity will respond to consumer and community needs and address consumer and community concerns; and
+  (c) to set out how the entity will respond to views and priorities—
+    (i) about 1 or more water bodies in the entity’s service area; and
+    (ii) stated in 1 or more community priority statements for water services (see subpart 4A of Part 4).
 (3) A consumer engagement stocktake must cover,—
   (a) for the first consumer engagement stocktake, the period from the establishment date (as defined in clause 1 of Schedule 1); and
   (b) for later consumer engagement stocktakes, the period since the last consumer engagement stocktake.
@@ -2276,10 +2625,12 @@ In performing its functions under sections 147 to 159 and 208, a water services 
   (e) providing for anything this Act says may or must be provided for by regulations:
   (f) providing for anything incidental that is necessary for carrying out, or giving full effect to, this Act.
 (2) The Minister must, before recommending the making of regulations under subsection (1)﻿(a) in relation to a water services entity, engage in accordance with section 206 in relation to the regulations with the territorial authority owners of the entity and mana whenua of the service area.
-(3) Regulations made under subsection (1)﻿(a) in relation to a water services entity must, despite sections 27(2) and 93(a)﻿(i), provide that the entity’s regional representative group consists of a number of regional representatives that is—
-  (a) at least 12; and
-  (b) no more than 18.
-(4) However, subsection (3) does not limit sections 27(2) and 93(a)﻿(i) when the entity’s model constitution is amended or replaced under section 97.
+(3) Regulations made under subsection (1)﻿(a) in relation to the Northland and Auckland Water Services Entity must, despite sections 27(2) and (4) and 93(a)﻿(i), provide that the entity’s regional representative group consists of only the following regional representatives:
+  (a) 4 Auckland Council representatives:
+  (b) 4 mana whenua representatives appointed in respect of Tāmaki Makaurau (and that area, in this paragraph, means the district of the territorial authority in paragraph (a)):
+  (c) 1 representative each from Far North District Council, Kaipara District Council, and Whangarei District Council:
+  (d) 3 mana whenua representatives appointed in respect of Te Tai Tokerau (and that area, in this paragraph, means the districts of the territorial authorities in paragraph (c)).
+(4) However, subsection (3) does not limit sections 27(2) and (4) and 93(a)﻿(i) when the entity’s model constitution is amended or replaced under section 97.
 (5) Regulations made under subsection (1)﻿(b) may include requirements relating to—
   (a) the type of information that must be provided; and
   (b) the frequency of the reporting.
@@ -2438,12 +2789,10 @@ In this Part, unless the context otherwise requires,—
   - **establishment chief executive** means a chief executive—
     (a) of a water services entity; and
     (b) appointed under clause 4
-  - **establishment date** means the earlier of—
-    (a) a date set by the Governor-General by Order in Council under section 2(2); and
-    (b) 1 July 2024
-  - **establishment period** means the period—
-    (a) commencing on the day after the date on which this Act receives the Royal assent; and
-    (b) ending on the establishment date
+  - **establishment date** , for a water services entity, means the entity’s establishment date under section 6A(4) or (5)
+  - **establishment period** , for a water services entity, means the period—
+    (a) starting on the date on which the entity is established under section 11 (as inserted by the Water Services Entities Amendment Act 2023); and
+    (b) ending on the entity’s establishment date (as defined in this clause)
   - **existing employer** has the meaning set out in clause 22
   - **infrastructure assets** includes—
     (a) existing or proposed assets to be used to provide services by, or on behalf of, the water services entity in relation to water services; and
@@ -2460,6 +2809,19 @@ In this Part, unless the context otherwise requires,—
     (a) the establishment of water services entities to deliver water services in accordance with this Act; and
     (b) the transfer of interests in, and the ownership of, infrastructure assets from local government organisations to the water services entities.
 
+#### Subpart 1A — Disestablishment of former entities
+
+### 1A Disestablishment of former entities
+Disestablishment
+(1) This clause disestablishes the 4 water services entities established on 15 December 2022 by section 11 of this Act as enacted.
+Effect on former entity’s establishment chief executive
+(2) After the disestablishment of an entity mentioned in subclause (1), its establishment chief executive appointed under clause 4(4) of this schedule (in this Act as enacted)—
+  (a) no longer holds that position; but
+  (b) continues to be an employee of the department on the terms and conditions of employment mentioned in clause 4(4) of this schedule (in this Act as enacted), except to the extent (if any) that those terms and conditions are varied or replaced by agreement between the chief executive of the department and the establishment chief executive.
+References to water services entities established under section 11 of this Act
+(3) After the commencement of this clause, references in other legislation to water services entities under section 11 of this Act are, unless the context otherwise requires, references to water services entities under section 11 of this Act (as inserted by the Water Services Entities Amendment Act 2023).
+(4) Subclause (3) applies even if the other legislation was enacted before the commencement of the Water Services Entities Amendment Act 2023.
+
 #### Subpart 1 — Transitional provisions relating to establishment and governance of water services entities
 
 ### 2 Establishment functions and objectives of water services entities
@@ -2475,32 +2837,35 @@ During the establishment period, subparts 6 and 8 of Part 2 of this Act apply wi
   (b) all references to the constitution (for example, in section 60) do not apply (because only after that period will a model constitution for the purposes of section 96 be provided for by regulations made under section 210(1)﻿(a)); and
   (c) section 62 (board must hold 2 public meetings each financial year) does not apply; and
   (d) all references to the regional representative group and the board appointment committee of the regional representative group in subpart 6 of Part 2 of this Act must be read as if they were references to the Minister; and
+  (da) the Minister must, after the commencement of this paragraph and before 1 July 2026, and subject to paragraph (dc), appoint an establishment board for each water services entity; and
+  (db) the Minister’s appointment under paragraph (da) of the entity’s establishment board—
+    (i) may take effect before or on the entity’s establishment date; but
+    (ii) must take effect on or after 1 July 2024 and before or on 1 July 2026; and
+  (dc) any establishment board appointed, before this paragraph’s commencement, for the Northern Water Services Entity (as established on 15 December 2022 by section 11 of this Act as enacted) is, after that commencement, taken to have been appointed on that commencement, under paragraph (da), and on equivalent terms and conditions, as the establishment board for the Northland and Auckland Water Services Entity (as established under section 11 of this Act (as inserted by the Water Services Entities Amendment Act 2023)):
   (e) subpart 8 of Part 2 of this Act applies only in relation to board members, and all references in that subpart to the regional representative group and the board appointment committee of the regional representative group in relation to an obligation of the board or members of the board must be read as if they were references to the Minister; and
-  (f) section 67 must be read as if it provided that a member of the board of a water services entity holds office for the establishment period or for any shorter period stated in the notice of appointment.
+  (f) section 67 must be read as if it provided that a member of the board of a water services entity appointed by the Minister during the establishment period holds office until the second anniversary of the establishment date unless earlier ceasing to hold office under section 74, for example, because of being removed from office under section 70 by—
+    (i) the Minister (see paragraph (d) of this clause), during the establishment period; or
+    (ii) the board appointment committee, on or after the entity’s establishment date.
 
 ### 4 Appointment of establishment chief executive
-(1) The chief executive of the department must appoint an establishment chief executive to each water services entity during the establishment period.
-(2) An appointment of a water services entity’s establishment chief executive is taken to have been made under subclause (1) if the appointment—
-  (a) is made by the chief executive of the department; and
-  (b) is made before the start of the establishment period; and
-  (c) takes effect before, on, or after the start of the establishment period.
-(3) An establishment chief executive is appointed for a term that—
-  (a) commences in accordance with the terms and conditions agreed under subclause (4); and
-  (b) ends at the close of the day that is 24 months after the establishment date unless earlier terminated in accordance with subclause (7).
-(4) The terms and conditions of employment of an establishment chief executive must be determined by agreement between the chief executive of the department and the establishment chief executive.
-(5) When considering the terms and conditions of an establishment chief executive, the chief executive of the department must have regard to the matters listed in section 121(3)﻿(a) to (d).
-(6) If an appointment under subclause (1) of a water services entity’s establishment chief executive takes effect before the appointment under clause 3 of the entity’s establishment board takes effect,—
-  (a) the establishment chief executive is an employee of the department until the appointment of the entity’s establishment board takes effect; and
-  (b) after the appointment of the entity’s establishment board takes effect, the establishment chief executive ceases to be an employee of the department, and becomes instead an employee of the entity on the same terms and conditions of employment that applied to the establishment chief executive immediately before that appointment took effect.
-(7) The board of a water services entity may remove the establishment chief executive of the entity from office at any time on or after the establishment date.
-(8) This clause—
-  (a) applies instead of section 121(1) to (3) during the establishment period; and
-  (b) continues to apply until the earlier of the following:
-    (i) the date that is 24 months after the establishment date; and
-    (ii) the time of the removal or resignation, after the establishment date, of a chief executive appointed under this clause.
+General
+(1) The establishment board of a water services entity must appoint an establishment chief executive of the entity.
+(2) The appointment required by subclause (1)—
+  (a) must be made in the entity’s establishment period; and
+  (b) must take effect in the entity’s establishment period; and
+  (c) is subject to section 121.
+(3) The establishment chief executive is appointed for a term of office that ends at the close of the day that is 24 months after the entity’s establishment date, unless the entity’s establishment chief executive’s term of office is earlier terminated by—
+  (a) the entity’s establishment board, during the entity’s establishment period; or
+  (b) the entity’s board, on or after the entity’s establishment date.
+(4) Subclauses (1) to (3) are subject to subclauses (5) and (6).
+Exception: Northland and Auckland Water Services Entity
+(5) The Northland and Auckland Water Services Entity’s establishment chief executive is the person who, immediately before the commencement of this clause, held under clause 4 of this schedule (in this Act as enacted) the position of the Northern Water Services Entity’s establishment chief executive.
+(6) Subclause (5) does not—
+  (a) prevent that person from ceasing to hold the position of Northland and Auckland Water Services Entity’s establishment chief executive; or
+  (b) affect or limit clause 1A(2)﻿(b) (under which that person continues to be an employee of the department on the terms and conditions of employment mentioned in clause 4(4) of this schedule (in this Act as enacted)), except to the extent (if any) that those terms and conditions are varied or replaced by agreement between the chief executive of the department and the establishment chief executive.
 
-### 5 Establishment chief executive must prepare allocation schedule
-(1) During the establishment period, the establishment chief executive of a water services entity must prepare, and may update, an allocation schedule for the entity.
+### 5 Establishment board must prepare allocation schedule
+(1) During the establishment period, the establishment board of a water services entity must prepare, and may update, an allocation schedule for the entity.
 (2) A local government organisation must, under clause 17(1) and (2)﻿(c), co-operate with a relevant water services entity to facilitate the water services reform and, in particular, must comply with any reasonable request by the entity for information that—
   (a) the organisation holds; and
   (b) is or may be necessary or desirable for preparing the allocation schedule for the entity.
@@ -2511,7 +2876,7 @@ During the establishment period, subparts 6 and 8 of Part 2 of this Act apply wi
     (ii) partly to the provision of other services by relevant local government organisations.
 (4) The allocation schedule for a water services entity may also specify assets, liabilities, and other matters (whether specified in subclause (3)﻿(a) and (b) or otherwise) that—
   (a) relate wholly to 1 or more relevant local government organisations; and
-  (b) in the opinion of the establishment chief executive of the entity, should not transfer to the entity (see also clause 6).
+  (b) in the opinion of the establishment board of the entity, should not transfer to the entity (see also clause 6).
 (5) The allocation schedule for a water services entity must be not inconsistent with a plan approved under clause 9(1) (see clause 9(4)﻿(a) and (b)).
 (6) The allocation schedule for a water services entity—
   (a) must not specify assets, liabilities, or other matters that belong to any mixed-shareholder CCO; but
@@ -2519,8 +2884,8 @@ During the establishment period, subparts 6 and 8 of Part 2 of this Act apply wi
 (7) Subclause (6) overrides subclauses (1) to (5) and clause 6.
 
 ### 6 Guiding principle for treatment in allocation schedule of secondary water services assets or property
-(1) The establishment chief executive of a water services entity must, in preparing or updating the entity’s allocation schedule, have regard to the principle stated in this clause.
-(2) The principle is that secondary water services assets or property of a local government organisation should be specified in the should-not-transfer part of the entity’s allocation schedule, unless the organisation and the establishment chief executive agree otherwise.
+(1) The establishment board of a water services entity must, in preparing or updating the entity’s allocation schedule, have regard to the principle stated in this clause.
+(2) The principle is that secondary water services assets or property of a local government organisation should be specified in the should-not-transfer part of the entity’s allocation schedule, unless the organisation and the establishment board agree otherwise.
 (3) In this clause,—
   - **allocation schedule** , of a water services entity, means the allocation schedule prepared or updated for the entity under clause 5
   - **secondary water services assets or property** , for a local government organisation, means any assets or property—
@@ -2529,7 +2894,7 @@ During the establishment period, subparts 6 and 8 of Part 2 of this Act apply wi
     (c) whose primary purpose or predominant use is not the delivery of water services
   - **should-not-transfer part** , of a water services entity’s allocation schedule, means the part of that schedule that—
     (a) is prepared under clause 5(4); and
-    (b) specifies assets, liabilities, or other matters that, in the opinion of the establishment chief executive of the entity, should not transfer to the entity.
+    (b) specifies assets, liabilities, or other matters that, in the opinion of the establishment board of the entity, should not transfer to the entity.
 
 ### 7 Role of Minister during establishment period
 (1) During the establishment period, in addition to the Minister’s role under section 26, the Minister has the additional role of overseeing the establishment of the water services entities.
@@ -2559,6 +2924,19 @@ During the establishment period, subparts 6 and 8 of Part 2 of this Act apply wi
   (c) is not required to be reviewed under section 132(2); and
   (d) that is in force immediately before the end of that period, is revoked at the end of that period.
 
+### 8A Directions for shared services
+(1) A direction under section 137A may be given by being approved by the Minister before or during a water services entity’s establishment period, and may come into force at the start of, or otherwise during, that period, if it is or is to be given to entities that are or include (or, when established under section 11 or by the water services entity, will be) either or both of—
+  (a) the water services entity:
+  (b) a subsidiary of the water services entity.
+(2) A direction to which this clause applies—
+  (a) must be copied to the establishment board of the water services entity as soon as is practicable after whichever is the later of the time that the direction is approved by the Minister and the time that the entity is established under section 11; and
+  (b) is subject to sections 117(4), 137A to 137D, 206(1)﻿(ba), and 206A.
+(3) However, for a direction that is to be approved by the Minister before or during a water services entity’s establishment period, section 137B(1) only requires engagement in accordance with section 206 with—
+  (a) the establishment boards of the water services entities, but only if those boards have been appointed under clause 3(da); and
+  (b) Taumata Arowai–the Water Services Regulator; and
+  (c) the Commission.
+(4) A direction to which this clause applies that is approved by the Minister before a water services entity’s establishment period expires and is revoked on 1 July 2027.
+
 #### Subpart 2 — Transitional arrangements relating to reporting obligations
 
 ### 9 Chief executive of department must prepare and approve establishment water services plan
@@ -2566,7 +2944,7 @@ During the establishment period, subparts 6 and 8 of Part 2 of this Act apply wi
 (2) An establishment water services plan for the entity takes the place of a statement of intent for the period to which that plan applies, which—
   (a) starts on the day after the date of publication of that plan; and
   (b) ends at the first end of a financial year after the establishment date.
-(3) The chief executive of the department must, before approving a plan under subclause (1), consult with the relevant water services entity.
+(3)
 (4) A plan approved under subclause (1) for a water services entity must include—
   (a) the processes, policies, and guidance for identifying the functions, staff, and assets, liabilities, and other matters to be transferred to the entity; and
   (b) the proposed timing for the transfer of functions, staff, and assets, liabilities, and other matters to the entity; and
@@ -2623,7 +3001,7 @@ During the establishment period, subparts 6 and 8 of Part 2 of this Act apply wi
 ### 13 Commission’s functions and powers in establishment period
 (1) During the establishment period, the Commission has, in respect of the preparation of an initial asset management plan or an initial funding and pricing plan, the functions and powers in this clause.
 (2) The Commission may review, and provide comments to the chief executive of the department on, the draft of the plan sent under clause 10 to the Commission.
-(3) The Commission may scrutinise, and report to the entity, the Minister, and the public on, the draft of the plan sent under clause 11 to the Commission.
+(3) The Commission may scrutinise, and report to the establishment board of the entity, the Minister, and the public on, the draft of the plan sent under clause 11 to the Commission.
 (4) The purpose of the Commission’s review and provision of comments, or scrutiny and reporting, under subclause (2) or (3) is to help to optimise—
   (a) the plan; and
   (b) decisions covered by the plan.
@@ -2637,12 +3015,14 @@ During the establishment period, subparts 6 and 8 of Part 2 of this Act apply wi
 ### 14 Quarterly reports
 (1) The board of a water services entity must, during the establishment period, provide a quarterly report to the chief executive of the department.
 (2) The report must include any information required by an establishment water services plan approved under clause 9 of this schedule.
+(3) Nothing in this clause requires a quarterly report to be provided in respect of any period before the date on which the appointment of the entity’s establishment board under clause 3 of this schedule takes effect.
 
 ### 15 Accountability arrangements for establishment period
 (1) A water services entity must produce an establishment period annual report for, and within 4 months after the end of, a financial year, if—
   (a) the establishment period starts before or during that financial year; and
   (b) some or all of that financial year is before the establishment date.
 (2) However, if the period from the start of the establishment period to the end of the financial year is less than 4 months, that period must be covered in the entity’s next establishment period annual report.
+(2A) Nothing in this clause requires an establishment period annual report to be provided in respect of any period before the date on which the appointment of the entity’s establishment board under clause 3 of this schedule takes effect.
 (3) The establishment period annual report referred to in subclause (1) must—
   (a) describe, accessibly, the entity’s activities during the relevant period; and
   (b) report on performance against the entity’s performance expectations set out in the establishment water services plan (see clause 9); and
@@ -2663,7 +3043,11 @@ During the establishment period, subparts 6 and 8 of Part 2 of this Act apply wi
   (c) are free from material misstatement.
 
 ### 16 First infrastructure strategy of water services entity
-A water services entity must provide its first infrastructure strategy (despite sections 2(2) and 157 to 159) within 3 years after the establishment date.
+A water services entity must provide its first infrastructure strategy (despite sections 2(2) and 157 to 159) on a date that is 1 July in any of the 3 years that start on the entity’s establishment date.
+
+### 16A First consumer engagement stocktake of water services entity
+(1) This clause applies if a water services entity’s establishment date is 1 January 2025 or 1 January 2026.
+(2) A consumer stocktake is not required under section 208 for the entity’s first financial year.
 
 ### 17 Duty of local government organisations to co-operate with department and water services entities
 (1) During the establishment period, a local government organisation must co-operate with the department and any relevant water services entity to facilitate the water services reform.
@@ -2733,6 +3117,11 @@ The following provisions of the Local Government Act 2002 do not apply to any ac
 (1) The chief executive of a water services entity must offer an employee of an existing employer an employment position if the chief executive of the department determines under clause 22 that—
   (a) the purpose, duties, and responsibilities of the employee’s role primarily relate to, or primarily support, the delivery of water services; and
   (b) the employee does not have a senior management role.
+(1B) The chief executive of a water services entity may, with the prior written approval of the chief executive of the department, offer an employment position under subclause (1) to an employee of another water services entity if the employee works at all or any times in the service area of the entity with which the position will be offered.
+(1C) This clause, and clauses 24 to 30, apply to an employee of another water services entity offered under subclause (1B) an employment position under subclause (1) as if—
+  (a) a reference to an existing employer (as that term is defined in clause 22) includes a reference to that other water services entity; and
+  (b) a reference to any kind of employment agreement includes a reference to that employee’s employment agreement with that other water services entity.
+(1D) Sections 19 to 25 of the Employment Relations Act 2000 apply to the workplace of an employee who is or may be offered an employment position under subclause (1).
 (2) If the employee is covered by an individual employment agreement, the employee may—
   (a) choose to remain on the terms of their existing agreement; or
   (b) accept any new agreement offered by the water services entity.
@@ -2802,7 +3191,41 @@ The following provisions of the Local Government Act 2002 do not apply to any ac
 (4) Compensation deferred under subclause (2) ceases to be payable to the employee if the employee, before the end of their fixed term employment with the new employer, accepts an offer of permanent employment with the new employer.
 (5) Subclause (4) applies whether the permanent employment begins before or after the end of the fixed term employment.
 
+### 27A Staff retention payment
+(1) This clause applies to an employee who has accepted an offer of employment from the chief executive of a water services entity under clause 23(4).
+(2) The water services entity may, on or after its establishment date, make a payment to the employee for the purpose of facilitating staff retention.
+(3) The payment may be made subject to lawful conditions to help achieve that purpose.
+(4) This clause does not limit a water services entity’s ability to—
+  (a) initiate, enter into, and carry out bargaining for, or vary or renegotiate, an employment agreement; or
+  (b) provide payments, or other benefits of any kind, to employees.
+
+### 27B References in conditions on visas granted under Immigration Act 2009
+(1) This clause applies to a reference to a local authority in a condition imposed on a visa granted under the Immigration Act 2009 to a person who has accepted an offer of employment from the chief executive of a water services entity under clause 23(4).
+(2) On and after the entity’s establishment date, the reference must be read as a reference to the entity.
+
 **Collective bargaining and collective agreements**
+
+### 27C Collective bargaining on behalf of water services entity with no establishment chief executive or chief executive
+(1) This clause applies to a water services entity—
+  (a) that has not yet, or has, been established under section 11; and
+  (b) whose establishment chief executive has not been appointed (see also clause 4); and
+  (c) whose chief executive has not been appointed.
+(2) The chief executive of the department may appoint in writing a person (a bargaining agent) to represent the entity by carrying out, on behalf of the entity, collective bargaining—
+  (a) under Part 5 of the Employment Relations Act 2000; and
+  (b) with 1 or more unions; and
+  (c) initiated by 1 or more unions under clause 28.
+(3) The bargaining agent may, in or after the collective bargaining, enter into a collective employment agreement—
+  (a) on behalf of the entity (and, if applicable, on behalf of any 1 or more other entities also represented under this clause by the bargaining agent (see subclause (8))); and
+  (b) the parties to which may include 1 or more other entities represented under this clause by 1 or more other bargaining agents.
+(4) Subclause (3) does not limit the generality of subclause (2).
+(5) Nothing in this clause applies to any terms or conditions of employment of—
+  (a) an establishment chief executive of a water services entity; or
+  (b) a chief executive of a water services entity.
+(6) After the appointment of an establishment chief executive of a water services entity takes effect, a bargaining agent appointed under this clause may continue to represent that entity under this clause only if, and only to the extent that, the bargaining agent has a written authorisation to do so given by the establishment chief executive.
+(7) Any employment agreement negotiated and entered into by a bargaining agent who is representing a water services entity under this clause—
+  (a) binds a represented water services entity on and after its establishment date; but
+  (b) does not prevent the parties from varying or renegotiating the agreement, under this Act and the general law relating to employment relations.
+(8) A bargaining agent may under this clause be appointed for, and represent, 2 or more water services entities if the requirements of this clause are met for each entity.
 
 ### 28 Collective bargaining before establishment date for new collective agreement to come into force on that date
 (1) Subclause (2) applies if an employee whose position is subject to review under clause 22 is a member of a union that enters into bargaining for a collective agreement to come into force on the establishment date.
@@ -2862,21 +3285,31 @@ Exclusion of certain decisions by local government organisations
   (b) that is not an employment agreement, and that imposes an obligation on a local government organisation only before a date determined by the chief executive of the department for the purposes of this paragraph; or
   (c) that is not an employment agreement, and that is a contract for which the consideration is less than an amount set by the chief executive of the department for the purposes of this paragraph.
 
-### 31 Review of local government organisation decisions and meeting agendas during establishment period
-(1) During the establishment period, each local government organisation must provide the department with information about an intended decision.
-(2) The chief executive of the department may review any decision made by, or on behalf of, a local government organisation during the establishment period.
+### 30A Clauses 31 to 33 apply only for 2-year period
+(1) This clause applies to powers or functions conferred, or duties imposed, by clauses 31 to 33.
+(2) Those powers or functions may be exercised, and those duties may be carried out, only for the period that—
+  (a) starts on 1 July 2024; and
+  (b) ends on 1 July 2026.
+(3) This clause does not limit any duty to carry out, on or after 1 July 2026, those duties to be carried out during that 2-year period.
+
+### 31 Review of local government organisation decisions and meeting agendas during 2-year period
+(1) During the 2-year period specified in clause 30A(2), each local government organisation must provide the department with information about an intended decision.
+(2) The chief executive of the department may review any decision made by, or on behalf of, a local government organisation during that 2-year period.
 (3) Despite subclause (2), the department must not review a decision under this clause that it has confirmed under clause 33(2)﻿(a).
 (4) The department must, without delay, notify a local government organisation if it—
   (a) reviews a decision of the organisation under subclause (2); and
   (b) considers, on reasonable grounds, that the decision is a decision to which clause 32 applies.
 
-### 32 Decision making during establishment period
+### 32 Decision making during 2-year period
 (1) The chief executive of a local government organisation must ensure that, before implementing a decision to which this clause applies, the department has confirmed the decision in writing.
 (2) A decision to which this clause applies is void and of no effect until it is confirmed by the chief executive of the department.
-(3) This clause applies to a decision of a local government organisation that is made during the establishment period and that may, directly or because of its consequences,—
+(3) This clause applies to a decision of a local government organisation that is made during the 2-year period specified in clause 30A(2) and that may, directly or because of its consequences,—
   (a) significantly prejudice the water services reform; or
-  (b) significantly constrain the powers or capacity of the water services entities following the water services reform; or
-  (c) have a significant negative impact on the assets, liabilities, or other matters that are transferred to the water services entities as a result of the water services reform.
+  (b) significantly constrain the powers or capacity of a water services entity following the water services reform; or
+  (c) have a significant negative impact on the assets, liabilities, or other matters that are transferred to a water services entity as a result of the water services reform.
+(4) However, if the decision is to adopt or amend a plan or policy under, or required by, the Local Government Act 2002, the department may—
+  (a) confirm under subclause (2)﻿(a) the decision, to the extent that it is to adopt or amend 1 or more parts of the plan or policy; and
+  (b) decline to confirm under subclauses (2)﻿(b) and (3) the decision, or require further information under subclause (2)﻿(c) and then act under subclause (2)﻿(a) or (b) in respect of the decision, to the extent that it is to adopt or amend 1 or more other parts of the plan or policy.
 
 ### 33 Confirmation of decisions of local government organisations
 (1) This clause applies to the department if a local government organisation seeks confirmation of a decision to which clause 32 applies.
@@ -2914,7 +3347,7 @@ No water services entity or local government organisation will have any tax liab
 (2) In subclause (1), support package payment made by a water services entity means a payment—
   (a) made by a water services entity to a local authority; and
   (b) made under the Three Waters Reforms Programme—Support package (announced in July 2021); and
-  (c) made under that package’s “better off” component or under that package’s “no worse off” component; and
+  (c) made under that package’s “no worse off” component; and
   (d) arising from a funding proposal made or finalised before, on, or after the commencement of this clause.
 
 #### Subpart 7 — Treaty settlement obligations
@@ -2926,13 +3359,325 @@ No water services entity or local government organisation will have any tax liab
 
 ## Schedule 2 — Water services entities and their service areas
 
-### Part 1 — Northern Water Services Entity
+### Part 1 — Northland and Auckland Water Services Entity
 
-### Part 2 — Western-Central Water Services Entity
+### Part 2 — Waikato Water Services Entity
 
-### Part 3 — Eastern-Central Water Services Entity
+### Part 3 — Bay of Plenty Water Services Entity
 
-### Part 4 — Southern Water Services Entity
+### Part 4 — Taranaki Water Services Entity
+
+### Part 5 — Manawatū-Whanganui Water Services Entity
+
+### Part 6 — Gisborne and Hawke’s Bay Water Services Entity
+
+### Part 7 — Wellington Water Services Entity
+
+### Part 8 — Nelson, Tasman, and Marlborough Water Services Entity
+
+### Part 9 — Canterbury and the West Coast Water Services Entity
+
+### Part 10 — Otago and Southland Water Services Entity
+
+## Schedule 2A — Merger of water services entities
+
+**Purpose of merger provisions**
+
+### 1 Purpose of water services entities merger provisions
+The purpose of the water services entities merger provisions of this Act is to help achieve this Act’s purpose (see section 3) by enabling mergers that improve water services governance.
+
+**Requirement for shared boundaries**
+
+### 2 Entities cannot merge unless they have some shared boundaries
+(1) Water services entities cannot merge unless, before their merger, every entity in the merger shares some of its boundary with that of at least 1 other entity in the merger.
+(2) For the purposes of this clause, a water services entity’s boundary is the boundary of the area identified in Schedule 2 as the service area of the entity.
+(3) No provision of this schedule permits a merger proposal contrary to this clause.
+
+**Request for merger proposal**
+
+### 3 Request to water services entity’s regional representative group
+A request for a merger proposal may be made to a water services entity’s regional representative group.
+
+### 4 Who may make request
+The request may only be made by all or any of the following:
+  (a) the entity’s board:
+  (b) a territorial authority owner:
+  (c) a mana whenua representative on the regional representative group:
+  (d) a consumer forum established by the entity:
+  (e) a Crown observer, Crown review team, or Crown manager appointed under subpart 2 of Part 5 of this Act, if that observer, team, or manager considers a merger is necessary or desirable to address a problem within the meaning of that term in section 179 of this Act.
+
+### 5 Requirements for request
+(1) The request must be made in writing.
+(2) The request must include the following information:
+  (a) the name of each person who made the request:
+  (b) the name of each other water services entity that is proposed to be part of the requested merger, and an explanation of how it complies with clause 2:
+  (c) an explanation of why the merger is being requested.
+
+### 6 What group must do after receiving request
+Promptly after receiving a request, the regional representative group must—
+  (a) notify the entity’s board and territorial authority owners that the group has received a request for a merger proposal; and
+  (b) publish a notice that the group has received a request for a merger proposal, for at least 20 working days, on an Internet site maintained by, or on behalf of, the entity in a format that is readily accessible; and
+  (c) engage with the boards and regional representative groups of every water services entity about the request for a merger proposal; and
+  (d) consider any feedback received, and make any changes to the request for a merger proposal that the group considers necessary; and
+  (e) make (in accordance with section 30) a decision of the group about whether the entity’s board should prepare a merger proposal.
+
+### 7 Group’s decision on request, and group’s reasons, must be notified
+(1) The regional representative group must notify the group’s decision on a request, together with the group’s reasons for that decision, to—
+  (a) the entity’s board and territorial authority owners; and
+  (b) the monitor; and
+  (c) the person or people who made the request.
+(2) The regional representative group must also notify publicly the group’s decision on a request, together with the group’s reasons for that decision, for at least 20 working days, on an Internet site maintained by, or on behalf of, the entity in a format that is readily accessible.
+
+**Preparation of merger proposal**
+
+### 8 When entity’s board must prepare merger proposal
+(1) This clause applies if a regional representative group’s decision under clause 6(e) is that the entity’s board should prepare a merger proposal.
+(2) The entity’s board must prepare a merger proposal.
+
+### 9 Contents of merger proposal
+The merger proposal must include the following information:
+  (a) information about the underlying problem or opportunity that the merger is proposed to address, supported by available evidence:
+  (b) information about all other practical options to address the problem or opportunity the merger is proposed to address:
+  (c) information about the costs and benefits associated with the proposed merger:
+  (d) information about all material impacts and risks relating to the proposed merger, including possible unintended consequences:
+  (e) a recommendation about whether to proceed with the merger proposal.
+
+### 10 Engagement
+In preparing the merger proposal, the board must engage with any water services entity that is proposed to be part of the requested merger.
+
+### 11 Collaboration and information reasonably required
+If a water services entity is proposed to be part of the requested merger, the entity’s board and chief executive must—
+  (a) work collaboratively on preparing the merger proposal with the board that is preparing the merger proposal; and
+  (b) provide any information that is reasonably requested by that board to help that board to prepare the merger proposal.
+
+### 12 Further requirements for preparing merger proposal
+In preparing the merger proposal, the board must—
+  (a) provide a draft merger proposal to—
+    (i) the monitor:
+    (ii) Taumata Arowai–the Water Services Regulator:
+    (iii) the Commission:
+    (iv) any water services entity that is proposed to be part of the requested merger:
+  (b) consider any feedback received, and make any changes to the draft merger proposal that the board considers necessary:
+  (c) finalise the merger proposal:
+  (d) notify the finalised merger proposal publicly, for at least 20 working days, on an Internet site maintained by, or on behalf of, the entity in a format that is readily accessible:
+  (e) provide the finalised merger proposal to—
+    (i) the monitor:
+    (ii) Taumata Arowai–the Water Services Regulator:
+    (iii) the Commission:
+    (iv) the entity’s regional representative group:
+    (v) the entity’s territorial authority owners:
+    (vi) any water services entity that is proposed to be part of the requested merger.
+
+**Engagement and decision on merger proposal**
+
+### 13 Application to water services entity’s regional representative group
+Clauses 14 to 17 apply to a water services entity’s regional representative group if a finalised merger proposal is provided to that group and to that entity under clause 12(e)﻿(iv) and (vi).
+
+### 14 Engagement on merger proposal
+(1) The group must engage in accordance with sections 206 and 209 with interested persons in the entity’s service area in relation to whether the finalised merger proposal should be implemented.
+(2) Sections 206 and 209 apply, for the purposes of this clause, as if the group were the entity.
+
+### 15 Decision on merger proposal
+(1) After complying with clause 14, the group must (in accordance with section 30) decide whether the proposal should be implemented.
+(2) In deciding under this clause whether the proposal should be implemented, the group must have regard to the factors in clause 16.
+
+### 16 Factors group must have regard to when deciding whether proposal should be implemented
+In deciding under clause 15 whether the proposal should be implemented, the group must have regard to—
+  (a) the purpose of a water services entities merger set out in clause 1; and
+  (b) the implications of any changes to governance arrangements that might result from the proposed merger; and
+  (c) any problem identified by any Crown observer, Crown review team, or Crown manager who made the request for a merger; and
+  (d) any other problems, and any opportunities, to be addressed by the proposed merger; and
+  (e) the costs and benefits associated with the proposed merger; and
+  (f) the views expressed in engagement by consumers and communities about the proposed merger; and
+  (g) any other factor relevant to the purpose set out in clause 1.
+
+### 17 Group’s decision, and group’s reasons, must be notified
+(1) The group must notify the group’s decision on a merger proposal, together with the group’s reasons for that decision, to—
+  (a) the entity’s board and territorial authority owners; and
+  (b) the monitor.
+(2) The group must also notify publicly the group’s decision on a merger proposal, together with the group’s reasons for that decision, for at least 20 working days, on an Internet site maintained by, or on behalf of, the entity in a format that is readily accessible.
+
+**Implementation of merger**
+
+### 18 Implementation of merger
+A finalised merger proposal is to be implemented only if every regional representative group to which clauses 14 to 17 apply in relation to that proposal decides to implement the merger proposal.
+
+### 19 Merger implementation board and apportionment of costs
+If a finalised merger proposal is to be implemented, the board of every water services entity that is proposed to be part of the requested merger must—
+  (a) appoint a merger implementation board with at least 2 members from the board of each such entity, together with an independent chairperson; and
+  (b) agree how to apportion the costs associated with the merger (including any costs associated with the merger implementation board).
+
+### 20 Functions of merger implementation board
+The merger implementation board has the following functions:
+  (a) to prepare a merger implementation plan:
+  (b) to oversee and manage the process for establishing the new entity:
+  (c) to perform any other functions agreed by the board of every water services entity that is proposed to be part of the requested merger.
+
+### 21 Merger implementation plan
+A merger implementation plan must include—
+  (a) the anticipated date on which the new entity will be established:
+  (b) the processes, policies, and guidance for identifying the functions, staff, and assets, liabilities, and other matters to be transferred to the new entity:
+  (c) the proposed timing for the transfer of functions, staff, and assets, liabilities, and other matters to the new entity:
+  (d) the processes, and required timing, for preparing and adopting for the new entity the following:
+    (i) an initial asset management plan:
+    (ii) an initial funding and pricing plan:
+    (iii) an initial infrastructure strategy:
+    (iv) a constitution:
+    (v) relationship agreements:
+  (e) the processes, policies, and timing for the reconciliation of the finances of the entities to be merged:
+  (f) identification of any risks relating to the merger, and of how those risks will be mitigated:
+  (g) the processes, policies, and guidance for communication about the merger process:
+  (h) any other matters that the merger implementation board considers relevant.
+
+### 22 Boards of entities proposed to be part of requested merger must give effect to plan
+(1) This clause applies to—
+  (a) the boards of the water services entities proposed to be part of the requested merger; and
+  (b) the merger implementation plan (as adopted, and amended or replaced, by the merger implementation board).
+(2) Those boards must give effect to that plan.
+
+### 23 Quarterly progress report to boards of entities proposed to be part of requested merger
+(1) The merger implementation board must provide a quarterly progress report to the board of each entity proposed to be part of the requested merger.
+(2) The report must include any information required for the report by the merger implementation plan (as adopted, and amended or replaced, by the merger implementation board).
+
+### 24 Order in Council to give effect to requested merger
+(1) A merger implementation plan—
+  (a) is given effect to by Order in Council made on the recommendation of the Minister; and
+  (b) has effect on and after the date or dates specified for that purpose by that Order in Council (as required by subclause 4(a)).
+(2) The merger implementation board may recommend to the Minister that the requested merger be given effect to by Order in Council.
+(3) After receiving a recommendation under subclause (2), the Minister must recommend the making of an Order in Council under subclause (1) unless the Minister is satisfied, on reasonable grounds, that the process followed to result in the recommendation under subclause (2) was not in accordance with this Act and the merger implementation plan.
+(4) An Order in Council made under subclause (1)—
+  (a) must specify the date or dates on which its provisions come into effect (and the specified date or dates must not be before 1 July 2026); and
+  (b) must provide for—
+    (i) the establishment of the new water services entity (including, without limitation, the appointment of the establishment board for that entity); and
+    (ii) the disestablishment of the water services entities to be merged; and
+  (c) must amend Schedule 2 to reflect—
+    (i) the name and service area of the new water services entity that is established; and
+    (ii) the disestablishment of the water services entities to be merged; and
+  (d) must amend section 3(2)﻿(a) to reflect the total number of water services entities after the merger; and
+  (e) must specify how shares in the new water services entity are to be allocated to each territorial authority owner based on the population of its district or part district (see also section 16); and
+  (f) may suspend any statutory requirement that an affected water services entity would otherwise be subject to if the merger would make compliance with the statutory requirement unnecessary or inappropriate; and
+  (g) brings into operation the provisions in clauses 25 to 35.
+(5) An Order in Council giving effect to a merger implementation plan is not invalid merely because it is inconsistent with the provisions of the merger implementation plan if the inconsistency relates to—
+  (a) corrections of clerical, grammatical, or typographical errors; or
+  (b) the inclusion of provisions that are necessary to give legal effect to the merger implementation plan; or
+  (c) the omission of explanatory material or other material that is not necessary to give legal effect to the merger implementation plan; or
+  (d) matters of a format or referential nature that do not alter the substance or effect of the merger implementation plan.
+(6) An order made under subclause (1) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+
+**Effect of merger and disestablishment**
+
+### 25 Effect of merger
+When this clause applies
+(1) This clause applies on and after the commencement of the provisions of an Order in Council made under clause 24(1) establishing the new water services entity and disestablishing the water services entities to be merged.
+Assets
+(2) All assets, liabilities, and other matters of the disestablished entities vest in the new entity.
+(3) The assets, liabilities, and other matters of a disestablished entity, in subclause (2), include, without limitation, that entity’s—
+  (a) assets (for example, infrastructure assets):
+  (b) contracts, engagements, or information:
+  (c) benefits, entitlements, interests, rights, powers, or privileges (including, without limitation, moneys payable and, in relation to any moneys payable, proceedings, statutory approvals or consents, easements, encumbrances, leases, or licences (including, without limitation, access licences)):
+  (d) other property (which, in this paragraph, means—
+    (i) any other thing that is capable of being owned, whether it is real or personal property, and whether it is tangible or intangible property; or
+    (ii) any estate or interest in any thing specified in subparagraph (i)):
+  (e) eligibility for benefits, entitlements, interests, rights, powers, or privileges:
+  (f) duties or liabilities (including, without limitation, in relation to any moneys payable, proceedings, or statutory approvals or consents):
+  (g) ineligibility for benefits, entitlements, interests, rights, powers, or privileges.
+Information and documents
+(4) All information and documents held by the disestablished entities are held by the new entity.
+(5) Any transfer of information or documents under subclause (4) is not a breach of the following information privacy principles (or IPPs) under the Privacy Act 2020:
+  (a) IPP 8 (accuracy, etc, of personal information to be checked before use or disclosure):
+  (b) IPP 11 (limits on disclosure of personal information).
+Employees
+(6) Other than the chief executives of the disestablished entities, every employee of a disestablished entity becomes an employee of the new entity.
+Acts or omissions
+(7) Anything done, or omitted to be done, or that is to be done, by or in relation to a disestablished entity is treated as having been done, or having been omitted to be done, or to be done, by or in relation to the new entity.
+Proceedings, inquiries, and investigations
+(8) Proceedings, inquiries, and investigations under any legislation that may be commenced, continued, or enforced by or against a disestablished entity (including as an interested party or intervenor) or in relation to a disestablished entity may instead be commenced, continued, or enforced by or against the new entity without amendment to the proceedings.
+Matters or things disestablished entity could have done or completed
+(9) A matter or thing that could, but for the entity’s disestablishment, have been done or completed by a disestablished entity may be done or completed by the new entity.
+Relationship agreements and service-level agreements
+(10) Relationship agreements and service-level agreements of the disestablished entity transfer to the new entity.
+
+### 26 Effect of disestablishment of entity
+(1) The disestablishment of a water services entity under an Order in Council made under clause 24(1) does not by itself affect any of the following matters:
+  (a) any decision made, or anything done or omitted to be done, by the entity in performing or exercising its functions, powers, or duties under any legislation:
+  (b) any proceedings commenced against the entity (see also clause 21A(8)):
+  (c) any other matter or thing arising out of a disestablished entity’s performance or exercise, or purported performance or exercise, of its functions, powers, or duties under any legislation.
+(2) Any designations, permits, or consents made or issued by a water services entity, and in force immediately before the disestablishment of that water services entity under an Order in Council made under clause 24(1),—
+  (a) continue in force after that disestablishment; and
+  (b) are taken, after that disestablishment, to have been made or issued by the new water services entity established by that Order in Council; and
+  (c) may be amended, revoked, or replaced by that new water services entity accordingly.
+
+**Secondary legislation**
+
+### 27 Temporary saving for secondary legislation made by disestablished entities
+(1) This clause applies to secondary legislation—
+  (a) made under this Act by a water services entity disestablished by an Order in Council made under clause 24(1); and
+  (b) in force (in all, or relevant, parts of the service area of the disestablished entity) immediately before that entity was disestablished.
+(2) The secondary legislation continues in force (in all, or relevant, parts of the service area of the disestablished entity), and must be treated as if it were made by the new water services entity established by that Order in Council, until the earlier of the following:
+  (a) the date on which corresponding secondary legislation made by that new water services entity takes effect:
+  (b) the date that is the fifth anniversary of the date on which that new water services entity was established.
+(3) During the period that the secondary legislation remains in force (in all, or relevant, parts of the service area of the disestablished entity), the secondary legislation—
+  (a) may be amended by that new water services entity under the relevant empowering provision (if any) in this Act; and
+  (b) may be enforced by that new water services entity in the same way as if all references in the secondary legislation to a water services entity disestablished by that Order in Council were references to that new water services entity.
+
+**Treaty settlement obligations**
+
+### 28 Treaty settlement obligations
+(1) This clause applies to a person who performs or exercises a duty, function, or power under this schedule.
+(2) The person must, in performing or exercising the duty, function, or power, uphold the integrity, intent, and effect of Treaty settlement obligations.
+(3) This clause does not affect or limit how section 9 (Treaty settlement obligations prevail) applies to this schedule.
+
+**Agreements with mana whenua**
+
+### 29 New entity to be responsible for existing agreements, etc, with mana whenua
+(1) This clause applies to any agreement, arrangement, or understanding—
+  (a) between a water services entity disestablished by an Order in Council made under clause 24(1) and mana whenua; and
+  (b) entered into before the disestablishment of that water services entity; and
+  (c) in force immediately before the disestablishment of that water services entity.
+(2) The water services entity established by that Order in Council is, on and after the date on which it is established, to be treated as being responsible for performing or exercising any functions, duties, or powers relating to water services that are set out in the agreement, arrangement, or understanding in place of the disestablished water services entity (for example, in place of the disestablished water services entity, and as a party to the agreement, arrangement, or understanding).
+
+**Te Mana o te Wai statements**
+
+### 30 Te Mana o te Wai statements
+(1) This clause applies to a Te Mana o te Wai statement—
+  (a) provided under section 143 to a water services entity that has been disestablished by an Order in Council made under clause 24(1); and
+  (b) in force immediately before the disestablishment of that water services entity.
+(2) The Te Mana o te Wai statement is taken to have been provided to the water services entity established by that Order in Council.
+
+### 31 Responses to Te Mana o te Wai statements
+(1) This clause applies to a response to a Te Mana o te Wai statement made under section 145 by a board of a water services entity that has been disestablished by an Order in Council made under clause 24(1).
+(2) After the establishment of the water services entity established by that Order in Council, the response is taken to have been provided by the board of that entity.
+
+**Statement of intent**
+
+### 32 First statement of intent of new entity
+The board of a water services entity established by an Order in Council made under clause 24(1) must comply with section 148 (statement of intent)—
+  (a) as soon as is reasonably practicable after the water services entity is established; and
+  (b) by preparing a statement of intent that relates to a period that includes the rest of the financial year in which the entity is established; and
+  (c) as if the statement of intent were being prepared before the start of the period to which the draft statement relates.
+
+**Annual reports**
+
+### 33 First annual report of new entity
+(1) A water services entity established by an Order in Council made under clause 24(1) must provide a first annual report for the period—
+  (a) starting on the date on which the water services entity is established; and
+  (b) ending at the end of the financial year in which the water services entity is established.
+(2) A report required by this clause must be prepared in accordance with sections 160 to 168, which apply with all necessary modifications.
+
+### 34 Final annual reports of disestablished entities
+(1) A water services entity disestablished by an Order in Council made under clause 24(1) must provide a final annual report for the period—
+  (a) starting at the start of the financial year in which the entity is disestablished; and
+  (b) ending on the date on which the Order in Council establishes the new water services entity.
+(2) A report required by this clause must be—
+  (a) prepared in accordance with sections 160 to 168, which apply with all necessary modifications; and
+  (b) provided in the 4 months starting on the date on which the entity is disestablished.
+
+**Application of other transitional provisions**
+
+### 35 Application of other transitional provisions
+The following do not apply to a water services entity established by an Order in Council made under clause 24(1):
+  (a) Schedule 1 of this Act:
+  (b) Schedule 1AA of the Local Government Act 2002.
 
 ## Schedule 3 — Preparation of planning documents
 
