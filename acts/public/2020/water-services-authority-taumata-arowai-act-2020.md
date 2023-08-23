@@ -1,5 +1,5 @@
 # Taumata Arowai–the Water Services Regulator Act 2020
-_Consolidation as at 2022-12-15_
+_Consolidation as at 2023-08-23_
 
 ### 1 Title
 This Act is the Taumata Arowai–the Water Services Regulator Act 2020.
@@ -44,7 +44,7 @@ In this Act, unless the context otherwise requires,—
   - **Taumata Arowai** means Taumata Arowai–the Water Services Regulator established by section 8
   - **Te Mana o te Wai** —
     (a) has the meaning set out in the National Policy Statement for Freshwater Management issued in 2020 under section 52 of the Resource Management Act 1991 and any statement issued under that section that amends or replaces the 2020 statement (and see also sections 5, 10, 17, and 18 of this Act):
-    (b) applies, for the purposes of this Act, to water (as that term is defined in section 2(1) of the Resource Management Act 1991)
+    (b) applies, for the purposes of this Act, to water (as that term is defined in this section)
   - **urban area** —
     (a) means an area identified in a district plan or proposed district plan as being primarily zoned for residential, industrial, or commercial activities, together with adjoining special-purpose and open-space zones, however described; but
     (b) does not include an area zoned primarily for rural or rural-residential activities, however described
@@ -60,7 +60,10 @@ In this Act, unless the context otherwise requires,—
       (ii) a department listed in Part 1 of Schedule 2 of the Public Service Act 2020:
       (iii) the New Zealand Defence Force; and
     (b) any person who operates a wastewater network, or any aspect of a wastewater network, for, or on behalf of, an organisation specified in paragraph (a); and
-    (c) an organisation or individual involved in the operation of a wastewater network if the organisation or individual is authorised or included on a register in accordance with regulations made under section 200 of the Water Services Act 2021.
+    (c) an organisation or individual involved in the operation of a wastewater network if the organisation or individual is authorised or included on a register in accordance with regulations made under section 200 of the Water Services Act 2021
+  - **water** —
+    (a) has the same meaning as in section 2(1) of the Resource Management Act 1991; but
+    (b) includes water in any form while in any pipe, tank, or cistern.
 
 ### 5 Māori interests
 In order to recognise and respect the Crown’s responsibility to consider and provide for Māori interests,—
