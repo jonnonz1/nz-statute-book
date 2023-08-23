@@ -1,5 +1,5 @@
 # Goods and Services Tax Act 1985
-_Consolidation as at 2023-07-01_
+_Consolidation as at 2023-08-23_
 
 > An Act to make provision for the imposition and collection of goods and services tax
 
@@ -3228,7 +3228,7 @@ Where—the supplier may increase the consideration for the supply by an amount 
 (2) In this section, support package payment made by a water services entity means a payment (of an amount, if any, determined by the chief executive of the department under clause 36 of Schedule 1 of the Water Services Entities Act 2022)—
   (a) made by a water services entity to a local authority (within the meaning of the Local Government Act 2002); and
   (b) made under the Three Waters Reforms Programme—Support package (announced in July 2021); and
-  (c) made under that package’s better off component or under that package’s no worse off component; and
+  (c) made under that package’s “no worse off” component; and
   (d) arising from a funding proposal made or finalised before, on, or after the commencement of this section.
 
 ### 79 Disclosure of information
