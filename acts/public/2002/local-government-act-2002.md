@@ -1,5 +1,5 @@
 # Local Government Act 2002
-_Consolidation as at 2023-04-13_
+_Consolidation as at 2023-08-23_
 
 ### 1 Title
 This Act is the Local Government Act 2002.
@@ -5098,14 +5098,17 @@ In this Part,—
     (a) a set of bylaws; and
     (b) an individual bylaw in a set of bylaws; and
     (c) a provision within an individual bylaw
-  - **establishment date** has the meaning in clause 1 of Schedule 1 of the Water Services Entities Act 2022
   - **transition period** means the period—
-    (a) starting on the day after the date of Royal assent of the Water Services Entities Act 2022; and
-    (b) ending at the close of the day before the establishment date
+    (a) starting on 15 December 2022; and
+    (b) ending on 1 July 2026
   - **water services bylaw** means a bylaw that relates to all or any of the following:
     (a) water supply (as defined in section 6 of the Water Services Entities Act 2022):
     (b) wastewater:
-    (c) stormwater.
+    (c) stormwater
+  - **water services infrastructure** has the same meaning as in section 6 of the Water Services Entities Act 2022
+  - **water services reform** means—
+    (a) the establishment of water services entities to deliver water services in accordance with the Water Services Entities Act 2022; and
+    (b) the transfer of interests in, and the ownership of, infrastructure assets from local government organisations to the water services entities.
 
 **Bylaws**
 
@@ -5118,26 +5121,25 @@ In this Part,—
   (e) that public notice identifies clearly the bylaw.
 (2) A deferral under subclause (1) has the results specified in subclauses (3) to (5).
 (3) The review is required only if the bylaw is not revoked in the transition period.
-(4) The review, if required, is required no later than the second anniversary of the establishment date.
-(5) For the purposes of section 160A, the last date on which the bylaw should have been reviewed under section 158 or 159 must be taken to be the second anniversary of the establishment date.
+(4) The review, if required, is required no later than 1 July 2028.
+(5) For the purposes of section 160A, the last date on which the bylaw should have been reviewed under section 158 or 159 must be taken to be 1 July 2028.
 (6) Subclauses (2) to (5) apply despite sections 158, 159, and 160A.
 
 ### 26 Duty to identify before 1 January 2024 specified water services bylaws
-Each local authority must, before 1 January 2024,—
-  (a) create a list of every water services bylaw that is—
-    (i) made by that local authority; and
-    (ii) in force immediately before 1 January 2024; and
-  (b) publish the list on an Internet site maintained by or on behalf of the local authority.
+[Repealed]
 
-**Long-term planning**
+**Long-term planning if water services entity’s establishment date is 1 July 2024**
 
-### 27 Long-term planning to exclude water services during establishment period
+### 27 Long-term planning to exclude water services during establishment period if, and only to extent that, territorial authority’s district is in service area of water services entity with establishment date of 1 July 2024
+(1AA) This clause applies—
+  (a) only if a territorial authority’s district is wholly or partly in the service area of a water services entity with an establishment date (under section 6A(4) or (5) of the Water Services Entities Act 2022) of 1 July 2024; and
+  (b) only to the extent that the content mentioned in subclause (2) relates to water services in that entity’s service area.
 (1) This clause applies to the following long-term planning for plans that take effect in any period on or after 1 July 2024:
   (a) a draft or final long-term plan (under section 93 and Part 1 of Schedule 10), or associated material or documentation:
   (b) a consultation document related to a long-term plan (other than a consultation document related to the amendment of a long-term plan), and information relied on by the content of that document:
   (c) a financial strategy (under section 101A):
   (d) an infrastructure strategy (under section 101B).
-(2) That long-term planning must, during the establishment period, exclude any content (for example, any proposals or associated information) relating to water services.
+(2) That long-term planning must, during the establishment period (as defined in clause 1 of Schedule 1 of the Water Services Entities Act 2022) of the water services entity specified in subclause (1AA), exclude any content (for example, any proposals or associated information) relating to water services.
 (3) Examples of content relating to water services include content relating to all or any of the following that is, or are, related to water services:
   (a) activities (for example, delivery of services):
   (b) asset management:
@@ -5146,6 +5148,144 @@ Each local authority must, before 1 January 2024,—
 (4) This clause does not affect or limit subpart 2 of Part 1 of Schedule 1 of the Water Services Entities Act 2022, including, without limitation,—
   (a) transitional requirements for water services entities’ asset management plans and funding and pricing plans during the establishment period:
   (b) any duty of local government organisations under that subpart to co-operate with the department and water services entities.
+
+**Planning or reporting documents if water services entity’s establishment date is 1 October 2024 to 1 July 2026**
+
+### 28 Content relating to water services in planning or reporting documents if, and only to extent that, territorial authority’s district is in service area of water services entity with establishment date of 1 October 2024 to 1 July 2026
+Application
+(1) Clauses 29 to 37 apply—
+  (a) only if a territorial authority’s district is wholly or partly in the service area of a water services entity with an establishment date (under section 6A(4) or (5) of the Water Services Entities Act 2022) on or after 1 October 2024 and before or on 1 July 2026; and
+  (b) only to the extent that the water services content of the documents mentioned in subclause (2) relates to water services in that entity’s service area.
+Modified planning or reporting obligations
+(2) Clauses 29 to 37 specify the territorial authority’s modified obligations under Part 6 of this Act to prepare, consult on, adopt, amend, or replace planning or reporting documents relating to water services for the 2024/25 and 2025/26 financial years.
+(3) Those obligations are modified because the Water Services Entities Act 2022 requires territorial authority responsibilities relating to water services to be transferred to water services entities during those financial years.
+Local government organisations’ responsibility for providing water services
+(4) Before the entity’s establishment date, a local government organisation provides water services in its district (to the extent that it is part of the entity’s service area) under the law in force immediately before 1 July 2024 (see section 6A(2) of the Water Services Entities Act 2022).
+(5) On and after that date, a local government organisation ceases to provide water services in its district (to the extent that it is part of the entity’s service area).
+(6) In preparing a long-term plan or annual plan in accordance with clauses 29 to 37, a local authority must plan to at least maintain the levels of service for water services that were planned to be provided by that local authority in the 2023/24 financial year.
+(7) Clauses 29 to 37 apply, without limitation, even if—
+  (a) different parts of a territorial authority’s district are included in the service areas of different water services entities; and
+  (b) those water services entities have different establishment dates.
+Meaning of water services
+(8) In this clause and clauses 29 to 37, water services includes, without limitation, the following activities:
+  (a) water supply:
+  (b) sewerage and the treatment and disposal of sewage:
+  (c) stormwater drainage.
+(9) Under clause 2(2)﻿(a) to (c) of Schedule 10 (long-term plans, annual plans, and annual reports), each of those activities is a group of activities in Schedule 10.
+
+### 29 Decision making and consultation
+(1) This clause applies to conduct by or on behalf of a local authority if that conduct is—
+  (a) required under the Water Services Entities Act 2022; or
+  (b) required to give effect to the water services reform.
+(2) The conduct is not subject to sections 76 to 82 of this Act.
+
+### 30 Significance and engagement policy
+(1) This clause applies to a significance and engagement policy—
+  (a) under section 76AA; and
+  (b) adopted by a local authority.
+(2) The local authority may amend the policy, to the extent the local authority considers necessary or desirable as a consequence of the water services reform, without having to consult under section 76AA(5).
+
+### 31 Long-term plan to take effect for all or any of 2024/2034, and related documents
+(1) A long-term plan (under section 93 and Part 1 of Schedule 10) to take effect for all or any of the 2024/2034 financial years (a specified long-term plan), and associated material or documentation (including a consultation document), must explain to communities the following matters:
+  (a) water services are to be transferred from the local authority to a water services entity during the 2024/25 and 2025/26 financial years:
+  (b) the implications of, and any significant risks associated with, the transfer (including financial implications and risks):
+  (c) how the council is planning to deal with the implications of, and any significant risks associated with, the transfer (including financial implications and risks).
+(2) In particular, section 93(7)﻿(b) and clause 17(c)﻿(ii) of Schedule 10 do not require a local authority to estimate the potential effects on the financial estimates provided of any uncertainty relating to the water services reform.
+(3) A consultation document that is prepared under sections 93A to 93C in relation to a specified long-term plan must include a statement to the effect that—
+  (a) the Water Services Entities Act 2022 requires the transfer of water services to a water services entity; and
+  (b) that transfer is therefore not a matter for consultation by the local authority.
+(4) If the transfer of water services from a local authority to a water services entity occurs on or after 1 October 2024 and before or on 1 July 2026, requirements under sections 93(5), 93D, and 94(2) relating to amendments to a specified long-term plan do not apply to matters related to that transfer.
+(5) In particular, a local authority may (despite sections 76 to 82A) amend its specified long-term plan without consultation in relation to matters related to that transfer.
+
+### 32 Requirements under clauses of Part 1 of Schedule 10
+(1) The information specified in the following clauses of Part 1 of Schedule 10 must cover, with respect to water services, only the first 2 financial years of a long-term plan (under section 93 and Part 1 of Schedule 10) to take effect for all or any of the 2024/34 financial years:
+  (a) clause 3 (capital expenditure for groups of activities):
+  (b) clause 4 (statement of intended levels of service provision), except that no information with respect to water services is required under clause 4(a) of Schedule 10:
+  (c) clause 5 (funding impact statement for groups of activities):
+  (d) clause 12 (forecast financial statements):
+  (e) clause 15 (funding impact statements).
+(2) However, subclause (1) requires that information for the 2025/26 financial year only if a local authority will be providing water services for all or any of that year.
+
+### 33 Annual plan
+(1) An annual plan (under section 95) must include information about water services for the 2024/25 or 2025/26 financial year even if during that year a local authority may or does cease to provide water services in its district (to the extent that it is part of the entity’s service area).
+(2) However, subclause (1) does not apply to the 2025/26 financial year if a local authority’s responsibilities for water services will be or are transferred to a water services entity before that year starts.
+(3) Section 95(2) does not apply to a local authority if the only significant or material differences relate to a change in the timing of the implementation of water services reform, or the application of the Water Services Entities Act 2022, from the time frames anticipated in a long-term plan (under section 93 and Part 1 of Schedule 10) to take effect for all or any of the 2024/34 financial years.
+
+### 34 Certain decisions to be taken only if provided for in long-term plan
+(1) This clause applies to conduct by or on behalf of a local authority that is required—
+  (a) under the Water Services Entities Act 2022; or
+  (b) to give effect to the water services reform.
+(2) The conduct is not subject to any requirements in section 97.
+
+### 35 Annual report
+(1) An annual report (under section 98) must include information about water services for the 2024/25 or 2025/26 financial year even if during that year a local authority may or does cease to provide water services in its district (to the extent that it is part of the entity’s service area).
+(2) However, a local authority must include in the annual report the information required by clauses 23, 24, 25, and 26 of Schedule 10 only—
+  (a) from the start of a financial year mentioned in subclause (1); and
+  (b) until the local authority ceases to provide water services.
+
+### 36 Balanced budget requirement
+(1) This clause applies to a loss—
+  (a) of a local authority; and
+  (b) arising from the transfer of assets and liabilities from the local authority to a water services entity.
+(2) The loss must be disregarded in determining whether the local authority complies with section 100(1).
+
+### 37 Infrastructure strategy
+(1) This clause applies to a local authority’s infrastructure strategy (under section 101B) prepared and adopted as part of a long-term plan (under section 93 and Part 1 of Schedule 10) of the local authority to take effect for all or any of the 2024/34 financial years.
+(2) The local authority is not required to include information about water services in the infrastructure strategy.
+
+**Budget, and unapplied rates revenue, for water services**
+
+### 38 Budget, and unapplied rates revenue, for water services
+Application
+(1) This clause applies if—
+  (a) a territorial authority’s district is wholly or partly in the service area of a water services entity with an establishment date (under section 6A(4) or (5) of the Water Services Entities Act 2022) in a financial year; and
+  (b) the territorial authority is, under section 6A(2) of the Water Services Entities Act 2022, to provide water services in its district for any part of that financial year.
+Annual plan budget and funding impact statement
+(2) The territorial authority must provide in its annual plan budget and funding impact statement for water services to be provided by the territorial authority in that district for all of that financial year.
+Transfer of unapplied rates revenue
+(3) As soon as is reasonably practicable after the establishment date, the territorial authority must transfer to the water services entity any unapplied rates revenue that has been collected for the financial year and in accordance with clause 4 of Schedule 1AA of the Local Government (Rating) Act 2002.
+Wellington Regional Council
+(4) This clause—
+  (a) applies to Wellington Regional Council as if it were a territorial authority; and
+  (b) requires that council to transfer to the Wellington Water Services Entity any unapplied charges paid to that council by constituent local authorities for the financial year for water supplied to those authorities under the Wellington Regional Water Board Act 1972.
+Related provision
+(5) See also clause 4 of Schedule 1AA of the Local Government (Rating) Act 2002.
+
+### 39 Development contributions and financial contributions relating to water services infrastructure
+Application
+(1) This clause applies if—
+  (a) a territorial authority’s district is wholly or partly in the service area of a water services entity with an establishment date (under section 6A(4) or (5) of the Water Services Entities Act 2022) in a financial year; and
+  (b) the territorial authority is, under section 6A(2) of the Water Services Entities Act 2022, to provide water services in its district for any part of that financial year.
+Development contributions and financial contributions
+(2) The territorial authority may, until that establishment date,—
+  (a) include, in a development contributions policy of the territorial authority (for example, in a schedule of that policy), requirements relating to development contributions or financial contributions and water services infrastructure:
+  (b) identify, in a development contributions policy, capital expenditure for the purposes of calculating development contributions or financial contributions in respect of, or in respect of groups of, water services infrastructure assets—
+    (i) not provided for in the authority’s long-term plan; and
+    (ii) expected to be constructed by that entity on or after that establishment date:
+  (c) require, under a development contributions policy (for example, under a schedule of that policy), development contributions or financial contributions for the water services infrastructure the territorial authority has been planning to provide:
+  (d) require development contributions or financial contributions for capital expenditure relating to water services infrastructure that may or will be incurred in future (even if, and to the extent that, that capital expenditure will be incurred after that establishment date):
+  (e) include, in a schedule (of assets for which development contributions will be used) required under section 201A, water services infrastructure assets to be constructed by that entity wholly or partly on or after that establishment date.
+Reviewing development contributions policies
+(3) Section 106(6) does not apply to the parts of a development contributions policy of the territorial authority that relate to water services infrastructure.
+Effect on other provisions of this Act about development contributions or financial contributions
+(4) Other provisions of this Act about development contributions or financial contributions must be read as modified as necessary to give effect to this clause.
+Definitions
+(5) In this clause,—
+  - **development contributions** has, as provided in the definition of that term in section 5(1) of this Act, the meaning set out in section 197(2) of this Act
+  - **development contributions policy** , for a territorial authority, means a policy—
+    (a) on development contributions or financial contributions; and
+    (b) adopted by the territorial authority under section 102 of this Act
+  - **financial contributions** has the meaning given to it by section 108(9) of the Resource Management Act 1991.
+
+**Chatham Islands Council**
+
+### 40 Chatham Islands Council not subject to specified clauses
+None of the following clauses of this schedule apply to the Chatham Islands Council:
+  (a) clause 25 (review under section 158 or 159 of water services bylaws may be deferred during transition period):
+  (b) clause 27 (long-term planning to exclude water services during establishment period if, and only to extent that, territorial authority’s district is in service area of water services entity with establishment date of 1 July 2024):
+  (c) clauses 28 to 37 (content relating to water services in planning or reporting if, and only to extent that, territorial authority’s district is in service area of water services entity with establishment date of 1 October 2024 to 1 July 2026):
+  (d) clause 38 (budget, and unapplied rates revenue, for water services):
+  (e) clause 39 (development contributions and financial contributions relating to water services infrastructure).
 
 ## Schedule 1 — Acts under which responsibilities, powers, and duties are conferred or imposed on Minister of Local Government and Secretary for Local Government
 
