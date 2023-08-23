@@ -1,5 +1,5 @@
 # Crown Entities Act 2004
-_Consolidation as at 2023-07-01_
+_Consolidation as at 2023-08-23_
 
 ### 1 Title
 This Act is the Crown Entities Act 2004.
@@ -43,7 +43,7 @@ The purpose of this Act is to reform the law relating to Crown entities to provi
     (a) a subsidiary of another Crown entity under sections 5 to 8 of the Companies Act 1993; or
     (b) a multi-parent subsidiary of 2 or more Crown entities
   (d) school boards:The following table is small in size and has 2 columns. Column 1 is headed What are they? Column 2 is headed Definition.What are they?DefinitionThese are boards that are bodies corporate constituted under the Education and Training Act 2020 (including distance schools)A body that is a board constituted under subpart 5 of Part 3 of the Education and Training Act 2020 and includes a board of a school designated as a distance school by the Minister of Education under section 196 of that Act
-  (e) tertiary education institutions:The following table is small in size and has 2 columns. Column 1 is headed What are they? Column 2 is headed Definition.What are they?DefinitionThese are tertiary institutions (for example, universities, Te Pūkenga—New Zealand Institute of Skills and Technology, or wānanga) that are bodies corporate established or continued under the Education and Training Act 2020An institution established or continued under subparts 3 or 4 of Part 4 of the Education and Training Act 2020
+  (e) tertiary education institutions:The following table is small in size and has 2 columns. Column 1 is headed What are they? Column 2 is headed Definition.What are they?DefinitionThese are tertiary institutions (for example, universities, Te Pūkenga—New Zealand Institute of Skills and Technology, or wānanga) that are bodies corporate established or continued under the Education and Training Act 2020An institution established or continued under subparts 3 or 4 of Part 4 of the Education and Training Act 2020, excluding an institution that is a wānanga that is not a Crown entity
 (1A) Despite section 5(3) of the Companies Act 1993, a Crown entity subsidiary must be a company incorporated under that Act.
 (2) The words in brackets in subsection (1) about the effect of the different types of statutory entities are intended only as a guide.
 
