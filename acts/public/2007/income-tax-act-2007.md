@@ -1,5 +1,5 @@
 # Income Tax Act 2007
-_Consolidation as at 2023-06-16_
+_Consolidation as at 2023-08-23_
 
 ### A 1 Title
 This Act is the Income Tax Act 2007.
@@ -45012,6 +45012,7 @@ In this Act, unless the context requires otherwise,—
       (vii) Auckland Transport (as established by section 38 of the Local Government (Auckland Council) Act 2009):
       (viii) other than for the purposes of section CW 39(4) (Local authorities), Auckland Regional Holdings as established by section 18 of the Local Government (Auckland) Amendment Act 2004:
       (ix) the New Zealand Local Government Funding Agency Limited while it is a council-controlled organisation within the meaning of section 6(1) of the Local Government Act 2002:
+      (ixa) the Funding Agency as defined in section 173B of the Water Services Entities Act 2022 while it is a subsidiary of 1 or more water services entities (as defined in section 6 of that Act):
       (x) the Auckland Council Independent Maori Statutory Board established by section 81 of the Local Government (Auckland Council) Act 2009
   - **logbook term** is defined in section DE 8 (Logbook term)
   - **long-term bailment** is defined in section EC 27 (Some definitions) for the purposes of subpart EC (Valuation of livestock)
@@ -46643,7 +46644,7 @@ In this Act, unless the context requires otherwise,—
     (a) at the end of a period specified on the issue of the shares; or
     (b) on the attainment of a result specified on the issue of the shares
   - **tertiary education institution** means an institution that is—
-    (a) established or continued under subpart 3 or 4 of Part 4 of the Education and Training Act 2020 and has not been disestablished under that Act; and
+    (a) established or continued under subpart 3 or 4 of Part 4 or Part 4A of the Education and Training Act 2020 and has not been disestablished under that Act; and
     (b) not carried on for the private pecuniary profit of any individual
   - **tertiary education subsidiary** is defined in section CW 55BA(2) (Tertiary education institutions and subsidiaries) for the purposes of that section
   - **tertiary institution**
