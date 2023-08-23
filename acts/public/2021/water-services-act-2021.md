@@ -1,5 +1,5 @@
 # Water Services Act 2021
-_Consolidation as at 2023-04-05_
+_Consolidation as at 2023-08-23_
 
 ### 1 Title
 This Act is the Water Services Act 2021.
@@ -136,6 +136,9 @@ In this Act, unless the context otherwise requires,—
       (iii) the New Zealand Defence Force; and
     (b) any person who operates a wastewater network, or any aspect of a wastewater network, for, or on behalf of, an organisation specified in paragraph (a); and
     (c) an organisation or individual involved in the operation of a wastewater network if the organisation or individual is authorised or included on a register in accordance with regulations made under section 200
+  - **water** —
+    (a) has the same meaning as in section 2(1) of the Resource Management Act 1991; but
+    (b) includes water in any form while in any pipe, tank, or cistern
   - **water carrier** means a drinking water supplier that transports drinking water (other than by reticulation) for the purpose of supplying it to consumers or another drinking water supplier.
 
 **Key terms**
@@ -220,7 +223,7 @@ In this Act, unless the context otherwise requires, point of supply, in relation
 Meaning and application
 (1) In this Act, Te Mana o te Wai—
   (a) has the meaning set out in the National Policy Statement for Freshwater Management (as that term is defined in section 5 of this Act); and
-  (b) applies, for the purposes of this Act, to water (as that term is defined in section 2(1) of the Resource Management Act 1991).
+  (b) applies, for the purposes of this Act, to water (as that term is defined in section 5 of this Act).
 Effect
 (2) When exercising or performing a function, power, or duty under this Act, a person must give effect to Te Mana o te Wai, to the extent that Te Mana o te Wai applies to the function, power, or duty.
 
@@ -2020,10 +2023,10 @@ If a court finds a person guilty of an offence against this Act, the court may i
   (a) determine the costs of Taumata Arowai, including the costs of collecting the levy, to be covered by the levy; and
   (b) request, and have regard to, advice from Taumata Arowai on the proposed levy; and
   (c) consult the persons listed in subsection (1) who will be affected by the levy.
-(2A) Before making a recommendation under subsection (1) during the establishment period (as defined in clause 1 of Schedule 1 of the Water Services Entities Act 2022), the Minister must also consult the following as if they were levy payers:
+(2A) Before making a recommendation under subsection (1) during the period starting on 1 July 2024 and ending on 1 July 2026, the Minister must also consult the following as if they were levy payers:
   (a) water services entities established under section 11 of that Act:
   (b) their territorial authority owners (as defined in section 6 of that Act).
-(2B) Subsection (2A) and this subsection are repealed on the establishment date (as defined in clause 1 of Schedule 1 of the Water Services Entities Act 2022).
+(2B) Subsection (2A) and this subsection are repealed on 1 July 2026.
 (3) Regulations made under this section must—
   (a) specify the amount of the levy, or method of calculating or ascertaining the amount of the levy; and
   (b) provide for the payment and collection of the levy; and
