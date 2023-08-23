@@ -1,5 +1,5 @@
 # Education and Training Act 2020
-_Consolidation as at 2023-07-29_
+_Consolidation as at 2023-08-23_
 
 ### 1 Title
 This Act is the Education and Training Act 2020.
@@ -70,7 +70,7 @@ The purpose of this Act is to establish and regulate an education system that—
     (viii) Māori education organisations:
     (ix) Pacific education organisations:
     (x) proprietors of State integrated schools; and
-  (c) national bodies that have a particular role in respect of the character of designated character schools.
+  (c) national bodies that have a particular role in respect of the character of designated character schools and Kura Kaupapa Māori.
 (7) Minor changes to a statement issued under this section—
   (a) may be made without undertaking the consultation required by subsections (5) and (6); and
   (b) do not, for the purposes of subsection (3)﻿(c), constitute a withdrawal or replacement of the statement being changed.
@@ -121,7 +121,7 @@ The purpose of this Act is to establish and regulate an education system that—
     (ii) taking all reasonable steps to make instruction available in tikanga Māori and te reo Māori; and
     (iii) achieving equitable outcomes for Māori students; and
   (e) subpart 6 of Part 3, which provides for the establishment and operation of Kura Kaupapa Māori, Te Aho Matua, and te kaitiaki o Te Aho Matua; and
-  (f) subpart 3 of Part 4, which provides for the establishment and operation of wānanga; and
+  (f) subpart 3 of Part 4 and Part 4A, which provide for the establishment and operation of wānanga; and
   (g) clause 4(b) and (d) of Schedule 13, which provides that Te Pūkenga—New Zealand Institute of Skills and Technology must operate in a way that allows it to develop meaningful partnerships with Māori employers and communities and to reflect Māori-Crown partnerships to ensure that its governance, management, and operations give effect to Te Tiriti o Waitangi and to respond to the needs of, and improve outcomes for, Māori learners, whānau, hapū, and iwi.
 (2) Other provisions related to Te Tiriti o Waitangi in the context of the regulation of the education system include—
   (a) the definition of school community in section 10(1), which includes a Māori community associated with a school; and
@@ -170,6 +170,16 @@ The purpose of this Act is to establish and regulate an education system that—
     (a) on the day, have taken up a permanent appointment to a position in the employment of the board, or a position (at a school administered by the board) in the employment of a body established under this Act or of the Secretary; or
     (b) during the period of 2 months ending with that day, have been continuously employed in that position
   - **capstone assessment** , in relation to a student or trainee enrolled in a programme that leads to a qualification, means a final assessment that requires the student or trainee to demonstrate their overall achievement of knowledge, skills, and attributes set out in the graduate profile for the qualification
+  - **category A wānanga** means a wānanga that—
+    (a) is established under section 398E(1) or reconstituted under clause 90(1) of Schedule 1; and
+    (b) is a Crown entity
+  - **category B wānanga** means a wānanga that—
+    (a) is established under section 398I(1) or converted under clause 94(2) of Schedule 1; and
+    (b) is not a Crown entity
+  - **category C wānanga** means a wānanga that—
+    (a) was established under section 268; and
+    (b) has not been reconstituted under clause 90(1) of Schedule 1 or converted under clause 94(2) of Schedule 1; and
+    (c) is a Crown entity
   - **chief executive of Oranga Tamariki** means the chief executive of the department for the time being responsible for the administration of the Oranga Tamariki Act 1989
   - **Chief Referee** means the person appointed as Chief Referee under section 219(1)
   - **Chief Review Officer** means the chief executive of the Education Review Office
@@ -197,7 +207,7 @@ The purpose of this Act is to establish and regulate an education system that—
   - **distance school** means a school for the time being designated under section 196 as a distance school
   - **domestic student** means an individual who is—
     (a) a New Zealand citizen; or
-    (b) the holder of a residence class visa granted under the Immigration Act 2009; or
+    (b) the holder of a residence class visa granted under the Immigration Act 2009 who satisfies the criteria (if any) prescribed by regulations made under subsection (2); or
     (c) a person of a class or description of persons required by the Minister, by notice, to be treated as if they are not international students (see subsection (11))
   - **domestic tertiary student** means an individual—
     (a) who is—
@@ -311,6 +321,7 @@ The purpose of this Act is to establish and regulate an education system that—
   - **integration agreement** means an agreement entered into under clause 5 of Schedule 6
   - **intermediate school** means a school that offers education to students in years 7 and 8 only
   - **international student** means an individual who is not a domestic student
+  - **Kura Kaupapa Māori** means a school designated in accordance with section 201
   - **land** has the same meaning as in the Land Transfer Act 2017
   - **lead provider** means a provider of secondary–tertiary programmes that is recognised by the Minister by notice in the Gazette under clause 5 of Schedule 8 as a lead provider of those programmes
   - **levy group** means the members of an industry described in a levy order, or proposed to be described in a levy order, who have to, or are to, pay a levy or proposed levy
@@ -493,6 +504,7 @@ The purpose of this Act is to establish and regulate an education system that—
   - **te kaitiaki o Te Aho Matua** means the body commonly known as Te Rūnanga Nui o Nga Kura Kaupapa Māori o Aotearoa, being the most suitable to be responsible for determining the content of Te Aho Matua and for ensuring that it is not changed to the detriment of Māori
   - **Te Pūkenga—New Zealand Institute of Skills and Technology** means the institute continued by section 314
   - **Te Pūkenga—New Zealand Institute of Skills and Technology subsidiary** means a Crown entity subsidiary of Te Pūkenga—New Zealand Institute of Skills and Technology
+  - **Te Tauihu o Ngā Wānanga** means the body incorporated as Te Tauihu o Ngā Wānanga Incorporated, or its successor, to represent the collective interests of wānanga established under this Act
   - **teacher** includes—
     (a) a registered teacher; and
     (b) a former registered teacher; and
@@ -543,18 +555,21 @@ The purpose of this Act is to establish and regulate an education system that—
       (i) the distance between the residence and the place where public transport must first be taken (or finally be left); and
       (ii) the distance between the school and the place where public transport must finally be left (or first be taken); and
       (iii) every intermediate distance between one element of public transport and another
-  - **wānanga** means an institution established as a wānanga under section 268(1)
+  - **wānanga** means an institution established as a wānanga,—
+    (a) before the commencement of Part 4A, under section 268:
+    (b) after the commencement of Part 4A, under that Part
   - **work-based training** means systematic training and assessment (including apprenticeship training) in the skills characteristic of, or likely to be valuable to, persons engaged in an industry (or 2 or more industries) that is provided to persons engaged in that industry (or those industries)—
     (a) by or on behalf of employers in that industry (or those industries); or
     (b) for the benefit of employers and employees in that industry (or those industries)
   - **workforce development council** means a workforce development council established under section 363.
-(2) The Governor-General may, by Order in Council, make regulations prescribing criteria that the holder of a residence class visa granted under the Immigration Act 2009 must satisfy in order to fulfil the requirements of paragraph (a)﻿(ii) of the definition of domestic tertiary student in subsection (1).
+(2) The Governor-General may, by Order in Council, make regulations prescribing criteria that the holder of a residence class visa granted under the Immigration Act 2009 must satisfy in order to fulfil the requirements of paragraph (b) of the definition of domestic student or paragraph (a)﻿(ii) of the definition of domestic tertiary student in subsection (1).
 (3) Regulations under subsection (2) must be confirmed by an Act (see subpart 3 of Part 5 of the Legislation Act 2019).
 (3A) The Minister may, by notice, set criteria relating to the recognition of bodies and iwi or Māori organisations for the purposes of paragraphs (c) and (d) of the definition of excluded early childhood service in subsection (1).
 (4) Despite the definition of immediate caregiver in subsection (1), a student does not have an immediate caregiver if the student—
   (a) usually lives in a household that includes the student’s father and mother; or
   (b) usually spends approximately equal time in 2 or more households; or
   (c) does not usually live in a household.
+(4A) For the purposes of Part 4A and Part 5 of Schedule 1, iwi or Māori includes an organisation, an entity, or a body authorised to act on behalf of the iwi or Māori constituency concerned.
 (5) For the purposes of subpart 2 of Part 5 (apart from section 456), the definition of institution in subsection (1) includes any government training establishment, registered establishment, relevant school, workforce development council, or other body, except that—
   (a) a workforce development council is not an institution for the purposes of the following sections:
     (i) sections 439 to 444:
@@ -1525,6 +1540,9 @@ Sections 80 to 89 (and any rules made under section 89) apply only in relation t
 (1) The chief executive of a distance school is not required to be registered.
 (2) This section overrides sections 92 and 93.
 
+### 94A Appointment of chief executive of Te Aho o Te Kura Pounamu
+The chief executive of Te Aho o Te Kura Pounamu is appointed for a term of not more than 5 years, but may be reappointed for 1 or more terms.
+
 ### 95 Restrictions on teachers subject to interim suspension
 (1) This section applies to a person employed in a teaching position if the person—
   (a) holds a practising certificate that is suspended under section 498; or
@@ -1717,7 +1735,7 @@ Sections 106 and 107 do not limit or affect any power to search any locker, desk
 **General provisions**
 
 ### 115 When State schools must be open
-State schools must be open and closed for instruction in accordance with Schedule 21 and any regulations made under this Act.
+State schools must be open and closed for instruction in accordance with regulations made under section 638.
 
 ### 116 Communities of learning for State schools
 The Minister may approve, and the Secretary may enter into an agreement with, a community of learning in accordance with Schedule 5.
@@ -2380,7 +2398,8 @@ This subpart concerns—
     (iv) composite school:
   (b) the following types of State schools:
     (i) ordinary State school:
-    (ii) designated character school, including Kura Kaupapa Māori:
+    (ii) designated character school:
+    (iia) Kura Kaupapa Māori:
     (iii) State integrated school:
     (iv) specialist school:
     (v) distance school.
@@ -2503,8 +2522,27 @@ This subpart concerns—
 (7) Section 204 applies in respect of a school that is, or is to be, redesignated as a designated character school in the same way as it would apply if the school were being established as a designated character school.
 
 ### 201 Kura Kaupapa Māori
-(1) When establishing a State school as a designated character school under sections 204 and 205, the Minister may also designate that designated character school as a Kura Kaupapa Māori.
-(2) The Minister may establish a school as a Kura Kaupapa Māori in accordance with this section only.
+(1) When establishing a State school, the Minister may, by notice in the Gazette, designate the school as a Kura Kaupapa Māori.
+(2) The Minister may, in the Minister’s absolute discretion, refuse to establish a school as Kura Kaupapa Māori.
+(3) The Minister may not establish a school under this section unless satisfied that—
+  (a) te reo Māori is to be the main language of instruction at the school:
+  (b) the school is to operate in accordance with Te Aho Matua:
+  (c) it is desirable for students whose parents want them to do so to get such an education:
+  (d) students at the school are to receive an education of a kind that differs significantly from the education they would receive at an ordinary State school.
+(4) A Kura Kaupapa Māori may have other special characteristics that give it a particular character (its special characteristics).
+(5) The Minister may not establish a State school as a Kura Kaupapa Māori unless the Minister has first consulted te kaitiaki o Te Aho Matua on the ability of the school to operate in accordance with Te Aho Matua.
+(6) A notice under subsection (1) must—
+  (a) specify the name of the school, which must at all times begin with the words “Te Kura Kaupapa Māori o”; and
+  (b) state that the school will operate in accordance with Te Aho Matua; and
+  (c) summarise any special characteristics of the school; and
+  (d) specify the constitution of the board of the school.
+(7) After consultation with the board, the Minister may from time to time, by notice in the Gazette, amend the name of the school (but not so as to omit the words “Te Kura Kaupapa Māori o”), its special characteristics, or the constitution of the board.
+(8) The board of a school established under this section must ensure that—
+  (a) te reo Māori is the principal language of instruction at the school; and
+  (b) the school operates in accordance with Te Aho Matua.
+(9) The board may refuse to enrol any person whose parents do not accept that the school operates in accordance with Te Aho Matua.
+(10) The Secretary must, by written notice to a Kura Kaupapa Māori, fix a maximum roll of the school, and the board must ensure that the number of students enrolled at the school is not more than the maximum roll.
+(11) Except as provided in this section, clause 16 of Schedule 20, and any regulations made under this Act regarding enrolment schemes for Kura Kaupapa Māori, this Act applies to every Kura Kaupapa Māori as if it were not a Kura Kaupapa Māori.
 
 ### 202 Te Aho Matua
 (1) The official version of Te Aho Matua is the statement (including any gazetted amendments) in te reo Māori that is—
@@ -2515,54 +2553,35 @@ This subpart concerns—
 (4) The explanation must be one that te kaitiaki o Te Aho Matua has approved as being an accurate interpretation of the meaning of the Māori text.
 
 ### 203 Protection of term Kura Kaupapa Māori
-(1) A registered school may not use the term Kura Kaupapa Māori in its name unless the school is established under section 204.
+(1) A registered school may not use the term Kura Kaupapa Māori in its name unless the school is established under section 201.
 (2) Subsection (1) does not apply to a registered school that, immediately before the commencement of this section, is not established under section 201 but uses the term Kura Kaupapa Māori in its name.
 
 ### 204 Designated character schools
 (1) When establishing a State school, the Minister may designate the school as a designated character school in accordance with this section and section 205.
 (2) The Minister may, in the Minister’s absolute discretion, refuse to establish a designated character school.
 (3) The Minister may not establish a school as a designated character school unless satisfied that, if the school is established,—
-  (a) for a school that is also to be designated as a Kura Kaupapa Māori under section 201,—
-    (i) te reo Māori is to be the main language of instruction at the school; and
-    (ii) the school is to operate in accordance with Te Aho Matua:
-  (b) for any other type of designated character school, the school is to have a character that is in some specific way or ways different from the character of ordinary State schools (its different character):
-  (c) for any designated character school, it is desirable for students whose parents want them to do so to get such an education:
-  (d) for any designated character school, students at the school are to receive an education of a kind that differs significantly from the education they would get at an ordinary State school.
-(4) The Minister may not also designate a designated character school as a Kura Kaupapa Māori unless the Minister has first consulted te kaitiaki o Te Aho Matua on the ability of the school to operate in accordance with Te Aho Matua.
-(5) The board of a designated character school must ensure,—
-  (a) for a Kura Kaupapa Māori, that—
-    (i) te reo Māori is the principal language of instruction at the school; and
-    (ii) the school operates in accordance with Te Aho Matua:
-  (b) for any other type of designated character school, that—
-    (i) the aims, purposes, and objectives of the school’s different character are set out in the school’s strategic plan; and
-    (ii) the school operates consistently with its different character.
-(6) A designated character school that is a Kura Kaupapa Māori may have other special characteristics that give it a particular character (its special characteristics).
-(7) The Secretary must, by written notice to a designated character school, fix a maximum roll of the school, and the board must ensure that the number of students enrolled at the school is not more than the maximum roll.
-(8) A board of a designated character school may refuse to enrol students whose parents do not accept,—
-  (a) for a Kura Kaupapa Māori, that the school operates in accordance with Te Aho Matua:
-  (b) for any other type of designated character school, that the school operates consistently with its different character.
-(9) Except as provided in this section, clause 16 of Schedule 20, and any regulations made under this Act regarding enrolment schemes for designated character schools, this Act applies to every designated character school as if it were not a designated character school.
+  (a) the school is to have a character that is in some specific way or ways different from the character of ordinary State schools (its different character):
+  (b) it is desirable for students whose parents want them to do so to get such an education:
+  (c) students at the school are to receive an education of a kind that differs significantly from the education they would receive at an ordinary State school.
+(4) The board of a designated character school must ensure that—
+  (a) the aims, purposes, and objectives of the school’s different character are set out in the school’s strategic plan; and
+  (b) the school operates consistently with its different character.
+(5) A board of a designated character school may refuse to enrol students whose parents do not accept that the school operates consistently with its different character.
+(6) The Secretary must, by written notice to a designated character school, fix a maximum roll of the school, and the board must ensure that the number of students enrolled at the school is not more than the maximum roll.
+(7) Except as provided in this section, clause 16 of Schedule 20, and any regulations made under this Act regarding enrolment schemes for designated character schools, this Act applies to every designated character school as if it were not a designated character school.
 
 ### 205 Process for establishing designated character schools
-(1) The Minister may, by notice in the Gazette when establishing a State school, designate the school as a designated character school and (if applicable) also designate a school as a Kura Kaupapa Māori.
-(2) Before doing so, the Minister must be satisfied of the matters in section 204(3) and have undertaken consultation under section 204(4).
-(3) The notice establishing a designated character school must,—
-  (a) for a Kura Kaupapa Māori,—
-    (i) specify the name of the school, which must at all times begin with the words “Te Kura Kaupapa Māori o”; and
-    (ii) state that the school will operate in accordance with Te Aho Matua; and
-    (iii) summarise any other special characteristics of the school:
-  (b) for any other type of designated character school, describe the different character of the school (as defined in section 204(3)﻿(b)):
-  (c) for any designated character school, state the constitution of the school’s board.
-(4) The notice establishing a designated character school that is not a Kura Kaupapa Māori may also name a body that has a special affiliation with the school or has responsibility for the different character of the school.
+(1) The Minister may, by notice in the Gazette, when establishing a State school, designate the school as a designated character school.
+(2) Before doing so, the Minister must be satisfied of the matters in section 204(3).
+(3) The notice establishing a designated character school must—
+  (a) describe the different character of the school (as defined in section 204(3)﻿(a)):
+  (b) state the constitution of the school’s board.
+(4) The notice establishing a designated character school may also name a body that has a special affiliation with the school or has responsibility for the different character of the school.
 (5) The Minister may, after consultation with the board of a designated character school, by notice in the Gazette,—
-  (a) for a Kura Kaupapa Māori,—
-    (i) amend the name of the school (but not so as to omit the words “Te Kura Kaupapa Māori o”):
-    (ii) amend the summary of special characteristics of the school:
-  (b) for any other type of designated character school,—
-    (i) amend the description of the different character of the school:
-    (ii) name a body that has a special affiliation with the school or has responsibility for the different character of the school:
-  (c) for any designated character school, amend the statement of the constitution of the board.
-(6) The Minister must consult any body named under subsection (4) or (5)﻿(b)﻿(ii) before amending the description of the school’s different character.
+  (a) amend the description of the different character of the school:
+  (b) name a body that has a special affiliation with the school or has responsibility for the different character of the school:
+  (c) amend the statement of the constitution of the board.
+(6) The Minister must consult any body named under subsection (4) or (5)﻿(b) before amending the description of the school’s different character.
 
 ### 206 Minister may merge schools
 (1) The Minister may, by notice in the Gazette, merge 1 or more State schools that are not State integrated schools with another State school that is not a State integrated school, if the Minister is satisfied that—
@@ -3073,7 +3092,7 @@ Sections 261 to 264 apply to private training establishments as if—
 ### Subpart 3 — Administration of institutions
 
 ### 266 Object
-The object of the provisions of this Act relating to institutions is to give them as much independence and freedom to make academic, operational, and management decisions as is consistent with the nature of the services they provide, the efficient use of national resources, the national interest, and the demands of accountability.
+The object of the provisions of this Act relating to institutions, including those established under Part 4A, is to give them as much independence and freedom to make academic, operational, and management decisions as is consistent with the nature of the services they provide, the efficient use of national resources, the national interest, and the demands of accountability.
 
 ### 267 Academic freedom and institutional autonomy of institutions (other than Te Pūkenga—New Zealand Institute of Skills and Technology)
 (1) It is the intention of Parliament in enacting the provisions of this Act relating to universities and wānanga that academic freedom and the autonomy of those institutions are preserved and enhanced.
@@ -3103,10 +3122,10 @@ The object of the provisions of this Act relating to institutions is to give the
       (D) they are a repository of knowledge and expertise:
       (E) they accept a role as critic and conscience of society; and
     (ii) that—
-      (A) a university is characterised by a wide diversity of teaching and research, especially at a higher level, that maintains, advances, disseminates, and assists the application of knowledge, develops intellectual independence, and promotes community learning:
-      (B) a wānanga is characterised by teaching and research that maintains, advances, and disseminates knowledge and develops intellectual independence, and assists the application of knowledge regarding ahuatanga Māori (Māori tradition) according to tikanga Māori (Māori custom).
-(2A) An order under subsection (1) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
-(3) In the case of a wānanga, the Minister may, on the recommendation of its council, change the name of the wānanga by notice published in the Gazette.
+      (A) a university is characterised by a wide diversity of teaching and research, especially at a higher level, that maintains, advances, disseminates, and assists the application of knowledge, develops intellectual independence, and promotes community learning.
+      (B)
+(3) An order under subsection (1) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+(3)
 (4) In the case of a university, its name may be changed if the procedure set out in subsections (5) to (7) is followed.
 (5) The university must give written notice to the Minister of the proposed name change.
 (6) If notice is given, the Minister must present the proposal to the House of Representatives.
@@ -3138,14 +3157,27 @@ An Order in Council establishing an institution must make provision for determin
 **Councils**
 
 ### 271 Institutions to be governed by councils
+Te Pūkenga—New Zealand Institute of Skills and Technology
 (1) The governing body of Te Pūkenga—New Zealand Institute of Skills and Technology is its council, the members of which are appointed under section 320.
-(2) The governing body of every other institution is its council constituted in accordance with this Part.
-(3) A reference in any enactment to the council or other governing body of an institution referred to in subsection (2) must be construed as a reference to the council of the institution.
-(4) Subject to section 283(2), all acts or things done in the name of, or on behalf of, an institution with the authority of, or of a delegate of, the council or the chief executive are to be treated as being done by the institution.
-(5) Schedule 11 provides for the constitution, appointment and operation of councils of institutions, and related matters.
+Wānanga
+(2) The governing body of a wānanga that is a Crown entity is its council constituted in accordance with—
+  (a) this Part; or
+  (b) the order establishing the wānanga under Part 4A; or
+  (c) the order made under clause 90(1) of Schedule 1 reconstituting the council of the wānanga.
+(3) The governing body of a wānanga that is not a Crown entity is its council constituted in accordance with—
+  (a) the order establishing the wānanga under Part 4A; or
+  (b) the order made under clause 94(2) of Schedule 1 converting a wānanga that is a Crown entity to a wānanga that is not a Crown entity.
+Other institutions
+(4) The governing body of every other institution is its council constituted in accordance with this Part.
+References to, and actions of, councils
+(5) A reference in any enactment to the council or other governing body of an institution referred to in subsections (2) to (4) must be construed as a reference to the council of the institution.
+(6) Subject to section 283(2), all acts or things done in the name of, or on behalf of, an institution with the authority of, or of a delegate of, the council or the chief executive are to be treated as being done by the institution.
+Further provisions relating to councils
+(7) Part 4A provides for the constitution, appointment, and operation of councils of certain wānanga, and for related matters.
+(8) Schedule 11 provides for the constitution, appointment, and operation of councils of Te Pūkenga—New Zealand Institute of Skills and Technology and other institutions, and for related matters.
 
 ### 272 Incorporation
-(1) Each university or wānanga established under section 268, and Te Pūkenga—New Zealand Institute of Skills and Technology as continued by section 314, is a body corporate with perpetual succession and is capable of—
+(1) Each university or wānanga established under section 268, Te Pūkenga—New Zealand Institute of Skills and Technology as continued by section 314, and each wānanga established under Part 4A, is a body corporate with perpetual succession and is capable of—
   (a) holding real and personal property; and
   (b) suing and being sued; and
   (c) otherwise doing and suffering all that bodies corporate may do and suffer.
@@ -3562,12 +3594,14 @@ The money of an institution may be applied only—
   (e) an account of the extent to which the council has developed programmes to attract students from groups in the community that are—
     (i) under-represented in the institution’s student body; or
     (ii) disadvantaged in terms of their ability to attend the institution; and
-  (f) in the case of an institution that has a plan, a statement of service performance for that financial year reporting on the performance of the institution as compared with the proposed outcomes described in that plan.
+  (f) in the case of an institution that has a plan, a statement of service performance for that financial year reporting on the performance of the institution as compared with the proposed outcomes described in that plan; and
+  (g) in the case of an institution that is a university or a wānanga, a statement of the number of employees or former employees of the university or wānanga who, in their capacity as employees, received remuneration of $100,000 or more (including compensation or other benefits) in the year to which the report relates and the number of those employees or former employees in each bracket of remuneration in $10,000 increments.
 (5) Section 156 of the Crown Entities Act 2004 applies to institutions and, for that purpose, is to be read as referring to a statement of service performance under subsection (4)﻿(f).
 (6) A statement of service performance under subsection (4)﻿(f) must be prepared in accordance with generally accepted accounting practice, within the meaning of section 8 of the Financial Reporting Act 2013.
 (7) The Minister must present the report to the House of Representatives within 5 working days after receiving the report or, if Parliament is not in session, as soon as practicable after the commencement of the next session of Parliament.
 (8) The first report by an institution's council must extend to operations during the part of the academic year before the council became the governing body of the institution.
 (9) In this section, parent Crown entity has the same meaning as in section 8 of the Crown Entities Act 2004.
+(10) For the purposes of subsection (4)﻿(g), employees includes the chief executive appointed by the council of the university or wānanga.
 
 ### 307 Minister may require related entities to prepare statements or reports
 (1) If the Minister has reasonable grounds to believe that an institution may be at risk due to the institution’s investment in a related entity, the Minister may, by notice in writing, require the entity to prepare 1 or more statements or reports.
@@ -3733,6 +3767,7 @@ The Minister may, by notice in the Gazette, specify administrative regions of go
 (2) When appointing members of Te Pūkenga—New Zealand Institute of Skills and Technology’s council under section 320(1)﻿(d), the Minister must state in the notice appointing the member—
   (a) the day on which the member’s appointment takes effect; and
   (b) the term for which the member is appointed.
+(3) If a member’s term of office expires before their successor is appointed, the member continues in office until their successor’s appointment takes effect.
 
 **Additional provisions applying to Te Pūkenga—New Zealand Institute of Skills and Technology’s council and subsidiaries**
 
@@ -4500,6 +4535,401 @@ A private training establishment that contravenes section 343 commits an offence
   (b) knew the offence was to be or was being committed and failed to take all reasonable steps to prevent it.
 (4) In this section, state of mind, in relation to an individual, includes the knowledge, intention, opinion, belief, or purpose of the individual and the individual’s reasons for that intention, opinion, belief, or purpose.
 
+## Part 4A — Wānanga
+
+### 398A Outline of Part 4A
+(1) This Part, which concerns wānanga, is divided into 4 subparts.
+(2) Subpart 1 deals with various preliminary matters.
+(3) Subpart 2 concerns the administration of category A wānanga.
+(4) Subpart 3 concerns the administration of category B wānanga.
+(5) Subpart 5 concerns the disestablishment of wānanga.
+
+### 398B Purpose of Part 4A
+The purpose of this Part is to provide for the establishment, modification, and administration of wānanga in a manner that gives effect to the principles of Te Tiriti o Waitangi and supports Māori-Crown relationships and, in particular, that—
+  (a) better reflects the unique characteristics, functions, and purposes of wānanga in the tertiary education system for delivering the best possible education outcomes for ākonga; and
+  (b) recognises the interests of iwi or Māori in ensuring the effective governance and administration of wānanga; and
+  (c) enables direct accountability to iwi or Māori for the performance of wānanga.
+
+### Subpart 1 — Preliminary matters
+
+### 398C Application
+(1) This Part applies to a wānanga that—
+  (a) is established on or after the date on which this Part commences; or
+  (b) existed immediately before the date on which this Part commences, and on or after that date—
+    (i) reconstitutes its governance or administration to become a category A wānanga; or
+    (ii) converts to a category B wānanga.
+Provisions that do not apply to category A wānanga and category B wānanga
+(2) On or after commencement of this Part,—Provisions that do not apply to category A wānangaProvisions that do not apply to category B wānanga
+  (a) the following provisions of this Act do not apply to a category A wānanga or category B wānanga:
+    (i) section 268 (establishment of institutions):
+    (ii) section 269 (constitutions of institutions):
+    (iii) section 270 (disestablishment of institutions):
+    (iv) section 573 (effect of the disestablishment of institutions):
+  (b) the following provisions of this Act do not apply to councils of category A wānanga or category B wānanga:
+    (i) section 275 (constitution to provide for membership of councils):
+    (ii) section 276 (membership of councils):
+    (iii) section 277 (disqualifications):
+    (iv) section 278 (appointment criteria):
+    (v) section 279 (statutes relating to appointments):
+  (c) the following provisions in Schedule 11 of this Act do not apply to a category A wānanga:
+    (i) clause 1 (constitutions of councils of new institutions):
+    (ii) clause 2 (amendment of constitution):
+    (iii) clause 3 (limit on number of occasions on which members may be appointed):
+    (iv) clause 6 (term of office):
+    (v) clause 9 (casual vacancies):
+    (vi) clause 12 (removal of members):
+    (vii) clause 13 (process for removal):
+    (viii) clause 15 (chairpersons and deputy chairpersons):
+    (ix) clause 16 (meetings of councils):
+    (x) clause 18 (determination of policy):
+  (d) the following provisions of this Act do not apply to a category B wānanga:
+    (i) section 273 (common seals):
+    (ii) section 274 (methods of contracting):
+    (iii) section 280 (functions of councils):
+    (iv) section 281 (duties of councils):
+    (v) section 282(4) to (7) (powers of institutions):
+    (vi) section 287 (criteria for risk assessment of institutions (other than Te Pūkenga—New Zealand Institute of Skills and Technology)):
+    (vii) section 288 (institutions to provide information to TEC if required):
+    (viii) section 289 (ministerial appointment of Crown observers for institutions):
+    (ix) sections 290 to 293 (ministerial dissolution of councils and appointments and processes to appoint commissioners):
+    (x) section 294 (duties of chief executives):
+    (xi) section 295 (delegation of functions and powers of chief executives):
+    (xii) section 296 (further provisions applying to delegation):
+    (xiii) section 297 (bank accounts):
+    (xiv) section 298 (accounts to be kept):
+    (xv) section 300 (gifts):
+    (xvi) section 305 (institutions are Crown entities):
+    (xvii) section 306 (annual reports):
+    (xviii) section 307 (requirements to prepare statements or reports):
+    (xix) section 308 (availability of annual reports for inspection):
+    (xx) section 597 (good employer principles):
+    (xxi) section 602 (duty to act independently):
+    (xxii) section 603 (appointments on merit):
+    (xxiii) section 604 (notification of vacancies):
+    (xxiv) section 608 (chief executives of institutions):
+    (xxv) section 609 (appointment of chief executives):
+    (xxvi) section 610 (reappointment of chief executives):
+    (xxvii) section 611 (conditions of employment of chief executives):
+    (xxviii) section 612 (removal from office):
+    (xxix) Schedule 11 (council procedures).
+Provisions that apply to category A wānanga, category B wānanga, and category C wānanga
+(3) Despite anything in subsection (1), the following sections of this Part apply to category A wānanga, category B wānanga, and category C wānanga:
+  (a) section 398B (purpose of Part 4A):
+  (b) section 398D (what wānanga are (characteristics)):
+  (c) section 398Y (disestablishing wānanga):
+  (d) section 398Z (effect of disestablishing wānanga):
+  (e) section 398ZA (disestablished wānanga and their councils cease to exist):
+  (f) section 398ZB (entitlements of certain persons for certain awards):
+  (g) section 398ZC (vesting of property of disestablished wānanga):
+  (h) section 398ZD (treatment of certain contracts, instruments, and proceedings):
+  (i) section 398ZE (continuation of disestablished wānanga for certain purposes):
+  (j) section 398ZF (restriction on subsequent distribution of surplus assets).
+Relationship of this Part with other provisions
+(4) If a provision in this Part conflicts with a provision in subpart 3 of Part 4 or Schedule 11, the provision in this Part prevails.
+
+### 398D What wānanga are (characteristics)
+Wānanga are institutions that—
+  (a) Māori, primarily iwi, have been instrumental in establishing; and
+  (b) are concerned with a wide diversity of teaching and intellectual endeavour (including research) that is—
+    (i) closely interdependent; and
+    (ii) associated with higher learning; and
+  (c) are kaitiaki of mātauranga Māori, te reo Māori, and tikanga Māori within the tertiary education sector; and
+  (d) have a role in the promotion and maintenance of social, spiritual, cultural, political, and economic well-being in the community; and
+  (e) follow practices that are consistent with mātauranga Māori and tikanga Māori at all levels of governance and operations; and
+  (f) accept a role as a critic and conscience of society from a mātauranga Māori, te reo Māori, and tikanga Māori perspective; and
+  (g) position themselves within the networks of indigenous tertiary institutions across the world and contribute to the setting of international indigenous standards of teaching and intellectual endeavour, including research.
+
+### Subpart 2 — Administration of category A wānanga
+
+### 398E Establishment of category A wānanga
+(1) The Governor-General may, by Order in Council made on the recommendation of the Minister, establish a category A wānanga.
+(2) Before making a recommendation to establish a wānanga under subsection (1), the Minister must—
+  (a) seek advice from NZQA on education quality assurance matters and consider any advice given; and
+  (b) seek advice from Te Tauihu o Ngā Wānanga on whether the proposed wānanga would have the characteristics of a wānanga, and take that advice into account; and
+  (c) consult iwi or Māori who are instrumental in its establishment, and take their views into account; and
+  (d) consult other persons or bodies that the Minister thinks fit; and
+  (e) be satisfied that any additional functions and purposes of the proposed wānanga and of its council specified under subsection (3)﻿(f) are consistent with the characteristics of a wānanga; and
+  (f) be satisfied that the establishment of the proposed wānanga is in the interests of the tertiary education system and the nation as a whole.
+(3) An order made under subsection (1) must do all of the following:
+  (a) revoke and replace a previous order, if any, establishing the wānanga; and
+  (b) state the name of the wānanga; and
+  (c) provide for determining the people who are to constitute the wānanga; and
+  (d) set out the governance arrangements for the council of the wānanga, including the constitution of the council and arrangements for the appointment, suspension, and removal of members; and
+  (e) set out the procedures for conducting meetings of the council; and
+  (f) specify any functions and purposes of the wānanga and its council that are in addition to any functions and purposes of an institution or its council set out in this Act; and
+  (g) specify the manner in which policies of the wānanga are to be determined; and
+  (h) provide for the establishment and membership of an academic committee to advise the council on matters relating to courses of study or training, awards, and other academic matters; and
+  (i) provide for any other matters that are necessary or desirable—
+    (i) for the good governance of the wānanga; or
+    (ii) to clarify the arrangements for the administration of the wānanga.
+(4) An order made under subsection (1) may do 1 or both of the following:
+  (a) set out by way of preamble the historical background to the establishment of the wānanga and any Crown acknowledgments:
+  (b) impose conditions on the performance or exercise of the powers of the wānanga.
+(5) An order made under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+
+### 398F Appointment of council members
+When appointing members to the council of a category A wānanga, the council, or any other person or body making the appointments, must appoint people who (in the opinion of the council, person, or body making the appointment)—
+  (a) have relevant knowledge, skills, or experience; and
+  (b) are likely to be able to fulfil their individual duties to the council; and
+  (c) together with the other members of the council, are capable of undertaking its responsibilities, duties, and functions.
+
+### 398G Certain people ineligible to be appointed
+A person is not eligible for appointment to the council of a category A wānanga if—
+  (a) the person is subject to a property order under the Protection of Personal and Property Rights Act 1988; or
+  (b) a personal order has been made under that Act in respect of the person that reflects adversely on their—
+    (i) competence to manage their own affairs in relation to their property; or
+    (ii) capacity to make or to communicate decisions relating to any particular aspect or aspects of their personal care and welfare; or
+  (c) the person has been adjudicated bankrupt and has not obtained an order of discharge, or their order of discharge has been suspended for a term that has not yet expired or is subject to any conditions that have not yet been fulfilled; or
+  (d) the person has been removed from office as a member of the council of any institution.
+
+### 398H Statutes relating to appointment
+(1) The council of a category A wānanga may make statutes relating to the appointment of members under its constitution.
+(2) The statutes may—
+  (a) provide for direct appointment by the council of a member chosen by the council; or
+  (b) require the council to appoint a member—
+    (i) of a stated description; or
+    (ii) holding a stated office; or
+    (iii) nominated by a stated person or body or by a person or body of a stated description; or
+    (iv) elected by people of a stated description.
+(3) To the extent that the statutes require the council to appoint—
+  (a) a member elected by people of a stated description, they must also provide for the processes by which elections must be held and their results must be determined:
+  (b) a member nominated by a stated person or body or a body of a stated description, they must also provide for the process by which nominations may be called for and must be considered.
+(4) For an appointment under a statute providing for any of the matters set out in subsection (2)﻿(b), section 398F is complied with if, when making the statute concerned, the council is satisfied that compliance with the statute is likely to result in the appointment of a person who—
+  (a) has relevant knowledge, skills, or experience; and
+  (b) is likely to be able to fulfil the person’s individual duties to the council; and
+  (c) together with the other members of the council, is capable of undertaking its responsibilities, functions, and duties.
+(5) This section does not limit section 284.
+
+### Subpart 3 — Administration of category B wānanga
+
+### 398I Establishment of category B wānanga
+(1) The Governor-General may, by Order in Council made on the recommendation of the Minister, establish a category B wānanga.
+(2) Before making a recommendation to establish a wānanga under subsection (1), the Minister must do all of the following:
+  (a) seek advice from NZQA on education quality assurance matters and consider any advice given; and
+  (b) seek advice from Te Tauihu o Ngā Wānanga on whether the proposed wānanga would have the characteristics of a wānanga and take that advice into account; and
+  (c) consult iwi or Māori instrumental in its establishment; and
+  (d) consult other persons or bodies that the Minister thinks fit; and
+  (e) be satisfied that—
+    (i) the functions and purposes of the proposed wānanga and its council are consistent with the characteristics of a wānanga; and
+    (ii) the accountability arrangements set out in subsection (3)﻿(g) and (h) are sufficient for the effective governance and administration of the wānanga; and
+  (f) be satisfied that the person or body identified under subsection (3)﻿(g) as the iwi or Māori to whom the wānanga is accountable—
+    (i) accepts responsibility for ensuring that the wānanga and its council are accountable; and
+    (ii) has access to the skills and resources reasonably necessary to ensure that the wānanga and its council are accountable; and
+  (g) be satisfied that the establishment of the proposed wānanga is in the interests of the tertiary education system and the nation as a whole.
+(3) An order made under subsection (1) must do all of the following:
+  (a) state the name of the wānanga; and
+  (b) specify the people who are to constitute the wānanga; and
+  (c) set out the governance arrangements for the council of the wānanga, including the constitution of the council and arrangements for the appointment, suspension, and removal of members; and
+  (d) specify the functions, duties, and purposes of the wānanga and its council; and
+  (e) set out the procedures for conducting the meetings of the council; and
+  (f) specify the collective and individual duties of the members of the council and the manner in which members will be accountable for the performance of their duties; and
+  (g) specify the iwi or Māori to whom the wānanga is accountable for the effective governance and administration of the wānanga, and the things for which the wānanga is accountable (for example, the progress made towards achieving the purposes of the wānanga, the financial management of the wānanga, and the educational performance of the wānanga); and
+  (h) set out what the wānanga must do to ensure adequate accountability for the effective governance and administration of the wānanga, including—
+    (i) requirements for the efficient and prudent financial management of the wānanga; and
+    (ii) requirements for financial reporting and reporting on other matters, including (without limitation) requiring wānanga to prepare, in accordance with generally accepted accounting practice (within the meaning of section 8 of the Financial Reporting Act 2013),—
+      (A) a statement of service performance; and
+      (B) annual financial statements; and
+    (iii) the means by which risk to the operation and long-term viability of the wānanga is to be managed, including the range or type of interventions available to address those risks; and
+    (iv) requirements for setting the long-term strategic direction and objectives of the wānanga in respect of the performance of its functions; and
+  (i) provide for the appointment of a chief executive, including—
+    (i) the functions and duties of the chief executive; and
+    (ii) the delegation of any functions or duties of the chief executive; and
+  (j) set out the requirements relating to the appointment of employees of the wānanga; and
+  (k) set out the things that the wānanga must do to ensure the fair and proper treatment of employees in all aspects of their employment; and
+  (l) require the wānanga to publish an annual report on an Internet site maintained by or on behalf of the wānanga; and
+  (m) require the annual report of the wānanga to include (without limitation) a statement of—
+    (i) the number of employees or former employees of the wānanga who, in their capacity as employees, received remuneration of $100,000 or more (including compensation or other benefits) in the year to which the report relates; and
+    (ii) the number of those employees or former employees in each bracket of remuneration in $10,000 increments.
+(4) An order made under subsection (1) may do all or any of the following:
+  (a) set out, by way of a preamble, the historical background to the establishment of the wānanga and any acknowledgements by the Crown:
+  (b) specify the means by which the council of the wānanga is to engage with the people who constitute the wānanga, and the iwi or Māori to whom the wānanga is accountable for its effective governance and administration:
+  (c) impose conditions on the performance or exercise of the functions, duties, or powers of the wānanga and its council:
+  (d) specify the manner in which policies of the wānanga are to be determined:
+  (e) provide for the establishment and membership of an academic committee to advise the council on matters relating to courses of study or training, awards, and other academic matters:
+  (f) provide for any other matters that are necessary or desirable—
+    (i) for the good governance of the wānanga; or
+    (ii) to clarify the arrangements for the administration of the wānanga.
+(5) For the purposes of subsection (3)﻿(m), employees includes the chief executive appointed by the council of the wānanga.
+(6) An order made under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+
+### 398J Appointment and nomination of council members
+When appointing or nominating members of the council of a category B wānanga, the council or any other person or body making the appointments or nominations must appoint or nominate people who (in the opinion of the council or other person or body making the appointment)—
+  (a) have relevant knowledge, skills, or experience; and
+  (b) are likely to be able to fulfil their individual duties to the council; and
+  (c) together with the other members of the council, are capable of undertaking its responsibilities, duties, and functions.
+
+### 398K Certain people ineligible to be appointed
+A person is not eligible for appointment to the council of a category B wānanga if—
+  (a) the person is subject to a property order under the Protection of Personal and Property Rights Act 1988; or
+  (b) a personal order has been made under that Act in respect of the person that reflects adversely on their—
+    (i) competence to manage their own affairs in relation to their property; or
+    (ii) capacity to make or to communicate decisions relating to any particular aspect or aspects of their personal care and welfare; or
+  (c) the person has been adjudicated bankrupt and has not obtained an order of discharge, or whose order of discharge has been suspended for a term that has not yet expired or is subject to any conditions that have not yet been fulfilled; or
+  (d) the person has been removed from office as a member of the council of any institution.
+
+### 398L Membership of more than 1 council
+A person who is a council member of a category B wānanga may be appointed as a council member of another institution (whether or not they are institutions of the same kind).
+
+### 398M Statutes relating to appointment
+(1) The council of a category B wānanga may make statutes relating to the appointment of members under its constitution.
+(2) The statutes may—
+  (a) provide for direct appointment by the council of a member chosen by the council; or
+  (b) require the council to appoint a member—
+    (i) of a stated description; or
+    (ii) holding a stated office; or
+    (iii) nominated by a stated person or by a body or person of a stated description; or
+    (iv) elected by people of a stated description.
+(3) To the extent that the statutes require the council to appoint—
+  (a) a member elected by people of a stated description, they must also provide for the processes by which elections must be held and their results must be determined:
+  (b) a member nominated by a stated person or body or a body of a stated description, they must also provide for the process by which nominations may be called for and must be considered.
+(4) For an appointment under a statute providing for any of the matters set out in subsection (2)﻿(b), section 398J is complied with if, when making the statute concerned, the council is satisfied that compliance with the statute is likely to result in the appointment of a person who—
+  (a) has relevant knowledge, skills, or experience; and
+  (b) is likely to be able to fulfil the person’s individual duties to the council; and
+  (c) together with the other members of the council, is capable of undertaking its responsibilities, functions, and duties.
+(5) This section does not limit section 284.
+
+### 398N Acts and proceedings not invalidated by certain defects
+No act or proceeding of the council, or any council committee, of a category B wānanga is invalidated by—
+  (a) a defect in the appointment of a council member or of the committee; or
+  (b) a defect in the nomination of a council member or committee for appointment as a council member; or
+  (c) a defect in the election of a council member or committee for appointment as a council member; or
+  (d) a disqualification of a council member or committee member; or
+  (e) a vacancy in the membership of the council or committee; or
+  (f) a defect in the convening of any meeting.
+
+### 398O Amendments to constitutions
+If the council of a category B wānanga recommends to the Minister that the constitution of the council be amended in a manner that complies with the requirements of the Order in Council establishing the wānanga, the Minister must amend the constitution in accordance with the recommendation by notice published in the Gazette.
+
+### 398P Application of Local Authorities (Members’ Interests) Act 1968
+The council of a category B wānanga is not a local authority for the purposes of the Local Authorities (Members’ Interests) Act 1968.
+
+### 398Q Application of Public Records Act 2005
+An institution that is a category B wānanga is a public office for the purposes of the Public Records Act 2005.
+
+### 398R Application of Public Audit Act 2001
+(1) An institution that is a category B wānanga is a public entity as defined in section 4 of the Public Audit Act 2001 and, in accordance with that Act, the Auditor-General is its auditor.
+(2) The wānanga must forward to the Auditor-General,—
+  (a) within 3 months after the end of each financial year,—
+    (i) the annual financial statements of the wānanga; and
+    (ii) the statement of service performance of the wānanga; and
+    (iii) any other information that the Auditor-General has agreed, or is required, to audit; and
+  (b) the annual report of the wānanga in a timely manner to enable the Auditor-General to review that report before providing the audit report required under subsection (3)﻿(b).
+(3) The Auditor-General must—
+  (a) audit the statements and information referred to in subsection (2)﻿(a); and
+  (b) provide an audit report to the wānanga within 4 months after the end of each financial year.
+
+### 398S Office holders and employees are officials
+(1) This section applies to office holders and employees of a category B wānanga or a subsidiary that it owns solely or together with 1 or more other institutions or Crown entities.
+(2) Individuals working for the wānanga or its subsidiary as contractors or secondees and performing or exercising a function, duty, or power of the wānanga are to be treated as if they are employees.
+(3) This section also applies to a person who was formerly an employee or office holder in respect of any acts or omissions or decisions made while that person was an employee or office holder of the wānanga or its subsidiary.
+(4) A person to whom this section applies is an official for the purposes of sections 105 and 105A of the Crimes Act 1961.
+(5) This section does not limit the meaning of official in section 99 of the Crimes Act 1961.
+
+### 398T Disclosure of interest
+(1) A council member of a category B wānanga, or a council committee member, who has an interest in a matter being considered or about to be considered by the council or the committee must, as soon as possible after the relevant facts have come to the member’s knowledge, disclose the nature of the interest at a meeting of the council or the committee.
+(2) A disclosure under subsection (1) must be recorded in the minutes of the meeting of the council or committee, and the member may not, unless the council decides otherwise,—
+  (a) be present during any deliberation of the council or the committee with respect to that matter; or
+  (b) take part in any decision of the council or the committee with respect to that matter.
+(3) For the purposes of this section, a person has an interest in a matter if, and only if, the matter relates to the conditions of service of the person as the chief executive or a member of the staff of the wānanga concerned or the person has any other direct or indirect pecuniary interest in the matter.
+
+### 398U Fees and allowances
+(1) A member of the council of a category B wānanga (other than the chief executive) may be paid fees at the rates, not exceeding the maximum rates fixed by the Minister in accordance with the fees framework, that the council determines.
+(2) A council member is entitled, in accordance with the fees framework, to be reimbursed, out of the funds of the wānanga, for actual and reasonable travelling and other expenses incurred in carrying out the member’s office as a member.
+(3) In this section, fees framework means the framework determined by the Government for the classification and remuneration of statutory and other bodies in which the Crown has an interest, including statutory entities and their subsidiaries and institutions.
+
+### 398V Personal liability of council members
+A council member of a category B wānanga is not personally liable for any act done or omitted by the council member or by the council—
+  (a) in good faith; and
+  (b) in the performance or intended performance of the functions of the wānanga or of the council.
+
+### 398W Trust property
+Despite anything to the contrary in this Act or any other enactment, any real or personal property held upon trust by a category B wānanga must be dealt with in accordance with the powers and duties of the wānanga as trustee.
+
+### Subpart 4 — Conversion to category B wānanga
+
+### 398X Conversion of category A wānanga or category C wānanga to category B wānanga
+A category A wānanga or category C wānanga may be converted to a category B wānanga in accordance with clauses 94 to 108 of Schedule 1.
+
+### Subpart 5 — Disestablishment of wānanga
+
+### 398Y Disestablishing wānanga
+(1) The Governor-General may, by Order in Council made on the recommendation of the Minister,—
+  (a) disestablish a wānanga and provide for the distribution of its assets and liabilities:
+  (b) disestablish a wānanga and incorporate the disestablished wānanga into another wānanga or other institution, whether the wānanga or other institution is an existing wānanga or other institution or a new wānanga or other institution that is established for the purpose:
+  (c) provide for the distribution of the assets and liabilities of a wānanga that is to be disestablished.
+(2) Before making a recommendation, the Minister must—
+  (a) give to the council of the wānanga, and any other institution that the Minister considers is likely to be directly affected, written notice—
+    (i) setting out the action that the Minister is considering whether to take and the reasons for that action; and
+    (ii) inviting the council and institutions to make a written submission to the Minister in relation to the matter; and
+  (b) consult iwi or Māori instrumental in the establishment of the wānanga and take those views into account; and
+  (c) consult any other person or body that the Minister thinks fit; and
+  (d) publish, in the Gazette, the notices that the Minister thinks fit inviting members of the public to make written submissions in relation to the matter; and
+  (e) consider any submissions made within a reasonable period in response to the notices.
+(3) The Minister may not recommend the disestablishment of a category A wānanga or category C wānanga, or its disestablishment and incorporation into another wānanga or other institution, unless the Minister is satisfied—
+  (a) on reasonable grounds that there is good reason to do so; and
+  (b) that disestablishing the wānanga, or disestablishing the wānanga and incorporating the disestablished wānanga into another wānanga or other institution, is in the interests of the tertiary education system and the nation as a whole.
+(4) The Minister may not recommend the disestablishment of a category B wānanga, or its disestablishment and incorporation in another wānanga or other institution, unless—
+  (a) the iwi or Māori instrumental in the establishment of the wānanga has determined that there is good reason to do so; and
+  (b) the Minister is satisfied that disestablishing the wānanga, or disestablishing the wānanga and incorporating the disestablished wānanga in another wānanga or other institution, is in the interests of the tertiary education system and the nation as a whole; and
+  (c) the iwi, hapū, or Māori organisation that is primarily accountable for the wānanga is instrumental in the Minister’s disestablishment decision.
+(5) The Minister must specify in the recommendation the reasons for the proposed disestablishment of a wānanga or proposed disestablishment of a wānanga and its incorporation into another wānanga or other institution.
+(6) An order made under this section must,—
+  (a) in respect of the disestablishment of any wānanga, be consistent with the provisions of this Act regarding the distribution of assets and liabilities, including (without limitation) sections 398ZC (vesting of property of disestablished wānanga) and 575A (taxes and duties where assets and liabilities of disestablished institution vested in iwi or Māori):
+  (b) in respect of the disestablishment of a category B wānanga,—
+    (i) require the wānanga to provide a final report to the Minister; and
+    (ii) specify the required content of the final report and the date or dates by which the contents of the report must be provided.
+(7) An order made under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+
+### 398Z Effect of disestablishing wānanga
+Sections 398ZA to 398ZF apply if a wānanga is disestablished.
+
+### 398ZA Disestablished wānanga and their councils cease to exist
+The disestablished wānanga and its council cease to exist.
+
+### 398ZB Entitlements of certain persons for certain awards
+(1) A person who would, but for the disestablishment of the wānanga, have been entitled to be granted an award of the wānanga is entitled to be granted an equivalent award at—
+  (a) the institution into which the wānanga is incorporated; or
+  (b) any other institution that the Secretary directs.
+(2) A person who has partially completed a programme at the disestablished wānanga leading to an award is entitled—
+  (a) to enrol in a similar programme at—
+    (i) the institution into which the wānanga is incorporated; or
+    (ii) any other institution that the Secretary directs; and
+  (b) to be granted the status, and the credit for work performed at the disestablished wānanga, as the council of the institution referred to in paragraph (a)﻿(i) or (ii), after consulting NZQA, thinks fit.
+
+### 398ZC Vesting of property of disestablished wānanga
+(1) If the disestablished wānanga is, immediately upon its disestablishment, incorporated into another institution,—
+  (a) all real and personal property that, immediately before the disestablishment, was vested in the disestablished wānanga (including property held on trust) is vested in the other institution subject to all charges, encumbrances, estates, and interests, and any enactment, affecting that property; and
+  (b) the other institution becomes liable to pay and discharge all the debts, liabilities, and obligations of the disestablished institution that existed immediately before its disestablishment.
+(2) The following provisions apply to a category A wānanga or category C wānanga:
+  (a) if the disestablished wānanga is not immediately upon its disestablishment incorporated into another institution, all real and personal property that, immediately before the disestablishment, was vested in the council of the disestablished wānanga (including property held on trust) is vested in the Crown, subject to all charges, encumbrances, estates, or interests, and any enactment, affecting that property:
+  (b) despite paragraph (a), the Minister may, by written notice, direct that any of the following specified real or personal property of the wānanga is vested in the iwi or Māori concerned subject to all charges, encumbrances, estates, or interests, and any enactment, affecting that property:
+    (i) property that is derived from the settlement of a claim under Te Tiriti o Waitangi in relation to the wānanga:
+    (ii) property that is gifted to the wānanga by iwi or Māori instrumental in the establishment of the wānanga:
+  (c) before issuing a direction under paragraph (b), the Minister must consult the iwi or Māori concerned and any other person or body the Minister thinks fit:
+  (d) the Minister is liable to pay and discharge all the debts, liabilities, and obligations of the council of the disestablished wānanga that existed immediately before its disestablishment other than in relation to any property vested in iwi or Māori under paragraph (b).
+(3) If any real or personal property that was held by a disestablished wānanga on trust vests in the Crown under subsection (2)﻿(a), the Minister may appoint another institution or body to be the trustee of that property.
+(4) In the case of a category B wānanga, if the disestablished wānanga is not, immediately upon its disestablishment, incorporated into another institution,—
+  (a) all real and personal property that, immediately before the disestablishment, was vested in the council of the disestablished wānanga (including property held on trust) is vested in the iwi or Māori to whom the wānanga is accountable, subject to all charges, encumbrances, estates, or interests, and any enactment, affecting that property; and
+  (b) the iwi or Māori concerned become liable to pay and discharge all the debts, liabilities, and obligations of the council of the disestablished wānanga that existed immediately before its disestablishment.
+(5) If any real or personal property that was held by a disestablished wānanga on trust vests in an iwi or Māori under subsection (4)﻿(a), the iwi or Māori concerned may appoint another institution or body to be the trustee of that property.
+(6) If any land vests in an institution, or in the Minister or iwi or Māori under this section, the Registrar-General of Land, on the deposit with the Registrar-General of the plans and documents that the Registrar-General may require, must make the entries in the register and generally do all the other things necessary to give full effect to this section.
+(7) If property is vested in iwi or Māori under this section, the iwi or Māori concerned are responsible for any obligations under section 40 of the Public Works Act 1981 in relation to the vested land (as if they were a local authority).
+
+### 398ZD Treatment of certain contracts, instruments, and proceedings
+Any contract or other instrument (other than a contract of, or instrument relating to, employment) subsisting, or any proceeding pending, immediately before the disestablishment of a wānanga to which the wānanga was a party has effect after the disestablishment as if—
+  (a) the institution into which the disestablished wānanga is incorporated or the Minister or iwi or Māori concerned is substituted for the disestablished wānanga as a party to the contract, other instrument, or proceeding; and
+  (b) any reference in the contract or other instrument, or in a pleading, affidavit, or other document in the proceeding, to the disestablished wānanga in its capacity as a party to the contract, other instrument, or proceeding is (except in relation to matters that occurred before the disestablishment) a reference to the wānanga in which the disestablished wānanga is incorporated or the Minister or iwi or Māori concerned.
+
+### 398ZE Continuation of disestablished wānanga for certain purposes
+(1) Despite section 398ZA, the council of a disestablished wānanga that was a Crown entity continues in existence for the purpose of complying, or facilitating compliance, with Part 4 of the Crown Entities Act 2004 and section 306 of this Act in relation to any academic year of the wānanga and,—
+  (a) if the wānanga is incorporated into another institution, the council of the other institution; or
+  (b) otherwise, the Secretary—
+  must give to the council of the disestablished wānanga any assistance that the council requires for the purpose of complying with its obligations under those provisions and is responsible for paying any expenses incurred by the council (including remuneration and expenses of members of the council or governing body) in so complying.
+(2) Despite section 398ZA, the council of a disestablished wānanga that was a category B wānanga continues in existence for the purpose of complying, or facilitating compliance, with an order made under section 398Y.
+
+### 398ZF Restriction on subsequent distribution of surplus assets
+If a wānanga is disestablished, any surplus assets vested in the iwi or Māori concerned under section 398ZC may only be used for a public or charitable purpose to advance Māori tertiary education.
+
 ## Part 5 — Performance, funding, and support
 
 ### 399 Outline of Part 5
@@ -4563,9 +4993,14 @@ The chief executive of TEC must—
   (b) act in accordance with lawful policies and directions given to the chief executive by TEC.
 
 ### 405 Chief executive must monitor and report on institutions
-The chief executive of TEC—
+(1) The chief executive of TEC—
   (a) must, on an ongoing basis, monitor institutions that receive funding in order to assess whether the operation or long-term viability of any of those institutions is at risk; and
   (b) may report to the Minister on the outcome of that monitoring.
+(2) In the case of an institution that is a wānanga that is not a Crown entity, the chief executive of TEC—
+  (a) may, along with the council of the wānanga, establish a framework for monitoring risk to the operation and long-term viability of the wānanga, having regard to the purpose set out in section 398B and, in particular, the accountability of the wānanga to iwi or Māori; and
+  (b) must undertake any monitoring activity in relation to the wānanga in accordance with the framework; and
+  (c) may report on the outcome of risk monitoring in relation to the wānanga to the Minister and to the iwi or Māori to whom the wānanga is accountable for the operation and long-term viability of the wānanga.
+(3) Nothing in subsection (2) limits or affects the duty of the chief executive to monitor institutions at risk under this section.
 
 ### 406 Additional requirement of Te Pūkenga—New Zealand Institute of Skills and Technology’s council to provide information
 (1) The chief executive of TEC may, by written notice to Te Pūkenga—New Zealand Institute of Skills and Technology’s council, require it to provide any information that the chief executive considers is reasonably required in relation to the operation of Te Pūkenga—New Zealand Institute of Skills and Technology or any related entity of Te Pūkenga—New Zealand Institute of Skills and Technology for the purpose of determining whether there is a risk to, or arising from,—
@@ -4747,7 +5182,8 @@ TEC must—
   (a) how an organisation contributes to the Government’s current and medium-term priorities described in the tertiary education strategy; and
   (b) the tertiary education programmes and activities of an organisation in relation to which funding is sought under section 425; and
   (c) the performance indicators used in measuring whether the specified outcomes relating to those tertiary education programmes and activities are being or have been achieved; and
-  (d) the extent and nature of an organisation’s consultation over its proposed plan.
+  (d) the extent and nature of an organisation’s consultation over its proposed plan; and
+  (e) how, in the case of a wānanga, the activities of the wānanga (other than those activities that contribute towards the Government’s priorities set out in the tertiary education strategy) support the functions and purposes of the wānanga.
 (3) When prescribing matters under subsection (1), TEC may include standard criteria, as well as different criteria applying to different organisations, types of organisation, or groups of organisations.
 (4) Notices given under subsection (1) may be—
   (a) given at different times; and
@@ -6003,13 +6439,13 @@ The purpose of this subpart is to ensure that international students trust New Z
   (b) either—
     (i) the micro-credential is an approved micro-credential and the establishment is accredited to provide the micro-credential; or
     (ii) the micro-credential is of less than 3 months' duration and is exempted under section 528; and
-  (c) if standards from the Directory of Assessment and Skill Standards are included in the training scheme, the establishment has a consent to assess against those standards.
+  (c) if standards from the Directory of Assessment and Skill Standards are included in the approved micro-credential, the establishment has a consent to assess against those standards.
 (3) For the purposes of this section and section 528, a programme or micro-credential is of less than 3 months’ duration if the period starting on the day on which the programme or scheme starts and ending on the day on which it ends (or is likely to end) is less than 3 calendar months, irrespective of the number of days on which the programme or micro-credential is, or is proposed to be, provided during that period.
 
 ### 528 Exemptions
 (1) NZQA may—
   (a) exempt programmes for the purposes of section 525(1)﻿(b) or 527(1)﻿(b)﻿(ii); or
-  (b) exempt micro-credentials for the purposes of section 527(2)﻿(b)﻿(ii).
+  (b) exempt micro-credentials for the purposes of section 525(2)﻿(b) or 527(2)﻿(b)﻿(ii).
 (2) An exemption under subsection (1)—
   (a) may exempt only programmes or micro-credentials that are, or are likely to be, of less than 3 months' duration; and
   (b) may identify programmes or micro-credentials, or classes of programmes or micro-credentials, that are exempt; and
@@ -6161,7 +6597,7 @@ A provider must enrol a person as an international student if the person is not 
 (4) The Minister may set performance standards and priorities for code administrators, which code administrators must have regard to in the performance of their duties and functions.
 (5) A code administrator may allow an applicant to become a signatory provider unconditionally, or subject to any written conditions made known to the applicant at the time the code administrator informs the applicant that the applicant is allowed to become a signatory provider.
 (6) A code administrator may, with the Minister’s prior written approval and subject to any conditions that the code administrator or the Minister thinks fit, delegate any or all of the functions, duties, and powers specified in this section to another person or agency (having regard to their knowledge, skills, or experience).
-(7) A notice made under subsection (1) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+(7)
 
 ### 535B Further obligations of code administrator
 A code administrator must—
@@ -6313,8 +6749,8 @@ In resolving any dispute, a DRS operator—
     (i) costs incurred by that agency or Crown entity in placing the student with an alternative provider; or
     (ii) other costs incurred by that agency or Crown entity as a direct result of the private training establishment or private school not providing the course of study or training.
 (4) Levy funds must be kept in a separate bank account that is used only for the purposes of the levy.
-(5) As soon as practicable after 1 July in each year, the agency responsible for the administration of the levy must present to the Minister an annual report on the administration of the levy, which must include audited financial statements prepared in accordance with generally accepted accounting practice, and the Minister must present a copy of the report to the House of Representatives.
-(6) The amount of levy payable by a provider under regulations made under this section is a debt due to the Crown and may be recovered in any court of competent jurisdiction.
+(5) The amount of levy payable by a provider under regulations made under section 641 is a debt due to the Crown and may be recovered in any court of competent jurisdiction.
+(5)
 
 **Employees of student accommodation**
 
@@ -6406,6 +6842,12 @@ A person who intentionally contravenes section 455(1) commits an offence and is 
 (6) The service provider must ensure that,—
   (a) where a grant has been paid subject to conditions, the conditions are complied with; and
   (b) if a grant has been paid to be used only for purposes specified by the Minister under subsection (5)﻿(b), the grant is used only for those purposes.
+
+### 548A Data accessed by Ministry under Data and Statistics Act 2022
+(1) Despite section 54(1)﻿(c) of the Data and Statistics Act 2022, the Ministry may publish or otherwise disclose, at the level of an early childhood service, data relating to the socio-economic status of children attending early childhood services and their families accessed under Part 5 of that Act in a form that may identify an individual or an organisation if—
+  (a) the publication or other disclosure is for the purpose of assisting the Ministry to develop or use tools relating to the provision of funding to early childhood services under this Act; and
+  (b) the data does not include personal information, as defined in section 7(1) of the Privacy Act 2020, unless the service provider of the early childhood service, who is an individual, has consented to the publication or disclosure of information regarding the service they operate.
+(2) In subsection (1), organisation has the same meaning as in section 6 of the Data and Statistics Act 2022.
 
 ### 549 Loans to licensed early childhood services
 The Minister may, on any terms and conditions the Minister thinks fit, lend to the service provider of any licensed early childhood service money appropriated by Parliament for the purpose.
@@ -6645,27 +7087,39 @@ The submission in respect of any land or interest in land of a claim under secti
 
 ### 574 Taxes and duties where disestablished institution incorporated into another institution
 (1) For the purposes of the Acts specified in Schedule 1 of the Tax Administration Act 1994 and any other enactment that imposes, or provides for the collection of, a tax, duty, levy, or other charge,—
-  (a) a disestablished institution referred to in section 573(5) and the other institution referred to in that section must be treated as being the same person with effect on and from the date on which the real and personal property of the disestablished institution vests in the other institution under that section; and
-  (b) in respect of the liability under 1 or more of those enactments for, and the assessment, determination, or imposition of, taxes, duties, levies, or other charges accruing on and from the day on which the real and personal property of the disestablished institution so vests in the other institution, all transactions entered into by, and acts of, the disestablished institution before the vesting under section 573(5) must be treated as having been entered into by, or to be those of, the other institution and to have been entered into or performed by the other institution at the time when they were entered into or performed by the disestablished institution.
+  (a) a disestablished institution referred to in section 398ZC(1) or 573(5) and the other institution referred to in those provisions must be treated as being the same person with effect on and from the date on which the real and personal property of the disestablished institution vests in the other institution under that section; and
+  (b) in respect of the liability under 1 or more of those enactments for, and the assessment, determination, or imposition of, taxes, duties, levies, or other charges accruing on and from the day on which the real and personal property of the disestablished institution so vests in the other institution, all transactions entered into by, and acts of, the disestablished institution before the vesting under section 398ZC(1) or 573(5) must be treated as having been entered into by, or to be those of, the other institution and to have been entered into or performed by the other institution at the time when they were entered into or performed by the disestablished institution.
 (2) For the purposes of determining a matter referred to in subsection (3), shares held by a disestablished institution in any company (whether directly or through any 1 or more interposed companies) immediately before the vesting under section 573(6) must be treated as having been acquired by the Minister at the time when they were acquired by the disestablished institution.
 (3) The matters are whether—
   (a) any taxpayer satisfies the requirements of section IA 5(2) of the Income Tax Act 2007:
   (b) any taxpayer is included in a group of companies or a wholly-owned group for the purposes of section IA 6 of the Income Tax Act 2007:
   (c) any debit arises to be recorded in a taxpayer's imputation credit account under section OB 41 of the Income Tax Act 2007.
-(4) The vesting of all the real and personal property of a disestablished institution in another institution under section 573(5) may not be treated as a supply of any goods or services for the purposes of the Goods and Services Tax Act 1985, or as a disposition of property for the purposes of the Estate and Gift Duties Act 1968.
+(4) The vesting of all the real and personal property of a disestablished institution in another institution under section 398ZC(1) or 573(5) may not be treated as a supply of any goods or services for the purposes of the Goods and Services Tax Act 1985, or as a disposition of property for the purposes of the Estate and Gift Duties Act 1968.
 (5) Nothing in subsection (2) or (4) limits the generality of subsection (1).
 
 ### 575 Taxes and duties in other cases
 (1) For the purposes of the Acts specified in Schedule 1 of the Tax Administration Act 1994 and any other enactment that imposes, or provides for the collection of, a tax, duty, levy, or other charge,—
-  (a) a disestablished institution referred to in section 573(6) and the Minister must be treated as being the same person with effect on and from the date on which the real and personal property of the disestablished institution vests in the Minister under that section; and
-  (b) in respect of the liability under 1 or more of those enactments for, and the assessment, determination, or imposition of, taxes, duties, levies, or other charges accruing on and from the day on which the real and personal property of the disestablished institution so vests in the Minister, all transactions entered into by, and acts of, the disestablished institution before the vesting under section 573(6) must be treated as having been entered into by, or to be those of, the Minister and to have been entered into or performed by the Minister at the time when they were entered into or performed by the disestablished institution.
-(2) For the purposes of determining a matter referred to in subsection (3), shares held by a disestablished institution in any company (whether directly or through any 1 or more interposed companies) immediately before the vesting under section 573(6) must be treated as having been acquired by the Minister at the time when they were acquired by the disestablished institution.
+  (a) a disestablished institution referred to in section 398ZC(2) or 573(6) and the Minister must be treated as being the same person with effect on and from the date on which the real and personal property of the disestablished institution vests in the Minister under that section; and
+  (b) in respect of the liability under 1 or more of those enactments for, and the assessment, determination, or imposition of, taxes, duties, levies, or other charges accruing on and from the day on which the real and personal property of the disestablished institution so vests in the Minister, all transactions entered into by, and acts of, the disestablished institution before the vesting under section 398ZC(2) or 573(6) must be treated as having been entered into by, or to be those of, the Minister and to have been entered into or performed by the Minister at the time when they were entered into or performed by the disestablished institution.
+(2) For the purposes of determining a matter referred to in subsection (3), shares held by a disestablished institution in any company (whether directly or through any 1 or more interposed companies) immediately before the vesting under section 398ZC(2) or 573(6) must be treated as having been acquired by the Minister at the time when they were acquired by the disestablished institution.
 (3) The matters are whether—
   (a) any taxpayer satisfies the requirements of section IA 5(2) of the Income Tax Act 2007:
   (b) any taxpayer is included in a group of companies or a wholly-owned group for the purposes of section IA 6 of the Income Tax Act 2007:
   (c) any debit arises to be recorded in a taxpayer's imputation credit account under section OB 41 of the Income Tax Act 2007.
-(4) The vesting of all the real and personal property of a disestablished institution in the Minister under section 573(6) may not be treated as a supply of any goods or services for the purposes of the Goods and Services Tax Act 1985, or as a disposition of property for the purposes of the Estate and Gift Duties Act 1968.
+(4) The vesting of all the real and personal property of a disestablished institution in the Minister under section 398ZC(2) or 573(6) may not be treated as a supply of any goods or services for the purposes of the Goods and Services Tax Act 1985, or as a disposition of property for the purposes of the Estate and Gift Duties Act 1968.
 (5) Nothing in subsection (2) or (4) limits the generality of subsection (1).
+
+### 575A Taxes and duties where assets and liabilities of disestablished institution vested in iwi or Māori
+(1) For the purposes of the Acts specified in Schedule 1 of the Tax Administration Act 1994, and of any other enactment that imposes, or provides for the collection of, a tax, duty, levy, or other charge,—
+  (a) a disestablished wānanga referred to in section 398ZC(4) and the iwi or Māori concerned must be treated as being the same person with effect on and from the date on which the real and personal property of the disestablished wānanga vests in the iwi or Māori under that section; and
+  (b) in respect of the liability under 1 or more of those enactments for, and the assessment, determination, or imposition of, taxes, duties, levies, or other charges accruing on and from the day on which the real and personal property of the disestablished wānanga vests in the iwi or Māori concerned, all transactions entered into by, and acts of, the disestablished wānanga before the vesting under section 398ZC(4) must be treated as having been entered into by, or to be those of, the iwi or Māori concerned and to have been entered into or performed by those iwi or Māori at the time when they were entered into or performed by the disestablished wānanga.
+(2) For the purposes of determining a matter referred to in subsection (3), shares held by a disestablished wānanga in any company (whether directly or through any 1 or more interposed companies) immediately before the vesting under section 398ZC(4) must be treated as having been acquired by the iwi or Māori concerned at the time when they were acquired by the disestablished wānanga.
+(3) The matters are whether—
+  (a) any taxpayer satisfies the requirements of section IA 5(2) of the Income Tax Act 2007:
+  (b) any taxpayer is included in a group of companies or a wholly-owned group for the purposes of section IA 6 of the Income Tax Act 2007:
+  (c) any debit arises to be recorded in a taxpayer’s imputation credit account under section OB 41 of the Income Tax Act 2007.
+(4) The vesting of all the real and personal property of a disestablished wānanga in the iwi or Māori concerned under section 398ZC(4) may not be treated as a supply of any goods or services for the purposes of the Goods and Services Tax Act 1985, or as a disposition of property for the purposes of the Estate and Gift Duties Act 1968.
+(5) Nothing in subsection (2) or (4) limits subsection (1).
 
 **School risk management schemes**
 
@@ -6831,8 +7285,7 @@ Despite section 586,—
 (2) Before entering into a collective agreement under the Employment Relations Act 2000, the chief executive of each institution or an organisation of employers representing jointly the chief executives, must consult the Public Service Commissioner about the conditions of employment to be included in the collective agreement.
 
 ### 594 Senior positions at institutions
-(1) The conditions of employment of every person appointed to a senior position at an institution who is not bound by any collective agreement must be determined in each case by agreement between the employer and the person to be appointed, but the employer must consult the Public Service Commissioner before finalising the conditions of employment.
-(2) For the purposes of subsection (1), senior position means the position or positions immediately below, in seniority, the position of the chief executive of the institution, and any other positions that the council of the institution may designate as being senior positions within the institution.
+[Repealed]
 
 ### 595 Actual conditions of employment
 (1) The Public Service Commissioner may declare that all or any part of the conditions of employment fixed under a collective agreement for persons employed in the education service are to be the actual conditions of employment.
@@ -6961,7 +7414,9 @@ A council may reappoint its existing chief executive for a further term without 
 ### 611 Conditions of employment of chief executive
 (1) A chief executive must be appointed for a term of not more than 5 years.
 (2) A chief executive is eligible for reappointment.
-(3) Except where specific conditions of employment for a chief executive are provided in this Act, the conditions of employment of a chief executive must be determined in each case by agreement between the council of the institution and the chief executive, but the council must obtain the written agreement of the Public Service Commissioner to the conditions of employment before finalising the conditions of employment with the chief executive or amending any or all of the conditions once they have been finalised.
+(3) Except where specific conditions of employment for a chief executive are provided in this Act, the conditions of employment for a chief executive must be determined in each case by agreement between the council of the institution and the chief executive, but,—
+  (a) in the case of a wānanga that is a Crown entity, the council must consult the Public Service Commissioner on the conditions of employment before finalising them with the chief executive or amending any or all of the conditions once they have been finalised:
+  (b) in the case of any other institution, the council must obtain the written agreement of the Public Service Commissioner to the conditions of employment before finalising them with the chief executive or amending any or all of the conditions once they have been finalised.
 
 ### 612 Removal from office
 The council, for just cause or excuse, may remove the chief executive from office.
@@ -7012,7 +7467,7 @@ The council, for just cause or excuse, may remove the chief executive from offic
     (v) support staff in schools:
     (vi) Māori education organisations:
     (vii) proprietors of State integrated schools:
-  (c) national bodies with a particular role in respect of the character of designated character schools.
+  (c) national bodies with a particular role in respect of the character of designated character schools and Kura Kaupapa Māori.
 (3) The Minister may delegate the Minister’s function under subsection (1) to any person or persons that the Minister thinks fit.
 (4) In making an appointment to the position of principal, a board must apply any criteria issued under subsection (1) and may also apply any specific additional criteria developed by it under section 618.
 
@@ -7341,10 +7796,17 @@ The right of parents who have children in early childhood centres to enter the p
   (b) give powers to, or impose duties on, boards or principals (or both):
   (c) prescribe processes and procedures in respect of boards:
   (d) provide for the development of enrolment schemes:
-  (e) provide for when schools must be open and closed for instruction:
+  (e) provide for when schools must or may be open and closed for instruction, including (without limitation) by—
+    (i) specifying term dates and the number of half-days on which schools must be open and providing for exceptions in particular cases:
+    (ii) allowing boards to vary the time at which any 1 or more half-days take place subject to any specified preconditions or requirements:
+    (iii) allowing boards to run multiple timetable arrangements unconditionally or subject to any specified preconditions or requirements:
+    (iv) authorising the Minister, by notice, to determine the matters set out in subparagraphs (i) to (iii), and authorising the Minister to delegate the power to determine those matters to the Secretary in relation to any individual school:
   (f) provide for the circumstances in which the Secretary may direct that a student be enrolled at a school.
 (3) Regulations made under this section prescribing a course of study may not restrict the method by or manner in which any subject forming part of the course is to be taught, except to the extent necessary to ensure that the teaching of the subject is consistent with the general aims of the course.
 (4) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+(5) If the regulations authorise the Minister to determine matters referred to in subsection (2)﻿(e)—
+  (a) an instrument that determines those matters is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements); and
+  (b) the regulations must contain a statement to that effect.
 
 ### 639 Regulations relating to planning, implementation, monitoring, and reporting for schools and boards
 (1) The Governor-General may, by Order in Council, make regulations for all or any of the following purposes:
@@ -7576,8 +8038,8 @@ Nothing in sections 653 to 657 limits the academic freedom of—
   (b) Te Pūkenga—New Zealand Institute of Skills and Technology as set out in section 318.
 
 ### 659 Power of boards to close schools
-(1) Despite anything in Schedule 21, a board may close a school it administers because of an epidemic, a flood, a fire, or any other emergency.
-(2) The Secretary may, by written notice to the board, reduce the number of half-days for which a school would otherwise be required by clause 1 of Schedule 21 to be open for instruction if satisfied that its closure for instruction was necessary because of an epidemic, flood, fire, or other emergency.
+(1) Despite anything in regulations made under section 638(2)﻿(e), a board may close a school it administers because of an epidemic, a flood, a fire, or any other emergency.
+(2) The Secretary may, by written notice to the board, reduce the number of half-days for which a school would otherwise be required by regulations made under section 638(2)﻿(e) to be open for instruction if satisfied that its closure for instruction was necessary because of an epidemic, flood, fire, or other emergency.
 (3) The Secretary may direct a board to reopen a school if the Secretary, after consulting the board and any other parties that the Secretary considers relevant, is satisfied that the closure is no longer justified.
 (4) A board may not close a school if the Secretary has issued a direction under section 654 in respect of the school.
 
@@ -7870,7 +8332,7 @@ In this subpart, unless the context otherwise requires,—
   (b) the Registrar of Companies must issue a certificate of incorporation for the company; and
   (c) 100 shares must be treated as having been issued to Te Pūkenga—New Zealand Institute of Skills and Technology.
 (2) The certificate of incorporation is conclusive evidence that the corresponding Te Pūkenga—New Zealand Institute of Skills and Technology subsidiary was, on and after 1 April 2020, registered as a company under the Companies Act 1993.
-(3) For the purposes of subclause (1)﻿(a), the name of the corresponding Te Pūkenga—New Zealand Institute of Skills and Technology subsidiary is:The following table is small in size and has 2 columns. Column 1 is headed Name of polytechnic. Column 2 is headed Name of corresponding Te Pūkenga—New Zealand Institute of Skills and Technology subsidiary.Name of existing polytechnicName of corresponding Te Pūkenga—New Zealand Institute of Skills and Technology subsidiaryAra Institute of Canterbury Ara Institute of Canterbury LimitedEastern Institute of TechnologyEastern Institute of Technology LimitedManukau Institute of Technology Manukau Institute of Technology Limited Nelson Marlborough Institute of Technology Nelson Marlborough Institute of Technology LimitedNorthland PolytechnicNorthland Polytechnic LimitedOtago Polytechnic Otago Polytechnic Limited Southern Institute of TechnologySouthern Institute of Technology LimitedTai Poutini Polytechnic Tai Poutini Polytechnic LimitedThe Open Polytechnic of New Zealand The Open Polytechnic of New Zealand LimitedToi Ohomai Institute of TechnologyToi Ohomai Institute of Technology LimitedUnitec Institute of Technology Unitec New Zealand Limited Universal College of LearningUniversal College of Learning LimitedWaikato Institute of Technology Waikato Institute of Technology LimitedWellington Institute of Technology Wellington Institute of Technology LimitedWestern Institute of Technology at TaranakiWestern Institute of Technology at Taranaki Limited Whitireia Community PolytechnicWhitireia Community Polytechnic Limited
+(3) For the purposes of subclause (1)﻿(a), the name of the corresponding Te Pūkenga—New Zealand Institute of Skills and Technology subsidiary is:The following table is small in size and has 2 columns. Column 1 is headed Name of existing polytechnic. Column 2 is headed Name of corresponding Te Pūkenga—New Zealand Institute of Skills and Technology subsidiary.Name of existing polytechnicName of corresponding Te Pūkenga—New Zealand Institute of Skills and Technology subsidiaryAra Institute of Canterbury Ara Institute of Canterbury LimitedEastern Institute of TechnologyEastern Institute of Technology LimitedManukau Institute of Technology Manukau Institute of Technology Limited Nelson Marlborough Institute of Technology Nelson Marlborough Institute of Technology LimitedNorthland PolytechnicNorthland Polytechnic LimitedOtago Polytechnic Otago Polytechnic Limited Southern Institute of TechnologySouthern Institute of Technology LimitedTai Poutini Polytechnic Tai Poutini Polytechnic LimitedThe Open Polytechnic of New Zealand The Open Polytechnic of New Zealand LimitedToi Ohomai Institute of TechnologyToi Ohomai Institute of Technology LimitedUnitec Institute of Technology Unitec New Zealand Limited Universal College of LearningUniversal College of Learning LimitedWaikato Institute of Technology Waikato Institute of Technology LimitedWellington Institute of Technology Wellington Institute of Technology LimitedWestern Institute of Technology at TaranakiWestern Institute of Technology at Taranaki Limited Whitireia Community PolytechnicWhitireia Community Polytechnic Limited
 
 **Duration of corresponding Te Pūkenga—New Zealand Institute of Skills and Technology subsidiaries**
 
@@ -8402,6 +8864,235 @@ Sections 536 to 538 (as amended by the Amendment Act) apply to the dispute if—
 (5) The Police vet must be obtained in respect of a person to whom this clause applies before the person has, or is likely to have, unsupervised access to students at the school during normal school hours.
 (6) The board or managers must apply for the Police vet no later than 2 weeks after the person begins work at the school.
 
+### Part 5 — Provisions relating to Education and Training Amendment Act 2023
+
+#### Subpart 1 — Provisions for Part 4A (wānanga)
+
+### 89 Wānanga
+(1) Wānanga established under section 268—
+  (a) are Crown entities for the purposes of section 7 of the Crown Entities Act 2004 and their councils are boards for the purposes of that Act; and
+  (b) are to be treated as if they were established as Crown entities under section 398E.
+(2) A wānanga that is reconstituted under clause 90(1) is to be treated as if it were established under section 398E as a category A wānanga.
+(3) A wānanga that is converted under clause 94(2) is to be treated as if it were established under section 398I as a category B wānanga.
+(4) The Crown Entities Act 2004—
+  (a) applies to those wānanga except to the extent that this Act expressly provides otherwise; and
+  (b) ceases to apply to those wānanga that are—
+    (i) converted to category B wānanga under clause 94(2):
+    (ii) established as category B wānanga under section 398I.
+(5) The Governor-General may, by Order in Council made on the recommendation of the Minister given after receiving a recommendation from Te Tauihu o Ngā Wānanga, amend this Act or any other enactment by—
+  (a) omitting from it the term “category A wānanga” and substituting some other term:
+  (b) omitting from it the term “category B wānanga” and substituting some other term:
+  (c) omitting from it the term “category C wānanga” and substituting some other term.
+(6) To avoid doubt, a wānanga does not cease to be an institution merely because a term used to refer to it is changed under subsection (5).
+(7) An order made under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+
+**Reconstitution of wānanga council**
+
+### 90 Wānanga council may be reconstituted
+(1) The Governor-General may, by Order in Council made on the recommendation of the Minister, reconstitute the council of a wānanga established under section 268.
+(2) Before making a recommendation to reconstitute the council of a wānanga under subclause (1), the Minister must—
+  (a) consult the council of the wānanga being considered for reconstitution; and
+  (b) consult iwi or Māori instrumental in the establishment of the wānanga; and
+  (c) consult any other persons or bodies that the Minister thinks fit; and
+  (d) be satisfied that any additional functions and purposes of the wānanga that are specified under subclause (4)﻿(a) are consistent with the characteristics of a wānanga set out in section 398D.
+(3) An order made under subclause (1) must—
+  (a) revoke and replace any previous order determining the constitution of the council of the wānanga; and
+  (b) state the name of the wānanga as reconstituted; and
+  (c) make provision for determining the people who are to constitute the wānanga; and
+  (d) set out the governance arrangements for the council of the wānanga, including the constitution of the council and the arrangements for the appointment, suspension, and removal of its members; and
+  (e) set out the arrangements for conducting meetings of the council; and
+  (f) specify the manner in which the policies of the wānanga are to be determined; and
+  (g) provide for the establishment and membership of an academic committee to advise the council on matters relating to courses of study or training, awards, and other academic matters; and
+  (h) provide for any other matters that are necessary or desirable—
+    (i) for good governance of the wānanga:
+    (ii) to clarify the arrangements for the administration of the wānanga; and
+  (i) specify how the council is to engage with the Public Service Commissioner on the conditions of employment of the chief executive.
+(4) An order made under subclause (1) may—
+  (a) specify any functions and purposes of the wānanga and the council that are in addition to any functions and purposes of an institution or its council set out in this Act:
+  (b) impose conditions on the performance or exercise of the powers of the wānanga.
+(5) An order made under this clause is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+
+### 91 Initial membership of council of reconstituted wānanga
+(1) Before the date of reconstitution of the council of a wānanga, each person or body responsible for appointing or electing members to the reconstituted wānanga council may appoint or elect the number of members of the reconstituted wānanga council required by its constitution to be appointed or elected by that person or body.
+(2) The appointment or election of a member to a reconstituted wānanga council under subclause (1) takes effect on the later of—
+  (a) the date on which the appointment or election occurs; and
+  (b) the date of reconstitution.
+(3) If on the date of reconstitution a vacancy in the council of the wānanga as reconstituted exists, the person or body responsible for appointing or electing a person to that vacancy—
+  (a) may, by written notice to any person who was a member of the council immediately before that day, authorise that person to act as a member of the council until the vacancy is filled; and
+  (b) must appoint or elect a person to the vacancy within 3 months after the date of reconstitution.
+(4) The person or body responsible for appointing or electing a person to the vacancy must give a copy of every notice under subclause (3)﻿(a) to the council of the wānanga as reconstituted.
+(5) A person authorised under subclause (3)﻿(a) must for all purposes be treated as a member of the council concerned until the vacancy concerned is filled.
+(6) A council may, before the date of reconstitution, make the statutes under section 398H for the purpose of making appointments or conducting elections of members to the council of the wānanga as reconstituted.
+
+### 92 Members of existing council go out of office
+(1) On the date of reconstitution of the council of a wānanga,—
+  (a) all members of the council of the wānanga immediately before that date go out of office; and
+  (b) all the people appointed or elected as members of the council before that date under clause 91 take up office.
+(2) Neither the Crown, the wānanga, nor the council of the wānanga is liable to make a payment to, or otherwise compensate, a person in respect of the person’s going out of office as a member of the council under this clause.
+
+### 93 Reconstituted wānanga and council is same institution and council
+On and after the date of reconstitution of the council of a wānanga,—
+  (a) the wānanga is the same institution and Crown entity that existed immediately before that date; and
+  (b) the council of the wānanga as reconstituted—
+    (i) is the same body as the council of the wānanga concerned that existed immediately before that date; and
+    (ii) has the same rights, duties, and obligations it then had under this Act together with any rights, duties, and obligations conferred in the order reconstituting the wānanga.
+
+**Conversion of wānanga**
+
+### 94 Category A wānanga or category C wānanga may convert to category B wānanga
+(1) This clause applies to an institution that is—
+  (a) a category A wānanga; or
+  (b) a category C wānanga.
+(2) If this clause applies, the Governor-General may, by Order in Council made on the recommendation of the Minister, convert the institution to a category B wānanga.
+(3) Before making a recommendation to convert an institution to a category B wānanga, the Minister must—
+  (a) consult the council of the wānanga being considered for conversion; and
+  (b) consult iwi or Māori instrumental in the establishment of the institution; and
+  (c) consult other persons or bodies that the Minister thinks fit; and
+  (d) be satisfied that the functions and purposes of the wānanga that are specified under subclause (4)﻿(e) are consistent with the characteristics of a wānanga set out in section 398D; and
+  (e) be satisfied that the accountability arrangements set out in subclause (4)﻿(h) and (i) are sufficient for the effective governance and administration of the wānanga; and
+  (f) be satisfied that iwi or Māori specified under subclause (4)﻿(h) as the iwi or Māori to whom the wānanga is accountable—
+    (i) accept responsibility for ensuring accountability of the wānanga and its council; and
+    (ii) have access to the skills and resources reasonably necessary to ensure accountability of the wānanga and its council.
+(4) An order made under subclause (2) must—
+  (a) revoke and replace any order establishing the wānanga; and
+  (b) state the name of the wānanga; and
+  (c) provide for determining the people who are to constitute the wānanga; and
+  (d) set out the governance arrangements for the council of the wānanga, including the constitution of the council and the arrangements for the appointment, suspension, and removal of members; and
+  (e) specify the functions, duties, and purposes of the wānanga and its council; and
+  (f) set out the procedures for conducting the meetings of the council; and
+  (g) specify the collective and individual duties of the members of the council and the manner in which members will be accountable for the performance of their duties; and
+  (h) specify the iwi or Māori to whom the wānanga is accountable for the effective governance and administration of the wānanga, and the things for which the wānanga is accountable (for example, the progress made towards achieving the purposes of the wānanga); and
+  (i) set out what the wānanga must do to ensure adequate accountability for the effective governance and administration of the wānanga, including—
+    (i) requirements for the efficient and prudent financial management of the wānanga; and
+    (ii) requirements for financial reporting and reporting on other matters, including (without limitation) requiring wānanga to prepare, in accordance with generally accepted accounting practice (within the meaning of section 8 of the Financial Reporting Act 2013),—
+      (A) a statement of service performance; and
+      (B) annual financial statements; and
+    (iii) the means by which risk to the operation and long-term viability of the wānanga will be managed, including the range or type of interventions available to address risk; and
+    (iv) requirements for planning the long-term strategic direction and objectives of the wānanga in the performance of its functions; and
+  (j) provide for the appointment of a chief executive, including—
+    (i) the functions and duties of the chief executive; and
+    (ii) the delegation of any functions or duties of the chief executive; and
+  (k) set out any requirements relating to the appointment of employees of the wānanga; and
+  (l) set out the things that the wānanga must do to ensure the fair and proper treatment of employees in all aspects of their employment; and
+  (m) require the wānanga to publish an annual report on an Internet site maintained by or on behalf of the wānanga; and
+  (n) require the annual report of the wānanga to include (without limitation) a statement of—
+    (i) the number of employees or former employees of the wānanga who, in their capacity as employees, received remuneration of $100,000 or more (including compensation or other benefits) in the year to which the report relates; and
+    (ii) the number of those employees or former employees in each bracket of remuneration in $10,000 increments.
+(5) An order made under subclause (2) may—
+  (a) set out, by way of preamble, the contextual background for the conversion of the institution to a category B wānanga, including any acknowledgements by the Crown:
+  (b) specify the means by which the council of the wānanga is to engage with the people who constitute the wānanga, and the iwi or Māori that the wānanga is accountable to for its effective governance and administration:
+  (c) impose conditions on the performance or exercise of the functions, duties, or powers of the wānanga or its council:
+  (d) specify limits on the number of times that people may be appointed to the council:
+  (e) specify the term of office of members of the council:
+  (f) specify the manner in which policies of the wānanga are to be determined:
+  (g) provide for the establishment and membership of an academic committee to advise the council on matters relating to courses of study or training, awards, and other academic matters:
+  (h) provide for any other matters that are necessary or desirable to—
+    (i) provide for good governance of the wānanga; or
+    (ii) clarify the arrangements for the administration of the wānanga.
+(6) For the purposes of subclause (4)﻿(n), employees includes the chief executive appointed by the council of the wānanga.
+(7) An order made under this clause is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+
+### 95 Members of council cease to hold office on close of day before date of conversion
+(1) If an order is made under clause 94(2), every member of the council of the relevant wānanga that is holding office immediately before the date of conversion ceases to hold office on the close of the day before that date.
+(2) Neither the Crown, the wānanga, nor the council of the wānanga is liable to make a payment to, or otherwise compensate, a person referred to in subclause (1) in respect of the loss of office.
+
+### 96 Rights, assets, and liabilities of converted wānanga
+(1) This clause applies to all rights, assets, and liabilities that belong to a wānanga immediately before its date of conversion.
+(2) On and after the date of conversion,—
+  (a) the rights, assets, and liabilities of the wānanga that was a category A wānanga or category C wānanga vest in the category B wānanga; and
+  (b) unless the context otherwise requires, every reference to the wānanga that was a category A wānanga or category C wānanga in any enactment (other than this Act), instrument, agreement, deed, lease, application, notice, or other document before that date must be read as a reference to the category B wānanga.
+(3) In this clause, assets, liabilities, and rights have the same meanings as in section 10(6).
+
+### 97 Same person for purposes of Inland Revenue Acts
+For the purposes of the Inland Revenue Acts (as defined in section 3(1) of the Tax Administration Act 1994), a wānanga that is a category B wānanga must, on and from the date of conversion, be treated as the same person as the wānanga it replaces.
+
+### 98 Employees of converted wānanga
+(1) On and after the date of conversion, every employee of the wānanga that was a category A wānanga or category C wānanga becomes an employee of the category B wānanga on the same terms and conditions that applied to the person immediately before they became an employee of the category B wānanga.
+(2) For the purposes of every enactment, law, determination, contract, and agreement relating to the employment of that employee,—
+  (a) the employee’s employment agreement is to be treated as unbroken; and
+  (b) the employee’s period of service with the wānanga that was a category A wānanga or category C wānanga, and every other period of service of the employee that is recognised by that wānanga as continuous service, is to be treated as a period of service with the category B wānanga.
+(3) To avoid doubt, the employment by a category B wānanga of an employee to whom this clause applies does not constitute new employment for the purposes of any service-related benefits, whether legislative or otherwise.
+(4) An employee to whom this clause applies is not entitled to receive any payment or benefit from the wānanga that was a category A wānanga or category C wānanga or the category B wānanga on the grounds that—
+  (a) the person’s position in the wānanga that was a category A wānanga or category C wānanga has ceased to exist; or
+  (b) the person has ceased to be an employee of that wānanga because of the transfer to the category B wānanga.
+(5) This clause overrides—
+  (a) Part 6A of the Employment Relations Act 2000; and
+  (b) any employment protection provision in any relevant employment agreement.
+
+### 99 Superannuation schemes
+(1) This clause applies to a person who, immediately before becoming an employee of a category B wānanga, was—
+  (a) an employee of a category A wānanga or category C wānanga; and
+  (b) a contributor to the Government Superannuation Fund under Part 2 or 2A of the Government Superannuation Fund Act 1956.
+(2) For the purposes of the Government Superannuation Fund Act 1956, the person is to be treated as being employed in the Government service as long as the person continues to be an employee of the category B wānanga.
+(3) The Government Superannuation Fund Act 1956 applies to the person in all respects as if the person’s service as an employee of the category B wānanga were Government service.
+(4) Subclause (1) does not entitle a person to become a contributor to the Government Superannuation Fund if the person has ceased to be a contributor.
+(5) For the purpose of applying the Government Superannuation Fund Act 1956, the chief executive of the category B wānanga is the controlling authority.
+(6) On and after the date of conversion, every reference to the wānanga that was a category A wānanga or category C wānanga as the employer in relation to any superannuation scheme must, unless the context otherwise requires, be read as a reference to the category B wānanga.
+
+### 100 Students of converted wānanga
+(1) This clause applies to every student enrolled at a wānanga that was a category A wānanga or category C wānanga immediately before its date of conversion to a category B wānanga.
+(2) On and after the date of conversion, the student must be treated as having been enrolled at the category B wānanga.
+(3) A student who would, but for the conversion, have been entitled to be granted an award of the wānanga that was a category A wānanga or category C wānanga is entitled to be granted a like award of the category B wānanga.
+
+### 101 Visas granted under Immigration Act 2009
+(1) This clause applies to a visa granted under the Immigration Act 2009 in respect of—
+  (a) a student, for the purposes of enrolment at a wānanga that was a category A wānanga or category C wānanga; or
+  (b) a staff member of a wānanga that was a category A wānanga or category C wānanga.
+(2) On and after the date of conversion, any reference to the wānanga that was a category A wānanga or category C wānanga in a condition imposed on the visa must be read as a reference to the category B wānanga.
+
+### 102 Existing NZQA approvals, accreditations, and consents
+(1) This clause applies to the following that were granted to a wānanga that was a category A wānanga or category C wānanga by NZQA under this Act and in effect immediately before its date of conversion to a category B wānanga:
+  (a) an approval of a programme under section 439:
+  (b) an accreditation to provide all or part of a programme under section 441:
+  (c) an approval to provide a micro-credential under section 445:
+  (d) a consent to assess against the standards listed in the Directory of Assessment and Skill Standards under section 449:
+  (e) a consent to award a degree or a postgraduate qualification under section 454.
+(2) On and after the date of conversion,—
+  (a) the approval, accreditation, or consent (including any conditions imposed on an approval, an accreditation, or a consent) must be treated as if it were granted to the category B wānanga; and
+  (b) unless the context otherwise requires, every reference to the wānanga that was a category A wānanga or category C wānanga in the approval, accreditation, or consent must be read as a reference to the category B wānanga.
+
+### 103 Existing funding paid by TEC under funding mechanism
+(1) This clause applies to funding (including any conditions imposed on the funding) payable by TEC to a wānanga—
+  (a) in accordance with an approval granted under section 425(2); or
+  (b) other than via a plan under section 428.
+(2) On and after the date of conversion,—
+  (a) TEC must treat the funding for a wānanga that was a category A wānanga or category C wānanga as if it were payable to the category B wānanga unless that funding is earlier suspended, revoked, or withdrawn under clause 16 or 26 of Schedule 18; and
+  (b) for the purposes of paragraph (a), every reference to the wānanga that was a category A wānanga or category C wānanga in an approval granted under section 425(2) must, unless the context otherwise requires, be read as a reference to the category B wānanga.
+
+### 104 Other references to converted wānanga that were category A wānanga or category C wānanga
+On and after the date of conversion, every reference to a wānanga that was a category A wānanga or category C wānanga in any enactment (other than this Act) or document must, unless the context otherwise requires, be read as a reference to the category B wānanga.
+
+### 105 Existing proceedings and other matters
+(1) On and after the date of conversion,—
+  (a) any proceedings by or against the wānanga that was a category A wānanga or category C wānanga may be continued or enforced by or against the category B wānanga without amendment to the proceedings; and
+  (b) a matter or thing that would, but for this clause, have been completed by the wānanga that was a category A wānanga or category C wānanga may be completed by the category B wānanga; and
+  (c) anything done, omitted to be done, or to be done, by or in relation to the wānanga that was a category A wānanga or category C wānanga is to be treated as having been done, omitted to be done, or to be done by or in relation to the category B wānanga.
+(2) In this clause, proceedings—
+  (a) means civil and criminal proceedings; and
+  (b) includes any enforcement or compliance action by TEC or NZQA.
+
+### 106 Converted wānanga must provide final report to Minister
+(1) Despite section 45J of the Public Finance Act 1989,—
+  (a) a wānanga that is a category B wānanga and that is converted from a wānanga that was a category A wānanga or category C wānanga must provide a final report to the Minister in relation to the wānanga that was a category A wānanga or category C wānanga in accordance with section 45J(1) of that Act; and
+  (b) the Minister may specify the contents of the final report and the date or dates by which the contents of the report must be provided.
+(2) Section 45L of the Public Finance Act 1989 does not apply to a wānanga that was a category A wānanga or category C wānanga and that is converted into a category B wānanga under clause 94(2).
+(3) The Minister must present a copy of the final report to the House of Representatives as soon as practicable after receiving it.
+(4) In this clause, Minister means the Minister responsible for the time being for administering this Part of this schedule.
+
+### 107 Validation of pre-commencement actions and processes for appointments to councils of converted wānanga
+(1) This clause applies to any action or process undertaken by a wānanga that was a category A wānanga or category C wānanga before the date of conversion when appointing members to the council of the category B wānanga.
+(2) An appointment is valid if the action or process substantially complies with this Act and the provisions of the relevant Order in Council establishing the category B wānanga.
+
+### 108 Membership of councils of category B wānanga reduced
+(1) The number of members of the council of a category B wānanga is reduced until the date on which each member referred to in the membership provisions of the relevant Order in Council is appointed to the council.
+(2) No action of the council of a category B wānanga is invalid just because any member referred to in subclause (1) has not been appointed to that council on the date of conversion.
+
+#### Subpart 2 — Provision relating to election of board members who are parent representatives
+
+### 109 Timing of mid-term elections of board members who are parent representatives
+(1) This clause applies to a board that has decided under clause 4 of Schedule 23 to adopt a staggered election cycle in relation to the election of board members who are parent representatives.
+(2) Despite clause 4(3) of Schedule 23, the board must hold the next mid-term election of those board members that falls due after the commencement of this clause in November 2023.
+
 ## Schedule 2 — Special institutions
 
 ## Schedule 2A — Free kindergarten associations
@@ -8646,11 +9337,17 @@ If the management of an early childhood service that is not an early childhood e
   (c) who is not—
     (i) a registered teacher who holds a current practising certificate; or
     (ii) a holder of a limited authority to teach.
-(2) The Police vet must be obtained before a person’s employment or engagement at the early childhood service begins.
+(2) The service provider must—
+  (a) obtain the Police vet required by subclause (1) before the person begins work at the early childhood service; and
+  (b) consider the information contained in the Police vet to assess whether the person would pose a risk to the safety of children if the person were to carry out work at the service.
+(3) In carrying out an assessment under subclause (2)﻿(b), the service provider must take into account any guidelines on risk assessments issued by the Ministry.
 
 ### 2 Police vetting of contractors and their employees who work at licensed early childhood services
 (1) The service provider of a licensed early childhood service must obtain a Police vet of every contractor, or employee of a contractor, who has, or is likely to have, unsupervised access to children at the service during normal opening hours.
-(1A) The Police vet must be obtained before a contractor, or an employee of a contractor, has, or is likely to have, unsupervised access to children at the service during normal opening hours.
+(1A) The service provider must—
+  (a) obtain the Police vet required by subclause (1) before the contractor, or employee of a contractor, has, or is likely to have, unsupervised access to children at the service; and
+  (b) consider the information contained in the Police vet to assess whether the contractor, or employee of a contractor, would pose a risk to the safety of children if they had unsupervised access to children at the service.
+(1B) In carrying out an assessment under subclause (1A)﻿(b), the service provider must take into account any guidelines on risk assessments issued by the Ministry.
 (2) In this clause, contractor means a person who works at a licensed early childhood service under a contract for services.
 
 ### 3 Police vet must be obtained before person has unsupervised access to children
@@ -8670,9 +9367,12 @@ The service provider of a licensed early childhood service that applies for a Po
 (2) In this clause, adult means a person who is aged 17 years or over.
 
 ### 6 When Police vet under clause 5 must be obtained
-(1) A Police vet required under clause 5 must be obtained,—
-  (a) in the case of a home that is to be used as a licensed home-based education and care service, before the home is used as a licensed home-based education and care service; and
-  (b) in the case of a home that is being used as a licensed home-based education and care service, before the adult begins to live in the home.
+(1) The service provider must—
+  (a) obtain the Police vet required by clause 5,—
+    (i) in the case of a home to be used as a licensed home-based education and care service, before the home is used as a licensed home-based education and care service:
+    (ii) in the case of a home that is being used as a licensed home-based education and care service, before the adult begins to live in the home; and
+  (b) consider the information contained in the Police vet to assess whether the person would pose a risk to the safety of children to whom the service is provided.
+(1A) In carrying out an assessment under subclause (1)﻿(b), the service provider must take into account any guidelines on risk assessments issued by the Ministry.
 (2) The Police vet must be obtained even if the person is unlikely to be present when the licensed home-based education and care service is provided.
 
 ### 7 Procedures relating to Police vets under clause 5
@@ -8698,11 +9398,17 @@ The service provider of a licensed home-based education and care service that ap
   (c) who is not—
     (i) a registered teacher who holds a current practising certificate; or
     (ii) a holder of a limited authority to teach.
-(2) The Police vet must be obtained before a person’s employment or engagement at the school begins.
+(2) The board or managers must—
+  (a) obtain the Police vet required by subclause (1) before the person begins work at the school; and
+  (b) consider the information contained in the Police vet to assess whether the person would pose a risk to the safety of children if the person were to carry out work at the school.
+(3) In carrying out an assessment under subclause (2)﻿(b), the board or managers must take into account any guidelines on risk assessments issued by the Ministry.
 
 ### 10 Police vetting of contractors and their employees who work at schools
 (1) The board of a State school and the managers of a private school must obtain a Police vet of every contractor, or employee of a contractor, who has, or is likely to have, unsupervised access to students at the school during normal school hours.
-(1A) A Police vet must be obtained before a contractor, or an employee of a contractor, has, or is likely to have, unsupervised access to students at the school during normal school hours.
+(1A) The board or managers must—
+  (a) obtain the Police vet required by subclause (1) before the contractor, or employee of a contractor, has, or is likely to have, unsupervised access to children at the school; and
+  (b) consider the information contained in the Police vet to assess whether the contractor, or employee of a contractor, would pose a risk to the safety of children if they had unsupervised access to children at the school.
+(1B) In carrying out an assessment under subclause (1A)﻿(b), the board or managers must take into account any guidelines on risk assessments issued by the Ministry.
 (2) In this clause, contractor means a person who works at a school under a contract for services.
 
 ### 11 Police vet must be obtained before person has unsupervised access to students
@@ -9679,13 +10385,13 @@ The following information must be published on an Internet site maintained by or
 ## Schedule 11 — Councils
 
 ### 1 Constitutions of councils of new institutions
-(1) The Minister must appoint a committee consisting of 3 persons (an establishment committee) for the purpose of advising the Minister regarding the constitution for the council of a body that is, or is to be, established under section 268(1).
-(2) The establishment committee must recommend to the Minister a constitution for the council that is, in the committee’s opinion, appropriate for the institution and complies with the requirements of section 276.
+(1) The Minister must appoint a committee consisting of 3 persons (an establishment committee) for the purpose of advising the Minister regarding the constitution for the council of a body that is, or is to be, established under section 268(1) or under section 398E.
+(2) The establishment committee must recommend to the Minister a constitution for the council that is, in the committee’s opinion, appropriate for the institution and complies with the requirements of section 276 or under section 398E.
 (3) When the establishment committee has recommended a constitution for the council in accordance with subclause (2), the Minister must, by notice published in the Gazette, determine the constitution of the council in accordance with the recommendation.
 (4) This section does not apply to the membership of Te Pūkenga—New Zealand Institute of Skills and Technology’s council.
 
 ### 2 Amendment of constitution
-(1) If, after the constitution of a council has been determined, the council recommends to the Minister that the constitution be amended in a manner that complies with the requirements of section 276, the Minister must, by notice published in the Gazette, amend the constitution in accordance with the recommendation.
+(1) If, after the constitution of a council has been determined, the council recommends to the Minister that the constitution be amended in a manner that complies with the requirements of section 276 or the requirements of an Order in Council made under section 398E in relation to the constitution of the council of a wānanga, the Minister must, by notice published in the Gazette, amend the constitution in accordance with the recommendation.
 (2) Subclause (1) does not apply to the membership of Te Pūkenga—New Zealand Institute of Skills and Technology’s council (for which section 320 provides).
 
 ### 3 Limit on number of occasions on which people may be appointed as council members
@@ -9781,6 +10487,7 @@ A person who is a council member of an institution may be appointed as a council
 ### 11 Accountability for individual duties
 (1) The individual duties of a council member under clause 10 are owed to the Minister and the council.
 (2) A council member who does not comply with their individual duties may be removed from office under clause 12.
+(2A) Despite anything in subclause (2), a council member of a wānanga who does not comply with their individual duties may be removed from office under the provisions for removal of members set out in an Order in Council for the reconstitution or establishment of the wānanga.
 (3) An institution's council may bring an action against a council member for breach of any individual duty.
 (4) Except as provided in subclauses (2) and (3), a council member is not liable for a breach of an individual duty.
 (5) However, subclause (4) does not limit or affect—
@@ -11031,12 +11738,19 @@ In an election for parent representatives on a combined board,—
 ### 1 Criteria for selecting co-opted and appointed board members
 (1) For the purposes of subclause (2), it is desirable, as far as is reasonably practicable,—
   (a) that every board should reflect—
-    (i) the ethnic and socio-economic diversity of the student body of the school or special institution; and
-    (ii) the fact that approximately half the population of New Zealand is male and half female; and
-    (iii) the character of the school or schools, or special institution, it administers; and
-    (iv) the character of the community (whether geographical or otherwise) served by the school or schools, or special institution, it administers; and
+    (i) the ethnic diversity of the student body and the community of the school or special institution; and
+    (ii) the socio-economic diversity of the student body and the community of the school or special institution; and
+    (iii) the genders, sexualities, and sexes of the student body and the community of the school or special institution; and
+    (iv) the diversity of disabled students at the school and the school’s or special institution’s disability community; and
+    (v) the character of the school, or special institution, it administers; and
+    (vi) the character of the community of the school or special institution (whether geographical or otherwise) that the school or special institution serves; and
   (b) that every board should have available from within its membership expertise and experience in management.
 (2) A board or person, when co-opting or appointing board members, must have regard to subclause (1).
+(3) For the purposes of subclause (1)﻿(a)﻿(i) to (iii) and (vi), community of the school or special institution—
+  (a) means—
+    (i) the parents, families, and whānau of the students of the school or special institution; and
+    (ii) the Māori community associated with the school or special institution; and
+  (b) includes any other person, or group of persons, whom the board considers is part of its community.
 
 ### 2 Limits on co-optation and appointment of board members
 (1) A board may not co-opt a board member if the effect of the co-optation would be that the total number of board members co-opted by the board or appointed was equal to or greater than the total number of parent representatives.
@@ -11179,8 +11893,8 @@ Before a person is elected, co-opted, or appointed as a board member, the person
   (b) the board is not then dissolved.
 
 ### 13 Filling casual vacancies of elected board members
-(1) A casual vacancy for an elected board member must be filled by the election of a board member, in the same manner as that in which the vacating board member was elected, for the remainder of the vacating board member's term.
-(2) If no nominations are received for the election of a board member by students, or no board member is elected at the election, the vacancy may not be filled until the next election required to be held by clause 3(2) or section 184.
+(1) Subject to subclauses (3) to (9), a casual vacancy for an elected board member must be filled by the election of a board member, in the same manner as that in which the vacating board member was elected, for the remainder of the vacating board member's term.
+(2)
 (3) Where a casual vacancy for an elected board member occurs during any period of 6 months commencing on 1 October in a year before an election year, a board may, not later than 28 days after it occurs, resolve not to fill it, and if it does so, the vacancy may not be filled.
 (4) If a casual vacancy for an elected board member occurs at any other time, the board must resolve, within 8 weeks of the vacancy occurring, whether to—
   (a) hold an election to fill the vacancy; or
