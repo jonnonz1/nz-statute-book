@@ -1,5 +1,5 @@
 # Local Government (Rating) Act 2002
-_Consolidation as at 2022-07-01_
+_Consolidation as at 2023-08-23_
 
 ### 1 Title
 This Act is the Local Government (Rating) Act 2002.
@@ -1791,6 +1791,44 @@ On the commencement of section 52 of the amendment Act, a local authority must w
 
 ### 3 Recognition of pre-commencement actions and processes in relation to separate rating areas
 Any action or process undertaken before the commencement of section 48 of the amendment Act by a local authority or any other person may be taken into account by the local authority in determining a part of a rating unit to be a separate rating area on or after the commencement date if the local authority is satisfied that the action or process is consistent with the provisions of this Act as amended by the amendment Act.
+
+### Part 2 — Provisions relating to Water Services Entities Amendment Act 2023
+
+### 4 Rates for water services
+Application
+(1) This clause applies if—
+  (a) a territorial authority’s district is wholly or partly in the service area of a water services entity with an establishment date (under section 6A(4) or (5) of the Water Services Entities Act 2022) in a financial year; and
+  (b) the territorial authority is, under section 6A(2) of the Water Services Entities Act 2022, to provide water services in its district for any part of that financial year.
+Rates
+(2) The territorial authority must assess, set, and collect rates, and recover unpaid rates (subject to any remission, postponement, or writing off of rates), for water services to be provided by the territorial authority in that district for all of that financial year.
+Related provision
+(3) See also clause 38 of Schedule 1AA of the Local Government Act 2002.
+
+### 5 Section 21 modified (Certain rates must not exceed 30% of total rates revenue)
+Local authorities to which clause applies
+(1) This clause applies to a local authority that—
+  (a) will provide water services after 1 July 2024; and
+  (b) will cease to provide water services before or on 1 July 2026.
+(2) This clause does not apply to a local authority that is—
+  (a) a local authority whose district is wholly or partly in the service area of a water services entity with an establishment date (under section 6A(4) or (5) of the Water Services Entities Act 2022) of 1 July 2024; or
+  (b) the Chatham Islands Council.
+Modification
+(3) The local authority may, after the commencement of this clause and despite section 21(1), seek rates revenue in the 2024/25, 2025/26, or 2026/27 financial year from section 21(2) rates that exceeds 30% of the total revenue from all rates sought by the local authority for that year.
+(4) However, a local authority may rely on subclause (3) in a financial year only if the proportion of its rates income from section 21(2) rates in that financial year does not exceed the proportion of its rates income from section 21(2) rates in the last year in which it provided water services.
+(5) For the purposes of subclause (4), the proportion of the local authority’s rates income from section 21(2) rates in that financial year must be calculated as if—ExampleThe effect of the limit in subclause (4) is illustrated in the following example.The following table is small in size and has 6 columns. Columns 1 and 2 are grouped under the heading Equation item (Rates). Column 3 is headed Section. Column 4 is headed Last year. Column 5 is headed Financial year. Column 6 is headed Proportion.Equation item (Rates)SectionLast yearFinancial yearProportionA = Uniform annual general charges (excluding water supply or sewage disposal rates)21(2)﻿(a)1,0001,00010.10%B = Uniform targeted rates (excluding water supply or sewage disposal rates)21(2)﻿(b)1,9501,95019.60%C = Uniform targeted rates for water supply or sewage disposal21(3)2,000[2,000][20.10]%D = All other rates5,0005,00050.25%E = Total rates21(1)9,9507,950100.00%Percentage of total revenue from all rates(A + B) / E <= 30%29.6%37.1%
+  (a) the local authority were seeking in that financial year the same proportion of section 21(3) rates as it sought in the last year in which it provided water services; and
+  (b) the local authority’s rates income from all rates in that financial year included the same proportion of section 21(3) rates as it sought in the last year in which it provided water services.
+Definitions
+(6) In this clause,—
+  - **section 21(2) rates** means the rates described in section 21(2), other than section 21(3) rates
+  - **section 21(3) rates** means targeted rates that are set solely for water supply or sewage disposal.
+
+**Chatham Islands Council**
+
+### 6 Chatham Islands Council not subject to specified clauses
+The following clauses of this schedule do not apply to the Chatham Islands Council:
+  (a) clause 4 (rates for water services):
+  (b) clause 5 (section 21 modified (certain rates must not exceed 30% of total rates revenue)).
 
 ## Schedule 1 — Categories of non-rateable land
 
