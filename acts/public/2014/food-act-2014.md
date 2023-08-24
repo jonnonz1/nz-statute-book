@@ -1,5 +1,5 @@
 # Food Act 2014
-_Consolidation as at 2023-07-27_
+_Consolidation as at 2023-08-24_
 
 ### 1 Title
 This Act is the Food Act 2014.
@@ -4409,7 +4409,7 @@ The chief executive must enter the outcome of each review of a decision describe
   (f) the New Zealand Horticulture Export Authority Act 1987; or
   (g) the Education and Training Act 2020; or
   (h) the Commodity Levies Act 1990; or
-  (i) the Resource Management Act 1991; or
+  (i) the Natural and Built Environment Act 2023; or
   (j) the Biosecurity Act 1993; or
   (k) the Consumer Guarantees Act 1993; or
   (l) the Customs and Excise Act 2018; or
