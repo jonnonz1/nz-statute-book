@@ -1,5 +1,5 @@
 # State-Owned Enterprises Act 1986
-_Consolidation as at 2022-07-01_
+_Consolidation as at 2023-08-24_
 
 > An Act to promote improved performance in respect of Government trading activities and, to this end, to—aspecify principles governing the operation of State enterprises; andbauthorise the formation of companies to carry on certain Government activities and control the ownership thereof; andcestablish requirements about the accountability of State enterprises, and the responsibility of Ministers
 
@@ -210,7 +210,7 @@ A failure by a State enterprise to comply with any provision contained in Part 1
 (1) Notwithstanding any Act, rule of law, or agreement, the shareholding Ministers for a State enterprise named in Schedule 2 may, on behalf of the Crown, do any 1 or more of the following:for such consideration, and on such terms and conditions, as the shareholding Ministers may agree with the State enterprise.
   (a) transfer to the State enterprise assets and liabilities of the Crown (being assets and liabilities relating to the activities to be carried on by the State enterprise):
   (b) authorise the State enterprise to act on behalf of the Crown in providing goods or services, or in managing assets or liabilities of the Crown:
-  (ba) vest in the State enterprise any rights conferred by designations under operative district schemes applying to land transferred to the State enterprise:
+  (ba) vest in the State enterprise any rights conferred by designations under operative plans under the Natural and Built Environment Act 2023 applying to land transferred to the State enterprise:
   (c) grant to the State enterprise leases, licences, easements, permits, or rights of any kind in respect of any assets or liabilities of the Crown—
 (2) The responsible Minister shall lay before the House of Representatives any contract or other document entered into pursuant to subsection (1) within 12 sitting days after the date thereof.
 (3) Assets that are fixed to, or are under or over, any land may be transferred to a State enterprise pursuant to this Act whether or not any interest in the land is also transferred. Where any such asset is so transferred, the asset and the land shall be regarded as separate assets each capable of separate ownership.
@@ -313,7 +313,7 @@ The submission in respect of any land or interest in land of a claim under secti
   (a) shall recite that it is so executed; and
   (b) shall give both the date of the Order in Council and the date of its publication in the Gazette.
 (4) Upon its resumption pursuant to subsection (1)﻿(a), the land or interest in land shall be dealt with in accordance with an agreement made between the Crown and the relevant tribe or, if they fail to agree, in accordance with any recommendation of the Waitangi Tribunal pursuant to an application made under section 6 of the Treaty of Waitangi Act 1975.
-(5) A resumption of land or of an interest in land pursuant to subsection (1)﻿(a) is not a subdivision within the meaning of the Resource Management Act 1991.
+(5) A resumption of land or of an interest in land pursuant to subsection (1)﻿(a) is not a subdivision within the meaning of the Natural and Built Environment Act 2023.
 
 ### 28 Orders in Council relating to transfer of assets and liabilities
 (1) For the purpose of facilitating the transfer of assets and liabilities to a State enterprise pursuant to this Act, the Governor-General may from time to time, by Order in Council, do any 1 or more of the following:
@@ -336,7 +336,7 @@ The submission in respect of any land or interest in land of a claim under secti
     (b) all buildings, vehicles, plant, equipment, and machinery, and any rights therein:
     (c) all livestock, products from livestock, and crops:
     (d) all financial products within the meaning of the Financial Markets Conduct Act 2013:
-    (e) all rights of any kind, including rights under Acts, deeds, agreements, or licences, and any kind of consent granted under the Resource Management Act 1991, and all applications for and objections against applications for such rights:
+    (e) all rights of any kind, including rights under Acts, deeds, agreements, or licences, and any kind of consent granted under the Natural and Built Environment Act 2023, and all applications for and objections against applications for such rights:
     (f) all patents, trade marks, designs, copyright, and other intellectual property rights whether enforceable by Act or rule of law:
     (g) goodwill, and any business undertaking:
     (h) all natural gas, petroleum, and other hydrocarbons
