@@ -1,5 +1,5 @@
 # Irrigation Schemes Act 1990
-_Consolidation as at 2021-10-28_
+_Consolidation as at 2023-08-24_
 
 > An Act to empower the Crown to dispose of irrigation schemes
 
@@ -113,18 +113,18 @@ In this Part, unless the context otherwise requires,—
 (1) Before the Registrar-General of Land issues a record of title in respect of any land vested in any person pursuant to section 9(2), the Registrar-General of Land shall either receive under the hand of, or request from, any Chief Surveyor a certificate in the form set out in Schedule 2 of the Land Act 1948 as to the legal description of the land, any trusts, reservations, and restrictions affecting the land, and any other matters that the Registrar-General of Land considers appropriate.
 (2) A certificate in accordance with subsection (1) shall be filed by the Registrar-General of Land and shall be conclusive evidence to the Registrar-General of Land of the matters required to be stated therein.
 
-### 12 Section 11 and Part 10 of Resource Management Act 1991 and Part 21 of Local Government Act 1974 not to apply
-Section 11 and Part 10 of the Resource Management Act 1991 and Part 21 of the Local Government Act 1974 shall not apply to or in respect of the transfer of any land or interest in land pursuant to this Part nor to any subdivision required in respect of any such transfer.
+### 12 Section 22 and Part 10 of Natural and Built Environment Act 2023 and Part 21 of Local Government Act 1974 not to apply
+Section 22 and Part 10 of the Natural and Built Environment Act 2023 do not apply to or in respect of the transfer of any land or interest in land under this Part and do not apply to any subdivision required in respect of the transfer.
 
 ### 13 Activity permitted as of right
-For the purposes of section 375(1)﻿(a)﻿(iii) of the Resource Management Act 1991 and for the avoidance of doubt, where any irrigation scheme is sold or otherwise disposed of under this Part, any use for irrigation purposes of the land upon which the irrigation scheme is situated shall be deemed to be a permitted activity within the meaning of that Act, and section 375 of that Act shall apply accordingly.
+To avoid doubt, if any irrigation scheme is sold or otherwise disposed of under this Part, any use for irrigation purposes of the land upon which the irrigation scheme is situated is deemed to be a permitted activity within the meaning of the Natural and Built Environment Act 2023.
 
 ### 14 Ownership of irrigation scheme by local authority
 (1) Where a local authority, whether solely or jointly, acquires a 50% or greater share in an irrigation scheme pursuant to this Part, the scheme shall be operated on a commercial basis and, despite the Local Government (Rating) Act 2002, the local authority shall have no power to rate in respect of that scheme.
 (2) The accounts relating to any irrigation scheme to which subsection (1) applies shall be kept separate from the other accounts of the local authority.
 
 ### 15 Provisions relating to Rangitata Diversion Race
-(1) Where, before the commencement of this section, water was being taken from the Rangitata Diversion Race for the purposes of—such taking of water shall be deemed to be authorised as if section 21(2) of the Water and Soil Conservation Act 1967 applied thereto and section 386 of the Resource Management Act 1991 shall apply accordingly.
+(1) Where, before the commencement of this section, water was being taken from the Rangitata Diversion Race for the purposes of—such taking of water shall be deemed to be authorised as if section 21(2) of the Water and Soil Conservation Act 1967 applied thereto and the Natural and Built Environment Act 2023 shall apply accordingly.
   (a) the Mayfield Hinds Irrigation Scheme; or
   (b) the Valetta Irrigation Scheme; or
   (c) the Ashburton Lyndhurst Irrigation Scheme—
