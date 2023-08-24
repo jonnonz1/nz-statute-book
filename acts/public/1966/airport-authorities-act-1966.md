@@ -1,5 +1,5 @@
 # Airport Authorities Act 1966
-_Consolidation as at 2021-10-28_
+_Consolidation as at 2023-08-24_
 
 > An Act to consolidate and amend the Local Authorities Empowering (Aviation Encouragement) Act 1929 and its amendments and to confer powers on certain local authorities and other persons in respect of airports
 
@@ -175,7 +175,7 @@ An airport operated or managed by an airport authority which is not a local auth
 (5) Any such lease may contain a provision requiring the airport authority to pay to the lessee on the termination of the lease under subsection (3) compensation for improvements effected by the lessee during the term of the lease.
 (6) Compensation for improvements effected by the lessee shall be such amount as may be agreed upon between the parties or, failing agreement, be such amount as may be determined by arbitration under the Arbitration Act 1996 and this subsection shall be deemed to be a submission within the meaning of that Act.
 (7) In the exercise of any of the powers conferred by this section, any airport authority shall ensure that the granting of any lease, or the erection, alteration, or removal of any building, equipment, or appurtenances under any lease, or the construction of any road or access-way, or the subdivision of any land for the purposes of this section, shall not affect the safe operation of aircraft on or over the airport and, in this respect, shall consult with and have regard to the directions of the Civil Aviation Authority of New Zealand.
-(8) The provisions of Parts 8 to 12 of the Public Works Act 1981, Part 21 of the Local Government Act 1974, and section 11 and Part 10 of the Resource Management Act 1991 shall not apply to the subdivision of any airport under the provisions of this section or to the laying out of any access roads to the land so subdivided.
+(8) The provisions of Parts 8 to 12 of the Public Works Act 1981, Part 21 of the Local Government Act 1974, and section 22 and Part 10 of the Natural and Built Environment Act 2023 shall not apply to the subdivision of any airport under the provisions of this section or to the laying out of any access roads to the land so subdivided.
 (9)
 
 ### 7 Local authorities may assist airport authorities
