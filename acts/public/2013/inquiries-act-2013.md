@@ -1,5 +1,5 @@
 # Inquiries Act 2013
-_Consolidation as at 2022-07-01_
+_Consolidation as at 2023-08-24_
 
 ### 1 Title
 This Act is the Inquiries Act 2013.
@@ -417,7 +417,6 @@ The Acts specified in Schedule 2 are amended in the manner indicated in that sch
 | Reserves and Other Lands Disposal and Public Bodies Empowering Act 1915 | s 38 |
 | Reserves and Other Lands Disposal and Public Bodies Empowering Act 1917 | ss 110, 129 |
 | Reserves and Other Lands Disposal and Public Bodies Empowering Act 1920 | ss 91, 108 |
-| Resource Management Act 1991 | s 41 |
 | River Boards Amendment Act 1913 | s 4 |
 | Rotorua Borough Act 1922 | s 10 |
 | Sale and Supply of Alcohol Act 2012 | s 201 |
