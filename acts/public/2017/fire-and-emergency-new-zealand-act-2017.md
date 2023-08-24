@@ -1,5 +1,5 @@
 # Fire and Emergency New Zealand Act 2017
-_Consolidation as at 2023-04-06_
+_Consolidation as at 2023-08-24_
 
 ### 1 Title
 This Act is the Fire and Emergency New Zealand Act 2017.
@@ -114,7 +114,7 @@ In this Act, unless the context otherwise requires,—
     (b) protecting persons and property from fire
   - **fire control measure** means any measure that promotes fire control
   - **fire in open air** means fire other than in—
-    (a) a fireplace that is located in a building or structure and that complies with any relevant requirement of the Building Act 2004 and the relevant district plan; or
+    (a) a fireplace that is located in a building or structure and that complies with any relevant requirement of the Building Act 2004 and the relevant plan under the Natural and Built Environment Act 2023; or
     (b) a place or thing, or a type of place or thing, that is—
       (i) prescribed by regulations made under section 187; or
       (ii) authorised by FENZ
@@ -786,7 +786,7 @@ The authorised person may, instead of acting personally, direct any personnel to
   (a) in the case of an individual, to a term of imprisonment not exceeding 2 years or a fine not exceeding $300,000, or both; or
   (b) in any other case, to a fine not exceeding $600,000.
 (5) In this section, in open air means other than in—
-  (a) a fireplace that is located in a building or structure and that complies with any relevant requirement of the Building Act 2004 and the relevant district plan; or
+  (a) a fireplace that is located in a building or structure and that complies with any relevant requirement of the Building Act 2004 and the relevant plan under the Natural and Built Environment Act 2023; or
   (b) a place or thing, or a type of place or thing, that is—
     (i) prescribed by regulations made under section 187; or
     (ii) authorised by FENZ.
