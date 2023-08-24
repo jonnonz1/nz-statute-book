@@ -1,5 +1,5 @@
 # Crown Pastoral Land Act 1998
-_Consolidation as at 2022-11-17_
+_Consolidation as at 2023-08-24_
 
 ### 1 Short Title
 This Act may be cited as the Crown Pastoral Land Act 1998.
@@ -1021,7 +1021,7 @@ When an approved plan relating to land that a substantive proposal designates as
   (b) on the expiry of the licence, subsections (2) and (3) of section 149, and section 150, of the Land Act 1948 apply to the land and the right of the former holder to be paid compensation for improvements on the land effected, erected, made, or paid for by the former holder or any predecessor of the former holder (including improvements effected by doing, before or after the commencement of this Act, any thing specified in section 16(1)).
 
 ### 96 Implementation not subdivision
-(1) Taking action under Part 3 so that different parts of any land are dealt with in different manners is not a subdivision of the land for the purposes of the Resource Management Act 1991.
+(1) Taking action under Part 3 so that different parts of any land are dealt with in different manners is not a subdivision of the land for the purposes of the Natural and Built Environment Act 2023.
 (2) Subsection (1) is for the avoidance of doubt.
 
 ### 97 Sustainable management covenants
@@ -1346,7 +1346,7 @@ In this Part,—
 
 ### 44 Consultation with iwi authority
 The Commissioner must—
-  (a) have a copy of every notice under section 43 given to the iwi authority (within the meaning of the Resource Management Act 1991) of the area where the land concerned is situated; and
+  (a) have a copy of every notice under section 43 given to the iwi authority (within the meaning of the Natural and Built Environment Act 2023) of the area where the land concerned is situated; and
   (b) consult the authority on the proposal.
 
 ### 45 Information to be given to Minister of Conservation
