@@ -1,5 +1,5 @@
 # Local Electoral Act 2001
-_Consolidation as at 2023-06-15_
+_Consolidation as at 2023-08-24_
 
 ### 1 Title
 This Act is the Local Electoral Act 2001.
@@ -48,7 +48,7 @@ The purpose of this Act is to modernise the law governing the conduct of local e
 
 ### 5 Interpretation
 (1) In this Act, unless the context otherwise requires,—
-  - **allotment** has the meaning given by section 218(2) of the Resource Management Act 1991
+  - **allotment** has the meaning given by section 575 of the Natural and Built Environment Act 2023
   - **candidate** —
     (a) means a person who has been nominated as a candidate in any election; and
     (b) includes, in Parts 5 and 5A, a person who has declared his or her intention of becoming a candidate
