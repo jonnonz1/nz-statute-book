@@ -1,5 +1,5 @@
 # Conservation Act 1987
-_Consolidation as at 2022-04-12_
+_Consolidation as at 2023-08-24_
 
 > An Act to promote the conservation of New Zealand's natural and historic resources, and for that purpose to establish a Department of Conservation
 
@@ -43,7 +43,7 @@ _Consolidation as at 2022-04-12_
   - **Conservation Board** or means a Conservation Board established under section 6L
   - **conservation management plan** means a conservation management plan approved under section 14E of the Wildlife Act 1953, section 8 of the Marine Reserves Act 1971, section 40B of the Reserves Act 1977, section 3D of the Marine Mammals Protection Act 1978, or section 17G of this Act
   - **conservation management strategy** means a conservation management strategy approved under section 17F
-  - **contaminant** has the same meaning as it has in the Resource Management Act 1991
+  - **contaminant** has the same meaning as it has in the Natural and Built Environment Act 2023
   - **controlled dog area** means any area declared, by notice published under section 26ZS, to be a controlled dog area
   - **Crown land** has the same meaning as in the Land Act 1948
   - **customary marine title area** has the meaning given in section 9(1) of the Marine and Coastal Area (Takutai Moana) Act 2011
@@ -53,7 +53,7 @@ _Consolidation as at 2022-04-12_
   - **Deputy Director-General** means a Deputy Director-General of Conservation
   - **Director** means the manager of the New Zealand Fish and Game Council
   - **Director-General** means the Director-General of Conservation
-  - **effect** has the same meaning as it has in the Resource Management Act 1991
+  - **effect** has the same meaning as it has in the Natural and Built Environment Act 2023
   - **Fish and Game Council** means a Fish and Game Council established under section 26P
   - **fish and game ranger** means a fish and game ranger appointed pursuant to section 26FA or deemed to be appointed under that section
   - **fishery** means 1 or more stocks or parts of stocks or 1 or more species of freshwater fish or aquatic life that can be treated as a unit for the purposes of conservation or management
@@ -435,7 +435,8 @@ The Boards shall be serviced by the Department in such manner as the Minister ma
 (2) The functions of the Guardians shall be—
   (a) to make recommendations to the Minister on any matters arising from the environmental, ecological, and social effects of the operation of the Manapouri-Te Anau hydroelectric power scheme on the townships of Manapouri and Te Anau, Lakes Manapouri and Te Anau and their shorelines, and on the rivers flowing in and out of those lakes, having particular regard to the effects of the operation on social values, conservation, recreation, tourism, and related activities and amenities:
   (b) to make recommendations to the Minister on any matters arising from the environmental, ecological, and social effects of the operation of the Monowai Power Scheme on Lake Monowai, its shoreline, and on the rivers flowing in and out of Lake Monowai, having particular regard to the effects of the operation on social values, conservation, recreation, tourism, and related activities and amenities:
-  (c) to make to the Minister, and to the Minister responsible for the administration of the Manapouri-Te Anau Development Act 1963, recommendations on the operating guidelines for the levels of Lakes Manapouri and Te Anau, for the purposes of section 4A of that Act.
+  (c) to make to the Minister, and to the Minister responsible for the administration of the Manapouri-Te Anau Development Act 1963, recommendations on the operating guidelines for the levels of Lakes Manapouri and Te Anau, for the purposes of section 4A of that Act:
+  (d) to participate in the process under the Spatial Planning Act 2023 for preparing the regional spatial strategy that relates to Lakes Manapouri, Monowai, and Te Anau in a manner that is consistent with the other functions of the Guardians.
 (3) The Guardians shall in each year make a report to the Minister on their meetings and recommendations.
 (4) Except as otherwise expressly provided, every reference in any other Act to the Guardians of Lakes Manapouri and Te Anau shall be read as a reference to the Guardians appointed under subsection (1).
 
@@ -752,9 +753,9 @@ The following provisions shall apply to the preparation and approval of draft co
 (6) Subsection (3)﻿(b) shall not apply to any sports fishing guide or game hunting guide who conducts any activity in a conservation area.
 (7) This Part is subject to Part 2 of the Forests (West Coast Accord) Act 2000, in relation to land that is a conservation area as a result of a declaration under section 8(1) of that Act.
 
-### 17P Relationship with the Resource Management Act 1991
-(1) Except as provided in subsection (2), this Part does not relieve any person from any obligation to obtain a resource consent under the Resource Management Act 1991.
-(2) Section 11 and Part 10 of the Resource Management Act 1991 do not apply to any lease granted by the Minister.
+### 17P Relationship with Natural and Built Environment Act 2023
+(1) This Part does not relieve any person from any obligation to obtain a resource consent under the Natural and Built Environment Act 2023.
+(2) However, section 22 and Part 10 of the Natural and Built Environment Act 2023 do not apply to any lease granted by the Minister.
 
 ### 17Q Powers to grant concessions
 (1) Subject to this Part, the Minister may grant a concession in the form of a lease, licence, permit, or easement in respect of any activity.
@@ -809,11 +810,11 @@ Every application for a concession must include the following information:
   (b) an application for the grant of a lease or licence resulting from the exercise of a right of renewal or extension, or a right to a new lease or licence, that is contained in a lease or licence.
 
 ### 17SD Minister may require applicant to provide further information
-(1) The Minister may, by notice in writing, require an applicant for a concession to supply any further information (including an environmental impact assessment) that the Minister considers necessary to enable a decision to be made.
+(1) The Minister may, by notice in writing, require an applicant for a concession to supply any further information (including an assessment of environmental effects) that the Minister considers necessary to enable a decision to be made.
 (2) The applicant must provide the information within any reasonable time that is specified in the notice.
-(3) An environmental impact assessment that is provided for the purposes of this section must be—
-  (a) in the form set out in Schedule 4 of the Resource Management Act 1991; or
-  (b) in any other form that the Minister requires.
+(3) An assessment of environmental effects that is provided for the purposes of this section must—
+  (a) contain the information required by Schedule 9 of the Natural and Built Environment Act 2023 to be in an assessment of environmental effects under that Act; or
+  (b) be in a form that the Minister requires.
 (4) If the applicant does not provide all of the information within the specified time and the Minister determines that the information not provided is necessary to enable a decision to be made on the application, the Minister may return the application to the applicant with the reasons for the determination.
 (5) However, the Minister cannot return the application under subsection (4) if—
   (a) the applicant, within the specified time, advises the Minister that some or all of the requested information will not be provided and requests that the application be considered anyway; or
@@ -1155,7 +1156,7 @@ Every ecological area shall so be managed as to protect the value for which it i
 Every sanctuary area shall be managed to preserve in their natural state the indigenous plants and animals in it, and for scientific and other similar purposes.
 
 ### 23 Watercourse areas
-(1) Subject to subsections (2) and (3), if satisfied that any land that is—adjoins any river, lake, or stream, for which a water conservation order has been made under the Resource Management Act 1991, or that is otherwise protected, and has, when considered with the river, lake, or stream, outstanding wild, scenic, or other natural or recreational characteristics, the Minister may, by notice in the Gazette, declare it to be held for the purpose of a watercourse area; and, subject to this Act, it shall thereafter be so held.
+(1) Subject to subsections (2) and (3), if satisfied that any land that is—adjoins any river, lake, or stream, for which a water conservation order has been made under the Natural and Built Environment Act 2023, or that is otherwise protected, and has, when considered with the river, lake, or stream, outstanding wild, scenic, or other natural or recreational characteristics, the Minister may, by notice in the Gazette, declare it to be held for the purpose of a watercourse area; and, subject to this Act, it shall thereafter be so held.
   (a) land held under this Act for conservation purposes; or
   (b) a reserve classified pursuant to section 16 of the Reserves Act 1977; or
   (c) held under section 21(2)﻿(a) of the Queen Elizabeth the Second National Trust Act 1977; or
@@ -1193,7 +1194,7 @@ Every amenity area shall be so managed—
 (2A) Where the Crown proposes to sell or otherwise dispose of any land, the responsible department of State or agency shall notify the Director-General of the proposal; and the sale or other disposition shall have no effect unless and until that requirement is complied with.
 (3) Every strip of land of any width that, immediately before the commencement of this section, was reserved from sale or other disposition on any Crown land by or under this Act or any other Act, whether or not the strip was reserved for any specified purpose, shall be deemed to be reserved to the Crown as marginal strip of the same width.
 (4) Nothing in this section shall affect any right, title, or interest any person may have in respect of any assets or improvements lawfully existing on any marginal strip at the commencement of this section.
-(5) Nothing in this section shall limit or affect section 230 of the Resource Management Act 1991.
+(5) Nothing in this section shall limit or affect section 611 of the Natural and Built Environment Act 2023.
 (6) Every disposition of any land by the Crown to a State enterprise pursuant to the State-Owned Enterprises Act 1986, on or after the commencement of this section (whether the agreement to dispose of that land was entered into before that date or is entered into after that date), shall be deemed to be a disposition of land for the purposes of this section.
 (7) Notwithstanding subsection (6), where the freehold of any land subject to a lease or licence under the Land Act 1948 is transferred by the Crown to Landcorp Farming Limited, the reservation of any marginal strip on any part of the land to which the lease or licence relates shall not have effect until either the lease or licence is renewed or the freehold of the area to which the lease or licence relates is transferred to the lessee or licensee, whichever first occurs.
 (7A) Every disposition of land by the Crown to a Crown Research Institute pursuant to the Crown Research Institutes Act 1992 shall be deemed to be a disposition of land for the purposes of this section.
@@ -2286,7 +2287,14 @@ A local authority may make contributions out of its general fund or account for 
 (3) Every person commits an offence against this Act who, knowingly and without reasonable excuse, disposes of any contaminant into or onto any conservation area or in a position where it is likely to spill, drift, or blow onto or percolate or wash onto or into any conservation area.
 (4) Every person commits an offence who disturbs, injures, poisons, kills, or detrimentally affects any freshwater fishery, fish spawning ground, or food of freshwater fish in any river, stream, lake, or any other water, by allowing any contaminant to enter into any such water or refuses to remove as much as may be practicable of the contaminant in respect of which the breach arose immediately upon having been ordered to do so by a warranted officer.
 (5) For the purposes of this section, a person shall be deemed to allow a contaminant or water containing a contaminant to enter into water if that person places or discharges or causes or permits to be placed or discharged any contaminant or water containing any contaminant, in a position where that contaminant or any other contaminant emanating as a result of a natural process from that contaminant is liable to flow, fall, or descend into, or to be washed or percolate into, or to be carried by wind, tide, or current into, any water.
-(6) Where any person is convicted of an offence under subsection (4) that person shall be liable to imprisonment for a term not exceeding 2 years or a fine not exceeding $100,000, or both, and to a further fine of $10,000 per day if the offence is a continuing one; but it shall be a defence to the charge if the defendant can show that the contaminant was discharged in terms of the conditions of a current discharge permit granted under the Resource Management Act 1991 or was a permitted activity in the relevant regional plan under that Act, and for this purpose it shall be a sufficient defence to produce a certificate to that effect from the regional council in the area of which the permit was purported to be granted or activity otherwise permitted.
+(6) Where any person is convicted of an offence under subsection (4) that person shall be liable to imprisonment for a term not exceeding 2 years or a fine not exceeding $100,000, or both, and to a further fine of $10,000 per day if the offence is a continuing one.
+(6A) However, it is a defence to a charge under subsection (4) if the defendant—
+  (a) can show that the discharge of the contaminant was authorised by and carried out in accordance with—
+    (i) a discharge permit granted under the Natural and Built Environment Act 2023; or
+    (ii) a framework rule in the national planning framework made under that Act; or
+    (iii) a rule in the relevant natural and built environment plan made under that Act; or
+    (iv) a provision (including any exemption) in regulations made under that Act; and
+  (b) produces a certificate to that effect from the relevant regional council.
 (7) Subsection (4) shall apply in respect of any marine and coastal area administered or managed by the Department, and all freshwater in New Zealand.
 
 ### 40 Powers of warranted officers
