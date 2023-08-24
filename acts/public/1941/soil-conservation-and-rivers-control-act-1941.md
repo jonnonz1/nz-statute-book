@@ -1,5 +1,5 @@
 # Soil Conservation and Rivers Control Act 1941
-_Consolidation as at 2021-10-28_
+_Consolidation as at 2023-08-24_
 
 > An Act to make provision for the conservation of soil resources and for the prevention of damage by erosion, and to make better provision with respect to the protection of property from damage by floods
 
@@ -67,8 +67,8 @@ The objects of this Act are—
   (c) the prevention of damage by floods:
   (d) the utilisation of lands in such a manner as will tend towards the attainment of the said objects.
 
-### 10A Relationship to Resource Management Act 1991
-Notwithstanding section 10, nothing in this Act shall derogate from the provisions of sections 176 to 182 of the Harbours Act 1950 or the Resource Management Act 1991.
+### 10A Relationship to Natural and Built Environment Act 2023
+Despite section 10, nothing in this Act derogates from the provisions of sections 176 to 182 of the Harbours Act 1950, the Natural and Built Environment Act 2023, or the Spatial Planning Act 2023.
 
 ### 11 Functions of the Authority
 [Repealed]
