@@ -1,5 +1,5 @@
 # Local Government (Auckland Council) Act 2009
-_Consolidation as at 2023-04-13_
+_Consolidation as at 2023-08-24_
 
 ### 1 Title
 This Act is the Local Government (Auckland Council) Act 2009.
@@ -16,7 +16,7 @@ The purpose of this Act is—
   (b) to set out the matters in relation to the Council's structure and functions, duties, and powers that differ from the general provisions applying to local authorities under the Local Government Act 2002 and certain other enactments; and
   (c) to provide the Local Government Commission with the necessary functions and powers to determine certain matters in relation to the Council; and
   (d) to establish arrangements for the management of transport and water supply and wastewater services for Auckland; and
-  (e) to require the Auckland Council to adopt a spatial plan for Auckland; and
+  (e)
   (f) to establish arrangements to promote issues of significance for mana whenua groups and mataawaka for Tamaki Makaurau; and
   (g) to set out requirements relating to substantive council-controlled organisations.
 
@@ -201,7 +201,7 @@ No person may be a member of more than 1 local board at the same time.
 
 ### 15 Decision-making responsibilities of governing body
 (1) The governing body is responsible and democratically accountable for—
-  (a) the decision making of the Auckland Council in relation to any regulatory responsibility, duty, or power conferred on, or applying to, the Council under this Act or any other enactment (for example, the responsibilities, duties, or powers conferred on, or applying to, a local authority under the Resource Management Act 1991, the Health Act 1956, the Building Act 2004, and the Civil Defence Emergency Management Act 2002); and
+  (a) the decision making of the Auckland Council in relation to any regulatory responsibility, duty, or power conferred on, or applying to, the Council under this Act or any other enactment (for example, the responsibilities, duties, or powers conferred on, or applying to, a local authority under the Natural and Built Environment Act 2023, the Health Act 1956, the Building Act 2004, and the Civil Defence Emergency Management Act 2002); and
   (b) the decision making of the Auckland Council in relation to—
     (i) transport networks and infrastructure; and
     (ii) any non-regulatory activities of the Auckland Council that are allocated to the governing body in accordance with section 17; and
@@ -480,7 +480,7 @@ The functions of Auckland Transport are to—
   (a) prepare the regional land transport plan for Auckland in accordance with the Land Transport Management Act 2003; and
   (b) manage and control the Auckland transport system in accordance with this Act, including by—
     (i) performing the statutory functions and exercising the statutory powers set out in section 46 as if Auckland Transport were a local authority or other statutory body, as the case may be; and
-    (ii) acting as a requiring authority under section 167 of the Resource Management Act 1991 in accordance with section 47; and
+    (ii) acting as a requiring authority under section 513 of the Natural and Built Environment Act 2023 in accordance with section 47; and
   (c) carry out research and provide education and training in relation to land transport in Auckland; and
   (d) undertake any other transport functions that the Auckland Council may lawfully direct it to perform or delegate to it (for example, management of off-street parking facilities owned by the Council); and
   (e) without limiting paragraph (d), undertake any transport functions expressly conferred on the Auckland Council by any enactment (for example, under a local Act) that the Council may lawfully direct it to perform or delegate to it; and
@@ -511,13 +511,13 @@ The functions of Auckland Transport are to—
 (5) Subsection (1)﻿(c) is subject to section 48.
 
 ### 47 Auckland Transport is requiring authority
-(1) Auckland Transport is deemed to be approved as a requiring authority, as a network utility operator, under section 167 of the Resource Management Act 1991 for the following purposes:
+(1) Auckland Transport is deemed to be approved as a requiring authority, as a network utility operator, under section 513 of the Natural and Built Environment Act 2023 for the following purposes:
   (a) constructing or operating or proposing to construct or operate roads in relation to the Auckland transport system; and
   (b) the carrying out of an activity or a proposed activity (other than an activity described in paragraph (a)) in relation to the Auckland transport system for which it or the Auckland Council has financial responsibility.
-(2) For the purposes of subsection (1), Part 8 of the Resource Management Act 1991 applies—
-  (a) with any necessary modifications (and despite the fact that an activity described in subsection (1)﻿(b) is not a network utility operation within the meaning of section 166 of that Act); but
+(2) For the purposes of subsection (1), subpart 1 of Part 9 of the Natural and Built Environment Act 2023 applies—
+  (a) with any necessary modifications (and despite the fact that an activity described in subsection (1)﻿(b) is not a network utility operation within the meaning of section 11 of that Act); but
   (b) subject to subsection (3) and section 48(3).
-(3) If section 180(1) of the Resource Management Act 1991 applies to a project or work that is an activity described in subsection (1)﻿(b), Auckland Transport may exercise the power under that section only by transferring the relevant designation to—
+(3) If section 541 of the Natural and Built Environment Act 2023 applies to a project or work that is an activity described in subsection (1)﻿(b), Auckland Transport may exercise the power under that section only by transferring the relevant designation to—
   (a) a Minister of the Crown; or
   (b) the New Zealand Transport Agency; or
   (c) the New Zealand Railways Corporation; or
@@ -530,10 +530,10 @@ The functions of Auckland Transport are to—
 (1) Subsection (2) applies if Auckland Transport, acting under section 46(1)﻿(c) of this Act, decides to dispose of land not required for a road under section 345 of the Local Government Act 1974.
 (2) Auckland Transport must inform the Auckland Council, in writing, of its decision, and the Council must dispose of the land in accordance with the requirements of the Local Government Act 1974.
 (3) Subsection (4) applies if—
-  (a) Auckland Transport, acting under section 47 of this Act, decides to acquire or take land, which is required for a project or work, in accordance with section 186 of the Resource Management Act 1991; or
-  (b) by operation of sections 185(5) and (6) and 186 of the Resource Management Act 1991, the Minister of Lands is deemed to have entered into an agreement on behalf of Auckland Transport to acquire or lease land subject to a designation or requirement.
+  (a) Auckland Transport, acting under section 47 of this Act, decides to acquire or take land, which is required for a project or work, in accordance with section 540 of the Natural and Built Environment Act 2023; or
+  (b) by operation of sections 539(5) and (6) and 540 of the Natural and Built Environment Act 2023, the Minister of Lands is deemed to have entered into an agreement on behalf of Auckland Transport to acquire or lease land subject to a designation or requirement.
 (4) Auckland Transport must inform the Auckland Council, in writing, of its decision to apply for the compulsory acquisition of the land, or the deemed agreement, as the case may be, and any land taken or acquired as a result vests in the Auckland Council.
-(5) Subsection (4) prevails over sections 185 and 186(2) and (4) of the Resource Management Act 1991.
+(5) Subsection (4) prevails over sections 539 and 540(2) of the Natural and Built Environment Act 2023.
 
 **Auckland Council's role in transport matters**
 
@@ -551,7 +551,7 @@ The functions of Auckland Transport are to—
 (2) The Auckland Council must not act as a requiring authority in relation to any matter for which Auckland Transport has requiring authority status under section 47(1).
 (3) Subsection (1) applies unless Auckland Transport delegates the performance of the function or the exercise of the power to the Auckland Council under section 54.
 (4) Subsection (3) applies unless Auckland Transport transfers the designation concerned to the Council under section 47(3).
-(5) Nothing in this section prevents the Auckland Council from performing the functions or exercising the powers of a local authority described in section 46(1)﻿(h), or performing the functions or exercising the powers of a requiring authority under the Resource Management Act 1991, in respect of an area that forms part of the Auckland transport system for a purpose that is not transport-related (for example, to regulate the use of a footpath, public space, or road reserve for liquor control purposes, or to designate a corridor that passes through a road).
+(5) Nothing in this section prevents the Auckland Council from performing the functions or exercising the powers of a local authority described in section 46(1)﻿(h), or performing the functions or exercising the powers of a requiring authority under the Natural and Built Environment Act 2023, in respect of an area that forms part of the Auckland transport system for a purpose that is not transport-related (for example, to regulate the use of a footpath, public space, or road reserve for liquor control purposes, or to designate a corridor that passes through a road).
 (6) Subsection (5) applies whether the Council is performing the function or exercising the power as the owner of a road or other land, or otherwise.
 
 ### 51 Council's powers under Public Works Act 1981 fettered for works relating to Auckland transport system
@@ -613,7 +613,7 @@ Auckland Transport must not borrow any funds without the written agreement of th
 
 ### 59 Auckland water organisation may occupy certain Crown land without charge
 (1) An Auckland water organisation is not required to pay rent to the Crown in relation to any land in an Auckland harbour on, over, or under which an existing wastewater asset is constructed or laid.
-(2) Nothing in subsection (1) affects any obligation an Auckland water organisation may have to comply with the Resource Management Act 1991 in relation to an existing wastewater asset (including any liability to pay for the occupation of a coastal marine area under any regulations made under that Act).
+(2) Nothing in subsection (1) affects any obligation an Auckland water organisation may have to comply with the Natural and Built Environment Act 2023 in relation to an existing wastewater asset (including any liability to pay for the occupation of a coastal marine area under any regulations made under that Act).
 (3) In this section, existing wastewater asset means a wastewater asset held by Watercare Services Limited on 1 November 2010.
 
 ### 60 Status of Auckland water organisation under Public Works Act 1981
@@ -729,7 +729,7 @@ If work is urgent and necessary because of any defective equipment or other emer
 (2) It is not an offence under subsection (1) if the work concerned—
   (a) is authorised by a valid consent granted by or under—
     (i) the Building Act 2004 (including the building code); or
-    (ii) the Resource Management Act 1991; or
+    (ii) the Natural and Built Environment Act 2023; or
   (b) is carried out in accordance with a valid building, plumbing, or drainage consent.
 (3) It is a defence to an offence under subsection (1) if the work concerned—
   (a) was necessary to avoid an emergency, or to mitigate or remedy the effects of an emergency; and
@@ -761,40 +761,10 @@ A person who wilfully or negligently destroys, damages, stops, obstructs, or oth
 ## Part 6 — Spatial planning for Auckland
 
 ### 79 Spatial plan for Auckland
-(1) The Auckland Council must prepare and adopt a spatial plan for Auckland.
-(2) The purpose of the spatial plan is to contribute to Auckland's social, economic, environmental, and cultural well-being through a comprehensive and effective long-term (20- to 30-year) strategy for Auckland's growth and development.
-(3) For the purposes of subsection (2), the spatial plan will—
-  (a) set a strategic direction for Auckland and its communities that integrates social, economic, environmental, and cultural objectives; and
-  (b) outline a high-level development strategy that will achieve that direction and those objectives; and
-  (c) enable coherent and co-ordinated decision making by the Auckland Council (as the spatial planning agency) and other parties to determine the future location and timing of critical infrastructure, services, and investment within Auckland in accordance with the strategy; and
-  (d) provide a basis for aligning the implementation plans, regulatory plans, and funding programmes of the Auckland Council.
-(4) The spatial plan must—
-  (a) recognise and describe Auckland's role in New Zealand; and
-  (b) visually illustrate how Auckland may develop in the future, including how growth may be sequenced and how infrastructure may be provided; and
-  (c) provide an evidential base to support decision making for Auckland, including evidence of trends, opportunities, and constraints within Auckland; and
-  (d) identify the existing and future location and mix of—
-    (i) residential, business, rural production, and industrial activities within specific geographic areas within Auckland; and
-    (ii) critical infrastructure, services, and investment within Auckland (including, for example, services relating to cultural and social infrastructure, transport, open space, water supply, wastewater, and stormwater, and services managed by network utility operators); and
-  (e) identify nationally and regionally significant—
-    (i) recreational areas and open-space areas within Auckland; and
-    (ii) ecological areas within Auckland that should be protected from development; and
-    (iii) environmental constraints on development within Auckland (for example, flood-prone or unstable land); and
-    (iv) landscapes, areas of historic heritage value, and natural features within Auckland; and
-  (f) identify policies, priorities, land allocations, and programmes and investments to implement the strategic direction and specify how resources will be provided to implement the strategic direction.
+[Repealed]
 
 ### 80 Development, adoption, and implementation of spatial plan
-(1) The Auckland Council must involve central government, infrastructure providers (including network utility operators), the communities of Auckland, the private sector, the rural sector, and other parties (as appropriate) throughout the preparation and development of the spatial plan.
-(2) The Auckland Council must adopt the spatial plan in accordance with the special consultative procedure.
-(3) The Auckland Council may amend the spatial plan, at any time, in accordance with subsections (1) and (2).
-(4) The Auckland Council must—
-  (a) make the spatial plan (including any amendments) available for inspection during working hours, free of charge, at—
-    (i) the office of the Auckland Council; and
-    (ii) any other places in Auckland that the Auckland Council, at its discretion, decides are appropriate; and
-  (b) make copies of the plan available, free of charge or for purchase at a reasonable price, from—
-    (i) the office of the Auckland Council; and
-    (ii) any other places in Auckland that the Auckland Council, at its discretion, decides are appropriate; and
-  (c) make copies of the plan available, free of charge, on an Internet site maintained by or on behalf of the Auckland Council.
-(5) The Auckland Council must endeavour to secure and maintain the support and co-operation of central government, infrastructure providers (including network utility operators), the communities of Auckland, the private sector, the rural sector, and other parties (as appropriate) in the implementation of the spatial plan.
+[Repealed]
 
 ## Part 7 — Board promoting issues of significance for mana whenua groups and mataawaka of Tamaki Makaurau
 
@@ -1022,6 +992,16 @@ For the purposes of section 6(1)﻿(b) of the Port Companies Act 1988, any counc
 Despite section 113 of the Local Government Act 2002, the Auckland Council may borrow or enter into incidental arrangements, within or outside New Zealand, in currency other than New Zealand currency.
 
 ## Schedule 1AA — Transitional, savings, and related provisions
+
+### Part 1 — Provision relating to Local Government (Auckland Council) Amendment Act 2016
+
+### 1 Existing membership of local boards not affected
+Nothing in section 11AA affects the current membership of any person who is a member of more than 1 local board at the commencement of the Local Government (Auckland Council) Amendment Act 2016.
+
+### Part 2 — Provision relating to Spatial Planning Act 2023
+
+### 2 Application of provisions relating to spatial plan for Auckland
+Despite the repeal of section 3(e) and Part 6 by the Spatial Planning Act 2023, those provisions continue to apply until a regional spatial strategy for Auckland is adopted under the Spatial Planning Act 2023.
 
 ## Schedule 1 — Matters to be addressed by Local Government Commission when making determination in relation to southern boundary of Auckland
 
