@@ -1,5 +1,5 @@
 # Te Ture Whenua Maori Act 1993
-_Consolidation as at 2022-11-29_
+_Consolidation as at 2023-08-24_
 
 > An Act to reform the laws relating to Maori land in accordance with the principles set out in the Preamble
 
@@ -116,7 +116,7 @@ In this Act, unless the context otherwise requires,—
     (a) Public Trust:
     (b) Kāinga Ora–Homes and Communities:
     (c) the Māori Trustee
-  - **subdivision consent** has the same meaning as in section 2(1) of the Resource Management Act 1991 and includes a certificate of compliance as defined in that Act
+  - **subdivision consent** has the same meaning as in section 11 of the Natural and Built Environment Act 2023 and includes a certificate of compliance as defined in that Act
   - **Surveyor-General** has the meaning given by section 4 of the Cadastral Survey Act 2002
   - **territorial authority** means a territorial authority within the meaning of the Local Government Act 2002
   - **tikanga Maori** means Maori customary values and practices
@@ -1458,7 +1458,7 @@ In making an order under this Part, the Judge or the court may do 1 or more of t
   - **Maori freehold land** includes land that is vested in the Māori Trustee under the Maori Vested Lands Administration Act 1954 or the Maori Reserved Land Act 1955
   - **trustee company** means a trustee company within the meaning of the Trustee Companies Act 1967.
 (2) For the purposes of this Part, a beneficial interest in Maori freehold land shall be deemed to include the interest of the freehold owner in all buildings and other fixtures attached to the land, and all things growing on the land.
-(3) For the purposes of this Part, a beneficial interest in Maori freehold land shall be deemed to include a leasehold interest in Maori freehold land arising from the registration of a cross lease as defined in section 2 of the Resource Management Act 1991.
+(3) For the purposes of this Part, a beneficial interest in Maori freehold land shall be deemed to include a leasehold interest in Maori freehold land arising from the registration of a cross lease as defined in section 11 of the Natural and Built Environment Act 2023.
 
 ### 100 Application of this Part
 (1) Subject to subsection (2), this Part applies to all estates of deceased persons (whether or not Maori) comprising in whole or in part any beneficial interest in Maori freehold land.
@@ -1782,7 +1782,7 @@ This Part applies to every order made by the Maori Land Court or the Maori Appel
 (4) No fee shall be payable under this Act or the Land Transfer Act 2017 in respect of any order to which this Part applies.
 (5) Until registration has been effected, an order of the court in respect of land subject to the Land Transfer Act 2017 shall affect only the equitable title to the land.
 (6) Notwithstanding anything in this section or in the Land Transfer Act 2017, no separate record of title shall be issued under that Act in respect of any undivided interest in any Maori freehold land.
-(6A) Nothing in subsection (6) shall prevent the issue of a separate record of title in respect of any cross lease within the meaning of section 2 of the Resource Management Act 1991.
+(6A) Nothing in subsection (6) shall prevent the issue of a separate record of title in respect of any cross lease within the meaning of section 11 of the Natural and Built Environment Act 2023.
 (7) In the case of an aggregation order made under section 308, the Registrar-General of Land shall enter on each instrument of title affected by the order a memorial to the effect that alienation of the interests comprised in that instrument is restricted by section 148(4).
 (7A) Where an order to which this Part applies has not been registered in accordance with subsection (1), the registration of that order against the title to the land may, if its effect has been incorporated into a consolidated order, be effected by registering the consolidated order against the title to the land; and subsections (2) to (4) shall, with all necessary modifications, apply in relation to the registration of the consolidated order.
 (8) Nothing in this section shall limit or affect any special provisions made elsewhere in this Act or in any other Act for the registration of any such order.
@@ -3611,27 +3611,27 @@ If, on the partition of any land, the share or interest of any person in the lan
 ### 300 Plan approved by court prerequisite to partition of Maori land
 No partition of Maori land shall be effected (whether by the court under this Part or otherwise) except in accordance with a plan approved by the court.
 
-### 301 Compliance with provisions of Resource Management Act 1991 relating to subdivisions
+### 301 Compliance with provisions of Natural and Built Environment Act 2023 relating to subdivisions
 (1) This section applies to every partition of land by the court except for a partition into parcels to be held by owners who are members of the same hapu.
-(2) Subject to the provisions of this section, the court shall not partition any land to which this section applies, otherwise than in accordance with the Resource Management Act 1991.
+(2) Subject to the provisions of this section, the court shall not partition any land to which this section applies, otherwise than in accordance with the Natural and Built Environment Act 2023.
 (3) Without limiting subsection (2),—
-  (a) a partition of land shall be deemed to be a subdivision of land within the meaning of section 218 of the Resource Management Act 1991; and
-  (b) sections 120 and 121 of the Resource Management Act 1991 (relating to appeals to the Environment Court) shall apply to any decision of a territorial authority in relation to any application for a subdivision consent that is required by this section.
-(4) However, section 230(3) to (5) of the Resource Management Act 1991 does not apply to the subdivision (so that an esplanade reserve is not set aside and an esplanade strip is not created).
+  (a) a partition of land shall be deemed to be a subdivision of land within the meaning of section 574 of the Natural and Built Environment Act 2023; and
+  (b) sections 313 and 314 of the Natural and Built Environment Act 2023 (relating to appeals to the Environment Court) shall apply to any decision of a territorial authority in relation to any application for a subdivision consent that is required by this section.
+(4) However, section 611 of the Natural and Built Environment Act 2023 does not apply to the subdivision (so that an esplanade reserve is not set aside and an esplanade strip is not created).
 
 ### 302 Contributions for reserve purposes
-(1) Notwithstanding anything in section 301 or in the Resource Management Act 1991, where the court partitions any land to which section 301 of this Act applies, any condition imposed by the court and requiring a contribution of land for reserve purposes or land in lieu of reserves shall only require any such land to be set aside from that part of the land that is to be alienated.
-(2) Notwithstanding anything in section 301 or in the Resource Management Act 1991, in relation to any partition of land to which section 301 of this Act applies,—
+(1) Notwithstanding anything in section 301 or in the Natural and Built Environment Act 2023, where the court partitions any land to which section 301 of this Act applies, any condition imposed by the court and requiring a contribution of land for reserve purposes or land in lieu of reserves shall only require any such land to be set aside from that part of the land that is to be alienated.
+(2) Notwithstanding anything in section 301 or in the Natural and Built Environment Act 2023, in relation to any partition of land to which section 301 of this Act applies,—
   (a) the court must not impose any condition requiring a contribution of land for reserve purposes or in lieu of reserves from land that is of special historical significance or spiritual or emotional association with the Maori people or any group or section of the Maori people, which includes all land that is a wahi tapu; and
-  (b) the Registrar-General of Land and Registrar of Deeds must not require, under Part 10 of the Resource Management Act 1991, the deposit of a survey plan for the partition.
+  (b) the Registrar-General of Land and Registrar of Deeds must not require, under Part 10 of the Natural and Built Environment Act 2023, the deposit of a survey plan for the partition.
 (3)
 
 ### 303 Subdivision consent and conditions of subdivision consent
-(1) Subject to subsection (2), the court may make a partition order to which section 301 applies in respect of any land if a subdivision consent under the Resource Management Act 1991 has been obtained for the partition and the consent has not lapsed.
+(1) Subject to subsection (2), the court may make a partition order to which section 301 applies in respect of any land if a subdivision consent under the Natural and Built Environment Act 2023 has been obtained for the partition and the consent has not lapsed.
 (2) The court must—
-  (a) make such orders as it considers necessary, having regard to Part 10 of the Resource Management Act 1991, to ensure that, in respect of any conditions of the subdivision consent that have not been complied with, adequate provision is made for such compliance; and
-  (b) have regard to sections 229 to 237H of the Resource Management Act 1991 in respect of every partition of land to which section 301 applies.
-(3) Any land that would be required to be set apart, reserved, or vested in another person, because of subsection (2), must be set apart as a Maori reservation, for the common use and benefit of the people of New Zealand, despite anything in the Resource Management Act 1991.
+  (a) make such orders as it considers necessary, having regard to Part 10 of the Natural and Built Environment Act 2023, to ensure that, in respect of any conditions of the subdivision consent that have not been complied with, adequate provision is made for such compliance; and
+  (b) have regard to sections 609 to 619 and Schedule 11 of the Natural and Built Environment Act 2023 in respect of every partition of land to which section 301 applies.
+(3) Any land that would be required to be set apart, reserved, or vested in another person, because of subsection (2), must be set apart as a Maori reservation, for the common use and benefit of the people of New Zealand, despite anything in the Natural and Built Environment Act 2023.
 (4) Land to which subsection (3) applies must be treated—
   (a) as if it were land set apart under section 338(1) and section 340(1); and
   (b) as if the procedural requirements of those subsections had been satisfied.
@@ -3646,8 +3646,8 @@ No partition of Maori land shall be effected (whether by the court under this Pa
 (2) The court shall, in respect of every partition to which this section applies, impose a restriction that the land shall not be sold under this Act otherwise than in accordance with this section.
 (3) If an application is made to the court to confirm a sale of Maori land to which this section applies, to persons who are not members of the same hapu, the court—
   (a) may, if it considers it appropriate, publicly notify the application and invite submissions from the territorial authority and any other person who is likely to be affected by the application; and
-  (b) may confirm or refuse to confirm the sale under section 152, having regard to sections 229 to 237H of the Resource Management Act 1991 and the fact that the land has previously been partitioned without a subdivision consent being obtained under that Act.
-(4) If an application involves the sale of land to persons who are not members of the same hapu, and the court decides under subsection (3) that land is required to be set apart, reserved, or vested in another person, the court must set that land apart as a Maori reservation, for the common use and benefit of the people of New Zealand, despite anything in the Resource Management Act 1991.
+  (b) may confirm or refuse to confirm the sale under section 152, having regard to sections 609 to 619 and Schedule 11 of the Natural and Built Environment Act 2023 and the fact that the land has previously been partitioned without a subdivision consent being obtained under that Act.
+(4) If an application involves the sale of land to persons who are not members of the same hapu, and the court decides under subsection (3) that land is required to be set apart, reserved, or vested in another person, the court must set that land apart as a Maori reservation, for the common use and benefit of the people of New Zealand, despite anything in the Natural and Built Environment Act 2023.
 (5) Land to which subsection (4) applies must be treated—
   (a) as if it were land set apart under section 338(1) and section 340(1); and
   (b) as if the procedural requirements of those subsections had been satisfied.
@@ -3887,7 +3887,7 @@ In this section and sections 326B, 326C, and 326D, unless the context otherwise 
 (2) This section and sections 326A to 326C bind the Crown.
 (3)
 (4)
-(5) Nothing in Part 10 of the Resource Management Act 1991 applies to any transfer, exchange, or other disposition of any land required by an order of the court made under section 326B or 326C.
+(5) Nothing in Part 10 of the Natural and Built Environment Act 2023 applies to any transfer, exchange, or other disposition of any land required by an order of the court made under section 326B or 326C.
 (6) The court’s powers under this section and sections 326A to 326C are additional to, and not limited by or subject to, sections 315 to 317.
 (7) The court may appoint expert assessors or valuers, as additional members of the court, to assist it to determine issues of valuation or compensation under sections 326A to 326D.
 
