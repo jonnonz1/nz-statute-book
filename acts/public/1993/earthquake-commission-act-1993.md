@@ -1,5 +1,5 @@
 # Earthquake Commission Act 1993
-_Consolidation as at 2021-10-28_
+_Consolidation as at 2023-08-24_
 
 > An Act to make provision with respect to the insurance of residential property against damage caused by certain natural disasters
 
@@ -180,7 +180,7 @@ There shall be payable by the Commission to the Crown each year, on such date as
 ### 19 Residential land
 Subject to any regulations made under this Act and to Schedule 3, where a residential building is deemed to be insured under this Act against natural disaster damage, the residential land on which that building is situated shall, while that insurance of the residential building is in force, be deemed to be insured under this Act against natural disaster damage to the amount (exclusive of goods and services tax) which is the sum of, in the case of any particular damage,—
   (a) the value, at the site of the damage, of—whichever is the smallest; and
-    (i) if there is a district plan operative in respect of the residential land, an area of land equal to the minimum area allowable under the district plan for land used for the same purpose that the residential land was being used at the time of the damage; or
+    (i) if there is a plan under the Natural and Built Environment Act 2023 operative in respect of the residential land, an area of land equal to the minimum area allowable under that plan for land used for the same purpose that the residential land was being used at the time of the damage; or
     (ii) an area of land of 4 000 square metres; or
     (iii) the area of land that is actually lost or damaged—
   (b) the indemnity value of any property referred to in paragraphs (d) and (e) of the definition of the term residential land in section 2(1) that is lost or damaged.
