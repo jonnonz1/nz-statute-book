@@ -1,5 +1,5 @@
 # Health Act 1956
-_Consolidation as at 2022-07-01_
+_Consolidation as at 2023-08-24_
 
 > An Act to consolidate and amend the law relating to public health
 
@@ -572,7 +572,7 @@ A local authority may make advances to any owner upon whom an order or notice is
 (4) No person shall carry on any offensive trade established in contravention of subsection (1), or carry on any offensive trade in any premises erected or extended in contravention of that subsection.
 (5) Any local authority may, in its discretion, refuse to register or to renew the registration of any premises under this section, and, subject to any regulations made under this Act, may impose such conditions as it thinks fit in respect of the registration or renewal of registration of the premises.
 (6) Every person who acts in contravention of or fails to comply in any respect with any provision of this section or any condition prescribed under this section commits an offence and is liable on conviction to a fine not exceeding $1,000 and, in the case of a continuing offence, to a further fine not exceeding $100 for every day on which the offence has continued.
-(7) Nothing in this section relating to local authorities (including consents and registration) shall apply to any offensive trade where a resource consent for that activity has been granted under the Resource Management Act 1991.
+(7) Nothing in this section relating to local authorities (including consents and registration) shall apply to any offensive trade where a resource consent for that activity has been granted under the Natural and Built Environment Act 2023.
 
 ### 55 Appeal against decision refusing consent for offensive trade or refusing registration of premises for offensive trade
 (1) This section applies if—
