@@ -1,5 +1,5 @@
 # Riccarton Racecourse Development Enabling Act 2016
-_Consolidation as at 2016-06-21_
+_Consolidation as at 2023-08-24_
 
 ### 1 Title
 This Act is the Riccarton Racecourse Development Enabling Act 2016.
@@ -56,7 +56,7 @@ The Board may submit a scheme to the Minister.
 A scheme submitted to the Minister must—Minimum number of affordable houses requirementOther requirements
   (a) require a minimum of 180 affordable houses on the development land to have been issued with code compliance certificates under the Building Act 2004, and to have been sold for occupation primarily as the home or residence of not more than 1 household, no later than 5 years after the approval date; and
   (b) provide for compensation payable to the Crown in accordance with section 14 if that minimum number of affordable houses requirement is not met; and
-  (c) be capable of satisfying the relevant regional and district planning requirements, including in relation to providing any infrastructure to service the development in the manner proposed by the scheme; and
+  (c) be capable of satisfying the relevant planning requirements under the Natural and Built Environment Act 2023, including in relation to providing any infrastructure to service the development in the manner proposed by the scheme; and
   (d) provide for the transfer of the Paparua Stream land to the Christchurch City Council to be held as reserve or reserves no later than 5 years after the approval date; and
   (e) protect the interests of Ngāi Tahu in the development land as required by section 10; and
   (f) provide for fibre-optic broadband connections to be provided to all premises; and
