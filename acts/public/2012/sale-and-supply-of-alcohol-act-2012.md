@@ -1,5 +1,5 @@
 # Sale and Supply of Alcohol Act 2012
-_Consolidation as at 2023-07-27_
+_Consolidation as at 2023-08-24_
 
 ### 1 Title
 This Act is the Sale and Supply of Alcohol Act 2012.
@@ -696,9 +696,9 @@ Example 5: non-successive gamesThe licensee notifies for the first and third, bu
   (b) the club holds a club licence for the premises.
 (2) Despite anything in section 44 or 45, the permitted trading hours for any licensed premises to which this section applies include the hours from 4 am to 1 pm on Anzac Day.
 (3) Any one-way door restriction applicable to the premises does not operate during the hours specified in subsection (2).
-(4) An RNZRSA club’s use of land at its licensed premises during the hours specified in subsection (2) must be treated as not contravening section 9 of the Resource Management Act 1991 if—
+(4) An RNZRSA club’s use of land at its licensed premises during the hours specified in subsection (2) must be treated as not contravening section 21 of the Natural and Built Environment Act 2023 if—
   (a) this section applies to the premises; and
-  (b) the use would comply with section 9 of the Resource Management Act 1991 if it occurred during any other permitted trading hours.
+  (b) the use would comply with section 21 of the Natural and Built Environment Act 2023 if it occurred during any other permitted trading hours.
 
 ### 48 Sale on Anzac Day morning, Good Friday, Easter Sunday, and Christmas Day restricted: off-licences
 The holder of an off-licence must ensure that—
@@ -944,7 +944,7 @@ Two or more territorial authorities may adopt a single local alcohol policy for 
 ### 78 Territorial authorities must produce draft policy
 (1) A territorial authority that wishes to have a local alcohol policy must produce a draft policy.
 (2) When producing a draft policy, a territorial authority must have regard to—
-  (a) the objectives and policies of its district plan; and
+  (a) the objectives and policies of the relevant plan under the Natural and Built Environment Act 2023; and
   (b) the number of licences of each kind held for premises in its district, and the location and opening hours of each of the premises; and
   (c) any areas in which bylaws prohibiting alcohol in public places are in force; and
   (d) the demography of the district's residents; and
@@ -1053,9 +1053,9 @@ The licensing authority must deal with every appeal under section 81 by way of p
 (1) The secretary of the licensing authority must keep a register of local alcohol policies in force (reflecting all amendments notified under section 91(2)).
 (2) Any member of the public may, on payment of any prescribed fee, obtain an extract from the register from the secretary.
 
-### 93 Relationship of local alcohol policies and district plans
-(1) A local alcohol policy may contain a policy more restrictive than the relevant district plan.
-(2) A local alcohol policy does not authorise any thing forbidden by the relevant district plan.
+### 93 Relationship of local alcohol policies and plans under Natural and Built Environment Act 2023
+(1) A local alcohol policy may contain a policy more restrictive than the relevant plan under the Natural and Built Environment Act 2023.
+(2) A local alcohol policy does not authorise any thing forbidden by the relevant plan under the Natural and Built Environment Act 2023.
 
 ### 94 Local alcohol policies to be consistent with general law
 (1) A local alcohol policy must be consistent with this Act and the general law.
@@ -1097,7 +1097,7 @@ An application for a licence—
     (ii) because of the building's current use, its owner is not required to provide and maintain such a scheme; or
     (iii) because of the nature of the building, its owner is exempt from the requirement to provide and maintain such a scheme; and
   (e) must be accompanied by the prescribed fee; and
-  (f) except in the case of an application relating to a conveyance, must be accompanied by a certificate by the territorial authority that the proposed use of the premises meets requirements of the Resource Management Act 1991 and of the building code.
+  (f) except in the case of an application relating to a conveyance, must be accompanied by a certificate by the territorial authority that the proposed use of the premises meets requirements of the Natural and Built Environment Act 2023 and of the building code.
 
 ### 101 Notification requirements
 An applicant for a licence must,—
@@ -1514,7 +1514,7 @@ An applicant for a special licence—
 ### 143 Additional requirements for large-scale events
 (1) If, in the opinion of the licensing committee concerned, an application for a special licence relates to a large-scale event, the committee may do any or all of the following:
   (a) require the applicant to provide the committee with a management plan describing how the applicant proposes to deal with matters such as security, monitoring, interaction with local residents, and public health concerns:
-  (b) require the applicant to provide the committee with a certificate by the territorial authority that the proposed use of the premises meets the requirements of the Resource Management Act 1991 and of the building code:
+  (b) require the applicant to provide the committee with a certificate by the territorial authority that the proposed use of the premises meets the requirements of the Natural and Built Environment Act 2023 and of the building code:
   (c) require the applicant to liaise with the Police and the territorial authority on planning for the event.
 (2) In deciding whether to issue a special licence, the licensing committee concerned may have regard to the following matters (in addition to the matters stated in section 142(1)):
   (a) whether, and how well, the applicant has complied with any requirement under subsection (1)﻿(a):
