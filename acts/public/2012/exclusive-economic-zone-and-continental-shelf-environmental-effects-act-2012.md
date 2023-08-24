@@ -1,5 +1,5 @@
 # Exclusive Economic Zone and Continental Shelf (Environmental Effects) Act 2012
-_Consolidation as at 2022-04-12_
+_Consolidation as at 2023-08-24_
 
 ### 1 Title
 This Act is the Exclusive Economic Zone and Continental Shelf (Environmental Effects) Act 2012.
@@ -115,7 +115,7 @@ Part 5
   - **existing interest** means, in relation to New Zealand, the exclusive economic zone, or the continental shelf (as applicable), the interest a person has in—
     (a) any lawfully established existing activity, whether or not authorised by or under any legislation, including rights of access, navigation, and fishing:
     (b) any activity that may be undertaken under the authority of an existing marine consent granted under section 62:
-    (c) any activity that may be undertaken under the authority of an existing resource consent granted under the Resource Management Act 1991:
+    (c) any activity that may be undertaken under the authority of an existing resource consent granted under the Natural and Built Environment Act 2023:
     (d) the settlement of a historical claim under the Treaty of Waitangi Act 1975:
     (e) the settlement of a contemporary claim under the Treaty of Waitangi as provided for in an Act, including the Treaty of Waitangi (Fisheries Claims) Settlement Act 1992:
     (f) a protected customary right or customary marine title recognised under the Marine and Coastal Area (Takutai Moana) Act 2011
@@ -207,8 +207,8 @@ Part 5
     (a) a Saturday, a Sunday, Waitangi Day, Good Friday, Easter Monday, Anzac Day, the Sovereign’s birthday, Te Rā Aro ki a Matariki/Matariki Observance Day, and Labour Day; and
     (b) if Waitangi Day or Anzac Day falls on a Saturday or a Sunday, the following Monday; and
     (c) a day in the period commencing on 20 December in any year and ending with 10 January in the following year.
-(2) The following terms have the same meanings as in section 2(1) of the Resource Management Act 1991:
-  (a) biological diversity:
+(2) The following terms have the same meanings as in section 11 of the Natural and Built Environment Act 2023:
+  (a) indigenous biodiversity:
   (b) iwi authority:
   (c) region:
   (d) tikanga Māori.
@@ -228,7 +228,7 @@ Part 5
 (2) Subsection (1)﻿(a) to (d) apply regardless of the scale, intensity, duration, or frequency of the effect.
 
 ### 7 Meaning of marine management regime
-(1) In this Act, unless the context otherwise requires, marine management regime includes the regulations, rules, and policies made and the functions, duties, and powers conferred under an Act that applies to any 1 or more of the following:
+(1) In this Act, unless the context otherwise requires, marine management regime includes the regulations, rules, policies, and regional spatial strategies made and the functions, duties, and powers conferred under an Act that applies to any 1 or more of the following:
   (a) territorial sea:
   (b) exclusive economic zone:
   (c) continental shelf.
@@ -245,9 +245,11 @@ Part 5
   (i) Marine Mammals Protection Act 1978:
   (j) Marine Reserves Act 1971:
   (k) Maritime Transport Act 1994:
-  (l) Resource Management Act 1991:
+  (l) Natural and Built Environment Act 2023:
+  (la) Spatial Planning Act 2023:
   (m) Submarine Cables and Pipelines Protection Act 1996:
   (n) Wildlife Act 1953.
+(3) In subsection (1), regional spatial strategy has the same meaning as in section 8 of the Spatial Planning Act 2023.
 
 ### 7A Meaning of public notice
 (1) If this Act requires the Environmental Protection Authority to give public notice of something, the EPA must—
@@ -751,7 +753,7 @@ To avoid doubt,—
     (i) the effects of activities that are not regulated under this Act; and
     (ii) effects that may occur in New Zealand or in the waters above or beyond the continental shelf beyond the outer limits of the exclusive economic zone; and
   (c) the effects on human health that may arise from effects on the environment; and
-  (d) the importance of protecting the biological diversity and integrity of marine species, ecosystems, and processes; and
+  (d) the importance of protecting the indigenous biodiversity and integrity of marine species, ecosystems, and processes; and
   (e) the importance of protecting rare and vulnerable ecosystems and the habitats of threatened species; and
   (f) New Zealand's international obligations; and
   (g) the economic benefit to New Zealand of an activity; and
@@ -878,7 +880,7 @@ An EEZ policy statement may incorporate material by reference under sections 150
   (b) describe the current state of the area where it is proposed that the activity will be undertaken and the environment surrounding the area; and
   (c) identify persons whose existing interests are likely to be adversely affected by the activity; and
   (d) identify the effects of the activity on the environment and existing interests (including cumulative effects and effects that may occur in New Zealand or in the sea above or beyond the continental shelf beyond the outer limits of the exclusive economic zone); and
-  (e) identify the effects of the activity on the biological diversity and integrity of marine species, ecosystems, and processes; and
+  (e) identify the effects of the activity on the indigenous biodiversity and integrity of marine species, ecosystems, and processes; and
   (f) identify the effects of the activity on rare and vulnerable ecosystems and habitats of threatened species; and
   (g) describe any consultation undertaken with persons described in paragraph (c) and specify those persons who have given written approval to the activity; and
   (h) include copies of any written approvals to the activity; and
@@ -1122,7 +1124,7 @@ As soon as is reasonably practicable after the closing date for submissions, the
     (i) the effects of activities that are not regulated under this Act; and
     (ii) effects that may occur in New Zealand or in the waters above or beyond the continental shelf beyond the outer limits of the exclusive economic zone; and
   (c) the effects on human health that may arise from effects on the environment; and
-  (d) the importance of protecting the biological diversity and integrity of marine species, ecosystems, and processes; and
+  (d) the importance of protecting the indigenous biodiversity and integrity of marine species, ecosystems, and processes; and
   (e) the importance of protecting rare and vulnerable ecosystems and the habitats of threatened species; and
   (f) the economic benefit to New Zealand of allowing the application; and
   (g) the efficient use and development of natural resources; and
@@ -1498,18 +1500,18 @@ A marine consent authority may issue an amended consent to correct minor omissio
 
 ### 88 Interpretation
 In this subpart, unless the context otherwise requires,—
-  - **assessment of environmental effects** means the assessment of effects on the environment required by section 88(2)﻿(b) of the Resource Management Act 1991
-  - **coastal marine area** has the meaning given to it by section 2(1) of the Resource Management Act 1991
+  - **assessment of environmental effects** means the assessment of effects on the environment required by section 239(4)﻿(b) of the Natural and Built Environment Act 2023
+  - **coastal marine area** has the meaning given to it by section 11 of the Natural and Built Environment Act 2023
   - **cross-boundary activity** means an activity that is carried out partly in the exclusive economic zone or in or on the continental shelf and partly in New Zealand
-  - **joint application for consent** or means an application that comprises both an application for a resource consent under the Resource Management Act 1991 and an application for a marine consent under this Act
+  - **joint application for consent** or means an application that comprises both an application for a resource consent under the Natural and Built Environment Act 2023 and an application for a marine consent under this Act
   - **processing** , in relation to an application, means processing—
     (a) before a hearing is held; or
     (b) if no hearing is held, before a decision is made on the application
   - **relevant resource consent authority** means—
     (a) the resource consent authority responsible for a district or region in which part of a cross-boundary activity is or is intended to be undertaken; or
     (b) the Minister of Conservation, in relation to the coastal marine areas of the Kermadec Islands, the Snares Islands, the Bounty Islands, the Antipodes Islands, the Auckland Islands, Campbell Island, and the islands adjacent to Campbell Island
-  - **resource consent** has the meaning given to it by section 2(1) of the Resource Management Act 1991.
-  - **resource consent authority** means a consent authority as that term is defined in section 2(1) of the Resource Management Act 1991
+  - **resource consent** has the meaning given to it by section 11 of the Natural and Built Environment Act 2023
+  - **resource consent authority** means a consent authority as that term is defined in section 11 of the Natural and Built Environment Act 2023.
 
 ### 89 Application of this subpart
 (1) This subpart applies to a proposal to undertake a cross-boundary activity that cannot be carried out without—
@@ -1523,7 +1525,7 @@ In this subpart, unless the context otherwise requires,—
 A person who intends to undertake a cross-boundary activity may—
   (a) prepare a joint application for consent that complies with the requirements of—
     (i) this Act and any regulations in relation to the part of the activity that relates to the exclusive economic zone or the continental shelf; and
-    (ii) the Resource Management Act 1991, and any regulations, national environmental standards, or regional or district plans made under that Act, in relation to the part of the activity that relates to New Zealand; or
+    (ii) the Natural and Built Environment Act 2023, and any regulations, the National Planning Framework, or plans made under that Act; or
   (b) apply for a marine consent and a resource consent for a cross-boundary activity separately, whether concurrently or at different times.
 
 ### 91 Joint application for consent for cross-boundary activity
@@ -1531,8 +1533,8 @@ A person who intends to undertake a cross-boundary activity may—
   (a) the relevant resource consent authority; and
   (b) the Environmental Protection Authority.
 (2)
-(3) The joint application must include an assessment of effects that complies with section 88(2)﻿(b) of the Resource Management Act 1991 and section 39 of this Act.
-(4) The joint application may specify that the application for resource consent is lodged with the EPA under section 145 of the Resource Management Act 1991.
+(3) The joint application must include an assessment of effects that complies with section 239(4)﻿(b) of the Natural and Built Environment Act 2023 and section 39 of this Act.
+(4) The joint application may specify that the application for resource consent is lodged with the EPA under clause 60 of Schedule 10 of the Natural and Built Environment Act 2023.
 
 ### 92 Separate applications for consents for cross-boundary activity
 Subparts 2A to 2D apply to an application for a marine consent if a person—
@@ -1554,10 +1556,10 @@ Subparts 2A to 2D apply to an application for a marine consent if a person—
 (2)
 (3)
 (4) The EPA must cease processing a joint application for consent if—
-  (a) the Minister for the Environment or the Minister of Conservation (in relation to a proposal of national significance) directs that the application for a resource consent be referred to the Environment Court for decision under section 142(2)﻿(b) or 147(1)﻿(b) of the Resource Management Act 1991; or
-  (b) the relevant consent authority agrees to the applicant's request made under section 87D of the Resource Management Act 1991 to allow the application to be determined by the Environment Court.
-(5) In the case described in subsection (4)﻿(a), section 149T of the Resource Management Act 1991 applies to the application for resource consent.
-(6) In the case described in subsection (4)﻿(b), sections 87F(2) to (5) and 87G to 87I of the Resource Management Act 1991 apply to the application for resource consent.
+  (a) the Minister for the Environment or the Minister of Conservation (in relation to a proposal of national significance) directs that the application for a resource consent be referred to the Environment Court for decision under clause 55(2)﻿(b) or 63(1)﻿(b) of Schedule 10 of the Natural and Built Environment Act 2023; or
+  (b) the relevant consent authority agrees to the applicant's request made under section 232 of the Natural and Built Environment Act 2023 to allow the application to be determined by the Environment Court.
+(5) In the case described in subsection (4)﻿(a), clause 84 of Schedule 10 of the Natural and Built Environment Act 2023 applies to the application for resource consent.
+(6) In the case described in subsection (4)﻿(b), sections 235(2) to (5) and 236 to 238 of the Natural and Built Environment Act 2023 apply to the application for resource consent.
 (7) In both cases described in subsection (4), the EPA must resume processing the application for a marine consent under subpart 2A.
 
 ### 94A Environmental Protection Authority may decide to separate joint application
@@ -1569,7 +1571,7 @@ Subparts 2A to 2D apply to an application for a marine consent if a person—
   (c) a hearing is required for one application, but not the other; or
   (d) the joint processing of the applications for resource consent and marine consent that comprise the joint application for consent is not administratively efficient.
 (4) In any case described in subsection (1),—
-  (a) the relevant resource consent authority must resume processing the application for resource consent under the Resource Management Act 1991; and
+  (a) the relevant resource consent authority must resume processing the application for resource consent under the Natural and Built Environment Act 2023; and
   (b) the EPA must resume processing the application for a marine consent under subpart 2A.
 
 **Processing of joint application**
@@ -1598,16 +1600,16 @@ Sections 96 and 97 apply to the processing of a joint application for consent wh
   (a) the relevant marine consent authority must decide an application for a marine consent, a marine discharge consent, or marine dumping consent that is part of a joint application for consent; and
   (b) the relevant resource consent authority must decide the application for a resource consent that is part of a joint application.
 (2) Sections 59 to 71 apply to an application for a marine consent, a marine discharge consent, or a marine dumping consent.
-(3) Sections 104 to 116 of the Resource Management Act 1991 apply to the application for a resource consent.
+(3) sections 303 and 318 to 323 of the Natural and Built Environment Act 2023 apply to the application for a resource consent.
 
 **Nationally significant cross-boundary activities**
 
 ### 99 Application for consent for nationally significant cross-boundary activity referred to board of inquiry
-(1) This section applies if the application for a resource consent for the part of the cross-boundary activity that is to be carried out in the coastal marine area is or is part of a proposal of national significance referred to a board of inquiry under section 142(2)﻿(a) or 147(1)﻿(a) of the Resource Management Act 1991.
+(1) This section applies if the application for a resource consent for the part of the cross-boundary activity that is to be carried out in the coastal marine area is or is part of a proposal of national significance referred to a board of inquiry under clause 55(2)﻿(a) or 63(1)﻿(a) of Schedule 10 of the Natural and Built Environment Act 2023.
 (2) The Environmental Protection Authority may delegate to the board of inquiry the EPA's functions in relation to an application for a marine consent that relates to the part of the activity that is to be carried out in the exclusive economic zone or in or on the continental shelf.
 (3) If the EPA delegates its functions under subsection (2), sections 50 and 51 of this Act do not apply to the application for a marine consent and, instead,—
   (a) the EPA must process the application for a marine consent together with the associated application for a resource consent; and
-  (b) the provisions of the Resource Management Act 1991 specified in subsection (5) apply to the processing of the application for a marine consent as if the application were part of the associated application for a resource consent.
+  (b) the provisions of the Natural and Built Environment Act 2023 specified in subsection (5) apply to the processing of the application for a marine consent as if the application were part of the associated application for a resource consent.
 (4) If subsection (3) applies,—
   (a) the EPA must, if the application must be publicly notified under section 46 of this Act,—
     (i) notify the application, if it has not already been notified; and
@@ -1625,7 +1627,7 @@ Sections 96 and 97 apply to the processing of a joint application for consent wh
 ### 99A Joint applications for section 20 activity and for nationally significant activity to be referred to board of inquiry
 (1) This section applies to a joint application for consent if—
   (a) the application for a marine consent is for a section 20 activity; and
-  (b) the application for a resource consent that is or is part of a proposal of national significance is to be referred to a board of inquiry under section 142(2)﻿(a) or 147(1)﻿(a) of the Resource Management Act 1991.
+  (b) the application for a resource consent that is or is part of a proposal of national significance is to be referred to a board of inquiry under clause 55(2)﻿(a) or 63(1)﻿(a) of Schedule 10 of the Natural and Built Environment Act 2023.
 (2) The responsible Ministers must, as soon as practicable after being notified in accordance with section 46(1)﻿(a), appoint a board of inquiry to—
   (a) decide the joint application; and
   (b) perform or exercise the functions, duties, and powers of a marine consent authority, prescribed in subparts 2C to 2E, in relation to the application (including any appeals in relation to the matter that are filed in any court).
@@ -1633,7 +1635,7 @@ Sections 96 and 97 apply to the processing of a joint application for consent wh
 (4) The Minister may, if he or she considers it appropriate, invite the EPA to nominate persons to be members of the board.
 (5) In appointing a person to the board, the responsible Ministers must consider the need for the board to have available to it, from its members,—
   (a) knowledge, skill, and experience relating to—
-    (i) this Act and the Resource Management Act 1991; and
+    (i) this Act and the Natural and Built Environment Act 2023; and
     (ii) the matter or type of matter that the board will be considering; and
     (iii) tikanga Māori; and
   (b) legal expertise; and
@@ -1644,15 +1646,15 @@ Sections 96 and 97 apply to the processing of a joint application for consent wh
   (c) receive submissions made under section 47.
 (7) Sections 50 to 52 do not apply to the application for a marine consent.
 (8) Despite subsection (7), clauses 1 to 4 and 14 of Schedule 4 do apply to the processing of the application for a marine consent.
-(9) The following provisions of the Resource Management Act 1991 apply to the processing of the application for a marine consent as if the application were part of the associated application for a resource consent:
-  (a) section 149L (which deals with the conduct of the inquiry):
-  (b) section 149R (which requires the board to produce a final report), but not subsections (3)﻿(e) and (f) and (4)﻿(b) and (c):
-  (c) section 149RA(1) and (2) (which allows the board to make minor corrections to board decisions and resource consents):
-  (d) section 149S (which allows the Minister for the Environment to extend the time by which the board must report), but not subsection (4)﻿(b):
-  (e) section 149V (which provides for appeals against decisions to be on questions of law only) as if the reference in that section to section 149R(4)﻿(a) to (f) were a reference to section 149R(4)﻿(a), (d), (e), and (f).
+(9) The following provisions of the Natural and Built Environment Act 2023 apply to the processing of the application for a marine consent as if the application were part of the associated application for a resource consent:
+  (a) clause 78 of Schedule 10 (which deals with the conduct of the inquiry):
+  (b) clause 81 of Schedule 10 (which requires the board to produce a final report), but not subclauses (4)﻿(e) and (f) and (5)﻿(b), (c), and (d):
+  (c) clause 82 of Schedule 10 (which allows the board to make minor corrections to board decisions and resource consents):
+  (d) clause 83 of Schedule 10 (which allows the Minister for the Environment to extend the time by which the board must report), but not subclause (5)﻿(b) and (c):
+  (e) clause 86 of Schedule 10 (which provides for appeals against decisions to be on questions of law only) as if the reference in that clause to clause 81(5)﻿(a) to (f) of Schedule 10 were a reference to clause 81(5)﻿(a), (e), (f), and (g) of Schedule 10.
 (10) In this section, responsible Ministers means—
   (a) the Minister; and
-  (b) the Minister for the time being responsible for the administration of the Resource Management Act 1991.
+  (b) the Minister for the time being responsible for the administration of the Natural and Built Environment Act 2023.
 
 ### 100 EPA must provide board of inquiry with necessary information
 (1) This section applies if an application for a marine consent is to be decided by a board of inquiry.
@@ -1931,7 +1933,7 @@ The High Court Rules 2016 apply if a procedural matter is not provided for by se
 ### 116 Application for enforcement order
 (1) The Environmental Protection Authority, an enforcement officer, or any other person may apply to the Environment Court for an enforcement order.
 (2) The application for an enforcement order must be in the prescribed form and specify the relief sought.
-(3) Part 11 of the Resource Management Act 1991 applies as if the application were made under Part 12 of that Act.
+(3) Schedule 13 of the Natural and Built Environment Act 2023 applies as if the application were made under Part 11 of that Act.
 
 ### 117 Notice of application for enforcement order
 (1) The applicant for an enforcement order must serve notice of the application for the order—
@@ -2038,7 +2040,7 @@ An abatement notice must be in the prescribed form and must state—
   (b) state the reasons for the appeal and the relief sought; and
   (c) state any matters required by regulations; and
   (d) be lodged with the Environment Court and served on the EPA within 15 working days after service of the abatement notice on the person who lodged the appeal.
-(3) Part 11 of the Resource Management Act 1991 applies as if the appeal were lodged under Part 12 of that Act.
+(3) Schedule 13 of the Natural and Built Environment Act 2023 applies as if the appeal were lodged under Part 11 of that Act.
 
 ### 130 Restrictions on certain abatement notices
 No person may serve an abatement notice on a person in respect of anything done or to be done by or on behalf of—
@@ -2048,7 +2050,7 @@ No person may serve an abatement notice on a person in respect of anything done 
   (d) the master or owner of a ship, or the owner or operator of an oil transfer site or offshore installation, or any other person, in accordance with a direction given under section 305 or 311 of that Act.
 
 ### 131 Proceedings in Environment Court
-Sections 299 to 308 of the Resource Management Act 1991 apply to proceedings in the Environment Court under this Act.
+Clauses 79 to 88 of Schedule 13 of the Natural and Built Environment Act 2023 apply to proceedings in the Environment Court under this Act.
 
 **Offences and defences in relation to activities regulated under section 20**
 
@@ -2457,8 +2459,8 @@ Sections 150 to 154 do not affect the application of sections 29 to 32 of the St
   (a) any matter described in subsection (1)﻿(a) may be expressed to have effect from the commencement of any proceedings to which it relates and for an indefinite period or until such date as the EPA considers appropriate in the circumstances:
   (b) any matter described in subsection (1)﻿(b) may be expressed to have effect from the commencement of any proceedings to which it relates but will cease to have any effect at the conclusion of those proceedings.
 (5) On the date that a direction prohibiting or restricting the publication or communication of information is given under subsection (3)﻿(b), the provisions of the Official Information Act 1982 cease to apply to the information while the direction remains in effect.
-(6) Any party to any proceedings or class of proceedings before the EPA may apply to the Environment Court for an order under section 279(3)﻿(a) of the Resource Management Act 1991 cancelling or varying any direction given by the EPA.
-(7) Where, on the application of any party to any proceedings or class of proceedings, the EPA has refused to give a direction described in subsection (3), that party may apply to the Environment Court for an order under section 279(3)﻿(b) of the Resource Management Act 1991.
+(6) Any party to any proceedings or class of proceedings before the EPA may apply to the Environment Court for an order under clause 17 of Schedule 13 of the Natural and Built Environment Act 2023 cancelling or varying any direction given by the EPA.
+(7) Where, on the application of any party to any proceedings or class of proceedings, the EPA has refused to give a direction described in subsection (3), that party may apply to the Environment Court for an order under clause 17(1)﻿(b) of Schedule 13 of the Natural and Built Environment Act 2023.
 (8) In this section, information includes any document or evidence.
 
 ### 158A EPA and Maritime New Zealand to share information
@@ -2478,7 +2480,7 @@ Sections 150 to 154 do not affect the application of sections 29 to 32 of the St
   (f) the disclosure is required by a court of competent jurisdiction.
 (4) In this section,—
   - **regulatory agency** means—
-    (a) a consent authority as that term is defined in section 2(1) of the Resource Management Act 1991:
+    (a) a consent authority as that term is defined in section 11 of the Natural and Built Environment Act 2023:
     (b) a department of State that, with the authority of the Prime Minister, is for the time being responsible for the administration of any specified Act
   - **specified Act** means any Act specified in section 7(2) other than the Crown Minerals Act 1991.
 
