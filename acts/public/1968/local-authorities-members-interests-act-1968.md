@@ -1,5 +1,5 @@
 # Local Authorities (Members' Interests) Act 1968
-_Consolidation as at 2021-10-28_
+_Consolidation as at 2023-08-24_
 
 > An Act to consolidate and amend the law relating to the making of contracts between local authorities and the members thereof, and to the restrictions on the actions of such members when matters in which they have a pecuniary interest are under consideration
 
@@ -87,7 +87,7 @@ Every person commits an offence who does any act as a member of any local author
   (b) any contract of insurance insuring members against personal accident; or
   (c) an election or appointment of a member of the local authority to any office, notwithstanding that any remuneration or allowance is or may be payable in respect of that office; or
   (d) any formal resolution to seal or otherwise complete any contract or document in accordance with a resolution already adopted; or
-  (e) the preparation, recommendation, approval, or review of a district plan under the Resource Management Act 1991 or any section of such a scheme, unless the matter relates to any variation or change of or departure from a district scheme or section thereof or to the conditional use of land as defined in that Act; or
+  (e) the preparation, recommendation, approval, or review of a plan under the Natural and Built Environment Act 2023 or the Spatial Planning Act 2023; or
   (ea) the preparation, recommendation, approval, or review of general schemes under the Soil Conservation and Rivers Control Act 1941 for the preventing or minimising of damage by floods and by erosion; or
   (eb) the preparation, recommendation, approval, or review of reports as to the effect or likely effect on the environment of any public work or proposed public work within the meaning of the Public Works Act 1981; or
   (f) any matter in which, in the opinion of the Auditor-General given before the vote or discussion and on written application to the Auditor-General for his or her opinion, the pecuniary interest of a member is so remote or insignificant that it cannot reasonably be regarded as likely to influence him in voting on or taking part in the discussion of that matter.
@@ -150,6 +150,7 @@ The Auditor-General shall, either on investigation following receipt of a compla
 | Regional councils | Local Government Act 2002 (2002 No 84) |
 | Regional Employment and Access Councils | Access Training Scheme Act 1988 (1988 No 108) |
 | Regional Planning Authorities | Town and Country Planning Act 1977 (1977 No 121) |
+| Regional planning committees | Natural and Built Environment Act 2023 and Spatial Planning Act 2023 |
 | Regional Water Boards | Water and Soil Conservation Act 1967 (1967 No 135) |
 | River Boards | River Boards Act 1908 (1908 No 165) |
 | Territorial authorities | Local Government Act 2002 (2002 No 84) |
