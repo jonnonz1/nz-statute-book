@@ -1,5 +1,5 @@
 # Fencing Act 1978
-_Consolidation as at 2021-10-28_
+_Consolidation as at 2023-08-24_
 
 > An Act to reform the law relating to the erection and repair of dividing fences, and in substitution for the Fencing Act 1908
 
@@ -40,7 +40,7 @@ In this Act, unless the context otherwise requires,—
   (c) land held for railway purposes other than for the accommodation of employees by the Crown, New Zealand Railways Corporation, or a railway operator that is a Crown transferee company (as those terms are defined in section 2 of the New Zealand Railways Corporation Restructuring Act 1990):
   (ca) land held or occupied for the operation of a railway by a railway operator, not being a Crown transferee company (as those terms are defined in section 2 of the New Zealand Railways Corporation Restructuring Act 1990), other than land used principally for car parking, the storage of freight, materials, and ancillary equipment, or administration or residential purposes:
   (d) land that is a marginal strip within the meaning of the Conservation Act 1987:
-  (e) land that is an esplanade reserve within the meaning of the Resource Management Act 1991 or an esplanade strip within the meaning of that Act.
+  (e) land that is an esplanade reserve within the meaning of the Natural and Built Environment Act 2023 or an esplanade strip within the meaning of that Act.
 (2) Subject to subsection (1), this Act binds the Crown.
 
 ## Part 2 — Agreements
