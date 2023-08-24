@@ -1,5 +1,5 @@
 # Income Tax Act 2007
-_Consolidation as at 2023-08-23_
+_Consolidation as at 2023-08-24_
 
 ### A 1 Title
 This Act is the Income Tax Act 2007.
@@ -587,15 +587,15 @@ Income
     (iii) occurs after the person acquired the land, for the factors described in subsection (2)﻿(c), (e), (g), and (i).
 Factors for purposes of subsection (1)﻿(d)
 (2) The factors referred to in subsection (1)﻿(d) are—
-  (a) the rules of an operative district plan under the Resource Management Act 1991:
+  (a) the rules of an operative district plan under the Natural and Built Environment Act 2023:
   (b) the likelihood of the imposition of rules:
   (c) a change to the rules:
   (d) the likelihood of a change to the rules:
-  (e) a consent granted under the Resource Management Act 1991:
+  (e) a consent granted under the Natural and Built Environment Act 2023:
   (f) the likelihood of a consent being granted:
-  (g) a decision of the Environment Court made under the Resource Management Act 1991:
+  (g) a decision of the Environment Court made under the Natural and Built Environment Act 2023:
   (h) the likelihood of a decision being made:
-  (i) the removal of a condition, covenant, designation, heritage order, obligation, prohibition, or restriction under the Resource Management Act 1991:
+  (i) the removal of a condition, covenant, designation, heritage protection order, obligation, prohibition, or restriction under the Natural and Built Environment Act 2023:
   (j) the likelihood of the removal of a condition, covenant, designation, heritage order, obligation, prohibition, or restriction:
   (k) an occurrence of a similar nature to any of the occurrences described in any of paragraphs (a) to (j):
   (l) the likelihood of an occurrence of a similar nature to any of the occurrences described in any of paragraphs (a) to (j).
@@ -6792,7 +6792,7 @@ Link with subpart DA
 
 ### DB 19 Expenses in application for resource consent
 When this section applies
-(1) This section applies when a person who incurs expenditure for the purpose of applying for the grant of a resource consent under the Resource Management Act 1991—
+(1) This section applies when a person who incurs expenditure for the purpose of applying for the grant of a resource consent under the Natural and Built Environment Act 2023—
   (a) does not obtain the grant because the application is not lodged or is withdrawn, or because the grant is refused:
   (b) obtains the grant but does not use the resource consent before it lapses or is surrendered.
 Deduction
@@ -10138,7 +10138,7 @@ Mining rehabilitation expenditure—
   (a) means expenditure that a mineral miner incurs in New Zealand directly in relation to rehabilitation of land that is the permit area of their mining operations or associated mining operations carried out as a result of—
     (i) the mineral miner's permit requirements:
     (ii) the requirements of an access arrangement issued under the Crown Minerals Act 1991 or regulations made under that Act:
-    (iii) an obligation of the mineral miner under the Resource Management Act 1991 or regulations made under that Act:
+    (iii) an obligation of the mineral miner under the Natural and Built Environment Act 2023 or regulations made under that Act:
     (iv) a concession under the Conservation Act 1987:
     (v) an authority under the Historic Places Act 1993; and
   (b) includes an amount that the mineral miner pays to restore, or towards restoring, the area of their operations either during or after those operations; and
@@ -13448,7 +13448,7 @@ Cost
   (a) expenditure is excluded from it if it is expenditure for which a person has been allowed a deduction for an amount of depreciation loss they have had under section EE 38(3) or EE 48(2) or the corresponding provision of the Income Tax Act 2004 or the Income Tax Act 1994; and
   (b) expenditure is not excluded from it if it is expenditure for which a person has been allowed a deduction for an amount of depreciation loss they have had under any other provision of this subpart or the corresponding provision of the Income Tax Act 2004 or the Income Tax Act 1994; and
   (c) expenditure is excluded from it if it is expenditure for which a person has been allowed a deduction under any other subpart or the corresponding provision of the Income Tax Act 2004 or the Income Tax Act 1994; and
-  (cb) expenditure is included in it if the item is a patent application, a patent, a design registration, a design registration application, plant variety rights, or a resource consent under the Resource Management Act 1991 and the expenditure has given rise under section CG 7B (Disposals or applications after earlier deductions) to a corresponding amount of income relating to the item; and
+  (cb) expenditure is included in it if the item is a patent application, a patent, a design registration, a design registration application, plant variety rights, or a resource consent under the Natural and Built Environment Act 2023 and the expenditure has given rise under section CG 7B (Disposals or applications after earlier deductions) to a corresponding amount of income relating to the item; and
   (d) expenditure—
     (i) is not excluded from it if it is described in section EZ 22(2)﻿(a); and
     (ii) is excluded from it if it is described in section EZ 22(2)﻿(b) or EZ 23BA(2) (Aircraft acquired before 2017–18 income year: adjusted tax value, base value, reduced; total deductions increased).
@@ -43587,7 +43587,7 @@ In this Act, unless the context requires otherwise,—
     (b) a resident imputation subgroup:
     (c) a consolidated group, no member of which is a member of an imputation group
   - **consolidation rules** means the provisions listed in section FM 2(2) (Consolidation rules)
-  - **contaminant** means a contaminant as defined in section 2(1) of the Resource Management Act 1991
+  - **contaminant** means a contaminant as defined in section 11 of the Natural and Built Environment Act 2023
   - **continental shelf** is defined in the Continental Shelf Act 1964
   - **continuity period** —
     (a) is defined in section IA 5(6) (Restrictions on companies’ loss balances carried forward: continuity of ownership) for the purposes of that section:
@@ -45894,7 +45894,7 @@ In this Act, unless the context requires otherwise,—
   - **project of limited duration** is defined in section CW 16B(5) (Accommodation expenditure: out-of-town secondments and projects)
   - **projected transactions shareholding** is defined in section CD 34B (Distributions to members of co-operative companies)
   - **property** ,—
-    (a) in subpart EE (Depreciation), includes consents granted in or after the 1996–97 tax year under the Resource Management Act 1991:
+    (a) in subpart EE (Depreciation), includes consents granted in or after the 1996–97 tax year under the Resource Management Act 1991 or the Natural and Built Environment Act 2023:
     (ab) in subpart FB (Transfers of relationship property), is defined in section FB 1B(b) (Meaning of settlement of relationship property and property):
     (ac) in subpart FC (Distribution, transmission, and gifts of property), is defined in section FC 1(2) (Disposals to which this subpart applies):
     (b) in the financial arrangements rules, and in the definitions of agreement for the sale and purchase, forward contract, right, short-term agreement for sale and purchase, short-term option, and specified option does not include a financial arrangement or foreign exchange:
@@ -46163,7 +46163,7 @@ In this Act, unless the context requires otherwise,—
     (d)
     (e)
     (f)
-  - **resource consent** means a resource consent as defined in section 2 of the Resource Management Act 1991
+  - **resource consent** means a resource consent as defined in section 11 of the Natural and Built Environment Act 2023
   - **restitution** is defined in section DB 44(3) (Restitution of stolen property) for the purposes of that section
   - **retained earnings**
   - **retirement savings scheme** for a person means an entity eligible under section RH 3 (Retirement savings schemes)
