@@ -1,5 +1,5 @@
 # River Boards Act 1908
-_Consolidation as at 2021-10-28_
+_Consolidation as at 2023-08-24_
 
 > An Act to consolidate certain enactments of the General Assembly relating to the constitution of River Boards and the construction of river works
 
@@ -342,10 +342,10 @@ The Board shall, in addition to any other powers given to it by this Act, have a
   (b) it may enter on, take, and hold any such land for the purposes of this Act:
   (c) it may from time to time make, maintain, alter, or discontinue any protective works or any other works whatsoever on any land to be taken as aforesaid, or on any land bounded or intersected by any river or stream under its control or within its jurisdiction, or on any such river or stream, for the purpose of preventing or lessening any damage which may be threatened or has actually occurred by the overflow of any such river or stream or from the breaking of the banks of the same:
   (d) it may from time to time divert, impound, or take away any water from any such river or stream, or alter the course of the same:
-  Provided that any such power shall be exercised subject to the Resource Management Act 1991.
+  Provided that any such power shall be exercised subject to the Natural and Built Environment Act 2023.
   (e) it may for any of the purposes aforesaid, at all reasonable times, by itself, its servants or workmen, and with or without carriages loaded or unloaded, enter into and pass through and over any lands within the district for the purpose of carrying out any works to be constructed under this Act, and for the purpose of maintaining and repairing any existing works, doing thereby no unnecessary or avoidable damage to such lands:
   (f) it may lay or deposit on any such lands any materials whatsoever to be used in the maintenance or construction of any such works, and may erect thereon any temporary shelter for any workmen or persons engaged in such maintenance or construction, causing thereby as little damage or inconvenience as may be.
-  Provided that any such power shall be exercised subject to the Resource Management Act 1991.
+  Provided that any such power shall be exercised subject to the Natural and Built Environment Act 2023.
 
 ### 77 Board may order trees impeding river or stream to be removed
 (1) The Board may order the occupier, or in case there is no occupier, then the owner of any land on the bank of any river or stream within its jurisdiction to remove any tree, shrub, or bush, or any part thereof hanging in the water and impeding the free flow thereof, or to lower or trim any part of a tree, shrub, or bush overhanging a river or stream and likely to fall therein.
@@ -384,7 +384,7 @@ Nothing in this Act shall authorise the Board to interfere with any public works
 Nothing in this Act shall prejudice or affect any power or authority vested in Her Majesty, or in the Governor-General, or in any other person on behalf of Her Majesty, or the Governor-General, or any local authority, under any Act authorising the erection, construction, or maintenance of any such public works.
 
 ### 86 Board not to construct works on tidal waters without consent of Governor-General
-(1) Nothing in this Act shall authorise any River Board to commence or construct any river works or place any pile or other structure in, on, over, through, or across tidal lands or tidal water without complying with the Resource Management Act 1991.
+(1) Nothing in this Act shall authorise any River Board to commence or construct any river works or place any pile or other structure in, on, over, through, or across tidal lands or tidal water without complying with the Natural and Built Environment Act 2023.
 (2) The provisions of sections 176 to 182 of the Harbours Act 1950 shall apply to all applications for sanction to do works and to all works that may be executed under this Act.
 
 **Rates**
