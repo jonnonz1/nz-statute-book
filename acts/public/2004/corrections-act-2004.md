@@ -1,5 +1,5 @@
 # Corrections Act 2004
-_Consolidation as at 2023-07-01_
+_Consolidation as at 2023-08-24_
 
 ### 1 Title
 This Act is the Corrections Act 2004.
@@ -556,7 +556,7 @@ The chief executive must appoint as many suitable employees of the department as
   (a) a corrections prison:
   (b) a Police jail.
 (2) The Minister may, in the same way, declare any land or building or any part of any land or building to be added to, or excluded from, any prison.
-(2A) Nothing in section 9 of the Resource Management Act 1991 applies to the detention of prisoners in a court cell block that is declared by notice in the Gazette to be a part of a corrections prison.
+(2A) Nothing in section 21 of the Natural and Built Environment Act 2023 applies to the detention of prisoners in a court cell block that is declared by notice in the Gazette to be a part of a corrections prison.
 (3) Every notice under this section takes effect from the date specified in the notice.
 (4) Despite subsections (1) to (3), the Minister may, by notice in writing, declare any land or building, or part of any land or building that is the subject of a direction under section 191 (which relates to requisitioned property) to be a temporary corrections prison.
 (5) A declaration under subsection (4)—
@@ -2407,8 +2407,8 @@ For the purposes of this Act and any other enactment, every inspector, officer, 
 ### 177 Application of Public Works Act 1981
 For the purposes of the Public Works Act 1981, the construction, management, operation, and maintenance of a prison or community work centre, including the acquisition of land and buildings, or an estate or interest in land, for that purpose, is a Government work and a public work within the meaning of that Act, whether or not the prison or community work centre, or proposed prison or community work centre, is, or is to be, constructed, managed, operated, or maintained by the Crown.
 
-### 178 Application of Resource Management Act 1991
-For the purposes of Part 8 of the Resource Management Act 1991, the construction, management, operation, and maintenance of a prison (other than a Police jail) or community work centre is to be treated as a public work for which the Minister has financial responsibility, whether or not the prison or community work centre, or proposed prison or community work centre, is, or is to be, constructed, managed, operated, or maintained by the Crown.
+### 178 Application of Natural and Built Environment Act 2023
+For the purposes of subparts 1 and 2 of Part 9 of the Natural and Built Environment Act 2023, the construction, management, operation, and maintenance of a prison (other than a Police jail) or community work centre is to be treated as a public work for which the Minister has financial responsibility, whether or not the prison or community work centre, or proposed prison or community work centre, is, or is to be, constructed, managed, operated, or maintained by the Crown.
 
 ### 179 Application of certain Acts to various office holders
 No person is deemed to be employed in the service of the Crown for the purposes of the Public Service Act 2020 or the Government Superannuation Fund Act 1956 by reason only—
