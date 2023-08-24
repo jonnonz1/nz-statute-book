@@ -1,5 +1,5 @@
 # Burial and Cremation Act 1964
-_Consolidation as at 2023-06-15_
+_Consolidation as at 2023-08-24_
 
 > An Act to consolidate and amend the law relating to the burial and cremation of the dead
 
@@ -359,7 +359,7 @@ The provisions of this Act relating to the powers and duties of local authoritie
 (1) The Minister may, by notice in the Gazette, reopen a closed cemetery or burial ground if satisfied that—
   (a) the cemetery or burial ground should be reopened; and
   (b) the local authority has consulted the appropriate persons or organisations; and
-  (c) the reopening complies with the Resource Management Act 1991.
+  (c) the reopening complies with the Natural and Built Environment Act 2023.
 (2) The reopening order must specify—
   (a) the cemetery or burial ground to be reopened; and
   (b) the date that the cemetery or burial ground may reopen, not being more than 6 months from the date of publication of the order; and
@@ -378,7 +378,7 @@ The Minister may, by any reopening order or by any later notice in the Gazette,�
 (3) On the production of a copy of a vesting notice, the Registrar-General of Land must register the notice under the Land Transfer Act 2017 and, if the case so requires, must issue a record of title under that Act in the name of the individual, body corporate, or local authority for the land so vested.
 
 ### 45D Crematoria situated within reopened cemeteries or burial grounds
-(1) In any case where a closed crematorium is situated within the boundaries of a cemetery or burial ground that is to be reopened, the Minister, if satisfied that the appropriate consent has been obtained under the Resource Management Act 1991, may specify, in the reopening order or in any later notice in the Gazette, whether or not the closed crematorium is to be reopened.
+(1) In any case where a closed crematorium is situated within the boundaries of a cemetery or burial ground that is to be reopened, the Minister, if satisfied that the appropriate consent has been obtained under the Natural and Built Environment Act 2023, may specify, in the reopening order or in any later notice in the Gazette, whether or not the closed crematorium is to be reopened.
 (2) The Minister may make such other provision as the Minister thinks fit for the future control, management, and use of the reopened crematorium.
 
 ## Part 7 — General provisions
