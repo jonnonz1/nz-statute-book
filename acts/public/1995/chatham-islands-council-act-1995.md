@@ -1,5 +1,5 @@
 # Chatham Islands Council Act 1995
-_Consolidation as at 2013-07-01_
+_Consolidation as at 2023-08-24_
 
 > An Act—ato reform the local government of the Chatham Islands by establishing a Chatham Islands Council with appropriate functions, duties, and powers:bto dissolve the Chatham Islands County Council:cto make provision incidental to the establishment of the Chatham Islands Council and the dissolution of the Chatham Islands County Council
 
@@ -48,9 +48,9 @@ A territorial authority to be known as the Chatham Islands Council is hereby con
     (i) the Local Government Act 2002; and
     (ii) the Local Government Act 1974; and
     (iii) the Local Government (Rating) Act 2002; and
-    (iv) the Resource Management Act 1991; and
+    (iv) the Natural and Built Environment Act 2023; and
     (v) any other public Act; and
-  (b) a regional council under the Resource Management Act 1991; and
+  (b) a regional council under the Natural and Built Environment Act 2023; and
   (c) a regional authority under the Building Act 2004.
 (2) Except as otherwise provided in this Act or any other Act, the Chatham Islands Council shall have the functions, duties, and powers conferred on the former council by or under any Act that is for the time being in force.
 
@@ -149,13 +149,13 @@ All money received by the Chatham Islands Council from council dues collected in
 (4) A person in respect of whom a notice under subsection (3) is in force—
   (a) shall be entitled to reimbursement of all reasonable costs and expenses (including reasonable remuneration for clerical and other work) incurred in collecting dues and in complying with subsection (5); and
   (b) may, with the agreement of the Chatham Islands Council, retain, in payment of the reimbursement to which that person is entitled under paragraph (a), an agreed amount or proportion of any council dues collected by that person.
-(5) Where any person is required by a notice given under subsection (3), to collect council dues payable in respect of goods carried on any ship or aircraft, that person shall, within 28 days after the end of each month in which any council dues are collected by that person, pay to the Chatham Islands Council the amount of the council dues so collected (less any amount retained by that person in accordance with any agreement entered into under subsection (4)(b)) and shall deliver to the Chatham Islands Council, at the same time, a return setting forth—
+(5) Where any person is required by a notice given under subsection (3), to collect council dues payable in respect of goods carried on any ship or aircraft, that person shall, within 28 days after the end of each month in which any council dues are collected by that person, pay to the Chatham Islands Council the amount of the council dues so collected (less any amount retained by that person in accordance with any agreement entered into under subsection (4)﻿(b)) and shall deliver to the Chatham Islands Council, at the same time, a return setting forth—
   (a) particulars of the goods in respect of which the council dues were paid; and
   (b) the dates on which the council dues were paid to that person; and
   (c) the names of the persons by whom the council dues were paid; and
   (d) the dates on which the goods were imported into or exported from the Chatham Islands Territory; and
   (e) particulars of the ships or aircraft on which the goods were carried; and
-  (f) the amounts (if any) retained by that person in accordance with any agreement entered into under subsection (4)(b); and
+  (f) the amounts (if any) retained by that person in accordance with any agreement entered into under subsection (4)﻿(b); and
   (g) such other relevant particulars as the Chatham Islands Council may from time to time require.
 (5A) If a person required by notice under subsection (3) to collect council dues does not pay them to the Chatham Islands Council in accordance with subsection (5), the Chatham Islands Council may—
   (a) add to the amount owing a penalty of 10% of the amount owing; but
@@ -218,23 +218,13 @@ The amount of any unpaid council dues may be recovered by the Chatham Islands Co
 **Resource management**
 
 ### 26 Resource management planning
-(1) The Chatham Islands Council shall have a single resource management document.
-(2) That document shall contain all that information that the Resource Management Act 1991 requires be contained in—
-  (a) a regional policy statement; and
-  (b) a regional coastal plan; and
-  (c) a district plan.
-(3) That document may contain, in addition, provision for—
-  (a) such matters as are provided for in section 67 of the Resource Management Act 1991; and
-  (b) regional rules made in accordance with section 68 of the Resource Management Act 1991.
-(4) The Chatham Islands Council may develop, in addition to the document specified in subsection (1), one or more regional plans in accordance with section 65 of the Resource Management Act 1991.
-(5) Notwithstanding section 28(b) of the Resource Management Act 1991, the Minister of Conservation shall have the function of approving such part of the document specified in subsection (1) as relates to the coastal marine area.
-(6) The Chatham Islands Council shall publicly notify the proposed Chatham Islands resource management document no later than 2 years after the commencement of this Act.
+[Repealed]
 
 ### 27 Time periods for consent hearings
-Where the Resource Management Act 1991, or any regulations made pursuant to that Act, specifies any period of time within which the consent authority or any other person must perform any action in the course of the consent hearing process, and where the consent is required for an activity within the area of the Chatham Islands Territory, that time period shall be extended by 5 working days.
+Where the Natural and Built Environment Act 2023, or any regulations made pursuant to that Act, specifies any period of time within which the consent authority or any other person must perform any action in the course of the consent hearing process, and where the consent is required for an activity within the area of the Chatham Islands Territory, that time period shall be extended by 5 working days.
 
 ### 28 Enforcement officers
-Notwithstanding section 38 of the Resource Management Act 1991, the Chatham Islands Council may authorise—to carry out all or any of the functions and powers as an enforcement officer under that Act.
+Notwithstanding section 725 of the Natural and Built Environment Act 2023, the Chatham Islands Council may authorise—to carry out all or any of the functions and powers as an enforcement officer under that Act.
   (a) any of its officers; or
   (b) any of the officers of the new Ministry or the Ministry of Fisheries or the Department of Conservation or the New Zealand Police, subject to such terms and conditions as to the payment of salary and expenses and as to the appointment of his or her duties as may be agreed between the relevant authorities,—
 
