@@ -1,5 +1,5 @@
 # Canterbury Property Boundaries and Related Matters Act 2016
-_Consolidation as at 2018-11-12_
+_Consolidation as at 2023-08-24_
 
 ### 1 Title
 This Act is the Canterbury Property Boundaries and Related Matters Act 2016.
@@ -63,7 +63,7 @@ Sections 8 and 9 apply to all boundaries that determine the spatial extent of la
 (4) For the purpose of subsection (3), boundaries that define land for the purposes of registration under the Land Transfer Act 2017 means the boundaries shown on a plan deposited under section 224 of that Act or otherwise incorporated in the register kept under that Act.
 
 ### 10 Boundary adjustment that follows moved boundaries is not subdivision
-A boundary adjustment that removes a boundary conflict referred to in section 9 by adjusting the boundary to comply with section 8 is not a subdivision of land for the purposes of section 11 or Part 10 of the Resource Management Act 1991.
+A boundary adjustment that removes a boundary conflict referred to in section 9 by adjusting the boundary to comply with section 8 is not a subdivision of land for the purposes of section 22 or Part 10 of the Natural and Built Environment Act 2023.
 
 **Earlier surveys and boundary determinations**
 
