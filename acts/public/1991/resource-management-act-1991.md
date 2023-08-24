@@ -1,5 +1,5 @@
 # Resource Management Act 1991
-_Consolidation as at 2023-04-13_
+_Consolidation as at 2023-08-24_
 
 > An Act to restate and reform the law relating to the use of land, air, and water
 
@@ -969,7 +969,8 @@ The Minister of Conservation shall have the following functions under this Act:
 The Minister of Aquaculture has the following functions under this Act:
   (a) suspending the receipt of applications for coastal permits authorising aquaculture activities to be undertaken in the coastal marine area under section 165ZD:
   (b) making a direction to process and hear together applications for coastal permits authorising aquaculture activities to be undertaken in the coastal marine area under section 165ZFA:
-  (c) recommending the making of regulations under sections 360A to 360C that amend regional coastal plans in relation to aquaculture activities in the coastal marine area.
+  (c) recommending the making of regulations under sections 360A to 360C that amend regional coastal plans in relation to aquaculture activities in the coastal marine area:
+  (d) making decisions on the allocation of authorisations under Part 7A where the Minister is specified as the decision maker in a regional plan (as a result of amendments to the regional plan by regulations made under section 360A).
 
 ### 29 Delegation of functions by Ministers
 (1) Any Minister of the Crown may, either generally or particularly, delegate to the chief executive of that Minister's department in accordance with clause 5 of Schedule 6 of the Public Service Act 2020, any of that Minister's functions, powers, or duties under this Act other than the following:
@@ -1173,28 +1174,7 @@ The Minister may not give a direction under section 103 of the Crown Entities Ac
   (b) a further evaluation must be undertaken under this Act.
 
 ### 33 Transfer of powers
-(1) A local authority may transfer any 1 or more of its functions, powers, or duties under this Act, except this power of transfer, to another public authority in accordance with this section.
-(2) For the purposes of this section, public authority includes—
-  (a) a local authority; and
-  (b) an iwi authority; and
-  (c)
-  (d) a government department; and
-  (e) a statutory authority; and
-  (f) a joint committee set up for the purposes of section 80; and
-  (g) a local board.
-(3)
-(4) A local authority shall not transfer any of its functions, powers, or duties under this section unless—
-  (a) it has used the special consultative procedure set out in section 83 of the Local Government Act 2002; and
-  (b) before using that special consultative procedure it serves notice on the Minister of its proposal to transfer the function, power, or duty; and
-  (c) both authorities agree that the transfer is desirable on all of the following grounds:
-    (i) the authority to which the transfer is made represents the appropriate community of interest relating to the exercise or performance of the function, power, or duty:
-    (ii) efficiency:
-    (iii) technical or special capability or expertise.
-(5)
-(6) A transfer of functions, powers, or duties under this section shall be made by agreement between the authorities concerned and on such terms and conditions as are agreed.
-(7) A public authority to which any function, power, or duty is transferred under this section may accept such transfer, unless expressly forbidden to do so by the terms of any Act by or under which it is constituted; and upon any such transfer, its functions, powers, and duties shall be deemed to be extended in such manner as may be necessary to enable it to undertake, exercise, and perform the function, power, or duty.
-(8) A local authority which has transferred any function, power, or duty under this section may change or revoke the transfer at any time by notice to the transferee.
-(9) A public authority to which any function, power, or duty has been transferred under this section, may relinquish the transfer in accordance with the transfer agreement.
+[Repealed]
 
 ### 34 Delegation of functions, etc, by local authorities
 (1) A local authority may delegate to any committee of the local authority established in accordance with the Local Government Act 2002 any of its functions, powers, or duties under this Act.
@@ -1880,12 +1860,15 @@ A national environmental standard for an activity that is a discharge may descri
   (c) have particular regard to that report when deciding whether to recommend the making of the standard; and
   (d) publicly notify the report and recommendation made under section 46A(4)﻿(c) or 51(2), as the case requires.
 (2) For the purposes of subsection (1)﻿(a), the Minister—
-  (a) must consider a report and any recommendations made to the Minister under section 46A(4)﻿(c) or 51, as the case requires; and
+  (a) must consider a report and any recommendations made to the Minister under section 46A(4)﻿(c) or 51, as the case requires, and consider the desirability of consistency with the Natural and Built Environment Act 2023; and
   (b) may make any changes, or no changes, to the proposed national environmental standard as the Minister thinks fit.
 (2)
 (3) The Minister need not follow the steps in section 46A if the Minister is recommending the making of an amendment—
   (a) that has no more than a minor effect; or
   (b) that corrects errors or makes similar technical alterations.
+(4) The Minister need not follow the steps in section 46A if the Minister is recommending the making of an amendment to remove content and is satisfied that—
+  (a) the content would be more efficiently addressed through the processes in the Natural and Built Environment Act 2023 or the Spatial Planning Act 2023; or
+  (b) the content is redundant because of the transition from the RMA to the Natural and Built Environment Act 2023 and the Spatial Planning Act 2023.
 
 ### 44A Local authority recognition of national environmental standards
 (1) Subsections (3) to (5) apply if a local authority's plan or proposed plan contains a rule that duplicates a provision in a national environmental standard.
@@ -2023,6 +2006,7 @@ A national direction may incorporate material by reference under Schedule 1AA.
   (c) any submissions received on the proposed national direction; and
   (ca) if applicable, any additional material provided by the Minister under section 47A(1)﻿(b); and
   (d) any evidence received; and
+  (da) the desirability of consistency with the Natural and Built Environment Act 2023; and
   (e) any other relevant matter.
 (2) After considering the matters, the board of inquiry must arrange for a report and recommendations to be made to the Minister within any terms of reference set by the Minister.
 
@@ -2035,7 +2019,7 @@ A national direction may incorporate material by reference under Schedule 1AA.
 
 ### 52 Consideration of recommendations and approval or withdrawal of statement
 (1) In the case of a national policy statement, whether made in accordance with section 46A(3)﻿(a) or (b), the Minister—
-  (a) first, must consider a report and any recommendations made to him or her by a board of inquiry under section 46A(4)﻿(c) or 51, as the case requires; and
+  (a) first, must consider a report and any recommendations made to the Minister by a board of inquiry under section 46A(4)﻿(c) or 51, as the case requires, and consider the desirability of consistency with the Natural and Built Environment Act 2023; and
   (b) secondly, may—
     (i) make any changes, or no changes, to the proposed national policy statement as he or she thinks fit; or
     (ii) withdraw all or part of the proposed national policy statement and give public notice of the withdrawal, including the reasons for the withdrawal; and
@@ -2056,6 +2040,9 @@ A national direction may incorporate material by reference under Schedule 1AA.
 (2) The Minister may, without using a process referred to in subsection (1),—
   (a) amend a national policy statement if the amendment is of minor effect or corrects a minor error:
   (b) amend the NPS-UD in accordance with section 77S(2).
+(2A) The Minister may, without using a process referred to in subsection (1), amend a national policy statement to remove content if the Minister is satisfied that—
+  (a) the content would be more efficiently addressed through the processes in the Natural and Built Environment Act 2023 or the Spatial Planning Act 2023; or
+  (b) the content is redundant because of the transition from the RMA to the Natural and Built Environment Act 2023 and the Spatial Planning Act 2023.
 (3) A change, revocation, or amendment under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 54 Publication of national policy statements
@@ -2178,6 +2165,7 @@ The purpose of a New Zealand coastal policy statement is to state objectives and
 ### 58E Approval of national planning standard
 (1) Before approving a national planning standard, the Minister must—
   (a) consider the report and recommendations made under section 58D(3)﻿(d)﻿(ii); and
+  (aa) consider the desirability of consistency with the Natural and Built Environment Act 2023; and
   (b) carry out a further evaluation of the draft national planning standard in accordance with section 32AA and have particular regard to that evaluation when deciding whether to approve the national planning standard.
 (2) The Minister may—
   (a) approve a national planning standard after changing the draft in the manner that the Minister thinks fit; or
@@ -2204,6 +2192,9 @@ The purpose of a New Zealand coastal policy statement is to state objectives and
 (1) The Minister may change or replace a national planning standard, following the process set out in sections 58D and 58E.
 (2) If a change to a national planning standard has not more than a minor effect or corrects errors or makes similar technical alterations, the Minister may make the change without following the process set out in sections 58D and 58E.
 (2A) The Minister may change the period for compliance specified in standards 17.2.a and 17.8.a of the National Planning Standards 2019 from 3 years to 5 years without following the process set out in sections 58D and 58E, other than to give notice of the change in the Gazette and on the Internet site referred to in section 58F(2).
+(2B) The Minister may change a national planning standard to remove content without following the process set out in sections 58D and 58E if the Minister is satisfied that—
+  (a) the content would be more efficiently addressed through the processes in the Natural and Built Environment Act 2023 or the Spatial Planning Act 2023; or
+  (b) the content is redundant because of the transition from the RMA to the Natural and Built Environment Act 2023 and the Spatial Planning Act 2023.
 (3) The Minister may revoke a national planning standard in whole or in part, but must first give the public and iwi authorities notice, with adequate time and opportunity to comment on the proposed revocation.
 (4) The revocation of the whole or part of a national planning standard does not have the effect of revoking any provision of a plan included at the direction of, or in reliance on, a revoked provision of the national planning standard.
 (5) A change to or revocation of a national planning standard is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
@@ -3018,6 +3009,9 @@ Each specified territorial authority may, if it considers it appropriate to do s
 (8) A provision of a policy statement or plan, or the policy statement or plan, as the case may be, does not cease to be operative because the provision, statement, or plan is due for review or is being reviewed under this section.
 (9) The obligations on a local authority under this section are in addition to its duty to monitor under section 35.
 
+### 79A Local authority not required to commence full plan review after Natural and Built Environment Act 2023 receives Royal assent
+Despite section 79 or any other provision of this Act, a local authority is not required to commence a full review of a regional or district plan on and from the day after the date that the Natural and Built Environment Act 2023 receives the Royal assent.
+
 ### 79AA Application of temporary provisions in respect of section 79
 (1) The temporary provisions set out in subsections (2) and (3) apply instead of section 79(1) during the period—
   (a) beginning on the commencement date; and
@@ -3076,14 +3070,13 @@ Each specified territorial authority may, if it considers it appropriate to do s
 ### 80A Freshwater planning process
 (1) The purpose of this subpart is to require all freshwater planning instruments prepared by a regional council to undergo the freshwater planning process.
 (2) A freshwater planning instrument means—
-  (a) a proposed regional plan or regional policy statement for the purpose of giving effect to any national policy statement for freshwater management:
-  (b) a proposed regional plan or regional policy statement that relates to freshwater (other than for the purpose described in paragraph (a)):
-  (c) a change or variation to a proposed regional plan or regional policy statement if the change or variation—
-    (i) is for the purpose described in paragraph (a); or
-    (ii) otherwise relates to freshwater.
-(3) A regional council must prepare a freshwater planning instrument in accordance with this subpart and Part 4 of Schedule 1. However, if the council is satisfied that only part of the instrument relates to freshwater, the council must—
-  (a) prepare that part in accordance with this subpart and Part 4 of Schedule 1; and
-  (b) prepare the parts that do not relate to freshwater in accordance with Part 1 of Schedule 1 or, if applicable, subpart 5 of this Part.
+  (a) any part of a proposed regional plan or regional policy statement that relates to objectives that give effect to the national policy statement for freshwater management:
+  (b) any provisions of a proposed regional plan or regional policy statement in relation to which the regional council has decided to use the freshwater planning process under subsection (6B)﻿(b):
+  (c) any regional policy statement (including any change or variation to the statement) in relation to which the council has decided to use the freshwater planning process under subsection (6B)﻿(c):
+  (d) any change or variation to a proposed regional plan or regional policy statement if the change or variation—
+    (i) relates to objectives that give effect to the national policy statement for freshwater management; or
+    (ii) relates to a provision described in paragraph (b).
+(3) A regional council must prepare a freshwater planning instrument in accordance with this subpart and Part 4 of Schedule 1.
 (4) A regional council must—
   (a) publicly notify the freshwater planning instrument; and
   (b) if the purpose of the freshwater planning instrument is to give effect to the National Policy Statement for Freshwater Management 2020, publicly notify the freshwater planning instrument by 31 December 2024; and
@@ -3102,6 +3095,13 @@ Each specified territorial authority may, if it considers it appropriate to do s
   (a) clauses 1(3), 1A, 1B, 2(1), 3 to 3C, 4A, 5, 6, 7(1) and (2), 8, 8A, and 8D; and
   (b) clauses 16, 16A, 16B, 17, 20, and 20A; and
   (c) if a request is made by a person under clause 21(1) in relation to a freshwater planning instrument, Part 2 of Schedule 1 applies to the request.
+(6A) A proposed regional plan or regional policy statement (or any part of it) relates to freshwater if—
+  (a) it relates (in whole or in part) to an objective of the regional plan or regional policy statement; and
+  (b) the objective relates to the performance of a function in section 30(1)﻿(c), (e), (f), (fa), (g), or (ga).
+(6B) A regional council—
+  (a) must use the freshwater planning process when preparing any part of a regional plan or regional policy statement that relates to objectives that give effect to the national policy statement for freshwater management; and
+  (b) may use the freshwater planning process when preparing other provisions of a regional plan or regional policy statement that relate to freshwater; and
+  (c) may use the freshwater planning process when preparing a regional policy statement or change or variation to the statement if the council is satisfied that doing so is necessary to achieve integrated management of the natural and physical resources of the whole region.
 (7) This section does not affect the Minister’s ability to call in a matter that the Minister considers is or is part of a proposal of national significance under section 142.
 (8) In subsection (2), a proposed regional plan does not include a proposed regional coastal plan or a change or variation to that plan.
 (9) Section 37(1)﻿(a) does not apply to any time period specified in this subpart or Part 4 of Schedule 1.
@@ -3339,6 +3339,12 @@ A policy statement or plan that is held out by a local authority as being operat
 
 ### 85A Plan or proposed plan must not include certain rules
 A plan or proposed plan must not include a rule that describes an activity as a permitted activity if that activity will, or is likely to, have an adverse effect that is more than minor on a protected customary right carried out under Part 3 of the Marine and Coastal Area (Takutai Moana) Act 2011.
+
+### 85AA Plan must be updated to reflect changes to aquaculture settlement area
+If a notice issued under section 12 of the Maori Commercial Aquaculture Claims Settlement Act 2004 declares space in the coastal marine area to be an aquaculture settlement area or adds or removes space from an aquaculture settlement area, a regional council must—
+  (a) amend any aquaculture settlement area shown on the plan to reflect any new aquaculture settlement areas or changes to existing areas made by the notice; and
+  (b) make the amendment as soon as practicable after the notice is issued; and
+  (c) make the amendment without using the process set out in Schedule 1.
 
 ### 85B Process to apply if plan or proposed plan does not comply with section 85A
 (1) If a protected customary rights group considers that a rule in a plan or proposed plan does not comply with section 85A, the holder may—
@@ -3683,6 +3689,10 @@ The consent authority that would have determined the application had the Environ
 (6) If a joint application is made under subsection (1A), the application to exchange recreation reserve land must be—
   (a) processed, with the resource consent application, in accordance with sections 88 to 88F, 91(1) and (2), 91A to 92B, 95, 95A(2), and 96 to 103B; then
   (b) decided under section 15AA of the Reserves Act 1977.
+(7) If a person applies for a resource consent relating to an area where an applicant group seeks customary marine title,—
+  (a) the person must comply with section 62A of the Marine and Coastal Area (Takutai Moana) Act 2011 (which requires the person to notify applicant groups, provide a list of the groups notified, and record their views); and
+  (b) the application must be treated as incomplete if this is not done.
+(8) In this section, applicant group has the meaning given to it by section 9(1) of the Marine and Coastal Area (Takutai Moana) Act 2011.
 
 ### 88A Description of type of activity to remain the same
 (1) Subsection (1A) applies if—
@@ -6172,8 +6182,10 @@ A regional coastal plan or proposed regional coastal plan may provide for a rule
 (1) If a regional coastal plan includes a rule that provides for public tendering or another method of allocating authorisations, the regional council must, by public notice and in accordance with the rule, offer authorisations for coastal permits for the occupation of space in the common marine and coastal area.
 (2) Subsection (1) applies subject to—
   (a) subsection (3); and
-  (b) any Order in Council made under section 165K.
+  (b) any Order in Council made under section 165K; and
+  (c) subsection (4).
 (3) A regional council must give the Minister not less than 4 months' notice before making an offer of authorisations under subsection (1).
+(4) If a regional coastal plan includes a rule that provides for public tendering or another method of allocating authorisations and the Minister of Aquaculture is identified as the decision maker as a result of an amendment to the regional coastal plan by regulations under section 360A, the Minister of Aquaculture must, by public notice and in accordance with the rule, offer authorisations for coastal permits for the occupation of space in the common marine and coastal area.
 
 ### 165J When applications not to be made unless applicant holds authorisation in accordance with plan
 (1) Subsection (2) applies to space in the common marine and coastal area if a regional coastal plan or a rule in a proposed regional coastal plan that has legal effect provides for public tendering or another method of allocating authorisations in relation to an activity in the space.
@@ -6347,7 +6359,7 @@ A regional coastal plan or proposed regional coastal plan may provide for a rule
   (b) an appeal has been lodged and the court has given its decision on the appeal.
 
 ### 165U Public notice of offer of authorisations by regional council
-(1) A notice given under section 165I or 165P(1) must—
+(1) A notice given under section 165I(1) or 165P(1) must—
   (a) specify the activities that the authorisation will apply to after it is issued; and
   (b) describe the space in the common marine and coastal area that offers for authorisations are invited for, including the size and location of the space; and
   (c) subject to sections 123 and 123A, specify the maximum term of the coastal permit; and
@@ -6365,6 +6377,23 @@ A regional coastal plan or proposed regional coastal plan may provide for a rule
   (b) specify whether or not there is a reserve price.
 (4) This section applies subject to an Order in Council made under section 165K.
 
+### 165UA Public notice of offer of authorisations by Minister of Aquaculture
+(1) A notice given under section 165I(4) must—
+  (a) specify the activities that the authorisation will apply to after it is issued; and
+  (b) describe the space in the common marine and coastal area that offers for authorisations are invited for, including the size and location of the space; and
+  (c) subject to sections 123 and 123A, specify the maximum term of the coastal permit; and
+  (d) specify the closing date for offers; and
+  (e) specify the criteria that the Minister will apply in selecting successful offers for authorisations; and
+  (f) specify the manner in which offers for authorisations must be submitted; and
+  (g) specify any charge payable under section 36(1)﻿(ca); and
+  (h) specify any other matter that the Minister considers appropriate in the circumstances.
+(2) A notice may specify conditions on which the authorisation will be granted, including—
+  (a) a date earlier than 2 years from the date of its granting on which the authorisation will lapse; and
+  (b) restrictions on the transfer of authorisations.
+(3) If an offer of authorisations is to be by tender, the notice must also—
+  (a) specify the form of remuneration required, whether all by advance payment, or by deposit and annual rental payments; and
+  (b) specify whether there is a reserve price.
+
 ### 165V Requirements for offers for authorisations
 (1) An offer for an authorisation must specify—
   (a) the activity or range of activities in respect of which the authorisation is sought; and
@@ -6380,7 +6409,7 @@ A regional coastal plan or proposed regional coastal plan may provide for a rule
 
 ### 165W Preferential rights of iwi
 (1) In conducting a tender of authorisations under this Part, a regional council must give effect to any preferential right to purchase a proportion of the authorisations.
-(2) Subsection (1) applies to preferential rights conferred by—
+(2) Subsections (1) and (4) applies to preferential rights conferred by—
   (a) section 316 of the Ngāi Tahu Claims Settlement Act 1998:
   (b) section 119 of the Ngati Ruanui Claims Settlement Act 2003:
   (c) section 79 of the Ngati Tama Claims Settlement Act 2003:
@@ -6388,6 +6417,8 @@ A regional coastal plan or proposed regional coastal plan may provide for a rule
   (e) section 118 of the Ngāti Awa Claims Settlement Act 2005:
   (f) section 92 of the Ngāti Mutunga Claims Settlement Act 2006.
 (3) For the purposes of subsection (1), provisions in the Acts referred to in subsection (2) relating to a preferential right that contain references to the Minister of Conservation or Part 7 of this Act apply as if the references were to the regional council and relevant provisions of this Part.
+(4) In conducting a tender of authorisations under this Part, the Minister of Aquaculture must give effect to any preferential right to purchase a proportion of authorisations.
+(5) For the purposes of subsection (4), provisions in the Acts referred to in subsection (2) relating to a preferential right that refer to the Minister of Conservation or Part 7 of this Act apply as if the references were to the Minister of Aquaculture and relevant provisions of this Part.
 
 ### 165X Acceptance of offer for authorisations
 (1) After considering the offers for authorisations in accordance with the criteria specified under section 165U, the regional council may—
@@ -6398,9 +6429,13 @@ A regional coastal plan or proposed regional coastal plan may provide for a rule
 (2) If the offer of authorisations is a tender, the regional council may accept any tender or negotiate with any tenderer, whether or not the tender was the highest received.
 (3) As soon as practicable after deciding to accept an offer for an authorisation or to reject all offers or after reaching an agreement, the regional council must give written notice of the decision and the reasons for it to every person who made an offer.
 (4) If an offer is accepted or an agreement is reached, the notice under subsection (3) must include details of the name of the person who made the offer and the nature of the activity that the offer or agreement relates to.
+(5) For the purposes of offers of authorisations where a public notice has been issued under section 165I(4), this section applies as if the references to a regional council were references to the Minister of Aquaculture.
 
 ### 165Y Grant of authorisation
 If the regional council accepts an offer or reaches an agreement with a person who made an offer under section 165X, the regional council must grant an authorisation to the person concerned.
+
+### 165YA Grant of authorisation
+If the Minister of Aquaculture accepts an offer or reaches an agreement with a person who made an offer under section 165X, the Minister must direct the relevant regional council to grant an authorisation to the person concerned.
 
 ### 165Z Tender money
 (1) If the holder of an authorisation obtains a coastal permit authorising the holder to undertake an activity in respect of which the authorisation was granted, the regional council must forward to the Minister 50% of the remuneration received under the tender.
@@ -6414,39 +6449,39 @@ The regional council must apply its share of the remuneration to achieving the p
 **Ministerial powers in relation to applications for coastal permits to undertake aquaculture activities in common marine and coastal area**
 
 ### 165ZB Regional council may request suspension of applications to occupy common marine and coastal area for purposes of aquaculture activities
-(1) This section applies if—
-  (a) a regional council has identified actual or anticipated high demand or competing demands for coastal permits for occupation of space in a common marine and coastal area for the purpose of aquaculture activities; and
-  (b) in the regional council's opinion—
-    (i) the provisions of a regional coastal plan will not enable it to manage effectively the identified demands; and
-    (ii) it is desirable that applications for coastal permits for occupation of space in a common marine and coastal area for the purpose of aquaculture activities be suspended to enable the regional council to amend its regional coastal plan or to use other measures available under this subpart to deal with the identified demands.
-(2) The regional council may request the Minister of Aquaculture to suspend the receipt of applications for coastal permits to occupy the space for the purpose of aquaculture activities.
-(3) A request under subsection (2) must—
+(1) A regional council may request the Minister of Aquaculture to suspend receipt of applications for coastal permits to occupy space in a common marine and coastal area for the purpose of aquaculture activities if—
+  (a) the council has identified actual or anticipated high demand or competing demands for those permits and considers that—
+    (i) the provisions of the plan will not enable it to manage the demand effectively; and
+    (ii) the suspension is desirable to enable it to amend the plan or to use other measures available under the Act to deal with the demand; or
+  (b) the council identifies an actual or emerging biosecurity concern relating to aquaculture activities and considers that—
+    (i) the provisions of a plan will not enable it to manage effectively the biosecurity concern; and
+    (ii) the suspension is desirable to enable the plan to be amended or other measures available under this Act or other legislation to be used to manage the biosecurity concern.
+(2) A request under subsection (1) must—
   (a) specify—
     (i) the space in the common marine and coastal area it is proposed the suspension will apply to; and
     (ii) the aquaculture activities that it is proposed the suspension will apply to; and
-    (iii) the planning or other measure that the council proposes to implement to deal with the identified demand; and
+    (iii) the planning or other measure that the council proposes to implement to deal with the identified demand or biosecurity concern; and
     (iv) the proposed duration of the suspension, which must be not more than 12 months; and
-  (b) be accompanied by information about the actual or anticipated high demand or competing demands for coastal permits for occupation of the space for the purposes of the aquaculture activities covered by the request.
-(4) A regional council must—
-  (a) give public notice of a request under subsection (2) on the day the request is made or as soon as practicable after the request is made; and
+  (b) be accompanied by information about the actual or anticipated high demand or competing demands for coastal permits for occupation of the space for the purposes of the aquaculture activities or biosecurity concern covered by the request.
+(3) A regional council must—
+  (a) give public notice of a request under subsection (1) on the day the request is made or as soon as practicable after the request is made; and
   (b) give notice of the request to the Environmental Protection Authority.
-(5) A public notice under subsection (4) must include—
-  (a) the matters specified in subsection (3)﻿(a); and
+(4) A public notice under subsection (3) must include—
+  (a) the matters specified in subsection (2)﻿(a); and
   (b) a statement to the effect of section 165ZC(2) and (3).
-(6) To avoid doubt, this section may apply in relation to an aquaculture activity, 1 or more classes of aquaculture activities, or all aquaculture activities.
 
 ### 165ZC Effect on applications of request under section 165ZB
-(1) Subsection (2) applies if a regional council has made a request under section 165ZB(2).
-(2) A person must not apply for a coastal permit to occupy any space that is the subject of the request for the purpose of an aquaculture activity in the request during the period commencing on the day on which public notice of the request is given under section 165ZB(4)﻿(a), and ending on,—
+(1) Subsection (2) applies if a regional council has made a request under section 165ZB(1).
+(2) A person must not apply for a coastal permit to occupy any space that is the subject of the request for the purpose of an aquaculture activity in the request during the period commencing on the day on which public notice of the request is given under section 165ZB(3)﻿(a), and ending on,—
   (a) if the request is declined, the day on which the regional council publicly notifies under section 165ZD(6) that the request has been declined; or
   (b) if the request is granted, the date on which the Gazette notice issued by the Minister of Aquaculture under section 165ZD in response to the request expires.
 (3) Neither this section nor section 165ZD affects—
-  (a) any application received by the regional council before the request was made under section 165ZB(2):
+  (a) any application received by the regional council before the request was made under section 165ZB(1):
   (b) any application to which section 165ZH applies:
   (c) any application made in accordance with an authorisation.
 
-### 165ZD Minister of Aquaculture may suspend applications to occupy the common marine and coastal area for the purposes of aquaculture activities
-(1) If the Minister of Aquaculture receives a request under section 165ZB(2), the Minister—
+### 165ZD Minister of Aquaculture may suspend applications to occupy common marine and coastal area for purposes of aquaculture activities
+(1) If the Minister of Aquaculture receives a request under section 165ZB(1), the Minister—
   (a) must consult the Minister of Conservation; and
   (b) may—
     (i) consult any other person whom the Minister considers it appropriate to consult; and
@@ -6454,33 +6489,70 @@ The regional council must apply its share of the remuneration to achieving the p
   (c) must, within 25 working days after receiving the request,—
     (i) approve the request by notice in the Gazette—
       (A) on the terms specified by the regional council in the request; or
-      (B) on terms that in the Minister’s opinion will better manage the actual or anticipated high demand or competing demands in the space; or
+      (B) on terms that in the Minister’s opinion will better manage the actual or anticipated high demand or competing demands in the space or biosecurity concerns; or
     (ii) decline the request.
 (2) A failure to comply with the time limit in subsection (1)﻿(c) does not prevent the Minister from making a decision on the request.
 (3) Any period of consultation under subsection (1)﻿(b)﻿(i) is excluded from the period specified in subsection (1)﻿(c).
-(4) The Minister must not approve the request unless he or she considers that—
-  (a) there is actual or likely high demand or competing demands for coastal permits for occupation of the space for the purpose of the aquaculture activities that the request applies to; and
-  (b) the planning or other measure that the council proposes to implement, or any modified terms determined by the Minister will—
-    (i) effectively manage the high demand or competing demands identified under paragraph (a); and
-    (ii) be implemented within a time frame that is, in the Minister’s opinion, reasonable.
+(4) The Minister must not approve the request unless they consider that—
+  (a) there is actual or likely high demand or competing demands for coastal permits for occupation of the space for the purpose of the aquaculture activities that the request applies to; or
+  (b) there are actual or emerging biosecurity concerns relating to aquaculture activities; and
+  (c) the planning or other measure that the council proposes to implement, or any modified terms determined by the Minister will—
+    (i) effectively manage the high demand or competing demands identified under paragraph (a); or
+    (ii) effectively manage the biosecurity concern; and
+    (iii) be implemented within a time frame that is, in the Minister’s opinion, reasonable.
 (5) A Gazette notice under subsection (1)﻿(c)﻿(i) must specify—
   (a) the space and aquaculture activities that the suspension on applications will apply to; and
   (b) the date the notice expires, which must not be more than 12 months after the date of the Gazette notice.
-(6) If the Minister declines a request made under section 165ZB(2),—
+(6) If the Minister declines a request made under section 165ZB(1),—
   (a) the Minister must notify the regional council of the decision to decline the request; and
   (b) the regional council must, as soon as practicable after receiving notice under paragraph (a), publicly notify that—
     (i) the request was declined; and
     (ii) applications may be made for coastal permits to occupy any space for any aquaculture activity that was the subject of the request.
-(7) The Minister must notify the Minister of Conservation and the Environmental Protection Authority of a decision to issue a Gazette notice, or to decline a request for a suspension on receipt of applications.
+(7) The Minister must notify the Minister of Conservation and the Environmental Protection Authority of a decision to issue a Gazette notice or to decline a request for a suspension on receipt of applications.
+
+### 165ZDA Minister of Aquaculture may suspend applications to occupy common marine and coastal area for purposes of aquaculture activities on own initiative
+(1) The Minister of Aquaculture may, at their own initiative, suspend receipt of applications for coastal permits to occupy space in a common marine and coastal area for the purpose of aquaculture activities if the Minister—
+  (a) has identified actual or anticipated high demand or competing demands for coastal permits for occupation of space in a common marine and coastal area for the purpose of aquaculture activities and considers that—
+    (i) the provisions of the operative plan will not enable the demand to be managed effectively; and
+    (ii) the suspension is desirable—
+      (A) to enable the operative plan to be amended or for other measures available under this Act to be used to manage the demand; or
+      (B) for the Minister to use other measures available under the Maori Commercial Aquaculture Claims Settlement Act 2004 for the purpose of upholding the Crown’s settlement obligations under that Act in the region; or
+  (b) has identified an actual or emerging biosecurity concern relating to aquaculture activities and considers that—
+    (i) the provisions of the operative plan will not enable the biosecurity concern to be managed effectively; and
+    (ii) the suspension is desirable to enable the operative plan to be amended or for other measures available under this Act or other legislation to be used to manage the biosecurity concern.
+(2) The Minister must consult the regional council and Minister of Conservation, and may consult any other person the Minister considers it appropriate to consult.
+(3) The Minister must issue the suspension by notice in the Gazette, which must specify—
+  (a) the space and aquaculture activities that the suspension on applications will apply to; and
+  (b) the date the notice expires, which must not be more than 12 months after the date of the Gazette notice.
+(4) To avoid doubt, this section may apply in relation to an aquaculture activity, 1 or more classes of aquaculture activities, or all aquaculture activities.
+
+### 165ZDB Effect on applications of suspension under section 165ZDA
+(1) A person must not apply for a coastal permit to occupy any space that is the subject of a Gazette notice issued by the Minister of Aquaculture under section 165ZDA for the purpose of an aquaculture activity during the period commencing on the day on which the Gazette notice is issued and ending on the date on which the Gazette notice expires.
+(2) Neither this section nor section 165ZDA affects—
+  (a) any application received by the regional council before the Gazette notice was issued by the Minister of Aquaculture under section 165ZDA:
+  (b) any application to which section 165ZH applies:
+  (c) any application made in accordance with an authorisation.
 
 ### 165ZE Subsequent requests for direction in relation to suspension of receipt of applications
-(1) The Minister of Aquaculture may issue a further Gazette notice under section 165ZD before the expiry of a notice issued under that section if—
-  (a) a request for a further suspension on the receipt of applications is made by a regional council under section 165ZB; and
-  (b) the Minister considers that—
+(1) The Minister of Aquaculture may issue a further Gazette notice under section 165ZD before the expiry of a notice issued under that section if the regional council requests a further suspension on receipt under section 165ZB and—
+  (a) the Minister considers that—
     (i) there remains actual or likely high demand or competing demands for coastal permits to occupy the space for the relevant activity or activities; and
     (ii) the regional council does not have in place planning or other measures that will satisfactorily manage the high demand or competing demands; and
-    (iii) the Minister is satisfied that more time is needed to put in place plan provisions to deal with the demand.
+    (iii) the Minister is satisfied that more time is needed to put in place plan provisions to deal with the demand; or
+  (b) the Minister considers that—
+    (i) there remains an actual or emerging biosecurity concern relating to aquaculture activities; and
+    (ii) the regional council does not have in place planning or other measures that will satisfactorily manage the biosecurity concern; and
+    (iii) the Minister is satisfied that more time is needed to put in place plan provisions or other measures to deal with the biosecurity concern.
 (2) Sections 165ZB to 165ZD apply with any necessary modifications to a request for a further suspension of receipt of applications.
+(3) The Minister of Aquaculture may issue a further Gazette notice under section 165ZDA before the expiry of a notice issued under that section if—
+  (a) the Minister considers that—
+    (i) there remains actual or likely high demand or competing demands for coastal permits to occupy the space for the relevant activity or activities; and
+    (ii) planning or other measures are not in place that will satisfactorily manage the high demand or competing demands; and
+    (iii) the Minister is satisfied that more time is needed to put in place plan provisions or other measures to deal with the demand; or
+  (b) the Minister considers that—
+    (i) there remains an actual or emerging biosecurity concern relating to aquaculture activities; and
+    (ii) planning or other measures are not in place that will satisfactorily manage the biosecurity concern; and
+    (iii) the Minister is satisfied that more time is needed to put in place plan provisions or other measures to deal with the biosecurity concern.
 
 **Ministerial power to direct applications for coastal permits to undertake aquaculture activities in common marine and coastal area to be processed and heard together**
 
@@ -7869,11 +7941,12 @@ In this Part, unless the context otherwise requires,—
     (e) crops grown for seed multiplication:
     (f) a crop prescribed in regulations made under section 217M(1)﻿(a)
   - **auditor** means a person who—
-    (a) is appointed under section 217K; and
+    (a) is appointed under section 217K or by an approved industry organisation; and
     (b) meets the criteria prescribed in regulations made under section 217M(1)﻿(h)
+  - **certification and audit services** means the services prescribed for the purposes of section 217KA in regulations (if any) prescribed under section 217M
   - **certified freshwater farm plan** means a freshwater farm plan certified under section 217G, as amended from time to time in accordance with section 217E(2) or (3)
   - **certifier** means a person who—
-    (a) is appointed under section 217K; and
+    (a) is appointed under section 217K or by an approved industry organisation; and
     (b) meets the criteria prescribed in regulations made under section 217M(1)﻿(h)
   - **farm** means a farm where all or part of the farm is—
     (a) arable land use; or
@@ -7886,7 +7959,10 @@ In this Part, unless the context otherwise requires,—
   - **pastoral land use** means the use of land for the grazing of livestock
   - **regulations** means regulations made under section 217M
   - **relevant regional council** means the regional council (as defined in section 2) in whose jurisdiction the farm is located
-  - **specified instrument** means any designation, national environmental standard, national planning standard, regulations made under Part 14, resource consent, rule in a plan, or water conservation order.
+  - **specified instrument** means any designation, national environmental standard, national planning standard, regulations made under Part 14, resource consent, rule in a plan, or water conservation order
+  - **statutory land use area threshold** ,—
+    (a) in relation to a land use described in any of paragraphs (a), (b), (c), and (e) of section 217D(1), means the area specified in that section for that land use:
+    (b) in relation to the land use described in section 217D(1)﻿(d), means the area prescribed in regulations made under section 217M for that land use.
 
 ### 217C Application of this Part
 (1) This Part applies only—
@@ -7895,7 +7971,10 @@ In this Part, unless the context otherwise requires,—
 (2) The Governor-General may, by Order in Council, on the recommendation of the Minister, determine—
   (a) that this Part applies to a specified district, region, or part of New Zealand; and
   (b) the date on which this Part applies to that district, region, or part of New Zealand.
-(3) Before making a recommendation under subsection (2), the Minister must—
+(2A) The Governor-General may, by Order in Council, on the recommendation of the Minister, in relation to a region, district, or part of New Zealand to which this Part applies,—
+  (a) disapply a statutory land use area threshold; or
+  (b) disapply a statutory land use area threshold and prescribe a higher land use area threshold in its place.
+(3) Before making a recommendation under subsection (2) or (2A), the Minister must—
   (a) be satisfied that regulations are necessary to achieve the purpose of this Part in the specified district, region, or part of New Zealand; and
   (b) consult the Minister of Agriculture.
 (4) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
@@ -7907,6 +7986,9 @@ In this Part, unless the context otherwise requires,—
   (c) 20 or more hectares of the farm is pastoral land use; or
   (d) a prescribed area of the farm is other agricultural land use prescribed in regulations made under section 217M(1)﻿(b); or
   (e) 20 or more hectares of the farm is a combination of any 2 or more of the land uses described above.
+(1A) However,—
+  (a) if an order made under section 217C(2A)﻿(a) disapplies a statutory land use area threshold, a farm is not subject to that threshold; and
+  (b) if an order made under section 217C(2A)﻿(b) disapplies a statutory land use area threshold and prescribes a higher land use area threshold in its place, a farm is subject to the higher threshold.
 (2) A certified freshwater farm plan applies to the entire farm.
 
 ### 217E Main duties of farm operators
@@ -7966,6 +8048,7 @@ A freshwater farm plan must—
   (a) to enforce the observance of the requirements of this Part and regulations to the extent that their powers under this Act enable them to do so; and
   (b) to monitor compliance by farm operators with their duties under this Part and with any requirements in regulations; and
   (c) to receive notifications of freshwater farm plans that have been certified; and
+  (ca) to appoint certifiers and auditors under section 217K; and
   (d) to receive audit reports and related notifications from auditors.
 (2) A regional council may require a farm operator to produce a certified freshwater farm plan for inspection.
 
@@ -7981,6 +8064,14 @@ A regional council must keep and maintain, in relation to each farm in its juris
   (a) appoint 1 or more certifiers; and
   (b) appoint 1 or more auditors.
 (2) A regional council may make an appointment under this section only if satisfied that criteria prescribed in regulations have been met.
+
+### 217KA Regional council may approve industry organisation to provide certification or audit services
+(1) A regional council may give approval to an industry organisation that applies to the council to provide certification and audit services under this Part if the council is satisfied that the organisation meets the standards issued under subsection (2).
+(2) The Minister may, by notice in the Gazette, issue standards by which industry organisations must be assessed for the purpose of determining their suitability to be an approved industry organisation.
+(3) Standards may also—
+  (a) set out the kind of organisation eligible to be approved for the purposes of this Part; and
+  (b) include content and processes to provide for compliance with the standards, for example, by requiring the industry to run training programmes and ensuring that conflicts are appropriately managed.
+(4) A regional council may request information from an approved industry organisation that the council considers reasonably necessary for carrying out their functions under section 217I.
 
 ### 217L Relationship between certified freshwater farm plan and specified instruments
 (1) A certified freshwater farm plan may contain a requirement that—
@@ -8004,6 +8095,7 @@ A regional council must keep and maintain, in relation to each farm in its juris
     (i) time frames that must be complied with by the farm operator and certifier; and
     (ii) any fees payable by the farm operator or the manner of calculating those fees:
   (f) prescribe the circumstances in which a certified freshwater farm plan must be amended and recertified:
+  (fa) prescribe requirements for approval of industry organisations under section 217KA, including any further obligations for approved industry organisations:
   (g) for the purpose of audits of farms for compliance with certified freshwater farm plans, prescribe—
     (i) the time frame by which a farm must be audited; and
     (ii) the frequency at which those audits must be carried out; and
@@ -10095,6 +10187,7 @@ Part 10 of Te Ture Whenua Maori Act 1993 shall apply to the service of notices u
   (g) in respect of the consent authority's decision on an application or review described in subsections (2) to (5), for an applicant or consent holder, if the application or review was not notified.
 (2) Subsection (1)﻿(f) and (g) apply to an application made under section 88 for a resource consent. However, they do not apply if the consent authority refuses to grant the resource consent under sections 104B and 104C. They do apply if an officer of the consent authority exercising delegated authority under section 34A refuses to grant the resource consent under sections 104B and 104C.
 (3) Subsection (1)﻿(f) and (g) apply to an application made under section 127 for a change or cancellation of a condition of a resource consent.
+(3A) Subsection (1)﻿(f) and (g) applies to a determination by a consent authority under clause 40 of Schedule 12 that the application for a resource consent is not primarily for an activity described in clause 40(3) of that schedule.
 (4) Subsection (1)﻿(f) and (g) apply to a review of the conditions of a resource consent under sections 128 to 132.
 (5) Subsection (1)﻿(f) and (g) apply to an application made under section 221 to vary or cancel a condition specified in a consent notice.
 
@@ -10243,7 +10336,9 @@ All rents, royalties, and other sums of money which the holders of resource cons
   (c) an amendment under subsection (2C).
 
 ### 360A Regulations amending regional coastal plans in relation to aquaculture activities
-(1) The Governor-General may, by Order in Council, amend provisions in a regional coastal plan that relate to the management of aquaculture activities in the coastal marine area.
+(1) The Governor-General may, by Order in Council, on the recommendation of the Minister of Aquaculture,—
+  (a) amend provisions in a regional coastal plan that relate to the management of aquaculture activities in the coastal marine area; and
+  (b) amend a regional coastal plan to establish a process for the allocation of authorisations for aquaculture activities.
 (2) An amendment made under subsection (1)—
   (a) becomes part of the operative plan as if it had been notified under clause 20 of Schedule 1; and
   (b) must not be inconsistent with, and is subject to, the other provisions of this Act (for example, subpart 1 of Part 7A); and
@@ -10251,9 +10346,18 @@ All rents, royalties, and other sums of money which the holders of resource cons
     (i) under this section; or
     (ii) in accordance with Schedule 1; or
     (iii) under any other provision of this Act.
+(2A) Regulations establishing a process for the allocation of authorisations for aquaculture activities—
+  (a) must provide for how allocation offers for those authorisations are to be decided; and
+  (b) may specify—
+    (i) that the Minister of Aquaculture is the decision maker for allocation offers made under the process; and
+    (ii) the circumstances in which the Minister must make those decisions; and
+    (iii) criteria by which the Minister must make those decisions; and
+  (c) may require the regional council to issue any aquaculture-related authorisation in respect of any allocation offer that the Minister has accepted under the process; and
+  (d) may provide for any other matter necessary for establishing or giving effect to the process.
 (3) In this section and sections 360B and 360C, amend provisions includes—
   (a) omitting provisions (whether other provisions are substituted or not):
   (b) adding provisions.
+(3A) In this section, authorisation has the same meaning as in section 165C.
 (4) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 360B Conditions to be satisfied before regulations made under section 360A
@@ -10265,6 +10369,8 @@ All rents, royalties, and other sums of money which the holders of resource cons
     (ii) other Ministers that the Minister of Aquaculture considers relevant to the proposed regulations; and
     (iii) any regional council that will be affected by the proposed regulations; and
     (iv) the public and iwi authorities in accordance with subsection (3); and
+    (v) any customary marine title group in the area covered by the plan; and
+    (vi) any applicant group as defined in section 9 of the Marine and Coastal Area (Takutai Moana) Act 2011 in the area affected by the plan; and
   (c) is satisfied that—
     (i) the proposed regulations are necessary or desirable for the management of aquaculture activities in accordance with the Government's policy for aquaculture in the coastal marine area; and
     (ii) the matters to be addressed by the proposed regulations are of regional or national significance; and
@@ -10274,7 +10380,11 @@ All rents, royalties, and other sums of money which the holders of resource cons
       (BA) a national planning standard; and
       (C) any regional policy statement; and
     (iv) the regional coastal plan as amended by the proposed regulations will not duplicate or conflict with any national environmental standard; and
-  (d) has prepared an evaluation report for the proposed regulations in accordance with section 32 and had particular regard to that report when deciding whether to recommend the making of the regulations.
+  (d) has prepared an evaluation report for the proposed regulations in accordance with section 32 and had particular regard to that report when deciding whether to recommend the making of the regulations; and
+  (e) has considered any content in a relevant planning document—
+    (i) that has been lodged under section 91A of the Marine and Coastal Area (Takutai Moana) Act 2011 or lodged with the regional council under section 86 of that Act; and
+    (ii) that the Minister considers relevant to their decision whether to recommend the making of the regulations; and
+  (f) has first had regard to how the proposed regulations may affect the preferential rights provided for in section 165W, if the proposed regulations would amend a regional coastal plan to establish a process for the allocation of authorisations for aquaculture activities.
 (3) For the purposes of subsection (2)﻿(b)﻿(iv), the Minister of Aquaculture must—
   (a) notify the public and iwi authorities of the proposed regulations; and
   (b) establish a process that—
@@ -13320,6 +13430,73 @@ In this Part,—
 ### 38 Remuneration of Environment Commissioners and Deputy Environment Commissioners
 (1) A person who immediately before the commencement date held office as an Environment Commissioner or a Deputy Environment Commissioner continues to be paid the same amount of remuneration and allowances that applied to that office immediately before that date, until new remuneration and allowances are determined by the Remuneration Authority under section 263(1)﻿(a).
 (2) In this clause, commencement date means the date on which the Remuneration Authority Legislation Act 2022 comes into force.
+
+### Part 6 — Provisions relating to Natural and Built Environment Act 2023
+
+### 38 Interpretation
+In this Part, unless the context otherwise requires,—
+  - **affected resource consent** means any of the following resource consents for the following activities under this Act:
+    (a) a water permit for an activity that takes, uses, dams, or diverts freshwater:
+    (b) a discharge permit for an activity that—
+      (i) discharges any contaminant or water into freshwater; or
+      (ii) discharges any contaminant onto or into land in circumstances that may result in that contaminant (or any other contaminant emanating as a result of natural processes from that contaminant) entering freshwater:
+    (c) a land use consent for an activity that would otherwise contravene section 15(1)﻿(b) by discharging a contaminant onto or into land in circumstances that may result in the contaminant entering freshwater
+  - **applicable interim period** , in relation to an application for an affected resource consent, means the period—
+    (a) commencing on the day after the date that the Natural and Built Environment Act 2023 receives the Royal assent; and
+    (b) ending on the date that the relevant rules for the region (in which the application is lodged) have legal effect in accordance with clause 6(4) of Schedule 1 of the Natural and Built Environment Act 2023
+  - **relevant rules** means rules in the first natural and built environment plan for a region that provide for allocation methods.
+
+### 39 Duration of affected resource consent
+(1) The duration of an affected resource consent must be determined in accordance with this clause if, during the applicable interim period,—
+  (a) an application for an affected resource consent is lodged with a consent authority; and
+  (b) the consent authority grants the application.
+(2) The consent authority may grant the affected resource consent for a fixed period or require that it expire by a fixed date but, in either case, the duration of the consent must not exceed 5 years after the date that the relevant rules have legal effect in accordance with clause 6(4) of Schedule 1 of the Natural and Built Environment Act 2023.
+(3) A consent authority must, no later than 10 working days after receiving an application for an affected resource consent, notify the applicant whether clauses 38 to 40 are relevant to their application.
+(4) Subclause (3) does not apply if the consent authority determines under section 88(3) that the application is incomplete and returns it to the applicant in accordance with section 88(3A).
+
+### 40 When clause 39 does not affect duration of resource consent
+(1) Clause 39 does not affect the duration of an affected resource consent if—
+  (a) a person (regardless of whether they are a holder of an affected resource consent)—
+    (i) applies, during the applicable interim period, for an affected resource consent (or an affected resource consent for the same activity applied for in accordance with section 124); and
+    (ii) seeks, as part of their resource consent application, a determination from the consent authority that clause 39 does not affect the duration of the consent; and
+    (iii) demonstrates that the application is primarily for an activity described in subclause (3); and
+  (b) the consent authority determines that clause 39 does not affect the duration of the consent after being satisfied that the application is primarily for an activity described in subclause (3).
+(2) If subclause (1)﻿(b) applies, the consent authority must determine the duration of the affected resource consent in accordance with sections 104 and 123.
+(3) The activities referred to in subclause (1)﻿(a)﻿(iii) and (b) are as follows:
+  (a) the construction, operation, upgrading, or maintenance of local authority or community reticulated water supply networks:
+  (b) the construction, operation, upgrading, and maintenance of infrastructure that forms part of a public wastewater or stormwater network:
+  (c) the operation, upgrading, or maintenance of any hydro-electricity generation scheme that exists on the day after the date that the Natural and Built Environment Act 2023 receives the Royal assent:
+  (d) the construction, operation, upgrading, or maintenance of any of the following infrastructure activities:
+    (i) State highways:
+    (ii) the high-pressure gas transmission pipeline network operating in the North Island:
+    (iii) the national grid electricity transmission network or local distribution network:
+    (iv) the New Zealand rail network (including light rail):
+    (v) renewable electricity generation facilities, excluding any hydro-electricity generation facility, that connect directly to the national grid electricity transmission network or that connect to a local distribution network:
+    (vi) any airport used for regular air transport services by aeroplanes capable of carrying more than 30 passengers:
+    (vii) port facilities of each port company referred to in item 6 of Part A of Schedule 1 of the Civil Defence Emergency Management Act 2002:
+    (viii) infrastructure that forms part of a public telecommunications network:
+  (e) replacement, repair, or removal activities for the purpose of an activity described in paragraphs (a) to (d):
+  (f) an activity specified in an Order in Council made under this clause.
+(4) The activities described in subclause (3)﻿(d)﻿(vi) and (vii) do not include any ancillary commercial activity or facilities for that activity.
+(5) The Governor-General may, on the recommendation of the Minister, make regulations specifying further infrastructure activities that are not affected by clause 39.
+(6) Before making a recommendation under subclause (5), the Minister must be satisfied that the activity is—
+  (a) an infrastructure activity that has regional or national significance; or
+  (b) an activity that is associated with an activity described in paragraph (a); or
+  (c) the construction, operation, upgrading, and maintenance of water storage facilities for the purpose of improving outcomes related to resilience to environmental change or climate change.
+(7) Regulations made under this clause are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+
+### 41 Public notification of applications for affected resource consent for same activity precluded
+(1) During the applicable interim period, a consent authority must not give public notification of an application for an affected resource consent if—
+  (a) clause 39 would affect the duration of the consent if the application were granted; and
+  (b) the application is for the same activity to which an application under section 124 relates.
+(2) To avoid doubt, subclause (1)—
+  (a) applies despite any provision of this Act or any rule in a national environmental standard or regional plan; and
+  (b) does not prevent a consent authority from giving limited notification of the affected resource consent.
+(3) However, this clause does not apply if an applicant for an affected resource consent requests that the consent authority give public notification of the application.
+
+### 42 Submitters’ appeal rights restricted for limited notified affected resource consent application
+(1) This section applies to a person who made a submission on a limited notified application for an affected resource consent the duration of which has been determined in accordance with clause 39(2).
+(2) The person may not, despite section 120(1)﻿(b), appeal against the whole or any part of a decision of a consent authority on the application, unless the Environment Court is satisfied that the person has an interest in the application that is greater than the interest that the general public has.
 
 ### 1 Title
 (1) This Act is the Resource Management Amendment Act 2003.
