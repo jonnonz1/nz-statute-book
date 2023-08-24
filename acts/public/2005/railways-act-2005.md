@@ -1,5 +1,5 @@
 # Railways Act 2005
-_Consolidation as at 2022-11-30_
+_Consolidation as at 2023-08-24_
 
 ### 1 Title
 This Act is the Railways Act 2005.
@@ -1010,7 +1010,7 @@ A decision of the Agency or the Director appealed against under section 68 or se
   (b) a danger to the environment or chattels so significant that immediate action is required to remove the danger.
 
 ### 77 Power to prevent damage to railway
-(1) Subject to the provisions of the Resource Management Act 1991, for the purposes of protecting a railway, or preventing or lessening the risk of damage to any railway infrastructure or railway premises, a licensed access provider or railway premises owner may—
+(1) Subject to the provisions of the Natural and Built Environment Act 2023, for the purposes of protecting a railway, or preventing or lessening the risk of damage to any railway infrastructure or railway premises, a licensed access provider or railway premises owner may—
   (a) construct, maintain, alter, or reconstruct an embankment, groyne, or other protective work on any land or on the bank of a river or stream; or
   (b) divert, dam, or take away any part of the whole of the water of a river or stream, or alter the course of a river or stream; or
   (c) discontinue or abandon the work when the licensed access provider or railway premises owner thinks fit.
