@@ -1,5 +1,5 @@
 # Local Government Official Information and Meetings Act 1987
-_Consolidation as at 2023-08-23_
+_Consolidation as at 2023-08-24_
 
 > An Act to make official information held by local authorities more freely available, to provide for proper access by each person to official information relating to that person which is held by local authorities, to provide for the admission of the public to meetings of local authorities, to protect official information held by local authorities and the deliberations of local authorities to the extent consistent with the public interest and the preservation of personal privacy, and to establish procedures for the achievement of those purposes
 
@@ -97,7 +97,7 @@ Good reason for withholding official information exists, for the purpose of sect
   (b) protect information where the making available of the information—
     (i) would disclose a trade secret; or
     (ii) would be likely unreasonably to prejudice the commercial position of the person who supplied or who is the subject of the information; or
-  (ba) in the case only of an application for a resource consent, or water conservation order, or a requirement for a designation or heritage order, under the Resource Management Act 1991, to avoid serious offence to tikanga Maori, or to avoid the disclosure of the location of waahi tapu; or
+  (ba) in the case only of an application for a resource consent, or water conservation order, or a requirement for a designation or heritage protection order, under the Natural and Built Environment Act 2023, to avoid serious offence to tikanga Maori, or to avoid the disclosure of the location of waahi tapu; or
   (c) protect information which is subject to an obligation of confidence or which any person has been or could be compelled to provide under the authority of any enactment, where the making available of the information—
     (i) would be likely to prejudice the supply of similar information, or information from the same source, and it is in the public interest that such information should continue to be supplied; or
     (ii) would be likely otherwise to damage the public interest; or
@@ -523,16 +523,14 @@ Except as expressly provided in this Act, nothing in this Act shall derogate fro
       (iii) any function, duty, or power is conferred or imposed on that committee or subcommittee by any enactment; or
       (iv) that committee or subcommittee is empowered to exercise or perform, on behalf of any local authority or any committee of any local authority, any function, duty, or power conferred or imposed on any local authority, or on any committee of any local authority, by or under any enactment or bylaw
   - **minutes** , in relation to any meeting of any local authority, means any minutes or other record of the proceedings of any such meeting.
-(1A) Despite subsection (1), meeting, in relation to a local authority that is a board of inquiry, special tribunal, or freshwater hearings panel given authority to conduct hearings under section 149J or 202 or clause 58 of Schedule 1 of the Resource Management Act 1991 is limited to any hearing that—
-  (a) the board or tribunal holds under section 149L or 206 of the Resource Management Act 1991; and
-  (b) the freshwater hearings panel holds under clause 39 of Schedule 1 of that Act.
+(1A) Despite subsection (1), meeting, in relation to a local authority that is a board of inquiry or special tribunal given authority to conduct hearings under section 367 and clause 75 of Schedule 10 of the Natural and Built Environment Act 2023, is limited to any hearing that the board or tribunal holds under either of those provisions of that Act.
 (2) For the avoidance of doubt, it is hereby declared that any meeting of a local authority or of any committee or subcommittee of a local authority, at which no resolutions or decisions are made is not a meeting for the purposes of this Part.
 
 ### 45A Application of this Part to certain local authorities
 The only provisions of this Part that apply to the following local authorities are sections 48 and 53:
-  (a) a board of inquiry given authority to conduct hearings under section 149J of the Resource Management Act 1991; and
-  (b) a special tribunal given authority to conduct hearings under section 202 of the Resource Management Act 1991; and
-  (c) a freshwater hearings panel given authority to conduct hearings under clause 58 of Schedule 1 of the Resource Management Act 1991.
+  (a) a board of inquiry given authority to conduct hearings under clause 75 of Schedule 10 of the Natural and Built Environment Act 2023; and
+  (b) a special tribunal given authority to conduct hearings under section 367 of the Natural and Built Environment Act 2023; and
+  (c)
 
 ### 46 Meetings of local authorities to be publicly notified
 (1) Subject to subsection (2), every local authority shall, not more than 14 days and not less than 5 days before the end of every month, cause to be publicly notified a list of all meetings of that local authority scheduled to be held in the following month, together with the dates on which, and the times and places at which, those meetings are to be held.
@@ -710,4 +708,4 @@ Any provisions in any enactment in relation to attendance by the public at any m
 In this schedule, amendment Act means the Local Government Official Information and Meetings Amendment Act 2013, which amends this Act.
 
 ### 2 Application of amendments to boards of inquiry and special tribunals
-The amendments made by the amendment Act apply to a board of inquiry appointed under section 149J of the Resource Management Act 1991, or to a special tribunal appointed under section 202 of that Act, whether appointed before or after the commencement of the amendments.
+The amendments made by the amendment Act apply to a board of inquiry appointed under clause 75 of Schedule 10 of the Natural and Built Environment Act 2023, or to a special tribunal appointed under section 367 of that Act, whether appointed before or after the commencement of the amendments.
