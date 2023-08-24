@@ -72,7 +72,7 @@ After section 134, insert:Penalty for failing to surrender or repay units by due
     (e) sets out the following in relation to the EPA’s decision under subsection (6):
       (i) the particulars of the decision:
       (ii) any grounds and information on which the decision was based:
-      (iii) the advice that the person may seek a review of the decision under section 144:
+      (iii) the advice that the person may seek a review of the decision under section 144; and
     (f) if a penalty is payable,—
       (i) specifies the amount of the penalty that the person must pay under this section; and
       (ii) advises that the person may request to enter into a deferred payment arrangement under section 135A; and
@@ -218,11 +218,11 @@ After section 161E, insert:When projected data may be provided
   (2) A notice made under section 161D may require the information described in section 161D(1)﻿(e) on a projected basis in respect of future years (instead of, or as well as, information on an actual basis for past years) and, for that purpose, sections 161D and 161E must be read accordingly.
   (3) If a new activity is prescribed as an eligible industrial activity in reliance (in whole or in part) on projected information provided in accordance with subsection (2), the activity must be prescribed as moderately emissions-intensive (regardless of whether any information indicates that the activity is highly emissions-intensive).
   (4) Subsection (3) is subject to section 84AA(2).
-  (5) The Minister must issue a notice under section 161D for the purpose described in section 161D(3)﻿(a) in the second relevant financial year for an activity for which regulations were made under section 161A on the basis of data obtained in accordance with section 161F(1).
+  (5) The Minister must issue a notice under section 161D for the purpose described in section 161D(3)﻿(a) in the second relevant financial year for an activity for which regulations were made under section 161A on the basis of data obtained in accordance with subsection (2).
   (6) The notice must require the information described in section 161D(1)﻿(e) in respect of the first financial year of operation.
   (7) In this section,—
     - **first relevant financial year** , in relation to an activity, means the first full financial year that commences after—
-      (a) regulations have been made under section 161A on the basis of data obtained in accordance with section 161F(1)—
+      (a) regulations have been made under section 161A on the basis of data obtained in accordance with subsection (2)—
         (i) prescribing a new activity as an eligible industrial activity; or
         (ii) including a new product or setting a different allocative baseline in relation to an eligible industrial activity; and
       (b) a person has applied for industrial allocation under section 86 in relation to the new activity, the new product, or that different allocative baseline
