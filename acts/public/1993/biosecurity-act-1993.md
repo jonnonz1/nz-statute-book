@@ -1,5 +1,5 @@
 # Biosecurity Act 1993
-_Consolidation as at 2022-11-30_
+_Consolidation as at 2023-08-24_
 
 > An Act to restate and reform the law relating to the exclusion, eradication, and effective management of pests and unwanted organisms
 
@@ -282,7 +282,7 @@ A provision in this Act that applies in the territorial sea must be interpreted 
 
 ### 7 Relationship with other enactments
 (1) Nothing in any enactment specified in this section affects the performance or exercise of any power, function, or duty conferred by Part 7.
-(2) Except—this Act must not be construed so as to affect or derogate in any way from the provisions of the Soil Conservation and Rivers Control Act 1941, the Forests Act 1949, the Wildlife Act 1953, the Health Act 1956, the Animal Welfare Act 1999, the Wild Animal Control Act 1977, the Reserves Act 1977, the National Parks Act 1980, the Fisheries Act 1983, the Fisheries Act 1996, the Conservation Act 1987, the Te Urewera Act 2014, the Trade in Endangered Species Act 1989, the Resource Management Act 1991, or the Exclusive Economic Zone and Continental Shelf (Environmental Effects) Act 2012.
+(2) Except—this Act must not be construed so as to affect or derogate in any way from the provisions of the Soil Conservation and Rivers Control Act 1941, the Forests Act 1949, the Wildlife Act 1953, the Health Act 1956, the Animal Welfare Act 1999, the Wild Animal Control Act 1977, the Reserves Act 1977, the National Parks Act 1980, the Fisheries Act 1983, the Fisheries Act 1996, the Conservation Act 1987, the Te Urewera Act 2014, the Trade in Endangered Species Act 1989, the Natural and Built Environment Act 2023, or the Exclusive Economic Zone and Continental Shelf (Environmental Effects) Act 2012.
   (a) to the extent provided in subsections (1), (5), and (6), and sections 7A to 7D; and
   (b) to the extent that those enactments are expressly amended by section 168(1),—
 (3) This Act must not be construed so as to affect or derogate in any way from the provisions of the Customs and Excise Act 2018 and, in particular, the provisions of this Act do not affect the obligations of any person under the Customs and Excise Act 2018 in relation to goods.
@@ -294,9 +294,9 @@ A provision in this Act that applies in the territorial sea must be interpreted 
   (a) do not apply to prevent or inhibit the exercise or performance of any powers, functions, or duties under this Act when those powers, functions, or duties are exercised or performed in respect of an unwanted organism; and
   (b) do not allow or authorise the contravention of any provision of this Act in respect of wildlife that is also an unwanted organism.
 
-### 7A Relationship with Resource Management Act 1991
-(1) The responsible Minister may exempt an action from the provisions of Part 3 of the Resource Management Act 1991 if the action is taken in accordance with Part 6 of this Act in an attempt to eradicate an organism and if—
-  (a) the action would be in breach of Part 3 of the Resource Management Act 1991; and
+### 7A Relationship with Natural and Built Environment Act 2023
+(1) The responsible Minister may exempt an action from the provisions of Part 2 of the Natural and Built Environment Act 2023 if the action is taken in accordance with Part 6 of this Act in an attempt to eradicate an organism and if—
+  (a) the action would be in breach of Part 2 of the Natural and Built Environment Act 2023; and
   (b) the responsible Minister is satisfied that it is likely that—
     (i) the organism is not established in New Zealand, the organism is not known to be established in New Zealand, or the organism is established in New Zealand but is restricted to certain parts of New Zealand; and
     (ii) the organism has the potential to cause 1 or more of significant economic loss, significant adverse effects on human health, or significant environmental loss if it becomes established in New Zealand, or if it becomes established throughout New Zealand; and
@@ -305,11 +305,11 @@ A provision in this Act that applies in the territorial sea must be interpreted 
 (3) Before making a decision under subsection (1), the responsible Minister—
   (a) must consult the relevant consent authority (to the extent that is possible in the circumstances); and
   (b) may consult such other persons as the responsible Minister considers are representative of the persons likely to be affected by the eradication attempt.
-(4) If an exemption is granted under subsection (1) or continued by regulations made under section 7D, Part 3 of the Resource Management Act 1991 does not apply to the action while the exemption continues.
+(4) If an exemption is granted under subsection (1) or continued by regulations made under section 7D, Part 2 of the Natural and Built Environment Act 2023 does not apply to the action while the exemption continues.
 (5) After the exemption ends,—
-  (a) the provisions of the Resource Management Act 1991 apply to the action and its adverse effects to the same extent as those provisions would have applied but for the exemption; and
-  (b) the responsible Minister must remedy or mitigate the adverse effects to which the provisions of the Resource Management Act 1991 would have applied if not for the exemption.
-(6) For the purposes of this section, consent authority has the same meaning as in section 2(1) of the Resource Management Act 1991.
+  (a) the provisions of the Natural and Built Environment Act 2023 apply to the action and its adverse effects to the same extent as those provisions would have applied but for the exemption; and
+  (b) the responsible Minister must remedy or mitigate the adverse effects to which the provisions of the Natural and Built Environment Act 2023 would have applied if not for the exemption.
+(6) For the purposes of this section, consent authority has the same meaning as in section 11 of the Natural and Built Environment Act 2023.
 
 ### 7B Relationship with Exclusive Economic Zone and Continental Shelf (Environmental Effects) Act 2012
 (1) The responsible Minister may exempt an action from the provisions of Part 2 of the Exclusive Economic Zone and Continental Shelf (Environmental Effects) Act 2012 if the action is taken in an attempt to eradicate or manage an organism under this Act and if—
@@ -337,7 +337,7 @@ A provision in this Act that applies in the territorial sea must be interpreted 
 
 ### 7D Regulations may continue exemption
 (1) The Governor-General may, by Order in Council made on the recommendation of the responsible Minister, make regulations—
-  (a) continuing the exemption under section 7A of an action from Part 3 of the Resource Management Act 1991:
+  (a) continuing the exemption under section 7A of an action from Part 2 of the Natural and Built Environment Act 2023:
   (b) continuing the exemption under section 7B of an action from Part 2 of the Exclusive Economic Zone and Continental Shelf (Environmental Effects) Act 2012.
 (2) The responsible Minister must not make a recommendation for the purposes of subsection (1) unless he or she considers that it is necessary to continue the action to attempt to eradicate or manage the organism beyond the duration of the exemption.
 (3)
@@ -1863,7 +1863,7 @@ If the council is satisfied that section 70 has been complied with, the council 
     (i) the national policy direction; or
     (ii) any other pest management plan on the same organism; or
     (iii) any pathway management plan; or
-    (iv) a regional policy statement or regional plan prepared under the Resource Management Act 1991; or
+    (iv) a plan prepared under the Natural and Built Environment Act 2023; or
     (v) any regulations; and
   (b) that, during the development of the proposal, the process requirements for a plan in the national policy direction, if there were any, were complied with; and
   (c) that the proposal has merit as a means of eradicating or effectively managing the subject of the proposal, which means—
@@ -1970,7 +1970,7 @@ If the council is satisfied that section 73 has been complied with, the council 
     (i) the national policy direction; or
     (ii) any other pest management plan on the same organism; or
     (iii) any pathway management plan; or
-    (iv) a regional policy statement or regional plan prepared under the Resource Management Act 1991; or
+    (iv) a plan prepared under the Natural and Built Environment Act 2023; or
     (v) any regulations; and
   (b) that, for each subject of the plan, the benefits of the plan outweigh the costs, after taking account of the likely consequences of inaction or other courses of action; and
   (c) that, for each subject of the plan, persons who are required, as a group, to meet directly any or all of the costs of implementing the plan—
@@ -2003,7 +2003,7 @@ If the council is satisfied that section 73 has been complied with, the council 
   (b) a person who participated in consultation on the proposal and whose views were provided or recorded in writing:
   (c) a person who is likely to be affected by the plan and did not participate in consultation only because the person was not given an opportunity to participate.
 (5) The application must be made within 15 working days after the date of the public notice.
-(6) The application is made under section 291 of the Resource Management Act 1991 and regulations made under the Resource Management Act 1991.
+(6) The application is made under clause 51 of Schedule 13 of the Natural and Built Environment Act 2023 and regulations made under that Act.
 (7) The court must hold a public hearing on the application.
 (8) The court must—
   (a) dismiss the application; or
@@ -2317,7 +2317,7 @@ If the council is satisfied that section 90 has been complied with, the council 
   (a) that the proposal is not inconsistent with—
     (i) the national policy direction; or
     (ii) any other pathway management plan or pest management plan; or
-    (iii) a regional policy statement or regional plan prepared under the Resource Management Act 1991; or
+    (iii) a plan prepared under the Natural and Built Environment Act 2023; or
     (iv) any regulations; and
   (b) that, during the development of the proposal, the process requirements for a plan in the national policy direction, if there were any, were complied with; and
   (c) that the proposal has merit as a means of managing the subject of the proposal, which means the pathway or pathways; and
@@ -2411,7 +2411,7 @@ If the council is satisfied that section 93 has been complied with, the council 
   (a) that the plan is not inconsistent with—
     (i) the national policy direction; or
     (ii) any other pathway management plan or pest management plan; or
-    (iii) a regional policy statement or regional plan prepared under the Resource Management Act 1991; or
+    (iii) a National Planning Framework or plan prepared under the Natural and Built Environment Act 2023; or
     (iv) any regulations; and
   (b) that, for each subject of the plan, the benefits of the plan outweigh the costs, after taking account of the likely consequences of inaction or other courses of action; and
   (c) that, for each subject of the plan, persons who are required, as a group, to meet directly any or all of the costs of implementing the plan—
@@ -2444,7 +2444,7 @@ If the council is satisfied that section 93 has been complied with, the council 
   (b) a person who participated in consultation on the proposal and whose views were provided or recorded in writing:
   (c) a person who is likely to be affected by the plan and did not participate in consultation only because the person was not given an opportunity to participate.
 (5) The application must be made within 15 working days after the date of the public notice.
-(6) The application is made under section 291 of the Resource Management Act 1991 and regulations made under the Resource Management Act 1991.
+(6) The application is made under clause 51 of Schedule 13 of the Natural and Built Environment Act 2023 and regulations made under that Act.
 (7) The court must hold a public hearing on the application.
 (8) The court must—
   (a) dismiss the application; or
@@ -2631,7 +2631,7 @@ Consequence of not complying with section
 ### 100F Application to Environment Court if regional plan not reviewed
 (1) This section applies if a regional pest management plan or a regional pathway management plan is not reviewed as required by section 100D(3) or 100E.
 (2) A person may apply to the Environment Court on the basis that there is an inconsistency between the national policy direction and the regional pest management plan or the regional pathway management plan.
-(3) The application is made under section 291 of the Resource Management Act 1991 and regulations made under the Resource Management Act 1991.
+(3) The application is made under clause 51 of Schedule 13 of the Natural and Built Environment Act 2023 and regulations made under that Act.
 (4) The court must hold a public hearing on the application.
 (5) The court must—
   (a) dismiss the application; or
