@@ -1,5 +1,5 @@
 # Urban Development Act 2020
-_Consolidation as at 2021-11-15_
+_Consolidation as at 2023-08-24_
 
 ### 1 Title
 This Act is the Urban Development Act 2020.
@@ -22,8 +22,8 @@ This Act is the Urban Development Act 2020.
   (b) provides powers for the acquisition, development, and disposal of land used for the purpose of Kāinga Ora performing its urban development functions; and
   (c) provides additional powers, rights, and duties for the purpose of Kāinga Ora performing its urban development functions.
 
-### 4 Treaty of Waitangi
-In achieving the purpose of this Act, all persons performing functions or exercising powers under it must take into account the principles of the Treaty of Waitangi (Te Tiriti o Waitangi).
+### 4 Tiriti o Waitangi
+All persons exercising powers and performing functions and duties under this Act must give effect to the principles of te Tiriti o Waitangi.
 
 **Specified development projects**
 
@@ -31,15 +31,14 @@ In achieving the purpose of this Act, all persons performing functions or exerci
 (1) In achieving the purpose of this Act, all persons performing functions or exercising powers under it in relation to specified development projects, or urban development projects selected or assessed as potential specified development projects, must—
   (a) have particular regard to providing, or enabling,—
     (i) integrated and effective use of land and buildings; and
-    (ii) quality infrastructure and amenities that support community needs; and
+    (ii) quality infrastructure and facilities that support community needs; and
     (iii) efficient, effective, and safe transport systems; and
     (iv) access to open space for public use and enjoyment; and
     (v) low-emission urban environments; and
-  (b) promote the sustainable management of natural and physical resources and, in doing so,—
-    (i) recognise and provide for the matters in section 6 of the Resource Management Act 1991; and
-    (ii) have particular regard to the matters in section 7 of that Act; but
-    (iii) recognise that amenity values may change.
-(2) In this section, sustainable management has the same meaning as in section 5(2) of the Resource Management Act 1991.
+  (b) promote te Oranga o te Taiao through—
+    (i) complying with the national environmental limits set under the Natural and Built Environment Act 2023; and
+    (ii) promoting the system outcomes set out in section 6 of the Natural and Built Environment Act 2023.
+(2) In this section, te Oranga o te Taiao has the meaning given in section 3(3) of the Natural and Built Environment Act 2023.
 
 ### Subpart 2 — Overview of this Act
 
@@ -57,7 +56,7 @@ In achieving the purpose of this Act, all persons performing functions or exerci
   (a) how an urban development project is established as a specified development project (see subpart 1 of Part 2 and, for the definition of urban development project, section 10(3)); and
   (b) once the project is established, the project’s development plan to be prepared and approved (see subpart 2 of Part 2).
 (2) Most of the functions, powers, rights, and duties set out in Parts 3 and 4 are available to Kāinga Ora only after a project’s development plan becomes operative. Broadly, they relate to—
-  (a) resource consenting and designations under the Resource Management Act 1991 (see subpart 2 of Part 3):
+  (a) resource consenting and designations under the Natural and Built Environment Act 2023 (see subpart 2 of Part 3):
   (b) the use and reconfiguration of reserves, and the use of land that is subject to conservation interests (see subpart 3 of Part 3):
   (c) certain infrastructure (roads, water supply, wastewater, and drainage) and the changing of related bylaws (see subpart 4 of Part 3):
   (d) rating and other funding powers (see Part 4).
@@ -83,7 +82,6 @@ In this Act, unless the context otherwise requires,—
   - **acquired by Kāinga Ora** is defined in section 251 for the purposes of Part 5
   - **administrative charge** means a charge that may be fixed or imposed under section 242
   - **alter** is defined in section 150(2) for the purposes of water-related infrastructure powers
-  - **amenity values** has the same meaning as in section 2(1) of the Resource Management Act 1991
   - **Auckland Transport** means the entity established by section 38 of the Local Government (Auckland Council) Act 2009
   - **authorised person** is defined in section 279 for the purposes of subpart 1 of Part 6
   - **building consent** has the same meaning as in section 7 of the Building Act 2004
@@ -92,8 +90,7 @@ In this Act, unless the context otherwise requires,—
   - **bylaw-making authority** has the meaning set out in section 142(1)
   - **chief executive under the Public Works Act 1981** means the chief executive referred to in section 40(1) of the Public Works Act 1981
   - **claimant group** , in relation to the definitions of , , and , means a group of Māori with Treaty of Waitangi claims against the Crown, whether or not those claims have been lodged with, or heard by, the Waitangi Tribunal under the Treaty of Waitangi Act 1975
-  - **coastal marine area** has the same meaning as in section 2(1) of the Resource Management Act 1991
-  - **combined planning instrument** means a document of the kind described in section 80 of the Resource Management Act 1991
+  - **coastal marine area** has the same meaning as in section 11 of the Natural and Built Environment Act 2023
   - **committee** is defined in section 286 for the purposes of subpart 2 of Part 6
   - **common marine and coastal area** has the same meaning as in section 9(1) of the Marine and Coastal Area (Takutai Moana) Act 2011
   - **community facility** means a facility for—
@@ -114,20 +111,20 @@ In this Act, unless the context otherwise requires,—
   - **Crown entity subsidiary** has the same meaning as in section 10(1) of the Crown Entities Act 2004
   - **Crown land** is defined in section 251 for the purposes of Part 5
   - **Crown protected area** has the same meaning as in section 4 of the New Zealand Geographic Board (Ngā Pou Taunaha o Aotearoa) Act 2008
+  - **cultural heritage** has the same meaning as in section 11 of the Natural and Built Environment Act 2023
   - **customary marine title** and have the same meanings as in section 9(1) of the Marine and Coastal Area (Takutai Moana) Act 2011
   - **deed of recognition** means the redress of that name included in certain Treaty settlement Acts
   - **designation** —
-    (a) has the same meaning as in section 166 of the Resource Management Act 1991; and
+    (a) has the same meaning as in section 11 of the Natural and Built Environment Act 2023; and
     (b) if the context requires, also includes a designation included in a development plan under this Act
   - **development** is defined in section 220 for the purposes of subpart 3 of Part 4
   - **development contribution** means a contribution comprising money or land (or both), where land—
-    (a) includes a specified reserve or esplanade reserve (other than in relation to a subdivision consent within the meaning of section 87(b) of the Resource Management Act 1991); and
+    (a) includes a specified reserve or esplanade reserve (other than in relation to a subdivision consent within the meaning of section 220(b) of the Natural and Built Environment Act 2023); and
     (b) excludes protected land described in section 17(2)
   - **development plan** means an operative development plan gazetted under section 83(5)
   - **disestablishment order** means an Order in Council made under clause 7 of Schedule 2 that disestablishes a specified development project
-  - **district plan** has the same meaning as in section 43AA of the Resource Management Act 1991
   - **draft development plan** means a development plan that is in the process of being prepared before its approval and notification under section 83
-  - **dwelling house** has the same meaning as dwellinghouse in section 2(1) of the Resource Management Act 1991
+  - **dwelling house** has the same meaning as in section 11 of the Natural and Built Environment Act 2023
   - **establishment date** , in relation to a specified development project, means the commencement date of its establishment order
   - **establishment order** means an Order in Council made under section 47 that establishes an urban development project as a specified development project
   - **financial year** , in relation to a targeted rate, has the same meaning as in section 5 of the Local Government (Rating) Act 2002
@@ -145,34 +142,35 @@ In this Act, unless the context otherwise requires,—
   - **General land owned by Māori** has the same meaning as in section 4 of Te Ture Whenua Maori Act 1993
   - **hearings commissioner** means a hearings commissioner appointed in accordance with section 51
   - **Heritage New Zealand Pouhere Taonga** means the Crown entity established by section 9 of the Heritage New Zealand Pouhere Taonga Act 2014
-  - **historic heritage** has the same meaning as in section 2(1) of the Resource Management Act 1991
   - **holder** , in relation to a right of first refusal or a right of second refusal, means the 1 or more post-settlement governance entities that have the right of first refusal or the right of second refusal in relation to the RFR land
   - **housing** is defined in section 251 for the purposes of Part 5
   - **IHP** means an independent hearing panel established in accordance with Schedule 3
-  - **infrastructure** has the same meaning as in section 2(1) of the Resource Management Act 1991
+  - **implementation plan** has the same meaning as in section 8 of the Spatial Planning Act 2023
+  - **infrastructure** has the same meaning as in section 11 of the Natural and Built Environment Act 2023
   - **infrastructure and service charge** means a charge that may be fixed under section 241
   - **infrastructure operator** means an operator of infrastructure and includes a network utility operator
   - **interest** , in relation to a Māori entity, means—
-    (a) any right or interest held by, or granted to, a Māori entity under a Treaty settlement deed, Treaty settlement Act, or other iwi participation legislation:
+    (a) any right or interest held by, or granted to, a Māori entity under a Treaty settlement deed, Treaty settlement Act, or other iwi and hapū participation legislation:
     (b) an ownership interest in land:
     (c) a customary or other interest in land that is recognised under an enactment or a judgment or an order of a court of competent jurisdiction:
     (d) a customary marine title or a protected customary right
-  - **iwi authority** has the same meaning as in section 2(1) of the Resource Management Act 1991
-  - **iwi participation legislation** has the same meaning as in section 58L of the Resource Management Act 1991
+  - **iwi and hapū participation legislation** has the same meaning as in section 11 of the Natural and Built Environment Act 2023
+  - **iwi authority** has the same meaning as in section 11 of the Natural and Built Environment Act 2023
   - **iwi planning document** means a plan, including a management plan or a strategy, prepared in whole or in part by a Māori entity under legislation, including under—
     (a) the Resource Management Act 1991; or
-    (b) a Treaty settlement Act or other iwi participation legislation; or
+    (b) a Treaty settlement Act or other iwi and hapū participation legislation; or
     (c) a Treaty settlement deed; or
-    (d) the Marine and Coastal Area (Takutai Moana) Act 2011
+    (d) the Marine and Coastal Area (Takutai Moana) Act 2011; or
+    (e) Natural and Built Environment Act 2023
   - **joint Ministers** means the responsible Minister and the Minister of Finance, acting jointly
   - **Kāinga Ora** means Kāinga Ora–Homes and Communities established under section 8 of the Kāinga Ora–Homes and Communities Act 2019
   - **key features** is defined in section 26(4) for the purposes of subpart 1 of Part 2
   - **key stakeholders** , in relation to a specified development project (or a project being assessed as a potential specified development project), means the persons listed in section 33(4)
   - **land** ,—
-    (a) except in Parts 4 and 5, has the same meaning as in section 2(1) of the Resource Management Act 1991:
+    (a) except in Parts 4 and 5, has the same meaning as in section 11 of the Natural and Built Environment Act 2023:
     (b) is defined in section 182(1) for the purposes of Part 4:
     (c) is defined in section 251 for the purposes of Part 5
-  - **limited notification** is the form of notification described in section 95B of the Resource Management Act 1991
+  - **limited notification** has the same meaning as in section 11 of the Natural and Built Environment Act 2023
   - **local authority** ,—
     (a) except in Part 5, has the same meaning as in section 5(1) of the Local Government Act 2002:
     (b) is defined in section 251 for the purposes of Part 5
@@ -186,7 +184,7 @@ In this Act, unless the context otherwise requires,—
     (e) a Māori Trust Board:
     (f) a Māori association:
     (g) the Māori Trustee:
-    (h) a board, committee, authority, or other body, incorporated or unincorporated, recognised in, or established under, iwi participation legislation:
+    (h) a board, committee, authority, or other body, incorporated or unincorporated, recognised in, or established under, iwi and hapū participation legislation:
     (i) a body corporate, the trustees of a trust, or any other entity or persons who have an ownership interest in Māori land:
     (j) a body corporate or the trustees of a trust appointed to administer a Māori reservation:
     (k) a customary marine title group or protected customary rights group:
@@ -196,6 +194,7 @@ In this Act, unless the context otherwise requires,—
   - **Māori Trust Board** has the same meaning as in the Maori Trust Boards Act 1955
   - **marine and coastal area** has the same meaning as in section 9(1) of the Marine and Coastal Area (Takutai Moana) Act 2011
   - **Minister for Land Information** means the Minister who, under the authority of any warrant or with the authority of the Prime Minister, is responsible for the administration of the Public Works Act 1981
+  - **national planning framework** has the same meaning as in section 11 of the Natural and Built Environment Act 2023
   - **nationally significant infrastructure** means any of the following:
     (a) State highways:
     (b) the national grid electricity transmission network:
@@ -203,10 +202,11 @@ In this Act, unless the context otherwise requires,—
     (d) the high-pressure gas transmission pipeline network operating in the North Island:
     (e) the refinery pipeline between Marsden Point and Wiri:
     (f) the New Zealand rail network (including light rail):
-    (g) land and airspace designated for defence purposes under the Resource Management Act 1991:
+    (g) land and airspace designated for defence purposes under the Natural and Built Environment Act 2023:
     (h) airports used for regular air transport services by aeroplanes capable of carrying more than 30 passengers:
     (i) the port companies referred to in item 6 of Part A of Schedule 1 of the Civil Defence Emergency Management Act 2002
-  - **network utility operator** has the same meaning as in section 166 of the Resource Management Act 1991
+  - **natural and built environment plan** has the same meaning as plan in section 11 of the Natural and Built Environment Act 2023
+  - **network utility operator** has the same meaning as in section 11 of the Natural and Built Environment Act 2023
   - **New Zealand Transport Agency** means the Agency established by section 93 of the Land Transport Management Act 2003
   - **owner** is defined, in relation to land that is a road and the exercise of water-related infrastructure powers, in section 142(1) for the purposes of subpart 4 of Part 3
   - **park** —
@@ -214,11 +214,10 @@ In this Act, unless the context otherwise requires,—
       (i) owned by a relevant local authority; and
       (ii) acquired or used principally for community, recreational, environmental, cultural, or spiritual purposes; but
     (b) does not include land that is held as a reserve, or part of a reserve, under the Reserves Act 1977
-  - **participation arrangement** means an arrangement entered into under a Treaty settlement Act, Treaty settlement deed, or other enactment such as the Resource Management Act 1991 or the Local Government Act 2002 that provides a right for a Māori entity to participate in processes, including a right—
-    (a) to produce, or participate in producing, a planning instrument, iwi planning document, strategy, or management plan that relates to a project area:
+  - **participation arrangement** means an arrangement entered into under a Treaty settlement Act, Treaty settlement deed, or other enactment such as the Resource Management Act 1991, the Natural and Built Environment Act 2023, or the Local Government Act 2002 that provides a right for a Māori entity to participate in processes, including a right—
+    (a) to produce, or participate in producing, a natural and built environment plan, iwi planning document, strategy, or management plan that relates to a project area:
     (b) to appoint members to a standing committee of a territorial authority under the Local Government Act 2002 that operates in a project area:
     (c) to appoint persons to hear and determine resource consent applications for activities within the project area
-  - **planning instrument** means a regional or district plan, a combined planning instrument, or a regional policy statement
   - **post-settlement governance entity—**
     (a) means a body corporate or the trustees of a trust established, for the purpose of receiving redress in the settlement of the Treaty of Waitangi claims of a claimant group,—
       (i) by that group; or
@@ -234,7 +233,7 @@ In this Act, unless the context otherwise requires,—
   - **protected customary** and have the same meanings as in section 9(1) of the Marine and Coastal Area (Takutai Moana) Act 2011
   - **protected land** means the land described in section 17(2) and (4)
   - **public housing** has the same meaning as in section 5(1) of the Kāinga Ora–Homes and Communities Act 2019
-  - **public notice** has the same meaning as in section 2AB of the Resource Management Act 1991
+  - **public notice** has the same meaning as in section 12 of the Natural and Built Environment Act 2023
   - **public transport infrastructure** is defined in section 182(1) for the purposes of Part 4
   - **public work** has the same meaning as in section 2 of the Public Works Act 1981
   - **ratepayer** is defined in section 182(1) for the purposes of Part 4
@@ -247,8 +246,8 @@ In this Act, unless the context otherwise requires,—
     (d) an advisory board or committee set up to provide advice in relation to the management of a reserve or natural resource
   - **regional council** has the same meaning as in section 5(1) of the Local Government Act 2002
   - **regional park** has the same meaning as in section 139(1) of the Local Government Act 2002
-  - **regional plan** has the same meaning as in section 43AA of the Resource Management Act 1991
-  - **regional policy statement** has the same meaning as in section 43AA of the Resource Management Act 1991
+  - **regional planning committee** has the same meaning as in section 11 of the Natural and Built Environment Act 2023
+  - **regional spatial strategy** has the same meaning as in section 8 of the Spatial Planning Act 2023
   - **register of land** has the same meaning as register in section 5(1) of the Land Transfer Act 2017
   - **Registrar-General of Land** has the same meaning as Registrar in section 5(1) of the Land Transfer Act 2017
   - **relevant** , in relation to a policy that relates to a targeted rate or development contribution, is defined in section 182(1) for the purposes of Part 4
@@ -258,9 +257,9 @@ In this Act, unless the context otherwise requires,—
   - **relevant territorial authority** ,—
     (a) in relation to a specified development project (or a project being assessed as a potential specified development project), means every territorial authority whose district includes land in the project area (or proposed project area):
     (b) for the purposes of subpart 4 of Part 3, is defined in section 142(1) as including, in Auckland, Auckland Transport
-  - **requiring authority** has the same meaning as in section 166 of the Resource Management Act 1991 and includes Kāinga Ora, subject to section 131(2) and (3)
+  - **requiring authority** has the same meaning as in section 11 of the Natural and Built Environment Act 2023 and includes Kāinga Ora, subject to section 131(2) and (3)
   - **reserve** has the same meaning as in section 2(1) of the Reserves Act 1977
-  - **resource consent** has the same meaning as in section 2(1) of the Resource Management Act 1991
+  - **resource consent** has the same meaning as in section 11 of the Natural and Built Environment Act 2023
   - **responsible Minister** means the Minister of the Crown who, under the authority of any warrant or with the authority of the Prime Minister, is responsible for the administration of this Act
   - **retirement village** is defined in section 251 for the purposes of Part 5
   - **RFR land** means land that is subject to a right of first refusal or a right of second refusal
@@ -289,6 +288,7 @@ In this Act, unless the context otherwise requires,—
   - **targeted rate** has the meaning set out in section 182(1)
   - **targeted rates order** is defined in section 182(1) for the purposes of Part 4
   - **territorial authority** has the same meaning as in section 5(1) of the Local Government Act 2002
+  - **te Tiriti o Waitangi** has the same meaning as Treaty in section 2 of the Treaty of Waitangi Act 1975
   - **three waters services** includes services associated with drinking water, wastewater, and stormwater
   - **transfer order** means an order made under clause 4 of Schedule 2
   - **transitional period** has the meaning set out in section 94(2)
@@ -310,7 +310,7 @@ In this Act, unless the context otherwise requires,—
   - **wastewater services** has the same meaning as in section 124 of the Local Government Act 2002
   - **water-related infrastructure** has the meaning set out in section 142(1)
   - **water-related infrastructure powers** has the meaning set out in section 150(1)
-  - **working day** has the same meaning as in section 2(1) of the Resource Management Act 1991.
+  - **working day** has the same meaning as in section 11 of the Natural and Built Environment Act 2023.
 
 ### 10 Meaning of urban development, urban development project, and specified development project
 Urban development
@@ -341,7 +341,7 @@ This Act binds the Crown.
 ### 14 Application of other enactments
 (1) Except as otherwise specified in this Act,—
   (a) all persons performing functions or exercising powers under this Act must comply with any provisions of any other enactment that apply to that function or power; and
-  (b) the provisions of the Resource Management Act 1991 continue to apply in relation to a project area.
+  (b) the provisions of the Natural and Built Environment Act 2023 and the Spatial Planning Act 2023 continue to apply in relation to a project area.
 (2) Nothing in this Act limits or otherwise affects the following enactments:
   (a) the Heritage New Zealand Pouhere Taonga Act 2014:
   (b) the Housing Act 1955:
@@ -402,7 +402,7 @@ Land protected from use of certain powers without agreement
       (iv) the New Zealand Railways Corporation; and
     (e) a subsidiary or related company of a company or body referred to in paragraph (d)
   - **land held by a post-settlement governance entity** includes land that is, in accordance with a Treaty settlement Act, held in the name of a person such as a tipuna of the claimant group (rather than the entity itself)
-  - **mana whenua** has the same meaning as in section 2(1) of the Resource Management Act 1991
+  - **mana whenua** has the same meaning as in section 11 of the Natural and Built Environment Act 2023
   - **Māori customary land** has the same meaning as in section 4 of Te Ture Whenua Maori Act 1993
   - **related company** has the same meaning as in section 2(3) of the Companies Act 1993
   - **subsidiary** has the same meaning as in section 5(1) of the Companies Act 1993.
@@ -516,7 +516,7 @@ The criteria for accepting a recommendation of Kāinga Ora, in accordance with t
   (a) consider that it is appropriate for the project to be established as a specified development project with the key features recommended by Kāinga Ora; and
   (b) are satisfied that the project objectives are consistent with—
     (i) subpart 1 of Part 1; and
-    (ii) existing national directions under the Resource Management Act 1991; and
+    (ii) the national planning framework; and
   (c) are satisfied that the project area contains only land that is in an urban area or that the joint Ministers consider is generally suitable—
     (i) for urban use; or
     (ii) to protect or exclude from urban development in connection with the broader project; and
@@ -544,12 +544,13 @@ A direction for the purposes of section 29(b) is not a direction for the purpose
 **Project assessment**
 
 ### 31 Kāinga Ora assesses project
-Kāinga Ora must assess a project selected in accordance with section 29 by—
+(1) Kāinga Ora must assess a project selected in accordance with section 29 by—
   (a) identifying, in general terms, constraints and opportunities that arise for the project from the matters listed in section 32(1); and
   (b) engaging as required by section 33; and
   (c) considering the identified constraints and opportunities, feedback from its engagement, and anything else that Kāinga Ora considers relevant, and refining (if necessary) the key features that it is considering for the project; and
   (d) publicly notifying the assessment of the project as required by section 35, and considering the feedback received; and
   (e) determining whether to recommend that the project be established as a specified development project and, if so, determining the key features to recommend to the joint Ministers for a decision under this subpart.
+(2) However, Kāinga Ora may stop an assessment at any time if Kāinga Ora decides that the project should not be established as a specified development project (see sections 37 and 39 for requirements that then apply).
 
 ### 32 Kāinga Ora identifies constraints and opportunities
 (1) For the purposes of section 31(a), the matters are—
@@ -569,11 +570,11 @@ Kāinga Ora must assess a project selected in accordance with section 29 by—
   (d) the information that the relevant local authorities hold on the following:
     (i) natural hazards within or otherwise relevant to the proposed project area:
     (ii) contaminated land within the proposed project area; and
-  (e) the Māori cultural, archaeological, and historic heritage values of land within the proposed project area; and
-  (f) the extent to which the project (including any infrastructure requirements identified), in general terms, aligns with any documents that are published by a relevant local authority and that set out its plans (whether alone or with other local authorities or entities) for urban growth; and
+  (e) the Māori cultural, archaeological, and cultural heritage values of land within the proposed project area; and
+  (f) the extent to which the project (including any infrastructure requirements identified), in general terms, aligns with any documents that are published by a relevant local authority and that set out its plans (whether alone or with other local authorities or entities) for urban growth, including how the project aligns with the regional spatial strategy; and
   (g) potential funding options for any infrastructure requirements identified.
 (2) Kāinga Ora must also identify—
-  (a) the existing planning instruments and iwi planning documents that apply to the proposed project area; and
+  (a) the iwi planning documents that apply to the proposed project area; and
   (b) any publicly available reports on climate change matters, prepared in accordance with the Climate Change Response Act 2002 or New Zealand’s obligations under an international treaty, that are relevant to the proposed project area.
 
 ### 33 Kāinga Ora engages with Māori and key stakeholders
@@ -593,10 +594,10 @@ Kāinga Ora must assess a project selected in accordance with section 29 by—
   (c) Heritage New Zealand Pouhere Taonga; and
   (d) the New Zealand Police; and
   (e) Fire and Emergency New Zealand; and
-  (f) the requiring authorities of any land or airspace designated for defence purposes under the Resource Management Act 1991, and the operators of any other nationally significant infrastructure, that is in or adjacent to the proposed project area; and
+  (f) the requiring authorities of any land or airspace designated for defence purposes under the Natural and Built Environment Act 2023, and the operators of any other nationally significant infrastructure, that is in or adjacent to the proposed project area; and
   (g) the operators of any other infrastructure that will be, or is likely to be, affected by the project; and
   (h) if any specified conservation-related area is in or adjacent to the proposed project area, the Minister of Conservation.
-(5) In engaging with Heritage New Zealand Pouhere Taonga, Kāinga Ora must seek recommendations on the protection or enhancement of historic heritage values within the proposed project area.
+(5) In engaging with Heritage New Zealand Pouhere Taonga, Kāinga Ora must seek recommendations on the protection or enhancement of cultural heritage values within the proposed project area.
 (6) Kāinga Ora must also seek, from Māori entities, expressions of interest in developing, as part of the project, any land within the proposed project area (other than protected land described in section 17(2)) in which they have an interest.
 (7) In seeking those expressions of interest, Kāinga Ora must allow adequate time for responses, taking into account—
   (a) that Māori entities have obligations under other legislation, trust deeds, and other governance documents; and
@@ -640,10 +641,10 @@ Kāinga Ora must assess a project selected in accordance with section 29 by—
 (1) After completing a project assessment, or earlier (in any case where section 39 applies), Kāinga Ora must—
   (a) prepare a project assessment report for the project; and
   (b) comply with section 40 (which relates to seeking territorial authority support) unless this subpart does not require it; and
-  (c) give that report, once finalised, to the joint Ministers.
+  (c) give that report, once finalised, to the joint Ministers unless section 39 does not require it.
 (2) The report must be in writing.
 
-### 38 Contents of report: recommendation to establish specified development project
+### 38 Contents of report: project should be established
 (1) This section applies if a project assessment report prepared by Kāinga Ora recommends that the project be established as a specified development project.
 (2) The assessment report must include all of the following things:
   (a) a summary of the project assessment carried out by Kāinga Ora, including—
@@ -654,7 +655,7 @@ Kāinga Ora must assess a project selected in accordance with section 29 by—
     (v) a summary of expressions of interest received in accordance with section 33(6); and
     (vi) whether other engagement with Māori or key stakeholders has informed the project assessment (for example, engagement undertaken before the project was selected for assessment as a specified development project) and, if so, a summary of that engagement (including when it was undertaken); and
     (vii) if any Māori or key stakeholders have not engaged with Kāinga Ora, a summary of the attempts that Kāinga Ora made to engage with them; and
-    (viii) any recommendations made by Heritage New Zealand Pouhere Taonga on the protection or enhancement of historic heritage values, and how these have been considered; and
+    (viii) any recommendations made by Heritage New Zealand Pouhere Taonga on the protection or enhancement of cultural heritage values, and how these have been considered; and
     (ix) constraints and opportunities identified in accordance with section 31(a); and
   (b) the recommendation of Kāinga Ora that the project be established as a specified development project, along with the recommended key features; and
   (c) a concept plan that shows, generally, the layout of the land within the recommended project area after the project is delivered; and
@@ -665,16 +666,16 @@ Kāinga Ora must assess a project selected in accordance with section 29 by—
   (f) the responses received from each relevant territorial authority under section 41.
 (3) The report may include anything else that Kāinga Ora considers relevant.
 
-### 39 Contents of report: recommendation not to establish
-(1) This section applies if, during or on completion of an assessment,—
-  (a) Kāinga Ora decides to recommend that a project not be established as a specified development project; and
-  (b) either or both of the following apply:
-    (i) the project has been publicly notified as a potential specified development project:
-    (ii) the joint Ministers selected the project, and their direction has not been withdrawn.
-(2) Kāinga Ora must still give the joint Ministers a report for the project that, broadly, describes and assesses the project, but—
-  (a) the report does not have to include all of the things in section 38(2); and
-  (b) Kāinga Ora does not have to comply with section 40.
-(3) Kāinga Ora must set out in the report the reasons why Kāinga Ora decided to recommend that the project not be established as a specified development project.
+### 39 Contents of report: project should not be established
+(1) This section applies if, during or on completion of an assessment, Kāinga Ora decides that a project should not be established as a specified development project.
+(2) The project assessment report must—
+  (a) broadly describe and assess the project; and
+  (b) set out why Kāinga Ora has decided that the project should not be established as a specified development project; and
+  (c) if the report must be provided to the joint Ministers under subsection (4), include a recommendation that the project not be established as a specified development project.
+(3) The report does not have to include all of the things in section 38(2) and Kāinga Ora does not have to comply with section 40.
+(4) Kainga Ora must provide the report to the joint Ministers if either or both of the following apply:
+  (a) the project has been publicly notified as a potential specified development project:
+  (b) the joint Ministers selected the project in accordance with section 29, and their direction has not been withdrawn.
 
 ### 40 Territorial authorities invited to indicate support
 (1) When a project assessment report is sufficiently advanced, Kāinga Ora must—
@@ -769,7 +770,7 @@ Overview
     (i) plan changes applying in the project area:
     (ii) resource consent applications in the project area:
     (iii) changes or cancellations of conditions of resource consents in the project area:
-  (c) a consent authority may transfer its consenting functions in the project area to Kāinga Ora as if Kāinga Ora were a public authority under section 33 of the Resource Management Act 1991:
+  (c) a consent authority may transfer its consenting functions in the project area to Kāinga Ora as if Kāinga Ora were a public authority under section 57 of the Natural and Built Environment Act 2023:
   (d) various other powers, rights, and duties under this Act apply to Kāinga Ora, for example,—
     (i) duties relating to assistance, information, and advice (see sections 107 and 108):
     (ii) powers to enter land for purposes related to preparing the development plan (see section 280(1)﻿(b)):
@@ -794,7 +795,7 @@ Kāinga Ora must notify the relevant local authorities as soon as practicable af
 (1) Kāinga Ora may appoint 1 or more hearings commissioners—
   (a) to exercise a delegated power under this Act; and
   (b) to hear resource consent applications, objections, and other matters as provided for in this Act.
-(2) Kāinga Ora may only appoint a person as a hearings commissioner if the person is accredited (within the meaning of section 2(1) of the Resource Management Act 1991).
+(2) Kāinga Ora may only appoint a person as a hearings commissioner if the person is accredited (within the meaning of section 11 of the Natural and Built Environment Act 2023).
 (3) Kāinga Ora must establish processes for managing any conflicts of interest of hearings commissioners in relation to particular matters.
 (4) Persons who are members of any iwi or hapū or other group of Māori with an interest in a project area or in land adjoining a project area are not, by virtue only of that fact, disqualified from appointment as hearings commissioners.
 
@@ -848,7 +849,7 @@ Schedule 2 provides for Kāinga Ora—
 
 ### 57 Functions of Kāinga Ora in preparing, amending, or reviewing development plan
 Kāinga Ora has the following functions for the purpose of preparing, amending, or reviewing a development plan for a specified development project:
-  (a) establishing, implementing, and reviewing the objectives of any planning instrument, and the policies, rules, and methods relevant to resource management, to achieve the project objectives:
+  (a) establishing, implementing, and reviewing the plan outcomes of any natural and built environment plan, and the policies, rules, and methods relevant to resource management, to achieve the project objectives:
   (b) controlling the actual or potential effects of the use, development, and protection of land—
     (i) to achieve the project objectives:
     (ii) to ensure, as far as is reasonably practicable, that, as a contribution to district and regional capacity, there is sufficient land for residential and business development to meet the expected demand in the project area:
@@ -861,14 +862,7 @@ Kāinga Ora has the following functions for the purpose of preparing, amending, 
 
 ### 58 Relevance of certain national instruments
 A development plan must not be inconsistent with—
-  (a) the following instruments made under the Resource Management Act 1991:
-    (i) national policy statements:
-    (ii) a New Zealand Coastal Policy Statement:
-    (iii) national environmental standards and other regulations (other than a national environmental standard):
-    (iv) all applicable provisions of national planning standards approved under section 58E of the Resource Management Act 1991, including as they relate to—
-      (A) matters of structure, format, definitions, and metrics; and
-      (B) the requirements for electronic functionality and accessibility; and
-      (C) regional and district spatial layers standards (see National Planning Standard clauses 11 and 12); or
+  (a) the national planning framework:
   (b) any national land transport policy.
 
 ### 59 In preparing development plan, Kāinga Ora to be sufficiently informed
@@ -898,13 +892,15 @@ Conditions
     (i) the use of any part of a specified reserve or coastal marine area:
     (ii) the acquisition of land subject to a conservation interest:
     (iii) the use of any part of other land in the project area that is integral to the conditions stipulated in subparagraphs (i) and (ii); and
-  (b) if Kāinga Ora adopts any participation arrangement or other measure provided by or under any iwi participation legislation to protect the interests of an iwi, hapū, or other group of Māori, a description of the arrangement or other measure.
-Modification of planning instruments
+  (b) if Kāinga Ora adopts any participation arrangement or other measure provided by or under any iwi and hapū participation legislation to protect the interests of an iwi, hapū, or other group of Māori, a description of the arrangement or other measure.
+Modification of natural and built environment plans
 (5) A development plan must set out the following:
-  (a) any modifications to be made to objectives, policies, methods, and rules in planning instruments to enable the project objectives to be achieved; and
-  (b) if any iwi participation legislation requires a local authority to include a statement of every resource management issue of significance to a Māori entity within the district or region, that statement must be included; and
-  (c) the rules for public notification of a controlled or restricted discretionary activity, unless the evaluation report justifies not doing so; and
+  (a) any provisions that override, add to, or suspend any plan outcomes or policies, rules, or other methods in natural and built environment plans to enable the project objectives to be achieved; and
+  (b) if any iwi and hapū participation legislation requires a local authority to include a statement of every resource management issue of significance to a Māori entity within the district or region, that statement must be included; and
+  (c) the rules for public notification of a controlled activity, unless the evaluation report justifies not doing so; and
   (d) any designations that apply, wholly or in part, in the project area.
+Modification of consent authority identity
+(6) A development plan may provide that Kāinga Ora will not become the consent authority for the project area (see section 109 for the effect of this).
 
 ### 61 Further contents of development plan: infrastructure
 (1) The development plan must state—
@@ -953,17 +949,17 @@ Factors for calculating rates
 Categories of land
 (4) For the purposes of subsection (1)﻿(f) to (h), categories of land must be defined in terms of 1 or more of the matters listed in Schedule 2 of the Local Government (Rating) Act 2002 (other than the matters listed in clauses 3 and 7).
 (5) For the purposes of subsections (2) and (4), the Local Government (Rating) Act 2002 applies, with all necessary modifications, as if—
-  (a) a reference to an operative district plan included a development plan:
+  (a) a reference to an operative natural and built environment plan included a development plan:
   (b) a reference to a local authority were a reference to Kāinga Ora.
 
-### 64 Provisions that modify planning instruments
-(1) A development plan may incorporate material by reference, applying the provisions of Part 3 of Schedule 1 of the Resource Management Act 1991 with all necessary modifications, as if—
-  (a) a reference to a plan or proposed plan included a development plan:
-  (b) a reference to a local authority were a reference to Kāinga Ora:
+### 64 Provisions that modify natural and built environment plans
+(1) A development plan may incorporate material by reference, applying the provisions of Schedule 12 of the Natural and Built Environment Act 2023 with all necessary modifications, as if—
+  (a) a reference to a natural and built environment plan or proposed natural and built environment plan included a development plan:
+  (b) a reference to the Ministry for the Environment were a reference to Kāinga Ora:
   (c) a reference to the Minister were a reference to the responsible Minister under this Act.
-(2) Any objectives, policies, methods, or rules of a development plan that override, add to, or suspend any provisions of a regional policy statement or a plan made under the Resource Management Act 1991 must—
-  (a) not go beyond the scope provided for plans or regional policy statements prepared under the Resource Management Act 1991; and
-  (b) provide for classes of activities to be specified that are consistent with those set out in section 87A of the Resource Management Act 1991; and
+(2) Any plan outcomes or policies, rules, or other methods of a development plan that override, add to, or suspend any provisions of a natural and built environment plan must—
+  (a) not go beyond the scope provided for natural and built environment plans under the Natural and Built Environment Act 2023; and
+  (b) provide for classes of activities to be specified that are consistent with those set out in section 140 of the Natural and Built Environment Act 2023; and
   (c) be clearly identified in the development plan; and
   (d) if relevant, enable the provision of all necessary infrastructure for a specified development project.
 (3) A development plan may include rules that—
@@ -1017,10 +1013,10 @@ Categories of land
 (1) In preparing a development plan, Kāinga Ora—
   (a) may have regard to any matter it considers relevant to the specified development project; but
   (b) must have regard to each of the following documents, to the extent that they are relevant to the specified development project to which the plan relates:
-    (i) regional policy statements, regional plans, and district plans made under the Resource Management Act 1991:
+    (i) any relevant regional spatial strategies and implementation plans made under the Spatial Planning Act 2023 and natural and built environment plans made under the Natural and Built Environment Act 2023:
     (ii) regional land transport plans and regional public transport plans made under the Land Transport Management Act 2003, and in the case of Auckland, made under the Local Government (Auckland Council) Act 2009:
     (iii) the long-term plans of relevant local authorities made under the Local Government Act 2002, and in the case of Auckland, made under the Local Government (Auckland Council) Act 2009:
-    (iv) any spatial plans prepared under the Local Government (Auckland Council) Act 2009:
+    (iv)
     (v) the key urban design qualities set out in the Ministry for the Environment’s New Zealand Urban Design Protocol (2005) and any subsequent editions or replacements of that document:
     (vi) any relevant planning document recognised by an iwi authority or hapū and lodged with any relevant local authority, to the extent that it has a bearing on the resource management issues within the project area:
     (vii) any emissions reduction plan or national adaptation plan applying in a project area, in accordance with the Climate Change Response Act 2002.
@@ -1032,19 +1028,20 @@ Categories of land
 **Documents to support contents of development plan**
 
 ### 69 Evaluation report: general matters
-(1) Kāinga Ora must prepare an evaluation report on the provisions of the draft development plan, with particular attention to any proposal that would change the planning instruments otherwise applying in the project area.
+(1) Kāinga Ora must prepare an evaluation report on the provisions of the draft development plan, with particular attention to any proposal that would override, add to, or suspend the natural and built environment plan otherwise applying in the project area.
 (2) An evaluation report prepared under this section must be notified under section 73 at the same time, and in the same manner, as the draft development plan is notified.
 (3) The evaluation report is not subject to the public submission or IHP processes provided for under this subpart.
 (4) The report must—
-  (a) examine whether the proposals in the draft development plan are the most appropriate way to achieve the project objectives by—
-    (i) identifying other reasonably practicable options for achieving the project objectives; and
-    (ii) assessing the efficiency and effectiveness of the provisions in the draft development plan in achieving the project objectives; and
-    (iii) providing the reasons for preferring those provisions over the other options examined; and
-  (b) identify and assess the benefits and costs of the environmental, economic, social, and cultural effects that are anticipated from implementing the provisions of the draft development plan, including the economic growth or reduction of growth that is anticipated from implementation of the development plan; and
-  (c) assess the risk of acting or not acting if the information on the relevant matters is insufficient or uncertain; and
-  (d) identify how the draft development plan or a proposed amendment to a development plan, as the case may be,—
-    (i) is consistent with a relevant national environmental standard; and
-    (ii) takes into account any applicable iwi participation arrangements; and
+  (a) examine the extent to which the objectives of the proposal in the draft development plan are the most appropriate way to achieve the project objectives, by—
+    (i) identifying other reasonably practicable options for achieving the objectives; and
+    (ii) assessing the efficiency and effectiveness of the provisions in achieving the objectives; and
+    (iii) summarising the reasons for deciding on the provisions; and
+  (b) contain a level of detail that corresponds to the scale and significance of the environmental, economic, social, and cultural effects that are anticipated from the implementation of the provisions of the draft development plan; and
+  (c) identify and assess the benefits and costs of the environmental, economic, social, and cultural effects that are anticipated from the implementation of the provisions of the draft development plan, including the opportunities for—
+    (i) economic growth that are anticipated to be provided or reduced; and
+    (ii) employment that are anticipated to be provided or reduced; and
+  (d) if practicable, quantify the benefits and costs referred to in paragraph (c); and
+  (da) assess the risk of acting or not acting if there is uncertain or insufficient information about the subject matter of the provisions; and
   (e) summarise the recommendations and comments received on the draft development plan from Māori entities and the response, including any provisions that give effect to the recommendations or comments received; and
   (f) in relation to land within the project area, provide information on—
     (i) how Kāinga Ora intends to use any RFR land or land that is subject to other relevant redress under a Treaty settlement Act; and
@@ -1058,7 +1055,7 @@ Categories of land
 (1) In addition to the matters required under section 69, an evaluation report must also include the following matters:
   (a) how environmental constraints and opportunities associated with a specified development project will be managed; and
   (b) if relevant, a statement as to how the following matters have been provided for in the draft development plan:
-    (i) the Māori cultural, archaeological, and historic heritage values identified in accordance with section 32(1)﻿(e) as part of the project assessment under subpart 1:
+    (i) the Māori cultural, archaeological, and cultural heritage values identified in accordance with section 32(1)﻿(e) as part of the project assessment under subpart 1:
     (ii) the recommendations of Heritage New Zealand Pouhere Taonga received as part of that assessment; and
   (c) a broad assessment of the likely effects on the environment of the matters reported on in paragraphs (a) and (b) and any recommendations of Heritage New Zealand Pouhere Taonga; and
   (d) how Kāinga Ora has had regard to—
@@ -1099,13 +1096,13 @@ Obligations in relation to Māori interests
     (ii) the local authority has, under a Treaty settlement Act, entered into an agreement with the entity that provides a role for the entity, or a group represented by the entity, in the management of the reserve.
 Approvals by Minister of Conservation
 (8) Kāinga Ora must—
-  (a) submit to the Minister of Conservation for approval any provisions in a draft development plan that override, add to, or suspend provisions in a regional coastal plan; and
+  (a) submit to the Minister of Conservation for approval any provisions in a draft development plan that override, add to, or suspend provisions in a natural and built environment plan; and
   (b) if the draft development plan provides for the revocation or cancellation of a conservation interest in land that is not owned by Kāinga Ora, obtain the land owner’s agreement to the revocation or cancellation, subject to any conditions that the Minister of Conservation may impose on the use of the land.
 (9) If a specified development project is within, or includes any part of, the coastal marine area, a specified reserve, or land subject to any conservation interest, the following approvals of the Minister of Conservation are required for the development of the land under a specified development project before a draft development plan is publicly notified:
   (a) approval of any conditions applying to a proposal—
     (i) to set apart, classify, or vest an existing specified reserve or a proposed reserve:
     (ii) that relates to a covenant over land; and
-  (b) approval of any provisions of the draft development plan that override, add to, or suspend the provisions of a regional coastal plan.
+  (b) approval of any provisions of the draft development plan that override, add to, or suspend the provisions of a natural and built environment plan.
 (10) In approving the matters specified in subsections (8) and (9), the Minister of Conservation must—
   (a) have regard to the classification of the reserve and the purpose of the classification under the relevant provisions of the Reserves Act 1977; and
   (b) have regard to the values and significance of the coastal marine area, specified reserve, or land that is subject to a conservation interest; and
@@ -1113,8 +1110,8 @@ Approvals by Minister of Conservation
   (d) in the case of scenic reserves, be satisfied that any loss of scenic values will be appropriately mitigated by—
     (i) implementing measures to improve any remaining part of the reserve:
     (ii) offsetting the loss of all or part of the reserve by providing new reserve land in reasonable proximity to the community served by the original reserve and with the same purpose and values as the original reserve; and
-  (e) in the case of historic reserves, be satisfied that adequate provision will be made for public visual appreciation of, and appropriate public access to, the historic heritage values of the reserve; and
-  (f) in the case of esplanade reserves and esplanade strips, be satisfied that approval will not compromise the purposes of esplanade reserves and esplanade strips, as set out in section 229 of the Resource Management Act 1991; and
+  (e) in the case of historic reserves, be satisfied that adequate provision will be made for public visual appreciation of, and appropriate public access to, the cultural heritage values of the reserve; and
+  (f) in the case of esplanade reserves and esplanade strips, be satisfied that approval will not compromise the purposes of esplanade reserves and esplanade strips, as set out in section 609 of the Natural and Built Environment Act 2023; and
   (g) in the case of a proposed reserve that is to become a Crown protected area, be satisfied that the proposed reserve name complies with any rules, standards, or guidelines developed under section 12(b) of the New Zealand Geographic Board (Ngā Pou Taunaha o Aotearoa) Act 2008 for naming Crown protected areas.
 Approvals by local authority
 (11) If Kāinga Ora proposes, in a draft development plan, provisions relating to the use, modification, or disposal of a park or regional park, Kāinga Ora must—
@@ -1250,7 +1247,7 @@ In making a decision under section 81, the responsible Minister must—
 (1) If the IHP makes no recommendations in its report made under section 79(1) to change the draft development plan, the responsible Minister may approve the draft development plan as the operative development plan with effect on and from the date given in the notice required by subsection (5).
 (2) If the responsible Minister approves the recommendations of the IHP, the draft development plan becomes the operative development plan on the day specified in the notice given under subsection (5).
 (3) If the responsible Minister approves a recommendation of the IHP to decline the draft development plan, notice of that must be given under subsection (5).
-(4) A decision of the responsible Minister under subsection (1) or (2) includes the approval of any provisions in the plan that override, add to, or suspend provisions in a regional coastal plan.
+(4) A decision of the responsible Minister under subsection (1) or (2) includes the approval of any provisions in the plan that override, add to, or suspend provisions in a natural and built environment plan.
 (5) After the responsible Minister has given approval under this section, Kāinga Ora must notify the draft development plan in the Gazette, stating—
   (a) the date on which the development plan becomes operative, which (subject to any appeals under section 85) must not be earlier than 25 working days after the date on which notice is given under this subsection; and
   (b) that the development plan is available free of charge on the Kāinga Ora Internet site.
@@ -1277,8 +1274,8 @@ Kāinga Ora must provide any relevant Māori entity with a copy of the statement
 
 ### 86 Effect of development plan becoming operative
 On and from the date on which a development plan is notified under section 83(5)﻿(a) as taking effect, and until the specified development project is disestablished,—
-  (a) Kāinga Ora is the consent authority for resource consent applications to the territorial authority for the project area, as defined in the development plan (see section 109(1)):
-  (b) a designation in a district plan within a project area ceases to apply in the project area, and only designations included in the development plan have effect in the project area (see section 87(2)):
+  (a) Kāinga Ora is the consent authority for resource consent applications to the territorial authority for the project area, as defined in the development plan, unless the development plan provides otherwise or another exception applies (see section 109(1)):
+  (b) a designation in a natural and built environment plan within a project area ceases to apply in the project area, and only designations included in the development plan have effect in the project area (see section 87(2)):
   (c) Kāinga Ora is a territorial authority for the purpose of considering notices of requirement lodged by requiring authorities other than Kāinga Ora for designations in the project area:
   (d) under subpart 3 of Part 3 and in accordance with the development plan,—
     (i) reserves may be set apart and new reserves may be created for the purposes of the specified development project (see section 138(1)); and
@@ -1287,21 +1284,21 @@ On and from the date on which a development plan is notified under section 83(5)
   (f) Kāinga Ora may exercise the infrastructure powers set out in subpart 4 of Part 3 in accordance with the development plan (see section 140(1)):
   (g) Kāinga Ora may use the various funding mechanisms provided for in Part 4 in accordance with the development plan.
 
-### 87 Continuing application of planning instruments in project area
-(1) The planning instruments that apply in a project area continue to apply in the project area unless overridden by, added to, or suspended by a development plan.
-(2) Despite subsection (1), the provisions of a designation included in a district plan will not apply within a project area on and from the date of the development plan becoming operative (see section 83(5)﻿(a)).
-(3) However, if there is any inconsistency, the development plan prevails over any relevant planning instrument.
+### 87 Continuing application of natural and built environment plan in project area
+(1) The natural and built environment plans that apply in a project area continue to apply in the project area unless overridden by, added to, or suspended by a development plan.
+(2) Despite subsection (1), the provisions of a designation included in a natural and built environment plan will not apply within a project area on and from the date of the development plan becoming operative (see section 83(5)﻿(a)).
+(3) However, if there is any inconsistency, the development plan prevails over any relevant natural and built environment plan.
 
-### 88 When development plan and planning instruments may be inconsistent
-(1) Subject to section 58, a development plan may, for the duration of the specified development project, override, add to, or suspend the whole or part of any planning instrument that applies to the project area.
-(2) However, subsection (1) does not apply to any objective, policy, rule, or other method relating to historic heritage included in a planning instrument, unless the change imposes more stringent management or protection for historic heritage.
+### 88 When development plan and natural and built environment plan may be inconsistent
+(1) Subject to section 58, a development plan may, for the duration of the specified development project, override, add to, or suspend the whole or part of any natural and built environment plan that applies to the project area and, despite sections 167(b) and 104 of the Natural and Built Environment Act 2023, may be inconsistent with the applicable regional spatial strategy.
+(2) However, subsection (1) does not apply to any plan outcome or policy, rule, or other method relating to cultural heritage included in a natural and built environment plan, unless the change imposes more stringent management or protection for cultural heritage.
 
 ### 89 Status and relevance of iwi planning documents
-(1) If an enactment specifies that an iwi planning document is to be treated as part of a planning instrument, a development plan does not override or have any effect on the iwi planning document, which continues to apply in the relevant project area.
+(1) If an enactment specifies that an iwi planning document is to be treated as part of a natural and built environment plan, a development plan does not override or have any effect on the iwi planning document, which continues to apply in the relevant project area.
 (2) Subsection (1) has effect as if a reference in that enactment—
   (a) to a local authority were a reference to Kāinga Ora; and
-  (b) to a planning instrument were a reference to a development plan made under this Act.
-(3) Kāinga Ora is not bound by a Mana Whakahono a Rohe (see subpart 2 of Part 5 of the Resource Management Act 1991).
+  (b) to a natural and built environment plan were a reference to a development plan made under this Act.
+(3) Kāinga Ora is not bound by a Mana Whakahono a Rohe (see subpart 6 of Part 3 of the Natural and Built Environment Act 2023).
 
 **Review and amendment of development plans**
 
@@ -1310,10 +1307,10 @@ On and from the date on which a development plan is notified under section 83(5)
   (a) may at any time review a development plan; but
   (b) must review a development plan not later than 10 years after its notification under section 83(5), unless the development plan specifies a different review period.
 (2) A review of a development plan must be publicly notified as if it were an amendment to that plan.
-(3) If under any iwi participation legislation, a local authority—
-  (a) is required to review a planning instrument, the requirement applies to Kāinga Ora when it reviews the development plan:
-  (b) is required to prepare or change a planning instrument, the requirement applies to Kāinga Ora when it starts to prepare or change the development plan:
-  (c) must notify a planning instrument, the requirement applies to Kāinga Ora when it notifies the draft development plan for public consultation (see section 73).
+(3) If under any iwi and hapū participation legislation, a local authority—
+  (a) is required to review a natural and built environment plan, the requirement applies to Kāinga Ora when it reviews the development plan:
+  (b) is required to prepare or change a natural and built environment plan, the requirement applies to Kāinga Ora when it starts to prepare or change the development plan:
+  (c) must notify a natural and built environment plan, the requirement applies to Kāinga Ora when it notifies the draft development plan for public consultation (see section 73).
 
 ### 91 Amendment of development plan by Kāinga Ora
 (1) Kāinga Ora must not amend a development plan unless—
@@ -1321,8 +1318,8 @@ On and from the date on which a development plan is notified under section 83(5)
   (b) any amendments are required to achieve the project objectives.
 (2) However, Kāinga Ora may amend a development plan without following the process required by sections 73 and 74 if the amendments are required—
   (a) to maintain consistency with—
-    (i) the planning instruments applying in the project area before any change was made, if an instrument is changed; or
-    (ii) any relevant new or amended national direction applying to the specified development project or in the project area; or
+    (i) the natural and built environment plans applying in the project area before any change was made, if a natural and built environment plan is changed; or
+    (ii) any amendments to the national planning framework applying to the specified development project or in the project area; or
   (b) to make technical or incidental minor changes, and the responsible Minister has approved the changes.
 (3) Kāinga Ora may amend a development plan otherwise than as provided for by subsection (1) or (2), but must follow the processes set out in sections 73 and 74.
 (4) When a development plan is amended, an evaluation report must be prepared in relation to the new content proposed for the development plan.
@@ -1330,7 +1327,7 @@ On and from the date on which a development plan is notified under section 83(5)
 **Private plan change to development plan**
 
 ### 92 Requests for private changes to development plans
-(1) Any person may request a change to the way in which a planning instrument is modified by a development plan, as long as—
+(1) Any person may request a change to the way in which a natural and built environment plan is overridden by, added to, or suspended by a development plan, as long as—
   (a) the change is not requested within 2 years of the development plan becoming operative; and
   (b) Kāinga Ora has not notified a draft development plan that proposes changes to the development plan for the same project area; and
   (c) the requested change applies only to a part, and not the whole, of a project area.
@@ -1348,7 +1345,7 @@ On and from the date on which a development plan is notified under section 83(5)
 (1) A request for a change to a development plan must be made in writing to Kāinga Ora—
   (a) stating the purpose of, and reasons for, the proposed change; and
   (b) providing an evaluation report on the proposed change, prepared in accordance with sections 69 and 70 (which apply with the necessary modifications).
-(2) The provisions of Part 2 of Schedule 1 of the Resource Management Act 1991 apply with the necessary modifications and as relevant to a request made under section 92.
+(2) The provisions of subpart 2 of Part 2 of Schedule 6 of the Natural and Built Environment Act 2023 apply with the necessary modifications and as relevant to a request made under section 92.
 
 ## Part 3 — Effect of specified development projects
 
@@ -1365,46 +1362,44 @@ On and from the date on which a development plan is notified under section 83(5)
 
 **Planning and consenting: general**
 
-### 95 Continuing application of planning instruments and role of local authorities in project area
+### 95 Continuing application of natural and built environment plans and role of local authorities in project area
 In the transitional period for a specified development project, except as modified by this subpart,—
-  (a) the planning instruments that apply in a project area continue to apply in the project area; and
-  (b) the relevant local authorities retain all of their functions, powers, and duties under the Resource Management Act 1991 in relation to the project area.
+  (a) the natural and built environment plans that apply in a project area continue to apply in the project area; and
+  (b) the relevant local authorities retain all of their functions, powers, and duties under the Natural and Built Environment Act 2023 in relation to the project area.
 
-### 96 Local authorities must include map of project area, etc, in planning instruments
-(1) Without using the processes required for a plan change under Schedule 1 of the Resource Management Act 1991, every local authority must include in the electronic versions of its planning instruments—
-  (a) a map showing the area of any project area within their district or region; and
+### 96 Local authorities must include map of project area, etc, in natural and built environment plans
+(1) Without using the processes required for a plan change under subpart 2 of Part 2 of Schedule 6 of the Natural and Built Environment Act 2023 or the process required by section 28 of the Spatial Planning Act 2023, every regional planning committee must include in the electronic versions of its natural and built environment plan and regional spatial strategy—
+  (a) a map showing the area of any project area within its district or region; and
   (b) advice on where to access the relevant development plan or draft development plan.
 (2) The obligations under subsection (1) are obligations that apply—
   (a) as soon as practicable after any specified development project is established; and
   (b) for the duration of that project.
 
 ### 97 Local authority may transfer consenting functions to Kāinga Ora
-(1) In the transitional period for a specified development project, a local authority may transfer to Kāinga Ora any 1 or more of the local authority’s functions, powers, or duties as a consent authority under the Resource Management Act 1991 for resource consent applications in the project area.
-(2) Section 33 of the Resource Management Act 1991 applies in relation to the transfer as if Kāinga Ora were a public authority under section 33(2) of that Act.
+(1) In the transitional period for a specified development project, a local authority may transfer to Kāinga Ora any 1 or more of the local authority’s functions, powers, or duties as a consent authority under the Natural and Built Environment Act 2023 for resource consent applications in the project area.
+(2) Section 57 of the Natural and Built Environment Act 2023 applies in relation to the transfer as if Kāinga Ora were a public authority under section 57(5) of that Act.
 (3) Section 111 (which contains a governance principle) applies with the necessary modifications to Kāinga Ora performing the transferred functions and powers.
 (4) On expiration of the transitional period, this section continues to apply in respect of any resource consent applications in the project area in respect of which a local authority is the consent authority (see section 109).
 
-**Regional or district plan changes in transitional period**
+**Natural and built environment plan changes in transitional period**
 
 ### 98 Local authority preparing or changing plan must have regard to certain additional matters
-(1) This section applies if, in a transitional period, a local authority is preparing or changing a district or regional plan that applies (or would apply) in the relevant project area.
-(2) The local authority must have regard to the project area and the relevant project objectives, to the extent that their content has a bearing on resource management issues in the district or region (as relevant).
+(1) This section applies if, in a transitional period, a regional planning committee is preparing or changing a natural and built environment plan that applies (or would apply) in the relevant project area.
+(2) The regional planning committee must have regard to the project area and the relevant project objectives, to the extent that their content has a bearing on resource management issues in the district or region (as relevant).
 
-### 99 Relevant local authority must notify Kāinga Ora before final consideration of plan change
-(1) This section applies if a change to a district or regional plan applying in a project area will, if approved, become operative in the project’s transitional period.
-(2) The relevant local authority must notify Kāinga Ora of that fact, in writing, at least 20 working days before whichever of the following is relevant to the plan change:
-  (a) the date on which the relevant local authority considers whether to approve or adopt the plan change under clause 17 or 18 of Schedule 1 of the Resource Management Act 1991:
-  (b) the date on which the relevant local authority submits the information required by clause 83(1) of Schedule 1 of the Resource Management Act 1991 to the Minister described in that clause.
+### 99 Regional planning committee must notify Kāinga Ora before final consideration of plan change
+(1) This section applies if a change to a natural and built environment plan applying in a project area will, if approved, become operative in the project’s transitional period.
+(2) The regional planning committee must notify Kāinga Ora of that fact, in writing, at least 20 working days before the date on which the committee considers whether to approve or adopt the plan change under clause 44 of Schedule 6 of the Natural and Built Environment Act 2023.
 
 ### 100 Power to decline plan change in project area by notice
 Decision
-(1) Kāinga Ora may, within 15 working days of receiving a notice under section 99 (or of otherwise becoming aware of an approval, adoption, or submission of information under clause 17, 18, or 83(1) of Schedule 1 of the Resource Management Act 1991 for which it should have received that notice),—
+(1) Kāinga Ora may, within 15 working days of receiving a notice under section 99 (or of otherwise becoming aware of a decision under clause 44 of Schedule 6 of the Natural and Built Environment Act 2023 for which it should have received that notice),—
   (a) decide that the plan change, or a part of the plan change, will not apply in the project area; and
-  (b) give written notice to the relevant local authority of its decision.
+  (b) give written notice to the regional planning committee of its decision.
 (2) However, Kāinga Ora may only make and give notice of its decision under subsection (1) if Kāinga Ora considers that, in order to achieve the project objectives for the relevant specified development project, it is reasonably necessary to make that decision.
 Effects depend on written notice within time
 (3) A decision of Kāinga Ora under subsection (1)—
-  (a) has the effects set out in subsection (5) only if the written notice is given to the relevant local authority within the time frame in subsection (1); and
+  (a) has the effects set out in subsection (5) only if the written notice is given to the regional planning committee within the time frame in subsection (1); and
   (b) otherwise, has no effects.
 (4) If a decision relates to only part of a plan change, the notice by Kāinga Ora must clearly specify which part will not apply in the project area.
 Effects
@@ -1414,13 +1409,13 @@ Effects
 (6) The notice has no effect on any of the following:
   (a) the plan change being approved and becoming operative in respect of areas outside the project area:
   (b) in the case of a notice that relates to a specified part of the plan change, the rest of the plan change being approved and becoming operative in respect of the project area.
-(7) This section applies despite anything to the contrary in this Act or the Resource Management Act 1991.
+(7) This section applies despite anything to the contrary in this Act or the Natural and Built Environment Act 2023.
 
 ### 101 Appeal rights in relation to exercise of section 100 power
 (1) Any 1 or more of the following persons may appeal to the High Court on a question of law in respect of a decision made by Kāinga Ora under section 100(1):
   (a) the applicant for the plan change (if any):
   (b) the relevant local authority:
-  (c) any person who made a submission under the Resource Management Act 1991 on the plan change.
+  (c) any person who made a submission under the Natural and Built Environment Act 2023 on the plan change.
 (2) A person who has a right of appeal under subsection (1)﻿(c) may appeal only in respect of a matter raised in the person’s submission.
 
 **Decisions on resource consents in transitional period**
@@ -1436,10 +1431,10 @@ Effects
   (a) Kāinga Ora is the applicant; or
   (b) Kāinga Ora has given its written approval to the application; or
   (c) the application is not complete.
-(4) In this section, local authority means the local authority as consent authority under the Resource Management Act 1991.
+(4) In this section, local authority means the local authority as consent authority under the Natural and Built Environment Act 2023.
 
 ### 103 What consent authority must do with relevant applications
-(1) This section applies, despite anything to the contrary in the Resource Management Act 1991, to a relevant application (as defined in section 102).
+(1) This section applies, despite anything to the contrary in the Natural and Built Environment Act 2023, to a relevant application (as defined in section 102).
 (2) Before the consent authority may grant the resource consent or change or cancel the condition, it must give to Kāinga Ora a copy of the relevant application, along with a copy of the following, in order that Kāinga Ora may make a decision under section 104(1):
   (a) the consent authority’s draft decision; and
   (b) any conditions that the consent authority would impose on the resource consent.
@@ -1449,19 +1444,19 @@ Effects
   (b) the earlier of—
     (i) the date that is 10 working days after date A:
     (ii) the date on which the consent authority receives written notice of a decision of Kāinga Ora under section 104.
-(5) That time period is excluded from any time limits under the Resource Management Act 1991 relating to the relevant application.
+(5) That time period is excluded from any time limits under the Natural and Built Environment Act 2023 relating to the relevant application.
 
 ### 104 Power to decline relevant applications or impose or modify conditions
 (1) Kāinga Ora may, within 10 working days of receiving documentation under section 103(2),—
   (a) decide to decline all or part of the relevant application, to impose conditions on the resource consent, or to modify any conditions that the consent authority would impose on the resource consent; and
   (b) give written notice to the consent authority of its decision, with reasons.
 (2) However, Kāinga Ora may only make and give notice of a decision under subsection (1) if Kāinga Ora considers that, in order to achieve the project objectives for the relevant project, it is reasonably necessary to make that decision.
-(3) When exercising a power under subsection (1), sections 104 to 111 of the Resource Management Act 1991 apply to Kāinga Ora as if it were the consent authority, but with the modification that references, in those sections, to Part 2 of that Act are treated as references to subpart 1 of Part 1 of this Act.
+(3) When Kāinga Ora is exercising a power under subsection (1), sections 286 to 299 of the Natural and Built Environment Act 2023 apply as if Kāinga Ora were the consent authority, but with the modification that a reference to the purpose of that Act must be treated as a reference to subpart 1 of Part 1 of this Act.
 
 ### 105 Right of objection in relation to exercise of section 104 power
 (1) The applicant or the consent holder has a right of objection in relation to a decision of Kāinga Ora under section 104(1).
 (2) The objection must be heard by a hearings commissioner.
-(3) Sections 357C to 358 of the Resource Management Act 1991 apply, with the necessary modifications, as if the objection was made under section 357A(1)﻿(f) or (g) of that Act.
+(3) Sections 768 to 771 of the Natural and Built Environment Act 2023 apply, with the necessary modifications, as if the objection were made under section 765 of that Act.
 
 ### 106 Appeal rights in relation to exercise of section 104 power
 Section 129 applies in relation to the whole or any part of a decision of Kāinga Ora under section 104(1), with the modifications that—
@@ -1474,13 +1469,13 @@ Section 129 applies in relation to the whole or any part of a decision of Kāing
 Kāinga Ora and every relevant territorial authority for a project area (the agencies) must give reasonable and timely assistance to a person seeking to determine which of the agencies is responsible for, or capable of performing, particular work or activities in a project area or a part of it.
 
 ### 108 Information, advice, and record-keeping obligations from establishment
-(1) Subsection (2) applies if a Treaty settlement Act, Treaty settlement deed, or other iwi participation legislation applying in a project area requires a local authority—
-  (a) to keep and maintain records under section 35A of the Resource Management Act 1991:
+(1) Subsection (2) applies if a Treaty settlement Act, Treaty settlement deed, or other iwi and hapū participation legislation applying in a project area requires a local authority—
+  (a) to keep and maintain records under section 755 of the Natural and Built Environment Act 2023:
   (b) to provide certain information or advice at the request of a Māori entity.
 (2) Kāinga Ora must—
   (a) comply with the requirement in subsection (1)﻿(a) as if it were the local authority; and
   (b) comply with a request from a relevant Māori entity for information or advice as if it were the local authority, to the extent that Kāinga Ora holds the information or can provide the advice.
-(3) If an advisory board, committee, or authority has been established under a Treaty settlement Act, Treaty settlement deed, or other iwi participation legislation to provide advice on the management of a natural resource within a project area, Kāinga Ora must, in the manner required by that Act, deed, or other legislation—
+(3) If an advisory board, committee, or authority has been established under a Treaty settlement Act, Treaty settlement deed, or other iwi and hapū participation legislation to provide advice on the management of a natural resource within a project area, Kāinga Ora must, in the manner required by that Act, deed, or other legislation—
   (a) respond to the advice given:
   (b) seek, and have regard to, any advice if Kāinga Ora—
     (i) is preparing, changing, or reviewing a development plan:
@@ -1492,22 +1487,24 @@ Kāinga Ora and every relevant territorial authority for a project area (the age
 
 ### 109 Role of Kāinga Ora in relation to resource consent applications
 (1) On and from the date on which a development plan for a specified development project becomes operative in accordance with section 83, Kāinga Ora—
-  (a) is the consent authority under the Resource Management Act 1991 for all resource consent applications in the project area, if the territorial authority would otherwise be the consent authority for the purposes of that Act; but
-  (b) is not the consent authority if a regional council, the Minister for the Environment, or the Environmental Protection Authority would be the consent authority under the Resource Management Act 1991.
+  (a) is the consent authority under the Natural and Built Environment Act 2023 for all resource consent applications in the project area, if the territorial authority would otherwise be the consent authority for the purposes of that Act; but
+  (b) is not the consent authority if—
+    (i) a regional council, the Minister for the Environment, or the Environmental Protection Authority would be the consent authority under the Natural and Built Environment Act 2023; or
+    (ii) the development plan states that Kāinga Ora is not to be the consent authority (in which case each relevant territorial authority is the consent authority for the part of the project area that is within its district and this section and sections 110 to 128 apply to the territorial authority with the necessary modifications).
 (2) Kāinga Ora must also perform the functions of monitoring, enforcing, and promoting compliance in a project area for—
   (a) resource consents granted by Kāinga Ora; and
-  (b) activities specified as permitted activities in the district plan as amended by the development plan; and
-  (c) activities not permitted under the district plan as amended by the development plan and for which a resource consent has not been granted.
-(3) For the purposes of carrying out its functions under subsection (2), Kāinga Ora may, as if it were a local authority, authorise enforcement officers under section 38 of the Resource Management Act 1991.
-(4) Enforcement undertaken under this subpart in respect of activities that are not permitted under the development plan or by a resource consent must comply with the requirements for entry onto private property under sections 332, 334, and 335 of the Resource Management Act 1991.
-(5) If a Treaty settlement Act, Treaty settlement deed, or other iwi participation legislation that applies in a project area has provisions for a local authority and a Māori entity to discuss and agree matters of the kind described in subsection (6), those provisions apply as if Kāinga Ora were the local authority.
+  (b) activities specified as permitted activities in the natural and built environment plan as overridden by, added to, or suspended by the development plan; and
+  (c) activities not permitted under the natural and built environment plan as overridden by, added to, or suspended by the development plan and for which a resource consent has not been granted.
+(3) For the purposes of carrying out its functions under subsection (2), Kāinga Ora may, as if it were a local authority, authorise enforcement officers under section 725 of the Natural and Built Environment Act 2023.
+(4) Enforcement undertaken under this subpart in respect of activities that are not permitted under the development plan or by a resource consent must comply with the requirements for entry onto private property under sections 727 and 729 to 731 of the Natural and Built Environment Act 2023.
+(5) If a Treaty settlement Act, Treaty settlement deed, or other iwi and hapū participation legislation that applies in a project area has provisions for a local authority and a Māori entity to discuss and agree matters of the kind described in subsection (6), those provisions apply as if Kāinga Ora were the local authority.
 (6) The matters referred to in subsection (5) are—
   (a) priorities and methods for monitoring, and the extent of, and responses to, that monitoring; and
   (b) the role of the Māori entity in monitoring and enforcement.
 
 ### 110 Monitoring and enforcement of subdivision consents
-(1) In relation to subdivision consents within a project area, the functions of a territorial authority in respect of monitoring and enforcement under Part 10 of the Resource Management Act 1991 become the functions of Kāinga Ora under this subpart.
-(2) Part 10 of the Resource Management Act 1991 applies to subdivision consents granted under this subpart as if Kāinga Ora were the territorial authority.
+(1) In relation to subdivision consents within a project area, the functions of a territorial authority in respect of monitoring and enforcement under Part 10 of the Natural and Built Environment Act 2023 become the functions of Kāinga Ora under this subpart.
+(2) Part 10 of the Natural and Built Environment Act 2023 applies to subdivision consents granted under this subpart as if Kāinga Ora were the territorial authority.
 
 ### 111 Governance principle applying to Kāinga Ora acting as consent authority
 When Kāinga Ora is performing the functions or exercising the powers of a consent authority under this subpart, it must ensure that, so far as is practicable, the responsibility and processes relevant to its regulatory responsibilities are separated from the responsibility and processes for non-regulatory decision making.
@@ -1517,98 +1514,113 @@ When Kāinga Ora is performing the functions or exercising the powers of a conse
 (2) The consent authority is subject to the same obligations as apply to the consent authority or other party under the relevant Treaty settlement Act.
 (3) In this section, the terms statutory acknowledgement, deed of recognition, and overlay classification have the meanings given to those terms in the relevant Treaty settlement Act.
 
+### 112A Kāinga Ora may transfer consenting functions to relevant territorial authorities
+(1) Kāinga Ora may, at any time, transfer its functions, duties, and powers under sections 109 and 110 to each of the relevant territorial authorities for a specified development project.
+(2) Kāinga Ora—
+  (a) must give each relevant territorial authority at least 20 working days’ written notice of the transfer; but
+  (b) may make the transfer regardless of whether the relevant territorial authority agrees to it.
+(3) Nothing in subsection (2)﻿(b) limits the ability of Kāinga Ora and a relevant territorial authority to agree the terms of a transfer.
+(4) If Kāinga Ora makes a transfer under this section to a relevant territorial authority, the territorial authority is the consent authority for the part of the project area that is within its district and sections 109 to 112 and 113 to 128 apply to the territorial authority with the necessary modifications.
+
 **Basis of decision making in relation to resource consent applications under this Part**
 
 ### 113 Resource consents: decision-making framework
 (1) Every person exercising a power in relation to a resource consent application under this subpart must have regard to the following matters, giving them weight in the order listed, from greater to lesser:
   (a) the project objectives; and
-  (b) the matters that arise for consideration under sections 104 to 107 of the Resource Management Act 1991, modified in accordance with subsection (2).
-(2) The modifications referred to in subsection (1)﻿(b) are:
-  (a) a reference to Part 2 of the Resource Management Act 1991 is to be read as a reference to subpart 1 of Part 1 of this Act:
-  (b) a reference to a plan or proposed plan is to be read as a reference to a plan as overridden by, added to, or suspended by a development plan.
-(3) Subsection (4) applies if a Treaty settlement Act, Treaty settlement deed, or other iwi participation legislation applying in a project area—
-  (a) provides for a Māori entity to prepare, or contribute to, an iwi planning document for a district that is, or overlaps with, a project area and requires the relevant local authority to have regard to that planning document when determining resource consent applications under the district plan:
+  (b) the matters that arise for consideration under sections 286 to 293 of the Natural and Built Environment Act 2023, modified in accordance with subsection (2).
+(2) The modifications referred to in subsection (1)﻿(b) are as follows:
+  (a) a reference to the purpose of the Natural and Built Environment Act 2023 is to be read as a reference to subpart 1 of Part 1 of this Act:
+  (b) a reference to a natural and built environment plan or proposed natural and built environment plan is to be read as a reference to a natural and built environment plan as overridden by, added to, or suspended by a development plan:
+  (c) section 286(2)﻿(c)﻿(ii) of the Natural and Built Environment Act 2023 does not apply:
+  (d) section 286(2)﻿(e) of that Act does not apply to the extent that it relates to a regional spatial strategy.
+(3) Subsection (4) applies if a Treaty settlement Act, Treaty settlement deed, or other iwi and hapū participation legislation applying in a project area—
+  (a) provides for a Māori entity to prepare, or contribute to, an iwi planning document for a district that is, or overlaps with, a project area and requires the relevant local authority to have regard to that planning document when determining resource consent applications under the natural and built environment plan:
   (b) provides an obligation for the local authority and a Māori entity jointly to develop criteria to assist local authority decision making in relation to resource consent applications.
-(4) When Kāinga Ora is acting as a consent authority in a project area, Kāinga Ora has the obligations described in subsection (3) as if it were the local authority and the development plan were a district plan.
+(4) When Kāinga Ora is acting as a consent authority in a project area, Kāinga Ora has the obligations described in subsection (3) as if it were the local authority and the development plan were a natural and built environment plan.
 
-**Application of provisions of Resource Management Act 1991**
+**Application of provisions of Natural and Built Environment Act 2023**
 
 ### 114 Resource consents required for activities relating to specified development project
-(1) The restrictions applying to activities under sections 9 to 15 of the Resource Management Act 1991 apply, with any necessary modifications, to activities undertaken in a project area under this Act.
-(2) Sections 87AA to 87D of the Resource Management Act 1991 apply, to the extent that they are relevant, to a specified development project, modified as follows:
+(1) The restrictions applying to activities under sections 21 to 34 of the Natural and Built Environment Act 2023 apply, with any necessary modifications, to activities undertaken in a project area under this Act.
+(2) Sections 153 to 232 of the Natural and Built Environment Act 2023 apply, to the extent that they are relevant, to a specified development project, modified as follows:
   (a) a reference to a plan or proposed plan means a plan as overridden by, added to, or suspended by a development plan; and
   (b) a reference to a consent authority includes a reference to Kāinga Ora.
-(3) The following provisions of the Resource Management Act 1991 apply with the following modifications:
-  (a) section 87E (except subsection (6A)):
-  (b) section 87F (but subsection (5) is to be read as including Kāinga Ora, unless Kāinga Ora is acting as the consent authority):
-  (c) section 87G(6) and (7) must be read as requiring the Court to apply the decision-making framework set out in section 113 of this Act if the Environment Court is determining a new consent application or an application for a change to, or cancellation of, a resource consent.
+(3) The following provisions of the Natural and Built Environment Act 2023 apply with the following modifications:
+  (a) sections 233 and 234 (except section 234(4)):
+  (b) section 235 (but subsection (5) is to be read as including Kāinga Ora, unless Kāinga Ora is acting as the consent authority):
+  (c) sections 236 to 238 (but section 236(6) and (7) must be read as requiring the Environment Court to apply the decision-making framework set out in section 113 of this Act if the court is determining a new consent application or an application for a change to, or cancellation of, a resource consent).
 
 **Resource consent processes**
 
 ### 115 Applications for resource consents
 (1) Any person may apply to the consent authority for a resource consent for an activity to be undertaken within a project area.
-(2) An application must be made in the form and manner prescribed under section 88(2) of the Resource Management Act 1991 (with the necessary modifications) and must include—
+(2) An application must be made in the form and manner prescribed under section 239(4) of the Natural and Built Environment Act 2023 (with the necessary modifications) and must include—
   (a) information relating to the activity, including information specified by the development plan; and
-  (b) an assessment of environmental effects that complies, to the extent that is relevant, with Schedule 4 of that Act (modified to replace a reference to Part 2 of that Act with a reference to subpart 1 of Part 1 of this Act).
+  (b) an assessment of environmental effects that complies, to the extent that is relevant, with Schedule 9 of that Act, modified to replace—
+    (i) a reference to the purpose of that Act with a reference to subpart 1 of Part 1 of this Act:
+    (ii) a reference to a natural and built environment plan with a reference to a natural and built environment plan as overridden by, added to, or suspended by the development plan.
 Complete applications
 (3) An application is complete if it—
   (a) includes the information required for the assessment of environmental effects (see subsection (2)﻿(b)); and
   (b) provides the additional information (if any) required by the development plan.
 (4) A consent authority must—
   (a) assess and determine whether an application is complete—
-    (i) for any application for a controlled or restricted discretionary activity, within 5 working days of receiving the application:
-    (ii) for an application for a discretionary or non-complying activity within the jurisdiction of a territorial authority, within 10 working days of receiving the application; and
+    (i) for any application for a controlled activity, within 5 working days of receiving the application:
+    (ii) for an application for a discretionary activity within the jurisdiction of a territorial authority, within 10 working days of receiving the application; and
   (b) return an incomplete application to the applicant without delay, giving its reasons in writing for determining that the application is incomplete.
 (5) If the applicant lodges the returned application again, it is to be treated as a new application.
-(6) Except as expressly applied in this section, section 88 of the Resource Management Act 1991 does not apply to applications for resource consents made under this section.
+(6) Except as expressly applied in this section, section 239 of the Natural and Built Environment Act 2023 does not apply to applications for resource consents made under this section.
 
 ### 116 Processing of applications
 (1) If an application is accepted as complete in accordance with section 115(4), the consent authority must, from the date of that decision, track the processing time of the application.
-(2) Sections 88A to 88E, 89, and 89A of the Resource Management Act 1991 apply to the processing of any resource consent applications in a project area.
-(3) Section 91 of the Resource Management Act 1991 (deferral pending application for additional consents) applies, modified by reading the reference to additional consents under the Resource Management Act 1991 as a reference to additional consents under a development plan or under the Resource Management Act 1991 (see section 91(1)﻿(a) of that Act).
+(2) Sections 222, 225, 253 to 257, 262, and 263 of the Natural and Built Environment Act 2023 apply to the processing of any resource consent applications in a project area.
+(3) Section 241 of the Natural and Built Environment Act 2023 (deferral pending application for additional consents) applies, modified by reading the reference to additional consents under that Act as a reference to additional consents under a development plan or under that Act (see section 241(1)﻿(a) of that Act).
 
 ### 117 Deferral and suspension
-Sections 91A to 91F of the Resource Management Act 1991 apply to applications made under this subpart or under the Resource Management Act 1991 for further consents in relation to a project area.
+Sections 242 to 248 of the Natural and Built Environment Act 2023 apply to applications made under this subpart or under that Act for further consents in relation to a project area.
 
 ### 118 Further information may be requested at any time
-(1) A consent authority may at any time, in accordance with section 92 of the Resource Management Act 1991, request further information before hearing an application under this subpart.
-(2) Sections 92A and 92B of the Resource Management Act 1991 apply if a request is made under subsection (1).
+(1) A consent authority may at any time, in accordance with sections 249 and 184 of the Natural and Built Environment Act 2023, request further information before hearing an application under this subpart.
+(2) Sections 250 and 251 of the Natural and Built Environment Act 2023 apply if a request is made under subsection (1).
 
 ### 119 Notification
 (1) A consent authority must notify applications for resource consents if—
   (a) a provision in the relevant development plan specifies that notification is required; or
   (b) the consent authority determines that notification is required, and the nature of that notification, in accordance with subsection (3).
-(2) However, subsection (1) does not apply if a rule in the development plan, or in a plan as modified by the development plan, precludes notification.
-(3) For activities other than those required to be notified by rules in a development plan, district plan, or regional plan, the consent authority may determine whether to notify an application for a resource consent, applying the relevant provisions of sections 95 to 95G of the Resource Management Act 1991, modified by reading—
-  (a) a reference to a district plan as including a reference to a development plan; and
-  (b) a reference to a rule as including a reference to a rule in a development plan; and
-  (c) the time limits required under subsection (4) instead of those provided for in section 95(2) of the Resource Management Act 1991.
+(2) However, subsection (1) does not apply if a rule in the development plan, or in a natural and built environment plan as overridden by, added to, or suspended by the development plan, precludes notification.
+(3) For activities other than those required to be notified by rules in a development plan or natural and built environment plan, the consent authority may determine whether to notify an application for a resource consent, applying the relevant provisions of sections 264 to 205 of the Natural and Built Environment Act 2023, modified by—
+  (a) reading a reference to a natural and built environment plan—
+    (i) as a reference to a natural and built environment plan as overridden by, added to, or suspended by the development plan; and
+    (ii) as including a reference to a development plan; and
+  (b) applying the time limits required under subsection (4) instead of that provided for in section 266(2) of the Natural and Built Environment Act 2023.
 (4) The consent authority must,—
-  (a) for controlled and restricted discretionary activities for land use or subdivision, decide whether to notify within 10 working days after the application is first lodged:
+  (a) for controlled activities for land use or subdivision, decide whether to notify within 10 working days after the application is first lodged:
   (b) for all other activities, decide whether to notify within 20 working days after the application is first lodged.
 (5) The consent authority must make its decisions under subsection (3) in accordance with sections 95A and 95B of the Resource Management Act 1991.
-(6) A rule for notification in a district or regional plan under the Resource Management Act 1991 continues to apply if it is not displaced by a provision in the relevant development plan.
+(6) A rule for notification continues to apply if—
+  (a) the rule is in a natural and built environment plan as overridden by, added to, or suspended by the development plan; or
+  (b) the rule is in the national planning framework.
 
 **Processing applications**
 
 ### 120 Time limits for giving notice of decisions
 (1) For resource consent applications lodged under the development plan but not notified under section 119, a consent authority must give notice of its decision on the application within the following time limits:
-  (a) for applications for controlled or restricted discretionary land use or subdivision activities, within 10 working days of the application being first lodged:
+  (a) for applications for controlled land use or subdivision activities, within 10 working days of the application being first lodged:
   (b) for all other applications, within 20 working days of the application first being lodged.
 (2) A consent authority must issue its decision on an application notified under this subpart within the following time limits:
   (a) if a hearing is held, not later than 15 working days after the last day of the hearing:
   (b) if no hearing is held, not later than 20 working days after the closing date for submissions on the application.
-(3) This section applies instead of section 115 of the Resource Management Act 1991.
+(3) This section applies instead of section 302 of the Natural and Built Environment Act 2023.
 
 **Notified applications: submissions**
 
 ### 121 Submission process for notified applications
-(1) If an application is given public or limited notification, sections 96 to 99A and 100A of the Resource Management Act 1991 apply, with the necessary modifications, as to—
+(1) If an application is given public or limited notification, sections 272 to 280 of the Natural and Built Environment Act 2023 apply, with the necessary modifications, as to—
   (a) who may make a submission:
   (b) service of submissions:
   (c) time limits for serving submissions.
 (2) A consent authority may, at its own discretion, extend the time for making submissions.
-(3) In applying section 100A(2) and (4), if Kāinga Ora has delegated its consenting functions to a local authority, an applicant or submitters are not permitted to request a hearing by a hearings commissioner.
+(3) In applying section 280(2) and (4) of the Natural and Built Environment Act 2023, if Kāinga Ora has delegated its consenting functions to a local authority, an applicant or submitters are not permitted to request a hearing by a hearings commissioner.
 
 **Hearings**
 
@@ -1617,46 +1629,49 @@ Sections 91A to 91F of the Resource Management Act 1991 apply to applications ma
 (2) A public hearing may be held if the applicant or 1 or more submitters request to be heard (so long as subsection (3) does not apply).
 (3) A request under subsection (2) may include a request that Kāinga Ora delegate its functions, powers, and duties relating to a hearing to a hearings commissioner or the local authority, but such a request must be made not later than 5 working days after the closing date for submissions to be received on a notified application.
 (4) Even if no request is made for a hearing, the consent authority may hold a hearing if it considers that a hearing is necessary.
-(5) Despite subsections (2) to (4), there is no right to a hearing in respect of applications for resource consents for land use or subdivision activities that are controlled or restricted discretionary activities under the district plan as that plan is modified by the development plan.
-(6) However, this section applies subject to section 41D of the Resource Management Act 1991.
+(5) Despite subsections (2) to (4), there is no right to a hearing in respect of applications for resource consents for land use or subdivision activities that are anticipated activities under the natural and built environment plan as that plan is overridden by, added to, or suspended by the development plan.
+(6) However, this section applies subject to clause 90 of Schedule 6 of the Natural and Built Environment Act 2023.
 
 ### 123 Hearings
-Sections 101 to 103B of the Resource Management Act 1991 apply to the conduct of a hearing by a consent authority, but with the following modifications:
-  (a) in section 101(3) of that Act, notice must also be given to Kāinga Ora, if Kāinga Ora has delegated or transferred its role as a consent authority:
-  (b) in section 102(2) of that Act, the reference to the regional council is to be read as a reference to Kāinga Ora, unless the consent authorities with responsibilities for an application agree that another authority should be responsible for notification:
-  (c) in section 103B(2)﻿(a) of that Act, the reference to a report prepared under section 42A(1) is to be read as a reference to a report required under this Act.
+Sections 279 and 281 to 285 of the Natural and Built Environment Act 2023 apply to the conduct of a hearing by a consent authority, but with the following modifications:
+  (a) in section 279(3) of that Act, notice must also be given to Kāinga Ora, if Kāinga Ora has delegated or transferred its role as a consent authority:
+  (b) in section 281(2) of that Act, the reference to the regional council is to be read as a reference to Kāinga Ora, unless the consent authorities with responsibilities for an application agree that another authority should be responsible for notification:
+  (c) in section 284(2)﻿(a) of that Act, the reference to a report prepared under clause 92 of Schedule 6 is to be read as a reference to a report required under this Act.
 
 ### 124 Alternate appointments to hear and determine consent applications
 If a right is granted under a Treaty settlement Act, Treaty settlement deed, or other iwi participation legislation to a Māori entity to appoint persons to hear and determine resource consent applications, that right continues to apply under this Act to applications that relate to all or part of a project area as if—
-  (a) the persons appointed under that Treaty settlement Act, Treaty settlement deed, or other iwi participation legislation were appointed under this Act; and
-  (b) the development plan were the regional or district plan.
+  (a) the persons appointed under that Treaty settlement Act, Treaty settlement deed, or other iwi and hapū participation legislation were appointed under this Act; and
+  (b) the development plan were the natural and built environment plan.
 
 **Conditions of resource consents**
 
 ### 125 Conditions and other obligations
-Sections 108 to 111 of the Resource Management Act 1991 apply to resource consents granted under this subpart by a consent authority, but with the following modifications:
-  (a) in section 108(10)﻿(a) of that Act, the reference to a plan means a plan as overridden by, added to, or suspended by a development plan:
-  (b) in section 108AA(1)﻿(b)﻿(ii) of that Act, the reference to an applicable district or regional rule includes a reference to an applicable rule in the relevant development plan:
-  (c) in section 109(3) of that Act, replace the reference to section 171 of the Local Government Act 2002 with a reference to section 280 of this Act.
+Sections 294 to 299 and 677 of the Natural and Built Environment Act 2023 apply to resource consents granted under this subpart by a consent authority, but with the following modifications:
+  (a) for the purposes of section 294(1) of that Act, the consent authority may include a condition when granting a resource consent only after being satisfied—
+    (i) of the matters described in section 294(1)﻿(a) and (b) of that Act; and
+    (ii) that the condition will not adversely affect the ability of the specified development project to achieve its project objectives:
+  (b) in section 294(2)﻿(b)﻿(ii) of that Act, the reference to an applicable provision in a natural and built environment plan means a provision in an applicable natural and built environment plan as overridden by, added to, or suspended by a development plan:
+  (c) in section 295(3) of that Act, a reference to a natural and built environment plan means a natural and built environment plan as overridden by, added to, or suspended by a development plan:
+  (d) in section 677(3) of that Act, the reference to section 171 of the Local Government Act 2002 is a reference to section 280 of this Act.
 
 **Decision to be in writing and served on specified persons**
 
 ### 126 Form and service of decision
-(1) Sections 113 and 114(1) to (3) of the Resource Management Act 1991 apply, as far as they are relevant, to decisions made on resource consent applications under this subpart, but with the following modifications:
-  (a) in section 113(1)﻿(a) of that Act, the reference to relevant statutory provisions includes a reference to the relevant provisions in this Act:
-  (b) in section 113(1)﻿(ab) of that Act, a reference to a regional policy statement or a plan is a reference to a regional policy statement or plan, as the case requires, overridden by, added to, or suspended by a development plan:
-  (c) section 114(2) of that Act includes service on Kāinga Ora if it is not the consent authority.
+(1) Sections 301 and 303(1) to (3) of the Natural and Built Environment Act 2023 apply, as far as they are relevant, to decisions made on resource consent applications under this subpart, but with the following modifications:
+  (a) in section 301(1)﻿(b) of that Act, the reference to relevant statutory provisions includes a reference to the relevant provisions in this Act:
+  (b) in section 301(1)﻿(c) of that Act, a reference to a natural and built environment plan is a reference to a natural and built environment plan, as the case requires, overridden by, added to, or suspended by a development plan:
+  (c) section 303(2) of that Act includes service on Kāinga Ora if it is not the consent authority.
 (2) Kāinga Ora must serve a copy of its decision on the relevant local authority.
 
 **When resource consents commence**
 
 ### 127 Commencement of resource consents
-Sections 116 to 119A of the Resource Management Act 1991 (which relate to the commencement of resource consents) apply, as far as relevant, to consents granted under this subpart, including an application subject to the grant of an application to exchange reserve land under the Reserves Act 1977).
+Sections 318 to 325 of the Natural and Built Environment Act 2023 (which relate to the commencement of resource consents) apply, as far as relevant, to consents granted under this subpart, including an application subject to the grant of an application to exchange reserve land under the Reserves Act 1977).
 
 **Rights of objection and appeal**
 
 ### 128 Rights of objection under this Act
-(1) Sections 357 to 358 of the Resource Management Act 1991 (rights of objection and rights of appeal) apply to all rights of objection under this Act as if those sections referred to Kāinga Ora instead of to a territorial authority or requiring authority.
+(1) Sections 764 to 771 of the Natural and Built Environment Act 2023 (rights of objection and rights of appeal) apply to all rights of objection under this Act as if those sections referred to Kāinga Ora instead of to a territorial authority or requiring authority.
 (2) Any objection must be heard by a hearings commissioner.
 
 ### 129 Appeal rights in relation to resource consents in project area
@@ -1665,18 +1680,18 @@ Sections 116 to 119A of the Resource Management Act 1991 (which relate to the co
   (b) any person who made a submission on the application, but only in relation to matters raised in the submission:
   (c) in relation to a coastal permit for a restricted coastal activity, the Minister of Conservation.
 (2) Kāinga Ora may be a party to any appeal on a resource consent decision that relates to a project area.
-(3) An appeal under subsection (1) is to be treated as if it were an appeal under section 120 of the Resource Management Act 1991.
-(4) Section 121 of the Resource Management Act 1991 applies to an appeal under this section, except that the reference in section 121(1)﻿(c) to the consent authority must be read as including Kāinga Ora if Kāinga Ora is not the consent authority.
+(3) An appeal under subsection (1) is to be treated as if it were an appeal under section 313 of the Natural and Built Environment Act 2023.
+(4) Section 314 of the Natural and Built Environment Act 2023 applies to an appeal under this section, except that the reference in section 314(1)﻿(c) to the consent authority must be read as including Kāinga Ora if Kāinga Ora is not the consent authority.
 (5) An appeal may be made to the High Court against a decision of the Environment Court, but the appeal may be made only on points of law.
 (6) The High Court is the final court of appeal on matters to which this section applies.
 
-### 130 Right of appeal against direction given under section 85 of Resource Management Act 1991
-Nothing in this Act limits or affects a right of appeal to the High Court on points of law under section 299 of the Resource Management Act 1991 that a person may have against a direction given under section 85 of that Act (which relates to the reasonable use of land that is subject to controls).
+### 130 Right of appeal against direction given under section 206 of Natural and Built Environment Act 2023
+Nothing in this Act limits or affects a right of appeal to the High Court on points of law under clause 79 of Schedule 13 of the Natural and Built Environment Act 2023 that a person may have against a direction given under section 206 of that Act (which relates to the reasonable use of land that is subject to controls).
 
 **Designations**
 
 ### 131 Kāinga Ora is requiring authority
-(1) Kāinga Ora is to be treated as being approved as a network utility operator and a requiring authority under section 167 of the Resource Management Act 1991 for the purpose of carrying out—
+(1) Kāinga Ora is to be treated as being approved as a network utility operator and a requiring authority under section 513 of the Natural and Built Environment Act 2023 for the purpose of carrying out—
   (a) certain activities within a project area, in accordance with the requirements of subsection (2); and
   (b) certain activities outside a project area, in accordance with the requirements of subsection (3).
 Activities within project area
@@ -1698,33 +1713,37 @@ Activities outside a project area
 (2) This section and section 134 specify how a designation—
   (a) is incorporated into the development plan for a project area; and
   (b) is altered after its incorporation into a development plan.
-(3) Sections 168 to 186 (but not section 168A or 170) of the Resource Management Act 1991 apply, with the following necessary modifications, as if—
-  (a) a reference to Part 2 of the Resource Management Act 1991 were a reference to subpart 1 of Part 1 of this Act; and
-  (b) a reference to the territorial authority were a reference to Kāinga Ora, as the context may require; and
-  (c) a reference to a rule in section 169 of the Resource Management Act 1991, and in sections 149ZCB, 149ZCC, 149ZCD, 149ZCE, and 149ZCF of that Act (as applied by section 169(1) of that Act) included a rule in a development plan; and
-  (d) a reference to a district plan were a reference to a development plan; and
-  (e) references to both a district and regional plan were references to a plan as modified by a development plan (see sections 171(1)﻿(a)﻿(iv) and 176(2) of the Resource Management Act 1991); and
-  (f) the reference to section 170 in section 169(2) of the Resource Management Act 1991 were a reference to section 134(4) of this Act; and
-  (g) the reference to a proposed plan in section 178(3)﻿(e) of the Resource Management Act 1991 were a reference to the draft development plan; and
-  (h) a reference to a recommendation of a territorial authority were a reference to a decision of Kāinga Ora; and
-  (i) a reference to the process under Schedule 1 of the Resource Management Act 1991 were a reference to the process for preparing a development plan under subpart 2 of Part 2 of this Act; and
-  (j) a reference to clause 4 of Schedule 1 of the Resource Management Act 1991 were a reference to this section.
-(4) References to a proposed district plan in sections 175, 176, 177, and 181 of the Resource Management Act 1991 do not apply to designations within the meaning of this subpart.
-(5) Section 180 of the Resource Management Act 1991 applies, subject to Kāinga Ora, the responsible Minister, and the relevant territorial authority being advised of a transfer, as well as the Minister for the Environment.
-(6) Section 186 of the Resource Management Act 1991 has no application to land that is protected land under this Act.
+(3) Sections 517 to 546 of the Natural and Built Environment Act 2023 apply, with all necessary modifications, as if—
+  (a) a reference to a territorial authority or regional planning committee were a reference to Kāinga Ora, as the context may require; and
+  (b) a reference to a natural and built environment plan were a reference to a natural and built environment plan as overridden by, added to, or suspended by a development plan; and
+  (c) a reference to the purpose of the Natural and Built Environment Act 2023 were a reference to the project objectives of the specified development project and subpart 1 of Part 1 of this Act; and
+  (d) the references to a proposed plan in sections 526 and 533(3)﻿(d) of the Natural and Built Environment Act 2023 were references to the draft development plan; and
+  (e) a reference to a recommendation of a territorial authority or regional planning committee (or both) were a reference to a decision of Kāinga Ora; and
+  (f) a reference to the process in Schedule 6 of the Natural and Built Environment Act 2023 were a reference to the process for preparing a development plan under subpart 2 of Part 2 of this Act; and
+  (g) a reference to clause 30 of Schedule 6 of the Natural and Built Environment Act 2023 were a reference to, as applicable, section 65, 66, 67, or 134(4) of this Act.
+(4) References to a proposed natural and built environment plan in sections 522, 527, 530, 531, and 536 of the Natural and Built Environment Act 2023 do not apply to designations within the meaning of this subpart.
+(5) Section 541 of the Natural and Built Environment Act 2023 applies, subject to Kāinga Ora, the responsible Minister, and the relevant territorial authority being advised of a transfer, as well as the Minister for the Environment.
+(6) Section 540 of the Natural and Built Environment Act 2023 has no application to land that is protected land under this Act.
 
-### 133 Further modifications to Part 8 of Resource Management Act 1991
-(1) Despite section 176(1) of the Resource Management Act 1991, Kāinga Ora need not obtain the written permission of another requiring authority to do anything in accordance with a designation held by Kāinga Ora.
-(2) However, the other requiring authority must obtain the permission of Kāinga Ora under section 176(1)﻿(b) of the Resource Management Act 1991 before it does anything in accordance with its designation.
-(3) In applying section 177 of the Resource Management Act 1991, a designation for which Kāinga Ora is the requiring authority—
+### 133 Further modifications to Part 9 of Natural and Built Environment Act 2023
+(1) Despite section 531(1) of the Natural and Built Environment Act 2023, Kāinga Ora need not obtain the written permission of another requiring authority to do anything in accordance with a designation held by Kāinga Ora.
+(2) However, the other requiring authority must obtain the permission of Kāinga Ora under section 531(1)﻿(b) of the Natural and Built Environment Act 2023 before it does anything in accordance with its designation.
+(3) In applying section 532 of the Natural and Built Environment Act 2023, a designation for which Kāinga Ora is the requiring authority—
   (a) must be treated as the earliest designation that applies in the project area; but
-  (b) must not be treated as having been introduced earlier than an existing heritage order recorded in the district plan that applies in the project area.
+  (b) must not be treated as having been introduced earlier than an existing heritage order recorded in the natural and built environment plan that applies in the project area.
 (4) Subsections (1), (2), and (3) do not apply to designations for nationally significant infrastructure.
-(5) Section 171(1) of the Resource Management Act 1991 must be applied as if, for the purpose of applying Part 8 of that Act to this subpart, the requiring authority (whether Kāinga Ora or the territorial authority) must have particular regard to—
-  (a) all the matters set out in that subsection; and
-  (b) the relevant project objectives; and
-  (c) whether the work and designation are reasonably necessary for achieving those project objectives.
-(6) Section 178(2) to (6) of the Resource Management Act 1991 (interim effect of requirements for designations) applies, with the necessary modifications,—
+(5) Section 526 of the Natural and Built Environment Act 2023 applies with the necessary modifications, including the following:
+  (a) subsection (1) of that section does not apply:
+  (b) subsection (2) of that section applies if Kāinga Ora proposes to include a requirement in a draft development plan under section 67 or 134(4) of this Act.
+(5A) Sections 527 and 528 of the Natural and Built Environment Act 2023 apply with the necessary modifications, including the following:
+  (a) section 527(2) of that Act does not apply:
+  (b) section 527(3) of that Act applies as if the person considering a requirement (whether Kāinga Ora or a local authority) must—
+    (i) have regard to the matters set out in that subsection (other than subsection (3)﻿(b)); and
+    (ii) have particular regard to—
+      (A) the project objectives of the specified development project and subpart 1 of Part 1 of this Act; and
+      (B) whether the work and designation are reasonably necessary for achieving the project objectives:
+  (c) a requiring authority making a decision under section 528 of the Natural and Built Environment Act 2023 must have particular regard to the matters described in paragraph (b)﻿(ii) of this subsection.
+(6) Section 533(2) to (6) of the Natural and Built Environment Act 2023 (interim effect of requirements for designations) applies, with the necessary modifications,—
   (a) on and from the day on which a notice of requirement is lodged, if a requiring authority gives notice of the requirement for a designation in a project area:
   (b) when the draft development plan for a project area is notified under section 73, if Kāinga Ora includes a notice of requirement for a designation in the draft development plan.
 
@@ -1747,22 +1766,22 @@ Activities outside a project area
 
 ### 135 Notice of requirement for proposals of national significance
 (1) This section applies to a notice of requirement for a designation or to alter a designation that would be wholly or partly within a project area.
-(2) A requiring authority must not lodge a requirement with the Environmental Protection Authority under section 145 of the Resource Management Act 1991 for a designation or to alter a designation unless the designation relates to nationally significant infrastructure.
+(2) A requiring authority must not lodge a requirement with the Environmental Protection Authority under clause 60 of Schedule 10 of the Natural and Built Environment Act 2023 for a designation or to alter a designation unless the designation relates to nationally significant infrastructure.
 
 ### 136 Process applying to new or modified designations after development plan becomes operative
 (1) This section applies if, after the development plan for a specified development project becomes operative under section 83, Kāinga Ora decides—
   (a) to establish a new designation within or outside a project area; or
   (b) to alter an existing designation held by Kāinga Ora that applies within or outside a project area.
-(2) In either case, Kāinga Ora must lodge a notice of requirement with the relevant territorial authority in accordance with section 168 of the Resource Management Act 1991.
+(2) In either case, Kāinga Ora must lodge a notice of requirement with the relevant territorial authority in accordance with section 517 of the Natural and Built Environment Act 2023.
 (3) Kāinga Ora must state in the notice of requirement to whom the designation is to be transferred.
-(4) Sections 169 to 185 (but not section 175) of the Resource Management Act 1991 apply, with the necessary modifications, to a notice of requirement or designation, as the case may be.
-(5) The modifications to the Resource Management Act 1991 provided in section 132(3)﻿(a), (c), and (g), (4), (5), and (6) apply to a notice of requirement or designation, as the case requires.
+(4) Sections 517 to 542 (but not section 530) of the Natural and Built Environment Act 2023 apply, with the necessary modifications, to a notice of requirement or designation, as the case may be.
+(5) The modifications to the Natural and Built Environment Act 2023 provided in section 132(3)﻿(c) and (d), (4), (5), and (6) apply to a notice of requirement or designation, as the case requires.
 (6) A designation applying wholly within a project area must be included in the development plan that applies in the project area.
-(7) A designation applying wholly outside a project area must be included in the relevant district plan, as required by section 175 of the Resource Management Act 1991.
+(7) A designation applying wholly outside a project area must be included in the relevant natural and built environment plan, as required by section 530 of the Natural and Built Environment Act 2023.
 (8) If a designation is partly within and partly outside a project area,—
   (a) the part of the designation within the project area must be included in the development plan; but
-  (b) the part of the designation outside the project area must be included in the district plan.
-(9) A designation referred to in subsection (6), (7), or (8) must be included in a development plan or district plan, as the case requires, without applying section 91 of this Act or Schedule 1 of the Resource Management Act 1991.
+  (b) the part of the designation outside the project area must be included in the natural and built environment plan.
+(9) A designation referred to in subsection (6), (7), or (8) must be included in a development plan or natural and built environment plan, as the case requires, without applying section 91 of this Act or Schedule 6 of the Natural and Built Environment Act 2023.
 
 ### Subpart 3 — Reserves and conservation interests
 
@@ -1870,7 +1889,7 @@ In this Act, roading powers means all of the following functions and powers:
 (3) The enactments in section 143 under which Kāinga Ora has roading powers apply, for the purposes of this section,—
   (a) as if references in those enactments to a council or other statutory body included references to Kāinga Ora; and
   (b) as if references in those enactments to a district included references to the project area; and
-  (c) as if references in those enactments to a scheme plan, an operative district scheme, or a district plan included references to the development plan; and
+  (c) as if references in those enactments to a natural and built environment plan included references to the development plan; and
   (d) with all other necessary modifications.
 (4) Part 4 of the Government Roading Powers Act 1989 applies as if works done or to be done by Kāinga Ora, acting with the roading powers, are local works.
 (5) Section 326 of the Local Government Act 1974 (which relates to betterment arising from creation or widening of a road) applies as set out in subpart 4 of Part 4.
@@ -2550,7 +2569,7 @@ Kāinga Ora must determine the amount of a development contribution in accordanc
 
 ### 223 Manner in which development contributions may be required
 (1) Kāinga Ora may require a development contribution to be made to Kāinga Ora—
-  (a) on the date that a resource consent is granted under this Act or the Resource Management Act 1991 for a development within a project area; or
+  (a) on the date that a resource consent is granted under this Act or the Natural and Built Environment Act 2023 for a development within a project area; or
   (b) on the date that a building consent is granted under the Building Act 2004 for building work situated within a project area; or
   (c) on the date that an authorisation is granted for a service connection within a project area; or
   (d) on the date or dates agreed in writing between Kāinga Ora and the developer.
@@ -2658,8 +2677,8 @@ An objection to a development contribution must be lodged with Kāinga Ora in ac
 ### 232 Consequences if development contributions unpaid
 (1) Until a development contribution required by Kāinga Ora has been paid, Kāinga Ora may,—
   (a) in the case of a development contribution required when a resource consent is granted,—
-    (i) withhold a certificate under section 224(c) of the Resource Management Act 1991; or
-    (ii) prevent the commencement of a resource consent under the Resource Management Act 1991; or
+    (i) withhold a certificate under section 587 of the Natural and Built Environment Act 2023; or
+    (ii) prevent the commencement of a resource consent under the Natural and Built Environment Act 2023; or
   (b) in the case of a development contribution required when a building consent is granted, require that a code compliance certificate under section 95 of the Building Act 2004 be withheld; or
   (c) in the case of a development contribution required in accordance with section 223(3), require that a certificate of acceptance under section 99 of the Building Act 2004 be withheld; or
   (d) in the case of a development contribution required when an authorisation for a service connection is granted, withhold a service connection to the development.
@@ -2691,7 +2710,7 @@ An objection to a development contribution must be lodged with Kāinga Ora in ac
   (a) grant a resource consent; or
   (b) issue a building consent under the Building Act 2004; or
   (c) issue a code of compliance under the Building Act 2004; or
-  (d) grant a certificate under section 244 of the Resource Management Act 1991; or
+  (d) grant a certificate under section 587 of the Natural and Built Environment Act 2023; or
   (e) issue an authorisation for a service connection.
 (5) A person may not refuse to grant or issue anything referred to in subsection (4) on the basis that a development agreement has not been entered into under this section.
 (6) See section 224 (limits on power to require development contribution) if a development agreement is entered into in addition to requiring a development contribution.
@@ -2792,12 +2811,12 @@ Kāinga Ora must use any money received under section 238 or 239 for the purpose
   (f) charges payable by a holder of a resource consent for the carrying out by Kāinga Ora of its functions in relation to the administration, monitoring, and supervision of the resource consent (including a certificate of compliance or existing use certificate):
   (g) charges payable by a holder of a resource consent for the carrying out by Kāinga Ora of its functions in relation to reviewing consent conditions if the review is carried out—
     (i) at the request of the consent holder; or
-    (ii) under section 128(1)﻿(a) or (c) of the Resource Management Act 1991; or
-    (iii) in accordance with section 128(2) of the Resource Management Act 1991:
-  (h) charges payable by a person who carries out a permitted activity in a project area, for the monitoring of the activity, if a local authority is empowered to charge for the monitoring in accordance with section 43A(8) of the Resource Management Act 1991:
+    (ii) under section 337 of the Natural and Built Environment Act 2023:
+    (iii)
+  (h)
   (i) charges for providing information or documents, payable by the person requesting the information or documents:
   (j) any kind of charge that—
-    (i) is authorised by regulations made for the purposes of section 36 of the Resource Management Act 1991 (see section 36(1)﻿(g) of that Act); and
+    (i) is authorised by regulations made for the purposes of section 757 of the Natural and Built Environment Act 2023; and
     (ii) relates to functions, powers, or duties of a local authority that correspond with those of Kāinga Ora under subpart 2 of Part 3 of this Act.
 (2) Kāinga Ora may also fix administrative charges to recover its costs in relation to any request to exchange recreation reserve land under section 15AA of the Reserves Act 1977 that is made jointly with—
   (a) an application for a resource consent; or
@@ -3045,7 +3064,7 @@ Development agreement
   (a) grant a resource consent; or
   (b) issue a building consent under the Building Act 2004; or
   (c) issue a code of compliance under the Building Act 2004; or
-  (d) grant a certificate under section 224 of the Resource Management Act 1991; or
+  (d) grant a certificate under section 587 of the Natural and Built Environment Act 2023; or
   (e) issue an authorisation for a service connection.
 (5) A person may not refuse to grant or issue anything referred to in subsection (4) on the basis that a development agreement has not been entered into under this section.
 Māori interests
@@ -3377,6 +3396,53 @@ Amend the enactments specified in Schedule 4 as set out in that schedule.
   - **construction contract** has the same meaning as in section 5 of the Construction Contracts Act 2002
   - **development agreement** means a contract made between Kāinga Ora and 1 or more developers for the provision, supply, or exchange of infrastructure, land, or money to provide reserves, infrastructure, community facilities, or specified works.
 
+### Part 2 — Provisions relating to Natural and Built Environment Act 2023
+
+### 2 Meaning of region’s NBEA date
+In this Part, region’s NBEA date has the meaning given in clause 1 of Schedule 1 of the Natural and Built Environment Act 2023.
+
+### 3 Transitional provisions for projects under way before region’s NBEA date
+(1) This clause applies if a specified development project is under way, but not completed, immediately before the relevant region’s NBEA date.
+(2) The project may continue to proceed under the development plan provisions, planning instruments, and other relevant legislation as in force immediately before the region’s NBEA date if—
+  (a) the development plan has already been approved; or
+  (b) the development plan has been notified but is subject to any amendments or decisions before being approved.
+(3) Subclause (2) does not apply if the development plan is prepared after the region’s NBEA date.
+(4) At the review of a development plan in accordance with section 90(1) after commencement, the development plan may be amended to align with the legislative changes made to this Act by the Natural and Built Environment Act 2023 that are in force when the review is conducted.
+(5) Any project area shown in a planning instrument must also be included in the relevant natural and built environment plan under the Natural and Built Environment Act 2023 when it is prepared, unless the project has been disestablished.
+(6) In subclause (2), relevant legislation means this Act and any other legislation that—
+  (a) applies to the project by operation of this Act; and
+  (b) is amended by the Natural and Built Environment Act 2023.
+
+### 4 Disestablishment process for projects disestablished after natural and built environment plan notified
+(1) This clause applies if,—
+  (a) before a natural and built environment plan for a region is notified, a development plan for a project in the region overrode, added to, or suspended a planning instrument under the Resource Management Act 1991; and
+  (b) a disestablishment proposal for the project—
+    (i) is being prepared when the natural and built environment plan is notified; or
+    (ii) is started after the natural and built environment plan is notified (including at any time when the plan is operative).
+(2) Kāinga Ora must—
+  (a) identify any provisions of the development plan that it considers should be carried across to the natural and built environment plan (the continued provisions) and consider how those provisions can be aligned with the natural and built environment plan; and
+  (b) provide an opportunity for the local authorities and regional planning committee for the project area to provide comments on the format and drafting of the continued provisions.
+(3) Unless any comments about the format and drafting of the continued provisions are provided within 20 working days, those provisions are to be considered appropriate for inclusion into the natural and built environment plan.
+(4) Kāinga Ora must consider any comments received on the continued provisions and may amend any of those provisions in response to the comments received.
+(5) As soon as practicable after the disestablishment order for the project takes effect, and without using any plan change process under the Natural and Built Environment Act 2023, the regional planning committee must—
+  (a) include the continued provisions (with any amendments made under subclause (4)) in the natural and built environment plan: and
+  (b) include in the natural and built environment plan any designations that are in the development plan; and
+  (c) remove the project area from the natural and built environment plan.
+
+### 5 Interim modifications to certain provisions
+(1) The following provisions of this Act (as amended by the Natural and Built Environment Act 2023) apply with the following modifications:
+  (a) in section 109(1)﻿(b)﻿(i), the reference to the Natural and Built Environment Act 2023 must be read as a reference to the Resource Management Act 1991:
+  (b) in section 119(2), the reference to a natural and built environment plan must be read as a reference to a planning instrument:
+  (c) in section 126(1)﻿(a), the reference to section 301(1)﻿(b) of the Natural and Built Environment Act 2023 must be read as a reference to section 113(1)﻿(aa) of the Resource Management Act 1991:
+  (d) in section 235(4)﻿(d), the reference to section 587 of the Natural and Built Environment Act 2023 must be read as a reference to section 224 of the Resource Management Act 1991.
+(2) A modification set out in this clause ceases to apply in relation to a region on the region’s NBEA date.
+(3) This clause overrides clause 85 of Schedule 1 of the Natural and Built Environment Act 2023.
+
+### Part 3 — Provision relating to Spatial Planning Act 2023
+
+### 2 Application of provision relating to spatial plan for Auckland
+Despite the repeal of section 68(1)﻿(b)﻿(iv) by the Spatial Planning Act 2023, that section continues to apply until a regional spatial strategy for Auckland is adopted under the Spatial Planning Act 2023.
+
 ## Schedule 2 — Transfer and disestablishment
 
 **Preliminary provisions**
@@ -3485,14 +3551,14 @@ A specified development project lapses and is disestablished if a draft developm
 (1) An activity lawfully established under a development plan for a specified development project continues to be lawful after the disestablishment of the project.
 (2) Subclause (1) applies to an activity—
   (a) as if the operative date of the rule were the date on which the disestablishment order came into force; but
-  (b) only to the extent permitted for an existing activity by section 10, 10A, 10B, or 20A(2) of the Resource Management Act 1991, as the case may require.
-(3) After a disestablishment order comes into force, the relevant local authorities, without using the processes in Schedule 1 of the Resource Management Act 1991,—
-  (a) may adopt any of the resource management objectives, policies, rules, or methods from a development plan; and
-  (b) must update the district plans to include the designations that were in the development plan; and
-  (c) must remove the project area from the planning instruments.
+  (b) only to the extent permitted for an existing activity by sections 30 to 34 of the Natural and Built Environment Act 2023, as the case may require.
+(3) After a disestablishment order comes into force, the relevant local authorities, without using the processes in Schedule 6 of the Natural and Built Environment Act 2023,—
+  (a) may include any applicable plan outcomes and policies, rules, and other methods from a development plan in the natural and built environment plan; and
+  (b) must update the natural and built environment plan to include the designations that were in the development plan; and
+  (c) must remove the project area from the natural and built environment plan.
 (4) Subclause (3) applies only in relation to the area of a district that is defined as the project area in the establishment order made under section 47.
 (5) Any resource management objectives, policies, rules, or methods from a development plan must be adopted within 40 working days of the disestablishment order coming into force.
-(6) The modifications to the planning instruments are to be treated as being operative from the date the disestablishment order comes into force.
+(6) The modifications to the natural and built environment plan are to be treated as being operative from the date the disestablishment order comes into force.
 
 ## Schedule 3 — Independent hearings panel
 
@@ -3500,7 +3566,7 @@ A specified development project lapses and is disestablished if a draft developm
 
 ### 1 Composition of IHP
 (1) An IHP must comprise not fewer than 3 members, 1 of whom must be an Environment Judge or alternate Environment Judge, or a former Environment Judge or former alternate Environment Judge, to act as the chairperson of the IHP.
-(2) At least 1 member of an IHP who is an accredited person in accordance with section 39A of the Resource Management Act 1991 must be given hearing authority under section 39B of that Act, but more than 1 member who is accredited may be given hearing authority.
+(2) At least 1 member of an IHP who is an accredited person in accordance with clause 82 of Schedule 6 of the Natural and Built Environment Act 2023 must be given hearing authority under clause 83 of Schedule 6 of that Act, but more than 1 member who is accredited may be given hearing authority.
 (3) Before making appointments to an IHP, the responsible Minister must—
   (a) seek advice on, and nominations for, appointments to the IHP, including advice on the appropriate size of the IHP, from the chief executive of the department responsible for the administration of this Act; and
   (b) consult the Attorney-General, the Minister for the Environment, the Minister of Conservation, and the Minister for Māori Crown Relations—Te Arawhiti; and
@@ -3508,9 +3574,9 @@ A specified development project lapses and is disestablished if a draft developm
 (4) The members of the IHP, collectively, must have knowledge of—
   (a) the various communities within the project area, including mana whenua groups; and
   (b) economic matters that affect property development; and
-  (c) the Treaty of Waitangi and its principles; and
+  (c) te Tiriti o Waitangi and its principles; and
   (d) tikanga Māori as it applies in the project area; and
-  (e) any iwi participation legislation that applies in the project area; and
+  (e) any iwi and hapū participation legislation that applies in the project area; and
   (f) the Māori land tenure system under Te Ture Whenua Maori Act 1993, if there is Māori land within the project area.
 (5) Members must be appointed in accordance with clause 2, but a failure to comply with that provision does not affect the validity of the appointment of a member once made.
 (6) The affiliation of a person to a hapū or iwi with mana whenua interests in the project area does not of itself disqualify that person from appointment to an IHP.
@@ -3563,7 +3629,7 @@ A specified development project lapses and is disestablished if a draft developm
 ### 6 Support for IHP
 (1) Kāinga Ora must ensure that an IHP is provided with administrative support, provided—
   (a) by a relevant local authority or the Environmental Protection Authority (with the agreement of the local authority or Environmental Protection Authority) on the basis that its costs are recovered from Kāinga Ora; or
-  (b) by any person who has hearing authority under section 39B of the Resource Management Act 1991 or is otherwise suitably skilled to undertake the role, as long as the person is not involved in the preparation of the draft development plan or its supporting documents.
+  (b) by any person accredited in accordance with clause 98 of Schedule 6 of the Natural and Built Environment Act 2023 or is otherwise suitably skilled to undertake the role, as long as the person is not involved in the preparation of the draft development plan or its supporting documents.
 (2) All persons appointed by Kāinga Ora to provide administrative support to an IHP are entitled to recover their reasonable costs from Kāinga Ora.
 (3) The level of support provided is at the sole discretion of Kāinga Ora.
 (4) Kāinga Ora may only contract with another person or body to provide administrative support to an IHP if Kāinga Ora is satisfied that the person or body is capable of working effectively with Māori entities.
@@ -3584,7 +3650,7 @@ A specified development project lapses and is disestablished if a draft developm
 
 ### 8 Hearings
 (1) The IHP must hold a hearing of submissions on a draft development plan if a submitter requests to be heard.
-(2) For the purposes of subclause (1), the Local Government Official Information and Meetings Act 1987 applies, with any necessary modifications, to an IHP as if the IHP were a board of inquiry with authority to conduct a hearing under section 149J of the Resource Management Act 1991.
+(2) For the purposes of subclause (1), the Local Government Official Information and Meetings Act 1987 applies, with any necessary modifications, to an IHP as if the IHP were a board of inquiry with authority to conduct a hearing under clause 75 of Schedule 10 of the Natural and Built Environment Act 2023.
 (3) A hearing must be held in public unless otherwise permitted under—
   (a) clause 20:
   (b) section 48 of the Local Government Official Information and Meetings Act 1987 (which empowers local authorities to exclude the public from hearings), as that Act applies under this Act.
