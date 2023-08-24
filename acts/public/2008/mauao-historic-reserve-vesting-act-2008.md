@@ -1,5 +1,5 @@
 # Mauao Historic Reserve Vesting Act 2008
-_Consolidation as at 2021-10-28_
+_Consolidation as at 2023-08-24_
 
 ## Preamble
 (1) Mauao, or Mount Maunganui, is of significant cultural, traditional, historical, and spiritual importance to Ngāi Te Rangi, Ngāti Ranginui, and Ngāti Pūkenga:
@@ -101,7 +101,7 @@ The vesting of Mauao historic reserve under section 5(1) does not affect any rig
 **Particular application of other enactments and general law**
 
 ### 11 Application of other enactments
-(1) Nothing in section 11 or Part 10 of the Resource Management Act 1991 applies to the vesting of Mauao historic reserve under section 5(1).
+(1) Nothing in section 22 or Part 10 of the Natural and Built Environment Act 2023 applies to the vesting of Mauao historic reserve under section 5(1).
 (2) The vesting of Mauao historic reserve under section 5(1) does not limit section 10 or 11 of the Crown Minerals Act 1991.
 (3) The vesting of Mauao historic reserve under section 5(1) is not a disposition of land by the Crown for the purposes of Part 4A of the Conservation Act 1987, unless—
   (a) the reservation of the reserve as a reserve is revoked, in which case—
