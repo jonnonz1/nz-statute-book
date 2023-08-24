@@ -1,5 +1,5 @@
 # Crown Organisations (Criminal Liability) Act 2002
-_Consolidation as at 2022-07-01_
+_Consolidation as at 2023-08-24_
 
 ### 1 Title
 This Act is the Crown Organisations (Criminal Liability) Act 2002.
@@ -10,7 +10,7 @@ This Act comes into force on the day after the date on which it receives the Roy
 ### 3 Purpose
 The purpose of this Act is to—
   (a) implement recommendations of the report of the Royal Commission of Inquiry into the collapse of a viewing platform at Cave Creek near Punakaiki on the West Coast (the Noble report):
-  (b) enable the prosecution of Crown organisations for offences under the Building Act 2004, the Health and Safety at Work Act 2015, and the Resource Management Act 1991:
+  (b) enable the prosecution of Crown organisations for offences under the Building Act 2004, the Health and Safety at Work Act 2015, and the Natural and Built Environment Act 2023:
   (c) enable injunctions to be granted requiring Crown organisations to comply with the Building Act 2004:
   (d) make related amendments to other enactments.
 
@@ -45,14 +45,14 @@ This Act binds the Crown.
 (1) A Crown organisation may be prosecuted (by the bringing of proceedings in the manner provided for in the Criminal Procedure Act 2011) for any of the following offences:
   (a) an offence against the Building Act 2004:
   (b) an offence under the Health and Safety at Work Act 2015:
-  (c) an offence against the Resource Management Act 1991:
+  (c) an offence against the Natural and Built Environment Act 2023:
   (d) an offence against the Exclusive Economic Zone and Continental Shelf (Environmental Effects) Act 2012:
   (e) an offence against Part 3 of the Children’s Act 2014.
 (2) This section does not affect any liability of a Crown organisation that arises independently of this section to prosecution for an offence.
 
 ### 7 Legal status of certain Crown organisations
 A Crown organisation that is not a body corporate has a separate legal personality for the purposes of—
-  (a) compliance with the obligations imposed by the Building Act 2004, the Exclusive Economic Zone and Continental Shelf (Environmental Effects) Act 2012, the Health and Safety at Work Act 2015, the Resource Management Act 1991, or Part 3 of the Children’s Act 2014; and
+  (a) compliance with the obligations imposed by the Building Act 2004, the Exclusive Economic Zone and Continental Shelf (Environmental Effects) Act 2012, the Health and Safety at Work Act 2015, the Natural and Built Environment Act 2023, or Part 3 of the Children’s Act 2014; and
   (b) the bringing, hearing, and determination of proceedings against it for an offence referred to in section 6; and
   (c) the imposition of sentence if that organisation is convicted; and
   (d) the enforcement of any sentence imposed on that organisation.
@@ -62,7 +62,7 @@ A Crown organisation that is not a body corporate has a separate legal personali
 (2) Proceedings brought against a Crown organisation for an offence referred to in section 6 must be instituted against the organisation in its own name, and must not cite the Crown as a defendant.
 (3) A Crown organisation is liable on conviction for an offence referred to in section 6 to the same penalties that could be imposed on any body corporate convicted of the same offence.
 (4) Despite subsection (3), a court may not sentence a Crown organisation to pay a fine in respect of an offence referred to in section 6(1)﻿(a), (c), or (d).
-(5) This section is subject to sections 176 and 246 of the Criminal Procedure Act 2011 and section 4(9) of the Resource Management Act 1991.
+(5) This section is subject to sections 176 and 246 of the Criminal Procedure Act 2011 and section 16(9) of the Natural and Built Environment Act 2023.
 
 ### 9 Rights and privileges of Crown organisations
 (1) A Crown organisation that is charged with an offence referred to in section 6 has, in relation to the charge and the hearing and determination of the charge, the same rights and privileges as a body corporate charged with an offence of the same kind.
@@ -78,7 +78,7 @@ A Crown organisation that is not a body corporate has a separate legal personali
     (iv) section 26 of the Public Finance Act 1977; or
     (v) section 133 of the Crown Entities Act 2004; or
     (vi) clauses 3 and 4 of Schedule 3 of the Public Service Act 2020; or
-    (vii) section 22 of the Resource Management Act 1991; or
+    (vii) section 726 of the Natural and Built Environment Act 2023; or
   (c) a request for official information made in accordance with section 12 of the Official Information Act 1982; or
   (d) to supply information requested by—
     (i) the Minister of the Crown or other person for the time being responsible for the Crown organisation; or
