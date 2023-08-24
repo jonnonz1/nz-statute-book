@@ -1,5 +1,5 @@
 # Government Roading Powers Act 1989
-_Consolidation as at 2022-11-30_
+_Consolidation as at 2023-08-24_
 
 > Title
 
@@ -305,7 +305,7 @@ This Act shall bind the Crown.
 (1) In this Part,—
   - **Crown land** means all land included within that term in the Land Act 1948, except lands held or occupied by any person under the Crown on deferred payment, occupation with right of purchase, perpetual lease, lease in perpetuity, renewable lease, or under any other kind of lease or licence, or for any other estate or interest
   - **drain** means a passage, channel, or pipe on, over, or under the ground for the reception and discharge of stormwater or pollutants, whether continuously or intermittently
-  - **Environment Court** means the Environment Court constituted under the Resource Management Act 1991
+  - **Environment Court** means the Environment Court continued by clause 3 of Schedule 13 of the Natural and Built Environment Act 2023
   - **Government work** means a work or an intended work that is to be constructed, undertaken, established, managed, operated, or maintained by or under the control of the Crown or any Minister of the Crown for any public purpose
   - **land** includes any estate or interest in land
   - **notice** means a statement conveying the general effect of a matter or thing done or intended to be done
@@ -383,7 +383,7 @@ All Government roads declared as such under this Act, the Public Works Act 1981,
 (7A) The court to which an application is made may refer any proceedings resulting from the application, or any question in those proceedings, to the other court referred to in subsection (6A) if it considers that the proceedings or question would be more appropriately dealt with by the other court.
 (7B) The court may refer the proceedings or question on its own initiative or on application by a party to the proceedings.
 (7C) Any appeal from an order or a direction made under subsection (7) must be made to the High Court (even for an order or a direction of the Maori Land Court).
-(8) Nothing in this section (other than any provision of this section that is relied on in an emergency) shall derogate from the provisions of the Resource Management Act 1991.
+(8) Nothing in this section (other than any provision of this section that is relied on in an emergency) shall derogate from the provisions of the Natural and Built Environment Act 2023.
 
 ### 49 Powers of Minister in regard to swing gates and cattle stops on roads
 For the purpose of erecting or removing any swing gate or cattle stop across any Government road, the provisions of section 344 of the Local Government Act 1974 shall apply as if references in that section to the council were references to the Minister.
@@ -579,7 +579,7 @@ The Minister may, by notice in the Gazette, declare that any access way or servi
 (9A) The court to which an application is made may refer any proceedings resulting from the application, or any question in those proceedings, to the other court referred to in subsection (8A) if it considers that the proceedings or question would be more appropriately dealt with by the other court.
 (9B) The court may refer the proceedings or question on its own initiative or on application by a party to the proceedings.
 (9C) Any appeal from an order or a direction made under subsection (9) must be made to the High Court (even for an order or a direction of the Maori Land Court).
-(10) Nothing in this section (other than any provision of this section that is relied on in an emergency) shall derogate from the provisions of the Resource Management Act 1991.
+(10) Nothing in this section (other than any provision of this section that is relied on in an emergency) shall derogate from the provisions of the Natural and Built Environment Act 2023.
 (11) Nothing in this section shall divest any territorial authority of the property in any road that may form part of a State highway.
 
 ### 61A Controlling authority may grant lease, etc, of certain land
@@ -663,8 +663,8 @@ Subject to the restrictions specified in this Part and subject to section 17, th
   (b) take machinery and vehicles of any kind on to and across any land within the area set out in the notice defining the route of the motorway, and use the machinery and vehicles on that land:
   (c) make any part of the motorway on and along any part of any road, access way, or service lane:
   (d) make the motorway on, across, over, or under any road, motorway, access way, service lane, railway, or tramway along the defined route; and alter the level of any road, access way, motorway, service lane, railway, or tramway for that purpose:
-  (e) subject to compliance with the Harbours Act 1950 and the Resource Management Act 1991, make the motorway across any arm of the sea or any river, stream, lake, or water (whether navigable or not) by means of a bridge, causeway, or tunnel:
-  (f) subject to compliance with the Resource Management Act 1991, alter the course or the level of any river that is not navigable, or of any stream, watercourse, ditch, or drain:
+  (e) subject to compliance with the Harbours Act 1950 and the Natural and Built Environment Act 2023, make the motorway across any arm of the sea or any river, stream, lake, or water (whether navigable or not) by means of a bridge, causeway, or tunnel:
+  (f) subject to compliance with the Natural and Built Environment Act 2023, alter the course or the level of any river that is not navigable, or of any stream, watercourse, ditch, or drain:
   (g) remove or alter any drain or sewer or any pipes, wire, cable, or duct, together with any associated equipment, belonging to any person, within or adjacent to the defined limits of the motorway:
   (h) make or construct all such buildings, bridges, roads, approaches, and other structures and works in connection with the motorway as the Agency thinks necessary:
   (i) construct such roads as the Agency thinks desirable for the purpose of giving access to any motorway:
@@ -817,7 +817,7 @@ The Agency must at all times ensure that the Auckland Harbour Bridge is adequate
   (a) which has been created a limited access road under either subsection (1) or subsection (2), but subject to section 96(1); or
   (b) which has been created a limited access road under section 4 of the Public Works Act Amendment Act 1963, but subject to section 96(1); or
   (c) whose administration has passed to the Agency under section 96(2).
-(6) Where any land becomes State highway by virtue of section 238(1)﻿(c) of the Resource Management Act 1991 and section 60, and such State highway is a limited access road, such land shall thereupon become part of the limited access road.
+(6) Where any land becomes State highway by virtue of section 592(2)﻿(c) of the Natural and Built Environment Act 2023 and section 60, and such State highway is a limited access road, such land shall thereupon become part of the limited access road.
 
 ### 89 Provisions of Acts relating to roads to apply to limited access roads
 Subject to the provisions of this Part, the provisions of this Act and of every other enactment relating to roads shall, so far as they are applicable and with the necessary modifications, apply to—
