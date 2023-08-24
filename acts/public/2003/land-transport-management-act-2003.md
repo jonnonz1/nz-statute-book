@@ -1,5 +1,5 @@
 # Land Transport Management Act 2003
-_Consolidation as at 2022-02-23_
+_Consolidation as at 2023-08-24_
 
 ### 1 Title
 This Act is the Land Transport Management Act 2003.
@@ -400,12 +400,15 @@ Before a regional transport committee submits a regional land transport plan to 
   (a) be satisfied that the regional land transport plan—
     (i) contributes to the purpose of this Act; and
     (ii) is consistent with the GPS on land transport; and
+    (iii) is consistent with the regional spatial strategy that is in force for the region under the Spatial Planning Act 2023 to the extent that—
+      (A) the regional spatial strategy is relevant to the content of the regional land transport plan; and
+      (B) consistency with the regional spatial strategy does not prevent compliance with subparagraph (i) or (ii); and
   (b) have considered—
     (i) alternative regional land transport objectives that would contribute to the purpose of this Act; and
     (ii) the feasibility and affordability of those alternative objectives; and
   (c) have taken into account any—
     (i) national energy efficiency and conservation strategy; and
-    (ii) relevant national policy statements and any relevant regional policy statements or plans that are for the time being in force under the Resource Management Act 1991; and
+    (ii) relevant national planning framework or plans in force under the Natural and Built Environment Act 2023; and
     (iii) likely funding from any source.
 
 ### 15 Core requirements of regional land transport programmes prepared by Auckland Transport
@@ -603,7 +606,7 @@ The Agency must, in preparing a national land transport programme,—
     (ii)
     (iii) regional land transport plans; and
     (iv) national energy efficiency and conservation strategy; and
-    (v) relevant national policy statement and any relevant regional policy statements or plans that are for the time being in force under the Resource Management Act 1991; and
+    (v) relevant national planning framework or plans in force under the Natural and Built Environment Act 2023; and
     (vi)
 
 ### 19C Content of national land transport programme
@@ -653,7 +656,7 @@ The Agency must make a copy of the national land transport programme publicly av
 (3) In approving a proposed activity or combination of activities, the Agency must—
   (a) take into account—
     (i) any national energy efficiency and conservation strategy; and
-    (ii) any relevant national policy statements and relevant regional policy statements that are for the time being in force under the Resource Management Act 1991; and
+    (ii) relevant national planning framework or plans in force under the Natural and Built Environment Act 2023; and
   (b) act in accordance with its operating principles.
 (4) Despite subsections (2) and (3), the Agency may approve for payment under subsection (1) any activity or combination of activities that, in the opinion of the Agency,—
   (a) are in the urgent interests of public safety; or
@@ -771,7 +774,7 @@ The Agency and KiwiRail must make available on their Internet sites each rail ne
   (b) whether the activity or combinations of activities take into account—
     (i) any relevant regional land transport plan; and
     (ii) any national energy efficiency and conservation strategy; and
-    (iii) any relevant national policy statements or regional policy statements for the time being in force under the Resource Management Act 1991:
+    (iii) any relevant national planning framework or plans in force under the Natural and Built Environment Act 2023; and
   (c) whether the activity or combinations of activities will contribute to the purpose of this Act and are consistent with the GPS on land transport:
   (d) whether the activity or combinations of activities are efficient and effective:
   (e) whether, based on the matters set out in paragraphs (a) to (d), and any other matter the Agency thinks relevant, the Agency considers that the Minister should approve the funding of the activity or combinations of activities.
@@ -1137,7 +1140,7 @@ A toll operator may deny a motor vehicle physical access to its toll road, or pa
   (c) if so required by the Minister, must include provisions setting out the rights and responsibilities of the lessor and lessee, including provisions about matters such as fees:
   (d) must include provisions relating to the protection of public access to the land.
 (5) While the written agreement has effect, the grant of the lease—
-  (a) is not a subdivision for the purposes of section 218 of the Resource Management Act 1991; and
+  (a) is not a subdivision for the purposes of section 574 of the Natural and Built Environment Act 2023; and
   (b) is not subject to sections 40 to 42 of the Public Works Act 1981.
 (6) For the purposes of the Rating Powers Act 1988 and the Local Government (Rating) Act 2002, land subject to a lease under subsection (1) and formed and used for a road is not rateable property.
 (7) A licence must not be granted for the purpose referred to in subsection (1).
@@ -1753,7 +1756,8 @@ A claim by the Agency to recover regional fuel tax, any penalty related to regio
   (a) be satisfied that the GPS on land transport contributes to the purpose of this Act; and
   (b) take into account—
     (i) any national energy efficiency and conservation strategy; and
-    (ii) any relevant national policy statement that is in force under the Resource Management Act 1991; and
+    (ii) any relevant national planning framework or plans in force under the Natural and Built Environment Act 2023; and
+    (iii) any relevant regional spatial strategy that is in force under the Spatial Planning Act 2023; and
   (c) have regard to the views of Local Government New Zealand and representative groups of land transport users and providers.
 (2) For the purposes of subsection (1), the Minister must, at least once in every period of 3 financial years, review the Crown's land transport investment strategy required under section 68(1)﻿(b).
 (3) To avoid doubt, nothing in subsection (2) limits section 90(1).
@@ -2434,7 +2438,7 @@ A regional council must, before adopting a regional public transport plan,—
   (b) be satisfied that it has applied the principles specified in section 115(1); and
   (c) take into account—
     (i) any national energy efficiency and conservation strategy; and
-    (ii) any relevant regional policy statement, regional plan, district plan, or proposed regional plan or district plan under the Resource Management Act 1991; and
+    (ii) any relevant plans in force under the Natural and Built Environment Act 2023; and
     (iii) the public transport funding likely to be available within the region; and
     (iv) the need to obtain the best value for money, having regard to the desirability of encouraging a competitive and efficient market for public transport services; and
     (v) the views of public transport operators in the region; and
@@ -2640,8 +2644,8 @@ If a regional council declines to register an exempt service or record in the re
   (a) dismiss the appeal:
   (b) refer the plan back to the regional council to modify in accordance with any directions of the court.
 (6) The court may not direct a regional council to modify a plan in a manner that would impose an additional financial obligation on the regional council or any other person, unless the regional council or other person consents to that modification of the plan.
-(7) Part 11 of the Resource Management Act 1991, and any regulations made under that Act that relate to that Part, apply to an appeal under this section with all necessary modifications.
-(8) A notice of appeal must state any matters that regulations made under the Resource Management Act 1991 require to be stated in the case of an appeal under section 120 of that Act.
+(7) Schedule 13 of the Natural and Built Environment Act 2023, and any regulations made under that Act that relate to that Part, apply to an appeal under this section with all necessary modifications.
+(8) A notice of appeal must state any matters that regulations made under the Natural and Built Environment Act 2023 require to be stated in the case of an appeal under section 313 of that Act.
 
 ### 141 Appeals to District Court
 (1) A person may appeal to the District Court against an adverse decision relating to that person if the person is an operator of an exempt service or a proposed exempt service that is the subject of the decision.
