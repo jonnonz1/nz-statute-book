@@ -1,5 +1,5 @@
 # Infrastructure Funding and Financing Act 2020
-_Consolidation as at 2022-11-30_
+_Consolidation as at 2023-08-24_
 
 ### 1 Title
 This Act is the Infrastructure Funding and Financing Act 2020.
@@ -52,10 +52,10 @@ This Act binds the Crown.
   - **due date** , in relation to a levy or part of a levy, means the last day for payment of the levy, or the part of the levy, that is set out in the responsible levy authority’s levy assessment
   - **eligible costs** has the meaning set out in section 9
   - **eligible infrastructure** has the meaning set out in section 8
+  - **environmental contribution** has the same meaning as in section 11 of the Natural and Built Environment Act 2023
   - **excess levy** means levy revenue that—
     (a) is recognised by the responsible SPV as income in relation to the levy period; and
     (b) has not, at the end of the period, been applied to eligible costs
-  - **financial contribution** has the same meaning as in section 108(9) of the Resource Management Act 1991
   - **government agency** means—
     (a) a department or departmental agency within the meaning of section 2 of the State Sector Act 1988; or
     (b) a Crown entity within the meaning of section 7 of the Crown Entities Act 2004; or
@@ -123,7 +123,7 @@ This Act binds the Crown.
   - **environmental resilience infrastructure** means infrastructure for—
     (a) managing risks from natural hazards, including by avoiding or mitigating those hazards and reducing those risks; and
     (b) environmental restoration generally
-  - **natural hazard** has the same meaning as in section 2(1) of the Resource Management Act 1991
+  - **natural hazard** has the same meaning as in section 11 of the Natural and Built Environment Act 2023
   - **transport infrastructure** means—
     (a) infrastructure that facilitates transport on land by any means; or
     (b) infrastructure that facilitates coastal shipping (including transport by means of harbour ferries, or ferries or barges on rivers or lakes)
@@ -157,7 +157,7 @@ This Act binds the Crown.
     (b) construction costs incurred by any other person in relation to any matters set out in paragraph (a), if the responsible SPV is contractually liable to fund or reimburse that person’s construction costs
   - **establishment costs** includes—
     (a) costs incurred in the establishment of a responsible SPV; and
-    (b) costs incurred in relation to the acquisition and preparation of land on which eligible infrastructure is to be constructed, including the costs of purchasing or otherwise acquiring land and the costs of procuring designations under the Resource Management Act 1991; and
+    (b) costs incurred in relation to the acquisition and preparation of land on which eligible infrastructure is to be constructed, including the costs of purchasing or otherwise acquiring land and the costs of procuring designations under the Natural and Built Environment Act 2023; and
     (c) costs incurred by a responsible SPV in relation to planning and arranging for the commencement of construction work and in relation to any levy proposal; and
     (d) costs incurred by any other person (including levy proposal costs) in relation to any matters set out in paragraphs (a) to (c), if the responsible SPV is contractually liable to fund or reimburse that person’s costs
   - **general operating costs** means general management and administration costs associated with the construction of eligible infrastructure, the financing of that construction, the administration of a levy, or any support or service received from the Crown
@@ -209,7 +209,7 @@ This Act binds the Crown.
   - **General land owned by Maori** has the same meaning as in section 4 of Te Ture Whenua Maori Act 1993
   - **land held by a post-settlement governance entity** includes land that is, in accordance with a Treaty settlement Act, held in the name of a person such as a tipuna of the claimant group (rather than the entity itself)
   - **local authority** has the same meaning as in section 5(1) of the Local Government Act 2002
-  - **mana whenua** has the same meaning as in section 2(1) of the Resource Management Act 1991
+  - **mana whenua** has the same meaning as in section 11 of the Natural and Built Environment Act 2023
   - **Maori** has the same meaning as in section 4 of Te Ture Whenua Maori Act 1993
   - **Maori customary land** has the same meaning as in section 4 of Te Ture Whenua Maori Act 1993
   - **Maori freehold land** has the same meaning as in section 4 of Te Ture Whenua Maori Act 1993
@@ -779,7 +779,7 @@ The following sections of the Local Government (Rating) Act 2002 apply to a levy
 ### 76 Levy remission and levy postponement policies
 (1) The responsible SPV and the responsible levy authority must take all reasonable steps to agree on the terms of a levy remission policy and a levy postponement policy for the purposes of this Act.
 (2) A levy remission policy may provide that there is to be no remission of levy, and a levy postponement policy may provide that there is to be no postponement of the requirement to pay a levy.
-(3) A levy remission policy must not contain any provision in relation to development contributions or financial contributions previously received by the responsible levy authority (see sections 94 to 98).
+(3) A levy remission policy must not contain any provision in relation to development contributions or environmental contributions previously received by the responsible levy authority (see sections 94 to 98).
 (4) The responsible SPV must give a copy of its levy remission policy and levy postponement policy to—
   (a) the monitor; and
   (b) the responsible levy authority.
@@ -886,7 +886,7 @@ The responsible levy authority must make available to the responsible SPV all in
 ### 87 Outline of this Part
 (1) This Part provides for matters relating to the operations of an SPV and the financing of the construction of eligible infrastructure.
 (2) Subpart 1 imposes ongoing duties on the responsible SPV.
-(3) Subpart 2 provides for the disposal of excess levy at the end of a levy period and the use of previous development contributions and financial contributions.
+(3) Subpart 2 provides for the disposal of excess levy at the end of a levy period and the use of previous development contributions and environmental contributions.
 (4) Subpart 3 gives statutory powers to an SPV that is responsible for the construction of eligible infrastructure.
 (5) Subpart 4 provides for account-keeping and reporting by an SPV and other financial matters.
 
@@ -930,13 +930,13 @@ A responsible SPV may apply levy revenue only to pay eligible costs authorised b
   (a) payment of the levy is due but the levy is unpaid; or
   (b) the requirement to pay the levy has been postponed in accordance with a levy postponement policy.
 
-**Previous development contributions and financial contributions**
+**Previous development contributions and environmental contributions**
 
 ### 94 Application and interpretation
 (1) This section and sections 95 to 98 apply if the responsible levy authority has, before the levy order comes into force, received (or required but not yet received) previous contributions in relation to any eligible infrastructure.
 (2) In this section and sections 95 to 98, previous contribution means either or both of the following:
   (a) a development contribution under subpart 5 of Part 8 of the Local Government Act 2002 in relation to any eligible infrastructure (or any infrastructure that includes eligible infrastructure):
-  (b) a financial contribution that was a condition under section 108(2)﻿(a) of the Resource Management Act 1991 on the grant of resource consent in relation to any eligible infrastructure (or any infrastructure that includes eligible infrastructure).
+  (b) an environmental contribution that was a condition under section 295 of the Natural and Built Environment Act 2023 on the grant of resource consent in relation to any eligible infrastructure (or any infrastructure that includes eligible infrastructure).
 
 ### 95 Responsible levy authority to inform responsible SPV about previous contributions
 (1) As soon as practicable after the relevant levy order comes into force, the responsible levy authority must give the responsible SPV a list of previous contributions.
