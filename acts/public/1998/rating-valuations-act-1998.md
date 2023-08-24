@@ -1,5 +1,5 @@
 # Rating Valuations Act 1998
-_Consolidation as at 2022-06-30_
+_Consolidation as at 2023-08-24_
 
 > An Act to—aprovide for the Valuer-General to be a statutory officer within Land Information New Zealand; andbintroduce contestability to the rating valuations market by assigning to the Valuer-General a regulatory rather than a participatory role in the preparation of district valuation rolls; andcrepeal the Valuation of Land Act 1951 and generally restate the law relating to the valuation of land for rating purposes
 
@@ -17,7 +17,7 @@ In this Act, unless the context otherwise requires,—
   - **capital value** of land means, subject to sections 20 and 21, the sum that the owner's estate or interest in the land, if unencumbered by any mortgage or other charge, might be expected to realise at the time of valuation if offered for sale on such reasonable terms and conditions as a bona fide seller might be expected to require
   - **department** means Land Information New Zealand, or such other department or ministry as has, with the authority of the Prime Minister, for the time being assumed responsibility for the administration of this Act
   - **district** means the district over which the jurisdiction of a local authority to set rates extends
-  - **district plan** means a district plan within the meaning of the Resource Management Act 1991
+  - **district plan** means a plan under the Natural and Built Environment Act 2023 for a district
   - **district valuation roll** means a roll prepared for a district under section 7 and approved under section 11; and and have corresponding meanings
   - **existing roll values** , in the situation where a valuation is required to preserve uniformity with existing roll values of comparable parcels of land, means the values appearing on the district valuation roll—
     (a) as revised in the most recent general revaluation of that roll approved by the Valuer-General under section 11; and
