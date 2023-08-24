@@ -1,5 +1,5 @@
 # Land Act 1948
-_Consolidation as at 2022-11-17_
+_Consolidation as at 2023-08-24_
 
 > An Act to consolidate and amend certain enactments of the General Assembly relating to the lands of the Crown in New Zealand
 
@@ -18,7 +18,7 @@ In this Act, unless the context otherwise requires,—
     (c) land which has become the property of the Crown under section 91 of the Public Trust Office Act 1957 or section 108 of the Public Trust Act 2001;
     (d) land which has become the property of the Crown as bona vacantia, or land which has become the property of the Crown under section 324 of the Companies Act 1993;
     (e) land purchased for general settlement by the Maori Land Board under the Maori Affairs Act 1953; and
-    (f) land (other than a road) which has become the property of the Crown under Part 10 of the Resource Management Act 1991,—
+    (f) land (other than a road) which has become the property of the Crown under Part 10 of the Natural and Built Environment Act 2023,—
   - **cultivation** includes drainage, the felling of bush, or the clearing of land for cropping, or the clearing and ploughing of land for, and the laying down of the same for or with, grasses
   - **deferred-payment licence** means a licence to occupy Crown land pending the completion of the payment of the purchase price thereof on a system of deferred payments
   - **department** means the department of State that, with the authority of the Prime Minister, is for the time being responsible for the administration of this Act
@@ -184,7 +184,7 @@ The Commissioner may, under clauses 2 and 3 of Schedule 6 of the Public Service 
   (ia) to support the New Zealand Walking Access Commission as far as practicable in meeting its public access objective where that relates to pastoral land:
   (j) such other duties as may from time to time be assigned to him by the Board.
 (2) Subject to any general or special directions given by the Board, the Commissioner may delegate to any officer of the department any of the powers set out in the last preceding subsection. The provisions of subsections (3), (4), (5), and (6) of section 15 shall apply, with the necessary modifications, to any delegation by the Commissioner under this subsection.
-(2A) The Commissioner may comment on, or provide input for, processes and decisions that may affect the Crown’s interest as landowner of Crown land (for example, district plan changes).
+(2A) The Commissioner may comment on, or provide input for, processes and decisions that may affect the Crown’s interest as landowner of Crown land (for example, plan changes under the Natural and Built Environment Act 2023).
 (3) All actions and proceedings by or on behalf of Her Majesty respecting Crown land within any district or respecting any contract relating thereto, or any breach of any such contract, or any trespass thereon, or any damages accruing by reason of trespass thereon, or for the recovery of any rents, purchase moneys, or other moneys in respect of Crown land, or in respect of any damages or wrongs whatsoever in any way suffered by the Crown in respect of Crown land, and any proceedings for the breach of any provision of this Act, may be commenced, prosecuted, and carried on by and in the name of the Commissioner on behalf of Her Majesty, and the Commissioner may be plaintiff, or defendant, or prosecutor, as the case may require, in any such action or proceeding.
 (4) All documents which require to be executed for the purposes of this Act by or on behalf of Her Majesty, or by or on behalf of the Board, may, unless otherwise provided by this Act, be executed by the Commissioner and, if so executed, shall be as valid and effectual as if executed by or on behalf of Her Majesty, or by or on behalf of the Board, as the case may be.
 (5) See section 4 of the Crown Pastoral Land Act 1998 for outcomes that persons performing or exercising functions, duties, or powers in relation to pastoral land must seek to achieve.
@@ -547,7 +547,7 @@ Crown land may be acquired under this Act on any of the following tenures, as th
   (c) refuse to grant such a permit to any applicant.
 (3) The Commissioner shall not grant a commercial recreation permit in respect of any land for any purpose that, in the opinion of the Commissioner, is incompatible with any water or soil conservation objectives relating to the land.
 (4) As a condition of granting a commercial recreation permit to the holder of any pastoral lease or pastoral occupation licence, the Commissioner may require the holder to surrender to the Commissioner any part of the land comprised in the lease or licence in order to facilitate erosion prevention measures.
-(5) Every commercial recreation permit shall be deemed to be issued subject to the condition that the holder will comply with all local authority bylaws, rules, regulations, and requisitions, and with the provisions of the Resource Management Act 1991.
+(5) Every commercial recreation permit shall be deemed to be issued subject to the condition that the holder will comply with all local authority bylaws, rules, regulations, and requisitions, and with the provisions of the Natural and Built Environment Act 2023.
 (6) Every commercial recreation permit shall be issued on such other terms and subject to such other conditions (whether as to the payment of fees or otherwise) as the Commissioner may determine, whether generally or in a particular case.
 (7) Every holder of a pastoral lease or a pastoral occupation licence who uses or permits to be used any part of the land comprised in the lease or licence for any purpose for which a commercial recreation permit may be issued under this section commits a breach of the lease or licence, rendering the lease or licence liable to forfeiture in accordance with the provisions of this Act, unless he is the holder of a commercial recreation permit authorising the use of the land for that purpose.
 (8) If another enactment provides that a person must obtain permission under that enactment before undertaking an activity that is contrary to that enactment,—
@@ -689,7 +689,7 @@ Two or more persons may make application to purchase or take on lease or licence
 (3) All dealings with or under any such lease or licence in contravention of the provisions of this Act shall be void, and the Registrar-General of Land shall not register any dealing with or under a lease or licence until he is satisfied that the said provisions have been complied with.
 (3A) Where a record of title has been issued for the lease or licence,—
   (a) the Commissioner may lodge for deposit with the Registrar-General of Land a plan of survey of definition or subdivision of the land in the lease or licence; and
-  (b) where on the deposit of a plan of subdivision any land on the plan will vest pursuant to sections 238 or 239 of the Resource Management Act 1991, the Commissioner shall request the Registrar-General of Land to issue a record of title under the Land Transfer Act 2017 in the name of Her Majesty the Queen for the land comprised in the lease or licence at the time of the lodging of the plan for deposit, and the Registrar-General of Land must issue a record of title accordingly.
+  (b) where on the deposit of a plan of subdivision any land on the plan will vest pursuant to section 592 or 593 of the Natural and Built Environment Act 2023, the Commissioner shall request the Registrar-General of Land to issue a record of title under the Land Transfer Act 2017 in the name of Her Majesty the Queen for the land comprised in the lease or licence at the time of the lodging of the plan for deposit, and the Registrar-General of Land must issue a record of title accordingly.
 (4) This section shall not apply to a pastoral lease or pastoral occupation licence under this Act, nor to a licence under section 68, nor to any lease or licence under Part 11, nor, unless the Board otherwise determines, to any lease or licence under section 67 or section 69.
 
 ### 83 Registration of dealings with certain leases and licences
@@ -774,9 +774,9 @@ Any executor or administrator who assigns any lease or licence to a person entit
 (2) No person shall have any claim against the Crown or against the Commissioner in respect of anything done by the Commissioner under the powers conferred by the last preceding subsection.
 
 ### 93 Subdivision of leases or licences
-(1) Any lessee or licensee may, with the approval of the Board, subdivide in accordance with Part 10 of the Resource Management Act 1991 his holding and transfer any subdivision thereof to any person who is qualified to acquire Crown land and who is approved by the Board as a transferee.
+(1) Any lessee or licensee may, with the approval of the Board, subdivide in accordance with Part 10 of the Natural and Built Environment Act 2023 his holding and transfer any subdivision thereof to any person who is qualified to acquire Crown land and who is approved by the Board as a transferee.
 (2) The cost of all surveys and plans necessary to give effect to the subdivision shall be borne by the lessee or licensee.
-(3) The Board's approval of a subdivision may be given subject to the condition that the lessee or licensee shall pay to the Crown the value as determined by the Board of any land that vests as road on the deposit of a survey plan pursuant to section 238 of the Resource Management Act 1991.
+(3) The Board's approval of a subdivision may be given subject to the condition that the lessee or licensee shall pay to the Crown the value as determined by the Board of any land that vests as road on the deposit of a survey plan pursuant to section 592 of the Natural and Built Environment Act 2023.
 (4) On the approval of the plan of the subdivision and on the payment of such fee as may be prescribed for each new lease or licence, the Board may cancel the original lease or licence and issue new leases or licences over the several lots in the subdivision for the residue of the original term and subject to the same conditions, save that the original rent or balance of the purchase price shall be apportioned between the several lots in the subdivision as the Board may determine:provided, however, that the yearly rent payable under any new lease or licence granted under this section shall not be less than $2.
 
 ### 94 Mortgages of leases or licences
@@ -1282,7 +1282,7 @@ Subject to the provisions of section 157 relating to applications to the Land Va
 (4) No licence granted under this section shall preclude the Board from selling or leasing, or the Governor-General from reserving, or shall in any way affect the rights of the Crown to, the land occupied in virtue of the licence; and the licence shall cease to have any force over any land so sold, leased, or reserved.
 (5) The licensee shall not be entitled to any compensation by reason of the loss of his licence pursuant to the last preceding subsection; but he may, within such time as the Board may allow, remove all buildings, fencing, enclosures, and other improvements purchased, erected, or made by him on the land.
 (6)
-(6A) Nothing in this section shall derogate from the provisions of the Resource Management Act 1991 or the Crown Minerals Act 1991.
+(6A) Nothing in this section shall derogate from the provisions of the Natural and Built Environment Act 2023 or the Crown Minerals Act 1991.
 
 ### 166 Flax leases
 (1) For the purpose of growing, cutting, or removing flax, the Board may lease any area of Crown land for a term not exceeding 33 years, with or without a right of renewal for a like term.
