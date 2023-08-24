@@ -1,5 +1,5 @@
 # Heritage New Zealand Pouhere Taonga Act 2014
-_Consolidation as at 2022-04-12_
+_Consolidation as at 2023-08-24_
 
 ### 1 Title
 This Act is the Heritage New Zealand Pouhere Taonga Act 2014.
@@ -58,12 +58,12 @@ In this Act, unless the context otherwise requires,—
   - **customary marine title area** has the meaning given in section 9(1) of the Marine and Coastal Area (Takutai Moana) Act 2011
   - **department** means the department of State that, with the authority of the Prime Minister, is for the time being responsible for the administration of this Act
   - **emergency authority** means an authority granted by Heritage New Zealand Pouhere Taonga under subpart 3 of Part 3
-  - **Environment Court** has the meaning given in section 2(1) of the Resource Management Act 1991
+  - **Environment Court** means the Environment Court continued by clause 3 of Schedule 13 of the Natural and Built Environment Act 2023
   - **exploratory investigation** means a physically invasive investigation of any site or locality for exploratory purposes so as to determine whether the site or locality is an archaeological site, and, if so, the nature and extent of the archaeological site
   - **financial year** means the 12 months ending on the close of 30 June or any other date determined for Heritage New Zealand Pouhere Taonga by the Minister of Finance
   - **Heritage New Zealand Pouhere Taonga** means the Crown entity established by section 9
-  - **heritage order** has the meaning given in section 187 of the Resource Management Act 1991
-  - **heritage protection authority** has the meaning given in section 187 of the Resource Management Act 1991
+  - **heritage protection authority** has the meaning given in section 11 of the Natural and Built Environment Act 2023
+  - **heritage protection order** has the meaning given in section 11 of the Natural and Built Environment Act 2023
   - **historic area** means an area of land that—
     (a) contains an inter-related group of historic places; and
     (b) forms part of the historical and cultural heritage of New Zealand; and
@@ -104,7 +104,7 @@ In this Act, unless the context otherwise requires,—
     (b) includes a mortgage or charge registered under that Act
   - **scientific investigation** means a physically invasive investigation of any archaeological site undertaken for research purposes, so as to obtain information relating to the history of New Zealand
   - **site of interest to Māori** means an archaeological site or other place in which an iwi or a hapū has, or at any time has had, an interest
-  - **statutory acknowledgement** means a statutory acknowledgement made by the Crown under an Act specified in Schedule 11 of the Resource Management Act 1991
+  - **statutory acknowledgement** means a statutory acknowledgement made by the Crown under an Act specified in Schedule 14 of the Natural and Built Environment Act 2023
   - **structure** —
     (a) means a thing made by people, whether movable or not, and fixed to the land; and
     (b) includes equipment or machinery
@@ -126,7 +126,7 @@ In order to recognise and respect the Crown's responsibility to give effect to t
   (a) in section 10, for the appointment, in consultation with the Minister of Māori Affairs, of at least 3 members of the Board of Heritage New Zealand Pouhere Taonga who are qualified for appointment having regard to their knowledge of te ao Māori and tikanga Māori; and
   (b) in sections 13 and 14, that Heritage New Zealand Pouhere Taonga—
     (i) has functions that relate to wāhi tūpuna, wāhi tapu, and wāhi tapu areas; and
-    (ii) has the powers to carry out those functions, including the power to be a heritage protection authority under Part 8 of the Resource Management Act 1991; and
+    (ii) has the powers to carry out those functions, including the power to be a heritage protection authority under Part 9 of the Natural and Built Environment Act 2023; and
   (c) in section 22, that Heritage New Zealand Pouhere Taonga has the power to delegate functions and powers to the Māori Heritage Council continued by section 26; and
   (d) in sections 27 and 28, for the functions and powers of that Council to ensure the appropriate protection of wāhi tūpuna, wāhi tapu, wāhi tapu areas, historic places, and historic areas of interest to Māori; and
   (e) in section 39, for the power of Heritage New Zealand Pouhere Taonga to enter into heritage covenants over wāhi tūpuna, wāhi tapu, and wāhi tapu areas; and
@@ -183,7 +183,7 @@ This Act binds the Crown.
   (f) to manage, administer, and control historic places, buildings, and other property owned or controlled by Heritage New Zealand Pouhere Taonga or vested in it to ensure their protection, preservation, and conservation:
   (g) in the event of a national or local emergency or a national or local transition period (under the Civil Defence Emergency Management Act 2002), to provide advice on heritage matters:
   (h) to establish and maintain a list of places of outstanding national heritage value, to be called the National Historic Landmarks/Ngā Manawhenua o Aotearoa me ōna Kōrero Tūturu:
-  (i) to act as a heritage protection authority under Part 8 of the Resource Management Act 1991 for the purposes of protecting—
+  (i) to act as a heritage protection authority under Part 9 of the Natural and Built Environment Act 2023 for the purposes of protecting—
     (i) the whole or part of a historic place, historic area, wāhi tūpuna, wāhi tapu, or wāhi tapu area; and
     (ii) land surrounding the historic place, historic area, wāhi tūpuna, wāhi tapu, or wāhi tapu area that is reasonably necessary to ensure the protection and reasonable enjoyment of the historic place, historic area, wāhi tūpuna, wāhi tapu, or wāhi tapu area.
 (2) In performing its function under subsection (1)﻿(c), Heritage New Zealand Pouhere Taonga must recognise the interests of an owner, as far as those interests are known, in a particular historic place, historic area, wāhi tūpuna, wāhi tapu, or wāhi tapu area.
@@ -288,7 +288,7 @@ Despite section 73 of the Crown Entities Act 2004, the Board must not delegate t
   (g) borrow money:
   (h) adopt any statement of general policy under section 17:
   (i) adopt a conservation plan under section 19:
-  (j) give notice to a territorial authority of a requirement for a heritage order under Part 8 of the Resource Management Act 1991, unless the delegation is one that must be jointly exercised by any 2 of the following persons:
+  (j) give notice to a territorial authority of a requirement for a heritage protection order under Part 9 of the Natural and Built Environment Act 2023, unless the delegation is one that must be jointly exercised by any 2 of the following persons:
     (i) the chairperson:
     (ii) 1 Board member:
     (iii) the chief executive of Heritage New Zealand Pouhere Taonga.
@@ -465,7 +465,7 @@ The acts and proceedings of the Council, or of any person acting as a member of 
 ### 40 Effect of heritage covenant
 (1) A heritage covenant has effect according to its terms but is subject to this Act.
 (2) To avoid doubt,—
-  (a) entering into a heritage covenant does not prevent Heritage New Zealand Pouhere Taonga from exercising any powers under this Act or the Resource Management Act 1991 in relation to the historic place, historic area, wāhi tūpuna, wāhi tapu, or wāhi tapu area to which the covenant relates; and
+  (a) entering into a heritage covenant does not prevent Heritage New Zealand Pouhere Taonga from exercising any powers under this Act or the Natural and Built Environment Act 2023 in relation to the historic place, historic area, wāhi tūpuna, wāhi tapu, or wāhi tapu area to which the covenant relates; and
   (b) a heritage covenant does not permit a person to carry out an action contrary to this Act.
 
 ### 41 Registrar-General of Land must register instruments
@@ -545,8 +545,8 @@ The following applications may be made by any person to Heritage New Zealand Pou
 (4) Before applying under section 44(c) to conduct a scientific investigation of a site of interest to Māori, the applicant must—
   (a) have the consent of the appropriate iwi or hapū; and
   (b) provide evidence of that consent in the information given under subsection (2).
-(5) An applicant who provides the information required under subsection (2) for the purposes of a resource consent application or notice of requirement for a designation under the Resource Management Act 1991 (the planning application)—
-  (a) may provide the same information to Heritage New Zealand Pouhere Taonga as that provided for the planning application under the Resource Management Act 1991; but
+(5) An applicant who provides the information required under subsection (2) for the purposes of a resource consent application or notice of requirement for a designation under the Natural and Built Environment Act 2023 (the planning application)—
+  (a) may provide the same information to Heritage New Zealand Pouhere Taonga as that provided for the planning application under the Natural and Built Environment Act 2023; but
   (b) must ensure that all of the information required by subsection (2) is also provided.
 
 ### 47 Processing of applications for authorities
@@ -727,12 +727,12 @@ The following applications may be made by any person to Heritage New Zealand Pou
   (h) section 57(2) (a power of entry, a power to carry out an exploratory investigation, and a power to recover the cost of an exploratory investigation).
 (3) The notice of appeal must—
   (a) state the reasons for the appeal and the relief sought; and
-  (b) state any matters that are prescribed in regulations made under the Resource Management Act 1991 for appeals under section 120 of that Act; and
+  (b) state any matters that are prescribed in regulations made under the Natural and Built Environment Act 2023 for appeals under section 313 of that Act; and
   (c) not later than 15 working days after notice is given of the decision being appealed against,—
     (i) be lodged with the Environment Court; and
     (ii) be served on Heritage New Zealand Pouhere Taonga; and
   (d) not later than 5 working days after the notice of appeal is lodged with the Environment Court, be served, as relevant, on the applicant and owner (if different from the applicant) to whom the appeal relates.
-(4) Subject to this section and section 59, an appeal must be heard and determined by the Environment Court in the manner provided for by or under the Resource Management Act 1991.
+(4) Subject to this section and section 59, an appeal must be heard and determined by the Environment Court in the manner provided for by or under the Natural and Built Environment Act 2023.
 
 ### 59 Decision on appeal
 (1) In determining an appeal made under section 58, the Environment Court—
@@ -744,10 +744,10 @@ The following applications may be made by any person to Heritage New Zealand Pou
     (v) a statutory acknowledgement that relates to the archaeological site or sites concerned:
     (vi) the relationship of Māori and their culture and traditions with their ancestral lands, water, sites, wāhi tūpuna, wāhi tapu, and other taonga; and
   (b) may confirm or reverse the decision appealed against or modify the decision in the manner that the Environment Court thinks fit.
-(2) Subsection (1) does not limit the powers of the Environment Court under the Resource Management Act 1991.
+(2) Subsection (1) does not limit the powers of the Environment Court under the Natural and Built Environment Act 2023.
 (3) For the purposes of subsection (1)﻿(a)﻿(v), if the Environment Court has regard to a statutory acknowledgement, it must do so in accordance with the provisions of the relevant Act.
 (4) If the decision appealed against relates to a customary marine title area in respect of which a planning document has been lodged with Heritage New Zealand Pouhere Taonga under section 86(1)﻿(b) of the Marine and Coastal Area (Takutai Moana) Act 2011, the Environment Court must comply with section 89(b) of that Act.
-(5) Nothing in this section limits or affects the power of Heritage New Zealand Pouhere Taonga to issue a requirement for a heritage order under the Resource Management Act 1991.
+(5) Nothing in this section limits or affects the power of Heritage New Zealand Pouhere Taonga to issue a requirement for a heritage protection order under the Natural and Built Environment Act 2023.
 
 ### Subpart 3 — Emergency authorities
 
@@ -824,7 +824,7 @@ The following applications may be made by any person to Heritage New Zealand Pou
 (3) The purposes of the New Zealand Heritage List/Rārangi Kōrero are—
   (a) to inform members of the public about historic places, historic areas, wāhi tūpuna, wāhi tapu, and wāhi tapu areas:
   (b) to notify the owners of historic places, historic areas, wāhi tūpuna, wāhi tapu, and wāhi tapu areas, as needed, for the purposes of this Act:
-  (c) to be a source of information about historic places, historic areas, wāhi tūpuna, wāhi tapu, and wāhi tapu areas for the purposes of the Resource Management Act 1991.
+  (c) to be a source of information about historic places, historic areas, wāhi tūpuna, wāhi tapu, and wāhi tapu areas for the purposes of the Natural and Built Environment Act 2023.
 (4) The New Zealand Heritage List/Rārangi Kōrero must—
   (a) separately identify historic places as—
     (i) Category 1: places of special or outstanding historical or cultural heritage significance or value; or
@@ -1190,23 +1190,23 @@ In this subpart, place—
   (b) either—
     (i) that person has threatened to commit, or is already committing, the offence or breach; or
     (ii) Heritage New Zealand Pouhere Taonga has reasonable cause to believe that such an offence or breach is likely to occur.
-(2) An application under subsection (1) is to be treated as if it were an application for an enforcement order under section 314 of the Resource Management Act 1991, and sections 315(1) to (3), 317, 318, 320, and 321 of that Act apply to an application, except as those provisions are modified by this section or section 93.
+(2) An application under subsection (1) is to be treated as if it were an application for an enforcement order under section 641 of the Natural and Built Environment Act 2023, and sections 642(1) to (3), 644, 645, 647, and 648 of that Act apply to an application, except as those provisions are modified by this section or section 93.
 (3) After considering an application made under subsection (1), the Environment Court may—
   (a) make an order; or
   (b) refuse the application.
 (4) An order may be granted under this section—
   (a) on the terms and conditions that the Environment Court thinks fit; and
-  (b) despite anything in any enactment other than Part 12 of the Resource Management Act 1991; and
+  (b) despite anything in any enactment other than Part 11 of the Natural and Built Environment Act 2023; and
   (c) whether or not proceedings in relation to the breach or offence have been commenced; and
   (d) even if a person is convicted of the breach or offence,—
     (i) in substitution for, or in addition to, any other penalty; or
     (ii) in subsequent proceedings.
-(5) An interim order may be made by an Environment Judge under this section as if the order were made under section 320 of the Resource Management Act 1991.
+(5) An interim order may be made by an Environment Judge under this section as if the order were made under section 647 of the Natural and Built Environment Act 2023.
 (6) An interim order made under subsection (5) remains in force until—
   (a) an application for an order made under subsection (1) is determined under this section; or
-  (b) the interim order is changed, cancelled, or confirmed by an Environment Judge as if section 320(5) of the Resource Management Act 1991 applied; or
-  (c) the interim order is cancelled by the Environment Court as if section 321 of the Resource Management Act 1991 applied.
-(7) Despite anything in Part 11 of the Resource Management Act 1991, the Environment Court does not have the jurisdiction to make orders for costs under this section.
+  (b) the interim order is changed, cancelled, or confirmed by an Environment Judge as if section 647(5) of the Natural and Built Environment Act 2023 applied; or
+  (c) the interim order is cancelled by the Environment Court as if section 648 of the Natural and Built Environment Act 2023 applied.
+(7) Despite anything in Schedule 13 of the Natural and Built Environment Act 2023, the Environment Court does not have the jurisdiction to make orders for costs under this section.
 
 ### 93 Proceedings
 (1) Proceedings under sections 85 to 90 (which relate to offences) must be heard—
