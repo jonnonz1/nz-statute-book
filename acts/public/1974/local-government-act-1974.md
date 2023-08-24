@@ -1,5 +1,5 @@
 # Local Government Act 1974
-_Consolidation as at 2022-07-01_
+_Consolidation as at 2023-08-24_
 
 > An Act to consolidate and amend the law relating to the reorganisation of the districts and functions of local authorities, to make better provision for the administration of those functions which can most effectively be carried out on a regional basis, and to make provision for the establishment of united councils, regional councils, district councils, district community councils, and community councils and to consolidate and amend the Municipal Corporations Act 1954, the Counties Act 1956, the Local Authorities (Petroleum Tax) Act 1970, and provisions of other Acts of the Parliament of New Zealand relating to the powers and functions of regional councils, united councils, and territorial local authorities
 
@@ -32,10 +32,9 @@ _Consolidation as at 2022-07-01_
   - **Director of Maritime New Zealand** means the person for the time being holding the office of Director of Maritime New Zealand under section 439 of the Maritime Transport Act 1994
   - **district** means the district of a local authority; and includes a region
   - **district council** means a district council constituted under Part 1A
-  - **district plan** , , in relation to a district plan, and have the same meaning as in section 2 of the Resource Management Act 1991
   - **elector** means a person qualified to be an elector by virtue of section 23 or section 24 of the Local Electoral Act 2001
   - **engineer** , in relation to any council, means the engineer appointed by the council; and includes any person for the time being appointed by the council to perform the duties of engineer thereto
-  - **Environment Court** means the Environment Court as defined in the Resource Management Act 1991
+  - **Environment Court** means the Environment Court continued by clause 3 of Schedule 13 of the Natural and Built Environment Act 2023
   - **equity security** has the same meaning as in the Securities Act 1978
   - **farm land** means land used or intended to be used solely or principally for agricultural or horticultural or pastoral purposes or the keeping of bees or poultry or other livestock; and and have corresponding meanings
   - **final scheme** means a final scheme under Part 1; and includes a final reorganisation scheme prepared under section 15B
@@ -62,8 +61,10 @@ _Consolidation as at 2022-07-01_
   - **Minister** means the Minister of Local Government
   - **navigation bylaws** means bylaws made under section 684B
   - **navigational aid** has the same meaning as it has in section 2(1) of the Maritime Transport Act 1994
+  - **NBEA plan** means a plan under the Natural and Built Environment Act 2023
   - **net capital value** , in relation to any district, means the total of the capital value of all the rateable property in the district and the value of all property in the district in respect of which the local authority receives grants in lieu of rates
   - **occupier** , in relation to any property, means the inhabitant occupier of that property
+  - **operative** , in relation to an NBEA plan, has the meaning given in section 11 of the Natural and Built Environment Act 2023
   - **owner** , in relation to any property, means the person entitled to receive the rack rent thereof, or who would be so entitled if the property were let to a tenant at a rack rent
   - **parliamentary elector** means any person lawfully registered as an elector under the Electoral Act 1993
   - **pleasure craft** has the same meaning as it has in section 2(1) of the Maritime Transport Act 1994
@@ -89,7 +90,7 @@ _Consolidation as at 2022-07-01_
   - **regional planning scheme** has the same meaning as in section 2(1) of the Town and Country Planning Act 1977
   - **reorganisation scheme** means a reorganisation scheme within the meaning of section 37ZZA or section 37ZZZA
   - **road** has the meaning defined in section 315
-  - **rural area** means an area zoned rural in a proposed or an operative district plan
+  - **rural area** means an area zoned rural in a proposed or an operative NBEA plan
   - **Secretary** means the Secretary for Local Government
   - **ship** has the same meaning as it has in section 2(1) of the Maritime Transport Act 1994
   - **special consultative procedure** means the procedure set out in section 83 of the Local Government Act 2002
@@ -2683,7 +2684,7 @@ For the purposes of this Act, section 159 of the Customs Act 1966, so far as it 
   (b)
   (c) to lay out new roads:
   (d) to divert or alter the course of any road:
-  (e) to increase or diminish the width of any road subject to and in accordance with the provisions of the district plan, if any, and to this Act and any other Act:
+  (e) to increase or diminish the width of any road subject to and in accordance with the provisions of the NBEA plan, if any, and to this Act and any other Act:
   (f) to determine what part of a road shall be a carriageway, and what part a footpath or cycle track only:
   (g) to alter the level of any road or any part of any road:
   (h) to stop or close any road or part thereof in the manner and upon the conditions set out in section 342 and Schedule 10:
@@ -2849,9 +2850,9 @@ Where a building-line restriction has been imposed under this Act or any former 
     (i) the time for appealing under subsection (3) has expired; and
     (ii) any appeals have been determined under subsection (4).
 (3) Any person may, within 1 month after the making of a declaration, or within such further time as the Environment Court may allow, appeal to the Environment Court against the declaration.
-(4) The appeal must be made and determined by the Environment Court in accordance with the Resource Management Act 1991 and any regulations made under that Act and the court may quash or affirm the declaration, or affirm the declaration with modification.
+(4) The appeal must be made and determined by the Environment Court in accordance with the Natural and Built Environment Act 2023 and any regulations made under that Act and the court may quash or affirm the declaration, or affirm the declaration with modification.
 (5) The decision of the Environment Court under subsection (4) is final.
-(6) Subsections (2)﻿(b) and (3) to (5) do not apply to a declaration that gives effect to the provisions of an operative district plan under the Resource Management Act 1991.
+(6) Subsections (2)﻿(b) and (3) to (5) do not apply to a declaration that gives effect to the provisions of an NBEA plan.
 (7) Every person commits an offence who drives, rides, or parks any vehicle or rides any animal, or causes or permits any vehicle to be driven, ridden, or parked or any animal to be ridden, in contravention of a declaration (including a declaration modified by the Environment Court).
 (8) A declaration (including a modified declaration) may be revoked or varied by a subsequent declaration using the procedure in subsection (1), and that subsection applies with all necessary modifications.
 (9) When the special consultative procedure is used for the purposes of subsection (1), the council must, in addition to the matters referred to in section 83(1)﻿(b)﻿(i) to (iii) of the Local Government Act 2002, ensure that an explanation of the right of appeal under subsection (3) is publicly available.
@@ -2879,7 +2880,7 @@ The council may, by notice in writing, require the owner of any pipe, drain, or 
 (8) In this section the term road does not include an access way.
 
 ### 340 Motor garages
-(1) Subject to the Resource Management Act 1991, the council may grant permits for the erection of private motor garages adjacent to the line of the road or to a line intermediate between the line of the road and the building line.
+(1) Subject to the Natural and Built Environment Act 2023, the council may grant permits for the erection of private motor garages adjacent to the line of the road or to a line intermediate between the line of the road and the building line.
 (2) Every such permit may be at any time cancelled by the council. Within 1 month after the date of the cancellation, or within such extended time as the council may in any case allow, the owner shall remove the garage and shall not be entitled to any compensation in respect thereof.
 (3) If the owner fails to remove the garage within the time specified, the council may remove it at his expense, and recover the cost thereof from that owner as a debt.
 (4) Every permit granted under section 132 of the Public Works Act 1928 and in force at the commencement of this Part shall continue in force after the commencement of this Part as if it had been granted under this section.
@@ -2888,7 +2889,7 @@ The council may, by notice in writing, require the owner of any pipe, drain, or 
 (1) Subject to section 357(2), the council may—
   (a) grant a lease to any person of the airspace or any part of the airspace above the surface of any road; or
   (b) grant a lease to any person of the subsoil or any part of the subsoil beneath the surface of any road:
-  provided that no such lease shall be granted for any purpose that would be in contravention of any provision of the Resource Management Act 1991:
+  provided that no such lease shall be granted for any purpose that would be in contravention of any provision of the Natural and Built Environment Act 2023:
   provided also that, in exercising the powers conferred by this subsection in relation to any airspace, the council shall ensure that sufficient airspace remains above the surface of the road for the free and unobstructed passage of vehicles and pedestrians lawfully using the road.
 (2) Any improvements erected or constructed in any airspace or in any subsoil pursuant to a lease under this section shall be deemed to be rateable land for the purposes of the Local Government (Rating) Act 2002.
 (3) Nothing in this section shall be construed so as to restrict any right a council may have to permit any person to use for a temporary period any part of the surface or of the airspace above the surface of any road.
@@ -2950,10 +2951,10 @@ The council may, by notice in writing, require the owner of any pipe, drain, or 
   (a) the separate parcels of land included in the 1 record of title by virtue of that requirement shall not be capable of being disposed of individually or of again being held under separate records of title, except with the consent of the council:
   (b) where that adjoining land is already subject to a registered instrument under which a power to sell, a right of renewal, or a right or obligation is lawfully conferred or imposed, the land sold shall be deemed to be and always have been part of the land that is subject to that instrument, and all rights and obligations in respect of, and encumbrances on that adjoining land shall be deemed also to be rights and obligations in respect of, or encumbrances on, that land sold.
 (2B) On the issue of a record of title to the land referred to in subsection (2A), the Registrar-General of Land shall enter on the record of title a memorandum that the land to which it relates is subject to paragraph (a) of that subsection, and, if the circumstances so require, that it is subject to paragraph (b) of that subsection.
-(3) Where any road or any part of a road along the mark of mean high water springs of the sea, or along the bank of any river with an average width of 3 metres or more, or the margin of any lake with an area of 8 hectares or more is stopped, there shall become vested in the council as an esplanade reserve (as defined in section 2(1) of the Resource Management Act 1991) for the purposes specified in section 229 of the Resource Management Act 1991—whichever is the lesser.
+(3) Where any road or any part of a road along the mark of mean high water springs of the sea, or along the bank of any river with an average width of 3 metres or more, or the margin of any lake with an area of 8 hectares or more is stopped, there shall become vested in the council as an esplanade reserve (as defined in section 11 of the Natural and Built Environment Act 2023) for the purposes specified in section 609 of that Act—whichever is the lesser.
   (a) a strip of land forming part of the land that ceases to be road not less than 20 metres wide along the mark of mean high water springs of the sea, or along the bank of any river or the margin of any lake (as the case may be); or
   (b) the full width of the land which ceases to be road—
-(4) The obligation under subsection (3) to set aside a strip of land not less than 20 metres in width as an esplanade reserve is subject to any rule included in a district plan under section 77 of the Resource Management Act 1991.
+(4) The obligation under subsection (3) to set aside a strip of land not less than 20 metres in width as an esplanade reserve is subject to any rule included in an NBEA plan.
 (5) On the issue of any record of title for land which has become vested in the council as an esplanade reserve under subsection (3), the Registrar-General of Land shall enter thereon a memorandum that the land is subject to that subsection.
 (6)
 
@@ -3008,10 +3009,10 @@ Without restricting any provision of any other Act, it is hereby declared that n
 
 ### 346G Limited access road not a road for purpose of subdivision or sale
 (1) Where any provision of this Act or any other Act makes any person's right to erect or use a building of any kind on any land, or to subdivide or sell any land, conditional upon the land having a frontage or vehicle access to a road, or in any other way conditional upon the existence of a road, then, for the purposes of that provision, a limited access road shall be deemed not to be a road, except for such purpose, to such extent, and on such conditions, as may be notified from time to time by the council to the Registrar-General of Land.
-(2) Any person aggrieved at—may object in writing to the Environment Court within 1 month after being notified of that refusal or condition, or within such further time as the Environment Court may allow, and the objection shall be made and determined by the Environment Court in the manner prescribed by the Resource Management Act 1991 and the regulations under that Act.
+(2) Any person aggrieved at—may object in writing to the Environment Court within 1 month after being notified of that refusal or condition, or within such further time as the Environment Court may allow, and the objection shall be made and determined by the Environment Court in the manner prescribed by the Natural and Built Environment Act 2023 and the regulations under that Act.
   (a) the refusal of the council to issue a notice to the Registrar-General of Land under subsection (1); or
   (b) any condition subject to which any such notice is issued—
-(3) Subject to section 299 of the Resource Management Act 1991, the decision of the Environment Court on any such objection shall be final.
+(3) Subject to clause 79 of Schedule 13 of the Natural and Built Environment Act 2023, the decision of the Environment Court on any such objection shall be final.
 
 ### 346H Certificate of land affected to be forwarded to Registrar-General of Land
 (1) Where any road is declared to be a limited access road under section 346A, the council shall forward to the Registrar-General of Land a certificate authenticated by the council specifying by sufficient description and title reference every parcel of land that is affected by that limited access road, either by reason of the parcel of land adjoining the limited access road or by reason of the legal access of the parcel of land to any other road being lost or adversely affected as a result of the creation of the limited access road; and the Registrar-General of Land shall record the certificate against the titles specified therein.
@@ -3032,7 +3033,7 @@ Every person commits an offence against this Act who—
 **Private roads and private ways**
 
 ### 347 Grades and formation of private roads
-Subject to the Resource Management Act 1991, the provisions of this Part relating to the grades and formation of roads and to building lines shall apply to private roads as they apply to other roads under the control of the council.
+Subject to the Natural and Built Environment Act 2023, the provisions of this Part relating to the grades and formation of roads and to building lines shall apply to private roads as they apply to other roads under the control of the council.
 
 ### 348 Powers of council with respect to private roads and private ways
 (1) Except with the prior permission of the council, no person shall lay out or form any private road or private way, or grant or reserve a right of way over any private way, in the district.
@@ -3047,7 +3048,7 @@ Subject to the Resource Management Act 1991, the provisions of this Part relatin
   (b) may by notice in writing require the owners of land or buildings abutting on the private road to construct or repair the road, with the footways, kerbing, and channelling thereof, and every such owner shall be liable for the construction and repair of so much of the private road as the council thinks fit:
   (c) in case of default, may execute the said works, and recover the cost from the owners in the aforesaid proportions.
 (5) Subsection (4) shall apply to every private way which for the time being serves as an approach to 2 or more allotments that are separately owned or separately occupied or to any allotment on which there are 2 or more buildings that are separately occupied.
-(6) Nothing in this section applies to a private road or right of way lawfully created as part of a subdivision under the Resource Management Act 1991.
+(6) Nothing in this section applies to a private road or right of way lawfully created as part of a subdivision under the Natural and Built Environment Act 2023.
 
 ### 349 Council may declare private road or right of way to be public road
 (1) The council may declare to be a public road—
@@ -3795,8 +3796,8 @@ This Part—
     (iii) drainage channels or land drainage works that a council has agreed to construct; and
   (b) does not apply in respect of drainage channels or land drainage works transferred by a council under Part 29A.
 
-### 502 This Part to be subject to Resource Management Act 1991
-Nothing in this Part shall derogate from the provisions of the Resource Management Act 1991.
+### 502 This Part to be subject to Natural and Built Environment Act 2023
+Nothing in this Part shall derogate from the provisions of the Natural and Built Environment Act 2023.
 
 ### 503 Interpretation
 In this Part, unless the context otherwise requires,—
@@ -3969,8 +3970,8 @@ Without limiting the powers of the council to make bylaws conferred by section 6
 
 ## Part 29A — Divestment of land drainage schemes and water race schemes
 
-### 517A This Part subject to Resource Management Act 1991 and Soil Conservation and Rivers Control Act 1941
-Nothing in this Part derogates from the provisions of the Resource Management Act 1991 or the Soil Conservation and Rivers Control Act 1941.
+### 517A This Part subject to Natural and Built Environment Act 2023 and Soil Conservation and Rivers Control Act 1941
+Nothing in this Part derogates from the provisions of the Natural and Built Environment Act 2023 or the Soil Conservation and Rivers Control Act 1941.
 
 ### 517B Interpretation
 In this Part, unless the context otherwise requires,—
@@ -3984,7 +3985,7 @@ In this Part, unless the context otherwise requires,—
     (b) all buildings, vehicles, plant, equipment, and machinery, and any rights therein:
     (c) all financial reserves, and any rights therein:
     (d) all securities within the meaning of the Securities Act 1978:
-    (e) all rights of any kind, including rights under Acts, deeds, agreements, or licences, and any kind of consent granted under the Resource Management Act 1991, and all applications for and objections against applications for such rights:
+    (e) all rights of any kind, including rights under Acts, deeds, agreements, or licences, and any kind of consent granted under the Natural and Built Environment Act 2023, and all applications for and objections against applications for such rights:
     (f) annual revenue (or any proportion thereof) received by a local authority from land vested in the local authority in trust or as an endowment for the purpose of or in relation to the land drainage scheme or water race scheme; but does not include any interest in any such land
   - **scheme liabilities** means any liabilities of the local authority that were incurred (whether solely or partially) for the purposes of any land drainage scheme or water race scheme proposed to be transferred under this Part and, without limiting the generality of the foregoing provisions of this definition, includes—
     (a) liabilities and obligations under any Act or agreement; and
@@ -4051,9 +4052,9 @@ The transfer proposal must—
   (f) identify such of the assets identified in paragraph (e) as are, upon transfer of the scheme, to be purchased from the local authority (because they are not held or used by the local authority solely for the purposes of, or in relation to, the scheme to be transferred); and
   (g) identify the price proposed to be paid or the method for determining the price that should be paid for the scheme assets identified in paragraph (f); and
   (h) propose a procedure for the transfer of such of the scheme assets and scheme liabilities as are proposed to be transferred with the scheme and a timetable for their transfer; and
-  (i) identify any rights conferred by designations under operative district plans applying to any land relating to the scheme; and
-  (j) identify any rules or proposed rules in any regional plan or proposed regional plan relating to the scheme; and
-  (k) identify any resource consents relating to the scheme, including any water permits or discharge permits that have become resource consents under section 386 of the Resource Management Act 1991; and
+  (i) identify any rights conferred by designations under operative NBEA plans applying to any land relating to the scheme; and
+  (j) identify any rules or proposed rules in any NBEA plan or proposed NBEA plan relating to the scheme; and
+  (k) identify any resource consents relating to the scheme, including any water permits or discharge permits that are resource consents under the Natural and Built Environment Act 2023; and
   (l) identify any leases, easements, permits, or rights of any kind in respect of any scheme assets or scheme liabilities.
 
 ### 517J Service of transfer proposal
@@ -4146,7 +4147,7 @@ Where the Commission considers any transfer proposal under section 517T, the rel
   (b) the purposes of this Part as set out in section 517C; and
   (c) the extent to which the transfer of the scheme would impact upon, or be prejudicial to, the operation of any other drainage system or water supply system that utilises the scheme; and
   (d) the extent to which the transfer of the scheme would be oppressive, unfairly discriminatory, or unfairly prejudicial to any scheme user or particular scheme users; and
-  (e) the extent to which the transfer of the scheme would impact upon the functions, powers, and duties of any local authority under the Local Government Act 1974, the Resource Management Act 1991, the Soil Conservation and Rivers Control Act 1941, or any other Act.
+  (e) the extent to which the transfer of the scheme would impact upon the functions, powers, and duties of any local authority under the Local Government Act 1974, the Natural and Built Environment Act 2023, the Soil Conservation and Rivers Control Act 1941, or any other Act.
 
 ### 517V Notice of Commission's determination
 (1) Where the Commission makes a determination under section 517T, the Commission must as soon as practicable after making that determination,—
@@ -4186,10 +4187,10 @@ Where a transfer proposal becomes a transfer plan under section 517X, the local 
 ### 517Z Transfer by local authority of scheme assets and scheme liabilities
 (1) Notwithstanding any Act, rule of law, or agreement, where a transfer proposal becomes a transfer plan under section 517Q or section 517X and that plan is to be given effect to by the transfer of a land drainage scheme or water race scheme, the local authority must on the transfer day—
   (a) transfer to the person or group of persons to whom the scheme is transferred, the scheme assets and scheme liabilities; and
-  (b) vest in the person or group of persons to whom the scheme is transferred any rights conferred by designations under district plans applying to any land transferred pursuant to this Part; and
+  (b) vest in the person or group of persons to whom the scheme is transferred any rights conferred by designations under NBEA plans applying to any land transferred pursuant to this Part; and
   (c) grant to the person or group of persons to whom the scheme is transferred leases, easements, permits, consents, or rights of any kind in respect of any scheme assets or scheme liabilities as provided for by the transfer proposal, the amended transfer proposal, or the Commission's determination, as the case may be.
 (2) Where a local authority continues, on behalf of scheme users, to collect revenue from land vested in the local authority in trust or as an endowment for the purposes of or in relation to a land drainage scheme or water race scheme transferred under this Part, the local authority is entitled to deduct from such revenue all reasonable costs and expenses incurred in the collection of such revenue.
-(3) Where any designation is, under subsection (1)﻿(b) vested in a person or group of persons, that person or group of persons may, within the period of 2 years beginning on the transfer day, apply under section 167 of the Resource Management Act 1991 for approval as a requiring authority and is, until that application is disposed of or until that period of 2 years expires, whichever is the sooner, deemed to be a requiring authority within the meaning of that Act.
+(3) Where any designation is, under subsection (1)﻿(b) vested in a person or group of persons, that person or group of persons may, within the period of 2 years beginning on the transfer day, apply under section 513 of the Natural and Built Environment Act 2023 for approval as a requiring authority and is, until that application is disposed of or until that period of 2 years expires, whichever is the sooner, deemed to be a requiring authority within the meaning of that Act.
 (4) Scheme assets that are fixed to, or are under or over, any land may be transferred under this Part, whether or not any interest in the land is also transferred. Where any such asset is so transferred, the asset and the land are to be regarded as separate assets each capable of separate ownership.
 (5) Any scheme asset or scheme liability may be transferred under this Part, whether or not any Act or agreement relating to the asset or liability permits such transfer or requires any consent to such a transfer.
 (6) Where a transfer takes place pursuant to this section and the transfer is registrable, the person responsible for keeping the register must register the transfer forthwith after written notice of the transfer is received by him or her from any person authorised for that purpose by the local authority.
@@ -4266,8 +4267,8 @@ Where a transfer proposal becomes a transfer plan under section 517X, the local 
 (1) Nothing in sections 40 to 42 of the Public Works Act 1981 applies to the transfer by the local authority of any land or interest in land under this Part so long as the land or interest in land continues to be used for the purposes of a land drainage scheme or water race scheme, but, if all or any part of the land or interest in land is no longer required for such purposes, sections 40 and 41 of that Act apply to the land or interest no longer so required as if the owner of the land or interest were the local authority and the land or interest had not been transferred under this Part.
 (2) The Registrar-General of Land must endorse on every record of title transferred to any person or group of persons under this Part, the effect of subsection (1).
 
-### 517ZH Section 11 and Part 10 of Resource Management Act 1991 and Part 21 of this Act not to apply
-Section 11 and Part 10 of the Resource Management Act 1991 and Part 21 of this Act do not apply to or in respect of the transfer of any land or interest in land under this Part nor to any subdivision required in respect of any such transfer.
+### 517ZH Section 22 and Part 10 of Natural and Built Environment Act 2023 and Part 21 of this Act not to apply
+Section 22 and Part 10 of the Natural and Built Environment Act 2023 and Part 21 of this Act do not apply to or in respect of the transfer of any land or interest in land under this Part or any subdivision required in respect of that transfer.
 
 ### 517ZI Activity permitted as of right
 For the purposes of section 375(1)﻿(a)﻿(iii) of the Resource Management Act 1991 and for the avoidance of doubt, where any land drainage scheme or water race scheme is transferred under this Part, any use for drainage purposes or water race purposes of the land upon which the land drainage scheme or water race scheme is situated is deemed to be a permitted activity within the meaning of that Act, and section 375 of that Act applies accordingly.
@@ -6169,7 +6170,7 @@ If no objections are received within the time limited as aforesaid, the council 
 If objections are received as aforesaid, the council shall, after the expiration of the period within which an objection must be lodged, unless it decides to allow the objections, send the objections together with the plans aforesaid, and a full description of the proposed alterations to the Environment Court.
 
 ### 6
-The Environment Court shall consider the district plan, the plan of the road proposed to be stopped, the council's explanation under clause 1, and any objection made thereto by any person, and confirm, modify, or reverse the decision of the council which shall be final and conclusive on all questions.
+The Environment Court shall consider the NBEA plan, the plan of the road proposed to be stopped, the council's explanation under clause 1, and any objection made thereto by any person, and confirm, modify, or reverse the decision of the council which shall be final and conclusive on all questions.
 
 ### 7
 If the Environment Court reverses the decision of the council, no proceedings shall be entertained by the Environment Court for stopping the road for 2 years thereafter.
