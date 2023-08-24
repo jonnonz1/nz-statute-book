@@ -1,5 +1,5 @@
 # Legal Services Act 2011
-_Consolidation as at 2022-07-01_
+_Consolidation as at 2023-08-24_
 
 ### 1 Title
 This Act is the Legal Services Act 2011.
@@ -162,7 +162,7 @@ Legal aid may be granted in respect of the following criminal matters:
   (l) any proceedings before the District Court or High Court following an application made under section 316 or 324 of the Immigration Act 2009:
   (m) any appeal or review proceedings (as defined in section 4 of the Immigration Act 2009) in respect of proceedings or matters to which paragraph (j) or (k) applies:
   (n) any proceedings or application under or in relation to the Immigration Act 1987 for which legal aid could have been granted under any of paragraphs (j), (k), (l), and (m) of section 7(1) of the Legal Services Act 2000 as in force before their repeal by the Immigration Act 2009:
-  (o) all applications, submissions, and appeals under the Resource Management Act 1991 or to the Environment Court under any other Act:
+  (o) all applications, submissions, and appeals under the Natural and Built Environment Act 2023 or to the Environment Court under any other Act:
   (p) all applications, submissions, and appeals to any Council or body in any case where an appeal in relation to its decision lies to the Environment Court:
   (pa) proceedings before the tribunal under the Canterbury Earthquakes Insurance Tribunal Act 2019:
   (q) proceedings before the tribunal under the Weathertight Homes Resolution Services Act 2006:
