@@ -1,5 +1,5 @@
 # Natural Hazards Insurance Act 2023
-_Consolidation as at 2023-02-27_
+_Consolidation as at 2023-08-24_
 
 ### 1 Title
 This Act is the Natural Hazards Insurance Act 2023.
@@ -647,12 +647,12 @@ Guidance noteFor the number of dwellings in a building, see section 10.
 (5) However, this section is subject to section 46.
 (6) In this section,—
   - **area cap** means,—
-    (a) if there is a district plan minimum area, the lesser of—
-      (i) the district plan minimum area; and
+    (a) if there is an NBE plan minimum area, the lesser of—
+      (i) the NBE plan minimum area; and
       (ii) 4,000 square metres; or
-    (b) if there is no district plan minimum area, 4,000 square metres
-  - **district plan** means the operative district plan (within the meaning of Part 5 of the Resource Management Act 1991) for the district where the damaged residential land is situated
-  - **district plan minimum area** means the minimum area (in square metres) allowable under the district plan for land that is used for the purpose for which the damaged residential land was being used at the time the natural hazard damage occurred.
+    (b) if there is no NBE plan minimum area, 4,000 square metres
+  - **NBE plan** means the operative plan under the Natural and Built Environment Act 2023 for the region where the damaged residential land is situated
+  - **NBE plan minimum area** means the minimum area (in square metres) allowable under the NBE plan for land that is used for the purpose for which the damaged residential land was being used at the time the natural hazard damage occurred.
 
 ### 45 Undepreciated value of retaining walls, bridges, or culverts
 (1) The undepreciated value of a damaged retaining wall, bridge, or culvert is the total cost that would reasonably be incurred to construct a structure that is substantially the same as, but not better or more extensive than, the damaged one was when it was new (even if a structure of that kind would not comply with current building standards or applicable laws).
