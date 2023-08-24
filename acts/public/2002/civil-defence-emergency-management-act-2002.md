@@ -1,5 +1,5 @@
 # Civil Defence Emergency Management Act 2002
-_Consolidation as at 2023-03-21_
+_Consolidation as at 2023-08-24_
 
 ### 1 Title
 This Act is the Civil Defence Emergency Management Act 2002.
@@ -269,7 +269,7 @@ Each member of a Civil Defence Emergency Management Group—
   (h) Local Government Act 1974:
   (ha) Local Government Act 2002:
   (i) Maritime Transport Act 1994:
-  (j) Resource Management Act 1991:
+  (j) Natural and Built Environment Act 2023:
   (k) any enactment passed in substitution for any of the Acts in paragraphs (a) to (j).
 
 ### 18 General powers of Civil Defence Emergency Management Groups
@@ -977,7 +977,7 @@ A person exercising a power conferred on him or her by this Part must—
   (b) any other transition period then in force in any area or district to which the national transition period applies ceases to have effect.
 
 ### 94B Notice of local transition period
-(1) A person who is authorised to give notice of a local transition period by being appointed for the purpose under section 25(1)﻿(b) or otherwise authorised by section 25(4) or (5) may, after a state of emergency has been declared for the area of the Civil Defence Emergency Management Group concerned, give notice of a local transition period for the area of the Civil Defence Management Group concerned, or for 1 or more districts or wards within the area, if it appears to the person that a local transition period is required.
+(1) A person who is authorised to give notice of a local transition period by being appointed for the purpose under section 25(1)﻿(b) or otherwise authorised by section 25(4) or (5) may, after a state of emergency has been declared for the area of the Civil Defence Emergency Management Group concerned, give notice of a local transition period for the area of the Civil Defence Emergency Management Group concerned, or for 1 or more districts or wards within the area, if it appears to the person that a local transition period is required.
 (2) After an emergency arises, for which a state of emergency has not been declared, a person who is appointed or otherwise authorised under section 25 to give notice of a local transition period may do so in accordance with subsection (1) with the approval of the Minister.
 (3) After a state of emergency has been declared for the area of a Civil Defence Emergency Management Group, or after an emergency arises for which a state of emergency has not been declared, the Minister may give notice of a local transition period for the area or for 1 or more districts or wards within the area if—
   (a) it appears to the Minister that a local transition period is required for the whole or any part of the area; and
@@ -1319,8 +1319,8 @@ A person who commits an offence against this Act is liable on conviction,—
 (2) Subsection (1) applies whether the loss or damage is caused by any person taking any action or failing to take any action, so long as the act or omission occurred in the exercise or performance of his or her functions, duties, or powers under this Act.
 (3) No person is exempted from liability under subsection (1) for any act or omission to act that constitutes bad faith or gross negligence on the part of that person.
 
-### 111 Restricted application of Resource Management Act 1991
-If a state of emergency is declared, or notice of a transition period is given, under this Act, the Resource Management Act 1991 applies to emergency works as provided for in section 330B of that Act.
+### 111 Restricted application of Natural and Built Environment Act 2023
+If a state of emergency is declared, or notice of a transition period is given, under this Act, the Natural and Built Environment Act 2023 applies to emergency works as provided for in section 696 of that Act.
 
 ### 112 Absence on duty not to affect employment rights
 (1) No person who is required by the Director or a Controller to be absent from his or her accustomed employment on civil defence emergency management duties during a state of emergency is liable to dismissal from that employment merely because of his or her absence on civil defence emergency management duties, whether or not his or her accustomed employer has consented to that absence.
@@ -1540,7 +1540,7 @@ An entity that provides a rail network or service.
   (c) any state of emergency or local transition period for another emergency in the area or district to which the national transition period applies continues in force.
 
 ### 6 Notice of local transition period
-(1) A person who is authorised to give notice of a local transition period by being appointed for the purpose under section 25(1)﻿(b) or otherwise authorised by section 25(4) or (5) may, after a state of emergency has been declared for the area of the Civil Defence Emergency Management Group concerned, give notice of a local transition period for the area of the Civil Defence Management Group concerned, or for 1 or more districts or wards within the area, if it appears to the person that a local transition period is required.
+(1) A person who is authorised to give notice of a local transition period by being appointed for the purpose under section 25(1)﻿(b) or otherwise authorised by section 25(4) or (5) may, after a state of emergency has been declared for the area of the Civil Defence Emergency Management Group concerned, give notice of a local transition period for the area of the Civil Defence Emergency Management Group concerned, or for 1 or more districts or wards within the area, if it appears to the person that a local transition period is required.
 (2) After an emergency arises, for which a state of emergency has not been declared, a person who is appointed or otherwise authorised under section 25 to give notice of a local transition period may do so in accordance with subclause (1) with the approval of the Minister.
 (3) After a state of emergency has been declared for the area of a Civil Defence Emergency Management Group, or after an emergency arises for which a state of emergency has not been declared, the Minister may give notice of a local transition period for the area or for 1 or more districts or wards within the area if—
   (a) it appears to the Minister that a local transition period is required for the whole or any part of the area; and
