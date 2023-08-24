@@ -1,5 +1,5 @@
 # Local Government (Auckland Transitional Provisions) Act 2010
-_Consolidation as at 2021-10-28_
+_Consolidation as at 2023-08-24_
 
 ### 1 Title
 This Act is the Local Government (Auckland Transitional Provisions) Act 2010.
@@ -520,7 +520,7 @@ To avoid doubt, nothing in this Part affects the ability of the Council to charg
 **Financial contributions**
 
 ### 58 Financial contributions already made or owed to existing local authorities
-(1) This section applies to financial contributions under the Resource Management Act 1991.
+(1) This section applies to financial contributions under the Natural and Built Environment Act 2023.
 (2) The Auckland Council must use any financial contributions it holds or receives by operation of section 35 of the Reorganisation Act in reasonable accordance with the purposes for which they were received by the existing local authorities.
 (3) However, if the financial contributions are held or received for water supply or wastewater services infrastructure, section 59 applies.
 
@@ -534,8 +534,8 @@ To avoid doubt, nothing in this Part affects the ability of the Council to charg
 (3) Watercare Services Limited must use the financial contribution in reasonable accordance with the purposes for which the money was received by the existing local authorities or the Auckland Council.
 
 ### 60 Prohibition on requiring contribution for certain infrastructure of Watercare Services Limited
-(1) After 1 July 2011, the Auckland Council must not require any financial contribution under section 108 of the Resource Management Act 1991 for the water supply or wastewater services infrastructure of Watercare Services Limited.
-(2) This section prevails over section 108 of the Resource Management Act 1991 and applies even if a district plan in force under section 78(2) of this Act authorises a financial contribution to be imposed under that Act.
+(1) After 1 July 2011, the Auckland Council must not require any financial contribution under section 295 of the Natural and Built Environment Act 2023 for the water supply or wastewater services infrastructure of Watercare Services Limited.
+(2) This section prevails over section 295 of the Natural and Built Environment Act 2023 and applies even if a district plan in force under section 78(2) of this Act authorises a financial contribution to be imposed under that Act.
 
 **Bylaws**
 
@@ -694,9 +694,9 @@ The standing orders prescribed by any Order in Council made under section 46 of 
   (a) the date on which the Auckland Council resolves otherwise (which, for the purposes of this section, includes a resolution delegating the same responsibility, duty, or power):
   (b) 30 June 2011.
 
-### 71 Delegations under Resource Management Act 1991
-(1) On and from 1 November 2010, the chief executive of the Auckland Council holds all the responsibilities, duties, and powers of the Council that the Resource Management Act 1991 allows a local authority to delegate to an officer of the local authority.
-(2) Despite section 34A(1)﻿(b) of that Act, on and from 1 November 2010, the chief executive may delegate some or all of the responsibilities, duties, and powers to—
+### 71 Delegations under Natural and Built Environment Act 2023
+(1) On and from 1 November 2010, the chief executive of the Auckland Council holds all the responsibilities, duties, and powers of the Council that the Natural and Built Environment Act 2023 allows a local authority to delegate to an officer of the local authority.
+(2) Despite section 62 of that Act, on and from 1 November 2010, the chief executive may delegate some or all of the responsibilities, duties, and powers to—
   (a) an officer or employee of the Auckland Council:
   (b) a hearings commissioner appointed by the Auckland Council (who may or may not be a member of the Council).
 (3) A person to whom the chief executive delegates a function, power, or duty under subsection (2) must not subdelegate it.
@@ -773,7 +773,7 @@ Until the Auckland Council appoints a Principal Rural Fire Officer for Auckland 
 **Resource management**
 
 ### 77 Section 81 of Resource Management Act 1991 does not apply to areas included within Auckland
-(1) Section 81 of the Resource Management Act 1991 does not apply to any area included within Auckland by the boundary adjustment Order.
+(1) Section 210 of the Natural and Built Environment Act 2023 does not apply to any area included within Auckland by the boundary adjustment Order.
 (2) Instead, the relevant parts of section 78 of this Act apply.
 
 ### 78 Resource management
