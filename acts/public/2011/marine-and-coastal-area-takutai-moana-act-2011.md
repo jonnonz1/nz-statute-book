@@ -1,5 +1,5 @@
 # Marine and Coastal Area (Takutai Moana) Act 2011
-_Consolidation as at 2021-10-28_
+_Consolidation as at 2023-08-24_
 
 ## Preamble
 (1) In June 2003, the Court of Appeal held in Attorney-General v Ngāti Apa [2003] 3 NZLR 643 that the Māori Land Court had jurisdiction to determine claims of customary ownership to areas of the foreshore and seabed. The Foreshore and Seabed Act 2004 (the 2004 Act) was enacted partly in response to the Court of Appeal’s decision:
@@ -104,7 +104,7 @@ To avoid doubt, this Act does not affect—
       (i) a recognition order; or
       (ii) an agreement; and
     (b) includes a legal entity (whether corporate or unincorporate) or natural person appointed by 1 or more iwi, hapū, or whānau groups to be the representative of that applicant group and to apply for, and hold, an order or enter into an agreement on behalf of the applicant group
-  - **aquaculture activities** has the meaning given in section 2(1) of the Resource Management Act 1991
+  - **aquaculture activities** has the meaning given in section 11 of the Natural and Built Environment Act 2023
   - **chief executive** means the chief executive of Land Information New Zealand
   - **coastal permit** has the meaning given in section 87(c) of the Resource Management Act 1991
   - **common marine and coastal area** means the marine and coastal area other than—
@@ -115,7 +115,7 @@ To avoid doubt, this Act does not affect—
       (iii) a reserve within the meaning of section 2(1) of the Reserves Act 1977; and
     (c) the bed of Te Whaanga Lagoon in the Chatham Islands
   - **concession** means a concession granted following the process required by Part 3B of the Conservation Act 1987
-  - **consent authority** has the meaning given in section 2(1) of the Resource Management Act 1991
+  - **consent authority** has the meaning given in section 11 of the Natural and Built Environment Act 2023
   - **conservation area** has the meaning given in section 2(1) of the Conservation Act 1987
   - **conservation permission right** means the permission right that a customary marine title group may exercise under a customary marine title order or an agreement in relation to the conservation activities specified in section 71(3)
   - **conservation process** means any of the conservation processes specified in section 47
@@ -151,9 +151,24 @@ To avoid doubt, this Act does not affect—
   - **effective date** means,—
     (a) in the case of a recognition order made under section 98, the date on which the order is sealed under section 113; and
     (b) in the case of an agreement entered into under section 95, the date on which the agreement is brought into effect under section 96(1)
-  - **environment** has the meaning given in section 2(1) of the Resource Management Act 1991
-  - **infrastructure** has the meaning given in section 2(1) of the Resource Management Act 1991
-  - **kaitiakitanga** has the meaning given in section 2(1) of the Resource Management Act 1991
+  - **environment** has the meaning given in section 11 of the Natural and Built Environment Act 2023
+  - **environmental limit** has the meaning given in section 11 of the Natural and Built Environment Act 2023
+  - **infrastructure** means—
+    (a) pipelines that distribute or transmit natural or manufactured gas, petroleum, biofuel, or geothermal energy:
+    (b) a network for the purpose of telecommunication as defined in section 5 of the Telecommunications Act 2001:
+    (c) a network for the purpose of radiocommunications as defined in section 2(1) of the Radiocommunications Act 1989:
+    (d) facilities for the generation of electricity, lines used or intended to be used to convey electricity, and support structures for lines used or intended to be used to convey electricity, excluding facilities, lines, and support structures if a person—
+      (i) uses them in connection with the generation of electricity for the person's use; and
+      (ii) does not use them to generate any electricity for supply to any other person:
+    (e) a water supply distribution system, including a system for irrigation:
+    (f) a drainage or sewerage system:
+    (g) structures for transport on land by cycleways, rail, roads, walkways, or any other means:
+    (h) facilities for the loading or unloading of cargo or passengers transported on land by any means:
+    (i) an airport as defined in section 2 of the Airport Authorities Act 1966:
+    (j) a navigation installation as defined in section 2 of the Civil Aviation Act 1990:
+    (k) facilities for the loading or unloading of cargo or passengers carried by sea, including a port-related commercial undertaking as defined in section 2(1) of the Port Companies Act 1988:
+    (l) anything described as a network utility operation in regulations made under the Resource Management Act 1991 for the purposes of the definition of network utility operator in that Act
+  - **kaitiakitanga** has the meaning given in section 11 of the Natural and Built Environment Act 2023
   - **local authority** has the meaning given in section 5(1) of the Local Government Act 2002
   - **mana tuku iho** means inherited right or authority derived in accordance with tikanga
   - **Māori Appellate Court** means the court continued by section 50 of Te Ture Whenua Maori Act 1993
@@ -162,16 +177,34 @@ To avoid doubt, this Act does not affect—
     (a) means the area that is bounded,—
       (i) on the landward side, by the line of mean high-water springs; and
       (ii) on the seaward side, by the outer limits of the territorial sea; and
-    (b) includes the beds of rivers that are part of the coastal marine area (within the meaning of the Resource Management Act 1991); and
+    (b) includes the beds of rivers that are part of the coastal marine area (within the meaning of the Natural and Built Environment Act 2023); and
     (c) includes the airspace above, and the water space (but not the water) above, the areas described in paragraphs (a) and (b); and
     (d) includes the subsoil, bedrock, and other matter under the areas described in paragraphs (a) and (b)
   - **mineral** has the meaning given in section 2(1) of the Crown Minerals Act 1991
-  - **plan** has the meaning given in section 43AA of the Resource Management Act 1991, and also includes any proposed plan
+  - **Minister responsible for aquaculture** means the Minister who, under the authority of a warrant or with the authority of the Prime Minister, has overall responsibility for aquaculture activities
+  - **national planning framework** means the framework provided for in Part 4 of the Natural and Built Environment Act 2023
+  - **NBEA permission right** means the right held by a customary marine title group under a customary marine title order or agreement as provided for in sections 66 to 68
+  - **network utility operator** means a person who—and network facility operation has a corresponding meaning
+    (a) undertakes or proposes to undertake the distribution or transmission by pipeline of natural or manufactured gas, petroleum, biofuel, or geothermal energy; or
+    (b) operates or proposes to operate a network for the purpose of—
+      (i) telecommunication as defined in section 5 of the Telecommunications Act 2001; or
+      (ii) radiocommunications as defined in section 2(1) of the Radiocommunications Act 1989; or
+    (c) is an electricity operator or electricity distributor as defined in section 2 of the Electricity Act 1992 for the purpose of line function services as defined in that section; or
+    (d) undertakes or proposes to undertake the distribution of water for supply (including irrigation); or
+    (e) undertakes or proposes to undertake a drainage or sewerage system; or
+    (f) constructs, operates, or proposes to construct or operate, a road or railway line; or
+    (g) is an airport authority as defined by the Airport Authorities Act 1966 for the purposes of operating an airport as defined by that Act; or
+    (h) is a provider of any approach control service within the meaning of the Civil Aviation Act 1990; or
+    (i) is a responsible special purpose vehicle that is constructing or proposing to construct eligible infrastructure; or
+    (j) undertakes or proposes to undertake a project or work prescribed by regulations made under the Resource Management Act 1991 as a network utility operation for the purposes of the definition of network utility operator in that Act—
+  - **permitted activity** has the meaning given in section 11 of the Natural and Built Environment Act 2023
+  - **permitted activity notice** has the meaning given in section 11 of the Natural and Built Environment Act 2023
+  - **plan** has the meaning given in section 11 of the Natural and Built Environment Act 2023, and also includes any proposed plan
   - **planning document** means the document that may be prepared by a customary marine title group under section 85
   - **privilege** , in relation to any mineral,—
     (a) has the same meaning as the definition of existing privilege in section 2(1) of the Crown Minerals Act 1991; and
     (b) also means prospecting, exploration, and mining permits granted under that Act, and their associated mining operations (within the meaning of section 2(1) of that Act)
-  - **proposed plan** has the meaning given in section 43AAC of the Resource Management Act 1991
+  - **proposed plan** has the meaning given in section 11 of the Natural and Built Environment Act 2023
   - **protected customary right** means an activity, use, or practice—
     (a) established by an applicant group in accordance with subpart 2 of Part 3; and
     (b) recognised by—
@@ -182,16 +215,17 @@ To avoid doubt, this Act does not affect—
     (a) means an applicant group to which a protected customary rights order applies or with which an agreement is made; and
     (b) includes a delegate or transferee of the group if the delegation or transfer is made in accordance with tikanga
   - **protected customary rights order** means an order of the Court granted in recognition of the protected customary rights of a protected customary rights group in respect of a protected customary rights area and sealed under section 113
-  - **public notice** has the meaning given in section 2(1) of the Resource Management Act 1991
+  - **public notice** has the meaning given in section 11 of the Natural and Built Environment Act 2023
   - **quota management system** has the meaning given in section 2(1) of the Fisheries Act 1996
   - **recognition order** means a protected customary rights order or a customary marine title order, as the case requires, made under section 98(1)
-  - **regional council** has the meaning given in section 2(1) of the Resource Management Act 1991
+  - **regional council** has the meaning given in section 11 of the Natural and Built Environment Act 2023
   - **regional document** has the meaning given in section 92
+  - **regional planning committee** has the meaning given in section 11 of the Natural and Built Environment Act 2023
+  - **regional spatial strategy** has the meaning given in section 8 of the Spatial Planning Act 2023, and includes any draft regional spatial strategy
   - **register** means the marine and coastal area register that must be kept by the chief executive in accordance with subpart 3 of Part 4
   - **Registrar** means the Registrar-General of Land appointed in accordance with section 231 of the Land Transfer Act 2017
-  - **resource consent** has the meaning given in section 2(1) of the Resource Management Act 1991
+  - **resource consent** has the meaning given in section 11 of the Natural and Built Environment Act 2023
   - **responsible Minister** means the Minister of the Crown who, with the authority of the Prime Minister, is for the time being responsible for the administration of any provision in this Act
-  - **RMA permission right** means the right held by a customary marine title group under a customary marine title order or agreement as provided for in sections 66 to 68
   - **road** means—
     (a) a road within the meaning of section 315(1) of the Local Government Act 1974 or section 43(1) of the Government Roading Powers Act 1989; and
     (b) a motorway within the meaning of section 2(1) of the Government Roading Powers Act 1989; and
@@ -204,15 +238,20 @@ To avoid doubt, this Act does not affect—
     (c) registered under the Land Transfer Act 2017 and in which a person other than the Crown or a local authority has an estate in fee simple that is registered under that Act; or
     (d) subject to the Deeds Registration Act 1908 and in which a person other than the Crown or a local authority has an estate in fee simple under an instrument that is registered under that Act
   - **structure** —
-    (a) has the meaning given in section 2(1) of the Resource Management Act 1991; and
+    (a) has the meaning given in section 11 of the Natural and Built Environment Act 2023; and
     (b) includes any breakwater, groyne, mole, or other such structure that is made by people and fixed to land
   - **taonga tūturu** has the meaning given in section 2(1) of the Protected Objects Act 1975
+  - **target** has the meaning given in section 11 of the Natural and Built Environment Act 2023
+  - **te Oranga o te Taiao** has the meaning given in section 3(3) of the Natural and Built Environment Act 2023
   - **territorial authority** has the meaning given in section 5(1) of the Local Government Act 2002
   - **territorial sea** means the territorial sea of New Zealand as defined by section 3 of the Territorial Sea, Contiguous Zone, and Exclusive Economic Zone Act 1977
   - **tikanga** means Māori customary values and practices
   - **wāhi tapu** and have the meanings given to the terms and in section 6 of the Heritage New Zealand Pouhere Taonga Act 2014
   - **warden** means a person appointed under section 80.
-(2) In Schedule 1 and elsewhere as the context requires, effect has the meaning given in section 3 of the Resource Management Act 1991.
+(2) In Schedule 1 and elsewhere as the context requires, effect has the meaning given in section 11 of the Natural and Built Environment Act 2023.
+
+### 9A Transitional, savings, and related provisions
+The transitional, savings, and related provisions set out in Schedule 1AA have effect according to their terms.
 
 ### 10 Act binds the Crown
 This Act binds the Crown.
@@ -301,15 +340,15 @@ This Act binds the Crown.
   (b) there is no current resource consent in respect of the structure.
 (3A) The regional council must—
   (a) undertake an inquiry under subsection (2); or
-  (b) remove the structure under section 12(7) of the Resource Management Act 1991.
+  (b) remove the structure under section 23(6) of the Natural and Built Environment Act 2023.
 (3B) The regional council may take action under subsection (3A)﻿(b) if, in the opinion of the council, an inquiry under subsection (2) is not warranted because—
   (a) the structure is likely to have no, or minimal, value to any owner or to the community; and
   (b) efforts to locate the owner have not been successful, including, as a minimum,—
     (i) a search of the relevant records held by the council; and
     (ii) a reasonable effort to locate the owner from any contact details in those records.
 (3C) A regional council may determine whether to remove a structure, in whole or in part,—
-  (a) in accordance with the provisions of the regional coastal plan; or
-  (b) without complying with any conditions in the regional coastal plan or obtaining a resource consent if, in the council’s opinion, any adverse effects of removing the structure would be no more than minor.
+  (a) in accordance with the provisions of the plan; or
+  (b) without complying with any conditions in the plan or obtaining a resource consent if, in the council’s opinion, any adverse effects of removing the structure would be no more than minor.
 (4) Every inquiry under subsection (2) must be undertaken in accordance with regulations made under section 118.
 (5) Nothing in this section makes the Crown liable—
   (a) for any breaches committed, in respect of a structure, before the Crown became the deemed owner of the structure; or
@@ -348,7 +387,7 @@ Nothing in this Act limits or affects—
   (c) note any current registered interest or current registered notification that relates to the adjacent land against that record of title in the order in which it appears on the record of title cancelled under paragraph (a); and
   (d) issue a record of title for any registered interest or current registered notification that relates to land within the common marine and coastal area that was part of the record of title cancelled under paragraph (a).
 (3) The Registrar may require the deposit of any survey plan necessary for the issue of a record of title under subsection (2)﻿(b).
-(4) To avoid doubt, no action taken under this section is subject to Part 10 of the Resource Management Act 1991.
+(4) To avoid doubt, no action taken under this section is subject to Part 10 of the Natural and Built Environment Act 2023.
 
 ### 24 Exclusion of interests in marine and coastal area founded on adverse possession or prescriptive title
 (1) Despite any other enactment or rule of law, no person may claim an interest in any part of the marine and coastal area on the ground of adverse possession or prescriptive title.
@@ -427,7 +466,7 @@ Nothing in this Act limits or affects—
 
 ### 30 Certain reclaimed land to vest in Crown
 (1) Subsection (2) applies to any reclaimed land that is formed from the common marine and coastal area as a result of a lawful reclamation.
-(2) The full legal and beneficial ownership in any reclaimed land to which this subsection applies vests in the Crown absolutely if, after the commencement of this Act, a regional council approves a plan of survey, under section 245(5) of the Resource Management Act 1991, in respect of that land.
+(2) The full legal and beneficial ownership in any reclaimed land to which this subsection applies vests in the Crown absolutely if, after the commencement of this Act, a regional council approves a plan of survey, under section 605 of the Natural and Built Environment Act 2023, in respect of that land.
 (3) Subsection (4) applies to reclaimed land that is formed from the common marine and coastal area as a result of an unlawful reclamation.
 (4) The full legal and beneficial ownership in any reclaimed land to which this subsection applies vests in the Crown absolutely if the Minister signs a certificate that—
   (a) describes the position and extent of the reclaimed land; and
@@ -477,7 +516,7 @@ Nothing in this Act limits or affects—
 (4) If this subsection applies, any person may apply to the Minister for the grant to the person of an interest in the reclaimed land.
 (5) A developer or other person who makes an application under this section becomes liable to pay any fees payable under regulations made under this Act.
 (6) The fees referred to in subsection (5) are recoverable as a debt due to the Crown.
-(7) In this section, network utility operator and network utility operation have the same meanings as in section 166 of the Resource Management Act 1991.
+(7)
 
 ### 36 Determination of application by Minister
 (1) When an application under section 35 is made by an eligible applicant, the Minister must, without limitation, determine the following matters:
@@ -520,7 +559,7 @@ Nothing in this Act limits or affects—
 (1) The Minister may, by notice in the Gazette, vest in an applicant an interest in reclaimed land subject to this subpart if the Minister is satisfied that—
   (a) the vesting is in accordance with a determination made under section 36(1), as varied by any variations under section 38(3); and
   (b) any conditions imposed under section 36(1)﻿(c) have been complied with or that adequate provision has been made to ensure that those conditions will be complied with; and
-  (c) a certificate under section 245(5)﻿(b) of the Resource Management Act 1991 has been issued in respect of the reclaimed land.
+  (c) a certificate under section 605(2) of the Natural and Built Environment Act 2023 has been issued in respect of the reclaimed land.
 (2) Every Gazette notice published under subsection (1) must—
   (a) state the name of the applicant in whom the interest is vested and describe the position and extent of the reclaimed land; and
   (b) describe the interest vested; and
@@ -573,7 +612,7 @@ Nothing in this Act limits or affects—
   (c) determine the application, including whether any conditions must be fulfilled before any interest in the reclaimed land is vested and the nature of any such conditions; and
   (d) notify the customary marine title group of the determination.
 (4) Before the Minister makes a determination under subsection (3)﻿(c), the Minister must give the customary marine title group a reasonable opportunity to comment on the proposed determination.
-(5) If satisfied that a certificate under section 245(5)﻿(b) of the Resource Management Act 1991 has been issued in respect of the reclaimed land and that any conditions determined under subsection (3)﻿(c) have been fulfilled, the Minister may, by notice in the Gazette, vest in the customary marine title group an interest in the reclaimed land.
+(5) If satisfied that a certificate under section 605(2) of the Natural and Built Environment Act 2023 has been issued in respect of the reclaimed land and that any conditions determined under subsection (3)﻿(c) have been fulfilled, the Minister may, by notice in the Gazette, vest in the customary marine title group an interest in the reclaimed land.
 (6) Every Gazette notice published under subsection (5) must—
   (a) state the name of the customary marine title group, and describe the position and extent of the reclaimed land; and
   (b) describe the interest vested; and
@@ -681,14 +720,14 @@ If the Director-General is advised by iwi, hapū, or whānau and accepts, or det
   (d) that relates to—
     (i) wildlife within the meaning of the Wildlife Act 1953, or any animals specified in Schedule 6 of that Act:
     (ii) marine mammals within the meaning of the Marine Mammals Protection Act 1978; or
-  (e) that is based on a spiritual or cultural association, unless that association is manifested by the relevant group in a physical activity or use related to a natural or physical resource (within the meaning of section 2(1) of the Resource Management Act 1991).
+  (e) that is based on a spiritual or cultural association, unless that association is manifested by the relevant group in a physical activity or use related to a natural or physical resource (within the meaning of section 11 of the Natural and Built Environment Act 2023).
 (3) An applicant group does not need to have an interest in land in or abutting the specified part of the common marine and coastal area in order to establish protected customary rights.
 
 ### 52 Scope and effect of protected customary rights
-(1) A protected customary right may be exercised under a protected customary rights order or an agreement without a resource consent, despite any prohibition, restriction, or imposition that would otherwise apply in or under sections 12 to 17 of the Resource Management Act 1991.
+(1) A protected customary right may be exercised under a protected customary rights order or an agreement without any further approval, including a resource consent, despite any prohibition, restriction, or imposition that would otherwise apply under sections 18, 19, and 23 to 29 of the Natural and Built Environment Act 2023.
 (2) In exercising a protected customary right, a protected customary rights group is not liable for—
-  (a) the payment of coastal occupation charges imposed under section 64A of the Resource Management Act 1991; or
-  (b) the payment of royalties for sand and shingle imposed by regulations made under the Resource Management Act 1991.
+  (a) the payment of coastal occupation charges imposed under section 182 of the Natural and Built Environment Act 2023; or
+  (b) the payment of royalties for sand and shingle imposed by regulations made under the Natural and Built Environment Act 2023.
 (3) However, subsections (1) and (2) apply only if a protected customary right is exercised in accordance with—
   (a) tikanga; and
   (b) the requirements of this subpart; and
@@ -725,14 +764,17 @@ If the Director-General is advised by iwi, hapū, or whānau and accepts, or det
   (a) the relevant protected customary rights group gives its written approval for the proposed activity; or
   (b) the activity is one to which subsection (3) applies.
 (3) The existence of a protected customary right does not limit or otherwise affect the grant of—
-  (a) a coastal permit under the Resource Management Act 1991 to permit existing aquaculture activities to continue to be carried out in a specified part of the common marine and coastal area,—
+  (a) a coastal permit under the Natural and Built Environment Act 2023 to permit existing aquaculture activities to continue to be carried out in a specified part of the common marine and coastal area,—
     (i) regardless of when the application is lodged or whether there is any change in the species farmed or in the method of marine farming; and
     (ii) provided that there is no increase in the area, or change to the location, of the coastal space occupied by the aquaculture activity for which the existing coastal permit was granted; or
-  (b) a resource consent under section 330A of the Resource Management Act 1991 for an emergency activity (within the meaning of section 63) undertaken in accordance with section 330 of that Act, as if the emergency activity were an emergency work to which section 330 applies; or
+  (b) a resource consent under section 695 of the Natural and Built Environment Act 2023 for an emergency activity (within the meaning of section 63) undertaken in accordance with section 694 of that Act, as if the emergency activity were an emergency work to which section 330 applies; or
   (c) a resource consent for an existing accommodated infrastructure (within the meaning of section 63) if any adverse effects of the proposed activity on the exercise of a protected customary right will be or are likely to be—
     (i) the same or similar in character, intensity, and scale as those that existed before the application for the resource consent was lodged; or
     (ii) if more than minor or temporary in nature; or
   (d) a resource consent for a deemed accommodated activity (within the meaning of section 65(1)﻿(b)﻿(i)).
+(3A) The existence of a protected customary right does not limit or otherwise affect an aquaculture activity being carried out under a permitted activity notice in a specified part of the common marine and coastal area,—
+  (a) regardless of when an application is lodged or whether there is any change in the species farmed or method of marine farming; and
+  (b) provided there is no increase in the area or change to the location of the coastal space occupied by the aquaculture activity for which the permitted activity notice was issued.
 (4) In the case where a deemed accommodated activity within the meaning of section 65(1)﻿(b)﻿(i) applies, the consent authority must, when considering applications for a resource consent relating to that activity, have particular regard to the nature of the protected customary right.
 (5) The provisions of Part 1 of Schedule 1 apply for the purposes of subsections (2) and (3).
 
@@ -801,7 +843,7 @@ If the Director-General is advised by iwi, hapū, or whānau and accepts, or det
   (a) land that directly abuts the specified area; or
   (b) land that does not directly abut the specified area, but does directly abut any of the following:
     (i) a marginal strip (as defined in section 2(1) of the Conservation Act 1987) that directly abuts the specified area:
-    (ii) an esplanade reserve (as defined in section 2(1) of the Resource Management Act 1991), but only to the extent that it directly abuts the specified area:
+    (ii) an esplanade reserve (as defined in section 11 of the Natural and Built Environment Act 2023), but only to the extent that it directly abuts the specified area:
     (iii) a reserve (as defined in section 2(1) of the Reserves Act 1977), but only to the extent that it directly abuts the specified area:
     (iv) a Māori reservation (as defined in section 2(1) of the Reserves Act 1977) that directly abuts the specified area:
     (v) a road that directly abuts the specified area:
@@ -817,8 +859,8 @@ If the Director-General is advised by iwi, hapū, or whānau and accepts, or det
 (2) A customary marine title group—
   (a) may use, benefit from, or develop a customary marine title area (including derive commercial benefit) by exercising the rights conferred by a customary marine title order or agreement, but is not exempt from obtaining any relevant resource consent, permit, or approval that may be required under another enactment for the use and development of that customary marine title area; and
   (b) is not liable for payment, in relation to the customary marine title area, of—
-    (i) coastal occupation charges imposed under section 64A of the Resource Management Act 1991; or
-    (ii) royalties for sand and shingle imposed by regulations made under the Resource Management Act 1991.
+    (i) coastal occupation charges imposed under section 182 of the Natural and Built Environment Act 2023; or
+    (ii) royalties for sand and shingle imposed by regulations made under the Natural and Built Environment Act 2023.
 (3) A customary marine title group may—
   (a) delegate the rights conferred by a customary marine title order or an agreement in accordance with tikanga; or
   (b) transfer a customary marine title order or an agreement in accordance with tikanga.
@@ -835,7 +877,7 @@ If the Director-General is advised by iwi, hapū, or whānau and accepts, or det
 
 ### 62 Rights conferred by customary marine title
 (1) The following rights are conferred by, and may be exercised under, a customary marine title order or an agreement on and from the effective date:
-  (a) a Resource Management Act 1991 (RMA) permission right (see sections 66 to 70); and
+  (a) an NBEA permission right (see sections 66 to 70); and
   (b) a conservation permission right (see sections 71 to 75); and
   (c) a right to protect wāhi tapu and wāhi tapu areas (see sections 78 to 81); and
   (d) rights in relation to—
@@ -855,27 +897,36 @@ If the Director-General is advised by iwi, hapū, or whānau and accepts, or det
   (a) notify the applicant group about the application; and
   (b) seek the views of the group on the application.
 
+### 62A Information requirements for applicants for resource consents
+(1) This section applies in a case where a person applies for a resource consent relating to an area where applicant groups seek customary marine title.
+(2) The person applying for a resource consent must—
+  (a) confirm that they have notified the applicant groups in the area to which the resource consent application relates and that they have sought the views of those applicant groups; and
+  (b) provide a list of the applicant groups notified; and
+  (c) record the views obtained from the applicant groups, describing how those views have influenced the contents of the resource consent application.
+(3) If an application does not contain the information described in subsection (2), the consent authority must return the application as incomplete in accordance with section 240 of the Natural and Built Environment Act 2023.
+
 **Accommodated activities**
 
 ### 63 Interpretation
 In this section and in sections 64 and 65,—
   - **accommodated activities** are activities that are—
-    (a) expressly excluded under section 64(1) from the exercise of an RMA permission right or a conservation permission right by a customary marine title group; and
+    (a) expressly excluded under section 64(1) from the exercise of an NBEA permission right or a conservation permission right by a customary marine title group; and
     (b) within the scope of the activities provided for by section 64(1)
   - **accommodated infrastructure** means infrastructure (including structures and associated operations) that is—
     (a) lawfully established; and
     (b) owned, operated, or carried out by 1 or more of the following:
       (i) the Crown, including a Crown entity:
       (ii) a local authority or a council-controlled organisation:
-      (iii) a network utility operator (within the meaning of section 166 of the Resource Management Act 1991):
+      (iii) a network utility operator:
       (iv) an electricity generator (as defined in section 2(1) of the Electricity Act 1992):
       (v) a port company (as defined in section 2(1) of the Port Companies Act 1988):
       (vi) a port operator (as defined in Part 3A of the Maritime Transport Act 1994):
+      (vii) each of the water service entities established by section 11 of the Water Services Entities Act 2022:
     (c) reasonably necessary for—
       (i) the national social or economic well-being; or
       (ii) the social or economic well-being of the region in which the infrastructure is located
   - **associated operations** means activities that are necessary for the functioning of an accommodated infrastructure, including—
-    (a) an activity carried out under a resource consent granted under the Resource Management Act 1991 to permit existing accommodated infrastructure to continue in the same location; and
+    (a) an activity carried out under a resource consent granted under the Natural and Built Environment Act 2023 to permit existing accommodated infrastructure to continue in the same location; and
     (b) maintenance, remedial, and restoration work; and
     (c) the upgrading of existing infrastructure, but only if the effects on the environment of the upgraded infrastructure, assessed at the date when an application is made to upgrade the existing infrastructure, are to be the same or similar in character, intensity, and scale as the effects of the infrastructure that is being upgraded; and
     (d) the replacement of a part of existing infrastructure by a new part of the same or similar nature; and
@@ -896,26 +947,26 @@ In this section and in sections 64 and 65,—
       (iii) an emergency or a special emergency declared under section 49B or 136 of the Hazardous Substances and New Organisms Act 1996; or
       (iv) a marine oil spill response under the Maritime Transport Act 1994; or
       (v) an emergency within the meaning of section 6 of the Fire and Emergency New Zealand Act 2017; or
-      (vi) emergency works described in section 330 of the Resource Management Act 1991
+      (vi) emergency works described in sections 692 and 694 of the Natural and Built Environment Act 2023
   - **existing** , in relation to an activity, means an activity for which, before the effective date, any necessary resource consents have been granted, whether or not any or all of them have been given effect to before the effective date.
 
 ### 64 Accommodated activities
 (1) An accommodated activity—
   (a) may be carried out in a part of the common marine and coastal area despite customary marine title being recognised in respect of that part under subpart 1 or 2 of Part 4; and
-  (b) is not limited or otherwise affected by the exercise of an RMA permission right or a conservation permission right; but
+  (b) is not limited or otherwise affected by the exercise of an NBEA permission right or a conservation permission right; but
   (c) does not limit or otherwise affect the exercise of any other right referred to in section 62(1).
 (2) For the purposes of this subpart, accommodated activity means any of the following activities, to the extent that they are within a customary marine title area:
-  (a) an activity authorised under a resource consent, whenever granted, if the application for the consent is first accepted by the consent authority before the effective date:
-  (b) an activity that may be carried out under a resource consent, whenever granted, for a minimum impact activity (as defined in section 2(1) of the Crown Minerals Act 1991) relating to petroleum (as defined in section 2(1) of that Act):
+  (a) an activity authorised by a resource consent, whenever granted, or a permitted activity notice, whenever issued, if the application or request is accepted by the consent authority before the effective date:
+  (b) an activity that may be carried out under a resource consent, whenever granted, or a permitted activity notice, whenever issued, for a minimum impact activity (as defined in section 2(1) of the Crown Minerals Act 1991) relating to petroleum (as defined in section 2(1) of that Act):
   (c) accommodated infrastructure:
-  (d) the management activities for which a resource consent is required in relation to—
+  (d) the management activities for which a resource consent or permitted activity notice is required in relation to—
     (i) an existing marine reserve:
     (ii) an existing wildlife sanctuary:
     (iii) an existing marine mammal sanctuary:
     (iv) an existing concession:
-  (e) an activity carried out under a coastal permit granted under the Resource Management Act 1991 to permit existing aquaculture activities to continue to be carried out in a specified part of the common marine and coastal area,—
-    (i) regardless of when the application is lodged or whether there is any change in the species farmed or in the method of marine farming; but
-    (ii) provided that there is no increase in the area, or change of location, of the coastal space occupied by the aquaculture activities for which the existing coastal permit was granted:
+  (e) an existing aquaculture activity carried out in a specified part of the common marine and coastal area may continue to be carried out in that part of the common marine and coastal area,—
+    (i) regardless of when the application or permitted activity notice is lodged or whether there is any change in the species farmed or in the method of marine farming; but
+    (ii) not so as to increase the area, or change the location, of the coastal space occupied by the aquaculture activities for which the existing coastal permit or permitted activity notice was granted or accepted:
   (f) an emergency activity:
   (g) scientific research or monitoring that is undertaken or funded by—
     (i) the Crown:
@@ -949,22 +1000,27 @@ In this section and in sections 64 and 65,—
   (a) to decline an application for a resource consent; or
   (b) to impose conditions on the resource consent.
 
-**RMA permission right**
+**NBEA permission right**
 
-### 66 Scope of Resource Management Act 1991 permission right
-(1) An RMA permission right applies to activities that are to be carried out under a resource consent, including a resource consent for a controlled activity, to the extent that the resource consent is for an activity to be carried out within a customary marine title area.
-(2) A customary marine title group may give or decline permission, on any grounds, for an activity to which an RMA permission right applies.
+### 66 Scope of Natural and Built Environment Act 2023 permission right
+(1) An NBEA permission right applies—
+  (a) to activities that are to be carried out under—
+    (i) a resource consent; or
+    (ii) in the case of aquaculture activities, a resource consent or permitted activity notice; or
+    (iii) in the case of an activity that is the subject of a rule in a plan required by section 188(2)﻿(b) of the Natural and Built Environment Act 2023, a permitted activity notice; and
+  (b) to the extent that the activities are to be carried out within a customary marine title area.
+(2) A customary marine title group may give or decline permission, on any grounds, for an activity to which an NBEA permission right applies.
 (3) Permission given by a customary marine title group cannot be revoked.
-(4) An RMA permission right does not apply to the grant or exercise of a resource consent for an accommodated activity.
-(5) An RMA permission right, or permission given under such a right, does not limit the discretion of a consent authority—
+(4) An NBEA permission right does not apply to the grant or exercise of a resource consent or permitted activity notice for an accommodated activity.
+(5) An NBEA permission right, or permission given under such a right, does not limit the discretion of a consent authority—
   (a) to decline an application for a resource consent; or
   (b) to impose conditions.
-(6) In this section, consent authority includes the Minister of Conservation and the Minister for the Environment exercising the powers of a consent authority under the Resource Management Act 1991.
+(6) In this section, consent authority includes the Minister of Conservation and the Minister for the Environment exercising the powers of a consent authority under the Natural and Built Environment Act 2023.
 
-### 67 Procedural matters relevant to exercise of RMA permission right
-(1) A person seeking to carry out an activity (the applicant) to which an RMA permission right applies—
-  (a) must make a request for permission by notice to the relevant customary marine title group; and
-  (b) may do so at any time before the relevant resource consent may commence.
+### 67 Procedural matters relevant to exercise of NBEA permission right
+(1) A person seeking to carry out an activity (the applicant) to which an NBEA permission right applies—
+  (a) must make a request for permission by notice in writing to the relevant customary marine title group; and
+  (b) may do so any time before the activity may commence under the relevant resource consent or permitted activity notice.
 (2) The customary marine title group must—
   (a) notify in writing its decision on a request for permission to—
     (i) the applicant who gave notice under subsection (1); and
@@ -973,20 +1029,24 @@ In this section and in sections 64 and 65,—
     (i) the activity for which permission is given; and
     (ii) the applicant who is to have the benefit of the permission; and
     (iii) the duration of the permission.
-(3) Unless the customary marine title group has already notified its decision to the applicant under subsection (2), it must do so not later than 40 working days after it receives a notice from the applicant that the applicant has been granted the relevant resource consent (whether or not the applicant had previously notified the customary marine title group of the application).
+(3) Unless the customary marine title group has already notified its decision to the applicant under subsection (2), it must do so not later than 40 working days after it receives a notice from the applicant that the applicant has been granted the relevant resource consent or issued the permitted activity notice (whether or not the applicant had previously notified the customary marine title group of the application or request).
 (4) The customary marine title group is to be treated as having given permission for the resource consent, for its duration, if notice of its decision is not received by the applicant in accordance with subsection (3).
-(5) In subsection (3), the grant of a resource consent means that the consent has been granted and any appeal rights exhausted, and that the resource consent would, but for the requirement for the permission of the customary marine title group, commence under section 116 of the Resource Management Act 1991.
+(5) In subsection (3), the grant of a resource consent or the issue of a permitted activity notice means that—
+  (a) the consent or notice has been granted or issued (as the case may be); and
+  (b) any appeal rights have been exhausted; and
+  (c) the consent or notice would, but for the permission of the customary marine title group, commence under sections 318 to 323 of the Natural and Built Environment Act 2023.
+(6) When the relevant consent authority receives an application for a resource consent or information to obtain a permitted activity notice to which an NBEA permission right applies, it must refer the application or information to the relevant customary marine title group as soon as practicable unless the group has already notified its decision in accordance with subsection (2).
 
-### 68 Effect of RMA permission right
-(1) The holder of a resource consent for an activity in a customary marine title area to which an RMA permission right applies must not commence the activity to which the consent applied unless—
-  (a) permission has been given by the relevant customary marine title group under section 66(2) for that activity; and
-  (b) the permission covers the activity to which the resource consent applies.
+### 68 Effect of NBEA permission right
+(1) The holder of a resource consent or a permitted activity notice for an activity in a customary marine title area to which an NBEA permission right applies must not commence the activity unless—
+  (a) permission has been given by the relevant customary marine title group under section 66(2); and
+  (b) the permission covers the activity to which the resource consent or permitted activity notice applies.
 (2) To avoid doubt, a decision of a customary marine title group to give or to decline permission for an activity is not subject to—
   (a) a right of appeal; or
-  (b) a right of objection under section 357 or 357A of the Resource Management Act 1991.
+  (b) a right of objection under sections 764 and 765 of the Natural and Built Environment Act 2023.
 
 ### 69 Offence and penalty provision
-(1) In relation to an activity to which an RMA permission right applies, it is an offence to commence the activity in the relevant customary title area unless the relevant customary marine title group has given permission under section 66(2) or is to be treated as having given permission under section 67(4).
+(1) In relation to an activity to which an NBEA permission right applies, it is an offence to commence the activity in the relevant customary title area unless the relevant customary marine title group has given permission under section 66(2) or is to be treated as having given permission under section 67(4).
 (2) Every person who commits an offence against subsection (1) is liable, on conviction,—
   (a) in the case of a natural person, to imprisonment for a term not exceeding 2 years or a fine not exceeding $300,000:
   (b) in the case of a person other than a natural person, to a fine not exceeding $600,000.
@@ -1004,9 +1064,9 @@ In this section and in sections 64 and 65,—
   (b) in the District Court and, unless the Chief District Court Judge directs otherwise, by a District Court Judge who is an Environment Judge.
 
 ### 70 Environment Court may make enforcement orders
-(1) Subsection (3) applies only if, in relation to the exercise of a resource consent,—
-  (a) the RMA permission right is applicable; and
-  (b) a resource consent is exercised without the permission of the customary marine title group being obtained.
+(1) Subsection (3) applies only if, in relation to the exercise of a resource consent or permitted activity notice,—
+  (a) the NBEA permission right is applicable; and
+  (b) the activity is carried out under the resource consent or permitted activity notice without the permission of the customary marine title group being obtained.
 (2) If proceedings for an offence are commenced in the Environment Court, the Criminal Procedure Act 2011 applies as if a reference to the District Court were a reference to the Environment Court, with any other necessary modifications.
 (3) The Environment Court may make enforcement orders to—
   (a) prohibit a person from continuing the activity:
@@ -1084,10 +1144,13 @@ In making a determination under section 74(2), the Minister of Conservation or t
   (b) impose any conditions on a permit that the Director-General thinks fit.
 (3) The notice must include a copy of the proposed permit and sufficient information to enable the customary marine title group to provide its views on the application.
 
-**New Zealand coastal policy statement**
+**National planning framework**
 
 ### 77 Consultation
-If the Minister of Conservation is proposing to prepare, issue, change, review, or revoke a New Zealand coastal policy statement under section 57 of the Resource Management Act 1991, the Minister must seek and consider the views of the customary marine title groups recorded on the register.
+(1) If the responsible Minister within the meaning of section 164 of the Natural and Built Environment Act 2023 proposes to prepare, issue, change, review, or revoke any provisions in the national planning framework that apply to the whole or part of the coastal marine area, the Minister must seek and consider the views of the customary marine title groups recorded on the register.
+(2) The responsible Minister must,—
+  (a) in deciding whether to set an environmental limit or target nationally or regionally, consider whether the limit or target would directly affect a customary marine title group and (if they agree that it would) consider that as a factor in favour of setting the limit or target regionally; and
+  (b) in setting a limit or target that applies to a specific management unit that includes a customary marine title area, consider any planning document prepared under section 85.
 
 **Wāhi tapu protection right**
 
@@ -1178,7 +1241,7 @@ If the Minister of Conservation is proposing to prepare, issue, change, review, 
   (e) the exercise by the Crown of its functions and powers under the Crown Minerals Act 1991 in relation to any of the matters referred to in paragraphs (a) to (d).
 (2) A customary marine title group is entitled to receive the following royalties:
   (a) from the Crown, any royalties due to the Crown under the Crown Minerals Act 1991 in respect of minerals (other than petroleum, gold, silver, and uranium existing in their natural condition) that are subject to any privilege referred to in subsection (1)﻿(a) to (d) that applies to its customary marine title area; and
-  (b) from the regional council, any royalties for sand and shingle taken from the customary marine title area imposed by regulations made under the Resource Management Act 1991.
+  (b) from the regional council, any royalties for sand and shingle taken from the customary marine title area imposed by regulations made under the Natural and Built Environment Act 2023.
 (3) Royalties due under subsection (2)—
   (a) are payable on and after the date on which—
     (i) a customary marine title order is sealed under section 113; or
@@ -1193,24 +1256,27 @@ If the Minister of Conservation is proposing to prepare, issue, change, review, 
 (1) A customary marine title group has a right to prepare a planning document in accordance with its tikanga.
 (2) The purposes of the planning document are—
   (a) to identify issues relevant to the regulation and management of the customary marine title area of the group; and
-  (b) to set out the regulatory and management objectives of the group for its customary marine title area; and
-  (c) to set out policies for achieving those objectives.
-(3) A planning document may include any matter that can be regulated under the enactments specified in subsection (5), including matters that are relevant to—
-  (a) promoting the sustainable management of the natural and physical resources of the customary marine title area; and
-  (b) the protection of the cultural identity and historic heritage of the group.
+  (b) to set out the vision and regulatory and management objectives of the group for its customary marine title area; and
+  (c) to set out the strategic direction, key actions, and policies for achieving the vision and regulatory and management objectives.
+(3) A planning document may include any matter that can be regulated or managed under the enactments specified in subsection (5), including matters that are relevant to—
+  (a) promoting the use, development, and protection of the environment in the customary marine title area; and
+  (b) recognising and upholding te Oranga o te Taiao; and
+  (c) the protection of the cultural identity and heritage of the group.
+(3A) A planning document may contain content relevant to the decision by the Minister responsible for aquaculture to recommend the making of regulations under section 793 of the Natural and Built Environment Act 2023.
 (4) A planning document may relate—
   (a) only to the customary marine title area of the group; or
   (b) if it relates to areas outside the customary marine title area, only to the part of the common marine and coastal area where the group exercises kaitiakitanga.
-(5) The planning document may include only matters that may be regulated under—
+(5) The planning document may include only matters that may be regulated or managed under—
   (a) the Conservation Act 1987 or the Acts listed in Schedule 1 of that Act:
   (b) the Heritage New Zealand Pouhere Taonga Act 2014:
   (c) the Local Government Act 2002:
-  (d) the Resource Management Act 1991.
+  (d) the Natural and Built Environment Act 2023 or the Spatial Planning Act 2023.
 
 ### 86 Lodging and registration of planning document
 (1) A planning document is of no effect until it is lodged with—
   (a) the regional council with jurisdiction in the region to which the planning instrument relates; and
-  (b) any of the agencies referred to in sections 88 to 91 whose jurisdiction is relevant to the contents of the planning document; and
+  (aa) the regional planning committee for the region to which the planning instrument relates; and
+  (b) any of the agencies referred to in sections 88 to 91A whose jurisdiction is relevant to the contents of the planning document; and
   (c) the chief executive.
 (2) A document is deemed to be registered on the day that is 20 working days after it is first lodged with an agency.
 
@@ -1240,46 +1306,52 @@ If a customary marine title group lodges a planning document with Heritage New Z
     (i) included in a planning document that are provided for by the Resource Management Act 1991; and
     (ii) that are relevant to fisheries management.
 
+### 91A Obligations on Minister responsible for aquaculture
+If a customary marine title group lodges a planning document with the Minister responsible for aquaculture, the Minister must consider the document when deciding to recommend the making of regulations under section 793 of the Natural and Built Environment Act 2023 that directly affect the customary marine title area of the group.
+
 ### 92 Interpretation
 In this section and section 93, unless the context otherwise requires,—
   - **regional document** means any of the following:
-    (a) a regional plan or regional policy statement (within the meanings given in section 43AA of the Resource Management Act 1991):
-    (b) a proposed regional plan or proposed policy statement (within the meanings of sections 43AA and 43AAC of that Act)
+    (a) a plan under the Natural and Built Environment Act 2023:
+    (b) a proposed plan under the Natural and Built Environment Act 2023:
+    (c) a regional spatial strategy under the Spatial Planning Act 2023:
+    (d) a draft regional spatial strategy that has been made publicly available under the Spatial Planning Act 2023
   - **relevant regional document** means a regional document that relates, directly or indirectly, to all or part of the area to which a planning document applies.
 
 ### 93 Obligations on regional councils in relation to planning documents
 Preliminary obligations
-(1) A regional council with functions in a region where 1 or more planning documents are registered in accordance with section 86 must, until the requirements of subsection (5) have been completed, attach the planning documents to copies of its relevant regional documents that it makes publicly available.
-Identification and application of resource management matters included in planning document
-(2) Between the time that a planning document is lodged under section 86(1) and the time it is deemed to be registered under section 86(2), a regional council must identify the matters in the planning document that relate to resource management issues within its functions under the Resource Management Act 1991, to the extent that those matters are relevant within—
+(1) A regional planning committee in a region where 1 or more planning documents are registered in accordance with section 86 must, until the requirements of subsection (5) have been completed, attach the planning documents to copies of its relevant regional documents that it makes publicly available.
+Identification and application of natural and built environment matters included in planning document
+(2) Between the time that a planning document is lodged under section 86(1) and the time it is deemed to be registered under section 86(2), a regional planning committee must identify the matters in the planning document that relate to natural and built environment issues under the Natural and Built Environment Act 2023 and spatial planning issues under the Spatial Planning Act 2023, to the extent that those matters are within its functions under those Acts and are relevant within—
   (a) the customary marine title area to which the planning document relates; and
   (b) any parts of the common marine and coastal area to which the planning document relates other than the customary marine title area.
-(3) When considering, under section 104 of the Resource Management Act 1991, a resource consent application for an activity that would, if the consent were granted, directly affect, wholly or in part, the area to which the planning document applies, a consent authority of a regional council must have regard to any matters identified under subsection (2).
+(3) When considering under section 286 of the Natural and Built Environment Act 2023 a resource consent application for an activity that would, if the consent were granted, directly affect, wholly or in part, the area to which the planning document applies, a consent authority of a regional council must have regard to any matters identified under subsection (2).
 (4) The obligation under subsection (3) applies only to the matters in respect of which a regional council is able to exercise discretion.
 (5) The obligation under subsection (3) continues until—
-  (a) a regional document, altered in accordance with this section, becomes operative in accordance with Schedule 1 of the Resource Management Act 1991; or
-  (b) 30 working days after the date that the customary marine title group is informed of the decision under subsection (11) that no alterations are to be made to the relevant regional documents.
+  (a) a regional document, altered in accordance with this section, becomes operative in accordance with Schedule 6 of the Natural and Built Environment Act 2023; or
+  (b) the date that is 30 working days after the date that the customary marine title group is informed of the decision under subsection (11) that no alterations are to be made to the relevant regional documents.
+(6) A regional planning committee must notify the regional council when the alteration of the regional document in accordance with this section becomes operative.
 Obligations with respect to relevant regional documents
-(6) A regional council must initiate a process to determine whether to alter its relevant regional documents, if and to the extent that any alteration would achieve the purpose of the Resource Management Act 1991, in order to—
+(7) A regional planning committee must initiate a process to determine whether to alter its relevant regional documents, if and to the extent that any alteration would achieve the purpose of the Natural and Built Environment Act 2023 or the Spatial Planning Act 2023, in order to—
   (a) recognise and provide for any matters identified under subsection (2)﻿(a); and
-  (b) take into account any matters identified under subsection (2)﻿(b).
-(7) The process required by subsection (6) may be commenced—
+  (b) have particular regard to any matters identified under subsection (2)﻿(b).
+(8) The process required by subsection (7) may be commenced—
   (a) at any time after a planning document is registered; but
-  (b) not later than the first proposed change to, or variation or review of, any provision in a relevant regional document that applies to a customary marine title area.
-(8) In making a determination under subsection (6), a regional council must consider the extent to which alterations must be made to its relevant regional documents to—
+  (b) not later than the first proposed relevant regional document that applies to the customary marine title area or the first proposed changes to, or variation or review of, that document.
+(9) In making a determination under subsection (7), a regional planning committee must consider the extent to which alterations must be made to its relevant regional documents to—
   (a) recognise and provide for the matters in a planning document that relate to the customary marine title area; and
-  (b) take into account the matters in a planning document that relate to the parts of the common marine and coastal area other than the customary marine title area.
-(9) The obligations on a regional council under subsection (8) must be carried out in accordance with the requirements and procedures that relate to regional documents in—
-  (a) Part 5 of the Resource Management Act 1991; and
-  (b) Schedule 1 of that Act.
-(10) A regional council may decide, in conducting the process required by subsection (6), not to alter its relevant regional documents, but only on the grounds that the matters in the planning document—
+  (b) have particular regard to the matters in a planning document that relate to the parts of the common marine and coastal area other than the customary marine title area.
+(10) The obligations on a regional planning committee under subsection (9) must be carried out in accordance with the requirements and procedures that relate to regional documents in—
+  (a) Part 4 and Schedule 6 of the Natural and Built Environment Act 2023; and
+  (b) the Spatial Planning Act 2023.
+(11) A regional planning committee may decide, in conducting the process required by subsection (7), not to alter its relevant regional documents, but only on the grounds that the matters in the planning document—
   (a) are already provided for in a relevant regional document; or
-  (b) would not achieve the purpose of the Resource Management Act 1991; or
+  (b) would not achieve the purpose of the Natural and Built Environment Act 2023 or the Spatial Planning Act 2023; or
   (c) would be more effectively and efficiently addressed in another way.
-(11) If a regional council determines that no alterations should be notified in a proposed policy statement or plan that is notified under clause 5 of Schedule 1 of the Resource Management Act 1991, it must inform the customary marine title group in writing and provide reasons for its decision within 5 working days of that decision.
-(12) If an application is made to a regional council under Part 2 of Schedule 1 of the Resource Management Act 1991 for a private plan change that includes a customary marine title area in respect of which a planning document has been lodged,—
-  (a) the provisions of Part 2 of that schedule apply to the application, subject to the regional council having regard to any matters in the planning document when making a decision under clause 25 of that schedule; and
-  (b) if the private plan change is not rejected or treated as a resource consent application, the regional council must adopt the request and initiate the process required by subsection (6).
+(12) If a regional planning committee determines that no alterations should be notified in a plan that is notified under clause 73 of Schedule 6 of the Natural and Built Environment Act 2023, or a regional spatial strategy that is made public under Schedule 4 of the Spatial Planning Act 2023, it must inform the customary marine title group in writing and provide reasons for its decision within 5 working days of that decision.
+(13) If an application is made to a regional planning committee under subpart 2 of Part 2 of Schedule 6 of the Natural and Built Environment Act 2023 for a private plan change that includes a customary marine title area in respect of which a planning document has been lodged,—
+  (a) the provisions of subpart 2 of Part 2 of that schedule apply to the application, subject to the regional planning committee having regard to any matters in the planning document when making a decision under clause 72 of that schedule; and
+  (b) if the private plan change is not rejected or treated as a resource consent application, the regional council must adopt the request and initiate the process required by subsection (7).
 
 ## Part 4 — Administrative and miscellaneous matters
 
@@ -1441,6 +1513,7 @@ Rules not inconsistent with this Act may be made under section 148 of the Senior
   (b) send a copy of the sealed order to—
     (i) the local authorities that have statutory functions in the area of the common marine and coastal area to which the order applies; and
     (ii) any local authorities with statutory functions in an area adjacent to the area of the common marine and coastal area to which the order applies; and
+    (iia) the relevant regional planning committee; and
     (iii) the Minister of Conservation; and
     (iv) the Minister of Māori Affairs; and
     (v) each person who appeared on the application; and
@@ -1633,6 +1706,38 @@ A recognition order must be sealed—
 ### 128 Consequential amendments to other enactments
 The enactments specified in Schedule 3 are amended in the manner specified in that schedule.
 
+## Schedule 1AA — Transitional, savings, and related provisions
+
+### Part 1 — Provisions relating to Natural and Built Environment Act 2023 and Spatial Planning Act 2023
+
+### 1 Definitions
+In this Part, unless the context otherwise requires,—
+  - **applicable interim period** means, for a customary marine title group, the period—
+    (a) commencing on the day after the date that the Natural and Built Environment Act 2023 receives the Royal assent; and
+    (b) ending on the date that the relevant plan or regional spatial strategy is notified
+  - **notification** means notification, as the case may be, of—
+    (a) a natural and built environment plan under the Natural and Built Environment Act 2023; or
+    (b) a regional spatial strategy under the Spatial Planning Act 2023
+  - **relevant plan** means, in relation to a customary marine title group, the first plan under the Natural and Built Environment Act 2023 for the region in which the customary marine title area is located
+  - **relevant regional spatial strategy** means, in relation to a customary marine title group, the first regional spatial strategy under the Spatial Planning Act 2023 for the region in which the customary marine title area is located.
+
+### 2 Lodgement and consideration of planning documents during applicable interim period
+(1) A customary marine title group may, during the applicable interim period, lodge a planning document in accordance with section 86.
+(2) If a planning document is lodged with a regional council during the applicable interim period before a regional planning committee has been established,—
+  (a) the regional council must comply with section 93 as it was immediately before it was amended by the Natural and Built Environment Act 2023; and
+  (b) the regional council must, as soon as practicable after the regional planning committee for the region is established, provide the regional planning committee with the planning document; and
+  (c) the fact that the regional council has provided the planning document to the regional planning committee constitutes lodgement of the planning document under section 86; and
+  (d) the regional planning committee must, as soon as practicable after lodgement of the planning document, advise the customary marine title group in writing—
+    (i) that the planning document has been lodged; and
+    (ii) of the matters referred to in subclauses (3) and (4).
+(3) A customary marine title group may lodge a revised planning document prior to notification of the first relevant regional spatial strategy or the first relevant plan.
+(4) A customary marine title group must lodge a revised planning document by the date specified by the regional planning committee in a public notice published on an Internet site maintained by the committee.
+(5) If a revised planning document is not lodged by that date, the regional planning committee must fulfil its obligations in section 93(7) in relation to the planning document that is currently lodged when developing the relevant regional spatial strategy or relevant plan.
+(6) If a planning document is lodged by the regional council under subclause (2)﻿(c) or by the customary marine title group under subclause (4), a regional planning committee has a period of 40 working days after the date of lodgement (instead of 20 working days after that date) to fulfil its obligations under section 93(2) in relation to the planning document.
+(7) Before specifying a date for the purpose of subclause (4), a regional planning committee must take into account—
+  (a) the need for customary marine title groups to review their planning documents and prepare any revised planning documents; and
+  (b) the expected time frames for the preparation and notification of the relevant plan or relevant regional spatial strategy.
+
 ## Schedule 1 — Resource consents and controls in protected customary rights area
 
 ### Part 1 — Matters relevant to applications
@@ -1804,7 +1909,7 @@ The Minister of Conservation may—
 ### Part 1 — Deemed accommodated infrastructure
 
 ### 1
-Prior to an application being lodged under the Resource Management Act 1991 for any resource consents for proposed infrastructure (within the meaning of section 65(1)﻿(a)) in a customary marine title area, the proposed infrastructure may become a deemed accommodated activity in accordance with this Part.
+Prior to an application being lodged under the Natural and Built Environment Act 2023 for any resource consents for proposed infrastructure (within the meaning of section 65(1)﻿(a)) in a customary marine title area, the proposed infrastructure may become a deemed accommodated activity in accordance with this Part.
 
 ### 2
 Any person listed in paragraph (b) of the definition of accommodated infrastructure in section 63 may apply to the Minister for Land Information to declare a proposed infrastructure to be a deemed accommodated activity. In this Part, Minister means the Minister of Land Information.
@@ -1834,7 +1939,7 @@ For the avoidance of doubt, a decision under clause 4(a) is not a substantive de
 ### 6
 After making a decision under clause 4(a) that there is sufficient information (or after receiving further information under clause 4(b)), the Minister must, before determining the application,—
 (a) provide to the customary marine title group a copy of the application and any further information received from the applicant; and
-(b) invite the customary marine title group to identify appropriate compensation for the removal of its RMA permission right or conservation permission right and any other affected right associated with the customary marine title for the proposed infrastructure, in the event that it does not wish to agree to the construction of the proposed infrastructure going ahead; and
+(b) invite the customary marine title group to identify appropriate compensation for the removal of its NBEA permission right or conservation permission right and any other affected right associated with the customary marine title for the proposed infrastructure, in the event that it does not wish to agree to the construction of the proposed infrastructure going ahead; and
 (c) negotiate in good faith with the customary marine title group in an attempt to compensate for the waiver of its permission rights with respect to the application.
 
 ### 7
@@ -1855,10 +1960,10 @@ In making his or her decision under clause 8, the Minister must consider whether
 
 ### 10
 If the customary marine title group agrees to waive the permission rights, or a decision is made by the Minister under clause 8 to waive the permission rights, then the proposed infrastructure will become a deemed accommodated activity, except that—
-(a) the waiver of the RMA permission right will operate only for the particular resource consents applied for with respect to the proposed infrastructure (and only as far as the proposed infrastructure is defined in the Gazette notice set out in clause 11); and
+(a) the waiver of the NBEA permission right will operate only for the particular resource consents applied for with respect to the proposed infrastructure (and only as far as the proposed infrastructure is defined in the Gazette notice set out in clause 11); and
 (b) the waiver of the permission rights will not otherwise take away the legal effect of the customary marine title order or agreement, except as the customary marine title group expressly agrees otherwise or the Minister decides otherwise; and
 (c) the waiver of the permission rights will only apply to the activity that is the subject of an application under clause 3 and, unless expressly provided otherwise, it will not prevent the customary marine title group from exercising its permission rights under a customary marine title order or agreement within the same area for any other resource consent application not included in the Gazette notice published under clause 11; and
-(d) the customary marine title order or agreement will still be a relevant matter for the consent authority when considering the resource consents necessary for the deemed accommodated activity under the Resource Management Act 1991.
+(d) the customary marine title order or agreement will still be a relevant matter for the consent authority when considering the resource consents necessary for the deemed accommodated activity under the Natural and Built Environment Act 2023.
 
 ### 11
 If a proposed infrastructure becomes a deemed accommodated activity under clause 10, the Minister must cause a notice to be published in the Gazette giving—
