@@ -1,5 +1,5 @@
 # Maori Commercial Aquaculture Claims Settlement Act 2004
-_Consolidation as at 2022-04-12_
+_Consolidation as at 2023-08-24_
 
 ### 1 Title
 This Act is the Maori Commercial Aquaculture Claims Settlement Act 2004.
@@ -20,29 +20,29 @@ In this Act, unless the context otherwise requires,—
     (a) means to determine the settlement assets to be transferred to an iwi aquaculture organisation; but
     (b) does not include the transfer of those assets to the iwi aquaculture organisation
   - **anticipated new space** means the amount of space in the coastal marine area that the Minister anticipates will become new space after the commencement of the Maori Commercial Aquaculture Claims Settlement Amendment Act 2011
-  - **aquaculture activities** has the same meaning as in section 2(1) of the Resource Management Act 1991
+  - **aquaculture activities** has the same meaning as in section 11 of the Natural and Built Environment Act 2023
   - **aquaculture agreement** has the same meaning as in section 186ZD of the Fisheries Act 1996
   - **aquaculture settlement area** means space in the coastal marine area declared in a Gazette notice under section 12 to be an aquaculture settlement area
-  - **authorisation** has the same meaning as in section 165C of the Resource Management Act 1991
-  - **coastal marine area** has the same meaning as in section 2(1) of the Resource Management Act 1991
-  - **coastal permit** has the same meaning as in section 2(1) of the Resource Management Act 1991
+  - **authorisation** has the same meaning as in section 442 of the Natural and Built Environment Act 2023
+  - **coastal marine area** has the same meaning as in section 11 of the Natural and Built Environment Act 2023
+  - **coastal permit** has the same meaning as in section 220(c) of the Natural and Built Environment Act 2023
   - **commercial aquaculture** means an aquaculture activity undertaken for the purpose of sale
   - **commercial fishing** has the same meaning as in section 2(1) of the Fisheries Act 1996
   - **iwi** has the same meaning as in the Maori Fisheries Act 2004
   - **iwi aquaculture organisation** means an iwi aquaculture organisation recognised under section 33
   - **Minister** means the Minister of the Crown who, under the authority of any warrant or with the authority of the Prime Minister, is for the time being responsible for the administration of this Act
   - **new space** —
-    (a) means space that, after the commencement of the Maori Commercial Aquaculture Claims Settlement Amendment Act 2011, first becomes subject to a coastal permit to occupy the space for the purpose of aquaculture activities that has commenced under section 116A of the Resource Management Act 1991; and
+    (a) means space that, after the commencement of the Maori Commercial Aquaculture Claims Settlement Amendment Act 2011, first becomes subject to a coastal permit to occupy the space for the purpose of aquaculture activities that has commenced under section 324 of the Natural and Built Environment Act 2023; and
     (b) does not include—
       (i) space that is pre-commencement space as defined in section 20; or
       (ii) space in respect of which a regional council is or was required to comply with sections 44B to 44D and, if necessary, section 44E of the Aquaculture Reform (Repeals and Transitional Provisions) Act 2004; or
       (iii) any space that has been transferred to the trustee as a settlement asset before the commencement of the Maori Commercial Aquaculture Claims Settlement Amendment Act 2011
-  - **occupy** has the same meaning as in section 2(1) of the Resource Management Act 1991
-  - **public notice** has the same meaning as in section 2(1) of the Resource Management Act 1991
+  - **occupy** has the same meaning as in section 11 of the Natural and Built Environment Act 2023
+  - **public notice** has the same meaning as in section 11 of the Natural and Built Environment Act 2023
   - **recognised iwi organisation** has the same meaning as in section 5 of the Maori Fisheries Act 2004
   - **region** means the region of a regional council or the district of a unitary authority under the Local Government Act 2002
   - **regional agreement** means an agreement of a kind described in section 29A (whether entered into before, on, or after the date of commencement of the Maori Commercial Aquaculture Claims Settlement (Regional Agreements) Amendment Act 2010)
-  - **regional council** has the same meaning as in section 2(1) of the Resource Management Act 1991
+  - **regional council** has the same meaning as in section 11 of the Natural and Built Environment Act 2023
   - **relevant iwi** , in relation to an allocation of assets, means those iwi in a region who, in the trustee's opinion, are directly affected by the allocation
   - **reservation** has the same meaning as in section 186C of the Fisheries Act 1996
   - **sale** includes—
@@ -52,13 +52,13 @@ In this Act, unless the context otherwise requires,—
     (d) disposal by way of gambling (as that term is defined in section 4(1) of the Gambling Act 2003); and
     (e) the use by a person of fish, aquatic life, or seaweed as bait in that person's commercial fishing operations; and
     (f) any other use by a person of fish, aquatic life, or seaweed as part of that person's commercial activities
-  - **space** has the same meaning as in section 2(1) of the Resource Management Act 1991
+  - **space** has the same meaning as in section 11 of the Natural and Built Environment Act 2023
   - **trustee** means Te Ohu Kai Moana Trustee Limited, a company established in accordance with section 33 of the Maori Fisheries Act 2004.
 
 ### 5 Meaning of settlement assets
 (1) In this Act, unless the context otherwise requires, settlement assets—
   (a) means authorisations relating to aquaculture activities, coastal permits to occupy space for aquaculture activities, or the financial equivalent of the authorisations or the permits, transferred or paid or to be transferred or paid to the trustee under this Act or the Aquaculture Reform (Repeals and Transitional Provisions) Act 2004; and
-  (aa) includes any authorisations provided to the trustee by a regional council in accordance with an Order in Council under section 165K, or a notice in the Gazette under section 165N, of the Resource Management Act 1991, for the purpose of giving effect to the Crown's obligations under this Act; and
+  (aa) includes any authorisations provided to the trustee by a regional council in accordance with an Order in Council under section 451, or a notice in the Gazette under section 454, of the Natural and Built Environment Act 2023, for the purpose of giving effect to the Crown's obligations under this Act; and
   (ab) includes payments of money and the transfer of any other benefit to the trustee or an iwi aquaculture organisation under a regional agreement; and
   (b) includes any authorisation held by the trustee, an iwi aquaculture organisation, or a company under the Companies Act 1993 wholly owned by 1 or more iwi aquaculture organisations in the same region if—
     (i) the authorisation was transferred in exchange for an authorisation referred to in paragraph (a) or received under a previous transfer to which this paragraph applied; and
@@ -125,7 +125,7 @@ The Crown’s obligations under sections 9 to 18 apply and must be satisfied on 
     (iv) the Marlborough region:
   (b) for all other regions, whichever is the later of the following:
     (i) within 3 years after the commencement of the Maori Commercial Aquaculture Claims Settlement Amendment Act 2011; or
-    (ii) within 2 years after the receipt of the first resource consent application for the purpose of aquaculture activities after the commencement of the Maori Commercial Aquaculture Claims Settlement Amendment Act 2011 (not being an application to which section 165ZH of the Resource Management Act 1991 applies).
+    (ii) within 2 years after the receipt of the first resource consent application for the purpose of aquaculture activities after the commencement of the Maori Commercial Aquaculture Claims Settlement Amendment Act 2011 (not being an application to which section 487 of the Natural and Built Environment Act 2023 applies).
 (3) The Minister may, by notice in the Gazette, extend a period specified in subsection (2).
 (4) The Minister may not give a notice under subsection (3) unless the Minister—
   (a) has consulted the trustee and the iwi aquaculture organisations, mandated iwi organisations, or recognised iwi organisations with whom the regional agreement under section 10 is being negotiated; and
@@ -139,7 +139,7 @@ The Crown’s obligations under sections 9 to 18 apply and must be satisfied on 
 (2) The Minister—
   (a) may, by notice in the Gazette, add to or remove space from an aquaculture settlement area; and
   (b) must, if the Crown’s obligations are settled in respect of a region, remove, by notice in the Gazette, the space from an aquaculture settlement area that is not required to meet the obligations.
-(3) Section 165E of the Resource Management Act 1991 applies in respect of applications for coastal permits made in an aquaculture settlement area.
+(3) Section 444 of the Natural and Built Environment Act 2023 applies in respect of applications for coastal permits made in an aquaculture settlement area.
 (4) In determining whether an aquaculture settlement area will be representative for the purposes of meeting the Crown's obligations under section 9, the Minister must take into account—
   (a) the suitability of the space for aquaculture activities; and
   (b) the overall productive capacity of the anticipated new space available for aquaculture activities in each region.
@@ -153,7 +153,7 @@ The Crown’s obligations under sections 9 to 18 apply and must be satisfied on 
   (a) if an assessment under section 14(4)﻿(d)﻿(iv) shows a difference in value under that provision, consult the trustee about whether a payment of the difference is required; and
   (b) if the Minister decides that such a payment should be made, make the payment to the trustee.
 (5) Clause 3(1)﻿(b) of Schedule 1 does not apply to the provision of authorisations under this section.
-(6) To avoid doubt, section 165R of the Resource Management Act 1991 applies in relation to the provision of authorisations under this section.
+(6) To avoid doubt, section 458 of the Natural and Built Environment Act 2023 applies in relation to the provision of authorisations under this section.
 
 ### 14 Preparation of plan
 (1) The Minister must, by 31 December 2012, have started preparing a plan that—
@@ -175,7 +175,7 @@ The Crown’s obligations under sections 9 to 18 apply and must be satisfied on 
     (ii) the value that would be representative of each of the types of aquaculture expected to be developed in the anticipated new space in the region; and
     (iii) the overall productive capacity of the anticipated new space available for aquaculture activities in each region; and
     (iv) the difference in value between—
-      (A) the costs of obtaining, pursuant to an authorisation granted under this Act, a resource consent under the Resource Management Act 1991 that could commence under section 116A of that Act; and
+      (A) the costs of obtaining, pursuant to an authorisation granted under this Act, a resource consent under the Natural and Built Environment Act 2023 that could commence under section 324 of that Act; and
       (B) the costs of obtaining the resource consent pursuant to an authorisation had the authorisation been granted in relation to an aquaculture management area as at 1 January 2005.
 
 ### 15 Review of plan
@@ -191,17 +191,17 @@ The Crown’s obligations under sections 9 to 18 apply and must be satisfied on 
   (b) the relevant iwi aquaculture organisations, mandated iwi organisations, and recognised iwi organisations of affected iwi.
 
 ### 16A When authorisations allocated to trustee lapse
-(1) Section 165T of the Resource Management Act 1991 does not apply to settlement assets.
+(1) Section 460 of the Natural and Built Environment Act 2023 does not apply to settlement assets.
 (2) However, a settlement asset that is an authorisation does lapse if—
   (a) a resource consent application for aquaculture activities has been declined in respect of the space that is subject to the authorisation; or
-  (b) a resource consent has been cancelled under section 116A(3) or (7) of the Resource Management Act 1991.
-(3) If an authorisation that is a settlement asset is transferred and (as a result of the transfer) it ceases to be a settlement asset, the authorisation lapses 2 years after the date on which the holder gives a notice of transfer of the authorisation to the regional council under section 165S of the Resource Management Act 1991.
+  (b) a resource consent has been cancelled under section 324(3) and (7) of the Natural and Built Environment Act 2023.
+(3) If an authorisation that is a settlement asset is transferred and (as a result of the transfer) it ceases to be a settlement asset, the authorisation lapses 2 years after the date on which the holder gives a notice of transfer of the authorisation to the regional council under section 459 of the Natural and Built Environment Act 2023.
 
 ### 17 Expiry, lapsing, or cancellation of coastal permit to occupy space for aquaculture activities
 (1) This section applies if—
   (a) the trustee, iwi aquaculture organisation, or a company under the Companies Act 1993 wholly owned by 1 or more iwi aquaculture organisations in the region holds a coastal permit for space that is a settlement asset; and
   (b) the coastal permit expires, lapses, or is cancelled.
-(2) The holder of the coastal permit is to be treated as if the holder holds an authorisation allocated under section 44 of the Aquaculture Reform (Repeals and Transitional Provisions) Act 2004 in relation to the space that was subject to the coastal permit.
+(2) The holder of the coastal permit must be treated as if the holder holds an authorisation under section 13 in relation to the space that was subject to the coastal permit.
 
 ### 18 Limitations on disposal of settlement assets
 (1) The trustee must not transfer settlement assets except to—
@@ -554,7 +554,9 @@ When the trustee has determined to allocate and transfer assets in accordance wi
 (5) An approval obtained under subsection (1)﻿(b)—
   (a) has effect on and from the date on which it is given; and
   (b) expires 12 months after that date.
-(6) This section applies subject to sections 135 and 165M of the Resource Management Act 1991.
+(6) This section applies in a region—
+  (a) subject to sections 135 and 165S of the Resource Management Act 1991; or
+  (b) subject to sections 345 and 459 of the Natural and Built Environment Act 2023, if the region’s NBEA date (within the meaning of clause 1 of Schedule 1 of that Act) has occurred.
 (7) In this section,—
   - **adult** means a person who is 18 years of age or over
   - **general meeting** means an annual or special meeting of an iwi aquaculture organisation that—
