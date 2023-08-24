@@ -1,5 +1,5 @@
 # Climate Change Response Act 2002
-_Consolidation as at 2023-01-01_
+_Consolidation as at 2023-08-24_
 
 ### 1 Title
 This Act is the Climate Change Response Act 2002.
@@ -978,8 +978,9 @@ If they think fit, a person or body may, in exercising or performing a public fu
   (c) an emissions reduction plan.
 
 ### 5ZO Guidance for departments
-(1) The responsible Minister may issue guidance for departments on how to take the 2050 target or an emissions budget into account in the performance of their functions, powers, and duties (or classes of those functions, powers, and duties).
+(1) The responsible Minister may issue guidance for departments and regional planning committees on how to take the 2050 target or an emissions budget into account in the performance of their functions, powers, and duties (or classes of those functions, powers, and duties).
 (2) The responsible Minister must, as soon as practicable after issuing the guidance, make it publicly available.
+(3) In this section, regional planning committee has the same meaning as in section 11 of the Natural and Built Environment Act 2023.
 
 ### Subpart 6 — Recommendations about making regulations
 
@@ -1101,6 +1102,7 @@ The Minister must, no later than 6 months after the date on which the Minister r
   (a) the public service, as defined in section 10 of the Public Service Act 2020:
   (b) local authorities, as defined in section 5(1) of the Local Government Act 2002:
   (c) council-controlled organisations, as defined in section 6(1) of the Local Government Act 2002:
+  (ca) regional planning committees, as defined in section 11 of the Natural and Built Environment Act 2023:
   (d) Crown entities, as defined in section 7(1) of the Crown Entities Act 2004, but excluding school boards:
   (e) companies listed in Schedule 4A of the Public Finance Act 1989:
   (f) organisations listed in Schedule 1 of the State-Owned Enterprises Act 1986:
@@ -5073,7 +5075,7 @@ If an activity listed in Part 1A of Schedule 3 is carried out on P90 offsetting 
   (c) complies with subsection (1), if applicable.
 (3) To avoid doubt, if any person is registered as a participant carrying out an activity of standard forestry or permanent forestry in respect of any post-1989 forest land, no person (including that person) can be registered as a participant carrying out a different activity of standard forestry or permanent forestry in respect of that land.
 (4) A person may not be registered as a participant under section 57 in respect of an activity of standard forestry or permanent forestry in relation to post-1989 forest land unless—
-  (a) any action taken by the person in respect of the post-1989 forest land since 1 January 2008 (including, but not limited to, removal of any existing vegetation before planting of a forest species on the land) complied with the Resource Management Act 1991, including any plan under that Act, or the Forests Act 1949 that was in force at the time the action was taken; and
+  (a) any action taken by the person in respect of the post-1989 forest land since 1 January 2008 (including, but not limited to, removal of any existing vegetation before planting of a forest species on the land) complied with the Natural and Built Environment Act 2023, including any plan under that Act, or the Forests Act 1949 that was in force at the time the action was taken; and
   (b) if the post-1989 forest land is subject to a pest management plan under the Biosecurity Act 1993 that imposes requirements in respect of any forest species on the land, the person has—
     (i) complied with the requirements; or
     (ii) verified that any other person required to comply with the requirements has done so.
@@ -5088,7 +5090,7 @@ The EPA must give public notice of the criteria for assessing the risk of tree w
   (a) may be submitted for all post-1989 forest land in respect of which the applicant carries out the activity, or any part of the land in respect of which the applicant carries out the activity; and
   (b) must define the carbon accounting area or areas in respect of which the applicant wishes to be a participant; and
   (c) must be accompanied by a declaration, in the prescribed form, that—
-    (i) any action taken by the applicant since 1 January 2008 in relation to the post-1989 forest land in respect of which the application is submitted (including, but not limited to, removal of any existing vegetation before planting of a forest species on the land) complied with the Resource Management Act 1991, including any plan under that Act or the Forests Act 1949 that was in force at the time the action was taken; and
+    (i) any action taken by the applicant since 1 January 2008 in relation to the post-1989 forest land in respect of which the application is submitted (including, but not limited to, removal of any existing vegetation before planting of a forest species on the land) complied with the Natural and Built Environment Act 2023, including any plan under that Act or the Forests Act 1949 that was in force at the time the action was taken; and
     (ii) if the post-1989 forest land is subject to a pest management plan under the Biosecurity Act 1993 that imposes requirements in respect of any forest species on the land, the applicant has—
       (A) complied with the requirements; or
       (B) verified that any other person required to comply with the requirements has done so; and
