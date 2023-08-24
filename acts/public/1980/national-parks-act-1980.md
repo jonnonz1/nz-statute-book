@@ -1,5 +1,5 @@
 # National Parks Act 1980
-_Consolidation as at 2021-10-28_
+_Consolidation as at 2023-08-24_
 
 > An Act to consolidate and amend the law relating to national parks
 
@@ -164,7 +164,7 @@ This Act shall bind the Crown.
 (3)
 (4) No land subject to the Tourist and Health Resorts Control Act 1908 or the Tourist Hotel Corporation Act 1974 shall be declared to be a park or to be added to any park, except on the joint recommendation of the Minister and the Minister of Tourism.
 (5)
-(6) No foreshore shall be declared to be a park or to be added to any park, except on the joint recommendation of the Minister and the Minister of Transport, and, where the foreshore is under the control of a regional council under the Resource Management Act 1991, except with the consent of that body.
+(6) No foreshore shall be declared to be a park or to be added to any park, except on the joint recommendation of the Minister and the Minister of Transport, and, where the foreshore is under the control of a regional council under the Natural and Built Environment Act 2023, except with the consent of that body.
 
 ### 8 Investigation of proposals to add to parks or establish new parks
 (1) The Authority may, after having advised the Minister of its intention to do so, request the Director-General to investigate and report to it on any proposal that land should be declared to be a park or part of a park, or acquired for national park purposes.
