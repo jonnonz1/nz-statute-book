@@ -1,5 +1,5 @@
 # Land Drainage Act 1908
-_Consolidation as at 2021-10-28_
+_Consolidation as at 2023-08-24_
 
 > An Act to consolidate certain enactments of the General Assembly relating to the drainage of land
 
@@ -21,8 +21,8 @@ In this Act, if not inconsistent with the context,—
   - **rateable property** and mean respectively rateable property and rateable value under the Rating Powers Act 1988
   - **watercourse** includes all rivers, streams, and channels through which water flows.
 
-### 2A Relationship to Resource Management Act 1991
-Nothing in this Act shall derogate from the Resource Management Act 1991.
+### 2A Relationship with Natural and Built Environment Act 2023
+Nothing in this Act derogates from the Natural and Built Environment Act 2023.
 
 ## Part 1 — Drainage districts and boards
 
