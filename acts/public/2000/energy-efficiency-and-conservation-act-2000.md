@@ -1,5 +1,5 @@
 # Energy Efficiency and Conservation Act 2000
-_Consolidation as at 2022-09-01_
+_Consolidation as at 2023-08-24_
 
 ### 1 Title
 This Act is the Energy Efficiency and Conservation Act 2000.
@@ -12,7 +12,7 @@ In this Act, unless the context otherwise requires,—
   - **Authority** means the Energy Efficiency and Conservation Authority established by section 20
   - **energy conservation** means a reduction in energy use
   - **energy efficiency** means a change to energy use that results in an increase in net benefits per unit of energy
-  - **environment** has the meaning given to it by the Resource Management Act 1991
+  - **environment** has the meaning given to it by the Natural and Built Environment Act 2023
   - **Minister** means the Minister who, under the authority of a warrant or with the authority of the Prime Minister, is for the time being responsible for the administration of this Act
   - **publicly notify** means publishing a notice—and has a corresponding meaning
     (a) in 1 or more daily newspapers circulating in the cities of Auckland, Hamilton, Wellington, Christchurch, and Dunedin; and
@@ -69,8 +69,8 @@ The Minister must ensure that, at all times after the initial strategy referred 
   (d) means by which those policies and objectives, and any such targets, are to be achieved; and
   (e) such other matters as may be necessary to achieve the purpose of this Act.
 
-### 11 Consistency with national policy statements
-A strategy must be consistent with any national policy statement for the time being in force under the Resource Management Act 1991.
+### 11 Consistency with National Planning Framework
+A strategy must be consistent with any National Planning Framework in force under the Natural and Built Environment Act 2023.
 
 ### 12 Term of strategy
 (1) Subject to subsection (4), a strategy comes into force on the day after the date on which it is first published under section 17 and continues in force for a term of 5 years from that date.
