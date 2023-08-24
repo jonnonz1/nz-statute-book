@@ -1,5 +1,5 @@
 # Waste Minimisation Act 2008
-_Consolidation as at 2021-10-28_
+_Consolidation as at 2023-08-24_
 
 ### 1 Title
 This Act is the Waste Minimisation Act 2008.
@@ -27,7 +27,7 @@ This Act binds the Crown.
   - **disposal facility** has the meaning set out in section 7
   - **diverted material** means any thing that is no longer required for its original purpose and, but for commercial or other waste minimisation activities, would be disposed of or discarded
   - **enforcement officer** means a person appointed as an enforcement officer under section 76(1) or (2)
-  - **environment** has the same meaning as in section 2(1) of the Resource Management Act 1991
+  - **environment** has the same meaning as in section 11 of the Natural and Built Environment Act 2023
   - **financial year** means a period of 12 months ending with 30 June
   - **infringement fee** means the amount prescribed as the infringement fee for the infringement offence concerned
   - **infringement offence** means an offence prescribed as an infringement offence under section 59(a)
