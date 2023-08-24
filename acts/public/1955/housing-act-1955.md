@@ -1,5 +1,5 @@
 # Housing Act 1955
-_Consolidation as at 2021-10-28_
+_Consolidation as at 2023-08-24_
 
 ### 1 Short title
 This Act may be cited as the Housing Act 1955.
@@ -36,8 +36,8 @@ This Act may be cited as the Housing Act 1955.
 ### 3 Powers of Minister in relation to State housing
 The Minister may from time to time determine either generally or in any particular case what land or classes of land may be acquired for State housing purposes and the general scheme of development thereof, the number and classes of dwellings and ancillary commercial buildings to be constructed, and any other matters of State housing policy.
 
-### 3A Relationship to Resource Management Act 1991
-Nothing in this Part shall derogate from any of the provisions of the Resource Management Act 1991.
+### 3A Relationship to Natural and Built Environment Act 2023
+Nothing in this Part derogates from any provisions of the Natural and Built Environment Act 2023.
 
 ### 4 Crown land may be set apart for State housing purposes
 (1) The Minister of Lands may from time to time, by notice in the Gazette, set apart as State housing land any Crown land within the meaning of the Land Act 1948.
@@ -69,7 +69,7 @@ The cost of doing all or any of the following may be paid or contributed to out 
 
 ### 11 Vesting of roads, streets, etc
 (1) The Governor-General may, by Order in Council published in the Gazette, declare that any road, street, access way, or service lane, laid out or constructed under this Part within a district shall be vested in the territorial authority of the district and be under the control and management of that authority, and thereupon the road, street, access way, or service lane and the soil thereof and all materials of which it is composed shall be deemed to be vested in the authority in fee simple.
-(2) Subject to the Resource Management Act 1991, but notwithstanding anything to the contrary in the Public Works Act 1981 or the Local Government Act 1974, it shall be lawful for any local authority to consent under section 29 of the Public Works Amendment Act 1948 to the proclaiming of any land as a road or street of a width less than 12 metres if the land is State housing land or if the road or street is required to provide access to any State housing land or land subject to an agreement for sale or licence to occupy under section 16 or section 17 of this Act.
+(2) Subject to the Natural and Built Environment Act 2023, but notwithstanding anything to the contrary in the Public Works Act 1981 or the Local Government Act 1974, it shall be lawful for any local authority to consent under section 29 of the Public Works Amendment Act 1948 to the proclaiming of any land as a road or street of a width less than 12 metres if the land is State housing land or if the road or street is required to provide access to any State housing land or land subject to an agreement for sale or licence to occupy under section 16 or section 17 of this Act.
 
 ### 12 Building line restrictions
 [Repealed]
