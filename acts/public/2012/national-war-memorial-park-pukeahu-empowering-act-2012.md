@@ -1,5 +1,5 @@
 # National War Memorial Park (Pukeahu) Empowering Act 2012
-_Consolidation as at 2015-08-01_
+_Consolidation as at 2023-08-24_
 
 ### 1 Title
 This Act is the National War Memorial Park (Pukeahu) Empowering Act 2012.
@@ -36,17 +36,17 @@ In this Act, unless the context otherwise requires,—
   - **certification** means the process by which statutory authorisations are certified under—
     (a) sections 20 to 22, in relation to statutory authorisations granted to the Agency:
     (b) section 24, in relation to statutory authorisations granted to the chief executive of the Ministry
-  - **consent authority** has the meaning given in section 2(1) of the Resource Management Act 1991
-  - **designation** has the meaning given in section 166 of the Resource Management Act 1991
-  - **discharge permit** has the meaning given in section 87(e) of the Resource Management Act 1991
+  - **consent authority** has the meaning given in section 11 of the Natural and Built Environment Act 2023
+  - **designation** has the meaning given in section 11 of the Natural and Built Environment Act 2023
+  - **discharge permit** has the meaning given in section 11 of the Natural and Built Environment Act 2023
   - **district plan** —
-    (a) means the Wellington City District Plan as approved by the Wellington City Council under Schedule 1 of the Resource Management Act 1991; and
+    (a) means the plan for the Wellington Region as approved under Schedule 6 of the Natural and Built Environment Act 2023; and
     (b) includes all operative changes to that plan; and
     (c) includes a proposed plan, to the extent that—
-      (i) it has legal effect under section 86B of the Resource Management Act 1991; or
-      (ii) must be treated as operative under section 86F of that Act; and
-    (d) includes any changes to the district plan notified before 1 October 2009
-  - **land use consent** has the meaning given in section 87(a) of the Resource Management Act 1991
+      (i) it has legal effect under section 198 of the Natural and Built Environment Act 2023; or
+      (ii) it must be treated as operative under section 202 of that Act; and
+    (d) includes any changes to the former district plan notified before 1 October 2009
+  - **land use consent** has the meaning given in section 220 of the Natural and Built Environment Act 2023
   - **local authority** has the meaning given in section 5(1) of the Local Government Act 2002
   - **Minister** means the Minister for Arts, Culture and Heritage
   - **Ministry** means the Ministry for Culture and Heritage
@@ -55,8 +55,8 @@ In this Act, unless the context otherwise requires,—
     (b) include the land above the area indicated in figure 2 of Schedule 9 by the red hatched area and labelled as the cut and cover underpass envelope with Park over; but
     (c) do not include the roading network
   - **Park land** has the meaning given in section 5
-  - **requiring authority** has the meaning given in section 166 of the Resource Management Act 1991
-  - **resource consent** has the meaning given in section 2(1) of the Resource Management Act 1991
+  - **requiring authority** has the meaning given in section 11 of the Natural and Built Environment Act 2023
+  - **resource consent** has the meaning given in section 11 of the Natural and Built Environment Act 2023
   - **roading network** means the roading network that is reconstructed or otherwise altered under the designation provided by section 9
   - **statutory authorisations** —
     (a) means the following:
@@ -68,7 +68,7 @@ In this Act, unless the context otherwise requires,—
       (vi) the property rights granted by section 18; and
     (b) includes any amendments to a statutory authorisation described in paragraph (a) or amendments to a statutory authorisation or other permission or right granted by Order in Council made under section 25
   - **territorial authority** has the meaning given in section 5(1) of the Local Government Act 2002
-  - **water permit** has the meaning given in section 87(d) of the Resource Management Act 1991.
+  - **water permit** has the meaning given in section 220 of the Natural and Built Environment Act 2023.
 
 ### 5 Meaning of Park land
 In this Act, Park land means all of the following land in the Wellington Land Registration District, to the extent that the land is within the boundaries of the land indicated in figure 2 of Schedule 9 by the blue dashed line:
@@ -148,7 +148,7 @@ This Act binds the Crown.
   (b) has the same force and effect as if it were included in the district plan or any proposed district plan under section 175(2) of the Resource Management Act 1991.
 (2) The conditions applying to the designation are specified in Part 2 of Schedule 3.
 (3) The land to which the designation applies is shown in figure 1 of Schedule 9.
-(4) The provisions of the Resource Management Act 1991 apply to the designation provided for by this section (other than as excluded by subsection (5)).
+(4) The provisions of the Natural and Built Environment Act 2023 apply to the designation provided for by this section.
 (5) The following provisions of the Resource Management Act 1991 do not apply in relation to the designation provided by this section:
   (a) section 174 (which provides for appeal rights):
   (b) section 176(1)﻿(b) (which prohibits certain actions from being carried out to or on land that is subject to a designation without the consent of the requiring authority), but only in respect of the construction, operation, and maintenance of the Park:
@@ -614,13 +614,13 @@ An Order in Council made under section 25 cannot be disallowed under the Regulat
 | 7.30 am through to 6:00 pm | 75 |  |  |  |  |  |  |
 | 6:00 pm through to 11:00 pm | 80 |  |  |  |  |  |  |
 | 11:00 pm through to 6:00 am |  |  |  |  |  | District Plan construction noise limits |  |
-|  |  | dinclude specific details relating to methods for the control of vibration associated with all relevant Project construction works, which shall be formulated to, as far as practicable, comply with the Category A criteria in the following table when measured in accordance with ISO 4866:2010 and AS 2187-2:2006:ReceiverDetailsCategory ACategory BOccupied dwellingsNight-time 2000h–0630h0.3 mm/s ppv1 mm/s ppvDaytime 0630h–2000h1 mm/s ppv5 mm/s ppvOther occupied buildingsDaytime 0630h–2000h2 mm/s ppv10 mm/s ppvAll buildingsVibration—transient5 mm/s ppvBS 5228–2*1Table B.2Vibration—continuousBS 5228–2*150% of Table B.2 values*1BS 5228–2–2009 “Code of practice for noise and vibration control on construction and open sites—Part 2: Vibration”. |  |  |  |  |  |
+|  |  | dinclude specific details relating to methods for the control of vibration associated with all relevant Project construction works, which shall be formulated to, as far as practicable, comply with the Category A criteria in the following table when measured in accordance with ISO 4866:2010 and AS 2187-2:2006:ReceiverDetailsCategory ACategory BOccupied dwellingsNight-time 2000h–0630h0.3 mm/s ppv1 mm/s ppvDaytime 0630h–2000h1 mm/s ppv5 mm/s ppvOther occupied buildingsDaytime 0630h–2000h2 mm/s ppv10 mm/s ppvAll buildingsVibration—transient5 mm/s ppvBS 5228–2*1Table B﻿.﻿2Vibration—continuousBS 5228–2*150% of Table B﻿.﻿2 values*1BS 5228–2–2009 “Code of practice for noise and vibration control on construction and open sites—Part 2: Vibration”. |  |  |  |  |  |
 | Receiver |  | Details | Category A | Category B |  |  |  |
 | Occupied dwellings |  | Night-time 2000h–0630h | 0.3 mm/s ppv | 1 mm/s ppv |  |  |  |
 |  |  | Daytime 0630h–2000h | 1 mm/s ppv | 5 mm/s ppv |  |  |  |
 | Other occupied buildings |  | Daytime 0630h–2000h | 2 mm/s ppv | 10 mm/s ppv |  |  |  |
-| All buildings |  | Vibration—transient | 5 mm/s ppv | BS 5228–2*1Table B.2 |  |  |  |
-|  |  | Vibration—continuous | BS 5228–2*150% of Table B.2 values |  |  |  |  |
+| All buildings |  | Vibration—transient | 5 mm/s ppv | BS 5228–2*1Table B﻿.﻿2 |  |  |  |
+|  |  | Vibration—continuous | BS 5228–2*150% of Table B﻿.﻿2 values |  |  |  |  |
 | *1 | BS 5228–2–2009 “Code of practice for noise and vibration control on construction and open sites—Part 2: Vibration”. |  |  |  |  |  |  |
 |  |  | edescribe the measures to be adopted in relation to managing construction vibration including—iidentification of vibration sources, including machinery, equipment and construction techniques to be used; andiiprocedures for building condition surveys at locations close to activities generating significant vibration, prior to and after completion of the works (including all buildings predicted to experience vibration which exceeds the Category A vibration criteria); andiiiprocedures for management of vibration, if measured or predicted vibration levels exceed the Category A criteria; andivprocedures for monitoring of vibration levels and effects by suitably qualified experts if measured or predicted vibration levels exceed the Category B criteria; andvthe measures that will be undertaken by the Agency to communicate vibration management measures to affected stakeholders. |  |  |  |  |  |
 
@@ -646,7 +646,7 @@ An Order in Council made under section 25 cannot be disallowed under the Regulat
 | NZTA 32 | The Agency shall prepare a Local Roads Traffic Improvements Plan (LRTIP) and the works identified within that Plan shall be undertaken prior to the opening of the undergrounded section of Buckle Street to traffic unless otherwise agreed with the Manager and the Roading Asset Manager. |
 | NZTA 33 | The LRTIP will—acontain plans showing—iany proposed improvements to the Tory Street and Tasman Street intersection; andiiany proposed improvements to the Tasman Street and Rugby Street intersection; andiiiany proposed work on Tory or Tasman Street designed to mitigate any traffic effects of the Project on residents and businesses located on those roads and/or on, pedestrians and cyclists who use those roads; andivprovision of appropriate signage and information to motorists and road users as a result of restrictions in access arising as a result of the Project; andvprovision of a signal control plan (SCATS set up) that ensures effective management of SH1 traffic and local road movement north/southbound on Taranaki Street; andbcontain plans showing the local road and pedestrian/cycle configuration across the Memorial Park and into existing pedestrian/cycle paths and access to Massey University and the site of the former Mt Cook Police Barracks; andcprovide a staging programme for the delivery of any works identified on the plans provided under condition NZTA 33(a); anddprovide details of the road design and safety standards that will be met by any works identified on plans provided under condition NZTA 33(a); andeprovide information on predicted levels of traffic flows across the local road network and on predicted performance once the improvements are introduced. |
 | NZTA 34 | The LRTIP shall be prepared in consultation with—athe Road Asset Manager of the Wellington City Council (or his or her nominee(s)); andbrepresentatives of the following:iemergency services (Police, fire, and ambulance); andiithe owners of the former Mt Cook Police Barracks, 13 Buckle Street; andiiischools, childcare centres, and any other educational activities with frontage or access to roads that will be affected by works associated with the Project.Any comments and inputs received shall be clearly documented within the LRTIP, along with a clear explanation of where any comments and inputs have not been incorporated and the reasons why. |
-| NZTA 35 | The Agency shall not commence any works identified on the plans provided under condition NZTA.33(a), until a qualified traffic engineer has certified that the LRTIP works identified on those plans will comply with the road design and safety standards identified under condition NZTA 33(d). |
+| NZTA 35 | The Agency shall not commence any works identified on the plans provided under condition NZTA﻿.﻿33(a), until a qualified traffic engineer has certified that the LRTIP works identified on those plans will comply with the road design and safety standards identified under condition NZTA 33(d). |
 
 | Conditionno | Condition—Existing network utilities |
 | --- | --- |
