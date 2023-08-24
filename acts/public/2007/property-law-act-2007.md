@@ -1,5 +1,5 @@
 # Property Law Act 2007
-_Consolidation as at 2023-04-20_
+_Consolidation as at 2023-08-24_
 
 ### 1 Title
 This Act is the Property Law Act 2007.
@@ -3290,7 +3290,7 @@ In this subpart,—
 (3) An order under subsection (1) may be made on any conditions the court thinks fit concerning—
   (a) the execution of any instrument; or
   (b) the doing of any other thing necessary to give effect to the order.
-(4) Part 10 of the Resource Management Act 1991 does not apply to a transfer or other disposition of land giving effect to an order of the court under subsection (1).
+(4) Part 10 of the Natural and Built Environment Act 2023 does not apply to a transfer or other disposition of land giving effect to an order of the court under subsection (1).
 (5) Section 348 of the Local Government Act 1974 does not apply to any easement granted in an order of the court under subsection (1).
 (6) An order under subsection (1) may be registered as an instrument under, as the case requires,—
   (a) the Land Transfer Act 2017; or
@@ -3302,7 +3302,7 @@ In this subpart,—
 ### 326 Interpretation
 In this subpart,—
   - **landlocked land** means a piece of land to which there is no reasonable access
-  - **reasonable access** , in relation to land, means physical access for persons or services of a nature and quality that is reasonably necessary to enable the owner or occupier of the land to use and enjoy the land for any purpose for which it may be used in accordance with any right, permission, authority, consent, approval, or dispensation enjoyed or granted under the Resource Management Act 1991.
+  - **reasonable access** , in relation to land, means physical access for persons or services of a nature and quality that is reasonably necessary to enable the owner or occupier of the land to use and enjoy the land for any purpose for which it may be used in accordance with any right, permission, authority, consent, approval, or dispensation enjoyed or granted under the Natural and Built Environment Act 2023.
 
 ### 327 Owner or occupier of landlocked land may apply to court
 (1) An owner or occupier of landlocked land may apply to a court for an order under section 328(1) granting reasonable access to any such land.
@@ -3352,7 +3352,7 @@ In determining an application for an order under section 328, the court must hav
     (i) declare any land that is to be vested in any person to be free of any mortgage or other encumbrance; or
     (ii) vary, to the extent that the court considers necessary, any mortgage, lease, or contract relating to that land:
   (b) declare that any land that is to be vested in any person is to become subject to the terms, conditions, liabilities, and encumbrances on and subject to which the owner of the landlocked land holds that land, and accordingly that every instrument affecting the owner’s rights and obligations in respect of the landlocked land is to apply to the vested land as if that land had been expressly referred to in that instrument.
-(3) Part 10 of the Resource Management Act 1991 does not apply to a transfer, exchange, or other disposition of land giving effect to an order of the court under section 328.
+(3) Part 10 of the Natural and Built Environment Act 2023 does not apply to a transfer, exchange, or other disposition of land giving effect to an order of the court under section 328.
 (4) Section 348 of the Local Government Act 1974 does not apply to any easement granted in an order of the court under section 328.
 (5) An order made under section 328 may be registered as an instrument under, as the case requires,—
   (a) the Land Transfer Act 2017; or
@@ -3381,7 +3381,7 @@ This subpart applies to—
   (a) constitutes a legal nuisance; and
   (b) could be the subject of a proceeding otherwise than under this section.
 (3) Subsection (4) applies if—
-  (a) the applicant’s land may be used for residential purposes under rules in the relevant proposed or operative district plan; and
+  (a) the applicant’s land may be used for residential purposes under rules in the relevant proposed or operative plan under the Natural and Built Environment Act 2023; and
   (b) the application is made in relation to the use or enjoyment of the land for those purposes; but
   (c) no building intended for residential purposes has been erected on the land.
 (4) The court may not make an order under subsection (1) unless satisfied that the building will be erected on the land within a reasonable time and, if the court makes the order,—
@@ -3397,11 +3397,11 @@ This subpart applies to—
   (a) the order is fair and reasonable; and
   (b) the order is necessary to remove, prevent, or prevent the recurrence of—
     (i) an actual or potential risk to the applicant’s life or health or property, or the life or health or property of any other person lawfully on the applicant’s land; or
-    (ii) an undue obstruction of a view that would otherwise be enjoyed from the applicant’s land, if that land may be used for residential purposes under rules in a relevant proposed or operative district plan, or from any building erected on that land and used for residential purposes; or
+    (ii) an undue obstruction of a view that would otherwise be enjoyed from the applicant’s land, if that land may be used for residential purposes under rules in a relevant proposed or operative plan under the Natural and Built Environment Act 2023, or from any building erected on that land and used for residential purposes; or
     (iii) an undue interference with the use of the applicant’s land for the purpose of growing any trees or crops; or
     (iv) an undue interference with the use or enjoyment of the applicant’s land by reason of the fall of leaves, flowers, fruit, or branches, or shade or interference with access to light; or
     (v) an undue interference with any drain or gutter on the applicant’s land, by reason of its obstruction by fallen leaves, flowers, fruit, or branches, or by the root system of a tree; or
-    (vi) any other undue interference with the reasonable use or enjoyment of the applicant’s land for any purpose for which it may be used under rules in the relevant proposed or operative district plan; and
+    (vi) any other undue interference with the reasonable use or enjoyment of the applicant’s land for any purpose for which it may be used under rules in the relevant proposed or operative plan under the Natural and Built Environment Act 2023; and
   (c) a refusal to make the order would cause hardship to the applicant or to any other person lawfully on the applicant’s land that is greater than the hardship that would be caused to the defendant or any other person by the making of the order.
 (2) In determining whether to make an order under section 333, the court must—
   (a) have regard to all the relevant circumstances (including Māori cultural values and, if required, the matters specified in section 336); and
@@ -3415,7 +3415,7 @@ This subpart applies to—
   (c) the value of the tree as a public amenity:
   (d) any historical, cultural, or scientific significance of the tree:
   (e) any likely effect of the removal or trimming of the tree on ground stability, the water table, or run-off.
-(2) Except for a purpose referred to in section 335(1)﻿(b)﻿(i), the court may not make an order under section 333 relating to any tree that is the subject of a requirement lawfully made by a heritage protection authority under the provisions of Part 8 of the Resource Management Act 1991.
+(2) Except for a purpose referred to in section 335(1)﻿(b)﻿(i), the court may not make an order under section 333 relating to any tree that is the subject of a requirement lawfully made by a heritage protection authority under the provisions of Part 9 of the Natural and Built Environment Act 2023.
 
 ### 337 Court may impose conditions in making order under section 333
 (1) In making an order under section 333, the court may impose any conditions it thinks fit, including conditions for either or both of the following:
@@ -3465,7 +3465,7 @@ This subpart applies to—
   (c) the Crown Minerals Act 1991.
 
 ### 340 Order under section 339(1)﻿(b) subject to restrictions on subdivision of land
-(1) No order under section 339(1)﻿(b) (and no related order under section 339(4)) may subdivide land contrary to section 11 or Part 10 of the Resource Management Act 1991.
+(1) No order under section 339(1)﻿(b) (and no related order under section 339(4)) may subdivide land contrary to section 22 or Part 10 of the Natural and Built Environment Act 2023.
 (2) A court that concludes that an order under section 339(1)﻿(b) (or a related order under section 339(4)) would contravene subsection (1) may make an order of that kind that does not contravene that subsection, or may instead make an order under section 339(1)﻿(a) or (c) (and any related order under section 339(4)).
 
 ### 341 Application for order under section 339(1)
@@ -3861,7 +3861,7 @@ The following provisions are repealed on the date on which the Epidemic Prepared
 The mortgagor will—
   (a) pay all rates, taxes, and charges for the mortgaged land as and when they become due; and
   (b) perform all duties and obligations imposed on the owner or occupier of the mortgaged land concerning the land, including (without limitation) all obligations binding on the owner or occupier of the land under—
-    (i) the Resource Management Act 1991 or any consent given, or any notice, order, or requirement made, under that Act or under the rules of any regional or district plan; and
+    (i) the Natural and Built Environment Act 2023 or any consent given, or any notice, order, or requirement made, under that Act or under the rules of any regional or district plan; and
     (ii) the Building Act 2004 or any building consent given under that Act; and
   (c) comply with all notices and demands relating to the mortgaged land made under the provisions of any other enactment, ordinance, or bylaw.
 
@@ -3940,7 +3940,7 @@ If the mortgagor fails to pay any amounts secured by the mortgage on the due dat
 ### 14 Power to subdivide
 (1) For the purpose of exercising the power conferred by clause 13 to sell the whole or any part of the mortgaged land, the mortgagee (without the need to enter into possession of the land as mortgagee) or any receiver appointed by the mortgagee under the mortgage may subdivide the land.
 (2) The power to subdivide conferred by subclause (1) includes the following powers:
-  (a) to apply for and obtain all necessary consents under the Resource Management Act 1991:
+  (a) to apply for and obtain all necessary consents under the Natural and Built Environment Act 2023:
   (b) to comply with all reasonable and proper conditions of consent, including (without limitation)—
     (i) the payment of any financial contributions:
     (ii) the vesting of reserves:
