@@ -1,5 +1,5 @@
 # Appropriation (2022/23 Estimates) Act 2022
-_Consolidation as at 2022-09-21_
+_Consolidation as at 2023-08-25_
 
 ### 1 Title
 This Act is the Appropriation (2022/23 Estimates) Act 2022.
