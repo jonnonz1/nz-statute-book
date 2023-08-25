@@ -1,5 +1,5 @@
 # Appropriation (2021/22 Confirmation and Validation) Act 2023
-_Consolidation as at 2023-05-17_
+_Consolidation as at 2023-08-25_
 
 ### 1 Title
 This Act is the Appropriation (2021/22 Confirmation and Validation) Act 2023.
