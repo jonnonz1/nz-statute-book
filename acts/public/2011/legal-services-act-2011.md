@@ -1,5 +1,5 @@
 # Legal Services Act 2011
-_Consolidation as at 2023-08-24_
+_Consolidation as at 2023-08-31_
 
 ### 1 Title
 This Act is the Legal Services Act 2011.
@@ -102,7 +102,6 @@ The purpose of this Act is to promote access to justice by establishing a system
     (h) in respect of a proceeding that is specified in section 7(1)﻿(j) to (n) and that involves, or is connected with, the recognition of a person as a refugee or protected person
   - **specified legal services** means legal services specified by the Secretary under section 68(2)﻿(b)
   - **Tribunal** means the Legal Aid Tribunal established under section 62
-  - **user charge** means the amount that aided persons are required to pay by section 18A
   - **victim** —
     (a) means—
       (i) a person against whom an offence is committed by another person; and
@@ -364,16 +363,7 @@ If the Commissioner has declined an application for legal aid under this Act, th
   (e)
 
 ### 18A User charge payable by aided person
-(1) Every grant of legal aid for a civil matter, other than a grant to which subsection (4) applies, is subject to the condition that the aided person pay a user charge of the prescribed amount to the lead provider.
-(2) The condition relating to the user charge is satisfied once the user charge is paid and no further user charges are payable in respect of the grant to which the condition attaches.
-(3) The lead provider is authorised to receive the user charge from, or on behalf of, the aided person and may—
-  (a) decline to provide any services under the grant of legal aid until the user charge under subsection (1) is paid; or
-  (b) if the user charge has not been paid but any services of that kind have been provided, recover the user charge from the aided person.
-(4) This section does not apply to—
-  (a) a grant of legal aid made on a specified application; or
-  (b) an application for legal aid by a person of a class specified in regulations as exempted from the application of this section; or
-  (c) an application for legal aid in respect of a proceeding of a class specified in regulations as exempted from the application of this section.
-(5) A grant of legal aid is also within subsection (4) if it is made on an application for matters referred to in that subsection as well as for other matters.
+[Repealed]
 
 ### 19 Special provisions about conditions on grants to persons involved in proceedings under Family Violence Act 2018
 (1) In this section, person A means a person who is a party to proceedings (which includes appeals) that in any way relate to, or arise out of, an application by or on behalf of, or a grant in favour of, the person for a protection order under Part 4, or an order relating to property under Part 5, of the Family Violence Act 2018.
@@ -532,7 +522,7 @@ In relation to a criminal matter, the Commissioner may at any time—
 At any time, the total amount payable to the Commissioner by an aided person in respect of a grant is—
   (a) the amount of interim repayments outstanding (if any); and
   (b) if the proceedings have concluded, the amount of repayment payable (if any), determined in accordance with section 21; and
-  (c) any interest payable under section 40 in accordance with regulations; and
+  (c)
   (d) the amount of any expense reasonably incurred by the Commissioner for the purpose of enforcing or securing a debt payable to the Commissioner by the aided person, but only if the expense is of a kind specified by the regulations for the purposes of this paragraph.
 
 ### 34 Amounts payable in respect of grant are debts due to Commissioner
@@ -597,15 +587,7 @@ At any time, the total amount payable to the Commissioner by an aided person in 
 (2) A transfer or act done with the intention, or having the effect, of defeating a charge referred to in subsection (1) is void as against the Commissioner, except where the transfer or act is to or in favour of a purchaser in good faith for value who, at the time of the transfer or act, had no notice of the charge.
 
 ### 40 Interest on unpaid legal aid debt
-(1) Subsection (2) applies to any amount that is payable in respect of a grant of legal aid made on or after the commencement of this section (as substituted by section 13 of the Legal Services Amendment Act 2013).
-(2) An aided person must pay the Commissioner interest, calculated in accordance with, and at the rate or rates prescribed by, the regulations on any debt that is owed, during any period specified in the regulations, by the aided person to the Commissioner in respect of a grant of legal aid.
-(3) Subsection (4) applies to a debt (a prior debt) that is owed by an aided person to the Commissioner in respect of a grant of legal aid made before the commencement of this section (as substituted by the Legal Services Amendment Act 2013).
-(4) The Commissioner may, by written notice, require the aided person to pay interest in respect of the prior debt (whether or not the person is in default), and then, as from the date stated in the notice for the purpose, subsection (2) applies to the person and to the prior debt.
-(5) Despite subsection (2), interest is not payable—
-  (a) on any interim repayment; or
-  (b) unless the regulations otherwise provide, on any interest.
-(6) The interest must be calculated and paid in accordance with the regulations.
-(7) Subsection (4) does not affect any subsisting requirement under section 40(1) (as in force before the commencement of section 13 of the Legal Services Amendment Act 2013).
+[Repealed]
 
 ### 41 Aided person to enforce judgment or out-of-court settlement
 (1) An aided person must take all steps necessary to enforce a judgment or out-of-court settlement in order to recover the proceeds of proceedings.
@@ -720,7 +702,7 @@ The provisions of section 115 apply to a deduction notice given to a third party
   (c) a serious illness suffered by the aided person or the aided person's dependant.
 
 ### 43 Commissioner may write off amounts payable
-(1) The Commissioner may write off all or any part of any repayment, interim repayment, interest, or any other debt payable to the Commissioner by an aided person in any of the following circumstances:
+(1) The Commissioner may write off all or any part of any repayment, interim repayment, or any other debt payable to the Commissioner by an aided person in any of the following circumstances:
   (a) the enforcement of the debt would, in the opinion of the Commissioner, cause serious hardship to the aided person:
   (b) the cost to the Commissioner of enforcing the debt is likely to exceed the amount of the debt that is likely to be repaid:
   (c) the Commissioner considers that it would be just and equitable to write off the debt.
@@ -734,7 +716,7 @@ The provisions of section 115 apply to a deduction notice given to a third party
 (1) The Commissioner must refund any amount paid by an aided person to the Commissioner that is—
   (a) more than the aided person is or was required to pay; or
   (b) more than the cost of services.
-(2) In assessing the cost of services for the purposes of subsection (1)﻿(b), any interest paid under section 40 must be disregarded.
+(2)
 
 ### Subpart 5 — Award of costs in civil proceedings
 
@@ -1264,7 +1246,7 @@ The Commissioner may examine a claim or part of a claim by a provider of legal a
 ### 97 Lead provider to claim for payment
 (1) Claims for payment in respect of legal aid services or specified legal services provided must be made by the lead provider to the Secretary in the prescribed manner and within the time frame referred to in section 98.
 (2) A claim for payment must show—
-  (a) the fees claimed by, or the charges attributable to, the lead provider, less the user charge required to be paid by the aided person; and
+  (a) the fees claimed by, or the charges attributable to, the lead provider; and
   (b) the fees claimed by, or the charges attributable to, any other provider who acted on the matter; and
   (c) the disbursements claimed by the lead provider and any other provider who acted on the matter.
 
@@ -1286,7 +1268,7 @@ The Commissioner may examine a claim or part of a claim by a provider of legal a
   (b) where a claim or part of a claim is for, or is determined by the Commissioner to be for, work of a kind for which a fee is prescribed by regulations pursuant to section 114(1)﻿(ca) or authorised pursuant to section 114(1)﻿(cc), so much of that claim as exceeds the fee so prescribed or authorised; and
   (c) any claim to the extent to which it is for a disbursement of a type not approved for payment by the Commissioner; and
   (d) any claim or any part of a claim that has been determined to be excessive or inaccurate by an examination under subsection (2); and
-  (e) if the user charge has not been paid by the aided person, an amount of the claim that is the equivalent of that charge.
+  (e)
 (5) The Commissioner may decline any claim that was not made in accordance with the time frame referred to in section 98.
 
 ### 100 Secretary must pay approved claims
@@ -1424,7 +1406,7 @@ Every provider or former provider commits an offence and is liable on conviction
     (i) prescribing maximum levels of income and disposable capital:
     (ii) prescribing a method of assessing financial means:
   (e) prescribing allowances for use in calculating a person's disposable capital:
-  (ea) prescribing the amount of the user charge, including different amounts for user charges relating to different classes of proceeding:
+  (ea)
   (f) prescribing deductions that may be made from the cost of services for the purpose of determining the repayment payable by an aided person under a grant of legal aid:
   (g) prescribing the manner in which applications for, and grants of, legal aid in respect of minors, and other people with special requirements, are to be dealt with:
   (h) making provision, in respect of the calculation of the income, disposable capital, or capital of an applicant for legal aid, for all or any of the following:
@@ -1436,13 +1418,13 @@ Every provider or former provider commits an offence and is liable on conviction
   (i) prescribing matters relating to the way in which the Commissioner administers charges, including prescribing maximum rates of interest that may be charged:
   (ia) specifying kinds of expenses or payments for the purposes of section 33(d):
   (j) prescribing amounts or methods for calculating the cost of services:
-  (k) prescribing the way or ways in which the interest under section 40 is to be calculated and, in particular and without limitation, the rate or rates of interest, the periods during which interest accrues, and the circumstances in which, and the intervals at which, interest is compounded:
+  (k)
   (l) increasing, or prescribing a method for increasing, the maximum amount of income or disposable capital for the purposes of determining a person's eligibility for legal aid:
   (m) adjusting, or prescribing a method for adjusting, the maximum amount of repayments for the purposes of section 20:
   (n) prescribing the information that must be contained in a report of the Waitangi Tribunal under section 49:
   (o) exempting, in accordance with subsection (8), any specified class or classes of person or proceeding from the application of—
     (i) section 10(2) and (4)﻿(a) and (b):
-    (ii) section 18 or 18A:
+    (ii) section 18:
   (p) in relation to an approval to provide legal aid services or specified legal services,—
     (i) prescribing the criteria that must be met by a person applying for approval:
     (ii) prescribing the conditions that the Secretary may impose on an approval:
@@ -1458,7 +1440,7 @@ Every provider or former provider commits an offence and is liable on conviction
   (w) prescribing the time frame or time frames in which claims for payment for legal aid services or specified legal services may be made, and different time frames may be prescribed for different classes, stages, or levels of complexity of services provided:
   (x) providing for any other matters contemplated by this Act, necessary for its administration, or necessary for giving it full effect.
 Regulations prescribing amounts
-(2) When prescribing amounts, or methods of calculating amounts, including the calculation of interest, regulations made under this section may—
+(2) When prescribing amounts, or methods of calculating amounts, regulations made under this section may—
   (a) distinguish between applicants for legal aid on any grounds, for example, the type of proceedings to which the application relates, or the level of income or disposable capital of the applicant; or
   (b) distinguish between aided persons on any grounds, for example, the type of proceedings to which the grant relates, or the level of income, disposable capital, or capital of the aided person.
 Regulations prescribing costs of services
@@ -1711,6 +1693,34 @@ In this Part,—
 
 ### 2 Legal aid may be granted for pending proceedings
 Legal aid may be granted under section 7 in respect of pending proceedings even though before the repeal of section 7(3A), (3B), and (6) on 1 July 2020 (by section 9 of the 2020 Act) legal aid could not have been granted in respect of those proceedings.
+
+### Part 2 — Provisions relating to Legal Services Amendment Act 2023
+
+### 3 Interpretation
+In this Part,—
+  - **2023 Act** means the Legal Services Amendment Act 2023
+  - **commencement date** means the date on which the 2023 Act comes into force
+  - **legal aid debt** means a debt owed to the Commissioner in respect of a grant of legal aid.
+
+### 4 User charge
+(1) This clause applies in respect of a grant of legal aid for a civil matter that immediately before the commencement date was subject to the condition in section 18A(1) (that the aided person pay a user charge of the prescribed amount to the lead provider).
+(2) On and after the commencement date,—
+  (a) the grant of legal aid continues to be subject to the condition as if section 18A(1) had not been repealed by the 2023 Act; and
+  (b) the following provisions, as in force immediately before the commencement date, continue to apply as if the 2023 Act had not been enacted:
+    (i) section 18A(2) and (3):
+    (ii) section 97(2)﻿(a):
+    (iii) section 99(4)﻿(e):
+    (iv) regulation 9A of the Legal Services Regulations 2011.
+
+### 5 Interest on unpaid legal aid debt
+(1) This clause applies in respect of any interest on a legal aid debt that immediately before the commencement date was payable by an aided person to the Commissioner under section 40.
+(2) On and after the commencement date,—
+  (a) the interest continues to be payable by the aided person as if section 40 had not been repealed by the 2023 Act; and
+  (b) the following provisions, as in force immediately before the commencement date, continue to apply as if the 2023 Act had not been enacted:
+    (i) section 33(c):
+    (ii) section 43(1):
+    (iii) section 44(2):
+    (iv) regulations 14 and 14A of the Legal Services Regulations 2011.
 
 ## Schedule 1 — Definition of income and disposable capital
 
