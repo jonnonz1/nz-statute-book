@@ -1,5 +1,5 @@
 # Water Services Act 2021
-_Consolidation as at 2023-08-24_
+_Consolidation as at 2023-08-31_
 
 ### 1 Title
 This Act is the Water Services Act 2021.
@@ -25,6 +25,7 @@ This Act is the Water Services Act 2021.
 (2) This Act has the following additional purposes:
   (a) to establish a framework to provide transparency about the performance of drinking water, wastewater, and stormwater networks and network operators; and
   (b) to provide mechanisms that build and maintain capability among drinking water suppliers and across the wider water services sector; and
+  (ba) to ensure that a quantity of drinking water sufficient to support the ordinary drinking water and sanitary needs of consumers is provided to each point of supply; and
   (c) to establish a framework for the continuous and progressive improvement of the quality of water services in New Zealand.
 
 ### 4 Overview of this Act
@@ -322,7 +323,7 @@ A drinking water supplier must take all reasonably practicable steps to supply d
 ### 25 Duty to provide sufficient quantity of drinking water
 (1) A drinking water supplier (other than a water carrier) must ensure that a sufficient quantity of drinking water is provided to each point of supply to which that supplier supplies drinking water.
 (2) In this Act, sufficient quantity, in relation to the drinking water supplied to a point of supply, means—
-  (a) the quantity of drinking water that is sufficient to support the ordinary drinking water needs of consumers at the point of supply; or
+  (a) the quantity of drinking water that is sufficient to support the ordinary drinking water and sanitary needs of consumers at the point of supply; or
   (b) if compliance rules have been made prescribing the quantity of drinking water or a formula for determining the quantity of drinking water that is sufficient to support the ordinary drinking water needs of consumers at a point of supply, the amount specified in, or calculated according to the formula set out in, those rules.
 (3) Subsection (1) does not prevent a drinking water supplier restricting or interrupting the provision of drinking water to a point of supply if, in the opinion of the supplier, the action is necessary because of—ExamplesA drinking water supplier may need to restrict or interrupt the supply of drinking water where infrastructure such as a pipeline or treatment plant is damaged.A drinking water supplier may need to restrict or interrupt supply of drinking water where contamination of the supply occurs and public health is at risk.A drinking water supplier may need to restrict or interrupt supply of drinking water where a drought occurs and the source of the drinking water supply can no longer support continuous supply to consumers.A drinking water supplier may need to restrict or interrupt supply of drinking water in case of a fire emergency.A drinking water supplier may need to restrict or interrupt supply of drinking water where a person has drowned and a rāhui is placed over the source of a drinking water supply.
   (a) maintenance, improvement, or repairs to the drinking water supply or related infrastructure; or
@@ -343,6 +344,7 @@ A drinking water supplier must take all reasonably practicable steps to supply d
   (a) may restrict supply to a point of supply if the relevant customer has unpaid accounts for any previous supply of drinking water or has failed to remedy water leaks that the customer is obliged to remedy; but
   (b) must, despite any non-payment or failure referred to in paragraph (a), continue to provide a sufficient quantity of drinking water in accordance with subsection (1).
 (8) This section is subject to section 26 and to any contrary provisions in the Civil Defence Emergency Management Act 2002.
+(9) Nothing in this section limits or affects the power of a compliance officer appointed under the Water Services Entities Act 2022 to restrict the water supply to land or a building under section 373 of that Act.
 
 ### 26 Duties where sufficient quantity of drinking water at imminent risk
 (1) If any drinking water supplier considers that the supplier’s ability to maintain a sufficient quantity of drinking water in accordance with section 25 is or may be at imminent risk for any reason, the supplier must—
@@ -436,7 +438,8 @@ A drinking water supplier must take all reasonably practicable steps to supply d
 (4) Taumata Arowai may register a temporary drinking water supply, subject to any conditions it considers necessary to ensure that the drinking water is safe and complies with drinking water standards.
 (5) If the event organiser supplies drinking water from a temporary drinking water supply, the event organiser must ensure that the drinking water is supplied in accordance with—
   (a) the requirements of the temporary drinking water safety plan; and
-  (b) any conditions imposed by Taumata Arowai.
+  (b) any conditions imposed by Taumata Arowai; and
+  (c) any directions issued by a compliance officer under section 104.
 
 ### 34 Unplanned supply of drinking water
 (1) This section applies if drinking water is supplied on an unplanned basis.
@@ -445,7 +448,7 @@ A drinking water supplier must take all reasonably practicable steps to supply d
   (b) the persons at that place cannot reasonably access a sufficient quantity of drinking water from a registered drinking water supply.
 (3) A person who supplies drinking water on an unplanned basis must—
   (a) comply with sections 21 and 22, as far as is reasonably practicable; and
-  (b) notify Taumata Arowai immediately of the temporary drinking water supply arrangement and comply with any directions issued by Taumata Arowai under section 104.
+  (b) notify Taumata Arowai immediately of the temporary drinking water supply arrangement and comply with any directions issued by a compliance officer under section 104.
 (4) If a person supplies drinking water from an unregistered drinking water supply on an unplanned basis for more than 60 days in any 12-month period, they must register the supply and comply with legislative requirements (except if a state of emergency declaration or transition period under the Civil Defence Emergency Management Act 2002 is in effect).
 
 ### Subpart 3 — Requirements relating to notifications and record keeping
@@ -461,6 +464,17 @@ A drinking water supplier must take all reasonably practicable steps to supply d
   (f) identify and implement measures required to ensure that the notifiable risk or hazard does not reoccur.
 (3) Taumata Arowai must, on receiving notification under subsection (2)﻿(b), notify the relevant medical officer of health that a notifiable risk or hazard exists.
 (4) A declaration made under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+
+### 35A Water services entity or regional council may be required to warn users of domestic self-supply about contamination
+(1) This section applies if a medical officer of health or Taumata Arowai believes that a source of water for domestic self-supply is contaminated in a way that affects, or is likely to affect, that domestic self-supply.
+(2) The medical officer of health or Taumata Arowai may issue a notice to the water services entity responsible for the service area or to the regional council responsible for the area to which water is supplied from that source, or to both.
+(3) A water services entity or regional council that receives a notice under subsection (2) must—
+  (a) ensure that an assessment is made as to whether any domestic self-supply is abstracting or otherwise receiving unsafe water from the source specified in the notice; and
+  (b) if that assessment so requires, take all practicable steps—
+    (i) to warn users of that supply—
+      (A) that drinking water must not be used for domestic use and food preparation; or
+      (B) that drinking water may only be used for domestic use and food preparation if certain steps are first taken (for example, boiling the water); and
+    (ii) to exercise any other power or take any action to remedy the situation.
 
 ### 36 Notification duties of drinking water supplier
 Notification regarding cessation or reduction of supply
@@ -490,34 +504,20 @@ Notification regarding operation of other suppliers
   (b) at particular times (for example, according to a schedule); or
   (c) continuously.
 
-### Subpart 4 — Consumer complaints
+### Subpart 4 — Consumer information
 
-### 38 Requirement for supplier to provide information to consumers and have complaints process
+### 38 Requirement for supplier to provide information to consumers
 (1) A drinking water supplier must, in accordance with regulations that apply to the supplier,—
   (a) provide any prescribed information to consumers; and
-  (b) establish, maintain, and administer a consumer complaints process; and
-  (c) report annually to Taumata Arowai on its consumer complaints process.
-(2) A drinking water supplier must ensure that complaints are dealt with—
-  (a) in accordance with its consumer complaints process; and
-  (b) in an efficient and effective manner.
+  (b)
+  (c)
+(2)
 
 ### 39 Review by Taumata Arowai
-(1) A drinking water consumer who is not satisfied with the outcome of a complaint under this subpart may, in the approved form, request Taumata Arowai to review the complaint.
-(2) Taumata Arowai must—
-  (a) investigate the drinking water supplier’s handling of the complaint; and
-  (b) take any action that Taumata Arowai considers necessary as a result of Taumata Arowai’s investigation findings.
-(3) Taumata Arowai may appoint a person to provide a dispute resolution process on its behalf for the purposes of subsection (2).
-(4) Taumata Arowai may, at its discretion, decide to take no action or, as the case may require, no further action on any complaint if, in the opinion of Taumata Arowai,—
-  (a) the length of time that has elapsed between the date when the subject matter of the complaint arose and the date when the complaint was made is such that an investigation of the complaint is no longer practicable or desirable; or
-  (b) the complaint is trivial, frivolous, or vexatious, or is not made in good faith; or
-  (c) the person alleged to be aggrieved does not want action to be taken or, as the case may be, continued; or
-  (d) the complainant does not have sufficient personal interest in the subject matter of the complaint; or
-  (e) there is in all the circumstances an adequate remedy or right of appeal, other than the right to petition the House of Representatives or to make a complaint to an Ombudsman, that it would be reasonable for the aggrieved person to exercise.
+[Repealed]
 
 ### 40 Taumata Arowai to monitor compliance with complaints process
-Taumata Arowai must—
-  (a) monitor compliance with this subpart; and
-  (b) have regard to the scale, complexity, and risk profile of a drinking water supplier when performing the functions in this subpart.
+[Repealed]
 
 ### Subpart 5 — Source water
 
@@ -678,7 +678,7 @@ Information sharing between suppliers and local authorities
   (f) requirements relating to end-point treatment (see section 28):
   (g) to have a drinking water safety plan (see section 30):
   (h) to keep records (see section 37):
-  (i) to provide information to consumers and have a consumer complaints process (see section 38).
+  (i) to provide information to consumers (see section 38).
 (2) An exemption must exempt a drinking water supplier, or class of supplier, from all the requirements described in subsection (1).
 (3) An application for an exemption under this section must be accompanied by the prescribed fee (if any).
 (4) The chief executive must not grant an exemption unless—
@@ -1104,7 +1104,7 @@ A compliance officer may exercise a power under this subpart only for 1 or more 
 **Directions**
 
 ### 104 Directions
-(1) A compliance officer may issue a direction to a drinking water supplier, or to any person supplying drinking water under section 34, for the purposes in section 103(a) to (d).
+(1) A compliance officer may issue a direction to a drinking water supplier, or to any person supplying drinking water under section 33 or 34, for the purposes in section 103(a) to (d).
 (2) A drinking water supplier or other person to whom a direction is issued must comply with the direction within any time frame (including immediately) specified in the direction (if any).
 (3) A direction may be amended or revoked at any time.
 (4) The amendment or revocation of a direction does not have retrospective effect.
@@ -1662,7 +1662,7 @@ Despite anything in section 162 or 163, the proceedings for an offence against s
 **Defence for strict liability offences**
 
 ### 165 Defence in prosecution for strict liability offence
-(1) This section applies in a prosecution for an offence against any section listed in the following table:The following table is small in size and has 2 columns. Column 1 is headed Section. Column 2 is headed Description.SectionDescription172Negligence in supply of unsafe drinking water173Offence involving contamination of raw water or drinking water175Negligence in failure to take immediate action when drinking water unsafe176Failure to notify Taumata Arowai of notifiable risk or hazard177Failure to provide sufficient quantity of drinking water178Supplying drinking water from unregistered supply179Providing false or misleading information180Failure to notify changes in details on register181Failure to comply with requirements relating to drinking water safety plan182Failure to comply with condition, direction, prohibition, or requirement183Failure to comply with compliance order or court order184Failure to keep and maintain records185Failure to comply with emergency directions 186Breach of requirements relating to authorisations187Offences relating to planned events or unplanned supply of drinking water188Failure to advise consumers about, provide, and report on complaint process192Failure to comply with duty of due diligence
+(1) This section applies in a prosecution for an offence against any section listed in the following table:The following table is small in size and has 2 columns. Column 1 is headed Section. Column 2 is headed Description.SectionDescription172Negligence in supply of unsafe drinking water173Offence involving contamination of raw water or drinking water175Negligence in failure to take immediate action when drinking water unsafe176Failure to notify Taumata Arowai of notifiable risk or hazard177Failure to provide sufficient quantity of drinking water178Supplying drinking water from unregistered supply179Providing false or misleading information180Failure to notify changes in details on register181Failure to comply with requirements relating to drinking water safety plan182Failure to comply with condition, direction, prohibition, or requirement183Failure to comply with compliance order or court order184Failure to keep and maintain records185Failure to comply with emergency directions 186Breach of requirements relating to authorisations187Offences relating to planned events or unplanned supply of drinking water188Failure to provide consumers with prescribed information192Failure to comply with duty of due diligence
 (2) The defendant has a defence if the defendant proves that—
   (a) the commission of the offence was due to—
     (i) the act or omission of another person; or
@@ -1697,7 +1697,7 @@ Despite anything in section 162 or 163, the proceedings for an offence against s
 (2) An officer, employee, or agent of the drinking water supplier does not commit an offence against this Act, except where the officer, employee, or agent commits an offence against section 186, 190, 191, or 192.
 
 ### 169 Liability of volunteers
-(1) Subsection (2) applies in a prosecution for an offence against any section listed in the following table:The following table is small in size and has 2 columns. Column 1 is headed Section. Column 2 is headed DescriptionSectionDescription172Negligence in supply of unsafe drinking water 175Negligence in failure to take immediate action when drinking water unsafe177Failure to provide sufficient quantity of drinking water188Failure to advise consumers about, provide, and report on complaint process192Failure to comply with duty of due diligence
+(1) Subsection (2) applies in a prosecution for an offence against any section listed in the following table:The following table is small in size and has 2 columns. Column 1 is headed Section. Column 2 is headed DescriptionSectionDescription172Negligence in supply of unsafe drinking water 175Negligence in failure to take immediate action when drinking water unsafe177Failure to provide sufficient quantity of drinking water188Failure to provide consumers with prescribed information192Failure to comply with duty of due diligence
 (2) A volunteer acting in that capacity may not be charged with an offence to which this subsection applies.
 (3) In this section, volunteer means a person who is acting on a voluntary basis (whether or not the person receives out-of-pocket expenses).
 
@@ -1876,15 +1876,15 @@ Despite anything in section 162 or 163, the proceedings for an offence against s
   (a) for an individual, to a fine not exceeding $50,000:
   (b) for a body corporate or an unincorporated body, to a fine not exceeding $200,000.
 
-**Offence relating to consumer complaints**
+**Offence relating to consumer information**
 
-### 188 Offence involving failure to advise consumers about, provide, and report on complaint process
+### 188 Offence involving failure to provide consumers with prescribed information
 (1) A drinking water supplier commits an offence against this section if the supplier fails,—
   (a) in accordance with regulations that apply to the supplier,—
     (i) to comply with the duty under section 38(1)﻿(a) to provide consumers with prescribed information; or
-    (ii) to comply with the duty under section 38(1)﻿(b) to establish, maintain, and administer a complaints process; or
-    (iii) to comply with the duty under section 38(1)﻿(c) to report annually to Taumata Arowai on its consumer complaints process; or
-  (b) to comply with the duty under section 38(2) to deal with consumer complaints.
+    (ii)
+    (iii)
+  (b)
 (2) A supplier who commits an offence against subsection (1) is liable on conviction,—
   (a) for an individual, to a fine not exceeding $10,000:
   (b) for a body corporate or an unincorporated body, to a fine not exceeding $200,000.
@@ -1990,16 +1990,10 @@ If a court finds a person guilty of an offence against this Act, the court may i
   (a) prescribing the information that drinking water suppliers, or classes of drinking water supplier, must provide to consumers, including—
     (i) the legislative requirements that apply to a supplier’s drinking water supply; and
     (ii) whether drinking water that is supplied by a supplier meets those legislative requirements; and
-    (iii) how a consumer may make a complaint to a drinking water supplier; and
+    (iii)
     (iv) the form in which information must be provided to consumers, and its frequency:
-  (b) prescribing requirements relating to consumer complaints that drinking water suppliers, or classes of drinking water supplier, must meet, including requirements for—
-    (i) the investigation of consumer complaints; and
-    (ii) the time frame for decisions on consumer complaints; and
-    (iii) notification of decisions on complaints, including any action that was taken to resolve the matters that gave rise to the complaint; and
-    (iv) records that must be kept by drinking water suppliers about consumer complaints:
-  (c) prescribing requirements for annual reporting about consumer complaints to Taumata Arowai by drinking water suppliers, or classes of drinking water supplier, including—
-    (i) the number of complaints that have been received; and
-    (ii) the outcome of complaints, including any action taken:
+  (b)
+  (c)
   (d) prescribing matters relating to identity cards:
   (e) prescribing the time frame, and form and manner, in which information required to be provided to Taumata Arowai under this Act must be provided:
   (f) prescribing fees or charges for doing any act or providing any service for the purposes of this Act or regulations:
@@ -2089,8 +2083,11 @@ Taumata Arowai may recover any fee or levy payable to Taumata Arowai in any cour
 
 ### 205 Publication of instruments
 (1) Taumata Arowai must ensure that the following instruments are published in accordance with subsection (2):
-  (a) templates and models:
-  (b) environmental performance measures or targets for networks developed under section 145.
+  (a) templates and models issued under section 52:
+  (b) a drinking water compliance, monitoring, and enforcement strategy prepared under section 136:
+  (c) an annual drinking water regulation report prepared under section 137:
+  (d) environmental performance measures or targets for networks developed under section 145:
+  (e) an annual report on networks under section 147.
 (2) The instruments must be—
   (a) publicly available free of charge on an Internet site maintained by or on behalf of Taumata Arowai; and
   (b) available for purchase at a reasonable price at the offices of Taumata Arowai.
