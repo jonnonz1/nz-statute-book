@@ -1,5 +1,5 @@
 # Land Transport Management Act 2003
-_Consolidation as at 2023-08-24_
+_Consolidation as at 2023-08-31_
 
 ### 1 Title
 This Act is the Land Transport Management Act 2003.
@@ -81,8 +81,8 @@ In order to recognise and respect the Crown’s responsibility to take appropria
     (a) is contracted or funded by the Ministry of Education for the sole or primary purpose of transporting school children to and from school; or
     (b) is not available to the public generally, and is operated for the sole or primary purpose of transporting to or from a predetermined event all the passengers carried by the service; or
     (c) is not available to the public generally, and is operated for the sole or primary purpose of tourism; or
-    (d) does not fall within any of paragraphs (a) to (c), and is not operated to a schedule
-  - **exempt service** means a public transport service that is exempt under section 130(2) or treated as exempt under section 153(2)
+    (d)
+  - **exempt service** is defined in section 114A
   - **financial year** means a period of 12 months beginning on 1 July and ending on 30 June
   - **GPS on land transport** means the government policy statement on land transport issued under section 66; and includes any amendments made to the statement under section 90
   - **impact** means the contribution made to an objective or outcome, including by a specified activity class or activity classes
@@ -152,7 +152,7 @@ In order to recognise and respect the Crown’s responsibility to take appropria
       (vi) any other mode of transport (other than air transport) that is available to the public generally; but
     (b) in relation to Part 5, does not include—
       (i) an excluded passenger service; or
-      (ii) a shuttle service
+      (ii)
   - **rail activity** has the meaning set out in section 5A
   - **rail network investment programme** means a rail network investment programme—
     (a) prepared by KiwiRail under section 22A; and
@@ -199,6 +199,13 @@ In order to recognise and respect the Crown’s responsibility to take appropria
     (b) any part of an intersection that is within the route of the State highway; and
     (c) for the purposes of regional land transport plans, the national land transport programme, and any expenditures approved under section 20 by the Agency, a proposed State highway; and
     (d) land that becomes a State highway under section 88(2) of the Government Roading Powers Act 1989
+  - **subsidy** , in Part 5,—
+    (a) means any funding from—
+      (i) the national land transport fund; or
+      (ii) a local authority; but
+    (b) does not include—
+      (i) anything done under an agreement between the relevant regional council and an operator to reduce passenger fares; or
+      (ii) financial assistance provided by the relevant regional council for a passenger service identified in the council’s regional public transport plan under section 120(1)﻿(a)﻿(vii)
   - **territorial authority** has the same meaning as in section 5(1) of the Local Government Act 2002
   - **toll** means a toll that is payable under Part 2, and includes different levels of tolls if more than 1 level is set in respect of the same road
   - **toll operator** , in relation to a toll road, means the public road controlling authority or concessionaire who operates the toll road under a road tolling scheme
@@ -208,10 +215,7 @@ In order to recognise and respect the Crown’s responsibility to take appropria
     (a) the capacity of transport infrastructure to accommodate the vehicles or other modes of transport operated as part of the service; and
     (b) the compatibility of the transport infrastructure intended to support the service with vehicles or other modes of transport operated as part of the service
   - **transport-disadvantaged** means people who the regional council has reasonable grounds to believe are the least able to travel to basic community activities and services (for example, work, education, health care, welfare, and shopping)
-  - **unit** means a public transport service, or group of public transport services,—
-    (a) that a regional council identifies as integral to the region's public transport network; and
-    (b) that operates, or will operate, on the entire length of 1 or more routes specified in the regional council's regional public transport plan; and
-    (c) that includes all of the public transport services operating to a timetable that applies to the entire route or routes specified for the unit
+  - **unit** is defined in section 114B
   - **unitary authority** has the same meaning as in section 5(1) of the Local Government Act 2002
   - **working day** has the same meaning as in section 5(1) of the Local Government Act 2002.
 (2) Every reference in this Act to a road or a State highway, unless the context otherwise requires, includes the land on which the road or State highway exists, and also includes all bridges, culverts, ferries, fords, signs, signals, barriers, or other structures forming or intended by the territorial authority or the Agency to form part of the road, State highway, or land.
@@ -818,7 +822,9 @@ The Agency and KiwiRail must make available on their Internet sites each rail ne
 (3) All expenditure from a land transport disbursement account must be accounted for in a manner prescribed by the Agency after consultation with the Auditor-General.
 (4) Payments may be made out of a land transport disbursement account only for approved activities or combinations of activities, and only—
   (a) within the limits and terms and conditions of the approval granted under sections 20 and 20B; and
-  (b) in accordance with a procurement procedure unless exempt by or under section 26.
+  (b) in accordance with a procurement procedure, unless the payment is—
+    (i) of a type specified in section 26 (and so is not required to be made in accordance with a procurement procedure); or
+    (ii) for a public transport service operated by a regional council.
 (5) An approved organisation may—
   (a) carry forward to any later financial year any amount of the credit balance in its land transport disbursement account at the close of any financial year; and
   (b) use that money at any time for payments in accordance with this section.
@@ -834,6 +840,7 @@ The Agency and KiwiRail must make available on their Internet sites each rail ne
 (4) It is a condition of every procurement procedure that the Agency or an approved organisation must procure outputs from a provider other than the Agency or that organisation (as the case may require), or its employees.
 (5) However, nothing in subsection (4) prevents an approved organisation from procuring from the organisation's own business units the provision of minor and ancillary works on terms approved by the Agency.
 (6) Nothing in this section compels an organisation or person to accept the lowest tender received by it for the provision of any outputs.
+(7) Subsections (2), (4), and (5) do not apply to any procurement procedure (or its approval) that relates to procurement of a public transport service.
 
 ### 26 Payments exempt from procurement procedure
 Section 25 does not apply in relation to any payment—
@@ -853,10 +860,11 @@ If the Agency grants itself an exemption under section 26(a) or approves a procu
 
 **Local authority interests in public transport services**
 
-### 27 Manner in which certain local authority interests in public transport service must be held
-(1) Any interest that a local authority has in a public transport service to which this section applies must be held in a council-controlled trading organisation, whether or not in conjunction with another local authority.
-(2) This section applies to a public transport service held by a local authority if, and only if, the public transport service indirectly receives funding for the purpose from the national land transport fund.
-(3) A regional council may, subject to subsection (1), hold an interest in, or acquire the ownership of, a public transport service or any public transport infrastructure.
+### 27 Local authority may hold interest in public transport services and infrastructure
+(1) A local authority may hold an interest in, or acquire the ownership of, either or both of the following:
+  (a) a public transport service:
+  (b) public transport infrastructure and associated assets.
+(2) To avoid doubt, subsection (1)﻿(a) applies whether or not the local authority receives any funding from the national land transport fund in relation to the service.
 
 **Safety administration programme**
 
@@ -2320,15 +2328,46 @@ Statutorily independent functions
 ## Part 5 — Regulation of public transport
 
 ### 114 Application of certain provisions of Local Government Act 2002 to Auckland Transport
-For the purposes of this Act, sections 76 to 83A, 87, and 89 of the Local Government Act 2002 apply, with any necessary modifications, to Auckland Transport as if it were a local authority.
+For the purposes of this Act, sections 76 to 83A and 87 of the Local Government Act 2002 apply, with any necessary modifications, to Auckland Transport as if it were a local authority.
+
+### 114A Meaning of exempt service
+In this Part, an exempt service is a public transport service that satisfies one of the following:
+  (a) it operates in a region that is required to have a regional public transport plan, but—
+    (i) when it started operating, it was not identified in that plan as integral to the public transport network in that region; and
+    (ii) it operates without a subsidy for its provision:
+  (b) it operates in a region that is not required to have a regional public transport plan:
+  (c) it operates inter-regionally between 2 or more regions, at least 1 of which is required to have a regional public transport plan, but—
+    (i) when it started operating, it was not identified in any plans as integral to the public transport network in any of those regions; and
+    (ii) it operates without a subsidy for its provision:
+  (d) it operates inter-regionally between 2 or more regions that are not required to have regional public transport plans:
+  (e) it is specified as an exempt service by regulations made under section 150.
+
+### 114B Meaning of unit
+(1) In this Part, a unit is a defined geographic area (of any size)—
+  (a) that is specified in a regional public transport plan; and
+  (b) for which the regional council for the region has specified (in any way) how public transport services must be operated.
+(2) For example, a regional council may specify the geographic boundaries of a unit by reference to—
+  (a) cadastral, electoral, regional, territorial, or other central or local government administrative boundaries; or
+  (b) suburbs, roads, motorways, or railways; or
+  (c) landmarks; or
+  (d) destinations (for example, a hospital, public library, shopping centre, or transport depot).
+(3) For example, a regional council may specify how public transport services in a unit are to be operated by reference to 1 or more of the following:
+  (a) operation along the whole or a part of the length of 1 or more specified routes within the unit:
+  (b) operation according to a schedule that applies to the whole or a part of 1 or more specified routes within the unit:
+  (c) operation from or to a particular destination within the unit:
+  (d) operation within the unit without predetermined routes or schedules.
 
 ### 115 Principles
-(1) All persons exercising powers or performing functions under this Part in relation to public transport services must be guided by each of the following principles to the extent relevant to the particular power or function:
-  (a) regional councils and public transport operators should work in partnership and collaborate with territorial authorities to deliver the regional public transport services and infrastructure necessary to meet the needs of passengers:
-  (b) the provision of public transport services should be coordinated with the aim of achieving the levels of integration, reliability, frequency, and coverage necessary to encourage passenger growth:
-  (c) competitors should have access to regional public transport markets to increase confidence that public transport services are priced efficiently:
-  (d) incentives should exist to reduce reliance on public subsidies to cover the cost of providing public transport services:
-  (e) the planning and procurement of public transport services should be transparent.
+(1) All persons exercising powers or performing functions under this Part must be guided by each of the following principles to the extent relevant to the particular power or function:
+  (a) well-used public transport services reduce the environmental and health impacts of land transport, including by reducing reliance on single-occupant vehicles and using zero-emission technology:
+  (b) public transport services support a mode shift from private motor vehicle use and equitable access to places, facilities, services, and social and economic opportunities if they are co-ordinated, integrated, reliable, frequent, accessible, affordable, and safe:
+  (c) fair and equitable employment or engagement of people in the public transport workforce should ensure that there is a sufficiently robust labour market to sustain and expand public transport services:
+  (d) regional councils, territorial authorities, and public transport operators should work together to co-ordinate public transport services, the provision of infrastructure, and land use as necessary—
+    (i) to meet the needs of passengers; and
+    (ii) to encourage more people to use the services:
+  (e) public transport services should be provided in a way that assists—
+    (i) public transport investment to be efficient; and
+    (ii) public transport investment to give value for money.
 (2) Without limiting subsection (1), the principles specified in subsection (1) must be taken into account by—
   (a) the Agency when—
     (i) approving procurement procedures under section 25(1):
@@ -2338,15 +2377,38 @@ For the purposes of this Act, sections 76 to 83A, 87, and 89 of the Local Govern
   (c) the Minister when the Minister considers making a recommendation under section 150.
 (3) In this section, territorial authority includes Kāinga Ora–Homes and Communities if there are any specified development projects in the region.
 
-### 116 Public transport services must be provided under contract
-(1) Any public transport service operated in a region must be provided under contract with a regional council as part of a unit unless it is an exempt service.
-(2) A regional council must contract for the provision of every unit on an exclusive basis.
+### 116 Planning, procuring, and operating public transport services
+(1) Planning, procuring, and operating public transport services must be carried out in an open and transparent manner, irrespective of who operates the service.
+(2) Without limiting subsection (1), openness and transparency are required in relation to the following matters:
+  (a) operating costs:
+  (b) service performance (for example, by reference to key performance indicators such as reliability and punctuality):
+  (c) the vehicles, vessels, or other transport modes used or to be used to operate the services:
+  (d) the financial performance of the person operating or to be operating the services (for example, the person’s assets, liabilities, and equity):
+  (e) the aggregate terms and conditions of the workforce operating or to be operating the services.
+(3) This section does not require a regional council or the Agency to disclose information that it would be entitled to withhold in response to a request for information under the Local Government Official Information and Meetings Act 1987 or the Official Information Act 1982.
+(4) However, subsection (3) does not limit or affect—
+  (a) a regional council’s obligation to publish information under section 127(1)﻿(b); or
+  (b) the obligations of a regional council to provide information under section 128.
+
+### 116A Limitations on operating integral public transport services
+(1) A public transport service identified in a regional public transport plan as integral to the public transport network—
+  (a) must be operated in a unit or part of a unit; and
+  (b) may only be operated by—
+    (i) the regional council; or
+    (ii) a territorial authority whose district is within the region, under a contract with the regional council; or
+    (iii) any other person, under a contract with the regional council.
+(2) However, subsection (1) does not apply if the public transport service is an exempt service.
+
+### 116B Limitations on payment of subsidies
+A subsidy may only be provided to a public transport service that is—
+  (a) identified in a regional public transport plan as integral to the region’s public transport network; and
+  (b) operated in a unit or part of a unit.
 
 ### Subpart 1 — Regional public transport plan
 
 ### 117 Purpose of regional public transport plans
 The purpose of a regional public transport plan is to provide—
-  (a) a means for encouraging regional councils and public transport operators to work together in developing public transport services and infrastructure; and
+  (a) a means for encouraging regional councils, territorial authorities, and public transport operators to work together in developing public transport services and infrastructure; and
   (b) an instrument for engaging with the public in the region on the design and operation of the public transport network; and
   (c) a statement of—
     (i) the public transport services that are integral to the public transport network; and
@@ -2361,9 +2423,10 @@ A regional public transport plan is not invalid merely because the regional coun
 **General requirements**
 
 ### 119 Adoption of regional public transport plans
-(1) A regional council must, by resolution on or before 1 July 2015, adopt a regional public transport plan unless it does not intend to—
-  (a) enter into any contract for the supply of any public transport service:
-  (b) provide any financial assistance to any operator or user of any other passenger service in a small passenger service vehicle.
+(1) A regional council must adopt a regional public transport plan if it intends to—
+  (a) enter into a contract for the supply of a public transport service; or
+  (b) operate a public transport service itself; or
+  (c) provide financial assistance to an operator or user of any other passenger service in a small passenger service vehicle.
 (2) A regional council may, by resolution at any time, vary or renew a regional public transport plan previously adopted by it.
 (3) The production in proceedings of a copy of a regional public transport plan purporting to have been adopted, varied, or renewed by a regional council under this section is, in the absence of evidence to the contrary, sufficient evidence of the plan and of the fact that it has been adopted, varied, or renewed in accordance with this section.
 (4) A regional council (or a territorial authority to which the responsibility is transferred under the Local Government Act 2002) may not delegate the responsibility for adopting, varying, or renewing a regional public transport plan to a committee or other subordinate decision-making body, or a member or an officer of the council (or territorial authority, as the case may be), or any other person.
@@ -2372,11 +2435,13 @@ A regional public transport plan is not invalid merely because the regional coun
 ### 120 Contents of regional public transport plans
 (1) A regional council, in a regional public transport plan,—
   (a) must—
-    (i) identify the public transport services that are integral to the public transport network that the regional council proposes to provide; and
-    (ii) provide an outline of the routes, frequency, and hours of operation of the services identified under subparagraph (i); and
+    (i) identify the public transport services that are integral to the public transport network; and
+    (ia) identify the infrastructure necessary to support the services identified under subparagraph (i); and
+    (ii) for scheduled services identified under subparagraph (i), provide an outline of their routes, frequency, and hours of operation; and
+    (iia) for unscheduled services identified under subparagraph (i), provide an outline of their geographic area, and hours, of operation; and
     (iii) arrange all of the public transport services identified under subparagraph (i) into units; and
-    (iv) indicate the date by which a unit is expected to start operating; and
-    (v) indicate the date by which any exempt service that is to be replaced by a unit is to be deregistered; and
+    (iv) indicate the date by which any service in a unit or part of a unit is expected to start operating; and
+    (v) indicate the date by which any exempt service that is to be replaced by a service or services in a unit is to be deregistered; and
     (vi) identify any units for which the regional council intends to provide financial assistance; and
     (vii) identify any passenger services in small passenger service vehicles for which the regional council intends to provide financial assistance; and
     (viii) describe how the network of public transport services and the services referred to in subparagraph (vii) will assist the transport-disadvantaged; and
@@ -2389,9 +2454,9 @@ A regional public transport plan is not invalid merely because the regional coun
   (a) accessibility, quality, and performance; and
   (b) fares and the method or formula or other basis for setting and reviewing those fares; and
   (c) the process for establishing units; and
-  (d) the approach that will be taken to procuring the delivery of the service or services in a unit; and
-  (e) how the procurement of units will be phased in over time; and
-  (f) managing, monitoring, and evaluating the performance of units.
+  (d) the approach that will be taken to provide the service or services in a unit or part of a unit, including, if relevant, whether the service or services will be operated by the council itself or another person; and
+  (e) how the procurement of services in units will be phased in over time; and
+  (f) managing, monitoring, and evaluating the performance of services in units.
 (3) The approach to procurement specified in subsection (2)﻿(d) must, in relation to a public transport service for which the regional council does not intend to provide financial assistance, be approved by the Agency.
 (4) A regional public transport plan must set out the policy the regional council will apply in determining whether a proposed variation to the regional public transport plan is significant for the purpose of section 126(4).
 (5) A regional public transport plan may—
@@ -2439,24 +2504,31 @@ A regional council must, before adopting a regional public transport plan,—
   (c) take into account—
     (i) any national energy efficiency and conservation strategy; and
     (ii) any relevant plans in force under the Natural and Built Environment Act 2023; and
+    (iia) the transport component of any plan or strategy that has been developed and publicly consulted on by—
+      (A) a territorial authority within the region; or
+      (B) the regional council if it has transferred its public transport responsibilities to a territorial authority under section 17 of the Local Government Act 2002; and
     (iii) the public transport funding likely to be available within the region; and
-    (iv) the need to obtain the best value for money, having regard to the desirability of encouraging a competitive and efficient market for public transport services; and
+    (iv) the need to obtain the best value for money; and
+    (iva) the views of the territorial authorities in the region; and
     (v) the views of public transport operators in the region; and
+    (vi) the views of the public transport workforce and its representative unions registered under Part 4 of the Employment Relations Act 2000; and
   (d) consider the needs of persons who are transport-disadvantaged.
 
-### 125 Consultation requirements for regional public transport plans
-(1) When preparing a draft regional public transport plan, a regional council must consult—
-  (a) the relevant regional transport committee (and, in the case of Auckland Transport, the Auckland Council and each affected local board of the Auckland Council); and
-  (b) the Agency; and
-  (c) every operator of a public transport service in the region; and
-  (d) every person who has notified the regional council of a proposal to operate an exempt service in the region; and
-  (e) the Minister of Education; and
-  (f) the territorial authorities in the region; and
-  (g) the relevant railway line access provider; and
-  (h) if there are any specified development projects in the region, Kāinga Ora–Homes and Communities.
-(2) Before adopting a regional public transport plan, a regional council or Auckland Transport (as the case may be)—
+### 125 Preparation of regional public transport plans
+(1) When preparing a draft regional public transport plan, a regional council must—
+  (a) (except Auckland Transport) prepare the draft in collaboration with the territorial authorities in the region; and
+  (b) consult all the following entities:
+    (i) the relevant regional transport committee (but Auckland Transport must consult the Auckland Council and each affected local board of the Auckland Council):
+    (ii) the Agency:
+    (iii) every operator of a public transport service in the region:
+    (iv) every person who has notified the regional council of a proposal to operate an exempt service in the region:
+    (v) the Minister of Education:
+    (vi) the relevant railway line access provider:
+    (vii) Kāinga Ora–Homes and Communities, if there are any specified development projects in the region:
+    (viii) if the regional council proposes to plan, procure, or operate an inter-regional public transport service, all relevant local authorities in the other regions in which the service is proposed to operate.
+(2) Before adopting a regional public transport plan, a regional council—
   (a) must consult in accordance with the consultative principles specified in section 82 of the Local Government Act 2002; and
-  (b) may use the special consultative procedure specified in sections 83, 87, and 89 of the Local Government Act 2002, and those sections apply for the purposes of this section with the necessary modifications.
+  (b) may use the special consultative procedure specified in sections 83 and 87 of the Local Government Act 2002, and those sections apply for the purposes of this section with the necessary modifications.
 (3) A regional council that is preparing a regional public transport plan may request any information from any territorial authority within its region that the regional council considers necessary to perform its functions under this Act in relation to that plan, and the territorial authority must promptly comply with that request.
 (4) A regional council may carry out consultation on a proposal to adopt a regional public transport plan in conjunction with the relevant regional transport committee’s consultation on its regional land transport plan under this Act.
 
@@ -2472,21 +2544,23 @@ A regional council must, before adopting a regional public transport plan,—
 
 ### 127 Power to require information from operators of public transport services
 (1) A regional council—
-  (a) may require an operator of a unit to provide the regional council with patronage data and fare revenue data for that unit; and
+  (a) may require an operator of a service in a unit to provide the regional council with patronage data and fare revenue data for that service; and
   (b) must publish—
     (i) patronage data provided under paragraph (a); and
-    (ii) data that shows the extent to which the unit is subsidised; and
-  (c) may disclose the fare revenue data provided under paragraph (a) to any person who is registered by the regional council to tender for the provision of a unit.
+    (ii) data that shows the extent to which the service is subsidised; and
+  (c) may disclose the fare revenue data provided under paragraph (a) to any person who is registered by the regional council to tender for the provision of a service.
 (2) A regional council may require the information required under subsection (1) to be provided to the regional council in any specified form in which, having regard to the manner in which the information is kept by the operator, it is reasonable to expect the operator to provide it.
 
-### 128 Power to require information from regional councils and Auckland Transport
-(1) The Agency may require a regional council to provide it with information related to public transport planning, contracting, and monitoring that is necessary to enable the Agency to perform its functions under this Act, including information provided to the regional council under section 127.
+### 128 Power to require information from regional councils
+(1) The Agency may require a regional council to provide it with information related to public transport planning and public transport services that is necessary to enable the Agency to perform its functions under this Act, including information that—
+  (a) is provided to the regional council under section 127; or
+  (b) the regional council holds in relation to planning, procuring, and operating public transport services (for example, any information relating to the matters listed in section 116(2) that the regional council has collected when exercising a power or performing a function under this Part).
 (2) If the Agency requires the regional council to provide information under subsection (1), the regional council must provide the information as soon as is reasonably practicable.
 (3) The Auckland Council may require Auckland Transport to provide it with any information related to the preparation of Auckland Transport’s regional public transport plan that is necessary to enable the Auckland Council to perform its function of providing funds to Auckland Transport for land transport purposes under the Local Government (Auckland Council) Act 2009, including information provided to Auckland Transport under section 127.
 (4) If the Auckland Council requires Auckland Transport to provide any information under subsection (3), Auckland Transport must provide the information as soon as is reasonably practicable.
 
 ### 129 Disclosure of information received under sections 127 and 128
-(1) If a regional council or the Auckland Council (an organisation) receives under section 127 or 128 fare revenue data that may, in the organisation’s opinion, be withheld under section 7(2)﻿(b) of the Local Government Official Information and Meetings Act 1987 or that has been described by the operator of the unit that provided it as commercially sensitive, the organisation must not disclose the fare revenue data without the operator’s consent except—
+(1) If a regional council or the Auckland Council (an organisation) receives under section 127 or 128 fare revenue data that may, in the organisation’s opinion, be withheld under section 7(2)﻿(b) of the Local Government Official Information and Meetings Act 1987 or that has been described by the operator that provided it as commercially sensitive, the organisation must not disclose the fare revenue data without the operator’s consent except—
   (a) to registered tenderers under section 127(1)﻿(c); or
   (b) to the organisation’s professional advisers; or
   (c) in the case of information received by an organisation that is a regional council, to those persons or entities engaged by the regional council to carry out public transport planning, contracting, or monitoring; or
@@ -2495,18 +2569,18 @@ A regional council must, before adopting a regional public transport plan,—
   (f) subject to subsection (2), in response to a request made under the Local Government Official Information and Meetings Act 1987; or
   (g) where the fare revenue data was provided to the organisation 5 years or more before the date of the disclosure; or
   (h) where—
-    (i) the operator of the unit (the former operator) no longer exists; and
+    (i) the operator (the former operator) no longer exists; and
     (ii) the former operator’s public transport business has not been disposed of as a going concern to any other person.
 (2) If an organisation receives a request under the Local Government Official Information and Meetings Act 1987 to release any information described in subsection (1),—
   (a) the organisation must make all reasonable efforts to notify immediately the person who provided the information to the organisation that a request to release the information has been received; and
   (b) the person must, within 10 working days after receiving the notice, advise the organisation whether that person believes the information should be withheld under section 7(2)﻿(b) of the Local Government Official Information and Meetings Act 1987 and give reasons for that belief; and
   (c) the organisation may release the information after the expiry of the period specified in paragraph (b) if, having complied with its obligations under this subsection and having regard to the person’s response (if any), the organisation cannot identify any reason for withholding the information under the Local Government Official Information and Meetings Act 1987.
-(3) If the Agency receives under section 128(1) fare revenue data that was provided to a regional council under section 127 and that may, in the Agency’s opinion, be withheld under section 9(2)﻿(b) of the Official Information Act 1982 or has been described by the operator of the unit that provided it as commercially sensitive, the Agency must not disclose that information without the operator’s consent except—
+(3) If the Agency receives under section 128(1) fare revenue data that was provided to a regional council under section 127 and that may, in the Agency’s opinion, be withheld under section 9(2)﻿(b) of the Official Information Act 1982 or has been described by the operator that provided it as commercially sensitive, the Agency must not disclose that information without the operator’s consent except—
   (a) to the Agency’s professional advisers; or
   (b) subject to subsection (4), in response to a request made under the Official Information Act 1982; or
   (c) where the information received from the regional council was provided to the regional council 5 years or more before the date of the Agency’s disclosure; or
   (d) where—
-    (i) the operator of the unit (the former operator) no longer exists; and
+    (i) the operator (the former operator) no longer exists; and
     (ii) the former operator’s public transport business has not been disposed of as a going concern to any other person.
 (4) If the Agency receives a request under the Official Information Act 1982 to release any information described in subsection (3),—
   (a) the Agency must make all reasonable efforts to notify immediately the person who provided the information to the regional council that a request to release the information has been received by the Agency; and
@@ -2517,26 +2591,22 @@ A regional council must, before adopting a regional public transport plan,—
 
 **Register of exempt services**
 
-### 130 All exempt services to be registered
-(1) No person may operate an exempt service specified in subsection (2) in a region unless, at the time it is operated, the service is registered with the regional council of that region.
-(2) The following public transport services are exempt services:
-  (a) an inter-regional public transport service:
-  (b) a public transport service,—
-    (i) in a region that is required to have a regional public transport plan, that—
-      (A) begins, or is to begin, operating after the plan is adopted; and
-      (B) is not identified in the plan as integral to the public transport network; and
-      (C) operates without a subsidy for the provision of the service:
-    (ii) in a region that is not required to have a regional public transport plan, that operates within the region:
-  (c) a public transport service that is specified as an exempt service by an Order in Council made under section 150.
-(3) For the purposes of subsection (2)﻿(b)﻿(i)﻿(C), subsidy does not include anything done under an agreement between a regional council and an operator to reduce passenger fares.
+### 130 Exempt services must be registered to operate
+(1) A person must not operate an exempt service in a region unless the service is registered as an exempt service with the regional council of that region.
+(2) Despite subsection (1), a person may operate an exempt service in a region without the service being registered if—
+  (a) the service can be reserved for use by a single person or a self-selected group of people; or
+  (b) the service is an unscheduled service that is operated—
+    (i) using fewer than 10 vehicles; or
+    (ii) using vehicles with 9 or fewer seating positions, including the driver’s; or
+  (c) the service is a shuttle service.
 
 ### 131 Register of exempt services
-(1) A regional council must keep a current register of all public transport services that are exempt services.
+(1) A regional council must keep a current register of all exempt services that must be registered under section 130.
 (2) A regional council must record in the register—
   (a) the name of the operator of the exempt service; and
   (b) if the operator is a company that is not a listed company, the name of each shareholder of the operator (or, if the operator is a subsidiary within the meaning of section 5 of the Companies Act 1993, the name of its ultimate holding company); and
   (c) the contact details of the operator of the exempt service, including the operator’s business address, telephone number, email address (if any), and Internet site (if any); and
-  (d) the routes of the exempt service; and
+  (d) the route or routes, or geographic area of operation, of the exempt service; and
   (e) the date the exempt service is intended to begin.
 (3) Despite subsection (1), a public transport service that was operating as a registered exempt service before it was identified in the regional council’s regional public transport plan as integral to the public transport network must remain on the register and may continue operating as if it were an exempt service until it is deregistered under section 137.
 
@@ -2545,13 +2615,13 @@ A regional council that keeps a register of exempt services under this subpart m
   (a) the information on the register is reasonably readily available for public inspection, whether in written or electronic form, free of charge and during normal office hours; and
   (b) a copy of the information that is on the register can be made available for purchase by the public at a reasonable price.
 
-### 133 Notification of proposal to operate or vary exempt services
+### 133 Notification of proposal to operate or vary exempt services that must be registered
 (1) In accordance with the applicable period referred to in subsection (4), a person who proposes to—
-  (a) operate an exempt service must notify every regional council in whose region the proposed service is to operate of—
+  (a) operate an exempt service that must be registered under section 130 must notify every regional council in whose region the proposed service is to operate of—
     (i) the name of the operator; and
     (ii) the name of each shareholder of the operator (or, if the operator is a subsidiary within the meaning of section 5 of the Companies Act 1993, the name of its ultimate holding company) if the operator is a company that is not a listed company; and
     (iii) the contact details of the operator (including the operator’s business address, telephone number, email address, and Internet site address (if any)); and
-    (iv) the proposed route or routes of the service; and
+    (iv) the proposed route or routes, or geographic area of operation, of the service; and
     (v) the date the service is intended to commence; and
     (vi) the timetables for the service; and
     (vii) the stops, stations, or terminals for the service:
@@ -2571,17 +2641,17 @@ A regional council that keeps a register of exempt services under this subpart m
 ### 134 Grounds for declining registration or variation of exempt services
 (1) A regional council may, on the grounds set out in subsection (2), decline to—
   (a) register an exempt service; or
-  (b) record in the register a variation of the route or routes of an exempt service.
+  (b) record in the register a variation of the route or routes, or geographic area of operation, of an exempt service.
 (2) The grounds are that—
-  (a) the exempt service, or the variation of the route or routes, is—
-    (i) likely to have a material adverse effect on the financial viability of any unit; or
-    (ii) likely to increase the net cost to the regional council of any unit; or
+  (a) the exempt service, or the variation, is—
+    (i) likely to have a material adverse effect on the financial viability of any service in a unit; or
+    (ii) likely to increase the net cost to the regional council of any service in a unit; or
     (iii) contrary to sound traffic management or any environmental factor identified by the regional council as important to its region; or
   (b) the regional council is yet to adopt its regional public transport plan; or
   (c) the regional council has adopted a regional public transport plan and it identifies the service as integral to the public transport network.
 
 ### 135 Process for declining registrations or variations of exempt services
-If a regional council declines to register an exempt service or record in the register a variation of a route of an exempt service under section 134, it must, within 15 working days (or such longer period as the regional council and operator may agree) of receiving notice under section 133(1), give written notice to the operator of—
+If a regional council declines to register an exempt service or record in the register a variation of the route or routes, or geographic area of operation, of an exempt service under section 134, it must, within 15 working days (or such longer period as the regional council and operator may agree) of receiving notice under section 133(1), give written notice to the operator of—
   (a) the decision; and
   (b) the reasons for the decision and a summary of the information supporting the decision; and
   (c) the operator's right under section 141 to appeal against the decision.
@@ -2589,17 +2659,17 @@ If a regional council declines to register an exempt service or record in the re
 ### 136 Registration of and variation to exempt services
 (1) Within 15 working days (or such longer period as the regional council and operator may agree) of receiving a notice under section 133(1), a regional council must (as the case may be)—
   (a) register the exempt service to which the notice relates, unless the regional council declines to register the service under section 134; or
-  (b) record in the register the variation of the details of the exempt service to which the notice relates, unless the variation relates to the route or routes of the exempt service and is declined by the regional council under section 134.
+  (b) record in the register the variation of the details of the exempt service to which the notice relates, unless the variation relates to the route or routes, or geographic area of operation, of the exempt service and is declined by the regional council under section 134.
 (2) The registration of an exempt service or the variation of an exempt service under this section remains in effect until the service is deregistered, or the details of the variation are removed, in accordance with section 137(1), (2), or (4), or 139(3).
 
 ### 137 Deregistration of exempt services and removing details of variations
 (1) A regional council may, at any time, deregister all or part of an exempt service if the regional council is satisfied that the operator—
   (a) has persistently failed to operate the exempt service or part of the exempt service; or
   (b) has failed to commence operating the exempt service within 90 days after the registration of the exempt service.
-(2) A regional council may, at any time, remove the details of a variation to the route or routes of an exempt service from the register, if the regional council is satisfied that the exempt service has failed to commence operating in accordance with the variation within 90 days after the regional council records the details of the variation in the register.
+(2) A regional council may, at any time, remove the details of a variation to the route or routes, or geographic area of operation, of an exempt service from the register, if the regional council is satisfied that the exempt service has failed to commence operating in accordance with the variation within 90 days after the regional council records the details of the variation in the register.
 (3) A regional council may not deregister all or part of an exempt service under subsection (1) or remove the details of a variation under subsection (2) if the operator has failed to operate the exempt service owing to circumstances beyond the reasonable control of the operator.
 (4) A regional council must, on the date specified by the regional council in a notice to the operator, deregister a public transport service that was operating as an exempt service before it was—
-  (a) required, by Order in Council, to be replaced by a unit; and
+  (a) required, by Order in Council, to be replaced by a service in a unit; and
   (b) identified in the regional council's regional public transport plan as integral to the public transport network.
 
 ### 138 Process for deregistering exempt services or removing details of variations
@@ -2627,8 +2697,11 @@ If a regional council declines to register an exempt service or record in the re
 (5) This section does not apply to the deregistration of a public transport service under section 137(4).
 
 ### 139 Withdrawal of exempt services
-(1) The operator of an exempt service who proposes to withdraw from providing the exempt service must notify the regional council in whose region the exempt service is registered of that proposal not less than 15 working days before the exempt service is to cease operating.
-(2) The regional council may reduce or waive the period of notice required by subsection (1), if it is satisfied that the public would not be unreasonably disadvantaged by the earlier withdrawal of the exempt service.
+(1) The operator of an exempt service that must be registered under section 130 must notify the regional council in whose region the service is registered if the operator intends to withdraw from operating the service.
+(1A) The operator must give notice—
+  (a) at least 60 working days before ceasing to operate the exempt service, if the service is identified in the relevant regional public transport plan as integral to the public transport network; or
+  (b) at least 15 working days before ceasing to operate the service, in any other case.
+(2) The regional council may reduce or waive the period of notice required by subsection (1A), if it is satisfied that the public would not be unreasonably disadvantaged by the earlier withdrawal of the exempt service.
 (3) The regional council must remove the withdrawn exempt service from the register of exempt services within 15 working days after the date that the exempt service ceases to operate.
 
 ### Subpart 3 — Miscellaneous
@@ -2636,7 +2709,7 @@ If a regional council declines to register an exempt service or record in the re
 **Appeals**
 
 ### 140 Right to appeal to Environment Court
-(1) An operator of a public transport service may appeal to the Environment Court against the arrangement of public transport services into units and the allocation of those units in a regional public transport plan if affected by the arrangement or allocation.
+(1) An operator of a public transport service may appeal to the Environment Court against the arrangement of public transport services into units and the allocation of those services in a regional public transport plan if affected by the arrangement or allocation.
 (2) An operator of a public transport service who wishes to appeal must lodge a notice of appeal with the Environment Court within 15 working days after receiving notice of the adoption and a copy of the plan under section 121(1)﻿(b) or a longer time that the court allows.
 (3) An operator of a public transport service who lodges a notice of appeal with the Environment Court under subsection (2) must serve a copy of the notice on the regional council and every other operator of a public transport service in the region within 5 working days after the appeal is lodged.
 (4) The New Zealand Transport Agency has the right to appear and be heard during any appeal under this section.
@@ -2651,9 +2724,9 @@ If a regional council declines to register an exempt service or record in the re
 (1) A person may appeal to the District Court against an adverse decision relating to that person if the person is an operator of an exempt service or a proposed exempt service that is the subject of the decision.
 (2) For the purposes of subsection (1), adverse decision means a decision of a regional council to—
   (a) decline to register an exempt service under section 134; or
-  (b) decline to record in the register a variation of the route or routes of an exempt service under section 134; or
+  (b) decline to record in the register a variation of the route or routes, or geographic area of operation, of an exempt service under section 134; or
   (c) deregister an exempt service under section 137; or
-  (d) remove the details of a variation of the route or routes of an exempt service from the register under section 137.
+  (d) remove the details of a variation of the route or routes, or geographic area of operation, of an exempt service from the register under section 137.
 
 ### 142 Procedure for appeals to District Court
 (1) An appeal under section 141 must be brought, in accordance with the procedure under Part 18 of the District Court Rules 2014, no later than 20 working days after the date on which the appellant was notified under this Act of the decision appealed against or within any further period that the District Court may allow.
@@ -2681,8 +2754,8 @@ If a regional council declines to register an exempt service or record in the re
   (b) $60,000, in the case of a second or subsequent offence against this section.
 (2) However, subsection (1) does not apply if the person was operating in accordance with section 131(3), 153(2), or 154(2).
 
-### 147 Operating public transport services that are not exempt or contracted
-(1) A person who, without reasonable excuse, operates, in a region, a public transport service that is not an exempt service and is not provided as a unit or part of a unit under contract with the regional council commits an offence and is liable on conviction to a fine not exceeding—
+### 147 Operating public transport services that are not exempt or in a unit
+(1) A person who, without reasonable excuse, operates, in a region, a public transport service that is not an exempt service and is not operated in a unit or part of a unit commits an offence and is liable on conviction to a fine not exceeding—
   (a) $30,000, in the case of a first offence against this section; and
   (b) $60,000, in the case of a second or subsequent offence against this section.
 (2) However, subsection (1) does not apply if the person was operating—
@@ -2690,7 +2763,7 @@ If a regional council declines to register an exempt service or record in the re
   (b) under a contract that is funded in accordance with section 26(e).
 
 ### 148 Varying registered exempt services without giving notice required by section 133
-A person who, without reasonable excuse, operates, in a region, a registered exempt service and varies the route or routes, timetables, or stops, stations, or terminals of the registered exempt service without giving the notice required under section 133 commits an offence and is liable on conviction to a fine not exceeding—
+A person who, without reasonable excuse, operates, in a region, a registered exempt service and varies the route or routes, geographic area of operation, timetables, or stops, stations, or terminals of the registered exempt service without giving the notice required under section 133 commits an offence and is liable on conviction to a fine not exceeding—
   (a) $30,000, in the case of a first offence against this section; and
   (b) $60,000, in the case of a second or subsequent offence against this section.
 
@@ -2700,25 +2773,38 @@ A person who, without reasonable excuse, operates, in a region, a registered exe
 
 **Regulations**
 
-### 150 Regulations
-(1) The Governor-General may, by Order in Council, on the recommendation of the Minister tendered on the request of the Agency, make regulations—
-  (a) specifying that a public transport service is an exempt service for the purposes of this Part:
-  (b) requiring an exempt service to be replaced by a unit or part of a unit to be provided under contract:
-  (c) requiring an inter-regional service operating before the commencement of this Part to be contracted as part of a unit, provided the service was receiving a subsidy.
-(2) Before recommending the making of an Order in Council under subsection (1), the Minister must be satisfied that the Agency has consulted any relevant regional council and,—
-  (a) in the case of an Order in Council under subsection (1)﻿(a), that the Agency has consulted the operator of the public transport service, and that—
-    (i) the public transport service, while operating as an exempt service,—
-      (A) will not receive a subsidy for the provision of the service; and
-      (B) will not be an integral part of the relevant region’s public transport network; and
-      (C) will not need its fares to be regulated; or
-    (ii) the public transport service is being provided as part of the local roading network:
-  (b) in the case of an Order in Council under subsection (1)﻿(b), that the Agency has consulted the operator of the public transport service, and that the public transport service—
-    (i) is an integral part of the relevant region’s public transport network; and
-    (ii) needs its fares to be regulated:
-  (c) in the case of an Order in Council under subsection (1)﻿(c), that the Agency has obtained the agreement of the operator of the public transport service.
-(3) For the purposes of subsections (1)﻿(c) and (2)﻿(a)﻿(i)﻿(A), subsidy does not include anything done under an agreement between a regional council and an operator to reduce passenger fares.
-(4) To avoid doubt, the Minister may refuse the Agency's request that the Minister recommend the making of an Order in Council under this section.
-(5) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+### 150 Regulations relating to exempt services
+(1) The Governor-General may, by Order in Council made on the recommendation of the Minister, make regulations—
+  (a) specifying that a public transport service is an exempt service; or
+  (b) requiring an exempt service to be operated in a unit or part of a unit.
+(2) The Minister may make a recommendation for the purposes of subsection (1)﻿(a) only if—
+  (a) the Minister or a regional council has requested the Agency to investigate whether the Minister should recommend making the order; and
+  (b) the Agency, after consulting the operator of the service and the regional council, requests the Minister to recommend making the order; and
+  (c) the Minister is satisfied that the consultation has taken place and that—
+    (i) the service is being, or will be, provided as part of a local roading network; or
+    (ii) the service, while operating as an exempt service,—
+      (A) will not receive a subsidy for its provision; and
+      (B) will not be an integral part of the region’s public transport network; and
+      (C) will not need its fares to be regulated; and
+      (D) will reflect and reinforce the principles set out in section 115(1).
+(3) The Minister may make a recommendation for the purposes of subsection (1)﻿(b) only if—
+  (a) the Minister or a regional council has requested the Agency to investigate whether the Minister should recommend making the order; and
+  (b) the Agency, after consulting the operator of the service and the regional council, requests the Minister to recommend making the order; and
+  (c) the Minister is satisfied that the consultation has taken place and that—
+    (i) the service is integral to the public transport network (whether or not it is identified as such in the relevant regional public transport plan); and
+    (ii) either—
+      (A) the service needs its fares to be regulated; or
+      (B) operating the service in a unit or part of a unit will reflect and reinforce the principles set out in section 115(1); and
+    (iii) the regional council has funding available to support the operation of the service in a unit or part of a unit.
+(4) If the relevant public transport service is an inter-regional public transport service, the following apply:
+  (a) the reference to a regional council in subsections (2)﻿(a) and (3)﻿(a) must be read as a reference to any regional council affected by the service:
+  (b) the reference to the regional council in subsections (2)﻿(b) and (3)﻿(b) must be read as a reference to all affected regional councils:
+  (c) the reference to the regional council in subsection (3)﻿(c)﻿(iii) must be read as a reference to any 1 or more of the affected regional councils:
+  (d) the reference to a local roading network in subsection (2)﻿(c)﻿(i) must be read as a reference to the local roading network of any 1 or more of the affected regions:
+  (e) the reference to a public transport network in subsections (2)﻿(c)﻿(ii)﻿(B) and (3)﻿(c)﻿(i) must be read as a reference to the public transport network of any 1 or more of the affected regions:
+  (f) the reference to the relevant regional public transport plan in subsection (3)﻿(c)﻿(i) must be read as a reference to the regional public transport plan of any 1 or more of the affected regional councils:
+  (g) the references to a unit in subsection (3)﻿(c)﻿(ii)﻿(B) and (iii) must be read as a reference to a unit in any 1 or more of the affected regions.
+(5) Regulations made under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ## Part 6 — Transitional and savings provisions
 
@@ -2868,6 +2954,39 @@ On and from the transfer date, a reference to the Agency in a land transport doc
   (a) the reference relates to a Director function; and
   (b) the document was written or prepared before the transfer date; and
   (c) such a reading is consistent with this Act.
+
+### Part 3 — Provisions relating to Land Transport Management (Regulation of Public Transport) Amendment Act 2023
+
+### 9 Definition
+In this Part, amendment Act means the Land Transport Management (Regulation of Public Transport) Amendment Act 2023.
+
+### 10 Regional public transport plan treated as complying with certain requirements
+(1) This clause applies if a regional council has adopted a regional public transport plan under section 119 before the amendment Act commences.
+(2) On and from the commencement of the amendment Act, the plan must be treated as having been made in accordance with subpart 1 of Part 5 of this Act.
+(3) However, when the plan is first renewed or varied in accordance with section 126, the regional council must, at the same time, comply with all requirements of this Act as amended by the amendment Act (for example, the requirements in sections 115(1) and 120(1)﻿(a)﻿(ia) and (2)﻿(d)).
+
+### 11 Regional public transport plan treated as exempt from complying with certain requirements
+(1) This clause applies if a regional council, immediately before the amendment Act commences,—
+  (a) has a regional public transport plan (a current plan); and
+  (b) is in the process of adopting, varying, or renewing it under section 119.
+(2) The requirement in section 126(1)﻿(a) does not apply to the council’s current plan. However, the process in subclause (1)﻿(b) must be completed as soon as is reasonably practicable.
+(3) To avoid doubt, the new plan must comply with all requirements of this Act as amended by the amendment Act.
+
+### 12 Exempt inter-regional public transport services continue to be exempt
+(1) This clause applies to an inter-regional public transport service—
+  (a) that is operating and receiving a subsidy immediately before the amendment Act commences; and
+  (b) the funding arrangements for which remain substantially the same on and after that commencement.
+(2) Despite sections 114A and 116B, on and from the commencement of the amendment Act, the public transport service—
+  (a) continues to be an exempt service; and
+  (b) may continue to receive a subsidy.
+
+### 13 Regulation-making processes already begun under section 150
+(1) This clause applies if, immediately before the amendment Act commences,—
+  (a) a consultation process under section 150(2) was underway; but
+  (b) regulations have not yet been made under section 150(1).
+(2) On and from the commencement of the amendment Act, all processes of consultation by the Agency and consideration and recommendation by the Minister may continue under section 150(2) as in force immediately before the amendment Act commences.
+(3) If the Minister continues consideration under subclause (2), the Minister’s consideration must be of the matters set out in section 150(2)﻿(a), (b), or (c) (as applicable) as in force immediately before the amendment Act commences.
+(4) Regulations made on a recommendation that is made after consideration under subclause (3) have effect as if they were made under section 150 as in force on and from the commencement of the amendment Act.
 
 ## Schedule 1 — Provisions relating to programmes
 
