@@ -1,5 +1,5 @@
 # Local Government (Auckland Council) Act 2009
-_Consolidation as at 2023-08-24_
+_Consolidation as at 2023-08-31_
 
 ### 1 Title
 This Act is the Local Government (Auckland Council) Act 2009.
@@ -90,7 +90,9 @@ If there is any inconsistency between this Act and the Local Government Act 2002
 **Governing body**
 
 ### 8 Governing body of Auckland Council
-(1) The governing body of the Auckland Council must comprise a mayor and 20 members elected in accordance with the Local Electoral Act 2001.
+(1) The governing body of the Auckland Council must comprise—
+  (a) a mayor elected in accordance with the Local Electoral Act 2001; and
+  (b) no fewer than 5 other members and no more than 29 other members elected in accordance with the Local Electoral Act 2001.
 (2) The mayor must be elected by the electors of Auckland as a whole.
 
 ### 9 Mayor of Auckland
