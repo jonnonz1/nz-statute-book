@@ -1,5 +1,5 @@
 # Commerce Act 1986
-_Consolidation as at 2023-07-10_
+_Consolidation as at 2023-08-31_
 
 > Title
 
@@ -253,6 +253,7 @@ The transitional, savings, and related provisions set out in Schedule 1AA have e
 (2) No less than 3, and no more than 7, of the members, of whom at least 1 must be a barrister and solicitor of at least 5 years' standing, must be appointed by the Governor-General in accordance with section 28(1)﻿(b) of the Crown Entities Act 2004.
 (3) One of the members must be appointed by the Governor-General as Telecommunications Commissioner under section 9 of the Telecommunications Act 2001.
 (3A) One of the members must be appointed by the Governor-General as Grocery Commissioner under section 167 of the Grocery Industry Competition Act 2023.
+(3B) One of the members must be appointed by the Governor-General as Water Services Commissioner under section 129 of the Water Services Economic Efficiency and Consumer Protection Act 2023.
 (4) The Minister must not recommend a person for appointment as a member under subsection (2) unless,—
   (a) in the opinion of the Minister, that person is qualified for appointment, having regard to the functions of the Commission, by virtue of that person's knowledge of or experience in industry, commerce, economics, law, accountancy, public administration, or consumer affairs; and
   (b) in the case of a member who is a barrister or solicitor, the Minister has first consulted with the Attorney-General.
