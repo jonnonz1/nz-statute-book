@@ -1,5 +1,5 @@
 # Sale and Supply of Alcohol Act 2012
-_Consolidation as at 2023-08-24_
+_Consolidation as at 2023-08-31_
 
 ### 1 Title
 This Act is the Sale and Supply of Alcohol Act 2012.
@@ -211,6 +211,9 @@ This Act is the Sale and Supply of Alcohol Act 2012.
   - **territorial authority** —
     (a) has the meaning given by section 5(1) of the Local Government Act 2002; and
     (b) in relation to any premises, means the territorial authority within whose district the premises are situated
+  - **trade competitor** means a person who holds a licence of any type to sell alcohol regardless of—
+    (a) whether the person actually sells alcohol; or
+    (b) where the person sells alcohol
   - **verified the customer's age** means, in a manner of a kind described by regulations made under this Act for the purposes of this definition, ascertained that the customer appears to be of or over the purchase age
   - **wine** , except in section 58(3), means a product that is grape wine or fruit or vegetable wine within the meaning of section 58(3)
   - **working day** means a day of the week other than—
@@ -227,6 +230,9 @@ An example provided in this Act of the operation of a provision of an enactment�
 ### 6 Use of electronic records
 (1) To the extent that this Act makes provision to the effect that any person must or may record, register, or make or keep a record or register of, any information or matter, the person may instead record the information or matter electronically; and this Act must be interpreted accordingly.
 (2) Subsection (1) does not limit or affect any obligation under this Act to display a notice or sign.
+
+### 6A Transitional, savings, and related provisions
+The transitional, savings, and related provisions set out in Schedule 1AA have effect according to their terms.
 
 ### 7 Act binds the Crown
 This Act binds the Crown.
@@ -954,87 +960,58 @@ Two or more territorial authorities may adopt a single local alcohol policy for 
 (3) For the purposes of subsection (2), a district's residents include people who have holiday homes there.
 (4) The authority must not produce a draft policy without having consulted the Police, inspectors, and Medical Officers of Health, each of whom must, if asked by the authority to do so, make reasonable efforts to give the authority any information they hold relating to any of the matters stated in subsection (2)﻿(c) to (g).
 
-### 79 Territorial authority must produce provisional policy by consulting on draft policy using special consultative procedure
-(1) If, after producing a draft policy under section 78, a territorial authority continues to wish to have a local alcohol policy, it must produce a provisional policy by using the special consultative procedure to consult on the draft policy.
-(2) When producing a provisional policy, a territorial authority must have regard to the matters stated in section 78(2).
+### 79 Territorial authority must consult on draft policy using special consultative procedure
+(1) If, after producing a draft policy under section 78, a territorial authority continues to wish to have a local alcohol policy, it must use the special consultative procedure to consult on the draft policy.
+(2) When amending a draft policy as a result of consultation, a territorial authority must have regard to the matters stated in section 78(2).
 
-### 80 Territorial authority wishing to adopt provisional policy must give public notice
-(1) If, after producing a provisional policy under section 79, a territorial authority continues to wish to have a local alcohol policy, it must then give public notice of—
-  (a) the provisional policy; and
-  (b) rights of appeal against it; and
-  (c) the ground on which an appeal may be made.
+### 80 Territorial authority must give public notice of finalised policy
+(1) If, after consulting under section 79 and finalising a local alcohol policy, a territorial authority wishes to adopt the policy, it must give public notice of the policy.
 (2) The public notice must be given in accordance with regulations made under this Act.
+(3) Regulations prescribing the manner in which the public notice must be given may require publication of the whole of the local alcohol policy.
 
-### 81 Right of appeal to licensing authority
-(1) A person or an agency that made submissions as part of the special consultative procedure on a draft local alcohol policy may, within 30 days of the public notification of the resulting provisional local alcohol policy, appeal to the licensing authority against any element of that provisional local alcohol policy.
-(2) The Police or a Medical Officer of Health may, within 30 days of the public notification of the resulting provisional local alcohol policy, appeal to the licensing authority against any element of that provisional local alcohol policy.
-(3) Except as provided in subsection (2), a person or agency that did not make submissions as part of the special consultative procedure on a draft local alcohol policy cannot appeal against any element of the resulting provisional local alcohol policy.
-(4) The only ground on which an element of the provisional policy can be appealed against is that it is unreasonable in the light of the object of this Act.
-(5) The appeal must be made in accordance with regulations made under this Act.
-(6) The territorial authority concerned is the respondent in an appeal under this section.
+### 81 When local alcohol policy adopted
+A local alcohol policy—
+  (a) is adopted 30 days after the date on which it is publicly notified; but
+  (b) has no effect until it is brought into force.
 
-### 82 Appeals to be dealt with in public
-The licensing authority must deal with every appeal under section 81 by way of public hearing (but may consider, and come to its decisions, in private).
+### 82 Territorial authority may discontinue development of local alcohol policy
+A territorial authority may discontinue the development of a local alcohol policy at any time before it is adopted.
 
-### 83 Consideration of appeals by licensing authority
-(1) The licensing authority must dismiss an appeal against an element of a provisional local alcohol policy if it—
-  (a) is not satisfied that the element is unreasonable in the light of the object of this Act; or
-  (b) is satisfied that the appellant did not make submissions as part of the special consultative procedure on the draft local alcohol policy concerned.
-(2) The licensing authority must ask the territorial authority concerned to reconsider an element of a provisional local alcohol policy appealed against if it is satisfied that—
-  (a) the appellant made submissions as part of the special consultative procedure on the draft local alcohol policy concerned; and
-  (b) the element is unreasonable in the light of the object of this Act.
-(3) The licensing authority must notify the appellant and territorial authority of its decision.
-(4) The appellant has no right of appeal against the decision of the licensing authority.
-(5) Subsection (4) does not limit or affect the Judicial Review Procedure Act 2016.
+### 83 Territorial authority may recommence development of local alcohol policy
+(1) A territorial authority may recommence the development of a local alcohol policy that it has discontinued developing.
+(2) If a territorial authority recommences the development of a local alcohol policy, the territorial authority must consult as required under this Act as if it were developing a new local alcohol policy unless the territorial authority—
+  (a) has completed consultation on the local alcohol policy before its development was discontinued; and
+  (b) has recommenced the development of the local alcohol policy within 6 years of the date on which its consultation was completed.
 
 ### 84 Actions territorial authority may take if asked to reconsider element of provisional policy
-(1) If the licensing authority asks a territorial authority to reconsider an element of a provisional local alcohol policy, the territorial authority must—
-  (a) resubmit the policy to the licensing authority with the element deleted; or
-  (b) resubmit the policy to the licensing authority with the element replaced with a new or amended element; or
-  (c) appeal to the High Court against the licensing authority's finding that the element is unreasonable in the light of the object of this Act; or
-  (d) abandon the provisional policy.
-(2) In an appeal to the High Court against the licensing authority's finding that an element of a provisional local alcohol policy is unreasonable in the light of the object of this Act, every person who appealed to the licensing authority against the element is a respondent.
+[Repealed]
 
 ### 85 Effect of High Court decisions on appeal by territorial authority
-(1) If the High Court overturns the licensing authority's finding that an element of a provisional local alcohol policy is unreasonable in the light of the object of this Act, the element stands as part of the policy.
-(2) If the High Court upholds the licensing authority's finding that an element of a provisional local alcohol policy is unreasonable in the light of the object of this Act, the territorial authority must—
-  (a) resubmit the policy to the licensing authority with the element deleted; or
-  (b) resubmit the policy to the licensing authority with the element replaced with a new or amended element; or
-  (c) abandon the provisional policy.
+[Repealed]
 
 ### 86 Effect of resubmission of provisional policy to licensing authority
-(1) The licensing authority must deal with the resubmission of a provisional local alcohol policy under section 84(1)﻿(b) or 85(2)﻿(b) as if it were an appeal against every new or amended element that has replaced an earlier element appealed against; and sections 81 to 85 apply accordingly.
-(2) The licensing authority may deal with all or any part of the resubmission in private.
-(3) Subsection (2) overrides subsection (1) and section 82.
+[Repealed]
 
 ### 87 When local alcohol policy adopted
-(1) If no appeal against any element of a provisional local alcohol policy is made earlier, the policy is adopted 30 days after its public notification.
-(2) If appeals against elements of a provisional local alcohol policy have been made but they have all been dismissed by the licensing authority, the policy is adopted 30 days after the last of them is dismissed.
-(3) If a provisional local alcohol policy has been resubmitted to the licensing authority under section 84(1)﻿(b) or 85(2)﻿(b) and the licensing authority decides that it is satisfied that every element it asked the territorial authority to reconsider (other than an element in respect of which the High Court has overturned the licensing authority's finding that it is unreasonable in the light of the object of this Act) has been either deleted or replaced by a new or amended element that is not unreasonable in the light of the object of this Act, the resubmitted policy is adopted when the licensing authority makes its decision.
-(4) If the High Court has overturned every finding of the licensing authority that an element of a provisional local alcohol policy is unreasonable in the light of the object of this Act, the policy is adopted when the High Court makes its decision.
-(5) A provisional local alcohol policy ceases to be provisional when it is adopted.
-(6) Even after it has been adopted, a local alcohol policy or amendment of a local alcohol policy has no effect until it is brought into force.
+[Repealed]
 
 ### 88 Territorial authority may discontinue development of local alcohol policy
-(1) A territorial authority may at any time before the adoption of a local alcohol policy discontinue its development.
-(2) Subsection (1) overrides section 87(1) to (4).
+[Repealed]
 
 ### 89 Disallowance of local alcohol policy
-(1) Once a provisional local alcohol policy has been adopted and ceased to be provisional,—
+(1) If a local alcohol policy has been adopted,—
   (a) any elements of it relating to maximum trading hours or a one-way-door policy must be treated as secondary legislation under section 161A(2) of the Local Government Act 2002; and subpart 2 of Part 5 of the Legislation Act 2019 (which relates to disallowance) applies accordingly; but
   (b) the rest of it must be treated as not being secondary legislation within the meaning of that Act.
 (2) The disallowance under the Legislation Act 2019 of an element of a local alcohol policy (or of a local alcohol policy that has been brought into force) does not affect the rest of the policy.
 (3) Subsections (1) and (2) apply to any element of an amendment of a local alcohol policy relating to maximum trading hours or a one-way-door policy (whether an amendment of an existing element relating to one of those matters or the insertion of a new or substituted element relating to one of those matters) as if the adoption of the amendment were the adoption of a new policy.
 
 ### 90 When local alcohol policy is in force
-(1) Once a provisional local alcohol policy has been adopted and ceased to be provisional, the territorial authority concerned—
-  (a) must give public notice of its adoption; and
-  (b) may then bring it into force on a day stated by resolution.
+(1) If a local alcohol policy has been adopted, the territorial authority concerned may bring it into force on a day stated by resolution.
 (2) If subsection (6) applies to a local alcohol policy (or an amendment of a local alcohol policy),—
-  (a) the element or elements (or modification or modifications) by virtue of which that subsection applies must not be brought into effect under subsection (1)﻿(b) on a day earlier than the day 3 months after the day on which public notice of its adoption was given; but
-  (b) the rest of the policy or amendment may be brought into effect under subsection (1)﻿(b) on any day stated by resolution.
+  (a) the element or elements (or modification or modifications) by virtue of which that subsection applies must not be brought into effect under subsection (1) on a day earlier than the day 3 months after the day on which public notice of the policy is given (see section 80); but
+  (b) the rest of the policy or amendment may be brought into effect under subsection (1) on any day stated by resolution.
 (3) Subsection (2) overrides subsection (1).
-(4) Regulations prescribing the manner in which public notice of the adoption of a local alcohol policy must be given may require publication of the whole of a local alcohol policy adopted (or, in the case of an amendment of a local alcohol policy, the whole of the policy as amended).
+(4)
 (5) Promptly after adopting a local alcohol policy or an amendment of a local alcohol policy to which subsection (6) applies, the territorial authority must take all reasonably practicable steps to give licensees affected by an element by virtue of which the subsection applies written notice of the adoption of the policy or amendment, and a brief written description of the effect of the element.
 (6) This subsection—
   (a) applies to a local alcohol policy if—
@@ -1105,8 +1082,13 @@ An applicant for a licence must,—
   (b) within 20 working days after filing the application, give public notice of the application.
 
 ### 102 Objections to applications
-(1) A person may object to the grant of a licence only if he or she has a greater interest in the application for the licence than the public generally.
-(2) An objection must be in writing and filed with the licensing committee within 15 working days after the first publication of the public notice of the making of the application.
+(1) Any person may object to an application for the grant of a licence, whether as an individual or as a representative of a group or an organisation.
+(1A) However,—
+  (a) a trade competitor may object to an application only if the trade competitor is directly affected by the application in a way that does not relate to—
+    (i) trade competition; or
+    (ii) the effects of trade competition; and
+  (b) a person may not object to an application if the person receives, or is likely to receive, direct or indirect help from a trade competitor to object to the application.
+(2) An objection must be in writing and filed with the licensing committee within 25 working days after the first publication of the public notice of the making of the application.
 (3) No objection may be made in relation to a matter other than a matter specified in section 105.
 (4) This subsection applies to an application—
   (a) for a licence for premises that is of the same kind as the licence currently in force for those premises; and
@@ -1307,7 +1289,12 @@ Any condition subject to which a licence is issued may do either or both of the 
 (1) The holder of a licence may at any time apply to the licensing committee to vary or cancel any condition of the licence (whether the condition was imposed by the licensing authority or the committee).
 (2) The application must be made in the prescribed form and manner and be accompanied by any prescribed fee.
 (3) The applicant must comply with the notification requirements in section 101.
-(4) A person may object to the grant of the application if he or she has a greater interest in the application than the public generally.
+(4) Any person may object to the grant of the application, whether as an individual or as a representative of a group or an organisation.
+(4A) However,—
+  (a) a trade competitor may object to the grant only if the trade competitor is directly affected by the grant in a way that does not relate to—
+    (i) trade competition; or
+    (ii) the effects of trade competition; and
+  (b) a person may not object to the grant if the person receives, or is likely to receive, direct or indirect help from a trade competitor to object to the grant.
 (5) Every objection must comply with the requirements set out in section 102(2) to (5).
 (6) Sections 103 and 104, with any necessary modifications, apply to applications under this section.
 (7) In considering the application, the licensing authority or licensing committee concerned must have regard to any relevant matter that is specified in section 105.
@@ -1367,8 +1354,13 @@ The licensing authority or licensing committee concerned must not renew a licenc
 (3) The applicant must comply with the notification requirements set out in section 101; but public notice of the application must be given within 10 working days after filing the application, not 20 working days.
 
 ### 128 Objections to renewal
-(1) A person may object to a renewal of a licence if he or she has a greater interest in the application than the public generally.
-(2) Every objection must be in writing, and must be filed with the licensing committee within 15 working days after the first publication of the public notice of the making of the application.
+(1) Any person may object to an application for the renewal of a licence, whether as an individual or as a representative of a group or an organisation.
+(1A) However,—
+  (a) a trade competitor may object to an application only if the trade competitor is directly affected by the application in a way that does not relate to—
+    (i) trade competition; or
+    (ii) the effects of trade competition; and
+  (b) a person may not object to an application if the person receives, or is likely to receive, direct or indirect help from a trade competitor to object to the application.
+(2) Every objection must be in writing, and must be filed with the licensing committee within 25 working days after the first publication of the public notice of the making of the application.
 (3) No objection may be made in relation to any matter other than those stated in section 131.
 (4) The secretary must send a copy of every objection to the applicant.
 
@@ -1405,12 +1397,9 @@ The obligations of the secretary, Police, Medical Officer of Health, and inspect
 **Matters that relate to decisions to renew licences**
 
 ### 133 Renewal of licences where relevant local alcohol policy exists
-(1) In considering whether to renew a licence, the licensing authority or licensing committee concerned must not take into account any inconsistency between a relevant local alcohol policy and—
-  (a) the renewal of the licence; or
-  (b) the consequences of its renewal.
-(2) The licensing authority or licensing committee concerned may impose particular conditions on any licence it renews if—
-  (a) there is any relevant local alcohol policy; and
-  (b) it considers that the renewal of the licence, or the consequences of the renewal of the licence, without those conditions imposed on it would be inconsistent with the policy.
+A licensing committee or the licensing authority may—
+  (a) decline to renew a licence if it considers that renewing the licence would be inconsistent with any policy set out in the relevant local alcohol policy relating to a matter specified in section 77(1)﻿(a) to (d):
+  (b) impose conditions on any licence it renews if it considers that the renewal of the licence, or the consequences of the renewal of the licence, without those conditions would be inconsistent with the relevant local alcohol policy.
 
 ### 134 Licensing committee may decide certain application on papers
 The licensing committee may decide an application for renewal of a licence on the papers if there are no reports opposing renewal, or objections.
@@ -1463,9 +1452,12 @@ An applicant for a special licence—
   (b) if required to do so by the secretary of the licensing committee concerned, must, within 10 working days after filing the application, ensure that notice of the application in the prescribed form is attached in a conspicuous place on or adjacent to the site to which the application relates.
 
 ### 140 Objections to applications
-(1) A person may object to the grant of a special licence only if—
-  (a) he or she has a greater interest in the application for it than the public generally; and
-  (b) the secretary of the licensing committee concerned has under section 139(b) required the applicant to give notice of the application.
+(1) Any person may object to the grant of a special licence, whether as an individual or as a representative of a group or an organisation, but only if the secretary of the licensing committee concerned has under section 139(b) required the applicant to give notice of the application for the grant.
+(1A) However,—
+  (a) a trade competitor may object to the grant under subsection (1) only if the trade competitor is directly affected by the grant in a way that does not relate to—
+    (i) trade competition; or
+    (ii) the effects of trade competition; and
+  (b) a person may not object to the grant under subsection (1) if the person receives, or is likely to receive, direct or indirect help from a trade competitor to object to the grant.
 (2) An objection must be in writing, and filed with the licensing committee within any period the secretary requires after the applicant has complied with the requirement under section 139(b).
 (3) No objection may be made in relation to a matter other than a matter specified in section 142.
 (4) The secretary must give a copy of every objection to the applicant.
@@ -3855,6 +3847,34 @@ This Act must be read as if the amendments to section 360 and Schedule 1 made by
 (2) Sections 4, 10, 11, 13, 19, 20, 22(a), (c), and (d), 32, 33, 35, 42, 43, 45(a), (c), and (d), 56, 57, 59, 65, 66, 68(a), (c), and (d), and 77 to 79 of the Sale of Liquor Act 1989 are repealed.
 (3) The Sale of Liquor Act 1989 is repealed.
 
+## Schedule 1AA — Transitional, savings, and related provisions
+
+### Part 1 — Provisions relating to this Act
+
+### Part 2 — Provisions relating to Sale and Supply of Alcohol (Community Participation) Amendment Act 2023
+
+### 1 Transitional provisions in respect of certain local alcohol policies
+Interpretation
+(1) In this clause,—
+  - **new rules** means this Act and the Sale and Supply of Alcohol Regulations 2013, as in force on the commencement of this clause
+  - **old rules** means this Act and the Sale and Supply of Alcohol Regulations 2013, as in force immediately before the commencement of this clause.
+Draft local alcohol policies
+(2) The new rules apply to a draft local alcohol policy in existence immediately before the commencement of this clause as if it were produced under section 78 (as in force on the commencement of this clause).
+Provisional local alcohol policies
+(3) The old rules continue to apply to a provisional local alcohol policy in existence immediately before the commencement of this clause if an appeal has been made against any element of the policy under section 81 (as in force immediately before the commencement of this clause).
+(4) The new rules apply to a provisional local alcohol policy in existence immediately before the commencement of this clause as if it were a draft local alcohol policy that has been consulted on under section 79 (as in force on the commencement of this clause) and finalised, if no public notice of the policy has been given under section 80(1) (as in force immediately before the commencement of this clause).
+(5) The new rules apply to a provisional local alcohol policy in existence immediately before the commencement of this clause as if it were a finalised local alcohol policy in respect of which public notice has been given under section 80 (as in force on the commencement of this clause), if the following conditions are met:
+  (a) public notice of the policy has been given under section 80(1) (as in force immediately before the commencement of this clause); and
+  (b) no appeal has been made against any element of the policy under section 81 (as in force immediately before the commencement of this clause).
+Adopted local alcohol policies
+(6) The new rules apply to an adopted local alcohol policy in existence immediately before the commencement of this clause as if it were a local alcohol policy adopted under section 81 (as in force on the commencement of this clause).
+
+### 2 Transitional provisions in respect of applications for licences
+(1) This clause applies to an application for a licence that is lodged before the commencement of this clause but not determined before that commencement.
+(2) If this clause applies,—
+  (a) in the case of proceedings begun before the commencement of this clause, the procedures specified in this Act immediately before the commencement of this clause continue to apply as if the Sale and Supply of Alcohol (Community Participation) Amendment Act 2023 had not been enacted:
+  (b) in the case of proceedings not begun before the commencement of this clause, the procedures specified in this Act immediately after the commencement of this clause (as amended by the Sale and Supply of Alcohol (Community Participation) Amendment Act 2023) apply.
+
 ## Schedule 1 — Existing licensing and community trusts
 
 ## Schedule 2 — Consequential amendments to other enactments
@@ -3902,7 +3922,7 @@ Despite the Sale and Supply of Alcohol Act 2012, an on-licence granted under tha
 | Sun 17 Sep, 1.00 NZST | Sat 16 Sep, 15.00 CEST | Samoa v Chile |
 | Sun 17 Sep, 3.45 NZST | Sat 16 Sep, 17.45 CEST | Wales v Portugal |
 | Sun 17 Sep, 7.00 NZST | Sat 16 Sep, 21.00 CEST | Ireland v Tonga |
-| Mon 18, 1.00 NZST | Sun 17 Sep, 15.00 CEST | South Africa v Romania |
+| Mon 18 Sep, 1.00 NZST | Sun 17 Sep, 15.00 CEST | South Africa v Romania |
 | Mon 18 Sep, 3.45 NZST | Sun 17 Sep, 17.45 CEST | Australia v Fiji |
 | Mon 18 Sep, 7.00 NZST | Sun 17 Sep, 21.00 CEST | England v Japan |
 | Thurs 21 Sep, 3.45 NZST | Wed 20 Sep, 17.45 CEST | Italy v Uruguay |
