@@ -1,5 +1,5 @@
 # Local Electoral Act 2001
-_Consolidation as at 2023-08-24_
+_Consolidation as at 2023-08-31_
 
 ### 1 Title
 This Act is the Local Electoral Act 2001.
@@ -49,6 +49,7 @@ The purpose of this Act is to modernise the law governing the conduct of local e
 ### 5 Interpretation
 (1) In this Act, unless the context otherwise requires,—
   - **allotment** has the meaning given by section 575 of the Natural and Built Environment Act 2023
+  - **assessment date** means a date after the last periodic census on which the Government Statistician assessed the number of persons
   - **candidate** —
     (a) means a person who has been nominated as a candidate in any election; and
     (b) includes, in Parts 5 and 5A, a person who has declared his or her intention of becoming a candidate
@@ -74,6 +75,16 @@ The purpose of this Act is to modernise the law governing the conduct of local e
     (a) the system commonly known as First Past the Post:
     (b) the system commonly known as Single Transferable Voting (STV) using the New Zealand method of counting single transferable votes
   - **electronic** includes electrical, digital, magnetic, optical, electromagnetic, biometric, and photonic
+  - **estimated general electoral population** means the estimated total ordinarily resident population as at the assessment date with the exception of the estimated Māori electoral population
+  - **estimated Māori electoral population** means an estimated figure representing both the persons registered as electors of the Māori electoral districts and a proportion of Māori persons who are not registered as electors of any electoral district and a proportion of Māori persons under the age of 18 years, which figure must be fixed—
+    (a) by ascertaining a proportion determined by dividing—
+      (i) the total number of persons, on the assessment date,—
+        (A) registered as electors of Māori electoral districts; or
+        (B) named on the dormant rolls for Māori electoral districts; by
+      (ii) the total number of Māori persons, on the assessment date,—
+        (A) registered as electors of Māori electoral districts or General electoral districts; or
+        (B) named on the dormant rolls for Māori electoral districts or General electoral districts; and
+    (b) by applying the proportion ascertained under paragraph (a) to the total number of ordinarily resident Māori persons on the assessment date
   - **extraordinary vacancy** means a vacancy occurring in any elective office except for the purpose of any triennial or other general election
   - **First Past the Post** means the electoral system that is described generally in section 5A
   - **general constituency** , in relation to a region, means every constituency of the region that is not a Māori constituency
@@ -117,6 +128,7 @@ The purpose of this Act is to modernise the law governing the conduct of local e
   - **Single Transferable Voting** means the electoral system described generally in section 5B
   - **subdivision** means a ward of a district of a territorial authority, a constituency of a region, a subdivision of a local board area or community, or any other division of a local government area for electoral purposes or for the purposes of any poll
   - **territorial authority** has the same meaning as in section 5(1) of the Local Government Act 2002; but does not include the Minister of the Crown who is responsible for the administration of that Act
+  - **unitary authority** has the meaning given in section 5(1) of the Local Government Act 2002
   - **voting document** includes, if appropriate provision for electronic voting is made in regulations under this Act,—
     (a) an electronic document or electronic message that is designed to enable a voter to record his or her vote at an election or poll and transmit it electronically for counting; and
     (b) any copy of that document or message (with or without the voter's vote recorded); and
@@ -424,6 +436,23 @@ Every governing body of a regional council is to consist of not fewer than 6 mem
     (ii) the number of members proposed to be elected by the electors of each subdivision.
 (3) Nothing in this section limits the provisions of section 19F.
 
+### 19JAA Review of local board area boundaries by unitary authority
+(1) A unitary authority may, when it passes a resolution under section 19H, determine by that resolution not only the matters referred to in that section but also new proposed boundaries of local board areas in the district of the unitary authority.
+(2) In determining new proposed boundaries of local board areas, the unitary authority must ensure that—
+  (a) the population affected by the new proposed boundaries will not exceed the population transfer limit prescribed by regulations made under this Act; and
+  (b) the boundaries of the local board areas will—
+    (i) enable democratic local decision making by, and on behalf of, communities of interest throughout the district; and
+    (ii) enable equitable provision to be made for the current and future well-being of all communities of interest within the affected area; and
+  (c) the boundaries of local board areas coincide with boundaries of the current statistical meshblock areas determined by Statistics New Zealand and used for parliamentary electoral purposes; and
+  (d) so far as is practicable, local board area boundaries coincide with ward boundaries.
+(3) Regulations may—
+  (a) prescribe a population transfer limit by specifying a limit on the proportion of the population of an existing local board area that would, if the new proposed boundaries were to take effect,—
+    (i) cease to be included in the population of that local board area; or
+    (ii) be added to the population of that local board area:
+  (b) apply different population transfer limits in different circumstances:
+  (c) set out 1 or more methods by which the applicable population transfer limit is calculated.
+(4) This section does not prevent a unitary authority from applying to the Local Government Commission for an alteration of the boundaries of local board areas as part of a local government reorganisation under the Local Government Act 2002 instead of determining new proposed boundaries of local board areas in accordance with this section.
+
 ### 19JA Minor alterations to boundaries by territorial authority
 (1) A territorial authority may, in accordance with this section, determine by resolution new proposed boundaries of wards, communities, or subdivisions of local board areas or communities of the district of the territorial authority.
 (2) The territorial authority must be satisfied that,—
@@ -471,13 +500,17 @@ Every governing body of a regional council is to consist of not fewer than 6 mem
   (c) has, since the last triennial general election, already made a resolution under this section that was upheld by the Commission under subsection (6)﻿(b).
 
 ### 19K Requirements for resolution
-(1AA) A resolution under section 19H, 19I, or 19J that affects the next triennial general election of members of a territorial authority, regional council, local board, or community board must be passed no earlier than 1 March of the year before the year of the election.
+(1AA) A resolution under section 19H, 19I, 19J, or 19JAA that affects the next triennial general election of members of a territorial authority, regional council, local board, or community board must be passed no earlier than 20 December of the year that is 2 years before the year of the election and no later than 31 July of the year that is immediately before the year of the election.
 (1) Every resolution specified in subsection (3) must include or be accompanied by a description of each proposed ward, constituency, community, or subdivision, and its proposed boundaries, so as to make each proposed ward, constituency, community, or subdivision readily identifiable to the public.
-(2) If any resolution under section 19H or section 19I or section 19J proposes any change to the basis of election, membership, or ward, constituency, community, or subdivision boundaries which applied at the last triennial general election of members of the territorial authority, regional council, local board, or community board, that resolution must include an explanation of the reasons for the proposed change.
-(3) Subsection (1) applies to every resolution under section 19H(1)﻿(a)﻿(ii) or section 19H(1)﻿(a)﻿(iii) or section 19H(1)﻿(g) or section 19I(1) or section 19J(2)﻿(a) or section 19J(2)﻿(b) or section 19J(2)﻿(c) or section 19J(2)﻿(d) or section 19J(2)﻿(e) or section 19J(2)﻿(h)﻿(iii).
+(2) If any resolution under section 19H, 19I, 19J, or 19JAA proposes any change to the basis of election, membership, or boundaries of wards, constituencies, communities, local board areas, or subdivisions of local board areas which applied at the last triennial general election of members of the territorial authority, regional council, local board, or community board, that resolution must include an explanation of the reasons for the proposed change.
+(3) Subsection (1) applies to every resolution under any of the following provisions:
+  (a) section 19H(1)﻿(a)﻿(ii) or (iii) or (g):
+  (b) section 19I(1):
+  (c) section 19J(2)﻿(a) to (e) or (h)﻿(iii):
+  (d) section 19JAA(1).
 
 ### 19L Distribution of copies of resolution
-If a territorial authority or regional council makes a resolution under section 19H or section 19I or section 19J, that territorial authority or regional council must, as soon as practicable after making that resolution,—
+If a territorial authority or regional council makes a resolution under section 19H, 19I, 19J, or 19JAA, that territorial authority or regional council must, as soon as practicable after making that resolution,—
   (a) send a copy of that resolution to—
     (i) the Commission; and
     (ii) the Surveyor-General; and
@@ -487,7 +520,7 @@ If a territorial authority or regional council makes a resolution under section 
   (c) in the case of a resolution made by a territorial authority, send a copy of that resolution to any regional council for a region in which the district of the territorial authority or any part of that district is situated.
 
 ### 19M Public notice of proposals and responsibilities in relation to submissions
-(1) A territorial authority or regional council that makes a resolution under section 19H or section 19I or section 19J must, within 14 days after making the resolution (but, in the year immediately before the year of a triennial general election, not later than 8 September), give public notice of the proposals contained in the resolution.
+(1) A territorial authority or regional council that makes a resolution under section 19H, 19I, 19J, or 19JAA must, within 14 days after making the resolution (but, in the year immediately before the year of a triennial general election, not later than 8 August), give public notice of the proposals contained in the resolution.
 (2) The public notice must—
   (a) include a statement about how persons interested in the proposals may inspect the full proposals; and
   (b) specify the communities of interest considered by the territorial authority or regional council as required by section 19T and section 19V or, as the case may require, section 19U and section 19V; and
@@ -504,8 +537,8 @@ If a territorial authority or regional council makes a resolution under section 
   (d) subject to the Local Government Official Information and Meetings Act 1987, make all written submissions on a resolution of that kind available to the public.
 
 ### 19N Response to submissions
-(1) The territorial authority or regional council must, within 6 weeks after the end of the period allowed for the making of submissions and specified in the notice given under section 19M,—
-  (a) consider all submissions received and may, by resolution, make such amendments to the resolution made under section 19H or section 19I or section 19J, as the case may be, as it thinks fit; and
+(1) The territorial authority or regional council must, within 8 weeks after the end of the period allowed for the making of submissions and specified in the notice given under section 19M,—
+  (a) consider all submissions received and may, by resolution, make such amendments to the resolution made under section 19H, 19I, 19J, or 19JAA, as the case may be, as it thinks fit; and
   (b) give public notice of its proposals.
 (2) The public notice must—
   (a) incorporate any amendments resolved under subsection (1)﻿(a); and
@@ -524,23 +557,23 @@ If a territorial authority or regional council makes a resolution under section 
   (c) if that notice was given by a regional council, send a copy of that notice to every territorial authority whose district or a part of whose district is within the region.
 
 ### 19O Appeals
-(1) Any person who or organisation (including a local board or community board) that has made submissions on a resolution made under section 19H or section 19I or section 19J may lodge a written appeal against the decision of the territorial authority or regional council at the principal office of the territorial authority or regional council on or before the date specified in the public notice of that decision.
+(1) Any person who or organisation (including a local board or community board) that has made submissions on a resolution made under section 19H, 19I, 19J, or 19JAA may lodge a written appeal against the decision of the territorial authority or regional council at the principal office of the territorial authority or regional council on or before the date specified in the public notice of that decision.
 (2) That date—
   (a) must not be earlier than 1 month after the date of the first or only publication of the public notice; and
-  (b) must not, in a year immediately before the year of a triennial general election, be later than 20 December.
+  (b) must not, in a year immediately before the year of a triennial general election, be later than 3 December.
 (3) An appeal lodged under this section—
   (a) must identify the matters to which the appeal relates:
   (b) may raise only those matters that were raised in the appellants' submissions.
 
 ### 19P Objections
-(1) If the territorial authority or regional council has, under section 19N(1)﻿(a), amended the resolution made by it under section 19H or section 19I or section 19J, any interested person or organisation (including a local board or community board) may lodge a written objection to the amended resolution at the principal office of the territorial authority or regional council on or before the date specified in the public notice, which date must be the same date as that specified for the closing of receipt of appeals under section 19O.
+(1) If the territorial authority or regional council has, under section 19N(1)﻿(a), amended the resolution made by it under section 19H, 19I, 19J, or 19JAA, any interested person or organisation (including a local board or community board) may lodge a written objection to the amended resolution at the principal office of the territorial authority or regional council on or before the date specified in the public notice, which date must be the same date as that specified for the closing of receipt of appeals under section 19O.
 (2) An objection lodged under this section must identify the matters to which the objection relates.
 
 ### 19Q Obligation to forward appeals and objections to Commission
-If the territorial authority or regional council receives any appeal under section 19O or any objection under section 19P, the territorial authority or regional council must, as soon as practicable, but, in the year of a triennial general election, in no case later than 15 January, forward to the Commission—
-  (a) the resolution made under section 19H or section 19I or section 19J and any resolution made under section 19N(1)﻿(a) that made amendments to the resolution made under section 19H or section 19I or section 19J; and
+If the territorial authority or regional council receives any appeal under section 19O or any objection under section 19P, the territorial authority or regional council must, as soon as practicable, but, in a year immediately before the year of a triennial general election, in no case later than 20 December, forward to the Commission—
+  (a) the resolution made under section 19H, 19I, 19J, or 19JAA and any resolution made under section 19N(1)﻿(a) that made amendments to the resolution made under section 19H or section 19I or section 19J; and
   (b) a copy of the public notice given under section 19N(1)﻿(b); and
-  (c) every submission made to the territorial authority or regional council on the resolution made by the territorial authority or regional council under section 19H or section 19I or section 19J; and
+  (c) every submission made to the territorial authority or regional council on the resolution made by the territorial authority or regional council under section 19H, 19I, 19J, or 19JAA; and
   (d) every appeal and objection received by the territorial authority or regional council under section 19O or section 19P; and
   (e) such information concerning the communities of interest and population of the district or region or local board area or community, or any proposed ward or constituency or subdivision, as is held by the territorial authority or regional council and is necessary for the purposes of section 19R.
 
@@ -550,7 +583,8 @@ If the territorial authority or regional council receives any appeal under secti
   (b) subject to sections 19T and 19V in the case of a territorial authority, and to sections 19U and 19V in the case of a regional council, determine,—
     (i) in the case of a territorial authority that has made a resolution under section 19H, the matters specified in that section:
     (ii) in the case of a regional council that has made a resolution under section 19I, the matters specified in that section:
-    (iii) in the case of a territorial authority that has made a resolution under section 19J, the matters specified in that section.
+    (iii) in the case of a territorial authority that has made a resolution under section 19J, the matters specified in that section:
+    (iv) in the case of a unitary authority that has made a resolution under section 19JAA, the matters specified in that section.
 (2) For the purposes of making a determination under subsection (1)﻿(b), the Commission—
   (a) may make any enquiries that it considers appropriate; and
   (b) may hold, but is not obliged to hold, meetings with the territorial authority or regional council or any persons who have lodged an appeal or objection and have indicated a desire to be heard by the Commission in relation to that appeal or objection.
@@ -813,7 +847,7 @@ Two or more electors of a local government area or, in the case of an election i
 (2) If the local authority has passed a resolution under section 27 that takes effect at the next triennial election, every notice under subsection (1) must include—
   (a) notice of that resolution; and
   (b) a statement that a poll is required to countermand that resolution.
-(2A) Despite subsections (1) and (2), if, on or before the date referred to in subsection (1), the local authority has passed a resolution under section 31 and has specified a date for the holding of the poll that is on or before 21 May in the year before the next triennial general election, subsection (1) does not apply.
+(2A) Despite subsections (1) and (2), if, on or before the date referred to in subsection (1), the local authority has passed a resolution under section 31 and has specified a date for the holding of the poll that is on or before 14 March in the year before the next triennial general election, subsection (1) does not apply.
 (3) This section is subject to section 32.
 
 ### 29 Electors may demand poll
@@ -841,18 +875,18 @@ Two or more electors of a local government area or, in the case of an election i
 (3) Every elector who signs a demand must state, against his or her signature,—
   (a) the elector's name; and
   (b) the address for which the person is qualified as an elector of the local authority.
-(3A) If a valid demand is received after 21 February in the year before the next triennial general election, the poll required by the demand—
-  (a) must be held after 21 May in that year; and
+(3A) If a valid demand is received after 11 December in the year that is 2 years before the next triennial general election, the poll required by the demand—
+  (a) must be held after 14 March in the year before that election; and
   (b) has effect in accordance with section 34(2) (which provides that the poll has effect for the purposes of the next but one triennial general election of the local authority and the subsequent triennial general election).
-(4) The chief executive of the local authority must, as soon as is practicable, give notice to the electoral officer of every valid demand for a poll made in accordance with section 29 and this section.
+(4) The chief executive of the local authority must, within 2 working days after receiving it, give notice to the electoral officer of every valid demand for a poll made in accordance with section 29 and this section.
 (5) This section is subject to section 32.
 
 ### 31 Local authority may resolve to hold poll
-(1) A local authority may, no later than 21 February in the year immediately before the year in which the next triennial general election is to be held, resolve that a poll be held on a proposal that a specified electoral system be used for the elections of the local authority and its local boards or community boards (if any).
+(1) A local authority may, no later than 11 December in the year that is 2 years before the year in which the next triennial general election is to be held, resolve that a poll be held on a proposal that a specified electoral system be used for the elections of the local authority and its local boards or community boards (if any).
 (2) A resolution may, but need not, specify a date on which the poll is to be held.
 (2A) The date specified for the holding of a poll must not be a date that would require deferral of the poll under section 138A.
 (3) The chief executive of the local authority must give notice to the electoral officer of any resolution under subsection (1),—
-  (a) if no date for the holding of the poll is specified in the resolution, as soon as is practicable:
+  (a) if no date for the holding of the poll is specified in the resolution, within 2 working days after the resolution is made:
   (b) if a date for the holding of the poll is specified in the resolution, at an appropriate time that enables the poll to be conducted in accordance with section 33(3).
 (4) This section is subject to section 32.
 
@@ -869,7 +903,7 @@ Sections 27 to 31 do not apply if—
   (b) the last notice referred to in subsection (2) is received.
 (3A) Subsection (3) is subject to subsection (2), section 30(3A) and section 138A.
 (3B) Voters at a poll held under this section decide the proposal or proposals that are the subject of the poll by voting for one of the electoral systems named in the voting document or, as the case may require, expressing a preference in respect of each of the electoral systems named in the voting document.
-(4) Every poll under this section that is held in conjunction with a triennial general election or held after that election but not later than 21 May in the year immediately before the year in which the next triennial general election is to be held determines whether the electoral system to be used for the next 2 triennial general elections of the local authority and its local boards or community boards (if any) and any associated election is to be—
+(4) Every poll under this section that is held in conjunction with a triennial general election or held after that election but not later than 14 March in the year immediately before the year in which the next triennial general election is to be held determines whether the electoral system to be used for the next 2 triennial general elections of the local authority and its local boards or community boards (if any) and any associated election is to be—
   (a) the electoral system used at the previous general election of the local authority; or
   (b) the electoral system specified in any resolution under section 27; or
   (c) the electoral system specified in any demand submitted within the appropriate period of which the electoral officer has received notice under section 30(4) and, if notice of more than 1 such demand is received, one of the systems specified in those demands and, if so, which one; or
@@ -881,7 +915,7 @@ Sections 27 to 31 do not apply if—
   (d) the electoral system specified in any resolution of which the electoral officer has received notice under section 31(3).
 
 ### 34 Effect of poll
-(1) If a poll is held under section 33 in conjunction with a triennial general election or held after that election but not later than 21 May in the year immediately before the year in which the next triennial general election is to be held, the electoral system adopted or confirmed must be used—
+(1) If a poll is held under section 33 in conjunction with a triennial general election or held after that election but not later than 14 March in the year immediately before the year in which the next triennial general election is to be held, the electoral system adopted or confirmed must be used—
   (a) for the next 2 triennial general elections:
   (b) for any associated election:
   (c) for all subsequent triennial general elections, elections to fill extraordinary vacancies, and elections called under section 258I or 258M of the Local Government Act 2002, until a further resolution under section 27 takes effect or a further poll held under section 33 takes effect, whichever occurs first.
@@ -1070,7 +1104,7 @@ In the case of a poll, a notice under section 52 must also—
     (i) the nomination paper required by subsection (1):
     (ii) the consent and certification required by paragraph (a):
     (iii) the deposit required by paragraph (e).
-(3) The consent and certification required by subsection (2)﻿(a) may be given in a manner other than in writing that is approved by the electoral officer, if the person nominated is outside New Zealand.
+(3) The consent and certification required by subsection (2)﻿(a) may be given in a manner other than in writing that is approved by the electoral officer.
 (4) A nomination under subsection (1) must state—
   (a) the name under which the candidate is seeking election:
   (b) any organisation or group with which the candidate claims to be affiliated for the purposes of identifying that affiliation in the voting documents at the election:
@@ -1519,16 +1553,25 @@ In every case to which section 88B or section 88C applies, the period of 21 days
   (b) in accordance with section 102G(2)﻿(b) or regulations made under this Act.
 (5) In this section and in section 102C, specified materials means those documents or records specified in regulations made under this Act as materials to which this section applies.
 
-## Part 4 — Disputed elections and polls
+## Part 4 — Recounts and inquiries
 
 **Recount of votes cast at election**
 
-### 90 Application for recount
-(1) If any candidate has reason to believe that the public declaration by the electoral officer of the number of votes received by any candidate is incorrect, and that on a recount of those votes the first-mentioned candidate might be elected, he or she may, within 3 days after the public declaration, apply to a District Court Judge for a recount of the votes.
+### 90 Application by candidate for recount
+(1) If any candidate has reason to believe that the public declaration by the electoral officer of the number of votes received by any candidate is incorrect, and that on a recount of those votes the first-mentioned candidate might be elected, he or she may, within 3 working days after the public declaration, apply to a District Court Judge for a recount of the votes.
 (2) Every application for a recount must be accompanied by the prescribed deposit.
 (3) If the District Court Judge is satisfied that the applicant has reasonable grounds to believe that the declaration is incorrect and that on a recount the applicant might be elected, the District Court Judge must, as soon as practicable after receiving the application, and the deposit required by subsection (2),—
   (a) cause a recount of the votes to be made; and
   (b) give notice in writing to the electoral officer and to each of the candidates and to each scrutineer appointed under section 66 or section 91 of the time and place at which the recount will be made.
+
+### 90A Application by electoral officer for recount
+(1) An electoral officer must apply to a District Court Judge for a recount if—
+  (a) an equal number of votes is received by 2 or more candidates in an election; and
+  (b) the addition of 1 vote would entitle one of those candidates to be declared elected.
+(2) The application must be made as soon as practicable after all valid votes have been counted and before the official results are declared.
+(3) The District Court Judge must, as soon as practicable after receiving the application,—
+  (a) cause a recount of the votes to be made; and
+  (b) give notice in writing to the electoral officer, each of the candidates, and each scrutineer appointed under section 66 or 91 of the time and place at which the recount will be made.
 
 ### 91 Scrutineers at recount
 (1) Each candidate may, by notice in writing, appoint 1 or more scrutineers for the recount, whether or not the candidate has already appointed 1 or more scrutineers under section 66.
@@ -1541,7 +1584,25 @@ In every case to which section 88B or section 88C applies, the period of 21 days
   (a) must, as far as is practicable, be made in the manner provided in the case of the original count unless the District Court Judge orders otherwise; and
   (b) section 74 (relating to security and secrecy) applies, with any necessary modifications, to the recount.
 (3) If, on the recount, the District Court Judge finds that the public declaration was incorrect, the Judge must order the electoral officer to give an amended declaration under section 86 of the result of the election.
-(4) The District Court Judge may make any order as to the costs of, and incidental to, the recount that the Judge considers just and, subject to any order, must direct the deposit made under section 90 to be returned to the person who made it.
+(4)
+
+### 92A Costs of recount
+(1) If the recount is conducted on application by a candidate under section 90, the District Court Judge—
+  (a) may make any order as to the costs of, and incidental to, the recount that the Judge considers just; and
+  (b) subject to any order, must direct that the deposit required by section 90 be returned to the person who paid it.
+(2) If the recount is conducted on application by an electoral officer under section 90A, the District Court Judge must order the local authority to meet the costs of, and incidental to, the recount, unless the Judge considers that it would be unreasonable for the local authority to bear those costs.
+
+### 92B Affected candidate may withdraw if votes tied after recount
+(1) This section applies if—
+  (a) a recount determines that an equal number of votes has been received by 2 or more candidates (the affected candidates); and
+  (b) the addition of 1 vote would entitle any of those affected candidates to be declared elected.
+(2) An affected candidate may withdraw as a candidate for election by giving notice in writing (a notice of withdrawal) to the electoral officer within 3 working days after the recount.
+(3) A notice of withdrawal may be submitted by hand, post, fax, or electronic transmission.
+(4) If the electoral officer receives a notice of withdrawal from an affected candidate in accordance with subsections (2) and (3), that candidate ceases to be available for election.
+(5) However, a notice of withdrawal is ineffective and the affected candidate who gave it (the relevant affected candidate) does not cease to be available for election if—
+  (a) the electoral officer has received notices of withdrawal from all the affected candidates in accordance with subsections (2) and (3); and
+  (b) the notice of withdrawal given by the relevant affected candidate was the notice received last by the electoral officer.
+(6) If only 1 candidate remains available for election at the close of the third working day after the recount, the electoral officer must give an amended declaration under section 86 of the result of the election.
 
 **Petition for inquiry into election or poll**
 
@@ -2392,12 +2453,24 @@ In this Part, unless the context otherwise requires,—
 (1) This clause applies to an electoral officer who, during the period of 89 days before the commencement date, gives public notice of a poll in accordance with section 19ZF(1).
 (2) The electoral officer must, as soon as practicable after the commencement date, give public notice that the poll will not be held.
 
+### Part 2 — Provisions relating to Local Government Electoral Legislation Act 2023
+
+### 8 Interpretation
+In this Part,—
+  - **amendment Act** means the Local Government Electoral Legislation Act 2023
+  - **commencement date** means the date on which sections 30 to 34 of the amendment Act come into force.
+
+### 9 Transitional provision relating to certain recounts
+The amendments made by sections 30 to 34 of the amendment Act apply in respect of an election if—
+  (a) the electoral officer has given public notice of the election before the commencement date and nominations for the election close after the commencement date; or
+  (b) on or after the commencement date, the electoral officer gives public notice under section 52, or fresh public notice under section 120(3), of the election.
+
 ## Schedule 1 — New Zealand method of counting single transferable votes
 
 ## Schedule 1A — Provisions relating to Māori wards and Māori constituencies
 
 ### 1 Review of representation arrangements for election of territorial authority
-(1) If, for the purposes of a triennial general election, a district of a territorial authority (being a district that is not already divided into 1 or more Māori wards) is required to be divided into 1 or more Māori wards, the territorial authority must, in the year immediately before the year in which the triennial general election is to be held, but not later than 31 August in the year immediately before the year in which the triennial general election is to be held, make a determination under section 19H.
+(1) If, for the purposes of a triennial general election, a district of a territorial authority (being a district that is not already divided into 1 or more Māori wards) is required to be divided into 1 or more Māori wards, the territorial authority must, in the year immediately before the year in which the triennial general election is to be held, but not later than 31 July in the year immediately before the year in which the triennial general election is to be held, make a determination under section 19H.
 (2) That determination must be made as if the territorial authority were required by section 19H to determine by resolution, in accordance with Part 1A,—
   (a) the proposed number of members of the territorial authority (other than the mayor); and
   (b) whether—
@@ -2413,8 +2486,8 @@ In this Part, unless the context otherwise requires,—
 ### 2 Calculation of number of Māori and general ward members
 (1) The number of members to be elected by the electors of 1 or more Māori wards of the district of a territorial authority (Māori ward members) is to be determined in accordance with the following formula:nmm = mepd ÷ (mepd + gepd) × nmwhere—
   (nmm) is the number of Māori ward members
-  (mepd) is the Māori electoral population of the district
-  (gepd) is the general electoral population of the district
+  (mepd) is the Māori electoral population or estimated Māori electoral population of the district
+  (gepd) is the general electoral population or estimated general electoral population of the district
   (nm) is the proposed number of members of the territorial authority (other than the mayor).
 (2) If a determination is made under clause 1(2)﻿(b)﻿(ii), the definition of nm in the formula must be applied as if for the words proposed number of members of the territorial authority (other than the mayor) there were substituted the words proposed number of members of the territorial authority (other than the mayor and the members to be elected by electors of the district as a whole).
 (3) If the number of the Māori ward members (other than the mayor) calculated under subclause (1) includes a fraction, the fraction must be disregarded unless it exceeds a half. If the fraction exceeds a half, the number of Māori ward members must be the next whole number above the number that includes the fraction.
@@ -2424,7 +2497,7 @@ In this Part, unless the context otherwise requires,—
   (b) the provisions of clauses 1, 5, and 6 of this schedule must not be applied for the purposes of any determination under section 19H or section 19R.
 
 ### 3 Review of representation arrangements for election of regional council
-(1) If, for the purposes of a triennial general election, a region of a regional council (being a region that is not already divided into 1 or more Māori constituencies) is required to be divided into 1 or more Māori constituencies, the regional council must, in the year immediately before the year in which the triennial general election is to be held, but not later than 31 August in the year immediately before the year in which the triennial general election is to be held, make a determination under section 19I.
+(1) If, for the purposes of a triennial general election, a region of a regional council (being a region that is not already divided into 1 or more Māori constituencies) is required to be divided into 1 or more Māori constituencies, the regional council must, in the year immediately before the year in which the triennial general election is to be held, but not later than 31 July in the year immediately before the year in which the triennial general election is to be held, make a determination under section 19I.
 (2) That determination must be made as if the regional council were required by section 19I to determine by resolution, in accordance with Part 1A,—
   (a) the proposed number of members of the regional council; and
   (b) the proposed number of members of the regional council to be elected by the electors of 1 or more Māori constituencies; and
@@ -2436,8 +2509,8 @@ In this Part, unless the context otherwise requires,—
 ### 4 Calculation of number of Māori and general constituency members
 (1) The number of members to be elected by the electors of 1 or more Māori constituencies of a regional council (Māori constituency members) is to be determined in accordance with the following formula:nmm = mepr ÷ (mepr + gepr) × nmwhere—
   (nmm) is the number of Māori constituency members
-  (mepr) is the Māori electoral population of the region
-  (gepr) is the general electoral population of the region
+  (mepr) is the Māori electoral population or estimated Māori electoral population of the region
+  (gepr) is the general electoral population or estimated general electoral population of the region
   (nm) is the proposed number of members of the regional council.
 (2) If the number of the Māori constituency members calculated under subclause (1) includes a fraction, the fraction must be disregarded unless it exceeds a half. If the fraction exceeds a half, the number of Māori constituency members must be the next whole number above the number that includes the fraction.
 (3) The number of members to be elected by the electors of 1 or more general constituencies is to be determined by subtracting from the proposed number of members of the regional council the number of Māori constituency members, as calculated under subclauses (1) and (2).
@@ -2455,17 +2528,22 @@ In this Part, unless the context otherwise requires,—
 ### 6 Supplementary provisions regarding wards, constituencies, and boundaries
 In determining the number of wards and the boundaries of Māori wards, and the number of constituencies and the boundaries of Māori constituencies, a territorial authority or regional council or, as the case may require, the Commission must, in addition to satisfying the requirements of section 19T or section 19U,—
   (a) ensure, to the extent that is reasonably practicable and is consistent with the requirements of paragraph (b), that—
-    (i) the ratio of members to Māori electoral population in each Māori ward produces a variance of no more than plus or minus 10% (if 2 or more Māori wards for the district are proposed); and
-    (ii) the ratio of members to Māori electoral population in each Māori constituency produces a variance of no more than plus or minus 10% (if 2 or more Māori constituencies for the region are proposed):
+    (i) the ratio of members to Māori electoral population or estimated Māori electoral population in each Māori ward produces a variance of no more than plus or minus 10% (if 2 or more Māori wards for the district are proposed); and
+    (ii) the ratio of members to Māori electoral population or estimated Māori electoral population in each Māori constituency produces a variance of no more than plus or minus 10% (if 2 or more Māori constituencies for the region are proposed):
   (b) have regard to—
     (i) the boundaries of any existing Māori electoral district; and
-    (ii) communities of interest and tribal affiliations.
+    (ii) communities of interest; and
+    (iii) rohe of iwi and hapū.
 
 ### 7 Population figures
-(1) The Government Statistician must, at the request of a territorial authority or regional council or, if appropriate, the Commission, supply the territorial authority or regional council or the Commission with a certificate—
-  (a) specifying the Māori electoral population for the district or region; and
-  (b) the general electoral population of the district or region.
-(2) The numbers included in the certificate must be derived from information contained in—
+(1) The Government Statistician must, at the request of a territorial authority or regional council or, if appropriate, the Commission, supply the territorial authority or regional council or the Commission with—
+  (a) a certificate specifying—
+    (i) the Māori electoral population of the district or region; and
+    (ii) the general electoral population of the district or region; or
+  (b) a certificate specifying—
+    (i) the estimated Māori electoral population of the district or region; and
+    (ii) the estimated general electoral population of the district or region.
+(2) The numbers included in the certificate described in subclause (1)﻿(a) must be derived from information contained in—
   (a) the most recent report of the Government Statistician to the Surveyor-General and the other members of the Representation Commission made under section 35(6) of the Electoral Act 1993; or
   (b) if subclause (2A) applies, the alternative report referred to in subclause (2A)﻿(b).
 (2A) In a year where a periodic census is held but a report under section 35(6) of the Electoral Act 1993 is not due to be completed (for the purposes of that Act) until after 1 April of the following year (see the definition of counting day in section 79(2) of that Act),—
