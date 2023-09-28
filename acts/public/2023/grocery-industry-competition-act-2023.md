@@ -1,5 +1,5 @@
 # Grocery Industry Competition Act 2023
-_Consolidation as at 2023-06-26_
+_Consolidation as at 2023-09-28_
 
 ### 1 Title
 This Act is the Grocery Industry Competition Act 2023.
