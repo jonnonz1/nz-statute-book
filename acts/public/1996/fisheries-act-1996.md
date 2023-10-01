@@ -1,5 +1,5 @@
 # Fisheries Act 1996
-_Consolidation as at 2023-08-24_
+_Consolidation as at 2023-10-01_
 
 > An Act—ato reform and restate the law relating to fisheries resources; andbto recognise New Zealand's international obligations relating to fishing; andcto provide for related matters
 
@@ -129,7 +129,7 @@ _Consolidation as at 2023-08-24_
   - **fishing vessel** means any vessel that is capable of being used for fishing
   - **Fishing Vessel Register** means the Fishing Vessel Register kept under section 98
   - **fishing year** means,—
-    (a) in relation to rock lobster, southern scallops, Northland scallops, southern blue whiting, or any other stock declared under a notice made under section 18 to have a fishing year commencing on 1 April in any year, a period of 12 months commencing on each 1 April:
+    (a) in relation to green-lipped mussel in quota management area 9, rock lobster, southern scallops, Northland scallops, southern blue whiting, or any stock declared under a notice made under section 18 to have a fishing year commencing on 1 April in any year, a period of 12 months commencing on each 1 April:
     (aa) in relation to freshwater eel subject to an Order in Council under section 369L(1), a period of 12 months commencing on each 1 February:
     (b) in relation to any other quota management stock, a period of 12 months commencing on each 1 October:
     (c) in relation to any stock not subject to the quota management system, a period of 12 months commencing on each 1 October, unless otherwise prescribed
@@ -6408,7 +6408,7 @@ Section 369L(3) expires with the close of 31 January 2007.
 
 ### 369S Green-lipped mussel in quota management area 9 subject to quota management system
 (1) On 1 October 2004 green-lipped mussel in quota management area 9 become subject to the quota management system under Part 4.
-(2) The fishing year for green-lipped mussel in quota management area 9 is the 12-month period commencing on 1 October.
+(2) The fishing year for green-lipped mussel in quota management area 9 is the 12-month period commencing on 1 April.
 (3) The total allowable commercial catch and annual catch entitlement for green-lipped mussel in quota management area 9 are to be expressed in greenweight.
 (4) In this section, the reference to quota management area 9 is a reference to the fishery management area 9 described in Part 1 of Schedule 1.
 (5) Each person named in the first column of Schedule 15 is allocated the amount of quota shares for green-lipped mussel in quota management area 9 set out in the third column of that schedule opposite that person's name.
@@ -6446,7 +6446,7 @@ In this Part,—
   - **relevant enactment** means an enactment specified in a table in clause 6, 7, or 8.
 
 ### 4 2023–24 fishing year for green-lipped mussel in quota management area 9
-[Not in force]
+Despite the definition of fishing year in section 2(1), and section 369S(2), the fishing year for green-lipped mussel in quota management area 9 for 2023–24 is the 6-month period commencing on 1 October 2023 and ending at the close of 31 March 2024.
 
 ### 5 Continuation of certain regulations
 (1) This clause applies to the Fisheries (Amateur Fishing) Regulations 2013.
@@ -8106,9 +8106,9 @@ Despite the repeal of section 262 of the principal Act by this Act, any order un
 (3) For this purpose, the principal Act must be read as if—
   (a) the definition of individual catch entitlement in section 2(1) of that Act had not been repealed by section 3(5) of this Act:
   (b) section 31 of the principal Act had not been repealed by section 8 of this Act, and section 29A of that Act (as inserted by section 7 of this Act) did not apply:
-  (c) section 32(1) of the principal Ac had not been amended in the manner set out in section 10(1) of this Act:
+  (c) section 32(1) of the principal Act had not been amended in the manner set out in section 10(1) of this Act:
   (d) sections 39 to 41 of the principal Act had not been repealed by section 15 of this Act:
-  (e) section 51 of the principal Act had not been amended in the manner set out in section 24of this Act:
+  (e) section 51 of the principal Act had not been amended in the manner set out in section 24 of this Act:
   (f) section 92(1A)﻿(a)﻿(i) of the principal Act (as substituted by section 37 of this Act) read as if it referred to quantities, as well as to areas or methods.
 (4) The fishstock codes used in subsection (1) have the same meanings as in Parts 1 and 2 of Schedule 3 of the Fisheries (Reporting) Regulations 2001.
 
@@ -8118,6 +8118,7 @@ This Act is the Overseas Investment Act 2005.
 ### 2 Commencement
 (1) This Act comes into force on a date to be appointed by the Governor-General by Order in Council.
 (2) One or more Orders in Council may be made appointing different dates for the commencement of different provisions.
+(3) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ## Part 2 — Consent and conditions regime
 
