@@ -1,5 +1,5 @@
 # Severe Weather Emergency Recovery Legislation Act 2023
-_Consolidation as at 2023-04-12_
+_Consolidation as at 2023-10-01_
 
 ### 1 Title
 This Act is the Severe Weather Emergency Recovery Legislation Act 2023.
@@ -291,65 +291,34 @@ If the Minister makes a recommendation under section 19, the Minister’s reason
 ### Subpart 1 — Amendments to Local Government Act 2002
 
 ### 22 Principal Act
-This subpart amends the Local Government Act 2002.
+[Repealed]
 
 **Special consultative procedure**
 
 ### 23 New sections 83B and 83C inserted
-After section 83A, insert:InterpretationUse of special consultative procedure during recovery from severe weather events
-  (1) In sections 83C, 93DA, 94A, and 95AAA and Schedule 8,—
-    - **severe weather event** means any of the following weather events:
-      (a) Cyclone Hale, which crossed the North Island during the period commencing on 8 January 2023 and ending on 12 January 2023:
-      (b) heavy rainfall commencing on 26 January 2023 and ending on 3 February 2023 in the Northland, Auckland, Waikato, and Bay of Plenty regions:
-      (c) Cyclone Gabrielle, which crossed the North Island during the period commencing on 12 February 2023 and ending on 16 February 2023
-    - **severe weather events affected area** has the same meaning as in section 4(1) of the Severe Weather Emergency Recovery Legislation Act 2023.
-  (2) This section is repealed on the close of 30 September 2023.
-  (1) A local authority that is required, by this Act or any other legislation, to use or adopt the special consultative procedure may take the modified approach to using the special consultative procedure that is set out in this section, in a severe weather events affected area.
-  (2) When making decisions about the timing and manner of consultation steps in the course of using the special consultative procedure, the local authority may rely on 1 or more of the modifications set out in subsection (3).
-  (3) The modifications to the special consultative procedure are as follows:
-    (a) the minimum period referred to in section 83(1)﻿(b)﻿(iii) is 14 days:
-    (b) the matters set out in section 83(1)﻿(d) and (e) are highly desirable but not mandatory.
-  (4) This section is repealed on the close of 30 September 2023.
+[Repealed]
 
 **Amendment of long-term plans**
 
 ### 24 New section 93DA inserted (Amendments to long-term plan after severe weather events)
-After section 93D, insert:Amendments to long-term plan after severe weather events
-  (1) This section applies to a local authority using the special consultative procedure in making an amendment to the authority’s current long-term plan that applies in severe weather events affected areas.
-  (2) Despite section 93D(4), the local authority may adopt a consultation document that does not contain a report from the Auditor-General as required by that provision if the local authority is satisfied that obtaining and including the report will prevent the authority from amending the long-term plan.
-  (3) This section is repealed on the close of 30 September 2023.
+[Repealed]
 
 ### 25 New section 94A inserted (Long-term plan amended during recovery from severe weather events)
-After section 94, insert:Long-term plan amended during recovery from severe weather events
-  (1) This section applies to a long-term plan that is amended using a special consultative procedure in which the local authority adopts a consultation document of a kind authorised by section 93DA(2) for use in a severe weather events affected area.
-  (2) Despite section 94(2), the amended long-term plan is not required to contain a report by the Auditor-General of the kind required by that provision.
-  (3) However, the amended long-term plan must contain a statement—
-    (a) that the plan incorporates an amendment that has not been audited; and
-    (b) that includes the reasons why the amendment was not audited.
-  (4) The local authority must include a statement under subsection (3) in the amended long-term plan immediately before the Auditor-General’s report under section 94(1).
-  (5) This section is repealed on the close of 30 September 2023.
+[Repealed]
 
 ### 26 New section 95AAA inserted (2023/2024 annual plan due date)
-After section 95, insert:2023/2024 annual plan due date
-  (1) Section 95(3) does not apply to a local authority in a severe weather events affected area.
-  (2) An annual plan that applies to a severe weather events affected area and that relates to the 2023/2024 financial year must be adopted before 30 September 2023.
-  (3) This section is repealed on the close of 30 September 2023.
+[Repealed]
 
 ### 27 Schedule 8 amended
-In Schedule 8, after clause 4, insert:2023/2024 statement of intent
-  (1) Clause 4 does not apply to a local authority in a severe weather events affected area.
-  (2) The shareholders of a council-controlled organisation in a severe weather events affected area may, by written notice, extend a deadline specified in clause 1(2), 2, or 3 for a period or periods not exceeding in total 3 calendar months.
-  (3) This clause is repealed on the close of 30 September 2023.
+[Repealed]
 
 ### Subpart 2 — Amendment to Local Government (Auckland Council) Act 2009
 
 ### 28 Principal Act
-This subpart amends the Local Government (Auckland Council) Act 2009.
+[Repealed]
 
 ### 29 New section 96A inserted (Timing of public meeting for shareholder feedback on 2023/2024 statement of intent)
-After section 96, insert:Timing of public meeting for shareholder feedback on 2023/2024 statement of intent
-  (1) The meeting otherwise required to be held under section 96(2)﻿(a) before 30 June 2023 to consider the 2023/2024 draft statement of intent may instead be held on any date before 30 September 2023.
-  (2) This section is repealed on the close of 30 September 2023.
+[Repealed]
 
 ### Subpart 3 — Amendments to Resource Management Act 1991
 
