@@ -1,5 +1,5 @@
 # Water Services Act 2021
-_Consolidation as at 2023-08-31_
+_Consolidation as at 2023-10-04_
 
 ### 1 Title
 This Act is the Water Services Act 2021.
@@ -1454,6 +1454,21 @@ An enforceable undertaking takes effect and becomes enforceable when the chief e
 (4) The wastewater network operator must—
   (a) review its final risk management plan every 5 years; and
   (b) provide the updated plan to Taumata Arowai as soon as practicable following the review.
+
+### Subpart 7A — Provisions relating to stormwater networks
+
+### 139A Stormwater environmental performance standards
+(1) Taumata Arowai may, after carrying out consultation under section 53 with each stormwater network operator, regional council, mana whenua, and any other person it considers appropriate, make stormwater environmental performance standards, including (without limitation) standards relating to—
+  (a) the environmental performance of the stormwater network, including the quality and quantity of stormwater:
+  (b) inundation of people and property as a result of the performance of the stormwater networks:
+  (c) discharges to air, water, or land.
+(2) Stormwater environmental performance standards may include (without limitation) requirements, limits, conditions, or prohibitions.
+(3) Stormwater environmental performance standards—
+  (a) may apply—
+    (i) to all stormwater networks and their operators; or
+    (ii) to classes of stormwater network and their operators; but
+  (b) must not apply to an individual stormwater network or stormwater network operator.
+(4) Stormwater environmental performance standards made under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### Subpart 8 — Monitoring and reporting on environmental performance of networks
 
