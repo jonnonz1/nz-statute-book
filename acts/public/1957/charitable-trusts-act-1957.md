@@ -1,5 +1,5 @@
 # Charitable Trusts Act 1957
-_Consolidation as at 2022-07-01_
+_Consolidation as at 2023-10-05_
 
 > An Act to consolidate and amend certain enactments of the Parliament of New Zealand relating to charitable trusts
 
@@ -35,9 +35,8 @@ Where any property is vested in or held by any person in trust for or for the be
 
 ### 6 Interpretation
 In this Part, unless the context otherwise requires,—
-  - **Assistant Registrar** means an Assistant Registrar of Incorporated Societies under the Incorporated Societies Act 1908
   - **board** means any trustees or society incorporated as a board under this Part
-  - **Registrar** means the Registrar of Incorporated Societies under the Incorporated Societies Act 1908; and includes an Assistant Registrar.
+  - **Registrar** means the Registrar of Incorporated Societies under the Incorporated Societies Act 2022.
 
 ### 7 Trustees may apply for incorporation
 (1) The trustees of any trust which is exclusively or principally for charitable purposes may apply to the Registrar in accordance with this Part for the incorporation of the trustees as a board under this Part.
@@ -46,16 +45,14 @@ In this Part, unless the context otherwise requires,—
   (b) unless they are authorised to do so by the society.
 (3) Every such application for incorporation shall be in form 1 of Schedule 2, or to the like effect and shall be signed by a majority of the trustees.
 
-### 8 Society may apply for incorporation
-(1) Any society which exists exclusively or principally for charitable purposes may apply to the Registrar in accordance with this Part for the incorporation of the society as a board under this Part.
-(2) No such application shall be made by any society—
-  (a) if the society is already incorporated under any other Act or otherwise:
-  (b) if the trustees for the general purposes of the society are themselves incorporated under this Part or any other Act or otherwise:
-  (c) unless the application is authorised by the society.
-(3) Every such application for incorporation shall be in form 2 of Schedule 2, or to the like effect, and shall be signed by not less than 5 members of the society or by a majority of the trustees of the society.
+### 8 Applications for incorporation may no longer be made by societies
+(1) An application for the incorporation of a society as a board under this Part may not be made on or after the commencement date.
+(2) An application for the incorporation of a society as a board under this Part that is made before the commencement date must be considered and determined as if the Incorporated Societies Act 2022 had not been enacted.
+(3) In this section, commencement date means the date on which section 261 of the Incorporated Societies Act 2022 comes into force.
+(4) See section 30A, which allows a society that is incorporated as a board under this Part to choose to reregister as a society under the Incorporated Societies Act 2022.
 
 ### 9 Manner in which society may authorise application
-For the purposes of sections 7 and 8, an application shall be deemed to be authorised by a society, if—
+For the purposes of section 7, an application shall be deemed to be authorised by a society, if—
   (a) it is authorised by a majority of the members of that society; or
   (b) a resolution authorising the making of the application is passed by a majority of those present at a meeting of that society, and the Registrar is satisfied that such notice of intention to hold that meeting and of its purpose was given as may be reasonable in the circumstances; or
   (c) the application is authorised by the rules of the society or by any other means provided in those rules.
@@ -63,17 +60,17 @@ For the purposes of sections 7 and 8, an application shall be deemed to be autho
 ### 10 Applications for incorporation
 (1) Each subscriber to an application for incorporation must add the subscriber's name and address to the subscriber's signature.
 (2) Every application for incorporation under this Part shall be accompanied by—
-  (a) a copy (certified by one of the subscribers to the application as a correct copy) of the relevant parts of all wills, declarations of trust, and other documents (if any) showing the general purposes of the trustees or society making the application and the trusts on which the applicant or applicants hold any property that is vested in the applicant or applicants as such and is not held for the general purposes of the applicant or applicants:
+  (a) a copy (certified by one of the subscribers to the application as a correct copy) of the relevant parts of all wills, declarations of trust, and other documents (if any) showing the general purposes of the trustees making the application and the trusts on which the applicant or applicants hold any property that is vested in the applicant or applicants as such and is not held for the general purposes of the applicant or applicants:
   (b) a statutory declaration made by one of the subscribers to the application setting forth any trusts on which the applicant or applicants hold any property, being trusts not set out in any document or copy of a document accompanying the application:
-  (c) in any case where the application for incorporation is made by a society or by the trustees of a society—
+  (c) in any case where the application for incorporation is made by the trustees of a society—
     (i) a copy of the rules and other documents (if any) providing for the constitution of the society, certified by one of the subscribers to the application as a correct copy of the then current rules and documents, or (where there are neither any such rules nor any such documents) a statutory declaration made by one of the subscribers to the application setting forth the purposes of the society, the manner in which persons become members or cease to be members thereof, and the manner in which the society operates:
     (ii) a statutory declaration made by one of the subscribers to the application to the effect that the application is authorised by the society, and specifying the mode in which it is so authorised.
-(3) If the Registrar considers that any documents accompanying an application do not disclose sufficient information regarding the trusts on which any property is held by the applicant or applicants, or regarding the purposes and constitution of any society, he may refuse to register the trustees or society as provided in this Part until such further information as he requires is supplied to him.
+(3) If the Registrar considers that any documents accompanying an application do not disclose sufficient information regarding the trusts on which any property is held by the applicant or applicants, the Registrar may refuse to register the trustees as provided in this Part until the further information that the Registrar requires is supplied to the Registrar.
 (4) Original documents may in any case accompany any such application instead of copies, and the provisions of subsection (5) of section 29 shall thereupon apply in respect of the documents.
 
 ### 11 Registration of boards
-(1) The Registrar, on being satisfied that the purposes of the trust or society (as the case may be) are exclusively or principally charitable, and that the procedural requirements of this Part have been observed, shall do the following things:
-  (a) enter the name of the board in the register kept by him under this Part, together with particulars as to whether trustees or a society constitute the board, the place of its registered office, and such other particulars as he thinks fit:
+(1) The Registrar, on being satisfied that the purposes of the trust are exclusively or principally charitable, and that the procedural requirements of this Part have been observed, shall do the following things:
+  (a) enter the name of the board in the register kept by the Registrar under this Part, together with details of the place of the board’s registered office and any other details that the Registrar thinks fit:
   (b) issue under his seal a certificate that the board has been incorporated under this Part on the date mentioned in the certificate.
 (2) From the date of incorporation mentioned in the certificate of incorporation the board shall be a body corporate, and shall consist of—
   (a) the persons who are for the time being the trustees of the trust in any case where trustees are incorporated as a board:
@@ -102,7 +99,7 @@ Every board shall have perpetual succession and a common seal, and (subject to t
 (4) A change of name by a board under this section shall not affect any rights or obligations of the board, or render defective any legal proceedings by or against the board, and any legal proceedings that may have been continued or commenced by or against it in its former name may be continued or commenced by or against it in its new name.
 
 ### 17 Right to appeal to court
-(1) Any person dissatisfied with any decision of the Registrar that trustees are not to be registered under this Act, or that a society is not to be so registered, or that a name or change in the name of any board is not to be approved or registered, may appeal to the court against that decision.
+(1) Any person dissatisfied with any decision of the Registrar that trustees are not to be registered under this Act or that a name or change in the name of any board is not to be approved or registered, may appeal to the court against that decision.
 (2) Notice of every such appeal shall be filed in the court and served upon the Registrar within 28 days after the day on which the decision appealed against was given.
 (3) If in any case the appellant does not prosecute his appeal with due diligence, the court, on application made by the Registrar or any person interested, may dismiss the appeal and make such order as to costs as it thinks proper.
 
@@ -204,6 +201,10 @@ On the liquidation of a board or on its dissolution by the Registrar, all surplu
 
 ### 30 Exemption from fees
 Except as provided in section 29, no fee shall be payable to the Registrar in respect of any document made or thing done under or for the purposes of this Part.
+
+### 30A Society may reregister under Incorporated Societies Act 2022
+(1) A society incorporated as a board under this Part may continue to be incorporated under this Part as if this Act had not been amended by sections 259 to 267 of the Incorporated Societies Act 2022.
+(2) However, a society incorporated as a board under this Part may apply to be reregistered as a society under the Incorporated Societies Act 2022 under Part 1 of Schedule 1 of that Act (see clause 2(4) of that schedule).
 
 ## Part 3 — Schemes in respect of certain charitable trusts
 
