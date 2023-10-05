@@ -1,5 +1,5 @@
 # Incorporated Societies Act 2022
-_Consolidation as at 2022-04-05_
+_Consolidation as at 2023-10-05_
 
 ### 1 Title
 This Act is the Incorporated Societies Act 2022.
@@ -445,7 +445,7 @@ A society’s constitution may provide for whether and, if so, how a decision ma
   (a) a person who is under 16 years of age:
   (b) a person who is an undischarged bankrupt:
   (c) a person who is prohibited from being a director or promoter of, or being concerned or taking part in the management of, an incorporated or unincorporated body under the Companies Act 1993, the Financial Markets Conduct Act 2013, or the Takeovers Act 1993:
-  (d) a person who is disqualified from being an officer of a charitable entity under section 31(4)﻿(b) of the Charities Act 2005:
+  (d) a person who is disqualified from being an officer of a charitable entity under section 36C of the Charities Act 2005:
   (e) a person who has been convicted of any of the following, and has been sentenced for the offence, within the last 7 years:
     (i) an offence under subpart 6 of Part 4:
     (ii) a crime involving dishonesty (within the meaning of section 2(1) of the Crimes Act 1961):
