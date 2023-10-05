@@ -1,5 +1,5 @@
 # Charities Act 2005
-_Consolidation as at 2023-07-06_
+_Consolidation as at 2023-10-05_
 
 ### 1 Title
 This Act is the Charities Act 2005.
@@ -34,12 +34,13 @@ The purpose of this Act is—
   - **entity** means any society, institution, or trustees of a trust
   - **Inland Revenue Acts** has the meaning set out in section 3(1) of the Tax Administration Act 1994
   - **Minister** means the Minister of the Crown who, under the authority of any warrant or with the authority of the Prime Minister, is for the time being responsible for the administration of this Act
-  - **officer** —
-    (a) means, in relation to the trustees of a trust, any of those trustees; and
-    (b) means, in relation to any other entity,—
-      (i) a member of the board or governing body of the entity if it has a board or governing body; and
-      (ii) a person occupying a position in the entity that allows the person to exercise significant influence over the management or administration of the entity (for example, a treasurer or a chief executive); and
-    (c) includes any class or classes of persons that are declared by regulations to be officers for the purposes of this Act; but
+  - **officer** , in relation to a charitable entity,—
+    (a) means a person occupying a position in the entity who is able to exercise significant influence over substantial decisions of the entity including, but not limited to,—
+      (i) in relation to a trust, the trustees of the trust; and
+      (ii) in relation to any other entity, a member of the board or governing body of the entity (if it has a board or governing body); and
+      (iii) a person occupying any other position (for example, a chief executive or treasurer) if that position enables them to exercise such influence:
+    (b) includes a person who has powers conferred on them to make decisions that would otherwise fall on the trustees, the board, or the governing body of the entity (regardless of whether the person holds a position in the entity):
+    (c) includes any class or classes of persons declared by regulations to be officers for the purposes of this Act:
     (d) excludes any class or classes of persons that are declared by regulations not to be officers for the purposes of this Act
   - **parent entity** has the meaning set out in section 44
   - **register** or means the register of charitable entities established under section 21
@@ -50,9 +51,10 @@ The purpose of this Act is—
   - **serious wrongdoing** , in relation to an entity, includes any serious wrongdoing of any of the following types:
     (a) an unlawful or a corrupt use of the funds or resources of the entity; or
     (b) an act, omission, or course of conduct that constitutes a serious risk to the public interest in the orderly and appropriate conduct of the affairs of the entity; or
-    (c) an act, omission, or course of conduct that constitutes an offence; or
+    (c) an act, omission, or course of conduct that constitutes an offence punishable by imprisonment for a term of 2 years or more or imprisonment for life; or
     (d) an act, omission, or course of conduct by a person that is oppressive, improperly discriminatory, or grossly negligent, or that constitutes gross mismanagement
-  - **single entity** has the meaning set out in section 44.
+  - **single entity** has the meaning set out in section 44
+  - **Taxation and Charities Review Authority** , or , means an Authority established or deemed to be established under the Taxation Review Authorities Act 1994.
 (2) In this Act, unless the context otherwise requires, references to a person performing functions and exercising powers, or carrying out responsibilities, include carrying out duties.
 (3) An example used in this Act has the following status:
   (a) the example is only illustrative of the provision to which it relates and does not limit the provision; and
@@ -155,6 +157,9 @@ The functions of the chief executive are—
   (a) ask questions concerning the operation of this Act; and
   (b) make submissions on the operation of this Act to the chief executive.
 
+### 12A Chief executive to consult on significant guidelines or recommendations
+The chief executive must consult persons or representatives of persons that the chief executive considers reasonable to consult before issuing significant guidelines or recommendations on the best practice to be observed by charities, officers, and persons concerned with the management or administration of charities.
+
 ## Part 2 — Charitable entities
 
 ### Subpart 1 — Register of charitable entities
@@ -168,7 +173,8 @@ The functions of the chief executive are—
     (i) is established and maintained exclusively for charitable purposes; and
     (ii) is not carried on for the private pecuniary profit of any individual; and
   (c) the entity has a name that complies with section 15; and
-  (d) all of the officers of the entity are qualified to be officers of a charitable entity under section 16.
+  (d) all of the officers of the entity are qualified to be officers of a charitable entity under section 36B; and
+  (e) at any time, at least 1 officer of the entity is 18 years of age or older.
 (2) The trustees of a trust must be treated as complying with subsection (1)﻿(a) if,—
   (a) in accordance with a ruling made under Part 5A of the Tax Administration Act 1994,—
     (i) an amount of income derived by the trustees in trust is treated as having been derived by the trustees in trust for charitable purposes for the purposes of section CW 41 of the Income Tax Act 2007; or
@@ -182,6 +188,16 @@ The functions of the chief executive are—
 (5) Despite subsections (1) to (3), an entity does not qualify for registration as a charitable entity if—
   (a) the entity is a designated terrorist entity as defined in section 4(1) of the Terrorism Suppression Act 2002; or
   (b) the entity has been convicted of any offence under sections 6A to 13F of the Terrorism Suppression Act 2002.
+
+### 13A Charitable entity to remain qualified for registration
+(1) Every charitable entity must remain qualified for registration as a charitable entity at all times.
+(2) To remain qualified for registration, a charitable entity must,—
+  (a) in the case of the trustees of a trust, remain of a kind in relation to which an amount of income is derived by the trustees in trust for charitable purposes:
+  (b) in the case of a society or an institution,—
+    (i) be maintained exclusively for charitable purposes; and
+    (ii) not be carried on for the private pecuniary profit of any individual:
+  (c) have as its officers only persons qualified to be officers of a charitable entity under section 36B:
+  (d) have and maintain rules.
 
 ### 14 Board may act on basis of reasonable assumptions in relation to charitable trusts
 (1) A trust is not prevented from being of a kind referred to in section 13(1)﻿(a) merely because the trustees of the trust have not yet derived an amount of income in trust for charitable purposes if, in the opinion of the Board,—
@@ -200,25 +216,7 @@ The name of an entity complies with this section if—
     (ii) liable to mislead the public.
 
 ### 16 Qualifications of officers of charitable entities
-(1) A person who is not disqualified by this section is qualified to be an officer of a charitable entity.
-(2) The following persons are disqualified from being officers of charitable entities:
-  (a) an individual who is an undischarged bankrupt:
-  (b) an individual who is under the age of 16 years:
-  (c) an individual who, or a body corporate that, has been convicted of either of the following and has been sentenced for the offence within the last 7 years:
-    (i) a crime involving dishonesty (within the meaning of section 2(1) of the Crimes Act 1961):
-    (ii) an offence under section 143B of the Tax Administration Act 1994:
-  (d) an individual who is prohibited from being a director or promoter of, or being concerned or taking part in the management of, an incorporated or unincorporated body under the Companies Act 1993, the Financial Markets Conduct Act 2013, or the Takeovers Act 1993:
-  (e) an individual who, or a body corporate that, is disqualified from being an officer of a charitable entity under section 31(4):
-  (f) an individual who is subject to a property order made under the Protection of Personal and Property Rights Act 1988, or whose property is managed by a trustee corporation under section 32 of that Act:
-  (g) a body corporate that is being wound up, is in liquidation or receivership, or is subject to statutory management under the Corporations (Investigation and Management) Act 1989:
-  (h) in relation to any particular entity, an individual who, or a body corporate that, does not comply with any qualifications for officers contained in the rules of that entity.
-(3) Subsection (2) does not apply to an officer of an entity if that officer was appointed, under an Act, by the Governor-General, by the Governor-General in Council, or by a Minister.
-(4) The Board may waive the application of any of the disqualifying factors set out in subsection (2)﻿(a) to (g) in relation to an officer of that entity.
-(5) If the Board waives the application of a disqualifying factor set out in subsection (2)﻿(a) to (g), the officer to whom the waiver relates must not be treated as being disqualified from being an officer of a charitable entity in relation to the entity by reason of the application of that disqualifying factor.
-(6) The waiver may be granted on any terms or conditions that the Board thinks fit.
-(7) The Board may vary a waiver in the same way as a waiver may be granted under this section.
-(8) The Board may revoke a waiver granted under this section.
-(9) If the Board decides to exercise a power under subsection (4), (7), or (8), it must direct the chief executive to give the entity written notice of the decision.
+[Repealed]
 
 **Applications for registration**
 
@@ -242,9 +240,9 @@ The name of an entity complies with this section if—
   (b) observe the rules of natural justice; and
   (c) give the applicant—
     (i) notice of any matter that might result in its application being declined; and
-    (ii) 20 working days after the date of that notice to make submissions to the chief executive on the matter.
+    (ii) 2 months after the date of that notice to make submissions to the chief executive on the matter.
 (3A) An application is to be treated as withdrawn if an applicant fails to adequately respond to a request under subsection (2) or to make submissions to the chief executive on a matter in a notice given under subsection (3)﻿(c) within—
-  (a) 20 working days after the date of the request or notice; or
+  (a) 2 months after the date of the request or notice; or
   (b) a longer period that the chief executive allows at the request of the applicant.
 (4) Despite subsection (1), the chief executive is not required to consider an application that has been made in breach of section 31(4).
 
@@ -255,8 +253,9 @@ The name of an entity complies with this section if—
   (b) allocate a registration number to the entity; and
   (c) notify the entity of its registration and of its registration number.
 (3) The Board is not required to follow a formal process when it acts under subsection (2).
-(4) If, after considering an application, the Board is not satisfied that an entity is qualified to be registered as a charitable entity, the Board must give the chief executive the reasons for its decision and direct the chief executive to notify the entity of the Board's decision and the reasons for it.
-(5) Before acting under subsection (4) in any case, the Board must be satisfied that the chief executive has complied with section 18(3) in that case.
+(4)
+(5) Before declining an application under this section in any case, the Board must be satisfied that the chief executive has complied with section 18(3) in that case.
+(6) If the Board declines an application under this section, it must, as soon as practicable, publish its decision and the reasons for it on a publicly accessible Internet site maintained by or on behalf of the Board.
 
 ### 20 Board may backdate registration of entity as charitable entity
 (1) The Board may, if it thinks fit, direct the chief executive to register a notice in the register of charitable entities that specifies that an entity must be treated as having become registered as a charitable entity at a time (the effective registration time) that is before the time at which the entity actually became registered as a charitable entity.
@@ -362,13 +361,16 @@ A search of the register for personal information that has not been carried out 
 
 ### 31 Deregistration of charitable entity from register
 (1) An entity is deregistered as a charitable entity if it is removed from the register.
+(1A) The chief executive may recommend to the Board that an entity be deregistered as a charitable entity if the chief executive is satisfied that there are grounds under section 32 for the charity to be removed from the register.
 (2) An entity is removed from the register if the Board directs that a notice be registered in the register that—
   (a) states that the entity is removed from the register; and
   (b) states the date on which the removal is effective.
 (3) The entity ceases to be a charitable entity on the date referred to in subsection (2)﻿(b).
-(4) The Board may, if it has removed an entity from the register, make either or both of the following orders:
-  (a) an order that an application for the re-registration of the entity as a charitable entity must not be made before the expiry of a specified period:
-  (b) an order disqualifying an officer of the entity from being an officer of a charitable entity for a specified period that does not exceed 5 years.
+(4) The Board may, if it has removed an entity from the register, make an order that an application for the re-registration of the entity as a charitable entity must not be made before the expiry of a specified period.
+(5) If the Board directs a notice under subsection (2) to be registered, it must, as soon as practicable, publish the following on a publicly accessible Internet site maintained by or on behalf of the Board:
+  (a) the notice; and
+  (b) the reasons for the notice; and
+  (c) any order made under subsection (4).
 
 ### 32 Grounds for removal from register
 (1) The Board may direct that an entity be removed from the register if—
@@ -415,6 +417,44 @@ The entity and any officer of the entity may send or deliver to the chief execut
   (a) observe the rules of natural justice; and
   (b) give the person a reasonable opportunity to make submissions to the Board on the matter.
 
+### Subpart 1A — Officers of charitable entities
+
+### 36A Role of officer of charitable entity
+The role of an officer of a charitable entity includes assisting the entity to—
+  (a) deliver its charitable purpose; and
+  (b) comply with its obligations under this Act or any other enactment.
+
+### 36B Qualifications of officers of charitable entities
+(1) A person who is not disqualified by this section or section 36C is qualified to be an officer of a charitable entity.
+(2) The following persons are disqualified from being officers of charitable entities:
+  (a) an individual who is an undischarged bankrupt:
+  (b) an individual who is under the age of 16 years:
+  (c) an individual who, or a body corporate that, has been convicted of either of the following and has been sentenced for the offence within the last 7 years:
+    (i) a crime involving dishonesty (within the meaning of section 2(1) of the Crimes Act 1961):
+    (ii) an offence under section 143B of the Tax Administration Act 1994:
+  (d) an individual who is prohibited from being a director or promoter of, or being concerned or taking part in the management of, an incorporated or unincorporated body under the Companies Act 1993, the Financial Markets Conduct Act 2013, or the Takeovers Act 1993:
+  (e) an individual who is subject to a banning order under subpart 7 of Part 4 of the Incorporated Societies Act 2022:
+  (f) an individual who is subject to a property order made under the Protection of Personal and Property Rights Act 1988, or whose property is managed by a trustee corporation under section 32 of that Act:
+  (g) a body corporate that is being wound up, is in liquidation or receivership, or is subject to statutory management under the Corporations (Investigation and Management) Act 1989:
+  (h) an individual who has been convicted of an offence relating to the financing of terrorism under the Terrorism Suppression Act 2002, whether in New Zealand or elsewhere:
+  (i) in relation to any particular entity, an individual who, or a body corporate that, does not comply with any qualifications for officers contained in the rules of that entity.
+(3) Subsection (2) does not apply to an officer of an entity if that officer was appointed, under an Act, by the Governor-General, by the Governor-General in Council, or by a Minister.
+(4) The Board may waive the application of any of the disqualifying factors set out in subsection (2)﻿(a) to (h) in relation to an officer of that entity.
+(5) The waiver may be granted on any terms or conditions that the Board thinks fit.
+(6) If the Board waives the application of a disqualifying factor set out in subsection (2)﻿(a) to (h), the officer to whom the waiver relates must not be treated as being disqualified from being an officer of a charitable entity in relation to the entity by reason of the application of that disqualifying factor.
+(7) If the Board decides to exercise a power under subsection (4), it must direct the chief executive to give the charitable entity written notice of the decision.
+
+### 36C Board may disqualify officer
+(1) The Board may, by notice, disqualify an officer of a charitable entity for a specified period that does not exceed 5 years if—
+  (a) the officer has engaged in serious wrongdoing in connection with the entity; or
+  (b) the officer has failed significantly or persistently to meet their obligations under this Act or any other enactment.
+(2) As soon as practicable after issuing a notice under this section, the Board must publish the notice on a publicly accessible Internet site maintained by or on behalf of the Board.
+(3) In this section and section 36D, an officer of a charitable entity includes a person who was an officer of an entity that has been deregistered as a charitable entity under section 31.
+
+### 36D Effect of disqualification of officer
+(1) A person disqualified from being an officer of a charitable entity under section 36B or 36C may not be an officer of any charitable entity while they are disqualified.
+(2) Disqualification of an officer of a charitable entity under section 36B or 36C does not, unless otherwise provided for, affect the disqualified officer’s role or functions under any other Act or rule of law.
+
 ### Subpart 2 — Duties, inquiries, appeals, and other miscellaneous matters relating to charitable entities
 
 **Holding out offences**
@@ -436,8 +476,8 @@ The entity and any officer of the entity may send or deliver to the chief execut
 
 **Duty of telephone and Internet collectors**
 
-### 39 Duty of telephone and Internet collectors to disclose registration number on request
-If a collector who acts on behalf of a charitable entity is requesting funds, canvassing for subscriptions, selling raffle or lottery tickets, or appealing for donations, by means of the telephone or the Internet, the collector must disclose the registration number of the entity if requested to do so by a member of the public.
+### 39 Duty of collectors to disclose registration number on request
+If a collector who acts on behalf of a charitable entity is requesting funds, canvassing for subscriptions, selling raffle or lottery tickets, or appealing for donations, the collector must disclose the registration number of the entity if requested to do so by a member of the public.
 
 **Duty to notify changes**
 
@@ -550,6 +590,15 @@ If a charitable entity fails to comply with section 42C, the charitable entity c
 (2) The auditor's report must comply with the requirements of all applicable auditing and assurance standards.
 (3) This section does not apply in respect of a charitable entity that is a public entity (within the meaning of the Public Audit Act 2001).
 (4) In this section, applicable auditing and assurance standards has the same meaning as in section 5 of the Financial Reporting Act 2013.
+
+**Duty to review governance procedures**
+
+### 42G Duty to review governance procedures
+(1) A charitable entity must review its governance procedures (whether those are set out in its rules or elsewhere) at least every 3 years.
+(2) When conducting a review under subsection (1), the charitable entity must consider whether its governance procedures—
+  (a) are fit for purpose; and
+  (b) assist the charitable entity to achieve its charitable purpose; and
+  (c) assist the charitable entity to comply with the requirements of this Act.
 
 **Exemptions**
 
