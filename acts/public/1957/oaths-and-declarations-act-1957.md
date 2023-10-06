@@ -1,5 +1,5 @@
 # Oaths and Declarations Act 1957
-_Consolidation as at 2023-04-05_
+_Consolidation as at 2023-10-06_
 
 > An Act to consolidate and amend certain enactments of the Parliament of New Zealand relating to oaths, affirmations, and declarations
 
@@ -115,20 +115,20 @@ Every witness in any civil or criminal proceeding, or in any inquiry or examinat
 ## Part 3 — Promissory oaths and affirmations
 
 ### 17 Oath of allegiance
-The oath in this Act referred to as the oath of allegiance shall be in the form following, that is to say:I, [specify], swear that I will be faithful and bear true allegiance to Her [or His] Majesty [specify the name of the reigning Sovereign, as thus: Queen Elizabeth the Second], Her [or His] heirs and successors, according to law. So help me God.
+The oath in this Act referred to as the oath of allegiance shall be in the form following, that is to say:I, [specify], swear that I will be faithful and bear true allegiance to His [or Her] Majesty [specify the name of the reigning Sovereign, as thus: King Charles the Third], His [or Her] heirs and successors, according to law. So help me God.
 
 ### 18 Judicial oath
-The oath in this Act referred to as the judicial oath shall be in the form following, that is to say:I, [specify], swear that I will well and truly serve Her [or His] Majesty [specify as above], Her [or His] heirs and successors, according to law, in the office of [specify]; and I will do right to all manner of people after the laws and usages of New Zealand, without fear or favour, affection or ill will. So help me God.
+The oath in this Act referred to as the judicial oath shall be in the form following, that is to say:I, [specify], swear that I will well and truly serve His [or Her] Majesty [specify as above], His [or Her] heirs and successors, according to law, in the office of [specify]; and I will do right to all manner of people after the laws and usages of New Zealand, without fear or favour, affection or ill will. So help me God.
 
 ### 19 Executive Councillor's oath
 (1) The oath in this Act referred to as the Executive Councillor's oath shall be in the form following, that is to say:I, [specify], being chosen and admitted of the Executive Council of New Zealand, swear that I will to the best of my judgment, at all times when thereto required, freely give my counsel and advice to the Governor-General for the time being, for the good management of the affairs of New Zealand. That I will not directly nor indirectly reveal such matters as shall be debated in Council and committed to my secrecy, but that I will in all things be a true and faithful Councillor. So help me God.
 (2)
 
 ### 20 Parliamentary Under-Secretary's oath
-The oath in this Act referred to as the Parliamentary Under-Secretary's oath shall be in the form following, that is to say:I, [specify], swear that I will well and truly serve Her [or His] Majesty [specify as above], Her [or His] heirs and successors, according to law, in the office of Parliamentary Under-Secretary. So help me God.
+The oath in this Act referred to as the Parliamentary Under-Secretary's oath shall be in the form following, that is to say:I, [specify], swear that I will well and truly serve His [or Her] Majesty [specify as above], His [or Her] heirs and successors, according to law, in the office of Parliamentary Under-Secretary. So help me God.
 
 ### 21 Official oath
-The oath in this Act referred to as the official oath shall be in the form following, that is to say:I, [specify], swear that I will well and truly serve Her [or His] Majesty [specify as above], Her [or His] heirs and successors, according to law, in the office of [specify]. So help me God.
+The oath in this Act referred to as the official oath shall be in the form following, that is to say:I, [specify], swear that I will well and truly serve His [or Her] Majesty [specify as above], His [or Her] heirs and successors, according to law, in the office of [specify]. So help me God.
 
 **Persons to make and administer oaths**
 
