@@ -1,5 +1,5 @@
 # Marriage Act 1955
-_Consolidation as at 2023-06-15_
+_Consolidation as at 2023-10-06_
 
 > An Act to consolidate and amend the law relating to marriage
 
@@ -222,12 +222,19 @@ The grounds on which a marriage is void ab initio are set out in section 31 of t
 (4) Until the caveat has been withdrawn by the caveator or has been discharged as provided by section 26, no licence in respect of the marriage of the person to whom the caveat relates shall be issued by any Registrar with whom the caveat has been lodged or to whom notice of the caveat has been given in accordance with this section, and no such Registrar shall solemnise the marriage.
 
 ### 26 Discharge of caveat
-(1) On receiving notice under section 23 of an intended marriage against which he or she is aware that a caveat has been lodged, the Registrar shall submit the caveat to a Family Court Judge, or, if a Family Court Judge is not immediately available, to a District Court Judge who shall forthwith inquire into the grounds of objection stated in the caveat, and, if he or she is of the opinion that those grounds should not prevent the solemnisation of the marriage, he or she shall discharge the caveat.
-(2) A caveat shall be deemed to be discharged after the expiration of 1 year from the date on which it was lodged unless within that time a notice of the intended marriage to which the caveat relates has been given.
-(3) Where a Family Court Judge (or a District Court Judge) has refused to discharge a caveat, any person may make an application to a Family Court Judge for the discharge of the caveat and the Family Court Judge, if he or she is of the opinion that there is no longer any reason why the intended marriage should not be solemnised, shall discharge the caveat.
+(1) A caveat is to be treated as discharged 1 year after the date on which it was lodged unless within that time a notice of the marriage to which the caveat relates is given under section 23.
+(2) If the Registrar receives a notice under section 23 of an intended marriage against which the Registrar is aware a caveat has been lodged, the Registrar must submit the caveat to—
+  (a) a Family Court Judge; or
+  (b) a Family Court Associate; or
+  (c) a District Court Judge, if no Family Court Judge or Family Court Associate is immediately available.
+(3) On receiving the caveat, the Judge or Family Court Associate must immediately—
+  (a) inquire into the grounds of objection stated in the caveat; and
+  (b) discharge the caveat if they are of the opinion that those grounds should not prevent the solemnisation of the marriage.
+(4) If a Judge or Family Court Associate has refused to discharge a caveat, any person may apply to a Family Court Judge for the discharge of the caveat.
+(5) On receiving an application under subsection (4), the Judge must discharge the caveat if the Judge is of the opinion that there is no longer any reason why the intended marriage should not be solemnised.
 
 ### 27 Vexatious caveat
-Any person who has lodged a caveat shall, if the court considers the grounds on which the caveat was lodged to be vexatious and unreasonable, be liable for damages.
+A person who lodged a caveat is liable for damages if the Judge or Family Court Associate considers the grounds on which the caveat was lodged vexatious and unreasonable.
 
 ### 28 Registrar to issue licence unless satisfied marriage unlawful
 A Registrar shall issue a marriage licence or solemnise a marriage, as the case may be, unless he or she has reasonable cause to believe that the marriage is prohibited by this Act or that any of the requirements of this Act have not been complied with:
