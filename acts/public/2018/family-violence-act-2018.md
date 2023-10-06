@@ -1,5 +1,5 @@
 # Family Violence Act 2018
-_Consolidation as at 2022-11-30_
+_Consolidation as at 2023-10-06_
 
 ### 1 Title
 This Act is the Family Violence Act 2018.
@@ -1858,15 +1858,15 @@ Court making protection order may make direction for prescribed services
   (a) the Registrar must, if the respondent wishes to be heard, assign a hearing date, which must be—
     (i) as soon as practicable; and
     (ii) unless there are special circumstances, in no case later than 42 days after receipt of the notice of objection; and
-  (b) the direction is suspended from the date on which the court receives the notice of objection until the court, after considering the respondent's objection, confirms (with or without variation) or discharges the direction.
-(4) Nothing in this section or section 190 gives the court power to review any order or decision other than the direction to which the notice relates, but nothing in this section limits section 147 or 151.
+  (b) the direction is suspended from the date on which the court receives the notice of objection until the objection is dealt with under section 190.
+(4) Nothing in this section or section 190 gives a Judge or Family Court Associate power to review any order or decision other than the direction to which the notice relates, but nothing in this section limits section 147 or 151.
 
-### 190 Court may confirm or discharge direction after considering objection
-(1) After considering an objection, made under section 189, to a direction, the court may—
+### 190 Direction may be confirmed, varied, or discharged
+(1) After considering an objection, made under section 189, to a direction, a Judge or Family Court Associate may—
   (a) confirm the direction; or
   (b) vary the direction; or
   (c) discharge the direction.
-(2) If the court under subsection (1) confirms or varies a direction and the respondent is before the court, the Judge must warn the respondent that non-compliance with the direction is an offence punishable by imprisonment.
+(2) If a Judge or Family Court Associate confirms or varies a direction and the respondent is before the court, the Judge or Family Court Associate, as the case may be, must warn the respondent that non-compliance with the direction is an offence punishable by imprisonment.
 (3) Failure to give the warning required by subsection (2) does not affect the validity of the direction confirmed or varied.
 
 ### 191 Referral of respondent to assessor
@@ -1884,14 +1884,14 @@ As soon as possible after receiving a notification under section 191, the assess
 ### 193 When assessments or determinations need not be undertaken or made
 (1) However, the assessor need not undertake or complete an assessment, or make a determination, under section 192, if the assessor considers that there is a good reason for not doing so.
 (2) On making a decision under subsection (1) not to undertake or complete an assessment, or not to make a determination, under section 192, the assessor must notify, and send a copy of the decision to, the Registrar.
-(3) On receiving notification of, and a copy of, the assessor’s decision under subsection (1), the Registrar must bring the matter to the attention of a Judge (see section 206).
+(3) On receiving notification of, and a copy of, the assessor’s decision under subsection (1), the Registrar must bring the matter to the attention of a Family Court Associate or Judge (see section 206).
 
 ### 194 Order of, and delaying, respondent’s attendance or engagement
 (1) Subsection (2) applies to an assessor who makes all or any of the following (unless the assessor also determines under section 192(c) that a prescribed non-standard service, provided by a service provider, may be appropriate for and may benefit the respondent, in which case section 198 applies):
   (a) a determination under section 192(b) that there is an appropriate non-violence programme, provided by a service provider, for the respondent to attend:
   (b) a determination under section 192(c) that a prescribed standard service, provided by a service provider, may be appropriate for and may benefit the respondent.
 (2) The assessor must, in making the 1 or more determinations, decide (jointly with any other assessor referred under section 191 a direction made under section 188 on the making of the protection order) in what order the respondent must attend a non-violence programme or engage with a prescribed standard service, and whether the respondent’s attendance at the programme, or engagement with the prescribed standard service, or both, should be delayed to enable other matters to be addressed first.
-(3) On making a decision under subsection (2) that the respondent’s attendance at the programme, or engagement with the prescribed standard service, or both, should be delayed to enable other matters to be addressed first, the assessor must notify the Registrar, and the Registrar must bring the matter to the attention of a Judge (see section 206).
+(3) On making a decision under subsection (2) that the respondent’s attendance at the programme, or engagement with the prescribed standard service, or both, should be delayed to enable other matters to be addressed first, the assessor must notify the Registrar, and the Registrar must bring the matter to the attention of a Family Court Associate or Judge (see section 206).
 
 ### 195 Assessor to ascertain, etc, victims’ views
 In undertaking an assessment, or making a determination, under section 192, the assessor must, unless the assessor considers it unsafe or otherwise inappropriate to do so,—
@@ -1908,7 +1908,7 @@ In undertaking an assessment, or making a determination, under section 192, the 
 (2) The assessor must, without delay, notify, and copy the 1 or more determinations to, the respondent and the Registrar.
 (3) After receiving a notification under subsection (2), the Registrar must—
   (a) arrange for the protected person to be notified of the 1 or more determinations; and
-  (b) bring the matter to the attention of a Judge (see section 206).
+  (b) bring the matter to the attention of a Family Court Associate or Judge (see section 206).
 
 ### 197 When assessor must refer respondent to service provider
 (1) This section applies if, after undertaking an assessment of the respondent, the assessor makes 1 or both of the following:
@@ -1919,14 +1919,14 @@ In undertaking an assessment, or making a determination, under section 192, the 
   (b) notify the service provider of the relevant direction or directions made under section 188 and of the 1 or more determinations; and
   (c) notify, and copy the 1 or more determinations to, the Registrar.
 
-### 198 Court may direct respondent to engage with prescribed non-standard service
+### 198 Respondent may be directed to engage with non-standard service
 (1) This section applies if the assessor determines under section 192(c) that a prescribed non-standard service, provided by a service provider, may be appropriate for and may benefit the respondent.
 (2) The assessor must promptly notify the Registrar, and send the Registrar—
   (a) the result of the assessment of the respondent undertaken by the assessor; and
-  (b) all information related to the assessor’s determination under section 192(c) that the assessor considers may help a Judge to determine whether to make a direction under subsection (4).
-(3) After receiving a notification under subsection (2), the Registrar must bring the matter to the attention of a Judge.
-(4) When a matter is brought to the attention of a Judge under subsection (3), the Judge may, if the Judge thinks fit, by written direction copied promptly to the respondent, to the assessor, and to the service provider, require the respondent to engage with the prescribed non-standard service as provided by a service provider.
-(5) The Judge, in making the direction, may decide in what order the respondent must attend a non-violence programme or engage with the prescribed non-standard service (or with any prescribed standard services with which the respondent is required to engage), and whether the respondent’s attendance at the programme, or engagement with all or any prescribed services, or both, should be delayed to enable other matters to be addressed first, and may make any other order or direction that may be made under section 206.
+  (b) all information related to the assessor’s determination under section 192(c) that the assessor considers may help a Family Court Associate or Judge to determine whether to make a direction under subsection (4).
+(3) After receiving a notification under subsection (2), the Registrar must bring the matter to the attention of a Family Court Associate or Judge.
+(4) When a matter is brought to the attention of a Family Court Associate or Judge under subsection (3), the Family Court Associate or Judge may, if the Family Court Associate or Judge thinks fit, by written direction copied promptly to the respondent, to the assessor, and to the service provider, require the respondent to engage with the prescribed non-standard service as provided by a service provider.
+(5) The Family Court Associate or Judge, in making the direction, may decide in what order the respondent must attend a non-violence programme or engage with the prescribed non-standard service (or with any prescribed standard services with which the respondent is required to engage), and whether the respondent’s attendance at the programme, or engagement with all or any prescribed services, or both, should be delayed to enable other matters to be addressed first, and may make any other order or direction that may be made under section 206.
 
 ### 199 Referral to different service provider
 (1) This section applies if the service provider—
@@ -1940,13 +1940,13 @@ In undertaking an assessment, or making a determination, under section 192, the 
 (3) After receiving a notification under subsection (2)﻿(a) and the information referred to in subsection (2)﻿(b), the assessor must—
   (a) notify or copy under section 197 or 198(4) (which apply with the necessary modifications) the direction about the programme or prescribed service and the respondent to a service provider that is able to provide that programme or service to the respondent, and notify the Registrar of the respondent’s referral under this paragraph to a different service provider; or
   (b) notify the Registrar.
-(4) After receiving a notification under subsection (3)﻿(b), the Registrar must bring the matter to the attention of a Judge (see section 206).
+(4) After receiving a notification under subsection (3)﻿(b), the Registrar must bring the matter to the attention of a Family Court Associate or Judge (see section 206).
 
 ### 200 Referral back to court if programme or service to be delayed or inappropriate
 (1) This section applies if the service provider, after being notified of, or copied, under section 197 or 198, a direction about a non-violence programme or prescribed service and a respondent, determines that—
   (a) the respondent’s attendance at the programme, or engagement with the service, or both, should be delayed to enable other matters to be addressed first; or
   (b) it would not be appropriate for the respondent to attend the programme, engage with the service, or both.
-(2) The service provider must notify the Registrar, and the Registrar must bring the matter to the attention of a Judge (see section 206).
+(2) The service provider must notify the Registrar, and the Registrar must bring the matter to the attention of a Family Court Associate or Judge (see section 206).
 
 ### 201 Terms of attendance at or engagement with non-violence programme or prescribed service
 (1) Before providing a non-violence programme to a respondent (in line with the direction made under section 188(1)﻿(b) and the determination made under section 192(b)), the service provider must settle in writing with the respondent the terms of attendance, which must include—
@@ -1957,7 +1957,7 @@ In undertaking an assessment, or making a determination, under section 192, the 
 (4) If a service provider is not able to settle with a respondent the terms of attendance or (as the case requires) the terms of engagement, the service provider must notify the Registrar.
 (5) On receipt of a notice under subsection (4), the Registrar must—
   (a) settle the terms of attendance or (as the case requires) the terms of engagement with the respondent and the service provider; or
-  (b) bring the matter to the attention of a Judge (see section 206).
+  (b) bring the matter to the attention of a Family Court Associate or Judge (see section 206).
 
 ### 202 Service provider to ascertain, etc, victims’ views
 In complying with section 201(1) or (2), the service provider must, unless the service provider considers it unsafe or otherwise inappropriate to do so,—
@@ -1979,7 +1979,7 @@ In complying with section 201(1) or (2), the service provider must, unless the s
   (b) send to the Registrar all information that is held by the service provider and that relates to the provision of the non-violence programme or (as the case requires) to the provision of the prescribed service to the respondent.
 (4) After receiving a notification under subsection (3)﻿(a) of a determination (about continued provision of the programme or the prescribed service) under subsection (1)﻿(a) or (2)﻿(a) and the information referred to in subsection (3)﻿(b), the Registrar must—
   (a) make a new referral under section 199 to a different service provider; or
-  (b) bring the matter to the attention of a Judge (see section 206).
+  (b) bring the matter to the attention of a Family Court Associate or Judge (see section 206).
 (5) A service provider who makes a determination (about the respondent’s non-compliance) under subsection (1)﻿(b) or (2)﻿(b) is required by section 207 to give written notice to the Registrar of that determination (and sections 208, 209, 210, and 211 apply accordingly).
 
 ### 204 Report and notice of completion and outcome of programme or service
@@ -1993,9 +1993,9 @@ In complying with section 201(1) or (2), the service provider must, unless the s
   (b) arrange for the protected person to be notified—
     (i) that the respondent has completed a non-violence programme or engagement with a prescribed service; and
     (ii) of any concerns that the service provider has about the safety of the protected person, and that are advised in the report provided under subsection (1).
-(3) The court may release a report under subsection (1) to either or both of the following people on any terms and conditions the court considers necessary or desirable to protect the safety of a protected person:
+(3) A Family Court Associate or Judge may release a report under subsection (1) to either or both of the following people on any terms and conditions the Family Court Associate or Judge considers necessary or desirable to protect the safety of a protected person:
   (a) a respondent:
-  (b) a lawyer acting for a child who made under section 62(2) the application for the protection order.
+  (b) a lawyer acting for a child who, under section 62(2), made the application for the protection order.
 (4) Those terms and conditions may include (without limitation) the timing of the release, whether all, or only a part, of the report is released, and whether a copy of the report or part, or only an explanation of its effect, is released.
 
 **Confidentiality of information**
@@ -2024,8 +2024,8 @@ In complying with section 201(1) or (2), the service provider must, unless the s
 
 **Enforcement and powers when matter referred back to court**
 
-### 206 Powers if matter brought to attention of Judge
-(1) This section applies if the Registrar brings a matter to the attention of a Judge under—
+### 206 Powers if matter brought to attention of Family Court Associate or Judge
+(1) This section applies if the Registrar brings a matter to the attention of a Family Court Associate or Judge under—
   (a) section 193(3) (which applies if an assessor decides under section 193(1) not to undertake or complete an assessment, or not to make a determination, under section 192); or
   (b) section 194(3) (which applies if an assessor decides under section 194(2) that the respondent’s attendance at a non-violence programme, or engagement with a prescribed standard service, or both, should be delayed); or
   (c) section 196(3) (when assessor must refer respondent back to court); or
@@ -2033,20 +2033,23 @@ In complying with section 201(1) or (2), the service provider must, unless the s
   (e) section 200(2) (referral back to court if programme or service to be delayed or inappropriate); or
   (f) section 201(5)﻿(b) (terms of attendance at or engagement with non-violence programme or prescribed service); or
   (g) section 203(4)﻿(b) (which applies if the service provider considers that is no longer appropriate or practicable for the service provider to provide a non-violence programme or prescribed service to the respondent).
-(2) The Judge may make any order or direction the Judge thinks fit in the circumstances.
-(3) The Judge may under subsection (2) do all or any of the following:
+(2) A Family Court Associate may take all or any of the following actions:
   (a) make a direction under section 188(3)﻿(a) and (b) (that the respondent undertake an assessment for prescribed services, and engage with any prescribed standard service, provided by a service provider, that an assessor determines may be appropriate for and may benefit the respondent):
-  (b) suspend, vary or replace, or discharge the direction (to attend a non-violence programme or engage with a prescribed standard service) made under section 188(1)﻿(b) or (3)﻿(b):
-  (c) suspend, vary or replace, or discharge a direction (to engage with a prescribed non-standard service) made under section 198:
+  (b) suspend, vary, replace, or discharge the direction (to attend a non-violence programme or engage with a prescribed standard service) made under section 188(1)﻿(b) or (3)﻿(b):
+  (c) suspend, vary, or replace, or discharge a direction (to engage with a prescribed non-standard service) made under section 198:
   (d) make a direction (to engage with a prescribed non-standard service) under section 198 in respect of the respondent:
-  (e) make under section 199 a referral to a different service provider that is able to provide a non-violence programme or prescribed service to the respondent:
+  (e) make, under section 199, a referral to a different service provider that is able to provide a non-violence programme or prescribed service to the respondent:
   (f) settle the terms of attendance or (as the case requires) the terms of engagement with the respondent and the service provider under section 201:
   (g) make an order or direction under section 204(3) releasing a report under section 204(1) to either or both of the people specified in section 204(3)﻿(a) and (b) on any terms and conditions the court considers necessary or desirable to protect the safety of a protected person:
-  (h) make, or vary or discharge terms or conditions of, a parenting order (interim or final) under the Care of Children Act 2004 relating to or affecting the respondent (in which case the provisions of that Act apply with all necessary modifications).
-(4) Subsection (3) does not limit subsection (2).
+  (h) refer the matter to a Judge to consider whether to take the action set out in subsection (3)﻿(b), or to make any other order or direction under subsection (3)﻿(c).
+(3) A Judge may—
+  (a) take all or any of the actions specified in subsection (2)﻿(a) to (g):
+  (b) make, or vary or discharge terms or conditions of, a parenting order (interim or final) under the Care of Children Act 2004 relating to or affecting the respondent (in which case the provisions of that Act apply with all necessary modifications):
+  (c) make any other order or direction the Judge thinks fit in the circumstances.
+(4)
 
 ### 207 Notice of non-compliance with direction
-(1) This section applies if, after the court makes a direction under section 188 or 198, 1 or more of the following events happen:
+(1) This section applies if, after the court makes a direction under section 188 or a Family Court Associate or Judge makes a direction under section 198, 1 or more of the following events happen:
   (a) the respondent fails to undertake an assessment with the assessor to whom notice of the direction has been given under section 191:
   (b) the respondent fails to attend a non-violence programme in accordance with a direction made under section 188(1)﻿(b) and with the terms of attendance settled under section 201:
   (c) the respondent fails to engage with a prescribed service in accordance with a direction made under section 188(3)﻿(b) or 198 and with the terms of engagement settled under section 201:
@@ -2064,23 +2067,33 @@ In complying with section 201(1) or (2), the service provider must, unless the s
     (ii) that advises of concerns that the service provider has about the safety of any protected person.
 (2) The Registrar must, without delay,—
   (a) exercise the powers under section 169, as if the Registrar were the court referred to in that section, to call the respondent before the court; or
+  (aa) bring the matter to the attention of a Family Court Associate so that the Family Court Associate may consider whether to exercise the power conferred by section 209 in relation to the respondent; or
   (b) bring the matter to the attention of a Judge so that the Judge may consider whether to exercise the power conferred by section 209 in relation to the respondent.
 (3) If the Registrar exercises the powers under section 169 in the manner allowed by subsection (2)﻿(a), then, subject to any regulations made under this Part, section 169 applies, so far as applicable and with the necessary modifications, as if the respondent were a witness in proceedings.
 
-### 209 Judge may call respondent before court
-(1) This section applies if, under section 208(2)﻿(b), a Registrar brings a matter to the attention of a Judge.
-(2) The Judge may exercise the powers under section 169 to call the respondent before the court.
-(3) If the Judge exercises those powers, section 169 applies, so far as applicable and with all necessary modifications, as if the respondent were a witness in proceedings.
+### 209 Family Court Associate or Judge may call respondent before court
+(1) This section applies if the Registrar brings a matter to the attention of—
+  (a) a Family Court Associate under section 208(2)﻿(aa); or
+  (b) a Judge under section 208(2)﻿(b).
+(2) The Family Court Associate or Judge, as the case may be, may exercise the powers under section 169 to call the respondent before the court.
+(3) If the Family Court Associate or Judge exercises those powers, section 169 applies, so far as applicable and with all necessary modifications, as if the respondent were a witness in proceedings.
 
 ### 210 Respondent called before court
-(1) If a respondent appears before the court under section 208(2)﻿(a) or 209(2), the court may, after hearing from the respondent, do all or any of the following:
+(1) If a respondent appears before the court under section 208(2)﻿(a) or section 209(2), a Family Court Associate may, after hearing from the respondent, do all or any of the following:
   (a) admonish the respondent:
-  (b) confirm, vary or replace, or discharge the direction (under section 188 or 198), or change the terms of attendance at or engagement with the programme or prescribed service under section 201:
+  (b) confirm, vary, replace, or discharge the direction (under section 188 or 198), or change the terms of attendance at or engagement with the programme or prescribed service under section 201:
+  (c) make a replacement direction (under section 188 or 198) that requires the respondent to attend or engage with a further, or different, assessment, programme, or prescribed service:
+  (d) refer the matter to a Judge to consider whether to—
+    (i) take the action set out in subsection (2)﻿(d); or
+    (ii) make any other order or direction under subsection (2)﻿(e).
+(2) If a respondent appears before the court under section 208(2)﻿(a) or section 209(2), a Judge may, after hearing from the respondent, do all or any of the following:
+  (a) admonish the respondent:
+  (b) confirm, vary, or replace, or discharge the direction (under section 188 or 198), or change the terms of attendance at or engagement with the programme or prescribed service under section 201:
   (c) make a replacement direction (under section 188 or 198) that requires the respondent to attend or engage with a further, or different, assessment, programme, or prescribed service:
   (d) make, or vary or discharge terms or conditions of, a parenting order (interim or final) under the Care of Children Act 2004 relating to or affecting the respondent (in which case the provisions of that Act apply with all necessary modifications):
-  (e) make any order or direction the court thinks fit in the circumstances.
-(2) If the court confirms or varies a direction under subsection (1), the Judge must warn the respondent that non-compliance with the direction is an offence punishable by imprisonment.
-(3) Failure to give the warning required by subsection (2) does not affect the validity of the direction confirmed or varied.
+  (e) make any other order or direction the Judge thinks fit in the circumstances.
+(3) If a Family Court Associate or Judge confirms or varies a direction, the Family Court Associate or Judge must warn the respondent that non-compliance with the direction is an offence punishable by imprisonment.
+(4) Failure to give the warning required by subsection (3) does not affect the validity of the direction confirmed or varied.
 
 ### 211 Offence to fail to comply with direction
 A respondent who fails, without reasonable excuse, to comply with a direction made under section 188 or 198 commits an offence and is liable on conviction to—
