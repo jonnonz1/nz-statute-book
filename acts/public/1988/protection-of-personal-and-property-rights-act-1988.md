@@ -1,5 +1,5 @@
 # Protection of Personal and Property Rights Act 1988
-_Consolidation as at 2021-11-06_
+_Consolidation as at 2023-10-06_
 
 > An Act to provide for the protection and promotion of the personal and property rights of persons who are not fully able to manage their own affairs
 
@@ -146,7 +146,7 @@ The primary objectives of a court on an application for the exercise of its juri
   (c) dismiss the application.
 
 ### 15 Orders by consent
-On an application for the exercise of a court's jurisdiction under this Part, the court may make any order under section 10 or section 11 or section 12 or section 14 with the consent of each party to the proceedings, if the court is satisfied that the person in respect of whom the application is made understands the nature and foresees the consequences of the order and consents to it.
+On an application for the exercise of a court's jurisdiction under this Part, a Family Court Judge or Family Court Associate may make any order under section 10 or section 11 or section 12 or section 14 with the consent of each party to the proceedings, if the Judge or Family Court Associate is satisfied that the person in respect of whom the application is made understands the nature and foresees the consequences of the order and consents to it.
 
 ### 16 Persons subject to property order
 (1) Where an application for the exercise of a court's jurisdiction under this Part is made in respect of any person subject to a property order, any order made by the court under section 10 or section 12 or section 14 shall be binding on the manager of that person's property; and, in the event of any conflict arising between the powers and duties of the manager under Part 4 and the terms of the personal order, the personal order shall prevail.
@@ -429,7 +429,7 @@ Where a property order is made in respect of any person subject to a personal or
 Any person may, by leave of the court or of the Registrar, inspect or make a copy of the whole or any part of any statement or report filed in a court under section 45 or section 46.
 
 ### 48 Enforcement of manager's duty to prepare and file statements
-(1) Where a manager fails to file a statement in a court when required to do so by section 45(2), the Registrar of the court shall draw the matter to the attention of a Judge, who must, unless the Judge considers it inappropriate to do so, make an order directing the manager to remedy the default within such time as may be specified in the order.
+(1) Where a manager fails to file a statement in a court when required to do so by section 45(2), the Registrar of the court shall draw the matter to the attention of a Judge or Family Court Associate, who must, unless the Judge or Family Court Associate considers it inappropriate to do so, make an order directing the manager to remedy the default within such time as may be specified in the order.
 (2) An order made under subsection (1) may provide that all costs of and incidental to the application shall be borne by the manager.
 (3) Nothing in this section shall limit or affect section 45(4).
 
@@ -627,7 +627,7 @@ In any proceedings under this Act, a court may—
   (b) the person in respect of whom the application is made:
   (c) any barrister or solicitor appointed pursuant to section 65(1) to represent that person:
   (d) any other person upon whom a copy of the application has been served in accordance with section 63.
-(2) When an application for the exercise of the court's jurisdiction under this Act has been filed in a court, any Family Court Judge may direct the Registrar to convene a pre-hearing conference.
+(2) When an application for the exercise of the court's jurisdiction under this Act has been filed in a court, a Family Court Judge or Family Court Associate may direct the Registrar to convene a pre-hearing conference.
 (3) On receiving a request under subsection (1) or a direction under subsection (2), the Registrar shall—
   (a) appoint a time and place for the holding of a pre-hearing conference, being as soon as reasonably practicable after the receipt of the request or direction; and
   (b) give notice to each of the persons referred to in paragraphs (a) to (d) of subsection (1) of the time and place of the pre-hearing conference, and request each of those persons to attend the conference.
@@ -638,24 +638,24 @@ The objectives of a pre-hearing conference shall be—
   (b) to reach agreement between the parties and the person in respect of whom the application is made on a solution for the problem.
 
 ### 68 Procedure at pre-hearing conference
-(1) Every pre-hearing conference shall be presided over by a Family Court Judge.
+(1) Every pre-hearing conference shall be presided over by a Family Court Judge or Family Court Associate (the presiding officer).
 (2) The barrister or solicitor representing the person in respect of whom the application is made shall be present at the pre-hearing conference to assist and advise that person (if that person is present) or to represent that person (if that person is not present).
-(3) Subject to any direction by the presiding Judge to the contrary, any barrister or solicitor representing any other party to the application may be present at the pre-hearing conference to assist and advise that party.
-(4) Subject to any direction by the presiding Judge to the contrary, every pre-hearing conference shall be held in private.
-(5) The presiding Judge may from time to time adjourn a pre-hearing conference to such time and place as the Judge may determine.
+(3) Subject to any direction by the presiding officer to the contrary, any barrister or solicitor representing any other party to the application may be present at the pre-hearing conference to assist and advise that party.
+(4) Subject to any direction by the presiding officer to the contrary, every pre-hearing conference shall be held in private.
+(5) The presiding officer may from time to time adjourn the pre-hearing conference to another time and place.
 
 ### 69 Identification of issues
-(1) If the parties at a pre-hearing conference agree on the nature of the problem for which an order of the court is sought, and on the solution for that problem, the presiding Judge shall record in writing the terms of the agreement.
-(2) Where agreement is not reached on all matters, the presiding Judge shall record in writing those matters on which there is agreement and those matters on which there is no agreement.
-(3) In every case, the presiding Judge shall state in the record whether or not—
+(1) If the parties at a pre-hearing conference agree on the nature of the problem for which an order of the court is sought, and on the solution for that problem, the presiding officer shall record in writing the terms of the agreement.
+(2) Where agreement is not reached on all matters, the presiding officer shall record in writing those matters on which there is agreement and those matters on which there is no agreement.
+(3) In every case, the presiding officer shall state in the record whether or not—
   (a) the person in respect of whom the application is made was present during the pre-hearing conference; and
   (b) the person was able to understand the nature and purpose of the proceedings; and
   (c) the person agreed to any matter referred to in subsection (1).
-(4) The record made by the presiding Judge under subsection (1) or subsection (2) shall be filed in the District Court in which the relevant application is filed.
+(4) The record made by the presiding officer under subsection (1) or subsection (2) shall be filed in the District Court in which the relevant application is filed.
 
-### 70 Power of presiding Judge to make consent orders
-(1) Subject to subsection (2), at a pre-hearing conference the presiding Judge may, by consent of the parties, make any orders that could have been made by the Family Court exercising jurisdiction under this Act.
-(2) The presiding Judge shall not make an order under subsection (1) unless the Judge is satisfied that the person in respect of whom the application is made understands the nature and foresees the consequences of the order and consents to the order.
+### 70 Power of presiding officer to make consent orders
+(1) Subject to subsection (2), at a pre-hearing conference the presiding officer may, by consent of the parties, make any orders that could have been made by the Family Court exercising jurisdiction under this Act.
+(2) The presiding officer shall not make an order under subsection (1) unless the officer is satisfied that the person in respect of whom the application is made understands the nature and foresees the consequences of the order and consents to the order.
 (3) An order made under this section shall for all purposes have the same effect as if it were made by consent in proceedings before the Family Court.
 
 ### 71 Power to require attendance at pre-hearing conference
@@ -664,7 +664,7 @@ The objectives of a pre-hearing conference shall be—
 
 ### 72 Privilege
 (1) No evidence shall be admissible in any court, or before any person acting judicially, of any information, statement, or admission disclosed or made in the course of a pre-hearing conference.
-(2) Nothing in subsection (1) shall apply to a record made by a Family Court Judge under section 69, or to any consent order made under section 70, or to any proceedings for the review of such an order.
+(2) Nothing in subsection (1) shall apply to a record made by a presiding officer under section 69, or to any consent order made under section 70, or to any proceedings for the review of such an order.
 
 ### 73 Presiding Judge may hear subsequent proceedings
 The Family Court Judge who presides over a pre-hearing conference shall be entitled to hear any subsequent proceedings under that application unless in all the circumstances the Judge decides, of the Judge's own motion or on application by any party,—
