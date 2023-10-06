@@ -1,5 +1,5 @@
 # Status of Children Act 1969
-_Consolidation as at 2023-06-15_
+_Consolidation as at 2023-10-06_
 
 > Title
 
@@ -49,8 +49,8 @@ The purpose of sections 3 and 4 is to remove the legal disabilities of children 
   (a) caused a search to be made of the register of instruments, declarations, and orders maintained by the Registrar-General pursuant to section 9 and ascertained whether or not the existence of any such claimant to such an interest is revealed in the register; and
   (b) looked through any papers of the deceased person that have come to his notice in the course of searching for a testamentary disposition made by the deceased person, or otherwise howsoever, and ascertained whether or not the existence of any such claimant to such an interest is revealed in those papers.
 (3) Where subsection (1)﻿(a) applies, an applicant for a grant of letters of administration in respect of the estate of any deceased person or any part thereof shall file an affidavit saying that he has made reasonable inquiries for the purposes of the Status of Children Act 1969 as to the existence of any such claimant to an interest in the estate or part (with a brief indication of the nature of those inquiries) and (if such is the case) that he does not know of the existence of any such claimant to an interest in the estate or part.
-(4) Where, pursuant to this section, an applicant for letters of administration with or without the will annexed in respect of the estate of any deceased person or any part thereof complies with subsection (1), nothing in the Administration Act 1969 or the Code of Civil Procedure or the practice of the High Court relating to a grant of letters of administration shall be construed as requiring him to do anything further in connection with the application for the purposes of this Act.
-(5) This section shall have no application in relation to any grant of administration to a trustee corporation within the meaning of section 2 of the Administration Act 1969, either alone or jointly with another person; and nothing in the Administration Act 1969, the Code of Civil Procedure, or the practice of the High Court shall require the trustee corporation or any other joint applicant for the grant to make inquiries, before the grant is made, as to the existence of any such claimant.
+(4) Where, pursuant to this section, an applicant for letters of administration with or without the will annexed in respect of the estate of any deceased person or any part thereof complies with subsection (1), nothing in the Administration Act 1969 or the High Court Rules 2016 or the practice of the High Court relating to a grant of letters of administration shall be construed as requiring him to do anything further in connection with the application for the purposes of this Act.
+(5) This section shall have no application in relation to any grant of administration to a trustee corporation within the meaning of section 2 of the Administration Act 1969, either alone or jointly with another person; and nothing in the Administration Act 1969, the High Court Rules 2016, or the practice of the High Court shall require the trustee corporation or any other joint applicant for the grant to make inquiries, before the grant is made, as to the existence of any such claimant.
 (6) In this section applicant includes a person acting on behalf of the applicant, with the applicant's express or implied authority, for the purposes of obtaining the grant.
 
 ### 6 Reasonable inquiries to precede distribution
@@ -150,6 +150,7 @@ No action shall lie against any executor of the will or administrator or trustee
   (a) to the Family Court, the provisions of the Family Proceedings Act 1980 (except sections 47 to 50) apply to the application as if it were an application for a paternity order under section 47 of that Act:
   (b) to the High Court, the provisions of the Declaratory Judgments Act 1908 apply to the application.
 (6) Every question of fact that arises in applying any of subsections (2) to (4) must be decided on a balance of probabilities.
+(7) If an application made under subsection (2) or (3) is undefended, a Family Court Associate may exercise the jurisdiction of the Family Court in respect of that application and make a declaration.
 
 **Miscellaneous provisions**
 
