@@ -1,5 +1,5 @@
 # Care of Children Act 2004
-_Consolidation as at 2023-08-16_
+_Consolidation as at 2023-10-06_
 
 ### 1 Title
 This Act is the Care of Children Act 2004.
@@ -589,15 +589,15 @@ In sections 46E and 46F, family dispute resolution, family dispute resolution fo
     (i) that at least 1 of the parties to the family dispute is unable to participate effectively in family dispute resolution:
     (ii) that at least 1 of the parties to the family dispute, or a child of one of the parties, has been subject to family violence by one of the other parties to the dispute.
 (5) A Registrar may refuse to accept for filing an application that is accompanied by an affidavit of the kind referred to in subsection (4)﻿(f) if the affidavit does not provide sufficient evidence of either of the matters set out in subparagraphs (i) and (ii) of that paragraph.
-(6) A Registrar who is unsure, under subsection (5), whether to refuse to accept an application for filing may refer that application and accompanying affidavit to a Judge, and the Judge must determine whether the affidavit provides sufficient evidence of either of the matters set out in subsection (4)﻿(f).
+(6) A Registrar who is unsure, under subsection (5), whether to refuse to accept an application for filing may refer the application and accompanying affidavit to a Family Court Associate or Family Court Judge, and the Family Court Associate or Judge must determine whether the affidavit provides sufficient evidence of either of the matters set out in subsection (4)﻿(f).
 
 ### 46F Family dispute resolution after proceedings commenced
 (1) This section applies after an application has been made to the Family Court for—
   (a) a direction under section 46R; or
   (b) a parenting order under section 48.
-(2) At any time before the application is finally determined, a Family Court Judge may direct the parties to attend family dispute resolution.
-(3) A direction under subsection (2) may only be made by a Judge if—
-  (a) the Judge considers that there is a reasonable prospect that family dispute resolution will assist the parties in reaching an agreement on the resolution of the matters in dispute; and
+(2) At any time before the application is finally determined, a Family Court Associate or Family Court Judge may direct the parties to attend family dispute resolution.
+(3) A direction under subsection (2) may only be made by a Family Court Associate or Judge if—
+  (a) the Family Court Associate or Judge considers that there is a reasonable prospect that family dispute resolution will assist the parties in reaching an agreement on the resolution of the matters in dispute; and
   (b) the parties—
     (i) have not participated in family dispute resolution in the preceding 12 months; or
     (ii) have participated in family dispute resolution in the preceding 12 months but consent to the direction being made.
@@ -609,12 +609,12 @@ In sections 46E and 46F, family dispute resolution, family dispute resolution fo
 (1) This section applies after an application has been made to the Family Court for—
   (a) a direction under section 46R; or
   (b) a parenting order under section 48.
-(2) A Family Court Judge may direct the Registrar of the court to refer the parties to the application to counselling services for either or both of the following purposes:
+(2) A Family Court Judge may direct the Registrar of the court to refer the parties to the application to counselling services, or a Family Court Associate may refer the parties to the application to counselling services, for either or both of the following purposes:
   (a) to improve the relationship between the parties:
   (b) to encourage compliance with any direction or order made by the court.
-(3) A direction under subsection (2) may only be made by a Family Court Judge if the Judge considers that the provision of counselling services is the best means of assisting the parties with their relationship or the implementation of any decision of the court, or both of those matters.
-(4) A Family Court Judge may make a direction under subsection (2)—
-  (a) at any stage of the proceedings, including when making a final order; but
+(3) A direction or referral under subsection (2) may only be made if the Family Court Judge or Family Court Associate considers that the provision of counselling services is the best means of assisting the parties with their relationship or the implementation of any decision of the court, or with both of those matters.
+(4) A direction or referral under subsection (2) may be made—
+  (a) at any stage of the proceedings, including by the Family Court Judge when making a final order; but
   (b) once only.
 (5) On receipt of a direction under subsection (2), the Registrar must—
   (a) arrange for the parties to be referred to a counsellor or an approved counselling organisation; and
@@ -653,22 +653,24 @@ Fees in respect of counselling carried out under section 46G, and reasonable exp
 
 **Parenting information programmes**
 
-### 46O Judge may direct party to undertake parenting information programme
-(1) At any time after an application has been made to the court for a parenting order under section 48, a Family Court Judge may direct 1 or more parties to the application to attend a parenting information programme.
-(2) However, the Family Court Judge may not make a direction under subsection (1) in respect of a party if that party has undertaken a parenting information programme within the preceding 2 years.
+### 46O Party may be directed to undertake parenting information programme
+(1) At any time after an application has been made to the court for a parenting order under section 48, a Family Court Associate or Family Court Judge may direct 1 or more parties to the application to attend a parenting information programme.
+(2) However, a direction may not be made under subsection (1) in respect of a party if that party has undertaken a parenting information programme within the preceding 2 years.
 
 **Settlement conferences**
 
 ### 46P Purpose of settlement conferences
-The purpose of a settlement conference is to enable a Family Court Judge to—
+The purpose of a settlement conference is to enable a Family Court Associate or Family Court Judge to—
   (a) ascertain whether any or all of the issues in dispute between the parties can be settled; and
   (b) settle those issues.
 
 ### 46Q Settlement conferences
-(1) A Family Court Judge may, before the hearing of a proceeding, direct the Registrar to convene a settlement conference.
+(1) At any time before the hearing of a proceeding,—
+  (a) a Family Court Associate may convene a settlement conference; or
+  (b) a Family Court Judge or Family Court Associate may direct the Registrar of the court to convene a settlement conference.
 (2) However, a settlement conference may be convened under subsection (1) on 1 occasion only, but may be adjourned at any time and to any place.
-(3) At a settlement conference, a Family Court Judge may, with the consent of the parties, make an order settling some or all of the issues in dispute between the parties.
-(4) Before a party consents to the making of an order, a Family Court Judge may advise that party to obtain legal advice.
+(3) At a settlement conference, a Family Court Associate or Family Court Judge may, with the consent of the parties, make an order settling some or all of the issues in dispute between the parties.
+(4) Before a party consents to the making of an order, a Family Court Associate or Family Court Judge may advise that party to obtain legal advice.
 
 **Guardianship disputes**
 
@@ -687,8 +689,8 @@ The purpose of a settlement conference is to enable a Family Court Judge to—
   (a) a parent of the child:
   (b) a guardian of the child:
   (c) a spouse or partner of a parent of the child:
-  (d) any other person who is a member of the child’s family, whānau, or other culturally recognised family group, and who is granted leave to apply by the court:
-  (e) any other person granted leave to apply by the court.
+  (d) any other person who is a member of the child’s family, whānau, or other culturally recognised family group, and who is granted leave to apply by a Family Court Associate or Family Court Judge:
+  (e) any other person granted leave to apply by a Family Court Associate or Family Court Judge.
 (2) However, if a parent of a child has died or has been refused contact with the child by a court, or if a parent entitled to have contact with a child is making no attempt to have that contact, then each of the following persons is, for the purposes of an application for an order under section 48(1) determining who may have contact with the child, also an eligible person in relation to the child:
   (a) the parents of that parent of the child; and
   (b) a sibling of that parent of the child; and
@@ -746,10 +748,10 @@ The purpose of a settlement conference is to enable a Family Court Judge to—
 (2) If the interim order was made on an application without notice, the parent who has neither the role of providing day-to-day care for nor contact with the child may give notice to the court that he or she wishes to be heard and, if he or she does so, the Registrar of the court must assign a hearing date that is—
   (a) as soon as practicable; and
   (b) not more than 42 days after the notice is received, unless there are special circumstances.
-(3) In any other case, the court must assign a hearing date that is—
+(3) In any other case, a Family Court Associate or Family Court Judge must assign a hearing date that is—
   (a) as soon as practicable; and
   (b) not more than 3 months after the date on which the interim parenting order was made.
-(4) At the hearing on the date assigned under subsection (2) or (3), the court may replace the interim order with—
+(4) At the hearing on the date assigned under subsection (2) or (3), a Family Court Judge may replace the interim order with—
   (a) a further interim order; or
   (b) a final parenting order.
 
@@ -852,13 +854,21 @@ In this section and sections 59 and 60,—
     (a) under the supervision of an approved provider; or
     (b) in the immediate presence of a person approved by the court (for example, a relative, a friend of the family of the child, or any other person whom the court considers suitable).
 
-### 59 Court may order supervised contact
-(1) This section applies if the court—
-  (a) is making or varying a parenting order determining the time or times when a person may have contact with a child; and
+### 59 Order for supervised contact
+(1) Subsection (2) applies if a Family Court Judge—
+  (a) is making or varying a parenting order (whether interim or final) determining the time or times when a person may have contact with a child; and
   (b) is not satisfied that the child will be safe with that person.
-(2) The court may make an order for supervised contact between the child and that person, and, if it does so, the court must specify in the order whether the supervised contact is to occur—
+(2) The Family Court Judge may make an order for supervised contact between the child and that person, and, if the Judge does so, the Judge must specify in the order whether the supervised contact is to occur—
   (a) under the supervision of an approved provider; or
-  (b) in the immediate presence of a person approved by the court (for example, a relative, a friend of the family of the child, or any other person whom the court considers suitable).
+  (b) in the immediate presence of a person approved by the Judge (for example, a relative, a friend of the family of the child, or any other person whom the Judge considers suitable).
+(3) Subsection (4) applies if—
+  (a) an interim parenting order has been made; and
+  (b) the parents of the child in respect of whom the interim order is made are parties to the order; and
+  (c) under the interim parenting order one of the parents (A) has neither the role of providing day-to-day care for, nor contact with, the child; and
+  (d) the other parent (B) is not satisfied that the child will be safe with A.
+(4) A Family Court Associate may vary the interim parenting order to provide that A have contact with the child under the supervision of an approved provider—
+  (a) on an application made by A and B jointly; or
+  (b) on an application made by the lawyer appointed to represent the child that is undefended.
 
 ### 60 Costs of formal supervised contact
 (1) This section applies only to supervised contact that is ordered under section 59 and supervised by an approved provider.
@@ -989,7 +999,7 @@ In this section and sections 59 and 60,—
 (7) Subsection (6) is for the avoidance of doubt.
 
 ### 77 Preventing removal of child from New Zealand
-(1) In this section and section 76, authority means a High Court Judge or District Court Judge or Family Court Judge or, if no High Court Judge or District Court Judge or Family Court Judge is available, any Registrar of the High Court or of the District Court (not being a constable).
+(1) In this section and sections 76 and 77A, authority means a High Court Judge, District Court Judge, or Family Court Judge or, if no High Court Judge, District Court Judge, or Family Court Judge is available, a Family Court Associate or any Registrar of the High Court or District Court (not being a constable).
 (2) An authority may, on an application for the purpose by any person, exercise the powers stated in subsection (3) if the authority believes on reasonable grounds that a person may take a child out of New Zealand with intent to, or in circumstances where the taking of the child out of New Zealand would be likely to,—
   (a) defeat the claim of a person who has applied for, or is about to apply for, the role of providing day-to-day care for, or an order for contact with, the child; or
   (b) prevent any order of any court (including an order registered under section 81) about the role of providing day-to-day care for, or about contact with, the child from being complied with.
@@ -1008,10 +1018,10 @@ In this section and sections 59 and 60,—
 
 ### 77A Orders under section 77(3)﻿(c) in respect of children of or over 16 years
 (1) An order under section 77(3)﻿(c) must not be made in respect of a child of or over the age of 16 years unless there are special circumstances.
-(2) An order under section 77(3)﻿(c) made in respect of a child under the age of 16 years expires when the child attains that age unless the court in special circumstances orders otherwise on or after making the order.
+(2) An order under section 77(3)﻿(c) made in respect of a child under the age of 16 years expires when the child attains that age unless the authority in special circumstances orders otherwise on or after making the order.
 
 ### 77B Orders under section 77(3)﻿(c) may be suspended for specified period
-(1) On an application for the purpose by any person, a High Court Judge, a District Court Judge, or a Family Court Judge may suspend an order made under section 77(3)﻿(c).
+(1) On an application for the purpose by any person, a High Court Judge, a District Court Judge, a Family Court Judge, or a Family Court Associate may suspend an order made under section 77(3)﻿(c).
 (2) On an application for the purpose, a Registrar of the High Court, or of the District Court, may suspend an order made under section 77(3)﻿(c) if—
   (a) the application is made by a party to the proceedings under section 77 in which the order was made (the earlier proceedings); and
   (b) every other person who was a party to the earlier proceedings consents.
@@ -1352,7 +1362,7 @@ Every application under section 102 or section 112 in respect of a child must be
   (b) a person applies in writing and on oath to the Judge for a warrant of the kind referred to in subsection (2); and
   (c) the Judge is satisfied that there are reasonable grounds for believing that a person will attempt to conceal the whereabouts of the child with intent to, or in circumstances where the concealment would be likely to, defeat the claim of the applicant.
 (2) The warrant referred to in subsection (1) is a warrant that authorises a constable or social worker, either by name or generally, to take possession of the child, and to place the child in the care of some suitable person pending the order or further order of the court having jurisdiction in the case.
-(3) A Registrar of the District Court (not being a constable) may exercise the power given to a District Court Judge or Family Court Judge by this section (which applies with all necessary modifications), but only if no District Court Judge or Family Court Judge is available.
+(3) A Family Court Associate or Registrar of the District Court (not being a constable) may exercise the power given to a District Court Judge or Family Court Judge by this section (which applies with all necessary modifications), but only if no District Court Judge or Family Court Judge is available.
 (4) Sections 75, 76, and 79 apply, so far as applicable and with all necessary modifications, to every warrant issued under subsection (1) as if every warrant of that kind were a warrant issued under section 72.
 
 ### 118 Preventing removal of child to defeat application
@@ -1364,7 +1374,7 @@ Every application under section 102 or section 112 in respect of a child must be
   (b) may exercise, in respect of that child, or the person believed to be about to take the child out of New Zealand, or both, the power referred to in section 77(3)﻿(b); and
   (c) may, whether or not the power referred to in paragraph (a) has been exercised (with or without the exercise of the power referred to in paragraph (b)), make an order of the kind referred to in section 77(3)﻿(c) in respect of that child.
 (3) If a power referred to in subsection (2)﻿(a) or (b) or (c) is exercised, sections 77(4) and (5), 77A, and 77B, so far as applicable and with all necessary modifications, apply accordingly.
-(4) A Registrar of the High Court or of the District Court (not being a constable) may exercise the power given by this section (which applies with all necessary modifications), but only if no High Court Judge or District Court Judge or Family Court Judge is available.
+(4) A Family Court Associate or Registrar of the High Court or of the District Court (not being a constable) may exercise the power given by this section (which applies with all necessary modifications), but only if no High Court Judge or District Court Judge or Family Court Judge is available.
 
 ### 119 Enforcing order for return of child
 (1) If, in proceedings under section 105, a court makes an order under section 105(2) for the return of a child, the Family Court or the District Court may, at any time, issue a warrant of the kind referred to in subsection (2), either on its own initiative or on an application for the purpose by a party to the proceedings.
@@ -1503,7 +1513,7 @@ In any proceedings under this Act (other than criminal proceedings), a court may
 (3) The Registrar must refer advice received under subsection (2) to the Family Court Judge who is considering the application.
 
 ### 132 Reports from chief executive or social worker
-(1) A copy of an application for guardianship or a parenting order (other than an interim parenting order) must be supplied to the chief executive if the court so directs.
+(1) A copy of an application for guardianship or a parenting order (other than an interim parenting order) must be supplied to the chief executive if a Family Court Associate or Family Court Judge so directs.
 (2) The chief executive or a social worker must report on the application, and may appear on the application personally or by a lawyer.
 
 ### 133 Reports from other persons
@@ -1595,14 +1605,14 @@ Second opinions
 (1) The Registrar of the court must copy a report under section 132 or section 133 (the report)—
   (a) to the lawyer acting for each party to the proceedings or, subject to subsection (3), if a party has no lawyer acting for that party, to that party; and
   (b) to a lawyer appointed to act for a child who is the subject of the proceedings.
-(2) If the court orders a lawyer referred to in subsection (1)﻿(a) not to give or show the report to the person for whom the lawyer is acting, the lawyer must comply with the order.
-(3) If a party has no lawyer acting for that party and the court is satisfied that information in the report would, if provided directly to that party, place the child concerned or another person at risk of physical abuse, sexual abuse, or psychological abuse, the court may—
+(2) If a Family Court Judge or Family Court Associate orders a lawyer referred to in subsection (1)﻿(a) not to give or show the report to the person for whom the lawyer is acting, the lawyer must comply with the order.
+(3) If a party has no lawyer acting for that party and a Family Court Judge or Family Court Associate is satisfied that information in the report would, if provided directly to that party, place the child concerned or another person at risk of physical abuse, sexual abuse, or psychological abuse, the Judge or Family Court Associate may—
   (a) order that the report not be copied to that party under subsection (1)﻿(a); and
   (b) appoint counsel to assist the court under section 130 for the purpose of explaining the contents of the report to that party.
-(4) Before the report is copied to a lawyer under subsection (1)﻿(b), the court must consider whether the report may be given or shown to the child for whom the lawyer is acting.
-(5) A lawyer referred to in subsection (1)﻿(b) may give or show the report to the child for whom the lawyer is acting only if the court so orders, but in every case the lawyer must explain to the child the purpose and contents of the report, unless the lawyer considers that to do so would be contrary to the welfare and best interests of the child.
+(4) Before the report is copied to a lawyer under subsection (1)﻿(b), a Family Court Judge or Family Court Associate must consider whether the report may be given or shown to the child for whom the lawyer is acting.
+(5) A lawyer referred to in subsection (1)﻿(b) may give or show the report to the child for whom the lawyer is acting only if a Family Court Judge or Family Court Associate so orders, but in every case the lawyer must explain to the child the purpose and contents of the report, unless the lawyer considers that to do so would be contrary to the welfare and best interests of the child.
 (6) A party to the proceedings, or a lawyer appointed to act for a child who is the subject of the proceedings, may present evidence on any matter referred to in the report.
-(7) The court may, if it thinks fit, call as a witness the person who made or prepared the report.
+(7) A Judge or Family Court Associate may, if the Judge or Family Court Associate thinks fit, call as a witness the person who made or prepared the report.
 
 ### 135 Costs of reports requested under section 133
 (1) Fees for the preparation of reports requested under section 133, and reasonable expenses incurred, must—
@@ -1655,16 +1665,16 @@ Second opinions
   (e) persons the court agrees to hear under section 136:
   (f)
   (g) accredited news media reporters:
-  (h) persons whom the Judge permits to be present as support persons for a party on a request by that party:
+  (h) persons whom the Judge or a Family Court Associate permits to be present as support persons for a party on a request by that party:
   (i) any other persons whom the Judge permits to be present.
-(2) The Judge must agree to a request under subsection (1)﻿(h) unless the Judge considers there is a good reason why the named support persons should not be permitted to be present.
+(2) The Judge or Family Court Associate must agree to a request under subsection (1)﻿(h) unless the Judge or Family Court Associate considers there is a good reason why the named support persons should not be permitted to be present.
 (3) No support persons for a party for whom no lawyer is acting may help the party conduct his or her case.
 (4) If, during a hearing, the Judge requests a person of any of the following kinds to leave the courtroom, the person must do so:
   (a) a witness:
   (b) a person the court agrees to hear under section 136:
   (c)
   (d) an accredited news media reporter:
-  (e) a support person whom the Judge permits to be present under subsection (1)﻿(h).
+  (e) a support person whom the Judge or a Family Court Associate permits to be present under subsection (1)﻿(h).
 (5)
 (6) Nothing in this section limits any other power of the court—
   (a) to hear proceedings in private; or
@@ -1680,10 +1690,10 @@ Sections 11B to 11D of the Family Court Act 1980 apply to the publication of a r
   (b) in any other court, in which case references in those sections to the Family Court or court must be read as references to that other court.
 
 ### 139A Leave required in certain cases to commence substantially similar proceedings
-(1) A proceeding (a new proceeding) may not be commenced under section 46R, 48, or 56 without the leave of the court if that new proceeding—
+(1) A proceeding (a new proceeding) may not be commenced under section 46R, 48, or 56 without the leave of a Family Court Associate or Family Court Judge if that new proceeding—
   (a) is substantially similar to a proceeding previously filed in the Family Court by any person (a previous proceeding); and
   (b) is to be commenced less than 2 years after the final direction or order was given in the previous proceeding.
-(2) The leave of the court may only be given under subsection (1) if, since the final direction or order was given in the previous proceeding, there has been a material change in the circumstances of—
+(2) Leave may only be given under subsection (1) if, since the final direction or order was given in the previous proceeding, there has been a material change in the circumstances of—
   (a) any party to the previous proceeding:
   (b) any child who was the subject of the previous proceeding.
 (3) In this section, a new proceeding is substantially similar to a previous proceeding if—
@@ -1701,11 +1711,11 @@ The court may dismiss proceedings before it under this Act if it is satisfied—
   (b) that the proceedings are frivolous or vexatious or an abuse of the procedure of the court.
 
 ### 141 Power to restrict commencement of proceedings if vexatious proceedings previously instituted
-(1) This section applies to a court if, and only if, the court—
+(1) This section applies if, and only if, a Family Court Judge—
   (a) is satisfied that a person has persistently instituted vexatious proceedings under this Act or under any former Act (whether those proceedings were in respect of the same person or matter or different persons or matters); and
   (b) has given the person a reasonable opportunity to be heard.
-(2) The court may order that the person may commence either of the following only with the leave of the court:
-  (a) proceedings under this Act of any kind; or
+(2) A Family Court Judge may order that the person may commence either of the following only with the leave of a Family Court Judge or Family Court Associate:
+  (a) proceedings under this Act of any kind:
   (b) proceedings under this Act of any specified kind or in respect of any specified person or matter.
 (3) Nothing in this section limits sections 166 to 169 of the Senior Courts Act 2016 (which empowers the High Court to make orders restricting the institution or continuation of vexatious proceedings).
 
