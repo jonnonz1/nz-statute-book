@@ -1,5 +1,5 @@
 # Family Proceedings Act 1980
-_Consolidation as at 2023-06-15_
+_Consolidation as at 2023-10-06_
 
 > An Act to revise the law relating to matrimonial and domestic proceedings
 
@@ -377,6 +377,7 @@ An application for a paternity order in respect of a child (whether it is born, 
   (a) must, if it is satisfied that the respondent is the father of the child, make an order declaring that the respondent is the father of the child; and
   (b) may, if it is satisfied (either on its own initiative or on an application for the purpose by a party to the proceedings) that the respondent is not the father of the child, make an order declaring that the respondent is not the father of the child.
 (2) For the purposes of proceedings under section 74, a paternity order in respect of a child shall be conclusive evidence that the person against whom it is made is the father of the child.
+(3) If an application made under section 47 is undefended, a Family Court Associate or Family Court Judge may make an order under this section.
 
 ### 52 Evidence of mother
 (1) The evidence of the mother of a child shall not be necessary for the making of a paternity order in respect of the child.
@@ -396,6 +397,7 @@ Every person commits an offence and is liable on conviction to a fine not exceed
 (2) For the purposes of this section,—
   (a) parentage tests may be carried out by any person or persons who are qualified to do so, whether or not any of them is the person by whom the report is compiled; and
   (b) the consent of a minor who has attained the age of 16 years to submit to parentage tests shall have the same effect as the consent of a person of full age.
+(3) A Family Court Associate has the jurisdiction and powers of a Family Court Judge under subsection (1) in respect of an application made by a party to the proceedings.
 
 ### 55 Contents of report
 (1) A report on parentage tests—
@@ -408,16 +410,19 @@ Every person commits an offence and is liable on conviction to a fine not exceed
   (e) shall state the results of the parentage tests; and
   (f) shall state, in relation to each person to whom the report relates (other than the child), whether the results of the parentage tests show that the person is not a natural parent of the child.
 (2) Where parentage tests carried out on a person do not show that the person is not a natural parent of the child, the report may contain an evaluation of the significance of the results of the parentage tests in determining whether that person is a natural parent of the child.
-(3) Where a report on parentage tests has been submitted to a court under this section the court may, of its own motion or on the application of a party, obtain from the person by whom the report was compiled a written statement explaining or amplifying any matter in the report.
+(3) Where a report on parentage tests has been submitted to a court under this section, the person who made the report must provide a written statement explaining or amplifying any matter in the report if required to do so by—
+  (a) a Judge, on the Judge’s own initiative or on the application of a party to the proceedings; or
+  (b) a Family Court Associate, on the application of a party to the proceedings.
 (4) A written statement so obtained shall be deemed to form part of the report.
 
 ### 56 Right of examination
-Where a report on parentage tests is submitted to a court, the court may on the application of any party summon as a witness in the proceedings—
+(1) Where a report on parentage tests is submitted to a court, the court may on the application of any party summon as a witness in the proceedings—
   (a) the person who has compiled the report; and
   (b) any other person who has done anything necessary for the carrying out of the parentage tests or for the preparation of the report.
+(2) A Family Court Associate has the jurisdiction and powers of a Family Court Judge under subsection (1).
 
 ### 57 Refusal of parentage tests
-(1) In any civil proceedings in which the natural parentage of a child is in issue, whether or not the court has recommended under section 54(1) that parentage tests should be carried out on a person, evidence may be given to the court as to the refusal of that person to consent (or, where the person is under 16 years of age, as to the refusal to consent to such parentage tests of the person who is competent to do so on that person's behalf).
+(1) In any civil proceedings in which the natural parentage of a child is in issue, whether or not a recommendation has been made under section 54(1) that parentage tests should be carried out on a person, evidence may be given to the court as to the refusal of that person to consent (or, where the person is under 16 years of age, as to the refusal to consent to such parentage tests of the person who is competent to do so on that person's behalf).
 (2) Subject to the right of the person who refuses to consent to the parentage tests to explain the reasons for that person's refusal, and to cross-examine witnesses and call evidence, the court may draw such inferences (if any) from the fact of refusal as appear to it to be proper in the circumstances.
 
 ### 58 Costs of parentage tests
@@ -682,6 +687,7 @@ Every application under section 79 shall be heard and determined in the Family C
 (3) The Registrar of the court shall give a copy of the report to every barrister or solicitor appearing for a party in the proceedings or, in the case of a party who is not represented by a barrister or solicitor, to the party.
 (4) Any party may tender evidence on any matter referred to in the report.
 (5) At the request of the court, the officer making the report shall appear as a witness in respect of any matter referred to in or arising out of the report.
+(6) A Family Court Associate has the jurisdiction and powers of a Family Court Judge under subsections (1) and (5).
 
 ### 92 Discretion of court as to orders
 Where an application is made to a court for an order under this Part, the court may make any other order under this Part that it could have made if an application for that other order had been made at the time when the first-mentioned application was made.
@@ -1087,7 +1093,13 @@ An application for a maintenance order in respect of a child may be made only—
   (b) by a person who has lawful care of the child against a parent or parents of the child.
 
 ### 145F Power of court to make maintenance orders in respect of children
-Every application under section 145A(b) shall be heard and determined in the Family Court.
+(1) An application referred to in section 145A(b) must be heard and determined by a Family Court Judge.
+(2) However, if the respondent consents to the orders sought in the application no hearing is required and the orders sought may be made by—
+  (a) a Family Court Judge; or
+  (b) a Family Court Associate exercising the powers of a Family Court Judge.
+(3) Before making any orders under subsection (2), the Family Court Judge or Family Court Associate must—
+  (a) advise the respondent to obtain legal advice; and
+  (b) afford the respondent the opportunity to obtain that advice.
 
 ### 145G Maintenance orders in respect of children
 (1) On hearing an application under section 145A(b), the Family Court may, subject to subsections (2) and (9), make any 1 or more of the following orders:
