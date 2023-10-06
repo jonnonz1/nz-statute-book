@@ -1,5 +1,5 @@
 # Property (Relationships) Act 1976
-_Consolidation as at 2021-10-28_
+_Consolidation as at 2023-10-06_
 
 > Title
 
@@ -918,6 +918,9 @@ Any agreement made before 1 August 2001 under section 21 (as that section existe
   (d) that either spouse or partner is an undischarged bankrupt.
 (3) Regardless of subsection (2), the court may at any time make any order or declaration relating to the status, ownership, vesting, or possession of any specific property as it considers just.
 (4) To avoid any doubt, but without limiting subsection (3), if proceedings under this Act are pending, the court, if it considers it appropriate in the circumstances, may make an interim order under that subsection for the sale of any relationship property, and may give any directions it thinks fit with respect to the proceeds.
+(4A) If proceedings under this Act are pending, a Family Court Associate has the jurisdiction and powers of a Family Court Judge under subsection (4) if—
+  (a) the Family Court Associate considers it appropriate in the circumstances to make an interim order of the kind referred to in that subsection; and
+  (b) the parties to the proceedings consent to the making of the order and the giving of directions by the Family Court Associate with respect to the proceeds.
 (5) This section is subject to the other provisions of this Act.
 (6) In proceedings commenced after the death of one of the spouses or partners, this section is modified by section 91.
 
@@ -1071,7 +1074,7 @@ Sections 11B to 11D of the Family Court Act 1980 apply to the publication of a r
 [Repealed]
 
 ### 37 Persons entitled to be heard
-(1) Before any order is made under this Act, such notice as the court directs shall be given to any person having an interest in the property which would be affected by the order, and any such person shall be entitled to appear and to be heard in the matter as a party to the application.
+(1) Before any order is made under this Act, such notice as a Family Court Judge or Family Court Associate directs must be given to any person having an interest in the property which would be affected by the order, and any such person shall be entitled to appear and to be heard in the matter as a party to the application.
 (2) In proceedings commenced after the death of one of the spouses or partners, this section is modified by section 92.
 
 ### 37A Court may appoint lawyer for children
@@ -1129,7 +1132,8 @@ Sections 11B to 11D of the Family Court Act 1980 apply to the publication of a r
 **Costs**
 
 ### 40 Costs
-Subject to any rules of procedure made for the purposes of this Act, in any proceedings under this Act the court may make such order as to costs as it thinks fit.
+(1) In any proceedings under this Act, a Family Court Judge or Family Court Associate may make any order as to costs that they think fit.
+(2) Subsection (1) is subject to any rules of procedure made for the purposes of this Act.
 
 **Registration of orders**
 
@@ -1149,7 +1153,8 @@ Subject to any rules of procedure made for the purposes of this Act, in any proc
 (1) A claim to an interest, pursuant to this Act, in any land subject to the Land Transfer Act 2017 shall be deemed to be a registrable interest for the purposes of that Act.
 (2) Notice of a claim under subsection (1) shall be effected by lodging a duly completed notice in the prescribed form with the Registrar-General of Land.
 (3) Every notice so lodged shall have effect as if it were a caveat lodged pursuant to section 138 of the Land Transfer Act 2017 and the provisions of that Act, except section 141, shall apply subject to the following modifications:
-  (a) any application under section 142 or 143 of that Act in respect of any notice under this section may be made to the Family Court or the District Court or the High Court; and
+  (a) any application under section 142 of that Act in respect of any notice lodged under subsection (2) may be made to, and determined by, the Family Court, District Court, or High Court; and
+  (aa) any application that may be made to a court under section 143 of that Act in respect of any notice lodged under subsection (2), may be made to and determined by a Family Court Associate, a Family Court Judge, the District Court, or the High Court; and
   (b) an order under section 146 of that Act authorising the receipt of a second notice under this section may be made by the Family Court or the District Court or the High Court.
 (4) In the case of land that is not subject to the Land Transfer Act 2017, notice of a claim to an interest pursuant to this Act may be registered in the manner in which deeds and other instruments affecting the land may be registered.
 (5) A notice under subsection (2) or subsection (4) may be registered notwithstanding that no proceedings under this Act are pending or in contemplation, and notwithstanding that there is no dispute between the parties.
@@ -1157,6 +1162,7 @@ Subject to any rules of procedure made for the purposes of this Act, in any proc
 ### 43 Dispositions may be restrained
 (1) Where it appears to the High Court or the District Court or the Family Court that any disposition of property is about to be made, whether for value or not, by or on behalf of or by direction of or in the interests of any person in order to defeat the claim or rights of any other person (party B) under this Act, the court may, on such notice being given as the court may direct, by order restrain the making of the disposition or may order any proceeds of the disposition to be paid into court to be dealt with as the court directs.
 (1A) The court may make an order under this section on the application of party B, or (in any proceedings under this Act or otherwise) on its own initiative.
+(1B) A Family Court Associate has the jurisdiction and powers of a Family Court Judge under subsection (1) to make an order on the application of party B.
 (2) Any disposition made after an order of the court under subsection (1) restraining the making of the disposition has been served on or come to the notice of the person disposing of the property, or any auctioneer, agent, or lawyer acting in connection with the disposition, shall be void, and the court may consider any claim of any person interested and may make such order as it thinks just.
 
 ### 44 Dispositions may be set aside
