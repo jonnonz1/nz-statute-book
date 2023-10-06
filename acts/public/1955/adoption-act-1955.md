@@ -1,5 +1,5 @@
 # Adoption Act 1955
-_Consolidation as at 2023-06-15_
+_Consolidation as at 2023-10-06_
 
 > An Act to consolidate and amend certain enactments of the Parliament of New Zealand relating to the adoption of children
 
@@ -85,7 +85,7 @@ Upon any application for an adoption order, if the court considers that the appl
 (6) The consent by any parent or guardian of a child to an adoption may be given (either unconditionally or subject to conditions with respect to the religious denomination and practice of the applicants or any applicant or as to the religious denomination in which the applicants or applicant intend to bring up the child) without the parent or guardian knowing the identity of the applicant for the order.
 (7) A document signifying consent by a mother of a child to an adoption shall not be admissible unless the child is at least 10 days old at the date of the execution of the document.
 (8) Except where it is given by the chief executive, a document signifying consent to an adoption shall not be admissible unless,—
-  (a) if given in New Zealand, it is witnessed by a District Court Judge, a Registrar of the High Court or of the District Court, or a solicitor, or a Judge or Commissioner or Registrar of the Maori Land Court:
+  (a) if given in New Zealand, it is witnessed by a District Court Judge, a Family Court Judge, a Family Court Associate, a Registrar of the High Court or of the District Court, or a solicitor, or a Judge or Commissioner or Registrar of the Maori Land Court:
   (aa) if given in the Cook Islands or Niue, it is witnessed by—
     (i) the New Zealand Representative; or
     (ii) a Judge, Registrar, or Deputy Registrar, of the High Court of the Cook Islands or the High Court of Niue (as the case requires); or
@@ -103,10 +103,11 @@ Upon any application for an adoption order, if the court considers that the appl
 (3) On application by any person having the care of a child, the court may dispense with the consent of a parent or guardian of a child under this section before any application is made for an adoption order in respect of the child; and any order so made shall lapse after the expiration of 6 months from the date on which it is made for all purposes except an application made to the court within that period for an adoption order in respect of the child.
 (4) The court may dispense with the consent of the spouse of an applicant for an adoption order if it is satisfied that the spouses are living apart and that their separation is likely to be permanent.
 (5) In any case where a mentally disordered person is a parent or guardian of a child in respect of whom an application for an adoption order has been made, service of notice of the application on the manager or administrator of the estate of the parent or guardian, or on the person with whom the parent or guardian resides or under whose care he is, shall (unless the court otherwise orders) be sufficient service thereof for the purposes of this section.
-(5A) In any case where the District Court has refused to make an order dispensing with the consent of any parent or guardian or spouse, the person or persons who sought the dispensation may, within 1 month after the date of the refusal, appeal to the High Court against the refusal; and the High Court may dispense with the consent if it thinks fit.
+(5A) In any case where the District Court or Family Court has refused to make an order dispensing with the consent of any parent or guardian or spouse, the person or persons who sought the dispensation may, within 1 month after the date of the refusal, appeal to the High Court against the refusal; and the High Court may dispense with the consent if it thinks fit.
 (6) Any person whose consent is dispensed with under this section may, on notice to every applicant for an adoption order in respect of the child and within 1 month after the making of the order dispensing with consent, make application for the revocation of that order and of any consequential interim order to the High Court; and the court to which the application is so made may in its discretion revoke any such order.
 (7) In any case where the court has made an adoption order within 1 month after making the order dispensing with consent, any person whose consent is dispensed with under this section may, on notice to every adoptive parent and within 1 month after the making of the order dispensing with consent, make application for the revocation of that order and the discharge of the adoption order to the High Court; and the court to which the application is so made may in its discretion discharge any such order. All the provisions of section 20, so far as they are applicable and with the necessary modifications, shall apply in connection with any such discharge of an adoption order.
 (8) In any case where the High Court revokes any interim order or discharges any adoption order in accordance with this section, that court may include in its order an order for the refund by some person specified in the order of money spent by any adopter or proposed adopter for the child's benefit. Any such order for the refund of money shall be enforceable as a judgment of the court which made the order in favour of the person to whom the money has to be repaid.
+(9) In subsections (1) to (5), the jurisdiction of the Family Court may be exercised by a Family Court Judge or Family Court Associate.
 
 ### 9 Withdrawal of consents
 (1) Where any consent to an adoption of a child by any specified person or persons is given by any parent or guardian of the child except the chief executive, the consent shall not be withdrawn at any time while an application by the said person or persons to adopt the child is pending, or until the said person or persons have had a reasonable opportunity to make an application to adopt the child.
@@ -292,7 +293,7 @@ Sections 11B to 11D of the Family Court Act 1980 apply to the publication of a r
 (2A) Adoption records are open to inspection by a social worker for the purpose of preparing a report required under section 23A(1).
 (3) Adoption records shall not be available for production or open to inspection except—
   (a) to the extent authorised by subsections (1), (2), or (2A) of this section or by section 11(4)﻿(b) of the Adult Adoption Information Act 1985; or
-  (b) on the order of the Family Court, the District Court, or the High Court, made—
+  (b) on the order of a Family Court Associate, a Family Court Judge, the District Court, or the High Court, made—
     (i) for the purposes of a prosecution for making a false statement; or
     (ii) in the event of any question as to the validity or effect of any interim order or adoption order; or
     (iii) on any other special ground.
@@ -302,6 +303,7 @@ Sections 11B to 11D of the Family Court Act 1980 apply to the publication of a r
 (2) A social worker preparing a report required under subsection (1)—
   (a) may consider any information obtained for the purpose, including information in the adoption records concerned and the application for the order; but
   (b) may not consider information relating to any party to the adoption or application that was obtained by the department before the application was made.
+(3) In subsection (1), the jurisdiction of the Family Court may be exercised by a Family Court Judge or Family Court Associate.
 
 ### 24 Evidence in adoption cases
 [Repealed]
