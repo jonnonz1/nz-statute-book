@@ -1,5 +1,5 @@
 # Child Support Act 1991
-_Consolidation as at 2023-07-01_
+_Consolidation as at 2023-10-06_
 
 > Title
 
@@ -1967,6 +1967,7 @@ The Supreme Court, the Court of Appeal, the High Court, the District Court, and 
   (d) whether or not that person was ever living with a parent of the child in a marriage, civil union or de facto relationship; and
   (e) whether that person has at any time been a guardian of the child.
 (5) For the purposes of subsection (4)﻿(a), a person shall not be taken to have assumed responsibility for the maintenance of a child by reason only of meeting the child maintenance liabilities of another person who is wholly or partially maintained by him or her.
+(5A) If an application made under subsection (1) or (2) is undefended, a Family Court Associate may exercise the jurisdiction of the Family Court under this section and grant a declaration.
 (6) When the Family Court makes a declaration under this section, the Commissioner shall, as soon as is practicable, take such action (if any) as is necessary to give effect to the decision.
 
 **Appeals from decisions of Commissioner in respect of objections under Part 6**
@@ -2000,7 +2001,7 @@ The Supreme Court, the Court of Appeal, the High Court, the District Court, and 
   (b) a decision made under that subpart to refuse to make a determination.
 (2) An appeal under this section must be lodged within—
   (a) 2 months after the date on which the determination or decision is made; or
-  (b) any further time that the Family Court may allow on application made before or after the expiration of that period.
+  (b) any further time that a Family Court Judge or Family Court Associate may allow on application made before or after the expiration of that period.
 (3) The parties to an appeal are—
   (a) the appellant; and
   (b) the other party to the proceedings before the Commissioner resulting in the determination or decision; and
@@ -2012,7 +2013,7 @@ The Supreme Court, the Court of Appeal, the High Court, the District Court, and 
 (2) A liable parent may appeal to the Family Court against a determination made by the Commissioner under Part 6A if the liable parent is not the person who made the application for the determination under section 96B.
 (3) An appeal under this section must be lodged within—
   (a) 2 months after the date on which the determination is made; or
-  (b) any further time that the Family Court may allow on application made before or after the expiration of that period.
+  (b) any further time that a Family Court Judge or Family Court Associate may allow on application made before or after the expiration of that period.
 (4) The parties to an appeal are, subject to section 125,—
   (a) the appellant; and
   (b) any other party to the proceedings under Part 6A.
@@ -2022,7 +2023,7 @@ The Supreme Court, the Court of Appeal, the High Court, the District Court, and 
 (1) Any party referred to in section 96Q(2) may appeal to the Family Court against a determination made by the Commissioner under Part 6B.
 (2) An appeal under this section must be lodged within—
   (a) 2 months after the date on which the determination is made; or
-  (b) any further time that the Family Court may allow on application made before or after the expiration of that period.
+  (b) any further time that a Family Court Judge or Family Court Associate may allow on application made before or after the expiration of that period.
 (3) The parties to an appeal are—
   (a) the appellant; and
   (b) any other party to the proceedings before the Commissioner resulting in the determination; and
@@ -2060,7 +2061,7 @@ The Supreme Court, the Court of Appeal, the High Court, the District Court, and 
     (i) the Commissioner has made a determination under Part 6A in relation to the matter and the person who applies under this section is the person who applied for that determination; or
     (ii) the Commissioner has refused to make a determination under Part 6A in relation to the matter; or
     (iia) the Commissioner has refused to make a determination under Part 6B in relation to the matter after having commenced proceedings under that Part; or
-    (iii) the receiving carer or the liable parent are parties to another application pending in the Family Court and the court is satisfied that it would be appropriate for the court to consider an application made under this section at the same time as it hears the other application; or
+    (iii) the receiving carer or the liable parent are parties to another application pending in the Family Court and a Family Court Judge or Family Court Associate is satisfied that it would be appropriate for the court to consider an application made under this section at the same time as it hears the other application; or
     (iv) the application relates, wholly or in part, to child support payable in the child support year ending on 31 March 1994 or any earlier child support year.
 (3) Subject to section 125, the parties to the application are the liable parent and the receiving carer.
 (4) Subject to section 117, the fact that an application is made by any person under this section does not suspend, interfere with, or affect—
@@ -2116,9 +2117,10 @@ The Supreme Court, the Court of Appeal, the High Court, the District Court, and 
   (a) have regard to the capacity of the child or parent to earn or derive income, including having regard to any assets of, under the control of, or held for the benefit of, the child or parent that do not produce, but are capable of producing, income; and
   (b) disregard the income, earning capacity, property, and financial resources of any person who does not have a duty to maintain the child, or who has such a duty but is not a party to the proceeding, unless, in the special circumstances of the case, the court considers that it is appropriate to have regard to them.
 (6) The court may have regard to other matters beyond those specified in subsections (4) and (5).
+(7) The jurisdiction of the Family Court under this section may be exercised by a Family Court Judge or Family Court Associate, and for the purposes of this section a Family Court Associate has the same powers as a Family Court Judge.
 
 ### 106 Orders that may be made
-(1) In determining an application made under section 104, a court may make any of the following orders:
+(1) In determining an application made under section 104, a Family Court Judge or Family Court Associate exercising the jurisdiction of the Family Court may make any of the following orders:
   (a) an order departing from some or all of the provisions of this Act by substituting a different amount for any of the following amounts as they relate to a formula assessment, or prescribing an amount or a percentage by which any of those amounts must be varied:
     (i) a person's adjusted income:
     (ii) a person's living allowance:
@@ -2142,7 +2144,7 @@ The amount that an order under section 106 on the ground in section 105(2)﻿(d)
 [Repealed]
 
 ### 107 Implementation of orders
-(1) When a decision of a court making an order in determination of an application under section 104 becomes final, the Commissioner shall, as soon as practicable, take such action as is necessary to give effect to the decision in relation to any formula assessment that has been made in relation to the child, the receiving carer, and the liable parent concerned (whether by amending the assessment or otherwise).
+(1) When an order determining an application under section 104 becomes final, the Commissioner shall, as soon as practicable, take such action as is necessary to give effect to the decision in relation to any formula assessment that has been made in relation to the child, the receiving carer, and the liable parent concerned (whether by amending the assessment or otherwise).
 (2) Subject to subsection (3), in subsequently making a formula assessment in relation to the child, the receiving carer, and the liable parent concerned while the order is in force, the Commissioner shall act on the basis of the provisions of this Act as modified by the order.
 (3) Notwithstanding subsection (2), where the Commissioner becomes aware of a change in circumstances which, had that change occurred prior to the making of that order, could reasonably be expected to have resulted in the order being different from that which was made, the Commissioner may—
   (a) amend an existing formula assessment in relation to the child, the receiving carer, and the liable parent concerned to reflect that change in such manner as the Commissioner considers appropriate; or
@@ -2265,6 +2267,9 @@ The Commissioner shall, as soon as practicable, take such action as is necessary
   (a) is subject to such terms and conditions as are specified in the order; and
   (b) operates for such period as is specified in the order or, if no period is specified, until the decision of the court determining the proceeding becomes final.
 (5) An application under this section may be made and dealt with ex parte if the court is satisfied that the delay that would result if service on the payee or on the Commissioner were required would cause hardship to the party instituting the proceeding.
+(6) The jurisdiction of the Family Court under this section may be exercised by—
+  (a) a Family Court Judge; or
+  (b) a Family Court Associate having the same powers as a Family Court Judge.
 
 **Provisions relating to court orders**
 
@@ -3012,17 +3017,17 @@ Where—the Commissioner—
 **Charging orders**
 
 ### 184 Charging orders
-(1) Where a person has a liability to pay financial support under this Act, the Family Court or the District Court may, in any case, at any time after the commencement of that liability, order that the financial support payable or to become payable under this Act shall be a charge on any property to which the person is entitled.
+(1) Where a person has a liability to pay financial support under this Act, a Family Court Judge, Family Court Associate, or District Court Judge may, in any case, at any time after the commencement of that liability, order that the financial support payable or to become payable under this Act shall be a charge on any property to which the person is entitled.
 (2) Subject in the case of any real property to registration under subsection (6), the property shall become subject to a charge accordingly in favour of the person to whom for the time being and from time to time the money is or becomes payable.
 (3) A charging order shall specify, in such a manner as to identify it, the property on which the charge is imposed.
-(4) A charging order may at any time be varied or discharged by the court.
+(4) A charging order may at any time be varied or discharged by a Family Court Judge, Family Court Associate, or District Court Judge.
 (5) Nothing in section 131 of the Workers' Compensation Act 1956 or in section 89 of the Accident Compensation Act 1982 shall apply to any charge constituted under this section.
 (6) Where a charging order is made in respect of the registered estate or interest of the respondent in any land, a duplicate or copy of the order under the seal of the court may be delivered for registration to the Registrar-General of Land if the title to the land is under the Land Transfer Act 2017, or to the appropriate Registrar of Deeds if the title to the land is not under that Act, or, in the case of a mining privilege within the meaning of the Mining Act 1971, may be delivered for recording to the Registrar-General of Land.
 (7) The Registrar to whom the duplicate or copy is delivered shall, without fee, record it in the register against the appropriate folium of the register book and against any relevant instrument or title, or record it and note its particulars on the filed copy of the mining privilege to which it relates, as the case may require.
 (8) An order discharging or varying a charging order may be registered or recorded in the same manner as the charging order.
 
 ### 185 Charging orders on life insurance policies
-The authority conferred on the court by section 184 to make a charging order shall apply with respect to policies of life insurance.
+The authority conferred by section 184 to make a charging order shall apply with respect to policies of life insurance.
 
 ### 186 Extent to which charging orders bind the Crown
 (1) For the purposes of this section, the term employing department means—
