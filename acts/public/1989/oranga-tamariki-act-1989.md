@@ -1,5 +1,5 @@
 # Oranga Tamariki Act 1989
-_Consolidation as at 2023-07-01_
+_Consolidation as at 2023-10-06_
 
 > Title
 
@@ -814,7 +814,7 @@ Where—unless the Police consider that it is impracticable, unreasonable, or cl
 **Powers to remove child or young person**
 
 ### 39 Place of safety warrants
-(1) Any District Court Judge or, if no District Court Judge is available, any issuing officer (within the meaning of section 3 of the Search and Surveillance Act 2012) who, on application in writing verified in accordance with section 99 of that Act, is satisfied that there are reasonable grounds for suspecting that a child or young person is suffering, or is likely to suffer, ill-treatment, neglect, deprivation, abuse, or harm may issue a warrant authorising any constable, either by name or generally, or the chief executive, to search for the child or young person.
+(1) Any District Court Judge or, if no District Court Judge is available, a Family Court Associate or any issuing officer (within the meaning of section 3 of the Search and Surveillance Act 2012) who, on application in writing verified in accordance with section 99 of that Act, is satisfied that there are reasonable grounds for suspecting that a child or young person is suffering, or is likely to suffer, ill-treatment, neglect, deprivation, abuse, or harm may issue a warrant authorising any constable, either by name or generally, or the chief executive, to search for the child or young person.
 (1A) The function of executing a warrant issued in the name of the chief executive may be performed by a social worker or any other person authorised under a delegation to carry out that function (see section 7C).
 (2) An application for a warrant under subsection (1) may be made by a constable or the chief executive.
 (3) Any person executing a warrant to search for any child or young person may—
@@ -825,7 +825,7 @@ Where—unless the Police consider that it is impracticable, unreasonable, or cl
 (4) Where any direction is issued pursuant to subsection (3)﻿(b)﻿(ii) in respect of any child or young person, that child or young person shall be deemed to have been placed in the custody of the chief executive pursuant to this section.
 
 ### 40 Warrant to remove child or young person
-(1) Where an application for a care or protection order has been made in respect of a child or young person, any District Court Judge or, if no District Court Judge is available, any issuing officer (within the meaning of section 3 of the Search and Surveillance Act 2012) may, on application in writing verified in accordance with section 99 of that Act, where there are reasonable grounds for believing that the child or young person is—issue a warrant authorising any constable, either by name or generally, or the chief executive, to search for the child or young person.
+(1) Where an application for a care or protection order has been made in respect of a child or young person, any District Court Judge or, if no District Court Judge is available, a Family Court Associate or any issuing officer (within the meaning of section 3 of the Search and Surveillance Act 2012) may, on application in writing verified in accordance with section 99 of that Act, where there are reasonable grounds for believing that the child or young person is—issue a warrant authorising any constable, either by name or generally, or the chief executive, to search for the child or young person.
   (a) suffering, or is likely to suffer, ill-treatment, serious neglect, abuse, serious deprivation, or serious harm; or
   (b) so seriously disturbed as to be likely—
     (i) to act in a manner harmful to the child or young person or any other person; or
