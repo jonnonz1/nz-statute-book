@@ -1,5 +1,5 @@
 # Judicial Conduct Commissioner and Judicial Conduct Panel Act 2004
-_Consolidation as at 2023-04-05_
+_Consolidation as at 2023-10-06_
 
 ### 1 Title
 This Act is the Judicial Conduct Commissioner and Judicial Conduct Panel Act 2004.
@@ -44,7 +44,8 @@ In this Act, unless the context otherwise requires,—
     (f) in relation to the District Court, the Chief District Court Judge:
     (g) in relation to the Environment Court, the Chief Environment Court Judge:
     (h) in relation to the Maori Land Court, the Chief Judge of the Maori Land Court:
-    (i) in relation to a coroner or an associate coroner, the chief coroner
+    (i) in relation to a coroner or an associate coroner, the chief coroner:
+    (j) in relation to a Family Court Associate, the Principal Family Court Judge
   - **Judge** —
     (a) means—
       (i) a Judge of the Supreme Court; or
@@ -56,7 +57,8 @@ In this Act, unless the context otherwise requires,—
       (vi) a District Court Judge; or
       (vii) a Judge of the Environment Court; or
       (viii) a Judge of the Maori Land Court; or
-      (ix) a coroner or an associate coroner; and
+      (ix) a coroner or an associate coroner; or
+      (x) a Family Court Associate; and
     (b) includes a person who holds office as an acting Judge, or an acting Associate Judge; but
     (c) does not include a retired Judge or a former Judge
   - **Judicial Conduct Commissioner** or —
