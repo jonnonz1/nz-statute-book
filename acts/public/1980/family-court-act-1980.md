@@ -1,5 +1,5 @@
 # Family Court Act 1980
-_Consolidation as at 2023-06-15_
+_Consolidation as at 2023-10-06_
 
 > Title
 
@@ -61,6 +61,16 @@ The District Court has a division known as the Family Court.
 ### 7B Term of appointment of Family Court Associates
 A Family Court Associate is appointed for a term of not more than 7 years and may be reappointed for 1 or more further terms.
 
+### 7C Jurisdiction and powers of Family Court Associates
+A Family Court Associate has the jurisdiction and powers specified in Schedule 2.
+
+### 7D Transfer of proceeding to Family Court Judge
+(1) A Family Court Associate may, on the application of a party to a proceeding before the Family Court Associate or on the Family Court Associate’s own initiative, refer the proceeding or a matter in the proceeding to a Family Court Judge if the Family Court Associate is satisfied that because of the complexity of the proceeding or matter it is desirable to do so.
+(2) A Family Court Judge may, on the application of a party to a proceeding that is being, or is to be, dealt with by a Family Court Associate, order that the proceeding or a matter in the proceeding be transferred to and dealt with by a Family Court Judge if the Judge making the order is satisfied that it is desirable to do so.
+(3) A Family Court Judge to whom a proceeding or matter has been referred to under subsection (1) or (2) may—
+  (a) dispose of the proceeding; or
+  (b) refer the proceeding or matter back to the Family Court Associate with any directions the Family Court Judge thinks fit.
+
 ### 7E Remuneration of Family Court Associates
 (1) A Family Court Associate must be paid, out of public money and without further appropriation than this section,—
   (a) a salary, a fee, or an allowance at the rate determined by the Remuneration Authority; and
@@ -77,6 +87,9 @@ A Family Court Associate must not—
   (b) practise as a lawyer; or
   (c) be employed by the Ministry of Justice or the Department of Corrections.
 
+### 7H Immunity for Family Court Associates
+A Family Court Associate has the same immunities as a Family Court Judge.
+
 ### 7I Resignation of Family Court Associates
 A Family Court Associate may at any time resign by written notice to the Attorney-General.
 
@@ -85,6 +98,17 @@ A Family Court Associate may at any time resign by written notice to the Attorne
 (2) Subsection (1) is subject to sections 33(2) and 34 of the Judicial Conduct Commissioner and Judicial Conduct Panel Act 2004, which prevent removal unless—
   (a) a Judicial Conduct Panel has reported to the Attorney-General that it is of the opinion that consideration of the removal of the Family Court Associate is justified; or
   (b) the Family Court Associate has been convicted of a criminal offence punishable by imprisonment for 2 or more years and the Attorney-General takes steps independently of that Act to initiate the removal of the Family Court Associate.
+
+### 7K Report relating to Family Court Associates
+(1) The Ministry of Justice must—
+  (a) review whether the appointment of Family Court Associates has reduced delays in the Family Court; and
+  (b) consider whether any amendments to this Act or any other enactments are necessary or desirable in relation to—
+    (i) the appointment of Family Court Associates; and
+    (ii) the functions, duties, and powers of Family Court Associates; and
+  (c) report to the Minister of Justice on the outcome of—
+    (i) the review under paragraph (a); and
+    (ii) the consideration under paragraph (b).
+(2) The review under subsection (1)﻿(a) must commence no later than 5 years after the commencement of this section.
 
 ### 8 Counselling supervisors, counsellors, and other officers
 (1) There shall from time to time be appointed under the Public Service Act 2020, as an officer of the Ministry of Justice, a person whose principal responsibility shall be to perform such duties as the chief executive of the Ministry of Justice may direct to facilitate the proper functioning of the Family Court and of counselling and related services.
@@ -269,7 +293,8 @@ Notwithstanding anything in section 11, the District Court may—
 (1) Subparts 2 and 4 of Part 2 and sections 25 and 26(1) and (2) of the Contempt of Court Act 2019 apply with the necessary modifications to proceedings of the Family Court.
 (2) Those provisions apply to proceedings of the Family Court as if—
   (a) references to a court include the Family Court; and
-  (b) references to a judicial officer or to a Judge include Judges of the Family Court.
+  (b) references to a judicial officer or to a Judge include Judges of the Family Court; and
+  (c) references to a judicial officer in sections 10, 11(2), and 25(2) include a Family Court Associate.
 
 ### 16 Application of District Court Act 2016
 (1) Subject to subsections (2) to (4), the District Court Act 2016 applies, with any necessary modifications, to the Family Court and Family Court Judges in the same manner and to the same extent as it applies to the District Court and District Court Judges.
@@ -416,7 +441,7 @@ Fees and expenses for report writers
 (11) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 17 Certain enactments amended
-(1) The enactments specified in the Schedule are hereby consequentially amended in the manner specified in that schedule.
+(1) The enactments specified in Schedule 1 are hereby consequentially amended in the manner specified in that schedule.
 (2)
 
 ### 17A Repeals
@@ -436,4 +461,75 @@ The following provisions are repealed:
 (2) All matters and proceedings commenced in the High Court under the Matrimonial Proceedings Act 1963 or the Guardianship Act 1968 before the commencement of section 11 and required by virtue of that section to be heard and determined in a Family Court, shall, notwithstanding that section, be continued in the High Court.
 (3) Where the hearing of any matter or proceeding referred to in subsection (1) has commenced in a District Court before the commencement of this Act, the matter or proceeding shall be continued in a District Court as if this Act had not been passed.
 
-## Schedule Schedule — Enactments amended
+## Schedule 1 — Enactments amended
+
+## Schedule 2 — Jurisdiction and powers of Family Court Associates
+
+### 1 Jurisdiction and powers: appointment of lawyers and obtaining reports
+A Family Court Associate has the jurisdiction and powers of a Family Court Judge to—
+  (a) appoint, under any of the following provisions, a lawyer to represent a child who is the subject of, or who is a party to, proceedings:
+    (i) section 7 of the Care of Children Act 2004:
+    (ii) section 226 of the Child Support Act 1991:
+    (iii) section 162 of the Family Proceedings Act 1980:
+  (b) appoint, under section 166(1)﻿(b), (c), or (d) of the Family Violence Act 2018, a lawyer to represent a child, or a person lacking in capacity to whom section 67 of that Act applies:
+  (c) appoint, under section 37A of the Property (Relationships) Act 1976, a lawyer to represent any minor or dependent children in proceedings under that Act:
+  (d) appoint, under any of the following provisions, a lawyer to represent an applicant:
+    (i) section 20(1) of the Civil Union Act 2004:
+    (ii) section 19(1) of the Marriage Act 1955:
+  (e) appoint, under section 124(1) of the Intellectual Disability (Compulsory Care and Rehabilitation) Act 2003, a lawyer to represent a care recipient:
+  (f) appoint, under section 95(5)﻿(b) of the Evidence Act 2006, a lawyer to put to a witness a party’s questions if the party fails or refuses to engage a lawyer and is precluded by an order made under section 95(2) of that Act from personally cross-examining a witness:
+  (g) appoint, under any of the following provisions, a lawyer to assist the court:
+    (i) section 130(a) of the Care of Children Act 2004:
+    (ii) section 226A(a) of the Child Support Act 1991:
+    (iii) section 20(2)﻿(a) of the Civil Union Act 2004:
+    (iv) section 162A(a) of the Family Proceedings Act 1980:
+    (v) section 166(1)﻿(a) of the Family Violence Act 2018:
+    (vi) section 19(2)﻿(a) of the Marriage Act 1955:
+    (vii) section 65A(a) of the Protection of Personal and Property Rights Act 1988:
+  (h) direct a Registrar of the court to appoint, under any of the following provisions, a lawyer to assist the court:
+    (i) section 130(b) of the Care of Children Act 2004:
+    (ii) section 226A(b) of the Child Support Act 1991:
+    (iii) section 20(2)﻿(b) of the Civil Union Act 2004:
+    (iv) section 162A(b) of the Family Proceedings Act 1980:
+    (v) section 19(2)﻿(b) of the Marriage Act 1955:
+    (vi) section 65A(b) of the Protection of Personal and Property Rights Act 1988:
+  (i) review, under any of the following provisions, a decision of a Registrar relating to the invoice of a lawyer for fees and expenses:
+    (i) section 131(3) of the Care of Children Act 2004:
+    (ii) section 226B(3) of the Child Support Act 1991:
+    (iii) section 20(5) of the Civil Union Act 2004:
+    (iv) section 162B(3) of the Family Proceedings Act 1980:
+    (v) section 167(4) and (5) of the Family Violence Act 2018:
+    (vi) section 124(6) of the Intellectual Disability (Compulsory Care and Rehabilitation) Act 2003:
+    (vii) section 19(5) of the Marriage Act 1955:
+    (viii) sections 65(7) and 65B(3) of the Protection of Personal and Property Rights Act 1988:
+  (j) order, under any of the following provisions, the parties to reimburse the Crown an amount in respect of the fees and expenses of a lawyer appointed by the court:
+    (i) sections 131(4) and 135A of the Care of Children Act 2004:
+    (ii) sections 226B(4) and 226C of the Child Support Act 1991:
+    (iii) sections 162B(4) and 162C of the Family Proceedings Act 1980:
+    (iv) sections 65(8) and 65B(4) of the Protection of Personal and Property Rights Act 1988:
+  (k) obtain any of the following reports:
+    (i) a cultural, medical, psychiatric, or psychological report under section 133 of the Care of Children Act 2004:
+    (ii) a cultural report under section 20A of the Civil Union Act 2004:
+    (iii) a cultural report under section 20 of the Marriage Act 1955:
+    (iv) a medical, psychiatric, or psychological, or other report under section 76 of the Protection of Personal and Property Rights Act 1988:
+  (l) order, under sections 135(2) and 135A of the Care of Children Act 2004, the parties to reimburse the Crown an amount in respect of the fees and expenses incurred in relation to a report prepared under section 133 of that Act.
+
+### 2 Jurisdiction and powers: under specific enactments
+A Family Court Associate has jurisdiction under the following enactments and, unless otherwise provided, has the powers of a Family Court Judge to exercise that jurisdiction:
+  (a) sections 7(8)﻿(a), 8, 23, and 23A of the Adoption Act 1955:
+  (b) sections 46E, 46F, 46G, 46O, 46Q, 47, 49A(3), 59(4), 77, 77B(1), 132, 134, 137, 139A, and 141(2) of the Care of Children Act 2004:
+  (c) sections 99 (if an application is undefended), 103A, 103B, and 103C (in respect of the latter 3 preceding provisions, extending the time for lodging an appeal), 104, 105, 106, 117, and 184 of the Child Support Act 1991:
+  (d) sections 51 (if an application is undefended), 54 and 55 (in respect of both provisions, only on the application of a party), 56, 91, and 145F (if the respondent consents to the orders being made) of the Family Proceedings Act 1980:
+  (e) Part 7 of the Family Violence Act 2018 (except section 188):
+  (f) sections 26 and 27 of the Marriage Act 1955:
+  (g) sections 39 and 40 of the Oranga Tamariki Act 1989 (in respect of both provisions, if no District Court Judge is available):
+  (h) sections 25 (only with the consent of the parties), 37, 40, 42, and 43 (only on the application of a party) of the Property (Relationships) Act 1976:
+  (i) sections 15, 48, 66(2), 68, 69, and 70 of the Protection of Personal and Property Rights Act 1988:
+  (j) section 10(2) and (3) (in respect of undefended applications) of the Status of Children Act 1969.
+
+### 3 Jurisdiction and powers: generally
+A Family Court Associate has the powers of a Family Court Judge to deal with any matter in respect of which a Family Court Associate is conferred jurisdiction by any other enactment.
+
+### 4 Powers of Registrars
+(1) A Family Court Associate has the jurisdiction and may exercise the powers conferred on a Registrar of the Family Court by or under any enactment.
+(2) A Family Court Associate has the jurisdiction and may exercise the powers conferred on a Registrar of the District Court under sections 77, 117, and 118 of the Care of Children Act 2004.
