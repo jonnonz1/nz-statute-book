@@ -1,5 +1,5 @@
 # Biosecurity Act 1993
-_Consolidation as at 2023-08-24_
+_Consolidation as at 2023-10-21_
 
 > An Act to restate and reform the law relating to the exclusion, eradication, and effective management of pests and unwanted organisms
 
@@ -581,6 +581,25 @@ Regulations may elaborate duties
     (i) an emergency or an urgent situation has arisen; and
     (ii) the emergency or the urgent situation creates a risk of significant harm to human health, the environment, or the economy; and
     (iii) the earlier giving of the information is necessary to avoid or mitigate the risk.
+
+### 17AA Information about biosecurity law for passengers on certain incoming craft
+(1) This section applies to a large commercial craft that is en route to New Zealand territory from a point outside New Zealand territory on a flight or voyage that is intended to include arrival in New Zealand.
+(2) Before the craft arrives in New Zealand, the person in charge of the craft must—
+  (a) provide information to the craft’s passengers about the biosecurity law relevant to arrival in New Zealand, as required by regulations made under this Act; and
+  (b) give the Director-General notice that the information has been provided, as required by the regulations (if at all).
+(3) Regulations may do any of the following:
+  (a) require the information to include specified content or details:
+  (b) require the information to be provided in a specified—
+    (i) form or manner (for example, with translations); or
+    (ii) medium (for example, written, audiovisual, or electronic):
+  (c) specify criteria that a record of the information in any particular medium (for example, an audiovisual recording) must satisfy:
+  (d) authorise the Director-General to provide a record of the information in any particular medium for use by any person under subsection (2)﻿(a):
+  (e) authorise the Director-General to approve a person’s record of the information in any particular medium for use by the person under subsection (2)﻿(a), or to revoke an approval:
+  (f) specify how long before a craft’s arrival in New Zealand the information must be provided:
+  (g) require notice to be given under subsection (2)﻿(b), and specify its content, the form or manner in which it must be given, and when it must be given.
+(4) In this section, large commercial craft means a craft that—
+  (a) is a commercial craft as defined by section 4 of the Immigration Act 2009; and
+  (b) has 20 or more passengers (which excludes crew) on board.
 
 ### 17A Inward cargo report
 Craft and cargo to which section applies
@@ -4540,6 +4559,10 @@ Penalty: section 157(5)
   (c) fails—
     (i) to answer the question within a reasonable time of its being asked; or
     (ii) to answer the question completely within a reasonable time of its being asked.
+Penalty: section 157(6A)
+(20A) A person commits an offence against this Act who fails to comply with—
+  (a) section 17AA; or
+  (b) regulations made under section 165(1AA).
 Penalty: section 157(7)
 (21) A person commits an offence against this Act who erroneously declares that he or she is not in possession of any or all of the goods specified in a declaration that the person is required to make about the goods.
 
@@ -4645,6 +4668,9 @@ Where it is proved in any proceeding under this Act or the regulations that a pe
 (6) Every person who commits an offence against any regulations made under this Act is liable on conviction,—
   (a) in the case of an individual person, to a fine not exceeding $5,000:
   (b) in the case of a corporation, to a fine not exceeding $15,000.
+(6A) Every person who commits an offence against section 154N(20A) is liable on conviction,—
+  (a) in the case of an individual person, to a fine not exceeding $1,000:
+  (b) in the case of a corporation, to a fine not exceeding $5,000.
 (7) Every person who commits an offence against section 154N(21) is liable on conviction to a fine not exceeding $1,000.
 (8) Every person who commits an offence against section 154NA(2), and in doing so under section 154NA(2)﻿(a) ought reasonably to have known that the information had become erroneous or misleading in a material particular, is liable on conviction,—
   (a) in the case of an individual, to a fine not exceeding $1,000; or
@@ -4983,6 +5009,7 @@ Section 164A—
 ### 165 Regulations
 Part 3 matters
 (1) The Governor-General may from time to time, by Order in Council, make regulations for the purposes of section 17(11).
+(1AA) The Governor-General may from time to time, by Order in Council, make regulations for the purposes of section 17AA(2) and (3).
 (1A) The Governor-General may from time to time, by Order in Council, make regulations for the purposes of section 17A(2), (3), (7), and (9).
 (2) The Governor-General may from time to time, by Order in Council, make regulations on any or all of the following matters relating to the giving of notice of goods' intended arrival in New Zealand:
   (a) requiring that the notice be given to the Director-General:
