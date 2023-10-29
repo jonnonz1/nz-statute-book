@@ -1,5 +1,5 @@
 # Mental Health (Compulsory Assessment and Treatment) Act 1992
-_Consolidation as at 2022-12-13_
+_Consolidation as at 2023-10-29_
 
 > An Act to redefine the circumstances in which and the conditions under which persons may be subjected to compulsory psychiatric assessment and treatment, to define the rights of such persons and to provide better protection for those rights, and generally to reform and consolidate the law relating to the assessment and treatment of persons suffering from mental disorder
 
@@ -531,13 +531,53 @@ Notwithstanding any of the preceding provisions of this Part, the court may dete
 (6) Every patient who leaves his or her escort while being removed from any hospital in which the patient has been detained to any other hospital to which the patient is being lawfully transferred shall be deemed to be absent without leave, within the meaning of this section, from the first-mentioned hospital, and on being retaken in accordance with this Act may be conveyed to the hospital to which the patient was being removed, notwithstanding that the time limited by section 127 for complying with an order of transfer may have elapsed.
 
 ### 33 Compulsory treatment order to expire after 6 months
-Subject to section 34, every compulsory treatment order shall continue in force for a period of 6 months commencing with the day on which it is made, and shall then expire.
+Subject to sections 34 and 34A, every compulsory treatment order shall continue in force for a period of 6 months commencing with the day on which it is made, and shall then expire.
 
 ### 34 Court may extend order
-(1) Within 14 days immediately preceding the date on which a compulsory treatment order is to expire, the responsible clinician may cause the case to be reviewed under section 76.
+(1) Within 14 days before the date on which a compulsory treatment order is to expire under section 33, the responsible clinician must cause the case to be reviewed under section 76.
 (2) If, following that review, the responsible clinician is satisfied that the patient is not fit to be released from compulsory status, that clinician may apply to the court for an extension of the currency of the order for a further period of 6 months commencing with the day after the date on which the order would otherwise have expired.
-(3) The court must treat the application as if it were an application made under section 14(4). Sections 15 and 17 to 33 apply with any necessary modifications.
-(4) If, on any such application, the court extends the currency of the order for a further period of 6 months, on the expiry of that period the foregoing provisions of this section shall apply except that, if the court then further extends the order, the extension shall have effect indefinitely and the patient shall remain subject to the order unless and until he or she is released from compulsory status.
+(3) The court must treat the application as if it were an application made under section 14(4). Sections 15 and 17 to 33 apply with any necessary modifications, subject to sections 34C and 34D.
+(4)
+
+### 34A Court may further extend order for 12-month period
+(1) If a compulsory treatment order has been extended by application under section 34(2) or under subsection (2), the responsible clinician must, within 14 days immediately preceding the date on which the extended compulsory treatment order expires, cause the case to be reviewed under section 76.
+(2) If, following that review, the responsible clinician is satisfied that the patient is not fit to be released from compulsory status, that clinician may apply to the court for an extension of the currency of the order for a period of 12 months commencing with the day after the date on which the order would otherwise have expired.
+
+### 34B Determination of application under section 34A
+(1) The court must treat an application under section 34A as if it were an application made under section 14(4).
+(2) Sections 15 and 17 to 33 apply with any necessary modifications, subject to subsection (3) and sections 34C and 34D.
+(3) Unless the court determines an application in accordance with section 26 or 34D, a District Court Judge must, within 2 months after the date on which the application under section 34A is filed in the court,—
+  (a) examine the patient; and
+  (b) hear and determine the application.
+(4) If, at the time immediately before the expiry of the relevant extended compulsory treatment order, the court has not determined an application under section 34A, the order does not expire and continues in force until the court determines the application.
+
+### 34C Examination and hearing of application for extension of community treatment order by audiovisual link
+(1) This section applies to an application under section 34 or 34A for the extension of a community treatment order.
+(2) A District Court Judge may use an audiovisual link to examine a patient for the purposes of the application if the patient consents to the use of the audiovisual link.
+(3) A District Court Judge may determine that all or any participants may appear at a hearing by audiovisual link if the patient consents to the use of the audiovisual link.
+(4) The District Court Judge must take into account the following criteria when making a determination under subsection (3):
+  (a) the potential impact of the use of the technology on the effective maintenance of the rights of the person under section 20, including the right to assess the credibility of witnesses and the reliability of evidence presented to the court:
+  (b) any other relevant matters.
+(5) In this section,—
+  - **audiovisual link** means facilities that enable both audio and visual communication,—
+    (a) in relation to an examination of a patient, with the patient:
+    (b) in relation to a hearing, between all participants
+  - **participant** means any of the following persons in a hearing:
+    (a) a party:
+    (b) the patient:
+    (c) counsel:
+    (d) a witness:
+    (e) the presiding District Court Judge.
+
+### 34D Court may dispense with examination and hearing
+(1) The court may determine an application under section 34 or 34A without examination of the patient and without a formal hearing if the court is satisfied that—
+  (a) the patient has given consent in accordance with subsection (2) for the application to be so determined; and
+  (b) no person wishes to be heard in respect of the application; and
+  (c) it is appropriate to do so in the circumstances.
+(2) The consent of the patient must be—
+  (a) given on the advice of a solicitor; and
+  (b) provided in writing to the court and the Director of Area Mental Health Services.
+(3) In this section, solicitor has the meaning given to it by section 6 of the Lawyers and Conveyancers Act 2006.
 
 ### 35 Release from compulsory status
 (1) If, at any time during the currency of a compulsory treatment order, the responsible clinician considers that the patient is fit to be released from compulsory status, that clinician shall direct that the patient be released from that status forthwith.
@@ -1321,7 +1361,9 @@ Wherever practicable, for the purposes of a review by a Review Tribunal of the c
   (c) misconduct; or
   (d) inability to perform the duties of the office.
 (4) Every Director of Area Mental Health Services must, every 3 months,—
-  (a) prepare a written report on the exercise of his or her powers, duties, and functions under this Act for the previous 3 months; and
+  (a) prepare a written report for the previous 3 months on—
+    (i) the exercise or performance of their powers, duties, and functions under this Act; and
+    (ii) the number of consents provided under section 34D(2)﻿(b); and
   (b) give the report to the Director.
 
 ### 92A Delegation by Directors of Area Mental Health Services
@@ -1932,6 +1974,19 @@ Every person who, immediately before the commencement of this Act, was detained 
   (b) the Director to—
     (i) grant a special patient leave of absence under section 52(1); or
     (ii) cancel a special patient’s leave of absence under section 52(3).
+
+### Part 2 — Provisions relating to Mental Health (Compulsory Assessment and Treatment) Amendment Act 2021
+
+### 3 Interpretation
+In this Part, unless the context otherwise requires,—
+  - **commencement date** means the day on which this Part comes into force
+  - **extension date** , in relation to a compulsory treatment order, means the day and month on which the order was extended indefinitely under section 34(4)
+  - **transition period** means the 12-month period starting on the 14th day after the commencement date.
+
+### 4 First 12-month review under section 34A
+(1) This clause applies to a compulsory treatment order that, before the commencement date, was extended indefinitely under section 34(4).
+(2) The order expires on the extension date that falls within the transition period (the expiry date).
+(3) The first review of the order under section 34A(1) must be undertaken within the 14-day period immediately preceding the expiry date.
 
 ## Schedule 1 — Procedural provisions relating to Review Tribunals
 
