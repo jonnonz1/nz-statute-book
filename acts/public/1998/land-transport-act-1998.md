@@ -1,5 +1,5 @@
 # Land Transport Act 1998
-_Consolidation as at 2023-06-15_
+_Consolidation as at 2023-11-01_
 
 > An Act—ato promote safe road user behaviour and vehicle safety; andbto provide for a system of rules governing road user behaviour, the licensing of drivers, and technical aspects of land transport, and to recognise reciprocal obligations of persons involved; andcto consolidate and amend various enactments relating to road safety and land transport; anddto enable New Zealand to implement international agreements relating to road safety and land transport
 
@@ -4101,8 +4101,8 @@ For the purposes of sections 129(1), 130(1), and 131(1), any enforcement officer
 (3) A copy of the Gazette containing an appointment, warrant, order, or other act of authority made under this Act is evidence in all courts that the appointment, warrant, order, or other act has been duly made or performed under the authority of this Act.
 
 ### 145 Evidence of approved vehicle surveillance equipment
-(1) In proceedings for a moving vehicle offence or a special vehicle lane offence, an image produced by means of an exposure taken by approved vehicle surveillance equipment and showing or recording a motor vehicle on a road, the speed of the vehicle, the location of the vehicle, the colour or form of a traffic control device, the fact that a toll has not been paid in respect of the vehicle, and the date and time when the image was taken, or showing or recording any of those things, is, in the absence of proof to the contrary, sufficient evidence of that fact or event.
-(2) The production, in proceedings for a moving vehicle offence or a special vehicle lane offence, of an image purporting to be an image referred to in subsection (1) is, in the absence of proof to the contrary, sufficient evidence that the image was produced by means of an exposure taken by approved vehicle surveillance equipment.
+(1) In proceedings for a moving vehicle offence or a special vehicle lane offence, data (including electronic images or a sequence of electronic images) produced by approved vehicle surveillance equipment and showing or recording a motor vehicle on a road, the speed of the vehicle, the location of the vehicle, the colour or form of a traffic control device, the fact that a toll has not been paid in respect of the vehicle, and the date and time when the image was taken, or showing or recording any of those things, is, in the absence of proof to the contrary, sufficient evidence of that fact or event.
+(2) The production, in proceedings for a moving vehicle offence or a special vehicle lane offence, of data purporting to be data referred to in subsection (1) is, in the absence of proof to the contrary, sufficient evidence that the data was produced by approved vehicle surveillance equipment.
 
 ### 145A Evidence and proof
 In any proceedings for an offence against Part 6A,—
