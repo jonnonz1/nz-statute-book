@@ -1,5 +1,5 @@
 # Privacy Act 2020
-_Consolidation as at 2023-07-01_
+_Consolidation as at 2023-11-01_
 
 ### 1 Title
 This Act is the Privacy Act 2020.
@@ -2460,6 +2460,7 @@ A transfer prohibition notice that was given by the Commissioner under section 1
 | Transport services licensing register | A national register of all transport service licences | Police |
 | Demerit points | The recording of demerit points in relation to traffic offences | Police |
 | Rail licensing register | A national register of all licences under the Railways Act 2005 | Police |
+| Traffic offence and infringement enforcement and document processing | Traffic offence and infringement enforcement processing, including infringement fees enforcement and preparation of documents | Police (access is limited to obtaining information for the purposes of—aconducting road policing activities and enforcing the Land Transport Act 1998 (including any rules and regulations made under that Act):bpreventing or lessening a serious threat to public health or public safety, or the life or health of an individual, where a motor vehicle is or is likely to be involved:chelping to locate vehicles that were involved, or were likely to be involved, in the commission of offences)Ministry of Justice (access is limited to obtaining information for the purpose of processing cases before a court)Legal Services Commissioner (access is limited to obtaining information for the purpose of processing cases before a court, and for determining an application for a grant of legal aid relating to a criminal matter) |
 
 | Subject | Description | Access available to |
 | --- | --- | --- |
