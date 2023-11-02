@@ -1,5 +1,5 @@
 # Climate Change Response Act 2002
-_Consolidation as at 2023-08-25_
+_Consolidation as at 2023-11-02_
 
 ### 1 Title
 This Act is the Climate Change Response Act 2002.
