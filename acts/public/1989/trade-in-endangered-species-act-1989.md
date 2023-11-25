@@ -1,5 +1,5 @@
 # Trade in Endangered Species Act 1989
-_Consolidation as at 2023-07-13_
+_Consolidation as at 2023-11-25_
 
 > An Act to further the protection and conservation of endangered species of wild fauna and flora by regulating the export and import of such species and any product derived from those species
 
@@ -950,6 +950,7 @@ Amendment(s) incorporated in the Act(s).
 |  |  |  | Picathartes oreas |  | Grey-necked Rockfowl |  |  |
 |  |  | Pittidae—Pittas |  | Pitta gurneyi |  | Guerney's Pitta |  |
 |  |  |  |  | Pitta kochi |  | Koch's Pitta |  |
+|  |  | Pycnonotidae—Bulbuls |  | Pycnonotus zeylanicus |  | Straw-headed Bulbul |  |
 |  |  | Sturnidae—Mynas, starlings |  | Leucopsar rothschildi |  | Bali Starling, Rothschild's Myna |  |
 |  |  | Zosteropidae—White-eyes |  | Zosterops albogularis |  | Norfolk White-throated White-eye |  |
 | Pelecaniformes |  | Fregatidae—Frigatebirds |  | Fregata andrewsi |  | Christmas Island Frigatebird |  |
@@ -1463,7 +1464,6 @@ Amendment(s) incorporated in the Act(s).
 |  |  | Paradisaeidae—Birds of paradise |  | Paradisaeidae spp |  | Birds of Paradise |  |  |
 |  |  | Pittidae—Pittas |  | Pitta guajana |  | Blue-tailed Pitta |  |  |
 |  |  |  |  | Pitta nympha |  | Fairy Pitta |  |  |
-|  |  | Pycnonotidae—Bulbuls |  | Pycnonotus zeylanicus |  | Straw-headed Bulbul |  |  |
 |  |  | Sturnidae—Mynas, starlings |  | Gracula religiosa |  | Hill Myna |  |  |
 | Piciformes |  | Ramphastidae—Toucans |  | Pteroglossus aracari |  | Black-necked Aracari |  |  |
 |  |  | Pteroglossus viridis |  | Green Aracari |  |  |  |  |
@@ -1694,8 +1694,7 @@ Amendment(s) incorporated in the Act(s).
 
 | Order | Family | Genus, species, or subspecies | Common name | Exceptions/limitations |
 | --- | --- | --- | --- | --- |
-| Carcharhiniformes | Carcharhinidae—Requiem sharks | Carcharhinus falciformis | Silky Shark |  |
-|  |  | Carcharhinus longimanus | Oceanic Whitetip Shark |  |
+| Carcharhiniformes | Carcharhinidae—Requiem sharks | Carcharhinidae spp | Requiem Sharks |  |
 |  | Sphyrnidae—Hammerhead sharks | Sphyrnidae spp | Hammerhead Sharks |  |
 | Lamniformes | Alopiidae—Thresher sharks | Alopias spp | Thresher Sharks |  |
 |  | Cetorhinidae—Basking sharks | Cetorhinus maximus | Basking Shark |  |
