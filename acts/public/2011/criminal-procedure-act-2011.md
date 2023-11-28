@@ -1,5 +1,5 @@
 # Criminal Procedure Act 2011
-_Consolidation as at 2022-12-21_
+_Consolidation as at 2023-11-28_
 
 ### 1 Title
 This Act is the Criminal Procedure Act 2011.
@@ -91,6 +91,7 @@ In this Act, unless the context otherwise requires,—
       (v) books, maps, plans, graphs, or drawings:
       (vi) photographs, films, negatives, tapes, or any other device in which 1 or more visual images are embodied so as to be capable (with or without the aid of some other equipment) of being reproduced
   - **electronic** includes electrical, digital, magnetic, optical, electromagnetic, biometric, and photonic
+  - **evidence based on national security information** has the meaning given to it in section 5A
   - **formal statement** has the meaning given to it in section 82
   - **hearing** includes a trial
   - **imprisonable offence** means,—
@@ -103,6 +104,8 @@ In this Act, unless the context otherwise requires,—
   - **Justice** means a Justice of the Peace
   - **lawyer** means a person who holds a current practising certificate as a barrister or as a barrister and solicitor under the Lawyers and Conveyancers Act 2006
   - **level of trial court** , in relation to a proceeding, means either the High Court or the District Court as determined under section 71, 72, 73, or 74, as the case may be
+  - **national security information** has the meaning given to it in section 4 of the Security Information in Proceedings Act 2022
+  - **national security interests** has the meaning given to it in section 4 of the Security Information in Proceedings Act 2022
   - **permanent court record** means the permanent court record referred to in section 184
   - **Police employee** has the meaning given to it in section 4 of the Policing Act 2008
   - **private prosecution** means a proceeding against a defendant in respect of an offence that is not—and has a corresponding meaning
@@ -126,8 +129,11 @@ In this Act, unless the context otherwise requires,—
     (b) if Waitangi Day or Anzac Day falls on a Saturday or a Sunday, the following Monday; and
     (c) a day in the period commencing on 25 December in any year and ending with 15 January in the following year.
 
-### 5A Transitional, savings, and related provisions
-The transitional, savings, and related provisions set out in Schedule 1AA have effect according to their terms.
+### 5A Interpretation: evidence based on national security information
+In this Act, evidence is evidence based on national security information if it is not itself national security information but is any of the following:
+  (a) a document that contains national security information and that has been redacted to the extent necessary to prevent the disclosure of that information:
+  (b) a written summary of national security information that does not disclose that information:
+  (c) an agreed statement of the facts that the whole or part of the national security information establishes that does not disclose that information.
 
 ### 6 Categories of offence defined
 (1) In this Act,—
@@ -779,15 +785,30 @@ If, as a result of any decision referred to in section 134(6), 135, or 140, the 
   (a) the prosecutor or the defendant wishes to adduce any particular evidence at a Judge-alone trial; and
   (b) he or she believes that the admissibility of that evidence may be challenged.
 (2) The prosecutor or the defendant may apply to the court for a hearing (a pre-trial admissibility hearing) for the purposes of obtaining a pre-trial order to the effect that the evidence is admissible.
+(2A) Subsection (2B) applies if—
+  (a) the Judge-alone trial is for—
+    (i) a category 4 offence; or
+    (ii) a specified category 3 offence; or
+    (iii) one of the following offences and the High Court grants leave for the application to be made:
+      (A) a category 3 offence that is not a specified category 3 offence:
+      (B) an offence against section 48 of the Health and Safety at Work Act 2015; and
+  (b) either party asserts that the evidence is evidence based on national security information.
+(2B) If this subsection applies,—
+  (a) the party must notify the Solicitor-General that it intends to make the application under subsection (2); and
+  (b) the application under subsection (2) must be made to the High Court.
 (3) An application under subsection (2) must be made by the time prescribed by rules of court.
-(4) The court may grant a pre-trial admissibility hearing if the court is satisfied that—
-  (a) it is more convenient to deal with the issues before the trial and—
+(4) The court may grant a pre-trial admissibility hearing if—
+  (a) the court is satisfied that it is more convenient to deal with the issues before the trial and—
     (i) the evidence raises a complex admissibility issue and the decision about whether it is admissible is likely to make a substantial difference to the overall conduct of the proceeding; or
     (ii) the outcome of the pre-trial admissibility hearing may obviate the need for a trial; or
-  (b) the complainant or witness is particularly vulnerable and resolving the admissibility issue is in the interests of justice; or
-  (c) the trial is to be in the District Court and the evidence has been obtained under an order made, or warrant issued, by the High Court.
+  (b) the court is satisfied that the complainant or witness is particularly vulnerable and resolving the admissibility issue is in the interests of justice; or
+  (c) the trial is to be in the District Court and the evidence has been obtained under an order made, or warrant issued, by the High Court; or
+  (d) the application is an application to which subsection (2A) applies.
 (5) The court may grant a pre-trial admissibility hearing on any terms and subject to any conditions that the court thinks fit, and may make any order permitted under section 80.
-(6) If a pre-trial admissibility hearing is granted on the ground in subsection (4)﻿(c), that pre-trial hearing must be in the High Court.
+(6) If a pre-trial admissibility hearing is granted on the ground in subsection (4)﻿(c) or (d), that pre-trial hearing must be in the High Court.
+(7) In this section, specified category 3 offence means a category 3 offence that—
+  (a) is punishable by imprisonment for life or by imprisonment for 7 years or more; or
+  (b) if committed by a body corporate, is punishable only by a fine, but that, if committed by an individual, would be punishable by imprisonment for life or by imprisonment for 7 years or more.
 
 ### 79 Pre-trial admissibility hearing and order that evidence admissible
 (1) The court at a pre-trial admissibility hearing must give each party an opportunity to be heard.
@@ -796,6 +817,14 @@ If, as a result of any decision referred to in section 134(6), 135, or 140, the 
 (4) Nothing in this section, or section 78, or in any order made under this section, affects—
   (a) the right of the prosecutor or the defendant to seek to adduce evidence that he or she claims is admissible during the trial; or
   (b) the discretion of the court at the trial to allow or exclude any evidence in accordance with any rule of law.
+
+### 79A Pre-trial admissibility hearing: national security information
+(1) This section applies in relation to a pre-trial admissibility hearing under section 79 if the application for the hearing is an application to which section 78(2A) applies.
+(2) The hearing is a specified proceeding for the purposes of the Security Information in Proceedings Act 2022 in respect of which the special procedures in Part 2 of that Act apply.
+(3) The High Court may make an order under section 79(2) that evidence based on national security information is admissible only if satisfied that—
+  (a) the requirements of section 79 are met; and
+  (b) the national security interests that would be likely to be prejudiced by fully disclosing the national security information will be adequately protected.
+(4) Nothing in this section affects the discretion of the court to make any additional orders it thinks fit to protect the confidentiality of national security information (for example, an order under section 197 (power to clear court) or 205 (court may suppress evidence and submissions)).
 
 ### 80 Court may order that certain pre-trial processes under subpart 8 apply
 (1) The court to which an application is made under section 78 may, to assist the court to determine whether or not to make an order as to the admissibility of the evidence under section 79(2),—
@@ -832,10 +861,15 @@ This subpart applies to a proceeding—
 ### 83 False statement in formal statement deemed to be perjury
 A formal statement filed under section 85 is to be treated as evidence on oath given in a judicial proceeding within the meaning of section 108 of the Crimes Act 1961 (which relates to perjury).
 
-### 84 Persons who may give evidence under assumed name
+### 84 Persons who may give evidence under assumed name or anonymously
 (1) An undercover Police officer (within the meaning of section 108 of the Evidence Act 2006)—
   (a) may make a formal statement in the name by which the officer was known during the relevant investigation; and
   (b) may authenticate that statement, or any record of evidence prepared under section 99, in that name.
+(1A) An intelligence officer or intelligence source (as those terms are defined in section 109A of the Evidence Act 2006)—
+  (a) may make a formal statement,—
+    (i) in the case of an intelligence officer who has acquired an assumed identity under subpart 1 of Part 3 of the Intelligence and Security Act 2017, in the name of their assumed identity; or
+    (ii) in any other case, using the term “witness” followed by an initial or a mark; and
+  (b) may authenticate that statement, or any record of evidence prepared under section 99, in that name or manner.
 (2) A witness who is the subject of an application for an anonymity order made under section 110 or 112 of the Evidence Act 2006, or who is the subject of an anonymity order made under either of those sections,—
   (a) may make a formal statement using the term witness followed by an initial or mark; and
   (b) may authenticate that statement, or any record of evidence prepared under section 99, in that manner.
@@ -886,12 +920,14 @@ At the trial callover hearing an unrepresented defendant must, if the matter is 
 ### 90 Application for oral evidence order
 (1) Either party may apply to the court for an order allowing the oral examination of a potential witness whether or not that witness has provided a formal statement.
 (2) An application under subsection (1) must be made within the time prescribed by rules of court.
-(3) The requirement under subsection (1) to apply to the court is subject to section 91(b).
+(3) The requirement under subsection (1) to apply to the court is subject to section 91(3).
 
-### 91 Application for leave to question undercover Police officer's identity must be dealt with by High Court
-If the defendant wishes to apply, under section 109(1)﻿(d) of the Evidence Act 2006, for leave to put any questions relating to the identity of a witness called by the prosecutor who is an undercover Police officer,—
-  (a) that application must be made at the same time as the application is made for an oral evidence order allowing the oral examination of the person to whom those questions are proposed to be put; and
-  (b) both applications must be determined by a High Court Judge.
+### 91 Application for leave to question identity of undercover Police officer or intelligence witness to be determined by High Court
+(1) This section applies if the defendant wishes to apply,—
+  (a) under section 109(1)﻿(d) of the Evidence Act 2006, for leave to put any questions relating to the identity of a witness called by the prosecutor who is an undercover Police officer; or
+  (b) under section 109B(2) of the Evidence Act 2006, for leave to put any questions relating to the identity of a witness called by the prosecutor who is an intelligence officer or an intelligence source.
+(2) The application must be made at the same time as the application is made for an oral evidence order allowing the oral examination of the person to whom those questions are proposed to be put.
+(3) Both the application referred to in subsection (1) and the application for an oral evidence order must be determined by a High Court Judge.
 
 **Oral evidence orders**
 
@@ -920,10 +956,10 @@ If the defendant wishes to apply, under section 109(1)﻿(d) of the Evidence Act
   (a) the particular vulnerability of the complainant; and
   (b) the impact on the complainant of giving oral evidence.
 
-### 94 Withdrawal of charge if oral evidence order made for examination of undercover Police officer
+### 94 Withdrawal of charge if oral evidence order made for examination of undercover Police officer or intelligence witness
 (1) Despite section 146, the prosecutor may withdraw a charge without the leave of the court if—
   (a) an oral evidence order is made under section 92 allowing the oral examination of a prosecution witness; and
-  (b) leave is granted to the defendant, on an application under section 109(1)﻿(d) of the Evidence Act 2006, to put any question to that witness relating to the identity of that witness or of another prosecution witness.
+  (b) leave is granted to the defendant, on an application under section 109(1)﻿(d) or 109B(2) of the Evidence Act 2006, to put any question to that witness relating to the identity of that witness or of another prosecution witness.
 (2) The withdrawal of a charge is not a bar to any other proceedings in the same matter.
 
 **Procedure for taking oral evidence**
@@ -982,13 +1018,33 @@ If an oral evidence order is made, subpart 5 (alternative ways of giving evidenc
   (a) the prosecutor or the defendant wishes to adduce any particular evidence at a jury trial; and
   (b) he or she believes that the admissibility of that evidence may be challenged.
 (2) The prosecutor or the defendant may apply to the court for a pre-trial order to the effect that the evidence is admissible.
+(2A) Subsection (2B) applies to an application if—
+  (a) it relates to a jury trial for—
+    (i) a category 4 offence; or
+    (ii) a specified category 3 offence; or
+    (iii) any other category 3 offence and the High Court grants leave for the application to be made; and
+  (b) either party asserts that evidence to which the application relates is evidence based on national security information.
+(2B) If this subsection applies, the party must notify the Solicitor-General that it intends to make the application under subsection (2).
 (3) An application under subsection (2) must be made by the time prescribed by rules of court.
 (4) The court must give each party an opportunity to be heard in respect of the application before deciding whether or not to make the order.
 (5) The court may make an order under this section on any terms and subject to any conditions that the court thinks fit.
 (6) Nothing in this section nor in any order made under this section affects—
   (a) the right of the prosecutor or the defendant to seek to adduce evidence that he or she claims is admissible during the trial; or
   (b) the discretion of the court at the trial to allow or exclude any evidence in accordance with any rule of law.
-(7) If the evidence has been obtained under an order made, or a warrant issued, by the High Court, the application must be made to the High Court.
+(7) The application must be made to the High Court if—
+  (a) the evidence has been obtained under an order made, or a warrant issued, by the High Court; or
+  (b) it is an application to which subsection (2A) applies.
+(8) In this section, specified category 3 offence means a category 3 offence that—
+  (a) is punishable by imprisonment for life or by imprisonment for 7 years or more; or
+  (b) if committed by a body corporate, is punishable only by a fine, but that, if committed by an individual, would be punishable by imprisonment for life or by imprisonment for 7 years or more.
+
+### 101A National security information: pre-trial hearing and order
+(1) This section applies in relation to a hearing of an application for a pre-trial order if the application is an application referred to in section 101(2A)﻿(b).
+(2) The hearing is a specified proceeding for the purposes of the Security Information in Proceedings Act 2022 in respect of which the special procedures in Part 2 of that Act apply.
+(3) The High Court may make an order under section 101(5) that evidence that is based on national security information is admissible only if satisfied that—
+  (a) the requirements of section 101 are met; and
+  (b) the national security interests that would be likely to be prejudiced by fully disclosing the national security information will be adequately protected.
+(4) Nothing in this section affects the discretion of the court to make any additional orders it thinks fit to protect the confidentiality of national security information (for example, an order under section 197 (power to clear court) or 205 (court may suppress evidence and submissions)).
 
 **Trial before Judge alone may be ordered**
 
@@ -1102,7 +1158,7 @@ On a charge of murder, the jury—
 **Dismissal of charge in certain cases**
 
 ### 112 Court must dismiss charge in certain cases
-(1) Where, on an application under section 109(1)﻿(d) of the Evidence Act 2006, leave is granted to the defendant to put any question relating to the identity of a witness called by the prosecutor, the prosecutor may inform the court that the prosecution does not intend to proceed with the charge.
+(1) Where, on an application under section 109(1)﻿(d) or 109B(2) of the Evidence Act 2006, leave is granted to the defendant to put any question relating to the identity of a witness called by the prosecutor, the prosecutor may inform the court that the prosecution does not intend to proceed with the charge.
 (2) In a case described in subsection (1), the court must dismiss the charge under section 147.
 
 **Witnesses**
@@ -1118,6 +1174,30 @@ On a charge of murder, the jury—
 (4) In the case described in subsection (3), the court may—
   (a) adjourn the trial; or
   (b) if it is of the opinion that it would be in the interests of justice to do so, on the application of the defendant, discharge the jury and postpone the trial.
+
+**Evidence based on national security information**
+
+### 113A National security information: admissibility hearing in course of trial
+(1) This section applies if—
+  (a) the proceedings are for—
+    (i) a category 4 offence; or
+    (ii) a specified category 3 offence; or
+    (iii) 1 or more of the following offences and the High Court grants leave for the application to be made:
+      (A) a category 3 offence that is not a specified category 3 offence:
+      (B) an offence against section 48 of the Health and Safety at Work Act 2015; and
+  (b) either party asserts that evidence that it or the other party wishes to adduce, during the trial, is evidence based on national security information.
+(2) The party may apply to the High Court for an order to the effect that the evidence is admissible.
+(3) The party must notify the Solicitor-General that it intends to make the application before the application is made.
+(4) The High Court must give each party an opportunity to be heard in respect of the application before deciding whether to make the order.
+(5) The hearing of the application is a specified proceeding for the purposes of the Security Information in Proceedings Act 2022 in respect of which the special procedures in Part 2 of that Act apply.
+(6) The High Court may order that the evidence based on national security information is admissible if the court is satisfied that—
+  (a) the evidence is admissible; and
+  (b) the national security interests that would be likely to be prejudiced by fully disclosing the national security information will be adequately protected.
+(7) The court may make an order under this section on any terms and subject to any conditions that the court thinks fit.
+(8) Nothing in this section affects the discretion of the court to make any additional orders it thinks fit to protect the confidentiality of national security information (for example, an order under section 197 (power to clear court) or 205 (court may suppress evidence and submissions)).
+(9) In this section, specified category 3 offence means a category 3 offence that—
+  (a) is punishable by imprisonment for life or by imprisonment for 7 years or more; or
+  (b) if committed by a body corporate, is punishable only by a fine, but that, if committed by an individual, would be punishable by imprisonment for life or by imprisonment for 7 years or more.
 
 ## Part 5 — General provisions
 
@@ -1463,12 +1543,19 @@ Every person who is a party to any offence may be convicted either on a charge t
 
 **Withdrawal and dismissal of charges**
 
-### 146 Withdrawal of charge
+### 146 Withdrawal of charge generally
 (1) The prosecutor may, with the leave of the court, withdraw a charge before the trial.
 (2) The withdrawal of a charge under this section is not a bar to any other proceeding in the same matter.
 (3) A Registrar may, in respect of any offence other than a category 4 offence, exercise the power under subsection (1) if the defendant consents to the prosecutor withdrawing the charge.
 
-### 147 Dismissal of charge
+### 146A Withdrawal of charge due to risk to national security interests
+(1) A prosecutor conducting a public prosecution may withdraw a charge before the trial, without the leave of the court, if—
+  (a) the High Court (or, on appeal, the Court of Appeal or the Supreme Court) makes an order under section 29 or 30 of the Criminal Disclosure Act 2008 requiring disclosure of information to the defendant in the proceedings; and
+  (b) the prosecutor is satisfied that the disclosure of the information would be likely to prejudice national security interests.
+(2) The withdrawal of a charge under this section is not a bar to any other proceeding in the same matter.
+(3) Nothing in this section prevents a charge from being withdrawn before the trial under section 192 as an alternative to withdrawal under this section.
+
+### 147 Dismissal of charge generally
 (1) The court may dismiss a charge at any time before or during the trial, but before the defendant is found guilty or not guilty, or enters a plea of guilty.
 (2) The court may dismiss the charge on its own motion or on the application of the prosecutor or the defendant.
 (3) A decision to dismiss a charge may be made on the basis of any formal statements, any oral evidence taken in accordance with an order made under section 92, and any other evidence and information that is provided by the prosecutor or the defendant.
@@ -1479,6 +1566,12 @@ Every person who is a party to any offence may be convicted either on a charge t
 (5) A decision to dismiss a charge must be given in open court.
 (6) If a charge is dismissed under this section the defendant is deemed to be acquitted on that charge.
 (7) Nothing in this section affects the power of the court to convict and discharge any person.
+
+### 147A Dismissal of charge when information withheld due to risk to national security interests
+(1) Without limiting section 147, a court may dismiss a charge under that section if—
+  (a) the High Court (or, on appeal, the Court of Appeal or Supreme Court) refuses to make a relevant order because it is satisfied that disclosure of the information concerned would prejudice national security interests; and
+  (b) the court is satisfied that withholding the information creates a real risk of prejudice to a fair trial.
+(2) In this section, relevant order means an order under section 29 or 30 of the Criminal Disclosure Act 2008 requiring disclosure of information to a defendant in proceedings.
 
 ### 148 Prosecutor must notify court if defendant completes programme of diversion
 (1) The prosecutor must ensure that the court is notified if a defendant has successfully completed a programme of diversion (being a programme conducted in relation to any public prosecution) in respect of the offence charged.
@@ -2331,7 +2424,7 @@ The duty of an appeal court to determine an appeal under subparts 2 to 10 is sub
   (b) granting or refusing to grant permission under section 44 of the Evidence Act 2006 (which relates to the cross-examination of a complainant):
   (ba) granting or refusing to grant an application for a direction under section 106F of the Evidence Act 2006 in respect of a notification under section 106D of that Act that cross-examination evidence is to be given by video record made before trial:
   (bb) granting or refusing to grant an application under section 106H of the Evidence Act 2006 for further cross-examination of a sexual case complainant or propensity witness all of whose evidence has been or is to be given by video record made before trial:
-  (c) giving or refusing to give leave on an application under section 109(1)﻿(d) of the Evidence Act 2006 (which relates to the identity of a witness):
+  (c) giving or refusing to give leave on an application under section 109(1)﻿(d) or 109B(2) of the Evidence Act 2006 (which relates to the identity of a witness):
   (ca) making or refusing to make a pre-trial witness anonymity order under section 110 of the Evidence Act 2006:
   (d) making or refusing to make a witness anonymity order under section 112 of the Evidence Act 2006.
 
@@ -2356,7 +2449,7 @@ The duty of an appeal court to determine an appeal under subparts 2 to 10 is sub
   (i) granting or refusing to grant permission under section 44 of the Evidence Act 2006 (relating to the cross-examination of a complainant):
   (ia) granting or refusing to grant an application for a direction under section 106F of the Evidence Act 2006 in respect of a notification under section 106D of that Act that cross-examination evidence is to be given by video record made before trial:
   (ib) granting or refusing to grant an application under section 106H of the Evidence Act 2006 for further cross-examination of a sexual case complainant or propensity witness all of whose evidence has been or is to be given by video record made before trial:
-  (j) giving or refusing to give leave on an application under section 109(1)﻿(d) of the Evidence Act 2006 (relating to the identity of a witness):
+  (j) giving or refusing to give leave on an application under section 109(1)﻿(d) or 109B(2) of the Evidence Act 2006 (relating to the identity of a witness):
   (ja) making or refusing to make a pre-trial witness anonymity order under section 110 of the Evidence Act 2006:
   (k) making or refusing to make a witness anonymity order under section 112 of the Evidence Act 2006.
 
@@ -3943,6 +4036,17 @@ A declaration containing the statement required by section 82(1)﻿(b) of the pr
 (3) However, the following provisions apply, after they (or, as the case requires, after the amendments made to them by that Part) come into force, to proceedings specified in subclause (2):
   (a) section 196(3) (court proceedings generally open to public):
   (b) section 199AA (court may be cleared when victim impact statement read or otherwise presented to court in cases of sexual nature).
+
+### Part 4 — Provisions relating to Security Information in Proceedings (Repeals and Amendments) Act 2022
+
+### 6 Interpretation
+In this Part, unless the context otherwise requires,—
+  - **2022 Act** means sections 12 to 31 of the Security Information in Proceedings (Repeals and Amendments) Act 2022
+  - **commencement date** means the date on which the 2022 Act comes into force.
+
+### 7 Proceedings affected by amendments
+(1) The amendments made to this Act by the 2022 Act (except for this clause) apply only to proceedings commenced on or after the commencement date.
+(2) Proceedings commenced before the commencement date, and not finally determined before the commencement date (including any rehearing, retrial, or appeal), continue as if those amendments had not been enacted.
 
 ## Schedule 1AB — Temporary provisions in respect of COVID-19
 
