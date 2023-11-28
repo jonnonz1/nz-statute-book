@@ -1,5 +1,5 @@
 # Criminal Disclosure Act 2008
-_Consolidation as at 2021-10-28_
+_Consolidation as at 2023-11-28_
 
 ### 1 Title
 This Act is the Criminal Disclosure Act 2008.
@@ -17,6 +17,9 @@ This Act is the Criminal Disclosure Act 2008.
 ### 4 Application of Act
 (1) This Act applies to all criminal proceedings that are commenced on or after the date on which this Act comes into force.
 (2) This section is subject to section 41.
+
+### 4A Transitional, savings, and related provisions
+The transitional, savings, and related provisions set out in Schedule 1AA have effect according to their terms.
 
 ### 5 Act binds the Crown
 This Act binds the Crown.
@@ -37,7 +40,7 @@ This Act binds the Crown.
       (ii) proceedings before the Youth Court where a child or young person is charged with an offence; and
     (b) includes any appeal against conviction or sentence; but
     (c) does not include—
-      (i) any matter ancillary to proceedings (for example, an application for bail or an application for name suppression or an application under section 79 or 101 of the Criminal Procedure Act 2011); or
+      (i) any matter ancillary to proceedings (for example, an application for bail or an application for name suppression or an application under section 78, 101, or 113A of the Criminal Procedure Act 2011); or
       (ii) any proceedings under the Armed Forces Discipline Act 1971 or any other enactment for any other offence under military law
   - **evidence in support of an alibi** means evidence tending to show that, by reason of the presence of the defendant at a particular place or in a particular area at a particular time, the defendant was not, or was unlikely to have been, at the place where the offence is alleged to have been committed at the time of its alleged commission
   - **exhibit** means an article or object of any kind that is capable of being produced as evidence on behalf of either the prosecutor or the defendant
@@ -45,6 +48,7 @@ This Act binds the Crown.
   - **informant** means a person who provides verbal or written information (whether or not in recorded form) to a law enforcement officer
   - **international organisation** means any organisation of States or Governments of States or any organisation or agency of any such organisation, and includes the Commonwealth Secretariat
   - **Judge** has the meaning given to it in section 7
+  - **national security interests** has the meaning given by section 4 of the Security Information in Proceedings Act 2022
   - **prosecutor** means the person who is for the time being in charge of the file or files relating to a criminal proceeding; and includes—
     (a) any other employee of the person or agency by whom the prosecutor is employed who has responsibilities for any matter directly connected with the proceedings; and
     (b) any counsel representing the person who filed the charging document in the proceedings; and
@@ -187,11 +191,10 @@ For the purposes of this Act, criminal proceedings are commenced at the earliest
       (B) the prosecutor and any adviser to the prosecutor; or
     (iii) analytical or evaluative material prepared, in connection with an investigation that led to the defendant being charged, by a person employed by a person or agency for another person employed by that person or agency or for the prosecutor; or
   (d) the information is subject to sections 108 and 109 of the Evidence Act 2006 (which relates to information about undercover police officers); or
+  (da) the information is subject to sections 109A and 109B of the Evidence Act 2006 (which relate to information about the name or address of intelligence officers and intelligence sources); or
   (e) the information is subject to a pre-trial witness anonymity order under section 110 of the Evidence Act 2006 or a witness anonymity order under section 112 of the Evidence Act 2006; or
   (f) the information is subject to section 16 of the Victims Rights Act 2002 (which relates to information about witnesses’ addresses); or
-  (g) the disclosure of the information would be likely to prejudice—
-    (i) the security or defence of New Zealand or the international relations of the Government of New Zealand; or
-    (ii) the entrusting of information to the Government of New Zealand on a basis of confidence by the government of any other country or any agency of such a government or any international organisation; or
+  (g) disclosure of the information would be likely to prejudice national security interests; or
   (h) disclosure of the information would be likely to facilitate the commission of another offence; or
   (i) disclosure of the information would constitute contempt of court or contempt of the House of Representatives; or
   (j) the information could be withheld under any privilege applicable under the rules of evidence; or
@@ -293,6 +296,25 @@ If a defendant makes an application in accordance with section 24, the court may
   (a) require the attendance of the person, or a representative of the agency, that allegedly holds or may hold the information at a particular court at a particular time; and
   (b) describe the relevant material with as much particularity as possible, and require the person to bring the material to the court.
 
+### 26A Procedure if Judge subsequently satisfied that another person holds information sought
+(1) If an application for a non-party disclosure hearing is granted under section 25(a)﻿(i) but at any time before or during the non-party disclosure hearing the Judge is satisfied that all or part of the information sought by the defendant is likely to be held by a person or agency other than the person or agency alleged by the defendant, the Judge may—
+  (a) order that a copy of the application be served on that person or agency; and
+  (b) adjourn the proceedings for that purpose.
+(2) If the Judge makes an order under subsection (1), sections 26(3), 27, and 29 apply with any necessary modifications.
+
+### 26B National security interests: notification and hearing when non-party is Crown
+(1) This section applies in relation to a non-party disclosure hearing granted under section 25 if the Crown—
+  (a) is served with the application for the hearing under section 26(1) or (2) or 26A; and
+  (b) is satisfied that disclosure of all or part of the information sought by the defendant should be refused because its disclosure would be likely to prejudice national security interests.
+(2) As soon as practicable after being served with the application, the Crown must notify the court before which the proceedings are being conducted that the Crown—
+  (a) has been served with the application; and
+  (b) is satisfied of the matter referred to in subsection (1)﻿(b).
+(3) The non-party disclosure hearing must be conducted by the High Court.
+(4) The non-party disclosure hearing is a specified proceeding for the purposes of the Security Information in Proceedings Act 2022 in respect of which the special procedures in Part 2 of that Act apply.
+(5) In this section, Crown means a person or an agency, other than the prosecutor, that is or acts on behalf of—
+  (a) the Crown (within the meaning of section 4 of the Security Information in Proceedings Act 2022); or
+  (b) a Crown agent (within the meaning of section 10(1) of the Crown Entities Act 2004).
+
 ### 27 Non-party disclosure hearing
 (1) The following persons may call evidence or make submissions in any non-party disclosure hearing:
   (a) the prosecutor:
@@ -310,12 +332,6 @@ If a defendant makes an application in accordance with section 24, the court may
   (a) the person, or any representative of the agency, from whom information is sought:
   (b) any other person who may be affected by any order that the court may make under section 29.
 (5) The hearing conducted under this section must not be open to the public.
-
-### 28 Procedure if Judge subsequently satisfied that another person holds information sought
-(1) If a non-party disclosure hearing is granted under section 25(a)﻿(i) but at any time before or during the non-party disclosure hearing the Judge is satisfied that all or part of the information sought by the defendant is likely to be held by a person or agency other than the person or agency alleged by the defendant, the Judge may—
-  (a) order that a copy of the application be served on that person or agency; and
-  (b) adjourn the proceedings for that purpose.
-(2) If the Judge makes an order under subsection (1), sections 26(3), 27, and 29 apply with any necessary modifications.
 
 ### 29 Determination of court following non-party disclosure hearing
 (1) After the hearing under section 27, the Judge may order the person or agency who holds the information to disclose it, or part of it, to the defendant, subject to any conditions imposed under subsection (4), if the Judge is satisfied that—
@@ -338,6 +354,9 @@ If a defendant makes an application in accordance with section 24, the court may
   (f) that details relating to any named person in the information, such as the person's address, telephone number, or place of employment, not be disclosed.
 (5) If any information is disclosed under this section to the defendant's counsel and, before the proceedings are determined, that counsel ceases to act for the defendant, the counsel must return the information and any copies of it in the possession of the defendant or the defendant's counsel to the court or Registrar, together with a declaration that those copies have been returned.
 (6) If any person fails to comply with subsection (5) without reasonable excuse the court may, on its own motion or on the application of the prosecutor, deal with the failure under subpart 4 of Part 2 of the Contempt of Court Act 2019 as a breach of a court order.
+(6A) See the following sections of the Criminal Procedure Act 2011, which may be relevant if a disclosure would be likely to prejudice national security interests:
+  (a) section 147A, which enables a charge to be dismissed if the court concerned refuses to order disclosure of information because it would be likely to prejudice national security interests and withholding the information creates a real risk of prejudice to a fair trial:
+  (b) section 146A, which enables a charge to be withdrawn before the trial, without leave of the court concerned, if the disclosure of information is ordered under this section or section 30 and the prosecutor is satisfied the disclosure would be likely to prejudice national security interests.
 
 **General powers of courts in relation to disclosure**
 
@@ -352,6 +371,15 @@ If a defendant makes an application in accordance with section 24, the court may
   (b) even though the information may be withheld under this Act, the interests protected by the withholding of that information are outweighed by other considerations that make it desirable, in the public interest, to disclose the information.
 (2) If the court is satisfied, on an application made under this section, that the defendant is entitled to the disclosure of any particular item of information or type of information, or that any particular item of information or type of information should be disclosed to the defendant under subsection (1)﻿(b), the court may order that the item or type of information be disclosed to the defendant.
 (3) An order made under this section may be made subject to any conditions that the court considers appropriate.
+
+### 30A National security interests: application for order under section 30
+(1) This section applies to an application for an order under section 30 that information be disclosed if the prosecutor refused to disclose the information in reliance on section 16(1)﻿(g).
+(2) The defendant may only make the application to the High Court.
+(3) The prosecutor must notify the Solicitor-General as soon as practicable after becoming aware that the defendant has made the application.
+(4) The non-party disclosure hearing is a specified proceeding for the purposes of the Security Information in Proceedings Act 2022 in respect of which the special procedures in Part 2 of that Act apply.
+(5) See the following sections of the Criminal Procedure Act 2011, which may be relevant if the High Court refuses to order disclosure of information under section 30:
+  (a) section 146A, which enables a charge to be withdrawn before the trial, without leave of the court concerned, if the prosecutor is satisfied the disclosure would be likely to prejudice national security interests:
+  (b) section 147A, which enables a charge to be dismissed if the High Court is satisfied that the disclosure would be likely to prejudice national security interests.
 
 ### 31 Court order setting conditions for inspection of exhibit
 (1) The prosecutor or the defendant may apply to the court or the Registrar for an order as to—
@@ -458,7 +486,23 @@ Section 18 of the Official Information Act 1982 is amended by inserting the foll
   (a) authorises or requires any information to be made available; or
   (b) imposes a prohibition or restriction in relation to the availability of any information; or
   (c) regulates the manner in which any information may be obtained or made available.
-(2) Without limiting subsection (1), nothing in this Act applies in respect of any video record made under the Evidence Regulations 2007 or any copy or transcript of such a video record.
+(2) Without limiting subsection (1), nothing in this Act applies in respect of any video record made under the Evidence (Video Records and Very Young Children’s Evidence) Regulations 2023 or any copy or transcript of such a video record.
+
+## Schedule 1AA — Transitional, savings, and related provisions
+
+### Part 1 — Provisions relating to Security Information in Proceedings (Repeals and Amendments) Act 2022
+
+### 1 Interpretation
+In this Part, unless the context otherwise requires,—
+  - **2022 Act** means sections 3 to 11 of the Security Information in Proceedings (Repeals and Amendments) Act 2022
+  - **commencement date** means the date on which the 2022 Act comes into force.
+
+### 2 Proceedings affected by amendments
+(1) The amendments made to this Act by the 2022 Act (except for this clause) apply only to proceedings commenced on or after the commencement date.
+(2) To avoid doubt, subclause (1) applies to proceedings that relate to the commission or possible commission of an offence if—
+  (a) the commission or possible commission occurred before the commencement date; and
+  (b) the proceedings are commenced on or after that date.
+(3) Proceedings commenced before the commencement date, and not finally determined before the commencement date (including any rehearing, retrial, or appeal), continue as if those amendments had not been enacted.
 
 ## Schedule 1 — Enactments amended
 
