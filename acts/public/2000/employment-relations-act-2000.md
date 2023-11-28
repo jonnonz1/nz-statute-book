@@ -1,5 +1,5 @@
 # Employment Relations Act 2000
-_Consolidation as at 2023-06-13_
+_Consolidation as at 2023-11-28_
 
 ### 1 Title
 This Act is the Employment Relations Act 2000.
@@ -3113,7 +3113,7 @@ Where the remedy of reinstatement is provided by the Authority or the court, the
   (a) for any breach of an employment agreement; or
   (b) for a breach of any provision of this Act for which a penalty in the Authority is provided in the particular provision.
 (2) Subsection (1) is subject to—
-  (a) sections 177 and 178 (which allow for the referral or removal of certain matters to the Employment Court); and
+  (a) sections 177, 178, and 178AA (which provide for the referral or removal of certain matters to the Employment Court); and
   (b) any right to have the matter heard by the court under section 179.
 (3) Subject to any rights of appeal under this Act, the court has full and exclusive jurisdiction to deal with all actions for the recovery of penalties under this Act for a breach of any other provision of this Act for which a penalty in the court is provided in the particular provision.
 
@@ -4033,7 +4033,7 @@ The Authority is to have a seal, which is to be judicially noticed by all courts
   (a) to a question about the procedure that the Authority has followed, is following, or is intending to follow; and
   (b) without limiting paragraph (a), to a question about whether the Authority may follow or adopt a particular procedure.
 
-### 178 Removal to court
+### 178 Removal to court generally
 (1) The Authority may, on its own motion or on the application of a party to a matter, order the removal of the matter, or any part of it, to the court to hear and determine the matter without the Authority investigating it.
 (2) The Authority may order the removal of the matter, or any part of it, to the court if—
   (a) an important question of law is likely to arise in the matter other than incidentally; or
@@ -4046,6 +4046,9 @@ The Authority is to have a seal, which is to be judicially noticed by all courts
 (6) This section does not apply—
   (a) to a matter, or part of a matter, about the procedure that the Authority has followed, is following, or is intending to follow; and
   (b) without limiting paragraph (a), to a matter, or part of a matter, about whether the Authority may follow or adopt a particular procedure.
+
+### 178AA Removal to court of proceeding involving national security information
+If the Attorney-General gives written notice to the Authority that the Crown intends to make an SI application (under section 32 of the Security Information in Proceedings Act 2022) in connection with proceedings before the Authority, section 44 of that Act applies as if a reference in that section to the District Court were a reference to the Authority and a reference to the High Court were a reference to the Employment Court.
 
 ### 178A Challenge in respect of dismissal of frivolous or vexatious proceedings
 (1) A party to a matter before the Authority that was dismissed because the Authority determined it was frivolous or vexatious under clause 12A of Schedule 2 may challenge that determination in the court.
@@ -4144,7 +4147,7 @@ The making of an election under section 179 does not operate as a stay of procee
   (b) to hear and determine actions for the recovery of penalties under this Act for a breach of any provision of this Act (being a provision that provides for the penalty to be recovered in the court):
   (c) to hear and determine questions of law referred to it by the Authority under section 177:
   (d) to hear and determine applications for leave to have matters before the Authority removed into the court under section 178(3):
-  (e) to hear and determine matters removed into the court under section 178:
+  (e) to hear and determine matters removed into the court under section 178 or 178AA:
   (f) to hear and determine, under section 6(5), any question whether any person is to be declared to be—
     (i) an employee within the meaning of this Act; or
     (ii) a worker or employee within the meaning of any of the Acts referred to in section 223(1):
