@@ -1,5 +1,5 @@
 # Overseas Investment Act 2005
-_Consolidation as at 2023-08-24_
+_Consolidation as at 2023-11-28_
 
 ### 1 Title
 This Act is the Overseas Investment Act 2005.
@@ -31,7 +31,7 @@ This Act is the Overseas Investment Act 2005.
   (c) Part 3 contains the management regime for certain risks, such as national security and public order risks, for transactions by overseas persons, and is organised as follows:
     (i) subpart 1 provides for the review of call-in transactions:
     (ii) subpart 2 sets out the details of the risk management actions that may be taken to manage certain risks: direction orders, prohibition orders, disposal orders, and statutory management:
-    (iii) subpart 3 deals with the protection of classified information:
+    (iii) subpart 3 deals with the protection of classified security information:
     (iv) subpart 4 relates to regulations and other miscellaneous matters.
 (2) This Act replaces the Overseas Investment Act 1973 and the Overseas Investment Regulations 1995.
 (3) This section is a guide only to the general scheme and effect of this Act.
@@ -56,6 +56,7 @@ This Act is the Overseas Investment Act 2005.
     (a) an overseas investment in sensitive land:
     (b) an overseas investment in significant business assets:
     (c) an overseas investment in fishing quota
+  - **classified security information** has the meaning set out in section 114
   - **Commission** means the Overseas Investment Commission
   - **commitment to reside in New Zealand test** means the test set out in Part 2 of Schedule 2
   - **consent** means a consent granted under this Act for an overseas investment transaction
@@ -2028,135 +2029,69 @@ The Minister may only make a disposal order or a recommendation that a person be
     (i) in the case of a disposal order, to a risk referred to in section 81:
     (ii) in the case of a recommendation that a person be put into statutory management, to a significant risk to national security or public order.
 
-### Subpart 3 — Protection of classified information
+### Subpart 3 — Protection of classified security information
 
-### 113 Application of subpart
-This subpart applies to any civil proceedings (including public law and judicial review proceedings) in a court relating to the administration or enforcement of this Act.
+### 113 Proceedings involving classified security information
+(1) This section applies to any civil proceedings (including public law and judicial review proceedings) in a court relating to the administration or enforcement of this Act.
+(2) If the Crown proposes to present classified security information in proceedings, the Attorney-General must—
+  (a) make an application to an authorised court under section 32 of the 2022 Act for a security information order to protect the confidentiality of the information to be given as evidence in the proceedings; and
+  (b) submit to the court the certification described in section 114(1)﻿(b).
+(3) If the classified security information is also national security information, the Crown may submit with the application and certification referred to in subsection (2) an NSI certificate under section 41 of the 2022 Act and seek a security information order as set out in section 36(3) of that Act (under which the types of orders available to the court are limited).
+(4) In this section,—
+  - **2022 Act** means the Security Information in Proceedings Act 2022
+  - **authorised court** , , , and have the meanings set out in section 4 of the 2022 Act.
 
-### 114 Classified security information and other terms defined
-(1) In this subpart, classified security information means information—
-  (a) that is relevant to any proceedings in a court that relate to the administration or enforcement of this Act (or to any intended proceedings); and
-  (b) that is held by an agency listed in section 126(2); and
-  (c) that the head of the agency, in the case of information held by an intelligence or security agency, or the Attorney-General, in the case of information held by any other agency, certifies in writing cannot be disclosed except to the extent provided in this subpart because, in the opinion of the head of the agency or the Attorney-General (as applicable),—
+### 114 Meaning of classified security information
+(1) In this Act, classified security information means information—
+  (a) that is held by an agency listed in section 126(2); and
+  (b) that the head of the agency (in the case of information held by an intelligence or security agency) or the Attorney-General (in the case of information held by any other agency) certifies in writing cannot be disclosed (except as authorised by or under an Act or other rule of law) because, in the opinion of the head of the agency or the Attorney-General (as applicable),—
     (i) the information is information of a kind specified in subsection (2); and
     (ii) disclosure of the information would be disclosure of a kind specified in subsection (3).
-(2) Information falls within subsection (1)﻿(c)﻿(i) if it—
-  (a) might lead to the identification of, or provide details of, the source of the information, the nature, content, or scope of the information, or the nature or type of the assistance or operational methods available to the agency; or
+(2) Information falls within subsection (1)﻿(b)﻿(i) if it—
+  (a) might lead to the identification of, or provide details of,—
+    (i) the source of the information; or
+    (ii) the nature, content, or scope of the information; or
+    (iii) the nature or type of the assistance or operational methods available to the agency; or
   (b) is about particular operations that have been undertaken, or are being or are proposed to be undertaken, in relation to any of the functions of the agency; or
-  (c) has been provided to the agency by the Government of another country or by an agency of the Government of another country or by an international organisation, and is information that cannot be disclosed by the agency because the Government or agency or organisation by which the information has been provided will not consent to the disclosure.
-(3) Disclosure of information falls within subsection (1)﻿(c)﻿(ii) if the disclosure would be likely—
+  (c) has been provided to the agency by the Government of another country or by an agency of such a Government or by an international organisation, and is information that cannot be disclosed by the agency because the Government, agency, or organisation that provided the information will not consent to the disclosure.
+(3) Disclosure of information falls within subsection (1)﻿(b)﻿(ii) if the disclosure would be likely—
   (a) to prejudice the security or defence of New Zealand or the international relations of the Government of New Zealand; or
-  (b) to prejudice the entrusting of information to the Government of New Zealand on a basis of confidence by the Government of another country or any agency of such a Government, or by any international organisation; or
-  (c) to prejudice the maintenance of the law, including the prevention, investigation, and detection of offences, and the right to a fair trial; or
+  (b) to prejudice the entrusting of information to the Government of New Zealand on a basis of confidence by the Government of another country or by an agency of such a Government or by any international organisation; or
+  (c) to prejudice the maintenance of the law, including the prevention, investigation, and detection of offences and the right to a fair trial; or
   (d) to endanger the safety of any person.
-(4) In this subpart,—
-  - **intended party** has the meaning set out in section 117(1)﻿(a)﻿(i)
-  - **intended proceedings** means the proceedings that an intended party intends to commence as notified under section 117(1)﻿(a)﻿(ii)
-  - **non-Crown party** , in relation to proceedings, means a person (other than the Crown) that is a party to the proceedings
-  - **representative** includes a barrister or solicitor engaged to act on behalf of a party
-  - **special advocate** means a person appointed under section 118(2).
 
 ### 115 Obligation to provide court with access to classified security information
-(1) The Crown must, after proceedings are commenced, provide the court with access to the classified security information that is relevant to those proceedings.
-(2) If a special advocate is appointed before proceedings are commenced, the Crown must provide the court with access to the classified security information that is relevant to the intended proceedings.
-(3) The court must keep confidential and must not disclose any information provided as classified security information, even if it considers that the information does not meet the criteria set out in section 114(2) and (3), unless the head of the agency (in the case of information held by an intelligence or security agency) or the Attorney-General (in the case of information held by any other agency) consents to its release.
-(4) Subsection (3) applies both during and after completion of the proceedings.
+[Repealed]
 
 ### 116 Court orders
-(1) The court may, in order to comply with section 115(3), make 1 or more of the following orders:
-  (a) an order forbidding publication of any report or account of the whole or any part of the evidence adduced or the submissions made in the proceedings:
-  (b) an order forbidding the publication of the name of any witness or witnesses, or any name or particulars likely to lead to the identification of any witness or witnesses:
-  (c) an order forbidding the publication of classified security information or information about classified security information:
-  (d) an order excluding any person from the whole or any part of the court's proceedings, including—
-    (i) the non-Crown party or the non-Crown party's representative; or
-    (ii) staff of the court.
-(2) An order made under subsection (1)—
-  (a) may be made for a limited period or permanently; and
-  (b) if it is made for a limited period, may be renewed for a further period or periods by the court; and
-  (c) if it is made permanently, may be reviewed by the court at any time.
+[Repealed]
 
 ### 117 Appointment of special advocate
-(1) This section applies if—
-  (a) it appears to a court that—
-    (i) a person (the intended party) is or may be entitled to commence proceedings to which this subpart will or may apply but it is necessary for a special advocate to be appointed before the proceedings can be commenced; and
-    (ii) the intended party has notified the Crown that the party intends to commence those proceedings and that the party will apply for the appointment of a special advocate; or
-  (b) proceedings have been commenced and information presented, or proposed to be presented, in those proceedings includes classified security information; or
-  (c) proceedings have been commenced but the non-Crown party’s claim cannot be fully particularised without the non-Crown party being able to consider classified security information.
-(2) The court may, on the application of an intended party or a non-Crown party, appoint a barrister or solicitor as a special advocate to represent the intended party’s or the non-Crown party's interests on the terms that the court may direct if the court is satisfied that it is necessary to do so in order to ensure either or both of the following:
-  (a) that the intended party can properly prepare and commence proceedings:
-  (b) that a fair hearing will occur.
-(3) The court must, before appointing a person as a special advocate, be satisfied that the person—
-  (a) holds an appropriate security clearance that allows the person to see information that is or may be classified security information; and
-  (b) is suitably qualified and experienced to fulfil the role of a special advocate.
-(4) A special advocate appointed to represent an intended party may, after the proceedings are commenced, continue to act as the special advocate on behalf of that person (as a non-Crown party), subject to the terms that the court may direct.
-(5) The court may make directions as to the terms of the appointment, and on the matters referred to in sections 120 and 121(3), before or after the proceedings are commenced.
-(6) The appointment of a special advocate does not create an obligation requiring the intended party to commence proceedings.
-(7) The agency to which the proceedings or intended proceedings relate must meet the actual and reasonable costs of a special advocate on a basis—
-  (a) agreed between the special advocate and the head of the agency (in the case of an intelligence or security agency) or the Attorney-General (in the case of any other agency); or
-  (b) determined by the court (in default of agreement).
+[Repealed]
 
 ### 118 Nomination of person for appointment
-(1) Each of the following may nominate a barrister or solicitor to be appointed as the special advocate:
-  (a) the Crown:
-  (b) the intended party or the non-Crown party (as the case may be).
-(2) The court may appoint a person nominated under subsection (1) or another person.
+[Repealed]
 
 ### 119 Role of special advocates
-(1) The role of a special advocate is to represent an intended party or a non-Crown party.
-(2) In particular, a special advocate may—
-  (a) prepare and commence proceedings on behalf of the person:
-  (b) examine and cross-examine witnesses:
-  (c) make oral and written submissions to the court:
-  (d) assist in the settlement of the proceedings.
-(3) At all times, a special advocate must act in accordance with his or her duties as an officer of the High Court.
-(4) A special advocate must keep confidential and must not disclose classified security information, except as expressly provided or authorised under this Act.
+[Repealed]
 
 ### 120 Court may provide access to classified security information to special advocate
-(1) A special advocate may, before or after the commencement of proceedings, apply to the court for access to the classified security information.
-(2) The court may provide access to the classified security information to the special advocate on the terms that the court may direct.
+[Repealed]
 
 ### 121 Communication between special advocate and other persons
-(1) A special advocate may communicate with the relevant party or the relevant party's representative on an unlimited basis until the special advocate has been provided with access to the classified security information.
-(2) After the special advocate has been given access to the classified security information, he or she must not communicate with any person about any matter connected with the classified security information except in accordance with this section.
-(3) A special advocate who, after having been given access to the classified security information, wishes to communicate with the relevant party, the relevant party's representative, or any other person not referred to in subsection (4) may do so on the terms that the court may direct.
-(4) A special advocate may, without the approval of the court, communicate about any matter connected with the classified security information with—
-  (a) the court:
-  (b) the Crown’s security-cleared representative:
-  (c) the Attorney-General:
-  (d) the head of the agency to which the proceedings relate, or the agency’s security-cleared representative.
-(5) In this section, relevant party means the intended party or non-Crown party.
+[Repealed]
 
 ### 122 Protection of special advocates from liability
-(1) To the extent that a special advocate is acting in accordance with the requirements of this Act, the special advocate is not guilty of—
-  (a) misconduct within the meaning of section 7 or 9 of the Lawyers and Conveyancers Act 2006; or
-  (b) unsatisfactory conduct within the meaning of section 12 of that Act.
-(2) This subpart applies despite the requirements of any practice rules made and approved under the Lawyers and Conveyancers Act 2006.
-(3) No person is personally liable for any act done or omitted to be done in good faith, in his or her capacity as a special advocate, in accordance with the requirements or provisions of this Act.
+[Repealed]
 
 ### 123 Other matters relating to procedure in proceedings involving classified security information
-(1) The court must determine the proceedings on the basis of information available to it (whether or not that information has been disclosed to or responded to by all parties to the proceedings).
-(2) If information presented, or proposed to be presented, in the proceedings by the Crown includes classified security information,—
-  (a) except where proceedings are before the Court of Appeal or the Supreme Court, the proceedings must be heard and determined by the Chief High Court Judge, or by 1 or more Judges nominated by the Chief High Court Judge, or both; and
-  (b) the court must, on a request by the Attorney-General and if satisfied that it is necessary to do so for the protection of (either all or part of) the classified security information, receive or hear (the relevant part or all of) the classified security information in the absence of all or any of—
-    (i) the non-Crown party; and
-    (ii) the barristers or solicitors (if any) representing the non-Crown party; and
-    (iii) journalists; and
-    (iv) members of the public.
-(3) Without limiting subsection (2),—
-  (a) the court may approve a summary of the classified security information that is presented by the Attorney-General except to the extent that a summary of any particular part of the information would itself involve disclosure that would be likely to prejudice the interests referred to in section 114(3); and
-  (b) on being approved by the court, a copy of the summary must be given to the non-Crown party.
-(4) Subsections (1) to (3) apply despite any enactment or rule of law to the contrary.
+[Repealed]
 
 ### 124 Nothing in this subpart limits other rules of law that authorise or require withholding of document, etc
-Nothing in this subpart limits section 27 of the Crown Proceedings Act 1950 or any rule of law that authorises or requires the withholding of a document or the refusal to answer a question on the ground that the disclosure of the document or the answering of the question would be injurious to the public interest.
+[Repealed]
 
 ### 125 Ancillary general practices and procedures to protect classified security information
-(1) Any general practices and procedures that may be necessary to implement the procedures specified in this subpart and to ensure that classified security information is protected in all proceedings to which this subpart applies must be agreed between the Chief Justice and the Attorney-General as soon as practicable after the commencement of this section, and revised from time to time.
-(2) General practices and procedures may be agreed under subsection (1) on the following matters:
-  (a) measures relating to the physical protection of the information during all proceedings to which this subpart relates:
-  (b) the manner in which the information may be provided to the court:
-  (c) measures to preserve the integrity of the information until any appeals are withdrawn or finally determined.
-(3) Subsection (2) does not limit subsection (1).
+[Repealed]
 
 ### Subpart 4 — Miscellaneous provisions
 
@@ -2544,6 +2479,18 @@ Sections 95(5), 101(5), and 106(4) (as inserted by the Secondary Legislation Act
   (a) that is granted before commencement under clause 3 of Schedule 4; or
   (b) that is granted after commencement pursuant to an application described in clause 53(2)﻿(a).
 (2) The standing consent and the old Act continue to apply in respect of any overseas investments in sensitive land that are given effect to in reliance on the standing consent.
+
+### Part 8 — Provisions relating to Security Information in Proceedings (Repeals and Amendments) Act 2022
+
+### 55 Interpretation
+In this Part, unless the context otherwise requires,—
+  - **2022 Act** means sections 32 to 36 of the Security Information in Proceedings (Repeals and Amendments) Act 2022
+  - **commencement date** means the date on which the 2022 Act comes into force.
+
+### 56 Proceedings involving classified security information
+(1) The amendments made to this Act by the 2022 Act (except for this clause) apply to proceedings to which subpart 3 of Part 3 of this Act applies that are commenced on or after the commencement date.
+(2) To avoid doubt, subclause (1) applies to proceedings to which subpart 3 of Part 3 of this Act applies that commence on or after the commencement date, but that relate to a decision that occurred before, on, or after that date.
+(3) Proceedings to which subpart 3 of Part 3 of this Act applies that are commenced before the commencement date, and not finally determined before the commencement date (including any rehearing, retrial, or appeal), continue as if the amendments made to this Act by the 2022 Act had not been enacted.
 
 ## Schedule 1 — Sensitive land
 
