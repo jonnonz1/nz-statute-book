@@ -1,5 +1,5 @@
 # Crown Proceedings Act 1950
-_Consolidation as at 2020-08-07_
+_Consolidation as at 2023-11-28_
 
 > An Act to consolidate and amend the law relating to the civil liabilities and rights of the Crown and officers of the Crown, and to civil proceedings by and against the Crown
 
@@ -202,17 +202,13 @@ Any person who has obtained an order for the payment of money may take proceedin
 
 **Miscellaneous**
 
-### 27 Discovery
-(1) Subject to and in accordance with rules of court,—
-  (a) in any proceedings (other than criminal proceedings) to which the Crown is a party or third party, the Crown may be required by the court to answer interrogatories if the Crown could be required to do so if it were a private person of full age and capacity; and
-  (b) in any such proceedings as aforesaid the Crown may be required by the court to make discovery of documents and produce documents for inspection if the Crown could be required to do so if it were a private person of full age and capacity:
-  provided that this section shall be without prejudice to any rule of law which authorises or requires the withholding of any document or the refusal to answer any question on the ground that the disclosure of the document or the answering of the question would be injurious to the public interest.
-(2) Any order of the court made under the powers conferred by paragraph (a) of the last preceding subsection shall direct by what officer of the Crown the interrogatories are to be answered.
-(3) Without prejudice to the proviso to subsection (1), any rules made for the purposes of this section shall be such as to secure that the existence of a document will not be disclosed if—
-  (a) the Prime Minister certifies that the disclosure of the existence of that document would be likely to prejudice—
-    (i) the security or defence of New Zealand or the international relations of the Government of New Zealand; or
-    (ii) any interest protected by section 7 of the Official Information Act 1982; or
-  (b) the Attorney-General certifies that the disclosure of the existence of that document would be likely to prejudice the prevention, investigation, or detection of offences.
+### 27 Interrogatories and discovery
+(1) In any proceedings (other than criminal proceedings) to which the Crown is a party or third party, the court may require the Crown to answer interrogatories, or to make discovery of documents and produce documents, as if the Crown were a private person of full age and capacity.
+(2) Subsection (1) is subject to any rules of court.
+(3) Any order of the court under subsection (1) requiring the Crown to answer interrogatories must specify the officer of the Crown who is to answer the interrogatories.
+(4) Nothing in this section affects—
+  (a) the application to the Crown of the Security Information in Proceedings Act 2022; or
+  (b) any other rule of law that authorises or requires the Crown to withhold any document or to refuse to answer any question on the ground that disclosing the document or answering the question would be injurious to the public interest.
 
 ### 28 Exclusion of proceedings in rem against the Crown
 (1) Nothing in this Act shall authorise proceedings in rem in respect of any claim against the Crown, or the arrest, detention, or sale of any ships or aircraft, or any cargo or other property belonging to the Sovereign, whether in right of his or her Government in New Zealand or otherwise, or give to any person any lien on any such ship, aircraft, cargo, or other property.
