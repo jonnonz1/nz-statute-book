@@ -1,5 +1,5 @@
 # Terrorism Suppression (Control Orders) Act 2019
-_Consolidation as at 2023-05-10_
+_Consolidation as at 2023-11-28_
 
 ### 1 Title
 This Act is the Terrorism Suppression (Control Orders) Act 2019.
@@ -574,17 +574,7 @@ Other publication
 This Act does not limit or affect the application or operation of the Returning Offenders (Management and Information) Act 2015.
 
 ### 36 Additional requirements for decisions that supporting information is not disclosable
-(1) This section applies when the court is considering making under other relevant law any order, direction, or other decision to the effect that any information supporting any application made under this Act is not disclosable to, or to any person acting for,—
-  (a) a person who is or may be a relevant person; or
-  (b) any other non-Crown party.
-(2) The court, when considering making a decision of that kind, must—
-  (a) have regard to whether the interests or factors supporting a decision of that kind are or include a real risk to any identifiable person or people; and
-  (b) appoint as a special advocate a person who—
-    (i) is a lawyer (as defined in section 6 of the Lawyers and Conveyancers Act 2006), is not suspended from practice as a barrister, a solicitor, or both, under that Act, and is not struck off the roll of barristers and solicitors of the High Court; and
-    (ii) holds an appropriate security clearance that allows the person to see information that is or may be classified security information; and
-    (iii) is otherwise suitably qualified and experienced to fulfil the role of a special advocate; and
-  (c) empower the person appointed under paragraph (b) to act in the interests of the person who is or may be a relevant person, and to present arguments on the relevance and reliability of the supporting information; and
-  (d) allow the person appointed under paragraph (b) to receive instructions from any person acting for the person who is or may be a relevant person.
+[Repealed]
 
 ### 37 Amendment to Legal Services Act 2011
 (1) This section amends the Legal Services Act 2011.
