@@ -1,5 +1,5 @@
 # Terrorism Suppression Act 2002
-_Consolidation as at 2023-05-10_
+_Consolidation as at 2023-11-28_
 
 ### 1 Title
 This Act is the Terrorism Suppression Act 2002.
@@ -47,7 +47,7 @@ The purpose of this Act is—
   - **carried out** , in relation to a terrorist act,—
     (a) has the meaning given to it in section 5A(1); but
     (b) in section 6A(1), has, despite section 5A(1), only the narrower meaning given to it in section 6A(2)
-  - **classified security information** has the meaning given to it in section 32(1)
+  - **classified security information** has the meaning given to it in section 4A
   - **country** includes any State, territory, province, or other part of a country
   - **critical infrastructure** means all or any of the following that provide the essential services of a population:
     (a) assets:
@@ -181,6 +181,25 @@ The purpose of this Act is—
   (b) the person is residing in New Zealand with the intention of residing in New Zealand indefinitely; or
   (c) having resided in New Zealand with the intention of establishing his or her home in New Zealand, or with the intention of residing in New Zealand indefinitely, the person is outside New Zealand but has an intention to return to establish his or her home in New Zealand or to reside in New Zealand indefinitely.
 (3) Terms and expressions used and not defined in this Act but defined in the Nuclear Material Convention, the Plastic Explosives Convention, or the Technical Annex to the Plastic Explosives Convention have the same meaning as in those Conventions and Annex, unless the context otherwise requires.
+
+### 4A Classified security information defined
+(1) In this Act, classified security information means information—
+  (a) that is held by a specified agency; and
+  (b) that the head of the specified agency certifies in writing (in the prescribed form (if any)) cannot be disclosed (except as authorised by or under an Act or other rule of law) because, in the opinion of the head of the specified agency,—
+    (i) the information is information of a kind specified in subsection (2); and
+    (ii) disclosure of the information would be disclosure of a kind specified in subsection (3).
+(2) Information falls within subsection (1)﻿(b)﻿(i) if it—
+  (a) might lead to the identification of, or provide details of,—
+    (i) the source of the information; or
+    (ii) the nature, content, or scope of the information; or
+    (iii) the nature or type of the assistance or operational methods available to the agency; or
+  (b) is about particular operations that have been undertaken, or are being or are proposed to be undertaken, in relation to any of the functions of the specified agency; or
+  (c) has been provided to the specified agency by the Government of another country or by an agency of such a Government or by an international organisation, and is information that cannot be disclosed by the specified agency because the Government, agency, or organisation that provided the information will not consent to the disclosure.
+(3) Disclosure of information falls within subsection (1)﻿(b)﻿(ii) if the disclosure would be likely—
+  (a) to prejudice the security or defence of New Zealand or the international relations of the Government of New Zealand; or
+  (b) to prejudice the entrusting of information to the Government of New Zealand on a basis of confidence by the Government of another country or any agency of such a Government, or by any international organisation; or
+  (c) to prejudice the maintenance of the law, including the prevention, investigation, and detection of offences and the right to a fair trial; or
+  (d) to endanger the safety of any person.
 
 ### 5 Terrorist act defined
 (1) An act is a terrorist act for the purposes of this Act if—
@@ -561,8 +580,8 @@ A designation under section 20—
   (d) must also be notified—
     (i) by a notice (in the prescribed form (if any)) indicating that it has been made being given (in the prescribed manner (if any)) with all reasonable speed to the designated entity, if practicable, where that entity or a representative of it is in New Zealand; and
     (ii) by a notice indicating that it has been made being given to any other persons or bodies, as the Prime Minister directs under section 28(2):
-  (e) expires on the close of the 30th day after the day on which it is made, unless it has earlier been revoked by the Prime Minister under section 34, or by the making of a final designation in respect of the entity concerned, under section 22:
-  (f) operates until it expires or is revoked but, if it is made the subject of any judicial review (whether under the Judicial Review Procedure Act 2016 or otherwise) or other proceedings before a court and is not sooner revoked under section 23(b) or section 34, continues to operate until those proceedings are withdrawn or finally determined.
+  (e) expires on the close of the 30th day after the day on which it is made, unless it has earlier been revoked by the Prime Minister under section 29C, or by the making of a final designation in respect of the entity concerned, under section 22:
+  (f) operates until it expires or is revoked but, if it is made the subject of any judicial review (whether under the Judicial Review Procedure Act 2016 or otherwise) or other proceedings before a court and is not sooner revoked under section 23(b) or section 29C, continues to operate until those proceedings are withdrawn or finally determined.
 
 **Final designation**
 
@@ -593,7 +612,7 @@ A designation under section 22—
     (i) by a notice (in the prescribed form (if any)) indicating that it has been made being given (in the prescribed manner (if any)) with all reasonable speed to the designated entity, if practicable, where that entity or a representative of it is in New Zealand; and
     (ii) by a notice indicating that it has been made being given to any other persons or bodies, as the Prime Minister directs under section 28(2):
   (g)
-  (h) operates until it expires or is revoked but, if it is made the subject of any judicial review (whether under the Judicial Review Procedure Act 2016 or otherwise) or other proceedings before a court and is not sooner revoked under section 34 or 35D, continues to operate until those proceedings are withdrawn or finally determined.
+  (h) operates until it expires or is revoked but, if it is made the subject of any judicial review (whether under the Judicial Review Procedure Act 2016 or otherwise) or other proceedings before a court and is not sooner revoked under section 29C or 35D, continues to operate until those proceedings are withdrawn or finally determined.
 
 **Further provisions relating to interim and final designations**
 
@@ -611,8 +630,11 @@ A notice under section 21(d)﻿(i) or section 23(f)﻿(i) (to notify the designa
   (a) must state the section under which the designation is made, and whether the entity concerned is designated as a terrorist entity or as an associated entity:
   (b) may describe the entity concerned by reference to any name or names or associates or other details by which the entity may be identified:
   (ba) must state that any person who deals with the entity's property may be liable to prosecution for an offence under section 9:
-  (c) must state the maximum period for which the designation may have effect or, if it is made under section 22, the maximum period for which it may have effect without being renewed under section 35:
+  (c) must state the maximum period for which the designation may have effect or, if it is made under section 22, the maximum period for which it may have effect without being renewed under section 29B:
   (d) must include general information about how it may be reviewed and revoked:
+  (da) must, if the Prime Minister relied on classified security information in making the designation, state that—
+    (i) the Prime Minister relied on that kind of information; and
+    (ii) the entity may request a summary of the classified security information under section 31:
   (e) must include any other information specified for the purposes of this paragraph by regulations made under this Act.
 
 ### 27 Content of notice to public and others
@@ -623,7 +645,7 @@ A notice under section 21(d)﻿(i) or section 23(f)﻿(i) (to notify the designa
   (a) must state the section under which the designation is made, and whether the entity concerned is designated as a terrorist entity or as an associated entity:
   (b) may describe the entity concerned by reference to any name or names or associates or other details by which the entity may be identified:
   (ba) must state that any person who deals with the entity's property may be liable to prosecution for an offence under section 9:
-  (c) must state the maximum period for which the designation may have effect or, if it is made under section 22, the maximum period for which it may have effect without being renewed under section 35:
+  (c) must state the maximum period for which the designation may have effect or, if it is made under section 22, the maximum period for which it may have effect without being renewed under section 29B:
   (d) must include any other information specified for the purposes of this paragraph by regulations made under this Act:
   (e) may include details of all earlier designations under this Act that have not yet expired or been revoked, so as to provide details of all entities currently designated under this Act.
 
@@ -644,39 +666,20 @@ No designation under section 20 or section 22 is invalid just because—
   (a) its most recent description; and
   (b) the notice in the Gazette in which that description was stated.
 (3) Sections 23(e) and 23(f) apply to the notice as if it were a designation under section 22; and section 28(2) applies accordingly.
-(4) The stating of the new description does not affect the designation of the entity and (in particular) does not affect the application of section 35(1) to it.
+(4) The stating of the new description does not affect the designation of the entity and (in particular) does not affect the application of section 29B(1) to it.
 
-**Material on which designations may be based**
+**Expiry, renewal, and revocation of designations**
 
-### 30 Information available to Prime Minister
-In considering whether to make, revoke, or renew a designation under section 20, 22, 34, 35, or 35D, the Prime Minister may take into account any relevant information, including classified security information.
+### 29B Designations under section 22 to expire after 3 years unless renewed by Prime Minister
+(1) A designation under section 22 expires 3 years after the date on which it takes effect, unless it is earlier—
+  (a) revoked under section 29C or 35D; or
+  (b) renewed by an order under subsection (2) or (3).
+(2) The Prime Minister may order that a designation made under section 22 remain in force for a further 3 years after the making of the order if the Prime Minister is satisfied that there are still reasonable grounds as set out in section 22 for an entity to be designated under that section.
+(3) Before the expiry of an order under subsection (2), the Prime Minister may make another order renewing the designation concerned for a further 3 years.
+(4) After making an order under subsection (2) or (3), the Prime Minister must report to the Intelligence and Security Committee on the renewal of the designation.
+(5) The Prime Minister may make any number of orders under subsection (3) in respect of the same designation.
 
-### 31 United Nations Security Council information
-[Repealed]
-
-### 32 Classified security information defined
-(1) In this Act, classified security information means information—
-  (a) relevant to whether there are or may be grounds for designating an identifiable entity under this Act as a terrorist entity or as an associated entity; and
-  (b) held by a specified agency (as defined in section 4(1)); and
-  (c) that the head of the specified agency certifies in writing (in the prescribed form (if any)) cannot be disclosed except to the extent provided in section 38 or section 39 because, in the opinion of the head of the specified agency—
-    (i) the information is information of a kind specified in subsection (2); and
-    (ii) disclosure of the information would be disclosure of a kind specified in subsection (3).
-(2) Information falls within subsection (1)﻿(c)﻿(i) if it—
-  (a) might lead to the identification of, or provide details of, the source of the information, the nature, content, or scope of the information, or the nature or type of the assistance or operational methods available to the specified agency; or
-  (b) is about particular operations that have been undertaken, or are being or are proposed to be undertaken, in pursuance of any of the functions of the specified agency; or
-  (c) has been provided to the specified agency by the government of another country or by an agency of a government of another country or by an international organisation, and is information that cannot be disclosed by the specified agency because the government or agency or organisation by which the information has been provided will not consent to the disclosure.
-(3) Disclosure of information falls within subsection (1)﻿(c)﻿(ii) if the disclosure would be likely—
-  (a) to prejudice the security or defence of New Zealand or the international relations of the Government of New Zealand; or
-  (b) to prejudice the entrusting of information to the Government of New Zealand on a basis of confidence by the government of another country or any agency of such a government, or by any international organisation; or
-  (c) to prejudice the maintenance of the law, including the prevention, investigation, and detection of offences, and the right to a fair trial; or
-  (d) to endanger the safety of any person.
-
-**Review, revocation, and expiry of designations**
-
-### 33 Judicial review of designations
-Nothing in this Act prevents a person from bringing any judicial review (whether under the Judicial Review Procedure Act 2016 or otherwise) or other proceedings before a court arising out of, or relating to, the making of a designation under this Act.
-
-### 34 Revocation of designations
+### 29C Revocation of designations
 (1) The Prime Minister may at any time revoke a designation made under section 20 or section 22, either on the Prime Minister's own initiative or on an application in writing for the purpose—
   (a) by the entity who is the subject of the designation; or
   (b) by a third party with an interest in the designation that, in the Prime Minister's opinion, is an interest apart from any interest in common with the public.
@@ -690,14 +693,76 @@ Nothing in this Act prevents a person from bringing any judicial review (whether
 (4) However, the Prime Minister may not refuse an application to revoke a designation under section 20 or section 22 without having first consulted with the Attorney-General about the proposed refusal.
 (5) Except as provided in subsection (4), subsection (1) overrides every other provision of this Act.
 
-### 35 Designations under section 22 to expire after 3 years unless renewed by Prime Minister
-(1) A designation under section 22 expires 3 years after the date on which it takes effect, unless it is earlier—
-  (a) revoked under section 34 or 35D; or
-  (b) renewed by an order under subsection (2) or (3).
-(2) The Prime Minister may order that a designation made under section 22 remain in force for a further 3 years after the making of the order if the Prime Minister is satisfied that there are still reasonable grounds as set out in section 22 for an entity to be designated under that section.
-(3) Before the expiry of an order under subsection (2), the Prime Minister may make another order renewing the designation concerned for a further 3 years.
-(4) After making an order under subsection (2) or (3), the Prime Minister must report to the Intelligence and Security Committee on the renewal of the designation.
-(5) The Prime Minister may make any number of orders under subsection (3) in respect of the same designation.
+### 29D Notification of decisions about expiry or revocation of designations
+Expiry or revocation of designation
+(1) If a designation under this Act expires or is revoked under section 29B, 29C, or 35D, the Prime Minister must—
+  (a) ensure that notice of the expiry or revocation is published in the Gazette as soon as practicable; and
+  (b) take all reasonable steps to ensure that notice of the expiry or revocation is given, in the manner and form required by section 21(d) or 23(f), to every person and body—
+    (i) to whom notice of the designation was given under section 21(d) or 23(f); and
+    (ii) who is not already aware of the expiry or revocation.
+Decision to decline application for revocation of designation
+(2) If the Prime Minister declines an application for revocation of a designation, the Prime Minister must take all reasonable steps to ensure that notice of the decision is given to the applicant (in the prescribed manner and form (if any)) with all reasonable speed.
+(3) If the applicant is the designated entity, or a representative of the designated entity, and the Prime Minister relied on classified security information in declining the application, the notice must state that—
+  (a) the Prime Minister relied on that kind of information; and
+  (b) the entity may request that a summary of the classified security information be provided to them under section 31.
+Decision under section 35D that designation continues to be justified
+(4) If the Prime Minister decides that the result of a review under section 35D is that the designation continues to be justified, the Prime Minister must take all reasonable steps to ensure that notice of the result of the review is given to the designated entity or a representative of the designated entity (in the prescribed manner and form (if any)) with all reasonable speed.
+(5) If the Prime Minister relied on classified security information in deciding that the result of a review under section 35D is that the designation continues to be justified, the notice must state that—
+  (a) the Prime Minister relied on that kind of information; and
+  (b) the entity may request that a summary of the classified security information be provided to them under section 31.
+
+**Material on which designations, renewals, or revocations may be based**
+
+### 30 Information available to Prime Minister
+In considering whether to make, revoke, or renew a designation under section 20, 22, 29B, 29C, or 35D, the Prime Minister may take into account any relevant information, including classified security information.
+
+**Additional requirements where classified security information used in certain decisions**
+
+### 31 Provision of summary of classified security information
+(1) This section applies if a designated terrorist entity requests a summary (as referred to in section 26(da) or section 29D(3)﻿(b) or (5)﻿(b)) of the classified security information that the Prime Minister relied on in deciding—
+  (a) to make a designation under section 20 or 22; or
+  (b) to decline an application for revocation of a designation under section 29C; or
+  (c) the result of a review under section 35D is that the designation continues to be justified.
+(2) The purpose of the summary is to enable the designated terrorist entity to have a sufficient understanding of the classified security information the Prime Minister relied on in making the decision (without that information being disclosed to the entity).
+(3) If the designated terrorist entity requests a summary,—
+  (a) the Prime Minister and the head of the specified agency that holds the classified security information must agree on the contents of the summary; and
+  (b) the Prime Minister must provide the agreed summary to the entity with all reasonable speed.
+(4) However, the Prime Minister may refuse to provide a summary if the Prime Minister and the head of the specified agency are not satisfied that a summary can be provided that is sufficient to meet its purpose without disclosing classified security information.
+
+### 31A Notification to Inspector-General of Intelligence and Security of provision of classified security information
+(1) The Director-General of an intelligence and security agency must notify the Inspector-General of Intelligence and Security if the agency provides classified security information to the Prime Minister or department to assist the Prime Minister to decide whether to—
+  (a) make a designation under section 20 or 22 in relation to an entity; or
+  (b) to decline an application for revocation of a designation under section 29C; or
+  (c) the result of a review under section 35D is that the designation continues to be justified.
+(2) The Director-General must make the notification as soon as practicable after providing the classified security information to assist the Prime Minister.
+(3) In this section, department has the meaning given to it in section 5 of the Public Service Act 2020.
+
+### 31 United Nations Security Council information
+[Repealed]
+
+### 32 Classified security information defined
+[Repealed]
+
+**Proceedings arising out of designations, renewals, and revocations**
+
+### 33 Judicial review of designations
+Nothing in this Act prevents a person from bringing any judicial review (whether under the Judicial Review Procedure Act 2016 or otherwise) or other proceedings before a court arising out of, or relating to, the making of a designation under this Act.
+
+### 34 Proceedings involving classified security information
+(1) This section applies to any civil proceedings (including public law and judicial review proceedings) in a court relating to the administration or enforcement of this Act.
+(2) If the Crown proposes to present classified security information in proceedings, the Attorney-General must—
+  (a) make an application to an authorised court under section 32 of the 2022 Act for a security information order to protect the confidentiality of the information to be given as evidence in the proceedings; and
+  (b) submit to the court the certification described in section 4A(1)﻿(b).
+(3) If the classified security information is also national security information, the Crown may submit with the application and certification referred to in subsection (2) an NSI certificate under section 41 of the 2022 Act and seek a security information order as set out in section 36(3) of that Act (under which the types of orders available to the court are limited).
+(4) In this section,—
+  - **2022 Act** means the Security Information in Proceedings Act 2022
+  - **authorised court** , , , and have the meanings given to them in section 4 of the 2022 Act.
+
+### 35 Notification of invalidity of designations
+(1) If a designation under this Act is found to have been invalid or by virtue of any judicial review (whether under the Judicial Review Procedure Act 2016 or otherwise) or other proceedings before a court, the Prime Minister must—
+  (a) ensure that notice of the invalidity is published in the Gazette as soon as practicable; and
+  (b) take all reasonable steps to ensure that notice of the invalidity is given, in the manner and form required by section 21(d) or section 23(f), to every person and body specified in subsection (2) who is not already aware of it.
+(2) The persons and bodies referred to in subsection (1)﻿(b) are every person or body to whom notice of the making of the designation was given under section 21(d) or section 23(f).
 
 **Effect on final designation if entity imprisoned**
 
@@ -714,15 +779,15 @@ When imprisonment starts does not matter
   (b) the time when the last renewal (if any) of the designation takes effect.
 
 ### 35B Certain revocation applications stopped
-While the entity is imprisoned, no application for revocation of the designation can be made under section 34(1)﻿(a) or (b) on the ground specified in section 34(3)﻿(b).
+While the entity is imprisoned, no application for revocation of the designation can be made under section 29C(1)﻿(a) or (b) on the ground specified in section 29C(3)﻿(b).
 
 ### 35C Duration of designation extended (3-year period until expiry paused)
-(1) While the entity is imprisoned, any incomplete 3-year period, or further 3-year period, under section 35, for expiry of the designation, does not run or end.
-(2) When the entity ceases to be imprisoned, that period, or further period, resumes, and the designation may expire (if it is not renewed under section 35).
+(1) While the entity is imprisoned, any incomplete 3-year period, or further 3-year period, under section 29B, for expiry of the designation, does not run or end.
+(2) When the entity ceases to be imprisoned, that period, or further period, resumes, and the designation may expire (if it is not renewed under section 29B).
 
 ### 35D Periodic review whether designation no longer justified
 (1) The Prime Minister must, at least once every 3 years while the entity is imprisoned, review the designation and decide whether it is no longer justified.
-(2) The Prime Minister must revoke under this section a designation that they decide under this section is no longer justified (see also sections 23(h) and 42).
+(2) The Prime Minister must revoke under this section a designation that they decide under this section is no longer justified (see also sections 23(h) and 29D).
 
 ### 35E Periodic review: when designation no longer justified
 (1) The Prime Minister may decide a designation is no longer justified under section 35D only if satisfied that none of its effects is necessary or desirable for the prevention, or other suppression, of terrorism.
@@ -732,7 +797,7 @@ While the entity is imprisoned, no application for revocation of the designation
 For a review under section 35D, the Prime Minister—
   (a) must take reasonable steps to allow the following to make available relevant information:
     (i) the entity; and
-    (ii) a third party with an interest in the designation that, in the Prime Minister’s opinion after having regard to section 34(2), is an interest apart from any interest in common with the public; and
+    (ii) a third party with an interest in the designation that, in the Prime Minister’s opinion after having regard to section 29C(2), is an interest apart from any interest in common with the public; and
   (b) must take into account any relevant information made available in response to those steps; and
   (c) may take into account any other relevant information, including classified security information (see also section 30).
 
@@ -765,38 +830,16 @@ Meaning of young person
 [Repealed]
 
 ### 38 Procedure in proceedings involving classified security information
-(1) This section applies to any proceedings in a court arising out of, or relating to, the making of a designation under this Act.
-(2) The court must determine the proceedings on the basis of information available to it (whether or not that information has been disclosed to or responded to by all parties to the proceedings).
-(3) If information presented, or proposed to be presented, by the Crown includes classified security information,—
-  (a) except where proceedings are before the Court of Appeal, the proceedings must be heard and determined by the Chief High Court Judge, or by 1 or more Judges nominated by the Chief High Court Judge, or both; and
-  (b) the court must, on a request for the purpose by the Attorney-General and if satisfied that it is desirable to do so for the protection of (either all or part of) the classified security information, receive or hear (the relevant part or all of) the classified security information in the absence of—
-    (i) the designated entity concerned; and
-    (ii) all barristers or solicitors (if any) representing that entity; and
-    (iii) members of the public.
-(4) Without limiting subsection (3), if the designated entity concerned participates in proceedings,—
-  (a) the court must approve a summary of the information of the kind referred to in section 32(2) that is presented by the Attorney-General except to the extent that a summary of any particular part of the information would itself involve disclosure that would be likely to prejudice the interests referred to in section 32(3); and
-  (b) on being approved by the court a copy of the statement must be given to the entity concerned.
-(5) Nothing in this section limits section 27 of the Crown Proceedings Act 1950 or any rule of law that authorises or requires the withholding of a document or the refusal to answer a question on the ground that the disclosure of the document or the answering of the question would be injurious to the public interest.
-(6) Subsections (2) to (5) apply despite any enactment or rule of law to the contrary.
+[Repealed]
 
 ### 39 Procedure in other cases involving classified security information
 [Repealed]
 
 ### 40 Ancillary general practices and procedures to protect classified security information
-(1) Any general practices and procedures that may be necessary to implement the procedures specified in section 38 and to ensure that classified security information is protected in all proceedings to which that section relates must be agreed between the Chief Justice and the Attorney-General as soon as practicable after the commencement of this section, and revised from time to time.
-(2) Without limiting the generality of subsection (1), general practices and procedures may be agreed under that subsection on the following matters:
-  (a) measures relating to the physical protection of the information during all proceedings to which section 38 relates:
-  (b) the manner in which the information may be provided to the court:
-  (c) measures to preserve the integrity of the information until any appeals are withdrawn or finally determined.
+[Repealed]
 
 ### 41 Appeal against decision on application under section 35
 [Repealed]
-
-### 42 Notification of revocation, expiry, or invalidity of designations
-(1) If a designation under this Act expires or is revoked or is found to be or to have been invalid, under section 34, 35, or 35D or by virtue of any judicial review (whether under the Judicial Review Procedure Act 2016 or otherwise) or other proceedings before a court, the Prime Minister must—
-  (a) ensure that notice of the revocation or expiry or invalidity is published in the Gazette as soon as practicable; and
-  (b) take all reasonable steps to ensure that notice of the revocation or expiry or invalidity is given, in the manner and form required by section 21(d) or section 23(f), to every person and body specified in subsection (2) who is not already aware of it.
-(2) The persons and bodies referred to in subsection (1)﻿(b) are every person or body to whom notice of the making of the designation was given under section 21(d) or section 23(f).
 
 **Duty to report suspicions relating to property**
 
@@ -1034,7 +1077,7 @@ The following sections of the Criminal Proceeds (Recovery) Act 2009 apply, with 
   (a) who there is reason to believe may have an interest in the property; and
   (b) that the High Court directs.
 (3) Any person who claims an interest in the property is entitled to appear and to adduce evidence at the hearing of the application.
-(4) Subsection (3) is subject to section 38.
+(4) Subsection (3) is subject to section 34.
 
 ### 57 Further provisions relating to orders under section 55
 The following sections of the Criminal Proceeds (Recovery) Act 2009 and the Sentencing Act 2002 apply, with the following (and all other necessary) modifications, to the making, effect, operation, and discharge of an order under section 55, as if the order were an instrument forfeiture order under section 142N of the Sentencing Act 2002:
@@ -1048,12 +1091,12 @@ The following sections of the Criminal Proceeds (Recovery) Act 2009 and the Sent
 
 ### 58 Appeal against decision on application under section 55
 (1) A party to an application under section 55 may appeal to the Court of Appeal against the decision of the High Court.
-(2) Subject to sections 38 and 40, the procedure for the appeal must be in accordance with rules of court.
+(2) Subject to section 34, the procedure for the appeal must be in accordance with rules of court.
 (3) For the avoidance of doubt, an appeal under subsection (1) is a civil proceeding for the purposes of the Senior Courts Act 2016.
 
 ### 59 Discharge of order under section 55 on appeal
 (1)
-(2) The revocation, under section 34 or 35D, of a designation that has been renewed by an order made under section 35(2), does not discharge any order made under section 55 against property of the entity who was the subject of the designation.
+(2) The revocation, under section 29C or 35D, of a designation that has been renewed by an order made under section 29B(2), does not discharge any order made under section 55 against property of the entity who was the subject of the designation.
 (3) If an order under section 55 in respect of any property is discharged by a court hearing an appeal, under section 58, against the making of the order, the Attorney-General must,—
   (a) as soon as practicable after the discharge of the order, serve notice of the discharge of the order under section 55 (in any manner, and within any time, the court may direct) on any person who the Attorney-General has reason to believe may have had an interest in the property immediately before the making of the order; and
   (b) if required to do so by a court, serve notice of the discharge of the order under section 55 (in any manner, and within any time, the court may direct) on such persons as the court may specify.
@@ -1260,6 +1303,28 @@ The new sections apply, after the commencement, to a designation in force after 
   (a) commenced before the commencement; and
   (b) not finally determined (including any rehearing, retrial, or appeal) before the commencement.
 (3) Subclause (2) does not limit subclause (1).
+
+### Part 3 — Provisions relating to Security Information in Proceedings (Repeals and Amendments) Act 2022
+
+### 7 Interpretation
+In this Part, unless the context otherwise requires,—
+  - **2022 Act** means sections 62 to 84 of the Security Information in Proceedings (Repeals and Amendments) Act 2022
+  - **commencement date** means the date on which the 2022 Act comes into force
+  - **relevant action** means one of the following:
+    (a) a decision of the Prime Minister to make a designation under section 20 or 22:
+    (b) the expiry of a designation under section 29B (as renumbered and repositioned by section 78 of the Security Information in Proceedings (Repeals and Amendments) Act 2022):
+    (c) a decision of the Prime Minister to renew a designation under section 29B (as renumbered and repositioned by section 78 of the Security Information in Proceedings (Repeals and Amendments) Act 2022):
+    (d) a decision of the Prime Minister to revoke a designation or to decline an application to revoke a designation under section 29C (as renumbered and repositioned by section 77 of the Security Information in Proceedings (Repeals and Amendments) Act 2022):
+    (e) a decision of the Prime Minister that the result of a review under section 35D is that a designation continues to be justified
+  - **section 34 proceedings** means proceedings to which section 34 applies.
+
+### 8 Administrative decisions
+The amendments made to this Act by the 2022 Act apply only in relation to any relevant action that occurs on or after the commencement date.
+
+### 9 Proceedings involving classified security information
+(1) The amendments made to this Act by the 2022 Act (except for this clause) apply to section 34 proceedings commenced on or after the commencement date.
+(2) To avoid doubt, subclause (1) applies to section 34 proceedings that commence on or after the commencement date, but that relate to a relevant action that occurred before, on, or after the commencement date.
+(3) Proceedings to which section 38 (as in force before the commencement date) applied, and that were not finally determined before the commencement date (including any rehearing, retrial, or appeal), continue as if the amendments made to this Act by the 2022 Act had not been enacted.
 
 ## Schedule 1 — International Convention for the Suppression of Terrorist Bombings
 
@@ -1497,15 +1562,3 @@ For other property in the possession or immediate control of a reporting entity 
 
 ### 4
 If the report is made in relation to property controlled or possessed by a reporting entity, the name, position, and phone and fax number of the person authorised by the reporting entity to prepare and submit the report. In all other cases, the name, position (if relevant), and phone and fax numbers of the person who prepared the report.
-
-### 1 Title
-This Act is the Terrorism Suppression Amendment Act 2007.
-
-### 2 Commencement
-This Act comes into force on the day after the date on which it receives the Royal assent.
-
-## Part 1 — Amendments to principal Act
-
-### 39 Transitional provision relating to entity designated under section 20 or 22
-(1) Every designation of an entity under section 20 or 22 of the principal Act before the commencement of this Act is deemed to be revoked under section 34 of the principal Act.
-(2) Amendment(s) incorporated in the Act(s).
