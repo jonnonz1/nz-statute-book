@@ -1,5 +1,5 @@
 # Outer Space and High-altitude Activities Act 2017
-_Consolidation as at 2021-10-28_
+_Consolidation as at 2023-11-28_
 
 ### 1 Title
 This Act is the Outer Space and High-altitude Activities Act 2017.
@@ -641,7 +641,7 @@ A person must not operate a launch facility in New Zealand unless the person has
 (4) The Prime Minister must inform the applicant or, as the case may be, the holder of the relevant licence or permit of—
   (a) the reasons for the decision (except to the extent that the Prime Minister considers that providing reasons would involve a disclosure of information that would be likely to prejudice the security or defence of New Zealand or the international relations of the Government of New Zealand); and
   (b) the review procedure available in relation to the certificate under section 56.
-(5) A certificate issued under subsection (3) is (subject only to section 56) conclusive evidence of the matters stated in it, and the advice given by an intelligence and security agency to the Minister, a security Minister, or the Prime Minister must not be challenged, reviewed, or called into question in any court.
+(5)
 (6) For the purposes of this section, the responsible Ministers are—
   (a) the Minister; and
   (b) the security Ministers; and
