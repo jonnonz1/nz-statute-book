@@ -1,5 +1,5 @@
 # Telecommunications (Interception Capability and Security) Act 2013
-_Consolidation as at 2021-10-28_
+_Consolidation as at 2023-11-28_
 
 ### 1 Title
 This Act is the Telecommunications (Interception Capability and Security) Act 2013.
@@ -30,9 +30,7 @@ This Act is the Telecommunications (Interception Capability and Security) Act 20
       (vi) if the telecommunication is generated from a mobile telephone, the point at which the telecommunication first enters a network; but
     (c) does not include the content of the telecommunication
   - **chief executive** means a person occupying the position of chief executive, by whatever name called, or the person who performs substantially the same function
-  - **classified information** means information that—
-    (a) is of a kind specified in any of paragraphs (a) to (c) of section 102(2); and
-    (b) the disclosure of which would be likely to do any of the things specified in paragraphs (a) to (d) of section 102(3)
+  - **classified security information** has the meaning given by section 3A
   - **compliance order** means an order made by the High Court under section 92
   - **customer** means a person who receives telecommunications services from, and has an account or billing relationship with, a network operator
   - **designated officer** means a person appointed under section 72
@@ -124,6 +122,28 @@ This Act is the Telecommunications (Interception Capability and Security) Act 20
     (a) is provided by a network operator (network operator A) only to 1 or more other network operators; and
     (b) is provided exclusively over 1 or more networks that are owned, controlled, or operated by network operator A.
 (2)
+
+### 3A Meaning of classified security information
+(1) In this Act, classified security information means information—
+  (a) that is held by a surveillance agency; and
+  (b) that the head of the surveillance agency certifies in writing cannot be disclosed (except as authorised by or under an Act or other rule of law) because, in the opinion of the head of the surveillance agency,—
+    (i) the information is information of a kind specified in subsection (2); and
+    (ii) disclosure of the information would be disclosure of a kind specified in subsection (3).
+(2) Information falls within subsection (1)﻿(b)﻿(i) if it—
+  (a) might lead to the identification of, or provide details of,—
+    (i) the source of the information; or
+    (ii) the nature, content, or scope of the information; or
+    (iii) the nature or type of the assistance or operational methods available to the surveillance agency; or
+  (b) is about particular operations that have been undertaken, or are being or are proposed to be undertaken, in relation to any of the functions of the surveillance agency; or
+  (c) has been provided to the surveillance agency by the Government of another country or by an agency of such a Government or by an international organisation, and is information that cannot be disclosed by the surveillance agency because the Government, agency, or organisation that provided the information will not consent to the disclosure.
+(3) Disclosure of information falls within subsection (1)﻿(b)﻿(ii) if the disclosure would be likely—
+  (a) to prejudice the security or defence of New Zealand or the international relations of the Government of New Zealand; or
+  (b) to prejudice the entrusting of information to the Government of New Zealand on a basis of confidence by the Government of another country or any agency of such a Government, or by any international organisation; or
+  (c) to prejudice the maintenance of the law, including the prevention, investigation, and detection of offences and the right to a fair trial; or
+  (d) to endanger the safety of any person.
+
+### 3B Transitional, savings, and related provisions
+The transitional, savings, and related provisions set out in Schedule 1AA have effect according to their terms.
 
 ### 4 Act binds the Crown
 This Act binds the Crown.
@@ -279,9 +299,10 @@ A network operator that is required by or under this subpart to ensure that a ne
   (c) in the case of a wholesale network service that by the operation of section 15 must be intercept accessible, direct that the service or part of the service must instead—
     (i) be intercept ready; or
     (ii) comply with sections 9 and 10.
-(3) The Minister must issue the direction in writing to the affected network operator.
+(3) The Minister must issue the direction by written notice to the affected network operator.
 (4) The Minister must specify in the direction a time, which must be reasonable in the circumstances, by which the network operator must comply with the direction.
 (5) The reasons for the decision must be set out in the direction, except those parts of the reasons that would reveal classified information.
+(5A) See subpart 7, which applies when the Minister uses classified security information in making a decision to make a direction under this section.
 (6) The Minister must not delegate to any person, other than another Minister, the power to make a direction under this section.
 
 ### 20 Regulations
@@ -418,9 +439,11 @@ Every person who, under an interception warrant or any other lawful interception
   (e) any other matter that the designated officer considers relevant in the circumstances.
 (2) The designated officer must, when taking account of the matters set out in subsection (1), give primacy to subsection (1)﻿(a).
 (3) The designated officer must consult each of the surveillance agencies, as well as the applicant (if any), on the proposed decision.
-(4) The reasons for the decision must be set out in the decision, except those parts of the reasons that would reveal classified information.
+(4)
 (5) The designated officer must issue a written notice of the decision to the applicant or, in the case of a class exemption, to the class of network operators who are affected by the decision.
 (6)
+(6) The reasons for the decision must be set out in the written notice, except those parts of the reasons that would reveal classified security information.
+(7) See subpart 7, which applies when a designated officer uses classified security information in making a decision to grant, vary, or revoke an exemption under section 29.
 
 **Application to Minister**
 
@@ -460,9 +483,11 @@ Every person who, under an interception warrant or any other lawful interception
   (d) whether compliance could be achieved appropriately by another means; and
   (e) any other matter that the Minister considers relevant in the circumstances.
 (4) The Minister must, when taking account of the matters set out in subsection (3), give primacy to subsection (3)﻿(a).
-(5) The reasons for the decision must be set out in the decision, except those parts of the reasons that would reveal classified information.
+(5)
 (6) The Minister must issue a written notice of the decision to the applicant or, in the case of a class exemption, to the class of network operators who are affected by the decision.
 (7)
+(7) The reasons for the decision must be set out in the written notice, except those parts of the reasons that would reveal classified security information.
+(8) See subpart 7, which applies when the Minister uses classified security information in making a decision to grant, vary, or revoke an exemption.
 
 ### 37 Regulations relating to class exemptions
 (1) The Governor-General may, by Order in Council, on the recommendation of the Minister, make regulations—
@@ -520,14 +545,16 @@ Every person who, under an interception warrant or any other lawful interception
   (a) review all relevant submissions made to the Minister, and take into account all other relevant information; and
   (b) make recommendations to the Minister on whether the service provider should be treated as a network operator.
 (5) The Minister must, after considering the recommendations of the review panel, vary, confirm, or revoke the direction.
-(6) A summary of the review panel’s recommendations and reasons must be provided to the affected service provider, except those parts of the reasons that would reveal classified information.
+(6) A summary of the review panel’s recommendations and reasons must be provided to the affected service provider, except those parts of the reasons that would reveal classified security information.
+(7) See subpart 7, which applies when a review panel uses classified security information in making recommendations under this section and the Minister decides to confirm or vary the direction.
 
 ### 40 Direction notice
-(1) If the Minister makes a direction under section 38, a written notice of the direction must be provided to the affected service provider together with reasons, except those parts of the reasons that would reveal classified information.
+(1) If the Minister makes a direction under section 38, a written notice of the direction must be provided to the affected service provider together with reasons, except those parts of the reasons that would reveal classified security information.
 (2) The direction—
   (a) must state which of the duties referred to in section 38(1)﻿(a) that the affected service provider must comply with; and
   (b) must specify a time, which must be reasonable in the circumstances, by which the duty or duties must be complied with; and
   (c) may be subject to any terms and conditions specified by the Minister.
+(2A) See subpart 7, which applies when the Minister uses classified security information in making a decision to make a direction under section 38.
 (3) The effect of the direction is that this Part (except for sections 13 to 20, and 23) and Parts 1 and 4 apply to the affected service provider as if the service provider were a network operator under this Act.
 (4) The Minister may, after consulting the Ministers referred to in section 38(5), revoke the direction at any time.
 
@@ -574,6 +601,32 @@ Every person who, under an interception warrant or any other lawful interception
 A public telecommunications network or a telecommunications service that immediately before the commencement of this Act complied with section 8(1)﻿(c) of the Telecommunications (Interception Capability) Act 2004 by obtaining the call associated data and the content of telecommunications in a format that was able to be used by a surveillance agency—
   (a) is not subject to section 10(5)﻿(a) or 24(7)﻿(a) of this Act; and
   (b) may continue to use the format that it used immediately before the commencement of this Act for the purpose of section 10(1)﻿(c) or 24(3)﻿(b)﻿(iii) of this Act.
+
+### Subpart 7 — Provisions that apply when classified security information used in decisions
+
+### 44A Application and interpretation
+(1) This subpart applies in relation to the relevant decisions.
+(2) In this subpart,—
+  - **affected party** , in relation to a relevant decision, means a network operator, a member of the class of network operators, or a telecommunications service provider (as the case may be) to which the decision applies
+  - **decision maker** , in relation to a relevant decision, means the person or persons who make the decision
+  - **relevant decision** means any of the following decisions:
+    (a) a decision of the Minister to make a direction under section 19:
+    (b) a decision of a designated officer or the Minister under section 29 or 34 to grant, vary, or revoke an exemption:
+    (c) a decision of the Minister to make a direction under section 38:
+    (d) a decision of a review panel as to recommendations under section 39.
+
+### 44B Written notice and summary of classified security information
+(1) If a decision maker relies on classified security information in making a relevant decision, the written notice of the decision must state that—
+  (a) the decision maker relied on that kind of information; and
+  (b) the affected party may request a summary (a CSI summary) of the classified security information; and
+  (c) the affected party may be able to make a complaint to the Inspector-General of Intelligence and Security under section 171 of the Intelligence and Security Act 2017 in relation to any advice given to the decision maker by an intelligence and security agency.
+(2) The purpose of the CSI summary is to enable the affected party to have a sufficient understanding of—
+  (a) the classified security information the decision maker relied on in making the decision (without that information being disclosed to the affected party); and
+  (b) the reasons for the decision based on that information.
+(3) If the affected party requests a CSI summary,—
+  (a) the decision maker and the head of the surveillance agency that holds the classified security information must agree on the contents of a summary; and
+  (b) the decision maker must provide the agreed summary to the affected party within a reasonable time.
+(4) However, the decision maker may refuse to provide a CSI summary if the decision maker and the head of the surveillance agency are satisfied that a summary cannot be provided that is sufficient to meet its purpose without disclosing classified security information.
 
 ## Part 3 — Network security
 
@@ -688,14 +741,14 @@ If the Director considers that the proposal or part of the proposal does not pre
 (1) If the Director is of the opinion that a significant network security risk exists or may arise and is intending or considering whether to refer the matter to the Minister responsible for the Government Communications Security Bureau under section 54 or 55,—
   (a) the Director must, before referring the matter, notify the Chief Commissioner of Intelligence Warrants; and
   (b) on receipt of the notice, the Chief Commissioner of Intelligence Warrants must arrange for a review to be conducted in accordance with this section by a Commissioner as soon as practicable.
-(2) The Director must make available to the Commissioner all of the material (including any classified information) that informed the Director's opinion.
+(2) The Director must make available to the Commissioner all of the material (including any classified security information) that informed the Director's opinion.
 (3) The Commissioner must consider whether the significant network security risk identified by the Director exists or may arise by—
   (a) assessing the material made available to him or her; and
   (b) considering the matters that the Director was required to consider under section 50(1)﻿(a) and (b); and
   (c) considering any other matter that the Director, under section 50(1)﻿(c), considered relevant.
 (4) The Commissioner must prepare a report on the Commissioner's consideration, under subsection (3), of the significant network security risk identified by the Director and—
   (a) give a copy of the report to the Director; and
-  (b) give a copy of the report to the affected network operator, except those parts of the report that would reveal any classified information.
+  (b) give a copy of the report to the affected network operator, except those parts of the report that would reveal any classified security information.
 (5) The Commissioner must not, when conducting the review, seek or accept any further communications from the affected network operator or the Director (except as provided in subsection (2)).
 (6) Any material made available to the Commissioner under this section must be kept secure and confidential, and returned to the Director when the review is completed.
 (7) If the Director decides to refer the matter to the Minister, the Director must, when referring the matter, give the Minister a copy of the Commissioner's report under this section.
@@ -726,8 +779,11 @@ If the Director considers that the proposal or part of the proposal does not pre
     (ii) directing the network operator to make changes to, or remove, any particular system, equipment, service, component, or operation on or related to the network; and
   (b) may provide for any other relevant matter.
 (4) The Minister must ensure that any time by which a network operator must comply with a requirement of the direction is specified in the direction and is reasonable in the circumstances.
-(5) The Minister must issue the direction in writing to the affected network operator together with reasons, except those parts of the reasons that would reveal classified information.
+(5) The Minister must issue the direction in writing to the affected network operator together with reasons, except those parts of the reasons that would reveal classified security information.
 (6) The Minister must not delegate to any person, other than another Minister, the power to make a direction under this section.
+
+### 57A Provisions that apply when classified security information used or provided for decisions
+Subpart 7 of Part 2 applies, with all necessary modifications, in relation to decisions to make a direction under section 57 in the same way as it applies in relation to relevant decisions (within the meaning of that subpart).
 
 ### 58 Guidelines
 (1) The Director may issue guidelines on any requirements under this Part that apply to network operators.
@@ -1062,134 +1118,53 @@ In determining an appropriate pecuniary penalty, the High Court must have regard
 (1) The proceedings under this subpart are civil proceedings, and the usual rules of court and rules of evidence and procedure for civil proceedings apply (including the standard of proof).
 (2) This section is subject to subpart 8.
 
-### Subpart 8 — Protecting classified information
+### Subpart 8 — Classified security information in proceedings
 
-### 101 Application of subpart
-This subpart applies to any proceedings in a court relating to the administration or enforcement of this Act.
+### 101 Proceedings involving classified security information
+(1) This section applies to any civil proceedings (including public law and judicial review proceedings) in a court relating to the administration or enforcement of this Act.
+(2) If the Crown proposes to present classified security information in proceedings, the Attorney-General must—
+  (a) make an application to an authorised court under section 32 of the 2022 Act for a security information order to protect the confidentiality of the information to be given as evidence in the proceedings; and
+  (b) submit to the court the certification described in section 3A(1)﻿(b).
+(3) If the classified security information is also national security information, the Crown may submit with the application and certification referred to in subsection (2) an NSI certificate under section 41 of the 2022 Act and seek a security information order as set out in section 36(3) of that Act (under which the types of orders available to the court are limited).
+(4) In this section,—
+  - **2022 Act** means the Security Information in Proceedings Act 2022
+  - **authorised court** , , , and have the meanings given to them by section 4 of the 2022 Act.
 
 ### 102 Classified security information and other terms defined
-(1) In this subpart, classified security information means information—
-  (a) that is relevant to any proceedings in a court that relate to the administration or enforcement of this Act (or to any intended proceedings); and
-  (b) that is held by a surveillance agency; and
-  (c) that the head of the surveillance agency certifies in writing cannot be disclosed except to the extent provided in this subpart because, in the opinion of the head of the surveillance agency,—
-    (i) the information is information of a kind specified in subsection (2); and
-    (ii) disclosure of the information would be disclosure of a kind specified in subsection (3).
-(2) Information falls within subsection (1)﻿(c)﻿(i) if it—
-  (a) might lead to the identification of, or provide details of, the source of the information, the nature, content, or scope of the information, or the nature or type of the assistance or operational methods available to the surveillance agency; or
-  (b) is about particular operations that have been undertaken, or are being or are proposed to be undertaken, in relation to any of the functions of the surveillance agency; or
-  (c) has been provided to the surveillance agency by the government of another country or by an agency of a government of another country or by an international organisation, and is information that cannot be disclosed by the surveillance agency because the government or agency or organisation by which the information has been provided will not consent to the disclosure.
-(3) Disclosure of information falls within subsection (1)﻿(c)﻿(ii) if the disclosure would be likely—
-  (a) to prejudice the security or defence of New Zealand or the international relations of the Government of New Zealand; or
-  (b) to prejudice the entrusting of information to the Government of New Zealand on a basis of confidence by the government of another country or any agency of such a government, or by any international organisation; or
-  (c) to prejudice the maintenance of the law, including the prevention, investigation, and detection of offences, and the right to a fair trial; or
-  (d) to endanger the safety of any person.
-(4) In this subpart,—
-  - **non-Crown party** , in relation to proceedings, means a person (other than the Crown) that is a party to the proceedings
-  - **intended party** has the meaning set out in section 105(1)﻿(a)﻿(i)
-  - **intended proceedings** means the proceedings that an intended party intends to commence as notified under section 105(1)﻿(a)﻿(ii)
-  - **representative** includes a barrister or solicitor engaged to act on behalf of a party
-  - **special advocate** means a person appointed under section 105(2).
+[Repealed]
 
 ### 103 Obligation to provide court with access to classified security information
-(1) The Crown must, after proceedings are commenced, provide the court with access to the classified security information that is relevant to those proceedings.
-(2) If a special advocate is appointed before proceedings are commenced, the Crown must provide the court with access to the classified security information that is relevant to the intended proceedings.
-(3) The court must keep confidential and must not disclose any information provided as classified security information, even if it considers that the information does not meet the criteria set out in section 102(2) and (3), unless the head of the surveillance agency that holds the information consents to its release.
-(4) Subsection (3) applies both during and after completion of the proceedings.
+[Repealed]
 
 ### 104 Court orders
-(1) The court may, in order to comply with section 103(3), make 1 or more of the following orders:
-  (a) an order forbidding publication of any report or account of the whole or any part of the evidence adduced or the submissions made in the proceedings:
-  (b) an order forbidding the publication of the name of any witness or witnesses, or any name or particulars likely to lead to the identification of any witness or witnesses:
-  (c) an order forbidding the publication of classified security information or information about classified security information:
-  (d) an order excluding any person from the whole or any part of the court's proceedings, including—
-    (i) the non-Crown party or the non-Crown party's representative; or
-    (ii) staff of the court.
-(2) An order made under subsection (1)—
-  (a) may be made for a limited period or permanently; and
-  (b) if it is made for a limited period, may be renewed for a further period or periods by the court; and
-  (c) if it is made permanently, may be reviewed by the court at any time.
+[Repealed]
 
 ### 105 Appointment of special advocate
-(1) This section applies if—
-  (a) it appears to a court that—
-    (i) a person (the intended party) is or may be entitled to commence proceedings to which this subpart will or may apply but it is necessary for a special advocate to be appointed before the proceedings can be commenced; and
-    (ii) the intended party has notified the Crown that the party intends to commence those proceedings and that the party will apply for the appointment of a special advocate; or
-  (b) proceedings have been commenced and information presented, or proposed to be presented, in those proceedings includes classified security information; or
-  (c) proceedings have been commenced but the non-Crown party’s claim cannot be fully particularised without the non-Crown party being able to consider classified security information.
-(2) The court may, on the application of an intended party or non-Crown party, appoint a barrister or solicitor as a special advocate to represent the intended party’s or the non-Crown party's interests on the terms that the court may direct if the court is satisfied that it is necessary to do so in order to ensure either or both of the following:
-  (a) that the intended party can properly prepare and commence proceedings:
-  (b) that a fair hearing will occur.
-(3) The court must, before appointing a person as a special advocate, be satisfied that the person—
-  (a) holds an appropriate security clearance that allows the person to see information that is or may be classified security information; and
-  (b) is suitably qualified and experienced to fulfil the role of a special advocate.
-(4) A special advocate appointed to represent an intended party may, after the proceedings are commenced, continue to act as the special advocate on behalf of that person (as a non-Crown party), subject to the terms that the court may direct.
-(5) The court may make directions as to the terms of the appointment, and on the matters referred to in sections 108 and 109(3), before or after the proceedings are commenced.
-(6) The appointment of a special advocate does not create an obligation requiring the intended party to commence proceedings.
-(7) The surveillance agency to which the proceedings or intended proceedings relate must meet the actual and reasonable costs of a special advocate on a basis—
-  (a) agreed between the special advocate and the head of the surveillance agency; or
-  (b) determined by the court (in default of agreement).
+[Repealed]
 
 ### 106 Nomination of person for appointment
-(1) Each of the following may nominate a barrister or solicitor to be appointed as the special advocate:
-  (a) the Crown:
-  (b) the intended party or the non-Crown party (as the case may be).
-(2) The court may appoint a person nominated under subsection (1) or another person.
+[Repealed]
 
 ### 107 Role of special advocates
-(1) The role of a special advocate is to represent an intended party or a non-Crown party.
-(2) In particular, a special advocate may—
-  (a) prepare and commence proceedings on behalf of the person:
-  (b) examine and cross-examine witnesses:
-  (c) make oral and written submissions to the court:
-  (d) assist in the settlement of the proceedings.
-(3) At all times, a special advocate must act in accordance with his or her duties as an officer of the High Court.
-(4) A special advocate must keep confidential and must not disclose classified security information, except as expressly provided or authorised under this Act.
+[Repealed]
 
 ### 108 Court may provide access to classified security information to special advocate
-(1) A special advocate may, before or after the commencement of proceedings, apply to the court for access to the classified security information.
-(2) The court may provide access to the classified security information to the special advocate on the terms that the court may direct.
+[Repealed]
 
 ### 109 Communication between special advocate and other persons
-(1) A special advocate may communicate with the relevant party or the relevant party's representative on an unlimited basis until the special advocate has been provided with access to the classified security information.
-(2) After the special advocate has been given access to the classified security information, he or she must not communicate with any person about any matter connected with the classified security information except in accordance with this section.
-(3) A special advocate who, after having been given access to the classified security information, wishes to communicate with the relevant party, the relevant party's representative, or any other person not referred to in subsection (4) may do so on the terms that the court may direct.
-(4) A special advocate may, without the approval of the court, communicate about any matter connected with the classified security information with—
-  (a) the court:
-  (b) the Crown's security-cleared representative:
-  (c) the head of the surveillance agency to which the proceedings relate, or the surveillance agency’s security-cleared representative.
-(5) In this section, relevant party means the intended party or non-Crown party.
+[Repealed]
 
 ### 110 Protection of special advocates from liability
-(1) To the extent that a special advocate is acting in accordance with the requirements of this Act, he or she is not guilty of—
-  (a) misconduct within the meaning of section 7 or 9 of the Lawyers and Conveyancers Act 2006; or
-  (b) unsatisfactory conduct within the meaning of section 12 of that Act.
-(2) This subpart applies despite the requirements of any practice rules made and approved under the Lawyers and Conveyancers Act 2006.
-(3) No person is personally liable for any act done or omitted to be done in good faith, in his or her capacity as a special advocate, in accordance with the requirements or provisions of this Act.
+[Repealed]
 
 ### 111 Other matters relating to procedure in proceedings involving classified security information
-(1) The court must determine the proceedings on the basis of information available to it (whether or not that information has been disclosed to or responded to by all parties to the proceedings).
-(2) If information presented, or proposed to be presented, in the proceedings by the Crown includes classified security information,—
-  (a) except where proceedings are before the Court of Appeal or the Supreme Court, the proceedings must be heard and determined by the Chief High Court Judge, or by 1 or more Judges nominated by the Chief High Court Judge, or both; and
-  (b) the court must, on a request by the Attorney-General and if satisfied that it is necessary to do so for the protection of (either all or part of) the classified security information, receive or hear (the relevant part or all of) the classified security information in the absence of all or any of—
-    (i) the non-Crown party; and
-    (ii) the barristers or solicitors (if any) representing the non-Crown party; and
-    (iii) journalists; and
-    (iv) members of the public.
-(3) Without limiting subsection (2),—
-  (a) the court may approve a summary of the classified security information that is presented by the Attorney-General except to the extent that a summary of any particular part of the information would itself involve disclosure that would be likely to prejudice the interests referred to in section 102(3); and
-  (b) on being approved by the court, a copy of the summary must be given to the non-Crown party.
-(4) Subsections (1) to (3) apply despite any enactment or rule of law to the contrary.
+[Repealed]
 
 ### 112 Nothing in this subpart limits other rules of law that authorise or require withholding of document, etc
-Nothing in this subpart limits section 27 of the Crown Proceedings Act 1950 or any rule of law that authorises or requires the withholding of a document or the refusal to answer a question on the ground that the disclosure of the document or the answering of the question would be injurious to the public interest.
+[Repealed]
 
 ### 113 Ancillary general practices and procedures to protect classified security information
-(1) Any general practices and procedures that may be necessary to implement the procedures specified in this subpart and to ensure that classified security information is protected in all proceedings to which this subpart applies must be agreed between the Chief Justice and the Attorney-General as soon as practicable after the commencement of this section, and revised from time to time.
-(2) General practices and procedures may be agreed under subsection (1) on the following matters:
-  (a) measures relating to the physical protection of the information during all proceedings to which this subpart relates:
-  (b) the manner in which the information may be provided to the court:
-  (c) measures to preserve the integrity of the information until any appeals are withdrawn or finally determined.
-(3) Subsection (2) does not limit subsection (1).
+[Repealed]
 
 ### Subpart 9 — Miscellaneous provisions
 
@@ -1269,7 +1244,7 @@ This Act does not limit any power that a surveillance agency or any other person
 The Telecommunications (Interception Capability) Act 2004 (2004 No 19) is repealed.
 
 ### 123 Consequential amendments
-Amend the enactments specified in the Schedule as set out in that schedule.
+Amend the enactments specified in Schedule 1 as set out in that schedule.
 
 ### 124 Savings provision for exemptions
 (1) An exemption granted under section 11 of the Telecommunications (Interception Capability) Act 2004 that is in force immediately before the commencement of this section—
@@ -1297,4 +1272,28 @@ If a network operator has, at the date of first registration, less than 4 000 cu
 (1) The Governor-General may, by Order in Council, make regulations providing for any matters contemplated by this Act, necessary for its administration, or necessary for giving it full effect.
 (2) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
-## Schedule  — Consequential amendments
+## Schedule 1AA — Transitional, savings, and related provisions
+
+### Part 1 — Provisions relating to Security Information in Proceedings (Repeals and Amendments) Act 2022
+
+### 1 Interpretation
+In this Part, unless the context otherwise requires,—
+  - **2022 Act** means sections 46 to 61 of the Security Information in Proceedings (Repeals and Amendments) Act 2022
+  - **commencement date** means the date on which the 2022 Act comes into force
+  - **relevant decision** means one of the following decisions:
+    (a) a decision of the Minister to make a direction under section 19:
+    (b) a decision of a designated officer or the Minister under section 29 or 34 to grant, vary, or revoke an exemption:
+    (c) a decision of the Minister to make a direction under section 38:
+    (d) a decision of a review panel as to recommendations under section 39:
+    (e) a decision of the Minister to make a direction under section 57
+  - **section 101 proceedings** means proceedings to which section 101 applies.
+
+### 2 Administrative decisions
+The amendments made to this Act by the 2022 Act apply only in relation to any relevant decision made on or after the commencement date.
+
+### 3 Proceedings involving classified security information
+(1) The amendments made to this Act by the 2022 Act (except for this clause) apply only to section 101 proceedings commenced on or after the commencement date.
+(2) To avoid doubt, subclause (1) applies to section 101 proceedings that commence on or after the commencement date, but that relate to a relevant decision that was made before, on, or after the commencement date.
+(3) Section 101 proceedings commenced before the commencement date, and not finally determined before the commencement date (including any rehearing, retrial, or appeal), continue as if the amendments made to this Act by the 2022 Act had not been enacted.
+
+## Schedule 1 — Consequential amendments
