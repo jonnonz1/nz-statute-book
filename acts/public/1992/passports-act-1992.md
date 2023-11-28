@@ -1,5 +1,5 @@
 # Passports Act 1992
-_Consolidation as at 2021-10-28_
+_Consolidation as at 2023-11-28_
 
 > An Act to give proper recognition to New Zealand passports and to the right of New Zealand citizens to such passports, and to consolidate and amend the law relating to passports, certificates of identity, emergency travel documents, and refugee travel documents
 
@@ -11,9 +11,13 @@ In this Act, unless the context otherwise requires,—
   - **applicant** , in relation to an application for a New Zealand travel document, means the person who will be the holder of the document if the application is granted
   - **certificate of identity** means a document (other than a passport or an emergency travel document or a refugee travel document) issued by the Government of any country to any person for the purposes of facilitating his or her entry into or exit from any country, and purporting to establish the identity but not the nationality of that person
   - **Chief Commissioner of Intelligence Warrants** means the Chief Commissioner of Intelligence Warrants appointed under section 112 of the Intelligence and Security Act 2017
+  - **classified security information** has the meaning given by section 2AA
   - **Commissioner of Intelligence Warrants** means a Commissioner of Intelligence Warrants appointed under section 112 of the Intelligence and Security Act 2017
+  - **CSI summary** means the summary referred to in section 27GC(1)﻿(d)﻿(ii)
+  - **Director-General of an intelligence and security agency** has the meaning given by section 4 of the Intelligence and Security Act 2017
   - **emergency travel document** means a document (other than a passport or a certificate of identity or a refugee travel document) issued, pursuant to section 23, by or on behalf of the Government of New Zealand to any person who may be a New Zealand citizen for the purposes of urgently facilitating his or her entry into or exit from any country, and purporting to establish the identity but not the nationality of that person
   - **holder** , in relation to a New Zealand travel document, means the person in whose name the document has been issued
+  - **intelligence and security agency** has the meaning given by section 4 of the Intelligence and Security Act 2017
   - **Minister** means the Minister of the Crown who, under the authority of any warrant or with the authority of the Prime Minister, is for the time being responsible for the administration of this Act
   - **New Zealand passport** means a passport issued by or on behalf of the Government of New Zealand to a New Zealand citizen
   - **New Zealand refugee travel document** means a document (other than a passport, certificate of identity, or emergency travel document) issued by or on behalf of the Government of New Zealand to a refugee to facilitate international travel
@@ -30,8 +34,34 @@ In this Act, unless the context otherwise requires,—
       (v) recognised, before 1 January 1991, as a refugee by the Interdepartmental Committee on Refugees; and
     (b) continues to be recognised as a refugee in New Zealand
   - **Secretary** means the Secretary for Internal Affairs
+  - **specified agency** means—
+    (a) an intelligence and security agency; or
+    (b) the New Zealand Police
   - **surrendered passport** means a passport that has been surrendered under section 12
   - **temporary passport** means a passport issued under section 13.
+
+### 2AA Meaning of classified security information
+(1) In this Act, classified security information means information—
+  (a) that is relevant to whether there are or may be grounds for believing that—
+    (i) the person concerned is a danger to the security of New Zealand or another country because the person intends to carry out, engage in, or facilitate an activity of a kind described in section 27GA(1)﻿(a) or (2)﻿(a); or
+    (ii) the refusal to issue the New Zealand travel document concerned, or to cancel or retain the New Zealand travel document, will prevent or effectively impede the ability of the person to carry out the intended activity; or
+    (iii) the danger to the security of New Zealand or the other country cannot be effectively averted by other means; and
+  (b) that is held by a specified agency; and
+  (c) that the head of the specified agency certifies in writing cannot be disclosed (except as authorised by or under an Act or other rule of law) because, in the opinion of the head of the specified agency,—
+    (i) the information is information of a kind specified in subsection (2); and
+    (ii) disclosure of the information would be disclosure of a kind specified in subsection (3).
+(2) Information falls within subsection (1)﻿(c)﻿(i) if it—
+  (a) might lead to the identification of, or provide details of,—
+    (i) the source of the information; or
+    (ii) the nature, content, or scope of the information; or
+    (iii) the nature or type of the assistance or operational methods available to the specified agency; or
+  (b) is about particular operations that have been undertaken, or are being or are proposed to be undertaken, in relation to any of the functions of the specified agency; or
+  (c) has been provided to the specified agency by the Government of another country or by an agency of such a Government or by an international organisation, and is information that cannot be disclosed by the specified agency because the Government, agency, or organisation that provided the information will not consent to the disclosure.
+(3) Disclosure of information falls within subsection (1)﻿(c)﻿(ii) if the disclosure would be likely—
+  (a) to prejudice the security or defence of New Zealand or the international relations of the Government of New Zealand; or
+  (b) to prejudice the entrusting of information to the Government of New Zealand on a basis of confidence by the Government of another country or by an agency of such a Government or by an international organisation; or
+  (c) to prejudice the maintenance of the law, including the prevention, investigation, and detection of offences and the right to a fair trial; or
+  (d) to endanger the safety of any person.
 
 ### 2A Transitional, savings, and related provisions
 The transitional, savings, and related provisions set out in Schedule 1 have effect according to their terms.
@@ -358,13 +388,25 @@ An emergency travel document is valid for—
 (2) The Minister must arrange for all documents that he or she considered when deciding to take the action to be referred to the Chief Commissioner of Intelligence Warrants.
 
 ### 27GC Person to be notified of action taken under section 27GA
-(1) If the Minister takes an action specified in section 27GA(3) in relation to a person, the Minister must, as soon as practicable, notify the person of—
-  (a) the action that has been taken; and
-  (b) the date on which the decision to take that action was made; and
-  (c) the reasons for making that decision; and
-  (d) the period during which the person is not entitled to obtain a New Zealand travel document.
+(1) If the Minister takes an action specified in section 27GA(3) in relation to a person, the Minister must, as soon as practicable, notify the person of the following:
+  (a) the action that has been taken:
+  (b) the date on which the decision to take that action was made:
+  (c) the reasons for making that decision (except those parts of the reasons that would disclose classified security information):
+  (d) if the Minister relied on classified security information in making the decision,—
+    (i) that the Minister relied on that kind of information in making the decision; and
+    (ii) that the person may request that a summary (a CSI summary) of the information concerned be provided to them under section 27GCA:
+  (e) the period during which the person is not entitled to obtain a New Zealand travel document.
 (2) However, the Minister may defer notifying the person of the matters specified in subsection (1) for a period not exceeding 30 days after taking the action if the Minister is satisfied that giving notice sooner may prejudice an ongoing investigation or put the security or safety of any person at risk.
 (3) Notice under this section is to be treated as given if the Minister has taken all practicable steps to provide it.
+
+### 27GCA CSI summary
+(1) The purpose of a CSI summary is to enable the person referred to in section 27GC(1) to have a sufficient understanding of—
+  (a) the classified security information the Minister relied on in making the decision (without that information being disclosed to the person); and
+  (b) the reasons for the decision based on that information.
+(2) If the person requests a CSI summary,—
+  (a) the Minister and the head of the specified agency that holds the information must agree on the contents of the summary; and
+  (b) the Minister must provide the agreed summary to the person within a reasonable time.
+(3) However, the Minister may refuse to provide a CSI summary if the Minister and the head of the specified agency are not satisfied that a summary can be provided that is sufficient to meet its purpose without disclosing classified security information.
 
 ### 27GD Person not entitled to obtain New Zealand travel document if action taken under section 27GA
 (1) If the Minister takes an action specified in section 27GA(3) in relation to a person, the person is not entitled to obtain a New Zealand travel document during the 12-month period (the disqualification period) starting with the date on which the decision to take the action was made, unless that decision is—
@@ -403,6 +445,11 @@ An emergency travel document is valid for—
   (b) notify the person in respect of whom the action under section 27GA was taken of—
     (i) the recommendation of the Commissioner of Intelligence Warrants and the reasons for it; and
     (ii) the outcome of the Minister’s reconsideration of his or her decision.
+
+### 27GFA Notification to Inspector-General of Intelligence and Security of provision of classified security information
+(1) The Director-General of an intelligence and security agency must notify the Inspector-General of Intelligence and Security if the agency provides classified security information to the Minister or department to assist the Minister in deciding whether to take an action specified in section 27GA(3) in relation to a person.
+(2) The Director-General must make the notification as soon as practicable after providing the classified security information to assist the Minister.
+(3) In this section, department means the department of State that, with the authority of the Prime Minister, is for the time being responsible for the administration of this Act.
 
 **Cancellation of New Zealand travel document on death of holder**
 
@@ -459,56 +506,26 @@ An emergency travel document is valid for—
   (a) the information that led to the decision is credible, having regard to its source or sources; and
   (b) the information reasonably supports a finding that—
     (i) the person concerned is a danger to the security of New Zealand or another country because the person intends to carry out, engage in, or facilitate, an activity of a kind described in section 27GA(1)﻿(a) or (2)﻿(a); and
-    (ii) the refusal to issue the New Zealand travel document concerned, or to cancel or retain the New Zealand travel document, will prevent or effectively impede the ability of the person to carry out that intended activity; and
+    (ii) the refusal to issue the New Zealand travel document concerned, or the cancellation or retention of the New Zealand travel document, will prevent or effectively impede the ability of the person to carry out that intended activity; and
     (iii) the danger to the security of New Zealand or the other country cannot be effectively averted by other means.
 (3) Where the appeal relates to a matter within the discretion of the Minister, the court may substitute its own discretion for that of the Minister.
-(4) If information presented or proposed to be presented in proceedings to which this section applies includes classified security information, then section 29AB applies.
-(5) In this section and sections 29AB and 29AC, classified security information means information—
-  (a) relevant to whether there are or may be grounds for believing that—
-    (i) the person concerned is a danger to the security of New Zealand or another country because the person intends to carry out, engage in, or facilitate, an activity of a kind described in section 27GA(1)﻿(a) or (2)﻿(a); and
-    (ii) the refusal to issue the New Zealand travel document concerned, or to cancel or retain the New Zealand travel document, will prevent or effectively impede the ability of the person to carry out the intended activity; or
-    (iii) the danger to the security of New Zealand or the other country cannot be effectively averted by other means; and
-  (b) held by an intelligence and security agency (as defined in section 4(1) of the Terrorism Suppression Act 2002) or by the New Zealand Police; and
-  (c) that the head of the specified agency, or the New Zealand Police, certifies in writing cannot be disclosed except to the extent provided in section 29AB because, in the opinion of the head of the specified agency,—
-    (i) the information is information of a kind specified in subsection (6); and
-    (ii) disclosure of the information would be disclosure of a kind specified in subsection (7).
-(6) Information falls within subsection (5)﻿(c)﻿(i) if it—
-  (a) might lead to the identification of, or provide details of, the source of the information, the nature, content, or scope of the information, or the nature or type of the assistance or operational methods available to the agency or the Police; or
-  (b) is about particular operations that have been undertaken, or are being or are proposed to be undertaken, in pursuance of any of the functions of the agency or the Police; or
-  (c) has been provided to the agency or the Police by the Government of another country or by an agency of a Government of another country or by an international organisation, and is information that cannot be disclosed by the agency or the Police because the Government or agency or organisation by which the information has been provided will not consent to the disclosure.
-(7) Disclosure of information falls within subsection (5)﻿(c)﻿(ii) if the disclosure would be likely—
-  (a) to prejudice the security or defence of New Zealand or the international relations of the Government of New Zealand; or
-  (b) to prejudice the entrusting of information to the Government of New Zealand on a basis of confidence by the Government of another country or any agency of such a Government, or by any international organisation; or
-  (c) to prejudice the maintenance of the law, including the prevention, investigation, and detection of offences, and the right to a fair trial; or
-  (d) to endanger the safety of any person.
+(4)
+(5)
+(6)
+(7)
 
 ### 29AB Proceedings involving classified security information
-(1) If information presented or proposed to be presented by the Crown in any proceedings to which section 29AA applies includes classified security information, the court must, on a request for the purpose by the Attorney-General and if satisfied that it is desirable to do so for the protection of (either all or part of) the classified security information, receive or hear (the part or all of) the classified security information in the absence of—
-  (a) the person in respect of whom the decision concerned was made; and
-  (b) all barristers or solicitors (if any) representing that person; and
-  (c) members of the public.
-(2) Without limiting subsection (1),—
-  (a) the court must approve a summary of the information of the kind referred to in section 29AA(5) that is presented by the Attorney-General except to the extent that a summary of any particular part of the information would itself involve disclosure that would be likely to prejudice the interests referred to in section 29AA(6) or (7); and
-  (b) on being approved by the court (with or without amendments directed by the court in accordance with paragraph (a)), a copy of the statement must be given to the person concerned.
-(3) The court—
-  (a) may give any directions and make any orders that the court thinks appropriate in the circumstances of the case:
-  (b) must determine the application or appeal on the basis of information available to the court, whether or not that information has been disclosed to or responded to by all parties to the proceedings.
-(4) Nothing in this section limits section 27 of the Crown Proceedings Act 1950 or any rule of law that authorises or requires the withholding of a document or the refusal to answer a question on the ground that the disclosure of the document or the answering of the question would be injurious to the public interest.
-(4A) If at any time a decision is made to withdraw any classified security information,—
-  (a) the classified security information—
-    (i) must be kept confidential and must not be disclosed by the court; and
-    (ii) must be returned to the relevant agency; and
-  (b) the court must continue to make the decision or determine the proceedings—
-    (i) without regard to that classified security information; and
-    (ii) in the case of an appeal or a review of proceedings, as if that information had not been available in making the decision subject to the appeal or review.
-(5) This section applies despite any enactment or rule of law to the contrary.
+(1) If the Crown proposes to present classified security information in section 29AA proceedings, the Attorney-General must—
+  (a) make an application to an authorised court under section 32 of the 2022 Act for a security information order to protect the confidentiality of the information to be given as evidence in proceedings; and
+  (b) submit to the court the certification described in section 2AA(1)﻿(c).
+(2) If the classified security information is also national security information, the Crown may submit with the application and certification referred to in subsection (1) an NSI certificate under section 41 of the 2022 Act and seek a security information order as set out in section 36(3) of that Act (under which the types of orders available to the court are limited).
+(3) In this section,—
+  - **2022 Act** means the Security Information in Proceedings Act 2022
+  - **authorised court** , , , and have the meanings given to them by section 4 of the 2022 Act
+  - **section 29AA proceedings** means proceedings to which section 29AA applies.
 
 ### 29AC Ancillary general practices and procedures to protect classified security information
-(1) Any general practices and procedures that may be necessary to implement the procedures specified in section 29AB and to ensure that classified security information is protected in all proceedings to which that section relates must be agreed between the Chief Justice and the Attorney-General as soon as practicable after the commencement of this section, and revised from time to time.
-(2) Without limiting the generality of subsection (1), general practices and procedures may be agreed under that subsection on the following matters:
-  (a) measures relating to the physical protection of the information during all proceedings to which section 29AB relates:
-  (b) the manner in which the information may be provided to the court:
-  (c) measures to preserve the integrity of the information until any appeals are withdrawn or finally determined.
+[Repealed]
 
 **Offences**
 
@@ -711,8 +728,29 @@ Nothing in this Act limits access to information that is recorded under this Act
 
 ## Schedule 1 — Transitional, savings, and related provisions
 
+### Part 1 — Provisions relating to Passports Amendment Act 2015
+
 ### 1 Savings
 Nothing in this Act affects the validity or period of validity of any New Zealand travel document issued or renewed before the commencement of the Passports Amendment Act 2015.
+
+### Part 2 — Provisions relating to Security Information in Proceedings (Repeals and Amendments) Act 2022
+
+### 2 Interpretation
+In this Part, unless the context otherwise requires,—
+  - **2022 Act** means sections 37 to 45 of the Security Information in Proceedings (Repeals and Amendments) Act 2022
+  - **commencement date** means the date on which the 2022 Act comes into force
+  - **section 29AA proceedings** means proceedings to which section 29AA applies.
+
+### 3 Decision of Minister under section 27GA
+(1) This clause applies to a decision of the Minister to take an action specified in section 27GA(3)—
+  (a) that is made before the commencement date; but
+  (b) in relation to which the person affected by the decision had not been notified under section 27GC before that date.
+(2) The amendments made to this Act by the 2022 Act apply in relation to the decision, except the amendment made by section 85 (which applies only in relation to a decision that is made on or after the commencement date).
+
+### 4 Proceedings involving classified security information
+(1) The amendments made to this Act by the 2022 Act (except for this clause) apply only to section 29AA proceedings commenced on or after the commencement date.
+(2) To avoid doubt, subclause (1) applies to section 29AA proceedings that commence on or after the commencement date, but that relate to a decision of the Minister to take an action specified in section 27GA(3) that was made before, on, or after the commencement date.
+(3) Section 29AA proceedings commenced before the commencement date, and not finally determined before the commencement date (including any rehearing, retrial, or appeal), continue as if the amendments made to this Act by the 2022 Act had not been enacted.
 
 ## Schedule 2 — Temporary provisions
 
