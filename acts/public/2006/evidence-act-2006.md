@@ -1,5 +1,5 @@
 # Evidence Act 2006
-_Consolidation as at 2022-12-21_
+_Consolidation as at 2023-11-28_
 
 ### 1 Title
 This Act is the Evidence Act 2006.
@@ -869,6 +869,7 @@ In a proceeding for defamation that is based on a statement to the effect that a
   (a) in respect of which the reason advanced in support of an application for a direction under this section is one of those set out in sections 6 and 7 of the Official Information Act 1982; or
   (b) that is official information as defined in section 2(1) of the Official Information Act 1982 and in respect of which the reason advanced in support of the application for a direction under this section is one of those set out in section 9(2)﻿(b) to (k) of that Act.
 (3) A Judge may give a direction under this section that a communication or information not be disclosed whether or not the communication or information is privileged by another provision of this subpart or would, except for a limitation or restriction imposed by this subpart, be privileged.
+(4) This section does not apply if an application may be made under section 32 of the Security Information in Proceedings Act 2022 in relation to the communication or information concerned (see also section 33 of that Act).
 
 ## Part 3 — Trial process
 
@@ -1161,6 +1162,7 @@ In any proceeding, the party who calls a witness may, if the Judge determines th
 Sections 103 to 106 (which provide for alternative ways of giving evidence) are subject to the following provisions (which deal with specific situations):
   (a) sections 106AA to 106B (which relate to family violence complainants):
   (b) sections 106C to 106J (which relate to sexual case complainants or propensity witnesses):
+  (ba) sections 109A and 109B (which relate to intelligence officers and intelligence sources):
   (c) sections 107AA to 107B (which relate to child witnesses in criminal proceedings):
   (d) sections 108 and 109 (which relate to undercover Police officers):
   (e) sections 110 to 118 (which relate to anonymous witnesses).
@@ -1441,6 +1443,59 @@ Sections 107 to 107B apply to a child witness when giving evidence in a criminal
   (c) if the application is made during the trial before a jury, must be dealt with and determined by the Judge in the absence of the jury.
 (4) If the Commissioner of Police gives a certificate under section 108 in respect of any witness, the Commissioner must serve a copy of the certificate on the defendant, or on any lawyer acting for the defendant, at least 14 days before the witness is to give evidence.
 
+**Giving of evidence by intelligence officers and intelligence sources**
+
+### 109A Certificates relating to intelligence officers and intelligence sources
+(1) This section and section 109B apply—
+  (a) to a civil proceeding; or
+  (b) to a criminal proceeding for a category 3 or 4 offence.
+(2) If a party to the proceeding intends to call an intelligence officer or an intelligence source as a witness, a Director-General of an intelligence and security agency may file in the court in which the proceeding is to be held a certificate, signed by the Director-General, stating that,—
+  (a) during the period specified in the certificate, the witness was—
+    (i) an intelligence officer of the intelligence and security agency or of a foreign intelligence agency; or
+    (ii) an intelligence source of the intelligence and security agency; and
+  (b) the identity of the witness must not be disclosed because that disclosure would adversely affect the ability of the intelligence and security agency or (if applicable) the foreign intelligence agency to carry out its activities while maintaining the secrecy of its activities; and
+  (c) the witness has not been convicted of any offence or (as the case may require) the witness has not been convicted of any offence other than the offence, or offences, described in the certificate.
+(3) The Director-General must file the certificate,—
+  (a) in the case of a civil proceeding, in accordance with rules of court; or
+  (b) in the case of a criminal proceeding, as soon as is reasonably practicable after a defendant has pleaded not guilty.
+(4) If the Director-General knows that the credibility of the witness in giving evidence in any other proceeding has been the subject of adverse comment by the Judge in that proceeding, the Director-General must also include in the certificate a statement of the relevant particulars.
+(5) For the purposes of subsections (2)﻿(c) and (4),—
+  (a) it is sufficient that the certificate includes—
+    (i) a statement of the nature of any offence or comment referred to in the certificate; and
+    (ii) the year in which the offence was committed or the comment was made; and
+  (b) it is not necessary to include the venue or precise date of the proceeding or any other particulars that might enable the true name or address of the witness to be discovered.
+(6) In this section and in section 109B,—
+  - **Director-General of an intelligence and security agency** has the same meaning as in section 4 of the Intelligence and Security Act 2017
+  - **foreign intelligence agency** means an agency that has responsibility for intelligence gathering for a country with which New Zealand has an intelligence sharing arrangement
+  - **intelligence and security agency** has the same meaning as in section 4 of the Intelligence and Security Act 2017
+  - **intelligence officer** means—
+    (a) an employee of an intelligence and security agency; or
+    (b) an individual employed or engaged in a foreign intelligence agency
+  - **intelligence source** means any individual who has provided intelligence to an intelligence and security agency on a confidential basis.
+(7) This section also applies, with any necessary modification, in any case where a person is being, or is to be, proceeded against under—
+  (a) the Criminal Proceeds (Recovery) Act 2009; or
+  (b) sections 142A to 142Q of the Sentencing Act 2002.
+
+### 109B Effect of certificate under section 109A
+Effect
+(1) In any proceeding in which a Director-General of an intelligence and security agency has filed a certificate under section 109A(2) relating to a party’s witness,—
+  (a) if the witness states that, during the period specified in the certificate, the witness acted as an intelligence officer or intelligence source as specified in the certificate, it must be presumed, in the absence of proof to the contrary, that the certificate has been given in respect of that witness; and
+  (b) it is sufficient if the witness is referred to in the way specified by the Director-General in the certificate, and, except if leave is given under subsection (2), the witness must not be required to state the true name or address of the witness or to give any particulars likely to lead to the discovery of that name or address; and
+  (c) except if leave is given under subsection (2), no lawyer, officer of the court, or other person involved in the proceeding may state in court the true name or address of the witness or give any particulars likely to lead to the discovery of that name or address.
+Leave to give evidence or ask question about name or address
+(2) No evidence may be given, and no question may be put to the witness, or to any other witness, that relates directly or indirectly to the true name or address of the witness except by leave of the Judge.
+(3) On an application for that leave, the certificate is, in the absence of evidence to the contrary, sufficient evidence of the particulars stated in it.
+(4) If there is a jury, the Judge must not grant the leave unless the Judge is satisfied that—
+  (a) there is some evidence before the Judge that, if believed by the jury, could call into question the credibility of the party’s witness; and
+  (b) it is necessary in the interests of justice that other parties be enabled to test properly the credibility of the witness; and
+  (c) it would be impracticable for other parties to test properly the credibility of the witness if those parties were not informed of the true name or address of the witness.
+(5) An application for leave under subsection (2)—
+  (a) may be made from time to time and at any stage of the proceeding; and
+  (b) must, where practicable, be made and dealt with in chambers; and
+  (c) if the application is made during a trial before a jury, must be dealt with and determined by the Judge in the absence of the jury.
+Service of certificate
+(6) If a Director-General of an intelligence and security agency files a certificate under section 109A(2) in respect of any party’s witness, the Director-General must serve a copy of the certificate on the other parties, or on any lawyer acting for another party, at least 14 days before the witness is to give evidence.
+
 **Giving of evidence by anonymous witnesses**
 
 ### 110 Pre-trial witness anonymity order
@@ -1607,8 +1662,11 @@ The matters that a Judge or judicial officer must consider for the purposes of s
 
 **Signature of statements by assumed name**
 
-### 120 Persons who may sign statements by assumed name
+### 120 Persons who may sign statements by assumed name or anonymously
 (1) A deposition or other written statement of evidence given by an undercover Police officer may be given and signed in the name by which the officer was known during the relevant investigation.
+(1A) A deposition or other written statement of evidence given by an intelligence officer or intelligence source (within the meaning of section 109A) may be given and signed,—
+  (a) in the case of an intelligence officer who has acquired an assumed name under subpart 1 of Part 3 of the Intelligence and Security Act 2017, in that name; or
+  (b) in any other case, using the term “witness” followed by an initial or a mark.
 (2) A deposition or other written statement given by a witness who is the subject of an application for an anonymity order made under section 112, or who is the subject of an anonymity order made under section 110 or 112, may be given and signed by the witness using the term witness followed by an initial or mark.
 (3) This section overrides any contrary provision in this Act or any other enactment.
 
@@ -2463,6 +2521,18 @@ The enactments specified in Schedule 2 are amended in the manner set out in that
 ### 1 Proceedings affected by Part
 (1) Amendments made by a provision of Part 1 of the Sexual Violence Legislation Act 2021 (except for this clause) apply only to proceedings commenced on or after the commencement of that provision.
 (2) Proceedings commenced before that commencement, and not finally determined (including any rehearing, retrial, or appeal) before that commencement, continue as if those amendments had not been enacted.
+
+### Part 2 — Provisions relating to Security Information in Proceedings (Repeals and Amendments) Act 2022
+
+### 2 Interpretation
+In this Part, unless the context otherwise requires,—
+  - **2022 Act** means sections 92 to 97 of the Security Information in Proceedings (Repeals and Amendments) Act 2022
+  - **commencement date** means the date on which the 2022 Act comes into force.
+
+### 3 Proceedings involving classified security information
+(1) The amendments made to this Act by the 2022 Act (except for this clause) apply to proceedings commenced on or after the commencement date.
+(2) To avoid doubt, subclause (1) applies to proceedings that commence on or after the commencement date, but that relate to circumstances, events, or decisions that occurred before, on, or after the commencement date.
+(3) Proceedings commenced before the commencement date, and not finally determined before the commencement date (including any rehearing, retrial, or appeal), continue as if the amendments made to this Act by the 2022 Act had not been enacted.
 
 ## Schedule 1 — Enactments repealed
 
