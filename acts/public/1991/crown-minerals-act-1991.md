@@ -1,5 +1,5 @@
 # Crown Minerals Act 1991
-_Consolidation as at 2023-08-31_
+_Consolidation as at 2023-12-01_
 
 > Title
 
@@ -2004,6 +2004,104 @@ As soon as practicable after a financial capability assessment under section 89Z
   (a) a copy of the decision, which must include the reasons for the decision; and
   (b) written notice of any required or permitted changes to the kind of security to be obtained and maintained or the amount secured, as the case requires; and
   (c) if paragraph (b) applies, and the changes are required changes, the time by which the permit holder or licence holder must comply with the changes referred to in paragraph (b).
+
+### Subpart 3 — Post-decommissioning obligations
+
+### 89ZS Application of this subpart
+(1) This subpart applies to—
+  (a) each permit holder:
+  (b) each licence holder:
+  (c) any other person who is, or will be, obliged under subpart 2 to carry out and meet the costs of decommissioning.
+(2) This subpart applies only in relation to—
+  (a) petroleum infrastructure that was decommissioned on or after commencement; or
+  (b) any well that was plugged and abandoned on or after commencement.
+
+### 89ZT Relationship between this subpart and other enactments and permit or licence conditions
+(1) This subpart does not limit or affect any person’s obligations under another enactment or under the conditions of a current permit or licence.
+(2) Any requirement under this subpart for a person to supply information does not replace or limit any requirement for that person to supply information under any other provision of this Act or another enactment.
+
+### 89ZU Interpretation
+In this subpart, unless the context otherwise requires,—
+  - **commencement** , in relation to any provision in this subpart, means the day on which that provision commences
+  - **current licence holder** has the same meaning as in section 89D
+  - **current permit holder** has the same meaning as in section 89D
+  - **licence** has the same meaning as in section 89D
+  - **permit** has the same meaning as in section 89D
+  - **petroleum infrastructure** has the meaning set out in section 89F
+  - **post-decommissioning work** means—
+    (a) monitoring decommissioned petroleum infrastructure and wells in order to determine if activities need to be undertaken under paragraph (b):
+    (b) activities carried out in relation to the remediation of—
+      (i) petroleum infrastructure that has been decommissioned but not removed:
+      (ii) a well that has been plugged and abandoned:
+      (iii) environmental damage or health and safety risks caused by a failure of the decommissioning of petroleum infrastructure or a well referred to in subparagraph (i) or (ii)
+  - **well** has the meaning set out in section 89D.
+
+### 89ZV Post-decommissioning obligations
+(1) Any person who is obliged under section 89J(1), 89K(1), 89R(1), or 89S(1) to carry out and meet the costs of decommissioning must, at the direction of the Minister,—
+  (a) pay the chief executive an amount in accordance with the prescribed criteria (if any), to meet the costs of any post-decommissioning work required on petroleum infrastructure or, as the case requires, 1 or more wells that have been decommissioned:
+  (b) obtain and maintain a financial security, of a kind and in an amount determined by the Minister in accordance with the prescribed requirements, being a security of a kind and in an amount designed to meet the cost or a proportion of the cost approved by the Minister of post-decommissioning work on petroleum infrastructure or 1 or more wells for which the permit or licence holder was responsible for carrying out and meeting the costs of decommissioning.
+(2) Any financial security referred to in this section is obtained or maintained on behalf of the Crown.
+
+### 89ZW Matters for Minister to consider
+In deciding under section 89ZV whether to require a permit holder or licence holder to pay an amount or obtain and maintain a financial security, the Minister must take into account the prescribed criteria (if any), any information supplied by the permit holder or licence holder, and any proposal by that person to obtain and maintain a particular kind of security in an amount nominated by that person.
+
+### 89ZX Details of payment or financial security
+(1) The Minister must direct that a payment by a person to whom section 89ZV(1)﻿(a) applies—
+  (a) be made in 1 lump sum to the chief executive by a prescribed time; or
+  (b) be made in 2 or more instalments on prescribed dates or at prescribed intervals.
+(2) In deciding whether to give a direction under subsection (1)﻿(a) or (b), the Minister must take into account—
+  (a) the prescribed criteria (if any):
+  (b) the most recent report (if any) available on the person’s financial capability.
+(3) The Minister must direct that a person to whom section 89ZV(1)﻿(b) applies obtain and maintain a financial security—
+  (a) in an amount and of a kind specified by the Minister; and
+  (b) on conditions related to the financial security or the manner in which it is held that the Minister considers appropriate; and
+  (c) by a date specified by the Minister.
+(4) The Minister must give written notice of the matters in subsection (1) to the person or persons from whom payment is due.
+
+### 89ZY Other duties of chief executive
+(1) The chief executive must ensure that—
+  (a) money received under section 89ZV(1)﻿(a) is paid into 1 or more accounts in accordance with section 104 and is managed in accordance with the requirements (if any) in the regulations:
+  (b) money received or made available for use under section 89ZV is used only to undertake, or reimburse the cost of, post-decommissioning work.
+(2) Any money referred to in subsection (1) may be invested by the chief executive, with the prior approval of the Minister.
+(3) The chief executive may refund all or any part of any money referred to in subsection (1), in any circumstances where a refund is authorised by the regulations.
+(4) For the purposes of carrying out their duties under this subpart, the chief executive may—
+  (a) take account of any information supplied under sections 89ZF and 89ZK:
+  (b) require a permit holder or licence holder by written notice to supply any specified information.
+(5) The permit holder or licence holder must provide the information—
+  (a) in the form and in the manner set out in the notice; and
+  (b) within any reasonable time specified in the notice requiring the information.
+(6) To avoid doubt, information gathered under this section is subject to section 90A (disclosure of information).
+
+### 89ZZ Other duties of Minister
+(1) The Minister may, in accordance with the prescribed requirements (if any), direct that money received under section 89ZV be given to a specified person within a prescribed class of persons or organisations for use in relation to a specified project (being a project for which expenditure or reimbursement is authorised under section 89ZY(1)﻿(b)).
+(2) For the purposes of carrying out their duties under this subpart, the Minister may—
+  (a) take into account any information supplied under sections 42B, 42C, and sections 89ZB to 89ZK, and 89ZW:
+  (b) review the adequacy of the funds available for post-decommissioning work, periodically, in accordance with the prescribed requirements:
+  (c) authorise the grant of refunds to persons who have made payments or made available money for use under section 89ZV, in accordance with the prescribed requirements:
+  (d) approve any specified person or class of person to apply for funds, in the prescribed manner and in accordance with the prescribed criteria (if any), to use in post-decommissioning work:
+  (e) require a permit holder or licence holder by written notice to supply any specified information.
+(3) The permit holder or licence holder must provide the information—
+  (a) in the form and in the manner set out in the notice; and
+  (b) within any reasonable time specified in the notice requiring the information.
+(4) To avoid doubt, information gathered under this section is subject to section 90A (disclosure of information).
+
+**Exemptions**
+
+### 89ZZA Exemption powers of Minister
+(1) The Minister may, if they consider it appropriate and if satisfied that the criteria in section 89ZZB(1)﻿(a) or (b) are satisfied, exempt a permit holder or a licence holder from the obligation to pay all or part of any amount the person would otherwise be required to pay under section 89ZV(1)﻿(a) or from the obligation to obtain and maintain a financial security under section 89ZV(1)﻿(b).
+(2) The Minister—
+  (a) may grant an exemption on any terms and conditions that the Minister considers appropriate:
+  (b) may amend or revoke an exemption:
+  (c) may grant an exemption for an indefinite or a limited period:
+  (d) may replace an exemption either before or when it expires:
+  (e) must provide a summary of reasons for a decision under paragraphs (a) to (d) and include that summary in the notice of exemption.
+(3) Class exemptions may be granted by regulations (see section 105).
+
+### 89ZZB Criteria for granting exemption
+(1) Before granting an exemption under section 89ZZA(1), the Minister must be satisfied that—
+  (a) the requirement is unreasonable or inappropriate in the particular case; or
+  (b) events have occurred that make the requirement unnecessary or inappropriate in the particular case.
+(2) For the purposes of applying subsection (1)﻿(a) and (b), the Minister must consider the prescribed criteria (if any).
 
 ### Subpart 4 — Enforcement, remedies, and appeals
 
