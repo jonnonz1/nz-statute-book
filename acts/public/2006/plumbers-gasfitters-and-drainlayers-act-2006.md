@@ -1,5 +1,5 @@
 # Plumbers, Gasfitters, and Drainlayers Act 2006
-_Consolidation as at 2023-06-07_
+_Consolidation as at 2023-12-06_
 
 ### 1 Title
 This Act is the Plumbers, Gasfitters, and Drainlayers Act 2006.
@@ -16,7 +16,8 @@ This Act is the Plumbers, Gasfitters, and Drainlayers Act 2006.
 ### 3 Purposes of this Act
 The purposes of this Act are—
   (a) to protect the health and safety of members of the public by ensuring the competency of persons engaged in the provision of sanitary plumbing, gasfitting, and drainlaying services; and
-  (b) to regulate persons who carry out sanitary plumbing, gasfitting, and drainlaying.
+  (b) to regulate persons who carry out sanitary plumbing, gasfitting, and drainlaying; and
+  (c) to appoint and regulate certification authorities.
 
 ### 4 Interpretation
 In this Act, unless the context otherwise requires,—
@@ -58,12 +59,24 @@ In this Act, unless the context otherwise requires,—
     (b) an offence prescribed as an infringement offence
   - **investigator** , in relation to a complaint, means the person appointed under Part 3 to investigate the complaint
   - **local authority** has the same meaning as in the Local Government Act 2002
-  - **Minister** means the Minister of the Crown who, under the authority of a warrant or with the authority of the Prime Minister, is responsible for the administration of this Act
+  - **Minister** means,—
+    (a) for the purposes of sections 87H, 172(1A), and 172A to 172C,—
+      (i) the Minister of Tourism; or
+      (ii) the Minister of the Crown who, under the authority of a warrant or with the authority of the Prime Minister, is responsible for the administration of those sections:
+    (b) for the purposes of any other section,—
+      (i) the Minister for Building and Construction; or
+      (ii) the Minister of the Crown who, under the authority of a warrant or with the authority of the Prime Minister, is responsible for the administration of this Act other than the sections specified in paragraph (a)
   - **Ministry** means the department of State that, with the authority of the Prime Minister, is responsible for the administration of this Act
+  - **motor vehicle** means each of the following:
+    (a) a motor vehicle within the meaning of section 2(1) of the Land Transport Act 1998:
+    (b) a unit used for camping that is not itself a vehicle but is capable of being—
+      (i) transported by means of being loaded onto a vehicle; and
+      (ii) used for camping whether or not it is loaded onto a vehicle
+  - **owner** , in relation to a motor vehicle, has the same meaning as in section 2(1) of the Land Transport Act 1998
   - **pipe** includes tubes, hoses, and associated fittings
   - **practising licence** means a practising licence issued under subpart 1 of Part 2
   - **provisional licence** means a provisional licence issued under section 38
-  - **register** means the register kept under subpart 3 of Part 2
+  - **register** means the register kept under subpart 3 of Part 2 or, as the context requires, the register kept under subpart 3 of Part 2A
   - **registered person** means a person who, for the time being,—
     (a) is registered under subpart 1 of Part 2; or
     (b) is deemed to be registered under that subpart
@@ -76,6 +89,7 @@ In this Act, unless the context otherwise requires,—
     (a) means a fixture that is used, or intended to be used, for sanitation; and
     (b) includes a bath, a shower, a sink, a basin, a toilet pan, a bidet, a urinal, and a laundry tub
   - **sanitary plumbing** has the meaning set out in section 6
+  - **self-containment certification authority** means a person appointed as a self-containment certification authority under section 87C
   - **serious harm** means—
     (a) death; or
     (b) harm that incapacitates, or is likely to incapacitate, the person suffering harm for 48 hours or more; or
@@ -87,7 +101,8 @@ In this Act, unless the context otherwise requires,—
     (c) that the completed work complies with the requirements of—
       (i) regulations; and
       (ii) in the case of sanitary plumbing or drainlaying, regulations under the Building Act 2004; and
-      (iii) in the case of gasfitting, regulations under the Gas Act 1992.
+      (iii) in the case of gasfitting, regulations under the Gas Act 1992
+  - **vehicle** has the same meaning as in section 2(1) of the Land Transport Act 1998.
 
 ### 5 Meaning of gasfitting
 (1) In this Act, unless the context otherwise requires, gasfitting means—
@@ -98,7 +113,7 @@ In this Act, unless the context otherwise requires,—
     (iv) the work of commissioning any gas installation and ensuring its safe operation (including, for example, the testing, setting, checking, and adjusting of safety devices, combustion conditions, and controls associated with the gas installation):
     (v) the work of setting safety devices, combustion conditions, and controls in connection with any gas installation that are not designed to be adjusted by a consumer or gas refueller:
     (vi) the work of recommissioning any gas installation if alteration or repair work has been done on the gas installation or its associated fittings to ensure its safe operation (including, for example, the testing, setting, checking, and adjusting of safety devices, combustion conditions, and controls associated with the gas installation):
-  (b) the work of fixing or unfixing any gas installation that is attached to, and forms part of, any ship, boat, caravan, vehicle, or train.
+  (b) the work of fixing or unfixing any gas installation that is attached to, and forms part of, any ship, boat, vehicle, or train.
 (2) Despite subsection (1), gasfitting does not include—
   (a) any fixing, unfixing, or other work on any gas storage container; or
   (b) any fixing, unfixing, or other work on any gas transmission system, distribution system, or gas measurement system; or
@@ -132,6 +147,9 @@ In this Act, unless the context otherwise requires,—
   (a) the premises was taken or otherwise acquired and is still held under the Public Works Act 1981 or any corresponding former Act; or
   (b) section 167(4) of the Land Act 1948 applies to the premises; or
   (c) the premises is a public reserve within the meaning of the Reserves Act 1977.
+
+### 6A Transitional, savings, and related provisions
+The transitional, savings, and related provisions set out in Schedule 1AA have effect according to their terms.
 
 ### 7 Act binds the Crown
 This Act binds the Crown.
@@ -945,6 +963,344 @@ A search of the register may be carried out only for a purpose referred to in se
 ### 87 When search constitutes interference with privacy of individual
 A search of the register for personal information that has not been carried out in accordance with sections 84 to 86 constitutes an action that is an interference with the privacy of an individual under section 69 of the Privacy Act 2020.
 
+## Part 2A — Self-contained motor vehicles
+
+### 87A Purpose of this Part
+The purpose of this Part is to regulate self-contained motor vehicles in order to manage the adverse effects of freedom camping on the natural environment.
+
+### 87B Interpretation of this Part
+In this Part, unless the context otherwise requires,—
+  - **core functions** , in relation to a self-containment certification authority, means the following functions:
+    (a) appointing a motor vehicle inspector under section 87T:
+    (b) issuing a certificate of self-containment for a motor vehicle under section 87U:
+    (c) making an entry in the register of self-contained motor vehicles under sections 87ZB and 87ZD
+  - **enforcement officer** has the same meaning as in section 4 of the Freedom Camping Act 2011
+  - **freedom camp** has the same meaning as in section 5 of the Freedom Camping Act 2011
+  - **motor vehicle inspection** means an inspection of a motor vehicle for the purpose of assessing whether the vehicle meets the requirements for self-containment prescribed by regulations
+  - **motor vehicle inspector** means a person appointed as a motor vehicle inspector in accordance with section 87T
+  - **Registrar of Motor Vehicles** has the same meaning as Registrar in section 233(1) of the Land Transport Act 1998
+  - **registration plate** has the same meaning as in section 233(1) of the Land Transport Act 1998.
+
+### Subpart 1 — Board appoints and regulates certification authorities
+
+**Board may appoint self-containment certification authority**
+
+### 87C Board may appoint self-containment certification authority
+(1) A person may apply to the Board to be appointed as a self-containment certification authority.
+(2) A person who makes an application must—
+  (a) apply using the form prescribed by regulations (if any); and
+  (b) pay the fee prescribed by regulations (if any).
+(3) The Board—
+  (a) must appoint the person as a self-containment certification authority if the Board is satisfied that the person will meet the requirements prescribed by regulations for appointment as a self-containment certification authority; and
+  (b) must follow any process prescribed by regulations for appointing a person as a self-containment certification authority.
+(4) Subsection (3)﻿(a) is subject to any action taken by the Board under section 87Q that precludes a person from being appointed as a self-containment certification authority.
+
+### 87D Duration of appointment as self-containment certification authority
+(1) An appointment as a self-containment certification authority is valid for 5 years.
+(2) An appointment begins on the date on which the Board appoints the person as a self-containment certification authority.
+(3) The Board may revoke or suspend an appointment in accordance with section 87Q.
+
+### 87E Board may reappoint self-containment certification authority
+(1) A person appointed as a self-containment certification authority may apply to the Board to be reappointed as a self-containment certification authority.
+(2) Sections 87C(2) to (4) and 87D apply with any necessary modifications.
+(3) A person whose existing appointment as a self-containment certification authority is currently revoked or suspended in accordance with section 87Q may not make an application under subsection (1).
+(4) If a person has applied under subsection (1) but the Board has not granted or declined the application before the person’s existing appointment ends, then—
+  (a) the existing appointment continues in force until the Board has dealt with the application; and
+  (b) any renewal must take effect from the date on which the existing appointment would (but for the reappointment) have ended.
+
+**Board may prescribe requirements for motor vehicle inspections**
+
+### 87F Board may prescribe requirements for motor vehicle inspections
+(1) The Board may, by notice, prescribe requirements relating to how motor vehicle inspections arranged by certification authorities under section 87U(3) must be carried out.
+(2) In prescribing the requirements, the Board must be guided by the following principles:
+  (a) the requirements must be necessary to provide for motor vehicle inspections to be carried out to a consistently high standard:
+  (b) the requirements may not impose undue costs on certification authorities or motor vehicle inspectors, or on the public.
+(3) A notice made under subsection (1) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+
+### 87G Board must consult before making notices
+(1) The Board must consult in accordance with this section before making a notice under section 87F.
+(2) The Board must consult the following persons about its proposal for the contents of the notice:
+  (a) any person whom the Board considers able to represent the views of either or both of the following:
+    (i) certification authorities:
+    (ii) motor vehicle inspectors:
+  (b) any organisation—
+    (i) that the Board considers will be substantially affected by the proposal; or
+    (ii) whose members the Board considers will be substantially affected by the proposal.
+(3) A failure to comply with this section does not affect the validity of any notice made under section 87F.
+
+### 87H Notices under section 87F must be approved by Minister
+(1) Section 34 applies, with any necessary modifications, as if the notice referred to in that section were a notice made under section 87F.
+(2) In applying section 34,—
+  (a) the references to section 28 or 30 must be read as references to section 87F:
+  (b) Minister must be read as having the meaning given in paragraph (a) of the definition of Minister in section 4.
+
+**Board may consider complaints and conduct investigations**
+
+### 87I Complaining about self-containment certification authority
+(1) A person may complain to the Board about a self-containment certification authority.
+(2) A complaint must be made on 1 or more of the following grounds:
+  (a) the self-containment certification authority has allegedly failed, or is failing, without good reason to properly carry out 1 or more of its core functions:
+  (b) the self-containment certification authority has been, or is, negligent in carrying out 1 or more of its core functions:
+  (c) the self-containment certification authority has been, or is, carrying out 1 or more of its core functions improperly.
+
+### 87J Procedure if Board deciding whether to accept or decline complaint
+(1) The Board must, as soon as practicable after receiving a complaint,—
+  (a) inform the self-containment certification authority concerned of the complaint; and
+  (b) decide whether to accept or decline the complaint.
+(2) If the Board has received a complaint but has not yet decided whether to accept or decline the complaint, then—
+  (a) the Board is not required to seek any information or submission from the self-containment certification authority; and
+  (b) the self-containment certification authority is not entitled to submit any information or submission, unless requested to do so by the Board.
+(3) The Board must, immediately after making a decision under subsection (1),—
+  (a) give written notice of the decision to the person who made the complaint and the self-containment certification authority concerned; and
+  (b) if the Board decides to accept the complaint, investigate the complaint.
+(4) The Board may decline to accept, and is not required to investigate, a complaint that it considers vexatious or frivolous.
+
+### 87K Board may conduct investigation on own initiative
+(1) If the Board considers that there are reasonable grounds for believing that any of the grounds specified in section 87I(2) applies, the Board may decide to investigate the matter—
+  (a) on its own initiative; and
+  (b) without a complaint under section 87I being made.
+(2) The Board must, immediately after making a decision under subsection (1),—
+  (a) give written notice of the decision to the self-containment certification authority concerned; and
+  (b) investigate the matter.
+
+### 87L Procedure if Board investigates complaint or matter
+(1) This section applies if the Board investigates—
+  (a) a complaint under section 87I; or
+  (b) a matter on its own initiative under section 87K.
+(2) The Board must, in the notice to the self-containment certification authority given under section 87J(3) or 87K(2), as applicable,—
+  (a) state that the Board has reason to believe that 1 or more grounds exist entitling it to exercise the disciplinary powers under section 87Q; and
+  (b) provide particulars that will clearly inform the self-containment certification authority of the ground or grounds; and
+  (c) give the self-containment certification authority a reasonable opportunity to make written submissions on the complaint or matter.
+(3) The Board must consider any written submissions that the self-containment certification authority makes.
+(4) A self-containment certification authority’s failure to make written submissions after being given a reasonable opportunity to do so does not limit the Board in investigating or determining the complaint or matter.
+
+### 87M Powers of inspection to investigate complaint
+Use of powers of inspection
+(1) The Board may use the powers in this section for the purpose of investigating a self-containment certification authority if—
+  (a) the Board has accepted a complaint made under section 87I about the self-containment certification authority; or
+  (b) the Board is conducting an investigation on its own initiative under section 87K.
+(2) The Board must, before using the powers in this section, give reasonable notice in writing to the self-containment certification authority concerned of—
+  (a) the Board’s intention to use the powers; and
+  (b) the reasons why the Board intends to use the powers.
+Powers of inspection
+(3) The Board may authorise a person—
+  (a) to inspect, at any reasonable time, any premises (not being a dwellinghouse or marae) occupied by the self-containment certification authority; and
+  (b) to enter and re-enter any place for the purpose of conducting the inspection authorised by paragraph (a).
+(4) The Board may do 1 or more of the following:
+  (a) require the self-containment certification authority to produce for inspection, within a reasonable period that the Board may specify, a document or class of document in the possession or under the control of the self-containment certification authority:
+  (b) take copies of, or extracts from, any documents produced:
+  (c) require the self-containment certification authority to provide, within any reasonable period that the Board specifies, any information or class of information that the Board requires.
+
+### 87N Conditions on use of powers of inspection
+(1) The powers specified in section 87M(3) and (4) may be exercised only for the purpose of ensuring that the self-containment certification authority is meeting the requirements prescribed by regulations for appointment as a self-containment certification authority.
+(2) A person must give reasonable notice of that person’s intention to enter any premises under section 87M(3) to the self-containment certification authority, unless the giving of the notice would defeat the purpose of the entry.
+(3) A person must, on entering any premises under section 87M(3), and when requested at any subsequent time, produce—
+  (a) evidence of that person’s authority to enter the premises; and
+  (b) evidence of that person’s identity.
+(4) Nothing in section 87M authorises any person to enter or search any restricted area within a defence area (within the meaning of the Defence Act 1990) unless the person entering that area has a security clearance approved by the person in charge of the area.
+
+### 87O Information received from Registrar of Motor Vehicles
+(1) This section applies to information the Board receives from the Registrar of Motor Vehicles in accordance with the following provisions of the Privacy Act 2020:
+  (a) section 172:
+  (b) Schedule 4.
+(2) The Board may use the information for 1 or more of the following purposes:
+  (a) to assess whether a self-containment certification authority has issued a certificate of self-containment appropriately, in respect of a specific motor vehicle:
+  (b) to investigate—
+    (i) complaints received under section 87I:
+    (ii) a matter on the Board’s own initiative under section 87K.
+(3) The Board may direct the Registrar to update the register of self-contained motor vehicles as a result of any information received from the Registrar of Motor Vehicles.
+
+**Board’s enforcement powers**
+
+### 87P When Board may take disciplinary action under section 87Q
+(1) This section applies if the Board, after conducting an investigation and considering the submissions made by a self-containment certification authority (if any), is satisfied that the self-containment certification authority—
+  (a) has failed without good reason to properly carry out 1 or more of the self-containment certification authority’s core functions:
+  (b) has been negligent in carrying out 1 or more of those core functions:
+  (c) has been guilty of misconduct in carrying out 1 or more of those core functions.
+(2) The Board may take any of the actions referred to in section 87Q(1) if it is satisfied that the self-containment certification authority—
+  (a) obtained an appointment as a self-containment certification authority by making a false or misleading representation or declaration (whether oral or written); or
+  (b) was not, at the times of its appointment as a self-containment certification authority, entitled to be appointed as a self-containment certification authority; or
+  (c) has failed to ensure that a motor vehicle inspection done by a motor vehicle inspector appointed by that self-containment certification authority complied with requirements prescribed by regulations and notices issued by the Board under section 87F; or
+  (d) has, without good reason,—
+    (i) purported to appoint a motor vehicle inspector without complying with section 87T(1); or
+    (ii) purported to issue a certificate of self-containment without complying with section 87U; or
+    (iii) provided a warrant card without complying with section 87X(1)﻿(b).
+(3) The Board may take any of the actions referred to in section 87Q(1) if a self-containment certification authority—
+  (a) obstructs or prevents the Board from exercising its powers under section 87M(3); or
+  (b) fails to comply with a requirement imposed on the self-containment certification authority by the Board under section 87M(4)﻿(a) or (c).
+
+### 87Q Disciplinary action Board may take in relation to self-containment certification authority
+(1) In any case to which section 87P applies, the Board may—
+  (a) do both of the following things:
+    (i) order that the appointment as a self-containment certification authority be revoked; and
+    (ii) order that the person may not apply to be appointed as a self-containment certification authority before the expiry of a specified period:
+  (b) order that the appointment as a self-containment certification authority be suspended—
+    (i) for any period that the Board thinks fit; or
+    (ii) until the person does any things that the Board specifies:
+  (c) order that the self-containment certification authority be censured:
+  (d) order the self-containment certification authority to pay a fine not exceeding $10,000:
+  (e) order the self-containment certification authority to take remedial action—
+    (i) within a specified period of time; and
+    (ii) subject to any conditions that the Board specifies:
+  (f) make no order under this subsection.
+(2) The Board may take only 1 type of action in subsection (1) in relation to a case, except that it may impose a fine under subsection (1)﻿(d) in addition to taking the action under subsection (1)﻿(b) or (c).
+(3) The Board may not impose a fine under subsection (1)﻿(d) in relation to an act or omission that constitutes—
+  (a) an offence for which the person has been convicted by a court; or
+  (b) an infringement offence for which the person has been issued with an infringement notice and has paid an infringement fee or a fine imposed by a court.
+(4) The Board may take an action under this section whether or not the person still holds a current appointment as a self-containment certification authority.
+
+### 87R Board must give self-containment certification authority reasonable opportunity to be heard
+Before taking any of the actions referred to in section 87Q(1), the Board must—
+  (a) inform the self-containment certification authority concerned that it may take any of those actions, and why; and
+  (b) give that person a reasonable opportunity to make written submissions and be heard on the question, either personally or through that person’s representative.
+
+### 87S Miscellaneous provisions concerning actions under section 87Q(1)
+(1) Every fine imposed under section 87Q(1) is recoverable in any court of competent jurisdiction as a debt due to the Board.
+(2) An order under section 87Q(1) takes effect on the day after the date on which the order was made.
+Effect of suspension of self-containment certification authority on that authority
+(3) If a person’s appointment as a self-containment certification authority is suspended under section 87Q(1)﻿(b), the person may not—
+  (a) appoint any person as a motor vehicle inspector in accordance with section 87T; or
+  (b) arrange for a motor vehicle inspector to carry out a motor vehicle inspection under section 87U(3); or
+  (c) issue a certificate of self-containment in accordance with section 87U(4).
+(4) At the end of a period of suspension, the person’s appointment as a self-containment certification authority is immediately revived.
+(5) Subsection (4) does not apply if there is some other ground to suspend or revoke that person’s appointment as a self-containment certification authority.
+Effect of suspension of self-containment certification authority on motor vehicle inspectors
+(6) A motor vehicle inspector appointed by a self-containment certification authority that has been suspended under section 87Q(1)﻿(b)—
+  (a) may be appointed as a motor vehicle inspector under section 87T(1) by a person holding an existing appointment as a self-containment certification authority; and
+  (b) if so appointed, may carry out a motor vehicle inspection under section 87U(3).
+
+### Subpart 2 — Certification authorities
+
+**Self-containment certification authority may appoint motor vehicle inspector**
+
+### 87T Appointing motor vehicle inspectors
+(1) A self-containment certification authority may appoint as a motor vehicle inspector any person who meets the requirements prescribed by regulations for appointment as a motor vehicle inspector.
+(2) Any requirements prescribed by regulations in accordance with subsection (1) must include requirements that relate to the competence of a motor vehicle inspector.
+
+**Self-containment certification authority may issue, renew, or revoke certificate of self-containment**
+
+### 87U Self-containment certification authority may issue certificate of self-containment
+(1) A person may apply to a self-containment certification authority for a certificate of self-containment for a motor vehicle.
+(2) The self-containment certification authority may accept or decline the application.
+(3) If the self-containment certification authority accepts the application, it must—
+  (a) arrange for a motor vehicle inspector appointed by the authority to carry out a motor vehicle inspection of the vehicle; and
+  (b) ensure that the inspection is carried out in accordance with requirements prescribed by regulations, and by notices issued by the Board under section 87F; and
+  (c) consider the findings of the inspection; and
+  (d) issue a certificate of self-containment if it is satisfied of the specified matters.
+(4) In this section, the specified matters are that—
+  (a) the vehicle is equipped with a toilet that is—
+    (i) permanently fixed to the vehicle; and
+    (ii) usable within the vehicle; and
+  (b) the vehicle meets the requirements for self-containment prescribed by regulations; and
+  (c) the person applying for the certificate has paid any required levy prescribed by regulations.
+
+### 87V Self-containment certification authority may renew certificate of self-containment
+(1) A person may apply to any self-containment certification authority to renew a current certificate of self-containment.
+(2) The self-containment certification authority must—
+  (a) follow the process specified in section 87U(3); and
+  (b) renew the certificate of self-containment if it is satisfied that the criteria specified in section 87U(4) are met.
+
+### 87W Self-containment certification authority may revoke certificate of self-containment
+(1) A self-containment certification authority may revoke a current certificate of self-containment that it has previously issued if the authority is satisfied of either or both of the following:
+  (a) the motor vehicle that holds the certificate of self-containment does not meet the requirements for self-containment prescribed by regulations:
+  (b) the authority issued the certificate on the basis of incorrect or incomplete information.
+(2) The self-containment certification authority must notify in writing the owner of the motor vehicle of the authority’s decision to revoke a certificate of self-containment.
+
+**Certificates of self-containment**
+
+### 87X Form of certificate of self-containment
+(1) A certificate of self-containment—
+  (a) must be in the form prescribed by regulations; and
+  (b) must be accompanied by a warrant card that—
+    (i) states that the motor vehicle has been issued with a certificate of self-containment; and
+    (ii) is in the form prescribed by regulations.
+(2) A certificate of self-containment is valid for a period not exceeding 4 years and expires on the expiry date specified on the certificate.
+(3) However, a certificate of self-containment ceases to be valid if 1 or more of the following circumstances applies:
+  (a) the motor vehicle to which the certificate applies undergoes a material modification to 1 or more of the critical self-containment elements prescribed by regulations:
+  (b) a self-containment certification authority revokes a certificate in accordance with section 87W.
+
+### 87Y What to do with certificate of self-containment and warrant card
+(1) This section applies if a person is using a motor vehicle that has been issued with a certificate of self-containment to freedom camp.
+(2) The person must—
+  (a) keep the certificate of self-containment with the vehicle; and
+  (b) display the warrant card associated with that certificate in accordance with—
+    (i) sections 10(4), 15(2), and 19A(2) of the Freedom Camping Act 2011; and
+    (ii) requirements prescribed by regulations.
+
+### Subpart 3 — Register of self-contained motor vehicles
+
+**Purpose, contents, and form of register**
+
+### 87Z Register of self-contained motor vehicles
+(1) The Board must establish and maintain, in accordance with this subpart, a register of self-contained motor vehicles.
+(2) The register must be kept by the Registrar.
+
+### 87ZA Purpose of register
+The purpose of the register is—
+  (a) to enable the Board to ascertain any of the information contained on the register; and
+  (b) to enable members of the public to ascertain the following information about a specific motor vehicle:
+    (i) whether the motor vehicle holds a current certificate of self-containment:
+    (ii) whether the motor vehicle has previously held a certificate of self-containment that has subsequently expired or been revoked:
+    (iii) the expiry date of the motor vehicle’s current, expired, or revoked certificate of self-containment; and
+  (c) to enable a self-containment certification authority to ascertain the following information:
+    (i) the information specified in paragraph (b):
+    (ii) the details of all certificates of self-containment issued by that self-containment certification authority:
+    (iii) all the information contained in a motor vehicle’s certificate of self-containment:
+    (iv) the details of any motor vehicle inspection of the vehicle carried out in accordance with section 87U(3); and
+  (d) to enable an enforcement officer to ascertain the following information about a specific motor vehicle:
+    (i) the information specified in paragraphs (b) and (c)﻿(iii) and (iv):
+    (ii) information recorded by an enforcement officer about the vehicle under section 87ZE.
+
+### 87ZB Matters to be contained in register
+(1) The register must contain all of the following information, to the extent that the information is relevant, for each motor vehicle issued with a certificate of self-containment:
+  (a) the name and address of the owner of the motor vehicle:
+  (b) the numbers, letters, and any other distinguishing mark shown on the registration plates of the motor vehicle or, if the motor vehicle does not have registration plates, details about the make and model of the motor vehicle:
+  (c) the name of the self-containment certification authority that issued the certificate of self-containment:
+  (d) the date on which the self-containment certification authority issued the certificate of self-containment:
+  (e) the expiry date of the certificate of self-containment:
+  (f) the maximum number of people for which the motor vehicle is certified for use as a self-contained motor vehicle:
+  (g) the unique number shown on the certificate of self-containment and warrant card issued to the motor vehicle.
+(2) The register may contain the following information for each motor vehicle issued with a certificate of self-containment:
+  (a) details of the motor vehicle inspection of the vehicle carried out in accordance with section 87U(3):
+  (b) information recorded by an enforcement officer about the vehicle under section 87ZE:
+  (c) any other information or documentation that the Registrar considers necessary or desirable for the purposes of the register.
+
+### 87ZC Application of certain sections about register of plumbers, gasfitters, and drainlayers
+(1) Sections 73 and 81 apply, with any necessary modifications, as if the register referred to in those sections were the register of self-contained motor vehicles established under section 87Z.
+(2) In applying section 81, the reference to section 74 must be read as a reference to section 87ZB.
+
+**Who may enter information in register**
+
+### 87ZD Self-containment certification authority must enter matters in register
+A self-containment certification authority that issues, renews, or revokes a certificate of self-containment must—
+  (a) enter in the register the information and documentation referred to in section 87ZB(1); and
+  (b) make any other entries in the register that may be required, permitted, or directed to be entered by or under this Act.
+
+### 87ZE Enforcement officer may enter matters in register
+(1) This section applies if a motor vehicle has been used in the commission of an offence under section 20, 20A, 20B, or 20C of the Freedom Camping Act 2011.
+(2) An enforcement officer may enter in the register any information about the vehicle that the officer considers relevant.
+
+**Who may access register**
+
+### 87ZF Access to information on register
+(1) This section specifies who may access the information contained on the register.
+Board
+(2) The Board may access the register for the purpose specified in section 87ZA(a).
+Public access
+(3) Any person may access the register for the purpose specified in section 87ZA(b).
+Certification authorities
+(4) Any self-containment certification authority may access the register for the purpose specified in section 87ZA(c).
+Enforcement officers
+(5) Any enforcement officer may access the register for the purpose specified in section 87ZA(d).
+
+### 87ZG Searching the register
+The register may be searched only—
+  (a) for a purpose specified in section 87ZA; and
+  (b) by reference to the different classes of information specified in section 87ZB.
+
+### 87ZH When search constitutes interference with privacy of individual
+A search of the register for personal information that has not been carried out in accordance with sections 87ZF and 87ZG constitutes an action that is an interference with the privacy of an individual under section 69 of the Privacy Act 2020.
+
 ## Part 3 — Discipline and offences
 
 ### Subpart 1 — Discipline
@@ -1277,7 +1633,7 @@ Every person commits an offence and is liable on conviction to a fine not exceed
 ### 124 Offence to fail to comply with condition of employer licence
 Every person who, being the holder of an employer licence, fails to comply with any condition of that licence commits an offence and is liable on conviction to a fine not exceeding $50,000 in the case of an individual, or $250,000 in the case of a body corporate.
 
-### 125 Other offences
+### 125 Other offences related to sanitary plumbing, drainlaying, or gasfitting
 (1) Every person commits an offence and is liable on conviction to a fine not exceeding $10,000 who—
   (a) intentionally or negligently does or causes or permits to be done any sanitary plumbing or drainlaying in a manner that is dangerous to life; or
   (b) knowingly permits or pays any person to do any sanitary plumbing or drainlaying in breach of section 8 or 10; or
@@ -1290,6 +1646,15 @@ Every person who, being the holder of an employer licence, fails to comply with 
   (d) intentionally hinders or obstructs any authorised person in the exercise of any powers conferred by or under section 69 or 93 or any regulations in relation to any gasfitting.
 (3) Every person commits an offence and is liable on conviction to a fine not exceeding $10,000 who, being in possession of any limited certificate issued under Part 1 or any certificate of registration or licence issued under Part 2, fails or refuses to surrender it to the Board within 10 working days of a written demand to do so by the Registrar.
 (4) A charging document must not be filed under subsection (1)﻿(b) or (2)﻿(b) by any person other than the Registrar or a person authorised in writing in that behalf by the Board.
+
+### 125A Offences relating to regulating self-contained motor vehicles
+(1) A person commits an offence if the person, knowing that they are acting without proper authority, issues any of the following:
+  (a) a certificate of self-containment:
+  (b) a warrant card.
+(2) A person commits an offence if the person, knowing that they are acting without proper authority, falsely represents, expressly or by implication, that the person is a self-containment certification authority when the person is not.
+(3) A person commits an offence if the person intentionally obstructs any authorised person in the exercise of any powers conferred by or under section 87M.
+(4) A person who commits an offence against subsection (1) or (2) is liable on conviction to a fine not exceeding $10,000.
+(5) A person who commits an offence against subsection (3) is liable on conviction to a fine not exceeding $50,000 in the case of an individual, or $250,000 in the case of a body corporate.
 
 ### 126 Certificate by Registrar to be evidence of various matters
 (1) A certificate purporting to be signed by the Registrar in relation to the matters referred to in subsection (2) is, until the contrary is proved, and without proof of the signature appended to the certificate, sufficient evidence of the matters specified in the certificate.
@@ -1398,12 +1763,18 @@ The functions of the Board are—
   (h) to establish criteria for granting, and to grant, exemptions from registration and licensing requirements to persons and classes of persons:
   (i) to authorise persons to do certain things in accordance with Part 1 and to issue limited certificates in proper cases under that Part:
   (j) to renew licences for subsequent terms in proper cases:
-  (k) to promote, monitor, and review the ongoing competency and safe work practices of registered persons, provisional licence holders, and employer licence holders:
+  (k) to promote, monitor, and review—
+    (i) the ongoing competency and safe work practices of registered persons, provisional licence holders, and employer licence holders; and
+    (ii) the ongoing competency and performance of certification authorities:
   (l) to make arrangements for the examination of persons practising or intending to practise the sanitary plumbing or gasfitting or drainlaying trades:
   (m) to present or issue, either independently or in conjunction with any other examining body, diplomas or certificates to persons in recognition of their proficiency in any of those trades:
   (n) to make recommendations to any person or body concerned with the education or training of any person wishing to enter the sanitary plumbing, gasfitting, or drainlaying trades, or with regard to any other matter affecting those trades:
+  (na) to consider applications for appointment as a self-containment certification authority under section 87C, and to appoint persons in proper cases:
   (o) to hear complaints about, and discipline, persons to whom subpart 1 of Part 3 applies:
-  (p) to institute prosecutions against persons for the breach of any legislation relating to sanitary plumbing, gasfitting, or drainlaying:
+  (oa) to hear complaints about or investigate on its own initiative, and discipline, persons appointed as certification authorities in accordance with section 87C:
+  (p) to institute prosecutions against persons for—
+    (i) the breach of any legislation relating to sanitary plumbing, gasfitting, or drainlaying:
+    (ii) the breach of any provisions in this Act relating to self-contained motor vehicles:
   (q) to make recommendations to the Minister with respect to the making of regulations, or the making of regulations controlling sanitary plumbing or drainlaying under the Health Act 1956:
   (r) to exercise and perform any other functions, duties, and powers as are conferred or imposed on the Board by or under this Act or by or under any other enactment:
   (s) to do any other things as may, in the Board’s opinion, be necessary for the effective administration of this Act:
@@ -1899,6 +2270,28 @@ The Acts specified in Schedule 2 are amended in the manner indicated in that sch
   (b) consider whether any amendments to this Act or any other law are necessary or desirable in relation to plumbing, gasfitting, or drainlaying; and
   (c) report on its findings to the Minister.
 (2) The Minister must present a copy of any report provided under this section to the House of Representatives as soon as practicable after receiving it.
+
+## Schedule 1AA — Transitional, savings, and related provisions
+
+### Part 1 — Provisions relating to Self-contained Motor Vehicles Legislation Act 2023
+
+### 1 Interpretation
+In this Part,—
+  - **amendment Act** means the Self-contained Motor Vehicles Legislation Act 2023
+  - **certifying plumber** means a person who is registered as a certifying plumber in accordance with the requirements of the registration notice
+  - **commencement date** means the day after the date on which the amendment Act receives the Royal assent
+  - **registration notice** means the notice currently in force that is made by the Board under sections 28 and 30 designating classes of registration for sanitary plumbing and prescribing matters relating to plumbing registration and licensing
+  - **transitional period** means the period of time that—
+    (a) starts 6 months after the date on which the amendment Act receives the Royal assent; and
+    (b) ends on the day before the date that is 2 years after the commencement date.
+
+### 2 Pre-commencement consultation treated as consultation for purpose of section 172C
+Consultation carried out by the Minister before the commencement date about proposed regulations to be made under section 172(1A), 172A(1), or 172B(2) is treated as consultation for the purpose of section 172C(1)﻿(a) and (2).
+
+### 3 Certifying plumber deemed to be self-containment certification authority and motor vehicle inspector
+During the transitional period, a certifying plumber is deemed to be—
+  (a) a self-containment certification authority, as if the certifying plumber had been appointed as such by the Board under section 87C(3); and
+  (b) a motor vehicle inspector, as if the certifying plumber had been appointed as such by a self-containment certification authority under section 87T(1).
 
 ## Schedule 1 — Provisions applying to Plumbers, Gasfitters, and Drainlayers Board and its members
 
