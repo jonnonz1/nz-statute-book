@@ -1,5 +1,5 @@
 # Electoral Act 1993
-_Consolidation as at 2023-07-01_
+_Consolidation as at 2023-12-09_
 
 > An Act to reform the electoral system and to provide, in particular, if the proposal for the introduction of the mixed member proportional system is carried at the referendum held under the Electoral Referendum Act 1993,—afor the introduction of the mixed member proportional system of representation in relation to the House of Representatives:bfor the establishment of an Electoral Commission:cfor the repeal of the Electoral Act 1956
 
@@ -1314,8 +1314,8 @@ Effect of exercise of option
 
 ### 80 Disqualifications for registration
 (1) The following persons are disqualified for registration as electors:
-  (a) a New Zealand citizen who (subject to subsection (3)) is outside New Zealand and has not been in New Zealand within the last 6 years:
-  (b) a permanent resident of New Zealand (not being a New Zealand citizen) who (subject to subsection (3)) is outside New Zealand and has not been in New Zealand within the last 4 years:
+  (a) a New Zealand citizen who (subject to subsection (3)) is outside New Zealand and has not been in New Zealand within the last 3 years:
+  (b) a permanent resident of New Zealand (not being a New Zealand citizen) who (subject to subsection (3)) is outside New Zealand and has not been in New Zealand within the last 12 months:
   (c) a person who is detained in a hospital under the Mental Health (Compulsory Assessment and Treatment) Act 1992 or in a secure facility under the Intellectual Disability (Compulsory Care and Rehabilitation) Act 2003, and to whom one of the following applies:
     (i) the person has been found by a court or a Judge to be unfit to stand trial within the meaning of the Criminal Procedure (Mentally Impaired Persons) Act 2003, or has been acquitted on account of his or her insanity, and (in either case) is detained under an order or direction under section 24 or section 31 or section 33 of that Act or under the corresponding provisions of the Criminal Justice Act 1985 and has been so detained for a period exceeding 3 years:
     (ii) the person has been found by a court, on conviction of any offence, to be mentally impaired, and is detained under an order made under section 34 of the Criminal Procedure (Mentally Impaired Persons) Act 2003 or section 118 of the Criminal Justice Act 1985, and has been so detained for a period exceeding 3 years:
